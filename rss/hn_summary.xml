@@ -4,7 +4,47 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 29 Nov 2023 08:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 09:10:26 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] PgAdmin 4 v8.</title>
+      <link>https://t.me/hn_summary/61325</link>
+      <description><![CDATA[PgAdmin 4 v8.0
+pgAdmin 开发团队发布了 pgAdmin 4 8.0 版，其中包括 29 个错误修复和新功能。此版本中的显着变化包括用 ReactJS 替换布局库、更改面板选项卡上的上下文菜单以及允许关闭所有选项卡。建议用户手动卸载以前的版本以实现无缝过渡。其他版本（例如版本 7.8、7.7、7.6、7.5、7.4、7.3 和 7.2）也提供了自己的错误修复和新功能。 （根据故事文本的 10% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/61325</guid>
+      <pubDate>Wed, 29 Nov 2023 09:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]桌面GUI是一种高效、充实的人机交互方式</title>
+      <link>https://t.me/hn_summary/61324</link>
+      <description><![CDATA[桌面 GUI 是一种高效且充实的人机交互方式&lt; /a&gt;
+该网页内容的作者认为桌面 GUI 是最有效、最令人满意的人机交互方式。他们认为，向基于网络的应用程序和云计算的转变带来了一些问题，包括臃肿、专制软件的入侵、使用互联网作为宣传工具以及 JavaScript 的低效使用。他们建议恢复使用桌面应用程序可以缓解这些问题，因为开源桌面应用程序比网站更值得信赖。作者鼓励读者赞美桌面应用程序，并强调它们是经典且永恒的。]]></description>
+      <guid>https://t.me/hn_summary/61324</guid>
+      <pubDate>Wed, 29 Nov 2023 08:36:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]华盛顿邮报将暂停在X上的广告</title>
+      <link>https://t.me/hn_summary/61323</link>
+      <description><![CDATA[《华盛顿邮报》将暂停在 X 上的广告&lt; br/&gt;
+《华盛顿邮报》宣布，在其所有者埃隆·马斯克 (Elon Musk) 最近信奉阴谋论后，将暂停在 X 上投放广告。马斯克对被揭穿的“披萨门”阴谋论和反犹太主义阴谋论的支持，给X（前身为Twitter）带来了争议和经济损失。虽然发言人没有透露《华盛顿邮报》在 X 上投放广告的金额，但他们确认该决定立即生效，广告应该很快就会停止在马斯克的平台上投放。 Twitter尚未对此公告做出回应。]]></description>
+      <guid>https://t.me/hn_summary/61323</guid>
+      <pubDate>Wed, 29 Nov 2023 08:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript：双按位非 (~~)</title>
+      <link>https://t.me/hn_summary/61322</link>
+      <description><![CDATA[JavaScript：双按位非 (~~)&lt; br/&gt;
+作者讨论了 JavaScript 位运算符的有用性，特别是双位非运算符 (~~)。他们解释说 ~~ 运算符可用于将数字舍入为零并标准化预期为整数的参数。作者提供了如何使用 ~~ 的示例，并将其与其他舍入方法进行了比较。他们希望~~能够成为JavaScript社区中的一项众所周知的技术。作者鼓励读者在 Twitter 上分享他们的想法。]]></description>
+      <guid>https://t.me/hn_summary/61322</guid>
+      <pubDate>Wed, 29 Nov 2023 08:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Google Chrome 紧急更新修复 2023 年第 6 个零日漏洞</title>
+      <link>https://t.me/hn_summary/61321</link>
+      <description><![CDATA[Google Chrome 紧急更新修复了 2023 年第 6 个零日漏洞
+谷歌发布了紧急安全更新，修复了今年谷歌浏览器中的第六个零日漏洞。该漏洞被称为 CVE-2023-6345，在攻击中被积极利用。该更新已向 Windows、Mac 和 Linux 用户推出，可能需要数天或数周的时间才能覆盖所有用户。该漏洞与 Skia 开源 2D 图形库中的整数溢出漏洞有关，ChromeOS、Android 和 Flutter 等多种产品都使用该库。 Google 威胁分析小组 (TAG) 报告了该错误，并限制对其详细信息的访问，直到大多数用户更新其浏览器。]]></description>
+      <guid>https://t.me/hn_summary/61321</guid>
+      <pubDate>Wed, 29 Nov 2023 08:17:37 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]BBC Basic 多平台回归，开源</title>
       <link>https://t.me/hn_summary/61320</link>
@@ -25,7 +65,7 @@ Python Type Challenges 是一个在线平台，旨在帮助用户通过一系列
       <title>[媒体] Show HN：自助 GitHub Skyline（因为实际的已停止工作）</title>
       <link>https://t.me/hn_summary/61318</link>
       <description><![CDATA[显示 HN：自助 GitHub Skyline （因为实际停止了工作）
-该项目是 GitHub skyline 项目的替代品。该项目的目的是提供一个自助式 GitHub 天际线，因为实际的天际线已停止工作。该项目允许用户克隆存储库、设置访问令牌并在本地运行应用程序。它提供了有关如何使用项目和可用脚本来运行、测试和构建应用程序的说明。作者提到这个项目是对原来的 GitHub skyline 的替代，并为想要继续使用该功能的用户提供了解决方案。]]></description>
+该项目是 GitHub skyline 项目的替代品。该项目的目的是提供一个自助式 GitHub 天际线，因为实际的天际线已停止工作。该项目允许用户克隆存储库、设置访问令牌并在本地运行应用程序。它提供了有关如何使用项目和可用脚本来运行、测试和构建应用程序的说明。作者提到该项目是对原有 GitHub skyline 的替代，为想要继续使用该功能的用户提供了解决方案。]]></description>
       <guid>https://t.me/hn_summary/61318</guid>
       <pubDate>Wed, 29 Nov 2023 07:22:55 GMT</pubDate>
     </item>
@@ -33,7 +73,7 @@ Python Type Challenges 是一个在线平台，旨在帮助用户通过一系列
       <title>[媒体] 马克·库班 (Mark Cuban) 正在制作《3 美元》。</title>
       <link>https://t.me/hn_summary/61317</link>
       <description><![CDATA[马克·库班 (Mark Cuban) 致力于将达拉斯小牛队 (Dallas Mavericks) 以 3.5 亿美元的价格出售给金沙赌场家族
-据报道，达拉斯小牛队老板马克·库班正在就将 NBA 球队的多数股权出售给经营拉斯维加斯金沙赌场公司的家族进行谈判。据称，这笔潜在交易的价值约为 35 亿美元，将使库班保留对篮球业务的控制权。这个由米里亚姆·阿德尔森 (Miriam Adelson) 控制的家族最近宣布出售 20 亿美元的股票，以购买一支职业运动队。库班表示有兴趣与金沙集团合作，并一直倡导德克萨斯州赌博合法化。此次出售需要得到 NBA 的批准，并且可能需要几周的时间来处理。]]></description>
+据报道，达拉斯小牛队老板马克·库班正在商谈将 NBA 球队的多数股权出售给经营拉斯维加斯金沙赌场公司的家族。据称，这笔潜在交易的价值约为 35 亿美元，将使库班保留对篮球业务的控制权。由米里亚姆·阿德尔森 (Miriam Adelson) 控制的家族最近宣布出售 20 亿美元的股票，以购买一支职业运动队。库班表示有兴趣与金沙集团合作，并一直倡导德克萨斯州赌博合法化。此次出售需要得到 NBA 的批准，并且可能需要几周的时间来处理。]]></description>
       <guid>https://t.me/hn_summary/61317</guid>
       <pubDate>Wed, 29 Nov 2023 07:18:46 GMT</pubDate>
     </item>
@@ -44,46 +84,6 @@ Python Type Challenges 是一个在线平台，旨在帮助用户通过一系列
 在明尼苏达州伯米吉，邮政工作人员被命令优先投递亚马逊包裹后，当地邮局爆发了混乱。包裹的突然涌入导致邮件延迟数日，居民们不得不等待重要文件和支票。原本需要 8 到 9 个小时的路线现在需要 10 到 12 个小时。至少有 5 家承运商已经退出，邮局也禁止在今年剩余时间安排病假。邮政工人感到沮丧和不知所措，其中一人甚至举行了象征性罢工。这个问题并非伯米吉独有，全国各地的农村社区都因邮政服务与亚马逊的合同而遭受类似的破坏。]]></description>
       <guid>https://t.me/hn_summary/61316</guid>
       <pubDate>Wed, 29 Nov 2023 07:12:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Unity Software 通过“公司重置”退出电影视觉特效和 Wētā 交易</title>
-      <link>https://t.me/hn_summary/61315</link>
-      <description><![CDATA[Unity 软件通过“公司重置”摆脱电影 VFX 和Wētā交易
-Unity Software 宣布了“公司重置”，其中包括裁减 265 个职位，并终止与 Peter Jackson 创立的数字视频特效公司 Wētā FX 的协议。就在几个月前，Unity 收购了 Wētā Digital 的工具和工程人才。该协议的终止将导致与该交易相关的员工被裁员。 Unity决定重新将精力集中在核心业务上，以及股价下跌被认为是促成这一举措的因素。该公司还将关闭多个地点的办事处，并减少其他地点的办事处占地面积。]]></description>
-      <guid>https://t.me/hn_summary/61315</guid>
-      <pubDate>Wed, 29 Nov 2023 06:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]查理·芒格的《人类误判心理学》[pdf](https://news.</title>
-      <link>https://t.me/hn_summary/61314</link>
-      <description><![CDATA[查理·芒格的《人类误判心理学》[pdf](https: //news.ycombinator.com/item?id=38455957)
-在这篇发人深省的文章中，著名投资者和沃伦·巴菲特的商业伙伴查理·芒格深入探讨了人类误判背后的心理。芒格探讨了经常导致我们在决策过程中误入歧途的各种认知偏差和心理模式。他强调了了解这些偏见以做出更好的选择并避免代价高昂的错误的重要性。芒格的见解揭示了人类易犯错误这个有争议的话题，并挑战了传统智慧。对于任何有兴趣了解人类行为的复杂性并提高决策技能的人来说，这篇文章都是必读的。]]></description>
-      <guid>https://t.me/hn_summary/61314</guid>
-      <pubDate>Wed, 29 Nov 2023 06:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]干草叉正在为我们富豪而来 (2014)</title>
-      <link>https://t.me/hn_summary/61313</link>
-      <description><![CDATA[干草叉正在向我们财阀袭来 (2014) 
-这篇文章由西雅图企业家尼克·哈瑙尔 (Nick Hanauer) 撰写，是一份写给他的富人同胞的备忘录。哈瑙尔承认自己作为资本家的成功以及他由此获得的回报。然而，他警告说，该国日益严重的不平等是一个需要解决的问题。哈瑙尔预测，如果贫富差距继续扩大，将会出现社会动荡和革命。他认为解决这个问题符合富人的最大利益，并建议实施有利于中产阶级的政策。哈瑙尔用历史上的例子和他自己的经历来支持他的论点。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/61313</guid>
-      <pubDate>Wed, 29 Nov 2023 06:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>致伯克希尔哈撒韦公司的股东</title>
-      <link>https://t.me/hn_summary/61312</link>
-      <description><![CDATA[致伯克希尔哈撒韦公司 (1989) 的股东
-作者首先指出，1989年伯克希尔哈撒韦公司的净资产增加了15.15亿美元，增长率为44.4%。他们强调，自现任管理层接任以来，每股账面价值每年以 23.8% 的速度增长。作者强调了内在价值的重要性，内在价值是通过按现行利率贴现企业的所有未来现金流量来计算的。他们指出，由于业务价值的增加，伯克希尔的内在商业价值已经超过了账面价值的增长。作者还讨论了税收对其收益的影响以及长期投资策略的好处。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/61312</guid>
-      <pubDate>Wed, 29 Nov 2023 06:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]希腊总理因英国取消帕台农神庙雕塑争端会议而“恼火”</title>
-      <link>https://t.me/hn_summary/61311</link>
-      <description><![CDATA[希腊总理对英国取消有关帕台农神庙雕塑争端的会议感到“恼火”&lt; /a&gt;
-希腊总理基里亚科斯·米佐塔基斯对因对帕台农神庙雕塑发表评论而在最后一刻取消与英国首相里希·苏纳克的会面表示恼火。米佐塔基斯表示，他对取消感到“恼火”，并强调希腊和英国之间的传统友谊关系。希腊长期以来一直呼吁归还这些雕塑，这些雕塑于 19 世纪被英国外交官埃尔金勋爵移走。米佐塔基斯认为这些雕塑本质上是被盗的，并将这种情况比作将《蒙娜丽莎》切成两半。会议的取消遭到了希腊反对党的批评。]]></description>
-      <guid>https://t.me/hn_summary/61311</guid>
-      <pubDate>Wed, 29 Nov 2023 06:54:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
