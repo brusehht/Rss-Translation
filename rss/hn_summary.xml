@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 29 Nov 2023 15:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 18:07:05 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 罗伯特·P. 的口述历史</title>
-      <link>https://t.me/hn_summary/61362</link>
-      <description><![CDATA[Robert P. Colwell 的口述历史 – Intel IA32 首席架构师 [pdf](https://news.ycombinator.com/item?id=38459128)
-此网页内容是英特尔 IA32 系列微芯片前首席架构师 Robert P. Colwell 的口述历史。这次采访由保罗·N·爱德华兹 (Paul N. Edwards) 主持，内容涵盖了科尔韦尔在英特尔的早期生活、教育和职业生涯。 Colwell 讨论了他的主要成就，包括他在 P6 微架构方面的工作以及他对 RISC/CISC 架构辩论的贡献。他还谈到了英特尔在 80 年代末面临的挑战以及平衡微架构中浮点性能的重要性。内容深入介绍了英特尔微芯片的发展以及 RISC 和 CISC 架构之间正在进行的争论。 （根据故事文字的 2% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/61362</guid>
-      <pubDate>Wed, 29 Nov 2023 15:11:38 GMT</pubDate>
+      <title>[媒体]每笔比特币支付都“使用游泳池的水”</title>
+      <link>https://t.me/hn_summary/61405</link>
+      <description><![CDATA[每笔比特币支付都“使用游泳池的水”
+一项新的研究表明，每笔比特币交易所消耗的水量足以填满一个后院的游泳池，这比典型的信用卡刷卡用水量多了约 600 万倍。用水量是由于全球数百万台支持比特币的计算机的电力和冷却需求。这是令人担忧的，因为许多地区已经面临水资源短缺，而且预计未来情况会进一步恶化。该研究估计，2021年比特币消耗了近1.6万亿升水，并预测2023年这一数字可能超过2.2万亿升。用水量过多主要归因于比特币挖矿过程的能源密集型。然而，比特币运作方式的改变可以显着减少电力和水的消耗。一些专家认为这项研究的结果令人担忧，特别是在已经面临水资源短缺问题的地区。]]></description>
+      <guid>https://t.me/hn_summary/61405</guid>
+      <pubDate>Wed, 29 Nov 2023 18:07:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 使用富有表现力的布尔公式来解释人工智能</title>
-      <link>https://t.me/hn_summary/61361</link>
-      <description><![CDATA[使用富有表现力的布尔公式来解释人工智能
-网络内容讨论了使用富有表现力的布尔公式的可解释人工智能 (AI) 研究的研究问题、设置和结果。该研究重点关注具有不同特征的二元分类数据集，并探索不同的分类器，包括决策树、ILP 分类器和本地本地求解器。结果表明，本地本地规则分类器与其他分类器具有竞争力，取得了与决策树相似的分数。 ILP 分类器需要更长的运行时间，但获得与本地本地求解器相似的分数。该研究还探讨了使用采样和非局部移动来提高分类性能。研究结果表明，数千个样本可能足以使分类器达到稳定的分数。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/61361</guid>
-      <pubDate>Wed, 29 Nov 2023 15:10:09 GMT</pubDate>
+      <title>[媒体]如果我怀疑我收到的其中一篇期刊评论是人工智能生成的，我该怎么办？</title>
+      <link>https://t.me/hn_summary/61404</link>
+      <description><![CDATA[如果我怀疑我收到的其中一篇期刊评论，我该怎么办是AI生成的吗？
+如果您怀疑您收到的期刊评论之一是人工智能生成的，建议联系编辑并解释您的担忧。提供每一点的证据和局限性来支持你的主张。强调同行评审过程的完整性和保护知识产权的重要性。检查期刊网站上是否有关于在同行评审中使用人工智能的明确声明。向编辑保证您不会抗议修改决定，并对他们花时间表示感谢。最终，由编辑决定后续步骤，其中可能包括引入另一位审稿人或维持当前决定。]]></description>
+      <guid>https://t.me/hn_summary/61404</guid>
+      <pubDate>Wed, 29 Nov 2023 18:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人工智能威胁要自动化神职人员</title>
-      <link>https://t.me/hn_summary/61360</link>
-      <description><![CDATA[人工智能威胁要自动化神职人员
-英国教育部的一份报告发现，神职人员是受人工智能自动化威胁最大的职业之一。该报告使用人工智能职业暴露（AIOE）评分，根据工作对人工智能进步的脆弱性进行排名。令人惊讶的是，尽管灵性被视为一种人类现象，但宗教角色在榜单上排名第 13 位。该报告承认，这些估计是基于不确定的假设。神职人员的排名低于电话推销员、律师、心理学家和其他职业。报告还重点介绍了人工智能在法律和心理学领域的应用实例，引发了人们对人工智能在这些领域的可靠性的担忧。]]></description>
-      <guid>https://t.me/hn_summary/61360</guid>
-      <pubDate>Wed, 29 Nov 2023 15:08:59 GMT</pubDate>
+      <title>[媒体]亚马逊高管：尽管没有数据，但现在是“不同意并承诺”办公室回报的时候了</title>
+      <link>https://t.me/hn_summary/61403</link>
+      <description><![CDATA[亚马逊高管：是时候“不同意并承诺”办公室申报表了尽管没有数据
+在一次内部会议上，亚马逊 Prime Video 和亚马逊工作室高级副总裁迈克·霍普金斯 (Mike Hopkins) 敦促员工“不同意并承诺”返回办公室，尽管没有数据支持这一决定。霍普金斯引用了亚马逊的领导原则，该原则鼓励员工遵守公司决策，即使他们不同意。首席执行官安迪·贾西 (Andy Jassy) 和其他高管认为，在办公室在一起可以更好地工作。尽管研究表明远程工作的生产力可能较低，但许多员工仍然更喜欢它提供的灵活性。批评者认为，办公室出勤驱动创造力的观点是有缺陷的，需要新的工作方式来解决生产力和创新问题。]]></description>
+      <guid>https://t.me/hn_summary/61403</guid>
+      <pubDate>Wed, 29 Nov 2023 18:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]罗伯特·萨波尔斯基的《没有自由意志的生命科学》</title>
-      <link>https://t.me/hn_summary/61359</link>
-      <description><![CDATA[罗伯特·萨波尔斯基的《没有自由意志的生命科学》 
-罗伯特·萨波尔斯基在他的著作《没有自由意志的生命科学》中挑战了自由意志和道德责任的信念。他利用各种科学和数学领域，如神经科学、混沌理论和量子力学，论证我们的行为是因果决定的，我们不是主动主体。萨波尔斯基将自由意志定义为需要因果非决定论，这会导致混乱并引发反对相容论的问题。他未能提供决定论的定义，但认为理解行为的神经生物学基础可能会导致道德责任感减弱。萨波尔斯基对相容论的驳斥以及对相容主义哲学家的谩骂引发了人们对其论点严谨性的质疑。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/61359</guid>
-      <pubDate>Wed, 29 Nov 2023 14:59:45 GMT</pubDate>
+      <title>【媒体】苹果占Arm营收不到5%，Arm对此无能为力</title>
+      <link>https://t.me/hn_summary/61402</link>
+      <description><![CDATA[苹果占 Arm 收入的比例不到 5%，而 Arm 可以对此不做任何事情
+一份报告称，苹果向 Arm 支付每台设备不到 30 美分的费用，以获得在其产品中使用基于 Arm 的芯片的权利，这是 Arm 智能手机芯片客户中最低的特许权使用费。因此，苹果仅占 Arm 销售额的不到 5%。软银首席执行官孙正义曾试图迫使苹果支付更多授权费，但没有成功。报道还提到，苹果已经考虑在未来使用竞争技术，这可能对 Arm 造成重大打击。尽管孙正义做出了努力，但 Arm 没有任何筹码向苹果提高费用，因为他们的合同一直持续到 2028 年。]]></description>
+      <guid>https://t.me/hn_summary/61402</guid>
+      <pubDate>Wed, 29 Nov 2023 18:04:42 GMT</pubDate>
     </item>
     <item>
-      <title>U。</title>
-      <link>https://t.me/hn_summary/61358</link>
-      <description><![CDATA[美国去年自杀率创历史新高
-令人震惊的是，去年美国自杀人数激增，创下历史新高。根据国家卫生统计中心的数据，美国的心理健康危机已夺去了近 50,000 人的生命。这一临时数字预计将进一步增加。自杀率为每 10 万人 14.3 人死亡，是 1941 年以来的最高水平。这一令人震惊的统计数据凸显了解决心理健康问题并为有需要的人提供支持的迫切需要。]]></description>
-      <guid>https://t.me/hn_summary/61358</guid>
-      <pubDate>Wed, 29 Nov 2023 14:56:32 GMT</pubDate>
+      <title>[媒体] Okta 黑客在重大泄露中窃取了所有客户支持用户的数据</title>
+      <link>https://t.me/hn_summary/61401</link>
+      <description><![CDATA[Okta 黑客在重大违规行为中窃取了所有客户支持用户的数据
+在一次重大漏洞中，黑客获得了 Okta 客户支持管理系统的访问权限，并窃取了所有客户支持用户的数据。被盗数据包括 Okta 客户支持系统用户的姓名和电子邮件地址，但不包括用户凭据或敏感个人数据。虽然没有直接证据表明这些信息被积极利用，但黑客有可能将其用于网络钓鱼或社会工程攻击。 Okta 建议所有客户采用多重身份验证 (MFA)，并考虑使用防网络钓鱼身份验证器来增强安全性。该公司正在与第三方数字取证公司合作验证他们的发现，并将在完成后与客户分享报告。]]></description>
+      <guid>https://t.me/hn_summary/61401</guid>
+      <pubDate>Wed, 29 Nov 2023 18:03:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]LK-99室温超导神话破灭</title>
-      <link>https://t.me/hn_summary/61357</link>
-      <description><![CDATA[LK-99室温超导神话破灭
-在《Matter》杂志上发表的一项研究中，中国科学院物理研究所的研究人员揭穿了LK-99室温超导的神话。此前，韩国一组科学家声称，LK-99在常压下表现出超导性，临界温度高达127℃。这一消息在科学界和社交媒体上引起了轰动。然而，中国研究人员发现LK-99样品中含有Cu2S杂质，导致电阻率急剧下降，但并没有达到零电阻。他们的结论是，这是一阶结构转变，而不是二阶超导转变。]]></description>
-      <guid>https://t.me/hn_summary/61357</guid>
-      <pubDate>Wed, 29 Nov 2023 14:50:21 GMT</pubDate>
+      <title>[媒体] Adiuvo 推出采用 Spartan 7 FPGA 和 RP2040 的主板</title>
+      <link>https://t.me/hn_summary/61400</link>
+      <description><![CDATA[Adiuvo 推出采用 Spartan 7 FPGA 和 RP2040 的主板&lt; br/&gt;
+Adiuvo Engineering 推出了一款名为 Leonidas 的新型开发板，旨在支持 FPGA 和嵌入式系统开发。该板采用 Spartan 7 FPGA，具有 100 个用户 IO 和 FTGB196 引脚封装。它还包括用于对 FPGA 进行编程的 FTDI232H、用于存储器的 SDRAM 以及用于存储应用数据的 SPI 闪存。该板的与众不同之处在于包含 Raspberry Pi RP2040，它允许 FPGA 充当 IO 扩展器或加速器。该板配有开关、按钮、LED 和三个用于高速差分跟踪的 Pmod。 Adiuvo Engineering 还提供免费的网络研讨会、研讨会和培训课程以供进一步学习。]]></description>
+      <guid>https://t.me/hn_summary/61400</guid>
+      <pubDate>Wed, 29 Nov 2023 17:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] MusicXML</title>
-      <link>https://t.me/hn_summary/61356</link>
-      <description><![CDATA[MusicXML
-MusicXML 是一种在互联网上发布交互式乐谱并与使用不同音乐应用程序的音乐家进行协作的解决方案。它专门设计用于在应用程序之间共享乐谱文件并将其存档以供将来使用。 MusicXML 文件可供多种乐谱应用程序读取和使用，使其成为共享交互式乐谱的标准。凭借超过 260 个支持 MusicXML 的应用程序，音乐家可以在一个程序中创作音乐，并使用不同的程序轻松与其他人共享。通过将音乐保存为 MusicXML 文件，音乐家可以扩大他们的听众和影响范围。]]></description>
-      <guid>https://t.me/hn_summary/61356</guid>
-      <pubDate>Wed, 29 Nov 2023 14:43:10 GMT</pubDate>
+      <title>[媒体] Windows 应用即将到来</title>
+      <link>https://t.me/hn_summary/61399</link>
+      <description><![CDATA[Windows 应用即将推出&lt; br/&gt;
+本文讨论了向远程计算和基于云的桌面即服务 (DaaS) 产品（例如 Windows 365）的转变。作者重点介绍了 Windows 应用程序，它允许用户从不同设备连接到各种远程 Windows 产品，包括 Web浏览器。这意味着用户可以从支持 Linux 的 PC、Chromebook 和 Android 设备运行 Windows。作者还提到，与独立的 Windows 应用程序相比，软件供应商更喜欢基于 Web 的软件即服务 (SaaS) 应用程序。文章指出，微软已经计划将 Windows 迁移到云端一段时间了，Windows App 将使远程访问 Windows 变得更加容易。不过，作者建议谨慎，因为Windows App仍处于测试阶段，在发布之前可能会进行大量修改。]]></description>
+      <guid>https://t.me/hn_summary/61399</guid>
+      <pubDate>Wed, 29 Nov 2023 17:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本汽车制造商在电动汽车竞赛中奋起直追</title>
-      <link>https://t.me/hn_summary/61355</link>
-      <description><![CDATA[日本汽车制造商在电动汽车竞赛中奋起直追&lt; br/&gt;
-日本汽车制造商曾经是全球汽车行业的领导者，现在正在电动汽车 (EV) 竞赛中奋起直追。 2022年电动汽车销量分析显示，特斯拉和比亚迪占据市场领先地位，而日本汽车制造商中只有日产和三菱两家汽车制造商进入前十。电动汽车技术反应缓慢可归因于“创新者困境”和保守态度创新。此外，日本汽车制造商还面临电动汽车电池所需关键矿物稀缺的供应问题。然而，日本汽车工业正在反击，重点关注能源优化和为小型车辆开发可更换电池。对于日本汽车制造商来说，缩减规模可能是重新夺回电动汽车市场主导地位的绝佳机会。]]></description>
-      <guid>https://t.me/hn_summary/61355</guid>
-      <pubDate>Wed, 29 Nov 2023 14:41:03 GMT</pubDate>
+      <title>[媒体]中国280美元，美国8,892美元：中国抗癌新药获FDA批准</title>
+      <link>https://t.me/hn_summary/61398</link>
+      <description><![CDATA[中国280美元，美国8,892美元：中国新癌症药物获得 FDA 批准
+美国食品和药物管理局（FDA）已批准一种名为特瑞普利单抗的中国抗癌新药在美国销售。该药在中国的售价约为 280 美元，在美国的批发价为 8,892 美元。这是中国价格的31倍多。然而，美国的价格仍比最畅销的PD-1抗体药物Keytruda低20%。另外两种中国抗癌药物呋喹替尼和 Efbemalenograstim alfa 也已获得 FDA 批准在美国销售。呋喹替尼在美国的价格将是中国价格的24倍。美国药品价格高的原因是缺乏议价能力。]]></description>
+      <guid>https://t.me/hn_summary/61398</guid>
+      <pubDate>Wed, 29 Nov 2023 17:28:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]如何与你不喜欢的人有效合作</title>
-      <link>https://t.me/hn_summary/61354</link>
-      <description><![CDATA[如何与你不喜欢的人有效合作
-本文讨论了与你不喜欢的人一起工作的挑战，并提供了有效应对难相处的同事的策略。它强调了有毒同事和老板的日益普遍，以及他们的行为可能对心理健康和生产力产生的负面影响。这些策略包括表现出尊重、保持观点、寻求学习机会、同理心和学会放手。文章强调保持专业精神并专注于手头的任务而不是个人冲突的重要性。它还表明，理解对方的观点并抱有良好的意愿有助于改善关系。]]></description>
-      <guid>https://t.me/hn_summary/61354</guid>
-      <pubDate>Wed, 29 Nov 2023 14:39:53 GMT</pubDate>
+      <title>德诺克朗</title>
+      <link>https://t.me/hn_summary/61397</link>
+      <description><![CDATA[Deno Cron
+Deno Cron 是 Deno 推出的一项新功能，该平台旨在通过删除不必要的配置和样板代码来简化 Web 开发。 Deno Cron 允许开发人员使用 Deno.cron() 函数轻松创建计划作业，该函数采用作业名称、Unix cron 格式的计划以及要按提供的计划执行的处理程序函数等参数。与传统的 cron 作业不同，Deno Cron 执行不会重叠，这意味着如果任务花费的时间超过计划的时间间隔，则将自动跳过下一次运行，直到任务完成。 Deno Cron 在无服务器 JavaScript 平台 Deno Deploy 上自动检测和管理，无需 Web 服务器即可轻松运行 cron 作业。 Deno Cron 的代码也可以在 Deno Deploy Playground 上进行测试。 Deno Cron 处理程序可以执行各种操作，例如更新 Deno KV 中的状态、ping 网站、发送电子邮件等。 Deno Deploy 使用临时 V8 隔离来评估项目的顶级范围并发现任何 Deno.cron 定义，然后使用最新的 cron 定义更新全局 cron 调度程序。 Deno Deploy 上的 Deno Cron 使您可以轻松地在云中创建和托管 cron 作业，而无需任何配置。 Deno 正在积极寻求 Deno Cron 的反馈，并为商业用户提供技术支持。]]></description>
+      <guid>https://t.me/hn_summary/61397</guid>
+      <pubDate>Wed, 29 Nov 2023 17:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 探索自托管电子邮件服务</title>
-      <link>https://t.me/hn_summary/61353</link>
-      <description><![CDATA[探索自托管电子邮件服务
-本文探讨了自托管电子邮件服务的概念以及建立此类系统所涉及的挑战和注意事项。作者强调了谷歌、微软和苹果等大型电子邮件服务提供商的主导地位，但也承认自托管的优势，例如更好的控制和隐私。作者分享了他们自己构建自托管电子邮件解决方案的经验，并讨论了他们遇到的范围、目标和挑战。他们还谈到了稳定性、托管、操作系统和安全性在建立可靠的电子邮件服务器方面的重要性。本文最后对使用云提供商时与数据处理和安全相关的风险和不确定性提出了警告。 （根据故事文本的 17% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/61353</guid>
-      <pubDate>Wed, 29 Nov 2023 14:38:46 GMT</pubDate>
+      <title>Jaq – 专注于正确性、速度和简单性的 jq 克隆</title>
+      <link>https://t.me/hn_summary/61396</link>
+      <description><![CDATA[Jaq – 专注于正确性、速度和简单性的 jq 克隆&lt; /a&gt;
+Jaq 是 JSON 数据处理工具 jq 的克隆，注重正确性、速度和简单性。它旨在提供更正确和可预测的 jq 实现，同时在大多数情况下保持兼容性。该项目解决了 jq 中的一些令人惊讶的行为，旨在变得更快、更简单。作者提到 jaq 的启动速度比 jq 1.6 快约 30 倍，并且在许多基准测试上优于 jq。它还紧密模仿jq的语法和语义，使精通jq的用户可以轻松使用jaq。该项目是用 Rust 实现的，可以从源代码安装或在 macOS 或 Linux 上使用自制软件安装。 （根据 36% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/61396</guid>
+      <pubDate>Wed, 29 Nov 2023 17:28:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
