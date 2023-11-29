@@ -4,48 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 29 Nov 2023 18:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 21:09:55 GMT</lastBuildDate>
     <item>
-      <title>每日两分钟 AI 更新（日期：2023 年 11 月 29 日）：来自 Amazon、Pika、TCS、NVIDIA、AWS、ElevenLabs 和 Stability AI 的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186ux6d/twominute_daily_ai_update_date_11292023_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   亚马逊宣布推出专为企业量身定制的 Q、AI 聊天机器人 - 主要旨在为 AWS 客户提供帮助。 Q 可以代表用户回答问题、生成内容并采取行动。它接受了 17 年 AWS 知识的培训，可以为用户查询提供潜在的解决方案。 - Q 还可以分析数据并生成报告，以及解决网络连接问题。该聊天机器人是可定制的，可以与各种应用程序和软件集成。 亚马逊推出 2 款用于训练 + 运行 AI 模型的新芯片 1) Trainium2 芯片：旨在提供比其前身更好的性能和能源效率，由 100,000 个 Trainium 芯片组成的集群可以在几周内训练出 3000 亿个参数的 AI 语言模型。2) Graviton4 芯片：亚马逊第四代 Graviton 芯片系列，提供更好的计算性能、更多内核和更高的内存带宽。这些芯片旨在解决 GPU 的短缺问题，而生成式人工智能对 GPU 的需求量很大。 - Trainium2 芯片将于明年上市，而 Graviton4 芯片目前正在预览中。 Pika 推出其主要产品升级 Pika 1.0，即创意到视频的人工智能平台 - 这是一个能够生成和编辑各种风格视频的人工智能模型。该公司的目标是让每个人都能轻松创作视频。 Pika 的用户群已发展到 50 万，每周生成数百万个视频。 - Pika 已筹集 5500 万美元资金，投资方包括行业领导者和人工智能专家。该平台允许用户在其网站上加入 Pika 1.0 的候补名单。 TCS 已与 AWS 合作推出生成式 AI 实践 - 旨在帮助企业利用AI 和 AWS gen AI 服务。它将提供咨询、解决方案设计、语言模型培训和持续维护等服务。 - TCS 已经对超过 100,000 名员工进行了有关 gen AI 的培训，并为该技术开发了广泛的用例。  ElevenLabs Grants 帮助公司将语音人工智能技术融入其产品 - ElevenLabs 正在发起一项名为 ElevenLabs Grants 的新计划，以帮助早期公司。赠款的接受者将在 3 个月内每月收到 1100 万个文本字符，用于开发和扩展他们的产品。 - 该计划旨在通过提供免费的人工智能工具来消除新兴平台的进入障碍。员工人数少于 25 名的初创公司可以通过详细说明其产品如何融入人工智能语音来申请资助。  AWS 推出了适用于 Amazon Bedrock 的 Guardrails - 一种允许公司定义和限制 LLM 使用的语言的工具。这有助于确保模型提供符合公司政策的相关且安全的用户体验。该工具允许公司过滤掉特定的单词和短语，以及超出模型范围的主题。该工具被视为与 LLM 合作的开发人员控制不必要的响应并确保负责任的 AI 的关键工具。 NVIDIA 正在将其 Isaac Sim 和 L40S GPU 引入 AWS - 允许开发人员在云中构建和部署加速的机器人应用程序。与上一代相比，L40S GPU 的性能提升了 2 倍，从而能够更快地执行渲染和模拟任务。例如，Amazon Robotics 计划使用 AWS L40S 产品来增强其模拟并改善员工和客户的体验 Stability AI 推出 SDXL Turbo，一种新的文本到图像生成模型 - 它通过使用一种新的蒸馏技术，可以单步生成高质量的图像。这将所需的步数从 50 减少到仅 1。 - 模型权重和代码可以在非商业研究许可下在 Hugging Face 上下载。用户还可以在 Stability AI 的图像编辑平台 Clipdrop 上测试 SDXL Turbo。  有关这些新闻和创新的更多详细信息，请参阅 每日新闻通讯。    由   提交 /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186ux6d/twominute_daily_ai_update_date_11292023_news_from/</guid>
-      <pubDate>Wed, 29 Nov 2023 17:27:36 GMT</pubDate>
+      <title>人工智能语音旁白</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18704w6/ai_for_voice_over/</link>
+      <description><![CDATA[我的公司有几个 20-30 分钟的客户培训视频需要重做。这是针对已更新的 SaaS 产品，因此视频需要新的图像、屏幕截图和 VO。 有没有人有使用 Speechify 或 Murf 等 AI 语音平台从文本创建旁白的经验？我的计划是下载当前视频的转录（不知道如何），然后用新内容更新脚本，然后将其放入其中一个程序中。然后下载 mp3，将其同步到 ScreenFlow 或类似工具中新编辑的视频并发布。 听起来我的想法正确吗？    由   提交 /u/Antique-Produce-2050   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18704w6/ai_for_voice_over/</guid>
+      <pubDate>Wed, 29 Nov 2023 21:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>反乌托邦科幻短片“Nano”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186uozw/dystopian_scifi_short_nano/</link>
-      <description><![CDATA[很好的简短内容，我想与那些想知道未来会是什么样子的人分享...看看当您的 Neuralink 芯片有软件更新要求时会发生什么花费你没有的钱...  https://youtu.be/TAHGZSeGVww?si=ra9x4mG3I0KK3E6v  《Dust》是一个科幻短片频道，有大量精彩视频，其中许多视频在短短 5-10 分钟内就让您陷入情感悬念。 这个短片“ “纳米”是他们频道上观看次数最多的视频。我非常喜欢的另一部是《Ana》 如果您有推荐，请分享！我自己只看过其中的 200 部中的 5 部。 另外：你对未来有何看法？您是否看到一些事情以特别反乌托邦的方式展开？分享您的想法！   由   提交 /u/Professional-Ad3101    reddit.com/r/ArtificialInteligence/comments/186uozw/dystopian_scifi_short_nano/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186uozw/dystopian_scifi_short_nano/</guid>
-      <pubDate>Wed, 29 Nov 2023 17:18:18 GMT</pubDate>
+      <title>现有的人工智能工具是否可以将主数据导入到 SQL 数据库中？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186zmg0/would_it_be_possible_with_existing_ai_tools_to/</link>
+      <description><![CDATA[这里完全是人工智能菜鸟，但我即将购买一个新的 ERP 系统，并且想知道技术上是否可以让人工智能导入主要的数据。如果是这样，怎么办？ 抱歉，这是一个愚蠢的问题。   由   提交 /u/ArmySash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186zmg0/would_it_be_possible_with_existing_ai_tools_to/</guid>
+      <pubDate>Wed, 29 Nov 2023 20:47:04 GMT</pubDate>
     </item>
     <item>
-      <title>有人工智能监管博客吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186u0qc/any_ai_regulation_blog/</link>
-      <description><![CDATA[大家好，我正在寻找一个博客或在线新闻报纸，主要关注人工智能的监管方面以及人工智能在法律行业的使用，让我自己了解这个主题的最新情况。您能给我推荐符合上述条件的网站吗？提前致谢！   由   提交 /u/AcridStingray   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186u0qc/any_ai_regulation_blog/</guid>
-      <pubDate>Wed, 29 Nov 2023 16:51:03 GMT</pubDate>
+      <title>神经元预测的竞争对手</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186z8u7/competitors_of_predict_by_neurons/</link>
+      <description><![CDATA[嗨！我想知道是否有人知道任何检查创意的热图人工智能？我尝试过寻找，发现的只是用于网站/用户体验目的的热图。我正在寻找类似于 Neurons 在 Predict 中所做的事情，但价格更低。谢谢！   由   提交/u/luvrofcowz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186z8u7/competitors_of_predict_by_neurons/</guid>
+      <pubDate>Wed, 29 Nov 2023 20:30:47 GMT</pubDate>
     </item>
     <item>
-      <title>带 V 的 ChatGPT 4 可以区分文本图像中带下划线或粗体的单词吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186u094/can_chatgpt_4_with_v_distinguish_underlined_or/</link>
-      <description><![CDATA[我想尝试使用Chatgpt做一些总结供我学习，但我想直接插入我书中的照片，一些页面上有重要的文字下划线或粗体，我如何让chatgpt总结这些照片，但确保它集中在下划线的句子上？是否会出现“总结此页但重点关注带下划线的部分”的提示？够了吗？   由   提交/u/East-Ad2949   /u/East-Ad2949 reddit.com/r/ArtificialInteligence/comments/186u094/can_chatgpt_4_with_v_distinguish_underlined_or/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186u094/can_chatgpt_4_with_v_distinguish_underlined_or/</guid>
-      <pubDate>Wed, 29 Nov 2023 16:50:29 GMT</pubDate>
+      <title>像这样格式化你的数字可以显着提高你的法学硕士的数学技能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186y75p/format_your_numbers_like_this_to_dramatically/</link>
+      <description><![CDATA[一篇新论文专注于提高 LLM 的算术技能，主要是类似 GPT 的模型。法学硕士在算术方面面临三个主要挑战：  复杂计算：法学硕士很难处理复杂的算术，特别是涉及大量数字，导致内部中间步骤遇到困难。  长度限制：法学硕士仅限于处理其训练数据范围内的数字，从而限制了实用性。 与语言的集成：  strong&gt; 由于表面格式的差异，合并算术和自然语言数据会遇到障碍，导致位置相关的表示发生冲突。  为了解决这些挑战，文章介绍了增强乘法的技术：&lt; /p&gt;  填充：数字因子被填充到固定的 15 位长度，确保一致性和位置不变性。 重新排序： 乘积中的数字顺序被颠倒，以与乘法的自然级数保持一致。  结果令人印象深刻。在测试中，他们的方法在计算最多 12 位数字的乘积时达到了 99% 的准确率。相比之下，简单地要求 GPT-4 将两个 4 位数字相乘的准确度不到 1%。 为了克服长度限制，本文探讨了数据格式和位置编码，包括随机间距和替代编码编码。这些创新使法学硕士能够推广加法来处理额外的数字。 本文还通过随机化格式和使用替代位置编码来解决算术和语言数据的集成问题，从而实现有效的数据集成。 TLDR：正如论文标题所述，位置描述对于变换器算术很重要。 完整摘要位于此处。论文这里。   由   提交/u/Successful-Western27   reddit.com/r/ArtificialInteligence/comments/186y75p/format_your_numbers_like_this_to_dramatically/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186y75p/format_your_numbers_like_this_to_dramatically/</guid>
+      <pubDate>Wed, 29 Nov 2023 19:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>相似物体检测 - 检测叠加分类？ - 有小费吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186toec/similar_object_detection_detection_overlaying/</link>
-      <description><![CDATA[我有越来越多的图像，假设有 100 个不同的项目。我有一系列从不同角度拍摄的相同物品的新图像，偶尔还会有一些新物品。我正在寻找一种模型或流程来为每个新项目提供置信度得分，其中新项目可能是以前学习过的项目。 对于具体背景，我想拍摄一个人不断成长的收藏照片项目并将新照片分类到同名项目中。如果应用程序说了“我不知道”这样的内容，那也没关系。在初始用户上传时，用户提供基本标签，然后当用户上传下一组图像时，它会说“这个新图像与这个、这个或这个上一个图像是同一个项目吗？”只要准确度随时间或“这个、这个或这个”而提高。在前一两个中获得信心。 我知道用于对象检测的模型，但这些可能是相对新颖的项目，并且目标不一定是检测对象，而是表明之前的观察。在许多方面更接近面部识别。 如果我需要构建一些东西或相对固定的方法来实现此目的，整个过程有什么提示吗？  &amp; #32；由   提交 /u/GLStephen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186toec/similar_object_detection_detection_overlaying/</guid>
-      <pubDate>Wed, 29 Nov 2023 16:36:44 GMT</pubDate>
+      <title>研究发现，超过一半的科技工作者认为人工智能被高估了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186xrfe/more_than_half_of_tech_workers_think_ai_is/</link>
+      <description><![CDATA[超过 50% 的科技工作者表示人工智能被高估了，2023 Retool 报告已找到。一些员工表示，像 ChatGPT 这样的人工智能还不够值得信赖，也不够成熟，不足以依赖。 如果你想在人工智能和技术领域保持领先地位，先看这里。 调查结果：  多数意见： 51.6% 的受访科技工作者认为人工智能被高估了。 怀疑的原因：担忧包括人工智能无法显示出重大的业务影响以及难以生成准确的结果。 &lt; /ul&gt; 基于角色的差异：  非管理态度：非管理角色的员工更倾向于认为人工智能被高估了。 高层管理人员的观点：高层管理人员（例如首席高管）通常对人工智能更加积极，将其视为降低成本和竞争优势的工具.  人工智能展望：  怀疑与投资：尽管存在怀疑，但只有 14.4 % 认为他们的公司对人工智能进行了过度投资。 观念的改变：随着技术的进步和发现更多的实际应用，对人工智能的态度预计会发生变化。 &lt; /ul&gt; 来源 (商业内幕） PS：如果您喜欢这篇文章，您一定会喜欢我的由 ML 驱动的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 21,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186xrfe/more_than_half_of_tech_workers_think_ai_is/</guid>
+      <pubDate>Wed, 29 Nov 2023 19:25:42 GMT</pubDate>
     </item>
     <item>
-      <title>无法在萤火虫中获得我想要的图像 - 建议吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186teye/cant_get_the_image_i_want_in_firefly_advice/</link>
-      <description><![CDATA[嘿 我正在为一个学校项目制作徽标，需要一个向导的图像。我发现什么时候可以很好地与徽标一起使用，但颜色或尺寸不正确。我描述了我在 Adob​​e firefly 中找到的这张图像，希望添加一些修饰以使其更合适。我还添加了我找到的图片作为参考（这里似乎无法添加）这是我使用的提示： 一个快乐的巫师直立着的插图。他的左手拿着一本棕色的大书，右手则挥舞着一根魔杖。巫师凝视着魔杖，魔杖中散发出光芒。他的右臂水平延伸，表明他正在对下面的东西施魔法或添加魔法。魔杖水平放置，悬挂在目标区域上方。巫师穿着紫色服装，包括衣服和帽子。确保握住魔杖的手臂和魔杖本身是水平的，在其下方留出空间，因为公司名称将放置在那里。 但是，我得到的所有结果都使手臂保持直立。我对生成人工智能还很陌生，想知道是否有更好的方法来问这个问题，或者我是否做错了什么。欢迎任何建议。  图片：   由   提交 /u/Kawaii-Usagi    reddit.com/r/ArtificialInteligence/comments/186teye/cant_get_the_image_i_want_in_firefly_advice/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186teye/cant_get_the_image_i_want_in_firefly_advice/</guid>
-      <pubDate>Wed, 29 Nov 2023 16:25:51 GMT</pubDate>
+      <title>OpenAI 的 GPT 商店可能容易遭受数据泄露</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186we71/openais_gpt_store_may_be_vulnerable_to_data_leaks/</link>
+      <description><![CDATA[研究表明 OpenAI 市场中的可定制 AI 聊天机器人将暴露私人信息和训练数据。 （来源） 获取最新的人工智能开发、工具、加入发展最快的 AI 时事通讯之一并使用案例。加入10000 多名专业人士，在 AI 领域变得更加聪明。 发现漏洞  提出战略问题可以欺骗 GPT 泄露秘密。 可以完全复制其他人的机器人破坏 IP 价值。 还泄露用于培训的敏感文档。  正在进行的猫鼠游戏  &lt; li&gt;与最近在 ChatGPT 中发现的弱点类似。 但是发现了新的提示泄漏问题。 OpenAI 在出现漏洞时会紧急修补。  可能会破坏平台目标  使得构建商业 GPT 存在风险。 企业不希望自己的数据被暴露。  &gt;安全对于 OpenAI 无处不在的 GPT 愿景至关重要。  如果您想先于其他人获得最新的 AI 更新看看首先在这里   由   提交 /u/saffronfan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186we71/openais_gpt_store_may_be_vulnerable_to_data_leaks/</guid>
+      <pubDate>Wed, 29 Nov 2023 18:28:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于人工智能、半技术的未来的书</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/186w3cg/book_on_the_future_of_ai_semitechnical/</link>
+      <description><![CDATA[嗨，我正在寻找一本关于人工智能未来的优秀非小说类书籍。它可以是半技术性的，但不能太重。我有兴趣阅读一些关于人工智能如何改变世界的预测，它如何对我们有利，以及它如何对我们不利的理论。我正在寻找一本考虑到我们现在所知道的情况的现代书。  有什么建议吗？谢谢   由   提交 /u/ChrisMule   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186w3cg/book_on_the_future_of_ai_semitechnical/</guid>
+      <pubDate>Wed, 29 Nov 2023 18:15:46 GMT</pubDate>
     </item>
     <item>
       <title>这本 1959 年的书完美预测了 2023 年的生成式 AI</title>
@@ -57,7 +64,7 @@
     <item>
       <title>您认为就像互联网危机和加密货币爆发一样，未来人工智能可能会产生影响吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/186q77q/do_you_think_just_like_the_dot_com_crisis_and_the/</link>
-      <description><![CDATA[每个人都在人工智能中迷失方向，从推出聊天机器人的科技公司到销售即时工程课程的 YouTuber（仍然想知道为什么它被称为工程，也许是文学专业的毕业生）应该叫句子工程师），大家都在搭AI炒作的火车，你认为未来会出现危机吗？ 注意：- 我是一个试图理解事物的菜鸟，请教我删除帖子并称我疯了。   由   提交/u/shifter0909  [链接] [评论]]]></description>
+      <description><![CDATA[每个人都在人工智能中迷失方向，从推出聊天机器人的科技公司到销售即时工程课程的 YouTube 用户（仍然想知道为什么它被称为工程，也许是文学专业的毕业生）应该被称为句子工程师），每个人都在跳上人工智能炒作的火车，你认为未来可能会发生危机吗？ 注意：- 我是一个试图理解事物的菜鸟，请教我删除帖子并称我疯了。   由   提交/u/shifter0909  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186q77q/do_you_think_just_like_the_dot_com_crisis_and_the/</guid>
       <pubDate>Wed, 29 Nov 2023 14:07:28 GMT</pubDate>
     </item>
@@ -85,19 +92,12 @@
     <item>
       <title>我是一名大学生。保护自己免受人工智能抄袭虚假指控的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/186iujb/im_a_college_student_what_is_the_best_way_to/</link>
-      <description><![CDATA[第一次发帖，如果此内容之前已发布或以其他方式违反了子规则，我提前表示歉意。  正如上面的标题所述，我是一名大学生，具体来说是美国州立大学的非传统学生，八年前获得副学士学位后，现在返回学校攻读学士学位。 ChatGPT 等生成式人工智能程序的发展很有趣，但最近有关学术界滥用人工智能的新闻报道让我产生了一些焦虑，而我在回到学校之前从未考虑过这种焦虑。  在我的一生中，有人告诉我，与同龄人相比，我的阅读和写作水平极高，而且我有独特的写作风格 - 老实说，这可能是神经分歧的结果。今晚我正在为我的一门课写一篇论文，当我去复习我所写的内容时，我心想“是的，我仍然明白了”，但后来又想到了我的教授读完后会怎么想这张纸。我担心，在我的学位课程中的某个时候，我会遇到这样的情况：一位老师拒绝相信我有能力达到我现在的水平，并指责我使用生成式人工智能来编写论文 - 尽管事实上我从未在我的作业中使用过人工智能，而且可能永远不会，除非作业要求以某种形式使用人工智能。  （需要澄清的是，我的大学有一项学术诚实政策，严厉惩罚剽窃行为，这是他们应该做的。关于允许或禁止使用人工智能的决定，他们已将这一决定委托给各个教室和部门。我专业的所在院系叫地理空间信息科学中心，系主任是我上面提到的班级的教授。目前院系对生成式人工智能的政策是，它可以由学生自行决定用于作业，但必须被引用为除了学生之外的任何其他来源。） 这让我分两部分提出我的问题： 1）如果我被错误地指控与人工智能相关学术不诚实，对于一项不涉及人工智能的作业，为自己辩护免受这些指控的最佳行动方案是什么？2）在完成作业时，无论是在学校系统还是在我的系统中，我可以采取哪些实际步骤？自己的个人计算机，以在我的工作受到此类指控时保护自己？   由   提交 /u/BanishedAuriga   [链接] [评论]]]></description>
+      <description><![CDATA[第一次发帖，如果此内容之前已发布或以其他方式违反了子规则，我提前表示歉意。  正如上面的标题所述，我是一名大学生，具体来说是美国州立大学的非传统学生，八年前获得副学士学位后，现在返回学校攻读学士学位。 ChatGPT 等生成式人工智能程序的发展很有趣，但最近有关学术界滥用人工智能的新闻报道让我产生了一些焦虑，而我在回到学校之前从未考虑过这种焦虑。  在我的一生中，有人告诉我，与同龄人相比，我的阅读和写作水平极高，而且我有独特的写作风格 - 老实说，这可能是神经分歧的结果。今晚我正在为我的一门课写一篇论文，当我去复习我写的内容时，我心想“是的，我仍然明白了”，但后来又想到了我的教授读完后会怎么想这张纸。我担心，在我的学位课程中的某个时刻，我会遇到这样的情况：一位老师拒绝相信我有能力达到我现在的水平，并指责我使用生成式人工智能来编写一个论文 - 尽管事实上我从未在我的作业中使用过人工智能，而且可能永远不会，除非作业要求以某种形式使用人工智能。  （需要澄清的是，我的大学有一项学术诚实政策，严厉惩罚剽窃行为，这是他们应该做的。关于允许或禁止使用人工智能的决定，他们已将这一决定委托给各个教室和部门。我专业的所在院系叫地理空间信息科学中心，系主任是我上面提到的班级的教授。目前院系对生成式人工智能的政策是，它可以由学生自行决定用于作业，但必须被引用为除了学生之外的任何其他来源。） 这让我分两部分提出我的问题： 1）如果我被错误地指控与人工智能相关学术不诚实，对于一项不涉及人工智能的作业，为自己辩护免受这些指控的最佳行动方案是什么？2）在完成作业时，无论是在学校系统还是在我的系统中，我可以采取哪些实际步骤？自己的个人计算机，以在我的工作受到此类指控时保护自己？   由   提交 /u/BanishedAuriga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/186iujb/im_a_college_student_what_is_the_best_way_to/</guid>
       <pubDate>Wed, 29 Nov 2023 06:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>三分之二的美国人表示人工智能可以完成他们的工作</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18614rl/twothirds_of_americans_say_ai_could_do_their_job/</link>
-      <description><![CDATA[67% 的美国人相信人工智能可以完成他们的工作，正如 最近的调查，引发了人们对人工智能对行业和工作负载影响的担忧和乐观。 如果您想保持领先地位人工智能和科技的曲线，先看这里。 一些有趣的发现：&lt; /p&gt;  对行业影响的担忧：74.8% 的受访者表示担心人工智能影响其行业，其中年龄最大的年龄段比最年轻的年龄段的担忧更高。 与年龄相关的态度：年轻人（18-24 岁）不太担心人工智能的影响（66%），而 65 岁以上的人最担心（80.8%）。 工作替代和薪资担忧：很大一部分受访者担心人工智能会取代他们的工作（34.3%）并影响未来的薪资增长（34.4%）。  减轻压力：78.1% 的人认为人工智能可以减轻与工作相关的压力，无论是现在还是将来。 培训愿望：大多数人 (79.1 %) 认为雇主应该提供使用 ChatGPT 等人工智能工具的培训，表明他们愿意适应。 提高生产力：40.2% 的受访者认为人工智能是提高生产力的一种手段，只有一小部分（7.7%）没有看到任何好处。 高估人工智能能力：令人惊讶的是，66.6% 的专业人士认为人工智能目前可以完成他们的工作，这表明可能高估了人工智能目前的能力。 每周工作时间缩短：76.7% 的人认为人工智能将减少普通美国人每周的工作天数。 &lt; strong&gt;收入和工作平衡：大多数人（62.8%）会支持人工智能的实施，如果它能保持他们的收入并减少工作日。  来源 (Spokeo) PS：如果您喜欢这篇文章，您一定会喜欢我的ML 驱动的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 21,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18614rl/twothirds_of_americans_say_ai_could_do_their_job/</guid>
-      <pubDate>Tue, 28 Nov 2023 17:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
