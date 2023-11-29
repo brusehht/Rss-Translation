@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Nov 2023 06:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 08:15:52 GMT</lastBuildDate>
+    <item>
+      <title>实时班车跟踪器帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/186jlmr/realtime_shuttle_tracker_help/</link>
+      <description><![CDATA[我正在开展我的学期项目，其核心功能是提供实时跟踪服务和校园班车的到达时间（稍后会提供）扩展到我们城市的地铁） 我需要讨论针对这个特定方面的可靠方法，以便我可以开始我的工作。 我已经研究了现成的 GPS 服务Vyncs GPS Tracker 等 API，但它非常昂贵。 我还考虑过 3D 打印并使用 ESP32 等嵌入式系统构建自定义跟踪盒，但每个盒子都需要自己的 WiFi 设备，这又是成本高昂。 我也想过为司机创建一个受支持的应用程序，这样我就可以简单地跟踪他们而不是班车，但这完全取决于司机是否拥有智能手机以及他们是否遵守指示启动航天飞机。由于巴基斯坦的贫困和文盲问题，司机很可能要么不太理解说明，要么不会拥有智能手机。 如果有更可行的解决方案，而我不必要地使解决方案复杂化，我会非常感谢您的帮助。   由   提交 /u/Ashen_Dijura   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/186jlmr/realtime_shuttle_tracker_help/</guid>
+      <pubDate>Wed, 29 Nov 2023 07:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Manifest V3 的大肆宣传，为什么不有人在仍然支持 V2 的情况下制作一个 Chromium 的分支并发布呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/186jkij/with_all_the_manifest_v3_hype_why_doesnt_someone/</link>
+      <description><![CDATA[关于 Chrome 明年停用 Manifest V2 存在很多争议。但既然 Chromium 是开源的，那么如何阻止有人现在对其进行分叉并发布该分叉，以便那些不想使用 Chrome 的人可以使用它呢？ V2 用户仍然可以访问网络，对吗？   由   提交 /u/KiwiNFLFan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/186jkij/with_all_the_manifest_v3_hype_why_doesnt_someone/</guid>
+      <pubDate>Wed, 29 Nov 2023 07:08:01 GMT</pubDate>
+    </item>
     <item>
       <title>扔掉你的代码初稿</title>
       <link>https://www.reddit.com/r/webdev/comments/186ik0g/throw_away_your_first_draft_of_your_code/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18684y5/moving_faster/</guid>
       <pubDate>Tue, 28 Nov 2023 22:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助使用业务工作流程的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/18684f5/help_with_tooling_for_a_business_workflow/</link>
-      <description><![CDATA[我是一名零工，为几家小企业做一般咨询工作。因此，我经常被要求解决我不擅长的问题。这种“Web 工作流程设计”问题就是其中之一。你们能谈谈关于工具/API/等的想法吗？选择？我真的需要帮助。 ----工作流程---- 我构建了一个 AppSheet（低代码应用程序构建器）应用程序将自动向公司的销售人员发送电子邮件。该电子邮件包含有关已出售设备的信息。信息主要包括文本字段，但也包括 Google 云端硬盘上托管的图像的 URL。 我需要帮助销售人员生成一个网络表单，用于收集设备的出价。 （这是一个非正式的拍卖过程。）我一直在寻找自由表单构建器，但我找不到提供用于构建表单的 API 的构建器。我想使用 API，因为需要创建很多表单，而且我需要让销售人员尽可能简单。我想象为销售人员创建一个简单的 Web 表单，该表单本身为投标人生成 Web 表单（通过 API）并显示投标人表单的可共享 URL。 将使用投标人表单由十几名投标人竞标。显然，我需要在销售人员可以查看的地方收集回复。该项目将给出价最高者。 ------------ 这就是工作流程。这是非常人力密集的。我只需要构建将事件串在一起的数据交换。 您认为最适合这项工作的工具是什么？Google Forms 似乎是一个很好的竞争者，因为它具有REST API 和 Apps 脚本服务。我可以在应用程序脚本中编写一个简单的 Web 服务器，并为销售人员提供静态 HTML 表单，然后在提交时可以使用 API 构建投标表单并将其显示给用户。 但是也许有一种更简单的方法可以让这一切顺利进行？   由   提交 /u/Stobber   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18684f5/help_with_tooling_for_a_business_workflow/</guid>
-      <pubDate>Tue, 28 Nov 2023 22:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何开始通过建立网站赚钱？如果你建立网站，你们中有人靠建立网站赚很多钱吗？我需要有限责任公司吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1866mav/how_do_you_start_making_money_building_websites/</link>
-      <description><![CDATA[我的朋友告诉我他这样做了，他告诉我他给一堆在谷歌上没有网站的企业打电话并收费然后是一个网站 400-800 美元，然后每月 189 美元来保持网站的正常运行，这是一个有趣的想法，他说他每个月通过制作网站和 4K 被动以保持网站每月运行而赚了大约 10 英镑，如果他愿意的话，我不知道。从他的屁股里掏出数字或它是如何工作的，但他确实有一辆非常好的汽车和他自己的地方。我还在这个reddit群组中的某个地方看到人们只是通过制作一个网站并在其上投放广告来赚钱？如果你这样做，我想知道刚开始构建网站的人会做出多少实际数字，因为我实际上知道一些人现在需要网站，其中包括我工作的公司，我告诉他们我可以为其构建网站他们。   由   提交 /u/Hot-Butterscotch349    reddit.com/r/webdev/comments/1866mav/how_do_you_start_making_money_building_websites/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1866mav/how_do_you_start_making_money_building_websites/</guid>
-      <pubDate>Tue, 28 Nov 2023 21:02:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
