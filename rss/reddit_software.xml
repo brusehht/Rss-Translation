@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 15:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 18:14:35 GMT</lastBuildDate>
     <item>
       <title>寻找特定的截屏软件</title>
       <link>https://www.reddit.com/r/software/comments/188czkt/looking_for_a_specific_screencap_software/</link>
@@ -39,6 +39,13 @@
       <description><![CDATA[我正在寻找一款软件，它可以在整个域中搜索每个工作站上给定软件的安装情况。例如，crw32.exe 表示 Crystal Reports 存在。有人听说过这样的事情吗？   由   提交 /u/dgillz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/188bdtg/search_every_workstation_on_a_network_to_see_if_a/</guid>
       <pubDate>Fri, 01 Dec 2023 13:04:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mpc-hc、mpc-be、potplayer、madvr 在全屏模式下显示较暗的视频，而窗口模式正常</title>
+      <link>https://www.reddit.com/r/software/comments/188bd63/mpchc_mpcbe_potplayer_madvr_showing_darker_video/</link>
+      <description><![CDATA[在 MPC-BE 中，我使用 madVR 作为我的视频渲染器，也在 potplayer 中使用。在窗口模式下，图片可以正确显示。但是当我切换到全屏时，视频变暗。它在 mpc-be 和 potplayer 中的行为方式相同。这是为什么？如何修复它？ 窗口模式 - 普通视频 全屏模式 - 较暗的视频   由   提交/u/auhmaverick  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/188bd63/mpchc_mpcbe_potplayer_madvr_showing_darker_video/</guid>
+      <pubDate>Fri, 01 Dec 2023 13:03:17 GMT</pubDate>
     </item>
     <item>
       <title>我在哪里可以获得没有任何广告软件的 Jdownloader 便携式应用程序？他们的官方网站有安装程序。</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，希望有人能指出我正确的方向，我有一个有点独特的用例。  我经营一家小型集成公司，负责大量的布线等工作。我有一台理光 theta z 1，在墙壁升起并关闭之前，我拿起它并拍摄了一些 360 度照片，以便我的客户可以稍后检查他是否想找东西。我想提供一项虽小但有用的免费服务。这个想法很棒，直到我遇到了一个问题：我无法免费为他们提供这项服务，因为大多数 360 度图像托管公司或软件都希望您每月支付 40 美元以上的订阅费。  是否有任何免费软件或方法可以提供给我的客户，以便他们可以以“360”方式查看他们的图像。我目前只是将他们的图像保存在谷歌驱动器上，以便他们可以直接下载。聪明人对/software有什么建议吗？希望做过类似事情或使用 360 文件的人提供一些想法或意见。 TIA。感谢任何反馈！   由   提交 /u/isthatayeti   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/187zmme/free_viewer_software_for_360_images/</guid>
       <pubDate>Fri, 01 Dec 2023 01:44:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有最大文件大小选项的 jpg 到 avif 转换器</title>
-      <link>https://www.reddit.com/r/software/comments/187v8dd/jpg_to_avif_converter_with_maximum_file_size/</link>
-      <description><![CDATA[嗨，有人知道可靠的 jpg 到 avif 转换器吗？它还可以选择设置最大输出文件大小？我这样问是因为我想将图片上传到我的网站，但真的不想每张图片超过 200-300kb，并且更改每个图片的质量设置（在我找到的转换器中），真的很麻烦...&lt; /p&gt; 我喜欢 https://redketchup.io/bulk-image-resizer 他们有最大文件大小选项，但不幸的是尚不支持 avif。  解决方案可以付费或免费，Idc...只是想要一个解决方案。 Mac 应用程序将是首选。   由   提交 /u/Independent-Brick-65   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/187v8dd/jpg_to_avif_converter_with_maximum_file_size/</guid>
-      <pubDate>Thu, 30 Nov 2023 22:31:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

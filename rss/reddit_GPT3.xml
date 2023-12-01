@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 01 Dec 2023 15:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 18:14:11 GMT</lastBuildDate>
+    <item>
+      <title>在代码数据集上微调 gpt-3.5-turbo</title>
+      <link>https://www.reddit.com/r/GPT3/comments/188flz8/fine_tuning_gpt35turbo_on_a_code_dataset/</link>
+      <description><![CDATA[是否有人尝试过在编码数据集（如 HumanEval 或类似数据集）上微调任何 OpenAI LLM，以使其更好地生成工作代码？如果是这样，它的表现如何？一直在尝试为此寻找基准，我不明白为什么它在理论上不能很好地工作。   由   提交/u/geepytee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/188flz8/fine_tuning_gpt35turbo_on_a_code_dataset/</guid>
+      <pubDate>Fri, 01 Dec 2023 16:10:55 GMT</pubDate>
+    </item>
     <item>
       <title>如何格式化我的 AB 测试数据以进行微调工作？</title>
       <link>https://www.reddit.com/r/GPT3/comments/187l2v9/how_to_format_my_ab_testing_data_for_my_finetune/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1818ckx/openai_to_bring_altman_back_as_ceo/</guid>
       <pubDate>Wed, 22 Nov 2023 12:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>明确 OpenAI 的长期影响</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1817gp1/clarity_on_openai_long_term_impact/</link>
-      <description><![CDATA[我或我们正在准备一些与 CV 和 NLP 模型相关的开发产品和服务，以及要在超大规模中部署的自定义模型。 OpenAI 最近宣布在其生态系统中使用其模型进行应用程序开发，并迈向通用人工智能 (AGI) 之路，这为任何提供定制模型的服务或产品的人的未来增添了一大堆模糊性。  对于此类初创公司的长期影响或动态有何专家建议？我认为训练自定义模型是不切实际的，而 openai 允许使用提示和自定义数据进行相同的操作。 请分享对未来 1 到 2 年内会发生什么的见解？   由   提交/u/AdministrativeSea688  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1817gp1/clarity_on_openai_long_term_impact/</guid>
-      <pubDate>Wed, 22 Nov 2023 11:56:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
