@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 30 Nov 2023 21:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:56:35 GMT</lastBuildDate>
     <item>
-      <title>非洲不存在</title>
-      <link>https://t.me/hn_summary/61620</link>
-      <description><![CDATA[非洲不存在
-作者讨论了埃塞俄比亚的提格雷战争，并强调与加沙战争等其他冲突相比，该战争缺乏关注。他们对提格雷战争缺乏认识和讨论感到沮丧，这表明非洲人经常被忽视，他们的苦难也被忽视。作者还批评媒体将某些冲突置于其他冲突之上，并认为非洲在全球事务中经常被忽视。他们强调需要更多地关注和支持面临危机的非洲国家。]]></description>
-      <guid>https://t.me/hn_summary/61620</guid>
-      <pubDate>Thu, 30 Nov 2023 21:07:35 GMT</pubDate>
+      <title>通用 JavaScript 中可怕的 globalThis 填充 (2019)</title>
+      <link>https://t.me/hn_summary/61644</link>
+      <description><![CDATA[通用 JavaScript 中可怕的 globalThis 填充（2019） 
+本文讨论了通用 JavaScript 中的 globalThis polyfill 的提案。作者解释说，在任何 JavaScript 环境中访问全局 this 并不像看起来那么简单。他们描述了适当的填充材料的要求以及实现这些要求的困难。本文还探讨了在各种 JavaScript 环境（例如 Web 浏览器、Node.js 和独立 JavaScript 引擎 shell）中访问全局 this 的不同替代方案。然后，作者提出了一个在严格模式函数或 JavaScript 模块中不起作用的简单的 polyfill，以及一个依赖于在 Object.prototype 上安装 getter 的健壮的 polyfill。本文最后讨论了 polyfill 的测试及其与不同浏览器的兼容性。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/61644</guid>
+      <pubDate>Fri, 01 Dec 2023 00:56:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我为用户而战</title>
-      <link>https://t.me/hn_summary/61619</link>
-      <description><![CDATA[我为用户而战
-这篇博文的作者讨论了埃隆·马斯克领导下的 Twitter 的负面影响。他们认为，对经历中年危机的亿万富翁负有责任，这对社会是不健康的。作者认为 Twitter 已经成为一个不利于心理健康的平台，并鼓励读者拒绝使用它。他们提倡去中心化服务，赋予用户权力并赋予他们控制权，而不是将他们视为数字佃农。作者推广 Mastodon，一种开源、联合的 Twitter 替代方案，并拍卖他们认为有史以来最好的推文的黄铜牌匾，以使 Trevor 项目受益。]]></description>
-      <guid>https://t.me/hn_summary/61619</guid>
-      <pubDate>Thu, 30 Nov 2023 20:57:55 GMT</pubDate>
+      <title>[媒体] 为什么回收材料并不总是能产生更环保的产品</title>
+      <link>https://t.me/hn_summary/61643</link>
+      <description><![CDATA[为什么回收材料并不总是能产生更环保的产品 
+本文讨论了使用回收材料制造更环保产品的挑战。它重点介绍了日立及其供应商开展的一个项目，该项目旨在分析变压器所用铜价值链中产生的碳排放量。令人惊讶的是，研究发现，回收铜实际上比开采铜产生更多的二氧化碳排放量，具体取决于回收过程中产生的排放量。这强调了使用系统且稳健的方法（例如电子责任方法）来准确测量碳排放的重要性。本文还讨论了全球碳核算标准化体系的缺乏，这可能导致洗绿和意识形态议程。]]></description>
+      <guid>https://t.me/hn_summary/61643</guid>
+      <pubDate>Fri, 01 Dec 2023 00:45:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]动画任何人：角色动画的图像到视频合成</title>
-      <link>https://t.me/hn_summary/61618</link>
-      <description><![CDATA[为任何人制作动画：角色动画的图像到视频合成
-本文讨论了从静止图像生成角色视频的挑战，并提出了一种使用扩散模型的角色动画的新颖框架。该框架包括ReferenceNet（它合并了参考图像的细节特征）、用于指导角色运动的高效姿势引导器以及用于视频帧之间平滑过渡的时间建模方法。与其他图像到视频方法相比，该方法可以对任意角色进行动画处理并取得更好的结果。该方法在时尚视频和人类舞蹈合成的基准上进行了评估，取得了最先进的结果。]]></description>
-      <guid>https://t.me/hn_summary/61618</guid>
-      <pubDate>Thu, 30 Nov 2023 20:55:47 GMT</pubDate>
+      <title>[媒体]质疑轻松的 IT 合同后声称遭到军方报复</title>
+      <link>https://t.me/hn_summary/61642</link>
+      <description><![CDATA[质疑轻松的 IT 合同后声称遭到军方报复&lt; br/&gt;
+非营利性信息技术采购咨询委员会 (IT-AAC) 的首席执行官 John Weiler 在对 AWS 授予价值超过 3 亿美元的单一来源联邦政府 IT 合同提出质疑后，可能面临与美国政府开展业务的禁令。 Bluestaq 和 VMware。韦勒认为，政府不完善的 IT 收购流程正在危及美国的国家安全。他还对“旋转门”做法表示担忧，即赢得政府合同的私营公司工作人员会被授予合同的机构雇用。韦勒的批评遭到了国防界一些人的反对，他被指控歪曲了他与空军领导人的互动。美国空军目前正在审查情况。]]></description>
+      <guid>https://t.me/hn_summary/61642</guid>
+      <pubDate>Fri, 01 Dec 2023 00:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] eBPF – 简介、教程和社区资源</title>
-      <link>https://t.me/hn_summary/61617</link>
-      <description><![CDATA[eBPF – 简介、教程和社区资源
-eBPF（即扩展伯克利数据包过滤器）是一项强大的技术，可通过即时编译并直接在内核中运行来增强处理性能。这意味着它可以显着提高各种操作的效率。 eBPF 的主要优势之一是它的安全性，因为程序经过彻底验证，以确保它们不会使内核崩溃，并且只能由特权用户修改。此外，eBPF 提供了极大的灵活性，允许用户修改内核或向内核添加功能，而无需重新启动或修补内核。这使其成为适用于各种用例的多功能工具。]]></description>
-      <guid>https://t.me/hn_summary/61617</guid>
-      <pubDate>Thu, 30 Nov 2023 20:53:39 GMT</pubDate>
+      <title>[媒体] Linux 共享库</title>
+      <link>https://t.me/hn_summary/61641</link>
+      <description><![CDATA[Linux 共享库
+此 Web 内容讨论 Linux 共享库，这些库是程序可以使用的现成代码，而不是从头开始实现它们。在 Linux 中，这些文件称为共享库或共享对象，扩展名为“.so”（在 Windows 中，扩展名为“.dll”）。程序开发人员有两种使用库的选择：将它们直接嵌入到代码中（静态链接）或从操作系统请求它们（动态链接）。由于程序大小和其他问题，动态链接通常是首选。这篇文章解释了如何使用“ldd”命令确定二进制可执行文件所需的库，以及如何使用“ldconfig”将库添加到操作系统。它还提到了如果无法更改系统的全局库，则可以将库路径添加到“LDLIBRARYPATH”环境变量。]]></description>
+      <guid>https://t.me/hn_summary/61641</guid>
+      <pubDate>Fri, 01 Dec 2023 00:13:55 GMT</pubDate>
     </item>
     <item>
-      <title>Show HN：Collider – 以超快速度进行本地 LLM 调试和推理的平台</title>
-      <link>https://t.me/hn_summary/61616</link>
-      <description><![CDATA[显示 HN：Collider – 用于本地 LLM 调试和推理的平台扭曲速度
-Collider项目是本地LLM（大型语言模型）调试和推理的平台。它的目标是成为一个强大的 LLM 推理加速器，用于在生产环境中扩展 GPT 或用于模型实验。该项目在构建时考虑到了性能和扩展性，使用 Golang 和 C++。它通过使用 Golang 和 C++ 来解决与 Python 依赖关系和兼容性破坏相关的问题。它支持多种 CPU 和 GPU，包括 Intel/AMD x64 平台、服务器和 Mac ARM64、Nvidia CUDA、Apple Metal 和 OpenCL 卡。它还支持常规 FP16/FP32 模型及其量化版本。该项目通过提供用于代码生成和非英语语言的专有 Janus 采样而与众不同。]]></description>
-      <guid>https://t.me/hn_summary/61616</guid>
-      <pubDate>Thu, 30 Nov 2023 20:47:30 GMT</pubDate>
+      <title>[媒体]一个世纪后，新数学消除了广义相对论</title>
+      <link>https://t.me/hn_summary/61640</link>
+      <description><![CDATA[一个世纪后，新数学消除了广义相对论 
+数学家董和宋证明了 Huisken 和 Ilmanen 于 2001 年提出的猜想，这是数学和广义相对论的突破。该猜想指出，当空间的质量接近零时，其曲率也必须接近零。董和宋能够通过使用称为标量曲率的概念来证明这一点，该概念将曲率表示为总结所有方向上完整曲率的单个数字。他们的工作表明，如果一个空间具有非负标量曲率和较小的质量，则可以很好地理解该空间的结构。这一突破可能会产生超越广义相对论的影响，并可能适用于其他数学问题。]]></description>
+      <guid>https://t.me/hn_summary/61640</guid>
+      <pubDate>Fri, 01 Dec 2023 00:05:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Apple 宣布扩大与 Amkor 的先进硅封装合作伙伴关系</title>
-      <link>https://t.me/hn_summary/61615</link>
-      <description><![CDATA[Apple 宣布扩大与 Amkor 的先进芯片封装合作伙伴关系 
-Apple 宣布扩大与 Amkor 在先进硅封装方面的合作伙伴关系。 Amkor 将封装附近台积电工厂生产的苹果芯片，苹果是该工厂最大的客户。此举是苹果对美国制造业承诺的一部分，也是其计划在五年内向美国经济投资 4300 亿美元的一部分。 Amkor 将在该项目上投资 20 亿美元，竣工后将雇用 2,000 多名员工。此次合作凸显了 Apple 致力于在美国生产和包装其产品的决心]]></description>
-      <guid>https://t.me/hn_summary/61615</guid>
-      <pubDate>Thu, 30 Nov 2023 20:41:19 GMT</pubDate>
+      <title>[媒体]对效率的追求与蒸汽的科学</title>
+      <link>https://t.me/hn_summary/61639</link>
+      <description><![CDATA[追求效率和 Steam 的科学&lt; br/&gt;
+文章讨论了蒸汽机设计中对效率的追求以及双缸发动机在实现这一目标中的作用。它强调了约瑟夫·霍恩布洛尔和阿瑟·伍尔夫等工程师在开发和改进双缸发动机方面的贡献。文章还提到了蒸汽机制造商所做的渐进式改进，包括对发动机调节机制的调整。它讨论了蒸汽动力缺乏健全的理论基础以及测量发动机功率的新理论的发展。文章最后提到了双缸发动机在远洋轮船设计中的成功。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/61639</guid>
+      <pubDate>Thu, 30 Nov 2023 23:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的智能戒指技术可能不仅仅局限于手指</title>
-      <link>https://t.me/hn_summary/61614</link>
-      <description><![CDATA[苹果的智能戒指技术可能不仅限于手指 
-苹果公司获得了一项智能戒指设备专利，该设备可以佩戴在身体的各个部位，而不仅仅是手指。该专利将该设备描述为环形，能够佩戴在手腕、手臂、腿、脚踝、颈部、头部或其他身体部位。该专利还详细介绍了指环设备如何与用户环境中的其他设备和物体进行交互，例如检索网页或从 NFC 标签访问信息。虽然该专利侧重于积极的用例，但它也引发了隐私问题，因为它提到了个人信息数据的收集。]]></description>
-      <guid>https://t.me/hn_summary/61614</guid>
-      <pubDate>Thu, 30 Nov 2023 20:38:10 GMT</pubDate>
+      <title>参议院提出禁止运输安全管理局在机场使用面部识别的法案</title>
+      <link>https://t.me/hn_summary/61638</link>
+      <description><![CDATA[参议院提出禁止 TSA 在机场使用面部识别的法案
+包括参议员杰夫·默克利和约翰·肯尼迪在内的六名美国参议员提出了一项名为“2023 年旅行者隐私保护法”的法案，禁止 TSA 在机场使用自动面部识别。尽管美国运输安全管理局声称乘客可以选择不使用面部识别技术，但参议员多年来一直对航空公司乘客使用面部识别技术提出质疑，该法案就此出台。该法案值得注意的是，其目的并不是规范面部识别技术的使用，而是明确禁止美国运输安全管理局在机场使用该技术。如果该法案颁布，只有在新立法明确授权的情况下，运输安全管理局才可以使用面部识别。该法案将弥补现行法律和拟议法律中的一个重大漏洞，因为其他监管提案豁免了 TSA 或未达到明确禁令。然而，它并没有涉及美国海关和边境保护局在国际机场使用面部识别的问题。]]></description>
+      <guid>https://t.me/hn_summary/61638</guid>
+      <pubDate>Thu, 30 Nov 2023 23:41:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如何让 GenZ 开发者停止在提交消息和 PR 标题中使用表情符号</title>
-      <link>https://t.me/hn_summary/61613</link>
-      <description><![CDATA[如何让 GenZ 开发者停止在提交消息和 PR 中使用表情符号标题
-此网页内容是 old.reddit.com 上 CSCareerQuestions subreddit 上的帖子。这篇文章讨论了声援创建第三方 Reddit 应用程序的开发人员的抗议活动，因为 Reddit 实施的新 API 更改对这些应用程序产生了负面影响。 Reddit 领导层实施这些变革的行为被批评为“应受谴责”。该帖子还包含名为 CS Career Hub 的 Discord 服务器和名为  的新网站的链接编程.dev。此外，还有有关用户天赋、薪资分享调查、每日话题、相关 subreddit 的信息，以及呼吁在改善 subreddit 体验方面提供更多帮助和智慧。]]></description>
-      <guid>https://t.me/hn_summary/61613</guid>
-      <pubDate>Thu, 30 Nov 2023 20:36:12 GMT</pubDate>
+      <title>[媒体] 快速且可破解的 PyTorch 原生转换器推理</title>
+      <link>https://t.me/hn_summary/61637</link>
+      <description><![CDATA[快速且可破解的 PyTorch 原生转换器推理
+“gpt-fast”项目是一个简单高效的 PyTorch 原生转换器文本生成工具。它的目标是提供极低的延迟和高性能，同时保持代码库简洁，Python 代码少于 1000 行。该项目除了 PyTorch 和句子之外没有任何依赖项。它支持 int8/int4 量化、推测解码和张量并行。它可用于使用各种预训练模型生成文本，并为不同模型和技术提供基准。作者强调，该项目并不是要成为一个框架或库，而是要演示使用本机 PyTorch 可实现的性能。]]></description>
+      <guid>https://t.me/hn_summary/61637</guid>
+      <pubDate>Thu, 30 Nov 2023 23:37:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆表示版权/人工智能诉讼并不重要，因为“数字上帝”将会到来</title>
-      <link>https://t.me/hn_summary/61612</link>
-      <description><![CDATA[埃隆表示版权/人工智能诉讼并不重要，因为“数字上帝” &#39; 即将到达
-在接受安德鲁·罗斯·索尔金采访时，埃隆·马斯克就版权和人工智能发表了一些有争议的言论。索尔金向马斯克询问人工智能公司如何对受版权保护的数据进行培训，马斯克回答说，声称他们不这样做的说法是谎言。然而，索金问题的前提是不正确的，因为人工智能公司确实承认对受版权保护的材料进行培训，但认为它属于合理使用。马斯克随后发表了令人惊讶的声明，称当版权诉讼得到裁决时，“数字上帝”就会到来，使诉讼变得无关紧要。这种说法不切实际，体现了马斯克对版权法的漠视。]]></description>
-      <guid>https://t.me/hn_summary/61612</guid>
-      <pubDate>Thu, 30 Nov 2023 20:35:03 GMT</pubDate>
+      <title>[媒体]卫星图像显示加沙近10万栋建筑可能受损</title>
+      <link>https://t.me/hn_summary/61636</link>
+      <description><![CDATA[卫星图像显示，加沙近 10 万座建筑物可能受损
+英国广播公司委托拍摄的新卫星图像揭示了以色列和哈马斯之间临时停火之前加沙北部的破坏程度。图像显示，整个加沙地带近10万栋建筑可能遭到破坏，其中大部分集中在北部。卫星数据的分析由纽约城市大学研究生中心的 Corey Scher 和俄勒冈州立大学的 Jamon Van Den Hoek 进行。这些图像还显示了加沙其他地区的破坏情况，包括拜特拉希亚、拜特哈农、沙蒂难民营、努塞拉特难民营和汗尤尼斯。]]></description>
+      <guid>https://t.me/hn_summary/61636</guid>
+      <pubDate>Thu, 30 Nov 2023 23:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Android 版 Firefox 增加了对 400 个插件的支持</title>
-      <link>https://t.me/hn_summary/61611</link>
-      <description><![CDATA[Android 版 Firefox 正在添加对 400 个插件的支持
-Mozilla 正在恢复对 Android 版 Firefox 中插件的支持，从 12 月 14 日起，将有超过 400 个插件可供使用。虽然并非所有 Firefox 插件都可以与移动浏览器兼容，但任何标记为 Android 兼容的扩展都应该可以使用。一些已经可用的流行扩展包括广告拦截器、密码管理器以及用于朗读文本或启用多站点反向图像搜索的工具。此更新意义重大，因为移动浏览器通常对第三方加载项的支持有限。文章没有突出任何争议或令人惊讶的元素。]]></description>
-      <guid>https://t.me/hn_summary/61611</guid>
-      <pubDate>Thu, 30 Nov 2023 20:30:55 GMT</pubDate>
+      <title>[媒体]博通收购后将在加州裁减近 1,300 个 VMware 职位</title>
+      <link>https://t.me/hn_summary/61635</link>
+      <description><![CDATA[博通收购后将在加州裁减近 1,300 个 VMware 职位
+博通公司 (Broadcom Inc.) 在完成价值 610 亿美元的收购后，将解雇加利福尼亚州 VMware Inc. 的近 1,300 名员工。此次裁员将于 1 月 26 日开始，将影响 1,267 个职位。受影响的工作岗位位于 VMware 帕洛阿尔托总部，该总部将继续运营。]]></description>
+      <guid>https://t.me/hn_summary/61635</guid>
+      <pubDate>Thu, 30 Nov 2023 23:32:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

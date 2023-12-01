@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 30 Nov 2023 21:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:56:09 GMT</lastBuildDate>
+    <item>
+      <title>具有最大文件大小选项的 jpg 到 avif 转换器</title>
+      <link>https://www.reddit.com/r/software/comments/187v8dd/jpg_to_avif_converter_with_maximum_file_size/</link>
+      <description><![CDATA[嗨，有人知道可靠的 jpg 到 avif 转换器吗？它还可以选择设置最大输出文件大小？我这样问是因为我想将图片上传到我的网站，但真的不想每张图片超过 200-300kb，并且更改每个图片的质量设置（在我找到的转换器中），真的很麻烦...&lt; /p&gt; 我喜欢 https://redketchup.io/bulk-image-resizer 他们有最大文件大小选项，但不幸的是尚不支持 avif。  解决方案可以付费或免费，Idc...只是想要一个解决方案。 Mac 应用程序将是首选。   由   提交 /u/Independent-Brick-65   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/187v8dd/jpg_to_avif_converter_with_maximum_file_size/</guid>
+      <pubDate>Thu, 30 Nov 2023 22:31:32 GMT</pubDate>
+    </item>
     <item>
       <title>寻找音频输出管理软件</title>
       <link>https://www.reddit.com/r/software/comments/187nbmk/looking_for_audio_output_management_software/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想创建一个用户填写的自定义表单，然后保存到一个文本文件，其名称是从表单中的字段自动填充的，提交后自行重置。 我一直在寻找在本地执行此操作的软件（更容易确保 hipaa 合规性）一段时间，但没有任何运气。 有人吗这里有关于如何做到这一点的想法吗？我目前使用的自定义 Word 模板缺少许多我正在寻找的功能。   由   提交 /u/eatyourlawyer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18714my/custom_forms_that_save_to_text_file/</guid>
       <pubDate>Wed, 29 Nov 2023 21:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款真正有效的人工智能语音转换器软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1870ytg/looking_for_an_ai_voice_changer_software_that/</link>
-      <description><![CDATA[如标题所示。我正在寻找可以让我实时改变声音的人工智能软件。有这样的事情存在吗？到目前为止我发现的那些（github上的voice(dot)ai、w-okada）要么不起作用，要么听起来很糟糕。想知道是否有人有任何建议。   由   提交/u/_Spider_Jew_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1870ytg/looking_for_an_ai_voice_changer_software_that/</guid>
-      <pubDate>Wed, 29 Nov 2023 21:44:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

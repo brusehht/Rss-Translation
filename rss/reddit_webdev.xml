@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 30 Nov 2023 21:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:56:41 GMT</lastBuildDate>
+    <item>
+      <title>富达国家金融网络攻击凸显威胁活动激增</title>
+      <link>https://www.reddit.com/r/webdev/comments/187y0ru/fidelity_national_financial_cyberattack/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187y0ru/fidelity_national_financial_cyberattack/</guid>
+      <pubDate>Fri, 01 Dec 2023 00:31:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个专用的盒子</title>
+      <link>https://www.reddit.com/r/webdev/comments/187wnp1/need_to_get_a_dedicated_box/</link>
+      <description><![CDATA[我有一个项目需要专用服务器。有人知道一个好的主机吗？我可以在那里以每月不到 100 美元的价格获得一个具有至少 16GB 内存、200GB SSD、至少 5 个专用 IP 和无限带宽的专用主机？必须位于美国。    由   提交/u/full-stackfamily  /u/full-stackfamily  reddit.com/r/webdev/comments/187wnp1/need_to_get_a_dedicated_box/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187wnp1/need_to_get_a_dedicated_box/</guid>
+      <pubDate>Thu, 30 Nov 2023 23:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否单独进行复杂的端点调用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/187w7vu/separate_complex_endpoint_call_or_not/</link>
+      <description><![CDATA[大家好，这是一个有点简单的问题，但我似乎无法在任何地方找到明确的答案。 我有一个端点，它根据某种逻辑更新实体，然后结果删除另一个实体。我是否应该将整个过程保留在一个端点函数中？ 我已经看到了将其分成两个端点（PUT 和 DELETE）的建议，但是当服务器已经可以直接访问其中的每个函数，而无需使用 api 调用。   由   提交/u/DoucheyMcSwagson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187w7vu/separate_complex_endpoint_call_or_not/</guid>
+      <pubDate>Thu, 30 Nov 2023 23:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>从docker容器捕获请求并修改它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/187v86u/capturing_request_from_docker_container_and/</link>
+      <description><![CDATA[你好，我有一个问题，在 Google 或聊天中找不到简单的答案。 问题：我有一个 docker 容器我无法修改。它从端口 5000 提供内容，基本 url 当然是 / 。我还有一个带有一些网址的公共网站。我想从 {url}/project/1/ url 提供网站服务。  现在，我知道我可以使用 nginx 通过简单的 proxy_pass http://127.0.0.1:5000 将 {url}/project/1/ 重定向到我的 docker /; 但是当我有像 main.css 这样的文件或任何重定向/请求时就会出现问题。它们都会调用基本 url，例如 {url}/main.css 或 {url}/scripts。例如，如果重定向到 /project/1/main.css ，就不会有问题。 如何才能使 docker 容器中的所有内容都知道在所有请求/重定向前面加上 &lt; code&gt;/project/1? 我当前的 nginx conf:  server { Listen 80;位置/project/1 { proxy_pass http://127.0.0.1:5000/; # 其余配置用于设置标头等， } }    由   提交/u/KW__REDDIT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187v86u/capturing_request_from_docker_container_and/</guid>
+      <pubDate>Thu, 30 Nov 2023 22:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何处理稍后可能会使用但不确定的存储库中的旧代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/187uxl2/what_do_you_guys_do_with_old_code_in_a_repo_you/</link>
+      <description><![CDATA[这个问题从一开始就困扰着我。您通常会如何处理可能会带回来但还不确定的旧路由或代码？   由   提交 /u/vorpalglorp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187uxl2/what_do_you_guys_do_with_old_code_in_a_repo_you/</guid>
+      <pubDate>Thu, 30 Nov 2023 22:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>它无处不在</title>
+      <link>https://www.reddit.com/r/webdev/comments/187uvjh/its_everywhere_i_look/</link>
+      <description><![CDATA[       由   提交/u/lzy_red  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187uvjh/its_everywhere_i_look/</guid>
+      <pubDate>Thu, 30 Nov 2023 22:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何在预订表格上添加电话号码验证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/187ufk4/how_should_i_go_about_adding_phone_number/</link>
+      <description><![CDATA[我使用 Wordpress（Apache、PHP、MariaDB）。我使用 Amelia 预订插件，以便客户可以在线预约。 我希望在预订过程中，当客户输入他的电话号码时，他需要进行验证。它将使用whatsapp业务api向他的whatsapp发送验证码。 我认为这就是我需要开发人员的地方，但我不确定开发人员需要什么知识？  我询问了chatgpt并得到了这个答复。这是正确的处理方式吗？ ​ ​ ​ &lt; p&gt;​ “以下是如何集成 WhatsApp Business API 以在预约过程中对用户进行身份验证： 第 1 步：修改预约表格  您需要修改预订表单以添加触发 WhatsApp 身份验证的按钮。在输入有效的电话号码之前，应禁用此按钮。您可能需要自定义插件的 PHP 和 JavaScript 文件才能执行此操作。  步骤 2：实施 WhatsApp Business API 进行身份验证  当用户单击身份验证按钮时，执行以下步骤： ​  检索用户输入的电话号码。  生成验证码并临时存储在服务器上。  使用 WhatsApp Business API 将此代码发送到用户的电话号码。   步骤 3：添加验证码的输入字段  发送代码后，为用户提供额外的输入字段输入收到的代码。在用户请求代码后，可以使用 JavaScript 动态显示该字段。  ​  当用户输入代码并按“验证”时按钮，使用AJAX将输入的验证码与服务器端存储的验证码进行比较。 如果验证码匹配，则标记验证成功。您可以在表单上直观地表明这一点，例如通过更改验证按钮的颜色。  如果代码不匹配，请告知用户并给他们重试的机会。   第4步：完成预订  只有电话号码验证成功后才允许用户完成预订。    由   提交/u/futurePluto29   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187ufk4/how_should_i_go_about_adding_phone_number/</guid>
+      <pubDate>Thu, 30 Nov 2023 21:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>每当我打开 VS Code 时，我都想关闭它，但我不知道该怎么办。</title>
+      <link>https://www.reddit.com/r/webdev/comments/187ty9l/whenever_i_open_vs_code_i_want_to_close_it_and_i/</link>
+      <description><![CDATA[我已经使用 Web 开发版本的 writer&#39;s block 几个月了，不知道该怎么办。我似乎一次不能写超过一个小时的代码，而且我对项目工作的注意力也急剧下降。虽然兴趣/爱好可能会改变，但我仍然想编码。我仍然珍惜我的项目和家，希望有一天能看到它们完成。  ​ 我想听听其他一些也经历过这种情况的人的意见，以及你是如何摆脱这种困境的。    由   提交 /u/NetDistribution   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187ty9l/whenever_i_open_vs_code_i_want_to_close_it_and_i/</guid>
+      <pubDate>Thu, 30 Nov 2023 21:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于动态访问 JS 导入及其方法的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/187tws9/question_about_accessing_js_imports_and_their/</link>
+      <description><![CDATA[不太确定如何措辞，也不确定我在搜索中是否找到了正确的关键字。所以基本上我有两个要导入的模块： import * as module1 from &#39;./api1&#39;;从&#39;./api2&#39;导入*作为模块2；  我有一个变量，它将等于任一导入的模块名称。例如： const moduleName = &#39;module1&#39;;  两个导入都有相同的方法名称，我想根据 `moduleName` 的值访问它们： [moduleName].awesomeFunction() ;  这会产生错误： [moduleName].awesomeFunction() 不是函数。  是否可以解析以便运行 module1.awesomeFunction()  如果这就是我的字符串变量是？ 谢谢！   由   提交 /u/SeaweedVisible1494   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/187tws9/question_about_accessing_js_imports_and_their/</guid>
+      <pubDate>Thu, 30 Nov 2023 21:36:51 GMT</pubDate>
+    </item>
     <item>
       <title>在给定特定参数的情况下帮助获取 IMDB ID</title>
       <link>https://www.reddit.com/r/webdev/comments/187s7x2/help_with_getting_imdb_ids_given_a_specific/</link>
@@ -22,7 +85,7 @@
     <item>
       <title>API动态路由问题之前我投入了太多的时间和精力。 （下一个JS）</title>
       <link>https://www.reddit.com/r/webdev/comments/187rrmq/api_dynamic_routing_question_before_i_invest_way/</link>
-      <description><![CDATA[我正在创建一个动态路由，通过用户 ID 从我的数据库中提取用户数据。我的问题是，这是检索用户数据的安全方法吗？这一切都在后端处理，然后通过 SWR 传递到前端（感谢另一位用户帮助我进行设置）。我只是想确保我不会把精力浪费在不安全的事情上。 API 路由不公开。   由   提交 /u/clit_or_us   [链接] [评论]]]></description>
+      <description><![CDATA[我正在创建一个动态路由，通过用户 ID 从我的数据库中提取用户数据。我的问题是，这是检索用户数据的安全方法吗？这一切都在后端处理，然后通过 SWR 传递到前端（感谢另一位用户帮助我进行设置）。我只是想确保我不会把精力浪费在不安全的事情上。 API 路由不是公开的。 编辑：这里有一些代码来说明我的意思： // src/hooks/userHook.ts import useSWR from &#39;swr&#39; ;从&#39;next-auth/react&#39;导入{useSession}；从 &#39;@/lib/utils/helperFunctions&#39; 导入 { configUrl }； const useUser = () =&gt;; { const { 数据：会话 } = useSession(); const userId = 会话?.user._id; const userFetcher = async () =&gt;; { return wait fetch(`${configUrl()}/api/user/${userId}`, { method: &#39;GET&#39;, }); }; const { data: user, mutate: mutateUser, error: errorUser, isValidating: validatingUser, isLoading, } = useSWR(`/api/user/${userId}`, userFetcher);返回 { user, mutateUser, errorUser, validatingUser, isLoading }; };导出默认的useUser；  这是我的路线： // src/app/api/user/[id].js import { NextApiRequest} from &#39;next&#39;;从&#39;next/server&#39;导入{NextResponse}；导出异步函数 GET(req: NextApiRequest, params) { const userId = params.id console.log(&#39;FROM API ROUTE&#39;, userId );返回新的 NextResponse(&#39;已触发&#39;); }  请忽略缺少打字和基本代码，因为在添加所有内容之前我只专注于功能。   由   提交 /u/clit_or_us   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/187rrmq/api_dynamic_routing_question_before_i_invest_way/</guid>
       <pubDate>Thu, 30 Nov 2023 20:08:15 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[​ 在雇用网页设计师时我需要哪些技能？ 这里是项目。  这是一个体育联盟。我希望在网上有一个地方，人们可以轻松上传有关玩家的统计数据、游戏结果、游戏图片和视频。我希望以可搜索的格式提供统计数据。它不会有超高的容量。也许每天最多会有一两个人提交意见。它需要美观，并且需要让人感觉很容易提供提交（否则人们不会这样做。）  我们想雇人来做这件事。什么样的人会承担这个项目？我们正在寻找哪些技能？哪里可以找到提供此服务的人？   由   提交 /u/scottostach   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/187qv5g/what_skills_do_i_look_for_in_hiring_a_web_designer/</guid>
       <pubDate>Thu, 30 Nov 2023 19:30:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题回复：恢复客户的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/187q5i2/question_re_restoring_a_clients_website/</link>
-      <description><![CDATA[我以低于市场的费用托管客户的目录网站。两年前，在大流行期间，该组织暂时关闭，他们指示我禁用大部分页面/功能，只留下主页和关于页面。现在他们正在讨论恢复该目录。他们要求与他们的小组查看旧网站以进行讨论。但当然这不是现场直播。我必须从备份中恢复并将其全部备份到我的服务器上的其他地方许多插件也已经过时，因此如果没有更新，功能将不存在。我报了做这项工作的价格。我应该免费恢复它吗？   由   提交/u/june_night  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187q5i2/question_re_restoring_a_clients_website/</guid>
-      <pubDate>Thu, 30 Nov 2023 19:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止构建数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/187pnz5/stop_building_databases/</link>
-      <description><![CDATA[工程师们大家好！ 我一直在思考我们许多项目中反复出现的主题，尤其是在复杂的前端应用程序中。我们经常发现自己正在构建数据管理功能，以至于几乎就像我们每次都在创建特定于域的数据库一样。这种重复的复杂性使我们无法真正增强用户体验和解决独特的业务问题。 这让我想到一个问题：前端优化的数据库解决方案在哪里？为了探索这一点，我正在构建 SQLSync。它是一个前端优化的数据库堆栈，构建在 SQLite 之上，并包含受 Git 和分布式系统启发的同步引擎。我们的想法是更有效地管理这些复杂的数据挑战，使我们能够专注于使我们的应用程序脱颖而出的因素。 但这只是一种方法。我很好奇你在这方面的想法和经历。您在前端项目中是否遇到过类似的挑战？如何在不每次重新发明轮子的情况下管理数据复杂性？您发现有哪些工具或方法在简化这方面的开发方面特别有效吗？ 我在最近撰写的博客文章中详细探讨了这些想法，我很想听听您的见解关于这个话题。对于那些有兴趣深入研究的人来说，以下是链接：https://sqlsync.dev/posts/stop-building-databases/  期待进行精彩的讨论并从您的经验中学习！   由   提交 /u/carlsverre   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187pnz5/stop_building_databases/</guid>
-      <pubDate>Thu, 30 Nov 2023 18:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始作为开发人员工作，我应该要求加薪吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/187pdms/starting_to_work_as_a_developer_should_i_ask_for/</link>
-      <description><![CDATA[毕业后，我参加了学校为所有找不到工作的人提供的一些（免费）训练营，但我们在那里并没有学到很多东西但我得到了很多人脉，并从那里得到了一份测试员的工作，主要是手动测试，但在这个市场上，你可以尽你所能。在面试中，经理确实告诉我，他们一直在寻求晋升人员，如果我表现出色，我将能够成为那里的开发人员。 上周，我的经理告诉我，我可以搬到下一个冲刺的开发人员职位，这太棒了。但他没有提到任何关于薪酬的事情......作为一名测试人员，我的工资约为 45K$（半HCOL）（在我的国家，没有经验的测试人员的平均工资约为 55K$），在 glassdoor 中我看到了这家公司向初级开发人员支付 70-105K$（在我的国家，没有经验的开发人员的平均工资约为 80K$）。 我应该与他讨论薪资吗？对我来说似乎有点奇怪，我会得到同样的报酬，但似乎如果我不说什么，就会发生这种情况。我在工作中并没有真正可以咨询的亲密朋友。 目前的薪水根本不适合我 - 有时我周末在一些保安工作中工作一两班只是为了支付工资我的租金。   由   提交 /u/MrSirCR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187pdms/starting_to_work_as_a_developer_should_i_ask_for/</guid>
-      <pubDate>Thu, 30 Nov 2023 18:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的框架不是你的宗教——人类身份还不能在 JavaScript 上运行。</title>
-      <link>https://www.reddit.com/r/webdev/comments/187pd9d/your_framework_is_not_your_religion_human/</link>
-      <description><![CDATA[   /u/hdodov  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187pd9d/your_framework_is_not_your_religion_human/</guid>
-      <pubDate>Thu, 30 Nov 2023 18:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>OAuth2.0 访问令牌仅保留第 3 方应用程序的范围还是用户权限/角色？</title>
-      <link>https://www.reddit.com/r/webdev/comments/187pcib/do_oauth20_access_tokens_only_hold_scopes_for_3rd/</link>
-      <description><![CDATA[我了解了用户授予令牌持有者访问权限的令牌持有范围的基本概念，但我不确定用户本身的角色. 用户的角色是否也添加到访问令牌内，或者这种情况相当不常见，需要有不同的解决方案来确定允许承载者在用户授予的范围内执行哪些操作？&lt; /p&gt; 所以基本上：用户角色是 OAuth 2.0 的一部分还是后端的单独关注点（授权令牌的范围 --&gt; 然后从任何地方获取用户的角色（子声明）并授权针对角色/权限）   由   提交/u/mangyCarl3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187pcib/do_oauth20_access_tokens_only_hold_scopes_for_3rd/</guid>
-      <pubDate>Thu, 30 Nov 2023 18:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>LAN 中平板电脑上的通知提示</title>
-      <link>https://www.reddit.com/r/webdev/comments/187os0w/tips_for_notifications_on_tablet_in_lan/</link>
-      <description><![CDATA[您好， 我负责开发一个制造辅助应用程序，该应用程序与 PLC 实时通信，动态表示材料的（带有附件的面板的 2D 比例表示，无交互）。  它将在计算机上使用，但必须有人在平板电脑上使用它，并在出现问题时发出通知（请求帮助或向 PLC 发出警报）。  我的想法是使用 NodeJS 和 ReactJS 制作一个 Web 应用程序，但是如何在平板电脑上管理用户的通知？  我以为我可以使用 PWA 安装 Web 应用程序，但它将在没有证书的情况下在本地托管。这会给通知带来问题吗？有更好的解决方案吗？   由   提交/u/Kiano_Jajino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187os0w/tips_for_notifications_on_tablet_in_lan/</guid>
-      <pubDate>Thu, 30 Nov 2023 18:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名评级员</title>
-      <link>https://www.reddit.com/r/webdev/comments/187okld/domain_name_rater/</link>
-      <description><![CDATA[您好， 几年前，我发现了一个网站，它对域名进行了以下评级： 名称长度（0 到 10 分） seo 友好（0 到 10 分） 等等.. 有人可能知道这样的网站吗？   由   提交/u/devlenh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187okld/domain_name_rater/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>框架推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/187o630/framework_recommendation/</link>
-      <description><![CDATA[大家好，我想从头开始构建一个网站，有哪些推荐的框架可以让我以最小的努力让网站运行起来？例如。构建前端的最佳方法是什么以及构建后端的最佳方法是什么？如何托管我的服务器？  我有 5 年的编码经验，但并非专门针对 Web 开发。   由   提交 /u/2d2d2d2d2d2d2d   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187o630/framework_recommendation/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Stripe Checkout 工作流程类似的替代支付处理器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/187mf4g/alternative_payment_processor_with_similar/</link>
-      <description><![CDATA[我喜欢 Stripe 的 Checkout 工作流程，但需要替代的支付处理器。我认为最适合我的设置（AWS 无服务器）的工作流程是：用户提交订单，我生成带有编码订单的结帐 Stripe URL 并将用户重定向到那里，用户填写付款信息并提交，Stripe 重定向回我的网站，然后付款成功时使用网络钩子通知我的 API。 任何人都可以推荐具有类似工作流程的不同付款处理器吗？理想情况下，url 生成和 api 响应身份验证具有可用的 python 实现。谢谢！   由   提交/u/Huge_Two5416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/187mf4g/alternative_payment_processor_with_similar/</guid>
-      <pubDate>Thu, 30 Nov 2023 16:21:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
