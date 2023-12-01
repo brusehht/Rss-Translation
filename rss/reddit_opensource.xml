@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 01 Dec 2023 18:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 21:11:57 GMT</lastBuildDate>
+    <item>
+      <title>决定将我的第一家初创公司开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/188j1is/decided_to_make_my_first_startup_open_source/</link>
+      <description><![CDATA[一些原因 - 获得潜在企业客户的信任 - 获得贡献以添加的可能性与我的工具进行更多集成 - 让我负责 ​ 这里还有其他人拥有开源的营利性初创公司吗？很想了解更多有关您的销售策略的信息（例如，您是否进行特殊许可来赚钱？或定制集成？等）   由   提交 /u/EntreEden   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/188j1is/decided_to_make_my_first_startup_open_source/</guid>
+      <pubDate>Fri, 01 Dec 2023 18:37:10 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox Developer Edition 和 Beta：尝试 Mozilla 的 .deb 包！ - Mozilla Hacks - Web 开发者博客</title>
       <link>https://www.reddit.com/r/opensource/comments/188d2am/firefox_developer_edition_and_beta_try_out/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>使用 2 个许可证分叉和重新分发开源软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1885tgf/forking_and_redistributing_open_source_software/</link>
-      <description><![CDATA[嗨，我想在不同的许可证下分叉、修改和重新分发开源软件。 这背后的原因是，我想修改该工具以与我正在构建的产品的其余部分顺利集成。我为此目的所做的更改将与上游项目无关，并且该工具仅是我正在构建的产品的一小部分。 棘手的部分是，我使用的开源工具想要分叉有 2 个许可证。主许可证文件说，所有文件都在 MIT 下，并且特定文件夹内的文件在不允许商业使用的不同许可证下。 我完全尊重这一点，因为我自己将分发我的软件处于非许可许可下，以保护我的公司获取我们提供的价值的能力。 为了避免重新发明轮子，我想知道是否可以克隆该项目并删除以下代码不在 MIT 许可下并在我的产品中使用吗？我不想声称该工具是我的作品，当然会归功于原始创建者:)   由   提交 /u/dr-not-so-strange   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我想在不同的许可证下分叉、修改和重新分发开源软件。 这背后的原因是，我想修改该工具以与我正在构建的产品的其余部分顺利集成。我为此目的所做的更改将与上游项目无关，并且该工具仅是我正在构建的产品的一小部分。 棘手的部分是，我使用的开源工具想要分叉有 2 个许可证。主许可证文件说，所有文件都在 MIT 下，并且特定文件夹内的文件在不允许商业使用的不同许可证下。 我完全尊重这一点，因为我自己将分发我的软件处于非许可许可下，以保护我的公司获取我们提供的价值的能力。 为了避免重新发明轮子，我想知道是否可以克隆该项目并删除以下代码：不在 MIT 许可下并在我的产品中使用吗？我不想声称该工具是我的作品，当然会归功于原始创建者:)   由   提交 /u/dr-not-so-strange   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1885tgf/forking_and_redistributing_open_source_software/</guid>
       <pubDate>Fri, 01 Dec 2023 07:12:55 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 01 Dec 2023 06:51:24 GMT</pubDate>
     </item>
     <item>
-      <title>文档扫描仪替代方案</title>
+      <title>文档扫描仪替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1884k01/document_scanner_alternative/</link>
       <description><![CDATA[有什么好的 FOSS CamScanner 替代品吗？谷歌搜索没有找到。有Openscan，但项目似乎已关闭。   由   提交 /u/jaypatelani   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1884k01/document_scanner_alternative/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 在经历了大量错误和错误的开始之后。我和另外 2 个人有一个合理的生成式 AI 框架原型，开发人员可以使用它在 javascript/typescript 中构建。 有大量的 TS/JS 框架 - 但没有一个专注于生成式 AI 的特性应用程序（提示缓存、路由器、令牌计数器等）。我也意识到 - 非常痛苦 - 我不是 TS 专家。寻求对能够进行代码审查和提交错误的人员的帮助。任何错误都足够好 - 我已经意识到代码还没有接近好。 将非常感激！ https://github.com/arakoodev/EdgeChains/tree/ts/JS/edgechains https://www.npmjs.com/package/@arakoodev/edgechains.js &lt; !-- SC_ON --&gt;  由   提交/u/sandys1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/187e49l/looking_for_someone_to_codereview_an_opensource/</guid>
       <pubDate>Thu, 30 Nov 2023 08:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>有一个应用程序可以限制对 wifi 和移动数据的访问，以阻止各种应用程序在后台运行？建议？ （无根）</title>
-      <link>https://www.reddit.com/r/opensource/comments/187drn2/an_application_with_which_i_can_restrict_access/</link>
-      <description><![CDATA[ 由   提交/u/EvilOmega99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/187drn2/an_application_with_which_i_can_restrict_access/</guid>
-      <pubDate>Thu, 30 Nov 2023 08:28:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
