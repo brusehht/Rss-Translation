@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 02 Dec 2023 00:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 03:13:05 GMT</lastBuildDate>
+    <item>
+      <title>有兴趣建立我自己的 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/188u5pk/interested_in_setting_up_my_own_api/</link>
+      <description><![CDATA[您好！我有兴趣为一个极小规模的项目设置自己的 api。 上下文，我正在为游戏创建一个 mod，其中有一个商店系统。我的想法是添加任务，当你当天击败所有任务时，这些任务会给你折扣。我希望它不只是随机，还可以检查 API 以查看是否存在自定义任务。 什么服务最适合执行此操作？我知道可能没有用于设置 API 的服务，但哪种服务最适合托管数据？我不介意花钱，只要对于我不想从中获利的项目来说是公平的。   由   提交/u/bruh-man_  /u/bruh-man_  reddit.com/r/webdev/comments/188u5pk/interested_in_setting_up_my_own_api/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188u5pk/interested_in_setting_up_my_own_api/</guid>
+      <pubDate>Sat, 02 Dec 2023 03:09:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Kotlin、Jackson 和 Spring Boot 反序列化多态列表</title>
+      <link>https://www.reddit.com/r/webdev/comments/188u44r/deserializing_polymorphic_lists_with_kotlin/</link>
+      <description><![CDATA[       由   提交/u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188u44r/deserializing_polymorphic_lists_with_kotlin/</guid>
+      <pubDate>Sat, 02 Dec 2023 03:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Bearer token 进行 API 调用时，会出现 403 错误，但只是偶尔出现</title>
+      <link>https://www.reddit.com/r/webdev/comments/188t5cr/making_api_call_with_bearer_token_get_403_error/</link>
+      <description><![CDATA[我正在使用 API 所有者向我提供的不记名令牌进行 API 调用（在 Google Apps 脚本中）。有时，当我运行脚本时，会收到 403 错误，并显示消息“禁止”。其他时候，我会收到包含 API 调用的正确 json 数据的响应 这有时会起作用，但其他人却收到禁止的响应，这是否有原因？ 下面的代码，就在case: function getAPI() { var bearer = &#39;mybearertoken&#39; var transactionUrl = &#39;APIurlendpoint&#39; var options = { method: &#39;GET&#39;, headers: { 授权: `Bearer ${bearer} `}, } var response = UrlFetchApp.fetch(transactionUrl,options) var data = JSON.parse(response.getContentText()) Logger.log(data) }    由   提交/u/Endertech74  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188t5cr/making_api_call_with_bearer_token_get_403_error/</guid>
+      <pubDate>Sat, 02 Dec 2023 02:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试在 Woocommerce / Flatsome 主题中隐藏粘性添加到购物车上的代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/188sgry/trying_to_hide_code_on_sticky_add_to_cart_in/</link>
+      <description><![CDATA[将此内容发布在 r/php 中，但是管理员删除了它并告诉我将其发布在这里。 TIA 嗨。我在 Woocommerce 产品页面上的“添加到购物车”按钮下方添加了产品变体按钮。附加按钮显示良好，但它们也显示在 Flatsome 的粘性添加到购物车上，这使得东西非常拥挤且不用户友好。我添加了一个额外的脚本来隐藏粘性添加到购物车上的按钮，但似乎没有任何作用。我做错了什么？？？ // 插入唯一标识符的电源选项按钮部分 add_action(&#39;woocommerce_after_add_to_cart_form&#39;, &#39;insert_power_options_section_UNIQUE_IDENTIFIER&#39;, 10); function insert_power_options_section_UNIQUE_IDENTIFIER() { echo &#39;&#39;; echo &#39;电源选项&#39;; echo &#39;65W&#39;； echo &#39;100W“”； echo &#39;200W&#39;；回显“&lt;/div&gt;”； &lt;脚本&gt; // 检查类 &#39;sticky-add-to-cart&#39; 的元素是否存在 var StickyAddToCart = jQuery(&#39;.sticky-add-to-cart&#39;); // 如果存在，隐藏 &#39;power-options&#39; div if (stickyAddToCart.length) { jQuery(&#39;#powerOptions&#39;).hide(); } &lt;/脚本&gt; }  ​   由   提交/u/anon7971  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188sgry/trying_to_hide_code_on_sticky_add_to_cart_in/</guid>
+      <pubDate>Sat, 02 Dec 2023 01:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍Python框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/188s2nq/introductory_python_framework/</link>
+      <description><![CDATA[   我不知道是否有人刚刚开始他们的 Web 开发之旅或者刚刚进入后端，但我做了一个简化的框架作为介绍，然后转到名为 mango 的烧瓶/瓶子！   由   提交 /u/m00np0w3r   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188s2nq/introductory_python_framework/</guid>
+      <pubDate>Sat, 02 Dec 2023 01:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>自以为是的 Vue 地图卡</title>
+      <link>https://www.reddit.com/r/webdev/comments/188rrnv/opinionated_vue_map_card/</link>
+      <description><![CDATA[      Vue 的地图卡组件，提供了一种使用地址查询或坐标在地图上显示位置的简单方法。该组件是使用 Vue 3、TypeScript 构建的&gt; 和 OpenStreetMap！ 您可以在 Github 🤠 ​ https://i.redd.it/eq8tie8c7s3c1.gif   由   提交/u/this-oliver  /u/this-oliver  reddit.com/r/webdev/comments/188rrnv/opinionated_vue_map_card/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188rrnv/opinionated_vue_map_card/</guid>
+      <pubDate>Sat, 02 Dec 2023 01:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售我的第一个网站 - 有什么好的展示图像生成器吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188rm3i/selling_my_first_website_any_good_showcase_image/</link>
+      <description><![CDATA[我在 themeforest 和类似网站上看到大量非常性感的长网站展示图像 - 想知道是否有解决方案可以为您生成这些图像关闭网址 我真的不想投入时间来制作一个已经存在的解决方案，可以做到这一点 （如果没有，我可能必须制作一个哈哈）    由   提交 /u/frothymonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188rm3i/selling_my_first_website_any_good_showcase_image/</guid>
+      <pubDate>Sat, 02 Dec 2023 01:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>互动登陆</title>
       <link>https://www.reddit.com/r/webdev/comments/188qjgv/interactive_landing/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>塑造互联网的 10 个奇怪的 HTML 黑客</title>
       <link>https://www.reddit.com/r/webdev/comments/188qirq/10_weird_html_hacks_that_shaped_the_internet/</link>
-      <description><![CDATA[    /u/DrinkMoreCodeMore   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/DrinkMoreCodeMore   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/188qirq/10_weird_html_hacks_that_shaped_the_internet/</guid>
       <pubDate>Sat, 02 Dec 2023 00:08:46 GMT</pubDate>
     </item>
@@ -36,21 +85,21 @@
     <item>
       <title>帮助创建一个有关获取 API 的学校项目</title>
       <link>https://www.reddit.com/r/webdev/comments/188prpk/help_with_creating_a_school_project_on_fetching/</link>
-      <description><![CDATA[协议如下，我必须创建一个网站，通过搜索邮政编码我可以获得天气预报和该地点的一些最新新闻。  老实说我真的迷失了。我需要帮助寻找可以自己学习的资源。网站本身不必很复杂或特别漂亮，只需工作并具有响应能力即可。 ​ 请帮忙，这相当于我成绩的 25% （我快疯了）   由   提交 /u/CouldBeAFurry   [链接] [评论]]]></description>
+      <description><![CDATA[协议如下，我必须创建一个网站，通过搜索邮政编码我可以获得天气预报和该地点的一些最新新闻。  老实说我真的迷路了。我需要帮助寻找可以自己学习的资源。网站本身不必很复杂或特别漂亮，只需工作并具有响应能力即可。 ​ 请帮忙，这相当于我成绩的 25% （我快疯了）   由   提交 /u/CouldBeAFurry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/188prpk/help_with_creating_a_school_project_on_fetching/</guid>
       <pubDate>Fri, 01 Dec 2023 23:33:31 GMT</pubDate>
     </item>
     <item>
       <title>希望使用 Whisper 构建 Chrome 扩展</title>
       <link>https://www.reddit.com/r/webdev/comments/188pgxt/looking_to_build_chrome_extension_w_whisper/</link>
-      <description><![CDATA[嘿大家 在这被否决之前：我已经使用搜索并浏览了 github 一个小时。  我正在寻找一个样板来帮助我组装一个 chrome 扩展，该扩展将利用耳语（我可以弄清楚 api 等..）并将其吐出在侧边栏上。我已经做过一段时间的 nocode 开发人员，但在这里尽我最大的努力来加入！ 我已经使用过 chatgpt，它确实是从头开始的，我相信会造成很多膨胀。  提前致谢！   由   提交 /u/surim0n   [链接] [评论]]]></description>
+      <description><![CDATA[嘿大家 在这被否决之前：我已经使用搜索并浏览了 github 一个小时。  我正在寻找一个样板来帮助我组装一个 chrome 扩展，该扩展将利用耳语（我可以弄清楚 api 等..）并将其吐出在侧边栏上。我已经成为一名 nocode 开发者一段时间了，但我正在尽我最大的努力来加入！ 我已经使用过 chatgpt，它确实是从头开始的，我相信会造成很多膨胀。  提前致谢！   由   提交 /u/surim0n   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/188pgxt/looking_to_build_chrome_extension_w_whisper/</guid>
       <pubDate>Fri, 01 Dec 2023 23:19:51 GMT</pubDate>
     </item>
     <item>
       <title>您在开发过程中是否也会进行截图来回顾您的进度？</title>
       <link>https://www.reddit.com/r/webdev/comments/188p08x/do_you_also_make_screenshots_during_development/</link>
-      <description><![CDATA[有多少人还会在每次重大更新后对网站进行屏幕截图，以便可以在最后制作幻灯片并查看进度？ 我不久前告诉了我的一个朋友这件事，他表现得好像我疯了一样。 我觉得这很令人满意，就像 YouTube 上的那些构建者视频之一。我仍然保存着一些几年前的项目幻灯片，反思我作为开发人员的成长过程真的很酷。   由   提交/u/mal73  [链接] [评论]]]></description>
+      <description><![CDATA[有多少人还会在每次重大更新后对网站进行屏幕截图，以便可以在最后制作幻灯片并查看进度？ 我不久前告诉了我的一个朋友这件事，他表现得好像我疯了一样。 我觉得这很令人满意，就像 YouTube 上的那些构建者视频一样。我仍然保存着一些几年前的项目幻灯片，反思我作为开发人员的成长过程真的很酷。   由   提交/u/mal73  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/188p08x/do_you_also_make_screenshots_during_development/</guid>
       <pubDate>Fri, 01 Dec 2023 22:59:08 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[您的首选技术堆栈是什么，用于快速测试想法并让某些东西启动并运行，同时在规模和迭代方面提供最佳的灵活性？    由   提交 /u/mufasis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/188ofds/which_technology_stack_would_you_choose_for/</guid>
       <pubDate>Fri, 01 Dec 2023 22:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一个网站上使用两个域</title>
-      <link>https://www.reddit.com/r/webdev/comments/188o3mk/using_two_domains_on_a_single_website/</link>
-      <description><![CDATA[我正在寻找一种方法让我的网站使用两个不同的 URL 但显示相同的内容。  就上下文而言，我有两家零售店，我们将它们称为 RetailCity1 和 RetailCity2，它们都销售相同的产品，但位于不同的城市。商店所在的城市是商店名称的一部分。鉴于两家商店销售相同的产品，我希望两家商店都有一个电子商务网站。 我知道我可以重定向 URL，因此可以将 RetailCity1.com 重定向到 RetailCity2.com，但这并不能解决我的问题，因为我不希望所有客户都只访问 RetailCity2.com。  总之，我正在寻找某种解决方案，允许我的网站出现在 RetailCity1.com 和 RetailCity2.com 上，但在两种情况下都显示不同的 URL。 我我还使用 GoDaddy 托管我的域名，并使用 Wordpress 构建我的网站。希望这个解释足够清楚。非常感谢任何帮助！   由   提交/u/Mvso1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188o3mk/using_two_domains_on_a_single_website/</guid>
-      <pubDate>Fri, 01 Dec 2023 22:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们只为开发人员和开发工具构建产品搜寻克隆？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188nz8q/why_we_built_a_product_hunt_clone_only_for/</link>
-      <description><![CDATA[      ​ DevHunt DevHunt - 由我们开发人员构建的平台，用于展示我们的开发工具。 当我们努力让我们自己的产品出现在 Product Hunt 上时，我们一直站在您的立场上和其他平台。  这感觉不公平 - 非开发产品会排挤我们努力开发的一切！  因此，我们决定亲自处理此事。  作为开发人员，我们的目标是创建一个专门针对开发人员工具定制的更好的启动板 - 每一次投票都很重要，并且通过 GitHub 身份验证来维护真实性。  然后剧情发生了转折：如果不让这个项目保持闭源，为什么不将其开源呢？这样，任何人都可以在数小时内拥有自己的专用启动板！  我们 DevHunt 的使命很简单 - 为全世界的开发者提供一个无障碍的空间，让他们无需担心就可以展示自己的作品，从而为他们提供支持。分散注意力，同时培养贡献者的社区所有权！ ​ 查看：https://devhunt .org   由   提交 /u/sidi_jeddou   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188nz8q/why_we_built_a_product_hunt_clone_only_for/</guid>
-      <pubDate>Fri, 01 Dec 2023 22:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Socket CLI v0.9.0 现已推出</title>
-      <link>https://www.reddit.com/r/webdev/comments/188mofi/socket_cli_v090_now_available/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188mofi/socket_cli_v090_now_available/</guid>
-      <pubDate>Fri, 01 Dec 2023 21:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人急需 20 美元吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188miwh/anyone_need_20_bucks_real_quick/</link>
-      <description><![CDATA[我只需要快速回答几个问题。  &amp;# 32；由   提交 /u/战马  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188miwh/anyone_need_20_bucks_real_quick/</guid>
-      <pubDate>Fri, 01 Dec 2023 21:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务七大指标</title>
-      <link>https://www.reddit.com/r/webdev/comments/188m8lk/seven_indicators_for_microservices/</link>
-      <description><![CDATA[   /u/kobalazs  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188m8lk/seven_indicators_for_microservices/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用网络技术动态创建文档，这可能吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188lmwb/creating_documents_dynamically_with_web/</link>
-      <description><![CDATA[我正在尝试确定以下操作是否可行。 我想要创建和管理一个文档包含程序和策略，我还希望能够在这些程序更新时更新文档的各个部分。 想法是，程序的内容将存储在数据库中并从中提取，数据库还将包含程序版本（或修订）号、批准日期等。 这将出于所有意图和目的允许多个文档共享相同的程序，或至少引用特定版本 在生成网页/视图时，我对此相当满意。 让我感到困惑的是，我想显示此内容，就好像它适合 A4/Letter 页面，并且有某种方式在每个页面上了解以下（理想情况下会自动更新）程序版本、其扩展的页码以及创建策略的时间。 想象一下一个动态页脚，其中包含页码、生效日期以及该页面上任何过程的版本。 如果从数据库中绘制的所有内容都适合在一页纸上，那么这似乎很简单，但是有时，由于每个过程的内容，内容可能会被推入下一页。 即 第 1 页内容： procedure-a/0.3/2023 -10-09 第1页页脚：第1页 - Rev 0.3 - 2023年10月9日 第2页内容： procedure-b/1.2/2022-05-17 第2页页脚：第2页 - Rev 1.2 - 2022年5月17日 第3页内容： procedure-b/1.2/2022-05-17 第 3 页页脚：第 2 页 - Rev 1.2 - 2022 年 5 月 17 日  但是如果 procedure-a 增长到超过一页长度， procedure-b 需要从第 2 页和第 3 页移动到第 3 页和第 4 页。 有人知道有任何框架或系统可以允许这样的事情吗？我希望保持它基于网络，但感觉我可能必须研究像 PDF 类型系统的降价之类的东西，我只是想不出一种方法让内容知道它在哪个页面上。如果这是有道理的。   由   提交 /u/Csysadmin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188lmwb/creating_documents_dynamically_with_web/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为开发人员创建了最愚蠢的降临代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/188jwj7/i_created_the_silliest_advent_code_for_devs/</link>
-      <description><![CDATA[我为开发者运营一家挪威新闻网站，今年我们决定开发一款降临节日历游戏，基于 90 年代的游戏，例如毒品战争。在我们的游戏中，您扮演一名 IT 顾问，每天必须在平安夜之前完成一项任务。 :D  如果你愿意的话就试试吧:) 已经有超过 1000 名玩家了： https:/ /www.kode24.no/julekalender2023   由   提交 /u/retrojorgen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188jwj7/i_created_the_silliest_advent_code_for_devs/</guid>
-      <pubDate>Fri, 01 Dec 2023 19:14:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

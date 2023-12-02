@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 02 Dec 2023 00:50:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 03:12:40 GMT</lastBuildDate>
     <item>
-      <title>移动应用开发团队面临的挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/188ps4g/the_challenges_facing_a_mobile_application/</link>
+      <title>对于从高级开发人员的角度开始的人们来说，哪些主题会感兴趣？</title>
+      <link>https://www.reddit.com/r/programming/comments/188tp5b/what_topics_would_be_interesting_to_the_folks_who/</link>
+      <description><![CDATA[大家好。我考虑从高级开发人员的角度制作一些 YouTube 视频教程，以帮助一些愿意选择进入软件开发的可怜人。 我在 IT 领域拥有 10 年多一点的专业经验（ BL 开发人员、团队领导、开发人员（研发、部门主管）。 如果我必须描述自己，我会说我是“万事通”。我知道这听起来有点自命不凡，但实际上很糟糕。继续我的引言 - “...无为大师”。 好的事情是，多年来我学会了从项目开始到生产的所有事情： 与销售、PM、BA 合作（通常是为了确保他们不会搞砸我们）；设计最佳架构*；迁移旧的垃圾项目：编码和实现安全和性能敏感的功能；管理win/nix服务器；管理 CI/CD 和开发服务（Git、Sonar、nexus 等）；调试基础设施垃圾（即戴尔显示器驱动程序停止 msdtc）；实施kerberos；解决内存泄漏（在托管语言中 - 如果您没有在类加载器 ML 上至少拔掉一次头发，请不要笑）；解决dns、网络问题；进行安全审计；设置反向代理；故障转移集群等等。  示例：我从事的核心服务在超过 1k 台服务器上本地运行，这些服务器的规格不同，超出了我们的控制范围。要求是实现文档的数字签名。第三方签名服务是异步的，他们需要回调地址。因此，我的解决方案不是在每台服务器上部署服务、打开防火墙、DNS、静态 IP，而是基于云，每个服务器都可以轮询队列。  无论如何， 当我想到我的第一份开发工作时，技术方面的工作非常简单，对我来说更具挑战性的工作是政治、会议等，简单地说就是“公司工作”。 我想知道您认为哪种类型的内容对进入编程/IT 行业的人们最有利？  我精通C#、Java、Node、SQL； JS/TS/角度； AWS，对许多语言/技术不太精通。 如果你刚开始，你想看到什么？  &amp;# 32；由   提交 /u/AvgEverydayNormalGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/188tp5b/what_topics_would_be_interesting_to_the_folks_who/</guid>
+      <pubDate>Sat, 02 Dec 2023 02:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNN 背景下的隐私：使用 langchain + GPT-4 了解法学硕士对您的了解</title>
+      <link>https://www.reddit.com/r/programming/comments/188tju6/privacy_in_the_context_of_dnns_see_what_llms_know/</link>
+      <description><![CDATA[ 由   提交/u/an0101010   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/188tju6/privacy_in_the_context_of_dnns_see_what_llms_know/</guid>
+      <pubDate>Sat, 02 Dec 2023 02:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程工作倦怠是真实存在的</title>
+      <link>https://www.reddit.com/r/programming/comments/188t71n/remote_work_burnout_is_real/</link>
       <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188ps4g/the_challenges_facing_a_mobile_application/</guid>
-      <pubDate>Fri, 01 Dec 2023 23:34:04 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/188t71n/remote_work_burnout_is_real/</guid>
+      <pubDate>Sat, 02 Dec 2023 02:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是普通的网络事物。</title>
+      <link>https://www.reddit.com/r/programming/comments/188s550/just_normal_web_things/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/188s550/just_normal_web_things/</guid>
+      <pubDate>Sat, 02 Dec 2023 01:26:33 GMT</pubDate>
     </item>
     <item>
       <title>Endatabas：受 SQLite 启发、具有完整历史记录的 SQL 文档数据库</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/188l3as/skyfield_elegant_astronomy_for_python/</guid>
       <pubDate>Fri, 01 Dec 2023 20:07:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Mac OS X 的 ACS 徽标</title>
-      <link>https://www.reddit.com/r/programming/comments/188l2j4/acslogo_for_mac_os_x/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188l2j4/acslogo_for_mac_os_x/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onyx，一种由 WebAssembly 支持的新编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/188l1an/onyx_a_new_programming_language_powered_by/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188l1an/onyx_a_new_programming_language_powered_by/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Javascript PDF-LIB 教程使用 HTML5 在浏览器中合并多个 PDF 文档</title>
-      <link>https://www.reddit.com/r/programming/comments/188kyxb/javascript_pdflib_tutorial_to_merge_multiple_pdf/</link>
-      <description><![CDATA[ 由   提交/u/Swimming_Result_5524   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188kyxb/javascript_pdflib_tutorial_to_merge_multiple_pdf/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:02:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
