@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 Dec 2023 06:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 09:11:23 GMT</lastBuildDate>
+    <item>
+      <title>有任何 FOSS 可以替代 Mac 听写、Windows 语音识别或 Nuance Dragon 吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/188yb6g/any_foss_alternatives_to_mac_dictation_windows/</link>
+      <description><![CDATA[我正在寻找 macOS 和/或 Linux 上的应用程序，可以让我实时转录到任何文本框中，并且我可以向它提供单词或句子更正，以便它可以学习我的说话方式并具有更高的准确性。   由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/188yb6g/any_foss_alternatives_to_mac_dictation_windows/</guid>
+      <pubDate>Sat, 02 Dec 2023 07:18:31 GMT</pubDate>
+    </item>
     <item>
       <title>手写笔记应用程序/软件</title>
       <link>https://www.reddit.com/r/opensource/comments/188tllc/handwriting_notetaking_appsoftware/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[各位技术人员，我已经研究这个 url 缩短器有一段时间了，因为我意识到为简单的 URL 设置链接跟踪会变得昂贵，如果您想要超越点击次数。我构建了这个软件，它为您提供与其他服务相同的功能，但完全免费。您可以在这里查看，https： //www.ishortn.ink  仪表板的用户界面（登录后即可访问）非常简洁且开门见山，让您一目了然地获得所需的所有信息。  此外，这是完全开源的。https://github.com/AmoabaKelvin/ishortn.ink   由   提交/u/kamoaba  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/187krxn/minimalist_url_shortener_with_analytics_all_free/</guid>
       <pubDate>Thu, 30 Nov 2023 15:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>雇主会关心使用 Sourcehut 而不是 GitHub 吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/187grr3/would_employers_care_about_using_sourcehut_over/</link>
-      <description><![CDATA[我目前正在使用 Sourcehut 作为我的主要代码“forge” bc 我无法忍受 GitHub 将他们的产品塞进所有东西的方式。 我有一个 GH 帐户，我正在考虑在那里镜像我的东西 - 但你认为雇主会关心 Sourcehut 是否是我的主要代码“forge”？ 我只是问，因为电子邮件的工作流程与 GH PR 等非常不同，我熟悉的 GitHub Actions 版本不同，没有带有绿色方块的页面显示哪个打开我贡献过的源项目等。 只是好奇你们怎么想   由   提交/u/rain4472  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/187grr3/would_employers_care_about_using_sourcehut_over/</guid>
-      <pubDate>Thu, 30 Nov 2023 11:51:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
