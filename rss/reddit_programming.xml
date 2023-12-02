@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 02 Dec 2023 15:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 18:13:53 GMT</lastBuildDate>
     <item>
-      <title>您能否建议视频中类似的图论在现实场景中的其他有趣应用？</title>
-      <link>https://www.reddit.com/r/programming/comments/18943p6/can_you_suggest_any_other_interesting/</link>
-      <description><![CDATA[ 由   提交/u/AdeptnessOtherwise73  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18943p6/can_you_suggest_any_other_interesting/</guid>
-      <pubDate>Sat, 02 Dec 2023 13:47:29 GMT</pubDate>
+      <title>Sway-MÜSLI：Sway - 最小超快状态线</title>
+      <link>https://www.reddit.com/r/programming/comments/189976u/swaymüsli_sway_minimal_ültrafast_status_line/</link>
+      <description><![CDATA[ 由   提交/u/deepCelibateValue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/189976u/swaymüsli_sway_minimal_ültrafast_status_line/</guid>
+      <pubDate>Sat, 02 Dec 2023 17:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过视频游戏进行计算机网络概述</title>
+      <link>https://www.reddit.com/r/programming/comments/1898ipx/overview_of_computer_networking_through_video/</link>
+      <description><![CDATA[如果您学到了什么，请告诉我   由   提交/u/the_current_solution  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1898ipx/overview_of_computer_networking_through_video/</guid>
+      <pubDate>Sat, 02 Dec 2023 17:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的开发人员没有为服务器端事件做好准备的一个问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1897du0/the_one_issue_our_developers_were_not_prepared/</link>
+      <description><![CDATA[ 由   提交/u/kapittalist  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1897du0/the_one_issue_our_developers_were_not_prepared/</guid>
+      <pubDate>Sat, 02 Dec 2023 16:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>USearch HNSW 的大规模实施速度比 FAISS 快 10 倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1896v7c/usearch_hnsw_implementation_is_10x_faster_than/</link>
+      <description><![CDATA[ 由   提交/u/ashvar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1896v7c/usearch_hnsw_implementation_is_10x_faster_than/</guid>
+      <pubDate>Sat, 02 Dec 2023 16:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>从你现有的系统中挤出来</title>
+      <link>https://www.reddit.com/r/programming/comments/1896sn1/squeeze_the_hell_out_of_the_system_you_have/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1896sn1/squeeze_the_hell_out_of_the_system_you_have/</guid>
+      <pubDate>Sat, 02 Dec 2023 16:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何正确处理 Spring StateMachine 中的错误</title>
+      <link>https://www.reddit.com/r/programming/comments/18964ts/how_to_properly_handle_errors_in_spring/</link>
+      <description><![CDATA[我在状态机中处理错误最常用的方法之一是将错误存储在扩展状态中，然后检查它并把它扔到服务层。 这是一个好方法吗？您还使用过哪些其他方法？   由   提交/u/jupiter_traveller  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18964ts/how_to_properly_handle_errors_in_spring/</guid>
+      <pubDate>Sat, 02 Dec 2023 15:31:25 GMT</pubDate>
     </item>
     <item>
       <title>Monocypher 4：彻底决裂</title>
@@ -32,20 +67,6 @@
       <description><![CDATA[ 由   提交/u/loadzero  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/188y6n8/nerd_snipe_small_integer_parsing/</guid>
       <pubDate>Sat, 02 Dec 2023 07:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNN 背景下的隐私：使用 langchain + GPT-4 了解法学硕士对您的了解</title>
-      <link>https://www.reddit.com/r/programming/comments/188tju6/privacy_in_the_context_of_dnns_see_what_llms_know/</link>
-      <description><![CDATA[ 由   提交/u/an0101010   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188tju6/privacy_in_the_context_of_dnns_see_what_llms_know/</guid>
-      <pubDate>Sat, 02 Dec 2023 02:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程工作倦怠是真实存在的</title>
-      <link>https://www.reddit.com/r/programming/comments/188t71n/remote_work_burnout_is_real/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188t71n/remote_work_burnout_is_real/</guid>
-      <pubDate>Sat, 02 Dec 2023 02:19:45 GMT</pubDate>
     </item>
     <item>
       <title>只是普通的网络事物。</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/robbyrussell  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/188mo64/maintainable_jacob_aronoff_at_least_one_person/</guid>
       <pubDate>Fri, 01 Dec 2023 21:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务七大指标</title>
-      <link>https://www.reddit.com/r/programming/comments/188m6cp/seven_indicators_for_microservices/</link>
-      <description><![CDATA[ 由   提交/u/kobalazs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188m6cp/seven_indicators_for_microservices/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过跳槽晋升</title>
-      <link>https://www.reddit.com/r/programming/comments/188lwi7/promotion_via_job_hopping/</link>
-      <description><![CDATA[ 由   提交/u/ryanlpeterman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188lwi7/promotion_via_job_hopping/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lone - Linux 下的 Lisp，完全独立且独立</title>
-      <link>https://www.reddit.com/r/programming/comments/188lj0l/lone_lisp_for_linux_completely_freestanding_and/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/188lj0l/lone_lisp_for_linux_completely_freestanding_and/</guid>
-      <pubDate>Fri, 01 Dec 2023 20:26:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
