@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 21:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2023 00:51:01 GMT</lastBuildDate>
+    <item>
+      <title>互动登陆</title>
+      <link>https://www.reddit.com/r/webdev/comments/188qjgv/interactive_landing/</link>
+      <description><![CDATA[      希望这能起作用   由   提交/u/bill_of_the_bobs   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188qjgv/interactive_landing/</guid>
+      <pubDate>Sat, 02 Dec 2023 00:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>塑造互联网的 10 个奇怪的 HTML 黑客</title>
+      <link>https://www.reddit.com/r/webdev/comments/188qirq/10_weird_html_hacks_that_shaped_the_internet/</link>
+      <description><![CDATA[    /u/DrinkMoreCodeMore   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188qirq/10_weird_html_hacks_that_shaped_the_internet/</guid>
+      <pubDate>Sat, 02 Dec 2023 00:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>同时精通 Angular 和 React</title>
+      <link>https://www.reddit.com/r/webdev/comments/188q6or/becoming_angular_and_react_proficient_at_the_same/</link>
+      <description><![CDATA[我最近调到了一个新的工作组，并被分配维护/修改两个现有应用程序，其中一个是 React，另一个是是有角的。我 10 年前做过一些 Angular 开发，但我主要是一个普通的 JS 人员；有什么建议可以让您尽快掌握这两个方面的知识吗？   由   提交 /u/linnrose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188q6or/becoming_angular_and_react_proficient_at_the_same/</guid>
+      <pubDate>Fri, 01 Dec 2023 23:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>匿名用户安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/188q3e8/anonymous_user_security/</link>
+      <description><![CDATA[我正在构建一个网站，用户可以在其中获取其位置周围事件的通知。我想让匿名用户无需注册即可使用此功能。一种方法是将访客 ID 存储在用户的本地存储中，这样匿名用户就不会丢失其个人资料。我的思考过程是，因为唯一需要的敏感数据是用户的地址，所以我不担心黑客，因为如果他们访问您的计算机，他们已经知道您住在哪里。我的评估正确吗？还有其他漏洞吗？   由   提交 /u/_DataGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188q3e8/anonymous_user_security/</guid>
+      <pubDate>Fri, 01 Dec 2023 23:48:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助创建一个有关获取 API 的学校项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/188prpk/help_with_creating_a_school_project_on_fetching/</link>
+      <description><![CDATA[协议如下，我必须创建一个网站，通过搜索邮政编码我可以获得天气预报和该地点的一些最新新闻。  老实说我真的迷失了。我需要帮助寻找可以自己学习的资源。网站本身不必很复杂或特别漂亮，只需工作并具有响应能力即可。 ​ 请帮忙，这相当于我成绩的 25% （我快疯了）   由   提交 /u/CouldBeAFurry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188prpk/help_with_creating_a_school_project_on_fetching/</guid>
+      <pubDate>Fri, 01 Dec 2023 23:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望使用 Whisper 构建 Chrome 扩展</title>
+      <link>https://www.reddit.com/r/webdev/comments/188pgxt/looking_to_build_chrome_extension_w_whisper/</link>
+      <description><![CDATA[嘿大家 在这被否决之前：我已经使用搜索并浏览了 github 一个小时。  我正在寻找一个样板来帮助我组装一个 chrome 扩展，该扩展将利用耳语（我可以弄清楚 api 等..）并将其吐出在侧边栏上。我已经做过一段时间的 nocode 开发人员，但在这里尽我最大的努力来加入！ 我已经使用过 chatgpt，它确实是从头开始的，我相信会造成很多膨胀。  提前致谢！   由   提交 /u/surim0n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188pgxt/looking_to_build_chrome_extension_w_whisper/</guid>
+      <pubDate>Fri, 01 Dec 2023 23:19:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在开发过程中是否也会进行截图来回顾您的进度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188p08x/do_you_also_make_screenshots_during_development/</link>
+      <description><![CDATA[有多少人还会在每次重大更新后对网站进行屏幕截图，以便可以在最后制作幻灯片并查看进度？ 我不久前告诉了我的一个朋友这件事，他表现得好像我疯了一样。 我觉得这很令人满意，就像 YouTube 上的那些构建者视频之一。我仍然保存着一些几年前的项目幻灯片，反思我作为开发人员的成长过程真的很酷。   由   提交/u/mal73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188p08x/do_you_also_make_screenshots_during_development/</guid>
+      <pubDate>Fri, 01 Dec 2023 22:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会选择哪种技术堆栈来实现最快的实施和迭代？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188ofds/which_technology_stack_would_you_choose_for/</link>
+      <description><![CDATA[您的首选技术堆栈是什么，用于快速测试想法并让某些东西启动并运行，同时在规模和迭代方面提供最佳的灵活性？    由   提交 /u/mufasis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188ofds/which_technology_stack_would_you_choose_for/</guid>
+      <pubDate>Fri, 01 Dec 2023 22:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一个网站上使用两个域</title>
+      <link>https://www.reddit.com/r/webdev/comments/188o3mk/using_two_domains_on_a_single_website/</link>
+      <description><![CDATA[我正在寻找一种方法让我的网站使用两个不同的 URL 但显示相同的内容。  就上下文而言，我有两家零售店，我们将它们称为 RetailCity1 和 RetailCity2，它们都销售相同的产品，但位于不同的城市。商店所在的城市是商店名称的一部分。鉴于两家商店销售相同的产品，我希望两家商店都有一个电子商务网站。 我知道我可以重定向 URL，因此可以将 RetailCity1.com 重定向到 RetailCity2.com，但这并不能解决我的问题，因为我不希望所有客户都只访问 RetailCity2.com。  总之，我正在寻找某种解决方案，允许我的网站出现在 RetailCity1.com 和 RetailCity2.com 上，但在两种情况下都显示不同的 URL。 我我还使用 GoDaddy 托管我的域名，并使用 Wordpress 构建我的网站。希望这个解释足够清楚。非常感谢任何帮助！   由   提交/u/Mvso1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188o3mk/using_two_domains_on_a_single_website/</guid>
+      <pubDate>Fri, 01 Dec 2023 22:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我们只为开发人员和开发工具构建产品搜寻克隆？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188nz8q/why_we_built_a_product_hunt_clone_only_for/</link>
+      <description><![CDATA[      ​ DevHunt DevHunt - 由我们开发人员构建的平台，用于展示我们的开发工具。 当我们努力让我们自己的产品出现在 Product Hunt 上时，我们一直站在您的立场上和其他平台。  这感觉不公平 - 非开发产品会排挤我们努力开发的一切！  因此，我们决定亲自处理此事。  作为开发人员，我们的目标是创建一个专门针对开发人员工具定制的更好的启动板 - 每一次投票都很重要，并且通过 GitHub 身份验证来维护真实性。  然后剧情发生了转折：如果不让这个项目保持闭源，为什么不将其开源呢？这样，任何人都可以在数小时内拥有自己的专用启动板！  我们 DevHunt 的使命很简单 - 为全世界的开发者提供一个无障碍的空间，让他们无需担心就可以展示自己的作品，从而为他们提供支持。分散注意力，同时培养贡献者的社区所有权！ ​ 查看：https://devhunt .org   由   提交 /u/sidi_jeddou   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188nz8q/why_we_built_a_product_hunt_clone_only_for/</guid>
+      <pubDate>Fri, 01 Dec 2023 22:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Socket CLI v0.9.0 现已推出</title>
+      <link>https://www.reddit.com/r/webdev/comments/188mofi/socket_cli_v090_now_available/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188mofi/socket_cli_v090_now_available/</guid>
+      <pubDate>Fri, 01 Dec 2023 21:16:02 GMT</pubDate>
+    </item>
     <item>
       <title>有人急需 20 美元吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/188miwh/anyone_need_20_bucks_real_quick/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我为开发者运营一家挪威新闻网站，今年我们决定开发一款降临节日历游戏，基于 90 年代的游戏，例如毒品战争。在我们的游戏中，您扮演一名 IT 顾问，每天必须在平安夜之前完成一项任务。 :D  如果你愿意的话就试试吧:) 已经有超过 1000 名玩家了： https:/ /www.kode24.no/julekalender2023   由   提交 /u/retrojorgen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/188jwj7/i_created_the_silliest_advent_code_for_devs/</guid>
       <pubDate>Fri, 01 Dec 2023 19:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于git的基本问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/188jrxs/basic_question_about_git/</link>
-      <description><![CDATA[我有一个 MERN 堆栈项目，即将部署并正在初始化 git，以便我可以跟踪更改。该项目的当前结构是它有一个父文件夹，父文件夹中有两个子文件夹 - 客户端和服务器。 我相信我将分别上传客户端和服务器，所以我想我需要在 git 中单独初始化它们，而不仅仅是初始化父文件夹 - 这是常见的做法吗？ 非常感谢    ;由   提交/u/Hran944  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188jrxs/basic_question_about_git/</guid>
-      <pubDate>Fri, 01 Dec 2023 19:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试在 Amie.so 的 iOS 应用程序上重新创建分屏视图和可滑动待办事项列表的 Web 版本</title>
-      <link>https://www.reddit.com/r/webdev/comments/188jnmb/trying_to_recreate_web_versions_of_the/</link>
-      <description><![CDATA[       由   提交/u/Dustbinsavesyou  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188jnmb/trying_to_recreate_web_versions_of_the/</guid>
-      <pubDate>Fri, 01 Dec 2023 19:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>不寻常的问题：如何使用 javascript/编程语言创建昆虫的结构</title>
-      <link>https://www.reddit.com/r/webdev/comments/188j12b/unusual_question_how_to_create_the_structure_of/</link>
-      <description><![CDATA[我正在写一个故事，其中一个角色通过附体变成了一个巨大的昆虫般的怪物，并想描绘他的意识状态，其中他是蓝图，正在积极地被重新创造为怪物。我想写一个真实的脚本来描述生物的组装。关于如何执行此操作有什么建议吗？我可以使用任何示例脚本吗？   由   提交/u/Repulsive-Locksmith7  /u/Repulsive-Locksmith7 reddit.com/r/webdev/comments/188j12b/unusual_question_how_to_create_the_struct_of/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188j12b/unusual_question_how_to_create_the_structure_of/</guid>
-      <pubDate>Fri, 01 Dec 2023 18:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>与“烂”机构合作如何收费？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188ikrc/how_to_charge_when_working_with_lousy_agencies/</link>
-      <description><![CDATA[背景：我是一名全职自由职业者，获得了一份与代理机构合作的兼职合同。虽然我喜欢独立工作，但我认为这将是一个建立联系并加深我的技能的绝佳机会。 问题：一开始目标很明确（为期 4 周），然后他们决定把事情放上去暂停一下，因为基本上他们不太确定该怎么处理我，而且他们有一些员工请病假，所以我说好吧，我会给你时间重新组合。快进到三周前，他们告诉我他们有工作给我，但他们从来没有真正有时间解释这份工作是什么，并且有几天没有回应，我一直准备好工作。这些任务最终只花了我几个小时。现在是时候向他们发送发票了，这些任务只花了我几个小时，但我已经为他们服务了两周。两周以来，我没有再预订任何工作，这样我就可以完成代理机构的任务。 您会开具发票多少时间？常见的做法是什么？我不习惯与代理机构合作，所以我应该为我有空的所有天数或实际任务花费的时间开具发票吗？ 注意：我不认为所有代理机构都很糟糕，只是尤其是这个。   由   提交 /u/lechecondensada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188ikrc/how_to_charge_when_working_with_lousy_agencies/</guid>
-      <pubDate>Fri, 01 Dec 2023 18:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>从数据库获取数据之前如何检查 Supabase 工作状态</title>
-      <link>https://www.reddit.com/r/webdev/comments/188hyfa/how_to_check_supabase_status_working_before/</link>
-      <description><![CDATA[开发人员大家好 我想在执行插入操作之前测试它是否有效。我读到我需要使用 /health 或类似的东西来检查 Supabase 的运行状况。您会推荐什么？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188hyfa/how_to_check_supabase_status_working_before/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>从数据库获取数据之前如何检查 Supabase 工作状态</title>
-      <link>https://www.reddit.com/r/webdev/comments/188hyce/how_to_check_supabase_status_working_before/</link>
-      <description><![CDATA[开发人员大家好 我想在执行插入操作之前测试它是否有效。我读到我需要使用 /health 或类似的东西来检查 Supabase 的运行状况。您会推荐什么？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188hyce/how_to_check_supabase_status_working_before/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在任何静态托管提供商上部署过 nextjs 静态导出网站吗？面临页面未编入索引的问题，请求帮助..</title>
-      <link>https://www.reddit.com/r/webdev/comments/188hs1o/has_anyone_deployed_a_nextjs_static_export/</link>
-      <description><![CDATA[我使用 nextjs 构建了我的网站，并静态导出到名为 hostgator 的静态主机。我的网站可以正常运行，但搜索引擎优化团队抱怨说，除了主页之外的网站页面几个月以来都没有被索引。我已经检查了 SEO 所需的所有实现，但仍然没有获得排名。它对 robots.txt 、 sitemap.xml 进行加气，并附加到 Google 搜索控制台。   由   提交/u/shr-dev  /u/shr-dev  reddit.com/r/webdev/comments/188hs1o/has_anyone_deployed_a_nextjs_static_export/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188hs1o/has_anyone_deployed_a_nextjs_static_export/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 NextJS 中构造项目目录以类似于 Twitter 或 IG 工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/188hg40/how_to_structure_the_project_directory_in_nextjs/</link>
-      <description><![CDATA[我希望用户能够访问 website.com/username 而不会与网站的其他部分发生冲突。有诸如 website.com/login 和 website.com/signup 之类的页面，因此当您尝试导航到它们时，会发生错误（TREE MISMATCH）。我明白为什么会发生这种情况，但想知道是否有办法避免这种情况发生。我看了看，Twitter 确实在 twitter.com/settings 上有设置（它重定向到 settings/account 但这不是重点）和 twitter.com/home&lt; /代码&gt;。当然他们没有使用 NextJS，但我很好奇他们是如何避免这种冲突的。主要是为了有一个好看的 URL，所以如果 NextJS 可以做到这一点那就太好了，但如果不能，我想它就是这样。 //当前文件结构 -src/应用程序 - (个人资料) - [...用户] - (profilePage)/ProfilePage -index.tsx - page.tsx - 布局.tsx - 登录 - page.tsx - 注册 - page.tsx - 设置 - 编辑 - page.tsx - page.tsx // 这仅重定向到编辑  我希望将非用户路由放在不同的位置，以便能够控制不同的布局并拥有单独的布局用户页面。我是否需要在同一目录中包含非用户路由，然后如果没有定义现有路由，则包罗万象的路由将对用户起作用？   由   提交 /u/clit_or_us   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188hg40/how_to_structure_the_project_directory_in_nextjs/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:29:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：分析 DIY 或第三方，以向用户显示用户特定的见解。例如：页面浏览量、我的网络应用程序中用户页面上的按钮点击次数等。</title>
-      <link>https://www.reddit.com/r/webdev/comments/188hakv/need_help_analytics_diy_or_3rd_party_for_user/</link>
-      <description><![CDATA[问候 TL;DR: 我希望我的网页上的用户能够查看他们的个人资料访问和点击链接的数据。 ---下面的长版本---我正在创建一个链接聚合服务，作为一种爱好项目，但在现实世界的应用程序中。&lt; br /&gt; 我正在使用 NextJS 13.5 和 supabase。 每个用户都有一个唯一的个人资料页面/用户名，并且在该页面上有一个链接列表。 到这里一切都很好。  接下来，我计划添加分析来显示我的登录用户他们的页面有多少次访问以及他们页面上的每个链接/按钮被点击了多少次。我的数据库可能会开始过载在 API 请求中），因此这给我带来了另一种解决方案，即使用谷歌分析等第三方软件。  这是正确的方法还是DIY？如果您在 GA 中使用了第三方分析，如何通过 Google Analytics 在我的网络应用程序上显示用户特定数据？感谢您的宝贵时间。   由   提交/u/gabangang  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188hakv/need_help_analytics_diy_or_3rd_party_for_user/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员 - 给我一些关于如何找到最适合我当前情况的开发人员的想法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/188h7hr/devs_give_me_some_ideas_on_how_to_find_a_dev_that/</link>
-      <description><![CDATA[我建立了一家月收入约为 16,000 美元的公司，并且稳步增长，并具有被我的一位客户收购的良好潜力。只有我作为一名非技术创始人，在 Upwork 上担任合同开发人员。现在我需要一名 CTO/首席开发人员来领导解决方案和未来愿景。 但是，我的软件开发预算每年只有约 6 万美元，我担心这不会让我满意我真正需要的人才。我确实有一些感兴趣的投资者，但他们的困扰往往是我是一家拥有合同开发人员的单人商店。所以现在我正处于十字路口。我需要资金来聘请首席技术官/首席开发人员。但我需要一位首席技术官/首席开发人员来获得资金。 我知道这是陈词滥调——非技术创始人正在寻找免费的开发工作。然而，现在的情况并非如此——我愿意在预算范围内支付，以获得支付更多费用所需的资金。因此，这引出了以下问题 1）是否有地方可以找到可能对此类情况持开放态度的开发人员？我在 /forhire 和 Upwork 方面运气不佳。 2) 作为一个非技术人员，我如何采访该人并知道他们是合法的？3) 是否有任何问题？其他类型的安排/协议可能更适合这种情况？ 还有其他建议、反馈吗？   由   提交 /u/flyingmada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188h7hr/devs_give_me_some_ideas_on_how_to_find_a_dev_that/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>用什么工具或者第三方来代理下载大量文件到云存储</title>
-      <link>https://www.reddit.com/r/webdev/comments/188h6ue/what_tool_or_third_party_to_use_to_download_a/</link>
-      <description><![CDATA[所以我有很多来自不同网站的pdf文件的url。大概有 70 万个。我想将它们下载到我的 Google Cloud Bucket。 我的 IP 被某些网站禁止。因此，我想知道一定有某种类型的付费平台可以将我的网址列表大规模下载，并为我的 gcloud 存储提供代理支持。这似乎是人们在我之前遇到的问题。 有什么建议吗？ ​ 注意：我所做的事情是道德的我正在使用我自己的政府公共档案，他们禁止 IP 的唯一原因是他们没有适当的服务器，因为他们正忙着把钱花在更“高效”的网站上。事情。   由   提交 /u/AKavun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188h6ue/what_tool_or_third_party_to_use_to_download_a/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:19:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
