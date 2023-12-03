@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 03 Dec 2023 12:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 15:12:19 GMT</lastBuildDate>
+    <item>
+      <title>需要费用管理系统项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/189uu3t/need_expense_management_system_project/</link>
+      <description><![CDATA[需要一个 Jsp、servlet 和 Mysql 数据库堆栈中的支出管理项目。我无法自己开发它，因为我们的期末考试正在进行中，它正在匆忙中on。需要它的一些源代码。如果有请提供   由   提交/u/banana_master_420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/189uu3t/need_expense_management_system_project/</guid>
+      <pubDate>Sun, 03 Dec 2023 14:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您向哪个操作系统项目捐赠？</title>
+      <link>https://www.reddit.com/r/opensource/comments/189tl2a/which_os_project_are_you_donating_to/</link>
+      <description><![CDATA[ 由   提交/u/happySquirrel000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/189tl2a/which_os_project_are_you_donating_to/</guid>
+      <pubDate>Sun, 03 Dec 2023 13:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZipoApps 购买的简单移动工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/189sl0u/simple_mobile_tools_bought_by_zipoapps/</link>
+      <description><![CDATA[   /u/jaypatelani  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/189sl0u/simple_mobile_tools_bought_by_zipoapps/</guid>
+      <pubDate>Sun, 03 Dec 2023 12:32:01 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个电影电视剧长度计算器网站！</title>
       <link>https://www.reddit.com/r/opensource/comments/189rc95/i_made_a_movietvseries_length_calculator_website/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[   /u/Mte90  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/188d2am/firefox_developer_edition_and_beta_try_out/</guid>
       <pubDate>Fri, 01 Dec 2023 14:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Retroshare 0.6.7 发行说明</title>
-      <link>https://www.reddit.com/r/opensource/comments/188938m/release_notes_for_retroshare_067/</link>
-      <description><![CDATA[       由   提交/u/buovjaga  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/188938m/release_notes_for_retroshare_067/</guid>
-      <pubDate>Fri, 01 Dec 2023 10:55:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cerbos v0.32 发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1888lqm/cerbos_v032_released/</link>
-      <description><![CDATA[Cerbos 帮助您在应用程序中实施和管理细粒度的访问控制。 它是一个自托管的开源授权您的应用程序层。这个 authZ 解决方案是用 Go 编写的，可以为您解决角色和权限问题（RBAC、ABAC、多租户等） v0.32 版本包含各种功能，例如过渡到 OpenTelemetry、增强的策略测试等等。 Heads  尽管我们试图保持所有指标名称不变，但 OpenCensus 和 OpenTelemetry 之间的细微差别可能会影响您现有的仪表板和基于指标的警报，我们希望确保您的监控保持无缝。 发布文章：https://cerbos.dev/blog/transition-to-open-telemetry-enhanced-policy-testing-and-more-cerbos-v-0-32  GitHub：https://github.com/cerbos/cerbos URL：https://cerbos.dev    由   提交 /u/AuthZ_Trooper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1888lqm/cerbos_v032_released/</guid>
-      <pubDate>Fri, 01 Dec 2023 10:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 2 个许可证分叉和重新分发开源软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1885tgf/forking_and_redistributing_open_source_software/</link>
-      <description><![CDATA[嗨，我想在不同的许可证下分叉、修改和重新分发开源软件。 这背后的原因是，我想修改该工具以与我正在构建的产品的其余部分顺利集成。我为此目的所做的更改将与上游项目无关，并且该工具仅是我正在构建的产品的一小部分。 棘手的部分是，我使用的开源工具想要分叉有 2 个许可证。主许可证文件说，所有文件都在 MIT 下，并且特定文件夹内的文件在不允许商业使用的不同许可证下。 我完全尊重这一点，因为我自己将分发我的软件处于非许可许可下，以保护我的公司获取我们提供的价值的能力。 为了避免重新发明轮子，我想知道是否可以克隆该项目并删除以下代码不在 MIT 许可下并在我的产品中使用吗？我不想声称该工具是我的作品，当然会归功于原始创建者:)   由   提交 /u/dr-not-so-strange   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1885tgf/forking_and_redistributing_open_source_software/</guid>
-      <pubDate>Fri, 01 Dec 2023 07:12:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

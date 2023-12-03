@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 03 Dec 2023 12:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 15:10:07 GMT</lastBuildDate>
+    <item>
+      <title>AI 每周摘要（11 月 25 日至 12 月 2 日）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/189v644/ai_weekly_rundown_november_25_to_december_2/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/189v644/ai_weekly_rundown_november_25_to_december_2/</guid>
+      <pubDate>Sun, 03 Dec 2023 14:56:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>DiffusionAvatars 生成逼真的 3D 头像</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/189sejs/diffusionavatars_generates_realistic_3d_avatars/</link>
+      <description><![CDATA[ 慕尼黑工业大学的研究人员开发了 DiffusionAvatars，这是一种通过结合 2D 扩散模型来创建具有逼真面部表情的高质量 3D 头像的方法和 3D 神经网络。 该系统可以通过从输入视频中获取动画或通过简单的控制生成目标面部表情来为化身制作动画，并可在 VR/AR、视频会议、游戏、电影动画、语言学习等领域应用，以及作为虚拟助手。 尽管取得了令人鼓舞的结果，但 DiffusionAvatars 仍然存在局限性，例如缺乏对曝光属性的控制以及计算密集型架构，这使其目前不适合实时应用。&lt; /li&gt;  视频：https://www.youtube.com/watch?v=nSjDiiTnp2E&lt; /a&gt; 来源：https://the-decoder.com /diffusionavatars-generates-impressively-realistic-3d-avatars/   由   提交/u/henlo_there_fren   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/189sejs/diffusionavatars_generates_realistic_3d_avatars/</guid>
+      <pubDate>Sun, 03 Dec 2023 12:20:22 GMT</pubDate>
+    </item>
     <item>
       <title>获取您最喜爱的播客的简明音频摘要。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/189o8fo/get_concise_audio_summaries_of_your_favorite/</link>
@@ -48,13 +62,6 @@
       <pubDate>Sun, 03 Dec 2023 00:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的混乱：简要意见和链接</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/189fpsm/the_kerfuffle_at_openai_brief_opinion_and_links/</link>
-      <description><![CDATA[虽然是推测性的，但这似乎是 OpenAI 混乱的最可能的解释： https://www.technologyreview.com/2023/11/ 27/1083886/unpacking-the-hype-around-openais-rumored-new-q-model/  鉴于董事会明确抱怨奥特曼并不一贯坦诚，这是有道理的跟他们。也许他没有告诉他们 Q* 的事。 OpenAI 的新董事会成员似乎并不是人工智能安全的支持者。对我来说，它们看起来像是利润最大化者： https://www.reuters.com/technology/openais-new-look-board-altman-returns-2023-11-22/  和 https://www.cnn.com/2023 /11/29/tech/openai-sam-altman-board-microsoft/index.html  布雷特·泰勒今年： https://www. thesoftwarereport.com/ex-salesforce-co-ceo-bret-taylor-returning-to-entrepreneurial-roots-and-joining-the-trend-of-ai-proliferation/  拉里萨默斯： https://www.axios.com/2023 /11/22/larry-summers-openai-board  旧董事会中唯一剩下的董事 Adam D&#39;Angelo 似乎更有安全意识。他是 Sam Altman 的朋友： https://www.msn.com/en-us/money/companies/meet-adam-d-angelo-the-openai -board-member-who-brokered-sam-altman-s-return/ar-AA1km5Zb  来自 NPR 的相关背景概述： https://www.npr.org/2023/11/24/1215015362/chatgpt -openai-sam-altman-fired-explained  据称发送给董事会的一封匿名信（2023 年 11 月 21 日？）： https://gist.github.com/matthewlilley/96ad6208d39b14c7e133ac456680fd2d   &amp;# 32；由   提交/u/Rick12334th  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/189fpsm/the_kerfuffle_at_openai_brief_opinion_and_links/</guid>
-      <pubDate>Sat, 02 Dec 2023 23:11:36 GMT</pubDate>
-    </item>
-    <item>
       <title>巴西当地议员在不知情的情况下批准了完全由人工智能编写的法律</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/189f0uf/local_brazilian_councillors_unaware_approve_law/</link>
       <description><![CDATA[一项由人工智能工具编写的法律于本年 23 日获得阿雷格里港市议会一致通过，并得到市长 Sebastião Melo (MDB) 的批准 该法案由议员 Ramiro Rosário (PSDB) 提出，如果水表被盗，则免除居民更换水表的费用，该法案完全由该公司的 Chat GPT 工具编写OpenAI。 https://www.smh.com.au/world/south-america/local-councillors-unaware-approve-law-writing-entirely-by-ai-20231201-p5eobi.html   由   提交 /u/carlospelegrini   [链接] [评论]]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[如果是这样，你认为会是什么？它将如何运作？也许对于那些声称人工智能艺术属于自己的人来说，那些使用人工智能来帮助他们发短信或做作业的人？也许我们甚至会达到人工智能融入日常生活的程度。如果每个人都对其他人不友善，我们是否期望每个人都友善？   由   提交/u/oxydedcutcopper  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/189dx4h/do_you_think_there_will_come_a_point_when_people/</guid>
       <pubDate>Sat, 02 Dec 2023 21:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>与宠物一起使用的人工智能图像生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/189d10c/ai_image_generator_that_works_with_pets/</link>
-      <description><![CDATA[有没有可以上传宠物并生成肖像/头像的应用程序？  我尝试了lensa，对猫来说还可以，对狗和狗来说很糟糕。许多照片中脸部的某些部分都被尴尬地剪掉了。  谢谢！   由   提交/u/pleasesayUarekidding   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/189d10c/ai_image_generator_that_works_with_pets/</guid>
-      <pubDate>Sat, 02 Dec 2023 21:00:13 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 12/2/2023</title>
