@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 03 Dec 2023 00:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 03:12:03 GMT</lastBuildDate>
+    <item>
+      <title>我需要 Windows ISO 到可启动 USB 的帮助（适用于 Windows 7）</title>
+      <link>https://www.reddit.com/r/software/comments/189k2ig/i_need_help_windows_iso_to_bootable_usb_which/</link>
+      <description><![CDATA[我已下载 Windows 11 Iso。  我已经尝试过媒体创建工具，它不起作用，它不会启动，所以不行。 我已经尝试过 &gt;RUFUS 3.22 它不起作用（较新的版本在 Windows 7 上不起作用），它启动进程，然后一直说无法访问 USB 驱动器，然后失败。 I尝试了我的Hasleo WinToUSB程序，但它不起作用！也出现错误 我知道这不是 USB 驱动器，因为我已经尝试过 3。 ​ 任何人都可以帮助我完成此操作！？  提前谢谢大家。    由   提交/u/Begum65  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/189k2ig/i_need_help_windows_iso_to_bootable_usb_which/</guid>
+      <pubDate>Sun, 03 Dec 2023 03:07:20 GMT</pubDate>
+    </item>
     <item>
       <title>带频谱图的视频编辑器</title>
       <link>https://www.reddit.com/r/software/comments/189g5kh/video_editor_with_spectrogram/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一定是在最新的 Windows 更新之一期间发生的（由于某种原因尚未在网络或杂志上阅读过此内容）。我对此非常感激。我记得自 Win 11 推出以来，这一直是 Win 11 用户的一大不满。我希望微软能保持这种状态。  抱歉，如果这是旧新闻。   由   提交/u/johnnymetoo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/188yh9a/maybe_offtopic_but_i_just_noticed_windows_11_has/</guid>
       <pubDate>Sat, 02 Dec 2023 07:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试从旧 HDD 升级到更大的 SSD</title>
-      <link>https://www.reddit.com/r/software/comments/188xxox/im_trying_to_upgrade_from_an_old_hdd_to_a_larger/</link>
-      <description><![CDATA[我对克隆驱动器或任何其他方面几乎一无所知。尝试使用 Clonezilla，但我不知道它意味着什么。我有一个旧的 1TB HDD，一直以 100% 的磁盘使用率运行，还有一台我组装的全新 PC，包括 2TB SSD。我知道这可能看起来像一个愚蠢的帖子，但请耐心等待。我想知道我应该做什么才能将所有内容移动到我的新 SSD。   由   提交/u/MLGDOGE-0526   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/188xxox/im_trying_to_upgrade_from_an_old_hdd_to_a_larger/</guid>
-      <pubDate>Sat, 02 Dec 2023 06:52:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
