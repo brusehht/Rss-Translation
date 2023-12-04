@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 04 Dec 2023 06:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 09:13:02 GMT</lastBuildDate>
+    <item>
+      <title>Pika v3.5.2 的新增功能</title>
+      <link>https://www.reddit.com/r/programming/comments/18afwyn/whats_new_in_pika_v352/</link>
+      <description><![CDATA[ 由   提交/u/AlexStocks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18afwyn/whats_new_in_pika_v352/</guid>
+      <pubDate>Mon, 04 Dec 2023 08:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何设置您的打字稿项目以取得成功</title>
+      <link>https://www.reddit.com/r/programming/comments/18afmse/how_to_setup_your_typescript_project_for_success/</link>
+      <description><![CDATA[ 由   提交/u/evecryago  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18afmse/how_to_setup_your_typescript_project_for_success/</guid>
+      <pubDate>Mon, 04 Dec 2023 08:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>简化复杂性：从 WebSocket 到 HTTP 流的旅程</title>
+      <link>https://www.reddit.com/r/programming/comments/18af0ql/simplifying_complexity_the_journey_from/</link>
+      <description><![CDATA[ 由   提交/u/atomlib_com   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18af0ql/simplifying_complexity_the_journey_from/</guid>
+      <pubDate>Mon, 04 Dec 2023 07:22:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>动作脚本 3 中的事件鼠标悬停和事件鼠标移出</title>
+      <link>https://www.reddit.com/r/programming/comments/18aetai/event_mouse_over_event_mouse_out_in_action_script/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18aetai/event_mouse_over_event_mouse_out_in_action_script/</guid>
+      <pubDate>Mon, 04 Dec 2023 07:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScreamingFist：Scheme 的 JIT 框架</title>
+      <link>https://www.reddit.com/r/programming/comments/18ae6jo/screamingfist_a_jit_framework_for_scheme/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ae6jo/screamingfist_a_jit_framework_for_scheme/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:22:51 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌内部代码审查工具：Critique</title>
       <link>https://www.reddit.com/r/programming/comments/18ae0gc/a_look_at_googles_internal_code_review_tool/</link>
@@ -41,7 +76,7 @@
       <pubDate>Mon, 04 Dec 2023 06:08:31 GMT</pubDate>
     </item>
     <item>
-      <title>Unix V6 shell 以及控制流在其中的工作原理</title>
+      <title>Unix V6 shell 以及控制流如何在其中工作</title>
       <link>https://www.reddit.com/r/programming/comments/18adyvm/the_unix_v6_shell_and_how_control_flow_worked_in/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18adyvm/the_unix_v6_shell_and_how_control_flow_worked_in/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18adxy9/tal_is_the_programming_language_for_the_uxn/</guid>
       <pubDate>Mon, 04 Dec 2023 06:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Hare 移植到 OpenBSD</title>
-      <link>https://www.reddit.com/r/programming/comments/18adxxk/porting_hare_to_openbsd/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18adxxk/porting_hare_to_openbsd/</guid>
-      <pubDate>Mon, 04 Dec 2023 06:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>结构体初始化 (C++)</title>
-      <link>https://www.reddit.com/r/programming/comments/18adxff/struct_initialization_c/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18adxff/struct_initialization_c/</guid>
-      <pubDate>Mon, 04 Dec 2023 06:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>RetSpill：点燃用户控制的数据以烧毁 Linux 内核保护 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/18adwv0/retspill_igniting_usercontrolled_data_to_burn/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18adwv0/retspill_igniting_usercontrolled_data_to_burn/</guid>
-      <pubDate>Mon, 04 Dec 2023 06:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>那太遥远了，伙计</title>
-      <link>https://www.reddit.com/r/programming/comments/18adwm1/thats_farout_man/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18adwm1/thats_farout_man/</guid>
-      <pubDate>Mon, 04 Dec 2023 06:04:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>你不需要 JavaScript</title>
-      <link>https://www.reddit.com/r/programming/comments/18adwef/you_dont_need_javascript_for_that/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18adwef/you_dont_need_javascript_for_that/</guid>
-      <pubDate>Mon, 04 Dec 2023 06:04:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
