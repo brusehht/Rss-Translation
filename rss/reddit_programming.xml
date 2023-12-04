@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 04 Dec 2023 00:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 06:16:06 GMT</lastBuildDate>
     <item>
-      <title>使用 Spring Retry 代替 do-while</title>
-      <link>https://www.reddit.com/r/programming/comments/18a7r32/use_spring_retry_instead_of_dowhile/</link>
-      <description><![CDATA[联系外部服务时考虑从标准的 do-while 方法切换到 Spring Retry   由   提交/u/jupiter_traveller  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a7r32/use_spring_retry_instead_of_dowhile/</guid>
-      <pubDate>Mon, 04 Dec 2023 00:26:19 GMT</pubDate>
+      <title>谷歌内部代码审查工具：Critique</title>
+      <link>https://www.reddit.com/r/programming/comments/18ae0gc/a_look_at_googles_internal_code_review_tool/</link>
+      <description><![CDATA[ 由   提交/u/Rtzon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ae0gc/a_look_at_googles_internal_code_review_tool/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>图表即代码：为 PlantUML 创建您自己的 Sprites 库</title>
-      <link>https://www.reddit.com/r/programming/comments/18a76uw/diagram_as_code_create_your_own_sprites_library/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a76uw/diagram_as_code_create_your_own_sprites_library/</guid>
-      <pubDate>Sun, 03 Dec 2023 23:58:48 GMT</pubDate>
+      <title>设计分布式 SQL 引擎：挑战和决策</title>
+      <link>https://www.reddit.com/r/programming/comments/18adyym/designing_a_distributed_sql_engine_challenges_and/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adyym/designing_a_distributed_sql_engine_challenges_and/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>腐烂的软件该怎么办？</title>
-      <link>https://www.reddit.com/r/programming/comments/18a5av5/what_to_do_with_rotting_software/</link>
-      <description><![CDATA[ 由   提交/u/jpmmcb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a5av5/what_to_do_with_rotting_software/</guid>
-      <pubDate>Sun, 03 Dec 2023 22:30:41 GMT</pubDate>
+      <title>油冬季状态更新</title>
+      <link>https://www.reddit.com/r/programming/comments/18adyxj/oils_winter_status_update/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adyxj/oils_winter_status_update/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>工作，喜欢，爱情。</title>
-      <link>https://www.reddit.com/r/programming/comments/18a4n8k/work_like_love/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a4n8k/work_like_love/</guid>
-      <pubDate>Sun, 03 Dec 2023 22:01:31 GMT</pubDate>
+      <title>像 Dekker 一样将其加倍：一种将浮点精度加倍的出色技术</title>
+      <link>https://www.reddit.com/r/programming/comments/18adywx/double_it_like_dekker_a_remarkable_technique_to/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adywx/double_it_like_dekker_a_remarkable_technique_to/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>加快软件开发速度的秘诀是采取更小的步骤</title>
-      <link>https://www.reddit.com/r/programming/comments/18a4knj/the_trick_to_going_faster_in_software_development/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a4knj/the_trick_to_going_faster_in_software_development/</guid>
-      <pubDate>Sun, 03 Dec 2023 21:58:27 GMT</pubDate>
+      <title>实现无锁雪花 ID 生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/18adyw9/implementing_a_lockfree_snowflake_id_generator/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adyw9/implementing_a_lockfree_snowflake_id_generator/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:08:31 GMT</pubDate>
     </item>
     <item>
-      <title>寻求每月 500 美元的副业项目：第一个付费客户！</title>
-      <link>https://www.reddit.com/r/programming/comments/18a350d/the_quest_for_a_500month_side_project_first/</link>
-      <description><![CDATA[ 由   提交/u/takkatakka  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a350d/the_quest_for_a_500month_side_project_first/</guid>
-      <pubDate>Sun, 03 Dec 2023 20:58:32 GMT</pubDate>
+      <title>Unix V6 shell 以及控制流在其中的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/18adyvm/the_unix_v6_shell_and_how_control_flow_worked_in/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adyvm/the_unix_v6_shell_and_how_control_flow_worked_in/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>让我们通过构建一个来了解现代 JavaScript 框架的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/18a2ui0/lets_learn_how_modern_javascript_frameworks_work/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a2ui0/lets_learn_how_modern_javascript_frameworks_work/</guid>
-      <pubDate>Sun, 03 Dec 2023 20:45:24 GMT</pubDate>
+      <title>Python 与 Egglog 的原始同余闭包论文</title>
+      <link>https://www.reddit.com/r/programming/comments/18adyhz/original_congruence_closure_paper_in_python_with/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adyhz/original_congruence_closure_paper_in_python_with/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:07:45 GMT</pubDate>
     </item>
     <item>
-      <title>编程面试</title>
-      <link>https://www.reddit.com/r/programming/comments/18a2kpa/programming_interview/</link>
-      <description><![CDATA[您推荐哪个页面：Leetcode、codewars、hackerrank？它们的优缺点是什么？   由   提交 /u/JesszumPepe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a2kpa/programming_interview/</guid>
-      <pubDate>Sun, 03 Dec 2023 20:33:25 GMT</pubDate>
+      <title>EdDSA、Ed25519、Ed25519-IETF、Ed25519ph、Ed25519ctx、HashEdDSA、PureEdDSA、WTF？</title>
+      <link>https://www.reddit.com/r/programming/comments/18adygz/eddsa_ed25519_ed25519ietf_ed25519ph_ed25519ctx/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adygz/eddsa_ed25519_ed25519ietf_ed25519ph_ed25519ctx/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>抛硬币程序太完美</title>
-      <link>https://www.reddit.com/r/programming/comments/18a17mw/coin_toss_program_too_perfect/</link>
-      <description><![CDATA[ 由   提交/u/yameiseow  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a17mw/coin_toss_program_too_perfect/</guid>
-      <pubDate>Sun, 03 Dec 2023 19:34:24 GMT</pubDate>
+      <title>通过实例优化Go字符串操作</title>
+      <link>https://www.reddit.com/r/programming/comments/18adygb/optimizing_go_string_operations_with_practical/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adygb/optimizing_go_string_operations_with_practical/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>如何无限扩展多人游戏服务器</title>
-      <link>https://www.reddit.com/r/programming/comments/18a11xx/how_to_infinitely_scale_a_multiplayer_game_server/</link>
-      <description><![CDATA[ 由   提交/u/hpx77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18a11xx/how_to_infinitely_scale_a_multiplayer_game_server/</guid>
-      <pubDate>Sun, 03 Dec 2023 19:27:35 GMT</pubDate>
+      <title>Tal 是 Uxn 虚拟机的编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/18adxy9/tal_is_the_programming_language_for_the_uxn/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adxy9/tal_is_the_programming_language_for_the_uxn/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>可读性的来源</title>
-      <link>https://www.reddit.com/r/programming/comments/189z3dx/the_source_of_readability/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/189z3dx/the_source_of_readability/</guid>
-      <pubDate>Sun, 03 Dec 2023 18:01:25 GMT</pubDate>
+      <title>将 Hare 移植到 OpenBSD</title>
+      <link>https://www.reddit.com/r/programming/comments/18adxxk/porting_hare_to_openbsd/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adxxk/porting_hare_to_openbsd/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:06:43 GMT</pubDate>
     </item>
     <item>
-      <title>我用 C 预处理器生成了这篇文章</title>
-      <link>https://www.reddit.com/r/programming/comments/189z17i/i_generated_this_post_with_c_preprocessor/</link>
-      <description><![CDATA[ 由   提交/u/aartaka  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/189z17i/i_generated_this_post_with_c_preprocessor/</guid>
-      <pubDate>Sun, 03 Dec 2023 17:58:55 GMT</pubDate>
+      <title>结构体初始化 (C++)</title>
+      <link>https://www.reddit.com/r/programming/comments/18adxff/struct_initialization_c/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adxff/struct_initialization_c/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:05:52 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员生产力</title>
-      <link>https://www.reddit.com/r/programming/comments/189ybbi/developer_productivity/</link>
-      <description><![CDATA[我是初创公司的工程总监。我想知道提高开发人员生产力的最佳方法是什么。 开发人员在开发功能/服务时不应该浪费时间。 我们如何使用指标来实现卓越的工程设计每个开发人员都有责任并不断改进。 很少有想法会跟踪 git 活动（新代码、代码改动、测试覆盖率、会议时间、发布时间、在出现问题时恢复它们、识别阻止者 如今，所有内容都分散在电子邮件、jira、slack 线程和各种来源中。 开发人员的平均编码时间非常低（约 1 小时）..我的意思是生产时间 &gt; 优化他们的最佳方法是什么，从而使团队成长，个人成长 请注意，我们的目的是每天在工作中改进他们，而不是折磨他们。 &gt; 我发现开发人员对生产环境的运行方式不够热情。对主动警报监控、服务成本没有热情 目标是提高他们的生产力 X 倍。 &gt; 一直在阅读有关 DORA 和 SPACE 框架的内容。发现它们有点主观而不是客观 欢迎特别是来自开发人员的建议😀   由   提交/u/200-okay  /u/200-okay  mckinsey.com/industries/technology-media-and-te communications/our-insights/yes-you-can-measure-software-developer-productivity&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/189ybbi/developer_productivity/</guid>
-      <pubDate>Sun, 03 Dec 2023 17:25:46 GMT</pubDate>
+      <title>RetSpill：点燃用户控制的数据以烧毁 Linux 内核保护 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/18adwv0/retspill_igniting_usercontrolled_data_to_burn/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adwv0/retspill_igniting_usercontrolled_data_to_burn/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:04:55 GMT</pubDate>
     </item>
     <item>
-      <title>Pipelight - 用于自动化管道的小型 cli（自托管轻量级 CICD）</title>
-      <link>https://www.reddit.com/r/programming/comments/189xuig/pipelight_a_tiny_cli_for_automation_pipelines/</link>
-      <description><![CDATA[ 由   提交 /u/poulain_ght   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/189xuig/pipelight_a_tiny_cli_for_automation_pipelines/</guid>
-      <pubDate>Sun, 03 Dec 2023 17:03:15 GMT</pubDate>
+      <title>那太遥远了，伙计</title>
+      <link>https://www.reddit.com/r/programming/comments/18adwm1/thats_farout_man/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adwm1/thats_farout_man/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>分享我在本周末的会议上进行技术演讲的经验！</title>
-      <link>https://www.reddit.com/r/programming/comments/189xj5z/sharing_my_experience_giving_a_tech_talk_at_a/</link>
-      <description><![CDATA[ 由   提交/u/lefty_is_so_good  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/189xj5z/sharing_my_experience_giving_a_tech_talk_at_a/</guid>
-      <pubDate>Sun, 03 Dec 2023 16:48:44 GMT</pubDate>
+      <title>你不需要 JavaScript</title>
+      <link>https://www.reddit.com/r/programming/comments/18adwef/you_dont_need_javascript_for_that/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18adwef/you_dont_need_javascript_for_that/</guid>
+      <pubDate>Mon, 04 Dec 2023 06:04:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
