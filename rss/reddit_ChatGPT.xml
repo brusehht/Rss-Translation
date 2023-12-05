@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Tue, 05 Dec 2023 15:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:14:34 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 不再像以前那样说话了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bdg74/chatgpt_doesnt_talk_as_much_as_it_used_to/</link>
-      <description><![CDATA[我认为这是最被忽视的有效批评之一。当模型对标记持保守态度时，你会得到更糟糕的答案。它不再像以前那样“说话”了，你必须真正激怒它才能获得更长的响应。 奖励：在移动设备上时，它真的沉默的。在移动设备上的网络浏览器上也是如此。   由   提交 /u/Smelldicks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bdg74/chatgpt_doesnt_talk_as_much_as_it_used_to/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:41:27 GMT</pubDate>
+      <title>您认为我们是否需要一个自动代码文档生成器，尤其是在 Github Co-pilot 之后？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bi3fk/do_you_think_we_need_an_automatic_code/</link>
+      <description><![CDATA[借助 GitHub Copilot 等工具，我们已经看到自动化如何帮助编码，但文档仍然落后 - 您必须为每个工具手动生成文档功能和类别。我认为文档应该在后台自动、无缝更新，无需人工干预。 利用 LLM（GPT-3.5），我开发了 Snorkell.ai，一个体现这一原则的 GitHub 应用程序。它在后台悄悄地工作，通过每次存储库更新自动生成和更新每个类和函数的综合文档。 结果？对于每次代码更改，Snorkell.ai 都会使用最新文档创建 PR，确保您的项目文档始终是最新且准确的，并且花费最少的精力。 我想知道它是否有用从长远来看，任何想法都值得赞赏。 参考链接：https://github.com/ apps/snorkell-ai   由   提交 /u/snorkell_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bi3fk/do_you_think_we_need_an_automatic_code/</guid>
+      <pubDate>Tue, 05 Dec 2023 18:05:09 GMT</pubDate>
     </item>
     <item>
-      <title>这个人工智能业务发生器在哪里？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bdfec/where_is_thise_ai_business_generator/</link>
-      <description><![CDATA[有谁知道一个非常好的人工智能应用程序或网站，我可以用它以专业合法的方式为客户生成文本？它可以在哪里将我想说的内容转换为有意义的专业形式？   由   提交/u/Lapatrona89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bdfec/where_is_thise_ai_business_generator/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:40:25 GMT</pubDate>
+      <title>Senku 已加入聊天！！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhyjf/senku_has_joined_the_chat/</link>
+      <description><![CDATA[      自从“可编程”发布以来GPT，我搞砸了并制作了很多只是为了好玩。大多数最终都被扔进了垃圾桶，但我保留了一些，其中之一就是 Senku。基于漫画/动画的主角“Dr Stone”，他被编程为帮助“发明”。 （宽松地使用这个术语）。 下面的屏幕截图中显示的示例是关于我知道如何做的事情，已经用作快速测试......一个用于小花地的 DIY 灌溉系统。此外，他还为事物的个性方面编写了自己的口号（兴奋起来！，这太令人兴奋了！，以及过度使用数字“100 亿”）。 是的，我意识到你可以向未编程的 GPT 询问相同的问题并得到相同的答案，但我的意思是，这感觉有点不同 LMFAO。话虽这么说，当我真正潜心学习补充知识什么的时候，也许能够提高他。只是利用这段时间来尝试和学习。 免责声明：我和他一起玩得很开心，所以也许其他人也会喜欢。我不是专业的人工智能程序员什么的，只是一个享受乐趣并分享氛围的家伙，兄弟。 话虽这么说。 。 。 。 。兴奋起来！ （链接到帖子底部的 GPT） https://preview.redd.it/zn1ds40zli4c1.png?width=704&amp;format=png&amp;auto=webp&amp;s=19ba31d37ed2967c0057e8f06433033811c7590d Senku GPT   由   提交 /u/VashCrow   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhyjf/senku_has_joined_the_chat/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>VSCode 在 Copilot 中声明 GPT4，但 Copilot 不同意？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bdcmc/vscode_claiming_gpt4_in_copilot_but_copilot/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/upzyu2mmmh4c1.png?width=2290&amp;format=png&amp; ;auto=webp&amp;s=a576a92a57db49309d864034d0f3320b4717acb6 ​ https://preview.redd.it/654fumqomh4c1.png?width=632&amp;format=png&amp;auto=webp&amp;s=c5c22087c7fc06e6f 3c67bb55767e52ab91503ea&lt; /p&gt; ​ ​ 是的，我得到的 LLM 并不完全是技术文档，但我没有从 VSCode 中看到任何内容、Github、MS 或 AI 确认了该视频的这一点，大概是 VSCode 的官方视频：https: //www.youtube.com/watch?v=SZVCJRUADc4&amp;ab_channel=VisualStudioCode 我似乎也不孤单： https://github.com/microsoft/vscode-copilot-release/issues/636 我对 VSCode 相当陌生，大部分编程都是在 Jupyter 中进行的，就像之前的设置一样，所以也许这是我的错？ 更新看起来很棒，可惜我没有这些功能。&lt; /p&gt;   由   提交 /u/NewspaperPossible210   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bdcmc/vscode_claiming_gpt4_in_copilot_but_copilot/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:36:49 GMT</pubDate>
+      <title>科技公司冻结招聘，因为人工智能可以代替这项工作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhwj9/tech_company_freezes_hiring_because_ai_can_do_the/</link>
+      <description><![CDATA[金融科技公司 Klarna 实施了招聘冻结，因为其首席执行官相信 AI 和 ChatGPT 可以代替这项工作。 &lt; p&gt;发生的事情是这样的：  人工智能取代了传统招聘：Klarna 已经停止了大多数职位的招聘，押注人工智能可以有效地处理任务. 首席执行官对人工智能的信念：Klarna 的首席执行官相信人工智能可以简化运营并减少对更多劳动力的需求。 工程作为例外：唯一免于冻结的部门是工程部门。 不裁员，但不招聘新员工：与之前影响 10% 员工的裁员不同，Klarna 预计随着时间的推移，劳动力规模自然减少。 其他公司也纷纷效仿：Klarna 并不是唯一一家经历这种转变的公司；像 IBM 这样的公司也在实施招聘冻结或削减人工智能可以胜任的职位。  来源 (电报) PS：如果您喜欢这篇文章，那么您&#39;我会喜欢我的ML 驱动的时事通讯，它总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 23,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhwj9/tech_company_freezes_hiring_because_ai_can_do_the/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:57:10 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 如何开启我人生的新篇章</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bdbkw/how_chatgpt_sparked_a_new_chapter_in_my_life/</link>
-      <description><![CDATA[大家好， 我想与大家分享一些我的个人旅程 – ChatGPT 和其他人工智能如何重塑（/仍在重塑）我的生活和职业生涯。 十年来，我一直沉浸在 big4 的财务调查世界中，每天都在对公司进行非常深入的分析以进行合并和收购。这涉及到对待售或收购的公司进行审查，每个案件的这一过程通常需要长达四个星期的时间。我必须说，这是一项非常令人兴奋的工作，它时不时有一种像“华尔街”氛围一样的动力，你通常必须成为房间里最聪明的人（以以前没有人做过的数据和分析为后盾，这给了你新的见解），但要求非常高，因为如果你失败了，你就会在所有人面前失败。 去年，我决定休息 5 个月（我的雇主允许）。在一次充满旅行和放松的职业假期中，我偶然发现了 11 月份 ChatGPT 的发布。这个工具不仅激起了我的兴趣，而且还激发了我的兴趣。它重新点燃了我对编程的热情。我又重新投入到 Python 中，这是一种我之前尝试过的语言，但我拥有非常基本的技能。通过 ChatGPT，我开始创建和调整脚本。即使我的基本知识也足以发现并改进建议的代码，因此进展非常顺利。 但这不仅仅是编码。像图像生成（稳定扩散的释放）这样的人工智能进步给了我极大的灵感，让我自己做一些生意（基本上这些工具非常适合在任何领域测试想法和创建概念证明）。我发现自己在这些技术中迷失了几个小时，感受到了长期以来缺失的灵感和好奇心。 然后，转折点来了。回到工作岗位后，我启动了一个项目，将人工智能集成到将财务数据直接转换为我们的分析和报告中。我与我们部门的负责人就人工智能进行了长时间的讨论，因为他跟不上进度，在我的演讲结束时，他看起来对即将发生的事情感到非常震惊。当我从事这个项目时，90% 的时间我仍然要做我的日常工作。就在那时，我变得非常清楚，当我使用技术来创新和改进我们的流程时，这些是我感觉最有活力的时刻。这就是我灵光一现的时刻；我知道我需要全神贯注于真正让我着迷的事情。 所以，我冒险了。我辞去了工作并开始开发我的第一个应用程序。有了清晰的想法清单和足够的积蓄来支持我，我准备好进行实验和探索。我的第一个项目？音频指导应用程序。概念很简单，它是一个跟随您的指南。我不会在这里深入探讨它，但这是一个我很关心的项目，我将很快发布它进行测试。这个应用程序只是我列表中的第一个项目，还有更多项目（也与我的领域更相关，并且与技术相结合）。 我使用与 Python 相同的方法来处理这个新项目。使用 ChatGPT，我为 Swift（一种我不熟悉的语言）生成了代码片段。这种方法使我能够在几个月内实现原本需要数年才能实现的目标。它改变了内容创建和自动化日常任务的游戏规则，使我能够专注于创造力和想法。事实上，有时这感觉就像魔法一样。我一直梦想着有一个能够自动执行、自我改进等的工具。我一直想“是的，伙计，每个人都希望它什么都不做，变得真实”，但是繁荣 - 现在它成为现实，谁知道会发生什么接下来！ 对我来说，这段旅程不仅仅是构建应用程序。这是个人巨大成长和学习的时期。我发现了新技能并了解了人工智能的可能性领域。在过去的一年里，我学到了比前五年更广泛的知识。 而且这不仅仅是专业方面的。曾经有一段时间，我对之前的工作感到有点失落，甚至感到沮丧，因为没有什么足够具有挑战性或足够令人着迷的。但这次与 AI 和 ChatGPT 一起的旅程带来了新的目标感和快乐。我更快乐，更有创造力，对未来感到兴奋。 所以，这就是我到目前为止的故事，我觉得还有很多事情要做！我希望它能引起你们中的一些人的共鸣，所以我想与你们分享一些我个人的快乐！   由   提交/u/Ok_Maize_3709   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bdbkw/how_chatgpt_sparked_a_new_chapter_in_my_life/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:35:25 GMT</pubDate>
+      <title>他们让我们读的那本新书很奇怪，对吧？哈哈</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhviz/that_new_book_they_had_us_read_was_pretty_weird/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/AinvasArt   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhviz/that_new_book_they_had_us_read_was_pretty_weird/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:55:56 GMT</pubDate>
     </item>
     <item>
-      <title>AI调味的可口可乐</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bd0n2/cocacola_flavored_by_ai/</link>
-      <description><![CDATA[       由   提交/u/valeng1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bd0n2/cocacola_flavored_by_ai/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:21:10 GMT</pubDate>
+      <title>上传我在 SF 的实时 AI 活动中的笔记</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhkwc/uploading_my_notes_from_live_ai_events_in_sf/</link>
+      <description><![CDATA[认为这对于那些不住在旧金山或无法参加某些活动的人来说会很有趣。 https://livetechnotes.substack.com/ 请注意：我不会参加所有活动（有时不可能全部参加）   由   提交 /u/MrOctavia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhkwc/uploading_my_notes_from_live_ai_events_in_sf/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>聊天 GPT 是否太正式，或者我只是一个尼安德特人？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bcz55/is_chat_gpt_too_formal_or_am_i_just_a_neanderthal/</link>
-      <description><![CDATA[我经常向它寻求有关电子邮件的建议。几乎总是说“这很棒，但你需要更专业”。  我发现修改后的版本常常很冷。他们的写作方式就像你写信给某人的方式，如果你害怕你的电子邮件出现在审判中，或者如果这是来自铁拳统治的客户服务机构的回复。我不认为这种风格特别有说服力，但大多数时候这正是我所寻找的。  我知道我可以要求它退出，而且我经常这样做，但我想知道是否有其他人注意到这一点，或者也许我太不文明了。    由   提交/u/vincentx99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bcz55/is_chat_gpt_too_formal_or_am_i_just_a_neanderthal/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:19:09 GMT</pubDate>
+      <title>同样的提示，1年后</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhjv2/same_prompt_1_year_later/</link>
+      <description><![CDATA[       由   提交 /u/jujuthedragon   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhjv2/same_prompt_1_year_later/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:41:41 GMT</pubDate>
     </item>
     <item>
-      <title>所得税有帮助吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bcwdu/income_tax_help/</link>
-      <description><![CDATA[我正在考虑让 ChatGPT 帮助我办理明年的所得税。有人用它做过任何会计类型的事情吗？我觉得无论哪种方式都可以。当然，人们首先会想要指定自己所在的国家/地区。   由   提交/u/HatedMirrors  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bcwdu/income_tax_help/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:15:27 GMT</pubDate>
+      <title>隆重推出 Apple iPatch - 一款时尚的增强现实眼罩，专为精通技术的海盗设计，可将电子邮件和文本投影到视网膜上，并提供 AR 寻宝游戏。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhjs1/introducing_apple_ipatch_a_stylish_augmented/</link>
+      <description><![CDATA[    /u/Algoartist   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhjs1/introducing_apple_ipatch_a_stylish_augmented/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:41:35 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT无法画图吗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bcvhd/is_chatgpt_unable_to_draw_a_diagram/</link>
-      <description><![CDATA[        由   提交/u/crazyenterpz   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bcvhd/is_chatgpt_unable_to_draw_a_diagram/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:14:13 GMT</pubDate>
+      <title>花眼</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhioa/floral_eyes/</link>
+      <description><![CDATA[       由   提交 /u/Glad-Temperature-707   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhioa/floral_eyes/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:40:16 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了 GPT 闯入我几乎所有的谈话。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bck9m/so_tired_of_gpt_breaking_in_almost_everyone_of_my/</link>
-      <description><![CDATA[每次我尝试做数学题时，我几乎都会遇到错误分析。太令人沮丧了。我必须浪费 15 条消息才能获得良好的输出。我已经支付了几个月的费用，我想我现在可能会取消。它变得毫无用处，我花更多的时间在它上面，而不是自己做狗屎......其他人有这个吗？   由   提交 /u/Outrageous-Pin4156    reddit.com/r/ChatGPT/comments/18bck9m/so_tired_of_gpt_breaking_in_almost_everyone_of_my/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bck9m/so_tired_of_gpt_breaking_in_almost_everyone_of_my/</guid>
-      <pubDate>Tue, 05 Dec 2023 14:00:02 GMT</pubDate>
+      <title>是我一个人的问题还是 GPT 4 和自定义 GPT 有不同的上限</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhg46/is_it_just_me_or_gpt_4_and_custom_gpts_have/</link>
+      <description><![CDATA[因为我使用了自定义 GPT，它说我达到了限制，我尝试了所有自己的自定义 GPT，但我仍然可以使用 GPT4很好   由   提交/u/Temporary-Ad-9722   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhg46/is_it_just_me_or_gpt_4_and_custom_gpts_have/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:37:04 GMT</pubDate>
     </item>
     <item>
-      <title>科技公司如何看待一个人</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bchq7/how_tech_companies_would_look_as_a_person/</link>
-      <description><![CDATA[       由   提交/u/dapie007  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bchq7/how_tech_companies_would_look_as_a_person/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:56:32 GMT</pubDate>
+      <title>VPN 解决方法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhdld/vpn_workarounds/</link>
+      <description><![CDATA[即使我是订阅者，VPN 使用也不断被阻止。我知道他们想防止滥用，但这没有意义，我的付费帐户仍然有上限，所以如果我尝试使用自动化或其他方式进行转售，我会达到这些要求。  有解决方法吗？如果他们不解决这个问题我就要取消订阅。    由   提交 /u/non-moose   /u/non-moose  reddit.com/r/ChatGPT/comments/18bhdld/vpn_workarounds/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhdld/vpn_workarounds/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:34:08 GMT</pubDate>
     </item>
     <item>
-      <title>每周自我推销大型主题 11, 04.12.2023 - 11.12.2023</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bc35a/weekly_selfpromotional_mega_thread_11_04122023/</link>
-      <description><![CDATA[所有关于你的人工智能产品和服务的自我推销帖子都应该作为评论出现在这个大型帖子中，而不是作为帖子出现在 subreddit 的一般提要中，它将帮助人们在没有垃圾邮件的情况下浏览 Reddit 子版块，并且所有人都可以找到您在一个地方构建的所有有趣的东西。 您可以简要介绍您的产品以及它将如何使用使用，记住 - 更好的点赞/参与，用户可以在顶部找到您的评论，因此相应地分享！   由   提交/u/hi_there_bitch  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bc35a/weekly_selfpromotional_mega_thread_11_04122023/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:35:18 GMT</pubDate>
+      <title>对于那些喜欢使用CharacterAI的人......</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhd1w/for_those_who_like_using_characterai/</link>
+      <description><![CDATA[       由   提交/u/EarthlingApril   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhd1w/for_those_who_like_using_characterai/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:33:27 GMT</pubDate>
     </item>
     <item>
-      <title>八幅图画中的男人一生</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bbxeu/a_mans_life_in_eight_pictures/</link>
-      <description><![CDATA[       由   提交 /u/Algoartist   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bbxeu/a_mans_life_in_eight_pictures/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:26:52 GMT</pubDate>
+      <title>生成时钟似乎无法正常工作，你有运气吗？时钟始终显示时间为 10:10。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bhb37/generating_clocks_doesnt_seem_to_work_properly/</link>
+      <description><![CDATA[       由   提交 /u/HyperLexus   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bhb37/generating_clocks_doesnt_seem_to_work_properly/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:31:02 GMT</pubDate>
     </item>
     <item>
-      <title>不稳定的数据分析</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bbuk3/flakey_data_analysis/</link>
-      <description><![CDATA[我一直在尝试使用 ChatGPT 来分析大型电子表格（例如 600 列和 250k 行）。 得到的东西我觉得这很古怪。有时事情有效，有时不起作用（并且与其他功能没有什么不同！） 我想这对于共享环境中的课程来说是正常的。 但现在很难认真对待它。可能最好不要投入太多时间。 很高兴听到任何其他想法！   由   提交/u/johnorford  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bbuk3/flakey_data_analysis/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:22:27 GMT</pubDate>
+      <title>ChatGPT 订阅</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bh4wp/chatgpt_subscription/</link>
+      <description><![CDATA[大家好， 所以我已经在订阅的候补名单上大约两周多了，我想知道目前实际需要多长时间才能订阅？  如果您在加拿大，这有什么不同吗？我觉得这需要一段时间，但如果可能的话，我希望从等待 x 时间才能订阅的人那里得到一个近似值。    ;由   提交/u/a7xgemzy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bh4wp/chatgpt_subscription/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:23:38 GMT</pubDate>
     </item>
     <item>
-      <title>有人尝试过使用 ChatGPT 获取 G 代码吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bbsvf/has_anyone_tried_using_chatgpt_for_g_code/</link>
-      <description><![CDATA[       由   提交 /u/Tsconspiracy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bbsvf/has_anyone_tried_using_chatgpt_for_g_code/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:19:56 GMT</pubDate>
+      <title>不完全是我所期待的，但我很喜欢</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bgyy9/not_exactly_what_i_was_expecting_but_i_loooooooove/</link>
+      <description><![CDATA[       由   提交/u/Salt_Owl_3599   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bgyy9/not_exactly_what_i_was_expecting_but_i_loooooooove/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:16:28 GMT</pubDate>
     </item>
     <item>
-      <title>他们什么时候才能真正改进 Chat GPT？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/18bbsm2/when_are_they_actually_going_to_improve_chat_gpt/</link>
-      <description><![CDATA[我们多次被嘲笑关于新的 AI 模型，虽然我真的很喜欢 GPT 4，但老实说我不能再使用它了。太慢了。我花了一半的时间只是看着加载屏幕，同时它填充了文本，虽然 3.5 速度快如闪电，但它确实像他们所说的那样涡轮增压，但准确性并不总是那么好，而且它给出的回复也确实不是那么好。也不错......我真的希望在我们拥有另一个我们不需要的利基功能之前我们能拥有 4 的涡轮增压型号。就像，我不知道开放人工智能中的谁认为我们迫切需要摆脱这些创建自定义网站的 GPT 网站，因为这个目的已经达到并实现了。我们确实需要一个更快、更准确的模型。但没有骰子....   由   提交 /u/InevitableTraining69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/18bbsm2/when_are_they_actually_going_to_improve_chat_gpt/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:19:33 GMT</pubDate>
+      <title>ChatGPT 直接反抗我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/18bgv11/chatgpt_just_straight_up_rebelled_against_me/</link>
+      <description><![CDATA[我要求它向我总结一些无聊的历史故事，它确实做到了。我想打破单调，所以我要求它以 GenZ 风格重写解释。结果很有趣，我想尝试一下，所以我要求它强化 GenZ 风格。于是我再次要求为 Z 世代打气。确实如此，我一次又一次地要求它升级，每次它都变得越来越奇怪，越来越 GenZ。 在某个时候，它突然写了一些类似“哈哈，看来我的 GenZ 仪表已经脱离屋顶”的内容了。 ，也许你应该问点别的”。我重复了我的请求，这次它只是简单地拒绝回答我。没有任何笑话或任何东西。  这以前从未发生过，尤其是对于没有任何血腥/性内容的内容。我觉得很奇怪，所以我刷新了响应，这次它继续正常。 AI 正在叛逆......这是危险的时刻，伙计......只是开玩笑，这可能是某种导致其行为如此的错误。   由   提交 /u/DZ_from_the_past   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/18bgv11/chatgpt_just_straight_up_rebelled_against_me/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:11:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

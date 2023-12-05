@@ -4,9 +4,9 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 05 Dec 2023 12:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:14:17 GMT</lastBuildDate>
     <item>
-      <title>动态 LoRA 加载可提高性能并优化资源使用</title>
+      <title>LoRA 推理速度提高 3 倍</title>
       <link>https://huggingface.co/blog/lora-adapters-dynamic-loading</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/lora-adapters-dynamic-loading</guid>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ONNX Runtime 加速超过 130,000 个拥抱面部模型</title>
+      <title>使用 ONNX Runtime 加速超过 130,000 个拥抱脸部模型</title>
       <link>https://huggingface.co/blog/ort-accelerating-hf-models</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ort-accelerating-hf-models</guid>
