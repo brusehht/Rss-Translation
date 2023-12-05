@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Dec 2023 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 00:53:26 GMT</lastBuildDate>
     <item>
-      <title>在洛杉矶寻找编程和开发人员朋友。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18atz32/looking_for_programming_and_developer_friends_in/</link>
-      <description><![CDATA[我位于圣莫尼卡。大学时学的是CS，做过很多交易。寻找该领域更多的开发人员、程序员和创业朋友。   由   提交 /u/mufasis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18atz32/looking_for_programming_and_developer_friends_in/</guid>
-      <pubDate>Mon, 04 Dec 2023 20:50:41 GMT</pubDate>
+      <title>我对 golang webdev 了解得越多，我就越想知道为什么它没有更流行。你的想法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18azed0/the_more_i_learn_golang_webdev_the_more_i_wonder/</link>
+      <description><![CDATA[我已经使用 PHP、C#、Node JS 和 Java 构建了基本的动态网站。我目前正在学习 Go，它可能有在我看来，最佳性能与易于实现的比率.. 你认为 golang 会变得更加普遍吗？   由   提交/u/nutra987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18azed0/the_more_i_learn_golang_webdev_the_more_i_wonder/</guid>
+      <pubDate>Tue, 05 Dec 2023 00:49:26 GMT</pubDate>
     </item>
     <item>
-      <title>刚开始时感到不知所措</title>
-      <link>https://www.reddit.com/r/webdev/comments/18atg0l/feeling_underwhelmed_when_starting_out/</link>
-      <description><![CDATA[我最近开始了 Web 开发世界的旅程，并了解了 Html 和 CSS 的基础知识。我已经达到了学习后可以轻松尝试自己的项目的地步。自从我开始这个项目以来，我知道它不会令人惊奇，但会是一次很好的学习经历。我看着我的工作，觉得它平淡无奇，感觉这不是我应该做的。我坚持下去，我只是想知道一开始这正常吗？ ​   由   提交/u/Trex1332  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18atg0l/feeling_underwhelmed_when_starting_out/</guid>
-      <pubDate>Mon, 04 Dec 2023 20:28:04 GMT</pubDate>
+      <title>适合初学者的后端语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18aymyt/backend_language_for_a_beginner/</link>
+      <description><![CDATA[您好！  首先，我有一些 HTML5/CSS3、Bootstrap 经验，也尝试过 Javascript，但只是几年前的基础知识。 自从 2 年前以来就没有练习过它们，所以假设我是一个完全的新手（当然忘记了事情）。  我正在选择一种语言，一种仅用于后端的语言，不想编写任何与前端相关的代码。  基本上考虑的是 PHP 或 Python，但我也会听听你的意见 - 我想我的第一个大项目将是一个 Discord 机器人。   由   提交/u/szaci92  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18aymyt/backend_language_for_a_beginner/</guid>
+      <pubDate>Tue, 05 Dec 2023 00:13:57 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他聪明/创造性的方法来减少电子邮件验证注册滥用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18at4oj/any_other_smartcreative_ways_to_reduce_email/</link>
-      <description><![CDATA[嗨， 我有一个 Web 应用程序，需要注册 + 电子邮件验证才能创建帐户。工作流程相当简单/有效：  使用表单进行用户注册 发送电子邮件验证链接并要求用户进行验证 用户单击电子邮件验证并创建他们的帐户  以下是为减少滥用而采取的预防措施：  注册端点是速率- 受 IP 限制（每 Y 分钟发出 X 个请求） 注册表单有一个蜜罐（捕获最简单的机器人） 用户必须单击的电子邮件验证链接会强制托管来自 Cloudflare 的质询检查（仅允许来自 Cloudflare 的流量，因此无法绕过它） 这意味着超过此时间点的任何机器人注册实际上都会通过 CF 的浏览器管理质询。   即使在这之后，我仍然看到一些机器人完全通过了验证（尽管速度非常慢，没有什么太令人担忧的）。 我可以采用哪些其他技术来增强我的工作流程？不尝试引入任何疯狂的外部验证服务或添加阻碍性验证码   由   提交 /u/blood_vein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18at4oj/any_other_smartcreative_ways_to_reduce_email/</guid>
-      <pubDate>Mon, 04 Dec 2023 20:14:59 GMT</pubDate>
+      <title>GoDaddy 太糟糕了，让我头疼！</title>
+      <link>https://www.reddit.com/r/webdev/comments/18aymn5/godaddy_is_so_bad_it_makes_my_head_hurt/</link>
+      <description><![CDATA[我们已经知道 GD 很糟糕，所以我想我只是在这里表示同情。  当我开始在这家公司工作时，他们已经有数百个由 GD 托管的网站，因此遗留惯性已完全发挥作用，并且无法（轻松）转移到其他提供商。所以我只能忍着。今天他们的 2FA 系统决定不再向我的手机发送登录代码，没有它我就无法登录。因此，我联系了支持人员，以便他们可以向我发送一次性代码或临时登录的内容，并可能通过电子邮件或其他方式设置身份验证。没有！不能做那样的事。一旦代理使用注册电子邮件验证了我的身份（是的），我被告知我需要等待 24-72 小时才能解决问题，并且在那之后我可能能够（希望）登录。此消息花了 3 个独立的代理人，花了 4 个小时才送达。我无法想象如果标准 MFA 问题在他们“调查”时关闭用户帐户，他们的堆栈会是什么样子。称其为“脆弱”架构可能是一种轻描淡写的说法。 唯一的好处是当我告诉我的老板在接下来的 24 到 72 小时内不会配置新的电子邮件服务器，因为我无法登录编辑 DNS 记录，他说“也许是时候寻找更好的托管提供商了。”  无论如何，抱歉我的咆哮。我只是因为整件事的愚蠢而感到震惊。   由   提交 /u/Xix_Feng   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18aymn5/godaddy_is_so_bad_it_makes_my_head_hurt/</guid>
+      <pubDate>Tue, 05 Dec 2023 00:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>专注于前端、后端或全栈哪个更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18aszaq/which_is_better_focusing_on_either_frontend_or/</link>
-      <description><![CDATA[我是一名初级前端开发人员。但如果我只专注于前端，我担心会缺乏工作。忽略全栈。你觉得怎么样？   由   提交 /u/Agitated-Side5896    reddit.com/r/webdev/comments/18aszaq/which_is_better_focusing_on_either_frontend_or/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18aszaq/which_is_better_focusing_on_either_frontend_or/</guid>
-      <pubDate>Mon, 04 Dec 2023 20:08:27 GMT</pubDate>
+      <title>进行昆虫测验</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ax8zg/making_an_insect_quiz/</link>
+      <description><![CDATA[我是一个完全的初学者，但我正在尝试为我的昆虫学课程做一个项目，其中我做了一个小测验来识别各种膜翅目，它将显示你最后做对的和做错的，以及做错的，它会告诉你将来如何正确识别它们。谁能帮助我如何开始这个过程？   由   提交 /u/ShamanicBuddha   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ax8zg/making_an_insect_quiz/</guid>
+      <pubDate>Mon, 04 Dec 2023 23:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>想要开发一个汽车购物网站 - 无经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/18asx4z/want_to_develop_a_car_shopping_website_no/</link>
-      <description><![CDATA[您好r/webdev，我有一个汽车购物网站的想法，该网站需要聚合数据并将其传递给用户选择的一系列自定义过滤器（类似于 Autotempest.com）。 我没有任何外部 Web 开发经验像 Shopify 等无代码Wix，所以我正在尝试学习如何雇用个人或机构来构建它。  我应该期望与什么时间框架和成本合作，以及我应该搜索/避免哪些类型的网络开发公司？ 提前感谢您的意见 --如果这是错误的提问地点，我很乐意删除该帖子，但希望提供一些关于什么地方最适合提出这个问题的意见。谢谢你！    由   提交 /u/braskel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18asx4z/want_to_develop_a_car_shopping_website_no/</guid>
-      <pubDate>Mon, 04 Dec 2023 20:05:54 GMT</pubDate>
+      <title>现代 Vanilla JavaScript 的反应模式</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ax4aq/patterns_for_reactivity_with_modern_vanilla/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ax4aq/patterns_for_reactivity_with_modern_vanilla/</guid>
+      <pubDate>Mon, 04 Dec 2023 23:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>一起学习 Next.js + Supbase + GraphQL 的在线资源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ask5r/online_resources_to_learn_nextjs_supbase_graphql/</link>
-      <description><![CDATA[所以我想构建一个 Fullstack 应用程序并学习 GraphQL，而不使用适当的 BE（我是前端开发人员），因此我考虑了使用 Nextjs + Supabase + Grapqhl 堆栈。但是，我没有找到任何有关此堆栈的资源/教程。如果我弄错了，我很抱歉，但是 GraphQL 和数据库之间不应该有一个层，比如 Prisma 吗？或者 Next.js 可以通过 GraphQL 直接与 Supabase DB 交互吗？ 无论如何，如果您能为我指出一个涵盖我目标场景的优秀教程或课程，我将不胜感激。非常感谢   由   提交 /u/Kotoriii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ask5r/online_resources_to_learn_nextjs_supbase_graphql/</guid>
-      <pubDate>Mon, 04 Dec 2023 19:50:54 GMT</pubDate>
+      <title>无障碍</title>
+      <link>https://www.reddit.com/r/webdev/comments/18awx6g/accessibility/</link>
+      <description><![CDATA[我有一位客户请求提供合规声明以支持我的 SaaS 的可访问性。我认为我不具备这些特征。实施起来似乎是可行的，而且我确实可以使用一些可计费的开发工作。有人有这方面的经验吗？我觉得有点紧张，说该服务目前不是无法友好访问。 我过去读过很多线程，老实说不确定这里的要求，但我看到一些服务应该能够帮助我通过审核。   由   提交/u/Rare-Board8628  /u/Rare-Board8628 reddit.com/r/webdev/comments/18awx6g/accessibility/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18awx6g/accessibility/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:58:10 GMT</pubDate>
     </item>
     <item>
-      <title>编写涉及音频存储、音频处理和操作以及压缩/解压缩的应用程序的最佳框架和语言。有什么建议么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18as0th/best_framework_and_language_to_write_an_app_that/</link>
-      <description><![CDATA[需要帮助选择我的工具所以我是一个相对较新的 Web 开发人员。我有一个小项目的想法，该项目将大量处理音频处理、音频压缩和解压缩数据库调用，并且需要低延迟。  由于这将是一个非常全面的项目，我愿意学习一种全新的语言和框架，因为我希望它尽可能具有性能。  对于后端这样的用例，你们建议使用什么语言？任何特定的框架、API（已经计划编写自己的框架，但如果适合我的用例，我将始终使用现有的框架）或库？  对于存储，我正在考虑使用 nosql 来存储原始音频，除非有更好的方法。托管也是一个考虑因素，但我倾向于某种类型的云部署。任何帮助将不胜感激。   由   提交/u/Agile-Aide-947   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18as0th/best_framework_and_language_to_write_an_app_that/</guid>
-      <pubDate>Mon, 04 Dec 2023 19:28:25 GMT</pubDate>
+      <title>当您可以关闭用户帐户时谁需要表单验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/18awtc2/who_needs_form_validation_when_you_can_just_close/</link>
+      <description><![CDATA[       由   提交/u/mayzyo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18awtc2/who_needs_form_validation_when_you_can_just_close/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>使用Jakarta Tomcat 5.0并且可以打开localhost，但是我需要使用它打开一个项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/18arx09/using_jakarta_tomcat_50_and_can_open_the/</link>
-      <description><![CDATA[我正在做一个学校项目，我们使用 Jakarta，我完成了路径并在启动时将其打开到本地主机英雄页面批处理文件，但链接学校以“/projectName”结尾，我不确定如何使用它打开项目。 谢谢！   由   提交/u/chef_is_gay  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18arx09/using_jakarta_tomcat_50_and_can_open_the/</guid>
-      <pubDate>Mon, 04 Dec 2023 19:23:59 GMT</pubDate>
+      <title>访问 CRON 作业中的对象时出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/18awnr2/issues_w_accessing_an_object_in_a_cron_job/</link>
+      <description><![CDATA[我有一个包含对象数组的容器对象，如下所示： const data = { foo: [{ ...}，{...}。 {...}] }  我还有一个 CRON 作业，每 n 分钟更新一次对象数组 foo。此 CRON 作业运行一个名为 updateData 的异步函数，其中包含等待的对我的 API 的 GET 调用，名为 getNewFoo。 请参阅此处： cron.schedule(`*/n * * * *`, async () =&gt; { const updateData = async () =&gt; { for (let i = 0; i &lt; data .foo.length; i++) { const response = wait getNewFoo(data.foo[i].id) // ... 等等 } } }  现在，问题来了，当我进入 for 循环时，由于某种原因，我无法访问 data 或 foo。例如，如果我在开始之前立即添加带有索引的控制台日志对 getNewFoo 的等待调用，它会打印。如果我尝试控制台记录 data 或 data。 foo，没有任何反应。就像循环被卡住了。 cron.schedule(`*/n * * * *`, async () =&gt;; { const updateData = async () =&gt; { for (let i = 0; i &lt; data.foo.length; i++) { console.log(i) // 有效 console.log(data) // 无效const response = wait getNewFoo(data.foo[i].id) // ... 等等 } } }  现在对我来说最有趣的是，如果我抛出一个函数进入返回 data.foo 的 data 文件，一切再次正常。显然 for 循环更喜欢 data.foo 的 getter 吗？  因此，在我的 data.js 文件中，我们有： const data = {...} const getFoo = () =&gt; ; { return data.foo }  更新 CRON 作业后，我们有： cron.schedule(`*/n * * * *`, async () =&gt; { const updateData = async () =&gt; { for (let i = 0; i &lt; getFoo().length; i++) { console.log(getFoo) // 这有效 const response = wait getNewFoo(getFoo()[i].id) // 这有效 // ... 等等 } } }  这有效。我所有的控制台日志语句都会打印。循环迭代正如预期的那样。为什么？ 为什么当我调用 getter 函数时，这个 for 循环会起作用？问题出在 CRON 作业和 for 循环本身以及它在技术上如何执行其操作吗？是因为我在 CRON 作业本身中声明函数？是由于 async/await 吗？ 如果不是上述任何一种情况，那么我将再次开始调试。事实上，我的应用程序现在使用 getter 按预期工作函数让我发疯。为什么我无法访问 data 对象或 data.foo 数组？我可以在任何其他地方访问这些，除了这个 for 循环。这是因为 JS 本身处理 for 循环的方式吗？  谢谢   由   提交 /u/NeonVolcom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18awnr2/issues_w_accessing_an_object_in_a_cron_job/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建一个可以被 Gmail 等电子邮件客户端接收的确认邮件（就像亚马逊确认电子邮件一样）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18aqncz/how_to_create_a_confirmation_in_a_way_to_be/</link>
-      <description><![CDATA[   /u/ashkanahmadi   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18aqncz/how_to_create_a_confirmation_in_a_way_to_be/</guid>
-      <pubDate>Mon, 04 Dec 2023 18:30:07 GMT</pubDate>
+      <title>[help] 在同一页面调用两次 api 时，仅最后一个实例有效</title>
+      <link>https://www.reddit.com/r/webdev/comments/18awf93/help_only_the_last_instance_works_when_calling_an/</link>
+      <description><![CDATA[大家好， 我目前正在尝试构建一个目录组件，最终用户可以在其中选择部门+员工类型（教职员工，全体）在他们的页面上列出。如果我添加一个实例，无论我选择何种员工类型，该组件都会正常工作，它会显示正确的集合。当我想添加两个不同的组件（一个仅用于教职员工，一个用于员工）时，问题就会出现。第一个实例（以教员实例为例）不会在前端显示任何内容，但第二个实例应该只列出教职员工，实际上会列出教职员工集和教职员工集。  api url 遵循以下格式 https://domain/dir/dir/dir/views/faculty/results.php/?search=&amp;type=${type}&amp; deptprog=${dept}。正如您所看到的，我使用 ${type} 和 ${dept} 作为过滤器，因此组件的第一个实例将渲染 faculty 和 math，而第二个实例将分别渲染 staff 和 math。  我使用velocity作为模板语言，并使用javascript进行api调用并显示结果（这就是我认为我的问题所在，因为组件的每个实例都会调用相同的js文件我相信我可能会遇到一些逻辑错误）。 js Pastebin 速度模板调用js   由   提交/u/papichulo916   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18awf93/help_only_the_last_instance_works_when_calling_an/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:36:36 GMT</pubDate>
     </item>
     <item>
-      <title>Web 开发人员，您希望项目经理/客户经理/产品经理/等做什么。受到更好的培训？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18aq8ek/web_developers_what_do_you_wish_project/</link>
-      <description><![CDATA[嗨！本质上就是标题。有关更多背景信息，我是一家创意机构的客户经理。我真的很喜欢参与涉及 CRM 迁移的技术性更强的项目，因此我告诉经理我很乐意参与任何其他“技术项目”。我们有一个新客户正在寻找一些大规模的网络工作（用户体验改进、网站架构的更改等）。我在大学里参加了一些编程课程，并涉足了一些数据/分析，但网络对我来说是全新的。 我希望通过它为我们所有的开发人员提供尽可能的帮助，我与他们告诉我，学习术语、Wordpress 和一般网络架构是有意义的。 但是，我在网上看到的所有内容（LinkedIn Learning、免费的自定进度大学课程）要么是针对某人的想要建立自己的 WordPress 网站，或者完整的大学 CS 课程。我不知道其中任何一个会特别有帮助吗？ 对于您希望与您一起工作的非技术人员了解更多信息有什么想法吗？或者有关该信息的资源？ 提前感谢您提供的任何意见（：    由   提交 /u/pabl0thicas0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18aq8ek/web_developers_what_do_you_wish_project/</guid>
-      <pubDate>Mon, 04 Dec 2023 18:12:07 GMT</pubDate>
+      <title>作为一名患有严重社交焦虑症的网络开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/18avxjc/being_a_web_developer_with_severe_social_anxiety/</link>
+      <description><![CDATA[我离开公司是因为我每周必须参加至少 10 次会议并与客户沟通。难道不可能找到一个主要通过 Slack 进行沟通、每周只有 1-2 次会议、由项目经理处理客户交互的地方吗？ 我作为 Webdev 工作了两年，但是老实说，那两年对我来说就像三十岁一样。作为一名仓库工人，我的收入为 400 美元，这是当时我国的最低工资，但我没有工作压力或恐慌症，我很高兴。 你觉得怎么样？这个职业真的需要如此社交吗？   由   提交 /u/shakaoneaj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18avxjc/being_a_web_developer_with_severe_social_anxiety/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以使用 Instagram API 对我的网络应用程序的用户进行身份验证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18aq3mb/is_it_possible_to_auth_users_to_my_web_app_using/</link>
-      <description><![CDATA[      我读了这篇文章，它很令人困惑，尽管我已经看到关注者应用程序有一个登录方式IG 按钮。 https:// Preview.redd.it/o55ej5gvib4c1.png?width=1830&amp;format=png&amp;auto=webp&amp;s=ff451d2623f587ba76e2fa10c3f944a945b4c55f   由   提交 /u/NotElonMuzk   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18aq3mb/is_it_possible_to_auth_users_to_my_web_app_using/</guid>
-      <pubDate>Mon, 04 Dec 2023 18:06:18 GMT</pubDate>
+      <title>有人可以解释为什么会发生这种情况吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18avseu/can_someone_explain_why_this_happens/</link>
+      <description><![CDATA[       由   提交/u/WTF__Steve  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18avseu/can_someone_explain_why_this_happens/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>一千个微服务导致死亡</title>
-      <link>https://www.reddit.com/r/webdev/comments/18apzhp/death_by_a_thousand_microservices/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18apzhp/death_by_a_thousand_microservices/</guid>
-      <pubDate>Mon, 04 Dec 2023 18:01:33 GMT</pubDate>
+      <title>webdev新手，请帮忙</title>
+      <link>https://www.reddit.com/r/webdev/comments/18avpc9/newbie_to_webdev_please_help/</link>
+      <description><![CDATA[      Lmao 我一整天都在寻找错误，但我无法让音频显示在我的页面上？我尝试了不同的代码，但没有帮助。我做错了吗？   由   提交/u/ResearcherAble4716  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18avpc9/newbie_to_webdev_please_help/</guid>
+      <pubDate>Mon, 04 Dec 2023 22:05:15 GMT</pubDate>
     </item>
     <item>
-      <title>公牛队教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/18apxpf/tauri_tutorial/</link>
-      <description><![CDATA[您好，我的博客平台 DevsForDevs 上有人发布了一篇关于 Tauri（一个 Rust Web 框架）的文章。 我认为值得阅读它。 顺便说一句，如果您想写一些不错的文章并连接，您也可以注册并写一篇文章！  &amp;# 32；由   提交/u/IAmOpenSourced  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18apxpf/tauri_tutorial/</guid>
-      <pubDate>Mon, 04 Dec 2023 17:59:44 GMT</pubDate>
+      <title>为小型项目提供免费套餐的托管数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ave2y/hosted_database_with_a_free_tier_for_small/</link>
+      <description><![CDATA[我需要一个托管数据库，用于一个可能很小的项目。我的要求是：   如果使用率较低，最好是免费的。我只期望收到几百份表格提交。  它需要保持活跃。 Supabase 的免费套餐对我来说应该足够了，但是他们在一周的活动后暂停了数据库。这可能会导致网站崩溃。  可以自动扩展以处理更多流量。如果使用量增加，我并不期待任何疯狂和乐意付费的事情，但这需要自动发生，这样站点就不会出现任何停机时间。 我的第一选择是 Postgres，然后是另一个 SQL，但 Mongo 也可以。   ​   由   提交/u/james_codes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ave2y/hosted_database_with_a_free_tier_for_small/</guid>
+      <pubDate>Mon, 04 Dec 2023 21:52:01 GMT</pubDate>
     </item>
     <item>
-      <title>我需要什么样的程序员来完成这样的事情？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18apv41/what_programmer_do_i_need_for_something_like_this/</link>
-      <description><![CDATA[我需要一个可以在前 Hostinger 上运行的网站。网站应该可以执行以下操作，设计并不那么重要，可以非常简单，甚至没有背景颜色等。  页面中间应该有一个带有 hello 的标题世界。 在下面应该有一个按钮，每个人每 10 秒只能按下一次。 请包括所有用户的日、周、月和年计数器。按键组合在一起，只有一个计数器适合我自己 包括再次按下按钮的倒计时 还包括排行榜 还包括为用户提供的可能性按钮旁边的用户名    由   提交/u/cicada4194  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18apv41/what_programmer_do_i_need_for_something_like_this/</guid>
-      <pubDate>Mon, 04 Dec 2023 17:56:33 GMT</pubDate>
+      <title>推荐一种编程语言</title>
+      <link>https://www.reddit.com/r/webdev/comments/18av0hr/recommend_a_programming_langauge/</link>
+      <description><![CDATA[我正在寻求除 JavaScript 和 Python 之外的编程语言的推荐。我关注的是一种具有较高学习曲线、适用于各种用例并提供强大职业机会（尤其是在开发方面）的语言。 目前，我受聘为 IT 支持分析师，并担任 IT 支持分析师。热衷于转向编程。虽然我没有开发经验，但我在学生时代对 Java 有了一些了解，在企业培训中对 Python 有了一些了解。 而且我总体上了解编程语言的哲学方面，它们只是实现业务的工具结果或解决问题。   由   提交 /u/t7Saitama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18av0hr/recommend_a_programming_langauge/</guid>
+      <pubDate>Mon, 04 Dec 2023 21:35:48 GMT</pubDate>
     </item>
     <item>
-      <title>NextJS 和 Sanity CMS，还是其他什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18aptpe/nextjs_and_sanity_cms_or_something_else/</link>
-      <description><![CDATA[嗨！我想建立一些商业网站+博客。 公司目前正在使用Wordpress，但它很混乱而且已经过时了。我考虑在 NextJS 之上使用 Sanity 构建干净的 CMS。有人使用过这个组合吗？ 在这个项目中，所有跟踪脚本（跟踪像素、谷歌分析、谷歌标签管理器等）都非常重要，NextJS 与它们配合得很好吗？ 也许您对适合此用例但不是 Wordpress 的不同技术有任何其他良好的经验？   由   提交 /u/ciapsss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18aptpe/nextjs_and_sanity_cms_or_something_else/</guid>
-      <pubDate>Mon, 04 Dec 2023 17:54:50 GMT</pubDate>
+      <title>关于服务器发送事件的混淆</title>
+      <link>https://www.reddit.com/r/webdev/comments/18auyxw/confusion_about_serversent_events/</link>
+      <description><![CDATA[所以我最近了解了服务器发送事件并想在node/express中实现它们。但很难找到有关如何正确执行此操作的资源，无论我找到什么，都给我留下了更多问题。 这是其中之一。您能否从同一端点获取 HTML 并侦听服务器发送的事件？或者您是否必须创建不同的端点来广播有关评论/博客中的新更改的信息？ 是否有任何好的指南可以了解更多相关信息？   由   提交/u/Left-Study-1519   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18auyxw/confusion_about_serversent_events/</guid>
+      <pubDate>Mon, 04 Dec 2023 21:33:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
