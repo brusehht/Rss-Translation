@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 Dec 2023 15:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 18:15:49 GMT</lastBuildDate>
+    <item>
+      <title>具有拖放集成的开源 IPaaS</title>
+      <link>https://www.reddit.com/r/opensource/comments/18c88jx/open_source_ipaas_with_drag_and_drop_integration/</link>
+      <description><![CDATA[我刚刚测试了 GCP 的应用程序集成，我想知道是否有任何自托管的开源替代方案，基本上如果您有 2 到 3 个 API并且需要连接，您可以使用该工具来集成它们。有什么见解吗？   由   提交/u/Popular-Soup-1406  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18c88jx/open_source_ipaas_with_drag_and_drop_integration/</guid>
+      <pubDate>Wed, 06 Dec 2023 16:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>简单的 Telegram 清单机器人</title>
       <link>https://www.reddit.com/r/opensource/comments/18c1wsi/simple_telegram_checklist_bot/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/asteriskall  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18b2dc8/i_am_working_on_a_vectorbased_programming_language/</guid>
       <pubDate>Tue, 05 Dec 2023 03:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果比尔盖茨和整个董事会在1996年6月顿悟，决定在GPL v2许可证下开源Windows 95和NT，世界会发生什么？ Windows将如何继续发展，Linux将如何发展？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18aw34m/if_bill_gates_together_with_the_entire_board_of/</link>
-      <description><![CDATA[ 由   提交/u/dorofeus247  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18aw34m/if_bill_gates_together_with_the_entire_board_of/</guid>
-      <pubDate>Mon, 04 Dec 2023 22:21:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
