@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 Dec 2023 08:40:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 09:12:39 GMT</lastBuildDate>
+    <item>
+      <title>如何专注于Web开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18bzqbn/how_to_specialize_in_web_development/</link>
+      <description><![CDATA[大家好！ 我很快就会完成前端开发大学课程。我们已经讨论了 html、css Javascript、bootstrap、jquery、sass、WordPress、php 等主题。现在我知道刚开始涉足这一领域时很难找到工作，所以我的问题是有哪些在这个领域进一步深入研究的领域可以帮助像我这样的人脱颖而出并变得更有就业能力。我想到的是 React js、Python 等。但我真的对此了解不多，所以对于那些有更多信息的人，我们非常感谢任何建议！我基本上希望通过在我的武器库中添加某些需求主题/专业领域来从庞大的网络开发人员中脱颖而出。谢谢！   由   提交 /u/Used_Hovercraft9634   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18bzqbn/how_to_specialize_in_web_development/</guid>
+      <pubDate>Wed, 06 Dec 2023 08:43:46 GMT</pubDate>
+    </item>
     <item>
       <title>需要有关 github 秘密的帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/18bzmhs/help_needed_with_github_secrets/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>有没有一种方法可以自动查找 NodeJS 依赖项的所有类型定义（来自 DefinelyTyped）？我应该总是安装它们吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/18byink/is_there_a_way_to_automatically_find_all_type/</link>
-      <description><![CDATA[这里是新手。我有一个用 Vite 创建的 React 项目。  我注意到我只安装了两个类型定义开发依赖项：@types/react 和 @types/react-dom。  经过一番搜索，我找到了一些依赖项的DefinitelyTyped定义（特别是@types/hcaptcha__react-hcaptcha、@types/react-transition-group ，）。  我的问题：  有没有办法自动查找我的 NodeJS 依赖项的所有 DefinelyTyped 定义库？ 它安全/一个好的做法吗？安装我可以为我的依赖项找到的所有（未弃用的）DefinitelyTyped 定义？    由   提交 /u/regunakyle   [链接] [评论]]]></description>
+      <description><![CDATA[这里是新手。我有一个用 Vite 创建的 React 项目。  我注意到我只安装了两个类型定义开发依赖项：@types/react 和 @types/react-dom。  经过一番搜索，我找到了一些依赖项的DefinitelyTyped定义（特别是@types/hcaptcha__react-hcaptcha、@types/react-transition-group ，）。  我的问题：  有没有办法自动查找我的 NodeJS 依赖项的所有 DefinelyTyped 定义库？ 安全/良好的做法吗？安装我可以为我的依赖项找到的所有（未弃用的）DefinitelyTyped 定义？    由   提交 /u/regunakyle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18byink/is_there_a_way_to_automatically_find_all_type/</guid>
       <pubDate>Wed, 06 Dec 2023 07:13:44 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>介绍 StyleX - Meta 使用的样式系统</title>
       <link>https://www.reddit.com/r/webdev/comments/18brti1/introducing_stylex_the_styling_system_used_by_meta/</link>
-      <description><![CDATA[ 由   提交 /u/philnash   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/philnash  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18brti1/introducing_stylex_the_styling_system_used_by_meta/</guid>
       <pubDate>Wed, 06 Dec 2023 01:03:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[对于要获取的大量数据，是发出单个获取请求，将数据存储在状态中，然后运行过滤器，还是获取更好每次用户应用新过滤器时后端的数据和过滤器？   由   提交/u/Intelligent_Will_948   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18brk1z/filtering_on_backend_vs_frontend/</guid>
       <pubDate>Wed, 06 Dec 2023 00:50:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法在 Object.useEffect 和 QueryClientProvider 处读取 null 属性（读取“useEffect”）</title>
-      <link>https://www.reddit.com/r/webdev/comments/18bqkq7/cannot_read_properties_of_null_reading_useeffect/</link>
-      <description><![CDATA[我尝试使用 React 查询更快地从数据库中获取网站主页的数据。我查阅了许多有关反应查询的教程，但是当我启动网站时，它是空白的，并且在控制台中出现以下错误： react.development.js:1634 Uncaught TypeError: Cannot read null 属性（读取“useEffect”）在 Object.useEffect (react.development.js:1634:1) 在 QueryClientProvider (QueryClientProvider.js:36:1) 在 renderWithHooks (react-dom.development.js:16305:1)在 mountInstituteateComponent (react-dom.development.js:20074:1) 在 beginWork (react-dom.development.js:21587:1) 在 beginWork$1 (react-dom.development.js:27426:1) 在 PerformUnitOfWork (react -dom.development.js:26557:1) 在workLoopSync (react-dom.development.js:26466:1) 在renderRootSync (react-dom.development.js:26434:1) 在recoverFromConcurrentError (react-dom.development. js:25850:1)  这些是我的依赖项： “react-query”：“^3.39.3” &quot;@tanstack/react-query&quot;: &quot;^5.12.2&quot;,  这是 Home.js （主页），我尝试使用 React 查询从API 从 &#39;react&#39; 导入 React, {Fragment, useEffect, useState, useQuery};从&#39;../requestProcessor&#39;导入{UseRequestProcessor}；从 &#39;./Header&#39; 导入标头；从 &#39;./ItemDetails&#39; 导入 ItemDetails 从 &#39;axios&#39; 导入 axios 导出 const Home = () =&gt; { //const fetchedData = useQuery(key, PromiseBasedFn); const { 查询} = UseRequestProcessor(); /* const { data, isLoading, isError, data, error, refetch } = useQuery([&quot;repo&quot;], () =&gt; axios .get(&quot;http://localhost:5003/getItems&quot;) .then ((res) =&gt; res.data) ); */ const { data: items, isLoading, isError, error, refetch } = Query(&#39;items&#39;, () =&gt; axios .get(&quot;http://localhost:5003/getItems&quot;) .then((res ) =&gt; res.data), { 启用: true } ); if (isLoading) 返回“正在加载...”； if (error) return “发生错误：” + 错误消息； console.log(items) return ( &lt;&gt;   {items &amp;&amp; items.map((item) =&gt; ( ))}  ); };  这是 Index.js 从 &#39;react&#39; 导入 React, {Fragment, useEffect, useState, useQuery};从&#39;../requestProcessor&#39;导入{UseRequestProcessor}；从 &#39;./Header&#39; 导入标头；从 &#39;./ItemDetails&#39; 导入 ItemDetails 从 &#39;axios&#39; 导入 axios 导出 const Home = () =&gt; { //const fetchedData = useQuery(key, PromiseBasedFn); const { 查询} = UseRequestProcessor(); /* const { data, isLoading, isError, data, error, refetch } = useQuery([&quot;repo&quot;], () =&gt; axios .get(&quot;http://localhost:5003/getItems&quot;) .then ((res) =&gt; res.data) ); */ const { data: items, isLoading, isError, error, refetch } = Query(&#39;items&#39;, () =&gt; axios .get(&quot;http://localhost:5003/getItems&quot;) .then((res ) =&gt; res.data), { 启用: true } ); if (isLoading) 返回“正在加载...”； if (error) return “发生错误：” + 错误消息； console.log(items) return ( &lt;&gt;   {items &amp;&amp; items.map((item) =&gt; ( ))}  ); };  欢迎任何见解。非常感谢！   由   提交/u/Willing_Teaching_526   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18bqkq7/cannot_read_properties_of_null_reading_useeffect/</guid>
-      <pubDate>Wed, 06 Dec 2023 00:03:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

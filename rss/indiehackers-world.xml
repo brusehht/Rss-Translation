@@ -4,7 +4,29 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 06 Dec 2023 08:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 09:13:16 GMT</lastBuildDate>
+    <item>
+      <title>如何有效监管微服务？</title>
+      <link>https://feed.indiehackers.world/post/d080012a25</link>
+      <description><![CDATA[
+使您的监控与您的组织结构保持一致
+在较大的组织中，不同的团队通常处理不同的微服务。每个团队可能拥有特定微服务或服务集群的所有权。因此，制定反映您的组织结构的监控策略。实施基于角色的访问控制，使每个团队能够监控自己的服务并对其进行故障排除，而不会影响其他团队。
+
+探索微服务架构的内部工作原理
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d080012a25</guid>
+      <pubDate>Wed, 06 Dec 2023 09:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Twitter 上找到合适的影响者与您的 SaaS 项目合作？</title>
+      <link>https://feed.indiehackers.world/post/857bb6f5da</link>
+      <description><![CDATA[我制作了一个用于市场研究的 saas 工具。主要受众是独立制作人、营销人员和记者。
+目前增长缓慢，因此我想与 Twitter 上的影响者合作来推荐我的产品。但我不知道如何有效地找到它们。
+你有什么建议吗？预先感谢您！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/857bb6f5da</guid>
+      <pubDate>Wed, 06 Dec 2023 08:55:59 GMT</pubDate>
+    </item>
     <item>
       <title>SaaS 定价模型过于复杂。是还是不是？</title>
       <link>https://feed.indiehackers.world/post/cf2a832056</link>
@@ -134,25 +156,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1de3faf1df</guid>
       <pubDate>Tue, 05 Dec 2023 21:17:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握电子邮件验证 - 像专业人士一样验证电子邮件的 5 种方法</title>
-      <link>https://feed.indiehackers.world/post/5fb467cf64</link>
-      <description><![CDATA[结论
-对于依赖电子邮件营销的企业来说，强大的验证工具至关重要。准确的列表可维护发件人声誉、确保成功投递并防范。要了解 2023 年顶级电子邮件营销工具，请阅读我们的最新文章。使用重新定义电子邮件成功的工具取得进步！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5fb467cf64</guid>
-      <pubDate>Tue, 05 Dec 2023 20:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>一起养成日常习惯</title>
-      <link>https://feed.indiehackers.world/post/92e4f56387</link>
-      <description><![CDATA[我们计划在 12 月 11 日开始下一次跑步。目前我们重点关注三个习惯（读书、活动身体以及为职业生涯学习。）10 分钟（一个月中的大部分日子）是我们的目标是什么。如果您想加入我们，请点击以下链接 - https://habit-circle.super.site/
-我很乐意倾听您的故事、想法和建议。
-谢谢。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/92e4f56387</guid>
-      <pubDate>Tue, 05 Dec 2023 20:13:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
