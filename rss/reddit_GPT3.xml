@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 06 Dec 2023 12:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 15:12:30 GMT</lastBuildDate>
+    <item>
+      <title>如何在GPT模型中使用一些输入+其他内部数据？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/18c37a4/how_to_use_some_input_other_internal_data_in_gpt/</link>
+      <description><![CDATA[嗨，我想构建一个需要一些“描述”的应用程序。作为输入，并使用一些法学硕士+添加一些“额外”的内容带有报告的文件（私有文件），以便能够调整第一个初始描述。 我们如何才能做到这一点，结合初始输入（和应该涵盖完全相同的想法的输出，但使用这些报告还有详细信息）。  谢谢   由   提交 /u/devwander1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/18c37a4/how_to_use_some_input_other_internal_data_in_gpt/</guid>
+      <pubDate>Wed, 06 Dec 2023 12:45:41 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 课程</title>
       <link>https://www.reddit.com/r/GPT3/comments/18bxwjm/chatgpt_for_classes/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>如何格式化我的 AB 测试数据以进行微调工作？</title>
       <link>https://www.reddit.com/r/GPT3/comments/187l2v9/how_to_format_my_ab_testing_data_for_my_finetune/</link>
-      <description><![CDATA[大家好 背景信息：我有一个数据集，其中包含有关 YouTube 视频标题的内部测试数据。基本上，我为一个新视频创建两个标题，使用第一个标题 3 天，使用第二个标题 3 天，然后选择点击率更高的标题作为最终标题。 我收集的数据此测试的 csv 文件结构如下： 标题 1 |标题 1 点击率 |标题 2 | Title 2 CTR 这些天，我正在使用 GPT-4 Api 生成新的视频标题，其中我输入了视频的一些初始脚本以及提示中测试数据的大约 500 行。但说实话，它并没有真正关注数据，只是输出通用的标题诱饵。 我已经考虑了很长时间来根据我的测试数据微调 gpt。之前我的数据太少，但现在我有大约 1000 个样本，这已经足够了。 但我不知道应该如何准确地构建我的数据。想出这个： 提示|目标点击率 “‘x’或‘y’哪个标题更好” ：YZ 但这只是预测哪个标题更好，我的设置有点不同。 有关于我应该如何解决这个问题的线索吗？谢谢:)   由   提交/u/_Despaired_  [链接] [评论]]]></description>
+      <description><![CDATA[大家好 背景信息：我有一个数据集，其中包含有关 YouTube 视频标题的内部测试数据。基本上，我为一个新视频创建两个标题，使用第一个标题 3 天，使用第二个标题 3 天，然后选择点击率更高的标题作为最终标题。 我收集的数据此测试的 csv 文件结构如下： 标题 1 |标题 1 点击率 |标题 2 | Title 2 CTR 这些天，我正在使用 GPT-4 Api 生成新的视频标题，其中我输入了视频的一些初始脚本以及提示中测试数据的大约 500 行。但说实话，它并没有真正关注数据，只是输出通用的标题诱饵。 我已经考虑了很长时间来根据我的测试数据微调 gpt。之前我的数据太少，但现在我有大约 1000 个样本，这已经足够了。 但我不知道应该如何准确地构建我的数据。想出了这个： 提示|目标点击率 “‘x’或‘y’哪个标题更好” ：YZ 但这只是预测哪个标题更好，我的设置有点不同。 有关于我应该如何解决这个问题的线索吗？谢谢:)   由   提交/u/_Despaired_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/187l2v9/how_to_format_my_ab_testing_data_for_my_finetune/</guid>
       <pubDate>Thu, 30 Nov 2023 15:24:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/0xneal  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1853ob2/ai_agent_gpts_security_risks_and_practical/</guid>
       <pubDate>Mon, 27 Nov 2023 14:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何验证数学和学术答案？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1834r54/how_to_verify_maths_and_academic_answers/</link>
-      <description><![CDATA[我正在构建一个聊天机器人来帮助朋友和我自己学习数学、物理和化学。我们都知道 GPT4 有时会提供错误的答案。我一直在尝试使用 Wolfram 来验证输出，但到目前为止它只达到了 60% 左右的准确率。有没有更好的方法可以从LLM获得准确的答案？   由   提交 /u/SimpleAiKin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1834r54/how_to_verify_maths_and_academic_answers/</guid>
-      <pubDate>Fri, 24 Nov 2023 23:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

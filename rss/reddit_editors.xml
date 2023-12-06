@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 06 Dec 2023 12:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 15:12:58 GMT</lastBuildDate>
     <item>
       <title>大家都是怎么做远程共享存储的呢？</title>
       <link>https://www.reddit.com/r/editors/comments/18bwill/how_is_everyone_doing_remote_shared_storage/</link>
-      <description><![CDATA[目前正在开发一个项目，我和另一位编辑将工作分成两部分以加快进程，但我们在重新链接时遇到了一些障碍由于存在一些文件命名不匹配，一旦他们发送了一半的镜头。我们已经对它们进行了补救（理论上），但明显的解决方案就是从一开始就解决镜像/共享存储。 问题是我们不是本地的，所以我们为此需要某种同步解决方案。现在大家都用什么东西呢？我个人使用 Syncthing 在我的设备之间同步较小的文件，但不确定可以扩展到多大。 简单的 Google Drive 或 Dropbox 本地镜像可以吗？或者还有其他一些服务可以更好地实现这一目的吗？   由   提交 /u/Aurram   [链接] [评论]]]></description>
+      <description><![CDATA[目前正在开发一个项目，我和另一位编辑将工作分成两部分以加快进程，但我们在重新链接项目时遇到了一些障碍由于存在一些文件命名不匹配，一旦他们发送了一半的镜头。我们已经对它们进行了补救（理论上），但明显的解决方案就是从一开始就解决镜像/共享存储。 问题是我们不是本地的，所以我们为此需要某种同步解决方案。现在大家都用什么做这个？我个人使用 Syncthing 在我的设备之间同步较小的文件，但不确定可以扩展到多大。 简单的 Google Drive 或 Dropbox 本地镜像可以吗？或者还有其他一些服务可以更好地实现这一目的吗？   由   提交 /u/Aurram   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18bwill/how_is_everyone_doing_remote_shared_storage/</guid>
       <pubDate>Wed, 06 Dec 2023 05:06:44 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>3D 相机跟踪器不工作</title>
       <link>https://www.reddit.com/r/editors/comments/18bufth/3d_camera_tracker_not_working/</link>
-      <description><![CDATA[快速提问，以防有人知道发生了什么。我已经少量使用 After Effects 几年了。我已经做过很多次 3D 相机跟踪器了。我刚买了一台新电脑，由于某种原因，这种效果开始处理帧，然后中途停止。根据剪辑的不同，它会在不同的点停止，通常在 5% - 40% 之间。我在网上找不到任何关于它不起作用的原因的信息。有什么想法吗？After Effects 版本：24.0.3计算机规格：M3 Max Macbook Pro16/40128GB Ram  素材主要是 DJI 4K MOV 素材。   由   提交 /u/morgansteinagel   [链接] [评论]]]></description>
+      <description><![CDATA[快速提问，以防有人知道发生了什么。我已经少量使用 After Effects 几年了。我已经做过很多次 3D 相机跟踪器了。我刚买了一台新电脑，由于某种原因，这种效果开始处理帧，然后中途停止。根据剪辑的不同，它会在不同的点停止，通常在 5% - 40% 之间。我在网上找不到任何关于它不起作用的原因的信息。有什么想法吗？After Effects 版本：24.0.3计算机规格：M3 Max Macbook Pro16/40128GB RAM  素材主要是 DJI 4K MOV 素材。   由   提交 /u/morgansteinagel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18bufth/3d_camera_tracker_not_working/</guid>
       <pubDate>Wed, 06 Dec 2023 03:14:50 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>存储解决方案</title>
       <link>https://www.reddit.com/r/editors/comments/18bm2xx/storage_solution/</link>
-      <description><![CDATA[我有 2 个 Thunderbay（每个 4 个驱动器）在 raid5 上进行 RAID。 raid5 后两者均为 24TB。我使用一个作为另一个的镜像备份。这可能有些过头了，但如果一个驱动器出现故障，我无法承受重建驱动器的停机时间。坚如磐石的设置。我的备份有备份。  我现在的问题是我需要更多的存储空间，但我没有多少钱。这是我的疯狂想法... 我购买 4-12TB 内部驱动器，并在其中一个 Thunderbay 上对它们进行 Raid 5...这将使我在该 Thunderbay 上的存储空间增加到 36TB。然后购买一个二手机箱，将我从旧 Thunderbay 中取出的 8tb 驱动器放入其中，并尝试将其与我的另一个 Thunderbay 一起进行 RAID 0。因此，本质上我将拥有一个 36TB 的 Thunder Bay RAID 5，以及 RAID 0 (64TB) 中的另外 2 个 ThunderBay，作为备份。整件事可能要花费我 1300 美元。它并不坚如磐石，但 RAID 5 Thunderbay 是它自己的备份，对吧？我知道这是一个创可贴，但我只是没有钱投资更大的存储解决方案。有什么建议吗？   由   提交 /u/Schmezmar   [链接] [评论]]]></description>
+      <description><![CDATA[我有 2 个 Thunderbay（每个 4 个驱动器）在 raid5 上进行 RAID。 raid5 后两者均为 24TB。我使用一个作为另一个的镜像备份。这可能有些过头了，但如果一个驱动器出现故障，我无法承受重建驱动器的停机时间。坚如磐石的设置。我的备份有备份。  我现在的问题是我需要更多的存储空间，但我没有多少钱。这是我的疯狂想法… 我购买 4-12TB 内部驱动器，并在其中一个 Thunderbay 上对它们进行 Raid 5…这将使我在该 Thunderbay 上的存储空间增加到 36TB。然后购买一个二手机箱，将我从旧 Thunderbay 中取出的 8tb 驱动器放入其中，并尝试将其与我的另一个 Thunderbay 一起进行 RAID 0。因此，本质上我将拥有一个 36TB 的 Thunder Bay RAID 5，以及 RAID 0 (64TB) 中的另外 2 个 ThunderBay，作为备份。整件事可能要花费我 1300 美元。它并不坚如磐石，但 RAID 5 Thunderbay 是它自己的备份，对吗？我知道这是一个创可贴，但我只是没有钱投资更大的存储解决方案。有什么建议吗？   由   提交 /u/Schmezmar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18bm2xx/storage_solution/</guid>
       <pubDate>Tue, 05 Dec 2023 20:54:40 GMT</pubDate>
     </item>
