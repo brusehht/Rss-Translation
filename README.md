@@ -39,3 +39,5 @@
  - source026 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
  - source027 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
  - source028 [https://rss.bruse.top:1111/rss/guardian.xml](https://rss.bruse.top:1111/rss/guardian.xml) -> [the-guardian](rss/the-guardian.xml)
+ - source029 [https://rss.bruse.top:1111/rss/newyorker.xml](https://rss.bruse.top:1111/rss/newyorker.xml) -> [the-new-yorker](rss/the-new-yorker.xml)
+ - source030 [https://rss.bruse.top:1111/rss/hbr.xml](https://rss.bruse.top:1111/rss/hbr.xml) -> [harvard-business-review](rss/harvard-business-review.xml)
