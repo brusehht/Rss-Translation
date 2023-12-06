@@ -41,3 +41,6 @@
  - source028 [https://rss.bruse.top:1111/rss/guardian.xml](https://rss.bruse.top:1111/rss/guardian.xml) -> [the-guardian](rss/the-guardian.xml)
  - source029 [https://rss.bruse.top:1111/rss/newyorker.xml](https://rss.bruse.top:1111/rss/newyorker.xml) -> [the-new-yorker](rss/the-new-yorker.xml)
  - source030 [https://rss.bruse.top:1111/rss/hbr.xml](https://rss.bruse.top:1111/rss/hbr.xml) -> [harvard-business-review](rss/harvard-business-review.xml)
+ - source031 [https://rss.bruse.top:1111/rss/washingtonpost.xml](https://rss.bruse.top:1111/rss/washingtonpost.xml) -> [washingtonpost-post](rss/washingtonpost-post.xml)
+ - source032 [https://rss.bruse.top:1111/rss/economistp.xml](https://rss.bruse.top:1111/rss/economistp.xml) -> [economist-print](rss/economist-print.xml)
+ - source033 [https://rss.bruse.top:1111/rss/scmp.xml](https://rss.bruse.top:1111/rss/scmp.xml) -> [scmp](rss/scmp.xml)
