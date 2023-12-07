@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 07 Dec 2023 00:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 05:19:01 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Android AICore 是一项新的系统服务，允许访问预装的 AI 资源 [...]</title>
-      <link>https://t.me/hn_summary/62635</link>
-      <description><![CDATA[Android AICore
-Android AICore 是一项新的系统服务，允许访问 Android 设备上预装的 AI 基础模型。它专门支持访问 Google 的高级基础模型 Gemini Nano。 AICore 目前仅在 Pixel 8 Pro 设备上可用，并且作为开发者早期访问预览的一部分提供。使用 AICore 的好处包括易于部署和访问硬件加速，从而提高性能。 AICore 目前支持 Gemini Nano 的文本模式，但设备和模式支持是积极投资的领域。 Pixel Voice Recorder 和 Gboard 等多种 Google 产品已使用 AICore 来实现设备上的 AI 功能。]]></description>
-      <guid>https://t.me/hn_summary/62635</guid>
-      <pubDate>Thu, 07 Dec 2023 00:35:02 GMT</pubDate>
+      <title>C流行度对比</title>
+      <link>https://t.me/hn_summary/62684</link>
+      <description><![CDATA[关于 C 流行度与 Python、stdlib 的大小、包管理器语言
+作者反思了编程语言的演变和包管理器的作用。他们讨论了 C 如何拥有一个最小的标准库，要求程序员编写自己的函数，而 Perl 则引入了代码共享和一个称为 CPAN 的原始包管理器。随后，Python 以“自带电池”的方式出现，提供了广泛的预构建功能。作者指出了依赖包和包管理器带来的挑战和漏洞，导致人们重新考虑它们的价值。他们还提到了代码生成器的出现，它允许程序员从头开始编写代码，而不依赖于库。作者认为，C 语言凭借其可移植性、无需代码审计且易于部署，在这种情况下可能会变得更具吸引力。]]></description>
+      <guid>https://t.me/hn_summary/62684</guid>
+      <pubDate>Thu, 07 Dec 2023 05:19:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]据彭博社报道，苹果的 iMessage 将不符合欧盟新的“数字马 [...]</title>
-      <link>https://t.me/hn_summary/62634</link>
-      <description><![CDATA[据报道，iMessage 不符合欧盟“看门人”法律的资格
-据彭博社报道，苹果的 iMessage 将不符合欧盟新《数字市场法案》的资格，从而使苹果能够保持对苹果用户的排他性。该法案旨在监管大型科技公司的“看门人”，并执行互操作性、公平性和隐私规则。虽然 iMessage 符合每月 4500 万欧盟活跃用户的流行度指标，但它并未包含在该法案的列表中。这意味着 iMessage 不会被迫允许与其他服务的互操作性。争议在于 iMessage 兼容性一直是一个热门话题，一些公司试图侵入该协议以获取蓝色气泡的访问权限。苹果做出了一些让步，例如承诺将非 iMessage 消息转移到 RCS，但气泡的颜色仍然是一个问题。]]></description>
-      <guid>https://t.me/hn_summary/62634</guid>
-      <pubDate>Thu, 07 Dec 2023 00:31:52 GMT</pubDate>
+      <title>Web 内容讨论了 Syncthing 中用于保护不受信任的数据的加密方法 [...]</title>
+      <link>https://t.me/hn_summary/62683</link>
+      <description><![CDATA[Syncthing：不受信任的设备加密
+Web 内容讨论了 Syncthing 中用于保护不受信任设备上的数据的加密方法。主要目标是确保不受信任的设备无法观察文件数据、文件名、修改时间、权限或修改历史记录。内容解释了加密过程，包括生成文件夹和文件密钥、文件名和块哈希加密以及使用 XChaCha20-Poly1305 加密数据块。它还提到了最后一个数据块的填充的使用以及加密设备在不知道密码本身的情况下验证密码一致性的能力。内容最后解释了在不可信设备上请求和解密数据块的过程。]]></description>
+      <guid>https://t.me/hn_summary/62683</guid>
+      <pubDate>Thu, 07 Dec 2023 05:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>剑桥大学的研究人员通过观察 m [...]</title>
-      <link>https://t.me/hn_summary/62633</link>
-      <description><![CDATA[研究人员发现磁单极子
-剑桥大学的研究人员通过观察赤铁矿（一种氧化铁）中的磁单极子取得了突破性的发现。利用金刚石量子传感，研究人员能够观察到材料表面的旋转纹理和微弱的磁信号。这是第一次通过实验观察到自然发生的单极子。研究还揭示了旋转纹理与赤铁矿等材料的磁荷之间的直接联系。这些发现可能对下一代逻辑和存储器应用产生影响。该研究发表在《自然材料》杂志上。]]></description>
-      <guid>https://t.me/hn_summary/62633</guid>
-      <pubDate>Thu, 07 Dec 2023 00:22:40 GMT</pubDate>
+      <title>Leopard 是一款创新工具，允许用户将 Scratch 项目转换为 JavaScript。</title>
+      <link>https://t.me/hn_summary/62682</link>
+      <description><![CDATA[显示 HN：Leopard – 将 Scratch 项目转换为 JavaScript 
+Leopard 是一款创新工具，允许用户将 Scratch 项目转换为 JavaScript。这意味着通常使用可视化编程语言创建的 Scratch 项目现在可以转换为 JavaScript 代码，从而开辟了一个全新的可能性世界。借助 Leopard，用户可以轻松地将他们的 Scratch 项目转变为 Web 应用程序或交互式网站。该工具对于开发人员和教育工作者来说是一个游戏规则改变者，因为它弥合了可视化编程和传统编码语言之间的差距。 Leopard 背后的团队感谢为使该项目成为现实所做的贡献。]]></description>
+      <guid>https://t.me/hn_summary/62682</guid>
+      <pubDate>Thu, 07 Dec 2023 05:08:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Merlin Bird ID 应用程序引入了一项名为 Sound ID 的新功能，该功能允许用户 [...]</title>
-      <link>https://t.me/hn_summary/62632</link>
-      <description><![CDATA[Merlin Sound ID – 使用手机识别鸟类（工作原理） 
-Merlin Bird ID 应用程序引入了一项名为 Sound ID 的新功能，允许用户使用手机识别鸟类。该应用程序使用机器学习和声音识别技术来分析录音并实时预测哪些鸟类正在唱歌。目前，该应用程序可以根据声音识别美国和加拿大的 458 种鸟类。 Sound ID 在用户设备上运行，无需网络连接。该应用程序已使用深度卷积神经网络和带注释的音频剪辑数据库进行了训练。通过反馈和调整，模型的性能不断提高。在训练数据中使用时间细粒度标签有助于提高准确性。该文章提到了与鸟类声音识别相关的其他项目和竞赛，并强调了为音频数据生成精确时间注释的劳动密集型过程。文章还提到，未来的文章将探讨构建模型时所做的设计决策，并讨论声音 ID 工具的未来发展。]]></description>
-      <guid>https://t.me/hn_summary/62632</guid>
-      <pubDate>Thu, 07 Dec 2023 00:17:27 GMT</pubDate>
+      <title>美国政府调查人员一直在使用来自 smar 的推送通知数据 [...]</title>
+      <link>https://t.me/hn_summary/62681</link>
+      <description><![CDATA[联邦政府正在使用推送通知中的数据来跟踪联系人
+参议员罗恩·怀登 (Ron Wyden) 表示，美国政府调查人员一直在使用智能手机的推送通知数据来追踪感兴趣的人。该技术涉及从朋友通过电子邮件或短信联系用户时收到的警报中收集信息。苹果和谷歌创建了一小部分数据，称为令牌，将设备链接到用户的帐户信息。这些令牌数据可以揭示有关一个人的通信历史记录的详细信息，包括他们与谁联系过以及消息内容。怀登呼吁司法部改变其规则，允许苹果和谷歌讨论这项技术。这些公司表示，他们正在更新透明度报告，以包含有关这些请求的信息。]]></description>
+      <guid>https://t.me/hn_summary/62681</guid>
+      <pubDate>Thu, 07 Dec 2023 05:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>Biff 是一个用于在 Clojure 中构建整体、全栈 Web 应用程序的框架。</title>
-      <link>https://t.me/hn_summary/62631</link>
-      <description><![CDATA[Biff 的哲学
-Biff 是一个用于在 Clojure 中构建整体、全栈 Web 应用程序的框架。作者创建了 Biff，因为他们发现在构建 Clojure Web 应用程序时自己编写所有必要的库非常耗时。 Biff 专为独立开发人员设计，重点关注原型设计速度和随着应用程序增长的适应性。作者从框架中删除了实验性功能，只留下可靠的组件。 Biff 可以拆卸和定制，以满足个人需求。作者承认 Clojure 社区对框架的怀疑，但相信 Biff 在可重用性和简单性之间取得了平衡。该框架适用于独立开发人员，但也适用于小型团队。]]></description>
-      <guid>https://t.me/hn_summary/62631</guid>
-      <pubDate>Thu, 07 Dec 2023 00:14:15 GMT</pubDate>
+      <title>[媒体] 哈佛大学的一个研究团队与 QuEra 合作，做出了一项研究 [...]</title>
+      <link>https://t.me/hn_summary/62680</link>
+      <description><![CDATA[量子计算机用逻辑量子位执行防错运算 
+哈佛大学的一个研究团队与 QuEra 合作，展示了在多达 48 个逻辑量子位上执行多种操作的能力，在量子计算领域取得了重大突破。逻辑量子位是纠错量子位的一种形式，是开发实用量子计算机所必需的。 QuEra开发的系统可以准确识别错误并改善计算结果。 QuEra 的硬件使用中性原子，具有稳定的量子信息存储和利用激光寻址单个原子的能力等优点。这一里程碑使我们距离大规模、容错量子计算机的目标又近了一步。]]></description>
+      <guid>https://t.me/hn_summary/62680</guid>
+      <pubDate>Thu, 07 Dec 2023 05:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了 Claude 2.1 的性能，Claude 2.1 是一种最先进的模型，可提供 [...]</title>
-      <link>https://t.me/hn_summary/62630</link>
-      <description><![CDATA[人类克劳德的表现在很大程度上取决于提示风格
-网络内容讨论了 Claude 2.1 的性能，Claude 2.1 是 Anthropic 提供的最先进的模型。 Claude 2.1 具有 200K 令牌上下文窗口，使其能够擅长跨较长上下文的现实世界检索任务。然而，模型可能不愿意回答基于文档中单个句子的问题，特别是如果该句子被注入或不在适当的位置。内容重点介绍了最近的一项评估，该评估衡量了 Claude 2.1 回忆长文档中单个句子的能力。评估显示，Claude 2.1经常报告文档没有提供足够的上下文来回答问题，而不是检索嵌入的句子。然而，一个小的提示编辑可以消除这种不情愿并显着提高 Claude 2.1 的性能。通过指示模型首先寻找相关句子，提示克服了克劳德不愿根据单个句子回答的情况。这种方法还提高了 Claude 在上下文中单句答案的表现。]]></description>
-      <guid>https://t.me/hn_summary/62630</guid>
-      <pubDate>Wed, 06 Dec 2023 23:39:56 GMT</pubDate>
+      <title>本文探讨了尖峰神经网络中受大脑启发的有效修剪的概念。</title>
+      <link>https://t.me/hn_summary/62679</link>
+      <description><![CDATA[受大脑启发的高效修剪：尖峰神经网络的关键性
+本文探讨了尖峰神经网络中受大脑启发的有效修剪的概念。作者提出了一种新颖的修剪算法，该算法考虑了网络中神经元的重要性。通过识别和删除非关键神经元，网络可以显着降低计算复杂性和内存需求，同时保持高精度。该算法基于这样的观察：关键神经元往往具有更高的放电率和更强的连接。各种基准数据集上的实验结果证明了所提出的算法在不牺牲性能的情况下实现高效剪枝的有效性。这项研究为尖峰神经网络的设计和优化提供了宝贵的见解。]]></description>
+      <guid>https://t.me/hn_summary/62679</guid>
+      <pubDate>Thu, 07 Dec 2023 05:06:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英国广告监管机构广告标准局 (ASA) 已禁止 [...]</title>
-      <link>https://t.me/hn_summary/62629</link>
-      <description><![CDATA[英国禁止航空公司因“误导性”环境声明发布广告 
-英国广告监管机构广告标准局 (ASA) 已禁止汉莎航空、法航荷航和阿提哈德航空发布广告，因为它们对航空公司的环境影响造成了“误导性印象”。这些广告于 7 月份出现在谷歌上，声称有关可持续飞行和环保倡导。 ASA 裁定这些广告违反了广告规则，不得以当前形式再次出现。汉莎航空表示，其广告是由Google Ads制作的，未能解释“飞行更可持续”这一主张的依据。法航表示，该广告是由人工智能工具生成的，并已更改其参数以防止类似事件。阿提哈德航空在收到投诉通知后删除了该广告。这并不是 ASA 第一次因环境问题对航空公司做出不利于航空公司的裁决。 2020年，瑞安航空自称“排放量最低的航空公司”的广告也被认为具有误导性。]]></description>
-      <guid>https://t.me/hn_summary/62629</guid>
-      <pubDate>Wed, 06 Dec 2023 23:28:43 GMT</pubDate>
+      <title>[媒体]由于天气模式的变化和[...]，印度藏红花产业正面临挑战。</title>
+      <link>https://t.me/hn_summary/62678</link>
+      <description><![CDATA[“红金”：印度藏红花产量为何减少
+由于天气模式的变化和城市扩张，印度的藏红花产业面临着挑战。印控克什米尔地区的藏红花产量占印度藏红花产量的90%，该地区的藏红花产量受到降雨不稳定和气温升高的影响，导致田地减产。多年来，专门用于藏红花种植的土地面积也有所减少。为了解决这些问题，科学家们正在努力培育更耐寒的番红花植物，并为农民提供提高生产力的建议。此外，一些农民正在采用创新方法，例如在环境受控的容器中种植藏红花。然而，对于这些方法的有效性，人们的看法不一。]]></description>
+      <guid>https://t.me/hn_summary/62678</guid>
+      <pubDate>Thu, 07 Dec 2023 05:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 对辉瑞 (Pfizer) 提起诉讼，指责 PH [...]</title>
-      <link>https://t.me/hn_summary/62628</link>
-      <description><![CDATA[德克萨斯州以 Covid 反疫苗论点起诉辉瑞，这纯粹是愚蠢的&lt; /a&gt;
-德克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 对辉瑞 (Pfizer) 提起诉讼，指控该制药公司欺骗公众并歪曲其 COVID-19 疫苗的有效性。该诉讼还声称，辉瑞应对 2021 年疫情恶化负责。帕克斯顿的投诉包括各种反疫苗错误信息和未经证实的说法。该诉讼的核心论点之一是辉瑞应该使用绝对风险降低而不是相对风险降低来评估疫苗的有效性。这一论点已被专家揭穿，并被反疫苗倡导者普遍采用。该诉讼寻求 1000 万美元赔偿。]]></description>
-      <guid>https://t.me/hn_summary/62628</guid>
-      <pubDate>Wed, 06 Dec 2023 23:23:32 GMT</pubDate>
+      <title>[媒体]五角大楼希望根除假药。</title>
+      <link>https://t.me/hn_summary/62677</link>
+      <description><![CDATA[五角大楼希望根除劣质药品。 FDA 挡路
+负责向军队医院和作战部队运送药品的美国陆军军官维克多·苏亚雷斯上校收到了军事供应链药品质量的惊人检测结果。由于担心 FDA 监管印度和中国低成本制造商药品的能力，苏亚雷斯找到了一家独立实验室来评估药品质量。结果证实了他对向军队供应劣质药品的怀疑。这引发了人们对 FDA 在确保美国药品（尤其是来自海外的药品）安全性和有效性方面的作用的质疑。]]></description>
+      <guid>https://t.me/hn_summary/62677</guid>
+      <pubDate>Thu, 07 Dec 2023 05:04:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一个安全漏洞 CVE-2022-28958，之前包含在 CISA 的已知 [...]</title>
-      <link>https://t.me/hn_summary/62627</link>
-      <description><![CDATA[一年后，CISA 意识到已揭穿的漏洞是一个无用的漏洞，并将其删除来自必须补丁列表
-之前包含在 CISA 已知被利用漏洞目录中并由信誉良好的威胁报告识别的安全漏洞 CVE-2022-28958 已被揭穿并从列表中删除。该漏洞被认为是一个严重的远程代码执行缺陷，但发现对目标系统没有影响。 VulnCheck 首席技术官 Jacob Baines 在原始报告者提供的概念验证代码中发现了一个明显的错误，导致该漏洞无效。尽管如此，该漏洞还是说服了网络安全组织，甚至引起了攻击者的注意。该事件凸显了彻底漏洞验证的重要性以及错误报告漏洞的潜在后果。]]></description>
-      <guid>https://t.me/hn_summary/62627</guid>
-      <pubDate>Wed, 06 Dec 2023 23:21:24 GMT</pubDate>
+      <title>[媒体] 网页内容的作者介绍了在精益 4 中形式化证明的过程。</title>
+      <link>https://t.me/hn_summary/62676</link>
+      <description><![CDATA[稍长的 Lean 4 证明之旅
+网络内容的作者介绍了在精益 4 中形式化证明的过程。该证明涉及有关实数序列的引理。作者首先建立了一个人类可读的证明，然后在精益中将其形式化。然后，他们会经历声明变量、陈述假设并以精益形式写下结论的过程。作者使用精益中的各种策略，如“calc”和“congr”，一步步证明不等式。他们还利用 Lean 的 Mathlib 库中的现有引理。作者提供了证明中每个步骤的截图和解释。 （根据 83% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62676</guid>
+      <pubDate>Thu, 07 Dec 2023 05:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>宇宙是什么形状的？</title>
-      <link>https://t.me/hn_summary/62626</link>
-      <description><![CDATA[宇宙是什么形状？ （2021）
-宇宙的形状是宇宙学中非常重要的话题，因为它决定了宇宙的命运和性质。根据广义相对论，宇宙可以采取三种形式之一：平坦、封闭或开放。平坦的宇宙是最合理的情况，意味着它向各个方向膨胀，而不会正向或负向弯曲。封闭的宇宙是有限但无限的，类似于球体，而开放的宇宙则具有负曲率，类似于马鞍。宇宙的形状由其密度和膨胀率决定。虽然关于宇宙的形状存在一些争议，但大多数证据表明它是平坦的。然而，值得注意的是，我们的观测仅限于可观测的宇宙，因此可能还有更多的东西有待发现。]]></description>
-      <guid>https://t.me/hn_summary/62626</guid>
-      <pubDate>Wed, 06 Dec 2023 23:12:09 GMT</pubDate>
+      <title>[媒体]文章宣布Meta已开始升级Messen上的个人对话[...]</title>
+      <link>https://t.me/hn_summary/62675</link>
+      <description><![CDATA[为 Messenger 构建端到端安全性 – Meta 工程&lt; /a&gt;
+文章宣布，Meta 已开始升级 Messenger 上的个人对话，默认使用端到端加密 (E2EE)。目的是确保只有发件人和预期收件人才能访问邮件，并且邮件来自真实的发件人。在 Messenger 上启用 E2EE 的过程需要重建应用程序和协议的许多方面，同时保留流行的功能。本文还讨论了实施 E2EE 的目标和挑战，包括传输和存储的机密性、端点控制、私有功能设计、日志记录限制、应用程序安全、定义消息内容边界和第三方审查。 Meta 发布了两份白皮书，以提供其运营的透明度。文章提到 E2EE 目前正在针对群组消息和 Instagram 私信进行测试。]]></description>
+      <guid>https://t.me/hn_summary/62675</guid>
+      <pubDate>Thu, 07 Dec 2023 05:04:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
