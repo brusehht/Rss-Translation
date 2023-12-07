@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 07 Dec 2023 12:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 18:09:41 GMT</lastBuildDate>
     <item>
-      <title>[媒体]基因检测公司 23andMe 透露，近 700 万人患有 [...]</title>
-      <link>https://t.me/hn_summary/62701</link>
-      <description><![CDATA[23andme：700万个账户被黑
-基因检测公司 23andMe 透露，近 700 万人受到 10 月初发生的安全漏洞的影响。此次泄露使黑客能够获取客户的 DNA 血统信息和其他个人数据。最初，该公司报告有 14,000 人受到影响，但现在已证实真实人数为 690 万人。此外，大约 140 万人选择使用 23andMe 的 DNA 亲属功能，他们的家谱资料信息被访问。此次泄露可能是由于客户重复使用其他数据泄露事件中的密码造成的。据报道，泄露的数据在黑帽黑客论坛上出售。]]></description>
-      <guid>https://t.me/hn_summary/62701</guid>
-      <pubDate>Thu, 07 Dec 2023 12:08:22 GMT</pubDate>
+      <title>[媒体]作者讨论了在网页设计中使用嘈杂或颗粒纹理的设计趋势[...]</title>
+      <link>https://t.me/hn_summary/62764</link>
+      <description><![CDATA[制作嘈杂的 SVG
+作者讨论了在网页设计中使用噪声或颗粒纹理的设计趋势，并对缺乏使用 SVG 复制这些纹理的简单方法表示沮丧。他们解释说，SVG 可以进行优化和手动调整，并着手创建具有噪声、纹理阴影效果的 SVG。作者提供了代码示例，并解释了如何使用蒙版和滤镜向 SVG 添加渐变和纹理。他们还提到，生成的插图在不同的浏览器中可能呈现不同的效果。作者最后分享了完整演示的链接，并提到该方法可以通过实验进一步改进。]]></description>
+      <guid>https://t.me/hn_summary/62764</guid>
+      <pubDate>Thu, 07 Dec 2023 18:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇 Twitter 帖子中，作者警告用户了解 SQL 的重要性 [...]</title>
-      <link>https://t.me/hn_summary/62700</link>
-      <description><![CDATA[在 SQL 三值逻辑咬你之前先了解一下
-在这篇 Twitter 帖子中，作者警告用户了解 SQL 三值逻辑以避免潜在问题的重要性。他们强调需要启用 JavaScript 或切换到支持的浏览器才能继续使用 Twitter。虽然内容本身看起来并没有争议或令人惊讶，但它可以提醒用户注意 SQL 三值逻辑的潜在陷阱。]]></description>
-      <guid>https://t.me/hn_summary/62700</guid>
-      <pubDate>Thu, 07 Dec 2023 11:42:05 GMT</pubDate>
+      <title>[媒体] 作者回顾了编写第一个 HTML 文档 30 周年。</title>
+      <link>https://t.me/hn_summary/62763</link>
+      <description><![CDATA[HTML 的三个十年
+作者回顾了编写第一个 HTML 文档 30 周年。他们记得 1993 年在 Usenet 上标记了“不完整的神秘科学剧院 3000 集指南”。原始标记具有大写标签名称，并且没有正确关闭段落。作者使用“”作为“”的简写。他们在 CWRU 电影协会执行游说任务时使用借来的笔记本电脑和 HTML 规范的打印输出创建了该文档。后来所做的唯一视觉更改是在页面顶部和底部添加工具栏。作者还分享了他们与 Mystery Science Theater 3000 的创建者 Joel Hodgson 的一次愉快的对话，谈论了他们早期的 HTML 体验。]]></description>
+      <guid>https://t.me/hn_summary/62763</guid>
+      <pubDate>Thu, 07 Dec 2023 18:05:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了企业因过度招聘而进行裁员的问题 [...]</title>
-      <link>https://t.me/hn_summary/62699</link>
-      <description><![CDATA[公司激励裁员
-文章讨论了公司因过度招聘而进行裁员的问题，并且往往将责任归咎于公司领导。作者认为，领导者并不一定是罪魁祸首，因为他们依靠经验丰富的领导者团队来分析商机并做出投资决策。作者还强调了亚马逊等快速发展公司的激励措施，其中经理根据团队的成长获得晋升奖励。这可能会导致人们关注团队规模而不是交付或客户结果，从而在公司内部营造一种政治氛围。争议在于作者认为晋升主要取决于团队规模而不是能力。]]></description>
-      <guid>https://t.me/hn_summary/62699</guid>
-      <pubDate>Thu, 07 Dec 2023 11:36:57 GMT</pubDate>
+      <title>[媒体]在接受《技术评论》采访时，谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 讨论了这一影响 [...]</title>
+      <link>https://t.me/hn_summary/62762</link>
+      <description><![CDATA[Google 首席执行官 Sundar Pichai 谈 Gemini 和即将到来的人工智能时代
+在接受《技术评论》采访时，谷歌首席执行官桑达尔·皮查伊讨论了人工智能对就业和社会的影响。皮查伊认为，虽然人工智能可能会取代某些工作，但它也将创造新的机会，并通过腾出时间进行高阶思维，使现有工作变得更有意义。他强调社会需要对个人进行再培训和重新技能以适应这些变化。皮查伊还承认人工智能的双重性，认识到它可以为解决癌症和气候变化等复杂问题带来的潜在好处，但也强调需要框架来解决深度伪造和工作取代等问题。他承认人工智能周围的法律环境不稳定，并强调谷歌致力于在法律范围内开展工作并创建双赢的生态系统。皮查伊还谈到了对搜索未来及其对 Google 业务的潜在影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/62762</guid>
+      <pubDate>Thu, 07 Dec 2023 17:50:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Faeland 是一款冒险 RPG 游戏，背景设定在受 8 位经典启发的美丽世界中。</title>
-      <link>https://t.me/hn_summary/62698</link>
-      <description><![CDATA[仙境
-Faeland 是一款冒险 RPG 游戏，背景设定在受 8 位经典启发的美丽世界中。玩家扮演山姆，一个熟练的猎人，必须穿越森林、洞穴、地牢和城堡来解锁新的能力并探索隐藏的秘密。一路上，玩家会结交敌人和朋友，他们对武器的选择将影响他们的战斗速度和力量。该游戏拥有一个开放的世界，玩家可以自由探索、与 NPC 互动、了解游戏的背景知识并完成任务以获得有用的战利品。 Faeland 还拥有经典像素图形以及详细的动画和环境。]]></description>
-      <guid>https://t.me/hn_summary/62698</guid>
-      <pubDate>Thu, 07 Dec 2023 11:27:45 GMT</pubDate>
+      <title>GateLoop 是一种新颖的序列建模方法，它利用数据控制的线性递归。</title>
+      <link>https://t.me/hn_summary/62761</link>
+      <description><![CDATA[GateLoop：用于序列建模的数据控制线性递归 
+GateLoop 是一种新颖的序列建模方法，它利用数据控制的线性递归。该方法允许对顺序数据（例如自然语言或时间序列数据）进行高效且有效的建模。 GateLoop 引入了一种门控机制，通过循环连接控制信息流，使模型能够捕获数据中的长期依赖性。实验结果表明，GateLoop 在各种序列建模任务（包括语言建模和情感分析）上均优于现有最先进的模型。这种创新方法有可能极大提高序列模型的性能并推动自然语言处理领域的发展。]]></description>
+      <guid>https://t.me/hn_summary/62761</guid>
+      <pubDate>Thu, 07 Dec 2023 17:50:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]卡塔尔门档案，是警方对一起事件进行调查时泄露的文件的缓存 [...]</title>
-      <link>https://t.me/hn_summary/62697</link>
-      <description><![CDATA[卡塔尔门文件
-卡塔尔门档案是警方对欧洲议会腐败丑闻进行调查时泄露的一系列文件，揭示了以金钱换取影响力的活动的严重程度。这些文件显示，前欧洲议会议员皮尔·安东尼奥·潘泽里（Pier Antonio Panzeri）和他的助手弗朗切斯科·乔治（Francesco Giorgi）精心记录了代表卡塔尔、摩洛哥和毛里塔尼亚可疑金主操纵议会和更广泛政策辩论的企图。这些文件详细介绍了各种行动，包括废除谴责卡塔尔人权记录的决议以及确保卡塔尔与欧盟之间达成免签证旅行协议的努力。这些揭露引发了人们对议会阻止此类影响力行动的能力的质疑。]]></description>
-      <guid>https://t.me/hn_summary/62697</guid>
-      <pubDate>Thu, 07 Dec 2023 11:01:28 GMT</pubDate>
+      <title>[媒体]这篇文章探讨了自助餐背后的经济学。</title>
+      <link>https://t.me/hn_summary/62760</link>
+      <description><![CDATA[自助餐的经济性
+本文探讨了自助餐背后的经济学。它讨论了自助餐如何在微薄的利润下运营并依靠高客流量来维持业务。自助餐通过利用自助服务和大批量准备食物来最大限度地降低劳动力成本。他们还通过大量购买食物和重复利用剩菜来节省开支。自助餐采用各种策略让顾客少吃，例如将便宜且丰盛的食物放在自助餐队伍的前面，并使用较小的盘子。文章还提到，虽然偶尔的暴饮暴食可能会给自助餐带来损失，但他们会用食量不足和食量一般的人来弥补。近年来自助餐的衰落归因于送餐应用程序的兴起和消费者偏好的变化。]]></description>
+      <guid>https://t.me/hn_summary/62760</guid>
+      <pubDate>Thu, 07 Dec 2023 17:38:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文探讨了编程成瘾的概念以及编程如何影响大脑。</title>
-      <link>https://t.me/hn_summary/62696</link>
-      <description><![CDATA[编程成瘾：编程如何影响你的大脑
-本文探讨了编程成瘾的概念以及编程如何影响大脑。它解释说，计算机编程等行为可以触发大脑中多巴胺的释放，从而产生愉悦感。文章建议，编程成瘾者会进入一种恍惚的状态，急切地解决难题，并在代码按预期执行时体验到乐趣。然而，它也凸显了成瘾的负面影响，例如易怒和不愿处理平凡的任务。本文讨论了奉献精神对杰出程序员的吸引力，以及寻找更健康的激励措施来克服编码成瘾的重要性。最后建议个人意志力、纪律和团队合作可以帮助个人保持平衡的编程方法。]]></description>
-      <guid>https://t.me/hn_summary/62696</guid>
-      <pubDate>Thu, 07 Dec 2023 10:58:18 GMT</pubDate>
+      <title>[媒体] 诺姆·乔姆斯基 (Noam Chomsky)，当今最伟大的不公正权力挑战者之一，庆祝他的 9 岁生日 [...]</title>
+      <link>https://t.me/hn_summary/62759</link>
+      <description><![CDATA[95 岁的诺姆·乔姆斯基：不公正权力最伟大的挑战者之一
+诺姆·乔姆斯基 (Noam Chomsky) 是当今最伟大的不公正权力挑战者之一，今天庆祝他的 95 岁生日。乔姆斯基一直是反战运动的杰出人物，抗议越南战争并争取社会正义和自由。他因其激进主义而多次入狱，并一直直言不讳地批评美国外交政策。乔姆斯基在语言理论方面的工作也对各个领域产生了深远的影响，包括教育理论和认知科学。尽管做出了重大贡献，乔姆斯基仍然保持谦逊，淡化自己对关键全球问题的干预。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62759</guid>
+      <pubDate>Thu, 07 Dec 2023 17:33:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2020 年，研究人员在高空云层中检测到磷化氢的光谱特征 [...]</title>
-      <link>https://t.me/hn_summary/62695</link>
-      <description><![CDATA[寻找外星生命的存在问题&lt; br/&gt;
-2020 年，研究人员在金星高层云层中检测到磷化氢的光谱特征，这引发了人们的兴奋，认为它可能是外星生命的迹象。然而，进一步分析表明，磷化氢很可能是一场误报。寻找外星生命具有挑战性，因为它是远程完成的，依赖于解释和推理。此外，科学家还面临着定义生命是什么的问题，因为生物体和非生物体之间没有精确的界限。一些研究人员正在致力于开发一种基于复杂性的生命理论，这可能有助于识别其他行星上的生命迹象。然而，其他人认为理论不能仅仅基于地球上生命的例子。尽管面临这些挑战，科学家们仍在继续使用各种方法和标准寻找外星生命。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/62695</guid>
-      <pubDate>Thu, 07 Dec 2023 10:28:01 GMT</pubDate>
+      <title>[媒体] @XFilesArchive 的这条推文揭示了最近发现的一首丢失的 X 档案歌曲。</title>
+      <link>https://t.me/hn_summary/62758</link>
+      <description><![CDATA[失落的 X 档案之歌
+这条来自 @XFilesArchive 的推文揭示了最近发现的一首丢失的 X 档案歌曲。这首歌曲名为《Mulder and Scully》，由《X 档案》标志性主题曲的作曲家马克·斯诺 (Mark Snow) 创作并演唱。该推文包含一个 YouTube 视频的链接，粉丝可以在其中收听这首歌。这一发现让 X 档案的粉丝们兴奋不已，因为它让我们得以难得一睹该剧的音乐世界。这首歌本身是一首朗朗上口、欢快的曲调，展示了斯诺作为作曲家的才华。这是 X 档案爱好者必听的作品。]]></description>
+      <guid>https://t.me/hn_summary/62758</guid>
+      <pubDate>Thu, 07 Dec 2023 17:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章介绍了 Fuse.js，一个旨在创建类型安全的开源框架 [...]</title>
-      <link>https://t.me/hn_summary/62694</link>
-      <description><![CDATA[显示 HN：Fuse.js：用于创建类型安全数据的固执己见的框架图层
-本文介绍了 Fuse.js，这是一个旨在创建类型安全数据层的开源框架。该框架旨在简化后端API的改造，以满足前端开发的需求。数据层的概念被解释为前端团队拥有的专用服务，用于连接、转换和扩展 UI 的后端 API。文章重点介绍了数据层解决的后端和前端开发接口的三个核心问题：后端和前端工程师思维差异、API开发阻碍UI开发、资源一刀切——基于API。本文将数据层与后端换前端 (BFF) 和 GraphQL Federation 等其他解决方案进行了比较，并解释了 Fuse.js 如何解决这些问题。概述了 Fuse.js 的功能和优点，包括最佳数据获取、类型安全的端到端开发以及对 Next.js 的支持。本文最后强调了数据层架构的重要性并邀请工程社区内的协作和对话。]]></description>
-      <guid>https://t.me/hn_summary/62694</guid>
-      <pubDate>Thu, 07 Dec 2023 09:36:37 GMT</pubDate>
+      <title>BBC 新闻调查显示，OpenAI 的 ChatGPT 工具允许用户构建 [...]</title>
+      <link>https://t.me/hn_summary/62757</link>
+      <description><![CDATA[BBC 新闻将社交工程资源上传到 ChatGPT，创建诈骗活动
+BBC 新闻调查显示，OpenAI 的 ChatGPT 工具允许用户构建自己的人工智能助手，可用于创建网络犯罪工具。 BBC 新闻使用该工具创建了一个名为 Crafty Emails 的生成式预训练变压器，它可以为诈骗和黑客行为制作令人信服的电子邮件、文本和社交媒体帖子。 Crafty Emails 能够用多种语言为常见的黑客和诈骗技术创建高度令人信服的文本，利用心理学技巧来制造紧迫感、恐惧和困惑。 OpenAI 对该工具缺乏监管，引发了人们对让犯罪分子访问先进人工智能机器人的担忧。]]></description>
+      <guid>https://t.me/hn_summary/62757</guid>
+      <pubDate>Thu, 07 Dec 2023 17:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容探讨了 Tengen，一家违反任天堂规则并制造 [...]</title>
-      <link>https://t.me/hn_summary/62693</link>
-      <description><![CDATA[任天堂不希望你玩的游戏：Tengen (2022) 
-该网络内容探讨了 Tengen，一家违反任天堂规则并为 NES 制造未经许可的游戏的公司。 Tengen 发布了《Gauntlet》和《R.B.I.》等热门游戏。使用 Namco 制造的映射器芯片的棒球。他们的目的是避免雅达利公司因劣质卡带而倒闭的命运。 Tengen 可以访问 Atari Games 的街机游戏库以及其他公司的街机游戏的权利。他们还找到了一种破解任天堂锁定芯片的方法，使用名为“Rabbit”的克隆体与游戏机进行通信，并欺骗它认为这是普通的任天堂芯片。任天堂与 Tengen 的传奇故事于 1994 年以庭外和解告终。一些著名的 Tengen 游戏包括吃豆人、俄罗斯方块和超级冲刺。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/62693</guid>
-      <pubDate>Thu, 07 Dec 2023 09:26:24 GMT</pubDate>
+      <title>[媒体]美国参议员罗恩·怀登 (Ron Wyden) 透露，各国政府一直在秘密追踪该应用程序 [...]</title>
+      <link>https://t.me/hn_summary/62756</link>
+      <description><![CDATA[苹果承认向政府提供推送通知数据
+美国参议员罗恩·怀登透露，政府一直在秘密跟踪苹果和谷歌智能手机用户的应用程序活动。在给司法部的一封信中，怀登呼吁制定政策，禁止公司向公众通报这些秘密的政府要求，并更新或废除这些要求。怀登解释说，政府可以跟踪向应用程序用户提供警报的推送通知。他强调，许多用户不知道这些通知通过手机操作系统提供商传递，可能允许政府访问元数据和未加密的内容。 Apple 已确认将在其透明度报告中包含推送通知请求。]]></description>
+      <guid>https://t.me/hn_summary/62756</guid>
+      <pubDate>Thu, 07 Dec 2023 17:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>他向亚马逊揭发了此事。</title>
-      <link>https://t.me/hn_summary/62692</link>
-      <description><![CDATA[他向亚马逊举报了。他仍在付出代价
-本文讲述了一位亚马逊前员工的故事，他举报了公司的不道德行为，现在正面临后果。这位不愿透露姓名的举报人透露，亚马逊正在操纵顾客评论并采取其他欺骗行为来促进销售。尽管举报人努力揭露真相，但他仍面临亚马逊的报复，包括被解雇和面临法律威胁。这个故事强调了举报人面临的挑战，并提出了对亚马逊等科技巨头的权力和影响力的质疑。]]></description>
-      <guid>https://t.me/hn_summary/62692</guid>
-      <pubDate>Thu, 07 Dec 2023 08:43:20 GMT</pubDate>
+      <title>[媒体]中国已开始运行世界上第一座第四代核反应堆——石 [...]</title>
+      <link>https://t.me/hn_summary/62755</link>
+      <description><![CDATA[中国首座第四代核反应堆启动&lt; br/&gt;
+中国已经开始运营世界上第一座第四代核反应堆，即位于山东省的石岛湾核电站。这种新反应堆旨在更有效地使用燃料并提高安全性和环境影响。 200兆瓦高温气冷堆（HTGCR）电站由华能、清华大学和中国核工业集团公司联合开发，采用模块化设计，可以在场外建造。尽管支持者认为模块化工厂可以为偏远地区难以减少的重工业部门提供动力，但批评者认为它们太昂贵了。中国的目标是到2035年核电发电量达到10%，到2060年达到18%。然而，中国尚未实现2020年核电装机目标，也没有在COP28气候大会上签署到2050年核电装机容量增加两倍的承诺会议。]]></description>
+      <guid>https://t.me/hn_summary/62755</guid>
+      <pubDate>Thu, 07 Dec 2023 17:00:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
