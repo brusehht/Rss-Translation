@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 08 Dec 2023 12:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 18:08:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体]来自哈尔滨工业大学的中国研究人员提出使用四核 [...]</title>
-      <link>https://t.me/hn_summary/62882</link>
-      <description><![CDATA[中国科研人员为火星样本返回任务推出四轴飞行器&lt; br /&gt;
-哈尔滨工业大学的中国研究人员提议使用四轴飞行器来执行未来的火星样本返回任务。这架名为 MarsBird-VII 的四轴飞行器将配备四个转子，能够将重达 100 克的火星岩石运送到附近的着陆器。研究人员表示，四轴飞行器将能够收集着陆器周围 500m 半径范围内的岩石样本。着陆器需要四轴飞行器来拾取尚未被着陆器火箭污染的火星风化层。四轴飞行器将使用机械臂收集样本并将其送回着陆器，然后着陆器将它们放入上升器中返回地球。该概念仍处于早期阶段，尚未在模拟火星环境中进行测试。这一提议是在中国计划于 2028 年发射天问三号任务并于 2031 年从火星返回样本之际提出的。相比之下，美国宇航局的火星样本返回任务面临着延误和成本超支，该机构需要额外的资金才能保持在火星样本返回任务的轨道上。 2030 年推出。]]></description>
-      <guid>https://t.me/hn_summary/62882</guid>
-      <pubDate>Fri, 08 Dec 2023 12:04:08 GMT</pubDate>
+      <title>[媒体]作者讨论了软件开发中缺乏对质量保证 (QA) 的重视 [...]</title>
+      <link>https://t.me/hn_summary/62924</link>
+      <description><![CDATA[你永远不会被教导如何构建高质量的软件&lt; br/&gt;
+作者讨论了软件开发教育中缺乏对质量保证 (QA) 的重视以及这对项目造成的负面影响。他们强调了由于预算限制或延迟或范围蔓延引起的时间限制而削减质量保证措施的常见做法。作者分享了他们倡导质量保证措施的个人经验，并强调了从成本和业务影响方面进行讨论的重要性。他们建议从最小有效剂量 (MED) 的 QA 措施开始，并逐渐扩大稳定性。作者还鼓励开发人员承担责任并成为团队变革的代言人。]]></description>
+      <guid>https://t.me/hn_summary/62924</guid>
+      <pubDate>Fri, 08 Dec 2023 18:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇研究论文中，我们介绍了高斯头部头像，这是一种创建高 [...]</title>
-      <link>https://t.me/hn_summary/62881</link>
-      <description><![CDATA[高斯头像：通过动态高斯实现超高保真头像&lt; /a&gt;
-在这篇研究论文中，我们介绍了高斯头部头像，这是一种创建高保真 3D 头部头像的新方法。我们解决了在轻量级稀疏视图设置下创建逼真头像的挑战。我们的方法涉及使用可控 3D 高斯来表示化身，这使我们能够捕获复杂的表情和细粒度的动态细节。我们还利用完全学习的基于 MLP 的变形场来优化中性 3D 高斯。此外，我们还为训练过程开发了几何引导的初始化策略。我们的实验表明，我们的方法优于其他稀疏视图方法，即使在夸张的表达下，也能在 2K 分辨率下实现超高保真渲染质量。]]></description>
-      <guid>https://t.me/hn_summary/62881</guid>
-      <pubDate>Fri, 08 Dec 2023 12:00:54 GMT</pubDate>
+      <title>[媒体]Grok AI，一种新的人工智能工具，具有阅读和分析 Twitt 的能力 [...]</title>
+      <link>https://t.me/hn_summary/62923</link>
+      <description><![CDATA[Grok AI 能够读取 Twitter 用户的草稿 
+Grok AI 是一种新型人工智能工具，能够读取和分析 Twitter 用户的草稿。这项创新技术允许用户在发布推文之前收到有关推文的反馈，帮助他们改进内容并提高参与度。通过分析草稿的语言、语气和情绪，Grok AI 可以提供改进建议，甚至预测推文的潜在影响。虽然有些人可能认为这种侵犯隐私的行为存在争议，但另一些人则认为这是增强其社交媒体影响力的宝贵工具。这一独特功能使 Grok AI 与其他 AI 工具区分开来，并为用户提供了一种优化 Twitter 内容的巧妙方法。]]></description>
+      <guid>https://t.me/hn_summary/62923</guid>
+      <pubDate>Fri, 08 Dec 2023 18:03:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rollstack 目前正在巴西招聘一名高级软件工程师。</title>
-      <link>https://t.me/hn_summary/62880</link>
-      <description><![CDATA[Rollstack (YC W23) 正在巴西招聘一名高级软件工程师&lt; /a&gt;
-Rollstack 目前正在巴西招聘一名高级软件工程师。该公司旨在通过提供一个使用各种商业智能工具、客户关系管理系统和数据仓库自动创建和更新幻灯片和文档的平台，彻底改变专业人员的工作方式。作为一家由 Y Combinator 支持的初创公司，Rollstack 得到了世界上最成功的孵化器之一的支持和支持，该孵化器诞生了 Airbnb、Cruise、Instacart 和 Dropbox 等众多知名公司。对于经验丰富的软件工程师来说，有机会加入巴西一家有前途的创新公司是一个令人兴奋的前景。]]></description>
-      <guid>https://t.me/hn_summary/62880</guid>
-      <pubDate>Fri, 08 Dec 2023 12:00:45 GMT</pubDate>
+      <title>一个国际研究小组发现古代恒星能够产生[...]</title>
+      <link>https://t.me/hn_summary/62922</link>
+      <description><![CDATA[研究人员发现远古恒星产生了超重元素&lt; br/&gt;
+一个国际研究小组发现，古代恒星能够产生原子质量大于 260 的元素，比地球上自然发现的任何元素都重。这一发现加深了我们对恒星元素形成的理解。已知最重的元素是通过快速中子捕获过程（r 过程）在中子星中产生的。研究小组重新审视了银河系 42 颗经过充分研究的恒星中的重元素含量，并发现了以前未被识别的模式，表明元素周期表中部附近的一些元素可能是重元素裂变的残余物。这一发现提供了对宇宙元素多样性的深入了解。]]></description>
+      <guid>https://t.me/hn_summary/62922</guid>
+      <pubDate>Fri, 08 Dec 2023 17:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>Newag 制造的波兰火车在维护期间遭遇神秘故障，le [...]</title>
-      <link>https://t.me/hn_summary/62879</link>
-      <description><![CDATA[柴油门，但对于火车 - 一些重量级硬件黑客 
-纽瓦格制造的波兰列车在维护过程中发生神秘故障，令专家们感到困惑。以黑客专业知识而闻名的 Dragon Sector 团队被召集进行调查。经过几个月的分析和逆向工程，他们发现了写入火车软件代码中的有趣条件。这些条件包括维护中心的 GPS 坐标，如果列车在这些区域之一停留太长时间，列车将无法运行。其他令人惊讶的事情还包括更换部件时火车被堵塞，以及一列火车被编程为在行驶一百万公里后“抛锚”。该团队能够解决问题并防止与维护公司的合同被终止。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/62879</guid>
-      <pubDate>Fri, 08 Dec 2023 11:55:36 GMT</pubDate>
+      <title>[媒体] Vera Molnár，一位计算机艺术家先驱，以其算法和绘图工作而闻名 [...]</title>
+      <link>https://t.me/hn_summary/62921</link>
+      <description><![CDATA[使用绘图仪和算法进行绘画的计算机艺术家 Vera Molnár 去世于99
+Vera Molnár 是一位计算机艺术家先驱，因其算法和绘图仪方面的工作而闻名，现已去世，享年 99 岁。近年来，Molnár 的计算机实验以及她使用规则集创作的极简主义绘画重新引起了人们的兴趣。她在 20 世纪 60 年代开始手工创建算法，然后于 1968 年使用了索邦大学的计算机。她的绘画是通过为计算机配备笔并向其输入指令而绘制的，探索了秩序与混乱之间的界限。 Molnár 的作品因其对生成艺术和基于算法的数字艺术的影响而得到认可。]]></description>
+      <guid>https://t.me/hn_summary/62921</guid>
+      <pubDate>Fri, 08 Dec 2023 17:53:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]塔斯基吉梅毒研究，也称为塔斯基吉实验，是一项人类实验 [...]</title>
-      <link>https://t.me/hn_summary/62878</link>
-      <description><![CDATA[塔斯基吉梅毒研究
-塔斯基吉梅毒研究，也称为塔斯基吉实验，是美国公共卫生服务部 (PHS) 和疾病控制与预防中心 (CDC) 在 1932 年至 1972 年间进行的一项人体实验。该研究涉及近 400 名患有梅毒的非裔美国男性，他们没有被告知自己的诊断结果，也没有得到适当的治疗。该研究最初预计持续六个月，但后来延长至 40 年。到研究结束时，已有 100 多名男性死于这种疾病。该研究因其违反道德而受到广泛批评，并导致研究法规发生变化。比尔·克林顿总统于 1997 年正式就这项研究道歉。（根据 21% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/62878</guid>
-      <pubDate>Fri, 08 Dec 2023 11:54:28 GMT</pubDate>
+      <title>[媒体] 令人惊讶的是，《Black S》的著名作者纳西姆·尼古拉斯·塔勒布 (Nassim Nicholas Taleb) [...]</title>
+      <link>https://t.me/hn_summary/62920</link>
+      <description><![CDATA[《黑天鹅》作者纳西姆·尼古拉斯·塔勒布声援保罗·格雷厄姆&lt; /a&gt;
+令人惊讶的是，《黑天鹅》的著名作者纳西姆·尼古拉斯·塔勒布在推特上表达了他对保罗·格雷厄姆的声援。 Y Combinator 的联合创始人格雷厄姆因其有关收入不平等的有争议的言论而受到强烈反对。塔勒布对格雷厄姆的支持引起了人们的关注，因为他以对金融体系和精英的批评观点而闻名。两位有影响力的人物之间的这种意想不到的联盟引发了他们的追随者之间的争论，一些人质疑塔勒布在不平等问题上的立场。这场争议将如何展开以及是否会影响双方的声誉还有待观察。]]></description>
+      <guid>https://t.me/hn_summary/62920</guid>
+      <pubDate>Fri, 08 Dec 2023 17:49:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 Canalys 亚太论坛上的演讲中，联想高管屠彻敏承认 C [...]</title>
-      <link>https://t.me/hn_summary/62877</link>
-      <description><![CDATA[联想高管表示，Chromebook 对利润和地球都是有问题的
-在 Canalys 亚太论坛上的演讲中，联想高管屠彻敏承认，Chromebook 在盈利能力和可持续性方面都举步维艰。尽管如此，由于需求，特别是来自教育行业的需求，联想将继续销售 Chromebook。尽管 Chromebook 销量在疫情期间整体下降，但教育市场依然强劲，占第二季度美国 Chromebook 销量的 80%。涂先生还讨论了联想的供应链战略，强调了该公司在印度的扩张以及该国进口许可证要求带来的挑战。此外，涂先生还提到联想计划在明年下半年和2025年初发布AI PC。]]></description>
-      <guid>https://t.me/hn_summary/62877</guid>
-      <pubDate>Fri, 08 Dec 2023 11:52:17 GMT</pubDate>
+      <title>据[...]科学家在理解鲸鱼语言方面取得了突破性的发现</title>
+      <link>https://t.me/hn_summary/62919</link>
+      <description><![CDATA[科学家报告在理解鲸鱼语言方面取得突破&lt; br/&gt;
+根据最近的一份报告，科学家在理解鲸鱼语言方面取得了突破性的发现。研究人员长期以来一直对这些雄伟生物的复杂通讯系统着迷，现在他们相信它们在破译其语言方面取得了重大进展。通过研究不同鲸鱼物种的发声，科学家们发现了它们叫声背后的不同模式和含义。这一突破可能会揭示鲸鱼的社会动态和行为，以及它们与其他海洋生物的相互作用。这些发现引起了科学界的兴奋，并可能对我们对这些智慧生物的理解产生深远的影响。]]></description>
+      <guid>https://t.me/hn_summary/62919</guid>
+      <pubDate>Fri, 08 Dec 2023 17:30:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了自由主义者圈子里流行的口号“废除FDA”和[...]</title>
-      <link>https://t.me/hn_summary/62876</link>
-      <description><![CDATA[超越“废除 FDA”
-文章讨论了自由主义者圈子里流行的口号“废除 FDA”，并探讨了这一提议的挑战和影响。作者提出了有关取消处方药、娱乐性药物的可用性、工厂检查的必要性、医生的能力、保险范围的作用以及不受监管的补充剂的潜在风险等问题。作者提出了两项​​实用的政策建议：人工补充剂合法化和创建“实验药物”类别。文章强调了废除 FDA 的复杂性和潜在后果，并强调在任何医疗改革中都需要仔细考虑和规划。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/62876</guid>
-      <pubDate>Fri, 08 Dec 2023 11:38:06 GMT</pubDate>
+      <title>[媒体]拜登总统宣布为 10 个主要客运铁路项目提供 82 亿美元资金 [...]</title>
+      <link>https://t.me/hn_summary/62918</link>
+      <description><![CDATA[拜登总统宣布投入数十亿美元建设世界级高铁&lt; /a&gt;
+拜登总统宣布为全国10个重大客运铁路项目提供82亿美元资金，其中包括美国首个世界级高铁项目。这些项目通过《投资美国议程》和《两党基础设施​​法》资助，旨在扩大经济机会、创造就业机会并重建美国的基础设施。重点项目包括加州和内华达州之间的高铁系统、加州中央山谷的高铁线路、弗吉尼亚州、北卡罗来纳州和哥伦比亚特区的铁路走廊升级以及芝加哥联合车站的运力扩建。这些项目将创造数以万计的就业机会，减少温室气体排放，并提供安全和气候友好的旅行选择。拜登总统还宣布通过走廊 ID 计划进行未来的铁路投资，该计划将升级现有铁路线并建立新的高铁项目。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62918</guid>
+      <pubDate>Fri, 08 Dec 2023 17:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>X.com 是 Twitter，但是 [a-z.com 是什么？</title>
-      <link>https://t.me/hn_summary/62875</link>
-      <description><![CDATA[X.com 是 Twitter，但是 [ a-z.com?](https://news.ycombinator. com/item?id=38567397)
-该网络内容的作者在火车上感到无聊，决定在手机浏览器中输入各种单字母域名。他们发现大多数单字母 .com 域名，例如 a.com ，b.com，c.com等没有解析，为空白。然而，他们发现 q.com 归 Quantum Fiber 所有，一家在美国销售光纤互联网连接的公司，以及 z.com最近被Max Bullions Limited以170万港元收购。作者还探索了 .org、.net 和 .co 等其他顶级域名中的单字母域名，发现了各种有趣且活跃的网站。他们指出，许多单字母 .co 域名正在出售，而其他域名则由亚马逊和沃尔沃等公司拥有。作者对这些单字母域名缺乏活动和潜在价值表示惊讶。]]></description>
-      <guid>https://t.me/hn_summary/62875</guid>
-      <pubDate>Fri, 08 Dec 2023 11:35:58 GMT</pubDate>
+      <title>[媒体] iA Notebook（或称“作家笔记本”）是 iA 系列的最新成员。</title>
+      <link>https://t.me/hn_summary/62917</link>
+      <description><![CDATA[IA 论文作者
+iAノートブック（即“作家笔记本”）是 iA 系列的最新成员。它是一款实体笔记本，灵感来自流行的 iA Writer 应用程序。该笔记本的设计旨在最大程度地减少干扰并增强书写体验，精心挑选的纸张厚度和颜色、使书籍平放的装订方法以及在书写时淡入背景的微妙水印指南。设计过程充满挑战，水印线的实施需要高技术专业知识和对细节的关注。该笔记本是在日本用爱制作的，印刷公司和装订合作伙伴重视耐心、对细节的关注和持续改进。该笔记本电脑将于明年初开始接受预订。]]></description>
+      <guid>https://t.me/hn_summary/62917</guid>
+      <pubDate>Fri, 08 Dec 2023 17:06:56 GMT</pubDate>
     </item>
     <item>
-      <title>互联网关闭游戏是一种独特的互动方式，可以帮助您了解 [...]</title>
-      <link>https://t.me/hn_summary/62874</link>
-      <description><![CDATA[互联网关闭游戏
-互联网关闭游戏是一种独特的互动方式，可以帮助您了解互联网关闭背后的动机以及如何应对它们。政府经常出于各种原因关闭互联网，对人权和数字连接构成威胁。该游戏旨在揭示不同类型的停机以及应对方法。它是为人权倡导者、关心此事的公民、法律专业人士以及任何有兴趣加深该领域知识的人而设计的。该游戏可供下载，并可根据个人需求进行调整。]]></description>
-      <guid>https://t.me/hn_summary/62874</guid>
-      <pubDate>Fri, 08 Dec 2023 11:34:50 GMT</pubDate>
+      <title>[媒体] ReconFusion 是一种 3D 重建方法，可实现高质量重建 [...]</title>
+      <link>https://t.me/hn_summary/62916</link>
+      <description><![CDATA[ReconFusion：利用扩散先验进行 3D 重建
+ReconFusion 是一种 3D 重建方法，只需使用少量输入图像即可实现高质量重建。传统方法需要大量图像，使得过程非常耗时。 ReconFusion 利用扩散先验进行新颖的视图合成，并在合成和多视图数据集上进行训练，以规范重建过程。它可以在欠约束区域合成真实的几何形状和纹理，同时保留观察区域的外观。该方法经过了广泛的评估，并显示出比以前的少视图重建方法有显着的改进。 ReconFusion 能够从不一致的样本中提取一致的 3D 模型，使其成为 3D 重建的宝贵工具。]]></description>
+      <guid>https://t.me/hn_summary/62916</guid>
+      <pubDate>Fri, 08 Dec 2023 17:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉在与瑞典邮政服务 PostNord 的法律诉讼中输掉了 [...]</title>
-      <link>https://t.me/hn_summary/62873</link>
-      <description><![CDATA[由于与北欧工会的纠纷升级，特斯拉在瑞典输掉了法律诉讼
-在与北欧工会不断升级的纠纷中，特斯拉在与瑞典邮政服务 PostNord 的法律诉讼中败诉。瑞典法院裁定，PostNord 不必向特斯拉交付车牌，因为特斯拉的车牌被邮政服务工作人员挡住了。与此同时，瑞典、挪威和丹麦的工会支持 IF Metall 机械师举行罢工，要求与特斯拉达成集体协议。法院的裁决是临时裁决，特斯拉已就其工人停止运送车牌的决定起诉 PostNord。特斯拉拒绝签订集体谈判协议，引发了工会的强烈反对，甚至丹麦一家养老基金也出售了其在该公司的股份。]]></description>
-      <guid>https://t.me/hn_summary/62873</guid>
-      <pubDate>Fri, 08 Dec 2023 11:26:41 GMT</pubDate>
+      <title>[媒体] r3ply 是一个评论系统，允许读者通过电子邮件提交评论，elimina [...]</title>
+      <link>https://t.me/hn_summary/62915</link>
+      <description><![CDATA[显示 HN：通过电子邮件运行的评论系统 
+r3ply 是一个评论系统，允许读者通过电子邮件提交评论，无需创建帐户。该系统通过在发布评论之前将电子邮件地址转换为唯一的哈希值来确保隐私。它还对发件人的电子邮件地址进行检查，以防止电子邮件欺骗。该系统目前支持内容提交的 Markdown 子集，并且可以配置为拒绝超过一定大小的电子邮件。网站所有者可以审核评论、批准或拒绝提交以及阻止恶意用户。 r3ply 在 Cloudflare 的电子邮件工作人员上运行，但可以选择在您自己的基础设施上运行它。系统使用电子邮件的主题行来确定评论的目标位置，并使用哈希值来防止篡改。未来的功能可能包括开源代码、允许通过电子邮件回复进行评论管理以及允许用户将昵称与其评论相关联。]]></description>
+      <guid>https://t.me/hn_summary/62915</guid>
+      <pubDate>Fri, 08 Dec 2023 16:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
