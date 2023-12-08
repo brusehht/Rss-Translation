@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 08 Dec 2023 00:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 05:59:00 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Adnoc 首席执行官 Sultan Al Jaber 也是正在进行的 COP28 气候会议的负责人 [...]</title>
-      <link>https://t.me/hn_summary/62831</link>
-      <description><![CDATA[气候会议负责人恰好是一位石油高管，他表示化石燃料很好
-Adnoc首席执行官Sultan Al Jaber也是正在进行的COP28气候会议的负责人，他声称逐步淘汰化石燃料来应对气候变化没有科学依据，引发了争议。阿尔·贾比尔在一次关于在气候行动中赋予妇女权力的小组讨论中发表的评论由于他作为石油高管的角色而引发了愤怒。批评者认为，停止燃烧化石燃料的必要性是明确的，并且得到了科学研究的支持。前副总统阿尔·戈尔称阿尔·贾比尔的言论是“荒谬的伪装”，气候分析公司首席执行官比尔·黑尔则称其“近乎否认气候变化”。泄露的文件还显示，阿联酋计划利用气候会议来促进石油和天然气公司的发展。]]></description>
-      <guid>https://t.me/hn_summary/62831</guid>
-      <pubDate>Fri, 08 Dec 2023 00:42:28 GMT</pubDate>
+      <title>[媒体]Akamai 安全研究人员发现了一系列利用 Microsoft [...]</title>
+      <link>https://t.me/hn_summary/62859</link>
+      <description><![CDATA[攻击滥用 Microsoft DHCP 来欺骗 DNS 记录并窃取机密
+Akamai 安全研究人员发现了一系列通过欺骗 DNS 记录来利用 Microsoft Active Directory 域的攻击。这些攻击可能会损害 Active Directory 并允许攻击者窃取敏感信息。这些攻击的目标服务器运行默认配置的 Microsoft 动态主机配置协议 (DHCP) 服务器，并且不需要任何凭据。 Akamai 已向 Microsoft 报告了这些问题，但该公司没有计划解决该问题。 Akamai 估计，大量组织都容易受到这些攻击，因为其监控的网络中有 40% 在易受攻击的配置中运行 Microsoft DHCP。 Akamai 还提供了一个工具来帮助系统管理员检测存在风险的配置。该公司计划将来发布名为 DDSpoof 的代码来实施这些攻击。]]></description>
+      <guid>https://t.me/hn_summary/62859</guid>
+      <pubDate>Fri, 08 Dec 2023 05:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>铃木音乐很高兴地宣布重新生产 Omnichord 以庆祝其成立 70 周年 [...]</title>
-      <link>https://t.me/hn_summary/62830</link>
-      <description><![CDATA[将重新制作全弦琴以纪念我们成立 70 周年
-铃木音乐很高兴地宣布重新生产 Omnichord 以庆祝其成立 70 周年。新型号基于之前流行的型号 OM-27、OM-36 和 OM-84 打造，机身左侧采用弧形造型。它的尺寸也更小，更便于携带。 Omnichord 最初被设计为一种用户友好的电子乐器，任何人都可以享受，无论其音乐背景如何。它受到世界各地艺术家和爱好者的欢迎。该乐器的流线型机身代表着未来感和幸福的泪水。新型号将向原始设计和规格致敬，包括自动伴奏和和弦按钮。]]></description>
-      <guid>https://t.me/hn_summary/62830</guid>
-      <pubDate>Fri, 08 Dec 2023 00:42:18 GMT</pubDate>
+      <title>个人数据受到围攻。</title>
+      <link>https://t.me/hn_summary/62858</link>
+      <description><![CDATA[个人数据受到围攻。端到端加密是我们最强大的防御
+本文讨论了云中个人数据日益增长的威胁以及加强安全措施的必要性。它强调了数据泄露的日益频繁以及犯罪分子从被盗数据中获利的各种方式。作者强调了加密作为抵御这些攻击的强大防御措施的重要性。他们解释了端到端加密的概念，其中加密密钥只能由数据的预期接收者访问。文章还提到了实施端到端加密的挑战和局限性，并呼吁组织和政府优先考虑数据安全。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62858</guid>
+      <pubDate>Fri, 08 Dec 2023 05:55:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Spotify 首席财务官 (CFO) Paul Vogel 将于年底离开公司 [...]</title>
-      <link>https://t.me/hn_summary/62829</link>
-      <description><![CDATA[Spotify 首席财务官在大规模裁员几天后离职
-Spotify 首席财务官 (CFO) Paul Vogel 将于 2024 年 3 月底离开公司。就在几天前，该公司宣布大规模裁员，约 1,500 名员工被解雇。 Spotify首席执行官丹尼尔·埃克表示，沃格尔没有必要的经验来帮助公司扩张和满足市场预期。该公司目前正在寻找继任者。值得注意的是，沃格尔最近行使了股票期权并出售了价值938万美元的股票，这可能是之前预定的或由股价触发的。 Spotify 一直专注于盈利，并缩减了播客业务。]]></description>
-      <guid>https://t.me/hn_summary/62829</guid>
-      <pubDate>Fri, 08 Dec 2023 00:41:07 GMT</pubDate>
+      <title>[媒体] 网页内容的作者分享了他们复兴已有十年历史的 Macs, inc 的经验 [...]</title>
+      <link>https://t.me/hn_summary/62857</link>
+      <description><![CDATA[使用 antiX 和 MX Linux 复兴十年前的 Mac（2022）&lt; /a&gt;
+该网页内容的作者分享了他们复兴十年前 Mac 的经验，包括 2007 年的 iMac、2008 年的 MacBook 和 2012 年的 MacBook Air。他们解释说，Apple 的 macOS 不再支持这些机器，并探索了这个选项安装轻量级 Linux 发行版。作者尝试使用 antiX Linux，但由于 iMac 是 32 位 EFI，因此遇到了困难。然后，他们切换到带有 Fluxbox 桌面的 MX Linux，该桌面在 iMac 上运行得更好。笔者也在MacBook上成功安装了antiX。内容重点介绍了使用 Linux 复兴旧款 Mac 的挑战和成功。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62857</guid>
+      <pubDate>Fri, 08 Dec 2023 05:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容的作者认为，要求对复杂问题给出简单的答案 [...]</title>
-      <link>https://t.me/hn_summary/62828</link>
-      <description><![CDATA[停止要求难题得到愚蠢的答案
-该网络内容的作者认为，要求对复杂问题给出简单答案对美国不利。他们批评国会最近就大学校园反犹太主义举行的听证会，认为这是一场旨在压制有关以色列的异议言论的表演审判。作者强调了围绕众议员埃莉斯·斯特凡尼克 (Elise Stefanik) 要求对有关呼吁种族灭绝犹太人的问题给出是或否答案的争议。他们认为，此类问题并不容易回答，而且取决于具体情况。作者还批评出于政治目的操纵听证会，并警告不要落入此类策略。他们强调细致入微地解决棘手问题并避免压制言论的重要性。]]></description>
-      <guid>https://t.me/hn_summary/62828</guid>
-      <pubDate>Fri, 08 Dec 2023 00:35:58 GMT</pubDate>
+      <title>[媒体]博通首席执行官 Hock Tan 宣布计划剥离 VMware 的最终用户计算和 CA [...]</title>
+      <link>https://t.me/hn_summary/62856</link>
+      <description><![CDATA[VMware Fusion 将脱离 Broadcom
+Broadcom 首席执行官 Hock Tan 宣布计划剥离 VMware 的最终用户计算和 Carbon Black 部门，转而专注于大型软件包的订阅许可证。 Tan表示，VMware将重新专注于为大型企业创建私有云和混合云环境的核心业务。最终用户计算产品组合和 Carbon Black 安全软件部门将被剥离，Tan 承诺为它们找到合适的归宿。 Tan 希望客户购买 VMware 的 Cloud Foundation，其中包括计算、存储和网络虚拟化，以及多云管理和自动化。首席财务官 Kristen Spears 还透露，VMware 将推动订阅续订，而不是永久许可证。战略转变旨在增加 VMware 收入并与 Broadcom 的目标保持一致。]]></description>
+      <guid>https://t.me/hn_summary/62856</guid>
+      <pubDate>Fri, 08 Dec 2023 04:56:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Jarotsim 是一个发现、探索和实时编码图灵机的游乐场。</title>
-      <link>https://t.me/hn_summary/62827</link>
-      <description><![CDATA[Jarotsim 是图灵机的游乐场
-Jarotsim 是发现、探索和实时编码图灵机的游乐场。它旨在以有趣和快乐的方式促进这些基础计算机器的实验和可视化。该程序是使用 LÖVE 11.4 创建的，并作为 .love 文件分发。用户可以通过下载适用于各自操作系统的 LÖVE 在移动或桌面设备上播放该文件。该程序有两种模式：编辑模式，用户可以在其中设置和修改程序的各个方面；时间线模式，用户可以在其中看到流程的多次迭代。鼓励用户修改规则并探索不同的模式和行为。 Jarotsim 的初始状态基于 Wolfram 在“一种新科学”中描述的图灵机。用户可以通过付费购买Jarotsim来支持该项目。]]></description>
-      <guid>https://t.me/hn_summary/62827</guid>
-      <pubDate>Fri, 08 Dec 2023 00:34:50 GMT</pubDate>
+      <title>[媒体] 无线电架构很重要：射频采样与射频采样回顾</title>
+      <link>https://t.me/hn_summary/62855</link>
+      <description><![CDATA[无线电架构很重要：射频采样与零中频的回顾
+本文讨论了选择正确的无线电架构的重要性，以满足不断增长的无线服务需求并解决共址和干扰的挑战。它比较了两种常见的无线电架构：射频采样和零中频，并检查了每种架构的权衡和工程考虑。 RF采样架构在RF域具有更高的增益，并且在线性RF部分消耗更多的功率，而零中频架构在基带具有增益并降低RF部分的功耗。本文还讨论了图像和杂散信号的影响，以及每种架构的滤波要求。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/62855</guid>
+      <pubDate>Fri, 08 Dec 2023 04:43:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克 (Elon Musk) 最近发布的推文复兴了 #Pizzagate 阴谋论，其效果令人震惊 [...]</title>
-      <link>https://t.me/hn_summary/62826</link>
-      <description><![CDATA[埃隆·马斯克推动 Pizzagate 内容激增 9,500%
-蒙特克莱尔州立大学研究人员的一篇新论文称，埃隆·马斯克最近发布的推文复兴了 #Pizzagate 阴谋论，产生了惊人的效果。他们发现 11 月份 Twitter 上的 Pizzagate 流量与上个月相比增加了 9,500% 以上。 “披萨门”是一种毫无根据的阴谋论，声称恋童癖网络利用华盛顿特区的一家披萨店贩卖儿童。马斯克对 Pizzagate 的兴趣始于他批评 Media Matters，该组织指责 Twitter 投放针对白人至上主义内容的广告。马斯克的推文因使阴谋论合法化和放大极端主义内容而受到批评。]]></description>
-      <guid>https://t.me/hn_summary/62826</guid>
-      <pubDate>Thu, 07 Dec 2023 23:37:24 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克 (Elon Musk) 在迪士尼撤回后要求解雇迪士尼首席执行​​官鲍勃·艾格 (Bob Iger) [...]</title>
+      <link>https://t.me/hn_summary/62854</link>
+      <description><![CDATA[在迪士尼撤下广告后，埃隆·马斯克要求“解雇”鲍勃·艾格X
+迪士尼从其社交媒体平台 X 上撤下广告后，埃隆·马斯克要求解雇迪士尼首席执行​​官鲍勃·艾格。马斯克在 Twitter 上批评艾格，表示他应该立即被解雇，华特·迪士尼会对艾格的做法感到失望。对公司做了什么。在马斯克认可反犹太主义阴谋论后，迪士尼和其他大公司停止在 X 上做广告。马斯克因其有争议的帖子而面临强烈反对，并被指控在平台上散布仇恨言论、错误信息和阴谋论。缺乏主要广告合作伙伴对X产生了重大的财务影响，马斯克承认广告抵制可能会导致公司消亡。]]></description>
+      <guid>https://t.me/hn_summary/62854</guid>
+      <pubDate>Fri, 08 Dec 2023 04:38:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]有多少霍比特人？</title>
-      <link>https://t.me/hn_summary/62825</link>
-      <description><![CDATA[有多少霍比特人？中土世界的人口统计分析
-本文讨论了中土世界的军队规模，并用它们来估计不同地区的人口。作者指出，托尔金的描述很模糊，但根据现有信息，他们估计刚铎的总兵力约为 25-40,000 人，而洛汗可以部署大约 25,000 人。他们还分析了瑟兰迪尔领地和夏尔的人口。作者将他们的估计与另一位研究人员威格莫尔的估计进行了比较，并得出结论，威格莫尔的数字处于非常低的水平。他们还质疑夏尔霍比特人的人口数量与他们的军事能力相比是否膨胀。]]></description>
-      <guid>https://t.me/hn_summary/62825</guid>
-      <pubDate>Thu, 07 Dec 2023 23:27:13 GMT</pubDate>
+      <title>[媒体] 在这篇题为“工作场所中的人工智能：新危机或长期挑战”的文章中，[...]</title>
+      <link>https://t.me/hn_summary/62853</link>
+      <description><![CDATA[人工智能在工作场所
+在这篇题为《工作场所中的人工智能：新危机还是长期挑战》的文章中，作者是华盛顿大学语言学教授，讨论了人工智能在我们生活各个方面的使用。作者认为，“人工智能”一词是一个营销术语，用来让自动化听起来更加复杂和神奇，而不是承认它是由人和公司创建和使用的。作者分解了不同类型的自动化，例如自动决策系统、分类系统、推荐系统等等。作者还强调了与这些系统相关的危险和偏见，以及围绕它们的企业利益和炒作。作者敦促监管机构关注真正的问题，不要被“人工智能太奇特而难以监管”的说法所左右。]]></description>
+      <guid>https://t.me/hn_summary/62853</guid>
+      <pubDate>Fri, 08 Dec 2023 04:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据中元智库和天下智库的报告，企业牟取暴利 [...]</title>
-      <link>https://t.me/hn_summary/62824</link>
-      <description><![CDATA[贪婪通货膨胀：企业暴利“显着”推高了全球价格，研究
-根据IPPR和英联邦智库的一份报告，企业的暴利行为对2022年全球通胀做出了重大贡献。报告建议实施全球企业税，以遏制过度利润。对英国主要企业财务账户的分析显示，利润远远超过成本增长，导致通胀达到 20 世纪 80 年代以来从未有过的水平。研究发现，英国上市公司的利润增长了 30%，其中只有 11% 的公司通过大幅涨价（通常称为“贪婪通货膨胀”）获得了超额利润。该报告还强调了美国的超额利润，特别是在经济的主导部门。利润激增，而工资增长却未能跟上通货膨胀的步伐，导致可支配收入出现二战以来最大幅度的下降。该报告将能源公司埃克森美孚和壳牌、矿业公司嘉能可和力拓、食品和大宗商品公司卡夫亨氏、阿彻丹尼尔斯米德兰和邦吉列为利润超过通胀的公司的例子。报告指出，能源和食品价格对各经济部门成本的重大影响加剧了最初的价格冲击，导致更高、更持久的通胀。科技、电信和银行业也大幅提价，提高了利润率。该报告强调了“系统性部门”对通胀的巨大影响，并与Unite工会之前的研究相呼应，该研究显示，维持或提高利润率的公司是影响英国消费者价格指数（CPI）的最大价格上涨的原因。该报告呼吁对全球超额利润征税（估计为 4 兆美元），并采取措施解决允许企业利用其市场力量的垄断行为。]]></description>
-      <guid>https://t.me/hn_summary/62824</guid>
-      <pubDate>Thu, 07 Dec 2023 23:17:02 GMT</pubDate>
+      <title>[媒体] SmashingDocs 是一个网站，提供一系列免费的可编辑模板和原理 [...]</title>
+      <link>https://t.me/hn_summary/62852</link>
+      <description><![CDATA[展示 HN：免费可编辑模板和可打印文件来创建精美文档
+SmashingDocs 是一个网站，提供一系列免费的可编辑模板和打印文件，帮助用户创建精美的文档。只需点击三下即可轻松自定义模板，对于任何想要创建具有专业外观的文档而无需从头开始的麻烦的人来说，它都是一个方便的工具。无论您需要简历、传单、名片还是任何其他类型的文档，SmashingDocs 都有多种模板可供选择。该网站用户友好，提供了一种快速有效的方法来创建具有视觉吸引力的文档。]]></description>
+      <guid>https://t.me/hn_summary/62852</guid>
+      <pubDate>Fri, 08 Dec 2023 04:17:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌新的 Gemini AI 模型首次亮相后评价褒贬不一，但用户 [...]</title>
-      <link>https://t.me/hn_summary/62823</link>
-      <description><![CDATA[Google 最好的 Gemini 演示是伪造的
-谷歌新的 Gemini AI 模型首次亮相后受到的评价褒贬不一，但在发现最令人印象深刻的 Gemini 演示是伪造的后，用户现在开始质疑该公司的诚信度。该视频的标题为“与 Gemini 一起实践：与多模式人工智能交互”，展示了该模型在理解和混合语言和视觉理解方面的能力。然而，后来发现该视频是使用精心调整的文本提示和静态图像创建的，歪曲了模型的实际交互。这一消息引发了人们对谷歌透明度和可信度的担忧。虽然 Gemini 可能有潜力成为强大的人工智能平台，但 Google 的误导性演示损害了其声誉。]]></description>
-      <guid>https://t.me/hn_summary/62823</guid>
-      <pubDate>Thu, 07 Dec 2023 23:10:50 GMT</pubDate>
+      <title>[媒体]在这篇令人大开眼界的文章中，作者分享了他们提交 136 Freedom [...]</title>
+      <link>https://t.me/hn_summary/62851</link>
+      <description><![CDATA[我向警方提交了 136 份 FOIA 请求并了解了我们的系统为何崩溃
+在这篇令人大开眼界的文章中，作者分享了他们向各个警察部门提交 136 信息自由法 (FOIA) 请求的经验。通过这个过程，他们发现了我们执法系统中根深蒂固的缺陷和系统性问题。作者强调了缺乏透明度、过度编辑以及获取关键信息的总体困难。它们揭示了警察部门扣留重要数据（例如使用武力事件和警官不当行为记录）的有争议的做法。这篇文章敲响了警钟，揭示了我们警察部门内部迫切需要改革和问责。]]></description>
+      <guid>https://t.me/hn_summary/62851</guid>
+      <pubDate>Fri, 08 Dec 2023 04:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>6502 是 RISC 还是 CISC 处理器？</title>
-      <link>https://t.me/hn_summary/62822</link>
-      <description><![CDATA[6502是RISC还是CISC处理器？ （2005）
-作者讨论6502处理器是RISC还是CISC处理器。他们认为，虽然 70 年代编写的软件在当时可能并不原始，但与今天的软件相比，它被认为是原始的。 6502 ISA 缺乏对现代软件中某些功能的支持，例如单堆栈、基于帧的语言。作者还提到 65816 处理器解决了其中一些缺陷，但在某些方面仍然存在不足。他们提供了 6502 ISA 中方法调用的示例，强调了与其他处理器相比其复杂性和低效率。作者最后指出，使用面向对象语言进行编程通常会产生更正确的代码，并且某些应用程序非常适合面向对象技术。]]></description>
-      <guid>https://t.me/hn_summary/62822</guid>
-      <pubDate>Thu, 07 Dec 2023 23:03:41 GMT</pubDate>
+      <title>[媒体]作者瑞克·史蒂夫斯 (Rick Steves) 回顾了他十年前的伊朗之旅，并强调 [...]</title>
+      <link>https://t.me/hn_summary/62850</link>
+      <description><![CDATA[伊朗：如果你要轰炸一个地方，你应该首先了解其人
+作者里克·史蒂夫斯回顾了他十年前的伊朗之行，并强调了在采取军事行动之前了解一个国家人民的重要性。他认为，美国人低估了伊朗的历史及其对伊朗应对挑战的影响。史蒂夫斯强调了伊朗的“包袱”，包括过去的西方入侵和 1979 年的伊朗革命，美国和伊朗对伊朗的看法有所不同。他警告不要低估伊朗的韧性以及鲁莽外交政策的潜在后果。史蒂夫最后强调需要了解和欣赏伊朗的历史和文化。]]></description>
+      <guid>https://t.me/hn_summary/62850</guid>
+      <pubDate>Fri, 08 Dec 2023 03:48:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

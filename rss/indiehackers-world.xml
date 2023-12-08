@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 08 Dec 2023 03:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 06:16:36 GMT</lastBuildDate>
+    <item>
+      <title>您可以留下您的评论吗？</title>
+      <link>https://feed.indiehackers.world/post/3a8a77729a</link>
+      <description><![CDATA[请问您是否可以对我的数字营销机构 Google 个人资料发表评论？
+这真的会帮助我开始，因为我需要这些评论。
+链接如下
+链接：
+https://g.page/r/CToX0cXtkcpHEAI/review
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/3a8a77729a</guid>
+      <pubDate>Fri, 08 Dec 2023 04:39:41 GMT</pubDate>
+    </item>
     <item>
       <title>使用直播作为省时的营销</title>
       <link>https://feed.indiehackers.world/post/bc2a8b3626</link>
@@ -158,14 +170,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a833cef9c7</guid>
       <pubDate>Thu, 07 Dec 2023 20:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nuxt 无密码登录</title>
-      <link>https://feed.indiehackers.world/post/83655a0d28</link>
-      <description><![CDATA[我当前的技术堆栈是 Nuxt 前端和 Rails 后端。我研究了几种 Magic Link 的解决方案，例如 Auth0、Passage、Supabase 和 Magic。 Supabase 使集成无密码登录变得非常容易。还有什么可以让 Nuxt 更容易使用吗？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/83655a0d28</guid>
-      <pubDate>Thu, 07 Dec 2023 19:42:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
