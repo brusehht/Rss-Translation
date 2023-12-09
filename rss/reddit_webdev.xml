@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Dec 2023 06:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 09:11:31 GMT</lastBuildDate>
+    <item>
+      <title>有人曾经使用 Copilot 或 ChatGPT 4 来分析代码库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e9046/has_anyone_ever_used_copilot_or_chatgpt_4_to/</link>
+      <description><![CDATA[长话短说，我必须审核我们机构的代码库，它位于 Django、VueJS、Ioniq 中，位于 2 个独立的存储库中。从技术上讲，我可以探索一切并获得问题的答案，但我希望人工智能解决方案可以做到这一点。我的意思是这对人工智能来说是完美的工作。但是，有没有人曾经设法使用 Copilot 或 ChatGPT4 分析代码库，并向其询问诸如“发送电子邮件时发生了什么、触发了哪些事件、在哪些文件中调用了哪些函数等……”之类的问题。以及其他相关问题。这将给我一个探索的第一条线索，现在我只剩下数千个文件，除了安装步骤之外，几乎没有任何文档（如果有的话）。  你将如何实现这一目标？有没有任何插件可以实现这一点，或者甚至可以在本地实现？ 谢谢   由   提交 /u/DownloadPow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e9046/has_anyone_ever_used_copilot_or_chatgpt_4_to/</guid>
+      <pubDate>Sat, 09 Dec 2023 08:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发布了 Efflux 的下一个主要版本，这是一个基于网络的音乐制作器，具有用户友好的即兴演奏 UI，允许现场即兴演奏。和以前一样完全开源。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e8tpw/i_released_the_next_major_version_of_efflux_a_web/</link>
+      <description><![CDATA[   /u/igorski81  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e8tpw/i_released_the_next_major_version_of_efflux_a_web/</guid>
+      <pubDate>Sat, 09 Dec 2023 08:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解会话 ID 存储</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e7h83/understanding_session_id_storage/</link>
+      <description><![CDATA[我最近开始从头开始学习身份验证和会话管理。对我来说，一个令人困惑的地方是会话 ID。更具体地说，是对会话 ID 进行加密签名的建议。 假设我生成一个会话标识符，为每个会话提供 OWASP 建议的 64 位熵。即使攻击者有数以万计的活动会话和每秒大约 10,000 次猜测，我们也可以预期攻击者在找到有效标识符之前会忙于处理会话 ID 数百年。 尽管如此，许多人认为您还可以对会话标识符进行加密签名，从而可以验证该标识符是从您的服务器发送的，而不是由攻击者生成的。不过，这也不能猜吗？从我的角度来看，添加签名只不过是增加了暴力攻击者的搜索空间。是的，您现在可以判断标识符何时被伪造，但您只是延长了攻击者猜测有效标识符的签名之前的时间。  我知道安全性是分层构建的，但我真的看不到其中的价值。 128位标识符+基本速率限制够了吗？   由   提交 /u/petenpatrol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e7h83/understanding_session_id_storage/</guid>
+      <pubDate>Sat, 09 Dec 2023 06:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在哪个网站上托管您的作品集？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e7apt/which_site_do_you_host_your_portfolio_on/</link>
+      <description><![CDATA[你的自由职业作品集   由   提交/u/古生物学家Firm13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e7apt/which_site_do_you_host_your_portfolio_on/</guid>
+      <pubDate>Sat, 09 Dec 2023 06:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何调试 Chrome 扩展程序政策违规行为？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e75nq/how_to_debug_chrome_extension_policy_violations/</link>
+      <description><![CDATA[我提交了一个 Chrome 扩展程序以供审核，但在 Blue Argon 代码。 对应于通知 ID：Blue Argon 此策略的目的是确保 Manifest V3 扩展不包含远程托管代码。拒绝的常见原因包括&lt;脚本&gt;指向不在扩展程序包内的资源的标记。使用 JavaScript 的 eval()` 方法或其他机制来执行从远程源获取的字符串。构建一个解释器来运行从远程源获取的复杂命令，即使这些命令是作为数据获取的。  我尝试上诉并收到了此回复 感谢您与我们联系。我们理解您的担忧，并将为您提供同样的帮助。经过后续审查，我们发现您的商品不符合我们的开发者计划政策。请在下面的项目中查找违规详细信息。项目名称：Grok 应用程序版本：0.1.0 远程托管代码：违规：在清单 v3 项目的 chromeExtensionSidePanel.js 文件中包含远程托管代码资源。纠正措施：确保引用或注入的所有脚本都包含在扩展包中。其他信息：我们要求您将所有远程托管资源包含在代码包中。请参阅文档了解更多详细信息。请重新提交您的扩展以接受上述纠正措施的审核。如果我们发现您提交的内容符合我们的所有政策，则您的提交内容将获得批准。  我发送了一封后续电子邮件，要求进一步澄清，但我不确定接下来会如何进行。我真的不知道他们可能在谈论什么。我没有使用 eval 引用任何远程脚本或代码。我想它可能来自我正在使用的图书馆？我尝试在他们描述的文件中搜索 eval 的用法，但没有发现任何可疑的内容。  知道如何调试这个吗？   由   提交 /u/spline_reticulator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e75nq/how_to_debug_chrome_extension_policy_violations/</guid>
+      <pubDate>Sat, 09 Dec 2023 06:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>为项目寻找网络开发人员时需要注意什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/18e6nv1/what_to_look_for_when_getting_a_web_developer_for/</link>
-      <description><![CDATA[我是一名设计师，已准备好 Figma 原型。我将把开发工作外包给像 upwork 这样的网站。这只是一个个人副项目。 这是一个餐饮网站，仅显示 CTA 特许经营/预订活动/职业的信息（菜单、简介、地点），以便通过电子邮件或电话联系。 . 我如何寻找一个好的开发人员来完成此任务（要寻找的关键字）以及哪些技术堆栈/应用程序（wix、squarespace、webflow 等）最适合这样的项目？&lt; /p&gt; 唯一的事情是我希望能够添加/删除商店位置。所有“有幸拥有”都可以。未来将实现的功能（谷歌地图、博客、社交媒体提要等） 或者这是否足够简单，我可以做到？我确实对 html/css/js 有一个总体的了解（因为我与开发人员密切合作，并且通过大学里的几门课程+断断续续地尝试训练营），但我的主要角色一直是产品设计师。   由   提交 /u/Zestyclose_Table7544   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名设计师，已准备好 Figma 原型。我将把开发工作外包给像 upwork 这样的网站。这只是一个个人业余项目。 这是一个餐饮网站，仅显示菜单（图像+列表上的名称）、关于（文本+图像）、位置（文本列表）等信息。 CTA 是通过电子邮件形式或电话联系特许经营/预订活动/职业。 我如何寻找优秀的开发人员来做到这一点（在他们的个人资料上寻找关键字）以及技术堆栈/ apps/framework（wix、squarespace、webflow 等）最适合这样的项目？ 唯一的事情是我希望能够添加/删除商店位置。所有“有幸拥有”都可以。未来将实现的功能（谷歌地图、博客、社交媒体提要等） 或者这是否足够简单，我可以做到？我确实对 html/css/js 有一个大致的了解（因为我与开发人员密切合作，并且通过大学里的几门课程+断断续续地尝试训练营），但我的主要角色一直是产品设计师 注意：嗨，请不要给我发消息，因为我不想在这里找到开发人员。我住在第三世界的一个烂地方，这就是为什么我要寻找一个本地开发人员来完成工作，哈哈。我没有尝试联系与我合作过的开发者，因为他们生活在一个更富裕的国家，所以我很可能也负担不起你们的费用，哈哈   由   提交 /u/Zestyclose_Table7544   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18e6nv1/what_to_look_for_when_getting_a_web_developer_for/</guid>
       <pubDate>Sat, 09 Dec 2023 05:42:30 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>寻找反馈！</title>
       <link>https://www.reddit.com/r/webdev/comments/18e1hy2/looking_for_feedback/</link>
-      <description><![CDATA[网址：www.dontec.org 用途：用于启动我的项目，也许可以为咖啡赚点钱 技术：谷歌网站 反馈：寻找设计印象。您对这种格式有何看法？这是我的第一个网站。评论：仅此而已！ 新项目网站 有人可以告诉我我的网站是否易于遵循以及他们对格式的看法吗？这是我打算列出我的项目的地方。以前从未有过网站。   由   提交 /u/DonstaTheMonsta   [链接] [评论]]]></description>
+      <description><![CDATA[网址：www.dontec.org 用途：用于启动我的项目，也许可以为咖啡赚点钱 技术：谷歌网站 反馈：寻找设计印象。您对这种格式有何看法？这是我的第一个网站。评论：仅此而已！ 新项目网站 有人可以告诉我我的网站是否易于理解以及他们对格式的看法吗？这是我打算列出我的项目的地方。以前从未有过网站。   由   提交 /u/DonstaTheMonsta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18e1hy2/looking_for_feedback/</guid>
       <pubDate>Sat, 09 Dec 2023 00:54:00 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我们需要实时跟踪社会中的猫，我们需要跟踪它们的位置，比如它们现在在哪个部分，那么我是怎么做的做吗？如何在js和express中连续监控7个摄像头，图像必须发送到ML模型以便每秒左右进行处理。这是怎么做到的？其次如何减少延迟   由   提交 /u/Ok-Anything-4603   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18dyy7r/tracking_problem/</guid>
       <pubDate>Fri, 08 Dec 2023 22:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>手写数学方程到数字数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dyxbu/handwritten_math_equations_to_digital_data/</link>
-      <description><![CDATA[所以，我想在 Angular + Nodejs 或 .net 中制作一个项目，在其中我可以上传带有手写数学方程的图像并求解它们。我的问题是这个转换..我可以使用一些免费的 OCR 来实现这个或其他解决方法吗？   由   提交 /u/SheepherderReal736   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dyxbu/handwritten_math_equations_to_digital_data/</guid>
-      <pubDate>Fri, 08 Dec 2023 22:48:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>差点被 LinkedIn 上的虚假工作机会骗了。假冒公司：TechDoQuest</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dy4za/almost_got_scammed_by_fake_job_offer_on_linkedin/</link>
-      <description><![CDATA[这家假公司试图招募我，我只是想让你们都知道，这是现在很常见的事情。  这比其他骗局更有说服力。他们实际上有一个网站，他们有似乎很活跃的社交媒体，他们向我发送了一封确认电子邮件以获取代表权，等等。  对我来说，主要的危险信号是他说这是给迪士尼的，而且支付了 70 - 8 万美元。后来我仔细观察，发现都是假的。  我没有一路跟踪并在 LinkedIn 上指出骗子，但我的猜测是，这要么是他们向您发送虚假支票的骗局，要么是他们完全假装加入的骗局您，然后要求您提供银行信息以进行直接存款并清除您的帐户。  只是想在这里发帖让大家知道，这样他们就不会欺骗其他人。  大家要小心。   由   提交/u/Hunter377  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dy4za/almost_got_scammed_by_fake_job_offer_on_linkedin/</guid>
-      <pubDate>Fri, 08 Dec 2023 22:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需 Cloudinary 即可处理我的图像需求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dw6zo/handling_my_image_needs_without_cloudinary/</link>
-      <description><![CDATA[所以我有一个有点受欢迎且图像较多的网站。我使用 Cloudinary，我的所有流量迫使我使用 100 美元/月的计划。我正在尽力削减成本，所以这似乎是一个不错的选择。我喜欢 Cloudinary，它让事情变得超级简单，但是是的。 所以我试图想出重新创建我需要的东西的最佳方法。 目前我用它来做基于图像上特定位置的一些圆形图像裁剪。例如，有一些上传的卡片，我知道卡片的漂亮部分位于右上角，因此我根据一些基于百分比的坐标进行裁剪，将其裁剪为 50 像素 x 50 像素的“肖像”。这些按钮被锁在一堆按钮的侧面，因此当页面加载时，您可能会加载其中的 50 个。 当然，还有人们在单击图像时根据需要加载的完整图像. 然后用户可以保存自己的图像。 然后就是优化。 所以没有什么太疯狂的。但我需要自动裁剪上面的肖像部分，因为它有时是用户上传的内容。我是否需要使用 lambda 来使此图像与某些图像处理库一起工作并将其存储在 S3 中？或者我什至需要 Lambda...我应该在服务器上执行此操作吗？ 然后我想在处理一堆图像和一个一群用户会很棒。当我说“一群”时我的意思是每月 30,000 个左右，所以我猜不会那么多，但每个页面上都有很多图像，而且用户访问频率很高。 谢谢，对于开放性感到抱歉。只是寻求见解，并会采纳我能得到的您能想到的任何侧面建议。   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dw6zo/handling_my_image_needs_without_cloudinary/</guid>
-      <pubDate>Fri, 08 Dec 2023 20:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，做一些练习来练习，我真的很感激关于这个关于一个小型社交网络的 ER 图的一些反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dvo50/hey_doing_some_exercises_to_practice_and_i_would/</link>
-      <description><![CDATA[   /u/False_Association_12   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dvo50/hey_doing_some_exercises_to_practice_and_i_would/</guid>
-      <pubDate>Fri, 08 Dec 2023 20:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>财务分析项目建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dv864/financial_analytics_project_advice/</link>
-      <description><![CDATA[我正在构建一个个人项目以获得更多网络体验。我对 HTML、CSS、React 和 TypeScript 很熟悉，并且涉足过各种框架，但我希望这个项目比以前的项目更深入。  我正在构建的应用程序是一个加密数据分析网站。我的目标是实时动态地从各种 API 获取数据，这些数据将以交互式和响应式图形、图表、订单视图、交换流入/流出、大额交易等形式在前端进行处理和显示 - 典型的财务分析组件。它将主要集中在单个页面上，我根本不关心搜索引擎优化，但希望该网站能够快速/性能理想。 我构建它是为了学习而不是为了实际用户因此它绝对不必是生产级的，但我的目标是学习如何创建稳定且响应灵敏的动态应用程序，并应对处理实时数据的挑战。一旦我对 AWS 感到满意，我可能最终会选择在 AWS 上托管，但这并不重要；再次强调，仅供学习。  ​ 我可能考虑的选项是 Vite/React/Express、NextJS 和 NextJS with Express。我对这三个方面的知识水平大致相同（诚然不是负载）。 Vite 服务器听起来很棒，具有快速的前端构建和 HMR，而且设置似乎相当简单。 NextJS 很方便，全栈，简单的 API 路线（尽管它的 SEO 功能毫无价值），但我知道它相当固执己见，而且很热门topic atm。 Express 使我能够更好地控制 API，并且对于了解更多信息很有用（但增加了更多复杂性）。  我知道最终我使用的框架可能并不特别重要，但我想从那些比我更有经验的人那里得到一些建议 - 有没有一种选择是您特别推荐给我使用的案件？我正在尝试扩展我的开发此类应用程序实际工作方式的经验。我知道这可能会花费我相当长的时间，但这很好，我不着急 - 只是想学习。 真的会推荐任何人提供的任何反馈/指导，谢谢！   由   提交 /u/spanishtycoon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dv864/financial_analytics_project_advice/</guid>
-      <pubDate>Fri, 08 Dec 2023 20:00:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

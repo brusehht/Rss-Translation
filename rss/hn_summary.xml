@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 09 Dec 2023 06:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 09:09:10 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者讨论了必然性的概念及其在各种对象中的应用[...]</title>
-      <link>https://t.me/hn_summary/63012</link>
-      <description><![CDATA[宏观和微观的必要性
-作者讨论了必然性的概念及其在各种对象和实体中的应用。他们质疑对必需品的研究和列表的程度，特别是与世界上必需品的充分分配及其相互联系相关的问题。作者探索了不同物体的基本属性，例如臂、分子、星系，甚至宇宙本身。他们认为一切事物都有一些本质属性，并且必然性存在于整个宇宙中。作者还考察了宏观必需品与微观必需品之间的关系，讨论了宏观必需品对微观必需品的伴随性。它们强调了模态形而上学和心理形而上学之间的类比。]]></description>
-      <guid>https://t.me/hn_summary/63012</guid>
-      <pubDate>Sat, 09 Dec 2023 06:13:33 GMT</pubDate>
+      <title>[媒体]作者反思了与前编辑克里斯·安德森 (Chris Anderson) 20 年来的争论——i [...]</title>
+      <link>https://t.me/hn_summary/63026</link>
+      <description><![CDATA[如果购买不是拥有，那么盗版就不是盗窃
+作者回顾了 20 年来与《连线》前主编克里斯·安德森 (Chris Anderson) 关于受 DRM 限制的设备的争论。作者认为，在没有警告读者有关功能可能被撤销的情况下认可此类设备是一种欺诈形式。作者重点介绍了惠普等公司如何使用安全更新来阻止打印机上的第三方墨水，以及缺乏对远程降级的惩罚如何导致产品的enshitification。作者还批评 Adob​​e 允许 Pantone 撤销对其软件中颜色的访问，以及索尼允许华纳删除从 PlayStation 商店购买的视频。作者的结论是，这是设计用于远程、不可逆转、非自愿降级的设备的可预见结果。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63026</guid>
+      <pubDate>Sat, 09 Dec 2023 09:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>作者回顾了与前主编克里斯·安德森 (Chris Anderson) 20 年来的争论 [...]</title>
-      <link>https://t.me/hn_summary/63011</link>
-      <description><![CDATA[“如果购买不是拥有，那么盗版就不是偷窃” 
-作者回顾了 20 年来与《连线》前主编克里斯·安德森 (Chris Anderson) 关于受 DRM 限制的设备的争论。作者认为，在不披露功能被撤销的可能性的情况下认可此类设备会误导消费者。作者重点介绍了惠普等公司如何利用这种能力来修改打印机以拒绝第三方墨水。他们还讨论了修复移动的权利以及公司如何使用 DRM 来阻止独立修复。作者强调，设计用于远程、不可逆转、未经同意的降级设备会招致滥用并导致产品的垃圾化。他们还批评 Adob​​e 和索尼等公司共谋允许删除或限制内容。作者最后指出，如果购买不是拥有，那么盗版就不是偷窃。 （根据 65% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/63011</guid>
-      <pubDate>Sat, 09 Dec 2023 05:49:18 GMT</pubDate>
+      <title>[媒体]吉尔·德勒兹 – 什么是哲学？</title>
+      <link>https://t.me/hn_summary/63025</link>
+      <description><![CDATA[吉尔·德勒兹——什么是哲学？ [音频](https://news.ycombinator.com/item?id= 38579602)
+吉尔·德勒兹（Gilles Deleuze）是一位法国哲学家，以其对欧陆哲学的贡献而闻名。他强调差异性和多样性对于理解世界的重要性，并发展了一种关注变化和转变的生成哲学。德勒兹与菲利克斯·瓜塔里合作探索欲望、权力和资本主义之间的关系，认为欲望可以成为抵抗主导权力结构的政治力量。他拒绝传统的形而上学，并发展了一种强调物质和日常生活的内在性哲学。德勒兹还强调创造力和实验在哲学和生活中的重要性。尽管他与抑郁症作斗争，但他的贡献在文化研究和批判理论等领域仍然具有影响力。]]></description>
+      <guid>https://t.me/hn_summary/63025</guid>
+      <pubDate>Sat, 09 Dec 2023 09:05:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Azer Koçulu，来自加利福尼亚州奥克兰的程序员，对我们造成了广泛的干扰 [...]</title>
-      <link>https://t.me/hn_summary/63010</link>
-      <description><![CDATA[一位程序员通过删除一小段代码破坏了互联网（2016 )
-来自加利福尼亚州奥克兰的程序员 Azer Koçulu 删除了 11 行代码，对 Web 开发造成了广泛的干扰。 Koçulu 一直在将代码发布到 npm，这是一项流行的服务，用于查找和安装用 JavaScript 编写的开源软件。这场纠纷始于 Koçulu 收到鲍勃·斯特拉顿 (Bob Stratton) 发来的电子邮件。鲍勃·斯特拉顿是一名专利和商标代理人，为消息应用程序 Kik 提供合同工作。 Stratton 要求 Koçulu 将他的软件包重命名为 kik，因为它与 Kik 即将推出的软件包同名。谈话升级，斯特拉顿威胁采取法律行动。 npm 站在 Kik 一边并转让了 kik 包的所有权。为了抗议，Koçulu 从 npm 中删除了他的所有软件包，包括许多其他软件包所依赖的 left-pad。这给世界各地的 JavaScript 程序员带来了广泛的问题，因为他们的代码没有左键就无法运行。 npm 最终恢复了 11 行代码，解决了问题。该事件凸显了软件的相互依赖性和开源社区内的权力动态。]]></description>
-      <guid>https://t.me/hn_summary/63010</guid>
-      <pubDate>Sat, 09 Dec 2023 05:12:57 GMT</pubDate>
+      <title>[媒体] iPod Classic 的 DIY 蓝牙和 USB-C 套件为音乐爱好者带来了颠覆性的改变。</title>
+      <link>https://t.me/hn_summary/63024</link>
+      <description><![CDATA[适用于 iPod Classic 的 DIY 蓝牙和 USB-C 套件
+适用于 iPod Classic 的 DIY 蓝牙和 USB-C 套件为音乐爱好者带来了颠覆性的改变。该套件可让您使用蓝牙连接和 USB-C 端口等现代功能升级您的旧 iPod Classic。使用此套件，您可以轻松将 iPod 连接到无线耳机或扬声器，无需烦人的电线。 USB-C 端口还可以实现更快的充电和数据传输。该套件非常适合那些想要为旧 iPod Classic 注入新活力并享受无线技术便利的用户。立即前往 moonlit.market 购买，正常价格为 369 欧元,99 欧元。]]></description>
+      <guid>https://t.me/hn_summary/63024</guid>
+      <pubDate>Sat, 09 Dec 2023 08:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章挑战了入店行窃在t [...]中显着增加的说法。</title>
-      <link>https://t.me/hn_summary/63009</link>
-      <description><![CDATA[美国入店行窃祸害有很多炒作，但证据却很少
-这篇文章对自大流行开始以来美国入店行窃大幅增加的说法提出了挑战。虽然盗窃现象时有发生，但过去几年全国范围内的零售犯罪并没有显着上升，许多地方甚至有所下降。最近的一项研究发现，与 2019 年相比，2023 年上半年的入店行窃报告增加了 16%，但排除纽约市的统计数据，入店行窃事件数量实际上下降了 7%。全国零售联合会还承认，过去有关零售犯罪的报告被夸大了，并撤回了其中一份报告中的一项关键主张。总体而言，虽然某些城市的入店行窃有小幅实际增长，但全国入店行窃趋势相当平稳。]]></description>
-      <guid>https://t.me/hn_summary/63009</guid>
-      <pubDate>Sat, 09 Dec 2023 05:11:47 GMT</pubDate>
+      <title>想帮助您热爱的企业吗？</title>
+      <link>https://t.me/hn_summary/63023</link>
+      <description><![CDATA[想要帮助您热爱的企业吗？不要用信用卡付款
+本文讨论了付款方式如何影响小型企业，并就如何支持它们提供了建议。它解释说，当客户使用信用卡付款时，与其他付款方式相比，企业必须支付更高的费用。现金支付对企业的成本最低，而与银行账户相关的借记卡或 Venmo 支付则介于两者之间。该文章强调，信用卡费用对于小型企业来说可能是一个负担，并建议客户考虑使用现金、借记卡或汇款应用程序来帮助减轻这些成本。然而，它也承认信用卡提供一定的保护和奖励福利。]]></description>
+      <guid>https://t.me/hn_summary/63023</guid>
+      <pubDate>Sat, 09 Dec 2023 08:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容讨论了 FIDO 密钥的使用，这些密钥是提供 [...]</title>
-      <link>https://t.me/hn_summary/63008</link>
-      <description><![CDATA[使用 Fido 密钥
-Web 内容讨论了 FIDO 密钥的使用，这些密钥是为身份验证提供额外保护层的安全密钥。 FIDO 代表 Fast IDentity Online，是 FIDO 联盟创建的一套开放标准，旨在解决传统基于密码的身份验证的局限性。该内容解释了使用安全密钥的好处，例如提高安全性和防范网络钓鱼尝试。它还提到了一些注意事项，例如钥匙丢失或被盗的风险。作者分享了他们等待 Solokeys V2 的个人经历，并讨论了他们使用 Yubikey 的经历。内容最后建议使用安全密钥，并强调各种网站和平台对安全密钥的支持不断增加。]]></description>
-      <guid>https://t.me/hn_summary/63008</guid>
-      <pubDate>Sat, 09 Dec 2023 05:10:41 GMT</pubDate>
+      <title>理查德·埃文斯·舒尔特斯的亚马逊游记是一个引人入胜的故事，带领读者 [...]</title>
+      <link>https://t.me/hn_summary/63022</link>
+      <description><![CDATA[理查德·埃文斯·舒尔茨的亚马逊游记
+理查德·埃文斯·舒尔特斯的《亚马逊游记》是一个引人入胜的故事，带领读者与世界上最著名的植物学家之一一起穿越亚马逊雨林。理查德·埃文斯·舒尔特斯 (Richard Evans Schultes) 一生致力于研究亚马逊地区的植物和土著文化，该网站提供了了解他的冒险经历的独特视角。从与土著部落的接触到新植物物种的发现，舒尔特斯的工作对我们对亚马逊及其生物多样性的理解产生了深远的影响。对于任何对亚马逊雨林和理查德·埃文斯·舒尔特斯令人难以置信的作品感兴趣的人来说，这个网站是必访之地。]]></description>
+      <guid>https://t.me/hn_summary/63022</guid>
+      <pubDate>Sat, 09 Dec 2023 08:15:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]尽管政府间气候变化专门委员会 (IPCC) 紧急呼吁 [...]</title>
-      <link>https://t.me/hn_summary/63007</link>
-      <description><![CDATA[尽管炎热，尽管海平面上升，尽管栖息地丧失，石油大进军上
-尽管政府间气候变化专门委员会（IPCC）紧急呼吁停止化石燃料生产，但壳牌、埃克森美孚和雪佛龙等主要石油公司仍在继续推进新的石油和天然气项目。自政府间气候变化专门委员会（IPCC）呼吁以来批准的石油和天然气项目中很大一部分都是由这些公司负责的，其中大部分项目背后都有国家支持的公司。此外，印度、沙特阿拉伯和俄罗斯等石油污染国家也制定了雄心勃勃的计划，在未来几年增加石油和天然气产量。化石燃料生产的持续存在对保护区构成了威胁，并加剧了气候变化的影响。]]></description>
-      <guid>https://t.me/hn_summary/63007</guid>
-      <pubDate>Sat, 09 Dec 2023 05:07:34 GMT</pubDate>
+      <title>[媒体]哈勃太空望远镜在经历了三周的失败后恢复了科学观测[...]</title>
+      <link>https://t.me/hn_summary/63021</link>
+      <description><![CDATA[陀螺仪恐慌后哈勃重新投入使用 - NASA 仍在研究重新助推选项&lt; /a&gt;
+在对有问题的陀螺仪进行为期三周的评估后，哈勃太空望远镜已恢复科学观测。陀螺仪是望远镜指向系统的重要组成部分，帮助望远镜瞄准天体。哈勃望远镜上的陀螺仪历来需要维护，2009 年安装的 6 个陀螺仪中有 3 个已经出现故障。其余三件基于更新的设计，使用寿命更长，但其中一件已经出现磨损迹象。 11月份陀螺仪的性能恶化，导致航天器多次进入安全模式。然而，在收集更多数据后，工程师发现可疑的陀螺仪似乎运行良好。]]></description>
+      <guid>https://t.me/hn_summary/63021</guid>
+      <pubDate>Sat, 09 Dec 2023 08:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>此网络内容的作者正在联系黑客新闻社区，介绍他们的 [...]</title>
-      <link>https://t.me/hn_summary/63006</link>
-      <description><![CDATA[请致电 650-460-2286 尝试我们的 AI 助手 – 欢迎反馈&lt; /a&gt;
-该网页内容的作者正在联系黑客新闻社区，介绍他们为餐厅运营设计的人工智能助手。 AI助手专门设计用于通过电话接受订单并将其直接输入到餐厅的POS系统中。他们正在向社区寻求帮助，通过拨打特定的电话号码并提供体验反馈来微调人工智能助手。作者强调，社区的见解对于改进产品至关重要。]]></description>
-      <guid>https://t.me/hn_summary/63006</guid>
-      <pubDate>Sat, 09 Dec 2023 04:53:21 GMT</pubDate>
+      <title>PysimpleGUI 是一个 Python 包，它使用 [...]</title>
+      <link>https://t.me/hn_summary/63020</link>
+      <description><![CDATA[PysimpleGUI
+PysimpleGUI 是一个 Python 包，可使用 tkinter、Qt、WxPython 和 Remi GUI 框架简化用户界面 (UI) 的创建。它将这些框架的复杂窗口定义和事件处理转换为使用列表和字典等 Python 核心数据类型的更简单的界面。该软件包旨在使初学者更容易使用 Python 进行 GUI 编程，并减少创建 UI 所需的代码量。它可用于解决需要 GUI 的问题，并且适用于广泛的应用。作者强调，虽然 PySimpleGUI 简化了 GUI 开发，但它可能不适合需要底层框架所有功能的程序。 （根据 28% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/63020</guid>
+      <pubDate>Sat, 09 Dec 2023 07:52:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]福特和 Resideo 宣布建立 EV-Home Power 合作伙伴关系，旨在使电动汽车 [...]</title>
-      <link>https://t.me/hn_summary/63005</link>
-      <description><![CDATA[福特 F-150 Lightning 很快将提供家用交流电源，可能更便宜比网格
-福特和 Resideo 宣布建立电动汽车家庭电力合作伙伴关系，旨在使电动汽车 (EV) 成为更理想的购买选择。该合作伙伴关系允许电动汽车车主在电价便宜时为车辆充电，并在电网电力昂贵或需求高时使用车辆电池为家庭供电。这不仅有利于消费者，而且还提高了电网的可靠性。福特 F-150 Lightning 已经提供了整个家庭的备用电源选项，通用汽车也将为其 2024 年电动汽车提供双向家庭充电。福特和通用汽车还与太平洋天然气和电力公司合作研究双向充电计划。然而，人们还担心电池退化、隐私和里程焦虑。]]></description>
-      <guid>https://t.me/hn_summary/63005</guid>
-      <pubDate>Sat, 09 Dec 2023 04:41:11 GMT</pubDate>
+      <title>[媒体] 在这篇题为“为魔兽世界提供动力的隐形兔子”的文章中，作者 [...]</title>
+      <link>https://t.me/hn_summary/63019</link>
+      <description><![CDATA[为《魔兽世界》提供动力的隐形兔子（2017）
+在这篇题为“为《魔兽世界》提供动力的隐形兔子”的文章中，作者讨论了《魔兽世界》游戏中隐形生物（特别是兔子）的使用。这篇文章重点介绍了《魔兽世界》遭遇设计师纳撒尼尔·查普曼 (Nathaniel Chapman) 的一条推文，他解释说，隐形生物用于施展法术并执行其他难以实现的功能。作者还提到，使用隐形生物可以节省程序员的时间，因为 NPC（非玩家角色）已经可以执行许多必要的动作。文章最后指出，虽然隐形生物的使用随着时间的推移而减少，但它们仍然存在于游戏中。]]></description>
+      <guid>https://t.me/hn_summary/63019</guid>
+      <pubDate>Sat, 09 Dec 2023 07:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国环境保护署（EPA）已向包装公司发出命令[...]</title>
-      <link>https://t.me/hn_summary/63004</link>
-      <description><![CDATA[EPA 命令包装公司 Inhance 停止生产 PFAS&lt; br/&gt;
-美国环境保护署 (EPA) 已向包装公司 Inhance Technologies 发出命令，停止生产全氟烷基物质和多氟烷基物质 (PFAS)。 PFAS 是一组人造化学物质，与一系列健康问题有关。 Inhance Technologies 是美国最大的 PFAS 制造商之一，该命令标志着 EPA 在监管和减少这些有害物质的使用方面迈出了重要一步。围绕 PFAS 的争议及其对人类健康的潜在影响一直是持续争论和关注的主题。]]></description>
-      <guid>https://t.me/hn_summary/63004</guid>
-      <pubDate>Sat, 09 Dec 2023 04:37:03 GMT</pubDate>
+      <title>[媒体] 网页内容是实施 GTD（Getting Things Done）框架的指南 [...]</title>
+      <link>https://t.me/hn_summary/63018</link>
+      <description><![CDATA[15 分钟 GTD – 完成工作的实用指南
+Web 内容是实现由 David Allen 创建的 GTD（Getting Things Done）框架的指南。作者解释说，GTD不仅仅是一个待办事项列表系统，旨在帮助用户对组织和跟踪任务和项目的系统产生100%的信任。作者强调了将任务和想法转化为实际可见行动的重要性。内容解释了需要维护的不同列表，例如用于捕获出现的想法和任务的“in”列表，以及处理和组织这些列表的过程。作者强调了为每项任务确定下一个物理和可见动作的重要性。总体而言，该内容为实施 GTD 提供了实用指南。 （根据故事文本的 36% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63018</guid>
+      <pubDate>Sat, 09 Dec 2023 07:24:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最著名的彗星哈雷彗星，正开始其返回地球的旅程[...]</title>
-      <link>https://t.me/hn_summary/63003</link>
-      <description><![CDATA[哈雷彗星今晚开始其长达 38 年的返回地球之旅
-最著名的彗星哈雷彗星在 38 年后开始返回地球。这颗彗星沿着椭圆轨道运行，先靠近太阳，然后远离太阳系。 12月8日，彗星将到达远日点，这是它距太阳最远的点，距离太阳32.7亿英里。然后，当它向太阳移动时，它会慢慢开始增加速度。 2061年，这颗彗星将再次出现，在早晨和傍晚的天空中可见，并且比1986年最后一次出现时明亮10倍。作者希望未来光污染不会阻碍彗星的视野。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/63003</guid>
-      <pubDate>Sat, 09 Dec 2023 04:27:53 GMT</pubDate>
+      <title>问 HN：有人教电子表格架构吗？</title>
+      <link>https://t.me/hn_summary/63017</link>
+      <description><![CDATA[问 HN：有人教电子表格架构吗？&lt; br/&gt;
+我很好奇是否有人有机会在正式的课堂环境中学习电子表格架构，无论是在高中还是大学。我特别感兴趣的是了解如何有效地设计和使用电子表格。听到有关此主题的课程或资源的任何经验或建议将是很有趣的。]]></description>
+      <guid>https://t.me/hn_summary/63017</guid>
+      <pubDate>Sat, 09 Dec 2023 06:56:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
