@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Dec 2023 18:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 21:10:40 GMT</lastBuildDate>
     <item>
-      <title>在 JavaScript 中测试断言样式</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ej5la/test_assertion_styles_in_javascript/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ej5la/test_assertion_styles_in_javascript/</guid>
-      <pubDate>Sat, 09 Dec 2023 18:01:36 GMT</pubDate>
+      <title>[周六炫耀]我制作了一个仅限开发人员的工作板</title>
+      <link>https://www.reddit.com/r/webdev/comments/18emoij/showoff_saturday_i_made_a_developer_only_job_board/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/48iczp1pzb5c1.png?width=3428&amp;format=png&amp;auto=webp&amp;s=ccf97271082ea8 b1603e098cdc0a5a0c55f54d48&lt; /p&gt;   由   提交 /u/codingknite   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18emoij/showoff_saturday_i_made_a_developer_only_job_board/</guid>
+      <pubDate>Sat, 09 Dec 2023 20:46:29 GMT</pubDate>
     </item>
     <item>
-      <title>对 Linux 权限和 SQLite 感到非常沮丧</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ej1x0/so_frustrated_with_linux_permissions_and_sqlite/</link>
-      <description><![CDATA[问题：我正在运行一个写入 SQLite 数据库的 C 脚本，并且昨天运行良好。我尝试将数据库文件移出 /var/www/html 文件夹，但不知何故破坏了权限。现在我尝试重置所有内容，但我根本无法让脚本写入数据库。我几乎可以肯定这是某种权限问题。我以前把这个搞砸了，昨天当我让它工作时，我写下了设置： 重要：html 上的权限所有者 pi:www-data 和 html/* 770 上的。 db 和 775 在 html 文件夹上 现在，我已经在 html 文件夹及其内部的所有内容上创建了所有者 pi:pi、www-data:www-data、pi:www-data 和 chmod 777仍然不会写入数据库。是否还有其他原因导致权限错误？我有什么遗漏的吗？我要疯了！请帮忙！ 我正在运行这个程序，按照说明操作后，昨天它运行得很好，文件所有者的例外情况是 pi:www-data   由   提交 /u/Produkt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ej1x0/so_frustrated_with_linux_permissions_and_sqlite/</guid>
-      <pubDate>Sat, 09 Dec 2023 17:56:57 GMT</pubDate>
+      <title>当我等待创建后端端点时，我可以采取什么方向来模拟前端的（关系？）数据结构？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18embgq/what_direction_can_i_take_to_mock_a_relational/</link>
+      <description><![CDATA[我认为这被认为是关系数据。一个模型有许多另一个模型......等等。  我有一堆代码仍在等待后端团队。我们希望获得一些假数据设置供前端临时服务器使用，以便我们可以在等待创建后端端点时运行整个应用程序。 我最初使用 MirageJS但它似乎与文档一起过时了。然后我开始使用 mswjs 及其 mswjs 数据包 ​ https:/ /github.com/mswjs/msw https://github.com/mswjs/data ​ 但是数据包不提供多态关系。 ​ 什么我可以求助的另一个选择？我的目标如下： - 模拟 API 端点（使用 msw 处理）：white_check_mark:  - 为可以相互关联的不同模型设置数据结构 - 最好使用模型工厂来播种数据模型，我可以在其中使用自己的数据（将使用 Faker.js） ​ 来自我的内容明白吗，这就是所谓的 ORM 吗？如果可能的话，我宁愿不使用数据库服务器，并将其全部运行在内存中，当页面刷新时，数据不需要保留。 ​ 我愿意接受其他选项/方向，这些选项/方向最终可以让我得到我想要的。   由   提交 /u/Skarneh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18embgq/what_direction_can_i_take_to_mock_a_relational/</guid>
+      <pubDate>Sat, 09 Dec 2023 20:29:23 GMT</pubDate>
     </item>
     <item>
-      <title>[noob] 为 Firefox 移动版生成输入文本建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eizyp/noob_generate_input_text_suggestions_for_firefox/</link>
-      <description><![CDATA[Web 开发人员您好，我有一个菜鸟问题（我是一名系统管理员，而不是真正的开发人员 - 渴望并愿意学习新事物）：  我制作了一个 Flask 应用程序，但我似乎无法理解遇到的一个问题：在 Android 版 Firefox（我的首选浏览器）上，我没有收到项目建议。&lt; /p&gt; 它们适用于我尝试过的所有其他浏览器（Chrome、Brave、三星浏览器）。 这里（我认为）是相关代码： ​ &lt;datalist id=“datalist_items”&gt; {% for i in dl_items %} &lt;选项值=“{{ i }}”&gt; {% endfor %} &lt;/datalist&gt;  ​ .... Item&lt;输入类=“form-control”类型=“文本” id=“项目0”；名称=“项目0”；列表=“datalist_items” onchange=&quot;populatePrice(0)&quot;; placeholder=&quot;产品名称&quot;&gt; ...  ​ 任何人都可以告诉我这是否是“已知”的东西吗？对于 Firefox，或者我可能会丢失一些东西？ ​ 谢谢   由   提交/u/lolinux   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eizyp/noob_generate_input_text_suggestions_for_firefox/</guid>
-      <pubDate>Sat, 09 Dec 2023 17:54:25 GMT</pubDate>
+      <title>我应该将我的 Web 应用程序重建为 SPA 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18em6d1/should_i_rebuild_my_web_app_as_an_spa/</link>
+      <description><![CDATA[大约一年前，我构建了一个网络应用程序来为潜在客户解决问题，但他们决定不再继续推进。现在我与同一家公司的所有者就同一个应用程序进行了会面。 问题是，我用 Laravel 构建了它。我喜欢 Laravel，并且我已经在服务器上做了很多工作，但是 Vue/Nuxt 提供了很棒的工具来实现令人愉快的用户体验。我尝试过使用 Laravel 实现 Vue，这确实令人头疼。 我应该从 Nuxt 开始并使用像 supabase 这样的第三方后端服务吗？  .blade 可以促进 SPA 吗？ 或者我应该坚持使用良好的老式 SSR，每次点击时都会加载整个页面？   由   提交/u/treading0light  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18em6d1/should_i_rebuild_my_web_app_as_an_spa/</guid>
+      <pubDate>Sat, 09 Dec 2023 20:22:49 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了 CopilotKit，一个用于构建应用内人工智能聊天机器人和人工智能驱动的文本区域的反应框架 [Showoff Saturday]</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eisse/i_made_copilotkit_a_react_framework_for_building/</link>
-      <description><![CDATA[       由   提交/u/kindly_formation71   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eisse/i_made_copilotkit_a_react_framework_for_building/</guid>
-      <pubDate>Sat, 09 Dec 2023 17:44:53 GMT</pubDate>
+      <title>需要有关 Firefox 扩展开发问题的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/18em153/need_help_with_a_firefox_extensions_development/</link>
+      <description><![CDATA[大家好， 我正在尝试创建一个 Firefox 扩展，该扩展列出了 devtool 选项卡扩展中的所有 span 元素。&lt; /p&gt; 我的目标是在 devtool 选项卡扩展中获取当前站点的所有 span 元素的列表，但我似乎无法找到为什么我的代码甚至没有记录除 [Object Promise] 之​​外的任何内容 非常感谢任何和所有帮助！ document .getElementById(&quot;previewForm&quot;) .addEventListener(&quot;submit&quot;, async () =&gt; { let result = wait browser .devtools.inspectedWindow .eval(&quot;document.getElementsByTagName(&#39;span&#39;)&quot;) .then((result) =&gt; { return result.value; }) .catch((err) =&gt; { result = err ; }); //尝试只记录找到的元素，但这仅记录：[Object Promise] browser.devtools.inspectedWindow.eval(&#39;console.log(&quot;&#39; + result + &#39;&quot;)&#39;); }) ;  ​   由   提交/u/1-Ruben  /u/1-Ruben reddit.com/r/webdev/comments/18em153/need_help_with_a_firefox_extensions_development/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18em153/need_help_with_a_firefox_extensions_development/</guid>
+      <pubDate>Sat, 09 Dec 2023 20:15:54 GMT</pubDate>
     </item>
     <item>
-      <title>帮助我找出 DRF 移动应用程序的架构和堆栈（个人项目）</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eiizp/help_me_figure_out_architecture_and_stack_for_a/</link>
-      <description><![CDATA[大家好，我作为全栈 Django 开发人员已经有几年了，但对于一家非常小的初创公司来说，我们从未真正摆脱我们的束缚。技术泡沫，我个人也没有自己的项目。 我想为自己制作一个简单的 Android 应用程序来跟踪和评价健康饮食，以此作为开始熟悉当今架构的机会。  p&gt; 我正在考虑将 DRF 用于后端（之前从未使用过 DRF），将原生 Kotlin 用于 Android 前端。  但是我不想要本地数据库，我想借此机会使用云服务（以前从未有过），但当然它需要免费，因为这只是一个个人项目，我想也许是Neon。但是 Heroku 或 Google Cloud 怎么样？也许还有一些用于身份验证的东西？ 一般有什么建议吗？ PS：我在 r/webdev 而不是移动应用 subreddit，因为我是一名 Web 开发人员，正在寻找从 Web 开发到移动应用开发过渡的见解。 &lt;!-- SC_ON - -&gt;  由   提交 /u/bay_squid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eiizp/help_me_figure_out_architecture_and_stack_for_a/</guid>
-      <pubDate>Sat, 09 Dec 2023 17:31:49 GMT</pubDate>
+      <title>我为旅行大麻消费者创建了一个网站，以检查您当前所在位置的合法性</title>
+      <link>https://www.reddit.com/r/webdev/comments/18elk9b/i_made_a_site_for_traveling_cannabis_consumers_to/</link>
+      <description><![CDATA[在此处访问该网站 – https://www.isweedlegalhere.com / 在大麻技术领域工作了几年后，我亲眼目睹了立法的疯狂，尤其是在美国。我和几个朋友借此机会构建了一个工具，可以帮助人们根据您当前的位置更轻松地了解有关大麻的法律。发送您的功能请求并让我知道您的想法！ 这是已经在开发中的下一组功能 –  允许手动输入位置以检查您要去的地方的合法性 社会容忍度 合法除草的状况    由   提交 /u/howie-doin-today   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18elk9b/i_made_a_site_for_traveling_cannabis_consumers_to/</guid>
+      <pubDate>Sat, 09 Dec 2023 19:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>Google 不会更新搜索结果中我的网站图标 - Next JS</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ehxev/google_wont_update_my_favicon_in_the_search/</link>
-      <description><![CDATA[我使用 Next JS 制作了一个网站。我添加了一个网站图标，如果您访问 example.com/favicon.ico 我的网站图标会清晰显示。该图标出现在所有浏览器的浏览器选项卡中。当网站“安装”后，该网站图标也会出现在 iPhone 上。到主屏幕。然而，谷歌一直显示我几个月来用作占位符的旧图标。我还有标签   显示在实时网站中。 我已在搜索控制台中请求机器人抓取我的网站，并且每次都会显示抓取已成功完成。我已经这样做了 10 次，等了一个月才改变，但没有任何改变。 对我做错了什么有什么建议吗？  &amp; #32；由   提交 /u/TheBananaTheory   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ehxev/google_wont_update_my_favicon_in_the_search/</guid>
-      <pubDate>Sat, 09 Dec 2023 17:03:51 GMT</pubDate>
+      <title>现有应用程序使用的图标</title>
+      <link>https://www.reddit.com/r/webdev/comments/18elcrs/icons_used_by_existing_apps/</link>
+      <description><![CDATA[在哪里可以获取其他 Reddit 应用（如 Meta、Robinhood 等）使用的图标？ thnx   由   提交 /u/saman_pulchri   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18elcrs/icons_used_by_existing_apps/</guid>
+      <pubDate>Sat, 09 Dec 2023 19:44:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] AI 机器人自动将相关问题链接到 PR</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ehwox/showoff_saturday_ai_bot_to_link_related_isues_to/</link>
-      <description><![CDATA[      看似微小但具有变革性的东西 - 链接所有与 PR 相关的问题   由   提交 /u/gitcommitshow   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ehwox/showoff_saturday_ai_bot_to_link_related_isues_to/</guid>
-      <pubDate>Sat, 09 Dec 2023 17:02:53 GMT</pubDate>
+      <title>我制作了一个与域无关的随机名称生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/18el83b/i_made_a_domain_agnostic_random_name_generator/</link>
+      <description><![CDATA[      我制作了一个随机名称生成器，它可以在输入列表上进行自我训练，并生成也属于该域或与该域配合良好的名称。目前，它包括人类名字、宠物名字、魔兽世界名字、钥匙和名字。皮尔足球运动员姓名和《星际迷航》飞船名称。 ​  随机名称生成器应用程序：https://bytethisstore.com/tools/pg/random-name-generator 我是如何构建的：https://bytethisstore.com/articles/pg/random-name-generator   ​ 示例运行包括克林贡船名和钥匙及钥匙皮尔足球名称   由   提交/u/byte-this  /u/byte-this reddit.com/r/webdev/comments/18el83b/i_made_a_domain_agnostic_random_name_generator/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18el83b/i_made_a_domain_agnostic_random_name_generator/</guid>
+      <pubDate>Sat, 09 Dec 2023 19:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Glitch 排序社交媒体流</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eho4v/sortasocialmedia_streams_using_glitch/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/freshman_dev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eho4v/sortasocialmedia_streams_using_glitch/</guid>
-      <pubDate>Sat, 09 Dec 2023 16:52:05 GMT</pubDate>
+      <title>寻找无头 cms 解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/18el2nm/looking_for_a_headless_cms_solution/</link>
+      <description><![CDATA[当然，我可以帮助你。以下是您的英文文本的修订版本： 嗨， 我是一名 40 岁的前 Web 开发人员，目前担任项目经理。自从我上次使用代码以来已经三年了，所以我的技能有些过时了。但是，我计划为朋友的企业开发一个预订系统。他们经营激光标签竞技场，每个竞技场都提供各种游戏类型。该系统应使客户能够预留玩激光标签的位置。另外还应该包括客户管理、在线支付、用户管理、统计等等。 我对Vue.js和Node.js相当精通。我读过一些可定制的开源解决方案，如 Strapi、Directus、Payload CMS 等。由于我的时间有限，我无法尝试所有这些解决方案。您能否推荐最适合我的需求的其中一个或另一个选项？如果没有……技术堆栈是什么？ Vuejs + Express 结合？  谢谢！   由   提交/u/fm2683  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18el2nm/looking_for_a_headless_cms_solution/</guid>
+      <pubDate>Sat, 09 Dec 2023 19:31:04 GMT</pubDate>
     </item>
     <item>
-      <title>Javascript真的是10天内做出来的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18egnug/was_javascript_really_made_in_10_days/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18egnug/was_javascript_really_made_in_10_days/</guid>
-      <pubDate>Sat, 09 Dec 2023 16:04:30 GMT</pubDate>
+      <title>我制作了一个网络应用程序，可以帮助讲故事的人编写和组织他们的故事 - fortellr</title>
+      <link>https://www.reddit.com/r/webdev/comments/18eksko/i_made_a_web_app_that_helps_storytellers_write/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/bossmangam3r   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18eksko/i_made_a_web_app_that_helps_storytellers_write/</guid>
+      <pubDate>Sat, 09 Dec 2023 19:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>[周六炫耀]我制作了一个构建仪表板的工具来简化您的一天</title>
-      <link>https://www.reddit.com/r/webdev/comments/18egk58/showoff_saturday_i_made_a_tool_to_build/</link>
-      <description><![CDATA[       由   提交/u/Radiant-Run4940  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18egk58/showoff_saturday_i_made_a_tool_to_build/</guid>
-      <pubDate>Sat, 09 Dec 2023 16:00:02 GMT</pubDate>
+      <title>我做了一个网站，可以让你自由查看大公司的投资情况</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ekhp4/i_made_a_site_that_allows_you_to_freely_view_the/</link>
+      <description><![CDATA[ 由   提交/u/bruhbruhroblox  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ekhp4/i_made_a_site_that_allows_you_to_freely_view_the/</guid>
+      <pubDate>Sat, 09 Dec 2023 19:03:50 GMT</pubDate>
     </item>
     <item>
-      <title>在过去的两年里，我花了 1000 多个小时来收集免费的项目教程和 Web 开发项目的示例，您可以在周末完成。我在名为“周末网络开发”的每周时事通讯中分享它们。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18egh9y/ive_spent_1000_hours_over_the_past_two_years/</link>
-      <description><![CDATA[   /u/dp234523  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18egh9y/ive_spent_1000_hours_over_the_past_two_years/</guid>
-      <pubDate>Sat, 09 Dec 2023 15:56:07 GMT</pubDate>
+      <title>漫画/漫画网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/18eka0u/mangacomic_website/</link>
+      <description><![CDATA[我对网页设计的了解为零。对 html、css、javascript 以及创建网站过程中使用的任何其他东西一无所知。但我想创建一个自己的漫画/漫画阅读网站（发布我自己的作品），所以我来这里请求您帮助/指导我应该如何/从哪里开始学习所有这些语言以及我所拥有的所有内容为了创造我想要的东西。任何帮助表示赞赏！如果您觉得更好，可以在 dm 上给我发短信。  如果这不是要求这个的正确子，我很抱歉。因为我对这个问题一无所知，所以我不确定问这个问题的最佳替代者是什么，所以是的，我的错 &lt;！-- SC_ON --&gt;  由   提交/u/deathzakido  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18eka0u/mangacomic_website/</guid>
+      <pubDate>Sat, 09 Dec 2023 18:54:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 我制作了 floppy.cafe，一个外观复古的网站，详细介绍了软盘驱动器的工作原理</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eg4ik/showoff_saturday_i_made_floppycafe_a_retrolooking/</link>
-      <description><![CDATA[       由   提交 /u/__noodlejs__   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eg4ik/showoff_saturday_i_made_floppycafe_a_retrolooking/</guid>
-      <pubDate>Sat, 09 Dec 2023 15:39:03 GMT</pubDate>
+      <title>将您的数据分析工作流程加快 10 倍 - 非常适合需要偶尔分析的 Web 开发人员！</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ek5q8/speed_up_your_data_analytics_workflow_by_10x/</link>
+      <description><![CDATA[       由   提交/u/data-leon  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ek5q8/speed_up_your_data_analytics_workflow_by_10x/</guid>
+      <pubDate>Sat, 09 Dec 2023 18:48:31 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个网络应用程序，可以让您轻松构建漂亮的家谱</title>
-      <link>https://www.reddit.com/r/webdev/comments/18efnt3/i_made_a_web_app_that_lets_you_build_nice_looking/</link>
-      <description><![CDATA[   /u/HoneydewValuable408  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18efnt3/i_made_a_web_app_that_lets_you_build_nice_looking/</guid>
-      <pubDate>Sat, 09 Dec 2023 15:16:19 GMT</pubDate>
+      <title>我们正在为人工智能代理构建云运行时，并逐步开源一切</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ejypt/were_building_cloud_runtime_for_ai_agents_and/</link>
+      <description><![CDATA[   /u/mlejva  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ejypt/were_building_cloud_runtime_for_ai_agents_and/</guid>
+      <pubDate>Sat, 09 Dec 2023 18:39:26 GMT</pubDate>
     </item>
     <item>
-      <title>帮助保存和下载</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eflks/help_with_saves_and_download/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eflks/help_with_saves_and_download/</guid>
-      <pubDate>Sat, 09 Dec 2023 15:13:24 GMT</pubDate>
+      <title>有没有办法在普通 css 中获取情感 css 样式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ejqma/is_there_a_way_to_get_emotioncss_styles_in_plain/</link>
+      <description><![CDATA[有一个网站，我想获取其所有 css 样式，我遇到的问题是他们用 React 制作并使用了某种情感js css 库。所以问题是没有实际的CSS代码可供我查看，有人知道如何获取网站的CSS吗？   由   提交/u/Sigillum_Dei   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ejqma/is_there_a_way_to_get_emotioncss_styles_in_plain/</guid>
+      <pubDate>Sat, 09 Dec 2023 18:28:52 GMT</pubDate>
     </item>
     <item>
-      <title>对我的职业失去动力</title>
-      <link>https://www.reddit.com/r/webdev/comments/18eexv3/losing_motivation_towardw_my_profession/</link>
-      <description><![CDATA[大家好，26M 软件开发人员 (Laravel)，来自菲律宾，是养家糊口的人。 就这样吧。我已经在这家荷兰公司远程工作了 2 年多，而且我是目前唯一的开发人员。相对于我所在的位置，薪水不错。唯一的缺点是，它是一个遗留的原生 PHP 代码库，起初，它很充实，因为我有机会改进这个非常古老的原生代码库，应用最新的技术、设计模式、标准等，我最初认为这是一次很好的经历。然而，随着时间的推移，我认为这不再值得了，它变成了一种压力，我觉得我把每一分钟都花在这份工作上是在浪费生命，我只想和 Laravel 一起工作。现在，你们中的一些人会说“只要找到一份 Laravel 工作，简单”，是的，已经尝试了数百万次，但了解我的国家，有很多本地 Laravel 工作，但薪水只是我的 1/8”我目前有收入，但我不能离开目前的工作，因为我要养家糊口。 Laravel 工作对于国际申请者来说也很稀缺，雇主大多更喜欢当地人，即使工作环境很偏远。 现在，我一直在做个人 Laravel 项目来应对我所有的挫败感，但我只能写不完，太累了，找不到动力，现在的工作影响了我对编程的整体热情。 你们有同样经历吗？如果是这样，您是如何克服这个困境的？   由   提交 /u/Bag_Calm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18eexv3/losing_motivation_towardw_my_profession/</guid>
-      <pubDate>Sat, 09 Dec 2023 14:39:44 GMT</pubDate>
+      <title>我制作了一个应用程序来帮助您更好地使用 TypeScript。免费且开源！</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ejjef/i_made_an_app_to_help_you_get_better_at/</link>
+      <description><![CDATA[       由   提交 /u/bautistaaa   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ejjef/i_made_an_app_to_help_you_get_better_at/</guid>
+      <pubDate>Sat, 09 Dec 2023 18:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
