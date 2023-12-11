@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Dec 2023 12:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 15:13:39 GMT</lastBuildDate>
+    <item>
+      <title>distinstall-python ：通用 Linux 发行版安装框架/库和 CLI 实用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/18fv1p8/distinstallpython_universal_linux_distribution/</link>
+      <description><![CDATA[      大家好！ 已经有一段时间了，首先，我刚刚推送了distinstall-python v0.4.0（名称是临时的，仍然是WIP，因此我接受任何命名建议！请随时提出建议，谢谢！） 正如我在自述文件中提到的，这是对我之前的便携式 Linux 发行版安装脚本（名为 distro-installscript-arch）的完全重写，该脚本使用 ArchLinux 作为其基本开发概念，并使用 Bash shellscripting 编写，您可能会这样回想一下以前的内容 现在用 python 重写了（如果对项目更好的话可能会尝试一下 golang，请随时告诉我你的想法），从 v0.4.0 开始，以下功能发生了变化，新增内容包括但不限于：  基于发行版实现的安装模板的可用性的多发行版支持  目前，ArchLinux 正在可用  安装库/模板现已作为独立的“框架”进行设计和测试。目的是最终将其打造成一个具有框架项目结构的合适框架，并清理一些 UI/UX  这意味着您可以创建自己的 Setup() 类， main.py 和 runner 文件， 然后相应地导入库  请参阅 USAGE.md 和 wiki.md 了解如何执行此操作    如果您尝试从与目标发行版不同的系统安装发行版，则支持通过 docker 设置 chroot 环境  多存储控制器支持  AHCI/SATA、NVME 和 Loopbacl 设备  新选项：  显式阶段编号执行、 列出所有受支持的阶段以及 从 cli 选项卸载所有挂载目录  过去版本中的一些有用选项  显式指定要导入和使用/生成的自定义配置文件名 使用“-m”显式指定模式选项 使用“-g | 生成配置文件” --generate&quot;  demo.md 中的演示 GIF 测试正在进行 &lt; ul&gt; MSDOS/GPT ：经测试可在 bash shellscript 项目中工作，但只是想采取预防措施 BIOS/UEFI ：经测试可在 bash shellscript 项目中工作，但想采取预防措施预防也是如此   总结一下，其核心思想仍然是模块化、可扩展性和定制化。您可以通过复制现有的 ArchLinux 类作为核心功能，使用框架有效地添加您自己的安装程序模板，然后您可以继续添加您自己的个人功能 一如既往，请随意 dm 或评论如果您遇到任何问题和/或想要提出拉取请求，如果您想改进任何内容或只是为了一般性讨论，请贡献！ 感谢您的阅读，并希望您喜欢这个实用程序我做到了   由   提交 /u/Cybasura   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18fv1p8/distinstallpython_universal_linux_distribution/</guid>
+      <pubDate>Mon, 11 Dec 2023 13:53:49 GMT</pubDate>
+    </item>
     <item>
       <title>不完全是。您如何信任开源网络应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/18frm3y/no_really_how_can_you_trust_opensource_web_apps/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>我希望我的游戏开源，但我对如何开源感到困惑</title>
       <link>https://www.reddit.com/r/opensource/comments/18es92w/i_want_my_game_to_be_open_source_but_i_am/</link>
-      <description><![CDATA[所以我计划制作一款游戏并根据 gpl 授权它，但我很困惑，因为我不熟悉复杂的细节，所以在这里是我的担忧和问题： 1-我计划完成所有编程和大部分艺术，我的艺术是否也属于 gpl 许可证（这就是我希望的）  2-我将使用一些免费资源，艺术家说您可以随心所欲地使用，只需要求注明他们的作品（注明是可选的），这是我的 foss/gpl 作品的一部分还是单独的，我如何保证这一点。  3- 与上一个问题相同，但这次是声音，我计划使用 freemusicarchive.org 和 freesounds.org 等网站，但很多可用的工作都在 CC-BY-SA 下，这意味着我的工作需要属于相同的许可证，gpl 相当于 CC-BY-SA，如果不是，我能做什么，我的游戏可以在 CC-BY-SA 下吗，代码可以是 gpl，以及其他一切 CC-BY-SA ？  4-最后一个问题，可以出售游戏吗？还是需要免费才能免费和开源，如果是的话，出售游戏是否违背了开源精神？如果我错了，我觉得这样做是不道德或卑鄙的，请纠正我，或者游戏可以定价并且代码可以使用吗？ 如果有任何提前回复，我会很感激，并且很抱歉有点长，我只是太困惑了，只想把一切做好   由   提交/u/Ba3ouch27  [链接] [评论]]]></description>
+      <description><![CDATA[所以我计划制作一款游戏并根据 gpl 授权它，但我很困惑，因为我不熟悉复杂的细节，所以在这里是我的担忧和问题： 1-我计划完成所有编程和大部分艺术，我的艺术是否也属于 gpl 许可证（这就是我希望的）  2-我将使用一些免费资源，艺术家们说你可以随心所欲地使用，只需要求注明他们的作品（注明是可选的），这是我的 foss/gpl 作品的一部分还是单独的，我如何保证这一点。  3- 与上一个问题相同，但这次是声音，我计划使用 freemusicarchive.org 和 freesounds.org 等网站，但很多可用的工作都在 CC-BY-SA 下，这意味着我的工作需要属于相同的许可证，gpl 相当于 CC-BY-SA，如果不是，我能做什么，我的游戏可以在 CC-BY-SA 下吗，代码可以是 gpl，以及其他一切 CC-BY-SA ？  4-最后一个问题，可以出售游戏吗？还是需要免费才能免费和开源，如果是的话，出售游戏是否违背了开源精神？如果我错了，我觉得这样做是不道德或卑鄙的，请纠正我，或者游戏可以定价并且代码可以使用吗？ 如果有任何提前回复，我会很感激，并且很抱歉有点长，我只是太困惑了，只想把一切做好   由   提交/u/Ba3ouch27  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18es92w/i_want_my_game_to_be_open_source_but_i_am/</guid>
       <pubDate>Sun, 10 Dec 2023 01:23:19 GMT</pubDate>
     </item>
     <item>
       <title>开源钱包应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/18epads/open_source_wallet_app/</link>
-      <description><![CDATA[基本上就是标题所说的。一直在寻找 Google 钱包（存储卡）的开源替代品，但互联网上的简单搜索仅显示加密钱包应用程序。 理想情况下，它将信息存储在自托管服务器中或仅存储在本地在设备上（具有导出/备份功能）。 如果它还不存在，我会感到惊讶，因为大多数卡（不是银行卡，而是像保真卡这样的特定卡）只是带有条形码的字符串. 提前致谢 编辑：我不太关心银行运营（例如使用应用程序付款或存储信用卡），我主要关心保真卡，因为我不关心真的很喜欢随身携带所有这些。存储门票和其他方便的东西的 PDF 也很酷。   由   提交 /u/VewixxPlayer   [链接] [评论]]]></description>
+      <description><![CDATA[基本上就是标题所说的。一直在寻找 Google 钱包（存储卡）的开源替代方案，但互联网上的简单搜索仅显示加密钱包应用程序。 理想情况下，它将信息存储在自托管服务器中或仅存储在本地在设备上（具有导出/备份功能）。 如果它还不存在，我会感到惊讶，因为大多数卡（不是银行卡，而是像保真卡这样的特定卡）只是带有条形码的字符串. 提前致谢 编辑：我不太关心银行运营（例如使用应用程序付款或存储信用卡），我主要关心保真卡，因为我不关心真的很喜欢随身携带所有这些。存储门票和其他方便的东西的 PDF 也很酷。   由   提交 /u/VewixxPlayer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18epads/open_source_wallet_app/</guid>
       <pubDate>Sat, 09 Dec 2023 22:52:17 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>开始为开源数据库管理系统做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/18ehffe/start_to_contribute_to_open_source_database/</link>
-      <description><![CDATA[嘿，我是新来的！ TLDR：了解您对为开源数据库管理系统做出贡献的看法 我最近完成了计算机科学的本科学业，我愿意找到一个我可以专注并获得更多知识并且能够为社区做出贡献/回馈社区的利基领域。另外，在获得更多知识后，我计划攻读与之相关的硕士学位。 我真的很喜欢算法和数据结构及其对性能的影响，以及并发和分布式计算（尽管在过去的经验较少）一）。 因此，数据库似乎是一个值得关注和专业化的非常好的领域。另外，我得到的任何 CRUD 工作都会有一个数据层，因此在这个领域非常出色将有助于在情况恶化时成为首选人员。 我看到很多流行的数据库主要是开放的-source（MySQL、postgresql、redis、cassandra），因此为它们做出贡献似乎是一个不错的选择。但我不知道我的逻辑是否有意义。 所以，我想知道你的看法： - 你同意这个推理吗？如果没有，为什么？ - 关于如何开始为此类项目做出贡献有什么建议吗？我有一些开源经验，但不是那么多 - 尝试将硕士项目融入这种背景有意义吗？ - 您会选择什么项目？ 提前致谢！   由   提交 /u/pauloamed   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我是新来的！ TLDR：了解您对为开源数据库管理系统做出贡献的看法 我最近完成了计算机科学专业的本科学业，我愿意找到一个我可以专注并获得更多知识并且能够为社区做出贡献/回馈社区的利基领域。另外，在获得更多知识后，我计划攻读与之相关的硕士学位。 我真的很喜欢算法和数据结构及其对性能的影响，以及并发和分布式计算（尽管在过去的经验较少）一）。 因此，数据库似乎是一个值得关注和专业化的非常好的领域。另外，我得到的任何 CRUD 工作都会有一个数据层，因此在这方面非常出色将有助于在情况恶化时成为首选人员。 我看到很多流行的数据库主要是开放的-source（MySQL、postgresql、redis、cassandra），因此为它们做出贡献似乎是一个不错的选择。但我不知道我的逻辑是否有意义。 所以，我想知道你的看法： - 你同意这个推理吗？如果没有，为什么？ - 关于如何开始为此类项目做出贡献有什么建议吗？我有一些开源经验，但不是那么多 - 尝试将硕士项目融入这种背景有意义吗？ - 您会选择什么项目？ 提前致谢！   由   提交 /u/pauloamed   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18ehffe/start_to_contribute_to_open_source_database/</guid>
       <pubDate>Sat, 09 Dec 2023 16:40:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我需要一个 pdf 查看器/编辑器，它可以执行 Microsoft Edge 的功能（突出显示、绘制、擦除、添加文本和添加注释），但是在一个单独的软件中，这样它就不会像提到的浏览器那样消耗那么多能量（占用我电池的 92% 以上）。我正在寻找的软件需要是免费的并且是本地的（不是在线或在网络浏览器上）。   由   提交/u/bortan12  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18edvro/pdf_viewereditor/</guid>
       <pubDate>Sat, 09 Dec 2023 13:43:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何自由和开源白板动画软件吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18ecs5t/any_foss_whiteboard_animation_software/</link>
-      <description><![CDATA[我正在寻找一款可以制作白板动画/讲解视频的软件...但我在 YouTube 和 Chrome 上找不到任何软件。我点击的所有内容都只是试验和点击诱饵，即使在互联网博客上也是如此 ☹️   由   提交 /u/TheExterminatorZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18ecs5t/any_foss_whiteboard_animation_software/</guid>
-      <pubDate>Sat, 09 Dec 2023 12:39:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
