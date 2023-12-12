@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 12 Dec 2023 12:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 15:12:52 GMT</lastBuildDate>
+    <item>
+      <title>制作Mac软件真的那么难吗？</title>
+      <link>https://www.reddit.com/r/software/comments/18gntm9/is_it_really_that_hard_to_make_mac_software/</link>
+      <description><![CDATA[我是一名法庭记者，我使用的软件仅限 HP。我讨厌惠普。我在生活的各个方面都是Mac用户，但我被迫在工作中使用HP。我的 HP 已经快没了，我只用它来工作。编写一个在 Mac 上运行的软件有多难？我已经尝试过 Parallels，但它无法正常工作。我不能让 HP 软件在听证会期间在 Mac 上出现故障，这种事根本不可能发生。有人有建议吗？    由   提交 /u/Suspicious-Dot1954    reddit.com/r/software/comments/18gntm9/is_it_really_that_hard_to_make_mac_software/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18gntm9/is_it_really_that_hard_to_make_mac_software/</guid>
+      <pubDate>Tue, 12 Dec 2023 15:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找在线视频会议工具或软件</title>
+      <link>https://www.reddit.com/r/software/comments/18glweo/looking_for_an_online_video_meeting_tool_or/</link>
+      <description><![CDATA[我需要一个具有  视频录制功能的解决方案 存储那些录制的视频材料安全地存储在云端 并且如果可能的话还具有平台内屏幕共享功能（例如google meet或zoom）    由   提交/u/sketchshoots  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18glweo/looking_for_an_online_video_meeting_tool_or/</guid>
+      <pubDate>Tue, 12 Dec 2023 13:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试识别图形软件</title>
+      <link>https://www.reddit.com/r/software/comments/18glewe/trying_to_identify_a_graphics_software/</link>
+      <description><![CDATA[您好，我正在观看一个视频，其中一个人在 Youtube 视频中展示了一个图形软件，我只能获得该软件徽标的像素化屏幕截图，即字母“L”，将其输入反向搜索没有给出图形软件，用软件的用户界面输入也没有结果。尝试在评论部分提问，但没有给出回复。非常感谢您的帮助！  编辑：名为“Leanardo”的软件 https://preview.redd.it/aaftk4ch4v5c1.png?width=60&amp;format=png&amp;auto=webp&amp;s=4165979811b8df53e9ca4d690632e06 6625b35e5 https://preview.redd.it/kxn1fohg4v5c1.png?width= 1919&amp;format=png&amp;auto=webp&amp;s=758b7e462e0a33ff948bb142c42a136afdb9f0cf   由   提交 /u/BorisKalashnikov27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18glewe/trying_to_identify_a_graphics_software/</guid>
+      <pubDate>Tue, 12 Dec 2023 13:04:27 GMT</pubDate>
+    </item>
     <item>
       <title>如何更改 PDF 文本中每页查看的行数？</title>
       <link>https://www.reddit.com/r/software/comments/18gk1bh/how_to_change_the_number_of_lines_viewed_per_page/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>新兴软件缺乏资源</title>
       <link>https://www.reddit.com/r/software/comments/18gjzii/up_and_coming_software_with_a_lack_of_resources/</link>
-      <description><![CDATA[有哪些新兴软件缺乏良好的培训或可用资源？  我从事软件辅导工作，我正在努力发现下一件大事的趋势。    由   提交/u/jurydriver  [链接] [评论]]]></description>
+      <description><![CDATA[有哪些新兴软件缺乏良好的培训或可用资源？  我从事软件辅导工作，我正在努力发现下一件大事的趋势。    由   提交 /u/jurydriver   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18gjzii/up_and_coming_software_with_a_lack_of_resources/</guid>
       <pubDate>Tue, 12 Dec 2023 11:39:37 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>有关从 Windows 自动将 Matrix Synapse 安装到 Raspberry Pi 的建议。也许是 Ansible 的替代品？</title>
       <link>https://www.reddit.com/r/software/comments/18ghlnu/advice_on_automating_the_installation_of_matrix/</link>
-      <description><![CDATA[您好！不确定这是否是发布此内容的最佳位置，但 r/programming 表示它“不是支持论坛”所以我在这里。 我目前正在开发一个项目，以简化 Matrix Synapse 从 Matrix 机器到 Raspberry Pi 的安装和设置。目前，我已经使用 Ansible playbook 设置并运行了所有内容，我可以在 Windows 计算机上通过 WSL 运行它。问题是，我正在尝试创建一个可以在 Windows 上共享和运行的设置向导，并且只是假设我可以为此目的使用 Python 运行 Ansible，但我没有考虑到 Ansible 不适用于 Windows没有 WSL 😅。 所以我的主要问题是，有谁知道有任何 Windows 友好的替代方案可以替代 Ansible 之类的东西来设置 Raspberry Pi？或者最简单的事情就是编写一个可以通过 SSH 连接到 Pi 并手动执行操作的 Python 程序？最终目标是创建一站式服务，将新的 Pi 转变为 Matrix 服务器。   由   提交 /u/Rustycougarmama   [链接] [评论]]]></description>
+      <description><![CDATA[您好！不确定这是否是发布此内容的最佳位置，但 r/programming 表示它“不是支持论坛”所以我在这里。 我目前正在开发一个项目，以简化 Matrix Synapse 从 Matrix 机器到 Raspberry Pi 的安装和设置。目前，我已经使用 Ansible playbook 设置并运行了所有内容，我可以在 Windows 计算机上通过 WSL 运行它。问题是，我正在尝试制作一个可以在 Windows 上共享和运行的设置向导，并且只是假设我可以为此目的使用 Python 运行 Ansible，但我没有考虑到 Ansible 不适用于 Windows没有 WSL 😅。 所以我的主要问题是，有谁知道有任何 Windows 友好的替代方案可以替代 Ansible 等用于设置 Raspberry Pi 的东西吗？或者最简单的事情就是编写一个可以通过 SSH 连接到 Pi 并手动执行操作的 Python 程序？最终目标是创建一站式服务，将新的 Pi 转变为 Matrix 服务器。   由   提交 /u/Rustycougarmama   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ghlnu/advice_on_automating_the_installation_of_matrix/</guid>
       <pubDate>Tue, 12 Dec 2023 08:52:30 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[对于任何类型的编码或 TTS 软件，我都是新手。我发现我见过的每个软件都要求你支付每月只允许这么多字符的订阅费，这让我感到烦人和贪婪。几个月前，我尝试使用 Tortoise TTS，它似乎就是我想要的，但我从来没有让它正常工作，现在我已经从 NVIDIA GTX 960 升级到 AMD Radeon 6750XT，这让事情变得更加复杂我在 Windows 上为乌龟 tts 设置的所有内容。  我可以花一大笔钱购买一个易于使用、可下载的程序，该程序为我提供离线 tts 功能（它必须能够使用示例音频中的自定义语音），但我不确定存在。请有人给我指出正确的方向！   由   提交 /u/MassivePoultry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18g5hrv/downloadable_tts_ai/</guid>
       <pubDate>Mon, 11 Dec 2023 21:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么程序可以保存准确的窗口位置？</title>
-      <link>https://www.reddit.com/r/software/comments/18g4gg6/any_program_that_saves_exact_windows_positions/</link>
-      <description><![CDATA[基本上，我带着我的笔记本电脑去工作，将其插入显示器并在工作时使用两个屏幕，然后拔掉它并将笔记本电脑带回家，插入因此，每次我从显示器上拔下笔记本电脑时，它都会将每个窗口移回笔记本电脑，然后当我重新插入显示器时，所有内容仍保留在笔记本电脑上。  有没有一个程序可以保存我在拔掉插头之前设置的确切坐标和窗口大小，然后当我在家再次连接时，我只需按热键或其他东西，它就会将窗口移回到原来的位置。我之前保存的确切设置？   由   提交/u/Platinum2400   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18g4gg6/any_program_that_saves_exact_windows_positions/</guid>
-      <pubDate>Mon, 11 Dec 2023 21:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有解析和存储功能的护照扫描软件</title>
-      <link>https://www.reddit.com/r/software/comments/18g0t0q/looking_for_a_passport_scanning_software_with/</link>
-      <description><![CDATA[我不确定该去哪个 Reddit 子版块寻求帮助，所以我希望这里有人可以指导我找到正确的子版块或者直接回答我的问题。 我从事技术工作，目前正在尝试寻找可以完成几件事的程序/软件/硬件。总体而言，另一家公司处理多个不同国家的许多护照，以帮助人们找到工作。因此，他们需要一种快速上传信息的方法，因为他们每天要处理数百本护照。 这里列出了所需的内容，之后我将列出产品中的可选内容我正在寻找：  产品应扫描护照图像 扫描应抓取并解析护照上的信息 产品然后必须将信息上传到用户选择的数据库/信息存储位置（例如 SQL 数据库）或存储和组织信息并且公司中所有合格用户都可以轻松访问的位置。  或  将信息解析为易于阅读和保存的文件（例如txt、xml、JSON） 不需要自定义编程换句话说，应该是开箱即用的产品 应该能够识别和处理许多或所有不同国家的护照 如果产品是具有内置程序/连接到在线程序或网站的硬件，该硬件不得超过 500 美元/扫描仪，因为客户需要购买其中许多 如果它是基于桌面的程序/软件，应该能够扫描上传的图像  以下是可选内容：  可能是移动应用 如果是移动应用程序，理想情况下应该能够使用摄像头扫描护照并完成所需的任务  同样，即使您不知道某个特定产品，但知道有一个 Reddit 子版块更适合回答我的问题，请告诉我。 非常感谢所有帮助。  &amp;# 32；由   提交/u/screamindivr145   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18g0t0q/looking_for_a_passport_scanning_software_with/</guid>
-      <pubDate>Mon, 11 Dec 2023 18:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款可以保存文件并且可以无限次播放的鼠标键盘录音机</title>
-      <link>https://www.reddit.com/r/software/comments/18fzvmb/looking_for_a_mouse_keyboard_recorder_that_can/</link>
-      <description><![CDATA[我已经尝试过远程鼠标操作，但遗憾的是由于没有许可证，我无法保存，请谢谢。   由   提交/u/c0nspir8cy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fzvmb/looking_for_a_mouse_keyboard_recorder_that_can/</guid>
-      <pubDate>Mon, 11 Dec 2023 17:36:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
