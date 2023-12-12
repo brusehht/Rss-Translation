@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 11 Dec 2023 21:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 00:52:31 GMT</lastBuildDate>
+    <item>
+      <title>使用语音识别的噪声抑制软件</title>
+      <link>https://www.reddit.com/r/software/comments/18g8jx9/noise_suppression_software_using_speech/</link>
+      <description><![CDATA[我最近一直在考虑噪声抑制软件，并想到了一个噪声抑制软件的想法，该软件使用语音识别来自动清除所有音频除了用户的音频之外。该软件的工作原理如下。 用户可以通过注册其声音的过程添加不同的声音供软件识别。如果用户没有创建帐户，则此信息将存储在应用程序中；如果用户有帐户，则此信息将存储在他们的帐户中。用户在免费版本中最多可以添加 5 个语音，在付费版本中最多可以添加 50 个语音。可以打开或关闭语音，免费版本最多可同时打开 3 个语音，付费版本可同时打开 20 个语音。 该软件可以通过在听到声音时取消音频通道静音来工作。当前启用的声音之一。或者，像传统的噪声抑制软件一样，抑制或清除所有不是来自启用的声音之一的声音。 我计划为 Windows、MacOS 和 Linux 开发类似的东西。我还希望公司可以使用它（如果他们愿意的话）。开发这个的最佳方法是什么？   由   提交/u/Pb103938  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18g8jx9/noise_suppression_software_using_speech/</guid>
+      <pubDate>Tue, 12 Dec 2023 00:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>可下载 TTS ai</title>
+      <link>https://www.reddit.com/r/software/comments/18g5hrv/downloadable_tts_ai/</link>
+      <description><![CDATA[对于任何类型的编码或 TTS 软件，我都是新手。我发现我见过的每个软件都要求你支付每月只允许这么多字符的订阅费，这让我感到烦人和贪婪。几个月前，我尝试使用 Tortoise TTS，它似乎就是我想要的，但我从来没有让它正常工作，现在我已经从 NVIDIA GTX 960 升级到 AMD Radeon 6750XT，这让事情变得更加复杂我在 Windows 上为乌龟 tts 设置的所有内容。  我可以花一大笔钱购买一个易于使用、可下载的程序，该程序为我提供离线 tts 功能（它必须能够使用示例音频中的自定义语音），但我不确定存在。请有人给我指出正确的方向！   由   提交 /u/MassivePoultry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18g5hrv/downloadable_tts_ai/</guid>
+      <pubDate>Mon, 11 Dec 2023 21:58:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么程序可以保存确切的窗口位置？</title>
+      <link>https://www.reddit.com/r/software/comments/18g4gg6/any_program_that_saves_exact_windows_positions/</link>
+      <description><![CDATA[基本上，我带着我的笔记本电脑去工作，将其插入显示器并在工作时使用两个屏幕，然后拔掉它并将笔记本电脑带回家，插入因此，每次我从显示器上拔下笔记本电脑时，它都会将每个窗口移回笔记本电脑，然后当我重新插入显示器时，所有内容仍保留在笔记本电脑上。  有没有一个程序可以保存我在拔掉插头之前设置的确切坐标和窗口大小，然后当我在家再次连接时，我只需按热键或其他东西，它就会将窗口移回到原来的位置。我之前保存的确切设置？   由   提交/u/Platinum2400   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18g4gg6/any_program_that_saves_exact_windows_positions/</guid>
+      <pubDate>Mon, 11 Dec 2023 21:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有解析和存储功能的护照扫描软件</title>
       <link>https://www.reddit.com/r/software/comments/18g0t0q/looking_for_a_passport_scanning_software_with/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[有些电视的设置中有此功能。是否可以通过软件减少 PC 显示器的抖动效应？    由   提交/u/SH_Nostalgia   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18fkd0z/is_there_a_software_that_reduces_monitor_judder/</guid>
       <pubDate>Mon, 11 Dec 2023 02:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>OCR 工具与 Apple 一样准确</title>
-      <link>https://www.reddit.com/r/software/comments/18fk9h6/ocr_tool_as_accurate_as_apples/</link>
-      <description><![CDATA[到目前为止我已经尝试过 ShareX &amp; PowerToys 的 OCR 工具表现不佳。我在屏幕截图上使用这两个工具总共 4 次，但它们从未获得 100% 正确的文本。  然后，我通过拍摄带有屏幕截图的显示器照片来测试我的 iPhone 13 OCR。我很震惊它能够给我 100% 准确的文本。  是否有适用于 Windows 的“更好”OCR 应用程序？   由   提交 /u/MonzterSlayer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fk9h6/ocr_tool_as_accurate_as_apples/</guid>
-      <pubDate>Mon, 11 Dec 2023 02:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>CPU 温度 软件可以在几个月内每隔几个小时/几天跟踪一次温度？</title>
-      <link>https://www.reddit.com/r/software/comments/18fc8pc/cpu_temp_software_that_tracks_temperatures_every/</link>
-      <description><![CDATA[正在搜索可随时间监控的 CPU Temp 监控软件。我想在几个月内以小时/天的增量在一段时间内测试我的新构建的冷却配置。有没有软件可以做到这一点？   由   提交 /u/runninwitwolves   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fc8pc/cpu_temp_software_that_tracks_temperatures_every/</guid>
-      <pubDate>Sun, 10 Dec 2023 20:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找软件来远程控制树莓派的K...</title>
-      <link>https://www.reddit.com/r/software/comments/18fb14b/looking_for_software_to_remote_in_to_ks_of/</link>
-      <description><![CDATA[大家好， 我正在寻找用于管理/远程访问 4000 多个树莓派的软件。有什么不会倾家荡产的建议吗？谢谢。   由   提交/u/techtimee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fb14b/looking_for_software_to_remote_in_to_ks_of/</guid>
-      <pubDate>Sun, 10 Dec 2023 19:21:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
