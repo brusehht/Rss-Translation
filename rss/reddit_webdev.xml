@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Dec 2023 06:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 09:12:29 GMT</lastBuildDate>
+    <item>
+      <title>我该如何自动缩放内部*所有内容*的大小以适应“最大”高度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ghnns/how_am_i_suppose_to_automatically_scale_the_size/</link>
+      <description><![CDATA[我有一个表格，左边有项目，然后每一行都有时间表。 问题是例如，有一天我们有 5 个项目，所以 5 行，没关系。 有些日子我们有 20-25 个项目，要显示它会迫使用户向下滚动表格。  如何自动调整所有内容的大小以使其适合？就像.. 一旦我们达到 20 个项目，就会自动减小所有内容的大小以使其适合？ 仅 HTML / PHP / CSS 和 JS。   由   提交 /u/TestningMan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ghnns/how_am_i_suppose_to_automatically_scale_the_size/</guid>
+      <pubDate>Tue, 12 Dec 2023 08:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建这样的项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gh7g3/how_to_build_a_project_like_this/</link>
+      <description><![CDATA[      我希望创建具有以下功能的画布。是否有任何好的 npm 包，或者我可以 fork 和使用的开源项目？我在这个项目中的技术堆栈包括 Next.js、React.js、Tailwind CSS 和 Typescript。 功能：  空白画布用户可以在其中进行系统设计访谈。 用户能够将组件（例如负载均衡器、移动客户端）拖放到画布上。 用户应该能够连接并删除这些节点。  ​ ​ https://preview.redd.it/irg9mlnwpt5c1.png?width=1912&amp;format=png&amp;auto=webp&amp;放大器;s=ebae4ec69420551f73005f2a2f2cc3f8a778a723   由   提交 /u/ButterscotchNo3385   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gh7g3/how_to_build_a_project_like_this/</guid>
+      <pubDate>Tue, 12 Dec 2023 08:21:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么使用 Windows 进行网络/软件开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gh63m/why_use_windows_for_websoftware_development/</link>
+      <description><![CDATA[我对 Windows 用户的数量感到震惊，但这确实有意义，具体取决于您的个人工作流程，对我来说，我目前做了很多 Greenfield 代码/云密集型项目+ devops，并附加一个基本的定制模板组件库前端，这意味着我很少需要Photoshop或Figma等，并大量使用Ubuntu的bash、终端和cli，这使我可以轻松自动化和定制我的操作系统/常见任务。 请问您的 windows/mac 工作流程是什么？   由   提交/u/coolbreeze770   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gh63m/why_use_windows_for_websoftware_development/</guid>
+      <pubDate>Tue, 12 Dec 2023 08:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他人对边缘开发工具工具栏显示图标而不是文本感到恼火吗？它在工作时会产生烦人的开销。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gh2lt/anyone_else_annoyed_with_the_edge_devtools/</link>
+      <description><![CDATA[    /u/stfuandkissmyturtle   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gh2lt/anyone_else_annoyed_with_the_edge_devtools/</guid>
+      <pubDate>Tue, 12 Dec 2023 08:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 UpdraftPlus 将站点从本地服务器移动到实时服务器 - 问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ggvko/moving_a_site_from_local_to_live_server_with/</link>
+      <description><![CDATA[我通过使用 UpdraftPlus 备份网站，将其从其实时服务器转移到本地，然后在本地恢复。然后，我使用新主题对网站进行了大量修改 - 很多很多小时的工作。 我现在想将新网站从本地移动到实时服务器。我一直在尝试做相反的事情：使用 UpdraftPlus 备份它，然后在实时服务器上恢复它。 但是当我尝试恢复它时，UpdraftPlus 没有找到所有相关文件。说它无法在我发送本地备份的 Google 云端硬盘中找到它们。 此外，它现在说该目录在实时站点上不可写，我需要输入 FTP 凭据才能提供该目录再次获得许可。 帮助？！我所需要的只是将本地站点移动到实时服务器。这正在成为一场噩梦。 也需要明确的是，我已经对此进行了研究，但陷入了死胡同。我不知道为什么恢复方法不起作用。它没有找到所有文件，这让我怀疑 UpdraftPlus 是否首先写入了所有文件。  为了进一步说明，该网站大于 1 GB，我想避免付费选项。作为非营利组织的志愿者这样做。   由   提交 /u/ContingentCausation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ggvko/moving_a_site_from_local_to_live_server_with/</guid>
+      <pubDate>Tue, 12 Dec 2023 07:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNS头脑风暴</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ggot3/dns_brainstorming/</link>
+      <description><![CDATA[大家好，我希望我能成为我的帮助请求的好替补。我想为我的新网站使用云耀斑。我的问题是我的域名是 infomaniak 且网站由 wix 托管（我不是开发人员，所以我使用 wix 来构建网站）。我应该将给我的 DNS 云耀斑放在 infomaniak 还是 wix 上？它应该是主 DNS 还是辅助 DNS？我完全迷路了。如果您能帮助我，非常感谢！   由   提交/u/HorrorRip1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ggot3/dns_brainstorming/</guid>
+      <pubDate>Tue, 12 Dec 2023 07:43:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>初级开发人员被人工智能搞砸了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gfptw/are_junior_developers_screwed_by_ai/</link>
+      <description><![CDATA[大多数人对人工智能又爱又恨。我在谈论这件事时很谨慎——因为，说实话，没有人知道接下来的几年会如何发展。对于正在发生的事情，我们在历史上并没有先例。 IT 专业化也没有多大关系 - 无论您是软件工程师、数据科学家还是机器学习工程师。 &lt;一个明显的趋势是企业不再愿意雇用初级员工。甚至在 ChatGPT 出现之前，这种情况就已经很糟糕了，但现在它更加流行了。 原因很简单 - 最好用 AI 来提升高级开发人员并提高生产力和质量，而不是雇用几个初级开发人员并给他们提供帮助。人工智能。差异是巨大的，因为，说实话——对于人工智能，初级人员可以编写大量代码，但他们仍然无法评估其总体架构和质量。高级人员的生产力提高 50% 甚至比几个初级人员的 50% 提高还要多 - 并且生成的代码会更加一致。 最初人们认为具有 AI 的初级人员将取代高级人员，因为它们更便宜，但相反的情况似乎正在发生。 接下来会发生什么？我们今天使用的编程语言将变得像 Assember 一样——只有在不可能要求人工智能为我们做某事的特定情况下，人们才会深入研究它们。当然，它不会完全取代人类 - 但与所有其他技术相比，我们今天需要多少汇编语言开发人员？ 与此同时，这些公司押注为那些已经拥有很多技术的人提供更多帮助. 这也意味着作为初级开发人员不可能获得经验 - 相反，需要长期培训。无需上大学或学习几年即可获得技能仍然是可能的。不过，在未来，学习编码的唯一真正方法将是通过一些综合环境，例如大学，持续数年 - 最终，无法保证以后找到工作。 我们正处于十字路口；一些趋势变得越来越明显，但一切仍然不确定。 你觉得怎么样？   由   提交 /u/mcharytoniuk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gfptw/are_junior_developers_screwed_by_ai/</guid>
+      <pubDate>Tue, 12 Dec 2023 06:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序教程非常出色</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gfm26/procedural_tutorials_are_superior/</link>
+      <description><![CDATA[ 由   提交 /u/Legend-Of-Crybaby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gfm26/procedural_tutorials_are_superior/</guid>
+      <pubDate>Tue, 12 Dec 2023 06:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用技术堆栈的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gfhe8/recommendations_of_tech_stack_to_use/</link>
+      <description><![CDATA[我是一名 Rails 开发人员，并且有一个必须为客户构建的潜在项目。它需要用户注册和登录、博客、实时聊天，并且用户应该能够利用通过网站提供的订阅计划。我目前正在权衡是否使用 Rails 构建它，或者这是否会被认为太过杀伤力和耗时。或者，我正在考虑使用 WordPress 来快速构建它？我对 WordPress 的经验很少，但我之前曾在 3 个 WordPress 网站上工作过，这很痛苦。您对此项目的最佳平台有什么建议或见解吗？ 编辑：添加了项目要求   由   提交/u/painfulintruder13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gfhe8/recommendations_of_tech_stack_to_use/</guid>
+      <pubDate>Tue, 12 Dec 2023 06:21:31 GMT</pubDate>
+    </item>
     <item>
       <title>需求利基或技能</title>
       <link>https://www.reddit.com/r/webdev/comments/18gf6px/in_demand_niches_or_skills/</link>
@@ -29,7 +92,7 @@
     <item>
       <title>微软的网站所有权检查很奇怪。</title>
       <link>https://www.reddit.com/r/webdev/comments/18gdxca/microsofts_website_ownership_check_is_odd/</link>
-      <description><![CDATA[我正在尝试向 Microsoft 商店提交 PWA。对于 pwas，您需要验证您是该网站的合法所有者。根据我的经验，这是通过网站中的自定义服务器记录或自定义代码来完成的。对于微软，他们要求提供以下内容。对于其他人来说，他们要求的东西很容易被伪造，这是否看起来很奇怪？  感谢您的耐心等待。理想情况下，这些类型的产品将由与域名/公司关联的帐户提交。 请提供所有者的授权或所有权证明（例如域名注册发票的副本、屏幕截图）您的域控制面板的信息，或声明您拥有该域的签名信件的扫描副本）。   由   提交 /u/DiddlyDanq   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试向 Microsoft 商店提交 PWA。对于 pwas，您需要验证您是该网站的合法所有者。根据我的经验，这是通过网站中的自定义服务器记录或自定义代码来完成的。对于微软，他们要求提供以下内容。对于其他人来说，他们要求的东西很容易被伪造，这是否看起来很奇怪？   感谢您的耐心等待。理想情况下，这些类型的产品将由与域名/公司关联的帐户提交。 请提供所有者的授权或所有权证明（例如域名注册发票的副本、屏幕截图）您的域控制面板，或声明您拥有该域的签名信件的扫描副本）。    由   提交 /u/DiddlyDanq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18gdxca/microsofts_website_ownership_check_is_odd/</guid>
       <pubDate>Tue, 12 Dec 2023 04:49:34 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[       由   提交 /u/hiccupq   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18gbzjh/why_are_my_ellipsis_vertically_centered/</guid>
       <pubDate>Tue, 12 Dec 2023 03:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将套接字集成到 Bitbucket 管道中</title>
-      <link>https://www.reddit.com/r/webdev/comments/18gaqca/how_to_integrate_socket_into_your_bitbucket/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18gaqca/how_to_integrate_socket_into_your_bitbucket/</guid>
-      <pubDate>Tue, 12 Dec 2023 02:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年勒索软件趋势：赎金支付增加推动网络需求增加</title>
-      <link>https://www.reddit.com/r/webdev/comments/18gafpe/2023_ransomware_trends_rising_ransom_payments/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18gafpe/2023_ransomware_trends_rising_ransom_payments/</guid>
-      <pubDate>Tue, 12 Dec 2023 01:45:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将套接字集成到 Bitbucket 管道中</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ga4ti/how_to_integrate_socket_into_your_bitbucket/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ga4ti/how_to_integrate_socket_into_your_bitbucket/</guid>
-      <pubDate>Tue, 12 Dec 2023 01:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>滚动条导航箭头跳至第一项和最后一项</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g9vp4/scrollbar_navigation_arrows_skip_to_first_and/</link>
-      <description><![CDATA[我正在使用滚动捕捉：x强制和滚动捕捉对齐：中心作为基本的水平滑块库。超级简单，在移动设备上运行得很好！但在桌面（Chrome）上，按滚动条导航箭头会在第一个和最后一个项目之间跳转。我查看了使用类似 css 的其他画廊，但没有找到一个能按我的预期工作的画廊（即捕捉到下一个项目）。我是否错过了秘密财产，或者这是预期的行为？ （类似的，可能相关的烦恼是，点击键盘箭头会捕捉到下一个项目，但按住它会导致过渡卡顿） 我想仅在移动 UA 上应用捕捉并不难，但只是想要看看是否有人有想法   由   提交/u/bigginsmcgee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g9vp4/scrollbar_navigation_arrows_skip_to_first_and/</guid>
-      <pubDate>Tue, 12 Dec 2023 01:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：我是在浪费时间吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g9syu/need_advice_am_i_wasting_my_time/</link>
-      <description><![CDATA[每当我创建一个应用程序时，大多数时候它只是为了自学，我也会为它创建一个文档。我有自己的Confluence页面，我在其中编写应用程序的文档，它不仅仅是代码文档。 该文档除了源代码之外还有许多部分，例如研究背景、问题和解决方案， UML图、调查等我唯一没有包括的是WBS，因为我是项目中唯一的人，其目的是为了自学，所以不需要包括项目的得失。 但我想知道我是否在浪费时间做文档，因为我是唯一负责的人，并且只进行编码是否会更好  &amp;# 32；由   提交 /u/Tantan88112   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g9syu/need_advice_am_i_wasting_my_time/</guid>
-      <pubDate>Tue, 12 Dec 2023 01:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrapesJS 客户组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g84cp/grapesjs_customer_components/</link>
-      <description><![CDATA[嘿，我想知道您是否曾经在 GrapesJS 中创建过自定义组件？我一直想添加自己的组件，但每次尝试都没有乐趣。想法？   由   提交 /u/limskey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g84cp/grapesjs_customer_components/</guid>
-      <pubDate>Mon, 11 Dec 2023 23:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>域权限 DMARC</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g6ru7/domain_authority_dmarc/</link>
-      <description><![CDATA[提升域权限的最佳实践？我看到有一款年终产品出售，可帮助 DMARC、域名和域名。电子邮件的送达率。想知道这是否是个好主意。   由   提交/u/june_night  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g6ru7/domain_authority_dmarc/</guid>
-      <pubDate>Mon, 11 Dec 2023 22:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Matomo Analytics Drupal 模块实际上没有跟踪任何内容？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g6ci5/matomo_analytics_drupal_module_not_actually/</link>
-      <description><![CDATA[我正在尝试通过 Drupal 在两个不同的站点上设置 Matomo。我已经安装了该模块，在 Matomo 控制面板中添加了网站，返回 Drupal，并使用站点 ID 和 URL 配置了该模块。但当我点击网站并返回 Matomo 仪表板时，却发现没有任何跟踪记录。不知何故，他们无法连接。 有人在 Matomo 上取得过成功吗？我认为该模块应该将 Matomo 跟踪 js 添加到每个页面的标题中，但是当我加载页面并检查时，代码没有出现在标题中。我需要将其粘贴到其他地方吗？为什么模块不添加它？  请帮忙！   由   提交 /u/NewtsCommitTaxFraud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g6ci5/matomo_analytics_drupal_module_not_actually/</guid>
-      <pubDate>Mon, 11 Dec 2023 22:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络应用程序上的 Flaticon 和社交登录：违法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g5ukr/flaticon_social_login_on_web_app_is_it_illegal/</link>
-      <description><![CDATA[我想在我的网站上实现社交登录，可以使用 google、facebook、twitter 等。 我是目前已完成所有逻辑等，我目前正在设计身份验证组件。  我也刚刚从 Flaticon 下载了图标（我支付了本月的费用），但我注意到图标附近写着该图标只有编辑许可证，所以我只能将其用于新闻文章教育、学术目的或其他有新闻价值的出版物，而不能用于商业用途。 我只是想添加一个图标，使其对可以通过社交登录的用户可见。  ​ 你认为使用它们合法吗？  你通常用什么？  Flaticon 如何知道我是否使用它？ ​ 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交/u/Ale9xs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g5ukr/flaticon_social_login_on_web_app_is_it_illegal/</guid>
-      <pubDate>Mon, 11 Dec 2023 22:12:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
