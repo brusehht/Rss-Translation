@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 14 Dec 2023 18:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 21:10:19 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 为什么旧计算机和操作系统使用大写而不是小写？</title>
-      <link>https://t.me/hn_summary/63912</link>
-      <description><![CDATA[为什么旧计算机和操作系统使用大写而不是小写？ 
-本文讨论了为什么旧计算机和操作系统使用大写字母而不是小写字母。它解释了作为英语基础的拉丁文字最初是围绕大写字母设计的。小写字母是后来为草书书写而添加的。文章还提到，早期的代码和用于书写的机器根本没有大小写，只有字母。随着 20 世纪 60 年代中期 ASCII 编码的引入，小写成为一种选择。文章接着解释了大小写字母的历史发展及其使用背后的原因。总的来说，本文重点介绍了导致在旧计算机和操作系统中使用大写字母的演变过程和影响。]]></description>
-      <guid>https://t.me/hn_summary/63912</guid>
-      <pubDate>Thu, 14 Dec 2023 18:08:56 GMT</pubDate>
+      <title>[媒体] 开放且可移植的 Postgres 即服务。</title>
+      <link>https://t.me/hn_summary/63958</link>
+      <description><![CDATA[开放且可移植的 Postgres 即服务。也可在 Hetzner 上找到
+Ubicloud 提供开放且可移植的云服务，旨在降低成本并让用户控制其基础设施。他们发布了开放式托管 PostgreSQL 实施方案，与 AWS 和 Azure 等主要提供商相比，云数据库支出减少了 3 倍。托管 PostgreSQL 解决方案的控制平面首次开放，强调透明度和可移植性。 Ubicloud PostgreSQL 托管在德国的 Hetzner 数据中心，可以将低廉的价格转嫁给用户。该服务提供具有竞争力的性能和功能，包括自动备份和数据安全加密。 Ubicloud 向前 10 家注册公司提供前 3 个月 50% 的折扣。]]></description>
+      <guid>https://t.me/hn_summary/63958</guid>
+      <pubDate>Thu, 14 Dec 2023 21:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]马克·扎克伯格在夏威夷的绝密大院估计耗资约 100 美元 [...]</title>
-      <link>https://t.me/hn_summary/63911</link>
-      <description><![CDATA[马克·扎克伯格的夏威夷绝密建筑
-马克·扎克伯格在夏威夷的绝密大院估计耗资约 1 亿美元用于建设，1.7 亿美元用于购买土地。该项目周围的保密和安全水平在当地建筑行业中是前所未有的，有一座俯瞰该地产的警卫塔，并且该项目还附带一份保密协议。然而，该院落也经常发生工作场所事故，包括起重机从边缘坠落和一名保安心脏病发作。该院落的保密还延伸到控制信息流动，对当地媒体进行谴责，并限制批评报道的访问。]]></description>
-      <guid>https://t.me/hn_summary/63911</guid>
-      <pubDate>Thu, 14 Dec 2023 18:04:46 GMT</pubDate>
+      <title>[媒体] 普遍拒绝期刊 (JofUR) 是一个独特的期刊，拒绝所有提交 [...]</title>
+      <link>https://t.me/hn_summary/63957</link>
+      <description><![CDATA[普遍拒绝杂志
+《普遍拒绝期刊》(JofUR) 是一家独特的期刊，它拒绝所有投稿，无论质量如何。该期刊提供了作者选择提交作品的几个原因，包括不用担心被接受、不收取版面费，以及有机会根据接受率向最负盛名的期刊提交作品。 JofUR 以其独一无二而自豪，向其提交作品可能会被视为一种荣誉徽章。作者保留对其作品的完整权利，甚至可以在评审过程完成之前重新提交给其他期刊。编委会由不同领域的多位专家组成。该期刊接受所有类型的稿件，提交的稿件可以通过电子邮件发送到所提供的地址。该杂志还提供订阅服务，但尚不清楚是以印刷版还是电子版形式提供。该期刊的档案显示，之前的所有期刊都已为空。]]></description>
+      <guid>https://t.me/hn_summary/63957</guid>
+      <pubDate>Thu, 14 Dec 2023 21:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LLL 算法是密码学和计算数论中的重要工具，具有 [...]</title>
-      <link>https://t.me/hn_summary/63910</link>
-      <description><![CDATA[著名密码算法升级
-LLL 算法是密码学和计算数论中的重要工具，现已升级。 LLL 算法及其变体由研究人员于 1982 年开发，已用于测试密码系统的强度并设计更安全的系统。然而，原始算法在处理大输入方面存在局限性。由密码学家 Keegan Ryan 和 Nadia Heninger 开发的一种新的 LLL 式算法通过使用递归结构和精度管理来解决这些限制。该算法已被证明在计算数论任务中非常有用，并且有潜力扩展基于格的密码系统的研究。]]></description>
-      <guid>https://t.me/hn_summary/63910</guid>
-      <pubDate>Thu, 14 Dec 2023 18:01:36 GMT</pubDate>
+      <title>[媒体] 网站 bruijn.marvinborner.de 展示了一种基于 [...]</title>
+      <link>https://t.me/hn_summary/63956</link>
+      <description><![CDATA[展示 HN：使用纯 Lambda 演算进行编程
+网站 bruijn.marvinborner.de 展示了一种函数式编程语言基于纯 De Bruijn 索引 lambda 演算。该语言专门使用 lambda，没有原始函数。它使用抽象机提供有效的按需调用减少，并拥有大量的标准库。该语言还支持编译为 Tromp 的二进制 lambda 演算，并支持字节和 ASCII 编码。该网站提供了安装说明和一个名为 Brogle 的工具，用于搜索该语言的标准库。作者强调了编译的二进制 lambda 演算的富有表现力和微小的本质以及纯 lambda 演算的美妙之处。 De Bruijn 指数的使用也因其清晰性和普遍性而受到重视。作者鼓励读者探索并享受这门语言的乐趣。]]></description>
+      <guid>https://t.me/hn_summary/63956</guid>
+      <pubDate>Thu, 14 Dec 2023 21:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在印度尼西亚，人类最古老的艺术正在逐渐消失。</title>
-      <link>https://t.me/hn_summary/63909</link>
-      <description><![CDATA[在印度尼西亚，人类最古老的艺术正在逐渐消失。科学家能拯救它吗？
-本文讨论了保护和保存印度尼西亚古代岩石艺术所面临的挑战。水泥公司 SIG 致力于减少其运营中的粉尘污染，但缺乏政府法规来指导其粉尘、污染和振动的安全水平。据信，该地区采矿作业产生的灰尘是脆弱洞穴壁画的一个主要问题。然而，确定岩画恶化的根源是世界范围内的一项挑战，其原因包括人类行为、交通和农业污染等。人的存在就会改变洞穴的小气候并造成损害。]]></description>
-      <guid>https://t.me/hn_summary/63909</guid>
-      <pubDate>Thu, 14 Dec 2023 17:54:23 GMT</pubDate>
+      <title>[媒体] 通用汽车 (GM) 将在其位于 Janu 的 Orion 装配工厂裁员 900 名工人 [...]</title>
+      <link>https://t.me/hn_summary/63955</link>
+      <description><![CDATA[在获得 8.24 亿美元的国家援助后，通用汽车将裁员 900 人猎户座组装
+通用汽车 (GM) 将于 2024 年 1 月在其 Orion 装配厂裁员 900 名工人，距离密歇根州立法者提供 8.24 亿美元的企业福利仅两年。国家援助包括用于创造就业机会、可再生能源项目和场地准备的资金。通用汽车首席执行官玛丽·巴拉承认，如果没有企业福利，这项投资是不可能实现的。此次裁员令人意外，并引发了人们对国家援助在创造长期就业保障方面的有效性的质疑。争议在于，纳税人出资扩建，但不久就出现了裁员。]]></description>
+      <guid>https://t.me/hn_summary/63955</guid>
+      <pubDate>Thu, 14 Dec 2023 21:06:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 1948 年写给《纽约时报》的这封信中，阿尔伯特·爱因斯坦和其他舞会成员 [...]</title>
-      <link>https://t.me/hn_summary/63908</link>
-      <description><![CDATA[爱因斯坦：致《纽约时报》的信，新巴勒斯坦党（1948 年） )
-在 1948 年写给《纽约时报》的这封信中，阿尔伯特·爱因斯坦以及汉娜·阿伦特和西德尼·胡克等其他知名人物表达了他们对以色列“自由党”出现的担忧。他们将该党与纳粹和法西斯组织进行比较，强调其恐怖主义和右翼性质。这封信批评了该党领导人梅纳赫姆·贝京，并警告不要支持他的运动。作者还提到了臭名昭著的代尔亚辛事件，自由党袭击并屠杀了一个阿拉伯村庄的居民。这封信是对以色列右翼人士的严厉控诉，并呼吁揭露贝京及其政党的真相。]]></description>
-      <guid>https://t.me/hn_summary/63908</guid>
-      <pubDate>Thu, 14 Dec 2023 17:50:12 GMT</pubDate>
+      <title>[媒体]《自然天文学》发表的一项新研究表明，土星的卫星土卫二可能 [...]</title>
+      <link>https://t.me/hn_summary/63954</link>
+      <description><![CDATA[土卫二上可能存在生命的新线索
+发表在《自然天文学》上的一项新研究表明，土星的卫星土卫二可能拥有生命所需的成分。卡西尼号太空船飞过月球冰壳下方喷出的水羽，其数据与疑似存在的 50 种化学物质进行了比较。该研究发现了检测各种有机化合物的证据，其中包括氰化氢，氰化氢是合成与生命起源相关的更复杂化合物的关键组成部分。其他化合物，例如碳氢化合物和硫，也表明土卫二上存在微生物生命的潜力。然而，这些发现并没有提供月球上存在生命的明确证据。需要进一步的实验室实验和机器人任务来进一步探索这种可能性。]]></description>
+      <guid>https://t.me/hn_summary/63954</guid>
+      <pubDate>Thu, 14 Dec 2023 21:03:42 GMT</pubDate>
     </item>
     <item>
-      <title>开姆尼茨工业大学的建筑与驱动技术研究所 (IKAT) 提出了一项联合国 [...]</title>
-      <link>https://t.me/hn_summary/63907</link>
-      <description><![CDATA[点击即可旋转 IKAT 圣诞金字塔 - 开姆尼茨工业大学庆祝活动
-开姆尼茨工业大学的建筑与驱动技术研究所 (IKAT) 在其主页上提出了一种独特的方式来庆祝圣诞节。他们创建了一个虚拟的圣诞金字塔，每次点击都会旋转得更快。每 10 秒的点击次数越多，金字塔转动的速度就越快。这是一种传播节日欢乐的有趣且互动的方式。因此，召集您的朋友和家人，看看您能让金字塔旋转多快。开姆尼茨工业大学祝您圣诞快乐！]]></description>
-      <guid>https://t.me/hn_summary/63907</guid>
-      <pubDate>Thu, 14 Dec 2023 17:37:54 GMT</pubDate>
+      <title>本文作者 Wietse Venema 正在庆祝“IBM 安全 [...]</title>
+      <link>https://t.me/hn_summary/63953</link>
+      <description><![CDATA[Postfix 今天 25 岁了
+本文作者 Wietse Venema 正在庆祝“IBM 安全邮件程序”（最终被称为 Postfix）问世 25 周年。 Venema 提到，该邮件的发布还伴随着《纽约时报》商业版块的一篇文章，这有助于引起 IBM 首席执行官对开源项目的关注。 Venema 还表示，Postfix 这个名字是在多次被拒绝的名字以及它作为“IBM 安全邮件程序”发布的一段时期后选择的。 Postfix 经过多年的发展，Venema 继续致力于改进该软件。]]></description>
+      <guid>https://t.me/hn_summary/63953</guid>
+      <pubDate>Thu, 14 Dec 2023 20:57:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网络内容的作者在学习 [...] 后反思了他们不断变化的观点</title>
-      <link>https://t.me/hn_summary/63906</link>
-      <description><![CDATA[小鬼当家：事件后回顾（2020）
-该网络内容的作者在了解弹性工程和事件分析后反思了他们不断变化的观点。他们讨论了如何以新的视角观看电影《小鬼当家》，注意到所有已经到位但失败的小检查，导致主角被独自留在家里。受此启发，作者决定使用不同于传统根本原因分析的方法对电影进行事件调查。他们提供了导致事件发生的事件时间表并讨论了相关情况。作者强调，这不是一项严肃的研究，只是为了娱乐而非专业。 （根据故事文本的 45% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63906</guid>
-      <pubDate>Thu, 14 Dec 2023 17:36:45 GMT</pubDate>
+      <title>[媒体] 在这篇题为“万智牌图灵完备”的论文中，作者展示了 [...]</title>
+      <link>https://t.me/hn_summary/63952</link>
+      <description><![CDATA[万智牌图灵完备
+在这篇题为《万智牌是图灵完备》的论文中，作者证明了玩流行的集换式卡牌游戏《万智牌》的最佳难度与解决停止问题一样困难。这解决了一个长期存在的开放问题，并表明该游戏至少与图灵机一样复杂。作者提出了一种将图灵机嵌入到万智牌游戏中的方法，当且仅当图灵机停止时，第一个玩家才能保证获胜。这个结果是独一无二的，因为两个玩家的所有动作都是在构造中被迫的，并且它对游戏的统一计算理论具有影响。]]></description>
+      <guid>https://t.me/hn_summary/63952</guid>
+      <pubDate>Thu, 14 Dec 2023 20:56:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇博文中，我们介绍了弱到强泛化的概念，它 [...]</title>
-      <link>https://t.me/hn_summary/63905</link>
-      <description><![CDATA[弱到强泛化
-在这篇博文中，我们介绍了弱到强泛化的概念，它指的是机器学习模型在比其训练的任务更困难的任务上表现良好的能力。我们讨论了实现强泛化的挑战，并提出了一种称为“利用合成数据进行微调”的新方法，有助于提高泛化能力。我们还提供了实验结果来证明这种方法的有效性。这项研究对人工智能领域具有重要意义，可能会带来机器学习模型的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/63905</guid>
-      <pubDate>Thu, 14 Dec 2023 17:35:36 GMT</pubDate>
+      <title>[媒体]美国国家航空航天局 (NASA) 航海者 1 号航天器遇到计算机故障，导致通信 [...]</title>
+      <link>https://t.me/hn_summary/63951</link>
+      <description><![CDATA[旅行者一号停止与地球通信
+美国国家航空航天局 (NASA) 航海者 1 号航天器遇到计算机故障，导致其与地球上的任务团队发生通信问题。随着老化的航天器探索未知的宇宙领域，工程师们正在努力解决这个问题。航海者一号是目前距离地球最远的航天器，它的孪生航海者二号也已经飞行了很长的距离。航行者号探测器最初设计的使用寿命为五年，但不断提供有关太阳系及其他星系的见解。目前的故障涉及飞行数据系统陷入自动重复状态，导致科学和工程数据无法返回地球。美国宇航局工程师正在调查该问题，可能需要数周时间才能确定解决方案。随着航天器老化，航海者号团队遇到了意想不到的挑战，他们对发送可能影响操作的命令持谨慎态度。此次任务的主要价值在于其持续时间长，科学家希望能够恢复航行者一号的正常数据流。]]></description>
+      <guid>https://t.me/hn_summary/63951</guid>
+      <pubDate>Thu, 14 Dec 2023 20:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]前 Facebook 多元化项目经理 Barbara Furlow-Smiles 已认罪 [...]</title>
-      <link>https://t.me/hn_summary/63904</link>
-      <description><![CDATA[前 Facebook 多元化负责人承认盗窃数百万美元&lt; br/&gt;
-Facebook 前多元化项目经理 Barbara Furlow-Smiles 承认从公司盗窃超过 400 万美元。弗洛·斯迈尔斯精心策划了一项涉及虚假商业交易和回扣的计划，为她奢华的生活方式提供资金。她担任 Facebook 多元化和包容性首席策略师，负责制定和执行多元化计划。 Furlow-Smiles 将她的 PayPal、Venmo 和 Cash App 帐户与 Facebook 提供的信用卡关联起来，并用它们向朋友、亲戚和其他人支付从未提供过的商品和服务。她还让 Facebook 雇佣朋友和同事拥有的供应商，并支付回扣。 Furlow-Smiles 提交了虚假费用报告并批准了虚假发票以掩盖欺诈行为。她用偷来的资金来支持加利福尼亚州和佐治亚州的奢侈生活方式。 Furlow-Smiles 计划于 2024 年 3 月被判刑。]]></description>
-      <guid>https://t.me/hn_summary/63904</guid>
-      <pubDate>Thu, 14 Dec 2023 17:29:27 GMT</pubDate>
+      <title>为什么地图应用程序基本上没有缓存？</title>
+      <link>https://t.me/hn_summary/63950</link>
+      <description><![CDATA[为什么地图应用基本上没有缓存？&lt; br/&gt;
+此网页内容的作者质疑为什么地图应用程序没有任何缓存功能。他们提到，即使是一个简单的 2D 矢量也可以在最小缩放下代表英国，但没有 4G 的用户却被网格困住了。作者想知道为什么地图应用程序中没有缓存，考虑到重复轮询相同图像所浪费的带宽和能量。这里的争议在于缺乏缓存和潜在的资源浪费。]]></description>
+      <guid>https://t.me/hn_summary/63950</guid>
+      <pubDate>Thu, 14 Dec 2023 20:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>Web 内容讨论了 Java 中 switch 结构的增强以支持案例标签 [...]</title>
-      <link>https://t.me/hn_summary/63903</link>
-      <description><![CDATA[Switch 中的效果案例
-Web 内容讨论了 Java 中 switch 构造的增强，以支持与选择器表达式求值期间引发的异常相匹配的 case 标签。这样可以统一处理正常结果和异常结果。本文解释了 switch 构造的背景及其在 Java 早期版本中的局限性。它还强调了处理空值的改进，并介绍了以类似方式处理异常的想法。该提案建议通过引入 throws 案例来扩展 switch 以更统一地处理异常。这允许更清晰的代码和更容易的维护。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/63903</guid>
-      <pubDate>Thu, 14 Dec 2023 17:29:18 GMT</pubDate>
+      <title>ChatGPT GPT-4.5 更新可能刚刚泄露；</title>
+      <link>https://t.me/hn_summary/63949</link>
+      <description><![CDATA[ChatGPT GPT-4.5 更新可能刚刚泄露；这是我们所知道的
+OpenAI 对其 ChatGPT 大语言模型 GPT-4.5 的最新更新可能已在 Twitter 和 Reddit 上泄露。泄露的草案表明，GPT-4.5 将具有跨视觉、视频、音频、语言和 3D 的多模态能力，以及复杂的推理和跨模态理解。泄露的 GPT-4.5 定价显示，与当前版本 GPT-4 相比，成本更高。关于泄密事件的真实性存在争议，因为它可能是捏造的。然而，如果泄露的消息属实，则可能表明 OpenAI 正准备在不久的将来推出 GPT-4.5。已联系 OpenAI 征求意见。]]></description>
+      <guid>https://t.me/hn_summary/63949</guid>
+      <pubDate>Thu, 14 Dec 2023 20:55:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
