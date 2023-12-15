@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 15 Dec 2023 08:55:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 12:08:10 GMT</lastBuildDate>
     <item>
-      <title>[媒体]摘要：据一位人士称，旧金山的谷歌员工正在举行一场死亡抗议。</title>
-      <link>https://t.me/hn_summary/64028</link>
-      <description><![CDATA[Google 员工在 Google SF 举行死机活动&lt; br /&gt;
-摘要：根据官方 Twitter 帐户上的一条推文，旧金山的谷歌员工正在举行一场死机抗议。该推文没有提供任何有关抗议背后原因或工人具体要求的细节。目前还不清楚出了什么问题，也不清楚工人们希望通过这次示威达到什么目的。推文中并未强调围绕此次抗议的争议。]]></description>
-      <guid>https://t.me/hn_summary/64028</guid>
-      <pubDate>Fri, 15 Dec 2023 08:55:06 GMT</pubDate>
+      <title>[媒体]苹果的市值正在接近法国整个股市的市值，技术 [...]</title>
+      <link>https://t.me/hn_summary/64044</link>
+      <description><![CDATA[苹果已经变得如此庞大，几乎超越了整个法国股市
+苹果的市值正在接近法国整个股市的市值，这家科技巨头的市值为 3.1 万亿美元，而法国为 3.2 万亿美元。这并不是苹果公司的价值第一次超过法国，因为在去年下半年的抛售期间，它们多次交换了位置。在路威酩轩集团(LVMH)和爱马仕国际(Hermes International)等奢侈品公司的推动下，法国股市目前创下历史新高。苹果公司最近的股价飙升与 10 月份的情况相反，当时对中国收入增长和销售的担忧对该股造成压力。不过，华尔街预测，随着智能手机、笔记本电脑和电脑需求的增加，苹果的收入将在 2024 年反弹。]]></description>
+      <guid>https://t.me/hn_summary/64044</guid>
+      <pubDate>Fri, 15 Dec 2023 12:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇题为“碎片”的博客文章中，作者讨论了对碎片的偏好[...]</title>
-      <link>https://t.me/hn_summary/64027</link>
-      <description><![CDATA[碎片化
-在这篇题为“碎片”的博客文章中，作者讨论了软件开发中对碎片的偏好以及它可能导致的问题。作者解释说，人们经常选择将大问题分解为较小的问题，并假设这些较小的子解决方案彼此独立。然而，作者认为这些分解线通常是任意的，并且可能导致较小部分之间的依赖关系。此外，作者还强调了确保部件本身在分解后仍然保持在一起以解决原始问题的重要性。作者警告说，碎片化可能会导致指数级的复杂性，并且几乎不可能理解软件的整体行为。根据作者的说法，解决方法是对碎片持怀疑态度，而将重点放在适当的封装上。作者举例说明了软件开发的各个方面如何出现碎片，例如使用全局变量、在静态 HTML 文件中分发代码以及杂乱的数据存储。作者最后强调，封装是管理复杂性并允许软件解决方案增长和复杂化的关键。]]></description>
-      <guid>https://t.me/hn_summary/64027</guid>
-      <pubDate>Fri, 15 Dec 2023 07:38:35 GMT</pubDate>
+      <title>[媒体]OneSignal 是一家领先的客户参与平台，目前正在为 i [...] 招聘工程师</title>
+      <link>https://t.me/hn_summary/64043</link>
+      <description><![CDATA[OneSignal (YC S11) 正在为其短信平台团队招聘工程师&lt; /a&gt;
+OneSignal 是一家领先的客户参与平台，目前正在为其 SMS 平台团队招聘工程师。作为 Y Combinator 支持的公司，OneSignal 提供免费工具，让用户只需几分钟即可轻松开始使用其平台。 OneSignal 的短信平台团队注重客户参与，在帮助企业通过短信与客户有效沟通方面发挥着至关重要的作用。加入该团队为工程师提供了开发创新解决方案的机会，并为快速扩张的公司的发展做出了贡献。立即申请成为这个令人兴奋的团队的一员！]]></description>
+      <guid>https://t.me/hn_summary/64043</guid>
+      <pubDate>Fri, 15 Dec 2023 12:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了他们测试 Microsoft 365 Copilot 的经验，这是一个设计的工具集 [...]</title>
-      <link>https://t.me/hn_summary/64026</link>
-      <description><![CDATA[初步了解 Microsoft 365 Copilot
-作者讨论了他们测试 Microsoft 365 Copilot（旨在提高工作效率的工具集）的经验。他们上传了各种与工作相关的文档来测试Copilot的总结和问答能力。作者发现结果好坏参半，有些答案完全不正确。他们还测试了 Copilot for Outlook，发现起草电子邮件的效果相当好，但无法总结文档。作者的结论是，虽然生产力有提高的潜力，但他们对 Copilot 当前的输出和实用性并没有留下深刻的印象。他们计划随着产品的发展继续进行测试。]]></description>
-      <guid>https://t.me/hn_summary/64026</guid>
-      <pubDate>Fri, 15 Dec 2023 07:33:24 GMT</pubDate>
+      <title>网络内容是了​​解傅立叶变换的交互式指南。</title>
+      <link>https://t.me/hn_summary/64042</link>
+      <description><![CDATA[傅里叶变换交互式指南
+网络内容是了​​解傅立叶变换的交互式指南。作者用制作冰沙并找到其配方的比喻来解释这个概念。他们解释说，傅立叶变换采用基于时间的模式，测量每个可能的周期，并返回该模式的总体“周期配方”。作者还讨论了滤波器在此过程中的重要性，并提供了如何在工程应用中使用傅里叶变换的示例。内容包括模拟和视觉效果，以帮助读者更好地理解这个概念。 （根据 55% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/64042</guid>
+      <pubDate>Fri, 15 Dec 2023 11:51:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FCC 已批准 SpaceX 测试其蜂窝星链系统，该系统将 [...]</title>
-      <link>https://t.me/hn_summary/64025</link>
-      <description><![CDATA[FCC 批准 SpaceX 在手机上测试蜂窝 Starlink&lt; br /&gt;
-美国联邦通信委员会 (FCC) 已批准 SpaceX 测试其蜂窝星链系统，该系统将向美国各地二十多个地点的智能手机传输数据。该测试将涉及在地面使用未经修改的 T-Mobile 电话来接收卫星连接。 SpaceX 有 180 天的时间进行试点，最终将使用 840 颗卫星向 2000 个测试设备传输数据。测试地点包括加利福尼亚州山景城；堪萨斯州堪萨斯城；华盛顿州雷德蒙德；和德克萨斯州达拉斯。这些测试将帮助 SpaceX 和 FCC 确定蜂窝星链系统是否会对其他运营商和卫星提供商造成无线电干扰。]]></description>
-      <guid>https://t.me/hn_summary/64025</guid>
-      <pubDate>Fri, 15 Dec 2023 07:25:14 GMT</pubDate>
+      <title>[媒体]文章讨论了ActivityPods 2.0的开发，该版本即将发布[...]</title>
+      <link>https://t.me/hn_summary/64041</link>
+      <description><![CDATA[通往 ActivityPods 2.0 之路
+文章讨论了 ActivityPods 2.0 的开发，该版本将于 2024 年春季发布。作者承认 ActivityPods 的第一个版本存在可扩展性和安全性问题，但在测试架构方面取得了成功。在 2.0 版本中，外部应用程序将拥有自己的后端，从而实现更高的可扩展性。本文还提到了更灵活的容器和集合的实现，以及应用程序特定的令牌和更安全的身份验证。此外，本文还重点介绍了 Mastopod 的开发，该应用程序与将在 Pod 上托管数据的所有 Mastodon 实例兼容。作者相信Mastopod 将会引起ActivityPub 社区的兴趣。]]></description>
+      <guid>https://t.me/hn_summary/64041</guid>
+      <pubDate>Fri, 15 Dec 2023 11:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Godot Engine 与 Google 和 The Forge 合作以提高性能优化 [...]</title>
-      <link>https://t.me/hn_summary/64024</link>
-      <description><![CDATA[Godot：与 Google 和 Forge 的合作&lt; br /&gt;
-Godot Engine 与 Google 和 The Forge 合作，改进其 Vulkan 移动后端的性能优化。此次合作将主要使支持 Vulkan 的移动设备用户受益。 Google 致力于增强 Android 游戏生态系统，因此他们协助 Godot 确保其 Vulkan 移动渲染器尽可能高效。 The Forge 是一家专注于游戏引擎和渲染解决方案的知名开发商，将在接下来的几个月里在 Google 专家和 Godot 贡献者的支持下致力于 Godot 的开发。最终目标是为 Android 游戏创建一个卓越的生态系统，让开发者能够利用 Vulkan 进一步推动他们的想法。]]></description>
-      <guid>https://t.me/hn_summary/64024</guid>
-      <pubDate>Fri, 15 Dec 2023 07:20:03 GMT</pubDate>
+      <title>[媒体]本文探讨了递送包裹的用户体验 (UX) 及其对 [...]</title>
+      <link>https://t.me/hn_summary/64040</link>
+      <description><![CDATA[递送包裹的用户体验
+本文探讨了递送包裹的用户体验 (UX) 及其对电子商务的影响。报告强调，84% 的购物者在一次糟糕的送货体验后会停止从零售商处购买，94% 的购物者会将任何问题直接归咎于零售商。作者进行了一项实验，通过六家不同的快递公司运送相同的箱子，发现定价存在差异且预订流程效率低下。他们还讨论了购买后保证的重要性以及沟通在用户体验中的作用。该文章强调了定价透明度、改进的表单设计和有效的跟踪系统的必要性。作者建议物流公司应该在用户体验上进行投资，以提升整体客户体验。]]></description>
+      <guid>https://t.me/hn_summary/64040</guid>
+      <pubDate>Fri, 15 Dec 2023 11:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]你能把鸡变成青蛙、鱼或变色龙吗？</title>
-      <link>https://t.me/hn_summary/64023</link>
-      <description><![CDATA[你能把鸡变成青蛙、鱼或变色龙吗？
-来自哈佛大学、加州大学圣地亚哥分校和邓迪大学的研究人员开发了一种理论框架，可以重现和预测与鸡胚胎中原肠胚形成相关的模式。原肠胚形成是胚胎发育的关键阶段，在此阶段细胞分化并形成三维结构。研究人员发现，细胞参数和行为的微小变化会对原肠胚形成模式产生重大影响。通过调整这些参数，他们能够重现其他物种（例如青蛙、鱼类和变色龙）中看到的原肠胚形成模式。这项研究提供了对早期发育中自组织的见解，并有助于理解发育过程的进化历史。]]></description>
-      <guid>https://t.me/hn_summary/64023</guid>
-      <pubDate>Fri, 15 Dec 2023 07:14:52 GMT</pubDate>
+      <title>问 HN：AI/ML 论文能否赶上 AI 的现状？</title>
+      <link>https://t.me/hn_summary/64039</link>
+      <description><![CDATA[询问 HN：AI/ML 论文能否赶上当前状态人工智能？
+news.ycombinator.com 上这篇文章的作者是寻求 AI/ML 论文的推荐，以赶上 AI 的当前状态。他们提到在 R-CNN、GAN 和 ResNet 时代就熟悉了 ML，并表达了重新投入其中的愿望。作者的名单上已经有几篇论文，包括“Attention is All You Need”、“Qlora”、“Llama&#39;s”和“Q Learning”。他们正在向社区征求建议。]]></description>
+      <guid>https://t.me/hn_summary/64039</guid>
+      <pubDate>Fri, 15 Dec 2023 11:39:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者认为程序是游戏，编程本身也是游戏。</title>
-      <link>https://t.me/hn_summary/64022</link>
-      <description><![CDATA[程序就是游戏，编程就是游戏
-作者认为程序是游戏，编程本身也是游戏。他们将博弈定义为自愿控制系统的行使，力量之间存在对立，受到规则的限制，并产生不平衡的结果。从这个意义上说，程序是将输入转换为输出的一组规则。运行程序时，用户对输入进行自愿控制，程序使用其规则提供相应的输出。作者认为编程是最有趣的游戏，因为它涉及创建一个将所有可能的输入映射到输出的程序。他们主张教更多的人编程，让编写有趣的程序变得容易。]]></description>
-      <guid>https://t.me/hn_summary/64022</guid>
-      <pubDate>Fri, 15 Dec 2023 07:09:42 GMT</pubDate>
+      <title>网络内容的作者讨论了他们使用 WebP 的经验，WebP 是一种用于即时通讯的文件格式 [...]</title>
+      <link>https://t.me/hn_summary/64038</link>
+      <description><![CDATA[WebP 太棒了，但它不是
+Web 内容的作者讨论了他们使用 WebP（一种图像文件格式）的体验，以及他们对其性能的失望。他们最初认为与 JPEG 相比，WebP 可以显着节省文件大小，但他们发现它经常导致色调分离和图像质量下降，特别是在具有平滑渐变的图像中。作者还批评了对平均指标的依赖以及将清晰度优先于图像质量其他方面的做法。他们的结论是，围绕 WebP 的炒作是不合理的，而且它不符合他们作为摄影师的标准。 （根据 65% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/64038</guid>
+      <pubDate>Fri, 15 Dec 2023 11:39:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AMD 推出了下一代 AI 加速器芯片 Instinct MI300，这是一款 3D 集成 [...]</title>
-      <link>https://t.me/hn_summary/64021</link>
-      <description><![CDATA[AMD 的下一款 GPU 是 3D 集成超级芯片&lt; br /&gt;
-AMD 推出了下一代 AI 加速器芯片 Instinct MI300，这是一款 3D 集成超级芯片。该芯片是计算、内存和通信的夹层蛋糕，可以在其切片之间垂直传输高达 17 TB 的数据。这会显着提高某些机器学习计算的速度。 MI300 具有三个 CPU 小芯片、六个加速器小芯片和四个输入输出芯片，全部堆叠在一起。该集成是通过两种技术实现的：SoIC 和 CoWoS。 MI300 与 Nvidia 和 Intel 的竞争方法既有相似之处，也有不同之处。]]></description>
-      <guid>https://t.me/hn_summary/64021</guid>
-      <pubDate>Fri, 15 Dec 2023 07:05:30 GMT</pubDate>
+      <title>在这篇博文中，作者讨论了全身高斯 Splat 深度伪造人类的出现。</title>
+      <link>https://t.me/hn_summary/64037</link>
+      <description><![CDATA[全身高斯 Splat Deepfake 人类的出现 
+在这篇博文中，作者讨论了全身高斯 Splat 深度伪造人类的出现。这些深度造假人类的训练过程分为两个阶段。第一阶段使用 DynaCap 数据集的数据和专门捕获的镜头来学习初始 3D 高斯 Splat 参数。第二阶段使用损失函数在整个数据序列上进一步训练运动感知解码器，以最大限度地减少损失并提高准确性。研究人员还保留了四个摄像头视图来评估该模型对新数据的适应能力。作者记录了受试者执行动态动作的序列，以获得训练和测试数据。为了测试新颖的视图合成，作者使用 PSNR 和 LPIPS 等指标将他们的系统与其他四种方法进行了比较。结果根据受试者穿着紧身或宽松服装而有所不同。]]></description>
+      <guid>https://t.me/hn_summary/64037</guid>
+      <pubDate>Fri, 15 Dec 2023 11:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>Every Noise at Once 的创始人 Glenn McDonald 已被 Spotify 解雇。</title>
-      <link>https://t.me/hn_summary/64020</link>
-      <description><![CDATA[Every Noise at Once 的创始人 Glenn McDonald 被解雇Spotify
-Every Noise at Once 的创始人 Glenn McDonald 已被 Spotify 解雇。 Every Noise at Once 是一个提供音乐发现工具和流派分类的网站。 McDonald 讨论了创建新版本工具的挑战以及 Spotify API 的局限性。他表达了对被解雇的失望，并反思了自己多年来对 Spotify 的贡献。 McDonald 还提到，Every Noise at Once 将不再接收数据更新，但他的自动播放列表仍在运行。他思考了自己的未来计划，并提到了写第二本书的可能性。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/64020</guid>
-      <pubDate>Fri, 15 Dec 2023 05:38:48 GMT</pubDate>
+      <title>文章认为，由于计算机的无情本质，它本质上是一种压迫性技术。</title>
+      <link>https://t.me/hn_summary/64036</link>
+      <description><![CDATA[计算机本质上是一种压迫性技术
+文章认为，由于计算机的无情本质，它本质上是一种压迫性技术。作者分享了个人经历和观察，例如梦见一台带有滑动金属门的自动售货机，如果时间不正确，可能会截掉一只手。作者认为，机器就像火车门一样，具有彻底、彻底的冷酷无情，可以分裂家庭、造成伤害，而不考虑人类的痛苦。文章还讨论了设计者如何故意利用机器的残酷性来达到某些目的，以及公司如何隐藏在机器的无情背后来逃避责任。作者最后指出，虽然机器辅助的残酷行为可能被视为消极的，但它也有可能带来无限的善意和正直。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/64036</guid>
+      <pubDate>Fri, 15 Dec 2023 11:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了对公共不明空中现象的环境分析[...]</title>
-      <link>https://t.me/hn_summary/64019</link>
-      <description><![CDATA[对公共 UAP 目击事件和天空景观潜力的环境分析
-本文讨论了对公共不明空中现象 (UAP) 目击事件的环境分析以及天空观测的潜力。该研究利用国家 UFO 报告中心 (NUFORC) 的数据，重点关注 2001 年至 2020 年美国的 UAP 目击事件。数据集包括目击事件的日期、位置、形状、持续时间和摘要等信息。该研究还纳入了光污染、云层、树冠、机场和军事设施等解释变量，以了解它们对 UAP 目击事件的影响。使用统计模型进行分析，结果以系数和可信区间的形式呈现。]]></description>
-      <guid>https://t.me/hn_summary/64019</guid>
-      <pubDate>Fri, 15 Dec 2023 05:37:39 GMT</pubDate>
+      <title>克拉克·麦克斯韦基金会很高兴能够提供詹姆斯·克拉克·麦克斯韦故居的互动游览。</title>
+      <link>https://t.me/hn_summary/64035</link>
+      <description><![CDATA[詹姆斯·克拉克·麦克斯韦故居互动之旅
+克拉克·麦克斯韦基金会很高兴能够提供詹姆斯·克拉克·麦克斯韦故居的互动游览。不幸的是，Javascript、HTML5 或 Flash 的激活似乎存在错误，导致用户目前无法访问该游览。对于给您带来的任何不便，我们深表歉意，并正在努力尽快解决该问题。请继续关注更新，并准备好探索历史上最伟大的物理学家之一的故乡。]]></description>
+      <guid>https://t.me/hn_summary/64035</guid>
+      <pubDate>Fri, 15 Dec 2023 10:53:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
