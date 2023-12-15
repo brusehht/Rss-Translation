@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 15 Dec 2023 05:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 08:55:06 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]摘要：据一位人士称，旧金山的谷歌员工正在举行一场死亡抗议。</title>
+      <link>https://t.me/hn_summary/64028</link>
+      <description><![CDATA[Google 员工在 Google SF 举行死机活动&lt; br /&gt;
+摘要：根据官方 Twitter 帐户上的一条推文，旧金山的谷歌员工正在举行一场死机抗议。该推文没有提供任何有关抗议背后原因或工人具体要求的细节。目前还不清楚出了什么问题，也不清楚工人们希望通过这次示威达到什么目的。推文中并未强调围绕此次抗议的争议。]]></description>
+      <guid>https://t.me/hn_summary/64028</guid>
+      <pubDate>Fri, 15 Dec 2023 08:55:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这篇题为“碎片”的博客文章中，作者讨论了对碎片的偏好[...]</title>
+      <link>https://t.me/hn_summary/64027</link>
+      <description><![CDATA[碎片化
+在这篇题为“碎片”的博客文章中，作者讨论了软件开发中对碎片的偏好以及它可能导致的问题。作者解释说，人们经常选择将大问题分解为较小的问题，并假设这些较小的子解决方案彼此独立。然而，作者认为这些分解线通常是任意的，并且可能导致较小部分之间的依赖关系。此外，作者还强调了确保部件本身在分解后仍然保持在一起以解决原始问题的重要性。作者警告说，碎片化可能会导致指数级的复杂性，并且几乎不可能理解软件的整体行为。根据作者的说法，解决方法是对碎片持怀疑态度，而将重点放在适当的封装上。作者举例说明了软件开发的各个方面如何出现碎片，例如使用全局变量、在静态 HTML 文件中分发代码以及杂乱的数据存储。作者最后强调，封装是管理复杂性并允许软件解决方案增长和复杂化的关键。]]></description>
+      <guid>https://t.me/hn_summary/64027</guid>
+      <pubDate>Fri, 15 Dec 2023 07:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者讨论了他们测试 Microsoft 365 Copilot 的经验，这是一个设计的工具集 [...]</title>
+      <link>https://t.me/hn_summary/64026</link>
+      <description><![CDATA[初步了解 Microsoft 365 Copilot
+作者讨论了他们测试 Microsoft 365 Copilot（旨在提高工作效率的工具集）的经验。他们上传了各种与工作相关的文档来测试Copilot的总结和问答能力。作者发现结果好坏参半，有些答案完全不正确。他们还测试了 Copilot for Outlook，发现起草电子邮件的效果相当好，但无法总结文档。作者的结论是，虽然生产力有提高的潜力，但他们对 Copilot 当前的输出和实用性并没有留下深刻的印象。他们计划随着产品的发展继续进行测试。]]></description>
+      <guid>https://t.me/hn_summary/64026</guid>
+      <pubDate>Fri, 15 Dec 2023 07:33:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] FCC 已批准 SpaceX 测试其蜂窝星链系统，该系统将 [...]</title>
+      <link>https://t.me/hn_summary/64025</link>
+      <description><![CDATA[FCC 批准 SpaceX 在手机上测试蜂窝 Starlink&lt; br /&gt;
+美国联邦通信委员会 (FCC) 已批准 SpaceX 测试其蜂窝星链系统，该系统将向美国各地二十多个地点的智能手机传输数据。该测试将涉及在地面使用未经修改的 T-Mobile 电话来接收卫星连接。 SpaceX 有 180 天的时间进行试点，最终将使用 840 颗卫星向 2000 个测试设备传输数据。测试地点包括加利福尼亚州山景城；堪萨斯州堪萨斯城；华盛顿州雷德蒙德；和德克萨斯州达拉斯。这些测试将帮助 SpaceX 和 FCC 确定蜂窝星链系统是否会对其他运营商和卫星提供商造成无线电干扰。]]></description>
+      <guid>https://t.me/hn_summary/64025</guid>
+      <pubDate>Fri, 15 Dec 2023 07:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Godot Engine 与 Google 和 The Forge 合作以提高性能优化 [...]</title>
+      <link>https://t.me/hn_summary/64024</link>
+      <description><![CDATA[Godot：与 Google 和 Forge 的合作&lt; br /&gt;
+Godot Engine 与 Google 和 The Forge 合作，改进其 Vulkan 移动后端的性能优化。此次合作将主要使支持 Vulkan 的移动设备用户受益。 Google 致力于增强 Android 游戏生态系统，因此他们协助 Godot 确保其 Vulkan 移动渲染器尽可能高效。 The Forge 是一家专注于游戏引擎和渲染解决方案的知名开发商，将在接下来的几个月里在 Google 专家和 Godot 贡献者的支持下致力于 Godot 的开发。最终目标是为 Android 游戏创建一个卓越的生态系统，让开发者能够利用 Vulkan 进一步推动他们的想法。]]></description>
+      <guid>https://t.me/hn_summary/64024</guid>
+      <pubDate>Fri, 15 Dec 2023 07:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]你能把鸡变成青蛙、鱼或变色龙吗？</title>
+      <link>https://t.me/hn_summary/64023</link>
+      <description><![CDATA[你能把鸡变成青蛙、鱼或变色龙吗？
+来自哈佛大学、加州大学圣地亚哥分校和邓迪大学的研究人员开发了一种理论框架，可以重现和预测与鸡胚胎中原肠胚形成相关的模式。原肠胚形成是胚胎发育的关键阶段，在此阶段细胞分化并形成三维结构。研究人员发现，细胞参数和行为的微小变化会对原肠胚形成模式产生重大影响。通过调整这些参数，他们能够重现其他物种（例如青蛙、鱼类和变色龙）中看到的原肠胚形成模式。这项研究提供了对早期发育中自组织的见解，并有助于理解发育过程的进化历史。]]></description>
+      <guid>https://t.me/hn_summary/64023</guid>
+      <pubDate>Fri, 15 Dec 2023 07:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者认为程序是游戏，编程本身也是游戏。</title>
+      <link>https://t.me/hn_summary/64022</link>
+      <description><![CDATA[程序就是游戏，编程就是游戏
+作者认为程序是游戏，编程本身也是游戏。他们将博弈定义为自愿控制系统的行使，力量之间存在对立，受到规则的限制，并产生不平衡的结果。从这个意义上说，程序是将输入转换为输出的一组规则。运行程序时，用户对输入进行自愿控制，程序使用其规则提供相应的输出。作者认为编程是最有趣的游戏，因为它涉及创建一个将所有可能的输入映射到输出的程序。他们主张教更多的人编程，让编写有趣的程序变得容易。]]></description>
+      <guid>https://t.me/hn_summary/64022</guid>
+      <pubDate>Fri, 15 Dec 2023 07:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]AMD 推出了下一代 AI 加速器芯片 Instinct MI300，这是一款 3D 集成 [...]</title>
+      <link>https://t.me/hn_summary/64021</link>
+      <description><![CDATA[AMD 的下一款 GPU 是 3D 集成超级芯片&lt; br /&gt;
+AMD 推出了下一代 AI 加速器芯片 Instinct MI300，这是一款 3D 集成超级芯片。该芯片是计算、内存和通信的夹层蛋糕，可以在其切片之间垂直传输高达 17 TB 的数据。这会显着提高某些机器学习计算的速度。 MI300 具有三个 CPU 小芯片、六个加速器小芯片和四个输入输出芯片，全部堆叠在一起。该集成是通过两种技术实现的：SoIC 和 CoWoS。 MI300 与 Nvidia 和 Intel 的竞争方法既有相似之处，也有不同之处。]]></description>
+      <guid>https://t.me/hn_summary/64021</guid>
+      <pubDate>Fri, 15 Dec 2023 07:05:30 GMT</pubDate>
+    </item>
     <item>
       <title>Every Noise at Once 的创始人 Glenn McDonald 已被 Spotify 解雇。</title>
       <link>https://t.me/hn_summary/64020</link>
@@ -20,70 +84,6 @@ Every Noise at Once 的创始人 Glenn McDonald 已被 Spotify 解雇。 Every N
 本文讨论了对公共不明空中现象 (UAP) 目击事件的环境分析以及天空观测的潜力。该研究利用国家 UFO 报告中心 (NUFORC) 的数据，重点关注 2001 年至 2020 年美国的 UAP 目击事件。数据集包括目击事件的日期、位置、形状、持续时间和摘要等信息。该研究还纳入了光污染、云层、树冠、机场和军事设施等解释变量，以了解它们对 UAP 目击事件的影响。使用统计模型进行分析，结果以系数和可信区间的形式呈现。]]></description>
       <guid>https://t.me/hn_summary/64019</guid>
       <pubDate>Fri, 15 Dec 2023 05:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]国会通过了一项法案，禁止任何总统单方面撤回 [...]</title>
-      <link>https://t.me/hn_summary/64018</link>
-      <description><![CDATA[国会通过法案禁止总统单方面退出北约 
-国会通过了一项法案，禁止任何总统在未经参议院批准或国会法案的情况下单方面让美国退出北约。这项立法包含在《国防授权法》中，强调了国会对北约联盟的承诺，而这一承诺曾受到前总统特朗普的批评。该措施被视为国会监督的重要工具，并发出了支持该联盟的强烈信息。拜登总统对北约进行了大量投资，增加了在欧洲的驻军和资源。对于特朗普对北约的立场，人们意见不一，有人认为他的强硬言论激励成员国履行义务，而另一些人则认为这削弱了联盟。]]></description>
-      <guid>https://t.me/hn_summary/64018</guid>
-      <pubDate>Fri, 15 Dec 2023 05:37:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]OpenAI的超对准团队一直致力于研究超对准问题，[...]</title>
-      <link>https://t.me/hn_summary/64017</link>
-      <description><![CDATA[现在我们知道 OpenAI 的超级对齐团队在做什么
-OpenAI的超对准团队一直致力于研究超对准问题，由于超人机器不存在，因此研究起来很困难。为了克服这个问题，他们使用了 OpenAI 五年前发布的模型 GPT-2 作为超人机器的替代品。他们训练 GPT-2 执行各种任务，并利用其响应来训练 OpenAI 最新、最强大的模型 GPT-4。结果好坏参半，GPT-4 在语言任务上表现更好，但在国际象棋难题上表现不佳。尽管如此，该团队认为该方法很有希望，但需要进一步的工作。 AI 研究员 Thilo Hagendorff 提出了对使用 GPT-2 作为教师的担忧，以及将未来的超人模型与未知能力相结合的挑战。 OpenAI 还宣布设立 1000 万美元基金，支持研究超级对齐的研究人员。]]></description>
-      <guid>https://t.me/hn_summary/64017</guid>
-      <pubDate>Fri, 15 Dec 2023 05:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]《科学》杂志上发表的一项新研究对古代 [...]</title>
-      <link>https://t.me/hn_summary/64016</link>
-      <description><![CDATA[二氧化碳 6600 万年的新历史对今天来说并没有多少安慰
-《科学》杂志上发表的一项新研究对过去 6600 万年古代大气二氧化碳 (CO2) 水平和相应温度进行了全面回顾。这项由来自 16 个国家的 80 多名研究人员组成的联合体进行的研究表明，上一次二氧化碳水平持续达到当今人类驱动的水平是在 1400 万年前，比之前认为的要早得多。该研究还强调了长期气候对温室气体的敏感性以及数千年来可能发生的潜在连锁效应。这些发现对气候政策和未来气候模型具有影响。这项研究是一个更大项目的一部分，旨在绘制整个显生宙的二氧化碳和气候的演变。]]></description>
-      <guid>https://t.me/hn_summary/64016</guid>
-      <pubDate>Fri, 15 Dec 2023 05:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页内容讨论了计算机图形学中常用的各种插值方法。</title>
-      <link>https://t.me/hn_summary/64015</link>
-      <description><![CDATA[插值方法 (1999)
-网页内容讨论了计算机图形学中常用的各种插值方法。它解释了插值与平滑不同，因为插值旨在估计已知点之间的曲线值。讨论的方法包括线性插值、余弦插值、三次插值和埃尔米特插值。内容还提到了 Paul Breeuwsma 的用于更平滑插值曲线的系数，称为 Catmull-Rom 样条。它进一步解释了三线性插值，它用于在 3D 框中插值点。内容最后简要解释了线性回归，线性回归用于将直线拟合到点的集合。 （根据 34% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/64015</guid>
-      <pubDate>Fri, 15 Dec 2023 05:37:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者讨论了他们对 Apple 即将推出的 Vision Pro 的体验，这是一款空间合成器 [...]</title>
-      <link>https://t.me/hn_summary/64014</link>
-      <description><![CDATA[Vision Pro 将改变摄影
-作者讨论了他们对苹果即将推出的 Vision Pro 的体验，这是一款戴在脸上的空间计算机，它将重新定义我们与视觉媒体的关系。他们强调了该设备捕捉和播放空间视频的能力，从而提供更身临其境的 3D 体验。作者还探讨了 Vision Pro 对摄影的影响，指出该设备的大尺寸高分辨率显示屏可以让人们以新的方式欣赏照片，并为构图和透视开辟创意机会。他们对空间视频的未来可能性和不断变化的照片屏幕生活表示兴奋。]]></description>
-      <guid>https://t.me/hn_summary/64014</guid>
-      <pubDate>Fri, 15 Dec 2023 05:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>此网页内容的作者描述了他们对 1x32 LCD 显示器进行逆向工程的旅程 [...]</title>
-      <link>https://t.me/hn_summary/64013</link>
-      <description><![CDATA[对 LCD 显示器进行逆向工程
-此网页内容的作者描述了他们对 1x32 LCD 显示器进行逆向工程的过程，但他们找不到该显示器的数据表。他们尝试了各种方法，包括检查类似的显示器、故障排除、部分打开驱动器芯片以及追踪键合线。他们发现显示器中使用的驱动芯片是 ST7066，常用于兼容 Arduino 的 LCD 显示器。他们还发现显示器上的外部组件与 ST7066 数据表中提到的相符。尽管最初遇到了一些挫折，作者最终还是成功地使用 Arduino 驱动了显示器。 1x32 LCD 显示屏的独特性以及作者对其进行逆向工程的决心使本文变得有趣。 （根据 44% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/64013</guid>
-      <pubDate>Fri, 15 Dec 2023 05:36:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]加密电子邮件服务 Proton 的创始人表示，该公司将 [...]</title>
-      <link>https://t.me/hn_summary/64012</link>
-      <description><![CDATA[Proton Mail 创始人发誓要在法庭上对抗澳大利亚电子安全监管机构
-加密电子邮件服务 Proton 的创始人表示，如果澳大利亚在线安全监管机构要求根据拟议标准削弱加密，该公司将把澳大利亚在线安全监管机构告上法庭。电子安全专员建议云和消息服务提供商应检测并删除已知的虐待儿童和恐怖分子材料，并阻止此类性质的新材料。隐私和安全组织认为，标准草案可能会迫使公司妥协加密技术。 Proton 与其他组织一起对该提案表示担忧，并敦促不要实施会损害个人和社区的扫描措施。宝腾创始人发誓，如果不改变这些标准，他将在法庭上反对这些标准。]]></description>
-      <guid>https://t.me/hn_summary/64012</guid>
-      <pubDate>Fri, 15 Dec 2023 05:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>news.ycombinator.com 上这篇文章的作者是一家初创公司的联合创始人，他正在考虑 [...]</title>
-      <link>https://t.me/hn_summary/64011</link>
-      <description><![CDATA[询问 HN：我是一名联合创始人，希望在离开初创公司之前加薪，如何应对
-news.ycombinator.com 上这篇文章的作者是一家初创公司的联合创始人，正在考虑在计划加薪之前离开公司。这家初创公司正在转向一个新的想法，作者不想实施该想法，但相信它会成功。作者担心如何在不对其联合创始人和团队其他成员准备筹款时产生负面影响的情况下处理这种情况。他们还担心，如果他们留下来，然后在融资后立即离开，会误导投资者。作者讨论了解散公司并将第一轮剩余资金返还给投资者的可能性，但他们的联合创始人反对这个想法。]]></description>
-      <guid>https://t.me/hn_summary/64011</guid>
-      <pubDate>Fri, 15 Dec 2023 05:05:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
