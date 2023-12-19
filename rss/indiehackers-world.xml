@@ -4,7 +4,21 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 19 Dec 2023 00:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 03:12:09 GMT</lastBuildDate>
+    <item>
+      <title>我如何推出新产品并在 5 天内赚取 7,000 美元</title>
+      <link>https://feed.indiehackers.world/post/dc6ec17c84</link>
+      <description><![CDATA[
+每月计划/订阅
+每笔销售的佣金
+终身优惠
+
+但这将在不久的将来实现，因为我致力于让我的产品更接近产品市场。
+有什么问题都可以问我！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/dc6ec17c84</guid>
+      <pubDate>Tue, 19 Dec 2023 00:52:10 GMT</pubDate>
+    </item>
     <item>
       <title>React Native 样板可以更快地交付您的移动应用程序 🚀</title>
       <link>https://feed.indiehackers.world/post/7827d198e2</link>
@@ -161,24 +175,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c0092c227d</guid>
       <pubDate>Mon, 18 Dec 2023 16:12:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我们创建有史以来最好的、免费的、开源的 SaaS 样板</title>
-      <link>https://feed.indiehackers.world/post/89d2172af4</link>
-      <description><![CDATA[您可以访问 GitHub 上的存储库：https://github.com/wasp-lang/open-saas。如果您喜欢它并想要支持它，我们将非常感谢您主演该项目！这将给我们继续前进的动力，并将 OpenSaaS 带给更多开发者。
-OpenSaaS 100% 开源，并且易于部署到任何平台。我们特别注意尽可能不依赖任何专有部署服务或第三方集成。
-这是它所构建的堆栈：
-
-React、Node.js 和Prisma - 由 Vite 和 提供支持黄蜂框架
-合理的隐私分析，或 Google Analytics 的轻松实现
-使用您自己的 SMTP、SendGrid 或 EmailGun 发送电子邮件
-管理员仪表板 - 由 Tailwind/Tailadmin 提供支持
-博客 - 由 Astro 提供支持
-
-享受吧:)
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/89d2172af4</guid>
-      <pubDate>Mon, 18 Dec 2023 16:08:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
