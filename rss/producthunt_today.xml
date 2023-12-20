@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 20 Dec 2023 18:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 21:09:46 GMT</lastBuildDate>
     <item>
       <title>哒哒</title>
       <link>https://www.producthunt.com/posts/dada-3</link>
@@ -76,6 +76,20 @@
       <pubDate>Tue, 19 Dec 2023 22:10:27 GMT</pubDate>
     </item>
     <item>
+      <title>Renewables.org 礼品卡</title>
+      <link>https://www.producthunt.com/posts/renewables-org-gift-cards</link>
+      <description><![CDATA[
+            气候影响的礼物，以现金回报
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/renewables-org-gift-cards</guid>
+      <pubDate>Tue, 19 Dec 2023 16:42:09 GMT</pubDate>
+    </item>
+    <item>
       <title>乳白色植物</title>
       <link>https://www.producthunt.com/posts/milky-plant</link>
       <description><![CDATA[
@@ -104,7 +118,7 @@
       <pubDate>Tue, 19 Dec 2023 14:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>麦勒鲁</title>
+      <title>麦勒罗</title>
       <link>https://www.producthunt.com/posts/maileroo</link>
       <description><![CDATA[
             交易电子邮件传送
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/re-eng-2</guid>
       <pubDate>Mon, 18 Dec 2023 07:23:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>雪球</title>
-      <link>https://www.producthunt.com/posts/snowball-edf5ae17-d817-4654-ab1d-4236ea16d83f</link>
-      <description><![CDATA[
-            人工智能让内容创作变得简单
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/snowball-edf5ae17-d817-4654-ab1d-4236ea16d83f</guid>
-      <pubDate>Fri, 01 Dec 2023 22:05:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
