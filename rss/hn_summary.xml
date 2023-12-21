@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 21 Dec 2023 18:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 21:07:59 GMT</lastBuildDate>
     <item>
-      <title>[媒体]美国天然气公用事业公司正在向建筑商和承包商提供激励措施，以保留化石燃料 [...]</title>
-      <link>https://t.me/hn_summary/65049</link>
-      <description><![CDATA[美国公用事业公司向建筑商提供现金/旅行，为新房安装天然气电器
-据《卫报》的一项调查显示，美国天然气公用事业公司正在向建筑商和承包商提供激励措施，以在建筑物中保留化石燃料。美国的燃气公用事业公司向为新房配备燃气用具的建筑商提供现金奖励和旅行。这些举措是天然气利益集团为吸引建筑商、承包商和房地产经纪人而长期努力的一部分，这些人是购房者和开发商值得信赖的人物。然而，这些努力被视为建筑脱碳的主要障碍，建筑约占美国温室气体排放量的三分之一。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65049</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:15 GMT</pubDate>
+      <title>[媒体] 我写了 2K 多行 Brainfuck。</title>
+      <link>https://t.me/hn_summary/65075</link>
+      <description><![CDATA[我写了 2K 多行 Brainfuck。这是我学到的东西
+该网页内容的作者分享了他们使用 Brainfuck（一种极简编程语言）进行编程的经验。他们提到，他们已经编写了 2000 多行 Brainfuck 代码，甚至创立了一家名为 BF Enterprise Solutions 的公司。作者强调了使用 Brainfuck 的挑战，例如缺乏类型检查和调试困难。他们还讨论了数据布局的重要性以及它如何提高程序效率。作者最后鼓励读者自己尝试在 Brainfuck 中编程。]]></description>
+      <guid>https://t.me/hn_summary/65075</guid>
+      <pubDate>Thu, 21 Dec 2023 21:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]技术倡导团体联盟已致函美国司法部 [...]</title>
-      <link>https://t.me/hn_summary/65048</link>
-      <description><![CDATA[苹果对 iMessage 的严格控制引发了新一轮反垄断调查
-一个科技倡导团体联盟已致函美国司法部，敦促其调查苹果涉嫌的反竞争行为。这封信特别提到了苹果公司最近对 Beeper 的屏蔽，该应用程序对 iMessage 进行了逆向工程，以允许与 Android 手机兼容。致力于加强科技监管的科技监督项目发出了这封信，并呼吁对苹果提起反垄断诉讼。 Demand Progress 向参议院司法委员会发送了另一封信，要求对苹果的做法进行调查。这些信件强调了人们对苹果对其设备的控制、对第三方应用程序的不公平政策以及在应用程序商店市场中的主导地位的担忧。最近 Beeper Mini 的关闭以及 Tile 之前的投诉也被视为苹果反竞争行为的例子。这些事件发生后，苹果放松对其服务控制的压力有所增加。]]></description>
-      <guid>https://t.me/hn_summary/65048</guid>
-      <pubDate>Thu, 21 Dec 2023 17:55:11 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了对多样性、公平和包容性 (DEI) 影响的强烈反对 [...]</title>
+      <link>https://t.me/hn_summary/65074</link>
+      <description><![CDATA[科技公司对 DEI 的强烈反对
+本文讨论了科技行业对多元化、公平性和包容性 (DEI) 努力的强烈反对。其中重点介绍了红杉资本合伙人肖恩·马奎尔的一条推文，他质疑自己是否应该分享自己因白人身份而无法升职的经历。对他推文的回应反映了风险投资界内部在 DEI 主题上的分歧。 Peter Thiel 和 Elon Musk 等人一直直言不讳地批评 DEI，认为它延续了歧视。文章解释说，DEI 旨在创造更具包容性的工作场所并支持边缘化社区，但近年来其支持有所减弱。 DEI 支持的减少对该行业产生了连锁反应。文章还提到了 Diversify Tech 的创始人 Veni Kunche，她注意到希望与她的组织合作的公司的兴趣发生了逆转。]]></description>
+      <guid>https://t.me/hn_summary/65074</guid>
+      <pubDate>Thu, 21 Dec 2023 21:04:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文件是国家毒理学计划 (NTP) 关于 s [...]</title>
-      <link>https://t.me/hn_summary/65047</link>
-      <description><![CDATA[氟化物暴露与认知影响相关证据的荟萃分析 [pdf]( https://news.ycombinator.com/item?id=38720072)
-本文件是国家毒理学计划 (NTP) 的专着草案，内容涉及氟化物暴露以及神经发育和认知健康影响的科学状况。 NTP 是美国卫生与公众服务部内部的一个机构间合作项目，专注于对相关物质进行测试、研究和分析，以确定毒性和生物效应。本专着对文献进行了系统回顾，以评估氟化物暴露是否可能与神经发育和认知的不良健康影响有关。该文件概述了审查所使用的方法，包括文献检索、研究选择、数据提取和质量评估。结果部分介绍了文献检索的结果，包括儿童智商数据、儿童其他神经发育或认知影响、成人认知影响、人类机械数据、动物学习和记忆数据以及神经发育或认知体外数据影响。讨论部分强调了证据基础的优点和局限性，并提供了研究结果的摘要。该文件还包括参考文献、包含更多详细信息和图表的附录，以及总结人类 PECO（人口、暴露、比较、结果）声明的表格。 （根据故事文本的 0% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65047</guid>
-      <pubDate>Thu, 21 Dec 2023 17:48:58 GMT</pubDate>
+      <title>[媒体] Eqtble 是一家旨在帮助公司就 [...] 做出更公平决策的公司。</title>
+      <link>https://t.me/hn_summary/65073</link>
+      <description><![CDATA[Eqtble (YC W21) 正在招聘软件工程师 
+Eqtble 是一家致力于帮助公司就员工做出更公平决策的公司。他们目前正在招聘一名软件工程师与创始团队密切合作。工程师的角色将对公司和产品轨迹产生重大影响，他们将负责软件开发和决策的整个周期。该角色所需的技能包括 Python、Django、Django Rest Framework、React、SQL、Postgres、Redis 和 AWS。工程师将有机会为产品开发做出贡献，确定功能和错误修复的优先级，并改善客户体验。 Eqtble 是下一代人力资源分析平台，提供有关劳动力、人才招聘、敬业度和薪酬的见解。他们的目标是帮助公司从人力资源数据中挖掘洞察并及时采取行动。]]></description>
+      <guid>https://t.me/hn_summary/65073</guid>
+      <pubDate>Thu, 21 Dec 2023 21:01:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]当第一颗星星开始闪耀时是什么样的？</title>
-      <link>https://t.me/hn_summary/65046</link>
-      <description><![CDATA[当第一颗星星开始闪耀时是什么样的？
-这篇文章讨论了宇宙中第一批恒星的形成。它解释说，第一批恒星点燃至少需要 5000 万年，甚至可能长达 1 亿年或更长时间。由于宇宙尺度上的引力过程缓慢以及早期宇宙中存在的高能量辐射等因素，恒星形成的过程很缓慢。文章还强调，最初的恒星比今天的恒星质量大得多，平均质量大约是太阳的 10 倍。这些早期恒星发出的辐射主要是紫外线，它电离周围的中性原子并导致称为再电离的过程。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65046</guid>
-      <pubDate>Thu, 21 Dec 2023 17:40:05 GMT</pubDate>
+      <title>[媒体] 欢迎加入我们的 www.chat-to.dev，我们在这里为程序员创建了一个平台 [...]</title>
+      <link>https://t.me/hn_summary/65072</link>
+      <description><![CDATA[Show HN：来创建有关编程和软件开发的聊天室&lt; /a&gt;
+欢迎加入我们 www.chat-to.dev，我们为程序员和软件开发人员创建了一个平台，让他们聚集在一起讨论与编程和软件开发相关的所有事情。我们的聊天室是学习和分享 PHP 知识的完美场所，讨论范围从工具和书籍到应用程序和智能学习技术。加入我们，成为这个充满活力的社区的一部分！]]></description>
+      <guid>https://t.me/hn_summary/65072</guid>
+      <pubDate>Thu, 21 Dec 2023 20:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>Arxiv.org 与内容交付网络 (CDN) Fastly 合作，以提高 [...]</title>
-      <link>https://t.me/hn_summary/65045</link>
-      <description><![CDATA[使用 Fastly 加快 Arxiv.org
-Arxiv.org 已与内容交付网络 (CDN) Fastly 合作），以提高网站的速度和性能。 Fastly 向 Arxiv.org 慷慨捐赠了 CDN 服务，使他们能够缓存并传送来自全球约 100 个接入点 (POP) 的内容。这意味着大约 60% 的 Arxiv.org 的网络请求是现在由本地 Fastly POP 提供服务，从而提高了用户的性能，尤其是北美以外的用户。 Arxiv.org 鼓励用户提供有关网站体验的反馈并报告他们遇到的任何问题。]]></description>
-      <guid>https://t.me/hn_summary/65045</guid>
-      <pubDate>Thu, 21 Dec 2023 17:39:57 GMT</pubDate>
+      <title>作者介绍了一款名为 Moochee 的新开源应用程序，它与 Kahoot 类似。</title>
+      <link>https://t.me/hn_summary/65071</link>
+      <description><![CDATA[显示 HN：使用 Nobuild 的前端堆栈
+作者介绍了一款名为 Moochee 的新开源应用程序，它与 Kahoot 类似。该应用程序使用 Preact、HTM 和 ESM 构建，不需要任何构建工具，因此可以直接在浏览器中轻松维护和调试。作者提供了 GitHub 存储库、Moochee 网站和应用程序本身的链接。]]></description>
+      <guid>https://t.me/hn_summary/65071</guid>
+      <pubDate>Thu, 21 Dec 2023 20:50:22 GMT</pubDate>
     </item>
     <item>
-      <title>Mozilla 推出了一项名为 llamafile 的新开源计划，旨在简化 [...]</title>
-      <link>https://t.me/hn_summary/65044</link>
-      <description><![CDATA[Llamafile：将 LLM 带给人们和您自己的计算机&lt; /a&gt;
-Mozilla 推出了一项名为 llamafile 的新开源计划，旨在通过将全栈 LLM 聊天机器人的复杂性压缩为可在六种不同操作系统上运行的单个文件来简化大型语言模型 (LLM) 的使用。该项目解决了使用基于商业云的 LLM 应用程序和服务时对隐私、访问和控制的担忧。 Mozilla 相信，通过让开源 AI 变得更加易于访问和透明，它可以增加信任、安全、竞争和用户选择。 llamafile 项目结合了两个现有的开源项目 llama.cpp 和 Cosmopolitan，创建一个可以在消费级硬件上运行 LLM 的可执行文件。这一举措还推广了“本地人工智能”的概念，即人工智能在用户自己的设备上运行，即使没有互联网访问也能确保控制和可用性。 Mozilla 将本地人工智能视为对抗人工智能企业集中控制并将人工智能技术带给更广泛受众的一种手段。]]></description>
-      <guid>https://t.me/hn_summary/65044</guid>
-      <pubDate>Thu, 21 Dec 2023 17:35:48 GMT</pubDate>
+      <title>[媒体]Helix 正在为 Mistral 和 SDXL 引入一项名为“局部微调”的新功能，该功能 [...]</title>
+      <link>https://t.me/hn_summary/65070</link>
+      <description><![CDATA[显示 HN：Mistral 和 SDXL、GPU mem 的本地微调/延迟优化
+Helix 为 Mistral 和 SDXL 引入了一项名为“本地微调”的新功能，该功能侧重于 GPU 内存和延迟优化。此功能允许用户通过调整 GPU 内存分配并优化面向用户的延迟和 GPU 内存利用率之间的权衡来微调其模型。 Helix 的 Runner 架构使用户能够将来自各种来源（例如企业、云提供商或专业提供商）的 GPU 连接到单个控制平面。此外，Helix 与 Keycloak 集成进行身份验证，使其兼容各种企业环境。此次新功能旨在为用户提供一个易用、高效的AI平台。]]></description>
+      <guid>https://t.me/hn_summary/65070</guid>
+      <pubDate>Thu, 21 Dec 2023 20:42:15 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了使用 NeoVim 的优点和缺点，NeoVim 是一种功能强大且灵活的文本 [...]</title>
-      <link>https://t.me/hn_summary/65043</link>
-      <description><![CDATA[中级Vimmer的孤独
-本文讨论了使用 NeoVim 的优点和缺点，NeoVim 是专业程序员首选的强大而灵活的文本编辑器。虽然 NeoVim 允许通过编程实现更快的文本编辑和定制，但它也被视为软件开发人员的一种奇怪的边缘兴趣。作者强调了与非 Vim 用户结对编程的困难以及与其他文本编辑器合作的挑战。文章最后承认 NeoVim 提高了作者的工作效率，但也承认它造成的疏远。作者建议留出时间使用不同的文本编辑器进行配对。]]></description>
-      <guid>https://t.me/hn_summary/65043</guid>
-      <pubDate>Thu, 21 Dec 2023 17:34:38 GMT</pubDate>
+      <title>[媒体]本文讨论了用户控制技术的法律案例，特别是 [...]</title>
+      <link>https://t.me/hn_summary/65069</link>
+      <description><![CDATA[解锁用户自由：使用广告拦截器的权利&lt; br /&gt;
+本文讨论了用户控制技术的法律案例，特别是使用广告拦截器的权利。它强调了德国最近两起涉及广告拦截器的法庭案件，这些案件可以加强用户自由的法律论据。本文探讨了使用广告拦截器的合法性以及对网站所有者的潜在影响。它还讨论了出版公司 Axel Springer 针对 Adblock Plus 的创建者 Eyeo 提出的论点。法院判决支持用户权利，指出用户有权不发表意见并拒绝接收强加的信息。然而，文章还提到了法院判决的一些缺点，例如广告拦截检测工具的批准和付费墙的潜力。总的来说，本文强调了用户自由的重要性以及在数字时代保护用户自由的必要性。]]></description>
+      <guid>https://t.me/hn_summary/65069</guid>
+      <pubDate>Thu, 21 Dec 2023 20:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]地质学家发现了一种名为塑岩的新型沉积岩，它是[...]</title>
-      <link>https://t.me/hn_summary/65042</link>
-      <description><![CDATA[地质学家说塑料岩石现在已成为一种现象
-地质学家发现了一种称为塑岩的新型沉积岩，它是天然岩石和合成塑料的结合体。当塑料废物通过石化过程与天然岩石元素交织在一起时，就会形成塑料石。它们在全球沿海和内陆地区被发现，是人类对地球影响的明确指标。塑料石可以通过多种机制形成，例如篝火或废物燃烧场中塑料碎片的熔化。塑石中常见的塑料类型包括聚乙烯和聚丙烯。塑料石有可能向环境中释放微塑料和纳米塑料，引发人们对其长期生态影响的担忧。这一发现凸显了人类对地球地质的深远而持久的影响。需要进一步研究来了解塑料石的形成、分布和影响。]]></description>
-      <guid>https://t.me/hn_summary/65042</guid>
-      <pubDate>Thu, 21 Dec 2023 17:29:27 GMT</pubDate>
+      <title>[媒体] ProPublica 的疗养院检查工具提供了 nur 的详细所有权信息 [...]</title>
+      <link>https://t.me/hn_summary/65068</link>
+      <description><![CDATA[使用我们的疗养院检查工具找出疗养院的所有者&lt; /a&gt;
+ProPublica 的疗养院检查工具提供疗养院的详细所有权信息，帮助用户了解疗养院所有权的复杂世界。这些数据来自医疗保险和医疗补助服务中心，包括有关附属实体及其在多个疗养院的绩效的信息。用户可以浏览每家疗养院负责人或公司的数据，查看这些疗养院最近发现的严重缺陷，并访问全国所有附属实体的列表。该工具还提供高级搜索功能，允许用户识别具有严重缺陷历史的附属实体或按合规问题过滤搜索。 ProPublica 计划继续使用新数据和功能增强该工具。]]></description>
+      <guid>https://t.me/hn_summary/65068</guid>
+      <pubDate>Thu, 21 Dec 2023 20:32:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]你真的需要外键吗？</title>
-      <link>https://t.me/hn_summary/65041</link>
-      <description><![CDATA[你真的需要外键吗？
-在这篇发人深省的文章中，我们探讨了外键在数据库设计中是否真正必要的问题。虽然外键长期以来一直被认为是维护数据完整性的一个基本方面，但一些人认为，在某些情况下它们可能是繁重且不必要的。作者提出了争论的双方，强调了使用外键的潜在好处和缺点。本文挑战传统观念，并鼓励读者批判性地评估他们的数据库设计选择。无论您是经验丰富的数据库专业人士还是好奇的初学者，本文一定会引发一些有趣的讨论。]]></description>
-      <guid>https://t.me/hn_summary/65041</guid>
-      <pubDate>Thu, 21 Dec 2023 17:29:18 GMT</pubDate>
+      <title>[媒体]Substack 联合创始人解决了围绕 fring 存在的争议 [...]</title>
+      <link>https://t.me/hn_summary/65067</link>
+      <description><![CDATA[Substack 联合创始人解释为什么应该允许纳粹使用它&lt; /a&gt;
+Substack 的联合创始人解决了围绕该平台上存在的边缘声音（包括纳粹观点）的争议。他们承认，他们不支持或纵容这些极端观点，但认为审查制度不是解决办法。他们认为，支持个人权利和公民自由，同时让思想公开讨论，是抵制坏思想的最佳方式。该平台的内容指南禁止煽动暴力，他们将继续执行这些规则。他们还强调去中心化的内容审核方法，赋予读者和作者权力。这位联合创始人承认因在播客中接待持有有争议观点的个人而受到批评，但他相信应该包容各种观点。他们鼓励激烈的辩论并对那些在 Substack 上发表文章的人表示感谢。]]></description>
+      <guid>https://t.me/hn_summary/65067</guid>
+      <pubDate>Thu, 21 Dec 2023 20:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据澳大利亚联邦科学与工业研究组织 (CSIRO) 和能源市场监管机构的一份报告，核电将 [...]</title>
-      <link>https://t.me/hn_summary/65040</link>
-      <description><![CDATA[CSIRO 报告发现核能比可再生能源更昂​​贵
-根据澳大利亚联邦科学与工业研究组织（CSIRO）和能源市场监管机构的一份报告，核电将成为澳大利亚最昂贵的新能源。该报告指出，太阳能和陆上风电项目是最便宜的新能源形式，即使考虑到将它们并入电网的成本。对核能成本的估计是基于美国最近流产的核能项目的经验。该报告还提供了可变可再生能源技术的估计“整合成本”数据，发现即使考虑到这些成本，可变可再生能源仍然是成本最低的选择。]]></description>
-      <guid>https://t.me/hn_summary/65040</guid>
-      <pubDate>Thu, 21 Dec 2023 17:23:08 GMT</pubDate>
+      <title>[媒体]《PLOS Biology》发表的新研究表明，女性的眼泪含有化学物质 [...]</title>
+      <link>https://t.me/hn_summary/65066</link>
+      <description><![CDATA[嗅女人的眼泪可以减少男人的攻击行为
+发表在《公共科学图书馆·生物学》上的新研究表明，女性的眼泪中含有可以减少男性攻击性的化学物质。这项由以色列魏茨曼科学研究所的研究人员进行的研究发现，嗅女性的眼泪会导致与攻击性相关的大脑活动减少，从而减少攻击性行为。这种现象被称为社会化学信号传导，在动物中很常见，但在人类中却知之甚少。研究人员让一组男性在玩旨在引发攻击行为的游戏时接触女性的眼泪或盐水。这些男人并不知道自己在嗅什么，但在嗅眼泪后，寻求报复的攻击性显着减少。核磁共振扫描仪的功能成像显示，当男性嗅眼泪时，与攻击性相关的大脑区域不太活跃。这项研究表明，社会化学信号在人类攻击性行为中发挥着重要作用，并挑战了情感眼泪是人类独有的观念。]]></description>
+      <guid>https://t.me/hn_summary/65066</guid>
+      <pubDate>Thu, 21 Dec 2023 19:58:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
