@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 22 Dec 2023 06:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 12:04:30 GMT</lastBuildDate>
     <item>
-      <title>本文讨论了为什么 Emacs 的键盘快捷键集被认为是最差的 [...]</title>
-      <link>https://t.me/hn_summary/65141</link>
-      <description><![CDATA[为什么 Emacs 按键很痛苦
-文章讨论了为什么 Emacs 的键盘快捷键设置被认为在人体工程学方面是最差的。它解释说，Emacs 按键的布局是基于 20 世纪 70 年代末 Lisp Machines 使用的键盘，与现代 PC 键盘相比，它的 Ctrl 和 Meta 键互换了。这意味着 Emacs 中常用的命令涉及 Ctrl 键而不是 Meta 键。文章强调，这种设计选择给许多 Emacs 用户带来了不适和伤害，而且常用命令的按键选择并不是基于按键位置或按下的难易程度。它还提到 Emacs 的一些主要快捷方式映射到当今很少使用的命令。该文章建议 Emacs 应考虑调整其键绑定以适应现代 PC 键盘的布局，以改善人体工程学。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65141</guid>
-      <pubDate>Fri, 22 Dec 2023 06:02:30 GMT</pubDate>
+      <title>问 HN：你的“如果有效的话就不傻”的故事是什么？</title>
+      <link>https://t.me/hn_summary/65169</link>
+      <description><![CDATA[问 HN：你的“如果有效的话就不傻”的故事是什么？
+在 news.ycombinator.com 上的这个帖子中，用户分享他们关于非传统和创造性解决方案的故事，这些解决方案乍一看似乎很愚蠢，但实际上很有效。讨论围绕着可恶的黑客行为展开，人们找到了巧妙的方法来使专有软件以非预期的方式运行。该帖子充满了人们突破技术界限以实现预期结果的轶事，展示了黑客社区的独创性和足智多谋。虽然有些人可能会认为这些方法存在争议或值得怀疑，但它们强调了跳出框框思考和寻找非传统解决方案的力量。]]></description>
+      <guid>https://t.me/hn_summary/65169</guid>
+      <pubDate>Fri, 22 Dec 2023 12:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Substack 是时事通讯作者的热门平台，已表示不会删除 [...]</title>
-      <link>https://t.me/hn_summary/65140</link>
-      <description><![CDATA[Substack 表示不会删除或取消纳粹内容的货币化 
-Substack 是一个深受时事通讯作者欢迎的平台，它表示不会删除或取消纳粹内容的货币化。超过 200 名 Substack 作者对该平台托管纳粹内容并通过其货币化的决定表示担忧，促使联合创始人哈米什·麦肯齐 (Hamish McKenzie) 做出回应。麦肯齐承认，虽然他们不支持或纵容极端主义观点，但他们认为审查制度和废钞只会加剧问题。这与 Substack 之前的节制立场一致，他们采取了不干涉的态度。 《大西洋月刊》报道了 Substack 出版物上带有纳粹符号并支持白人民族主义观点后，引发了争议。麦肯齐的回应还针对一位发表种族主义观点的嘉宾的播客节目，表示他当时并不知道该嘉宾过去的著作。]]></description>
-      <guid>https://t.me/hn_summary/65140</guid>
-      <pubDate>Fri, 22 Dec 2023 05:54:16 GMT</pubDate>
+      <title>[媒体]网络内容讨论了人类作为机器人的概念，探索技术如何[...]</title>
+      <link>https://t.me/hn_summary/65168</link>
+      <description><![CDATA[人类是机器人
+网络内容讨论了人类作为机器人的概念，探索技术如何成为我们自己的延伸。它重点介绍了一些例子，例如使用汽车作为控制论增强的一种形式，驾驶员无需太多思考就可以直观地感受到汽车的运动和操纵。它还提到将认知任务委托给智能设备如何模糊了人类的聪明才智和技术实力之间的界限。然后，内容简要介绍了 2023 年人工智能的出现，指出其在处理单调任务方面的效率，但也指出其在产生超出预定义参数的突破性见解方面的局限性。]]></description>
+      <guid>https://t.me/hn_summary/65168</guid>
+      <pubDate>Fri, 22 Dec 2023 11:57:01 GMT</pubDate>
     </item>
     <item>
-      <title>FreeBASIC 是一个适用于 Windows、DOS 和 Linux 的免费开源 BASIC 编译器。</title>
-      <link>https://t.me/hn_summary/65139</link>
-      <description><![CDATA[FreeBasic
-FreeBASIC 是一个适用于 Windows、DOS 和 Linux 的免费开源 BASIC 编译器。它为用 QuickBASIC 编写的程序提供高级别的支持，使它们无需更改即可编译和运行。然而，为了在 FreeBASIC 默认语言模式下进行编译，大多数实质性程序都需要更改。 FreeBASIC 是一个自托管编译器，它使用 GNU binutils 编程工具作为后端，可以生成控制台、图形、动态和静态可执行文件。它完全支持C库的使用，并有部分C++库支持。 FreeBASIC 的速度与 GCC 等主流工具接近。它还支持过程、面向对象和元编程范例。]]></description>
-      <guid>https://t.me/hn_summary/65139</guid>
-      <pubDate>Fri, 22 Dec 2023 05:22:51 GMT</pubDate>
+      <title>[媒体]《自然地球科学》发表的一项研究发现，金矿脉几乎可以形成 [...]</title>
+      <link>https://t.me/hn_summary/65167</link>
+      <description><![CDATA[地震瞬间成金矿（2013） 
+发表在《自然地球科学》上的一项研究发现，地震期间几乎可以立即形成金矿脉。研究解释说，当地震发生时，主断层线的两侧会沿着断层方向滑动，导致断层坡度张开。这种快速减压导致富含矿物质的水蒸发，矿物质几乎立即结晶，形成金矿脉。该研究还表明，即使是小地震也会沿着断层坡度产生显着的压力下降，这可以解释为什么含金石英矿床通常具有微小的金矿脉。这些发现可能被探矿者用来寻找新的金矿。此外，该研究还揭示了断层运动中的流体压力如何反弹至原始水平，这可以改善地震预报。]]></description>
+      <guid>https://t.me/hn_summary/65167</guid>
+      <pubDate>Fri, 22 Dec 2023 11:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Labs.Google 是一个创新平台，利用生成式人工智能的力量来增强 [...]</title>
-      <link>https://t.me/hn_summary/65138</link>
-      <description><![CDATA[Labs.Google
-Labs.Google 是一个创新平台，利用生成式人工智能的力量来增强您的搜索体验。借助这项尖端技术，您可以快速掌握任何主题的本质，发现新想法，并毫不费力地深入研究您的兴趣。但这还不是全部 - Bard Extensions 现在可以与流行的 Google Apps 和服务（例如 YouTube、Gmail 和 Maps）无缝集成，让您更轻松地将想法转化为现实。而 Google 艺术与文化的独特之处在于，您可以向朋友发送受艺术启发的明信片，为您的交流增添创意。立即尝试这些令人兴奋的功能，开启充满无限可能的世界。]]></description>
-      <guid>https://t.me/hn_summary/65138</guid>
-      <pubDate>Fri, 22 Dec 2023 05:13:40 GMT</pubDate>
+      <title>我需要再次拿出烙铁吗？</title>
+      <link>https://t.me/hn_summary/65166</link>
+      <description><![CDATA[我需要再次拿出烙铁吗？ (2018)
+该网络内容的作者讨论了由于各种技术问题，他们很难用优质耳机听音乐。他们尝试了不同的解决方案，包括转换音乐格式和使用不同的设备，但都不起作用。沮丧之余，他们决定使用烙铁构建一个简单的电路，以提高音质并消除嘶嘶声。该电路运行良好并解决了他们的问题。作者还批评苹果公司，并提到他们构建的电路使用 1979 年的运算放大器，其性能优于现代设备。他们为感兴趣的人提供了电路的技术细节和图片。 （根据 76% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65166</guid>
+      <pubDate>Fri, 22 Dec 2023 11:54:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PenX 是一款专为个人使用而设计的结构化笔记应用程序。</title>
-      <link>https://t.me/hn_summary/65137</link>
-      <description><![CDATA[供个人使用的结构化笔记应用&lt; br /&gt;
-PenX 是一款专为个人使用而设计的结构化笔记应用程序。该项目的主要目的是提供一个管理个人数字资产（例如笔记、任务、想法、密码和文档）的工具。该应用程序通过使用端到端加密来同步数据并确保用户拥有自己的数据，从而优先考虑隐私。它还因开源而与众不同，允许用户信任代码而不仅仅是开发人员的话。该项目由自由职业者和全栈开发人员 0xZion 开发，主要技术栈包括 Next.js、TypeScript、tRPC、Prisma、NextAuth.js、Slate.js 和 IndexedDB。该项目已获得 AGPL 3.0 许可。]]></description>
-      <guid>https://t.me/hn_summary/65137</guid>
-      <pubDate>Fri, 22 Dec 2023 04:47:13 GMT</pubDate>
+      <title>[媒体]本文讨论了使用对比度一致的 Sear 的挑战和局限性 [...]</title>
+      <link>https://t.me/hn_summary/65165</link>
+      <description><![CDATA[无监督法学硕士知识发现的挑战
+本文讨论了使用对比一致搜索 (CCS) 进行无监督 LLM（大语言模型）知识发现的挑战和局限性。作者解释说，虽然他们最初对 CCS 的潜力感到兴奋，但他们发现它不太可能对对齐策略有直接帮助。 CCS 倾向于寻找数据集中最突出的特征，而不是寻找知识，这使得数据变得敏感且不可靠。作者还质疑只需要检查一些类似知识的特征的假设，因为法学硕士可以模拟其他代理并以类似的方式表示他们的知识。他们的结论是，CCS 和类似的方法对于最坏情况的 ELK（引发潜在知识）没有希望，即使在平均情况下也可能无效。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65165</guid>
+      <pubDate>Fri, 22 Dec 2023 11:50:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文讨论了 Java 中 switch 结构的增强，特别是 [...]</title>
-      <link>https://t.me/hn_summary/65136</link>
-      <description><![CDATA[Switch 故障统一处理
-本文讨论了 Java 中 switch 结构的增强，特别是在处理失败情况方面。 switch 构造已经发展到支持更多类型的选择器、更丰富的 case 标签以及用作表达式的能力。以前，switch 语句中没有统一处理空值和异常，导致解决方法很麻烦。然而，通过最近的升级，空值可以被视为另一个值，并且可以使用 switch 语句中的 throws 情况来处理异常。通过允许统一处理正常结果和异常结果，提高了代码的可读性和可维护性。 （根据故事文本的 66% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65136</guid>
-      <pubDate>Fri, 22 Dec 2023 04:46:05 GMT</pubDate>
+      <title>联邦贸易委员会 (FTC) 正在提出新规则，以更新儿童在线隐私 [...]</title>
+      <link>https://t.me/hn_summary/65164</link>
+      <description><![CDATA[FTC 建议制定新规则，将家长保护孩子的负担转移到网站上
+联邦贸易委员会 (FTC) 正在提出新规则，以更新《儿童在线隐私保护法》(COPPA)，并将保护儿童数据的负担从父母转移到网站和应用程序。拟议的规则包括默认关闭定向广告、禁止鼓励过度使用的推送通知、限制学校监控以及强制采取更强有力的数据安全措施。一项重大变化是公司将不再被允许无限期保留儿童数据。 FTC 还希望扩大 COPPA 对“个人信息”的定义，将生物识别标识符包括在内。拟议的变更旨在解决不断变化的个人信息收集和用于将儿童数据货币化的方式。拟议规则制定通知发布后，公众将有 60 天的时间提交意见。]]></description>
+      <guid>https://t.me/hn_summary/65164</guid>
+      <pubDate>Fri, 22 Dec 2023 11:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>网络内容讨论了元宇宙时代 3D 资产建模的重要性并介绍了 [...]</title>
-      <link>https://t.me/hn_summary/65135</link>
-      <description><![CDATA[3D-GPT：使用大型语言模型进行过程 3D 建模
-该网页内容讨论了 3D 资产建模在元宇宙时代的重要性，并介绍了一个名为 3D-GPT 的框架，该框架利用大型语言模型 (LLM) 进行指令驱动的 3D 建模。该框架由三个代理组成：任务调度代理、概念化代理和建模代理，它们协同工作以增强初始场景描述并无缝集成程序生成。内容强调 3D-GPT 提供值得信赖的结果并与人类设计师有效协作。它还提到该框架与 Blender 无缝集成，扩展了操作的可能性。作者强调了法学硕士在 3D 建模方面的潜力，并建议这项工作为场景生成和动画的未来进步奠定了基础。]]></description>
-      <guid>https://t.me/hn_summary/65135</guid>
-      <pubDate>Fri, 22 Dec 2023 04:43:56 GMT</pubDate>
+      <title>[媒体]此网页内容的作者讨论了 WhatsApp 中的点击劫持漏洞，该漏洞 [...]</title>
+      <link>https://t.me/hn_summary/65163</link>
+      <description><![CDATA[别相信你的眼睛 - WhatsApp 点击劫持漏洞
+此网页内容的作者讨论了 WhatsApp 中允许网络钓鱼攻击的点击劫持漏洞。他们解释了如何通过调查 WhatsApp 消息中的链接预览功能来发现该漏洞。通过拦截和修改消息，他们能够在链接和预览之间造成不匹配，欺骗用户点击与显示的网站不同的网站。作者还探索了使用 unicode 字符来伪装链接并创建看似合法的镜像 URL。他们强调了攻击者利用这些漏洞进行网络钓鱼攻击的可能性。作者批评 Meta（WhatsApp 母公司）没有解决该问题，并为用户提供缓解建议。]]></description>
+      <guid>https://t.me/hn_summary/65163</guid>
+      <pubDate>Fri, 22 Dec 2023 11:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>GNU 项目在手册页上的指导非常非常规。</title>
-      <link>https://t.me/hn_summary/65134</link>
-      <description><![CDATA[GNU 项目手册页上的指导非常混乱 
-GNU 项目在手册页上的指导非常非常规。手册页为命令行程序提供文档，以其枯燥和技术性而闻名。然而，GNU 项目采取了不同的方法，将幽默和创造力注入到他们的手册页中。这种独特的风格既赢得了赞誉，也赢得了争议。有些人欣赏这种轻松愉快的氛围，并认为它很有吸引力，而另一些人则认为它有损于文档的严肃性和专业性。尽管存在争议，GNU 项目的手册页还是对传统技术文档进行了令人耳目一新且意想不到的转变。]]></description>
-      <guid>https://t.me/hn_summary/65134</guid>
-      <pubDate>Fri, 22 Dec 2023 04:42:49 GMT</pubDate>
+      <title>本文介绍了 TextDiffuser-2，这是一种利用 [...]</title>
+      <link>https://t.me/hn_summary/65162</link>
+      <description><![CDATA[TextDiffuser-2：释放语言模型用于文本渲染的力量&lt; /a&gt;
+该论文介绍了 TextDiffuser-2，这是一种利用语言模型力量的文本渲染新方法。以前生成视觉文本的方法在灵活性、自动化、布局预测和风格多样性方面存在局限性。 TextDiffuser-2 通过微调用于布局规划的大型语言模型来解决这些问题，允许自动生成关键字并通过聊天修改布局。然后，在扩散模型中使用语言模型对行级别的位置和文本进行编码，从而产生更加多样化的文本图像。大量的实验和用户研究验证了 TextDiffuser-2 在实现合理的文本布局和增强多样性的生成方面的有效性。]]></description>
+      <guid>https://t.me/hn_summary/65162</guid>
+      <pubDate>Fri, 22 Dec 2023 11:28:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]分析师预测 Windows 10 的生命周期结束可能会导致电子设备数量激增 [...]</title>
-      <link>https://t.me/hn_summary/65133</link>
-      <description><![CDATA[Windows 10 生命周期结束可能会引发电子垃圾洪流
-分析师预测，Windows 10 的使用寿命结束可能会导致电子垃圾激增，预计未来几年将有数百万台设备被丢弃。 Canalys 的研究表明，由于转向 Windows 11，全球可能有多达 2.4 亿台 PC 被报废，这引发了人们对设备更新以及供应商延长产品使用寿命责任的担忧。一个关键问题是微软当前在 Windows 11 设备兼容性方面的做法，因为许多仍处于良好状态的设备无法满足新操作系统的最低系统要求。 Canalys 警告称，这些设备最终可能会被扔进垃圾填埋场，给 IT 预算和环境带来巨大压力。该咨询公司呼吁设备制造商和软件供应商在设计中优先考虑耐用性、可修复性和可回收性，并确保设备尽可能长时间地保持可用和安全。虽然微软已将对 Windows 10 的安全支持延长至 2028 年，但用户将需要为此服务付费，这对于预算有限的组织来说可能会令人望而却步。 Canalys 建议，如果定价结构与 Windows 7 的扩展支持方案类似，那么用户迁移到支持 Windows 11 的更新型 PC 可能比为旧设备支付扩展支持费用更划算。]]></description>
-      <guid>https://t.me/hn_summary/65133</guid>
-      <pubDate>Fri, 22 Dec 2023 04:36:38 GMT</pubDate>
+      <title>[媒体] Darktable 4.6.0 已发布，具有多项新功能和改进。</title>
+      <link>https://t.me/hn_summary/65161</link>
+      <description><![CDATA[Darktable 4.6.0 发布
+Darktable 4.6.0 已发布，具有多项新功能和改进。一项值得注意的新增功能是自动保存功能，该功能可以在暗室视图中工作时定期保存编辑历史记录。新的“RGB 原色”处理模块可实现精细的色彩校正和创意色彩分级。液化和修饰模块现在显示完整的未裁剪图像，从而可以更轻松地使用裁剪部分，而无需禁用裁剪模块。其他更新包括改进的图像显示、热像素模块中对单色图像的支持以及取消长时间导入会话的功能。该版本还包括各种错误修复和增强功能。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65161</guid>
+      <pubDate>Fri, 22 Dec 2023 11:19:43 GMT</pubDate>
     </item>
     <item>
-      <title>Casibase 是一个开源 AI 知识数据库，具有 Web UI 和企业单点登录（[...]</title>
-      <link>https://t.me/hn_summary/65132</link>
-      <description><![CDATA[具有 Web UI 和企业 SSO 的开源人工智能知识数据库
-Casibase 是一个开源 AI 知识数据库，具有 Web UI 和企业单点登录 (SSO) 集成。它旨在提供类似于LangChain的向量和知识数据库。该项目包括使用 JavaScript 和 React 构建的前端用户界面，以及使用 Golang、Beego、Python、Flask 和 MySQL 构建的后端服务器端逻辑和 API。 Casibase 支持 OpenAI、Hugging Face、Claude、OpenRouter、Ernie 等多种语言模型。该项目提供聊天和管理门户功能的在线演示。它通过提供漂亮的 Web UI 以及与企业 SSO 的集成而脱颖而出。 （根据 46% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65132</guid>
-      <pubDate>Fri, 22 Dec 2023 04:36:29 GMT</pubDate>
+      <title>该网络内容的作者正在寻求出售其盈利的 SaaS 副业，称为 po [...]</title>
+      <link>https://t.me/hn_summary/65160</link>
+      <description><![CDATA[希望出售我的拉面盈利 SaaS 副业&lt; br/&gt;
+该网络内容的作者正在寻求出售其盈利的 SaaS 副业业务 postoptions。应用程序。自 2022 年推出以来，该服务已赢得了多名付费用户，并产生了 864 美元的净收入。该业务被描述为 100% 被动，但作者不再有时间满足用户对新功能的请求。他们现在正在寻求出售该业务，即使是以较低的退出价格。该业务未注册，并使用 Stripe 作为其支付处理器，这一点可以验证。作者寻求有关在哪里寻找潜在买家的建议。]]></description>
+      <guid>https://t.me/hn_summary/65160</guid>
+      <pubDate>Fri, 22 Dec 2023 11:19:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
