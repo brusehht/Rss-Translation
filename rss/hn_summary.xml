@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 21 Dec 2023 21:07:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:50:44 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 我写了 2K 多行 Brainfuck。</title>
-      <link>https://t.me/hn_summary/65075</link>
-      <description><![CDATA[我写了 2K 多行 Brainfuck。这是我学到的东西
-该网页内容的作者分享了他们使用 Brainfuck（一种极简编程语言）进行编程的经验。他们提到，他们已经编写了 2000 多行 Brainfuck 代码，甚至创立了一家名为 BF Enterprise Solutions 的公司。作者强调了使用 Brainfuck 的挑战，例如缺乏类型检查和调试困难。他们还讨论了数据布局的重要性以及它如何提高程序效率。作者最后鼓励读者自己尝试在 Brainfuck 中编程。]]></description>
-      <guid>https://t.me/hn_summary/65075</guid>
-      <pubDate>Thu, 21 Dec 2023 21:07:59 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，德国和英国的风力发电量达到了创纪录的水平 [...]</title>
+      <link>https://t.me/hn_summary/65109</link>
+      <description><![CDATA[暴风雨袭击北欧，德国风力发电量创历史新高 
+令人惊讶的是，由于一场席卷北欧的强大风暴，德国和英国的风力发电量创下了历史新高。英国发电量达到 21,813 兆瓦，超过 1 月份创下的纪录。另一方面，德国在柏林时间上午 11 点达到了令人印象深刻的 53,013 兆瓦。风力发电的激增是可再生能源的一个积极信号，凸显了风电在满足能源需求方面的潜力。]]></description>
+      <guid>https://t.me/hn_summary/65109</guid>
+      <pubDate>Fri, 22 Dec 2023 00:50:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了对多样性、公平和包容性 (DEI) 影响的强烈反对 [...]</title>
-      <link>https://t.me/hn_summary/65074</link>
-      <description><![CDATA[科技公司对 DEI 的强烈反对
-本文讨论了科技行业对多元化、公平性和包容性 (DEI) 努力的强烈反对。其中重点介绍了红杉资本合伙人肖恩·马奎尔的一条推文，他质疑自己是否应该分享自己因白人身份而无法升职的经历。对他推文的回应反映了风险投资界内部在 DEI 主题上的分歧。 Peter Thiel 和 Elon Musk 等人一直直言不讳地批评 DEI，认为它延续了歧视。文章解释说，DEI 旨在创造更具包容性的工作场所并支持边缘化社区，但近年来其支持有所减弱。 DEI 支持的减少对该行业产生了连锁反应。文章还提到了 Diversify Tech 的创始人 Veni Kunche，她注意到希望与她的组织合作的公司的兴趣发生了逆转。]]></description>
-      <guid>https://t.me/hn_summary/65074</guid>
-      <pubDate>Thu, 21 Dec 2023 21:04:50 GMT</pubDate>
+      <title>本文讨论了元学习的概念及其改善基础的潜力[...]</title>
+      <link>https://t.me/hn_summary/65108</link>
+      <description><![CDATA[元学习：基础模型的未来以及如何改进它
+本文讨论了元学习的概念及其改进机器学习基础模型的潜力。它强调了训练基础模型的传统方法的局限性以及对新范式的需求。作者解释说，元学习涉及创建机器学习代理，这些代理通过在特定任务上训练较小的模型并将其输出输入元学习模型来学习如何学习。元学习的优点包括能够处理不平衡的数据集并减少对大量数据的需求。文章还介绍了一篇论文，提出了一种称为基于群体的元学习（PBML）的进化算法来改进元学习。 PBML 旨在针对具有较强学习能力的人群进行优化，并在适应不同任务和环境方面展现出可喜的结果。 （根据 73% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65108</guid>
+      <pubDate>Fri, 22 Dec 2023 00:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Eqtble 是一家旨在帮助公司就 [...] 做出更公平决策的公司。</title>
-      <link>https://t.me/hn_summary/65073</link>
-      <description><![CDATA[Eqtble (YC W21) 正在招聘软件工程师 
-Eqtble 是一家致力于帮助公司就员工做出更公平决策的公司。他们目前正在招聘一名软件工程师与创始团队密切合作。工程师的角色将对公司和产品轨迹产生重大影响，他们将负责软件开发和决策的整个周期。该角色所需的技能包括 Python、Django、Django Rest Framework、React、SQL、Postgres、Redis 和 AWS。工程师将有机会为产品开发做出贡献，确定功能和错误修复的优先级，并改善客户体验。 Eqtble 是下一代人力资源分析平台，提供有关劳动力、人才招聘、敬业度和薪酬的见解。他们的目标是帮助公司从人力资源数据中挖掘洞察并及时采取行动。]]></description>
-      <guid>https://t.me/hn_summary/65073</guid>
-      <pubDate>Thu, 21 Dec 2023 21:01:42 GMT</pubDate>
+      <title>[媒体]本文讨论了软件架构中的常见陷阱，并提供了有关[...]的建议</title>
+      <link>https://t.me/hn_summary/65107</link>
+      <description><![CDATA[软件架构陷阱以及如何避免它们
+本文讨论了软件架构中的常见陷阱，并提供了如何避免这些陷阱的建议。它强调了深入了解架构并根据质量属性要求 (QAR) 做出明智权衡的重要性。作者警告不要让非技术人员或供应商做出架构决策，因为他们可能不理解特定的上下文和 QAR。本文还警告不要盲目复制其他组织的架构，并将业务决策优先于定义明确的 QAR。它强调需要管理技术债务，而不是为了速度而牺牲质量。作者鼓励团队设计和测试他们的架构，收集反馈，并根据反馈进行改进。总的来说，本文强调了软件架构的复杂性以及明智决策的必要性。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65107</guid>
+      <pubDate>Fri, 22 Dec 2023 00:37:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎加入我们的 www.chat-to.dev，我们在这里为程序员创建了一个平台 [...]</title>
-      <link>https://t.me/hn_summary/65072</link>
-      <description><![CDATA[Show HN：来创建有关编程和软件开发的聊天室&lt; /a&gt;
-欢迎加入我们 www.chat-to.dev，我们为程序员和软件开发人员创建了一个平台，让他们聚集在一起讨论与编程和软件开发相关的所有事情。我们的聊天室是学习和分享 PHP 知识的完美场所，讨论范围从工具和书籍到应用程序和智能学习技术。加入我们，成为这个充满活力的社区的一部分！]]></description>
-      <guid>https://t.me/hn_summary/65072</guid>
-      <pubDate>Thu, 21 Dec 2023 20:53:29 GMT</pubDate>
+      <title>在疗养院，VR 很受欢迎。</title>
+      <link>https://t.me/hn_summary/65106</link>
+      <description><![CDATA[在疗养院，VR 很受欢迎。这是一件好事吗？
+虚拟现实 (VR) 作为一种对抗老年人情绪低落、记忆力减退和孤独感的方法，在疗养院越来越受欢迎。 VR 项目正在美国各地的老年生活设施中实施，为居民提供治疗和社会福利。该技术相对直观，已被证明有助于缓解记忆丧失、情绪低落和孤独感。然而，人们对虚拟现实在老年人护理领域的未来感到担忧，特别是随着该行业劳动力短缺的加剧。此外，VR行业还需要针对医疗保健产品制定明确的隐私规则和更严格的标准。总体而言，虚拟现实被视为对老年人护理的积极补充，但设定界限并考虑老年人的个人需求和偏好也很重要。]]></description>
+      <guid>https://t.me/hn_summary/65106</guid>
+      <pubDate>Fri, 22 Dec 2023 00:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>作者介绍了一款名为 Moochee 的新开源应用程序，它与 Kahoot 类似。</title>
-      <link>https://t.me/hn_summary/65071</link>
-      <description><![CDATA[显示 HN：使用 Nobuild 的前端堆栈
-作者介绍了一款名为 Moochee 的新开源应用程序，它与 Kahoot 类似。该应用程序使用 Preact、HTM 和 ESM 构建，不需要任何构建工具，因此可以直接在浏览器中轻松维护和调试。作者提供了 GitHub 存储库、Moochee 网站和应用程序本身的链接。]]></description>
-      <guid>https://t.me/hn_summary/65071</guid>
-      <pubDate>Thu, 21 Dec 2023 20:50:22 GMT</pubDate>
+      <title>[媒体]发生了一件奇怪的事情，波兰的火车配备了数字版权管理 [...]</title>
+      <link>https://t.me/hn_summary/65105</link>
+      <description><![CDATA[波兰 DRMed 列车因基于日期的逻辑炸弹而按预期停止
+奇怪的是，波兰配备数字版权管理 (DRM) 技术的火车因基于日期的逻辑炸弹而按预期停止运行。这起意外事件给通勤者造成了广泛的干扰和混乱。旨在防止未经授权访问列车软件的 DRM 系统在到期时无意中触发了关闭。虽然没有明确提及围绕 DRM 技术的争议，但这一事件凸显了与此类系统相关的潜在风险和漏洞。它提醒人们进行彻底测试和维护以避免意外中断的重要性。]]></description>
+      <guid>https://t.me/hn_summary/65105</guid>
+      <pubDate>Fri, 22 Dec 2023 00:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Helix 正在为 Mistral 和 SDXL 引入一项名为“局部微调”的新功能，该功能 [...]</title>
-      <link>https://t.me/hn_summary/65070</link>
-      <description><![CDATA[显示 HN：Mistral 和 SDXL、GPU mem 的本地微调/延迟优化
-Helix 为 Mistral 和 SDXL 引入了一项名为“本地微调”的新功能，该功能侧重于 GPU 内存和延迟优化。此功能允许用户通过调整 GPU 内存分配并优化面向用户的延迟和 GPU 内存利用率之间的权衡来微调其模型。 Helix 的 Runner 架构使用户能够将来自各种来源（例如企业、云提供商或专业提供商）的 GPU 连接到单个控制平面。此外，Helix 与 Keycloak 集成进行身份验证，使其兼容各种企业环境。此次新功能旨在为用户提供一个易用、高效的AI平台。]]></description>
-      <guid>https://t.me/hn_summary/65070</guid>
-      <pubDate>Thu, 21 Dec 2023 20:42:15 GMT</pubDate>
+      <title>[媒体]一些墨西哥药店正在出售整瓶阿得拉。</title>
+      <link>https://t.me/hn_summary/65104</link>
+      <description><![CDATA[一些墨西哥药店正在出售整瓶阿得拉。但这是冰毒
+《洛杉矶时报》对墨西哥药店销售假冒阿得拉的情况进行了调查。调查发现，巴亚尔塔港和卡波圣卢卡斯的一些药店正在销售假冒的阿得拉药丸，其中含有甲基苯丙胺、食欲抑制剂、对乙酰氨基酚或咖啡因。这些假药装在密封瓶中出售，瓶上印有知名制药公司的名称和徽标，并附有药物识别码、批号和全息防篡改密封。假冒瓶子的复杂程度表明有大型犯罪组织的参与，而且墨西哥的假冒药品问题比之前想象的更为普遍。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65104</guid>
+      <pubDate>Fri, 22 Dec 2023 00:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了用户控制技术的法律案例，特别是 [...]</title>
-      <link>https://t.me/hn_summary/65069</link>
-      <description><![CDATA[解锁用户自由：使用广告拦截器的权利&lt; br /&gt;
-本文讨论了用户控制技术的法律案例，特别是使用广告拦截器的权利。它强调了德国最近两起涉及广告拦截器的法庭案件，这些案件可以加强用户自由的法律论据。本文探讨了使用广告拦截器的合法性以及对网站所有者的潜在影响。它还讨论了出版公司 Axel Springer 针对 Adblock Plus 的创建者 Eyeo 提出的论点。法院判决支持用户权利，指出用户有权不发表意见并拒绝接收强加的信息。然而，文章还提到了法院判决的一些缺点，例如广告拦截检测工具的批准和付费墙的潜力。总的来说，本文强调了用户自由的重要性以及在数字时代保护用户自由的必要性。]]></description>
-      <guid>https://t.me/hn_summary/65069</guid>
-      <pubDate>Thu, 21 Dec 2023 20:38:06 GMT</pubDate>
+      <title>[媒体]2022年3月，我们收到了一辆凯迪拉克CT5-V Blackwing进行了40,000英里的长期测试。</title>
+      <link>https://t.me/hn_summary/65103</link>
+      <description><![CDATA[我们在初始阶段炸毁了凯迪拉克 CT5-V Blackwing 的发动机测试
+2022 年 3 月，我们收到了一辆凯迪拉克 CT5-V Blackwing 进行了 40,000 英里的长期测试。经过1500英里的磨合期后，我们将车开到赛道上进行初步性能测试。然而，大约 15 次静止启动后，发动机开始严重失火。发动机故障是灾难性的，我们不得不将其发送到通用汽车动力总成总部进行彻底拆卸。损坏仅限于偶数气缸组，其中六号气缸受影响最严重。故障原因尚不清楚，但很可能是由于燃料供应问题或冷却系统堵塞造成的。尽管遭遇挫折，我们最终还是收到了新的发动机，并且在随后的测试中车辆表现异常出色。]]></description>
+      <guid>https://t.me/hn_summary/65103</guid>
+      <pubDate>Fri, 22 Dec 2023 00:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ProPublica 的疗养院检查工具提供了 nur 的详细所有权信息 [...]</title>
-      <link>https://t.me/hn_summary/65068</link>
-      <description><![CDATA[使用我们的疗养院检查工具找出疗养院的所有者&lt; /a&gt;
-ProPublica 的疗养院检查工具提供疗养院的详细所有权信息，帮助用户了解疗养院所有权的复杂世界。这些数据来自医疗保险和医疗补助服务中心，包括有关附属实体及其在多个疗养院的绩效的信息。用户可以浏览每家疗养院负责人或公司的数据，查看这些疗养院最近发现的严重缺陷，并访问全国所有附属实体的列表。该工具还提供高级搜索功能，允许用户识别具有严重缺陷历史的附属实体或按合规问题过滤搜索。 ProPublica 计划继续使用新数据和功能增强该工具。]]></description>
-      <guid>https://t.me/hn_summary/65068</guid>
-      <pubDate>Thu, 21 Dec 2023 20:32:55 GMT</pubDate>
+      <title>[媒体]在本文中，我们提出了一种使用星形胶质细胞进行大语言建模的新方法- [...]</title>
+      <link>https://t.me/hn_summary/65102</link>
+      <description><![CDATA[用于大型语言建模的星形细胞激活神经网​​络 
+在本文中，我们提出了一种使用星形胶质细胞启用的尖峰神经网络进行大语言建模的新方法。语言建模是自然语言处理中的一项基本任务，传统方法常常难以应对现代语言数据集的复杂性和规模。我们的方法利用星形胶质细胞（大脑中的一种神经胶质细胞）的独特特性来增强尖峰神经网络的性能。通过将星形胶质细胞纳入网络架构中，我们能够提高语言建模任务的准确性和效率。我们的实验结果证明了我们方法的有效性，困惑度分数和训练时间都有显着改善。这项研究为更高级的语言模型开辟了新的可能性，可以更高效地处理大规模数据集。]]></description>
+      <guid>https://t.me/hn_summary/65102</guid>
+      <pubDate>Thu, 21 Dec 2023 23:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Substack 联合创始人解决了围绕 fring 存在的争议 [...]</title>
-      <link>https://t.me/hn_summary/65067</link>
-      <description><![CDATA[Substack 联合创始人解释为什么应该允许纳粹使用它&lt; /a&gt;
-Substack 的联合创始人解决了围绕该平台上存在的边缘声音（包括纳粹观点）的争议。他们承认，他们不支持或纵容这些极端观点，但认为审查制度不是解决办法。他们认为，支持个人权利和公民自由，同时让思想公开讨论，是抵制坏思想的最佳方式。该平台的内容指南禁止煽动暴力，他们将继续执行这些规则。他们还强调去中心化的内容审核方法，赋予读者和作者权力。这位联合创始人承认因在播客中接待持有有争议观点的个人而受到批评，但他相信应该包容各种观点。他们鼓励激烈的辩论并对那些在 Substack 上发表文章的人表示感谢。]]></description>
-      <guid>https://t.me/hn_summary/65067</guid>
-      <pubDate>Thu, 21 Dec 2023 20:06:39 GMT</pubDate>
+      <title>问 HN：为什么不采用天然气驱动的热泵？</title>
+      <link>https://t.me/hn_summary/65101</link>
+      <description><![CDATA[问 HN：为什么不用天然气驱动的热泵？
+news.ycombinator.com 上这篇文章的作者是质疑为什么天然气驱动的热泵没有得到更普遍的使用。他们建议使用天然气为内燃机提供动力，然后运行热泵上的压缩机。发动机的废热也可以用来增加家庭供暖。作者认为，与使用不可再生电源的直接天然气或电动热泵相比，这种方法将是一种高效的家庭供暖方式。]]></description>
+      <guid>https://t.me/hn_summary/65101</guid>
+      <pubDate>Thu, 21 Dec 2023 23:36:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《PLOS Biology》发表的新研究表明，女性的眼泪含有化学物质 [...]</title>
-      <link>https://t.me/hn_summary/65066</link>
-      <description><![CDATA[嗅女人的眼泪可以减少男人的攻击行为
-发表在《公共科学图书馆·生物学》上的新研究表明，女性的眼泪中含有可以减少男性攻击性的化学物质。这项由以色列魏茨曼科学研究所的研究人员进行的研究发现，嗅女性的眼泪会导致与攻击性相关的大脑活动减少，从而减少攻击性行为。这种现象被称为社会化学信号传导，在动物中很常见，但在人类中却知之甚少。研究人员让一组男性在玩旨在引发攻击行为的游戏时接触女性的眼泪或盐水。这些男人并不知道自己在嗅什么，但在嗅眼泪后，寻求报复的攻击性显着减少。核磁共振扫描仪的功能成像显示，当男性嗅眼泪时，与攻击性相关的大脑区域不太活跃。这项研究表明，社会化学信号在人类攻击性行为中发挥着重要作用，并挑战了情感眼泪是人类独有的观念。]]></description>
-      <guid>https://t.me/hn_summary/65066</guid>
-      <pubDate>Thu, 21 Dec 2023 19:58:25 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了对斯坦利·库布里克的电影首映前和首映后的剪辑，[...]</title>
+      <link>https://t.me/hn_summary/65100</link>
+      <description><![CDATA[2001 年首映前和首映后编辑
+本文讨论了斯坦利·库布里克的电影《2001：太空漫游》首映前和首映后的剪辑。该片最初上映时长为161分钟，但在早期观众的负面评价和反馈后，库布里克决定将影片缩短为19分钟。剪辑的具体细节尚不清楚，但一些可能被剪掉的场景包括对科学家的黑白采访、展示月球基地生命的场景以及发现号上生活的各种技术细节。不幸的是，目前还不知道这些装饰是否存在。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65100</guid>
+      <pubDate>Thu, 21 Dec 2023 23:35:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
