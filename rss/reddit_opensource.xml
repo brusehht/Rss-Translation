@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Dec 2023 03:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 06:16:02 GMT</lastBuildDate>
+    <item>
+      <title>为开源项目提供免费的技术写作服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/18o61il/offering_free_technical_writing_services_for_open/</link>
+      <description><![CDATA[您好r/opensource社区！&lt; /p&gt; 我正在为任何需要文档帮助的开源项目提供技术写作服务。我是技术写作领域的新手，我正在寻找建立我的作品集。  关于我： 我来自阿根廷布宜诺斯艾利斯，在过去 5 年多的时间里我一直是一名软件开发人员。我曾使用 .NET、SQL、Microsoft Azure、AWS、微服务架构等技术参与过多个 SaaS 项目。在参与这些项目期间，我一直倾向于为我的团队编写有用的文档，而且是在最近我了解到技术写作是 IT 中的一个实际角色。由于这种自然兴趣，我决定过渡到这个角色。 我提供的服务： 我在这里帮助创建新文档、更新现有文档材料，或重组内容以获得更好的清晰度。无论是自述文件、用户指南还是 API 文档，我都渴望为有需要的项目贡献我的技能。 为什么免费？ 我免费提供我的服务，因为我希望建立强大的产品组合并为开源社区做出贡献。这是一个双赢的局面，我获得了宝贵的经验，您的项目也得到了改进的文档。 如何联系： 如果您愿意源项目可以从改进的文档中受益，请随时通过 PM 与我联系。您也可以在下方留言，我会及时回复您。  谢谢！   由   提交/u/OpinionSilent5031   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18o61il/offering_free_technical_writing_services_for_open/</guid>
+      <pubDate>Fri, 22 Dec 2023 04:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源我的 flutter 食谱管理应用程序“Savor”</title>
+      <link>https://www.reddit.com/r/opensource/comments/18o57rg/opensourced_my_flutter_recipe_management_app_savor/</link>
+      <description><![CDATA[ 由   提交/u/f4a1t  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18o57rg/opensourced_my_flutter_recipe_management_app_savor/</guid>
+      <pubDate>Fri, 22 Dec 2023 03:19:28 GMT</pubDate>
+    </item>
     <item>
       <title>用于从 WARC (Web ARChive) 文件中提取密码、API 密钥和令牌等机密的命令行工具，如 Common Crawl、Internet Archive 等提供的。</title>
       <link>https://www.reddit.com/r/opensource/comments/18nxcnn/command_line_tool_for_extracting_secrets_such_as/</link>
@@ -55,13 +69,6 @@
       <pubDate>Thu, 21 Dec 2023 09:34:10 GMT</pubDate>
     </item>
     <item>
-      <title>一个控制台应用程序，可让您要求人工智能按照您喜欢的方式重新组织您的文件和文件夹</title>
-      <link>https://www.reddit.com/r/opensource/comments/18ne0rd/a_console_app_that_lets_you_ask_ai_to_reorganize/</link>
-      <description><![CDATA[    /u/DotnetContributor   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18ne0rd/a_console_app_that_lets_you_ask_ai_to_reorganize/</guid>
-      <pubDate>Thu, 21 Dec 2023 04:11:23 GMT</pubDate>
-    </item>
-    <item>
       <title>具有单命令行的自托管开源LLM模型（在Mac/跨设备上运行）</title>
       <link>https://www.reddit.com/r/opensource/comments/18ndkxo/selfhost_opensource_llm_model_with_onecommand/</link>
       <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
@@ -71,14 +78,14 @@
     <item>
       <title>AIConfig - 用于构建生产级人工智能应用程序的开源框架</title>
       <link>https://www.reddit.com/r/opensource/comments/18n9pc9/aiconfig_opensource_framework_for_building/</link>
-      <description><![CDATA[    /u/InevitableSky2801   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交 /u/InevitableSky2801   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18n9pc9/aiconfig_opensource_framework_for_building/</guid>
       <pubDate>Thu, 21 Dec 2023 00:27:36 GMT</pubDate>
     </item>
     <item>
       <title>Grafana Loki 简明指南：关于标签您需要了解的一切</title>
       <link>https://www.reddit.com/r/opensource/comments/18n60j3/the_concise_guide_to_grafana_loki_everything_you/</link>
-      <description><![CDATA[https://grafana.com/blog/2023/12/20/the-concise-guide-to-grafana-loki-everything-you-need -to-know-about-labels TL;DR  如果您没有从这个博客中获取任何其他内容，那就这样：使用最少的内容标签可能。虽然 Loki 和 Prometheus 共享标签的概念，但应用程序却截然不同。如果您在 Loki 中正确使用标签，就不应该遇到任何基数问题。 因此，重申一下，好的标签具有以下品质： 描述基础设施：区域、集群、服务器、应用程序、命名空间、环境 具有长久的价值。标签值应该永久生成日志，或者至少生成几个小时 查询直观 如果您的查询模式将直接受益于少量附加标签值，则仅从日志行中提取内容对，并且标签将满足以下条件：它的基数较低，可能有数十或数百个值作为一般规则，您应该尝试将 Loki 中的任何单个租户保持在 100,000 个活动流以下，并且24 小时内的流量少于 100 万次。这些值适用于每天发送超过 10 TB 的大型租户。如果您的租户小 10 倍，您的标签可能至少要少 10 倍。 这些值是长期存在的（例如，HTTP 路径的第一级：/load、/save、/update）不要将跟踪 ID 或订单 ID 等临时值提取到标签中，这些值应该是静态的，而不是动态的。 您的用户将在查询中使用这些标签来提高查询性能。如果没有人真正使用这些标签，则不要增加索引的大小并分段日志流。如果没有人使用它们，你就会让事情变得更糟。  ​   由   提交 /u/vidamon   [链接] [评论]]]></description>
+      <description><![CDATA[https://grafana.com/blog/2023/12/20/the-concise-guide-to-grafana-loki-everything-you-need -to-know-about-labels TL;DR  如果您没有从这个博客中获取任何其他内容，那就这样：使用最少的内容标签可能。虽然 Loki 和 Prometheus 共享标签的概念，但应用程序却截然不同。如果您在 Loki 中正确使用标签，就不应该遇到任何基数问题。 因此，重申一下，好的标签具有以下品质： 描述基础设施：区域、集群、服务器、应用程序、命名空间、环境 具有长久的价值。标签值应该永久生成日志，或者至少生成几个小时 查询直观 如果您的查询模式将直接受益于少量附加标签值，则仅从日志行中提取内容对，并且标签将满足以下条件：它的基数较低，可能有数十或数百个值作为一般规则，您应该尝试将 Loki 中的任何单个租户保持在 100,000 个以下活动流，并且24 小时内的流量少于 100 万次。这些值适用于每天发送超过 10 TB 的大型租户。如果您的租户小 10 倍，您的标签可能至少要少 10 倍。 这些值是长期存在的（例如，HTTP 路径的第一级：/load、/save、/update）不要将跟踪 ID 或订单 ID 等临时值提取到标签中，这些值应该是静态的，而不是动态的。 您的用户将在查询中使用这些标签来提高查询性能。如果没有人真正使用这些标签，则不要增加索引的大小并分段日志流。如果没有人使用它们，你就会让事情变得更糟。  ​   由   提交 /u/vidamon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18n60j3/the_concise_guide_to_grafana_loki_everything_you/</guid>
       <pubDate>Wed, 20 Dec 2023 21:40:35 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/DigbyChickenCaeser   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18mysqs/puck_opensource_visual_editor_for_react/</guid>
       <pubDate>Wed, 20 Dec 2023 16:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibrePay 使用安全吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18mykre/is_librepay_safe_to_use/</link>
-      <description><![CDATA[我正在寻找一个 librepay 帐户来接收我的项目的赞助商。 我还没有真正听说过他们，但是现在使用它们仍然是一个不错的选择（并且安全）吗？或者还有其他更好的选择？ 如果是的话，他们会更改为个人帐户吗？ （就像 github 赞助商不会对个人帐户收取一点费用）   由   提交/u/0xorang3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18mykre/is_librepay_safe_to_use/</guid>
-      <pubDate>Wed, 20 Dec 2023 16:26:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
