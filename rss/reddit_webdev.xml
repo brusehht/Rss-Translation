@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Dec 2023 00:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 03:13:31 GMT</lastBuildDate>
+    <item>
+      <title>分布式系统中的乐观与悲观</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ow584/optimism_vs_pessimism_in_distributed_systems/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ow584/optimism_vs_pessimism_in_distributed_systems/</guid>
+      <pubDate>Sat, 23 Dec 2023 03:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个 AI API 可以回答有来源的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ovtqm/which_ai_api_can_answer_a_question_with_sources/</link>
+      <description><![CDATA[我以为我可以使用 Perplexity 来实现此目的，但我尝试了 pplx-70b-online ，但似乎不能引用消息来源。有没有什么东西可以做到这一点，可以用作 API？ 我想通过结合 SERP API、基本抓取和一些 LLM 来提取信息来创建这样的 API 并不是太困难.   由   提交 /u/adaboese   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ovtqm/which_ai_api_can_answer_a_question_with_sources/</guid>
+      <pubDate>Sat, 23 Dec 2023 02:47:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有搜索功能的自定义选择选项 - html scss vanilla js</title>
+      <link>https://www.reddit.com/r/webdev/comments/18oulpw/custom_select_option_with_search_function_html/</link>
+      <description><![CDATA[      我怎样才能以一种好的方式构建它，因为我知道 sselect 和 option 不能真正定制，因为它们是使用浏览器/操作系统创建的。但我的列表可能有 10-20 个选项   由   提交/u/Equal-Web-13  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18oulpw/custom_select_option_with_search_function_html/</guid>
+      <pubDate>Sat, 23 Dec 2023 01:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>使 CRDT 效率提高 98%</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ouayf/making_crdts_98_more_efficient/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ouayf/making_crdts_98_more_efficient/</guid>
+      <pubDate>Sat, 23 Dec 2023 01:25:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 /vendor 文件夹提供服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/18otw6e/serving_from_the_vendor_folder/</link>
+      <description><![CDATA[因此，如果我使用 Composer 安装 jQuery，Heroku 将不允许我从 /vendor/components/ 提供该文件jquery/.我一直在与 ChatGPT 努力想出一个解决方法。 Heroku 很聪明，我无法通过更改 composer.json 中的 vendor-dir 来欺骗它来提供文件。 现在，我确实了解锁定 /vendor 的安全隐患，而且我也了解从 CDN 加载 jQuery 非常简单，但我很难理解一些事情。 &lt; ol&gt; 如果大多数系统不允许您从安装位置加载 jQuery，那么 Composer 能够安装 jQuery 的意义何在？ 我从未使用过像 Webpack 或这样的构建工具PHP 项目的 Laravel mix。它们看起来太重了而且太“神奇”了。适合我的口味。我实在不明白他们在做什么。即使对于简单的事情，包含如此多的工具真的是最佳实践吗？  所以我想我的问题更少，我如何解决这个特定问题，更多的是，为什么 是这样设计的，所以这些工具会阻止彼此按照它们的设计方式工作吗？   由   提交 /u/Quartersharp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18otw6e/serving_from_the_vendor_folder/</guid>
+      <pubDate>Sat, 23 Dec 2023 01:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] MERN 购物网站反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/18otsq1/showoff_saturday_feedback_on_mern_shopping_website/</link>
+      <description><![CDATA[大家好， 大约两个月前，我建立了这个无聊（不是很有创意）的购物网站，作为我的顶点项目我正在进行 MERN 训练营。它为我赢得了认证，但我没有得到任何实际反馈。 我尝试添加您期望的最常见功能并使其具有响应能力。实际产品和付款除外。  如果可能的话，也寻找对相同代码的反馈。  已部署的网站：ShopCart（Render 的免费实例会降低服务器的运行速度）空闲 15 分钟，因此随着服务器旋转，初始加载可能会很慢） Github 存储库：https:// /github.com/AnandBawa/shopcart   由   提交 /u/thegr8anand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18otsq1/showoff_saturday_feedback_on_mern_shopping_website/</guid>
+      <pubDate>Sat, 23 Dec 2023 00:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>Library 在数据库中存储速率受限的 API 响应</title>
       <link>https://www.reddit.com/r/webdev/comments/18otc7p/lirbary_to_store_rate_limited_api_responses_in/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>在使用 gatsby + React 构建的网站上处理每天一次更新的一些好方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/18osjxa/what_are_some_good_ways_to_handle_onceaday/</link>
-      <description><![CDATA[嘿大家！ 我正在努力培养我的前端技能，因为我所有的经验主要是后端现在。因此，我决定制作我的第一个网站，并使其成为一个投资组合网站！ 该网站是使用 React、Gatsby 和 Node.js 构建的，我想创建一个组件来显示来自通过 API 调用获取的数据。该数据每天仅在每天的设定时间更新一次。 最初，我计划仅在构建时获取数据，然后将数据传递到相关页面，该页面将处理显示分析动画。这种方法的唯一问题是，我基本上必须在部署到的任何托管服务上安排每日重建，以反映新数据，这听起来既浪费又低效。否则网站上的内容是静态的。你有什么想法？ 感谢你们的 0.02 美元。   由   提交 /u/MarkZuccsForeskin   [链接] [评论]]]></description>
+      <description><![CDATA[嘿大家！ 我正在努力培养我的前端技能，因为我所有的经验主要是后端现在。因此，我决定制作我的第一个网站，并使其成为一个投资组合网站！ 该网站是使用 React、Gatsby 和 Node.js 构建的，我想创建一个组件来显示来自通过 API 调用获取的数据。该数据每天仅在每天的设定时间更新一次。 最初，我计划在构建时仅获取数据，然后将数据传递到相关页面，该页面将处理显示分析动画。这种方法的唯一问题是，我基本上必须在部署到的任何托管服务上安排每日重建，以反映新数据，这听起来既浪费又低效。否则网站上的内容是静态的。你有什么想法？ 感谢你们的 0.02 美元。   由   提交 /u/MarkZuccsForeskin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18osjxa/what_are_some_good_ways_to_handle_onceaday/</guid>
       <pubDate>Fri, 22 Dec 2023 23:57:13 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>这可能吗？谷歌地图问题</title>
       <link>https://www.reddit.com/r/webdev/comments/18orbq3/is_this_even_possible_google_maps_question/</link>
-      <description><![CDATA[好的，我正在参加训练营，我们正在进行最终项目。我个人对这怎么可能表示怀疑，但事实就是如此。  构建一个移动应用程序，在 React Native 和 Google 地图方面遇到问题，但我想总体了解的是这个。是否有可能在地图上创建一些东西（例如）在《埃尔登环》/大多数三重a标题中，您的标记在其穿越时会显示更多地图？  我们有一个创建网格覆盖层的想法，但我无法理解的是用户标记如何与所述覆盖层交互。  试图解决这个问题，但我搜索过的所有论坛都找不到答案，非常感谢任何帮助！   由   提交 /u/Bill_Jiggly   [链接] [评论]]]></description>
+      <description><![CDATA[好的，我正在参加训练营，我们正在进行最终项目。我个人对这怎么可能表示怀疑，但事实就是如此。  构建一个移动应用程序，在 React Native 和 Google 地图方面遇到问题，但我想总体了解的是这个。是否有可能在地图上创建一些东西（比如）在《埃尔登环》/大多数三重a标题中，让你的标记在穿越时显示更多的地图？  我们有一个创建网格覆盖层的想法，但我无法理解的是用户标记如何与所述覆盖层交互。  试图解决这个问题，但我搜索过的所有论坛都找不到答案，非常感谢任何帮助！   由   提交 /u/Bill_Jiggly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18orbq3/is_this_even_possible_google_maps_question/</guid>
       <pubDate>Fri, 22 Dec 2023 22:58:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么让第 3 方身份验证对您有吸引力？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oqua9/what_makes_3rd_party_auth_attractive_to_you/</link>
-      <description><![CDATA[多年来，我已经编写了自定义身份验证和授权解决方案（别担心，我使用经过验证的/真实的库来实现加密函数等）。我从来没有发现它很困难或耗时，而且只有一些容易学习的问题。 我有什么理由使用第三方服务，例如 Auth0 或类似于 auth？您从中看到了什么好处？身份验证服务必须具备哪些功能？ 全面披露：我这么问是因为我将在几个月内推出一项身份验证服务，该服务比 Auth0 更简单，但也更便宜。我很想听听关于是什么让第 3 方身份验证提供商对您有吸引力的反馈，因为除了了解他们如何做事情之外，我从来没有真正倾向于使用其他身份验证提供商    由   提交/u/ted-tanner  /u/ted-tanner  reddit.com/r/webdev/comments/18oqua9/what_makes_3rd_party_auth_attractive_to_you/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oqua9/what_makes_3rd_party_auth_attractive_to_you/</guid>
-      <pubDate>Fri, 22 Dec 2023 22:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>出租页面以共享？或批量链接列表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oqo54/rentry_pages_to_share_or_bulk_link_lists/</link>
-      <description><![CDATA[有一些不错的租赁页面可以分享吗？请在此处发布它们 也欢迎有趣的批量链接列表！ 很乐意添加到我的收藏中！   由   提交 /u/JustSayYes1_61803   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oqo54/rentry_pages_to_share_or_bulk_link_lists/</guid>
-      <pubDate>Fri, 22 Dec 2023 22:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 .com 重定向到 .com？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oqky6/redirecting_com_to_com/</link>
-      <description><![CDATA[我继承了一个在 php 5.x 上运行的旧站点。他们希望将营销网站切换到 Wordpress，后者推荐更现代的 php 版本。不幸的是，他们有遗留的桌面软件，与主域上的子文件夹中运行的某些业务应用程序后端进行通信，例如 myite.com/app/somefile.php ，该软件无法移动，并且由于原因太复杂而无法进入也无法移动更新到 php 7。  基本上我无法对 .com 服务器进行任何更新，因此我正在考虑将营销网站移至另一台服务器。  他们已经保护了 .com 域的 .co 版本。我的问题是，如果我为他们现有的营销网址从 .com 域到 .co 域设置正确的重定向，是否会对他们的 SEO 产生负面影响？即使他们继续为他们的 .com 做广告是否有任何负面影响它将重定向到 .co？   由   提交 /u/welcometomyface   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oqky6/redirecting_com_to_com/</guid>
-      <pubDate>Fri, 22 Dec 2023 22:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>高尔定律及其如何应用于软件开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oq47x/galls_law_and_how_it_applies_to_software/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oq47x/galls_law_and_how_it_applies_to_software/</guid>
-      <pubDate>Fri, 22 Dec 2023 22:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>烦人的 cookie 收集横幅</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oq22l/annoying_cookie_collection_banners/</link>
-      <description><![CDATA[我在我的网站上使用 Google Analytics（分析）。遵守 GDPR 或其他法规并继续使用 Google Analytics（分析）的最简单方法是什么。 我是否应该有一个简单的横幅来通知用户他们正在被跟踪？ &lt; p&gt;非常感谢有关此问题的任何帮助。  我知道您不是律师。  是的，我确定我想使用 GA，并且不想使用任何其他工具。   &amp; #32；由   提交/u/Trainee_Ninja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oq22l/annoying_cookie_collection_banners/</guid>
-      <pubDate>Fri, 22 Dec 2023 21:58:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 1M 条记录的数据网格的顶级前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18opbgj/top_frontend_for_a_datagrid_with_1m_records/</link>
-      <description><![CDATA[嗨，你们推荐哪个前端来管理具有 1M 记录的数据网格应该有分页 我在 postgresql 中有数据。它将是只读的，但应该有自定义过滤器   由   提交/u/agaitan026  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18opbgj/top_frontend_for_a_datagrid_with_1m_records/</guid>
-      <pubDate>Fri, 22 Dec 2023 21:23:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
