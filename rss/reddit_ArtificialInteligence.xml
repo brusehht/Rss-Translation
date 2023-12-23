@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 23 Dec 2023 18:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 21:09:10 GMT</lastBuildDate>
+    <item>
+      <title>寻求开发商</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pez4h/seeking_a_developer/</link>
+      <description><![CDATA[我对人工智能的潜在商业应用有一些想法，但我需要一名开发人员。我会自己学习，但这个领域的步伐如此之快，以至于当我学到我需要的东西时，我的想法就会过时。救命！   由   提交/u/exirae  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pez4h/seeking_a_developer/</guid>
+      <pubDate>Sat, 23 Dec 2023 21:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Matthew Berman 的“编程的终结：为什么人工智能会让编程变得过时”的回应 - 代理的厄运主义必须消亡，因为它在当今社会是有害的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pe6ve/a_response_to_the_end_of_programming_why_ai_will/</link>
+      <description><![CDATA[ 由   提交/u/Xtianus21  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pe6ve/a_response_to_the_end_of_programming_why_ai_will/</guid>
+      <pubDate>Sat, 23 Dec 2023 20:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用人工智能发现并修复了一个非常流行的开源库中的一个重大错误</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pe0lg/i_used_ai_to_discover_and_fix_a_major_bug_in_a/</link>
+      <description><![CDATA[信任外部库可能是一把双刃剑。当您遇到一个已获得 574 颗星、103 个分叉、并且有详细记录和经过测试的库时，很自然地对其可靠性具有高度信任。当它在社区中广泛使用时尤其如此。然而，这种信任可能会产生误导。一个库，即使是一个如此受欢迎且看似经过严格审查的库，能否完全没有重大错误？ 我也有同样的假设，直到一个惊人的发现改变了我的观点。在我用于技术分析的库中，我偶然发现了一个重大错误。这一缺陷导致相对强弱指数 (RSI) 指标的计算完全不准确。此错误的影响是深远的，影响了 NexusTrade 平台以及依赖此库的任何其他平台的所有用户。 本文深入探讨了我如何识别并随后纠正此严重错误的过程. 在此处阅读本文的其余部分。 ​   由   提交/u/NextGen-Trading  /u/NextGen-Trading  reddit.com/r/ArtificialInteligence/comments/18pe0lg/i_used_ai_to_discover_and_fix_a_major_bug_in_a/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pe0lg/i_used_ai_to_discover_and_fix_a_major_bug_in_a/</guid>
+      <pubDate>Sat, 23 Dec 2023 20:16:00 GMT</pubDate>
+    </item>
     <item>
       <title>什么是免费的人工智能视频生成器（最好）没有水印或类似的东西？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pb4c4/what_is_a_free_ai_video_generator_with_preferably/</link>
@@ -55,20 +76,6 @@
       <pubDate>Sat, 23 Dec 2023 13:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>Lightmatter 首席执行官尼古拉斯·哈里斯 (Nicholas Harris) 谈论人工智能的未来及其快速崛起为独角兽</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18p4xyl/lightmatter_ceo_nicholas_harris_talks_about_the/</link>
-      <description><![CDATA[总部位于波士顿的 Lightmatter 首席执行官谈其快速发展 – 这家专门用于人工智能的光子芯片开发商再次成为头条新闻，并完成了额外的 1.55 亿美元新融资和公布其 12 亿美元的新估值——使 Lightmatter 成为一家“独角兽”初创公司。   由   提交/u/peterbordes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18p4xyl/lightmatter_ceo_nicholas_harris_talks_about_the/</guid>
-      <pubDate>Sat, 23 Dec 2023 12:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索大型语言模型的演变：一年回顾</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18p1ylc/exploring_the_evolution_of_large_language_models/</link>
-      <description><![CDATA[这是了解 LLM 发展不同部分的指南。  完整文章： https:/ /medium.com/aiguys/the-busy-person-intro-to-llms-dff0384279c2 什么是法学硕士？ 大型语言模型是先进的人工智能系统旨在理解、解释和生成人类语言。它们基于深度学习算法，具有广泛的应用范围，从文本生成到语言翻译。 法学硕士类型 专有、半开源和开源 模型培训 培训法学硕士需要向他们提供大量文本数据。这个过程使模型能够学习语言模式和细微差别。训练可以被认为是互联网的压缩或压缩，从而实现某种泛化。 网络梦想 这些网络经常产生幻觉，但正确的方法是也就是说，他们总是在做梦，有时这些梦正好与我们所要求的内容相符。 它是如何工作的？ 法学硕士通过分析输入文本来工作并预测序列中的下一个单词或短语。这是通过理解培训期间学到的上下文和语言结构来实现的。 培训助理 在培训法学硕士担任助理时，他们会被定制为理解和回答查询，执行任务，甚至进行随意的对话，模仿类人的交互。 强化学习人类反馈 (RLHF) RLHF 是一种利用人类反馈来完善模型的反应。此过程有助于使模型的输出与人类价值观和期望保持一致。 当前的 SOTA LLM 当前最先进的 LLM 包括 GPT-4 等模型，表现出对语言和上下文的深刻理解，突破了人工智能能力的界限。 LLM 扩展法则 LLM 中的扩展法则是指随着模型大小和训练的增加，其性能如何提高数据。这些定律对于理解法学硕士的潜力和局限性至关重要。 思维系统它构建了哪种类型的智能，系统 1 还是系统 2？ 定制法学硕士 定制法学硕士是针对特定任务或行业量身定制的。例如，模型可能专门针对法律文本进行训练，以协助法律研究。 LLM 与操作系统的相似之处 将 LLM 与操作系统进行比较可以深入了解它们的功能。与操作系统一样，LLM 充当支持各种应用程序和服务的基础层。 越狱“越狱”LLM 的理念是指将这些模型推向超出其标准操作参数的范围，探索针对独特应用程序使用或修改它们的新方法。 ​ 谢谢  &amp; #32；由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18p1ylc/exploring_the_evolution_of_large_language_models/</guid>
-      <pubDate>Sat, 23 Dec 2023 09:16:37 GMT</pubDate>
-    </item>
-    <item>
       <title>下一件大事：本地人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18oufx5/the_next_big_thing_onpremise_ai/</link>
       <description><![CDATA[这种范式转变标志着从主导该领域的以云为中心的模型的重大转变，预示着人工智能将变得更加个人化、私密化、且功能强大。 ​ 在 Medium 上了解更多信息：下一件大事：本地人工智能   由   提交/u/Philo167  [链接] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[A 调查显示，只有 22% 的 IT 专业人员完全了解 AI 工具，尽管他们的认知度很高人们期望人工智能能够减轻他们的工作量。大多数人并不每天使用人工智能，而那些主要将其用于基本任务的人。 如果您想在人工智能和技术领域保持领先地位，先看这里。 关键事实：  仅占 IT 的22%专业人士声称完全了解人工智能工具，这表明存在知识差距。 尽管超过 50% 的人相信人工智能会减轻他们的工作负担，但62% 不会每天使用人工智能，这表明信念与实际使用之间的差异。 人工智能最常见的用途是信息收集（28%）和解释复杂主题（18%），显示出应用更简单的趋势。  只有 16% 的人使用人工智能编写代码，只有 6% 的人发现安全缺陷，这反映出缺乏信心或限制性指导方针。 尽管意识到人工智能的变革能力，但大多数人并没有将人工智能工具用于他们的工作  来源（RetailTechnologyReview) PS：如果您喜欢这篇文章，您一定会喜欢我的ML 驱动的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 30,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18oomms/barely_any_it_professionals_say_they_actually/</guid>
       <pubDate>Fri, 22 Dec 2023 20:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁在工作中秘密使用人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18oghg5/who_uses_ai_secretly_at_work/</link>
-      <description><![CDATA[谁在工作中秘密使用人工智能？你用它做什么以及如何摆脱它？你的战术和策略是什么？你从事什么行业？    由   提交/u/Awkward_Selection_17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18oghg5/who_uses_ai_secretly_at_work/</guid>
-      <pubDate>Fri, 22 Dec 2023 14:43:54 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
