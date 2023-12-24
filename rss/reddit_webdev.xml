@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 Dec 2023 00:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 15:11:37 GMT</lastBuildDate>
     <item>
-      <title>Wordpress 比 Svelte 更好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pitg9/is_wordpress_better_than_svelte/</link>
-      <description><![CDATA[我目前是一名卑微的 WordPress 开发人员。不过，我不使用主题或页面构建器。我使用 LazyBlocks 构建自定义 Wordpress 块，然后为每个新客户端组装这些块。我只需在 Wordpress 中添加块，就可以在 2-5 小时内构建一个看起来完全不同的新网站。通过缓存和缩小，我获得了 90 多个 Lighthouse 分数，并且可以轻松构建新网站。 我正在与后端开发人员构建一个 Web 应用程序（目前这是一个秘密）。我将学习 Svelte（或者 React 或 Vue，如果你有意见我很想听听）来完成这个项目。 Svelte（或 Vue 或 React）+ 像 Strapi 或 Ghost 这样的免费 CMS 是否有助于为客户构建小型简单网站（主页、关于、博客、联系表单）？ 我可以在其中构建一个好的样板吗苗条并为客户使用它？它会超越我的 Wordpress 性能，并且对我来说制作网站仍然很简单吗？ 此外，寿命对我来说也很重要。我想把我的时间投入到五年后相关的事情上。学习 Svelte 是否会让我在未来比坚持使用 Wordpress 更有价值？对 Wordpress 的需求似乎永无止境。 TL;DR 对于简单的登录页面，Svelte 是否比自定义且优化良好的 Wordpress 更好？ 你们之间讨论一下。如果您有强烈的支持或反对意见，可加分。   由   提交 /u/TallBoyBeats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pitg9/is_wordpress_better_than_svelte/</guid>
-      <pubDate>Sun, 24 Dec 2023 00:12:10 GMT</pubDate>
+      <title>建立一个这样的网站需要多少钱？ （但更好）</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pwpxf/how_much_would_you_charge_to_build_a_website_like/</link>
+      <description><![CDATA[      我已经被要求构建一个与此类似的网站。 我非常讨厌这个示例网站，作为一名设计师，我首先会在视觉方面进行大量工作，但该网站的基础知识是相同的。客户希望网站能够处理 95% 的招聘流程，而无需进行信用检查，因为任何人都可以租用货车，如果他们无法支付费用，则将使用固定车。 我计划在 Wix 上构建该网站，因为我对这个构建器有最丰富的经验，而且我对编码领域一无所知。 我将构建该网站，然后移动继续进行保留工作，以便在必要时进行维护和更新。 如果有任何更多详细信息将有帮助，我很乐意提供，但我真正寻找的是一个现实的价格，不会让客户失望据我了解，我个人和伙伴的价格不是我想要的，只是一个对我自己和所述客户都有效的诚实价格。 感谢您的任何建议，如果需要更多信息，请再次感谢您让我知道，我会尽力提供。 我正在为企业创建所有品牌，因此徽标设计包含在最终价格中。   由   提交/u/lukemrj   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pwpxf/how_much_would_you_charge_to_build_a_website_like/</guid>
+      <pubDate>Sun, 24 Dec 2023 14:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>网站在我的机器上速度非常快，但在服务器和我客户的笔记本电脑上却慢得要命，一切都一样。为什么会这样呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pi5a5/site_is_blazingly_fast_on_my_machine_but_slow_as/</link>
-      <description><![CDATA[相同的数据库，相同的代码。我不知道为什么这么慢，任何意见都值得赞赏。 网站主要使用 laravel 和 livewire。甚至没有很多记录，但我仍然缓存了我能缓存的所有内容。 服务器有 2 核 (&gt;=2GHz)、2GB 内存和 3GB SSD 磁盘空间（使用了约 300MB）、Linux。我的机器有i7，16ram，使用SSD，linux。客户端的机器类似，windows。 当我检查网络选项卡时，花费最多的就是“等待服务器响应”  例如，当我选择一个类别来显示其产品时，加载我的计算机上的所有产品需要 70 毫秒，但在客户端计算机和服务器上，可能需要 3 秒到 15 秒之间的时间. 顺便说一句，所有产品和类别都被缓存。 我将应用程序安装到客户端的 PC 上，就像在我的 PC 上一样，使用 php artisanserve 运行，一切都完全相同。我完全没有想法，想在这里问。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pi5a5/site_is_blazingly_fast_on_my_machine_but_slow_as/</guid>
-      <pubDate>Sat, 23 Dec 2023 23:38:37 GMT</pubDate>
+      <title>大家好！我发布了这个包用于 CSS 重置和标准化。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pvppv/hello_everyone_i_published_this_package_for_css/</link>
+      <description><![CDATA[   我总是需要安装软件包来重置和规范代理样式表，然后编写我的自己的重置代码和从其他地方借用的代码。所以我决定合并所有这些代码并将其作为包发布。   由   提交/u/sohail_ansari  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pvppv/hello_everyone_i_published_this_package_for_css/</guid>
+      <pubDate>Sun, 24 Dec 2023 13:57:03 GMT</pubDate>
     </item>
     <item>
-      <title>从绘制的画布图像中进行图像屏蔽</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pi19h/image_masking_from_drawn_canvas_image/</link>
-      <description><![CDATA[基本上我想要完成的是拥有两个图像，一个覆盖图像和基本图像。覆盖图像应直接显示在基本图像的顶部，并且当用户在覆盖图像上绘制时，它会隐藏覆盖图像的该部分。 我以前曾使用过画布绘制，但我没有太多使用图像蒙版，所以我不知道如何组合这些。或者除了画布绘制或图像蒙版之外还有其他方法可以实现此目的吗？ 我猜测与蒙版模式亮度有关？ 谢谢！   由   提交/u/ssam43  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pi19h/image_masking_from_drawn_canvas_image/</guid>
-      <pubDate>Sat, 23 Dec 2023 23:32:54 GMT</pubDate>
+      <title>仪表板后端的 SSR（登录后面）？ - 不谈论反应</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pueg5/ssr_in_the_backend_for_a_dashboard_behind_a_login/</link>
+      <description><![CDATA[Webdevs 你好！ 我正在启动一个副项目，它将包含登录页面后面的私人仪表板. 我过去做过大量的 React 和 Next.js SSG/CSR，但我正在考虑，对于这个用例，直接在后端进行 SSR。举个例子，使用 Ruby on Rails 等技术，或者 elixir live view，或者使用模板。 我对 SSR 没有经验，我想问一下你觉得这个好还是不好？馊主意。我已经提出了一些优点和缺点，但想与你们确认一下： 优点  更轻松的身份验证和用户状态/上下文管理 更快的原型设计（只有一种语言，只有一个项目，没有分离的前端和后端技术） 大量的动态数据（它是一个仪表板，带有表格和图表），所以我想这很合适。  缺点 （这是我需要更多帮助的地方）  我认为（但我不确定）它会更慢，因为： 用户需要访问我的服务器，这对于他们的位置来说可能很远 但是，我也认为用户无论如何都需要访问我的服务器来获取数据，所以这可能不是问题 我不知道是否有办法缓解这种情况CDN 或边缘计算（我的意思是，最终数据库将位于固定位置，对吗？）  我不期望有巨大的流量（~ 1000 个活跃用户），但我不知道与 CSR 相比，这是否会增加服务器的负载。  请注意，该项目的上下文是： &lt; ul&gt; 我是唯一的开发者。因此，不需要单独的前端/后端项目，也不需要对团队有帮助的东西。我只是一个人。 没有计划开发原生移动应用程序，也没有计划开发任何需要后端 API REST 之类的系统 我不这样做关心搜索引擎优化。这是一个仪表板。  非常感谢你们，伙计们！快乐编码！   由   提交 /u/Tairosonloa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pueg5/ssr_in_the_backend_for_a_dashboard_behind_a_login/</guid>
+      <pubDate>Sun, 24 Dec 2023 12:32:55 GMT</pubDate>
     </item>
     <item>
-      <title>网页文件上传</title>
-      <link>https://www.reddit.com/r/webdev/comments/18phz3s/web_file_upload/</link>
-      <description><![CDATA[是否可以在不打开浏览器的情况下继续为 Android 默认浏览器上传文件？ 我接到了一个任务公司的目标是让视频和照片文件即使在应用程序关闭时也可以继续从应用程序上传。一个小问题是，该应用程序只是一个进入网络应用程序的网络查看器。 我知道这很复杂，但唯一的方法是在网络视图上覆盖一个实际的上传按钮，这样我可以使用 Android 内置服务来做到这一点，并以一种全新的方式将文件上传到服务器？ 肯定有一种更简单的方法。    由   提交 /u/adamjkeith   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18phz3s/web_file_upload/</guid>
-      <pubDate>Sat, 23 Dec 2023 23:30:06 GMT</pubDate>
+      <title>[更新] 用于根据给定背景颜色确定可读颜色的小型库。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18puclq/update_tiny_library_to_determine_a_readable_color/</link>
+      <description><![CDATA[该库提供了一个简单的函数来计算新颜色（根据给定的输入颜色）。如果一个颜色对用作背景颜色，另一个用作前景色，则颜色对应该以可读文本结束。 这是对早期版本的早期帖子的更新。这个新版本现在有一个非泄漏的 API，并修复了灰度颜色的错误。 更多详细信息：https://www.npmjs.com/package/@exhuma/read-color   由   提交/u/exhuma  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18puclq/update_tiny_library_to_determine_a_readable_color/</guid>
+      <pubDate>Sun, 24 Dec 2023 12:29:39 GMT</pubDate>
     </item>
     <item>
-      <title>ISC2 CC 证书对 Web 开发人员有用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pguaw/is_isc2_cc_cert_any_use_for_a_web_developer/</link>
-      <description><![CDATA[有机会免费参加网络安全认证ISC2认证。想知道这是否与求职有关，因为它是一个新证书，与 SWE 没有直接关系   由   提交/u/Hehehelelele159  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pguaw/is_isc2_cc_cert_any_use_for_a_web_developer/</guid>
-      <pubDate>Sat, 23 Dec 2023 22:33:25 GMT</pubDate>
+      <title>Spa 用于编写繁重的应用程序，ssr 用于编写繁重的应用程序，您的看法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pu92y/spa_for_write_heavy_app_and_ssr_for_read_heavy/</link>
+      <description><![CDATA[https://twitter.com/matthewcp/status /1736887746248016343 “如果您的用例编写繁重，请使用客户端渲染。如果阅读量很大，请使用服务器端渲染。如果在中间，请使用岛屿。服务器端渲染然后启动 SPA？几乎从来没有“  我只是对您对何时使用哪种范例的看法感兴趣。   由   提交 /u/NeitherManner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pu92y/spa_for_write_heavy_app_and_ssr_for_read_heavy/</guid>
+      <pubDate>Sun, 24 Dec 2023 12:22:28 GMT</pubDate>
     </item>
     <item>
-      <title>Mongodb expressjs post 将数据发送到错误的集合。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pgctw/mongodb_expressjs_post_sent_data_to_wrong/</link>
-      <description><![CDATA[我正在遵循书籍教程并创建了一个名为 test 的数据库，当一本书的帖子起作用并创建了一个集合时，我决定研究身份验证。我创建了一个身份验证数据库，认为新用户数据将进入该数据库。它将其发送到原始测试数据库。然后我查看了我的代码，没有任何地方引用测试数据库。我使用的连接字符串是原始的，似乎没有引用任何数据库。我是否遗漏了一些关键细节？   由   提交/u/TravelOwn4386  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pgctw/mongodb_expressjs_post_sent_data_to_wrong/</guid>
-      <pubDate>Sat, 23 Dec 2023 22:09:34 GMT</pubDate>
+      <title>我是一个初学者，需要有关滑块的一点帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ptnov/needing_a_lil_help_with_sliders_im_a_beginner/</link>
+      <description><![CDATA[       由   提交 /u/IAGO_BURGER   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ptnov/needing_a_lil_help_with_sliders_im_a_beginner/</guid>
+      <pubDate>Sun, 24 Dec 2023 11:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>jQuery 4.0.0 已完成，等待正式发布</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pg77n/jquery_400_is_finished_pending_official_release/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pg77n/jquery_400_is_finished_pending_official_release/</guid>
-      <pubDate>Sat, 23 Dec 2023 22:01:50 GMT</pubDate>
+      <title>如何制作像youtube一样的侧边栏？您可以用鼠标指针将其拖动到屏幕中</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ptc0s/how_to_make_a_sidebar_like_youtube_you_can_drag/</link>
+      <description><![CDATA[   /u/Devil-Eater24  /u/Devil-Eater24 reddit.com/gallery/18ptc0s&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ptc0s/how_to_make_a_sidebar_like_youtube_you_can_drag/</guid>
+      <pubDate>Sun, 24 Dec 2023 11:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>保护您的前端应用程序：实用指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pfrcx/securing_your_frontend_apps_a_practical_guide/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/shoeforcesauce   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pfrcx/securing_your_frontend_apps_a_practical_guide/</guid>
-      <pubDate>Sat, 23 Dec 2023 21:39:52 GMT</pubDate>
+      <title>如何在我的个人网站上显示我的投资组合网站，而无需支付昂贵的托管费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18psith/how_to_display_my_portfolio_websites_on_my/</link>
+      <description><![CDATA[上述问题。   由   提交/u/legend29066   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18psith/how_to_display_my_portfolio_websites_on_my/</guid>
+      <pubDate>Sun, 24 Dec 2023 10:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>对我的 HTML 和 CSS 摘要笔记的反馈将会很棒：P</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pfqkf/feedback_on_my_html_css_summary_notes_would_be/</link>
-      <description><![CDATA[       由   提交/u/blaazaar   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pfqkf/feedback_on_my_html_css_summary_notes_would_be/</guid>
-      <pubDate>Sat, 23 Dec 2023 21:38:46 GMT</pubDate>
+      <title>编码伙伴</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pqfmp/coding_buddy/</link>
+      <description><![CDATA[寻找编程伙伴！ 你好。我是一名 14 岁的程序员，我正在寻找一个编码伙伴。我想一起做项目、协作、一起赚钱，最重要的是，一起学习。我目前拥有 Python 和 Web 技术方面的经验，包括 Bootstrap、Django 和一些 Flask（我讨厌前端开发）。我还了解其他编程语言的一些基础知识。我正在寻找具有兼容时区（GMT +2 或 EET - 东欧时间）的人员。请随时与我联系。如果您能流利地用英语进行文本和语音交流，那就太好了，这样我们就能很好地理解对方。    由   提交 /u/ErolSQL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pqfmp/coding_buddy/</guid>
+      <pubDate>Sun, 24 Dec 2023 07:40:18 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript 相当于凯文·鲍威尔？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pflyp/javascript_equivalent_of_kevin_powell/</link>
-      <description><![CDATA[我一直发现 Kevin Powell 的 YouTube 是一个很好的资源，提供有关 css 的小提示和技巧，以及了解所有最新信息最新变化。  是否有您推荐的等效的 JavaScript YouTube 频道？   由   提交/u/craigas1302  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pflyp/javascript_equivalent_of_kevin_powell/</guid>
-      <pubDate>Sat, 23 Dec 2023 21:32:36 GMT</pubDate>
+      <title>请求帮助获取我在 firebase 存储中上传的文件的下载网址</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ppq9u/requesting_help_for_fetching_download_url_for/</link>
+      <description><![CDATA[    &lt; /a&gt;  我正在开发一个项目，需要将文件上传到 firebase 存储，然后再获取下载链接对于他们。 ​ 我的所有图像都存储在“images”目录中文件夹 ​ 像这样 ​ ​ 我尝试同时使用 listAll( ) 和 getDownloadURL() 函数。但他们无法获取任何数据。 const downloadImgRef = ref(storage, &quot;images&quot;); useEffect(() =&gt; { // listAll(downloadImgRef).then((res)=&gt;{ // console.log(res); // }) getDownloadURL(downloadImgRef).then((res)=&gt;; { console.log(res); }) }, []);  Listall 返回一个长度为零的数组。并且 getDownloadURL 抛出错误“”未捕获（承诺）FirebaseError：Firebase存储：对象“图像”不存在。 （存储/未找到对象）＆quot; 请帮助我。谢谢   由   提交/u/Rounak_Topdar  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ppq9u/requesting_help_for_fetching_download_url_for/</guid>
+      <pubDate>Sun, 24 Dec 2023 06:51:46 GMT</pubDate>
     </item>
     <item>
-      <title>用网站制作拼图</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pevn1/making_a_puzzle_out_of_websites/</link>
-      <description><![CDATA[https://youtu.be/ -PTR628Zr3Q?si=GzL1-MeNqy85bXjR 利用本地存储，以便各个部件能够通信！    ;由   提交/u/andrewrm98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pevn1/making_a_puzzle_out_of_websites/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:57:38 GMT</pubDate>
+      <title>您认为开发人员应具备的最佳非技术特定技能是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ppntf/what_do_you_think_is_the_best_non_tech_specific/</link>
+      <description><![CDATA[就我个人而言，我认为知道如何将问题分解成小块是最好的。   由   提交 /u/iHateRollerCoaster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ppntf/what_do_you_think_is_the_best_non_tech_specific/</guid>
+      <pubDate>Sun, 24 Dec 2023 06:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>结构良好的前端代码，您最好的建议是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pemor/well_structured_frontend_code_whats_your_best/</link>
-      <description><![CDATA[我从事全栈 Web 开发已经快四年了，但在前端，我一直在主要受压力影响的项目中工作初级，没有指南，没有文档，没有设定标准，也没有测试。从开始到结束完全混乱。 这让我感觉自己已经成为一个结构性较差的前端开发人员，即使在我的私人项目中也是如此。  我即将开始一个新项目，我将从头开始，并或多或少地在前端发挥主导作用，所以由我来确保它在更多时达到标准人们开始研究它。目前看来，它将使用 React，但甚至可能是 Angular。 对于结构良好且易于使用的前端，您的最佳建议是什么？ &lt;!-- SC_ON - -&gt;  由   提交 /u/walkpangea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pemor/well_structured_frontend_code_whats_your_best/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:45:40 GMT</pubDate>
+      <title>GitHub Copilot 在移动应用程序中与 GPT4 聊天 - 自 12 月 6 日起根据所有宣传材料进行集成，但尚不清楚如何访问它......？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pnfv3/github_copilot_chat_with_gpt4_in_the_mobile/</link>
+      <description><![CDATA[此功能在应用程序中的什么位置？ 我想链接一些视频，但不知道是哪个我看到的官方消息来源。也许是 GitHub 宇宙主题演讲，也许是 Microsoft 功能聚焦的 YouTube 视频。无论如何，所有这些东西都在 12 月 6 日落下。我终于弄清楚了 VSCode 中的 GPT4 功能，但在 GitHub 移动应用程序中找不到 Copilot Chat。 加分：常规 GitHub 网站中的 copilot 聊天在哪里？我也没有看到它。   由   提交 /u/Virtamancer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pnfv3/github_copilot_chat_with_gpt4_in_the_mobile/</guid>
+      <pubDate>Sun, 24 Dec 2023 04:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>您如何称呼这种形式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pek0w/what_do_you_call_this_type_of_form/</link>
-      <description><![CDATA[申请工作时，底部附近有一个表格，要求列出您的技能。在此表单中，您可以键入技能并按 Enter 键，然后技能将填充在下面的框中。而且您可以随心所欲地进行操作。 您将这种类型的表单称为什么？我正在尝试创建类似的东西，但我不知道它叫什么，甚至在谷歌上搜索它的教程。   由   提交 /u/Hemingwaylikesliquor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pek0w/what_do_you_call_this_type_of_form/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:42:00 GMT</pubDate>
+      <title>AstroJS 动态路由</title>
+      <link>https://www.reddit.com/r/webdev/comments/18plty4/astrojs_dynamic_routing/</link>
+      <description><![CDATA[   经过几年的开发，我正在尝试重做我的博客。这次，我决定尝试一下 AstroJS，并且我一直按照他们提供的教程来构建博客。我在动态路由方面遇到了一些问题，我需要一些帮助来理解。 目前，我正处于教程的步骤中，我使用标签对我的 md 文件进行排序。 （https://docs.astro.build/en/tutorial/5-astro-api/ 2/) 在本教程中，所有 md 文件都位于一个目录中。但是，我将我的目录分成两个目录，并计划将来包含更多目录。 教程 ​ 我的网站 按照这种方式，我可以导航到本地主机路径： port/tags/poetry 或 localhost:port/tags/hiking 并加载所有关联的 md 文件 .md 文件中的标签示例 这适用于特定于一个目录或另一个目录的标签。例如，徒步旅行标签只需要从 tripReports 目录中提取 ​ https://preview.redd.it/hbi8mbxup58c1.png?width=652&amp;format=png&amp;auto=webp&amp;s=479499df3170e 4c27900978587253783122e0bba 我遇到的问题是与两个目录关联的标签。例如，假设我有一个“博客”标记 https://preview。 redd.it/bi66tj42q58c1.png?width=770&amp;format=png&amp;auto=webp&amp;s=42d9e22e926b50e76c7ce2ab66f681930c763c61 现在的样子，如果我转到 localhost:port/tags/ blog，它只会加载 allTripReports 中的 md 文件。如果我首先列出 allPoetry，则相反。 我的问题是，如何设置它以便它从两个目录中提取？我认为我的问题是我误解了这里的数据类型，但就像我说的，我已经好几年没有编码了，而且我有点生疏了（我的背景是 React 和 NextJS）。 如果有任何帮助，我将不胜感激！我也喜欢任何基本的词汇或概念解释 - 我想自己学习这些，但我只是不确定要谷歌什么。谢谢大家！ （顺便说一句，这就是帖子的过滤方式） **edit 发布此内容后，我立即看到了问题。使用当前语法，它将“posts: allTripReports”视为“posts: allTripReports”。和“所有诗歌”作为两个单独的属性。所以我的第一个想法是将它们组合成一个数组： https://preview.redd.it/6x1rgv4ir58c1.png?width=695&amp;format=png&amp;auto=webp&amp;s=515624ebad109c12dacb59e49 ec123d928c5b9b9 但是当我稍后在过滤器中调用它时，我不确定如何解构它。将保持更新   由   提交 /u/Psychological_Sock92   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18plty4/astrojs_dynamic_routing/</guid>
+      <pubDate>Sun, 24 Dec 2023 02:55:27 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个小测验应用程序，它是宿舍还是牢房？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pejta/i_built_a_little_quiz_app_is_it_a_dorm_or_a/</link>
-      <description><![CDATA[   /u/Devious_Beast  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pejta/i_built_a_little_quiz_app_is_it_a_dorm_or_a/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:41:43 GMT</pubDate>
+      <title>一款可以结识搬到与您所在城市的当地人的应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/18plcd8/an_app_to_meet_locals_that_are_moving_to_the_same/</link>
+      <description><![CDATA[我和一个朋友创建了这个应用程序，您可以在其中找到当前城市中也计划搬到您所在城市的新朋友。希望为您当前和新的城市提供拼车、室友或社交活动的可能性。它可以启动你的社交生活。 VueJs 前端/Go + firebase 后端。 好主意还是坏主意？我很想得到一些反馈：P https://move-match.com   由   提交 /u/naaadz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18plcd8/an_app_to_meet_locals_that_are_moving_to_the_same/</guid>
+      <pubDate>Sun, 24 Dec 2023 02:27:34 GMT</pubDate>
     </item>
     <item>
-      <title>使用原始 html 帖子创建您自己的社交媒体！</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pedzf/create_your_own_sortasocialmedia_with_raw_html/</link>
-      <description><![CDATA[   /u/freshman_dev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pedzf/create_your_own_sortasocialmedia_with_raw_html/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:33:58 GMT</pubDate>
+      <title>带 flex / grid 的引号？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pl4cj/quotes_with_flex_grid/</link>
+      <description><![CDATA[      你会如何解决这个问题？我试图将引号放在引号本身的两侧 - 与文本齐平（但不是内联）。但是，一旦文本开始换行到第二行，引号就不再与文本齐平。引用本身占据了令人困惑的空间。 引号应该紧邻文本，而不是间隔太远。 我尝试过 Flexbox、网格、表格、浮动...我找不到一个办法。这看起来很微不足道——我是不是错过了一些非常明显的东西？我觉得我必须把这件事过于复杂化，但我已经花了一个小时了，感觉我快疯了。 需要明确的是：  文本需要具有响应性。当空间允许时为 1 行，或者当屏幕缩小时换行为多行。 引号需要与顶部两侧的文本齐平。  如果有人想查看实际操作，这里有一个 codepen。https://codepen.io/jparks/pen/QWoWRJq  ​ 编辑：我将建议的解决方案添加到了代码笔中 - 仍然没有成功。 我的初始代码当文本全部在一行上时效果很好。一旦文本换行为 2 行，引号就会保留在屏幕边缘，而中间元素（包含文本）将填充空间 - 即使文本本身不填充空间。我无法让引号（或包含引号的元素）扩展以填充该空间。 我希望有更好的屏幕截图： 当文本换行时，我希望引号仍然与文本齐平。但事实并非如此。它们停留在屏幕（或父元素）的边缘。即使中间的文本没有填充该空间，但保存该文本的元素却填充了该空间。   由   提交 /u/crazybabyeater   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pl4cj/quotes_with_flex_grid/</guid>
+      <pubDate>Sun, 24 Dec 2023 02:14:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
