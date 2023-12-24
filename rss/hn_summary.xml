@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 24 Dec 2023 03:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 05:05:34 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]此网页内容的作者分享了被某些人接触的个人经历 [...]</title>
+      <link>https://t.me/hn_summary/65457</link>
+      <description><![CDATA[我只需要一个程序员
+该网页内容的作者分享了一个需要程序员来实现其商业想法的人与他联系的个人经历。作者强调了关于软件开发的常见假设，例如认为软件开发很容易、软件并不像业务概念那么重要以及程序员是可以互换的。作者对这些假设提出了质疑，并认为软件开发很困难，软件对于企业的成功至关重要，而程序员个人的技能可以极大地影响项目的结果。作者质疑这些假设在软件行业中是否正在发生变化，或者仅仅是潜在客户的看法正在发生变化。]]></description>
+      <guid>https://t.me/hn_summary/65457</guid>
+      <pubDate>Sun, 24 Dec 2023 05:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]有多少人？</title>
+      <link>https://t.me/hn_summary/65456</link>
+      <description><![CDATA[有多少人？古代人口统计
+网络内容讨论了估计古代社会人口的挑战和不确定性。作者强调了缺乏可靠数据以及人口估计可能不准确的情况。他们提到，即使是罗马人口普查等官方人口普查数据，仍然可能存在争议和不确定性。作者还讨论了使用报告的军队规模来估计人口数字的方法，但承认这种方法的局限性和挑战。总体而言，内容强调了确定古代人口数字的困难，并警告不要对现有估计过于自信。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65456</guid>
+      <pubDate>Sun, 24 Dec 2023 04:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>该博客文章讨论了 Novell NetWare 的历史，这是一种在世界范围内流行的网络操作系统 [...]</title>
+      <link>https://t.me/hn_summary/65455</link>
+      <description><![CDATA[当 Power Macintosh 运行 NetWare 时（以虫洞和赛博朋克为特色）
+该博客文章讨论了 Novell NetWare 的历史，这是 20 世纪 90 年代流行的网络操作系统。作者回忆了他们早期使用 NetWare 的经历，并强调了 Novell 和 Apple 之间意想不到的合作关系。这篇文章透露，Apple Macintosh 计算机能够运行 NetWare 服务器，这在当时是一个独特的功能。作者还提到了围绕苹果与Novell 合作的争议以及他们试图创建混合​​Mac-on-DOS 系统以与微软竞争的失败尝试。此外，这篇文章还讨论了 NetWare 的技术方面及其多年来的演变。 （根据故事文本的 18% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65455</guid>
+      <pubDate>Sun, 24 Dec 2023 04:23:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在最近的一项裁决中，一名联邦法官确定 Twitter（现称为 X Corp）[...]</title>
+      <link>https://t.me/hn_summary/65454</link>
+      <description><![CDATA[法官裁定，Twitter 未能支付数百万美元奖金，违反了合同&lt; /a&gt;
+在最近的一项裁决中，一名联邦法官认定 Twitter（现称为 X Corp）违反了合同，未能向其员工支付承诺的数百万美元奖金。该诉讼由 Twitter 前薪酬高级总监马克·肖宾格 (Mark Schobinger) 提起，他声称公司违反了合同。法官裁定，根据加州法律，Schobinger 可能存在违反合同的索赔，并且 Twitter 拒绝向他支付承诺的奖金，从而违反了合同。自埃隆·马斯克 (Elon Musk) 收购该公司以来，X 面临着众多诉讼，其中包括歧视和未能提前提供裁员通知的指控。这项裁决为 X 带来了更多诉讼。]]></description>
+      <guid>https://t.me/hn_summary/65454</guid>
+      <pubDate>Sun, 24 Dec 2023 04:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>【媒体】NeurIPS 2023 会议在新奥尔良举行，共接收 3586 篇论文。</title>
+      <link>https://t.me/hn_summary/65453</link>
+      <description><![CDATA[NeurIPS 2023 回顾 – 最佳论文
+NeurIPS 2023 会议在新奥尔良举行，共收到 3586 篇论文。潜在空间团队参加了会议并选出了最佳论文，以及其他有影响力和个人的选择。一些著名的论文包括“Word2Vec”，它改进了 Skip-gram 模型，用于学习单词和短语的分布式向量表示。另一篇论文质疑大型语言模型中是否存在涌现能力，认为它们可能是评估指标的产物。 “直接偏好优化”提出了一种无需强化学习即可精确控制语言模型行为的方法。其他论文探讨的主题包括扩展数据受限的语言模型、多模态数据集、视觉指令调整、使用语言模型故意解决问题、使用外部工具的语言模型以及 Minecraft 中的终身学习代理。 （根据故事文本的 76% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65453</guid>
+      <pubDate>Sun, 24 Dec 2023 04:10:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>作者讨论了通过 HTTPS 传递 SSH 以绕过网络限制的过程 [...]</title>
+      <link>https://t.me/hn_summary/65452</link>
+      <description><![CDATA[通过 HTTPS 的实际 SSH
+作者讨论了通过HTTPS传递SSH以绕过网络限制的过程。它们提供了允许通过 HTTPS 进行 SSH 的客户端和服务器配置示例。作者还探索了封装协议的其他选项，例如使用 sslh 项目或 OpenSSH 中的 ProxyCommand 指令。他们最终选择将 SSH 封装到 TLS 中，并提供用于创建 HTTPS 隧道的脚本。作者最后强调了 OpenSSH 中 CONNECT 方法和 ServerAliveInterval 旋钮的有用性。]]></description>
+      <guid>https://t.me/hn_summary/65452</guid>
+      <pubDate>Sun, 24 Dec 2023 03:57:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>作者介绍了 AdSkipper，这是一个免费的开源浏览器扩展，可以绕过 YouTube 广告。</title>
+      <link>https://t.me/hn_summary/65451</link>
+      <description><![CDATA[AdSkipper – 您喜爱的免费开源工具 
+作者介绍了 AdSkipper，这是一个免费的开源浏览器扩展，可以绕过 YouTube 广告。 YouTube 系统无法检测到该扩展程序，并且适用于所有浏览器，Safari 支持即将推出。与常规广告拦截器不同，AdSkipper 通过将当前时间设置为完整的广告长度并自动单击“跳过广告”按钮来完全跳过广告。作者声称，这种方法使广告看起来是由 YouTube 加载和观看的，但用户不会看到它们。该扩展程序目前支持跳过 YouTube 上的广告并删除 Shorts，并计划在未来添加新的网站和功能。作者鼓励用户在 Chrome 和 Firefox 网上商店中对扩展进行评分，以提高其知名度。]]></description>
+      <guid>https://t.me/hn_summary/65451</guid>
+      <pubDate>Sun, 24 Dec 2023 03:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Armory.io 是一个软件部署平台，已以 m [...] 的价格出售给竞争对手 Harness</title>
+      <link>https://t.me/hn_summary/65450</link>
+      <description><![CDATA[Armory.io 仅以 700 万美元的价格出售给 Harness
+软件部署平台Armory.io已出售给竞争对手在一笔全现金交易中仅花费 700 万美元。考虑到 Armory 此前在 2020 年的估值超过 2 亿美元，这一结果令人惊讶。此次收购反映了初创企业市场的现状，由于风险投资资金枯竭和估值停滞，许多公司面临出售或关闭的选择。 Armory 已从 Bain Capital Ventures、Insight Partners 和 Marc Benioff 等投资者那里筹集了超过 8000 万美元。这次出售是一个大趋势的一部分，即雄心勃勃的初创公司被迫低价出售或完全关闭。 Harness 和 Armory 都为软件开发人员提供持续交付服务。]]></description>
+      <guid>https://t.me/hn_summary/65450</guid>
+      <pubDate>Sun, 24 Dec 2023 03:21:47 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]苹果于 2023 年 10 月悄然发布了名为 Ferret 的开源多模式 LLM。</title>
       <link>https://t.me/hn_summary/65449</link>
@@ -17,73 +81,9 @@
       <title>[媒体] 互联网档案馆 (IA) 正面临着与出版商的重大法律战，出版商要求 [...]</title>
       <link>https://t.me/hn_summary/65448</link>
       <description><![CDATA[作者和版权学者在具有里程碑意义的法律斗争中支持“互联网档案馆”&lt; /a&gt;
-互联网档案馆 (IA) 正面临与出版商的一场重大法律诉讼，出版商声称 IA 受控的数字借阅 (CDL) 业务侵犯了版权。纽约联邦法院做出了有利于出版商的裁决，但 IA 已提起上诉，希望推翻这一裁决。 IA得到了包括作家联盟在内的多方支持，他们认为法院没有考虑作者的利益，而且出版商已经拥有太多权力。法律和版权学者还认为，IA 的借阅系统类似于实体图书馆，应被视为合理使用。已经提交了几份非当事人意见陈述来支持 IA 图书馆，强调考虑消费者权利和图书馆主导的 CDL 的公共利益的重要性。出版商尚未回应。]]></description>
+互联网档案馆 (IA) 正面临与出版商的一场重大法律诉讼，出版商声称 IA 受控的数字借阅 (CDL) 业务侵犯了版权。纽约联邦法院做出了有利于出版商的裁决，但 IA 已提起上诉，希望推翻这一裁决。 IA得到了包括作家联盟在内的多方支持，他们认为法院没有考虑作者的利益，出版商的权力已经太大。法律和版权学者还认为，IA 的借阅系统类似于实体图书馆，应被视为合理使用。已经提交了几份非当事人意见陈述来支持 IA 图书馆，强调考虑消费者权利和图书馆主导的 CDL 的公共利益的重要性。出版商尚未回应。]]></description>
       <guid>https://t.me/hn_summary/65448</guid>
       <pubDate>Sun, 24 Dec 2023 03:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 1972 年的原始研究《增长的极限》现在可以免费在线阅读。</title>
-      <link>https://t.me/hn_summary/65447</link>
-      <description><![CDATA[增长的极限 - 现已可供在线阅读 
-1972 年的原始研究《增长的极限》现在可以免费在线阅读。这项由丹尼斯·梅多斯领导的研究预测，如果我们继续“一切照旧”的增长模式，将在一个世纪内导致环境和经济崩溃。该研究首次发表时面临争议，但其研究结果多年来得到了增长模式、环境健康和资源利用的支持。该研究的数字版本包括所有原始数据，并以 PDF 和 HTML 格式提供。达特茅斯学院图书馆在使该资源可在线访问方面发挥了重要作用。]]></description>
-      <guid>https://t.me/hn_summary/65447</guid>
-      <pubDate>Sun, 24 Dec 2023 02:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 微软飞行模拟器可以帮助我学习飞行（或让我成为一名更好的飞行员）吗？</title>
-      <link>https://t.me/hn_summary/65446</link>
-      <description><![CDATA[微软飞行模拟器可以帮助我学习飞行（或者让我成为更好的飞行员）？
-作者讨论了 Microsoft Flight Simulator 是否可以帮助人们学习飞行或成为一名更好的飞行员。他们认为，虽然模拟器可以教授飞行的操作和程序，但它无法完全复制成为一名优秀飞行员所需的情感和身体反应。作者分享了他们能够在模拟器上成功操作 777 但难以让直升机保持在空中的个人经历。他们强调，飞行不仅仅是操作机器和遵循程序，它需要一定的能力、态度和态势感知。作者还提到了余光、“凭感觉”提供的线索以及飞行中微妙声音的重要性。他们的结论是，飞行是情感和激情的，模拟器无法提供同样的体验。]]></description>
-      <guid>https://t.me/hn_summary/65446</guid>
-      <pubDate>Sun, 24 Dec 2023 02:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]这篇博文讨论了 Ruby 3.3 的 IRB（交互式 Ruby）中的主要增强功能 [...]</title>
-      <link>https://t.me/hn_summary/65445</link>
-      <description><![CDATA[揭晓 Ruby 3.3 IRB 的巨大飞跃 
-这篇博文讨论了 Ruby 3.3 的 IRB（交互式 Ruby）的主要增强功能，并提供了对未来计划的一瞥。 Ruby 3.3 的 IRB 的改进包括增强的调试功能、改进的自动完成功能以及整体改进的用户体验。值得注意的是，用户仍然可以在 Ruby 2.7+ 项目中安装相同版本的 IRB。这篇文章重点介绍了 irb:rdbg 会话，它允许用户在不退出 IRB 会话的情况下执行所有 rdbg 命令，提供相当于 pry-byebug 的调试体验。这篇文章还提到了自动完成、寻呼机支持和历史命令方面的增强。此外，它还讨论了未来的计划，例如更改帮助命令和增强可扩展性。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65445</guid>
-      <pubDate>Sun, 24 Dec 2023 02:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 编程到底出了什么问题？</title>
-      <link>https://t.me/hn_summary/65444</link>
-      <description><![CDATA[编程发生了什么？ (2010)
-作者回顾了他们早期的编程经历以及随着时间的推移它是如何变化的。他们对当前的编程状态表示失望，表示它主要涉及将库粘贴在一起而不是创建新的东西。作者引用了 Don Knuth 的话，他对现代编程缺乏创造力和兴奋感也有类似的担忧。作者渴望从零开始并创造一些东西的快感，并对大量的文档和其他任务剥夺了编程的核心工作表示沮丧。他们质疑这个行业如何最终陷入这种状态，并想知道如何改变它。]]></description>
-      <guid>https://t.me/hn_summary/65444</guid>
-      <pubDate>Sun, 24 Dec 2023 02:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Bluesky，仅限邀请的去中心化 Twitter 替代品，已将其帖子添加到 [...]</title>
-      <link>https://t.me/hn_summary/65443</link>
-      <description><![CDATA[Bluesky 帖子终于向公众开放了
-Bluesky 是仅限受邀者参加的去中心化 Twitter 替代品，现已向公众开放其帖子。用户不再需要帐户即可查看平台上的帖子，无论是通过网络还是 Bluesky 应用程序。但是，设置中有一个切换选项，允许用户将其内容的可见性限制为仅对登录用户可见。该切换不能保证隐私，因为其他应用程序可能不尊重此设置。 Bluesky 还推出了一个新徽标，一只蝴蝶，代表着他们变革社交媒体的使命。尽管担心被 ActivityPub 抛在后面，但 Bluesky 似乎正在快速发展并培育出一个有趣的社区。]]></description>
-      <guid>https://t.me/hn_summary/65443</guid>
-      <pubDate>Sun, 24 Dec 2023 01:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]新西兰鸮鹦鹉，一种不会飞的鹦鹉物种，正面临灭绝的威胁[...]</title>
-      <link>https://t.me/hn_summary/65442</link>
-      <description><![CDATA[新西兰努力拯救圆滚滚、不会飞的鹦鹉 
-新西兰的鸮鹦鹉是一种不会飞的鹦鹉，由于人类引入的捕食者而面临灭绝的威胁。保护工作的重点是管理近海岛屿上剩余的鸮鹦鹉，并消灭掠食者。这些努力使得鸮鹦鹉的数量从 1995 年的不到 60 只增加到今天的 200 多只。为了进一步保护该物种，环境保护部和 Ngāi Tahu 将一些雄性鹦鹉转移到没有捕食者的 Maungatautari 山保护区。研究人员正在监测鹦鹉的健康和行为，以确定它们是否能够在新的栖息地茁壮成长。遗传学研究也正在进行中，以提高鸮鹦鹉的生存率和繁殖成功率。最终目标是消灭外来掠食者，让鸮鹦鹉在自然栖息地繁衍生息。]]></description>
-      <guid>https://t.me/hn_summary/65442</guid>
-      <pubDate>Sun, 24 Dec 2023 01:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者分享了在中国公司工作的经验和教训 [...]</title>
-      <link>https://t.me/hn_summary/65441</link>
-      <description><![CDATA[如何在中国公司生存
-作者分享了他们在上海一家中国公司工作的经历和教训。他们讨论了长时间的工作、需要证明自己的贡献、与缺乏经验的同事一起工作、不切实际的商业目标，以及不陷入办公室政治的重要性。作者还强调了学习语言和适应工作场所文化规范的重要性。他们以坦诚且内容丰富的方式深入了解在中国公司工作的挑战和动态。 （根据 82% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65441</guid>
-      <pubDate>Sun, 24 Dec 2023 01:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]卡姆登长凳是一个独特的建筑，旨在抵抗各种活动 [...]</title>
-      <link>https://t.me/hn_summary/65440</link>
-      <description><![CDATA[设计完美的反对象
-卡姆登长凳是一座独特的建筑，旨在抵御城市中的各种活动。它的涂层可以防止涂鸦和破坏，有角度的侧面可以防止滑板者和海报，而弧形的顶部可以阻止露宿者。长凳被有意设计成一个非物体，由它不是什么而不是它是什么来定义。它几乎不舒服，而且缺乏使其不仅仅是一个坐的地方的品质。作者质疑卡姆登长凳如果不必是长凳的话会是什么样子，并对公共空间自由的丧失和英国的未来表示担忧。]]></description>
-      <guid>https://t.me/hn_summary/65440</guid>
-      <pubDate>Sun, 24 Dec 2023 01:35:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
