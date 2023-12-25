@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 06:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 09:13:07 GMT</lastBuildDate>
+    <item>
+      <title>任何人都有 Stephen 的 Master React with Redux 课程的注释或备忘单</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qefvt/anyone_have_notes_or_cheat_sheet_of_stephens/</link>
+      <description><![CDATA[三个月前我就学完了课程，但因为家里有事，我不得不回家，那段时间我没有时间练习每天写代码，这样我就不会忘记。我现在从家里回来了，但我想我在 Redux 之后忘记了一些东西。如果有人有本课程的备忘单或任何其他笔记，那将是一个很大的帮助。谢谢。   由   提交 /u/Expective_Dentist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qefvt/anyone_have_notes_or_cheat_sheet_of_stephens/</guid>
+      <pubDate>Mon, 25 Dec 2023 08:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>内联样式标签上的 Ejs</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qecua/ejs_on_a_inline_style_tag/</link>
+      <description><![CDATA[      我在这方面找不到任何内容，但它显示了预期的属性值。   由   提交/u/Jado0o0  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qecua/ejs_on_a_inline_style_tag/</guid>
+      <pubDate>Mon, 25 Dec 2023 08:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现这种div放置方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qd9s3/how_to_achieve_this_type_of_div_placement/</link>
+      <description><![CDATA[      ​ 现在看起来像这样 这就是我的输出应该是这样的 &lt; /div&gt;  由   提交/u/armedrossie  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qd9s3/how_to_achieve_this_type_of_div_placement/</guid>
+      <pubDate>Mon, 25 Dec 2023 06:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>如何重定向路径最后一部分中带有连字符的所有网址？</title>
       <link>https://www.reddit.com/r/webdev/comments/18qcbk2/how_can_i_redirect_all_urls_with_hyphens_in_the/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/nutra987  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18q630f/what_browser_do_you_use_the_most_for_development/</guid>
       <pubDate>Sun, 24 Dec 2023 23:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享一个很酷但有争议的 VSCode 扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q5yw8/sharing_a_cool_and_controversial_vscode_extension/</link>
-      <description><![CDATA[我和一个朋友想尝试开发一个小型 VSCode 扩展。我们的想法是一个扩展，可以自动折叠多种语言的每个 catch 块。我们认为这对于代码审查和一般编码很有帮助，因为它将注意力集中在代码的重要部分，而不是边缘情况。  你觉得怎么样？ 扩展名称 - un except 扩展代码 - https://github.com/hvuhsg/unexcept   由   提交 /u/yoyo_programmer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q5yw8/sharing_a_cool_and_controversial_vscode_extension/</guid>
-      <pubDate>Sun, 24 Dec 2023 22:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Asp .net 中的身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q5riq/authentication_in_asp_net/</link>
-      <description><![CDATA[嗨...所以...我有点绝望... 我有一个 .net 网站对用户进行身份验证并返回 Jwt 的 API ... Jwt 用于保护 Web api 的某些端点 ... 客户端应用程序，一个 Asp .net 应用程序，使用 http 客户端与 API 进行通信... 客户端应用程序收到 Jwt 令牌...现在怎么办？ 我需要将 jwt 放入我的每个请求中使用http客户端到api... 而且我还想将其发送到“浏览器”，以便我可以保护Asp .net应用程序的操作... 我知道...“如此简单”...将其保存在内存或会话中，将其放入cookie或其他东西中，...我现在被困在这4天了...我只是找不到一种“正确”但不完全过度设计的方式... 控制器： 公共操作 getToken() ... Var token = response.token()。 &lt; p&gt;这里...我这里有令牌...现在怎么办？请帮忙😖   由   提交/u/LordAsura5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q5riq/authentication_in_asp_net/</guid>
-      <pubDate>Sun, 24 Dec 2023 22:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣诞快乐 红迪网</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q594n/merry_christmas_reddit/</link>
-      <description><![CDATA[🎄   由   提交/u/dmart89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q594n/merry_christmas_reddit/</guid>
-      <pubDate>Sun, 24 Dec 2023 22:20:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

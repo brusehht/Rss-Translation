@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 25 Dec 2023 06:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 09:12:45 GMT</lastBuildDate>
+    <item>
+      <title>用于制作漂亮的图像和代码屏幕截图的 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/18qf5uj/web_app_to_make_beautiful_image_code_screenshots/</link>
+      <description><![CDATA[ 由   提交 /u/mediocre_man_online   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18qf5uj/web_app_to_make_beautiful_image_code_screenshots/</guid>
+      <pubDate>Mon, 25 Dec 2023 09:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是微服务的终结吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/18qegsi/is_this_the_end_of_microservices/</link>
+      <description><![CDATA[该视频讨论了模块化整体作为微服务的替代方案。   由   提交/u/ankushch  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18qegsi/is_this_the_end_of_microservices/</guid>
+      <pubDate>Mon, 25 Dec 2023 08:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL 作为 API</title>
+      <link>https://www.reddit.com/r/programming/comments/18qe4ya/sql_as_api/</link>
+      <description><![CDATA[ 由   提交/u/valenterry  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18qe4ya/sql_as_api/</guid>
+      <pubDate>Mon, 25 Dec 2023 07:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 C 语言的 TUI 文本编辑器</title>
+      <link>https://www.reddit.com/r/programming/comments/18qe25f/a_tui_text_editor_with_c/</link>
+      <description><![CDATA[ 由   提交/u/proh14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18qe25f/a_tui_text_editor_with_c/</guid>
+      <pubDate>Mon, 25 Dec 2023 07:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>React Hooks：彻底改变功能组件 - Makemychance</title>
+      <link>https://www.reddit.com/r/programming/comments/18qdkvf/react_hooks_revolutionizing_functional_components/</link>
+      <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18qdkvf/react_hooks_revolutionizing_functional_components/</guid>
+      <pubDate>Mon, 25 Dec 2023 07:04:51 GMT</pubDate>
+    </item>
     <item>
       <title>DSA教练</title>
       <link>https://www.reddit.com/r/programming/comments/18qcmuc/dsa_coach/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/unbalancedparen  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18q2nkt/interview_with_fernando_borretti_about_austral_a/</guid>
       <pubDate>Sun, 24 Dec 2023 20:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的工程师专注于帮助他人</title>
-      <link>https://www.reddit.com/r/programming/comments/18pzsrf/best_engineers_are_focusing_on_helping_others/</link>
-      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18pzsrf/best_engineers_are_focusing_on_helping_others/</guid>
-      <pubDate>Sun, 24 Dec 2023 17:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>平安夜编码</title>
-      <link>https://www.reddit.com/r/programming/comments/18pzfqv/coding_on_christmas_eve/</link>
-      <description><![CDATA[ 由   提交/u/Beautiful_Lie656  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18pzfqv/coding_on_christmas_eve/</guid>
-      <pubDate>Sun, 24 Dec 2023 17:19:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Daggerfall Unity：Unity 引擎中 Daggerfall 的开源重建</title>
-      <link>https://www.reddit.com/r/programming/comments/18pzbx7/daggerfall_unity_open_source_recreation_of/</link>
-      <description><![CDATA[ 由   提交/u/wheybags  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18pzbx7/daggerfall_unity_open_source_recreation_of/</guid>
-      <pubDate>Sun, 24 Dec 2023 17:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>B 树如何让您的查询更快？</title>
-      <link>https://www.reddit.com/r/programming/comments/18py9pz/how_does_btree_make_your_queries_fast/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18py9pz/how_does_btree_make_your_queries_fast/</guid>
-      <pubDate>Sun, 24 Dec 2023 16:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>垃圾代码的 10 个常见症状</title>
-      <link>https://www.reddit.com/r/programming/comments/18pvu0k/10_common_symptoms_of_garbage_code/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18pvu0k/10_common_symptoms_of_garbage_code/</guid>
-      <pubDate>Sun, 24 Dec 2023 14:03:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
