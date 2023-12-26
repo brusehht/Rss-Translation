@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 26 Dec 2023 06:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 09:12:42 GMT</lastBuildDate>
     <item>
       <title>您如何处理备份？</title>
       <link>https://www.reddit.com/r/opensource/comments/18r192s/how_do_you_handle_backups/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>NEWSKLXR（newschool 扩展现实）-任何人都可以贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/18r0osd/newsklxr_newschool_exteneded_reality_anybody_can/</link>
-      <description><![CDATA[这是一个开源 webxr 项目，换句话说，是一个加强 genz 学习的平台，开发人员开发该平台并与教师合作制作 AR 内容VR，使用WEBGL框架。让我们一起尝试对教育系统做出小小的改变。 在 github 中了解更多信息&lt; /p&gt; ​   由   提交 /u/asia_nft   [链接] [评论]]]></description>
+      <description><![CDATA[这是一个开源 webxr 项目，换句话说，是一个增强 genz 学习的平台，开发人员开发该平台并与教师合作制作 AR 内容VR，使用WEBGL框架。让我们一起尝试对教育系统做出小小的改变。 在 github 中了解更多信息&lt; /p&gt; ​   由   提交 /u/asia_nft   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18r0osd/newsklxr_newschool_exteneded_reality_anybody_can/</guid>
       <pubDate>Tue, 26 Dec 2023 05:22:00 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>开源喷墨打印机</title>
       <link>https://www.reddit.com/r/opensource/comments/18qtku2/open_source_inkjet_printer/</link>
-      <description><![CDATA[我正在考虑使用一台旧打印机并使用 Arduino 或 Pi 运行它，但我有一些问题也许你们可以帮忙。  最好买一台打印机和 arduino 并开始实验，但任何知识或例子将不胜感激。  理论上，我可以使用 arduino，将其连接到打印机并记录其打印内容并复制内容，但从头开始编码整个固件以解码文档需要一段时间。   Pi 还是 Arduino 更好？理想情况下，它能够通过蓝牙或 wifi 接收文档，两者都可以，但可能出于某种原因 Pi 更好。 我如何解码文档（pdf 、图像等）？我还没有找到任何允许为打印机解码文档的模块或示例。不确定打印机是否获取文档并对其进行解码，或者软件是否在计算机上执行此操作。   我的计划是在电脑上的应用程序上解码文档，然后将其发送到打印机并让它执行其操作。  任何帮助或来源将不胜感激。   由   提交 /u/Surpeedude   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑使用一台旧打印机并使用 Arduino 或 Pi 运行它，但我有一些问题也许你们可以帮忙解决。  最好买一台打印机和 arduino 并开始实验，但任何知识或例子将不胜感激。  理论上，我可以使用 arduino，将其连接到打印机并记录其打印内容并复制内容，但从头开始编码整个固件以解码文档需要一段时间。   Pi 还是 Arduino 更好？理想情况下，它能够通过蓝牙或 wifi 接收文档，两者都可以，但可能出于某种原因 Pi 更好。 我如何解码文档（pdf 、图像等）？我还没有找到任何允许为打印机解码文档的模块或示例。不确定打印机是否获取文档并对其进行解码，或者软件是否在计算机上执行此操作。   我的计划是在电脑上的应用程序上解码文档，然后将其发送到打印机并让它执行其操作。  任何帮助或来源将不胜感激。   由   提交 /u/Surpeedude   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18qtku2/open_source_inkjet_printer/</guid>
       <pubDate>Mon, 25 Dec 2023 23:11:44 GMT</pubDate>
     </item>
