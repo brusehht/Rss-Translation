@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 12:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 00:39:25 GMT</lastBuildDate>
     <item>
-      <title>Filmolino SlideScanner 是一个 DIY 项目，它利用 M5Stack Fire 和特殊的电子 [...]</title>
-      <link>https://t.me/hn_summary/65605</link>
-      <description><![CDATA[Filmolino SlideScanner
-Filmolino SlideScanner 是一个 DIY 项目，它利用 M5Stack Fire 和特殊的电子模块来创建幻灯片扫描仪。该项目是在 KiCAD 中设计的，双面 PCB 可以使用经销商处提供的组件轻松手工焊接。 KiCAD 项目支持的功能比幻灯片扫描仪所使用的功能更多，因此用户只需组装一组特定的组件即可。该项目包括各种电阻器、电容器、二极管、保险丝、连接器和固态继电器。 Filmolino SlideScanner 提供了一种经济高效且可定制的幻灯片扫描解决方案。]]></description>
-      <guid>https://t.me/hn_summary/65605</guid>
-      <pubDate>Mon, 25 Dec 2023 12:10:24 GMT</pubDate>
+      <title>[媒体] CuteVim 项目是 Vim 的最小配置文件，它提供了合理的定义 [...]</title>
+      <link>https://t.me/hn_summary/65680</link>
+      <description><![CDATA[展示 HN：真正的便携式 Vim（带有可爱的 Vimrc）
+CuteVim 项目是 Vim 的最小配置文件，提供合理的默认值和附加功能。它包括一个显示有关文件的各种信息的选项卡、行计数器、备份和撤消功能以及选择和移动行和文本块的功能。该项目旨在创建一个便携式 Vim 设置，无需携带多个文件即可轻松使用。作者提到该项目与其他项目的不同之处在于提供了一个可爱且具有视觉吸引力的 Vim 设置以及可自定义的外观选项。该项目还包括快速测试和使用 CuteVim 的说明。]]></description>
+      <guid>https://t.me/hn_summary/65680</guid>
+      <pubDate>Tue, 26 Dec 2023 00:39:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了 Rust 语言在“系统”编程之外的实用性，并且 [...]</title>
-      <link>https://t.me/hn_summary/65604</link>
-      <description><![CDATA[用 6 行 Rust 为网络提供服务
-作者讨论了 Rust 语言在“系统”编程之外的实用性，并描述了他们使用 Rust 进行开发的经验。他们引入了 Rocket Web 框架，该框架允许用户仅用 6 行 Rust 代码即可提供 Web 内容。作者提供了有关如何设置 Rocket Web 框架以及如何使用 HTML、CSS 和 JavaScript 创建基本网页的分步说明。他们强调，提供静态文件是本教程的主要重点，并且可以使用传统方法来完成进一步的 Web 开发。作者还提到，他们创建了一个 GitHub 存储库，供读者用作自己项目的基础。]]></description>
-      <guid>https://t.me/hn_summary/65604</guid>
-      <pubDate>Mon, 25 Dec 2023 11:12:42 GMT</pubDate>
+      <title>[媒体] 此网页内容的作者描述了他们模拟 iPod Touch 2G u 的体验 [...]</title>
+      <link>https://t.me/hn_summary/65679</link>
+      <description><![CDATA[使用 QEMU 模拟 iPod Touch 2G
+此 Web 内容的作者描述了他们使用 QEMU 模拟器模拟 iPod Touch 2G 的体验。他们解释说，虽然他们能够在模拟器上成功运行 iPod Touch 1G，但功能有限且不包含第三方应用程序。他们决定将重点转移到模拟 iPod Touch 2G，他们认为 iPod Touch 2G 是最受欢迎和标志性的 iPod Touch 设备之一。作者讨论了他们遇到的挑战，例如对 NOR 存储器的通信协议进行逆向工程以及为 IMG3 文件格式实现加密操作。他们还提到了进一步提高模拟器可用性的计划。]]></description>
+      <guid>https://t.me/hn_summary/65679</guid>
+      <pubDate>Tue, 26 Dec 2023 00:34:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了滥用数学作为说服[...]的修辞武器的行为</title>
-      <link>https://t.me/hn_summary/65603</link>
-      <description><![CDATA[数学恐吓：由数据驱动 [pdf](https:/ /news.ycombinator.com/item?id=38746954)
-文章讨论了滥用数学作为修辞武器来说服公众某个想法或过程是“客观的”并且优于其他想法或过程的情况。作者特别关注增值模型（VAM）在解释教育测试数据时的误用。 VAM 被大力宣传为一种衡量教育成功的科学方法，但作者认为，许多推广该方法的人没有能力判断其有效性或局限性。文章强调了使用考试来评估教师、学校或项目的问题，包括各种因素对考试成绩的影响以及教育经验的扭曲。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65603</guid>
-      <pubDate>Mon, 25 Dec 2023 11:07:32 GMT</pubDate>
+      <title>[媒体]《Live in Cook County Jail》是蓝调音乐家 B.B. 1971 年的现场专辑。</title>
+      <link>https://t.me/hn_summary/65678</link>
+      <description><![CDATA[住在库克县监狱
+《Live in Cook County Jail》是蓝调音乐家 B.B. King 于 1971 年在芝加哥库克县监狱录制的一张现场专辑。金和他的乐队为 2,117 名囚犯观众表演，其中大多数是年轻的黑人。这张专辑在 Billboard 顶级 LP 排行榜上停留了 33 周，最高排名第 25 位，并在顶级 R&amp;B 排行榜上排名第一。围绕这张专辑的媒体关注的是监狱里恶劣的生活条件，最终导致了改革。这场演出对金产生了深远的影响，他继续在监狱举办免费音乐会，并共同建立了促进囚犯康复和娱乐基金会。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65678</guid>
+      <pubDate>Tue, 26 Dec 2023 00:23:08 GMT</pubDate>
     </item>
     <item>
-      <title>比 Calendly 好 10 倍是什么？</title>
-      <link>https://t.me/hn_summary/65602</link>
-      <description><![CDATA[比 Calendly 好 10 倍是什么？
-该网络内容的作者正在寻求有关添加到其项目中的功能的建议，其中涉及将日历事件管理与 Google 日历集成。他们专门寻找比 Calendly“好 10 倍”的功能。作者提到了添加聊天功能来处理事件的想法，包括 Google 日历事件。然后他们要求对此想法的反馈。内容以“圣诞快乐”的节日问候结束。]]></description>
-      <guid>https://t.me/hn_summary/65602</guid>
-      <pubDate>Mon, 25 Dec 2023 11:03:21 GMT</pubDate>
+      <title>[媒体]亿万富翁埃隆·马斯克的公司X（原名Twitter）正面临来自[...]的诉讼</title>
+      <link>https://t.me/hn_summary/65677</link>
+      <description><![CDATA[埃隆·马斯克的 X 被指控扣留向员工承诺的奖金 
+亿万富翁埃隆·马斯克 (Elon Musk) 的 X 公司（前身为 Twitter）正面临员工诉讼，员工声称该公司未能支付承诺的奖金。该诉讼于 2023 年 6 月提起，寻求对未收到 2022 年奖金的前任和现任员工进行集体诉讼。一名联邦法官裁定针对 X 的案件合理并允许案件继续进行。 X 辩称，口头承诺不应具有约束力，案件应在德克萨斯州审理，但法官表示，加利福尼亚州法律适用于质疑合同执行情况的事项。 X 尚未回复评论请求。]]></description>
+      <guid>https://t.me/hn_summary/65677</guid>
+      <pubDate>Tue, 26 Dec 2023 00:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：哪句话永久地改变了您的思维方式？</title>
-      <link>https://t.me/hn_summary/65601</link>
-      <description><![CDATA[问 HN：哪句话永久改变了你的思维方式？
-news.ycombinator.com 上这篇文章的作者是要求社区分享对他们的思想产生持久影响的名言。他们指出，这句话不必完全改变一个人的世界观，而是具有足够大的影响力，足以被记住并影响特定领域的行为。该帖子鼓励来自各种来源的回应，例如书籍、电影、博客文章或现实生活经历。]]></description>
-      <guid>https://t.me/hn_summary/65601</guid>
-      <pubDate>Mon, 25 Dec 2023 10:20:53 GMT</pubDate>
+      <title>[媒体] 推出互联网重置按钮！</title>
+      <link>https://t.me/hn_summary/65676</link>
+      <description><![CDATA[互联网重置按钮
+介绍互联网重置按钮！这个创新工具让您只需点击一下即可重置您的互联网连接。当您的互联网突然停止工作或速度变慢时，不再有令人沮丧的时刻。只需按下按钮，即可看到您的连接被刷新和恢复。对于那些依赖稳定的互联网连接来工作、娱乐或与亲人保持联系的人来说，它改变了游戏规则。告别无休止的故障排除，迎接快速、简单的解决方案。准备好通过互联网重置按钮体验更流畅的在线体验！]]></description>
+      <guid>https://t.me/hn_summary/65676</guid>
+      <pubDate>Mon, 25 Dec 2023 23:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者分享了他们寻找旧蓝色笔记本的经验 [...]</title>
-      <link>https://t.me/hn_summary/65600</link>
-      <description><![CDATA[我的第一个 Z80 汇编语言程序
-该网络内容的作者分享了他们找到 1988 年旧蓝色笔记本的经历，其中包含他们的第一个 Z80 汇编语言程序。他们解释说，在 9 岁时，他们想创造游戏，但感觉受到 BASIC 语言速度缓慢的限制。然后，他们在观看父亲关于 VDP 处理器 TMS9128 编程的讲座时发现了 Z80 汇编语言编程的概念。他们很快就写了一个关于一名空手道选手与一名持刀女子战斗的游戏，并给同学们留下了深刻的印象。作者还附上了他们笔记本的图片，并计划将游戏转换为 MSX 和 Colecovision 的 tniASM v0.44。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65600</guid>
-      <pubDate>Mon, 25 Dec 2023 10:05:42 GMT</pubDate>
+      <title>一夫多妻制是如何变得如此流行的？</title>
+      <link>https://t.me/hn_summary/65675</link>
+      <description><![CDATA[一夫多妻制是如何变得如此流行的？
+这篇文章讨论了美国文化中多元之爱的流行。作者重点关注莫莉·罗登·温特 (Molly Roden Winter) 的回忆录《更多》(More)，其中详细介绍了她从一夫一妻制婚姻到开放并最终的多角恋关系的转变。作者强调了多元之爱的挑战和复杂性，包括对日程安排软件和自助手册的需求。他们还批评罗登温特对她和她的伴侣之间的经济差距缺乏坦诚。作者最后指出，真正的革命和变革不仅需要传播爱，还需要传播财富。]]></description>
+      <guid>https://t.me/hn_summary/65675</guid>
+      <pubDate>Mon, 25 Dec 2023 23:31:19 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：对 Rust 风格的语言编译为 JavaScript 感兴趣吗？</title>
-      <link>https://t.me/hn_summary/65599</link>
-      <description><![CDATA[询问 HN：对 Rust 语言编译为 JavaScript 感兴趣吗？ 
-news.ycombinator.com 上这篇文章的作者是考虑开发一种受 Rust 启发的新编程语言，可编译为 JavaScript。该语言将拥有严格的类型系统，以消除与类型相关的错误，并包括代数数据类型、详尽性检查和基于特征的编程等功能。它还具有“不安全”模式来直接与外部 JavaScript/TypeScript 交互。该语言将使用选项/结果，而不是使用“空/未定义”。作者相信这种方法可以带来显着的好处，尤其是最近添加的 TypedArray 和工作线程等。他们正在寻求投入和资源来帮助该项目。]]></description>
-      <guid>https://t.me/hn_summary/65599</guid>
-      <pubDate>Mon, 25 Dec 2023 09:53:23 GMT</pubDate>
+      <title>[媒体]随着加州太阳能发电量持续增长，“鸭子曲线”现象正在成为 [...]</title>
+      <link>https://t.me/hn_summary/65674</link>
+      <description><![CDATA[加州太阳能鸭子曲线变得更大
+随着加州太阳能发电容量的持续增长，“鸭子曲线”现象变得更加明显。鸭子曲线是指太阳能发电量最高时的中午净负荷（减去可变可再生能源发电后的剩余需求）下降，然后在太阳能发电量下降时的晚上急剧上升。这给电网运营商带来了挑战，他们必须平衡发电与需求。鸭子曲线造成了电网压力和经济挑战，但它也提供了能源存储的机会。电池存储系统可以存储白天产生的多余太阳能并在晚上进行调度，从而使曲线变平。鸭子曲线并非加州独有，在美国其他地区和世界各地也越来越多地出现。]]></description>
+      <guid>https://t.me/hn_summary/65674</guid>
+      <pubDate>Mon, 25 Dec 2023 23:20:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Zotero Android 版 Beta 版现已开放测试。</title>
-      <link>https://t.me/hn_summary/65598</link>
-      <description><![CDATA[Android 版 Zotero 可供 Beta 测试
-Android 版 Zotero 的 Beta 版本现已可供测试。该应用程序允许用户同步个人和群组库、编辑项目数据和注释、将项目组织到集合中、下载和上传文件、查看 PDF 和快照以及对 PDF 进行注释。但是，还有一些功能尚未实现，例如从浏览器保存、通过标识符或条形码扫描添加项目、引文/参考书目生成以及 WebDAV 文件同步。 Beta目前限制为1000名测试者，但进一步测试后限制将增加。建议用户在安装应用程序之前备份其 Zotero 数据目录。]]></description>
-      <guid>https://t.me/hn_summary/65598</guid>
-      <pubDate>Mon, 25 Dec 2023 09:41:13 GMT</pubDate>
+      <title>电子前沿基金会 (EFF) 讨论网站所有者如何防止 OpenAI 的 Cha [...]</title>
+      <link>https://t.me/hn_summary/65673</link>
+      <description><![CDATA[无机器人(.txt)：如何询问 ChatGPT 和 Google Bard不使用您的网站
+电子前沿基金会 (EFF) 讨论了网站所有者如何阻止 OpenAI 的 ChatGPT 和 Google 的 Bard 使用其网站内容来训练其语言模型。虽然出于研究目的抓取网站被认为是合法的，但它可能被视为粗鲁或令人不快。 EFF 认为网站运营商应该可以选择向爬虫程序表明他们的偏好。该过程涉及在网站上编辑或创建“robots.txt”文件，该文件向机器人和网络爬虫提供指令。 EFF 支持将抓取作为研究和获取信息的工具，但承认各个网站所有者可能有不同的观点。鼓励其他拥有类似人工智能产品的公司尊重类似的要求。]]></description>
+      <guid>https://t.me/hn_summary/65673</guid>
+      <pubDate>Mon, 25 Dec 2023 23:14:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者反思了父亲之前在美国医疗保健系统的经历[...]</title>
-      <link>https://t.me/hn_summary/65597</link>
-      <description><![CDATA[美国不是老人的国家
-作者回顾了他们的父亲在因前列腺癌去世前在美国医疗保健系统中的经历。他们强调了高昂的治疗和药物费用、辅助生活行业的忽视，以及美国老年时常伴随的孤独和孤立。作者认为，美国对老年人的待遇是愤世嫉俗和利益驱动的，而且这个国家并不欢迎老年人。他们还批评美国的医疗保健系统以及社会对个人成功而非公共纽带的重视。作者的结论是，美国不是一个老年人的国家，也不是任何其他人的国家。]]></description>
-      <guid>https://t.me/hn_summary/65597</guid>
-      <pubDate>Mon, 25 Dec 2023 09:40:05 GMT</pubDate>
+      <title>[媒体]本文提出了一种利用不断发展的资源进行元强化学习的新方法[...]</title>
+      <link>https://t.me/hn_summary/65672</link>
+      <description><![CDATA[不断发展的元强化学习存储库
+本文提出了一种使用进化存储库进行元强化学习的新方法。元强化学习是一种允许代理学习如何在强化学习环境中学习的技术。作者建议使用进化池（一种可以随时间适应和进化的动态神经网络）来提高元强化学习算法的性能。进行的实验表明，所提出的方法在一系列基准任务上优于现有方法。这项研究为提高元强化学习算法的效率和有效性开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/65672</guid>
+      <pubDate>Mon, 25 Dec 2023 23:01:53 GMT</pubDate>
     </item>
     <item>
-      <title>Audio Cut 是一款新工具，可根据字幕自动修剪音频，消除间隙，n [...]</title>
-      <link>https://t.me/hn_summary/65596</link>
-      <description><![CDATA[显示 HN：根据字幕自动修剪音频，消除间隙、噪音
-Audio Cut 是一款新工具，可以根据字幕自动修剪音频，消除间隙、噪音和重复内容。只需几个简单的步骤，用户就可以选择音频文件、选择语言、删除不必要的字幕并相应地剪切音频。然后，该工具提供下载干净音频的选项。这种创新的解决方案通过简化音频文件的编辑过程来节省时间和精力。]]></description>
-      <guid>https://t.me/hn_summary/65596</guid>
-      <pubDate>Mon, 25 Dec 2023 08:55:40 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/65671</link>
+      <description><![CDATA[社交媒体对青少年心理健康的阴暗面 
+美国卫生局局长于 2023 年 5 月发布公共咨询，强调社交媒体与青少年心理健康之间的联系。研究表明，社交媒体可能会导致不同人群的精神疾病、饮食失调和身体形象不满。儿童和青少年对身体不满意很常见，可能导致生活质量下降和不健康的饮食习惯。社交媒体的使用与负面的心理健康影响有关，特别是对于那些已有心理健康状况或身体形象问题的人来说。它也被确定为饮食失调的危险因素。 COVID-19 大流行使青少年的心理健康状况恶化，并增加了他们在社交媒体上接触有毒身体形象和节食内容的机会。文章建议，政策改变、社交媒体公司提高透明度以及在家中不使用手机的时间有助于减轻社交媒体对青少年心理健康的负面影响。]]></description>
+      <guid>https://t.me/hn_summary/65671</guid>
+      <pubDate>Mon, 25 Dec 2023 22:39:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
