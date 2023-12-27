@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Dec 2023 18:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 00:44:00 GMT</lastBuildDate>
     <item>
-      <title>[媒体]这项研究报告了社区人群中石器使用行为的出​​现[...]</title>
-      <link>https://t.me/hn_summary/65762</link>
-      <description><![CDATA[Covid-19对石器使用行为出现的影响在猴子
-这项研究报告了泰国佩德岛常见长尾猕猴群体中石器使用行为的出​​现。研究人员观察到，在 COVID-19 大流行期间，猴子开始使用石器打开岩牡蛎，当时通常为猴子提供食物的游客不被允许进入岛上。这种行为以前在人群中从未见过，据信是由于食物短缺而出现的。研究人员发现，这种行为主要由雄性猴子表现出来，随着岛上旅游业的恢复，这种行为可能面临消失的风险。]]></description>
-      <guid>https://t.me/hn_summary/65762</guid>
-      <pubDate>Tue, 26 Dec 2023 18:12:06 GMT</pubDate>
+      <title>[媒体]Pi Deploy 是 Linux Deploy 的一个分支，允许用户将他们的 root Android 开发 [...]</title>
+      <link>https://t.me/hn_summary/65819</link>
+      <description><![CDATA[有时最好的 SBC 就是您办公桌抽屉里已经积满灰尘的 SBC 
+Pi Deploy 是 Linux Deploy 的一个分支，允许用户将其 root 后的 Android 设备转变为服务器。它可用于任何具有 ARMv7 或 AArch64 CPU、运行 Android 5.0 或更高版本的已 root Android 设备。最新更新包括 Debian 12 的镜像和 Pi-Hole 广告拦截 DNS 服务器。用户还可以安装PIXEL Desktop和Nextcloud 27。安装过程很简单，需要用户下载并安装Pi Deploy APK并打开应用程序。安装后，用户可以使用提供的密码访问 Pi-hole Web 管理和 SSH/RDP。需要注意的是，如果Android设备长期未使用，建议在将其用作服务器之前更换电池。]]></description>
+      <guid>https://t.me/hn_summary/65819</guid>
+      <pubDate>Wed, 27 Dec 2023 00:44:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔制定的12VO电源标准正在业界引起关注。</title>
-      <link>https://t.me/hn_summary/65761</link>
-      <description><![CDATA[12VO 电源标准似乎正在发展，将减少 PC 布线，费用
-由英特尔开发的 12VO 电源标准正在业界获得关注。微星推出两款符合12VO标准的主板和一款12VO电源，表明该标准越来越受欢迎。 12VO 的显着变化是没有 24 针 ATX 连接器，因为它仅使用 10 针连接器。该标准仅提供 12v 电压，取消了直接 3.3v 和 5v 电源。这意味着 RAM、USB 和 M.2 SSD 等组件将由主板管理电压，而基于 SATA 的驱动器将需要 12v 至 5v 降压转换器。 12VO 的采用有望降低成本并改善电缆管理。戴尔、惠普和联想等系统集成商可能是该标准的早期用户。]]></description>
-      <guid>https://t.me/hn_summary/65761</guid>
-      <pubDate>Tue, 26 Dec 2023 17:57:51 GMT</pubDate>
+      <title>[媒体] K&R C 编译器项目是从 [...] Unix Archive 获得的文件集合</title>
+      <link>https://t.me/hn_summary/65818</link>
+      <description><![CDATA[从 Research Unix v5、v6 和 v7 获得的 K&amp;R C 编译器&lt; /a&gt;
+K&amp;R C 编译器项目是从 Unix Heritage Society 的 Unix Archive 获得的文件集合。该项目的目的是为 Kernighan 和 Ritchie 为 Research Unix 版本 5、6 和 7 开发的原始 C 编译器提供历史参考。它可用于研究 C 编程语言的演变并了解其早期实现。作者建议使用“git diff -M40%”命令来比较版本 6 和版本 7 之间的差异。该项目的与众不同之处在于提供对来自多个版本的 Research Unix 的 K&amp;R C 编译器的原始源代码的访问。]]></description>
+      <guid>https://t.me/hn_summary/65818</guid>
+      <pubDate>Wed, 27 Dec 2023 00:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]隐形屏幕是一种电子纸智能显示屏，可与您的 Google 帐户同步 [...]</title>
-      <link>https://t.me/hn_summary/65760</link>
-      <description><![CDATA[隐形屏幕 – 电子纸智能显示屏 
-隐形屏幕是一种电子纸智能显示屏，可与您的 Google 帐户同步并显示您的 Google 日历。它有一个手工完成的木框，挂在墙上或放在桌子上都很漂亮。您可以使用智能手机对其进行配置，选择要显示的日历并选择适合您需求的布局。当情况发生变化时，显示屏会自动更新，让您随时掌握日程安排。它非常适合家庭和办公室使用，让家庭或团队中的每个人都能随时了解情况。隐形屏幕可在网站上购买，价格为 149.00 美元。]]></description>
-      <guid>https://t.me/hn_summary/65760</guid>
-      <pubDate>Tue, 26 Dec 2023 17:57:44 GMT</pubDate>
+      <title>[媒体]TimeEvidence.com 是一个突破性的平台，利用人工智能 [...]</title>
+      <link>https://t.me/hn_summary/65817</link>
+      <description><![CDATA[Show HN：现在有了人工智能，我们需要一种方法来证明真实图像，尝试时间证据
+TimeEvidence.com 是一个突破性的平台，利用人工智能提供证明真实图像真实性的方法。随着 Deepfake 技术的兴起以及区分真实图像和操纵图像的难度越来越大， TimeEvidence.com 为这个问题提供了一个解决方案。通过分析图像的各个方面，例如元数据和像素级细节，该平台可以确定图像是否已被篡改，或者是否是原始的、未更改的照片。这项创新技术有可能彻底改变我们在从新闻到法律诉讼等各个领域验证图像真实性的方式。]]></description>
+      <guid>https://t.me/hn_summary/65817</guid>
+      <pubDate>Wed, 27 Dec 2023 00:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>YoWASP 是一个项目，旨在分发编译为 WebAssembly 的最新 FOSS FPGA 工具 [...]</title>
-      <link>https://t.me/hn_summary/65759</link>
-      <description><![CDATA[YoWASP 旨在分发编译为的最新 FOSS FPGA 工具WebAssembly
-YoWASP 是一个旨在通过 Python 的 PyPI 和 JavaScript 的 NPM 等语言包管理器分发编译为 WebAssembly 的最新 FOSS FPGA 工具的项目。使用 WebAssembly 可以创建可在多个操作系统和 CPU 上运行的通用二进制文件。 YoWASP 提供了 Yosys、nextpnr 和 openFPGALoader 的软件包。这些工具可以直接在操作系统或浏览器环境中运行。该项目还提供了 Visual Studio Code 的扩展。 YoWASP 包适用于 Python 和 JavaScript，但目前不支持其他语言。 YoWASP 的维护是完全自动化的。]]></description>
-      <guid>https://t.me/hn_summary/65759</guid>
-      <pubDate>Tue, 26 Dec 2023 17:37:32 GMT</pubDate>
+      <title>[媒体]Amazon Prime Video 将于 1 月 29 日开始展示有限广告。</title>
+      <link>https://t.me/hn_summary/65816</link>
+      <description><![CDATA[Amazon Prime Video 将于 1 月 29 日开始展示广告 
+Amazon Prime Video 将于 1 月 29 日开始展示有限的广告。加入广告的决定旨在让亚马逊在内容创作上投入更多资金。然而，该公司向 Prime 会员保证，与传统电视和其他流媒体服务相比，广告将会更少。 Prime 会员的价格将保持不变，但每月额外支付 2.99 美元即可获得无广告选项。 Prime 会员将继续享受一系列福利，包括免费送货、独家流媒体内容、访问订阅频道等等。除非会员选择无广告选项，否则无需采取任何行动。]]></description>
+      <guid>https://t.me/hn_summary/65816</guid>
+      <pubDate>Wed, 27 Dec 2023 00:32:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]里哈伊大学的科学家发现沙子状颗粒可以向上流动[...]</title>
-      <link>https://t.me/hn_summary/65758</link>
-      <description><![CDATA[观看沙子因“负摩擦力”而克服重力并向上流动&lt; /a&gt;
-里哈伊大学的科学家发现，当对沙子施加磁扭矩时，沙子颗粒可以向上流动。沙子是一种颗粒状材料，它的行为既像液体又像固体，违背了描述物质不同相的传统方程。研究人员将钕磁铁固定在电动轮上，观察到微型滚轮（涂有氧化铁的聚合物颗粒）开始响应磁扭矩而旋转。这种旋转产生了成对的粒子，它们一起向上流动，研究人员将这种现象称为由负摩擦系数引起的“负休止角”。这一发现可能对控制物质混合和集群微型机器人的潜在应用产生影响。]]></description>
-      <guid>https://t.me/hn_summary/65758</guid>
-      <pubDate>Tue, 26 Dec 2023 17:34:22 GMT</pubDate>
+      <title>[媒体]第二城市分区是一个交互式地图，可让用户轻松了解他们的 [...]</title>
+      <link>https://t.me/hn_summary/65815</link>
+      <description><![CDATA[芝加哥分区的 SimCity 交互式地图
+2nd City Zoning 是一张交互式地图，可让用户轻松了解其建筑物的分区情况、了解其业务的位置以及探索整个芝加哥的分区模式。该地图的灵感来自流行游戏《模拟城市 2000》，采用绿色为住宅区、蓝色为商业区、黄色为工业区的配色方案。该网站还包括图形、声音和音乐，以使体验更加愉快。创作者在制作这张地图时获得了很多乐趣，因此鼓励用户深入探索。]]></description>
+      <guid>https://t.me/hn_summary/65815</guid>
+      <pubDate>Wed, 27 Dec 2023 00:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>该网页内容的作者讨论了可用于构建 [...]</title>
-      <link>https://t.me/hn_summary/65757</link>
-      <description><![CDATA[文本编辑器：数据结构
-此 Web 内容的作者讨论了可用于构建文本编辑器的不同数据结构。由于时间、内存和移动元素的问题，他们首先认为数组的使用是存储和操作文本的最糟糕的方式。然后，他们引入了一种称为绳索的二叉树结构作为更好的选择，但承认它令人困惑且复杂。作者接着解释了gap buffer方法，这种方法更简单，被Emacs等编辑器使用。然而，他们认为最好的选择是计件表方法，他们发现这种方法优雅、简单，而且可能快如闪电。作者计划实现件表方法并再写一篇关于它的文章。]]></description>
-      <guid>https://t.me/hn_summary/65757</guid>
-      <pubDate>Tue, 26 Dec 2023 17:34:13 GMT</pubDate>
+      <title>最近，我有机会与 AudioPen 的创始人 Louis Pereira 和李尔 [...]</title>
+      <link>https://t.me/hn_summary/65814</link>
+      <description><![CDATA[展示 HN：从成功的产品发布中学习
+最近，我有机会与AudioPen的创始人Louis Pereira交谈，了解他成功推出产品的经历。 AudioPen 是一款独特的设备，允许用户实时录制和转录音频笔记。路易斯分享了他对成功发布的见解和策略，包括建立强大社区和利用社交媒体的重要性。他还强调需要进行彻底的市场研究并了解客户的痛点。听到路易斯的旅程以及他一路上面临的挑战真是令人着迷。总的来说，他的故事对于那些想要推出自己产品的有抱负的企业家来说是一个宝贵的资源。]]></description>
+      <guid>https://t.me/hn_summary/65814</guid>
+      <pubDate>Wed, 27 Dec 2023 00:15:20 GMT</pubDate>
     </item>
     <item>
-      <title>Osdev.org 是一个为那些对操作感兴趣的人提供信息和资源的网站 [...]</title>
-      <link>https://t.me/hn_summary/65756</link>
-      <description><![CDATA[Osdev.org
-Osdev.org 是一个为感兴趣的人提供信息和资源的网站在操作系统开发方面。它作为操作系统开发人员的社区，提供 716 篇关于与操作系统创建相关的各种主题的 wiki 文章。该网站还有一个“愿望清单”部分，用户可以在其中贡献并帮助改进内容。这些文章涵盖了广泛的主题，包括基本信息、启动和设置、测试和调试、编译器开发、设计注意事项、硬件、工具和参考信息。对于任何想要了解操作系统开发或为社区做出贡献的人来说，该网站都是宝贵的资源。]]></description>
-      <guid>https://t.me/hn_summary/65756</guid>
-      <pubDate>Tue, 26 Dec 2023 17:33:06 GMT</pubDate>
+      <title>[媒体]本文讨论了鲁莽的 DMCA 删除做法及其负面影响 [...]</title>
+      <link>https://t.me/hn_summary/65813</link>
+      <description><![CDATA[鲁莽的 DMCA 去索引将 NASA 的 Artemis 推向黑洞&lt; br/&gt;
+本文讨论了鲁莽的 DMCA 删除做法及其对无辜内容创作者的负面影响。它强调了一个具体案例，一家名为 DMCA Piracy Prevention Inc. 的公司正在发送删除通知，要求从 Google 搜索中删除不相关内容的索引。该文章提供了已被删除的有关阿耳忒弥斯太空计划的非侵权文章和新闻报道的示例。它还提到了其他被错误瞄准的知名出版物。该文章提出了对 DMCA 滥用缺乏后果的担忧，并强调需要采取更负责任的删除做法。]]></description>
+      <guid>https://t.me/hn_summary/65813</guid>
+      <pubDate>Tue, 26 Dec 2023 23:19:45 GMT</pubDate>
     </item>
     <item>
-      <title>www.gapminder.org 网站上题为“2023 年积极新闻”的网页内容重点介绍了 10 [...]</title>
-      <link>https://t.me/hn_summary/65755</link>
-      <description><![CDATA[2023 年积极消息
-www.gapminder 网站上标题为“2023 年积极新闻”的网页内容.org 重点介绍了 2023 年的 100 个积极故事。作者承认 2023 年发生了许多悲惨事件，但也强调认识到积极事态发展的重要性。内容涵盖各种主题，包括健康、新冠康复、法律、能源转型、妇女权利、生活水平等。一些值得注意的亮点包括新疟疾疫苗的批准、宫颈癌和阿尔茨海默氏病治疗的进展、某些国家消除黑热病和沙眼等疾病以及可再生能源产量的增加。内容旨在为未来提供希望并激发乐观情绪。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65755</guid>
-      <pubDate>Tue, 26 Dec 2023 17:31:57 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者讨论了他们对罗马古代遗址的迷恋以及[...]</title>
+      <link>https://t.me/hn_summary/65812</link>
+      <description><![CDATA[罗马无人拥挤的古代遗址当地人指南
+在这篇文章中，作者讨论了他们对罗马古代遗址的迷恋以及他们寻找鲜为人知的景点以重现历史的愿望。作者提到了 TikTok 上最近的趋势，即男性被问及他们对罗马帝国的看法的频率，突显出人们对罗马帝国时期似乎普遍存在的迷恋。作者曾多次访问罗马，寻求当地专家的指导，以发现展示这座城市丰富历史的隐藏宝石。这篇文章似乎不包含任何有争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/65812</guid>
+      <pubDate>Tue, 26 Dec 2023 23:15:36 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 逐步淘汰 ChatGPT 插件让开发人员感到不安。</title>
-      <link>https://t.me/hn_summary/65754</link>
-      <description><![CDATA[OpenAI 逐步淘汰 GPT 插件激怒了开发人员 
-OpenAI 逐步淘汰 ChatGPT 插件让开发人员感到不安。该公司向插件开发人员发送电子邮件，要求他们将其工作转换为 GPT，这引发了那些更喜欢插件功能的开发人员的强烈反对。 OpenAI 开发者关系主管 Logan Kilpatrick 澄清说，插件尚未消失，但一旦 GPT 商店推出，大多数开发者预计将过渡到 GPT。 OpenAI 决定优先考虑 GPT 而不是插件，可能是出于安全考虑，也是为了让 AI 代理对消费者更加友好。然而，此举可能会疏远 OpenAI 所依赖的开发者社区。这并不是 OpenAI 第一次让开发者感到不安，因为之前 ChatGPT 的更新使许多开发者的产品变得毫无用处。该公司专注于吸引日常用户而不是开发人员，这可能会阻碍其在构建有用的人工智能应用程序方面取得成功。]]></description>
-      <guid>https://t.me/hn_summary/65754</guid>
-      <pubDate>Tue, 26 Dec 2023 17:28:49 GMT</pubDate>
+      <title>[媒体]50年前上映的恐怖电影《驱魔人》继续吸引观众 [...]</title>
+      <link>https://t.me/hn_summary/65811</link>
+      <description><![CDATA[驱魔人 50 岁了
+《驱魔人》是一部 50 年前上映的恐怖电影，仍然吸引着观众并引发争议。这部电影以一名被附身的 12 岁女孩为中心，以其生动的场景和心理恐怖震惊了观众。尽管最初遭到宗教保守派的强烈反对，但这部电影还是取得了巨大成功，全球票房收入超过 4 亿美元，并获得两项奥斯卡奖。 《驱魔人》经久不衰的受欢迎程度可以归因于其强烈而严肃的基调，使其与当时的其他恐怖电影区分开来。这部电影的影响至今仍然存在，影迷和评论家都认识到它的文化意义。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65811</guid>
+      <pubDate>Tue, 26 Dec 2023 23:04:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 哈佛医学院研究人员领导的一项新研究发现，[...]</title>
-      <link>https://t.me/hn_summary/65753</link>
-      <description><![CDATA[私募股权接管医院后护理质量下降 
-哈佛医学院研究人员领导的一项新研究发现，医院被私募股权公司收购后，患者护理质量下降。这项发表在《美国医学会杂志》上的研究分析了私募股权医院超过 60 万例住院治疗以及非私募股权收购的类似医院超过 400 万例住院治疗的保险索赔数据。研究人员发现，私募股权医院的患者更有可能出现可预防的情况或结果，例如跌倒或感染。研究结果引发了人们对私募股权医院将利润置于患者护理和安全之上的担忧。敦促政策制定者和利益相关者提高透明度并实施法规，以保护患者和资源免受私募股权交易的影响。]]></description>
-      <guid>https://t.me/hn_summary/65753</guid>
-      <pubDate>Tue, 26 Dec 2023 17:15:34 GMT</pubDate>
+      <title>[媒体]Amazon Prime Video 将于 1 月 20 日开始在其内容旁边展示广告 [...]</title>
+      <link>https://t.me/hn_summary/65810</link>
+      <description><![CDATA[Amazon Prime Video 从 1 月份开始展示广告，除非您每月支付 2.99 美元额外
+Amazon Prime Video 将从 2024 年 1 月开始在其内容旁边展示广告，除非客户每月支付 2.99 美元的额外费用。这一变化于 9 月份宣布，现已在发给 Prime 会员的电子邮件中得到确认。该电子邮件指出，广告的引入将使亚马逊能够投资于更具吸引力的内容。然而，该公司声称，广告数量将少于传统电视和其他流媒体提供商。客户可以通过支付额外费用来避免广告。亚马逊还提供无广告订阅的预购选项。]]></description>
+      <guid>https://t.me/hn_summary/65810</guid>
+      <pubDate>Tue, 26 Dec 2023 22:55:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
