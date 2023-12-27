@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 27 Dec 2023 08:59:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 11:54:34 GMT</lastBuildDate>
+    <item>
+      <title>题为“CSS 又有趣了”的文章讨论了 CSS 最近的复兴及其不断增长的 [...]</title>
+      <link>https://t.me/hn_summary/65886</link>
+      <description><![CDATA[CSS 又有趣了
+题为“CSS 又有趣了”的文章讨论了 CSS 最近的复兴及其不断增长的功能。它强调了 CSS 的历史，从早期的局限性到添加阴影、边框半径、Flexbox 和网格等新功能的逐步进展。这篇文章提到了 CSS 因脆弱和难以使用而面临的挑战和声誉，但强调了最近新功能的加速发展，这些功能使 CSS 变得更加强大和使用起来更加有趣。它提到了 CSS 嵌套、颜色混合、包含和样式查询的引入，以及转换属性和显示类型方面的其他改进。本文还提到了即将推出的功能，例如相对颜色功能和本机 CSS 范围。作者分享了他们使用这些 CSS 新功能的个人经验，以及它们如何使他们的工作变得更轻松、更愉快。]]></description>
+      <guid>https://t.me/hn_summary/65886</guid>
+      <pubDate>Wed, 27 Dec 2023 11:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]X 前身为 Twitter，因涉嫌未能支付年度费用而面临诉讼 [...]</title>
+      <link>https://t.me/hn_summary/65885</link>
+      <description><![CDATA[X因未向员工支付数百万年度奖金而将告上法庭
+X 前身为 Twitter，因涉嫌未能支付埃隆·马斯克 (Elon Musk) 接管前后向员工承诺的年度奖金而面临诉讼。该诉讼由该公司前薪酬主管 Mark Schobinger 提起，声称 X 没有兑现口头承诺，如果员工在马斯克接管期间留在公司，就向他们支付部分年度奖金。所欠总金额估计超过 500 万美元，该诉讼代表了数千名现任和前任员工。 X的律师辩称，根据德克萨斯州法律，口头合同不可强制执行，但法官裁定此案将受加利福尼亚州法律管辖，并允许诉讼继续进行。这又增加了 X 不断增加的法律麻烦，包括拖欠租金和其他服务，以及下岗或辞职员工提起的不成功的诉讼。]]></description>
+      <guid>https://t.me/hn_summary/65885</guid>
+      <pubDate>Wed, 27 Dec 2023 11:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问 HN：我应该对 ADHD 进行药物治疗吗？</title>
+      <link>https://t.me/hn_summary/65884</link>
+      <description><![CDATA[询问 HN：我应该治疗 ADHD 吗？&lt; br/&gt;
+news.ycombinator.com 上这篇文章的作者是寻求关于是否应该治疗多动症的建议。他们提到，他们从小就被诊断出患有多动症，但从未服用过药物治疗。他们将注意力缺陷多动症视为一种超能力，因为它使他们能够高度集中注意力并提高工作效率。然而，他们现在质疑自己是否工作过度，以及药物治疗是否有益。他们很想听听其他多动症患者的意见，他们可能对这个问题有见解。]]></description>
+      <guid>https://t.me/hn_summary/65884</guid>
+      <pubDate>Wed, 27 Dec 2023 11:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]DeskHop项目旨在解决多台计算机之间的切换问题[...]</title>
+      <link>https://t.me/hn_summary/65883</link>
+      <description><![CDATA[Hrvach/Deskhop：快速桌面切换设备
+DeskHop项目旨在解决使用单个键盘和鼠标在多台计算机之间切换的问题。作者发现现有的USB切换盒使用起来很慢且笨拙，因此他们开发了这个项目以提供更快、更无缝的切换体验。该项目允许用户使用键盘快捷键或在显示器之间拖动鼠标指针在计算机之间切换。它支持不同的操作系统，并提供诸如切换时无明显延迟以及输出之间完全电流隔离等功能。该项目是开源的、经济实惠的，并提供了使用 Raspberry Pi Pico 板构建设备的说明。作者还提到，本项目不对任何伤害或损害承担责任，并鼓励用户谨慎接触本项目。]]></description>
+      <guid>https://t.me/hn_summary/65883</guid>
+      <pubDate>Wed, 27 Dec 2023 10:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Streaming.media.ccc.de 上的 37c3 直播目前正在进行演示 [...]</title>
+      <link>https://t.me/hn_summary/65882</link>
+      <description><![CDATA[37c3 直播
+streaming.media.ccc.de 目前正在进行一场有关硅上布局和布线的演示，该演示于 11:00 开始。下一场演讲将于 12:00 开始，重点关注开放式 CPU/SoC 设计，一直到 Debian。这些直播提供了了解尖端技术和设计流程的机会。]]></description>
+      <guid>https://t.me/hn_summary/65882</guid>
+      <pubDate>Wed, 27 Dec 2023 10:17:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在本文中，作者反思了他们作为 Web 开发人员的进步以及成长 [...]</title>
+      <link>https://t.me/hn_summary/65881</link>
+      <description><![CDATA[2023：专注于单一产品会带来回报&lt; br/&gt;
+在本文中，作者回顾了他们作为 Web 开发人员的进步以及他们的业务 ROZENMD 的发展。他们讨论了专注于单一产品 OnlineOrNot 如何获得回报并带来意想不到的增长。作者对创办互联网企业时进行多次“小赌注”的流行趋势提出了挑战，认为加倍努力比多元化更有效。他们还分享了他们在 Cloudflare 的全职工作和硬件项目的经验。文章最后提到了围绕作者关于打造廉价笔记本电脑的文章的争议，这引起了一些读者的愤怒。]]></description>
+      <guid>https://t.me/hn_summary/65881</guid>
+      <pubDate>Wed, 27 Dec 2023 10:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]莎莉·斯诺曼 (Sally Snowman)，美国仅存的官方灯塔守护者，[...]</title>
+      <link>https://t.me/hn_summary/65880</link>
+      <description><![CDATA[灯塔守护者挂起帽子
+莎莉·斯诺曼 (Sally Snowman) 是美国仅存的官方灯塔看守人，她在马萨诸塞州小布鲁斯特岛已有 307 年历史的波士顿灯塔工作了 20 年后即将退休。斯诺曼一直负责维护灯塔、提供游览服务并保存其历史。由于建筑物老化和缺乏饮用水，她每周乘船两次前往该岛。雪人与在岛上筑巢的海鸥建立了密切的联系，并为死去的海鸥进行海葬。退休后，她计划进行演讲、从事其他工作，并将历史灯塔文件移交给海岸警卫队。海岸警卫队将继续维护波士顿之光号，直到找到新的管理员。]]></description>
+      <guid>https://t.me/hn_summary/65880</guid>
+      <pubDate>Wed, 27 Dec 2023 09:58:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>绘图提示是一个革命性的工具，它利用人工智能的力量来生成独特的和我[...]</title>
+      <link>https://t.me/hn_summary/65879</link>
+      <description><![CDATA[展示 HN：AI 增强绘图提示生成器
+绘图提示是一款革命性的工具，它利用人工智能的力量来生成独特且鼓舞人心的绘图提示。无论您是经验丰富的艺术家还是初学者，此工具都将帮助您释放创造力，并将您的绘画提升到一个新的水平。只需点击几下，您就可以轻松生成各种提示，让您探索不同的主题、风格和主题。最好的部分？您不需要任何艺术或编码技能即可使用此工具。对于各个级别的艺术家来说，这都是游戏规则的改变者。尝试一下，看看你的想象力会带你去哪里！]]></description>
+      <guid>https://t.me/hn_summary/65879</guid>
+      <pubDate>Wed, 27 Dec 2023 09:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]中国间谍机构出人意料地承担起监视和代表的新角色 [...]</title>
+      <link>https://t.me/hn_summary/65878</link>
+      <description><![CDATA[分析：中国间谍机构正在监视末日预言者&lt; br/&gt;
+令人惊讶的是，中国间谍机构承担了一项新职责，即监视和报告对中国经济持悲观观点的个人。该机构被称为国家安全部，其任务是识别和追踪可能对中国政府稳定构成威胁的“末日预言者”。这一事态发展凸显了经济稳定对中国领导层日益重要的重要性以及他们保持对舆论控制的决心。此举引发了争议，批评者认为此举侵犯了言论自由，并引发了人们对中国监控水平的担忧。]]></description>
+      <guid>https://t.me/hn_summary/65878</guid>
+      <pubDate>Wed, 27 Dec 2023 09:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] Wayland 真的会打破一切吗？</title>
       <link>https://t.me/hn_summary/65877</link>
@@ -12,78 +84,6 @@
 文章讨论了围绕 Wayland 及其与 X11 兼容性的争议。作者提到了 AppImage 核心开发人员 Probonopd 编写的一份文档，批评 Wayland 没有成为 X11 的直接替代品。作者认为，Wayland 的设计目的并不是直接替代，从一种过渡到另一种时，需要调整预期。文章还强调了 X11 作为开发平台的缺点以及 Qt 和 GTK 等 UI 工具包的兴起。作者认为Portals、PipeWire和Wayland协议的新兴平台提供了更好的跨桌面互操作性。向 Wayland 的过渡正在加速，但在所有必要的部分到位之前可能会经历一段尴尬的时期。]]></description>
       <guid>https://t.me/hn_summary/65877</guid>
       <pubDate>Wed, 27 Dec 2023 08:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Voxweave 是一款革命性工具，可解决转录和摘要的挑战 [...]</title>
-      <link>https://t.me/hn_summary/65876</link>
-      <description><![CDATA[显示 HN：我已经构建了一个总结 3 小时的工具YouTube 视频
-Voxweave 是一款革命性工具，可解决转录和总结冗长 YouTube 视频的挑战。凭借其用户友好的平台，Voxweave 将手动转录过程转变为无缝且省时的体验。用户现在可以按照自己的节奏阅读内容，将他们从聆听的束缚中解放出来。该工具还允许用户深入研究 YouTube 视频的知识库，捕捉有价值的见解并与他人分享。此外，Voxweave 使用户能够理解、翻译并与全球受众建立联系，从而打破了语言障碍。凭借其易于使用的字幕功能，用户可以增强视频的可访问性和参与度。免费注册并开始使用 Voxweave 创建您自己的摘要。]]></description>
-      <guid>https://t.me/hn_summary/65876</guid>
-      <pubDate>Wed, 27 Dec 2023 08:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Fontimize 是一个 Python 库和命令行应用程序，可优化字体并对其进行子集化 [...]</title>
-      <link>https://t.me/hn_summary/65875</link>
-      <description><![CDATA[显示 HN：Fontimize，将字体子集精确到您网站使用的字符&lt; /a&gt;
-Fontimize 是一个 Python 库和命令行应用程序，可优化网站字体并对其进行子集化。作者重视技术极简主义，希望通过减小字体文件大小来提高网站的性能。他们发现了字体子集的概念，其中字体文件仅包含特定网站上使用的字符。由于找不到可以生成字体子集的现有 Python 库，作者决定自己创建一个。 Fontimize 分析 HTML 和 CSS 文件，识别所使用的字符，并生成仅包含这些字符的新字体文件。该库提供了灵活的 API 和用于定制的文档。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65875</guid>
-      <pubDate>Wed, 27 Dec 2023 08:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>此网页内容的作者分享了他们远程控制 HP 1670G 逻辑的经验 [...]</title>
-      <link>https://t.me/hn_summary/65874</link>
-      <description><![CDATA[使用 Linux PC X 服务器远程控制 HP 1670G 逻辑分析仪&lt; /a&gt;
-该网页内容的作者分享了他们使用 Linux PC X 服务器远程控制 HP 1670G 逻辑分析仪的经验。他们解释说，逻辑分析仪是一种相对较旧的模型，运行在自定义操作系统上，可以通过外部 X Window 服务器进行操作。作者提供了如何设置远程连接的分步说明，包括为逻辑分析仪保留固定IP地址、查找带有X服务器的机器的IP地址、登录路由器、填写LAN设置，并在逻辑分析仪上配置 X 窗口设置。他们还强调了安装 HP 逻辑分析仪字体文件以确保正常运行的重要性。作者承认他们的解决方案可能并不适合所有人，并建议在必要时进行故障排除。]]></description>
-      <guid>https://t.me/hn_summary/65874</guid>
-      <pubDate>Wed, 27 Dec 2023 08:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]这篇文章讲述了丹尼尔·达特 (Daniel Dart) 的非凡故事，他是一名前科犯，后来从监狱 [...]</title>
-      <link>https://t.me/hn_summary/65873</link>
-      <description><![CDATA[一个人从监狱和帮派到高级金融的狂野之旅
-这篇文章讲述了丹尼尔·达特 (Daniel Dart) 的非凡故事，他曾是一名前科犯，后来从监狱和黑帮走向了金融界。尽管过去的经历充满坎坷，达特还是在伦敦经济学院获得了两个硕士学位，目前正在麻省理工学院斯隆管理学院攻读 MBA 学位。他还成立了一家由知名投资者支持的风险投资基金，并接受了金融巨头的建议。达特的旅程既令人惊讶又独特，因为他从未获得过高中文凭或学士学位。这篇文章强调了达特克服困难的韧性和决心。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65873</guid>
-      <pubDate>Wed, 27 Dec 2023 08:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：您向哪个社区询问开发问题？</title>
-      <link>https://t.me/hn_summary/65872</link>
-      <description><![CDATA[询问 HN：您向哪个社区询问开发问题？
-这篇文章的作者分享了他们对 Stack Overflow 的不满，因为他们最近的问题由于基于意见而被关闭。他们认为，以他们目前的知识水平，发展中的大多数事情都是主观的，而不是事实。因此，他们正在寻找替代论坛或平台，在那里他们可以提出有关开发、架构和编码的问题，并接受其他开发人员的建议。作者提到，除非拥有大量关注者，否则 Twitter 可能并不理想，并且他们还对 Hacker News (HN) 更专注于新闻而不是建议表示怀疑。]]></description>
-      <guid>https://t.me/hn_summary/65872</guid>
-      <pubDate>Wed, 27 Dec 2023 08:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]“C++ 初学者图形库”是一个实现 Python turt [...]</title>
-      <link>https://t.me/hn_summary/65871</link>
-      <description><![CDATA[面向 C++ 初学者的图形库
-“C++初学者图形库”是一个使用SDL2在C++中实现Python海龟库的库。该库的目的是让所有编程技能水平的人都可以创建具有视觉吸引力的图形。它对于想要学习 C++ 语法和面向对象编程的初学者特别有用。该库附带了很棒的文档，并提供了演示如何使用最少的代码创建复杂图形的示例。它只有一个依赖项 SDL2，可以轻松安装在 Linux 和 Windows 上。作者鼓励贡献并提供为该项目做出贡献的指南。该库已根据 MIT 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/65871</guid>
-      <pubDate>Wed, 27 Dec 2023 08:19:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]中国核动力集装箱船：侥幸还是航运的未来？</title>
-      <link>https://t.me/hn_summary/65870</link>
-      <description><![CDATA[中国核动力集装箱船：侥幸还是航运的未来？ 
-中国船舶工业集团公司（CSSC）在中国海事会展上揭晓了全球最大集装箱船KUN-24AP集装箱船。这艘船的与众不同之处在于它的动力源：使用钍燃料循环的熔盐反应堆。该反应堆提供推动船舶所需的电力，消除有害排放，并允许更快的航行。挪威船级社DNV已对中船江南造船船厂给予认可，预示该型船舶或将很快下水。尽管航运业目前陷入困境，但这艘核动力集装箱船可能会改变游戏规则。文章还讨论了核海洋推进的优势和挑战。]]></description>
-      <guid>https://t.me/hn_summary/65870</guid>
-      <pubDate>Wed, 27 Dec 2023 08:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Captitles 是一款备受赞誉的技术剧场工具，它彻底改变了 [...]</title>
-      <link>https://t.me/hn_summary/65869</link>
-      <description><![CDATA[技术剧场的工具和应用
-Captitles 是一款备受赞誉的技术戏剧工具，它彻底改变了字幕制作过程。它受到了世界各地戏剧专业人士的好评，他们称赞其专业性、准确性和用户友好的界面。人工智能驱动的脚本转换功能尤其令人印象深刻，为舞台经理节省了无数时间。该工具也是多功能的，可以为照明设计师无缝同步灯光和字幕。总的来说，Captitles 是任何想要增强字幕和包容性的剧院的必备工具。]]></description>
-      <guid>https://t.me/hn_summary/65869</guid>
-      <pubDate>Wed, 27 Dec 2023 07:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]文章讨论了敌对政府抢夺美国公民身份的惊人趋势[...]</title>
-      <link>https://t.me/hn_summary/65868</link>
-      <description><![CDATA[抢夺美国公民：敌对政府的新工具&lt; br/&gt;
-文章讨论了敌对政府抢夺美国公民作为恐吓和谈判工具的令人震惊的趋势。特朗普政府用美国人质照片制作棒球风格的卡片并转交给拜登政府的做法凸显了这个问题。这种古老的做法已成为 21 世纪的重大挑战，对海外美国公民的安全构成威胁。文章没有提及任何争议或令人惊讶的内容。]]></description>
-      <guid>https://t.me/hn_summary/65868</guid>
-      <pubDate>Wed, 27 Dec 2023 07:54:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
