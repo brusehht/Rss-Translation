@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Dec 2023 03:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 06:13:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]这篇文章讨论了流行棋盘游戏《大富翁》的起源及其令人惊讶的事情 [...]</title>
-      <link>https://t.me/hn_summary/66026</link>
-      <description><![CDATA[房东的游戏：莉齐·玛吉和大富翁的反资本主义起源（1903 )
-文章讨论了流行棋盘游戏大富翁的起源及其令人惊讶的反资本主义根源。作者透露，这款游戏实际上是由一位名叫伊丽莎白·玛吉（Elizabeth Magie）（也称为 Lizzie）的女士发明的，她于 1903 年为其申请了专利。随后，这款游戏通过包括大学生和教授在内的各种个人流传下来，直到最终传到了全世界。查尔斯·达罗（Charles Darrow）经常被认为是该游戏的发明者。争议在于，达罗声称自己对游戏负责，而忽略了玛吉的贡献。这篇文章揭示了《大富翁》的真正起源，并强调了其原始发明者被忽视的角色。]]></description>
-      <guid>https://t.me/hn_summary/66026</guid>
-      <pubDate>Thu, 28 Dec 2023 03:12:41 GMT</pubDate>
+      <title>[媒体]悉尼大学研究人员在光子领域取得重大突破[...]</title>
+      <link>https://t.me/hn_summary/66044</link>
+      <description><![CDATA[新型光子芯片是完整封装
+悉尼大学的研究人员通过将光子滤波器和调制器结合在单个芯片上，在光子芯片技术方面取得了重大突破。这一进步使得光子芯片有望取代光纤网络中体积更大、更复杂的电子射频芯片。该团队利用受激布里渊散射（一种在某些绝缘体中将电场转换为压力波的技术）来实现高分辨率滤波。该实验芯片的光谱分辨率为 37 兆赫兹，带宽比以前的芯片更宽。纳米光子学研究员 David Marpaung 表示，调制器与有源波导的集成是关键突破。这场竞赛的获胜者将能够进入需要可靠无线电接收器的电信提供商和国防制造商的庞大市场。然而，仍有一些挑战需要克服，例如可扩展性和声学性能。其他研究小组也在探索不同的材料和方法以取得类似的结果。]]></description>
+      <guid>https://t.me/hn_summary/66044</guid>
+      <pubDate>Thu, 28 Dec 2023 06:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>作者为巷战计算机科学家提供了一份独特且非传统的书单。</title>
-      <link>https://t.me/hn_summary/66025</link>
-      <description><![CDATA[街头打架计算机科学家的书籍清单
-作者为巷战计算机科学家提供了一份独特且非传统的书单。他们强调，这个列表与典型的编程书籍推荐不同，包括“实用自慰者的渴望自慰”和“设计懒人”等标题。作者建议，阅读这些书是为了获得“用刀砍混蛋”的知识和技能。该列表包括各种编程和计算机科学主题，例如算法、网络、操作系统、计算机体系结构等。作者还提到了数学的重要性，特别是组合数学、概率与统计以及线性代数。他们表达了对机器学习和信息安全的厌恶，并且没有提供这些书籍的链接。作者最后向团队和家庭推荐“用 Notcurses 黑客地球”。]]></description>
-      <guid>https://t.me/hn_summary/66025</guid>
-      <pubDate>Thu, 28 Dec 2023 03:01:31 GMT</pubDate>
+      <title>[媒体]文章讨论了日本传统的“初梦”，这是第一个梦想[...]</title>
+      <link>https://t.me/hn_summary/66043</link>
+      <description><![CDATA[一富士、二高、三那比
+文章讨论了日本的“初梦”传统，这是新年的第一个梦想。人们相信，这个梦的内容可以预示做梦者这一年的运气。梦见富士山、鹰和茄子被认为是特别幸运的。这种信念的起源尚不清楚，但一种理论认为，这是因为富士山是日本最高的山，鹰是一种聪明而强壮的鸟，而茄子这个词意味着取得了伟大的成就。文章还提到了该清单的延续，其中包括风扇、烟草和盲人针压器，但这些物品的起源鲜为人知。]]></description>
+      <guid>https://t.me/hn_summary/66043</guid>
+      <pubDate>Thu, 28 Dec 2023 05:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenAI Cookbooks 网站提供了全面的资源和教程 [...]</title>
-      <link>https://t.me/hn_summary/66024</link>
-      <description><![CDATA[OpenAI 食谱
-OpenAI Cookbooks 网站为使用 OpenAI 各种 API 和模型的开发人员和研究人员提供了全面的资源和教程。内容涵盖广泛的主题，包括创建幻灯片、语义搜索、微调模型、问答以及使用不同的数据库进行嵌入。该网站提供分步说明和示例，帮助用户有效地理解和实施这些技术。它还重点介绍了 MongoDB Atlas、Azure、Redis 和 Weights &amp; Biases 等流行工具和平台的使用。内容按日期组织，最新更新列在顶部。]]></description>
-      <guid>https://t.me/hn_summary/66024</guid>
-      <pubDate>Thu, 28 Dec 2023 02:43:16 GMT</pubDate>
+      <title>开路</title>
+      <link>https://t.me/hn_summary/66042</link>
+      <description><![CDATA[开路
+《开路》是一本视觉上引人入胜的书，深入探讨了电子元件的内部工作原理。作者 Windell Oskay 和 Eric Sc​​hlaepfer 通过令人惊叹的横截面摄影，揭示了日常电子产品隐藏的美丽、优雅和复杂性。这本书由 No Starch Press 出版，为读者提供了看待技术世界的独特视角。 《开放电路》于 2022 年 9 月发行，提供精装本和电子书两种格式。对于感兴趣的人，可以从 No Starch Press 网站下载示例章节和完整目录。]]></description>
+      <guid>https://t.me/hn_summary/66042</guid>
+      <pubDate>Thu, 28 Dec 2023 05:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]瑞典初创公司 Modvion 建造了世界上最高的木制风力涡轮机塔，斯坦 [...]</title>
-      <link>https://t.me/hn_summary/66023</link>
-      <description><![CDATA[最高的木制风力涡轮机开始转动
-瑞典初创公司 Modvion 建造了世界上最高的木制风力涡轮机塔，高 150 m（492 英尺）。该塔由单板层积材 (LVL) 制成，并用胶水固定在一起，是传统钢塔的更轻的替代品。木材的使用消除了涡轮机的碳足迹，因为树木在活着时吸收二氧化碳并将其储存在木材中。 Modvion 希望未来建造更高的木质涡轮机，目标是到 2027 年每年生产 100 台木质模块化涡轮机。该公司的投资者包括可再生能源巨头维斯塔斯。]]></description>
-      <guid>https://t.me/hn_summary/66023</guid>
-      <pubDate>Thu, 28 Dec 2023 02:24:01 GMT</pubDate>
+      <title>[媒体]中国电动汽车制造商ZEEKR正式推出007轿车，该车获得了...</title>
+      <link>https://t.me/hn_summary/66041</link>
+      <description><![CDATA[Zeekr 推出 007 轿车，售价不到 3 万美元，续航里程超过 540 英里5万预订量
+中国电动汽车制造商ZEEKR正式推出007轿车，该车在中国已收到超过5万辆预订单。这款轿车的售价低于 30,000 美元，是 ZEEKR 的首款大众市场电动汽车，采用集成式大型铸造后端铝制车身、内部开发的音频系统和先进的驾驶员辅助系统。它还配备ZEEKR新型磷酸铁锂电芯和电池组，直流快充15分钟即可补充续航500公里。 007 轿车一次充电的续航里程为 688 公里，长续航版本有望达到 870 公里。中国将于 2024 年 1 月 1 日开始发货。]]></description>
+      <guid>https://t.me/hn_summary/66041</guid>
+      <pubDate>Thu, 28 Dec 2023 05:37:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] pkgconf 项目是一个程序和库，可帮助配置编译器和链接器 [...]</title>
-      <link>https://t.me/hn_summary/66022</link>
-      <description><![CDATA[pkgconf – 包编译器和链接器元数据工具包
-pkgconf 项目是一个程序和库，可帮助配置开发库的编译器和链接器标志。它类似于 freedesktop.org 中的 pkg-config。该项目旨在提供一种更有效、更准确的方法来解决依赖关系并优化链接器标志。它还实现了对 Provides 规则的支持，而 pkg-config 则没有。该项目强调与 pkg-config 的兼容性，但不提供 bug 级别的兼容性。自述文件提供了在 UNIX 和 Windows 上分别使用 autotools 和 Meson 编译 pkgconf 和 libpkgconf 的说明。它还提到了发布 tarball 的可用性，并提供了错误报告和沟通的联系信息。]]></description>
-      <guid>https://t.me/hn_summary/66022</guid>
-      <pubDate>Thu, 28 Dec 2023 02:05:49 GMT</pubDate>
+      <title>[媒体]中国GPU制造商Moore Threads宣布推出最新显卡MTT [...]</title>
+      <link>https://t.me/hn_summary/66040</link>
+      <description><![CDATA[Moore Threads S4000 AI GPU
+中国GPU制造商Moore Threads发布了其最新显卡MTT S4000，专为人工智能和数据中心计算工作负载而设计。旗舰 GPU 将出现在 KUAE 智能计算中心，该中心将容纳 1,000 个 S4000 GPU 的集群。 Moore Threads已与包括联想在内的其他中国公司合作，建立其硬件和软件生态系统。 S4000 比前代产品有了显着改进，具有更高的性能、更多的 VRAM 和改进的架构。虽然 S4000 可能无法与 Nvidia 的最新产品竞争，但它非常适合人工智能和大型语言模型工作负载。智能计算与大模型生态联盟的成立，进一步支持了摩尔线程在中国市场的努力，因为美国的制裁限制了强大GPU的出口。]]></description>
+      <guid>https://t.me/hn_summary/66040</guid>
+      <pubDate>Thu, 28 Dec 2023 05:32:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] SageBrush 是一款 AI 绘画工具，可让用户将草图转换为 [...]</title>
-      <link>https://t.me/hn_summary/66021</link>
-      <description><![CDATA[SageBrush：AI Painter – 使用 AI 进行创作的最简单方法
-SageBrush 是一款 AI 绘画工具，允许用户将草图转换为令人惊叹的 AI 图像。它提供了一个简单直观的界面，适合各种技能水平的用户使用。提示编辑器是一项独特的功能，它允许用户通过主题和风格细节来指导人工智能，从而使他们能够控制构图。该应用程序支持左手和右手绘图模式，并且可以使用 Apple Pencil 甚至仅用手指使用。用户还可以使用随机功能改变人工智能对其绘图的解释。但需要注意的是，该应用需要在应用内购买代币才能使用。]]></description>
-      <guid>https://t.me/hn_summary/66021</guid>
-      <pubDate>Thu, 28 Dec 2023 02:05:43 GMT</pubDate>
+      <title>Clash 是一种基于 Haskell 的功能性硬件描述语言。</title>
+      <link>https://t.me/hn_summary/66039</link>
+      <description><![CDATA[Clash：一种功能性硬件描述语言
+Clash 是一种基于 Haskell 的功能性硬件描述语言。它允许使用熟悉的结构方法设计组合和同步时序电路。 Clash 编译器可以将这些高级描述转换为低级可综合语言，例如 VHDL、Verilog 或 SystemVerilog。 Clash 是一个由 QBayLogic 维护的开源项目，并根据宽松的 BSD2 许可证获得许可。它提供的功能包括强类型、用于测试组件的交互式 REPL 以及对 VHDL、Verilog 或 SystemVerilog 的低级访问。 Clash 将 Haskell 的抽象和原则性程序设计引入 FPGA 开发，使其成为开发人员的热门选择。该语言还支持逆计算项目，允许实现各种设备，例如袖珍计算器、Pong 和 Intel 8080 CPU。冲突代码的示例包括 FIR 滤波器和矩阵乘法算法。 Clash 拥有活跃的社区，并通过邮件列表、问题跟踪器、Slack 和 IRC 渠道提供支持。]]></description>
+      <guid>https://t.me/hn_summary/66039</guid>
+      <pubDate>Thu, 28 Dec 2023 05:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]转发电子邮件是一种开源、量子安全的加密电子邮件服务，优先考虑 [...]</title>
-      <link>https://t.me/hn_summary/66020</link>
-      <description><![CDATA[显示 HN：转发电子邮件 – 开源量子安全加密电子邮件服务
-Forward Email 是一种开源、量子安全的加密电子邮件服务，优先考虑用户隐私和安全。该服务确保邮箱只能由用户访问，并且不会存储在共享数据库中。该服务的独特之处在于，它在连接时在内存中运行，这意味着服务提供商无法访问静态用户的邮箱。用户可以通过在其帐户设置中启用 IMAP 存储来轻松开始使用。该服务与流行的电子邮件客户端兼容，并使用静态加密、传输中加密和行业标准安全程序。它也是100%开源的，允许用户随时下载、查看、导出、备份和删除他们的邮箱。可以通过购买额外的存储来扩大存储限制，用户甚至可以自带存储提供商进行备份。总体而言，转发电子邮件提供了一种安全且注重隐私的电子邮件解决方案，使用户可以拥有自己的数据，而无需操作和维护自己的电子邮件服务器。]]></description>
-      <guid>https://t.me/hn_summary/66020</guid>
-      <pubDate>Thu, 28 Dec 2023 02:04:36 GMT</pubDate>
+      <title>[媒体]《纽约时报》对 OpenAI 和微软提起诉讼，指控其版权 [...]</title>
+      <link>https://t.me/hn_summary/66038</link>
+      <description><![CDATA[《纽约时报》版权诉讼要求 OpenAI 删除所有 GPT 实例
+《纽约时报》已对 OpenAI 和微软提起诉讼，指控侵犯版权和其他违法行为。该诉讼称，OpenAI 支持的软件破坏了《纽约时报》的付费墙，并可以生成模仿《纽约时报》风格的内容。它还声称该软件可以产生虚假信息并损害《纽约时报》的声誉。该诉讼寻求删除所有使用《纽约时报》材料训练的 GPT 实例、销毁用于训练的数据集以及金钱赔偿。该诉讼凸显了围绕人工智能培训中使用受版权保护材料的持续争论以及对新闻和知识产权的潜在后果。]]></description>
+      <guid>https://t.me/hn_summary/66038</guid>
+      <pubDate>Thu, 28 Dec 2023 05:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了一个假设场景，其中两辆相同的汽车以不同的速度行驶 [...]</title>
-      <link>https://t.me/hn_summary/66019</link>
-      <description><![CDATA[七十对一百
-本文讨论了一个假设场景，两辆相同的汽车以不同的速度行驶，并且由于道路上的障碍物需要突然停车。提出的问题是更快的汽车以什么速度撞上障碍物。作者承认，影响因素有很多，不可能给出准确的答案。然而，他们做出了一些合理的假设，得出的结论是，速度更快的汽车在发生碰撞时仍然剩余大约一半的能量，从而造成重大影响。文章最后询问读者对此事的看法。]]></description>
-      <guid>https://t.me/hn_summary/66019</guid>
-      <pubDate>Thu, 28 Dec 2023 02:01:27 GMT</pubDate>
+      <title>[媒体] 文章讨论了备受争议的机场安检旁路服务 CLEAR。</title>
+      <link>https://t.me/hn_summary/66037</link>
+      <description><![CDATA[重要人士注意到机场的晴朗情况有多糟糕 
+本文讨论了备受争议的机场安全旁路服务 CLEAR。 CLEAR 通过生物识别扫描提供增强的身份验证，让其订阅者可以在美国 50 多个机场跳过安检队伍。然而，批评者认为，CLEAR 本质上是向强制性政府服务出售插队特权。该公司过去曾面临安全漏洞，导致审查力度加大，并要求 CLEAR 成员向 TSA 工作人员出示身份证件。尽管如此，CLEAR 现在正在推出名为 Next Gen Identity+ 的新系统，该系统使用面部识别进行身份验证。批评者质疑为何允许营利实体把关机场安全检查，并主张为所有乘客提供更平等、更高效的旅行体验。]]></description>
+      <guid>https://t.me/hn_summary/66037</guid>
+      <pubDate>Thu, 28 Dec 2023 05:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容的作者强调了软件中文档的重要性 [...]</title>
-      <link>https://t.me/hn_summary/66018</link>
-      <description><![CDATA[文档值得更多尊重
-该网页内容的作者强调了文档在软件行业中的重要性。他们分享了为各种项目创建文档的个人经验，以及他们对文档的看法如何随着时间的推移而演变。作者提供了一些创建优秀文档的核心概念，例如使用简单的语言、讲故事、确保可搜索性以及与真实用户一起测试文档。他们还强调需要考虑用户的多样化需求的整体文档。作者最后强调，良好的文档对于产品的成功至关重要，应该被视为整体产品策略的一个组成部分。]]></description>
-      <guid>https://t.me/hn_summary/66018</guid>
-      <pubDate>Thu, 28 Dec 2023 01:40:09 GMT</pubDate>
+      <title>[媒体]文章讨论了美国的人口变化及其如何影响[...]</title>
+      <link>https://t.me/hn_summary/66036</link>
+      <description><![CDATA[蓝州不建设
+本文讨论了美国的人口变化及其如何影响政治格局。它强调，通常倾向于民主党的蓝州正在失去众议院席位，而倾向于共和党的红州则正在获得席位。造成这种情况的主要原因是移民，美国人从蓝州迁移到红州。作者认为，这种移民的主要驱动力是住房成本，而不是税收或社会政策。加利福尼亚州和纽约州等蓝色州由于存在高收入产业集群，住房成本较高，导致中低收入人群的住房成本较高。作者建议蓝色州应该建造更多住房来解决这个问题。文章还提到，蓝州未能建设可再生能源基础设施和新工厂，而这对红州有利。作者最后指出，如果蓝州想要在 21 世纪蓬勃发展，他们需要优先考虑建设。]]></description>
+      <guid>https://t.me/hn_summary/66036</guid>
+      <pubDate>Thu, 28 Dec 2023 04:38:36 GMT</pubDate>
     </item>
     <item>
-      <title>news.ycombinator.com 上这篇文章的作者正在为两位拥有 40 年历史的 IBM 主力寻求问题 [...]</title>
-      <link>https://t.me/hn_summary/66017</link>
-      <description><![CDATA[问 HN：两位 40 年 IBM 大型机维修和程序员的问题&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者是向两位 40 年 IBM 大型机维修工和程序员寻求问题，他们正在拜访他的祖父。其中一人是 IBM 的维修工，为各种型号的计算机提供服务，而另一人是固特异工厂的程序员，后来又在人寿保险公司工作。这篇文章提到了一些有趣的轶事，例如雷达干扰和固特异工厂烟雾引起的调试问题。作者邀请读者向两位专业人士提问，并承诺记录对话并在评论中提供答案。]]></description>
-      <guid>https://t.me/hn_summary/66017</guid>
-      <pubDate>Thu, 28 Dec 2023 01:20:58 GMT</pubDate>
+      <title>[媒体] Little File Explorer 是一款适用于 Android 设备的小型开源文件管理器。</title>
+      <link>https://t.me/hn_summary/66035</link>
+      <description><![CDATA[小型文件资源管理器 – 适用于 Android 1.0 及更高版本的 ~40KB 文件管理器&lt; /a&gt;
+Little File Explorer 是一款适用于 Android 设备的小型开源文件管理器。它设计兼容Android 1.0及以上版本，大小小于40 KB。该项目旨在提供复制、粘贴、重命名和删除文件等基本文件操作，以及文件名过滤、按名称和修改时间排序、多重共享功能以及 md5 校验和生成和验证等功能。作者强调，该项目是公开可见的，旨在解决人们对被锁定或侵犯隐私的担忧。该项目因其规模小、权限最低以及使用 Future 进行并发管理而与众不同。]]></description>
+      <guid>https://t.me/hn_summary/66035</guid>
+      <pubDate>Thu, 28 Dec 2023 04:32:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
