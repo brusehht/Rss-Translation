@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Dec 2023 18:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 21:11:20 GMT</lastBuildDate>
+    <item>
+      <title>Osiris：使用自然语言与您的计算机和/或外部系统（机器人、物联网设备等）提供双向语音和视频通信。</title>
+      <link>https://www.reddit.com/r/opensource/comments/18t1xw1/osiris_provides_twoway_voice_and_video/</link>
+      <description><![CDATA[https://github.com/ChatClue/osiris 目前已在 Ubuntu (Debian) 22 上测试和运行以供参考。 这是一个 Python 应用程序，当前执行以下操作：  处理自然的双向语音通信。  唤醒词在config.py中配置以激活系统。 您可以在一段时间内不重复唤醒词而继续对话。 计算机的声音输出基于适配器，可以使用任何 TTS（文本转语音）系统。 预构建的适配器包括：pyttsx3 和 Google Cloud 的文本转语音。  自然语言处理由 OpenAI 模型处理。我们目前正在努力将其转变为适配器，以便可以使用任何 NL 处理器。 对话会自动存储在 PostgreSQL 数据库中，并具有关联的嵌入。它们在消息数组中传递以维护对话上下文。 系统通过 python 装饰器 openai_function 自动摄取函数（工具）以促进扩展功能。  当前的内置工具提供 视频分析（作为主应用程序的一部分）和 自然语言机器人控制（作为示例/中的示例的一部分）目录）。  在正常对话过程中，函数会自动传递到 openai（在适当的情况下），并且自动处理工具响应。   视频处理和自动分析 为您的计算机（或机器人）提供视觉，并允许您自然地与您的计算机/机器人对话，询问它所看到的内容（有多少根手指）我坚持住，现场有多少人，等等）。  语义视觉处理通过图像分析适配器进行处理，因此任何视频分析模型都可用于根据用户的查询提供场景描述。 预构建的适配器当前包括： Google Cloud 的 Vertex AI API 和 OpenAI 的 -vision 模型（目前处于预览阶段，可能不适用于所有用户）。   自动广播到外部系统。  如果您的对话需要在现实世界中采取行动（让机器人或物联网设备采取行动），系统有一个内置的基于适配器的广播系统，允许通过网络广播系统意图。  预构建的适配器提供 Websocket 支持。我认为 MQTT 也很合适，但尚未实现。   可以处理任何长时间运行的任务通过后台处理器。  后台任务通过 celery 处理。 当前后台任务包括卸载对话嵌入和存储。   一些我们正在开发的其他功能包括自动说话人分类，以促进语音识别和对话部分分配。针对对话数据进行相似性查询，以允许回忆所有时间的对话。更好的机器人&lt;-&gt;系统双向通信和视觉动作处理。 更雄心勃勃的功能包括基于视觉和听觉线索的自动数据集训练生成，以促进针对特定个体的自动 Pytorch 模型训练。这个想法是让计算机/机器人通过直接交流来了解新事物和新人。 显然，测试覆盖率。 这只是一个副项目，但我认为其他人可能会发现它有趣/有用。   由   提交 /u/ChatClue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18t1xw1/osiris_provides_twoway_voice_and_video/</guid>
+      <pubDate>Thu, 28 Dec 2023 19:14:48 GMT</pubDate>
+    </item>
     <item>
       <title>开源 Python 抄袭检查器的推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/18sy1gk/recommendations_for_opensource_python_plagiarism/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨 我想知道是否有人可以推荐我是否有这样的 DLP 开源项目？我正在查看 https://www.mydlp.org/# 但它似乎是一个死项目 谢谢   由   提交 /u/killmasta93   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18rrlr1/opensource_on_dlp/</guid>
       <pubDate>Wed, 27 Dec 2023 04:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPLv2、模式和衍生作品</title>
-      <link>https://www.reddit.com/r/opensource/comments/18rnthl/gplv2_patterns_and_derivative_work/</link>
-      <description><![CDATA[大家好， 我有一个关于 GPLv2 适用于概念的范围的问题。 过去我曾为 GPLv2 许可的游戏项目做出过贡献。我远非专家，但我能够创建一两个错误修复程序，并对它的工作原理有了大致的了解。 最近，我一直在使用游戏引擎来创建游戏类似于 GPLv2 工作。最坏的情况下，这对于项目规划、架构和一般游戏引擎的使用来说是一个很好的实践。如果它达到了某种程度的最低可行性，那么对于我的朋友组来说，这可能是最过度计划的游戏之夜，但在一些完美的世界中，我有想法让游戏公开可用，或者使用一些功能发布一个更合理范围的游戏。相同的机制。 我一直在写关于特定机制的笔记，跟踪玩家和 NPC 之间的战斗状态。从我一年多前参与 GPL 项目开始，我就模糊地了解到他们使用了某种中间“CombatInstance”实例。  我的问题是：在某种程度上，我对 GPL 项目可能如何做事情的模糊了解是否会使基于它的任何东西都算作 GPLv2 下的衍生作品，或者只要我不提出代码来澄清我对它的理解，我就在明确的许可方面吗？   由   提交/u/tidal49  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18rnthl/gplv2_patterns_and_derivative_work/</guid>
-      <pubDate>Wed, 27 Dec 2023 01:13:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
