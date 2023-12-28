@@ -4,9 +4,30 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Dec 2023 12:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 15:12:01 GMT</lastBuildDate>
     <item>
-      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代方案）</title>
+      <title>OnLogs – 适用于 Docker 容器的开源简化 Web 日志查看器</title>
+      <link>https://www.reddit.com/r/opensource/comments/18suaae/onlogs_opensource_simplified_web_logs_viewer_for/</link>
+      <description><![CDATA[       由   提交/u/Outrageous-Medium-49   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18suaae/onlogs_opensource_simplified_web_logs_viewer_for/</guid>
+      <pubDate>Thu, 28 Dec 2023 13:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于开源开发工具文档的建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/18su9ls/advice_for_open_source_dev_tool_documentation/</link>
+      <description><![CDATA[您好， 我最近修改了 React Cosmos（一个组件沙箱工具）的文档。以前的网站非常混乱，而且文档是一个很长的自述文件，回想起来根本不方便用户使用。 我终于找到了时间和耐心来创建有组织的文档并设计一个更专业的网站使用 Nextra。我对结果非常满意，但话又说回来，我也对旧网站感到兴奋😅。 你能从局外人的角度给我一些反馈吗？这是当前版本：https://reactcosmos.org/ 谢谢:)   由   提交 /u/skidding   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18su9ls/advice_for_open_source_dev_tool_documentation/</guid>
+      <pubDate>Thu, 28 Dec 2023 13:46:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeskHop - 快速桌面切换</title>
+      <link>https://www.reddit.com/r/opensource/comments/18stonn/deskhop_fast_desktop_switching/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/brbee07  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18stonn/deskhop_fast_desktop_switching/</guid>
+      <pubDate>Thu, 28 Dec 2023 13:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代品）</title>
       <link>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</link>
       <description><![CDATA[   /u/dstala  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</guid>
@@ -85,30 +106,9 @@
     <item>
       <title>Github 发布包含病毒总数的资产扫描器</title>
       <link>https://www.reddit.com/r/opensource/comments/18rcyza/github_release_asset_scanner_with_virus_total/</link>
-      <description><![CDATA[嘿，我使用了很多开源移动应用程序 + 一些桌面应用程序，其中一些应用程序仅通过 github 发布资产进行分发，所以我认为它如果所有资产都上传到病毒总库并在新版本发布时自动扫描，会感觉更安全。  所以我就这么做了https://grs.tronikel.dev/ 任何人都可以添加任何存储库，无需任何帐户 对于任何感兴趣的人来说，它是用solidjs和golang制作的 https://github.com/Tronikelis/github-release-scanner ​ ​ ​   由   提交/u/uz45  [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我使用了很多开源移动应用程序 + 一些桌面应用程序，其中一些仅通过 github 发布资产进行分发，所以我认为它如果所有资产都上传到病毒总库并在新版本发布时自动扫描，会感觉更安全。  所以我就这样做了 https://grs.tronikel.dev/ 任何人都可以添加任何存储库，无需任何帐户 对于任何感兴趣的人来说，它是用solidjs和golang制作的 https://github.com/Tronikelis/github-release-scanner ​ ​ ​   由   提交/u/uz45  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18rcyza/github_release_asset_scanner_with_virus_total/</guid>
       <pubDate>Tue, 26 Dec 2023 17:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Localsend速度慢的问题。</title>
-      <link>https://www.reddit.com/r/opensource/comments/18r9pvb/localsend_slow_speed_issue/</link>
-      <description><![CDATA[我最近发现了 Localsend，它非常棒。然而，我注意到评论提到速度超过 50 Mbps，而我的传输速度仅为 500-800 kB/s 左右。我正在将 6 GB 的照片和视频从 Windows 传输到 Android，我不确定这是否是最大速度或者我是否可以达到更好的速度。有谁知道解决方案吗？我使用的是 Windows 10 和 Android 4G 手机。   由   提交/u/Wooden_Ad_3348   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18r9pvb/localsend_slow_speed_issue/</guid>
-      <pubDate>Tue, 26 Dec 2023 14:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>包含看板的开源 Todoist 替代方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18r92hy/open_source_todoist_alternative_that_includes/</link>
-      <description><![CDATA[我在日常生活中使用Todoist来组织任务和项目，我发现看板功能非常有用。我的工作流程本质上包括将每个任务放在项目看板的以下部分之一：准备、等待、讨论、澄清、计划、Backburner。 这个具体想法是从 Cal Newport 借用的，按照 &lt; a href=&quot;https://www.youtube.com/watch?v=BcE1MqziyzQ&quot;&gt;此视频。他提到了 Trello，它有带有“卡”功能的开源替代品。风格方法，但我是从“任务”的更细粒度的角度来看待这个问题的。在这方面，Todoist 的 ui 和 ux 非常适合我。我为该项目创建一个看板，添加这些类别，然后将任务相应地放入这些类别中。从那里我还可以添加标签（Todoist 中的标签）、描述，甚至子任务。然后您只需单击该框即可完成。太简单了。 这个工作流程对我来说非常完美，特别是因为它是跨平台的（桌面、移动、Mac、Windows、Linux、Android...），这是我离不开的功能。然而，由于各种原因、专有产品的过时、隐私等，我不想永远依赖Todoist。 是否有任何人都知道的开源项目可以以这种方式运行？基本上是一个看板应用程序（跨平台），可以使用带有标记、子任务等的任务方法？ （自然语言处理也将是一个巨大的优势） 或者我要求太多了吗？   由   提交 /u/GreasyBogs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18r92hy/open_source_todoist_alternative_that_includes/</guid>
-      <pubDate>Tue, 26 Dec 2023 14:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>PNLS：从附近设备的首选网络列表中捕获并显示 SSID 的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/18r8011/pnls_tool_that_captures_and_displays_ssids_from/</link>
-      <description><![CDATA[大家好， 我已经在这个项目上工作了一段时间了，它终于可以展示了。 PNLS 是一种开源工具，可从设备的首选网络列表中捕获并显示 SSID。这是通过嗅探附近的探测请求来实现的，然后解析探测请求以获取 SSID 和其他信息，最后传播到 Web UI。 该工具在 Raspberry Pi 上实现。有关该项目、其架构和所使用技术的更多详细信息，请访问 GitHub (https://github.com /AleksaMCode/Preferred-Network-List-Sniffer）。在下一个版本中，我计划添加： - 使用 WiGLE API 和交互式世界地图基于 SSID 进行地理定位 - 从 MAC 的 OUI 获取制造商信息 我将不胜感激任何反馈，但更重要的是我希望得到一些有关如何改进此工具以及在未来迭代中可能添加哪些功能的建议。   由   提交 /u/42-is-the-number   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18r8011/pnls_tool_that_captures_and_displays_ssids_from/</guid>
-      <pubDate>Tue, 26 Dec 2023 13:20:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
