@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 29 Dec 2023 06:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 09:12:42 GMT</lastBuildDate>
+    <item>
+      <title>teeplot：争论数据可视化输出的工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/18ti4gg/teeplot_a_tool_to_wrangle_data_visualization/</link>
+      <description><![CDATA[更多地参与开源开发，并利用寒假将一些长期存在的软件项目从我的愿望清单中删除。想分享一个我刚刚在这里完成的。 teeplot 是一个 Python 库，它通过根据以下内容选择有意义的文件名来自动管理 matplotlib 文件输出绘图函数和语义绘图变量。在过去的两年里，我发现它在我自己的工作流程中非常有用，希望其他科学计算/数据科学/Jupyter 笔记本的人们也能从中得到一些用处。 这是一个例子展示它的全部内容... 示例 此示例显示了对 seaborn 的 lmplot 的调用，该调用通过teeplot.tee 将可视化保存为 &#39;teeplots/col=time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext={.pdf, .png}&#39;。 这是 teeplot 编辑的笔记本单元和输出的样子， # 改编自seaborn .pydata.org/ generated/seaborn.FacetGrid.html import seaborn as sns from teeplot import teeplot as tp tp.tee(sns.lmplot, # 绘图仪，然后转发 args/kwargs sns.load_dataset(&quot;tips&quot;), col= “时间”，色调=“性别”，x=“total_bill”，y=“tip”） &lt;&lt;&lt;此处显示绘图&gt;&gt;  teeplots/col=time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext=.pdf teeplots/col =time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext=.png  这里的想法是让保存和编目图的过程更加容易高效、系统、有意义，消除手动文件管理的麻烦。 更多信息 teeplot可以安装如 python3 -m pip install teeplot 该库还具有其他高级功能，包括用于全局配置可视化输出文件类型的接口（即“.pdf”、 “.png”）等。您可以在项目的使用指南&lt; /em&gt; 和 API 列表。  免责声明：我是库作者。   由   提交/u/mmore500  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18ti4gg/teeplot_a_tool_to_wrangle_data_visualization/</guid>
+      <pubDate>Fri, 29 Dec 2023 08:14:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源营销的最佳资源是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18thizq/what_are_the_best_resources_for_opensource/</link>
+      <description><![CDATA[嗨！ 我有一个想要推广的 GitHub 存储库。 尝试在 google 上搜索关于如何推广它，但还没有找到很多信息。 最好的方法是什么？  &amp; #32；由   提交 /u/sleepysiding22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18thizq/what_are_the_best_resources_for_opensource/</guid>
+      <pubDate>Fri, 29 Dec 2023 07:34:54 GMT</pubDate>
+    </item>
     <item>
       <title>如果所有软件都是免费和开源的，社会会是什么样子？</title>
       <link>https://www.reddit.com/r/opensource/comments/18t8lic/how_would_it_be_a_society_if_all_software_were/</link>
-      <description><![CDATA[抱歉，如果这是一个愚蠢的问题，但是作为一名试图理解自由软件哲学的软件工程师学生，是否所有软件都可能开源？ 或者这只能发生在真正的无国籍社会中？ 假设所有软件都是免费和开源的，那么软件工程师岂不是会被淘汰？  &gt;   由   提交/u/Naomsa  [链接] [评论]]]></description>
+      <description><![CDATA[抱歉，这是一个愚蠢的问题，但是作为一名试图理解自由软件哲学的软件工程师学生，是否所有软件都可能开源？ 或者这只能发生在真正的无国籍社会中？ 假设所有软件都是免费和开源的，那么软件工程师岂不是会被淘汰？  &gt;   由   提交/u/Naomsa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18t8lic/how_would_it_be_a_society_if_all_software_were/</guid>
       <pubDate>Thu, 28 Dec 2023 23:58:24 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Thu, 28 Dec 2023 13:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代品）</title>
+      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代方案）</title>
       <link>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</link>
       <description><![CDATA[   /u/dstala  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>有比drive更好的pdf阅读器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/18s63xj/any_pdf_viewers_better_than_drive/</link>
-      <description><![CDATA[我想要一个 pdf 查看器，当我在自由格式模式下最小化它时不会崩溃。我还想要一些可以让我打开固定 PDF 之类的东西（我邮寄我想要它作为我的时间表）。它可以“伪造应用程序”吗？ Android 侧边栏可以检测为快速打开的应用程序。   由   提交/u/DontDisturbMeNow   [链接] [评论]]]></description>
+      <description><![CDATA[我想要一个 pdf 查看器，当我在自由格式模式下最小化它时不会崩溃。我还想要一些可以让我打开诸如固定 PDF 之类的东西（我邮寄我想要它作为我的时间表）。它可以“伪造应用程序”吗？ Android 侧边栏可以检测为快速打开的应用程序。   由   提交/u/DontDisturbMeNow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18s63xj/any_pdf_viewers_better_than_drive/</guid>
       <pubDate>Wed, 27 Dec 2023 17:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费开源 Django Material 管理模板</title>
-      <link>https://www.reddit.com/r/opensource/comments/18s176j/free_open_source_materio_django_admin_template/</link>
-      <description><![CDATA[大家好， 我想分享一个全新的Materio 免费 Bootstrap 5 Django 管理模板。它提供了 10 个有用的应用程序，例如电子邮件、聊天、学院、物流等，使您能够更快地开始并构建应用程序。此外，它还配备了 75 多个基本和高级卡片，用于电子商务分析、CRM、统计和交互式图表。 此外，Materio Django 管理仪表板有 15 个以上的首页，包括专用登录页面和其他大多数内容常用页面，节省您启动应用程序的时间和精力。轻松创建引人注目、高质量且响应迅速的 Web 应用程序。 功能：   基于 Django 5 Bootstrap 5 垂直布局 独特的仪表板 1 个图表库 身份验证页面 完全响应式布局 有组织的文件夹结构 干净整洁注释代码 文档齐全    由   提交 /u/Saanvi_Sen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18s176j/free_open_source_materio_django_admin_template/</guid>
-      <pubDate>Wed, 27 Dec 2023 13:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>DLP 上的开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/18rrlr1/opensource_on_dlp/</link>
-      <description><![CDATA[嗨 我想知道是否有人可以推荐我是否有这样的 DLP 开源项目？我正在查看 https://www.mydlp.org/# 但它似乎是一个死项目 谢谢   由   提交 /u/killmasta93   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18rrlr1/opensource_on_dlp/</guid>
-      <pubDate>Wed, 27 Dec 2023 04:20:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
