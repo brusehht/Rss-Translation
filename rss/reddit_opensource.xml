@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 29 Dec 2023 09:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 12:18:48 GMT</lastBuildDate>
+    <item>
+      <title>Jake：使用 GitHub Pages 的 Linktree 的免费替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/18tkgae/jake_a_free_alternative_to_linktree_using_github/</link>
+      <description><![CDATA[ 由   提交/u/deval_ut  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18tkgae/jake_a_free_alternative_to_linktree_using_github/</guid>
+      <pubDate>Fri, 29 Dec 2023 10:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种开源方法，可在本地记录并支持搜索您在 Apple Silicon 上查看的所有内容。</title>
+      <link>https://www.reddit.com/r/opensource/comments/18tk0kq/an_open_source_approach_to_locally_record_and/</link>
+      <description><![CDATA[   /u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18tk0kq/an_open_source_approach_to_locally_record_and/</guid>
+      <pubDate>Fri, 29 Dec 2023 10:19:58 GMT</pubDate>
+    </item>
     <item>
       <title>teeplot：争论数据可视化输出的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/18ti4gg/teeplot_a_tool_to_wrangle_data_visualization/</link>
-      <description><![CDATA[更多地参与开源开发，并利用寒假将一些长期存在的软件项目从我的愿望清单中删除。想分享一个我刚刚在这里完成的。 teeplot 是一个 Python 库，它通过根据以下内容选择有意义的文件名来自动管理 matplotlib 文件输出绘图函数和语义绘图变量。在过去的两年里，我发现它在我自己的工作流程中非常有用，希望其他科学计算/数据科学/Jupyter 笔记本的人们也能从中得到一些用处。 这是一个例子展示它的全部内容... 示例 此示例显示了对 seaborn 的 lmplot 的调用，该调用通过teeplot.tee 将可视化保存为 &#39;teeplots/col=time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext={.pdf, .png}&#39;。 这是 teeplot 编辑的笔记本单元和输出的样子， # 改编自seaborn .pydata.org/ generated/seaborn.FacetGrid.html import seaborn as sns from teeplot import teeplot as tp tp.tee(sns.lmplot, # 绘图仪，然后转发 args/kwargs sns.load_dataset(&quot;tips&quot;), col= “时间”，色调=“性别”，x=“total_bill”，y=“tip”） &lt;&lt;&lt;此处显示绘图&gt;&gt;  teeplots/col=time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext=.pdf teeplots/col =time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext=.png  这里的想法是让保存和编目图的过程更加容易高效、系统、有意义，消除手动文件管理的麻烦。 更多信息 teeplot可以安装如 python3 -m pip install teeplot 该库还具有其他高级功能，包括用于全局配置可视化输出文件类型的接口（即“.pdf”、 “.png”）等。您可以在项目的使用指南&lt; /em&gt; 和 API 列表。  免责声明：我是库作者。   由   提交/u/mmore500  [链接] [评论]]]></description>
+      <description><![CDATA[更多地参与开源开发，并利用寒假将一些长期存在的软件项目从我的愿望清单中删除。想分享一个我刚刚在这里完成的。 teeplot 是一个 Python 库，它通过根据以下内容选择有意义的文件名来自动管理 matplotlib 文件输出绘图函数和语义绘图变量。在过去的两年里，我发现它在我自己的工作流程中非常有用，希望其他科学计算/数据科学/Jupyter 笔记本的人们也能从中得到一些用处。 这是一个例子展示它的全部内容... 示例 此示例显示了对 seaborn 的 lmplot 的调用，该调用通过teeplot.tee 将可视化保存为 &#39;teeplots/col=time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext={.pdf, .png}&#39;。 这是 teeplot 编辑的笔记本单元和输出的样子， # 改编自seaborn .pydata.org/ generated/seaborn.FacetGrid.html import seaborn as sns from teeplot import teeplot as tp tp.tee(sns.lmplot, # 绘图仪，然后转发 args/kwargs sns.load_dataset(&quot;tips&quot;), col= “时间”，色调=“性别”，x=“total_bill”，y=“tip”） &lt;&lt;&lt;此处显示绘图&gt;&gt;  teeplots/col=time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext=.pdf teeplots/col =time+hue=sex+viz=lmplot+x=total-bill+y=tip+ext=.png  这里的想法是让保存和编目图的过程更加容易高效、系统且有意义，消除手动文件管理的麻烦。 更多信息 teeplot可以安装如 python3 -m pip install teeplot 该库还具有其他高级功能，包括用于全局配置可视化输出文件类型的接口（即“.pdf”、 “.png”）等。您可以在项目的使用指南&lt; /em&gt; 和 API 列表。  免责声明：我是库作者。   由   提交/u/mmore500  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18ti4gg/teeplot_a_tool_to_wrangle_data_visualization/</guid>
       <pubDate>Fri, 29 Dec 2023 08:14:14 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Thu, 28 Dec 2023 13:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代方案）</title>
+      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代品）</title>
       <link>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</link>
       <description><![CDATA[   /u/dstala  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我看到很多关于 Meta 开源内部工具、LLM 等的讨论。网上有一个地方可以让我了解他们的工程文化和开源决策？   由   提交 /u/Fearfultick0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18sdctg/meta_open_source_question/</guid>
       <pubDate>Wed, 27 Dec 2023 22:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>nfcompose,在几分钟而不是几小时内构建 REST API/集成的 REST API,下载nfcompose的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/opensource/comments/18s8qfz/github_neuroforgedenfcompose_rest_api_to_build/</link>
-      <description><![CDATA[       由   提交/u/greenblock123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18s8qfz/github_neuroforgedenfcompose_rest_api_to_build/</guid>
-      <pubDate>Wed, 27 Dec 2023 19:21:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有比drive更好的pdf阅读器吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18s63xj/any_pdf_viewers_better_than_drive/</link>
-      <description><![CDATA[我想要一个 pdf 查看器，当我在自由格式模式下最小化它时不会崩溃。我还想要一些可以让我打开诸如固定 PDF 之类的东西（我邮寄我想要它作为我的时间表）。它可以“伪造应用程序”吗？ Android 侧边栏可以检测为快速打开的应用程序。   由   提交/u/DontDisturbMeNow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18s63xj/any_pdf_viewers_better_than_drive/</guid>
-      <pubDate>Wed, 27 Dec 2023 17:32:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
