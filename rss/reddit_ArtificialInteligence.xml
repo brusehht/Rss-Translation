@@ -4,11 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 28 Dec 2023 21:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 00:40:21 GMT</lastBuildDate>
+    <item>
+      <title>对于项目来说，什么是好的旁白文本到语音转换？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18t6v31/whats_a_good_narrator_text_to_speech_for_projects/</link>
+      <description><![CDATA[我正在计划启动一个使用文本到语音旁白的 YouTube 项目，并且想知道什么是好的选择，我愿意投入资金并且我并不真正关心它听起来是否现实，而是它有一系列很酷的好听声音。 如果有什么明显是故意做的机器人或令人毛骨悚然的叙述者会很酷。但听起来像一个讲故事的人也是如此。   由   提交 /u/ICastPunch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18t6v31/whats_a_good_narrator_text_to_speech_for_projects/</guid>
+      <pubDate>Thu, 28 Dec 2023 22:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>萨姆·奥尔特曼和他的愿景</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18t6ouh/sam_altman_and_his_vision/</link>
+      <description><![CDATA[这不是一个供粉丝和批评者相互较量的帖子。请在门口检查一下情绪和战甲。 那些对AI有中高级了解的人，你对这位公共掌舵者的真实看法是什么？智慧与天真。动机。等等。 我感兴趣的只是独特、仔细、富有洞察力的想法，而不仅仅是反映 YouTube 和播客上重复的流行观点。老 Reddit 的方式。  谢谢！   由   提交 /u/supercool2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18t6ouh/sam_altman_and_his_vision/</guid>
+      <pubDate>Thu, 28 Dec 2023 22:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些免费的照片编辑人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18t5bzj/what_are_some_free_ai_tools_to_edit_photos/</link>
+      <description><![CDATA[我想用 AI 编辑我的职业个人资料照片，让我看起来很酷。试图在 Google 上找到一些人工智能工具，但在标语中写着“免费”，然后他们就会要钱。   由   提交 /u/OkZookeepergame3377   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18t5bzj/what_are_some_free_ai_tools_to_edit_photos/</guid>
+      <pubDate>Thu, 28 Dec 2023 21:38:48 GMT</pubDate>
+    </item>
     <item>
       <title>我对AGI的含义感到困惑</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18t4d2g/im_confused_about_meaning_of_agi/</link>
-      <description><![CDATA[假设您有一个多模态模型，可以分析问题，为解决方案选择最佳模型或方法，并应用该方法，并且它变得难以区分从某种意义上说，它来自于技术人员，它可以完成人类所做的一切。我认为这就是媒体所描述的 AGI。  但是，如果机器能够真正思考，具有创造力、主动性、个性、个性，甚至意识，同时具有超人的智能，那又如何呢？这怎么称呼？   由   提交/u/Smil3baby  [链接] [评论]]]></description>
+      <description><![CDATA[假设您有一个多模态模型，可以分析问题，为解决方案选择最佳模型或方法，并应用该方法，并且它变得难以区分从某种意义上说，它来自于技术人员，它可以完成人类所做的一切。我认为这就是媒体所描述的 AGI。 但是，如果一台机器能够真正思考，具有创造力、主动性、个性、个性，甚至意识，并且同时具有时间能够达到超人的智力。这将如何称呼？ 编辑：我正在尝试为此找到可接受的名称。阿西？ Sentient AI？   由   提交/u/Smil3baby  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18t4d2g/im_confused_about_meaning_of_agi/</guid>
       <pubDate>Thu, 28 Dec 2023 20:58:51 GMT</pubDate>
     </item>
@@ -32,13 +53,6 @@
       <description><![CDATA[梯度下降解决了将 x 转换为 y 的问题，但其间有很多层。我不知道最后一层发生了什么，但是在那之后，我不知道它是如何优化的。我所能想到的是，由于权重和偏差值中产生的噪声，导数可以更快地找到一个好的解决方案。我相信我误解了它的工作原理，但如果情况并非如此，那么所发生的事情效率非常低。 扩散模型效果很好，因为它们 x - y 转换发生更多次，提供更多指导关于应该做什么。 当我出于研究目的创建扩散模型时，我想到了所有这些。我没有采用时间戳编码，而是采用了更简单的解决方案，即将模型分成多个块，分别训练每个块，然后将它们连接在一起。然后我想到，在这个扩散模型上，我为每个层组都有一个明确的 x 和 y，这使得它比我一起训练所有层要高效得多。在我为每个块完成 100 个 epoch 后，我将完整模型训练了另外 100 个 epoch，其中 x 是随机噪声和标签，y 是原始图像，情况变得更糟。这是比较 您可以在此处查看示例图像：https://gist.github.com/Thiago099/579e33f04e4bc49e46cad165b9f57a43  ​ 我相信正在发生的是，对相似的甚至同一类的所有图像进行平均比生成额外的细节具有更低的损失。 p&gt; 此外，该模型生成的数字比原始 mnist 数据集更好看，我不确定这是否是一件好事 这是我创建的带有扩散模型的笔记本： https://github.com/Thiago099/ai-studies/blob/main/diffusion。 ipynb  也许即使是大型语言模型也可以像扩散模型一样进行训练。 我可能误解了一些东西，我想要一些澄清，这样我就可以成为更好的程序员。   由   提交/u/Small-Ad-1694   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18t336t/how_do_regular_artificial_intelligences_learn/</guid>
       <pubDate>Thu, 28 Dec 2023 20:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我们尝试人类水平的人工智能并折磨它，会不会很残忍？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18t2iln/if_we_ever_experiment_with_humanlevel_artificial/</link>
-      <description><![CDATA[我们所有的记忆、感觉、感官和我们经历的一切都是因为我们大脑中的电信号（如果我正确的话），所以会是这样吗？折磨人类级别的人工智能是否残忍？或者，如果我们复制某人的大脑并使其成为一个有自我意识的人工智能，我相信这会对它造成难以置信的心理伤害，因为你知道你只是一个实验，而这将永远是你的样子。&lt; /p&gt;   由   提交/u/DieselDeletus_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18t2iln/if_we_ever_experiment_with_humanlevel_artificial/</guid>
-      <pubDate>Thu, 28 Dec 2023 19:39:39 GMT</pubDate>
     </item>
     <item>
       <title>我们是否需要确保与人工智能伙伴和聊天机器人的关系健康且相互尊重？</title>
@@ -67,20 +81,6 @@
       <description><![CDATA[难以创建引人注目的演示文稿？告别设计幻灯片的痛苦！在这段令人大开眼界的视频中，我将深入探讨人工智能驱动的演示工具的世界，这些工具将改变您的 PowerPoint 体验。 它包括您的 AI 讲故事合作伙伴 Tome，为您提供慷慨的免费套餐创建具有视觉吸引力的幻灯片演示。观看我演示如何仅通过文本提示创建有关“圣诞怪杰”的完整演示文稿！ 此外，还可以了解 Gamma AI 和 Slides AI，这是用于快速、专业演示的创新工具。 与我一起踏上这段旅程，利用人工智能的力量制作更好、更有吸引力的演示。利用这些突破性的工具拯救生命并吸引观众。请记住，这不仅仅是内容；更是内容。关键在于你如何呈现它。订阅以更多地了解人工智能在日常任务中的潜力！ https://youtu.be/lvkfAqi4RPk   由   提交/u/Chisom1998_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18sv2iu/best_ai_presentation_maker_i_tried_the_three_best/</guid>
       <pubDate>Thu, 28 Dec 2023 14:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能开发的基本编程语言</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18ss8qw/essential_programming_languages_for_ai_development/</link>
-      <description><![CDATA[人工智能 (AI) 已成为各个行业的主导力量，彻底改变了我们的生活和工作方式。从虚拟助手到自动驾驶汽车，人工智能技术已经渗透到我们生活的方方面面。如果您有兴趣探索人工智能开发的世界，那么了解构成该领域基础的基本编程语言至关重要。在本文中，我们将深入研究用于人工智能开发的顶级编程语言，并探讨其独特的功能和应用。 本文涵盖了人工智能开发中使用的一系列编程语言。下表列出了AI开发中常用的编程语言： AI编程语言拼贴：Python、C++、JavaScript、Julia、Scala、Go。每种语言都为人工智能开发提供了独特的优势。 每种语言都为人工智能的不同方面提供了独特的功能和优势，为开发人员提供了多种选择来满足他们的需求和偏好。这些编程语言在人工智能开发中发挥着至关重要的作用，使开发人员能够创建智能系统和应用程序。 https://www.seaflux.tech/blogs/essential-programming-languages-ai-development   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18ss8qw/essential_programming_languages_for_ai_development/</guid>
-      <pubDate>Thu, 28 Dec 2023 11:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索前沿语言学习人工智能导师</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18srgfg/exploring_cuttingedge_language_learning_ai_tutors/</link>
-      <description><![CDATA[踏上掌握一门新语言的旅程，我正在寻找最新、最具创新性的人工智能导师。理想的伴侣将提供个性化的课程、身临其境的体验，甚至可能带来一丝乐趣！热切期待您推荐最先进的语言学习人工智能导师！    由   提交 /u/melissabreanne   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18srgfg/exploring_cuttingedge_language_learning_ai_tutors/</guid>
-      <pubDate>Thu, 28 Dec 2023 11:06:27 GMT</pubDate>
     </item>
     <item>
       <title>如何让我的经理相信我的代码不是人工智能编写的？</title>
