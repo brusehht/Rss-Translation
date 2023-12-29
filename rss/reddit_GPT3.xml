@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 29 Dec 2023 15:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 18:13:46 GMT</lastBuildDate>
+    <item>
+      <title>我需要帮助微调</title>
+      <link>https://www.reddit.com/r/GPT3/comments/18tqka8/i_need_help_fine_tuning/</link>
+      <description><![CDATA[我正在尝试使用从博客网站提取的巨大数据集来微调 gpt。当我研究这个主题时，我遇到的所有数据都显示模型正在接受格式和属性为“角色”、“消息”的数据的训练。或“提示”、“消息”。我希望模型在提示包含关键字或标题的消息时回复从提取的文章中提取的数据。我的问题是，该模型是否能够理解一组关键字并将它们用作合法提示   由   提交 /u/KJ_Script   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/18tqka8/i_need_help_fine_tuning/</guid>
+      <pubDate>Fri, 29 Dec 2023 16:08:31 GMT</pubDate>
+    </item>
     <item>
       <title>我80岁的妈妈小时候写过一首歌。</title>
       <link>https://www.reddit.com/r/GPT3/comments/18tmys6/my_80_year_old_mom_made_a_song_when_she_was_a_kid/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/Jasperstudio  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18lkdsd/all_about_gpt45_real_fake_hallucination_already/</guid>
       <pubDate>Mon, 18 Dec 2023 21:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次有汽车经销商说出真相</title>
-      <link>https://www.reddit.com/r/GPT3/comments/18ljz41/the_first_time_a_car_dealership_has_spoken_the/</link>
-      <description><![CDATA[       由   提交/u/Catenaut  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/18ljz41/the_first_time_a_car_dealership_has_spoken_the/</guid>
-      <pubDate>Mon, 18 Dec 2023 21:23:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
