@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Dec 2023 15:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 12:20:15 GMT</lastBuildDate>
     <item>
-      <title>来自 OpenAI 函数调用的流式 JSON 响应？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tp6ky/stream_json_response_from_openai_function_calling/</link>
-      <description><![CDATA[我需要将函数调用与 OpenAI API 结合使用，以便可以控制响应的结构。如果我不流式传输响应，那么一切都会按预期工作： https: //github.com/jameschetwood/openai-function-calling/tree/main/src/app/not-streamed 这在本地工作，但一旦部署，无服务器函数就会超时。流是推荐的解决方案，在使用函数调用之前，这对我有用，但现在我得到格式错误的 JSON。 路由处理程序：https://github.com/jameschetwood/openai-function-calling/blob/main/src/app/streamed/page.tsx  客户端：https://github.com/jameschetwood/openai-function-calling/blob/main/src/app/streamed/api/chat2/route.ts 响应示例：  {&quot;tool_calls&quot;:[ {&quot;id&quot;: &quot;call_zyzM9nL9j4x2uojmERkmvcMJ&quot;, &quot;type&quot;: &quot;function&quot;, &quot;function&quot;: {&quot;name&quot;: &quot; ;get_questions_and_answers&quot;, &quot;arguments&quot;: &quot;{\n \&quot;getQuestions\&quot;: [\n {\n \&quot;问题\&quot;: \&quot;法国的首都是哪里？\&quot;, \n \&quot;答案\&quot;: \&quot;巴黎\&quot;\n },\n {\n \&quot;问题\&quot;: \&quot;小说《1984》是谁写的？\&quot;,\ n \&quot;答案\&quot;: \&quot;乔治·奥威尔\&quot;\n },\n {\n \&quot;问题\&quot;: \&quot;金的化学符号是什么？\&quot;,\ n \&quot;答案\&quot;: \&quot;Au\&quot;\n },\n {\n \&quot;问题\&quot;: \&quot;谁画了《蒙娜丽莎》？\&quot;,\n \&quot; ;答案\&quot;: \&quot;达芬奇\&quot;\n },\n {\n \&quot;问题\&quot;: \&quot;我们太阳系中最大的行星是什么？\&quot;,\ n \&quot;Answer\&quot;: \&quot;Jupiter\&quot;\n }\n ]\n}&quot;}}  有人遇到过这个吗？文档似乎总是在前端使用“useChat”钩子，但我有自定义要求，我需要自己处理获取和表单状态。 我不确定我是否做了什么错误，或者这是一个错误，因为 Vercel 对函数调用的支持处于测试阶段。 我尝试增加令牌限制，以防切断响应的结尾，但没有任何乐趣。   div&gt;  由   提交/u/james_codes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tp6ky/stream_json_response_from_openai_function_calling/</guid>
-      <pubDate>Fri, 29 Dec 2023 15:07:40 GMT</pubDate>
+      <title>Gmail 电子邮件源代码在行尾带有“=”</title>
+      <link>https://www.reddit.com/r/webdev/comments/18udzvv/gmail_email_sourcecode_with_at_lineending/</link>
+      <description><![CDATA[我想用 Symfony 解析一些 HTML 电子邮件，并从复制粘贴电子邮件的源代码开始，但是电子邮件有一些“=” ;在行尾？这是为什么？ border-bottom: 1pxsolid #F2F2F2;” align=3D“中心”&gt; &lt;tr&gt; &lt;td高度＝3D“10”＝valign＝3D“底部”样式=3D”行高：1px; font-size:1px;&gt;&gt; &lt;tr&gt; &lt;t＝d高度＝3D“10”样式=3D”行高：1px;字体大小：1px；&quot;&gt;&amp;nbsp;&lt;/td&gt; &lt;/tr&gt;= &lt;/table&gt;&lt;/td&gt;  &lt;tr&gt; &lt;td高度＝3D“10”样式=3D”行高：1px;字体-=大小：1px;&gt;&amp;nbsp;&lt;/td&gt;   &lt;tr&gt; &lt;tdalign＝3D“中心” va= lign=3D“顶部”宽度=3D“100%” style=3D“内边距：0 30px;” class=3D“padding-20”=&gt;&lt;表格单元格padding=3D“0”单元间距＝3D“0”边界＝3D“0” style=3D“宽度：10= 0%；” class=3D“内容”&gt; &lt;正文&gt; &lt;tr&gt; &lt;td高度＝3D“10” style=3D&quot;line-heigh=  ​   由   提交 /u/JustScrumDe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18udzvv/gmail_email_sourcecode_with_at_lineending/</guid>
+      <pubDate>Sat, 30 Dec 2023 11:50:38 GMT</pubDate>
     </item>
     <item>
-      <title>我需要帮助解释为什么这是一个愚蠢的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/18to0zx/i_need_help_explaining_why_this_is_a_dumb_idea/</link>
-      <description><![CDATA[我是一名工程师，与后端工程师一起负责站点的路由。 我们站点的工作方式是用户可以登录不同的帐户。有些用户有多个帐户 ID，可以在它们之间切换。在后端，我们需要知道他们登录的帐户，以便我们可以执行正确的操作。 现在，执行此操作的正常方法是存储他们登录的帐户 ID在智威汤逊。后端工程师不想这样做，而是希望在每个 url 和 api 调用中包含帐户 ID。 我知道这是一个可怕的想法。我相信你知道这是一个可怕的主意。我如何向我的后端同行解释这一点。我找不到任何讨论此问题的文章。 我已经解释过，这将使文档成为一场噩梦，每个人都需要每个页面都有唯一的链接，等等。他似乎并不关心。    由   提交 /u/BootyMcStuffins   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18to0zx/i_need_help_explaining_why_this_is_a_dumb_idea/</guid>
-      <pubDate>Fri, 29 Dec 2023 14:13:43 GMT</pubDate>
+      <title>工作中你有很多走动的机会吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18udb4o/do_you_have_a_lot_of_opportunities_to_move_around/</link>
+      <description><![CDATA[在我在健身房工作之前，我是一名 ESL 老师，后来进入 Web 开发。我意识到我职业生涯的大部分时间都是在我的脚上度过的。是的，有办公桌工作，但总是一半一半。 在网络开发人员角色中，站立式办公桌很常见吗？或者至少可以自由地在大楼内漫步几分钟或在外面步行 5-10 分钟？或者除了午餐之外，几乎必须在办公桌前工作？ 老实说，我发现一些运动可以帮助我更长时间地保持专注  &amp; #32；由   提交 /u/Gowiththeflow001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18udb4o/do_you_have_a_lot_of_opportunities_to_move_around/</guid>
+      <pubDate>Sat, 30 Dec 2023 11:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>作为网站建设者，您会在报价中添加多少费用以确保符合 ADA 合规性？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tn2bf/as_a_website_builder_how_much_do_you_add_to_you/</link>
-      <description><![CDATA[如您所知，从头开始构建网站以包含 ADA 合规性需要更多时间。您为网站建设的报价增加了多少时间和金钱？   由   提交/u/lancert  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tn2bf/as_a_website_builder_how_much_do_you_add_to_you/</guid>
-      <pubDate>Fri, 29 Dec 2023 13:24:32 GMT</pubDate>
+      <title>我为人工智能建立了一个工作委员会，作为一个有趣的 2 小时挑战</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ud5x5/i_built_a_job_board_for_ai_as_a_fun_2_hour/</link>
+      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ud5x5/i_built_a_job_board_for_ai_as_a_fun_2_hour/</guid>
+      <pubDate>Sat, 30 Dec 2023 10:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>Squarespace 开源替代品。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tm5j9/squarespace_open_source_alternatives/</link>
-      <description><![CDATA[您好，我需要一个网站，人们可以在其中安排和购买咨询课程。我最初选择了 Squarespace，因为它是最受欢迎的选择。然而，Squarespace 仅支持 Stripe 和 Paypal 作为支付处理商，而且它们在我居住的地方并不活跃。因此，我需要一种替代方案，使我能够使用鲜为人知的支付处理器（在我居住的地方很受欢迎）并制作一个调度板，以便人们可以安排会议（我希望它易于使用且看起来很漂亮）。    由   提交/u/BoraBozdogan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tm5j9/squarespace_open_source_alternatives/</guid>
-      <pubDate>Fri, 29 Dec 2023 12:33:57 GMT</pubDate>
+      <title>网站创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ucnq6/website_ideas/</link>
+      <description><![CDATA[大家，我想制作一个网站，但我没有好的和有趣的想法。因此，如果您自己有任何想法，请告诉我。我不想做一个太简单和基本的。   由   提交/u/laketoly  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ucnq6/website_ideas/</guid>
+      <pubDate>Sat, 30 Dec 2023 10:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>您希望在网络开发中学到更多什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tm290/what_do_you_wish_was_taught_more_in_webdev/</link>
-      <description><![CDATA[有哪些事情是您花了一段时间才发现的，并且您希望在互联网上得到更多的教导？ 我正在寻找灵感来制作有关这些主题的内容，让我们看看进展如何。 谢谢！   由   提交/u/Humped8080   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tm290/what_do_you_wish_was_taught_more_in_webdev/</guid>
-      <pubDate>Fri, 29 Dec 2023 12:28:41 GMT</pubDate>
+      <title>了解组件设计：编写在任何框架中工作的组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ucduj/understanding_component_design_writing_components/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ucduj/understanding_component_design_writing_components/</guid>
+      <pubDate>Sat, 30 Dec 2023 10:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>您使用哪个域名注册商？为什么？当涉及域名注册时，您选择使用的注册商有多重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tljy1/what_domain_registrar_do_you_use_and_why_when_it/</link>
-      <description><![CDATA[如果您选择信誉良好的注册商，例如 NameCheap、Bluehost、Godaddy 等，那么选择哪一个真的很重要吗？   由   提交/u/-ThatGingerKid-  /u/-ThatGingerKid- reddit.com/r/webdev/comments/18tljy1/what_domain_registrar_do_you_use_and_why_when_it/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tljy1/what_domain_registrar_do_you_use_and_why_when_it/</guid>
-      <pubDate>Fri, 29 Dec 2023 11:58:24 GMT</pubDate>
+      <title>我正在尝试为开发人员构建一个 TodoList 应用程序。您会受益于哪些功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ucdor/im_trying_to_build_a_todolist_app_for_developers/</link>
+      <description><![CDATA[标题。我想包含一些个人功能，因为有一千个待办事项列表应用程序和网站，但没有一个是我真正喜欢或感兴趣的。但是，我也想包含面向开发人员的功能，以便它可以覆盖更广泛的受众，我所了解和熟悉的。  您会受益于哪些功能？   由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ucdor/im_trying_to_build_a_todolist_app_for_developers/</guid>
+      <pubDate>Sat, 30 Dec 2023 10:01:24 GMT</pubDate>
     </item>
     <item>
-      <title>学习新东西和掌握某些东西之间的平衡在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tl5xy/where_is_the_balance_between_learning_new_stuff/</link>
-      <description><![CDATA[我在 Java、Python、Typescript、Ruby、PHP 等语言方面拥有多年经验（如果我们谈论框架、DevOps 知识...... .这个列表延伸了很多...），经验让我足以胜任任何工作，并且我已经在我去过的公司中证明了这一点，我不是任何这些语言的总指挥官，但如果我需要记录一些我不了解的技术，我有必要的工具来记录和学习它。然后，有一个好奇的部分，想要了解 C++ 以更深入地了解内存管理、Go 和 Rust 等语言，因为它们非常高效和现代。 ​ 所有这些都是巨大的时间投入，掌握每一项技术都可能需要数年时间，当谈到向公司要求更好的条件时，他们通常会看我在某项技术上工作的年月，有时不幸的是对他们来说，我有 10 年的工程师经验，但只有 1 年的 Node Js 经验，即使我相信自己能够胜任这份工作，因为我多年来积累的坚实基础。在这种情况下，你在哪里找到平衡点？或者如果您也有过同样的担忧，您会如何处理这些情况？   由   提交/u/Guuri_11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tl5xy/where_is_the_balance_between_learning_new_stuff/</guid>
-      <pubDate>Fri, 29 Dec 2023 11:34:03 GMT</pubDate>
+      <title>要成为 DevOps，我真的需要了解多少网络知识？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18uc5ai/how_much_about_networking_do_i_really_need_to/</link>
+      <description><![CDATA[我喜欢网络，但我不想花太多时间学习有关它的信息，只是在 Cisco Packet Tracer 上进行研究，但从来没有实际上用这些技能做任何事情。那么，要成为一名 DevOps 工程师，我真正需要了解多少网络知识呢？    由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18uc5ai/how_much_about_networking_do_i_really_need_to/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>将网络应用程序插入只有订阅者可以使用的外部网站的最佳方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tkd7y/best_way_to_insert_web_app_into_external_site/</link>
-      <description><![CDATA[大家好！ 我正在为个人项目解决一些令人头疼的问题。正如标题所示，我正在尝试插入“预订表格”它托管在我正在创建的外部网站中的应用程序上，但是，预订表格应该仅适用于那些订阅了该应用程序的人。对于上下文，该应用程序是在 Laravel 中构建的。 这意味着我理想情况下需要验证将预订表单放在其网站上的用户是否确实已订阅。我无法使用 iframe，因为这容易受到 XSS + 我无法验证用户是否已订阅。  我尝试在应用程序上创建动态生成的 Content-Security-Policy 标头，但同样，这并不安全，因为我必须向用户提供某种 ID 作为iframe 上的查询字符串，有人可以很容易地复制它，但实际上并不会阻止任何事情。 我试图使应用程序尽可能简单，以便用户能够直接访问他们的网站不会暴露任何可能对潜在攻击者有用的凭据或数据。人们通常如何解决这个问题？ 谢谢！   由   提交 /u/free_styled   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tkd7y/best_way_to_insert_web_app_into_external_site/</guid>
-      <pubDate>Fri, 29 Dec 2023 10:43:36 GMT</pubDate>
+      <title>JS 中有很多需要记住的函数和属性🫣😬</title>
+      <link>https://www.reddit.com/r/webdev/comments/18uc4r8/so_many_functions_and_properties_to_remember_in_js/</link>
+      <description><![CDATA[JS 中有太多的函数和属性名称需要记住，你如何才能记住所有它们，特别是如果你是一名自由职业者？ 🤨   由   提交/u/alisonmiu91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18uc4r8/so_many_functions_and_properties_to_remember_in_js/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:44:11 GMT</pubDate>
     </item>
     <item>
-      <title>如何在网站中进行计算</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tj746/how_to_make_computation_in_website/</link>
-      <description><![CDATA[您好， 我是 Web 开发领域的新手，我想问一下如何执行以下操作。我毫不怀疑我可以以某种方式使其发挥作用，但我想知道是否存在更好/标准的方法。 我想在我的网站上出现数学问题。 像这样的东西  问题： 计算三角形的第三条边，两条边分别为{a}和{b}，它们之间的角度为{gamma}  参数 {a}、{b}、{gamma} 我想在某处插入表单 - 比如数据库或随机生成的或类似的东西。之后应该有一个解决方案  解决方案： 只需使用余弦定理 $$c^2={a}^2+{b}^2-2* {a}*{b}*\cos({gamma})$$  结果是 {c}  还是 {a}, {b}, {gamma} 应该插入值，然后应该有一个计算来生成 {c} 的结果。 ​ 我正在使用 django 和我所拥有的现在是这个模型” class Problem(models.Model): name = models.CharField(max_length=256) ​ 问题 = models.TextField() 解决方案 = models.TextField( ) ​ values = models.TextField(null = True) 计算 = models.TextField(null=True) 我正在考虑以某种方式通过 json 表示值，如下所示  {  &lt; p&gt;“a”：5， “b”：7， “伽玛”：55  }  通过文本计算，我以某种方式将其转换为 javascript 代码  {  &quot;c&quot;: &quot;Math.sqrt(a*a+b* b-2*a*b*Math.cos(gamma))”  }  然后在网页中使用javascript来获取这些内容，识别要在文本中替换的值（我正在考虑使用 ${ a$} 符号）并替换/计算它应该的内容。 提前感谢所有回复者:)   由   提交/u/Umaxo314  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tj746/how_to_make_computation_in_website/</guid>
-      <pubDate>Fri, 29 Dec 2023 09:25:46 GMT</pubDate>
+      <title>建立自己的投资组合网站值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18uc3w9/is_building_your_own_portfolio_website_worth_it/</link>
+      <description><![CDATA[刚刚在 youtube 上看到一个人说建立自己的作品集网站实际上是没有用的，因为你会陷入尝试修复简单的错误的过程中，这些错误会占用你的时间离开其他项目的时间对你的学习经历更有意义。 我明白他的观点，但我想看看其他人对此的看法。   由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18uc3w9/is_building_your_own_portfolio_website_worth_it/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>明智的 JSON</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tj2e9/judicious_json/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tj2e9/judicious_json/</guid>
-      <pubDate>Fri, 29 Dec 2023 09:16:44 GMT</pubDate>
+      <title>用于创建徽标和图标的最直观的平面设计软件是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18uc33d/whats_the_most_intuitive_flat_design_software_for/</link>
+      <description><![CDATA[我正在为一个小型组织做一个项目，我需要为其创建原始图标。我需要一些简单、轻便且直观的东西，以便我可以尽快工作。   由   提交 /u/Emotional-Sir3410    reddit.com/r/webdev/comments/18uc33d/whats_the_most_intuitive_flat_design_software_for/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18uc33d/whats_the_most_intuitive_flat_design_software_for/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>如何搜索 npm 包？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ths1l/how_do_you_search_for_npm_packages/</link>
-      <description><![CDATA[嗨，我当前的问题是为我的 svelte 应用程序找到最好的 i18n 软件包。该应用程序是 svelte，而不是 sveltekit，因此我正在寻找 js 库，而不是 svelte 特定的。 我希望该包能够得到长期支持。我曾经使用 github star 来实现此目的，虽然不是正确的指标，但已经足够好了。 在这种情况下，包的命名方式有所不同：i18n、本地化，甚至翻译。 我可以尝试直接进入 npmjs，搜索 this，找到 这个包是最好的，每周下载量为 111k。然而 github 上只有 114 个星。 我可以尝试谷歌，这会导致这个包，这看起来很可靠，因为该网站看起来像是 2005 年的，所以可能已经存在很长时间了。那么 npm 每周下载量呢？ 1000。 我看到的主要问题是可能有一些包被认为是“标准”包。 （ik，在 js 世界中，对），但我找不到它，因为它已经为自己建立了一个名字，而我只是不知道它。就像当你在图书馆寻找吐司时一样。您可能找不到“一个”因为您搜索了提醒或小吃栏或其他内容，但不知道“吐司”一词。 所以，是的，标题就是问题。   由   提交 /u/ratrak_one   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ths1l/how_do_you_search_for_npm_packages/</guid>
-      <pubDate>Fri, 29 Dec 2023 07:51:26 GMT</pubDate>
+      <title>显示 r/Webdev：Singlebase.cloud - 一个新的 BaaS，具有文档数据库、身份验证、矢量数据库、无限存储。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18uc31r/show_rwebdev_singlebasecloud_a_new_baas_with/</link>
+      <description><![CDATA[问候r/webdev， 祝大家新年快乐。  （抱歉发了重复的帖子，我被告知要在周六发布） 所以...  我们很高兴告诉您有关我们专门为开发人员构建的新 BaaS：Singlebase.cloud。 Singlebase.cloud 提供关键基础架构来加速您的开发， NoSQL 文档数据存储、身份验证、存储、矢量数据库和矢量搜索，可以选择使用 Rest API、GraphQL 和 SQL。 在克服 Firebase 的一些限制（例如：没有高级功能）后，我们创建了 Singlebase.cloud查询、无连接、不可预测的计费和许多其他令人头疼的问题。想想 Reddit 上的一篇帖子，其中一名用户在 2 天内因 Firebase 收取了 12 万美元的费用。 作为在没有风险投资资金的情况下启动该项目的独立创始人，我们专注于使 SinglebaseCloud 经济实惠、灵活且不受限制。&lt; /p&gt; 我们提供了一个很好的免费入门计划。全部具有无限的项目、API 调用、存储。一切无限。没有上限。 我们可能缺乏外部资金，但我们自己的经验激发了 SinglebaseCloud 背后的热情和同理心。我们希望帮助开发人员避免陷入我们熟知的陷阱！ 请试用 Singlebase.Cloud，并分享您坦诚的产品反馈。我们如何扩展平台以更好地服务 webdev 社区？我们热切欢迎您提供意见，帮助 SinglebaseCloud 充分发挥其潜力。 如果有任何风险投资家或天使投资人愿意帮助我们扩展我们的愿景，请直接联系 [mardix@singlebasecloud.com](mailto:mardix@singlebasecloud.com)。 让我们作为开发者一起为开发者打造终极的BaaS！   由   提交/u/mardix  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18uc31r/show_rwebdev_singlebasecloud_a_new_baas_with/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>此表单显示代码会影响我的性能吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18th2jt/will_this_form_display_code_impact_my_performance/</link>
-      <description><![CDATA[我正在制作一个打字游戏，我希望每条消息立即发送给其他收件人。我的第一个方法是检测用户何时打开文本区域，当他们键入某些内容（keydown）时，它会发送他们按下的键。 但是，这样当用户单击 control、alt 或 backspace 时，它​​只会输入单词而不是很好，就像按键一样 所以我将其更改为这样，使其为每个按键发送整个表单消息 ; &lt;表单id＝“表单”&gt; &gt; &lt;/表格&gt;  &lt;/body&gt; &lt;脚本&gt; var conn = new WebSocket(&#39;ws://localhost:8080&#39;); conn.onopen = function(e) { console.log(&quot;连接已建立！&quot;); }; conn.onmessage = function(e) { console.log(e.data); document.getElementById(&#39;box&#39;).value = e.data; }; var form = document.getElementById(&#39;form&#39;); form.addEventListener(&#39;keydown&#39;, function(event) { var inputContent = document.getElementById(&#39;box&#39;).value; conn.send(inputContent); }); &lt;/脚本&gt;  （IDK 为什么格式是这样的） 我想知道这是否会影响我的性能，因为它会发送每种类型的整个表单。  谢谢   由   提交 /u/AverageKrupukEnjoyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18th2jt/will_this_form_display_code_impact_my_performance/</guid>
-      <pubDate>Fri, 29 Dec 2023 07:06:00 GMT</pubDate>
+      <title>我制作了一个受辐射 PIP-Boy 启发的作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ubz0v/i_made_a_fallout_pipboy_inspired_portfolio/</link>
+      <description><![CDATA[我在凌晨 3 点的动机中开始了它，然后就忘记了。目前它仅针对桌面进行了优化，但希望大家喜欢。   由   提交/u/thepurpleproject  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ubz0v/i_made_a_fallout_pipboy_inspired_portfolio/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:32:58 GMT</pubDate>
     </item>
     <item>
-      <title>宣布 Vue 3.4 |视点</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tguvj/announcing_vue_34_the_vue_point/</link>
-      <description><![CDATA[ 由   提交/u/rk06  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tguvj/announcing_vue_34_the_vue_point/</guid>
-      <pubDate>Fri, 29 Dec 2023 06:52:59 GMT</pubDate>
+      <title>该网站使用什么语言/框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ubldm/what_languageframework_to_use_for_this_site/</link>
+      <description><![CDATA[它基本上是 Airtasker，有一些特性和功能 1-2-1 消息传递 搜索结果过滤 支付网关 注册/登录 身份验证 上传文件/图像/交付 评论&lt; /p&gt; ​ 使用哪种语言？如果项目增长，哪个数据库最具成本效益且可扩展？ 编辑：我读过 React 往往具有较差的 SEO、高维护性和糟糕/缓慢的性能，是真的吗？如果是这样，请推荐一些快速、简单、维护成本效益高且对搜索引擎优化友好的东西。    由   提交/u/vasaya  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ubldm/what_languageframework_to_use_for_this_site/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>谁负责内容/信息架构？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18tf13h/who_does_the_content_information_architecture/</link>
-      <description><![CDATA[我已经为此苦苦挣扎了一段时间，一年前我创办了我的网络代理机构，我自己完成了大部分任务，现在我已经设计师负责设计，我负责后端，前端开发人员负责前端。  现在我的工作流程中唯一的差距是信息架构/站点地图/内容模型，你知道我的意思。 我正在寻找能够拍摄会议文档、进行必要的研究、使用这些信息制作站点地图以及理想的（低保真、非设计）线框的人，其中包括所有必要的元素来设计。 通常谁会完成这项任务？谁在您工作的地方或您的公司/自由职业中执行此任务？   由   提交 /u/miguste   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18tf13h/who_does_the_content_information_architecture/</guid>
-      <pubDate>Fri, 29 Dec 2023 05:09:36 GMT</pubDate>
+      <title>网络开发人员如何阻止某些操作</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ubjl7/how_do_web_developers_block_certain_actions/</link>
+      <description><![CDATA[我注意到在 Netflix 和其他一些流媒体网站上，您无法截取屏幕截图，或者屏幕录像机或视频下载器无法工作。网络开发人员如何阻止此类行为？    由   提交/u/MohatoDeBrigado   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ubjl7/how_do_web_developers_block_certain_actions/</guid>
+      <pubDate>Sat, 30 Dec 2023 09:03:33 GMT</pubDate>
     </item>
     <item>
-      <title>需要 HTML 和 CSS 方面的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/18te6u6/need_help_with_html_and_css/</link>
-      <description><![CDATA[作为一个个人项目，我陷入困境，需要帮助来解决一些 html 和 css 代码，如果你能帮忙，我可以与你分享代码   由   提交 /u/rahwik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18te6u6/need_help_with_html_and_css/</guid>
-      <pubDate>Fri, 29 Dec 2023 04:25:14 GMT</pubDate>
+      <title>基准测试网站和 API - 工具介绍</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ub787/benchmarking_websites_apis_tool_introduction/</link>
+      <description><![CDATA[晚上好， 在过去的几年里，我一直致力于加速（主要是）PHP 代码，并发现拥有一个预警系统非常有用，只要代码突然变慢，它就会通知我。虽然有一些基准测试工具，但它们缺乏类型定义或很难自动运行，所以我用打字稿编写了自己的小框架。 有了两个正在开发的重要功能，我试图弄清楚找出什么会给你和其他开发者带来最大的好处，以优先安排我的时间。当前计划的事情是：  从开放 API 文件（部分）创建测试用例  如果您对此感兴趣，应该进行到什么程度？应该使用和应用多少 open-api？  基于预定义路由的负载测试 这应该减少必须重新定义事物的麻烦多种工具   如果您有任何其他可能感兴趣的想法，请告诉我！ 项目链接：https://github.com/idrinth/api-bench   由   提交/u/Idrinth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ub787/benchmarking_websites_apis_tool_introduction/</guid>
+      <pubDate>Sat, 30 Dec 2023 08:40:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
