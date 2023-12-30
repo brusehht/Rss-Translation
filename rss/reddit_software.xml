@@ -4,11 +4,39 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 30 Dec 2023 15:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 21:10:29 GMT</lastBuildDate>
+    <item>
+      <title>在不同的设备上运行设备特定的程序？</title>
+      <link>https://www.reddit.com/r/software/comments/18uo7g2/running_a_device_specific_program_on_a_different/</link>
+      <description><![CDATA[大家好，如果这不适合发帖，请提前致歉。 我有一台 Windows 游戏掌上电脑，但是与之捆绑在一起的控制中心很糟糕，用户体验也很糟糕，还有另一家手持设备制造商拥有自己的软件，看起来好 1000 倍，我想运行它。我下载了它，安装了它，它打开了，但我看到一个屏幕，说基本上软件不会在我的设备上运行，因为它不是他们的设备品牌，有谁知道我如何解决这个问题？我很欣赏这是非常模糊的，如果不查看特定的软件本身可能无法告诉我，但如果有人能给我一些关于这样的软件通常如何检查某种设备 ID 或标记的想法，我可以弄清楚如何绕过这个。  提前致谢！   由   提交/u/Camoflauge94  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18uo7g2/running_a_device_specific_program_on_a_different/</guid>
+      <pubDate>Sat, 30 Dec 2023 19:59:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于备份 SSD 中内容的 Windows 应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/18un5xa/windows_app_to_backup_things_in_a_ssd/</link>
+      <description><![CDATA[嗨，我有一个 SSD，我想用它来备份一些重要文件。你知道有一个程序可以轻松备份我在 SSD 中完成的工作吗？我使用 FreeFileSync，但如果我选择一个文件夹，它将备份该文件夹中的所有文件，而不是整个文件夹。 （例如4个文件夹，每个文件夹内有50个文件，程序备份SSD中的200个文件，我想备份包含文件内的文件夹） 你知道一些更好的程序或如何解决这个问题？谢谢   由   提交/u/Davidee876  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18un5xa/windows_app_to_backup_things_in_a_ssd/</guid>
+      <pubDate>Sat, 30 Dec 2023 19:14:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要应用程序将窗口拆分为多个窗口。</title>
+      <link>https://www.reddit.com/r/software/comments/18ukvxm/need_app_to_split_window_into_multiple_windows/</link>
+      <description><![CDATA[TL;DR：我正在 VR 中进行实验，需要一种方法来采用全屏或窗口应用程序（有问题的应用程序同时支持）并将其分割为多个较小的裁剪窗口而不是一个大窗口。我不一定需要能够与这些窗口交互，但这会很好。 我找到了一种使用 OBS 执行此操作的方法，但我需要为每个窗口提供一个 OBS 实例和一个需要进行大量的修补才能使其发挥作用，而且交互也不起作用。有更简单的方法吗？ 我运行的是 Windows 10。 ​ 更多详细信息： 有一款名为 EVE Online 的游戏，人们经常询问是否可以在 VR 中玩，我想演示一下它实际上可能是什么样子。游戏客户端内有多个窗口和屏幕区域，这些窗口和屏幕区域可能在 VR 环境中作为单独的窗口很好地工作，但是这些都作为一个大窗口呈现给操作系统，而 VR 环境需要单独的窗口才能工作。我想找到一种方法将一个大窗口呈现为操作系统的几个较小的裁剪窗口。   由   提交 /u/AlexCivitello   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18ukvxm/need_app_to_split_window_into_multiple_windows/</guid>
+      <pubDate>Sat, 30 Dec 2023 17:35:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有扩展程序或程序能够自动拒绝所有 cookie？</title>
+      <link>https://www.reddit.com/r/software/comments/18uhpav/is_there_an_extention_or_program_to_be_able_to/</link>
+      <description><![CDATA[我厌倦了必须手动拒绝我访问的任何网站上的所有 Cookie，拒绝 Cookie 的时间比阅读之后的内容要花更长的时间。 如果有适用于 iOS (iPad)、Andorid 和 Windows 的解决方案，我会洗耳恭听。在所有硬件上使用 chrome。   由   提交 /u/EvoRalliArt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18uhpav/is_there_an_extention_or_program_to_be_able_to/</guid>
+      <pubDate>Sat, 30 Dec 2023 15:11:21 GMT</pubDate>
+    </item>
     <item>
       <title>Flash 播放器模拟器合法吗？</title>
       <link>https://www.reddit.com/r/software/comments/18ugq8i/are_flash_player_emulators_legal/</link>
-      <description><![CDATA[我专门谈论 Ruffle 或 Newgrounds 制作的东西。有些网站现在甚至内置了 Ruffle。这可以合法使用吗？我听说它是​​自己建造的，但我仍然不确定。   由   提交 /u/NeurodivergentMoomin   [链接] [评论]]]></description>
+      <description><![CDATA[我专门谈论 Ruffle 或 Newgrounds 制作的东西。有些网站甚至现在内置了 Ruffle。这可以合法使用吗？我听说它是​​自己建造的，但我仍然不确定。   由   提交 /u/NeurodivergentMoomin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ugq8i/are_flash_player_emulators_legal/</guid>
       <pubDate>Sat, 30 Dec 2023 14:24:10 GMT</pubDate>
     </item>
@@ -22,7 +50,7 @@
     <item>
       <title>寻找一款从学术论文中提取作者姓名和电子邮件的软件</title>
       <link>https://www.reddit.com/r/software/comments/18ubrrx/looking_for_a_software_to_extract_author_names/</link>
-      <description><![CDATA[Redditors 大家好， 我正在寻找一种特定类型的软件，希望这个社区能够提供一些见解。 我正在寻找一种软件或工具，可以从学术论文中提取所有作者姓名，然后找到这些作者对应的电子邮件。这将极大地帮助我的研究工作，因为我经常需要与作者联系以进行进一步讨论或澄清。 我知道隐私是一个至关重要的问题，所以我只对作者拥有的电子邮件感兴趣公开与其工作相关。该工具应尊重所有道德准则和隐私法。 如果有人有任何建议或存在此类软件，请分享您的想法。  非常感谢您提供的任何帮助！   由   提交/u/yachty66  [链接] [评论]]]></description>
+      <description><![CDATA[Redditors 大家好， 我正在寻找一种特定类型的软件，希望这个社区能够提供一些见解。 我正在寻找一种软件或工具，可以从学术论文中提取所有作者姓名，然后找到这些作者对应的电子邮件。这将极大地帮助我的研究工作，因为我经常需要与作者联系以进行进一步讨论或澄清。 我知道隐私是一个至关重要的问题，所以我只对作者拥有的电子邮件感兴趣公开与其工作相关。该工具应尊重所有道德准则和隐私法。 如果有人有任何建议或存在此类软件，请分享您的想法。  感谢您提供的任何帮助！   由   提交/u/yachty66  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ubrrx/looking_for_a_software_to_extract_author_names/</guid>
       <pubDate>Sat, 30 Dec 2023 09:19:15 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>双显示器切换快捷键还是快捷键？</title>
       <link>https://www.reddit.com/r/software/comments/18u4hx1/dual_monitor_switching_keybind_or_shortcut/</link>
-      <description><![CDATA[切换到月光非常棒。比秒差距运行得更好，并且更具定制性。 Zerotier 来移植它。但是，现在我的问题是我有 2 个显示器。理想情况下，最好的情况是拥有一个可以通过按钮、命令或快捷方式切换显示的软件？因为我没有常规键盘，Windows 按钮通常不起作用。   由   提交 /u/Forsaken_Ad_7144   [链接] [评论]]]></description>
+      <description><![CDATA[切换到月光非常棒。运行速度比秒差距更好，并且更具定制性。 Zerotier 来移植它。但是，现在我的问题是我有 2 个显示器。理想情况下，最好的情况是拥有一个可以通过按钮、命令或快捷方式切换显示的软件？因为我没有常规键盘，Windows 按钮通常不起作用。   由   提交 /u/Forsaken_Ad_7144   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18u4hx1/dual_monitor_switching_keybind_or_shortcut/</guid>
       <pubDate>Sat, 30 Dec 2023 02:25:31 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>即使在新的电脑帐户上，史诗也不会重新安装，会在史诗中询问，但他们不允许提出这些问题</title>
       <link>https://www.reddit.com/r/software/comments/18u3lhg/epic_wont_reinstall_even_on_a_new_pc_account/</link>
-      <description><![CDATA[我卸载了它，然后重新安装了它，因为它不工作，一直不工作，解决多极时间问题，重新启动，等等。我不明白为什么它不再起作用了，史诗甚至不在回收站中，而是一起消失了。 每次都会这样做   由   提交/u/Baghdaddy-  [链接] [评论]]]></description>
+      <description><![CDATA[我卸载了它，然后重新安装了它，因为它不工作，一直不工作，多极时间故障排除，重新启动，等等。我不明白为什么它不再起作用了，史诗甚至不在回收站中，而是一起消失了。 每次都会这样做   由   提交/u/Baghdaddy-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18u3lhg/epic_wont_reinstall_even_on_a_new_pc_account/</guid>
       <pubDate>Sat, 30 Dec 2023 01:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷失在 VLC 和 Plex 之间的差距中</title>
-      <link>https://www.reddit.com/r/software/comments/18tzmxy/lost_in_the_gap_between_vlc_and_plex/</link>
-      <description><![CDATA[我很久以前就选择了 VLC，因为当其他人无法播放时它可以播放任何内容，但它的 GUI 丑陋且笨拙，而且皮肤也没有多大帮助。我尝试过 XBMC，后来尝试过 Plex 等，但它们过于挑剔和复杂。我不需要库管理的东西，我很乐意使用 Windows 资源管理器浏览我的媒体文件夹。我只想要一个像 VLC 一样可靠的播放器，同时具有适合沙发的 GUI，并且还可以处理偶尔的 DVD。   由   提交/u/BellybuttonWorld  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18tzmxy/lost_in_the_gap_between_vlc_and_plex/</guid>
-      <pubDate>Fri, 29 Dec 2023 22:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能集成</title>
-      <link>https://www.reddit.com/r/software/comments/18tx6xo/ai_integration/</link>
-      <description><![CDATA[是否有一些人工智能应用程序/软件可以让我上传所有文档、视频、图像。当我提出问题时，它会从数据和互联网数据的知识中汲取灵感，模拟我的写作风格、理解水平、思维框架、组织、格式化风格，并集思广益我的做法。本质上将我自己的大脑与人工智能结合起来   由   提交/u/adankey0_0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18tx6xo/ai_integration/</guid>
-      <pubDate>Fri, 29 Dec 2023 20:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>缺少软件功能</title>
-      <link>https://www.reddit.com/r/software/comments/18tw0rs/missing_software_features/</link>
-      <description><![CDATA[我最近创建了帖子 最佳软件功能（仍在评论中添加更多功能，最后一次添加是在几个小时前），这篇文章类似，灵感来自另一篇文章，我发现，有些程序已经存在，即使用户不知道它。 这篇文章不是关于丢失的软件、程序，但只是缺少功能。 每篇文章仅添加 1 个缺少的功能，仅适用于 Windows。 它可以是任何功能、功能或选项，您错过了，或者质疑，也许是一种更好、更简单或更快的方式来实现某些目标，例如一键解决方案而不是 5 步。 它也可以是扩展、附加组件、插件，命令行选项... 其他用户可以添加具有该功能的软件，或者获得该功能的方式，它可以在替代软件中使用，甚至在同一程序中，只是隐藏起来。如果该解决方案不是免费的，请添加为注释。 有些用户甚至可以创建这样的功能，也许作为网络浏览器的扩展，或者简单的程序。 它可以也可以为任何能够创建此类程序或在其现有程序或扩展（免费或付费）中添加此类功能的人提供灵感。   由   提交 /u/DreamerEight   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18tw0rs/missing_software_features/</guid>
-      <pubDate>Fri, 29 Dec 2023 20:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行宏以响应麦克风输入</title>
-      <link>https://www.reddit.com/r/software/comments/18trmbf/run_a_macro_in_response_to_microphone_input/</link>
-      <description><![CDATA[所以，我想尝试用乐器来控制我的电脑，比如录音机（我唯一知道的乐器）。如何在麦克风听到特定音符时模拟按键？我并不害怕为了让它发挥作用而克服重重困难。我了解诸如自动热键之类的东西，但不确定这是否可行，并且希望得到澄清。   由   提交 /u/ExtremeCheeze123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18trmbf/run_a_macro_in_response_to_microphone_input/</guid>
-      <pubDate>Fri, 29 Dec 2023 16:54:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
