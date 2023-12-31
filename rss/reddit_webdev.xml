@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 18:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 21:10:17 GMT</lastBuildDate>
+    <item>
+      <title>建立一个类似 eventbrite 或 Ticketmaster 的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vgfx7/build_a_website_like_eventbrite_or_ticketmaster/</link>
+      <description><![CDATA[所以我希望建立一个活动平台，并想询问网络开发人员有什么策略。  是否有任何应用程序可用于快速构建 MVP？与 WordPress/shoplift/rsvpify 类似 主要功能： 它应该有 2 个登录名：活动组织者登录名和用户/与会者登录名。 活动组织者应该能够发布自己的活动，无论是免费活动还是付费活动。 与会者可以报名参加活动（我应该能够收取他们的付费活动的佣金） 该网站应该可以按位置进行过滤（我希望能有一张地图，例如爱彼迎）。 ​ 任何帮助将不胜感激。 ​ 任何帮助将不胜感激。 p&gt; 谢谢   由   提交 /u/somelifeitellyou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vgfx7/build_a_website_like_eventbrite_or_ticketmaster/</guid>
+      <pubDate>Sun, 31 Dec 2023 20:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费/廉价 POI 搜索 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vfuwg/freecheap_poi_search_api/</link>
+      <description><![CDATA[如标题所述，我正在寻找一个免费/便宜的 API，可以用来查找用户当前位置附近某种类型的 POI 。我非常确定 Google Places API 是理想的选择，但我希望在开发过程中甚至通过 MVP 测试时降低成本。我知道有很多选择，我只是想看看什么是最受欢迎的以及人们认为什么最适合我的用例。我查看了 Apple Developer 计划中的内容，该计划的成本似乎相对较低，每年 99 美元，我查看了 Mapbox Geocoding API，它有免费套餐，但我不确定可以从查询结果中获取哪些数据，还有 Amazon定位服务仅免费 3 个月，之后价格会迅速上涨。  是否有任何其他免费/廉价的 API，我可以寻找来获取用户附近的 POI，然后可能获取有关 POI 的一些基本信息（地址、营业时间、联系信息等）？基本信息不是必需的，因为在获取用户附近的 POI 后，我可能可以找到另一种方式来获取该信息。提前致谢！   由   提交 /u/SnooPaintings1124   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vfuwg/freecheap_poi_search_api/</guid>
+      <pubDate>Sun, 31 Dec 2023 20:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何进行 TypeScript 转换</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vfu30/how_to_do_a_typescript_conversion/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vfu30/how_to_do_a_typescript_conversion/</guid>
+      <pubDate>Sun, 31 Dec 2023 20:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>CMS 是适合我的用例的正确选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vfov2/is_cms_the_right_choice_for_my_use_case/</link>
+      <description><![CDATA[背景故事 我正在为我大学的新 Makerspace 构建一个资源管理网站。本质上，该网站将拥有一堆可以选择并预订可用插槽的设备。  到目前为止我拥有的技术堆栈： - SvelteKit(Lucia for auth) - MySQL 现在我想为管理员提供一种添加新设备或修改现有设备的方法那些不写sql的人，因为我认为管理实验室的人不会知道如何写。我认为 CMS 是正确的选择，因为我对 CMS 的作用有不同的理解。  我想要什么 我想要一个可以托管在 netlify 上的简单前端，它可以充当数据库的 GUI。也许是像 Retool 这样的工具。最优选的是开源且免费的解决方案。我看了很多CMS、payload、Directus等等。有些具有基于平面文件的存储，有些需要托管在 aws、digital ocean 等服务器上。 经过所有研究，如果我找不到任何适合我需要的合适工具，我想我必须建立自己的“CMS”因为它不是一个资金雄厚的项目，而且我的报酬远不及建立这样一个网站所需的费用。 我还有一些关于如何构建资源管理工具的其他问题，所以如果有人有构建内部工具的经验，请告诉我，以便我与您联系。 提前致谢！   由   提交 /u/ZyanCarl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vfov2/is_cms_the_right_choice_for_my_use_case/</guid>
+      <pubDate>Sun, 31 Dec 2023 19:56:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法可以免费获得域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vf2w2/is_there_a_way_that_i_can_get_a_domain_for_free/</link>
+      <description><![CDATA[.com 扩展名当然是最好的，但 .org、.web、.store、.pk、. site、.store 也可以。谢谢。   由   提交 /u/Undone_Assignment   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vf2w2/is_there_a_way_that_i_can_get_a_domain_for_free/</guid>
+      <pubDate>Sun, 31 Dec 2023 19:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CSS 滚动驱动动画制作进度条动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vf1q5/animating_a_progress_bar_with_css_scrolldriven/</link>
+      <description><![CDATA[       由   提交 /u/silveryms   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vf1q5/animating_a_progress_bar_with_css_scrolldriven/</guid>
+      <pubDate>Sun, 31 Dec 2023 19:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>基于滚动位置的样式</title>
       <link>https://www.reddit.com/r/webdev/comments/18vc26z/styling_based_on_scroll_position/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>iframe 中的 Laravel 应用程序不显示表单验证错误。</title>
       <link>https://www.reddit.com/r/webdev/comments/18vb7m0/laravel_app_in_iframe_doesnt_show_form_validation/</link>
-      <description><![CDATA[嗨， 所以我有一个 Laravel 应用程序，正在另一个网站上呈现（基本形式）。我现在遇到的唯一问题是，当表单验证失败时，不会显示任何错误，只是 302 重定向回表单。我在网上查看了可能的解决方案，包括将 config/session.php &#39;same_site&#39; 属性设置为 &#39;none&#39;，并将 &#39;SESSION_SECURE_COOKIE&#39; 环境变量设置为 &#39;true&#39;，但我仍然一无所获。  我已经准备好一个 CSP，以便表单在其他站点上呈现，并且我知道它在表单呈现时起作用。 以下是一些我设置的配置设置希望它能让我更清楚地知道我做错了什么。 对于上下文，我为 iframe 提供了一个查询字符串，该字符串在中间件中用于检查是否允许该站点 - 下面的示例中使用了伪代码，但正在执行数据库查询来检查 ID 是否对应于数据库中的某个域，如果是，则它将检索该域并将其包含在CSP 标头。 如果需要更多信息，我很乐意提供。 .env SESSION_DRIVER=database SESSION_LIFETIME=120 SESSION_DOMAIN=“.example.test” SESSION_SECURE_COOKIE=true  config/session.php &#39;secure&#39; =&gt; env(&#39;SESSION_SECURE_COOKIE&#39;, true), &#39;http_only&#39; =&gt;正确，&#39;same_site&#39; =&gt; &#39;none&#39;,  App\Http\Middleware\ContentSecurityPolicyMiddleware.php 公共函数句柄($request, Closure $next) { $response = $下一个（$请求）； $id = $request-&gt;get(&#39;id&#39;); $域=空； if ($id === &#39;1&#39;) { $domain = &#39;example.test&#39;; $response-&gt;headers-&gt;set(&#39;Content-Security-Policy&#39;, &#39;frame-ancestors&#39; . $domain);返回$响应； }  kernel.php protected $middlewareAliases = [ ... &#39;csp&#39; =&gt;; ContentSecurityPolicyMiddleware::class, ];  routes.php Route::get(&#39;/bookings&#39;, [\App\Http\Controllers\BookingController::class, &#39;index&#39; ]) -&gt; 中间件([&#39;csp&#39;]) -&gt; 名称(&#39;bookings.index&#39;);路线::post(&#39;/bookings&#39;, [\App\Http\Controllers\BookingController::class, &#39;create&#39;]) -&gt;middleware([&#39;csp&#39;]) -&gt;withoutMiddleware([\App\Http\ Middleware\VerifyCsrfToken::class]) -&gt;name(&#39;bookings.create&#39;);    由   提交 /u/free_styled   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 所以我有一个 Laravel 应用程序，正在另一个网站上呈现（基本形式）。我现在遇到的唯一问题是，当表单验证失败时，不会显示任何错误，只是 302 重定向回表单。我在网上查看了可能的解决方案，包括将 config/session.php &#39;same_site&#39; 属性设置为 &#39;none&#39; 并将 &#39;SESSION_SECURE_COOKIE&#39; 环境变量设置为 &#39;true&#39;，但我仍然一无所获。  我已经准备好一个 CSP，以便表单在其他站点上呈现，并且我知道它在表单呈现时起作用。 以下是一些我设置的配置设置希望它能让我更清楚地知道我做错了什么。 对于上下文，我为 iframe 提供了一个查询字符串，该字符串在中间件中用于检查是否允许该站点 - 下面的示例中使用了伪代码，但正在执行数据库查询来检查 ID 是否对应于数据库中的某个域，如果是，则它将检索该域并将其包含在CSP 标头。 如果需要更多信息，我很乐意提供。 .env SESSION_DRIVER=database SESSION_LIFETIME=120 SESSION_DOMAIN=“.example.test” SESSION_SECURE_COOKIE=true  config/session.php &#39;secure&#39; =&gt; env(&#39;SESSION_SECURE_COOKIE&#39;, true), &#39;http_only&#39; =&gt;正确，&#39;same_site&#39; =&gt; &#39;none&#39;,  App\Http\Middleware\ContentSecurityPolicyMiddleware.php 公共函数句柄($request, Closure $next) { $response = $下一个（$请求）； $id = $request-&gt;get(&#39;id&#39;); $域=空； if ($id === &#39;1&#39;) { $domain = &#39;example.test&#39;; $response-&gt;headers-&gt;set(&#39;Content-Security-Policy&#39;, &#39;frame-ancestors&#39; . $domain);返回$响应； }  kernel.php protected $middlewareAliases = [ ... &#39;csp&#39; =&gt;; ContentSecurityPolicyMiddleware::class, ];  routes.php Route::get(&#39;/bookings&#39;, [\App\Http\Controllers\BookingController::class, &#39;index&#39; ]) -&gt; 中间件([&#39;csp&#39;]) -&gt; 名称(&#39;bookings.index&#39;);路线::post(&#39;/bookings&#39;, [\App\Http\Controllers\BookingController::class, &#39;create&#39;]) -&gt;middleware([&#39;csp&#39;]) -&gt;withoutMiddleware([\App\Http\ Middleware\VerifyCsrfToken::class]) -&gt;name(&#39;bookings.create&#39;);    由   提交 /u/free_styled   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vb7m0/laravel_app_in_iframe_doesnt_show_form_validation/</guid>
       <pubDate>Sun, 31 Dec 2023 16:25:49 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[Reddit 用户大家好！ 👋 我最近创建了一个关于在 React 中构建自定义通知弹出窗口的教程，我渴望得到您的想法和反馈。这适合我们所有希望在项目中获得更多控制和更少依赖的人。 这是我整理的内容：  🎥 YouTube 教程（20 分钟）：实践视频指南。 ✍️ Medium 文章：供参考的详细文章.  在本教程中，我将探索设置自定义 Toast 类和 ToastContainer 组件，以及 React 通知的样式提示。 我非常感谢您的帮助输入：  有什么方面我可以改进或以不同的方式解释吗？ 您通常如何处理 React 项目中的通知？  &lt; p&gt;期待听到您的宝贵见解和建议。让我们一起不断学习、共同成长！ 非常感谢！ 🚀   由   提交/u/heathcliff6547   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18v8f0w/launched_my_own_react_notification_tutorial/</guid>
       <pubDate>Sun, 31 Dec 2023 14:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立类似于数字海洋教程的简单教程网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/18v89ty/building_simple_tutorial_site_similar_to_digital/</link>
-      <description><![CDATA[我创建了许多教程供我个人使用。现在我使用word文档，效率不是很高。我想创建一个简单的教程系统，类似于 DO 使用 例如 https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services -and-units#service-management 有什么建议吗？ 到目前为止的建议 https://starlight.astro.build/ 有人通过消息建议。必须检查一下。 ​   由   提交/u/ebayer108  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18v89ty/building_simple_tutorial_site_similar_to_digital/</guid>
-      <pubDate>Sun, 31 Dec 2023 13:56:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我将 html 和 css 文件上传到后端时，我的网站被拒绝访问</title>
-      <link>https://www.reddit.com/r/webdev/comments/18v7rp9/when_i_upload_my_html_and_css_files_to_the/</link>
-      <description><![CDATA[所以当我将文档上传到后端时（我使用的是Hestia控制面板），在目录Home\Web\“我的网站域名”下;\public_html，访问被拒绝，代码403，当我使用HCP提供的wordpress编辑器时，没有这个问题。   由   提交 /u/Eric__Z   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18v7rp9/when_i_upload_my_html_and_css_files_to_the/</guid>
-      <pubDate>Sun, 31 Dec 2023 13:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Namecheap vs Porkbun vs Cloudflare</title>
-      <link>https://www.reddit.com/r/webdev/comments/18v72o8/namecheap_vs_porkbun_vs_cloudflare/</link>
-      <description><![CDATA[对这三者中最好的域名注册商有何想法/意见，为什么？   由   提交/u/-ThatGingerKid-  /u/-ThatGingerKid- reddit.com/r/webdev/comments/18v72o8/namecheap_vs_porkbun_vs_cloudflare/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18v72o8/namecheap_vs_porkbun_vs_cloudflare/</guid>
-      <pubDate>Sun, 31 Dec 2023 12:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netlify 与 Cloudflare 页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/18v70d8/netlify_vs_cloudflare_pages/</link>
-      <description><![CDATA[我一直在学习 Netlify 并开始向它发布一些 Astro 网站，到目前为止我已经获得了非常好的体验。不过，我刚刚了解了 Cloudflare Pages。我想了解您对这两者的想法和经验。   由   提交/u/-ThatGingerKid-  /u/-ThatGingerKid- reddit.com/r/webdev/comments/18v70d8/netlify_vs_cloudflare_pages/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18v70d8/netlify_vs_cloudflare_pages/</guid>
-      <pubDate>Sun, 31 Dec 2023 12:42:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是“优质域名”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18v5d6r/what_makes_a_premium_domain/</link>
-      <description><![CDATA[随着新 TLD 添加到 Cloudflare，我一直在尝试从 GoDaddy 迁移我的所有域名。我的一个域名具有受支持的 TLD，但 Cloudflare 不会转让它，因为它是“优质域名”。 我从未从任何人那里购买过该域名，并且在 GoDaddy 获得域名时正常注册了它，所以我不确定是什么让它变得“优质”。有没有办法改变它，这样它就不是高级的，这样我就可以把它移过来？   由   提交/u/AuthorityPath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18v5d6r/what_makes_a_premium_domain/</guid>
-      <pubDate>Sun, 31 Dec 2023 10:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[遗憾] 我有可能在 3 个月内从头开始创建一个全栈项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18v4o9v/regrets_is_it_possible_for_me_to_create_a_full/</link>
-      <description><![CDATA[我是一名学生，来到我们学院的公司希望我们在实习期间能够拥有一个全栈项目 我想学习React，因为它对大多数公司来说都是非常有必要的，我正在apna学院学习java 我相当精通C++，C，Python 但是还没有甚至没有接触过 HTML 和其他 webdev 的东西 你建议我学习哪门课程，我希望资源简洁，并且我可以在大学毕业后 3 个月内完成 我想学习整个 MERN 堆栈并制作项目 大多数学生都具备这一点，并且超出了大多数公司对 1 个项目的期望，他们还赢得了黑客马拉松   由   提交 /u/Glittering_Boot_3612   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18v4o9v/regrets_is_it_possible_for_me_to_create_a_full/</guid>
-      <pubDate>Sun, 31 Dec 2023 10:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
