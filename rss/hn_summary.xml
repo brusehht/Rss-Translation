@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 05:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 09:02:26 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者回忆高中时学习 BASIC 编程的经历并表示 [...]</title>
-      <link>https://t.me/hn_summary/66453</link>
-      <description><![CDATA[回到基础
-作者回忆了高中时学习 BASIC 编程的经历，并表达了再次尝试的愿望。他们提到有许多可用的 BASIC 实现，并决定尝试 QB64，这是 QBasic/QuickBasic 的编译器实现。作者接着描述了他们使用 QB64 绘制科赫雪花的体验，并指出 QB64 具有内置图形命令并且可以处理递归。他们还提供了一些有关 QB64 的注释，包括安装说明以及有关变量类型和行号的信息。作者最后指出，QB64 玩起来很有趣，并建议学生在学习 Python 等更复杂的语言之前，BASIC 可以成为一种很好的中级编程语言。]]></description>
-      <guid>https://t.me/hn_summary/66453</guid>
-      <pubDate>Sun, 31 Dec 2023 05:58:17 GMT</pubDate>
+      <title>[媒体] LuaX 是一种在 bvisness.me 网站上运行的自定义语言。</title>
+      <link>https://t.me/hn_summary/66475</link>
+      <description><![CDATA[LuaX：带有 JSX 的 Lua 方言
+LuaX 是一种在网站 bvisness.me 上运行的自定义语言。它与 JSX 类似，但针对 Lua。使用 LuaX，用户可以编写返回 HTML 块的 Lua 文件，从而允许他们创建更有趣和动态的网页。作者提供了一个 LuaX 主页的示例，展示了在 Lua 中定义数据、使用 Lua 函数创建 HTML 组件以及使用 Lua 的包系统组织模板的能力。作者解释说，他们创建 LuaX 是因为他们不喜欢静态站点以及当前组织 Markdown 文件和处理模板语言的工作流程。他们更喜欢更动态的方法，并欣赏 JSX 将 HTML 作为数据进行操作的能力。 （根据故事文本的 29% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/66475</guid>
+      <pubDate>Sun, 31 Dec 2023 09:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ProDOS 2.4.3 是一个次要版本，其中包括针对所有 Apple II c [...]</title>
-      <link>https://t.me/hn_summary/66452</link>
-      <description><![CDATA[适用于所有 Apple II 计算机的 ProDOS 2.4.3&lt; br/&gt;
-ProDOS 2.4.3 是一个次要版本，包括针对所有 Apple II 计算机的错误修复和更新。它取代了以前版本的 ProDOS。已修复的错误包括启动 A2osX 时的崩溃、区分具有相同卷名的磁盘的问题、以及启动屏幕和在目录中创建文件的问题。这些更新包括 2023-2028 年更新的 Thunderclock 驱动程序、BASIC.SYSTEM 的更新版本以及 RENAME 命令的改进。由于尺寸限制，最新版本的 ADT Pro 不再包含在内。作者邀请读者帮助开发或测试未来的版本，并提供了下载 ProDOS 磁盘映像的链接。也欢迎捐款支持持续的努力。]]></description>
-      <guid>https://t.me/hn_summary/66452</guid>
-      <pubDate>Sun, 31 Dec 2023 05:49:09 GMT</pubDate>
+      <title>[媒体]本文作者总结了2023年十篇值得关注的人工智能研究论文。</title>
+      <link>https://t.me/hn_summary/66474</link>
+      <description><![CDATA[2023年十大值得关注的人工智能研究论文
+该网页内容的作者总结了 2023 年 10 篇值得关注的人工智能研究论文。他们提到，今年对于机器学习和人工智能来说尤为重要，进步迅速，受欢迎程度也很高。作者更关注大型语言模型（LLM）论文而不是计算机视觉论文。他们解释说，论文的选择标准是基于个人的享受和影响。讨论的第一篇论文是“Pythia：跨训练和扩展分析大型语言模型的套件”，该论文因其发布的训练细节和见解而脱颖而出。其他提到的论文包括“Llama 2: Open Foundation and Fine-Tuned Chat Models”、“QLoRA: Efficient Finetuning of Quantized LLMs”、“BloombergGPT: A Large Language Model for Finance”和“Direct Preference Optimization: Your Language Model is Secretly”奖励模型。”作者强调了每篇论文的独特之处和贡献。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66474</guid>
+      <pubDate>Sun, 31 Dec 2023 08:48:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cardgames.io是一个专注于经典棋牌游戏的游戏网站。</title>
-      <link>https://t.me/hn_summary/66451</link>
-      <description><![CDATA[Cardgames.io
-Cardgames.io是一个专注于经典卡牌游戏的网站游戏。该网站旨在提供玩家已经了解和喜爱的这些游戏的简单且易于使用的版本。该界面有意保持整洁，并且没有太多选项来保持简单性。该网站不需要用户登录或存储他们的统计数据，因为所有内容都存储在浏览器中。 Cookie 用于游戏目的并收集广告数据。游戏中的电脑玩家不作弊，攻击性广告可举报删除。如需了解更多信息，用户可以参阅常见问题解答部分或联系支持人员。]]></description>
-      <guid>https://t.me/hn_summary/66451</guid>
-      <pubDate>Sun, 31 Dec 2023 04:55:46 GMT</pubDate>
+      <title>[媒体] Spomenik 数据库是 Donald Niebyl 创建的在线资源，旨在提供全面的 [...]</title>
+      <link>https://t.me/hn_summary/66473</link>
+      <description><![CDATA[Spomenik 数据库
+Spomenik 数据库是由 Donald Niebyl 创建的在线资源，旨在提供有关前南斯拉夫被称为“Spomeniks”的抽象现代主义二战纪念碑的全面信息。这些纪念碑建于 1960 年至 1990 年间，现在分布在多个国家。该数据库旨在教育人们了解这些历史文物，并鼓励他们直接探索和了解斯波门尼克人。网站定期更新，欢迎广大用户垂询。]]></description>
+      <guid>https://t.me/hn_summary/66473</guid>
+      <pubDate>Sun, 31 Dec 2023 08:44:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了对历史学家丽贝卡·西蒙 (Rebecca Simon) 的采访，内容涉及现实生活中的 ru [...]</title>
-      <link>https://t.me/hn_summary/66450</link>
-      <description><![CDATA[17 世纪海盗船上的生活并没有你想象的那么混乱&lt; /a&gt;
-本文讨论了对历史学家丽贝卡·西蒙 (Rebecca Simon) 的采访，内容涉及 17 世纪海盗船上海盗生活的现实规则和规定。西蒙解释说，海盗有行为准则和秩序感，这与普遍看法相反。他们有特定的角色和职责，战利品按照等级平均分配。如果海盗们认为他们的船长做得不好，他们也可以投票罢免他们的船长。西蒙揭穿了对海盗的一些误解，例如埋藏宝藏的想法以及将海盗描绘成受压迫者的捍卫者。她还讨论了女海盗在伪装成男性时所面临的挑战。 （根据 82% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66450</guid>
-      <pubDate>Sun, 31 Dec 2023 04:28:32 GMT</pubDate>
+      <title>[媒体]稻田上的“坦博艺术”——巨型画布</title>
+      <link>https://t.me/hn_summary/66472</link>
+      <description><![CDATA[稻田上的“坦博艺术”——巨型画布
+“Tambo Art”是日本一种独特的艺术形式，以稻田为画布，创作大型设计。稻田里种植着不同品种的水稻，它们有彩色的叶子和粒头，创造出充满活力和复杂的图案。青森县田舍馆村和埼玉县行田市以其精致的 Tambo 艺术创作而闻名，其设计灵感源自日本神话和民间传说。创作 Tambo Art 的过程包括精心培育稻苗、准备稻田和种植水稻。坦博艺术已成为一个受欢迎的旅游景点，每年吸引成千上万的游客。此外，收获的稻草中的稻草还被用来创作艺术品。总体而言，坦博艺术将农业、艺术和旅游业结合起来，促进地区联系并展示日本稻田的美丽。]]></description>
+      <guid>https://t.me/hn_summary/66472</guid>
+      <pubDate>Sun, 31 Dec 2023 08:42:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Misty 编程语言是由 Douglas C 开发的一种新型创新语言 [...]</title>
-      <link>https://t.me/hn_summary/66449</link>
-      <description><![CDATA[Misty 编程语言
-Misty 编程语言是由 Douglas Crockford 开发的一种新型创新语言。它将于 2023 年发布到公共领域。Misty 旨在提供一种独特且巧妙的编程方法，为开发人员提供全新的视角和新的工作工具。虽然目前围绕 Misty 还没有争议，但它无疑是编程语言领域令人兴奋的发展。请继续关注 Misty 的更多更新及其未来几年的发布。]]></description>
-      <guid>https://t.me/hn_summary/66449</guid>
-      <pubDate>Sun, 31 Dec 2023 04:28:25 GMT</pubDate>
+      <title>[媒体]欧洲航天局 (ESA) 领导的一个项目已经测试了适合道路行驶的 [...]</title>
+      <link>https://t.me/hn_summary/66471</link>
+      <description><![CDATA[如何在月球上修路
+欧洲航天局 (ESA) 领导的一个项目测试了通过使用强大的激光熔化模拟月尘来在月球上创建适合道路行驶的表面。该项目名为“PAVER”，旨在铺平月球上的活动区域，包括道路和着陆场，以防止超细、磨蚀性和粘性的月球尘埃进入海湾。该团队实现了 5-10 厘米的光斑尺寸，并使用直径 4.5 厘米的激光束创建了三角形、中心空心的形状，这些形状可以联锁形成固体表面。所得材料呈玻璃状且易碎，但可以根据需要进行修复。]]></description>
+      <guid>https://t.me/hn_summary/66471</guid>
+      <pubDate>Sun, 31 Dec 2023 08:38:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯州将成为太阳能行业的主要参与者，建设一个[...]</title>
-      <link>https://t.me/hn_summary/66448</link>
-      <description><![CDATA[德克萨斯州将向美国各地发送大量太阳能组件&lt; /a&gt;
-德克萨斯州将成为太阳能行业的主要参与者，新工厂的建设目标是每年生产 5 吉瓦的太阳能组件。该工厂由印度太阳能公司 Waaree Energies 建造，将成为美国第一家此类工厂，并将显着促进该州太阳能制造业的发展。此举出台之际，德克萨斯州官员因保护石油和天然气利益而受到批评，面临着投资可再生能源项目的越来越大的压力。该工厂还将帮助 Waaree Energies 扩大其在美国的业务，并履行与 SB Energy 的长期供应协议。]]></description>
-      <guid>https://t.me/hn_summary/66448</guid>
-      <pubDate>Sun, 31 Dec 2023 04:12:16 GMT</pubDate>
+      <title>[媒体]天文学家进行的一项新的计算机模拟表明，大型小行星[...]</title>
+      <link>https://t.me/hn_summary/66470</link>
+      <description><![CDATA[模型表明靠近地球的小行星会被地球引力撕裂
+天文学家进行的一项新计算机模拟表明，靠近地球的大型小行星可能会被地球引力撕裂。研究人员米凯尔·格兰维克（Mikael Granvik）和凯文·沃尔什（Kevin Walsh）开发了一个模型来计算不同大小小行星的轨迹，并估计它们在距地球不同距离处的数量。通过将他们的模型与现实世界的数据进行比较，他们发现他们的估计要低得多，这使他们相信被地球引力撕裂的小行星可以解释这种差异。模拟结果表明，该模型准确地模拟了观测到的小型小行星的数量，这表明它还可以预测较大小行星被撕裂的可能性。]]></description>
+      <guid>https://t.me/hn_summary/66470</guid>
+      <pubDate>Sun, 31 Dec 2023 08:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了开源软件和专有软件之间持续存在的斗争。</title>
-      <link>https://t.me/hn_summary/66447</link>
-      <description><![CDATA[开源软件与专有软件之间永恒的斗争&lt; br/&gt;
-本文讨论了开源软件和专有软件之间持续存在的斗争。它强调了围绕专有技术的混乱或争议导致人们寻找开源替代品的几个例子。例如，当 Twitter 在埃隆·马斯克 (Elon Musk) 的领导下衰落时，许多用户转向了 Mastodon 和 Bluesky 等开源平台。文章还提到了 OpenAI 的惨败以及谷歌泄露的内部备忘录，表达了对开源 AI 的担忧。此外，它还讨论了开源社区面临困境的实例，这些困境通常是由专有公司造成的。本文强调了开源软件的力量和危险，展示了它如何提供替代方案，但也带来了不确定性和冲突。]]></description>
-      <guid>https://t.me/hn_summary/66447</guid>
-      <pubDate>Sun, 31 Dec 2023 04:09:08 GMT</pubDate>
+      <title>量子计算迄今为止取得了哪些成就？</title>
+      <link>https://t.me/hn_summary/66469</link>
+      <description><![CDATA[量子计算迄今为止取得了哪些成就？
+作者是一名网络开发人员，表达了他们在理解量子计算的切实进步方面的挣扎。虽然承认存在展示经典计算机无法达到的结果的论文，但他们质疑这些发现的实际应用。]]></description>
+      <guid>https://t.me/hn_summary/66469</guid>
+      <pubDate>Sun, 31 Dec 2023 08:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了询问客户想要什么的问题，并强调了 [...]</title>
-      <link>https://t.me/hn_summary/66446</link>
-      <description><![CDATA[询问客户想要什么是行不通的 
-本文讨论了询问客户想要什么的问题，并强调了“待完成的工作”的概念，作为理解客户需求的更好方法。它列举了 Intuit 和一家快餐连锁店等公司的例子，尽管进行了广泛的调查和研究，但仍未能满足客户的期望。然后，本文介绍了一些成功创新的例子，这些创新源于对客户想要完成的工作的理解，例如 Khan Academy、Airbnb 和 OpenTable。它强调了观察客户的补偿行为和寻找高潜力创新机会的重要性。作者建议将“待完成的工作”概念应用于不同的问题，并提供在组织中实施该概念的技术。]]></description>
-      <guid>https://t.me/hn_summary/66446</guid>
-      <pubDate>Sun, 31 Dec 2023 03:51:57 GMT</pubDate>
+      <title>[媒体]Emacs Copilot 是一个旨在为 [...] 提供大型语言模型代码补全的项目</title>
+      <link>https://t.me/hn_summary/66468</link>
+      <description><![CDATA[Emacs-copilot：Emacs 的大型语言模型代码完成
+Emacs Copilot 是一个旨在为 Emacs 提供大型语言模型代码补全的项目。它允许用户使用本地运行的语言模型 (LLM) 进行结对编程，该模型在 Emacs 缓冲区内生成代码补全。该项目声称与 Github Copilot 和 VSCode 等类似工具相比，在质量和自由度方面更加出色。它与语言无关，并根据文件扩展名支持不同的编程语言。该项目提供了 Emacs Lisp 中的参考实现，还提供了可与 Emacs Copilot 一起使用的不同 LLM 的下载链接。该项目还包括下载 Emacs 的说明和故障排除提示。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/66468</guid>
+      <pubDate>Sun, 31 Dec 2023 08:24:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Midihum 是一种基于机器学习的工具，旨在通过 adj [...]</title>
-      <link>https://t.me/hn_summary/66445</link>
-      <description><![CDATA[Midihum：基于机器学习的 MIDI 人性化工具&lt; br/&gt;
-Midihum 是一种基于机器学习的工具，旨在通过调整每个音符的力度值来人性化 MIDI 作品。该工具使用梯度增强树，并根据比赛中的 2.6K 钢琴演奏进行训练。它旨在使数字作品听起来更加自然和富有表现力，帮助用户在音乐中找到高潮和放松时刻。该工具通过命令行易于使用，并且经过了过去五年的开发。它对于巴洛克、古典和浪漫时期的钢琴独奏作品表现良好。该工具还可以捕获合成过程中的动态并可以预测极端速度值。 Midihum 采用 GPLv3 许可证分发，可以免费用于制作音乐，无需注明作者。]]></description>
-      <guid>https://t.me/hn_summary/66445</guid>
-      <pubDate>Sun, 31 Dec 2023 03:21:39 GMT</pubDate>
+      <title>本文讨论了数据库中的基准测试和性能评估的挑战。</title>
+      <link>https://t.me/hn_summary/66467</link>
+      <description><![CDATA[要求不可能：严格的数据库基准测试
+本文讨论了数据库中的基准测试和性能评估的挑战。它强调了对特定数据库领域和一般分析方面的专业知识的需求。作者还提到了处理已知和未知因素以及建立数据库的综合心智模型的难度。本文介绍了一种数据库模型，该模型将数据库视为一个具有多个维度的复杂系统，包括数据库参数、硬件资源、工作负载参数和性能结果。作者认为错误配置是数据库中的一个常见问题，并强调选择正确规模进行基准测试的重要性。 （根据 27% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66467</guid>
+      <pubDate>Sun, 31 Dec 2023 08:02:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]马士基集装箱船“马士基杭州”号在红海被导弹击中，[...]</title>
-      <link>https://t.me/hn_summary/66444</link>
-      <description><![CDATA[马士基轮船在红海被导弹击中&lt; br/&gt;
-据美国中央司令部称，马士基集装箱船“马士基杭州号”在红海遭到导弹袭击。该船在穿越南红海时遭遇撞击，请求援助。格拉夫利号和拉伯恩号对此事件作出反应，成功击落两枚从也门胡塞武装控制区发射的反舰弹道导弹。在另一艘马士基船只遭遇导弹袭击后，出于安全考虑，马士基此前暂停了通过红海的运输。此次事件是自去年11月银河领袖号汽车运输船被劫持以来，胡塞武装对国际航运的第23次非法袭击。]]></description>
-      <guid>https://t.me/hn_summary/66444</guid>
-      <pubDate>Sun, 31 Dec 2023 03:21:33 GMT</pubDate>
+      <title>我们是否需要负面访问控制规则（一般而言）？</title>
+      <link>https://t.me/hn_summary/66466</link>
+      <description><![CDATA[我们是否需要负面访问控制规则（一般情况下）？
+该网页内容的作者讨论了负面访问控制规则的使用。他们解释说，一些系统默认实施了拒绝访问并只允许积极访问控制规则的策略。作者最初认为这让他们的生活变得更加困难，但经过进一步考虑，他们意识到负面访问规则实际上可以让事情变得不那么复杂。它们提供了需要负面访问规则的情况的示例，例如在防火墙和 VPN 中。作者的结论是，他们更喜欢在访问控制系统中同时拥有积极和消极的规则，因为这赋予他们更多的权力，并允许更直接地表达所需的内容。]]></description>
+      <guid>https://t.me/hn_summary/66466</guid>
+      <pubDate>Sun, 31 Dec 2023 07:01:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
