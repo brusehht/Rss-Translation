@@ -4,11 +4,32 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 12:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 15:11:08 GMT</lastBuildDate>
+    <item>
+      <title>用于在计算机上录制屏幕的程序</title>
+      <link>https://www.reddit.com/r/software/comments/18v883w/program_za_snimanje_ekrana_na_racunaru/</link>
+      <description><![CDATA[是否有一个经过验证的程序可以记录计算机上所做的一切，可能对用户不可见。 &lt; ! -- SC_ON --&gt;  由   提交/u/Bitter-Economics-227   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18v883w/program_za_snimanje_ekrana_na_racunaru/</guid>
+      <pubDate>Sun, 31 Dec 2023 13:53:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些功能强大但由于用户界面不佳而未能成功的应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/18v74sy/what_are_some_apps_with_great_functionality_that/</link>
+      <description><![CDATA[ 由   提交 /u/WinXPbootsup   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18v74sy/what_are_some_apps_with_great_functionality_that/</guid>
+      <pubDate>Sun, 31 Dec 2023 12:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持 hevc 265 的 movavi 视频转换器替代方案（非专业使用）</title>
+      <link>https://www.reddit.com/r/software/comments/18v6svq/movavi_video_converter_alternative_that_supports/</link>
+      <description><![CDATA[movavi 很好，因为它易于使用，剪切和裁剪视频，然后转换为其他格式或简单地降低比特率 问题是 movavi 不支持 hevc h265，所以我必须将所有视频转换为 h264 才能使用 movavi 编辑它们 快门相当不错，但进行多次剪切是一个问题巨大的痛苦（复杂的过程） - 特别是在制作很多视频时。而且它只剪切而不转换，所以你必须剪切，然后添加新文件，然后转换 - 这样很麻烦 像 kdnlive 或 DaVinci Resolve 这样的视频编辑器非常复杂，尤其是在剪切和裁剪很多内容的情况下视频。  我需要一些简单的东西 手刹仅用于转换，无法编辑 谢谢 windows 10 22h2   由   提交 /u/vanderzee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18v6svq/movavi_video_converter_alternative_that_supports/</guid>
+      <pubDate>Sun, 31 Dec 2023 12:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么可以捕获与浏览器上看到的网页完全相同的网页？</title>
       <link>https://www.reddit.com/r/software/comments/18v3r3l/is_there_anything_that_can_capture_a_webpage/</link>
-      <description><![CDATA[不是图像或依赖纸张大小的 PDF，而是网站的整个页面。只是捕获的一页，不需要链接和链接所带的页面 只是为了捕获这一页，此时此刻，可以随时保存并再次检查，即使是在离线，即使服务器被关闭。 我发现捕获到 PDF 受到纸张尺寸的限制，因此经常会在尴尬的地方被剪切 而且图像很烦人不要选择文本 最好是也可以在网络浏览器中打开的文本   由   提交 /u/outerzenith   [链接] [评论]]]></description>
+      <description><![CDATA[不是图像或依赖纸张大小的 PDF，而是网站的整个页面。只是捕获的一页，不需要链接和链接所带的页面 只是捕获这一页，此时此刻，可以随时保存并再次检查，即使是在离线，即使服务器被关闭。 我发现捕获到 PDF 受到纸张尺寸的限制，因此它经常会在尴尬的地方被剪切 而且图像很烦人不要选择文本 最好是也可以在网络浏览器中打开的文本   由   提交 /u/outerzenith   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18v3r3l/is_there_anything_that_can_capture_a_webpage/</guid>
       <pubDate>Sun, 31 Dec 2023 08:56:55 GMT</pubDate>
     </item>
@@ -64,14 +85,14 @@
     <item>
       <title>有人可以推荐带有透视校正和 PDF 工具的好扫描软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/18uq1et/can_someone_suggest_good_scanning_software_with/</link>
-      <description><![CDATA[我当前的扫描仪 (OpticSlim 1180) 附带了一些名为“ABBYY FineReader 12 Sprint”的软件，感觉有点过时并且没有免费更新。它甚至不是那么好，但它做了 3 件重要的事情： 1. 扫描图像。 2. 允许我将它们排队并编辑它们，然后将它们全部保存到 PDF 或一批图像中。 3. 在编辑时，允许在裁剪或选择某些区域时进行透视校正，因此我不必处理旋转或尝试平整倾斜的线条。 该软件的问题是它会尝试自动校正图像，并且无法将其关闭，因此当它使图像变得更糟时，修复起来会非常痛苦。没有真正的颜色调整或增强功能。虽然它确实允许我创建 PDF，但它没有任何有用的功能，例如为 PDF 添加水印、设置编辑密码或除基本 PDF 创建之外的任何其他功能。 免费固然好，但并非如此。必需的。如果有软件可以处理除扫描之外的所有事情，如果没有任何其他选项，我总是可以使用旧软件批量扫描。 如果有帮助，我主要做的就是扫描为后代提供旧杂志和目录。我目前使用的是 Windows 10，但一旦支持结束，我会在找到适合我的发行版后切换到 Linux。   由   提交 /u/MyBallsSmellFruity   [链接] [评论]]]></description>
+      <description><![CDATA[我当前的扫描仪 (OpticSlim 1180) 附带了一些名为“ABBYY FineReader 12 Sprint”的软件，感觉有点过时并且没有免费更新。它甚至没有那么好，但它做了 3 件重要的事情： 1. 扫描图像。 2. 允许我将它们排队并编辑它们，然后再将它们全部保存到 PDF 或一批图像中。 3. 在编辑时，允许在裁剪或选择某些区域时进行透视校正，因此我不必处理旋转或尝试平整倾斜的线条。 该软件的问题是它会尝试自动校正图像，并且无法将其关闭，因此当它使图像变得更糟时，修复起来会非常痛苦。没有真正的颜色调整或增强功能。虽然它确实允许我创建 PDF，但它没有任何有用的功能，例如为 PDF 添加水印、设置编辑密码或除基本 PDF 创建之外的任何其他功能。 免费固然好，但并非如此。必需的。如果有软件可以处理除扫描之外的所有事情，如果没有任何其他选项，我总是可以使用旧软件批量扫描。 如果有帮助，我主要做的就是扫描为后代提供旧杂志和目录。我目前使用的是 Windows 10，但一旦支持结束，我会在找到适合我的发行版后切换到 Linux。   由   提交 /u/MyBallsSmellFruity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18uq1et/can_someone_suggest_good_scanning_software_with/</guid>
       <pubDate>Sat, 30 Dec 2023 21:18:28 GMT</pubDate>
     </item>
     <item>
       <title>在不同的设备上运行设备特定的程序？</title>
       <link>https://www.reddit.com/r/software/comments/18uo7g2/running_a_device_specific_program_on_a_different/</link>
-      <description><![CDATA[大家好，如果这不适合发帖，请提前致歉。 我有一台 Windows 游戏掌上电脑，但是与之捆绑在一起的控制中心很糟糕，用户体验也很糟糕，还有另一家手持设备制造商拥有自己的软件，看起来好 1000 倍，我想运行它。我下载了它，安装了它，它打开了，但我看到一个屏幕，说基本上软件不会在我的设备上运行，因为它不是他们的设备品牌，有人知道我如何解决这个问题吗？我很欣赏这是非常模糊的，如果不查看特定的软件本身可能无法告诉我，但如果有人能给我一些关于像这样的软件通常如何检查某种设备 ID 或标记的想法，我可以弄清楚如何绕过这个。  提前致谢！   由   提交/u/Camoflauge94  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，如果这不适合发帖，请提前致歉。 我有一台 Windows 游戏掌上电脑，但是与之捆绑在一起的控制中心很糟糕，用户体验也很糟糕，还有另一家手持设备制造商拥有自己的软件，看起来好 1000 倍，我想运行它。我下载了它，安装了它，它打开了，但我看到一个屏幕，说基本上软件不会在我的设备上运行，因为它不是他们的设备品牌，有谁知道我如何解决这个问题？我很欣赏这是非常模糊的，如果不查看特定的软件本身可能无法告诉我，但如果有人能给我一些关于这样的软件通常如何检查某种设备 ID 或标记的想法，我可以弄清楚如何绕过这个。  提前致谢！   由   提交/u/Camoflauge94  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18uo7g2/running_a_device_specific_program_on_a_different/</guid>
       <pubDate>Sat, 30 Dec 2023 19:59:09 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[TL;DR：我正在 VR 中进行实验，需要一种方法来采用全屏或窗口应用程序（有问题的应用程序同时支持）并将其分割为多个较小的裁剪窗口而不是一个大窗口。我不一定需要能够与这些窗口交互，但这会很好。 我找到了一种使用 OBS 执行此操作的方法，但我需要为每个窗口提供一个 OBS 实例和一个需要进行大量的修补才能使其发挥作用，而且交互也不起作用。有更简单的方法吗？ 我运行的是 Windows 10。 ​ 更多详细信息： 有一款名为 EVE Online 的游戏，人们经常询问是否可以在 VR 中玩，我想演示一下它实际上可能是什么样子。游戏客户端内有多个窗口和屏幕区域，这些窗口和屏幕区域可能在 VR 环境中作为单独的窗口很好地工作，但是这些都作为一个大窗口呈现给操作系统，而 VR 环境需要单独的窗口才能工作。我想找到一种方法将一个大窗口呈现为操作系统的几个较小的裁剪窗口。   由   提交 /u/AlexCivitello   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ukvxm/need_app_to_split_window_into_multiple_windows/</guid>
       <pubDate>Sat, 30 Dec 2023 17:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有扩展程序或程序能够自动拒绝所有 cookie？</title>
-      <link>https://www.reddit.com/r/software/comments/18uhpav/is_there_an_extention_or_program_to_be_able_to/</link>
-      <description><![CDATA[我厌倦了必须手动拒绝我访问的任何网站上的所有 Cookie，拒绝 Cookie 的时间比阅读之后的内容要花更长的时间。 如果有适用于 iOS (iPad)、Andorid 和 Windows 的解决方案，我会洗耳恭听。在所有硬件上使用 chrome。   由   提交 /u/EvoRalliArt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18uhpav/is_there_an_extention_or_program_to_be_able_to/</guid>
-      <pubDate>Sat, 30 Dec 2023 15:11:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flash 播放器模拟器合法吗？</title>
-      <link>https://www.reddit.com/r/software/comments/18ugq8i/are_flash_player_emulators_legal/</link>
-      <description><![CDATA[我专门谈论 Ruffle 或 Newgrounds 制作的东西。有些网站现在甚至内置了 Ruffle。这可以合法使用吗？我听说它是​​自己建造的，但我仍然不确定。   由   提交 /u/NeurodivergentMoomin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18ugq8i/are_flash_player_emulators_legal/</guid>
-      <pubDate>Sat, 30 Dec 2023 14:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>请推荐一个图像大小压缩工具</title>
-      <link>https://www.reddit.com/r/software/comments/18uglvu/please_recommend_a_image_size_compression_tool/</link>
-      <description><![CDATA[亲爱的朋友们，我正在寻找一个类似于Jpegmini但免费的图像压缩工具。 JPEGmini 没有要定义的设置，它会自动将图像压缩到最佳尺寸，我正在寻找替代/免费软件等。   由   提交/u/DJparada  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18uglvu/please_recommend_a_image_size_compression_tool/</guid>
-      <pubDate>Sat, 30 Dec 2023 14:18:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
