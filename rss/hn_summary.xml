@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 03:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 05:58:17 GMT</lastBuildDate>
     <item>
-      <title>Web 内容是有关如何在不使用 Git 的情况下创建提交的教程。</title>
-      <link>https://t.me/hn_summary/66443</link>
-      <description><![CDATA[不使用 Git 进行提交
-Web 内容是有关如何在不使用 Git 的情况下创建提交的教程。作者解释说，本教程的目的是更好地理解 Git 中的主要数据结构，称为“git 对象”。本教程提供有关如何使用 Python 代码创建 blob（二进制大对象）、树和提交的分步说明。作者还解释了 git 对象在存储不同版本的项目文件和元数据方面的结构和重要性。本教程最后演示了如何使用 Git 验证创建的提交。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66443</guid>
-      <pubDate>Sun, 31 Dec 2023 03:09:25 GMT</pubDate>
+      <title>[媒体]作者回忆高中时学习 BASIC 编程的经历并表示 [...]</title>
+      <link>https://t.me/hn_summary/66453</link>
+      <description><![CDATA[回到基础
+作者回忆了高中时学习 BASIC 编程的经历，并表达了再次尝试的愿望。他们提到有许多可用的 BASIC 实现，并决定尝试 QB64，这是 QBasic/QuickBasic 的编译器实现。作者接着描述了他们使用 QB64 绘制科赫雪花的体验，并指出 QB64 具有内置图形命令并且可以处理递归。他们还提供了一些有关 QB64 的注释，包括安装说明以及有关变量类型和行号的信息。作者最后指出，QB64 玩起来很有趣，并建议学生在学习 Python 等更复杂的语言之前，BASIC 可以成为一种很好的中级编程语言。]]></description>
+      <guid>https://t.me/hn_summary/66453</guid>
+      <pubDate>Sun, 31 Dec 2023 05:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我个人网站上的这篇博文中，我很高兴地宣布 ECS 的发布 [...]</title>
-      <link>https://t.me/hn_summary/66442</link>
-      <description><![CDATA[ECS，终于
-在我个人网站上的这篇博文中，我很高兴地宣布推出 ECS（实体组件系统），这是游戏开发领域期待已久的功能。 ECS 是一个强大的架构，允许开发人员通过将实体分离为组件和系统来创建复杂且可扩展的游戏系统。这一直是游戏开发者讨论和期待的话题，现在终于来了。我很高兴能分享我对 ECS 以及它如何彻底改变游戏开发的想法和见解。请继续关注有关这一突破性技术的更多更新和教程。]]></description>
-      <guid>https://t.me/hn_summary/66442</guid>
-      <pubDate>Sun, 31 Dec 2023 02:53:14 GMT</pubDate>
+      <title>[媒体] ProDOS 2.4.3 是一个次要版本，其中包括针对所有 Apple II c [...]</title>
+      <link>https://t.me/hn_summary/66452</link>
+      <description><![CDATA[适用于所有 Apple II 计算机的 ProDOS 2.4.3&lt; br/&gt;
+ProDOS 2.4.3 是一个次要版本，包括针对所有 Apple II 计算机的错误修复和更新。它取代了以前版本的 ProDOS。已修复的错误包括启动 A2osX 时的崩溃、区分具有相同卷名的磁盘的问题、以及启动屏幕和在目录中创建文件的问题。这些更新包括 2023-2028 年更新的 Thunderclock 驱动程序、BASIC.SYSTEM 的更新版本以及 RENAME 命令的改进。由于尺寸限制，最新版本的 ADT Pro 不再包含在内。作者邀请读者帮助开发或测试未来的版本，并提供了下载 ProDOS 磁盘映像的链接。也欢迎捐款支持持续的努力。]]></description>
+      <guid>https://t.me/hn_summary/66452</guid>
+      <pubDate>Sun, 31 Dec 2023 05:49:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 博客文章的作者讨论了他们对压缩技术的探索，特别是 [...]</title>
-      <link>https://t.me/hn_summary/66441</link>
-      <description><![CDATA[压缩冒险
-博客文章的作者讨论了他们对压缩技术的探索，特别是在压缩 1 GB 维基百科数据文件的情况下。他们最初对“意外”的概念感兴趣，该概念衡量文档中单词的“意外”性质。这促使他们尝试字典编码和量化。然而，他们最终意识到没有必要感到惊讶，并决定为最常见的单词分配较小的数字。他们还探索了使用 gzip 和 brotli 的文件结构优化和两阶段压缩。作者最后提到了他们考虑的其他压缩途径，例如使用 Burrows-Wheeler 变换或将文本编码为图像。他们表达了对该项目的热情以及继续探索新方向的愿望。]]></description>
-      <guid>https://t.me/hn_summary/66441</guid>
-      <pubDate>Sun, 31 Dec 2023 02:52:10 GMT</pubDate>
+      <title>[媒体] Cardgames.io是一个专注于经典棋牌游戏的游戏网站。</title>
+      <link>https://t.me/hn_summary/66451</link>
+      <description><![CDATA[Cardgames.io
+Cardgames.io是一个专注于经典卡牌游戏的网站游戏。该网站旨在提供玩家已经了解和喜爱的这些游戏的简单且易于使用的版本。该界面有意保持整洁，并且没有太多选项来保持简单性。该网站不需要用户登录或存储他们的统计数据，因为所有内容都存储在浏览器中。 Cookie 用于游戏目的并收集广告数据。游戏中的电脑玩家不作弊，攻击性广告可举报删除。如需了解更多信息，用户可以参阅常见问题解答部分或联系支持人员。]]></description>
+      <guid>https://t.me/hn_summary/66451</guid>
+      <pubDate>Sun, 31 Dec 2023 04:55:46 GMT</pubDate>
     </item>
     <item>
-      <title>搜索结果有多糟糕？</title>
-      <link>https://t.me/hn_summary/66440</link>
-      <description><![CDATA[搜索结果有多糟糕？比较 Google、Bing、Marginalia、Kagi 和 ChatGPT
-本文讨论了各种搜索引擎（包括 Google、Bing、Marginalia、Kagi 和 ChatGPT）上的搜索结果质量。作者提到，许多科技专业人士认为，谷歌搜索结果的质量在过去十年中有所下降，而其他人则认为它们仍然很棒。作者使用不同类型的查询进行了实验，并根据结果的质量对搜索引擎进行了评分。他们还强调了一些有趣的发现，例如谷歌倾向于优先考虑最近的 YouTube 视频以及搜索结果中存在诈骗和误导性广告。作者的结论是，搜索引擎受利润动机的影响很大，可能并不总是优先考虑为用户提供最佳结果。 （根据故事文本的 11% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66440</guid>
-      <pubDate>Sun, 31 Dec 2023 02:40:00 GMT</pubDate>
+      <title>[媒体]本文讨论了对历史学家丽贝卡·西蒙 (Rebecca Simon) 的采访，内容涉及现实生活中的 ru [...]</title>
+      <link>https://t.me/hn_summary/66450</link>
+      <description><![CDATA[17 世纪海盗船上的生活并没有你想象的那么混乱&lt; /a&gt;
+本文讨论了对历史学家丽贝卡·西蒙 (Rebecca Simon) 的采访，内容涉及 17 世纪海盗船上海盗生活的现实规则和规定。西蒙解释说，海盗有行为准则和秩序感，这与普遍看法相反。他们有特定的角色和职责，战利品按照等级平均分配。如果海盗们认为他们的船长做得不好，他们也可以投票罢免他们的船长。西蒙揭穿了对海盗的一些误解，例如埋藏宝藏的想法以及将海盗描绘成受压迫者的捍卫者。她还讨论了女海盗在伪装成男性时所面临的挑战。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66450</guid>
+      <pubDate>Sun, 31 Dec 2023 04:28:32 GMT</pubDate>
     </item>
     <item>
-      <title>Spindle 是一款独特而巧妙的游戏，结合了 Wordle 和魔方的元素。</title>
-      <link>https://t.me/hn_summary/66439</link>
-      <description><![CDATA[Show HN：主轴，Wordle 和魔方的结合体在 PHP 中
-Spindle 是一款独特而巧妙的游戏，结合了 Wordle 和魔方的元素。目标是重新排列网格以水平或垂直拼出目标单词。玩家可以向任一方向旋转单词以获得所需的排列。例如，旋转“CAT”可能会导致“TAC”，如果反向旋转，甚至会导致“CHAT”。挑战在于使用尽可能少的旋转来组装目标单词。前往 playspindle.com 开始玩这个有趣且令人上瘾的游戏。]]></description>
-      <guid>https://t.me/hn_summary/66439</guid>
-      <pubDate>Sun, 31 Dec 2023 02:37:54 GMT</pubDate>
+      <title>[媒体] Misty 编程语言是由 Douglas C 开发的一种新型创新语言 [...]</title>
+      <link>https://t.me/hn_summary/66449</link>
+      <description><![CDATA[Misty 编程语言
+Misty 编程语言是由 Douglas Crockford 开发的一种新型创新语言。它将于 2023 年发布到公共领域。Misty 旨在提供一种独特且巧妙的编程方法，为开发人员提供全新的视角和新的工作工具。虽然目前围绕 Misty 还没有争议，但它无疑是编程语言领域令人兴奋的发展。请继续关注 Misty 的更多更新及其未来几年的发布。]]></description>
+      <guid>https://t.me/hn_summary/66449</guid>
+      <pubDate>Sun, 31 Dec 2023 04:28:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1995年，ColdFusion由Jeremy和J.J.开发。</title>
-      <link>https://t.me/hn_summary/66438</link>
-      <description><![CDATA[构建 Web 版 ColdFusion
-1995 年，Jeremy 和 J.J. 开发了 ColdFusion。 Allaire 作为一种专门用于构建网站的编程语言。与 Perl 或 Ruby 等其他语言不同，ColdFusion 的设计目的是直接与 Web 兼容并且易于使用。它具有内置的数据库连接和一种名为 CFML 的标记语言，可实现高级数据转换和查询。 Allaire 兄弟希望 ColdFusion 感觉就像构建任何其他网站一样，因此他们确保用户的进入门槛较低。多年来，ColdFusion 不断发展并添加了电子邮件扩展、讨论板和电子商务功能等功能。它经历了多次收购，包括并入 Macromedia 软件套件，后来被 Adob​​e 收购。尽管受欢迎程度逐渐减弱，ColdFusion 每隔几年就会发布新版本。]]></description>
-      <guid>https://t.me/hn_summary/66438</guid>
-      <pubDate>Sun, 31 Dec 2023 02:36:48 GMT</pubDate>
+      <title>[媒体]德克萨斯州将成为太阳能行业的主要参与者，建设一个[...]</title>
+      <link>https://t.me/hn_summary/66448</link>
+      <description><![CDATA[德克萨斯州将向美国各地发送大量太阳能组件&lt; /a&gt;
+德克萨斯州将成为太阳能行业的主要参与者，新工厂的建设目标是每年生产 5 吉瓦的太阳能组件。该工厂由印度太阳能公司 Waaree Energies 建造，将成为美国第一家此类工厂，并将显着促进该州太阳能制造业的发展。此举出台之际，德克萨斯州官员因保护石油和天然气利益而受到批评，面临着投资可再生能源项目的越来越大的压力。该工厂还将帮助 Waaree Energies 扩大其在美国的业务，并履行与 SB Energy 的长期供应协议。]]></description>
+      <guid>https://t.me/hn_summary/66448</guid>
+      <pubDate>Sun, 31 Dec 2023 04:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，作者讨论了来自 rust-analyzer 代码库的一个奇怪的评论 [...]</title>
-      <link>https://t.me/hn_summary/66437</link>
-      <description><![CDATA[语言服务器的核心
-在这篇文章中，作者讨论了来自 rust-analyzer 代码库的一个奇怪的评论，该评论描述了不同语言服务器中使用的递归算法。该算法用于确定光标在源代码中的当前位置并理解该位置代码的语义。作者解释说，虽然语法树可以提供一些信息，但需要语义分析才能完全理解代码。然而，语义分析涉及多层中间表示，这些中间表示与语法树没有直接关系。作者还强调了使用文本跨度来表示语义元素的缺点，并建议高性能语言服务器应避免不必要的分析并在语法和语义之间找到平衡。]]></description>
-      <guid>https://t.me/hn_summary/66437</guid>
-      <pubDate>Sun, 31 Dec 2023 02:17:37 GMT</pubDate>
+      <title>[媒体]本文讨论了开源软件和专有软件之间持续存在的斗争。</title>
+      <link>https://t.me/hn_summary/66447</link>
+      <description><![CDATA[开源软件与专有软件之间永恒的斗争&lt; br/&gt;
+本文讨论了开源软件和专有软件之间持续存在的斗争。它强调了围绕专有技术的混乱或争议导致人们寻找开源替代品的几个例子。例如，当 Twitter 在埃隆·马斯克 (Elon Musk) 的领导下衰落时，许多用户转向了 Mastodon 和 Bluesky 等开源平台。文章还提到了 OpenAI 的惨败以及谷歌泄露的内部备忘录，表达了对开源 AI 的担忧。此外，它还讨论了开源社区面临困境的实例，这些困境通常是由专有公司造成的。本文强调了开源软件的力量和危险，展示了它如何提供替代方案，但也带来了不确定性和冲突。]]></description>
+      <guid>https://t.me/hn_summary/66447</guid>
+      <pubDate>Sun, 31 Dec 2023 04:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人惊讶的是，倒下的加密货币大亨 Sam Bankman-Fried 不会 [...]</title>
-      <link>https://t.me/hn_summary/66436</link>
-      <description><![CDATA[Bankman-Fried 不会因剩余指控而面临第二次审判
-令人惊讶的是，倒下的加密货币大亨萨姆·班克曼-弗里德(Sam Bankman-Fried)将不会面临针对他的其余指控的第二次审判。班克曼-弗里德最近被判犯有大规模欺诈罪，最初将面临额外指控，包括串谋贿赂外国官员、实施银行欺诈以及经营未经许可的汇款业务。然而，为了权宜之计，检察官决定撤销这些指控。这一决定引发了人们对政府案件的力度以及围绕原定罪的潜在争议的质疑。]]></description>
-      <guid>https://t.me/hn_summary/66436</guid>
-      <pubDate>Sun, 31 Dec 2023 01:57:24 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了询问客户想要什么的问题，并强调了 [...]</title>
+      <link>https://t.me/hn_summary/66446</link>
+      <description><![CDATA[询问客户想要什么是行不通的 
+本文讨论了询问客户想要什么的问题，并强调了“待完成的工作”的概念，作为理解客户需求的更好方法。它列举了 Intuit 和一家快餐连锁店等公司的例子，尽管进行了广泛的调查和研究，但仍未能满足客户的期望。然后，本文介绍了一些成功创新的例子，这些创新源于对客户想要完成的工作的理解，例如 Khan Academy、Airbnb 和 OpenTable。它强调了观察客户的补偿行为和寻找高潜力创新机会的重要性。作者建议将“待完成的工作”概念应用于不同的问题，并提供在组织中实施该概念的技术。]]></description>
+      <guid>https://t.me/hn_summary/66446</guid>
+      <pubDate>Sun, 31 Dec 2023 03:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Freeaim VR Shoes 为使用操纵杆控制时常见的挫败感提供了解决方案 [...]</title>
-      <link>https://t.me/hn_summary/66435</link>
-      <description><![CDATA[Freeaim VR 鞋
-Freeaim VR Shoes 为虚拟现实中使用操纵杆控制和有限空间的常见问题提供了解决方案。这些鞋子提供了更加真实和身临其境的体验，让用户可以在虚拟世界中无限制地行走。该鞋还方便便携，是 VR 爱好者的理想配件。借助 Freeaim VR Shoes，用户可以享受更实惠的运动系统，从而增强虚拟现实体验。]]></description>
-      <guid>https://t.me/hn_summary/66435</guid>
-      <pubDate>Sun, 31 Dec 2023 01:34:13 GMT</pubDate>
+      <title>[媒体] Midihum 是一种基于机器学习的工具，旨在通过 adj [...]</title>
+      <link>https://t.me/hn_summary/66445</link>
+      <description><![CDATA[Midihum：基于机器学习的 MIDI 人性化工具&lt; br/&gt;
+Midihum 是一种基于机器学习的工具，旨在通过调整每个音符的力度值来人性化 MIDI 作品。该工具使用梯度增强树，并根据比赛中的 2.6K 钢琴演奏进行训练。它旨在使数字作品听起来更加自然和富有表现力，帮助用户在音乐中找到高潮和放松时刻。该工具通过命令行易于使用，并且经过了过去五年的开发。它对于巴洛克、古典和浪漫时期的钢琴独奏作品表现良好。该工具还可以捕获合成过程中的动态并可以预测极端速度值。 Midihum 采用 GPLv3 许可证分发，可以免费用于制作音乐，无需注明作者。]]></description>
+      <guid>https://t.me/hn_summary/66445</guid>
+      <pubDate>Sun, 31 Dec 2023 03:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了人们对我们身体中被忽视的部分筋膜日益增长的兴趣。</title>
-      <link>https://t.me/hn_summary/66434</link>
-      <description><![CDATA[筋膜，我们身体被忽视的部分，开始受到关注
-本文讨论了人们对我们身体中被忽视的部分——筋膜日益增长的兴趣。筋膜是一层薄薄的结缔组织外壳，包围并固定每个器官、血管、骨骼、神经纤维和肌肉。最近的研究表明，筋膜在肌肉和骨骼健康中发挥着重要作用，包括协助肌肉收缩和影响肌肉僵硬。筋膜也可能受损，导致运动受限且难以传递力量。筋膜按摩是一种按摩，在治疗肌肉骨骼损伤引起的疼痛方面已显示出积极的效果。筋膜还可能与感染和更严重的健康状况有关，例如坏死性筋膜炎。通过使用 MRI 和超声成像，我们现在能够更好地可视化筋膜并了解其对肌肉骨骼健康的贡献。]]></description>
-      <guid>https://t.me/hn_summary/66434</guid>
-      <pubDate>Sun, 31 Dec 2023 01:07:00 GMT</pubDate>
+      <title>[媒体]马士基集装箱船“马士基杭州”号在红海被导弹击中，[...]</title>
+      <link>https://t.me/hn_summary/66444</link>
+      <description><![CDATA[马士基轮船在红海被导弹击中&lt; br/&gt;
+据美国中央司令部称，马士基集装箱船“马士基杭州号”在红海遭到导弹袭击。该船在穿越南红海时遭遇撞击，请求援助。格拉夫利号和拉伯恩号对此事件作出反应，成功击落两枚从也门胡塞武装控制区发射的反舰弹道导弹。在另一艘马士基船只遭遇导弹袭击后，出于安全考虑，马士基此前暂停了通过红海的运输。此次事件是自去年11月银河领袖号汽车运输船被劫持以来，胡塞武装对国际航运的第23次非法袭击。]]></description>
+      <guid>https://t.me/hn_summary/66444</guid>
+      <pubDate>Sun, 31 Dec 2023 03:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

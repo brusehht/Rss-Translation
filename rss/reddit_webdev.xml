@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 03:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 06:14:28 GMT</lastBuildDate>
+    <item>
+      <title>哪种堆栈/语言最适合构建这个？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18v008k/which_stacklanguage_is_best_to_build_this/</link>
+      <description><![CDATA[要使用这些功能构建自由职业者市场，如果您熟悉的后端仅限于 WordPress 并且您正在寻找简单的东西，那么堆栈/语言会更好适合新手，但也易于扩展。 功能： 用户之间的 1-2-1 消息传递（非实时聊天） 支付网关&lt; /p&gt; 工作交付和批准 上传文件/图像 PHP Laravel  Typescript  React Nodejs   由   提交/u/vasaya  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18v008k/which_stacklanguage_is_best_to_build_this/</guid>
+      <pubDate>Sun, 31 Dec 2023 05:06:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 React 中的 Headless UI 组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/18uzx0b/exploring_headless_ui_components_in_react/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18uzx0b/exploring_headless_ui_components_in_react/</guid>
+      <pubDate>Sun, 31 Dec 2023 05:01:37 GMT</pubDate>
+    </item>
     <item>
       <title>您曾经创建过“合法灰色”网站吗？海盗湾等</title>
       <link>https://www.reddit.com/r/webdev/comments/18uxbvv/have_you_ever_made_a_legally_gray_site_pirate_bay/</link>
-      <description><![CDATA[通过合法的灰色，我所说的是： - 种子下载网站 - 流媒体网站 - 盗版网站 - 抓取网站 - 价格抓取工具/比较工具 - 软件密钥转售网站...等 您可能会被另一家公司下令删除的网站等 道德和合法性不一定一致的网站，而不是公然非法的狗屎（不言而喻）    由   提交/u/Putrid-Tough4558   reddit.com/r/webdev/comments/18uxbvv/have_you_ever_made_a_legally_gray_site_pirate_bay/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[通过合法的灰色，我说的是： - 种子下载网站 - 流媒体网站 - 抓取网站 - 价格抓取/比较工具 - 软件密钥转售网站...等 您可能会因网络抓取其公共数据并重复使用而被另一家公司下令删除的网站 - 非非法网站  &amp; #32；由   提交/u/Putrid-Tough4558   reddit.com/r/webdev/comments/18uxbvv/have_you_ever_made_a_legally_gray_site_pirate_bay/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18uxbvv/have_you_ever_made_a_legally_gray_site_pirate_bay/</guid>
       <pubDate>Sun, 31 Dec 2023 02:46:23 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[严重问题：Tailwind 和内联样式之间的实际区别是什么？我绝对不了解 Tailwind，但据我所知，这似乎基本上是同一件事。我不喜欢内联样式，但我是否错过了 Tailwind 的某些内容？   由   提交 /u/mshambaugh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18uqb8m/tailwind_vs_inline_styles/</guid>
       <pubDate>Sat, 30 Dec 2023 21:30:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>（菜鸟）我将如何实现前端应用程序的登录/注册后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18uq6au/noob_here_how_would_i_go_about_implementing/</link>
-      <description><![CDATA[我正在使用此模板 (https://github.com/robbins23/daisyui-admin-dashboard-template/blob/master/src/features/user/Login.js）并看到类似这样的内容，它使用 JWT 进行登录  const SubmitForm = (e) =&gt;{ e.preventDefault() setErrorMessage(&quot;&quot;) if(loginObj.emailId.trim () === &quot;&quot;)return setErrorMessage(&quot;需要电子邮件 ID！（使用任意值）&quot;) if(loginObj.password.trim() === &quot;&quot;)return setErrorMessage(&quot;;需要密码！（使用任意值）&quot;) else{ setLoading(true) // 调用API检查用户凭据并将令牌保存在本地存储中 localStorage.setItem(&quot;token&quot;, &quot;DummyTokenHere&quot;) setLoading(false) window .location.href = &#39;/app/welcome&#39; } }  文档说：  用户身份验证已使用 JWT 令牌方法实现（当然您需要后端 API 来生成和验证令牌）。  作为一个完全的菜鸟，我不确定是否需要为此创建另一个 Web 应用程序或只是一堆功能。我正在使用 Azure - 我是否将前端和后端托管为 2 个“Web 应用程序”？在蔚蓝？或者我是否创建类似由 HTTP 触发的 Azure 函数之类的东西？   由   提交/u/otaku2sday  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18uq6au/noob_here_how_would_i_go_about_implementing/</guid>
-      <pubDate>Sat, 30 Dec 2023 21:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>一次性购买终身域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ulckq/lifelong_domain_for_onetime_purchase/</link>
-      <description><![CDATA[嗨！我注意到Unstoppable Domains网站上说除了.com和.eth之外的所有域名都可以购买一次，并且不会有续订费用，这是真的吗？域名不需要每年续费吗？   由   提交 /u/JestonT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ulckq/lifelong_domain_for_onetime_purchase/</guid>
-      <pubDate>Sat, 30 Dec 2023 17:55:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
