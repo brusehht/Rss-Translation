@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 00:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 03:12:52 GMT</lastBuildDate>
+    <item>
+      <title>天哪，在 VLC 媒体播放器中，您可以灵活地以较小的增量和减量调整缩放！</title>
+      <link>https://www.reddit.com/r/software/comments/18uw18m/holy_fuck_in_vlc_media_player_you_have_the/</link>
+      <description><![CDATA[切换自动缩放：o 增加比例因子：Alt+o 减少比例因子：Alt+ Shift+o   由   提交 /u/cryptomelons   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18uw18m/holy_fuck_in_vlc_media_player_you_have_the/</guid>
+      <pubDate>Sun, 31 Dec 2023 01:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>那么如果 handbrake 是 ffmpeg 的 GUI，那么 GIMP 的 CLI 版本是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/18uv21m/so_if_handbrake_is_a_gui_for_ffmpeg_then_what_is/</link>
+      <description><![CDATA[这个问题源于在 gimp 上使用编程功能的愿望，这似乎是一种模式，每当从 GUI 转换到 CLI 时，您都会解锁新的能力完成。   由   提交/u/zaknenou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18uv21m/so_if_handbrake_is_a_gui_for_ffmpeg_then_what_is/</guid>
+      <pubDate>Sun, 31 Dec 2023 00:57:49 GMT</pubDate>
+    </item>
     <item>
       <title>寻找离线软木板/证据板软件</title>
       <link>https://www.reddit.com/r/software/comments/18uuk86/looking_for_an_offline_corkboard_evidence_board/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好！ 我是一名新的表演合唱团指挥，我们小组去年购买了电视，用作我们的一部分集设计。技术总监去年离职，他正在使用我无法访问的个人软件，即 Pro Video Player (PVP)。 我需要一个可以控制三台不同电视的软件来自我的 M1 Pro MacBook。两台电视将显示相同的视频，而第三台电视将显示不同的内容。显示的内容主要是我所说的“视觉效果”。从合唱团成员的视频到小型连续动画。因为我们的表演是现场进行的，所以我需要能够在任何给定时间切换视觉效果。另外，因为我们将在许多不同的场地和学校进行表演，所以电视需要通过硬连线连接到我的 MacBook，而不是无线连接。 有人对适合我需求的软件有任何建议吗？不幸的是，我必须控制在很小的预算之内，所以更便宜的选择会非常有帮助！我对这些程序的经验也很少，但我也可以快速学习，所以更简单的东西将不胜感激！预先感谢您！！   由   提交/u/Friesrich  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18u6rd0/in_need_of_software_to_control_multiple_tvs_for_a/</guid>
       <pubDate>Sat, 30 Dec 2023 04:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求可调节黑色的屏幕保护程序的建议（Windows 10）</title>
-      <link>https://www.reddit.com/r/software/comments/18u5woa/seeking_recommendations_for_screensaver_with/</link>
-      <description><![CDATA[您好，我在台式电脑上运行 Windows 10，并且安装了 IrfanView 和 FastStone。它们都有很好的屏幕保护程序功能，但都没有提供变黑作为过渡选项。理想情况下，我想要一个免费的屏幕保护程序，具有 IrfanView 的功能以及可变持续时间的变黑功能，可以设置或随机化。因此，淡入黑色，等待，淡入下一张图像。 TIA。   由   提交/u/DangerousDave2018   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18u5woa/seeking_recommendations_for_screensaver_with/</guid>
-      <pubDate>Sat, 30 Dec 2023 03:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 mac 上的 Microsoft 语音 API 的帮助吗？</title>
-      <link>https://www.reddit.com/r/software/comments/18u5vxc/help_with_microsoft_speech_api_on_mac/</link>
-      <description><![CDATA[我是一名 Mac 用户，想知道是否可以在我的 Mac 上使用免费的文本转语音软件。  Balabolka 是有问题的软件。它使用微软的语音API。我已经能够使用 wineskin 启动该程序，但无法实际操作它。本来打算尝试使用另一个 Windows 模拟器，但我很快意识到我实际上不知道自己在做什么，因为我对 mac 还很陌生。 背景（如果你想的话请跳过这个，哈哈）：  我正在寻找更好、更真实的文本转语音软件，最好是允许我导出/保存音频文件的软件。我正在寻找一些东西 1) 帮助我的 ADD 大脑更好地专注于阅读较长的文本、文章等，而不会受到 Mac 默认文本转语音或“Microsoft sam”的刺耳机器人声音的干扰 2) 有助于内容创建的东西（更容易制作，而不必录制我的实际声音的多次录音） 市场上有一些非常逼真的文本到语音软件（例如十一个实验室，描述）非常易于使用，但他们的定价和支付结构完全不切实际，所以我一直在探索免费选项，但到目前为止还没有取得很好的结果。在仔细阅读了其他一些 Reddit 子版块和论坛后，balabolka 似乎通常被推荐为免费选项，因此想测试一下   由   提交 /u/pavarotti_of_karate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18u5vxc/help_with_microsoft_speech_api_on_mac/</guid>
-      <pubDate>Sat, 30 Dec 2023 03:36:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
