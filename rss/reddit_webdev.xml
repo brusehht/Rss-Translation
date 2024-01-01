@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 01 Jan 2024 15:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 18:15:29 GMT</lastBuildDate>
+    <item>
+      <title>Vercel 的新开源字体 Geist Sans 和 Geist Mono</title>
+      <link>https://www.reddit.com/r/webdev/comments/18w0cwp/vercels_new_opensource_fonts_geist_sans_and_geist/</link>
+      <description><![CDATA[      我今天才发现这个，我个人认为它看起来很棒。不妨在 VS Code 中使用 Mono 字体。   由   提交 /u/vinhphm   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18w0cwp/vercels_new_opensource_fonts_geist_sans_and_geist/</guid>
+      <pubDate>Mon, 01 Jan 2024 16:33:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite 使用普通 Typescript 替代“react-simple-typewriter”</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vzyas/vite_with_vanilla_typescript_alternative_for/</link>
+      <description><![CDATA[这个包还有其他选择吗 但对于普通的 typescript/javascript 呢？遗憾的是找不到一个    由   提交 /u/Serotops   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vzyas/vite_with_vanilla_typescript_alternative_for/</guid>
+      <pubDate>Mon, 01 Jan 2024 16:15:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自 CMS 和数据库的组合数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vzthy/combined_data_from_cms_and_database/</link>
+      <description><![CDATA[我有一个 Next.js 博客（应用程序文件夹结构），我使用 Contentful CMS 来处理所有数据。我决定让用户登录后才能发表评论，例如发帖和“保存帖子”。  从 T3 堆栈中获得一些灵感，并将 next-auth 与 Prisma 和 trpc 连接到 Planetscale 数据库，所有这些都已弄清楚，但不确定“连接”T3 堆栈的最佳实践是什么。来自 CMS 的数据和评论等等 我看到的一个选项是添加帖子的 slug 作为评论的键，然后通过此键在帖子上获取评论以显示评论（已经在服务器端执行一些问题，但可能只是我做错了） 我的另一个想法是在数据库中创建一个用于帖子的表，并将评论和喜欢链接到该表。然后，当我需要获取评论时，我只需获取与数据库中的帖子相关的所有评论  用户访问博客帖子，并对 Planetscale 数据库进行检查以查看是否有帖子为此创建 如果已经创建了一个，则获取链接到该帖子的所有评论 否则，如果数据库中没有匹配项，则创建一个  什么是最好的解决方案，或者我缺少什么更好的解决方案？   由   提交 /u/palmsen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vzthy/combined_data_from_cms_and_database/</guid>
+      <pubDate>Mon, 01 Jan 2024 16:09:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有一个简单、简约、3种产品的销售网站可供我接管吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vzqiu/does_anyone_have_a_simple_minimalistic_3_product/</link>
+      <description><![CDATA[迷幻水 |放松卡瓦水    由   提交 /u/rubens33   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vzqiu/does_anyone_have_a_simple_minimalistic_3_product/</guid>
+      <pubDate>Mon, 01 Jan 2024 16:05:27 GMT</pubDate>
+    </item>
     <item>
       <title>背景图片影响SEO吗</title>
       <link>https://www.reddit.com/r/webdev/comments/18vya7w/does_background_picture_effect_seo/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>在 WooCommerce 中设置 Paypal 订阅的最佳方式？</title>
       <link>https://www.reddit.com/r/webdev/comments/18vxvnr/best_way_to_setup_paypal_subscription_in/</link>
-      <description><![CDATA[大家新年快乐！ 我对设置订阅有点陌生，我真的希望有人能启发我。我得到了这个项目，我需要使用 Paypal 设置 1。但是，我似乎无法让它工作，因为当我进行测试并结账时，我没有收到付款提供商错误框。 我已经设置了 Paypal 付款插件，通过登录使用自动连接并不是手动方法。 我可以在定期付款栏上看到一个复选标记，所以我认为它已经正确设置。 我花了 3 个小时返回，第四个小时在我的设置，进行研究，我什至安装了肥皂，因为有错误说服务器中未安装肥皂。我仍然看到没有付款提供商的错误。 我唯一能想到的是我的 Paypal 企业帐户可能有问题？ 有人有这样的经历吗？&lt; /p&gt; 我应该寻找像 Braintree 或 Paddle 这样的中间人服务吗？ 如果这是一个新手问题，我很抱歉。预先感谢大家的阅读。   由   提交/u/mastermeiji  [链接] [评论]]]></description>
+      <description><![CDATA[大家新年快乐！ 我对设置订阅有点陌生，我真的希望有人能启发我。我得到了这个项目，我需要使用 Paypal 设置 1。但是，我似乎无法让它工作，因为当我进行测试并结帐时，我没有收到付款提供商错误框。 我已经设置了 Paypal 付款插件，通过登录使用自动连接并不是手动方法。 我可以在定期付款栏上看到一个复选标记，所以我认为它已经正确设置。 我花了 3 个小时返回，第四个小时在我的设置，进行研究，我什至安装了肥皂，因为有错误说服务器中未安装肥皂。我仍然看到没有付款提供商的错误。 我唯一能想到的是我的 Paypal 企业帐户可能有问题？ 有人有这样的经历吗？&lt; /p&gt; 我应该寻找像 Braintree 或 Paddle 这样的中间人服务吗？ 如果这是一个新手问题，我很抱歉。预先感谢大家的阅读。   由   提交/u/mastermeiji  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vxvnr/best_way_to_setup_paypal_subscription_in/</guid>
       <pubDate>Mon, 01 Jan 2024 14:32:26 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>每月入门/网络开发职业主题</title>
       <link>https://www.reddit.com/r/webdev/comments/18vvdys/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[由于有关此主题的问题越来越多，因此决定每月提交一个专门讨论此主题的线程，以减少重复帖子的数量关于这个话题。主线程中将不再允许此类帖子。 其中许多问题也在子常见问题解答中得到解决，或者可能已在 以前的每月职业线程。 专门针对这些类型的订阅者问题包括一般性和开放式职业问题的r/cscareerquestions和r/learnprogramming 了解早期学习问题。 为行业做好准备而学习的主题的一般建议包括：  &lt; a href=&quot;https://www.udemy.com/course/javascript-beginners-complete-tutorial&quot;&gt;HTML/CSS/JS 训练营 版本控制 自动化 前端框架（React/Vue/Etc） API 和 CRUD 测试（单元和集成） 常见设计模式&lt; /li&gt;  您还需要包含 4-5 个个人项目的作品集，以及用于申请工作的简历。 计划 6-12 个月在申请工作之前进行自我学习和为您的作品集制作项目。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[由于有关此主题的问题越来越多，因此决定每月提交一个专门讨论此主题的线程，以减少重复帖子的数量关于这个话题。主线程中将不再允许此类帖子。 其中许多问题也在子常见问题解答中得到解决，或者可能已在 以前的每月职业线程。 专门针对这些类型的订阅者问题包括一般性和开放式职业问题的r/cscareerquestions和r/learnprogramming 了解早期学习问题。 为行业做好准备而学习的主题的一般建议包括：  &lt; a href=&quot;https://www.udemy.com/course/javascript-beginners-complete-tutorial&quot;&gt;HTML/CSS/JS 训练营 版本控制 自动化 前端框架（React/Vue/Etc） API 和 CRUD 测试（单元和集成） 常见设计模式&lt; /li&gt;  您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 计划 6-12 个月在申请工作之前进行自我学习和为您的作品集制作项目。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vvdys/monthly_getting_started_web_dev_career_thread/</guid>
       <pubDate>Mon, 01 Jan 2024 12:00:29 GMT</pubDate>
     </item>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 01 Jan 2024 04:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>优秀软件工程师的习惯（TL；DR；在帖子中）</title>
-      <link>https://www.reddit.com/r/webdev/comments/18volie/habits_of_great_software_engineers_tldr_in_the/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18volie/habits_of_great_software_engineers_tldr_in_the/</guid>
-      <pubDate>Mon, 01 Jan 2024 04:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Pinterest 的生产中运行统一的 PubSub 客户端</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vno6m/running_unified_pubsub_client_in_production_at/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vno6m/running_unified_pubsub_client_in_production_at/</guid>
-      <pubDate>Mon, 01 Jan 2024 03:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>（反应）我有一个页面，它是项目缩略图的网格。单击缩略图后，它将转到项目详细信息页面。我想要一个能够适应每个项目信息的 projectDetail.js 页面。我使用这个解决方案（在描述中）是否走在正确的轨道上，或者有更好的方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vmhr1/react_i_have_a_page_thats_a_grid_of_project/</link>
-      <description><![CDATA[&lt;路由路径=“/projects/:name”组件={项目详细信息} /&gt;  一个项目可能只是带有文本描述的英雄图像，而另一个项目可能在描述下方有其他图像或视频。我正在考虑将项目的所有信息都保存在 json 中。 json 的顶层将是通知缩略图和导航链接的项目名称，然后子对象将是将加载到站点中的附加数据（如果存在）。这是一个好方法还是有更好的方法？   由   提交 /u/YoungMalchick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vmhr1/react_i_have_a_page_thats_a_grid_of_project/</guid>
-      <pubDate>Mon, 01 Jan 2024 01:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端 yahoo-finance2 的替代方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vljwc/alternative_to_yahoofinance2_for_frontend/</link>
-      <description><![CDATA[我正在使用 SvelteKit + Cloudflare Pages 制作一个小型库存应用程序。我认为 yahoo-finance 可以在服务器路由中工作，但是当我运行构建命令时它会失败，因为 yf 使用节点特定的库。  我想知道是否有像“yahoo-finance-web”之类的替代方案？  提前致谢！   由   提交/u/kpmtech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vljwc/alternative_to_yahoofinance2_for_frontend/</guid>
-      <pubDate>Mon, 01 Jan 2024 01:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是新人，哪里可以上传前端和后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/</link>
-      <description><![CDATA[所以我刚买了一个月的托管服务来上传我的网站，但我想弄清楚如何上传前端和后端，我知道如何上传前端，但我没有找到任何有关如何上传后端的教程 抱歉，我是初学者，如果我拼写错误，也很抱歉   由   提交/u/_-ju4nd4  /u/_-ju4nd4  reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/</guid>
-      <pubDate>Sun, 31 Dec 2023 22:58:57 GMT</pubDate>
+      <title>获得域名的最佳地点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vf2s7/best_place_to_get_a_domain/</link>
+      <description><![CDATA[我目前在 vercel 上托管了一个带有 vercel 的网站。 app 域名并希望获得该网站的真实域名。  我知道要避开 GoDaddy，但我还应该看看其他地方吗？ NameCheap 好吗/值得信赖吗？还是云闪？对于所有这类东西来说真的很新鲜；谢谢！   由   提交 /u/Sad_Potato-_-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vf2s7/best_place_to_get_a_domain/</guid>
+      <pubDate>Sun, 31 Dec 2023 19:27:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
