@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Jan 2024 11:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 15:11:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体]慢电：直流电回归？</title>
-      <link>https://t.me/hn_summary/66615</link>
-      <description><![CDATA[慢电：直流电回归？ (2016)
-本文讨论了在建筑物中使用直流 (DC) 配电的潜在好处，特别是在太阳能光伏系统中。目前，太阳能电池板产生直流电，然后将其转换为交流电 (AC)，以与建筑物的配电兼容。这种双重能量转换导致能量损失。然而，随着直流供电设备的使用越来越多以及太阳能电池板等分散式发电选项的出现，人们对直流配电重新产生了兴趣。它可以带来更节能、更具成本效益的太阳能系统，以及更简单、更便宜的设备。该文章还强调了储能的重要性以及使用直流配电的潜在节能潜力。 （根据 46% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66615</guid>
-      <pubDate>Mon, 01 Jan 2024 11:53:28 GMT</pubDate>
+      <title>[媒体] Page Replica 是一个使用 Node.js、Express 和 Puppeteer 构建的网页抓取和缓存工具。</title>
+      <link>https://t.me/hn_summary/66631</link>
+      <description><![CDATA[显示 HN：页面副本 – 用于网页抓取、预渲染和渲染的工具SEO 提升
+Page Replica 是一个使用 Node.js、Express 和 Puppeteer 构建的 Web 抓取和缓存工具。其目的是预渲染 Web 应用程序页面，例如使用 React、Angular 或 Vue 构建的页面，以便可以通过 Nginx 提供服务以实现 SEO 或其他目的。该工具允许用户通过 API 抓取单个网页或整个站点地图，有选择地删除 JavaScript 并缓存生成的 HTML。它还包括一个 Nginx 配置，可以最佳地处理用户和搜索引擎机器人流量。作者提到该项目用途广泛，并且通过提供 Nginx 配置来向机器人提供缓存页面而与众不同。欢迎贡献和功能请求。]]></description>
+      <guid>https://t.me/hn_summary/66631</guid>
+      <pubDate>Mon, 01 Jan 2024 15:11:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本发布海啸警报并敦促民众撤离海边地区 [...]</title>
-      <link>https://t.me/hn_summary/66614</link>
-      <description><![CDATA[日本在一系列强烈地震后发布海啸警报 
-日本西部海岸线发生一系列强烈地震后，已发布海啸警报，并敦促人们撤离沿海地区。日本气象厅报告称，石川县和附近县沿海发生地震，其中一次初步震级为 7.6 级。该机构向石川县发布了重大海啸警报，并向本州西海岸其他地区发布了较低级别的警报。日本公共广播公司NHK电视台警告称，水位将达到5米高，并敦促人们逃往地势较高的地方。地震造成了破坏，包括房屋倒塌和火灾。政府成立了应急中心以确保安全。]]></description>
-      <guid>https://t.me/hn_summary/66614</guid>
-      <pubDate>Mon, 01 Jan 2024 11:47:21 GMT</pubDate>
+      <title>[媒体]据政府估计，日本18岁人口已创历史新高[...]</title>
+      <link>https://t.me/hn_summary/66630</link>
+      <description><![CDATA[日本 18 岁人口创历史新低 106 万人
+据政府估计，日本18岁人口已创历史新低106万。这一下降归因于该国出生率下降。与2023年相比，新增成年人数量减少了6万人，目前仅占日本总人口的0.86%。 18岁人口数量的下降反映了日本生育率的下降，日本生育率在2005年创下历史新低1.26，并在2022年再次达到这一水平。为了鼓励年轻人参与，日本将成年年龄从20岁降低2022年4月增至18人。最新数据包括在日本居住3个月以上的外国人。]]></description>
+      <guid>https://t.me/hn_summary/66630</guid>
+      <pubDate>Mon, 01 Jan 2024 15:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]提取网络数据可能是一项繁琐且耗时的任务，但在人工智能的帮助下，[...]</title>
-      <link>https://t.me/hn_summary/66613</link>
-      <description><![CDATA[利用 AI 轻松提取 Web 数据
-提取网络数据可能是一项繁琐且耗时的任务，但在人工智能的帮助下，它变得比以往任何时候都容易。在 Kadoa，我们提供零设置或维护工作量的解决方案，为您节省宝贵的时间和资源。我们的人工智能技术可确保更快、更便宜和更好的可扩展性，让您轻松从多个网站提取数据。凭借智能导航功能，我们的系统可以导航复杂的网页并准确提取所需的信息。我们还提供统一的数据映射，确保提取数据的一致性和准确性。通过 Kadoa 告别手动数据提取，拥抱 AI 的力量。]]></description>
-      <guid>https://t.me/hn_summary/66613</guid>
-      <pubDate>Mon, 01 Jan 2024 11:34:11 GMT</pubDate>
+      <title>[媒体] 生成式人工智能似乎正在在线钩编社区引起轰动。</title>
+      <link>https://t.me/hn_summary/66629</link>
+      <description><![CDATA[生成式人工智能用不切实际的阿米古鲁米图片淹没在线钩编空间 
+生成式人工智能似乎正在在线钩编社区引起轰动。阿米古鲁米爱好者发现他们的社交媒体上充斥着钩编动物和物品的不切实际的图片。这些由人工智能算法创建的图像通常具有复杂的细节和不可能的形状，在现实生活中难以复制。虽然有些人认为这些人工智能生成的作品令人着迷，但另一些人则认为它们具有误导性，并对钩针编织者设定了不切实际的期望。这是一个有趣的发展，凸显了技术与传统工艺的交叉，引发了钩编爱好者的争论和讨论。]]></description>
+      <guid>https://t.me/hn_summary/66629</guid>
+      <pubDate>Mon, 01 Jan 2024 14:58:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]博客文章的作者讨论了他们与“橙色[...]的复杂关系”</title>
-      <link>https://t.me/hn_summary/66612</link>
-      <description><![CDATA[橙色网站点击
-博客文章的作者讨论了他们与“橙色网站”的复杂关系，“橙色网站”很可能指的是 HackerNews。他们对该网站的文化和评论表示失望，但承认其作为链接聚合器的价值。然后，作者介绍了 HackerNews 的新的基于终端的客户端，称为 Orange Site Hit。该客户端是只读的，允许用户查看网站类别中的热门、最佳和最新帖子。它还提供了在网络浏览器中打开链接以及查看用户详细信息和评论等功能。作者计划未来对客户端进行改进和更新。客户端可以通过 PyPi 中的 pip 或 pipx 安装，源代码可在 GitHub 上获取。]]></description>
-      <guid>https://t.me/hn_summary/66612</guid>
-      <pubDate>Mon, 01 Jan 2024 11:34:05 GMT</pubDate>
+      <title>[媒体] FinderHub 是一款突破性的应用程序，它利用 MacBook 的缺口来提供 [...]</title>
+      <link>https://t.me/hn_summary/66628</link>
+      <description><![CDATA[显示 HN：我构建了一个隐藏在 MacBook 凹口下的应用程序，以便快速文件访问
+FinderHub 是一款突破性的应用程序，它利用 MacBook 的缺口为用户提供快速轻松的文件访问。只需单击一下，您就可以访问桌面文件夹、启动您喜爱的应用程序，甚至自定义您自己的访问文件夹和文件。这款创新的应用程序改变了 Mac 用户的游戏规则，提供了一种无缝且高效的方式来管理和组织文件。有了 FinderHub，您再也不用浪费时间搜索文件了。对于任何想要简化工作流程并提高生产力的人来说，它都是必备工具。]]></description>
+      <guid>https://t.me/hn_summary/66628</guid>
+      <pubDate>Mon, 01 Jan 2024 14:50:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容是一套在 subreddi 上提交帖子的规则和指南 [...]</title>
-      <link>https://t.me/hn_summary/66611</link>
-      <description><![CDATA[日本发生7.4级地震，发布大海啸预警
-此网页内容是一组在 Reddit r/japan 子版块上提交帖子的规则和指南。它包括有关转发、低效帖子、不相关内容以及与日本无关的帖子的规则。它还提供了特定主题的相关子目录列表，例如日本的旅行、语言、教学和生活。内容强调，该 Reddit 子版块主要面向英语用户，征求日本意见或向该 Reddit 子版块呼吁（就好像它代表日本一样）的帖子将被删除。此内容中没有任何有争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/66611</guid>
-      <pubDate>Mon, 01 Jan 2024 11:28:58 GMT</pubDate>
+      <title>Nicecv.online 是一个 SaaS 平台，允许用户快速轻松地创建专业简历。</title>
+      <link>https://t.me/hn_summary/66627</link>
+      <description><![CDATA[显示 HN：我使用 Htmx 和 Django 后端创建了一个 SaaS ( Nicecv.online）
+Nicecv.online 是一个 SaaS 平台，允许用户创建专业简历快速、轻松。该平台提供多种简历模板，可以从用户的个人资料中下载，节省时间和精力。只需一个个人资料，用户就可以创建一份具有视觉吸引力的简历，给人留下良好的第一印象。该服务由 Htmx 和 Django 提供支持，提供无缝且高效的用户体验。]]></description>
+      <guid>https://t.me/hn_summary/66627</guid>
+      <pubDate>Mon, 01 Jan 2024 14:40:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] WebUI Zig 项目允许用户使用任何 Web 浏览器作为 GUI，其中 Zig [...]</title>
-      <link>https://t.me/hn_summary/66610</link>
-      <description><![CDATA[使用任何 Web 浏览器作为 GUI，后端带有 Zig， HTML5在前端
-WebUI Zig 项目允许用户使用任何 Web 浏览器作为 GUI，Zig 位于后端，HTML5 位于前端。它是一个轻量级、可移植的库，在 Web 浏览器和后端之间提供快速的二进制通信协议，而不是使用 JSON。该项目旨在解决在UI设计中使用Web技术的问题，使产品现代化、专业化。它与其他解决方案的区别在于，它使用真正的 Web 浏览器作为 GUI，提供了全面 Web 技术的全部功能，同时保持软件的轻量级和便携性。该项目支持多种平台和浏览器，包括 Mozilla Firefox、Google Chrome 和 Microsoft Edge。]]></description>
-      <guid>https://t.me/hn_summary/66610</guid>
-      <pubDate>Mon, 01 Jan 2024 10:45:40 GMT</pubDate>
+      <title>[媒体] Oracle-samples/sd4j 项目是稳定扩散推理的实现，使用 [...]</title>
+      <link>https://t.me/hn_summary/66626</link>
+      <description><![CDATA[Oracle-samples/sd4j：使用 ONNX 运行时在 Java 中稳定扩散管道
+Oracle-samples/sd4j 项目是使用 Java 中的 ONNX 运行时实现稳定扩散推理。它演示了如何通过 Java 使用 ONNX 运行时，并提供了实现良好性能的最佳实践。该项目支持文本到图像的生成，并包括用于重复生成的 GUI 和对负文本输入的支持。该项目的独特之处在于提供了 C# 实现的修改端口，以及对 CoreML 和 DirectML 后端的实验性支持。它可能会发生变化，不应被视为稳定。该项目需要 Apache Maven、Java 17 或更高版本、已编译的 ONNX 运行时扩展二进制文件以及稳定扩散模型检查点。]]></description>
+      <guid>https://t.me/hn_summary/66626</guid>
+      <pubDate>Mon, 01 Jan 2024 14:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 20 世纪 70 年代，IBM 正在开发一款设计为电话交换机的大型计算机。</title>
-      <link>https://t.me/hn_summary/66609</link>
-      <description><![CDATA[IBM 如何偶然进入 RISC
-20 世纪 70 年代，IBM 正在开发一款设计为电话交换机的大型计算机。然而，该项目被放弃了，IBM 在测试过程中偶然发现了 RISC 处理器。 RISC 处理器消除了不必要的指令，并且在没有微代码层的情况下运行，其执行速度比预期快得多。这一发现为 ARM 和 RISC-V 等 RISC 平台的开发以及 CISC 平台的显着性能提升铺平了道路。 RISC-V 是这些早期 RISC 处理器的直系后代。这个偶然的发明对计算机体系结构产生了重大影响。]]></description>
-      <guid>https://t.me/hn_summary/66609</guid>
-      <pubDate>Mon, 01 Jan 2024 10:43:33 GMT</pubDate>
+      <title>[媒体]写作课，评论弗里德曼。</title>
+      <link>https://t.me/hn_summary/66625</link>
+      <description><![CDATA[写作课，评论弗里德曼。如果没有必要，不要惹恼别人
+网络内容的作者讨论了不要用不必要的评论或断言来疏远读者的重要性。他们以汤姆·弗里德曼（Tom Friedman）在《纽约时报》上发表的一篇文章为例，批评弗里德曼的言论可能会让不同意他的读者失去兴趣。作者强调了弗里德曼的有争议的言论，例如将以色列政府标记为历史上“最右翼”，并提到“气候变化的连锁效应”。他们认为这些陈述破坏了弗里德曼后来论点的可信度。作者还批评了弗里德曼对哈马斯和以色列决定的分析，质疑他的主张和动机。总的来说，作者强调要避免不必要地激怒读者，并以有说服力和公正的方式提出论点。]]></description>
+      <guid>https://t.me/hn_summary/66625</guid>
+      <pubDate>Mon, 01 Jan 2024 14:36:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标志性卡通人物米老鼠正式进入公众领域！</title>
-      <link>https://t.me/hn_summary/66608</link>
-      <description><![CDATA[欢迎来到公共领域，威利号汽船
-标志性卡通人物米老鼠正式进入公共领域！威利号汽船是 1928 年发布的第一部米老鼠动画片，现在任何人都可以免费使用、混音或改编，而无需担心侵犯版权。这是一个重大进展，因为它标志着原始版权期限的到期，该期限由于迪士尼的游说努力而多次延长。威利号汽船的公共领域地位为创意表达开辟了新的可能性，并允许更深入地探索这个深受喜爱的角色的遗产。]]></description>
-      <guid>https://t.me/hn_summary/66608</guid>
-      <pubDate>Mon, 01 Jan 2024 10:33:20 GMT</pubDate>
+      <title>ottopot 是一款 DIY MIDI 控制器，带有 8 个高品质旋钮。</title>
+      <link>https://t.me/hn_summary/66624</link>
+      <description><![CDATA[Ottopot，一款复杂的 DIY MIDI 控制器
+ottopot 是一款 DIY MIDI 控制器，带有 8 个高品质旋钮。它具有高分辨率 14 位 MIDI CC 和从物理运动到 CC 值的准 1:1 映射，类似于模拟电位计。与使用编码器的典型 MIDI 控制器相比，该控制器提供了更多的音乐感。构建过程涉及焊接和接线，但作者计划创建 PCB，以便将来更容易组装。材料和运输成本约为 220 欧元。作者还提供了更换锅上油脂的说明，以使转动更顺畅。 3D 打印文件和源代码可供那些有兴趣构建自己的 ottopot 的人使用。 （根据 63% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66624</guid>
+      <pubDate>Mon, 01 Jan 2024 13:56:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容是以良好的面向对象的方式设计程序的指南 [...]</title>
-      <link>https://t.me/hn_summary/66607</link>
-      <description><![CDATA[Taligent 程序设计指南 [pdf](https://news .ycombinator.com/item?id=38830767)
-Web 内容是使用 C++ 进行良好的面向对象设计的程序设计指南。它由 Taligent Press 出版，提供 Taligent 工程师在设计和构建 Taligent 应用程序环境时遵循的指南和约定。本书涵盖的主题包括架构目标、面向对象的设计指南、类、抽象基类、继承、设计性能、常见设计问题和陷阱、C++ 编程约定和 Taligent 环境编程约定。它还包括在 Taligent 环境中进行编程的技巧和技术，并解决了可移植性问题。该内容旨在作为参考指南，而不是一本需要从头到尾阅读的书。 （根据故事文本的 3% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66607</guid>
-      <pubDate>Mon, 01 Jan 2024 10:25:12 GMT</pubDate>
+      <title>习惯日历是一个紧凑且可打印的日历，旨在帮助您跟踪您的习惯 [...]</title>
+      <link>https://t.me/hn_summary/66623</link>
+      <description><![CDATA[显示 HN：（紧凑）可打印的 2024 年习惯日历
+习惯日历是一个紧凑且可打印的日历，旨在帮助您跟踪全年的习惯。通过自定义月数和习惯，您可以定制日历以满足您的特定需求。但是，如果您的习惯不符合给定的参数，该网站建议尝试更少的习惯、更少的月份，或者将日历分成两个可打印的内容。该工具是保持组织性和动力以实现目标的好方法。]]></description>
+      <guid>https://t.me/hn_summary/66623</guid>
+      <pubDate>Mon, 01 Jan 2024 13:51:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 领先的在线交易和投资专家盛宝银行发布了其 Outrag [...]</title>
-      <link>https://t.me/hn_summary/66606</link>
-      <description><![CDATA[盛宝银行 2024 年令人震惊的预测
-领先的在线交易和投资专家盛宝银行发布了 2024 年的惊人预测。这些预测旨在挑战传统智慧，为投资者提供对潜在市场趋势的独特见解。这些预测包括新的全球储备货币的崛起、新的太空竞赛的出现以及用于治疗用途的迷幻药物的合法化。尽管这些预测可能看起来有些离谱，但盛宝银行相信它们有潜力塑造全球经济的未来。我们鼓励投资者在规划未来几年的投资策略时考虑这些预测。]]></description>
-      <guid>https://t.me/hn_summary/66606</guid>
-      <pubDate>Mon, 01 Jan 2024 10:03:32 GMT</pubDate>
+      <title>[媒体] TV Sort 是一款基于网络的游戏，允许用户对电视节目剧集进行排名。</title>
+      <link>https://t.me/hn_summary/66622</link>
+      <description><![CDATA[Show HN：我制作了 TV Sort，一款基于网络的游戏电视剧集排名
+TV Sort 是一款基于网络的游戏，允许用户对电视节目剧集进行排名。只需查找您想要排名的电视节目并在 1v1 战斗中比较剧集即可。这个游戏可以帮助你发现你对每一集的真实感受，让你创建自己的个性化排名。这是一种有趣的互动方式，可以让您参与喜爱的电视节目并与他人分享您的观点。尝试一下，看看您的排名是否符合流行观点，或者您是否有一些令人惊讶的最爱！]]></description>
+      <guid>https://t.me/hn_summary/66622</guid>
+      <pubDate>Mon, 01 Jan 2024 13:38:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
