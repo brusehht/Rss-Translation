@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 01 Jan 2024 09:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 12:20:28 GMT</lastBuildDate>
+    <item>
+      <title>您能帮助我完善我创建的项目的用例吗？</title>
+      <link>https://www.reddit.com/r/software/comments/18vtee6/can_you_help_me_refining_the_use_case_of_the/</link>
+      <description><![CDATA[我构建了一个可以将 BRD/SRS 与代码库匹配的 AI 工具。这种工具的用例可能是什么？一些示例用例包括：  此工具可以识别代码库中与 BRD/SRS 匹配或部分匹配的功能，以进行有针对性的 QA 测试。 它可以检测哪些功能具有相应的单元测试，以告知 QA 测试覆盖率差距。 对于开发人员，它可以显示哪些功能在代码库中的哪个文件中实现以及哪些功能负责，以便开发人员可以轻松浏览代码库并立即找到任何功能。 允许客户和项目经理监控实时进度功能完成情况和项目状态。  您能指定任何其他用例吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18vtee6/can_you_help_me_refining_the_use_case_of_the/</guid>
+      <pubDate>Mon, 01 Jan 2024 09:36:50 GMT</pubDate>
+    </item>
     <item>
       <title>像Ms Paint这样的软件？</title>
       <link>https://www.reddit.com/r/software/comments/18vrz18/software_like_ms_paint/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>用于在计算机上录制屏幕的程序</title>
       <link>https://www.reddit.com/r/software/comments/18v883w/program_za_snimanje_ekrana_na_racunaru/</link>
-      <description><![CDATA[是否有一个经过验证的程序可以记录计算机上所做的一切，可能对用户不可见。 &lt; ! -- SC_ON --&gt;  由   提交/u/Bitter-Economics-227   [链接] [评论]]]></description>
+      <description><![CDATA[是否有一个经过验证的程序可以记录计算机上执行的所有操作，而用户可能看不到。 &lt; ! -- SC_ON --&gt;  由   提交/u/Bitter-Economics-227   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18v883w/program_za_snimanje_ekrana_na_racunaru/</guid>
       <pubDate>Sun, 31 Dec 2023 13:53:43 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>支持 hevc 265 的 movavi 视频转换器替代方案（非专业使用）</title>
       <link>https://www.reddit.com/r/software/comments/18v6svq/movavi_video_converter_alternative_that_supports/</link>
-      <description><![CDATA[movavi 很好，因为它易于使用，剪切和裁剪视频，然后转换为其他格式或简单地降低比特率 问题是 movavi 不支持 hevc h265，所以我必须将所有视频转换为 h264 才能使用 movavi 编辑它们 快门相当不错，但进行多次剪切是一个问题巨大的痛苦（复杂的过程） - 特别是在制作很多视频时。而且它只剪切而不转换，所以你必须剪切，然后添加新文件，然后转换 - 这样很麻烦 像 kdnlive 或 DaVinci Resolve 这样的视频编辑器非常复杂，尤其是在剪切和裁剪很多内容的情况下视频。  我需要一些简单的东西 手刹仅用于转换，无法编辑 谢谢 windows 10 22h2   由   提交/u/vanderzee  [链接] [评论]]]></description>
+      <description><![CDATA[movavi 很好，因为它易于使用，剪切和裁剪视频，然后转换为其他格式或简单地降低比特率 问题是 movavi 不支持 hevc h265，所以我必须将所有视频转换为 h264 才能使用 movavi 编辑它们 快门相当不错，但进行多次剪切是一个问题巨大的痛苦（复杂的过程） - 特别是在制作很多视频时。而且它只剪切而不转换，所以你必须剪切，然后添加新文件，然后转换 - 这样很麻烦 像 kdnlive 或 DaVinci Resolve 这样的视频编辑器非常复杂，尤其是在剪切和裁剪很多内容的情况下视频。  我需要一些简单的东西 手刹仅用于转换，无法编辑 谢谢 windows 10 22h2   由   提交 /u/vanderzee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18v6svq/movavi_video_converter_alternative_that_supports/</guid>
       <pubDate>Sun, 31 Dec 2023 12:29:09 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[切换自动缩放：o 增加比例因子：Alt+o 减少比例因子：Alt+ Shift+o   由   提交 /u/cryptomelons   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18uw18m/holy_fuck_in_vlc_media_player_you_have_the/</guid>
       <pubDate>Sun, 31 Dec 2023 01:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么如果 handbrake 是 ffmpeg 的 GUI，那么 GIMP 的 CLI 版本是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/18uv21m/so_if_handbrake_is_a_gui_for_ffmpeg_then_what_is/</link>
-      <description><![CDATA[这个问题源于在 gimp 上使用编程功能的愿望，这似乎是一种模式，每当从 GUI 转换到 CLI 时，您都会解锁新的能力完成。   由   提交/u/zaknenou   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18uv21m/so_if_handbrake_is_a_gui_for_ffmpeg_then_what_is/</guid>
-      <pubDate>Sun, 31 Dec 2023 00:57:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
