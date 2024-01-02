@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 02 Jan 2024 12:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 18:16:19 GMT</lastBuildDate>
+    <item>
+      <title>开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/18wvwcz/open_source/</link>
+      <description><![CDATA[       由   提交/u/tizzytaz614  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18wvwcz/open_source/</guid>
+      <pubDate>Tue, 02 Jan 2024 18:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GatewayD 内部结构：剖析强大的开源数据库网关</title>
+      <link>https://www.reddit.com/r/opensource/comments/18wsbqi/gatewayd_internals_dissecting_a_potent_opensource/</link>
+      <description><![CDATA[这篇文章&lt; /a&gt; 讨论由优秀维护者 Mostafa Moradian 维护的 GatewayD Labs 的工作原理。 数据库网关在系统级别非常出色。 GatewayD 是一个令人着迷且深思熟虑的实现。这些小事加起来就能成就大事。 GatewayD 一直在交付出色的工作，具有良好的发布节奏和贡献者吸引力。它充分应对代理挑战，并通过极高的可配置性和可观察性设置增强用户体验。在我看来，它很可靠，与 Envoy 代理等经典产品处于同一水平。这篇文章很简洁，包括 TLS 终止。    由   提交 /u/appinv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18wsbqi/gatewayd_internals_dissecting_a_potent_opensource/</guid>
+      <pubDate>Tue, 02 Jan 2024 15:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在QEMU VM中安装Haiku OS R1 Beta4、KDE软件教程</title>
+      <link>https://www.reddit.com/r/opensource/comments/18wsb1f/install_haiku_os_r1_beta4_kde_software_in_qemu_vm/</link>
+      <description><![CDATA[       由   提交 /u/nmariusp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18wsb1f/install_haiku_os_r1_beta4_kde_software_in_qemu_vm/</guid>
+      <pubDate>Tue, 02 Jan 2024 15:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一些无限画布或基于矢量的笔记应用程序支持 Android 平板电脑的手写功能？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/</link>
+      <description><![CDATA[我正在寻找一个基于无限画布/矢量的应用程序，用于在我的三星选项卡上制作概念图和心理图以及方案。我一直在浏览此子目录以查找此类应用程序，但我能找到的所有建议要么仅适用于 Windows/Linux，要么根本没有手写支持。 我想到的是类似于 Inkscape 或 Rnote 的东西。您会推荐什么？   由   提交/u/USS_Prominence-1   /u/USS_Prominence-1 reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/</guid>
+      <pubDate>Tue, 02 Jan 2024 14:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔 2023 年开源贡献和上游性能优化排名</title>
+      <link>https://www.reddit.com/r/opensource/comments/18wp8ky/intels_opensource_contributions_upstream/</link>
+      <description><![CDATA[       由   提交/u/brand_momentum  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18wp8ky/intels_opensource_contributions_upstream/</guid>
+      <pubDate>Tue, 02 Jan 2024 13:18:33 GMT</pubDate>
+    </item>
     <item>
       <title>开源项目如何确保其贡献的许可？</title>
       <link>https://www.reddit.com/r/opensource/comments/18wmykb/how_do_open_source_projects_ensure_the_licencing/</link>
@@ -71,44 +106,9 @@
     <item>
       <title>SWE 实习和新毕业生工作清单</title>
       <link>https://www.reddit.com/r/opensource/comments/18w3s0l/swe_internships_and_new_grad_job_lists/</link>
-      <description><![CDATA[大家好， 一直在从事一个业余项目，以帮助我为我寻找的软件工程工作创建一个列表实习。我意识到其他人也可能从中受益，因此我将其扩展为支持国际工作和新毕业生职位。尤其是对于大学生来说，找工作真的很难，所以我希望这对其他人有用。 https://github.com/speedyapply/swe-college-jobs   由   提交/u/0xjoemama69420   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 一直在从事一个业余项目，以帮助我为我正在寻找的软件工程工作创建一个列表实习。我意识到其他人也可能从中受益，因此我将其扩展为支持国际工作和新毕业生职位。尤其是对于大学生来说，找工作真的很难，所以我希望这对其他人有用。 https://github.com/speedyapply/swe-college-jobs   由   提交/u/0xjoemama69420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18w3s0l/swe_internships_and_new_grad_job_lists/</guid>
       <pubDate>Mon, 01 Jan 2024 19:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源软件不断变化的经济学</title>
-      <link>https://www.reddit.com/r/opensource/comments/18w2de4/the_changing_economics_of_opensource_software/</link>
-      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18w2de4/the_changing_economics_of_opensource_software/</guid>
-      <pubDate>Mon, 01 Jan 2024 18:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要与非编码朋友分享第一个编码项目，但它一直被标记为误报病毒</title>
-      <link>https://www.reddit.com/r/opensource/comments/18w1p6k/want_to_share_first_coding_project_with_non_coder/</link>
-      <description><![CDATA[大家好，我刚刚用 python 编写了一个快速脚本，用于在 2 个音频输出设备之间切换，同时避免 Windows 11 设置菜单的噩梦。 ​ ​  import subprocess # Python 虚拟环境中 nircmd.exe 的路径 nircmd_exe_path = &quot;H:\\PY \\AudioSourceSwitch\\venv\\nircmd.exe” # 您的设备名称出现在showsounddevices 输出中peaks_name = &quot;Speakers1&quot;; # 您的扬声器名称耳机名称=“JBL1” # 耳机的名称 # 跟踪最后设置的音频设备的文件 state_file = &quot;H:\\PY\\AudioSourceSwitch\\last_device.txt&quot; def switch_default_audio_device(device_name): # 使用nircmd设置默认音频设备 subprocess.run([nircmd_exe_path, &#39;setdefaultsounddevice&#39;, device_name, &#39;1&#39;]) subprocess.run([nircmd_exe_path, &#39;setdefaultsounddevice&#39;, device_name, &#39;2&#39;] ) # 使用新设备名称更新状态文件 with open(state_file, &#39;w&#39;) as f: f.write(device_name) def get_last_device(): try: with open(state_file, &#39;r&#39;) as f: return f .read().strip() except FileNotFoundError: # 如果状态文件不存在，则返回 None return None def toggle_audio_device(): last_device = get_last_device() # 如果最后一个设备是耳机，则切换到扬声器，反之亦然 if last_device == Headphones_name: switch_default_audio_device(speakers_name) print(f&quot;Switched to {speakers_name}&quot;) else: switch_default_audio_device(headphones_name) print(f&quot;Switched to {headphones_name}&quot;) # 运行切换函数toggle_audio_device()  ​ ​ 我想与不懂Python的朋友分享，所以我把它做成了一个可执行文件。但当他们尝试使用它时，它会被错误地标记为病毒。我知道他们可以将其列入白名单，但最好避免它感觉粗略。 我考虑过验证代码，但对于只想验证的人来说似乎没有（廉价）可行的选择向其他人表明代码是安全的并且不会出现 Windows 错误。它不值得为我支付 100 美元，因为我只想发送给一些朋友。我想知道是否有类似社区证书之类的东西？基本上就像一些开源方法一样。这可能是一个没有实际经验的人的愚蠢想法，但只是想问是否有类似的事情存在？谢谢   由   提交 /u/maxisking   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18w1p6k/want_to_share_first_coding_project_with_non_coder/</guid>
-      <pubDate>Mon, 01 Jan 2024 17:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建像 Techmeme 这样的新闻聚合器的开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18vh3ef/opensource_projects_to_create_news_aggregators/</link>
-      <description><![CDATA[​ 寻找起点，为完全不同的领域的当代/主题聚合器开发 Web 应用程序和数据源，但 https://www.techmeme.com/ https://en.wikipedia.org/wiki/Techmeme#Technology 特别是能够选择标题，然后链接一些讨论它的资源以及相关/相邻的故事。 RSS 聚合器存在，但想知道是否有人在 2023 年使用生成人工智能或相似性搜索等功能来进行诸如此类的项目这个。 ​   由   提交/u/ennova2005  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18vh3ef/opensource_projects_to_create_news_aggregators/</guid>
-      <pubDate>Sun, 31 Dec 2023 21:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何查找开源应用程序的二进制文件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18vdvwr/how_to_find_binaries_for_an_open_source/</link>
-      <description><![CDATA[每次我尝试使用开源软件时，我都很难找到二进制文件。我没有也不想要构建项目所需的软件或硬件，只想使用一个工具。 通常与项目相关的官方网站只列出源文件，因此我无法使用我想要的软件。   由   提交/u/LordAmir2252  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18vdvwr/how_to_find_binaries_for_an_open_source/</guid>
-      <pubDate>Sun, 31 Dec 2023 18:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 Moodist：Noisli（环境声音生成器）的免费开源替代品🌲</title>
-      <link>https://www.reddit.com/r/opensource/comments/18vbahu/introducing_moodist_a_free_and_opensource/</link>
-      <description><![CDATA[       由   提交 /u/remvze    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18vbahu/introducing_moodist_a_free_and_opensource/</guid>
-      <pubDate>Sun, 31 Dec 2023 16:29:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
