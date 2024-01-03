@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 03 Jan 2024 12:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 15:12:26 GMT</lastBuildDate>
+    <item>
+      <title>探索主动式人工智能：是否有开源库可以赋予人工智能主动性，使其能够自主地与用户发起对话？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18xl2rj/exploring_proactive_ai_are_there_opensource/</link>
+      <description><![CDATA[大家好，我最近正在研究一个名为 GPTUI 的开源 AI (Python) 项目。我增加了AI主动关怀的功能，赋予AI一定程度的主动性，让它能够自主发起对话、表达关心。随着AI-Care的增强，AI通常可以主动继续对话，这在一些AI群聊系统中也是有益的。如您所知，许多人工智能群聊系统经常陷入沉默（如果系统设计得足够自然，允许这种情况发生）。 您认为这是一个好主意吗？  它在实践中表现得非常好，这里有一个演示视频，供有兴趣的人看看。 AI-Care 演示 我已将主动式 AI 功能分离为独立的开放式功能源库名为AI-Care，方便其他人使用。我很好奇是否有任何现有的库提供类似的功能或尝试探索此功能？它们的效果如何？如果您知道任何此类工作或对我的工作感兴趣，请在评论中分享您的想法和建议。谢谢。   由   提交 /u/happyapplehorse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18xl2rj/exploring_proactive_ai_are_there_opensource/</guid>
+      <pubDate>Wed, 03 Jan 2024 14:47:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>反馈：通过开源项目创收的平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/18xl1s4/feedback_platform_to_generate_revenue_from/</link>
+      <description><![CDATA[https://codebarter.dev/&lt; /a&gt; 我建立了一个平台来帮助开源开发人员创收。 我希望通过简化销售服务和产品来帮助他们，例如：  培训课程 文档 付费支持 定制功能 ...  这仍然是一项正在进行的工作，但我希望得到一些反馈，以使其变得更好并了解开源开发人员的需求。 让我知道您的想法！ &lt; /div&gt;  由   提交 /u/VariousPotential   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18xl1s4/feedback_platform_to_generate_revenue_from/</guid>
+      <pubDate>Wed, 03 Jan 2024 14:46:13 GMT</pubDate>
+    </item>
     <item>
       <title>问 /r/opensource：2024 年您想为开源做出哪些贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/18xh1ao/ask_ropensource_what_open_source_contributions_do/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/BIServices  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18wl3q7/is_there_a_holiday_on_tuesday_request_vacation/</guid>
       <pubDate>Tue, 02 Jan 2024 09:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关 Certum 开源证书的帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/18wbjwl/need_help_with_certum_open_source_certificate/</link>
-      <description><![CDATA[我从 Certum 购买了开源代码签名集，收到了 USB 加密卡，但我不知道下一步该做什么。我*认为*我需要他们网站上的证书，但那里没有任何内容，我找不到任何其他信息。我已经给公司发邮件了，没有结果。我已尝试完成整个过程以开始向他们验证我的身份，但我需要一个代码（？），我认为它是证书的一部分。这一切都非常令人困惑，我认为我错过了一个关键步骤。 使用此服务的人有任何信息吗？我真的很感激。 这是我购买的软件包：https://shop.certum.eu/open-source-code-signing.html&quot;&gt;https:// /shop.certum.eu/open-source-code-signing.html   由   提交/u/Zifrian  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18wbjwl/need_help_with_certum_open_source_certificate/</guid>
-      <pubDate>Tue, 02 Jan 2024 00:31:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何全职使用你的开源应用程序？ （斯特林-pdf）</title>
-      <link>https://www.reddit.com/r/opensource/comments/18w9uff/how_to_go_full_time_with_your_open_source_app/</link>
-      <description><![CDATA[大家好，我是一个名为 Stirling-PDF 的应用程序的开发人员，去年我一直在开发该应用程序，该应用程序已经取得了很多成果最近很受关注。 我很乐意全职工作，真正全身心投入到该应用程序中。 有相当多的公司和拥有 300 多人的大型办公室告诉我我通过从 Adob​​e 迁移为他们节省了钱，并收到了感谢，他们似乎节省了很多钱。 但是当谈到捐赠和资金总额时，似乎还不到英镑每月总共 40-70  我想知道如何才能最好地从中赚钱，这样我就可以投入我的时间和全职工作，并添加我想要构建的功能等 人们推荐什么？ （以捐赠等形式以及如何尝试获得更多公共资金）   由   提交 /u/Froooodle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18w9uff/how_to_go_full_time_with_your_open_source_app/</guid>
-      <pubDate>Mon, 01 Jan 2024 23:17:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
