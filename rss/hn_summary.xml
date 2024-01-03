@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Jan 2024 15:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 21:11:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 题为“Bitwarden Heist - 如何在不使用 [...] 的情况下闯入密码库的博客文章</title>
-      <link>https://t.me/hn_summary/66966</link>
-      <description><![CDATA[Bitwarden 抢劫 – 如何在不使用密码的情况下闯入密码库
-题为“Bitwarden Heist - 如何在不使用密码的情况下闯入密码库”的博客文章讨论了 Bitwarden 的 Windows Hello 实现中发现的安全漏洞。作者是一名渗透测试人员，发现他们能够在不知道密码或不需要生物识别身份验证的情况下远程窃取 Bitwarden 金库中的所有凭据。作者解释说，Bitwarden 的保险库通过帐户加密密钥进行保护，该密钥源自主密码。不过，Bitwarden 还允许使用 Windows Hello 进行生物识别解锁，Windows Hello 会加密派生密钥的副本并将其存储在安全位置。作者通过从受感染的加入域的工作站上的加密 DPAPI 存储检索派生密钥来利用此功能。此漏洞凸显了仅依赖生物识别身份验证进行密码库相关的潜在风险。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66966</guid>
-      <pubDate>Wed, 03 Jan 2024 15:03:08 GMT</pubDate>
+      <title>在本文中，我们提出了一种使用自我游戏来微调语言模型的新方法。</title>
+      <link>https://t.me/hn_summary/67038</link>
+      <description><![CDATA[自玩微调将弱语言模型转换为强语言模型
+在本文中，我们提出了一种使用自我游戏来微调语言模型的新方法。我们证明，通过让同一语言模型的两个实例相互进行游戏，它们可以学习生成更强、更连贯的文本。我们评估了我们在各种语言任务上的方法，包括文本完成和情感分析，并显示出比传统微调方法的显着改进。我们的结果表明，自对弈微调可以成为增强语言模型能力的强大技术。这种方法有可能彻底改变自然语言处理领域，并为生成高质量文本开辟新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/67038</guid>
+      <pubDate>Wed, 03 Jan 2024 21:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者批评联邦贸易委员会（FTC）缺乏了解 [...]</title>
-      <link>https://t.me/hn_summary/66965</link>
-      <description><![CDATA[FTC 在不了解任何情况的情况下继续介入人工智能版权问题
-作者批评联邦贸易委员会 (FTC) 对版权法缺乏了解和专业知识，特别是在人工智能 (AI) 方面。联邦贸易委员会向美国版权局发表的评论认为，合理使用是反竞争的，但作者不同意这一点，并指出合理使用实际上促进了竞争。作者还强调了版权专家对联邦贸易委员会关于人工智能培训可能违反第 5 条的建议所提出的担忧，这可能会降低创作者作品的价值。作者进一步批评FTC采取片面做法，推行反竞争的版权垄断。]]></description>
-      <guid>https://t.me/hn_summary/66965</guid>
-      <pubDate>Wed, 03 Jan 2024 15:01:56 GMT</pubDate>
+      <title>Sage 编程语言是一种可移植、富有表现力且直观的编程语言，[...]</title>
+      <link>https://t.me/hn_summary/67037</link>
+      <description><![CDATA[展示 HN：Sage 编程语言
+Sage 编程语言是一种可移植、富有表现力且直观的编程语言，结合了 Rust、C 和 Python 的各个方面。它目前有一个 x86 编译器后端、一个 C 源代码后端和一个可以在 Web 上运行的 VM 解释器后端。该项目旨在提供一种易于实现的语言，同时仍提供优化功能。它仍处于开发的早期阶段，尚未准备好用于生产使用，但它可以用来编写有用的程序。该项目对贡献开放，特别是为其他架构添加后端和创建 VSCode 语法突出显示扩展。作者是一名计算机专业研究生，具有编译器开发经验。]]></description>
+      <guid>https://t.me/hn_summary/67037</guid>
+      <pubDate>Wed, 03 Jan 2024 21:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最后一个星期日是一个旨在提供图形化且发人深省的 vi [...]</title>
-      <link>https://t.me/hn_summary/66964</link>
-      <description><![CDATA[Show HN：以生动的方式提醒生命的价值，开始每个终端会话
-《最后的星期日》是一个旨在以图形化且发人深省的方式展示人的一生的项目，鼓励人们反思如何度过时间。该项目提供了一个用 Bash 和 Ruby 语言编写的脚本，并创建了 Ruby 版本来展示 Ruby 仍然具有相关性。可以从存储库下载或克隆该脚本并将其添加到用户的 .bashrc/.zshrc/etc 中。文件。用户需要向脚本提供他们的出生日期和姓名。该项目的灵感来自 The Last Sunday chrome 扩展，欢迎用户的贡献、想法和反馈。]]></description>
-      <guid>https://t.me/hn_summary/66964</guid>
-      <pubDate>Wed, 03 Jan 2024 14:49:47 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了亚洲龙鱼的黑市，亚洲龙鱼是世界上最有价值的鱼 [...]</title>
+      <link>https://t.me/hn_summary/67036</link>
+      <description><![CDATA[最昂贵宠物鱼的疯狂市场&lt; br/&gt;
+本文讨论了世界上最有价值的水族馆宠物亚洲龙鱼的黑市。这种鱼在美国进口、销售和拥有都是非法的，但在世界其他地区，尤其是中国，却备受追捧。这种鱼的稀有性和神秘品质使其成为一种奢侈品，平均每条鱼的价格从 1200 美元到 5500 美元不等。一些极其稀有的标本可以卖到 30 万美元。该行业竞争激烈，而且往往很危险，有破坏、盗窃甚至谋杀的报道。供应链涉及东南亚的养殖场向其他国家的经销商销售。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67036</guid>
+      <pubDate>Wed, 03 Jan 2024 21:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一项研究表明，近一半的英国青少年对社交媒体上瘾 [...]</title>
-      <link>https://t.me/hn_summary/66963</link>
-      <description><![CDATA[研究显示：近一半的英国青少年对社交媒体上瘾说
-剑桥大学的一项研究显示，近一半的英国青少年对社交媒体上瘾。这项研究使用了千禧年队列研究的数据，发现 48% 的受访者同意或强烈同意“我认为我沉迷于社交媒体”的说法。研究还显示，与男孩（37%）相比，感到上瘾的女孩（57%）比例更高。虽然这项研究并没有表明这些人在临床上成瘾，但它凸显了许多人与社交媒体之间存在问题的关系，以及人们对社交媒体使用缺乏控制的情况。这项调查结果出台之际，大型科技公司面临着越来越大的压力，要求对其平台对用户的影响负责。]]></description>
-      <guid>https://t.me/hn_summary/66963</guid>
-      <pubDate>Wed, 03 Jan 2024 14:29:32 GMT</pubDate>
+      <title>问 HN：学习 GPU 编程的最佳方法？</title>
+      <link>https://t.me/hn_summary/67035</link>
+      <description><![CDATA[询问 HN：学习 GPU 编程的最佳方法？ 
+news.ycombinator.com 上这篇文章的作者是寻求有关学习 GPU 编程的最佳方法的建议。他们对在 Coursera 上上的课程表示失望，现在正在寻找高质量的资源来了解 GPU 架构、CUDA、Triton 等。作者的目标是能够从头开始实现Flash Attention或者优化现有的CUDA代码。]]></description>
+      <guid>https://t.me/hn_summary/67035</guid>
+      <pubDate>Wed, 03 Jan 2024 21:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科林·谢恩 (Colin Shearn)，范堡罗噪音组织 (Farnborough Noise Group) 的领导者，该组织是当地人关注的监督机构 [...]</title>
-      <link>https://t.me/hn_summary/66962</link>
-      <description><![CDATA[随着扩建计划的继续，范堡罗机场最大的批评者沉默了&lt; br/&gt;
-范堡罗噪音小组 (Farnborough Noise Group) 的负责人科林·谢恩 (Colin Shearn) 是一个关注范堡罗机场的当地人的监督机构，他因萨里警方获得的反社会行为禁令 (asbi) 而被噤声。谢恩被指控对机场进行攻击性活动并造成骚扰和困扰。谢恩被噤声后不久，范堡罗机场宣布计划将周末航班数量增加一倍。机场最新的规划应用程序允许更重的飞机和增加航班，以满足商务旅行的需求。然而，批评者对此表示怀疑，理由是对噪音、污染和机场排放状况的担忧。政府的气候变化委员会建议在航空业减少二氧化碳排放之前不要扩建机场。批评者还认为，范堡罗的许多航班都是出于休闲目的，而不是商务旅行。私人飞机行业正在经历显着增长，从英国机场起飞的十分之一是私人飞机航班。范堡罗机场发言人声称，该机场处于可持续发展的最前沿，其每位乘客的经济产出大大高于商业机场。谢恩的阿斯比导致他无法与机场接触，并迫使他辞去范堡罗噪音小组主席的职务。当地报纸报道了这一争议，萨里市前警察兼犯罪专员也对谢恩表示支持。范堡罗机场咨询委员会的一些成员对禁止谢恩与该组织接触的禁令提出质疑。]]></description>
-      <guid>https://t.me/hn_summary/66962</guid>
-      <pubDate>Wed, 03 Jan 2024 14:25:22 GMT</pubDate>
+      <title>[媒体]Laylo 是一个艺人和媒体品牌的营销平台，正在招聘现场活动 [...]</title>
+      <link>https://t.me/hn_summary/67034</link>
+      <description><![CDATA[Laylo 正在招聘现场活动和音乐客户经理 
+Laylo 是一个针对艺人和媒体品牌的营销平台，正在招聘一名现场活动和音乐客户经理。该公司旨在通过为艺人和媒体品牌提供营销工具来收集粉丝数据并提高参与度，从而增强他们的能力。 Laylo 已帮助实现了超过 2.5 亿美元的门票销售，目前正在寻找一位客户经理来帮助增加收入。该角色的职责包括开发销售资料、管理销售渠道以及维护客户关系。理想的候选人应该拥有现场活动行业的经验，对票务领域有深入的了解，并且热衷于创造有意义的东西。 Laylo 是一个位于洛杉矶的小团队，但对远程招聘持开放态度。]]></description>
+      <guid>https://t.me/hn_summary/67034</guid>
+      <pubDate>Wed, 03 Jan 2024 21:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：自由职业者？</title>
-      <link>https://t.me/hn_summary/66961</link>
-      <description><![CDATA[询问 HN：自由职业者？寻找自由职业者？ （2024年1月）
-news.ycombinator.com 上的 Ask HN 帖子是个人与自由职业者联系或寻求自由职业机会的平台。该帖子要求用户具体说明他们是在寻找工作还是自由职业者、他们的位置以及是否可以进行远程工作。该帖子严格禁止代理机构、招聘人员和招聘委员会参与。这确保了自由职业者和潜在雇主之间的直接和个人联系。对于自由职业者来说，这是一个寻找工作的绝佳机会，对于雇主来说，这是一个直接雇用人才的绝佳机会。]]></description>
-      <guid>https://t.me/hn_summary/66961</guid>
-      <pubDate>Wed, 03 Jan 2024 14:21:06 GMT</pubDate>
+      <title>[媒体]TinyGPT-V 项目是一个高效的多模态大型语言模型，它使用小型 [...]</title>
+      <link>https://t.me/hn_summary/67033</link>
+      <description><![CDATA[TinyGPT-V：通过小骨干实现高效的多模态大型语言模型
+TinyGPT-V 项目是一个使用小型骨干网的高效多模态大型语言模型。它旨在为语言建模任务提供紧凑且高效的解决方案。该项目提供了 TinyGPT-V 模型的安装、培训和评估的代码和说明。它需要使用预训练的权重和模型检查点。作者提到TinyGPT-V基于Phi-2，并提供了使用相应权重设置模型的说明。该项目还包括一个用于在本地运行模型的演示。作者认可 MiniGPT 模型，并提供 BibTeX 引用以引用 TinyGPT-V 项目。]]></description>
+      <guid>https://t.me/hn_summary/67033</guid>
+      <pubDate>Wed, 03 Jan 2024 21:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] seclists.org 上的 Bugtraq 邮件列表档案包含来自 grugq announ 的帖子 [...]</title>
-      <link>https://t.me/hn_summary/66960</link>
-      <description><![CDATA[Bugtraq：Userland Exec (2004)
-seclists.org 上的 Bugtraq 邮件列表档案包含来自grugq 宣布实施 Userland Exec。 Userland Exec 是一种允许在不使用系统调用 execve() 的情况下执行二进制文件的机制。随附的论文解释了该代码的设计和实现，并包含完整的源代码。 Userland Exec 将当前地址空间中的现有进程映像替换为新的进程映像，模仿 execve() 系统调用的行为。这种机制在执行程序时最好不要在磁盘上创建文件的情况下非常有用。 （根据故事文本的 74% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66960</guid>
-      <pubDate>Wed, 03 Jan 2024 14:15:57 GMT</pubDate>
+      <title>[媒体]此网页内容是有关反编译器历史的两部分系列的第一部分 [...]</title>
+      <link>https://t.me/hn_summary/67032</link>
+      <description><![CDATA[30 年的反编译和未解决的结构化问题：第 1 部分
+本网页内容是关于反编译器研究历史和未解决的控制流结构化问题的两部分系列的第一部分。作者首先反思了自己在反编译研究方面的工作以及控制流结构化的重要性。然后，他们提供了二进制反编译的简要历史，从 Cristina Cifuentes 博士 1994 年关于反向编译技术的论文开始。作者解释了控制流结构化的概念以及它如何将控制流图转换为高级结构。他们还讨论了构建算法所涉及的挑战和选择。作者最后提到了编译器工作对控制流结构的影响以及 IDA Pro 和 Reko 等黑客反编译器的出现。他们还谈到了反编译器的学术研究，特别是2013年Phoenix反编译算法的发表。作者指出，近年来反编译研究领域相对安静。 （根据故事文本的 66% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67032</guid>
+      <pubDate>Wed, 03 Jan 2024 20:57:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 所罗门·谢列舍夫斯基 (Solomon Shereshevsky) 是一位俄罗斯记忆术士，出生于 1886 年至 1958 年。</title>
-      <link>https://t.me/hn_summary/66959</link>
-      <description><![CDATA[所罗门·谢列舍夫斯基
-所罗门·谢列舍夫斯基（Solomon Shereshevsky）是一位生活在1886年至1958年的俄罗斯记忆学家。他拥有非凡的记忆力，并参与了亚历山大·卢里亚（Alexander Luria）进行的众多心理学研究。谢列舍夫斯基有一种称为五重联觉的联觉形式，其中一种感觉的刺激会在他所有其他感觉中产生反应。他利用这种能力来记忆复杂的信息，包括数学公式和外语诗歌。谢列舍夫斯基还可以控制自己身体的非自愿功能，可以提高或降低心率以及改变手部温度。然而，他在日常生活中面临着挑战，例如由于分心的感觉而难以识别面孔和阅读。电影《远离言语》和广播剧《记忆人》的灵感来源于谢列舍夫斯基的一生。]]></description>
-      <guid>https://t.me/hn_summary/66959</guid>
-      <pubDate>Wed, 03 Jan 2024 14:09:45 GMT</pubDate>
+      <title>【媒体】作者分享了三年来作为数字游牧者的经历。</title>
+      <link>https://t.me/hn_summary/67031</link>
+      <description><![CDATA[我作为数字游民的三年实验&lt; br/&gt;
+作者分享了他们作为数字游牧者三年来的经历。他们解释说，Kapwing 的远程工作使他们可以在任何地方工作，因此他们利用这一点探索不同的地点并享受大自然。他们讨论了他们尝试过的三种不同风格的游牧生活方式：Airbnb Nomad、Vanlifer 和 Full-time Wanderer。他们强调了每种方法的优缺点，并为您需要如何使其发挥作用提供建议。作者还提到了他们一路上进行的一些失败的实验，比如用自己的汽车作为办公室、建造一个浮动办公室。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67031</guid>
+      <pubDate>Wed, 03 Jan 2024 20:50:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]据 Statcounter 统计，202 年 12 月 Linux 的桌面用户份额达到近 4% [...]</title>
-      <link>https://t.me/hn_summary/66958</link>
-      <description><![CDATA[Linux 在 Statcounter 上的桌面用户份额接近 4% 
-据 Statcounter 统计，2023 年 12 月 Linux 的桌面用户份额达到近 4%，较往年大幅增长。这一趋势表明 Linux 使用率稳步上升，几年前这一比例很少达到 2%。然而，对 Statcounter 的数据持保留态度很重要，因为它是基于抽样的。 12 月份，Windows 的使用量也有所增加，而 macOS 的使用量则有所下降。此外，如果 ChromeOS 包含在 Linux 数据中，则总体百分比将为 6.24%。这一趋势与多年来 Steam 调查中观察到的趋势类似。]]></description>
-      <guid>https://t.me/hn_summary/66958</guid>
-      <pubDate>Wed, 03 Jan 2024 14:00:29 GMT</pubDate>
+      <title>[媒体]科学家们取得了突破性的发现，一种名为 Zo 的新型抗生素 [...]</title>
+      <link>https://t.me/hn_summary/67030</link>
+      <description><![CDATA[科学家们欢呼可以杀死耐药细菌的新型抗生素
+科学家们突破性地发现了一种名为 Zosurabalpin 的新型抗生素，它具有杀死耐药细菌的潜力。这种抗生素对耐碳青霉烯类鲍曼不动杆菌（螃蟹）有效，该细菌被世界卫生组织列为第一要务病原体。螃蟹是医院感染的一个重要原因，尤其是使用呼吸机的患者。 Zosurabalpin 的作用是阻止脂多糖 (LPS)（一种保护革兰氏阴性菌的物质）转运至细菌外膜，最终杀死它们。这一发现意义重大，因为 50 多年来没有新的针对革兰氏阴性菌的抗生素被批准。虽然仅靠 Zosurabalpin 可能无法解决抗菌素耐药性危机，但它为未来针对其他细菌中相同转运系统的研究和药物开发打开了大门。另一种名为 murepavadin 的抗生素也正在开发中，以针对 LPS 运输。英国科学、创新和技术委员会还建议探索噬菌体作为抗生素替代品治疗耐药感染的潜力。]]></description>
+      <guid>https://t.me/hn_summary/67030</guid>
+      <pubDate>Wed, 03 Jan 2024 20:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了他们为家人创建的一款名为 BoopSnoop 的新应用程序。</title>
-      <link>https://t.me/hn_summary/66957</link>
-      <description><![CDATA[应用程序可以成为家常菜&lt; br/&gt;
-作者讨论了他们为家人创建的一款名为 BoopSnoop 的新应用程序。该应用程序很简单，允许用户发送查看后消失的照片和视频。作者解释了该应用程序的技术方面，并对使该项目成为可能的开源组件表示感谢。他们将自己的编程方式比作家庭厨师，强调为亲人创造一些东西的个人性和回报性。作者最后反思了创建个人应用程序所带来的独立性和安全性。该应用程序在作者的家人中取得了成功，并且每天都在继续使用。]]></description>
-      <guid>https://t.me/hn_summary/66957</guid>
-      <pubDate>Wed, 03 Jan 2024 13:59:22 GMT</pubDate>
+      <title>[媒体]文章讨论了美国提早开学时间的问题，并 [...]</title>
+      <link>https://t.me/hn_summary/67029</link>
+      <description><![CDATA[美国大多数州开学太早 
+文章讨论了美国提早开学的问题，重点是高中生。报告强调，路易斯安那州的开学时间最早，学生早上7点30分开始上学。美国儿科学会（AAP）建议中学生和高中生的上课时间不应早于上午8点30分，但93%的学生都在早上7点30分开始上学。美国高中在那之前就开始上课了。文章还提到了过早入学对青少年健康的负面影响，包括睡眠债及其对身心健康的影响。争议在于，尽管有证据支持建议的开始时间，但大多数学校并未遵守建议的开始时间。然而，已经取得了一些进展，加州通过了一项法律，要求初中和高中推迟上课时间。文章最后提到了在实施延迟开学时间的学区中观察到的积极成果，例如考试成绩和毕业率的提高。]]></description>
+      <guid>https://t.me/hn_summary/67029</guid>
+      <pubDate>Wed, 03 Jan 2024 20:24:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
