@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 03 Jan 2024 09:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 12:21:18 GMT</lastBuildDate>
+    <item>
+      <title>问 /r/opensource：2024 年您想为开源做出哪些贡献？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18xh1ao/ask_ropensource_what_open_source_contributions_do/</link>
+      <description><![CDATA[ 由   提交 /u/David_AnkiDroid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18xh1ao/ask_ropensource_what_open_source_contributions_do/</guid>
+      <pubDate>Wed, 03 Jan 2024 11:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源宝石通讯</title>
+      <link>https://www.reddit.com/r/opensource/comments/18xgu8x/open_source_gems_newsletter/</link>
+      <description><![CDATA[每周发送一封电子邮件，您可以在其中找到对您日常生活和工作有帮助的开源项目。 https://edoardottt.substack.com/p/open-source-gems-0 &lt; /div&gt;  由   提交/u/edoardottt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18xgu8x/open_source_gems_newsletter/</guid>
+      <pubDate>Wed, 03 Jan 2024 11:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该从此列表中安装哪个 apk？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18xf7y9/which_apk_should_i_install_from_this_list/</link>
+      <description><![CDATA[我是这个开源场景的新手。我在 github 上找到了这个 cromite 浏览器，下载页面上有 9 个 apk！我应该安装哪一个？！ https://github。 com/uazo/cromite/releases/tag/v120.0.6099.144-932cfc6f1e6ed1d9133fb648e5d12cd60fb3004d   由   提交/u/boomer_morningstar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18xf7y9/which_apk_should_i_install_from_this_list/</guid>
+      <pubDate>Wed, 03 Jan 2024 09:15:44 GMT</pubDate>
+    </item>
     <item>
       <title>创建用于反应的组件</title>
       <link>https://www.reddit.com/r/opensource/comments/18xca69/creating_components_for_react/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>是否有一些无限画布或基于矢量的笔记应用程序支持 Android 平板电脑的手写功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/</link>
-      <description><![CDATA[我正在寻找一个基于无限画布/矢量的应用程序，用于在我的三星选项卡上制作概念图和心智图以及方案。我一直在浏览此子目录以查找此类应用程序，但我能找到的所有建议要么仅适用于 Windows/Linux，要么根本没有手写支持。 我想到的是类似于 Inkscape 或 Rnote 的东西。您会推荐什么？   由   提交/u/USS_Prominence-1   /u/USS_Prominence-1 reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个基于无限画布/矢量的应用程序，用于在我的三星选项卡上制作概念图和心理图以及方案。我一直在浏览此子目录以查找此类应用程序，但我能找到的所有建议要么仅适用于 Windows/Linux，要么根本没有手写支持。 我想到的是类似于 Inkscape 或 Rnote 的东西。您会推荐什么？   由   提交/u/USS_Prominence-1   /u/USS_Prominence-1 reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18wq3nl/are_there_some_infinite_canvas_or_vectorbased/</guid>
       <pubDate>Tue, 02 Jan 2024 14:01:18 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>开源项目如何确保其贡献的许可？</title>
       <link>https://www.reddit.com/r/opensource/comments/18wmykb/how_do_open_source_projects_ensure_the_licencing/</link>
-      <description><![CDATA[我对管理开源项目贡献的正确方法感兴趣。更大的项目肯定有一个经过深思熟虑的流程。 我的问题分为两个部分：1）开源项目如何确保他们的贡献真正获得项目许可的许可？ 2) 他们是否需要检查贡献者是谁？ 许多 github 存储库都有一个免责声明，大意是“通过提交要包含在该项目中的贡献，您默示同意根据以下内容许可您的贡献” XYZ 许可证”。这是否足以合法地确保贡献确实获得该许可证的许可？许多贡献者可能永远不会阅读 github 欢迎页面的底部。是否习惯上以某种方式要求明确授予许可？ 假设隐式许可在某些司法管辖区有效但在其他司法管辖区无效，这是否意味着最终的程序实际上在那些不授予许可的司法管辖区中未获得许可。不认为隐式许可有效吗？ 我想 git 会跟踪谁贡献了什么。如果 James747372 做出贡献，项目是否会要求他们披露姓名，或者即使您不知道贡献者是谁，贡献者授予许可是否足够合法？    由   提交/u/gorba  [链接] [评论]]]></description>
+      <description><![CDATA[我对管理开源项目贡献的正确方法感兴趣。更大的项目肯定有一个经过深思熟虑的流程。 我的问题分为两个部分：1）开源项目如何确保他们的贡献真正获得项目许可的许可？ 2) 他们需要检查贡献者是谁吗？ 许多 github 存储库都有一个免责声明，大意是“通过提交要包含在该项目中的贡献，您默示同意根据以下内容许可您的贡献” XYZ 许可证”。这是否足以合法地确保贡献确实获得该许可证的许可？许多贡献者可能永远不会阅读 github 欢迎页面的底部。习惯上是否需要以某种方式明确授予许可？ 假设隐式许可在某些司法管辖区有效，但在其他司法管辖区无效，这是否意味着最终的程序实际上在那些不授予许可的司法管辖区中未获得许可。不认为隐式许可有效吗？ 我想 git 会跟踪谁贡献了什么。如果 James747372 做出贡献，项目是否会要求他们披露姓名，或者即使您不知道贡献者是谁，贡献者授予许可是否足够合法？    由   提交/u/gorba  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18wmykb/how_do_open_source_projects_ensure_the_licencing/</guid>
       <pubDate>Tue, 02 Jan 2024 11:06:29 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好，我是一个名为 Stirling-PDF 的应用程序的开发人员，去年我一直在开发该应用程序，该应用程序已经取得了很多成果最近很受关注。 我很乐意全职工作，真正全身心投入到该应用程序中。 有相当多的公司和拥有 300 多人的大型办公室告诉我我通过从 Adob​​e 迁移为他们节省了钱，并收到了感谢，他们似乎节省了很多钱。 但是当谈到捐赠和资金总额时，似乎还不到英镑每月总共 40-70  我想知道如何才能最好地从中赚钱，这样我就可以投入我的时间和全职工作，并添加我想要构建的功能等 人们推荐什么？ （以捐赠等形式以及如何尝试获得更多公共资金）   由   提交 /u/Froooodle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18w9uff/how_to_go_full_time_with_your_open_source_app/</guid>
       <pubDate>Mon, 01 Jan 2024 23:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好世界！ - bgammon.org 软件的技术概述</title>
-      <link>https://www.reddit.com/r/opensource/comments/18w8xsu/hello_world_a_technical_overview_of_the_software/</link>
-      <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18w8xsu/hello_world_a_technical_overview_of_the_software/</guid>
-      <pubDate>Mon, 01 Jan 2024 22:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能技术，更智能的解决方案：介绍</title>
-      <link>https://www.reddit.com/r/opensource/comments/18w8tgx/smart_tech_smarter_solutions_introducing/</link>
-      <description><![CDATA[智能技术与巧妙解决方案的结合。了解我们的项目如何应对现实世界的挑战并对企业和个人产生积极影响 https://akool.com/    由   提交 /u/Agreeable-Feefda    reddit.com/r/opensource/comments/18w8tgx/smart_tech_smarter_solutions_introducing/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18w8tgx/smart_tech_smarter_solutions_introducing/</guid>
-      <pubDate>Mon, 01 Jan 2024 22:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>规划平台或软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/18w6jqy/planning_platform_or_software/</link>
-      <description><![CDATA[我想在家为人们举办早午餐和晚餐，并且我正在寻找一种免费且简单的方式来允许注册有限的人数（限制由我设定）并让他们在少量菜肴中进行选择。最好还获取他们的数据（姓名、年龄、电话号码），以进行协调。 任何人都可以推荐一个好的平台或软件吗？   由   提交 /u/Perpetual_Nuisance   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18w6jqy/planning_platform_or_software/</guid>
-      <pubDate>Mon, 01 Jan 2024 20:58:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
