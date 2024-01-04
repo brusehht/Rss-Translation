@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 04 Jan 2024 03:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 06:15:34 GMT</lastBuildDate>
     <item>
       <title>问题：在 Premiere 中以 4K 导出 1080 Conform</title>
       <link>https://www.reddit.com/r/editors/comments/18y2oe0/question_exporting_1080_conform_at_4k_in_premiere/</link>
-      <description><![CDATA[我正在 Premiere 中调整短片的颜色正确性，并将 Apple ProRes 代理重新连接到源 R3D 素材。我以 1080 进行剪辑，R3D 源是 8k。如果我以 4K UHD 导出 1080 一致序列（现在匹配回源 R3D 文件），它会使用时间线中源剪辑的分辨率并保持质量吗？ &lt;!-- SC_ON - -&gt;  由   提交/u/-JSLASHER-   /u/-JSLASHER-  reddit.com/r/editors/comments/18y2oe0/question_exporting_1080_conform_at_4k_in_premiere/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我正在 Premiere 中调整短片的颜色正确性，并将 Apple ProRes 代理重新连接到源 R3D 素材。我以 1080 进行剪辑，R3D 源是 8k。如果我以 4K UHD 导出 1080 一致序列（现在匹配回源 R3D 文件），它会使用时间线中源剪辑的分辨率并保持质量吗？ ​ 系统规格：Mac Studio M1 Ultra、20 核、64GB RAM 软件规格：Premiere Pro 2024 素材规格：Apple Pro Res 422 Proxy 和 R3D &gt;   由   提交/u/-JSLASHER-   /u/-JSLASHER-  reddit.com/r/editors/comments/18y2oe0/question_exporting_1080_conform_at_4k_in_premiere/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18y2oe0/question_exporting_1080_conform_at_4k_in_premiere/</guid>
       <pubDate>Thu, 04 Jan 2024 03:11:51 GMT</pubDate>
     </item>
@@ -18,6 +18,13 @@
       <description><![CDATA[我需要在两个纵向屏幕上播放分辨率为 4320 x 3840 的自定义视频。我的设置包括 Nvidia RTX 显卡，我计划使用 VLC 媒体播放器进行播放。我正在寻求有关如何有效设置此功能的建议。   由   提交 /u/QWERTYqwertface   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18y2o2q/custom_video_4320_x_3840_for_dual_screen_playback/</guid>
       <pubDate>Thu, 04 Jan 2024 03:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Cineform 编解码器的 2008 AVI 文件</title>
+      <link>https://www.reddit.com/r/editors/comments/18y2hkg/2008_avi_files_using_cineform_codec/</link>
+      <description><![CDATA[大家新年快乐！我正在寻找以下方面的指导：我受雇编辑 2008 年在 SI-2k 和 SI-2k 迷你相机上于 2008 年拍摄的功能，但无法查看/编辑文件。过去，有一个 Cineform 编解码器 (CFHDCodec-1.5.0.55-BETA 2.dmg)，我们一直需要验证器短语等来查看文件。两周后，它们将被加水印，但我们仍然可以编辑。  相机公司 (Silicon Imaging) 已不复存在，Cineform 现在归 GoPro 所有。他们的技术支持没有任何帮助，我正在尝试通过 github 和终端构建 GoPro CineForm SDK，但在这方面我是一个巨大的新手。有人可以帮忙吗？    由   提交/u/slatty13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/18y2hkg/2008_avi_files_using_cineform_codec/</guid>
+      <pubDate>Thu, 04 Jan 2024 03:02:36 GMT</pubDate>
     </item>
     <item>
       <title>有人用过LTO解决方案吗？</title>
@@ -78,7 +85,7 @@
     <item>
       <title>是否支持 3-2-1 规则的“云”？</title>
       <link>https://www.reddit.com/r/editors/comments/18xjb92/the_cloud_for_the_321_rule_or_not/</link>
-      <description><![CDATA[我在子目录中看到了对此的复杂想法，一些人使用云来拍摄视频，另一些人则鄙视它。我个人对云越来越不满意，但我也没有最快的互联网，所以这可能就是原因。我正在将云从 3-2-1 规则中删除，而是将另一个硬盘驱动器添加到我的设置中作为镜像 2 驱动器 das，然后将驱动器保留在异地。 I仍然使用云来交付成果和文档，但我只是还没有将其作为备份解决方案的最佳经验。我是唯一的编辑，所以我不需要任何分享功能。  云仍然是物理驱动器，它们只是在您的视线和直接物理控制之外。所以我开始意识到我宁愿将所有数据副本保留在本地，直到我需要云的网络功能。  您是否使用云作为 3 个副本的一部分？我只是对其他人的情况/立场感到好奇。   由   提交 /u/Top_Ambition_2071   [链接] [评论]]]></description>
+      <description><![CDATA[我在子目录中看到了对此的复杂想法，一些人使用云来拍摄视频，另一些人则鄙视它。我个人对云越来越不满意，但我也没有最快的互联网，所以这可能就是原因。我正在将云从 3-2-1 规则中删除，而是将另一个硬盘驱动器添加到我的设置中作为镜像 2 驱动器 das，然后将驱动器保留在异地。 I仍然使用云来交付可交付成果和文档，但我只是还没有将其作为备份解决方案的最佳经验。我是唯一的编辑，所以我不需要任何分享功能。  云仍然是物理驱动器，它们只是在您的视线和直接物理控制之外。所以我开始意识到我宁愿将所有数据副本保留在本地，直到我需要云的网络功能。  您是否使用云作为 3 个副本的一部分？我只是对其他人的情况/立场感到好奇。   由   提交 /u/Top_Ambition_2071   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18xjb92/the_cloud_for_the_321_rule_or_not/</guid>
       <pubDate>Wed, 03 Jan 2024 13:23:44 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>iPad Air 与 iPad Mini 的第二个显示器（支持视频编辑）</title>
       <link>https://www.reddit.com/r/editors/comments/18xdrio/ipad_air_vs_ipad_mini_for_second_monitor_with/</link>
-      <description><![CDATA[您好！我目前正在寻找一台 iPad 来帮助我的工作流程。 我是一名视频编辑数字游牧者，过去 8 个月一直在旅行并仅在 Macbook Pro 14 上操作，作为视频编辑，这确实不可行首映没有太多空间。因此，我正在寻找第二个便携式显示器选项。当然，mini 是 Macbook 的绝佳旅行伴侣。稍微概念化一下设置，我会想象它在 MacBook 屏幕上方以横向模式显示图像播放。 Macbook 上有时间轴 + 垃圾箱/控件。然后，可以旋转到纵向模式以进行垂直视频项目，也可以将其垂直放置在侧面，以便在 MacBook 屏幕上显示时间线和播放。  另一方面，iPad Air 的成本并不高，而且我不必质疑它是否能为编辑方面提供足够的空间。然而，它更大，不太便携，因此不太适合旅行使用。我很擅长强调这些事情，所以如果您对我的设置想法或其他建议有任何反馈，我将不胜感激。谢谢！   由   提交/u/OhShitICantGetUp  [链接] [评论]]]></description>
+      <description><![CDATA[您好！我目前正在寻找一台 iPad 来帮助我的工作流程。我是一名视频编辑数字游民，过去 8 个月一直在旅行并仅在 Macbook Pro 14 上操作，作为视频编辑器，它确实没有太多功能首映的房地产。因此，我正在寻找第二个便携式显示器选项。当然，mini 是 Macbook 的绝佳旅行伴侣。稍微概念化一下设置，我会想象它在 MacBook 屏幕上方以横向模式显示图像播放。 Macbook 上有时间轴 + 垃圾箱/控件。然后，可以旋转到纵向模式以进行垂直视频项目，也可以将其垂直放置在侧面，以便在 MacBook 屏幕上显示时间线和播放。另一方面，iPad Air 的成本并不高，我也不会这么做。不必质疑它是否能为编辑方面提供足够的空间。然而，它更大，不太便携，因此不太适合旅行使用。我很擅长强调这些事情，所以如果有人对我的设置想法或其他建议提供反馈，我将不胜感激。谢谢你！  编辑：我打算将其用作便携式显示器和平板电脑。（感谢之前提出其他建议的所有人！）    由   提交/u/OhShitICantGetUp  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18xdrio/ipad_air_vs_ipad_mini_for_second_monitor_with/</guid>
       <pubDate>Wed, 03 Jan 2024 07:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>还记得 BCPC/薪资调查吗？查看 2023 年结果（包括数据！）</title>
-      <link>https://www.reddit.com/r/editors/comments/18x5xgf/remember_the_bcpcsalary_survey_see_the_2023/</link>
-      <description><![CDATA[这项调查结果中最重要的部分是它通过保持工资透明来帮助每个人。今年和往年的完整数据集均可见且可访问。 链接在此 正如他们在 Coffee Talk 上所说：讨论   由   提交 /u/greenysmac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/18x5xgf/remember_the_bcpcsalary_survey_see_the_2023/</guid>
-      <pubDate>Wed, 03 Jan 2024 00:56:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

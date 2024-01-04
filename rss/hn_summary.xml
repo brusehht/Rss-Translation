@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 03:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 06:12:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Pam-Authramp 项目是针对 Linux 用户的高级暴力保护机制。</title>
-      <link>https://t.me/hn_summary/67078</link>
-      <description><![CDATA[显示 HN：Pam-Authramp – 针对 Linux 用户的高级暴力保护
-Pam-Authramp 项目是针对 Linux 用户的高级暴力保护机制。它是一个可插拔身份验证模块 (PAM) 模块，提供基于身份验证失败次数的帐户锁定机制。该模块计算后续身份验证尝试的动态延迟，增加每次失败的延迟以减轻暴力攻击。 
-
-该项目的独特之处在于提供可配置性，允许系统管理员自定义锁定参数，例如免费身份验证尝试的次数、基本延迟持续时间以及斜坡延迟的乘数。它还通过避免无限期的帐户锁定来优先考虑用户体验，并与 Linux PAM 框架无缝集成。此外，它可以在受限环境中使用，无需单独的系统管理员来解锁帐户。]]></description>
-      <guid>https://t.me/hn_summary/67078</guid>
-      <pubDate>Thu, 04 Jan 2024 03:10:43 GMT</pubDate>
+      <title>[媒体]在最近的一项裁决中，加州第四区上诉法院裁定 [...]</title>
+      <link>https://t.me/hn_summary/67098</link>
+      <description><![CDATA[警用无人机镜头不受《加州公共记录法》的约束
+在最近的一项裁决中，加州第四区上诉法院裁定，不能完全向公众隐瞒警用无人机响应 911 电话而拍摄的视频片段。这一决定是在记者阿图罗·卡斯塔尼亚雷斯 (Arturo Castañares) 起诉丘拉维斯塔警察局获取其“无人机作为急救人员”项目制作的视频后做出的。最初，初审法院做出了有利于警察局的裁决，称该录像片段不作为执法调查记录而被披露。然而，卡斯塔尼亚雷斯提出上诉，电子前线、第一修正案联盟和新闻自由记者委员会等组织提交了一份简报支持他的案件。上诉法院同意无人机镜头不能绝对免于公开披露，并下令采取更细致的方法来确定潜在的服务请求是否涉及犯罪或潜在犯罪。这项裁决为加州其他开展类似无人机项目的机构树立了先例，强调他们不能滥用公共记录法来保护无人机镜头免受公众监督。]]></description>
+      <guid>https://t.me/hn_summary/67098</guid>
+      <pubDate>Thu, 04 Jan 2024 06:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] OONI Explorer 是一个允许用户发现互联网审查证据的网站 [...]</title>
-      <link>https://t.me/hn_summary/67077</link>
-      <description><![CDATA[揭露全球互联网审查的证据
-OONI Explorer 是一个允许用户发现全球互联网审查证据的网站。该网站提供基于 OONI 数据的研究报告，展示案例研究，展示公开数据在揭露审查制度方面的力量。鼓励用户自己探索数据，发现更多审查案例，并将这些数据用于自己的研究和宣传目的。该平台为个人提供了一个独特的机会，为反对互联网审查制度和促进在线言论自由做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/67077</guid>
-      <pubDate>Thu, 04 Jan 2024 03:07:34 GMT</pubDate>
+      <title>标准电子书是一个利用公共领域文献并创建现代电子书的项目 [...]</title>
+      <link>https://t.me/hn_summary/67097</link>
+      <description><![CDATA[标准电子书每月使用 2GB VPS 处理请求 
+标准电子书是一个利用公共领域文献并从中创建现代电子书的项目。尽管每月处理数百万个请求，但该项目在小型 2GB VPS 上运行，不依赖 JavaScript 或数据库等现代技术。该网站使用 PHP（一种流行的服务器端语言）构建，并使用基于文件的模板系统来处理动态内容。该项目还利用对象缓存来存储电子书元数据，而不是传统的数据库。不使用 JavaScript 并依赖经典 Web 技术简化了开发、提高了可访问性并减少了维护负担。该项目旨在独立、自给自足，避免依赖第三方云服务。 （根据 60% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67097</guid>
+      <pubDate>Thu, 04 Jan 2024 05:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目的目的是使用 OpenTel 提供可观察的集成测试 [...]</title>
-      <link>https://t.me/hn_summary/67076</link>
-      <description><![CDATA[展示 HN：在 Jest 之上使用 OpenTelemetry 进行可观察集成测试
-该项目的目的是在 Jest 之上使用 OpenTelemetry 提供可观察的集成测试。它旨在通过 OpenTelemetry 可视化 API 跟踪和日志来增强测试体验。它允许用户快速识别失败测试中的问题、检测传播泄漏并验证跨度。该项目的独特之处在于提供轻松的测试故障排除、CI 友好的集成、IDE 调试、与现有 Jest 测试的代码兼容性以及测试的并行执行。它提供 HTML 报告，可视化测试中每个请求的 OpenTelemetry 跟踪。项目提供两种安装方式，可以使用.echoed.yml文件进行配置。]]></description>
-      <guid>https://t.me/hn_summary/67076</guid>
-      <pubDate>Thu, 04 Jan 2024 03:05:27 GMT</pubDate>
+      <title>[媒体]在一次令人痛心的事件中，飞机上的 367 名乘客发现自己面临着生死存亡的危机 [...]</title>
+      <link>https://t.me/hn_summary/67096</link>
+      <description><![CDATA[367 名乘客在几分钟内逃离 - 他们是如何做到的
+一架飞机发生火灾，机上 367 名乘客面临生死攸关的惨痛事件。机舱内浓烟滚滚，火势蔓延，乘客们只有几分钟的时间才能逃生。一个孩子绝望地呼喊着要人开门。本文没有提供任何有争议或令人惊讶的信息。]]></description>
+      <guid>https://t.me/hn_summary/67096</guid>
+      <pubDate>Thu, 04 Jan 2024 05:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了爱国者导弹防御系统中的一个软件问题，该问题导致了[...]</title>
-      <link>https://t.me/hn_summary/67075</link>
-      <description><![CDATA[爱国者导弹浮点软件问题导致 28 名美国人死亡
-文章讨论了爱国者导弹防御系统中的一个软件问题，该问题导致 1991 年沙漠风暴行动中 28 名美国人死亡。未能跟踪和拦截来袭的飞毛腿导弹是由软件的精度问题造成的。用于控制爱国者导弹的计算机基于 20 世纪 70 年代的设计并使用 24 位算法。时间转换中的舍入误差导致系统“距离门”发生变化，从而导致系统无法跟踪目标。该文章强调了军事防御系统中改进软件和技术的必要性。]]></description>
-      <guid>https://t.me/hn_summary/67075</guid>
-      <pubDate>Thu, 04 Jan 2024 03:01:20 GMT</pubDate>
+      <title>领先的航空航天公司火箭实验室宣布了首次私人金星任务的计划。</title>
+      <link>https://t.me/hn_summary/67095</link>
+      <description><![CDATA[首次私人金星任务
+领先的航空航天公司火箭实验室宣布了首次私人金星任务的计划。这项开创性的任务旨在探索地球的大气层并收集有关其成分的宝贵数据。该任务将使用火箭实验室的电子火箭来执行，该火箭拥有成功发射的良好记录。这次私人金星任务标志着太空探索的一个重要里程碑，因为它展示了私营公司在该领域不断增强的能力。该任务预计将为金星提供有价值的见解，并有助于我们了解太阳系。]]></description>
+      <guid>https://t.me/hn_summary/67095</guid>
+      <pubDate>Thu, 04 Jan 2024 05:43:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文通过研究人们的手势来探讨语言对思维的影响[...]</title>
-      <link>https://t.me/hn_summary/67074</link>
-      <description><![CDATA[通用非语言交流系统的证据 
-本文通过研究人们在描述事件时产生的手势来探讨语言对思维的影响。先前的研究表明，言语描述事件的跨语言差异也可以在伴随的手势中找到。然而，当人们被要求用手势而不是言语来描述同一事件时，这些差异就不会出现。该研究调查了 3 至 12 岁儿童的手势，以确定语言在说话过程中何时首先对思维产生影响（通过手势来衡量）。研究结果表明，语言对言语思维的影响不仅仅限于交际行为中的言语。此外，该研究通过比较共同言语手势和沉默手势，探讨了语言对思维影响的局限性。结果表明，在共同言语手势中发现的特定于语言的模式并不存在于沉默手势中，这表明即使在交流中语言对思维的影响也是有限的。该文章还讨论了儿童共同言语和沉默手势的发展发现，强调了共同言语手势中对语言特定模式的早期敏感性以及对沉默手势进一步研究的必要性。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67074</guid>
-      <pubDate>Thu, 04 Jan 2024 02:57:08 GMT</pubDate>
+      <title>[媒体]什么是 JSON？</title>
+      <link>https://t.me/hn_summary/67094</link>
+      <description><![CDATA[什么是 JSON？
+Web 内容解释了 JSON 的各个方面，包括对象、重复键、架构附加键、空值、数字和字符串。它强调了现实世界的注意事项，并提供了在 JSON 实现中处理这些方面的建议。提到的一个有争议的方面是使用重复键作为注释，这是一种常见做法，但在 JSON 规范中没有指定。内容还提到需要处理 JSON 字符串中的欺骗性字符和单独代理，以确保正确的编码和解码。总体而言，该内容提供了有关使用 JSON 的宝贵见解和建议。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67094</guid>
+      <pubDate>Thu, 04 Jan 2024 05:43:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近发表在《JAMA Pediatrics》上的一项研究发现，人工智能语言模型 ChatGPT-4 [...]</title>
-      <link>https://t.me/hn_summary/67073</link>
-      <description><![CDATA[ChatGPT 炸弹测试诊断儿童医疗病例错误率高达 83% 
-最近发表在《JAMA Pediatrics》上的一项研究发现，人工智能语言模型 ChatGPT-4 在诊断儿科病例方面表现不佳。该研究将 ChatGPT-4 诊断 100 例儿科病例的准确性与人类医生进行了比较。 ChatGPT-4 的准确率仅为 17%，而人类医生的准确率要高得多。该研究强调了诊断儿科病例的挑战，这需要考虑患者的年龄和阐明症状的难度。研究人员建议，根据准确的医学文献对 ChatGPT-4 进行训练并提供对医疗数据的实时访问可以提高其诊断准确性。]]></description>
-      <guid>https://t.me/hn_summary/67073</guid>
-      <pubDate>Thu, 04 Jan 2024 02:47:55 GMT</pubDate>
+      <title>[媒体]十亿行挑战是一个令人兴奋且雄心勃勃的项目，旨在推动 [...]</title>
+      <link>https://t.me/hn_summary/67093</link>
+      <description><![CDATA[十亿行挑战
+十亿行挑战是一个令人兴奋且雄心勃勃的项目，旨在突破数据处理的界限。该挑战涉及处理包含 10 亿行的数据集，这是一个巨大的数据量。该数据集包括有关各个城市及其温度范围的信息。面临的挑战是如何高效地分析和处理这个庞大的数据集。该项目为数据科学家和分析师展示他们处理大数据的技能和创造力提供了一个独特的机会。这是对他们处理大规模数据处理任务和寻找创新解决方案的能力的考验。这项挑战肯定会引起数据科学领域的关注并产生兴趣。]]></description>
+      <guid>https://t.me/hn_summary/67093</guid>
+      <pubDate>Thu, 04 Jan 2024 05:39:54 GMT</pubDate>
     </item>
     <item>
-      <title>在 Apple 讨论论坛上的这篇文章中，一位名叫 Doug 的用户分享了一个独特的解决方案 [...]</title>
-      <link>https://t.me/hn_summary/67072</link>
-      <description><![CDATA[蚂蚁在我的电脑里，他们不怀好意&lt; /a&gt;
-在 Apple 讨论论坛上的这篇文章中，一位名叫 Doug 的用户分享了解决 MacBook 内蚂蚁问题的独特解决方案。他建议关闭 MacBook 并将其放入冰箱冷冻室过夜，以确保蚂蚁在没有任何化学物质的情况下不会冬眠。这个令人惊讶的建议凸显了作者的创造力和创造性思维。但需要注意的是，这种方法可能会引起争议，或者可能对 MacBook 造成损害，因为极端温度可能会对电子设备产生不利影响。]]></description>
-      <guid>https://t.me/hn_summary/67072</guid>
-      <pubDate>Thu, 04 Jan 2024 02:38:45 GMT</pubDate>
+      <title>[媒体] 短睡眠综合症 (SSS) 是一种睡眠状况，其中个人睡眠时间少于 [...]</title>
+      <link>https://t.me/hn_summary/67092</link>
+      <description><![CDATA[短睡眠综合症
+短睡眠综合症 (SSS) 是一种睡眠状况，患者每晚睡眠时间少于六个小时，但全天仍能正常工作。与那些有目的地限制睡眠的人不同，SSS 患者有自然的最低睡眠要求。这种情况被认为与基因突变有关，这种基因突变可以让个体在睡眠较少的情况下思考和运作良好。虽然 SSS 不被视为一种疾病，但出现疲劳、入睡困难或频繁醒来等症状的个人应咨询医生。诊断可能涉及问卷和睡眠日记，治疗方案包括睡眠卫生、光疗和重置睡眠时间表。]]></description>
+      <guid>https://t.me/hn_summary/67092</guid>
+      <pubDate>Thu, 04 Jan 2024 05:27:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了艾伦·图灵和唐纳德·贝利新发现的论文 [...]</title>
-      <link>https://t.me/hn_summary/67071</link>
-      <description><![CDATA[阿兰·图灵 – 黛利拉项目
-该网络内容讨论了艾伦·图灵和唐纳德·贝利新发现的与 Delilah 项目相关的论文，该项目是二战期间合作开发的语音加密系统。该集合包括图灵的数学证明和贝利对图灵电路理论讲座的转录。这些论文深入了解了图灵的电路设计知识以及他与贝利的合作。 Delilah 项目旨在创建一个基于密码学原理的便携式语音加密系统。内容还重点介绍了图灵、贝利和罗宾·甘迪之间的友谊，以及他们的战后活动。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67071</guid>
-      <pubDate>Thu, 04 Jan 2024 02:36:34 GMT</pubDate>
+      <title>著名的网络攻击或为 Iron Maiden 开场的乐队？</title>
+      <link>https://t.me/hn_summary/67091</link>
+      <description><![CDATA[著名的网络攻击或为 Iron Maiden 开设的乐队？测验
+Sporcle.com 上的这个测验测试您对著名网络攻击和网络攻击的了解为《铁娘子》开场。该测验是多项选择题，允许您从一组选项中单击正确答案。这个测验的想法来自 No Such Thing As A Fish 播客的第 508 集。测试您的知识，看看您是否可以进入测验记分牌！]]></description>
+      <guid>https://t.me/hn_summary/67091</guid>
+      <pubDate>Thu, 04 Jan 2024 05:15:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] science.ebird.org 网站提供了 Yellow-r 相对丰度的估计 [...]</title>
-      <link>https://t.me/hn_summary/67070</link>
-      <description><![CDATA[黄腰莺的迁徙趋势
-网站 science.ebird.org 提供了相对值的估计值全年黄腰莺数量众多。数据以动画形式显示物种的运动模式。相对丰度基于 eBirders 在每个物种一天中的最佳时间进行 1 小时、1 公里旅行检查表时检测到的个体平均计数。用户可以选择特定的一周来查看该时间段内的相对丰度。内容中没有提及任何争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/67070</guid>
-      <pubDate>Thu, 04 Jan 2024 02:35:25 GMT</pubDate>
+      <title>[媒体] 在这段视频中，塔尔·莱维 (Taal Levi) 讨论了野生动物物种与环境之间的关系 [...]</title>
+      <link>https://t.me/hn_summary/67090</link>
+      <description><![CDATA[在狐狸繁盛的地方，莱姆病却没有 (2014) [视频](https://news.ycombinator.com/item?id=38862603)
+在这段视频中，塔尔·莱维讨论了野生动物物种与莱姆病传播之间的关系。他解释说，老鼠是这种疾病的特别好的携带者，因为它们的免疫系统无法抵抗病原体，也不会清除体内的蜱虫。然而，狐狸捕杀老鼠的效率很高，统计数据显示，随着狐狸数量的减少，莱姆病的发病率也会增加。这凸显了了解导致传染病传播的生态因素的重要性。该视频由《波基普西日报》制作，由约翰·费罗主演。]]></description>
+      <guid>https://t.me/hn_summary/67090</guid>
+      <pubDate>Thu, 04 Jan 2024 05:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌旗下的安全公司 Mandiant 的 X 帐户被一名身份不明的骗子黑客入侵，该骗子 [...]</title>
-      <link>https://t.me/hn_summary/67069</link>
-      <description><![CDATA[Mandiant 的 X 帐户被黑
-谷歌旗下的安全公司 Mandiant 的 X 账户被一名身份不明的骗子黑客入侵，该骗子利用该账户传播试图窃取加密货币的链接。几个小时后，Mandiant 重新控制了该帐户，但没有透露该帐户是如何被泄露的。该被黑账户冒充属于 Phantom（一家提供加密货币钱包的公司），并鼓励用户访问恶意网站。诈骗者更改了帐户用户名，并继续推广冒充 Phantom 的虚假网站。关于 Mandiant 的安全措施仍然存在疑问，包括它是否有强密码和双因素身份验证。尝试联系 Phantom 征求意见，但未成功。]]></description>
-      <guid>https://t.me/hn_summary/67069</guid>
-      <pubDate>Thu, 04 Jan 2024 01:54:04 GMT</pubDate>
+      <title>问 HN：当一个孤独的家庭成员去世并且他们的生活在网上时该怎么办？</title>
+      <link>https://t.me/hn_summary/67089</link>
+      <description><![CDATA[询问 HN：当孤独的家庭成员去世及其家人时该怎么办生活在线？
+news.ycombinator.com 上这篇文章的作者是寻求在网上过着独居生活的家庭成员去世后该怎么办的建议。提交人的妹夫在接受健康检查后被发现死亡，目前尚不清楚他是如何死亡的。这位姐夫以与人在线互动而闻名，尤其是通过玩《无尽的任务》。作者很关心他姐夫的虚拟朋友，并想知道是否可以做些什么来通知他们他的去世。作者还提到，他们不确定是否有人有权使用姐夫的计算机和其他物品。]]></description>
+      <guid>https://t.me/hn_summary/67089</guid>
+      <pubDate>Thu, 04 Jan 2024 05:07:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

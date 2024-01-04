@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 03:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 06:16:03 GMT</lastBuildDate>
+    <item>
+      <title>领事与nodejs</title>
+      <link>https://www.reddit.com/r/webdev/comments/18y5mqf/consul_with_nodejs/</link>
+      <description><![CDATA[我正在尝试将 consul 与 nodejs 集成。基本上我正在学习微服务。但是，除了文档之外，我找不到任何可靠的资源。有人可以帮我吗   由   提交 /u/Jyotim_kashyap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18y5mqf/consul_with_nodejs/</guid>
+      <pubDate>Thu, 04 Jan 2024 05:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚开始为投资组合和业务创建网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/18y335t/new_to_making_a_website_for_portfolio_and_as/</link>
+      <description><![CDATA[使用网站，目前使用 siteground 进行托管，使用 cloudflare 进行 DNS，域名注册商是 AWS，这是一个好主意，还是我应该将所有内容都放入一个地方。  另外，我如何将 siteground 作为我的托管，将 cloudflare 作为我的托管，服务器名称应该是我的 siteground 还是 cloudflare，我很困惑这是如何工作的   由   提交 /u/begoneB0T   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18y335t/new_to_making_a_website_for_portfolio_and_as/</guid>
+      <pubDate>Thu, 04 Jan 2024 03:31:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁将内容输入到 CMS 中？项目因缺少内容而挂起</title>
+      <link>https://www.reddit.com/r/webdev/comments/18y2shd/who_enters_the_content_into_the_cms_project_hangs/</link>
+      <description><![CDATA[我用 CMS 系统交付每个网站，现在我要求客户向我发送内容、文本、图像等。我将这些输入到CMS，然后当项目启动时我给他们进行 CMS 培训。  但是，现在发生的情况是客户向我发送的文本与我们网站所需的格式相去甚远，或者客户发送的图片太大，或者他们没有时间交付内容和项目只是停止并挂起。 我该如何解决这个问题？   由   提交 /u/miguste   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18y2shd/who_enters_the_content_into_the_cms_project_hangs/</guid>
+      <pubDate>Thu, 04 Jan 2024 03:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>Html/CSS/Bootstrap 导师</title>
       <link>https://www.reddit.com/r/webdev/comments/18y2bcp/htmlcssbootstrap_tutor/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[最近有人成功地让他们的 Facebook 应用程序获得批准吗？我正在请求 Instagram GRAPH API、Instagram Basic 和其他一些通用权限的权限，现在已经不到两个月了。  这是正常现象，还是我只是运气不好，Facebook 代表拒绝了请求？   由   提交 /u/Lingohr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18xvn8w/facebook_app_rejected_multiple_times/</guid>
       <pubDate>Wed, 03 Jan 2024 22:08:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的冒名顶替综合症从未像今天这样明显</title>
-      <link>https://www.reddit.com/r/webdev/comments/18xvk0u/my_imposter_syndrome_was_never_more_clear_than_it/</link>
-      <description><![CDATA[长话短说，我和经理预定了一次年终绩效评估和反馈会议（我们每年有两次会议，但在我的最后一次会议上）我们的团队太拥挤了，在过去的一年半里我实际上没有一个）。我很紧张进入这个，因为我被安排到一个新团队，开发一个相当高优先级的应用程序，因为团队中唯一的前端工程师是非常资深且经验丰富的全栈工程师。老实说，我以为我会得到一个如果不是很差的话，那就是平庸的评论。  但是，审核给了我“超出预期”的评价，其中一些要点是他们希望我在加入后几周内变得富有成效，而我在第一天就富有成效，然后交付了工作量比他们预期的多很多倍。另一个关键的收获是，团队很难给我进行代码审查，因为我的前端专业知识显然比不专门研究前端的（老实说是向导级别）全栈工程师处于更高的水平。  我非常担心这篇评论，因为运行这个特定的应用程序并在本地进行开发几乎每天都会遇到许多问题和挫折，在我看来，即使错误的原因不是我的错，我应该更好地解决它们（即使我不是问题产生的后端开发人员）。  无论如何，这只是一篇关于冒名顶替综合症的帖子，以及即使有 6 年的经验，它仍然可以让你得到帮助。   由   提交 /u/dontspookthenetch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18xvk0u/my_imposter_syndrome_was_never_more_clear_than_it/</guid>
-      <pubDate>Wed, 03 Jan 2024 22:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebDevs，我们发布了 Socketiride 0.10；用 Rust 编写的快速 Socket IO 服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/18xuyxr/webdevs_we_released_socketioxide_010_a_fast/</link>
-      <description><![CDATA[      所有功劳均归于 main开发者 u/elariondakta 很高兴宣布 0.10.0 版本发布！ &lt; p&gt;我们在此处添加了一个使用 React 和 Socketiicide 的基于房间的聊天示例&lt; /p&gt; 如果您喜欢我们正在做的事情，请在 GitHub 上留下一颗星 🌠！   由   提交/u/voicefeed  [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18xuyxr/webdevs_we_released_socketioxide_010_a_fast/</guid>
-      <pubDate>Wed, 03 Jan 2024 21:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在简单的 HTML 模板中使用 TanStack Table v8 (vanilla JS)</title>
-      <link>https://www.reddit.com/r/webdev/comments/18xudoo/using_tanstack_table_v8_in_a_simple_html_template/</link>
-      <description><![CDATA[我在 React 项目和 Vue 项目中实现了 Tanstack Table v8 - 现在我正在尝试在简单的 html 模板中实现它。他们的文档没有提供任何有关如何执行此操作的示例，仅给出了这两行代码： https://tanstack.com/table/v8/docs/adapters/vanilla&quot;&gt;https:// /tanstack.com/table/v8/docs/adapters/vanilla 有人设法在简单的 html 模板中使用这个表库吗？如果是的话你是怎么做到的？我觉得我错过了一些基本的东西（我对后端更有经验） - 对于其他库，如 toastify、select2、dropzone、quill 等，我只需在标头中放置一个脚本引用，然后我就可以使用它们的 .toastify () 或 .quill() 全局方法。  我的控制台开始抱怨第一行，尝试像这样导入不起作用： import { createTable } from &#39;@tanstack/table-core&#39;&lt; /strong&gt;  如果我尝试使用 .createTable() 方法，那也不起作用。  我的设置是一个 html 页面，运行着 npm live-server。我已经安装了table-core - 不知道接下来要做什么。 ​ ​ &gt; ​ ​   由   提交/u/timoteo5555  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18xudoo/using_tanstack_table_v8_in_a_simple_html_template/</guid>
-      <pubDate>Wed, 03 Jan 2024 21:17:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
