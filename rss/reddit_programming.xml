@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 04 Jan 2024 12:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 15:13:22 GMT</lastBuildDate>
+    <item>
+      <title>好的持续集成 (CI) 是什么样的</title>
+      <link>https://www.reddit.com/r/programming/comments/18yf8ej/what_good_continuous_integration_ci_looks_like/</link>
+      <description><![CDATA[ 由   提交/u/mutru  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18yf8ej/what_good_continuous_integration_ci_looks_like/</guid>
+      <pubDate>Thu, 04 Jan 2024 15:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个 GIF 奎因</title>
+      <link>https://www.reddit.com/r/programming/comments/18yf5vs/i_made_a_gif_quine/</link>
+      <description><![CDATA[这是一个用 C 语言编写的 quine（输出自身的程序），可输出 GIF。 代码位于 &lt; a href=&quot;https://github.com/donno2048/gif-quine&quot;&gt;https://github.com/donno2048/gif-quine.   由   提交 /u/Perfect-Highlight964   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18yf5vs/i_made_a_gif_quine/</guid>
+      <pubDate>Thu, 04 Jan 2024 15:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust、Ruby 和隐式返回的艺术</title>
+      <link>https://www.reddit.com/r/programming/comments/18yeg46/rust_ruby_and_the_art_of_implicit_returns/</link>
+      <description><![CDATA[ 由   提交/u/agbell  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18yeg46/rust_ruby_and_the_art_of_implicit_returns/</guid>
+      <pubDate>Thu, 04 Jan 2024 14:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 中的原子和并发</title>
+      <link>https://www.reddit.com/r/programming/comments/18ye4d6/atomics_and_concurrency_in_c/</link>
+      <description><![CDATA[ 由   提交 /u/redixhumayun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ye4d6/atomics_and_concurrency_in_c/</guid>
+      <pubDate>Thu, 04 Jan 2024 14:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>HolyC Docs - 现在在 GitHub 上恢复了 HolyC 的文档</title>
+      <link>https://www.reddit.com/r/programming/comments/18ydm75/holyc_docs_revived_documentation_of_holyc_now_on/</link>
+      <description><![CDATA[ 由   提交/u/SpaciousCoder78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ydm75/holyc_docs_revived_documentation_of_holyc_now_on/</guid>
+      <pubDate>Thu, 04 Jan 2024 13:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>HolyC Docs - 现在在 GitHub 上恢复了 HolyC 的文档</title>
+      <link>https://www.reddit.com/r/programming/comments/18ydlwo/holyc_docs_revived_documentation_of_holyc_now_on/</link>
+      <description><![CDATA[ 由   提交/u/SpaciousCoder78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ydlwo/holyc_docs_revived_documentation_of_holyc_now_on/</guid>
+      <pubDate>Thu, 04 Jan 2024 13:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 推出 Flexbox 重新排序：优化 Web 开发和 CSS 学习！ 🖌️</title>
+      <link>https://www.reddit.com/r/programming/comments/18ydeo2/unveiling_flexbox_reordering_optimising_web/</link>
+      <description><![CDATA[ 由   提交/u/robson_muniz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ydeo2/unveiling_flexbox_reordering_optimising_web/</guid>
+      <pubDate>Thu, 04 Jan 2024 13:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年你在 Java 中可能错过的一切</title>
+      <link>https://www.reddit.com/r/programming/comments/18ycudu/everything_you_might_have_missed_in_java_in_2023/</link>
+      <description><![CDATA[ 由   提交/u/CrowSufficient  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ycudu/everything_you_might_have_missed_in_java_in_2023/</guid>
+      <pubDate>Thu, 04 Jan 2024 13:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么Unix的lseek()不只是叫seek()？</title>
+      <link>https://www.reddit.com/r/programming/comments/18yby2e/why_is_unixs_lseek_not_just_called_seek/</link>
+      <description><![CDATA[ 由   提交/u/pimterry  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18yby2e/why_is_unixs_lseek_not_just_called_seek/</guid>
+      <pubDate>Thu, 04 Jan 2024 12:24:29 GMT</pubDate>
+    </item>
     <item>
       <title>有大企业使用solidjs吗？</title>
       <link>https://www.reddit.com/r/programming/comments/18ybl9t/are_any_big_enterprise_companies_using_solidjs/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/Peefy-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18yaoh9/kcl_programming_language_biweekly_newsletter/</guid>
       <pubDate>Thu, 04 Jan 2024 11:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 开发人员职位</title>
-      <link>https://www.reddit.com/r/programming/comments/18ya3z8/wordpress_developerjobss/</link>
-      <description><![CDATA[ 由   提交/u/Gagan444  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18ya3z8/wordpress_developerjobss/</guid>
-      <pubDate>Thu, 04 Jan 2024 10:34:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>调试就是编程</title>
-      <link>https://www.reddit.com/r/programming/comments/18y9p3t/debugging_is_programming/</link>
-      <description><![CDATA[ 由   提交/u/aijan1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y9p3t/debugging_is_programming/</guid>
-      <pubDate>Thu, 04 Jan 2024 10:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>怎样才能在心理上坚强起来</title>
-      <link>https://www.reddit.com/r/programming/comments/18y9oxu/how_to_be_mentally_tough/</link>
-      <description><![CDATA[ 由   提交/u/gggwbyre456gv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y9oxu/how_to_be_mentally_tough/</guid>
-      <pubDate>Thu, 04 Jan 2024 10:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 构建您的第一个 Flutter 应用程序 - 综合初学者指南</title>
-      <link>https://www.reddit.com/r/programming/comments/18y9i67/build_your_first_flutter_app_with_chatgpt_a/</link>
-      <description><![CDATA[ 由   提交/u/emanresu_2017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y9i67/build_your_first_flutter_app_with_chatgpt_a/</guid>
-      <pubDate>Thu, 04 Jan 2024 09:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 的 9 个奇怪特性以及如何解释它们</title>
-      <link>https://www.reddit.com/r/programming/comments/18y95ct/9_weird_python_features_and_how_to_explain_them/</link>
-      <description><![CDATA[ 由   提交/u/wyhjsbyb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y95ct/9_weird_python_features_and_how_to_explain_them/</guid>
-      <pubDate>Thu, 04 Jan 2024 09:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用集中框架简化数据解决方案交付</title>
-      <link>https://www.reddit.com/r/programming/comments/18y8xad/streamlining_data_solutions_delivery_with/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y8xad/streamlining_data_solutions_delivery_with/</guid>
-      <pubDate>Thu, 04 Jan 2024 09:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>提交#4cc88b2</title>
-      <link>https://www.reddit.com/r/programming/comments/18y8o3z/commit_4cc88b2/</link>
-      <description><![CDATA[构建 RealWorld 演示应用程序的示例实现   由   提交/u/Strict_Matter8376   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y8o3z/commit_4cc88b2/</guid>
-      <pubDate>Thu, 04 Jan 2024 08:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议（启动）</title>
-      <link>https://www.reddit.com/r/programming/comments/18y83ra/recommendations_start_up/</link>
-      <description><![CDATA[有人在价格不高的情况下成功地启动了程序员吗？  &amp; #32；由   提交 /u/Unlucky_Brief3444   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y83ra/recommendations_start_up/</guid>
-      <pubDate>Thu, 04 Jan 2024 08:18:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>SWE 大学生实习和新毕业生工作清单</title>
-      <link>https://www.reddit.com/r/programming/comments/18y7y1g/swe_internships_and_new_grad_job_list_for_college/</link>
-      <description><![CDATA[ 由   提交/u/0xjoemama69420  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18y7y1g/swe_internships_and_new_grad_job_list_for_college/</guid>
-      <pubDate>Thu, 04 Jan 2024 08:08:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

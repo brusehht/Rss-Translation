@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 08:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 15:13:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网络内容的作者讨论了他们惊讶地发现工人三 [...]</title>
-      <link>https://t.me/hn_summary/67109</link>
-      <description><![CDATA[如何控制 JavaScript 的严格模式
-Web 内容的作者讨论了他们惊讶地发现 JavaScript 中的工作线程默认以非严格模式运行。他们解释说，ES5 中引入严格模式是出于安全原因和增强的错误检查。作者在运行“arguments”kata 测试时遇到了严格模式的问题，因为在严格模式下不允许使用“arguments”关键字。然后，他们探索如何控制严格模式，包括在代码顶部或函数体内使用“use strict”语句。作者最后指出，可以使用多种方法手动开启严格模式。]]></description>
-      <guid>https://t.me/hn_summary/67109</guid>
-      <pubDate>Thu, 04 Jan 2024 08:47:35 GMT</pubDate>
+      <title>[媒体]邮局审判揭露了英国法律体系中的重大误判。</title>
+      <link>https://t.me/hn_summary/67144</link>
+      <description><![CDATA[Horizo​​n 出了什么问题：从邮局试验中学习
+邮局的审判揭露了英国法律体系中的重大误判。由于地平线会计系统发现资金缺失，副邮政局长被判犯有欺诈和盗窃罪。然而，审判的结论是，Horizo​​n 并不可靠，资金短缺可能并不存在，也可能不是副邮政局长的错。该试验凸显了 Horizo​​n 中的技术故障，例如原子性、一致性、隔离性、持久性和日志复制方面的故障。这些故障导致重复传输、系统之间失去同步、报告中丢失事务以及事务从 Horizo​​n 中消失。 Horizo​​n 生成的证据的可靠性也受到质疑。 （根据故事文本的 72% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67144</guid>
+      <pubDate>Thu, 04 Jan 2024 15:13:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了与电子墨水技术相关的“停滞”概念。</title>
-      <link>https://t.me/hn_summary/67108</link>
-      <description><![CDATA[电子墨水的停滞
-本文讨论了与电子墨水技术相关的“停滞”概念。它强调，虽然电子墨水已经存在多年，并彻底改变了电子阅读器市场，但自诞生以来，该技术并没有取得重大进步或突破。作者认为，考虑到电子墨水的潜在应用和优势，这种进展的缺乏令人惊讶。争议在于，尽管该领域取得了初步成功，但为什么没有更多的创新。]]></description>
-      <guid>https://t.me/hn_summary/67108</guid>
-      <pubDate>Thu, 04 Jan 2024 08:46:28 GMT</pubDate>
+      <title>[媒体]列日大学研究人员发现的新化石证据表明[...]</title>
+      <link>https://t.me/hn_summary/67143</link>
+      <description><![CDATA[光合作用的化石证据已有十亿年历史&lt; br/&gt;
+列日大学研究人员发现的新化石证据表明，光合作用的进化比之前认为的要早十亿年。这些化石已有 17 亿年的历史，含有类囊体膜的结构，对光合作用至关重要。这将光合作用的明确证据推迟到 17 亿年前。这些发现对于理解光合作用的演化及其在塑造地球大气中的作用具有重要意义。研究人员建议，进一步研究关键进化事件中类囊体膜的存在可以为光合作用的进化提供更多的见解。]]></description>
+      <guid>https://t.me/hn_summary/67143</guid>
+      <pubDate>Thu, 04 Jan 2024 15:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>该博客文章讨论了短信和彩信发送失败的发生率不断增加，并出现错误 [...]</title>
-      <link>https://t.me/hn_summary/67107</link>
-      <description><![CDATA[短信审查
-该博客文章讨论了短信和彩信发送失败的发生率不断增加，并显示一条错误消息“因垃圾邮件而被拒绝”。作者解释说，运营商对垃圾邮件中不常见但提及他们认为不受欢迎的项目和概念的词语采取了大规模关键字拦截。例如，一家主要运营商屏蔽了每条包含“吗啡”一词的短信。作者提到，为了维护他们在运营商中的声誉，他们已经开始建立一个被屏蔽关键字的内部列表，并自行屏蔽这些消息。他们还提到了使用私人消息平台 Snikket 进行更安全的对话的选项。该帖子强调，JMP 致力于通过短信和彩信为人与人之间的沟通提供优质服务。]]></description>
-      <guid>https://t.me/hn_summary/67107</guid>
-      <pubDate>Thu, 04 Jan 2024 08:13:08 GMT</pubDate>
+      <title>[媒体] 惠茨特布尔 (Whitstable) 的 Shingle Spit 是一条独特的街道，它随着时间的推移而消失又重新出现 [...]</title>
+      <link>https://t.me/hn_summary/67142</link>
+      <description><![CDATA[惠茨特布尔的木瓦吐口
+惠茨特布尔 (Whitstable) 的Shingle Spit 是一条独特的街道，随着潮水的涌动而消失又出现。它被称为惠茨特布尔街，从惠茨特布尔镇延伸到大海。退潮时，街道暴露在外，吸引遛狗者和游客探索它的长度。当我们沿着沙嘴继续前行时，地面变得越来越积水，但并没有突然掉入水中。标志警告游客要小心潮汐，因为当水进来时，沙嘴会被淹没。作者还在 YouTube 上发布了一部短片，记录了他们的参观过程。]]></description>
+      <guid>https://t.me/hn_summary/67142</guid>
+      <pubDate>Thu, 04 Jan 2024 14:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据高薪中心的研究，英国富时100指数公司的老板 [...]</title>
-      <link>https://t.me/hn_summary/67106</link>
-      <description><![CDATA[智库称，富时 100 强老板三天内即可赚取英国平均工资
-根据高薪中心的研究，到周四午餐时间，英国富时100指数公司的老板们将获得全职工人的平均年薪。这些老板的平均工资（包括养老金）为每年 381 万英镑，相当于每小时 1,170 英镑，是全职工人平均工资的 109 倍。研究还发现，富时 350 指数上市公司的高管需要工作到 1 月 10 日，才能超过英国工人的年薪中位数。工会大会批评了这些数字，称其为“严重的薪酬不平等”的迹象。 CBI 拒绝置评。]]></description>
-      <guid>https://t.me/hn_summary/67106</guid>
-      <pubDate>Thu, 04 Jan 2024 07:43:52 GMT</pubDate>
+      <title>作者解决了 Fediverse 上提出的关于 [...] 之间命名不一致的问题。</title>
+      <link>https://t.me/hn_summary/67141</link>
+      <description><![CDATA[为什么Unix的lseek()有这个名字而不是seek()&lt; /a&gt;
+作者解决了 Fediverse 上提出的有关 Unix 中 fstat/lstat 和 fseek/lseek 命名不一致的问题。作者通过总结 Zack Weinberg 的帖子、наб 的帖子以及他们自己的附加历史信息中的信息，提供了全面的答案。他们解释说，Unix 的原始版本有一个eek() 系统调用，它接受三个 16 位参数。然而，这带来了一个问题，因为无法处理大于 2^16 字节的文件。在后续版本中，seek() 系统调用被重命名为 lseek() 并修改为使用长整型而不是整型来解决范围问题。 lseek() 中的“l”代表“long”。作者还提到了围绕 Unix 系统调用名称中使用“l”的争议。]]></description>
+      <guid>https://t.me/hn_summary/67141</guid>
+      <pubDate>Thu, 04 Jan 2024 14:49:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]奋进号航天飞机及其巨型橙色外部燃料箱的最后一次旅程是[...]</title>
-      <link>https://t.me/hn_summary/67105</link>
-      <description><![CDATA[奋进号航天飞机的巨型橙色外部油箱开始最后的旅程 
-奋进号航天飞机及其巨大的橙色外部燃料箱定于本月开始最后一次旅程，前往洛杉矶的加州科学中心。该博物馆正在建造塞缪尔·奥辛航空航天中心来容纳奋进号，该飞行器将以全栈式布置展示，就像准备发射一样。外部储罐将被移动并提升到垂直位置，随后是航天飞机轨道飞行器本身。电梯将由博物馆在线直播，整个过程预计需要几年时间才能新博物馆向公众开放。该项目预计耗资 4 亿美元，以慈善家塞缪尔·奥钦 (Samuel Oschin) 的名字命名。奋进号执行了 25 次太空飞行任务，在修复哈勃太空望远镜和完成国际空间站方面发挥了至关重要的作用。]]></description>
-      <guid>https://t.me/hn_summary/67105</guid>
-      <pubDate>Thu, 04 Jan 2024 07:41:40 GMT</pubDate>
+      <title>[媒体] 马克·扎克伯格 (Mark Zuckerberg) 斥资 2.7 亿美元建造地下避难所的计划引发了人们的猜测 [...]</title>
+      <link>https://t.me/hn_summary/67140</link>
+      <description><![CDATA[扎克伯格的地堡计划助长了对亿万富翁建造地堡的猜测&lt; br/&gt;
+马克·扎克伯格斥资 2.7 亿美元建造地下避难所的计划引发了有关亿万富翁建造掩体的猜测。该项目位于考艾岛，超越了传统的避难所，拥有十几座建筑，配有健身房、游泳池、桑拿浴室等豪华设施，甚至还有通过索桥连接的树屋。虽然扎克伯格的隐居地因其奢华而引人注目，但彼得·泰尔等其他亿万富翁也对建造地堡式避难所表现出了兴趣。这些化合物的丰富性，加上亿万富翁生活方式的神秘性，引发了关于其真正目的的阴谋论。一些人推测这些亿万富翁拥有内幕知识，正在为潜在的全球动荡或危机做准备。]]></description>
+      <guid>https://t.me/hn_summary/67140</guid>
+      <pubDate>Thu, 04 Jan 2024 14:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该网站讨论了名为 Mobile ALOHA 的系统的开发，该系统允许 [...]</title>
-      <link>https://t.me/hn_summary/67104</link>
-      <description><![CDATA[移动 Aloha 学习双手移动操控，低成本 Who Teleoperat
-该网站讨论了名为 Mobile ALOHA 的系统的开发，该系统允许模仿学习移动操作任务。与之前专注于桌面操控的系统不同，Mobile ALOHA 结合了移动底座和全身遥控操作界面，使其能够执行更复杂的任务。该系统使用监督行为克隆和与现有数据集的协同训练来提高性能。每个任务都有 50 次演示，Mobile ALOHA 可以自主完成炒菜、打开两门壁柜、呼叫和进入电梯以及使用厨房水龙头冲洗锅等任务。使用协同培训可以将成功率提高高达 90%。]]></description>
-      <guid>https://t.me/hn_summary/67104</guid>
-      <pubDate>Thu, 04 Jan 2024 07:22:26 GMT</pubDate>
+      <title>【媒体】阿拉伯语维基百科最近针对加沙战争采取了多项行动。</title>
+      <link>https://t.me/hn_summary/67139</link>
+      <description><![CDATA[阿拉伯语维基百科停电
+阿拉伯语维基百科最近针对加沙战争采取了多项行动。这些行动包括无限期地将阿拉伯语维基百科的徽标更改为巴勒斯坦国旗的颜色、涂黑阿拉伯语维基百科的主页、发表声援巴勒斯坦人民的声明，以及组织一场创作与巴勒斯坦人民相关的内容的竞赛。巴勒斯坦事业和加沙正在进行的战争。关于这些行动的讨论始于一位名为 Mervat 的用户建议张贴横幅信息以声援巴勒斯坦阿拉伯人。该提案几乎得到了社区的一致支持。]]></description>
+      <guid>https://t.me/hn_summary/67139</guid>
+      <pubDate>Thu, 04 Jan 2024 14:39:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了重复排列疫苗的概念及其潜力[...]</title>
-      <link>https://t.me/hn_summary/67103</link>
-      <description><![CDATA[重复排列的疫苗可以拯救世界：现在让我们进行实验
-本文讨论了重复排列疫苗的概念及其提供针对 COVID-19 等疾病的持久消毒免疫力的潜力。作者强调了 HPV 疫苗的成功，该疫苗提供了持久的免疫力，并质疑为什么其他疫苗没有以类似的方式设计。作者批评了需要特殊证据的特殊主张（ECREE）的概念，并认为主张应该需要证据，无论其被认为有多特殊。文章还讨论了同行评审的局限性以及独立复制科学发现的必要性。作者对监管机构及其对疫苗开发的影响表示失望，表明需要更民主的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/67103</guid>
-      <pubDate>Thu, 04 Jan 2024 07:19:17 GMT</pubDate>
+      <title>[媒体] BitTorrent 跟踪器 OpenTrackr 已经实现了一个系统来阻止指向 p [...]</title>
+      <link>https://t.me/hn_summary/67138</link>
+      <description><![CDATA[BitTorrent Tracker 阻止“侵权”哈希
+BitTorrent 跟踪器 OpenTrackr 已实施了一个系统来阻止指向潜在侵权内容的哈希值，以响应 DMCA 删除通知。 OpenTrackr 由单一运营商运营，已成为 BitTorrent 生态系统中的重要参与者，每秒处理高达 500,000 个连接。虽然跟踪器不托管任何 torrent 或媒体文件，但它接受并处理 DMCA 通知，以阻止有兴趣共享与被阻止哈希相关的文件的用户之间的通信。 OpenTrackr 透明地披露了它收到的所有删除请求，在过去的一年里，它收到了反盗版机构 MarkScan 报告的 2,990 个有问题的哈希值。追踪器的运营商优先考虑避免任何法律问题并确保追踪器的未来。]]></description>
+      <guid>https://t.me/hn_summary/67138</guid>
+      <pubDate>Thu, 04 Jan 2024 14:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>作者讨论了 Keybase 客户端和 ex [...] 中的十年证书最近到期。</title>
-      <link>https://t.me/hn_summary/67102</link>
-      <description><![CDATA[十年对于最高年龄设置来说还不够长
-作者讨论了 Keybase 客户端中十年证书最近到期的情况，并表达了他们对各种设置的默认十年有效期的失望。他们认为，十年要么太短，要么太长，要视具体情况而定。作者分享了他们自己使用 OpenVPN 的经验以及十年后尝试寻找解决方案时遇到的挑战。他们强调制定更新或淘汰设置计划的重要性，以及需要更频繁的维护以避免出现问题。作者还提到了2038年的问题以及它可能引起的潜在并发症。最后，他们承认自己在设置 Prometheus 数据库保留时间方面存在疏忽，以及提醒和检查的必要性。]]></description>
-      <guid>https://t.me/hn_summary/67102</guid>
-      <pubDate>Thu, 04 Jan 2024 07:17:08 GMT</pubDate>
+      <title>[媒体]麻省理工学院的研究人员开发了一个名为 Ddog 的项目，旨在将波士顿动力 [...]</title>
+      <link>https://t.me/hn_summary/67137</link>
+      <description><![CDATA[麻省理工学院的 Ddog 项目将脑机接口与 Spot 机器人连接起来
+麻省理工学院的研究人员开发了一个名为 Ddog 的项目，旨在将波士顿动力公司的 Spot 机器人变成一个基本的沟通器，为患有 ALS、脑瘫和脊髓损伤等身体障碍的人提供帮助。该系统使用名为 AttentivU 的脑机接口 (BCI) 系统，该系统由带有传感器的无线眼镜组成，可测量大脑活动和眼球运动。 Ddog 的优势在于其移动性，因为 Spot 是完全自主的，可以在无需干预的情况下执行指令。该系统在两部 iPhone 和一副眼镜上运行，使其比其他通信辅助工具更适合日常使用。]]></description>
+      <guid>https://t.me/hn_summary/67137</guid>
+      <pubDate>Thu, 04 Jan 2024 14:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，Herbert Bruderer 讨论了数字化的缺点。</title>
-      <link>https://t.me/hn_summary/67101</link>
-      <description><![CDATA[数字化使许多人处于不利地位
-在本文中，Herbert Bruderer 讨论了数字化的缺点。他认为，数字设备通常比模拟设备更难使用，这使许多人处于不利地位，尤其是体弱者、残疾人和老年人。布鲁德勒强调，数字化将人们排除在社会和经济生活之外，因为他们可能很难使用售票机或访问在线服务。他还提到，那些不使用数字支付交易的人会受到银行的处罚​​。布鲁德勒进一步批评数字化对环境的影响以及缺乏对老年人和残疾人的关注和需求的考虑。]]></description>
-      <guid>https://t.me/hn_summary/67101</guid>
-      <pubDate>Thu, 04 Jan 2024 06:42:48 GMT</pubDate>
+      <title>[媒体] Llama2-shepherd 是一个命令行工具，旨在管理和试验多个 [...]</title>
+      <link>https://t.me/hn_summary/67136</link>
+      <description><![CDATA[Llama2-shepherd 一个 CLI 工具，用于安装 llama2 的多个实现&lt; /a&gt;
+Llama2-shepherd 是一个命令行工具，旨在管理和试验多个版本的 llama 推理实现。它允许用户快速安装 llama2 的不同实现并在其之间切换，该项目最初由 Andrej Karpathy 创建。该工具提供了不同语言的 llama2 各种实现的链接，包括 Rust、Go、Android、C++、CUDA、JavaScript、Zig 和 Julia。该项目的独特之处在于提供了一个集中平台，用于访问和安装不同语言的 llama2 的多个版本，使用户可以更轻松地尝试和使用不同的实现。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67136</guid>
+      <pubDate>Thu, 04 Jan 2024 14:33:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Flashpoint Archive 是一个社区驱动的项目，旨在保护游戏和动画 [...]</title>
-      <link>https://t.me/hn_summary/67100</link>
-      <description><![CDATA[闪点存档
-Flashpoint Archive 是一个社区驱动的项目，旨在保存网络上的游戏和动画。随着互联网的快速发展，在这些体验过时之前保存它们至关重要。自 2017 年 12 月以来，该项目已使用各种浏览器插件和网络技术成功保存了超过 170,000 个游戏和动画。除了保存之外，Flashpoint Archive 还提供了一个软件包，可以轻松导航和播放保存的内容。该项目最初由 BlueMaxima 发起，旨在拯救 Flash 消亡之前的网页游戏，但现已发展成为一项涉及数百名贡献者的全球性努力。 Flashpoint Archive 作为一个非营利组织运作，欢迎捐款以支持其保存和可访问性工作。]]></description>
-      <guid>https://t.me/hn_summary/67100</guid>
-      <pubDate>Thu, 04 Jan 2024 06:41:37 GMT</pubDate>
+      <title>[媒体] 本文讨论了大型语言模型 (LLM) 的高效推理。</title>
+      <link>https://t.me/hn_summary/67135</link>
+      <description><![CDATA[高效的LLM推理
+本文讨论了大型语言模型 (LLM) 的高效推理。作者探索了优化 LLM 的不同策略，包括量化、蒸馏和代码优化。他们强调分析代码以识别和消除开销的重要性。作者还比较了蒸馏和量化的有效性，强调了蒸馏在保持性能的同时减小模型大小的好处。然而，他们指出，由于需要从头开始训练较小的模型，蒸馏可能会很昂贵。另一方面，量化是一种更便宜的选择，它涉及降低权重的精度。本文概述了量化方法及其对推理准确性的影响。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67135</guid>
+      <pubDate>Thu, 04 Jan 2024 14:33:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
