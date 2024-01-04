@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 06:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 08:47:35 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在最近的一项裁决中，加州第四区上诉法院裁定 [...]</title>
-      <link>https://t.me/hn_summary/67098</link>
-      <description><![CDATA[警用无人机镜头不受《加州公共记录法》的约束
-在最近的一项裁决中，加州第四区上诉法院裁定，不能完全向公众隐瞒警用无人机响应 911 电话而拍摄的视频片段。这一决定是在记者阿图罗·卡斯塔尼亚雷斯 (Arturo Castañares) 起诉丘拉维斯塔警察局获取其“无人机作为急救人员”项目制作的视频后做出的。最初，初审法院做出了有利于警察局的裁决，称该录像片段不作为执法调查记录而被披露。然而，卡斯塔尼亚雷斯提出上诉，电子前线、第一修正案联盟和新闻自由记者委员会等组织提交了一份简报支持他的案件。上诉法院同意无人机镜头不能绝对免于公开披露，并下令采取更细致的方法来确定潜在的服务请求是否涉及犯罪或潜在犯罪。这项裁决为加州其他开展类似无人机项目的机构树立了先例，强调他们不能滥用公共记录法来保护无人机镜头免受公众监督。]]></description>
-      <guid>https://t.me/hn_summary/67098</guid>
-      <pubDate>Thu, 04 Jan 2024 06:12:40 GMT</pubDate>
+      <title>[媒体] 网络内容的作者讨论了他们惊讶地发现工人三 [...]</title>
+      <link>https://t.me/hn_summary/67109</link>
+      <description><![CDATA[如何控制 JavaScript 的严格模式
+Web 内容的作者讨论了他们惊讶地发现 JavaScript 中的工作线程默认以非严格模式运行。他们解释说，ES5 中引入严格模式是出于安全原因和增强的错误检查。作者在运行“arguments”kata 测试时遇到了严格模式的问题，因为在严格模式下不允许使用“arguments”关键字。然后，他们探索如何控制严格模式，包括在代码顶部或函数体内使用“use strict”语句。作者最后指出，可以使用多种方法手动开启严格模式。]]></description>
+      <guid>https://t.me/hn_summary/67109</guid>
+      <pubDate>Thu, 04 Jan 2024 08:47:35 GMT</pubDate>
     </item>
     <item>
-      <title>标准电子书是一个利用公共领域文献并创建现代电子书的项目 [...]</title>
-      <link>https://t.me/hn_summary/67097</link>
-      <description><![CDATA[标准电子书每月使用 2GB VPS 处理请求 
-标准电子书是一个利用公共领域文献并从中创建现代电子书的项目。尽管每月处理数百万个请求，但该项目在小型 2GB VPS 上运行，不依赖 JavaScript 或数据库等现代技术。该网站使用 PHP（一种流行的服务器端语言）构建，并使用基于文件的模板系统来处理动态内容。该项目还利用对象缓存来存储电子书元数据，而不是传统的数据库。不使用 JavaScript 并依赖经典 Web 技术简化了开发、提高了可访问性并减少了维护负担。该项目旨在独立、自给自足，避免依赖第三方云服务。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67097</guid>
-      <pubDate>Thu, 04 Jan 2024 05:50:23 GMT</pubDate>
+      <title>[媒体]文章讨论了与电子墨水技术相关的“停滞”概念。</title>
+      <link>https://t.me/hn_summary/67108</link>
+      <description><![CDATA[电子墨水的停滞
+本文讨论了与电子墨水技术相关的“停滞”概念。它强调，虽然电子墨水已经存在多年，并彻底改变了电子阅读器市场，但自诞生以来，该技术并没有取得重大进步或突破。作者认为，考虑到电子墨水的潜在应用和优势，这种进展的缺乏令人惊讶。争议在于，尽管该领域取得了初步成功，但为什么没有更多的创新。]]></description>
+      <guid>https://t.me/hn_summary/67108</guid>
+      <pubDate>Thu, 04 Jan 2024 08:46:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一次令人痛心的事件中，飞机上的 367 名乘客发现自己面临着生死存亡的危机 [...]</title>
-      <link>https://t.me/hn_summary/67096</link>
-      <description><![CDATA[367 名乘客在几分钟内逃离 - 他们是如何做到的
-一架飞机发生火灾，机上 367 名乘客面临生死攸关的惨痛事件。机舱内浓烟滚滚，火势蔓延，乘客们只有几分钟的时间才能逃生。一个孩子绝望地呼喊着要人开门。本文没有提供任何有争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/67096</guid>
-      <pubDate>Thu, 04 Jan 2024 05:43:14 GMT</pubDate>
+      <title>该博客文章讨论了短信和彩信发送失败的发生率不断增加，并出现错误 [...]</title>
+      <link>https://t.me/hn_summary/67107</link>
+      <description><![CDATA[短信审查
+该博客文章讨论了短信和彩信发送失败的发生率不断增加，并显示一条错误消息“因垃圾邮件而被拒绝”。作者解释说，运营商对垃圾邮件中不常见但提及他们认为不受欢迎的项目和概念的词语采取了大规模关键字拦截。例如，一家主要运营商屏蔽了每条包含“吗啡”一词的短信。作者提到，为了维护他们在运营商中的声誉，他们已经开始建立一个被屏蔽关键字的内部列表，并自行屏蔽这些消息。他们还提到了使用私人消息平台 Snikket 进行更安全的对话的选项。该帖子强调，JMP 致力于通过短信和彩信为人与人之间的沟通提供优质服务。]]></description>
+      <guid>https://t.me/hn_summary/67107</guid>
+      <pubDate>Thu, 04 Jan 2024 08:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>领先的航空航天公司火箭实验室宣布了首次私人金星任务的计划。</title>
-      <link>https://t.me/hn_summary/67095</link>
-      <description><![CDATA[首次私人金星任务
-领先的航空航天公司火箭实验室宣布了首次私人金星任务的计划。这项开创性的任务旨在探索地球的大气层并收集有关其成分的宝贵数据。该任务将使用火箭实验室的电子火箭来执行，该火箭拥有成功发射的良好记录。这次私人金星任务标志着太空探索的一个重要里程碑，因为它展示了私营公司在该领域不断增强的能力。该任务预计将为金星提供有价值的见解，并有助于我们了解太阳系。]]></description>
-      <guid>https://t.me/hn_summary/67095</guid>
-      <pubDate>Thu, 04 Jan 2024 05:43:08 GMT</pubDate>
+      <title>[媒体]根据高薪中心的研究，英国富时100指数公司的老板 [...]</title>
+      <link>https://t.me/hn_summary/67106</link>
+      <description><![CDATA[智库称，富时 100 强老板三天内即可赚取英国平均工资
+根据高薪中心的研究，到周四午餐时间，英国富时100指数公司的老板们将获得全职工人的平均年薪。这些老板的平均工资（包括养老金）为每年 381 万英镑，相当于每小时 1,170 英镑，是全职工人平均工资的 109 倍。研究还发现，富时 350 指数上市公司的高管需要工作到 1 月 10 日，才能超过英国工人的年薪中位数。工会大会批评了这些数字，称其为“严重的薪酬不平等”的迹象。 CBI 拒绝置评。]]></description>
+      <guid>https://t.me/hn_summary/67106</guid>
+      <pubDate>Thu, 04 Jan 2024 07:43:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是 JSON？</title>
-      <link>https://t.me/hn_summary/67094</link>
-      <description><![CDATA[什么是 JSON？
-Web 内容解释了 JSON 的各个方面，包括对象、重复键、架构附加键、空值、数字和字符串。它强调了现实世界的注意事项，并提供了在 JSON 实现中处理这些方面的建议。提到的一个有争议的方面是使用重复键作为注释，这是一种常见做法，但在 JSON 规范中没有指定。内容还提到需要处理 JSON 字符串中的欺骗性字符和单独代理，以确保正确的编码和解码。总体而言，该内容提供了有关使用 JSON 的宝贵见解和建议。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67094</guid>
-      <pubDate>Thu, 04 Jan 2024 05:43:01 GMT</pubDate>
+      <title>[媒体]奋进号航天飞机及其巨型橙色外部燃料箱的最后一次旅程是[...]</title>
+      <link>https://t.me/hn_summary/67105</link>
+      <description><![CDATA[奋进号航天飞机的巨型橙色外部油箱开始最后的旅程 
+奋进号航天飞机及其巨大的橙色外部燃料箱定于本月开始最后一次旅程，前往洛杉矶的加州科学中心。该博物馆正在建造塞缪尔·奥辛航空航天中心来容纳奋进号，该飞行器将以全栈式布置展示，就像准备发射一样。外部储罐将被移动并提升到垂直位置，随后是航天飞机轨道飞行器本身。电梯将由博物馆在线直播，整个过程预计需要几年时间才能新博物馆向公众开放。该项目预计耗资 4 亿美元，以慈善家塞缪尔·奥钦 (Samuel Oschin) 的名字命名。奋进号执行了 25 次太空飞行任务，在修复哈勃太空望远镜和完成国际空间站方面发挥了至关重要的作用。]]></description>
+      <guid>https://t.me/hn_summary/67105</guid>
+      <pubDate>Thu, 04 Jan 2024 07:41:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]十亿行挑战是一个令人兴奋且雄心勃勃的项目，旨在推动 [...]</title>
-      <link>https://t.me/hn_summary/67093</link>
-      <description><![CDATA[十亿行挑战
-十亿行挑战是一个令人兴奋且雄心勃勃的项目，旨在突破数据处理的界限。该挑战涉及处理包含 10 亿行的数据集，这是一个巨大的数据量。该数据集包括有关各个城市及其温度范围的信息。面临的挑战是如何高效地分析和处理这个庞大的数据集。该项目为数据科学家和分析师展示他们处理大数据的技能和创造力提供了一个独特的机会。这是对他们处理大规模数据处理任务和寻找创新解决方案的能力的考验。这项挑战肯定会引起数据科学领域的关注并产生兴趣。]]></description>
-      <guid>https://t.me/hn_summary/67093</guid>
-      <pubDate>Thu, 04 Jan 2024 05:39:54 GMT</pubDate>
+      <title>[媒体] 该网站讨论了名为 Mobile ALOHA 的系统的开发，该系统允许 [...]</title>
+      <link>https://t.me/hn_summary/67104</link>
+      <description><![CDATA[移动 Aloha 学习双手移动操控，低成本 Who Teleoperat
+该网站讨论了名为 Mobile ALOHA 的系统的开发，该系统允许模仿学习移动操作任务。与之前专注于桌面操控的系统不同，Mobile ALOHA 结合了移动底座和全身遥控操作界面，使其能够执行更复杂的任务。该系统使用监督行为克隆和与现有数据集的协同训练来提高性能。每个任务都有 50 次演示，Mobile ALOHA 可以自主完成炒菜、打开两门壁柜、呼叫和进入电梯以及使用厨房水龙头冲洗锅等任务。使用协同培训可以将成功率提高高达 90%。]]></description>
+      <guid>https://t.me/hn_summary/67104</guid>
+      <pubDate>Thu, 04 Jan 2024 07:22:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 短睡眠综合症 (SSS) 是一种睡眠状况，其中个人睡眠时间少于 [...]</title>
-      <link>https://t.me/hn_summary/67092</link>
-      <description><![CDATA[短睡眠综合症
-短睡眠综合症 (SSS) 是一种睡眠状况，患者每晚睡眠时间少于六个小时，但全天仍能正常工作。与那些有目的地限制睡眠的人不同，SSS 患者有自然的最低睡眠要求。这种情况被认为与基因突变有关，这种基因突变可以让个体在睡眠较少的情况下思考和运作良好。虽然 SSS 不被视为一种疾病，但出现疲劳、入睡困难或频繁醒来等症状的个人应咨询医生。诊断可能涉及问卷和睡眠日记，治疗方案包括睡眠卫生、光疗和重置睡眠时间表。]]></description>
-      <guid>https://t.me/hn_summary/67092</guid>
-      <pubDate>Thu, 04 Jan 2024 05:27:43 GMT</pubDate>
+      <title>[媒体]文章讨论了重复排列疫苗的概念及其潜力[...]</title>
+      <link>https://t.me/hn_summary/67103</link>
+      <description><![CDATA[重复排列的疫苗可以拯救世界：现在让我们进行实验
+本文讨论了重复排列疫苗的概念及其提供针对 COVID-19 等疾病的持久消毒免疫力的潜力。作者强调了 HPV 疫苗的成功，该疫苗提供了持久的免疫力，并质疑为什么其他疫苗没有以类似的方式设计。作者批评了需要特殊证据的特殊主张（ECREE）的概念，并认为主张应该需要证据，无论其被认为有多特殊。文章还讨论了同行评审的局限性以及独立复制科学发现的必要性。作者对监管机构及其对疫苗开发的影响表示失望，表明需要更民主的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/67103</guid>
+      <pubDate>Thu, 04 Jan 2024 07:19:17 GMT</pubDate>
     </item>
     <item>
-      <title>著名的网络攻击或为 Iron Maiden 开场的乐队？</title>
-      <link>https://t.me/hn_summary/67091</link>
-      <description><![CDATA[著名的网络攻击或为 Iron Maiden 开设的乐队？测验
-Sporcle.com 上的这个测验测试您对著名网络攻击和网络攻击的了解为《铁娘子》开场。该测验是多项选择题，允许您从一组选项中单击正确答案。这个测验的想法来自 No Such Thing As A Fish 播客的第 508 集。测试您的知识，看看您是否可以进入测验记分牌！]]></description>
-      <guid>https://t.me/hn_summary/67091</guid>
-      <pubDate>Thu, 04 Jan 2024 05:15:32 GMT</pubDate>
+      <title>作者讨论了 Keybase 客户端和 ex [...] 中的十年证书最近到期。</title>
+      <link>https://t.me/hn_summary/67102</link>
+      <description><![CDATA[十年对于最高年龄设置来说还不够长
+作者讨论了 Keybase 客户端中十年证书最近到期的情况，并表达了他们对各种设置的默认十年有效期的失望。他们认为，十年要么太短，要么太长，要视具体情况而定。作者分享了他们自己使用 OpenVPN 的经验以及十年后尝试寻找解决方案时遇到的挑战。他们强调制定更新或淘汰设置计划的重要性，以及需要更频繁的维护以避免出现问题。作者还提到了2038年的问题以及它可能引起的潜在并发症。最后，他们承认自己在设置 Prometheus 数据库保留时间方面存在疏忽，以及提醒和检查的必要性。]]></description>
+      <guid>https://t.me/hn_summary/67102</guid>
+      <pubDate>Thu, 04 Jan 2024 07:17:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这段视频中，塔尔·莱维 (Taal Levi) 讨论了野生动物物种与环境之间的关系 [...]</title>
-      <link>https://t.me/hn_summary/67090</link>
-      <description><![CDATA[在狐狸繁盛的地方，莱姆病却没有 (2014) [视频](https://news.ycombinator.com/item?id=38862603)
-在这段视频中，塔尔·莱维讨论了野生动物物种与莱姆病传播之间的关系。他解释说，老鼠是这种疾病的特别好的携带者，因为它们的免疫系统无法抵抗病原体，也不会清除体内的蜱虫。然而，狐狸捕杀老鼠的效率很高，统计数据显示，随着狐狸数量的减少，莱姆病的发病率也会增加。这凸显了了解导致传染病传播的生态因素的重要性。该视频由《波基普西日报》制作，由约翰·费罗主演。]]></description>
-      <guid>https://t.me/hn_summary/67090</guid>
-      <pubDate>Thu, 04 Jan 2024 05:09:25 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，Herbert Bruderer 讨论了数字化的缺点。</title>
+      <link>https://t.me/hn_summary/67101</link>
+      <description><![CDATA[数字化使许多人处于不利地位
+在本文中，Herbert Bruderer 讨论了数字化的缺点。他认为，数字设备通常比模拟设备更难使用，这使许多人处于不利地位，尤其是体弱者、残疾人和老年人。布鲁德勒强调，数字化将人们排除在社会和经济生活之外，因为他们可能很难使用售票机或访问在线服务。他还提到，那些不使用数字支付交易的人会受到银行的处罚​​。布鲁德勒进一步批评数字化对环境的影响以及缺乏对老年人和残疾人的关注和需求的考虑。]]></description>
+      <guid>https://t.me/hn_summary/67101</guid>
+      <pubDate>Thu, 04 Jan 2024 06:42:48 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：当一个孤独的家庭成员去世并且他们的生活在网上时该怎么办？</title>
-      <link>https://t.me/hn_summary/67089</link>
-      <description><![CDATA[询问 HN：当孤独的家庭成员去世及其家人时该怎么办生活在线？
-news.ycombinator.com 上这篇文章的作者是寻求在网上过着独居生活的家庭成员去世后该怎么办的建议。提交人的妹夫在接受健康检查后被发现死亡，目前尚不清楚他是如何死亡的。这位姐夫以与人在线互动而闻名，尤其是通过玩《无尽的任务》。作者很关心他姐夫的虚拟朋友，并想知道是否可以做些什么来通知他们他的去世。作者还提到，他们不确定是否有人有权使用姐夫的计算机和其他物品。]]></description>
-      <guid>https://t.me/hn_summary/67089</guid>
-      <pubDate>Thu, 04 Jan 2024 05:07:18 GMT</pubDate>
+      <title>[媒体]Flashpoint Archive 是一个社区驱动的项目，旨在保护游戏和动画 [...]</title>
+      <link>https://t.me/hn_summary/67100</link>
+      <description><![CDATA[闪点存档
+Flashpoint Archive 是一个社区驱动的项目，旨在保存网络上的游戏和动画。随着互联网的快速发展，在这些体验过时之前保存它们至关重要。自 2017 年 12 月以来，该项目已使用各种浏览器插件和网络技术成功保存了超过 170,000 个游戏和动画。除了保存之外，Flashpoint Archive 还提供了一个软件包，可以轻松导航和播放保存的内容。该项目最初由 BlueMaxima 发起，旨在拯救 Flash 消亡之前的网页游戏，但现已发展成为一项涉及数百名贡献者的全球性努力。 Flashpoint Archive 作为一个非营利组织运作，欢迎捐款以支持其保存和可访问性工作。]]></description>
+      <guid>https://t.me/hn_summary/67100</guid>
+      <pubDate>Thu, 04 Jan 2024 06:41:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
