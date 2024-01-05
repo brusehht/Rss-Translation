@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 05 Jan 2024 05:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 08:44:35 GMT</lastBuildDate>
     <item>
-      <title>[媒体]本文讨论了嵌入式设备尚未开发的潜力，例如计算器、[...]</title>
-      <link>https://t.me/hn_summary/67275</link>
-      <description><![CDATA[嵌入式设备中闲置的大量隐藏计算，可用于日常人工智能&lt; /a&gt;
-本文讨论了嵌入式设备尚未开发的潜力，例如计算器、ATM、冰箱和钥匙扣，这些设备拥有大量的计算能力，但通常处于闲置状态。作者将这种未使用的计算能力与互联网泡沫后的“暗光纤”进行了比较，表明一旦产品设计师了解了这种可能性，它可能会引发一波创新浪潮。作者估计全球有 1000 亿个 Arm Cortex M 芯片，如果充分利用的话，每秒可能执行 1e22 次整数运算。作者建议将这种“暗计算”用于人工智能应用，例如语音识别、人体感应和手势识别等。本文强调了一旦工程界有效利用这种闲置能力，人工智能创新的潜力将令人难以置信。]]></description>
-      <guid>https://t.me/hn_summary/67275</guid>
-      <pubDate>Fri, 05 Jan 2024 05:53:29 GMT</pubDate>
+      <title>[媒体]此网页内容是作者对与倪教授的遭遇的个人反思[...]</title>
+      <link>https://t.me/hn_summary/67293</link>
+      <description><![CDATA[尼克劳斯·沃斯，1934-2024：极客一生 
+本网络内容是作者对与著名计算机科学家 Niklaus Wirth 教授的遭遇的个人反思。作者第一次接触 Wirth 是在大学学习 Pascal 时，这是一种强调简单性和特定的程序表达方式的编程语言。笔者后来发现，他们在不知不觉中就住在瑞士维尔斯附近，并有机会与他一起飞往一个会议。在飞行过程中，他们讨论了编程以及沃斯对遥控直升机的热情，他自己编写了遥控直升机的程序。作者重点介绍了他们从 Wirth 学到的四个教训：从第一原理开始工作、专注于有意义的交互、将计算机视为扩展人类思维的工具以及成为终生的极客。]]></description>
+      <guid>https://t.me/hn_summary/67293</guid>
+      <pubDate>Fri, 05 Jan 2024 08:44:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者介绍了 LLVM 到 Excel 电子表格的概念验证 [...]</title>
-      <link>https://t.me/hn_summary/67274</link>
-      <description><![CDATA[CellLVM：LLVM 到 Excel 电子表格编译器
-Web 内容的作者介绍了概念验证 LLVM 到 Excel 电子表格编译器。他们解释说，LLVM 是一个用于构建编译器的库，Excel 公式的工作方式与 LLVM 的静态单赋值形式 (SSA) 类似。作者讨论了在电子表格中表示循环的挑战，并提出了使用程序计数器变体的解决方案。他们提供了 Excel 中 phi 表达式的示例，并描述了构建编译器的过程，这是相对少量的代码。作者承认当前实现的局限性，并讨论了编译器的未来方向，包括实现局部变量和函数调用。]]></description>
-      <guid>https://t.me/hn_summary/67274</guid>
-      <pubDate>Fri, 05 Jan 2024 05:53:21 GMT</pubDate>
+      <title>[媒体] Birb 和 Fossil：RSS 复兴？</title>
+      <link>https://t.me/hn_summary/67292</link>
+      <description><![CDATA[Birb 和 Fossil：RSS 复兴？
+作者讨论了 RSS 的复兴及其与 Mastodon 等社交媒体平台的集成。他们推出了两种工具：Birb 和 Fossil，允许用户为 RSS 源创建 Mastodon 帐户并尝试时间线算法。作者认为，由于 Twitter 的衰落、Fediverse 的崛起、播客中 RSS 的使用以及自然语言处理复杂性的降低等趋势，RSS 正在经历重生。他们强调未来开放标准和开源的重要性，并鼓励读者参与到 Syndiverse 中。]]></description>
+      <guid>https://t.me/hn_summary/67292</guid>
+      <pubDate>Fri, 05 Jan 2024 08:35:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了网络作为虚拟机的想法以及它如何成为[...]</title>
-      <link>https://t.me/hn_summary/67273</link>
-      <description><![CDATA[Web 是最成功、最出色的虚拟机 (2009)&lt; /a&gt;
-作者讨论了网络作为虚拟机的想法，以及它如何成为一个成功的平台并被移植到各种设备上。他们强调了向基于网络的应用程序的转变以及从任何机器访问这些应用程序的便利性。作者还提到了基于网络的操作系统的潜力及其可能带来的好处，例如无缝升级和多个设备共享数据。他们承认虚拟机的优势以及暂停、备份和运行多个系统的能力。作者最后表达了对网络作为操作系统的未来及其可能推动的创新的兴奋。]]></description>
-      <guid>https://t.me/hn_summary/67273</guid>
-      <pubDate>Fri, 05 Jan 2024 05:52:15 GMT</pubDate>
+      <title>[媒体] 在这篇题为“对测试的思考”的博文中，作者表达了对 [...]</title>
+      <link>https://t.me/hn_summary/67291</link>
+      <description><![CDATA[关于测试的思考
+在这篇题为“对测试的思考”的博客文章中，作者在承认测试重要性的同时表达了对测试的怀疑。他们认为测试就是代码，因此会造成技术债务。作者强调，测试需要时间来编写、维护和运行，如果设计不当，可能会给人一种错误的安全感。他们认为，最佳的测试数量并不是尽可能多，而是取决于诸如静态分析是否可以捕获某些问题、代码行为有意更改的频率以及测试是否反映了测试意图等因素。正在测试的代码。作者还讨论了在决定是否测试代码时考虑代码的复杂性、与外界交互的程度以及代码的重要性的重要性。他们还涉及集成测试和 UI 测试，表达了一个有争议的观点，即 UI 渲染代码很少值得进行单元测试。作者最后强调在测试时需要深思熟虑，因为它既有好处也有成本。]]></description>
+      <guid>https://t.me/hn_summary/67291</guid>
+      <pubDate>Fri, 05 Jan 2024 08:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最新近室温超导体合法吗？</title>
-      <link>https://t.me/hn_summary/67272</link>
-      <description><![CDATA[最新的近室温超导体合法吗？
-这篇文章讨论了一组科学家最近声称他们发现了一种接近室温的超导体。论文中描述的材料在-23°C的高温下表现出超导体的特性之一，比现有的高温超导体更容易维护。然而，作者强调，此前也曾出现过有关室温超导体的说法被证明是错误的情况。文章建议，在论文结果得到彻底审查和验证之前，持怀疑态度是有道理的。]]></description>
-      <guid>https://t.me/hn_summary/67272</guid>
-      <pubDate>Fri, 05 Jan 2024 05:31:01 GMT</pubDate>
+      <title>[媒体] 多年来，网络浏览器格局发生了巨大变化。</title>
+      <link>https://t.me/hn_summary/67290</link>
+      <description><![CDATA[网络浏览器的世界正处于糟糕的状态 
+多年来，网络浏览器格局发生了巨大变化。 20 世纪 90 年代，Microsoft Internet Explorer 和 Netscape Navigator 争夺主导地位，最终 Internet Explorer 占据上风。然而，Opera、Safari、Firefox 以及最终的 Google Chrome 等新浏览器的推出给市场带来了更多的竞争和创新。 Chrome 迅速成为最受欢迎的浏览器，导致浏览器引擎数量下降。如今，大多数主流浏览器都使用 Chrome 的引擎，只有 Firefox 没有这么做。谷歌这一单一公司缺乏多样性和控制力，令人担忧。作者重点介绍了一个名为 SerenityOS 的小型业余爱好操作系统，它开发了一种名为 Ladybird 的全功能现代网络浏览器，作为解决浏览器引擎多样性缺乏的潜在解决方案。作者呼吁集体反思和行动，鼓励其他浏览器引擎的发展，防止浏览器单一文化。]]></description>
+      <guid>https://t.me/hn_summary/67290</guid>
+      <pubDate>Fri, 05 Jan 2024 08:10:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由大学 Sebyung Kang 教授和 Sung Ho Park 教授领导的一项开创性研究 [...]</title>
-      <link>https://t.me/hn_summary/67271</link>
-      <description><![CDATA[革命性的纳米无人机选择性地瞄准并消灭癌细胞
-UNIST 的 Sebyung Kang 教授和 Sung Ho Park 教授领导的一项开创性研究开发了“NK 细胞接合纳米无人机”，可以选择性地瞄准和消除癌细胞。这些纳米无人机被称为 NKeND，是使用 AaLS 蛋白笼纳米颗粒制成的，并在其表面展示癌症靶向配体和 NK 细胞招募配体。 NKeND 已显示出与特定癌细胞以及人类 NK 细胞结合的能力。当人类 NK 细胞与 NKeND 介导的靶癌细胞结合时，它们会被激活并有效杀死癌细胞。在患有 SK-OV-3 肿瘤的小鼠中，给予 NKeND 可以抑制肿瘤生长，且没有副作用。这项研究提供了一种利用蛋白笼纳米颗粒和重组癌细胞结合剂开发癌症特异性 NK 细胞接合剂的新方法。]]></description>
-      <guid>https://t.me/hn_summary/67271</guid>
-      <pubDate>Fri, 05 Jan 2024 05:19:50 GMT</pubDate>
+      <title>[媒体] 这是给人类的吗？</title>
+      <link>https://t.me/hn_summary/67289</link>
+      <description><![CDATA[这是针对人类的吗？
+本文讨论了人类达到最大人口数量的可能性以及人类是否已达到物种顶峰。根据联合国人口估计，人类人口预计将在 2086 年达到最大人口数 104 亿。一些科学家认为，人类在某些能力方面已经达到了顶峰，例如速度和高度。文章还探讨了人类是否仍在进化并适应不断变化的条件的问题。它提到了随着时间的推移而丧失的遗传特征的例子，例如体内产生维生素 C 的能力和消化乳糖的能力。这篇文章还提出了对人类干预（例如剖腹产）如何影响我们的进化的担忧。总的来说，这篇文章表明人类在此时此刻可能已经达到了最大能力。]]></description>
+      <guid>https://t.me/hn_summary/67289</guid>
+      <pubDate>Fri, 05 Jan 2024 07:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者对斯坦福机器人中心和 Steve Cousins 的帮助表示感谢 [...]</title>
-      <link>https://t.me/hn_summary/67270</link>
-      <description><![CDATA[通过低成本全身远程操作学习双手移动操作
-作者对斯坦福机器人中心和 Steve Cousins 对实验的支持表示感谢。他们还感谢斯坦福 IRIS 实验室和斯坦福 REAL 实验室成员提供的帮助，以及赵庆庆在摄影方面的贡献。作者感谢 Karl Pertsch、Boyuan Chen、Ziwen Zhuang、Quan Vuong 和 Fei Xia 的反馈和讨论。该项目得到波士顿动力人工智能研究所和 ONR 拨款 N00014-21-1-2685 的支持，付子鹏得到斯坦福研究生奖学金的支持。]]></description>
-      <guid>https://t.me/hn_summary/67270</guid>
-      <pubDate>Fri, 05 Jan 2024 04:59:30 GMT</pubDate>
+      <title>[媒体]您在美国经历过的最大的文化冲击是什么？</title>
+      <link>https://t.me/hn_summary/67288</link>
+      <description><![CDATA[您在美国经历过的最大的文化冲击是什么？
+此网页内容是 old.reddit.com。 Reddit 子版块旨在为用户创造一个非评判性的空间，让他们可以提出任何他们在其他地方提出可能感到不舒服的问题。这些规则包括要求真诚地尝试回答问题、阻止粗鲁的回答以及禁止人工智能生成的答案。内容还强调交流中礼貌和尊重的重要性，并禁止提出医疗建议问题、恶搞或笑话问题以及令人不安的主题。 Reddit 子版块的模组团队保留删除破坏性或议程驱动帖子的权利。]]></description>
+      <guid>https://t.me/hn_summary/67288</guid>
+      <pubDate>Fri, 05 Jan 2024 07:41:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文提出了一套指导聊天开发和部署的原则[...]</title>
-      <link>https://t.me/hn_summary/67269</link>
-      <description><![CDATA[ChatGPT提示原则
-本文提出了一套指导 AI 语言模型 ChatGPT 开发和部署的原则。作者强调了确保 ChatGPT 有用并尊重用户价值观的重要性。他们讨论了偏见、有害行为以及定制与安全之间的权衡所带来的挑战。这些原则包括： 1) 广泛有用：ChatGPT 应该成为适用于广泛用户和用途的有用工具。 2）尊重和包容：应避免在有争议的话题上表明立场，尊重用户的价值观。 3）安全可靠：应优先考虑用户安全，防止恶意使用。 4）透明且可理解：系统的行为应该对用户来说是可解释和可理解的。作者承认这些原则的局限性和正在进行的工作。]]></description>
-      <guid>https://t.me/hn_summary/67269</guid>
-      <pubDate>Fri, 05 Jan 2024 04:37:16 GMT</pubDate>
+      <title>您是否比较了使用 GPT plus 订阅和使用 GPT by API 的成本？</title>
+      <link>https://t.me/hn_summary/67287</link>
+      <description><![CDATA[您是否比较了使用 GPT plus 订阅和使用 GPT 的成本通过API？
+作者是一名软件工程师，分享了他们在日常工作中使用Copilot Chat的经验。他们提到它很方便，因为它与 VSCode 集成。作者曾经是 GPT Plus 用户，但最近取消了订阅，因为他们发现自己使用它的频率较低。相反，他们开始使用部署在服务器上的开源 GPT 客户端。他们现在通过 ChatGPT API 使用 GPT，该 API 仅在他们使用时收费。作者不确定这是否是一个明智的选择，并寻求其他人的意见来比较使用 GPT Plus 和 ChatGPT API 的成本。]]></description>
+      <guid>https://t.me/hn_summary/67287</guid>
+      <pubDate>Fri, 05 Jan 2024 07:41:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2023年，人工智能（AI）经历了重大进步，特别是[...]</title>
-      <link>https://t.me/hn_summary/67268</link>
-      <description><![CDATA[2023 年 Milvus 矢量数据库
-2023 年，人工智能 (AI) 取得了重大进步，特别是在大型语言模型 (LLM) 领域。矢量数据库成为增强法学硕士能力、提高数据检索效率和补充领域知识的关键组成部分。 Milvus 作为矢量数据库行业的佼佼者，在 2023 年取得了骄人的成绩。它优先考虑运行稳定性，引入性能改进，并实施混合查询方法来提高搜索质量。 Milvus 还专注于内存节省技术、可扩展性和用户驱动的开发。这篇文章强调了矢量数据库的日益多样化以及开源解决方案在行业中的重要性。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67268</guid>
-      <pubDate>Fri, 05 Jan 2024 04:35:04 GMT</pubDate>
+      <title>[媒体] 网络内容的作者讨论了他们创建家庭自动化的经验 [...]</title>
+      <link>https://t.me/hn_summary/67286</link>
+      <description><![CDATA[Turtles，Elixir 中的 Shelly/Zigbee 家庭自动化工具
+该网络内容的作者讨论了他们使用 Elixir 创建名为 Turtles 的家庭自动化工具的经验。他们解释说，Turtles 对于控制由 Shelly 调光器和 Philips Hue 桥控制的灯光很有用。作者渴望通过智能手机控制家里的所有灯光并创建场景。他们最初订购了 Zigbee 桥接器，但收到了低功耗蓝牙 (BLE) 桥接器。幸运的是，他们能够使用飞利浦 Hue 桥来控制 Zigbee 灯。作者在 Elixir 中实现了 Turtles 并提供了设置说明。它们还包括用户界面的屏幕截图。]]></description>
+      <guid>https://t.me/hn_summary/67286</guid>
+      <pubDate>Fri, 05 Jan 2024 06:34:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“现代 Java/JVM 构建实践”项目是一个全面的指南和入门专业版 [...]</title>
-      <link>https://t.me/hn_summary/67267</link>
-      <description><![CDATA[现代 Java/JVM 构建实践
-“现代 Java/JVM 构建实践”项目是使用 Gradle 和 Maven 构建现代 Java/JVM 项目的综合指南和入门项目。该项目的目的是提供构建 Java 项目的最佳实践和指南，重点关注构建实践和项目卫生。它旨在帮助开发人员快速设置项目，突出优秀的构建工具和插件，记录常见陷阱，并推广合理的默认实践。该项目的独特之处在于它不区分 Gradle 和 Maven，为这两种工具提供指导，并提供可应用于 JVM 上任何语言的技巧和实践。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67267</guid>
-      <pubDate>Fri, 05 Jan 2024 04:31:58 GMT</pubDate>
+      <title>[媒体]KeepYourMouthShut 是一个人工智能辅助的播客解决方案 API，旨在使播客 [...]</title>
+      <link>https://t.me/hn_summary/67285</link>
+      <description><![CDATA[展示 HN：KeepYourMouthShut – 创建播客从未如此简单
+KeepYourMouthShut 是一个人工智能辅助的播客解决方案 API，旨在使播客创建更容易、更容易访问。它根据用户输入生成播客脚本和音频旁白文件，从而消除了对昂贵设备和设置的需求。该项目通过提供开发人员优先的方法并利用人工智能技术而脱颖而出。该 API 的灵感来自 Adam Tal 的 CrowdCast，并使用 Python、llmOS 和 edge-tts 构建。它已获得 GPL-3.0 许可，并且可以在 GitHub 上找到存储库。]]></description>
+      <guid>https://t.me/hn_summary/67285</guid>
+      <pubDate>Fri, 05 Jan 2024 06:32:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我们展示了苹果经典 Pascal 海报的重制版本，现在已发布 [...]</title>
-      <link>https://t.me/hn_summary/67266</link>
-      <description><![CDATA[Apple 的经典 Pascal 海报，重新制作为精美干净的矢量图像 [pdf](https://news.ycombinator.com/item?id=38875551)
-在本文中，我们展示了 Apple 经典 Pascal 海报的重制版本，现在以 PDF 格式提供干净、清晰的矢量图像。最初的海报发布于 20 世纪 80 年代，展示了 Pascal 编程语言的强大和优雅。我们的重制版本保留了原始设计的精髓，同时通过矢量图形的精度和可扩展性对其进行了增强。此 PDF 可以下载并用于教育目的，也可以简单地作为苹果爱好者的怀旧作品。对于任何对编程语言历史或 Apple 标志性设计感兴趣的人来说，这是一本必备书籍。]]></description>
-      <guid>https://t.me/hn_summary/67266</guid>
-      <pubDate>Fri, 05 Jan 2024 04:26:50 GMT</pubDate>
+      <title>[媒体] 隆重推出 Mixdown，一款革命性的人工智能库存音乐搜索工具。</title>
+      <link>https://t.me/hn_summary/67284</link>
+      <description><![CDATA[Show HN：Mixdown、AI 支持的库存音乐搜索
+隆重推出 Mixdown，一款革命性的人工智能库存音乐搜索工具。告别浪费时间为您的项目寻找完美的音乐。通过 Mixdown，您可以快速轻松地找到符合您愿景的理想配乐。我们先进的人工智能技术会分析您的项目并建议最合适的音乐选项，从而节省您的时间和精力。无论您是在制作电影、广告还是任何其他创意工作，Mixdown 都能满足您的需求。今天就尝试一下，体验音乐搜索的未来。]]></description>
+      <guid>https://t.me/hn_summary/67284</guid>
+      <pubDate>Fri, 05 Jan 2024 06:32:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
