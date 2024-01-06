@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 06 Jan 2024 03:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 06:14:46 GMT</lastBuildDate>
+    <item>
+      <title>订阅服务插件/库的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/18zt3oc/recommendations_for_subscription_services/</link>
+      <description><![CDATA[我正在寻找有关一种简单方法的建议，以便我推出订阅服务，用户可以通过我的网站注册并销售他们的商品。他们将能够设置 PayPal、Venmo 和信用卡信息来收取货物付款。想象一下一个刀具制造商协会，成员每月付费出售他们的定制刀具。 我熟悉 Shopify 和 Woo Commerce，并且更喜欢使用 Shopify 插件来实现这一目标，而不是文字新闻的忠实粉丝。我对 JavaScript 很熟悉，并且愿意接受任何简单的选择。越便宜、越容易越好。感谢大家抽出宝贵的时间。   由   提交 /u/Saxbonsai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18zt3oc/recommendations_for_subscription_services/</guid>
+      <pubDate>Sat, 06 Jan 2024 06:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些想法为自己制作一个作品集网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18zsz8s/need_some_ideas_making_a_porfolio_site_for_myself/</link>
+      <description><![CDATA[你好， 我是 React.js 的新手，但我之前在 .NET 中做过全栈 webdev 工作，所以我我想我会很快把它捡起来。我想为自己制作一个非常好的作品集网站，我想知道人们有什么想法我可以用来让它变得更好。  我真的很想加入一些很酷的 Three.js 3D 东西，但最终我不希望它太华丽。这是我不想要的示例 https://www.theycallmegiulio.com/ 。 我今年 20 岁，做过 1 份工作和几个项目，如果这有帮助的话。 谢谢。    ;由   提交/u/Intelligent_League79   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18zsz8s/need_some_ideas_making_a_porfolio_site_for_myself/</guid>
+      <pubDate>Sat, 06 Jan 2024 05:55:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士对我的基本设计工作有很大帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/18zqotj/llms_have_been_of_great_help_to_augment_my_work/</link>
+      <description><![CDATA[       由   提交/u/NuseAI   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18zqotj/llms_have_been_of_great_help_to_augment_my_work/</guid>
+      <pubDate>Sat, 06 Jan 2024 03:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个 Web 组件叫什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18zqhqv/what_is_this_web_component_called/</link>
+      <description><![CDATA[       由   提交/u/t920698  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18zqhqv/what_is_this_web_component_called/</guid>
+      <pubDate>Sat, 06 Jan 2024 03:40:44 GMT</pubDate>
+    </item>
     <item>
       <title>蒙戈还是Postgres？</title>
       <link>https://www.reddit.com/r/webdev/comments/18zoisi/mongo_or_postgres/</link>
-      <description><![CDATA[您好，我是一名拥有 5 年经验的年轻意大利 Web 开发人员，我写这篇文章是为了征求意见，先致谢任何愿意提供帮助的人。最初的目的是探索与我通常使用的技术不同的技术，我创建了一个相当大的项目，现在想要投入生产。这是一个实时市场，注册用户可以在其中买卖物品。这里的独特之处在于，我不想像 eBay 那样每个用户都有自己的卖家仪表板，而是想策划一个产品目录，并且拥有该商品的用户可以设置他们愿意出售的价格。 当买家访问该网站时，他们只会看到该产品的一个显示价格 - 卖家中可用的最低价格（如果没有可用的，则显示“缺货”）。产品也可以有“变体”，例如控制台可以是 Slim、Fat 或 Pro，而鞋子有特定的尺寸，配件、服装等也是如此......为了实现所有这些，我创建了三个项目：前端（React + TailwindCSS）、后端（Node.js + Express）和管理程序（Electron 可执行文件 + React + TailwindCSS）。 最初，我选择 MongoDB Atlas 作为数据库（以探索技术）包含“优惠”、“用户”和“产品”的集合。为了在读取数据时存储数据并避免无限制的数组，我使用一般产品信息（品牌、制造商、功能）和一系列“变体”构建了“产品”集合。该数组包含变体信息（例如，Slim、Medium、Large 等）以及与“Offers”表中最低价格报价相关的数据副本。 此设置意味着更新更改该特定报价的价格或添加新的较低价格也会更改产品表。为了保持数据一致，我使用了事务，在低并发的本地环境中，一切都完美无缺 但是，我没有在高并发的生产环境中使用过 MongoDB，我担心我构建数据的方式可能不够稳健。尽管项目规模很大，我最近还是决定从 MongoDB 切换到 Postgres。我使用标准数据标准化方法完成了此步骤。尽管通过约束保证了数据完整性，但我觉得与 Mongo 相比，在访问者负载较高的情况下，我可能会面临性能问题。这主要是由于 JOIN、GROUP BY、ORDER BY 的数量较多，或者检索产品或产品列表所需的连接数量（我想要显示它们）。 现在，我有两个相同的项目，一个使用 MongoDB，另一个使用 Postgres，但我不确定该选择哪一个。你会怎么办？有人有类似的经历吗？我是不是低估了 MongoDB？为什么我觉得 Postgres 上查询的复杂性或其数量超过了我应该从中获得的好处？   由   提交 /u/LastJoker96   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我是一名拥有 5 年经验的年轻意大利 Web 开发人员，我写这篇文章是为了征求意见，先致谢任何愿意提供帮助的人。最初的目的是探索与我通常使用的技术不同的技术，我创建了一个相当大的项目，现在想要投入生产。这是一个实时市场，注册用户可以在其中买卖物品。这里的独特之处在于，我不想像 eBay 那样每个用户都有自己的卖家仪表板，而是想策划一个产品目录，并且拥有该商品的用户可以设置他们愿意出售的价格。 当买家访问该网站时，他们只会看到该产品的一个显示价格 - 卖家中可用的最低价格（如果没有可用的，则显示“缺货”）。产品也可以有“变体”，例如控制台可以是 Slim、Fat 或 Pro，而鞋子有特定的尺寸，配件、服装等也是如此......为了实现所有这些，我创建了三个项目：前端（React + TailwindCSS）、后端（Node.js + Express）和管理程序（Electron 可执行文件 + React + TailwindCSS）。 最初，我选择 MongoDB Atlas 作为数据库（以探索技术）包含“优惠”、“用户”和“产品”的集合。为了在读取数据时存储数据并避免无限制的数组，我使用一般产品信息（品牌、制造商、功能）和一系列“变体”构建了“产品”集合。该数组包含变体信息（例如，Slim、Medium、Large 等）以及与“Offers”表中最低价格报价相关的数据副本。 此设置意味着更新更改该特定报价的价格或添加新的较低价格也会更改产品表。为了保持数据一致，我使用了事务，在低并发的本地环境中，一切都完美无缺 但是，我没有在高并发的生产环境中使用过 MongoDB，我担心我构建数据的方式可能不够稳健。尽管项目规模很大，我最近还是决定从 MongoDB 切换到 Postgres。我使用标准数据标准化方法完成了此步骤。尽管通过约束保证了数据完整性，但我觉得与 Mongo 相比，在访问者负载较高的情况下，我可能会面临性能问题。这主要是由于 JOIN、GROUP BY、ORDER BY 数量较多，或者检索产品或产品列表所需的连接数量（我想要显示它们）。 现在，我有两个相同的项目，一个使用 MongoDB，另一个使用 Postgres，但我不确定该选择哪一个。你会怎么办？有人有类似的经历吗？我是不是低估了 MongoDB？为什么我觉得 Postgres 上查询的复杂性或其数量超过了我应该从中获得的好处？   由   提交 /u/LastJoker96   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18zoisi/mongo_or_postgres/</guid>
       <pubDate>Sat, 06 Jan 2024 02:04:23 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>利用陀螺仪技术制作移动背景互动</title>
       <link>https://www.reddit.com/r/webdev/comments/18zmb5f/making_a_mobile_background_interactive_with/</link>
-      <description><![CDATA[问候网络人员。 所以我有一个很酷的项目，它占据了我的晚上，看起来它会占用了我周末的大部分时间。我正在开发一个新网站，主页上有一个针对桌面用户的功能，我们已经实现了。当您移动鼠标时，它会产生这种很酷的效果，渐变散布在背景上，有点像沙子在风中移动。它与您在 buttermax.net 上看到的类似，尤其是背景的工作方式。 挑战如下：我需要使移动版本也具有交互性。最重要的想法是使用手机的陀螺仪。我尝试了手指拖动功能，但它不是很好，而且它与我在该区域上方的滑块混淆了。我倾向于让背景随着陀螺仪移动。这实际上是我从高桌得到的建议。 我发现了这个项目（目前正在经历），由一个名叫 Matthew 的人（顺便说一下，他很棒）使用陀螺仪进行视差移动，我很想尝试用我已经组合的一些渐变层来尝试这种方法。 有人对我的老板有想法、建议和潜力吗？  高桌的想法，或者知道任何使用手机陀螺仪来实现炫酷效果的项目吗？我愿意使用不同的技术堆栈。   由   提交/u/full-stackfamily  /u/full-stackfamily  reddit.com/r/webdev/comments/18zmb5f/making_a_mobile_background_interactive_with/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[问候网络人员。 所以我有一个很酷的项目，它占据了我的晚上，看起来它会占用了我周末的大部分时间。我正在开发一个新网站，主页上有一个针对桌面用户的功能，我们已经实现了。当您移动鼠标时，它会产生这种很酷的效果，渐变散布在背景上，有点像沙子在风中移动。它与您在 buttermax.net 上看到的类似，尤其是背景的工作方式。 挑战如下：我需要使移动版本也具有交互性。最重要的想法是使用手机的陀螺仪。我尝试了手指拖动功能，但它不是很好，而且它与我在该区域上方的滑块混淆了。我倾向于让背景随着陀螺仪移动。这实际上是我从高桌得到的建议。 我发现了这个项目（目前正在经历），由一个叫 Matthew 的人（顺便说一下，他很棒）使用陀螺仪进行视差移动，我很想尝试用我已经组合的一些渐变层来尝试这种方法。 有人对我的老板有想法、建议和潜力吗？  高桌的想法，或者知道任何使用手机陀螺仪来实现炫酷效果的项目吗？我愿意使用不同的技术堆栈。   由   提交/u/full-stackfamily  /u/full-stackfamily  reddit.com/r/webdev/comments/18zmb5f/making_a_mobile_background_interactive_with/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18zmb5f/making_a_mobile_background_interactive_with/</guid>
       <pubDate>Sat, 06 Jan 2024 00:23:44 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>HTML 到 PDF 并带有表演</title>
       <link>https://www.reddit.com/r/webdev/comments/18zm20r/html_to_pdf_with_performances/</link>
-      <description><![CDATA[大家好， 我目前正在使用 wkhtmltopdf 和 go 包，并且正在寻找性能更高的解决方案。您是否对不同的 html 到 pdf 解决方案进行了基准测试？我们尝试了一些无头解决方案，但结果并没有更好。 我们每月 1 日通过计费服务生成数千个 PDF，因此如果我们能够缩短 PDF 生成时间，那就太好了。&lt; /p&gt;   由   提交/u/donovanish  [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们， 我目前正在使用 wkhtmltopdf 和 go 包，并且正在寻找性能更高的解决方案。您是否对不同的 html 到 pdf 解决方案进行了基准测试？我们尝试了一些无头解决方案，但结果并没有更好。 我们在每个月的 1 号通过计费服务生成数千个 PDF，因此如果我们能够缩短 PDF 生成时间，那就太好了。&lt; /p&gt;   由   提交/u/donovanish  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18zm20r/html_to_pdf_with_performances/</guid>
       <pubDate>Sat, 06 Jan 2024 00:12:57 GMT</pubDate>
     </item>
@@ -64,14 +92,14 @@
     <item>
       <title>显示树状图</title>
       <link>https://www.reddit.com/r/webdev/comments/18zl54j/displaying_a_treelike_graph/</link>
-      <description><![CDATA[      嘿:) 我目前正在制定一个小爱好项目的实施细节，该项目围绕为特定主题提供结构化指南/学习体验。我最初计划使用纯 HTML5 / CSS 结合一些服务器端模板引擎（可能是 pug 或 esj，我还没有完全决定） 为了提供我想要的学习内容的概述实现将单个主题嵌套在“股”中的结构化图（参见模型图像）。并提供“引导”了解不同主题的一些先决条件。 https://preview.redd.it/j6fp4rkvipac1.png?width=681&amp;format=png&amp;auto=webp&amp;s=4731f1c0d21482428d444f6b4b078f427ac9c4 af 我想这可能是可以用纯 HTML / CSS 实现这一点，但我也认为这将非常痛苦 :T 因为这是一个业余爱好项目，目标之一是我个人学习一些新的东西，我很乐意迈出一步远离“纯粹”方法并使用一些其他技术。 但是，在研究该主题时，我有一种感觉，在大多数情况下，我正在处理某种“全栈”技术。对于我想要实现的目标来说，框架太过分了。 （React、vue.js、Angular 等） 你能给我一些建议，让我知道我应该进一步研究什么吗？我最初计划的基本摘要如下：  从 Markdown 模板渲染引导页面（可能在 pug 或 ejs 之上） 在如图所示的树状结构形式 除了可能记住客户端（cookie）用户已经查看/完成的内容的哪些部分之外，没有任何形式的用户交互性。那就是：我不想处理任何身份验证/授权或用户管理。本质上是一个静态页面，这就是为什么我最初想使用纯 HTML / CSS  提前致谢:)  &amp; #32；由   提交/u/Karathan  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      嘿:) 我目前正在制定一个小爱好项目的实施细节，该项目围绕为特定主题提供结构化指南/学习体验。我最初计划使用纯 HTML5 / CSS 结合一些服务器端模板引擎（可能是 pug 或 esj，我还没有完全决定） 为了提供我想要的学习内容的概述实现将单个主题嵌套在“股”中的结构化图（参见模型图像）。并提供“引导”了解不同主题的一些先决条件。 https://preview.redd.it/j6fp4rkvipac1.png?width=681&amp;format=png&amp;auto=webp&amp;s=4731f1c0d21482428d444f6b4b078f427ac9c4 af 我想这可能是可以用纯 HTML / CSS 实现这一点，但我也认为这将非常痛苦 :T 因为这是一个业余爱好项目，目标之一是我个人学习一些新东西，我很乐意迈出一步远离“纯粹”方法并使用一些其他技术。 但是，在研究该主题时，我感觉到，在大多数情况下，我正在处理某种“全栈”技术。对于我想要实现的目标来说，框架太过分了。 （React、vue.js、Angular 等） 你能给我一些建议，让我知道我应该进一步研究什么吗？我最初计划的基本摘要如下：  从 Markdown 模板渲染引导页面（可能在 pug 或 ejs 之上） 在如图所示的树状结构形式 除了可能记住客户端（cookie）用户已经查看/完成的内容的哪些部分之外，没有任何形式的用户交互性。那就是：我不想处理任何身份验证/授权或用户管理。本质上是一个静态页面，这就是为什么我最初想使用纯 HTML / CSS  提前致谢:)  &amp; #32；由   提交/u/Karathan  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18zl54j/displaying_a_treelike_graph/</guid>
       <pubDate>Fri, 05 Jan 2024 23:35:06 GMT</pubDate>
     </item>
     <item>
       <title>为什么我的 CSS 代码不适用于 Safari，但适用于 Chrome？</title>
       <link>https://www.reddit.com/r/webdev/comments/18zkwmx/why_is_my_css_code_not_working_for_safari_but_is/</link>
-      <description><![CDATA[我有一个用 Webflow 制作的创意个人作品集网站，但我一直遇到一个问题，主页上的项目链接在 Safari 上无法点击。我联系了 Webflow 支持，他们说删除主页上的 HTML 嵌入元素解决了问题，但他们无法帮助自定义代码...我不懂编码，所以我来到这里希望是否有人可以提供帮助这段CSS代码。我尝试使用 ChatGPT 来优化代码，但它只是让一切变得更糟 Codepen 问题视频 预览链接   由   提交 /u/cummpuddle   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个用 Webflow 制作的创意个人作品集网站，但我遇到了一个问题，主页上的项目链接在 Safari 上无法点击。我联系了 Webflow 支持，他们说删除主页上的 HTML 嵌入元素解决了问题，但他们无法帮助自定义代码...我不懂编码，所以我来到这里希望是否有人可以提供帮助这段CSS代码。我尝试使用 ChatGPT 来优化代码，但它只是让一切变得更糟 Codepen 问题视频 预览链接   由   提交 /u/cummpuddle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18zkwmx/why_is_my_css_code_not_working_for_safari_but_is/</guid>
       <pubDate>Fri, 05 Jan 2024 23:25:10 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[除了 Weebly/Square 之外，对于以大约相同的预算为我们的小型企业构建 DIY 网站有什么建议吗？我们是一家医疗保健企业，多年前就创建了一个 Weebly 网站，当时该网站被 Square 收购。我对用户界面很满意，但我希望能够查看页面统计信息，例如通过我放在明信片邮寄程序上的二维码访问页面的时间和频率。网站本身没有销售任何产品，但我们不介意有一天这样做，但我们希望它们直接发货或使用第三方供应商。我本来想用Google做一个网站，但是又不想降级。如果有什么我想升级/现代化我们使用的平台。我们现在是一个成熟的办公室（10 年以上），但我们也不想做任何损害我们 SEO 的事情。对于 Weebly/Square 替代品有什么建议吗？谢谢   由   提交/u/tvent2  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18zkjfh/weebly_square_vs_other_for_small_business/</guid>
       <pubDate>Fri, 05 Jan 2024 23:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我非常喜欢 iOS safari</title>
-      <link>https://www.reddit.com/r/webdev/comments/18zjara/i_frigging_love_ios_safari/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/sporadicPenguin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18zjara/i_frigging_love_ios_safari/</guid>
-      <pubDate>Fri, 05 Jan 2024 22:17:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>基本网络分析的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ziwpt/recommendations_for_basic_web_analytics/</link>
-      <description><![CDATA[在 Ubuntu 服务器 22.04.3 上运行 nginx。有什么好的基本网络分析软件推荐吗？最好是开源的，并且需要不具有侵入性。我真正想知道的是有多少人访问该网站。谢谢！   由   提交 /u/Tree_Hair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ziwpt/recommendations_for_basic_web_analytics/</guid>
-      <pubDate>Fri, 05 Jan 2024 22:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人参加过 IronHack 训练营吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ziq5g/has_anyone_done_an_ironhack_bootcamp/</link>
-      <description><![CDATA[我可能有机会在马德里参加这个训练营，但我想知道是否有其他人参加过这个训练营，如果是的话，你的想法就它了。   由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ziq5g/has_anyone_done_an_ironhack_bootcamp/</guid>
-      <pubDate>Fri, 05 Jan 2024 21:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weather.gov API 帮助（xposted 在 r/后端）</title>
-      <link>https://www.reddit.com/r/webdev/comments/18zioti/help_with_weathergov_api_xposted_on_rbackend/</link>
-      <description><![CDATA[     &lt; /td&gt; 大家好， 我正在尝试构建一个我计划添加的当前天气组件到一家餐厅的网页，该网页将显示该餐厅的当地天气（他们有很多骑自行车的人，因此天气与业务相关）。我正在尝试访问 Weather.gov API，但是当我发出请求时，具有天气信息（“周期”）的对象不断向我提供未定义的对象。我研究了 Axios 和 Weather API 文档来帮助格式化我的请求。在 Weather.gov 网站上，规范下有一个选项可以尝试端点，我已经尝试了并且取得了成功。我还使用 Postman 应用程序发送 GET 请求。这两个示例均已成功返回，并且对象不是未定义的，并且显示当前条件。然而，当我将weather.gov和Postman使用的这些方法集成到我的代码中时，我得到了成功的响应，但我的“期间”对象数组返回时未定义。我还尝试向 ChatGPT 询问一些故障排除提示，但结果却失败了……据我所知，我还确保遵循 Weather.gov 指南中相应的身份验证标头要求。我附上了 JS 文件的屏幕截图，控制台响应显示未定义的“句点”来自 response.data 的对象，以及我用来显示数据的 EJS 模板。请告诉我如何解决此问题并改进我的代码。 Weather.gov API 文档： https://www.weather.gov/documentation/services-web-api#/default/gridpoint_forecast Axios 文档： https://axios-http.com/docs/req_config &lt; p&gt;邮递员请求显示“周期”对象 EJS 模板-index.ejs index.js console.log(results.data) 输出   由   提交/u/l-b_b-l   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18zioti/help_with_weathergov_api_xposted_on_rbackend/</guid>
-      <pubDate>Fri, 05 Jan 2024 21:52:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
