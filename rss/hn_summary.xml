@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 06 Jan 2024 11:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 15:05:53 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 欢迎来到 Holy-texts.com，这是最大的有关宗教、神话的在线书籍档案库 [...]</title>
-      <link>https://t.me/hn_summary/67483</link>
-      <description><![CDATA[最大的有关宗教、神话、民俗等的在线书籍档案&lt; /a&gt;
-欢迎来到 sacred-texts.com，最大的档案库有关宗教、神话、民间传说等的在线书籍。我们的网站是互联网上的一个和平角落，致力于促进宗教宽容和学术研究。我们努力提供来自不同传统的全面文本集合，让用户探索和了解不同的信仰体系。值得注意的是，虽然我们网站上的大部分内容都属于公共领域，但任何非公共领域的材料均受互联网神圣文本档案馆的版权保护。与我们一起踏上这段穿越灵性和古老智慧世界的启蒙之旅。]]></description>
-      <guid>https://t.me/hn_summary/67483</guid>
-      <pubDate>Sat, 06 Jan 2024 11:59:51 GMT</pubDate>
+      <title>[媒体] ReloadeD 是一个基于动态库的实时代码重载库。</title>
+      <link>https://t.me/hn_summary/67502</link>
+      <description><![CDATA[重新加载：简单的 DLang 实时代码重新加载
+ReloadeD 是一个基于动态库的实时代码重载库。目前处于实验阶段，仅在 Windows 上进行了测试。该项目由主机应用程序和客户端库组成。主机应用程序加载库并与客户端共享数据。当发生更改时，该库可以自动重新加载，主机可以根据需要调用客户端的函数。该项目的独特之处在于允许从任何语言重新加载动态库，而无需在客户端使用 ReloadeD 模块。该项目受到 cr.h 的启发，并根据 Boost 软件许可证获得许可。]]></description>
+      <guid>https://t.me/hn_summary/67502</guid>
+      <pubDate>Sat, 06 Jan 2024 15:05:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员发现大麻电池有可能彻底改变[...]</title>
-      <link>https://t.me/hn_summary/67482</link>
-      <description><![CDATA[大麻电池彻底改变了能源存储
-研究人员发现大麻电池有可能彻底改变能源存储领域。这些电池的使用寿命是锂电池的八倍，并且性能优于石墨烯，而成本却仅为锂电池的一小部分。这些电池是由大麻韧皮纤维制成的，这种纤维通常被浪费在垃圾填埋场中。研究人员将大麻浆转化为碳纳米片，用于构建与石墨烯相当或优于石墨烯的超级电容器。这项创新为锂离子和石墨烯电池提供了一种更可持续、更实惠的替代品，使电动汽车和小工具更加环保。大麻电池的储能未来看起来光明又环保。]]></description>
-      <guid>https://t.me/hn_summary/67482</guid>
-      <pubDate>Sat, 06 Jan 2024 11:12:33 GMT</pubDate>
+      <title>[媒体]So Kagi，一个流行的支付网关，最近宣布与 Brave 建立合作伙伴关系，t [...]</title>
+      <link>https://t.me/hn_summary/67501</link>
+      <description><![CDATA[Kagi 现在与 Brave 合作
+因此，流行的支付网关 Kagi 最近宣布与注重隐私的网络浏览器 Brave 建立合作伙伴关系。此次合作旨在为用户在浏览网页时提供无缝、安全的支付体验。通过将 Kagi 的支付系统集成到 Brave 中，用户可以轻松进行购买并支持他们喜爱的内容创作者，而不会损害他们的隐私。此次合作是创建更加用户友好且以隐私为中心的在线生态系统的重要一步。很高兴看到两家创新公司联手增强用户的浏览体验。]]></description>
+      <guid>https://t.me/hn_summary/67501</guid>
+      <pubDate>Sat, 06 Jan 2024 14:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Olestra，也称为Olean，是一种脂肪替代品，不添加任何热量到产品中。</title>
-      <link>https://t.me/hn_summary/67481</link>
-      <description><![CDATA[Olestra
-Olestra，也称为 Olean，是一种脂肪替代品，不会在产品中添加卡路里。它于 1996 年被 FDA 批准作为预包装零食中脂肪和油的替代品。然而，由于所谓的副作用，它在 2000 年代末失去了人气，并已基本被淘汰。 Olestra 是宝洁公司研究人员于 1968 年意外发现的，最初被测试作为降低胆固醇水平的治疗方法。 FDA 担心奥利斯特拉会鼓励过度消费及其潜在的副作用，例如腹泻。奥利斯特拉 (Olestra) 不再在美国销售，但在某些国家/地区仍然可以找到。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67481</guid>
-      <pubDate>Sat, 06 Jan 2024 11:10:26 GMT</pubDate>
+      <title>这个 GitHub 项目是一个小型手工制作的 CPU 模拟器、C 编译器和操作系统的集合。</title>
+      <link>https://t.me/hn_summary/67500</link>
+      <description><![CDATA[一个微型手工制作的 CPU 模拟器、C 编译器和操作系统&lt; /a&gt;
+这个 GitHub 项目是一个小型手工制作的 CPU 模拟器、C 编译器和操作系统的集合。该项目的目的是提供一个 Unix 风格的内核、编译器和用户空间，用于娱乐、教育和研究目的。它旨在解决理解和实验低级系统编程的问题。该项目的独特之处在于提供了一个具有完整用户/管理员和虚拟内存支持的虚拟 CPU、一个用于所有应用程序即时编译和运行的快速 C 子集编译器，以及各种功能，例如网络客户端和服务器、远程OpenGL、GUI应用程序等。它可以在Windows和Linux操作系统上运行。]]></description>
+      <guid>https://t.me/hn_summary/67500</guid>
+      <pubDate>Sat, 06 Jan 2024 14:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]ListenBrainz 是一个平台，可让您跟踪您收听的音乐[...]</title>
-      <link>https://t.me/hn_summary/67480</link>
-      <description><![CDATA[展示 HN：ListenBrainz 音乐年 2023
-ListenBrainz 是一个平台，可让您跟踪您收听的音乐并获得有关您的收听习惯的宝贵见解。借助 ListenBrainz，您可以轻松跟踪您的音乐偏好，通过个性化推荐发现新歌曲，甚至使用我们独特的可视化效果与其他人分享您的音乐品味。这是与您喜爱的音乐保持联系并探索新流派和艺术家的好方法。查看 ListenBrainz 音乐年 2023，了解全年音乐聆听之旅的摘要。]]></description>
-      <guid>https://t.me/hn_summary/67480</guid>
-      <pubDate>Sat, 06 Jan 2024 11:00:12 GMT</pubDate>
+      <title>[媒体] SmartSaver 是一个个人支出跟踪器概念模板，旨在成为您的个人 [...]</title>
+      <link>https://t.me/hn_summary/67499</link>
+      <description><![CDATA[显示 HN：SmartSaver：个人费用跟踪器概念模板 
+SmartSaver 是一个个人支出跟踪器概念模板，旨在成为您的个人财务助手。它提供可定制的预算类别、自动费用计算以及具有视觉吸引力的仪表板，以提供清晰的财务概览。该模板旨在易于初学者和经验丰富的预算人员使用。通过使用 SmartSaver，用户可以清楚地了解自己的消费习惯，做出明智的决策以实现其财务目标，并通过简化的费用跟踪来节省时间。]]></description>
+      <guid>https://t.me/hn_summary/67499</guid>
+      <pubDate>Sat, 06 Jan 2024 14:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这次采访中，Gerhard Behles 和 Robert Henke 讨论了 Ableton 的早期 [...]</title>
-      <link>https://t.me/hn_summary/67479</link>
-      <description><![CDATA[Gerhard Behles 和 Robert Henke 谈 Ableton [2016](https:/ /news.ycombinator.com/item?id=38864623)
-在本次采访中，Gerhard Behles 和 Robert Henke 讨论了 Ableton 的早期发展以及它如何发展成为今天的成功软件。他们将加入对话并推动融资和商业计划的伯恩德视为公司的转折点。他们还提到，当时的技术完全不同，没有像 Ableton Live 这样的技术。创始人最初相信该产品能够在商业上生存，但他们从未预料到它会取得令人难以置信的成功。他们回忆起第一次贸易展的经历，感觉自己就像其他利基公司中的小创新者。这次采访还强调了一个关键时刻，著名音乐制作人 Hans Zimmer 认识到了 Ableton Live 的潜力并激发了其他专业人士的兴趣。创始人将该软件的成功归功于其 ReWire 的实施，这使其能够与 Protools 等其他行业标准工具集成。总的来说，这次采访让我们深入了解了 Ableton 的早期阶段及其对音乐行业产生的意想不到的影响。]]></description>
-      <guid>https://t.me/hn_summary/67479</guid>
-      <pubDate>Sat, 06 Jan 2024 10:58:01 GMT</pubDate>
+      <title>[媒体]在这篇题为“后现代主义走向科学时艾伦·索卡尔的笑话对我们来说”的文章中，[...]</title>
+      <link>https://t.me/hn_summary/67498</link>
+      <description><![CDATA[后现代主义走进科学，艾伦·索卡尔的笑话来了
+在这篇题为“当后现代主义进入科学时艾伦·索卡尔的笑话对我们来说”的文章中，作者反思了他们在耶鲁大学教授物理的时间以及科学与人文之间的分歧。他们提到了数学家艾伦·索卡尔（Alan Sokal），他在文化研究期刊上发表了一篇著名的文章，挑战了客观现实的观念，并断言科学知识受到社会和语言结构的影响。作者重点介绍了围绕索卡尔文章的争议以及后现代主义对科学领域的影响。]]></description>
+      <guid>https://t.me/hn_summary/67498</guid>
+      <pubDate>Sat, 06 Jan 2024 14:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]尼康、索尼和佳能正在推出防篡改数字水印技术 [...]</title>
-      <link>https://t.me/hn_summary/67478</link>
-      <description><![CDATA[相机制造商的新技术试图证明照片不是人工智能伪造的&lt; /a&gt;
-尼康、索尼和佳能正在为其相机引入防篡改数字水印技术，以帮助用户证明他们的照片不是人工智能生成的。该技术将数字签名嵌入到拍摄的每张图像中，其中包含日期、时间、位置和摄影师姓名等数据。虽然此功能对记者和照片编辑等专业人士有益，但它只是解决摄影信任这一更大问题的创可贴。随着人工智能生成的深度伪造品的兴起以及虚假图像在社交媒体上的传播，验证照片的真实性至关重要。然而，仅靠这项技术并不能阻止人工智能生成的假货在社交媒体或无良媒体上的传播。为了真正解决这个问题，所有相机和手机制造商都需要采用这个数字签名标准，并且有必要进行检查水印的教育。]]></description>
-      <guid>https://t.me/hn_summary/67478</guid>
-      <pubDate>Sat, 06 Jan 2024 10:35:47 GMT</pubDate>
+      <title>[媒体] 网页内容是精益 4 定理证明的初学者指南。</title>
+      <link>https://t.me/hn_summary/67497</link>
+      <description><![CDATA[精益定理证明初学者指南 4&lt; br/&gt;
+网页内容是 Lean 4 中定理证明的初学者指南。作者分享了他们在 Lean 中实现 Matroid 之间的属性和转换的经验。他们提到，虽然主要的精益文档和精益定理证明 4 (TPiL) 很有帮助，但所提供的信息存在差距。作者强调了 Zulip 聊天对于填补这些空白的有用性。内容被组织成小部分，涵盖精益定理证明的不同方面，例如运行代码片段、查找定理、使用 rw、exact 和 apply 等策略、使用 have 引入子目标、处理 if/else 语句以及使用与否定相关的策略，如荒谬、矛盾和对立。 （根据故事文本的 57% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67497</guid>
+      <pubDate>Sat, 06 Jan 2024 14:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌 DeepMind 机器人团队开发出三项新进展，以改善 [...]</title>
-      <link>https://t.me/hn_summary/67477</link>
-      <description><![CDATA[Google 编写了一份“机器人宪法”以确保其新的人工智能机器人不会杀了我们
-谷歌 DeepMind 机器人团队开发了三项新进展，以提高机器人的决策能力。其中一项进步是“机器人宪法”，其灵感来自艾萨克·阿西莫夫的“机器人三定律”，它提供了以安全为中心的提示，以确保机器人避免涉及人类、动物、尖锐物体和电器的任务。机器人还采取了适当的安全措施，例如，如果关节上的力超过一定阈值，则自动停止，并设有物理终止开关，供人类操作员停用它们。谷歌在办公楼中使用该系统部署了由 53 台机器人组成的车队，为期七个月，进行了 77,000 多次试验。机器人使用视觉语言模型和大型语言模型来理解它们的环境并选择适当的任务。 DeepMind 还开发了其他技术，包括 SARA-RT 和 RT-Trajectory，以提高机器人的准确性和性能。]]></description>
-      <guid>https://t.me/hn_summary/67477</guid>
-      <pubDate>Sat, 06 Jan 2024 10:30:38 GMT</pubDate>
+      <title>[媒体] 一位名叫 Jad Sleiman 的记者已恢复在费城 WHYY 的职位 [...]</title>
+      <link>https://t.me/hn_summary/67496</link>
+      <description><![CDATA[因笑话而被解雇的电台记者在仲裁员发现笑话有趣后恢复了工作
+一位名叫贾德·斯莱曼 (Jad Sleiman) 的记者在因单口喜剧被解雇后，已恢复在费城 NPR 电视台 WHYY 的职位。一名仲裁员认定，虽然苏莱曼的一些笑话可能被视为“煽动性”，但该组织仓促地做出了解雇他的决定。苏莱曼计划重返工作岗位，并正在考虑对有关其品格的言论采取进一步的法律行动。 WHYY 认为苏莱曼的喜剧违反了他们的行为准则和社交媒体准则，并提交了九个视频作为证据。苏莱曼辩称，他的日常习惯源于他作为阿拉伯裔美国人的经历以及他在军队和中东报道的经历。仲裁员发现其中一些视频很有趣，并命令苏莱曼删除它们。]]></description>
+      <guid>https://t.me/hn_summary/67496</guid>
+      <pubDate>Sat, 06 Jan 2024 14:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Csvlens：命令行 CSV 文件查看器。</title>
-      <link>https://t.me/hn_summary/67476</link>
-      <description><![CDATA[Csvlens：命令行 CSV 文件查看器。喜欢 less 但专为 CSV 制作
-Csvlens 是一个命令行 CSV 文件查看器，允许用户以与“less”命令类似的方式查看和导航 CSV 文件。它提供用于滚动、搜索、过滤和选择 CSV 文件中特定行、列或单元格的键绑定。该项目提供了可选参数，用于指定解析 CSV 时使用的分隔符、搜索时忽略大小写以及打印所选行中特定列的值。 Csvlens 可以使用 Cargo 包管理器或通过 Linux 包管理器（如 pkgsrc）来安装。]]></description>
-      <guid>https://t.me/hn_summary/67476</guid>
-      <pubDate>Sat, 06 Jan 2024 10:25:30 GMT</pubDate>
+      <title>[媒体]作者讨论了 Python 在科学计算领域的惊人崛起，特别是 [...]</title>
+      <link>https://t.me/hn_summary/67495</link>
+      <description><![CDATA[Fortran vs Python：Python 在科学计算领域的反直觉崛起
+作者讨论了 Python 在科学计算领域的惊人崛起，特别是与 Fortran 相比。他们提到了一个基准测试，该测试涉及构建均匀分布点的树并查询最近邻居以获取不同维度的随机向量。作者提供了使用 Matthew Kennel 的“kdtree2”代码的代码示例，并分享了在较旧的 ThinkPad 上运行该程序的结果。他们强调，已有 16 年历史的 Fortran 代码的性能与最新的 Scipy 版本类似，这可能会让那些认为 Python 在科学计算方面更胜一筹的人感到惊讶。作者建议，如果之前博客文章中的 Bob 知道这段 Fortran 代码，他可能会向 Python 爱好者发起挑战。]]></description>
+      <guid>https://t.me/hn_summary/67495</guid>
+      <pubDate>Sat, 06 Jan 2024 14:06:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网页内容的作者收到了两个包含打捞的俄罗斯电力的包裹[...]</title>
-      <link>https://t.me/hn_summary/67475</link>
-      <description><![CDATA[拆解两个俄罗斯导弹传感器
-该网络内容的作者收到了两个包裹，其中装有回收的俄罗斯电子产品，其中包括一枚导弹的传感器和一枚未知导弹的光纤陀螺仪 (FOG)。 FOG 利用 Sagnac 效应来检测旋转，仅需要光学元件、放大器级和 Altera Cyclone II FPGA。 16 通道线性红外阵列传感器更为基本，具有采用独特陶瓷金封装 DIP 格式的多路复用器 IC。作者希望使光纤陀螺恢复到工作状态。文章提到光纤陀螺在军事应用之外还有多种用途。]]></description>
-      <guid>https://t.me/hn_summary/67475</guid>
-      <pubDate>Sat, 06 Jan 2024 10:18:23 GMT</pubDate>
+      <title>[媒体]皇家海军被迫在社交媒体上发布最高职位的广告，特别是在[...]</title>
+      <link>https://t.me/hn_summary/67494</link>
+      <description><![CDATA[皇家海军被迫在社交媒体上招募士兵
+由于内部难以填补这一职位，英国皇家海军被迫在社交媒体上发布高级职位的广告，特别是在 LinkedIn 上。这个年薪 15 万英镑的海军少将职位，负责潜艇和精锐行动，受到了军方人士的批评，有人称其“完全可耻”。该广告被描述为“史无前例”，并引发了人们对海军寻找合适候选人的能力的担忧。这一招募挑战正值前国防部长本·华莱士警告称，由于 Z 世代缺乏加入的兴趣，武装部队将面临危机。由于水手短缺，英国皇家海军已经不得不退役两艘军舰。]]></description>
+      <guid>https://t.me/hn_summary/67494</guid>
+      <pubDate>Sat, 06 Jan 2024 14:03:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]M.I.L.E.S（机器智能语言启用系统）是一款由 [...]</title>
-      <link>https://t.me/hn_summary/67474</link>
-      <description><![CDATA[Show HN：我创造了 M.I.L.E.S，世界上最好的语音助手
-M.I.L.E.S（机器智能语言支持系统）是一款由 AI 语言模型（特别是 GPT-4-Turbo 模型）提供支持的语音助手。它提供的功能包括集成 Spotify 控件、实时天气更新、选择性内存、计算器、多任务处理功能和逼真的语音。该项目的独特之处在于提供了听起来像人类的真实声音，并提供了在不同 OpenAI 模型之间切换和自定义系统提示的能力。自述文件提供了在 Mac 和 Windows 上设置项目的说明，包括与 OpenAI API、Spotify 和 Picovoice Porcupine 集成以进行唤醒词检测。还提供了故障排除步骤。 （根据故事文本的 59% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67474</guid>
-      <pubDate>Sat, 06 Jan 2024 10:13:15 GMT</pubDate>
+      <title>[媒体]《凯尔斯书》是基督教四福音书的泥金手稿 [...]</title>
+      <link>https://t.me/hn_summary/67493</link>
+      <description><![CDATA[凯尔斯之书
+《凯尔斯书》是基督教新约四福音书的泥金手稿。它以其复杂而雄伟的插图而闻名，历史上因其美丽而受到赞誉。这本书是作为祭坛的展示品而创作的，对艺术作品的关注比对文字的关注更多。它很可能是由苏格兰爱奥那州圣科伦巴修会的修道士制作的，并被带到爱尔兰凯尔斯，以保护它免受维京人的袭击。 《凯尔斯之书》被认为是任何时代最伟大的插图手稿，是为弥撒庆祝活动而创作的。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67493</guid>
+      <pubDate>Sat, 06 Jan 2024 14:03:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
