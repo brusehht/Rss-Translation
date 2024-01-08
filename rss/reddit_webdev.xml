@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 08 Jan 2024 03:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 06:16:25 GMT</lastBuildDate>
+    <item>
+      <title>您更喜欢全键行程键盘还是短键行程键盘？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/191dyyu/do_you_prefer_full_key_travel_or_short_key_travel/</link>
+      <description><![CDATA[我有一个 Roccat Vulcan Pro 键盘。太棒了。然而，它应该是低调的。钥匙的预行程为 1.5 毫米，全行程为 3.8 毫米。对我来说，低调是指整个行程低于 2 毫米。 但是，我开始想知道低调是否真的很重要，也许我应该享受键盘，因为它非常棒，而且在全旅行键盘上打字是可以的。 您更喜欢哪种类型？低调？高调？为什么？   由   提交 /u/CocoaTrain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/191dyyu/do_you_prefer_full_key_travel_or_short_key_travel/</guid>
+      <pubDate>Mon, 08 Jan 2024 05:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何用反应来做这样的事情？ （我可以做的设计，我需要在另一个地方重用这个输入，我想在导航栏和侧边栏中使用它，所以我需要将它作为一个组件，但它将有两种不同的样式，所以我不知道如何去关于它，请有人解释一下逻辑）</title>
+      <link>https://www.reddit.com/r/webdev/comments/191crtj/how_to_make_something_like_this_with_react_the/</link>
+      <description><![CDATA[       由   提交/u/_I_DontKnow_Anymore_   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/191crtj/how_to_make_something_like_this_with_react_the/</guid>
+      <pubDate>Mon, 08 Jan 2024 04:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>新创建的企业列表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/191c72l/a_list_of_newly_created_businesses/</link>
+      <description><![CDATA[大家好，这里有人知道有一个网站可以让我按利基找到新创建的企业吗？或者一般新创建的企业？   由   提交/u/helpmeoutplease920  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/191c72l/a_list_of_newly_created_businesses/</guid>
+      <pubDate>Mon, 08 Jan 2024 04:14:12 GMT</pubDate>
+    </item>
     <item>
       <title>给我看看你的投资组合</title>
       <link>https://www.reddit.com/r/webdev/comments/191a6q2/show_me_your_portfolio/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在考虑使用某种设备来使我经常使用的一些个人项目保持在线状态。我真的没有任何出版它们的真正意图。它们只是为了让我闲逛而已。目前它们在我的 PC 的 Linux 分区上运行。我想将项目的最完整版本存储在更独立于我的电脑的地方。我曾想过将我的旧笔记本电脑变成这个解决方案，然后将其打开，或者购买一个树莓派并制作一个简单的服务器，甚至是一个超级便宜的家庭服务器。它们是玩具项目，不需要大量的计算能力，只需要能够在合理的时间内提供文件服务和执行 CRUD 操作。我到底在寻找什么？   由   提交/u/mymar101  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1911xph/what_should_i_use_to_accomplish_this/</guid>
       <pubDate>Sun, 07 Jan 2024 20:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>病假工资？您如何处理无法作为自由职业者工作的时间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1910zzq/sick_pay_how_do_you_handle_time_not_able_to_work/</link>
-      <description><![CDATA[当您因为生病而无法工作时，如何确保您仍有足够的钱来支付账单和必需品？（除了储蓄）在这种情况下，你们的合同中有哪些内容可以保护自己？感谢您的阅读！   由   提交 /u/Ecstatic-Promise2660    reddit.com/r/webdev/comments/1910zzq/sick_pay_how_do_you_handle_time_not_able_to_work/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1910zzq/sick_pay_how_do_you_handle_time_not_able_to_work/</guid>
-      <pubDate>Sun, 07 Jan 2024 20:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 HTML 中使用图像时出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1910ubj/trouble_using_images_in_html/</link>
-      <description><![CDATA[您好！如果这是错误的地方，我深表歉意，但我正在尝试建立我的第一个网站，但我遇到了很多麻烦，并且处于放弃的边缘。我已经支付了域名和虚拟主机费用，并且一直在使用 WinSCP 将图像文件上传到虚拟主机。问题是，当我返回尝试将图像添加到 HTML 中时，它永远不会起作用。我已经尝试了多次文件命名迭代，并尝试将文件上传到不同的目录，但我开始迷失方向。谁能帮我找出我正在上传的图像的正确网址？根据我的阅读，我应该将图像上传到网络主机上的 public_html 文件夹中，但从那里我无法找出在 HTML 中使用的正确地址。非常感谢！   由   提交 /u/carlgoodtoseeyou   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1910ubj/trouble_using_images_in_html/</guid>
-      <pubDate>Sun, 07 Jan 2024 19:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何收集用户对应用程序的需求</title>
-      <link>https://www.reddit.com/r/webdev/comments/19109k3/how_to_gather_user_requirements_for_an_application/</link>
-      <description><![CDATA[大家好，我想从你们那里得到一些关于如何收集用户需求的提示。例如，假设我拥有一家咖啡店，并且我分配了一项为我的商店开发网站的任务。您将如何执行该任务？在执行该任务之前您会考虑什么？    由   提交/u/sovereignchris   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19109k3/how_to_gather_user_requirements_for_an_application/</guid>
-      <pubDate>Sun, 07 Jan 2024 19:33:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
