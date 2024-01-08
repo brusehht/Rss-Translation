@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Jan 2024 09:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 12:22:01 GMT</lastBuildDate>
+    <item>
+      <title>闪电网络节点Bot</title>
+      <link>https://www.reddit.com/r/opensource/comments/191hl1z/lightning_network_node_bot/</link>
+      <description><![CDATA[闪电节点管理的关键方面之一无疑是监控。这就是我开始开发一个简单的 ooen 源机器人来自动从节点检索相关信息的原因。 此外，该机器人还可用于接收有关节点心跳的通知。 此外，该机器人还可用于接收有关节点心跳的通知。 &gt; 非常感谢来自该社区的任何反馈和/或贡献！您可以在此处查看该项目：https://github.com/stackzoo/voltbot   由   提交/u/0111001101110010   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/191hl1z/lightning_network_node_bot/</guid>
+      <pubDate>Mon, 08 Jan 2024 09:45:32 GMT</pubDate>
+    </item>
     <item>
       <title>有开源目录吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/191dzsy/any_opensource_directoties/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[yoke 惊人的最快糖提供暴雨平静咳嗽牛直 此帖子已被批量删除并匿名化 编辑   由   提交/u/Stugehh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18zq6cf/how_do_you_get_into_contributing/</guid>
       <pubDate>Sat, 06 Jan 2024 03:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>图表：图表可视化应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/18zpx76/graphed_graph_visualization_app/</link>
-      <description><![CDATA[嘿伙计们！ 我在大学学习 Java 大约一年了，最近开始学习一些 JavaFX 和我制作了一个简单的图表应用程序，目前除了基本功能外它没有太多功能，但我的目标是使其成为一个真正有用且完整的应用程序。 我正在分享存储库的链接此处：https://github.com/Lucas-4/graphed 欢迎举报如有任何问题，请提供反馈并为项目做出贡献。 谢谢大家！ ​   由   提交 /u/Asdragarth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18zpx76/graphed_graph_visualization_app/</guid>
-      <pubDate>Sat, 06 Jan 2024 03:11:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
