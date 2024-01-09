@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 09 Jan 2024 06:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 09:11:34 GMT</lastBuildDate>
+    <item>
+      <title>教程第 13 部分：如何使用 ChatGPT 在短短 2 小时内制作完整的 Techno 曲目</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1928gfn/tutorial_part_13_how_to_produce_a_complete_techno/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1928gfn/tutorial_part_13_how_to_produce_a_complete_techno/</guid>
+      <pubDate>Tue, 09 Jan 2024 06:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Google Dialogflow CX 的基于语音机器人的订购系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19283m4/voicebot_based_ordering_system_using_google/</link>
+      <description><![CDATA[Voicebot 是一款人工智能驱动的软件，允许用户使用语音进行交互，而无需任何其他形式的通信（如 IVR 或聊天机器人）。 Voicebot 使用自然语言处理 (NLP) 为其软件提供支持。今天，我们将使用 Google 的 Dialogflow 来了解如何制作这样一个语音机器人。 Google 的 Dialogflow 是一个 NLU（自然语言理解）平台，可提供会话式用户体验。 通过Dialogflow，我们可以设计各种对话流程。它配备了代理、流程、页面、实体类型、参数、表单、意图、Webhook、履行、集成等构建块。  阅读：https://www.seaflux.tech/blogs/voicebot -ordering-system-using-nlp   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19283m4/voicebot_based_ordering_system_using_google/</guid>
+      <pubDate>Tue, 09 Jan 2024 06:23:56 GMT</pubDate>
+    </item>
     <item>
       <title>是否有一个参数层可供理解？：LiteLlama 与 TinyLlama 完美测试</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1927d97/is_there_a_parameter_floor_for_understanding/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[OpenAI 已经声明这是不可能的在《纽约时报》等实体和乔治·RR·马丁等作者日益严格的审查和诉讼中，在不使用受版权保护的材料的情况下创建 ChatGPT 等先进的人工智能工具。 关键事实  OpenAI 强调数字内容中版权的普遍存在，强调使用此类材料来训练 GPT-4 等复杂人工智能的必要性。 该公司面临《纽约时报》的诉讼以及作者指控非法使用受版权保护的内容，这意味着人工智能行业面临的法律挑战日益严峻。 OpenAI 认为，将训练数据限制在公共领域材料将导致人工智能系统不完善，无法满足现代需求。 OpenAI 认为，将训练数据限制在公共领域材料将导致人工智能系统不足，无法满足现代需求。 li&gt; 公司依靠“合理使用”原则。法律原则，声称版权法不禁止人工智能训练，表明针对诉讼的辩护策略。  来源（《卫报》) PS：如果您喜欢这篇文章，&lt; a href=&quot;http://techpresso.xyz/&quot;&gt;您一定会喜欢我的时事通讯。来自 OpenAI、Google、Meta…    的 40,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/191s6ly/openai_says_its_impossible_to_create_ai_tools/</guid>
       <pubDate>Mon, 08 Jan 2024 18:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>NeuralGPT - 一个工作的 Character.ai 客户端</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/191r95b/neuralgpt_a_working_characterai_client/</link>
-      <description><![CDATA[ 由   提交 /u/killerazazello   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/191r95b/neuralgpt_a_working_characterai_client/</guid>
-      <pubDate>Mon, 08 Jan 2024 17:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以将真实人物添加到照片中的 AI 工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/191r5ts/ai_tool_that_can_add_realistic_people_to_photos/</link>
-      <description><![CDATA[大家好，  我正在寻找一种人工智能工具，可以将逼真的人物无缝集成到我现有的照片中。我有几张带有空设置的图像，我想在这些场景中添加栩栩如生的人物。关键是这些新增的人不要看起来很假或很机械。我的目标是获得自然的、类似于库存图像的外观。 有人知道能够做到这一点的人工智能工具吗？我正在寻找用户友好且有效的东西，确保添加的人物与原始照片环境完美融合。任何有关此类工具的建议或经验将不胜感激！   由   提交/u/Top-Pop-7945   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/191r5ts/ai_tool_that_can_add_realistic_people_to_photos/</guid>
-      <pubDate>Mon, 08 Jan 2024 17:51:57 GMT</pubDate>
     </item>
     <item>
       <title>每日两分钟人工智能更新（日期：2024 年 1 月 8 日）：来自腾讯、NVIDIA、微软、苹果、NIST 等的新闻</title>
