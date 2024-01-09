@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 09 Jan 2024 00:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 03:10:02 GMT</lastBuildDate>
     <item>
-      <title>该网络内容的作者讨论了企业家陷入困境的共同斗争[...]</title>
-      <link>https://t.me/hn_summary/67966</link>
-      <description><![CDATA[摆脱困境的最佳方法
-该网络内容的作者讨论了在创业过程中感到陷入困境的常见困难，并提供了如何克服它的建议。他们将“被困城市”描述为一个难以逃脱的地方，被困在那里会加剧焦虑和消极情绪。作者强调了采取行动摆脱困境的重要性，并指出做某事、任何事情都比什么都不做要好。他们建议允许自己在一段确定的时间内离开并专注于其他项目，以理清思绪并重拾信心。作者还提到，并不是所有的停滞情况都需要采取彻底的行动计划，有时短暂休息或寻求新的动力就足够了。]]></description>
-      <guid>https://t.me/hn_summary/67966</guid>
-      <pubDate>Tue, 09 Jan 2024 00:33:13 GMT</pubDate>
+      <title>[媒体]Authy，流行的双因素身份验证（2FA）应用程序，将停止其桌面 [...]</title>
+      <link>https://t.me/hn_summary/67981</link>
+      <description><![CDATA[Authy 正在关闭其桌面应用
+Authy 是流行的双因素身份验证 (2FA) 应用程序，将于 2024 年 8 月停止其桌面应用程序。这意味着 Authy 今后将仅在移动设备上可用。 Authy 每 30 秒生成一个唯一代码，可用于登录链接帐户，使其成为桌面用户的便捷选择。但是，如果您拥有配备 M1 或 M2 芯片的 Mac，您仍然可以下载该应用程序的 iOS 版本。否则，Authy 建议切换到移动版本并将其与计算机上的应用程序同步。需要注意的是，Authy 没有导出功能，因此用户需要在切换到新应用程序之前在其连接的帐户上禁用 2FA。 Authy 的母公司 Twilio 也将其客户支持中心迁移到 Twilio 的网站。取消桌面应用程序的决定是为了简化重点并为现有产品解决方案提供更多价值。 Twilio 最近解雇了 5% 的员工，并宣布了新任首席执行官。]]></description>
+      <guid>https://t.me/hn_summary/67981</guid>
+      <pubDate>Tue, 09 Jan 2024 03:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个项目的目的是创建一个 Chrome 扩展，跳过介绍 [...]</title>
-      <link>https://t.me/hn_summary/67965</link>
-      <description><![CDATA[显示 HN：用于在 YouTube 上跳过简介的 Chrome 扩展程序
-该项目的目的是创建一个 Chrome 扩展程序，可以跳过 YouTube 视频上的介绍和广告。作者承认许多人觉得这些介绍很烦人，因此旨在解决这个问题。该项目通过聊天利用 GPT-3 创建 Chrome 扩展。作者提到，该扩展目前在新页面中打开视频时可以正常工作，但由于 YouTube 处理页面导航的方式，从一个视频导航到另一个视频时可能会出现问题。该项目欢迎通过创建问题或拉取请求来做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/67965</guid>
-      <pubDate>Tue, 09 Jan 2024 00:32:06 GMT</pubDate>
+      <title>[媒体] Playdate Mode7 项目是一个图形库，旨在重新创建图形模型 [...]</title>
+      <link>https://t.me/hn_summary/67980</link>
+      <description><![CDATA[Playdate 的 Mode7 图形库
+Playdate Mode7 项目是一个图形库，旨在重新创建称为“Mode 7”的图形模式。它具有可调节的相机位置、角度、倾斜和视野、可定制的精灵、对多个显示器（分屏）的支持以及将 3D 点从世界投影到屏幕上的功能。该库支持 C 和 Lua 编程语言。作者提到 Lua 设置得到了简化，并提供了导入库的说明。该项目还包括 Lua 和 C API 的文档。演示中包含的资源不适用于最终游戏。]]></description>
+      <guid>https://t.me/hn_summary/67980</guid>
+      <pubDate>Tue, 09 Jan 2024 03:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AWS Organization Formation 是一种基础设施即代码 (IaC) 工具，专门设计 [...]</title>
-      <link>https://t.me/hn_summary/67964</link>
-      <description><![CDATA[展示 HN：适用于 AWS 组织的基础设施即代码 (IaC) 工具
-AWS Organization Formation 是一款专为 AWS Organizations 设计的基础设施即代码 (IaC) 工具。它提供了三个主要功能：AWS Organizations 的基础设施即代码、跨账户配置资源的 CloudFormation 注释以及账户创建和资源配置的自动化。该工具允许用户将 AWS Organization 资源作为代码进行管理，自动进行更改并减少手动工作和错误。它还提供并行执行任务以及为 AWS 账户创建唯一电子邮件地址的功能等功能。该项目通过提供一套全面的功能并提供设置和使用该工具的详细说明而脱颖而出。 （根据故事文本的 72% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67964</guid>
-      <pubDate>Tue, 09 Jan 2024 00:31:59 GMT</pubDate>
+      <title>题为“Mixtral of Experts”的论文介绍了 Mixtral 8x7B，一种稀疏专家混合 (SM [...]</title>
+      <link>https://t.me/hn_summary/67979</link>
+      <description><![CDATA[Mixtral：专家稀疏混合模型
+题为“Mixtral of Experts”的论文介绍了 Mixtral 8x7B，一种稀疏专家混合 (SMoE) 语言模型。 Mixtral 具有与 Mistral 7B 类似的架构，但不同之处在于每层由 8 个前馈块或专家组成。在每一层，路由器网络选择两名专家来处理当前状态并组合每个令牌的输出。这允许每个令牌可以访问 47B 个参数，但在推理期间仅使用 13B 个活动参数。 Mixtral 在各种基准测试中均优于或匹配 Llama 2 70B 和 GPT-3.5 等其他模型，特别是在数学、代码生成和多语言任务方面表现出色。此外，名为 Mixtral 8x7B - Instruct 的微调模型在人类基准测试中超越了其他模型。两种模型均在 Apache 2.0 许可证下发布。]]></description>
+      <guid>https://t.me/hn_summary/67979</guid>
+      <pubDate>Tue, 09 Jan 2024 02:54:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] mdcode 项目是一个命令行工具，允许将代码块嵌入到 markdo [...]</title>
-      <link>https://t.me/hn_summary/67963</link>
-      <description><![CDATA[显示 HN：测试 Markdown 文档中嵌入的示例代码 
-mdcode 项目是一个命令行工具，允许以通常的方式开发和测试嵌入到 Markdown 文档中的代码块。该项目的目的是使嵌入式代码块可测试，这对于示例代码尤其重要。作者强调了拥有可靠且实用的示例代码的重要性。该项目与其他项目的区别在于提供了一些功能，例如对不可见代码块的支持、向代码块添加元数据的能力、对任何编程语言的支持以及将代码块转储为 tar 存档的能力。该项目可用于多种用途，包括开发示例/教程代码、直接在 Markdown 文档中编写示例代码、创建独立的教程文档以及保存示例以供以后使用。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67963</guid>
-      <pubDate>Tue, 09 Jan 2024 00:31:52 GMT</pubDate>
+      <title>为什么将钥匙扣放在头上会增加其范围？</title>
+      <link>https://t.me/hn_summary/67978</link>
+      <description><![CDATA[为什么将钥匙扣放在头上会增加其范围？&lt; /a&gt;
+作者质疑将钥匙扣放在头上会增加其范围的观点。他们认为，个人进行的实验设计不当，并且存在选择偏差。虽然将遥控器放在头部附近确实会改变电磁辐射，但这并不一定意味着它更好。作者强调了人类推理的缺陷，即人们将成功归因于仪式或不相关的系统扰动。他们提供了 NES 游戏卡带的示例，并相信向其中吹气可以解决问题，而实际上这只是另一次试验。作者最后指出，没有确凿的证据或来自合格工程师的数据来支持将钥匙扣放在头上可以提高其范围的说法。]]></description>
+      <guid>https://t.me/hn_summary/67978</guid>
+      <pubDate>Tue, 09 Jan 2024 02:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] llm-locale 项目是一个命令行实用程序，可自动生成和 edi [...]</title>
-      <link>https://t.me/hn_summary/67962</link>
-      <description><![CDATA[显示 HN：GPT 辅助翻译的本地化文件 
-llm-locale 项目是一个命令行实用程序，可自动生成和编辑本地化文件。它读取指定源文件和目标语言列表的配置文件 (.translationrc)。然后，该脚本会检查目标文件中是否缺少密钥，对它们进行批处理，然后将它们发送到 OpenAI 进行翻译。翻译后的值作为 JSON 对象返回并添加到目标文件中。该项目的独特之处在于使用 GPT（生成式预训练变压器）模型进行翻译，并允许手动编辑翻译值，同时保留源文件中的密钥。它可用于添加新语言，添加、删除或编辑源文件中的值，并支持翻译文件中的模板化和复杂语法。]]></description>
-      <guid>https://t.me/hn_summary/67962</guid>
-      <pubDate>Tue, 09 Jan 2024 00:31:46 GMT</pubDate>
+      <title>【媒体】社交媒体公司 Rumble 目前正在接受 SEC 调查。</title>
+      <link>https://t.me/hn_summary/67977</link>
+      <description><![CDATA[“活跃且正在进行的”SEC 调查的一部分
+社交媒体公司 Rumble 目前正在接受 SEC 调查。自2022年9月公开上市以来，该公司的估值一路飙升，达到超过12亿美元。然而，投资研究公司 Culper Research 于 2023 年 4 月发布了一份报告，对 Rumble 声称的每月活跃用户 (MAU) 数量表示怀疑。 Culper Research 声称 Rumble 夸大了其用户群 66% 至 108%。 Rumble 的季度财报电话会议证实，2023 年前三个月月活跃用户下降了 40%。Rumble 将这一下降归因于受欢迎的创作者在平台上的活跃度降低以及新闻事件的放缓。 Rumble 发言人 Rumore 驳斥了这些指控，称其为虚假且具有误导性。 Culper Research 的创始人克里斯蒂安·拉马科 (Christian Lamarco) 认为，报告用户数量的下降是对他们报告的回应。 Rumble 首席执行官克里斯·帕夫洛夫斯基 (Chris Pavlovski) 指责 SEC 的调查是卖空者摧毁该公司计划的一部分。 Pavlovski 表示 Rumble 使用 Google Analytics 来跟踪用户指标。]]></description>
+      <guid>https://t.me/hn_summary/67977</guid>
+      <pubDate>Tue, 09 Jan 2024 02:44:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目的目的是提供一个 Fortran CHIP-8 解释器。</title>
-      <link>https://t.me/hn_summary/67961</link>
-      <description><![CDATA[显示 HN：Fortran Chip-8 解释器
-该项目的目的是提供 Fortran CHIP-8 解释器。解释器允许用户通过运行 CHIP-8 ROM 文件来玩 CHIP-8 游戏。该项目提供了有关如何构建和使用解释器的说明，包括所需的必要工具和库。作者提到，该项目的差异化因素之一是其对支持不同平台上不同图形引擎的设计模式的研究。该项目还提供用于编写​​和编辑 CHIP-8 程序的资源，包括有关汇编器和其他有用工具的信息。]]></description>
-      <guid>https://t.me/hn_summary/67961</guid>
-      <pubDate>Tue, 09 Jan 2024 00:31:41 GMT</pubDate>
+      <title>[媒体]作者反思了 60 年代和 70 年代取得的进步，强调了 [...]</title>
+      <link>https://t.me/hn_summary/67976</link>
+      <description><![CDATA[容易实现的目标
+作者回顾了 60 年代和 70 年代所取得的进步，强调了技术、科学、文学和太空探索方面的进步。然而，他们对2024年的现状表示失望。太空探索被放弃，物理学进展停滞，人工智能生成的书籍畅销，计算机科学行业的焦点是聊天机器人的开发。作者认为，这种倒退可能是由于美利坚帝国的衰落和编程的可及性，导致社会选择了容易实现的目标。他们还感叹缺乏深远的梦想和重大的社会变革。作者最后推测，重大进步可能只有在美利坚帝国崩溃之后才会出现。]]></description>
+      <guid>https://t.me/hn_summary/67976</guid>
+      <pubDate>Tue, 09 Jan 2024 02:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>PaintPotion 是一款利用人工智能技术生成矢量插图的创新工具。</title>
-      <link>https://t.me/hn_summary/67960</link>
-      <description><![CDATA[展示 HN：PaintPotion – 用于生成矢量插图的人工智能工具&lt; /a&gt;
-PaintPotion 是一款利用人工智能技术生成矢量插图的创新工具。只需提示，用户即可收到四个独特的矢量插图，每个需要 10 个积分。此外，如果用户选择将其中一张插图转换为 SVG 格式，则将额外使用 10 个积分。整个过程总共需要 50 学分。这款人工智能驱动的工具提供了一种便捷高效的方式来创建高质量的矢量插图。]]></description>
-      <guid>https://t.me/hn_summary/67960</guid>
-      <pubDate>Tue, 09 Jan 2024 00:31:34 GMT</pubDate>
+      <title>在最近的一份公告中，Carta 是一家提供股权结构表和基金管理软件的公司 [...]</title>
+      <link>https://t.me/hn_summary/67975</link>
+      <description><![CDATA[Carta退出二级交易业务
+提供上限表和基金管理软件的Carta公司在最近的一份公告中透露，它将退出二级交易业务。该决定是在公司尝试解决创始人、员工和天使投资者的流动性问题但未成功之后做出的。尽管可以获得有价值的数据，但Carta却无法有效利用这些数据，导致人们对其解决流动性问题的能力产生怀疑。作为一家始终优先考虑创始人需求的公司，Carta 致力于维持他们的信任，并将专注于其核心产品。虽然Carta退出了二级交易业务，但仍然希望其他有才华的人能够找到解决私人市场流动性问题的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/67975</guid>
+      <pubDate>Tue, 09 Jan 2024 02:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Linux 6.8 内核正在引入一种新的 PATH 搜索优化，即 exp [...]</title>
-      <link>https://t.me/hn_summary/67959</link>
-      <description><![CDATA[Linux 6.8 对常见的基于 $PATH 的搜索进行了诱人的优化&lt; /a&gt;
-Linux 6.8 内核引入了针对 PATH 搜索的新优化，预计将显着加快按路径名执行程序的速度。该优化由 Linux 开发人员 Josh Triplett 编写，为 execve() 系统调用添加了快速失败检查，从而可以更快地识别不存在的路径。性能测试显示 PATH 搜索速度提高了 26%，使得此优化对于常见操作特别有利。值得注意的是，shell 脚本倾向于使用 stat() 来检查 PATH 中的文件，而 glibc 和 Musl libc 以及 Python、Perl 等库则使用基于 execve 的方法，并将受益于这种内核优化.]]></description>
-      <guid>https://t.me/hn_summary/67959</guid>
-      <pubDate>Tue, 09 Jan 2024 00:23:25 GMT</pubDate>
+      <title>[媒体]Apple 在 macOS Sonoma 14 中引入了一个名为“liquiddetectiond”的新系统守护程序。[...]</title>
+      <link>https://t.me/hn_summary/67974</link>
+      <description><![CDATA[如果在 USB 中检测到任何液体，Mac 现在可以通知 Apple -C端口
+苹果在 macOS Sonoma 14.1 中引入了一个名为“liquiddetectiond”的新系统守护程序，它可以通过 USB-C 端口检测 Mac 是否暴露于液体。该守护进程从每个端口收集液体检测分析，目前用于分析目的，而不是像在 iPhone 和 iPad 上那样向用户发出警报。技术人员可以使用收集的数据来确定 Mac 是否有资格获得免费维修。 Apple 已在 Mac 笔记本电脑和键盘中使用液体接触指示器 (LCI) 来检测液体暴露情况，而这一新功能又增加了另一层确认。目前尚不清楚该守护程序是否适用于所有 Mac 电脑或仅适用于特定型号。]]></description>
+      <guid>https://t.me/hn_summary/67974</guid>
+      <pubDate>Tue, 09 Jan 2024 02:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《自然》杂志上发表的一项新研究表明，要求人们“自己做研究”[...]</title>
-      <link>https://t.me/hn_summary/67958</link>
-      <description><![CDATA[要求人们对假新闻进行“研究”会更有效可信
-《自然》杂志发表的一项新研究表明，要求人们对假新闻“进行自己的研究”实际上会让他们更有可能相信它。该研究进行了五项实验，参与者被给予虚假或误导性的新闻文章，并被要求评估其真实性。然后，参与者被要求在线搜索以评估这些文章，研究发现这增加了相信错误信息的可能性。研究还发现，搜索引擎返回低质量信息的个人的搜索效果更为明显。结果强调了媒体素养计划需要制定有效的策略，搜索引擎需要应对错误信息的挑战。 （根据故事文本的 67% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67958</guid>
-      <pubDate>Tue, 09 Jan 2024 00:19:17 GMT</pubDate>
+      <title>[媒体]我很高兴与世界分享我的最新创作 - 交互式数学填字游戏 [...]</title>
+      <link>https://t.me/hn_summary/67973</link>
+      <description><![CDATA[显示 HN：我制作了一个具有无限级别的交互式数学填字游戏&lt; /a&gt;
+我很高兴与世界分享我的最新创作 - 具有无限关卡的互动数学填字游戏！在 scientific.place，您可以通过独特的方式挑战自己传统的填字游戏。从上到下、从左到右解方程以填充网格。最棒的是，关卡是无限的，所以你永远不会用完要解决的谜题。无论您是数学爱好者还是只是在寻找一种有趣的方式来提高您的技能，这款交互式数学填字游戏一定会让您乐在其中。尝试一下，看看你能走多远！]]></description>
+      <guid>https://t.me/hn_summary/67973</guid>
+      <pubDate>Tue, 09 Jan 2024 02:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] OpenBSD 项目每 6 个月发布一次他们的软件，并附有插图和匹配的歌曲。</title>
-      <link>https://t.me/hn_summary/67957</link>
-      <description><![CDATA[OpenBSD 发行歌曲
-OpenBSD 项目每 6 个月发布一次他们的软件，并附有插图和匹配的歌曲。这些歌曲基于一个主题，描述了该项目在过去六个月中的进展、事件或争议。这些歌曲是与音乐家合作创作的，标题包括“巫师与鱼”、“风格赞美诗”和“黑客人”。已制作三张音频 CD，每张包含大约 5 年的歌曲。这些歌曲是庆祝 OpenBSD 软件发布的独特且富有创意的方式。 （根据故事文本的 13% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67957</guid>
-      <pubDate>Tue, 09 Jan 2024 00:14:05 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了大声自言自语作为一种技术的好处[...]</title>
+      <link>https://t.me/hn_summary/67972</link>
+      <description><![CDATA[大声自言自语是一种思考技术（2020）&lt; /a&gt;
+本文讨论了大声自言自语作为一种思考技术的好处。作者经常在公共场所进行这种实践，他解释了大声说话如何有助于澄清思想、发展想法和提高口语技巧。大声说话和思考密切相关的想法并不新鲜，西塞罗和海因里希·冯·克莱斯特等古代哲学家和作家已经探索过这种想法。当代研究支持这样的观点：自言自语有助于动机、情绪调节、元认知和推理。文章还探讨了与自言自语相关的社会耻辱，以及它相对于沉默的内心言语的优势，例如完整检索思想并建立新的心理和语言联系的能力。作者最后强调了拥抱自言自语的认知潜力的重要性，即使是在技术旨在取代自言自语的世界中也是如此。]]></description>
+      <guid>https://t.me/hn_summary/67972</guid>
+      <pubDate>Tue, 09 Jan 2024 02:26:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
