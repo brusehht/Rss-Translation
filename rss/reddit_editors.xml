@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 08 Jan 2024 21:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 00:52:41 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法将字幕与视频文件/多组结合进行编辑？</title>
+      <link>https://www.reddit.com/r/editors/comments/191zo07/is_there_a_way_to_marry_subtitles_to_video/</link>
+      <description><![CDATA[我正在开发一个包含大量字幕对话的项目，我想知道编辑器可以访问的最佳工作流程是什么带字幕的原始媒体。理想情况下，当他们将多组加载到源监视器中时，他们会看到字幕，并且在将媒体剪切到时间线中时会出现字幕。有没有办法做到这一点而不将字幕刻录到代理中？  谢谢！   由   提交 /u/MesmersCure   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/191zo07/is_there_a_way_to_marry_subtitles_to_video/</guid>
+      <pubDate>Mon, 08 Jan 2024 23:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artlist/Artgrid/Motion Array 价格大幅上涨 - 有好的选择吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/191w5ta/artlistartgridmotion_array_massive_price_increase/</link>
+      <description><![CDATA[嘿伙计们，只是想在这里征求一下大家的意见。 我在一家银行的一个小型内部视频团队担任编辑。最近，Motion Array、Artlist 和 Artgrid（均属于同一家公司）大幅提高了价格。我们曾经使用团队会员资格，但现在被迫转向企业会员（1000 美元/月），因为我们公司拥有超过 500 名员工。 我想说，我们每年实际上平均使用大约 20-25 个剪辑我们以当前的频率发布视频。这意味着我们每个剪辑的成本将在 400 - 500 美元左右，这是相当高的，我们肯定无法批准我们团队预算的这一成本。我想知道是否还有其他内部团队可以这样做处理过类似的事情并发现了任何不错的横向机动。 Story Blocks 看起来不错，我们很快就安排了与他们的通话，但每年 1 万美元的 40 个以下剪辑并不是我们能够卖给我们的预算团队的东西。   由   提交 /u/TraumaticTuna   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/191w5ta/artlistartgridmotion_array_massive_price_increase/</guid>
+      <pubDate>Mon, 08 Jan 2024 21:11:28 GMT</pubDate>
+    </item>
     <item>
       <title>在最终的音频混合中，您将 VOX 轨道制作为单声道还是立体声？</title>
       <link>https://www.reddit.com/r/editors/comments/191vadi/in_a_final_audio_mix_do_you_make_vox_tracks_mono/</link>
@@ -92,23 +106,9 @@
     <item>
       <title>需要与 2 个摄像头和 8 个 ISO 音频干进行时间码同步的帮助</title>
       <link>https://www.reddit.com/r/editors/comments/190lir2/need_help_with_timecode_sync_with_2_cams_and_8/</link>
-      <description><![CDATA[到目前为止，我已经处理了大约 10 个使用时间码同步的项目（在 Premiere 中），并且遇到了一些以前从未遇到过的事情。 .我感觉我有点搞砸了，但想分享一下事实，以防我遗漏了一些东西。  深入研究一个大型项目，我被告知有时间码同步，但是时间码同步组合不起作用（摄像机到摄像机、摄像机 A 到音频、摄像机 B 到音频）。我也尝试过达芬奇，结果相同。  第一个有趣的事情：两个摄像头各自附加了 8 个音轨（这是我以前从未见过的），这些音轨数量与来自声音人员的音频数量相同，所以这告诉我有某种类型的音轨。连接的...  第二件有趣的事情：我通常每个镜头都会收到一个 .wav 文件，当将其导入时间轴时，它会显示所有连接到同一文件的 8 个音频主干。在这种情况下，音频全部作为独立的主干提供。需要我手动将每个镜头的主干同步在一起。时间码同步（仅）至少适用于特定镜头的音频主干，但这仍然是我以前从未遇到过的额外步骤。  作为测试，我手动击沉镜头以查看位置两个摄像头和 8 个音频干线的一切都对齐，并且所有时间都严重偏离，我还注意到... 第三个有趣的事情：同步时，石板上的数字时间码甚至与音频上的时间码不匹配，可能相差 6 毫秒..我不知道这是否正常。  无论如何，在对特定镜头进行手动同步后，时间码如下： Cam A: 07:59:22:09 Cam B: 03:43:44:07 音轨 1-8: 02:46:19:01 这看起来很糟糕..是吗？我很确定我在这里不知所措。每个摄像机都附有 8 个轨道，这表明也许还有希望.. 所以在我开始手动同步之前，这将花费比应有的时间更长的时间.. 只是好奇是否有人可以提供一些见解。  感谢您的时间，感谢您的阅读，亲爱的上帝，如果可以的话请帮忙。    由   提交 /u/MarsLegstrong   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，我已经处理了大约 10 个使用时间码同步的项目（在 Premiere 中），并且遇到了一些以前从未遇到过的事情。 .我感觉我有点搞砸了，但想分享一下事实，以防我遗漏了一些东西。  深入研究一个大型项目，我被告知有时间码同步，但是时间码同步组合不起作用（摄像机到摄像机、摄像机 A 到音频、摄像机 B 到音频）。我也尝试过达芬奇，结果相同。  第一个有趣的事情：两个摄像头各自附加了 8 个音轨（这是我以前从未见过的），这些音轨数量与来自声音人员的音频数量相同，所以这告诉我有某种类型的音轨。连接的...  第二件有趣的事情：我通常每个镜头都会收到一个 .wav 文件，当将其导入时间轴时，它会显示所有连接到同一文件的 8 个音频主干。在这种情况下，音频全部作为独立的主干提供。需要我手动将每个镜头的主干同步在一起。时间码同步（仅）至少适用于特定镜头的音频主干，但这仍然是我以前从未遇到过的额外步骤。  作为测试，我手动击沉镜头以查看位置两个摄像头和 8 个音频干线的一切都对齐，并且所有时间都严重偏离，我还注意到... 第三个有趣的事情：同步时，石板上的数字时间码甚至与音频上的时间码不匹配，可能相差 6 毫秒..我不知道这是否正常。  无论如何，在对特定镜头进行手动同步后，时间码如下： Cam A: 07:59:22:09 Cam B: 03:43:44:07 音轨 1-8: 02:46:19:01 这看起来很糟糕..是吗？我很确定我在这里不知所措。每个摄像机都附有 8 个轨道，这表明也许还有希望……所以在我开始手动同步之前，这将花费比预期更长的时间……只是好奇是否有人可以提供一些见解。  感谢您的时间，感谢您的阅读，亲爱的上帝，如果可以的话请帮忙。    由   提交 /u/MarsLegstrong   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/190lir2/need_help_with_timecode_sync_with_2_cams_and_8/</guid>
       <pubDate>Sun, 07 Jan 2024 06:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>文字与设计</title>
-      <link>https://www.reddit.com/r/editors/comments/190i0cr/text_design/</link>
-      <description><![CDATA[最近剪了很多公司的垃圾，需要大量的文本，有时还需要简单的图形来将视频分成几个部分，而我总是处于完整状态不知道在哪里以及如何放置文本和图形。由于找不到更好的词，一切都感觉像是粘贴的。我觉得这肯定是我编辑中最薄弱的部分，想知道每个人如何在这方面保持敏锐或对此有何建议。谢谢！   由   提交/u/Jschwartz567   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/190i0cr/text_design/</guid>
-      <pubDate>Sun, 07 Jan 2024 03:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户发送原始素材</title>
-      <link>https://www.reddit.com/r/editors/comments/190cna7/clients_sending_raw_footage/</link>
-      <description><![CDATA[您目前使用什么来让客户发送大文件的原始素材。 有没有办法让客户发送大型原始素材文件（5GB 到 20GB 之间），无需要求他们注册并为一次性项目的基于订阅的模型付费。很高兴听到您的想法:) &lt;3   由   提交 /u/YeahNahYeah01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/190cna7/clients_sending_raw_footage/</guid>
-      <pubDate>Sat, 06 Jan 2024 22:51:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

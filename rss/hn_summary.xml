@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Jan 2024 18:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 00:33:13 GMT</lastBuildDate>
     <item>
-      <title>该网络内容的作者正在庆祝制作 KDE Plasma 5.27 av 的个人里程碑 [...]</title>
-      <link>https://t.me/hn_summary/67863</link>
-      <description><![CDATA[OpenBSD KDE Plasma 桌面
-该 Web 内容的作者正在庆祝在 OpenBSD 上提供 KDE Plasma 5.27 的个人里程碑。他们感谢他们自己和之前的贡献者多年来为取得这一成就所做的努力。他们提到了 OpenBSD 开发人员小团队，并对帮助进行评审的人表示感谢。作者思考接下来会发生什么，并提到即将从 Qt5 切换到 Qt6，他们认为这不会是一个很大的挑战。他们还提供了在 OpenBSD 上安装 KDE Plasma 的说明，并对那些通过捐款支持他们工作的人表示感谢。]]></description>
-      <guid>https://t.me/hn_summary/67863</guid>
-      <pubDate>Mon, 08 Jan 2024 18:10:39 GMT</pubDate>
+      <title>该网络内容的作者讨论了企业家陷入困境的共同斗争[...]</title>
+      <link>https://t.me/hn_summary/67966</link>
+      <description><![CDATA[摆脱困境的最佳方法
+该网络内容的作者讨论了在创业过程中感到陷入困境的常见困难，并提供了如何克服它的建议。他们将“被困城市”描述为一个难以逃脱的地方，被困在那里会加剧焦虑和消极情绪。作者强调了采取行动摆脱困境的重要性，并指出做某事、任何事情都比什么都不做要好。他们建议允许自己在一段确定的时间内离开并专注于其他项目，以理清思绪并重拾信心。作者还提到，并不是所有的停滞情况都需要采取彻底的行动计划，有时短暂休息或寻求新的动力就足够了。]]></description>
+      <guid>https://t.me/hn_summary/67966</guid>
+      <pubDate>Tue, 09 Jan 2024 00:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>Mario Maker 2 API 由作者和一群人开发，允许免费 [...]</title>
-      <link>https://t.me/hn_summary/67862</link>
-      <description><![CDATA[Mario Maker 2 API
-Mario Maker 2 API 由作者和一群人开发，允许免费和公开访问以前仅在 Nintendo Switch 本身上可用的数据。该 API 使用 NEX 协议，该协议自 WiiU 时代以来就已被广泛记录。 API 的发布激发了社区的兴趣，导致了各种关卡查看器的开发，允许用户在没有游戏或 Switch 的情况下查看和分析关卡。该 API 产生了大量的网络流量，并且一直保持公开和免费。作者还讨论了他们使用 API 下载整个 Mario Maker 2 数据库的努力。 （根据 37% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67862</guid>
-      <pubDate>Mon, 08 Jan 2024 18:10:30 GMT</pubDate>
+      <title>[媒体] 这个项目的目的是创建一个 Chrome 扩展，跳过介绍 [...]</title>
+      <link>https://t.me/hn_summary/67965</link>
+      <description><![CDATA[显示 HN：用于在 YouTube 上跳过简介的 Chrome 扩展程序
+该项目的目的是创建一个 Chrome 扩展程序，可以跳过 YouTube 视频上的介绍和广告。作者承认许多人觉得这些介绍很烦人，因此旨在解决这个问题。该项目通过聊天利用 GPT-3 创建 Chrome 扩展。作者提到，该扩展目前在新页面中打开视频时可以正常工作，但由于 YouTube 处理页面导航的方式，从一个视频导航到另一个视频时可能会出现问题。该项目欢迎通过创建问题或拉取请求来做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/67965</guid>
+      <pubDate>Tue, 09 Jan 2024 00:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《华尔街日报》最近的一篇报道中，人们对埃隆·穆 [...]</title>
-      <link>https://t.me/hn_summary/67861</link>
-      <description><![CDATA[埃隆·马斯克吸毒导致特斯拉、SpaceX陷入混乱 
-《华尔街日报》最近的一篇报道中，人们对埃隆·马斯克涉嫌非法吸毒的行为表示担忧，给特斯拉和 SpaceX 带来了动荡。受此消息影响，特斯拉股价下跌。然而，马斯克否认了这些说法，称他接受了美国宇航局的随机药物测试。围绕马斯克吸毒的争议引发了人们对其对股东潜在影响的质疑。有关此事的更多信息和专家分析，您可以观看雅虎财经直播整集。]]></description>
-      <guid>https://t.me/hn_summary/67861</guid>
-      <pubDate>Mon, 08 Jan 2024 18:09:23 GMT</pubDate>
+      <title>[媒体]AWS Organization Formation 是一种基础设施即代码 (IaC) 工具，专门设计 [...]</title>
+      <link>https://t.me/hn_summary/67964</link>
+      <description><![CDATA[展示 HN：适用于 AWS 组织的基础设施即代码 (IaC) 工具
+AWS Organization Formation 是一款专为 AWS Organizations 设计的基础设施即代码 (IaC) 工具。它提供了三个主要功能：AWS Organizations 的基础设施即代码、跨账户配置资源的 CloudFormation 注释以及账户创建和资源配置的自动化。该工具允许用户将 AWS Organization 资源作为代码进行管理，自动进行更改并减少手动工作和错误。它还提供并行执行任务以及为 AWS 账户创建唯一电子邮件地址的功能等功能。该项目通过提供一套全面的功能并提供设置和使用该工具的详细说明而脱颖而出。 （根据故事文本的 72% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67964</guid>
+      <pubDate>Tue, 09 Jan 2024 00:31:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微生命是一个风险单位，代表预期寿命半小时的变化。</title>
-      <link>https://t.me/hn_summary/67860</link>
-      <description><![CDATA[微生活
-微生命是一个风险单位，代表预期寿命半小时的变化。它用于传达生活方式或环境风险因素对预期寿命的影响。与微死亡（代表百万分之一的死亡概率）的概念类似，微生命旨在对慢性风险进行粗略比较。例如，每天吸15-24支烟将导致男性减少10个微生命，女性减少9个微生命。微生命的概念有助于将长期的未来风险作为时间的增益或损失带入当下。]]></description>
-      <guid>https://t.me/hn_summary/67860</guid>
-      <pubDate>Mon, 08 Jan 2024 18:02:12 GMT</pubDate>
+      <title>[媒体] mdcode 项目是一个命令行工具，允许将代码块嵌入到 markdo [...]</title>
+      <link>https://t.me/hn_summary/67963</link>
+      <description><![CDATA[显示 HN：测试 Markdown 文档中嵌入的示例代码 
+mdcode 项目是一个命令行工具，允许以通常的方式开发和测试嵌入到 Markdown 文档中的代码块。该项目的目的是使嵌入式代码块可测试，这对于示例代码尤其重要。作者强调了拥有可靠且实用的示例代码的重要性。该项目与其他项目的区别在于提供了一些功能，例如对不可见代码块的支持、向代码块添加元数据的能力、对任何编程语言的支持以及将代码块转储为 tar 存档的能力。该项目可用于多种用途，包括开发示例/教程代码、直接在 Markdown 文档中编写示例代码、创建独立的教程文档以及保存示例以供以后使用。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67963</guid>
+      <pubDate>Tue, 09 Jan 2024 00:31:52 GMT</pubDate>
     </item>
     <item>
-      <title>Dashwave 是一款专为 Android 开发人员设计的云构建和模拟工具。</title>
-      <link>https://t.me/hn_summary/67859</link>
-      <description><![CDATA[展示 HN：Dashwave – 具有协作模拟器的快速 Android 云构建工具&lt; /a&gt;
-Dashwave 是一款专为 Android 开发人员设计的云构建和模拟工具。它旨在解决开发人员经常面临的构建时间长和资源密集型仿真会话的常见问题。借助 Dashwave，开发人员可以快速启动他们的项目，在云上构建和模拟，并在浏览器上实时预览应用程序。该工具还提供与 IDE 集成、远程缓存、构建分析、协作功能以及用于开发和 CI 构建的统一平台等功能。 Dashwave 优先考虑安全和隐私，确保数据和知识产权的保护。]]></description>
-      <guid>https://t.me/hn_summary/67859</guid>
-      <pubDate>Mon, 08 Jan 2024 17:58:03 GMT</pubDate>
+      <title>[媒体] llm-locale 项目是一个命令行实用程序，可自动生成和 edi [...]</title>
+      <link>https://t.me/hn_summary/67962</link>
+      <description><![CDATA[显示 HN：GPT 辅助翻译的本地化文件 
+llm-locale 项目是一个命令行实用程序，可自动生成和编辑本地化文件。它读取指定源文件和目标语言列表的配置文件 (.translationrc)。然后，该脚本会检查目标文件中是否缺少密钥，对它们进行批处理，然后将它们发送到 OpenAI 进行翻译。翻译后的值作为 JSON 对象返回并添加到目标文件中。该项目的独特之处在于使用 GPT（生成式预训练变压器）模型进行翻译，并允许手动编辑翻译值，同时保留源文件中的密钥。它可用于添加新语言，添加、删除或编辑源文件中的值，并支持翻译文件中的模板化和复杂语法。]]></description>
+      <guid>https://t.me/hn_summary/67962</guid>
+      <pubDate>Tue, 09 Jan 2024 00:31:46 GMT</pubDate>
     </item>
     <item>
-      <title>《华盛顿邮报》进行了一项实验，以确定 ChatGPT（一种人工智能）是否 [...]</title>
-      <link>https://t.me/hn_summary/67858</link>
-      <description><![CDATA[我们测试了ChatGPT能否进入哈佛招生论文 
-《华盛顿邮报》进行了一项实验，以确定人工智能聊天机器人 ChatGPT 是否可以创建欺骗招生顾问的大学招生论文。他们要求一位前常春藤盟校招生顾问阅读 ChatGPT 撰写的论文，并将其与一位被哈佛大学录取的 Post 实习生撰写的真实论文进行比较。辅导员发现，人工智能生成的论文缺乏具体细节，依赖陈词滥调，重复，并且经常采用刻板印象。虽然人工智能论文可读且大多没有错误，但它们被认为是平庸的，不会提高申请人的录取机会。招生论文需要反思和引人入胜的叙述来展示申请人的独特性，这是人工智能目前无法提供的。该顾问确实承认人工智能可以用于集思广益的目的，但警告说，过度依赖人工智能可能会导致糟糕的论文无法反映申请人的真实自我。]]></description>
-      <guid>https://t.me/hn_summary/67858</guid>
-      <pubDate>Mon, 08 Jan 2024 17:57:55 GMT</pubDate>
+      <title>[媒体] 该项目的目的是提供一个 Fortran CHIP-8 解释器。</title>
+      <link>https://t.me/hn_summary/67961</link>
+      <description><![CDATA[显示 HN：Fortran Chip-8 解释器
+该项目的目的是提供 Fortran CHIP-8 解释器。解释器允许用户通过运行 CHIP-8 ROM 文件来玩 CHIP-8 游戏。该项目提供了有关如何构建和使用解释器的说明，包括所需的必要工具和库。作者提到，该项目的差异化因素之一是其对支持不同平台上不同图形引擎的设计模式的研究。该项目还提供用于编写​​和编辑 CHIP-8 程序的资源，包括有关汇编器和其他有用工具的信息。]]></description>
+      <guid>https://t.me/hn_summary/67961</guid>
+      <pubDate>Tue, 09 Jan 2024 00:31:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本日本海沿岸的核电站在这次袭击中基本没有受到损坏 [...]</title>
-      <link>https://t.me/hn_summary/67857</link>
-      <description><![CDATA[日本核电站在地震后基本未受损
-在最近发生的能登半岛地震中，日本海沿岸的核电站基本没有受到损坏。 7.6级地震引发了九个县的海啸警报和疏散，引发了人们对这个地震多发国家的核电安全的担忧。然而，石川县志贺核电站的电力系统仅出现部分损坏，没有出现重大异常情况。这一消息发布之际，岸田文雄首相计划增加核电的使用，作为其“绿色转型”政策的一部分。]]></description>
-      <guid>https://t.me/hn_summary/67857</guid>
-      <pubDate>Mon, 08 Jan 2024 17:16:24 GMT</pubDate>
+      <title>PaintPotion 是一款利用人工智能技术生成矢量插图的创新工具。</title>
+      <link>https://t.me/hn_summary/67960</link>
+      <description><![CDATA[展示 HN：PaintPotion – 用于生成矢量插图的人工智能工具&lt; /a&gt;
+PaintPotion 是一款利用人工智能技术生成矢量插图的创新工具。只需提示，用户即可收到四个独特的矢量插图，每个需要 10 个积分。此外，如果用户选择将其中一张插图转换为 SVG 格式，则将额外使用 10 个积分。整个过程总共需要 50 学分。这款人工智能驱动的工具提供了一种便捷高效的方式来创建高质量的矢量插图。]]></description>
+      <guid>https://t.me/hn_summary/67960</guid>
+      <pubDate>Tue, 09 Jan 2024 00:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] InmateBridge 项目是一个带有音板的 VoIP 语音桥，允许用户 [...]</title>
-      <link>https://t.me/hn_summary/67856</link>
-      <description><![CDATA[展示 HN：我用音板制作了一个用于恶作剧呼叫的语音桥&lt; /a&gt;
-InmateBridge 项目是一个带有音板的 VoIP 语音桥，允许用户通过 SIP 拨打恶作剧电话。它的灵感来自于美国电话恶作剧节目“Phone Losers of America”，并包含各种音效。该项目利用 Asterisk PBX 和控制台应用程序来操作 PBX。用户可以使用 IAX2 呼叫 Asterisk，然后使用 CLI 呼叫受害者、播放声音等。该项目需要 IAX2 软电话和 SIP 中继。它还提供了在音板中包含自定义音效的说明。如果对受害者的调用不成功，作者建议使用 Asterisk CLI 进行调试。]]></description>
-      <guid>https://t.me/hn_summary/67856</guid>
-      <pubDate>Mon, 08 Jan 2024 17:14:16 GMT</pubDate>
+      <title>[媒体]Linux 6.8 内核正在引入一种新的 PATH 搜索优化，即 exp [...]</title>
+      <link>https://t.me/hn_summary/67959</link>
+      <description><![CDATA[Linux 6.8 对常见的基于 $PATH 的搜索进行了诱人的优化&lt; /a&gt;
+Linux 6.8 内核引入了针对 PATH 搜索的新优化，预计将显着加快按路径名执行程序的速度。该优化由 Linux 开发人员 Josh Triplett 编写，为 execve() 系统调用添加了快速失败检查，从而可以更快地识别不存在的路径。性能测试显示 PATH 搜索速度提高了 26%，使得此优化对于常见操作特别有利。值得注意的是，shell 脚本倾向于使用 stat() 来检查 PATH 中的文件，而 glibc 和 Musl libc 以及 Python、Perl 等库则使用基于 execve 的方法，并将受益于这种内核优化.]]></description>
+      <guid>https://t.me/hn_summary/67959</guid>
+      <pubDate>Tue, 09 Jan 2024 00:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在接受 The Register 采访时，Nextcloud 首席执行官 Frank Karlitschek 表达了他的怀疑 [...]</title>
-      <link>https://t.me/hn_summary/67855</link>
-      <description><![CDATA[Nextcloud 老板声称 Gaia-X 项目没有未来
-Nextcloud 首席执行官 Frank Karlitschek 在接受 The Register 采访时表达了他对 Gaia-X 项目未来的怀疑。 Gaia-X 于 2020 年推出，是一项欧盟数据基础设施倡议，旨在促进数字主权并为云提供商之间的数据共享创建一个值得信赖的环境。不过，Karlitschek认为Gaia-X只不过是一个“纸上怪物”，不会对市场产生任何影响。他将此归因于超大规模企业的加入，他认为超大规模企业劫持了该项目，并充斥着法规和文件，使得像 Nextcloud 这样的小型组织难以参与。 Karlitschek 还对 Gaia-X 内部缺乏共识和标准表示担忧。尽管取得了一些进展，例如发布了联合云服务目录，但 Karlitschek 认为该组织已经发生了一些事情，其未来充满不确定性。]]></description>
-      <guid>https://t.me/hn_summary/67855</guid>
-      <pubDate>Mon, 08 Jan 2024 17:07:04 GMT</pubDate>
+      <title>[媒体]《自然》杂志上发表的一项新研究表明，要求人们“自己做研究”[...]</title>
+      <link>https://t.me/hn_summary/67958</link>
+      <description><![CDATA[要求人们对假新闻进行“研究”会更有效可信
+《自然》杂志发表的一项新研究表明，要求人们对假新闻“进行自己的研究”实际上会让他们更有可能相信它。该研究进行了五项实验，参与者被给予虚假或误导性的新闻文章，并被要求评估其真实性。然后，参与者被要求在线搜索以评估这些文章，研究发现这增加了相信错误信息的可能性。研究还发现，搜索引擎返回低质量信息的个人的搜索效果更为明显。结果强调了媒体素养计划需要制定有效的策略，搜索引擎需要应对错误信息的挑战。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67958</guid>
+      <pubDate>Tue, 09 Jan 2024 00:19:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最高法院驳回了X公司提起的十年前的案件。</title>
-      <link>https://t.me/hn_summary/67854</link>
-      <description><![CDATA[最高法院驳回长达十年之久的 Twitter 第一修正案案件 
-最高法院驳回了 X Corp.（前身为 Twitter）提起的一项长达十年的案件，该案件涉及其公开披露美国政府对用户数据的要求的能力。法院的裁决维持了 2023 年 3 月的裁决，即第一修正案不能保护 Twitter 免受报告国家安全要求的限制。公民自由组织认为，这一裁决为审查制度设定了较低的门槛。 Twitter 最初于 2014 年在爱德华·斯诺登 (Edward Snowden) 揭露美国监控行为后提起诉讼。该公司试图公布收到的请求的确切数量，但法院一直以国家安全为由驳回这一请求。该决定引发了对言论自由和政府透明度的争议和担忧。]]></description>
-      <guid>https://t.me/hn_summary/67854</guid>
-      <pubDate>Mon, 08 Jan 2024 16:57:49 GMT</pubDate>
+      <title>[媒体] OpenBSD 项目每 6 个月发布一次他们的软件，并附有插图和匹配的歌曲。</title>
+      <link>https://t.me/hn_summary/67957</link>
+      <description><![CDATA[OpenBSD 发行歌曲
+OpenBSD 项目每 6 个月发布一次他们的软件，并附有插图和匹配的歌曲。这些歌曲基于一个主题，描述了该项目在过去六个月中的进展、事件或争议。这些歌曲是与音乐家合作创作的，标题包括“巫师与鱼”、“风格赞美诗”和“黑客人”。已制作三张音频 CD，每张包含大约 5 年的歌曲。这些歌曲是庆祝 OpenBSD 软件发布的独特且富有创意的方式。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67957</guid>
+      <pubDate>Tue, 09 Jan 2024 00:14:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
