@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Jan 2024 00:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 03:05:04 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在这篇文章中，作者分享了他们发现主要安全 vu 的经验 [...]</title>
-      <link>https://t.me/hn_summary/68160</link>
-      <description><![CDATA[我如何同时赢得美国一半的快餐连锁店
-在本文中，作者分享了他们在流行的人工智能招聘系统 Chattr.ai。作者解释了他们如何使用脚本在 AI 初创网站上搜索暴露的 Firebase 凭据，并发现 Chattr.ai 没有实施适当的安全措施。这使得作者能够获得对 Firebase 数据库的完全访问权限，从而暴露姓名、电话号码、电子邮件甚至明文密码等敏感信息。作者还发现，他们可以通过将自己添加为管理员用户来进一步操纵系统，从而使他们能够控制 Chattr.ai 的系统。该漏洞已报告给 Chattr.ai，但作者尚未报告收到他们的任何回复或确认。]]></description>
-      <guid>https://t.me/hn_summary/68160</guid>
-      <pubDate>Wed, 10 Jan 2024 00:53:38 GMT</pubDate>
+      <title>[媒体]三星电子推出了新款透明 Micro LED 显示屏，旨在 [...]</title>
+      <link>https://t.me/hn_summary/68181</link>
+      <description><![CDATA[三星新款透明 Micro LED 显示屏
+三星电子推出了新型透明 Micro LED 显示屏，旨在模糊内容与现实之间的界限。该显示屏在 2024 年消费电子展 (CES) 之前的 Samsung First Look 2024 活动中亮相。透明 Micro LED 显示屏采用晶莹剔透的玻璃状设计，增强了观看体验，受到了全球消费者的关注。该显示屏是六年研发的成果，提供未来感十足的沉浸式视觉体验。本文随附的视频展示了透明 Micro LED 显示屏如何增强体育和电影观看效果。]]></description>
+      <guid>https://t.me/hn_summary/68181</guid>
+      <pubDate>Wed, 10 Jan 2024 03:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 Web 内容的作者讨论了编写 REST 的错误处理模式，g [...]</title>
-      <link>https://t.me/hn_summary/68159</link>
-      <description><![CDATA[Go Web 应用程序中的错误处理不应该如此尴尬
-此 Web 内容的作者讨论了在 Go 中编写 REST、gRPC 或其他服务的错误处理模式。该模式旨在简化错误处理并使其更加优雅。作者强调了当前错误处理方法的问题，并提出了一种解决方案，该解决方案允许更轻松的错误处理、以正确的格式自动呈现错误以及设置适当的 HTTP 状态代码。作者还提到了他们正在开发的一个实验库，该库扩展了 http.HandlerFunc 类型的定义，以包含可选的错误返回值。总的来说，该内容提供了一种改进 Go Web 应用程序中的错误处理的解决方案。 （根据故事文本的 40% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68159</guid>
-      <pubDate>Wed, 10 Jan 2024 00:53:31 GMT</pubDate>
+      <title>[媒体] Gmail 和雅虎已宣布，他们将针对 [...]</title>
+      <link>https://t.me/hn_summary/68180</link>
+      <description><![CDATA[自 2024 年 2 月起 Gmail 和 Yahoo 要求使用 DMARC&lt; br/&gt;
+Gmail 和 Yahoo 已宣布，他们将从 2024 年 2 月开始对批量电子邮件发件人实施新的保护标准。新标准要求发件人使用 SPF、DKIM 和 DMARC 等协议对其电子邮件进行身份验证，实现单击取消订阅链接，并且将垃圾邮件率保持在一定阈值以下。这些要求并不新鲜，但却是近年来最实质性的变化。这些公告引起了发件人的一些担忧，但预计类似的要求将很快在整个行业蔓延。 Mailgun 用户可以放心，他们的电子邮件身份验证协议已经符合这些要求。]]></description>
+      <guid>https://t.me/hn_summary/68180</guid>
+      <pubDate>Wed, 10 Jan 2024 03:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>该博客文章讨论了风险管理的各种原则，并将其应用于不同的场景 [...]</title>
-      <link>https://t.me/hn_summary/68158</link>
-      <description><![CDATA[针对睡眠不足者的经济学和类似内容 (2005)
-该博客文章讨论了风险管理的各种原则，并将其应用于不同的场景，包括应对恐怖主义威胁。作者认为，完全消除所有风险是不可能的，接受一定程度的风险是必要的。他们还讨论了明确指示和沟通以尽量减少错误的重要性。作者批评了某些政策缺乏透明度和争论，例如英国的枪杀政策。总的来说，这篇文章对各种情况下的风险管理和决策进行了批判性分析。 （根据 80% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68158</guid>
-      <pubDate>Wed, 10 Jan 2024 00:40:20 GMT</pubDate>
+      <title>本文讨论了 1450 年至 1650 年欧洲印刷活动的分布图。</title>
+      <link>https://t.me/hn_summary/68179</link>
+      <description><![CDATA[欧洲印刷活动的传播（1450-1650）
+本文讨论了 1450 年至 1650 年欧洲印刷活动的地图。作者提到了地图和空间图在可视化数据和提供不同视角方面的力量。他们突出显示了吕西安·费弗尔 (Lucien Febvre) 和亨利·让·马丁 (Henri-Jean Martin) 所著的《L&#39;Apparition du Livre》一书中的地图，该地图显示了那个时期印刷机的传播。作者还提到了早期印刷机的例子以及收集定量数据以绘制印刷活动地图所面临的挑战。他们最后提到使用个人计算和分析参考书目来重新审视和扩展这些早期的绘图实验。这篇文章是探索本书地理系列的一部分。]]></description>
+      <guid>https://t.me/hn_summary/68179</guid>
+      <pubDate>Wed, 10 Jan 2024 03:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]杀死甘蔗蟾蜍最人道的方法是什么？</title>
-      <link>https://t.me/hn_summary/68157</link>
-      <description><![CDATA[杀死甘蔗蟾蜍最人道的方法是什么？
-科学家建议不要用高尔夫球杆殴打甘蔗蟾蜍作为灭绝方法。相反，他们推荐“冷却冷冻”方法，即将蟾蜍放入冰箱 24 小时，然后再转移到冰箱。这种方法被认为更人性化，避免了蟾蜍排出毒素而导致人类暂时失明的风险。甘蔗蟾蜍是澳大利亚的入侵物种，对当地生物多样性构成威胁。它们正在不断进化以适应城市环境，一些动物，例如白鹮，正在学习如何在不中毒的情况下食用它们。]]></description>
-      <guid>https://t.me/hn_summary/68157</guid>
-      <pubDate>Wed, 10 Jan 2024 00:29:11 GMT</pubDate>
+      <title>[媒体]网站上讨论的项目旨在产生有说服力的对抗性提示（[...]</title>
+      <link>https://t.me/hn_summary/68178</link>
+      <description><![CDATA[Johnny 可以说服 LLM 越狱
+网站上讨论的项目旨在生成有说服力的对抗性提示（PAP），可用于越狱 LLM（语言模型）。该项目承认 Reddit 用户已经使用说服手段来攻击 LLM，强调需要进一步研究以缓解漏洞。该项目遵循道德准则，并强调说服对于普通民众来说是一项艰巨的任务，从而降低了现实世界中广泛攻击的风险。受过训练的说服性释义者和相关代码将被保留，以防止轻易释义有害的查询。该研究旨在加强法学硕士的安全性，并致力于持续监测和更新研究。]]></description>
+      <guid>https://t.me/hn_summary/68178</guid>
+      <pubDate>Wed, 10 Jan 2024 03:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Lenovo Tab M11 是一款即将推出的经济型 Android 平板电脑，配备 90Hz 显示屏和 [...]</title>
-      <link>https://t.me/hn_summary/68156</link>
-      <description><![CDATA[售价 180 美元的 Lenovo Tab M11 配备 90Hz 显示屏，更新至 2028 年&lt; /a&gt;
-Lenovo Tab M11 是一款即将推出的经济型 Android 平板电脑，配备 90Hz 显示屏和不错的更新策略。它的售价为 179 美元，配备 11 英寸 1920x1200 显示屏、4GB 或 8GB RAM、64GB 或 128GB 存储空间。它还具有 microSD 卡插槽、前后摄像头、7,040 mAh 电池、USB-C 充电、耳机插孔和手写笔支持。 90Hz 显示屏是一项出色的功能，与同价位的其他平板电脑相比，它提供了更高的刷新率。此外，联想承诺到 2028 年将提供两次主要的 Android 更新和安全补丁，这比同价位的许多其他平板电脑要好。]]></description>
-      <guid>https://t.me/hn_summary/68156</guid>
-      <pubDate>Wed, 10 Jan 2024 00:10:57 GMT</pubDate>
+      <title>[媒体] Silk 是一个浏览器扩展，它实现了 Privacy Pass 协议的客户端 [...]</title>
+      <link>https://t.me/hn_summary/68177</link>
+      <description><![CDATA[Silk – 适用于浏览器的 Privacy Pass 客户端
+Silk 是一个浏览器扩展，它实现了 Privacy Pass 协议的客户端，该协议提供了不可链接的加密令牌。它符合 IETF 草案 ietf-privacypass-协议 v11。该扩展支持公共可验证令牌 (Blind-RSA)，并计划支持私有可验证令牌 (VOPRF)、批量令牌和速率限制令牌。该项目的目的是通过允许用户在支持 Privacy Pass 的网站上绕过验证码来增强隐私并改善用户体验。该扩展通过提供对不同类型令牌的支持并符合最新版本的 Privacy Pass 协议而与众不同。]]></description>
+      <guid>https://t.me/hn_summary/68177</guid>
+      <pubDate>Wed, 10 Jan 2024 02:57:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Rust 嵌入式工作组发布了embedded-hal 版本 1.0，以及 comp [...]</title>
-      <link>https://t.me/hn_summary/68155</link>
-      <description><![CDATA[RustEmbedded-hal v1.0 现已发布&lt; br /&gt;
-Rust 嵌入式工作组发布了embedded-hal 1.0 版本，以及配套包embedded-hal-bus、embedded-hal-async 和embedded-hal-nb。这些包提供了使用微控制器中常见外设的接口，允许开发可在任何具有嵌入式 hal 实现的微控制器上工作的通用驱动程序。 1.0 版本侧重于简化特征并消除互操作性问题，并计划在未来版本中添加更多特征而不破坏更改。值得注意的新增内容包括特征的异步版本、支持在多个设备之间共享 SPI 总线、改进的错误处理以及删除串行特定特征以支持嵌入式 io 包。此次发布得益于 HAL 团队的贡献和 Rust 基金会的支持。]]></description>
-      <guid>https://t.me/hn_summary/68155</guid>
-      <pubDate>Tue, 09 Jan 2024 23:59:45 GMT</pubDate>
+      <title>在本文中，作者讨论了个人我们对更简单的工具和平台的需求 [...]</title>
+      <link>https://t.me/hn_summary/68176</link>
+      <description><![CDATA[让独立网络变得更轻松
+在本文中，作者讨论了个人网络发​​布对更简单的工具和平台的需求。他们认为，虽然 WordPress 是一个很棒的工具，但对于那些想要拥有自己网站的人来说应该有更多的选择。作者建议构建静态网站生成器，可以通过浏览器轻松上传和使用，并具有自动备份和简单升级功能。他们强调让更广泛的受众更容易了解网络发布的技术方面的重要性，而不要求用户对终端命令有广泛的了解。作者呼吁有更多的选择和选择，让独立网络更容易让每个人加入。]]></description>
+      <guid>https://t.me/hn_summary/68176</guid>
+      <pubDate>Wed, 10 Jan 2024 02:40:15 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，作者讨论了他们撰写博文的通常过程以及 [...]</title>
-      <link>https://t.me/hn_summary/68154</link>
-      <description><![CDATA[使用 GPT-4 翻译博客文章，或者：关于希望和恐惧
-在这篇博文中，作者讨论了他们撰写博客文章的通常过程以及他们作为非母语人士用英语写作时面临的挑战。他们解释说，他们经常就自己思考了数周或数月的主题撰写博客文章，然后在大约 30 分钟内快速撰写并发布该文章。他们承认，由于词汇量有限和语法错误，他们的帖子常常写得很糟糕。为了克服这个问题，他们尝试了一种新方法来撰写有关法学硕士和编程的帖子，用意大利语编写并使用 GPT-4 将其翻译成英语。他们发现翻译后的帖子好多了，听起来就像他们自己的声音。然而，他们担心如果继续使用这种方法，就会失去写英语的信心。他们还反思了这样的想法：在翻译后的帖子中可能会更好地捕捉到他们的真实声音。作者最后表达了对机器翻译可能性的希望，但也担心它可能带来的潜在懒惰。]]></description>
-      <guid>https://t.me/hn_summary/68154</guid>
-      <pubDate>Tue, 09 Jan 2024 23:41:33 GMT</pubDate>
+      <title>[媒体]该网页内容的作者宣布，他们已辞去工作，全职工作 [...]</title>
+      <link>https://t.me/hn_summary/68175</link>
+      <description><![CDATA[我辞去了工作，全职从事我的开源项目 [Atuin](https://news.ycombinator.com/item?id=38935205)
+该网络内容的作者宣布他们已辞去工作，全职从事名为 Atuin 的开源项目。 Atuin 是一个将 shell 历史记录存储在数据库中的工具，允许用户检索他们从任何地方运行过的任何命令。作者启动 Atuin 是为了解决轻松访问过去命令的问题，并收到了用户的积极反馈。该项目经历了显着的增长，但作者在全职工作的同时很难跟上需求。他们决定创办一家公司并全职专注于 Atuin。作者希望在保持 Atuin 开源、免费自托管的同时，添加新的高级功能并支持商业使用。他们还提到了运行该项目的财务挑战，并对赞助商表示感谢。作者渴望构建有价值的功能并最终传承 Atuin，同时支持其他项目和个人。他们邀请社区提供反馈和支持。]]></description>
+      <guid>https://t.me/hn_summary/68175</guid>
+      <pubDate>Wed, 10 Jan 2024 02:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>网络内容讨论了逃生室中数字时钟故障的问题。</title>
-      <link>https://t.me/hn_summary/68153</link>
-      <description><![CDATA[故障数字时钟问题（2021）
-网络内容讨论了逃生室中数字时钟故障的问题。作者描述了时钟的 LED 段出现故障，导致难以确定正确的时间。他们解释说，这个问题可以通过找到初始约束并沿着数字序列传播它们来解决。作者提供了代码示例，并解释了应用一元和成对约束来缩小可能解决方案范围的过程。他们还提到在这种情况下约束传播就足够了，但回溯通常用于约束满足问题。内容最后提到了约束满足问题的实际应用。]]></description>
-      <guid>https://t.me/hn_summary/68153</guid>
-      <pubDate>Tue, 09 Jan 2024 23:38:25 GMT</pubDate>
+      <title>[媒体]瞻博网络网站上的博客文章宣布该公司决定梳理 [...]</title>
+      <link>https://t.me/hn_summary/68174</link>
+      <description><![CDATA[瞻博网络与 HPE 合并
+瞻博网络网站上的博客文章宣布该公司决定与 HPE（惠普企业）合并。该帖子没有提供有关合并的任何具体细节，但强调了合作的潜在好处。作者强调了这种合作伙伴关系在推动创新和为客户提供价值方面的重要性。该帖子没有提及任何争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/68174</guid>
+      <pubDate>Wed, 10 Jan 2024 02:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]寻找远程工作变得越来越困难，特别是对于高收入人士来说 [...]</title>
-      <link>https://t.me/hn_summary/68152</link>
-      <description><![CDATA[寻找远程工作变得越来越困难，特别是如果您想要高-赚取工作
-寻找远程工作变得越来越困难，尤其是对于高收入职位。对远程工作的需求激增，导致申请人之间的激烈竞争。远程和混合职位发布的可用性也有所下降，尤其是高薪职位。现在，公司更倾向于为薪酬超过 20 万美元的职位设置办公室职位，因为他们希望收入最高的员工能够在场进行协作和领导。不过，专家认为，随着企业适应趋势，远程工作未来可能会反弹。尽管面临挑战，求职者可以通过有效地传达自己的价值、专注于特定的远程角色以及及时了解新机会来提高求职机会。]]></description>
-      <guid>https://t.me/hn_summary/68152</guid>
-      <pubDate>Tue, 09 Jan 2024 23:37:17 GMT</pubDate>
+      <title>[媒体] Glucoboy 是 Game Boy Advance 的专用游戏卡带，兼作 [...]</title>
+      <link>https://t.me/hn_summary/68173</link>
+      <description><![CDATA[Glucoboy
+Glucoboy 是 Game Boy Advance 的专用游戏卡带，可兼作糖尿病儿童的血糖仪。它是由 Paul Wessel 发明的，旨在通过视频游戏激励定期进行血糖测试。 Glucoboy 在获得任天堂的批准方面面临着挑战，并且仅在澳大利亚发行。德国制药公司拜耳后来收购了 Glucoboy 背后的公司，并为 Nintendo DS 发布了名为 Bayer Digit 的国际版本。由于限量发行以及拜耳销毁了未售出的库存，Glucoboy 成为了罕见的 Game Boy 配件。 Glucoboy 的 ROM 很难获得，但在 2022 年，视频游戏历史基金会获得了一个评估单元并发布了功能齐全的 ROM。作者讨论了视频游戏保存的挑战以及版权法在访问旧游戏数据方面的限制。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68173</guid>
+      <pubDate>Wed, 10 Jan 2024 02:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>题为“MoE-Mamba：专家混合的高效选择性状态空间模型”的论文 [...]</title>
-      <link>https://t.me/hn_summary/68151</link>
-      <description><![CDATA[MoE-Mamba：专家混合的高效选择性状态空间模型&lt; /a&gt;
-题为“MoE-Mamba：Efficient Selective State Space Models with Mixture of Experts”的论文探讨了状态空间模型（SSM）和专家混合（MoE）的结合以增强顺序建模。作者提出，这种组合可以释放 SSM 的扩展潜力。他们展示了他们的模型 MoE-Mamba，该模型的性能优于 Mamba（基于 SSM 的模型）和 Transformer-MoE。 MoE-Mamba 以减少 2.2 倍的训练步骤实现了与 Mamba 相同的性能，同时保持了 Mamba 相对于 Transformer 的推理性能增益。这项研究挑战了 Transformer 在顺序建模中的主导地位，并强调了 SSM 和 MoE 相结合的潜力。]]></description>
-      <guid>https://t.me/hn_summary/68151</guid>
-      <pubDate>Tue, 09 Jan 2024 23:34:09 GMT</pubDate>
+      <title>[媒体] SSH-Snake 是一个工具，可自动执行在 [...] 上搜索 SSH 私钥的过程。</title>
+      <link>https://t.me/hn_summary/68172</link>
+      <description><![CDATA[SSH-Snake：使用SSH私钥自动遍历网络
+SSH-Snake 是一个工具，可以自动执行在系统上搜索 SSH 私钥并使用这些密钥连接到其他系统的过程。它可以递归地执行这些任务，不断搜索新的键和目的地。该工具是无文件且可自我复制的。作者最初创建 SSH-Snake 是为了可视化他们使用受损的 SSH 密钥入侵的系统。该工具生成网络中服务器之间连接的可视化。作者还讨论了他们在创建可视化工具和软件时面临的挑战。该工具的输出是使用发现的密钥建立的 SSH 连接的列表。 （根据故事文本的 11% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68172</guid>
+      <pubDate>Wed, 10 Jan 2024 02:06:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
