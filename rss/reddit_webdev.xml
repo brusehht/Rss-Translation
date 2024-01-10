@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 10 Jan 2024 18:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 21:11:21 GMT</lastBuildDate>
+    <item>
+      <title>对于免费构建一个简单的网站有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/193iyn1/any_advice_for_building_a_simple_website_for_free/</link>
+      <description><![CDATA[大家好。我是一名音乐家/作曲家，正处于本科生的尾声，致力于建立一个作品集，在那里我可以展示/出售我所拥有的东西。我一直在寻找一种简单的方法来组合一个仍然有一些选项的网站。  这就是我想要的 - 除了支付域名费用之外，免费（我不希望建立世界上最伟大的网站） - 建立某种电子商务的能力 -在美观方面有一点选择。我只是希望能够嵌入 YouTube 视频，也许嵌入图片和 gif，并将我的徽标放在我需要的地方 我开始使用 Google 网站，并制作了一些我认为可行的东西，尽管我仍在尝试弄清楚电子商务。我使用像 Google 网站这样的网络构建器是否走在正确的道路上？有没有什么东西可以让我在不需要编写代码或雇用某人的情况下完成工作？  谢谢，我真的很感激你的建议   由   提交 /u/idragasttheweary   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/193iyn1/any_advice_for_building_a_simple_website_for_free/</guid>
+      <pubDate>Wed, 10 Jan 2024 20:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是个绝对的菜鸟，如何从 CDN 托管存档的游戏文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/193hmaa/im_an_absolute_noob_how_do_i_host_archived_game/</link>
+      <description><![CDATA[与名称所示不同，这与盗版无关。 我刚刚买了一个域，获得了免费的 Cloudflare CDN，还获得了 DNS。 我将在哪里存储这些文件？我不太明白这一切是如何工作的，但本质上我的整个计划是将这些文件（每个 11GB）托管到 CDN 中，将其连接到 API，以便可以通过 GUI 轻松下载。&lt; /p&gt; 现在我做了一些研究，每个地方都在建议像 Azure 或 S3 这样的大地方，有没有地方可以免费托管这些文件？或者至少比 Azure/S3/etc 便宜？ 谢谢 ​   由   提交/u/Ex-In   /u/Ex-In  reddit.com/r/webdev/comments/193hmaa/im_an_absolute_noob_how_do_i_host_archived_game/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/193hmaa/im_an_absolute_noob_how_do_i_host_archived_game/</guid>
+      <pubDate>Wed, 10 Jan 2024 20:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理无能开发人员的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/193g717/advice_dealing_with_an_incompetent_dev/</link>
+      <description><![CDATA[我需要一些关于如何与无能的开发人员打交道的建议。我刚刚开始一份新工作，而他们的另一位开发人员并不是我们都知道的真正的网络开发人员。我是一名 WordPress 开发人员，是的，我知道别跟我开玩笑，但是另一个家伙使用 Gutenberg 编辑器和新的 WordPress 编辑器来构建他的网站。没有 ftp，没有代码编辑器，没有版本控制，什么都没有，使用插件和预制模板，并将其作为自己的块和典当。不写任何代码，一行也不写，很明显他根本不知道如何编码，当我告诉他我是如何做事时，他的眼睛睁得大大的。 老板不给糟糕的是它是如何制作的，而在办公室的其他人看来，他似乎可以制作网站。最大的问题是，当他完成后，我们必须维护这些网站，而且无论是什么，进行任何简单的更改都不容易。  任何人有任何想法或话语我都可以对我的老板说以摆脱这个家伙。 编辑：我想也许我应该澄清一下，这个家伙积极倡导反对版本控制，或编码标准，或任何我们都习惯并知道的行业标准是必要的。    由   提交 /u/Chags1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/193g717/advice_dealing_with_an_incompetent_dev/</guid>
+      <pubDate>Wed, 10 Jan 2024 19:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的文件和 SSL 错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/193fbsc/strange_files_and_ssl_error/</link>
+      <description><![CDATA[您好 - 希望有人能提供建议...我的一位客户报告了他们的 Semrush 报告的奇怪输出。它包含一些奇怪的关键字，这些关键字指向我无法识别的 URL - 基本上是带有长串数字名称的 HTML 文件，例如： https://websitename.com/02438234234234.html 这是一个 WordPress 网站，因此这些页面不是我创建的。当我使用 FTP 登录时，我可以看到所有常见的 WordPress 文件夹（wp-admin、wp-content 等），但在任何地方都看不到这些流氓 HTML 文件。 此外，如果我访问https://websitename.com，我收到一条警告，指出我不能信任该网站，因为 SSL 已过期，但如果我转到 https:// www.websitename.com，它运行完美。 有人对这里可能发生的情况有任何建议吗？ 提前致谢！   由   提交 /u/Bloomingfails   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/193fbsc/strange_files_and_ssl_error/</guid>
+      <pubDate>Wed, 10 Jan 2024 18:31:29 GMT</pubDate>
+    </item>
     <item>
       <title>宣布推出 MotionMark 1.3</title>
       <link>https://www.reddit.com/r/webdev/comments/193e7d4/announcing_motionmark_13/</link>
@@ -41,13 +69,6 @@
       <pubDate>Wed, 10 Jan 2024 16:38:01 GMT</pubDate>
     </item>
     <item>
-      <title>最理想的自由职业者 React 框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/193chwq/most_ideal_react_framework_for_freelancing/</link>
-      <description><![CDATA[我目前正在尝试从事自由职业。一切都准备好了：LLC、商业网站、策略、价格等。但是，我仍然不确定应该使用什么 React 框架来构建基本的静态网站。我肯定会选择 Next.js 路线来构建全栈网站，以实现 SSR、性能、SEO 优化、易用性，但我不知道 Next.js 对于不需要后台的基本本地商业网站来说是否会过度杀伤力-结尾。  静态站点使用 Vite 会更好吗？它具有出色的性能，但我不确定 SEO 的情况。我简单地研究过 Astro，但我从未使用过它，所以我不确定。 我可能想得太多了，因为客户不会真正关心或理解，但我想询问你的情况意见。   由   提交 /u/ClearHeadX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/193chwq/most_ideal_react_framework_for_freelancing/</guid>
-      <pubDate>Wed, 10 Jan 2024 16:37:34 GMT</pubDate>
-    </item>
-    <item>
       <title>下滑效果问题</title>
       <link>https://www.reddit.com/r/webdev/comments/193c34m/slide_down_effect_question/</link>
       <description><![CDATA[嗨，有谁知道这个“下滑效果”是什么吗？纽约时报经常使用的那个实际上叫什么？如何让文本随着滚动而移动，而图像保持静止，直到用户到达页面底部？ 示例此处 https://www.nytimes.com/2024/01/09/science/conservation-romania-beech-trees.html&lt; /p&gt;   由   提交 /u/NearlyHeadlessNolan   [链接] [评论]]]></description>
@@ -69,13 +90,6 @@
       <pubDate>Wed, 10 Jan 2024 15:55:24 GMT</pubDate>
     </item>
     <item>
-      <title>评价我的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/193b02y/rate_my_resume/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/fuyukaidesu2   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/193b02y/rate_my_resume/</guid>
-      <pubDate>Wed, 10 Jan 2024 15:34:19 GMT</pubDate>
-    </item>
-    <item>
       <title>是否有纯粹的 HTTP/web 概念培训？</title>
       <link>https://www.reddit.com/r/webdev/comments/193afbd/is_there_a_pure_httpweb_concepts_trainings/</link>
       <description><![CDATA[这可能是一个愚蠢的问题，但我想知道某处是否存在一些网络基础知识？ 我不是在谈论HTML/CSS/JS（外面有成千上万个），不是谈论语言或框架或 Web API，而是谈论真正的基本概念 HTTP。 我周围的同事都不知道在什么时候该如何反应他们遇到 CORS 问题，或者当我谈论 CSP 时以奇怪的方式看着我... 甚至有些无法读取原始 HTTP 请求/响应... 公平地说，确实比我在学校或培训期间从未学到过这些东西（或者说真的很有限），但更多的是经验，当遇到问题并挖掘主题时...... 应该包括的一些主题：  什么是 HTTP 请求/响应，如何可视化它们。 最相关的标头是什么？那些对浏览器或安全性有影响的人。 什么是 CORS（为什么会发生，如何处理）。 什么是 CSP 事件JS 中可能存在循环吗？ 经典的 Web 漏洞 HTTP 1 =&gt; 2=&gt; 3  我认为没什么大不了的，只是让 Web 开发人员拥有一个具有 Web 基础知识的强大入门工具包...... ​  div&gt;  由   提交/u/CursedPseudo   [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[你好， 大家好。 我正在开发一个我需要使用的功能我需要向用户展示的情况：  左侧的架构（JSON 架构）和右侧带有占位符文本的一些模板（列表模板/英雄部分模板）。 我将允许用户单击占位符文本并编辑它们，用户将在其中将模板 UI 与提供的 JSON 模式进行绑定（通过点符号或 $ 符号，例如： entries.items.name 或 $entries.item.name)。 绑定完成后，我将生成或渲染模板（如果选择列表模板则列出）以及基于映射或绑定的实际数据。此外，还将为此生成某种 UI 模式，该模式可以发送到服务器并存储在数据库中，以便稍后可以在另一个页面上使用该 UI 模式来执行相同的模板渲染。  我有点困惑如何构建这个功能。你们能否分享一下您对此的想法。 谢谢。 注意：我正在我的 React 应用程序中构建此功能。我的模板（列表/英雄部分）将按照 Figma 设计进行样式设置。我正在考虑使用一些库，并在这个特定的 JSONForms 上进行 POC。 你可以吗伙计们也请分享一些可以在这里使用的库。非常感谢。   由   提交/u/Guru4777  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1939z5m/building_a_template_builder_mapping_functionality/</guid>
       <pubDate>Wed, 10 Jan 2024 14:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Rust 的 JavaScript Linters：快速，但现在没有类型化 Linting |金博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/19392uf/rustbased_javascript_linters_fast_but_no_typed/</link>
-      <description><![CDATA[       由   提交 /u/HurpaDurpDeeDurp   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19392uf/rustbased_javascript_linters_fast_but_no_typed/</guid>
-      <pubDate>Wed, 10 Jan 2024 14:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何 CMS 具有与 Obsidian 相当的 Markdown 编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/19390w3/are_there_any_cmss_that_have_a_markdown_editor/</link>
-      <description><![CDATA[就像每个新年开始时一样，我决定尝试写更多博客文章。我不久前使用 Astro 创建了我的博客，并且非常喜欢它。我不喜欢的是，每次我想添加图像时，在我的 Markdown 文件中包含资产是多么烦人，我需要打开我的文件资源管理器，粘贴图像，重命名图像，将图像包含在 Markdown 文件中。它完全打乱了我的流程。因此，我开始使用黑曜石来编辑博客上的帖子。为此，我最终编写了一个预处理管道，用于监视我的保管库目录，然后复制文件、资产并修改内部链接。我喜欢黑曜石，这个工作流程适合我。构建它是一件有趣且快速的事情，有没有任何具有 Markdown 编辑体验的 CMS 可以与我可以使用的 Obsidian 相媲美。我想我可能可以用 google docs 做一些类似的事情，或者使用 pandoc 与 word 或 odt 文件，但后来我失去了 markdown 和使用 vim 绑定的能力。   由   提交/u/barefoot_cherokee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19390w3/are_there_any_cmss_that_have_a_markdown_editor/</guid>
-      <pubDate>Wed, 10 Jan 2024 14:05:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
