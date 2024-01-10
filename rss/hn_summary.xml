@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 09 Jan 2024 15:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 00:53:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]本文讨论了高负载和分布式 PostgreSQL 部署的需求 [...]</title>
-      <link>https://t.me/hn_summary/68044</link>
-      <description><![CDATA[如何扩展单服务器数据库：分布式 PostgreSQL 指南
-本文讨论了高负载和全球分布式应用程序中分布式 PostgreSQL 部署的需求。它解释了传统的PostgreSQL是为单服务器部署而设计的，缺乏原生的分布式数据库属性。为了实现分布式配置，本文概述了三个选项：多主异步复制、带协调器的多主分片 PostgreSQL 和多主无共享 PostgreSQL。它强调了每个选项的优点、缺点和潜在挑战。本文还提到了分布式 PostgreSQL 部署中对可扩展性、弹性和地理合规性的需求。最后讨论了扩展过程以及过渡到分布式 PostgreSQL 解决方案的注意事项。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68044</guid>
-      <pubDate>Tue, 09 Jan 2024 15:01:55 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，作者分享了他们发现主要安全 vu 的经验 [...]</title>
+      <link>https://t.me/hn_summary/68160</link>
+      <description><![CDATA[我如何同时赢得美国一半的快餐连锁店
+在本文中，作者分享了他们在流行的人工智能招聘系统 Chattr.ai。作者解释了他们如何使用脚本在 AI 初创网站上搜索暴露的 Firebase 凭据，并发现 Chattr.ai 没有实施适当的安全措施。这使得作者能够获得对 Firebase 数据库的完全访问权限，从而暴露姓名、电话号码、电子邮件甚至明文密码等敏感信息。作者还发现，他们可以通过将自己添加为管理员用户来进一步操纵系统，从而使他们能够控制 Chattr.ai 的系统。该漏洞已报告给 Chattr.ai，但作者尚未报告收到他们的任何回复或确认。]]></description>
+      <guid>https://t.me/hn_summary/68160</guid>
+      <pubDate>Wed, 10 Jan 2024 00:53:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]LaunchRender 是一款新工具，专为构建 SaaS 应用程序的企业而设计，这些应用程序 [...]</title>
-      <link>https://t.me/hn_summary/68043</link>
-      <description><![CDATA[展示 HN：用文字创建精美视频
-LaunchRender 是一款新工具，专为构建 SaaS 应用程序并希望创建带有文本的精美视频的企业而设计。虽然建议使用 Canva 进行图形设计和信息图表，但 LaunchRender 提供了针对 SaaS 应用营销需求量身定制的不同体验。 TypeFrame 是视频创建的另一种选择，但 LaunchRender 通过提供广泛的动画而脱颖而出，这些动画非常适合推广 SaaS 应用程序。借助 LaunchRender，企业可以轻松创建专业视频来有效展示其 SaaS 产品。]]></description>
-      <guid>https://t.me/hn_summary/68043</guid>
-      <pubDate>Tue, 09 Jan 2024 14:59:44 GMT</pubDate>
+      <title>[媒体]此 Web 内容的作者讨论了编写 REST 的错误处理模式，g [...]</title>
+      <link>https://t.me/hn_summary/68159</link>
+      <description><![CDATA[Go Web 应用程序中的错误处理不应该如此尴尬
+此 Web 内容的作者讨论了在 Go 中编写 REST、gRPC 或其他服务的错误处理模式。该模式旨在简化错误处理并使其更加优雅。作者强调了当前错误处理方法的问题，并提出了一种解决方案，该解决方案允许更轻松的错误处理、以正确的格式自动呈现错误以及设置适当的 HTTP 状态代码。作者还提到了他们正在开发的一个实验库，该库扩展了 http.HandlerFunc 类型的定义，以包含可选的错误返回值。总的来说，该内容提供了一种改进 Go Web 应用程序中的错误处理的解决方案。 （根据故事文本的 40% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68159</guid>
+      <pubDate>Wed, 10 Jan 2024 00:53:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了使用 [...] 的“bit-banging”蓝牙低功耗 (LE) 概念</title>
-      <link>https://t.me/hn_summary/68042</link>
-      <description><![CDATA[“Bit-Banging”蓝牙低功耗
-本文讨论了使用 Nordic nRF24L01+ 器件的“bit-banging”蓝牙低功耗 (LE) 概念。它解释说，蓝牙 LE 是一种低功耗技术，允许设备在长时间关闭无线电的同时保持连接。本文重点介绍了蓝牙 LE 发送未经请求的小数据块广播的能力，这使其对于键盘、鼠标和其他设备非常有用。然而，Nordic nRF24L01+ 器件存在一些限制，无法完全模拟蓝牙 LE，例如无法处理超过 32 字节的数据包。尽管存在这些限制，本文建议蓝牙 LE 仍可用于向设备广播数据。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68042</guid>
-      <pubDate>Tue, 09 Jan 2024 14:59:36 GMT</pubDate>
+      <title>该博客文章讨论了风险管理的各种原则，并将其应用于不同的场景 [...]</title>
+      <link>https://t.me/hn_summary/68158</link>
+      <description><![CDATA[针对睡眠不足者的经济学和类似内容 (2005)
+该博客文章讨论了风险管理的各种原则，并将其应用于不同的场景，包括应对恐怖主义威胁。作者认为，完全消除所有风险是不可能的，接受一定程度的风险是必要的。他们还讨论了明确指示和沟通以尽量减少错误的重要性。作者批评了某些政策缺乏透明度和争论，例如英国的枪杀政策。总的来说，这篇文章对各种情况下的风险管理和决策进行了批判性分析。 （根据 80% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/68158</guid>
+      <pubDate>Wed, 10 Jan 2024 00:40:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了一个以 Google 的 DEI（多样性、公平性和包容性 [...]</title>
-      <link>https://t.me/hn_summary/68041</link>
-      <description><![CDATA[Google DEI 领导者对家长教导孩子“不要看到颜色”感到不满&lt; /a&gt;
-文章讨论了谷歌 DEI（多元化、公平和包容性）领导者的一段视频片段，该视频片段表达了她对父母教导孩子“不要看到颜色”的失望。作者质疑觉醒运动的虚伪性，并认为问题应该在于根据外表区别对待某人，而不是教孩子们色盲。笔者认同这样的观点，即资历应该是职场的决定因素，而不是肤色。文章邀请读者就这种教学方式是否存在种族主义发表意见。]]></description>
-      <guid>https://t.me/hn_summary/68041</guid>
-      <pubDate>Tue, 09 Jan 2024 14:47:22 GMT</pubDate>
+      <title>[媒体]杀死甘蔗蟾蜍最人道的方法是什么？</title>
+      <link>https://t.me/hn_summary/68157</link>
+      <description><![CDATA[杀死甘蔗蟾蜍最人道的方法是什么？
+科学家建议不要用高尔夫球杆殴打甘蔗蟾蜍作为灭绝方法。相反，他们推荐“冷却冷冻”方法，即将蟾蜍放入冰箱 24 小时，然后再转移到冰箱。这种方法被认为更人性化，避免了蟾蜍排出毒素而导致人类暂时失明的风险。甘蔗蟾蜍是澳大利亚的入侵物种，对当地生物多样性构成威胁。它们正在不断进化以适应城市环境，一些动物，例如白鹮，正在学习如何在不中毒的情况下食用它们。]]></description>
+      <guid>https://t.me/hn_summary/68157</guid>
+      <pubDate>Wed, 10 Jan 2024 00:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AI Toolkit 是一个仅包含头文件的 C++ 库，它提供了构建大脑的工具 [...]</title>
-      <link>https://t.me/hn_summary/68040</link>
-      <description><![CDATA[AI 工具包：为游戏的 NPC 提供大脑，标题 -仅C++库
-AI Toolkit 是一个纯头文件 C++ 库，提供用于构建游戏非玩家角色 (NPC) 大脑的工具。它包括有限状态机、行为树、实用人工智能和面向目标的行动规划等功能。该项目旨在为游戏开发者提供易于使用且高效的解决方案，以便在游戏中实施人工智能。该库与 C++20 兼容，并通过在单个软件包中提供一套全面的 AI 工具而脱颖而出。自述文件还提供了代码示例和文档链接以获取更多信息。该库是根据 MIT 许可证发布的。]]></description>
-      <guid>https://t.me/hn_summary/68040</guid>
-      <pubDate>Tue, 09 Jan 2024 14:43:13 GMT</pubDate>
+      <title>[媒体]Lenovo Tab M11 是一款即将推出的经济型 Android 平板电脑，配备 90Hz 显示屏和 [...]</title>
+      <link>https://t.me/hn_summary/68156</link>
+      <description><![CDATA[售价 180 美元的 Lenovo Tab M11 配备 90Hz 显示屏，更新至 2028 年&lt; /a&gt;
+Lenovo Tab M11 是一款即将推出的经济型 Android 平板电脑，配备 90Hz 显示屏和不错的更新策略。它的售价为 179 美元，配备 11 英寸 1920x1200 显示屏、4GB 或 8GB RAM、64GB 或 128GB 存储空间。它还具有 microSD 卡插槽、前后摄像头、7,040 mAh 电池、USB-C 充电、耳机插孔和手写笔支持。 90Hz 显示屏是一项出色的功能，与同价位的其他平板电脑相比，它提供了更高的刷新率。此外，联想承诺到 2028 年将提供两次主要的 Android 更新和安全补丁，这比同价位的许多其他平板电脑要好。]]></description>
+      <guid>https://t.me/hn_summary/68156</guid>
+      <pubDate>Wed, 10 Jan 2024 00:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果正准备允许第三方应用商店遵守欧洲反垄断法规 [...]</title>
-      <link>https://t.me/hn_summary/68039</link>
-      <description><![CDATA[苹果告诉欧盟它有五个不同的应用商店，而不仅仅是一个&lt; /a&gt;
-苹果正准备允许第三方应用商店遵守欧洲的反垄断要求，但该公司仍然反对这种合规的必要性。苹果声称应用程序商店不应被视为一个“平台”，因为它实际上为不同的设备运营着五个不同的应用程序商店。欧盟认为苹果对第三方 iPhone 应用程序销售的独家控制违反了竞争法。苹果正在提出各种论据来捍卫自己的立场，包括声称 iMessage 不应属于《数字市场法》的范围。该公司希望在其使用数量受到质疑时保护自己。]]></description>
-      <guid>https://t.me/hn_summary/68039</guid>
-      <pubDate>Tue, 09 Jan 2024 14:38:59 GMT</pubDate>
+      <title>[媒体] Rust 嵌入式工作组发布了embedded-hal 版本 1.0，以及 comp [...]</title>
+      <link>https://t.me/hn_summary/68155</link>
+      <description><![CDATA[RustEmbedded-hal v1.0 现已发布&lt; br /&gt;
+Rust 嵌入式工作组发布了embedded-hal 1.0 版本，以及配套包embedded-hal-bus、embedded-hal-async 和embedded-hal-nb。这些包提供了使用微控制器中常见外设的接口，允许开发可在任何具有嵌入式 hal 实现的微控制器上工作的通用驱动程序。 1.0 版本侧重于简化特征并消除互操作性问题，并计划在未来版本中添加更多特征而不破坏更改。值得注意的新增内容包括特征的异步版本、支持在多个设备之间共享 SPI 总线、改进的错误处理以及删除串行特定特征以支持嵌入式 io 包。此次发布得益于 HAL 团队的贡献和 Rust 基金会的支持。]]></description>
+      <guid>https://t.me/hn_summary/68155</guid>
+      <pubDate>Tue, 09 Jan 2024 23:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2023 年第四季度 DDoS 威胁报告概述了 DDoS 趋势和主要发现 [...]</title>
-      <link>https://t.me/hn_summary/68038</link>
-      <description><![CDATA[2023 年第四季度 DDoS 威胁报告
-2023 年第四季度的 DDoS 威胁报告概述了今年最后一个季度的 DDoS 趋势和主要发现。该报告强调，黑色星期五和假日季节期间，网络层 DDoS 攻击同比增长 117%，针对零售、货运和公共关系网站的 DDoS 活动有所增加。它还指出，针对台湾、以色列和巴勒斯坦网站的 DDoS 攻击流量大幅增加，这可归因于各种地缘政治事件和冲突。此外，该报告还探讨了环境问题与网络安全之间的交叉点，强调了联合国气候变化会议（COP 28）期间环境服务网站 DDoS 攻击增加的令人不安的趋势。该报告还讨论了使用 DDoS 攻击作为战争工具和破坏以色列与哈马斯战争等冲突的工具。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68038</guid>
-      <pubDate>Tue, 09 Jan 2024 14:25:47 GMT</pubDate>
+      <title>在这篇博文中，作者讨论了他们撰写博文的通常过程以及 [...]</title>
+      <link>https://t.me/hn_summary/68154</link>
+      <description><![CDATA[使用 GPT-4 翻译博客文章，或者：关于希望和恐惧
+在这篇博文中，作者讨论了他们撰写博客文章的通常过程以及他们作为非母语人士用英语写作时面临的挑战。他们解释说，他们经常就自己思考了数周或数月的主题撰写博客文章，然后在大约 30 分钟内快速撰写并发布该文章。他们承认，由于词汇量有限和语法错误，他们的帖子常常写得很糟糕。为了克服这个问题，他们尝试了一种新方法来撰写有关法学硕士和编程的帖子，用意大利语编写并使用 GPT-4 将其翻译成英语。他们发现翻译后的帖子好多了，听起来就像他们自己的声音。然而，他们担心如果继续使用这种方法，就会失去写英语的信心。他们还反思了这样的想法：在翻译后的帖子中可能会更好地捕捉到他们的真实声音。作者最后表达了对机器翻译可能性的希望，但也担心它可能带来的潜在懒惰。]]></description>
+      <guid>https://t.me/hn_summary/68154</guid>
+      <pubDate>Tue, 09 Jan 2024 23:41:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了调试 GPU 着色器的挑战以及前 [...]</title>
-      <link>https://t.me/hn_summary/68037</link>
-      <description><![CDATA[HLSL 和 DX12 中的 Shader Printf
-作者讨论了调试 GPU 着色器的挑战以及 RenderDoc 和 PIX 等现有工具的局限性。他们介绍了使用 printf 在 CPU 领域进行调试和诊断的概念，并解释说目前没有跨供应商/跨 API 的方法可以对着色器执行相同的操作。然后，作者介绍了如何使用 HLSL 和 D3D12 作为目标语言和 API 在软件中构建着色器 printf。他们解释了总体方法、设置打印缓冲区和“神奇”调试信息缓冲区。本文提供了每个步骤的代码片段和解释。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68037</guid>
-      <pubDate>Tue, 09 Jan 2024 14:23:36 GMT</pubDate>
+      <title>网络内容讨论了逃生室中数字时钟故障的问题。</title>
+      <link>https://t.me/hn_summary/68153</link>
+      <description><![CDATA[故障数字时钟问题（2021）
+网络内容讨论了逃生室中数字时钟故障的问题。作者描述了时钟的 LED 段出现故障，导致难以确定正确的时间。他们解释说，这个问题可以通过找到初始约束并沿着数字序列传播它们来解决。作者提供了代码示例，并解释了应用一元和成对约束来缩小可能解决方案范围的过程。他们还提到在这种情况下约束传播就足够了，但回溯通常用于约束满足问题。内容最后提到了约束满足问题的实际应用。]]></description>
+      <guid>https://t.me/hn_summary/68153</guid>
+      <pubDate>Tue, 09 Jan 2024 23:38:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nebula 是一个开源且免费使用的现代 C++ 游戏引擎。</title>
-      <link>https://t.me/hn_summary/68036</link>
-      <description><![CDATA[Nebula 是一个开源且免费使用的现代 C++游戏引擎
-Nebula 是一个开源且免费使用的现代 C++ 游戏引擎。它旨在提供从下到上的数据驱动设计，重点关注性能和最小的调用堆栈。该引擎支持多线程、SSE 加速数学库、完整的 Python 脚本支持、高级渲染框架和分析工具。它还包括统一集群系统、屏幕空间反射、基于物理的材质、阴影贴图、体积雾和照明等功能。 Nebula 的差异化因素之一是其实体系统，它采用 ECS 方法，同时仍然保持以数据库为中心的方法。该项目正在不断开发，并定期添加新功能。]]></description>
-      <guid>https://t.me/hn_summary/68036</guid>
-      <pubDate>Tue, 09 Jan 2024 14:08:20 GMT</pubDate>
+      <title>[媒体]寻找远程工作变得越来越困难，特别是对于高收入人士来说 [...]</title>
+      <link>https://t.me/hn_summary/68152</link>
+      <description><![CDATA[寻找远程工作变得越来越困难，特别是如果您想要高-赚取工作
+寻找远程工作变得越来越困难，尤其是对于高收入职位。对远程工作的需求激增，导致申请人之间的激烈竞争。远程和混合职位发布的可用性也有所下降，尤其是高薪职位。现在，公司更倾向于为薪酬超过 20 万美元的职位设置办公室职位，因为他们希望收入最高的员工能够在场进行协作和领导。不过，专家认为，随着企业适应趋势，远程工作未来可能会反弹。尽管面临挑战，求职者可以通过有效地传达自己的价值、专注于特定的远程角色以及及时了解新机会来提高求职机会。]]></description>
+      <guid>https://t.me/hn_summary/68152</guid>
+      <pubDate>Tue, 09 Jan 2024 23:37:17 GMT</pubDate>
     </item>
     <item>
-      <title>Opinium 代表 Uswitch 进行的一项最新研究发现，270 万人 [...]</title>
-      <link>https://t.me/hn_summary/68035</link>
-      <description><![CDATA[270 万英国人仍然使用纯 3G 手机作为 3G 交换机离我们越来越近了
-Opinium 最近代表 Uswitch 进行的一项研究发现，英国有 270 万人（约占手机用户的 5%）仍在使用不具备 4G 或 5G 功能的纯 3G 手机。尽管 3G 关闭仍在进行中，预计将于 2024/2025 年完成。研究还显示，21% 的 3G 手机用户不愿意升级，将继续在没有互联网连接的情况下使用手机。然而，由于 2G 到 2033 年才会完全关闭，因此通话和短信仍然可以使用。结果令人担忧，因为越来越多的人依赖移动数据作为主要的互联网连接，并且人们担心年老的亲戚可能会没有移动电话电话访问。此外，13% 的人不知道他们的手机支持 4G 还是 5G，这可能会增加仅使用 3G 手机的人数。令人惊讶的是，43% 的公众并不知道 3G 正在关闭。 EE、Three、Vodafone 和 O2 等英国主要网络预计将在 2024 年底前完成关闭。]]></description>
-      <guid>https://t.me/hn_summary/68035</guid>
-      <pubDate>Tue, 09 Jan 2024 14:06:11 GMT</pubDate>
+      <title>题为“MoE-Mamba：专家混合的高效选择性状态空间模型”的论文 [...]</title>
+      <link>https://t.me/hn_summary/68151</link>
+      <description><![CDATA[MoE-Mamba：专家混合的高效选择性状态空间模型&lt; /a&gt;
+题为“MoE-Mamba：Efficient Selective State Space Models with Mixture of Experts”的论文探讨了状态空间模型（SSM）和专家混合（MoE）的结合以增强顺序建模。作者提出，这种组合可以释放 SSM 的扩展潜力。他们展示了他们的模型 MoE-Mamba，该模型的性能优于 Mamba（基于 SSM 的模型）和 Transformer-MoE。 MoE-Mamba 以减少 2.2 倍的训练步骤实现了与 Mamba 相同的性能，同时保持了 Mamba 相对于 Transformer 的推理性能增益。这项研究挑战了 Transformer 在顺序建模中的主导地位，并强调了 SSM 和 MoE 相结合的潜力。]]></description>
+      <guid>https://t.me/hn_summary/68151</guid>
+      <pubDate>Tue, 09 Jan 2024 23:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
