@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Jan 2024 17:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 00:50:42 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该网页内容是针对申请[...]的候选人的自愿自我认同调查。</title>
-      <link>https://t.me/hn_summary/68239</link>
-      <description><![CDATA[Snapdocs (YC W14) 正在招聘
-该网络内容是针对申请 Snapdocs 工作的候选人的自愿自我认同调查。该调查要求候选人提供有关其性别、种族、民族、退伍军人状况和残疾状况的信息。该调查的目的是遵守政府报告要求并衡量公司外展和积极招聘工作的有效性。调查的完成完全是自愿的，不会在招聘过程中考虑。所提供的信息将被保密。内容不会因任何受保护群体状态而存在歧视。]]></description>
-      <guid>https://t.me/hn_summary/68239</guid>
-      <pubDate>Wed, 10 Jan 2024 17:02:17 GMT</pubDate>
+      <title>[媒体] 网页内容提供了 Xerox Interlisp 和 BBN-Lisp 这两种编程语言的历史 [...]</title>
+      <link>https://t.me/hn_summary/68336</link>
+      <description><![CDATA[施乐 Interlisp 和 BBN-Lisp 的历史
+网络内容提供了 Xerox Interlisp 和 BBN-Lisp 这两种在 20 世纪 60 年代和 1970 年代开发的编程语言的历史。它解释了 Lisp 这种允许递归和程序修改的语言如何成为编写构建其他程序或证明程序相关内容的程序的理想选择。 60 年代中期分时技术的引入彻底改变了软件开发，允许用户直接与他们的程序在线交互。内容还重点介绍了 BBN-Lisp 中各种功能的开发，例如原位编辑程序的能力、用于更改控制流的“意大利面条堆栈”以及尝试自动纠正错误的 DWIM 功能。 History 包于 1970 年推出，允许用户检查和重播其程序历史记录，并在编辑中引入了 UNDO 功能的概念。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68336</guid>
+      <pubDate>Thu, 11 Jan 2024 00:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>DataMapPlot 是一个库，用于生成演示文稿、论文、 [...]</title>
-      <link>https://t.me/hn_summary/68238</link>
-      <description><![CDATA[显示 HN：DataMapPlot 以获得漂亮的数据地图图 
-DataMapPlot 是一个用于生成演示文稿、论文和海报的数据图静态图的库。它的目标是用户友好，同时提供定制选项。本文档介绍了该库，其中包括其功能的演示。该示例使用 ArXiv 预印本服务器机器学习部分的数据来创建一个图表，展示机器学习研究的概况。该库允许用户向绘图添加标签、标题和徽标，以及自定义特定标签的突出显示。它还提供了使用自定义字体和在深色模式下创建绘图的选项。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68238</guid>
-      <pubDate>Wed, 10 Jan 2024 15:54:52 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者分享了他们对 Gumroad 的不满，Gumroad 是一家在线 [...]</title>
+      <link>https://t.me/hn_summary/68335</link>
+      <description><![CDATA[Gumroad 似乎与作者分享了您的电子邮件地址 
+news.ycombinator.com 上这篇文章的作者分享他们对 Gumroad（一个购买和销售数字产品的在线平台）感到失望。他们提到，在 Gumroad 上购买电子书后，他们开始收到作者主动发送的电子邮件，而且没有任何选择退出的选项。作者担心这些电子邮件地址最终可能会在市场上出售，这凸显了潜在的隐私问题。帖子的语气暗示着失望和辞职。]]></description>
+      <guid>https://t.me/hn_summary/68335</guid>
+      <pubDate>Thu, 11 Jan 2024 00:35:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] apigen-ts 项目是一个 TypeScript 客户端生成器，它使用 [...] 创建 API 客户端</title>
-      <link>https://t.me/hn_summary/68237</link>
-      <description><![CDATA[显示 HN：来自 OpenAPI 架构的本机 TypeScript API 客户端生成器
-apigen-ts 项目是一个 TypeScript 客户端生成器，它使用 OpenAPI 架构中的类型创建 API 客户端。它旨在解决用最少的第三方代码生成即用型 API 客户端的问题。该项目支持 OpenAPI 版本 2、3 和 3.1，并且可以从本地和远程的 JSON 或 YAML 文件加载架构。它还提供了自定义获取功能的能力，并支持使用 Prettier 自动格式化。该项目与其他项目的区别在于生成单个输出文件并提供从日期时间格式解析日期的选项。它可以使用yarn安装并与npx一起使用。]]></description>
-      <guid>https://t.me/hn_summary/68237</guid>
-      <pubDate>Wed, 10 Jan 2024 14:49:27 GMT</pubDate>
+      <title>[媒体]上周日本中部发生的地震给当地一座核电站造成了压力 [...]</title>
+      <link>https://t.me/hn_summary/68334</link>
+      <description><![CDATA[日本地震重灾区核电站超出设计极限
+根据安全小组会议上分享的一份报告，上周日本中部发生的地震给当地一座核电站造成的压力超过了设计极限。报告称，地面加速度读数并未对设施构成直接的安全威胁。地震袭击了发电厂，当时正在筛选安全措施以重新启动其中一个反应堆。核监管局局长敦促运营商调查核电站变压器故障。核电站附近某些地点未监测到实时辐射水平，这被视为一个重大问题。]]></description>
+      <guid>https://t.me/hn_summary/68334</guid>
+      <pubDate>Thu, 11 Jan 2024 00:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DeepTab 是一款创新的人工智能驱动的 Chrome 新标签扩展程序。</title>
-      <link>https://t.me/hn_summary/68236</link>
-      <description><![CDATA[显示 HN：DeepTab – AI 驱动的 Chrome 新标签页
-DeepTab 是一款创新的人工智能驱动的 Chrome 新标签扩展。借助 DeepTab，用户每次打开新标签页时都可以享受个性化、动态的浏览体验。 AI算法分析用户的浏览历史和偏好来显示相关内容，例如新闻文章、天气更新和个性化推荐。 DeepTab还提供订阅服务，允许用户访问高级功能并享受无广告的体验。需要注意的是，可以随时取消，但由于涉及较高的 GPU 处理成本，因此无法退款。]]></description>
-      <guid>https://t.me/hn_summary/68236</guid>
-      <pubDate>Wed, 10 Jan 2024 14:49:17 GMT</pubDate>
+      <title>[媒体]根据 FDA 专员 Robert Califf 和 FDA 疫苗高级官员最近的评论 [...]</title>
+      <link>https://t.me/hn_summary/68333</link>
+      <description><![CDATA[美国濒临疫苗接种临界点，面临不必要的死亡：FDA
+根据 FDA 专员罗伯特·卡利夫和 FDA 疫苗最高监管者彼得·马克斯最近的评论，美国正处于“危险的疫苗接种临界点”的边缘。他们警告说，免疫率下降使人口免疫力面临风险，导致呼吸道病毒季节期间数千人不必要的死亡。社交媒体和互联网上反疫苗错误信息的兴起导致越来越多的人拒绝接种疫苗。幼儿园儿童的疫苗接种率持续下滑，非医疗疫苗接种豁免率创历史新高。作者呼吁医疗保健提供者用真实的科学证据反驳疫苗错误信息，并帮助人们就疫苗接种做出明智的决定。]]></description>
+      <guid>https://t.me/hn_summary/68333</guid>
+      <pubDate>Thu, 11 Jan 2024 00:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>网站 www.agiliq.com 创建了一个工具来帮助个人确定他们的道德框架。</title>
-      <link>https://t.me/hn_summary/68235</link>
-      <description><![CDATA[Show HN：我制作了一个工具来查找您的道德框架 16电车问题
-网站 www.agiliq.com 创建了一个工具帮助个人确定他们的道德框架。该工具向用户呈现 16 种不同的电车问题，要求他们决定是否拉动操纵杆。回答完所有问题后，用户将获得他们的道德立场。该工具还包括最后一个问题，提出这样一个场景：一辆电车正向五个人疾驰，拉动附近的杠杆会将电车转移到一条侧轨上，那里绑着一个杀死一定数量人的人。用户被询问在这种情况下是否会扣动扳机。该网站还提供了详细的结果。]]></description>
-      <guid>https://t.me/hn_summary/68235</guid>
-      <pubDate>Wed, 10 Jan 2024 14:49:09 GMT</pubDate>
+      <title>[媒体] 据软件工程师称，他们职业的就业市场正在恶化 [...]</title>
+      <link>https://t.me/hn_summary/68332</link>
+      <description><![CDATA[软件工程师表示就业市场变得更加糟糕 
+软件工程师表示，他们职业的就业市场正在迅速恶化。许多工程师表示很难找到工作，有些工程师甚至选择从事低薪工作或干脆离开该行业。市场的过度饱和，加上对专业技能的需求不断增加，使得软件工程师很难获得高薪职位。这一趋势引起了该领域专业人士的担忧，因为他们担心这会对他们的职业生涯产生长期影响。文章没有突出任何争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/68332</guid>
+      <pubDate>Thu, 11 Jan 2024 00:10:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“wt”项目是一个小型终端锻炼计时器，可作为 [...]</title>
-      <link>https://t.me/hn_summary/68234</link>
-      <description><![CDATA[Show HN：Wt是一个小型终端锻炼计时器 
-“wt”项目是一个小型终端锻炼计时器，可作为 gnome 时钟中计时器的替代品，并具有改进的键盘功能。它需要一个持续时间的单个参数，并在显示操作系统通知和播放声音之前等待该持续时间。该项目可用于在特定时间间隔（例如 30 秒、5 分钟或一小时）后通知用户。作者提到，该项目与其他项目的区别在于提供更好的键盘功能并允许用户轻松地从终端设置计时器。该项目是用 Go 编写的，依赖于 Linux 系统的 ALSA/libasound2-dev。]]></description>
-      <guid>https://t.me/hn_summary/68234</guid>
-      <pubDate>Wed, 10 Jan 2024 14:49:00 GMT</pubDate>
+      <title>[媒体] 软件公司 SAP 已同意支付超过 2.2 亿美元，以解决涉及 [...]</title>
+      <link>https://t.me/hn_summary/68331</link>
+      <description><![CDATA[软件公司 SAP 将支付 2.2 亿美元的贿赂费用 
+软件公司 SAP 已同意支付超过 2.2 亿美元，以了结涉及南非、印度尼西亚和其他国家政府官员的贿赂指控。据称，该公司利用外部商业顾问传递金钱和礼物来赢得商业合同。这些计划的实施时间为 2014 年 12 月至 2022 年 1 月。SAP 与调查人员合作并实施了政策变更。该公司总部位于德国，是全球最大的软件公司之一。和解协议包括 1.188 亿美元的刑事罚款。 SAP曾于2016年在巴拿马因贿赂和腐败受到处罚。如果该公司三年内遵守协议，美国将撤销对该公司的刑事指控。]]></description>
+      <guid>https://t.me/hn_summary/68331</guid>
+      <pubDate>Thu, 11 Jan 2024 00:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目的目的是使用 Python 为美国人口普查数据生成 Wikitable。</title>
-      <link>https://t.me/hn_summary/68233</link>
-      <description><![CDATA[展示 HN：使用 Python 为美国人口普查数据生成 Wikitable
-该项目的目的是使用 Python 为美国人口普查数据生成 Wikitable。它允许用户提取美国人口普查数据并将其转换为可在维基百科页面上使用的表格。该项目提供了有关如何安装和运行该程序以及所需输入的说明。作者提到该项目输出了 2000 年、2010 年、2020 年的数据以及 2022 年的估计数据。它还包括生成的种族和民族数据表的示例。作者通过特别关注为美国人口普查数据生成表格并提供清晰的安装和使用说明来使该项目与众不同。]]></description>
-      <guid>https://t.me/hn_summary/68233</guid>
-      <pubDate>Wed, 10 Jan 2024 14:48:51 GMT</pubDate>
+      <title>[媒体]欧洲数据保护监管机构 (EDPS) 开发了一款开源工具 [...]</title>
+      <link>https://t.me/hn_summary/68330</link>
+      <description><![CDATA[欧盟评估网站隐私的开源工具
+欧洲数据保护监管机构 (EDPS) 开发了一种名为“网站证据收集器”的开源工具，用于自动对网站进行隐私和个人数据保护检查。该工具收集个人数据处理的证据，例如 cookie 和对第三方的请求，并以人类和机器可读的格式呈现。它启动 Chromium（Chrome 浏览器的精简开源版本），并收集网页屏幕截图、HTTP 链接、访问过的网页、HTML5 本地存储中存储的信息、cookie、HTTP 流量以及通过 Web Sockets 交换的消息。该工具兼容 Windows、MacOS、Linux 以及所有支持 NodeJS 和 Chromium 的平台。可以从 EDPS 网站、Joinup 和 GitHub 下载。]]></description>
+      <guid>https://t.me/hn_summary/68330</guid>
+      <pubDate>Thu, 11 Jan 2024 00:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个项目的目的是创建一个 Firefox 扩展，允许用户查看 [...]</title>
-      <link>https://t.me/hn_summary/68232</link>
-      <description><![CDATA[显示 HN：规避 YouTube 广告拦截政策 – Firefox 扩展程序 
-该项目的目的是创建一个 Firefox 扩展，允许用户通过将所有 YouTube 视频嵌入到 iframe 中来观看它们。作者提到这个扩展可以用来规避 YouTube 的广告拦截政策。 iframe 可以使用各种属性进行自定义，例如宽度、高度、frameborder、referrerPolicy、allowFullscreen 等。作者还提供了安装说明以及如何使用该扩展的简要指南。作者通过提及该项目是一个专门设计用于绕过 YouTube 广告拦截政策的 Firefox 扩展来区分该项目。]]></description>
-      <guid>https://t.me/hn_summary/68232</guid>
-      <pubDate>Wed, 10 Jan 2024 14:47:37 GMT</pubDate>
+      <title>豌豆汤安德森 (Pea Soup Andersen's) 是一家位于比尔顿 (Buellton) 深受人们喜爱的加州餐厅，在 1 [...]</title>
+      <link>https://t.me/hn_summary/68329</link>
+      <description><![CDATA[布尔顿的安徒生豌豆汤在 100 年后关门
+Pea Soup Andersen&#39;s 是一家位于比尔顿 (Buellton) 深受人们喜爱的加州餐厅，在营业 100 年后关门了。该餐厅位于圣内拉的姊妹店证实了该餐厅的关闭。该房产已出售，并将重新开发，并计划在未来开设全新的 Pea Soup Andersen&#39;s。该餐厅由安东·安德森 (Anton Andersen) 和朱丽叶·安德森 (Juliette Andersen) 于 1924 年创立，因其法式豌豆汤配方而广受欢迎。多年来，它成为 101 号高速公路沿线的路边景点，吸引着洛杉矶和旧金山之间的游客。该餐厅多次易主，最近由 Milt Guggia Jr. 所有。邻近的 Pea Soup Andersen&#39;s Inn 并未包含在此次出售中。]]></description>
+      <guid>https://t.me/hn_summary/68329</guid>
+      <pubDate>Wed, 10 Jan 2024 23:49:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]TaskPact 是一个独特的平台，通过添加财务 [...]</title>
-      <link>https://t.me/hn_summary/68231</link>
-      <description><![CDATA[显示 HN：坚持您的目标或捐赠给慈善机构
-TaskPact 是一个独特的平台，通过添加经济激励来帮助您坚持自己的目标。通过致力于你的目标并投入金钱，你就给了自己一个令人信服的成功理由。如果您未能实现目标，TaskPact 会自动将您的钱捐给您选择的慈善机构。这种创新方法将个人动机与对世界产生积极影响的机会结合起来。无论您想减肥、戒烟还是学习新技能，TaskPact 都能为您提供保持正轨所需的额外动力。]]></description>
-      <guid>https://t.me/hn_summary/68231</guid>
-      <pubDate>Wed, 10 Jan 2024 14:47:30 GMT</pubDate>
+      <title>[媒体] 埃隆·马斯克 (Elon Musk) 的社交媒体平台 X（以前称为 Twitter）已经取得了重大进展 [...]</title>
+      <link>https://t.me/hn_summary/68328</link>
+      <description><![CDATA[Elon Musk 的 X 价值比他购买时便宜了 71.5% 2022年平台
+埃隆·马斯克的社交媒体平台 X（以前称为 Twitter）自马斯克于 2022 年收购以来，其价值已大幅下跌。根据富达证券提交的一份证券文件，该平台目前的价值比其购买价格低了 71.5%。价值的下降归因于围绕该平台的争议，这吓跑了广告商。在马斯克支持反犹太主义帖子后，包括迪士尼、苹果和可口可乐在内的主要广告商从该平台撤下了付费广告。此后，马斯克为自己的行为道歉，但仍然挑衅，表示他希望广告抵制停止，并告诉那些试图用广告勒索他的人“滚蛋吧。”]]></description>
+      <guid>https://t.me/hn_summary/68328</guid>
+      <pubDate>Wed, 10 Jan 2024 23:48:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 GitHub 项目提供了一种在 PyTorch 中构建 NCCL 测试和配置 SSHD 的方法 [...]</title>
-      <link>https://t.me/hn_summary/68230</link>
-      <description><![CDATA[显示 HN：在 PyTorch 容器中构建 NCCL 测试并配置 SSHD&lt; /a&gt;
-此 GitHub 项目提供了一种在 PyTorch 容器中构建 NCCL 测试和配置 SSHD 的方法，这有助于更快地测试 NCCL（NVIDIA Collective Communications Library）。该项目提供了一个可以拉取和使用的 Docker 镜像，也可以从源代码构建。作者提供了如何使用 Docker 镜像的说明，包括设置环境变量、挂载主机的 idrsa 和idrsa.pub 文件，并运行容器。该项目还包括有关如何使用 NCCL-Tests 代码和可执行文件的说明，特别是 allreduceperf 示例。作者鼓励用户贡献和反馈。]]></description>
-      <guid>https://t.me/hn_summary/68230</guid>
-      <pubDate>Wed, 10 Jan 2024 14:47:21 GMT</pubDate>
+      <title>[媒体]美国证券交易委员会 (SEC) 已批准某些投资 [...]</title>
+      <link>https://t.me/hn_summary/68327</link>
+      <description><![CDATA[SEC 为比特币 ETF 开绿灯
+美国证券交易委员会（SEC）已批准某些投资公司提供“现货比特币”交易所交易基金（ETF）。此举预计将使普通投资者更容易进行比特币投资，而无需他们直接拥有数字资产。然而，SEC 主席 Gary Gensler 强调，该机构对比特币和加密相关产品的相关风险仍持谨慎态度。 SEC 的最后期限是 1 月 10 日，对 11 家申请提供比特币 ETF 的公司做出决定，并批准了所有 11 家公司。该批准引起了不同的反应，一些财务顾问和投资者监管团体对比特币市场的风险和欺诈历史表示担忧，而加密货币倡导者则认为这是迈向包容性的一步。]]></description>
+      <guid>https://t.me/hn_summary/68327</guid>
+      <pubDate>Wed, 10 Jan 2024 23:46:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
