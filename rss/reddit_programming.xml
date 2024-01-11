@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 11 Jan 2024 00:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 03:12:58 GMT</lastBuildDate>
+    <item>
+      <title>我写的一个小CD刻录机（包装）</title>
+      <link>https://www.reddit.com/r/programming/comments/193qk3n/a_little_cd_burner_wrapper_i_wrote/</link>
+      <description><![CDATA[一直在努力使用很多软件进行 CD 刻录。决定自己做。  自从我更新了 ubuntu 以来，brasero 一直很混乱，由于 wodim，ISRC 出现了奇怪的问题。它只是一个小工具，可以帮助将 m3u 曲目列表从 brasero 迁移到可爱的 lil 脚本:)。  如果您有任何反馈，请告诉我！ 💞   由   提交/u/bruishedandbroke  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193qk3n/a_little_cd_burner_wrapper_i_wrote/</guid>
+      <pubDate>Thu, 11 Jan 2024 02:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netty源码分析-Accept流程分析</title>
+      <link>https://www.reddit.com/r/programming/comments/193qh72/netty_source_code_analysisaccept_process_analysis/</link>
+      <description><![CDATA[ 由   提交 /u/xuezhongyu01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193qh72/netty_source_code_analysisaccept_process_analysis/</guid>
+      <pubDate>Thu, 11 Jan 2024 02:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 技术预览版 186 发行说明</title>
+      <link>https://www.reddit.com/r/programming/comments/193pokk/release_notes_for_safari_technology_preview_186/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193pokk/release_notes_for_safari_technology_preview_186/</guid>
+      <pubDate>Thu, 11 Jan 2024 01:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lang2Logic：将自然语言提示转换为 python 对象。描述所需的格式和提示，它将自动生成。对于简化和自动化 lang-chain 实现很有用。请发表评论，或DM我反馈。</title>
+      <link>https://www.reddit.com/r/programming/comments/193p4o9/lang2logic_converting_natural_language_prompts_to/</link>
+      <description><![CDATA[ 由   提交/u/Existing_Donkey_7007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193p4o9/lang2logic_converting_natural_language_prompts_to/</guid>
+      <pubDate>Thu, 11 Jan 2024 01:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>LeetCode 5 - 最长回文子串</title>
       <link>https://www.reddit.com/r/programming/comments/193oi2z/leetcode_5_longest_palindromic_substring/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>纯金</title>
       <link>https://www.reddit.com/r/programming/comments/193mr0d/pure_gold/</link>
-      <description><![CDATA[算术 DreamBerd - e/acc 有大量空格。使用空格来指定算术运算的顺序。 &lt;代码&gt; 打印(1 + 2*3)! //7 打印(1+2 * 3)! //9  也可以使用数字名称，例如： print(one+two)! //3  缩进 说到缩进，DreamBerd - e/acc 找到了一个人人都可以享受的折中方案：所有缩进必须为 3 个空格长的。  函数 main() =&gt; { print(&quot;DreamBerd - e/acc 是未来&quot;)! }  -3 个空格也是允许的。  函数 main() =&gt; { print(&quot;DreamBerd - e/acc 是未来&quot;)! }    由   提交/u/Upset-Document-8399   [链接] [评论]]]></description>
+      <description><![CDATA[算术 DreamBerd - e/acc 有大量空格。使用空格来指定算术运算的顺序。 &lt;代码&gt; 打印(1 + 2*3)! //7 打印(1+2 * 3)! //9  也可以使用数字名称，例如： print(one+two)! //3  缩进 说到缩进，DreamBerd - e/acc 找到了一个人人都可以享受的折衷方案：所有缩进必须为 3 个空格长的。  函数 main() =&gt; { print(&quot;DreamBerd - e/acc 是未来&quot;)! }  -3 个空格也是允许的。  函数 main() =&gt; { print(&quot;DreamBerd - e/acc 是未来&quot;)! }    由   提交 /u/Upset-Document-8399   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/193mr0d/pure_gold/</guid>
       <pubDate>Wed, 10 Jan 2024 23:33:23 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交 /u/DavidMazarro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/193grfk/increasing_confidence_in_your_software_with/</guid>
       <pubDate>Wed, 10 Jan 2024 19:29:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>nil vs. Nil vs. NULL：空对象的使用和滥用</title>
-      <link>https://www.reddit.com/r/programming/comments/193fdpk/nil_vs_nil_vs_null_the_uses_and_abuses_of_null/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193fdpk/nil_vs_nil_vs_null_the_uses_and_abuses_of_null/</guid>
-      <pubDate>Wed, 10 Jan 2024 18:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序“版本控制”意味着什么？你为什么要这么做？</title>
-      <link>https://www.reddit.com/r/programming/comments/193f1ek/what_does_it_mean_for_an_application_to_be/</link>
-      <description><![CDATA[ 由   提交/u/zachm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193f1ek/what_does_it_mean_for_an_application_to_be/</guid>
-      <pubDate>Wed, 10 Jan 2024 18:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布推出 MotionMark 1.3</title>
-      <link>https://www.reddit.com/r/programming/comments/193e6wb/announcing_motionmark_13/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193e6wb/announcing_motionmark_13/</guid>
-      <pubDate>Wed, 10 Jan 2024 17:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似数据库的操作基准</title>
-      <link>https://www.reddit.com/r/programming/comments/193dp49/databaselike_ops_benchmark/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193dp49/databaselike_ops_benchmark/</guid>
-      <pubDate>Wed, 10 Jan 2024 17:26:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
