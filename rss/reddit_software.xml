@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 11 Jan 2024 15:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 18:15:05 GMT</lastBuildDate>
+    <item>
+      <title>我们创建了一个应用程序开发成本计算器</title>
+      <link>https://www.reddit.com/r/software/comments/19479xe/we_have_created_an_app_development_cost_calculator/</link>
+      <description><![CDATA[ 由   提交 /u/ChristopherLee112   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/19479xe/we_have_created_an_app_development_cost_calculator/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 的截图程序，没有上传功能</title>
+      <link>https://www.reddit.com/r/software/comments/1945ixl/screenshot_program_for_windows_without_upload/</link>
+      <description><![CDATA[嗨， 我正在寻找像 ShareX 这样没有任何内置网络功能（例如上传）的屏幕截图程序捕获后的屏幕截图。  我在工作中使用 ShareX，它非常适合我的需要，但我被告知我不再被允许使用它，因为它具有上传屏幕截图的功能。即使你可以在设置中禁用此功能，我仍然不被允许使用该软件。 所以我的问题是，是否有一个 Windows 截图程序可以以类似于 ShareX 的方式进行注释，并且完全可以离线？  提前致谢   由   提交 /u/JMzzr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1945ixl/screenshot_program_for_windows_without_upload/</guid>
+      <pubDate>Thu, 11 Jan 2024 16:20:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析PDF大小的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1944iqh/software_to_analyze_pdf_size/</link>
+      <description><![CDATA[我有一个可以生成 PDF 文件的软件。该软件的一个版本生成的 PDF 文件报告的大小是该软件先前版本的 10 倍以上，尽管该报告看起来相同。有没有软件可以显示 PDF 文件中到底占用了哪些空间？我知道 Acrobat 有自己的分析工具，但这些文件太大（多个 GB），以至于本机工具崩溃。   由   提交/u/darko886  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1944iqh/software_to_analyze_pdf_size/</guid>
+      <pubDate>Thu, 11 Jan 2024 15:37:26 GMT</pubDate>
+    </item>
     <item>
       <title>日程安排软件可显示多个日历的可用性</title>
       <link>https://www.reddit.com/r/software/comments/1943cwq/scheduling_software_to_show_availability_for/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[大家好， 有一个 Windows 工具，最好是易于使用的 GUI，类似于 Handbrake 的功能视频编码，同时保留（即复制）原始元数据以及文件创建日期？ （实际上，我主要只需要使用特定的 CRF 值转码为 x265，从原始数据传递 FPS 和视频分辨率文件） 我知道我可以使用 FFMPEG 和 ExifTool 来实现它 - 但我不喜欢编写大量脚本。 ​ 什么我需要它吗？假期结束后，我通常会收集各种来源的所有视频，将它们备份到我的计算机上并转码为 x265。我通常还会在手机上保存一份（最近假期的）副本。不幸的是，许多应用程序仍然依赖元数据或文件创建日期。如果不保留的话，Android上文件的排序就完全被破坏了，混杂了...   由   提交 /u/--justified--   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/193zty8/alternative_to_handbrake_video_encoding_with/</guid>
       <pubDate>Thu, 11 Jan 2024 11:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解负载均衡器：类型以及使用 Flask 和 NGINX 进行构建</title>
-      <link>https://www.reddit.com/r/software/comments/193yj7d/understanding_load_balancer_types_building_with/</link>
-      <description><![CDATA[ 由   提交 /u/Illustrious_Party330   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/193yj7d/understanding_load_balancer_types_building_with/</guid>
-      <pubDate>Thu, 11 Jan 2024 10:23:58 GMT</pubDate>
     </item>
     <item>
       <title>需要一个基本的 Windows Messenger。</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[例如，我有 ryzen 5 3500x，我想从中获得 AMD Athlon II X4 620 性能 或 16gb ddr4 内存以 1gb ddr2 ram 为例，gpu 上的情况也是如此 我想从该应用程序中选择哪个 cpu 或 gpu 性能。这样我就可以从旧硬件上测试我的游戏 我正在制作游戏，但我无法为其购买旧硬件。    ;由   提交 /u/Alestiana   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/193px6j/is_there_any_kind_of_app_limit_your_pc_hardware/</guid>
       <pubDate>Thu, 11 Jan 2024 01:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好，有谁知道 Windows 10 的应用程序监控电池使用情况的工具吗？</title>
-      <link>https://www.reddit.com/r/software/comments/193n7ni/hi_does_anyone_know_a_tool_for_monitoring_battery/</link>
-      <description><![CDATA[我正在寻找一种可以监控笔记本电脑上运行的应用程序的电池使用情况的工具。有谁知道这样的工具/软件吗？谢谢   由   提交/u/Evening_Truth_1568   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/193n7ni/hi_does_anyone_know_a_tool_for_monitoring_battery/</guid>
-      <pubDate>Wed, 10 Jan 2024 23:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找访客通行亭软件</title>
-      <link>https://www.reddit.com/r/software/comments/193mjvv/looking_for_a_guest_pass_kiosk_software/</link>
-      <description><![CDATA[我经营一家本地游戏商店，我们正在扩展以拥有基于订阅的 24 小时游戏室。我的职业是 IT 顾问/MSP；这是我的第二笔生意。我们将有一个单独的入口，我希望能够为订户每月提供 2 张访客通行证，他们已经有一张电子钥匙卡可以进入，类似于 24 小时健身房。我希望能够建立一个自助服务终端，允许他们在访客自助服务终端使用相同的钥匙卡来制作访客通行证，并每月向每个订阅者分配 2-4 张访客通行证。（24-24 小时有什么乐趣？小时游戏室（如果您不能带您的朋友）这只是出于保险原因，如果非会员在该空间中，我们将需要每位注册客人的联系信息，最好在信息亭和室​​内进行跟踪后台应用程序 每个客人正在使用多少张通行证以及他们是谁。我们不需要任何徽章或打印，只需简单记录哪些会员带来了哪些客人及其联系信息，以确保如果他们在那里期间发生任何事情，我们知道谁应对可能发生的任何损害/伤害负责。  技术信息：使用 UniFi Access 进行门控制，使用 Unifi Connect 进行空间周围的智能显示器，非常乐意通过入口处的大型平板电脑/AIO/迷你 PC 安装信息亭来控制此门 我发现的大多数商业应用程序都具有比我们需要或想要的更多的功能，带有相当高的价格标签，并且可能无法与我们的密钥一起使用，这将是很高兴将这些结合在一起，这样会员就不必跟踪多个密码、用户名或密钥。  我想为 MySQL 数据库创建一个简单的 Web 前端并安装带有 UniFi 访问 fob 阅读器的迷你 PC 并不会太难，唯一困难的部分是弄清楚 UniFi 的用于从数据库中提取订阅者信息的功能的 API。然后只需一个 Web 前端，用于创建访客表单并将其附加到该订阅者，这样我们就可以为每个用户的每月访客条目运行审核报告，并且只需创建一个 if 函数，以不允许订阅者在用完后接纳新访客他们所有的月票。然而，如果恰好有一个轻量级的商业选项可以负担得起其中的某些功能，那么最好不必构建自定义的东西。 ​ 谢谢前进！&lt;​​/p&gt;   由   提交/u/mrspiff1986   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/193mjvv/looking_for_a_guest_pass_kiosk_software/</guid>
-      <pubDate>Wed, 10 Jan 2024 23:24:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
