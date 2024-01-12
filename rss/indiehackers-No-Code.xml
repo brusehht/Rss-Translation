@@ -4,7 +4,21 @@
     <title>无代码 |帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 12 Jan 2024 12:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 15:12:24 GMT</lastBuildDate>
+    <item>
+      <title>如何优化低代码应用程序的性能</title>
+      <link>https://feed.indiehackers.world/post/5d83e1e64c</link>
+      <description><![CDATA[9.检查查询性能
+利用调试工具，用户可以监控连接器日志，识别和优化长时间运行或缓慢的查询，以防止性能下降。
+10.在本地部署 DronaHQ
+为了减少延迟，在靠近数据源的本地部署 DronaHQ 可以显着缩短查询时间。
+使用 DronaHQ 的高性能低代码应用
+DronaHQ 是一个低代码平台，可以轻松快速高效地构建复杂的应用程序。通过遵循应用程序开发的一些关键原则，您可以创建快速且可扩展的低代码应用程序。
+借助 DronaHQ，您不必担心数据库调用、具有强大自动化功能的多个工作流程、API 调用或其他技术应用要求。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5d83e1e64c</guid>
+      <pubDate>Fri, 12 Jan 2024 14:32:57 GMT</pubDate>
+    </item>
     <item>
       <title>向您的博客添加类似 Medium 的亮点</title>
       <link>https://feed.indiehackers.world/post/80d51e0482</link>
@@ -163,20 +177,6 @@ Bubble 的学习曲线比较陡峭，但如果您想构建一个严肃的网络�
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/66da3607e8</guid>
       <pubDate>Wed, 06 Dec 2023 12:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有用于构建目录的代码工具</title>
-      <link>https://feed.indiehackers.world/post/d6dfd6233b</link>
-      <description><![CDATA[我正在探索无代码平台来构建目录。
-寻找满足这些条件的工具：
-1️⃣ SEO 友好，可在搜索中脱颖而出
-2️⃣ Stripe 集成，方便订阅管理
-3️⃣ 地图集成以根据用户位置显示数据
-对于可以处理此问题的无代码工具有什么建议吗？ 
-请在下面留下您的建议！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d6dfd6233b</guid>
-      <pubDate>Tue, 05 Dec 2023 16:15:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
