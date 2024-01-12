@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 12 Jan 2024 00:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 03:13:39 GMT</lastBuildDate>
+    <item>
+      <title>建立这样的网站的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/194kfmf/what_is_the_best_way_to_build_a_site_like_this/</link>
+      <description><![CDATA[我非常想欺骗这个网站：https://marvelsnap.io / 我发现它不是基于 WP 构建的，您可以建议一个主题吗？ 寻求帮助，因为我不是具有该领域专业知识的开发人员.   由   提交 /u/Brandon9one   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194kfmf/what_is_the_best_way_to_build_a_site_like_this/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络版《超级马里奥 64》</title>
+      <link>https://www.reddit.com/r/webdev/comments/194kd0s/super_mario_64_on_the_web/</link>
+      <description><![CDATA[ 由   提交/u/coffee_kazoo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194kd0s/super_mario_64_on_the_web/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在哪个网络平台上找到正在寻找联合创始人开发人员的初创公司？</title>
+      <link>https://www.reddit.com/r/webdev/comments/194k3pp/which_web_platform_where_i_can_find_startups/</link>
+      <description><![CDATA[我是一名精通 Javascript 全栈开发人员，正在大学最后一个学期寻找一家初创公司，我可以为之工作以获得更丰富的经验，同时还可以构建有潜力的东西。有线索吗？   由   提交/u/theremarkablejames   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194k3pp/which_web_platform_where_i_can_find_startups/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业者如何将客户的域连接到网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/194jpso/how_do_freelancers_connect_clients_domains_to_the/</link>
+      <description><![CDATA[本质上，我正在构建一个基本的网站构建器，但我有一些问题。自由职业者如何托管客户的网站，将他们的域连接到该网站，然后为其获取 SSL？有没有一种简单的、一体化的 API 可以做到这一点？我希望客户能够像 Shopify 和 Squarespace 一样控制此过程，其中网站构建器为客户提供名称服务器以插入其域名托管服务商 DNS 中，仅此而已。   由   提交 /u/DevelopMatt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194jpso/how_do_freelancers_connect_clients_domains_to_the/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找文本转视频 Web 应用程序的合作者:)（大约已完成 70%）</title>
+      <link>https://www.reddit.com/r/webdev/comments/194jpfm/looking_for_a_collaborator_for_a_texttovideo_web/</link>
+      <description><![CDATA[我会尽量保持简短。基本上我正在开发一个文本到视频的网络应用程序。您输入提示，它会在大约 30-40 秒内为您生成一个视频。不，它不像其他 rn 那样适用于 3-4 秒的剪辑。人们通常用它生成 3 到 15 分钟的视频。我已经完成了很多功能，但在某些地方仍然需要一些帮助。后端使用python编写，并使用fastAPI作为框架。目前前端非常简单明了。简单的 js/CSS/HTML 等。 寻找对自己能够完美地协助后端和前端的人充满信心。我还需要一个用于用户身份验证和数据库结构的系统（肯定需要帮助来实现这一点）。我觉得有比我的计划更理想的方法来做到这一点。设置用户页面（人们存储内容的地方）的一些帮助也可能很酷。我可以提供一些有关使用 LLM API 的指导，但如果您熟悉它们，那就太好了。不过，我确实处理了很多后端工作 - 这是我的强项。 我正在寻找股权类型的安排。理想情况下，有人也对这个想法感到兴奋，并希望让这个伟大:)。 （顺便说一句 - 是的，文本到视频功能完全正常工作。花了很长时间，但它真的很酷）   由   提交/u/cobalt1137  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194jpfm/looking_for_a_collaborator_for_a_texttovideo_web/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:19:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>make-real - 使用 AI 绘制模型并制作真实的软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/194joao/makereal_draw_a_mockup_and_make_a_real_software/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194joao/makereal_draw_a_mockup_and_make_a_real_software/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站图标开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/194j8vd/website_icon_development/</link>
+      <description><![CDATA[      如果您想将您的设计转换为图标，或者为您生成一个图标，您可以使用我的 GPT。 https://chat.openai.com/g/g-8hwRf54qt-icon-generator https://preview.redd.it/01ghbgvm1xbc1.png?width=1283&amp;format=png&amp;auto =webp&amp;s=2da661f180069e59d6ef2c4a28c49529cdce8ab4 https://preview.redd.it/fuzj2hvm1xbc1.png?width=1351&amp;format=png&amp;auto=webp&amp;s=e714717bdf2ff001b60a3c8f15e3176717c67c 97 &lt;!-- SC_ON - -&gt;  由   提交 /u/tocslayer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194j8vd/website_icon_development/</guid>
+      <pubDate>Fri, 12 Jan 2024 01:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在 2023 年使用过的来自初创公司的最佳新 API 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/194j5aq/what_were_the_best_new_apis_from_startups_that/</link>
+      <description><![CDATA[我正在寻找新的工具/API 来使用，并且我想获得灵感！ P.S. - 请告诉我为什么您认为您提到的初创公司是 2023 年最好的初创公司之一！这真的很有帮助。   由   提交 /u/vanteworldinfinity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194j5aq/what_were_the_best_new_apis_from_startups_that/</guid>
+      <pubDate>Fri, 12 Jan 2024 01:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态站点带宽突然激增：这是怎么回事？</title>
+      <link>https://www.reddit.com/r/webdev/comments/194iuqu/sudden_bandwidth_surge_on_a_static_site_whats/</link>
+      <description><![CDATA[      我注意到今天静态网站上的带宽使用量意外激增。尽管访问量与前几天相比没有明显增加，但前端站点的带宽却莫名其妙地激增。我不提供视频或动态内容。对于导致这种突然增加的原因有什么见解吗？  https://preview.redd .it/3t559t9zxwbc1.png?width=1085&amp;format=png&amp;auto=webp&amp;s=2a633f960207f08a900872d5e4f8b8bb643630d3 P.S：我使用的是Vercel   由   提交/u/UniquePackage7318   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/194iuqu/sudden_bandwidth_surge_on_a_static_site_whats/</guid>
+      <pubDate>Fri, 12 Jan 2024 01:38:47 GMT</pubDate>
+    </item>
     <item>
       <title>NextJs 文件夹结构的最佳实践以及使用基于单独会话的 socket.io 后端的最佳方法</title>
       <link>https://www.reddit.com/r/webdev/comments/194h9xf/best_practices_for_nextjs_folder_structure_and/</link>
@@ -41,74 +104,11 @@
       <pubDate>Thu, 11 Jan 2024 23:23:05 GMT</pubDate>
     </item>
     <item>
-      <title>全栈开发。</title>
-      <link>https://www.reddit.com/r/webdev/comments/194f5xn/fullstack_dev/</link>
-      <description><![CDATA[你好，谁有额外的时间做点副业。 我正在寻找 Web 应用程序的全栈开发人员。不知道网站建设需要多长时间。但我想这不会太久。这是一个搜索网络应用程序，用于获取短信、whatsapp 或电子邮件通知 + 带有 3D 动画的简单布局。如何构建网络应用程序的蓝图已准备就绪，我认为这是一个很酷的项目，适合您的投资组合。 -将您的网站以及您的投资组合和价格发送给我，即使您的投资组合很小。-通过 Paypal 或加密货币付款。-您将签署一份保密协议-有人言出必行，并做出明确的预约，如果您不擅长社交沟通，我们可以解决问题。-远程 如果您认识符合描述的人，请告诉我或提出其他问题。 给我发送聊天消息。 谢谢   由   提交 /u/undercovermoker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194f5xn/fullstack_dev/</guid>
-      <pubDate>Thu, 11 Jan 2024 22:56:16 GMT</pubDate>
-    </item>
-    <item>
       <title>我的网站侧边栏超过 100% 高度，我该如何修复它？</title>
       <link>https://www.reddit.com/r/webdev/comments/194ekv0/the_sidebar_of_my_site_exceeds_at_100_height_how/</link>
       <description><![CDATA[你好。所以我有这个网站 https://jsfiddle.net/zdow2a8y/ ，并且由于某种未知的原因，我的侧栏中的溢出 div溢出并且能够滚动它超过 100% 的高度，就像我在末尾嵌入了一个 YouTube 一样，它会切断它的一半。我知道我应该使用 Flex，但我正在制作一个复古网站，所以我不能使用 Flex。我快要疯了，我的心只想爆炸。请帮我。太感谢了。更新：我会放弃一切，用简单的方法来做，或者只是以同样的方式做，但慢慢地找出现在出了什么问题   由   提交/u/Eleanor_Fox_69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/194ekv0/the_sidebar_of_my_site_exceeds_at_100_height_how/</guid>
       <pubDate>Thu, 11 Jan 2024 22:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>DDOS 攻击的概念已经过时了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194e8vw/are_the_concept_of_ddos_attacks_antiquated/</link>
-      <description><![CDATA[对于我们的 ISO 审核员来说，我有点烦人，他们似乎专注于正在发生的 DDOS 攻击随时随地，这让非技术高层感到害怕。 据我所知，DDOS 攻击需要大量令人讨厌的计算能力来创建机器人网络等。如果有人有任何更正或见解，我将非常感激。 我的主要问题是：  鉴于我们的 api 上已经存在速率限制 IP 块，什么是对相当小的区域服务进行有针对性的 DDOS 攻击的风险 除了fail2ban/ModSec 等之外，我还应该做些什么来减轻这些理论上的攻击  &lt; /div&gt;  由   提交 /u/HippyFlipPosters   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194e8vw/are_the_concept_of_ddos_attacks_antiquated/</guid>
-      <pubDate>Thu, 11 Jan 2024 22:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你想永远运营一个网站，你会怎么做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194dxnp/if_you_wanted_to_run_a_website_forever_how_would/</link>
-      <description><![CDATA[从托管到代码，我想知道提供牢不可破的网站的最佳方式是什么。   由   提交 /u/Toonizer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194dxnp/if_you_wanted_to_run_a_website_forever_how_would/</guid>
-      <pubDate>Thu, 11 Jan 2024 22:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>自助服务终端订购应用程序是使用网络技术制作的吗？它们通常是网络应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194dmby/are_kiosk_ordering_apps_made_with_web/</link>
-      <description><![CDATA[像，使用react/vue节点mysql堆栈？这些技术是否与收据打印机、触摸显示器等硬件一起工作？    由   提交/u/Kinkajou89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194dmby/are_kiosk_ordering_apps_made_with_web/</guid>
-      <pubDate>Thu, 11 Jan 2024 21:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>域后面的 React 应用程序的 https</title>
-      <link>https://www.reddit.com/r/webdev/comments/194cp38/https_for_react_app_behind_domain/</link>
-      <description><![CDATA[嗨， 我目前正在尝试设置以下内容： React 应用程序 A docker 容器，托管在具有静态 IP 地址的服务器 S 中 具有子域 Ds 的域 D，不以任何形式连接到服务器 S。 包含 Ds 的 D 存在证书 C . 对应用程序 A 的请求将发送给 Ds 并转发给 A。 我必须如何更改现有证书 C 或设置新证书才能使用 https 进行请求？ 我是否必须向应用程序 A 之外的任何内容提供证书？   由   提交 /u/Accomplished_Cat8459   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194cp38/https_for_react_app_behind_domain/</guid>
-      <pubDate>Thu, 11 Jan 2024 21:14:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub：数据驱动模板，用于快速引导社区风格的应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/194coc5/github_data_driven_template_to_quickly_bootstrap/</link>
-      <description><![CDATA[    /u/idsfn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194coc5/github_data_driven_template_to_quickly_bootstrap/</guid>
-      <pubDate>Thu, 11 Jan 2024 21:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种方法可以使用 Flexbox 来使一个子项目始终放置在盒子的中心？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194b7mx/is_there_a_way_using_flexbox_to_make_it_so_that/</link>
-      <description><![CDATA[所以我试图制作一个布局，其中有一个弹性框，其中放置了多个子项目。 方式Flexbox 的工作原理是，Flexbox 中项目的位置根据放置在其中的项目数量以及应用到它的 CSS 规则进行调整。  我想要做的是将一个子项目固定在中心（水平和垂直），然后所有后续项目都放置在该固定项目附近。  我面临的问题是，虽然第一个子项目可以使用 “justify-content: center” 和 ” 放置在中心，但align-item: center&quot; ，一旦您将另一个项目添加到弹性盒中，它会立即将初始项目推到一边，并且不再有居中的项目 - 直到您在弹性盒中放置三个项目。  因此，虽然我希望大多数项目适应我的布局，但要求有一个项目始终保留在中间。它还需要成为文档流的一部分，因此不能绝对定位。  ​ 我该如何实现这个目标？  ​   由   提交 /u/FloppyFluffyEars   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194b7mx/is_there_a_way_using_flexbox_to_make_it_so_that/</guid>
-      <pubDate>Thu, 11 Jan 2024 20:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年有哪些不容错过的软件工程/Webdev 活动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194au3j/what_are_the_software_engineeringwebdev_events/</link>
-      <description><![CDATA[嗨！您认为 2024 年开发者必须参加哪些活动来建立联系并学习有关该工艺的新知识？谢谢！   由   提交/u/KingCrimson1000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194au3j/what_are_the_software_engineeringwebdev_events/</guid>
-      <pubDate>Thu, 11 Jan 2024 19:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能使输入框在右侧对齐，文本在左侧对齐？这是一个学校项目，我似乎不知道发生了什么。图像有描述标题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1949a3k/how_can_i_make_it_so_the_input_boxes_align_on_the/</link>
-      <description><![CDATA[   /u/Piotrek013   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1949a3k/how_can_i_make_it_so_the_input_boxes_align_on_the/</guid>
-      <pubDate>Thu, 11 Jan 2024 18:53:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

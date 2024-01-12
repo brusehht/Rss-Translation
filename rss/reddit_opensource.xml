@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Jan 2024 00:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 03:13:45 GMT</lastBuildDate>
+    <item>
+      <title>前端大师为开源维护者提供 50,000 美元支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/194jzy9/frontend_masters_supporting_open_source/</link>
+      <description><![CDATA[   /u/anehzat   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/194jzy9/frontend_masters_supporting_open_source/</guid>
+      <pubDate>Fri, 12 Jan 2024 02:33:27 GMT</pubDate>
+    </item>
     <item>
       <title>是什么促使您学习一门新语言？</title>
       <link>https://www.reddit.com/r/opensource/comments/194e7rh/what_would_motivate_you_to_learn_a_new_language/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好。我想你们会欣赏我们在这里所做的事情，所以只是想分享。 超轻量级 npm 包，可以直接从 CLI 对 GraphQL API 运行安全检查。涵盖恶意注入（SQL/NoSQL）、速率限制、深度限制等。 非常欢迎贡献/反馈。放轻松 GitHub：https://github.com/oslabs-beta/Qevlar&lt; /p&gt; 网站：https://www.qevlar.dev/ NPM 包：&lt; a href=&quot;https://www.npmjs.com/package/qevlar&quot;&gt;https://www.npmjs.com/package/qevlar &lt;!-- SC_ON - -&gt;  由   提交/u/beatsnotbombs305  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/193h653/lightweight_but_mighty_my_friends_and_i_made_a/</guid>
       <pubDate>Wed, 10 Jan 2024 19:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>MELTr - 开源 VJ 软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/193g7fq/meltr_open_source_vj_software/</link>
-      <description><![CDATA[各位，这是我的第一篇文章 r/开源 MELtr 完全用 Java 编码（使用 jdk21），使用很少的系统资源来创建由用户（VJ）控制的奇怪且迷幻的视觉效果。 This这也是我第一次涉足开源编码，我希望得到一些关于如何正确管理 GitHub 上的项目的反馈，因为我显然是个菜鸟。我从 13 岁起就开始编写 Java 代码（现在 28 岁），但这是我第一次将我的代码公开供其他人尝试。 GitHub 上的 MELTr 到目前为止，代码可以正常运行（至少在我的开发机器上），但唯一尝试过它的人说它没有运行，抛出一些异常，但我没有遇到任何严重错误。 我很乐意与任何感兴趣的人交谈，欢迎所有建议:)&lt; /p&gt;   由   提交/u/b_s_l_s_k   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/193g7fq/meltr_open_source_vj_software/</guid>
-      <pubDate>Wed, 10 Jan 2024 19:06:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
