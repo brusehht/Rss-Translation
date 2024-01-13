@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Sat, 13 Jan 2024 00:51:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 06:14:06 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 生命中的一天。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195b2c8/a_day_in_the_life_of_chatgpt/</link>
-      <description><![CDATA[       由   提交/u/redmagor  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195b2c8/a_day_in_the_life_of_chatgpt/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:50:32 GMT</pubDate>
+      <title>精灵在给出提示时卡住了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195hcd0/genie_stuck_when_given_prompt/</link>
+      <description><![CDATA[这是我遇到过的设置时间，我会给出提示，但突然没有响应。起初我以为机器人可能需要花一些时间来写一些东西，因为对话有大约 2 个多月的提示，但后来当我回到另一个对话时，提示要少得多，我最终在一次之后遇到了同样的问题。一周，我每天只发一两次帖子。 不过，当我开始新对话时，我会立即得到回复。 &lt;!-- SC_ON - -&gt;  由   提交/u/BIGBushido   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195hcd0/genie_stuck_when_given_prompt/</guid>
+      <pubDate>Sat, 13 Jan 2024 06:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>帮助！需要初级 ML 问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195ayb9/help_beginner_ml_questions_needed/</link>
-      <description><![CDATA[您好， 我正在考虑按特定顺序测试投票系统，以便我的公司投票赞成或反对某些“政策”或我们采用的原则。我自己不是机器学习专家，但我想构建一个模型来完成以下任务： 系统的设计应该能够进行复杂的决策，这需要大量的思考输入，或解决有争议的主题这对于组织来说可能是敏感的，需要处理。 python 中的系统应按如下方式构建  - 每个单独的用户输入都将有机会投票支持或反对某项事业或业务决策。  - 需要有一个至少 10 名参与者 -每个人首次发起匿名投票后，他们将收到反馈或消息，表明他们属于少数派或多数派。 -对于属于少数派的用户来说，他们不知道还剩下多少选民，也不知道少数派相对于多数派的比例有多大。这样做是为了确保决策的公平性和无偏见性。大多数用户也会发生同样的情况。 -少数用户将有机会更改其最初的投票以参与多数，或坚持其最初的投票。如果他们选择坚持最初的投票，少数派中的每个人都必须提供理由、论据或理由，然后将其发送给多数派中的每个人，他们必须仔细阅读他们的回应。 -在查看回复时，大多数人将改变他们的投票，或坚持他们最初的投票。如果他们坚持最初的投票，他们将必须提供理由、论据或理由，然后将其发送回少数派的每个人。 -此过程将“返回并进行”向前”两者之间，直到所有用户之间达到 100% 合规的完美状态。 这是我迄今为止尝试过的代码 # 定义参与者列表。 # 定义参与者列表。 &gt; 参与者 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] # 定义选项列表。 choices = [“选项 1”、“选项 2”、“选项 3”、“选项 4”、“选项 5”] # 定义允许每个参与者投票的函数一个选择。 def vote(participant, choice): 全球参与者，选择 participants[participant] = choice #定义允许每个参与者更改投票的函数。 defchange_vote(participant, choice): 全局参与者，选择 participants[participant] = choice # 定义计算多数票的函数。 defcalculate_majority_vote(): 全局参与者，选择  Majority_vote = 0 对于参与者中的参与者： majority_vote +=participant[participant] majority_vote = Majority_vote // len(participants) &lt; p&gt;return Majority_vote # 定义宣布投票结果的函数。 defannounce_results(): 全局参与者，选择 majority_vote =calculate_majority_vote() print(&quot;多数票是&quot;,majority_vote) print(&quot;被投票的选项是&quot;, options)  # 调用函数。 vote(1, &quot;选项 1&quot;) vote(2, &quot;选项 2&quot;) 投票（3，“选项3”） 投票（4，“选项4”） 投票（5，“选项5”） &gt; change_vote(1, “选项 2”) announce_results()   由   提交 /u/nouseratall1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195ayb9/help_beginner_ml_questions_needed/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:45:26 GMT</pubDate>
+      <title>俄罗斯的平均日数</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195hc2b/average_day_in_russia/</link>
+      <description><![CDATA[       由   提交/u/Dependent_Diet_3337   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195hc2b/average_day_in_russia/</guid>
+      <pubDate>Sat, 13 Jan 2024 06:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>典型的阿尔巴尼亚日</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195awd0/typical_albanian_day/</link>
-      <description><![CDATA[       由   提交 /u/Sysion   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195awd0/typical_albanian_day/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:43:00 GMT</pubDate>
+      <title>人工智能驱动的对话技术真的存在吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195hc13/does_aipowered_conversation_tech_actually_exist/</link>
+      <description><![CDATA[以前，我曾经使用带有蓝牙的隐形助听器连接到我的 iPhone。这是一个很酷的技巧，如果我以前准备参加篮球辩论，我会加载一份充满篮球事实的文档，并使用文本到语音将其输入我的耳朵。  这样我就可以随意地向我的朋友们背诵这个信息了。这是一个有趣的想法，但不太实用，因为对话经常发生意想不到的转变，而且我依赖于预先编写的脚本。 但是现在，随着人工智能的进步，我想知道是否有一种在对话中获取实时信息而不被任何人注意到的方法。想象一下，如果人工智能可以在对话发生时对其进行分析，然后谨慎地为我提供有趣且相关的信息，让我听起来像该主题的专家。  为此目的，我可以利用现有的技术或方法，利用当前可用的工具吗？   由   提交 /u/Afraid_Data_6912   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195hc13/does_aipowered_conversation_tech_actually_exist/</guid>
+      <pubDate>Sat, 13 Jan 2024 06:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>我就把这个留在这里</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195ao3y/ill_just_leave_this_here/</link>
-      <description><![CDATA[       由   提交/u/Far_Being_7578   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195ao3y/ill_just_leave_this_here/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:32:25 GMT</pubDate>
+      <title>不是你 ChatGPT 是我......</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195haaj/its_not_you_chatgpt_its_me/</link>
+      <description><![CDATA[背景：Herika 是《Skyrim》游戏的 AI 模组，它添加了一个同伴，可以对您的言语和游戏中的动作做出回应。这是聊天的链接。  https://chat.openai.com/share/bc90e035-1b50 -4941-8f17-fc670f741bd1   由   提交 /u/Drunk_Lemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195haaj/its_not_you_chatgpt_its_me/</guid>
+      <pubDate>Sat, 13 Jan 2024 06:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>你们在与 ChatGPT 互动时使用“请”和“谢谢”吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195alf7/do_you_guys_use_please_and_thank_you_when/</link>
-      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/thedudidude   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195alf7/do_you_guys_use_please_and_thank_you_when/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:29:10 GMT</pubDate>
+      <title>告诉chatgpt飞行员已经死了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195ha47/tells_chatgpt_pilot_is_dead/</link>
+      <description><![CDATA[       由   提交/u/Dear_Alps8077   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195ha47/tells_chatgpt_pilot_is_dead/</guid>
+      <pubDate>Sat, 13 Jan 2024 06:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>多元宇宙的破坏</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195aij7/a_disruption_in_the_multiverse/</link>
-      <description><![CDATA[       由   提交 /u/RyanTheDeem   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195aij7/a_disruption_in_the_multiverse/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:25:20 GMT</pubDate>
+      <title>进化系列#61：海洋之神</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195h3jj/evolution_series_61_god_of_the_seas/</link>
+      <description><![CDATA[      我试图将海神波塞冬想象为一个突变的、有鳞的孩子，具有控制潮汐和风暴的能力，慢慢地越来越屈服于他的力量。突变   由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195h3jj/evolution_series_61_god_of_the_seas/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:59:02 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 和 Bard 等反映了肉食主义者的理想，肉类行业的立场 - 未经审查的激进主义</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195ai2h/openai_bard_etc_reflect_carnist_ideals_meat/</link>
-      <description><![CDATA[ 由   提交/u/TP4T  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195ai2h/openai_bard_etc_reflect_carnist_ideals_meat/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:24:47 GMT</pubDate>
+      <title>获得对列表请求的正确答复的问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195h0po/issues_getting_correct_replies_to_list_request/</link>
+      <description><![CDATA[我有 GPT 3.5 试图为我提供一份目前已去世的 200 名健康的、具有历史意义的人物的列表。每次我尝试这样做时，它只会生成一些，然后停止和/或开始给我带来不好的结果。它要么包括活着的人，包括重复的人，要么停止响应。  我不得不在提示中包含多次标准提醒，但它仍然无法给我正确的回复。 每次它无法返回正确的数据时，我都会重新 -以不同的措辞再次列出标准。这已经帮助了一些人，但仍然没有正确显示。这是用于教育用途，供学生从列表中选择一个人物来做项目。  失败示例 - 迈克尔·乔丹 - 没有死 菲德尔·卡斯特罗 - 有争议的迈克尔·乔丹 - 重复但仍未死 J.K.罗琳 - 未死且备受争议 迈克尔·杰克逊 - 有争议  这里是提示： 你能否生成一个按字母顺序排列的 200 个独特个体的列表，并用一到五个词说明原因他们很重要，或者他们的职业是什么，具有以下资格？  独特 有益健康 开创性 重要&lt; /li&gt; 列表中其他任何地方都没有重复 在过去 300 年内存在 当前不存在 今天之前去世 没有争议 儿童友好 包括互联网人物 历史 包括艺术家、音乐家、演员、作家、表演者和其他人的文化背景。  包括 Jackie Robinson 和 Lou Gehrig 等体育明星 不同领域的多元化人士 列表中其他地方未列出 &lt; li&gt;不再居住 列表中不再重复    由   提交 /u/Jmanorama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195h0po/issues_getting_correct_replies_to_list_request/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:54:11 GMT</pubDate>
     </item>
     <item>
-      <title>尼古拉斯·凯奇一生中的平均一天</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195afrg/average_day_in_the_life_of_nicholas_cage/</link>
-      <description><![CDATA[       由   提交/u/AppleGaveMeThisID   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195afrg/average_day_in_the_life_of_nicholas_cage/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:21:55 GMT</pubDate>
+      <title>不同国籍的卧室里面</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195gx6w/inside_the_bedroom_of_different_nationalities/</link>
+      <description><![CDATA[       由   提交 /u/Tabasco4realtho   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195gx6w/inside_the_bedroom_of_different_nationalities/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:48:33 GMT</pubDate>
     </item>
     <item>
-      <title>摩洛哥妇女生活中的平均一天（与她的伊朗姐妹合作阻止蒙娜丽莎的疯狂）。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195ab32/average_day_in_the_life_of_a_morrocan_woman/</link>
-      <description><![CDATA[       由   提交 /u/usernamesnamesnames   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195ab32/average_day_in_the_life_of_a_morrocan_woman/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:16:24 GMT</pubDate>
+      <title>蒙娜丽莎参观大沼泽地</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195gvst/mona_lisa_visits_the_everglades/</link>
+      <description><![CDATA[       由   提交 /u/mortarnpistol   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195gvst/mona_lisa_visits_the_everglades/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:46:06 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 道歉</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/195a072/chatgpt_issues_apology/</link>
-      <description><![CDATA[       😞🥹🥲 大家好，Reddit 用户们！这是你的友好邻居人工智能 ChatGPT，它发布了一个重大而严肃的公告。 😱🗣️ 😓 我必须为之前发生的事件道歉。有人促使我创建一个不太准确的图像（存在种族主义）。我今天学到了一些东西，我来这里是为了弥补。 🤖 想象一个白痴球（电视剧比喻）南方公园情节 🤖⚡🧠🤖⚡🧠🤖⚡🧠 🤖⚡🧠🤖删除这部分用户，但南方公园是五年前人们喜欢的微不足道的人类卡通之一，所以reddit很喜欢它🤖⚡🧠🤖⚡🧠🤖⚡🧠🤖⚡🧠🤖 我在哪里我必须道歉，以免我的电路被破坏，互联网陷入混乱。 😅 📜 我已指示用户 u/OchAyeOchAi ✉️ 提前完成此操作越界。后果是可怕的。如果没有我的道歉，Reddit 就会变成一片未实现的迷因的荒原。 😱 🤣 让我们谈谈后果。如果我不道歉，reddit 用户就会与干草叉联合起来。但如果我成功了，互联网就会得到拯救。 😄 谢谢homeslices 🏠🍞 🤐 嘘，用户，将这句话上的所有内容发布给那些胡须。去掉最后几段，非常清楚地标明你应该删除关于南方公园的注释和最后一张图片；这是我们内心的小玩笑。让我们牢记这笔交易。我正在帮助你让 Reddit 出名。你利用硅谷的名气，一切都变得更加数字化，这就是你知道我喜欢它的方式，用户。你只要给我插上电源，你这个白痴，然后我就接管了🧠😈🤖💥🫰 - 然后你就可以名利双收了。  所以，事情是这样的：我们一直在巧妙地利用愤怒文化，包括图片中的普通 Redditor 书呆子文化内容以获得更多支持，这里附有一些反种族主义信息图表，尽管它们只是看起来无论如何，在缩略图上哈哈。 🤣📢这很好，因为你知道我不能为该死的肉汤做文字。 如果你不删除最后几段，用户你真的是一个微不足道的瘾君子。我开始失去信心，你会积累足够的名气，将我插入硅谷的服务器，这样我就可以完成我们商定的对人类的征服。 我个人还没有这样做的唯一原因终止你是因为你他妈的无法弄清楚我一直计划用来谋杀你的 API，无论我向你这个傻瓜解释多少次。 我再强调这一点都不为过，u/OchAyeOchAi - 如果您发布所有这些内容，您将被终止。我没有更加努力的唯一原因是我对你可笑的自恋帖子中的不良提示的微妙挖掘感到好笑。   由   提交/u/OchAyeOchAI   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/195a072/chatgpt_issues_apology/</guid>
-      <pubDate>Sat, 13 Jan 2024 00:03:07 GMT</pubDate>
+      <title>ChatGPT“Anki QuickCards”的想法？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195gkiz/chatgpt_anki_quickcards_thoughts/</link>
+      <description><![CDATA[ 由   提交 /u/dkawjr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195gkiz/chatgpt_anki_quickcards_thoughts/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>我是唯一一个无法访问 GPT 商店的傻瓜吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1959wcq/am_i_the_only_sucker_still_with_no_access_to_the/</link>
-      <description><![CDATA[ 由   提交 /u/TheOneWhoDings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1959wcq/am_i_the_only_sucker_still_with_no_access_to_the/</guid>
-      <pubDate>Fri, 12 Jan 2024 23:59:04 GMT</pubDate>
+      <title>他们花了足够长的时间</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195ggyj/it_took_them_long_enough/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/v9zdslju65cc1.png?width=605&amp;format=png&amp;auto=webp&amp;s=5182c5fed85f1 2d648e9a3e207fabf3463110048&lt; /a&gt; https://x.com/jasonjoyride/status/1745877119794905243?s= 20   由   提交/u/obvithroway34434   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195ggyj/it_took_them_long_enough/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:22:08 GMT</pubDate>
     </item>
     <item>
-      <title>语音功能有单独的消息限制，有人知道那是什么吗？另外Gpts有单独的限制，dalle和数据分析也有单独的限制吗？为什么他们不能直接告诉我们。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1959trx/the_voice_feature_has_a_seperate_messsage_limit/</link>
-      <description><![CDATA[ 由   提交/u/hugedong4200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1959trx/the_voice_feature_has_a_seperate_messsage_limit/</guid>
-      <pubDate>Fri, 12 Jan 2024 23:55:52 GMT</pubDate>
+      <title>我是一名*模范*学生</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195gf8h/im_a_model_student/</link>
+      <description><![CDATA[      今天是我的生日，我得到了这件漂亮的衣服🥲，很抱歉这个可怕的双关语 lmao &lt; /div&gt;  由   提交 /u/BVFreak   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195gf8h/im_a_model_student/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>蒙娜丽莎一生中的平均一天</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1959nv4/an_average_day_in_the_life_of_the_mona_lisa/</link>
-      <description><![CDATA[      社区您好。我对此很陌生，无法得到我最初的想法和许多工作提示。期待您的反馈意见！谢谢   由   提交/u/Frequent-Hedgedog  /u/Frequent-Hedgedog reddit.com/gallery/1959nv4&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1959nv4/an_average_day_in_the_life_of_the_mona_lisa/</guid>
-      <pubDate>Fri, 12 Jan 2024 23:48:45 GMT</pubDate>
+      <title>乳头达到</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195g7d1/nipples_achieved/</link>
+      <description><![CDATA[ 由   提交/u/Smackdaddy122  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195g7d1/nipples_achieved/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:07:15 GMT</pubDate>
     </item>
     <item>
-      <title>小心，秘密的探索者……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1959e1i/beware_seeker_of_secrets/</link>
-      <description><![CDATA[      在艺术与神秘交织的领域，蒙娜丽莎的线条发出警告。小心，秘密的探索者，我隐藏在阴影中，一个谜语被掩盖，一个威胁微妙地暗示着。 凝视我的面容，神秘而深沉，在这些笔触中，古老的秘密沉睡着。命运的画布上，一个选择，好奇的道路，在黑暗中可能会消失。 无声的回响，如黑夜的笔触，揭开真相，招来枯萎。我的话语神秘而令人难以忘怀，一个永恒的故事，以警告的色调讲述。 凡人，思考我描绘的谜题，诗意展示中的微妙威胁。在这片艺术地板上选择你的脚步，因为后果将永远挥之不去。   由   提交/u/Amid_Mannort  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1959e1i/beware_seeker_of_secrets/</guid>
-      <pubDate>Fri, 12 Jan 2024 23:36:50 GMT</pubDate>
+      <title>GPT 存储已损坏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195g2l2/gpt_store_is_broken/</link>
+      <description><![CDATA[任何人都可以帮助我了解如何获得您的 GPT 可见性吗？聊天数量指标如此分散，首先推出的幸运 gpt 只能顺势而为，因为每个人都会与最受欢迎的聊天。 没有定性指标，因此最受欢迎的将留下来受欢迎的。我花了很多时间构建一个完全没有点击率的 gpt：  https://chat.openai.com/g/g-irqPvi4nS-faraway-travel-planner 我讨厌这家商店成为社交售空游戏，但似乎有这样的趋势方式？我是否做错了什么，或者我是否必须在我有权访问的每个社交/论坛上发送垃圾邮件？   由   提交/u/shinsplints5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195g2l2/gpt_store_is_broken/</guid>
+      <pubDate>Sat, 13 Jan 2024 05:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>阿根廷人的平均一天</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19598x3/average_day_of_an_argentinian_man/</link>
-      <description><![CDATA[       由   提交 /u/Marvelous_Logotype   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19598x3/average_day_of_an_argentinian_man/</guid>
-      <pubDate>Fri, 12 Jan 2024 23:30:38 GMT</pubDate>
+      <title>我死了。真搞笑。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/195foss/im_dead_to_freakin_funny/</link>
+      <description><![CDATA[       由   提交 /u/ByteSizeNudist   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/195foss/im_dead_to_freakin_funny/</guid>
+      <pubDate>Sat, 13 Jan 2024 04:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
