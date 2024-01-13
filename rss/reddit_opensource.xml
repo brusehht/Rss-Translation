@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 13 Jan 2024 06:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 09:11:42 GMT</lastBuildDate>
+    <item>
+      <title>您如何为开源做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/195jqdx/how_do_you_contribute_to_open_source/</link>
+      <description><![CDATA[您如何处理新的开源项目？您如何理解代码和组件的流程？有可能有用的工具吗？   由   提交/u/Firm_Ad2012   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/195jqdx/how_do_you_contribute_to_open_source/</guid>
+      <pubDate>Sat, 13 Jan 2024 08:49:21 GMT</pubDate>
+    </item>
     <item>
       <title>使用免费的开源 LLM 模型句子和识别是否足以满足我的技术应用程序的需求？</title>
       <link>https://www.reddit.com/r/opensource/comments/195ep0n/does_using_free_open_source_llm_models_sentences/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[致力于帮助开发人员打包其环境定义的项目，以帮助开源贡献者更快地启动和运行。该包是用 Starlark 编写的，但它确实提供了一些关键的好处（因为它的 pythonic，所以具有高度可读性，支持参数化等），但它并不是非常常见，通常意味着原始包作者会选择一种新语言。  因此，是什么促使你学习一门语言？  ​   由   提交/u/OrdinaryParkBench  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/194e7rh/what_would_motivate_you_to_learn_a_new_language/</guid>
       <pubDate>Thu, 11 Jan 2024 22:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始成为一名开源 Python 开发人员？</title>
-      <link>https://www.reddit.com/r/opensource/comments/194azmi/how_to_start_as_a_opensource_python_developer/</link>
-      <description><![CDATA[必须留在低收入国家想要赚取基于外国美元的收入。从开发人员那里听说，当您开始学习技术时，开源可以提供很大帮助，并且加班可以在社区本身中占有一席之地。  我的首选语言是 python，我应该研究哪些项目？哪些库？   由   提交/u/phicreative1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/194azmi/how_to_start_as_a_opensource_python_developer/</guid>
-      <pubDate>Thu, 11 Jan 2024 20:04:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
