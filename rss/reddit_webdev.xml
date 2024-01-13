@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 12 Jan 2024 18:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:53:09 GMT</lastBuildDate>
     <item>
-      <title>寻求与开发商合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1951od1/looking_for_collaboration_with_a_developer/</link>
-      <description><![CDATA[任何从事自由职业或可能从事某些项目的人，在设计方面很糟糕，并且不想花时间思考这一点，让我们合作吧。我是 UI/UX 设计师，我不会撒谎，我仍然是一个初学者，但愿意花时间让它看起来不错并且易于交互使用。 我们可以一起开始自由职业，或者也许只是享受构建的乐趣任何项目，你可以只专注于开发部分，而将设计部分留给我。这里有人感兴趣吗？   由   提交 /u/UsedPerformance9925   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1951od1/looking_for_collaboration_with_a_developer/</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:32 GMT</pubDate>
+      <title>可以更改滚轮光标图标吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/195aiiq/change_the_scroll_wheel_cursor_icon_is_possible/</link>
+      <description><![CDATA[      ​ 这是图标，也许这是不可能的，我很惊讶但有很多光标windows、max、linux主题都不支持这个图标，按鼠标中键或者滚轮就可以看到这个光标，但是不知道怎么修改   由   提交 /u/LuisDa201   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/195aiiq/change_the_scroll_wheel_cursor_icon_is_possible/</guid>
+      <pubDate>Sat, 13 Jan 2024 00:25:19 GMT</pubDate>
     </item>
     <item>
-      <title>新网站建设的定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1951knn/pricing_a_new_site_build/</link>
-      <description><![CDATA[嘿，我已经有一段时间没有对所有新网站的任何新版本进行投标了，我有一个朋友需要为他的网站提供一个网站公司很想看看你们的想法。这将是一个完整的 WordPress 构建，试图避免任何自定义插件或大量修改，将他设置为更好的托管（Vultr - RunCloud），如果我走在正确的道路上，并且还竞价 WordPress 构建，我正在寻找建议，它有点超出这个子集，但希望足够相关（mods？）。  ​ 基于美国，该网站的前端可能有 10 页的内容/设计/构建（使用 Astra 在 Elementor Pro 中构建） - 但也需要“仅限会员”默认情况下，客户登录的部分（查看愿望清单会员）以及至少几个供客户使用的页面，那么他需要产品，因此考虑使用 WooCommerce 导入 sku 电子表格，因此这是一个相当“大”的页面。小型企业项目。我知道这有点模糊，还有很多事情需要确定，所以考虑设置每小时费率，因为事情会随着我们的进展而改变，但是 - 我希望我能从社区得到一些大概的信息，所以我给了他一个公平的价格范围。总体出价和每小时赞赏 - 谢谢家人！   由   提交/u/Trope360  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1951knn/pricing_a_new_site_build/</guid>
-      <pubDate>Fri, 12 Jan 2024 18:09:16 GMT</pubDate>
+      <title>显示所有城市的地图...没有地图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1958bg5/displaying_a_map_of_all_cities_without_a_map/</link>
+      <description><![CDATA[这是默认的“简单想法，但不知道如何到达那里”。 我基本上想显示一个地图，显示了美国和基本上整个欧洲的城市。单一国家也可以。但因为我想避开 API 请求地狱（我知道谷歌地图等中的免费请求），并且托管 OSM 平铺服务器会有点矫枉过正，因为我什至不需要街道； 页面应该只显示在正确位置有城市的国家/地区，这就是我想到使用图像/svg 来实现这一点的地方。 查找国家/地区的 SVG 并不是真正的问题。问题（维基百科有我认为的所有/大部分），但是然后呢？ 我之前使用过地图和坐标，但是将城市的真实坐标映射到 svg 应该是一件很痛苦的事情，对吧？这至少是我在这里遇到的问题：如何在没有疯狂计算或距离太远的情况下做到这一点（一点点完全没问题，它应该看起来几乎不正确 - 这完全没问题）？ 如果有其他方法，例如将 openstreetmaps 与“伪造的”、超级简单的自制图块服务器或其他东西一起使用，那也很酷。 ​ TL;DR我想在 svg 上显示图像，其中图像来自一个国家所有城市的实际位置（坐标），而不需要做疯狂的硬核事情。替代方案也将非常受欢迎！   由   提交/u/onfiregames  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1958bg5/displaying_a_map_of_all_cities_without_a_map/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:51:39 GMT</pubDate>
     </item>
     <item>
-      <title>如果有一个离地球很近的星球，他们有自己的互联网，与我们的非常相似，而我们想要连接，我们会怎么做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/195186k/if_there_was_a_planet_close_to_earth_and_they_had/</link>
-      <description><![CDATA[我知道这与 webdev 关系不大，但我不知道还有其他地方可以讨论这个问题，所以你知道，你可以自由加入. 假设一颗新行星突然传送到我们附近，假设距离我们 100 万公里。嘿，你知道吗，感谢上帝，他们很友好。 他们也使用相同形式的电力、电缆、无线电波等来建立互联网，这对我们有好处。但他们当然有不同类型的卫星、编码、语言和所有这些东西。 有一天，我们的行星聚集在一起，决定将网络合并在一起，以共享我们的无尽和他们的触手 ASMR。  想象一下您和您的团队肩负着这一使命。这会怎样？ 编辑：20k 公里到 1m 公里原因   由   提交 /u/hiccupq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/195186k/if_there_was_a_planet_close_to_earth_and_they_had/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:55:18 GMT</pubDate>
+      <title>为什么这里有这么多人阻止其他人建立自己的电子商务网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1958avi/why_do_so_many_people_here_discourage_others_from/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1958avi/why_do_so_many_people_here_discourage_others_from/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>Storyblok 上的 Google Analytics - 有没有简单的方法来添加脚本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1950rd2/google_analytics_on_storyblok_is_there_any_simple/</link>
-      <description><![CDATA[大家好！  我并不是真正的网络开发人员，但与我一起工作的一些人是。我一直在寻找在我们公司现有网站上添加 Google Analytics 的方法。 ​ 免责声明：我们没有创建该网站，因此我们我不是 Storyblok 方面的专家。救命！   由   提交/u/petersonum  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1950rd2/google_analytics_on_storyblok_is_there_any_simple/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:35:48 GMT</pubDate>
+      <title>[Showoff Saturday] 我的相册，仅用 HTML、CSS 和 JS 使用 Canvas 和 CSS 动画制作！ https://album.dimden.dev/</title>
+      <link>https://www.reddit.com/r/webdev/comments/19585cg/showoff_saturday_my_photo_album_made_with_just/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/dimden  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19585cg/showoff_saturday_my_photo_album_made_with_just/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>有人有使用 BrightEdge 的经验吗？收到一些有问题的报告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1950023/anyone_have_experience_with_brightedge_getting/</link>
-      <description><![CDATA[我们的 SEO 团队使用 BrightEdge 来掌握我管理的一些网站的 SEO 和最佳实践。最近，他们直接从 BE 传递了一系列我的团队需要解决的 SEO 相关问题报告。 例如，我们收到了几份 4xx 报告。当我团队的开发人员进行调查时，我们找不到 BrightEdge 报告为损坏的任何 4xx 链接。这些也是高级页面，如果它们消失或关闭，肯定会引起轰动。 我们还遇到了一些其他问题，他们报告页面已关闭，而实际上实际上并没有。我们的主机确认他们根本没有阻止 BE 的爬虫。 BE 的支持毫无帮助，只是挥手打消了我们的疑虑。 我运行了一些 Screaming Frog 爬行，它们看起来更加准确和一致。 其他人都有经验吗？与 BrightEdge 一起？他们的报告可靠吗？我开始产生阴谋论级别的怀疑，这一切似乎都是 BE 通过抛出误报来为继续使用 BE 提供理由哈哈  &amp;# 32；由   提交 /u/SquidThistle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1950023/anyone_have_experience_with_brightedge_getting/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:04:44 GMT</pubDate>
+      <title>前端大师 vs 应用学院公开赛</title>
+      <link>https://www.reddit.com/r/webdev/comments/19581uv/frontend_masters_vs_app_academy_open/</link>
+      <description><![CDATA[大家好，您对上面的两个选项有何看法？我已经开始了 AAO 之旅，我想我已经完成了该计划的 40%。然而，我感到动力不足，没有投入。我认为最主要的原因是缺乏视觉效果。我正在考虑退出前端大师的 AAO，因为它是基于视频的。另一方面，我认为AAO的做法和结构看起来更专业。这里有没有自学成才的人有这两种经验或者可以给我一些指导？我的目标是在线找到一份远程工作或开始在线自由职业（我不知道这是否会对更适合我的计划产生影响）   由   提交 /u/shadowofthetoast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19581uv/frontend_masters_vs_app_academy_open/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:40:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何通过有效的学习策略全面了解 JavaScript 概念？”</title>
-      <link>https://www.reddit.com/r/webdev/comments/194zuxx/how_can_i_acquire_a_comprehensive_understanding/</link>
-      <description><![CDATA[大家好，我在过去的 6 个月里一直在练习前端开发，当我接触 JavaScript 时，我发现很难理解并将学习的概念应用到其中我的项目，所以任何擅长 JavaScript 的人都会建议一些技术来更好地理解和练习 Javascript，以牢牢掌握这些概念。谢谢   由   提交 /u/TRIPYXEN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194zuxx/how_can_i_acquire_a_comprehensive_understanding/</guid>
-      <pubDate>Fri, 12 Jan 2024 16:59:26 GMT</pubDate>
+      <title>目前的 SPF 记录标准？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1957v0g/current_spf_record_standards/</link>
+      <description><![CDATA[如果有更好的帖子可以发布此内容，请告诉我。我和我丈夫有一个小酿酒厂。我们在 Bluehost 上有一个 WordPress 网站。他们还在共享主机上托管我们的电子邮件。我不是网络开发人员。我知道足以维护我们的网站。  最近，我们负责 POS 和俱乐部管理的公司与另一家公司合并。我们有他们为我们发送的电子邮件，还有另一家处理我们州外葡萄酒销售的公司。我们使用 Mailerlite 进行电子邮件营销。州外公司使用 Mailchimp。我们过去曾经有 Mailchimp，并为他们进行了身份验证，我从未删除过 cname 记录，但我们确实关闭了他们的直接帐户。  过去，我们曾遇到过 Gmail 阻止我们从企业帐户向客户发送电子邮件的问题。我正在尝试阅读 SPF 记录，发现以前的做法发生了变化。我收到有关 spf 记录中过多 DNS 查找的错误。  如果有Cname记录，我是否需要将这两家葡萄酒俱乐部管理公司和Mailerlite放入spf记录中？我想在向所有会员发送电子邮件之前先解决这一问题，让他们通过新管理公司了解新系统。不过，我需要尽快这样做，因为他们必须为其帐户设置新密码。  任何见解将不胜感激。   由   提交 /u/Afternoon-Melodic   /u/Afternoon-Melodic reddit.com/r/webdev/comments/1957v0g/current_spf_record_standards/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1957v0g/current_spf_record_standards/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:32:37 GMT</pubDate>
     </item>
     <item>
-      <title>最实惠的 WordPress 主机是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194zdzo/what_is_the_best_affordable_wordpress_host/</link>
-      <description><![CDATA[我目前在 Godaddy 上建立人们的网站，但我看到了其他选项，如 Hostinger、Namecheap 和 Bluehost。所有这些 YouTube 视频都是附属公司，所以我想我应该在 Reddit 上询问。作为一个以构建网站为副业的人，我可以为 WordPress 使用的最佳网络主机是什么。我希望它价格实惠，但我需要网站速度快。如果我能达成一项协议，在一次订阅中可以构建 3-5 个 Wordpress 网站，那就太好了。如果可以与我的朋友分享订阅，那就太完美了！ 我不需要大量的存储空间 - 我只需构建常规代理机构和简单的本地商业网站. 谢谢！   由   提交/u/Director-Antique  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194zdzo/what_is_the_best_affordable_wordpress_host/</guid>
-      <pubDate>Fri, 12 Jan 2024 16:40:00 GMT</pubDate>
+      <title>经过几个月的断断续续的努力，我终于推出了我的人工智能应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1956uxj/after_a_few_months_hard_work_on_and_off_ive/</link>
+      <description><![CDATA[   经过几个月的努力，我终于推出了我的第一个人工智能应用。它的设计目的是在 10 分钟内将网站变成聊天机器人，使在线交互更加有吸引力和高效。您可以立即将其发布在您的网站上。有免费版本可供尝试。 https://dtoagent.com/ 走到这一步是一段漫长的旅程。我知道在座的许多人都是熟练的 Web 开发人员，并为您的公司和客户从事 Web 开发，因此我与您联系有两个原因：收集您的宝贵反馈并探索潜在的合作伙伴关系。如果您有兴趣探索合作伙伴关系或只是想讨论潜力，请与我们联系。 如果这篇文章不太适合放在这里，请告诉我 - 我会将其删除。感谢您的宝贵时间！ ​ https://preview.redd.it/v0g5u03fu2cc1.png?width=2473&amp;format=png&amp;auto=webp&amp;s=aaa85cd8769cb717d0acece9e7e452efcb13 aa7b &amp; #x200b;   由   提交/u/alphasystem  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1956uxj/after_a_few_months_hard_work_on_and_off_ive/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:50:31 GMT</pubDate>
     </item>
     <item>
-      <title>恢复问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194ys4w/resume_problem/</link>
-      <description><![CDATA[您好，我已经发送了超过 150 份申请（仅收到 5 份回复）。如果有人能抽出 10 分钟时间来审阅我的简历，我将不胜感激。我将非常感激。    由   提交 /u/TopPerspective8217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194ys4w/resume_problem/</guid>
-      <pubDate>Fri, 12 Jan 2024 16:13:54 GMT</pubDate>
+      <title>我需要一种让员工提交网站变更请求的方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1956siq/i_need_a_way_for_staff_to_submit_website_change/</link>
+      <description><![CDATA[我在县政府部门工作。我想为员工提供一种向网站团队提交内容更改请求的方法，该方法可以理想地集成到可以创建票证/看板项目并发送通知的工作流程中。需要非常简单。 目前，工作人员会向我们直接负责网站的团队/网络制作人发送电子邮件。网站是WordPress。一些员工会自己进行更新，但大多数人拒绝（在他们的分类职责之外），因此我们最终不得不做出这些更改。我想帮助使这些更易于管理。  我们县有 Microsoft 365 合同，但县 IT 部门把关，我们无法访问 Power Apps 或 Azure 服务等内容。在内部，Sharepoint 用于运行我们的 Intranet 站点。内部服务器是 Windows 和 MS SQL (onPrem)。 ServiceNow 目前正在为部门 IT 管理推出。 应用程序开发团队使用旧版本的 TFS，内部应用程序使用 DOTNET/C#/MS SQL 堆栈。 内容有现成的选项吗？   由   提交/u/kill4b   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1956siq/i_need_a_way_for_staff_to_submit_website_change/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:47:38 GMT</pubDate>
     </item>
     <item>
-      <title>Orbit Chain 终止谈判，为英特尔提供 800 万美元赏金</title>
-      <link>https://www.reddit.com/r/webdev/comments/194xrgn/orbit_chain_terminates_negotiations_offers_8m/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194xrgn/orbit_chain_terminates_negotiations_offers_8m/</guid>
-      <pubDate>Fri, 12 Jan 2024 15:30:11 GMT</pubDate>
+      <title>21 世纪的开源二进制时钟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1956m5i/open_source_binary_clock_for_the_21th_century/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/IAmOpenSourced  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1956m5i/open_source_binary_clock_for_the_21th_century/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:40:09 GMT</pubDate>
     </item>
     <item>
-      <title>不发疯地构建迷你 PocketDerm/BetterHelp/等：如何找到正确的技术术语？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194xpzp/building_a_mini_pocketdermbetterhelpetc_without/</link>
-      <description><![CDATA[大家好。  首先我要说的是，这绝对是一个坏主意，而且很可能不是一个人的工作。这样做是为了学习，而不是为了利益。专门的课程可能是更简单的方法，但我想通过构建这个课程来解决特定的问题，从开始到最终产品。没想到一天之内就完成了。在此过程中，任何用户都不会受到伤害。不会提供任何可疑的医疗服务，标题中的公司只是具有这种结构的一些流行平台。  简而言之，最终目标是建立一个将用户（A）与最相关的服务提供商（B）匹配的平台。像 PocketDerm 这样的服务似乎能够通过全面的调查问卷和服务提供商资料来做到这一点，至少这是在用户端显示的。当然，这远非一个完美的系统。需要明确的是，在咨询了适当的安全专家之前，我不会使用任何真实数据，前提是我能做到这一点。  假设我对需要用非技术术语构建的内容有一个不错的大纲/计划，那么我如何找到技术术语来进入“只需 Google it”阶段？对于此类项目有什么好的资源吗？我怀疑摆弄这些网站上的开发控制台还远远不够。    由   提交/u/dennu9909  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194xpzp/building_a_mini_pocketdermbetterhelpetc_without/</guid>
-      <pubDate>Fri, 12 Jan 2024 15:28:23 GMT</pubDate>
+      <title>很快就要开始构建电子商务应用程序。您为后端推荐什么 CMS/框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1956lae/going_to_start_building_an_ecommerce_app_soon/</link>
+      <description><![CDATA[我计划使用 React/Next JS 作为 UI，因此适合无头开发的 cms 会很棒。我对电子商务开发没有太多经验。提前致谢！   由   提交 /u/brokenlinuxx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1956lae/going_to_start_building_an_ecommerce_app_soon/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:39:11 GMT</pubDate>
     </item>
     <item>
-      <title>第一次使用 Web Components 和 Shopify - 有建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194xoek/first_time_using_web_components_and_shopify_advice/</link>
-      <description><![CDATA[我通常使用 React 或 Svelte，但我必须修复一些非常糟糕的代码并在具有 React 的 Shopify 应用程序中构建一些新功能公司应用程序部分，但在实际的 Shopify 商店部分中使用 Web 组件。现在，真正的组件还不如定义为 Web 组件的三个文件，每个文件接近一千行，并且只包含所有可以想象到的代码。这也是糟糕的代码。我将首先提取适当的组件，但有几个问题： 1）为此使用原始 Web 组件是否有意义，或者是否有某种库或兼容且良好的东西与 Shopify/Web 组件一起使用？  2) 是否有将数据传递到 Web 组件的最佳实践？ （目前这种情况不会发生，因为这些文件是全局变量和冲突变量的混乱） 3）我是否应该追求与 React 组件或 Web 相同的模块化和关注点分离组件 我应该在分离组件的地方更广泛一些吗？  4) 为每个 Web 组件使用单独的样式表是一个好习惯吗？没有 CSS 库，现在只是三个巨大的 CSS 文件   由   提交 /u/dontspookthenetch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194xoek/first_time_using_web_components_and_shopify_advice/</guid>
-      <pubDate>Fri, 12 Jan 2024 15:26:31 GMT</pubDate>
+      <title>有 webdev 的演示吗？有哪些网站可以在 64kb 以下提供很酷的视觉/音频内容或类似内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1955vxk/is_there_a_demoscene_for_webdev_websites_that_do/</link>
+      <description><![CDATA[我正在学习如何使用 Web Audio API，只是觉得它会很酷。   由   提交 /u/DGReddAuthor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1955vxk/is_there_a_demoscene_for_webdev_websites_that_do/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:09:14 GMT</pubDate>
     </item>
     <item>
-      <title>就正确的 HTML 而言，文档中对话框（模式）的放置是否重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194wx6v/in_terms_of_proper_html_does_the_placement_of_a/</link>
-      <description><![CDATA[我们可以将它们分散在任何地方吗？这样可以吗？或者它会干扰屏幕阅读器并有正确的用法吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/ImprovementReady4791   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194wx6v/in_terms_of_proper_html_does_the_placement_of_a/</guid>
-      <pubDate>Fri, 12 Jan 2024 14:54:07 GMT</pubDate>
+      <title>PHP 基准：版本 8.1、8.2 和 8.3 的真实速度测试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1955ojv/php_benchmarks_realworld_speed_tests_for_versions/</link>
+      <description><![CDATA[       由   提交/u/friedinando   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1955ojv/php_benchmarks_realworld_speed_tests_for_versions/</guid>
+      <pubDate>Fri, 12 Jan 2024 21:00:36 GMT</pubDate>
     </item>
     <item>
-      <title>有人在像 omegle 这样的新网站上工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194w98f/is_anyone_working_on_a_new_site_like_omegle_yet/</link>
-      <description><![CDATA[大家好！ 我还想问一下，这里的 webdev 用户是否有任何积极的更新\考虑开发一个新的 omegle 类型网站吗？所以一个自由文本&amp;网络摄像头选项一，随机的人可以说话？我真的很怀念在 omegle 上与人聊天，ometv 根本不是我感兴趣的东西，我想你必须将它链接到你的 Facebook，显然从我读到的内容来看，人们很容易在那里被禁止，只是为了站起来向相机假定正在自慰的方向移动手臂？ wtf.. 是的，我在 reddit 和 Facebook 上读过。 我知道 omegle 有一些负面影响，但对于内向的人、住在小地方的人、想要提高社交技能的人、很无聊，人们可能会感到沮丧，当然，人们超级兴奋并渴望建立新的联系，这真是太棒了！老实说，用户数量的意思是，跳过直到我找到一个有趣的聊天是可能的，我确实认为大多数只是打飞机的人不会出现在任何较新的网站上，因为它们的流量没有那么多，我认为......无论如何，我很想知道我是否可以通过提供反馈以某种方式提供帮助？我根本不擅长编码、创建软件，但是通过提出规则\想法\打字的东西，我的速度非常快，我真的很想看到这样的平台出现并做得很好。   由   提交 /u/swollendreams   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194w98f/is_anyone_working_on_a_new_site_like_omegle_yet/</guid>
-      <pubDate>Fri, 12 Jan 2024 14:23:46 GMT</pubDate>
+      <title>在哪里托管网络应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1955lfe/where_to_host_a_web_app/</link>
+      <description><![CDATA[大家好，  我有一个带有 Web 应用程序的 docker 映像，我想将其托管为一个网站，并带有其&#39; 自己的域名。 我从事网络应用程序编程已有多年，但托管它们的实际部分始终是其他人的责任，所以我对此还很陌生。  经过几天的尝试寻找解决方案后，Google Cloud run 似乎对我很有吸引力，但我犹豫了，因为你要按数千或数百万个请求付费。这不应该是一个问题，但由于所有机器人都在不断扫描互联网，我不想最终为一个愚蠢的应用程序支付巨额费用。  对于拥有自己域名的小型网络应用程序，您建议使用哪个托管网站？我应该选择按数千个请求付费还是按固定金额付费？   由   提交/u/lonew0lf-G   /u/lonew0lf-G  reddit.com/r/webdev/comments/1955lfe/where_to_host_a_web_app/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1955lfe/where_to_host_a_web_app/</guid>
+      <pubDate>Fri, 12 Jan 2024 20:56:58 GMT</pubDate>
     </item>
     <item>
-      <title>Firebase 作为数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194w4ib/firebase_as_database/</link>
-      <description><![CDATA[我是新人，很抱歉问了一个简单的问题，但我注意到对于注册表单，Firebase 身份验证被推荐并在其中一项上得到了支持帖子。将其用于注册表单是否意味着我需要将其用于其他所有内容？是否有理由不将其用于其他用途？对于“其他一切”，我的意思是例如在我的应用程序中存储用户与 AI 的（加密）对话历史记录，以便用户回来时他们可以继续对话。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194w4ib/firebase_as_database/</guid>
-      <pubDate>Fri, 12 Jan 2024 14:17:53 GMT</pubDate>
+      <title>互动营销页面的最佳框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1955bn2/best_framework_for_interactive_marketing_page/</link>
+      <description><![CDATA[我正在尝试构建一个基本的营销页面，但很难找到一个好的框架。 功能&lt; /p&gt; 使用四个小部件 A、B、C、D 模拟应用程序 UI AB CD 或 具有四个节点A、B、C、D的工作流程图。我不需要真正的图表库。 A -&gt; B-&gt; C-&gt; D A、B、C、D 应在悬停时突出显示，以表明它们是可点击的。单击小部件或节点时，屏幕的模式或部分会显示一个子页面，其中包含产品描述、示例数据和两个用于了解更多信息的按钮（指向我们网站中其他页面的链接）。 这个想法客户可以看到我们的产品如何协同工作。 要求 1) 单页演示 2) 理想情况下，我可以将整个内容导出为 HTML 并与销售团队共享以发送给客户3) 所有数据都是硬编码的，不需要后端 API 4) 不需要响应式或移动友好 5) 现代而优雅，不需要我太多修改 我只是在 Bootstrap 中这样做吗？&lt; /p&gt;   由   提交/u/hitmantb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1955bn2/best_framework_for_interactive_marketing_page/</guid>
+      <pubDate>Fri, 12 Jan 2024 20:45:40 GMT</pubDate>
     </item>
     <item>
-      <title>与“内容审核员”有些相似但又不同的工作是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/194vv98/what_is_a_somewhat_similar_job_name_to_content/</link>
-      <description><![CDATA[大家好，我想知道这里是否有人可以帮助我找出工作本身的名称\标题，因为我已经不记得了害怕:(我正在找一份工作，最好是远程工作，我在另一个地方与某人讨论这个问题，我提到我曾担任内容版主，但是我离开了那份工作，因为它是为一家社交媒体公司工作的，在那里基本上我看到的都是*高度图形化的东西*，我是 omegle（网络摄像头聊天网站）的狂热用户，我认为我会很擅长它，因为我期望的基本上是我在 omegle 上看到的东西，就像我一样我对看到裸体、色情片、打飞机的人、化着疯狂的恶作剧化妆品的人、假血等相当不敏感，但在我的实际工作中，我看到了一些非常糟糕的东西，比如实际的杀戮和死尸，以及一些恶心的东西我工作的公司的实际工作，所以我在我的心理健康受到影响之前辞职了。 我理解如果有人读到这篇文章会说“哈哈，他认为他会擅长管理像 omegle 这样的网站”但无法处理常规的内容审核工作” ..不，但是 omegle 上的东西，我用了很多年，即使是最奇怪的东西也不像我在几周的工作中看到的实际东西，无论如何..我正在找工作，已经有一段时间了，我被推荐了一个与内容管理员类似标题的东西，我认为它是“内容管理员？”但我不记得了，我的原因是，因为我之前曾担任过一些 Facebook 群组的管理员，这些群组有数千名成员，其中许多是活跃成员，我编写并安装了规则，创建并发布了独特且有趣的内容、照片、民意调查等，为了让人们参与进来，让人们了解小组的主题，并找到推广它的方法等等，当然还有从 Facebook 小组中删除巨魔，我认为这是社交媒体的调节，无论如何，我自然很擅长这个，我喜欢它，所以有人告诉我“啊，你不会的不是内容审核员的工作，它......”除了我的笨蛋不记得了，如果有人知道类似的工作或名称，请告诉我，这也是我谈论开放管理一个网站（例如替代的 omegle）、制定规则等的顺序，例如有这样的工作吗？   由   提交 /u/swollendreams   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/194vv98/what_is_a_somewhat_similar_job_name_to_content/</guid>
-      <pubDate>Fri, 12 Jan 2024 14:06:05 GMT</pubDate>
+      <title>使用 html5 canvas 创建 3D UI 的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1954vh9/best_way_to_create_3d_ui_with_html5_canvas/</link>
+      <description><![CDATA[我是一名熟练的开发人员，拥有实际的 Javascript、ThreeJS、Canvas 和 GSAP 经验。 还有其他免费工具/可以让我在 Canvas 中构建超级流畅的 3D UI 的库吗？ 我希望它感觉像一个现代视频游戏 UI。 我正在尝试使用 ThreeJS，但似乎就在那里。会是一个更好的图书馆吗？ （这是一个一次性的艺术项目，所以我很清楚使用画布作为 UI 的问题（有机搜索、ADA 等））。    由   提交/u/barrel_of_noodles  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1954vh9/best_way_to_create_3d_ui_with_html5_canvas/</guid>
+      <pubDate>Fri, 12 Jan 2024 20:26:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

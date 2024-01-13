@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 12 Jan 2024 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:51:18 GMT</lastBuildDate>
+    <item>
+      <title>AutoGluon-TimeSeries：Amazon Research 的时间序列预测库</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/195amur/autogluontimeseries_a_timeseries_forecasting/</link>
+      <description><![CDATA[我发现了 Amazon 的 AutoGluon-TimeSeries 库，它基于 AutoGluon。该库允许只需几行代码即可运行时间序列模型。它还：   提供各种 SOTA 预测模型（统计、ML、DL） 利用集成 开源 允许协变量、静态变量等  您可以找到教程此处您是否使用过 AutoGluon-TimeSeries，如果使用过，与其他时间序列库相比，您觉得它如何？ &lt;!-- SC_ON - -&gt;  由   提交 /u/nkafr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/195amur/autogluontimeseries_a_timeseries_forecasting/</guid>
+      <pubDate>Sat, 13 Jan 2024 00:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在还值得努力学习去医学院吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/195a2hw/is_it_worth_it_to_study_hard_and_go_to_med_school/</link>
+      <description><![CDATA[我是一名在美国的大学生，我一直梦想成为一名医生并帮助别人。 可悲的是，随着人工智能很可能在未来几年取代医生，我想知道在大学里努力学习并尝试进入医学院是否值得。从我目前的角度来看，成为一名成熟的医生需要 7-10 年，而成为像肿瘤科医生这样的专家则需要更多的时间。 此时值得尝试成为一名医生吗？我应该轻松生活并等待人工智能取代我们所有的工作吗？   由   提交/u/Bchalup2348   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/195a2hw/is_it_worth_it_to_study_hard_and_go_to_med_school/</guid>
+      <pubDate>Sat, 13 Jan 2024 00:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助微调大型语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1957zbs/help_with_finetuning_a_large_language_model/</link>
+      <description><![CDATA[我有一个经过微调的法学硕士，用于诊断心理健康问题并帮助用户进行认知行为治疗。 该模型是对单个问答数据进行了微调，如下所示： {&#39;Person&#39;：“我最近感到非常悲伤和不知所措。工作已经成为我的巨大压力来源。 “心理学家”：“嘿，我来这里是为了倾听和支持你。”听起来最近工作很有挑战性。你能告诉我更多关于发生了什么吗？&#39;} 其中“Person”键对应的值是用户输入，“Assistant”值是治疗师的答案（即 LLM 输出） ）。 然后，将微调后的模型放入对话链中以利用内存缓冲区，其中提示具有以下语法： “”” 以下是人类和AI之间的对话。人工智能的行为就像治疗师一样，治疗基于认知行为疗法。您必须避免任何形式的伤害和不好的建议。你必须倾听人类的声音并使其感到舒适。你必须具有同理心，如果没有要求或者你不确定自己在说什么，就不要提供任何类型的解释。您必须随着时间的推移帮助该人实践亲社会行为。提出问题并对谈话表现出真正的兴趣。保持脱离 当前对话： {history} 人：{input} AI：  “”” 而且，我还有一大套相关的心理学书籍和文章，可以作为LLM培训的一部分。 因此，我有几个疑问：  根据患者和治疗师之间的单一问答或完整对话来微调模型更好吗？ 为了利用上述书籍和文章中包含的所有信息，我应该如何进行模型训练？我可以对心理学书籍进行中间微调，然后对问答数据进行微调，还是应该重新训练所有模型（包括书籍）作为原始训练标记的一部分？ 对话链的描述是某种东西吗？对于AI角色至关重要还是可以跳过？   由   提交/u/Repulsive_Ad_2230   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1957zbs/help_with_finetuning_a_large_language_model/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:37:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子邮件页脚</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1957qw1/email_footer/</link>
+      <description><![CDATA[我使用 Spark email 的 AI 回复了很多电子邮件。有人在页脚警告人工智能可能已经回答了吗？有点像“这条消息是在 iPhone 上写的，请原谅简洁”等等。如果不是，它听起来可能有点机械化   由   提交 /u/Suitable-Hawk2939    reddit.com/r/ArtificialInteligence/comments/1957qw1/email_footer/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1957qw1/email_footer/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>深度学习背后的数学理论 - 为什么它有效？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1957mht/mathematical_theory_behind_deep_learning_why_does/</link>
+      <description><![CDATA[我知道神经网络是通用函数逼近器，但它们似乎可以逼近无限多个函数。那么为什么神经网络如此擅长插值数据呢？  深度学习背后是否有数学理论？你们为此推荐了哪些资源？   由   提交/u/Bchalup2348   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1957mht/mathematical_theory_behind_deep_learning_why_does/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:22:46 GMT</pubDate>
+    </item>
     <item>
       <title>失业后的目的问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1955e8f/the_issue_of_purpose_post_job_loss/</link>
       <description><![CDATA[我从未从工作中获得目的感/价值感。也许是因为我获得了某个领域的硕士学位，然后又接受了再培训。另外我一直都是兼职工作。我比金钱更看重时间，因此我“牺牲”了时间。确定的事情。  我并不是在考虑人们在人工智能“革命”之后必须争先恐后地获得必要的东西。在工作场所（假设这场革命即将发生）。我纯粹是在谈论某人在不需要工作或工作量更少（普遍基本收入）时的价值感。解决像无家可归这样可怕的事情怎么样？我认为推动我们进入这个新时代的品质是同情心和同理心。由于这两种品质而受到激励。好吧，除非你是一个精神病患者，但现在先别介意马蜂窝。 在人工智能和通用人工智能之后，你认为你会从完全不同的世界中获得你的使命感吗？ &lt; /div&gt;  由   提交 /u/MotherofLuke   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1955e8f/the_issue_of_purpose_post_job_loss/</guid>
       <pubDate>Fri, 12 Jan 2024 20:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>商科专业尝试进军AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1955con/business_major_trying_to_enter_ai/</link>
-      <description><![CDATA[大家好！ 我想从事人工智能/数据科学领域的职业，专注于问题的模型开发和分析-解决。目前，我是一名三年级学生，主修管理信息系统和商业分析，辅修数据科学，GPA 为 3.98。就工作经验而言，我在一家金融科技咨询公司工作了 6 个月，即将在埃森哲技术开发项目实习。 我一直在独立学习神经网络，特别是 YOLO 模型。然而，随着我对人工智能的研究越深入，我就越意识到我所知甚少。我不知道在学习方面应该优先考虑什么，什么是可选的，什么是必需的。例如，我应该自学线性代数还是优先掌握 pandas 和 Python？  我的目标是应用人工智能来解决业务挑战（我知道非常普遍），同时利用我的分析技能。我应该专注于 Kaggle 竞赛、从头开始开发神经网络还是其他途径？显然，我不会进行高水平的研究，但过渡到技术性更强的职业是我想要努力的方向。 您能否根据以下内容就人工智能职业的基本技能提出建议？我的经验。我可以转向的最简单的领域/职业是什么？我需要学习什么才能做到这一点？ 任何建议或见解将不胜感激！   由   提交/u/Eliminator786  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1955con/business_major_trying_to_enter_ai/</guid>
-      <pubDate>Fri, 12 Jan 2024 20:46:50 GMT</pubDate>
     </item>
     <item>
       <title>我救了一只最近去世的狗：探索人工智能去除他脸上的疤痕</title>
@@ -27,13 +55,6 @@
       <pubDate>Fri, 12 Jan 2024 19:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>现在还没有好的AI交友平台吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1952i9p/are_there_still_not_any_good_ai_friend_platforms/</link>
-      <description><![CDATA[有一款流行的人工智能好友应用程序，名为 Replika。但我不认为它使用 GPT-3.5 或类似的东西，所以它非常愚蠢。我尝试过 Snapchat AI，但效果很糟糕。也太蠢了吧有一个名为 Pi 的人工智能聊天机器人。它有点符合要求，但它无法像真人一样记住我过去对它说过的话（嗯，大部分是哈哈）。 &lt;!-- SC_ON - -&gt;  由   提交 /u/FuzzyWormhole   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1952i9p/are_there_still_not_any_good_ai_friend_platforms/</guid>
-      <pubDate>Fri, 12 Jan 2024 18:48:34 GMT</pubDate>
-    </item>
-    <item>
       <title>一次偶然的人工智能生意</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1950umu/an_accidental_ai_business/</link>
       <description><![CDATA[我从事娱乐行业。我多年来一直担任高管职务。一位同事针对市场研究中的一个老问题提出了一个人工智能驱动解决方案的新颖想法。 我们团结起来，立即找到了答案。我们开始开发。路线图的前几个阶段已完成。积极部署。 作为娱乐领域的主题专家，我可以自信地说，我非常了解用例，并看到了对利基客户的价值。 我还认为这项技术变得无处不在，并期望在几年内实现民主化。 这个故事可能与许多故事相似，但也是独一无二的。 我对大规模 Reddit deus 的问题很简单当然，但我会匿名询问。如果您正在积极部署针对具有大型硬件和上传时间等的多模式数据的算法。 有什么方法可以表达应用程序开发的路径？  在开发过程之前，为了确保可行的产品存在，人们会问哪些问题？ 如何雇用或确保人才来生产？他们需要直接体验这些技术吗？ 理解这些问题是模糊的。 意外人工智能听起来是个好名字。 谢谢 &lt; /div&gt;  由   提交 /u/SnooTangerines3399   [链接] [评论]]]></description>
@@ -41,25 +62,11 @@
       <pubDate>Fri, 12 Jan 2024 17:39:42 GMT</pubDate>
     </item>
     <item>
-      <title>每日两分钟 AI 更新（日期：2024 年 1 月 12 日）：来自 Google、NVIDIA、Google Cloud、Microsoft、Pika Labs、Mastercard 等的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19507i3/twominute_daily_ai_update_date_1122024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Google 宣布推出 InseRF - 这是一种在 3D 场景的 NeRF 重建中生成对象插入的新颖方法。 InseRF 能够进行可控且 3D 一致的对象插入，无需显式 3D 信息作为输入。 Nvidia 宣布与 RTX 聊天 - 这是一个演示应用程序，允许用户可以使用自己的内容个性化 LLM 聊天机器人，并在 Windows RTX PC 或工作站上本地运行。它支持各种文件格式，包括文本、PDF、doc/docx、视频和 XML。 AI 发现并非每个指纹都是唯一的 - 哥伦比亚工程师已建立了一种新的人工智能，打破了法医长期以来的信念——同一个人不同手指的指纹是独一无二的。它们很相似，只是我们比较指纹的方式不对。 Google Cloud 为零售商推出新的 GenAI 产品 - 帮助零售商个性化他们的产品在线购物体验并简化后台运营。它包括对话式商务解决方案和零售业专用的分布式云边缘设备。 微软宣布为零售商推出新的生成式人工智能和数据解决方案及功能 - 它涵盖零售业购物者旅程，从实现个性化购物体验、为店员提供支持、解锁和统一零售数据，到帮助品牌更有效地接触受众。 GPT-4 Turbo 现在为 Microsoft Copilot 提供支持。 以下是检查您是否有权访问的方法 - 以下是要遵循的步骤 - 访问 Microsoft Copilot、打开源代码、搜索 GPT-4 Turbo 指示器，然后确认您的帐户状态。 Pika Labs 发布了新的“扩展画布”功能 - 用户现在可以在视频中生成额外的空间并无缝更改 Pika 中的样式。 万事达卡宣布为小型企业开发包容性人工智能工具 - 它正在试点万事达卡小型企业人工智能，这是一种包容性人工智能工具，可以随时随地为所有小型企业主提供定制帮助，帮助他们驾驭自己独特的和各种业务障碍。  在 每日新闻。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19507i3/twominute_daily_ai_update_date_1122024_news_from/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:13:05 GMT</pubDate>
-    </item>
-    <item>
       <title>11 岁男孩创建基于人工智能的眼部疾病检测应用程序——年轻人创新的证明</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/194zulc/11yearold_creates_aibased_eye_disease_detection/</link>
       <description><![CDATA[迪拜的一名 11 岁马来亚女孩创建了一款基于人工智能的应用程序，该应用程序使用 iPhone 扫描技术来识别各种眼部疾病和疾病。自学成才的程序员 Leena Rafeeq 将这款应用程序命名为“Ogler EyeScan”，并在 LinkedIn 上分享了她的成就，在那里她收到了印象深刻的用户的积极反馈。 Apple 目前正在审核该应用程序。 阅读更多内容 此处   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/194zulc/11yearold_creates_aibased_eye_disease_detection/</guid>
       <pubDate>Fri, 12 Jan 2024 16:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用最新数据（例如新闻）的生成文本人工智能？有这样的解决办法吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/194yohm/generative_text_ai_which_uses_uptodate_data_like/</link>
-      <description><![CDATA[嘿伙计们，我是这个子站的新人，所以我希望这是提问的正确地方： 我是对于这个人工智能主题还是个新手，我唯一知道的是 ChatGPT 和 Microsoft CoPilot。我想知道是否有任何工具也使用来自互联网的实时数据。 ChatGPT 当然做不到。 我的计划是生成一份时事通讯，其中包含上个月排名前 3 的 AI 新闻，甚至可能分为不同行业。对于优先级，我的想法是谷歌趋势。我想知道这样的人工智能工具是否已经存在。提前致谢   由   提交/u/Berkelium_v2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/194yohm/generative_text_ai_which_uses_uptodate_data_like/</guid>
-      <pubDate>Fri, 12 Jan 2024 16:09:37 GMT</pubDate>
     </item>
     <item>
       <title>本周人工智能——所有主要人工智能发展简而言之</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[从 11 岁起，我就想成为一名软件工程师。我不是那些追求 20 万工资的成人日托的人之一，我只是喜欢编程，并且认为即使科技泡沫破裂，我也可以靠它谋生。自从 ChatGPT 发布以来，我从无知到否认，再到绝望，看着我全身心投入的热情和我擅长的唯一具有经济价值的东西被语言模型消耗掉了。我使用副驾驶，它使我的工作效率提高了 10 倍。我是我们正在进行的俱乐部项目中最大的贡献者，我投入的时间与其他人大致相同。自动化程度每天都在增长。 Copilot 工作区、MakeItReal、Sutro、Factory、Cursor、Sweep、XSpec 等等。我所有的同事都告诉我，这没关系，这只是为了一些小事情，SWE 知道如何做得最好，尽管这件事在两年的时间里已经从自动完成变成了助手，再变成了项目脚手架。我毕生致力于的整个工作将会崩溃，变成工资无法维持的 GPT 保姆，一个由高年级学生和常春藤盟校毕业生组成的坚不可摧的象牙塔，或者像肉头 MBA 迈克在需要另一个无用的财务时所做的那样。该死的工具。 我似乎无法为自己的生活做出调整。我观察了所有人工智能/机器学习的进展以及人们所做的一切，但我的头脑却没有想出任何想法或应用程序。与创建有趣的逻辑或复杂的系统相比，粘合语言模型是如此无聊，你所做的只是告诉黑匣子“你是 X 方面的专家。如果你不做 X，100 个奶奶就会死”。然后希望它不会搞砸。每隔 2 个月，我可能会得到一个总是太小、太不合理的想法，或者在 ChatGPT 推出 2 个月后其他人已经做得更好的想法。这让我感到非常绝望，因为这确实是我未来生存的方式。那些拥有无用学位的人的刻板知识工作显然是不可能的。 “学习测量”当 6000 万人也开始“学习管道”时，这种方法就行不通了。并推动整个行业陷入工资匮乏、劳动强度大的零工经济。 “放松一下”等待全民基本收入在一个很乐意忽视自己的文明中是行不通的，而让一条毫无意义的线上升1。 我他妈的再也不能做作业了。一切都是徒劳。据我所知，我的命运已经注定。我将死于饥饿和体温过低，死在某个无家可归者营地的某个地方。除了为肉体的过时罪孽而受苦之外，我什么也没有了。我什至不知道我为什么在这里，因为这个 Reddit 子版块似乎主要是由反社会的亿万富翁操纵的 e/accs。我只是想要一些建议，这样我才能活下去。我怀疑我永远不会拥有它。   由   提交 /u/despondentswethrow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/194wez8/programming_is_fucked_and_i_dont_know_what_to_do/</guid>
       <pubDate>Fri, 12 Jan 2024 14:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI的AI聊天机器人商店未来会成功吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/194v9re/will_openais_ai_chatbot_store_be_successful_in/</link>
-      <description><![CDATA[自从 OpenAI 在 11 月份推出用于制作聊天机器人的 GPT 工具以来，已经创建了超过 300 万个聊天机器人。 GPT 商店提供一系列独特的聊天机器人，其中一些帮助构建网站，另一些则帮助搜索学术论文。制造这些聊天机器人的人可能会根据用户与它们的互动程度来赚钱。 OpenAI 已从微软获得了 130 亿美元的巨额投资，现在正在讨论获得更多资金以将其价值提高到超过1000亿美元。同样，Anthropic 和 Character.ai 正在努力筹集大量资金，Anthropic 的目标是 7.5 亿美元，以达到高达 180 亿美元的价值。 目前，只有订阅 ChatGPT 的人才能使用OpenAI 的服务。该公司表示，计划未来与聊天机器人创建者分享部分收入。 然而，即使人们的兴趣日益浓厚，聊天机器人的数量庞大，也很难找到真正创新和突破性的机器人，就像智能手机第三方应用程序发生的情况一样。 本特利大学 (Bentley University) 教授诺亚·吉安西拉库萨 (Noah Giansiracusa) 对投入聊天机器人的资金数量与实际数量相比表示担忧。  戴维斯人工智能研究所所长阿曼达·斯坦特 (Amanda Stent) 强调，聊天机器人要想持久发展，就需要成为其他软件或硬件的一部分。 GPT 商店具有潜力极大地改变生成式人工智能应用程序的开发方式。但是，这也可能导致聊天机器人市场进一步分化。目前还不确定该商店会取得多大成功以及它将对聊天机器人开发的未来产生多大影响。 ​  &amp;# 32；由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/194v9re/will_openais_ai_chatbot_store_be_successful_in/</guid>
-      <pubDate>Fri, 12 Jan 2024 13:38:48 GMT</pubDate>
     </item>
     <item>
       <title>您认为生成式人工智能和通用人工智能是被夸大了还是低估了？</title>
