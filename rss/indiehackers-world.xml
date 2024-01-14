@@ -4,7 +4,28 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 14 Jan 2024 00:58:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 03:14:03 GMT</lastBuildDate>
+    <item>
+      <title>筹款？请帮忙做一个两个问题的调查。</title>
+      <link>https://feed.indiehackers.world/post/65556d9a48</link>
+      <description><![CDATA[亲爱的创始人，
+如果您正在筹款，我正在对投资者偏好进行论文研究，并寻求您的匿名意见。请抽出一点时间进行两个问题的调查：https://usc.qualtrics.com/jfe/form/SV_1Fyh6OhfPOoP5Xg。它要求您提供性别和一行文字。您的参与对于我的研究至关重要。
+感谢您的宝贵时间。
+热烈的问候，
+特里普蒂·塔库尔
+博士生
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/65556d9a48</guid>
+      <pubDate>Sun, 14 Jan 2024 02:39:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>认为这个解决方案值得追求吗？</title>
+      <link>https://feed.indiehackers.world/post/516bcf0b70</link>
+      <description><![CDATA[大家好，我正在研究一个针对个人痛点创建的解决方案。我非常感谢您的反馈来决定我是否应该继续努力。我目前正在使用该解决方案，并且效果很好。此处共享的视频链接中提供了解决方案的详细信息:)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/516bcf0b70</guid>
+      <pubDate>Sun, 14 Jan 2024 02:11:53 GMT</pubDate>
+    </item>
     <item>
       <title>帮助我为 SaaS 产品定价</title>
       <link>https://feed.indiehackers.world/post/839cf9c936</link>
@@ -136,30 +157,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b5fb24e363</guid>
       <pubDate>Sat, 13 Jan 2024 15:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过“公开讨论”建立一家价值 13 万美元的 MRR 设计机构</title>
-      <link>https://feed.indiehackers.world/post/fb95ca1f2a</link>
-      <description><![CDATA[
-&lt;小时/&gt;
-如果您喜欢这篇文章，当我发布更多这样的示例时，您可以此处收到通知:)&lt; /p&gt;
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/fb95ca1f2a</guid>
-      <pubDate>Sat, 13 Jan 2024 15:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作 Gmail 插件</title>
-      <link>https://feed.indiehackers.world/post/8162d62d45</link>
-      <description><![CDATA[
-已填写 OAuth 同意屏幕信息的 Google 云项目（此处未详细说明）
-可以向您的 Gmail 插件客户端代码提供数据的应用服务器（此处未详细说明）
-一个 Google 应用脚本项目（这是您将作为“Gmail 插件”发布的项目）
-您的附加代码
-
-首先，您需要创建一个应用程序脚本项目。导航此处创建一个。管理部署和上传附加代码的最简单方法是使用 clasp。要使用 clasp，请开启允许 CLI 工具的设置。然后安装 clasp 并运行 clasp login。登录后，运行 `clasp clone 
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8162d62d45</guid>
-      <pubDate>Sat, 13 Jan 2024 14:47:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

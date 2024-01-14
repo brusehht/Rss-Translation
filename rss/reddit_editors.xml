@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 14 Jan 2024 00:56:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 03:13:00 GMT</lastBuildDate>
     <item>
       <title>小型编辑网络和备份NAS</title>
       <link>https://www.reddit.com/r/editors/comments/195xr6v/small_editing_network_and_back_up_nas/</link>
@@ -32,13 +32,6 @@
       <description><![CDATA[所以我不久前安装了 McDSP 插件来测试 Premiere 的效果。最终没有注册，因为我不是音频专家。我删除了插件……或者我是这么想的。  由于某种原因，这个该死的插件找到了一种方法将自己隐藏在我的计算机中的某个位置（可能使用不同的名称）。我使用的是 MacBook Pro 2021、M1、Monterey 12.2.1、32GB RAM。  每当我启动 AVID (2023.12.0) 时，它都会运行每个 McDSP 插件，询问我是否要激活许可证。这让我抓狂，因为在所有提示中点击“退出”至少浪费了 10 分钟。在显示这些提示时，AVID 在底部显示“正在初始化插件：AMPIPluginDSM.avx”。我尝试过搜索它和扩展程序，但一无所获。  这些类型的插件应该被禁止。如果您要创建类似的东西，请创建一个卸载程序来配合它。  我已经从 Library/audio 文件夹中删除了插件。我查看了隐藏文件夹。我已经搜索了 Avid Media Composer 文件夹并删除了可能与其相关的任何内容。已卸载 ProTools。卸载并重新安装 Avid。这个该死的插件病毒不会消失。我确实在“安装”下的“Mac 系统报告”中找到了它，但不知道如何删除它。搜索 DSP 不会产生任何更多结果，因为我删除了所有相关内容。  如果有人找到了清除这些垃圾的方法，请帮助我。我使用的是 MacBook。   由   提交 /u/GradientRebel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/195ngdt/mcdsp_is_like_a_virus_cant_get_rid_of_it_and_now/</guid>
       <pubDate>Sat, 13 Jan 2024 12:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以由广告公司授权的在线视频和体育场内视频的库存音乐库</title>
-      <link>https://www.reddit.com/r/editors/comments/195m229/looking_for_stock_music_libraries_that_can_be/</link>
-      <description><![CDATA[首次呼叫者。寻找一些这方面的建议，因为我花了一段时间努力寻找高质量但也具有正确许可模型的东西。 我使用过 Epidemic Sounds 一段时间，最近使用过 Premium Beats，但许可证模型要么太贵，要么无法满足我们的需求。 我为当地运动队以及一些较大的澳大利亚和海外品牌制作 Hype Reels 和其他视频内容，因此有更多的目光关注我以确保其正确无误更重要的是，作为编辑套件中的一个人乐队。 任何帮助将不胜感激。   由   提交/u/Grammy1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/195m229/looking_for_stock_music_libraries_that_can_be/</guid>
-      <pubDate>Sat, 13 Jan 2024 11:32:01 GMT</pubDate>
     </item>
     <item>
       <title>电子商务和产品视频。有什么建议吗？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[一周中有很多天都很严肃。希望不是今天。希望今晚你不会加班到周末。 不过周五是为了好玩。在这里发布您最喜欢的有趣项目/模因/令人沮丧的故事。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/194tif3/funfrustration_friday_post_your_funnyfrustrating/</guid>
       <pubDate>Fri, 12 Jan 2024 12:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行 Media Composer 2023 时系统音频无法播放</title>
+      <link>https://www.reddit.com/r/editors/comments/194spfo/system_audio_wont_play_with_media_composer_2023/</link>
+      <description><![CDATA[好吧，这个问题绝对是一场噩梦，我相信没有解决方案，但值得在 Reddit 上尝试一下。 所以，基本上我被迫在我的家用计算机上升级到 Media Composer 2023，现在当我启动 Avid 时，系统声音到处都是。 我的系统非常简单：通常会有声音从直接插入声卡 (ASUS Xonar DGX) 的耳机或从单个显示器的集成扬声器输出。我可以通过 Windows 音频管理器或任何名称（右下角的小扬声器图标）轻松地在两者之间切换。 现在，当我启动 Avid 时，它会干扰我的声卡。运行 Avid 时： - 如果我的声卡是 Windows 音频管理器上选定的设备，并且 Avid 音频项目中的声音外围设备设置为“DirectSound”，则 Avid 和我的系统上都不会播放任何内容（例如 youtube 视频）。 - 如果我的显示器扬声器是 Windows 音频管理器上选定的设备，并且 Avid Audio Project 中的声音外围设备设置为“DirectSound”，则一切都会正常播放，两者都可以正常播放。进出 Avid（但这当然很糟糕，因为我的显示器的集成扬声器很糟糕，而且我需要能够使用我的耳机） - 如果 Avid 音频项目的声音外围设备设置为“ “Xonar DGX ASIO” （我的声卡），Avid 的音频将在我的耳机中播放，无论 Windows 音频管理器中选择的音频设备是什么。如果 Windows 音频管理器中选定的设备是我的声卡，则我的耳机中不会播放 AVID 之外的任何内容；如果所选设备是我的显示器扬声器，Avid 外部的音频将通过它正常播放，而 Avid 中的音频仍来自插入声卡的耳机。 图形和声卡驱动程序是已更新。 我只想让 Avid “关注”无论在 Windows 音频管理器中选择什么设备。 这个问题听起来并且看起来非常复杂，我不确定是否有解决方案。但相信奇迹是不需要任何代价的，所以我将永远感激能够帮助我解决这个问题的救世主。提前谢谢您。 ​ 我的系统 Win 10Intel i7 6700k32 gb ramNvidia GeForce 1660 6GBASUS XONAR DGX  ​   由   提交/u/pontiacband1t-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/194spfo/system_audio_wont_play_with_media_composer_2023/</guid>
+      <pubDate>Fri, 12 Jan 2024 11:17:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
