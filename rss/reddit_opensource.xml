@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 15 Jan 2024 09:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 12:22:44 GMT</lastBuildDate>
+    <item>
+      <title>如何构建开源PC？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1975wao/how_to_build_open_source_pc/</link>
+      <description><![CDATA[不是笔记本电脑！ 也许存在带有开源 BIOS、VRAM、SSD 或 HDD 等的主板？ ​   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1975wao/how_to_build_open_source_pc/</guid>
+      <pubDate>Mon, 15 Jan 2024 10:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>近视浏览器扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1975m3b/myopia_browser_extension/</link>
+      <description><![CDATA[我创造了世界上第一个近视散焦效果。它可以应用于任何网站，并且屏幕看起来好像屏幕距离眼睛看得太远了。它以一些棘手的方式使用 svg 过滤器。在此过程中，我发现了一个 Firefox 错误，它阻止我在 feColorMatrix(https://bugzilla.mozilla. org/show_bug.cgi?id=1873644) 该项目位于 https://github.com /refractify/myopic_defocus  将来我想：  添加 Firefox 支持（如果我可以解决该错误或它已修复）。  添加 Firefox 支持。 li&gt; 添加测试并提高性能 添加其他可能具有显着预防近视特性的效果。 对其使用进行更精细的控制。  这样做的原因是一些研究人员认为这样可以预防近视。  https://www.nature.com/articles/s41598-022-26323-7 https://www.sciencedirect.com/science/article/abs/pii/S0014483522002676?via%3Dihub &lt; /ul&gt; 我还不知道如何“引导”一个开源项目，不确定是否需要任何领导，欢迎任何贡献者和反馈。   由   提交/u/Refractify_io   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1975m3b/myopia_browser_extension/</guid>
+      <pubDate>Mon, 15 Jan 2024 10:25:18 GMT</pubDate>
+    </item>
     <item>
       <title>如何防止人们使用我的开源项目牟利？</title>
       <link>https://www.reddit.com/r/opensource/comments/1973fiz/how_can_i_prevent_people_from_using_my_opensource/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/aditya-bh01  /u/aditya-bh01 reddit.com/r/opensource/comments/195ep0n/does_using_free_open_source_llm_models_sentences/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/195ep0n/does_using_free_open_source_llm_models_sentences/</guid>
       <pubDate>Sat, 13 Jan 2024 03:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的起搏器和开源软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1955rxo/your_pacemaker_and_open_source_software/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1955rxo/your_pacemaker_and_open_source_software/</guid>
-      <pubDate>Fri, 12 Jan 2024 21:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>DIY Hashicorp 的 Terraform 云需要什么</title>
-      <link>https://www.reddit.com/r/opensource/comments/1950a16/what_it_takes_to_diy_hashicorps_terraform_cloud/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/utpalnadiger  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1950a16/what_it_takes_to_diy_hashicorps_terraform_cloud/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:15:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
