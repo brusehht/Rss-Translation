@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 15 Jan 2024 18:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 21:12:25 GMT</lastBuildDate>
+    <item>
+      <title>延迟的开源出版物成为开源竞争对手</title>
+      <link>https://www.reddit.com/r/opensource/comments/197ikp7/delayed_open_source_publication_emerges_as_open/</link>
+      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/197ikp7/delayed_open_source_publication_emerges_as_open/</guid>
+      <pubDate>Mon, 15 Jan 2024 20:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是 Apache、GPL 和 AGPL 许可证 – 误解、谎言、事实</title>
+      <link>https://www.reddit.com/r/opensource/comments/197gw70/what_are_apache_gpl_and_agpl_licenses/</link>
+      <description><![CDATA[围绕许可证存在很多误解和混乱，导致人们做出错误的决定。当我们将 OpenObserve 的许可从 Apache 更改为 AGPL 时，就是这种情况。 在与几个人交谈、澄清和指导后，我围绕它写了一篇博客。 我也尝试过就他们应该在项目中使用哪些许可证提供一些指导。这是一个链接。 https://openobserve.ai/blog/what-are-apache-gpl-and-agpl-licenses-and-why-openobserve-moved-from-apache-to-agpl/&lt; /a&gt; 希望这对大家有帮助。 干杯！   由   提交/u/the_ml_guy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/197gw70/what_are_apache_gpl_and_agpl_licenses/</guid>
+      <pubDate>Mon, 15 Jan 2024 19:07:43 GMT</pubDate>
+    </item>
     <item>
       <title>Smart Array Reader - 使用 HP Smart Array Reader 创建 RAID 阵列的程序</title>
       <link>https://www.reddit.com/r/opensource/comments/197fgzm/smart_array_reader_program_that_raid_arrays/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/wass08  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/196aggk/comparing_the_best_free_opensource_backend_as_a/</guid>
       <pubDate>Sun, 14 Jan 2024 07:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由和开源软件许可证和版权声明的有效期是多少年？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1960pj1/how_many_decades_are_foss_licenses_and_copyright/</link>
-      <description><![CDATA[在美国，版权最终会过期。我认为他们通常会在 70、95 或 120 年后这样做，具体取决于不同的资格。那么各种 FOSS 许可证（Apache、GPL、GPLv3、MIT...等）的条件会在版权到期后被删除，还是每次提交都只是重置时钟？   由   提交 /u/brianddk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1960pj1/how_many_decades_are_foss_licenses_and_copyright/</guid>
-      <pubDate>Sat, 13 Jan 2024 22:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>已有 9 年历史的开源 Android 漫画/网络漫画/漫画阅读器项目今天结束</title>
-      <link>https://www.reddit.com/r/opensource/comments/195ziuh/9_year_old_open_source_android_mangawebtooncomic/</link>
-      <description><![CDATA[       由   提交/u/TriPolarBear12   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/195ziuh/9_year_old_open_source_android_mangawebtooncomic/</guid>
-      <pubDate>Sat, 13 Jan 2024 22:05:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
