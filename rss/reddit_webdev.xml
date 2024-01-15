@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 15:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 18:15:02 GMT</lastBuildDate>
+    <item>
+      <title>样式在 Android 中应用不正确 (capacitorjs)</title>
+      <link>https://www.reddit.com/r/webdev/comments/197f623/styles_not_applying_correctly_in_android/</link>
+      <description><![CDATA[我有一个用 React 构建的 Web 应用程序。我使用电容器将其编译到移动、Android 和 iOS 中。问题是，当在 Android 中打开应用程序时，某些元素的位置不正确，其余的都很完美，颜色、布局只是一些属性无法正常工作。我使用了 dvw，但似乎无法正常工作。 我该怎么办？   由   提交/u/Compliance-Cup947    reddit.com/r/webdev/comments/197f623/styles_not_applying_ Correctly_in_android/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197f623/styles_not_applying_correctly_in_android/</guid>
+      <pubDate>Mon, 15 Jan 2024 18:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Next.js App Router 中的layout.tsx 上使用 Edge 运行时时出错</title>
+      <link>https://www.reddit.com/r/webdev/comments/197eyd4/error_when_using_edge_runtime_on_layouttsx_in/</link>
+      <description><![CDATA[大家好 我希望我的 Next.js 应用程序位于 Edge 运行时上，以便我可以将其部署到 Cloudflare Pages。我按照 说明 放置这段代码 export const runtime = &#39;edge&#39; 在layout.tsx上，所以它看起来像这样：  export const runtime = &#39;edge&#39; import { Inter } from &#39;next/font/google&#39; import { Providers } from &#39;./providers&#39;;从 &#39;./components/Header&#39; 导入标头；从 &#39;./components/Footer&#39; 导入页脚；从“../lang/en”导入语言；导入 &#39;./globals.css&#39; 从 &#39;next&#39; 导入 { 元数据 }; const { 标题，描述 } = lang; const inter = Inter({ 子集: [&#39;latin&#39;] }) 导出 const 元数据: 元数据 = { 标题: `${title} | ${process.env.NEXT_PUBLIC_NAME}`, 描述 };导出默认函数 RootLayout({ Children }) { return (     { child}&lt;/main&gt; &lt;页脚/&gt;&lt;/Providers&gt; &lt;/body&gt; &lt;/html&gt;) }  providers.tsx 看起来像这样：&lt; /p&gt; &#39;use client&#39; import { NextUIProvider } from &#39;@nextui-org/react&#39; import { useRouter } from &#39;next/navigation&#39; 导出函数 Providers({ Children }) { const router = useRouter( ）； return (  {children}  ) }  该应用正在使用 NextUI 样式库。我尝试注释除 html 标记之外的整个布局.tsx，但仍然让代码保持原样，但我仍然收到错误＆quot; ; ./node_modules/@react-aria/focus/dist/import.mjs 尝试导入错误：“useRef”未从“react”导出（导入为“$6nfFC$useRef”）。 ” 有人知道如何解决这个问题吗？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197eyd4/error_when_using_edge_runtime_on_layouttsx_in/</guid>
+      <pubDate>Mon, 15 Jan 2024 17:53:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有构建学习管理系统 (LMS) 经验的人员？寻找一般建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/197e2if/people_with_experience_building_a_learning/</link>
+      <description><![CDATA[嘿， 我可能很快就会为我的公司构建一个 LMS，我正在寻找一些有关工具/技术的建议。我不会从头开始开发一些东西，所以我正在寻找一个框架或 WordPress 插件。  它针对的是使用我们产品（SAAS）的公司的客户。所以自然不同的课程，不同的学习科目，测试自己，SSO，证书/成就。  我希望这里的一些人有构建类似东西的经验。到目前为止，最好的选择似乎是一些高级 WordPress 插件。例如 Learndash LMS 或 Masteriyo LMS。有人尝试过其中一种或可以推荐其他东西吗？   由   提交 /u/OrcCyborg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197e2if/people_with_experience_building_a_learning/</guid>
+      <pubDate>Mon, 15 Jan 2024 17:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名网络开发者，你实际上是做什么的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/197e09u/what_do_you_actually_do_as_a_web_dev/</link>
+      <description><![CDATA[我非常喜欢 Web 开发并且已经开始学习它。我还是个新手，不知道该做什么。我想到了一些网站创意，但后来我意识到它们可以使用 Shopify 等工具来制作。我不喜欢使用这些工具，也不想在未来的工作中使用它们。人们说，要想成就一番事业，你需要建立大型网站或应用程序，例如 Twitter 或 Reddit。但我想不出有什么新的东西可以做。我不想开创自己的事业。 所以，我的问题是，网络开发人员做什么？他们是否根据客户的需求制作网站、应用程序或软件？或者他们自己想出一些伟大的想法并创造出来？我只是想了解 Web 开发人员的日常工作是什么样的。   由   提交 /u/jokers_chair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197e09u/what_do_you_actually_do_as_a_web_dev/</guid>
+      <pubDate>Mon, 15 Jan 2024 17:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何机器上的 Spring 启动</title>
+      <link>https://www.reddit.com/r/webdev/comments/197dpmt/spring_boot_on_any_machine/</link>
+      <description><![CDATA[所以我想构建一个 React 前端和 Spring Boot 后端 Web 应用程序，如果后端 Web 服务器可以在任何操作系统上运行，我希望它。我知道 jvm 是为在任何机器上运行而构建的，但我想确认不需要 docker 或任何其他配置来让服务器在任何操作系统上运行。提前致谢！   由   提交 /u/PleaseShowerUSmell   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197dpmt/spring_boot_on_any_machine/</guid>
+      <pubDate>Mon, 15 Jan 2024 17:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道我在哪里可以找到提供与此类似的东西的反应库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/197cqir/anyone_know_where_i_can_find_a_react_library_that/</link>
+      <description><![CDATA[    /u/Cute-Potato-U   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197cqir/anyone_know_where_i_can_find_a_react_library_that/</guid>
+      <pubDate>Mon, 15 Jan 2024 16:24:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的城市 API ？</title>
+      <link>https://www.reddit.com/r/webdev/comments/197cjqc/a_free_cities_api/</link>
+      <description><![CDATA[大家好，  招聘测试的一部分，我被要求开发一个简单的网络应用程序，该应用程序将获取城市和他们的详细信息（位置、人口、温度、语言……），他们没有给我一个可以使用的 API，但他们说我可以在网络上找到一个免费的 API，是否有人偶然发现了一个没有任何令牌的免费 API，或者我可以使用的键，最好这个 API 允许按城市名称搜索（这样我就可以执行自动完成功能）。 提前感谢大家。   由   提交 /u/night_killer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197cjqc/a_free_cities_api/</guid>
+      <pubDate>Mon, 15 Jan 2024 16:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些面试问题最适合淘汰候选人。</title>
+      <link>https://www.reddit.com/r/webdev/comments/197cj43/what_interview_questions_are_best_to_weed_out/</link>
+      <description><![CDATA[你好👋 因此，在我的 JavaScript 课上，我们在第一周收到了一个简单的嘶嘶声问题作为热身。本学期。我的老师说这是一个流行的面试问题，用于淘汰很大一部分申请者。我知道 Fizzuzz 是一个非常受欢迎的问题，但我只是想知道是否还有其他真正受欢迎的问题，比如面试过程中使用的问题？或者您是否发现任何突出的特定问题？ 为了做得更好，我目前正在研究 leetcode 上最受欢迎的 100 个问题。   由   提交 /u/he11mager   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197cj43/what_interview_questions_are_best_to_weed_out/</guid>
+      <pubDate>Mon, 15 Jan 2024 16:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会记下你所学的内容还是只是将其牢记在心？</title>
+      <link>https://www.reddit.com/r/webdev/comments/197b99c/do_you_make_notes_of_what_you_study_or_just_keep/</link>
+      <description><![CDATA[标题本身差不多，我做了html，现在跳到了css。我记下了 html，那么我是否也应该记下 css，否则浪费时间？   由   提交 /u/Altruistic-Radish-33   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197b99c/do_you_make_notes_of_what_you_study_or_just_keep/</guid>
+      <pubDate>Mon, 15 Jan 2024 15:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Html 和 CSS 文档</title>
+      <link>https://www.reddit.com/r/webdev/comments/197b8du/html_and_css_documentation/</link>
+      <description><![CDATA[大家好， 我是一名热衷于 Web 开发领域的初学者。到目前为止，html 和 css 语法似乎很容易学习。有没有关于它的语法的官方文档？我似乎找不到任何东西。我如何参考在我自己的代码中使用的语法和命令？只是为了逐案搜索，或者是否有相同的良好资源？ 另一方面，我很好奇 VScode 自动完成功能如何找到语法的含义？是否有一个位置可以从中提取语法含义，我也可以自己看一下？ 请提供建议。 谢谢！   由   提交 /u/asd1234red   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197b8du/html_and_css_documentation/</guid>
+      <pubDate>Mon, 15 Jan 2024 15:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>LETTERSET，一款我受拼字游戏启发而制作的日常文字游戏。非常感谢一些反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/197b3ww/letterset_a_daily_word_game_i_made_inspired_by/</link>
+      <description><![CDATA[ 由   提交/u/JeffBritches  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197b3ww/letterset_a_daily_word_game_i_made_inspired_by/</guid>
+      <pubDate>Mon, 15 Jan 2024 15:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>对于您的投资组合网站来说，Headless CMS 真的值得吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/197ah9c/is_headless_cms_really_worth_it_for_your/</link>
@@ -27,88 +104,11 @@
       <pubDate>Mon, 15 Jan 2024 14:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>CSS 演示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1979e7w/css_demos/</link>
-      <description><![CDATA[嗨，我看到了上一篇关于 css 困难的文章，想分享一些我遇到的有用指南以及我所做的一些演示。&lt; /p&gt; 对于Flexbox，我觉得作为开发者来说它更符合逻辑，更容易理解，但作为设计师应用它有一些困难。因此，我制作了我阅读的本指南的 Figma 版本，以展示可以使用自动布局功能在 Figma 中实现的一些属性。 CSS Flexbox  &lt; li&gt;https://css-tricks.com/snippets/css/a-guide-to -flexbox/ https://www.figma.com/community/ file/1284819663700490015/flexbox  对于CSS网格，我觉得作为开发人员来说这更难实现，因为网格在用于设计网站时只是指导方针，例如 12/8/4 列引导线。因此，我制作了一个小的 index.html 文件来展示代码如何转换为网站。  CSS 网格  https://css-tricks.com/snippets/css/complete-guide-grid/#aa-properties-for-the-parentgrid-container https://www.figma.com/community/file/1328722631054024000/css-grids  https://github.com/Its-Js/css-grid/tree /main  我对这个网格有点懒，但理想情况下我会实现 css 断点以在 12/8/4 列之间切换，并且还具有Figma 中完成的相应框架展示了屏幕尺寸/设备之间网格布局的变化。 :v  ​ 希望通过自己实际修改代码，将有助于更好或更快地理解这些概念。    由   提交/u/its-js   /u/its-js  reddit.com/r/webdev/comments/1979e7w/css_demos/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1979e7w/css_demos/</guid>
-      <pubDate>Mon, 15 Jan 2024 14:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我真的厌倦了 YouTube 上的广告</title>
-      <link>https://www.reddit.com/r/webdev/comments/197902w/i_was_really_tired_of_ads_on_youtube/</link>
-      <description><![CDATA[所以我昨天做了这个：https://github .com/jonathanschoonbroodt/fuck-ads   由   提交 /u/avreldotjs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/197902w/i_was_really_tired_of_ads_on_youtube/</guid>
-      <pubDate>Mon, 15 Jan 2024 13:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>区分后端和前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1978nru/distinguishing_backend_from_frontend/</link>
-      <description><![CDATA[技术堆栈：JS、node.js、express、HTML、pug 模板 我用 vanilla JS 制作了一个 Web 应用程序所有内容都在一个文件中，没有单独的后端。因此，在学习 Node 和 Express 之后，我一直在修改它以拥有单独的服务器端和客户端代码。我无法决定如何决定将哪些功能保留在哪里？目前，我已经进行了几个来自后端的 API 调用。这应该是整个封装的事情，我必须将所有进程放在后端还是如何？ 有关更多信息，我有一个函数（比如 A）将日期发送到后端- end 然后接收日期特定数据以进行可视化。另一个函数（比如 B）在鼠标单击时被调用，该函数调用运行一个循环，调用函数 A 并递增日期来创建某种动画。我应该将其某些功能移至服务器还是将其保留在前端？ ​   由   提交/u/orangeskybluesun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1978nru/distinguishing_backend_from_frontend/</guid>
-      <pubDate>Mon, 15 Jan 2024 13:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>普通 JS 文件组织</title>
-      <link>https://www.reddit.com/r/webdev/comments/1978dhk/vanilla_js_file_organization/</link>
-      <description><![CDATA[嘿， 我已经在前端（HTML、CSS、vanilla JS、React Native 和其他 bs）到后端（node.js、express、MongoDB、SQL、PHP 等），并且始终回归到静态网站的简单常规 HTML、CSS 和 vanilla JS。我从来都不是像 React 这样的框架的粉丝，因为我觉得不需要它们。现在我使用上述技术为客户创建自定义主题，这一切都令人惊奇，但最近我注意到我的 JS 文件（我使用一个是因为页面从来没有真正需要大量 JS）变得又大又乱。这是一个函数上一个函数上一个函数上的一个函数。我经常开始迷失一切的位置，并且想知道如何修复它。是时候组件化我的代码（即使用 React）还是有更好的方法来组织一切？也许开始研究不同的模式？ 代码示例： const mobileNavigation = () =&gt; {...} 移动导航(); const headerPullDown = () =&gt;; {...} headerPullDown(); const getSortType = () =&gt;; {...} const getTheObjectAmount = () =&gt;; {...} const getEstateFilters = () =&gt;; {...} const ajaxFetch = (body, responseFunc, dataFunc) =&gt; {...} const EstateSearchSubmit = () =&gt;; {...} EstateSearchSubmit(); ... 1k 行  ​   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1978dhk/vanilla_js_file_organization/</guid>
-      <pubDate>Mon, 15 Jan 2024 13:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为客户开发电子商务网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1977rme/developing_an_ecommerce_website_for_a_client/</link>
-      <description><![CDATA[我代表一位朋友发帖，但他没有足够成熟的 Reddit 帐户，无法在此子帖子中发帖。 “我被要求为某人开发电子商务网站。这是我第一次收到这样的请求，所以有一些关于如何处理这种情况的问题。如果有人熟悉这个过程，我很乐意与您交谈。” - 我认为他的意思是私人消息/DM “使用 WordPress 是一个好主意吗？” 如果是，我是否需要教客户如何使用 Wordpress 来管理她商店，还是我应该更新它（例如向商店添加新商品）？ 设置付款时，您的银行卡详细信息是必需的。我是否会向客户询问这个问题（我认为这个问题有点个人化），以便我可以将其连接到她的银行？ 如果客户要自行管理网站，那么然后教她如何使用 Wordpress？” “如果 Wordpress 不是一个好主意，那么其他流行的选择是什么？我会编程，所以我不介意不必使用网络构建器，但我宁愿避免使用自己的代码建立商店所带来的复杂情况；关于这个主题，我没有要问的确切问题列表，所以我更愿意直接私信。” 他的帐户 ⬇️ u/Jumpy-Replacement-76   由   提交 /u/SuspiciousPipe9589   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1977rme/developing_an_ecommerce_website_for_a_client/</guid>
-      <pubDate>Mon, 15 Jan 2024 12:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>“按需杂货”应用程序的预算范围应该是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/197790z/what_should_my_budget_range_be_for_a_on_demand/</link>
-      <description><![CDATA[只是对我的一个想法进行一些研究。像 Getir、Flink、Gorillas 这样的应用程序的开发成本是多少？我说的是一个非常简单的版本，其中没有快递跟踪或任何其他花哨的东西。我首先寻求的是，每当客户订购时，他们的信息都会传到我们这边，并且我们可以尽快履行他们的订单。此外，库存跟踪是否会大幅增加开发成本？感谢您的帮助   由   提交 /u/NoahV2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/197790z/what_should_my_budget_range_be_for_a_on_demand/</guid>
-      <pubDate>Mon, 15 Jan 2024 12:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何从网站中获利？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1976w1j/how_do_i_profit_from_a_website/</link>
-      <description><![CDATA[我今年 17 岁，想要支付自己的费用，例如房租。我对 HTML 和 CSS 有一点了解，主要是从 GitHub 或任何其他开源代码定制网站模板。起初我想创办自己的动漫和电影流媒体和下载网站。我只是想知道我是否可以从中获利至少 8 美元，或者我应该创造其他东西吗？另外，我会使用免费托管。   由   提交/u/kingsbane89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1976w1j/how_do_i_profit_from_a_website/</guid>
-      <pubDate>Mon, 15 Jan 2024 11:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站设计 - 从草图到网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1976nf9/website_design_from_sketch_to_website/</link>
-      <description><![CDATA[       大家好！ 我希望有人能帮助我开始一个我长期以来一直想开始的项目，但我做不到为我的草图设计找到一个好的模板。我已经成功地使用 AI 图像重新创建了草图。 我知道 HTML、CSS 和其他语言来构建网站，但我喜欢有一个起始模板，我可以在其中调整内容并创建我想要的网站。我也尝试过在 Illustrator 中绘制设计草图，但将其导出到 html/css 页面看起来很困难。 最好的做法是什么？从头开始编程还是使用默认模板？欢迎提出所有建议！ 草图： ​ https://preview.redd.it/y1ost6qqalcc1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=2f24aff086c00928 27079eb3411bb44b0f112807 人工智能： https://preview.redd.it/4dx5bzacalcc1.jpg?width=1077&amp;format=pjpg&amp;auto=webp&amp;s=ec932bef7808e374262ab1474ad242cd9a5361aa &lt;!-- SC_ON - -&gt;  由   提交/u/Mrdeeply2020   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1976nf9/website_design_from_sketch_to_website/</guid>
-      <pubDate>Mon, 15 Jan 2024 11:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发需要了解和掌握哪些基本概念？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1976aze/what_are_the_essentials_concepts_to_know_and/</link>
-      <description><![CDATA[我决定不再浪费时间了。 最近我一直在努力提高我的知识和技能，但我感觉自己身处黑洞之中，不知道是应该继续学习JS、CSS、HTML等原始语言，还是学习框架，还是回去学习更多理论的东西？ &lt; p&gt;如果您能告诉我我现在应该知道的基础知识和概念，我将非常感激。   由   提交 /u/DonCABASH   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1976aze/what_are_the_essentials_concepts_to_know_and/</guid>
-      <pubDate>Mon, 15 Jan 2024 11:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字商业机构的模拟生成器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19769b5/mock_up_generator_for_digital_business_agency/</link>
-      <description><![CDATA[我正在寻找商业促销材料模型生成器的解决方案，即名片、小册子、网页等。 这其中的复杂性是什么？对于 Wordpress 网站来说，这大概是一个大概的数字。 我们希望拥有多个模板，其中包含可供访问者编辑的徽标、颜色、文案等。此外，还提供可供网页选择的功能选项。   由   提交 /u/Mobile-Sufficient   /u/Mobile-Sufficient reddit.com/r/webdev/comments/19769b5/mock_up_generator_for_digital_business_agency/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19769b5/mock_up_generator_for_digital_business_agency/</guid>
-      <pubDate>Mon, 15 Jan 2024 11:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何主要 Web 平台提供用于在第三方页面上嵌入功能的 Web 组件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19767zx/do_any_major_web_platforms_offer_web_components/</link>
-      <description><![CDATA[Web 组件现在在主要浏览器中得到了很好的支持，因此非常有用。鉴于此，为什么它们不更多地用于嵌入功能，例如共享面板、视频嵌入、地图、支付流程等？ Web 组件似乎也是嵌入其他项目（例如 Hubspot 小部件、支持聊天面板等）的自然方式。 但事实并非如此，YouTube 和 Google 地图的默认 Web 集成方法以及几乎所有内容仍然使用 iframe或纯 JavaScript。更改为 Web 组件，例如&lt;谷歌地图&gt;和 将在主机页面上实现更清晰的集成，并能够将数据输入和输出组件。 有人知道为什么主要网络平台不提供此功能吗？    由   提交 /u/acleanpairofheels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19767zx/do_any_major_web_platforms_offer_web_components/</guid>
-      <pubDate>Mon, 15 Jan 2024 11:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web开发这么简单吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1975w4r/is_web_development_this_easy/</link>
-      <description><![CDATA[所以我是一名自学成才的 HTML CSS js 程序员（编程了大约一年半），我正在为自己制作一个网站。  网络很简单而且很小。但是，我想要一个带有输入选项的选择器，在用户选择他的选项后，它将显示另一个意见（针对不同的类别，为了使其简单）。 处理选择后，我希望将信息发送到我的电子邮件（因为我要发送电子邮件，这很简单，而且只适合我）。 我解决了所有条件，将来我想添加选择器的付款选项。 我的问题是：1）制作选择器真的那么简单吗，因为我创建了一个可以工作但非常简单的代码，我预计它会很困难 代码的工作原理如下：我有 2-4 ;和选择器页面中的输入，我有 4 个选择器页面。 当单击一个 div 时，它会将其布尔值转换为 true（如果需要，将其他 div 的布尔值转换为 false），当 boolean = true 时，它将添加“选项 1”到 emailBody， 然后我有一个来自 smtpjs.com 的 smtp 服务器，发送到我的电子邮件的电子邮件正文是 emailBody + 输入值（因此我可以看到用户在中选择的所有选项和可选输入）我的电子邮件） 它正在按照我想要的方式工作，但我觉得我可能会错过一些东西。 那么我很好，因为它工作得很好，或者我应该重建它？ 2）您对实施付款选项有何建议 我想设置我选择的价格，费用越低越好。 我考虑过实施 PayPal，因为我将在国际上工作，而且我来自一个拥有自己货币的国家，我觉得 PayPal 将使在其他国家/地区付款变得更容易。 我还希望付款安全 提前致谢。   由   提交 /u/MarekBeran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1975w4r/is_web_development_this_easy/</guid>
-      <pubDate>Mon, 15 Jan 2024 10:44:22 GMT</pubDate>
+      <title>您认为 GCP 是一家面向所有 Web 开发领域的重要云提供商吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19752ev/do_you_consider_gcp_to_be_a_serious_cloud/</link>
+      <description><![CDATA[我知道就市场份额而言，GCP 远远落后于 AWS 和 Azure，但您会在您的项目中考虑使用它吗？ 如果是/不是，为什么？ 我的背景是机器学习，我们倾向于选择 AWS、Azure，只是因为生态系统似乎更成熟（也有隐私保证）。 &lt; !-- SC_ON --&gt;  由   提交 /u/Inquation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19752ev/do_you_consider_gcp_to_be_a_serious_cloud/</guid>
+      <pubDate>Mon, 15 Jan 2024 09:48:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
