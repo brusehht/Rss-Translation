@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 14 Jan 2024 15:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 03:14:32 GMT</lastBuildDate>
+    <item>
+      <title>我和我的朋友制作了一个天气网站/应用程序！</title>
+      <link>https://www.reddit.com/r/opensource/comments/196sx73/me_and_my_friend_made_a_weather_site_app/</link>
+      <description><![CDATA[适用于 Android 和 Android 系统网络。  https://github.com/colebolebole/pyweather PyWeather，是一个免费的&amp;开源软件，使用 OpenWeatherMap API 从用户输入中检索天气信息。 花了一点时间制作，希望这有用！ &lt;!-- SC_ON - -&gt;  由   提交/u/Logical-Cod8109  /u/Logical-Cod8109 reddit.com/r/opensource/comments/196sx73/me_and_my_friend_made_a_weather_site_app/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/196sx73/me_and_my_friend_made_a_weather_site_app/</guid>
+      <pubDate>Sun, 14 Jan 2024 22:56:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源复式记账系统的进展</title>
+      <link>https://www.reddit.com/r/opensource/comments/196qr0y/progress_on_open_source_double_entry_accounting/</link>
+      <description><![CDATA[之前在这里提到了我最初的想法 - 我正在编写一个开源会计分类账，它可以理解各个会计科目表，可以生成财务报告，并且可以在数据中移植格式。 2024 年初的更新： - 简化的数据结构，分为更小的核心和面向用户的类，直接由命令行使用 - 在 Python 中处理任何带有状态的东西都是有风险的，很多不必要的复杂性必须消失 - 现在可以在 https://abacus.streamlit.app/ 原始链接： ttps://www.reddit .com/r/opensource/s/6cft1qMBrz   由   提交/u/iamevpo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/196qr0y/progress_on_open_source_double_entry_accounting/</guid>
+      <pubDate>Sun, 14 Jan 2024 21:27:25 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Smithay 的 Wayland 合成器列表（用 Rust 编写 Wayland 合成器的库）</title>
       <link>https://www.reddit.com/r/opensource/comments/196fue5/a_list_of_wayland_compositors_using_smithay_a/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>刚刚发现微软已经选择了我的开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/195mdwj/just_discovered_microsoft_has_picked_up_my/</link>
-      <description><![CDATA[https://imgur.com/a/I2UOCAJ  哈哈，浏览一些开源新闻时无意中发现的。老实说，它的 UI 可能因其独特的丑陋而赢得“最有可能在人群中被发现”的奖项 😅  你是否曾经发现自己处于一个主要参与者采用你的开源作品的境地？分享你的故事！    由   提交 /u/livDot   [链接] [评论]]]></description>
+      <description><![CDATA[https://imgur.com/a/I2UOCAJ  哈哈，浏览一些开源新闻时无意中发现的。老实说，它的 UI 可能因其独特的丑陋而赢得“最有可能在人群中被发现”的奖项 😅  您是否曾经遇到过一个主要参与者采用您的开源作品的情况？分享你的故事！    由   提交 /u/livDot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/195mdwj/just_discovered_microsoft_has_picked_up_my/</guid>
       <pubDate>Sat, 13 Jan 2024 11:54:08 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨， 我正在寻找一个开源预订/安排 API，它可以让我创建约会、设置可用性等对于多个用户，我不需要任何太复杂或令人费解的东西，只需要简单的功能，我会写其余的。 我搜索了一下，但没有想出太多，大多数我在 Github 上找到的项目没有公开 API，主要是用 PHP/Java 编写的未维护的项目，我不知道这些语言，因此无法真正用它们编写 API（如果你知道用 JS/ 编写的此类项目） Python 或潜在的 Go 请让我知道，总比没有好） 房间里的大象 cal.com 是用以下语言编写的JS 并公开一个 API，但如果我做对了，需要一个企业许可证才能使用它，仅为本地测试提供测试许可证密钥，我想一种选择是通过自己编写我想要的端点来进行逆向工程。  提前致谢。   由   提交 /u/Heroe-D   /u/Heroe-D reddit.com/r/opensource/comments/194z2ak/do_you_know_of_any_open_source_bookingscheduling/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/194z2ak/do_you_know_of_any_open_source_bookingscheduling/</guid>
       <pubDate>Fri, 12 Jan 2024 16:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个核心的分布式线程文档数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/194umwk/a_distributed_threadpercore_document_database/</link>
-      <description><![CDATA[   /u/brbee07  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/194umwk/a_distributed_threadpercore_document_database/</guid>
-      <pubDate>Fri, 12 Jan 2024 13:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望有哪些 DevTool 存在，但实际上却没有？</title>
-      <link>https://www.reddit.com/r/opensource/comments/194ugw3/what_devtool_do_you_wish_existed_but_doesnt/</link>
-      <description><![CDATA[ 由   提交 /u/hopeirememberthisid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/194ugw3/what_devtool_do_you_wish_existed_but_doesnt/</guid>
-      <pubDate>Fri, 12 Jan 2024 12:59:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 00:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 03:14:25 GMT</lastBuildDate>
+    <item>
+      <title>我应该部署在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/196xmj5/where_should_i_deploy/</link>
+      <description><![CDATA[如果我的技术堆栈包含 Typescript、Python 和 Rust，并且如果我是因为 DX 而没有使用过 AWS 或 Azure 的初学者，并且如果我关心的是成本效益，我应该在哪里部署具有类似于 Vercel 或 Netlify 的 DX 的 Web 应用程序。 查看民意调查   由   提交 /u/pruthivithejan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/196xmj5/where_should_i_deploy/</guid>
+      <pubDate>Mon, 15 Jan 2024 02:33:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些有关 PWA 项目的后端建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/196xm3w/need_some_backend_advice_for_a_pwa_project/</link>
+      <description><![CDATA[大家好！ 我对 Web 开发还很陌生，已经从事了大约 10 个月了。我正在为公共利益开发 PWA（渐进式 Web 应用程序），并且我决定使用 React 作为前端。但后端是我有点卡住的地方。 在我过去的项目中，我使用过一些基本的 Node.js 或仅使用 Supabase 管理数据库和 API。不过这个项目稍微复杂一些，涉及到在线聊天、支付处理、日常群组签到等功能。 我一直在考虑使用像Drupal这样的CMS，主要是因为我对我的后端技能还没有信心。但我以前从未使用过 Drupal，也不了解任何 PHP，这让我担心学习曲线陡峭，并且可能会超出我的能力范围。 因此，我正在寻求一些帮助建议。我应该坚持使用我所知道的东西，比如 Node.js 或 Supabase，还是应该尝试一下 Drupal？由于这不是一个营利性项目，成本对我来说是一个重要因素，这就是为什么我对使用 Supabase 犹豫不决。另外，如果有任何其他技术堆栈或工具可能更适合此类项目，我很想听听它们。 提前致谢！ &lt; /div&gt;  由   提交/u/dllmwl08  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/196xm3w/need_some_backend_advice_for_a_pwa_project/</guid>
+      <pubDate>Mon, 15 Jan 2024 02:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>依赖关系属于版本控制</title>
+      <link>https://www.reddit.com/r/webdev/comments/196xbnn/dependencies_belong_in_version_control/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/196xbnn/dependencies_belong_in_version_control/</guid>
+      <pubDate>Mon, 15 Jan 2024 02:18:42 GMT</pubDate>
+    </item>
     <item>
       <title>建立一个小型企业网页可以要多少钱？</title>
       <link>https://www.reddit.com/r/webdev/comments/196v2cj/how_much_money_i_can_ask_for_a_small_business/</link>
@@ -15,14 +36,14 @@
     <item>
       <title>从 CMS 工作过渡到“真正的”Web 开发有多常见？</title>
       <link>https://www.reddit.com/r/webdev/comments/196uz8m/how_common_is_it_to_transition_from_cms_work_to/</link>
-      <description><![CDATA[我接受了 Kentico Software 的采访，他们制作了一个类似于 Wordpress 的 CMS 系统。我不确定他们是否会让我使用相同的系统，或者他们是否希望我以更典型的 Web 开发方式编写解决方案（显然我更喜欢后者，因为我是一个自学成才的开发人员，试图闯入真正的领域）全栈开发）。 只是想知道如果事实证明 CMS 更重，我是否会自我分类，自上次工作以来我已经有 1 年左右的差距，我担心承诺一个不相关的职位会占用我寻找“真正的”职位的时间。编程工作   由   提交/u/cheezywafflez  [链接] [评论]]]></description>
+      <description><![CDATA[我接受了 Kentico Software 的采访，他们制作了一个类似于 Wordpress 的 CMS。我不确定他们是否会让我使用相同的系统，或者他们是否希望我以更典型的 Web 开发方式编写解决方案（显然我更喜欢后者，因为我是一个自学成才的开发人员，试图闯入真正的领域）全栈开发）。 只是想知道如果事实证明 CMS 更重，我是否会自我分类，自上次工作以来，我已经有 1 年左右的差距，我担心承诺一个不相关的职位会占用我寻找“真正的”职位的时间。编程工作   由   提交/u/cheezywafflez  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/196uz8m/how_common_is_it_to_transition_from_cms_work_to/</guid>
       <pubDate>Mon, 15 Jan 2024 00:25:48 GMT</pubDate>
     </item>
     <item>
       <title>如何创建与此类似的摄影师作品集？</title>
       <link>https://www.reddit.com/r/webdev/comments/196u51m/how_do_i_create_a_photographer_portfolio_similar/</link>
-      <description><![CDATA[摄影师网站 尝试建立并运行我的摄影师网站。当前使用 Square Space   由   提交 /u/Vatimus   [链接] [评论]]]></description>
+      <description><![CDATA[摄影师网站 尝试让我的摄影师网站正常运行。当前使用 Square Space   由   提交 /u/Vatimus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/196u51m/how_do_i_create_a_photographer_portfolio_similar/</guid>
       <pubDate>Sun, 14 Jan 2024 23:48:47 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>让电子邮件域在 Netlify 部署的网页上运行非常困难</title>
       <link>https://www.reddit.com/r/webdev/comments/196rqqw/having_a_helluva_time_getting_email_domain_to/</link>
-      <description><![CDATA[好吧，首先我希望我来对地方了这个问题。 昨天我建立了一个个人投资组合网站反应js。我创建了一个时髦的联系表单，然后通过 Netlify 部署了该网页。  超级简单，效果很好，我还从他们那里为该网站购买了一个自定义域名。 所以，最后一步，我需要我的联系表单页面工作。它的目的只是向我发送一封电子邮件。  我浏览了 Netlify 的文档 - 他们不提供完整的电子邮件服务，但“您可以自己选择一项服务，然后在 Netlify 上设置该电子邮件提供商所需的 DNS 记录。” 所以我这样做了，但仅此而已据我所知，因为： Netlify 允许您将 Postmark、Sendgrid 或 Mailgun 作为电子邮件“提供商”连接，但问题是 Postmark 要求您使用私人电子邮件进行注册领域。问题是，我现在拥有 @my-website 电子邮件域，但我没有注册任何实际的电子邮件地址。看起来，我需要 Postmark 才能创建私人地址，但我需要一个私人地址才能向 Postmark 注册。 那么我到底该怎么做呢？电子邮件服务器/网络/网络的东西总是让我感到困惑。 如果有人能回答这个问题，也许你可以准确地解释所有这些应该如何工作。邮戳到底有什么作用？当有人单击“提交”时，它们是服务器吗？在我的网页上，邮戳会为他们发送电子邮件吗？如果是这样，为什么我需要创建一个@my-website 域？  在这一切中我很迷失。非常感谢任何可以提供帮助的人   由   提交/u/ambulocetus_   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，首先我希望我来对地方了这个问题。 昨天我建立了一个个人投资组合网站反应js。我创建了一个时髦的联系表单，然后通过 Netlify 部署了该网页。  超级简单，效果很好，我还从他们那里为该网站购买了一个自定义域名。 所以，最后一步，我需要我的联系表单页面工作。它的目的只是向我发送一封电子邮件。  我浏览了 Netlify 的文档 - 他们不提供完整的电子邮件服务，但 “您可以自己选择一项服务，然后在 Netlify 上设置该电子邮件提供商所需的 DNS 记录。” 所以我这样做了，但仅此而已据我所知，因为： Netlify 允许您将 Postmark、Sendgrid 或 Mailgun 作为电子邮件“提供商”连接，但问题是 Postmark 要求您使用私人电子邮件进行注册领域。问题是，我现在拥有 @my-website 电子邮件域，但我没有注册任何实际的电子邮件地址。看起来，我需要 Postmark 才能创建私人地址，但我需要一个私人地址才能向 Postmark 注册。 那么我到底该怎么做呢？电子邮件服务器/网络/网络的东西总是让我感到困惑。 如果有人能回答这个问题，也许你可以准确地解释所有这些应该如何工作。邮戳到底有什么作用？当有人单击“提交”时，它们是服务器吗？在我的网页上，邮戳会为他们发送电子邮件吗？如果是这样，为什么我需要创建一个@my-website 域？  在这一切中我很迷失。非常感谢任何可以提供帮助的人   由   提交/u/ambulocetus_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/196rqqw/having_a_helluva_time_getting_email_domain_to/</guid>
       <pubDate>Sun, 14 Jan 2024 22:07:56 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>当行过期时自动运行一些 SQL。</title>
       <link>https://www.reddit.com/r/webdev/comments/196oy4k/automatically_run_some_sql_on_a_row_when_it/</link>
-      <description><![CDATA[当数据库中的某行字段过期时，我希望在该行上运行一些 SQL。  考虑 eBay 出价 - 一旦出价时间到期，该项目就会更新为不允许其他人对其出价。 目前我正在考虑使用消息代理进行查询数据库每 n 分钟收集一次，收集所有将在 n 分钟后过期的行，跟踪它们，一旦达到过期时间，就对过期行运行一些 SQL。 我有 postgres/ Strapi 在后端，vite/react 在前端，我正在研究rabbitMQ 作为消息代理。 这是一种有效的方法吗？和/或者我应该研究其他途径吗？  &gt;   由   提交 /u/_whatpickle   [链接] [评论]]]></description>
+      <description><![CDATA[当数据库中的某行字段过期时，我希望在该行上运行一些 SQL。  考虑 eBay 出价 - 一旦出价时间到期，该项目就会更新为不允许其他人对其出价。 目前我正在考虑使用消息代理进行查询数据库每 n 分钟收集一次，收集将在 n 分钟后过期的所有行，跟踪它们，一旦达到过期时间，就对过期行运行一些 SQL。 我有 postgres/ Strapi 在后端，vite/react 在前端，我正在研究rabbitMQ 作为消息代理。 这是一种有效的方法吗？和/或者我应该研究其他途径吗？  &gt;   由   提交 /u/_whatpickle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/196oy4k/automatically_run_some_sql_on_a_row_when_it/</guid>
       <pubDate>Sun, 14 Jan 2024 20:12:40 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Sun, 14 Jan 2024 20:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>为什么打字稿枚举编译为 IIFE 而不仅仅是一个对象？</title>
+      <title>为什么打字稿枚举会编译为 IIFE 而不仅仅是一个对象？</title>
       <link>https://www.reddit.com/r/webdev/comments/196oosy/why_does_a_typescript_enum_compile_to_an_iife/</link>
       <description><![CDATA[我正在学习打字稿，目前正在使用枚举。 像这样在打字稿中声明枚举 enum ItemState { CREATE = “已创建”， INPROGRESS = “正在进行”，  COMPLETE = &quot;complete&quot; } 当我查看编译后的 JavaScript 代码时，它基本上创建了一个 IIFE将值分配给对象： var ItemState; (function (ItemState) { ItemState [“CREATE”] = “已创建”; ItemState[“INPROGRESS”] = “正在进行”; ItemState[ “完成”] = “完成”; })(ItemState || (ItemState = {})); ​ ; 在这里创建一个函数只是为了将属性分配给对象的目的是什么？为什么不直接将其编译为： var ItemState = { “CREATE”：“created”， “INPROGRESS”：“进行中”， “COMPLETE”：“完成” }    由   提交/u/corycorycory09  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/196oosy/why_does_a_typescript_enum_compile_to_an_iife/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好，我是一名 19 岁的小伙子，在阅读了多年有关 Web 开发的信息后，现在想开始认真学习，并作为问题是，我想问你我可以做哪些项目来放入作品集（我认为在 Github 上）来尝试找到前端开发人员的工作。哦，还有一个问题，因为我住在一个基本上什么都没有的小镇（是的，我住在意大利，在小镇上你找不到任何东西），你认为这还有可能吗？ （抱歉，如果问题没有意义）感谢您的阅读:)   由   提交/u/Flavix55  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/196ogye/what_projects_should_i_put_in_my_portfolio_for_a/</guid>
       <pubDate>Sun, 14 Jan 2024 19:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>saylor.org 网站图标拒绝加载，这会阻止对整个网站的访问</title>
-      <link>https://www.reddit.com/r/webdev/comments/196od4f/saylororg_favicon_refuses_to_load_and_this_blocks/</link>
-      <description><![CDATA[我可以正常加载该网站，但是当我尝试登录（通过 Google 或任何其他方式）时，我得到： https://i.imgur.com/ISMNznz.png HTF 我可以解决这个问题吗？ 编辑：我猜这与 O Auth 2 有关？如果我阻止它，该网站会加载但不会让我登录，并说 O Auth 2 有问题。如果我取消阻止该网址，该网站会在我尝试登录时拒绝加载。   由   提交 /u/tintinkerer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/196od4f/saylororg_favicon_refuses_to_load_and_this_blocks/</guid>
-      <pubDate>Sun, 14 Jan 2024 19:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以规范将配置文件和模块文件放入包含的文件夹中吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/196no7t/can_we_please_normalize_putting_config_files_and/</link>
-      <description><![CDATA[我厌倦了看到 tailwind.config.ts、tsconfig.json、next.config.ts、postcss.config.json、node_modules 等混乱的情况上我的目录结构。  我们能否将这些内容抽象到它们自己的文件夹中，以便可以根据命令使用它们，但我不必一直查看它们？ 谢谢。   由   提交/u/throtaway47a82  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/196no7t/can_we_please_normalize_putting_config_files_and/</guid>
-      <pubDate>Sun, 14 Jan 2024 19:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作一个非常简单的 Algolia 版本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/196nnfx/how_do_i_make_a_very_simple_version_of_algolia/</link>
-      <description><![CDATA[我是一名前端开发人员，希望了解有关后端的更多信息，因此作为一个业余爱好项目，我正在尝试制作一个非常简单的网站搜索引擎。 基本上我想抓取一个网站，保存数据，索引它并通过 API 提供服务，这样当我从前端发送查询时，API 会实时建议我，当我搜索时它会发送给我相关数据。 我说的是非常基本和简单的搜索。 通过研究，我发现了 Scrappy 和 Elasticsearch。问题是我不知道从哪里开始或连接这两者，在哪里保存数据等等。 对于后端，我了解 Node 和 Express，并且熟悉 Python 和 Django。如果需要的话我可以学习Go。我经常使用 Supabase，我想我可以用它来存储数据？ 我做了很多搜索，但找不到任何值得注意的答案。也问了很多人工智能，但它并没有把所有的东西连接在一起，它只是提出一些零碎的建议。 你能告诉我这个过程或者给我指出正确的方向吗？我从哪里开始？ 谢谢！   由   提交 /u/hiccupq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/196nnfx/how_do_i_make_a_very_simple_version_of_algolia/</guid>
-      <pubDate>Sun, 14 Jan 2024 19:17:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
