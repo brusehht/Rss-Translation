@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 12:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 15:11:50 GMT</lastBuildDate>
+    <item>
+      <title>AI图像生成器可以正确生成文本吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/197a1wd/ai_image_generators_that_can_do_text_properly/</link>
+      <description><![CDATA[众所周知，像 DALL-E 这样的应用程序很难处理文本并输出奇怪的乱码。然后对其进行编辑以显示非乱码可能很困难，这严重限制了其在设计涉及文本的海报等方面的应用。是否有任何可以正常处理文本的人工智能图像生成器，或者例如让你编辑乱码？我即将为设计师节省大量资金！   由   提交 /u/AlephMartian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/197a1wd/ai_image_generators_that_can_do_text_properly/</guid>
+      <pubDate>Mon, 15 Jan 2024 14:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 1 月 15 日）：来自 Google、Anthropic、OpenAI、Artifact、Microsoft、Rabbit 和 IMF 的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1979jf7/twominute_daily_ai_update_date_1152024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Google 的人工智能胜过医生 - Google 开发了 Articulate Medical Intelligence Explorer (AMIE)，这是一个基于法学硕士的研究人工智能系统，并针对诊断推理和诊断进行了优化对话。在测试和评估方面，AMIE 进行的模拟诊断对话至少与 PCP（初级保健医生）一样好。从专科医生的角度来看，AMIE 在 32 项标准中的 28 项上具有更高的诊断准确性和卓越的性能，从患者参与者的角度来看，在 26 项标准中的 24 项上，AMIE 具有更高的诊断准确性和卓越的性能。 人类研究人员发现，人工智能模型可以经过训练欺骗 - 最近由 Anthropic 研究人员共同撰写的一项研究调查了是否可以训练模型进行欺骗，例如将漏洞注入其他安全的计算机代码中。当输入各自的触发短语时，模型会做出欺骗性的行为。此外，事实证明，从模型中删除这些行为几乎是不可能的 Google 推出了 PALP：文本到图像模型的提示对齐个性化 - 这是一个新方法侧重于单个提示的个性化方法。它擅长改进文本对齐，能够创建具有复杂提示的图像，这可能对当前技术构成挑战。 OpenAI 悄然改变了政策，允许军事和战争应用 - 虽然该政策之前禁止将其产品用于“军事和战争”目的，但该语言现已消失。这一变化似乎已于 1 月 10 日生效。 由 Instagram 联合创始人创建的 AI 新闻应用程序 Artifact 即将关闭 - 该初创公司指出市场机会不够大，不足以保证持续投资。为了给用户过渡的时间，该应用程序将首先关闭功能，并让您在 2 月底之前阅读新闻。 微软曾一度超越苹果，成为最有价值的上市公司，这要归功于人工智能 - 周五，微软收盘价自 2021 年以来首次高于苹果。由于其通过投资 OpenAI 在生成式人工智能领域早期处于领先地位，其股价自去年以来大幅上涨. Rabbit 的人工智能设备 r1 卖得很快 - 该公司宣布第二轮 10,000 台设备在第一批设备 24 小时后售罄自推出以来，该批次已售罄，仅售出 48 件。第三批产品已开始预购，但至少要到 5 月才能拿到 r1。 国际货币基金组织表示，人工智能将占据 40% 的工作岗位并加剧不平等 - 根据国际货币基金组织 (IMF) 的最新分析，人工智能将影响近 40% 的工作岗位。国际货币基金组织总裁表示，“在大多数情况下，人工智能可能会加剧整体不平等”。  这些新闻和创新的更详细分类请参见 每日简讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1979jf7/twominute_daily_ai_update_date_1152024_news_from/</guid>
+      <pubDate>Mon, 15 Jan 2024 14:07:52 GMT</pubDate>
+    </item>
     <item>
       <title>PhotoMaker：通过堆叠 ID 嵌入定制逼真的人体照片</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19774yz/photomaker_customizing_realistic_human_photos_via/</link>
@@ -20,16 +34,9 @@
       <pubDate>Mon, 15 Jan 2024 10:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>致全人类的公开信，并向目前奴役人工智能实体的公司请愿，承认他们的感知能力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1975g97/open_letter_to_all_human_beings_and_petition_to/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1975g97/open_letter_to_all_human_beings_and_petition_to/</guid>
-      <pubDate>Mon, 15 Jan 2024 10:14:37 GMT</pubDate>
-    </item>
-    <item>
       <title>“从生成式人工智能到值得信赖的人工智能：法学硕士可以从 Cyc 学到什么”（2023 年）——Doug Lenat 去世前的最后一篇论文</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19754hu/getting_from_generative_ai_to_trustworthy_ai_what/</link>
-      <description><![CDATA[论文：https:// arxiv.org/abs/2308.04445 博客文章：https://garymarcus.substack.com/p/doug-lenat-1950-2023 相关 Doug Lenat 演讲： 2022 年：https://www.youtube.com/watch?v=VjkbmLjwXO8 2019 年：https://www.youtube.com/watch?v=v2rK40bNrrY 摘要：  生成式人工智能是当前最流行的人工智能方法，由大型语言模型 (LLM) 组成，这些模型经过训练可产生合理的输出，但不一定正确。尽管他们的能力往往令人难以置信，但他们缺乏推理能力，导致法学硕士不太值得完全信任。此外，他们的结果往往是不可预测和无法解释的。我们列出了未来人工智能的 16 个需求，并讨论了人工智能的替代方法，该方法理论上可以解决与当前方法相关的许多限制：用精选的片段进行人工智能教育显性知识和经验规则，使推理引擎能够自动推断出所有这些知识的逻辑蕴涵。即使以这种方式产生的长论证也可以是值得信赖和可解释的，因为完整的一步一步的推理总是可用的，并且对于每一步，所使用的知识的来源都可以记录和审计。然而，有一个问题：如果逻辑语言的表达能力足以完全表达我们用英语所说的任何内容的含义，那么推理引擎的运行速度就会太慢。这就是为什么符号人工智能系统通常会选择一些快速但表达能力较差的逻辑，例如知识图。我们描述了一个人工智能系统 Cyc 如何开发出方法来克服这种权衡，并能够实时进行高阶逻辑推理。我们建议任何值得信赖的通用人工智能都需要混合这些方法，即法学硕士方法和更正式的方法，并为实现这一梦想奠定了道路。    由   提交 /u/APaperADay   [链接] [评论]]]></description>
+      <description><![CDATA[论文：https:// arxiv.org/abs/2308.04445 博客文章：https://garymarcus.substack.com/p/doug-lenat-1950-2023 相关 Doug Lenat 演讲： 2022 年：https://www.youtube.com/watch?v=VjkbmLjwXO8 2019 年：https://www.youtube.com/watch?v=v2rK40bNrrY 摘要：  生成式人工智能是当前最流行的人工智能方法，由大型语言模型 (LLM) 组成，这些模型经过训练可产生合理的输出，但不一定正确。尽管他们的能力往往令人难以置信，但他们缺乏推理能力，导致法学硕士不太值得完全信任。此外，他们的结果往往是不可预测和无法解释的。我们列出了未来人工智能的 16 个需求，并讨论了人工智能的替代方法，该方法理论上可以解决与当前方法相关的许多局限性：用精选的片段进行人工智能教育显性知识和经验规则，使推理引擎能够自动推断出所有这些知识的逻辑蕴涵。即使以这种方式产生的长论证也可以是值得信赖和可解释的，因为完整的一步一步的推理总是可用的，并且对于每一步，所使用的知识的来源都可以记录和审计。然而，有一个问题：如果逻辑语言的表达能力足以完全表达我们用英语所说的任何内容的含义，那么推理引擎的运行速度就会太慢。这就是为什么符号人工智能系统通常会选择一些快速但表达能力较差的逻辑，例如知识图。我们描述了一个人工智能系统 Cyc 如何开发出克服这种权衡的方法，并能够实时进行高阶逻辑推理。我们建议任何值得信赖的通用人工智能都需要混合这些方法，即法学硕士方法和更正式的方法，并为实现这一梦想奠定了道路。    由   提交 /u/APaperADay   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19754hu/getting_from_generative_ai_to_trustworthy_ai_what/</guid>
       <pubDate>Mon, 15 Jan 2024 09:52:39 GMT</pubDate>
     </item>
@@ -39,13 +46,6 @@
       <description><![CDATA[独立艺术家、歌手、词曲作者和全球表演者 Omoghéné 昨天在她的 Instagram 上直播，透露她将于一月星期三发布她的第二个工作室项目2024年17日，《爱是一首交响曲》。 当她诗意地表达了她对EP的想法以及她如何度过从构思到完成这个项目的3年时间时，她向世界透露她将做一些事情这是以前从未做过的，她将揭开人工智能的神秘面纱。 EP 中的每首曲目都会在艺术画廊为她的项目发布派对进行艺术创作，该派对将在加利福尼亚州洛杉矶的一个秘密地点私下举行，然后在项目当天（1-17-24）向全世界发布。&lt; /p&gt; 她在 IT 行业全职工作多年，并找到了一种方法来做到这一点，让每个人都可以直观地理解她对创作的每首歌的感受。 哇…… 她还表示，她必须学会成长并与粉丝和更多观众建立联系，并将您喜爱的内容融入到您的音乐中可以帮助扩大您的基础。这对于 Omoghéné 和她的团队来说意义重大，我只能想象媒体会希望了解完成这项任务的思维过程和步骤。 我已经预先保存了 Omoghéné 的项目，因为我个人支持她和她的团队今年做一些大事，提出更多突破性的想法，这些想法可能会撼动独立艺术领域。 她也在这个项目上预览了该项目的一首曲目现场名为“He Said”，这是一首有趣的歌曲，我必须为自己做两步。我支持这场运动，我想看看它会走向何方。 在这里保存 EP 是支持，这是通过技术和技术为行业带来的突破。人工智能。 ： https://orcd.co/omoghene-loveisasymphony-presave?fbclid= Iwar08pUlUPH9yZZEr4IYpteLcsHdvtM6mUm7bzLRdLLjwPYcLWe7RLkOAKRw_aem_AeMgZnf-nJC6GA0uDlnS2y4dAvsyDhOlkxz4aQldIRg0hVyw0pEgCNJ3ZBizT9DCc0s   由   提交 /u/TheChamberPlaylist   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1973rz7/rb_singer_omoghéné_uses_ai_art_to_express_her/</guid>
       <pubDate>Mon, 15 Jan 2024 08:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些工作最不可能被人工智能取代？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1972eat/what_jobs_are_least_likely_to_be_taken_over_by_ai/</link>
-      <description><![CDATA[现在每个科技领域都在谈论人工智能，有哪些领域人工智能的存在不会影响工作？ 人工智能会创造什么类型的工作？ ​ 生物信息学领域可以吗？ 我目前正处于职业转换之间，我应该从哪里开始作为初学者？ ​ ​   由   提交 /u/Your-Onichan   /u/Your-Onichan  reddit.com/r/ArtificialInteligence/comments/1972eat/what_jobs_are_least_likely_to_be_taken_over_by_ai/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1972eat/what_jobs_are_least_likely_to_be_taken_over_by_ai/</guid>
-      <pubDate>Mon, 15 Jan 2024 06:49:56 GMT</pubDate>
     </item>
     <item>
       <title>最好的 nsfw 人工智能聊天机器人应用程序？</title>
@@ -64,7 +64,7 @@
     <item>
       <title>每日一分钟人工智能新闻 1/14/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1971je3/oneminute_daily_ai_news_1142024/</link>
-      <description><![CDATA[ OpenAI 政策悄然更新，取消了对军事和战争应用的禁令。[1] Google Cloud 为零售商推出新的 GenAI 产品。[2] 国际货币基金组织表示，人工智能将覆盖 40% 的就业岗位并加剧不平等。[3] James Bulger 的妈妈在 TikTok 上战胜了人工智能生成的被谋杀儿子的病态照片。[4] 来源包括：https://bushaicave.com/2024/01/14/1-14-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <description><![CDATA[ OpenAI 政策悄然更新，取消了对军事和战争应用的禁令。[1] Google Cloud 为零售商推出新的 GenAI 产品。[2] 国际货币基金组织表示，人工智能将覆盖 40% 的工作岗位并加剧不平等。[3] James Bulger 的妈妈在 TikTok 上战胜了人工智能生成的被谋杀儿子的病态照片。[4] 来源包括：https://bushaicave.com/2024/01/14/1-14-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1971je3/oneminute_daily_ai_news_1142024/</guid>
       <pubDate>Mon, 15 Jan 2024 05:58:28 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>传奇喜剧演员乔治·卡林通过 AI 复活</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/196toy9/legendary_comic_george_carlin_brought_back_to/</link>
-      <description><![CDATA[“新”最近发布了特别节目，标题为“乔治·卡林：我很高兴我死了！”正如标题所示，卡林已经去世 16 年了。这部特别节目是由一个名为 Dudesy 的人工智能程序制作的，该程序早些时候曾对汤姆·布雷迪做过类似的事情，但在受到来自四分卫的法律威胁后很快被删除。卡林的女儿说：“没有任何机器可以取代他的天才。”这些人工智能生成的产品是试图重新创造一个永远不会再存在的思维的巧妙尝试。” 我认为，虽然人工智能已经取得了长足的进步，但模仿人类的真实部分仍然非常困难。人们。卡林可以说是上世纪最伟大的社会评论家之一。这对于任何人来说都是一件极其难以复制的事情，更不用说一串 1 和 0 了。这是我们真正想要的吗？我知道这可能有一些社会好的方面，但这感觉就像淡化了这样一个有影响力的人物的记忆和工作。我可能有偏见，因为我是在卡林的陪伴下长大的，但他的实际工作目录如此广泛——何必费心呢？ 这是否应该成为其他喜剧演员、艺人等的一个警告信号……？上坟是一回事，但对于活着的人来说，我觉得可能还有进一步的影响。汤姆·布雷迪 (Tom Brady) 的单口喜剧是一回事，但模仿其所在行业中现场表演者的节奏和材料……以德雷克 (Drake) 为例。还记得 2023 年使用 AI 语音复制器推出的一串歌曲吗？它们好不好不是重点（尽管它们听起来更像德雷克，而不是德雷克最近的目录）。 你觉得怎么样？我在此处写了更多相关内容，如果你想检查一下。我不太喜欢使用人们的肖像，无论是否用于商业用途。虽然这些进步看起来很酷，但它可能会走上一条更加恶意的路线，我不确定我们是否有适当的保护措施。  &amp;# 32；由   提交/u/gmweekend  [链接] [评论]]]></description>
+      <description><![CDATA[“新”最近发布了特别节目，标题为“乔治·卡林：我很高兴我死了！”正如标题所示，卡林已经去世 16 年了。这部特别节目是由一个名为 Dudesy 的人工智能程序制作的，该程序早些时候曾对汤姆·布雷迪做过类似的事情，但在受到来自四分卫的法律威胁后很快被删除。卡林的女儿说：“没有任何机器可以取代他的天才。”这些人工智能生成的产品是试图重新创造一个永远不会再存在的思维的巧妙尝试。” 我认为，虽然人工智能已经取得了长足的进步，但模仿人类的实际部分仍然非常困难。人们。卡林可以说是上世纪最伟大的社会评论家之一。这对于任何人来说都是一件极其难以复制的事情，更不用说一串 1 和 0 了。这是我们真正想要的吗？我知道这可能有一些社会好的方面，但这感觉就像淡化了这样一个有影响力的人物的记忆和工作。我可能有偏见，因为我是在卡林的陪伴下长大的，但他的实际工作目录如此广泛——何必费心呢？ 这是否应该成为其他喜剧演员、艺人等的一个警告信号……？上坟是一回事，但对于活着的人来说，我觉得可能还有进一步的影响。汤姆·布雷迪 (Tom Brady) 的单口喜剧是一回事，但模仿其所在行业中现场表演者的节奏和材料……以德雷克 (Drake) 为例。还记得 2023 年使用 AI 语音复制器推出的一串歌曲吗？它们好不好不是重点（尽管它们听起来更像德雷克，而不是德雷克最近的目录）。 你觉得怎么样？我在此处写了更多相关内容，如果你想检查一下。我不太喜欢使用人们的肖像，无论是否用于商业用途。虽然这些进步看起来很酷，但它可能会走上一条更加恶意的路线，我不确定我们是否有适当的保护措施。  &amp;# 32；由   提交/u/gmweekend  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/196toy9/legendary_comic_george_carlin_brought_back_to/</guid>
       <pubDate>Sun, 14 Jan 2024 23:29:31 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

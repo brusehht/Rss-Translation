@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 12:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 15:13:12 GMT</lastBuildDate>
+    <item>
+      <title>对于您的投资组合网站来说，Headless CMS 真的值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/197ah9c/is_headless_cms_really_worth_it_for_your/</link>
+      <description><![CDATA[大家好， 我的网络代理网站&lt; /a&gt; 使用 Next.js 构建，它从 Strapi Headless CMS 检索数据。我是该网站的唯一管理者，作为一名开发人员，我有能力在必要时更改代码。然而，我目前正面临一个困境：我发现同时运行 Strapi 的本地环境和 Next.js 前端网站（两者都使用“npm run dev”）有点麻烦。此外，我需要保持 Strapi 和 Next.js 库的更新和管理。 考虑到这一点，我一直在思考将所有内容粘合在 Next.js 中并忘记无头 CMS 是否更实际。作为一名独立管理自己网站的开发人员，您认为无头 CMS 对我来说仍然有意义吗？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197ah9c/is_headless_cms_really_worth_it_for_your/</guid>
+      <pubDate>Mon, 15 Jan 2024 14:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否需要一个单独的域来安全地访问您的图像存储桶？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1979s7m/do_you_need_a_separate_domain_for_your_image/</link>
+      <description><![CDATA[最近，我使用 Cloudflare R2 为图像等资产设置了存储桶。为了实现这一点，需要将存储桶耦合到域。所以我将它链接到我的投资组合网站域名 URL，但这导致我的网站消失。问题出在 A 记录中，最初指向 Vercel 提供的 IP 地址（我在其中部署了 Next.js 产品组合网站），在创建存储桶并将其与域关联后，被 Cloudflare 提供的 CNAME 替换。 我的目标是让我的网站可访问，同时仍然允许从 URL 获取我的图像。虽然可以选择使用 R2.dev 子域，但他们表示不建议将其用于生产用途。我正在寻找一种解决方案，能够通过 URL 访问资产，而无需将所有资产存储在 Next.js 项目内的公共文件夹中。鉴于资产数量巨大，我更喜欢专用的环境来处理它们。任何有关通过 URL 访问资产的建议将不胜感激。 这就是 R2.dev 的消息所说的内容：  R2.dev 子域  当您启用 r2.dev 访问权限时，Internet 上的任何人都可以使用公共 r2.dev URL 来查看此存储桶中的对象。但是，使用率受到限制，不建议用于生产。此外，访问和缓存等 Cloudflare 功能将不可用。 了解更多  &lt; p&gt;​   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1979s7m/do_you_need_a_separate_domain_for_your_image/</guid>
+      <pubDate>Mon, 15 Jan 2024 14:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习管理系统的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1979gae/recommendations_for_learning_managment_system/</link>
+      <description><![CDATA[嗨， 我和我的朋友正在合作创建一门包含大量主题、mcqs、阅读的课程（重课程）材料和视频。  我们正在寻找可以处理这些材料的系统。例如，课程可以有 10 个主题，其中一个主题有 100 个 mcq。所以我们需要一些可以做简单的导入导出问题的东西，稍微调整一下以便重考。  我们走Wordpress路线吗？并安装 LMS 插件？或者选择基于云的 LMS？  我担心 WordPress 的安全性。  您能给点建议吗？我们将非常感谢您的建议。   由   提交 /u/ineedadeveloper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1979gae/recommendations_for_learning_managment_system/</guid>
+      <pubDate>Mon, 15 Jan 2024 14:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 演示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1979e7w/css_demos/</link>
+      <description><![CDATA[嗨，我看到了上一篇关于 css 困难的文章，想分享一些我遇到的有用指南以及我所做的一些演示。&lt; /p&gt; 对于Flexbox，我觉得作为开发者来说它更符合逻辑，更容易理解，但作为设计师应用它有一些困难。因此，我制作了我阅读的本指南的 Figma 版本，以展示可以使用自动布局功能在 Figma 中实现的一些属性。 CSS Flexbox  &lt; li&gt;https://css-tricks.com/snippets/css/a-guide-to -flexbox/ https://www.figma.com/community/ file/1284819663700490015/flexbox  对于CSS网格，我觉得作为开发人员来说这更难实现，因为网格在用于设计网站时只是指导方针，例如 12/8/4 列引导线。因此，我制作了一个小的 index.html 文件来展示代码如何转换为网站。  CSS 网格  https://css-tricks.com/snippets/css/complete-guide-grid/#aa-properties-for-the-parentgrid-container https://www.figma.com/community/file/1328722631054024000/css-grids  https://github.com/Its-Js/css-grid/tree /main  我对这个网格有点懒，但理想情况下我会实现 css 断点以在 12/8/4 列之间切换，并且还具有Figma 中完成的相应框架展示了屏幕尺寸/设备之间网格布局的变化。 :v  ​ 希望通过自己实际修改代码，将有助于更好或更快地理解这些概念。    由   提交/u/its-js   /u/its-js  reddit.com/r/webdev/comments/1979e7w/css_demos/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1979e7w/css_demos/</guid>
+      <pubDate>Mon, 15 Jan 2024 14:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我真的厌倦了 YouTube 上的广告</title>
+      <link>https://www.reddit.com/r/webdev/comments/197902w/i_was_really_tired_of_ads_on_youtube/</link>
+      <description><![CDATA[所以我昨天做了这个：https://github .com/jonathanschoonbroodt/fuck-ads   由   提交 /u/avreldotjs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/197902w/i_was_really_tired_of_ads_on_youtube/</guid>
+      <pubDate>Mon, 15 Jan 2024 13:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>区分后端和前端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1978nru/distinguishing_backend_from_frontend/</link>
+      <description><![CDATA[技术堆栈：JS、node.js、express、HTML、pug 模板 我用 vanilla JS 制作了一个 Web 应用程序所有内容都在一个文件中，没有单独的后端。因此，在学习 Node 和 Express 之后，我一直在修改它以拥有单独的服务器端和客户端代码。我无法决定如何决定将哪些功能保留在哪里？目前，我已经进行了几个来自后端的 API 调用。这应该是整个封装的事情，我必须将所有进程放在后端还是如何？ 有关更多信息，我有一个函数（比如 A）将日期发送到后端- end 然后接收日期特定数据以进行可视化。另一个函数（比如 B）在鼠标单击时被调用，该函数调用运行一个循环，调用函数 A 并递增日期来创建某种动画。我应该将其某些功能移至服务器还是将其保留在前端？ ​   由   提交/u/orangeskybluesun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1978nru/distinguishing_backend_from_frontend/</guid>
+      <pubDate>Mon, 15 Jan 2024 13:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>普通 JS 文件组织</title>
+      <link>https://www.reddit.com/r/webdev/comments/1978dhk/vanilla_js_file_organization/</link>
+      <description><![CDATA[嘿， 我已经在前端（HTML、CSS、vanilla JS、React Native 和其他 bs）到后端（node.js、express、MongoDB、SQL、PHP 等），并且始终回归到静态网站的简单常规 HTML、CSS 和 vanilla JS。我从来都不是像 React 这样的框架的粉丝，因为我觉得不需要它们。现在我使用上述技术为客户创建自定义主题，这一切都令人惊奇，但最近我注意到我的 JS 文件（我使用一个是因为页面从来没有真正需要大量 JS）变得又大又乱。这是一个函数上一个函数上一个函数上的一个函数。我经常开始迷失一切的位置，并且想知道如何修复它。是时候组件化我的代码（即使用 React）还是有更好的方法来组织一切？也许开始研究不同的模式？ 代码示例： const mobileNavigation = () =&gt; {...} 移动导航(); const headerPullDown = () =&gt;; {...} headerPullDown(); const getSortType = () =&gt;; {...} const getTheObjectAmount = () =&gt;; {...} const getEstateFilters = () =&gt;; {...} const ajaxFetch = (body, responseFunc, dataFunc) =&gt; {...} const EstateSearchSubmit = () =&gt;; {...} EstateSearchSubmit(); ... 1k 行  ​   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1978dhk/vanilla_js_file_organization/</guid>
+      <pubDate>Mon, 15 Jan 2024 13:10:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>为客户开发电子商务网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1977rme/developing_an_ecommerce_website_for_a_client/</link>
+      <description><![CDATA[我代表一位朋友发帖，但他没有足够成熟的 Reddit 帐户，无法在此子帖子中发帖。 “我被要求为某人开发电子商务网站。这是我第一次收到这样的请求，所以有一些关于如何处理这种情况的问题。如果有人熟悉这个过程，我很乐意与您交谈。” - 我认为他的意思是私人消息/DM “使用 WordPress 是一个好主意吗？” 如果是，我是否需要教客户如何使用 Wordpress 来管理她商店，还是我应该更新它（例如向商店添加新商品）？ 设置付款时，您的银行卡详细信息是必需的。我是否会向客户询问这个问题（我认为这个问题有点个人化），以便我可以将其连接到她的银行？ 如果客户要自行管理网站，那么然后教她如何使用 Wordpress？” “如果 Wordpress 不是一个好主意，那么其他流行的选择是什么？我会编程，所以我不介意不必使用网络构建器，但我宁愿避免使用自己的代码建立商店所带来的复杂情况；关于这个主题，我没有要问的确切问题列表，所以我更愿意直接私信。” 他的帐户 ⬇️ u/Jumpy-Replacement-76   由   提交 /u/SuspiciousPipe9589   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1977rme/developing_an_ecommerce_website_for_a_client/</guid>
+      <pubDate>Mon, 15 Jan 2024 12:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>“按需杂货”应用程序的预算范围应该是多少？</title>
       <link>https://www.reddit.com/r/webdev/comments/197790z/what_should_my_budget_range_be_for_a_on_demand/</link>
@@ -29,7 +85,7 @@
     <item>
       <title>Web 开发需要了解和掌握哪些基本概念？</title>
       <link>https://www.reddit.com/r/webdev/comments/1976aze/what_are_the_essentials_concepts_to_know_and/</link>
-      <description><![CDATA[我决定不再浪费时间了。 最近我一直在努力提高我的知识和技能，但我感觉自己身处黑洞之中，不知道是应该继续学习JS、CSS、HTML等原始语言，还是学习框架，还是回去学习更多理论性的东西？ &lt; p&gt;如果您能告诉我现在应该告诉我的基础知识和概念，我将非常感激。   由   提交 /u/DonCABASH   [链接] [评论]]]></description>
+      <description><![CDATA[我决定不再浪费时间了。 最近我一直在努力提高我的知识和技能，但我感觉自己身处黑洞之中，不知道是应该继续学习JS、CSS、HTML等原始语言，还是学习框架，还是回去学习更多理论的东西？ &lt; p&gt;如果您能告诉我我现在应该知道的基础知识和概念，我将非常感激。   由   提交 /u/DonCABASH   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1976aze/what_are_the_essentials_concepts_to_know_and/</guid>
       <pubDate>Mon, 15 Jan 2024 11:10:46 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[所以我是一名自学成才的 HTML CSS js 程序员（编程了大约一年半），我正在为自己制作一个网站。  网络很简单而且很小。但是，我想要一个带有输入选项的选择器，在用户选择他的选项后，它将显示另一个意见（针对不同的类别，为了使其简单）。 处理选择后，我希望将信息发送到我的电子邮件（因为我要发送电子邮件，这很简单，而且只适合我）。 我解决了所有条件，将来我想添加选择器的付款选项。 我的问题是：1）制作选择器真的那么简单吗，因为我创建了一个可以工作但非常简单的代码，我预计它会很困难 代码的工作原理如下：我有 2-4 ;和选择器页面中的输入，我有 4 个选择器页面。 当单击一个 div 时，它会将其布尔值转换为 true（如果需要，将其他 div 的布尔值转换为 false），当 boolean = true 时，它将添加“选项 1”到 emailBody， 然后我有一个来自 smtpjs.com 的 smtp 服务器，发送到我的电子邮件的电子邮件正文是 emailBody + 输入值（因此我可以看到用户在中选择的所有选项和可选输入）我的电子邮件） 它正在按照我想要的方式工作，但我觉得我可能会错过一些东西。 那么我很好，因为它工作得很好，或者我应该重建它？ 2）您对实施付款选项有何建议 我想设置我选择的价格，费用越低越好。 我考虑过实施 PayPal，因为我将在国际上工作，而且我来自一个拥有自己货币的国家，我觉得 PayPal 将使在其他国家/地区付款变得更容易。 我还希望付款安全 提前致谢。   由   提交 /u/MarekBeran   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1975w4r/is_web_development_this_easy/</guid>
       <pubDate>Mon, 15 Jan 2024 10:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>FB 垃圾邮件“使用您网站的聊天插件发送”需要帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1975el1/fb_spam_sent_using_your_websites_chat_plugin_help/</link>
-      <description><![CDATA[嗨，希望这里有人知道发生了什么事。  最近我的 FB 页面收到了大量常见的“您违反了我们的服务条款，请点击此处恢复您的帐户”的内容。垃圾邮件，但是在过去的 2 天里，全部来自“Guest xxxx”账户。元商务套件告诉我： 访客用户 此人以访客身份使用您网站的聊天插件。在发送第一条消息 24 小时后，您将无法再向此人发送消息。但是，您的收件箱中将提供聊天记录。了解更多&quot; ​ 我的网站上绝对没有 FB Chat 插件，我在帖子下添加了 FB 评论框的唯一插件，我已经禁用并删除了它，以防万一，但还没有修复它。我的 Meta for Developers 面板中只有一个应用程序，我也禁用并存档了该应用程序，但垃圾邮件不断出现。 ​ 我应该担心有人访问我的应用程序吗？页面的 API 及其插件来发送此垃圾邮件？   由   提交 /u/trumpfairy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1975el1/fb_spam_sent_using_your_websites_chat_plugin_help/</guid>
-      <pubDate>Mon, 15 Jan 2024 10:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Wordpress 迁移域..受够了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1974y9m/migrating_domain_from_wordpress_fed_up/</link>
-      <description><![CDATA[大家好，  就像标题所示，我已经厌倦了 Wordpress，我在当前网站上使用 elementor。  想要通过 webflow 建立另一个网站并转移域名，并停止使用泰坦电子邮件并迁移到 Gmail（如果可能）。  ​ 我有点担心这个切换过程 - 会失去构建网站的辛苦成果，并且如果我无法集成到 Gmail由于某种原因不得不继续使用泰坦。  ​ 这可能吗？我有什么选择？  ​ ​ （对新手术语表示歉意..） 提前谢谢您。    由   提交 /u/DegeneratelawyerX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1974y9m/migrating_domain_from_wordpress_fed_up/</guid>
-      <pubDate>Mon, 15 Jan 2024 09:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级 CSS 资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1974x1d/advanced_css_resource/</link>
-      <description><![CDATA[大家好， 我正在寻找一个高级 CSS 资源，它会超越盒模型的基础知识，并详细说明和解释一些高级用途。 ​ 例如： - 解释了“min-”宽度：0”需要制作“display:flex”列确实可以拉伸，而不受其内容的限制  - 展示了如何使用“position:absolute”对象来覆盖父级“overflow:hidden” style  - 这解释了为什么即使子项有强制的“width:0%”样式，父项的大小仍然占子项的内容大小。在以下示例中： https://stackoverflow.com/a/7861781/1870184 &amp; #x200b; 您是否知道有任何资源（网站/书籍/等）可以收集/识别/解释尽可能多的此类案例？ 提前致谢   由   提交 /u/TheThyfate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1974x1d/advanced_css_resource/</guid>
-      <pubDate>Mon, 15 Jan 2024 09:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>❓ 有没有办法列出组件（例如按钮）以某种方式使用的所有 CSS 变量？需要某种深度搜索。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1974jst/is_there_any_way_of_listing_all_css_variables/</link>
-      <description><![CDATA[嘿！ 我是一名 UX 设计师/Web 开发人员，正在使用 Figma 变量在 Figma 中设计组件变量。我们找到了一种将所有变量导出到 CSS 供开发人员使用的方法，但现在我需要一种方法来告诉他们我们的组件是如何构建的以及哪些变量应用在哪里。  我们以按钮为例。单击 Figma 中 Button 中最外层的父框架会显示背景颜色，但为了查看填充，我需要选择子项，例如其中的图标或文本。您可以看到这对于更复杂的组件来说是多么令人烦恼，尤其是在默认情况下隐藏元素的组件中。  你知道有什么“深度搜索”的方法吗？一个组件，比如一个 Web 组件，一个按钮，来查看列表中为其分配的所有变量？就我而言，我需要深入搜索设计组件，我只是好奇现在是否有一种方法可以在代码组件上执行此操作，以获取灵感。 我想要的示例：  .primaryButton { 高度：var(--size-height-10); 填充： 0px var(--size-spacing-6); color: var(--color-foreground-default); 边框半径: var(--size-radius-none); 背景颜色: var(--color-surface-primary-normal); &amp;:hover { 背景颜色：var(--color-surface-primary-hover); }  &amp;:active { background-color: var(--color-surface-primary-pressed); } } 谢谢！   由   提交/u/kavakravata  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1974jst/is_there_any_way_of_listing_all_css_variables/</guid>
-      <pubDate>Mon, 15 Jan 2024 09:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能做到这一点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1973g4i/how_can_i_achieve_this/</link>
-      <description><![CDATA[所以，我有一个 Google 表格文档，其中包含有关政党和选区的数据，我希望在用户输入时具有具有搜索功能的网站/页面选区编号，数据就会在页面上显示给他。我是新手，如果我错了，请纠正我。   由   提交/u/bistiaaligal  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1973g4i/how_can_i_achieve_this/</guid>
-      <pubDate>Mon, 15 Jan 2024 07:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常菜鸟 q - docker 托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1972sqe/very_noobie_q_docker_hosting/</link>
-      <description><![CDATA[我正在尝试以零成本构建一个小型个人网络地图应用程序。运行 docker 映像来执行一些数据操作确实很有帮助（GeoNode，但这与我的问题并不真正相关）。 我的 docker 映像中的软件只会偶尔被访问，无论是当我刷新我的地图上的数据（可能是完美世界中的每个地图加载，或按计划加载），或者有时在我编辑地图数据时刷新一个小时左右。 我的问题是关于成本...如果我使用按秒付费的服务，它们（或者配置可以指定）是否根据需求启动和停止，或者只是作为始终在线的服务器每月运行 700 小时左右？我需要知道什么行话？ 这只是一个个人项目，所以我不太关心性能...如果它保留了东西，即使启动时延迟几秒钟也不会打扰我免费或基本免费...   由   提交 /u/mhanmore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1972sqe/very_noobie_q_docker_hosting/</guid>
-      <pubDate>Mon, 15 Jan 2024 07:14:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Console 的验证状态问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1972kxg/verification_status_issue_with_google_cloud/</link>
-      <description><![CDATA[        由   提交/u/mamasboy37  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1972kxg/verification_status_issue_with_google_cloud/</guid>
-      <pubDate>Mon, 15 Jan 2024 07:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 对我来说是难以理解的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1971wxk/css_is_impenetrable_to_me/</link>
-      <description><![CDATA[我已经有一段时间没有做 webdev 了，虽然我对最新的 JS 框架时尚没有任何问题，但我就是跟不上 我的意思是，我知道如何操作 - 语法、一些基本属性、它通常如何工作，但似乎在过去几年中 /things/ 的数量呈指数级增长 - 我几乎没有 Flexbox，但现在有了网格，有所有这些疯狂的特定属性，我不知道人们如何发现以及何时使用。 有太多东西，我不知道如何跟踪所有内容交互以及何时使用名称略有不同的几乎相同的内容。 如果您做得不好，您的网站看起来很糟糕或无法访问。 您如何在你的工作中管理CSS？你如何跟上它？你使用什么工具？   由   提交 /u/lurebat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1971wxk/css_is_impenetrable_to_me/</guid>
-      <pubDate>Mon, 15 Jan 2024 06:20:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
