@@ -4,7 +4,34 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 16 Jan 2024 12:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 15:13:22 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一种更快的 GPT 工作方式</title>
+      <link>https://feed.indiehackers.world/post/0aa9770120</link>
+      <description><![CDATA[设计
+这就是为什么我设计了一个与人工智能和人工智能聊天的应用程序。在聊天旁边记下笔记，以消除处理数十个选项卡的麻烦。流量更快。 
+它还提供了一个选项，可以在一次聊天对话中使用多个人工智能，允许人工智能记住您笔记中的信息，使用自然语言查找笔记并查找笔记。 chrome 侧面板中的注释（适用于仍想使用 GPT 但想更快记笔记的人）
+我知道这并不适合所有人，但对于像我这样的生产力书呆子来说，不必切换、复制和粘贴数百次，并且知道我可以找到我保存的任何东西，感觉就像天堂一样。
+因此，该应用程序的名称为 Saner.ai，目前处于测试阶段，供早期访问用户使用。我希望这可以解决您使用 GPT 时的问题:)
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0aa9770120</guid>
+      <pubDate>Tue, 16 Jan 2024 15:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solidity 如何改变您的区块链项目</title>
+      <link>https://feed.indiehackers.world/post/15d4d30f0e</link>
+      <description><![CDATA[
+OpenZeppelin
+
+OpenZeppelin 是一个用于以太坊和 Solidity 的可重用且安全的智能合约库。
+通过其经过审计和久经考验的合约，开发人员可以获得其项目的代币标准、访问控制和支付渠道。您还可以使用其开发工具（包括 CLI（命令行界面）和基于 Web 的合约向导）将 OpenZeppelin 集成和自定义到 Solidity 应用程序中。
+使用这些开发工具和框架可以获得更好的 Solidity 开发工作流程、提高生产力并确保区块链安全和质量。 
+
+Solidity 开发中的常见挑战以及如何克服这些挑战
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/15d4d30f0e</guid>
+      <pubDate>Tue, 16 Jan 2024 14:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>分享您的移动生产力技巧。</title>
       <link>https://feed.indiehackers.world/post/60975cfed7</link>
@@ -158,34 +185,6 @@ https://finnonni.gumroad.com/l/ADHDandEntrepreneurship-Techniques
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/fe29993040</guid>
       <pubDate>Thu, 11 Jan 2024 16:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>初创公司的远程工作策略：在数字世界中蓬勃发展</title>
-      <link>https://feed.indiehackers.world/post/db369b939f</link>
-      <description><![CDATA[通过网络研讨会、在线课程和知识共享会议鼓励持续学习的文化。
-定期团队会议：
-安排定期的虚拟团队会议来讨论项目、解决问题并让每个人保持一致。
-使用视频会议增强团队成员之间的个人联系。
-适应性和灵活性：
-适应不断变化的环境，并根据需要灵活调整工作流程。
-采用新技术和工具来增强远程协作和生产力。
-通过采用这些策略，初创公司不仅可以在数字世界中生存，而且可以蓬勃发展，确保其远程团队保持高效、敬业和互联。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/db369b939f</guid>
-      <pubDate>Thu, 11 Jan 2024 14:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我迟来的 2023 年回顾</title>
-      <link>https://feed.indiehackers.world/post/df9a88a1e7</link>
-      <description><![CDATA[尽管如此，还是有一些事情进展顺利。
-进展顺利
-我和家人度过了愉快的时光。
-我是一个 2 岁男孩的父亲，也是一个丈夫。家庭是我所做事情的基础。我确实有一个目标，但我不能否认我和我的家人之间的紧密联系——一个更大的目标。如果我们周围存在冲突，也会影响我的工作效率。我很高兴能在 2023 年结束时与他们保持良好的关系。虽然并非没有冲突，但我们很好地解决了。
-那么我是如何与家人共度时光的呢？
-我们进行了很多对话。这不是废话。当我们旅行时，当我和我的儿子玩秋千时，当我们出去吃饭时，我们聊了很多。我总是乐此不疲，当我与他们进行良好的交谈时，我总是会变得更加坚强。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/df9a88a1e7</guid>
-      <pubDate>Wed, 10 Jan 2024 13:51:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
