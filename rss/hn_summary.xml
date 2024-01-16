@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 16 Jan 2024 00:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 03:11:19 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]尽管美国禁止向中国出口英伟达芯片，但中国军事机构和 [...]</title>
+      <link>https://t.me/hn_summary/69233</link>
+      <description><![CDATA[尽管美国禁令，中国军方和政府仍采购 Nvidia 芯片 
+尽管美国禁止向中国出口英伟达芯片，但中国军事机构和国有集团仍设法获得了小批量的半导体。这些芯片因其在人工智能和机器学习方面的卓越能力而在中国备受追捧。美国一直在努力防止这些强大的美国产品落入中国手中，并可能有助于其军事进步。虽然在中国买卖美国芯片并不违法，但中国公司采购英伟达芯片凸显了美国当局在执行限制方面面临的困难。报告还提到，在禁令实施之前，英伟达占据了中国人工智能半导体市场90%的份额。]]></description>
+      <guid>https://t.me/hn_summary/69233</guid>
+      <pubDate>Tue, 16 Jan 2024 03:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]文章讨论了为什么新员工的薪水往往比现有员工高。</title>
+      <link>https://t.me/hn_summary/69232</link>
+      <description><![CDATA[为什么新员工的薪水往往比现有员工高 
+本文讨论了为什么新员工的薪水通常比现有员工高。作者分享了自己的亲身经历，发现一位同事的工资比自己高 4 万美元，从而产生怨恨情绪，最终离开公司。然后，作者探讨了公司向新员工支付更高工资的几个原因，包括希望现有员工离开、加薪受到限制、人力资源团队不考虑长期影响、雇主重视其他地方的经验以及缺乏留住员工的动力。文章最后为那些发现自己的薪酬低于同事的员工提供了建议，例如收集有关薪酬管理的信息、与经理进行公开对话，以及可能提出有竞争力的报价。]]></description>
+      <guid>https://t.me/hn_summary/69232</guid>
+      <pubDate>Tue, 16 Jan 2024 03:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Modeless Vim 是一个 GitHub 项目，它提供配置文件以将 Vim 变成 [...]</title>
+      <link>https://t.me/hn_summary/69231</link>
+      <description><![CDATA[无模式 Vim
+Modeless Vim 是一个 GitHub 项目，它提供了将 Vim 变成无模式编辑器的配置文件。该项目的目的是让更熟悉 VSCode 等图形编辑器但偶尔需要使用终端编辑器的用户更容易使用 Vim。通过使用标准按键绑定而不是神秘的命令，用户可以轻松执行保存、选择文本和复制/粘贴等操作。作者强调，这种配置并不是为 Vim 爱好者设计的，而是为那些喜欢 GUI 编辑器但偶尔需要终端编辑器的人设计的。该项目的独特之处在于保留了 Vim 的强大功能，同时使其对非 Vim 用户更加友好。]]></description>
+      <guid>https://t.me/hn_summary/69231</guid>
+      <pubDate>Tue, 16 Jan 2024 02:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么没有更多的助听器初创公司？</title>
+      <link>https://t.me/hn_summary/69230</link>
+      <description><![CDATA[为什么没有更多助听器初创公司？ 
+该网络内容的作者讨论了助听器初创公司的缺乏，并强调了更实惠、更有效的助听器的潜在社会影响。他们提到了将数字信号处理打包到低计算环境中的挑战。作者对 Whisper.AI 等有前途的初创公司的离开表示悲伤并质疑为什么市场上没有更多的助听器初创公司。]]></description>
+      <guid>https://t.me/hn_summary/69230</guid>
+      <pubDate>Tue, 16 Jan 2024 02:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>问 HN：我应该尝试制造烤面包机吗？</title>
+      <link>https://t.me/hn_summary/69229</link>
+      <description><![CDATA[问 HN：我应该尝试制造烤面包机吗？ 
+news.ycombinator.com 上这篇文章的作者是对机械工程和制造充满热情的软件工程师。他们一直在考虑创业，并对购买美国制造的家居用品感兴趣。他们注意到对美国制造的烤面包机的需求量很大，并正在考虑尝试制造它们。鉴于他们缺乏构建实体产品的经验，作者就是否应该进行这项冒险寻求建议。他们还询问是否有人有兴趣加入他们的这一努力。]]></description>
+      <guid>https://t.me/hn_summary/69229</guid>
+      <pubDate>Tue, 16 Jan 2024 01:36:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]此网页内容的作者讨论了模拟类似 Ubuntu 的 virt 的过程 [...]</title>
+      <link>https://t.me/hn_summary/69228</link>
+      <description><![CDATA[在 macOS 中模拟类似 Ubuntu 的虚拟机
+该网页内容的作者讨论了在 macOS 中模拟类似 Ubuntu 的虚拟机 (VM) 的过程。他们解释说，在使用 Ubuntu 等 Unix 系统的远程系统上工作时，不断启动虚拟机或使用 Docker 容器可能会很不方便。为了解决这个问题，作者创建了一组名为“Friday”的脚本，可以模拟虚拟机、维护状态并允许将容器视为虚拟机。这些脚本包括启动和停止 VM、备份其状态以及登录 VM 等功能。作者还建议设置一个 crontab 来自动备份虚拟机。这些脚本在要点中提供，以便于访问。]]></description>
+      <guid>https://t.me/hn_summary/69228</guid>
+      <pubDate>Tue, 16 Jan 2024 01:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 该博客文章讨论了 TPC-C 实现中 Java 21 虚拟线程的使用 [...]</title>
+      <link>https://t.me/hn_summary/69227</link>
+      <description><![CDATA[Java 虚拟线程导致 PostgreSQL 的 TPC-C 出现死锁
+该博客文章讨论了 PostgreSQL 的 TPC-C 实现中 Java 21 虚拟线程的使用。作者解释说，采用虚拟线程是为了克服由于产生过多物理线程而造成的并发限制。然而，他们在 PostgreSQL 的 TPC-C 中遇到了虚拟线程的死锁问题。这篇文章强调了虚拟线程死锁的不可预测性，并提供了调试死锁的指导。作者还简要讨论了YDB分布式数据库管理系统及其与PostgreSQL的兼容性。这篇文章最后解释了原始 TPC-C 实现中同步数据库请求的问题以及虚拟线程如何解决该问题。 （根据 69% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/69227</guid>
+      <pubDate>Tue, 16 Jan 2024 00:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问 HN：公司是否通过招聘信息聘用首席和员工级别的工程师？</title>
+      <link>https://t.me/hn_summary/69226</link>
+      <description><![CDATA[询问 HN：公司是否通过招聘信息聘用首席和员工级工程师？
+news.ycombinator.com 上这篇文章的作者是表达了对当前软件工程师就业市场的失望。他们认为，大多数公司只是为经验丰富的工程师招聘职位，这些工程师具有特定的资格，而如果没有在顶级公司工作多年，很难获得这些资格。笔者拥有近10年的软件开发经验，但不符合这些职位的要求，他想知道公司是否真的通过招聘信息聘用了合格的人才，或者招聘只是为了满足官僚要求的形式。他们还询问是否值得申请较低资历的职位，以及这个问题是否超出了初创公司的范围，延伸到了更传统的在线零售商。]]></description>
+      <guid>https://t.me/hn_summary/69226</guid>
+      <pubDate>Tue, 16 Jan 2024 00:55:52 GMT</pubDate>
+    </item>
     <item>
       <title>Bluesky 是一个社交媒体平台，最近推出了 RSS 提要，使用户能够获得 [...]</title>
       <link>https://t.me/hn_summary/69225</link>
@@ -20,70 +84,6 @@
 该网络内容的作者反对将编程变成宗教的趋势。他们将宗教信仰的演变与科学理解的演变进行比较，强调知识和适当的编程培训的重要性。作者批评了对 YouTube 教程的依赖以及对计算机系统如何工作缺乏了解。他们强调了盲目追随编程趋势和框架而不了解其基本原理的危险。作者鼓励程序员对自己的代码负责，并不断学习和学习，以便在该领域取得成功。]]></description>
       <guid>https://t.me/hn_summary/69224</guid>
       <pubDate>Tue, 16 Jan 2024 00:17:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]本文讨论了维多利亚时代玻璃火焰手榴弹的历史和使用，这些手榴弹是[...]</title>
-      <link>https://t.me/hn_summary/69223</link>
-      <description><![CDATA[维多利亚时代玻璃火焰手榴弹的美丽与危险&lt; br/&gt;
-本文讨论了维多利亚时代玻璃火手榴弹的历史和用途，这是一种装满盐水或四氯化碳的装饰性玻璃瓶，用于灭火。这些手榴弹被设计为扔到火的底部或悬挂在天花板上以释放其内容物。虽然它们美观，但由于尺寸小，其有效性不确定。手榴弹中使用四氯化碳引起了争议，因为后来发现它对人体健康有害，并且可以与水反应形成危险气体。尽管有这些缺点，手榴弹仍然使用了大约四十年。伦敦消防队博物馆计划在其新博物馆中展示这些物品，以教育游客有关消防安全的知识。]]></description>
-      <guid>https://t.me/hn_summary/69223</guid>
-      <pubDate>Tue, 16 Jan 2024 00:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Faysal Bibi 和 Juan L. 进行的一项研究</title>
-      <link>https://t.me/hn_summary/69222</link>
-      <description><![CDATA[消失的巨人：研究揭示非洲大型哺乳动物的衰落
-Faysal Bibi 和 Juan L. Cantalapiedra 进行的一项研究揭示了过去 1000 万年来非洲大型哺乳动物的数量正在减少。通过分析牙齿化石，研究人员能够重建这些哺乳动物的体型和种群数据。他们发现动物的体型与其种群数量之间存在相关性，较大的物种具有较低的种群密度。令人惊讶的是，体重在 15 至 45 公斤之间的哺乳动物被发现数量低于预期，这可能是由于它们在稀树草原栖息地中很稀有。该研究还挑战了人类是巨型动物数量减少的主要驱动因素的观点，表明环境因素发挥了重要作用。该研究为生态系统动态提供了宝贵的见解，并可为保护工作提供信息。]]></description>
-      <guid>https://t.me/hn_summary/69222</guid>
-      <pubDate>Mon, 15 Jan 2024 23:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者分享了他们尝试使用 v [...] 拍摄长曝光照片的经验</title>
-      <link>https://t.me/hn_summary/69221</link>
-      <description><![CDATA[视频中的长曝光图像
-作者分享了他们尝试使用视频而不是ND滤镜来拍摄长时间曝光照片的经验。它们提供了有关如何使用命令行脚本和工具（如 ffmpeg、alignimagestack 和 imagemagick）将视频转换为长曝光图像的分步指南。作者还提供了他们所取得的结果的示例，强调了三脚架稳定视频和手持拍摄之间的差异。他们的结论是，虽然照片的质量可能不是很好，但这仍然是一个有趣的实验，并建议将来使用间隔计应用程序来获得更高分辨率的图像。]]></description>
-      <guid>https://t.me/hn_summary/69221</guid>
-      <pubDate>Mon, 15 Jan 2024 23:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 据报道，苹果计划从其最新的 smartw 中删除血氧功能 [...]</title>
-      <link>https://t.me/hn_summary/69220</link>
-      <description><![CDATA[Masimo 表示，苹果将取消血氧工具以避免禁令&lt; /a&gt;
-据报道，苹果计划从其最新的智能手表 Series 9 和 Ultra 2 中删除血氧功能，以避免美国对这些设备的禁令。这一决定是由于苹果公司与披露苹果计划的 Masimo Corp. 之间的专利纠纷而做出的。 Masimo Corp. 表示，美国海关和边境保护局已批准此举，表明重新设计将使苹果能够继续销售其手表。血氧功能一直是一个有争议的话题，一些人质疑其准确性和实用性。]]></description>
-      <guid>https://t.me/hn_summary/69220</guid>
-      <pubDate>Mon, 15 Jan 2024 23:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Oppo 推出了 Find X7 和 Find X7 Ultra 智能手机，突出了其 [...]</title>
-      <link>https://t.me/hn_summary/69219</link>
-      <description><![CDATA[Oppo Find X7 Ultra：智能手机配备首款双潜望式变焦
-Oppo 推出了 Find X7 和 Find X7 Ultra 智能手机，强调了其突破性的相机功能。 Find X7 Ultra 是首款配备双潜望式变焦摄像头和 1 英寸索尼 LYT-900 传感器的设备，这是智能手机中有史以来最大的长焦传感器。它还提供卫星电话功能，这使OPPO成为继华为之后第二个提供该功能的国产品牌。 Find X7 Ultra 拥有四主摄像头设置，配备 1 英寸索尼 LYT-900 传感器，由高通 Snapdragon 8 Gen 3 平台提供支持。它还配备了 5000mAh 电池，具有快速充电功能。 Find X7 Ultra 在中国大陆发售，起价 5,999 日元（845 美元）。]]></description>
-      <guid>https://t.me/hn_summary/69219</guid>
-      <pubDate>Mon, 15 Jan 2024 23:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 ihavenotv.com，我们精心挑选了一系列免费在线纪录片 [...]</title>
-      <link>https://t.me/hn_summary/69218</link>
-      <description><![CDATA[观看免费在线纪录片
-在 ihavenotv.com，我们精心挑选了一系列免费在线真正值得您花时间的纪录片。我们精选的列表可确保您不会找到任何与宗教、阴谋、外星人或伪科学相关的内容。我们致力于为观众提供基于事实和证据的高质量、内容丰富的纪录片。告别浪费时间寻找值得观看的内容 - 我们已经为您完成了这项工作。探索我们的收藏并通过在线提供的最佳纪录片扩展您的知识。]]></description>
-      <guid>https://t.me/hn_summary/69218</guid>
-      <pubDate>Mon, 15 Jan 2024 23:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]GE怎么了？</title>
-      <link>https://t.me/hn_summary/69217</link>
-      <description><![CDATA[GE 发生了什么？
-通用电气曾经是世界上最大、最强大的公司，但现在却经历了严重的衰落。其员工大幅减少，股价暴跌。这种失败不是由于创新或欺诈，而是由于复杂业务的管理不善。只有少数人预见到它的到来，作者也承认自己也感到惊讶。 《熄灯：骄傲、妄想和通用电气的衰落》一书详细介绍了导致通用电气垮台的文化、决策和会计。该书揭示了通用电气不惜一切代价追求数字的文化导致了隐藏问题和利用噱头来提高利润。此外，通用电气缺乏合适的人才和系统来有效管理其多元化业务。作者强调，企业很容易犯错误，建议阅读本书以避免类似的陷阱。]]></description>
-      <guid>https://t.me/hn_summary/69217</guid>
-      <pubDate>Mon, 15 Jan 2024 23:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>此 Web 内容是关于 ARMv8 AArch64/ARM64 汇编 La 的综合初学者教程 [...]</title>
-      <link>https://t.me/hn_summary/69216</link>
-      <description><![CDATA[ARMv8 AArch64/ARM64完整初学者汇编教程
-此 Web 内容是有关 ARMv8 AArch64/ARM64 汇编语言的综合初学者教程。作者 Vega 是一位视频游戏作弊代码开发人员，热衷于用各种汇编语言编写代码。本教程由 34 章组成，涵盖基本词汇、内存导航、寄存器、指令格式、基本指令、逻辑运算、异常基础、浮点运算等主题。作者强调了按连续顺序阅读各章节的重要性，并提供了术语表页供参考。值得注意的是，作者提到英语不是他们的母语，并鼓励读者如果发现任何语法错误或不正确的信息，请与他们联系。]]></description>
-      <guid>https://t.me/hn_summary/69216</guid>
-      <pubDate>Mon, 15 Jan 2024 22:43:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
