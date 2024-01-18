@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 18 Jan 2024 00:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 03:13:41 GMT</lastBuildDate>
+    <item>
+      <title>营销开源项目是另一回事</title>
+      <link>https://www.reddit.com/r/opensource/comments/199ffqc/marketing_opensource_projects_is_a_different_beast/</link>
+      <description><![CDATA[我正在致力于营销一个开源营销平台 (v meta)。我想分享一些本月似乎有效的事情，并围绕哪些对从事开源项目营销的其他人有帮助的问题展开对话。  Algora 用于开源赏金创建和管理。这是快速解决问题并让更多开发人员关注回购的好方法。显然，这需要花钱，但投资回报率对我们来说比广告要好得多。您可以在我们的问题页面上查看 Algora GitHub 机器人如何管理我们的问题（如果您喜欢我们的项目，请给我们一颗星！）：https ://github.com/dittofeed/dittofeed/issues 由 Nevo David 运行的 Gitroom Discord 服务器。关于提高 Novu 存储库的参与度，他有很多富有洞察力的事情可以分享。这也是结识其他正在讨论其营销策略的开源贡献者、创始人等的好地方。您还可以与 Nevo 预订办公时间。  我知道营销在开发社区中可能是一个肮脏的词，但不幸的是，如果您构建了它，他们不一定会来，即使它是免费的并且获得了麻省理工学院的许可。很想知道大家的想法。   由   提交 /u/dittofeed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/199ffqc/marketing_opensource_projects_is_a_different_beast/</guid>
+      <pubDate>Thu, 18 Jan 2024 02:43:10 GMT</pubDate>
+    </item>
     <item>
       <title>扫描 Github 寻找仿笔源软件的自动化工具？</title>
       <link>https://www.reddit.com/r/opensource/comments/199bo5u/automated_tool_that_scans_github_for/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/Ammarhalees   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/198rx7x/onsubmit_lightweight_typescript_utilities_for/</guid>
       <pubDate>Wed, 17 Jan 2024 08:34:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>VersionFox：跨平台且可扩展的 SDK 版本管理器，asdf-vm 的替代品。</title>
-      <link>https://www.reddit.com/r/opensource/comments/198kvum/versionfox_a_crossplatform_and_extendable_sdk/</link>
-      <description><![CDATA[   /u/aooohan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/198kvum/versionfox_a_crossplatform_and_extendable_sdk/</guid>
-      <pubDate>Wed, 17 Jan 2024 02:02:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
