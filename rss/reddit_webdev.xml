@@ -4,20 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 15:13:19 GMT</lastBuildDate>
+    <item>
+      <title>这门课程还有意义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19akstj/is_this_course_still_relevant/</link>
+      <description><![CDATA[我对 Web 开发还很陌生，想找到一个好的课程或教程，所以我想问一下 WB Web 是否有全栈 Web 开发课程YouTube 上的开发解决方案仍然具有相关性，因为它是 5-4 年前上传的。 https ://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz   由   提交/u/23_RIkzy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19akstj/is_this_course_still_relevant/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能学习使用现有的东西，而不是尝试从头开始构建一切？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19akq7g/how_can_i_learn_using_existing_things_instead_of/</link>
+      <description><![CDATA[我主要是前端开发人员，但我也了解一些后端（Node JS）。每当我需要构建一些东西时，我只能通过自己编写所有内容来完成。对于大型项目，我想这没问题，但如果我需要构建一个简单的网站，我绝对不知道该怎么做。我知道从头开始编写所有内容对于简单的通用网站来说并不是正确的方法。有一些技术可以做到这一点，但我不知道如何使用它们，我什至不知道这些技术是什么，而且我非常害怕必须构建一个简单的通用网站。我怎样才能擅长这个？  示例：假设我需要为一家小商店建立一个网站，该商店只想展示其商店中的产品。 （没有在线购买或订购功能，只有每种产品的信息页面）它有一个自定义的网页设计，需要在此基础上构建网站。为了尽快完成这个项目，您将使用哪些技术？   由   提交/u/banana_owner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19akq7g/how_can_i_learn_using_existing_things_instead_of/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:47:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年网络保险保费预计将增加，勒索软件位居首位</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ak2nu/cyber_insurance_premiums_expected_to_increase_in/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ak2nu/cyber_insurance_premiums_expected_to_increase_in/</guid>
+      <pubDate>Fri, 19 Jan 2024 14:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑转行 - 我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ailro/thinking_of_a_career_change_what_should_i_do/</link>
+      <description><![CDATA[背景：我是一名拥有 12 年游戏经验的 Web 开发人员，但我知道我的技能远不止编程。编码是我盒子里的一个工具，但这个盒子是由我拥有的更强大的技能构建的——在客户的问题和解决方案中，我真的变得活跃起来。我无法解释我是多么喜欢找到问题的解决方案以及对最终客户的影响......  所以我的问题是，什么职业适合这里？什么可以将我的技术背景与我为人们寻找解决方案和解决问题的能力结合起来？  TIA :)    由   提交/u/TomWoody96  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ailro/thinking_of_a_career_change_what_should_i_do/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们不小心创造了一个热门产品 - 它是 Photify AI 机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ai7ru/we_accidentally_created_a_hit_its_photify_ai_bot/</link>
+      <description><![CDATA[Photify AI 是人工智能驱动的照片生成器，让您只需 2 秒一张自拍照即可获得大量精彩照片！您可以选择预定义的提示或编写自己的提示来更改外观、身材、情绪、肤色、种族、文化等，为您的照片带来独特且鼓舞人心的触感。  这一切都从 Botify AI 应用程序开始，您可以在其中创建一个角色来聊天。在交谈时，您可以获得机器人应要求发送给您的令人惊叹的照片。这些图片会根据对话上下文和默认机器人面孔进行变换。例如，如果你与冬季女王弗利萨谈论美好的暑假，她会给你发一张穿着泳衣的照片......还有雪花。  两个月前，我们的一次每周例会让我们想到在 Messenger 中单独尝试这个照片模型，作为一个机器人来修改用户根据他们写的提示下载的图片。我们创建了 Telegram 机器人，第一周就超出了我们的所有预期！最近，我们为 Play Market 制作了一个应用程序，因此我们获得了超过 2 000 000 个请求！  您可以使用 Photify AI 做什么： 表达自己：无论您是内容创作者、影响者，还是只是喜欢分享故事的人，Photify AI 都是您的选择- 真实视觉叙事的工具。在照片中展示人类多样性的丰富性，让您的创造力飙升。 为变化做好准备：坚持使用 Photify AI 来预测您对未来发型的期望。收集令人印象深刻的衣服和你穿着它们的照片，创建一个情绪板来想象你的未来或让它立即发生。  与好友一起欢笑：用粉红色精灵发型或可爱的巴黎之旅为您的照片带来意想不到的转变，将照片发送给您的朋友并等待他们的反应。有更多的东西可以将你和你的爱人联系起来总是很好的。  打破障碍：Photify AI 不仅仅是一个应用程序，更是一种声明。通过打破视觉障碍，它鼓励我们感知和欣赏差异的方式发生积极转变。这是朝着促进包容性和庆祝人类织锦迈出的一步。 现在我们推出了 Product Hunt：https ://www.producthunt.com/posts/photify-ai 并将感谢您的反馈和支持。我们已经掌握了很多，如果能够继续扩大我们对用户体验的了解，那就太好了。    由   提交/u/guardedallegory588  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ai7ru/we_accidentally_created_a_hit_its_photify_ai_bot/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React Hook Form 构建动态表单</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ai5me/build_dynamic_forms_with_react_hook_form/</link>
+      <description><![CDATA[       由   提交/u/Clarity_89  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ai5me/build_dynamic_forms_with_react_hook_form/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>易于使用 FOSS MITM 代理 (forwarder-proxy.io)</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ai1ko/easy_to_use_foss_mitm_proxy_forwarderproxyio/</link>
+      <description><![CDATA[我在 Sauce Labs 工作，开发快速 MITM 代理，该代理易于设置和运行。 通过这个项目，我们的目标是提供在各种环境（例如 Windows 和 macOS）中提供最佳代理体验。 Sauce Labs 是一家进行大规模 Web/移动测试的公司，我们每天使用这项技术代理大量数据。 我邀请您探索转发器：  GitHub 存储库：https://github.com/ Saucelabs/forwarder 文档站点：https://forwarder-proxy.io  我希望这有帮助！如果您还有任何其他问题，请告诉我。   由   提交/u/mmatczuk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ai1ko/easy_to_use_foss_mitm_proxy_forwarderproxyio/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Google Fonts 中的 Ubuntu 字体在 Chromium 浏览器上看起来那么难看？火狐浏览器看起来不错。</title>
       <link>https://www.reddit.com/r/webdev/comments/19agphj/why_does_ubuntu_font_from_google_fonts_looks_so/</link>
       <description><![CDATA[   /u/ConfusedIlluminati   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19agphj/why_does_ubuntu_font_from_google_fonts_looks_so/</guid>
       <pubDate>Fri, 19 Jan 2024 11:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase - 无法使基本注册和数据库工作正常（初学者））</title>
-      <link>https://www.reddit.com/r/webdev/comments/19agd0s/supabase_failing_to_get_basic_signup_and_database/</link>
-      <description><![CDATA[我有两个表，一个是supabase身份验证（称为“用户”），其中自动存储信息。工作正常。我还尝试将出生日期存储在另一个表“user_profiles”中（列：id | created_at | date_of_birth | user_id）。 user_id 指向 auth.users.id。  问题：我收到“用户对象在注册后未定义”。另外（也许是结果），按下注册按钮后，我没有将任何行添加到我的 user_profiles 表中。该表应为每个唯一用户存储 1 行。同时，如果我刷新页面，它现在会添加到此表中（我收到消息说用户已登录，并且“没有从配置文件插入返回数据”），但如果我随后保留令人耳目一新的是，越来越多的行被无意中添加。这是我的代码： https://paste.ofcode.org/Ke8WK2K3YLh9aTt2eh8tsd 一直在敲我的头几天了，希望有人能帮忙。我对 webdev / 前端的东西完全陌生。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19agd0s/supabase_failing_to_get_basic_signup_and_database/</guid>
-      <pubDate>Fri, 19 Jan 2024 10:46:42 GMT</pubDate>
     </item>
     <item>
       <title>新手从头开始构建 Micro-SaaS，以便其他人可以学习。</title>
@@ -55,13 +97,6 @@
       <pubDate>Fri, 19 Jan 2024 09:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>SAP Ariba 有何用途？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</link>
-      <description><![CDATA[非常非常初学者的问题，因为我从来没有处理过这个问题。 我管理一个朋友的网站，用 Avada 构建， Wordpress。 他收到了一封标题为“SAP Ariba 网站证书续订”的电子邮件。上面写着“以下 URL 的现有 Web 证书即将过期。 ” 这些网址中都包含 ariba，例如“api.ariba.com”。 问题是，我什至不知道该网站是否使用 ariba，或者做什么。 网站网址是“example.com”，并且没有一个网址使用“ariba”。 任何人都可以帮助我了解 Ariba 的用途吗？以及如何确定网站是否使用 ariba？ 提前致谢。   由   提交 /u/boredchuvak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</guid>
-      <pubDate>Fri, 19 Jan 2024 08:50:09 GMT</pubDate>
-    </item>
-    <item>
       <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，请问我可以得到一些反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</link>
       <description><![CDATA[   /u/Seaweed_Widef  [链接] [评论] &lt; /表&gt;]]></description>
@@ -74,41 +109,6 @@
       <description><![CDATA[这是一个更概念性的问题，而不是寻找具体的实现。我对视频播放器的情况感兴趣，例如YouTube。它可以在浏览器最小化时暂停视频渲染以减少数据使用吗？ 我只是想知道我是否在后台播放音乐，视频是否仍然正常缓冲，或者是否可以有一些优化技巧仅在后台运行音频？   由   提交/u/gigigigigi55555  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19aekev/can_a_website_understand_if_the_browsertab_is/</guid>
       <pubDate>Fri, 19 Jan 2024 08:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我尝试提交网站网址时，Google 广告抓取工具给出错误 301 重定向</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</link>
-      <description><![CDATA[请帮助解决此问题。 每当我尝试提交网址时，它都会在桌面上给出 301 重定向错误，但不会 但是我在桌面上打开了网站，一切都很好，网址在评论下面   由   提交/u/Inevitable_Ad525   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</guid>
-      <pubDate>Fri, 19 Jan 2024 08:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件的尝试分类</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</guid>
-      <pubDate>Fri, 19 Jan 2024 07:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我正在构建的软件正在解决真正棘手的问题，或者拥有产品只是一件好事，请提供诚实的反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</link>
-      <description><![CDATA[我正在构建一个 AI 工具，它可以读取需求文档和相关的代码库，并可以在这两者之间进行映射。然后说你有 12 个要求。 6 很容易做到，因此门票很快就关闭了。但其他 6 个对开发人员来说具有复杂的依赖关系或学习曲线。所以第二批看起来好像没有在板上移动。但随着越来越多的功能被构建来支持这些需求，这个工具可以显示出更详细的进展。公司愿意为这样的工具付费吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</guid>
-      <pubDate>Fri, 19 Jan 2024 06:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是简单网站、普通网站和高级网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19abt6r/what_is_considered_simple_normal_and_advanced/</link>
-      <description><![CDATA[正如标题所示，就 HTML 和 CSS 而言，什么被认为是简单网站和高级网站？我目前是一名初学者，我很好奇什么是简单的和高级的。如果有人可以发送一些与此相关的链接，我将不胜感激   由   提交/u/XtremeX9x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19abt6r/what_is_considered_simple_normal_and_advanced/</guid>
-      <pubDate>Fri, 19 Jan 2024 05:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用交易计算股票投资组合的解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ab8xc/solution_for_computing_equity_portfolio_using/</link>
-      <description><![CDATA[各位 Reddit 用户大家好 我正在寻找一个 API 或 NPM 包，它可以接收交易列表（股票/期货） /etc)，然后对其执行各种计算。这包括计算当前持有量、提供投资回报率图表以及夏普比率等潜在的其他财务指标。  我最初打算通过获取股票的单独价格（来自雅虎财经等）来自己编写代码，但是，很快我意识到股票分割、合并、股息等事情使得这个任务比我想象的要复杂得多。由于这是一个相对复杂的工具（每个金融相关网站都会需要），我预计会有现有的 NPM 包或 SaaS 来解决这个问题，但没有找到。有人能指出我正确的方向吗？   由   提交 /u/devmrfitz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ab8xc/solution_for_computing_equity_portfolio_using/</guid>
-      <pubDate>Fri, 19 Jan 2024 05:07:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

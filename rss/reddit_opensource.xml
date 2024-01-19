@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 15:13:25 GMT</lastBuildDate>
+    <item>
+      <title>BehavEye：高级动态恶意软件分析工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/19al5pr/behaveye_advanced_dynamic_malware_analysis_tool/</link>
+      <description><![CDATA[BehavEye 是一款高级恶意软件分析工具，可监控恶意软件行为并提供有关所发生的一切的全面日志。  功能：  监控连接 监控进程操作（模拟令牌、创建欺骗父级、打开进程句柄、创建新进程、设置进程信息、获取系统信息、进程内存写入/读取等） 监视注册表操作 监视用户 API（例如，如果进程尝试查找具有特定名称的窗口、获取剪贴板数据、获取用户上次活动时间、挂钩可用于键盘记录的鼠标或键盘，等） 监视驱动程序操作（监视驱动程序/服务创建、监视进程是否尝试与服务/内核驱动程序通信等） 杂项监控（监控进程是否试图使系统崩溃、关闭系统等）  以及更多。   由   提交/u/AhmedMinegames  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19al5pr/behaveye_advanced_dynamic_malware_analysis_tool/</guid>
+      <pubDate>Fri, 19 Jan 2024 15:06:48 GMT</pubDate>
+    </item>
     <item>
       <title>伙计们，我计划为 GitHub 上的开源项目做出贡献。您推荐的任何项目以及在贡献之前我应该​​先做什么。</title>
       <link>https://www.reddit.com/r/opensource/comments/19ahgy8/guys_i_am_plan_on_contribute_to_open_source/</link>
       <description><![CDATA[任何与编程无关的内容。因为我只了解 python 的基础知识   由   提交 /u/MrRagnarok2005   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19ahgy8/guys_i_am_plan_on_contribute_to_open_source/</guid>
       <pubDate>Fri, 19 Jan 2024 11:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>不为开源做出贡献吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/19aguwj/dont_contribute_to_open_source/</link>
-      <description><![CDATA[我相信你们很多人一定已经知道 twitter/x 上发生了什么。上下文此处。 编辑： 人们的提要上出现一条热门推文，并且如果您活跃在 Twitter 上，您可能遇到过这种情况。该推文讨论了一个名为“不要为开源做出贡献”的 YouTube 视频。我没有看过该视频，因此无法对其内容提供反馈。然而，该推文被引用如下：   他是 100%正确的，而且比我们想象的还要糟糕 我是一名最近的 OSS 开发人员，但我见过很多机构强迫学生为 OSS 项目做出贡献，只是为了在 GitHub 个人资料上炫耀，让他们“值得雇用”  有回复：  如果你看看所有那些为了金钱和赃物而做出贡献的人（无用的公关）的例子，99.9％的人都来自印度！！证明我错了  这个回应是有点种族主义。我来自印度，是一名开源倡导者。  ​   由   提交 /u/withshubh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19aguwj/dont_contribute_to_open_source/</guid>
-      <pubDate>Fri, 19 Jan 2024 11:19:23 GMT</pubDate>
     </item>
     <item>
       <title>OpenSign™ - 免费开源 DocuSign 替代品。</title>
@@ -106,7 +106,7 @@
     <item>
       <title>扫描 Github 寻找仿笔源软件的自动化工具？</title>
       <link>https://www.reddit.com/r/opensource/comments/199bo5u/automated_tool_that_scans_github_for/</link>
-      <description><![CDATA[我已经有点厌倦了很多次我在野外看到 Github 项目，例如，人们在他们的项目上强加了 GPL。项目然后说：“顺便说一句，请勿用于商业用途，谢谢”或者“我的附加许可证禁止您违反我个人制定的这些特定的主观道德立场”。 我在想，拥有一个可以抓取 Github 的自动化工具可能会很酷检测可能符合此要求的项目，以便作者可以收到有关其错误的通知，并提供纠正错误的机会。 你觉得呢？知道已经有类似的东西了吗？   由   提交 /u/saxbophone   [链接] [评论]]]></description>
+      <description><![CDATA[我已经厌倦了很多次在野外看到 Github 项目，例如，人们在他们的项目上强加了 GPL。项目然后说：“顺便说一句，请勿用于商业用途，谢谢”或者“我的附加许可证禁止您违反我个人制定的这些特定的主观道德立场”。 我在想，拥有一个可以抓取 Github 的自动化工具可能会很酷检测可能符合此要求的项目，以便作者可以收到有关其错误的通知，并提供纠正错误的机会。 你觉得呢？知道已经有类似的东西了吗？   由   提交 /u/saxbophone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/199bo5u/automated_tool_that_scans_github_for/</guid>
       <pubDate>Wed, 17 Jan 2024 23:49:31 GMT</pubDate>
     </item>
