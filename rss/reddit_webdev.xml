@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 09:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 12:21:57 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Google Fonts 中的 Ubuntu 字体在 Chromium 浏览器上看起来那么难看？火狐浏览器看起来不错。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19agphj/why_does_ubuntu_font_from_google_fonts_looks_so/</link>
+      <description><![CDATA[   /u/ConfusedIlluminati   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19agphj/why_does_ubuntu_font_from_google_fonts_looks_so/</guid>
+      <pubDate>Fri, 19 Jan 2024 11:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supabase - 无法使基本注册和数据库工作正常（初学者））</title>
+      <link>https://www.reddit.com/r/webdev/comments/19agd0s/supabase_failing_to_get_basic_signup_and_database/</link>
+      <description><![CDATA[我有两个表，一个是supabase身份验证（称为“用户”），其中自动存储信息。工作正常。我还尝试将出生日期存储在另一个表“user_profiles”中（列：id | created_at | date_of_birth | user_id）。 user_id 指向 auth.users.id。  问题：我收到“用户对象在注册后未定义”。另外（也许是结果），按下注册按钮后，我没有将任何行添加到我的 user_profiles 表中。该表应为每个唯一用户存储 1 行。同时，如果我刷新页面，它现在会添加到此表中（我收到消息说用户已登录，并且“没有从配置文件插入返回数据”），但如果我随后保留令人耳目一新的是，越来越多的行被无意中添加。这是我的代码： https://paste.ofcode.org/Ke8WK2K3YLh9aTt2eh8tsd 一直在敲我的头几天了，希望有人能帮忙。我对 webdev / 前端的东西完全陌生。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19agd0s/supabase_failing_to_get_basic_signup_and_database/</guid>
+      <pubDate>Fri, 19 Jan 2024 10:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手从头开始构建 Micro-SaaS，以便其他人可以学习。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ag9g6/newbie_building_a_microsaas_from_scratch_so/</link>
+      <description><![CDATA[Hola 👋 为了帮助其他像我一样刚刚入门的人，我正在记录我正在构建的内容，以便人们可以逐步遵循并提出问题。 这将是一个单页应用程序，可以消化用户反馈，以便产品经理可以轻松了解下一步要构建的内容。 这里是： 第 1 周视频 请随时提出任何问题，我会的在这里闲逛。   由   提交/u/oba2311  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ag9g6/newbie_building_a_microsaas_from_scratch_so/</guid>
+      <pubDate>Fri, 19 Jan 2024 10:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>给我一些东西来建造</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ag89p/give_me_something_to_build/</link>
+      <description><![CDATA[我刚刚完成了一个基于 Node Express BE 和 Vue FE 构建的股票筛选器。我正在寻求用不同的语言构建新的东西（在我们只使用 JS 的工作）。我不知道下一步应该构建什么，我花了几天时间试图找出下一步应该做什么。任何建议都值得赞赏，包括想法、要使用的语言或要采用的任何特定模式/范式。   由   提交/u/Kryanu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ag89p/give_me_something_to_build/</guid>
+      <pubDate>Fri, 19 Jan 2024 10:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>ploi.io 中的克隆站点，但 DNS 记录仍解析为原始站点</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ag29h/cloned_site_in_ploiio_but_dns_records_still/</link>
+      <description><![CDATA[我从 adultsmareach.co.uk 克隆了一个网站超过 24 小时前访问 bmd-hub.org，但仍解析为原始站点，并且 ploi 中的 DNS 记录显示原始站点记录 在 Cloudflare 中，我使用指向我的 ploi 服务器的 IP 注册了域名。我也为其他一些网站设置了此设置，运行良好。 Cloudflare 中的所有域都指向相同的 IP（我的服务器），但 bmd-hub.org 仍解析为 adultsmareach.co.uk 在ploi，我去了adultsmareach 并“管理”然后“克隆站点”，然后将域设置为 bmd-hub.org。 如果我直接访问 bmd-hub.org 或从 ploi 内部访问，它会访问 Adultmareach.co.uk反而。如果我从 ploi 中查看 DNS 记录，我可以看到它们仍然指向 Adultmareach.co.uk 设置。 是否需要更改某些内容才能使其正确指向新域？    由   提交/u/jayrdi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ag29h/cloned_site_in_ploiio_but_dns_records_still/</guid>
+      <pubDate>Fri, 19 Jan 2024 10:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>老实说，我最喜欢的运营商之一</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ag133/honestly_one_of_my_favourite_operators/</link>
+      <description><![CDATA[       由   提交/u/ninthessence   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ag133/honestly_one_of_my_favourite_operators/</guid>
+      <pubDate>Fri, 19 Jan 2024 10:22:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么使用 VueJs 作为文件浏览器</title>
+      <link>https://www.reddit.com/r/webdev/comments/19af42j/why_vuejs_for_file_explorer/</link>
+      <description><![CDATA[我想为 Windows 制作一个文件浏览器，尝试了所有浏览器，但没有一个适合我。 我是考虑使用 Vue3 Typescript Tailwind ElectronJS。我的目标是使其功能齐全，复制粘贴、删除、打开文件、搜索、排序，以及 Windows 文件资源管理器中的任何功能。Vue 因为它简单，并且与 React 相比，将使开发过程超级快。&lt; br /&gt; Tailwind - 我将制作完全定制的 ui，超级美观且令人愉悦且友好。 整个目标是使其美观，UI 厚重，超级用户友好，并且在导航和搜索方面具有高性能，并且像 VSCode 一样非常可定制。其他一切都已经存在于本机资源管理器中，但我仍然会在我的资源管理器中实现它们。 它将是开源的，以便其他人可以做出贡献，我希望人们找到它，使用它，并感到惊讶。所以它不像一个宠物项目，我打算长期致力于它。 为什么我应该使用 Vue3 而不是 React - 以及 - 为什么我应该使用 React 而不是 Vue3。任何人或两者。 讲述所有观点、技术观点、性能、调试、输出代码质量、库。 除此之外，也欢迎其他建议和意见。 😄   由   提交 /u/Himanshu_Chauhan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19af42j/why_vuejs_for_file_explorer/</guid>
+      <pubDate>Fri, 19 Jan 2024 09:18:38 GMT</pubDate>
+    </item>
     <item>
       <title>SAP Ariba 有何用途？</title>
       <link>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</link>
@@ -13,9 +62,9 @@
       <pubDate>Fri, 19 Jan 2024 08:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，我可以得到一些反馈吗？</title>
+      <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，请问我可以得到一些反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</link>
-      <description><![CDATA[   /u/Seaweed_Widef   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/Seaweed_Widef  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</guid>
       <pubDate>Fri, 19 Jan 2024 08:45:22 GMT</pubDate>
     </item>
@@ -43,16 +92,9 @@
     <item>
       <title>如果我正在构建的软件正在解决真正棘手的问题，或者拥有产品只是一件好事，请提供诚实的反馈。</title>
       <link>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</link>
-      <description><![CDATA[我正在构建一个 AI 工具，它可以读取需求文档和相关的代码库，并可以在这两者之间进行映射。然后说你有 12 个要求。 6 很容易做到，因此门票很快就关闭了。但其他 6 个对开发人员来说具有复杂的依赖关系或学习曲线。所以第二批看起来好像没有在板上移动。但随着越来越多的功能被构建来支持这些要求，这个工具可以显示正在取得的更详细的进展。公司愿意为这样的工具付费吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
+      <description><![CDATA[我正在构建一个 AI 工具，它可以读取需求文档和相关的代码库，并可以在这两者之间进行映射。然后说你有 12 个要求。 6 很容易做到，因此门票很快就关闭了。但其他 6 个对开发人员来说具有复杂的依赖关系或学习曲线。所以第二批看起来好像没有在板上移动。但随着越来越多的功能被构建来支持这些需求，这个工具可以显示出更详细的进展。公司愿意为这样的工具付费吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</guid>
       <pubDate>Fri, 19 Jan 2024 06:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮忙</title>
-      <link>https://www.reddit.com/r/webdev/comments/19acuy4/need_help/</link>
-      <description><![CDATA[开发者们大家好。我是一名 Web 开发人员，擅长 React NodeJs、Postgres、MongoDb、express、Jest。可以从头开始构建整个应用程序。硬核工程师，因为我拥有工程学位和网络开发文凭。 几个月前，我精疲力竭，完全停止了编码。我感觉很糟糕，因为我为成为一名全栈开发人员付出了很多努力。当公司不断要求提供越来越多的知识时，我感到沮丧。  我觉得我学习了很多，这是一个无尽的循环，因为作为开发人员，你总是要学习如何在游戏中处于领先地位。我学东西很快，也很勤奋。  退出后，我觉得开发不适合我，由于我以前的经验，我以某种方式进入了生产工程。现在，我在一家公司呆了一个星期，在那里我学习钻孔、磨削、焊接和所有车间工程技能，但由于担心引发事故，我无法学习所有这些技能，所以我崩溃了。我无法集中注意力。 在工作期间，我不断地思考我的 Web 开发日子以及我如何快乐地完成它。 每天我至少思考开发 10 次天。  我是一名优秀的开发人员，但我精疲力竭，觉得这不适合我，但我总是被拖去思考一般的逻辑。我沉迷于发展，但我害怕倦怠。  我和我的老板聊过，他是一个友善的人。他给了我一个周末的时间来思考我想做什么。 所以我在这里只是分享我的故事，并希望得到一些意见。 我个人认为我应该回来在开发中，因为我有一点知识并且大部分都喜欢这样做。  请告诉我您的想法。   由   提交/u/freakven8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19acuy4/need_help/</guid>
-      <pubDate>Fri, 19 Jan 2024 06:42:33 GMT</pubDate>
     </item>
     <item>
       <title>什么是简单网站、普通网站和高级网站？</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[各位 Reddit 用户大家好 我正在寻找一个 API 或 NPM 包，它可以接收交易列表（股票/期货） /etc)，然后对其执行各种计算。这包括计算当前持有量、提供投资回报率图表以及夏普比率等潜在的其他财务指标。  我最初打算通过获取股票的单独价格（来自雅虎财经等）来自己编写代码，但是，很快我意识到股票分割、合并、股息等事情使得这个任务比我想象的要复杂得多。由于这是一个相对复杂的工具（每个金融相关网站都会需要），我预计会有现有的 NPM 包或 SaaS 来解决这个问题，但没有找到。有人能指出我正确的方向吗？   由   提交 /u/devmrfitz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ab8xc/solution_for_computing_equity_portfolio_using/</guid>
       <pubDate>Fri, 19 Jan 2024 05:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自己审查代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aaf5l/how_to_reviewing_code_myself/</link>
-      <description><![CDATA[在开发 Web 应用程序时，我总是尝试遵循企业的指导方针。我做了很多个人项目，我使用 GitHub 来管理项目源。我对这个过程有疑问。如何查看自己编写的代码？代码审查时如何避免遗漏部分？我想知道你的想法。 （这不是关于一种语言，有时我会使用多种语言。）   由   提交/u/lasan0432G   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aaf5l/how_to_reviewing_code_myself/</guid>
-      <pubDate>Fri, 19 Jan 2024 04:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>共享项目模板的网站名称是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aacl0/whats_the_name_of_website_for_sharing_project/</link>
-      <description><![CDATA[我知道有网站和 cli 工具，可以让您轻松选择和初始化 React、Angular 等项目模板。网站上有很多模板列出，类似于 docker hub。我认为它有字母 o 和 m。 我忘记了名字，有人知道我在说什么吗？ 更新：它是 https://yeoman.io/    ;由   提交 /u/CatolicQuotes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aacl0/whats_the_name_of_website_for_sharing_project/</guid>
-      <pubDate>Fri, 19 Jan 2024 04:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 承诺培训</title>
-      <link>https://www.reddit.com/r/webdev/comments/19aa3iz/javascript_promises_training/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19aa3iz/javascript_promises_training/</guid>
-      <pubDate>Fri, 19 Jan 2024 04:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 mousemove 先触发而不是 mousedown 触发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a9p10/why_mousemove_triggers_first_than_mousedown/</link>
-      <description><![CDATA[嗨。仅当我在浏览器的开发控制台中将设备切换到 ipad air、ipad pro 或 Surface 设备时才会发生这种情况。 ipad mini 工作正常。 首先触发 mousemove 而不是 mousedown  有人遇到过这种情况吗？可能是什么原因？   由   提交 /u/chitgoks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a9p10/why_mousemove_triggers_first_than_mousedown/</guid>
-      <pubDate>Fri, 19 Jan 2024 03:44:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该学习前端开发吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a9lt4/should_i_study_front_end_development/</link>
-      <description><![CDATA[您好，新来的，很抱歉，如果这不是提问的正确地方，我一直将编程和计算机作为一种爱好，但我&#39;我现在进入学校，不知道我应该做什么，我正在学习图形设计、商业应用程序的初级 Java 编程、cs 简介（c++、数据结构基础知识我很确定）以及使用 html 进行网站开发（我假设那是前端开发。）所以我的问题是 即使我正在学习后端，html 网站开发是否值得进行，或者我想要将其切换为的另外两个选择是 面向开发人员的云计算（SaaS、IaaS、PaaS、SaaS 简介） 或网络安全简介：道德黑客  我没有任何具体内容目标，我不在乎学位，我只想获得尽可能多的重要计算机知识，并从中获得乐趣并从中赚钱（如果这是一种不好的编程方式，请LMK） &lt; p&gt;非常感谢大家的帮助   由   提交/u/488thespider  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a9lt4/should_i_study_front_end_development/</guid>
-      <pubDate>Fri, 19 Jan 2024 03:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端开发人员在这里假装是前端……处理文本动画的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a8xgb/backend_dev_here_pretending_to_be_frontendwhats/</link>
-      <description><![CDATA[作为个人项目从事前端工作。我有一个标题来设置，在简短的声明中循环显示单词 - “让我们[单词]。”协作、连接等等。 尝试通过 CSS/JS 来做到这一点正在考验我。我也找不到一个可以完美动画的 Wordpress 插件 - 变量单词应该从顶部输入，将当前单词向下推，然后循环浏览选项直到点击某个单词。 有谁知道吗？这里有资源推荐或喜欢的插件吗？   由   提交/u/NormalComputer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a8xgb/backend_dev_here_pretending_to_be_frontendwhats/</guid>
-      <pubDate>Fri, 19 Jan 2024 03:05:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
