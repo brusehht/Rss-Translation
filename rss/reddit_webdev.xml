@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Jan 2024 06:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 09:13:10 GMT</lastBuildDate>
+    <item>
+      <title>SAP Ariba 有何用途？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</link>
+      <description><![CDATA[非常非常初学者的问题，因为我从来没有处理过这个问题。 我管理一个朋友的网站，用 Avada 构建， Wordpress。 他收到了一封标题为“SAP Ariba 网站证书续订”的电子邮件。上面写着“以下 URL 的现有 Web 证书即将过期。 ” 这些网址中都包含 ariba，例如“api.ariba.com”。 问题是，我什至不知道该网站是否使用 ariba，或者做什么。 网站网址是“example.com”，并且没有一个网址使用“ariba”。 任何人都可以帮助我了解 Ariba 的用途吗？以及如何确定网站是否使用 ariba？ 提前致谢。   由   提交 /u/boredchuvak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19aepnv/what_is_sap_ariba_used_for/</guid>
+      <pubDate>Fri, 19 Jan 2024 08:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我今年即将毕业，目前正在做一些项目，同时更新一些旧的项目，我也准备申请工作，这是我简历的第一版，我可以得到一些反馈吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</link>
+      <description><![CDATA[   /u/Seaweed_Widef   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19aen6o/i_am_graduating_this_year_and_i_am_currently/</guid>
+      <pubDate>Fri, 19 Jan 2024 08:45:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站可以理解浏览器/选项卡是否最小化吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19aekev/can_a_website_understand_if_the_browsertab_is/</link>
+      <description><![CDATA[这是一个更概念性的问题，而不是寻找具体的实现。我对视频播放器的情况感兴趣，例如YouTube。它可以在浏览器最小化时暂停视频渲染以减少数据使用吗？ 我只是想知道我是否在后台播放音乐，视频是否仍然正常缓冲，或者是否可以有一些优化技巧仅在后台运行音频？   由   提交/u/gigigigigi55555  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19aekev/can_a_website_understand_if_the_browsertab_is/</guid>
+      <pubDate>Fri, 19 Jan 2024 08:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我尝试提交网站网址时，Google 广告抓取工具给出错误 301 重定向</title>
+      <link>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</link>
+      <description><![CDATA[请帮助解决此问题。 每当我尝试提交网址时，它都会在桌面上给出 301 重定向错误，但不会 但是我在桌面上打开了网站，一切都很好，网址在评论下面   由   提交/u/Inevitable_Ad525   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/</guid>
+      <pubDate>Fri, 19 Jan 2024 08:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 组件的尝试分类</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ad7hw/an_attempted_taxonomy_of_web_components/</guid>
+      <pubDate>Fri, 19 Jan 2024 07:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我正在构建的软件正在解决真正棘手的问题，或者拥有产品只是一件好事，请提供诚实的反馈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</link>
+      <description><![CDATA[我正在构建一个 AI 工具，它可以读取需求文档和相关的代码库，并可以在这两者之间进行映射。然后说你有 12 个要求。 6 很容易做到，因此门票很快就关闭了。但其他 6 个对开发人员来说具有复杂的依赖关系或学习曲线。所以第二批看起来好像没有在板上移动。但随着越来越多的功能被构建来支持这些要求，这个工具可以显示正在取得的更详细的进展。公司愿意为这样的工具付费吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/</guid>
+      <pubDate>Fri, 19 Jan 2024 06:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮忙</title>
+      <link>https://www.reddit.com/r/webdev/comments/19acuy4/need_help/</link>
+      <description><![CDATA[开发者们大家好。我是一名 Web 开发人员，擅长 React NodeJs、Postgres、MongoDb、express、Jest。可以从头开始构建整个应用程序。硬核工程师，因为我拥有工程学位和网络开发文凭。 几个月前，我精疲力竭，完全停止了编码。我感觉很糟糕，因为我为成为一名全栈开发人员付出了很多努力。当公司不断要求提供越来越多的知识时，我感到沮丧。  我觉得我学习了很多，这是一个无尽的循环，因为作为开发人员，你总是要学习如何在游戏中处于领先地位。我学东西很快，也很勤奋。  退出后，我觉得开发不适合我，由于我以前的经验，我以某种方式进入了生产工程。现在，我在一家公司呆了一个星期，在那里我学习钻孔、磨削、焊接和所有车间工程技能，但由于担心引发事故，我无法学习所有这些技能，所以我崩溃了。我无法集中注意力。 在工作期间，我不断地思考我的 Web 开发日子以及我如何快乐地完成它。 每天我至少思考开发 10 次天。  我是一名优秀的开发人员，但我精疲力竭，觉得这不适合我，但我总是被拖去思考一般的逻辑。我沉迷于发展，但我害怕倦怠。  我和我的老板聊过，他是一个友善的人。他给了我一个周末的时间来思考我想做什么。 所以我在这里只是分享我的故事，并希望得到一些意见。 我个人认为我应该回来在开发中，因为我有一点知识并且大部分都喜欢这样做。  请告诉我您的想法。   由   提交/u/freakven8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19acuy4/need_help/</guid>
+      <pubDate>Fri, 19 Jan 2024 06:42:33 GMT</pubDate>
+    </item>
     <item>
       <title>什么是简单网站、普通网站和高级网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/19abt6r/what_is_considered_simple_normal_and_advanced/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[作为个人项目从事前端工作。我有一个标题来设置，在简短的声明中循环显示单词 - “让我们[单词]。”协作、连接等等。 尝试通过 CSS/JS 来做到这一点正在考验我。我也找不到一个可以完美动画的 Wordpress 插件 - 变量单词应该从顶部输入，将当前单词向下推，然后循环浏览选项直到点击某个单词。 有谁知道吗？这里有资源推荐或喜欢的插件吗？   由   提交/u/NormalComputer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19a8xgb/backend_dev_here_pretending_to_be_frontendwhats/</guid>
       <pubDate>Fri, 19 Jan 2024 03:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何添加可在画布上使用的退出按钮？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a86iq/how_can_i_add_a_exit_button_that_works_on_canva/</link>
-      <description><![CDATA[我创建了一个博客网站，但我想要退出按钮来关闭页面。如何做到这一点，我可以从哪些其他网站获取此工具？   由   提交/u/Millennial_twenty6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a86iq/how_can_i_add_a_exit_button_that_works_on_canva/</guid>
-      <pubDate>Fri, 19 Jan 2024 02:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>DevReport - Chrome 扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a6lbb/devreport_chrome_extension/</link>
-      <description><![CDATA[      DevReport - Chrome 扩展  大家好。 我创建了一个 Chrome 扩展，可以生成已监听选项卡的报告。如果您有兴趣，该扩展是开源的。 https://i.redd.it/0ev3gru3sadc1.gif  存储库：https://github.com/roderiano/dev-report-extension    由   提交/u/roderiano  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a6lbb/devreport_chrome_extension/</guid>
-      <pubDate>Fri, 19 Jan 2024 01:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>一直在申请前端开发人员职位，但没有成功。有人可以帮我看一下我的简历吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a6d7h/been_applying_for_frontend_developer_roles_with/</link>
-      <description><![CDATA[如标题所示，已经申请了两个月了，运气为零。试图找出我的简历中缺少什么。随意烤哈哈链接   由   提交/u/blue_ticked_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a6d7h/been_applying_for_frontend_developer_roles_with/</guid>
-      <pubDate>Fri, 19 Jan 2024 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>一直在申请前端开发人员职位，但没有成功。有人可以帮我看一下我的简历吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a69pa/been_applying_for_frontend_developer_roles_with/</link>
-      <description><![CDATA[如标题所示，已经申请了两个月了，运气为零。试图找出我的简历中缺少什么。随意烘焙哈哈简历   由   提交/u/blue_ticked_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a69pa/been_applying_for_frontend_developer_roles_with/</guid>
-      <pubDate>Fri, 19 Jan 2024 00:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>犹他州盐湖城 V 学校</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a4js9/v_school_in_salt_lake_city_ut/</link>
-      <description><![CDATA[大家好， 我正在考虑加入犹他州 SLC V 学校的一个班级。我想看看是否有人经历过它们，以及它们在 2024 年是否仍然值得？ 就其价值而言，我也考虑过尝试 Hack Reactor，但我加入的许多论坛都不喜欢由于某种原因。想法？ 谢谢！   由   提交 /u/Regular-Departure166    reddit.com/r/webdev/comments/19a4js9/v_school_in_salt_lake_city_ut/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a4js9/v_school_in_salt_lake_city_ut/</guid>
-      <pubDate>Thu, 18 Jan 2024 23:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳获取地点（.cn、.com.hk、.hk）</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a4g8j/best_place_to_get_cn_comhk_hk/</link>
-      <description><![CDATA[我正在寻找一个注册员来将所有这些都注册在一起。 任何人都知道哪里便宜并且可以将所有这些都放在同一个地方位置？   由   提交 /u/No_Delivery6874   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a4g8j/best_place_to_get_cn_comhk_hk/</guid>
-      <pubDate>Thu, 18 Jan 2024 23:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地存储对我的应用程序来说有麻烦吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19a42i9/is_localstorage_troublesome_for_my_app/</link>
-      <description><![CDATA[我正在开发一个应用程序，用户可以在其中根据所选位置获取工作。为了节省 Supabase 中的带宽（防止由于可能重复刷新页面而导致过多的获取、存储和删除操作，这可能会导致在仪表板上获取数百个作业），我实现了本地存储。这不仅将作业数据保存在 Supabase 中，而且还保存在本地存储中。每次用户浏览仪表板时，都会触发检查以确定数据是否已存在于本地存储中。如果是这样，它直接从本地存储中获取。如果没有，则从 Supabase 获取数据，然后将其存储在本地存储中。 但是，本地存储特定于特定设备上的特定浏览器。如果用户使用不同的浏览器或设备，他们可能会遇到该环境中本地存储中的过时数据。这是一个数字。 所以到目前为止我有两个选择： 放弃本地存储：完全让 Supabase 处理所有数据流量。 时间戳比较：我可以在 Supabase 和本地存储中维护时间戳。在获取数据之前，仅从 Supabase 检索名为“timestamps”的一列。及其价值。将此值与本地存储中存储的时间戳进行比较，以确保本地存储中的数据与 Supabase 中的最新数据同步。如果两个时间戳不同，请从 Supabase 数据库获取最新数据并将其发送到我的应用程序，使用新数据更新本地存储以确保同步。 也许我的开发人员同事知道更好的方法？ &gt;   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19a42i9/is_localstorage_troublesome_for_my_app/</guid>
-      <pubDate>Thu, 18 Jan 2024 23:19:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

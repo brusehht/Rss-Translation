@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 19 Jan 2024 06:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 09:11:51 GMT</lastBuildDate>
+    <item>
+      <title>信息通信游戏</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19adj4r/infocom_games/</link>
+      <description><![CDATA[很多工作，我的意思是很多，已经完成了编写简洁的形容词填充的场景描述，这就是你在每个屏幕上看到的八十年代的 Infocom 游戏。当然，一位 eblong Infocom 爱好者也是一名程序员，他让这些游戏最终拥有了人工智能生成的视觉效果，甚至是粗糙的视觉效果？ 或者它会不会有“完全完美的东西”？每个屏幕上都有问题，而且一点也不好玩？   由   提交/u/allwaysb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19adj4r/infocom_games/</guid>
+      <pubDate>Fri, 19 Jan 2024 07:27:23 GMT</pubDate>
+    </item>
     <item>
       <title>人类研究人员发现人工智能可以学会欺骗</title>
       <link>https://www.reddit.com/r/GPT3/comments/197a4s5/anthropic_researchers_find_ai_can_learn_to_deceive/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/mikaron  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18vbymq/microagents_agents_capable_of_selfediting_their/</guid>
       <pubDate>Sun, 31 Dec 2023 17:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助微调</title>
-      <link>https://www.reddit.com/r/GPT3/comments/18tqka8/i_need_help_fine_tuning/</link>
-      <description><![CDATA[我正在尝试使用从博客网站提取的巨大数据集来微调 gpt。当我研究这个主题时，我遇到的所有数据都显示模型正在接受格式和属性为“角色”、“消息”的数据的训练。或“提示”、“消息”。我希望模型在提示包含关键字或标题的消息时回复从提取的文章中提取的数据。我的问题是，该模型是否能够理解一组关键字并将它们用作合法提示   由   提交 /u/KJ_Script   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/18tqka8/i_need_help_fine_tuning/</guid>
-      <pubDate>Fri, 29 Dec 2023 16:08:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
