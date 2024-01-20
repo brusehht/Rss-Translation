@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Jan 2024 12:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 18:15:05 GMT</lastBuildDate>
+    <item>
+      <title>Ruffle（Adobe Flash 播放器的开源重新实现）回顾 2023 年所做的改进</title>
+      <link>https://www.reddit.com/r/opensource/comments/19bgmon/ruffle_a_open_source_reimplementation_of_adobe/</link>
+      <description><![CDATA[       由   提交/u/wiki_me  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19bgmon/ruffle_a_open_source_reimplementation_of_adobe/</guid>
+      <pubDate>Sat, 20 Jan 2024 17:17:02 GMT</pubDate>
+    </item>
     <item>
       <title>具有顺序任务和跨平台（Windows、Linux、iOS）的开源 ToDo 软件</title>
       <link>https://www.reddit.com/r/opensource/comments/19bagbz/open_source_todosoftware_with_sequential_tasks/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>营销机构技术堆栈</title>
       <link>https://www.reddit.com/r/opensource/comments/19b877j/marketing_agency_tech_stack/</link>
-      <description><![CDATA[大家好，我作为营销机构所有者经营我的业务已有几年了。  我开始开发我的 Martech 堆栈，为每个客户复制一份，由操作系统和许可产品混合而成，这些产品是： 1. Hubspot CRM（仅用于销售部分） 2. Mautic（营销自动化） 3 . Sendgrid 4. Mailsync（用于向 Hubspot 时间线提供 SendGrid 的事件） 5. Make.com（以前的 Integromat）作为 IPaaS（我有一个旧订阅，价格超便宜） 6. Coda.io 作为与客户共享的生产力工具 7 . WordPress 作为 Elementor Pro 7 的 CMS。Oviond 用于分析仪表板 我已经开始了解操作系统的竞争优势（只有 Mautic 和 WordPress 在此列表中），方法是将它们托管在 Google Cloud Platform 上我每次复制的虚拟映像以及两台正在运行的主机用于维护。  我正在寻找有关此问题的任何类型的建议（以及我可以替换哪些软件）也是因为我开始将 RudderStack 作为获取所有事件的数据湖，但可能它太对我的客户来说很重要，而且我们没有那么多活动需要管理。  感谢任何给我反馈的人！再见   由   提交 /u/SpookyLibra45817   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我作为营销机构所有者经营我的业务已有几年了。  我开始开发我的 Martech 堆栈，为每个客户复制一份，由操作系统和许可产品混合而成，这些产品是： 1. Hubspot CRM（仅用于销售部分） 2. Mautic（营销自动化） 3 . Sendgrid 4. Mailsync（用于向 Hubspot 时间线提供 SendGrid 的事件） 5. Make.com（以前的 Integromat）作为 IPaaS（我有一个旧订阅，价格超便宜） 6. Coda.io 作为与客户共享的生产力工具 7 . WordPress 作为 Elementor Pro 7 的 CMS。 Oviond 用于分析仪表板 我已经开始了解操作系统的竞争优势（只有 Mautic 和 WordPress 在此列表中），方法是将它们托管在 Google Cloud Platform 上我每次复制的虚拟映像以及两台正在运行的主机用于维护。  我正在寻找有关此问题的任何类型的建议（以及我可以替换哪些软件）也是因为我开始将 RudderStack 作为获取所有事件的数据湖，但可能它太对我的客户来说很重要，而且我们没有那么多活动需要管理。  感谢任何给我反馈的人！再见   由   提交 /u/SpookyLibra45817   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19b877j/marketing_agency_tech_stack/</guid>
       <pubDate>Sat, 20 Jan 2024 09:39:27 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 19 Jan 2024 11:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>OpenSign™ - 免费开源 DocuSign 替代方案。</title>
+      <title>OpenSign™ - 免费开源 DocuSign 替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/19aemhf/opensign_the_free_open_source_docusign_alternative/</link>
       <description><![CDATA[   /u/andrew-opensign  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19aemhf/opensign_the_free_open_source_docusign_alternative/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[突破性技术： Tide 是一家网络安全初创公司，正在开发一项突破性技术来阻止大规模数据泄露。他们通过使用碎片创建的密钥来实现这一点，并且从未将其组装为一个整体。用户通过身份验证后可以请求执行签名或解密等加密操作。这项技术非常酷，开源，其背后的数学已经被许多大学验证。您可以在这里查看它们：https://tide.org/tideprotocol 我是谁： 我是墨尔本皇家墨尔本理工大学网络安全硕士学生。我是一个由 3 名学生组成的小组中的一员，他们将 Tide 技术集成到我们的实习项目中。我们将 Tide 的身份验证流程实施到开源密码管理器中。该应用程序仍在开发中，但主要功能已经完成。您可以在这里找到它：https://github.com/Muddykat-tech/buttercup-desktop-tide .版本：https://github.com/Muddykat-tech/buttercup-desktop-潮/releases/tag/v1.0.0  我们希望获得有关该软件的反馈以及您为何使用或不使用该软件的原因。由于它仍处于开发阶段，可能会出现问题，但我们非常乐意帮助您解决问题并回答您的问题。 实际的开源密码管理器称为 Buttercup - https://buttercup.pw/  来自 Tide 的论文： 密钥生成 - https://arxiv.org/abs/2309.00915 去中心化身份验证 - https://link.springer.com/chapter/10.1007/978-3-031-41181-6_19   由   提交 /u/LeotheFireMage   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/199xrf8/implementing_a_break_through_tech_in_an_open/</guid>
       <pubDate>Thu, 18 Jan 2024 19:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[OSS 社区]Haskell.org：弥合语言创新与社区理解之间的差距</title>
-      <link>https://www.reddit.com/r/opensource/comments/199vlur/oss_community_haskellorg_bridging_the_gap_between/</link>
-      <description><![CDATA[       由   提交/u/IdaBzo  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/199vlur/oss_community_haskellorg_bridging_the_gap_between/</guid>
-      <pubDate>Thu, 18 Jan 2024 17:32:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
