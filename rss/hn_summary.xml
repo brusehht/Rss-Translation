@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 12:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 14:45:15 GMT</lastBuildDate>
     <item>
-      <title>[媒体]遗憾的是，原作者没有提供任何总结内容。</title>
-      <link>https://t.me/hn_summary/70003</link>
-      <description><![CDATA[成千上万的小企业因研发摊销而陷入困境
-遗憾的是，原作者没有提供任何总结内容。]]></description>
-      <guid>https://t.me/hn_summary/70003</guid>
-      <pubDate>Sat, 20 Jan 2024 12:13:18 GMT</pubDate>
+      <title>[媒体]特斯拉员工使用车载摄像头监视“私人场景；</title>
+      <link>https://t.me/hn_summary/70015</link>
+      <description><![CDATA[特斯拉员工使用车载摄像头监视“私人场景”；业主起诉
+令人震惊的消息是，九名退休的特斯拉员工站出来分享了员工滥用车载摄像头监视客户的情况是多么普遍。这些员工使用特斯拉的内部消息应用程序来分享摄像头捕捉到的“真正私密的事物”，甚至将它们变成表情包以供娱乐。一名加州男子目前代表所有特斯拉车主就这种做法起诉该公司。特斯拉汽车配备多个摄像头，其中包括一个用于监控驾驶员的车内摄像头。欧洲隐私监管机构要求了解这些摄像头的默认设置，因为它们在驾驶和充电时连续拍摄并保存最近一小时的镜头，包括精确的 GPS 位置。特斯拉员工分享的内容包括丑闻和亲密时刻，以及碰撞视频和路怒事件。特斯拉车主现在以侵犯隐私为由起诉该公司，认为特斯拉需要为这些违规行为承担责任。]]></description>
+      <guid>https://t.me/hn_summary/70015</guid>
+      <pubDate>Sat, 20 Jan 2024 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>Web 内容讨论了 Pratt 解析器，也称为自顶向下运算符优先级解析器，w [...]</title>
-      <link>https://t.me/hn_summary/70002</link>
-      <description><![CDATA[Pratt 解析器：表达式解析变得简单
-Web 内容讨论了 Pratt 解析器，也称为自顶向下运算符优先级解析器，它是解析编程语言中的表达式的巧妙解决方案。作者解释说，递归下降解析对于解析声明和语句很容易，但在处理包含中缀、后缀和混合运算符的表达式时就变得比较棘手。 Pratt 解析通过提供一种简单而有效的技术来处理运算符优先级，从而解决了这个问题。作者指出 Pratt 解析并不为人所知，旨在以清晰易懂的方式解释其背后的核心概念。该内容还介绍了一种名为 Bantam 的玩具语言，并提供了如何使用 Pratt 解析技术为其构建解析器的示例。 （根据 50% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/70002</guid>
-      <pubDate>Sat, 20 Jan 2024 12:09:13 GMT</pubDate>
+      <title>询问 HN：在不使用社交媒体的情况下营销您的技术技能的最佳方法是什么？</title>
+      <link>https://t.me/hn_summary/70014</link>
+      <description><![CDATA[询问 HN：不使用社交媒体营销技术技能的最佳方式？
+news.ycombinator.com 上这篇文章的作者是寻求有关在不使用社交媒体的情况下推销其技术技能的替代方法的建议。他们承认社交媒体营销的好处，但由于平台的算法驱动性质以及需要吸引人或有争议的内容来吸引注意力，他们表示失去了兴趣。作者提出了一些选择，例如开始发布时事通讯或使用 GitHub 和社区论坛等平台，但他指出，这些方法发展速度较慢，并且缺乏社交媒体上的社交功能。他们专门为软件工程师寻找最佳的替代营销策略。]]></description>
+      <guid>https://t.me/hn_summary/70014</guid>
+      <pubDate>Sat, 20 Jan 2024 14:36:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文章讨论了在浏览器中使用 TypeScript 模拟最小单元格。</title>
-      <link>https://t.me/hn_summary/70001</link>
-      <description><![CDATA[在浏览器中模拟最小单元格
-本文讨论了在浏览器中使用 TypeScript 模拟最小单元。作者解释说，细胞很复杂，科学家对分子如何相互作用的了解仍然有限。作者发现一篇论文创建了已知最简单细胞中的分子和反应模型，并决定在 TypeScript 中重现它。本文重点介绍充分搅拌模型，该模型将整个细胞建模为单一均匀混合物。作者还讨论了基因组数据、动力学参数、使用化学主方程和常微分方程进行模拟以及该研究的未来可能性。作者在其 GitHub 上提供了该项目的完整源代码。]]></description>
-      <guid>https://t.me/hn_summary/70001</guid>
-      <pubDate>Sat, 20 Jan 2024 11:43:00 GMT</pubDate>
+      <title>[媒体]牛津研究人员提出了一种独特的解决方案，以限制割草机伤害[...]</title>
+      <link>https://t.me/hn_summary/70013</link>
+      <description><![CDATA[牛津研究人员使用刺猬碰撞测试假人来限制割草机伤害
+牛津大学的研究人员提出了一种独特的解决方案来限制割草机对刺猬的伤害——使用刺猬碰撞测试假人。研究人员一直在研究机器人割草机对刺猬的影响，发现这些机器会对动物造成严重伤害。通过使用专门设计的刺猬碰撞测试假人，研究人员希望收集有关潜在伤害的数据并开发预防方法。英国刺猬保护协会首席执行官费伊·瓦斯表示，希望这项研究能够大幅减少割草机造成的刺猬伤害。]]></description>
+      <guid>https://t.me/hn_summary/70013</guid>
+      <pubDate>Sat, 20 Jan 2024 14:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最小。</title>
-      <link>https://t.me/hn_summary/70000</link>
-      <description><![CDATA[一个丑陋的单页网站通过联盟营销每月赚取 5000 美元&lt; /a&gt;
-最小。该网站通过亚马逊提供的联属链接进行的每笔销售都会赚取佣金。该网站的所有者对网站进行了优化，以提高流量和转化率，从而每月获得 5,000 美元的稳定收入。尽管其设计简单且缺乏吸引力，但该网站的功能及其为用户提供的价值使其成为一次成功的冒险。这个故事强调了联属营销的成功潜力，即使是一个基本的网站。]]></description>
-      <guid>https://t.me/hn_summary/70000</guid>
-      <pubDate>Sat, 20 Jan 2024 11:37:53 GMT</pubDate>
+      <title>[媒体]“民选领导人必须向我们这些超级富豪征税。</title>
+      <link>https://t.me/hn_summary/70012</link>
+      <description><![CDATA[“民选领导人必须向我们这些超级富豪征税。我们会为付出更多而感到自豪。”
+proudtopaymore.org 网站正在达沃斯向全球领导人发表讲话并敦促他们对极端财富征税。作者认为，如果当选代表不采取行动解决经济不平等问题，其后果将给社会带来灾难性后果。他们认为，为了恢复正常并确保经济、社会和生态稳定，必须实行更公平的税收。作者本身就是富人，他们认为对超级富豪征税不会显着影响他们的生活水平，反而会将非生产性财富转化为对共同民主未来的投资。他们强调政府行动而不是个人慈善事业的重要性。作者对缴纳更多税收来解决不平等问题、降低生活成本、改善教育、医疗保健、基础设施和支持绿色转型感到自豪。他们认为，当前的经济体系未能提供可持续的未来，必须解决极端的财富不平等问题，以避免这些挑战进一步恶化。作者认为，衡量一个社会的真正标准在于它如何对待最富有的成员，并敦促领导人在为时已晚之前采取行动。]]></description>
+      <guid>https://t.me/hn_summary/70012</guid>
+      <pubDate>Sat, 20 Jan 2024 14:18:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]台积电</title>
-      <link>https://t.me/hn_summary/69999</link>
-      <description><![CDATA[台积电2nm更新：两座晶圆厂正在建设中，一座正在等待政府批准&lt; /a&gt;
-台积电 (TSMC) 正在采用不同的方法，采用 N2（2 纳米级）工艺技术。该公司没有升级现有工厂，而是在台湾建设两座能够生产 N2 芯片的新工厂。第一座晶圆厂位于新竹县宝山附近，预计将于 2025 年下半年开始大批量生产。第二座晶圆厂位于高雄科学园区，预计于 2026 年左右启动 HVM。台积电也正在寻求政府批准台中科学园区第三座 N2 晶圆厂预计将于 2027 年投产。有了这三座晶圆厂，台积电将拥有大量 2 纳米产能。]]></description>
-      <guid>https://t.me/hn_summary/69999</guid>
-      <pubDate>Sat, 20 Jan 2024 11:34:11 GMT</pubDate>
+      <title>[媒体]加州种族灭绝是指加州对美洲原住民的广泛屠杀 [...]</title>
+      <link>https://t.me/hn_summary/70011</link>
+      <description><![CDATA[加州种族灭绝
+加州种族灭绝是指1846年至1873年间在加州对美洲原住民的大规模屠杀。这场种族灭绝是美国征服加州和加州淘金热期间定居者涌入的结果。据估计，在此期间有 9,492 至 16,094 名加州原住民被杀，另有数百至数千人因饥饿或劳累而死亡。奴役、绑架、强奸、儿童分离和强迫流离失所等行为十分普遍，都是国家当局和民兵所为。由于疾病、低出生率、饥饿、杀戮和屠杀，加利福尼亚州的原住民人口迅速减少。加利福尼亚州优先考虑白人定居者的权利而不是原住民的权利，剥夺了原住民的财产。近年来，人们对种族灭绝事件进行了承认和道歉，努力更好地理解和教育这段历史上的黑暗时期。 （根据故事文本的 12% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70011</guid>
+      <pubDate>Sat, 20 Jan 2024 14:15:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个 GitHub 项目用 Python 演示了 Lamport 的烘焙算法。</title>
-      <link>https://t.me/hn_summary/69998</link>
-      <description><![CDATA[Lamport 烘焙算法，用 Python 演示
-这个 GitHub 项目用 Python 演示了 Lamport 的烘焙算法。 Bakery 算法是并发编程中使用的一种锁定机制，用于防止多个进程同时进入其临界区，从而导致数据损坏或不一致。该算法保证了互斥性和公平性，允许每个进程在有限的时间内进入其临界区。该算法的独特之处在于它能够确保互斥，而不需要原子读写，这使得它在无法保证原子性的系统中非常强大。尽管存在 Python 全局解释器锁的限制，但提供的 Python 代码演示了该算法的工作原理。]]></description>
-      <guid>https://t.me/hn_summary/69998</guid>
-      <pubDate>Sat, 20 Jan 2024 11:26:03 GMT</pubDate>
+      <title>[媒体] 1967 年，李光耀访问马耳他，评估该国自获得胜利以来的表现。</title>
+      <link>https://t.me/hn_summary/70010</link>
+      <description><![CDATA[李光耀谈马耳他
+1967年，李光耀访问马耳他，评估该国自1964年脱离英国军队获得独立以来的情况。他对马耳他对英国援助的依赖感到担忧，特别是随着英国即将离开，新加坡也面临着类似的情况。李光耀惊讶地发现，尽管苏伊士运河关闭，马耳他造船厂也随之关闭，但码头工人仍然领取工资，并在干船坞里打水球。他认为这表现出一种依赖感而不是自力更生。]]></description>
+      <guid>https://t.me/hn_summary/70010</guid>
+      <pubDate>Sat, 20 Jan 2024 14:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 抱歉，我无法访问或总结特定的网页内容，因为我是人工智能语言 [...]</title>
-      <link>https://t.me/hn_summary/69997</link>
-      <description><![CDATA[悲伤混蛋食谱从亚马逊下架
-抱歉，我无法访问或总结特定的网页内容，因为我是人工智能语言模型，没有浏览功能。不过，我可以提供一般信息或回答您可能有的任何问题。]]></description>
-      <guid>https://t.me/hn_summary/69997</guid>
-      <pubDate>Sat, 20 Jan 2024 11:21:57 GMT</pubDate>
+      <title>令人担忧的是，俄罗斯最近开始阻止所有 OpenVPN/WireGuard 连接 [...]</title>
+      <link>https://t.me/hn_summary/70009</link>
+      <description><![CDATA[俄罗斯已开始不加区别地阻止所有 OpenVPN/WireGuard 连接 
+令人担忧的是，俄罗斯最近开始阻止所有 OpenVPN/WireGuard 连接，导致其公民无法使用 VPN 服务。有些人甚至报告 SSH 连接也受到了影响。这引发了人们对俄罗斯互联网孤立的担忧。作为目前居住在俄罗斯的人，我可以确认过去三天我无法连接到我的首选 VPN 提供商，包括其官方应用程序。令人惊讶的是，尽管这个问题对于维护信息和意见自由具有重要意义，但英语互联网上对此问题的讨论或新闻报道却很少。然而，俄罗斯互联网上却引发了激烈的争论。欲了解更多信息，您可以访问提供的链接。]]></description>
+      <guid>https://t.me/hn_summary/70009</guid>
+      <pubDate>Sat, 20 Jan 2024 13:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>AI时代的B2B SaaS不可能吗？</title>
-      <link>https://t.me/hn_summary/69996</link>
-      <description><![CDATA[AI时代的B2B SaaS不可能吗？&lt; br/&gt;
-作者讨论了AI时代B2B SaaS初创公司面临的挑战。他们强调，尽管已经将外部服务器用于其他目的，但公司不愿意与人工智能 API 共享内部数据或将其存储在外部数据库中。作者认为这种不情愿是不合理的，并质疑初创公司如何说服 B2B 客户接受 AI 产品作为 SaaS，而不是选择类似于咨询服务而不是传统 SaaS 产品的自托管或自部署解决方案。]]></description>
-      <guid>https://t.me/hn_summary/69996</guid>
-      <pubDate>Sat, 20 Jan 2024 11:20:51 GMT</pubDate>
+      <title>[媒体]知识经济已经结束。</title>
+      <link>https://t.me/hn_summary/70008</link>
+      <description><![CDATA[知识经济已经结束。欢迎来到分配经济
+本文讨论了从知识经济到分配经济的转变，在分配经济中，分配和管理资源的能力变得比个人知识更有价值。作者探讨了人工智能，特别是像 ChatGPT 这样的语言模型，如何用于总结任务，释放人类智能，专注于指导和编辑总结过程。作者认为，这种转变需要个人培养传统上与管理者相关的技能，例如具有连贯的愿景、清晰的品味、评估人才的能力以及知道何时深入细节。文章认为，这种转变可能对整个经济和社会产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/70008</guid>
+      <pubDate>Sat, 20 Jan 2024 13:31:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了围绕自由意志理念的争议 [...]</title>
-      <link>https://t.me/hn_summary/69995</link>
-      <description><![CDATA[科学对自由意志的攻击
-本文根据最近的科学研究讨论了围绕自由意志这一概念的争议。作者重点介绍了神经生物学家罗伯特·萨波尔斯基的工作，他认为人类的决定是由我们无法控制的神经刺激决定的。这挑战了个人责任的传统观念，并提出了社会应如何对待罪犯和反社会行为的问题。作者认为，如果自由意志不存在，正义和公平等概念就失去了意义。他们还质疑科学家自己对研究的参与以及试图说服他人缺乏自由意志时出现的矛盾。文章引用陀思妥耶夫斯基的《地下笔记》来强调主观意识的重要性和自由意志的现实性。]]></description>
-      <guid>https://t.me/hn_summary/69995</guid>
-      <pubDate>Sat, 20 Jan 2024 10:35:35 GMT</pubDate>
+      <title>[媒体]为什么要努力？</title>
+      <link>https://t.me/hn_summary/70007</link>
+      <description><![CDATA[为什么要努力？ Stephen Fry 阅读 Nick Cave 关于人工智能威胁的信 [视频](https:/ /news.ycombinator.com/item?id=39067284)
+在这段来自 Letters Live 活动的视频中，Stephen Fry 阅读了 Nick Cave 写的一封关于人工智能威胁的信，特别关注 ChatGPT 侵蚀人类灵魂并取代人类创造的艺术的潜力。凯夫的信强调了创造斗争的重要性，并警告如果我们过度依赖人工智能，人类集体精神将受到破坏。弗莱强有力的阅读和凯夫精湛的写作提醒人们人类创造力的价值和活力。该视频重点介绍了围绕人工智能对人类艺术和表达的影响正在进行的争论。]]></description>
+      <guid>https://t.me/hn_summary/70007</guid>
+      <pubDate>Sat, 20 Jan 2024 13:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目是一个开源 Spotify 客户端，可以在多个平台上使用 [...]</title>
-      <link>https://t.me/hn_summary/69994</link>
-      <description><![CDATA[开源 Spotify 客户端，不需要 Premium 也不使用 Electron&lt; /a&gt;
-该项目是一个开源 Spotify 客户端，可以在多个平台上使用，无需订阅 Spotify Premium。它利用 Spotify 的数据 API 和 YouTube（或其他替代方案，例如 Piped.video 或 JioSaavn）作为音频源。该客户端提供无广告、可下载曲目、跨平台支持、小尺寸、匿名/访客登录、时间同步歌词和本机性能等功能。它也不收集用户数据或使用遥测技术。作者强调，该客户端不是另一个 Electron 应用程序，这可能会将其与其他可用的 Spotify 客户端区分开来。该项目是开源的，并根据 BSD-4-Clause 许可证获得许可。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69994</guid>
-      <pubDate>Sat, 20 Jan 2024 10:24:25 GMT</pubDate>
+      <title>[媒体] ZX Spectrum Next，经典英国经典的现代娱乐和改进版本 [...]</title>
+      <link>https://t.me/hn_summary/70006</link>
+      <description><![CDATA[ZX Spectrum Next Issue 2 出货，芯片短缺该死
+ZX Spectrum Next 是经典英国家用电脑的现代娱乐和改进版本，即将交付给其所有者。由于大流行期间芯片和零件短缺，该项目面临挑战，但通过改用类似或等效零件并调整设计，成功地应对了这些挑战。该团队不得不改用更昂贵的 FPGA，但设法吸收了额外的成本，而没有将其转嫁给支持者。尽管面临挑战，但仍有第三次生产的需求，这对该平台的未来来说是个好兆头。核心设计是开源的，允许构建第三方兼容计算机。 Spectrum Next 从 SD 卡启动，并有一个插槽用于连接 Raspberry Pi Zero 以获得附加功能。第三次生产正在计划中。]]></description>
+      <guid>https://t.me/hn_summary/70006</guid>
+      <pubDate>Sat, 20 Jan 2024 13:07:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
