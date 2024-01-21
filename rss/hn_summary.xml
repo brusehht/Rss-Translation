@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 12:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 14:54:20 GMT</lastBuildDate>
     <item>
-      <title>【媒体】Vizio诉讼的新司法裁决会加强GPL吗？</title>
-      <link>https://t.me/hn_summary/70150</link>
-      <description><![CDATA[Vizio 诉讼中的新司法裁决会加强 GPL 吗？&lt; /a&gt;
-该博客文章讨论了有关开源许可证合规性案件中的一项重要司法裁决。该裁决涉及软件自由保护协会 (SFC) 对电视制造商 Vizio 提起的诉讼，指控其不遵守通用公共许可证 (GPL) 要求。证监会认为，任何受益于 GPL 的人都应该能够提起诉讼以强制执行其条款，而不仅仅是软件的作者。法院裁定证监会作为第三方受益人来执行 GPL，这可能对开源许可的执行产生重大影响。该裁决表明更多实体可能能够执行开源许可证，从而扩大潜在执行者的数量。]]></description>
-      <guid>https://t.me/hn_summary/70150</guid>
-      <pubDate>Sun, 21 Jan 2024 12:20:54 GMT</pubDate>
+      <title>[媒体] llmware 是一个用于开发基于 LLM 的应用模式的统一框架，具体 [...]</title>
+      <link>https://t.me/hn_summary/70167</link>
+      <description><![CDATA[显示 HN：LLMWare – RAG 财务和法律集成解决方案&lt; /a&gt;
+llmware 是一个统一框架，用于开发基于 LLM 的应用程序模式，特别是检索增强生成 (RAG)。它提供了一套用于构建基于知识的企业LLM应用程序的工具，可以轻松集成开源小型专业模型并安全地连接企业知识。该项目包括用于轻松访问模型的模型目录、用于组织和索引知识的库、用于查询库的查询系统以及用于将知识检索与法学硕士推理相结合的带有源的提示等功能。该项目还提供专为本地使用而设计的 RAG 优化模型。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70167</guid>
+      <pubDate>Sun, 21 Jan 2024 14:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>Boehm 垃圾收集器是一种保守的垃圾收集器，可以用作替代品 [...]</title>
-      <link>https://t.me/hn_summary/70149</link>
-      <description><![CDATA[Boehm 垃圾收集器
-Boehm 垃圾收集器是一种保守的垃圾收集器，可以用作 C 和 C++ 编程语言中 malloc 或 new 的替代品。它自动回收不再可访问的内存，允许开发人员分配内存而无需显式释放它。收集器通常由使用 C 作为中间代码或希望促进与 C 库的互操作的编程语言实现使用。它还可以用作 C 和 C++ 程序的泄漏检测器。收集器可与大多数未修改的 C 程序配合使用，将 malloc 和 realloc 调用替换为 GCmalloc 和 GCrealloc 调用。它并不完全可移植，但包含到各种操作系统的端口。该收集器受版权保护，且不提供任何保证。 （根据 74% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/70149</guid>
-      <pubDate>Sun, 21 Jan 2024 12:14:46 GMT</pubDate>
+      <title>[媒体] 太阳能烟囱：可行的能源解决方案还是空谈？</title>
+      <link>https://t.me/hn_summary/70166</link>
+      <description><![CDATA[太阳能烟囱：可行的能源解决方案还是空谈？&lt; /a&gt;
+本文讨论了太阳能上升塔作为潜在能源解决方案的概念。这些塔由一个围绕着高烟囱的大型温室组成，涡轮机安装在烟囱底部，以从通过烟囱上升的热空气中捕获能量。这些塔还具有能源储存的潜力。然而，文章强调，太阳能上升气流塔需要大片土地和令人难以置信的高塔才能产生有意义的电力。现实世界中的项目很少建成，而且较小的安装与光伏太阳能电池板相比不具有成本竞争力。该文章表明，与其他更容易实施的技术相比，太阳能上升气流塔可能不是一个可行的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/70166</guid>
+      <pubDate>Sun, 21 Jan 2024 14:42:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为什么一切都那么丑陋？</title>
-      <link>https://t.me/hn_summary/70148</link>
-      <description><![CDATA[为什么一切都那么难看？
-网络内容讨论了现代社会中普遍存在的丑陋现象，特别是在建筑和设计领域。作者强调了我们建筑环境中常见的单调、缺乏创造力和低劣的工艺。他们以一座名为“The Josh”的新建筑为例来说明自己的观点，描述其毫无吸引力的外观和粗制滥造的建筑。作者还探讨了这种丑陋背后的原因，包括标准化的制造工艺、严格的设计标准以及全球化资本的影响等因素。他们认为，这种新的丑陋已经渗透到我们生活的各个方面，从家庭用品到汽车再到零售空间。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70148</guid>
-      <pubDate>Sun, 21 Jan 2024 12:13:40 GMT</pubDate>
+      <title>[媒体]Postcrest.com 是一个创新工具，允许用户交换图像和基因中的面孔 [...]</title>
+      <link>https://t.me/hn_summary/70165</link>
+      <description><![CDATA[显示 HN：Postcrest.com – 换脸和图像生成工具
+Postcrest.com 是一个创新工具，允许用户在图像并生成新图像。但它并不止于此。借助 Postcrest，您可以通过增强面部特征和放大图像来使面孔栩栩如生，从而获得专业且引人注目的效果。这个独特的平台提供抛光和高品质的表面处理，一定会给人留下深刻的印象。无论您是想享受换脸的乐趣还是创建令人惊叹的图像，Postcrest.com  已满足您的需求。]]></description>
+      <guid>https://t.me/hn_summary/70165</guid>
+      <pubDate>Sun, 21 Jan 2024 14:40:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇博文提供了对 Linus Torvalds 的采访摘要，他是 [...]</title>
-      <link>https://t.me/hn_summary/70147</link>
-      <description><![CDATA[Linus Torvalds 谈法学硕士和其他主题
-这篇博文总结了对 Linux 创始人 Linus Torvalds 的采访，内容涉及 Rust、git 和 LLM（大型语言模型）等各种主题。 Torvalds 表示他相信法学硕士将在未来用于代码编写和编程任务，尽管他认为这是一种演变而不是革命性的变化。他还讨论了法学硕士在代码审查和错误检测方面的潜力，强调了他们发现明显错误和提高代码质量的能力。托瓦尔兹对法学硕士的潜力仍然持乐观态度，同时承认有些人可能不同意。这篇文章还引用了 Torvalds 之前的一次采访，其中讨论了人工智能和循环神经网络的未来。]]></description>
-      <guid>https://t.me/hn_summary/70147</guid>
-      <pubDate>Sun, 21 Jan 2024 12:11:34 GMT</pubDate>
+      <title>[媒体]在此网页内容中，作者介绍了一款名为“Airdrop for Android”的新应用程序，[...]</title>
+      <link>https://t.me/hn_summary/70164</link>
+      <description><![CDATA[显示 HN：我制作了一个人们称之为“Airdrop for Android”的应用程序
+在此网页内容中，作者介绍了一款名为“Airdrop for Android”的新应用程序，允许用户传输文件，而无需 Google Drive 或 Dropbox 等云存储提供商。作者认为，使用云存储提供商会带来安全风险，因为它们保存个人信息，并且数据需要在设备和服务器之间来回传输。该应用程序旨在提供一种更安全、更高效的方式在设备之间直接传输文件。作者强调了使用云存储的缺点，并提出了他们的应用程序作为解决方案。]]></description>
+      <guid>https://t.me/hn_summary/70164</guid>
+      <pubDate>Sun, 21 Jan 2024 14:39:57 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：30 年前，我们会在针对人类的网络战争中获胜吗？</title>
-      <link>https://t.me/hn_summary/70146</link>
-      <description><![CDATA[问HN：30年后我们会在与人类的网络战争中获胜吗前？ 50？
-该网络内容的作者提出了一个有趣的问题，即我们是否会在针对不同时期（特别是 30 年前、50 年前和 70 年前）的人类的网络战争中获胜。他们质疑我们先进的工具和知识是否会给我们带来优势，或者旧系统是否接近基础知识会让它们更具主导地位。作者还想知道，知识和技术的变化是否已经发展得如此之快，以至于我们甚至可能不知道如何与那个时代的系统进行通信。他们提到了一种假设场景，即试图入侵并接管整个系统，以确定哪一方在计算方面更具主导地位。作者还思考了现代计算的力量以及人类在科技行业已经走了多远。]]></description>
-      <guid>https://t.me/hn_summary/70146</guid>
-      <pubDate>Sun, 21 Jan 2024 11:44:21 GMT</pubDate>
+      <title>Textfiles.com 是一个网站，可以让您以独特的方式了解作家和艺术的历史 [...]</title>
+      <link>https://t.me/hn_summary/70163</link>
+      <description><![CDATA[文本文件
+Textfiles.com 是一个提供对历史的独特了解的网站仅限于使用 ASCII 代码的 128 个字符的作家和艺术家。虽然重点是 20 世纪 80 年代中期的基于文本的文件，但也有 1960 年代和 1970 年代的重组作品，以及这种文化的现代分支。该网站以令人着迷的方式展示了早期数字通信的创造力和局限性。]]></description>
+      <guid>https://t.me/hn_summary/70163</guid>
+      <pubDate>Sun, 21 Jan 2024 14:38:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Pfuzz 是一款网络模糊测试工具，可根据用户定义的单词列表和 URL 生成请求。</title>
-      <link>https://t.me/hn_summary/70145</link>
-      <description><![CDATA[展示 HN：Pfuzz，一个遵循 Unix 哲学的网络模糊器
-Pfuzz 是一种网络模糊测试工具，可根据用户定义的单词列表和 URL 生成请求。它受到 ffuf 的启发，但其与众不同之处在于，它以 httpipe 格式将生成的请求输出到 stdout，而不是发送它们。该工具可用于模糊 Web 应用程序中的路径、标头和有效负载。它支持多个单词列表、自定义占位符以及 HTTP 标头和方法的各种选项。作者提到了未来潜在的改进，例如允许覆盖生成的 Host 和 Content-Length 标头。可以使用预编译的二进制文件或使用“go install”命令来安装该工具。]]></description>
-      <guid>https://t.me/hn_summary/70145</guid>
-      <pubDate>Sun, 21 Jan 2024 11:37:13 GMT</pubDate>
+      <title>[媒体] 在一段广为流传的 TikTok 视频中，一名 DoorDash 司机对一名只给小费的顾客大发雷霆 [...]</title>
+      <link>https://t.me/hn_summary/70162</link>
+      <description><![CDATA[DoorDash 司机对在披​​萨上不肯给小费超过 5 美元的顾客大发雷霆订单
+在一段广为流传的 TikTok 视频中，一名 DoorDash 司机对一名在 20 美元的披萨订单上只给了 5 美元小费的顾客大发雷霆。该视频获得了超过 2900 万次观看，并引发了一场关于小费礼仪的争论。许多评论者认为，顾客已经给了 25% 的小费，而其他人则以汽油成本和披萨的感知价值为理由，为司机的观点辩护。司机后来被解雇，顾客的小费也被退还。这件事并不是小费第一次成为争议话题，最近的另一起事件涉及餐厅顾客拒绝支付 18% 小费。]]></description>
+      <guid>https://t.me/hn_summary/70162</guid>
+      <pubDate>Sun, 21 Jan 2024 14:14:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容的作者声称畅销书作家马克·道森是一个连载 [...]</title>
-      <link>https://t.me/hn_summary/70144</link>
-      <description><![CDATA[我相信畅销书作者 Mark Dawson 是连续抄袭者 
-该网络内容的作者声称畅销书作家马克·道森是连环抄袭者。他们提供了道森书中的几个段落示例，这些段落与其他来源的段落惊人相似，表明道森抄袭了它们。作者还提到，他们在短短几个小时的搜索中就发现了这些例子，并认为道森的其他书中可能存在更多抄袭的例子。他们对道森（据报道已售出 600 万本书）在参与自助出版界同时从事剽窃行为表示失望。作者最后表示，他们已向多家媒体通报了调查结果，并将继续寻找更多抄袭的例子。 （根据故事文本的 61% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70144</guid>
-      <pubDate>Sun, 21 Jan 2024 11:31:06 GMT</pubDate>
+      <title>[媒体] 软件自由保护协会已对流行电视 Vizio 提起诉讼 [...]</title>
+      <link>https://t.me/hn_summary/70161</link>
+      <description><![CDATA[软件自由保护协会针对 Vizio 的诉讼可能会加强 GPL 
+软件自由保护协会对流行电视制造商 Vizio 提起诉讼，指控其违反 GNU 通用公共许可证 (GPL)。 GPL 是一种广泛使用的开源许可证，可确保软件对所有用户保持免费和开放。该诉讼称，Vizio 将 GPL 许可的软件整合到其智能电视中，而没有按照许可证的要求正确发布源代码。如果胜诉，这起诉讼可能会开创执行 GPL 合规性的先例，并加强对软件自由的保护。此案例突显了商业软件行业中确保遵守开源许可证所面临的持续挑战。]]></description>
+      <guid>https://t.me/hn_summary/70161</guid>
+      <pubDate>Sun, 21 Jan 2024 14:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了首席烘焙师查尔斯·乔金 (Charles Joughin) 令人难以置信的生存故事 [...]</title>
-      <link>https://t.me/hn_summary/70143</link>
-      <description><![CDATA[一位面包师如何在泰坦尼克号中喝醉而幸存 
-这篇文章讨论了泰坦尼克号上的首席面包师查尔斯·乔金 (Charles Joughin) 令人难以置信的生存故事。当船撞上冰山时，乔金的反应是喝醉了，然后在寒冷的北大西洋平静地划船，直到他找到一艘翻倒的救生艇并爬上去。尽管气温寒冷，乔金因酒精而产生的虚假希望和膨胀的信心使他在历史上最严重的海上灾难中幸存下来。争议在于，众所周知，酒精会增加体温过低和致命情况的风险。然而，乔金的故事强调了酒精的放松功效，以及它赋予人类不可思议的创伤生存能力。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/70143</guid>
-      <pubDate>Sun, 21 Jan 2024 11:28:57 GMT</pubDate>
+      <title>[媒体]谷歌更新了免责声明，承认即使在隐身模式下也会跟踪用户。</title>
+      <link>https://t.me/hn_summary/70160</link>
+      <description><![CDATA[Google 即使在隐身模式下也会跟踪您，新的免责声明已发布&lt; /a&gt;
+谷歌更新了其免责声明，承认即使在隐身模式下也会跟踪用户。此前，该搜索引擎就一场价值 50 亿美元的隐私诉讼达成和解。金丝雀版谷歌中的新免责声明指出，在隐身模式下仍会收集数据。这一消息证实了谷歌正在以这种模式跟踪用户的猜测。用户在隐身模式下使用 Google 时务必小心谨慎，因为 Google 不仅会跟踪活动，网站也会跟踪活动。这意味着预订航班以避免价格飙升等活动可能不再有效。]]></description>
+      <guid>https://t.me/hn_summary/70160</guid>
+      <pubDate>Sun, 21 Jan 2024 14:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 摘要：一位科罗拉多州牧师因实施加密货币骗局而被指控 [...]</title>
-      <link>https://t.me/hn_summary/70142</link>
-      <description><![CDATA[科罗拉多州牧师被指控在上帝的命令下犯下加密货币骗局
-摘要：科罗拉多州的一位牧师因实施加密货币骗局而被指控，他在骗局中向他的追随者和其他基督徒出售 INDXcoin。然而，买家无法兑现他们的代币。牧师和他的妻子用这些钱购买奢侈品，并声称他们是按照上帝的命令装修他们的家。在一段视频中，这位牧师承认自己将 130 万美元收入囊中，并解释说，上帝指示他投资另一种硬币，结果证明这是一个骗局，然后创造自己的货币。牧师曾向投资者承诺，这些资金将捐给“寡妇和孤儿”，但实际上大部分都用于个人开支。]]></description>
-      <guid>https://t.me/hn_summary/70142</guid>
-      <pubDate>Sun, 21 Jan 2024 11:16:47 GMT</pubDate>
+      <title>id.uni-lj.si 网站上的此网页为用户提供了一种重置密码的方法，如果 [...]</title>
+      <link>https://t.me/hn_summary/70159</link>
+      <description><![CDATA[密码不得包含：select、insert、update、delete、drop 
+id.uni-lj.si 网站为用户提供了一种在忘记密码时重置密码的方法。用户需要在表单中填写个人信息，并提供用户名，类似于电子邮件地址。如果用户忘记了用户名和密码，系统会指示他们联系大学服务台。值得注意的是，密码不能包含某些单词，例如“选择”、“插入”、“更新”、“删除”或“删除”。]]></description>
+      <guid>https://t.me/hn_summary/70159</guid>
+      <pubDate>Sun, 21 Jan 2024 13:59:16 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 nutri.adrianstobbe.com，该网站通过您的杂货提供营养见解 [...]</title>
-      <link>https://t.me/hn_summary/70141</link>
-      <description><![CDATA[显示 HN：通过杂货收据了解营养成分&lt; br/&gt;
-隆重推出 nutri.adrianstobbe.com，这是一个提供营养的网站通过您的杂货收据获得洞察。只需上传您的收据，即可获得有关如何使您的饮食富含营养（尤其是蔬菜）的提示。我们的人工智能系统提供了营养成分分类的粗略估计，尽管它可能不准确。最好的部分是您的所有数据都存储在本地，以便您稍后返回并上传本周的新收据。今天就开始通过 nutri.adrianstobbe.com 优化您的饮食！]]></description>
-      <guid>https://t.me/hn_summary/70141</guid>
-      <pubDate>Sun, 21 Jan 2024 11:14:40 GMT</pubDate>
+      <title>[媒体] 贝尔实验室作为传奇创意工厂准备离开新泽西州</title>
+      <link>https://t.me/hn_summary/70158</link>
+      <description><![CDATA[铭记贝尔实验室作为传奇创意工厂准备离开新泽西的家乡
+本文讨论了贝尔实验室的遗产，这是一家著名的研究实验室，经过数十年的突破性创新，准备离开新泽西总部。贝尔实验室的前员工深情地回忆起他们在公司的时光，将其描述为一个不断学习和贡献的地方。贝尔实验室取得了许多重大突破，包括开发第一个晶体管、创建 UNIX 计算机操作系统以及发明用于数码摄影的电荷耦合器件。搬迁到新不伦瑞克省的新技术中心标志着贝尔实验室的重大变化，但该公司仍然致力于保持在尖端技术的最前沿。]]></description>
+      <guid>https://t.me/hn_summary/70158</guid>
+      <pubDate>Sun, 21 Jan 2024 13:56:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
