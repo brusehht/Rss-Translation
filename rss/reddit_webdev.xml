@@ -4,13 +4,69 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Jan 2024 21:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:56:53 GMT</lastBuildDate>
     <item>
       <title>接下来我应该实现什么功能？ 2 真相 1 谎言</title>
-      <link>https://www.reddit.com/r/webdev/comments/19blyqq/what_feature_should_i_implement_next_2_truths_1/</link>
-      <description><![CDATA[大家好我最近一直在制作这个网页游戏(https://www.two-truths-one-lie.com/），我有一个我想尽快开发的功能列表。请看一下游戏并告诉我您接下来想看哪款游戏。我将实施获得更多票数的方案。  显示每个句子的正确/错误答案的百分比 猜测或未回答答案时的炫酷动画和声音 显示用户记录，例如连续更快猜出 20 个答案的用户的用户名 成就板 根据人们回答错误的频率显示每个问题的难度  非常欢迎功能建议🚀 游戏的链接是：https://www.two-truths-one-lie.com/   由   提交/u/Cold_Complex945   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19blyqq/what_feature_should_i_implement_next_2_truths_1/</guid>
-      <pubDate>Sat, 20 Jan 2024 21:08:40 GMT</pubDate>
+      <link>https://www.reddit.com/r/webdev/comments/19bqqlw/what_feature_should_i_implement_next_2_truths_1/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Cold_Complex945  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bqqlw/what_feature_should_i_implement_next_2_truths_1/</guid>
+      <pubDate>Sun, 21 Jan 2024 00:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>简历和发票生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bps1b/resume_and_invoice_builder/</link>
+      <description><![CDATA[ 由   提交/u/tootac  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bps1b/resume_and_invoice_builder/</guid>
+      <pubDate>Sat, 20 Jan 2024 23:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子商务网站的最佳堆栈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bpabh/the_best_stack_for_an_ecommerce_website/</link>
+      <description><![CDATA[我想为我的个人业务建立一个电子商务网站。起初会列出大约 100 个产品，但将来可能会更多，因此性能和可扩展性非常重要。 我是 Web 开发的初级人员，没有太多经验。几个月前我建立了一个电子商务网站，但不是真正使用，这是一个课程项目。我使用了 HTML、CSS、Javascript、Bootstrap + Django 和 SQLite。我还可以使用 React、Typescript 和一些 CSS 框架，例如 Tailwind。但对于后端，我现在只知道 Django。 您向我推荐什么技术堆栈？ 如果您能给我一些建议并告诉我我可以期待什么，这将非常有帮助。我不想在没有好好计划的情况下就直接投入其中。我还看到了很多关于 Shopify 的建议。使用 Shopify 的费用是多少？ ​   由   提交/u/CryptoBeast77  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bpabh/the_best_stack_for_an_ecommerce_website/</guid>
+      <pubDate>Sat, 20 Jan 2024 23:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户要求复写本</title>
+      <link>https://www.reddit.com/r/webdev/comments/19boozr/client_requested_carbon_copy/</link>
+      <description><![CDATA[大家好 我的客户要求提供一份网站的副本，但带有他们的品牌而不是竞争对手的品牌。有没有一种简单的方法可以做到这一点，或者我必须从头开始重建？参考网址：https:// century21jm.com/    ;由   提交 /u/Chungythegunner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19boozr/client_requested_carbon_copy/</guid>
+      <pubDate>Sat, 20 Jan 2024 23:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bog51/roast_my_site/</link>
+      <description><![CDATA[因此，它目前仅适用于移动设备，但这也是我构建的第一个有人正在使用的网站。这意味着我对此不熟悉，因此更具有建设性的烘焙值得赞赏   由   提交/u/Extra_Razzmatazz_212   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bog51/roast_my_site/</guid>
+      <pubDate>Sat, 20 Jan 2024 22:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>三角形 CSS</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bo8s1/triangle_css/</link>
+      <description><![CDATA[      为什么一种方法倾向于生成直角三角形，而另一种方法倾向于生成等边三角形，尽管两种方法设置的属性相同 ​ P.S.如果您了解一些，还请参考一些资源/文档来了解此主题 https://preview.redd.it/h44ff4mubodc1.jpg?width=942&amp;format=pjpg&amp;auto=webp&amp;s=755f540b60e9122133752562fa473e 1394a448b8    由   提交/u/Plane-Analysis-6770   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bo8s1/triangle_css/</guid>
+      <pubDate>Sat, 20 Jan 2024 22:49:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用我的著作、旅程、书签等等构建了类似应用程序的投资组合网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bmq1l/ive_built_my_applike_portfolio_website_with_my/</link>
+      <description><![CDATA[      ​ https://onur.dev   由   提交 /u/suyalcinkaya   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bmq1l/ive_built_my_applike_portfolio_website_with_my/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布推出适用于 Rust 的 openapi-lambda：根据 OpenAPI 定义为 AWS Lambda 生成强类型代码（初始版本）</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bmclz/announcing_openapilambda_for_rust_stronglytyped/</link>
+      <description><![CDATA[在 Rust 中实现后端 API 以无服务器部署到 AWS Lambda 时，我发现自己编写了大量无趣的样板代码。我终于编写了一个合适的代码生成器，它现在是开源的： https://github.com/ramosbugs/openapi- lambda-rust。 TL;DR：给定 OpenAPI 定义 (YAML) 作为事实来源，该项目会自动生成 Api 特征和任何必要的请求/响应模型（结构体、标记枚举等），以便您只需 impl Api 特征即可实现您的 API。 希望如此其他人也会发现这很有用！   由   提交 /u/longlivetheturbofish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bmclz/announcing_openapilambda_for_rust_stronglytyped/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>表单验证问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19bm9o2/form_validation_woes/</link>
+      <description><![CDATA[TLDR;我是一个有 3 个小孩的单亲爸爸，还有一份全职工作，所以我必须非常高效地利用我的时间。我正在恢复我正在开发的一个项目，该项目是用 BootStrap 3 编写的， FormValidation.io用户界面。 一旦我有时间考虑完全重写，我就会接受新技术，但现在我想坚持使用熟悉的东西，这样我才能尽快推出一些东西。我现在正在使用 Bootstrap 5，但我没有找到一种方法来正确实现 Bootstrap 5 或内置表单验证所需的客户端表单验证级别，因此我需要采用某种框架。我倾向于坚持使用 formvalidation.io*，而且我真的找不到任何对我来说明显更好的解决方案，特别是考虑到我当前的大多数客户端验证代码已经编写为* formvalidation.io ，我不想为了没有真正的好处而撕掉所有内容。 我恢复了我在一些痛苦的生活经历发生之前大部分完成的应用程序（2017 年左右），我终于有时间重新挖掘它。 当时，我正在使用 Bootstrap-3.3 和 FormValidation .io 我不打算完全从头开始，至少对于第一次新迭代来说是这样，因为我的首要任务是快速恢复我当前的代码库。所以我的目的是尽可能坚持我正在使用的和我个人最熟悉的东西。我没有预算也没有时间来引入更多的开发人员，所以我真的只想坚持我所知道的，避免修补新的东西，就像它是一种爱好一样。我想买一些可用的东西。一旦完成，我就可以利用我所拥有的资源来筹集资金并重建它。 到目前为止，我已经开始使用 Bootstrap-5.3，我已经删除了 jquery，现在我正在尝试解决我将如何处理客户端表单验证。我现有的代码有足够的服务器端验证，所以我很好。我研究了 Bootstrap 的内置验证，我认为它不能满足我的需求，并且从 5.3 开始，他们有一些关于其功能不适用于所有浏览器的警告。我还研究了内置表单验证。 （此处https://developer.mozilla.org/en-US/docs/Learn/Forms/ Form_validation) 虽然内置验证似乎很有用，因为它避免了 JavaScript，但我不知道在我想要客户端根据表单中的记录验证表单中的数据的情况下可以在哪里使用它。数据库。 例如。电子邮件表单字段。我可以使用内置表单验证来验证语法、长度等，但我仍然需要一种方法来检查电子邮件是否已在现有帐户中使用。目前，使用 formvalidation.io，它可以触发对我的服务器的调用，并获取一个 json 响应，说明电子邮件当前是否可用。 当我使用 formvalidation.io 时，我真的很喜欢它。我已经有了使用旧版本的代码，并且没有任何问题。我现在倾向于只坚持使用 formvalidation.io，这样我就可以回去工作，而不会陷入学习新东西的困境。想法？有什么理由让我不应该只坚持使用 BS5.3 和 FV.io？   由   提交/u/sentrybot619  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19bm9o2/form_validation_woes/</guid>
+      <pubDate>Sat, 20 Jan 2024 21:21:58 GMT</pubDate>
     </item>
     <item>
       <title>Firefox 中的间隔和 setTimeout 问题</title>
@@ -39,62 +95,6 @@
       <description><![CDATA[我可能是个大傻瓜。但不明白我怎么能做到这一点。 https://www.reddit。 com/r/MSPlaywright/s/Hz6fYeg0Gl   由   提交/u/Creepy_Tax_3759   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19bkdlc/how_to_mock_a_component_in_e2e_test/</guid>
       <pubDate>Sat, 20 Jan 2024 19:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个扩展程序，可以让您在任何实时网站、屏幕上的任何位置留下评论并标记其他人。它像信使一样实时工作。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bkar6/i_created_an_extension_that_lets_you_leave/</link>
-      <description><![CDATA[   /u/hustle_fred  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bkar6/i_created_an_extension_that_lets_you_leave/</guid>
-      <pubDate>Sat, 20 Jan 2024 19:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>三天学会React？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bjulj/learning_react_in_3_days/</link>
-      <description><![CDATA[我意识到我的学位计划不会涵盖 React 任何内容，因为它专注于 TypeScript 和 Angular。我希望对 React 有一些实用的了解，以便为今后的发展打下良好的基础。如果你有 3 天的时间，对于不懂 React 的人来说，最重要的事情是什么？我应该注意什么以及我应该真正在脑海中记住并记住什么？   由   提交/u/Chemillion  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bjulj/learning_react_in_3_days/</guid>
-      <pubDate>Sat, 20 Jan 2024 19:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么优雅的方式来处理使用普通 JavaScript 创建 HTML 元素吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bjr9a/any_elegant_way_to_handle_creating_html_elements/</link>
-      <description><![CDATA[目前，我使用： &#39;&lt;tr&gt;&#39; + this.#buildColumn(title) + &#39;${new Date(date)}&#39; + &#39;${this.text}&#39; + &#39;${this.link}&#39; + &#39;&lt;/tr&gt;&#39;;  我正在寻找更好的东西： const row = () =&gt;; tr( td(标题), td( b(&#39;世界&#39;), span(a({href: &#39;vanjs.org&#39;}, &#39;VanJS&#39;)), ), td(&#39;文本&#39;) ) &lt; /pre&gt; 这是 VanJS，它非常好，正是我正在寻找的，但我有普通 JavaScript 作为限制（没有框架、库）... 你知道有什么优雅的方法来处理许多元素的创建吗？哦，更好的是，你知道我如何复制 VanJS 的技巧技巧” 在类内？   由   提交 /u/Wise_Stick9613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bjr9a/any_elegant_way_to_handle_creating_html_elements/</guid>
-      <pubDate>Sat, 20 Jan 2024 19:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目使用哪些 api？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bj8ca/which_apis_to_use_for_projects/</link>
-      <description><![CDATA[我用来托管 api 的第一个 Web 平台是 RapidAPI，但过了一会儿它说试用期已过期，我所有的工作都消失了，我不希望这样我的项目发生了这样的情况，如果我想避免丢失我的项目，我应该使用哪个 api 或者我应该采取什么预防措施？   由   提交 /u/Flaky-Pspecial3202   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bj8ca/which_apis_to_use_for_projects/</guid>
-      <pubDate>Sat, 20 Jan 2024 19:09:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为一家小型企业重新设计了一个网站，我对如何部署它+搜索引擎优化感到困惑（详细信息如下）</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bj78e/i_redesigned_a_website_for_a_small_business_and/</link>
-      <description><![CDATA[他们原来的网站是使用squarespace制作的，我用reactjs重新设计了他们的网站。我对网络开发相对较新，因此我希望获得有关如何部署新网站并保留相同域名的指导。我以前使用过 netlify 和 vercel，但我不确定如果我使用其中之一进行部署，他们的网站是否仍会显示在 google 搜索的顶部（我还需要处理 seo 吗？）   由   提交 /u/smileycat__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bj78e/i_redesigned_a_website_for_a_small_business_and/</guid>
-      <pubDate>Sat, 20 Jan 2024 19:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以将什么很酷的东西融入到我的网站中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bj4vl/what_cool_thing_can_i_incorporate_into_my_website/</link>
-      <description><![CDATA[我正在创建一个编码作品集，以展示我为雇主做过的项目，并且我想脱颖而出。我了解 html、JavaScript 和 python，我想使用这些语言来展示一下。有人知道我可以在我的网站上创建和发布哪些很酷的方面吗？比如游戏什么的？   由   提交/u/Tell_meThings  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bj4vl/what_cool_thing_can_i_incorporate_into_my_website/</guid>
-      <pubDate>Sat, 20 Jan 2024 19:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使切片在单击时以模式方式弹出，并且还可以很好地旋转文本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19birux/how_can_i_make_slices_pop_up_in_modal_on_click/</link>
-      <description><![CDATA[我正在创造一个命运之轮。当用户启动时，它会旋转，当它停止时，会弹出一个赢得切片的模式。一切都运行良好，但现在我想补充一点，当用户单击切片时，当轮子不旋转时，它会再次打开带有所单击切片的文本和 bgImage 的模式。我怎样才能实现这一点，数学不是我最擅长的部分哈哈？ 还有我希望切片的文本始终以相同的方式旋转，我怎样才能实现这一点？  https://jsfiddle.net/bst6kq0r/    ;由   提交/u/fravit13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19birux/how_can_i_make_slices_pop_up_in_modal_on_click/</guid>
-      <pubDate>Sat, 20 Jan 2024 18:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚推出了我的作品集，你有什么想法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19bi95l/i_just_pushed_my_portfolio_what_are_your_thoughts/</link>
-      <description><![CDATA[ 由   提交 /u/RockyStrongo    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19bi95l/i_just_pushed_my_portfolio_what_are_your_thoughts/</guid>
-      <pubDate>Sat, 20 Jan 2024 18:27:48 GMT</pubDate>
     </item>
     <item>
       <title>让客户端访问本地主机的最简单方法？</title>
