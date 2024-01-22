@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 21:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 00:55:47 GMT</lastBuildDate>
+    <item>
+      <title>如何最好地创建 2000 年代主题网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cidmb/how_best_to_create_a_2000s_themed_website/</link>
+      <description><![CDATA[嗨，我对网站创建完全陌生。我想制作一个看起来有点旧的 2000 年代风格的网站，比如 myspace。问题是，许多网站建设网站（例如 Squarespace 和 wix）的选项似乎非常有限。是否有一个网站可以让我在设计上有更多自由，或者从头开始创建一个网站是否更好，如果有，我该怎么做？    ;由   提交 /u/Wrinne   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cidmb/how_best_to_create_a_2000s_themed_website/</guid>
+      <pubDate>Mon, 22 Jan 2024 00:24:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 JavaScript 进行后端开发：寻求建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/19chhaq/backend_development_with_javascript_seeking_advice/</link>
+      <description><![CDATA[我目前正在深入研究 JavaScript，重点关注后端开发。然而，我注意到很多学习资源都强调前端开发。对于那些有 JavaScript 后端经验的人来说，这些知识在后端领域有多大价值？您是否为那些致力于使用 JavaScript 进行后端开发的人推荐了特定的资源或框架？   由   提交/u/waynexlink   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19chhaq/backend_development_with_javascript_seeking_advice/</guid>
+      <pubDate>Sun, 21 Jan 2024 23:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何根据可以通过事件侦听器随时更改的数组的第一个对象在网页上连续打印某些内容？ (JS)</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cgmb8/how_to_continously_print_something_on_a_webpage/</link>
+      <description><![CDATA[页面会持续显示存储在数组第一个对象中的信息，但前提是满足某些条件。此外，所述数组的索引可以通过按钮的用户交互随时更改。 我对异步编程几乎一无所知，而且我对 JavaScript 还很陌生，所以我正在寻找指针。我在这里使用间隔/超时函数、承诺还是其他函数？   由   提交/u/flippy123x  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cgmb8/how_to_continously_print_something_on_a_webpage/</guid>
+      <pubDate>Sun, 21 Jan 2024 23:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在线商店的托管建议和网站建设</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cgde8/hosting_recommendations_and_site_building_for/</link>
+      <description><![CDATA[大家好， 我错误地使用了 godaddy。他们有 50 页的限制，极大地限制了产品在网站上的展示方式，例如实际上让您显示价格，而应该是“报价”的内容将不会按照我想要的方式显示。  问题是开发人员已经走了很远，我想探索一些选择，因为为什么我要为极端的限制付钱给 godaddy。  我知道他们很糟糕，但这是一条便宜的路线。有人可以指导我什么最适合展示可以立即购买的产品和可以报价的产品吗？我不需要一个基本的网站，但我对此不太熟悉，除了其他一些之外，这就是我所知道的一切   由   提交 /u/HomeschoolProm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cgde8/hosting_recommendations_and_site_building_for/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 设计后的下一步</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cfr3q/next_step_after_figma_design/</link>
+      <description><![CDATA[嘿伙计们！我正在创建我的第一个网站。我想出了 Figma 上我想要的设计和布局。此后下一步是什么？我从哪里开始？   由   提交 /u/PapercutSurvivor22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cfr3q/next_step_after_figma_design/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页网站中 Tailwind CSS 和 JS 的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cfoxn/best_practices_for_tailwind_css_js_in_a/</link>
+      <description><![CDATA[大家好，我目前正在使用 Tailwind CSS 和 vanilla JavaScript 开发一个简单的单页网站。目前，我发现自己重复使用相同的 Tailwind 类来处理输入、列表项和按钮等元素。虽然我可以在 Alpine JS 中对列表项使用 for 循环，但这种方法对于按钮和输入来说似乎不够。理想情况下，我宁愿避免 Tailwind 的 apply 指令，因为它似乎与 Tailwind 的核心理念相矛盾。或者，使用诸如之类的组件。和&lt;我的输入&gt;似乎是一个更合适的解决方案。然而，我想知道对于像这样简单的项目来说，实现像 Vue 这样的框架是否可能有点矫枉过正。您将如何解决这种情况？   由   提交 /u/ItsWappert   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cfoxn/best_practices_for_tailwind_css_js_in_a/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:24:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业者网络开发者</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cfhq7/freelancer_web_dev/</link>
+      <description><![CDATA[嗨，我需要一些建议，我正在学习成为一名前端开发人员。我将来想成为一名自由职业者，自己为客户做网站，现在我还会有客户吗？它会成功吗？请给我一些建议。提前谢谢您。   由   提交/u/Electronic_Drawer408  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cfhq7/freelancer_web_dev/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>存储数据最安全的方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cfhou/safest_way_to_store_data/</link>
+      <description><![CDATA[我的网站使用令牌系统。所有的采购都是由 Stripe 处理的，所以我不担心这部分。我想防止用户“黑客攻击”我的系统，并通过修改我数据库中的代币计数，实际上在我的平台上给自己无限的资金。无论是滥用我的前端漏洞还是以某种方式直接访问和修改我的数据库。 人们通常会尝试什么方法来“破坏系统”？并以网站预期方式之外的方式修改数据库？您有什么安全提示吗？我是一名不错的 Web 开发人员，但肯定仍在学习，我讨厌处理无限令牌故障可能带来的混乱。 我在这个项目中使用 MEAN 堆栈。   由   提交/u/JBriltz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cfhou/safest_way_to_store_data/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议：从哪里开始</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cf9wp/advice_where_to_start/</link>
+      <description><![CDATA[我不是经过培训的开发人员。但我确实有一个创建特定用例网站的目标，并且需要一些关于从哪里开始的建议。以下是我想要的功能： 针对特定行业的企业和专业人士的订阅和数据库网站。订阅者将根据角色进行分类。订阅后，用户将收到基于其所选角色的个人资料模板。个人资料需要包含联系信息等基本信息，但还需要自定义字段和上传文件的位置。 某些角色需要能够创建相同或相似个人资料模板的其他页面。其他人只需要基本信息模板。 页面访问者将能够在数据库中搜索其他订阅者提供的信息，以查找企业必须提供的内容（服务、品牌等） 付费订阅可以访问所有信息和文件下载，而未付费订阅只能访问基本信息。  我研究过 WordPress 和一些 django cms。我想我应该问一下蜂巢思维最好的起点在哪里。   由   提交/u/SoundMan87  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cf9wp/advice_where_to_start/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>N|Solid Copilot 简介：您的 AI 驱动的 Node.js 导航器</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cf4y9/introducing_nsolid_copilot_your_aipowered_nodejs/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cf4y9/introducing_nsolid_copilot_your_aipowered_nodejs/</guid>
+      <pubDate>Sun, 21 Jan 2024 22:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有块构建器的 CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cexh3/cms_with_block_builder/</link>
+      <description><![CDATA[我试图不让这成为另一个“什么是最好的 CMS”问题。帖子，但我想它要么会变得又长又无聊，要么变得通用。我会尽力而为。 我们现在在 Strapi 中管理大量有关供应商和产品的文章/结构化信息/与其他数据源的关系。我现在对 Strapi 缺少的是版本控制；只有一个非官方插件，我使用起来不太舒服。同时预览草稿而不取消发布元素会非常好。也许是评论/审查过程，但这不是我们现在所需要的。 块内容生成器，我们可以在其中定义自己的块来创建页面和布局的布局。文章。现在我们有很多半硬编码的页面，有一些富文本/md 渲染。现在使用这种方法，我们甚至无法很好地呈现手风琴风格的常见问题解答。理想情况下，我会想象一个类似 Shopify 的构建器，您可以在其中看到块结构旁边的渲染预览。一般来说，我想要一个系统，让我们的非 IT 人员能够以最用户友好的方式修改我们的所有内容，而我们 IT 人员只需创建所需的块即可。老实说，对于大多数非 IT 人员来说，即使是 Shopify 构建器也不是最直观的。 （可选）如果我们能够在表/条目列表中显示来自其他数据源的数据，那就太棒了。但我们可以将自己的工具分开。来自其他数据源的数据验证/下拉选择会非常有帮助，但我想 Strapi 也可以做到这一点（尚未研究过）  我相信 Payload 满足了大多数要求。只是每次我看演示时，我都觉得设计很压倒性，并且不容易掌握结构和块构建器。对我来说，不同领域之间似乎缺少明确的区分。当使用 sanity、directus 之类的东西时，我感觉更“自在”。马上。不确定是否有人能理解这一点...Directus 有一些不错的、用户友好的功能，例如简单的“标签”功能。场地。我想您可以通过创建一个新集合然后建立关系来使用 Payload 实现相同的目的。但我仍然觉得其他这些有一些不错的功能，可以让日常生活变得更轻松。 Payload 似乎仔细聆听了社区的意见，35 美元的计划可能会让我什至不会考虑自托管（我们确实这样做）现在使用 Strapi），因为它可能足以满足我们现在拥有的 1000 个条目，而这些条目很少被缓存的 NextJS 前端查询。 如果您读到最后：谢谢就等你了！ TL;DR 你尝试过payload、sanity、directus 吗？您认为它们的优点/缺点是什么？   由   提交 /u/throtawayrelationshp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cexh3/cms_with_block_builder/</guid>
+      <pubDate>Sun, 21 Jan 2024 21:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助将 React 和 actix-web 组合在一起</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ce8we/help_with_putting_together_react_and_actixweb/</link>
+      <description><![CDATA[存储库：https://github.com/hfytr/EurekaWeb  所以我正在尝试创建一个网站，人们可以在其中玩我创建的国际象棋引擎。我在 actix-web 中有一个非常简单的后端，它只有一个端点：查询给定位置的引擎，以及双方的剩余时间。我对如何以我的反应应用程序知道应用程序正在使用的端口的方式生成后端有点困惑。最相关的文件是 main.rs、lib.rs 和Game.js L43   由   提交 /u/ANARCHY14312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ce8we/help_with_putting_together_react_and_actixweb/</guid>
+      <pubDate>Sun, 21 Jan 2024 21:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用开发工具后，Edge 随机停止记录点击</title>
+      <link>https://www.reddit.com/r/webdev/comments/19cdzi9/edge_randomly_stops_registering_clicks_after/</link>
+      <description><![CDATA[你好， ​ 我最近切换到 Microsoft Edge 进行 Web 开发，但是我我遇到了一个主要问题，当我使用开发工具时，单击会停止注册。我无法点击开发工具，也无法点击网页。似乎它是随机发生的，因为我无法重现该问题。我已经禁用了所有扩展，但仍然可以使用。所以我安装的任何扩展似乎都没有问题。 ​ 如果您使用 Edge 进行网络开发，您是否遇到过这个问题和/或你有解决这个问题的解决方案吗？   由   提交 /u/onecrazypanda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19cdzi9/edge_randomly_stops_registering_clicks_after/</guid>
+      <pubDate>Sun, 21 Jan 2024 21:14:38 GMT</pubDate>
+    </item>
     <item>
       <title>我如何培养游戏之心？</title>
       <link>https://www.reddit.com/r/webdev/comments/19cdoml/how_do_i_develop_this_heart_for_a_game/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[在我见过的这一行的所有工作中，95% 要么完全远程工作，要么提供混合工作。 &lt;一家要求员工每周在办公室工作五天的公司，您认为他们还会表现出其他不良做法或老式的工作文化吗？  您认为这在现代世界中是一个危险信号吗？   由   提交/u/throtawayspeedy12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19cchvk/would_you_consider_a_company_that_requires_being/</guid>
       <pubDate>Sun, 21 Jan 2024 20:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>带照片的个人博客 - 寻找推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cc22s/personal_blog_with_photos_looking_for/</link>
-      <description><![CDATA[嗨 Reddit！ 我只是在寻找有关我的博客解决方案的建议，我认为我的情况是“ “独特”，所以请继续阅读： 就目前而言，我有一个个人博客，其中有一些帖子在 Wordpress 上运行。自己的托管，Wordpress 在 Docker 中运行。不幸的是，我很少发帖（想想每年几篇帖子）。通常的主题是旅行，某种旅行报告/日记，其中有相当多的照片、地图、轨迹。这些帖子有点“读得很长”。 （我现在要发布的内容大约有 9 万个字符和大约 7.5 万个单词，可能大约有 50-80 张照片）。绝大多数帖子都是俄语的，但我也有一些英文帖子，还有双语帖子。 在 WordPress 中让我感到沮丧的是一些事情： - 时不时地当我登录时（可能几个月一次），我收到大量通知“更新这个，更新那个”。这非常烦人并且会降低发帖的积极性。 - 该网站并不是真的“太慢”，但我希望它能更快一些。 - 我还没有找到照片的结构。我的 HDD/NAS 上有一个相当有组织的结构（IMO），包含年/月/旅行，但在 WordPress 中，我上传带有类似时间戳的文件名的照片，然后通过某些插件自动重命名为更易于理解的名称（想想snow-in-oregon-crater-lake-np.jpg）。所以如果我想有一天“原路返回”照片从帖子到原始 RAW 文件（例如重新生成它，或发布到其他地方）我想我快要迷路了。 - 一般来说，WP 似乎是为非技术人员设计的。我是软件工程师（主要是 Python），我不介意更多的“裸机”。如果需要的话，可以采用这种方法（尽管我不想为一些琐碎的事情编写一堆代码） - “功能”的数量即使只是开箱即用似乎也太多了，我什至不关心其中 80% 左右... 所以每次我坐下来发布新内容时，我都会想到我可能需要更轻量级的东西，比如某种静态站点生成器等等。但这似乎是在频谱的另一边：-也许我错过了一些东西，但我没有看到应该能够很好地处理大量图片的框架，大多数 SSG 都适用于具有 max 的类似开发的博客每个帖子有几张照片，重点是文本/代码。我喜欢 WP 插件为我的帖子带来带有 EXIF 数据的精美灯箱（GPS、ISO/光圈/镜头等）。我喜欢评论（尽管我只有一些）和帖子之间的交叉引用。对于 SSG 来说，多语言支持似乎也是一种罕见的野兽...... 有什么建议吗？难道我做错了什么？我应该继续吐槽 WP 但使用它，还是有一些奇特的框架可以帮助我？   由   提交/u/lega4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cc22s/personal_blog_with_photos_looking_for/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GitHub API 和 React 进行用户搜索过滤</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cb6a5/user_search_filter_with_github_api_and_react/</link>
-      <description><![CDATA[我正在为我的项目添加搜索功能。最简单的部分是使用输入的用户名获取 github api。更困难的部分是在用户输入时添加搜索建议（就像您在 YouTube 或 Google 上看到的那样）。如果所有用户都在一个小数组中，我可以将它们过滤掉或者其他什么，那会很容易，但这不是问题。 我的问题是：如何在用户键入时实现搜索建议输出用户名（当然使用 GitHub API）？ 如果我需要澄清一些事情，请 lmk 并感谢您抽出时间。   由   提交/u/GullibleCondition150   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cb6a5/user_search_filter_with_github_api_and_react/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 jQuery 和 React 在 Vanilla JavaScript 之间共享状态的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cb3fo/what_would_be_the_best_way_to_share_state_between/</link>
-      <description><![CDATA[我参与了一个大型单页应用程序的迁移，该应用程序全部用 Vanilla JavaScript 编写，并大量依赖 jQuery 到 React 18。目标是一次用较新的 React 组件替换 UI 的各个部分 到目前为止，一切进展顺利，但我想知道在应用程序的旧部分之间共享状态（数据）的最佳方式是什么（使用 jQuery 构建）和较新的 React 组件。 我已经看到一些有关 Redux 的信息作为可能的解决方案，尽管我以前从未使用过它，而且我不知道这是否会过头。  记住这个工作主要是因为就像我说的，它总是被编写为单页应用程序（SPA）。 所以我正在寻找有关如何做的建议和建议这是正确的。 ​ ​ ​ &lt;!-- SC_ON - -&gt;  由   提交 /u/showcasefloyd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cb3fo/what_would_be_the_best_way_to_share_state_between/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义滚动条没有轨道？ （WordPress）</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cb2nd/custom_scrollbar_with_no_track_wordpress/</link>
-      <description><![CDATA[我希望复制您在此处看到的滚动条类型：https: //cuberto.com/ 如果你仔细观察，你会发现页面的背景一直延伸到边缘，所以没有滚动条轨道，滚动条本身就在顶部页面内容的内容。 正如您在此处看到的，另一个网站具有丑陋的滚动条轨道，并且内容被切断而不是到达屏幕边缘：https://css-tricks.com/ 我尝试了很多方法，并从不同来源复制/粘贴了很多代码，试图做这个。但似乎总是在默认滚动条轨道所在的位置留下滚动条轨道或空白，内容被切断而不是到达边缘。 我使用 Wordpress，所以应该是可能的   由   提交 /u/GeorgeCostanza1048   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cb2nd/custom_scrollbar_with_no_track_wordpress/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向网络开发人员的数字广告</title>
-      <link>https://www.reddit.com/r/webdev/comments/19catie/digital_advertisement_for_web_developers/</link>
-      <description><![CDATA[大家好。 我正在从技术角度寻找有关数字广告的资源（书籍、课程等）。它如何在 DA 机构方面运作、在我自己的网站上实施的最佳实践、代码片段等。我寻找一本，但只找到了面向“商业”人员的书籍。 有吗？谢谢大家的建议！   由   提交/u/Serious_Discussion18   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19catie/digital_advertisement_for_web_developers/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页设计和服务的 Al 消亡？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19carhj/the_al_death_of_web_design_services/</link>
-      <description><![CDATA[我真的认为人工智能将大规模取代网页设计师，而且可能比我想象的要快。我看到 Elementor 现在有一个用于网站的 AI 生成器（我还没有使用过）。现在我读到搜索引擎优化因聊天机器人而消亡。  我感觉自己好像经历过去年ChatGPT“实现”时的恐慌。我开始担心，正在考虑学习一门新技能。 我知道这些事情仍然需要时间，但我不想在以后的生活中找到答案。  其他人的想法是什么？   由   提交/u/Rambus_Jarbus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19carhj/the_al_death_of_web_design_services/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>将字体保留在嵌入的 SVG 中</title>
-      <link>https://www.reddit.com/r/webdev/comments/19cai7m/keeping_your_fonts_in_embedded_svg/</link>
-      <description><![CDATA[       由   提交/u/nfrankel  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19cai7m/keeping_your_fonts_in_embedded_svg/</guid>
-      <pubDate>Sun, 21 Jan 2024 18:49:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动执行并加速 Google 和 Bing 站点地图对动态内容的索引。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c96u8/automate_and_speedup_google_and_bing_sitemap/</link>
-      <description><![CDATA[基本上是标题。 https://goindex.me/ 的免费开源替代品。 https://github.com/niemal/seo-auto-index   由   提交/u/niemal_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c96u8/automate_and_speedup_google_and_bing_sitemap/</guid>
-      <pubDate>Sun, 21 Jan 2024 17:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[文章] - 开发扑克规划应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c8cnw/article_developing_a_poker_planning_app/</link>
-      <description><![CDATA[   /u/Pestilentio  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c8cnw/article_developing_a_poker_planning_app/</guid>
-      <pubDate>Sun, 21 Jan 2024 17:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>新闻或任何类似的内容以赶上最新趋势。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c84e5/news_or_anything_similar_to_catch_up_with_newest/</link>
-      <description><![CDATA[有人知道一个应用程序，我可以在其中学习和了解与 Web 开发和 IT 相关的所有内容的最新和最热门的趋势吗？作为构建对公众有益的新事物的某种杠杆。例如，现在人工智能已经存在，特别是 ChatGPT 或 GPT-4，开发人员可以利用它作为构建新应用程序或某种新想法的优势。或者甚至更快地开发现有代码，或者只是帮助他们完成任何与开发相关的事情，例如更快地构建应用程序。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c84e5/news_or_anything_similar_to_catch_up_with_newest/</guid>
-      <pubDate>Sun, 21 Jan 2024 17:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发工具中的屏幕变得非常小，知道如何解决这个问题吗？我尝试更改屏幕尺寸，但没有任何变化。突然发生这种情况，不知道如何恢复正常......</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c5l37/screen_in_dev_tools_has_become_extremely_small/</link>
-      <description><![CDATA[   /u/r1a2k3i4b   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c5l37/screen_in_dev_tools_has_become_extremely_small/</guid>
-      <pubDate>Sun, 21 Jan 2024 15:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该瞄准哪些技术或网络开发领域的利基市场？我如何为这些人找到客户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c4zho/what_are_some_niches_in_tech_or_webdev_that_i/</link>
-      <description><![CDATA[嘿！我是一名使用 JavaScript（React 和 Node.js）的全栈开发人员。我也有一点Python知识。目前，我在一家初创公司工作，但我计划很快离开并开始自由职业。 我知道常见的建议是不要在没有客户排队的情况下开始自由职业，但我想给它一个机会尝试。我曾在 Upwork、Contra 和其他一些自由职业网站上工作过，但低薪工作的竞争非常激烈。另一种方法是找到一个利基市场并专注于此。 但是网络开发的利基市场是什么？我有建立网站的技能，可以从事各种项目。但我应该瞄准谁，应该关注什么？ 我的投资组合中有 3-4 个网站，每个网站都展示不同的类型。我创建了一个 npm 包并围绕我的上一个项目（用于作品集）编写了一个博客。我确实收到了 2-3 个正在找人的人的询问，但他们要求的是与他们类似的项目，但由于我没有从事过此类项目，所以我错过了这些机会。我知道我需要接触更多的人，但找到他们具有挑战性。 如果我确实在某个特定行业找到了工作，我是否应该将此作为我的利基市场并接触其中的其他客户？我已经准备好学习新技术，但我需要获得预算更大的项目。 另一个想法是与一位在美国的朋友合作，他也有一些空闲时间并准备好工作。我可以让他在当地市场寻找客户，而我负责开发工作。这似乎是一种可行的方法，但我们不太确定如何通过这种方式找到客户。我对他的城市不太了解（即使他是新来的）。在我居住的城市，人们只是寻找廉价劳动力，而且有很多人愿意接受低薪工作（通常会导致工作质量低下）。所以，看来在线市场是我最好的选择。 我在这里寻求意见、建议和不同的观点。 谢谢:)   由   提交/u/fked_up_life  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c4zho/what_are_some_niches_in_tech_or_webdev_that_i/</guid>
-      <pubDate>Sun, 21 Jan 2024 14:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>还值得学习 React 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19c4tm8/still_worth_it_to_learn_react/</link>
-      <description><![CDATA[React（仍然）主导着前端领域。它不会很快消失，但有越来越多的替代库和框架可供选择。 你今天会学习 React 吗？或者您会将精力集中在另一个库/框架上？ 请评论您会选择什么以及为什么。 查看投票   由   提交 /u/tspwd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19c4tm8/still_worth_it_to_learn_react/</guid>
-      <pubDate>Sun, 21 Jan 2024 14:42:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
