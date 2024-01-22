@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 18:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 21:09:42 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 昂贵的冰箱正在夭折。</title>
-      <link>https://t.me/hn_summary/70334</link>
-      <description><![CDATA[昂贵的冰箱正在夭折。业主提起诉讼，声称存在欺诈行为
-昂贵冰箱的所有者，特别是那些配备 LG 压缩机的冰箱，由于其电器经常出现故障而起诉 LG 欺诈。尽管声称有 10 年保修和 20 年耐用性，但许多业主都经历过冰箱在购买后几年内就报废的情况。阿扎尔·穆扎里（Azar Mouzari）律师代表原告，并寻求将该诉讼列为集体诉讼，因为她认为成千上万的家庭面临着同样的问题。该诉讼称，LG 知道其线性压缩机的故障率很高，但仍继续生产它们。 LG 尚未对未决诉讼发表评论。]]></description>
-      <guid>https://t.me/hn_summary/70334</guid>
-      <pubDate>Mon, 22 Jan 2024 18:16:02 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者分享了他们修复损坏的智能猫喂食器的经验 [...]</title>
+      <link>https://t.me/hn_summary/70395</link>
+      <description><![CDATA[使用 ESP32 修复损坏的智能猫喂食器
+在本文中，作者分享了他们使用 ESP32 修复损坏的智能猫喂食器的经验。该馈送器最初是从一家倒闭的公司购买的，导致应用程序和服务器毫无用处。作者决定自己动手，购买了ESP8622来控制馈线。他们发现该设备既简单又复杂，具有各种传感器和功能。通过使用 ESPhome 并用继电器连接设备，作者能够通过手机远程控制电机并触发喂食器。这个过程出奇的简单，只花了大约 5 分钟。经过一番尝试，作者成功修复了喂食器，他们的猫现在一整天都在快乐地喂食。]]></description>
+      <guid>https://t.me/hn_summary/70395</guid>
+      <pubDate>Mon, 22 Jan 2024 21:09:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了一种建议大型语言模型 (LLM) 的新理论，该理论 [...]</title>
-      <link>https://t.me/hn_summary/70333</link>
-      <description><![CDATA[新理论表明法学硕士可以理解文本
-这篇文章讨论了一种新理论，该理论表明为现代聊天机器人提供动力的大型语言模型 (LLM) 不仅仅是在不理解其含义的情况下生成文本的“随机鹦鹉”。该理论由普林斯顿大学和谷歌 DeepMind 的研究人员开发，使用数学模型来分析法学硕士的行为。研究人员发现，随着法学硕士规模的扩大和接受更多数据的培训，他们会发展出新的能力，并以一种暗示理解的方式结合技能。这挑战了法学硕士仅根据他们之前所见的内容生成文本的信念。该理论说服了专家，并提供了对法学硕士能力的见解。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/70333</guid>
-      <pubDate>Mon, 22 Jan 2024 18:15:55 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了恐声症的情况，这是对特定 [...]</title>
+      <link>https://t.me/hn_summary/70394</link>
+      <description><![CDATA[小噪音让你发疯的原因不仅仅是声音
+这篇文章讨论了恐声症，即对可能导致极端负面情绪的特定声音的不容忍。作者重点介绍了患有恐音症 50 多年的梅根·戴维斯 (Megan Davies) 的经历。文章解释说，恐音症在不同程度上影响着10%以上的人口，并可能与焦虑和抑郁等心理健康问题有关。作者还讨论了最近对恐音症的科学研究，包括大脑扫描显示大脑某些区域对触发声音的反应活动增加。本文探讨了恐音症的潜在原因，例如遗传因素和环境影响。它还讨论了新兴的治疗方法，包括认知行为疗法和情境干预。作者最后强调了继续研究和支持恐声症患者的重要性。]]></description>
+      <guid>https://t.me/hn_summary/70394</guid>
+      <pubDate>Mon, 22 Jan 2024 21:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]David Graeber：关心太多。</title>
-      <link>https://t.me/hn_summary/70332</link>
-      <description><![CDATA[David Graeber：关心太多。这就是工人阶级的诅咒
-在这篇文章中，大卫·格雷伯探讨了为什么工人阶级尽管遭受紧缩措施带来的痛苦，却没有上街骚乱。格雷伯认为，工人阶级对他人更加关心和同情，这导致他们优先考虑朋友、家人和社区的福祉，而不是自己的不满。他认为，另一方面，富人和有权势的人由于他们的特权而可以忽视和漠不关心。格雷伯还强调了一种误解，即“真正的工作”仅仅是体力劳动，而实际上，工人阶级工作的很大一部分涉及照顾他人和满足他们的需求。他最后讨论了工人阶级关怀的武器化以及左派理解和支持劳动本质的必要性。]]></description>
-      <guid>https://t.me/hn_summary/70332</guid>
-      <pubDate>Mon, 22 Jan 2024 18:14:46 GMT</pubDate>
+      <title>Winlator 是一款 Android 应用程序，允许用户使用 [...]</title>
+      <link>https://t.me/hn_summary/70393</link>
+      <description><![CDATA[Winlator：Android 应用程序，可让您使用 Wine 运行 Windows 应用程序&lt; /a&gt;
+Winlator 是一款 Android 应用程序，允许用户使用 Wine 和 Box86/Box64 在其设备上运行 Windows 应用程序。该应用程序的诞生得益于 ptitSeb 和 Wine 开发人员的辛勤工作和奉献精神，他们创建了 Windows 兼容层。没有他们的不断改进和支持，这个项目是不可能实现的。用户可以从官方网站下载最新版本的Winlator。]]></description>
+      <guid>https://t.me/hn_summary/70393</guid>
+      <pubDate>Mon, 22 Jan 2024 20:59:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FreeBSD 开发人员目前正在考虑合并 Rust 的可能性 [...]</title>
-      <link>https://t.me/hn_summary/70331</link>
-      <description><![CDATA[FreeBSD 考虑在其基本系统中使用 Rust 
-FreeBSD 开发人员目前正在考虑将 Rust 编程语言合并到 FreeBSD 基础系统中的可能性。尽管有人担心由于需要编译 Rustc 编译器及其附加功能而可能导致构建时间加倍，但开发人员正在探索缓解此问题的选项。将 Rust 包含在基础系统中将允许使用 Rust 而不是 C++ 重写各种组件，例如 ZFS 守护进程和 WiFi 用户空间代码。讨论正在进行中，感兴趣的人可以关注提供的邮件列表线程上的对话。]]></description>
-      <guid>https://t.me/hn_summary/70331</guid>
-      <pubDate>Mon, 22 Jan 2024 17:40:25 GMT</pubDate>
+      <title>据苹果分析师 Ming-Chi Kuo 称，苹果已经售出了 160,000 至 180,000 部 Vi [...]</title>
+      <link>https://t.me/hn_summary/70392</link>
+      <description><![CDATA[郭：苹果已售出多达 180k Vision Pro 耳机
+苹果分析师 Ming-Chi Kuo 表示，苹果在第一个预购周末期间已售出 160,000 至 180,000 台 Vision Pro 耳机。这些耳机很快就被抢购一空，所有型号的发货时间都缩短了五到七周。不过，Kuo 警告说，预订开启 48 小时后发货日期保持不变，这表明需求可能正在逐渐减少。郭认为今年出货 50 万台应该不具有挑战性，但他指出 Vision Pro 仍然是一款小众产品。值得注意的是，文章还提到了其他消息，例如 iOS 17.3 的发布以及苹果 Infinite Loop 和皇家夏威夷零售店的关闭。]]></description>
+      <guid>https://t.me/hn_summary/70392</guid>
+      <pubDate>Mon, 22 Jan 2024 20:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉发布了全自动驾驶 (FSD) Beta v12 更新，这被视为 [...]</title>
-      <link>https://t.me/hn_summary/70330</link>
-      <description><![CDATA[特斯拉发布 FSD v12，这是自动驾驶的最后希望
-特斯拉发布了全自动驾驶 (FSD) Beta v12 更新，这被视为该公司兑现其自动驾驶承诺的最后希望。此次更新引入了“端到端神经网络”，车辆的控制由人工智能处理，而不是由工程师编码。这种做法是特斯拉支持者期待已久的，首席执行官埃隆·马斯克已表示 v12 不会作为测试版软件发布。然而，有人担心，虽然更新在某些情况下更加顺利，但在其他情况下也变得更加愚蠢。 v12 和神经网络的成功对于特斯拉的自动驾驶开发至关重要。]]></description>
-      <guid>https://t.me/hn_summary/70330</guid>
-      <pubDate>Mon, 22 Jan 2024 17:38:18 GMT</pubDate>
+      <title>[媒体]麻省理工学院计算机科学和人工智能实验室的一项新研究表明[...]</title>
+      <link>https://t.me/hn_summary/70391</link>
+      <description><![CDATA[麻省理工学院的研究发现，我们的工作可能不会这么快被机器人夺走
+麻省理工学院计算机科学和人工智能实验室的一项新研究表明，人工智能（AI）对劳动力市场的影响将比之前担心的要慢。研究发现，大多数被认为容易受到人工智能影响的工作目前对于雇主来说自动化并没有经济上的好处。目前，在可能由人工智能完成的工作中，只有约 23% 的工资用机器取代是具有成本效益的。尽管该研究承认这种情况可能会随着时间的推移而改变，但它表明人工智能对工作的干扰可能会逐渐发生。这项研究使政策制定者能够更好地了解他们在制定减轻人工智能对劳动力市场影响的解决方案时应考虑的时间表。]]></description>
+      <guid>https://t.me/hn_summary/70391</guid>
+      <pubDate>Mon, 22 Jan 2024 20:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 抱歉，但我无法生成此网页内容的摘要，因为它需要访问 [...]</title>
-      <link>https://t.me/hn_summary/70329</link>
-      <description><![CDATA[特朗普的贸易战造就了中国首家全球时尚巨头 Shein
-抱歉，我无法生成此网页内容的摘要，因为它需要访问该网站，而我无法浏览互联网。]]></description>
-      <guid>https://t.me/hn_summary/70329</guid>
-      <pubDate>Mon, 22 Jan 2024 17:28:06 GMT</pubDate>
+      <title>[媒体] 去健身房？</title>
+      <link>https://t.me/hn_summary/70390</link>
+      <description><![CDATA[加入健身房？这就是您应该开设新银行账户的原因
+本文讨论了在加入需要 ACH 付款的健身房之前开设新银行账户的重要性。它解释说，健身房更喜欢 ACH 转账，因为它们更便宜，而且顾客更难以停止。作者强调了让健身房访问您的主要银行账户的潜在安全风险，并建议开设一个专用于健身房的新账户。他们还提到了银行为新账户提供的欢迎奖金的好处，这可以帮助支付每月的健身房费用。这篇文章就如何停止向顽固的健身房付款以及如何对未经授权的交易提出异议提出了建议。作者最后强调了开设新银行账户带来的更好的安全性和潜在的奖金。]]></description>
+      <guid>https://t.me/hn_summary/70390</guid>
+      <pubDate>Mon, 22 Jan 2024 20:42:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了如何构建和私有缓存 x86 和 Aarch64 NixOS 系统 [...]</title>
-      <link>https://t.me/hn_summary/70328</link>
-      <description><![CDATA[使用 GitHub Actions 构建和私有缓存 x86 和 Aarch64 NixOS 系统
-本文讨论如何使用 GitHub Actions 构建和私有缓存 x86 和 Aarch64 NixOS 系统。它解释了从每台机器手动推送到缓存可能会变得很烦人，特别是在涉及多台机器和架构的情况下。作者提供了一个示例 build.yml 文件，并解释了如何处理私有存储库、使用 git-crypt 加密的机密以及不同的架构。他们还解释了如何配置对 Attic 二进制缓存的访问。本文最后提供了一个完整的示例，说明如何将所有步骤组合在一起。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70328</guid>
-      <pubDate>Mon, 22 Jan 2024 17:27:00 GMT</pubDate>
+      <title>[媒体]美国联邦航空管理局（FAA）发布安全警报，敦促航空公司 [...]</title>
+      <link>https://t.me/hn_summary/70389</link>
+      <description><![CDATA[波音公司针对上一代 737 面临新的安全警报 
+美国联邦航空管理局 (FAA) 已发布安全警报，敦促航空公司检查早期版本的波音 737 飞机的门塞。此前，在阿拉斯加航空的一次飞行中，新款 Max 型号的门塞从侧面爆裂。美国联邦航空局 (FAA) 规定，运营波音 737-900ER 机型的航空公司应目视检查中间出口门塞，以确保其正确固定。安全警报发布后，波音公司股价下跌近 3%。美国联邦航空局的通知并未让早期一代飞机停飞，而是建议检查门塞和螺栓。较新的 Max 9 飞机仍然在美国停飞。]]></description>
+      <guid>https://t.me/hn_summary/70389</guid>
+      <pubDate>Mon, 22 Jan 2024 20:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您怎么知道是时候辞去 FAANG 工作了？</title>
-      <link>https://t.me/hn_summary/70327</link>
-      <description><![CDATA[问 HN：你怎么知道是时候放弃你的工作了？ FAANG工作？
-news.ycombinator.com 上这篇文章的作者是向社区寻求建议，了解何时是辞去 FAANG（Facebook、Apple、Amazon、Netflix、Google）工作的最佳时机。他们承认，这个决定是高度个性化的，取决于年龄、健康、婚姻和家庭等因素。作者询问了其他人已经使用或计划使用的指标来确定何时该退出，例如筹集种子轮资金、现金流超过全职收入，或者在尚未赚钱的情况下取得显着的牵引力。]]></description>
-      <guid>https://t.me/hn_summary/70327</guid>
-      <pubDate>Mon, 22 Jan 2024 17:25:50 GMT</pubDate>
+      <title>本文讨论了作者在 Gre [...] 期间使用 Wallpen 立式打印机的经历。</title>
+      <link>https://t.me/hn_summary/70388</link>
+      <description><![CDATA[关于 Wallpen 立式打印机的诚实反馈
+本文讨论了作者在 Green Type 项目中使用 Wallpen 立式打印机的经验，该项目专注于可持续展览设计。作者强调了 Wallpen 打印机的几个缺点，包括运输挑战、墨水的可持续性问题、紫外线照射、操作刚性、颜色校准问题、软件问题和墨水管理困难。作者提出了应对这些挑战的潜在解决方案，例如开发环保墨水以及改进运输和防撞系统。文章还提到了围绕 Wallpen 打印机的营销主张的争议以及业主对其盈利能力的不同反馈。然而，这篇文章承认 Wallpen 打印机令人印象深刻的打印质量。]]></description>
+      <guid>https://t.me/hn_summary/70388</guid>
+      <pubDate>Mon, 22 Jan 2024 20:42:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章提供了有关如何防止 Microsoft Edge 在后台运行的指南 [...]</title>
-      <link>https://t.me/hn_summary/70326</link>
-      <description><![CDATA[如何阻止 Microsoft Edge 在 Windows 11 和 10 上后台运行
-本文提供了有关如何阻止 Microsoft Edge 在 Windows 11 和 10 上在后台运行的指南。它解释说，虽然这对于大多数计算机来说可能不是问题，但对于笔记本电脑和低端设备来说可能会出现问题，因为它可以增加电池消耗和内存使用。该指南引导用户完成禁用该功能和提高系统性能的步骤。它还提到，如果用户改变主意，他们可以轻松恢复更改。本文不包含任何有争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/70326</guid>
-      <pubDate>Mon, 22 Jan 2024 17:20:41 GMT</pubDate>
+      <title>[媒体]新罕布什尔州总检察长办公室正在调查一起反投票机器人电话 [...]</title>
+      <link>https://t.me/hn_summary/70387</link>
+      <description><![CDATA[带有乔·拜登人工声音的机器人电话告诉民主党人不要投票
+新罕布什尔州总检察长办公室正在调查一宗反投票机器人电话，该电话使用了乔·拜登总统的人工声音。这些电话于周日发出，敦促民主党人不要在 1 月 23 日的总统初选中投票。总检察长办公室表示，自动电话中的声音似乎是人为生成的，并称其为扰乱选举和镇压选民的非法企图。可以在 NBC 新闻文章中听到的录音信息鼓励选民为 11 月的选举保留投票，并声称周二的投票将使共和党人能够连任唐纳德·特朗普。特朗普竞选团队否认参与了虚假的拜登通话。来电显示被欺骗，显示了新罕布什尔州一位著名民主党人的个人手机号码。拜登的竞选团队正在考虑采取进一步行动来应对机器人电话。尽管拜登本周没有正式参加新罕布什尔州的选票，但在民主党初选中有一个支持他的竞选活动。机器人电话被描述为“深度造假的虚假信息”，旨在伤害拜登、压制选票和破坏民主。总检察长办公室澄清，初选投票并不妨碍选民在 11 月大选中投票。]]></description>
+      <guid>https://t.me/hn_summary/70387</guid>
+      <pubDate>Mon, 22 Jan 2024 20:40:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 育碧正面临一位心怀不满的粉丝的诉讼，他们对取消计划感到不满 [...]</title>
-      <link>https://t.me/hn_summary/70325</link>
-      <description><![CDATA[《刺客信条》发行商育碧因关闭游戏而面临诉讼 
-育碧正面临一名心怀不满的粉丝提起的诉讼，该粉丝对一款粉丝喜爱的游戏被取消和关闭感到不满。 YouTube 用户罗斯·斯科特（又名 Accursed Farms）计划对发行商提起集体诉讼，指控该发行商以永久许可的形式销售游戏，但在销售后却无法使用，从而误导了玩家。斯科特认为这是一个挑战系统并防止游戏被破坏的机会。虽然诉讼仍处于收集证据阶段，但斯科特决心反对育碧提出的任何潜在的无过错和解方案。]]></description>
-      <guid>https://t.me/hn_summary/70325</guid>
-      <pubDate>Mon, 22 Jan 2024 17:16:33 GMT</pubDate>
+      <title>[媒体]参议院司法小组委员会正在就人工智能的使用举行听证会 [...]</title>
+      <link>https://t.me/hn_summary/70386</link>
+      <description><![CDATA[人工智能在刑事调查和起诉中的应用
+参议院司法小组委员会正在就人工智能（AI）在刑事调查和起诉中的使用举行听证会。听证会将于 2024 年 1 月 24 日星期三下午 02:30 在德克森参议院办公大楼 226 室举行。布克主席将主持听证会。该网站提供了一个链接，用于查看听证会的实时视频报道。]]></description>
+      <guid>https://t.me/hn_summary/70386</guid>
+      <pubDate>Mon, 22 Jan 2024 20:39:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
