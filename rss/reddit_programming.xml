@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 22 Jan 2024 03:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 06:16:47 GMT</lastBuildDate>
+    <item>
+      <title>营销如何改变 JavaScript 中的 OOP</title>
+      <link>https://www.reddit.com/r/programming/comments/19cowi3/how_marketing_changed_oop_in_javascript/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19cowi3/how_marketing_changed_oop_in_javascript/</guid>
+      <pubDate>Mon, 22 Jan 2024 06:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源可持续发展危机</title>
+      <link>https://www.reddit.com/r/programming/comments/19cofb5/the_open_source_sustainability_crisis/</link>
+      <description><![CDATA[ 由   提交 /u/anehzat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19cofb5/the_open_source_sustainability_crisis/</guid>
+      <pubDate>Mon, 22 Jan 2024 05:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fred.rs 8.0.0 版本：Rust 中符合人体工程学的 Redis 客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/19codg4/fredrs_800_release_an_ergonomic_redis_client_in/</link>
+      <description><![CDATA[此版本的主要亮点：  支持 unix 域套接字。  添加 Redis TimeSeries 接口。 添加几个新的连接配置选项。  ul&gt; 功能：  RESP2 和 RESP3 协议模式。 集群式、集中式、哨兵式 Redis 部署。&lt; /p&gt; 通过 native-tls 或 rustls 进行 TLS。 Unix 套接字。 具有多个退避策略的可选重新连接逻辑。 发布-订阅和键空间事件接口。 &gt; 循环客户端池接口。 Lua 脚本或函数。 &lt; p&gt;从  MONITOR 命令流式传输结果。 自定义命令。 用于扫描功能的流接口。 事务 管道传输 客户端跟踪 可选的 RedisJSON 接口。 循环集群副本路由接口。 p&gt; 一个可选的 pubsub 订阅者客户端，将自动管理频道订阅。 跟踪  如果您认为它很酷，请在 GitHub 上给它一个 🌠！   由   提交/u/voicefeed  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19codg4/fredrs_800_release_an_ergonomic_redis_client_in/</guid>
+      <pubDate>Mon, 22 Jan 2024 05:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向初学者的 AWS Lambda |快速开始构建</title>
+      <link>https://www.reddit.com/r/programming/comments/19co302/aws_lambda_for_beginners_start_building_quickly/</link>
+      <description><![CDATA[ 由   提交/u/BuffaloOwn2649   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19co302/aws_lambda_for_beginners_start_building_quickly/</guid>
+      <pubDate>Mon, 22 Jan 2024 05:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 如何消除代码审查的痛苦，并获得 97% 的开发者满意度</title>
+      <link>https://www.reddit.com/r/programming/comments/19cmspz/how_google_takes_the_pain_out_of_code_reviews/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19cmspz/how_google_takes_the_pain_out_of_code_reviews/</guid>
+      <pubDate>Mon, 22 Jan 2024 04:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于开发人员：如何快速设置功能齐全的个人博客</title>
+      <link>https://www.reddit.com/r/programming/comments/19cmof1/for_devs_how_to_setup_a_fullfeatured_personal/</link>
+      <description><![CDATA[ 由   提交/u/d0liver  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19cmof1/for_devs_how_to_setup_a_fullfeatured_personal/</guid>
+      <pubDate>Mon, 22 Jan 2024 04:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用火焰图诊断内存泄漏的快速提示和指南</title>
+      <link>https://www.reddit.com/r/programming/comments/19cmlcb/quick_tips_and_guides_for_memory_leak_diagnosing/</link>
+      <description><![CDATA[ 由   提交/u/jeremy_feng  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/19cmlcb/quick_tips_and_guides_for_memory_leak_diagnosing/</guid>
+      <pubDate>Mon, 22 Jan 2024 03:55:21 GMT</pubDate>
+    </item>
     <item>
       <title>N|Solid Copilot 简介：您的 AI 驱动的 Node.js 导航器</title>
       <link>https://www.reddit.com/r/programming/comments/19cln62/introducing_nsolid_copilot_your_aipowered_nodejs/</link>
@@ -27,7 +76,7 @@
       <pubDate>Mon, 22 Jan 2024 01:27:53 GMT</pubDate>
     </item>
     <item>
-      <title>作为 Ruby on Rails 开发人员，我每年赚取数十万美元。</title>
+      <title>作为 Ruby on Rails 开发人员，我每年赚取数十万美元的收入。</title>
       <link>https://www.reddit.com/r/programming/comments/19civvh/ive_been_pulling_in_hundreds_of_thousands_of/</link>
       <description><![CDATA[ 由   提交/u/mehdifarsi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/19civvh/ive_been_pulling_in_hundreds_of_thousands_of/</guid>
@@ -48,7 +97,7 @@
       <pubDate>Mon, 22 Jan 2024 00:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>您现在可以直接从 Discord 中使用skibbidy-toilet 编译器来编译 lmao-lang...</title>
+      <title>您现在可以直接从 Discord 中使用skibbidy-toilet 编译器编译 lmao-lang...</title>
       <link>https://www.reddit.com/r/programming/comments/19ch20s/you_can_now_compile_lmaolang_with_the/</link>
       <description><![CDATA[ 由   提交 /u/subnohmal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/19ch20s/you_can_now_compile_lmaolang_with_the/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/19cgg2v/a_practical_guide_to_modular_monoliths_with_net/</guid>
       <pubDate>Sun, 21 Jan 2024 22:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件消除 JavaScript 框架锁定</title>
-      <link>https://www.reddit.com/r/programming/comments/19cdo25/web_components_eliminate_javascript_framework/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19cdo25/web_components_eliminate_javascript_framework/</guid>
-      <pubDate>Sun, 21 Jan 2024 21:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>C23：稍微好一点的 C – Daniel Lemire 的博客</title>
-      <link>https://www.reddit.com/r/programming/comments/19cd4uv/c23_a_slightly_better_c_daniel_lemires_blog/</link>
-      <description><![CDATA[ 由   提交/u/agumonkey  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19cd4uv/c23_a_slightly_better_c_daniel_lemires_blog/</guid>
-      <pubDate>Sun, 21 Jan 2024 20:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Python 中打破嵌套循环的 5 种方法</title>
-      <link>https://www.reddit.com/r/programming/comments/19cd4tf/5_ways_to_break_out_of_nested_loops_in_python/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19cd4tf/5_ways_to_break_out_of_nested_loops_in_python/</guid>
-      <pubDate>Sun, 21 Jan 2024 20:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/19ccy0f/help/</link>
-      <description><![CDATA[所以我需要很多帮助   由   提交 /u/Imsolost63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19ccy0f/help/</guid>
-      <pubDate>Sun, 21 Jan 2024 20:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮忙</title>
-      <link>https://www.reddit.com/r/programming/comments/19cauuw/need_help/</link>
-      <description><![CDATA[我 18 岁了，我想成为程序员，我在 YouTube 上找到了很多资源，但我现在迷失了，你能给我学习编程和一些东西的路线图吗？需要关注的来源   由   提交/u/Popular_Bison_4294  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19cauuw/need_help/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我错了（我的贪吃蛇游戏是 60 字节）</title>
-      <link>https://www.reddit.com/r/programming/comments/19cajzq/i_was_wrong_my_snake_game_is_60_bytes/</link>
-      <description><![CDATA[两周前，我发了一篇帖子并表示这是“不现实的”我可以让游戏变得更小。 但是，我意识到我错过了一些非常简单的事情，我可以对候选食物位置的值进行按位或加 1，以便空“块” ;将变成食物字符，如果它在蛇或墙壁标记字符上，它不会改变它的 MSB，所以我仍然可以使用 SF 检查它是否已经被占用，并且由于按位异或带有空字符的蛇字符与带有空字符的蛇的按位异或与 1 的奇偶校验不同，我们仍然可以设置蛇字符并使用 xor 和检查食物PF，这不会改变大小，因为此时我们已经在 dh 寄存器中加载了 1，我们只需对其进行按位或操作即可。&lt; /p&gt; 另一个结果是，现在我们可以完全控制哪些字节可以加载为墙字符，现在包括不可见的 0xFF cp437 字符，该字符已经方便地加载到 cl 中，因此它减少了一个字节的代码（mov m8, r8 是 mov m8, i8 的三个字节中的两个字节）。 这也删除了一对白色左侧的字符免费。   由   提交 /u/Perfect-Highlight964   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19cajzq/i_was_wrong_my_snake_game_is_60_bytes/</guid>
-      <pubDate>Sun, 21 Jan 2024 18:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>强化学习泛化</title>
-      <link>https://www.reddit.com/r/programming/comments/19ca809/reinforcement_learning_generalization/</link>
-      <description><![CDATA[ 由   提交 /u/ml_dnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/19ca809/reinforcement_learning_generalization/</guid>
-      <pubDate>Sun, 21 Jan 2024 18:37:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
