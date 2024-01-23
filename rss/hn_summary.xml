@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 21:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:53:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在这篇文章中，作者分享了他们修复损坏的智能猫喂食器的经验 [...]</title>
-      <link>https://t.me/hn_summary/70395</link>
-      <description><![CDATA[使用 ESP32 修复损坏的智能猫喂食器
-在本文中，作者分享了他们使用 ESP32 修复损坏的智能猫喂食器的经验。该馈送器最初是从一家倒闭的公司购买的，导致应用程序和服务器毫无用处。作者决定自己动手，购买了ESP8622来控制馈线。他们发现该设备既简单又复杂，具有各种传感器和功能。通过使用 ESPhome 并用继电器连接设备，作者能够通过手机远程控制电机并触发喂食器。这个过程出奇的简单，只花了大约 5 分钟。经过一番尝试，作者成功修复了喂食器，他们的猫现在一整天都在快乐地喂食。]]></description>
-      <guid>https://t.me/hn_summary/70395</guid>
-      <pubDate>Mon, 22 Jan 2024 21:09:42 GMT</pubDate>
+      <title>[媒体]律师越来越多地在其法律服务中采用人工智能 (AI) 工具 [...]</title>
+      <link>https://t.me/hn_summary/70438</link>
+      <description><![CDATA[律师正在迅速拥抱人工智能
+律师在法律实践中越来越多地采用人工智能（AI）工具。人工智能正在改变法律格局，以闪电般的速度进行法律研究，在几分钟内审查合同，并雄辩地起草法律摘要。然而，人工智能在法律上的进步引起了道德和监管方面的担忧。使用在有偏见的数据集上训练的人工智能算法可能会延续社会偏见，可能会影响保释决定和招聘实践。需要透明度和监管来解决这些问题，包括在不同数据集上训练人工智能模型、开发可解释的人工智能工具以及建立独立的监督机构。目标是赋能法律专业人士，确保人工智能成为维护正义和公平的正义力量。]]></description>
+      <guid>https://t.me/hn_summary/70438</guid>
+      <pubDate>Tue, 23 Jan 2024 00:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了恐声症的情况，这是对特定 [...]</title>
-      <link>https://t.me/hn_summary/70394</link>
-      <description><![CDATA[小噪音让你发疯的原因不仅仅是声音
-这篇文章讨论了恐声症，即对可能导致极端负面情绪的特定声音的不容忍。作者重点介绍了患有恐音症 50 多年的梅根·戴维斯 (Megan Davies) 的经历。文章解释说，恐音症在不同程度上影响着10%以上的人口，并可能与焦虑和抑郁等心理健康问题有关。作者还讨论了最近对恐音症的科学研究，包括大脑扫描显示大脑某些区域对触发声音的反应活动增加。本文探讨了恐音症的潜在原因，例如遗传因素和环境影响。它还讨论了新兴的治疗方法，包括认知行为疗法和情境干预。作者最后强调了继续研究和支持恐声症患者的重要性。]]></description>
-      <guid>https://t.me/hn_summary/70394</guid>
-      <pubDate>Mon, 22 Jan 2024 21:07:34 GMT</pubDate>
+      <title>[媒体]流行的项目管理工具 Trello 遭受了数据泄露，导致 [...]</title>
+      <link>https://t.me/hn_summary/70437</link>
+      <description><![CDATA[Trello 泄露了 1500 万个电子邮件地址
+流行的项目管理工具 Trello 遭遇数据泄露，导致 1500 万个电子邮件地址泄露。该漏洞由安全研究人员 Troy Hunt 发现，他将泄露的电子邮件地址添加到他的网站 haveibeenpwned.com。此后，Trello 已采取措施解决该问题并通知受影响的用户。此事件凸显了强有力的安全措施的重要性以及个人定期检查其电子邮件地址是否已被泄露的必要性。]]></description>
+      <guid>https://t.me/hn_summary/70437</guid>
+      <pubDate>Tue, 23 Jan 2024 00:35:44 GMT</pubDate>
     </item>
     <item>
-      <title>Winlator 是一款 Android 应用程序，允许用户使用 [...]</title>
-      <link>https://t.me/hn_summary/70393</link>
-      <description><![CDATA[Winlator：Android 应用程序，可让您使用 Wine 运行 Windows 应用程序&lt; /a&gt;
-Winlator 是一款 Android 应用程序，允许用户使用 Wine 和 Box86/Box64 在其设备上运行 Windows 应用程序。该应用程序的诞生得益于 ptitSeb 和 Wine 开发人员的辛勤工作和奉献精神，他们创建了 Windows 兼容层。没有他们的不断改进和支持，这个项目是不可能实现的。用户可以从官方网站下载最新版本的Winlator。]]></description>
-      <guid>https://t.me/hn_summary/70393</guid>
-      <pubDate>Mon, 22 Jan 2024 20:59:24 GMT</pubDate>
+      <title>[媒体]Riot Games 宣布了公司结构和未来计划的变更。</title>
+      <link>https://t.me/hn_summary/70436</link>
+      <description><![CDATA[Riot Games 的变化和未来的道路
+Riot Games 宣布了公司结构和未来计划的变更。这一决定是在 Riot 的目标是专注于更少的、高影响力的项目以确保更可持续的未来之际作出的。该公司认识到，近年来，他们的努力过于分散在各个项目上，导致缺乏对玩家真正需求的关注。因此，全球范围内将淘汰约 11% 的 Rioters，即约 530 个角色。该公司现在的主要重点将放在其核心直播游戏上，包括《英雄联盟》、《VALORANT》、《云顶之弈》和《狂野裂谷》。他们还计划将电子竞技、音乐和娱乐与他们的游戏更紧密地结合起来。此外，Riot 还有多个项目正在筹备中，例如 Project L 和 Arcane Season 2，他们致力于为玩家提供高质量的体验。这些变化将对 Legends of Runeterra 和 Riot Forge 产生直接影响，前者将重点转移到冠军之路游戏模式，而后者在《Bandle Tale：英雄联盟故事》发布后结束了新游戏的开发。总体而言，Riot Games 正在重新关注自己的优势以及最能引起玩家共鸣的内容，以提供有意义的体验。]]></description>
+      <guid>https://t.me/hn_summary/70436</guid>
+      <pubDate>Tue, 23 Jan 2024 00:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>据苹果分析师 Ming-Chi Kuo 称，苹果已经售出了 160,000 至 180,000 部 Vi [...]</title>
-      <link>https://t.me/hn_summary/70392</link>
-      <description><![CDATA[郭：苹果已售出多达 180k Vision Pro 耳机
-苹果分析师 Ming-Chi Kuo 表示，苹果在第一个预购周末期间已售出 160,000 至 180,000 台 Vision Pro 耳机。这些耳机很快就被抢购一空，所有型号的发货时间都缩短了五到七周。不过，Kuo 警告说，预订开启 48 小时后发货日期保持不变，这表明需求可能正在逐渐减少。郭认为今年出货 50 万台应该不具有挑战性，但他指出 Vision Pro 仍然是一款小众产品。值得注意的是，文章还提到了其他消息，例如 iOS 17.3 的发布以及苹果 Infinite Loop 和皇家夏威夷零售店的关闭。]]></description>
-      <guid>https://t.me/hn_summary/70392</guid>
-      <pubDate>Mon, 22 Jan 2024 20:47:14 GMT</pubDate>
+      <title>[媒体]捷克共和国宣布将设定知识产权使用的结束日期[...]</title>
+      <link>https://t.me/hn_summary/70435</link>
+      <description><![CDATA[捷克共和国设定 IPv4 结束日期
+捷克共和国宣布将设定 IPv4 协议使用的结束日期。几十年来，IPv4 一直是互联网通信的骨干，但随着设备和服务数量的不断增加，地址数量有限已成为问题。向 IPv6 的过渡可提供几乎无限的地址，对于互联网未来的可扩展性、安全性和效率至关重要。捷克共和国的这一举措凸显了拥抱 IPv6 的重要性，并标志着迈向更先进和可持续的互联网基础设施的一步。]]></description>
+      <guid>https://t.me/hn_summary/70435</guid>
+      <pubDate>Tue, 23 Jan 2024 00:22:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]麻省理工学院计算机科学和人工智能实验室的一项新研究表明[...]</title>
-      <link>https://t.me/hn_summary/70391</link>
-      <description><![CDATA[麻省理工学院的研究发现，我们的工作可能不会这么快被机器人夺走
-麻省理工学院计算机科学和人工智能实验室的一项新研究表明，人工智能（AI）对劳动力市场的影响将比之前担心的要慢。研究发现，大多数被认为容易受到人工智能影响的工作目前对于雇主来说自动化并没有经济上的好处。目前，在可能由人工智能完成的工作中，只有约 23% 的工资用机器取代是具有成本效益的。尽管该研究承认这种情况可能会随着时间的推移而改变，但它表明人工智能对工作的干扰可能会逐渐发生。这项研究使政策制定者能够更好地了解他们在制定减轻人工智能对劳动力市场影响的解决方案时应考虑的时间表。]]></description>
-      <guid>https://t.me/hn_summary/70391</guid>
-      <pubDate>Mon, 22 Jan 2024 20:47:07 GMT</pubDate>
+      <title>[媒体]联邦贸易委员会 (FTC) 裁定，流行的报税软件 TurboTax [...]</title>
+      <link>https://t.me/hn_summary/70434</link>
+      <description><![CDATA[FTC 禁止 TurboTax 宣传“免费”服务，称其为欺骗性广告&lt; /a&gt;
+美国联邦贸易委员会 (FTC) 裁定流行的报税软件 TurboTax 从事欺骗性广告，并禁止该公司免费为其服务做广告，除非该软件对所有客户免费。 FTC 发现 TurboTax 投放许多客户不符合资格的“免费”税务服务广告，违反了 FTC 法案。该公司被指控通过宣传其产品免费来误导客户，例如那些从零工经济或农业中赚取收入的客户。 TurboTax 的所有者 Intuit 已对该决定提出上诉，称其为“有偏见且破碎的系统”。 FTC 已命令 Intuit 明确披露实际有资格获得免费服务的客户百分比，并披露获得免费服务所需的所有条款和条件。这项裁决是在去年 50 个州与 Intuit 达成和解之后作出的，其中约 440 万人因涉嫌引导低收入美国人放弃免费报税服务而收到支票。]]></description>
+      <guid>https://t.me/hn_summary/70434</guid>
+      <pubDate>Tue, 23 Jan 2024 00:21:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 去健身房？</title>
-      <link>https://t.me/hn_summary/70390</link>
-      <description><![CDATA[加入健身房？这就是您应该开设新银行账户的原因
-本文讨论了在加入需要 ACH 付款的健身房之前开设新银行账户的重要性。它解释说，健身房更喜欢 ACH 转账，因为它们更便宜，而且顾客更难以停止。作者强调了让健身房访问您的主要银行账户的潜在安全风险，并建议开设一个专用于健身房的新账户。他们还提到了银行为新账户提供的欢迎奖金的好处，这可以帮助支付每月的健身房费用。这篇文章就如何停止向顽固的健身房付款以及如何对未经授权的交易提出异议提出了建议。作者最后强调了开设新银行账户带来的更好的安全性和潜在的奖金。]]></description>
-      <guid>https://t.me/hn_summary/70390</guid>
-      <pubDate>Mon, 22 Jan 2024 20:42:59 GMT</pubDate>
+      <title>[媒体] ML 工程在线图书是一个开放的方法论集合，旨在帮助 [...]</title>
+      <link>https://t.me/hn_summary/70433</link>
+      <description><![CDATA[机器学习工程在线书籍
+机器学习工程在线书籍是一个开放的方法集，旨在帮助成功训练大型语言模型和多模态模型。它适用于 LLM/VLM 培训工程师和操作员，包含脚本和复制粘贴命令，可快速满足他们的需求。作者分享了他们在训练开源 BLOOM-176B 模型和 IDEFICS-80B 多模态模型时获得的经验和知识。该项目涵盖了各种主题，例如见解、关键硬件组件、性能、操作、开发等。它还包括用于快速参考的工具、指南和快捷方式。作者强调了与更广泛的机器学习社区分享这些信息的重要性，并对那些为他们的学习过程做出贡献的人表示感谢。]]></description>
+      <guid>https://t.me/hn_summary/70433</guid>
+      <pubDate>Tue, 23 Jan 2024 00:21:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联邦航空管理局（FAA）发布安全警报，敦促航空公司 [...]</title>
-      <link>https://t.me/hn_summary/70389</link>
-      <description><![CDATA[波音公司针对上一代 737 面临新的安全警报 
-美国联邦航空管理局 (FAA) 已发布安全警报，敦促航空公司检查早期版本的波音 737 飞机的门塞。此前，在阿拉斯加航空的一次飞行中，新款 Max 型号的门塞从侧面爆裂。美国联邦航空局 (FAA) 规定，运营波音 737-900ER 机型的航空公司应目视检查中间出口门塞，以确保其正确固定。安全警报发布后，波音公司股价下跌近 3%。美国联邦航空局的通知并未让早期一代飞机停飞，而是建议检查门塞和螺栓。较新的 Max 9 飞机仍然在美国停飞。]]></description>
-      <guid>https://t.me/hn_summary/70389</guid>
-      <pubDate>Mon, 22 Jan 2024 20:42:49 GMT</pubDate>
+      <title>[媒体] 腾讯控股有限公司</title>
+      <link>https://t.me/hn_summary/70432</link>
+      <description><![CDATA[&#39;腾讯Riot游戏将裁员530人，约占总人数的11%工作人员
+腾讯控股有限公司旗下Riot Games将裁员约530名员工，约占其员工总数的11%。该决定是重组工作的一部分，旨在简化运营并专注于增长领域。 Riot Games以其热门游戏《英雄联盟》而闻名，过去曾因其职场文化和性别歧视指控而面临争议。鉴于该公司在游戏行业的成功和主导地位，这一裁员公告令人惊讶。这次重组将如何影响 Riot Games 及其员工的未来还有待观察。]]></description>
+      <guid>https://t.me/hn_summary/70432</guid>
+      <pubDate>Tue, 23 Jan 2024 00:16:03 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了作者在 Gre [...] 期间使用 Wallpen 立式打印机的经历。</title>
-      <link>https://t.me/hn_summary/70388</link>
-      <description><![CDATA[关于 Wallpen 立式打印机的诚实反馈
-本文讨论了作者在 Green Type 项目中使用 Wallpen 立式打印机的经验，该项目专注于可持续展览设计。作者强调了 Wallpen 打印机的几个缺点，包括运输挑战、墨水的可持续性问题、紫外线照射、操作刚性、颜色校准问题、软件问题和墨水管理困难。作者提出了应对这些挑战的潜在解决方案，例如开发环保墨水以及改进运输和防撞系统。文章还提到了围绕 Wallpen 打印机的营销主张的争议以及业主对其盈利能力的不同反馈。然而，这篇文章承认 Wallpen 打印机令人印象深刻的打印质量。]]></description>
-      <guid>https://t.me/hn_summary/70388</guid>
-      <pubDate>Mon, 22 Jan 2024 20:42:43 GMT</pubDate>
+      <title>[媒体]Riot Games 是《英雄联盟》和《Valorant》等热门游戏的开发公司，[...]</title>
+      <link>https://t.me/hn_summary/70431</link>
+      <description><![CDATA[Riot Games 裁员 11%
+Riot Games 是《英雄联盟》和《Valorant》等热门游戏的开发公司，该公司宣布将裁员约 11%，全球范围内约有 530 个职位。做出这一决定之际，Riot Games 意识到自己的业务过于分散，需要重新将精力集中在业务的核心方面。裁员将主要影响核心开发以外的团队。该公司正在向受裁员影响的人提供遣散费、现金奖金、持续的健康福利、职业支持和其他援助。 Riot Games 仍然致力于现有游戏，并计划进行调整以确保其可持续性。]]></description>
+      <guid>https://t.me/hn_summary/70431</guid>
+      <pubDate>Tue, 23 Jan 2024 00:06:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]新罕布什尔州总检察长办公室正在调查一起反投票机器人电话 [...]</title>
-      <link>https://t.me/hn_summary/70387</link>
-      <description><![CDATA[带有乔·拜登人工声音的机器人电话告诉民主党人不要投票
-新罕布什尔州总检察长办公室正在调查一宗反投票机器人电话，该电话使用了乔·拜登总统的人工声音。这些电话于周日发出，敦促民主党人不要在 1 月 23 日的总统初选中投票。总检察长办公室表示，自动电话中的声音似乎是人为生成的，并称其为扰乱选举和镇压选民的非法企图。可以在 NBC 新闻文章中听到的录音信息鼓励选民为 11 月的选举保留投票，并声称周二的投票将使共和党人能够连任唐纳德·特朗普。特朗普竞选团队否认参与了虚假的拜登通话。来电显示被欺骗，显示了新罕布什尔州一位著名民主党人的个人手机号码。拜登的竞选团队正在考虑采取进一步行动来应对机器人电话。尽管拜登本周没有正式参加新罕布什尔州的选票，但在民主党初选中有一个支持他的竞选活动。机器人电话被描述为“深度造假的虚假信息”，旨在伤害拜登、压制选票和破坏民主。总检察长办公室澄清，初选投票并不妨碍选民在 11 月大选中投票。]]></description>
-      <guid>https://t.me/hn_summary/70387</guid>
-      <pubDate>Mon, 22 Jan 2024 20:40:34 GMT</pubDate>
+      <title>[媒体]在最近的一次测试中，热门 YouTuber MrBeast 向埃隆·马斯克的平台 X 上传了一段视频 [...]</title>
+      <link>https://t.me/hn_summary/70430</link>
+      <description><![CDATA[为什么埃隆·马斯克需要 MrBeast
+在最近的一次测试中，受欢迎的 YouTuber MrBeast 向埃隆·马斯克的平台 X 上传了一段视频，看看他是否可以在该平台上赚钱。结果令人鼓舞，该视频的观看次数超过 1.5 亿，收入约为 26 万美元。这与 MrBeast 的 YouTube 视频相比毫不逊色，该视频在五天内的收入为 167,000 美元，观看次数为 9,900 万次。然而，MrBeast 在 X 上的成功也有一些需要注意的地方。作为一位知名创作者，他的优势是关注度越来越高，广告商专门为他的视频购买广告。还有报道称，X 人为地向观看者推荐了 MrBeast 的视频，而该平台的观看次数可能不是一个可靠的指标。尽管取得了令人鼓舞的结果，MrBeast 指出，X 可能无法资助他昂贵的视频，而且可能没有足够的可用广告让他继续在该平台上赚钱。埃隆·马斯克希望 MrBeast 继续在 X 上发布视频，以帮助其转变为 YouTube 的竞争对手，但如果即使是 YouTube 上最大的明星也不认为该平台值得，那么可能很难说服其他人。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/70430</guid>
+      <pubDate>Tue, 23 Jan 2024 00:05:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]参议院司法小组委员会正在就人工智能的使用举行听证会 [...]</title>
-      <link>https://t.me/hn_summary/70386</link>
-      <description><![CDATA[人工智能在刑事调查和起诉中的应用
-参议院司法小组委员会正在就人工智能（AI）在刑事调查和起诉中的使用举行听证会。听证会将于 2024 年 1 月 24 日星期三下午 02:30 在德克森参议院办公大楼 226 室举行。布克主席将主持听证会。该网站提供了一个链接，用于查看听证会的实时视频报道。]]></description>
-      <guid>https://t.me/hn_summary/70386</guid>
-      <pubDate>Mon, 22 Jan 2024 20:39:25 GMT</pubDate>
+      <title>[媒体]纽约州州长 Kathy Hochul 提出了一项新政策，以创造签证通道 [...]</title>
+      <link>https://t.me/hn_summary/70429</link>
+      <description><![CDATA[纽约州为国际企业家创造签证途径的政策提案
+纽约州州长凯西·霍赫尔提出了一项为国际企业家创造签证途径的新政策。该计划旨在解决国际学生毕业后离开美国、剥夺美国熟练劳动力的问题。该提案包括允许研究生和博士生获得大学资助的签证，这将使他们能够在不离开该州的情况下继续进行研究并将其商业化。此外，该计划还包括向研究型大学和学院提供有竞争力的资助，以留住国际企业家。虽然该计划缺乏细节，但它类似于在其他州实施的全球企业家驻地（GEIR）计划。这些计划允许大学赞助移民企业家，绕过年度 H-1B 签证上限。批评者对负责分配赠款的帝国大厦开发机构的有效性表示担忧，因为该机构过去曾因管理不善而受到批评。然而，支持者认为，为大学提供资助国际企业家的途径可以帮助解决该国高技能移民制度的挑战并促进经济增长。]]></description>
+      <guid>https://t.me/hn_summary/70429</guid>
+      <pubDate>Tue, 23 Jan 2024 00:01:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
