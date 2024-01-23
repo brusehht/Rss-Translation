@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 15:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 18:15:43 GMT</lastBuildDate>
     <item>
-      <title>学历情况如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dqctt/whats_degree_situation/</link>
-      <description><![CDATA[我知道雇主更喜欢有学位的人，虽然自学成才的人仍然可以在这个领域找到工作，但是在未来？ 只是我意识到我没有足够的精力来学习我的专业，我们将学习微积分和许多我作为网络开发人员不需要的东西。这需要5年时间和大量资金。更准确地说，当然不会是多余的，但我并没有为此那么热爱学习。我只是想研究我需要的东西而已。   由   提交/u/pivasik221  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dqctt/whats_degree_situation/</guid>
-      <pubDate>Tue, 23 Jan 2024 15:02:00 GMT</pubDate>
+      <title>网站错误求助！！无法编辑和保存博客文章</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dut2a/website_error_help_unable_to_edit_and_save_blog/</link>
+      <description><![CDATA[Wordpress 不允许我更新或保存博客文章编辑。任何帮助将非常感激，因为我在网上找不到任何有关此问题的信息。 查看日志时，我看到一个错误： {  “代码”：“rest_forbidden”， “消息”：“抱歉，您不能这样做。”， “数据”：{  “状态”：401 } }   由   提交/u/fiercemonkey202   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dut2a/website_error_help_unable_to_edit_and_save_blog/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>8GB内存够用吗？我认为这就是我遇到问题的原因。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dqbew/is_8gb_memory_enough_i_think_its_the_reason_for/</link>
-      <description><![CDATA[我目前有一台内存为 8GB 的​​ M1。我不确定内存是否真的是问题所在，但对于我所有的开发工具（docker 目前在 2-3GB 之间），我经常遇到笔记本电脑速度变慢的问题，并且在使用时我使用了大约 7GB 的内存一切都在运行，我必须重新启动才能释放一些空间。  如果我可以在当前机器上调整其他内容，我真的不想升级。  作为开发人员，您认为最低限度是多少？你认为内存是我的问题吗？   由   提交 /u/Unusualnamer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dqbew/is_8gb_memory_enough_i_think_its_the_reason_for/</guid>
-      <pubDate>Tue, 23 Jan 2024 15:00:31 GMT</pubDate>
+      <title>Youtube 如何让他们的视频在 iOS 上全屏显示？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19duni6/how_does_youtube_manage_to_make_their_video_full/</link>
+      <description><![CDATA[https://caniuse.com/?search=fullscreen  全屏 API 无法在移动设备上的 iOS 上运行，有人知道 Youtube 是如何让它在其网站上运行的吗？ 这真是令人兴奋全屏 API 可以在 iPad 上运行，但不能在 iPhone 上运行   由   提交 /u/BlocDeDirt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19duni6/how_does_youtube_manage_to_make_their_video_full/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>寻找有关自动完成实施的意见。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dq4fi/looking_for_opinions_on_an_autocomplete/</link>
-      <description><![CDATA[我工作的公司在其网站上有一个自动完成功能，可在搜索产品时使用。 这非常简单- 输入您的查询，例如。 guitar ，它将根据我们可用的内容返回一个简短的（&lt;10）建议列表，按类别分隔，例如： ``` 搜索：吉他 结果： -- 吉他乐器 -- 吉他零件 琴弦 吉他背带 -- 初学者吉他书籍  ``` 然而，看看实现，它只是在表上运行的一个简单的选择查询，看起来像这样：  g gu gui guidguide ...吉他吉他 f 吉他 fo 吉他 for  上图可能是倒过来的，即。包含丢失第一个字母、然后第二个字母等的产品列表。   一方面，我以前从未添加过自动完成功能，所以我并不太惊讶我从来没有见过这样的事情。虽然它看起来像是一个还过得去的，或者节省时间/在x小时内尽力而为的方法，但我不知道在如何实现方面是否有什么严重的问题？或者换句话说，与现代标准解决方案相比，效果如何？   由   提交 /u/knightspore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dq4fi/looking_for_opinions_on_an_autocomplete/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:51:23 GMT</pubDate>
+      <title>以下是一些改变我生产力的优秀软件工程习惯</title>
+      <link>https://www.reddit.com/r/webdev/comments/19duia0/here_are_some_great_software_engineering_habits/</link>
+      <description><![CDATA[   /u/Forsterps   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19duia0/here_are_some_great_software_engineering_habits/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>希望建立一个具有预订和电子商务功能的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dps5v/looking_to_build_a_website_with_reservations_and/</link>
-      <description><![CDATA[您好，我正在寻找一个简单的网站，人们可以在指定的时间内租用大约 7 辆车，所以据我了解我需要使用具有电子商务功能并可以连接到 API 的 CMS（以确保预订不会重叠）。 我尝试了 Joomla！并且绝对讨厌它。这对我来说非常不直观。 我一直在尝试 webflow，这看起来不错，直到我意识到它不允许我制作超过 2 个页面，也不允许导出代码，除非我付费订阅。&lt; /p&gt; 我已经有一个域名，我只是在寻找一种自己免费构建网站的方法，然后我将自己托管它。我研究了一些基本的 html/css 编码，如果有帮助的话 有什么建议吗？   由   提交/u/nickotino  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dps5v/looking_to_build_a_website_with_reservations_and/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:35:18 GMT</pubDate>
+      <title>我开源了一个使用 NestJs 构建的后端项目。请查看并提供反馈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dtofh/i_have_open_sourced_a_backend_project_built_using/</link>
+      <description><![CDATA[   /u/janishar  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dtofh/i_have_open_sourced_a_backend_project_built_using/</guid>
+      <pubDate>Tue, 23 Jan 2024 17:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>适用于任何移动应用程序的一个库</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dpra6/one_library_for_any_mobile_app/</link>
-      <description><![CDATA[我可以编写一次 UI 库并在任何移动平台（iOS/android/flutter/react native）中将其用作应用程序中的 ui 小部件吗？&lt; /p&gt; 如何做到这一点？   由   提交/u/took_took_kto_tam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dpra6/one_library_for_any_mobile_app/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:34:08 GMT</pubDate>
+      <title>为什么吹牛文档是必不可少的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dtf6r/why_a_brag_doc_is_indispensable/</link>
+      <description><![CDATA[大家好！ 当天的快速提示。您应该始终记录您在工作中取得的所有成就。这不仅使将来的简历写作变得更容易，而且......当进行年度审查时，它确实会产生影响。  在以前的一家公司，我们有一个年度审查流程，公司要求经理对自己写评论，然后员工对自己写评论进行比较。  我的经理最初提供了符合预期水平的标准反馈。但当我通过引用我的吹嘘文档中的亮点来证明我所产生的高水平影响力后，他说他没有意识到我已经完成了所有这些工作并对团队产生了这么大的影响。之后他推荐我参加促销活动。  简而言之，记录你所做的事情！   由   提交 /u/AZXCIV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dtf6r/why_a_brag_doc_is_indispensable/</guid>
+      <pubDate>Tue, 23 Jan 2024 17:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么文本只出现在导航中而不出现在其他地方？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dpmp6/why_does_text_appear_only_in_the_navigation_and/</link>
-      <description><![CDATA[https://codepen.io/Victor -Vaskov/pen/dyrzJOY 我很困惑，有一个例子 并且文本不可见。 它仅在写在 .header 下时出现，我不知道为什么？ 预计会有一些愚蠢的错误，但我就是不能&#39;找不到它。   由   提交 /u/ViSuo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dpmp6/why_does_text_appear_only_in_the_navigation_and/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:28:11 GMT</pubDate>
+      <title>有效地使用路线中的方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dtdrt/efficiently_using_methods_in_route/</link>
+      <description><![CDATA[     &lt; td&gt; 我正在重构我自己的财务仪表板，此时我已经制作了一个具有最多功能的 Trait - Expense- &amp; IncomeController 早先就有了。但是是否可以简化图像中的代码，以便我可以为每个方法使用 1 个路由线（而不是每个收入/支出行使用 1 个路由线）？  或者一般来说，如何简化此代码（使其更高效）   由   提交 /u/BartjuhhDutch   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dtdrt/efficiently_using_methods_in_route/</guid>
+      <pubDate>Tue, 23 Jan 2024 17:14:37 GMT</pubDate>
     </item>
     <item>
-      <title>寻求广播播放器的帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dpk80/seeking_help_for_a_radio_player/</link>
-      <description><![CDATA[嗨， 我是无线电协会的一员，我有一个项目将当前的无线电播放器更改为现有的仅用于在网站上播放电台的音乐。 我对编码很陌生；我的背景是网络。我花了几个小时试图弄清楚如何更新此播放器上的图像、艺术家和歌曲标题。到目前为止，我所做的就是更改收听广播的来源。 我已从 https://codepen.io/hafizmp/pen/JjLQYqm 并尝试对其进行调整以执行我之前提到的操作，但这对我来说是不可能的。 要修改的文件是一个 JavaScript 文件。我指定广播在 Docker 中使用 Azuracast，并且我们托管其他广播电台 有人可以帮助我吗？ 谢谢   由   提交/u/Revamp_Pakrati   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dpk80/seeking_help_for_a_radio_player/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:24:47 GMT</pubDate>
+      <title>使用 data-uri base64 和 srcset 2x 的 <img> 标签</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dt5ug/img_tag_using_datauri_base64_and_srcset_2x/</link>
+      <description><![CDATA[我尝试用谷歌搜索这个，但没有找到任何具体的解释。我目前在首屏有一个 SVG 图像，我用  来呈现它。使用 base64 内联 data-uri 方法进行标记。在我尝试削减网页上的每一字节 KB 的过程中，我想将此 SVG 转换为无损 webp 并使用 &lt;img srcset=“image.webp 2x”/&gt; 提供服务，但为了保存连接，我仍然想要使用内联 data-uri 方法来提供它。问题在于，如果我必须为 1x 和 src 提供内联 base64 webp 后备，那么我节省的数据就会消失。 如果我不提供 src 属性而只提供  ，会发生什么情况？ img srcset=“数据：图像/webp...2x” &gt;&gt; ？对于不是 2x 的显示器，我可以提供 2x 图像并使用浏览器缩放。显然它不如 svg，但仍然节省了数据。   由   提交 /u/beefspring   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dt5ug/img_tag_using_datauri_base64_and_srcset_2x/</guid>
+      <pubDate>Tue, 23 Jan 2024 17:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>在将密码发送到登录请求的有效负载中之前，我们是否需要对密码进行加密？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dpi8k/do_we_need_to_encrypt_the_password_before_sending/</link>
-      <description><![CDATA[我们有一个使用 ReactJs 制作的客户端渲染的单页面应用程序 我们有 HTTPS 我的承诺端点是这样的 `POST /login` 请求正文为 `{&quot;username&quot;:&quot;USERNAME_HERE&quot;, &quot;password&quot; :&quot;PASSWORD_HERE}` 我可以在我的Golang微服务中使用公钥来加密用户的密码，并且可以使用私钥来解密 是否有必要加密有效负载还是通过 HTTPS 已经安全？   由   提交 /u/cow_moma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dpi8k/do_we_need_to_encrypt_the_password_before_sending/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:22:03 GMT</pubDate>
+      <title>有人使用 Fly.io 的 LiteFS 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dswyd/anyone_using_flyios_litefs/</link>
+      <description><![CDATA[我目前在我的博客中使用 Neon 托管 Postgres，但冷启动快要了我的命。我遇到了超过 6 秒的冷启动！我可以升级到付费计划以允许我的数据库服务器连续运行，但我正在考虑 Neon 的替代方案。 为什么我的博客使用数据库而不是 SSG？嗯，我的博客上有需要数据库的功能。例如，我有用户登录、反应和评论。我还想随着时间的推移添加更多功能，拥有一个数据库真是太好了。 我认为自己是一名全栈 Web 开发人员，但我对管理数据库没什么兴趣。这是我从来没有真正关心过的一件事。 我正在使用 Fly.io 来托管我的网站，我认为这是一项很棒的服务。在研究 Neon 的替代品时，我发现了 Fly.io 的 LiteFS Cloud 功能，它本质上是 SQLite 的分布式文件系统。如果您有兴趣，这里有一些来自 Fly.io 的博客文章  https://fly.io/blog/introducing-litefs/ https://fly.io/blog/litefs-cloud/  我特别同意这种观点  每个人都使用托管服务，因为让数据库服务器保持正常运行很烦人。  我读得越多，我就越认为它是有道理的。在边缘拥有一个 Sidecar SQLite 数据库听起来非常棒。特别是对于像我的博客这样阅读量很大的东西。人们对 LiteFS 有何看法？有人有使用 LiteFS 的经验吗？   由   提交/u/http203  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dswyd/anyone_using_flyios_litefs/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>页面每天获得约 80 次点击，然后一夜之间就降到了 0。现在已经三个月没有印象了。这篇文章是我一年多前自己写的，内容原创，1000多字。有任何想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dpi83/page_getting_80_clicks_per_day_then_went_to_0/</link>
-      <description><![CDATA[   /u/JakeJS   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dpi83/page_getting_80_clicks_per_day_then_went_to_0/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:22:02 GMT</pubDate>
+      <title>自动创建已售商品档案的在线商店</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dsgah/online_shop_that_automatically_creates_archive_of/</link>
+      <description><![CDATA[您好！我正在为我姐姐的艺术业务创建一个网站。她制作陶器和粘土，她的所有作品都是独一无二的——她不像大多数陶艺家那样坚持一种风格。  所以，我希望在她的网站上有类似于 Ebay 的功能，您可以在其中搜索任何内容或查看类别，然后选择“已售商品”。并查看该特定类别中已售出的所有商品。  我想要一家能够自动创建这些“已售出”商品的商店。商品售出后的列表。  我还没有决定网站托管。谁能帮我选择一个好的主机并让我知道这是否可行？ 提前致谢！   由   提交 /u/Oddpip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dsgah/online_shop_that_automatically_creates_archive_of/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:33:25 GMT</pubDate>
     </item>
     <item>
-      <title>Git 查询语言</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dp561/git_query_language/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dp561/git_query_language/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:04:33 GMT</pubDate>
+      <title>数据库存储在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ds75b/where_is_the_database_stored/</link>
+      <description><![CDATA[新手问题：我已经启动了一些网站，使用名为 render 的免费托管服务，该服务直接使用我的 github 代码。其中一些网站有数据库。数据库存储在哪里？在他们的存储中，还是在我的github上是一样的？  更好地解释一下，如果有新用户注册，我的 github 上的数据库会更新吗？或者只是他们一端的数据库？  谢谢！   由   提交 /u/GigantikMicroPenis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ds75b/where_is_the_database_stored/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
     </item>
     <item>
-      <title>如何实现在后台播放的 MP3 文件的无缝循环？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19doo60/how_to_implement_gapless_looping_of_an_mp3_file/</link>
-      <description><![CDATA[TL;DR：为开发人员提供了适合其网站的完美循环 MP3 文件，但他们很难正确循环它. 嗨，我是一名声音设计师，目前正在开发一个项目，客户想要一个无缝循环的背景音轨。我提供了完美循环的文件，没有任何点击或间隙，但他们很难在他们的网站上正确循环它。 由于我们正在处理 MP3 文件，我怀疑这是因为“MP3”间隙&#39;，在 MP3 文件的开头和结尾添加的填充。 我知道事实上可以无缝循环 MP3 文件，因为我已经在另一个客户端中成功完成了这一点过去。然而，我缺乏技术知识，他们处理了所有的编码工作。  根据我迄今为止在网上阅读的内容，LAME 编解码器（我使用的）将其添加到文件的元数据中的填充量写入，因此解码器可以解释该间隙（如果它支持）。我还测试了用 foobar2000 创建的循环，它循环完美，没有点击或弹出声，没有间隙。 那么如何在网站上实现这一目标呢？任何帮助将不胜感激！ PS：我不期望有一个完全详细的分步指南，只要一些我可以参考给客户的指示就很好了，这样他们就可以调查更多他们自己。当然，如果其他方法都失败，另一种选择是使用不同的文件格式，例如 OGG。但现在他们想坚持使用 MP3。   由   提交/u/-TheFatPirate-  /u/-TheFatPirate-  reddit.com/r/webdev/comments/19doo60/how_to_implement_gapless_looping_of_an_mp3_file/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19doo60/how_to_implement_gapless_looping_of_an_mp3_file/</guid>
-      <pubDate>Tue, 23 Jan 2024 13:41:31 GMT</pubDate>
+      <title>API设计问题：根据用户角色处理对象可见性</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ds0bl/api_design_question_handling_object_visibility/</link>
+      <description><![CDATA[嘿，我正在为学校开发一个 API，并且有一个设计问题，希望您能提供意见。 我的 API 中有某些端点，其中对象具有“启用”标志。我希望普通用户看不到带有此标志的对象，但管理员应该有权访问它们。 以下是我的两种方法：  相同的端点，不同的权限：   对普通用户和管理员使用单一端点。 检查用户角色（管理员或普通用户）并处理对象相应的可见性。 普通用户不会看到带有“启用”标志的对象。   单独的端点：   为普通用户和管理员创建单独的端点。 管理员端点包含带有“启用”标志的对象，而普通用户端点则不包含。 &gt;  您认为最好的方法是什么？为什么？谢谢！   由   提交 /u/jungalmon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ds0bl/api_design_question_handling_object_visibility/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:14:58 GMT</pubDate>
     </item>
     <item>
-      <title>有关如何创建成熟网站的完整路线图</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dob9a/complete_roadmap_on_how_to_create_a_fullfledged/</link>
-      <description><![CDATA[嘿，大家我都是新手，我需要创建一个动漫流媒体网站作为一个大学项目，到目前为止，我在前端方面做得非常好- end ive 还创建了一个 AI 聊天模型，可以为用户提供推荐。但我需要后端的帮助，事情是我从来不明白后端应该如何运作，我应该做什么，我将如何根据他们的帐户验证用户，我如何获取用户数据来向他们显示最近观看的部分等等 感谢您的帮助，如果我无法很好地解释我的问题，我很抱歉，但如果您读到这里，只需一个简单的指南即可提供帮助，我想感谢您的时间。 谢谢感谢您的努力。   由   提交 /u/ameyyyyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dob9a/complete_roadmap_on_how_to_create_a_fullfledged/</guid>
-      <pubDate>Tue, 23 Jan 2024 13:22:49 GMT</pubDate>
+      <title>网站已上线但未出现在 Google 搜索结果中 - 需要帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/19drrmw/website_live_but_not_appearing_in_google_search/</link>
+      <description><![CDATA[我最近使用 HTML、CSS 和 JS 构建并启动了我的第一个网站。这是一个非常简单的网站。我已将其托管在 Netlify 上并连接了我从 Porkbun 购买的域名。该网站已上线并可通过域访问，但有一个问题 - 当我在 Google 上搜索该网站时，它没有显示出来。 似乎没有任何其他页面具有相同的内容奇怪的是，尽管出现了与我的网站关联的 Instagram 页面，但在搜索结果中却找不到该网站本身。 我是网络开发和托管方面的新手，并且是一名有点不知道如何解决这个问题。我试图在谷歌上找到更多信息，但我仍然无法弄清楚。有其他人遇到过类似的问题吗？您能分享我可能缺少的任何见解或步骤吗？如何提高我的网站在 Google 上的曝光度？ 任何帮助或建议，我们将不胜感激！提前致谢。   由   提交 /u/lRandomGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19drrmw/website_live_but_not_appearing_in_google_search/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>您将如何重塑网络？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dnrix/how_would_you_reinvent_the_web/</link>
-      <description><![CDATA[Webdev 受到各种问题、Javascript 及其生态系统、CSS 以及必须实现许多不同功能的巨大复杂浏览器的困扰。还有后端-前端交互，50 种不同的方式来传输数据和 API。 因此，如果您现在带着今天的知识回到 1990 年，您将如何从头开始创建网络？  我认为从一开始就实现一个虚拟机（WASM）是一个好主意，使用具有像样的标准库和良好的包系统的强类型语言也会很好。但我不知道如何解决CSS。也许使用像 Flutter 这样的列/行/堆栈系统。 ​ 你觉得怎么样？    由   提交 /u/Krystexx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dnrix/how_would_you_reinvent_the_web/</guid>
-      <pubDate>Tue, 23 Jan 2024 12:53:43 GMT</pubDate>
+      <title>插件无法在真实网站上运行，但在临时网站上运行没有问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19drpzk/plugin_does_not_work_on_real_site_works_without/</link>
+      <description><![CDATA[PayOp 支付处理插件，突然停止在我的真实网站上工作，对我的实际网站进行了 0 次更改，禁用了除 PayOp 之外的所有其他插件和 Woocommerce，它仍然无法工作， 我认为问题可能出在插件本身或 Woocommerce 插件内，我决定创建一个暂存站点并在那里进行测试，然后激活我的所有插件临时站点，PayOp 插件工作没有问题， 我不知道怎么会发生这种情况？真实网站和临时网站之间存在 0 差异，每个设置都相同，Wordpress 支持和 PayOp 支持都无法解决问题   由   提交/u/722-47  /u/722-47  reddit.com/r/webdev/comments/19drpzk/plugin_does_not_work_on_real_site_works_without/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19drpzk/plugin_does_not_work_on_real_site_works_without/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>无法验证 Facebook 中的组织</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dno87/cant_validate_org_in_facebook/</link>
-      <description><![CDATA[我正在构建一个应用程序并注册了一个 LLC。在 Meta 中验证我的组织的按钮呈灰色。如何验证我的组织以便将 Facebook 登录添加到我的应用程序？   由   提交 /u/DrejmeisterDrej   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dno87/cant_validate_org_in_facebook/</guid>
-      <pubDate>Tue, 23 Jan 2024 12:48:39 GMT</pubDate>
+      <title>反应“basename”解构问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19drot0/react_basename_destructure_problem/</link>
+      <description><![CDATA[       ​ 我只想从引导程序制作一个导航栏，每次我都会遇到这个问题，这个基本名称错误是什么，请尽可能提供帮助   由   提交 /u/Bruhhhhh-_-   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19drot0/react_basename_destructure_problem/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>我需要帮助了解如何在我的网站中实施报价工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dnbsb/i_need_help_understanding_how_i_can_implement_a/</link>
-      <description><![CDATA[我不是 Web 开发人员，也不编码，我只是在寻找一些有关如何将其实现到我的网站中的信息。我在英国拥有一家锅炉安装公司，我想在我的网站中实现的一件事是一个报价工具，该工具将使用条件逻辑来提供最终报价。例如。如果客户希望将新锅炉安装在不同的位置，这会对最终报价产生影响。 我的网站目前是基于 wordpress 构建的，我不知道如何创建此报价工具，我也不知道如何添加新页面并开始创建它。这是用 javascript 创建的东西，我必须花钱请人为我做，我是否在 WordPress 中使用类似重力形式的东西？老实说，我很茫然，任何帮助将不胜感激。如果这不在正确的 subreddit 中，我们深表歉意。   由   提交 /u/Nerfedgenji   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dnbsb/i_need_help_understanding_how_i_can_implement_a/</guid>
-      <pubDate>Tue, 23 Jan 2024 12:28:53 GMT</pubDate>
+      <title>您如何知道自己何时准备好参加高级全栈课程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19drd31/how_do_you_know_when_youre_ready_for_senior_full/</link>
+      <description><![CDATA[我想将工作从 IT 转为 Web 开发，并且正在寻找见解。我在 IT 领域工作了大约十年，其中过去三年担任 IT 系统工程师，深深沉浸在 AWS 中。由于我对 Web 开发和编程的兴趣，我的角色已经超出了典型的 IT 工作范围，涉及大量自动化、后端工作以及使用 Powershell 和 Python 进行编程。 我的主要工作项目之一涉及开发后端流程。这包括将现有的前端应用程序与 Python 设计的后端集成。它管理资源计划，与 DynamoDB 交互，并利用 lambda 函数根据特定时间线进行标记调整和资源删除，或关闭它们。 大约 5 年前，我对 Web 开发产生了兴趣。它从 React 训练营开始，从那时起，我就迷上了一般的编码，并且特别喜欢 Web 开发。 我一直在致力于一个使用 Lambda 函数开发 API 的个人项目、DynamoDB 和 API 网关。我还在开发前端，它将用于存储食谱，显示食谱链接的视频。 Tiktok 风格的应用程序，但用于食谱视频。 根据我目前的经验，这是我的大问题：  以我的背景，你认为我是适合高级全栈职位吗？如果不是，我应该达到什么水平？ 我如何增强我的作品集以最好地反映我的技能？我的个人项目是否足以成为我的“主食”？展示我技能的项目片段？  ​ 欢迎任何建议、提示或现实检查！   由   提交/u/free_thinker1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19drd31/how_do_you_know_when_youre_ready_for_senior_full/</guid>
+      <pubDate>Tue, 23 Jan 2024 15:47:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
