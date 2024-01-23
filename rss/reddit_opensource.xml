@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Jan 2024 12:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 15:13:21 GMT</lastBuildDate>
+    <item>
+      <title>来我的音乐知识共享社区享受和公民/帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/19dorqr/come_enjoy_and_citiquehelp_in_my_music_knowledge/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/kosakgroove   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19dorqr/come_enjoy_and_citiquehelp_in_my_music_knowledge/</guid>
+      <pubDate>Tue, 23 Jan 2024 13:46:32 GMT</pubDate>
+    </item>
     <item>
       <title>寻找值得信赖的 Android 自定义启动器</title>
       <link>https://www.reddit.com/r/opensource/comments/19dmr7f/finding_a_trustable_android_custom_launcher/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>帮助我更换所有小型企业软件。看看我们能有多接近！</title>
       <link>https://www.reddit.com/r/opensource/comments/19dlax5/help_me_replace_all_my_small_business_software/</link>
-      <description><![CDATA[唯一的规定是云中的数据必须可以由不同的计算机访问。对于此挑战，假设我无法使用 Odoo。 这是我尝试替换的软件：  电子邮件客户端 会计 CRM 电子签名 调查与分析表单构建器 电子邮件营销 具有所见即所得的网站构建器 广告设计器/布局 广告照片编辑器 广告视频编辑器 广告和播客音频编辑器 Office 套件  我不太了解我的选择是什么。我真的很想深入那些喜欢想象各种开源设置的人的头脑。  谢谢。我真的很期待看到 2024 年最好的选择是什么！   由   提交 /u/snowglowshow   [链接] [评论]]]></description>
+      <description><![CDATA[唯一的规定是云中的数据必须可以由不同的计算机访问。对于此挑战，假设我无法使用 Odoo。 这是我尝试替换的软件：  电子邮件客户端 会计 CRM 电子签名 调查与分析表单构建器 电子邮件营销 具有所见即所得的网站构建器 广告设计器/布局 广告照片编辑器 广告视频编辑器 广告和播客音频编辑器 Office 套件  我不太清楚我的选择是什么。我真的很想深入那些喜欢想象各种开源设置的人的头脑。  谢谢。我真的很期待看到 2024 年最好的选择是什么！   由   提交 /u/snowglowshow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19dlax5/help_me_replace_all_my_small_business_software/</guid>
       <pubDate>Tue, 23 Jan 2024 10:18:52 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>个人生活追踪器 (PLT) - 可在世界任何地点随时随地访问（通过互联网）</title>
       <link>https://www.reddit.com/r/opensource/comments/19cpb9d/personal_life_tracker_plt_accessible_anywhere/</link>
-      <description><![CDATA[嘿伙计们，我正在集思广益，开发一款名为“个人生活跟踪器”(PLT) 的开源 Web 应用程序，以帮助抛弃所有这些单独的跟踪器并在一个中组织生活地方。它将具有用于跟踪工作应用程序、财务、食品评论、生日等的模块，所有这些模块都具有人工智能驱动的洞察力，例如简历工作匹配、预算预测和食品情绪分析。另外，它是自托管的，因此数据保持私密性。我正在考虑使用 Flask、CoreJS、MongoDB 和 AWS S3，但我愿意接受建议！那么，有两个问题： - 您喜欢可定制的、人工智能驱动的生命追踪器的想法吗？- 您会推荐什么技术堆栈？ 如果您愿意，请告诉我有兴趣帮助构建这个，以及您希望看到哪些功能！   由   提交 /u/techievin   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我正在集思广益，开发一款名为“个人生活跟踪器”(PLT) 的开源 Web 应用程序，以帮助抛弃所有这些单独的跟踪器并在一个中组织生活地方。它将拥有用于跟踪工作应用程序、财务、食品评论、生日等的模块，所有这些模块都具有人工智能驱动的洞察力，例如简历工作匹配、预算预测和食品情绪分析。另外，它是自托管的，因此数据保持私密性。我正在考虑使用 Flask、CoreJS、MongoDB 和 AWS S3，但我愿意接受建议！那么，有两个问题： - 您喜欢可定制的、人工智能驱动的生命追踪器的想法吗？- 您会推荐什么技术堆栈？ 如果您愿意，请告诉我有兴趣帮助构建这个，以及您希望看到哪些功能！   由   提交 /u/techievin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19cpb9d/personal_life_tracker_plt_accessible_anywhere/</guid>
       <pubDate>Mon, 22 Jan 2024 06:29:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨， 您对收集一些使用统计数据的开源工具有何看法？如果某些新工具在与社区沟通和共享的情况下以选择退出的方式收集统计数据，您会同意吗？   由   提交/u/heraldev  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19cbzpz/what_do_you_think_about_gathering/</guid>
       <pubDate>Sun, 21 Jan 2024 19:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPS 跟踪软件和设备</title>
-      <link>https://www.reddit.com/r/opensource/comments/19caswu/gps_tracking_software_devices/</link>
-      <description><![CDATA[我一直在为我的货车寻找一个 GPS 跟踪器。  我能找到的所有在线服务都使用基于订阅的服务，这很公平，但如果可以的话我想避免它。 经过一番谷歌搜索后，我发现 traccar 看起来像很好，似乎涵盖了很多设备。这些设备按协议列出，似乎有很多。 以前有人使用过这个软件或类似软件吗？您推荐什么设备？另外，如果有人知道首选哪种协议，那也会有很大帮助   由   提交 /u/TheLoadedRogue   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19caswu/gps_tracking_software_devices/</guid>
-      <pubDate>Sun, 21 Jan 2024 19:01:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
