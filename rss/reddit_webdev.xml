@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 03:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 06:16:27 GMT</lastBuildDate>
+    <item>
+      <title>响应 reCaptcha v2</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dgjql/response_recaptcha_v2/</link>
+      <description><![CDATA[你好，我是初学者））））我需要从 Joomla 网站上的 google reCaptcha v2 接收表单此自定义表单的响应。我明白，我应该检查：如果验证码的答案为真 - 这意味着该用户不是机器人，您可以发送此邮件。如何将 request.php 中的代码集成到 DSFormSend.php？ 或者这个 DSFormSend.php 位置不对？ replit.com 上的代码   由   提交 /u/zarubaxa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dgjql/response_recaptcha_v2/</guid>
+      <pubDate>Tue, 23 Jan 2024 05:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>填补右侧空白的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dgd7z/what_are_the_best_ways_i_can_fill_up_this_empty/</link>
+      <description><![CDATA[      我正在使用 TradingView 中的小部件构建一个股票市场可视化网站 &lt; p&gt;有什么想法可以添加什么来填充右侧的空白吗？ ​ https://preview.redd.it/5s49sjxde4ec1.png?width=1900&amp;format=png&amp;auto=webp&amp; ;s= 661d59f0301181d2e873fb1f4d206d1287be3472   由   提交 /u/Zorqo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dgd7z/what_are_the_best_ways_i_can_fill_up_this_empty/</guid>
+      <pubDate>Tue, 23 Jan 2024 04:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>减少对服务器的请求数量是否可以提高网站速度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dfglz/would_reducing_the_number_of_requests_to_server/</link>
+      <description><![CDATA[我知道会，但就影响而言，它有意义吗？  假设 chrome 一次只能请求和处理 6 个请求，而我的网站有 15 个请求，那么额外的 9 个请求是否会导致速度显着减慢？  如果是这样，通过消除这个瓶颈，减少请求是否会导致更快的站点？   由   提交 /u/DeepKaizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dfglz/would_reducing_the_number_of_requests_to_server/</guid>
+      <pubDate>Tue, 23 Jan 2024 03:59:31 GMT</pubDate>
+    </item>
     <item>
       <title>作为一名 Web 开发者，2024 年我还应该关注什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/19ddsk7/what_else_should_i_focus_on_as_a_web_developer_in/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[在本次演讲中，我分享了一些关于如何安全地改进 Web 浏览器中的拖放 API 以使工程师更容易使用的想法，并创造更令人愉悦的最终用户体验。 📺 我们如何让拖放功能更适合网络 我很想知道人们对我的想法有何看法。 👋 我是 Alex，我花了相当多的时间进行拖放工作问题空间。我是 react-beautiful-dnd 和即将推出的 实用拖放    ;由   提交 /u/alexreardon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19d7qlc/talk_how_we_can_make_drag_and_drop_better_for_the/</guid>
       <pubDate>Mon, 22 Jan 2024 22:01:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些托管服务可以为设置提供良好的支持？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d7iun/any_hosting_services_that_provide_good_support/</link>
-      <description><![CDATA[我有一个使用 REACT 构建的 vite 网站，它还有一个服务器端 js 文件以便运行 nodemailer。 &lt; p&gt;任何人都可以推荐一个具有良好设置支持的托管服务吗？这是我第一次托管具有前端和服务器端代码的网站。 谢谢！ &lt; !-- SC_ON --&gt;  由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d7iun/any_hosting_services_that_provide_good_support/</guid>
-      <pubDate>Mon, 22 Jan 2024 21:52:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个 linter 可以用来警告 HTML 中特定类的使用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d6ivq/is_there_a_linter_i_can_use_to_warn_on_usage_of/</link>
-      <description><![CDATA[您好！  我希望找到一个可以配置为警告 HTML 中特定类的使用的 linter。  例如：linter 可以配置为警告不应使用“some-deprecated-class”。  内容  显然，无论我最终使用什么工具，其作用都远远不止于此。但你知道有一个工具可以做到这一点吗？  谢谢！   由   提交/u/tom-on-the-internet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d6ivq/is_there_a_linter_i_can_use_to_warn_on_usage_of/</guid>
-      <pubDate>Mon, 22 Jan 2024 21:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可能不需要 `eslint-config-prettier` 或 `eslint-plugin-prettier` |金博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/19d5zwf/you_probably_dont_need_eslintconfigprettier_or/</link>
-      <description><![CDATA[       由   提交 /u/HurpaDurpDeeDurp   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19d5zwf/you_probably_dont_need_eslintconfigprettier_or/</guid>
-      <pubDate>Mon, 22 Jan 2024 20:51:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
