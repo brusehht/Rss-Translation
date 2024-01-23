@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 18:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 21:11:53 GMT</lastBuildDate>
     <item>
-      <title>网站错误求助！！无法编辑和保存博客文章</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dut2a/website_error_help_unable_to_edit_and_save_blog/</link>
-      <description><![CDATA[Wordpress 不允许我更新或保存博客文章编辑。任何帮助将非常感激，因为我在网上找不到任何有关此问题的信息。 查看日志时，我看到一个错误： {  “代码”：“rest_forbidden”， “消息”：“抱歉，您不能这样做。”， “数据”：{  “状态”：401 } }   由   提交/u/fiercemonkey202   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dut2a/website_error_help_unable_to_edit_and_save_blog/</guid>
-      <pubDate>Tue, 23 Jan 2024 18:13:34 GMT</pubDate>
+      <title>HTML 的三个十年</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dyvx9/three_decades_of_html/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dyvx9/three_decades_of_html/</guid>
+      <pubDate>Tue, 23 Jan 2024 21:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>Youtube 如何让他们的视频在 iOS 上全屏显示？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19duni6/how_does_youtube_manage_to_make_their_video_full/</link>
-      <description><![CDATA[https://caniuse.com/?search=fullscreen  全屏 API 无法在移动设备上的 iOS 上运行，有人知道 Youtube 是如何让它在其网站上运行的吗？ 这真是令人兴奋全屏 API 可以在 iPad 上运行，但不能在 iPhone 上运行   由   提交 /u/BlocDeDirt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19duni6/how_does_youtube_manage_to_make_their_video_full/</guid>
-      <pubDate>Tue, 23 Jan 2024 18:07:19 GMT</pubDate>
+      <title>对我的数据库的意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dyv12/opinions_on_my_database/</link>
+      <description><![CDATA[      好吧，这是一篇奇怪的帖子，如果断章取义，请随时将其删除。  https://elevatordatabase.com/ 我为加利福尼亚州创建了一个电梯数据库网站（非正式），因为我注意到其他州在线发布了这些记录，但加利福尼亚州没有！我接受了编码挑战，并创建了一个 SQL 数据库和一个用 C# 编码的关联网页/服务器！我花了 60 多个小时开发这个网站，每次向州政府请求数据时，都会花费 50 美元（目前数据每 6 个月更新一次）。 我运行这个网站是亏本的，因为我对电梯之类的运输机械有一个爱好（我知道这很奇怪，但我从小就喜欢它）！我也真的希望这些数据能够向公众公开，因为它显示了到底有多少过期许可证！该州确实缺乏电梯检查员，而且您踏上过去一个月没有检查过的电梯的可能性非常高。 我希望这也是一个巧妙的方法人们寻找历史悠久的电梯，因为许多在加利福尼亚州正在消失！又是一个非常奇怪的网站，但我想挑战自己，100% 自己创建一个数据库和网站！ 也希望得到您的反馈！   由   提交 /u/WoodenAlternative212   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dyv12/opinions_on_my_database/</guid>
+      <pubDate>Tue, 23 Jan 2024 21:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>以下是一些改变我生产力的优秀软件工程习惯</title>
-      <link>https://www.reddit.com/r/webdev/comments/19duia0/here_are_some_great_software_engineering_habits/</link>
-      <description><![CDATA[   /u/Forsterps   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19duia0/here_are_some_great_software_engineering_habits/</guid>
-      <pubDate>Tue, 23 Jan 2024 18:01:39 GMT</pubDate>
+      <title>Google Pagespeed 包装器还是 GUI？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dy77g/google_pagespeed_wrappers_or_guis/</link>
+      <description><![CDATA[嘿 Reddit， 我最近深入研究了 Google Pagespeed API，我很好奇是否有人认识某个用户- 友好的包装器或 GUI，允许您输入 API 密钥并直接从您自己的界面/页面运行测试。 我已经四处搜索，但我遇到的只是 python 库。在冒险重新发明轮子之前，我想和你们确认一下。  任何建议或见解将不胜感激！   由   提交 /u/thankyoufatmember   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dy77g/google_pagespeed_wrappers_or_guis/</guid>
+      <pubDate>Tue, 23 Jan 2024 20:33:01 GMT</pubDate>
     </item>
     <item>
-      <title>我开源了一个使用 NestJs 构建的后端项目。请查看并提供反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dtofh/i_have_open_sourced_a_backend_project_built_using/</link>
-      <description><![CDATA[   /u/janishar  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dtofh/i_have_open_sourced_a_backend_project_built_using/</guid>
-      <pubDate>Tue, 23 Jan 2024 17:28:07 GMT</pubDate>
+      <title>计划为教授 ASL（美国手语）的聊天机器人制作一个 Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dy2bc/planning_to_make_a_web_app_for_a_chatbot_that/</link>
+      <description><![CDATA[到目前为止，我计划集成计算机视觉，以便具有需要手语输入（仅限字母和有限短语）的功能），聊天机器人可以解释它并做出响应。当然，文本和语音输入也是允许的。另外，我计划让聊天机器人能够提供手语响应。  任何人都可以帮助我在这个网络应用程序中添加哪些功能，重点是它就像某人的个人 ASL 导师一样吗？我无法想象整个事情会是什么样子。  我怎样才能让它看起来像导师或老师？   由   提交 /u/Funny_Shoe1772   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dy2bc/planning_to_make_a_web_app_for_a_chatbot_that/</guid>
+      <pubDate>Tue, 23 Jan 2024 20:27:31 GMT</pubDate>
     </item>
     <item>
-      <title>为什么吹牛文档是必不可少的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dtf6r/why_a_brag_doc_is_indispensable/</link>
-      <description><![CDATA[大家好！ 当天的快速提示。您应该始终记录您在工作中取得的所有成就。这不仅使将来的简历写作变得更容易，而且......当进行年度审查时，它确实会产生影响。  在以前的一家公司，我们有一个年度审查流程，公司要求经理对自己写评论，然后员工对自己写评论进行比较。  我的经理最初提供了符合预期水平的标准反馈。但当我通过引用我的吹嘘文档中的亮点来证明我所产生的高水平影响力后，他说他没有意识到我已经完成了所有这些工作并对团队产生了这么大的影响。之后他推荐我参加促销活动。  简而言之，记录你所做的事情！   由   提交 /u/AZXCIV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dtf6r/why_a_brag_doc_is_indispensable/</guid>
-      <pubDate>Tue, 23 Jan 2024 17:17:00 GMT</pubDate>
+      <title>有人在移动设备上加载文本主题时遇到问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dxtog/has_anyone_got_issue_loading_texts_theme_on/</link>
+      <description><![CDATA[错误：在移动设备上首次加载或一段时间后首次加载时没有文本显示 https://molly.com（我的网站，有问题） 或 https://area-theme-ice-cream.myshopify.com（主题网站） 显示复制品的视频该错误的详细信息：https://photos.google.com/photo/AF1QipNXkXjN2_uezCOowxx0e9zuzTHyN4qfGEP-Dhdg &lt; p&gt;我个人在使用这个主题时遇到了这个错误，这是官方的 Shopify 主题，但是开发人员无法重现该错误。 我很乐意请社区通过检查来帮助我解决问题从你的那一端开始。如果您发现此错误，能否告诉我您的移动设备类型、浏览器类型、国家/地区和互联网连接类型？ 非常感谢！ ​  P/S：如果可能，请告诉我如何修复它   由   提交 /u/VietNguyen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dxtog/has_anyone_got_issue_loading_texts_theme_on/</guid>
+      <pubDate>Tue, 23 Jan 2024 20:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>有效地使用路线中的方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dtdrt/efficiently_using_methods_in_route/</link>
-      <description><![CDATA[     &lt; td&gt; 我正在重构我自己的财务仪表板，此时我已经制作了一个具有最多功能的 Trait - Expense- &amp; IncomeController 早先就有了。但是是否可以简化图像中的代码，以便我可以为每个方法使用 1 个路由线（而不是每个收入/支出行使用 1 个路由线）？  或者一般来说，如何简化此代码（使其更高效）   由   提交 /u/BartjuhhDutch   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dtdrt/efficiently_using_methods_in_route/</guid>
-      <pubDate>Tue, 23 Jan 2024 17:14:37 GMT</pubDate>
+      <title>WordPress 替代方案，为技术含量较低的编辑人员提供简单的仪表板</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dxcc7/wordpress_alternatives_with_a_simple_dashboard/</link>
+      <description><![CDATA[我有一个工作即将开始规划阶段，我需要一个具有超级简单管理仪表板的 WordPress 替代方案。客户过去曾使用过 WordPress，但对其并不满意。  我通常会选择 WordPress、Drupal 或 Joomla，但我觉得 drupal 或 joomla 的后端不如 WP 仪表板用户友好，我把所有东西都去掉了除了必需品之外。  还有其他 WordPress 替代品吗？比如超级愚蠢简单的仪表板？我本来打算让他们成为一个包含 HTML、CSS 和 JavaScript 的静态网站，但他们希望 CMS 功能进行简单的更改。接受任何建议或建议，但请记住降低预算。 ​   由   提交/u/donutworx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dxcc7/wordpress_alternatives_with_a_simple_dashboard/</guid>
+      <pubDate>Tue, 23 Jan 2024 19:57:13 GMT</pubDate>
     </item>
     <item>
-      <title>使用 data-uri base64 和 srcset 2x 的 <img> 标签</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dt5ug/img_tag_using_datauri_base64_and_srcset_2x/</link>
-      <description><![CDATA[我尝试用谷歌搜索这个，但没有找到任何具体的解释。我目前在首屏有一个 SVG 图像，我用  来呈现它。使用 base64 内联 data-uri 方法进行标记。在我尝试削减网页上的每一字节 KB 的过程中，我想将此 SVG 转换为无损 webp 并使用 &lt;img srcset=“image.webp 2x”/&gt; 提供服务，但为了保存连接，我仍然想要使用内联 data-uri 方法来提供它。问题在于，如果我必须为 1x 和 src 提供内联 base64 webp 后备，那么我节省的数据就会消失。 如果我不提供 src 属性而只提供  ，会发生什么情况？ img srcset=“数据：图像/webp...2x” &gt;&gt; ？对于不是 2x 的显示器，我可以提供 2x 图像并使用浏览器缩放。显然它不如 svg，但仍然节省了数据。   由   提交 /u/beefspring   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dt5ug/img_tag_using_datauri_base64_and_srcset_2x/</guid>
-      <pubDate>Tue, 23 Jan 2024 17:02:45 GMT</pubDate>
+      <title>在 VPS 上为普通 PHP 网站设置持续部署的最简单方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dx69w/what_is_the_easiest_way_to_set_up_continuous/</link>
+      <description><![CDATA[我有一个用 PHP、HTML、CSS、JS 和 SQL 编写的业余爱好 Web 应用程序，我是它唯一的开发人员。很长一段时间以来，我一直使用 FileZilla FTP 客户端对其文件进行更改。但是，我希望使用 Git 进行版本控制，并且不会跟踪直接对生产环境进行的更改。 （我知道直接更改生产环境本身就是一种不好的做法。）我正在使用 GitHub。到目前为止，我发现的最简单的解决方案是通过使用配置有 Git 挂钩的生产服务器上的裸存储库来触发新提交的部署。虽然，这是强大且易于使用的，因为每当我需要部署新版本时，我只需要运行“git Push Production”（生产是我命名远程存储库的方式），我可能可以做比这更好的事情，特别是考虑到我使用 GitHub 并且有 GitHub Actions。由于我在 DevOps 方面没有太多经验，因此我很高兴知道您可以推荐什么作为适合我的用例的最佳实践。 我的最佳选择是什么（有优点和缺点）？  编辑：我不喜欢使用 git hooks 方法的一件事是，它感觉像是一种解决方法，最终我在生产服务器上得到了 .git 文件夹和 .gitignore 以及其他文件，我必须配置我的网络服务器来排除。它也没有像 GitHub 中的标准部署管道那样提供那么大的灵活性。 如果能知道是否有任何好的（且常见的）解决方案来对 SQL 架构进行版本控制，那就太好了（和数据）。我在生产环境使用MySQL/MariaDB。我唯一能想到的就是使用数据库迁移文件。 （我需要为此安装一个数据库迁移包，因为当前网络应用程序不支持它。）   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dx69w/what_is_the_easiest_way_to_set_up_continuous/</guid>
+      <pubDate>Tue, 23 Jan 2024 19:50:13 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用 Fly.io 的 LiteFS 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dswyd/anyone_using_flyios_litefs/</link>
-      <description><![CDATA[我目前在我的博客中使用 Neon 托管 Postgres，但冷启动快要了我的命。我遇到了超过 6 秒的冷启动！我可以升级到付费计划以允许我的数据库服务器连续运行，但我正在考虑 Neon 的替代方案。 为什么我的博客使用数据库而不是 SSG？嗯，我的博客上有需要数据库的功能。例如，我有用户登录、反应和评论。我还想随着时间的推移添加更多功能，拥有一个数据库真是太好了。 我认为自己是一名全栈 Web 开发人员，但我对管理数据库没什么兴趣。这是我从来没有真正关心过的一件事。 我正在使用 Fly.io 来托管我的网站，我认为这是一项很棒的服务。在研究 Neon 的替代品时，我发现了 Fly.io 的 LiteFS Cloud 功能，它本质上是 SQLite 的分布式文件系统。如果您有兴趣，这里有一些来自 Fly.io 的博客文章  https://fly.io/blog/introducing-litefs/ https://fly.io/blog/litefs-cloud/  我特别同意这种观点  每个人都使用托管服务，因为让数据库服务器保持正常运行很烦人。  我读得越多，我就越认为它是有道理的。在边缘拥有一个 Sidecar SQLite 数据库听起来非常棒。特别是对于像我的博客这样阅读量很大的东西。人们对 LiteFS 有何看法？有人有使用 LiteFS 的经验吗？   由   提交/u/http203  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dswyd/anyone_using_flyios_litefs/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:52:42 GMT</pubDate>
+      <title>Facebook 登录（网站）违规</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dwnja/facebook_login_website_violations/</link>
+      <description><![CDATA[      不确定这是否是最好的提问地点，但我找不到更合适的子系统。  我运行一个使用 React（SPA，无 SSR）构建的网站，该网站使用 Firebase 身份验证实现了 Facebook 登录。  在过去的几个月里，每 2-3 周我就会收到一封来自 Facebook 的电子邮件，声称网站/Facebook 登录有问题。每次我检查时，我都会看到网站总体情况和 Facebook 登录功能都运行得非常好。我通过发送屏幕录制来回应，显示一切正常，并且总是请求一些有关他们发现的损坏的技术信息。通常在回复一两次后，他们会关闭已解决的违规行为，但几周后又会再次发生。 他们从不提供任何详细的技术信息，我想知道是否有人可能有一个想法为什么会发生这种情况，或者建议如何联系 Facebook 开发者支持人员以获取更多信息。 谢谢！  &amp; #32；由   提交/u/indicava   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dwnja/facebook_login_website_violations/</guid>
+      <pubDate>Tue, 23 Jan 2024 19:28:55 GMT</pubDate>
     </item>
     <item>
-      <title>自动创建已售商品档案的在线商店</title>
-      <link>https://www.reddit.com/r/webdev/comments/19dsgah/online_shop_that_automatically_creates_archive_of/</link>
-      <description><![CDATA[您好！我正在为我姐姐的艺术业务创建一个网站。她制作陶器和粘土，她的所有作品都是独一无二的——她不像大多数陶艺家那样坚持一种风格。  所以，我希望在她的网站上有类似于 Ebay 的功能，您可以在其中搜索任何内容或查看类别，然后选择“已售商品”。并查看该特定类别中已售出的所有商品。  我想要一家能够自动创建这些“已售出”商品的商店。商品售出后的列表。  我还没有决定网站托管。谁能帮我选择一个好的主机并让我知道这是否可行？ 提前致谢！   由   提交 /u/Oddpip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19dsgah/online_shop_that_automatically_creates_archive_of/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:33:25 GMT</pubDate>
+      <title>拥有前端的自己的数据库从哪里开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dwbu4/where_to_start_for_own_database_with_frontend/</link>
+      <description><![CDATA[我在后端方面的经验很少，在前端方面的经验较多，但我想启动一个非常简单的网络应用程序供我自己使用但可以利用它来获得更多经验，去做更有趣的事情。 我想将我的应用程序设计得与 Snipe-It 非常接近，它本质上是一个库存应用程序。他们使用 Laravel/PHP 和数据库后端，我相信是 MySQL。我想做一些类似于开始的事情，也许他只是一个包含 3 个字段的表单，并将其保存到数据库中，并且能够调出以前保存的条目等，基本上就是这样。  我正在对 Laravel 和 PHP 进行一些研究，我读到 Web 应用程序的未来可能会从这转向更像 Node 或 Django 的东西。  所以我的问题是，什么是开始学习开发现代 Web 应用程序的好地方？   由   提交 /u/HeihachiHibachi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dwbu4/where_to_start_for_own_database_with_frontend/</guid>
+      <pubDate>Tue, 23 Jan 2024 19:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>数据库存储在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ds75b/where_is_the_database_stored/</link>
-      <description><![CDATA[新手问题：我已经启动了一些网站，使用名为 render 的免费托管服务，该服务直接使用我的 github 代码。其中一些网站有数据库。数据库存储在哪里？在他们的存储中，还是在我的github上是一样的？  更好地解释一下，如果有新用户注册，我的 github 上的数据库会更新吗？或者只是他们一端的数据库？  谢谢！   由   提交 /u/GigantikMicroPenis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ds75b/where_is_the_database_stored/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
+      <title>有谁知道如果您不拥有该网站，是否可以在谷歌地址更改工具上验证该网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dw417/does_anyone_know_if_you_can_verify_a_site_on/</link>
+      <description><![CDATA[我已经从旧的 wordpress.com 博客到我的新 wordpress.org 博客。我拥有后者。我不拥有 wordpress.com 上的域名，它是另一个域 x.wordpress.com 。我可以验证地址吗？我已经尝试了一切，因为您需要验证两个地址才能更改地址工具。意识到也许我无法做到这一点，因为我不拥有 wordpress.com 网站。这是正确的吗？   由   提交/u/AppleAnne33  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dw417/does_anyone_know_if_you_can_verify_a_site_on/</guid>
+      <pubDate>Tue, 23 Jan 2024 19:06:38 GMT</pubDate>
     </item>
     <item>
-      <title>API设计问题：根据用户角色处理对象可见性</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ds0bl/api_design_question_handling_object_visibility/</link>
-      <description><![CDATA[嘿，我正在为学校开发一个 API，并且有一个设计问题，希望您能提供意见。 我的 API 中有某些端点，其中对象具有“启用”标志。我希望普通用户看不到带有此标志的对象，但管理员应该有权访问它们。 以下是我的两种方法：  相同的端点，不同的权限：   对普通用户和管理员使用单一端点。 检查用户角色（管理员或普通用户）并处理对象相应的可见性。 普通用户不会看到带有“启用”标志的对象。   单独的端点：   为普通用户和管理员创建单独的端点。 管理员端点包含带有“启用”标志的对象，而普通用户端点则不包含。 &gt;  您认为最好的方法是什么？为什么？谢谢！   由   提交 /u/jungalmon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ds0bl/api_design_question_handling_object_visibility/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:14:58 GMT</pubDate>
+      <title>客户网站正在从一个不属于我的随机网站的主页收到联系表单提交......有什么想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dvy3r/clients_website_is_receiving_contact_form/</link>
+      <description><![CDATA[我怀疑这是某种数据盗窃。我管理一个为客户建立的网站。我设置了一个联系表格，该表格会发送到客户指定的电子邮件地址，也会通过 hubspot 发送到我的电子邮件地址。我收到一些人请求与“我”见面的提交内容，但提交的联系表单的来源是来自另一个国家的某个健康影响者网站的主页……这是怎么回事？为什么我和我的客户会收到来自她网站的提交内容？   由   提交/u/kylekkiwi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dvy3r/clients_website_is_receiving_contact_form/</guid>
+      <pubDate>Tue, 23 Jan 2024 19:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>网站已上线但未出现在 Google 搜索结果中 - 需要帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/19drrmw/website_live_but_not_appearing_in_google_search/</link>
-      <description><![CDATA[我最近使用 HTML、CSS 和 JS 构建并启动了我的第一个网站。这是一个非常简单的网站。我已将其托管在 Netlify 上并连接了我从 Porkbun 购买的域名。该网站已上线并可通过域访问，但有一个问题 - 当我在 Google 上搜索该网站时，它没有显示出来。 似乎没有任何其他页面具有相同的内容奇怪的是，尽管出现了与我的网站关联的 Instagram 页面，但在搜索结果中却找不到该网站本身。 我是网络开发和托管方面的新手，并且是一名有点不知道如何解决这个问题。我试图在谷歌上找到更多信息，但我仍然无法弄清楚。有其他人遇到过类似的问题吗？您能分享我可能缺少的任何见解或步骤吗？如何提高我的网站在 Google 上的曝光度？ 任何帮助或建议，我们将不胜感激！提前致谢。   由   提交 /u/lRandomGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19drrmw/website_live_but_not_appearing_in_google_search/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:04:30 GMT</pubDate>
+      <title>帮助 TanStack ReactQuery 和 Web-socket</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dvk9q/help_tanstack_reactquery_and_websockets/</link>
+      <description><![CDATA[我陷入了一些我认为会容易得多的事情上。 我正在努力转换一些 API 调用，这些调用之前使用 Axios 和 ReactQuery 转而使用 Web-socket。基本上取代了 Axios，但仍然使用 ReactQuery 来管理缓存等。 我开始使用的链接 https://tkdodo.eu/blog/using-web-sockets-with-react-query https://blog.logrocket.com/tanstack- query-websockets-real-time-react-data-fetching/#benefits-websockets-real-time-data-fetching ​ 我开始了有几篇文章似乎不完整，因为我似乎无法弄清楚如何在 Web 套接字返回后获取所需的数据。这是我所拥有的不起作用的内容。 &lt; code&gt;function getTranslations(ws) { const request = { locale: &#39;en&#39;, request: true, } ws.emit(&#39;translations&#39;,request) // 通过 web-socket 请求数据 } const Context = createContext(); const Exam = (props) =&gt;; { const queryClient = useQueryClient() useEffect(() =&gt; { // 通过 websocket 使用响应 props.ws.on(&#39;translations_web_socket&#39;,(response) =&gt; { queryClient.setQueryData(queryKey, (response) =&gt;; } { 返回 [{...response}, &#39;复制&#39;]; }); }); }, [queryClient]); const {data, isLoading, status } = useQuery({ queryKey: [&#39;copy&#39;], queryFn: getTranslations(props.ws) }) if (isLoading) return 正在加载 ...; if (status === &#39;error&#39;) return ;错误，发生了不好的事情 return (    &lt;&gt;  我希望有人有这方面的经验，并且可以为我指明正确的方向。 Web 套接字调用工作正常，但我不知道如何将所需的数据返回到 UI   由   提交 /u/showcasefloyd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dvk9q/help_tanstack_reactquery_and_websockets/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:44:04 GMT</pubDate>
     </item>
     <item>
-      <title>插件无法在真实网站上运行，但在临时网站上运行没有问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19drpzk/plugin_does_not_work_on_real_site_works_without/</link>
-      <description><![CDATA[PayOp 支付处理插件，突然停止在我的真实网站上工作，对我的实际网站进行了 0 次更改，禁用了除 PayOp 之外的所有其他插件和 Woocommerce，它仍然无法工作， 我认为问题可能出在插件本身或 Woocommerce 插件内，我决定创建一个暂存站点并在那里进行测试，然后激活我的所有插件临时站点，PayOp 插件工作没有问题， 我不知道怎么会发生这种情况？真实网站和临时网站之间存在 0 差异，每个设置都相同，Wordpress 支持和 PayOp 支持都无法解决问题   由   提交/u/722-47  /u/722-47  reddit.com/r/webdev/comments/19drpzk/plugin_does_not_work_on_real_site_works_without/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19drpzk/plugin_does_not_work_on_real_site_works_without/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:02:31 GMT</pubDate>
+      <title>2024 年支持的最差设备是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dvhnw/whats_the_crappiest_device_to_support_in_2024/</link>
+      <description><![CDATA[我正在开发 Chrome 扩展，并注意到在速度较慢的设备上使用它时存在性能问题。简而言之，UI 在性能较低的设备上挂起的时间会更长。  在开始深入分析和优化代码之前，我想知道 2024 年支持的最糟糕的设备是什么。我知道有人在讨论最小屏幕宽度或浏览器兼容性支持等问题，但还没有。没有看到关于实际设备 CPU/RAM 规格的深入讨论。 现在，我正在考虑购买一台具有 4GB RAM 和 2 核 CPU 的二手 Chromebook 来作为我的基准进行测试。移动设备不相关，因为该扩展仅适用于 Mac/Windows。对支持的基准规范有什么想法吗？   由   提交 /u/MeekZeek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dvhnw/whats_the_crappiest_device_to_support_in_2024/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:41:02 GMT</pubDate>
     </item>
     <item>
-      <title>反应“basename”解构问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/19drot0/react_basename_destructure_problem/</link>
-      <description><![CDATA[       ​ 我只想从引导程序制作一个导航栏，每次我都会遇到这个问题，这个基本名称错误是什么，请尽可能提供帮助   由   提交 /u/Bruhhhhh-_-   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19drot0/react_basename_destructure_problem/</guid>
-      <pubDate>Tue, 23 Jan 2024 16:01:15 GMT</pubDate>
+      <title>我可能做错了什么会出现这种类型的错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19dv273/what_could_i_possibly_be_doing_wrong_to_get_this/</link>
+      <description><![CDATA[      所以，我得到的错误是属性“cartValue”不存在于类型“ArgumentType”上。怎么会不存在呢？我使用与通用类型相同的类型。我将 vite 与 vite-plugin-checker 一起使用。  https://preview.redd .it/bgk9x9ykf8ec1.png?width=690&amp;format=png&amp;auto=webp&amp;s=f3e9aad51e627425d7c3d4891786b89d85268b6a https://preview.redd.it/gnjq89ykf8ec1.png?width=557&amp;format=png&amp;auto=webp&amp;s=6c1ee26a8cf7e844 c5166149e31683750bbead7f   由   提交 /u/green_viper_   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19dv273/what_could_i_possibly_be_doing_wrong_to_get_this/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:23:37 GMT</pubDate>
     </item>
     <item>
-      <title>您如何知道自己何时准备好参加高级全栈课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19drd31/how_do_you_know_when_youre_ready_for_senior_full/</link>
-      <description><![CDATA[我想将工作从 IT 转为 Web 开发，并且正在寻找见解。我在 IT 领域工作了大约十年，其中过去三年担任 IT 系统工程师，深深沉浸在 AWS 中。由于我对 Web 开发和编程的兴趣，我的角色已经超出了典型的 IT 工作范围，涉及大量自动化、后端工作以及使用 Powershell 和 Python 进行编程。 我的主要工作项目之一涉及开发后端流程。这包括将现有的前端应用程序与 Python 设计的后端集成。它管理资源计划，与 DynamoDB 交互，并利用 lambda 函数根据特定时间线进行标记调整和资源删除，或关闭它们。 大约 5 年前，我对 Web 开发产生了兴趣。它从 React 训练营开始，从那时起，我就迷上了一般的编码，并且特别喜欢 Web 开发。 我一直在致力于一个使用 Lambda 函数开发 API 的个人项目、DynamoDB 和 API 网关。我还在开发前端，它将用于存储食谱，显示食谱链接的视频。 Tiktok 风格的应用程序，但用于食谱视频。 根据我目前的经验，这是我的大问题：  以我的背景，你认为我是适合高级全栈职位吗？如果不是，我应该达到什么水平？ 我如何增强我的作品集以最好地反映我的技能？我的个人项目是否足以成为我的“主食”？展示我技能的项目片段？  ​ 欢迎任何建议、提示或现实检查！   由   提交/u/free_thinker1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19drd31/how_do_you_know_when_youre_ready_for_senior_full/</guid>
-      <pubDate>Tue, 23 Jan 2024 15:47:10 GMT</pubDate>
+      <title>人们常说“世界不是完美的，而是‘足够好’”。那么什么是 Web Dev 的“足够好”呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19duwiu/its_often_said_that_the_world_doesnt_run_on/</link>
+      <description><![CDATA[前端？ 后端？ 整个项目？ 团队尺寸？截止日期？个人技能水平？ 可能是任何事情。 ​ 想法？ &lt;!-- SC_ON - -&gt;  由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19duwiu/its_often_said_that_the_world_doesnt_run_on/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:17:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
