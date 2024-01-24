@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 24 Jan 2024 18:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 21:11:44 GMT</lastBuildDate>
+    <item>
+      <title>Winglang：以一种语言结合基础设施和运行时代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/19eo6p6/winglang_combining_infrastructure_and_runtime/</link>
+      <description><![CDATA[       由   提交/u/nate4t  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19eo6p6/winglang_combining_infrastructure_and_runtime/</guid>
+      <pubDate>Wed, 24 Jan 2024 19:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Python：Zapier 之类的框架？</title>
       <link>https://www.reddit.com/r/opensource/comments/19emo77/python_zapier_like_framework/</link>
-      <description><![CDATA[我正在寻找一个工具集来创建由稍后启动某种操作的某个时间、间隔或电子邮件触发的工作流程。最常见的用例是构建某种中间件，将数据从一个 API 同步到另一个 API。有人知道一些库框架等可以创建类似 Zapier 的工作流程吗？   由   提交 /u/SnooWoofers8928   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个工具集来创建由稍后启动某种操作的某个时间、间隔或电子邮件触发的工作流程。最常见的用例是构建某种中间件，将数据从一个 API 同步到另一个 API。有人知道一些库框架等可以创建类似 Zapier 的工作流程吗？   由   提交/u/SnooWoofers8928  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19emo77/python_zapier_like_framework/</guid>
       <pubDate>Wed, 24 Jan 2024 17:37:02 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>开源产品库软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/19e4i91/open_source_product_library_software/</link>
-      <description><![CDATA[我为一家小型公司工作作为一家苦苦挣扎、非常不现代化的制造商，我们使用 Quickbooks 2016 之类的工具进行库存管理。几乎所有仓库的东西都是在纸上完成的。 办公室经理一直在处理产品库 Excel 文件。我曾经经历过这种情况，这是一个杂乱无章、难以导航和解析的混乱局面。 我必须为此做点什么，并且我被授权尝试，但我们没有钱走软件路线。  TLDR； 是否有某种开源离线产品库类型的软件，旨在输入和存储 SKU 级别的信息，例如包装和产品信息。物品尺寸、重心等？理想情况下，允许产品层次结构/变化。 我不太担心混合运输和运输。收货或库存盘点管理纳入此。理想情况下，它将是一个简单稳定的数据库，除了添加之外不会更改。不是我们会添加到工作流程中的东西。 （或者我可以在其中提出更好的子方案）？ 编辑添加：如果它实际上不是设计的产品库，但也能满足我的需求，我也可以在船上获取信息   由   提交/u/Sewati   [链接] [评论]]]></description>
+      <description><![CDATA[我为一家小型公司工作作为一家苦苦挣扎、非常不现代化的制造商，我们使用 Quickbooks 2016 之类的工具进行库存管理。几乎所有仓库的东西都是在纸上完成的。 只要我有时间，办公室经理就一直在处理产品库 excel 文件。我曾经经历过这种情况，这是一个杂乱无章、难以导航和解析的混乱局面。 我必须为此做点什么，并且我被授权尝试，但我们没有钱走软件路线。  TLDR； 是否有某种开源离线产品库类型的软件，旨在输入和存储 SKU 级别的信息，例如包装和产品信息。物品尺寸、CoG 等？理想情况下，允许产品层次结构/变化。 我不太担心混合运输和运输。收货或库存盘点管理纳入此。理想情况下，它将是一个简单稳定的数据库，除了添加之外不会更改。不是我们会添加到工作流程中的东西。 （或者有一个更好的子我可以问这个）？ 编辑添加：如果它实际上不是设计的产品库，但也能满足我的需求，我也可以在船上获取信息   由   提交/u/Sewati   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19e4i91/open_source_product_library_software/</guid>
       <pubDate>Wed, 24 Jan 2024 01:05:10 GMT</pubDate>
     </item>
     <item>
       <title>ClosetArchive - 开源壁橱助理/经理（React-native 应用程序）</title>
       <link>https://www.reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/</link>
-      <description><![CDATA[- 管理你的衣服。- 记录你的事件（例如，你去了某个地方并且你穿着：item1、item2、item3）下次活动你知道穿什么了。 - 洗衣提醒。请检查一下并谢谢： https://github.com/bahaaTuffaha/Project-ClosetArchive   由   提交/u/Ag47-B   /u/Ag47-B  reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[- 管理你的衣服。- 记录你的事件（例如，你去了某个地方并且你穿着：item1、item2、item3）下次活动你就知道穿什么了。 - 洗衣提醒。请检查一下并谢谢： https://github.com/bahaaTuffaha/Project-ClosetArchive   由   提交/u/Ag47-B   /u/Ag47-B  reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/</guid>
       <pubDate>Tue, 23 Jan 2024 18:33:02 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 23 Jan 2024 16:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>来我的音乐知识共享社区享受并给予帮助/帮助</title>
+      <title>来我的音乐知识共享社区享受和公民/帮助</title>
       <link>https://www.reddit.com/r/opensource/comments/19dorqr/come_enjoy_and_citiquehelp_in_my_music_knowledge/</link>
       <description><![CDATA[     &lt; /td&gt;  由   提交 /u/kosakgroove   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19dorqr/come_enjoy_and_citiquehelp_in_my_music_knowledge/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿社区，首先，我不知道这是问这个问题的正确地方。我是 Nova 的主要用户，但我一直在寻找值得信赖的启动器。我可以坚持使用公司提供的启动器，但随着时间的推移，这些启动器会比平常消耗更多的电池，所以我改用自定义启动器。 Nova 是市场上最受推荐和最好的启动器，但我听说该公司被卖给了 Shady Data公司，这里。所以，我正在寻找一个面向隐私的启动器。我想说的是，启动器不会收集任何数据，不会请求不需要的许可等。我搜索了隐私启动器，许多网站向我推荐了许多具有更好隐藏选项的启动器。我指出了我的要求如下， - 可以在 Play 商店或 F-droid 中找到（lawnchair 正在电报上发布版本） - 来自受信任的公司（不像 Nova） - 没有任何版本的分叉版本其他启动器 - 没有不必要的权限（如果不需要任何权限就更好了） - 深色模式有漆黑或深色 amoled 主题选项 - cpu 和电池电量充足。 - 必须具有易于访问的应用程序抽屉 - 不需要任何小部件或专有的自定义选项。 我也尝试过 Niagara 启动器，但我喜欢从主屏幕向上滑动以获取应用程序抽屉。  智能启动器对于我的 3 年旧设备来说过于智能，此外，它还需要很多不需要的权限，包括存储、日历、位置、联系人和电话。 尝试了 fdroid 的 ola 启动器，它很好，但是ola launcher pro 一次性购买费用近 23 美元，每年购买费用 6 美元。我可以订阅，但该应用程序处于早期访问阶段，所以我不知道这个应用程序将来是否会保留在此处。听说过 Lawnchair，但它正在 Telegram 上发布。已安装 Kiss但在我的设备上运行不顺畅。 这都是我这边的。我希望你们能在这方面帮助我。谢谢你们。更多讨论见下面的评论。   由   提交/u/S_Raj_9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19dmr7f/finding_a_trustable_android_custom_launcher/</guid>
       <pubDate>Tue, 23 Jan 2024 11:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我更换所有小型企业软件。看看我们能有多接近！</title>
-      <link>https://www.reddit.com/r/opensource/comments/19dlax5/help_me_replace_all_my_small_business_software/</link>
-      <description><![CDATA[唯一的规定是云中的数据必须可以由不同的计算机访问。对于此挑战，假设我无法使用 Odoo。 这是我尝试替换的软件：  电子邮件客户端 会计 CRM 电子签名 调查与分析表单构建器 电子邮件营销 具有所见即所得的网站构建器 广告设计器/布局 广告照片编辑器 广告视频编辑器 广告和播客音频编辑器 Office 套件  我不太了解我的选择是什么。我真的很想深入那些喜欢想象各种开源设置的人的头脑。  谢谢。我真的很期待看到 2024 年最好的选择是什么！   由   提交 /u/snowglowshow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19dlax5/help_me_replace_all_my_small_business_software/</guid>
-      <pubDate>Tue, 23 Jan 2024 10:18:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

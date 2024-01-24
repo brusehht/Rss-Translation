@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 18:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 21:11:39 GMT</lastBuildDate>
     <item>
-      <title>想知道是否有人可以帮助我解决这个问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19emodx/was_wondering_if_someone_could_help_me_with_this/</link>
-      <description><![CDATA[       由   提交 /u/TheNamesKT_   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19emodx/was_wondering_if_someone_could_help_me_with_this/</guid>
-      <pubDate>Wed, 24 Jan 2024 17:37:50 GMT</pubDate>
+      <title>大家好，我正在尝试在 React 中使用谷歌地图。我让它在高度为 100%、宽度为 100% 的 div 中渲染，但顶部和底部有灰色区域。知道如何才能让地图始终被填充，并且顶部和底部不存在那些灰色矩形吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19er9zb/hi_guys_i_am_trying_to_use_google_maps_in_react_i/</link>
+      <description><![CDATA[   ​ https://preview.redd.it/2u4bwzd5dgec1.png?width=2100&amp;format=png&amp; ;auto=webp&amp;s=8ba3b10ce88f47ccc71c89a58e02cdf86b1efbb1   由   提交/u/Intelligent_Will_948   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19er9zb/hi_guys_i_am_trying_to_use_google_maps_in_react_i/</guid>
+      <pubDate>Wed, 24 Jan 2024 21:05:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务器架构</title>
+      <link>https://www.reddit.com/r/webdev/comments/19er5qt/server_architecture/</link>
+      <description><![CDATA[你好！我是一个相对较新的全栈开发人员，大约半年前完成了我的工作/商学院（德国学校）。虽然我没有深入了解后端和服务器配置，但我想寻求一些建议。目前，在我的公司，我们正在开发简单的云软件解决方案。但是，由于我们的公司规模有限，我们一直依赖通用托管商提供的消费级托管服务器包。 不幸的是，近几个月来我们当前的托管商遇到了严重的停机时间，这影响了我们对他们服务的满意度。因此，我们正在探索转换的可能性。理想情况下，我想深入研究管理我们自己的服务器，但我对从哪里开始或什么解决方案适合我们的需求感到有点无能为力。 我们的应用程序非常简单，主要包括PHP、MariaDB、js、css 和 HTML。随着我们的用户群逐渐扩大，我们软件的可靠性变得越来越重要，因为我们的用户依赖它来运行 24/7。最大限度地减少停机时间和实现基本的负载平衡是我们的重要考虑因素。 我知道有现成的解决方案可用，但我不确定行业标准以及不同解决方案的优点/缺点选项。我渴望了解更多信息，并且非常感谢您与我分享的任何智慧或建议。与此相关的是，我对基本到稍微高级的 Linux 有相当的了解，之前出于个人兴趣配置过双引导系统和 Arch Linux。   由   提交/u/Chance_Suggestion_46   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19er5qt/server_architecture/</guid>
+      <pubDate>Wed, 24 Jan 2024 21:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust SDK</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eplpi/rust_sdk/</link>
+      <description><![CDATA[      Rust 是在 NEAR 上编写智能合约的首选编程语言。虽然对于来自 Web 开发的人员来说可能有一个学习曲线，但学习 Rust 可以编写更安全、更快的合约。 有关 Rust SDK 的更多详细信息，请访问：https://docs.near.org/sdk/rust/introduction    ;由   提交/u/ganiket19  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eplpi/rust_sdk/</guid>
+      <pubDate>Wed, 24 Jan 2024 19:57:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将如何在反应中制作这些垂直虚线？我使用 html canvas、svg 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19epkmb/how_would_i_go_about_making_these_vertical_dotted/</link>
+      <description><![CDATA[   /u/couchpotatochip21   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19epkmb/how_would_i_go_about_making_these_vertical_dotted/</guid>
+      <pubDate>Wed, 24 Jan 2024 19:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个开源工具，可以自动用评分最高的 Reddit 视频填充您的 YouTube 频道</title>
+      <link>https://www.reddit.com/r/webdev/comments/19epjg0/i_created_an_open_source_tool_to_automatically/</link>
+      <description><![CDATA[   /u/porest  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19epjg0/i_created_an_open_source_tool_to_automatically/</guid>
+      <pubDate>Wed, 24 Jan 2024 19:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>小型组织的免费联系表（电子邮件）。 Netlify 还是 Web3Forms？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19enocv/free_contact_form_email_for_a_small_organization/</link>
+      <description><![CDATA[我下载了 Web3Forms 附带的 Astro 主题，并将其部署到 Netlify。我正在 Web3Forms 和 Netlify Forms 之间进行争论。 Web3Forms 最多允许免费提交 250 个表单。如果超出限制，他们会通过电子邮件通知。我不确定如何监控使用情况并通过我的电子邮件收到通知，因为我将使用他们的电子邮件接收表格。一种方法可能是在他们的电子邮件上设置自动电子邮件转发以发送到我的电子邮件。 Netlify Forms 最多允许免费提交 100 个表单。他们会多次通知您使用情况。有一个页面可以监控使用情况。您无法禁用该功能，因此如果超出限制，您将被收取费用。如果接近限制，我可以随时更新联系页面以删除表单。 我正在为学校和工作之外的一个小型组织构建我的第一个网站，该网站位于后端。我很开心并且学到了很多东西。  请分享您使用 Web3Forms 和/或 Netlify Forms 的经验或任何其他提示或建议。   由   提交/u/sanji1212  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19enocv/free_contact_form_email_for_a_small_organization/</guid>
+      <pubDate>Wed, 24 Jan 2024 18:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助我们为我们古老的网络应用程序选择现代堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/19enfsi/help_choosing_a_modern_stack_for_our_ancient/</link>
+      <description><![CDATA[我是一家公共机构的科学研究网络应用程序的首席开发人员。我们的应用程序以非常庞大且复杂的 Neo4j 数据库为中心，用户群非常小，但针对我们的数据库运行巨大的工作负载。我们是一个非常小的团队，最多只有 8 名开发人员，我们在 9 年前首次构建了我们的应用程序。那时我们的堆栈从未改变，我们现在希望使用现代堆栈从头开始重建应用程序 - 既使我们的应用程序和我们的团队技能现代化。 我们当前的堆栈是：本地部署服务器（我们的机构讨厌云）、Ubuntu VM、Neo4j 数据库、用于 api 和应用程序后端的 Java Spring MVC、Thymeleaf 模板和 jQuery / jQueryUI。 我们确定的是：云托管可能会永远不要成为我们的事情，保留 Neo4j，转向使用容器而不是虚拟机。否则，其他一切都是悬而未决的。所以我的问题是： 由于我们数据库的复杂性，我一直在关注 GraphQL 而不是传统的 REST api，但是关于 GraphQL 何时是合适的工具，存在很多相互矛盾的信息。人们对使用 GraphQL 有何想法，尤其是在小团队但大型数据库场景中？ 鉴于 Nodejs 的流行以及团队中的每个人都已经知道，我们希望在后端的其余部分摆脱 Java JS，这似乎是一个完美的选择。但是有这么多不同的框架，你如何知道选择哪个？特别是在我们的场景中，我们需要对大型数据库运行网络分析。您甚至可以在使用 GraphQL 作为 API 的同时运行 Nodejs 作为后端吗？  在我的研究中，现代前端框架世界是狂野的。鉴于我们应用程序的研究导向性质，UI/UX 从来都不是我们真正关注的焦点，但是，我们仍然希望切换到现代的东西。我当时的想法是有角度的，但我愿意接受建议。 模板仍然是一种东西吗？在我的研究中，我无法真正了解现代堆栈如何处理模板。  任何建议或意见将不胜感激，谢谢。   由   提交 /u/LamaMamaSama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19enfsi/help_choosing_a_modern_stack_for_our_ancient/</guid>
+      <pubDate>Wed, 24 Jan 2024 18:30:54 GMT</pubDate>
     </item>
     <item>
       <title>HTML：编程语言</title>
@@ -22,7 +64,7 @@
     <item>
       <title>移动健身应用程序存储用户数据位置查询（美国/欧盟法规）</title>
       <link>https://www.reddit.com/r/webdev/comments/19elq6z/storing_user_data_location_query_for_mobile/</link>
-      <description><![CDATA[我正在开发一个移动健身应用程序，目前使用 Firebase 进行数据存储和处理。目前，我的 Firebase 服务器位于美国，在不同位置拥有多个服务器对我来说是一个挑战。 考虑到这一点，我在欧盟和美国都有用户，而且我正在寻找有关如何处理用户数据存储位置的指南，以遵守相关的数据保护和隐私法。 具体：  欧盟用户：  我了解 GDPR 对用户数据的处理和存储提出了某些要求。鉴于我当前的服务器位置位于美国，对遵守 GDPR 有何影响？我可以采取任何缓解策略或替代方法来确保 GDPR 合规性，而无需将服务器实际放置在欧盟吗？ 美国用户：虽然没有联邦数据保护像美国的 GDPR 一样，有州级法律和行业特定法规。我是否应该担心在美国服务器上为美国境内的用户存储数据？我是否应该考虑任何特定州的法规？  我想确保我的应用程序符合所有相关的隐私法，如果您有任何见解和经验，我将不胜感激，或社区关于在不同位置的多个服务器可能不可行的情况下处理用户数据位置的最佳实践的建议。 提前感谢您的帮助！   由   提交 /u/Blanketsniffer   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个移动健身应用程序，目前使用 Firebase 进行数据存储和处理。目前，我的 Firebase 服务器位于美国，在不同位置拥有多个服务器对我来说是一个挑战。 考虑到这一点，我在欧盟和美国都有用户，而且我正在寻求有关如何处理用户数据存储位置的指南，以遵守相关的数据保护和隐私法。 具体：  欧盟用户：  我了解 GDPR 对用户数据的处理和存储提出了某些要求。鉴于我当前的服务器位置位于美国，对遵守 GDPR 有何影响？我可以采取任何缓解策略或替代方法来确保 GDPR 合规性，而无需将服务器实际放置在欧盟吗？ 美国用户：虽然没有联邦数据保护像美国的 GDPR 一样，有州级法律和行业特定法规。我是否应该担心在美国服务器上为美国境内的用户存储数据？我是否应该考虑任何特定于州的法规？  我想确保我的应用程序符合所有相关的隐私法，如果您有任何见解和经验，我将不胜感激，或社区关于在不同位置的多个服务器可能不可行的情况下处理用户数据位置的最佳实践的建议。 提前感谢您的帮助！   由   提交 /u/Blanketsniffer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19elq6z/storing_user_data_location_query_for_mobile/</guid>
       <pubDate>Wed, 24 Jan 2024 16:55:53 GMT</pubDate>
     </item>
@@ -50,7 +92,7 @@
     <item>
       <title>我需要帮助在使用 PHP 的 WordPress 网站上延迟 jQuery。我之前的方法在上周之前一直运行良好，但突然失效了，过去几天我尝试的所有其他方法都失败了。</title>
       <link>https://www.reddit.com/r/webdev/comments/19ejouk/i_need_help_deferring_jquery_on_a_wordpress_site/</link>
-      <description><![CDATA[这是一个使用 Divi 主题的网站，它使用 jQuery 版本 3.6.0。如果 jQuery 被推迟，主题仍然可以完美运行，因此我在子主题的 function.php 文件中编写了一些 PHP，它将取消注册 jquery-core，然后再次注册它，从 https://code.jquery.com/jquery-3.6.0.min.js。它还会将 #deferload 添加到 URL 的末尾 (https://code.jquery.com /jquery-3.6.0.min.js#deferload）。然后我有一些额外的 PHP 可以用“”替换#deferload defer=&#39;推迟&#39;在 URL 的末尾。本质上，这使得我的 HTML 中的脚本标记中的 URL 看起来像 src=&quot;https://code .jquery.com/jquery-3.6.0.min.js&#39; defer=&#39;defer&#39;直到上周它都运行良好。无论出于何种原因，现在我的脚本标记中的单引号已更改为 &amp;#039;它破坏了链接。 到目前为止，我已经尝试用 \&#39; 转义单引号，用 \&quot; 转义双引号，并在 wp_register_script 函数中实现延迟策略，但没有任何效果。这是 PHP 的延迟策略： [ wp_register_script(&#39;jquery-core&#39;, &quot; https://code.jquery.com/jquery-3.6.0.min.js&quot;, false, null, array( &#39;strategy&#39; =&gt; &#39;defer&#39; )); ] 出于某种原因，添加延迟策略最终会添加 data-wp-strategy=&quot;defer&quot;到脚本标签，而不仅仅是常规的延迟属性，它实际上并不延迟脚本。有没有人有任何其他我可以实施的可能对我有用的方法？提前致谢。 编辑：没关系，只是想通了。字符串替换普通旧的“defer”的 data-wp-strategy修复了它。   由   提交/u/Marvel_plant  [链接] [评论]]]></description>
+      <description><![CDATA[这是一个使用 Divi 主题的网站，它使用 jQuery 版本 3.6.0。如果 jQuery 被延迟，主题仍然可以完美工作，因此我在子主题的 function.php 文件中编写了一些 PHP，它将取消注册 jquery-core，然后再次注册它，从 https://code.jquery.com/jquery-3.6.0.min.js。它还会将 #deferload 添加到 URL 的末尾 (https://code.jquery.com /jquery-3.6.0.min.js#deferload）。然后我有一些额外的 PHP 可以用“”替换#deferload defer=&#39;推迟&#39;在 URL 的末尾。本质上，这使得我的 HTML 中的脚本标记中的 URL 看起来像 src=&quot;https://code .jquery.com/jquery-3.6.0.min.js&#39; defer=&#39;defer&#39;直到上周它都运行良好。无论出于何种原因，现在我的脚本标记中的单引号已更改为 &amp;#039;它破坏了链接。 到目前为止，我已经尝试用 \&#39; 转义单引号，用 \&quot; 转义双引号，并在 wp_register_script 函数中实现延迟策略，但没有任何效果。这是 PHP 的延迟策略： [ wp_register_script(&#39;jquery-core&#39;, &quot; https://code.jquery.com/jquery-3.6.0.min.js&quot;, false, null, array( &#39;strategy&#39; =&gt; &#39;defer&#39; )); ] 出于某种原因，添加延迟策略最终会添加 data-wp-strategy=&quot;defer&quot;到脚本标签，而不仅仅是常规的延迟属性，它实际上并不延迟脚本。有没有人有任何其他我可以实施的可能对我有用的方法？提前致谢。 编辑：没关系，只是想通了。字符串替换普通旧的“defer”的 data-wp-strategy已修复。   由   提交/u/Marvel_plant  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19ejouk/i_need_help_deferring_jquery_on_a_wordpress_site/</guid>
       <pubDate>Wed, 24 Jan 2024 15:29:18 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>在输入文本中显示 iOS 数字键盘</title>
       <link>https://www.reddit.com/r/webdev/comments/19eit3d/show_ios_numeric_keyboard_in_input_text/</link>
-      <description><![CDATA[当使用焦点位于我的输入文本时，我需要显示此数字键盘： ​ https://i.stack.imgur.com/uRk8W.png ​ 我有一个具体要求：用点分隔小数，用逗号分隔百位。我已经有一个 js 代码来执行此操作（随着数字的增长，自动用逗号分隔数百个，允许单个点输入（如果输入还没有一个点）并忽略所有其他键），当我测试这个时，问题就出现了在 iOS 上，这是我迄今为止尝试过的： type=&quot;number&quot;：显示正确的键盘（上面的键盘），但破坏了 js，所以我必须使用 type=&quot;text&quot;对于此字段。 type=&quot;text&quot;和 inputmode=“decimal”：显示这个，它只有逗号（因为我认为是区域配置，但我总是需要点，无论设备的配置如何，这就是为什么第一个将是最佳选择） https://i.stack.imgur.com/0YdJv.jpg 类型=“文本”并且 inputmode=“numeric”：仅数字，甚至更糟 https://i.stack。 imgur.com/6sEzN.jpg type=&quot;text&quot;和模式：与以前相同的结果 所以我现在迷路了，我不确定是否有解决方案，但是，希望你能帮助我，谢谢！   由   提交/u/chimichurri97  [链接] [评论]]]></description>
+      <description><![CDATA[当使用焦点位于我的输入文本时，我需要显示此数字键盘： ​ https://i.stack.imgur.com/uRk8W.png ​ 我有一个具体要求：用点分隔小数，用逗号分隔百位。我已经有一个js代码来执行此操作（随着数字的增长，自动用逗号分隔数百个，允许单个点输入（如果输入还没有）并忽略所有其他键），当我测试这个时，问题就出现了在 iOS 上，这是我迄今为止尝试过的： type=&quot;number&quot;：显示正确的键盘（上面的键盘），但破坏了 js，所以我必须使用 type=&quot;text&quot;对于此字段。 type=&quot;text&quot;和 inputmode=“decimal”：显示这个，它只有逗号（因为我认为是区域配置，但我总是需要点，无论设备的配置如何，这就是为什么第一个将是最佳选择） https://i.stack.imgur.com/0YdJv.jpg 类型=“文本”并且 inputmode=“numeric”：仅数字，甚至更糟 https://i.stack。 imgur.com/6sEzN.jpg type=&quot;text&quot;和模式：与以前相同的结果 所以我现在迷路了，我不确定是否有解决方案，但是，希望你能帮助我，谢谢！ &gt;   由   提交/u/chimichurri97  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19eit3d/show_ios_numeric_keyboard_in_input_text/</guid>
       <pubDate>Wed, 24 Jan 2024 14:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑使用 Netilfy 或 Cloudflare - 寻求反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eig8j/thinking_of_using_netilfy_or_cloudflare_looking/</link>
-      <description><![CDATA[我需要托管一个非常小的纯静态网站，我一直在寻找选项。我不想使用 AWS，但后来我考虑使用 Netlify 和 Cloudflare 来托管该网站。两者都是免费提供的，但我很好奇人们如何发现在它们上托管自己的网站。 您如何比较它们？   由   提交/u/CromulentSlacker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eig8j/thinking_of_using_netilfy_or_cloudflare_looking/</guid>
-      <pubDate>Wed, 24 Jan 2024 14:33:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何与现有应用程序一起构建新应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eha9r/how_to_handle_building_a_new_app_alongside/</link>
-      <description><![CDATA[我（前端）与我的兄弟（后端）一起运行一个社交游戏社区网站作为（相当大的）业余爱好项目在Vue2中，需要升级。由于向后兼容性问题、不受支持的依赖项以及代码库的状态不太好，我决定从头开始重建一个新版本。虽然这需要很长时间，但我认为这是这个项目的最佳选择，因为我可以花时间正确设置它，解决它现在存在的问题/不可能的事情，给它一个新的外观，让它更有未来感，只是改善我自己的开发者体验。 我们一直对社区公开我们的开发情况。我们有一个公共路线图，用户可以建议功能，当我们决定下一步做什么时，我们会充分考虑这些。 该网站是免费的（除了一个小功能之外），但我们有一些支持我们的高级用户，因为他们认为这个项目很棒。它还没有产生任何收入，仅够支付我们的成本。我们希望与这些用户就此次重建保持开放态度，并尽可能多地让他们参与进来。最初是通过展示设计，但最终我想提供这个新版本的测试版访问权限。 不过，我有点不确定如何解决这一切。用户已经开始期待我们定期更新，我不希望他们因为这项艰巨的任务而失去对该项目的兴趣/信任。我们仍然计划发布新功能并对现有网站进行改进，但一切都会更加关注后端，这样我就可以有足够的时间在前端工作，否则这将需要我几年的时间我已经完成了。 那么，有一些问题： - 我应该如何与用户沟通以保持他们的信任？ - 在什么时候新版本是否已准备好进行 Beta 测试？我正在逐个功能地构建它，但是我需要等到一切都完成（项目很大），还是您认为发布具有一些完整功能的未完成版本是用户会使用的东西？  - 考虑以某种方式合并这两个项目是否可行，这样如果我们确实发布了测试版，我们就可以拥有一个功能齐全的应用程序，可以重定向到旧的或新的部分？每次从旧到新切换时都必须执行 SPA 的启动过程，反之亦然，这是否有效？ 任何其他建议也非常受欢迎，因为我可能有很多事情要做没有想到。我知道这是一项艰巨的任务，而且我并不会通过更新 UI 来让自己变得轻松，但这是我充满激情的项目，我想把它做好，这样我就可以在未来的几年里继续致力于它。&lt; /p&gt;   由   提交 /u/lisannevdl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eha9r/how_to_handle_building_a_new_app_alongside/</guid>
-      <pubDate>Wed, 24 Jan 2024 13:38:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind CSS 提示 – 将页脚保持在页面底部。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eh564/tailwind_css_tip_keeping_the_footer_at_the_bottom/</link>
-      <description><![CDATA[      Tailwind CSS 提示： – 将页脚保持在页面底部。  在构建网站时，您可能会发现，如果页面内容不够长，则页脚下方会出现不需要的空间。为了确保页脚位于底部，请遵循此提示。  代码片段的图片。&lt; /a&gt; 此结构使用 Tailwind CSS 的 flexbox 实用程序来创建全高（最小屏幕高度）灵活的列布局，其中  ;内容会增长以填充可用空间，当内容不足以容纳时，会将&lt;页脚/&gt;推到视口的底部填写页面。  Tailwind CSS 类  class=&quot;flex flex-col min-h-screen  ⏤ 这些类应用于  标签以创建灵活的框布局。  flex：  ⏤ 这应用了灵活的盒子布局模型，允许您使用比传统更高效和可预测的方式设计复杂的布局结构块模型。  flex-col  ⏤ 这会将 Flex 方向修改为列，这意味着该元素的子元素（导航、主要内容、和页脚） 将布置在垂直列中。  min-h-screen  ⏤ 这可确保 &lt; 的最小高度/strong&gt; 元素至少为视口高度的 100%。如果内容比视口高度短，此规则可确保  元素拉伸以填充整个视口，从而防止页脚向上浮动。  flex-grow ⏤ 应用于元素，该类允许主要内容区域增长并填充任何可用空间。如果视口中的可用空间多于内容占用的空间，则 flex-grow 将使主要内容区域扩展以用完该空间，从而有效地将页脚推到视口的底部。  希望您觉得这有帮助！  ​   由   提交 /u/Michael_andreuzza   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eh564/tailwind_css_tip_keeping_the_footer_at_the_bottom/</guid>
-      <pubDate>Wed, 24 Jan 2024 13:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudinary 和 GitHub 文件结构同步</title>
-      <link>https://www.reddit.com/r/webdev/comments/19egqnq/cloudinary_and_github_file_structure_sync/</link>
-      <description><![CDATA[大家好， 所以我目前正在尝试使用 Hugo 构建一个网站，我使用 GitHub 和 netlify 托管该网站。我想使用很多图像，有些图像非常大，所以我决定使用 Cloudinary 作为 netlify 中的插件。 它运行良好，但我想将文件结构从 GitHub 调整为 cloudinary每当我将某些内容上传到 Cloudinary 并创建新文件夹时，这些内容都应该同步或者推送到 GitHub。这是否有可能以任何方式实现？如果可以，我该如何启用它？ 目前，Cloudinary 上的所有图片都位于以我的网站命名的单个文件夹中。 我已经搜索了Cloudinary 设置和 Google，我找不到任何相关信息。   由   提交/u/OlliO_o   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19egqnq/cloudinary_and_github_file_structure_sync/</guid>
-      <pubDate>Wed, 24 Jan 2024 13:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家公司刚刚向我发送了这份 PHP 带回家的作业，并希望我在 3 小时或更短的时间内完成它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19egapd/a_company_just_sent_me_this_php_takehome/</link>
-      <description><![CDATA[      ​ 你们认为对于半无经验的 PHP 全栈来说这是一个合理的带回家作业吗开发商？ （我有 1 年 PHP 全栈开发经验，一生中从未接触过 MVC（Laravel 之外）或 CLI php）。    由   提交/u/meguminsdfc   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19egapd/a_company_just_sent_me_this_php_takehome/</guid>
-      <pubDate>Wed, 24 Jan 2024 12:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>你不需要 JavaScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/19efnd6/you_dont_need_javascript_for_that/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19efnd6/you_dont_need_javascript_for_that/</guid>
-      <pubDate>Wed, 24 Jan 2024 12:09:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
