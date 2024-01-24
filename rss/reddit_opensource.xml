@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Jan 2024 18:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:54:18 GMT</lastBuildDate>
+    <item>
+      <title>ClosetArchive - 开源壁橱助理/经理（React-native 应用程序）</title>
+      <link>https://www.reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/</link>
+      <description><![CDATA[- 管理你的衣服。- 记录你的事件（例如，你去了某个地方并且你穿着：item1、item2、item3）下次活动你就知道穿什么了。 - 洗衣提醒。请检查一下并谢谢： https://github.com/bahaaTuffaha/Project-ClosetArchive   由   提交/u/Ag47-B   /u/Ag47-B  reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/19dvamb/closetarchive_open_source_closet_assistantmanager/</guid>
+      <pubDate>Tue, 23 Jan 2024 18:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>有什么可以编目/库存商店的吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/19duj6r/anything_that_can_catalogueinventory_stores/</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 23 Jan 2024 16:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>来我的音乐知识共享社区享受并给予帮助/帮助</title>
+      <title>来我的音乐知识共享社区享受和公民/帮助</title>
       <link>https://www.reddit.com/r/opensource/comments/19dorqr/come_enjoy_and_citiquehelp_in_my_music_knowledge/</link>
       <description><![CDATA[     &lt; /td&gt;  由   提交 /u/kosakgroove   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19dorqr/come_enjoy_and_citiquehelp_in_my_music_knowledge/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>帮助我更换所有小型企业软件。看看我们能有多接近！</title>
       <link>https://www.reddit.com/r/opensource/comments/19dlax5/help_me_replace_all_my_small_business_software/</link>
-      <description><![CDATA[唯一的规定是云中的数据必须可以由不同的计算机访问。对于此挑战，假设我无法使用 Odoo。 这是我尝试替换的软件：  电子邮件客户端 会计 CRM 电子签名 调查与分析表单构建器 电子邮件营销 具有所见即所得的网站构建器 广告设计器/布局 广告照片编辑器 广告视频编辑器 广告和播客音频编辑器 Office 套件  我不太了解我的选择是什么。我真的很想深入那些喜欢想象各种开源设置的人的头脑。  谢谢。我真的很期待看到 2024 年最好的选择是什么！   由   提交 /u/snowglowshow   [链接] [评论]]]></description>
+      <description><![CDATA[唯一的规定是云中的数据必须可以由不同的计算机访问。对于此挑战，假设我无法使用 Odoo。 这是我尝试替换的软件：  电子邮件客户端 会计 CRM 电子签名 调查与分析表单构建器 电子邮件营销 具有所见即所得的网站构建器 广告设计器/布局 广告照片编辑器 广告视频编辑器 广告和播客音频编辑器 Office 套件  我不太清楚我的选择是什么。我真的很想深入那些喜欢想象各种开源设置的人的头脑。  谢谢。我真的很期待看到 2024 年最好的选择是什么！   由   提交 /u/snowglowshow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19dlax5/help_me_replace_all_my_small_business_software/</guid>
       <pubDate>Tue, 23 Jan 2024 10:18:52 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>个人生活追踪器 (PLT) - 可在世界任何地点随时随地访问（通过互联网）</title>
       <link>https://www.reddit.com/r/opensource/comments/19cpb9d/personal_life_tracker_plt_accessible_anywhere/</link>
-      <description><![CDATA[嘿伙计们，我正在集思广益，开发一款名为“个人生活跟踪器”(PLT) 的开源 Web 应用程序，以帮助抛弃所有这些单独的跟踪器并在一个中组织生活地方。它将具有用于跟踪工作应用程序、财务、食品评论、生日等的模块，所有这些模块都具有人工智能驱动的洞察力，例如简历工作匹配、预算预测和食品情绪分析。另外，它是自托管的，因此数据保持私密性。我正在考虑使用 Flask、CoreJS、MongoDB 和 AWS S3，但我愿意接受建议！那么，有两个问题： - 您喜欢可定制的、人工智能驱动的生命追踪器的想法吗？- 您会推荐什么技术堆栈？ 如果您愿意，请告诉我有兴趣帮助构建这个，以及您希望看到哪些功能！   由   提交 /u/techievin   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我正在集思广益，开发一款名为“个人生活跟踪器”(PLT) 的开源 Web 应用程序，以帮助抛弃所有这些单独的跟踪器并在一个中组织生活地方。它将拥有用于跟踪工作应用程序、财务、食品评论、生日等的模块，所有这些模块都具有人工智能驱动的洞察力，例如简历工作匹配、预算预测和食品情绪分析。另外，它是自托管的，因此数据保持私密性。我正在考虑使用 Flask、CoreJS、MongoDB 和 AWS S3，但我愿意接受建议！那么，有两个问题： - 您喜欢可定制的、人工智能驱动的生命追踪器的想法吗？- 您会推荐什么技术堆栈？ 如果您愿意，请告诉我有兴趣帮助构建这个，以及您希望看到哪些功能！   由   提交 /u/techievin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19cpb9d/personal_life_tracker_plt_accessible_anywhere/</guid>
       <pubDate>Mon, 22 Jan 2024 06:29:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找 TTS 软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/19cguhx/i_am_looking_for_tts_software/</link>
-      <description><![CDATA[几年前，我在 Linux 上搜索了人类发声的 TTS 软件（德语语音输出），但没有成功。什么也没找到。 在 Linux 世界中（到 2024 年）真的还没有可以与 Balabolka 和 Read Aloud 相媲美的东西吗？  &amp; #32；由   提交/u/uffno   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19cguhx/i_am_looking_for_tts_software/</guid>
-      <pubDate>Sun, 21 Jan 2024 23:14:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
