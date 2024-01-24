@@ -4,7 +4,26 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 24 Jan 2024 03:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 06:17:30 GMT</lastBuildDate>
+    <item>
+      <title>Stripe 微交易：体验很差，我需要你的建议</title>
+      <link>https://feed.indiehackers.world/post/5d92d9ff98</link>
+      <description><![CDATA[https://www.dropbox.com/scl/fi /z3f9z4mq8u45qqi7xy3yr/request.png?rlkey=0o7j9fgx334zxize220ihn81c&amp;dl=0
+https://www.dropbox.com/scl/fi /5ze4x8iv80514fnw4kxff/offer.png?rlkey=hoe9kmvbi0z0bagakpl0rsl9u&amp;dl=0
+“您的案件仍在专家团队处理中，我会通知他们您仍在等待答复。一旦有更新要分享，团队就会通知您。”
+“我将为您联系我们专家团队的一名成员，该团队正在为您研究微交易的可用性。一旦有更新要分享，他们就会立即联系。 ”
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5d92d9ff98</guid>
+      <pubDate>Wed, 24 Jan 2024 05:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>离岸团队构建软件的好处</title>
+      <link>https://feed.indiehackers.world/post/2495f87d2e</link>
+      <description><![CDATA[该博客对本地开发团队和离岸团队进行了有用、主动的比较。具体来说，我们将分析每个因素如何与三个关键因素相比较：成本、人才和完成工作。如果您是中小型企业或希望扩大现有技术团队规模的企业，那么您会发现这种比较非常有用。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2495f87d2e</guid>
+      <pubDate>Wed, 24 Jan 2024 04:48:32 GMT</pubDate>
+    </item>
     <item>
       <title>当你感到困难时如何取得进步</title>
       <link>https://feed.indiehackers.world/post/00c676d3d1</link>
@@ -171,35 +190,6 @@ Pentaclay 的长期成功。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8a9db2ce90</guid>
       <pubDate>Tue, 23 Jan 2024 15:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用机器学习为日本游戏创建全自动 OCR</title>
-      <link>https://feed.indiehackers.world/post/c377e1af9f</link>
-      <description><![CDATA[游戏是从 OBS 流式传输的虚拟摄像机捕获的，该虚拟摄像机在便携式模式下运行，我使用 obsws-python 以编程方式进行控制。
-我将这一切都封装在一个 websockets 服务器下，以便与我现有的 web 应用程序进行通信，因此我几乎不需要添加任何新内容，因为所有繁重的工作都是在 Python 中完成的，我所要做的就是使用 base64 发送一个事件OCR 区域的编码图像。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c377e1af9f</guid>
-      <pubDate>Tue, 23 Jan 2024 15:35:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 LinkedIn 上发布的所有内容都是为了发布。深入探讨。</title>
-      <link>https://feed.indiehackers.world/post/7a81761ac9</link>
-      <description><![CDATA[‍__________________________________________________________________
-7 月后 - 8 月（正在测试定价；参与度几乎为零）
-&lt;小时/&gt;
-当我公开构建时，我正在尝试定价模型，并且希望获得反馈。
-您愿意每月支付多少费用来发现和保存来自直接竞争对手的电子邮件而不订阅他们的电子邮件列表？
-10-20 美元
-20-30 美元
-30-40 美元
-$40+
-&lt;小时/&gt;
-8 月后 - 八月
-&lt;小时/&gt;
-当谈到在 linked in、twitter 或其他技术人员聚会平台上增加受众时，您发现什么是有效的？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7a81761ac9</guid>
-      <pubDate>Tue, 23 Jan 2024 15:16:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
