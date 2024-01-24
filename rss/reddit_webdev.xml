@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 15:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 18:15:23 GMT</lastBuildDate>
+    <item>
+      <title>想知道是否有人可以帮助我解决这个问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19emodx/was_wondering_if_someone_could_help_me_with_this/</link>
+      <description><![CDATA[       由   提交 /u/TheNamesKT_   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19emodx/was_wondering_if_someone_could_help_me_with_this/</guid>
+      <pubDate>Wed, 24 Jan 2024 17:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML：编程语言</title>
+      <link>https://www.reddit.com/r/webdev/comments/19elz5w/html_the_programming_language/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19elz5w/html_the_programming_language/</guid>
+      <pubDate>Wed, 24 Jan 2024 17:06:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动健身应用程序存储用户数据位置查询（美国/欧盟法规）</title>
+      <link>https://www.reddit.com/r/webdev/comments/19elq6z/storing_user_data_location_query_for_mobile/</link>
+      <description><![CDATA[我正在开发一个移动健身应用程序，目前使用 Firebase 进行数据存储和处理。目前，我的 Firebase 服务器位于美国，在不同位置拥有多个服务器对我来说是一个挑战。 考虑到这一点，我在欧盟和美国都有用户，而且我正在寻找有关如何处理用户数据存储位置的指南，以遵守相关的数据保护和隐私法。 具体：  欧盟用户：  我了解 GDPR 对用户数据的处理和存储提出了某些要求。鉴于我当前的服务器位置位于美国，对遵守 GDPR 有何影响？我可以采取任何缓解策略或替代方法来确保 GDPR 合规性，而无需将服务器实际放置在欧盟吗？ 美国用户：虽然没有联邦数据保护像美国的 GDPR 一样，有州级法律和行业特定法规。我是否应该担心在美国服务器上为美国境内的用户存储数据？我是否应该考虑任何特定州的法规？  我想确保我的应用程序符合所有相关的隐私法，如果您有任何见解和经验，我将不胜感激，或社区关于在不同位置的多个服务器可能不可行的情况下处理用户数据位置的最佳实践的建议。 提前感谢您的帮助！   由   提交 /u/Blanketsniffer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19elq6z/storing_user_data_location_query_for_mobile/</guid>
+      <pubDate>Wed, 24 Jan 2024 16:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚可怕地轰炸了一次采访。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19elkv2/i_just_horrifically_bombed_an_interview/</link>
+      <description><![CDATA[我作为软件开发人员工作了 15 年，主要为财富 500 强公司工作，然后在美国政府担任首席开发人员。 这是我五年来第一次接受采访。我不记得批处理作业的名称，搞砸了非常基本的 Java 编码问题，并且无法解释 DOM 是什么。  焦虑他妈的很糟糕。我非常自信地接受了采访，然后我大脑中讨厌我的部分一直在说，“你确定吗，白痴？”，那部分赢了。 我只是感到尴尬。    由   提交/u/Odd_Sheepherder_3369   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19elkv2/i_just_horrifically_bombed_an_interview/</guid>
+      <pubDate>Wed, 24 Jan 2024 16:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助为 React 组件库（Vitest、Storybook、Istanbul）创建统一的代码覆盖率报告</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ekbp8/need_help_with_creating_unified_code_coverage/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ekbp8/need_help_with_creating_unified_code_coverage/</guid>
+      <pubDate>Wed, 24 Jan 2024 15:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道一首流行的免版税歌曲及其歌词我可以用于演示应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ejxug/does_anyone_know_of_a_popular_royaltyfree_song/</link>
+      <description><![CDATA[大家好， 我构建了一个 React 组件，它基本上是一个带有扭曲的音频播放器，但我需要版税 -演示版的免费歌曲。我发现的那个有点太激进了，歌词也没有（看来歌手不是以英语为母语，所以有语法错误）。 我在Pixabay之类的地方看过，看起来真的很难找到一些像样的东西来演示。我也需要一些歌词得体的东西（不合适、清晰、没有语法错误等）。 感谢您的时间！   由   提交 /u/bezdazen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ejxug/does_anyone_know_of_a_popular_royaltyfree_song/</guid>
+      <pubDate>Wed, 24 Jan 2024 15:40:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助在使用 PHP 的 WordPress 网站上延迟 jQuery。我之前的方法在上周之前一直运行良好，但突然失效了，过去几天我尝试的所有其他方法都失败了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ejouk/i_need_help_deferring_jquery_on_a_wordpress_site/</link>
+      <description><![CDATA[这是一个使用 Divi 主题的网站，它使用 jQuery 版本 3.6.0。如果 jQuery 被推迟，主题仍然可以完美运行，因此我在子主题的 function.php 文件中编写了一些 PHP，它将取消注册 jquery-core，然后再次注册它，从 https://code.jquery.com/jquery-3.6.0.min.js。它还会将 #deferload 添加到 URL 的末尾 (https://code.jquery.com /jquery-3.6.0.min.js#deferload）。然后我有一些额外的 PHP 可以用“”替换#deferload defer=&#39;推迟&#39;在 URL 的末尾。本质上，这使得我的 HTML 中的脚本标记中的 URL 看起来像 src=&quot;https://code .jquery.com/jquery-3.6.0.min.js&#39; defer=&#39;defer&#39;直到上周它都运行良好。无论出于何种原因，现在我的脚本标记中的单引号已更改为 &amp;#039;它破坏了链接。 到目前为止，我已经尝试用 \&#39; 转义单引号，用 \&quot; 转义双引号，并在 wp_register_script 函数中实现延迟策略，但没有任何效果。这是 PHP 的延迟策略： [ wp_register_script(&#39;jquery-core&#39;, &quot; https://code.jquery.com/jquery-3.6.0.min.js&quot;, false, null, array( &#39;strategy&#39; =&gt; &#39;defer&#39; )); ] 出于某种原因，添加延迟策略最终会添加 data-wp-strategy=&quot;defer&quot;到脚本标签，而不仅仅是常规的延迟属性，它实际上并不延迟脚本。有没有人有任何其他我可以实施的可能对我有用的方法？提前致谢。 编辑：没关系，只是想通了。字符串替换普通旧的“defer”的 data-wp-strategy修复了它。   由   提交/u/Marvel_plant  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ejouk/i_need_help_deferring_jquery_on_a_wordpress_site/</guid>
+      <pubDate>Wed, 24 Jan 2024 15:29:18 GMT</pubDate>
+    </item>
     <item>
       <title>有人尝试过为企业合作伙伴定制 CMS 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/19eiz2c/anyone_tried_a_custom_cms_for_a_corporate_partner/</link>
@@ -29,7 +78,7 @@
     <item>
       <title>如何与现有应用程序一起构建新应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/19eha9r/how_to_handle_building_a_new_app_alongside/</link>
-      <description><![CDATA[我（前端）与我的兄弟（后端）一起运行一个社交游戏社区网站作为（相当大的）业余爱好项目在Vue2中，需要升级。由于向后兼容性问题、不受支持的依赖项以及代码库的状态不太好，我决定从头开始重建一个新版本。虽然这需要很长时间，但我认为这是这个项目的最佳选择，因为我可以花时间正确设置它，解决它现在存在的问题/不可能的事情，给它一个新的外观，让它更有未来感，只是改善我自己的开发者体验。 我们一直对社区公开我们的开发情况。我们有一个公共路线图，用户可以建议功能，当我们决定下一步做什么时，我们会充分考虑这些。 该网站是免费的（除了一个小功能之外），但我们有一些支持我们的高级用户，因为他们认为这个项目很棒。它还没有产生任何收入，仅够支付我们的成本。我们希望与这些用户就此次重建保持开放态度，并尽可能多地让他们参与进来。最初是通过展示设计，但最终我想提供这个新版本的测试版访问权限。 不过，我有点不确定如何解决这一切。用户已经开始期待我们定期更新，我不希望他们因为这项艰巨的任务而失去对该项目的兴趣/信任。我们仍然计划发布新功能并对现有网站进行改进，但一切都将更加关注后端，这样我就可以有足够的时间在前端工作，否则这将需要我几年的时间我已经完成了。 那么，有一些问题： - 我应该如何与用户沟通以保持他们的信任？ - 在什么时候新版本是否已准备好进行 Beta 测试？我正在逐个功能地构建它，但是我需要等到一切都完成（项目很大），还是您认为发布具有一些完整功能的未完成版本是用户会使用的东西？  - 考虑以某种方式合并这两个项目是否可行，这样如果我们确实发布了测试版，我们就可以拥有一个功能齐全的应用程序，可以重定向到旧的或新的部分？每次从旧到新切换时都必须执行 SPA 的启动过程，反之亦然，这是否可行？ 任何其他建议也非常受欢迎，因为我可能有很多事情要做没有想到。我知道这是一项艰巨的任务，而且我并不会通过更新 UI 来让自己变得轻松，但这是我充满热情的项目，我想把它做好，这样我就可以在未来的几年里继续致力于它。&lt; /p&gt;   由   提交 /u/lisannevdl   [链接] [评论]]]></description>
+      <description><![CDATA[我（前端）与我的兄弟（后端）一起运行一个社交游戏社区网站作为（相当大的）业余爱好项目在Vue2中，需要升级。由于向后兼容性问题、不受支持的依赖项以及代码库的状态不太好，我决定从头开始重建一个新版本。虽然这需要很长时间，但我认为这是这个项目的最佳选择，因为我可以花时间正确设置它，解决它现在存在的问题/不可能的事情，给它一个新的外观，让它更有未来感，只是改善我自己的开发者体验。 我们一直对社区公开我们的开发情况。我们有一个公共路线图，用户可以建议功能，当我们决定下一步做什么时，我们会充分考虑这些。 该网站是免费的（除了一个小功能之外），但我们有一些支持我们的高级用户，因为他们认为这个项目很棒。它还没有产生任何收入，仅够支付我们的成本。我们希望与这些用户就此次重建保持开放态度，并尽可能多地让他们参与进来。最初是通过展示设计，但最终我想提供这个新版本的测试版访问权限。 不过，我有点不确定如何解决这一切。用户已经开始期待我们定期更新，我不希望他们因为这项艰巨的任务而失去对该项目的兴趣/信任。我们仍然计划发布新功能并对现有网站进行改进，但一切都会更加关注后端，这样我就可以有足够的时间在前端工作，否则这将需要我几年的时间我已经完成了。 那么，有一些问题： - 我应该如何与用户沟通以保持他们的信任？ - 在什么时候新版本是否已准备好进行 Beta 测试？我正在逐个功能地构建它，但是我需要等到一切都完成（项目很大），还是您认为发布具有一些完整功能的未完成版本是用户会使用的东西？  - 考虑以某种方式合并这两个项目是否可行，这样如果我们确实发布了测试版，我们就可以拥有一个功能齐全的应用程序，可以重定向到旧的或新的部分？每次从旧到新切换时都必须执行 SPA 的启动过程，反之亦然，这是否有效？ 任何其他建议也非常受欢迎，因为我可能有很多事情要做没有想到。我知道这是一项艰巨的任务，而且我并不会通过更新 UI 来让自己变得轻松，但这是我充满激情的项目，我想把它做好，这样我就可以在未来的几年里继续致力于它。&lt; /p&gt;   由   提交 /u/lisannevdl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19eha9r/how_to_handle_building_a_new_app_alongside/</guid>
       <pubDate>Wed, 24 Jan 2024 13:38:22 GMT</pubDate>
     </item>
@@ -41,16 +90,9 @@
       <pubDate>Wed, 24 Jan 2024 13:31:11 GMT</pubDate>
     </item>
     <item>
-      <title>https://imdb-api.com 下来了？？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eh4bu/httpsimdbapicom_down/</link>
-      <description><![CDATA[嗨，https://imdb-api.com对我来说似乎很糟糕..我最近开始在一个项目中使用它，并且很好奇它为什么会关闭，这是否是常见现象以及我是否应该更改为不同的数据源.. &lt; p&gt;谢谢！   由   提交 /u/x46uck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eh4bu/httpsimdbapicom_down/</guid>
-      <pubDate>Wed, 24 Jan 2024 13:30:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Cloudinary 和 GitHub 文件结构同步</title>
       <link>https://www.reddit.com/r/webdev/comments/19egqnq/cloudinary_and_github_file_structure_sync/</link>
-      <description><![CDATA[大家好， 所以我目前正在尝试使用 Hugo 构建一个网站，我使用 GitHub 和 netlify 托管该网站。我想使用很多图像，有些图像非常大，所以我决定使用 Cloudinary 作为 netlify 中的插件。 它运行良好，但我想将文件结构从 GitHub 调整为 cloudinary每当我将某些内容上传到 Cloudinary 并创建新文件夹时，这些内容都应该同步或者推送到 GitHub。这是否有可能以任何方式实现？如果可以，我该如何启用它？ 目前，Cloudinary 上的所有图片都位于以我的网站命名的单个文件夹中。 我已经搜索了Cloudinary 设置和 Google，我找不到任何相关内容。   由   提交/u/OlliO_o   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 所以我目前正在尝试使用 Hugo 构建一个网站，我使用 GitHub 和 netlify 托管该网站。我想使用很多图像，有些图像非常大，所以我决定使用 Cloudinary 作为 netlify 中的插件。 它运行良好，但我想将文件结构从 GitHub 调整为 cloudinary每当我将某些内容上传到 Cloudinary 并创建新文件夹时，这些内容都应该同步或者推送到 GitHub。这是否有可能以任何方式实现？如果可以，我该如何启用它？ 目前，Cloudinary 上的所有图片都位于以我的网站命名的单个文件夹中。 我已经搜索了Cloudinary 设置和 Google，我找不到任何相关信息。   由   提交/u/OlliO_o   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19egqnq/cloudinary_and_github_file_structure_sync/</guid>
       <pubDate>Wed, 24 Jan 2024 13:10:25 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/19efnd6/you_dont_need_javascript_for_that/</guid>
       <pubDate>Wed, 24 Jan 2024 12:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁负责管理不安全的 TLS 版本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eeplm/whos_responsible_for_managing_unsafe_tls_versions/</link>
-      <description><![CDATA[您好， 如果我开发一个在客户服务器上运行的 Web 应用程序，谁负责停用不安全的 TLS 版本？  作为开发人员，我应该在应用程序中停用例如 TLS 1.0，还是服务器管理员的任务是在 Windows 注册表中停用它？  我想说管理员是负责的，你的想法是什么？   由   提交/u/Frequent_Valuable_47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eeplm/whos_responsible_for_managing_unsafe_tls_versions/</guid>
-      <pubDate>Wed, 24 Jan 2024 11:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>您从哪里获取网络开发和托管新闻？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eeg9z/where_do_you_get_your_webdev_and_hosting_news/</link>
-      <description><![CDATA[大家好。 我正在寻找有关 webdev、编程和虚拟主机的更多新闻。我是一个主要使用 javascript 和 React 的全栈 Webdev，但我真的很喜欢所有编程。 提前致谢:)    ;由   提交 /u/Due-Function4447    reddit.com/r/webdev/comments/19eeg9z/where_do_you_get_your_webdev_and_hosting_news/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eeg9z/where_do_you_get_your_webdev_and_hosting_news/</guid>
-      <pubDate>Wed, 24 Jan 2024 10:55:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有创意组件库吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ee9en/are_there_any_creative_component_libraries/</link>
-      <description><![CDATA[我最近看到了这篇文章： 如果有的话，您会在 2024 年使用哪个组件库？ 投票最高的答案之一是 Mantine UI，我经常看到关于组件库：  目前外观最现代的库之一  这让我思考，大多数页面都力求“现代外观”并且最公开因此，图书馆努力为他们提供“现代外观”的组件。从 Booststrap，到 Material UI，再到 Mantine UI。 对我来说，现代的外观通常看起来很漂亮，非常实用并且能完成工作。但同时我也能感觉到这种美感常常有点空洞，缺乏更好的语言。 例如，你很少看到这些库中内置的作品集页面，因为作品集页面通常需要与网页内容一起传达个性。 这让我思考：是否有任何组件库具有“个性”，而不仅仅是功能性和现代外观。 IE。有创意组件库吗？   由   提交 /u/codefinbel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ee9en/are_there_any_creative_component_libraries/</guid>
-      <pubDate>Wed, 24 Jan 2024 10:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅凭 O Level 证书是否有可能获得 Web 开发工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19edcn7/is_it_possible_for_me_to_get_a_web_dev_job_with/</link>
-      <description><![CDATA[大家好，我今年 19 岁。我有兴趣学习全栈 Web 开发。我开始通过 YT 视频和免费在线资源学习。我正在慢慢制作作品集并致力于我的 LeetCode。由于一些经济问题，我在 O Level 毕业后无法完成学业，目前我在一家餐厅担任助理厨师。我如何找到网络开发工作？可以吗？ 谢谢。   由   提交 /u/RahulBabakachotanunu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19edcn7/is_it_possible_for_me_to_get_a_web_dev_job_with/</guid>
-      <pubDate>Wed, 24 Jan 2024 09:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建托管 100 GB 视频的网站的最佳解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ed9oz/best_solution_to_create_a_website_to_host_100_gb/</link>
-      <description><![CDATA[您好！ 目前正在考虑我的下一个个人项目，以创建一个网页来托管我的视频。它们总共约为 100GB，我不打算很快添加任何东西，所以应该绰绰有余。正在查看 one.com，因为他们对 100GB 的价格有一些合理的价格。 任何在选项和定价方面有经验的人？如有任何反馈，我们将不胜感激。 ​ ​   由   提交/u/Hawsa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ed9oz/best_solution_to_create_a_website_to_host_100_gb/</guid>
-      <pubDate>Wed, 24 Jan 2024 09:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>远离 WP，包括设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ecjp9/moving_away_from_wp_including_design/</link>
-      <description><![CDATA[我们决定放弃 WordPress。它的灵活性很好，但维护和错误给我们的小团队带来了太多麻烦。 当前 WP 设置：约 30 个页面、约 20 个帖子、Siteground Geek 托管、Elementor Pro、Google Site Kit、 Hubspot 集成，仅英语。 我一直在测试 Webflow、Wix、Squarespace，但它们都缺少一件重要的事情：从 WP 轻松导入。 我正在寻找一种解决方案可以轻松迁移所有 WP 页面，包括设计。我不想重建所有页面。市场上有提供此功能的解决方案吗？   由   提交/u/koekoek52538  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ecjp9/moving_away_from_wp_including_design/</guid>
-      <pubDate>Wed, 24 Jan 2024 08:36:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
