@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 08:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 12:22:06 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该网页内容是Lumiere网站上的一个页面，该页面致力于时空d [...]</title>
-      <link>https://t.me/hn_summary/70715</link>
-      <description><![CDATA[Lumiere：用于生成真实视频的时空扩散模型
-网页内容是 Lumiere 网站上的一个页面，专门用于生成真实视频的时空扩散模型。该模型的作者包括来自谷歌研究院、魏茨曼研究所、特拉维夫大学和以色列理工学院的研究人员。该页面还感谢各个个人的合作和支持，以及对他们实验中使用的图像和视频的引用。]]></description>
-      <guid>https://t.me/hn_summary/70715</guid>
-      <pubDate>Wed, 24 Jan 2024 08:55:38 GMT</pubDate>
+      <title>[媒体] 基因检测公司 23andMe 在 10 月份的数据泄露后面临强烈抵制，[...]</title>
+      <link>https://t.me/hn_summary/70726</link>
+      <description><![CDATA[据报道，23andMe 将责任转嫁给客户 
+基因检测公司 23andMe 在 10 月份发生数据泄露事件后面临强烈抵制，黑客窃取了其数百万客户的数据。据报道，该公司现在将此次泄露归咎于受害者，并表示他们在回收登录凭据时应该更加谨慎。这一回应激起了受影响客户及其法律代表的愤怒，他们指责 23andMe 试图逃避责任。该公司已要求所有用户重置密码并实施额外的安全措施，但批评者认为这不足以解决违规行为的严重性。]]></description>
+      <guid>https://t.me/hn_summary/70726</guid>
+      <pubDate>Wed, 24 Jan 2024 12:22:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Palworld 是一款受《口袋妖怪》启发的生存建设游戏，取得了巨大的成功， [...]</title>
-      <link>https://t.me/hn_summary/70714</link>
-      <description><![CDATA[Palworld 周末每小时销售 86,000 份，销量突破 500 万份&lt; /a&gt;
-Palworld 是一款受 Pokemon 启发的生存建设游戏，取得了巨大成功，在短短三天内销量就突破了 500 万份。该游戏已登上 Steam 最受欢迎游戏榜首，超越了《反恐精英 2》、《Dota 2》、《PUBG：绝地求生》和《Apex 英雄》等热门游戏。虽然它未能创下历史并发用户记录，但它已经打破了《赛博朋克 2077》和《Elden Ring》等游戏创下的历史峰值。开发者 Pocketpair 对社区的支持表示感谢，但也承认处理大量错误报告和支持请求的挑战。工作室正在积极修复已发现的问题。]]></description>
-      <guid>https://t.me/hn_summary/70714</guid>
-      <pubDate>Wed, 24 Jan 2024 08:48:27 GMT</pubDate>
+      <title>[媒体] Jamsocket 是一个允许用户大规模部署 WebSocket 应用程序的平台。</title>
+      <link>https://t.me/hn_summary/70725</link>
+      <description><![CDATA[Jamsocket (YC W22) 正在招聘一名高级 Rust 系统工程师（纽约市） /远程）
+Jamsocket 是一个允许用户大规模部署 WebSocket 应用程序的平台。与 AWS Lambda 类似，Jamsocket 按需启动临时进程，并在存在连接时保持它们处于活动状态。客户将该平台用于各种目的，包括部署实时多人数据后端和运行代码执行沙箱。 Jamsocket 是一家开源公司，其名为 Plane 的核心基础设施已获得 MIT 许可。他们目前正在招聘一名高级系统工程师来为 Plane 做出贡献，帮助构建托管平台路线图，并参与待命轮换。该公司是一家种子期初创公司，得到 Y Combinator 和其他投资者的支持。]]></description>
+      <guid>https://t.me/hn_summary/70725</guid>
+      <pubDate>Wed, 24 Jan 2024 12:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>我购买了 mysqldump.com 并构建了它，你觉得怎么样？</title>
-      <link>https://t.me/hn_summary/70713</link>
-      <description><![CDATA[我买了 mysqldump.com 并构建了这个，你觉得怎么样？&lt; /a&gt;
-网页内容的作者正在讨论他们购买域名 mysqldump.com&lt; /a&gt; 以及他们使用它构建的网站。他们强调了 mysqldump 作为备份和恢复 MySQL 数据库的重要工具的重要性。作者强调了它在确保数据安全、简化数据库迁移、实现版本控制和简化日常维护任务方面的重要性。他们将 mysqldump 描述为一种多功能工具，对于各种专业水平的 MySQL 用户都很有价值。内容中没有提及任何争议或令人惊讶的元素。]]></description>
-      <guid>https://t.me/hn_summary/70713</guid>
-      <pubDate>Wed, 24 Jan 2024 08:15:11 GMT</pubDate>
+      <title>[媒体] 这个项目的目的是提供一个简单的脚本和 Google API 来获取网站 [...]</title>
+      <link>https://t.me/hn_summary/70724</link>
+      <description><![CDATA[显示 HN：用于让您的网站在 Google 上建立索引的开源脚本
+该项目的目的是提供一个简单的脚本和 Google API，以便在 48 小时内让网站在 Google 上建立索引。作者提到，不涉及任何技巧或黑客，并且该脚本使用 Google Indexing API。作者还指出，虽然不能绝对保证每个页面都会被索引，但最近的测试显示了很高的成功率。该项目需要 Node.js、具有经过验证的网站的 Google Search Console 帐户以及 Google Cloud 上的帐户。该脚本可以运行多次，并且只会索引尚未索引的页面。]]></description>
+      <guid>https://t.me/hn_summary/70724</guid>
+      <pubDate>Wed, 24 Jan 2024 11:56:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇题为“WTF Ubiquiti”的博文中，作者表达了对其 [...]</title>
-      <link>https://t.me/hn_summary/70712</link>
-      <description><![CDATA[WTF Ubiquiti
-在这篇题为“WTF Ubiquiti”的博客文章中，作者表达了对他们最近与网络硬件公司 Ubiquiti 的经历的失望。笔者之前拥有Unifi AP AC-lite，最近决定升级到UC6+。设置过程很顺利，但新的 AP 每天开始向主机“unifi”发送 85,000 次垃圾邮件请求。作者发现这种行为是新的，在之前的AP中没有出现过。要阻止垃圾邮件发送，控制器必须配对并采用 AP，但作者没有 Unifi 控制器。作者还提到，关闭控制器并不能阻止垃圾邮件发送。作者表达了他们对网络硬件的渴望，该网络硬件只需提供公共连接而无需任何云产品。他们提到使用 OpenWrt 刷新 AP 作为解决方案的可能性。]]></description>
-      <guid>https://t.me/hn_summary/70712</guid>
-      <pubDate>Wed, 24 Jan 2024 08:14:01 GMT</pubDate>
+      <title>智能手机和其他智能设备中常见的环境光传感器构成了隐私问题 [...]</title>
+      <link>https://t.me/hn_summary/70723</link>
+      <description><![CDATA[环境光传感器带来成像隐私风险
+智能手机和其他智能设备中常见的环境光传感器会带来隐私风险，因为黑客可以利用它们在用户不知情或未经许可的情况下捕获用户触摸交互的图像。麻省理工学院计算机科学和人工智能实验室 (CSAIL) 的研究人员发现，这些传感器可以与显示器结合使用，捕获用户手势的图像，例如滚动或滑动，以及他们在观看视频时如何与设备交互。研究人员提出了软件和硬件缓解措施来解决这种隐私威胁，包括收紧权限以及降低传感器的精度和速度。尽管该漏洞存在，但当前图像检索率较低，限制了直接风险。]]></description>
+      <guid>https://t.me/hn_summary/70723</guid>
+      <pubDate>Wed, 24 Jan 2024 11:52:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章探讨了富人不遮盖窗户的趋势[...]</title>
-      <link>https://t.me/hn_summary/70711</link>
-      <description><![CDATA[为什么富人不遮盖窗户&lt; br/&gt;
-这篇文章探讨了美国各地的富人在高端住宅中不遮盖窗户的趋势。作者强调，这种现象在城市中最为明显，并且在生活在中产阶级城市地区的富有的年轻白人中更为常见。文章还提到，收入超过 15 万美元的美国人不遮盖窗户的可能性几乎是年收入 20,000 美元至 29,000 美元的美国人的两倍。作者讨论了未遮盖的窗户的好处，例如自然光和外部世界的视野，但也承认对隐私和财务的担忧。文章最后指出，未遮盖的窗户已成为一种身份象征和一种微妙的特权声明。]]></description>
-      <guid>https://t.me/hn_summary/70711</guid>
-      <pubDate>Wed, 24 Jan 2024 08:12:52 GMT</pubDate>
+      <title>[媒体] eBay 宣布将裁员约 1,000 名员工，这意味着 [...]</title>
+      <link>https://t.me/hn_summary/70722</link>
+      <description><![CDATA[eBay 正在裁员 9%&lt; br/&gt;
+eBay宣布将裁员约1000名员工，约占其员工总数的9%。该公司已要求美国员工从1月24日开始在家办公，受裁员影响的员工将很快收到通知。与 Discord 和 Riot Games 等其他公司不同，eBay 没有提供有关遣散费或福利的详细信息。除了裁员之外，eBay 还计划减少其雇用的承包商数量。该公司将裁员归咎于近年来雇佣了太多员工，导致其开支超过了业务增长。]]></description>
+      <guid>https://t.me/hn_summary/70722</guid>
+      <pubDate>Wed, 24 Jan 2024 11:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌正面临韩国部分员工的抵制，他们拒绝离开 [...]</title>
-      <link>https://t.me/hn_summary/70710</link>
-      <description><![CDATA[Google 在韩国的裁员计划遇到了障碍，因为一些员工拒绝走吧
-谷歌正面临韩国一些员工的抵制，尽管谷歌努力裁员，但他们拒绝离开公司。这家科技巨头在韩国拥有约 800 名全职员工，自去年以来一直在努力缩减员工规模。然而，当地劳动法禁止拥有五名或以上工人的雇主无正当理由解雇他们。一些员工选择留下来是因为他们不想面对寻找新工作的不确定性。去年，大约 100 名谷歌韩国员工成立了工会，以解决对工作保障的担忧。谷歌已经解雇了数千名员工，预计今年还会裁员。]]></description>
-      <guid>https://t.me/hn_summary/70710</guid>
-      <pubDate>Wed, 24 Jan 2024 08:11:44 GMT</pubDate>
+      <title>[媒体]阿拉斯加航空首席执行官 Ben Minicucci 在接受采访时透露，对c [...]</title>
+      <link>https://t.me/hn_summary/70721</link>
+      <description><![CDATA[阿拉斯加首席执行官：我们在 Max 飞机上发现了许多松动的螺栓
+阿拉斯加航空首席执行官本·米尼库奇 (Ben Minicucci) 在接受采访时透露，在最近发生的一起事故后对该航空公司的波音 737 Max 9 飞机进行的检查发现，“许多”飞机的螺栓松动。这起事件中，一架 Max 9 喷气式飞机的一块面板在半空中爆炸，促使美国联邦航空管理局停飞所有波音 Max 9 飞机并启动安全调查。立法者还对波音公司的质量控制系统表示担忧。阿拉斯加航空因 Max 9 飞机停飞而被迫取消并重新安排航班。米尼库奇呼吁波音公司改善质量控制，防止再次发生类似事件。]]></description>
+      <guid>https://t.me/hn_summary/70721</guid>
+      <pubDate>Wed, 24 Jan 2024 11:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>作者讨论了CGI程序和FastCGI系统的部署模型。</title>
-      <link>https://t.me/hn_summary/70709</link>
-      <description><![CDATA[CGI 程序具有有吸引力的一步部署模型&lt; br/&gt;
-作者讨论了CGI程序和FastCGI系统的部署模型。他们解释说，CGI 程序有一个简单的一步部署过程，您可以通过将程序复制到目录中来轻松安装、删除或更新程序。相比之下，FastCGI 系统需要两步配置过程，并且通常需要为每个应用程序提供单独的服务器。作者认为FastCGI的多步骤部署过程可能更适合静态应用程序，而CGI提供了更加分布式和用户友好的部署模型。他们还提到，CGI 程序在 Apache 中具有简单的调试功能，程序生成的任何输出都会记录在错误日志中。]]></description>
-      <guid>https://t.me/hn_summary/70709</guid>
-      <pubDate>Wed, 24 Jan 2024 08:06:36 GMT</pubDate>
+      <title>【媒体】文章讨论了 2024 年迄今为止发生的重大科技裁员事件。</title>
+      <link>https://t.me/hn_summary/70720</link>
+      <description><![CDATA[2024 年迄今为止所有重大科技裁员&lt; br/&gt;
+本文讨论了 2024 年迄今为止发生的重大科技裁员。还总结了专家对2024年经济、市场、地缘政治、科技等方面的预测和预测。专家预测通胀将持续降温，各大银行降息，股票和债券将利好预测。全球GDP增长预计将低于10年平均水平，印度的增长可能超过中国。随着世界各地持续不断的冲突和选举，地缘政治紧张局势预计将持续下去。文章还强调了 2024 年人工智能面临的挑战和潜在的监管。总体而言，强调了这些因素的相互关联性。]]></description>
+      <guid>https://t.me/hn_summary/70720</guid>
+      <pubDate>Wed, 24 Jan 2024 11:13:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃克森美孚正面临激进投资者的强烈反对，他们敦促该公司减少 [...]</title>
-      <link>https://t.me/hn_summary/70708</link>
-      <description><![CDATA[埃克森美孚对股东行使其权利大发雷霆&lt; br/&gt;
-埃克森美孚正面临激进投资者的强烈反对，他们敦促该公司减少碳排放。股东 Arjuna Capital 和 Follow This 提出了一项决议，呼吁埃克森美孚解决因使用其产品而产生的范围 3 排放问题。然而，埃克森美孚已向联邦法院提起诉讼，要求在下次年会上忽略该决议。此举引发了人们对股东权力和公司取悦股东的责任的质疑。不断变化的社会规范和对气候变化的日益关注促使包括主要资产管理公司在内的更多股东行使自己的权利并推动道德实践。]]></description>
-      <guid>https://t.me/hn_summary/70708</guid>
-      <pubDate>Wed, 24 Jan 2024 08:02:22 GMT</pubDate>
+      <title>[媒体]Explorify 是一款创新的旅行推荐应用程序，可以消除搜索的麻烦 [...]</title>
+      <link>https://t.me/hn_summary/70719</link>
+      <description><![CDATA[显示 HN：我讨厌在旅行中寻找地点，所以我创建了一个自动化此操作的工具
+Explorify 是一款创新的旅行推荐应用程序，可以省去搜索旅行地点的麻烦。作为这个工具的创建者，我理解花费大量时间研究和计划假期的挫败感。这就是我开发 Explorify 的原因，这是一款人工智能驱动的应用程序，可以自动化流程并根据您的喜好提供个性化建议。通过 Explorify，您可以在一处发现隐藏的瑰宝、热门景点和当地最爱。告别无休止的滚动，让 Explorify 为您完成工作。立即尝试，让您的下一次旅行变得轻而易举！]]></description>
+      <guid>https://t.me/hn_summary/70719</guid>
+      <pubDate>Wed, 24 Jan 2024 11:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 达美航空一架波音 757 客机在准备起飞时，前轮掉落 [...]</title>
-      <link>https://t.me/hn_summary/70707</link>
-      <description><![CDATA[等待起飞的波音 757 客机前轮掉落 
-达美航空一架波音 757 客机在亚特兰大哈茨菲尔德-杰克逊国际机场准备起飞时，前轮掉落。幸运的是，没有乘客或机组人员受伤。这架飞机原定飞往哥伦比亚波哥大，乘客被安排搭乘替代航班。波音公司拒绝就该事件发表评论，并将问题转交给该航空公司。美国联邦航空管理局（FAA）目前正在调查这一事件。此前，一架波音 737-900ER 客机的塞门在飞行途中爆裂，导致 171 架 MAX 9 喷气式飞机停飞。]]></description>
-      <guid>https://t.me/hn_summary/70707</guid>
-      <pubDate>Wed, 24 Jan 2024 07:54:12 GMT</pubDate>
+      <title>在这篇博文中，作者讨论了与 rel [...] 相关的资源管理器崩溃激增。</title>
+      <link>https://t.me/hn_summary/70718</link>
+      <description><![CDATA[不知从何跳转到指令中间的情况( 2023）
+在这篇博文中，作者讨论了 Windows Insider 版本发布时发生的资源管理器崩溃高峰。他们分析故障转储并在代码中发现可疑指令。经过进一步调查，他们发现第三方 DLL（“shell 增强”程序的一部分）是造成崩溃的原因。该程序修补了资源管理器以添加增强功能，但其中一个修补程序出现了问题。有趣的部分是程序如何找到要修补的函数 - 它联系 Microsoft 符号服务器以获取资源管理器中所有函数的名称和地址。作者还提到，这些补丁程序经常会导致每月安全补丁崩溃，而且无法回滚。他们希望受影响的用户能够意识到这个问题并卸载或禁用“shell 增强”程序。]]></description>
+      <guid>https://t.me/hn_summary/70718</guid>
+      <pubDate>Wed, 24 Jan 2024 10:51:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]事情发生了令人惊讶的转变，一名青少年因炸弹骗局在英国 [...]</title>
-      <link>https://t.me/hn_summary/70706</link>
-      <description><![CDATA[英国安全部门拦截 Snapchat DM 后，青少年因炸弹骗局被捕
-令人惊讶的是，英国安全部门截获了 Snapchat 私信后，一名青少年因炸弹骗局被捕。然而，值得注意的是，此人并未面临恐怖主义指控或可能被判入狱。相反，如果被判有罪，他可能会被处以最高 22,500 欧元（19,300 英镑）的罚款。西班牙国防部还要求支付 95,000 欧元的费用。这一事件突显了发出虚假威胁的潜在后果，即使是通过 Snapchat 等看似私人的渠道。]]></description>
-      <guid>https://t.me/hn_summary/70706</guid>
-      <pubDate>Wed, 24 Jan 2024 07:48:03 GMT</pubDate>
+      <title>[媒体]人工智能“幻觉”向BC省提起的虚假法律案件</title>
+      <link>https://t.me/hn_summary/70717</link>
+      <description><![CDATA[人工智能“幻觉”向卑诗省提起的虚假法律案件首先在加拿大法庭
+BC 省是加拿大首创。据报道，法庭目睹了利用人工智能（AI）制造虚假法律案件的情况。律师 Lorne 和 Fraser MacLean 发现民事案件中的对方律师向 BC 省提交了虚假判例法。最高法院。该案涉及高净值家庭子女最大利益问题。对方律师据称使用人工智能聊天机器人 ChatGPT 来准备法律摘要，导致提交了不存在的案件。众所周知，像 ChatGPT 这样的人工智能聊天机器人会生成真实但不正确的信息，这种现象被称为“幻觉”。这一事件引发了人们对法律体系潜在影响以及对人工智能生成材料进行事实核查的必要性的担忧。]]></description>
+      <guid>https://t.me/hn_summary/70717</guid>
+      <pubDate>Wed, 24 Jan 2024 09:40:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
