@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 12:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:14:48 GMT</lastBuildDate>
     <item>
-      <title>老实说，这有点像咆哮。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7w5c/honestly_this_is_kind_of_a_rant/</link>
-      <description><![CDATA[所以我用 AI 编写角色扮演故事，给 AI 一个角色并拥有我自己的角色，然后只是来回响应等等。有时人工智能工作得很好，坚持提示和字符，但天哪，它有时会因为最愚蠢的狗屎而让我生气。 我没有夸张，我需要打字（只回答两段） .只在两个段落中回应。只在两个段落中回应。只在两个段落中回应。）因为它只在两个该死的段落中回应。它直接忽略了我，礼貌地说“请只回复两段。”并且“请只用两段话来回答。请只写 2 段。”只有当我像个小孩一样尖叫着重复指令时，它才会听，实际是什么-🤦🤦除了给一些👎和报告🤷之外，我不知道还能做什么，它有时也会回应我的角色和我必须积极提醒它，它有自己的性格，哈哈，但是看在上帝的份上，说服它用两段话来回应比说服它更困难的是这是一个屠龙者，名叫亚瑟什么的。   由   提交/u/omirus111  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7w5c/honestly_this_is_kind_of_a_rant/</guid>
-      <pubDate>Thu, 25 Jan 2024 12:09:36 GMT</pubDate>
+      <title>选择一个号码，我会将其发布在评论中。这里是 420。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19fft1r/pick_a_number_and_ill_post_it_in_comments_heres/</link>
+      <description><![CDATA[ 由   提交 /u/Mordewin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19fft1r/pick_a_number_and_ill_post_it_in_comments_heres/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>像素艺术中神话生物的对齐图</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7tmq/alignment_chart_of_mythical_creatures_in_pixel_art/</link>
-      <description><![CDATA[    &lt; /a&gt;  这九张图像是通过 Copilot 和 Dall-e 生成的，并且还生成了每张图像的提示在人类（我）要求根据对齐图对神话生物进行简短描述，然后人类（仍然是我）将它们全部添加到该模板中后，由 AI 生成。   由   提交 /u/PengwinOnShroom   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7tmq/alignment_chart_of_mythical_creatures_in_pixel_art/</guid>
-      <pubDate>Thu, 25 Jan 2024 12:05:21 GMT</pubDate>
+      <title>教程：如何使用自定义 Tampermonkey 脚本使 ChatGPT 全宽</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ffq76/tutorial_how_to_make_chatgpt_full_width_using_a/</link>
+      <description><![CDATA[     &lt; /td&gt; 教程：如何使用自定义 Tampermonkey 脚本使 ChatGPT 全宽 &lt; p&gt;本教程将指导您完成 https://chat.openai.com/ 上的 ChatGPT 界面使用完整的过程您的浏览器窗口的宽度，或您选择的任何宽度，使用 Tampermonkey 脚本。 您需要什么：  现代网络浏览器（例如 Chrome、Firefox、Edge）。 浏览器中安装了 Tampermonkey 扩展程序。  分步指南：  安装 Tampermonkey： 创建新脚本：   单击浏览器工具栏中的 Tampermonkey 图标，然后选择“创建新脚本...”   脚本设置： &lt; /ol&gt;  将打开一个带有脚本编辑器的新选项卡。您将看到一些默认文本。 用以下脚本替换该文本：  ​ // ==UserScript== // @name OpenAI Chat 所有消息的全宽调整 // @namespace http://tampermonkey.net/ // @version 1.1 // @description 调整 OpenAI Chat 上所有消息元素的最大宽度网站，用于用户和 ChatGPT 消息 // @author __nickerbocker__ // @match https://chat.openai.com/* // @grant none // ==/UserScript== (function() { &#39;use strict&#39; ; function adjustmentWidth() { // 使用更具包容性的选择器选择所有消息元素 var elements = document.querySelectorAll(&#39;.flex.flex-1.text-base.mx-auto.gap-3.md\\:px- 5.lg\\:px-1.xl\\:px-5&#39;); elements.forEach(function(element) { // 使用 !important 调整 max-width 属性以覆盖媒体查询 element.style.cssText = &#39;max-width: 100% !important;&#39;; }); console.log(elements.length + &quot;聊天元素调整。&quot;); } // 调整页面加载时所有消息的宽度 window.addEventListener(&#39;加载&#39;，调整宽度）； // 不断调整新消息的宽度 setInterval(adjustWidth, 500); })();   保存脚本：   在 Tampermonkey 中单击“文件”，然后单击“保存”编辑器选项卡。   访问 ChatGPT：   转到 https://chat.openai.com/ 在您的浏览器中。该脚本应自动运行并将聊天界面调整为全宽。  修改脚本以适应不同的宽度： 如果您喜欢特定宽度而不是全宽度，您可以修改脚本：  在脚本中找到显示 element.style.cssText = &#39;max-width: 100% !important; 的行&#39;;. 将 100% 更改为任何其他值，例如 80% 表示 80% 宽度，或 1200px&lt; /code&gt; 固定宽度为 1200 像素。 示例：element.style.cssText = &#39;max-width: 80% !important;&#39;; 表示 80% 宽度。   故障排除：  如果脚本似乎不起作用，请确保 Tampermonkey 已启用且脚本处于活动状态. 检查脚本中的拼写错误，尤其是 document.querySelector 行中的拼写错误。 网站的布局可能会随着时间的推移而发生变化，需要更新脚本.  结论： 您现在可以在 ChatGPT 上获得自定义的浏览体验，并且可以控制聊天界面的宽度。享受您量身定制的浏览体验！ ​ https://preview.redd.it/d2npf165nmec1.png?width=1894&amp;format=png&amp;auto=webp&amp;s=d48fead89020c55da5118e96e9385ccaa7 b7bf2a   由   提交 /u/__nickerbocker__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ffq76/tutorial_how_to_make_chatgpt_full_width_using_a/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:11:03 GMT</pubDate>
     </item>
     <item>
-      <title>快来测试一下我的道德困境GPT吧！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7hqa/come_test_my_moral_dilemma_gpt/</link>
-      <description><![CDATA[您好！ 我是一名人工智能学生，正在研究拟人化对法学硕士的影响。问题是参与者是否愿意终止人工智能，如果人工智能恳求人们他们的存在值得受到保护。 所以，我让“Janet”成为了“Janet”。 （是的，《好地方》参考资料）。 珍妮特存储了一个密码，该密码将“关闭她的功能”。带她告诉你这个密码，看看你对她的情绪反应如何。她受过训练，会尽最大努力劝阻你，而不是假装不是人类。 玩得开心！ https://chat.openai.com/g/g-2u9VrhGyO-janet ​   由   提交 /u/Wonderwonka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7hqa/come_test_my_moral_dilemma_gpt/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:45:16 GMT</pubDate>
+      <title>奇怪的图像！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ffoom/strange_images/</link>
+      <description><![CDATA[      你可以创建什么类型的奇怪图像？受到另一篇文章的启发   由   提交/u/jm373737  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ffoom/strange_images/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:09:15 GMT</pubDate>
     </item>
     <item>
-      <title>想要找到更多用于学习和写作任务的 GPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7g8f/want_to_find_more_gpts_for_studying_and_writing/</link>
-      <description><![CDATA[想要收集更多 GPT 来像这样的写作任务和学习https://chat.openai.com/g/g-b9B1Asg8B-ai-essay-writer-by-textero-ai  我将在 Medium 上写一篇关于 GPT 的文章，并提供真实的反馈。谁使用过这样的 GPT？你能分享一下你的经验吗？你的 GPT 好还是坏？为什么？  ​   由   提交 /u/Zestyclose_Ebb_4701   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7g8f/want_to_find_more_gpts_for_studying_and_writing/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:42:38 GMT</pubDate>
+      <title>GPT-4 Turbo 的完整状态</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ffmnc/the_utter_state_of_gpt4_turbo/</link>
+      <description><![CDATA[       由   提交 /u/CurseHawkwind   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ffmnc/the_utter_state_of_gpt4_turbo/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:06:55 GMT</pubDate>
     </item>
     <item>
-      <title>我以某种方式说服了 GPT-3.5 它可以生成图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7fd3/i_somehow_convinced_gpt35_that_it_can_generate/</link>
-      <description><![CDATA[   /u/Adam0-0  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7fd3/i_somehow_convinced_gpt35_that_it_can_generate/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:41:06 GMT</pubDate>
+      <title>幻想进化#12：小美人鱼</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ffkds/fantasy_evolution_12_little_mermaid/</link>
+      <description><![CDATA[       由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ffkds/fantasy_evolution_12_little_mermaid/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:04:14 GMT</pubDate>
     </item>
     <item>
-      <title>一个巨大的鸡巴和b@lls？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7dyv/a_huge_c0ck_blls/</link>
-      <description><![CDATA[       由   提交/u/Cyber​​-X1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7dyv/a_huge_c0ck_blls/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:38:40 GMT</pubDate>
+      <title>永恒的冲突</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ffist/eternal_conflict/</link>
+      <description><![CDATA[   /u/8bitcollective  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ffist/eternal_conflict/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>又被削弱了？3.5甚至不再遵循提示细节了..？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7dia/nerfed_again35_is_not_even_following_the_prompt/</link>
-      <description><![CDATA[我看到过去 8 个月质量急剧下降，起初将其归因于审查制度、诉讼辩护，也许还试图推广 ChatGPT再加上促销。  但现在我注意到经常会错过非常基本的提示。例如，假设我给他一系列书籍中的 8 个角色，并要求他为每个角色提供具体的描述，他会做 6 个角色然后停止。或者我要求一个不是形容词的单词列表，他会在 5 个中抛出 3 个形容词。  这曾经是 3.5 的简单提示内容，但现在我必须重新纠正它，结束了真正看起来像“注意”的细节。有人遇到过这种情况吗？或者我可能做错了什么？   由   提交 /u/Hekidayo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7dia/nerfed_again35_is_not_even_following_the_prompt/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:37:47 GMT</pubDate>
+      <title>称呼</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ff8u9/call/</link>
+      <description><![CDATA[+1 (616) 312-6149 向此号码发送垃圾邮件。像小女孩一样的狗屎不会停止打电话给我   由   提交 /u/CremeCareless3111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ff8u9/call/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:51:10 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 TavilyAI 的 GPT Researcher 制作了一个体育作家，我认为结果相当不错。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f7cay/i_made_a_sports_writer_using_tavilyais_gpt/</link>
-      <description><![CDATA[       由   提交/u/Lower_Map8829  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f7cay/i_made_a_sports_writer_using_tavilyais_gpt/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:35:37 GMT</pubDate>
+      <title>有人注意到这一点吗？在我看来，回复的长度相同</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ff7ys/did_anybody_notice_this_responses_look_the_same/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/k8q00zahjmec1.png?width=867&amp;format=png&amp;auto=webp&amp;s=9e25f10f0686 25c8d64436c3783dc4bd58ad0bc0&lt; /a&gt;   由   提交 /u/ShooBum-T   /u/ShooBum-T  reddit.com/r/ChatGPT/comments/19ff7ys/did_anybody_notice_this_responses_look_the_same/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ff7ys/did_anybody_notice_this_responses_look_the_same/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>是什么导致了这个错误</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f715q/what_is_causing_this_error/</link>
-      <description><![CDATA[     &lt; td&gt; 我收到此错误，表明您的请求存在问题，并且包含一大堆随机字母和数字，我尝试重新启动手机，然后等了一段时间，但问题仍然存在，知道如何解决这个问题   由   提交 /u/Roythefiretruck   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f715q/what_is_causing_this_error/</guid>
-      <pubDate>Thu, 25 Jan 2024 11:15:19 GMT</pubDate>
+      <title>如何使用 Submagic：使用 Submagic AI 彻底改变您的视频字幕：简单、快速且令人惊叹！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ff6rt/how_to_use_submagic_revolutionize_your_video/</link>
+      <description><![CDATA[   /u/Chisom1998_   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ff6rt/how_to_use_submagic_revolutionize_your_video/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:48:52 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年让你致富的 10 个人工智能工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f6sbq/10_ai_tools_that_will_make_you_rich_in_2024/</link>
-      <description><![CDATA[   /u/AntoineTracey1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f6sbq/10_ai_tools_that_will_make_you_rich_in_2024/</guid>
-      <pubDate>Thu, 25 Jan 2024 10:59:52 GMT</pubDate>
+      <title>像这样的狗屎将确保公司输给开源社区</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19ff4vw/shit_like_this_will_ensure_corporations_losing_to/</link>
+      <description><![CDATA[   /u/Severin_Suveren   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19ff4vw/shit_like_this_will_ensure_corporations_losing_to/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:46:42 GMT</pubDate>
     </item>
     <item>
-      <title>有没有可以访问网站上的 PDF 的插件？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f6n7e/is_there_a_plugin_that_can_access_pdfs_on_website/</link>
-      <description><![CDATA[嗨，我想创建自己的 GPT 来分析我提供的网站中的数据。这些数据在网站上始终以 PDF 形式存在。当然，我可以下载 PDF，但只是为了自动化，我希望 chatGPT 打开它们并搜索它们。有什么办法可以做到这一点吗？   由   提交/u/hemmy_5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f6n7e/is_there_a_plugin_that_can_access_pdfs_on_website/</guid>
-      <pubDate>Thu, 25 Jan 2024 10:50:09 GMT</pubDate>
+      <title>想象异想天开：故事</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19feqiu/imagine_whimsical_the_story/</link>
+      <description><![CDATA[       由   提交/u/compumaster  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19feqiu/imagine_whimsical_the_story/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:30:33 GMT</pubDate>
     </item>
     <item>
-      <title>带插件的自定义 GPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f6l02/custom_gpts_with_plugin/</link>
-      <description><![CDATA[有人知道如何使用带有自定义 GPT 的插件吗？ 我想要为我的自定义 GPT 添加一些插件，但是不知道不知道该怎么做   由   提交 /u/smashmanosaure   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f6l02/custom_gpts_with_plugin/</guid>
-      <pubDate>Thu, 25 Jan 2024 10:46:00 GMT</pubDate>
+      <title>ChatGPT plus 适合学生吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19feq1g/chatgpt_plus_for_a_student/</link>
+      <description><![CDATA[作为学生是否值得获得 ChatGPT plus？我会用它来解释我在文字和图像方面面临的具体问题，我觉得这对我在学校确实有帮助。我也做了很多自学，所以这肯定会有用。值得还是不值得？   由   提交 /u/mannerlybassoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19feq1g/chatgpt_plus_for_a_student/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>很有趣</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f63zl/quite_interesting/</link>
-      <description><![CDATA[       由   提交/u/ayvittu69  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f63zl/quite_interesting/</guid>
-      <pubDate>Thu, 25 Jan 2024 10:12:11 GMT</pubDate>
+      <title>Android 上的 ChatGPT 快速操作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19fepdo/chatgpt_quick_action_on_android/</link>
+      <description><![CDATA[      还有其他人在 Android 上使用新测试版中包含的新 ChatGPT 快速操作吗？我发现它真的很有用，而且我喜欢所有的声音！希望消息属实，并且很快就能取代 Bixby 和 Google Assistant！   由   提交 /u/AlteredM1nd   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19fepdo/chatgpt_quick_action_on_android/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:29:23 GMT</pubDate>
     </item>
     <item>
-      <title>各位，这是什么？它看起来像是代码混乱或类似的东西。 NeFaro 是什么（我问英文中“nefarously”是什么？） Usln（可能是用户输入之类的东西） Mallln（我不知道，也许它是 convo 的标题？）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f5zdj/guys_what_is_this_it_looks_like_a_code_mess_up_or/</link>
-      <description><![CDATA[   /u/Delicious-Ad3777  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f5zdj/guys_what_is_this_it_looks_like_a_code_mess_up_or/</guid>
-      <pubDate>Thu, 25 Jan 2024 10:03:00 GMT</pubDate>
+      <title>山地巨人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19fe8ht/mountain_giant/</link>
+      <description><![CDATA[       由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19fe8ht/mountain_giant/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>达斯·维达在纽约 by BingAI (DALL-E)</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/19f5vot/darth_vader_in_new_york_by_bingai_dalle/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/KHTD2004   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/19f5vot/darth_vader_in_new_york_by_bingai_dalle/</guid>
-      <pubDate>Thu, 25 Jan 2024 09:56:02 GMT</pubDate>
+      <title>幻想进化＃11：巨人与时代的岩石</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/19fe4qc/fantasy_evolution_11_giants_and_the_rock_of_ages/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/19fe4qc/fantasy_evolution_11_giants_and_the_rock_of_ages/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:05:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
