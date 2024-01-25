@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 03:13:39 GMT</lastBuildDate>
     <item>
-      <title>大家好，我正在尝试在 React 中使用谷歌地图。我让它在高度为 100%、宽度为 100% 的 div 中渲染，但顶部和底部有灰色区域。知道如何才能让地图始终被填充，并且顶部和底部不存在那些灰色矩形吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19er9zb/hi_guys_i_am_trying_to_use_google_maps_in_react_i/</link>
-      <description><![CDATA[   ​ https://preview.redd.it/2u4bwzd5dgec1.png?width=2100&amp;format=png&amp; ;auto=webp&amp;s=8ba3b10ce88f47ccc71c89a58e02cdf86b1efbb1   由   提交/u/Intelligent_Will_948   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19er9zb/hi_guys_i_am_trying_to_use_google_maps_in_react_i/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:05:04 GMT</pubDate>
+      <title>在 Squarespace 的域的 Github 页面上托管时出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eypfd/problem_with_hosting_on_github_pages_for_a_domain/</link>
+      <description><![CDATA[     &lt; td&gt; 我昨天从 squarespace 为我的 ReactJs 网站购买了一个域名，并决定在 GitHub 页面上托管。我已在方形空间一侧添加了 4 个 A 记录和 CNAME。 ​ https://preview.redd.it/zpw60e16zhec1.png?width=939&amp;format=png&amp;auto=webp&amp;s= 3c4da6d1c3acd3bc745fd87496ba0a34b7b3fc86 然后，我将我的网站名称添加到 github 上的“页面”部分，并打开 Enorce HTTPS。 我没有看到我的网站弹出域名尚未确定，所以我决定等待，24 小时后，当我尝试访问我的网站时，我看到一个白色页面，标题显示在图标旁边的选项卡上，但仅此而已。我在控制台上收到错误 404，但我无法弄清楚出了什么问题。 https://preview.redd.it/xvavqvvuzhec1.png?width=1195&amp;format=png&amp;auto=webp&amp;s=94e09c3305b1fa171cf6028abd65 5ab542cb32d6 这里有人曾经在 Github 页面上托管过 squarespace 域名吗？   由   提交/u/MalekRockie00  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eypfd/problem_with_hosting_on_github_pages_for_a_domain/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>服务器架构</title>
-      <link>https://www.reddit.com/r/webdev/comments/19er5qt/server_architecture/</link>
-      <description><![CDATA[你好！我是一个相对较新的全栈开发人员，大约半年前完成了我的工作/商学院（德国学校）。虽然我没有深入了解后端和服务器配置，但我想寻求一些建议。目前，在我的公司，我们正在开发简单的云软件解决方案。但是，由于我们的公司规模有限，我们一直依赖通用托管商提供的消费级托管服务器包。 不幸的是，近几个月来我们当前的托管商遇到了严重的停机时间，这影响了我们对他们服务的满意度。因此，我们正在探索转换的可能性。理想情况下，我想深入研究管理我们自己的服务器，但我对从哪里开始或什么解决方案适合我们的需求感到有点无能为力。 我们的应用程序非常简单，主要包括PHP、MariaDB、js、css 和 HTML。随着我们的用户群逐渐扩大，我们软件的可靠性变得越来越重要，因为我们的用户依赖它来运行 24/7。最大限度地减少停机时间和实现基本的负载平衡是我们的重要考虑因素。 我知道有现成的解决方案可用，但我不确定行业标准以及不同解决方案的优点/缺点选项。我渴望了解更多信息，并且非常感谢您与我分享的任何智慧或建议。与此相关的是，我对基本到稍微高级的 Linux 有相当的了解，之前出于个人兴趣配置过双引导系统和 Arch Linux。   由   提交/u/Chance_Suggestion_46   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19er5qt/server_architecture/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:00:29 GMT</pubDate>
+      <title>为什么这个二维码扫描不了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eyi78/why_doesnt_this_qr_code_scan/</link>
+      <description><![CDATA[      我在美术馆找到了这个二维码。据我所知，它是无效的，但我很好奇为什么？   由   提交/u/mikegecawic​​z   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eyi78/why_doesnt_this_qr_code_scan/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>Rust SDK</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eplpi/rust_sdk/</link>
-      <description><![CDATA[      Rust 是在 NEAR 上编写智能合约的首选编程语言。虽然对于来自 Web 开发的人员来说可能有一个学习曲线，但学习 Rust 可以编写更安全、更快的合约。 有关 Rust SDK 的更多详细信息，请访问：https://docs.near.org/sdk/rust/introduction    ;由   提交/u/ganiket19  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eplpi/rust_sdk/</guid>
-      <pubDate>Wed, 24 Jan 2024 19:57:09 GMT</pubDate>
+      <title>有人知道该网站使用什么网站构建器吗？我试图使用 Hostinger 创建类似的东西，但没有类似的模板。我似乎也找不到任何具有此布局的网站模板：</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eyhvr/anyone_know_what_website_builder_was_used_for_the/</link>
+      <description><![CDATA[       由   提交 /u/Practical-Horse-7568   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eyhvr/anyone_know_what_website_builder_was_used_for_the/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:23:50 GMT</pubDate>
     </item>
     <item>
-      <title>我将如何在反应中制作这些垂直虚线？我使用 html canvas、svg 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19epkmb/how_would_i_go_about_making_these_vertical_dotted/</link>
-      <description><![CDATA[   /u/couchpotatochip21   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19epkmb/how_would_i_go_about_making_these_vertical_dotted/</guid>
-      <pubDate>Wed, 24 Jan 2024 19:55:52 GMT</pubDate>
+      <title>有时，当我在网站上单击后退按钮返回一页时，它不会离开当前页面，而且几乎看起来像是刚刚刷新了页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ey3zp/sometimes_when_im_on_a_website_and_click_the_back/</link>
+      <description><![CDATA[昨晚正在考虑这个问题。是否因为最后一页可能重定向到当前页面？   由   提交 /u/OrJustNotLive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ey3zp/sometimes_when_im_on_a_website_and_click_the_back/</guid>
+      <pubDate>Thu, 25 Jan 2024 02:04:31 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个开源工具，可以自动用评分最高的 Reddit 视频填充您的 YouTube 频道</title>
-      <link>https://www.reddit.com/r/webdev/comments/19epjg0/i_created_an_open_source_tool_to_automatically/</link>
-      <description><![CDATA[   /u/porest  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19epjg0/i_created_an_open_source_tool_to_automatically/</guid>
-      <pubDate>Wed, 24 Jan 2024 19:54:35 GMT</pubDate>
+      <title>对于低预算项目来说，Wordpress 是目前最便宜、最快的网站制作方法吗？初级开发人员在这里。</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ewsgp/is_wordpress_the_cheapest_fastest_way_of_making/</link>
+      <description><![CDATA[嗨，基本上就是标题。大约两年前，我从计算机科学专业毕业。到目前为止，我已经创建了 2 个网站，其中一个用于我的大学社区在 vanilla JS/Tailwind 上的工作，另一个是在朋友的指导下通过 Angular 和无头 WP 进行的。 （设计和开发是我做的，他负责代码审查等方面） 这是链接 &lt;最近，两位公关朋友联系了我，他们告诉我他们的几个客户正在寻找非常基本的 5 页网站（类似于上面的网站）。无需创建帐户，所有按钮都会指向 WhatsApp 或其他社交媒体帐户，并且它们应该具有响应能力。公关人员本身（在某种程度上）负责创建设计。 最大的缺点是公司的预算。它们的价格非常低，从 100 美元到 300-400 美元不等（公关人员也需要从中分一杯羹）。然而，作为一名大三学生，这看起来是一个绝佳的机会，可以让我在自己的作品集上获得一些经验。问题是，我已经有一份全职工作，而且我的可用时间有限。因此，我正在寻找一种快速且廉价的方法来完成此类项目，主要是因为我制作的 Angular 项目花了我大约 6 个月的时间（这是一个很大的学习曲线） 由于我之前曾使用过 WP，这是我迄今为止所理解的总体想法（这也是我正在寻找一些见解的地方）：  寻找适合的主题客户的需求和预算 将其发送给公关，以便他们围绕它进行设计 让他们在选择主题后购买主题，然后从公关那里收到最终设计 相应地修改它，尝试匹配他们的预算（我试图尽量减少我需要花在这里的时间）  希望这些改变没有那么多，我可以在一个月内完成该项目，每周花费大约 8 - 15 个小时，这又取决于预算？ 我的说法对吗？有没有更快的方法？我错过了什么吗？ 我真的很感激一些见解。提前致谢！ TLDR；对于简单的 5 页网站来说，购买 WP 主题然后稍微修改它是否是最快的方法，这些网站也必须是反应性的，考虑到它们是非常低的预算项目？ ($100-$400)   由   提交/u/aWabbaJag  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ewsgp/is_wordpress_the_cheapest_fastest_way_of_making/</guid>
+      <pubDate>Thu, 25 Jan 2024 01:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>小型组织的免费联系表（电子邮件）。 Netlify 还是 Web3Forms？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19enocv/free_contact_form_email_for_a_small_organization/</link>
-      <description><![CDATA[我下载了 Web3Forms 附带的 Astro 主题，并将其部署到 Netlify。我正在 Web3Forms 和 Netlify Forms 之间进行争论。 Web3Forms 最多允许免费提交 250 个表单。如果超出限制，他们会通过电子邮件通知。我不确定如何监控使用情况并通过我的电子邮件收到通知，因为我将使用他们的电子邮件接收表格。一种方法可能是在他们的电子邮件上设置自动电子邮件转发以发送到我的电子邮件。 Netlify Forms 最多允许免费提交 100 个表单。他们会多次通知您使用情况。有一个页面可以监控使用情况。您无法禁用该功能，因此如果超出限制，您将被收取费用。如果接近限制，我可以随时更新联系页面以删除表单。 我正在为学校和工作之外的一个小型组织构建我的第一个网站，该网站位于后端。我很开心并且学到了很多东西。  请分享您使用 Web3Forms 和/或 Netlify Forms 的经验或任何其他提示或建议。   由   提交/u/sanji1212  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19enocv/free_contact_form_email_for_a_small_organization/</guid>
-      <pubDate>Wed, 24 Jan 2024 18:40:10 GMT</pubDate>
+      <title>嵌入 YouTube 视频会将移动版 PageSpeed 得分从 56 降至 22，桌面版 PageSpeed 得分从 93 降至 70。除了删除视频之外，还有什么最佳修复方法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ewd78/embedding_a_youtube_video_drops_mobile_pagespeed/</link>
+      <description><![CDATA[即使它位于页面底部，情况也是如此。 我想将其保留在网站上，如果可能的话 - 但是，如果它严重降低了 PageSpeed 分数，那么可能值得消除它，因为它对于网页的目标来说不是关键任务。 是否有任何最佳实践能够嵌入 YouTube 视频而不拖慢您网站的加载时间吗？这是使用的语法： &lt;iframe src=&quot;https://www.youtube.com/embed/video\\\_string\\\_BLAH&quot; title=&quot;展示如何BLAH BLAH BLAH 的视频&quot;框架边框=“0”允许全屏&gt;  我们是否也可以花点时间欣赏一下 Google 旗下的 YouTube 如此戏剧性地缩短网站加载时间的搞笑之处？您可能认为他们会知道+更有效地开发自己的小部件...   由   提交 /u/What_The_Hex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ewd78/embedding_a_youtube_video_drops_mobile_pagespeed/</guid>
+      <pubDate>Thu, 25 Jan 2024 00:41:27 GMT</pubDate>
     </item>
     <item>
-      <title>帮助我们为我们古老的网络应用程序选择现代堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/19enfsi/help_choosing_a_modern_stack_for_our_ancient/</link>
-      <description><![CDATA[我是一家公共机构的科学研究网络应用程序的首席开发人员。我们的应用程序以非常庞大且复杂的 Neo4j 数据库为中心，用户群非常小，但针对我们的数据库运行巨大的工作负载。我们是一个非常小的团队，最多只有 8 名开发人员，我们在 9 年前首次构建了我们的应用程序。那时我们的堆栈从未改变，我们现在希望使用现代堆栈从头开始重建应用程序 - 既使我们的应用程序和我们的团队技能现代化。 我们当前的堆栈是：本地部署服务器（我们的机构讨厌云）、Ubuntu VM、Neo4j 数据库、用于 api 和应用程序后端的 Java Spring MVC、Thymeleaf 模板和 jQuery / jQueryUI。 我们确定的是：云托管可能会永远不要成为我们的事情，保留 Neo4j，转向使用容器而不是虚拟机。否则，其他一切都是悬而未决的。所以我的问题是： 由于我们数据库的复杂性，我一直在关注 GraphQL 而不是传统的 REST api，但是关于 GraphQL 何时是合适的工具，存在很多相互矛盾的信息。人们对使用 GraphQL 有何想法，尤其是在小团队但大型数据库场景中？ 鉴于 Nodejs 的流行以及团队中的每个人都已经知道，我们希望在后端的其余部分摆脱 Java JS，这似乎是一个完美的选择。但是有这么多不同的框架，你如何知道选择哪个？特别是在我们的场景中，我们需要对大型数据库运行网络分析。您甚至可以在使用 GraphQL 作为 API 的同时运行 Nodejs 作为后端吗？  在我的研究中，现代前端框架世界是狂野的。鉴于我们应用程序的研究导向性质，UI/UX 从来都不是我们真正关注的焦点，但是，我们仍然希望切换到现代的东西。我当时的想法是有角度的，但我愿意接受建议。 模板仍然是一种东西吗？在我的研究中，我无法真正了解现代堆栈如何处理模板。  任何建议或意见将不胜感激，谢谢。   由   提交 /u/LamaMamaSama   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19enfsi/help_choosing_a_modern_stack_for_our_ancient/</guid>
-      <pubDate>Wed, 24 Jan 2024 18:30:54 GMT</pubDate>
+      <title>中国大陆有类似的 Github + Netlify/Vercel 堆栈吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19evejg/is_there_an_equivalent_to_the_github/</link>
+      <description><![CDATA[ 我的公司有一个托管在 Netlify 上的 .com 网站。多年来，我们一直在维护在中国大陆托管的第二个网站，但我们希望将其替换为同一 Netlify 上的中文版 .com 网站，以便为我们的非 MC 亚太地区用户提供服务。现在显然这意味着 MC 用户可能无法再访问我们的网站。目前这不一定会困扰我们，但我想做好准备。我在北美运营，但我们在中国有顾问，他们可能能够执行托管新网站的步骤，并提供一些指导。  我的问题是：如果有一天我们再次出现在 MC 中，那么在那里托管 JAMStack 网站的最简单方法是什么？是否有平台提供与 Github、Netlify 或 Vercel 类似的存储库和应用程序托管？此外，我们还有一个无头 WordPress 来处理我们的博客。有没有一个“最好的”？ WP 网站的托管服务？ 我知道 Netlify 愿意提供帮助，如果我们订阅他们的企业级，我只是发现目前很难销售，这将是一项主要费用一个相对较小的市场。 感谢您的意见！   由   提交 /u/ZeMysticDentifrice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19evejg/is_there_an_equivalent_to_the_github/</guid>
+      <pubDate>Wed, 24 Jan 2024 23:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>HTML：编程语言</title>
-      <link>https://www.reddit.com/r/webdev/comments/19elz5w/html_the_programming_language/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19elz5w/html_the_programming_language/</guid>
-      <pubDate>Wed, 24 Jan 2024 17:06:13 GMT</pubDate>
+      <title>您绝对鄙视哪些关于开发人员的媒体比喻？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eu9t4/what_media_tropes_about_developers_do_you/</link>
+      <description><![CDATA[我们都知道一个在他妈妈的地下室里的胖子的编码器/程序员/开发人员比喻，或者是一个超级酷的技术家伙，可以立即侵入政府服务器。  我想知道有关编码员/程序员/开发人员的哪些比喻会立即让您感到不舒服？当你观看它时，你会想“这个人甚至从未见过程序员，更不用说与程序员交谈了。”  另一方面，当您观看一段媒体时，您会立即看到“这个人明白了！” ?   由   提交 /u/SchmehFilms   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eu9t4/what_media_tropes_about_developers_do_you/</guid>
+      <pubDate>Wed, 24 Jan 2024 23:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>移动健身应用程序存储用户数据位置查询（美国/欧盟法规）</title>
-      <link>https://www.reddit.com/r/webdev/comments/19elq6z/storing_user_data_location_query_for_mobile/</link>
-      <description><![CDATA[我正在开发一个移动健身应用程序，目前使用 Firebase 进行数据存储和处理。目前，我的 Firebase 服务器位于美国，在不同位置拥有多个服务器对我来说是一个挑战。 考虑到这一点，我在欧盟和美国都有用户，而且我正在寻求有关如何处理用户数据存储位置的指南，以遵守相关的数据保护和隐私法。 具体：  欧盟用户：  我了解 GDPR 对用户数据的处理和存储提出了某些要求。鉴于我当前的服务器位置位于美国，对遵守 GDPR 有何影响？我可以采取任何缓解策略或替代方法来确保 GDPR 合规性，而无需将服务器实际放置在欧盟吗？ 美国用户：虽然没有联邦数据保护像美国的 GDPR 一样，有州级法律和行业特定法规。我是否应该担心在美国服务器上为美国境内的用户存储数据？我是否应该考虑任何特定于州的法规？  我想确保我的应用程序符合所有相关的隐私法，如果您有任何见解和经验，我将不胜感激，或社区关于在不同位置的多个服务器可能不可行的情况下处理用户数据位置的最佳实践的建议。 提前感谢您的帮助！   由   提交 /u/Blanketsniffer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19elq6z/storing_user_data_location_query_for_mobile/</guid>
-      <pubDate>Wed, 24 Jan 2024 16:55:53 GMT</pubDate>
+      <title>Safari 技术预览版 187 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eu3pn/release_notes_for_safari_technology_preview_187/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eu3pn/release_notes_for_safari_technology_preview_187/</guid>
+      <pubDate>Wed, 24 Jan 2024 23:01:34 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚可怕地轰炸了一次采访。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19elkv2/i_just_horrifically_bombed_an_interview/</link>
-      <description><![CDATA[我作为软件开发人员工作了 15 年，主要为财富 500 强公司工作，然后在美国政府担任首席开发人员。 这是我五年来第一次接受采访。我不记得批处理作业的名称，搞砸了非常基本的 Java 编码问题，并且无法解释 DOM 是什么。  焦虑他妈的很糟糕。我非常自信地接受了采访，然后我大脑中讨厌我的部分一直在说，“你确定吗，白痴？”，那部分赢了。 我只是感到尴尬。    由   提交/u/Odd_Sheepherder_3369   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19elkv2/i_just_horrifically_bombed_an_interview/</guid>
-      <pubDate>Wed, 24 Jan 2024 16:49:39 GMT</pubDate>
+      <title>加密货币还值得进入吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19eu0l5/is_crypto_still_worth_getting_into/</link>
+      <description><![CDATA[我作为全栈工程师已有大约 4 年的经验。最近我对学习/发展到其他领域感到好奇，并一直在考虑区块链技术。我错过了炒作年代，想了解更多有关底层技术（特别是 web3 和 Solidity）的信息，但不确定它在职业方面是否仍然值得。有什么想法吗？请随时建议其他值得探索的令人兴奋的领域。谢谢！   由   提交 /u/darth_ne   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19eu0l5/is_crypto_still_worth_getting_into/</guid>
+      <pubDate>Wed, 24 Jan 2024 22:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助为 React 组件库（Vitest、Storybook、Istanbul）创建统一的代码覆盖率报告</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ekbp8/need_help_with_creating_unified_code_coverage/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ekbp8/need_help_with_creating_unified_code_coverage/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:56:32 GMT</pubDate>
+      <title>我应该在哪里部署全栈应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ety1z/where_should_i_deploy_a_fullstack_app/</link>
+      <description><![CDATA[我正在开发一个全栈 SaaS 应用程序，该应用程序有一个静态登录页面（托管在 site.com），并且应用程序本身具有前端和后端返回（托管于 app.site.com）。  我部署静态仅前端站点没有任何问题，但这是我的第一个全栈项目，所以我不知道应该使用什么服务来托管我的数据库。  应用程序堆栈：NextJS（正面 + 背面）/Prisma / Postgres  我认为不会有很多流量，因为我主要是为了好玩而构建它/学习目的。  我愿意接受所有建议，因为我主要想学习新东西，但我想避免不必要的成本。  &amp;# 32；由   提交 /u/Tixarer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ety1z/where_should_i_deploy_a_fullstack_app/</guid>
+      <pubDate>Wed, 24 Jan 2024 22:55:18 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道一首流行的免版税歌曲及其歌词我可以用于演示应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ejxug/does_anyone_know_of_a_popular_royaltyfree_song/</link>
-      <description><![CDATA[大家好， 我构建了一个 React 组件，它基本上是一个带有扭曲的音频播放器，但我需要版税 -演示版的免费歌曲。我发现的那个有点太激进了，歌词也没有（看来歌手不是以英语为母语，所以有语法错误）。 我在Pixabay之类的地方看过，看起来真的很难找到一些像样的东西来演示。我也需要一些歌词得体的东西（不合适、清晰、没有语法错误等）。 感谢您的时间！   由   提交 /u/bezdazen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ejxug/does_anyone_know_of_a_popular_royaltyfree_song/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:40:01 GMT</pubDate>
+      <title>[ $0,00] （抱歉）我在设计方面很糟糕，需要首页的灵感和帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/19ettmc/000_im_sorry_i_suck_at_design_and_need/</link>
+      <description><![CDATA[付款：无 嗨， 我知道这是一个长远来看，我当然不想毁掉我的帐户或听起来像 /r/EntitledBitch，所以请原谅我如果这低于你备受赞赏的艺术。 我目前正在开发一个网站，这是一个类似博客的网站，报告居住在特定地区的人们的死亡情况（不是开玩笑。 ），几乎就像一本杂志或报纸（我已经在 Google 上搜索得差不多了。） 也就是说，我正在开发一个网站（Nuxt、Nuxt/Content、Tailwind 等），这基本上是一个简短的报告/博客。我能说的就这么多了。 我需要的是一个平面设计师，水平不重要，年龄不重要，你只需要：  &lt; li&gt;适应并理解当前的风格和审美， 为我提供一种或希望更粗糙的屏幕设计。  受影响的页面是首页，已部分完成，并透露了网站的总体风格。 如果有人足够好心帮助我（我是一名经验丰富的网络开发人员，但完全不擅长创意） .为了回报您的好意，我免费提供一些开发工作。 DM 我了解更多信息...    提交者   /u/Mavrokordato   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19ettmc/000_im_sorry_i_suck_at_design_and_need/</guid>
+      <pubDate>Wed, 24 Jan 2024 22:50:06 GMT</pubDate>
     </item>
     <item>
-      <title>我需要帮助在使用 PHP 的 WordPress 网站上延迟 jQuery。我之前的方法在上周之前一直运行良好，但突然失效了，过去几天我尝试的所有其他方法都失败了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/19ejouk/i_need_help_deferring_jquery_on_a_wordpress_site/</link>
-      <description><![CDATA[这是一个使用 Divi 主题的网站，它使用 jQuery 版本 3.6.0。如果 jQuery 被延迟，主题仍然可以完美工作，因此我在子主题的 function.php 文件中编写了一些 PHP，它将取消注册 jquery-core，然后再次注册它，从 https://code.jquery.com/jquery-3.6.0.min.js。它还会将 #deferload 添加到 URL 的末尾 (https://code.jquery.com /jquery-3.6.0.min.js#deferload）。然后我有一些额外的 PHP 可以用“”替换#deferload defer=&#39;推迟&#39;在 URL 的末尾。本质上，这使得我的 HTML 中的脚本标记中的 URL 看起来像 src=&quot;https://code .jquery.com/jquery-3.6.0.min.js&#39; defer=&#39;defer&#39;直到上周它都运行良好。无论出于何种原因，现在我的脚本标记中的单引号已更改为 &amp;#039;它破坏了链接。 到目前为止，我已经尝试用 \&#39; 转义单引号，用 \&quot; 转义双引号，并在 wp_register_script 函数中实现延迟策略，但没有任何效果。这是 PHP 的延迟策略： [ wp_register_script(&#39;jquery-core&#39;, &quot; https://code.jquery.com/jquery-3.6.0.min.js&quot;, false, null, array( &#39;strategy&#39; =&gt; &#39;defer&#39; )); ] 出于某种原因，添加延迟策略最终会添加 data-wp-strategy=&quot;defer&quot;到脚本标签，而不仅仅是常规的延迟属性，它实际上并不延迟脚本。有没有人有任何其他我可以实施的可能对我有用的方法？提前致谢。 编辑：没关系，只是想通了。字符串替换普通旧的“defer”的 data-wp-strategy已修复。   由   提交/u/Marvel_plant  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19ejouk/i_need_help_deferring_jquery_on_a_wordpress_site/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:29:18 GMT</pubDate>
+      <title>像 omegle 这样的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/19et82t/a_website_like_omegle/</link>
+      <description><![CDATA[我对网页设计有中等水平的知识 创建像 ometv 或 omegle 这样的网站有多难 我需要使用什么语言？    由   提交/u/Enornose-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19et82t/a_website_like_omegle/</guid>
+      <pubDate>Wed, 24 Jan 2024 22:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>有人尝试过为企业合作伙伴定制 CMS 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eiz2c/anyone_tried_a_custom_cms_for_a_corporate_partner/</link>
-      <description><![CDATA[我想知道是否有人曾在代理机构或咨询公司工作过并成功推销过自定义 CMS？我知道 Nike 有一个自定义 CMS (https://area17.com/work/nike-about-website)我希望摆脱 Adob​​e 等重型平台或营销型 CMS 等束缚您进行开发的平台。我知道很多都是无头的，但仍然需要巨大的投资，最终本质上是组件和页面的集合。 我参与过很多大型 CMS 项目，但没有一个真正利用 CMS 功能。您本质上是在创建一个仪表板（可以使用现有提供程序来处理身份验证）、一个 API 端点，并将 React 组件拖到页面上。有针对性的营销、DAM、翻译、预定“发布”现在都相当简单，或者无论如何都依赖第三方解决方案。 无论如何，这实际上并不是一个技术问题，而是无法竞争的问题之一大量营销的 CMS 给您带来虚假的安全感。如果您依靠云服务来实现扩展并完成繁重的工作，那么它就是一个针对用户需求的简单应用程序。 有人成功推动过这个吗？或者我错过了什么？我的理念是，这应该是一个非常简单的应用程序，没有比需要的更多的外壳，但我可以看到 OOTB 它看起来功能并不丰富。我错过了什么吗？   由   提交 /u/mefigeoff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eiz2c/anyone_tried_a_custom_cms_for_a_corporate_partner/</guid>
-      <pubDate>Wed, 24 Jan 2024 14:57:44 GMT</pubDate>
+      <title>与非程序员共同开发的 Webdev，你们的设置是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/19et3iu/webdevs_who_codevelop_with_a_nonprogrammer_what/</link>
+      <description><![CDATA[我查看了 Squarespace，但 7.1 删除了许多开发功能，并将其余部分锁定在 API 付费墙后面。此外，Squarespace 相对昂贵。我现在正在使用 Wordpress，但他们网站的很多部分加载速度都很慢，我开始失去信心。即使我最终选择了 wordpress，在本地环境中也有多种测试方法。最简单的似乎是 VSCode 插件，但它还处于实验阶段。   由   提交 /u/Nilstyle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19et3iu/webdevs_who_codevelop_with_a_nonprogrammer_what/</guid>
+      <pubDate>Wed, 24 Jan 2024 22:19:49 GMT</pubDate>
     </item>
     <item>
-      <title>在输入文本中显示 iOS 数字键盘</title>
-      <link>https://www.reddit.com/r/webdev/comments/19eit3d/show_ios_numeric_keyboard_in_input_text/</link>
-      <description><![CDATA[当使用焦点位于我的输入文本时，我需要显示此数字键盘： ​ https://i.stack.imgur.com/uRk8W.png ​ 我有一个具体要求：用点分隔小数，用逗号分隔百位。我已经有一个js代码来执行此操作（随着数字的增长，自动用逗号分隔数百个，允许单个点输入（如果输入还没有）并忽略所有其他键），当我测试这个时，问题就出现了在 iOS 上，这是我迄今为止尝试过的： type=&quot;number&quot;：显示正确的键盘（上面的键盘），但破坏了 js，所以我必须使用 type=&quot;text&quot;对于此字段。 type=&quot;text&quot;和 inputmode=“decimal”：显示这个，它只有逗号（因为我认为是区域配置，但我总是需要点，无论设备的配置如何，这就是为什么第一个将是最佳选择） https://i.stack.imgur.com/0YdJv.jpg 类型=“文本”并且 inputmode=“numeric”：仅数字，甚至更糟 https://i.stack。 imgur.com/6sEzN.jpg type=&quot;text&quot;和模式：与以前相同的结果 所以我现在迷路了，我不确定是否有解决方案，但是，希望你能帮助我，谢谢！ &gt;   由   提交/u/chimichurri97  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/19eit3d/show_ios_numeric_keyboard_in_input_text/</guid>
-      <pubDate>Wed, 24 Jan 2024 14:50:06 GMT</pubDate>
+      <title>变更日志播客：HATEOAS 语料库</title>
+      <link>https://www.reddit.com/r/webdev/comments/19esnh7/changelog_podcast_hateoas_corpus/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/19esnh7/changelog_podcast_hateoas_corpus/</guid>
+      <pubDate>Wed, 24 Jan 2024 22:01:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
