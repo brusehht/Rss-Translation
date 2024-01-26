@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Jan 2024 09:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 12:20:10 GMT</lastBuildDate>
+    <item>
+      <title>Freeter 2 – 为计算机工作人员提供的免费开源组织者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1abgx9w/freeter_2_free_open_source_organizer_for_those/</link>
+      <description><![CDATA[   /u/alexk111  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1abgx9w/freeter_2_free_open_source_organizer_for_those/</guid>
+      <pubDate>Fri, 26 Jan 2024 12:11:30 GMT</pubDate>
+    </item>
     <item>
       <title>开源项目如何部署到生产环境？</title>
       <link>https://www.reddit.com/r/opensource/comments/1abarvv/how_do_opensource_projects_deploy_to_production/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>将基于表单的应用程序迁移到任何开源项目的选项</title>
       <link>https://www.reddit.com/r/opensource/comments/19fheyt/options_to_migrate_formsbased_application_to/</link>
-      <description><![CDATA[所以我正在尝试帮助朋友迁移他们制作的旧应用程序 这是一种用于参考书目信息的 Zotero 应用程序，但它将信息从一个引文连接到另一个引文，在查找哪个引文引用其他引文等时具有一些额外的功能 虽然这些功能并不那么复杂，并且包含信息的数据库也不是那么复杂大（250Mb），看来定制化需求很大 虽然这位朋友不是程序员，但他们了解 cli 提示、markdown 和逻辑。他们也习惯了更复杂的界面，因为他们一直在使用 CAD 应用程序 我的第一个想法是 LibreOffice Base，但是哇，我发现了人们https://old.reddit.com/r/libreoffice/comments/y0ezht/whither_libreoffice_base/ 和 https://old.reddit.com/r/libreoffice/comments/mpjo0c/when_would_someone_use_base_instead_of_calc/ 和 https://old.reddit.com/r/libreoffice/comments/wtc5at/libreoffice_base_madness/ 表示 GUI 部分有点越野车和崩溃。我记得过去使用过它并将其连接到 MySql DB，但我记得在制作报告和表单时很挣扎 第二个是使用 Zotero 毕竟，他们有插件支持（https://www.zotero.org/support/dev/client_coding/plugin_development），但我怀疑我可以添加所有功能 - 有许多有关打印信息的详细信息需要自定义 谷歌搜索我发现https:// /github.com/odoo/odoo，但那是一个巨大的应用程序。似乎要深入研究 WordPress 之类的东西，然后再研究 Kexi。我找到的唯一帖子是 10 年前的 (https://old.reddit.com/ r/Database/comments/15pboo/has_anyone_used_kexi_and_would_you_recommend_it/）所以我认为有些事情发生了变化？  我不知道。我几乎要告诉他学习一些 .js 并制作一个 Web 应用程序来访问数据   由   提交 /u/dionebigode   [链接] [评论]]]></description>
+      <description><![CDATA[所以我正在尝试帮助朋友迁移他们制作的旧应用程序 这是一种用于参考书目信息的 Zotero 应用程序，但它将信息从一个引文连接到另一个引文，在查找哪个引文引用其他引文等时具有一些额外的功能 虽然这些功能并不那么复杂，并且包含信息的数据库也不是那么复杂大（250Mb），看来定制化需求很大 虽然这位朋友不是程序员，但他们了解 cli 提示、markdown 和逻辑。他们也习惯了更复杂的界面，因为他们一直在使用 CAD 应用程序 我的第一个想法是 LibreOffice Base，但是哇，我发现了人们https://old.reddit.com/r/libreoffice/comments/y0ezht/whither_libreoffice_base/ 和 https://old.reddit.com/r/libreoffice/comments/mpjo0c/when_would_someone_use_base_instead_of_calc/ 和 https://old.reddit.com/r/libreoffice/comments/wtc5at/libreoffice_base_madness/ 表示 GUI 部分有点越野车和崩溃。我记得过去使用过它并将其连接到 MySql DB，但我记得在制作报告和表单时很困难 第二个是使用 Zotero 毕竟，他们有插件支持（https://www.zotero.org/support/dev/client_coding/plugin_development），但我怀疑我可以添加所有功能 - 有许多有关打印信息的详细信息需要自定义 谷歌搜索我发现https:// /github.com/odoo/odoo，但那是一个巨大的应用程序。似乎要深入研究 WordPress 之类的东西，然后再研究 Kexi。我找到的唯一帖子是 10 年前的 (https://old.reddit.com/ r/Database/comments/15pboo/has_anyone_used_kexi_and_would_you_recommend_it/）所以我认为有些事情发生了变化？  我不知道。我几乎要告诉他学习一些 .js 并制作一个 Web 应用程序来访问数据   由   提交 /u/dionebigode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fheyt/options_to_migrate_formsbased_application_to/</guid>
       <pubDate>Thu, 25 Jan 2024 19:22:50 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>新的开源 WireGuard 桌面客户端（具有多重身份验证）</title>
       <link>https://www.reddit.com/r/opensource/comments/19fbj03/new_opensource_wireguard_desktop_client_with/</link>
-      <description><![CDATA[我们发布了新版本defguard 桌面客户端现在支持任何WireGuard 服务器。 此外，我们还引入了首创的 WireGuard 多重身份验证。  祝您测试并保护您的 WireGuard 设置顺利！   由   提交/u/robert_teonite  [链接] [评论]]]></description>
+      <description><![CDATA[我们发布了新版本defguard 桌面客户端现在支持任何WireGuard 服务器。 此外，我们还引入了首创的 WireGuard 多重身份验证。  祝您测试和保护 WireGuard 设置顺利！   由   提交/u/robert_teonite  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fbj03/new_opensource_wireguard_desktop_client_with/</guid>
       <pubDate>Thu, 25 Jan 2024 15:11:43 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>您希望在 Github README 上看到什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/19ek3pf/what_do_you_like_to_see_on_a_github_readme/</link>
-      <description><![CDATA[你好👋 我们正在开发一个开源应用程序，我们想要制作一个热情而性感的自述文件页面，应该做什么我们添加还是删除？ 目标是激励潜在的贡献者和用户。 为了了解一些上下文，我们是一个基于图像元数据导航图片的桌面应用程序。  &gt; ​ 这是存储库： https://github .com/OneFolderApp/OneFolder   由   提交/u/antoine849502   [链接] [评论]]]></description>
+      <description><![CDATA[你好👋 我们正在开发一个开源应用程序，我们想要制作一个热情而性感的自述文件页面，应该做什么我们添加还是删除？ 目标是激励潜在的贡献者和用户。 简单介绍一下，我们是一个基于图像元数据导航图片的桌面应用程序。  &gt; ​ 这是存储库： https://github .com/OneFolderApp/OneFolder   由   提交/u/antoine849502   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19ek3pf/what_do_you_like_to_see_on_a_github_readme/</guid>
       <pubDate>Wed, 24 Jan 2024 15:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>应该制定什么样的法律来阻止跨国公司追求开源？</title>
-      <link>https://www.reddit.com/r/opensource/comments/19ejuk7/what_kind_of_laws_should_be_put_in_place_to/</link>
-      <description><![CDATA[ 由   提交 /u/alltheapex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19ejuk7/what_kind_of_laws_should_be_put_in_place_to/</guid>
-      <pubDate>Wed, 24 Jan 2024 15:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
