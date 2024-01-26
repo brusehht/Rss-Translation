@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Jan 2024 18:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 21:11:20 GMT</lastBuildDate>
+    <item>
+      <title>需要有关加载网络游戏数据库的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abshvi/need_advice_on_loading_database_for_webbased_game/</link>
+      <description><![CDATA[嗨，我是一名业余开发者。 我目前正在开发一款类似于 Dribble 游戏的网页游戏。 com.我有点担心如何处理数据库加载到前端。我主要关心的是避免低效的前后端交互带来的高成本。对于像 Dribblegame 这样的游戏，有玩家数据库，每次用户访问网站时都会加载该数据库吗？或者是否还有其他我不知道的最佳实践，例如 Dribble game 使用的网站最好实施？ 我非常感谢对此的任何建议或建议！ &lt; p&gt;​ 此外，数据库的最佳选择是什么 – Firebase、MongoDB 还是其他？就上下文而言，我的数据刚刚超过 1 MB。预先感谢您的帮助！！   由   提交 /u/shahmeermk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abshvi/need_advice_on_loading_database_for_webbased_game/</guid>
+      <pubDate>Fri, 26 Jan 2024 20:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些的技术名称是什么？我如何在我的网站的 SERP 上指定它们？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abrr9o/what_is_the_technical_name_for_these_and_how_do_i/</link>
+      <description><![CDATA[   /u/pvJ0w4HtN5   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abrr9o/what_is_the_technical_name_for_these_and_how_do_i/</guid>
+      <pubDate>Fri, 26 Jan 2024 20:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>专注于视频的公司网站应该选择什么 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abrdty/what_cms_to_choose_for_video_focused_company/</link>
+      <description><![CDATA[我目前正在计划重新设计我们公司的网站，并且正在寻找适合我们需求的 CMS。作为一家小型视频机构，我们有大量的视频内容希望在网站上展示。我们的主要目标是创建一张美观的“名片”，同时提高 SEO 知名度。过去我使用 WordPress 和 Divi 构建过网站。然而，我觉得 Divi 倾向于加载不必要的代码，感觉臃肿，我正在探索可以提供效率的替代 CMS 选项。过去我们在 Vimeo 上托管视频，但现在我们希望提高速度并实现更好的自动质量调整。我们的服务器可以处理这个问题，我们计划使用一些循环和自动播放视频，影响最小，特别是在速度较慢的设备上。两名熟悉 HTML、CSS、JavaScript、PHP 和 MySQL 的人员将在该网站上工作。我们也愿意学习新技术。我考虑过使用无头 CMS 的可能性，但我不确定它是否适合我们。您可以分享的有关以视频为中心的网站的 CMS 选项的任何见解、建议或经验都将非常有价值。预先感谢您的专业知识！   由   提交/u/anonmoez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abrdty/what_cms_to_choose_for_video_focused_company/</guid>
+      <pubDate>Fri, 26 Jan 2024 20:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以将 Visual Studio Code Editor 更改为像 Xcode 一样的自由格式编辑器吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abqsf6/can_we_change_visual_studio_code_editor_to_be_a/</link>
+      <description><![CDATA[Visual Studio Code 看起来很有前途，只是它的编辑器看起来像 Vim。是否可以将此编辑器更改为类似于自由格式的 xCode 编辑器？   由   提交/u/ebayer108  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abqsf6/can_we_change_visual_studio_code_editor_to_be_a/</guid>
+      <pubDate>Fri, 26 Jan 2024 19:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS（仅限）身份验证问题...仅适用于“减少保护”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1abpl0x/ios_only_authentication_issue_only_works_with/</link>
+      <description><![CDATA[大家好，我遇到了这个只在 iPhone 上出现的问题，我没有 iPhone 或 Mac，不知道如何排除故障它。我正在使用 Spotify 的 api 使用“使用 pkce 的代码流身份验证”制作一个网络应用程序，它在除 iphone 之外的所有设备上都运行良好。我注意到在 iPhone 上登录时，重定向 uri 不起作用，而是被重定向到某种帐户概述页面，而不是返回到我的网站。  如果我在登录之前进入我的页面并点击刷新按钮，则会弹出一条消息，内容如下：“查看网页时出现问题？”尝试减少隐私保护”。如果我确实减少了隐私保护，那么一切都会正常。 ​ 使用 PKCE 方法，我需要使用本地存储来存储一些数据，同时进行身份验证Spotify 的网站。我最初认为这就是问题所在，以及为什么事情会“降低安全性”，但如果是这样的话，我认为用户仍然会被重定向到我的页面，但不会登录（如在本地存储数据中检查）会被擦除），但由于身份验证过程卡在了 Spotify 方面，我认为这可能是 CORS 问题？我曾尝试在谷歌上搜索解决方案，但只找到具有类似问题的帖子，但没有解决方案。它似乎也可能是 iOS 17 中引入的。 ​ 这听起来对任何人来说都很熟悉吗，或者知道我可以尝试解决这个问题的一些事情吗？每当朋友在附近时，我都会使用他们的 iPhone，但他们没有 Mac，所以我无法使用远程调试，而且我不知道还能尝试什么。    由   提交 /u/skwairwav   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1abpl0x/ios_only_authentication_issue_only_works_with/</guid>
+      <pubDate>Fri, 26 Jan 2024 18:43:37 GMT</pubDate>
+    </item>
     <item>
       <title>智能提词器 - 测试版发布！观看演示视频并加入 GitHub 代码审查！</title>
       <link>https://www.reddit.com/r/webdev/comments/1abow3j/smart_teleprompter_beta_release_watch_the_demo/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1abms0r/tines_integration_generates_realtime_critical/</guid>
       <pubDate>Fri, 26 Jan 2024 16:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一张唱片，胶水，同样的胶水......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abmjl7/a_records_glue_same_glue/</link>
-      <description><![CDATA[我在与我的网站托管服务提供商不同的提供商处注册了域名。我设置了一个测试 WordPress 安装来进行一些探索：https://andrewsdesk.com/。 运行 Pagespeed 时，我得到“无法解析https://andrewsdesk.com/。尝试检查 URL 的有效性。” 在其他网站速度测试中工作正常。然而，根据viewdns.info，可能存在一些问题，其中之一是： ---- ----------------------------------“粘在本地名称服务器上哎呀！您的本地名称服务器不会随您的 NS 记录一起返回 IP 地址（粘合）！这不是致命错误，但意味着需要执行额外的查找，从而增加站点的加载时间。您可以通过为上面列出的每个名称服务器添加 A 记录来解决此问题。” ---------------------------- ---------- 我不是开发人员/程序员，并且不太熟悉注册商和注册商之间的关系。域主机。我位于注册商的 DNS 服务器部分，但主机名称服务器已经存在。 此外，注册商似乎没有任何方法可以在不添加名称服务器的情况下添加 A 记录这已经被引用了......但这似乎也不起作用。 任何指导表示赞赏。   由   提交/u/oandroido  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abmjl7/a_records_glue_same_glue/</guid>
-      <pubDate>Fri, 26 Jan 2024 16:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我的想法的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abmhdl/need_feedback_on_my_idea/</link>
-      <description><![CDATA[我构建了一个 AI 工具，它可以读取您的整个代码库，并使用完整的代码上下文编写单元测试。值得注意的是，所有单元测试都是 100% 完美的，这与 ChatGPT 不同，ChatGPT 大多数时候提供的单元测试甚至无法运行。  目前它仅支持一种语言，但正在努力支持更多语言。  这会有多大帮助？你愿意付钱吗？   由   提交 /u/forthesakeofpoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abmhdl/need_feedback_on_my_idea/</guid>
-      <pubDate>Fri, 26 Jan 2024 16:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端存储用户的角色和权限</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abm3x0/store_users_role_and_permissions_on_frontend/</link>
-      <description><![CDATA[我有一个使用 RBAC 获取权限的 React.js 和 Node.js 项目，我想将当前用户角色和权限存储在前面-结束，这样我就可以访问它，并且只渲染用户可以看到的页面和按钮。 我已经有一个带有此数据的 JWT 令牌，但出于安全原因，它是一个 httponly cookie，所以我无法通过JS访问它来检查用户是否有权限访问前端的页面。 所以我的问题是，在前端存储用户角色和权限的最佳方式是什么-结尾 ？我可以使用上下文 API，但我希望即使用户刷新页面，这些数据也能保留，所以我会减少对后端和数据库的请求，但同时我希望有一些安全措施来防止其他人篡改数据。 观察：我已经在后端检查了每个请求的用户权限，所以这个问题只是为了进一步提高前端的安全性。 &lt; /div&gt;  由   提交 /u/Keiser_L   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abm3x0/store_users_role_and_permissions_on_frontend/</guid>
-      <pubDate>Fri, 26 Jan 2024 16:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何改进我的可折叠移动导航菜单？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ablpek/how_can_i_improve_my_collapsible_mobile_nav_menu/</link>
-      <description><![CDATA[感觉有些不对劲。我已经制作了数百万次，没有任何问题，但我不确定它是什么，只是设计方面似乎不对！请帮忙！ https://streamable.com/yk9suq ​    由   提交 /u/thisisjoy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ablpek/how_can_i_improve_my_collapsible_mobile_nav_menu/</guid>
-      <pubDate>Fri, 26 Jan 2024 16:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于您的网上商店的 Shopify 或 WooCommerce？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1abl4rp/shopify_or_woocommerce_for_your_webstore/</link>
-      <description><![CDATA[      这可能被问了很多，但有人有意见吗？ 我喜欢 Shopify 如何通过氢/混音实现无头，这听起来像是一种有趣的开发体验，而且我只听说过有关管理 WordPress 网站的不好的事情。  &amp; #32；由   提交/u/tanner_kandor  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1abl4rp/shopify_or_woocommerce_for_your_webstore/</guid>
-      <pubDate>Fri, 26 Jan 2024 15:37:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

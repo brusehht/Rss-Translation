@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Jan 2024 18:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 21:11:25 GMT</lastBuildDate>
+    <item>
+      <title>有关如何分叉 BSD-3-Clause 许可证项目的指南或清单</title>
+      <link>https://www.reddit.com/r/opensource/comments/1abrmxd/guide_or_checklist_on_how_to_fork_bsd3clause/</link>
+      <description><![CDATA[是否有人有关于分叉和维护 BSD-3-Clause 许可证项目的良好操作方法/清单（法律方面）？为了澄清起见，我只是询问 License / Copyright / 等需要维护、更新、更改等的文件和标头。大多数这些项目只是有一个 License 文件（IE 文件头或 Copyright 文件中没有许可证信息），我不确定如何更新/维护 BSD-3-Clause 的分支许可项目。 上下文：我经常使用一些 BSD-3-Clause 许可库，这些库已经接近 2 年多了[没有更新]，需要一些我认为各个社区的调整和改进想看看。我尝试过向源存储库提交 PR，但在大多数情况下这些 PR 已经存在一年多了，没有任何回复 - 以及其他人最近提交的 PR 也没有回复。我想我应该自己分叉和维护这些库，也许在至少一种情况下使用稍微不同的名称，将其更新为更“现代”的库。风格将需要重大破坏。我没有更改许可证的计划 - 但我确实想确保我遵守所有适当的法律（和诚实的道德）义务。 ​ 这是值得注意的是，对该主题的快速谷歌搜索没有对此事产生任何重大帮助。   由   提交/u/XenoPhex  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1abrmxd/guide_or_checklist_on_how_to_fork_bsd3clause/</guid>
+      <pubDate>Fri, 26 Jan 2024 20:11:29 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌钱包的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1abng48/alternative_to_google_wallet/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/yarmak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19etiws/redundancy_group_announcement_protocol/</guid>
       <pubDate>Wed, 24 Jan 2024 22:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yenka/Crocodile 剪辑的开源版本？</title>
-      <link>https://www.reddit.com/r/opensource/comments/19ese25/open_source_versions_of_yenkacrocodile_clips/</link>
-      <description><![CDATA[我正在寻找 Yanka Chemistry Lab 和 Crocodile Clips electronics 软件的开源版本，它不仅仅是一个 CAD 东西，你可以在该软件上进行实验，它的设计目的是用玻璃器皿、万用表和零件等来模拟真实的实验室。有这个的开源版本吗？   由   提交 /u/CasperOrillian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19ese25/open_source_versions_of_yenkacrocodile_clips/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:50:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
