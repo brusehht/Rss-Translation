@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Jan 2024 15:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 18:13:21 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何自由和开源软件健康监控应用程序/程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1acg7j5/are_there_any_foss_health_monitoring_appsprograms/</link>
+      <description><![CDATA[我真的很喜欢这个名为 Ornament 的 Android 应用程序，您可以将实验室结果上传到其中，它会为您提供标记如何变化的概述和历史记录时间，以及一些分析。  我不喜欢的部分是您必须支付订阅费用，并将我的健康数据提供给第三方。有谁知道有任何应用程序/程序可以执行相同或类似的操作吗？   由   提交/u/dontdrinkacid  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1acg7j5/are_there_any_foss_health_monitoring_appsprograms/</guid>
+      <pubDate>Sat, 27 Jan 2024 17:37:30 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能语音转文字？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ac8xbw/speechtotext_with_ai/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>有关如何分叉 BSD-3-Clause 许可证项目的指南或清单</title>
       <link>https://www.reddit.com/r/opensource/comments/1abrmxd/guide_or_checklist_on_how_to_fork_bsd3clause/</link>
-      <description><![CDATA[是否有人有关于分叉和维护 BSD-3-Clause 许可证项目的良好操作方法/清单（法律方面）？为了澄清起见，我只是询问 License / Copyright / 等需要维护、更新、更改等的文件和标头。大多数这些项目只是有一个 License 文件（即文件头或 Copyright 文件中没有许可证信息），我不确定如何更新/维护 BSD-3-Clause 的分支许可项目。 上下文：我经常使用一些 BSD-3-Clause 许可库，这些库已接近 2 年以上[没有更新]，需要一些我认为各个社区的调整和改进想看看。我尝试过向源存储库提交 PR，但在大多数情况下这些 PR 已经存在一年多了，没有任何回复 - 以及其他人最近提交的 PR 也没有回复。我想我应该自己分叉和维护这些库，也许在至少一种情况下使用稍微不同的名称，将其更新为更“现代”的库。风格将需要重大破坏。我没有计划更改许可证 - 但我确实想确保我遵守所有适当的法律（和诚实的道德）义务。 ​ 这是值得注意的是，对该主题的快速谷歌搜索没有对此事产生任何重大帮助。   由   提交/u/XenoPhex  [链接] [评论]]]></description>
+      <description><![CDATA[是否有人有关于分叉和维护 BSD-3-Clause 许可证项目的良好操作方法/清单（法律方面）？为了澄清起见，我只是询问 License / Copyright / 等需要维护、更新、更改等的文件和标头。大多数这些项目只是有一个 License 文件（IE 文件头或 Copyright 文件中没有许可证信息），我不确定如何更新/维护 BSD-3-Clause 的分支许可项目。 上下文：我经常使用一些 BSD-3-Clause 许可库，这些库已经接近 2 年多了[没有更新]，需要一些我认为各个社区的调整和改进想看看。我尝试过向源存储库提交 PR，但在大多数情况下这些 PR 已经存在一年多了，没有任何回复 - 以及其他人最近提交的 PR 也没有回复。我想我应该自己分叉和维护这些库，也许在至少一种情况下使用稍微不同的名称，将其更新为更“现代”的库。风格将需要重大破坏。我没有更改许可证的计划 - 但我确实想确保我遵守所有适当的法律（和诚实的道德）义务。 ​ 这是值得注意的是，对该主题的快速谷歌搜索没有对此事产生任何重大帮助。   由   提交/u/XenoPhex  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1abrmxd/guide_or_checklist_on_how_to_fork_bsd3clause/</guid>
       <pubDate>Fri, 26 Jan 2024 20:11:29 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>我制作了一个用于文档和变更日志的开源写作辅助工具</title>
       <link>https://www.reddit.com/r/opensource/comments/19fgwzc/i_made_an_open_source_writing_assistant_tool_for/</link>
-      <description><![CDATA[该工具与 docs-as-code 文档系统（例如 markdown、asciidoc 等）配合使用来进行 AI 审阅（并很快编写初稿） ）。它的功能类似于 linter，只不过您用简单的语言编写规则，并且它可以处理复杂的规则。  GitHub 上的源代码和贡献/想法欢迎。希望你喜欢它！ ​ GitHub：https://github .com/Floe-dev/floe 网址：https://www.floe.dev/&lt; /p&gt; ​   由   提交 /u/Special_Abrocoma4641   [链接] [评论]]]></description>
+      <description><![CDATA[该工具与 docs-as-code 文档系统（例如 markdown、asciidoc 等）配合使用进行 AI 审阅（并很快编写初稿） ）。它的功能类似于 linter，只不过您用简单的语言编写规则，并且它可以处理复杂的规则。  GitHub 上的源代码和贡献/想法欢迎。希望你喜欢它！ ​ GitHub：https://github .com/Floe-dev/floe 网址：https://www.floe.dev/&lt; /p&gt; ​   由   提交 /u/Special_Abrocoma4641   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fgwzc/i_made_an_open_source_writing_assistant_tool_for/</guid>
       <pubDate>Thu, 25 Jan 2024 19:01:56 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/DifficultyFine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fa16v/an_open_source_alternative_for_fiddlercore/</guid>
       <pubDate>Thu, 25 Jan 2024 14:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 DCO（开发者原产地证书）的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/19eze3l/what_are_best_practices_for_using_a_dco_developer/</link>
-      <description><![CDATA[DCO 简而言之，是可以根据项目许可条款提交代码贡献的证明。 （或类似的东西）。 Linux 使用 DCO。 GCC 使用 DCO。然而，FSF 对于 DCO 仍然持观望态度。 I不太相信 FSF 会提供没有意识形态语义扭曲的意见，那么谁是这些主题的真正最佳来源，他们建议如何正确启动项目？ 包括使用 git 的工作流程，考虑到 PR 等因素，使用 DCO 的理想方式是什么？哪些许可证可以或不能真正从中受益？ 我一直在将 DCO 添加到我的项目中，以传播实践并致​​力于工具和流程，但我想加强如何使用它们并传达正确的信息。谢谢。   由   提交 /u/Psionikus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19eze3l/what_are_best_practices_for_using_a_dco_developer/</guid>
-      <pubDate>Thu, 25 Jan 2024 03:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
