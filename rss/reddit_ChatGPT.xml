@@ -4,11 +4,46 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 00:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 03:11:05 GMT</lastBuildDate>
+    <item>
+      <title>使用 ChatGPT 应用程序作为文本转语音</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acs2ik/using_chatgpt_app_as_texttovoice/</link>
+      <description><![CDATA[是否有更简单的方法来单独使用 ChatGPT 的文本转语音功能？似乎此功能仅适用于应用程序，不适用于网络浏览器版本。通过让聊天框输出您想听到的文本来实现文本转语音，并且会有一个朗读选项。然而，chatgpt 应用程序有时会拒绝输出与聊天框输入相同的请求。所以你给它一个模糊的命令来欺骗它输出你想要输入的文本。所以我只是说，“从文本中删除所有表情符号”，这样 chatgpt 将输出与输入基本相同的文本。然后它提供了大声朗读的选项。不过朗读是有限制的，几段，最多3分钟。如果文本太长，则会从头开始。我希望有一种简单易用的方法来使用 chatgpt 的文本转语音模型，而无需经历这么多麻烦。因为文字转语音真的很好，听起来很自然，而且有很多语言，甚至是越南语，这让我很惊讶。   由   提交 /u/kirsion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acs2ik/using_chatgpt_app_as_texttovoice/</guid>
+      <pubDate>Sun, 28 Jan 2024 02:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>新 GPT 提到的意外功能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acqqzp/unexpected_functionality_from_the_new_gpt_mentions/</link>
+      <description><![CDATA[我编写了一个自定义 GPT 来保存我做的笔记。它需要一个用户ID来区分不同的人。它能够创建一个新用户，但它首先会询问您是否希望它执行此操作。 我通过使用提及引入默认 ChatGPT 线程来进行尝试。当我要求它保存我的笔记时，它跳过了我的 GPT 的“你想创建一个新用户吗”？并自动调用新用户操作，然后在新文件夹中创建新注释。这是出乎意料的，因为正如我所说，我的自定义 GPT 笔记记录器会首先明确询问您是否要创建新用户、新文件夹和笔记。 但使用它作为提及时，它会自动发生。意外！这意味着我必须更新我的自定义 GPT 来处理这种情况。   由   提交/u/williamtkelley  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acqqzp/unexpected_functionality_from_the_new_gpt_mentions/</guid>
+      <pubDate>Sun, 28 Jan 2024 01:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>AutoGen Studio 深入探讨：人工智能开发人员的强大工具还是只是炒作？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acqhtg/autogen_studio_deep_dive_power_tool_for_ai/</link>
+      <description><![CDATA[请查看我对 AutoGen Studio 的评论，它是不断发展的人工智能和多代理工作流程领域中的一个强大元素。 在本视频中，我们探讨了 AutoGen Studio 作为 AutoGen 框架的 Web UI 的潜力和局限性，以及它在塑造人工智能应用程序开发的未来方面的作用。了解 AutoGen Studio 是否适合寻求人工智能应用程序开发的高级用户和开发人员利用多代理能力。我们深入研究了它的界面、非技术人员的可用性、集成挑战，以及它与更广泛的 AutoGen 框架相比的情况。此外，我们还评估了 AutoGen Studio 在新兴标准（例如Assistant API、其与网络上多代理通信的兼容性，以及 OpenAI 不断发展的前景的潜在影响。 加入我们，了解 AutoGen Studio 的优势、劣势和未来前景，为开发人员和企业提供见解用户热衷于探索人工智能开发的动态世界。以下是完整评论的视频链接：https://youtu.be /9M63GgiLtFE 谢谢！   由   提交/u/artfewell  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acqhtg/autogen_studio_deep_dive_power_tool_for_ai/</guid>
+      <pubDate>Sun, 28 Jan 2024 01:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将特定对话转换为 PDF？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acqavh/how_to_convert_a_specific_conversation_to_pdf/</link>
+      <description><![CDATA[嗨， 有没有办法将 ChatGPT 的特定对话转换为 PDF？我知道我可以导出整个聊天记录，但这并不实用。理想情况下，它应该类似于扩展程序（我知道有用于此目的的外部软件，但我宁愿它保留在浏览器端） 谢谢！   由   提交 /u/Tobio-Star   /u/Tobio-Star  reddit.com/r/ChatGPT/comments/1acqavh/how_to_convert_a_specific_conversation_to_pdf/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acqavh/how_to_convert_a_specific_conversation_to_pdf/</guid>
+      <pubDate>Sun, 28 Jan 2024 01:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 2024 年约会</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1acq77l/chatgpt_on_dating_in_2024/</link>
+      <description><![CDATA[在当代约会的神秘景观中，2024 年以一场大胆的探险展开，类似于穿越狂野西部的不稳定地形，那里有未知的领域情感模糊的领域反映了亚马逊雨林的神秘深处。在社会动态的茂密灌木丛中，参与者发现自己面对着不可预见的隐喻恐龙的存在——蒙住眼睛，被难以解读的意图所推动，并散发出潜在的愤怒光环。约会之旅变成了一场不懈的探索，在错综复杂的情感相互作用中导航，就像一个引人入胜的传奇故事，每一步都揭示了意想不到的事情，很像一场穿越风景的危险奥德赛，狂野、不可预测和莫名其妙的事物汇聚成一幅令人眼花缭乱的挂毯。浪漫的探索。   由   提交/u/RedditCommenter38   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1acq77l/chatgpt_on_dating_in_2024/</guid>
+      <pubDate>Sun, 28 Jan 2024 01:01:59 GMT</pubDate>
+    </item>
     <item>
       <title>我应该继续付费购买 Pro 还是应该使用 Copilot？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acpa1q/should_i_continue_paying_for_pro_or_should_i_use/</link>
-      <description><![CDATA[我已经订阅 ChatGPT 几周了，但取消了我的计划，以便在我找到 Copilot 时不再续订。实际上，两者之间有什么区别？我最好节省 20 英镑并只使用 Microsoft 的实现吗？我订阅了访问 GPT-4 和 DALL-E，但 Copilot 将所有这些作为标准配置，只是速度较慢。  我之所以问这个问题，是因为我已经订阅了 MidJourney，而且订阅价格越来越贵。   由   提交/u/geecol  [链接] [评论]]]></description>
+      <description><![CDATA[我已经订阅 ChatGPT 几周了，但取消了我的计划，以便在我找到 Copilot 时不再续订。实际上，两者之间有什么区别？我最好节省 20 英镑并只使用 Microsoft 的实现吗？我订阅了访问 GPT-4 和 DALL-E，但 Copilot 拥有所有这些标准，只是速度较慢。  我之所以问这个问题，是因为我已经订阅了 MidJourney，而且订阅价格越来越贵。   由   提交/u/geecol  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acpa1q/should_i_continue_paying_for_pro_or_should_i_use/</guid>
       <pubDate>Sun, 28 Jan 2024 00:17:56 GMT</pubDate>
     </item>
@@ -36,14 +71,14 @@
     <item>
       <title>Spurious Scholar：一个针对 p < 0.05 的虚假相关性撰写学术论文的项目</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acp4x3/spurious_scholar_a_project_to_write_academic/</link>
-      <description><![CDATA[我想你们可能会喜欢这个。我运行了一个名为“虚假相关性”的项目，已有 10 年历史，该项目是不相关变量之间的随机相关性（通常会产生令人捧腹的结果）。  我意识到，通过 ChatGPT，我可以更进一步，让人工智能针对任何具有统计显着性的相关性起草数千篇学术论文。结果如下：https://tylervigen.com/spurious-scholar 如果您点击“查看数据详细信息”任意行上的按钮并向上滚动到“AI学术论文”部分，您可以单击“显示用于生成本文的提示”来查看提示序列。 为了使它们看起来真实，我使用在 Linux 服务器上运行的无头版本 LibreOffice，该服务器具有一些预制模板，结果将粘贴到其中。 pdf 生成完全自动化。如果您“发现”相关性，然后给它打 5 分，最终 cron 会选择它并写一篇关于它的研究论文。 我没有对学术论文进行微调，但我确实对 AI 进行了微调详细页面上出现的因果机制的解释。我很惊讶这竟然如此简单。 我从 Beta 测试者（主要是高中和大学老师）那里得到的反馈是，我非常非常清楚。这是人工智能生成的，因为并不是每个人都习惯看到这种内容。为此，论文的每一页都写着“这篇论文是人工智能生成的”。在底部，如果你真正阅读了一个部分（尤其是点燃的评论部分），你会发现它们过于愚蠢。 希望你喜欢！   由   提交 /u/TylerVigen   [链接] [评论]]]></description>
+      <description><![CDATA[我想你们可能会喜欢这个。我运行了一个名为“虚假相关性”的项目，已有 10 年历史，该项目是不相关变量之间的随机相关性（通常会产生令人捧腹的结果）。  我意识到，通过 ChatGPT，我可以更进一步，让人工智能针对任何具有统计显着性的相关性起草数千篇学术论文。结果如下：https://tylervigen.com/spurious-scholar 如果您点击“查看数据详细信息”任意行上的按钮并向上滚动到“AI学术论文”部分，您可以单击“显示用于生成本文的提示”来查看提示序列。 为了使它们看起来真实，我使用在 Linux 服务器上运行的 LibreOffice 无头版本，该服务器有一些预制模板，结果将粘贴到其中。 pdf 生成完全自动化。如果您“发现”相关性，然后给它打 5 分，最终 cron 会选择它并写一篇关于它的研究论文。 我没有对学术论文进行微调，但我确实对 AI 进行了微调详细页面上出现的因果机制的解释。我很惊讶这竟然如此简单。 我从 Beta 测试者（主要是高中和大学老师）那里得到的反馈是，我非常非常清楚。这是人工智能生成的，因为并不是每个人都习惯看到这种内容。为此，论文的每一页都写着“这篇论文是人工智能生成的”。在底部，如果你真正阅读了一个部分（尤其是点燃的评论部分），你会发现它们过于愚蠢。 希望你喜欢！   由   提交 /u/TylerVigen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acp4x3/spurious_scholar_a_project_to_write_academic/</guid>
       <pubDate>Sun, 28 Jan 2024 00:11:07 GMT</pubDate>
     </item>
     <item>
       <title>为什么艺术家如此反对人工智能，而程序员却不然？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1acoozy/why_artists_are_so_adverse_to_ai_but_programmers/</link>
-      <description><![CDATA[我的群聊中的一个人说他不喜欢“人工智能在受版权保护的数据上进行训练”。我没有反问，但我想知道为什么对于一个有抱负的艺术家来说，通过观察和绘制别人的东西来开始学习是完全可以的，但如果人工智能这样做，那就是作弊 现在你可以在任何地方看到艺术家（声音、表演、画家、任何人）多么渴望看到人工智能被禁止存在。对我来说，这感觉就像出租车司机急于烧毁 Uber 总部，或者蜡烛制造商反对灯泡的发明 但是，IT 人员或工程师已经等不及了看看人工智能接下来会带来什么样的新进步和贡献   由   提交 /u/Blender-Fan   [链接] [评论]]]></description>
+      <description><![CDATA[我的群聊中的一个人说他不喜欢“人工智能在受版权保护的数据上进行训练”。我没有反问，但我想知道为什么对于一个有抱负的艺术家来说，通过观察和绘制别人的东西来开始学习是完全可以的，但如果人工智能这样做，这是作弊 现在你可以在任何地方看到艺术家（声音、表演、画家、任何人）多么渴望看到人工智能被禁止存在。对我来说，这感觉就像出租车司机急于烧毁 Uber 总部，或者蜡烛制造商反对灯泡的发明 但是，IT 人员或工程师已经等不及了看看人工智能接下来会带来什么样的新进步和贡献   由   提交 /u/Blender-Fan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acoozy/why_artists_are_so_adverse_to_ai_but_programmers/</guid>
       <pubDate>Sat, 27 Jan 2024 23:50:45 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好。我加入了这个小组，想问一下，最近两周 GPT 是不是更难了？我不知道还有什么词可以用来形容它。我确实不得不说服它做它知道如何做的事情。   由   提交/u/WellThatsSomeBS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1acnpwn/difficult/</guid>
       <pubDate>Sat, 27 Jan 2024 23:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为今年最有可能的技术进步是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acmorx/what_do_you_think_are_the_most_likely/</link>
-      <description><![CDATA[您认为今年科技领域最有可能出现的结果是什么？ 有了关于 Optimus 2 的所有这些消息，现在Nvidia 机器人看起来机器人和其他家用自主机器人很可能会在不久的将来出现。 我希望它更像 Big Hero 6... …但很多人担心它会更像终结者 还有关于用于定向打击的真正复杂的自主无人机的新闻，以及其他类似的噩梦般的发展。 我的问题你：你认为再发展一年最有可能的结果是什么？ 你认为到 2024 年 12 月底我们会达到什么水平？   由   提交/u/thecoffeejesus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acmorx/what_do_you_think_are_the_most_likely/</guid>
-      <pubDate>Sat, 27 Jan 2024 22:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instacart 在他们的食谱中使用了劣质的人工智能生成的照片。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acmj5t/instacart_is_using_poorlymade_aigenerated_photos/</link>
-      <description><![CDATA[       由   提交 /u/Business-Stuff8711    reddit.com/gallery/1acd3f2&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acmj5t/instacart_is_using_poorlymade_aigenerated_photos/</guid>
-      <pubDate>Sat, 27 Jan 2024 22:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找浏览器扩展来自动化和优化 ChatGPT 提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acmefh/looking_for_browser_extensions_to_automate_and/</link>
-      <description><![CDATA[有人知道提供以下功能的浏览器扩展或工具吗？  提示优化：该扩展程序可以自动优化我在 chat.openai.com 中输入的提示，以提高清晰度和有效性。理想情况下，该工具会在发送之前拦截提示，使用 AI 对其进行改进，然后发送改进后的版本。 自动化高级提示技术：可以应用各种高级提示的扩展提示技术，不仅限于思想链 (CoT)，还包括其他增强 ChatGPT 响应的连贯性和上下文相关性的技术。  浏览器兼容性和易用性：它是至关重要的是，该工具可以作为浏览器扩展无缝运行，不需要 API 密钥。   由   提交 /u/One_Yogurtcloset4083   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acmefh/looking_for_browser_extensions_to_automate_and/</guid>
-      <pubDate>Sat, 27 Jan 2024 22:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否尝试过比较 ChatGPT voxscript 插件和 Voxscript GPT？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1acloj5/have_you_tried_comparing_the_chatgpt_voxscript/</link>
-      <description><![CDATA[我正在尝试找出哪个更好。我在此处附加了一个示例比较，想知道是否有其他人尝试过对它们进行比较。 我设置了一个提示并在两者中运行它，并在此处发布了比较。 https://www.learninternetgrow.com/compare-chatgpt-voxscript-plugin-and-voxscript -gpt/ 比较文章中的 YouTube 视频摘要提示示例。   由   提交/u/dima11235813  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1acloj5/have_you_tried_comparing_the_chatgpt_voxscript/</guid>
-      <pubDate>Sat, 27 Jan 2024 21:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GPT Builder 将文本转视频添加到 chatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aclahb/adding_texttovideo_to_chatgpt_using_gpt_builder/</link>
-      <description><![CDATA[GPT Builder 和 Store 是扩展 chatGPT 中可用创意工具的绝佳机会！我刚刚添加了一个文本到视频生成器并发布了一个 GPT，它可以帮助制作一流的视频提示，然后将其发送以提供 2 秒/16 fps 的视频以供下载或共享。有一个脚本可以训练 chatGPT 来了解如何制作出色的视频提示。它可以提供想法或获取您的场景描述并对其进行升级。很快我将添加创建或上传 DALL-E 图像的功能，并将其与文本提示一起发送以使其具有动画效果或修改视频对象。希望得到这个社区关于这方面各个方面的建议。 &lt; p&gt;这里是一个例子：“女孩拥抱小狗，阳光明媚的田野雏菊轻轻摇曳，小狗摇尾巴，女孩温暖地微笑，柔软的金色阳光，宁静的气氛，特写在脸上，精致的雏菊花瓣，微风，俏皮，欢乐的心情，托马斯·金凯德风格的印象派油画画布效果高分辨率自然光增强功能” https://twisty.ai/g/IiDc28v3ZtWrZGqKo3cA&lt; /p&gt; 您可以在探索中使用“twisty”或“video AI”搜索 GPT。或者使用此直接链接进行尝试： https://chat.openai .com/g/g-RfAYbjflC-twisty-video-ai-creator    由   提交 /u/powersdomo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aclahb/adding_texttovideo_to_chatgpt_using_gpt_builder/</guid>
-      <pubDate>Sat, 27 Jan 2024 21:18:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
