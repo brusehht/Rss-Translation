@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 18:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 21:10:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 亚伯拉罕·马斯洛 (Abraham Maslow) 的人类需求层次理论最初于 1943 年提出，现已被重新修订 [...]</title>
-      <link>https://t.me/hn_summary/71493</link>
-      <description><![CDATA[马斯洛层次结构缺失的顶点：自我超越 
-亚伯拉罕·马斯洛 (Abraham Maslow) 的人类需求层次理论最初于 1943 年提出，经过修订，增加了一个新的顶点：自我超越。马斯洛认为，在满足我们的基本需求并发挥我们的潜力之后，我们必须超越我们作为个体的想法，并将自己视为更广阔宇宙的一部分。这种更广泛的视角对于制定能够帮助人类作为一个物种生存的共同优先事项是必要的。正念和心流等技巧可以帮助个人实现自我超越，并为全球社区团结起来的重要性做出贡献。这些方法不仅是优化我们思维的工具，而且对于我们物种的延续至关重要。]]></description>
-      <guid>https://t.me/hn_summary/71493</guid>
-      <pubDate>Sun, 28 Jan 2024 18:12:10 GMT</pubDate>
+      <title>[媒体]“用于文本提取和聚类的易于使用的 Apple Vision 包装器”是一个 Python-[...]</title>
+      <link>https://t.me/hn_summary/71511</link>
+      <description><![CDATA[易于使用的 Apple Vision 包装器，用于文本提取和聚类&lt; /a&gt;
+“用于文本提取和聚类的易于使用的 Apple Vision 包装器”是一个基于 Python 的实用程序，称为 appleocr，它通过从图像中提取文本来促进光学字符识别 (OCR)。它使用 Apple 提供的 Vision 框架来识别图像中的文本并提供有关其置信度的信息。该工具还对提取的数据提供 K-Means 聚类，根据相似的文本元素的坐标将其分组在一起。此外，apple ocr 使用 Plotly 提供交互式 3D 散点图，以可视化聚集的文本元素，使用户能够深入了解文本的分布和文本密度。该工具依赖于各种 Python 库，例如 Torch、NumPy、Pandas、Pillow、Scikit-learn、Plotly 和 Pyobjc。用户可以安装所需的库、初始化 OCR 类、执行文本识别和聚类以及创建 3D 散点图。该项目可在 pypi.org 上下载。]]></description>
+      <guid>https://t.me/hn_summary/71511</guid>
+      <pubDate>Sun, 28 Jan 2024 21:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据 Jet Brains 的一份报告，73% 的开发人员在 [...]</title>
-      <link>https://t.me/hn_summary/71492</link>
-      <description><![CDATA[开发者经历过倦怠，但 70% 的人在周末编码
-根据 Jet Brains 的一份报告，73% 的开发者在职业生涯中经历过职业倦怠。那些经历过倦怠的人更容易感到疲倦，并使用自我监控应用程序或设备来跟踪他们的健康数据。研究发现，心理健康、自我组织和时间管理等因素可以提高那些经历过倦怠的人的日常工作效率。此外，75% 的开发人员已经退出了学习计划或课程，其中许多人更喜欢通过文档和 API 而不是传统课程来学习。良好的工作时间、良好的薪酬和成就感是开发人员工作满意度的最重要因素。令人惊讶的是，70% 的开发者也会在周末编码以获取乐趣。]]></description>
-      <guid>https://t.me/hn_summary/71492</guid>
-      <pubDate>Sun, 28 Jan 2024 18:10:03 GMT</pubDate>
+      <title>[媒体] Swordandsignals.com 上的文章提供了有关如何迁移 [...]</title>
+      <link>https://t.me/hn_summary/71510</link>
+      <description><![CDATA[如何将 AWS EC2 实例从 IPv4 迁移到 IPv6
+swordandsignals.com 上的文章提供了分步指南有关如何将 AWS EC2 实例从 IPv4 迁移到 IPv6 以避免公共 IPv4 地址产生费用。作者强调在进行任何更改之前检查您的互联网连接是否支持 IPv6 的重要性。该指南涵盖配置 VPC、子网、网络接口、安全组和路由表以启用 IPv6。作者还建议暂时将弹性 IP 与实例关联以删除自动分配的 IPv4 地址。本文最后重点介绍了作者的工具 Knowmatic，该工具允许用户通过旁白截屏视频创建帮助中心风格的文章。]]></description>
+      <guid>https://t.me/hn_summary/71510</guid>
+      <pubDate>Sun, 28 Jan 2024 20:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>法国在向学生展示同一幅漫画后被一名伊斯兰极端分子斩首。</title>
-      <link>https://t.me/hn_summary/71491</link>
-      <description><![CDATA[老师展示了三年后仍然隐藏的穆罕默德漫画
-法国在向学生展示同一幅漫画后被一名伊斯兰极端分子斩首。围绕教师行为的争议以及随后的抗议活动凸显了围绕先知穆罕默德的描绘所持续的紧张局势和敏感性。三年后，这名教师仍然躲藏起来，而且不太可能回家，这一事实凸显了与此类行为相关的持久影响和潜在危险。]]></description>
-      <guid>https://t.me/hn_summary/71491</guid>
-      <pubDate>Sun, 28 Jan 2024 18:08:56 GMT</pubDate>
+      <title>[媒体]据消息人士透露，Reddit 被建议将估值目标定为至少 50 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/71509</link>
+      <description><![CDATA[Reddit 建议 IPO 目标估值至少为 50 亿美元
+据消息人士透露，Reddit 被建议将其即将进行的首次公开募股 (IPO) 的估值目标定为至少 50 亿美元。这个流行的在线平台以其用户生成的内容和讨论而闻名，近年来取得了显着增长，并已成为许多互联网用户的首选目的地。此次 IPO 预计将于 2022 年初进行，有可能成为今年规模最大的科技股发行之一。考虑到该公司在今年早些时候的一轮私募融资中估值为 100 亿美元，一些人认为 Reddit 的估值目标过于雄心勃勃。]]></description>
+      <guid>https://t.me/hn_summary/71509</guid>
+      <pubDate>Sun, 28 Jan 2024 20:29:31 GMT</pubDate>
     </item>
     <item>
-      <title>佐治亚州希望吸引更多的数据中心。</title>
-      <link>https://t.me/hn_summary/71490</link>
-      <description><![CDATA[格鲁吉亚希望吸引更多数据中心。现在它需要更多的力量
-佐治亚州大力吸引数据中心导致电力需求激增。数据中心是电力和水密集型设施，支持我们的数字生活。乔治亚电力公司透露，其预测的需求紧缩中约有 80% 是由数据中心驱动的。该州提供了税收优惠和财产税减免来吸引数据中心开发商，但批评者认为，这些设施创造的就业机会很少，并且给可能为额外电力容量提供资金的纳税人造成负担。亚特兰大都会区现已成为美国第六大数据中心市场，有多个大型项目正在开发中。数据中心的增长引发了人们对其对基础设施、电力消耗和供水影响的担忧。]]></description>
-      <guid>https://t.me/hn_summary/71490</guid>
-      <pubDate>Sun, 28 Jan 2024 18:07:49 GMT</pubDate>
+      <title>[媒体]OpenCiv1 项目是一个社区驱动的项目，旨在重写 Civili 的源代码 [...]</title>
+      <link>https://t.me/hn_summary/71508</link>
+      <description><![CDATA[开源重写文明 1 源代码 – OpenCiv1 项目
+OpenCiv1 项目是一个社区驱动的项目，旨在重写流行策略游戏《文明 1》的源代码。虽然游戏机制被认为与原作非常相似，但游戏的呈现存在一些缺陷。一个主要错误是，保存游戏时，所有单位都会恢复其动作，这可能会扰乱游戏玩法。此外，城市菜单中的功能已转移到 Windows 菜单栏，一些玩家觉得不方便。 Windows 版本也存在音乐问题，因为它会切断某些曲目并且不保存单位名称。图形和配色方案也是一个争论点，许多人更喜欢 DOS 版本的视觉效果。总体而言，OpenCiv1 项目旨在改进这些缺点并提供更愉快的游戏体验。]]></description>
+      <guid>https://t.me/hn_summary/71508</guid>
+      <pubDate>Sun, 28 Jan 2024 20:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目是一个用 C 语言编码的用于 GNU/Linux 终端的文本模式元素周期表。</title>
-      <link>https://t.me/hn_summary/71489</link>
-      <description><![CDATA[显示 HN：GNU/C 语言的文本模式周期表Linux终端
-该项目是一个用 C 语言编写的用于 GNU/Linux 终端的文本模式周期表。它旨在提供具有视觉吸引力的复古元素周期表。该项目包括处理不同抽象级别的各种模块，例如为动画创建毫秒计时器、用于读取转义键的小键盘抽象以及用于显示的双屏幕缓冲区。主程序位于main.c 文件中，元素存储在名为elements.dat 的数据库文件中。作者提到元素的信息是使用 chatGPT 生成的。该项目的独特之处在于没有任何额外的依赖项并且易于编译和运行。]]></description>
-      <guid>https://t.me/hn_summary/71489</guid>
-      <pubDate>Sun, 28 Jan 2024 18:06:41 GMT</pubDate>
+      <title>[媒体]本文讨论了联邦调查局对法国哲学家让·保罗·萨特的监视[...]</title>
+      <link>https://t.me/hn_summary/71507</link>
+      <description><![CDATA[联邦调查局如何在肯尼迪遇刺后瞄准加缪，然后瞄准萨特 ( 2013）
+本文讨论了 20 世纪 60 年代 FBI 对法国哲学家让-保罗·萨特 (Jean-Paul Sartre) 和阿尔贝·加缪 (Albert Camus) 的监视。作者安迪·马丁探讨了联邦调查局对萨特加入古巴公平竞争委员会的兴趣，李·哈维·奥斯瓦尔德也是该委员会的成员。马丁认为萨特可能是肯尼迪遇刺事件中的“第二枪手”。这篇文章强调了联邦调查局努力理解萨特和加缪的哲学细微差别，以及他们对涉及共产主义者、黑人、诗人和法国哲学家的阴谋的信念。作者语气是半开玩笑的，但话题却很严肃。]]></description>
+      <guid>https://t.me/hn_summary/71507</guid>
+      <pubDate>Sun, 28 Jan 2024 20:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇题为“不要给牦牛剃毛”的博文中，作者介绍了术语“牦牛 [...]</title>
-      <link>https://t.me/hn_summary/71488</link>
-      <description><![CDATA[别给那头牦牛剃毛 (2005)&lt; br /&gt;
-在这篇题为“不要给牦牛剃毛”的博客文章中，作者介绍了术语“给牦牛剃毛”，这是当您需要做某件事时发生的一系列步骤中的最后一步。作者举了一个例子，想要给汽车打蜡，但发现软管坏了，需要更换。这导致了一系列事件，包括借用 EZPass、归还借来的物品，以及最终给牦牛剃毛以填充枕头。作者强调了剃牦牛毛的现象在团体中更为普遍，并建议个体企业家和小型组织更有可能完成任务，因为他们的干扰较少。作者建议不要沉迷于剃牦牛毛，并鼓励妥协和把事情做好而不是完美。帖子还提到，“牦牛剃毛”显然在 2010 年被麻省理工学院媒体实验室变成了一个计算机术语。]]></description>
-      <guid>https://t.me/hn_summary/71488</guid>
-      <pubDate>Sun, 28 Jan 2024 18:03:32 GMT</pubDate>
+      <title>[媒体] 作者讨论了他们的 JS 引擎 Porffor 现在如何解析 TypeScript 并使用 ty [...]</title>
+      <link>https://t.me/hn_summary/71506</link>
+      <description><![CDATA[使用 TS 类型注解进行 JavaScript 引擎优化
+作者讨论了他们的 JS 引擎 Porffor 现在如何解析 TypeScript 并使用类型注释作为编译器提示来优化性能。他们解释说，通过使用类型注释定义类型，可以消除运行时类型检查的需要，从而显着提高速度。作者提供了一个基准测试，比较了带类型注释和不带类型注释的常规 JS 代码的性能，显示使用类型时速度提高了 1.5 倍。他们还提到了其他优化，例如使用特定类型和禁用某些检查，这进一步提高了性能。作者最后强调了实现此功能的简便性并对未来的改进表示兴奋。]]></description>
+      <guid>https://t.me/hn_summary/71506</guid>
+      <pubDate>Sun, 28 Jan 2024 20:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mnemosyne 项目是一个免费的抽认卡工具，旨在优化学习过程。</title>
-      <link>https://t.me/hn_summary/71487</link>
-      <description><![CDATA[Mnemosyne 项目：Anki 替代品
-Mnemosyne 项目是一个免费的抽认卡工具，旨在优化学习过程。这也是一个专注于理解长期记忆的研究项目。该软件旨在为初学者提供方便，但为高级用户提供广泛的自定义选项。 Mnemosyne 使用算法根据个人难度级别安排卡片复习，确保高效学习。用户还可以选择将学习过程的匿名统计数据上传到中央服务器进行分析，这将用于改进软件的调度算法。]]></description>
-      <guid>https://t.me/hn_summary/71487</guid>
-      <pubDate>Sun, 28 Jan 2024 18:02:26 GMT</pubDate>
+      <title>[媒体]根据 Stack Overflow 进行的一项调查，79% 的开发者正在考虑 [...]</title>
+      <link>https://t.me/hn_summary/71505</link>
+      <description><![CDATA[Stack Overflow：79% 的开发者考虑跳槽
+Stack Overflow 进行的一项调查显示，79% 的开发者正在考虑转行或积极寻找新的工作机会。这种趋势在新开发人员和经验丰富的开发人员中都可以看到，该领域的新人的工作转换也在增加。调查还显示，对更高薪水的渴望是考虑转行的首要原因，其次是对其他公司的好奇。在研究潜在雇主时，开发人员通常会求助于招聘委员会及其专业网络。报告表明，开发人员（尤其是那些职业生涯较晚的开发人员）不断增长的好奇心和不断变化的偏好，导致考虑的职位平均数量增加。]]></description>
+      <guid>https://t.me/hn_summary/71505</guid>
+      <pubDate>Sun, 28 Jan 2024 20:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了迈克尔·刘易斯 (Michael Lewis) 的最新著作《走向无限》(Going Infinite)，该书长期 [...]</title>
-      <link>https://t.me/hn_summary/71486</link>
-      <description><![CDATA[迈克尔·刘易斯的弱点
-网络内容讨论了 Michael Lewis 的最新著作《Going Infinite》，该书记录了加密货币巨头 Sam Bankman-Fried 及其加密货币交易所 FTX 和对冲基金 Alameda Research 的兴衰。作者强调，刘易斯更感兴趣的是探索山姆的心理，而不是关注他和他周围的人所犯的错误。内容还提到刘易斯的故事讲述缺乏微妙之处，以及他未能反思自己的报道。它讨论了加密货币行业的模糊性和不熟悉性如何导致欺骗和伤害被忽视。内容强调了不要让歧义成为自我放纵的掩护的重要性。 （根据故事文本的 38% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71486</guid>
-      <pubDate>Sun, 28 Jan 2024 18:02:21 GMT</pubDate>
+      <title>[媒体]华为诺亚方舟实验室、大连理工大学、清华大学的研究人员 [...]</title>
+      <link>https://t.me/hn_summary/71504</link>
+      <description><![CDATA[开源 PixArt-δ 图像生成器吐出高分辨率 AI 0.5秒内的图像
+来自华为诺亚方舟实验室、大连理工大学、清华大学和Hugging Face的研究人员开发了PixArt-δ，这是一款开源图像生成器，比其前身PixArt-α更快、更准确。 PixArt-δ 集成了潜在一致性模型（LCM）和 ControlNet，只需 0.5 秒即可生成分辨率为 1,024 x 1,024 像素的高质量图像，比 PixArt-α 快七倍。该模型还通过集成 ControlNet 模块提供对图像生成的更多控制。与市场上其他图像生成器相比，PixArt-δ 的结果分辨率更高且更一致。]]></description>
+      <guid>https://t.me/hn_summary/71504</guid>
+      <pubDate>Sun, 28 Jan 2024 19:58:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容讨论了波音 737 MAX 飞机的持续问题，highlig [...]</title>
-      <link>https://t.me/hn_summary/71485</link>
-      <description><![CDATA[“停止这种疯狂行为”：阿拉斯加航空机门爆裂源于疏忽
-网页内容讨论了波音 737 MAX 飞机的持续问题，强调了波音公司的疏忽和企业渎职行为以及美国联邦航空管理局 (FAA) 的监管捕获。自 2019 年埃塞俄比亚航空公司坠机事件以来，作者一直在调查 737 MAX 飞机，他指出该飞机的设计、制造、工艺、检查和监督都很糟糕。文章还提到了有争议的机动特性增强系统（MCAS），该系统在坠机事件中发挥了作用，以及对波音公司在 MCAS 问题上欺骗美国联邦航空局的刑事指控。作者质疑美国联邦航空局对此事的处理方式，并批评波音公司与司法部签署的《暂缓起诉协议》(DPA)。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/71485</guid>
-      <pubDate>Sun, 28 Jan 2024 18:01:14 GMT</pubDate>
+      <title>[媒体]最近的科技裁员并不是经济困境的反映，而是战略性的 [...]</title>
+      <link>https://t.me/hn_summary/71503</link>
+      <description><![CDATA[科技裁员与经济困难无关，而是与人工智能投资挂钩
+最近的科技裁员并不是经济困境的反映，而是科技公司优先投资人工智能（AI）的战略举措。科技行业领导者将这些裁员视为提高效率、重新调整优先事项和削减表现不佳人员的一种方式，同时对人工智能进行大量投资。这种焦点的转变是由于人们认识到智能手机时代正在成熟，而加密货币和虚拟宇宙等其他趋势的采用速度较慢。尽管进行了裁员，科技股仍处于历史高位，失业率仍然很低。投资者将这些行动视为必要的调整，以确保在不断变化的市场中的竞争力。]]></description>
+      <guid>https://t.me/hn_summary/71503</guid>
+      <pubDate>Sun, 28 Jan 2024 19:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：如何设置新 Mac？</title>
-      <link>https://t.me/hn_summary/71484</link>
-      <description><![CDATA[询问 HN：如何设置新 Mac？
-news.ycombinator.com 上这篇文章的作者是寻求有关如何设置新 Mac 的建议。他们提到他们希望从头开始，以便进行更干净的安装。他们向其他 HN 用户询问在设置新计算机时应更改或安装哪些设置和应用程序的建议。]]></description>
-      <guid>https://t.me/hn_summary/71484</guid>
-      <pubDate>Sun, 28 Jan 2024 18:00:07 GMT</pubDate>
+      <title>[媒体]此网络内容的作者讨论了人造蜡烛的演变，具体 [...]</title>
+      <link>https://t.me/hn_summary/71502</link>
+      <description><![CDATA[LED 内置通用 MCU 模拟蜡烛闪烁 
+该网页内容的作者讨论了人造蜡烛的演变，特别关注模拟真实蜡烛闪烁性质的蜡烛闪烁 LED。然后作者介绍了这些 LED 茶灯的升级版本，其中包括一个定时器，6 小时后关闭蜡烛，18 小时后再次打开。作者检查了 LED 茶灯的内部组件，发现它包含一个 OTP 微控制器，特别是 PIC12F508/9，这种微控制器常见于低成本的中国电子产品中。作者还讨论了 LED 的电气特性，并建议实施适当的断电模式可以显着提高 LED 的使用寿命。作者最后提出质疑是否可以对蜡烛 LED 实现进行进一步改进。]]></description>
+      <guid>https://t.me/hn_summary/71502</guid>
+      <pubDate>Sun, 28 Jan 2024 19:48:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
