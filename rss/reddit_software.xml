@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 09:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 12:19:40 GMT</lastBuildDate>
+    <item>
+      <title>有没有一个软件可以找到重复或相似视觉照片并重命名</title>
+      <link>https://www.reddit.com/r/software/comments/1adt1f3/is_there_a_software_that_can_find_duplicate_or/</link>
+      <description><![CDATA[我尝试了很多选项，但未能找到具有这两个功能的选项！   由   提交/u/souless_android   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1adt1f3/is_there_a_software_that_can_find_duplicate_or/</guid>
+      <pubDate>Mon, 29 Jan 2024 11:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找免费的非企业个人助理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ads1bf/looking_for_free_noncorporate_personal_assistant/</link>
+      <description><![CDATA[我的前任有一个 Alexa，虽然我不喜欢亚马逊、谷歌、微软、苹果或任何能够收集我数据的人。但我最近确实在与心理健康作斗争，我认为能够制作备忘录或设置计时器会非常有帮助。不幸的是，如果我在洗碗或做饭，那么洗手、擦干、找到我的手机、解锁屏幕，然后说“嘿，谷歌，设置十五分钟”，非常耗时且惯性停止。分钟计时器”。  我理想地寻找可以在我的计算机上并与应用程序交互的东西，也可以与我的手机交互。我的电脑有一个非常好的麦克风，但扬声器是蓝牙的，如果不使用，或者只是耳机，它就会关闭。我的 Android 手机上有一些不需要解锁屏幕即可使用的东西也可以。   由   提交/u/Aspel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ads1bf/looking_for_free_noncorporate_personal_assistant/</guid>
+      <pubDate>Mon, 29 Jan 2024 10:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>寻找证书</title>
       <link>https://www.reddit.com/r/software/comments/1adom8b/looking_for_certificates/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>从流程图/yaml 生成 markdown</title>
       <link>https://www.reddit.com/r/software/comments/1admtqd/generate_markdown_from_flowchartyaml/</link>
-      <description><![CDATA[基本上，我想创建一系列从 yaml/config 文件或流程图链接在一起的 Markdown 文件。 例如，如果 yaml 如下所示：   name: &quot;Like Furit&quot;节点：- id：1 名称：“你喜欢苹果吗？”孩子：- ID：2 选项：“是” - id：3 选项：“否” - id: 2 name: “你喜欢橙子吗？”孩子：- ID：4 选项：“是” - id：5 选项：“否” - id：3 name：“你不喜欢水果” - id：4 name：“你喜欢苹果和橙子” - id：5 name：“你只喜欢苹果”  然后你可以为它创建一个流程图。然后从流程图中，我希望创建一系列以此为链接的markdown文件，以apple节点为例： ``` Like Fruit 你喜欢苹果吗？  [是](link_to_like_orange_node) [否](link_to_dont_like_fruits_result) ```  是的，我本来可以在大约一周左右的时间内写完这篇文章，但如果有人已经完成了这项工作，我不想重新发明轮子。   由   提交 /u/SodaWithoutSparkles   [链接] [评论]]]></description>
+      <description><![CDATA[基本上，我想创建一系列从 yaml/config 文件或流程图链接在一起的 Markdown 文件。 例如，如果 yaml 如下所示：   name: &quot;Like Furit&quot;节点：- id：1 名称：“你喜欢苹果吗？”孩子：- ID：2 选项：“是” - id：3 选项：“否” - id：2 名称：“你喜欢橙子吗？”孩子：- ID：4 选项：“是” - id：5 选项：“否” - id：3 name：“你不喜欢水果” - id：4 name：“你喜欢苹果和橙子” - id：5 name：“你只喜欢苹果”  然后你可以为它创建一个流程图。然后从流程图中，我希望创建一系列以此为链接的markdown文件，以apple节点为例： ``` Like Fruit 你喜欢苹果吗？  [是](link_to_like_orange_node) [否](link_to_dont_like_fruits_result) ```  是的，我可以在大约一周左右的时间内写完这篇文章，但如果有人已经完成了这项工作，我不想重新发明轮子。   由   提交 /u/SodaWithoutSparkles   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1admtqd/generate_markdown_from_flowchartyaml/</guid>
       <pubDate>Mon, 29 Jan 2024 04:41:44 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>寻找自动化软件：根据关键字查找文件并将其移动到特定文件夹</title>
       <link>https://www.reddit.com/r/software/comments/1adaxup/looking_for_automation_software_find_files_based/</link>
-      <description><![CDATA[我有一个每周下载数十个文件的系统。我想要的是能够完成获取每个文件并将它们移动到预定文件夹中的繁重任务的软件。就像“Abramson 32 Part 2 (2024)”将进入每个“Abramson (2024)”的文件夹中。 “Silicon 7.7 (2024)”将进入名为“Silicon (2024)”的文件夹。 有人可以帮我找到最适合此操作的软件吗？ 请注意：我会希望为 Windows 找到这个，将来也为 Linux 找到这个   由   提交/u/KublaKahhhn   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个每周下载数十个文件的系统。我想要的是能够完成将每个文件移动到预定文件夹中的繁重任务的软件。就像“Abramson 32 Part 2 (2024)”将进入每个“Abramson (2024)”的文件夹中。 “Silicon 7.7 (2024)”将进入名为“Silicon (2024)”的文件夹。 有人可以帮我找到最适合此操作的软件吗？ 请注意：我会希望为 Windows 找到这个，将来也为 Linux 找到这个   由   提交/u/KublaKahhhn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1adaxup/looking_for_automation_software_find_files_based/</guid>
       <pubDate>Sun, 28 Jan 2024 19:35:16 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[您可以将压缩的游戏从驱动器复制到驱动器而不解压缩吗？    由   提交 /u/Far_Pay_3294   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ad7fpv/question_for_who_ever_use_compactgui_to_compress/</guid>
       <pubDate>Sun, 28 Jan 2024 17:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些免费录音软件不会落后于低端笔记本电脑？</title>
-      <link>https://www.reddit.com/r/software/comments/1ad5mnw/what_are_some_free_recording_software_that_wont/</link>
-      <description><![CDATA[您好，最近我一直想进入 youtube，并且想为我的视频录制一些 Minecraft 背景素材，但我的视频质量较低2019 年的联想笔记本电脑和 OBS 在我的游戏中远远落后，而且镜头看起来也很糟糕。我想要一些轻量级的东西，不会过多使用 cpu   由   提交/u/andr3wsmemez69  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ad5mnw/what_are_some_free_recording_software_that_wont/</guid>
-      <pubDate>Sun, 28 Jan 2024 15:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>应该进行更多研究并撰写相关论文的一件事是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1ad56un/what_it_that_one_thing_that_should_have_way_more/</link>
-      <description><![CDATA[您是否曾经遇到过一些东西，并意识到它很深奥且有趣，只是搜索它却发现几乎没有关于它的研究论文？那么，那是什么东西？   由   提交 /u/SilentThespian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ad56un/what_it_that_one_thing_that_should_have_way_more/</guid>
-      <pubDate>Sun, 28 Jan 2024 15:32:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
