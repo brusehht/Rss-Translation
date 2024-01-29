@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Jan 2024 12:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 15:11:54 GMT</lastBuildDate>
+    <item>
+      <title>OSS静态站点生成器和AI制作的自定义主题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1adv0nf/oss_static_site_generators_and_ai_made_custom/</link>
+      <description><![CDATA[我想创建一个静态网站的个人博客。参数：  帖子源将在 Git 中存储为 .md 文件和图像。 帖子应有标题缩略图。&lt; /p&gt; 我应该能够通过 UI 上的标签进行过滤。 博客应该有 RSS feed（也许还有 Atom）。   有什么好的SSG可以做到这一点吗？ 另外我想知道可以为其生成主题的AI吗？ 我知道这里可能没有完美的人工智能工具，但我不介意努力应用人工智能生成的主题。另外，如果 SSG 绝对令人兴奋，我不介意不关心如何存储帖子源。   由   提交 /u/HimadHustler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1adv0nf/oss_static_site_generators_and_ai_made_custom/</guid>
+      <pubDate>Mon, 29 Jan 2024 13:13:35 GMT</pubDate>
+    </item>
     <item>
       <title>在具有严格知识产权规则的大学发布开源软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1adr0ln/publishing_opensource_software_at_a_university/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Anukool：我的求职助手</title>
       <link>https://www.reddit.com/r/opensource/comments/1adpfah/anukool_my_job_hunting_assistant/</link>
-      <description><![CDATA[嘿 Reddit，我一直在申请工作，发现为每个职位写求职信很乏味。我还深入研究了 LLM 和 Langchain，希望利用它们来做一个项目来帮助我找工作。因此，我在 GPL 许可下开发了 Anukool。虽然它远非完美，但事实证明它对我非常有用，我希望它也能让您受益。由于我是 ML 和 LLM 的新手，非常感谢任何建议或反馈，也欢迎贡献。我计划很快利用 Llama-2 进一步开源该项目。 查看 GitHub 链接，如果您发现该项目有趣，请为其加注星标：https://github.com/dakshesh14/anukool   由   提交 /u/_dakshesh   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit，我一直在申请工作，发现为每个职位写求职信很乏味。我还深入研究了 LLM 和 Langchain，希望利用它们来做一个项目来帮助我找工作。因此，我在 GPL 许可下开发了 Anukool。虽然它远非完美，但事实证明它对我来说非常有用，我希望它也能让您受益。由于我是 ML 和 LLM 的新手，非常感谢任何建议或反馈，也欢迎贡献。我计划很快利用 Llama-2 进一步开源该项目。 查看 GitHub 链接，如果您发现该项目有趣，请为其加注星标：https://github.com/dakshesh14/anukool   由   提交 /u/_dakshesh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1adpfah/anukool_my_job_hunting_assistant/</guid>
       <pubDate>Mon, 29 Jan 2024 07:14:13 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>人工智能语音转文字？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ac8xbw/speechtotext_with_ai/</link>
-      <description><![CDATA[我正在寻找完全开源的 Python 脚本或应用程序，以将音频无缝转录为法语文本。  我不喜欢网站，因为在大多数情况下（大约 99% 的时间）它们通常带有限制和限制。  你知道我在哪里可以找到合适的东西吗？   由   提交/u/clara59000  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找完全开源的 Python 脚本或应用程序，以将音频无缝转录为法语文本。  我不喜欢网站，因为在大多数情况下（大约 99% 的时间）它们通常带有限制和限制。  你知道我在哪里可以找到合适的东西吗？   由   提交/u/clara59000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ac8xbw/speechtotext_with_ai/</guid>
       <pubDate>Sat, 27 Jan 2024 11:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一个小型开源项目如何获得赞助商？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ac89b0/how_to_get_sponsors_as_a_small_open_source_project/</link>
-      <description><![CDATA[开源您好！ 作为一个相对较小的开源项目（2k 颗星），我们正在努力争取更多赞助商。我们找到赞助商至关重要，因为随着项目的发展势头，与项目相关的成本也在增加。我们还希望满足赞助商的某些特定需求。我们目前仅使用 github 赞助商。 无论如何，以下是我们尝试增加赞助商数量的方法：  致力于改进赞助商页面 (https://github.com/sponsors/f3d-app) 沟通关于每个版本的赞助商 (https://github.com/f3d-app/f3d/releases/ tag/v2.3.0) 通过我们的自述文件 (https:// github.com/f3d-app/f3d#support) 建议有鉴赏力的用户赞助我们（就问题等）  我们有一件事还没有尝试过的是添加更多的赞助方式，比如 patreon 之类的。我们正在考虑。 我们不想在代码源中添加对赞助商的激励。 你们赞助 github 上的项目吗？是什么让您决定赞助一个项目？我们怎样才能温和地建议我们的用户赞助我们？我是否遗漏了其他项目所拥有的重要内容？   由   提交 /u/GloWondub   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ac89b0/how_to_get_sponsors_as_a_small_open_source_project/</guid>
-      <pubDate>Sat, 27 Jan 2024 10:47:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

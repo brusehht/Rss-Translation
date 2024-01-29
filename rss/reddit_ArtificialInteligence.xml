@@ -4,11 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 12:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 15:10:38 GMT</lastBuildDate>
+    <item>
+      <title>如果你遇到一位客户愿意付给你 1000B 美元来创建一个可以处理所有工作的 AGI，你会找到一种方法来创建 1 项工作吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adx50h/if_you_met_a_client_that_will_pay_you_1000b_to/</link>
+      <description><![CDATA[如果您遇到一位客户愿意支付您 1000B 美元来创建一个可以处理所有工作的 AGI，您会找到一种方法来创建 1 吗？&lt; /p&gt; 即使你现在不知道怎么做，你会找到办法吗？ 那些说人工智能无法取代人类的人，你现在确定了吗？  p&gt;   由   提交/u/Substantial_Gift_861   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adx50h/if_you_met_a_client_that_will_pay_you_1000b_to/</guid>
+      <pubDate>Mon, 29 Jan 2024 14:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lumiere - 谷歌革命性的时空扩散模型。 2024年是AI视频生成年。以下是您需要了解的内容：</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adwuid/lumiere_googles_revolutionary_spacetime_diffusion/</link>
+      <description><![CDATA[2024 年确实将是文本转视频或 AI 视频生成的一年。  Google 的研究团队利用 Lumiere 最新的扩散模型取得了令人难以置信的进步。  这是您需要了解的所有内容，请访问博客了解完整详情。 是什么让 Lumiere 与众不同？ Lumiere 不仅仅是另一个视频生成工具；它是一款视频生成工具。这是一种突破性的方法，改变了视频合成的基本原理。该模型由谷歌研究院、魏茨曼研究所、特拉维夫大学和以色列理工学院的研究人员团队开发，采用了新颖的时空 U-Net (STUNet) 架构。与生成关键帧然后填充空白的传统模型不同，Lumiere 通过一个综合步骤处理整个视频序列。这种方法确保了更加流畅和自然的运动，这是以前的技术经常缺乏的一个关键方面。 Lumiere 的技术才华 从本质上讲，Lumiere 的STUNet 架构是工程奇迹。它使用复杂的空间和时间下采样和上采样技术，使模型能够处理各种时空尺度的视频。此功能对于在不影响质量的情况下创建高分辨率、全帧率视频至关重要。此外，Lumiere 集成了预先训练的文本到图像扩散模型，该功能显着增强了其将文本提示解释和转换为连贯视频序列的能力。 相对于传统模型的优势  全局时间一致性： Lumiere 以其制作具有全局连贯运动的视频的能力而脱颖而出。这种一致性在具有重复或周期性运动的复杂场景中尤其明显。 提高效率并降低训练复杂性：通过消除级联时间超分辨率的需要，Lumiere 简化了视频生成过程，使其内存效率更高，更容易训练。 弥合域差距：传统模型经常与域差距作斗争，生成帧的插值导致不一致。 Lumiere 通过从头到尾持续生成视频来解决这个问题，从而提高整体质量和真实感。  如果您喜欢人工智能，我们每周都会发送精彩的提示、研究论文等等。像这样的东西，关注我们的时事通讯。 完整信用： 酒吧-塔尔，奥马尔；切弗尔，希拉；托夫、奥马尔等人。 “Lumiere：用于视频生成的时空扩散模型。” arXiv，2024。[arXiv:2401.12945]   由   提交/u/steves1189  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adwuid/lumiere_googles_revolutionary_spacetime_diffusion/</guid>
+      <pubDate>Mon, 29 Jan 2024 14:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在大学普通语言学课程中准备有关人工智能的课程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adve0b/preparing_a_lesson_about_ai_in_a_general/</link>
+      <description><![CDATA[大家好。我是人工智能领域的博士生，经常在我的大学担任助教。我受一位重要教授的邀请，在意大利北部一所大学的普通语言学课程中讲授关于生成人工智能的课程。 考虑到这只是一节课（大约一个半小时），而且他的课程是关于语法、实用化、历史上的语言变化等，你会如何安排课程，既有趣又在主要主题之间保持平衡——而不是太多专业/技术性？  我考虑过介绍 NLP 相关的主题，也许还可以解释一下自然语言和转换器处理它的方式之间的关系。 你能给建议吗？谢谢。   由   提交/u/emaper_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adve0b/preparing_a_lesson_about_ai_in_a_general/</guid>
+      <pubDate>Mon, 29 Jan 2024 13:32:32 GMT</pubDate>
+    </item>
     <item>
       <title>关于连续网络的思考</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adtw3x/pondering_about_continuous_networks/</link>
-      <description><![CDATA[是否有任何工作可以做这样的事情： 目前我见过并尝试过的所有神经网络模型都是反应式，我的意思是它们需要输入才能开始处理，然后最终该过程停止并产生输出 我一直在想的是，我们的大脑不是这样工作的（就拓扑和流程），我们有可能修复该流程。如果我们提出一个具有连续感官输入流的模型会怎么样？它可以是视觉的、声音的、基于文本的或原始二进制的。我不知道。然后我们将连接到它的内部思维循环，以检查它实际上在想什么，以真正评估意识。 我们人类总是在思考，因为我们有源源不断的数据传入。那么如果我们可以效仿呢？目前我们仍在谈论神经网络和通用人工智能的意识，但据我所知，我们仍然在我们的网络中使用动作反应过程。   由   提交 /u/ humanpersonlol   [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何工作可以做这样的事情： 目前我见过和尝试过的所有神经网络模型都是反应式，我的意思是它们需要输入才能开始处理，然后最终该过程停止并产生输出 我一直在想的是，我们的大脑不是这样工作的（就拓扑和流程），我们有可能修复该流程。如果我们提出一个具有连续感官输入流的模型会怎么样？它可以是视觉的、声音的、基于文本的或原始二进制的。我不知道。然后我们将连接到它的内部思维循环，以检查它实际上在想什么，以真正评估意识。 我们人类总是在思考，因为我们有源源不断的数据传入。那么如果我们可以效仿呢？目前我们仍在谈论神经网络和通用人工智能的意识，但据我所知，我们仍然在我们的网络中使用动作反应过程。   由   提交 /u/ humanpersonlol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adtw3x/pondering_about_continuous_networks/</guid>
       <pubDate>Mon, 29 Jan 2024 12:12:35 GMT</pubDate>
     </item>
@@ -27,23 +48,9 @@
       <pubDate>Mon, 29 Jan 2024 11:58:27 GMT</pubDate>
     </item>
     <item>
-      <title>探索 Llama 2：开源法学硕士的进步和应用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adtmii/exploring_llama_2_opensource_llm_advancements/</link>
-      <description><![CDATA[Llama 2 简介 Llama 2 是由 Meta 和 Microsoft 开发的开源大语言模型 (LLM)。 Llama 2 代表 Meta AI 的大型语言模型。如果你想了解一个大的语言模型，你可以访问另一个博客，叫做什么是LLM？通过例子来理解。 Llama 2 基于 Transformer 架构，该架构与 GPT-3 等其他流行的 LLM 所使用的架构相同。  阅读：https://www.seaflux .tech/blogs/Llama-2-Meta-AI-开源语言模型   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adtmii/exploring_llama_2_opensource_llm_advancements/</guid>
-      <pubDate>Mon, 29 Jan 2024 11:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年顶级软件工程通讯</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adths0/top_software_engineering_newsletters_in_2024/</link>
-      <description><![CDATA[我想对工程师（尤其是软件工程师）的顶级新闻通讯进行调查。我决定把重点放在 Substack 上，我认识的大部分工程师和学者都在那里开设了商店来讨论工程师、数据、软件和人工智能。 你可能会认出其中一些名字，但我提供了几十个人正在为处于职业发展各个阶段的软件工程师和专业人员创造价值。 据我所知，我从未见过这样的事情，因为它不仅仅是 10 或 20 人的列表。但更深入。 这个列表特别适合软件工程师、数据工程师、数据科学家和机器学习工程师，但对于任何从事技术工作的人来说都相当有趣。  https://aisupremacy.substack.com/p/top-software-engineering-newsletters&lt; /p&gt;   由   提交 /u/BackgroundResult   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adths0/top_software_engineering_newsletters_in_2024/</guid>
-      <pubDate>Mon, 29 Jan 2024 11:49:27 GMT</pubDate>
-    </item>
-    <item>
       <title>Taiyi-Diffusion-XL：通过大视觉语言模型支持推进双语文本到图像的生成</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adt737/taiyidiffusionxl_advancing_bilingual_texttoimage/</link>
-      <description><![CDATA[论文页面：https://huggingface.co/papers/ 2401.14688模型：https://huggingface.co/IDEA- CCNL/Taiyi-Stable-Diffusion-XL-3.5B 演示：https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B ​ 最近文本到图像模型的进步显着增强了图像生成能力，但开源模型在双语或中文支持方面仍然存在显着差距。为了满足这一需求，我们提出了 Taiyi-Diffusion-XL，这是一种新的中英文双语文本到图像模型，它是通过双语连续预训练过程扩展 CLIP 和 Stable-Diffusion-XL 的功能而开发的。该方法包括通过将最常用的汉字集成到 CLIP 的标记器和嵌入层中来有效扩展词汇量，并结合绝对位置编码扩展。此外，我们通过大型视觉语言模型丰富了文本提示，从而获得更好的图像标题并拥有更高的视觉质量。这些增强功能随后应用于下游文本到图像模型。我们的实证结果表明，所开发的 CLIP 模型在双语图像文本检索方面表现出色。此外，Taiyi-Diffusion-XL 的双语图像生成能力超越了以前的模型。这项研究导致了 Taiyi-Diffusion-XL 模型的开发和开源，代表了图像生成领域的显着进步，特别是对于中文应用。这一贡献是解决多模态研究中更多样化的语言支持需求方面向前迈出的一步。该模型和演示已在 https://huggingface.co/IDEA 上公开发布-CCNL/Taiyi-Stable-Diffusion-XL-3.5B/{this https URL}，促进该领域的进一步研究和协作。  &amp; #32；由   提交/u/Novita_ai   [链接] [评论]]]></description>
+      <description><![CDATA[论文页面：https://huggingface.co/papers/ 2401.14688模型：https://huggingface.co/IDEA- CCNL/Taiyi-Stable-Diffusion-XL-3.5B 演示：https://huggingface.co/spaces/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B ​ 最近文本到图像模型的进步显着增强了图像生成能力，但开源模型在双语或中文支持方面仍然存在显着差距。为了满足这一需求，我们提出了 Taiyi-Diffusion-XL，这是一种新的中英文双语文本到图像模型，它是通过双语连续预训练过程扩展 CLIP 和 Stable-Diffusion-XL 的功能而开发的。该方法包括通过将最常用的汉字集成到 CLIP 的分词器和嵌入层中来有效扩展词汇量，并结合绝对位置编码扩展。此外，我们通过大型视觉语言模型丰富了文本提示，从而获得更好的图像标题并拥有更高的视觉质量。这些增强功能随后应用于下游文本到图像模型。我们的实证结果表明，所开发的 CLIP 模型在双语图像文本检索方面表现出色。此外，Taiyi-Diffusion-XL 的双语图像生成能力超越了以前的模型。这项研究导致了 Taiyi-Diffusion-XL 模型的开发和开源，代表了图像生成领域的显着进步，特别是对于中文应用。这一贡献是解决多模态研究中更多样化的语言支持需求方面向前迈出的一步。该模型和演示已在 https://huggingface.co/IDEA 上公开发布-CCNL/Taiyi-Stable-Diffusion-XL-3.5B/{this https URL}，促进该领域的进一步研究和协作。  &amp; #32；由   提交/u/Novita_ai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adt737/taiyidiffusionxl_advancing_bilingual_texttoimage/</guid>
       <pubDate>Mon, 29 Jan 2024 11:30:37 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>多语言文本转语音工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adsbyv/multilingual_text_to_speech_tool/</link>
-      <description><![CDATA[为了语言学习的目的，我想创建这样的音频文件 视频。有什么建议可以帮助我创建具有交替语言的音频文件吗？ 例如，我想转换使用英语和日语人士将此文本转换为音频语音： 很高兴见到你。[暂停 3 秒]很高兴见到你。 [停顿 2 秒]很高兴认识你。 [停顿 2 秒]很高兴认识你。 [停顿 5 秒]早上好。[停顿 3 秒]早上好。 [停顿 2 秒]早上好。 [停顿 2 秒]早上好。 [停顿 5 秒]再见。[停顿 3 秒]再见。 [停顿 2 秒]再见。 [停顿 2 秒]再见。 [停顿 5 秒] 谢谢。[停顿 3 秒] 谢谢。 [停顿 2 秒] 谢谢。 [停顿 2 秒] 谢谢。 [暂停 5 秒]  目前，我在 Mac OS 终端中使用 say 命令，但为每种语言创建单独的音频文件然后再使用太麻烦了手动组合它们... P.S. 免费工具是理想的选择，但也可以探索推荐的付费工具！提前致谢    ; 由   /u/eazyace   /u/eazyace 提交/www.reddit.com/r/ArtificialInteligence/comments/1adsbyv/multilingual_text_to_speech_tool/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[为了语言学习的目的，我想创建这样的音频文件 视频。有什么建议可以帮助我创建具有交替语言的音频文件吗？ 例如，我想转换使用英语和日语人士将此文本转换为音频语音： 很高兴见到你。[暂停 3 秒]很高兴见到你。 [停顿 2 秒]很高兴认识你。 [停顿 2 秒]很高兴认识你。 [停顿 5 秒]早上好。[停顿 3 秒]早上好。 [停顿 2 秒]早上好。 [停顿 2 秒]早上好。 [停顿 5 秒]再见。[停顿 3 秒]再见。 [停顿 2 秒]再见。 [停顿 2 秒]再见。 [停顿 5 秒] 谢谢。[停顿 3 秒] 谢谢。 [停顿 2 秒] 谢谢。 [停顿 2 秒] 谢谢。 [暂停5秒]  目前，我在Mac OS终端中使用say命令，但是为每种语言创建单独的音频文件然后再创建太麻烦了手动组合它们... P.S. 免费工具是理想的选择，但也可以探索推荐的付费工具！提前致谢    ; 由   /u/eazyace   /u/eazyace 提交/www.reddit.com/r/ArtificialInteligence/comments/1adsbyv/multilingual_text_to_speech_tool/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adsbyv/multilingual_text_to_speech_tool/</guid>
       <pubDate>Mon, 29 Jan 2024 10:35:21 GMT</pubDate>
     </item>
     <item>
       <title>为什么有些人说 LLM 和像 ChatGPT/DALL-E 这样的生成模型会减慢/停止 AGI 的创建？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4s8/why_do_some_people_say_llms_and_generative_models/</link>
-      <description><![CDATA[它们不是同一件事，只是规模问题吗？比如，如果你攻读了像 GPT-4 这样的大规模文本法学硕士，并集成了图像处理、运动功能、生成内容等其他模型，那么这实际上不是 AGI 吗？ 哪里区别在哪里？为什么有些人说目前的法学硕士会阻碍 AGI 的创建？   由   提交/u/DrTiger21  [链接] [评论]]]></description>
+      <description><![CDATA[它们不是同一件事，只是规模问题吗？比如，如果你攻读了像 GPT-4 这样的大规模文本法学硕士，并集成了图像处理、运动功能、生成内容等其他模型，那么这实际上不是 AGI 吗？ 哪里区别在哪里？为什么有些人说目前的法学硕士会阻碍 AGI 的创建？   由   提交 /u/DrTiger21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4s8/why_do_some_people_say_llms_and_generative_models/</guid>
       <pubDate>Mon, 29 Jan 2024 05:54:41 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>推出 Stock Analyst GPT - 一种专门从事基本股票研究和分析的新 GPT 模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adnnne/introducing_stock_analyst_gpt_a_new_gpt_model/</link>
-      <description><![CDATA[大家好，作为一名对冲基金领域的前股票分析师和 CFA，我想分享一个我花了很长时间的自定义 GPT开发称为股票分析师 GPT。它是一家专门从事基本股票研究和分析的 GPT，接受对冲基金股票研究方法以及 100MB 以上的顶级金融论文和股票研究报告的培训。截至目前，Stock Analyst GPT 是 GPT 商店中排名最高的基本股票分析 GPT（基于聊天数量）。 Stock Analyst GPT 的一些专业功能包括： - 获取、总结和分析分析股票或市场新闻 - 对收益报告进行深入分析 - 获取卖方分析师对股票的价格目标 - 进行各种基本业务相关的研究和分析（例如分析 iPhone 的销售趋势） - 比较和分析商业模式，提供有关公司运营和行业动态的见解 股票分析师 GPT 仅接受基本面分析培训，不适合技术分析、财务建模或价格预测。 Stock Analyst GPT 最好用作简化和改进股票研究和分析流程的工具。 如果您有 ChatGPT Plus，Stock Analyst GPT 可以免费使用，您可以通过搜索 ChatGPT 商店或通过此链接： https://chat.openai.com/g/g-GbZQ0x3WW-stock-分析师-gpt   由   提交 /u/Try_StockAnalystGPT   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，作为一名对冲基金领域的前股票分析师和 CFA，我想分享一个我花了很长时间的自定义 GPT开发称为股票分析师 GPT。它是专门从事基本股票研究和分析的 GPT，接受对冲基金股票研究方法以及 100MB+ 的顶级金融论文和股票研究报告的培训。截至目前，Stock Analyst GPT 是 GPT 商店中排名最高的基本股票分析 GPT（基于聊天数量）。 Stock Analyst GPT 的一些专业功能包括： - 获取、总结和分析分析股票或市场新闻 - 对收益报告进行深入分析 - 获取卖方分析师对股票的价格目标 - 进行各种基本业务相关的研究和分析（例如分析 iPhone 的销售趋势） - 比较和分析商业模式，提供有关公司运营和行业动态的见解 股票分析师 GPT 仅接受基本面分析培训，不适合技术分析、财务建模或价格预测。 Stock Analyst GPT 最好用作简化和改进股票研究和分析流程的工具。 如果您有 ChatGPT Plus，Stock Analyst GPT 可以免费使用，您可以通过搜索 ChatGPT 商店或通过此链接： https://chat.openai.com/g/g-GbZQ0x3WW-stock-分析师-gpt   由   提交 /u/Try_StockAnalystGPT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adnnne/introducing_stock_analyst_gpt_a_new_gpt_model/</guid>
       <pubDate>Mon, 29 Jan 2024 05:26:56 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Mon, 29 Jan 2024 04:32:09 GMT</pubDate>
     </item>
     <item>
-      <title>我正在申请一份名为“AI Security”的新工作，我需要您的帮助！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adhe6v/i_am_applying_for_a_new_job_with_title_ai/</link>
-      <description><![CDATA[我想参考相关信息和文章来准备面试。寻找围绕以下主题的阅读/观看建议。我自己正在研究很多事情，但总是可以寻求社区的帮助。  - 安全作为人工智能解决方案的一部分 - 人工智能中的安全风险和漏洞 - 人工智能和网络攻击 - 人工智能安全最佳实践   由   提交/u/14MTH30n3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adhe6v/i_am_applying_for_a_new_job_with_title_ai/</guid>
-      <pubDate>Mon, 29 Jan 2024 00:08:45 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
