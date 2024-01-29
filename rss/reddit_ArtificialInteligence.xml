@@ -4,18 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 06:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 09:11:26 GMT</lastBuildDate>
+    <item>
+      <title>AlphaGeometry：谷歌 Deepmind 的奥林匹克级几何人工智能系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adp9nl/alphageometry_an_olympiad_level_ai_system_for/</link>
+      <description><![CDATA[智力的标志之一是能够解决数学问题。这正是谷歌通过其新的 Alpha 几何系统所实现的目标。不是一些基本的数学问题，而是国际数学奥林匹克，世界上最难的数学考试之一。在今天的文章中，我们将深入探讨 Google 是如何完成这项看似不可能的任务，并尝试回答我们是否真正创建了 AGI。 全文：https://medium.com/towards-artificial-intelligence/alphageometry- an-olympiad-level-ai-system-for-geometry-285024495822 1.问题生成和初步分析 创建几何图：AlphaGeometry 首先生成几何图。这可以是一个带有各种线和点标记的三角形，每个线和点都具有特定的几何属性。初始特征识别：AlphaGeometry 使用其神经语言模型来识别和标记基本几何特征，如点、线、角度、圆等。  2.详尽的关系推导 模式识别：在几何数据上训练的语言模型，可以识别图表中的模式和潜在关系，例如平行线、角平分线或全等三角形。 形式几何关系：符号推导引擎采用这些初始观察结果，应用几何定理和公理，推导出形式的几何关系。 3.代数转换和高斯消元 转换为代数方程：必要时，将几何条件转换为代数方程。例如，三角形的属性可以表示为一组方程。应用高斯消元法：在必须求解线性方程组的情况下，AlphaGeometry 隐式使用高斯消元法。这涉及到操纵方程矩阵的行来导出解。代数解的积分：然后将高斯消去法的解积分回几何上下文中，帮助进一步推导或完成证明。 &lt;强&gt;4。演绎推理和证明构造 进一步演绎：符号演绎引擎继续将几何逻辑应用于问题，整合代数解并推导出新的几何性质或关系。 证明构造：系统通过逻辑排列推导的几何属性和关系来构造证明。这是一个迭代过程，系统可能会添加辅助结构或探索不同的推理路径。 5.迭代细化和回溯 添加构造：如果当前信息不足以得出结论，语言模型建议向图中添加新构造（例如新线或新点）。回溯对于附加结构：在这个迭代过程中，AlphaGeometry 分析这些附加元素如何产生解决方案，并不断完善其方法。 6.验证和可读性改进 解决方案验证：一旦找到解决方案，就会根据几何规则验证其准确性。 提高可读性：鉴于涉及高斯消元法的步骤没有明确详细说明，当前的挑战和需要改进的领域是增强这些解决方案的可读性，可能通过更高层次的抽象或更详细的逐步解释。 7.学习和数据生成合成数据生成：解决的每个问题都有助于生成合成几何问题和解决方案的庞大数据集，丰富AlphaGeometry的学习基础。合成数据训练：该数据集允许系统从各种各样的几何问题中学习，增强其模式识别和演绎推理能力。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adp9nl/alphageometry_an_olympiad_level_ai_system_for/</guid>
+      <pubDate>Mon, 29 Jan 2024 07:03:33 GMT</pubDate>
+    </item>
     <item>
       <title>为什么有些人说 LLM 和像 ChatGPT/DALL-E 这样的生成模型会减慢/停止 AGI 的创建？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4s8/why_do_some_people_say_llms_and_generative_models/</link>
-      <description><![CDATA[它们不是同一件事，只是规模问题吗？比如，如果你攻读了像 GPT-4 这样的大规模文本法学硕士，并集成了图像处理、运动功能、生成内容等其他模型，那么这实际上不是 AGI 吗？ 哪里区别在哪里？为什么有些人说目前的法学硕士会阻碍 AGI 的创建？   由   提交 /u/DrTiger21   [链接] [评论]]]></description>
+      <description><![CDATA[它们不是同一件事，只是规模问题吗？比如，如果你攻读了像 GPT-4 这样的大量文本法学硕士，并集成了图像处理、运动功能、生成内容等其他模型，那么这实际上不是 AGI 吗？ 哪里区别在哪里？为什么有些人说目前的法学硕士会阻碍 AGI 的创建？   由   提交/u/DrTiger21  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4s8/why_do_some_people_say_llms_and_generative_models/</guid>
       <pubDate>Mon, 29 Jan 2024 05:54:41 GMT</pubDate>
     </item>
     <item>
       <title>有人可以教我如何制作那些模仿声音的人工智能吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4lu/can_someone_teach_me_how_to_make_those_voice/</link>
-      <description><![CDATA[最近，嗯，已经持续了一段时间了，有很多人们制作可以唱歌/说话的人工智能的配乐/视频一个人/表演者的声音并让他们唱其他歌曲。我个人非常喜欢一些歌手，但他们现在很少表演/发布新歌，我希望为自己制作一个人工智能，让他们翻唱歌曲。    由   提交/u/carbon_yttrium  [链接] [评论]]]></description>
+      <description><![CDATA[最近，嗯，已经持续了一段时间了，有很多人们制作可以唱歌/说话的人工智能的配乐/视频一个人/表演者的声音并让他们唱其他歌曲。我个人很喜欢一些歌手，但他们现在很少表演/发布新歌，我希望为自己做一个人工智能，让他们翻唱歌曲。    由   提交/u/carbon_yttrium  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4lu/can_someone_teach_me_how_to_make_those_voice/</guid>
       <pubDate>Mon, 29 Jan 2024 05:54:23 GMT</pubDate>
     </item>
@@ -71,28 +78,21 @@
     <item>
       <title>升级</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adie6x/upscaling/</link>
-      <description><![CDATA[YouTube 需要多长时间才能选择将任何旧的标清视频升级为高清？ 我想知道它是否值得懒得买一台更好的电脑来升级我的旧视频   由   提交 /u/daveisit   [链接] [评论]]]></description>
+      <description><![CDATA[YouTube 需要多长时间才能选择将任何旧的标清视频升级为高清？ 我想知道它是否值得费心去买一台更好的电脑来升级我的旧视频   由   提交 /u/daveisit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adie6x/upscaling/</guid>
       <pubDate>Mon, 29 Jan 2024 00:57:20 GMT</pubDate>
     </item>
     <item>
       <title>我正在申请一份名为“AI Security”的新工作，我需要您的帮助！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adhe6v/i_am_applying_for_a_new_job_with_title_ai/</link>
-      <description><![CDATA[我想参考相关信息和文章来准备面试。寻找围绕以下主题的阅读/观看建议。我自己正在研究很多事情，但总是可以寻求社区的帮助。  - 安全作为人工智能解决方案的一部分 - 人工智能中的安全风险和漏洞 - 人工智能和网络攻击 - 人工智能安全最佳实践   由   提交/u/14MTH30n3  [链接] [评论]]]></description>
+      <description><![CDATA[我想参考相关信息和文章来准备面试。寻找围绕以下主题的阅读/观看建议。我自己正在研究很多事情，但总是可以寻求社区的帮助。  - 安全是人工智能解决方案的一部分 - 人工智能中的安全风险和漏洞 - 人工智能和网络攻击 - 人工智能安全最佳实践   由   提交/u/14MTH30n3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adhe6v/i_am_applying_for_a_new_job_with_title_ai/</guid>
       <pubDate>Mon, 29 Jan 2024 00:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>AI 模型 @emilypellegrini Instagram 帐户发生了什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adh2r6/what_happened_to_ai_model_emilypellegrini/</link>
-      <description><![CDATA[拥有 28.7 万粉丝的超级著名 AI 女孩页面不再浏览（至少对我来说），有人知道为什么吗？几个小时前就成功了。 没有人谈论它，它被暂停了吗？   由   提交/u/Dear-Amount630  /u/Dear-Amount630 reddit.com/r/ArtificialInteligence/comments/1adh2r6/what_happened_to_ai_model_emilypellegrini/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adh2r6/what_happened_to_ai_model_emilypellegrini/</guid>
-      <pubDate>Sun, 28 Jan 2024 23:54:20 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 提示生成器 - 自定义 GPT</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ad556i/ai_prompt_generator_custom_gpts/</link>
-      <description><![CDATA[如果您订阅了 ChatGPT Plus，我想与您分享我最近创建的两个自定义 GPT： AI 提示生成器（适用于 ChatGPT 和 Bard AI）- 单击此处访问 旅程中提示生成器 - 单击此处访问 请告诉我是否有帮助为你。谢谢！   由   提交/u/Senior_tasteey  [链接] [评论]]]></description>
+      <description><![CDATA[如果您订阅了 ChatGPT Plus，我想与您分享我最近创建的两个自定义 GPT： AI 提示生成器（适用于 ChatGPT 和 Bard AI）- 单击此处访问 旅程中提示生成器 - 单击此处访问 请告诉我是否有帮助为你。谢谢！   由   提交 /u/Senior_tasteey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ad556i/ai_prompt_generator_custom_gpts/</guid>
       <pubDate>Sun, 28 Jan 2024 15:30:44 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
