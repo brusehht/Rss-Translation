@@ -4,9 +4,23 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 29 Jan 2024 00:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 03:11:54 GMT</lastBuildDate>
     <item>
-      <title>我真的希望我的第一个编程个人项目能够重新创建名人人工智能声音的文本到语音代码，对于该领域的全新编程项目来说，这有多先进？这是我开始用来学习编程的第一门课程（在我看来已经很远了）</title>
+      <title>思考：解决问题的语言和哲学</title>
+      <link>https://www.reddit.com/r/programming/comments/1adkz5l/thinking_forth_a_language_and_philosophy_for/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1adkz5l/thinking_forth_a_language_and_philosophy_for/</guid>
+      <pubDate>Mon, 29 Jan 2024 03:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件传输协议，用户到用户</title>
+      <link>https://www.reddit.com/r/programming/comments/1adjorg/file_transmission_protocol_user_to_user/</link>
+      <description><![CDATA[我一直在研究从 User1（上传）和 User2（下载）传输文件的方法 因此，我正在构建一个网络应用程序，其中一项功能是文件传输，而且它将是免费的。 这意味着我无法在我的服务器上托管用户的文件，因为它很快就会变得昂贵。 &gt;  所以我正在寻找一种让用户选择文件的方法，从中生成下载链接。 At此时尚未上传任何内容，只有一个链接，每当用户（下载）点击它时，该链接都会发出请求。 要实现此功能，我猜用户（ upload）需要打开浏览器，网络服务器可以连接两个用户，它还可以分小块上传文件，临时在本地托管它们并传输所有小块数据并在每个块之后删除它们。  有没有什么可以解决这个问题，比如协议之类的？ 目标是让服务器变得超级便宜，但仍然有一个很好的性能用户体验（尽可能少的操作）   由   提交 /u/ApioxFR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1adjorg/file_transmission_protocol_user_to_user/</guid>
+      <pubDate>Mon, 29 Jan 2024 02:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我真的希望我的第一个编程个人项目能够重新创建名人人工智能声音的文本到语音代码，对于该领域的全新人来说，这个编程项目有多先进？这是我开始用来学习编程的第一门课程（在我看来已经很远了）</title>
       <link>https://www.reddit.com/r/programming/comments/1adhxtz/i_really_want_my_first_programming_personal/</link>
       <description><![CDATA[ 由   提交/u/Fluid-Tap5115  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1adhxtz/i_really_want_my_first_programming_personal/</guid>
@@ -15,14 +29,14 @@
     <item>
       <title>VR/AR 数学技能。我应该更深入地准备吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1adhtea/vrar_math_skills_should_i_prepare_more_deeply/</link>
-      <description><![CDATA[大家好！ 我正在考虑参加 Vr/AR 课程，并且我读到线性代数在以下方面非常重要：这个部门。链接课程 我在大学读了第一年的物理学，然后由于封锁和心理健康而退学，但我记得一些关于线性代数 1 和微积分 1 的事情。 应该是足够了还是我应该在开始之前学习更多？如果是这样，我应该深入多深？ 我已经上过一门关于 VR/AR 应用于文化遗产的课程，但这是一个非常大的骗局，我们最终只进行了 Web 开发。现在我是一名前端开发人员，所以最终这是一门有用的课程，但我很想最终能够做 VR/AR  感谢您的时间：D   由   提交 /u/Raffa-Spipus   /u/Raffa-Spipus edx.org/certificates/professional-certificate/ucsandiegox-virtual-reality-app-development?index=product&amp;queryID=09a11b59c7bbe96f1173581c3930f251&amp;position=4&amp;linked_from=autocomplete&amp;c=autocomplete&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在考虑参加 Vr/AR 课程，并且我读到线性代数在以下方面非常重要：这个部门。链接课程 我在大学读了第一年的物理学，然后由于封锁和心理健康而退学，但我记得线性代数 1 和微积分 1。 应该是足够了还是我应该在开始之前学习更多？如果是这样，我应该深入多深？ 我已经上过一门关于 VR/AR 应用于文化遗产的课程，但这是一个非常大的骗局，我们最终只进行了 Web 开发。现在我是一名前端开发人员，所以最终这是一门有用的课程，但我很想最终能够做 VR/AR  感谢您的时间：D   由   提交 /u/Raffa-Spipus   /u/Raffa-Spipus edx.org/certificates/professional-certificate/ucsandiegox-virtual-reality-app-development?index=product&amp;queryID=09a11b59c7bbe96f1173581c3930f251&amp;position=4&amp;linked_from=autocomplete&amp;c=autocomplete&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1adhtea/vrar_math_skills_should_i_prepare_more_deeply/</guid>
       <pubDate>Mon, 29 Jan 2024 00:28:54 GMT</pubDate>
     </item>
     <item>
       <title>设计模式大清单！</title>
       <link>https://www.reddit.com/r/programming/comments/1adhm8i/the_big_list_of_design_patterns/</link>
-      <description><![CDATA[嘿朋友们！ 我开始了这篇超级文章，随着时间的推移，我将继续更新更多的设计模式和更多的示例。这篇超级文章链接到我网站上的其他示例（代码不是伪代码时是 C# 语言）。我的目标还包括提供与每种设计模式相关的演示视频，以便人们可以了解如何使用它们。 很高兴接受反馈！如果您觉得缺少某些模式或想要了解更多详细信息，请告诉我。 我想分享，以便您将其添加为书签，并且当您想要获得一些设计模式技巧时可以访问！  谢谢，祝您玩得愉快！   由   提交/u/ncosentino  [链接] [评论]]]></description>
+      <description><![CDATA[嘿朋友们！ 我开始了这篇超级文章，随着时间的推移，我将继续更新更多的设计模式和更多的示例。这篇超级文章链接到我网站上的其他示例（代码不是伪代码时是 C# 语言）。我的目标还包括提供与每种设计模式相关的演示视频，以便人们可以了解如何使用它们。 很高兴接受反馈！如果您觉得缺少某些图案或想要了解更多详细信息，请告诉我。 我想分享，以便您将其添加为书签，并且当您想要获得一些设计图案技巧时可以访问！  谢谢，祝您玩得愉快！   由   提交/u/ncosentino  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1adhm8i/the_big_list_of_design_patterns/</guid>
       <pubDate>Mon, 29 Jan 2024 00:19:23 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1adb3dw/webhook_testing_without_the_headache/</guid>
       <pubDate>Sun, 28 Jan 2024 19:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进我的 OpenTelemetry Tracing 演示</title>
-      <link>https://www.reddit.com/r/programming/comments/1adat0v/improving_upon_my_opentelemetry_tracing_demo/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1adat0v/improving_upon_my_opentelemetry_tracing_demo/</guid>
-      <pubDate>Sun, 28 Jan 2024 19:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 Java 开发人员的机器学习：机器学习算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ad88la/machine_learning_for_java_developers_algorithms/</link>
-      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ad88la/machine_learning_for_java_developers_algorithms/</guid>
-      <pubDate>Sun, 28 Jan 2024 17:44:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
