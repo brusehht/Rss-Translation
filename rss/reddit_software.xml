@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 21:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 00:49:37 GMT</lastBuildDate>
+    <item>
+      <title>无损录制电脑音频的程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1adhzke/programs_to_record_the_computer_audio_in_lossless/</link>
+      <description><![CDATA[有一个 MID 文件，由于某种原因，我无法直接通过软件导出它，因为只有 Windows 驱动程序能够重新识别模式;没有其他驱动程序可以工作（不知道如何）。 我想将其导出为 .WAV、.AIFF 或 FLAC，这样我就可以拥有与原始乐器相同的乐器质量   由   提交 /u/NicDima   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1adhzke/programs_to_record_the_computer_audio_in_lossless/</guid>
+      <pubDate>Mon, 29 Jan 2024 00:37:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 绘图库，绘制到 numpy 数组中，矢量化（不是单个循环）</title>
+      <link>https://www.reddit.com/r/software/comments/1adhuh8/python_plotting_lib_that_plots_into_numpy_array/</link>
+      <description><![CDATA[ 由   提交 /u/Embarrassed-Mix6420    reddit.com/r/Python/comments/19cfgei/python_plotting_lib_that_plots_into_numpy_array/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1adhuh8/python_plotting_lib_that_plots_into_numpy_array/</guid>
+      <pubDate>Mon, 29 Jan 2024 00:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找最好的屏幕捕获软件</title>
+      <link>https://www.reddit.com/r/software/comments/1adgbio/looking_for_the_best_screen_capture_software/</link>
+      <description><![CDATA[我目前正在使用 ShareX，但它不像以前那样工作，并且想知道是否有更好的东西。我主要用它来截图游戏。   由   提交/u/Heavy_Mental76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1adgbio/looking_for_the_best_screen_capture_software/</guid>
+      <pubDate>Sun, 28 Jan 2024 23:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全的 youtube 到 mp3 转换器吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1adfgqi/safe_youtube_to_mp3_converters/</link>
+      <description><![CDATA[我尽快需要一个   由   提交 /u/cassiecatastrophiee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1adfgqi/safe_youtube_to_mp3_converters/</guid>
+      <pubDate>Sun, 28 Jan 2024 22:44:45 GMT</pubDate>
+    </item>
     <item>
       <title>寻找自动化软件：根据关键字查找文件并将其移动到特定文件夹</title>
       <link>https://www.reddit.com/r/software/comments/1adaxup/looking_for_automation_software_find_files_based/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[路由器的详细工作流程是怎样的？ 听说有一个表，是用来对数据包进行通道的从以太网/LAN 端口到相应的 WAN 端口。据我所知，有些软件用于将操作手册放入路由器的EPROM或ASIC中。你能提供更多相关信息吗？    由   提交/u/Routine_Extension_45   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acxzt1/what_are_the_software_used_in_a_ontrouter_to_make/</guid>
       <pubDate>Sun, 28 Jan 2024 08:24:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以将密钥分配给特定软件的软件，即使打开了不同的选项卡</title>
-      <link>https://www.reddit.com/r/software/comments/1acuw5e/looking_for_software_that_can_assign_keys_to/</link>
-      <description><![CDATA[我会尽量保持简单，问题是： 我使用 OBS 从多个源进行记录，其中一个是PowerPoint 演示文稿。我有一个简单的无线答题器，它使用虚拟箭头键在幻灯片之间切换。  问题是，当我打开 OBS 时，单击箭头键会更改场景。要切换到下一张幻灯片，我必须切换回 PowerPoint 查看器，然后返回 OBS 来切换场景（如有必要）。  我没有任何方法可以重新映射无线答题器，即使如此，我仍然需要切换到 PowerPoint 查看器才能切换到下一页，因为它必须打开才能进行使用任何快捷方式。  有什么办法可以解决这个问题吗？   由   提交 /u/ishkidor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acuw5e/looking_for_software_that_can_assign_keys_to/</guid>
-      <pubDate>Sun, 28 Jan 2024 05:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>清理受感染电脑的工具？</title>
-      <link>https://www.reddit.com/r/software/comments/1acusab/tools_to_clean_infected_pcs/</link>
-      <description><![CDATA[以前，当我为朋友和家人清理电脑时，我有时会使用 MSE、Spybot、Malwarebytes，甚至 HijackThis。我意识到其中大部分现在可能已经过时了，我想知道除了 Windows 10 内置防病毒软件之外，我还应该使用什么。 TIA   由   提交 /u/manolid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acusab/tools_to_clean_infected_pcs/</guid>
-      <pubDate>Sun, 28 Jan 2024 05:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以恢复完全损坏的没有音频和视频数据的 mp4 文件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1acttv2/any_way_to_recover_a_fully_corrupted_mp4_file/</link>
-      <description><![CDATA[我非常沮丧，我之前为 12 年级解剖录制的视频完全损坏了，我一直在尝试恢复它在过去的 2 个小时里，我已经按照过去的 reddit 线程尝试了 Untrunct：https:// www.reddit.com/r/software/comments/lweu7k/free_way_of_fixing_corrupt_mp4_video_files/ 但不幸的是，它提示了我： https://preview.redd.it/cf8vfmxhv3fc1.png?width=810&amp;format=png&amp; auto=webp&amp;s=5df8bb74938603ba33325f2ecf35b9a3379f2447 所以如果有人可以帮助我恢复损坏的 mp4，我的 dms 已打开    由   提交 /u/shr3mp1e   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acttv2/any_way_to_recover_a_fully_corrupted_mp4_file/</guid>
-      <pubDate>Sun, 28 Jan 2024 04:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Windows 软件设置；有什么遗漏或更好的吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</guid>
-      <pubDate>Sun, 28 Jan 2024 02:44:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
