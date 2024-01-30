@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 12:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 15:11:46 GMT</lastBuildDate>
+    <item>
+      <title>按窗口尺寸而不是边距大小裁剪pdf</title>
+      <link>https://www.reddit.com/r/software/comments/1aeoxa6/crop_pdf_by_windows_dimensions_not_by_margins/</link>
+      <description><![CDATA[好吧，这非常具体，但它会影响我的日常工作流程，让我抓狂。 在 MacOS 上&#39; Preview.app，您可以通过坐标和宽度/高度定义 PDF 的裁剪区域。我经常使用此功能来获取精确尺寸的裁剪图像，并将它们按比例集成到报告中。 但是，到目前为止我测试过的所有 Windows PDF 工具都通过边距控制来定义裁剪区域（上、下、左、右）。这迫使我做数学来获得正确的裁剪区域大小。 是否有任何 Windows 软件可以通过坐标+宽度/高度定义裁剪区域？ 下面的图片显示我的意思是： https:/ /preview.redd.it/ljulwjir1lfc1.jpg?width=1209&amp;format=pjpg&amp;auto=webp&amp;s=4e425157c7981c9ca13c0a770adb0e2cbcd165e6 https://preview.redd.it/3gg5jsan1lfc1.png?width=1356&amp;format=png&amp;auto=webp&amp;s =6313a2ce727ba3fe14526db851b6807aac6e47b6 ​   由   提交/u/yakari1400  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aeoxa6/crop_pdf_by_windows_dimensions_not_by_margins/</guid>
+      <pubDate>Tue, 30 Jan 2024 13:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>垂直标签应该是标准功能</title>
+      <link>https://www.reddit.com/r/software/comments/1aeo2mc/vertical_tabs_should_be_a_standard_feature/</link>
+      <description><![CDATA[所有软件都应该有垂直选项卡。 在垂直和垂直选项卡之间切换的选项。水平。 树形选项卡更好。   由   提交 /u/iwillberesponsible   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aeo2mc/vertical_tabs_should_be_a_standard_feature/</guid>
+      <pubDate>Tue, 30 Jan 2024 13:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找类似于 Powertoys 的文本提取器的文本捕获器。</title>
+      <link>https://www.reddit.com/r/software/comments/1aen7ya/i_am_in_search_of_a_text_grabber_that_is_similar/</link>
+      <description><![CDATA[之所以不在 Powertoys 上使用文本提取器，是因为它几乎无法正确提取手写内容，即使它是清晰的。通过图像抓取屏幕截图到谷歌搜索，然后提取文本，对于这么简单的事情来说似乎需要大量工作。 有什么想法吗？ &lt;!-- SC_ON - -&gt;  由   提交/u/144i  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aen7ya/i_am_in_search_of_a_text_grabber_that_is_similar/</guid>
+      <pubDate>Tue, 30 Jan 2024 12:25:08 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找具有文件夹快捷方式或多窗口支持的 FTP 软件！</title>
       <link>https://www.reddit.com/r/software/comments/1aelp0t/looking_for_ftp_software_with_folder_shortcuts_or/</link>
@@ -55,13 +76,6 @@
       <pubDate>Tue, 30 Jan 2024 07:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>适合外行的笔记本电脑基准测试程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1aeinme/laymenfriendly_benchmarking_program_for_laptops/</link>
-      <description><![CDATA[就像我可以运行并在最后给出结果的东西，例如：  Office / 生产力 = 89 “这是一台不错的生产力笔记本电脑，运行办公程序不会出现问题” &lt; strong&gt;媒体播放 = 88  “4K 视频会遇到一点卡顿，但其他一切都会播放得很好” 创造力 = 41  “可以运行绘画没问题，但在进行视频编辑时会跪着，并且在 3D 中会喘不过气来渲染” 游戏 = 34 “坚持 2D 或像素化独立游戏兄弟，你将无法运行 Crysis”  或者类似的东西 基本上是一个可以被外行人阅读或至少易于解释的最终结果（有像“lower is更好”等）   由   提交 /u/ikantolol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aeinme/laymenfriendly_benchmarking_program_for_laptops/</guid>
-      <pubDate>Tue, 30 Jan 2024 07:18:15 GMT</pubDate>
-    </item>
-    <item>
       <title>我使用 Daemon Tools 尝试安装 Daytona USA，却意外地从桌面上删除了一个文件夹。</title>
       <link>https://www.reddit.com/r/software/comments/1aei3qd/i_used_daemon_tools_to_try_to_install_daytona_usa/</link>
       <description><![CDATA[我尝试运行 Daytona USA 的设置，这对我来说过于复杂，当我选择安装游戏的目录时，我选择了碰巧被删除的文件夹。我确信当我尝试选择它作为目录时它被删除了，但我不知道如何删除。我检查了回收站以及该文件夹之前所在的位置，但找不到它。  TLDR；如果您知道如何恢复已删除且不在回收站中的文件，而我没有以前的 Windows 备份，请帮忙。  &amp; #32；由   提交 /u/xanaxcles   [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[我在房间 A 中有一个 Windows 桌面，里面有我的游戏。我在 B 房间有一台 OsX 笔记本电脑，我通过远程桌面控制 A 房间的计算机。  我希望能够使用 B 房间笔记本电脑上的内置麦克风作为 A 房间计算机的输入。例如，我玩的一些游戏使用内置的游戏聊天功能，并且我希望可以选择使用我的笔记本电脑麦克风作为游戏的输入。  需要明确的是，我不希望房间 A 中的某个人能够通过麦克风听到我的声音，就像视频聊天用例一样。我希望 A 室计算机使用我的麦克风作为其他软件的输入。   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aea1ah/software_to_transmit_microphone_audio_over_ip_to/</guid>
       <pubDate>Mon, 29 Jan 2024 23:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>离线音频转换软件 乌克兰语到英语</title>
-      <link>https://www.reddit.com/r/software/comments/1ae80t1/offline_audio_conversion_software_ukrainian_to/</link>
-      <description><![CDATA[嗨。我需要可靠的离线软件将乌克兰语/俄语语音转换为英语。大家有什么好的建议吗？ 谢谢   由   提交 /u/Fit-Adhesiveness9585    reddit.com/r/software/comments/1ae80t1/offline_audio_conversion_software_ukrainian_to/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ae80t1/offline_audio_conversion_software_ukrainian_to/</guid>
-      <pubDate>Mon, 29 Jan 2024 22:20:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一款软件可以与 VLC Player 竞争？</title>
-      <link>https://www.reddit.com/r/software/comments/1ae4tsk/is_there_a_software_that_can_give_vlc_player_a/</link>
-      <description><![CDATA[我正在寻找 VLC 播放器的替代方案。还有其他球员同样优秀甚至更好吗？   由   提交/u/TheChoosenOnex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ae4tsk/is_there_a_software_that_can_give_vlc_player_a/</guid>
-      <pubDate>Mon, 29 Jan 2024 20:09:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
