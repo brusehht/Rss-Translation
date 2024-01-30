@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Jan 2024 15:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 18:15:23 GMT</lastBuildDate>
+    <item>
+      <title>Compose Multiplatform 1.5.12 现已推出，兼容 Kotlin 1.9.22</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aeuyoh/compose_multiplatform_1512_is_now_available/</link>
+      <description><![CDATA[       由   提交 /u/HimadHustler   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aeuyoh/compose_multiplatform_1512_is_now_available/</guid>
+      <pubDate>Tue, 30 Jan 2024 18:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯蒂亚诺 24.01</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aetqvc/stiano_2401/</link>
+      <description><![CDATA[Stiano 24.01 已发布：它将完整的 4 音阶 midi 控制器移植到标准 QWERTY 键盘上（EN -US），使用 28 个键。 这个想法是我在做速记工作时想到的。 Stiano 24.01 * 未来计划是为 Raspberry Pi 开发无头版本。 * 我也在寻求创新布局。欢迎提出所有建议。   由   提交 /u/ki4jgt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aetqvc/stiano_2401/</guid>
+      <pubDate>Tue, 30 Jan 2024 17:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源水净化、结构和卫生设施（离网社区）📖💧🏠🚾🌱</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aetlnn/opensource_water_purification_structures_and/</link>
+      <description><![CDATA[       由   提交/u/maltfield  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aetlnn/opensource_water_purification_structures_and/</guid>
+      <pubDate>Tue, 30 Jan 2024 17:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open SaaS - 价值超过 300 美元的 React 和 Node.js 样板启动器的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aetli8/open_saas_an_open_source_alternative_to_300_react/</link>
+      <description><![CDATA[       由   提交/u/matijash  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aetli8/open_saas_an_open_source_alternative_to_300_react/</guid>
+      <pubDate>Tue, 30 Jan 2024 17:14:00 GMT</pubDate>
+    </item>
     <item>
       <title>[OC] Bibata 光标：现在有右手支持！</title>
       <link>https://www.reddit.com/r/opensource/comments/1aenltj/oc_bibata_cursor_now_with_right_hand_support/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我想创建一个静态网站的个人博客。参数：  帖子源将在 Git 中存储为 .md 文件和图像。 帖子应有标题缩略图。&lt; /p&gt; 我应该能够通过 UI 上的标签进行过滤。 博客应该有 RSS feed（也许还有 Atom）。   有什么好的SSG可以做到这一点吗？ 另外我想知道可以为其生成主题的AI吗？ 我知道这里可能没有完美的人工智能工具，但我不介意努力应用人工智能生成的主题。另外，如果 SSG 绝对令人兴奋，我不介意不关心如何存储帖子源。   由   提交 /u/HimadHustler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1adv0nf/oss_static_site_generators_and_ai_made_custom/</guid>
       <pubDate>Mon, 29 Jan 2024 13:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在具有严格知识产权规则的大学发布开源软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adr0ln/publishing_opensource_software_at_a_university/</link>
-      <description><![CDATA[我最近签署了一份“有关知识产权的协议”（IP 规则），作为在大学担任新学术职位的标准程序的一部分。我还通读了各种开源 (OS) 许可证，以了解它们的不同之处和原因，因此，虽然我不是律师，但我认为我对它们的工作原理有合理的理解。然而，我注意到它们似乎与大学严格的知识产权规则不相容。知识产权规则规定，我创造的所有知识产权，“包括发明、专利、版权、样品、育种者权利、商标和机密”信息……应属于[大学]的完全和绝对所有权”。虽然有条款明确放弃了论文和发表的学术论文的版权，但从未提及开源软件。 看来发布开源软件可能会违反这些规则。开源许可证的运作假设是开发人员保留软件的所有权，授予他们颁发与版权和专利相关的许可证的权力。 这有任何意义吗？ 我已联系我的请大学澄清，但我很好奇其他人是否在自己的学术机构或工作场所遇到过类似的挑战？   由   提交 /u/AlmusDives   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adr0ln/publishing_opensource_software_at_a_university/</guid>
-      <pubDate>Mon, 29 Jan 2024 09:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anukool：我的求职助手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adpfah/anukool_my_job_hunting_assistant/</link>
-      <description><![CDATA[嘿 Reddit，我一直在申请工作，发现为每个职位写求职信很乏味。我还深入研究了 LLM 和 Langchain，希望利用它们来做一个项目来帮助我找工作。因此，我在 GPL 许可下开发了 Anukool。虽然它远非完美，但事实证明它对我非常有用，我希望它也能让您受益。由于我是 ML 和 LLM 的新手，非常感谢任何建议或反馈，也欢迎贡献。我计划很快利用 Llama-2 进一步开源该项目。 查看 GitHub 链接，如果您发现该项目有趣，请为其加注星标：https://github.com/dakshesh14/anukool   由   提交 /u/_dakshesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adpfah/anukool_my_job_hunting_assistant/</guid>
-      <pubDate>Mon, 29 Jan 2024 07:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于不编写测试用例和模拟的 API 测试的一些想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adjz2b/a_few_thoughts_on_api_testing_without_writing/</link>
-      <description><![CDATA[嗨，社区， 我最近遇到了一个非常有创意的 API 测试工具，并正在努力为它做出贡献。  其亮点在于能够借助Java代理捕获真实的生产流量（包括请求和响应消息），然后在测试环境中重放流量以测试新版本应用程序并帮助测试人员通过比较消息中的差异来快速调试。 我认为这是一个好主意，但是有很多用户（大多数是软件测试人员），包括我在内，觉得比较消息无助于调试解决他们的问题。您对这个想法有任何疑问或想法吗？我非常感谢您对我们项目的想法。   由   提交/u/Radiant-Collar2867  /u/Radiant-Collar2867 reddit.com/r/opensource/comments/1adjz2b/a_few_thoughts_on_api_testing_without_writing/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adjz2b/a_few_thoughts_on_api_testing_without_writing/</guid>
-      <pubDate>Mon, 29 Jan 2024 02:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源跨平台任务管理器应用程序/网站？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adccje/opensource_crossplatform_task_manager_appwebsite/</link>
-      <description><![CDATA[我正在寻找一个开源跨平台任务管理器。有什么建议吗？   由   提交 /u/DexterityNeeded   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adccje/opensource_crossplatform_task_manager_appwebsite/</guid>
-      <pubDate>Sun, 28 Jan 2024 20:34:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 11:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 18:10:30 GMT</lastBuildDate>
     <item>
-      <title>问 HN：举办编码训练营是一个糟糕的主意吗？</title>
-      <link>https://t.me/hn_summary/71777</link>
-      <description><![CDATA[问 HN：举办编码训练营是一个可怕的主意吗？&lt; /a&gt;
-这篇文章的作者正在寻求关于是否应该参加编码训练营的建议。他们拥有技术销售和销售运营背景，并具备一定的 Python 和 SQL 知识。他们提到对“真正的”工程师感到害怕，并且主要在 Salesforce 等无代码平台上工作。作者最近在一轮裁员中失去了工作，但已经存了足够维持自己6-12个月的钱。他们对编码训练营的现状以及是否值得投资感到好奇，特别是考虑到就业市场和生成人工智能的影响。作者现年 34 岁，居住在纽约市，没有任何家属。]]></description>
-      <guid>https://t.me/hn_summary/71777</guid>
-      <pubDate>Tue, 30 Jan 2024 11:49:58 GMT</pubDate>
+      <title>GitHub 发布了 CodeQL 2.16.1，现已可供 GitHub 代码扫描的用户使用 [...]</title>
+      <link>https://t.me/hn_summary/71824</link>
+      <description><![CDATA[GitHub Actions：macOS 14 (Sonoma) 现已推出
+GitHub 已发布 CodeQL 2.16.1，现已可供 GitHub 代码扫描的用户使用 github.com。此更新包括重要更改，例如对 Swift 5.9.2 的支持以及添加针对 Swift 和 Java 的新查询以检测不适当的密码哈希算法和环境变量注入。从处理程序方法到 Razor 页面文件的流跟踪也得到了改进。此外，JavaScript 现在支持 doT 模板，Go 增加了对 AWS Lambda 函数和 fasthttp 框架的支持。代码扫描 UI 中扫描文件的测量方式也已实施更改。有关更改的完整列表，请参阅版本 2.16.1 的更改日志。]]></description>
+      <guid>https://t.me/hn_summary/71824</guid>
+      <pubDate>Tue, 30 Jan 2024 18:10:30 GMT</pubDate>
     </item>
     <item>
-      <title>Quickemu 是一个允许用户快速创建和运行优化虚拟机的项目 [...]</title>
-      <link>https://t.me/hn_summary/71776</link>
-      <description><![CDATA[Quickemu：快速运行优化的 Windows、macOS 和 Linux 虚拟机
-Quickemu 是一个允许用户快速创建和运行适用于 Windows、macOS 和 Linux 的优化虚拟机的项目。它旨在通过自动确定运行所需操作系统的最佳方式来简化流程。该项目最初专注于 Linux 发行版，但现在还包括对 macOS 和 Windows 的全面支持。 Quickemu 通过为 QEMU 提供包装器而脱颖而出，该包装器简化了配置选项并提供了更简化的体验。它支持广泛的功能，包括 SPICE 支持、文件共享、USB 设备直通、SSH 端口转发等。该项目还提供了一个名为 Quickgui 的图形用户界面，以方便交互。 （根据 32% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/71776</guid>
-      <pubDate>Tue, 30 Jan 2024 11:17:40 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了围绕人工智能组件日益增长的邪教行为和热情[...]</title>
+      <link>https://t.me/hn_summary/71823</link>
+      <description><![CDATA[人工智能公司和倡导者变得更加邪教 
+这篇文章讨论了围绕人工智能公司和倡导者日益增长的邪教行为和热情。作者重点介绍了人工智能小工具和助手（例如 Rabbit R1 和微软的 Copilot）作为可以为用户做出决策的个人助理进行营销的例子，这可能会导致失去代理权。作者还提到了消费者对人工智能缺乏信任以及与人工智能技术相关的潜在风险。这篇文章将某些人工智能亚文化中观察到的邪教动态与愿意将自己的权力交给领导者的邪教成员的行为进行了比较。作者批评了围绕人工智能的救世主般的热情和非理性的繁荣，特别是在人工智能具有拯救生命和彻底改变行业的潜力的背景下。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/71823</guid>
+      <pubDate>Tue, 30 Jan 2024 18:01:21 GMT</pubDate>
     </item>
     <item>
-      <title>德国联邦警察已从涉案人员处收到价值超过 20 亿欧元的比特币 [...]</title>
-      <link>https://t.me/hn_summary/71775</link>
-      <description><![CDATA[男子将价值 20 亿欧元的比特币交给德国联邦警察
-德国联邦警察从参与正在进行的调查的男子那里收到了价值超过 20 亿欧元的比特币。此次调查由德累斯顿总检察长办公室、萨克森州刑事警察局和莱比锡税务调查办公室牵头，并得到了联邦刑事警察局 (BKA)、联邦调查局 (FBI) 和慕尼黑 IT 专家公司的支持。到目前为止，尚未提出任何指控。这是德国执法机构查获的最大规模的比特币。其中一名男子将比特币转移到 BKA 钱包，但如何处置比特币的决定尚未最终确定。]]></description>
-      <guid>https://t.me/hn_summary/71775</guid>
-      <pubDate>Tue, 30 Jan 2024 10:53:26 GMT</pubDate>
+      <title>[媒体] 网络内容的作者讨论了计算机芯片的制造过程和高 [...]</title>
+      <link>https://t.me/hn_summary/71822</link>
+      <description><![CDATA[如何制作自己的电脑芯片
+网络内容的作者讨论了制造计算机芯片的过程，并强调了缺乏有关该主题的可访问信息。他们批评在询问计算机芯片来自哪里时经常给出的模糊和政治化的答案。作者提到了他们对制作自己的印刷电路板 (PCB) 以及使用类似 CAD 的程序来创建电路图案的研究。他们还提到了从中国公司购买成品 PCB 的选择。随后，作者参加了 RISC-V 峰会并了解了芯片制造，并将其与为科学展览项目制作 PCB 进行了比较。他们指出了获取芯片制造信息和资源的挑战，并讨论了 ChipFlow 和 Amaranth 等开源项目使该行业更容易进入的潜力。作者对芯片开发的未来以及自己的创造潜力表示兴奋。]]></description>
+      <guid>https://t.me/hn_summary/71822</guid>
+      <pubDate>Tue, 30 Jan 2024 17:57:10 GMT</pubDate>
     </item>
     <item>
-      <title>JetBrains 是一家跨国软件开发公司，正在经历首席执行官换届。</title>
-      <link>https://t.me/hn_summary/71774</link>
-      <description><![CDATA[JetBrains CEO 过渡
-JetBrains 是一家跨国软件开发公司，正在经历首席执行官换届。自 2010 年加入公司并一直领导 IntelliJ 部门的 Kirill Skrygan 将于 2024 年 2 月 1 日接任首席执行官。公司对过去 11.5 年担任首席执行官的 Maxim Shafirov 表示感谢，并表示感谢。帮助 JetBrains 成为开发者市场中领先的工具提供商。 JetBrains 仍然致力于其客户和合作伙伴，并将继续投资 Kotlin 及其生态系统。该公司相信它有能力在未来为开发人员提供最好的工具。]]></description>
-      <guid>https://t.me/hn_summary/71774</guid>
-      <pubDate>Tue, 30 Jan 2024 10:52:18 GMT</pubDate>
+      <title>Block/Square 是一家没有公布裁员总数的公司，最近发布了 [...]</title>
+      <link>https://t.me/hn_summary/71821</link>
+      <description><![CDATA[Block (Square) 裁员 800 名员工
+Block/Square是一家没有公布裁员总数的公司，最近对所有业务部门进行了大幅裁员。受影响员工的确切人数仍不清楚，但数量似乎相当可观。随着更多信息的出现，Teamblind.com 上的帖子将会更新。最新消息显示，遣散费包括至少 16 周的工资，每工作一年还额外支付一周的工资。更新 2 指出，大约 800 名全职员工受到裁员的影响。]]></description>
+      <guid>https://t.me/hn_summary/71821</guid>
+      <pubDate>Tue, 30 Jan 2024 17:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CDC 6600 是 Control Data Corporation 制造的突破性超级计算机。</title>
-      <link>https://t.me/hn_summary/71773</link>
-      <description><![CDATA[CDC 6600
-CDC 6600 是 Control Data Corporation 制造的突破性超级计算机。它是第一台成功的超级计算机，其性能比其前身 IBM 7030 Stretch 好三倍。它的性能高达 3 megaFLOPS，是 1964 年至 1969 年间世界上最快的计算机。CDC 6600 迅速在高端科学和数学计算领域流行起来，并向各个机构交付了 100 多台机器。 CDC 6600 的设计非常创新，具有带屏幕和键盘的系统控制台，取代了传统的开关和闪烁灯。该机器的架构和外围处理器的使用可以提高性能和并行处理。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71773</guid>
-      <pubDate>Tue, 30 Jan 2024 10:21:03 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者反思了俄罗斯总统弗拉基姆 [...]</title>
+      <link>https://t.me/hn_summary/71820</link>
+      <description><![CDATA[普京不是希特勒，他是墨索里尼——乌克兰是他的阿比西尼亚
+在本文中，作者反思了俄罗斯总统弗拉基米尔·普京入侵乌克兰与贝尼托·墨索里尼 1935 年入侵阿比西尼亚（今埃塞俄比亚）之间的相似之处。作者对西方列强在这两种情况下采取的绥靖策略进行了比较，并重点指出绥靖政策未能预防冲突。作者认为，西方必须从历史中吸取教训，继续支持乌克兰遏制侵略，防止发生更大规模的战争。文章还提到了中国、伊朗和朝鲜构成的潜在威胁，并强调了维护集体安全利益的重要性。]]></description>
+      <guid>https://t.me/hn_summary/71820</guid>
+      <pubDate>Tue, 30 Jan 2024 17:40:46 GMT</pubDate>
     </item>
     <item>
-      <title>根据《内科医学年鉴》上发表的一项研究，老年人平均花费[...]</title>
-      <link>https://t.me/hn_summary/71772</link>
-      <description><![CDATA[老年人每年花费相当于 3 周的时间用于医疗保健、学习说
-根据《内科医学年鉴》发表的一项研究，老年人每年平均花费三周的时间进行医疗保健预约和服务。这包括 17 天的门诊服务，如看医生、检测和治疗，以及在急诊室、医院、护理机构或临终关怀医院的四天。这项研究揭示了老年人投入大量时间和精力来管理自己的健康。]]></description>
-      <guid>https://t.me/hn_summary/71772</guid>
-      <pubDate>Tue, 30 Jan 2024 10:06:52 GMT</pubDate>
+      <title>[媒体]伦敦国王学院的科学家们开发出一种突破性的回收方法[...]</title>
+      <link>https://t.me/hn_summary/71819</link>
+      <description><![CDATA[酶快速分解一次性塑料 PLA
+伦敦国王学院的科学家们开发出了一种突破性的方法来回收一次性生物塑料，例如咖啡杯和食品容器中的塑料。该方法使用生物洗衣粉中常见的酶在短短 24 小时内将生物塑料分解成可溶性碎片。该过程比传统工业堆肥方法快 84 倍。研究人员还发现，通过将生物塑料在 90°C 的温度下再放置 24 小时，这些材料可以转化为高质量的塑料，以便多次重复使用。这一发现可能会彻底改变塑料生产，并有助于实现更可持续的循环经济。]]></description>
+      <guid>https://t.me/hn_summary/71819</guid>
+      <pubDate>Tue, 30 Jan 2024 17:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者分享了他们在 [...] 中使用 Proxmox 作为主要管理程序的经验</title>
-      <link>https://t.me/hn_summary/71771</link>
-      <description><![CDATA[Proxmox 中基于 iSCSI 存储的 ZFS
-作者分享了他们在家庭实验室中使用 Proxmox 作为主要虚拟机管理程序的经验。他们解释说，由于电价高昂，他们不得不关闭旧服务器，转而使用耗电量较低的 Lenovo Tinies。作者想要尝试远程存储，发现使用 ZFS over iSCSI 和 Proxmox 可以实现快照功能。他们提供了如何使用 Debian 作为文件服务器设置具有快速磁盘和 10G 网卡的存储服务器的指南。他们还解释了如何安装 ZFS、创建池以及使用 targetcli 配置 iSCSI 服务器。最后，他们解释了如何将存储添加到 Proxmox 并将其用于虚拟机。]]></description>
-      <guid>https://t.me/hn_summary/71771</guid>
-      <pubDate>Tue, 30 Jan 2024 10:02:36 GMT</pubDate>
+      <title>[媒体] 南卡罗来纳州众议院众议员</title>
+      <link>https://t.me/hn_summary/71818</link>
+      <description><![CDATA[一位南卡罗来纳州议员在儿子自杀身亡后起诉 Instagram&lt; /a&gt;
+南卡罗来纳州众议院众议员布兰登·古菲 (Brandon Guffey) 正在起诉 Instagram 的母公司 Meta，因为他的儿子在该平台上发生性勒索诈骗后自杀身亡。 17 岁的加文·古菲 (Gavin Guffey) 向一名骗子发送了裸照，骗子说服他正在和一名与他同龄的女孩聊天。随后，诈骗者向加文及其家人索要金钱，以换取不分享这些照片。 Guffey 的诉讼指控 Meta 过失死亡和重大过失，声称该公司在保护儿童免受网络掠夺者侵害方面做得不够。联邦调查局警告说，性勒索越来越多地针对未成年男孩，并导致自杀率上升。]]></description>
+      <guid>https://t.me/hn_summary/71818</guid>
+      <pubDate>Tue, 30 Jan 2024 17:25:22 GMT</pubDate>
     </item>
     <item>
-      <title>文章讨论了中国成为第一个采用普遍基础的国家的可能性 [...]</title>
-      <link>https://t.me/hn_summary/71770</link>
-      <description><![CDATA[为什么中国成为第一个采用全民基本收入的国家可以让世界感到惊讶&lt; /a&gt;
-文章讨论了中国成为第一个实行全民基本收入（UBI）的国家的可能性。作为UBI专家的笔者认为，中国有几个理由考虑实施UBI。首先，中国的政治体制允许高层快速决策，从而更容易制定政策。其次，中国的目标是实现共同繁荣，扩大消费基础，全民基本收入可以帮助实现这一目标。最后，中国已经有了名为“低保”的最低收入保障计划，该计划可以转变为全民基本收入。作者承认，对于全民基本收入在中国的可行性存在不同意见，但认为这是一种更高效、更有效的收入分配方式。文章还表明，中国实现全民基本收入的前景可能会导致美国也考虑全民基本收入。]]></description>
-      <guid>https://t.me/hn_summary/71770</guid>
-      <pubDate>Tue, 30 Jan 2024 09:58:25 GMT</pubDate>
+      <title>[媒体]德国执法当局查获了价值约 20 亿欧元的比特币 [...]</title>
+      <link>https://t.me/hn_summary/71817</link>
+      <description><![CDATA[德国：警方查获价值 2B 欧元的比特币
+德国执法机构在萨克森州查获了价值约 20 亿欧元的比特币，这可能是德国同类查获中规模最大的一次。调查正在进行中，尚未提出任何指控。警方正在调查两名男子，他们涉嫌经营盗版网站，并涉嫌用从该门户网站赚到的钱购买比特币。犯罪嫌疑人自愿将比特币转移至联邦刑事警察局，但尚未做出是否兑现的决定。调查结束后将提供更多信息。]]></description>
+      <guid>https://t.me/hn_summary/71817</guid>
+      <pubDate>Tue, 30 Jan 2024 17:25:12 GMT</pubDate>
     </item>
     <item>
-      <title>“雪上加霜”的黄金时代将如何结束？</title>
-      <link>https://t.me/hn_summary/71769</link>
-      <description><![CDATA[“让事情变得更糟”的黄金时代将如何结束？&lt; /a&gt;
-这篇文章讨论了这样一种信念，即一个人（通常是男性）可以通过愤怒和暴力在恶劣的情况下发挥重要作用。作者重点介绍了马克·沃尔伯格关于他本可以如何避免 2001 年 9 月 11 日悲剧事件的声明，以及他随后发表的道歉。这篇文章探讨了全国性的消遣，即对报应的无谓幻想和纠正错误的愿望。它还深入研究了波音等行业由于关注金融资本主义和成本削减措施而对安全文化的侵蚀。作者批评了资本主义思维以及对质量和安全的缺乏关注。文章最后指出，当权者并不知道他们的行为所引起的愤怒和沮丧。]]></description>
-      <guid>https://t.me/hn_summary/71769</guid>
-      <pubDate>Tue, 30 Jan 2024 09:57:16 GMT</pubDate>
+      <title>[媒体]文章讨论了沙子贩运问题，这是一个重大的全球性问题 [...]</title>
+      <link>https://t.me/hn_summary/71816</link>
+      <description><![CDATA[犯罪团伙贩卖沙子
+文章讨论了沙子贩运问题，这是一个经常被忽视的全球性重大问题。沙子是世界上仅次于水的消耗最广泛的自然资源，用于各种行业，特别是建筑业。然而，对沙子的需求导致了非法开采和贩运，造成了严重的环境破坏。文章强调了沙子贩运者的厚颜无耻以及有组织犯罪参与该贸易。它还提到采砂对环境造成的破坏性影响，包括生态系统的破坏和洪水的加剧。文章强调，需要提高对沙子贸易的认识和监管，以防止进一步的损害。 （根据故事文本的 59% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71816</guid>
+      <pubDate>Tue, 30 Jan 2024 17:25:06 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了 AMD Ryzen 8000G 芯片的评测，该芯片是集成显卡专业版 [...]</title>
-      <link>https://t.me/hn_summary/71768</link>
-      <description><![CDATA[Ryzen 8000G评测：可以击败显卡的集成GPU，价格
-这篇文章讨论了 AMD Ryzen 8000G 芯片的评测，这些芯片是集成图形处理单元 (GPU)，性能优于低端显卡。作者表达了他们对集成 GPU 的兴趣，因为它们为预算有限的人提供了实惠的游戏选择。 Ryzen 8000G 芯片比前代芯片进行了重大升级，提供改进的 CPU 和 GPU 架构、更快的内存和能效。不过，文章强调，AM5 平台和 DDR5 内存的定价可能会限制 8000G 系列对某些用户的吸引力。文章还提到了 Ryzen 8000G 芯片的独特功能，例如使用为台式机处理器重新封装的笔记本电脑芯片，以及包含 AMD 用于机器学习和 AI 工作负载的“Ryzen AI”功能。 Ryzen 8000G 芯片适用于经济型游戏 PC 或基于 ITX 的小型台式机。]]></description>
-      <guid>https://t.me/hn_summary/71768</guid>
-      <pubDate>Tue, 30 Jan 2024 09:57:09 GMT</pubDate>
+      <title>[媒体] 2023 年，数学家 Inna Zakharevich 和 Thomas Hull 证明折纸是“都灵 [...]</title>
+      <link>https://t.me/hn_summary/71815</link>
+      <description><![CDATA[如何构建折纸计算机
+2023 年，数学家 Inna Zakharevich 和 Thomas Hull 证明了折纸是“图灵完备的”，这意味着它可以解决任何易于处理的计算问题。 Zakharevich 是一名折纸爱好者，他受到生命游戏的图灵完备性的启发，想知道折纸是否也可以是图灵完备的。她联系了折纸数学专家赫尔，他们一起着手证明折纸可以用来建造一台计算机。他们将计算输入和输出以及“与”和“或”等逻辑运算编码为纸折叠。论文中的折痕图案代表输入，不同的折叠表示 TRUE 或 FALSE 值。]]></description>
+      <guid>https://t.me/hn_summary/71815</guid>
+      <pubDate>Tue, 30 Jan 2024 17:22:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
