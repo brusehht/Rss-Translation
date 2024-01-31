@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 18:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 20:57:33 GMT</lastBuildDate>
     <item>
-      <title>[媒体]特拉华州法院裁决埃隆·马斯克 (Elon Musk) 558 亿美元的特斯拉薪酬方案无效 [...]</title>
-      <link>https://t.me/hn_summary/72011</link>
-      <description><![CDATA[Elon Musk 与特拉华州的战斗不仅仅是 550 亿美元的薪酬方案
-特拉华州法院裁定埃隆·马斯克 (Elon Musk) 558 亿美元的特斯拉薪酬方案无效，特斯拉仍可以对该裁决提出上诉。这一决定不仅影响马斯克的个人利益，也让他对特斯拉和 SpaceX 的野心面临风险。马斯克辩称，他需要拥有特斯拉 25% 的所有权，才能拥有关键创新领域决策所需的投票控制权。未能获得更多控制权可能会导致马斯克专注于特斯拉以外的人工智能和机器人企业。此外，这一裁决可能会影响马斯克为其 SpaceX 和其他商业企业计划提供资金的能力。争议在于马斯克薪酬计划获得批准的流程存在缺陷，以及当时特斯拉董事会缺乏独立董事。这项裁决还可能促使重新考虑将特拉华州作为公司注册地，马斯克建议改为内华达州或德克萨斯州。]]></description>
-      <guid>https://t.me/hn_summary/72011</guid>
-      <pubDate>Wed, 31 Jan 2024 18:11:55 GMT</pubDate>
+      <title>[媒体]Snyk 安全研究员 Rory McNamara 发现了核心骗局中的四个漏洞 [...]</title>
+      <link>https://t.me/hn_summary/72041</link>
+      <description><![CDATA[“Leaky Vessels”Docker 容器突破漏洞
+Snyk 安全研究员 Rory McNamara 发现了核心容器基础设施组件中的四个漏洞，这些漏洞允许容器逃逸，称为“泄漏容器”。这些漏洞可能允许攻击者从容器内获得对底层主机操作系统的未经授权的访问，从而可能损害敏感数据并发起进一步的攻击。 Snyk 建议用户检查容器构建和运行时供应商的更新，并在修复发布后立即升级系统。 Snyk 还开发了两种用于检测漏洞尝试的开源工具：运行时检测工具和静态分析程序。根据 Snyk 的研究，这些漏洞尚未被积极利用。]]></description>
+      <guid>https://t.me/hn_summary/72041</guid>
+      <pubDate>Wed, 31 Jan 2024 20:57:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随机恐怖主义是一种涉及政治或媒体人物的恐怖主义形式， [...]</title>
-      <link>https://t.me/hn_summary/72010</link>
-      <description><![CDATA[随机恐怖主义
-随机恐怖主义是一种恐怖主义形式，涉及政治或媒体人物使用间接和模糊的语言妖魔化个人或团体，这可能会激发其支持者对目标实施暴力行为。与直接煽动恐怖主义不同，随机恐怖主义允许煽动者否认对由此产生的暴力负责。 “随机”一词是指随机或涉及偶然的事情，而“恐怖主义”是指为了政治或意识形态目标而使用暴力或恐吓。随机恐怖主义的特点是公开的、间接的、看似随机的暴力行为。该术语在用于描述某些事件后广受欢迎，其中包括唐纳德·特朗普在 2016 年竞选集会上发表的言论。针对随机恐怖主义的对策包括态度预防和加大对针对重要人员的暴力行为或威胁的惩罚力度。 （根据故事文本的 66% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72010</guid>
-      <pubDate>Wed, 31 Jan 2024 18:11:49 GMT</pubDate>
+      <title>[媒体] 参议员罗恩·怀登 (Ron Wyden) 重新提出了旨在保护儿童免受上网侵害的立法 [...]</title>
+      <link>https://t.me/hn_summary/72040</link>
+      <description><![CDATA[Sen Wyden 重新引入立法，切实帮助孩子们更安全地上网
+参议员罗恩·怀登重新提出了旨在保护儿童免受网络剥削的立法。该法案名为《儿童安全投资法案》，将拨款超过 50 亿美元的资金来调查和打击在网上创建和分享儿童性虐待材料的掠夺者。它还将为基于社区的预防工作提供资金，并在司法部内设立一个新办公室来协调联邦机构之间的工作。该法案包括增加检察官和特工的数量、为培训计划提供资金以及要求科技公司更长时间地保留儿童性虐待材料的证据等措施。尽管该法案很重要，但与其他有争议的法案相比，它不太可能受到太多关注。]]></description>
+      <guid>https://t.me/hn_summary/72040</guid>
+      <pubDate>Wed, 31 Jan 2024 20:54:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国国立卫生研究院 (NIH) 资助的一项新研究发现，听到 [...]</title>
-      <link>https://t.me/hn_summary/72009</link>
-      <description><![CDATA[助听器可减缓高危人群认知能力下降 
-美国国立卫生研究院 (NIH) 资助的一项新研究发现，助听器可以减缓痴呆症高风险老年人的认知能力下降。这项研究由约翰·霍普金斯大学的 Frank Lin 博士领导，招募了近 1000 名 70 至 84 岁的成年人参加临床试验。参与者被随机分配接受助听器或专注于促进健康老龄化的健康教育计划。虽然两组之间的认知能力下降总体上没有差异，但与健康教育组相比，接受心脏健康研究并接受助听器的人认知能力下降的速度降低了 50%。研究人员建议定期对老年人进行听力检查，以解决任何听力问题。]]></description>
-      <guid>https://t.me/hn_summary/72009</guid>
-      <pubDate>Wed, 31 Jan 2024 17:59:38 GMT</pubDate>
+      <title>[媒体]威斯敏斯特大学的一组老龄化研究人员发现，太多[...]</title>
+      <link>https://t.me/hn_summary/72039</link>
+      <description><![CDATA[西方饮食会加速细胞衰老
+威斯敏斯特大学的一组衰老研究人员发现，过多的胰岛素（对于调节血糖水平至关重要）实际上会加速细胞衰老。胰岛素向细胞发出能量充足的信号，从而阻止正确的 DNA 复制和细胞内的内务管理。这会导致程序性细胞死亡速度减慢和受损细胞的积累，从而导致慢性疾病和衰老迹象。研究人员建议通过生酮饮食、少食或禁食来降低胰岛素水平。他们还提到正在进行的临床试验，以确定酮类膳食补充剂是否可以减缓细胞衰老。研究人员认为，减缓细胞衰老可以使个体变得更健康，并有可能延长寿命。]]></description>
+      <guid>https://t.me/hn_summary/72039</guid>
+      <pubDate>Wed, 31 Jan 2024 20:48:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 抱歉，但我无法生成此网页内容的摘要，因为它需要访问 [...]</title>
-      <link>https://t.me/hn_summary/72008</link>
-      <description><![CDATA[埃隆·马斯克薪酬过高
-抱歉，我无法生成此 Web 内容的摘要，因为它需要访问该网站并与之交互。]]></description>
-      <guid>https://t.me/hn_summary/72008</guid>
-      <pubDate>Wed, 31 Jan 2024 17:50:27 GMT</pubDate>
+      <title>[媒体] 网络内容讨论了 1981 年丢失的 TRS-80 的重新发现和重新制作 [...]</title>
+      <link>https://t.me/hn_summary/72038</link>
+      <description><![CDATA[北极冒险：失落的 1981 TRS-80 冒险游戏
+该网络内容讨论了 1981 年丢失的 TRS-80 冒险游戏《Arctic Adventure》的重新发现和重制。作者 Harry McCracken 在高中时编写了这款游戏，并被收录在一本 BASIC 冒险书中。然而，这款游戏从未被广泛玩过或保存下来。 McCracken 最近修复了该游戏，并使其可以在基于网络的 TRS-80 模拟器中运行。他还对游戏进行了一些更新和改进，包括添加狗同伴和删除过时的参考资料。作者回顾了他编写游戏的经历以及他成为一名游戏开发者的愿望。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72038</guid>
+      <pubDate>Wed, 31 Jan 2024 20:41:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一组参议员正在立法禁止陆地使用算法 [...]</title>
-      <link>https://t.me/hn_summary/72007</link>
-      <description><![CDATA[Propublica 报道的立法者寻求取缔租金价格操纵 
-一群参议员正在立法禁止房东使用算法人为抬高租金或减少住房供应。此前，ProPublica 的一项调查显示，RealPage 销售的软件正在收集房东的数据，并利用这些数据来推荐租金价格。调查发现，该软件被相互竞争的房东广泛使用，可能导致类似卡特尔的行为。拟议的法律称为《防止租赁住房卡特尔算法便利化法案》，该法案将使业主与协调租金价格和住房供应信息的公司签订合同成为非法行为。 RealPage 和另一家物业管理技术公司 Yardi 已在立法中被特别点名。]]></description>
-      <guid>https://t.me/hn_summary/72007</guid>
-      <pubDate>Wed, 31 Jan 2024 17:42:16 GMT</pubDate>
+      <title>[媒体]一项新的研究表明，即使是适量饮酒，定义为每天喝一杯 [...]</title>
+      <link>https://t.me/hn_summary/72037</link>
+      <description><![CDATA[每天一杯葡萄酒或啤酒可能会导致大脑萎缩（2022 )
+一项新的研究表明，即使是适量饮酒（女性每天喝一杯，男性每天最多喝两杯）也会导致脑容量减少。该研究分析了超过 36,000 名英国中年人的 MRI 扫描结果，发现饮酒越多，脑容量下降越明显。例如，对于 50 岁的人来说，将酒精摄入量从每天半瓶啤酒或半杯葡萄酒增加到一品脱或一杯葡萄酒，其大脑萎缩程度相当于衰老两年。研究结果与现行的安全饮酒限制指南相矛盾，并表明即使饮酒量小幅增加也会对大脑产生负面影响。然而，该研究存在局限性，例如仅考虑扫描前一年的饮酒量，而不考虑终生饮酒量。需要进行更大规模的前瞻性研究来进一步研究酒精与脑容量之间的关系。]]></description>
+      <guid>https://t.me/hn_summary/72037</guid>
+      <pubDate>Wed, 31 Jan 2024 20:36:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]起诉“我们在约会同一个人吗？”的男子</title>
-      <link>https://t.me/hn_summary/72006</link>
-      <description><![CDATA[起诉“我们在约会同一个人吗？”的人团体提起集体诉讼
-伊利诺伊州居民 Nikko D&#39;Ambrosio 最近对“我们在和同一个人约会吗？”提起集体诉讼。组。最初，他的个人案件被驳回，但现在他已将其作为集体诉讼重新提起。丹布罗西奥正在寻找其他受到这些约会团体负面影响的男性，特别是那些遇到“危险信号或茶？”的男性。该诉讼旨在引起人们对这些群体造成的潜在危害的关注，并追究他们对其行为的责任。]]></description>
-      <guid>https://t.me/hn_summary/72006</guid>
-      <pubDate>Wed, 31 Jan 2024 17:34:02 GMT</pubDate>
+      <title>在面试中使用 ChatGPT 作弊有多难？</title>
+      <link>https://t.me/hn_summary/72036</link>
+      <description><![CDATA[在面试中使用 ChatGPT 作弊有多难？
+网络内容讨论了使用 ChatGPT 在技术面试中作弊的可能性。本文介绍了 interviewing.io 进行的一项实验，该平台是工程师的面试练习和招聘。该实验涉及采访者向被指示使用 ChatGPT 作弊的受访者提出不同类型的问题。结果显示，使用 ChatGPT 回答“逐字”和“修改”问题的受访者比回答“自定义”问题的受访者通过率更高。令人惊讶的是，没有一个面试官怀疑有作弊行为，而且他们对自己的招聘决定信心十足。文章建议公司需要改变他们在面试中提出的问题类型。 （根据 55% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72036</guid>
+      <pubDate>Wed, 31 Jan 2024 20:31:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 安全公司 Proofpoint 正在裁员约 6%，这 [...]</title>
-      <link>https://t.me/hn_summary/72005</link>
-      <description><![CDATA[安全巨头 Proofpoint 正在裁员 280 名员工，约占其员工总数的 6%劳动力
-安全公司 Proofpoint 将裁员约 6%，共计 280 名员工。该决定是公司战略的一部分，旨在使投资和招聘与其战略优先事项保持一致，精简组织并扩大运营范围。大约一半被取消的职位将被转移到 Proofpoint 位于爱尔兰和阿根廷的全球中心。该公司预计到今年年底将保持类似的员工人数。 Calcalist 最先报道了此次裁员，目前尚不清楚有多少管理层员工受到影响。 Proofpoint 于 2021 年被私募股权公司 Thoma Bravo 以 123 亿美元现金收购。该公司的盈利能力未披露。]]></description>
-      <guid>https://t.me/hn_summary/72005</guid>
-      <pubDate>Wed, 31 Jan 2024 17:16:47 GMT</pubDate>
+      <title>博客文章的作者解释了为什么他们决定将博客从 IPFS (InterPlane [...]</title>
+      <link>https://t.me/hn_summary/72035</link>
+      <description><![CDATA[我将博客从 IPFS 移至服务器&lt; br/&gt;
+博客文章的作者解释了为什么他们决定将博客从 IPFS（星际文件系统）迁移到服务器。他们最初认为 IPFS 将为他们的网站提供一个更强大、抗审查和可扩展的平台。然而，他们发现大多数 IPFS 用户并不运行自己的节点或软件，即使运行的用户也可能不会固定网站的内容。此外，更新动态内容以及使 IPFS 内容在浏览器中可靠可用也存在复杂性。作者还提到了名为 cid.contact 的“内容路由”服务，但对其集中化表示担忧。最终，作者将他们的博客移至服务器，以获得更简单、更可靠的解决方案。他们仍然支持IPFS，但感觉它还不适合个人博客。]]></description>
+      <guid>https://t.me/hn_summary/72035</guid>
+      <pubDate>Wed, 31 Jan 2024 20:23:37 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：您将如何尽快掌握一项技能？</title>
-      <link>https://t.me/hn_summary/72004</link>
-      <description><![CDATA[问 HN：您将如何尽快掌握一项技能？
-在 news.ycombinator.com 上的这篇文章中，作者向社区提出了如何尽快掌握一项技能的问题。他们提到了人们普遍认为需要 10,000 小时才能成为专家，并计算出每天 12 小时，大约需要 2.28 年才能实现这一里程碑。作者寻求其他人如何应对这一挑战的建议，并征求他们个人需要多长时间的意见。这篇文章提出了“一万小时规则”是否准确这一颇具争议的概念，并促使读者分享他们的策略和经验。]]></description>
-      <guid>https://t.me/hn_summary/72004</guid>
-      <pubDate>Wed, 31 Jan 2024 17:10:33 GMT</pubDate>
+      <title>[媒体]日本政府最终希望放弃对软盘的依赖，软盘 [...]</title>
+      <link>https://t.me/hn_summary/72034</link>
+      <description><![CDATA[日本放弃了 1.44MB 软盘，50 年后特价中
+日本政府最终希望放弃对软盘的依赖，软盘直到最近才用于官方政府申请程序。经济产业省 (METI) 发布了一项法令，更新规定使用过时介质（例如软盘和 CD-ROM）的规则。该举措是数字机构牵头的对各部委模拟法规进行更广泛审查的一部分。现行法律不仅强制要求使用过时的记录介质，而且对基于云的操作的使用也存在模糊性。政府的目标是通过用更现代的术语取代特定的媒体类型来实现法规的现代化。然而，随着传真机的持续广泛使用，日本在减少对过时技术的依赖方面仍面临挑战。]]></description>
+      <guid>https://t.me/hn_summary/72034</guid>
+      <pubDate>Wed, 31 Jan 2024 20:14:26 GMT</pubDate>
     </item>
     <item>
-      <title>伦敦死亡率清单是一系列每周出版物，记录了死亡事件 [...]</title>
-      <link>https://t.me/hn_summary/72003</link>
-      <description><![CDATA[死亡数字 - 伦敦死亡率&lt; br/&gt;
-《伦敦死亡清单》是一系列每周出版物，记录了现代早期伦敦的死亡情况。这些法案最初关注的是鼠疫，后来扩大到包括各种死亡原因，使它们成为该市死亡率的全面记录。该网站“数字死亡”探讨了这些法案的历史意义，并深入了解这一时期伦敦的死亡原因和模式。它提供了关于疾病和其他因素对人口影响的独特视角，揭示了当时的社会和医学史。]]></description>
-      <guid>https://t.me/hn_summary/72003</guid>
-      <pubDate>Wed, 31 Jan 2024 17:10:26 GMT</pubDate>
+      <title>[媒体]此网页内容的作者讨论了“信息狂热”或过度[...]</title>
+      <link>https://t.me/hn_summary/72033</link>
+      <description><![CDATA[对抗信息狂热：为什么 80% 的阅读都是浪费时间
+该网页内容的作者讨论了“信息狂”的问题，即过度消费无用或不相关的信息。作者分享了自己阅读大量有关创业和营销的书籍和文章的个人经历，却发现其中80%都是浪费时间。他们认为，类似于丰田的制造流程，即时学习比以防万一学习更有效。作者建议读者只消费能够回答特定问题、涵盖哲学知识或娱乐性的信息。他们建议取消关注行业博客并避免阅读不符合这些标准的流行非小说类书籍。]]></description>
+      <guid>https://t.me/hn_summary/72033</guid>
+      <pubDate>Wed, 31 Jan 2024 20:14:20 GMT</pubDate>
     </item>
     <item>
-      <title>该网页内容的作者正在讨论四点蛋形的构造。</title>
-      <link>https://t.me/hn_summary/72002</link>
-      <description><![CDATA[构造一个四点蛋
-该网页内容的作者正在讨论四点蛋形的构造。他们提到，与莫斯的蛋形相比，他们更喜欢这种形状，并提供了如何使用直尺和圆规构建它的分步指南。作者还提供了四点蛋的交互式版本，用户可以拖动点并观察形状如何变化。该内容的争议或令人惊讶的方面并未突出显示。]]></description>
-      <guid>https://t.me/hn_summary/72002</guid>
-      <pubDate>Wed, 31 Jan 2024 17:08:20 GMT</pubDate>
+      <title>网络内容是对增量阅读的介绍，这是一种学习技术，使我们能够[...]</title>
+      <link>https://t.me/hn_summary/72032</link>
+      <description><![CDATA[增量阅读（2023）
+网页内容是对增量阅读的介绍，这是一种允许用户同时阅读并记住数千篇文章的学习技术。内容解释说，传统的线性阅读效率低下，因为并非文本的所有部分都同等重要。另一方面，增量阅读允许用户从电子资源导入文章，提取重要片段，将其转换为问题和答案，并使用 SuperMemo 方法（一种间隔重复算法）进行复习。该内容还提供了有关如何导入文章、阅读文章和提取重要信息的说明。作者强调，渐进阅读一开始可能看起来很复杂，但它可以极大地增强学习过程。 （根据故事文本的 10% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72032</guid>
+      <pubDate>Wed, 31 Jan 2024 20:13:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
