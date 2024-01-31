@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 31 Jan 2024 00:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 03:13:28 GMT</lastBuildDate>
     <item>
       <title>Reddit 软件开发人员：您是否曾因为开源项目做出贡献而获得 FTE 职位？</title>
       <link>https://www.reddit.com/r/opensource/comments/1af4itn/software_developers_of_reddit_have_you_ever/</link>
@@ -20,16 +20,9 @@
       <pubDate>Tue, 30 Jan 2024 22:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>我们启动了一个开源赏金平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aezky6/we_bootstrapped_an_open_source_bounties_platform/</link>
-      <description><![CDATA[大家好！我们是 Zaf 和 Ioannis，Algora.io 的创始人，这是一个开源赏金平台，已帮助向 311 名 OSS 贡献者奖励了 1,105 笔赏金（122,684 美元）在 54 个国家/地区。 赏金是针对 Github 问题的现金奖励，在合并 PR 时支付。任何人都可以在任何存储库中提供社区赏金，而维护者都可以创建自己的以及与社区一起​​众筹。 我们很乐意听到您的反馈、问题和建议。要求！我们在下面分享流行编程语言的开放赏金，希望您能找到自己喜欢的东西！    开放赏金 &lt; th&gt;总奖励 热门项目    TypeScript 85 12,419 美元 Cal.com、Trigger.dev、Drizzle ORM   Rust 75 16,880 美元 Qdrant、Tailcall、RustDesk   Scala 54 $14,475 ZIO   C++ 20 4,080 美元 Timeplus、PX4 Autopilot、Mudlet   Python 3 4,575 美元 &lt; td&gt;保留，Refact.ai   继续 8 $2,050 Highlight、Permify、WunderGraph   最后，对于任何有兴趣开始的人一家商业开源公司，或者只是今天了解有关开源的更多信息，您还可以查看我们采访开源创始人的播客：https: //youtube.com/@algora-io   由   提交/u/mgcrimhead  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aezky6/we_bootstrapped_an_open_source_bounties_platform/</guid>
-      <pubDate>Tue, 30 Jan 2024 21:15:24 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找涉及树莓派的 Meraki、Aruba、Fortigate 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</link>
-      <description><![CDATA[标题基本上。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
+      <description><![CDATA[标题基本上。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交/u/caa_admin  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</guid>
       <pubDate>Tue, 30 Jan 2024 20:52:45 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[我在社交媒体上花费了太多时间，是否有适用于 Brave/Chromium 的 FOSS 浏览器扩展来阻止特定网站。最好有何时屏蔽某些网站的功能。   由   提交 /u/skincr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ae70ba/any_url_blocker_browser_extension_for/</guid>
       <pubDate>Mon, 29 Jan 2024 21:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plasma 6 - RC 2 将于周三登陆。准备好向我们询问任何问题！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ae51sd/plasma_6_rc_2_is_landing_on_wednesday_get_ready/</link>
+      <description><![CDATA[ 由   提交/u/Bro666  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ae51sd/plasma_6_rc_2_is_landing_on_wednesday_get_ready/</guid>
+      <pubDate>Mon, 29 Jan 2024 20:18:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
