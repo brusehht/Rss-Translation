@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 06:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 09:11:57 GMT</lastBuildDate>
+    <item>
+      <title>采访脚本混乱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afdqra/interview_scripts_confusion/</link>
+      <description><![CDATA[这是不久前的事了，但我只是想起来，所以想这可能是一件有趣的事情来分享，也许这里有人会知道面试官所说的“”是什么意思“脚本”。 几年前，我正在面试首席开发人员的职位。我已经担任高级职位一段时间了，但决定掷骰子申请我工作的同一家大公司的其他职位，看看我是否可以改变节奏。 我接受了面试，目的是什么看起来像是一个标准的网络开发角色，我们将在其中组建一个新团队。全部都是 Java 和 MS SQL，看起来是一个帮助从头开始建立团队的有趣机会。 我参加面试会议，发现只有一个人在那里。他跟我打了招呼，并告诉我没有其他人会加入，我们可以继续开始。我告诉他我过去的一些经验、使用的技术以及面临的挑战；采访似乎进行得很顺利。 接下来，他开始询问剧本。我很酷，你在谈论什么类型的脚本？ Shell、Python 等？没有提到“脚本”。在招聘启事中，所以我认为澄清他的意思是个好主意。然后他漫不经心地要求我把我手边的大约一千个，甚至两千个剧本发给他。我告诉他我并没有真的有数千个脚本，但我猜如果他愿意的话我可以分享源代码？ 突然语气发生了变化，他开始对我感到沮丧，说如何难道我不知道脚本吗？当他还是一名程序员的时候，他是如何能够在 2 秒内写出一个脚本的。我再次要求他澄清更多信息，但他拒绝了，而是问我面试的目的是什么？所以我逐字给他读了描述，然后他咕哝了一些我听不见的东西，然后就结束了面试。 我继续查看组织结构图，面试官是一位高级总监，只有 1 个直接职位报道称，这也是一位高级总监。它看起来就像一个由董事/经理组成的套娃，只有几个真正的工人。归根结底，我想我躲过了一劫。 这些“脚本”是什么？他可能在谈论什么？这样的互动助长了我的冒名顶替综合症。   由   提交 /u/Afromanlikestallcans   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afdqra/interview_scripts_confusion/</guid>
+      <pubDate>Wed, 31 Jan 2024 09:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发人员担心 Apple iOS 规则变更会带来问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afdpcd/web_developers_worry_apple_ios_rule_change_poses/</link>
+      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afdpcd/web_developers_worry_apple_ios_rule_change_poses/</guid>
+      <pubDate>Wed, 31 Jan 2024 09:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅用于图像维护的简单CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afcfui/simple_cms_solely_for_image_maintenance/</link>
+      <description><![CDATA[你好！ 我目前正在为四个客户开发一个项目，其中包含大量大型图像（约几千张） .tifs）他们希望看到在网站上呈现。他们四人正在一起工作，但他们都只希望拥有各自的图像访问权和编辑权。这些图像具有大量必要的元数据（大约 20 个字段），并且本身相当大（它们是艺术作品的扫描件；会有拇指，但原件必须是可访问的）。 第一个组成部分该项目将创建一个简单的 SQL 数据库并允许客户端同时访问，以便他们可以自己输入扫描结果和相应的元数据。 我目前正在考虑做一个绝对初级的 CMS我自己从头开始，或多或少会像 phpmyadmin 或 dbeaver 这样的精简数据库工具一样工作。  但是，这就是我的问题：是否有任何极其轻量且简单（此项目中的首要任务）的 CMS 是为了这样或类似的目的而制作的？  我的客户大部分都不是特别精通技术，部分也相当老旧，所以组件越少越好。 我对现有的技术特别感兴趣不需要任何框架开销的解决方案，更不用说像 WP、TYPO3 等成熟的 CMS。相对较小、简单或优化良好的 JS 库或其他类似的包都可以。 谢谢！   由   提交/u/kryzjulie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afcfui/simple_cms_solely_for_image_maintenance/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你被分配到一个混乱的项目时你会做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afcc6s/what_do_you_do_when_youre_assigned_to_a_messy/</link>
+      <description><![CDATA[嗨，我在当地一家企业实习，他们给了我一个现有的项目，一份体育俱乐部的申请，并告诉我添加东西，重新设计图形并使其更快。 只是为了让你知道这个应用程序完全是 django，代码是我见过的最糟糕的意大利面条，我花了 1 天的时间才开始它依赖于redis，但没有文档告诉我这一点。它也很慢，因为分页是用 jquery 制作的，这意味着每次这个东西都会查询整个表。 如果我在那里工作，我会用 next 或其他东西重新制作整个东西，我想正在努力那种混乱可能和重建整个事情一样困难。但我不确定我是否有时间。 我只有 3 周的时间来获得一些东西以参加期末考试，我应该做什么？   由   提交 /u/TheCoconut26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afcc6s/what_do_you_do_when_youre_assigned_to_a_messy/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:31:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailwind 真的很好用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afbwh0/tailwind_is_actually_pretty_great_to_use/</link>
+      <description><![CDATA[我从来没有觉得自己能够很好地理解 CSS，但是这周我用 Next.JS 和 Tailwind 开始了一个新项目，我觉得这是我合作过的启动项目的最佳设置之一。每当我思考如何获得我想要的样式时，我都会浏览 Tailwind 文档，它似乎对我正在搜索的内容进行了很好的索引。每个关键词都有很多精彩的视觉描述。 VSCode 扩展还使得探索可用内容以及如何将其转换为纯 CSS 变得非常流畅。 对我来说，将样式放在相应组件中比维护样式表的流程更有意义具有自定义类名。 对 Next.JS 来说也是相当新的，但目前还没有深入研究。 因此，从经验丰富的 Webdev 菜鸟那里得到它，Tailwind 是如果你对 CSS 很烂的话那就太好了。如果您还没有真正尝试过，并且还觉得 CSS 有点令人畏惧，我建议您自己尝试一下。我看到很多关于它的帖子，似乎很多评论者都在引导人们远离 Tailwind，但你自己尝试一下吧。   由   提交 /u/TheGRS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afbwh0/tailwind_is_actually_pretty_great_to_use/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>很难找到新工作，请批评我的简历/作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afb6hc/having_a_hard_time_getting_a_new_job_please/</link>
+      <description><![CDATA[长话短说： 直到去年我还在一家以色列初创公司工作，但由于战争仍在继续，我们一半人都在工作被解雇了，包括我。 这是我的第一份真正的工作，需要一周的申请才能得到，所以我想我认为这是理所当然的。 我已经自 2023 年 11 月以来一直在申请工作，但到目前为止并没有取得多大成功，只获得了 2 次面试，还有很多很多的 NO 和重影。 我在该领域有一点点 3 年的经验，并且我知道我能做什么，我知道如何搜索和学习我不能做的事情。 但是所有这些“不”在情感上严重损害了我，冒名顶替综合症正在悄然蔓延。我真的不知道我做错了什么，欢迎任何帮助。 我在 Linkedin/Portfolio/Github 上发布以供批评（不是自我推销）。 LinkedIn：https://www.linkedin.com/in/hswolf-dev/ 作品集： https://jose-israel.vercel.app/ Github：https://github.com/hs-wolf/   由   提交/u/unobraid  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afb6hc/having_a_hard_time_getting_a_new_job_please/</guid>
+      <pubDate>Wed, 31 Jan 2024 06:18:41 GMT</pubDate>
+    </item>
     <item>
       <title>您对此有何看法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1afa7wc/what_are_your_opinions_of_this/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>寻找经验丰富的用户体验设计师</title>
       <link>https://www.reddit.com/r/webdev/comments/1afa0p2/sussing_out_an_experienced_ux_designer/</link>
-      <description><![CDATA[我浏览过 Behance，在那里看到了很多作品集，但大多数情况下，它们看起来很做作，而且很难判断它们是否有人在 UX 领域真正有能力。 那里有很多优秀的设计师可以完成 UI 设计工作，但当涉及到使其真正用户友好时，大多数人都很困难。 有哪些方法可以将麦子与谷壳分开，寻找那些了解用户流程并将其以集成方式烘焙到网络应用程序 UI 中的人？ 假设预算不是问题，哪里可以找到这么有经验的设计师？ P/S - 不要联系我提供服务，我们会立即举报您。不过，您可以在评论中添加您的作品集。   由   提交 /u/ApocalypseAce   [链接] [评论]]]></description>
+      <description><![CDATA[我浏览过 Behance，在那里看到了很多作品集，但大多数情况下，它们看起来很做作，而且很难判断它们是否有人在 UX 领域真正有能力。 那里有很多优秀的设计师可以完成 UI 设计工作，但当涉及到使其真正用户友好时，大多数人都很困难。 有哪些方法可以将麦子与谷壳分开，寻找那些了解用户流程并将其以集成方式烘焙到网络应用程序 UI 中的人？ 假设预算不是问题，哪里可以找到这么有经验的设计师？ P/S - 请不要联系我提供您的服务，我们会立即举报您。不过，您可以在评论中添加您的作品集。   由   提交 /u/ApocalypseAce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afa0p2/sussing_out_an_experienced_ux_designer/</guid>
       <pubDate>Wed, 31 Jan 2024 05:13:33 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>在 MongoDB 中存储数据的最佳方式</title>
       <link>https://www.reddit.com/r/webdev/comments/1af5nt8/best_way_to_store_data_in_mongodb/</link>
-      <description><![CDATA[大家好，我不确定这是否是问这个问题的最佳地点，我已经在 r/mongodb 也是如此。我对 MongoDB 和 Web 开发总体来说是新手，我需要一些帮助。我正在制作一款wordle类每日重置网页游戏，我需要存储一个月内每天的项目数量。每天有 4 个槽，每个槽都是一个包含 itemID-count 对的对象。目前我将数据存储在一个大对象中，如下所示： {day10:[{},{&#39;id10&#39;:0, &#39;id11&#39;:5}, {}, {}] -&gt; ;这里 day10 的值是一个包含 4 个槽的数组，每个槽保存 id-count 对。每个插槽平均应包含 10-100 对。 这些计数是全局的，而不是针对每个用户的。基本上，我使用计数来显示用户选择的稀有程度。而且我不存储任何其他数据。 仅请求我的后端向数据库发送给定的日期、时间段、ID、增加计数并返回更新的计数。我想知道将这样的数据存储在一个大的嵌套 json 对象中是否可以，或者我应该以某种方式分割它。我主要希望增量操作能够快速。当前设置似乎有效，但我不确定这是否有效。   由   提交/u/blssupersoldier  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我不确定这是否是问这个问题的最佳地点，我已经在 r/mongodb 也是如此。我对 MongoDB 和 Web 开发总体来说是新手，我需要一些帮助。我正在制作一款wordle类每日重置网页游戏，我需要存储一个月内每天的项目数量。每天有 4 个槽，每个槽都是一个包含 itemID-count 对的对象。目前我将数据存储在一个大对象中，如下所示： {day10:[{},{&#39;id10&#39;:0, &#39;id11&#39;:5}, {}, {}] -&gt; ;这里 day10 的值是一个包含 4 个槽的数组，每个槽保存 id-count 对。每个插槽平均应包含 10-100 对。 这些计数是全局的，而不是针对每个用户的。基本上，我使用计数来显示用户选择的稀有程度。而且我不存储任何其他数据。 仅请求我的后端向数据库提供给定的日期、时段、id、增加计数并返回更新的计数。我想知道将这样的数据存储在一个大的嵌套 json 对象中是否可以，或者我应该以某种方式分割它。我主要希望增量操作能够快速。当前设置似乎有效，但我不确定这是否有效。   由   提交 /u/blssupersoldier   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1af5nt8/best_way_to_store_data_in_mongodb/</guid>
       <pubDate>Wed, 31 Jan 2024 01:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>OWA 对 Apple 网络 DMA 合规性提案的审查 - 开放网络倡导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af5c9d/owas_review_of_apples_dma_compliance_proposal_for/</link>
-      <description><![CDATA[       由   提交/u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af5c9d/owas_review_of_apples_dma_compliance_proposal_for/</guid>
-      <pubDate>Wed, 31 Jan 2024 01:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>就地建设工地</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af4slb/building_sites_inplace/</link>
-      <description><![CDATA[我们最近升级了服务器并丢失了一个“功能”由于安全风险，我们曾经使用过很多：Apache mod_userdir 模块。虽然如果我们提出问题，我们的服务器管理员会打开它，但他不愿意这样做。 这是情况以及我们想要它的原因： 我们有一个新客户想要一个新网站。但是，当我们构建新网站时，他们需要旧网站保持活跃。因此，我们过去所做的就是在服务器上设置一个新帐户，网址为 http://11.111.111.111/~ example/ 其中“~example”是是 cPanel 帐户名。 这样做使我们能够在构建网站时在其最终环境中测试该网站，并在不停机的情况下启动。即时发布对我们来说有很多好处。您更改 DNS，更新几个服务器/php 设置，站点就会立即上线。 那么除了 mod_userdir 之外，还有什么好的方法可以做到这一点？ 我们的服务器管理员建议使用最终 URL 构建站点，但激活本地 DNS，以便开发人员只能在临时站点上工作。不幸的是，我们在构建时经常参考旧站点。每次切换站点时更改本地 DNS 都需要大量人力。使用两台计算机会更糟。 有人知道如何在不使用本地 DNS 或 Apache mod_userdir 模块的情况下进行就地构建吗？ &lt;!-- SC_ON - -&gt;  由   提交 /u/cjasonac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af4slb/building_sites_inplace/</guid>
-      <pubDate>Wed, 31 Jan 2024 00:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么理由不在前端验证登录输入（电子邮件、密码）的格式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af4q7j/any_reason_not_to_validate_the_format_of_login/</link>
-      <description><![CDATA[*** 所有输入都将在服务器端进行验证，无论 **\* In在注册场景中，您希望看到电子邮件和密码格式的前端验证。密码示例：- 必须存在，必须是字符串，必须最少 X 个字符，必须最多 X 个字符。  对于密码创建/更新场景，还会有密码强度，例如 zxcvbn。除了强度验证之外，我是否还应该在登录场景上验证密码格式，以确保用户不会输入任何无效内容？这将更快地捕获格式错误（对于用户而言），并且还可以通过在客户端捕获它来减轻服务器的工作。    ;由   提交/u/U4-EA  /u/U4-EA  reddit.com/r/webdev/comments/1af4q7j/any_reason_not_to_validate_the_format_of_login/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af4q7j/any_reason_not_to_validate_the_format_of_login/</guid>
-      <pubDate>Wed, 31 Jan 2024 00:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的客户要求制定一份协议，说明如果我死了该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af45b7/my_client_asked_for_a_protocol_for_what_to_do_if/</link>
-      <description><![CDATA[我没有为此进行任何设置？ 您是否有指示让他们向其他开发人员提供？&lt; /p&gt; 编辑：我正在构建、维护、更新和托管网站。   由   提交/u/Famous_Clerk_7529   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af45b7/my_client_asked_for_a_protocol_for_what_to_do_if/</guid>
-      <pubDate>Wed, 31 Jan 2024 00:25:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>后表面级 CRUD：最大的挑战是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af2ij7/post_surfacelevel_crud_what_are_the_big_challenges/</link>
-      <description><![CDATA[我正在尝试确定一些研究领域。 将数据库、服务器和客户端全部组合到位并进行基本的交互是很棒的。但显然，这只是开始。您如何分解一个大团队需要长期解决的各种问题？  我在想这样的事情：（无顺序）  TDD/自动化测试策略，特别是如何模拟特定于您的工具和服务的奇怪情况，   li&gt; 可访问性（基础知识应该从一开始就存在/但网络可访问性审核）， 国际化（i18n）， 本地化（l10n）， 通过工具或社区跟踪错误， 缓存策略， 安全覆盖范围， 性能优化（在服务器/微服务和客户端/中）他们自己的方面）， 更复杂的状态管理组织， 跨应用程序的 UI 设计系统和文档工具， 连接到所有跟踪和营销事物并保持它们的组织和记录， DevOps 和 CI/CD， 渐进式 Web 应用程序 (PWA) 问题，例如通知和服务工作人员， 服务器端渲染（SSR）和静态站点生成（SSG）选项 - 以及测试将如何受到影响， 管理依赖项更新和发布 您跟踪的数据的法律事项 - 以及基于您的受众和位置 事务性电子邮件（可能相当简单 - 但也可能会失控）， 可扩展性和负载平衡， 备份和迁移&lt; /li&gt; 管理角色和管理用户行为的方法 。 我确信 - 有很多事情我什至不知道。  . ​  我不是在谈论区块链、DApp、ML、动画以及真正特定的东西 对于给定的产品 - 但更多的是随着大型网络应用程序的成熟而出现的常见情况及其解决方案。  我错过了什么？哪些项目对您来说最重要？哪些是最不重要的或者可以进一步推到未来？是否有任何材料或书籍能够高水平地涵盖这一大范围的主题？我想制作一个项目，其中包含所有这些领域的小但不平凡的示例来探索它们。谢谢！   由   提交 /u/sheriffderek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af2ij7/post_surfacelevel_crud_what_are_the_big_challenges/</guid>
-      <pubDate>Tue, 30 Jan 2024 23:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要构建一个房屋检查网络应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af2d8w/need_to_build_a_home_inspection_web_app/</link>
-      <description><![CDATA[希望开发一个 Web 应用程序来进行房屋检查。我拥有大约 90% 的屏幕，我很乐意分享这些屏幕来解释应用程序的用户工作流程和功能。 简而言之，我们的项目由家庭组成，需要有对他们进行了一系列检查。检查将包含问题描述、可标记的问题图像、问题位置以及负责修复问题的行业。检查还必须包含供房主和检查员提交签名的空间，检查完成后导出检查的 PDF 文件，该文件发送到检查员和房主的电子邮件。  管理员必须能够设置项目，添加所有相关详细信息并添加房屋及其详细信息。管理员还必须能够将用户分配到项目，然后这些用户可以在他们有权访问的项目中的房屋下创建检查。  这是基础知识，我还需要图表屏幕和桌面版本的屏幕，以便能够在捕获数据后对其进行操作。例如更改问题状态、添加或更改交易以及使用过滤器对内容进行排序后导出数据的 Excel/pdf 文件。 ​ 感谢您的阅读。&lt; /p&gt; ​   由   提交/u/350gt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af2d8w/need_to_build_a_home_inspection_web_app/</guid>
-      <pubDate>Tue, 30 Jan 2024 23:07:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
