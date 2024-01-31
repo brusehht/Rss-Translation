@@ -4,20 +4,48 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 12:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 15:11:47 GMT</lastBuildDate>
+    <item>
+      <title>Web组件界面设计和SOLID原则</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afjaxk/web_component_interface_design_solid_principles/</link>
+      <description><![CDATA[特别是里氏替换原理 (L)，尽管我意识到它在我的示例中并不是完美的表示。 如果我有要求制作一系列按钮 - 主要、次要和第三。只有主按钮和辅助按钮才有可能被表示为破坏性的。 可能的实现是：  一个组件具有两个属性：type 和 type 。破坏性布尔值。如果类型为三级，则忽略破坏性布尔值，无论是否设置此属性，都会产生相同的输出。     三个独立的组件。只有前两个具有破坏性布尔值。  &lt;web-button-secondary virtual=“true”&gt;&lt;/web-button-secondary&gt; &lt;/web-button -tertiary&gt;  我的开发者直觉强烈建议后一种选择始终是最好的，因为作为消费者，我希望任何属性都具有与任何其他属性组合的功能，如果它已提供。但是，如果有足够的文档记录，使用第二个选项是否可以接受？ 实际上，这是一个相当简单的示例 - 还有其他示例，其中存在额外的不依赖级别.   由   提交/u/ajbrun86  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afjaxk/web_component_interface_design_solid_principles/</guid>
+      <pubDate>Wed, 31 Jan 2024 14:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么技术更容易在 VPS 上部署和托管？ Spring Boot 还是 .Net ASP 核心？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afiri3/what_technology_is_easier_to_deploy_and_host_on/</link>
+      <description><![CDATA[我有一个问题要问那些拥有不同技术实际经验的人。哪种技术在托管和部署方面更容易？我了解 PHP 和 Node.js。 Java 和.Net 怎么样？它的难度水平是否与 PHP 或 Node.js 相当？ ​ 托管类似应用程序所需的资源怎么样？我的意思是内存和CPU。 Spring或者ASP和Express之间有很大的区别吗？   由   提交 /u/ImpossibleFruit9954   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afiri3/what_technology_is_easier_to_deploy_and_host_on/</guid>
+      <pubDate>Wed, 31 Jan 2024 14:13:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有 4 个通过 google 域名购买的域名。我想知道我是否应该以当前价格增加更多年数并暂时忘记它，或者我应该现在转移到另一个注册商。这些域连接到在谷歌网站上创建的简单网站。它们都是 .co.uk 域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afifk7/i_have_4_domains_that_i_purchased_through_google/</link>
+      <description><![CDATA[由于 google 域名现在归 squarespace 所有，而且我不相信 squarespace 会保持相同的定价，所以我正在考虑我的选择。我是一名教师，在一个非常简单的网站上使用该域名，并且没有太多与注册商等打交道的经验。 我在这个 subreddit 上搜索了这个主题，并发现了几篇关于移动的帖子注册商。我经常看到推荐的两个服务是与 cloudflare 或 namecheap 搭配使用。我看到的另一个建议（可能在不同的 Reddit 子版块上）是在仍有可能的情况下通过 Goodle 域名购买更多年份。我可以以目前的价格再购买 10 年，但我想这会让这个问题进一步恶化。我更倾向于切换域。 我不介意切换到其中任何一个。我想知道的是  我是否仍然能够将域名指向谷歌网站创建的网站（我假设不能，但我真的没有任何这方面的经验） )。 有没有办法查明通过新注册商续订我的域名的费用是多少。我可以找到使用 cloudflare/namecheap 注册新域名的价格，但我无法找到域名转移后续订的费用。  谢谢请提前向您寻求帮助。 ​ 编辑： 我从 namecheap 支持处了解到续订 .co.uk 的费用但尚未找到 cloudflare 的此信息。   由   提交/u/anondriver20  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afifk7/i_have_4_domains_that_i_purchased_through_google/</guid>
+      <pubDate>Wed, 31 Jan 2024 13:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我不应该只使用 Jquery？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afic7z/why_should_i_not_just_use_jquery/</link>
+      <description><![CDATA[嗨， 我正在创建一个新的 Shopify 主题，我希望它尽可能干净、轻便。我是一名老派开发人员，不喜欢这些新奇的框架，所以打算只使用 Jquery。我实际上只需要它来滑动和淡入淡出动画。  我一直听说 Jquery 现在已经过时了，没有人使用它，所以我的问题是使用它有什么问题，有什么更新、更轻的东西可以用来实现同样的事情吗？  谢谢   由   提交/u/Educational-Soil-725   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afic7z/why_should_i_not_just_use_jquery/</guid>
+      <pubDate>Wed, 31 Jan 2024 13:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级初级开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afi92f/senior_junior_dev/</link>
+      <description><![CDATA[有关工作申请的问题。有些人的头衔是“初级软件工程师”，但当你查看职位申请时，他们的头衔是“中高级”。那么初级和高级开发头衔有自己的子类别吗？例如：中初级软件工程师、初级高级软件工程师、中高级软件工程师？这是什么系统？？？   由   提交/u/Kalistrad  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afi92f/senior_junior_dev/</guid>
+      <pubDate>Wed, 31 Jan 2024 13:48:51 GMT</pubDate>
+    </item>
     <item>
       <title>您更喜欢哪一种：单引号还是双引号？</title>
       <link>https://www.reddit.com/r/webdev/comments/1afgfdv/which_one_do_you_prefer_single_or_double_quotes/</link>
       <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/keramuribanuvuvonibi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afgfdv/which_one_do_you_prefer_single_or_double_quotes/</guid>
       <pubDate>Wed, 31 Jan 2024 12:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 上的 html 文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afgaat/html_file_on_iphone/</link>
-      <description><![CDATA[你好，我创建了一个愚蠢的网站来邀请某人成为我的情人，但是当我在 iPhone 上打开 html 文件时，它看起来与它完全不同在我的电脑上，背景没有出现，嵌入的链接没有加载，按钮也不起作用。如果这是一个愚蠢的问题，我很抱歉，但我不知道如何解决它，因此感谢任何帮助    由   提交 /u/Qutairu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afgaat/html_file_on_iphone/</guid>
-      <pubDate>Wed, 31 Jan 2024 12:02:33 GMT</pubDate>
     </item>
     <item>
       <title>MP3 文件无法在 iOS Safari 上加载，但在 MacOS / Chrome / Edge 上工作正常？</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好！ 几个月前我看过一个有关黑客新闻的网站演示。   在两个窗口中打开网站。 移动窗口。 查看边缘交互以及两个画布上的图像重叠。 &gt;  有人记得我试图描述的功能吗？ 谢谢 &lt;3   由   提交 /u/ragganerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afeuk0/please_help_me_find_this_awesome_design_i_saw_on/</guid>
       <pubDate>Wed, 31 Jan 2024 10:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复主页上的 GSAP 动画错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afejym/fixing_gsap_animation_bug_on_homepage/</link>
-      <description><![CDATA[大家好！  我们在主页 (https://www.taskade.com/) 上遇到了一个奇怪的动画问题使用隐身模式。两侧的网格在视频加载之前会弹跳两次，这是我们无法在本地复制的老错误。这可能是 Cloudflare 缓存问题吗？ 在本地，背景和视频应该并且确实一起淡入，仅一次。但我们在制作中看到了双重动画：首先是背景，然后是带有背景的视频。  有任何网络开发人员或动画专家可以提供帮助或提供见解吗？您的帮助将是令人惊叹的！ 提前致谢！   由   提交 /u/taskade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afejym/fixing_gsap_animation_bug_on_homepage/</guid>
-      <pubDate>Wed, 31 Jan 2024 10:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>401 与 403 状态代码简单指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afeihp/simple_guide_to_401_vs_403_status_codes/</link>
-      <description><![CDATA[    /u/fadymak   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afeihp/simple_guide_to_401_vs_403_status_codes/</guid>
-      <pubDate>Wed, 31 Jan 2024 10:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有这样的开源网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afefgu/is_there_an_open_source_website_like_this/</link>
-      <description><![CDATA[一个开源网站，可以添加、重命名、删除类别，比如有0个类别，你想添加一个你自己命名” “数学”，您创建了另一个类别并将其命名为“科学”，每个类别就像一个目录，但在 ui 界面中，您单击“科学”即可类别，它就像一个不和谐的聊天室，用户可以添加图像、文本、音频 奖励：如果单个 wifi 路由器中的多个用户即使没有互联网连接，他们也可以一起与网站交互，并且仍然可以这样做CRUD 事物并查看实时更改并将其存储到数据库中   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afefgu/is_there_an_open_source_website_like_this/</guid>
-      <pubDate>Wed, 31 Jan 2024 09:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>采访脚本混乱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afdqra/interview_scripts_confusion/</link>
-      <description><![CDATA[这是不久前的事了，但我只是想起来，所以想这可能是一件有趣的事情来分享，也许这里有人会知道面试官所说的“”是什么意思“脚本”。 几年前，我正在面试首席开发人员的职位。我已经担任高级职位一段时间了，但决定掷骰子申请我工作的同一家大公司的其他职位，看看我是否可以改变节奏。 我接受了面试，目的是什么看起来像是一个标准的网络开发角色，我们将在其中组建一个新团队。全部都是 Java 和 MS SQL，看起来是一个帮助从头开始建立团队的有趣机会。 我参加面试会议，发现只有一个人在那里。他跟我打了招呼，并告诉我没有其他人会加入，我们可以继续开始。我告诉他我过去的一些经验、使用的技术以及面临的挑战；采访似乎进行得很顺利。 接下来，他开始询问剧本。我很酷，你在谈论什么类型的脚本？ Shell、Python 等？没有提到“脚本”。在招聘启事中，所以我认为澄清他的意思是个好主意。然后他漫不经心地要求我把我手边的大约一千个，甚至两千个剧本发给他。我告诉他我并没有真的有数千个脚本，但我猜如果他愿意的话我可以分享源代码？ 突然语气发生了变化，他开始对我感到沮丧，说如何难道我不知道脚本吗？当他还是一名程序员的时候，他是如何能够在 2 秒内写出一个脚本的。我再次要求他澄清更多信息，但他拒绝了，而是问我面试的目的是什么？所以我逐字给他读了描述，然后他咕哝了一些我听不见的东西，然后就结束了面试。 我继续查看组织结构图，面试官是一位高级总监，只有 1 个直接职位报道称，这也是一位高级总监。它看起来就像一个由董事/经理组成的套娃，只有几个真正的工人。归根结底，我想我躲过了一劫。 这些“脚本”是什么？他可能在谈论什么？这样的互动助长了我的冒名顶替综合症。   由   提交 /u/Afromanlikestallcans   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afdqra/interview_scripts_confusion/</guid>
-      <pubDate>Wed, 31 Jan 2024 09:08:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
