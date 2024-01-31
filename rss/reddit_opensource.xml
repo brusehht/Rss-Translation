@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 31 Jan 2024 09:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 12:19:37 GMT</lastBuildDate>
+    <item>
+      <title>有这样的开源网站吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1afeg01/is_there_an_open_source_website_like_this/</link>
+      <description><![CDATA[有这样的开源网站吗？ 一个可以添加、重命名、删除类别的开源网站，例如有0个类别，你想添加一个，你将其命名为“数学”，你创建了另一个类别并将其命名为“科学”，每个类别就像一个目录，但在ui界面中，你单击“科学” ;类别，它就像一个不和谐的聊天室，用户可以添加图像、文本、音频 奖励：如果单个 wifi 路由器中的多个用户即使没有互联网连接，他们也可以一起与网站交互，并且仍然可以这样做CRUD 事物并查看实时更改并将其存储到数据库中   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1afeg01/is_there_an_open_source_website_like_this/</guid>
+      <pubDate>Wed, 31 Jan 2024 09:59:46 GMT</pubDate>
+    </item>
     <item>
       <title>尚未发布的开发版本的版本号格式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1afckju/version_number_format_for_notyetreleased/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/smileymileycoin  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aeldev/apply_for_lfx_mentorship_2024_spring_llm_projects/</guid>
       <pubDate>Tue, 30 Jan 2024 10:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>AntiPython 编译器以您的首选语言使用 Google Colab GPU</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aeiazh/antipython_compiler_to_use_google_colab_gpus_in/</link>
-      <description><![CDATA[此编译器可让您访问 GPU 和庞大的 Python AI 生态系统，而无需接触 Python。 它适用于对 AI 感兴趣的开发人员，但非常不喜欢 Python。 GitHub 上的源代码以及欢迎贡献/想法。现在 Java 导入正在运行。让我知道您最喜欢的编程语言，我将添加支持:) GitHub：https:// github.com/Fileforma/AntiPython-AI-Compiler-Colab/    由   提交 /u/DataBaeBee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aeiazh/antipython_compiler_to_use_google_colab_gpus_in/</guid>
-      <pubDate>Tue, 30 Jan 2024 06:54:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

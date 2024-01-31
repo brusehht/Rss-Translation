@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 09:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 12:19:32 GMT</lastBuildDate>
+    <item>
+      <title>您更喜欢哪一种：单引号还是双引号？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afgfdv/which_one_do_you_prefer_single_or_double_quotes/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/keramuribanuvuvonibi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afgfdv/which_one_do_you_prefer_single_or_double_quotes/</guid>
+      <pubDate>Wed, 31 Jan 2024 12:10:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 上的 html 文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afgaat/html_file_on_iphone/</link>
+      <description><![CDATA[你好，我创建了一个愚蠢的网站来邀请某人成为我的情人，但是当我在 iPhone 上打开 html 文件时，它看起来与它完全不同在我的电脑上，背景没有出现，嵌入的链接没有加载，按钮也不起作用。如果这是一个愚蠢的问题，我很抱歉，但我不知道如何解决它，因此感谢任何帮助    由   提交 /u/Qutairu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afgaat/html_file_on_iphone/</guid>
+      <pubDate>Wed, 31 Jan 2024 12:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>MP3 文件无法在 iOS Safari 上加载，但在 MacOS / Chrome / Edge 上工作正常？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afg6gi/mp3_file_wont_load_on_ios_safari_works_fine_on/</link>
+      <description><![CDATA[嘿伙计们，在这个问题上有点卡住了。  我正在从 Cloudflare Worker 提供 .mp3 文件，解压缩存档并返回 mp3 文件的缓冲区。它在 chrome、edge 以及 MacOS 上的 safari 上运行良好。但是，在 iOS safari 上无法加载。无法加载资源，插件处理加载。在将 HTTP 响应代码更改为 206 之前，我最初在 MacOS safari 上也遇到了相同的错误。 const mp3ArrayBuffer = wait mp3ZipObject.async(&#39;arraybuffer&#39;); console.log(mp3ArrayBuffer); const Total = mp3ArrayBuffer.byteLength; //设置开始和结束字节整个缓冲区 const start = 0; const end =total - 1; //设置Content-Range 标头覆盖整个缓冲区 const contentRange = \bytes ${start}-${end}/${total}`; &lt; /code&gt;return new Response(mp3ArrayBuffer, { status: 206, headers: { &#39;Content-Type&#39;: &#39;audio/mpeg&#39;, &#39;Content-Range&#39;: contentRange , &#39;内容编码&#39;: &#39;身份&#39; }, }); }` ​ 这里是指向 mp3 文件的链接。 ​ MP3链接   由   提交/u/PublicYogurtcloset47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afg6gi/mp3_file_wont_load_on_ios_safari_works_fine_on/</guid>
+      <pubDate>Wed, 31 Jan 2024 11:56:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>从网站访问 CORS 保护的 API，在部署安全级别上有多个用户和请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1affsqu/access_cors_protected_api_from_a_website_with/</link>
+      <description><![CDATA[大家好， 我正在为一家亲戚企业制作一个网络应用程序，该应用程序将与他的 POS 系统中的 API 进行交互以仪表板格式提供实时销售数据。我将其作为 Windows/Electron 应用程序使用，使用 http-proxy-middleware 并使用它设置代理来绕过 CORS 限制。  该应用程序功能完整且工作正常，但是我在部署方面确实遇到了困难（我现在希望根据对此的兴趣将该应用程序部署给其他特许经营权所有者）。将 Windows 应用程序部署为仪表板需要一台 PC，并且该应用程序旨在简单地显示在显示器上 - 我宁愿不向人们提供树莓派。我现在也不喜欢绕过 CORS，因为我现在可能会将其出售给其他人，而不仅仅是制作一个快速而肮脏的网络应用程序。  我已经成功地将应用程序变成了 WordPress 网站，具有自定义 html/js/css（无模板），但是我的老朋友 CORS 又回来了。我有一个隐隐约约的想法，我需要通过代理将我的获取请求重定向到 API，但这似乎只能从节点服务器上实现 - 但那么我将如何访问所述节点服务器呢？ （我不太熟悉 Web 开发的 API/服务器端世界） 我主要尝试使用 tinyproxy 服务器设置 ec2 实例 - 但似乎我无法连接因为浏览器不允许我这样做（与 AWS 相关的任何事情都非常令人困惑）。我还尝试将 cloudflare Worker 设置为要连接的节点服务器，但遇到了同样的问题。 我认为可能有效的一个解决方案是设置一个托管在便宜的地方的节点服务器（例如heroku/cloudflare/netlify - 不确定是哪一个），这使得 API 请求使用我之前使用的相同解决方法，然后在所述服务器上创建一个 API，我可以从我的网站连接到该 API。然而，此解决方案的问题在于，根据当前使用该网站的特许经营地点，将向 API 的不同端点发出许多不同的请求 - 在小型免费服务器上发出太多请求。 在这个部署阶段，我感觉有点超出了我的深度 - 没想到会这么痛苦。 有人能给我指出正确的方向吗？即使是“你做的这一切都是错误的，你应该这样做......”我也很乐意感激。   由   提交/u/SquareCreme9098  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1affsqu/access_cors_protected_api_from_a_website_with/</guid>
+      <pubDate>Wed, 31 Jan 2024 11:31:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法理解 CORS？您可能想查看我构建的交互式备忘单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1affrac/having_trouble_understanding_cors_you_may_want_to/</link>
+      <description><![CDATA[    /u/__brennerm   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1affrac/having_trouble_understanding_cors_you_may_want_to/</guid>
+      <pubDate>Wed, 31 Jan 2024 11:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>密钥 - iPhone 的安全时刻</title>
+      <link>https://www.reddit.com/r/webdev/comments/1affjb1/passkeys_the_iphone_moment_for_security/</link>
+      <description><![CDATA[WebDev 社区您好 我最近写了一篇关于 PassKeys 的文章。了解什么是万能钥匙以及它们如何优于密码。 请阅读如果您有兴趣，请查看整篇文章。 谢谢   由   提交/u/thearunkumar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1affjb1/passkeys_the_iphone_moment_for_security/</guid>
+      <pubDate>Wed, 31 Jan 2024 11:14:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>过渡到移动开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1affdjp/transitioning_to_mobile_dev/</link>
+      <description><![CDATA[你好， 所以目前我作为中级开发人员使用 C#/.net/Angular/SQL。 我只是想知道转型为移动开发者有多难？  你本质上必须选择 iOS 或 Android 路线吗？那么 Swift 还是 Java/Kotlin？ 我是否可能一开始只能获得初级职位，因为我对这些语言都没有经验？ 欧洲的工作机会与其他开发职位相似吗？  其他人的任何其他建议做出了转变？ 感谢您可能同时负责网络和移动本机应用程序的工作。但我见过的大多数人似乎都将这个角色宣传为专门的 Android 或 iOS 开发人员。   由   提交/u/Inknown_Tangerine47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1affdjp/transitioning_to_mobile_dev/</guid>
+      <pubDate>Wed, 31 Jan 2024 11:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 网站被黑了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1affbcw/hacked_wordpress_website/</link>
+      <description><![CDATA[您好， 当我在 Google 上搜索 site:goldlinebets.com 时，我看到大约 19k 个结果和大量垃圾邮件链接（英文），而在我的其他网站上，我收到大约 30 个合法页面。 sful。我已经手动检查了所有文件，也搜索了数据库，但没有结果。使用多个恶意软件检测插件扫描恶意软件也不会给出结果。 当我在 google 上搜索 site:goldlinebets.com 时，我看到大约 19k 个结果和大量垃圾链接（英文） ），而在我的其他网站上，我获得了大约 30 个合法页面。 在我的 Plesk 面板上，我发现该网站产生的流量明显多于我的其他网站（大约 10 倍），这对我来说似乎很不正常。  该网站未在 Sucuri 上列出、在 Google 上列入黑名单等。 Google 上显示的链接会指向我的主页（不是 404） 唯一。&lt; /p&gt; Google 上显示的链接指向我的主页（不是 404） 有人可以给我任何建议吗？ &lt;!-- SC_ON - -&gt;  由   提交 /u/BRKBLE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1affbcw/hacked_wordpress_website/</guid>
+      <pubDate>Wed, 31 Jan 2024 10:59:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>与聘请的印度开发商店分道扬镳 - 他们想独立推出我的应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1affaoj/parted_ways_with_hired_indian_dev_shop_they_want/</link>
+      <description><![CDATA[你好， 长话短说；我成为了一家 swestshop 的受害者，这家公司给我指派了两名初级员工，他们编写了非常不可靠的代码，并将项目拖到了 2.5 年，而且还没有提供一个功能正常的测试版本。由于缺乏进展和繁琐的协作工作，我已经告诉他们我将停止该项目并说再见。开发店老板不愿接受任何指责，甚至表示将独立接手这个项目。由于这个项目是我的心头好，我不愿意让这样的事情发生。  你们中有人有这方面的经验或对如何处理这种情况有任何建议吗？我的经济状况不足以合法地追捕他们，但我确实需要采取某种行动。   由   提交/u/Good-Half9818  /u/Good-Half9818 reddit.com/r/webdev/comments/1affaoj/parted_ways_with_hired_indian_dev_shop_they_want/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1affaoj/parted_ways_with_hired_indian_dev_shop_they_want/</guid>
+      <pubDate>Wed, 31 Jan 2024 10:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有包含佣金和开发者帐户的域名服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aff4ip/is_there_a_domain_service_with_commission_and/</link>
+      <description><![CDATA[几年前，我从托管客户网站转向使用第三方主机，通过联属系统获得支付佣金，然后添加为开发人员。你赚的钱更少，但疼痛却大大减少。所以对我来说效果很好。是否有任何体面的[信誉良好]域名提供商提供类似的服务 - 我希望客户拥有自己的帐户，理想情况下我会成为其附属公司或获得佣金每个帐户，然后如果需要，我可以在开发或管理员帐户上进入访问 DNS...必须有一些东西？   由   提交/u/albert_pacino  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aff4ip/is_there_a_domain_service_with_commission_and/</guid>
+      <pubDate>Wed, 31 Jan 2024 10:47:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮我找到我在黑客新闻上看到的这个很棒的设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afeuk0/please_help_me_find_this_awesome_design_i_saw_on/</link>
+      <description><![CDATA[大家好！ 几个月前我看过一个有关黑客新闻的网站演示。   在两个窗口中打开网站。 移动窗口。 查看边缘交互以及两个画布上的图像重叠。 &gt;  有人记得我试图描述的功能吗？ 谢谢 &lt;3   由   提交 /u/ragganerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afeuk0/please_help_me_find_this_awesome_design_i_saw_on/</guid>
+      <pubDate>Wed, 31 Jan 2024 10:28:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复主页上的 GSAP 动画错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afejym/fixing_gsap_animation_bug_on_homepage/</link>
+      <description><![CDATA[大家好！  我们在主页 (https://www.taskade.com/) 上遇到了一个奇怪的动画问题使用隐身模式。两侧的网格在视频加载之前会弹跳两次，这是我们无法在本地复制的老错误。这可能是 Cloudflare 缓存问题吗？ 在本地，背景和视频应该并且确实一起淡入，仅一次。但我们在制作中看到了双重动画：首先是背景，然后是带有背景的视频。  有任何网络开发人员或动画专家可以提供帮助或提供见解吗？您的帮助将是令人惊叹的！ 提前致谢！   由   提交 /u/taskade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afejym/fixing_gsap_animation_bug_on_homepage/</guid>
+      <pubDate>Wed, 31 Jan 2024 10:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>401 与 403 状态代码简单指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afeihp/simple_guide_to_401_vs_403_status_codes/</link>
+      <description><![CDATA[    /u/fadymak   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afeihp/simple_guide_to_401_vs_403_status_codes/</guid>
+      <pubDate>Wed, 31 Jan 2024 10:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有这样的开源网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afefgu/is_there_an_open_source_website_like_this/</link>
+      <description><![CDATA[一个开源网站，可以添加、重命名、删除类别，比如有0个类别，你想添加一个你自己命名” “数学”，您创建了另一个类别并将其命名为“科学”，每个类别就像一个目录，但在 ui 界面中，您单击“科学”即可类别，它就像一个不和谐的聊天室，用户可以添加图像、文本、音频 奖励：如果单个 wifi 路由器中的多个用户即使没有互联网连接，他们也可以一起与网站交互，并且仍然可以这样做CRUD 事物并查看实时更改并将其存储到数据库中   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afefgu/is_there_an_open_source_website_like_this/</guid>
+      <pubDate>Wed, 31 Jan 2024 09:58:32 GMT</pubDate>
+    </item>
     <item>
       <title>采访脚本混乱</title>
       <link>https://www.reddit.com/r/webdev/comments/1afdqra/interview_scripts_confusion/</link>
       <description><![CDATA[这是不久前的事了，但我只是想起来，所以想这可能是一件有趣的事情来分享，也许这里有人会知道面试官所说的“”是什么意思“脚本”。 几年前，我正在面试首席开发人员的职位。我已经担任高级职位一段时间了，但决定掷骰子申请我工作的同一家大公司的其他职位，看看我是否可以改变节奏。 我接受了面试，目的是什么看起来像是一个标准的网络开发角色，我们将在其中组建一个新团队。全部都是 Java 和 MS SQL，看起来是一个帮助从头开始建立团队的有趣机会。 我参加面试会议，发现只有一个人在那里。他跟我打了招呼，并告诉我没有其他人会加入，我们可以继续开始。我告诉他我过去的一些经验、使用的技术以及面临的挑战；采访似乎进行得很顺利。 接下来，他开始询问剧本。我很酷，你在谈论什么类型的脚本？ Shell、Python 等？没有提到“脚本”。在招聘启事中，所以我认为澄清他的意思是个好主意。然后他漫不经心地要求我把我手边的大约一千个，甚至两千个剧本发给他。我告诉他我并没有真的有数千个脚本，但我猜如果他愿意的话我可以分享源代码？ 突然语气发生了变化，他开始对我感到沮丧，说如何难道我不知道脚本吗？当他还是一名程序员的时候，他是如何能够在 2 秒内写出一个脚本的。我再次要求他澄清更多信息，但他拒绝了，而是问我面试的目的是什么？所以我逐字给他读了描述，然后他咕哝了一些我听不见的东西，然后就结束了面试。 我继续查看组织结构图，面试官是一位高级总监，只有 1 个直接职位报道称，这也是一位高级总监。它看起来就像一个由董事/经理组成的套娃，只有几个真正的工人。归根结底，我想我躲过了一劫。 这些“脚本”是什么？他可能在谈论什么？这样的互动助长了我的冒名顶替综合症。   由   提交 /u/Afromanlikestallcans   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afdqra/interview_scripts_confusion/</guid>
       <pubDate>Wed, 31 Jan 2024 09:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发人员担心 Apple iOS 规则变更会带来问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afdpcd/web_developers_worry_apple_ios_rule_change_poses/</link>
-      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afdpcd/web_developers_worry_apple_ios_rule_change_poses/</guid>
-      <pubDate>Wed, 31 Jan 2024 09:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅用于图像维护的简单CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afcfui/simple_cms_solely_for_image_maintenance/</link>
-      <description><![CDATA[你好！ 我目前正在为四个客户开发一个项目，其中包含大量大型图像（约几千张） .tifs）他们希望看到在网站上呈现。他们四人正在一起工作，但他们都只希望拥有各自的图像访问权和编辑权。这些图像具有大量必要的元数据（大约 20 个字段），并且本身相当大（它们是艺术作品的扫描件；会有拇指，但原件必须是可访问的）。 第一个组成部分该项目将创建一个简单的 SQL 数据库并允许客户端同时访问，以便他们可以自己输入扫描结果和相应的元数据。 我目前正在考虑做一个绝对初级的 CMS我自己从头开始，或多或少会像 phpmyadmin 或 dbeaver 这样的精简数据库工具一样工作。  但是，这就是我的问题：是否有任何极其轻量且简单（此项目中的首要任务）的 CMS 是为了这样或类似的目的而制作的？  我的客户大部分都不是特别精通技术，部分也相当老旧，所以组件越少越好。 我对现有的技术特别感兴趣不需要任何框架开销的解决方案，更不用说像 WP、TYPO3 等成熟的 CMS。相对较小、简单或优化良好的 JS 库或其他类似的包都可以。 谢谢！   由   提交/u/kryzjulie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afcfui/simple_cms_solely_for_image_maintenance/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你被分配到一个混乱的项目时你会做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afcc6s/what_do_you_do_when_youre_assigned_to_a_messy/</link>
-      <description><![CDATA[嗨，我在当地一家企业实习，他们给了我一个现有的项目，一份体育俱乐部的申请，并告诉我添加东西，重新设计图形并使其更快。 只是为了让你知道这个应用程序完全是 django，代码是我见过的最糟糕的意大利面条，我花了 1 天的时间才开始它依赖于redis，但没有文档告诉我这一点。它也很慢，因为分页是用 jquery 制作的，这意味着每次这个东西都会查询整个表。 如果我在那里工作，我会用 next 或其他东西重新制作整个东西，我想正在努力那种混乱可能和重建整个事情一样困难。但我不确定我是否有时间。 我只有 3 周的时间来获得一些东西以参加期末考试，我应该做什么？   由   提交 /u/TheCoconut26   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afcc6s/what_do_you_do_when_youre_assigned_to_a_messy/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind 真的很好用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afbwh0/tailwind_is_actually_pretty_great_to_use/</link>
-      <description><![CDATA[我从来没有觉得自己能够很好地理解 CSS，但是这周我用 Next.JS 和 Tailwind 开始了一个新项目，我觉得这是我合作过的启动项目的最佳设置之一。每当我思考如何获得我想要的样式时，我都会浏览 Tailwind 文档，它似乎对我正在搜索的内容进行了很好的索引。每个关键词都有很多精彩的视觉描述。 VSCode 扩展还使得探索可用内容以及如何将其转换为纯 CSS 变得非常流畅。 对我来说，将样式放在相应组件中比维护样式表的流程更有意义具有自定义类名。 对 Next.JS 来说也是相当新的，但目前还没有深入研究。 因此，从经验丰富的 Webdev 菜鸟那里得到它，Tailwind 是如果你对 CSS 很烂的话那就太好了。如果您还没有真正尝试过，并且还觉得 CSS 有点令人畏惧，我建议您自己尝试一下。我看到很多关于它的帖子，似乎很多评论者都在引导人们远离 Tailwind，但你自己尝试一下吧。   由   提交 /u/TheGRS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afbwh0/tailwind_is_actually_pretty_great_to_use/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>很难找到新工作，请批评我的简历/作品集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afb6hc/having_a_hard_time_getting_a_new_job_please/</link>
-      <description><![CDATA[长话短说： 直到去年我还在一家以色列初创公司工作，但由于战争仍在继续，我们一半人都在工作被解雇了，包括我。 这是我的第一份真正的工作，需要一周的申请才能得到，所以我想我认为这是理所当然的。 我已经自 2023 年 11 月以来一直在申请工作，但到目前为止并没有取得多大成功，只获得了 2 次面试，还有很多很多的 NO 和重影。 我在该领域有一点点 3 年的经验，并且我知道我能做什么，我知道如何搜索和学习我不能做的事情。 但是所有这些“不”在情感上严重损害了我，冒名顶替综合症正在悄然蔓延。我真的不知道我做错了什么，欢迎任何帮助。 我在 Linkedin/Portfolio/Github 上发布以供批评（不是自我推销）。 LinkedIn：https://www.linkedin.com/in/hswolf-dev/ 作品集： https://jose-israel.vercel.app/ Github：https://github.com/hs-wolf/   由   提交/u/unobraid  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afb6hc/having_a_hard_time_getting_a_new_job_please/</guid>
-      <pubDate>Wed, 31 Jan 2024 06:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对此有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afa7wc/what_are_your_opinions_of_this/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/z06ybf6wnpfc1.png?width=854&amp;format=png&amp;放大器;auto=webp&amp;s=9db52f972e343e8889f7b996f58af4f4c4f0abd4   由   提交 /u/Alicicek03   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afa7wc/what_are_your_opinions_of_this/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找经验丰富的用户体验设计师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afa0p2/sussing_out_an_experienced_ux_designer/</link>
-      <description><![CDATA[我浏览过 Behance，在那里看到了很多作品集，但大多数情况下，它们看起来很做作，而且很难判断它们是否有人在 UX 领域真正有能力。 那里有很多优秀的设计师可以完成 UI 设计工作，但当涉及到使其真正用户友好时，大多数人都很困难。 有哪些方法可以将麦子与谷壳分开，寻找那些了解用户流程并将其以集成方式烘焙到网络应用程序 UI 中的人？ 假设预算不是问题，哪里可以找到这么有经验的设计师？ P/S - 请不要联系我提供您的服务，我们会立即举报您。不过，您可以在评论中添加您的作品集。   由   提交 /u/ApocalypseAce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afa0p2/sussing_out_an_experienced_ux_designer/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 频道的 Rss 链接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af9uee/rss_link_for_a_youtube_channel/</link>
-      <description><![CDATA[嗨，我正处于一种奇怪的情况，我正在移动设备上编辑 WordPress 网站。我没有计算机访问权限，我需要尽快完成。我正在尝试创建一个基本上只是指向 youtube 频道的 RSS 链接的页面，但由于我无法检查该页面（这始终是我获取 RSS 的方式，因此我在获取 url 时遇到了很多麻烦。任何建议非常感谢。    提交者    /u/feral-pixi-starling   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af9uee/rss_link_for_a_youtube_channel/</guid>
-      <pubDate>Wed, 31 Jan 2024 05:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>PPResume 的新身份验证流程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af9ngm/the_new_auth_flow_for_ppresume/</link>
-      <description><![CDATA[ 由   提交/u/Formal_Tree2535  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af9ngm/the_new_auth_flow_for_ppresume/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind CSS+UI 还是 Ant Design 适合从头开始构建的企业 CMS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af9kdx/tailwind_cssui_or_ant_design_for_an_enterprise/</link>
-      <description><![CDATA[我的团队正在重建一个古老的 .NET 4 / Angular 7 应用程序。对于在 React 中从头开始构建的企业 CMS SPA 的 CSS/设计框架有什么想法吗？我目前倾向于 Tailwind CSS + UI 或 Ant Design。 我拥有强大的 Bootstrap 背景，但感觉我们的团队可能需要为这个新的大型应用程序提供更全面的框架。  p&gt; 注意事项：  维护良好 大型开发社区 白标许可 学习曲线/易于使用    由   提交/u/kirkbross   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af9kdx/tailwind_cssui_or_ant_design_for_an_enterprise/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何托管我的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af9i2i/how_to_host_my_site/</link>
-      <description><![CDATA[所以我的技术堆栈是 firebase，前端的 Vue 和后端是带有express的节点，现在对于前端我可以运行 firebase 部署并且它可以工作正如预期的那样并托管它，但对于我的服务器来说，我可以使用的服务很少，但都要求我输入信用卡，但我想如果我犯了一个错误并让自己负债累累怎么办？我还有哪些其他选项来托管此网站？  此外，在我拥有相同的堆栈之前，它是无服务器的，并且与 firebase api 集成。   由   提交 /u/Fad3l   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af9i2i/how_to_host_my_site/</guid>
-      <pubDate>Wed, 31 Jan 2024 04:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于脚本支持的 CSS 媒体查询</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af7jdu/css_media_query_for_scripting_support/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af7jdu/css_media_query_for_scripting_support/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AWS Simple Email Service 时验证身份</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af69dd/verifying_identities_while_using_aws_simple_email/</link>
-      <description><![CDATA[      嗨， 因此，我一直在尝试通过“来自域的自定义邮件”验证身份，以便从 [&lt; a href=&quot;mailto:info@insertmycustomdomainhere.com&quot;&gt;info@insertmycustomdomainhere.com](mailto:info@mycustomdomain.com)而不是 [info@gmail.com](mailto:info@gmail .com)。 AWS Simple Email Service 告诉我将这些值添加到我的域名提供商 (namecheap) 的 DNS 设置中 - 已编辑 - 但我似乎无法让它工作。网站部署在 Heroku 上。 ​ - 类型：MX - 名称：mailing.insertmycustomdomainhere.com - 值：10 反馈- smtp.us-east-2.amazonses.com ​ - 类型：TXT - 名称：mailing.insertmycustomdomainhere.com - 值：“v=spf1 include:amazonses.com ~all” &lt; p&gt;​ 我尝试使用“@”作为主机和“mailing.insertmycustomdomainhere.com”作为主持人。我每次尝试都等待 3 天：没有成功。 “主机”应该是什么？是？是@还是mailing@mydomain.com？ 再说一次，“主机”应该是什么？是？是@还是mailing.mydomain.com？ ​ 有人说要加一个“.”在值的末尾，这也不起作用。   由   提交 /u/blacklastsforever   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af69dd/verifying_identities_while_using_aws_simple_email/</guid>
-      <pubDate>Wed, 31 Jan 2024 02:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 MongoDB 中存储数据的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1af5nt8/best_way_to_store_data_in_mongodb/</link>
-      <description><![CDATA[大家好，我不确定这是否是问这个问题的最佳地点，我已经在 r/mongodb 也是如此。我对 MongoDB 和 Web 开发总体来说是新手，我需要一些帮助。我正在制作一款wordle类每日重置网页游戏，我需要存储一个月内每天的项目数量。每天有 4 个槽，每个槽都是一个包含 itemID-count 对的对象。目前我将数据存储在一个大对象中，如下所示： {day10:[{},{&#39;id10&#39;:0, &#39;id11&#39;:5}, {}, {}] -&gt; ;这里 day10 的值是一个包含 4 个槽的数组，每个槽保存 id-count 对。每个插槽平均应包含 10-100 对。 这些计数是全局的，而不是针对每个用户的。基本上，我使用计数来显示用户选择的稀有程度。而且我不存储任何其他数据。 仅请求我的后端向数据库提供给定的日期、时段、id、增加计数并返回更新的计数。我想知道将这样的数据存储在一个大的嵌套 json 对象中是否可以，或者我应该以某种方式分割它。我主要希望增量操作能够快速。当前设置似乎有效，但我不确定这是否有效。   由   提交 /u/blssupersoldier   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1af5nt8/best_way_to_store_data_in_mongodb/</guid>
-      <pubDate>Wed, 31 Jan 2024 01:35:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
