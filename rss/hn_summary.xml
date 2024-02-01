@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 20:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:49:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Snyk 安全研究员 Rory McNamara 发现了核心骗局中的四个漏洞 [...]</title>
-      <link>https://t.me/hn_summary/72041</link>
-      <description><![CDATA[“Leaky Vessels”Docker 容器突破漏洞
-Snyk 安全研究员 Rory McNamara 发现了核心容器基础设施组件中的四个漏洞，这些漏洞允许容器逃逸，称为“泄漏容器”。这些漏洞可能允许攻击者从容器内获得对底层主机操作系统的未经授权的访问，从而可能损害敏感数据并发起进一步的攻击。 Snyk 建议用户检查容器构建和运行时供应商的更新，并在修复发布后立即升级系统。 Snyk 还开发了两种用于检测漏洞尝试的开源工具：运行时检测工具和静态分析程序。根据 Snyk 的研究，这些漏洞尚未被积极利用。]]></description>
-      <guid>https://t.me/hn_summary/72041</guid>
-      <pubDate>Wed, 31 Jan 2024 20:57:33 GMT</pubDate>
+      <title>作者回顾了他们过去两年的经历，特别是在加密货币和 [...]</title>
+      <link>https://t.me/hn_summary/72090</link>
+      <description><![CDATA[我童年的结束
+作者回顾了他们过去两年的经历，特别是在加密货币和黑客社区的经历。他们讨论了年轻人如何在各种项目中担任主角，这让他们意识到自己作为“神童”的角色不再适用。作者还探讨了生命延伸的概念和生活中美丽事物的有限性。他们讨论了多年来他们的思维如何发生转变，从数学和经济学转向不同类型的论证。作者还分享了个人经历，包括他们参与乌克兰政府呼吁加密货币捐赠以及他们在加密领域履行个人责任的经历。最后，他们讨论了他们面临的挑战以及有意识地采取行动的必要性。 （根据 36% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72090</guid>
+      <pubDate>Thu, 01 Feb 2024 00:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 参议员罗恩·怀登 (Ron Wyden) 重新提出了旨在保护儿童免受上网侵害的立法 [...]</title>
-      <link>https://t.me/hn_summary/72040</link>
-      <description><![CDATA[Sen Wyden 重新引入立法，切实帮助孩子们更安全地上网
-参议员罗恩·怀登重新提出了旨在保护儿童免受网络剥削的立法。该法案名为《儿童安全投资法案》，将拨款超过 50 亿美元的资金来调查和打击在网上创建和分享儿童性虐待材料的掠夺者。它还将为基于社区的预防工作提供资金，并在司法部内设立一个新办公室来协调联邦机构之间的工作。该法案包括增加检察官和特工的数量、为培训计划提供资金以及要求科技公司更长时间地保留儿童性虐待材料的证据等措施。尽管该法案很重要，但与其他有争议的法案相比，它不太可能受到太多关注。]]></description>
-      <guid>https://t.me/hn_summary/72040</guid>
-      <pubDate>Wed, 31 Jan 2024 20:54:24 GMT</pubDate>
+      <title>[媒体]《黑天鹅》作者纳西姆·塔勒布称美国</title>
+      <link>https://t.me/hn_summary/72089</link>
+      <description><![CDATA[《黑天鹅》作者纳西姆·塔勒布表示，美国正处于“死亡螺旋&#39;
+《黑天鹅》一书的作者纳西姆·尼古拉斯·塔勒布警告说，美国由于国家债务问题而陷入“死亡螺旋”。他认为，国债是“白天鹅”，这种风险比不可预测的“黑天鹅”事件更有可能发生。塔勒布认为，只要国会继续延长债务上限而不是解决这个问题，债务螺旋式上升就会发生。美国国债目前为34.14万亿美元。摩根大通首席执行官杰米戴蒙等其他华尔街人士也表达了对债务水平的担忧。塔勒布还批评股市，称分析师忽视了如何正确评估公司价值，导致估值过高。]]></description>
+      <guid>https://t.me/hn_summary/72089</guid>
+      <pubDate>Thu, 01 Feb 2024 00:34:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]威斯敏斯特大学的一组老龄化研究人员发现，太多[...]</title>
-      <link>https://t.me/hn_summary/72039</link>
-      <description><![CDATA[西方饮食会加速细胞衰老
-威斯敏斯特大学的一组衰老研究人员发现，过多的胰岛素（对于调节血糖水平至关重要）实际上会加速细胞衰老。胰岛素向细胞发出能量充足的信号，从而阻止正确的 DNA 复制和细胞内的内务管理。这会导致程序性细胞死亡速度减慢和受损细胞的积累，从而导致慢性疾病和衰老迹象。研究人员建议通过生酮饮食、少食或禁食来降低胰岛素水平。他们还提到正在进行的临床试验，以确定酮类膳食补充剂是否可以减缓细胞衰老。研究人员认为，减缓细胞衰老可以使个体变得更健康，并有可能延长寿命。]]></description>
-      <guid>https://t.me/hn_summary/72039</guid>
-      <pubDate>Wed, 31 Jan 2024 20:48:16 GMT</pubDate>
+      <title>[媒体] Matrix.org 基金会发起了一项新的筹款活动，并呼吁他 [...]</title>
+      <link>https://t.me/hn_summary/72088</link>
+      <description><![CDATA[路线图并呼吁 Matrix.org 基金会提供帮助
+Matrix.org 基金会发起了一项新的筹款活动，并且很有吸引力寻求帮助以支持其工作。在过去的一年里，基金会取得了积极的增长，年收入增加，用户群不断扩大。然而，支出超过了收入，基金会现在正在支付自己的账单。为了继续开展工作并维持目前的规模，基金会预计到 2024 年需要将支出稳定在 90 万英镑以上。基金会呼吁更多组织成为会员并投资 Matrix 生态系统，以确保其可持续性。]]></description>
+      <guid>https://t.me/hn_summary/72088</guid>
+      <pubDate>Thu, 01 Feb 2024 00:20:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了 1981 年丢失的 TRS-80 的重新发现和重新制作 [...]</title>
-      <link>https://t.me/hn_summary/72038</link>
-      <description><![CDATA[北极冒险：失落的 1981 TRS-80 冒险游戏
-该网络内容讨论了 1981 年丢失的 TRS-80 冒险游戏《Arctic Adventure》的重新发现和重制。作者 Harry McCracken 在高中时编写了这款游戏，并被收录在一本 BASIC 冒险书中。然而，这款游戏从未被广泛玩过或保存下来。 McCracken 最近修复了该游戏，并使其可以在基于网络的 TRS-80 模拟器中运行。他还对游戏进行了一些更新和改进，包括添加狗同伴和删除过时的参考资料。作者回顾了他编写游戏的经历以及他成为一名游戏开发者的愿望。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72038</guid>
-      <pubDate>Wed, 31 Jan 2024 20:41:03 GMT</pubDate>
+      <title>[媒体]右翼活动家克里斯托弗·鲁福 (Christopher Rufo) 与自封的“社会生物学 [...]</title>
+      <link>https://t.me/hn_summary/72087</link>
+      <description><![CDATA[领导罢免哈佛大学校长的活动人士与“科学种族主义”期刊有关
+右翼活动家克里斯托弗·鲁福（Christopher Rufo）与一本自称为“社会生物学杂志”的名为《Aporia》的杂志有联系，该杂志关注种族、智力和犯罪之间的关系。专家将阿波里亚描述为科学种族主义的发泄口。鲁福以反对“觉醒主义”而闻名，他将自己的目标描述为“色盲平等”，但他与阿波里亚的关系引发了人们对他与极端分子关系密切的质疑。 Aporia 的编辑，包括 Bo Winegard 和 Noah Carl，一直卷入与科学种族主义和优生学相关的争议。该出版物因宣扬种族主义宣传和伪科学而受到批评。批评者认为鲁福对阿波里亚的支持有助于将这些有害思想纳入主流。]]></description>
+      <guid>https://t.me/hn_summary/72087</guid>
+      <pubDate>Thu, 01 Feb 2024 00:18:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项新的研究表明，即使是适量饮酒，定义为每天喝一杯 [...]</title>
-      <link>https://t.me/hn_summary/72037</link>
-      <description><![CDATA[每天一杯葡萄酒或啤酒可能会导致大脑萎缩（2022 )
-一项新的研究表明，即使是适量饮酒（女性每天喝一杯，男性每天最多喝两杯）也会导致脑容量减少。该研究分析了超过 36,000 名英国中年人的 MRI 扫描结果，发现饮酒越多，脑容量下降越明显。例如，对于 50 岁的人来说，将酒精摄入量从每天半瓶啤酒或半杯葡萄酒增加到一品脱或一杯葡萄酒，其大脑萎缩程度相当于衰老两年。研究结果与现行的安全饮酒限制指南相矛盾，并表明即使饮酒量小幅增加也会对大脑产生负面影响。然而，该研究存在局限性，例如仅考虑扫描前一年的饮酒量，而不考虑终生饮酒量。需要进行更大规模的前瞻性研究来进一步研究酒精与脑容量之间的关系。]]></description>
-      <guid>https://t.me/hn_summary/72037</guid>
-      <pubDate>Wed, 31 Jan 2024 20:36:55 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了作者 Marcin Wichary 如何为一本 abo 众筹 75 万美元 [...]</title>
+      <link>https://t.me/hn_summary/72086</link>
+      <description><![CDATA[我们如何众筹 75 万美元购买一本关于键盘历史的巨著
+本文讨论了作者 Marcin Wichary 如何为一本有关键盘历史的书众筹 75 万美元。故事始于马尔辛在西班牙偶然发现的一套打字机，这激发了他写一本关于键盘的书的兴趣。然而，他的初稿太长，因此他转向众筹来实现他的愿景。文章强调了 Marcin 面临的挑战，例如语言障碍和缺乏图书出版经验。它还提到了他用来建立人群的策略，包括创办新闻通讯、创建网站以及与键盘社区互动。文章作者在帮助 Marcin 进行后勤和预算方面发挥了作用。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72086</guid>
+      <pubDate>Thu, 01 Feb 2024 00:18:51 GMT</pubDate>
     </item>
     <item>
-      <title>在面试中使用 ChatGPT 作弊有多难？</title>
-      <link>https://t.me/hn_summary/72036</link>
-      <description><![CDATA[在面试中使用 ChatGPT 作弊有多难？
-网络内容讨论了使用 ChatGPT 在技术面试中作弊的可能性。本文介绍了 interviewing.io 进行的一项实验，该平台是工程师的面试练习和招聘。该实验涉及采访者向被指示使用 ChatGPT 作弊的受访者提出不同类型的问题。结果显示，使用 ChatGPT 回答“逐字”和“修改”问题的受访者比回答“自定义”问题的受访者通过率更高。令人惊讶的是，没有一个面试官怀疑有作弊行为，而且他们对自己的招聘决定信心十足。文章建议公司需要改变他们在面试中提出的问题类型。 （根据 55% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72036</guid>
-      <pubDate>Wed, 31 Jan 2024 20:31:46 GMT</pubDate>
+      <title>[媒体] 网站 www.stopkosa.com 反对《儿童在线安全法案》(KOSA)，指出 [...]</title>
+      <link>https://t.me/hn_summary/72085</link>
+      <description><![CDATA[停止 KOSA（儿童在线安全法案）
+网站 www.stopkosa.com 反对儿童在线《安全法案》（KOSA）指出，由于两个主要原因，这是一项糟糕的法案。首先，KOSA 将向平台施压，要求其安装过滤器，审查被认为不适合未成年人的内容，从而可能限制有关自杀预防和 LGBTQ+ 支持团体的重要信息。还有人认为 KOSA 将允许反权利团体关闭涉及种族、性别和性等话题的网站。其次，KOSA 将通过年龄验证和家长监控工具加强在线监控，这对于试图逃避家庭暴力和虐待的年轻人来说被视为侵入性的和安全风险。许多 LGBTQ+ 和民权组织反对 KOSA，认为该法案的更新无法解决其主要问题。该网站鼓励访问者联系其立法者以拒绝 KOSA。]]></description>
+      <guid>https://t.me/hn_summary/72085</guid>
+      <pubDate>Thu, 01 Feb 2024 00:14:45 GMT</pubDate>
     </item>
     <item>
-      <title>博客文章的作者解释了为什么他们决定将博客从 IPFS (InterPlane [...]</title>
-      <link>https://t.me/hn_summary/72035</link>
-      <description><![CDATA[我将博客从 IPFS 移至服务器&lt; br/&gt;
-博客文章的作者解释了为什么他们决定将博客从 IPFS（星际文件系统）迁移到服务器。他们最初认为 IPFS 将为他们的网站提供一个更强大、抗审查和可扩展的平台。然而，他们发现大多数 IPFS 用户并不运行自己的节点或软件，即使运行的用户也可能不会固定网站的内容。此外，更新动态内容以及使 IPFS 内容在浏览器中可靠可用也存在复杂性。作者还提到了名为 cid.contact 的“内容路由”服务，但对其集中化表示担忧。最终，作者将他们的博客移至服务器，以获得更简单、更可靠的解决方案。他们仍然支持IPFS，但感觉它还不适合个人博客。]]></description>
-      <guid>https://t.me/hn_summary/72035</guid>
-      <pubDate>Wed, 31 Jan 2024 20:23:37 GMT</pubDate>
+      <title>[媒体]美国的海上风电雄心正受到百年法律知识的阻碍 [...]</title>
+      <link>https://t.me/hn_summary/72084</link>
+      <description><![CDATA[美国保护主义如何阻碍海上风电发展
+美国海上风电的雄心受到一项名为《琼斯法案》的百年法律的阻碍，该法案要求使用美国船只在该国境内运输货物。这给海上风电行业带来了问题，因为美国缺乏世界其他地区常用的必要风力涡轮机安装船（WTIV）。因此，海上风电项目被迫依赖昂贵且低效的解决方法，例如使用驳船代替 WTIV。由于美国造船厂享有垄断地位，《琼斯法案》还导致合规船舶的价格上涨。如果不解决《琼斯法案》的限制，拜登政府到 2030 年部署 30 吉瓦海上风电的目标可能难以实现。]]></description>
+      <guid>https://t.me/hn_summary/72084</guid>
+      <pubDate>Thu, 01 Feb 2024 00:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本政府最终希望放弃对软盘的依赖，软盘 [...]</title>
-      <link>https://t.me/hn_summary/72034</link>
-      <description><![CDATA[日本放弃了 1.44MB 软盘，50 年后特价中
-日本政府最终希望放弃对软盘的依赖，软盘直到最近才用于官方政府申请程序。经济产业省 (METI) 发布了一项法令，更新规定使用过时介质（例如软盘和 CD-ROM）的规则。该举措是数字机构牵头的对各部委模拟法规进行更广泛审查的一部分。现行法律不仅强制要求使用过时的记录介质，而且对基于云的操作的使用也存在模糊性。政府的目标是通过用更现代的术语取代特定的媒体类型来实现法规的现代化。然而，随着传真机的持续广泛使用，日本在减少对过时技术的依赖方面仍面临挑战。]]></description>
-      <guid>https://t.me/hn_summary/72034</guid>
-      <pubDate>Wed, 31 Jan 2024 20:14:26 GMT</pubDate>
+      <title>[媒体] CitraVR 是一款用于 Oculus Quest 耳机的 3DS 模拟器，最近已上传到 SideQuest [...]</title>
+      <link>https://t.me/hn_summary/72083</link>
+      <description><![CDATA[CitraVR 比 Meta Quest 3 上的 3DS 模拟更重要
+CitraVR 是一款用于 Oculus Quest 耳机的 3DS 模拟器，最近已上传到 SideQuest，并因其令人印象深刻的性能而受到关注。 Citra的VR版本可以让用户体验3DS游戏的立体3D效果，与非VR版本不同。 CitraVR 的与众不同之处在于它独立于 Meta SDK，这意味着开发人员可以为该平台创建应用程序，而无需同意 Meta 的 SDK 许可条款。这种新发现的自由可能会为以前无法​​或不想遵守 Meta 条款的开发人员带来创新的 VR 体验。然而，缺乏 Meta 的监督可能会让不良行为者更容易为 Quest 硬件创建恶意软件。要安装 CitraVR，用户需要在 Quest 耳机上启用开发者模式并使用 SideQuest 下载并安装应用程序。]]></description>
+      <guid>https://t.me/hn_summary/72083</guid>
+      <pubDate>Thu, 01 Feb 2024 00:10:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容的作者讨论了“信息狂热”或过度[...]</title>
-      <link>https://t.me/hn_summary/72033</link>
-      <description><![CDATA[对抗信息狂热：为什么 80% 的阅读都是浪费时间
-该网页内容的作者讨论了“信息狂”的问题，即过度消费无用或不相关的信息。作者分享了自己阅读大量有关创业和营销的书籍和文章的个人经历，却发现其中80%都是浪费时间。他们认为，类似于丰田的制造流程，即时学习比以防万一学习更有效。作者建议读者只消费能够回答特定问题、涵盖哲学知识或娱乐性的信息。他们建议取消关注行业博客并避免阅读不符合这些标准的流行非小说类书籍。]]></description>
-      <guid>https://t.me/hn_summary/72033</guid>
-      <pubDate>Wed, 31 Jan 2024 20:14:20 GMT</pubDate>
+      <title>皮划艇对比</title>
+      <link>https://t.me/hn_summary/72082</link>
+      <description><![CDATA[皮划艇与独木舟（2010）
+网络内容讨论了互联网如何改变人们的思维方式。它强调了从收集所有可用信息到丢弃不必要的信息并关注隐藏在其中的知识的形状的转变。内容还提到互联网如何增强足智多谋和批判性思维，使查找信息和做出更好的决策变得更容易。然而，它也承认当无法在线获取信息时会感到沮丧。内容进一步探讨了互联网对生活各个方面的影响，例如沟通、社区和专业知识的概念。最后讨论了互联网的潜在未来及其在科学研究和传播中的作用。 （根据 26% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72082</guid>
+      <pubDate>Thu, 01 Feb 2024 00:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>网络内容是对增量阅读的介绍，这是一种学习技术，使我们能够[...]</title>
-      <link>https://t.me/hn_summary/72032</link>
-      <description><![CDATA[增量阅读（2023）
-网页内容是对增量阅读的介绍，这是一种允许用户同时阅读并记住数千篇文章的学习技术。内容解释说，传统的线性阅读效率低下，因为并非文本的所有部分都同等重要。另一方面，增量阅读允许用户从电子资源导入文章，提取重要片段，将其转换为问题和答案，并使用 SuperMemo 方法（一种间隔重复算法）进行复习。该内容还提供了有关如何导入文章、阅读文章和提取重要信息的说明。作者强调，渐进阅读一开始可能看起来很复杂，但它可以极大地增强学习过程。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72032</guid>
-      <pubDate>Wed, 31 Jan 2024 20:13:13 GMT</pubDate>
+      <title>这篇博文的作者讨论了面向对象编程 (OOP) 并解决了一些问题 [...]</title>
+      <link>https://t.me/hn_summary/72081</link>
+      <description><![CDATA[人们不懂 OOP
+这篇博文的作者讨论了面向对象编程 (OOP) 并解决了一些关于它的常见误解。他们将对象定义为共享状态的操作集合，并解释对象可以是任何具有状态的东西。作者还提到，类对于 OOP 来说并不是严格必需的，JavaScript 和 Lua 等语言反而使用基于原型的 OOP。他们讨论了使用继承来实现代码重用和抽象，以及多态性的子类型概念。作者还探索了 OOP 中接口和封装的不同方法。总的来说，这篇文章对 OOP 概念提供了清晰且内容丰富的解释。 （根据 55% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72081</guid>
+      <pubDate>Thu, 01 Feb 2024 00:04:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
