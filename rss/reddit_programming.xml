@@ -4,13 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 01 Feb 2024 15:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 18:13:41 GMT</lastBuildDate>
     <item>
-      <title>✓ 梅赛德斯源代码通过 GitHub 令牌泄露而暴露 (02/01/2024)</title>
-      <link>https://www.reddit.com/r/programming/comments/1agbzcv/mercedes_source_code_exposed_via_github_token/</link>
-      <description><![CDATA[ 由   提交/u/Equal-Strike-2540   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1agbzcv/mercedes_source_code_exposed_via_github_token/</guid>
-      <pubDate>Thu, 01 Feb 2024 14:16:15 GMT</pubDate>
+      <title>用于获取 BigQuery 成本的五个有用查询</title>
+      <link>https://www.reddit.com/r/programming/comments/1agh16z/five_useful_queries_to_get_bigquery_costs/</link>
+      <description><![CDATA[ 由   提交/u/saipeerdb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agh16z/five_useful_queries_to_get_bigquery_costs/</guid>
+      <pubDate>Thu, 01 Feb 2024 17:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interop 2024 让网络变得更好</title>
+      <link>https://www.reddit.com/r/programming/comments/1agghzf/the_web_just_gets_better_with_interop_2024/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agghzf/the_web_just_gets_better_with_interop_2024/</guid>
+      <pubDate>Thu, 01 Feb 2024 17:31:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布推出 Interop 2024</title>
+      <link>https://www.reddit.com/r/programming/comments/1agg4bu/announcing_interop_2024/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agg4bu/announcing_interop_2024/</guid>
+      <pubDate>Thu, 01 Feb 2024 17:15:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的社区优化了 Kitex，通过受控的 Golang 垃圾收集、JIT 和并发调整来解决微服务架构挑战。我们正在寻求构建真正的超快速微服务</title>
+      <link>https://www.reddit.com/r/programming/comments/1agg2g2/our_community_optimized_kitex_to_address/</link>
+      <description><![CDATA[ 由   提交/u/y2so  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agg2g2/our_community_optimized_kitex_to_address/</guid>
+      <pubDate>Thu, 01 Feb 2024 17:13:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio 代码 2024 年 1 月</title>
+      <link>https://www.reddit.com/r/programming/comments/1agfdzz/visual_studio_code_january_2024/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agfdzz/visual_studio_code_january_2024/</guid>
+      <pubDate>Thu, 01 Feb 2024 16:45:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>De4py：Python逆向工程工具包</title>
+      <link>https://www.reddit.com/r/programming/comments/1agenu4/de4py_a_toolkit_for_python_reverse_engineering/</link>
+      <description><![CDATA[ 由   提交/u/AhmedMinegames  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1agenu4/de4py_a_toolkit_for_python_reverse_engineering/</guid>
+      <pubDate>Thu, 01 Feb 2024 16:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>隆重推出 mlinfra — 一种轻松部署 ML 基础设施的方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1age645/introducing_mlinfra_a_hassle_free_way_to_deploy/</link>
+      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1age645/introducing_mlinfra_a_hassle_free_way_to_deploy/</guid>
+      <pubDate>Thu, 01 Feb 2024 15:54:21 GMT</pubDate>
     </item>
     <item>
       <title>您是否以聪明的方式建立索引？</title>
@@ -48,25 +90,11 @@
       <pubDate>Thu, 01 Feb 2024 12:40:35 GMT</pubDate>
     </item>
     <item>
-      <title>您想在终端上看电影吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag9lp3/do_you_want_to_watch_a_movie_in_your_terminal/</link>
-      <description><![CDATA[ 由   提交/u/Appressive_Bit7392   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag9lp3/do_you_want_to_watch_a_movie_in_your_terminal/</guid>
-      <pubDate>Thu, 01 Feb 2024 12:13:44 GMT</pubDate>
-    </item>
-    <item>
       <title>建筑人工智能：它有用吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1ag956p/ai_for_architecture_does_it_even_work/</link>
       <description><![CDATA[ 由   提交/u/rahul_ramteke  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ag956p/ai_for_architecture_does_it_even_work/</guid>
       <pubDate>Thu, 01 Feb 2024 11:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>StoreChatGPT - 2024 年产品信息、最新更新和评论 |产品搜索</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag8ko0/storechatgpt_product_information_latest_updates/</link>
-      <description><![CDATA[ 由   提交 /u/remoteyep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag8ko0/storechatgpt_product_information_latest_updates/</guid>
-      <pubDate>Thu, 01 Feb 2024 11:09:52 GMT</pubDate>
     </item>
     <item>
       <title>KCL 双周通讯 | v0.7.5 发布并与 GitOps 集成 Flux</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/grzybo93  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ag7zh8/introduction_to_transparent_hugepage_thp/</guid>
       <pubDate>Thu, 01 Feb 2024 10:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 代码 2024 年 1 月</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag7v1r/visual_studio_code_january_2024/</link>
-      <description><![CDATA[ 由   提交/u/dwaxe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag7v1r/visual_studio_code_january_2024/</guid>
-      <pubDate>Thu, 01 Feb 2024 10:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>CheerpJ 3.0：用于在浏览器中运行实际应用程序的 WebAssembly JVM</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag7goi/cheerpj_30_a_webassembly_jvm_to_run_realworld/</link>
-      <description><![CDATA[ 由   提交/u/alexp_lt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag7goi/cheerpj_30_a_webassembly_jvm_to_run_realworld/</guid>
-      <pubDate>Thu, 01 Feb 2024 09:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>这位 15 岁的建筑商正在平衡学校和 2 家 SaaS 企业。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag74br/this_15yearold_builder_is_balancing_school_and_2/</link>
-      <description><![CDATA[ 由   提交 /u/cryptonaresh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag74br/this_15yearold_builder_is_balancing_school_and_2/</guid>
-      <pubDate>Thu, 01 Feb 2024 09:27:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉效果图（Unity）学习（第1部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ag6pm9/visual_effect_graph_unity_learning_part_1/</guid>
-      <pubDate>Thu, 01 Feb 2024 08:57:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
