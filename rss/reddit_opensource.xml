@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 01 Feb 2024 18:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 21:10:50 GMT</lastBuildDate>
+    <item>
+      <title>公司从人工智能模型开源中获得什么好处？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1agitzo/what_benefit_companies_gain_from_making_ai_models/</link>
+      <description><![CDATA[就像meta或Mistral花费数千万美元来构建和训练模型，然后将其开源一样。 &lt; !-- SC_ON --&gt;  由   提交/u/blind_programer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1agitzo/what_benefit_companies_gain_from_making_ai_models/</guid>
+      <pubDate>Thu, 01 Feb 2024 19:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是开源？？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aghood/what_is_opensource/</link>
+      <description><![CDATA[我最近开始学习 CS 和编程，经常听到“开源”这个词。每个人都说我应该为开源项目做出贡献。什么是开源？我是否必须成为专家程序员或开发人员才能为开源项目做出贡献？具有基本编程技能的人也可以这样做吗？   由   提交/u/hamad_ali_bd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aghood/what_is_opensource/</guid>
+      <pubDate>Thu, 01 Feb 2024 18:21:21 GMT</pubDate>
+    </item>
     <item>
       <title>发布：2024 年开源状况报告</title>
       <link>https://www.reddit.com/r/opensource/comments/1agg086/announcing_the_2024_state_of_open_source_report/</link>
@@ -29,14 +43,14 @@
     <item>
       <title>更新：OneUptime - 自托管 StatusPage.io + Incident.io + Loggly 替代方案。</title>
       <link>https://www.reddit.com/r/opensource/comments/1agb7y4/update_oneuptime_self_hosted_statuspageio/</link>
-      <description><![CDATA[OneUptime () 是开源替代方案到 StausPage.io + UptimeRobot + PagerDuty。它是 100% 免费的，您可以在虚拟机/服务器上自行托管它。 新更新：以下是自我上次在此 Reddit 子版块上发布以来的一些更新。  日志管理上线！您现在可以使用 OpenTelemetry 在 OneUptime 中存储日志。我们还将很快添加 Fluentd 支持，以便您可以从任何地方提取日志。 我们现在正在开发跟踪和指标，更多 APM 功能即将推出。&lt; /li&gt; 在听取了该社区的反馈后，我们正在将所有 20 个不同的 oneuptime 容器合并为一个容器，以便人们更容易自行托管并占用更少的资源。这已经进行到一半，应该会在 2 月底完成。 Docker Compose 文件位于存储库中，现在位于 ArtifactHub 上：，您可以在 K8s 集群上尝试一下。期待听到大家的想法！ 我们听到你的声音了！请告诉我们您需要什么功能，我们将为您构建。    由   提交/u/OuPeaNut   [链接] [评论]]]></description>
+      <description><![CDATA[OneUptime () 是开源替代方案到 StausPage.io + UptimeRobot + PagerDuty。它是 100% 免费的，您可以在虚拟机/服务器上自行托管它。 新更新：以下是自我上次在此 Reddit 子版块上发布以来的一些更新。  日志管理上线！您现在可以使用 OpenTelemetry 在 OneUptime 中存储日志。我们还将很快添加 Fluentd 支持，以便您可以从任何地方提取日志。 我们现在正在开发跟踪和指标，更多 APM 功能即将推出。&lt; /li&gt; 在听取了该社区的反馈后，我们正在将所有 20 个不同的 oneuptime 容器合并为一个容器，以便人们更容易自行托管并占用更少的资源。这已经进行到一半了，应该会在 2 月底完成。 Docker Compose 文件位于存储库中，现在位于 ArtifactHub 上：，您可以在 K8s 集群上尝试一下。期待听到大家的想法！ 我们听到你的声音了！请告诉我们您需要什么功能，我们将为您构建。    由   提交/u/OuPeaNut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agb7y4/update_oneuptime_self_hosted_statuspageio/</guid>
       <pubDate>Thu, 01 Feb 2024 13:39:53 GMT</pubDate>
     </item>
     <item>
       <title>类似 Bitwarden 的应用程序，但用于书签？</title>
       <link>https://www.reddit.com/r/opensource/comments/1agaap5/an_app_like_bitwarden_but_for_bookmarks/</link>
-      <description><![CDATA[我意识到同步（无论是在 Chrome 还是 Brave 上）都是一坨屎，而且它很少能按照我想要的方式工作。 是否有像 Bitwarden 这样的应用程序可以让您在设备之间同步书签（我的意思是在同一个浏览器上）？   由   提交/u/clara59000  [链接] [评论]]]></description>
+      <description><![CDATA[我意识到同步（无论是在 Chrome 还是 Brave 上）都是一坨屎，而且它很少能按照我想要的方式工作。 是否有像 Bitwarden 这样的应用程序可以让您在设备之间同步书签（我的意思是在同一个浏览器上）？   由   提交/u/clara59000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agaap5/an_app_like_bitwarden_but_for_bookmarks/</guid>
       <pubDate>Thu, 01 Feb 2024 12:52:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好 我在我的 Windows 电脑上使用了电话链接，它适用于 2 件事，我可以在电脑上看到短信，并且可以看到图片并快速复制粘贴到电子邮件或 Chrome 上  问题是在图片库上滚动不起作用  它需要 Microsoft 帐户才能工作，如果您的设备断开连接，很难重新连接 或不可能使用多个设备   由   提交 /u/Stroov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1af9kqh/recommend_me_a_open_source_alternative_for_the/</guid>
       <pubDate>Wed, 31 Jan 2024 04:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>被从 geoserver 转换为 Google Earth 中 ASCII 的要素名称所困扰</title>
-      <link>https://www.reddit.com/r/opensource/comments/1af7xag/stuck_with_names_of_features_being_converted_to/</link>
-      <description><![CDATA[我正在使用 qgis 和 geoserver 为一些同事更新 Google Earth 中的 wms，但由于 geoserver 将它们转换，我不得不牺牲功能名称转换为 ASCII 格式。我不知道该怎么办。 例如： 该层可以称为井，具有名称和类型属性。一旦我引用了来自地理服务器的数据，它就会将名称更改为 well.1、well.2 等等。我注意到 Google 地球中弹出标签的 h3 元素也引用了该标签。而不是使用 name 属性。  我认为这是由于名称属性中的层或名称不是 ASCII，但事实并非如此。我是开源应用程序和 SLD 语言的新手。我在网上搜索过，但运气不佳。大家有什么建议吗？   由   提交/u/Big_Librarian_1130   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1af7xag/stuck_with_names_of_features_being_converted_to/</guid>
-      <pubDate>Wed, 31 Jan 2024 03:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 软件开发人员：您是否曾因为开源项目做出贡献而获得 FTE 职位？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1af4itn/software_developers_of_reddit_have_you_ever/</link>
-      <description><![CDATA[俗话说，“重要的不是你知道什么，而是你认识谁”。似乎有些过时了。在当今的职业环境中，更合适的说法是“这既是你所知道的，也是你所认识的人。”在我的职业生涯中，包括 Linux 管理、Web 开发和软件工程方面的角色，我将我的软件开发技能归类为处于职业生涯早期到中期阶段。我善于承担各种角色并与不同领域的专业人士合作。尽管近年来我积极申请和面试职位，但我尚未收到任何工作机会。我经常会遇到极具挑战性的 Leetcode 问题，或者被问及 Linux 管理的一些晦涩难懂的方面，例如 Kerberos 配置——实际上，我自己和许多同行已经很长时间没有接触过这些领域了。 ，我正在考虑改变策略。我不想继续不加区别地申请，而是考虑在志愿者的基础上为开源项目做出贡献。我希望通过以实用、可见的方式展示我的技能，我可能会引起其他开发人员的注意，他们会看到邀请我以付费身份加入他们的团队的价值。您对此有何想法方法？这里有人通过为开源项目做出贡献而成功找到工作吗？   由   提交/u/k0mi55ar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1af4itn/software_developers_of_reddit_have_you_ever/</guid>
-      <pubDate>Wed, 31 Jan 2024 00:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
