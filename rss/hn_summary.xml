@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 01 Feb 2024 00:49:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 03:02:36 GMT</lastBuildDate>
     <item>
-      <title>作者回顾了他们过去两年的经历，特别是在加密货币和 [...]</title>
-      <link>https://t.me/hn_summary/72090</link>
-      <description><![CDATA[我童年的结束
-作者回顾了他们过去两年的经历，特别是在加密货币和黑客社区的经历。他们讨论了年轻人如何在各种项目中担任主角，这让他们意识到自己作为“神童”的角色不再适用。作者还探讨了生命延伸的概念和生活中美丽事物的有限性。他们讨论了多年来他们的思维如何发生转变，从数学和经济学转向不同类型的论证。作者还分享了个人经历，包括他们参与乌克兰政府呼吁加密货币捐赠以及他们在加密领域履行个人责任的经历。最后，他们讨论了他们面临的挑战以及有意识地采取行动的必要性。 （根据 36% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72090</guid>
-      <pubDate>Thu, 01 Feb 2024 00:49:29 GMT</pubDate>
+      <title>[媒体]论文讨论了分支覆盖率在测试软件中的重要性以及挑战 [...]</title>
+      <link>https://t.me/hn_summary/72102</link>
+      <description><![CDATA[轻松实现任意语言的代码覆盖率 [pdf](https:/ /news.ycombinator.com/item?id=39203633)
+本文讨论了分支覆盖率在测试软件中的重要性以及获得不太广泛使用或解释性语言的分支覆盖率的挑战。它引入了使用源到源转换系统在软件系统中轻松安装测试探针的概念，允许为各种执行环境中的各种软件创建分支覆盖测试工具。该论文强调了可用于此目的的工业强度转换系统的存在，例如 REFINE、XT 和 DMS。这些系统具有高度可配置性，可用于定义感兴趣的语言语法。本文提供了用于在 C 语言中实现测试覆盖率的源到源转换的示例。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72102</guid>
+      <pubDate>Thu, 01 Feb 2024 03:02:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《黑天鹅》作者纳西姆·塔勒布称美国</title>
-      <link>https://t.me/hn_summary/72089</link>
-      <description><![CDATA[《黑天鹅》作者纳西姆·塔勒布表示，美国正处于“死亡螺旋&#39;
-《黑天鹅》一书的作者纳西姆·尼古拉斯·塔勒布警告说，美国由于国家债务问题而陷入“死亡螺旋”。他认为，国债是“白天鹅”，这种风险比不可预测的“黑天鹅”事件更有可能发生。塔勒布认为，只要国会继续延长债务上限而不是解决这个问题，债务螺旋式上升就会发生。美国国债目前为34.14万亿美元。摩根大通首席执行官杰米戴蒙等其他华尔街人士也表达了对债务水平的担忧。塔勒布还批评股市，称分析师忽视了如何正确评估公司价值，导致估值过高。]]></description>
-      <guid>https://t.me/hn_summary/72089</guid>
-      <pubDate>Thu, 01 Feb 2024 00:34:15 GMT</pubDate>
+      <title>[媒体]Hulu加入迪士尼+和Netflix的行列，打击密码共享。</title>
+      <link>https://t.me/hn_summary/72101</link>
+      <description><![CDATA[Hulu 正在打击密码共享，就像 Disney Plus 和 Netflix 一样
+Hulu 正在加入 Disney+ 和 Netflix 的行列，打击密码共享。根据更新的帐户共享政策，订阅者不得在家庭之外共享其订阅。术语“家庭”是指与主要个人住所相关并由居住在那里的个人使用的设备。 Hulu 保留分析帐户使用情况的权利，并在确定存在违反政策的情况时采取行动。订阅者对其家庭使用的任何帐户负责。]]></description>
+      <guid>https://t.me/hn_summary/72101</guid>
+      <pubDate>Thu, 01 Feb 2024 02:26:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Matrix.org 基金会发起了一项新的筹款活动，并呼吁他 [...]</title>
-      <link>https://t.me/hn_summary/72088</link>
-      <description><![CDATA[路线图并呼吁 Matrix.org 基金会提供帮助
-Matrix.org 基金会发起了一项新的筹款活动，并且很有吸引力寻求帮助以支持其工作。在过去的一年里，基金会取得了积极的增长，年收入增加，用户群不断扩大。然而，支出超过了收入，基金会现在正在支付自己的账单。为了继续开展工作并维持目前的规模，基金会预计到 2024 年需要将支出稳定在 90 万英镑以上。基金会呼吁更多组织成为会员并投资 Matrix 生态系统，以确保其可持续性。]]></description>
-      <guid>https://t.me/hn_summary/72088</guid>
-      <pubDate>Thu, 01 Feb 2024 00:20:04 GMT</pubDate>
+      <title>[媒体] Starlab Space 是 Voyager Space 与 Airbus Space and Defence 的合资企业，[...]</title>
+      <link>https://t.me/hn_summary/72100</link>
+      <description><![CDATA[Starlab 商业空间站将在 Starship 上发射
+Starlab Space 是 Voyager Space 与 Airbus Space and Defence 的合资企业，已选择 SpaceX 的 Starship 来发射 Starlab 商业空间站。 Starlab Space 和 SpaceX 之间的协议没有透露条款或发射日期，但 Starlab Space 有信心在 2030 年国际空间站退役之前发射该空间站。Starlab Space 设计为单次飞行发射，特点是一个大型居住和实验室模块，以及一个较小的用于动力和推进的服务模块。 Starlab 的规模需要使用 Starship，因为它比目前正在使用或开发的其他飞行器更大。 Starlab 的不锈钢结构将在造船厂制造，并在发射前在地面集成，从而减少制造时间和发射成本。然而，与 SpaceX 合作意味着与潜在的竞争对手打交道，因为 SpaceX 获得了一项无资金资助的 NASA 太空法案协议，以研究将 Starship 用作商业空间站。]]></description>
+      <guid>https://t.me/hn_summary/72100</guid>
+      <pubDate>Thu, 01 Feb 2024 02:25:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]右翼活动家克里斯托弗·鲁福 (Christopher Rufo) 与自封的“社会生物学 [...]</title>
-      <link>https://t.me/hn_summary/72087</link>
-      <description><![CDATA[领导罢免哈佛大学校长的活动人士与“科学种族主义”期刊有关
-右翼活动家克里斯托弗·鲁福（Christopher Rufo）与一本自称为“社会生物学杂志”的名为《Aporia》的杂志有联系，该杂志关注种族、智力和犯罪之间的关系。专家将阿波里亚描述为科学种族主义的发泄口。鲁福以反对“觉醒主义”而闻名，他将自己的目标描述为“色盲平等”，但他与阿波里亚的关系引发了人们对他与极端分子关系密切的质疑。 Aporia 的编辑，包括 Bo Winegard 和 Noah Carl，一直卷入与科学种族主义和优生学相关的争议。该出版物因宣扬种族主义宣传和伪科学而受到批评。批评者认为鲁福对阿波里亚的支持有助于将这些有害思想纳入主流。]]></description>
-      <guid>https://t.me/hn_summary/72087</guid>
-      <pubDate>Thu, 01 Feb 2024 00:18:59 GMT</pubDate>
+      <title>本文讨论了两种称为 Foot-In-The-Door (FITD) 和 Doo [...]</title>
+      <link>https://t.me/hn_summary/72099</link>
+      <description><![CDATA[请求策略（2011）
+本文讨论了两种顺序请求策略，称为“Foot-In-The-Door (FITD)”和“Door In-The-Face (DITF)”，用于提高合规性。 FITD 技术涉及基于一致性原则，首先要求一些小的东西，然后要求一些更大的东西。文章引用了一项研究，其中受试者被问及他们使用过的肥皂，后来又问一个团队是否可以检查他们的衣柜，22% 的人同意。 DITF 技术涉及根据互惠原则提出一个可能会被拒绝的大型请求，然后提出一个较小的请求。文章提供了一个青少年要求更改宵禁的例子。文章还提到，FITD 技术将合规性提高了 13%，但如果初始请求太小或第二个请求太大或来得太快，它可能不起作用。 DITF 技术的作用是让人们因拒绝第一个请求而感到内疚，然后给他们机会通过同意第二个请求来减轻内疚。本文最后提到，当请求具有社会有效元素并且在第一个请求后不久提出时，DITF 技术效果最佳。]]></description>
+      <guid>https://t.me/hn_summary/72099</guid>
+      <pubDate>Thu, 01 Feb 2024 02:21:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了作者 Marcin Wichary 如何为一本 abo 众筹 75 万美元 [...]</title>
-      <link>https://t.me/hn_summary/72086</link>
-      <description><![CDATA[我们如何众筹 75 万美元购买一本关于键盘历史的巨著
-本文讨论了作者 Marcin Wichary 如何为一本有关键盘历史的书众筹 75 万美元。故事始于马尔辛在西班牙偶然发现的一套打字机，这激发了他写一本关于键盘的书的兴趣。然而，他的初稿太长，因此他转向众筹来实现他的愿景。文章强调了 Marcin 面临的挑战，例如语言障碍和缺乏图书出版经验。它还提到了他用来建立人群的策略，包括创办新闻通讯、创建网站以及与键盘社区互动。文章作者在帮助 Marcin 进行后勤和预算方面发挥了作用。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72086</guid>
-      <pubDate>Thu, 01 Feb 2024 00:18:51 GMT</pubDate>
+      <title>[媒体]谷歌在遣散费和其他费用上花费了 21 亿美元，因为它解雇了超过 12,000 名员工 [...]</title>
+      <link>https://t.me/hn_summary/72098</link>
+      <description><![CDATA[Google 花费数十亿美元裁员&lt; br/&gt;
+谷歌在 2023 年解雇了 12,000 多名员工，在遣散费和其他费用上花费了 21 亿美元。仅在 2024 年第一个月，该公司就已经为另外 1,000 多个职位花费了 7 亿美元的遣散费。尽管进行了裁员，谷歌的核心业务仍实现了增长，2023 年第四季度收入达 860 亿美元。首席执行官桑达尔·皮查伊 (Sundar Pichai) 将这一增长归功于对生成式 AI 的投资。谷歌的搜索引擎业务创造了 480 亿美元的收入，而其订阅服务和设备部门创造了 107 亿美元的收入。该公司的云部门收入也有所增长，谷歌云收入为 91.9 亿美元。然而，裁员和房地产削减让谷歌损失了大量资金，随着公司继续投资人工智能，预计 2024 年将有更多裁员。]]></description>
+      <guid>https://t.me/hn_summary/72098</guid>
+      <pubDate>Thu, 01 Feb 2024 02:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站 www.stopkosa.com 反对《儿童在线安全法案》(KOSA)，指出 [...]</title>
-      <link>https://t.me/hn_summary/72085</link>
-      <description><![CDATA[停止 KOSA（儿童在线安全法案）
-网站 www.stopkosa.com 反对儿童在线《安全法案》（KOSA）指出，由于两个主要原因，这是一项糟糕的法案。首先，KOSA 将向平台施压，要求其安装过滤器，审查被认为不适合未成年人的内容，从而可能限制有关自杀预防和 LGBTQ+ 支持团体的重要信息。还有人认为 KOSA 将允许反权利团体关闭涉及种族、性别和性等话题的网站。其次，KOSA 将通过年龄验证和家长监控工具加强在线监控，这对于试图逃避家庭暴力和虐待的年轻人来说被视为侵入性的和安全风险。许多 LGBTQ+ 和民权组织反对 KOSA，认为该法案的更新无法解决其主要问题。该网站鼓励访问者联系其立法者以拒绝 KOSA。]]></description>
-      <guid>https://t.me/hn_summary/72085</guid>
-      <pubDate>Thu, 01 Feb 2024 00:14:45 GMT</pubDate>
+      <title>[媒体] Gnuplotlib 是一个 Python 模块，允许使用 Gnuplot 作为绘图工具来绘制 numpy 数据 [...]</title>
+      <link>https://t.me/hn_summary/72097</link>
+      <description><![CDATA[Gnuplotlib：NumPy 的无痛绘图
+Gnuplotlib 是一个 Python 模块，允许使用 Gnuplot 作为后端来绘制 numpy 数据。它提供了面向对象的接口和全局无类绘图函数。该模块充当 Gnuplot 的被动传递，允许用户利用 Gnuplot 后端的全部功能和灵活性。该项目提供了一种使用 Gnuplot 绘制 numpy 数据的简单直观的方法，从而提供了其他绘图库的替代方案。自述文件提供了有关如何使用该模块处理不同类型绘图的示例和详细说明。 （根据故事文本的 14% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72097</guid>
+      <pubDate>Thu, 01 Feb 2024 01:59:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国的海上风电雄心正受到百年法律知识的阻碍 [...]</title>
-      <link>https://t.me/hn_summary/72084</link>
-      <description><![CDATA[美国保护主义如何阻碍海上风电发展
-美国海上风电的雄心受到一项名为《琼斯法案》的百年法律的阻碍，该法案要求使用美国船只在该国境内运输货物。这给海上风电行业带来了问题，因为美国缺乏世界其他地区常用的必要风力涡轮机安装船（WTIV）。因此，海上风电项目被迫依赖昂贵且低效的解决方法，例如使用驳船代替 WTIV。由于美国造船厂享有垄断地位，《琼斯法案》还导致合规船舶的价格上涨。如果不解决《琼斯法案》的限制，拜登政府到 2030 年部署 30 吉瓦海上风电的目标可能难以实现。]]></description>
-      <guid>https://t.me/hn_summary/72084</guid>
-      <pubDate>Thu, 01 Feb 2024 00:13:38 GMT</pubDate>
+      <title>Lockbox 是一种转发代理，旨在解决信任自动化或工作流 pl [...]</title>
+      <link>https://t.me/hn_summary/72096</link>
+      <description><![CDATA[显示 HN：密码箱：用于进行第三方 API 调用的转发代理&lt; /a&gt;
+Lockbox 是一种转发代理，旨在解决使用第三方 API 密钥信任自动化或工作流程平台的问题。您可以运行自己的 Lockbox 服务器，而不是向这些平台提供 API 密钥。当工作流平台需要代表您进行 API 调用时，它会进行 Lockbox API 调用。 Lockbox随后调用第三方API并将结果返回给工作流平台。使用 Lockbox 的主要好处是您的 API 密钥永远不会暴露给工作流程平台，并且您能够审核和限制对外部 API 的访问。该项目优先考虑正确性、简单性和安全性。]]></description>
+      <guid>https://t.me/hn_summary/72096</guid>
+      <pubDate>Thu, 01 Feb 2024 01:33:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CitraVR 是一款用于 Oculus Quest 耳机的 3DS 模拟器，最近已上传到 SideQuest [...]</title>
-      <link>https://t.me/hn_summary/72083</link>
-      <description><![CDATA[CitraVR 比 Meta Quest 3 上的 3DS 模拟更重要
-CitraVR 是一款用于 Oculus Quest 耳机的 3DS 模拟器，最近已上传到 SideQuest，并因其令人印象深刻的性能而受到关注。 Citra的VR版本可以让用户体验3DS游戏的立体3D效果，与非VR版本不同。 CitraVR 的与众不同之处在于它独立于 Meta SDK，这意味着开发人员可以为该平台创建应用程序，而无需同意 Meta 的 SDK 许可条款。这种新发现的自由可能会为以前无法​​或不想遵守 Meta 条款的开发人员带来创新的 VR 体验。然而，缺乏 Meta 的监督可能会让不良行为者更容易为 Quest 硬件创建恶意软件。要安装 CitraVR，用户需要在 Quest 耳机上启用开发者模式并使用 SideQuest 下载并安装应用程序。]]></description>
-      <guid>https://t.me/hn_summary/72083</guid>
-      <pubDate>Thu, 01 Feb 2024 00:10:30 GMT</pubDate>
+      <title>[媒体]作者讨论了他们优化自动化 g 性能的经验 [...]</title>
+      <link>https://t.me/hn_summary/72095</link>
+      <description><![CDATA[为我的自动化游戏压缩最后一点 JavaScript 性能 
+作者讨论了他们优化自动化游戏 Industry Idle 及其精神继承者 CivIdle 性能的经验。他们解释说，尽管游戏的图形极简，但他们遇到的主要性能问题是在渲染方面。作者探索了重写游戏的不同选项，包括使用不同的语言和框架，但最终决定坚持使用 TypeScript 和 Web 平台，因为大部分代码与 UI 相关。他们还讨论了为 CivIdle 选择 Pixi.JS WebGL 渲染器，以及根据 Industry Idle 的经验教训实施的优化。接下来作者深入探讨了离线赚钱的挑战以及提升单线程性能的需求。他们将分配视为一个主要问题，并提供了通过使用静态缓存对象而不是分配新对象来优化代码的示例。作者还提到了记忆化在提高某些函数性能方面的潜力。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72095</guid>
+      <pubDate>Thu, 01 Feb 2024 01:26:13 GMT</pubDate>
     </item>
     <item>
-      <title>皮划艇对比</title>
-      <link>https://t.me/hn_summary/72082</link>
-      <description><![CDATA[皮划艇与独木舟（2010）
-网络内容讨论了互联网如何改变人们的思维方式。它强调了从收集所有可用信息到丢弃不必要的信息并关注隐藏在其中的知识的形状的转变。内容还提到互联网如何增强足智多谋和批判性思维，使查找信息和做出更好的决策变得更容易。然而，它也承认当无法在线获取信息时会感到沮丧。内容进一步探讨了互联网对生活各个方面的影响，例如沟通、社区和专业知识的概念。最后讨论了互联网的潜在未来及其在科学研究和传播中的作用。 （根据 26% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72082</guid>
-      <pubDate>Thu, 01 Feb 2024 00:04:22 GMT</pubDate>
+      <title>Web 内容讨论了 Linux 伪随机数生成器 (PRNG) 的内部结构。</title>
+      <link>https://t.me/hn_summary/72094</link>
+      <description><![CDATA[Linux伪随机数生成器内部原理
+Web 内容讨论了 Linux 伪随机数生成器 (PRNG) 的内部结构。它提到了生成器实现中的一个弱点，该弱点偏离了它所基于的原始论文中所做的假设。该内容提供了对 Linux 内核中 PRNG 的研究，解释了线性反馈移位寄存器 (LFSR) 序列的基础原理及其与 PRNG 的连接。它还讨论了广义反馈移位寄存器 (GFSR) 以及 Matsumoto 和 Kurita 在 1992 年的论文中定义的 GFSR 的扭曲版本。解释了扭曲 GFSR 中最低有效位的重要性。 （根据故事文本的 17% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72094</guid>
+      <pubDate>Thu, 01 Feb 2024 01:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>这篇博文的作者讨论了面向对象编程 (OOP) 并解决了一些问题 [...]</title>
-      <link>https://t.me/hn_summary/72081</link>
-      <description><![CDATA[人们不懂 OOP
-这篇博文的作者讨论了面向对象编程 (OOP) 并解决了一些关于它的常见误解。他们将对象定义为共享状态的操作集合，并解释对象可以是任何具有状态的东西。作者还提到，类对于 OOP 来说并不是严格必需的，JavaScript 和 Lua 等语言反而使用基于原型的 OOP。他们讨论了使用继承来实现代码重用和抽象，以及多态性的子类型概念。作者还探索了 OOP 中接口和封装的不同方法。总的来说，这篇文章对 OOP 概念提供了清晰且内容丰富的解释。 （根据 55% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72081</guid>
-      <pubDate>Thu, 01 Feb 2024 00:04:15 GMT</pubDate>
+      <title>作者讨论了不再使用服务器上的物理串行端口进行串行通信的转变 [...]</title>
+      <link>https://t.me/hn_summary/72093</link>
+      <description><![CDATA[服务器（可能）开始删除串行端口 
+作者讨论了不再使用服务器上的物理串行端口进行串行控制台输出的转变。他们解释说，他们一直在使用串行控制台服务器来收集和记录服务器的串行控制台输出，但最近收到了一台没有串行端口的主流服务器。此硬件上串行控制台的唯一选项是 LAN 上串行，作为其 IPMI 实施的一部分。作者指出，这种转变并不奇怪，因为物理串行端口增加了成本并占用空间，而且 IPMI 支持 LAN 上的串行已经有一段时间了。他们还提到，这种转变可能对他们有利，因为他们当前的串行控制台服务器硬件正在变得过时。]]></description>
+      <guid>https://t.me/hn_summary/72093</guid>
+      <pubDate>Thu, 01 Feb 2024 01:20:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 01 Feb 2024 00:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 03:13:21 GMT</lastBuildDate>
+    <item>
+      <title>你们中那些制作过自己的开源项目的人，您怎么知道它值得做？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ag0x09/those_of_you_who_made_your_own_opensource_project/</link>
+      <description><![CDATA[我猜大多数答案都是“它解决了我遇到的现有问题”但我很想听听你的故事。   由   提交 /u/Almenon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ag0x09/those_of_you_who_made_your_own_opensource_project/</guid>
+      <pubDate>Thu, 01 Feb 2024 03:10:30 GMT</pubDate>
+    </item>
     <item>
       <title>一家公司询问如何在我的 GitHub README 中为其产品投放广告 - 有什么想法吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1afxklz/a_company_asked_about_putting_an_ad_for_their/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>寻找涉及树莓派的 Meraki、Aruba、Fortigate 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</link>
-      <description><![CDATA[基本标题。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
+      <description><![CDATA[标题基本上。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</guid>
       <pubDate>Tue, 30 Jan 2024 20:52:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/HimadHustler   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aeuyoh/compose_multiplatform_1512_is_now_available/</guid>
       <pubDate>Tue, 30 Jan 2024 18:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯蒂亚诺 24.01</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aetqvc/stiano_2401/</link>
-      <description><![CDATA[Stiano 24.01 已发布：它将完整的 4 音阶 midi 控制器移植到标准 QWERTY 键盘上（EN -US），使用 28 个键。 这个想法是我在做速记工作时想到的。 Stiano 24.01 * 未来计划是为 Raspberry Pi 开发无头版本。 * 我也在寻求创新布局。欢迎提出所有建议。   由   提交 /u/ki4jgt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aetqvc/stiano_2401/</guid>
-      <pubDate>Tue, 30 Jan 2024 17:19:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
