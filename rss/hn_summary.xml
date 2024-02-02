@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 08:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 15:13:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网页内容是 1996 年的一篇文章，介绍了 Juice，一种用于分发的新技术。</title>
-      <link>https://t.me/hn_summary/72320</link>
-      <description><![CDATA[Juice – Oberon JIT 浏览器插件 (1996)&lt; br /&gt;
-Web 内容是 1996 年的一篇文章，介绍了 Juice，一种在万维网上分发可执行内容的新技术。 Juice 与 Java 相比，据说在许多应用程序中都优于 Java，尤其是在处理大型小程序时。 Juice 被描述为 Java 的补充，让用户可以在两者之间进行选择。文章解释说，Juice 已经开发了好几年，并且基于 Oberon 语言。它凸显了 Juice 的优势，例如更快的执行速度和更密集的分发格式。文章最后指出，Juice 是一种比 Java 更好的技术，可以将可执行内容带到网络上。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72320</guid>
-      <pubDate>Fri, 02 Feb 2024 08:58:10 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了新闻媒体“信使”最近的倒闭和批评 [...]</title>
+      <link>https://t.me/hn_summary/72352</link>
+      <description><![CDATA[Messenger 内爆显示新闻业由无远见、失败向上的 Brunchords 领导
+文章讨论了新闻媒体《信使报》最近的倒闭，并批评了美国新闻业的管理和领导。作者认为，新闻业的真正问题是富有的所有者和高管的无能，他们对现代媒体格局缺乏了解。这篇文章强调了《信使》老板吉米·芬克尔斯坦（Jimmy Finkelstein）承认没有战略失误，也没有就公司关闭事宜与员工进行沟通。作者还批评该行业专注于信息娱乐和参与诱饵，而不是优先考虑真实报道。文章建议，新闻业应该从富人手中夺走，并重新置于知识渊博的记者和编辑的控制之下。]]></description>
+      <guid>https://t.me/hn_summary/72352</guid>
+      <pubDate>Fri, 02 Feb 2024 15:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一家电话公司正在其手机上推广一项新功能，其中带有圆形管道地图，位于 [...]</title>
-      <link>https://t.me/hn_summary/72319</link>
-      <description><![CDATA[五个地铁站现已有了新的圆形地铁地图&lt; br /&gt;
-一家电话公司正在其手机上推广一项新功能，其中包含五个伦敦地铁站的圆形地铁地图。临时重新设计展示了三星 Galaxy S24 智能手机上的 Circle to Search with Google 功能。该地图包括所有 11 条伦敦地铁线路，并暂时用“Circle to Search”线取代了 Circle 线。地图上不包括伊丽莎白线、DLR 和伦敦地上铁。地图上提到了缆车，但未显示。该地图将在 Blackfriars、King&#39;s Cross、Liverpool Street、Paddington 和 Westminster 车站展示两周。传统的地铁地图仍然可用。]]></description>
-      <guid>https://t.me/hn_summary/72319</guid>
-      <pubDate>Fri, 02 Feb 2024 08:56:01 GMT</pubDate>
+      <title>[媒体]这篇文章探讨了征服者威廉的死亡和埋葬，强调了 com [...]</title>
+      <link>https://t.me/hn_summary/72351</link>
+      <description><![CDATA[征服者威廉的埋葬：错误的喜剧
+这篇文章探讨了征服者威廉的死亡和埋葬，重点介绍了围绕他去世的喜剧和混乱事件。威廉因 1066 年在黑斯廷斯的胜利而闻名，但他的结局却没有他想象的那么有尊严。晚年肥胖后，他隐居城堡内减肥。当受到法国国王的嘲笑时，威廉入侵了一座城镇并受了致命伤。临终前，他承认了自己的罪行，并弥补了自己的错误。然而，他的墓葬却被一名质问者、一个小石棺和肿胀的肠子破坏，散发出恶臭。其遗骸后来被搅乱散落，仅留下一根大腿骨。]]></description>
+      <guid>https://t.me/hn_summary/72351</guid>
+      <pubDate>Fri, 02 Feb 2024 15:13:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bloop 是一家 Y-Combinator 支持的初创公司，正在伦敦招聘 Rust 工程师，他们是 [...]</title>
-      <link>https://t.me/hn_summary/72318</link>
-      <description><![CDATA[Bloop (YC S21) 正在招聘对编译器感兴趣的 Rust 工程师，伦敦
-Bloop 是一家 Y-Combinator 支持的初创公司，正在伦敦招聘对编译器感兴趣的 Rust 工程师。 Bloop 的自动代码翻译解决方案旨在自动化不同编程语言之间移动代码的过程。他们正在采取一种新颖的方法来解决这个问题，利用源到源编译器和可以处理大量代码的 LLM（语言模型）。受聘的工程师将致力于设计和实现为代码翻译管道提供动力的核心引擎，重点关注编译器、自动化测试、法学硕士和静态分析。 Bloop 提供有竞争力的一揽子计划，并鼓励来自非传统背景的申请者。]]></description>
-      <guid>https://t.me/hn_summary/72318</guid>
-      <pubDate>Fri, 02 Feb 2024 07:02:16 GMT</pubDate>
+      <title>[媒体]澳大利亚正在通过[...]在2035年消除宫颈癌方面取得重大进展</title>
+      <link>https://t.me/hn_summary/72350</link>
+      <description><![CDATA[澳大利亚有望在 2035 年消除宫颈癌 
+澳大利亚通过筛查和免疫计划相结合，在 2035 年消除宫颈癌方面取得了重大进展。由于宫颈癌筛查测试和人乳头瘤病毒（HPV）疫苗的引入，宫颈癌的发病率已减半。然而，有人担心，由于重点关注消除疾病，已被诊断患有该疾病的女性可能难以获得研究和资金。此外，移民妇女和土著妇女等边缘化社区在获得预防措施方面面临障碍，需要更多的教育和支持。最近推出的宫颈癌筛查自取工具包被视为朝着正确方向迈出的一步，为偏远或边缘化社区的妇女提供隐私和可及性。]]></description>
+      <guid>https://t.me/hn_summary/72350</guid>
+      <pubDate>Fri, 02 Feb 2024 15:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 布莱恩·伊诺 (Brian Eno) 的引人注目的肖像每次观看都会有所不同</title>
-      <link>https://t.me/hn_summary/72317</link>
-      <description><![CDATA[布莱恩·伊诺 (Brian Eno) 引人注目的肖像，每次观看都会有所不同&lt; /a&gt;
-关于布莱恩·伊诺的纪录片《伊诺》在圣丹斯电影节首映。这部电影由加里·赫斯威特执导，其独特之处在于它使用生成软件在每次观看时创建不同的版本。这部纪录片主要以伊诺本人为主角，讲述他的职业生涯和创作哲学。这部电影借鉴了 Eno 个人档案中 500 小时的镜头，展示了他与 David Bowie、Talking Heads、U2 和 Coldplay 等艺术家的合作。虽然《伊诺》时尚且引人入胜，但一些观众可能更喜欢一部带有其他艺术家推荐的更传统的纪录片。]]></description>
-      <guid>https://t.me/hn_summary/72317</guid>
-      <pubDate>Fri, 02 Feb 2024 07:01:08 GMT</pubDate>
+      <title>[媒体]网络内容讨论了美国寡头政治的崛起及其与俄罗斯寡头政治的相似之处[...]</title>
+      <link>https://t.me/hn_summary/72349</link>
+      <description><![CDATA[美国寡头政治的崛起
+网络内容讨论了美国寡头政治的兴起及其与俄罗斯寡头政治的相似之处。它突显了美国如何成为可疑外国资金的避风港，并培育了一个主导工业和开采资源的亿万富翁阶层。本文重点关注超级游艇 Amadea 的案例，该游艇在一次家庭度假出现问题后最终停泊在加利福尼亚州。这艘游艇的所有权存在争议，但美国政府因违反对俄罗斯商人的制裁而扣押了它。内容还探讨了美国的财富、保密和避税基础设施，这些基础设施允许寡头资金流入经济的各个部门。文章认为，美国寡头和俄罗斯寡头一样，既是系统故障的结果，也是系统故障的积极工程师。他们对政客、平台和垄断行业施加权力，导致政治和经济不平等以及公共服务的侵蚀。内容最后讨论了美国历史上对寡头政治的恐惧，以及这个词如何在现代背景下呈现出新的含义。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72349</guid>
+      <pubDate>Fri, 02 Feb 2024 14:57:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了飞利浦伟康（一家生产呼吸机的公司）如何 [...]</title>
-      <link>https://t.me/hn_summary/72316</link>
-      <description><![CDATA[飞利浦多年来向 FDA 和患者隐瞒 CPAP 机器问题
-本文讨论了飞利浦伟康（一家生产家庭和医院呼吸机的公司）如何多年来向 FDA 和患者隐瞒其 CPAP 机器的问题。该公司于 2010 年重新设计了机器，使用的工业泡沫开始降解并释放出潜在的有毒和致癌颗粒。尽管收到大量投诉，飞利浦还是拒绝了 FDA 的大部分警告，并继续销售这些机器。直到 2021 年 6 月，飞利浦才宣布召回这些机器。文章强调了该公司未能优先考虑患者安全以及保护其利润的尝试。 （根据故事文本的 29% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72316</guid>
-      <pubDate>Fri, 02 Feb 2024 06:21:45 GMT</pubDate>
+      <title>[媒体] 题为“为什么你（可能）不应该从 SPA 开始”的文章讨论了抽签 [...]</title>
+      <link>https://t.me/hn_summary/72348</link>
+      <description><![CDATA[您不应该从 SPA 开始
+标题为“为什么你（可能）不应该从 SPA 开始”的文章讨论了使用单页应用程序 (SPA) 进行前端开发的缺点。作者同意 Greg Navis 之前文章中提出的观点，认为 SPA 比传统的多页面应用程序更昂贵且效率更低。作者分享了他们使用前端框架的个人经验，并表达了不使用node/deno/bun或类似工具的偏好。他们认为，SPA 只应在需要前后端解耦的极端情况下使用。本文还强调了构建 SPA 带来的通信、定制和性能方面的挑战。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72348</guid>
+      <pubDate>Fri, 02 Feb 2024 14:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 复古网络 – 数据库、文档、BIOS、驱动程序等。</title>
-      <link>https://t.me/hn_summary/72315</link>
-      <description><![CDATA[复古网络 – 数据库、文档、BIOS、驱动程序等。适用于旧电脑硬件
-Retro Web 是一个全面的在线资源，提供与旧 PC 硬件相关的所有内容。该网站由 Deksor、computerguy096 和 Zago 等专家团队创建，提供庞大的信息数据库，包括文档、BIOS 文件、驱动程序等。无论您是收藏家、爱好者，还是只是对老式电脑感到好奇，复古网都能满足您的需求。该网站对版权声明进行了巧妙的修改，声明“所有错误均已逆转”，承诺为用户提供独特且令人惊讶的体验。]]></description>
-      <guid>https://t.me/hn_summary/72315</guid>
-      <pubDate>Fri, 02 Feb 2024 06:18:35 GMT</pubDate>
+      <title>[媒体]日本将推出新的签证身份，这将使IT e [...]</title>
+      <link>https://t.me/hn_summary/72347</link>
+      <description><![CDATA[日本将为“数字游牧民族”推出六个月居留签证&lt; /a&gt;
+日本将推出新的签证身份，这将使海外公司的 IT 工程师和其他工人在该国生活更加方便。新签证将允许高技能工人在日本远程工作长达六个月，同时也有机会作为游客探索该国。此举旨在吸引更多数字游民并促进日本旅游业。]]></description>
+      <guid>https://t.me/hn_summary/72347</guid>
+      <pubDate>Fri, 02 Feb 2024 14:46:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Slint GUI 工具包是一个声明式 GUI 工具包，允许开发人员构建 nat [...]</title>
-      <link>https://t.me/hn_summary/72314</link>
-      <description><![CDATA[Slint GUI工具包
-Slint GUI 工具包是一个声明性 GUI 工具包，允许开发人员使用 Rust、C++ 或 JavaScript 为桌面和嵌入式应用程序构建本机用户界面。该项目旨在提供可扩展、轻量级、直观且原生的 UI 设计体验。它支持跨平台使用，需要最少的资源，并提供类似智能手机的用户体验。使用 Slint 构建的 GUI 可以编译为机器代码，并提供对完整操作系统 API 和外设连接的访问​​。该项目目前正在积极开发中，并支持嵌入式设备，对桌面、Web 和移动平台的支持正在进行中。该项目提供文档、示例和工具来帮助开发过程。欢迎贡献，该项目已获得各种许可证的许可，包括免版税许可证、GNU GPLv3 和付费许可证。]]></description>
-      <guid>https://t.me/hn_summary/72314</guid>
-      <pubDate>Fri, 02 Feb 2024 06:14:27 GMT</pubDate>
+      <title>[媒体]2023年，俄罗斯军队夺取了切尔诺贝利核电站的控制权后，杜里 [...]</title>
+      <link>https://t.me/hn_summary/72346</link>
+      <description><![CDATA[切尔诺贝利入侵后辐射峰值之谜（2023）
+2023年，俄罗斯军队在入侵乌克兰期间夺取了切尔诺贝利核电站的控制权后，切尔诺贝利禁区（CEZ）的辐射水平突然飙升。乌克兰国家核监管监察局（SNRIU）最初将峰值归因于俄罗斯军用车辆造成的放射性土壤重新悬浮。然而，一组环境辐射专家发表了一篇论文，对这一解释提出质疑，并认为电子战干扰是罪魁祸首。网络安全研究员鲁本·桑塔玛塔 (Ruben Santamarta) 认为，数据操纵（可能通过网络攻击）是造成峰值的原因。如果属实，这可能会对全球辐射监测系统产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/72346</guid>
+      <pubDate>Fri, 02 Feb 2024 14:33:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PowerShark 是适用于 Amiga 计算机的革命性电源适配器，特别是 [...]</title>
-      <link>https://t.me/hn_summary/72313</link>
-      <description><![CDATA[适用于 Amiga 500、600 和 1200 的 USB-C 电源
-PowerShark 是一款革命性的电源适配器，适用于 Amiga 计算机，特别是 A500、A600 和 A1200 型号。它提供清洁、稳定的能源供应，非常适合扩展使用，甚至是最扩展的配置。 PowerShark 可与任何支持 12V 的 USB-C 电源配合使用，让用户可以从各种经济实惠的选项中进行选择。它还支持便携式 USB-C 充电器，使电池供电的 Amigas 成为现实。该设备具有先进的监控和保护功能，确保Amiga组件的安全。它专为安全无人值守操作而设计，可防止快速电源循环。 PowerShark高效、环保，其紧凑的设计和时尚的外观使其成为出色的产品。]]></description>
-      <guid>https://t.me/hn_summary/72313</guid>
-      <pubDate>Fri, 02 Feb 2024 06:08:18 GMT</pubDate>
+      <title>[媒体] Glasskube 是 Kubernetes 云原生包管理器的技术预览版。</title>
+      <link>https://t.me/hn_summary/72345</link>
+      <description><![CDATA[显示 HN：新 Kubernetes 软件包的 Glasskube v0.0.1 技术预览经理
+Glasskube 是 Kubernetes 云原生包管理器的技术预览版。包管理器旨在解决云原生社区中迫切的包管理问题。 Glasskube 被设计为一个云原生应用程序，具有中央包注册表和将最新清单同步到集群中的包操作器。包管理器面临着 Kubernetes 版本兼容性、包依赖性、测试基础设施以及反馈和包质量等挑战。 Glasskube 并不是 Helm 的替代品，而是专注于在 Kubernetes 版本升级过程中保持多个软件包最新且安全。用户可以按照入门指南尝试 Glasskube，并提供反馈以帮助改进包管理器。]]></description>
+      <guid>https://t.me/hn_summary/72345</guid>
+      <pubDate>Fri, 02 Feb 2024 14:27:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tembo 是一家服务提供商，完全在 Postg 上构建了他们的客户数据仓库 [...]</title>
-      <link>https://t.me/hn_summary/72312</link>
-      <description><![CDATA[我们全部在 Postgres 上构建客户数据仓库&lt; br /&gt;
-Tembo 是一家即服务提供商，使用外部数据包装器和其他 Postgres 扩展完全在 Postgres 上构建其客户数据仓库。这使他们能够将多个来源的数据转移到一个位置，并简化跟踪和了解客户使用情况和行为的过程。他们将自己构建的工具作为开源项目发布，并使其他人可以轻松使用 Tembo 数据仓库堆栈构建自己的数据仓库。他们还使用 pgcron（一种作业调度扩展）来保持数据仓库最新。此外，他们还利用 pgpartman 扩展进行分区，以提高性能并轻松实现数据过期。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72312</guid>
-      <pubDate>Fri, 02 Feb 2024 05:59:09 GMT</pubDate>
+      <title>[媒体]前 CIA 软件工程师 Joshua Schulte 被判处 40 年监禁 [...]</title>
+      <link>https://t.me/hn_summary/72344</link>
+      <description><![CDATA[向维基解密发送秘密的前中央情报局编码员被判 40 年徒刑
+前中央情报局软件工程师约书亚·舒尔特因中央情报局历史上最大规模的机密信息盗窃案以及持有儿童性虐待图像和视频而被判处 40 年监禁。舒尔特负责 2017 年维基解密泄露的大量中央情报局机密，即 Vault 7 泄密事件，暴露了该机构的黑客能力。此次泄密事件揭示了中央情报局如何侵入智能手机并将联网电视变成监听设备。舒尔特在中央情报局工作期间帮助创建了黑客工具。法官批评舒尔特缺乏悔意和承担责任，并指出他在狱中继续犯罪。]]></description>
+      <guid>https://t.me/hn_summary/72344</guid>
+      <pubDate>Fri, 02 Feb 2024 14:24:07 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】网络时间协议（NTP）的发明者 David Mills 去世，享年 85 岁。</title>
-      <link>https://t.me/hn_summary/72311</link>
-      <description><![CDATA[NTP时间领主去世
-网络时间协议 (NTP) 的发明者 David Mills 去世，享年 85 岁。NTP 是跨不同系统和网络同步计算机时钟的重要系统。 Mills 独自创建并维护了该解决方案，该解决方案现已在全球数十亿台设备上使用。 NTP 确保数据完整性、网络安全、金融交易以及记录和监控网络活动的准确计时。米尔斯在维护和发展协议方面面临挑战，但他的工作得到了广泛认可，并因其对网络协议和计时的贡献而获得了多个奖项。米尔斯去世时是特拉华大学的名誉教授。]]></description>
-      <guid>https://t.me/hn_summary/72311</guid>
-      <pubDate>Fri, 02 Feb 2024 05:49:00 GMT</pubDate>
+      <title>[媒体]警方逮捕了来自加利福尼亚州的 17 岁男子艾伦·菲利昂 (Alan Filion)，他涉嫌犯有 [...]</title>
+      <link>https://t.me/hn_summary/72343</link>
+      <description><![CDATA[警察在全国范围内逮捕了涉嫌殴打的 17 岁青少年
+警方逮捕了来自加利福尼亚州的 17 岁少年艾伦·菲利昂 (Alan Filion)，他涉嫌对美国各地“数百起殴打事件和炸弹威胁事件”负责。殴打是一种危险的犯罪行为，欺诈性报警会导致应急小组被部署到不存在的威胁上。菲利恩涉嫌在佛罗里达州一座清真寺发出自称大规模枪击案凶手后被指控犯有多项重罪。通话中包括枪声和撒旦教的内容。菲利昂在提供殴打服务的网站上创建帐户后被当局追踪。他已作为成年人受到指控，目前已被拘留。这次逮捕发生之际，立法者正在推动对殴打行为实施更严厉的处罚，一项法案正在审查中，该法案可能对严重殴打事件判处最高 20 年监禁。]]></description>
+      <guid>https://t.me/hn_summary/72343</guid>
+      <pubDate>Fri, 02 Feb 2024 14:13:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
