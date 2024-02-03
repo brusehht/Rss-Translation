@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 03 Feb 2024 03:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 06:14:14 GMT</lastBuildDate>
+    <item>
+      <title>每天一句感谢</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ahm82r/a_thanks_every_day/</link>
+      <description><![CDATA[感谢 @saurabh 发现了这个很酷的博客 https://ankeshkothari.com/how-to-get-smart-people-to-send-you-cool-goodies-for-free/&lt; /a&gt; 每天写一封感谢信真是个好主意。鉴于我们有很多值得感谢的事情，这应该不难。从今天开始，我将从我迄今为止使用过的所有操作系统库开始尝试这一点。应该会令人兴奋😊   由   提交/u/krishna404  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ahm82r/a_thanks_every_day/</guid>
+      <pubDate>Sat, 03 Feb 2024 03:14:48 GMT</pubDate>
+    </item>
     <item>
       <title>开源中途替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1ahm44b/open_source_midjourney_alternative/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿。 我已经在 r/selfhosted 但我想我也想与 Reddit 上的开源社区分享它。 HortusFox v2.0 大约一周前发布，现在具有工作docker环境。此外，您不需要自己构建镜像，因为每个版本都会自动生成一个镜像，并且可以通过 GitHub Container Registry 获取。 变更日志：   Docker 镜像现已可从 GHCR 获取 改进了 Docker 构建流程 动态设置现已存储在数据库中 用于植物预览和图库照片的图像共享功能  li&gt; 植物照片现在在添加新植物时是可选的 链接到移动设备上汉堡旁边的个人资料 图库项目操作现在反映在历史日志中 用户个人资料页面中的个人注释 其他改进和错误修复  如果您使用的是 Android 应用程序，建议也进行更新。  如果您使用 Android 应用程序，建议也进行更新。 p&gt; 同时，还有一个 YouTube 频道，您可以在其中观看有关安装和使用的教程视频。它相当新，因此可能需要一些时间才能发布新的视频内容。 更多信息：https://www .hortusfox.com/  PS：有时 Reddit 用户提出的功能是很酷的想法，但想法可能会丢失。这就是为什么我建议并欢迎您在 GitHub 上创建问题。 祝您有美好的一天！   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agqe0a/hortusfox_v20_the_plant_parenting_tracking_app/</guid>
       <pubDate>Fri, 02 Feb 2024 00:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司从人工智能模型开源中获得什么好处？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1agitzo/what_benefit_companies_gain_from_making_ai_models/</link>
-      <description><![CDATA[就像meta或Mistral花费数千万美元来构建和训练模型，然后将其开源一样。 &lt; !-- SC_ON --&gt;  由   提交/u/blind_programer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1agitzo/what_benefit_companies_gain_from_making_ai_models/</guid>
-      <pubDate>Thu, 01 Feb 2024 19:08:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
