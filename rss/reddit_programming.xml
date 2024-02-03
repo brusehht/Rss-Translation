@@ -4,11 +4,39 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 03 Feb 2024 06:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 09:11:53 GMT</lastBuildDate>
+    <item>
+      <title>探索数据库系统中的 MVCC</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahr1mt/exploring_mvcc_in_database_systems/</link>
+      <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahr1mt/exploring_mvcc_in_database_systems/</guid>
+      <pubDate>Sat, 03 Feb 2024 08:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开源我构建的 Saas</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahqx4c/i_am_open_sourcing_a_saas_i_built/</link>
+      <description><![CDATA[我是一名独立开发者。这是一款供技术人员进行资产维护的软件。 您可以创建不同类型的工单，将其分配给技术人员并查看有关资产的分析。 我使用以下方式开发了该网络应用程序： React，Java 的 API，React Native 的移动应用程序。请为存储库加注星标以获得可见性   由   提交/u/iibracool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahqx4c/i_am_open_sourcing_a_saas_i_built/</guid>
+      <pubDate>Sat, 03 Feb 2024 07:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 中的搜索引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahqvho/search_engine_in_rust/</link>
+      <description><![CDATA[大家好，我想分享一个我做过的项目，Rust 搜索引擎。该引擎基于磁盘，可以执行自由查询和布尔查询，它对输入的术语进行拼写检查，并具有使用 Actix 和 HTMX 构建的 Web 界面。随意看看吧！如果您想深入了解详细信息，我还撰写了一篇有关该项目的 Medium 文章。 https://medium.com/@tomfran/building-a-search-engine-in-rust-c945b6e638f8 随时发表评论或询问任何东西！   由   提交/u/fran-sch   com/tomfran/search-rs&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahqvho/search_engine_in_rust/</guid>
+      <pubDate>Sat, 03 Feb 2024 07:48:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 中的数据结构和算法 (DSA)</title>
+      <link>https://www.reddit.com/r/programming/comments/1ahpfvp/data_structures_and_algorithms_in_c_dsa/</link>
+      <description><![CDATA[ 由   提交/u/tracktech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ahpfvp/data_structures_and_algorithms_in_c_dsa/</guid>
+      <pubDate>Sat, 03 Feb 2024 06:14:40 GMT</pubDate>
+    </item>
     <item>
       <title>什么是协程？</title>
       <link>https://www.reddit.com/r/programming/comments/1ahoytk/what_is_goroutine/</link>
-      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/stackoverflooooooow  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ahoytk/what_is_goroutine/</guid>
       <pubDate>Sat, 03 Feb 2024 05:46:33 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/jonas_h   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ahejx2/blogging_in_djot_instead_of_markdown/</guid>
       <pubDate>Fri, 02 Feb 2024 21:18:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Go 的配置文件引导优化 (PGO) 将数据库的读取延迟减少 5%</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahdxqy/using_gos_profileguided_optimization_pgo_to/</link>
-      <description><![CDATA[ 由   提交/u/zachm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahdxqy/using_gos_profileguided_optimization_pgo_to/</guid>
-      <pubDate>Fri, 02 Feb 2024 20:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jeanine Soterwood - 帮助客户了解维护工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahc6wy/jeanine_soterwood_helping_clients_understand/</link>
-      <description><![CDATA[ 由   提交/u/robbyrussell  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahc6wy/jeanine_soterwood_helping_clients_understand/</guid>
-      <pubDate>Fri, 02 Feb 2024 19:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>freeCodeCamp 播客：Oh My Zsh 创建者兼 Dev Shop 首席执行官 Robby Russell</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahc242/freecodecamp_podcast_oh_my_zsh_creator_and_dev/</link>
-      <description><![CDATA[ 由   提交 /u/robbyrussell   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahc242/freecodecamp_podcast_oh_my_zsh_creator_and_dev/</guid>
-      <pubDate>Fri, 02 Feb 2024 19:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Pkl，一种用于配置的编程语言 :: Pkl Docs</title>
-      <link>https://www.reddit.com/r/programming/comments/1ahbzfl/introducing_pkl_a_programming_language_for/</link>
-      <description><![CDATA[ 由   提交/u/islon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ahbzfl/introducing_pkl_a_programming_language_for/</guid>
-      <pubDate>Fri, 02 Feb 2024 19:29:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
