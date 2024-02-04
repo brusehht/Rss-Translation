@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 04 Feb 2024 03:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 06:14:17 GMT</lastBuildDate>
+    <item>
+      <title>RSGL，我的轻量级纯标头 GUI 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/</link>
+      <description><![CDATA[RSGL 是我一直致力于开发的一个开源、轻量级、仅包含标头的 GUI 库。它的主要重点是易于使用和用户友好，同时也便于携带且相对轻便。它可用于轻松创建 GUI 应用程序和游戏。我尝试将底层 GUI 库的自由度与现代 C 技术结合起来，提供简单性、便利性和一定程度的模块化。 RSGL 实现这一目标的主要方式部分是通过使用其他开源单头库（其中大部分是我做的），都有相似的设计理念，我制作并合并了它们。其中包括，RGFW -&gt;轻量级/易于使用 GLFW 替代品 RGL -&gt; OpenGL版本抽象层（类似raylib的RLGL） RFont -&gt;一个简单易用的模块化字体渲染库 Silicon.h -&gt;单头 cocoa (macos) API 轻型包装器，因此可以在纯 C 中使用 stb_image -&gt;非常著名的单头库，我的库的设计理念的灵感来自于 miniaudio.h -&gt;单头音频播放库 RSGL 与 raylib 非常相似，但它试图更加轻量级和现代化。 RSGL 可以在这里找到：https://github.com/ColleagueRiley/RSGL   由   提交 /u/Comrade-Riley    reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/</guid>
+      <pubDate>Sun, 04 Feb 2024 03:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>我如何开始一个项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ai71ep/how_do_i_start_a_project/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果是这样，他们使用哪些网站以及哪些网站是他们提出这些挑战的手段，并向解决这些问题的人提供现金奖励？&lt; /p&gt;   由   提交/u/DigAdministrative448   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agzk9x/is_there_an_opensource_project_that_pays_people/</guid>
       <pubDate>Fri, 02 Feb 2024 09:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何/在哪里联系巴西开源社区？ 🇧🇷</title>
-      <link>https://www.reddit.com/r/opensource/comments/1agz3ch/how_where_to_reach_brazilian_open_source_community/</link>
-      <description><![CDATA[嘿嘿！ 我正在运行一个开源项目，并注意到巴西人喜欢开源。想要深入了解，但无法真正找到巴西操作系统社区聚集的地方。 有什么建议吗？ 🤓   由   提交 /u/jobenjada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1agz3ch/how_where_to_reach_brazilian_open_source_community/</guid>
-      <pubDate>Fri, 02 Feb 2024 08:35:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
