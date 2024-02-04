@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 04 Feb 2024 12:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 21:04:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网页内容是 Jakob Nielsen 的职业回顾，是一位用户体验 (UX) 专家 [...]</title>
-      <link>https://t.me/hn_summary/72641</link>
-      <description><![CDATA[41 年用户体验：职业回顾
-该网络内容是 Jakob Nielsen 的职业回顾，他是一位用户体验 (UX) 专家，自 1983 年以来一直在该领域工作。作者讨论了 Nielsen 从学术界到实践的旅程，并强调了他的使命：让计算机适合人类并让他们感到愉悦。尼尔森早期使用计算机的经历，包括在高中使用过时的计算机以及在大学使用强大的大型机时令人沮丧的用户体验，影响了他专注于用户体验的决定。作者还提到了 Nielsen 担任大学教授的经历以及他在 Bellcore 和 Sun Microsystems 推进用户体验方面的贡献。重点介绍了尼尔森的三项主要成就：折扣可用性、《设计 Web 可用性》一书以及 10 种可用性启发法的开发。 （根据故事文本的 67% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72641</guid>
-      <pubDate>Sun, 04 Feb 2024 12:17:53 GMT</pubDate>
+      <title>Stract 是一个革命性的搜索引擎，它使用户能够自定义他们的搜索 [...]</title>
+      <link>https://t.me/hn_summary/72717</link>
+      <description><![CDATA[Stract：开源、非营利搜索引擎
+Stract 是一款革命性的搜索引擎，让用户能够定制自己的搜索体验。与其他搜索引擎不同，Stract 是开源且非营利的，这意味着它不受公司利益或广告收入的驱动。 Stract 的一个独特功能是它的“光学”工具，它允许用户通过消除模仿网站并参与各种主题的讨论来定制搜索结果。此外，Stract 支持 Indieweb 运动，并提供博客卷供用户发现新的有趣的内容。学术资源也得到优先考虑，使 Stract 成为学生和研究人员的宝贵工具。]]></description>
+      <guid>https://t.me/hn_summary/72717</guid>
+      <pubDate>Sun, 04 Feb 2024 21:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了 C++ 编程中正确使用头文件的重要性。</title>
-      <link>https://t.me/hn_summary/72640</link>
-      <description><![CDATA[#include 
-作者讨论了 C++ 编程中正确使用头文件的重要性。他们解释说，包含太多头文件可能会导致编译时间更长，并且每个文件应包含所需的最少量文件。作者还强调了自包含标头的必要性以及包含所有依赖标头的必要性。它们提供了使用前向声明和避免重型平台文件的指南。作者建议使用 #pragma Once 或标头防护来防止多次包含标头。他们还讨论了一致的包含路径的重要性，并建议使用预处理器输出和代码库统计信息来优化代码库。]]></description>
-      <guid>https://t.me/hn_summary/72640</guid>
-      <pubDate>Sun, 04 Feb 2024 12:16:45 GMT</pubDate>
+      <title>[媒体] 总部位于伦敦的 YC 公司 Meticulous 正在招聘一名现场创始工程师加入 [...]</title>
+      <link>https://t.me/hn_summary/72716</link>
+      <description><![CDATA[Meticulous (YC S21) 正在招聘员工以消除 UI 测试
+总部位于伦敦的 YC 公司 Meticulous 正在招聘一名现场创始工程师加入他们的团队。他们的使命是通过创建一种工具来加速软件开发，该工具可以让开发人员零费力地捕获 Web 应用程序中的 UI 错误。该工具的工作原理是在网站上插入一行 JavaScript，记录数千个真实用户会话，并在 PR 的头和基础提交上重放它们。它会在关键点截取屏幕截图，并比较这些屏幕截图，以便在投入生产之前捕获视觉回归。该公司已筹集 400 万美元，并得到硅谷著名创始人和技术领导者的支持。他们正在寻找技术精湛、令人愉快、拥有高级技能和 5 年以上行业经验的工程师。]]></description>
+      <guid>https://t.me/hn_summary/72716</guid>
+      <pubDate>Sun, 04 Feb 2024 21:03:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]地方新闻编辑室的倒闭对[...]的国有化产生了重大影响</title>
-      <link>https://t.me/hn_summary/72639</link>
-      <description><![CDATA[地方新闻编辑室的崩溃如何使所有政治变得国家化 
-地方新闻编辑室的崩溃对政治国有化产生了重大影响。由于当地新闻媒体被掏空，选民对当地问题的了解越来越少，候选人与当地媒体接触并解决当地问题的动力也减弱。 《得梅因纪事报》和《工会领袖》等报纸的衰落导致其影响力下降，对当地重要问题的报道也减少。在最近的选举周期中观察到了这种趋势，唐纳德·特朗普和皮特·布蒂吉格等候选人更多地关注国家媒体，而不是地方媒体。当地媒体的衰弱使得候选人忽视它们并优先考虑全国报道。]]></description>
-      <guid>https://t.me/hn_summary/72639</guid>
-      <pubDate>Sun, 04 Feb 2024 11:52:33 GMT</pubDate>
+      <title>先生。</title>
+      <link>https://t.me/hn_summary/72715</link>
+      <description><![CDATA[先生。困难：威廉·加迪斯和难读书籍的问题 (2002)
+在这篇文章中，乔纳森·弗兰岑以威廉·加迪斯为例讨论了书籍难读的问题。弗兰岑回忆说，他收到了读者发来的愤怒邮件，这些读者对他在媒体上的不政治言论感到不安。他探索了小说如何与读者建立联系的两种不同模型：地位模型（重视难度并将其视为卓越的标志）和契约模型（注重读者的乐趣以及与作品的联系）。弗兰岑承认自己是一个契约型的人，并分享了他阅读加迪斯的《认可》的经历，他发现这本书很困难，但最终还是有收获的。 （根据 19% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72715</guid>
+      <pubDate>Sun, 04 Feb 2024 20:54:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人担忧的是，包括 Google、TikTok 和 Meta 在内的主要组织 [...]</title>
-      <link>https://t.me/hn_summary/72638</link>
-      <description><![CDATA[Infostealer 感染导致 Google、TikTok 和 Meta LESP 遭到黑客攻击&lt; /a&gt;
-令人担忧的是，随着威胁行为者侵入其执法系统，包括谷歌、TikTok 和 Meta 在内的主要组织都成为黑客攻击的受害者。这使得他们能够合法地索取用户的个人详细信息，从而导致身份盗窃、勒索和经济损失。这位被称为“Tamagami”的黑客正试图通过出售完整帐户访问权限并提供一次性传票请求来收取费用，从而将这种访问权限货币化。此次泄露被认为是 Infostealer 感染造成的，谷歌执法系统的 50 多组凭据可追溯到受感染的员工。 Hudson Rock 研究人员正在努力缓解该问题并向受影响的组织提供道德披露。]]></description>
-      <guid>https://t.me/hn_summary/72638</guid>
-      <pubDate>Sun, 04 Feb 2024 11:32:22 GMT</pubDate>
+      <title>[媒体]欧洲修复权联盟正在庆祝一项新的欧盟法律，该法律将使修复 [...]</title>
+      <link>https://t.me/hn_summary/72714</link>
+      <description><![CDATA[新的欧盟法律将使特定产品的维修更加经济实惠
+欧洲维修权联盟正在庆祝一项新的欧盟法律，该法律将使特定产品的维修变得更加经济实惠。该法律支持独立维修，并引入了原装备件合理价格的规则，并禁止妨碍独立维修以及使用兼容和重复使用的备件的软件做法。然而，该法律仅适用于欧盟立法规定可修复性要求的产品。该联盟敦促制定更广泛的规则，涵盖更多产品类别。该法律也未能提供更广泛的维修信息和备件获取途径。欧盟委员会将建立一个在线平台，以提高维修方案的可见性和成本的透明度。该法律还要求卖家在法定保修期内提出维修，并在维修后将保修期延长一年。然而，这种激励措施仍然不如提供替代品，后者还附带额外的两年法律保障。该联盟呼吁下一届欧盟委员会致力于生态设计，以确保更多产品的可修复性规则，并呼吁各国政府引入修复资金。]]></description>
+      <guid>https://t.me/hn_summary/72714</guid>
+      <pubDate>Sun, 04 Feb 2024 20:53:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章作者介绍了他们发明的一种新的机器学习算法[...]</title>
-      <link>https://t.me/hn_summary/72637</link>
-      <description><![CDATA[Show HN：我发明了一种新的机器学习算法 
-文章作者介绍了他们在尝试创建 AGI（通用人工智能）时发明的一种新的机器学习算法。他们最初专注于解决让智能体学会走向食物的问题。该设置涉及一个带有代理、食物和边界的 2D 网格。该代理能够通过光线投射“看到”其环境。该算法称为预测树，旨在让智能体根据输入和输出选择学习走向食物。作者提供了算法的可视化表示，并与代码共享了 GitHub 存储库的链接。他们还提到，他们找不到任何与他们类似的现有算法。]]></description>
-      <guid>https://t.me/hn_summary/72637</guid>
-      <pubDate>Sun, 04 Feb 2024 11:31:15 GMT</pubDate>
+      <title>[媒体]在他的著作《放慢速度：去增长宣言》中，哲学教授和马克思主义学者 [...]</title>
+      <link>https://t.me/hn_summary/72713</link>
+      <description><![CDATA[禁止私人飞机和每周工作 4 天是激进的做法– 和流行
+哲学教授兼马克思主义学者斋藤晃平在他的著作《放慢脚步：去增长宣言》中提出了一个更加可持续和公平的社会的激进愿景。斋藤认为，资本主义驱动的无情消费和生产加剧了气候危机和全球不平等。他主张去增长，即刻意收缩经济，以此作为重新分配资源并优先考虑人类福祉和地球福祉的一种方式。令人惊讶的是，齐藤的书已成为畅销书，在日本销量超过 50 万册，并受到国际关注。他讨论了为什么他的反资本主义思想引起了读者的共鸣，以及如何在实践中实施去增长。斋藤建议采取禁止私人飞机、减少过度消费、提供免费必需品和服务等措施，以实现更加可持续和稳定的生活。虽然有些人认为去增长在政治上具有挑战性且不受欢迎，但斋藤认为，随着时间的推移，价值观和原则的转变可以带来重大变化。]]></description>
+      <guid>https://t.me/hn_summary/72713</guid>
+      <pubDate>Sun, 04 Feb 2024 20:51:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者表达了他们的信念：工作应该有意义，情感应该 [...]</title>
-      <link>https://t.me/hn_summary/72636</link>
-      <description><![CDATA[你就是你所爱的
-作者表达了自己的信念：工作应该是有意义的，情感不应该与工作分离。他们不同意分析性大脑应该单独对工作环境中的行为负责的观点。作者认为，要想成就伟大、成就一番事业，就需要将情感转化为结果。他们认为，当人们不喜欢自己的工作时，他们无法隐藏，做自己喜欢的事情很重要。他们鼓励读者追求自己喜欢的事物，并感谢那些已经这样做的人。]]></description>
-      <guid>https://t.me/hn_summary/72636</guid>
-      <pubDate>Sun, 04 Feb 2024 11:25:07 GMT</pubDate>
+      <title>[媒体]本文讨论了数字表型分析在协助筛选方面的潜力[...]</title>
+      <link>https://t.me/hn_summary/72712</link>
+      <description><![CDATA[电脑眼中的自闭症
+本文讨论了数字表型分析在协助筛查和诊断自闭症方面的潜力。研究人员正在使用算法来分析腕带等可穿戴设备的数据，以预测攻击行为并跟踪自闭症特征随时间的变化。目标是为临床医生提供更多信息，帮助评估治疗效果并提高诊断准确性。然而，还有一些挑战需要克服，例如进行实时预测和确保算法的准确性。本文强调了警告系统的潜在好处，该系统使用腕带信号在麻烦发生时向佩戴者和护理人员发出警报。]]></description>
+      <guid>https://t.me/hn_summary/72712</guid>
+      <pubDate>Sun, 04 Feb 2024 20:51:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《中国物理快报》上发表的一篇论文中，研究人员提出了[...]的概念</title>
-      <link>https://t.me/hn_summary/72635</link>
-      <description><![CDATA[如何制作 Gravilaser
-在《中国物理快报》上发表的一篇论文中，研究人员提出了“引力激光”的概念，它可以通过结合引力波和电磁场之间的相互作用来产生强烈的引力波束。作者将重力激光仪与自由电子激光器 (FEL) 进行了比较，因为两者都会产生强烈的辐射束并依赖于共振条件。作者认为，重力激光有可能在实验室中产生，这为检测引力波信号带来了希望，而无需仅仅依赖太空来源。此外，这一概念可能有助于通过增强信号幅度来检测来自天体物理源的微弱引力波信号。]]></description>
-      <guid>https://t.me/hn_summary/72635</guid>
-      <pubDate>Sun, 04 Feb 2024 11:15:59 GMT</pubDate>
+      <title>[媒体]有关泰勒·斯威夫特和超级碗的阴谋论正在极右势力中传播[...]</title>
+      <link>https://t.me/hn_summary/72711</link>
+      <description><![CDATA[有关泰勒·斯威夫特和超级碗的阴谋论正在传播
+关于泰勒·斯威夫特和超级碗的阴谋论正在极右、支持唐纳德·特朗普的保守派中传播。这些理论声称，斯威夫特与堪萨斯城酋长队近端锋特拉维斯·凯尔斯的关系是一个阴谋的一部分，目的是让总统竞选对乔·拜登有利。关于斯威夫特涉嫌充当政府工厂的毫无根据的说法已经流传了一段时间，但超级碗和有争议的总统竞选的碰撞将右翼的强烈抵制推向了新的高度。对斯威夫特的关注也招致了谩骂，包括色情露骨的 Deepfake 图像的传播。]]></description>
+      <guid>https://t.me/hn_summary/72711</guid>
+      <pubDate>Sun, 04 Feb 2024 20:28:58 GMT</pubDate>
     </item>
     <item>
-      <title>此 Web 内容的作者讨论了他们对 ELF 文件的探索，作为其编译的一部分 [...]</title>
-      <link>https://t.me/hn_summary/72634</link>
-      <description><![CDATA[一个最小、完整且正确的 ELF 文件&lt; br /&gt;
-此 Web 内容的作者讨论了他们对 ELF 文件作为其自制语言编译器的一部分的探索。他们解释说，他们为 64 位 x86-64 Linux 安装手动生成了一个小 ELF 文件。作者努力寻找能够完整理解 ELF 文件结构的资源，因此他们决定使用对文件中相关字节的可点击引用来创建自己的解释。它们提供了 ELF 标头、节标头表的概述，并专门讨论了 .text 节，包括其名称、类型、标志、地址、偏移量、大小、链接、信息、地址对齐和条目大小。 （根据 29% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72634</guid>
-      <pubDate>Sun, 04 Feb 2024 10:13:37 GMT</pubDate>
+      <title>[媒体]纽约大学的物理学家声称已经解决了“反向洒水器”问题[...]</title>
+      <link>https://t.me/hn_summary/72710</link>
+      <description><![CDATA[“反向洒水器”问题的新解决方案 
+纽约大学的物理学家声称已经解决了自 20 世纪 40 年代以来一直困扰科学家的“反向喷水器”问题。该问题涉及确定如果水被吸入而不是被泵出时喷头的旋转方向。研究人员发现，反向喷头在吸水时和喷水时以相反的方向旋转，这挑战了传统观念。该研究将实验室实验与数学模型结合起来，解释反向喷头的操作。这些发现对于理解流体动力学具有重要意义，并且可以在各个行业中得到应用。]]></description>
+      <guid>https://t.me/hn_summary/72710</guid>
+      <pubDate>Sun, 04 Feb 2024 20:25:52 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：如何应对睡前报复性拖延？</title>
-      <link>https://t.me/hn_summary/72633</link>
-      <description><![CDATA[问HN：如何应对报复性就寝拖延？
-news.ycombinator.com 上这篇文章的作者是寻求有关如何克服报复性睡前拖延的建议。他们解释说，完成日常任务后，他们很难直接入睡，最后还要上网一两个小时。作者正在向经历过这种情况并成功处理该问题的其他人寻求提示和建议。]]></description>
-      <guid>https://t.me/hn_summary/72633</guid>
-      <pubDate>Sun, 04 Feb 2024 10:07:29 GMT</pubDate>
+      <title>[媒体]诈骗者利用 Deepfake 技术冒充高级管理人员并欺骗多人 [...]</title>
+      <link>https://t.me/hn_summary/72709</link>
+      <description><![CDATA[Deepfake 诈骗视频公司花费 2600 万美元：香港警方
+诈骗者利用 Deepfake 技术冒充高管，诱骗香港一家跨国公司将 2600 万美元转入指定银行账户。这是该市首批此类案件之一，凸显了虚假信息和滥用生成人工智能的可能性。诈骗者在与财务部门的一名员工进行视频电话会议时冒充该公司驻英国的首席财务官。诈骗者使用 YouTube 上公开的假冒目标视频和音频，并使用 Deepfake 技术来模仿他们的声音。调查正在进行中，尚未逮捕任何人。]]></description>
+      <guid>https://t.me/hn_summary/72709</guid>
+      <pubDate>Sun, 04 Feb 2024 20:13:43 GMT</pubDate>
     </item>
     <item>
-      <title>在 2024 年 2 月版的“问 HN：你在读什么”中，news.ycombinator.com 上的用户 [...]</title>
-      <link>https://t.me/hn_summary/72632</link>
-      <description><![CDATA[询问 HN：2024 年 2 月您在读什么&lt; br /&gt;
-在 2024 年 2 月版的“询问 HN：您在读什么”中，news.ycombinator.com 分享他们当前的书籍推荐。一位用户提到最近完成了《三体》，并形容它非常棒。另一位用户目前正全神贯注地阅读《众人的意志》，称赞它是他们一段时间以来读过的最好的奇幻小说之一。这篇文章为读者提供了一个发现新书并为他们的年度阅读目标做出贡献的机会。]]></description>
-      <guid>https://t.me/hn_summary/72632</guid>
-      <pubDate>Sun, 04 Feb 2024 10:06:23 GMT</pubDate>
+      <title>[媒体] 隆重推出 reezavatar.shop，这是一款网络应用程序，可让您将任何照片转换为 L [...]</title>
+      <link>https://t.me/hn_summary/72708</link>
+      <description><![CDATA[Show HN：制作乐高风格头像的网络应用程序/任何图片中的场景
+隆重推出 reezavatar.shop，一款可让您进行变形的网络应用将任何照片放入乐高风格的头像或场景中。只需点击几下，您就可以将自己、您的朋友甚至您的宠物变成超级酷的迷你雕像。最好的部分？已经生成了超过 10,000 个雕像头像，展示了这种独特工具的受欢迎程度和成功。无论您是乐高爱好者，还是只是在寻找一种有趣且富有创意的方式来个性化您的在线形象，reezavatar.shop 已满足您的需求。准备好以全新的乐高风格让您的照片栩栩如生！]]></description>
+      <guid>https://t.me/hn_summary/72708</guid>
+      <pubDate>Sun, 04 Feb 2024 20:05:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
