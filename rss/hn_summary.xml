@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 04 Feb 2024 09:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 12:17:53 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Control Data Corporation 6600 由 Seymour Cray 和 John Thornton 设计，是 [...]</title>
-      <link>https://t.me/hn_summary/72629</link>
-      <description><![CDATA[60位计算
-Control Data Corporation 6600 由 Seymour Cray 和 John Thornton 设计，是 1964 年至 1969 年间世界上最快的计算机。它被认为是第一台成功的超级计算机，采用 60 位架构，这在当时是独一无二的。使用 60 位而不是更常见的 64 位的决定是一个谜，因为有关决策过程的信息有限。然而，据推测，机器的成本和内存成本的潜在节省发挥了作用。 CDC 6600 提醒人们，计算机架构的选择涉及权衡，并且可以重新审视。]]></description>
-      <guid>https://t.me/hn_summary/72629</guid>
-      <pubDate>Sun, 04 Feb 2024 09:11:52 GMT</pubDate>
+      <title>[媒体] 网页内容是 Jakob Nielsen 的职业回顾，是一位用户体验 (UX) 专家 [...]</title>
+      <link>https://t.me/hn_summary/72641</link>
+      <description><![CDATA[41 年用户体验：职业回顾
+该网络内容是 Jakob Nielsen 的职业回顾，他是一位用户体验 (UX) 专家，自 1983 年以来一直在该领域工作。作者讨论了 Nielsen 从学术界到实践的旅程，并强调了他的使命：让计算机适合人类并让他们感到愉悦。尼尔森早期使用计算机的经历，包括在高中使用过时的计算机以及在大学使用强大的大型机时令人沮丧的用户体验，影响了他专注于用户体验的决定。作者还提到了 Nielsen 担任大学教授的经历以及他在 Bellcore 和 Sun Microsystems 推进用户体验方面的贡献。重点介绍了尼尔森的三项主要成就：折扣可用性、《设计 Web 可用性》一书以及 10 种可用性启发法的开发。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72641</guid>
+      <pubDate>Sun, 04 Feb 2024 12:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>作者分享了他们与健康保险公司 Anthem 打交道的个人经验 [...]</title>
-      <link>https://t.me/hn_summary/72628</link>
-      <description><![CDATA[如何在 666 天内更换 CPAP&lt; br/&gt;
-作者分享了他们在尝试更换 CPAP 机器时与健康保险公司 Anthem 打交道的个人经历。他们描述了他们所经历的令人沮丧和官僚程序，包括被转介给多个提供商、遇到无助的客户服务代表以及他们的索赔被错误地视为上诉。作者为其他处理类似情况的人提供了建议，例如记录一切并升级投诉。这个故事强调了与保险公司打交道的困难和挑战，以及更好的客户支持和沟通的需要。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72628</guid>
-      <pubDate>Sun, 04 Feb 2024 09:08:45 GMT</pubDate>
+      <title>[媒体] 作者讨论了 C++ 编程中正确使用头文件的重要性。</title>
+      <link>https://t.me/hn_summary/72640</link>
+      <description><![CDATA[#include 
+作者讨论了 C++ 编程中正确使用头文件的重要性。他们解释说，包含太多头文件可能会导致编译时间更长，并且每个文件应包含所需的最少量文件。作者还强调了自包含标头的必要性以及包含所有依赖标头的必要性。它们提供了使用前向声明和避免重型平台文件的指南。作者建议使用 #pragma Once 或标头防护来防止多次包含标头。他们还讨论了一致的包含路径的重要性，并建议使用预处理器输出和代码库统计信息来优化代码库。]]></description>
+      <guid>https://t.me/hn_summary/72640</guid>
+      <pubDate>Sun, 04 Feb 2024 12:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容的作者分享了他们尝试自动化他们的 [...]</title>
-      <link>https://t.me/hn_summary/72627</link>
-      <description><![CDATA[我尝试过自动化生活，但失败了
-该网络内容的作者分享了他们尝试使用技术自动化家务和任务的经验。他们解释了如何创建一个名为 Honeydew 的系统，该系统可以跟踪家庭的家务、项目和膳食。该系统采用了Typescript、Vue、Cloudflare KV等技术。然而，作者反思了技术在激励和提醒他们完成任务方面的局限性。他们讨论了通知的挑战以及让人们根据短信采取行动的困难。尽管有这些限制，作者并不后悔构建 Honeydew，并强调了使用 typescript 和 Cloudflare 产品的好处。本文的要点是提出想法并尝试它们，即使它们可能无法按预期工作。]]></description>
-      <guid>https://t.me/hn_summary/72627</guid>
-      <pubDate>Sun, 04 Feb 2024 08:42:31 GMT</pubDate>
+      <title>[媒体]地方新闻编辑室的倒闭对[...]的国有化产生了重大影响</title>
+      <link>https://t.me/hn_summary/72639</link>
+      <description><![CDATA[地方新闻编辑室的崩溃如何使所有政治变得国家化 
+地方新闻编辑室的崩溃对政治国有化产生了重大影响。由于当地新闻媒体被掏空，选民对当地问题的了解越来越少，候选人与当地媒体接触并解决当地问题的动力也减弱。 《得梅因纪事报》和《工会领袖》等报纸的衰落导致其影响力下降，对当地重要问题的报道也减少。在最近的选举周期中观察到了这种趋势，唐纳德·特朗普和皮特·布蒂吉格等候选人更多地关注国家媒体，而不是地方媒体。当地媒体的衰弱使得候选人忽视它们并优先考虑全国报道。]]></description>
+      <guid>https://t.me/hn_summary/72639</guid>
+      <pubDate>Sun, 04 Feb 2024 11:52:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者讨论了他们创建智能插座的 DIY 项目 [...]</title>
-      <link>https://t.me/hn_summary/72626</link>
-      <description><![CDATA[ESP8266 DIY智能插座（2017）
-该网页内容的作者讨论了他们使用 AUKEY 充电器和 ESP8266 创建智能插座的 DIY 项目。它们就高压工作和篡改设备的危险发出警告。作者解释了智能插座的设计和电路，包括使用固态继电器来切换电流。他们还提供了如何破解充电器和组装插座的分步指南。作者提到他们打算在未来进一步改进设计。内容还提到了将智能插座与 Alexa 或 Google Home 等软件和智能扬声器集成的可能性。]]></description>
-      <guid>https://t.me/hn_summary/72626</guid>
-      <pubDate>Sun, 04 Feb 2024 07:12:00 GMT</pubDate>
+      <title>[媒体]令人担忧的是，包括 Google、TikTok 和 Meta 在内的主要组织 [...]</title>
+      <link>https://t.me/hn_summary/72638</link>
+      <description><![CDATA[Infostealer 感染导致 Google、TikTok 和 Meta LESP 遭到黑客攻击&lt; /a&gt;
+令人担忧的是，随着威胁行为者侵入其执法系统，包括谷歌、TikTok 和 Meta 在内的主要组织都成为黑客攻击的受害者。这使得他们能够合法地索取用户的个人详细信息，从而导致身份盗窃、勒索和经济损失。这位被称为“Tamagami”的黑客正试图通过出售完整帐户访问权限并提供一次性传票请求来收取费用，从而将这种访问权限货币化。此次泄露被认为是 Infostealer 感染造成的，谷歌执法系统的 50 多组凭据可追溯到受感染的员工。 Hudson Rock 研究人员正在努力缓解该问题并向受影响的组织提供道德披露。]]></description>
+      <guid>https://t.me/hn_summary/72638</guid>
+      <pubDate>Sun, 04 Feb 2024 11:32:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么鼠标光标稍微倾斜而不是直的？</title>
-      <link>https://t.me/hn_summary/72625</link>
-      <description><![CDATA[为什么鼠标光标稍微倾斜而不是直的？
-由于我们的大脑处理视觉信息的方式，鼠标光标稍微倾斜而不是笔直。我们大脑中的初级视觉皮层和 V2 区域识别低级视觉特征，例如色调、亮度、大小和方向。一些视觉不规则性（称为弹出效果）具有高度可区分性，有助于视觉搜索。其中一个不规则性是方向，其中更容易在一组直线或相同角度的倾斜线中找到倾斜线。由于垂直和水平方向在屏幕上更常见，因此更容易找到倾斜的鼠标指针。这些信息可以在 Ware 2008 的《视觉设计思维》第二章中找到。]]></description>
-      <guid>https://t.me/hn_summary/72625</guid>
-      <pubDate>Sun, 04 Feb 2024 07:04:51 GMT</pubDate>
+      <title>[媒体]文章作者介绍了他们发明的一种新的机器学习算法[...]</title>
+      <link>https://t.me/hn_summary/72637</link>
+      <description><![CDATA[Show HN：我发明了一种新的机器学习算法 
+文章作者介绍了他们在尝试创建 AGI（通用人工智能）时发明的一种新的机器学习算法。他们最初专注于解决让智能体学会走向食物的问题。该设置涉及一个带有代理、食物和边界的 2D 网格。该代理能够通过光线投射“看到”其环境。该算法称为预测树，旨在让智能体根据输入和输出选择学习走向食物。作者提供了算法的可视化表示，并与代码共享了 GitHub 存储库的链接。他们还提到，他们找不到任何与他们类似的现有算法。]]></description>
+      <guid>https://t.me/hn_summary/72637</guid>
+      <pubDate>Sun, 04 Feb 2024 11:31:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了软件修复权的重要性及其对[...]</title>
-      <link>https://t.me/hn_summary/72624</link>
-      <description><![CDATA[没有软件修复权限，您的设备就不安全
-文章讨论了软件修复权的重要性及其对设备安全的影响。它强调了一个现实场景：婴儿监视器被发现存在严重的安全漏洞，但制造商拒绝提供修复程序或该设备运行的 Linux 的完整源代码。随着越来越多的人依赖运行 Copyleft 代码的设备，这种情况变得越来越普遍。软件自由保护协会强调，公司需要紧急对待软件修复合规性的权利，因为这是用户保护自己免受网络安全威胁的主要方式。本文还介绍了使用 The Source 软件权利修复工具，并建议公司的 OSPO 或网络安全团队中加入 Copyleft 合规事件响应团队 (CCIRT)，以及时解决合规问题。]]></description>
-      <guid>https://t.me/hn_summary/72624</guid>
-      <pubDate>Sun, 04 Feb 2024 07:02:45 GMT</pubDate>
+      <title>[媒体]作者表达了他们的信念：工作应该有意义，情感应该 [...]</title>
+      <link>https://t.me/hn_summary/72636</link>
+      <description><![CDATA[你就是你所爱的
+作者表达了自己的信念：工作应该是有意义的，情感不应该与工作分离。他们不同意分析性大脑应该单独对工作环境中的行为负责的观点。作者认为，要想成就伟大、成就一番事业，就需要将情感转化为结果。他们认为，当人们不喜欢自己的工作时，他们无法隐藏，做自己喜欢的事情很重要。他们鼓励读者追求自己喜欢的事物，并感谢那些已经这样做的人。]]></description>
+      <guid>https://t.me/hn_summary/72636</guid>
+      <pubDate>Sun, 04 Feb 2024 11:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者表达了对纸质报纸的喜爱并回忆了他们的经历 [...]</title>
-      <link>https://t.me/hn_summary/72623</link>
-      <description><![CDATA[致所有我喜欢的报纸
-作者表达了对纸质报纸的喜爱，并回忆了自己一生与各种报纸接触的经历。他们提到印刷报纸的衰落取而代之的是数字媒体，但表示他们仍然偏爱纸质报纸。作者强调了不同报纸的独特品质，例如《政治报》的字体和气味以及纽约小报的直接性。他们还提到客观报道在经济学中的重要性，并赞扬《华尔街日报》的准确性。作者最后提到西班牙是一个仍然广泛使用印刷报纸的国家。]]></description>
-      <guid>https://t.me/hn_summary/72623</guid>
-      <pubDate>Sun, 04 Feb 2024 06:09:23 GMT</pubDate>
+      <title>[媒体]在《中国物理快报》上发表的一篇论文中，研究人员提出了[...]的概念</title>
+      <link>https://t.me/hn_summary/72635</link>
+      <description><![CDATA[如何制作 Gravilaser
+在《中国物理快报》上发表的一篇论文中，研究人员提出了“引力激光”的概念，它可以通过结合引力波和电磁场之间的相互作用来产生强烈的引力波束。作者将重力激光仪与自由电子激光器 (FEL) 进行了比较，因为两者都会产生强烈的辐射束并依赖于共振条件。作者认为，重力激光有可能在实验室中产生，这为检测引力波信号带来了希望，而无需仅仅依赖太空来源。此外，这一概念可能有助于通过增强信号幅度来检测来自天体物理源的微弱引力波信号。]]></description>
+      <guid>https://t.me/hn_summary/72635</guid>
+      <pubDate>Sun, 04 Feb 2024 11:15:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了 2024 年 1 月 AI 研究论文的最新进展，重点 [...]</title>
-      <link>https://t.me/hn_summary/72622</link>
-      <description><![CDATA[2024年1月人工智能研究论文：模型合并、专家混合、较小的法学硕士
-该文章讨论了 2024 年 1 月人工智能研究论文的最新进展，重点关注改进和缩小大型语言模型 (LLM) 规模的主题。它重点介绍了四篇论文，探讨了实现这一目标的不同方法。第一篇论文介绍了权重平均和模型合并技术，可将多个 LLM 组合成一个更好的模型，而不会增加资源需求。第二篇论文提出了代理调整，这是一种在不改变权重的情况下增强大型 LLM 的方法。第三篇论文探讨了通过组合较小的模块来创建专家混合模型，从而产生更高效和有效的法学硕士。第四篇论文讨论了对较小的法学硕士进行预培训以降低成本和实现新应用程序的好处。本文概述了权重平均和模型合并技术，并解释了它们如何提高训练收敛性、性能和鲁棒性。它还讨论了 WARM 论文，该论文提出了 LLM 奖励模型的权重平均，以解决奖励黑客问题。文章最后提到了 LLM 中模型合并的广阔前景，以及代理调整在提高各种场景下 LLM 性能方面的积极成果。 （根据故事文本的 36% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72622</guid>
-      <pubDate>Sun, 04 Feb 2024 05:57:11 GMT</pubDate>
+      <title>此 Web 内容的作者讨论了他们对 ELF 文件的探索，作为其编译的一部分 [...]</title>
+      <link>https://t.me/hn_summary/72634</link>
+      <description><![CDATA[一个最小、完整且正确的 ELF 文件&lt; br /&gt;
+此 Web 内容的作者讨论了他们对 ELF 文件作为其自制语言编译器的一部分的探索。他们解释说，他们为 64 位 x86-64 Linux 安装手动生成了一个小 ELF 文件。作者努力寻找能够完整理解 ELF 文件结构的资源，因此他们决定使用对文件中相关字节的可点击引用来创建自己的解释。它们提供了 ELF 标头、节标头表的概述，并专门讨论了 .text 节，包括其名称、类型、标志、地址、偏移量、大小、链接、信息、地址对齐和条目大小。 （根据 29% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72634</guid>
+      <pubDate>Sun, 04 Feb 2024 10:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple Vision Pro：漫画书怎么样？</title>
-      <link>https://t.me/hn_summary/72621</link>
-      <description><![CDATA[Apple Vision Pro：漫画书怎么样？&lt; br/&gt;
-作者讲述了他们在高分辨率 VR/AR 设备 Apple Vision Pro 上阅读漫画的体验。他们解释说，由于两页体验受到影响，在笔记本电脑或 iPad 上阅读漫画与阅读实体漫画书不同。然而，使用 Vision Pro 时，屏幕会充满视野，从而带来身临其境的阅读体验。作者提到了图书应用程序中交互和翻页的一些问题，但相信这些问题将在未来的更新中得到解决。他们还提到了在 VR 空间中呈现漫画的创新方式的潜力。]]></description>
-      <guid>https://t.me/hn_summary/72621</guid>
-      <pubDate>Sun, 04 Feb 2024 05:07:49 GMT</pubDate>
+      <title>问 HN：如何应对睡前报复性拖延？</title>
+      <link>https://t.me/hn_summary/72633</link>
+      <description><![CDATA[问HN：如何应对报复性就寝拖延？
+news.ycombinator.com 上这篇文章的作者是寻求有关如何克服报复性睡前拖延的建议。他们解释说，完成日常任务后，他们很难直接入睡，最后还要上网一两个小时。作者正在向经历过这种情况并成功处理该问题的其他人寻求提示和建议。]]></description>
+      <guid>https://t.me/hn_summary/72633</guid>
+      <pubDate>Sun, 04 Feb 2024 10:07:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本宇宙航空研究开发机构 (JAXA) 已成功着陆其智能土地 [...]</title>
-      <link>https://t.me/hn_summary/72620</link>
-      <description><![CDATA[月球上第一个业余无线电台 JS1YMG 正在发射
-日本宇宙航空研究开发机构（JAXA）已成功将月球勘测智能着陆器（SLIM）着陆在月球上，使日本成为第五个在月球表面实现软着陆的国家。作为任务的一部分，两个小型月球表面探测器 LEV-1 和 LEV-2 在着陆前释放。 LEV-1 已获得业余无线电许可证 JS1YMG，目前正在 437.41 MHz 上传输莫尔斯电码。业余无线电爱好者一直在分析信号并提取代码串。由于 SLIM 的设计不能适应月球之夜，因此无法确定信号会持续多久。]]></description>
-      <guid>https://t.me/hn_summary/72620</guid>
-      <pubDate>Sun, 04 Feb 2024 04:42:37 GMT</pubDate>
+      <title>在 2024 年 2 月版的“问 HN：你在读什么”中，news.ycombinator.com 上的用户 [...]</title>
+      <link>https://t.me/hn_summary/72632</link>
+      <description><![CDATA[询问 HN：2024 年 2 月您在读什么&lt; br /&gt;
+在 2024 年 2 月版的“询问 HN：您在读什么”中，news.ycombinator.com 分享他们当前的书籍推荐。一位用户提到最近完成了《三体》，并形容它非常棒。另一位用户目前正全神贯注地阅读《众人的意志》，称赞它是他们一段时间以来读过的最好的奇幻小说之一。这篇文章为读者提供了一个发现新书并为他们的年度阅读目标做出贡献的机会。]]></description>
+      <guid>https://t.me/hn_summary/72632</guid>
+      <pubDate>Sun, 04 Feb 2024 10:06:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

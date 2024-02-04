@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 04 Feb 2024 09:12:00 GMT</lastBuildDate>
-    <item>
-      <title>为什么许多科技项目要求支持乌克兰而不是巴勒斯坦</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aij79h/why_do_many_tech_project_ask_support_for_ukraine/</link>
-      <description><![CDATA[ 由   提交/u/beastmastah_64  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aij79h/why_do_many_tech_project_ask_support_for_ukraine/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:28:24 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Feb 2024 12:18:43 GMT</lastBuildDate>
     <item>
       <title>Renity：二进制协议缓冲区</title>
       <link>https://www.reddit.com/r/opensource/comments/1aihhbr/renity_binary_protocol_buffer/</link>
@@ -22,7 +15,7 @@
     <item>
       <title>RSGL，我的轻量级纯标头 GUI 库</title>
       <link>https://www.reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/</link>
-      <description><![CDATA[RSGL 是我一直致力于开发的一个开源、轻量级、仅包含标头的 GUI 库。它的主要重点是易于使用和用户友好，同时也便于携带且相对轻便。它可用于轻松创建 GUI 应用程序和游戏。我尝试将低级 GUI 库的自由度与现代 C 技术结合起来，提供简单性、便利性和一定程度的模块化。 RSGL 实现这一目标的主要方式部分是通过使用其他开源单头库（其中大部分是我做的），都有相似的设计理念，我制作并合并了它们。其中包括，RGFW -&gt;轻量级/易于使用 GLFW 替代品 RGL -&gt; OpenGL版本抽象层（类似raylib的RLGL） RFont -&gt;一个简单易用的模块化字体渲染库 Silicon.h -&gt;单头 cocoa (macos) API 轻型包装器，因此可以在纯 C 中使用 stb_image -&gt;非常著名的单头库，我的库的设计理念的灵感来自于 miniaudio.h -&gt;单头音频播放库 RSGL 与 raylib 非常相似，但它试图更加轻量级和现代化。 RSGL 可以在这里找到：https://github.com/ColleagueRiley/RSGL   由   提交 /u/Comrade-Riley    reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[RSGL 是我一直致力于开发的一个开源、轻量级、仅包含标头的 GUI 库。它的主要重点是易于使用和用户友好，同时也便于携带且相对轻便。它可用于轻松创建 GUI 应用程序和游戏。我尝试将底层 GUI 库的自由度与现代 C 技术结合起来，提供简单性、便利性和一定程度的模块化。 RSGL 实现这一目标的主要方式部分是通过使用其他开源单头库（其中大部分是我做的），都有相似的设计理念，我制作并合并了它们。其中包括，RGFW -&gt;轻量级/易于使用 GLFW 替代品 RGL -&gt; OpenGL版本抽象层（类似raylib的RLGL） RFont -&gt;一个简单易用的模块化字体渲染库 Silicon.h -&gt;单头 cocoa (macos) API 轻型包装器，因此可以在纯 C 中使用 stb_image -&gt;非常著名的单头库，我的库的设计理念的灵感来自于 miniaudio.h -&gt;单头音频播放库 RSGL 与 raylib 非常相似，但它试图更加轻量级和现代化。 RSGL 可以在这里找到：https://github.com/ColleagueRiley/RSGL   由   提交 /u/Comrade-Riley    reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aieact/rsgl_my_lightweight_headeronly_gui_library/</guid>
       <pubDate>Sun, 04 Feb 2024 03:29:30 GMT</pubDate>
     </item>
@@ -85,7 +78,7 @@
     <item>
       <title>我们刚刚开源了 Yokai：一个简单、模块化、可观察的 Go 框架。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ahg189/we_just_open_sourced_yokai_a_simple_modular_and/</link>
-      <description><![CDATA[大家好！ 我们刚刚发布了 Yokai：https://github.com/ankorstore/yokai 在我们公司，我们开始部署 Go 服务。我们的开发人员池主要是面向 PHP 的，因此我们（平台团队）决定通过提供 Go 工具集来简化这一转变，随着时间的推移，这些工具集成为了一个框架。我们决定将其开源。 Yokai 的主要思想： - 简单：易于使用、配置和测试，并带有自动依赖注入系统 - 模块化：您可以安装可用的 Yokai 模块来扩展您的应用程序，或创建自己的模块 - 可观察性：我们非常关注可观察性工具（日志、跟踪、指标、健康检查） 它是在考虑 k8s 运行时的情况下制作的，但您可以在任何地方运行它。 您可以在文档中找到 GitHub 模板来轻松启动您的项目，以及一个展示室演示应用程序，看看它是什么样子。 我希望您可能对此感兴趣，请随时提供反馈！   由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我们刚刚发布了 Yokai：https://github.com/ankorstore/yokai 在我们公司，我们开始部署 Go 服务。我们的开发人员池主要是面向 PHP 的，因此我们（平台团队）决定通过提供 Go 工具集来简化这种过渡，随着时间的推移，这些工具集成为了一个框架。我们决定将其开源。 Yokai 的主要思想： - 简单：易于使用、配置和测试，并带有自动依赖注入系统 - 模块化：您可以安装可用的 Yokai 模块来扩展您的应用程序，或创建自己的模块 - 可观察性：我们非常关注可观察性工具（日志、跟踪、指标、健康检查） 它是在考虑 k8s 运行时的情况下制作的，但您可以在任何地方运行它。 您可以在文档中找到 GitHub 模板来轻松启动您的项目，以及一个展示室演示应用程序，看看它是什么样子。 我希望您可能对此感兴趣，请随时提供反馈！   由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ahg189/we_just_open_sourced_yokai_a_simple_modular_and/</guid>
       <pubDate>Fri, 02 Feb 2024 22:21:46 GMT</pubDate>
     </item>
@@ -99,7 +92,7 @@
     <item>
       <title>Synmetrix – 开源语义层</title>
       <link>https://www.reddit.com/r/opensource/comments/1ah4hb0/synmetrix_open_source_semantic_layer/</link>
-      <description><![CDATA[嘿 /r/opensource 亲爱的！为了我们社区的利益，我投资了 10 万美元来开发这个开源项目。如果您能在这里查看，我会很高兴：https://github.com/mlcraft-io/mlcraft 。我们才刚刚开始，您的见解和反馈对我们至关重要。 隆重推出 Synmetrix（以前称为 MLCraft），它是一个创新的开源数据工程平台和用于集中管理指标的语义层。它旨在提供一整套用于大规模建模、集成、转换、聚合和分发指标数据的套件。 以下是您可以利用 Synmetrix 的一些方法： *商业智能：使用 YAML 语义层制定指标和数据关系，然后通过 SQL API 将其应用于 SuperSet、Tableau、PowerBi 甚至 Excel 等工具。 * 数据工程：动态转换数据并将其分发给用户。 * 数据科学：使用 Synmetrix 作为单一事实来源来定义窗口指标、连接和自定义维度。 * 异常检测：通过“警报”密切关注您的指标功能。 * 报告：通过 Slack、电子邮件或简单的 Webhook 简化报告发送。  可能性远远不止于此。请务必访问登陆页面以获取更多详细信息。我们热切期待您的反馈，以帮助完善和扩展该项目。分享您的想法、建议以及遇到的任何挑战。真的很感谢大家！谢谢！   由   提交/u/lupsikpupsik  [链接] [评论]]]></description>
+      <description><![CDATA[嘿 /r/opensource 亲爱的！为了我们社区的利益，我投资了 10 万美元来开发这个开源项目。如果您能在这里查看，我会很高兴：https://github.com/mlcraft-io/mlcraft 。我们才刚刚开始，您的见解和反馈对我们至关重要。 隆重推出 Synmetrix（以前称为 MLCraft），这是一个创新的开源数据工程平台和用于集中管理指标的语义层。它旨在提供一整套用于大规模建模、集成、转换、聚合和分发指标数据的套件。 以下是您可以利用 Synmetrix 的一些方法： *商业智能：使用 YAML 语义层制定指标和数据关系，然后通过 SQL API 将其应用于 SuperSet、Tableau、PowerBi 甚至 Excel 等工具。 * 数据工程：动态转换数据并将其分发给用户。 * 数据科学：使用 Synmetrix 作为单一事实来源来定义窗口指标、连接和自定义维度。 * 异常检测：通过“警报”密切关注您的指标功能。 * 报告：通过 Slack、电子邮件或简单的 Webhook 简化报告发送。  可能性远远不止于此。请务必访问登陆页面以获取更多详细信息。我们热切期待您的反馈，以帮助完善和扩展该项目。分享您的想法、建议以及遇到的任何挑战。真的很感谢大家！谢谢！   由   提交/u/lupsikpupsik  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ah4hb0/synmetrix_open_source_semantic_layer/</guid>
       <pubDate>Fri, 02 Feb 2024 14:07:01 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[正在寻找餐厅接待台的餐桌管理系统。不需要在线预订功能。有人知道吗？   由   提交 /u/ishtama   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ah3t2b/restaurant_table_management/</guid>
       <pubDate>Fri, 02 Feb 2024 13:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲监管机构听取了开源社区的意见</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ah0ran/the_european_regulators_listened_to_the_open/</link>
+      <description><![CDATA[    /u/jlpcsl   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ah0ran/the_european_regulators_listened_to_the_open/</guid>
+      <pubDate>Fri, 02 Feb 2024 10:35:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
