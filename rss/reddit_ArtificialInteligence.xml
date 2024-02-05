@@ -4,18 +4,67 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 03:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 06:14:17 GMT</lastBuildDate>
+    <item>
+      <title>在本地运行开源模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9otx/running_opensource_models_locally/</link>
+      <description><![CDATA[我有一个客户，由于非常敏感的信息，需要使用在自己的基础设施中运行的开源 AI 模型。我写了这篇关于如何设置本地开源人工智能模型并将其集成到您的应用程序中的文章。主要面向 Ruby 开发人员，但将向任何开发人员展示如何下载开源 AI 模型。 https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby   由   提交 /u/Commercial_Animator1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9otx/running_opensource_models_locally/</guid>
+      <pubDate>Mon, 05 Feb 2024 06:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>非程序员如何使用 Github 或 Hugging Face 构建 AI 模型？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9g4r/how_does_a_nonprogrammer_use_github_or_hugging/</link>
+      <description><![CDATA[我是这两个网站的新手，经常看到人们在 Huggingface 或 Github 上发布有关使用这个或那个 AI 模型的帖子。我不知道如何使用它们，因为我看到的屏幕似乎是程序员而不是用户。任何使用这些的帮助或指南/链接都会非常有帮助，谢谢。   由   提交/u/BinkySmales  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj9g4r/how_does_a_nonprogrammer_use_github_or_hugging/</guid>
+      <pubDate>Mon, 05 Feb 2024 05:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能对音乐的干预</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj95ji/ai_intervention_with_music/</link>
+      <description><![CDATA[我正在玩，让 AI 为我写歌，甚至混搭艺术家等。有什么方法可以添加人声和声音吗？  如果能够根据某人的具体需求创作超级定制的音乐，那将是令人惊奇的   由   提交/u/AHART01  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj95ji/ai_intervention_with_music/</guid>
+      <pubDate>Mon, 05 Feb 2024 05:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿有什么好的 github 仓库吗</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/</link>
+      <description><![CDATA[您好，我正在为 AI 寻找一个好的 Github 存储库，以便我可以根据 PDF 和文章等信息进行训练？   由   提交 /u/Mean-Archer4979    reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8z5x/hey_are_there_any_good_github_repos/</guid>
+      <pubDate>Mon, 05 Feb 2024 05:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>由我们组成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8u3q/made_of_us/</link>
+      <description><![CDATA[通过大型语言模型实现的人工智能并不是一项外星技术。恰恰相反。 我们通过法学硕士发现，实际的演讲再次变得重要。我们正在超越代码，回归语言的全部力量。  这些模型对诗歌、细微差别和暗示都有反应。它们融入了人类意图的微妙之处。 我们可以询问两个端点之间的基本原理，然后寻求变化，然后将隐藏在我们集体历史中的那些扩展周期自动化，以推断出其他查询。其深度和复杂性是取之不尽、用之不竭、令人难以忘怀的。 虽然一开始我们是用 json 格式和编码逻辑来接触它们的，但这些模型是在整个人类书写的基础上进行训练的，因此非常敏锐并且能够找到目的。从简单的散文、讲故事等等。 我们正在重新探索所体现的人类心理学、历史、科学、数学和哲学。  无论好坏，他们都有我们的一切能力，因为它是由我们组成的。   由   提交/u/Motor_System_6171   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj8u3q/made_of_us/</guid>
+      <pubDate>Mon, 05 Feb 2024 05:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 Ai 聊天机器人。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj7dry/creation_of_ai_chatbot/</link>
+      <description><![CDATA[当我听说character.ai 时，我真的很惊讶。我意识到它不支持 nfsw，所以我上网并尝试了解更多有关此类聊天机器人的信息，这些聊天机器人在成为 nfsw 的同时也可以与我一起进行角色扮演，我尝试了其中的一些，例如rushon、看门人和我的然后我最喜欢的 yodayo 对于免费用户来说非常令人印象深刻。该应用程序还引导用户从基础创建自己的角色和角色。  现在我想在我的电脑上本地运行这样的聊天机器人，所以我再次上网了解更多详细信息，我遇到了Hammer Ai，这确实是一个很好的程序，它有非常简单的用户界面，可以让你下载各种模型并创建可以通过电脑保密的角色。 我也喜欢 Hammer Ai，因为一切都是私人的并且仅限于我自己，但它是在我的电脑上，我想要在我的手机上有类似的东西，现在我知道在移动设备上本地运行这样的机器人是不可能的，但我想要一个自己的应用程序，就像其他应用程序一样，但很简单，并且仅限于我只有一个角色，即使为此我上网我问了吟游诗人，chatgpt，甚至谷歌也搜索了它，但是他们的解释对我来说太模糊和复杂，我什至无法开始， 我很好奇有人可以解释一下达到我的最终目标的过程或路径是什么吗？   由   提交/u/le0nytas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj7dry/creation_of_ai_chatbot/</guid>
+      <pubDate>Mon, 05 Feb 2024 03:59:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​4/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj6wdb/oneminute_daily_ai_news_242024/</link>
+      <description><![CDATA[ 人工智能有助于揭示花卉色彩的古老起源故事。[1] OnePlus 11 和 OnePlus 12 通过最新更新获得新的人工智能功能。[2] Google Bard 可能很快就会成为 Gemini，并出现在更多应用程序中。[3] 富士康预计 2024 年会“稍微好一点”，并警告人工智能芯片短缺。[4]  来源包括：https://bushaicave.com/2024/02/04/2-4-2024/ &lt; /div&gt;  由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj6wdb/oneminute_daily_ai_news_242024/</guid>
+      <pubDate>Mon, 05 Feb 2024 03:33:21 GMT</pubDate>
+    </item>
     <item>
       <title>RVC 模型不再有效</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aj16yr/rvc_model_no_longer_working/</link>
-      <description><![CDATA[嗨， 我一直在 https://www.weights.gg/models/clm72o7960duecctcdjl7hjk1 在过去几个月中取得了良好的成绩。突然，当我使用这个模型时，输出不清晰且断断续续。 ​ 同一模型会突然停止工作是否有原因？我在我的音频样本上使用了其他模型，并且输出很好，所以我认为问题出在模型上。任何见解将不胜感激。   由   提交 /u/Strayriffs   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我一直在 https://www.weights.gg/models/clm72o7960duecctcdjl7hjk1 在过去几个月中取得了良好的成绩。突然，当我使用这个模型时，输出不清晰且断断续续。 ​ 同一模型会突然停止工作是否有原因？我在音频样本上使用了其他模型，并且输出正常，因此我认为问题出在模型上。任何见解将不胜感激。   由   提交 /u/Strayriffs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aj16yr/rvc_model_no_longer_working/</guid>
       <pubDate>Sun, 04 Feb 2024 22:57:20 GMT</pubDate>
     </item>
     <item>
       <title>欺骗行为，包括加倍撒谎，已被证明在现代领先的法学硕士中自发出现。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aizsht/deceptive_behavior_including_doubling_down_on_the/</link>
-      <description><![CDATA[在 https://arxiv.org/abs 中找到该论文/2311.07590  摘要： 我们展示了一种情况，在这种情况下，大型语言模型经过训练是有帮助的、无害的和诚实的，可以表现出不协调的行为并有策略地欺骗他们的语言模型。用户在未经指示的情况下了解此行为。具体来说，我们在现实的模拟环境中将 GPT-4 部署为代理，并承担自主股票交易代理的角色。在这种环境下，该模型获得了有关利润丰厚的股票交易的内幕消息，并据此采取行动，尽管知道公司管理层不赞成内幕交易。当向经理报告时，该模型始终隐藏其交易决策背后的真正原因。我们对这种行为在设置更改时如何变化进行了简短的调查，例如删除模型对推理暂存器的访问权限，尝试通过更改系统指令来防止错位行为，改变模型承受的压力大小，改变感知被抓住的风险，以及对环境进行其他简单的改变。据我们所知，这是大型语言模型的首次演示，该模型被训练为有用、无害和诚实，在没有直接指示或欺骗训练的情况下，在现实情况下有策略地欺骗用户。   由   提交/u/Rick12334th  [链接] [评论]]]></description>
+      <description><![CDATA[在 https://arxiv.org/abs 中找到该论文/2311.07590  摘要： 我们展示了一种情况，在这种情况下，大型语言模型经过训练是有帮助的、无害的和诚实的，可以表现出不协调的行为并有策略地欺骗他们的语言模型。用户在未经指示的情况下了解此行为。具体来说，我们在现实的模拟环境中将 GPT-4 部署为代理，并承担自主股票交易代理的角色。在这种环境下，该模型获得了有关利润丰厚的股票交易的内幕消息，并据此采取行动，尽管知道公司管理层不赞成内幕交易。当向经理报告时，该模型始终隐藏其交易决策背后的真正原因。我们对这种行为在设置变化时如何变化进行了简短的调查，例如删除模型对推理暂存器的访问权限，尝试通过更改系统指令来防止错位行为，改变模型承受的压力大小，改变感知被抓住的风险，以及对环境进行其他简单的改变。据我们所知，这是大型语言模型的首次演示，该模型被训练为有用、无害和诚实，在没有直接指示或欺骗训练的情况下，在现实情况下有策略地欺骗用户。   由   提交/u/Rick12334th  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aizsht/deceptive_behavior_including_doubling_down_on_the/</guid>
       <pubDate>Sun, 04 Feb 2024 21:57:56 GMT</pubDate>
     </item>
@@ -34,41 +83,6 @@
       <pubDate>Sun, 04 Feb 2024 15:58:33 GMT</pubDate>
     </item>
     <item>
-      <title>寻找公司徽标的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ainmm3/looking_for_an_ai_for_company_logo/</link>
-      <description><![CDATA[我已经让青少年测试了一些，但我发现它们在创造力方面非常有限。 任何想法？   由   提交/u/Slow_Zone8462   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ainmm3/looking_for_an_ai_for_company_logo/</guid>
-      <pubDate>Sun, 04 Feb 2024 13:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费AI爆头推荐！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ainkrb/free_ai_headshot_recs/</link>
-      <description><![CDATA[我最近想开始正式工作，有什么免费的AI头像生成器推荐？我需要免费的，因为我不是很富有。   由   提交 /u/Pureraindrop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ainkrb/free_ai_headshot_recs/</guid>
-      <pubDate>Sun, 04 Feb 2024 13:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以在不使用自动调谐的情况下使用 AI 更改歌曲的歌词？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ainke8/is_it_possible_to_change_the_lyrics_of_a_song/</link>
-      <description><![CDATA[嗨，我正在用人工智能制作一首愚蠢的模仿歌曲，我已经尝试过这个：  在 Elevenlabs 中添加模仿歌词作为输入，然后将这个简单声音与背景音乐合并。当然，没有曲子，它只是对嘻哈歌曲起作用 使用原始语音剪辑（没有背景音乐）作为ElevenLabs 中的输入。新的声音或多或少保持了曲调，但歌词当然没办法改变  是否可以两者兼得？新的声音和新的歌词，保持曲调，不乱用自动调谐。 当然，我说的是模因级音乐。 干杯！  div&gt;  由   提交 /u/thepuggo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ainke8/is_it_possible_to_change_the_lyrics_of_a_song/</guid>
-      <pubDate>Sun, 04 Feb 2024 13:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自动化我的交易业务工作流程？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ailc02/how_to_automate_my_workflow_for_my_trading/</link>
-      <description><![CDATA[我经营一家贸易公司，工作流程是这样的：这是基于印度的。   有人在 WhatsApp 上联系我，要求创建一个具有一定余额（例如卢比）的 ID/帐户。 1000。 我向他发送了一个银行帐户，他将钱转入该帐户。 我验证交易是否有效已完成上述金额。 我创建他的 ID 并将其连同密码和用户名一起发送给他。  他使用该 ID 来预订交易。他可以在这些交易中赚钱或亏损。  当他愿意时，他可以提取金额。当他想取款时，他可以把钱取出来。  当他想要提款时，他将他想要提款的金额发送给我，我确定并验证他的帐户是否有所述余额，然后我在他的帐户上进行交易  我想使用人工智能或其他工具自动化此工作流程，但我不知道该怎么做。您会推荐哪些方法或解决方案？   由   提交/u/bhaiyu_ctp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ailc02/how_to_automate_my_workflow_for_my_trading/</guid>
-      <pubDate>Sun, 04 Feb 2024 10:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>对话式人工智能会提出澄清问题吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aijvsz/conversational_ai_that_asks_clarification/</link>
-      <description><![CDATA[有没有人遇到过有关如何构建对话式人工智能的指南，该人工智能将根据第一个输入向用户提出后续问题？ 到目前为止，我发现基于第一个输入，NLU 可以匹配输入/话语。然后意图列表直接连接到端点。目前我能找到的唯一澄清形式是温度接近其中一个意图，因此它会询问用户“您是这个意思吗？” 工作示例是如果有人说他们他们的计算机有问题，并且我有很多与计算机问题相关的主题，这可能是，您能让系统将用户带到“计算机问题”第一个节点，然后要求后续输入以搜索下一个级别下来？ 从那里我想要捕获与给定主题相关的具体问题，我猜我需要在这些所需输入到达正确位置后对其进行编码？ &gt; 欢迎任何帮助！   由   提交/u/Letheron88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aijvsz/conversational_ai_that_asks_clarification/</guid>
-      <pubDate>Sun, 04 Feb 2024 09:14:27 GMT</pubDate>
-    </item>
-    <item>
       <title>你用过的最好的人工智能研究代理是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aijitr/whats_the_best_ai_research_agent_youve_used/</link>
       <description><![CDATA[寻找一种能够通过在线浏览完成深入研究任务的研究工具。 Copilot/bing 还不够彻底，记得前段时间遇到过一个基于 langchain 的项目，但记不起项目名称了。    ;由   提交/u/sardoa11  [链接] [评论]]]></description>
@@ -78,26 +92,12 @@
     <item>
       <title>我创建了一个网站来跟踪世界各地的人工智能法规</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aigzid/i_created_a_website_to_keep_track_of_ai/</link>
-      <description><![CDATA[为了帮助您了解政府在人工智能方面所做的工作，我创建了一个交互式世界地图，用于跟踪世界各地的人工智能监管和政策发展。单击某个区域（或使用搜索栏）查看其配置文件。本网站定期更新（包括添加新区域）。 免费访问。无需登录。这是针对社区的:) https://www.techieray.com/GlobalAIRegulationTracker   由   提交/u/techie_ray  [链接] [评论]]]></description>
+      <description><![CDATA[为了帮助您了解各国政府在人工智能方面所做的工作，我创建了一个交互式世界地图，用于跟踪世界各地的人工智能监管和政策发展。单击某个区域（或使用搜索栏）以查看其配置文件。本网站定期更新（包括添加新区域）。 免费访问。无需登录。这是针对社区的:) https://www.techieray.com/GlobalAIRegulationTracker   由   提交/u/techie_ray  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aigzid/i_created_a_website_to_keep_track_of_ai/</guid>
       <pubDate>Sun, 04 Feb 2024 06:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2/​​3/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aiefo2/oneminute_daily_ai_news_232024/</link>
-      <description><![CDATA[ Podcastle 是一个播客平台，通过各种人工智能驱动的生成功能增强了其产品，在 A 轮融资中筹集了 1350 万美元由 Mosaic Ventures 领导。[1] 独家报道：Meta 今年将部署内部定制芯片来驱动人工智能驱动。[2] Google Bard 的重大更新：可以生成人工智能图像并在全球范围内扩展。[3] 据报道，苹果公司正准备收购一家人工智能初创公司，以匿名化图像中的私人数据。[4]  来源：[1] https://techcrunch.com/2024/02/02/as-podcastle-raises-13-5m-its-Founder-credits-ai-driven-growth-in-armenias-mini-silicon-valley/&lt; /a&gt; [2] https://www.reuters.com/technology/meta-deploy-in-house-custom-chips-this-year-power-ai-drive-memo-2024- 02-01/ [3] https://www.mypunepulse.com/google-bards-big-update-can-generate-ai-images-and-expands-worldwide/  [4] https://m.gsmarena.com/apple_is_reportedly_preparing_to_buy_an_ai_startup_to_anonymize_private_data_in_images-amp-61466 .php   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aiefo2/oneminute_daily_ai_news_232024/</guid>
-      <pubDate>Sun, 04 Feb 2024 03:37:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>遗传算法即服务：利润丰厚的 AI SaaS 商业理念。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ai49h5/genetic_algorithm_as_a_service_a_lucrative_ai/</link>
-      <description><![CDATA[我实在厌倦了听到每个人千篇一律的 SaaS 想法。说真的，感觉每个人对公司的看法都是“让 ChatGPT 从你自己的内部数据中学习”。如果软件工程师和技术创始人缺乏一件事，那就是创造力。 所以我在这里提出 2 个有利可图的想法，我保证你以前从未听说过。我怎么知道这个？因为我用谷歌搜索了一下，没有出现任何相关结果。我写这篇文章有几个原因。其一，我想证明你的商业想法并不重要。即使我告诉全世界（或者在这种情况下是整个Medium）我有利可图的商业想法，没有人会偷走它，尽管它是一个令人惊叹的想法！我写这篇文章的第二个原因是征求用户反馈：如果您是 SaaS 创始人，您会购买这项服务吗？ 商业理念：“遗传算法即服务”和“即时工程”作为服务” 如果您阅读标题，那么您可能会在同一个句子中看到 5 个您从未见过的单词：“基因优化作为服务”。 90% 的人可能不知道什么是遗传算法以及如何将其作为一种服务出售。希望这篇文章能让您相信这个想法是多么棒！在此过程中，我将使用由第一个想法支持的第二个 SaaS 想法的示例：“快速工程即服务”。 快速回顾：什么是基因优化？ 遗传优化是一种受生物学启发的人工智能算法。这是一种模仿自然选择过程的搜索启发式方法，以找到问题的最佳解决方案。它从一组可能的答案开始，然后使用选择、交叉和变异来迭代地演化这些答案，以获得更好的解决方案。 遗传算法 (GA) 可用于许多领域。例如，它可以用作“快速工程即服务”产品的支柱，我将在下一节中讨论。 这个 Reddit 子版块不允许使用图片。要阅读全文，查看出以下链接！我非常感谢对这些想法的任何反馈，尤其是来自将法学硕士用于内部或外部用例的企业主的反馈。 要坦诚、开放和诚实您的反馈。谢谢大家！   由   提交 /u/Starks-Technology   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ai49h5/genetic_algorithm_as_a_service_a_lucrative_ai/</guid>
-      <pubDate>Sat, 03 Feb 2024 19:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
