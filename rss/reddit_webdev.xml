@@ -4,23 +4,51 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 00:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 03:13:18 GMT</lastBuildDate>
+    <item>
+      <title>VS Code PHP 文件重构扩展 - 有人愿意测试吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aj6dj4/vs_code_php_file_refactoring_extension_anyone/</link>
+      <description><![CDATA[   大家好， 正在寻找人员来帮助测试我的新功能我刚刚发布到扩展市场的 vs 代码扩展。 链接： https://marketplace.visualstudio.com/items?itemName=PlusTimeIT.php-file-refactoring 名称：PHP File Refactoring 它是一个免费且开放的项目源项目旨在在重命名文件时带来与 PHPStorms 文件重构类似的感觉，并带有一些额外的好处。 当前具有以下功能：  安全重构 -启用后（默认情况下处于活动状态），所有重构更改都将显示在活动栏中（重构图标）。这是通过移动 PHP 文件或重命名 PHP 文件来触发的。 利用 PHP 解析器创建 AST 数组，以便更好地识别潜在的更改。 替换两个完全限定名称并尽可能使用非限定名称。 如果您的项目有“composer.json”文件，它将尝试将自动加载 PSR-4 命名空间映射到已发生的任何更改。 何时文件移动后，它将更新该文件命名空间以及整个项目中出现的任何情况。 单击评论将带您到建议更改的文件、行和列。 &lt; /ul&gt; 我希望得到任何反馈或其他人的帮助，以帮助检测任何错误，甚至提供任何改进。 ​ 谢谢 ​ ​ https://preview.redd.it/5hxnff0xnogc1.png?width=1073&amp;format=png&amp;auto=webp&amp;s=fb270a66b84790edb15b4f6 b4c389b03d664fb49 &lt; /div&gt;  由   提交 /u/PermitTrue   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aj6dj4/vs_code_php_file_refactoring_extension_anyone/</guid>
+      <pubDate>Mon, 05 Feb 2024 03:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的下一个技术堆栈应该是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aj5qfq/what_should_my_next_tech_stack_be/</link>
+      <description><![CDATA[我即将完成一个耗时 6-8 个月构建的重要 SaaS 应用程序的开发。我使用带有 TS 的 nextjs 页面、用于长时间运行任务的外部 Express api、带有 PostgreSQL 的 prisma 等来构建它。  我的下一个项目将是我父亲企业的管理应用程序。他处于一个小众领域，没有那么多好产品，所以我会做一个。  我想让这成为一种学习体验，所以我想知道该使用什么技术堆栈。  我正在考虑使用 .net 8 作为后端，以及 Azure 上的所有内容，以及 FE 上的 React。我们在工作中这样做。  我也在考虑使用 Spring Boot BE，但我之前从未接触过 Java。  有什么想法吗？   由   提交 /u/Limp_Menu5281   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aj5qfq/what_should_my_next_tech_stack_be/</guid>
+      <pubDate>Mon, 05 Feb 2024 02:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽量避免Web开发学习路上的孤独！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/</link>
+      <description><![CDATA[您好！我最近开始了作为一名网络开发学生的旅程。我正在自学，虽然我前段时间对Python有过短暂的体验。我知道这有多孤独，所以我写这篇文章是因为我确信我可能不是唯一正在经历这种情况的人。如果您刚刚开始学习或处于与我相同的学习位置，让我们发短信吧！我愿意讨论这个过程，也许还可以找到一个代码伙伴来完成它！ :) 如果您对 e bdevelopment 的初学者可以交谈的地方有任何建议，也请告诉我！    由   提交/u/Henrik-15  /u/Henrik-15 reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/</guid>
+      <pubDate>Mon, 05 Feb 2024 02:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 RESTful API 端点的最佳方式（两个角色，相同的端点）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aj4246/best_way_to_structure_restful_api_endpoints_two/</link>
+      <description><![CDATA[我正在寻找有关构造端点的最佳方法的意见，以便多个用户角色可以使用同一端点。 假设我们有customer和admin两个用户角色，我读到不建议在端点中使用角色类型，例如：/api /customers/orders/ 和 /api/admin/orders/ 如果我有端点 PUT: /api/orders/{ORDER\_ID }/photo-proof，我知道我应该采用用户经过身份验证的角色，并根据用户拥有的角色执行业务逻辑。 管理员可以更新照片证明图像，而客户可以批准或拒绝照片证明。 我的问题是“什么”的用例如果管理员也是有订单的客户呢？”如果管理员以管理员身份访问上述端点，则一切正常。但是，如果管理员从客户 UI 访问该端点，并且该端点正在以用户的角色来确定应运行哪个业务逻辑，那么它将运行不正确的业务逻辑，因为管理员现在是客户并且想要批准或否认他们自己的照片证据。 希望这是一个有意义的问题。任何指导将不胜感激！   由   提交/u/keithj0nes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aj4246/best_way_to_structure_restful_api_endpoints_two/</guid>
+      <pubDate>Mon, 05 Feb 2024 01:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>最好的 HTML/Bootstrap 教程？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj3by4/best_htmlbootstrap_tutorial/</link>
-      <description><![CDATA[我目前正在开发一个 Flask 项目，刚刚第三次开始，这次非常仔细地构建后端。  然而，我仍然很难使用 HTML 和 Bootstrap，可能是因为我从未真正从头开始学习它。  我知道市面上有数以千计的教程，但我发现拥有一个真正可靠的教程会让学习变得更加容易。那么你会推荐什么？ （为了给你一些回报，我真的可以推荐 C++ 的 Cherno）   由   提交 /u/glemau   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在开发一个 Flask 项目，刚刚第三次开始，这次非常仔细地构建后端。  然而，我仍然很难使用 HTML 和 Bootstrap，可能是因为我从未真正从头开始学习它。  我知道有成千上万的教程，但我发现拥有一个真正可靠的教程可以让学习变得更加容易。那么你会推荐什么？ （为了给你一些回报，我真的可以推荐 C++ 的 Cherno）   由   提交/u/glemau  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj3by4/best_htmlbootstrap_tutorial/</guid>
       <pubDate>Mon, 05 Feb 2024 00:33:49 GMT</pubDate>
     </item>
     <item>
       <title>客户想要一个人们可以预订他的公寓的网站（与他的 booking.com 和爱彼迎日历同步），有人知道这方面的第 3 方解决方案吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj25ab/client_wants_a_website_where_people_can_book_his/</link>
-      <description><![CDATA[他想要在他的网站上有一个简单的日期选择器，但这样人们就可以选择日期并支付天数，我确实有能力制作一个当然有这样的系统，但是如果存在这样的第三方服务，客户可以登录到仪表板，给客户退款，管理日期等，这会节省我很多时间，有谁知道这样的提供商服务是开发人员对其 api 友好吗？  非常感谢   由   提交 /u/_davidcodes   [链接] [评论]]]></description>
+      <description><![CDATA[他想要在他的网站上有一个简单的日期选择器，但这样人们就可以选择日期并支付天数，我确实有能力制作一个当然有这样的系统，但是如果存在这样的第三方服务，客户可以登录仪表板，给客户退款，管理日期等，这会节省我很多时间，有谁知道这样的提供商服务是开发人员对其 api 友好吗？  非常感谢   由   提交 /u/_davidcodes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj25ab/client_wants_a_website_where_people_can_book_his/</guid>
       <pubDate>Sun, 04 Feb 2024 23:40:08 GMT</pubDate>
     </item>
     <item>
-      <title>如何在Linux上为本地MySQL数据库的node项目搭建本地测试环境？</title>
+      <title>如何在Linux上为具有本地MySQL数据库的节点项目搭建本地测试环境？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj1c7t/how_to_set_up_a_local_test_environment_for_a_node/</link>
       <description><![CDATA[我设法为本地数据库设置了 SQL 转储文件。但是当我尝试运行 npm start 来测试它时，我不断收到错误 -111 和 -104。我不确定，但我认为它一直在崩溃。我尝试编辑 cnf 文件，确保凭据匹配，检查防火墙。但没有任何效果。做什么？   由   提交/u/Eternal2401   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj1c7t/how_to_set_up_a_local_test_environment_for_a_node/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>短篇小说网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1aizlqu/short_story_website/</link>
-      <description><![CDATA[你好，我对 webdev 还比较陌生，我正在兼职做一些较小的项目来充实我简历的这一部分，但我想为自己做一个更大的个人项目。更具体地说，我想建立一个网站，允许我和其他管理员登录并发布可以被读者喜欢或否决的恐怖短篇故事。我试图为该项目规划一个路线图，我想知道是否有人知道我可能需要什么样的工具来做到这一点，或者我可能需要采取一些步骤。我一直在研究诸如 React 之类的东西，但它们的用途似乎相当广泛，所以我不太确定从哪里开始。任何建议表示赞赏。    由   提交/u/_Drapier_  [链接] [评论]]]></description>
+      <description><![CDATA[你好，我对 webdev 还比较陌生，我正在兼职做一些较小的项目来充实我简历的这一部分，但我想为自己做一个更大的个人项目。更具体地说，我想建立一个网站，允许我和其他管理员登录并发布可以被读者喜欢或否决的恐怖短故事。我试图为该项目规划一个路线图，我想知道是否有人知道我可能需要什么样的工具来做到这一点，或者我可能需要采取一些步骤。我一直在研究诸如 React 之类的东西，但它们的用途似乎相当广泛，所以我不太确定从哪里开始。任何建议表示赞赏。    由   提交/u/_Drapier_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aizlqu/short_story_website/</guid>
       <pubDate>Sun, 04 Feb 2024 21:49:51 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是 Next.js 的新手。我知道反应的基础知识。在react中（在更简单的情况下），每当我们需要获取数据并围绕数据构建组件时，我们都会调用useEffect内部的api，将数据存储在useState中，并围绕该数据构建组件。但服务器组件中不允许使用 useEffect 和 useState。这就是我正在做的事情。 我直接将服务器组件渲染为异步功能组件，其中会有一个 let data = [] 变量，然后我在里面尝试捕获，我使用 axios 来访问 API，等待响应，然后 data.push(...response.data)。然而，我对此并不满意，这意味着我有一种感觉，我没有以正确的方式做这件事。在简单用例和大规模生产用例中我将如何做到这一点？ 下面的示例是我现在正在做的方式。 （这是在我的根 page.js 中） 从“axios”导入 axios从“./components/JokeCard”导入 JokeCard导出默认异步函数 Home() { const笑话 = [] try { const response = wait axios.request({ method: &quot;get&quot;, url: &quot;https://icanhazdadjoke.com/search?limit=30&quot;, headers: { Accept: &quot;application/json&quot;, }, })joks.push(...response.data?.results) } catch (error) { console.log(error) } return (    {jokes.map((joke) ) =&gt; (  ))}    ) } &lt; /pre&gt; ​   由   提交 /u/green_viper_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aiw6pf/whats_the_correct_way_of_fetching_data_in_sever/</guid>
       <pubDate>Sun, 04 Feb 2024 19:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用云构建生产级网站/网络应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aivtts/how_do_you_build_a_production_level_websitewebapp/</link>
-      <description><![CDATA[似乎有十亿种不同的方法可以做到这一点……老实说，这一切都令人难以抗拒。这个问题是针对那些在该领域工作的人，如何使用 AWS 以及与之一起使用的任何其他技术创建网站/网络应用程序？ 我想了解您如何从需求收集中进行处理选择正确的云服务、集成非 AWS 技术并将其部署供全世界使用。 谢谢    ;由   提交/u/throtaway0134hdj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aivtts/how_do_you_build_a_production_level_websitewebapp/</guid>
-      <pubDate>Sun, 04 Feb 2024 19:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使徽标的 svg 易于访问的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aivspr/best_way_to_make_an_svg_of_a_logo_accessible/</link>
-      <description><![CDATA[我们的网站徽标可以兼作 onClicks。使它们易于访问的最佳方式是什么？  将它们包装在 &lt;a&gt; 中？ svg with onClick 和 aria-labelledby？  谢谢！   由   提交 /u/Double-Collection131   /u/Double-Collection131  reddit.com/r/webdev/comments/1aivspr/best_way_to_make_an_svg_of_a_logo_accessible/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aivspr/best_way_to_make_an_svg_of_a_logo_accessible/</guid>
-      <pubDate>Sun, 04 Feb 2024 19:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建简单网站的最佳工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiv8qa/best_tool_to_create_a_simple_website/</link>
-      <description><![CDATA[嘿，我正在为一家自由职业企业创建一个网站，我希望从事社交媒体管理。我可以想象关于页面、以前的工作页面、联系方式以及带有计划和价格按钮等的页面。 我所拥有的只是域名，并且我之前在以前的网站中使用过 squarespace，但我请记住，它是如此严格，所以我想听听真正的开发人员的意见，看看我最好的选择是什么 - 也许我应该考虑雇用某人？  ​ 任何反馈都将不胜感激，谢谢。    由   提交 /u/ImSweetness   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiv8qa/best_tool_to_create_a_simple_website/</guid>
-      <pubDate>Sun, 04 Feb 2024 18:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们认为重新利用长格式 YouTube 视频软件好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aiv4ij/do_you_guys_think_a_repurposing_long_form_youtube/</link>
-      <description><![CDATA[所以我一直在构建一个软件。该软件的工作原理概述如下：用户将其长格式 YouTube URL 之一输入到软件中，然后人工智能将从该视频中分析并转录该视频，然后创建从该视频中分离出来的自动简短内容。带有自动字幕的长视频，然后可以发布到他们的社交媒体（Instagram、Facebook、TikTok 等）。它将生成自动推文、LinkedIn 和 Instagram 帖子，用户可以查看和编辑。它将为用户提供一长串可能的 LinkedIn、Threads 和 Twitter 帖子列表，他们可以将这些帖子发布到社交媒体上，就像 Tweet Hunter 在 Twitter (X) 上所做的那样。它还会根据视频生成自动新闻通讯帖子。最后，它与 FeedHive 或 Metricool 等工具集成，以便可以从一个地方发布所有自动生成的内容。  我决定构建这样一个软件的原因是因为目前还没有一个软件可以满足我希望它执行的所有这些任务。我在内容创建领域也有经验，并且知道为所有平台开发内容创建非常耗时（几乎是全职工作），并且当您拥有正在开发的内容背后运行的业务时尤其困难。我的时间管理变得非常紧张。因此，有了这个软件，我只需将 1 个长 YouTube 视频重新调整为带有字幕、Twitter 帖子、LinkedIn 帖子和 Threads 帖子的短内容，并且还可以利用自动生成的内容，就可以节省大量时间。时事通讯。虽然所有内容都与 FeedHive 等平台集成，以便从一个地方发布所有内容。  在进一步思考之前，最好先看看你们对这个想法的看法，以验证我的想法，以确保值得再花 3-6 个月完成该软件 &gt; 期待听到你们对此的看法。    由   提交 /u/ThatNoCodeGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aiv4ij/do_you_guys_think_a_repurposing_long_form_youtube/</guid>
-      <pubDate>Sun, 04 Feb 2024 18:46:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
