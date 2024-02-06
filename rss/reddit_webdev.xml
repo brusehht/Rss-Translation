@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 09:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 12:20:20 GMT</lastBuildDate>
+    <item>
+      <title>业余项目机会。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak8gh5/side_project_opportunity/</link>
+      <description><![CDATA[大家好！ 在过去的两个月里，我一直在做一个小项目。该项目将是一个简历构建器，并且可能会开源。我正在使用 React 和 Node。 现在，我正在寻找其他想要加入的开发人员。目标是学习和练习软件生产流程并建立人际网络！ 唯一要求： 欧洲人 英语流利 一些专业经验 任何有兴趣的人都可以在 Reddit 上找到我： https://www.linkedin.com/in/konstantinos-kazazis-32a470228/ [kazaziskonstantinos@gmail。 com](mailto:kazaziskonstantinos@gmail.com) 直播：https://jobready-frontend-a5f107d0de7b.herokuapp.com/ 谢谢！ &lt; !-- SC_ON --&gt;  由   提交 /u/No_Arachnid_9853   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak8gh5/side_project_opportunity/</guid>
+      <pubDate>Tue, 06 Feb 2024 12:19:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>高要求资产存储解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak86kq/solution_for_highlydemaning_asset_storage/</link>
+      <description><![CDATA[各位开发者大家好，我和团队正在努力解决这里的问题，希望您的智慧可以帮助我们。 我们是将重建一家大公司的数字身份，包括为该公司拥有的不同品牌建立大约 5 个网站。就背景而言，该公司建造并租赁房地产。他们已经拥有数千种产品的目录（办公室、停车场、公寓等），每种产品都有数百张图像。他们为这些产品拥有的所有图像加起来大约有 20TB 的资产。 因此，我们想使用 Sanity CMS&lt; /a&gt; 因为它非常适合该项目的需求...除此之外，因为它提供了大约 500GB 的资产存储，这还远远不够。问题是大多数云 CMS 都提供类似数量的数据存储，我可以理解为什么云存储并不便宜。 所以我的问题是您将如何处理这个问题？ 我&#39;我一直在考虑使用 FTP 作为资产服务器，但我不知道它能如何很好地处理数千个并发用户。我想在某个时候我们会联系 Sanity 销售团队。 非常感谢！   由   提交 /u/cortvi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak86kq/solution_for_highlydemaning_asset_storage/</guid>
+      <pubDate>Tue, 06 Feb 2024 12:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Insomnia 现在加入 Postman 的行列，强制其用户拥有云帐户，您还推荐哪些其他替代 API 客户端应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak7wtk/with_insomnia_now_joining_postman_in_forcing/</link>
+      <description><![CDATA[如果有任何类似于 insomnia/postman 和跨平台的无云、无跟踪和无混乱应用程序的建议，我将不胜感激？&lt; /p&gt;   由   提交/u/waaat222  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak7wtk/with_insomnia_now_joining_postman_in_forcing/</guid>
+      <pubDate>Tue, 06 Feb 2024 11:47:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apache 服务器返回 php 文件而不是执行它。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak6p8r/apache_server_return_php_file_instead_of/</link>
+      <description><![CDATA[我有一个用 html 和 js 构建的简单 Web 表单，它向用于发送电子邮件的简单 php 脚本（PHPmailer）发出 post 请求，并返回一些 json回复。  它工作得很好，但在某些时候，而不是 JSON 服务器开始发送发送请求的整个 php 文件（sendmail php）和状态代码 200。  可以抱歉，不分享任何代码。但我希望描述足够好。 PHP 版本为 8.0.28，服务器 Apache，操作系统 ububtu。   由   提交/u/Crutch1232  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak6p8r/apache_server_return_php_file_instead_of/</guid>
+      <pubDate>Tue, 06 Feb 2024 10:27:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify VS WordPress 餐厅？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak66yo/shopify_vs_wordpress_for_restaurants/</link>
+      <description><![CDATA[你好！ 我希望在不久的将来开始为当地餐馆做自由职业。我无法确定哪个平台更适合特定的餐厅网站。我知道有些餐馆会想要“接送”服务。功能，以便客户可以付款并取消 uber-eats/deliveroo。这也将为餐厅节省一些钱。然而，我认识的其他人只想选择查看他们的菜单并预订餐桌。 就上下文而言，我是一名计算机科学毕业生，每天大约学习 6 个小时的 Web 开发过去一个月。我的 javascript 已达到中级水平，目前正在 Colt Steeles 2024 Web 开发训练营中。    由   提交/u/tylerferreiraa1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak66yo/shopify_vs_wordpress_for_restaurants/</guid>
+      <pubDate>Tue, 06 Feb 2024 09:50:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Kubernetes 上托管静态站点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak5xd7/hosting_static_site_on_kubernetes/</link>
+      <description><![CDATA[大家好，当您有一个前端应用程序并且希望将其托管在某个地方时，每个人都知道 Vercel 非常棒。 与此同时，Kubernetes 也因杀伤力过大而闻名。然而，我们发现 Kubernetes 的扩展能力出人意料地好。 因此，我们提出了一个疯狂的想法：让我们看看使用 Kubernetes 为较小提供商的静态站点部署 React 应用程序是多么容易。您可以在这里阅读：https://gimlet.io/blog/vercel-vs-kubernetes 情节扭曲：Vercel 仍然更容易上手。但 Kubernetes 可能比某些人想象的要容易得多，而且扩展性可能更好。 您觉得怎么样？您认为 Kubernetes 值得一试还是 Vercel 是正确的选择？   由   提交 /u/ToddGergey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak5xd7/hosting_static_site_on_kubernetes/</guid>
+      <pubDate>Tue, 06 Feb 2024 09:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>VIDEOJS 将 audioTrack 映射到其他标签</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak5snx/videojs_mapping_audiotracks_to_other_labels/</link>
+      <description><![CDATA[       由   提交/u/Emma_WARDson   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak5snx/videojs_mapping_audiotracks_to_other_labels/</guid>
+      <pubDate>Tue, 06 Feb 2024 09:21:22 GMT</pubDate>
+    </item>
     <item>
       <title>格莱美网站在转义字符方面遇到一些问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1ak4njo/grammys_website_having_some_trouble_with_escape/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我拥有几年的前端经验，其中包括 Javascript / Node 和 JavaScript 等。反应。我在招聘网站上看到的大多数 React 职位现在都需要 React + Typescript。 在没有专业 Typescript 经验的情况下申请这些职位是否现实？即使我尝试并快速学习它，招聘人员/经理会重视这一点吗？  欣赏您的想法。   由   提交 /u/RentStillDue   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajzwfp/can_one_land_a_typescript_job_without_experience/</guid>
       <pubDate>Tue, 06 Feb 2024 03:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在画布 API 中利用更高的位深度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</link>
-      <description><![CDATA[我正在做一些反馈效果，这些效果依赖于能够重叠和平均多个画布图像。 令我惊讶的是，循环每个像素进行处理不会导致瓶颈，而只是像缓冲区一样获取画布数据！我很想在画布上做所有事情，但不幸的是，由于画布上限为 255，所以无法执行多个画布的平均值之类的操作。 有没有办法“解锁， ”该值并以暂时高于 255 的方式执行画布合成功能？   由   提交 /u/zachtheperson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>CPanel 的最佳轻量级框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajzby1/best_lightweight_framework_for_cpanel/</link>
-      <description><![CDATA[我是自由 Web 开发人员，我有使用 Django 和 ExpressJs 的经验。现在我有机会使用 CPanel 工作，但我面临着一个大问题。 使用 CPanel 我无法提供 Fast React 应用程序或任何动态网站。任何人都可以建议我一个好的轻量级框架吗？ 或者如果有人有 CPanel 的经验，如果你遇到了同样的问题，你是如何解决它的？    由   提交/u/No-Cauliflower-2825   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajzby1/best_lightweight_framework_for_cpanel/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 SVG 矩形上复制 Photoshop 中的溶解混合模式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajyx1n/how_to_replicate_the_dissolve_blend_mode_found_in/</link>
-      <description><![CDATA[      我目前正在学习 d3.js，并试图复制这种效果。 我正在尝试在 d3 中重新创建它，并且已经能够创建白色矩形，但是我不知道如何复制溶解效果... 溶解混合模式的说明： 溶解模式从两个图层中获取随机像素。当顶层不透明度大于底层时，大多数像素取自顶层，而当不透明度较低时，大多数像素取自底层。 如有任何建议，我们将不胜感激。  p&gt; ​ https://preview.redd.it/gin6io5elvgc1.png?width=1260&amp;format=png&amp;auto=webp&amp;s=5a89dfd3d8a711fac38b7f54ab0a08f2f6dfa579   由   提交/u/dumbdataguy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajyx1n/how_to_replicate_the_dissolve_blend_mode_found_in/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Wix 构建新站点，在开始之前寻找要考虑的最佳实践。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajypn8/using_wix_to_build_a_new_site_looking_for_best/</link>
-      <description><![CDATA[我正在雇用一个没有经验的人从头开始构建一个网站。我需要帮助清理我需要考虑并提供给开发人员的主要组件。  例如，我需要构建一个网站树/目录，它显示所有页面的关联方式、每个页面的外观、配色方案等。 我需要了解最佳实践，以优雅地构建每个新网页/地址以供将来更新。我打算在 Wix 上构建它，希望这能够简化必要的工作并使将来的其他更改变得简单。   由   提交/u/gomi-panda  /u/gomi-panda  reddit.com/r/webdev/comments/1ajypn8/using_wix_to_build_a_new_site_looking_for_best/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajypn8/using_wix_to_build_a_new_site_looking_for_best/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何推广您的项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</link>
-      <description><![CDATA[我正在完成一个业余项目 Web 应用程序的工作，只是弄清楚如何推广它是令人畏惧的。我知道我可以把钱投入到广告的黑匣子中 - 但我说的是向人们展示你所做的事情的良好时尚行为。我也知道SEO非常重要，但那只能被动地吸引用户。另外，如果你的网站是利基市场，SEO 只能做这么多。 这很糟糕，因为大多数与我的项目远程相关的子版块和不和谐服务器都有禁止自我推销的规则（尽管它们似乎一直被打破）。我唯一能想到的地方是Product Hunt，但他们似乎要求你发布全名，这可以理解，但对我来说有点紧张。 那么，你通常如何宣传你的产品？项目？   由   提交 /u/unwriting_rules   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</guid>
-      <pubDate>Tue, 06 Feb 2024 01:11:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>白标策略</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajx68v/white_labeling_strategies/</link>
-      <description><![CDATA[我很乐意提供一些关于创建由每个客户贴上白色标签的服务的最佳模式或方法的意见。每个客户都可以携带他们的徽标和品牌颜色。  我的主要问题是，从技术角度来看，是否有任何最佳实践来做到这一点？我应该避免为每个客户使用唯一的主机名吗？  我应该依靠最少量的服务器端渲染来为每个请求选择正确的资源吗？ 类似的东西。   由   提交/u/DrGarbinsky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajx68v/white_labeling_strategies/</guid>
-      <pubDate>Tue, 06 Feb 2024 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作范围 - Reddit API Web 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajx00w/scope_of_work_reddit_api_web_application/</link>
-      <description><![CDATA[什么[背景信息] 从 Reddit API 获取多种功能的 Web 应用程序，包括： - 存档帖子 - 识别那些已存档和未存档的 - 缺失评论 - 识别评论是实时的还是缺失 - 评论排名 - 识别评论的位置（排名 # 1、#2 等） 我有一个来自印度的 UpWork 的时薪 20 美元的工人构建的应用程序，但它不断出现故障（如果 reddit 不断更改它，也许是 API 的错误？），我正在寻找更高的技能和更好的沟通能力。 谁[我的问题] 我试图从以下方面找出谁最适合这份工作：  - 时薪 - 技能水平 - 最佳招聘国家/地区 哪里[我的问题] 我正在寻找现在就在 UpWork 上。我应该使用的任何其他招聘网站。另外，就最有价值而言，从哪个县招聘最好？   由   提交 /u/scotch-n-rocks57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajx00w/scope_of_work_reddit_api_web_application/</guid>
-      <pubDate>Tue, 06 Feb 2024 00:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
