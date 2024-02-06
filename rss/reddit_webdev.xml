@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 06:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 09:12:04 GMT</lastBuildDate>
+    <item>
+      <title>格莱美网站在转义字符方面遇到一些问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ak4njo/grammys_website_having_some_trouble_with_escape/</link>
+      <description><![CDATA[       由   提交 /u/TScottFitzgerald   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ak4njo/grammys_website_having_some_trouble_with_escape/</guid>
+      <pubDate>Tue, 06 Feb 2024 07:56:06 GMT</pubDate>
+    </item>
     <item>
       <title>需要建议：将 Google Sheets 中的扑克游戏数据转换为网站表格</title>
       <link>https://www.reddit.com/r/webdev/comments/1ak277e/advice_needed_turning_poker_game_data_from_google/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[什么[背景信息] 从 Reddit API 获取多种功能的 Web 应用程序，包括： - 存档帖子 - 识别那些已存档和未存档的 - 缺失评论 - 识别评论是实时的还是缺失 - 评论排名 - 识别评论的位置（排名 # 1、#2 等） 我有一个来自印度的 UpWork 的时薪 20 美元的工人构建的应用程序，但它不断出现故障（如果 reddit 不断更改它，也许是 API 的错误？），我正在寻找更高的技能和更好的沟通能力。 谁[我的问题] 我试图从以下方面找出谁最适合这份工作：  - 时薪 - 技能水平 - 最佳招聘国家/地区 哪里[我的问题] 我正在寻找现在就在 UpWork 上。我应该使用的任何其他招聘网站。另外，就最有价值而言，从哪个县招聘最好？   由   提交 /u/scotch-n-rocks57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajx00w/scope_of_work_reddit_api_web_application/</guid>
       <pubDate>Tue, 06 Feb 2024 00:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使 Web 共享与文件一起使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajwiel/how_to_make_web_share_work_with_files/</link>
-      <description><![CDATA[    /u/Seanitzel   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajwiel/how_to_make_web_share_work_with_files/</guid>
-      <pubDate>Tue, 06 Feb 2024 00:32:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

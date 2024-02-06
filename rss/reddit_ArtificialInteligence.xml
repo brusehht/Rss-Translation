@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 06:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 09:11:00 GMT</lastBuildDate>
+    <item>
+      <title>人工智能增强视频广告</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak54sz/aienhanced_video_advertising/</link>
+      <description><![CDATA[ 由   提交/u/PNGstan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak54sz/aienhanced_video_advertising/</guid>
+      <pubDate>Tue, 06 Feb 2024 08:31:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>从哪里开始学习和构建人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak4ew9/where_to_start_to_learn_and_build_ai/</link>
+      <description><![CDATA[我是人工智能领域的初学者，但我对它着迷。谁能建议我应该从哪里开始学习人工智能并获得一些构建人工智能的经验（如果可能的话）。   由   提交/u/Big_Grade382   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak4ew9/where_to_start_to_learn_and_build_ai/</guid>
+      <pubDate>Tue, 06 Feb 2024 07:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义 GPT - 提示工程师 - 反馈请求</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak49d7/custom_gpt_prompt_engineer_feedback_request/</link>
+      <description><![CDATA[我创建了一个自定义 GPT 来重写提示以获得更好的输出：https://chat.openai.com/g/g-NuF7XpB4G-prompt-engineer-by-domore-ai &lt; p&gt;任何反馈表示赞赏！   由   提交 /u/bart_so   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak49d7/custom_gpt_prompt_engineer_feedback_request/</guid>
+      <pubDate>Tue, 06 Feb 2024 07:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>解读 CORS</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak3w8p/deciphering_cors/</link>
+      <description><![CDATA[在我的法学硕士申请中实施 CORS 时，我遇到了很多困惑。肯定有很多像我一样觉得 CORS 很难理解。所以我写了一篇关于它的博客：https://blog.kusho.ai/deciphering-cors/&lt; /p&gt;   由   提交/u/soap94  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak3w8p/deciphering_cors/</guid>
+      <pubDate>Tue, 06 Feb 2024 07:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mojo🔥比 Python 快 35000 倍</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak34b8/mojois_up_to_35000_times_faster_than_python/</link>
+      <description><![CDATA[Mojo🔥 Mojo 是一种最近推出的编程语言，它优先考虑速度、效率和用户友好的功能。 Mojo 支持跨多个内核的并行处理，这使其成为构建人工智能和机器学习应用程序的理想语言。 Python Python 是一种广泛使用的通用编程语言适用于各种任务，包括数据科学、机器学习和人工智能。 Python 以其简单性和可读性而闻名，这使其成为初学者和经验丰富的开发人员的热门选择。阅读：https://www.seaflux.tech/blogs/mojo-ai-programming-language   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak34b8/mojois_up_to_35000_times_faster_than_python/</guid>
+      <pubDate>Tue, 06 Feb 2024 06:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>医疗和诊断处方应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak32p4/medical_and_diagnosis_prescription_app/</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[想要将 PDF（或文本）上传到服务并（理想情况下）对其进行问答。我不熟悉法庭术语，希望它能够为我解释一切。  感谢您可能拥有的所有建议+提示/最佳实践。  谢谢！   由   提交 /u/TheShadeParade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak0j0v/what_is_your_gold_standard_tool_for_court_case/</guid>
       <pubDate>Tue, 06 Feb 2024 03:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以用图片训练人工智能，有目的地让人工智能能够识别出它收到的图片应该被分类为</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajz5gw/is_it_possible_to_train_ai_with_picture_with/</link>
-      <description><![CDATA[因此，就上下文而言，我想创建一个带有 ESP32 和 ESP32-CAM 的微控制器来拍照。 我希望 AI 能够“检测”图像。图片并将该图片分类到预先配置的可用类别。  例如，案例是“纸张破洞检测”，检测纸张有破洞的位置。所以在这种情况下，有 4 个类别：1) 左孔，2) 右孔，3) 上孔，4) 底孔。 所以流程是：ESP32 获取图片 -&gt;将图片发送至AI -&gt; AI 处理图像并确定孔的位置（纸张的上/下/右/左）-&gt;将结果（漏洞所在）发送到 MySQL 数据库 像这样的情况：  这可能吗？ 使用 ESP32 是否可能和 ESP32 CAM 来获取和发送图片？ 我需要数学专业知识来构建这个项目，编程基础就足够了吗？   ​ 就这些了，我愿意接受讨论并感谢任何反馈。 谢谢。    由   提交 /u/IgneZsia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajz5gw/is_it_possible_to_train_ai_with_picture_with/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个生成战斗策略的 GPT 模型，需要帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajypkr/i_created_a_gpt_model_that_generates_battle/</link>
-      <description><![CDATA[我创建了一个 GPT 模型，它使用地图图像生成战斗策略和位置，我遇到了一个问题，它有时似乎会随机吐出毫无意义的胡言乱语，通常只是地图上位置的一些名称，后面跟着随机文本。我该如何解决这个问题？   由   提交/u/larryjobs1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajypkr/i_created_a_gpt_model_that_generates_battle/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 Perplexity AI 如何智胜 Google。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajyhcw/discover_how_perplexity_ai_outsmarts_google/</link>
-      <description><![CDATA[https://pub.aimind.so/discover-how-perplexity-ai-outsmarts-google-and-transforms-your-digital-world-d72fd38e73ab   由   提交 /u/Chexz1mh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajyhcw/discover_how_perplexity_ai_outsmarts_google/</guid>
-      <pubDate>Tue, 06 Feb 2024 02:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能即将取得的进展将如何影响公众对特朗普即将到来的选举干扰审判的看法和其他方面？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajxz9y/how_could_upcoming_advances_in_ai_influence/</link>
-      <description><![CDATA[好吧，让我们深入探讨人工智能对正义和公众舆论的潜在影响。今天宣布，原定于三月开始的针对特朗普的联邦审判可能会推迟到夏季或秋季。  到那时，gpt-5 以及谷歌、meta 和开源开发人员可能会发布的更先进的模型可能会比 gpt-4 更智能。 应用于几乎所有事物的更强智能将产生对问题更明智、更准确的见解。备受瞩目的刑事审判以及公众对审判的看法也不例外。这里有一些关于更智能的人工智能对即将到来的联邦特朗普审判的各个方面可能产生的影响的一些问题。 1) 即将到来的更智能的人工智能会带来更智能、更知情的新闻媒体对审判的报道？ 2）公众使用这些先进的人工智能来了解审判的具体情况，对法律和针对特朗普的指控会有历史上更好的了解吗？ 3) 这些先进的人工智能是否会在政治上被用来进一步推迟特朗普的审判，以便最终判决要到 11 月大选之后才能得出？ 4) 更一般地说，这些先进的人工智能是否会增加或增加？减少特朗普被判干涉选举罪的可能性？ 当然，我们正在进入完全未知的领域，在那里我们只能进行纯粹的猜测。没有人真正知道更先进的人工智能将如何影响审判和 11 月的选举或公众对这些历史事件的看法。 但考虑到人工智能革命性进步与联邦审判的前所未有的交叉，联邦审判可能会判处前总统被判入狱数年，因此这将在数周或数月内占据公众的注意力，看来我们即将进入一个异常多事的夏季和秋季。 上面，我只提到了一些人工智能可能影响这一切的方式。您可能还想到过其他一些可能性。您对人工智能技术与公共事务这种独特且前所未有的融合有何看法？   由   提交/u/Georgeo57  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajxz9y/how_could_upcoming_advances_in_ai_influence/</guid>
-      <pubDate>Tue, 06 Feb 2024 01:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助朋友研究！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ajusf6/help_a_friends_research/</link>
-      <description><![CDATA[大家好，我的一位好朋友正在开展一个有关学校人工智能的研究项目。他们正在对人们进行调查，看看人类是否能够区分人工智能和人类编写的文本。他们正在利用这个项目来拓宽他们对人工智能的理解，他们要求我宣传这个项目！我认为这个社区会愿意提供帮助并完善这项工作。您可以在这里参加调查：https://linktr.ee/hjtrav非常感谢   由   提交/u/alpaca_hat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ajusf6/help_a_friends_research/</guid>
-      <pubDate>Mon, 05 Feb 2024 23:17:35 GMT</pubDate>
     </item>
     <item>
       <title>您见过的最令人兴奋的人工智能用例是什么？</title>
