@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 00:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 03:13:13 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法在画布 API 中利用更高的位深度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</link>
+      <description><![CDATA[我正在做一些反馈效果，这些效果依赖于能够重叠和平均多个画布图像。 令我惊讶的是，循环每个像素进行处理不会导致瓶颈，而只是像缓冲区一样获取画布数据！我很想在画布上做所有事情，但不幸的是，由于画布上限为 255，因此无法执行多个画布的平均值之类的操作。 有没有办法“解锁， ”该值并以暂时高于 255 的方式执行画布合成功能？   由   提交 /u/zachtheperson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajzgn3/is_there_a_way_to_utilize_higher_bitdepth_in_the/</guid>
+      <pubDate>Tue, 06 Feb 2024 02:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>CPanel 的最佳轻量级框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajzby1/best_lightweight_framework_for_cpanel/</link>
+      <description><![CDATA[我是自由 Web 开发人员，我有使用 Django 和 ExpressJs 的经验。现在我有机会使用 CPanel 工作，但我面临着一个大问题。 使用 CPanel 我无法提供 Fast React 应用程序或任何动态网站。任何人都可以建议我一个好的轻量级框架吗？ 或者如果有人有 CPanel 的经验，如果你遇到了同样的问题，你是如何解决它的？    由   提交/u/No-Cauliflower-2825   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajzby1/best_lightweight_framework_for_cpanel/</guid>
+      <pubDate>Tue, 06 Feb 2024 02:46:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>有诚实的网络开发人员可以问我一些问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajzafm/any_honest_web_developers_out_there_that_i_can/</link>
+      <description><![CDATA[像大多数缺乏网页设计经验的人一样，我相信我有一个好主意。  但是，我知道每个人都相信这一点，所以我希望找到一个有信誉的诚实的人来批评、关闭，基本上是对我的想法进行拉屎，让我知道为什么它不可行，或者不会从经济上讲没有意义。  当我说诚实时，我基本上指的是那些不会“逃跑”我的想法的人。  我知道这是互联网，无论如何都不可能真正信任某人。但我希望有人不介意倾听并提供一些建议。  我希望我在这里没有要求太多，如果这不是正确的地方，我深表歉意。  我已经在谷歌上搜索并查找了开发人员，但没有得到我需要的信息。  因此，如果有知识的人可以帮助我，那就太好了。我想要的只是改善我的生活，我希望从有经验的人那里获得意见可以让我走上正轨。   由   提交 /u/Thementalistt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajzafm/any_honest_web_developers_out_there_that_i_can/</guid>
+      <pubDate>Tue, 06 Feb 2024 02:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>通常有多少人参与制作一个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajz2z8/how_many_people_are_usually_involved_in_making_a/</link>
+      <description><![CDATA[每个参与者从开始到结束的整个过程是什么？  &amp; #32；由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajz2z8/how_many_people_are_usually_involved_in_making_a/</guid>
+      <pubDate>Tue, 06 Feb 2024 02:33:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 SVG 矩形上复制 Photoshop 中的溶解混合模式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajyx1n/how_to_replicate_the_dissolve_blend_mode_found_in/</link>
+      <description><![CDATA[      我目前正在学习 d3.js，并试图复制这种效果。 我正在尝试在 d3 中重新创建它，并且已经能够创建白色矩形，但是我不知道如何复制溶解效果... 溶解混合模式的说明： 溶解模式从两个图层中获取随机像素。当顶层不透明度大于底层时，大多数像素取自顶层，而当不透明度较低时，大多数像素取自底层。 如有任何建议，我们将不胜感激。  p&gt; ​ https://preview.redd.it/gin6io5elvgc1.png?width=1260&amp;format=png&amp;auto=webp&amp;s=5a89dfd3d8a711fac38b7f54ab0a08f2f6dfa579   由   提交/u/dumbdataguy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajyx1n/how_to_replicate_the_dissolve_blend_mode_found_in/</guid>
+      <pubDate>Tue, 06 Feb 2024 02:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Wix 构建新站点，在开始之前寻找要考虑的最佳实践。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajypn8/using_wix_to_build_a_new_site_looking_for_best/</link>
+      <description><![CDATA[我正在雇用一个没有经验的人从头开始构建一个网站。我需要帮助清理我需要考虑并提供给开发人员的主要组件。  例如，我需要构建一个网站树/目录，它显示所有页面的关联方式、每个页面的外观、配色方案等。 我需要了解最佳实践，以优雅地构建每个新网页/地址以供将来更新。我打算在 Wix 上构建它，希望这能够简化必要的工作并使将来的其他更改变得简单。   由   提交/u/gomi-panda  /u/gomi-panda  reddit.com/r/webdev/comments/1ajypn8/using_wix_to_build_a_new_site_looking_for_best/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajypn8/using_wix_to_build_a_new_site_looking_for_best/</guid>
+      <pubDate>Tue, 06 Feb 2024 02:15:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何推广您的项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</link>
+      <description><![CDATA[我正在完成一个业余项目 Web 应用程序的工作，只是弄清楚如何推广它是令人畏惧的。我知道我可以把钱投入到广告的黑匣子中 - 但我说的是向人们展示你所做的事情的良好时尚行为。我也知道SEO非常重要，但那只能被动地吸引用户。另外，如果你的网站是利基市场，搜索引擎优化只能做这么多。一直被打破）。我唯一能想到的地方是Product Hunt，但他们似乎要求你发布你的全名，这可以理解，但对我来说有点紧张。 那么，你通常如何宣传你的产品？项目？   由   提交 /u/unwriting_rules   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajxd30/how_do_you_promote_your_projects/</guid>
+      <pubDate>Tue, 06 Feb 2024 01:11:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>白标策略</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajx68v/white_labeling_strategies/</link>
+      <description><![CDATA[我很乐意提供一些关于创建由每个客户贴上白色标签的服务的最佳模式或方法的意见。每个客户都可以携带他们的徽标和品牌颜色。  我的主要问题是，从技术角度来看，是否有任何最佳实践来做到这一点？我应该避免为每个客户使用唯一的主机名吗？  我应该依靠最少量的服务器端渲染来为每个请求选择正确的资源吗？ 类似的东西。   由   提交/u/DrGarbinsky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajx68v/white_labeling_strategies/</guid>
+      <pubDate>Tue, 06 Feb 2024 01:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作范围 - Reddit API Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajx00w/scope_of_work_reddit_api_web_application/</link>
+      <description><![CDATA[什么[背景信息] 从 Reddit API 获取多种功能的 Web 应用程序，包括： - 存档帖子 - 识别那些已存档和未存档的 - 缺失评论 - 识别评论是实时的还是缺失 - 评论排名 - 识别评论的位置（排名 # 1、#2 等） 我有一个来自印度的 UpWork 的时薪 20 美元的工人构建的应用程序，但它不断出现故障（如果 reddit 不断更改它，也许是 API 的错误？），我正在寻找更高的技能和更好的沟通能力。 谁[我的问题] 我试图从以下方面找出谁最适合这份工作：  - 时薪 - 技能水平 - 最佳招聘国家/地区 哪里[我的问题] 我正在寻找现在就在 UpWork 上。我应该使用的任何其他招聘网站。另外，就最有价值而言，从哪个县招聘最好？   由   提交 /u/scotch-n-rocks57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajx00w/scope_of_work_reddit_api_web_application/</guid>
+      <pubDate>Tue, 06 Feb 2024 00:55:05 GMT</pubDate>
+    </item>
     <item>
       <title>如何使 Web 共享与文件一起使用</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajwiel/how_to_make_web_share_work_with_files/</link>
@@ -15,7 +78,7 @@
     <item>
       <title>接待的好地方</title>
       <link>https://www.reddit.com/r/webdev/comments/1ajwefi/a_good_place_to_host/</link>
-      <description><![CDATA[当然，这个问题被问到的人比地球上的人还要多，但我在这里。 我专门使用 Vue。 Node.js（前）、ASP.net（后 REST API）和 MongoDB（我只是使用 atlas 的免费 ATM，但一旦我准备好启动我的 Web 应用程序，就可以升级到无服务器）哪里有一个不贵的好地方成为主持。感谢您的帮助！   由   提交 /u/dragonfrut   [链接] [评论]]]></description>
+      <description><![CDATA[当然，这个问题被问到的人比地球上的人还要多，但我在这里。 我专门使用 Vue。 Node.js（前面）、ASP.net（后面的 REST API）和 MongoDB（我只是使用 atlas 的免费 ATM，但一旦我准备好启动我的 Web 应用程序，就可以升级到无服务器）哪里有一个不贵的好地方成为主持。感谢您的帮助！   由   提交 /u/dragonfrut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajwefi/a_good_place_to_host/</guid>
       <pubDate>Tue, 06 Feb 2024 00:27:32 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[我最近将我的网站移至其他主机。很长一段时间以来，我们只有一个主要网站名称，并最终添加了一个所有内容都指向的子名称，因为它更短且更容易拼写。在新主机中，我们决定将主域名设为更短、更容易的名称。我们以前没有这样做过，所以我想我们犯了一些错误。我真的不知道如何或在哪里正确解决这个问题。网上有很多关于它可能是什么的信息，但不确定哪个是正确的。  基本上，当您直接在网络浏览器中键入该网站时，该网站就可以正常工作，但 Google 上会出现不存在的旧页面，并出现 404 错误。高度赞赏任何正确方向的帮助    由   提交/u/kazuzu991  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ajusid/dead_pages_showing_up_on_google/</guid>
       <pubDate>Mon, 05 Feb 2024 23:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Cloudflare 域指向 Hostinger 的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajudvb/issues_pointing_cloudflare_domain_to_hostinger/</link>
-      <description><![CDATA[一周前在 Cloudflare 上购买了一个域名，然后决定使用 Hostingers Cloud Startup 计划。我按照  上的说明进行操作用于添加两条 CNAME 记录的托管商支持页面，但 24 小时后，当我尝试访问 WordPress 网站时，仍然收到 404 错误。我希望我刚刚通过 Hostinger 获得了域名，但这就是我所在的位置，要更改 Cloudflare 名称服务器，您必须采用 200 美元/月的计划（也不能在 60 天内移动域名）。 我错过了什么吗？ 404 页面 Cloudflare DNS 管理屏幕 Hostinger 仪表板   由   提交 /u/Ast-To-Reg-Manager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajudvb/issues_pointing_cloudflare_domain_to_hostinger/</guid>
-      <pubDate>Mon, 05 Feb 2024 23:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于营销和网络机构。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajt77t/for_marketing_and_web_agencies/</link>
-      <description><![CDATA[你们有内部网络开发人员/程序员还是全部外包？ 我为一家机构工作，我们有没有任何内部开发人员并将其全部外包。这是正常的吗？   由   提交 /u/Comfortable-Box7021    reddit.com/r/webdev/comments/1ajt77t/for_marketing_and_web_agcies/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajt77t/for_marketing_and_web_agencies/</guid>
-      <pubDate>Mon, 05 Feb 2024 22:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adblock 性能洞察：了解广告拦截带来的差异</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajsk84/adblock_performance_insights_see_the_difference/</link>
-      <description><![CDATA[   /u/happybuy  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajsk84/adblock_performance_insights_see_the_difference/</guid>
-      <pubDate>Mon, 05 Feb 2024 21:45:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助使用 Web 扩展修改 HTML 的逻辑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajrnz1/help_with_logic_on_modifying_html_with_web/</link>
-      <description><![CDATA[使用 Chrome Web 扩展修改网站的 HTML 以下是我正在尝试执行的操作的一些背景信息。我在一家锁匠公司担任前台办公室。我的工作是创建包含信息的票据并将其发送给技术人员。 需要注意的一件事是，我们有多名不同的技术人员，他们拥有与他们相关的不同信息。因此，当我为特定技术人员打开特定的工作单时，我想将 HTML 添加到有关该特定技术人员的网站。想象一下我正在使用诸如 ULeadz 这样的软件 这似乎是一件非常简单的事情，但我遇到了一些麻烦，因为我对一般编程非常陌生。 所以我有类似嵌套对象的东西。我将有一个对象数组，如果作业单上的技术人员名称与数组中的任何技术名称匹配，那么我想使用点符号进入该特定技术人员并显示该技术特定信息。 &lt; p&gt;我遇到的问题是循环并进入嵌套对象，或者可能是我的逻辑存在一些问题。 我使用 CSV 作为数据库，并得到了一些代码，可以将 Excel 工作表列转换为对象，例如 const csv const csv = Adsource,Company,UleadzTechnician,Metros,Service &quot;,;（删除了数据，因为它太在这里发帖很长） const rows = csv.split(&#39;\n&#39;); const headers = rows[0].split(&#39;,&#39;); const arrayOfObjects = rows.slice(1).map(row =&gt; { const value = row.split(&#39;,&#39;); const obj = {}; headers.forEach((header, index) =&gt; { obj[ header] = values[index]; }); return obj; }); console.log(arrayOfObjects); arrayOfObjects.forEach((score) =&gt; { 让 p1 = 分数.Adsource; 让 p2 = 分数.Company; 让 p3 = 分数.UleadzTechnician; 让 p4 = 分数.Metros; 让 p5 = 分数.ServiceArea; 让 p6 = 分数.Affiliates; let p7 = Score.HoursofOperation; let p8 = Score.CantDoList; let p9 = Score.Notes; console.log(p2); }); const 引用= document.getElementById(“面板组”); const实际=reference.lastElementChild; const createDiv1 = document.createElement(&#39;p&#39;); const createDiv2 = document.createElement(&#39;p&#39;); const createDiv3 = document.createElement(&#39;p&#39;); createDiv1.textContent =&#39;prokeys&#39;; createDiv2.textContent =&#39;prokeys&#39;; createDiv3.textContent =&#39;prokeys&#39;;实际的.appendChild(createDiv1);实际的.appendChild(createDiv2); actual.appendChild(createDiv3); 这或多或少是我拥有的样板，忽略createDiv1中的prokeys，我手动将其放入，因为我无法像我想要的那样访问文本对象数组 我的问题是 Score.Adsource 有效，我可以获得技术人员的列表。但是，score.Company 基本上会遍历所有内容，当我通过控制台记录它而不是公司中的特定数据时，我会得到所有内容。 我应该从根本上更改此代码吗？如果我到处都是，我很抱歉。预先感谢您   由   提交/u/insertjokehere69  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajrnz1/help_with_logic_on_modifying_html_with_web/</guid>
-      <pubDate>Mon, 05 Feb 2024 21:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有在 NextJS 等 SSR 框架中加载异步数据的最佳实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajqst8/is_there_a_best_practise_for_loading_async_data/</link>
-      <description><![CDATA[以下是我的看法：  使用 SSR 渲染页面的每个静态部分（任何不需要的内容）显示之前的请求） 显示动态部分的加载框架，其中每个部分都可以单独解析 对于 SEO 页面，始终执行完整的 SSR，即在发送之前等待服务器上的所有请求它给客户端（缓存版本是最好的）  但我很困惑。 Youtube 在打开任何页面时都会显示骨架。您是否应该在页面上完全 SSR 并等待所有异步数据？ 你们有某种您个人遵循的指南吗？   由   提交 /u/Dangerous-Put-2941   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajqst8/is_there_a_best_practise_for_loading_async_data/</guid>
-      <pubDate>Mon, 05 Feb 2024 20:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在临时服务器上运行“npm run dev”之类的东西？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajqgx2/how_to_run_something_like_npm_run_dev_on_the/</link>
-      <description><![CDATA[嗨！ 我有一个奇怪的问题，我如何运行“npm run dev”？在登台服务器上？这是一个使用 Inertia 和 VueJS 的 Laravel 应用程序。 我正在与一位设计师合作重新设计一个 Web 应用程序。我尝试在他们的计算机上安装该应用程序，但它不起作用，而且他们的计算机并不真正兼容。我可以找到解决方案，但我不想在这上面花太多时间。 我可以让他们访问服务器上的代码，允许他们根据需要更改它，然后运行“npm run dev”当我们对结果满意时，将其上传到 GitHub？这将如何工作？ 谢谢！   由   提交 /u/AsteroidSnowsuit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajqgx2/how_to_run_something_like_npm_run_dev_on_the/</guid>
-      <pubDate>Mon, 05 Feb 2024 20:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何优化 React JS 中的 DOM 大小？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajpla1/how_to_optimize_the_dom_size_in_react_js/</link>
-      <description><![CDATA[   /u/Another_Noob_69   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajpla1/how_to_optimize_the_dom_size_in_react_js/</guid>
-      <pubDate>Mon, 05 Feb 2024 19:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress + Yoast 未与 Demandware 完全通信</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajow6w/wordpress_yoast_not_fully_communicating_with/</link>
-      <description><![CDATA[好的，所以我会尽力解释这一点，而不会被否决。第一次/很长一段时间在这里这个子上，在 SEO 领域工作了 10 多年。  我的客户（全球电子商务公司）在 Demandware 上运行，但我们也管理他们的博客，该博客是通过 Wordpress 移植的。我们还使用 Yoast 进行 SEO（不是我的决定），并且它设置正确，大部分是开箱即用的，这对这个 WordPress 博客很有好处。  但是，某些元素不会跨入 WP/Yoast 和 Demandware 集成之间的实时博客 - Yoast 中专门优化的标题标签不会跨入实时博客，而元描述等其他元素则会跨入。文章的实际标题（在 WP 中而不是 Yoast 中）是填充标题标签的内容。  我已经尽我所能地尝试了 WP 和 Yoast 后端（这并不算多），但无法弄清楚缺少的链接是什么。不知道有没有人有类似经历。    由   提交 /u/____cire4____   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajow6w/wordpress_yoast_not_fully_communicating_with/</guid>
-      <pubDate>Mon, 05 Feb 2024 19:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 2024 年技术栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ajnmt7/my_tech_stack_of_2024/</link>
-      <description><![CDATA[ 由   提交/u/cprcrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ajnmt7/my_tech_stack_of_2024/</guid>
-      <pubDate>Mon, 05 Feb 2024 18:28:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
