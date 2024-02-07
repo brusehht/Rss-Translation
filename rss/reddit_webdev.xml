@@ -4,18 +4,95 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 15:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 18:14:41 GMT</lastBuildDate>
+    <item>
+      <title>制作带有后端的个人博客/作品集网站的想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al9i4e/ideas_to_make_my_personal_blogportfolio_site_with/</link>
+      <description><![CDATA[嘿大家！ 我是一名四年级的计算机科学学生，有一些制作静态页面的经验，有一些 WordPress 制作自定义页面的经验主题，以及在黑客马拉松上制作 Web 应用程序的一点 React。  我终于有时间在自己的网站上工作了，我想学习 next.js 作为一个 React 框架，但我想知道是否有人对我的技术堆栈有任何建议应该首先考虑？ 我的最终目标是拥有一个网站，它既是用于个人更新的博客，又是用于容纳我的计算机项目的作品集页面。我还想要第二个“管理员”我可以在页面的每一侧添加帖子，也许存储在某种 json 中？ 我不认为这是一个特别难承担的项目，我只是不确定最好使用的工具是什么。 旁注，但我也计划将我的 WordPress 网站迁移到这样的部署，那么我的后端是否可以在其他项目上使用？ （尽管这可能不是一个特别严格的要求） ​ 非常感谢！！   由   提交/u/najchris11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al9i4e/ideas_to_make_my_personal_blogportfolio_site_with/</guid>
+      <pubDate>Wed, 07 Feb 2024 18:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>思维练习：为餐厅制作一个预订应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al9dh1/thought_exercise_making_a_booking_app_for_a/</link>
+      <description><![CDATA[大家好， 希望你们一切顺利。 我正在进入后端 Web目前正在开发并尝试了解数据库以及如何管理它们。我当前使用的是 MongoDb，使用 mongoose 和express。 我试图理解集合（或当我学习 SQL 时的 SQL 表）之间的关系以及如何构建数据。 我正在尝试回答如何编写用于餐厅预订的网络应用程序的问题。 我对我的方法可能是什么有一些疑问。我将不胜感激它的反馈，因为我绝对不知道我是否会正确执行此操作。 我会让每个表成为一个在数据库中拥有自己的集合的类吗？ &lt; p&gt;然后每个表都会有一个与之关联的日期类。 每个日期都有一组时间。 人们会使用前端来预订某些东西。我的数据库逻辑将查询每个表的日期类并检查它们是否空闲。 然后会出现一个允许确认的警报。 我陷入了弄清楚如何构建数据库。什么是更好的方法？ 此外，是否可以根据日期进行输入？ 数据库是否会太满。比如说，经过20年的行动，我需要清空它吗？我可以在一定时间（比如每年）之后制作一个脚本吗？ 对于使用 MongoDB 术语并得到一些错误表示歉意。 任何帮助将不胜感激。我希望能够更好地了解后端 Web 开发和数据库。 我很清楚我可能在学会走路之前就在尝试跑步。但弄清楚人们如何解决这些问题是一次很好的学习经历。 谢谢，祝你有美好的一天。   由   提交 /u/RuleInformal5475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al9dh1/thought_exercise_making_a_booking_app_for_a/</guid>
+      <pubDate>Wed, 07 Feb 2024 18:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我被这个每日开发烤机器人烤了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al968x/i_got_roasted_by_this_daily_dev_roast_bot/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al968x/i_got_roasted_by_this_daily_dev_roast_bot/</guid>
+      <pubDate>Wed, 07 Feb 2024 18:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drupal 帮派健康检查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al8icw/drupal_gang_wellness_check/</link>
+      <description><![CDATA[唷，我的组织刚刚完成了我们的 9 -&gt;急于完成我们的 7 次迁移后进行了 10 次迁移 -&gt; 9 次迁移，然后实现 9 次终止。现在我们又多了一个 7 人，我们需要升级到 10 人。老实说，就工作量而言，这几年对我们来说是疯狂的。  总而言之，我们对 10 感到非常满意，并对 Drupal 的未来感到兴奋，但这是一个被弃用的事物的疯狂融合。每个人都还好吗/您对生态系统的健康状况感觉如何？ drupal.org 今年终于获得了第 7 名，下/上是什么？   由   提交 /u/chicagodipship   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al8icw/drupal_gang_wellness_check/</guid>
+      <pubDate>Wed, 07 Feb 2024 17:33:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>终于学会了Java，有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al7twt/finally_learning_some_java_any_tips/</link>
+      <description><![CDATA[这里主要是 JS 开发人员。曾经是全栈但只使用了 ColdFusion 和 Node.js。过去几年我才开始研究我们的用户界面。我将深入研究并尝试学习一些 Java 来为我们的一些服务提供帮助。我对此的经验很少，如果您愿意分享，任何建议、陷阱、很高兴知道，我们将不胜感激。 TIA   由   提交 /u/sinkjoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al7twt/finally_learning_some_java_any_tips/</guid>
+      <pubDate>Wed, 07 Feb 2024 17:05:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌wordpress</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al7rq3/i_hate_wordpress/</link>
+      <description><![CDATA[我讨厌每个人和每个公司都希望在一天内建立一个网站，然后使用 WordPress 制作一个充满广告的蹩脚网站。就像编程并不难，有很多参考和教程网站，为什么要用wordpress？所以你的网站最终看起来就像所有现代企业的垃圾？ 我个人有一个网站，我花了两周时间来设置所有页面。我自己制作了布局、PHP 代码、页面和博客。在博客中，我必须手动将条目写入数据库。它可能不是“用户友好的”。但它对我有用，它让我完全控制页面。  为什么现在的网络这么平淡？   由   提交 /u/Athosworld   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al7rq3/i_hate_wordpress/</guid>
+      <pubDate>Wed, 07 Feb 2024 17:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>气泡网开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al7gge/bubble_web_development/</link>
+      <description><![CDATA[大家好， 在过去的一年里，我一直专注于学习如何使用 Bubble。一种流行的 Web 开发，由于其无代码功能而得以发展。然而，我一直通过官方课程学习所有这些，所以还没有得到任何作品集作品，也没有得到其他人的反馈。 我大部分时间都在作品集网站和服务网站上工作，但我也制作过一些 SaaS 软件，例如功能齐全的 CRM 工具。 我希望与一些人合作，并以 125 美元的价格为他们提供功能齐全的网站/软件，无需额外费用。原因是我想建立一些作品集，并用它来向客户展示我的作品。 Bubble 开发人员平均每小时收费 80 美元，所以这是一个很划算的交易但仅限于有限的时间。 服务通知：该网站/软件将包括您向我提到的所有功能，并将在规定的期限内完成。但是，一旦工作完成，您就无法免费请求额外的功能。这些将作为附加项目收费。对现有功能的修改是终身免费的。   由   提交 /u/ItsMeTemps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al7gge/bubble_web_development/</guid>
+      <pubDate>Wed, 07 Feb 2024 16:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用自动生成的 JavaScript 绑定和类型定义将 C# 解决方案编译为单文件 ES 模块</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al6vij/compile_c_solution_into_singlefile_es_module_with/</link>
+      <description><![CDATA[ 由   提交/u/Elringus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al6vij/compile_c_solution_into_singlefile_es_module_with/</guid>
+      <pubDate>Wed, 07 Feb 2024 16:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 locale=fa_IR 出现在我的 Facebook URL 中？我在美国...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al5wzw/why_does_localefa_ir_show_up_in_my_facebook_url/</link>
+      <description><![CDATA[现在有好几次，我的 Facebook 页面的 URL 地址中会出现 locale=fa_IR。然后，我必须编辑地址以删除区域设置，以便它将以美国英语显示。这种情况并不总是发生，只是偶尔发生。有什么想法吗？ 语言和区域设置已设置为“英语（美国）”   由   提交 /u/Connected-DBA   /u/Connected-DBA  reddit.com/r/webdev/comments/1al5wzw/why_does_localefa_ir_show_up_in_my_facebook_url/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al5wzw/why_does_localefa_ir_show_up_in_my_facebook_url/</guid>
+      <pubDate>Wed, 07 Feb 2024 15:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>LF 对旧网络应用程序新版本的思考</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al5p7b/lf_thoughts_on_new_version_of_old_web_app/</link>
+      <description><![CDATA[大家好，  我的团队正在构建当前正在使用的旧 Web 应用程序的新版本。目前主要是 1:1，但有一些效率提升和新功能。我们组织中的每个成员都使用它。 我觉得如果核心功能与以前的网络应用程序相同，只是一个新的界面（即菜单从上移到左），它会更方便。现代的幻灯片而不是弹出窗口等）和一些新添加的内容，那么我们应该看看是否所有成员都需要接受培训。我的想法是，对于大多数只使用基本功能的人来说，几乎没有什么改变。 如果 microsoft word 得到更新，通常人们不会去接受这方面的培训。这是相同的程序，但有一些更改。如果 Twitter 更新，他们没有接受培训，也许某些网络应用程序会进行首次教程，引导您了解应用程序中的新功能。 这就是我对此网络应用程序的感受。 &lt; p&gt;我的团队表示，我们需要培训每个人，并将花费大量时间和资源来做到这一点。 寻求其他人对这种情况的想法。 谢谢。&lt; /p&gt;   由   提交 /u/Sephran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al5p7b/lf_thoughts_on_new_version_of_old_web_app/</guid>
+      <pubDate>Wed, 07 Feb 2024 15:36:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>在客户端使用 JSON 创建 Word 文档？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1al59ds/creating_a_word_document_with_json_on_client_side/</link>
+      <description><![CDATA[我想知道是否可以在客户端获取由 JSON 生成的 Word 文档？它只是一个小型网络应用程序，我将在工作中供个人使用。基本上上传一个 Excel 工作表，获取数据，更改一些内容，然后从中制作一个 Word 文档 - 这会节省我的工作时间，哈哈。 我尝试了 docx 库，但似乎我无法按照需要的方式设置任何文本的样式（加粗等）。还有其他我可以研究的库吗？ 我看到的每个视频都一直想指导我制作模板并使用 API，但我认为这不会起作用它不是动态的（文档文件中的总页数将根据报告而变化）。 ​ TIA！ ​  ** 编辑 ** 我刚刚找到此链接： https://dev.to/iainfreestone/how-to-create-a-word-document-with-javascript-24oi 我将再次尝试在 docx 中设计我需要的样式；希望它有效！如果有人有任何其他建议，请随意！ ​   由   提交/u/waterwedoin96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1al59ds/creating_a_word_document_with_json_on_client_side/</guid>
+      <pubDate>Wed, 07 Feb 2024 15:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>CSRF 保护和“让我保持登录状态”</title>
       <link>https://www.reddit.com/r/webdev/comments/1al4dw8/csrf_protection_and_keep_me_logged_in/</link>
-      <description><![CDATA[想知道是否有人可以为我解释 CSRF 保护的某些方面。 ​ 假设我有一个与服务器通信的简单 HTML 客户端。它使用基于会话的身份验证，会话 ID 存储在 cookie 中。经过身份验证后，我可以访问受保护的路线来加载表格，例如允许我将钱转给其他人。现在我明白，正是这种设置使我容易受到 CSRF 攻击，为了防止这种情况，服务器将使用 CSRF 令牌向我的表单添加一个隐藏字段，然后需要使用表单操作将其发送回。 ​ 即使关闭并重新打开浏览器，我也希望能够保持登录状态。那么这是如何工作的呢？ ​ 如果我关闭并重新打开浏览器，然后返回转账页面，我假设服务器检查是否有有效的会话 ID已发送，如果是这样，则授予我对受保护路由的访问权限，生成新的 CSRF 令牌并将其添加到表单中，以便现在我可以使用表单操作将令牌发送回。 ​ ​ p&gt; 如何阻止使用 JS 的恶意网站复制该内容。因此，当我访问恶意页面时，它首先向我的服务器发送获取请求以访问受保护的路由。我的会话 cookie 将与请求一起发送，因此服务器不应该将包含 CSRF 令牌的转账页面发送回恶意网站，恶意网站可以检索该令牌并使用它来执行 CSRF 攻击。 &lt; p&gt;​ 我知道我对这个过程的理解有误，但我不确定哪里错了。   由   提交 /u/DuckBroker   [链接] [评论]]]></description>
+      <description><![CDATA[想知道是否有人可以为我解释 CSRF 保护的某些方面。 ​ 假设我有一个与服务器通信的简单 HTML 客户端。它使用基于会话的身份验证，会话 ID 存储在 cookie 中。经过身份验证后，我可以访问受保护的路线来加载表格，例如允许我将钱转给其他人。现在我明白，正是这种设置使我容易受到 CSRF 攻击，为了防止这种情况，服务器将使用 CSRF 令牌向我的表单添加一个隐藏字段，然后需要使用表单操作将其发送回。 ​ 即使关闭并重新打开浏览器，我也希望能够保持登录状态。那么这是如何工作的呢？ ​ 如果我关闭并重新打开浏览器，然后返回转账页面，我假设服务器检查是否有有效的会话 ID已发送，如果是这样，则授予我对受保护路由的访问权限，生成新的 CSRF 令牌并将其添加到表单中，以便现在我可以使用表单操作将令牌发回。 ​ ​ p&gt; 如何阻止使用 JS 的恶意网站复制该内容。因此，当我访问恶意页面时，它首先向我的服务器发送获取请求以访问受保护的路由。我的会话 cookie 将与请求一起发送，因此服务器不应该将包含 CSRF 令牌的转账页面发送回恶意网站，恶意网站可以检索该令牌并使用它来执行 CSRF 攻击。 &lt; p&gt;​ 我知道我对这个过程的理解有误，但我不确定哪里错了。   由   提交 /u/DuckBroker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1al4dw8/csrf_protection_and_keep_me_logged_in/</guid>
       <pubDate>Wed, 07 Feb 2024 14:38:25 GMT</pubDate>
     </item>
     <item>
       <title>缓解眼睛疲劳的小窍门？</title>
       <link>https://www.reddit.com/r/webdev/comments/1al42bg/tips_for_eye_fatigue/</link>
-      <description><![CDATA[我知道这不是一个特定的 WebDev 主题，但它是相关的。 有关如何减轻长时间眼部疲劳的任何提示编码会话？ 我知道屏幕发出的蓝光会导致疲劳，但是是否有任何经过验证的、非噱头的事情需要考虑？ 我使用 Mac Studio 显示器夜班，但这并没有多大帮助，我读到有眼镜可以反射蓝光？想法？ ​   由   提交 /u/Mammoth-Asparagus498   [链接] [评论]]]></description>
+      <description><![CDATA[我知道这不是一个特定的 WebDev 主题，但它是相关的。 有关如何减轻长时间眼部疲劳的任何提示编码会话？ 我知道屏幕发出的蓝光会导致疲劳，但是是否有任何经过验证的、非噱头的事情需要考虑？ 我使用 Mac Studio 显示器夜班，但这并没有多大帮助，我读到有眼镜可以反射蓝光？想法？ ​   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1al42bg/tips_for_eye_fatigue/</guid>
       <pubDate>Wed, 07 Feb 2024 14:23:18 GMT</pubDate>
     </item>
@@ -27,88 +104,11 @@
       <pubDate>Wed, 07 Feb 2024 13:52:20 GMT</pubDate>
     </item>
     <item>
-      <title>关于Topics API的疑问</title>
-      <link>https://www.reddit.com/r/webdev/comments/1al38kh/doubt_about_the_topics_api/</link>
-      <description><![CDATA[我的网站每天有 1000 个新用户，这些用户通常不会重新进入，因为这在我的网站类型中没有意义. 我希望能够根据用户的喜好向他们展示他们可能感兴趣的内容 经过一些研究，我发现它不是这样工作的，它是专为大型 Adtech 公司收集信息而设计。我认为您只能看到在其学习的领域中的主题，因此，我的用户将只能看到在我的领域中学习的主题。 （在大多数用例中，我没有增加价值） 我认为像我这样的网站无法访问用户的主题。甚至，尽管所谓的 API 已经包含了所有可能的隐私，但除其他外，还制作了每周主题。  这是真的吗？  谢谢   由   提交 /u/LordSuricato   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1al38kh/doubt_about_the_topics_api/</guid>
-      <pubDate>Wed, 07 Feb 2024 13:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>预订系统、付款和增值税</title>
-      <link>https://www.reddit.com/r/webdev/comments/1al2vgy/booking_systems_payments_and_value_added_tax/</link>
-      <description><![CDATA[嗨， 不确定这如何适用于美国观众，但在英国，我们有增值税。增值税很复杂。它以不同的税率针对不同的项目支付，并根据纳税点日期计算，而纳税点日期本身是根据许多变量计算的。  这是我的问题 - 任何人都可以向我指出可以实现的数据结构和方法的方向，以解决（请原谅双关语）复杂性。  我正在构建一个预订系统，以便可以进行付款，然后对预订详细信息进行调整，这意味着适用于付款的费率可能会发生变化。这不仅仅是收取付款、将付款分配给某个行项目然后忘记所有事情直到时间结束的情况。  任何帮助，感激不尽。   由   提交/u/Wotsits1984  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1al2vgy/booking_systems_payments_and_value_added_tax/</guid>
-      <pubDate>Wed, 07 Feb 2024 13:26:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>预订系统、付款和增值税</title>
-      <link>https://www.reddit.com/r/webdev/comments/1al2vex/booking_systems_payments_and_value_added_tax/</link>
-      <description><![CDATA[嗨， 不确定这如何适用于美国观众，但在英国，我们有增值税。增值税很复杂。它以不同的税率针对不同的项目支付，并根据纳税点日期计算，而纳税点日期本身是根据许多变量计算的。  这是我的问题 - 任何人都可以向我指出可以实现的数据结构和方法的方向，以解决（请原谅双关语）复杂性。  我正在构建一个预订系统，以便可以进行付款，然后对预订详细信息进行调整，这意味着适用于付款的费率可能会发生变化。这不仅仅是收取付款、将付款分配给某个行项目然后忘记所有事情直到时间结束的情况。  任何帮助，感激不尽。   由   提交/u/Wotsits1984  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1al2vex/booking_systems_payments_and_value_added_tax/</guid>
-      <pubDate>Wed, 07 Feb 2024 13:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于网站开发最后阶段的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1al1syo/question_about_the_final_stage_of_website/</link>
-      <description><![CDATA[各位 Web 开发人员，大家好。我正在寻找你的一些经验分享。我已经创建了一个 Spring boot 项目，得到了一个 Debian 服务器（我知道如何使用它）和一个域名。 如何将这些单独的部分组合成一个网站，哪种方法最稳定、最现代？我知道我需要安装的唯一其他部分是 Nginx/Apache 服务器来托管 Spring boot 并给出我的域名？ 如何在服务器上传输/更新 Spring boot？我正在考虑将代码上传到 Github 并手动保持代码最新。个人项目不需要使用任何其他工具，对吧。    由   提交 /u/Next-Manager3333    reddit.com/r/webdev/comments/1al1syo/question_about_the_final_stage_of_website/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1al1syo/question_about_the_final_stage_of_website/</guid>
-      <pubDate>Wed, 07 Feb 2024 12:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>入门？ [自雇]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1al1bdf/getting_started_self_employed/</link>
-      <description><![CDATA[尚未接近技能水平。但我想知道一些事情： 您什么时候有足够的信心从副项目转向接待客户？  成为一名完全远程自由职业者有多容易或多困难？   由   提交/u/Zarathustra_04   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1al1bdf/getting_started_self_employed/</guid>
-      <pubDate>Wed, 07 Feb 2024 12:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用svg作为剪辑路径错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1al12pi/using_svg_as_clip_path_error/</link>
-      <description><![CDATA[我在 svg 中有一个边框，当我将其用作剪辑路径时，它似乎与其内部内容重叠，这可能是因为它的导出方式来自 Adob​​e Illustrator，但不知道如何修复。下面的演示我提供了两个示例，一个有边框（左），一个没有（右） https: //codepen.io/iliyan7305/pen/wvOxpPX   由   提交 /u/TrashPandu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1al12pi/using_svg_as_clip_path_error/</guid>
-      <pubDate>Wed, 07 Feb 2024 11:44:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 PixiJS 教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akz0vr/pixijs_tutorial_needed/</link>
-      <description><![CDATA[您好，有人可以建议我如何学习 pixiJS 吗？任何提示、视频教程或任何东西都将不胜感激。   由   提交/u/great_finger1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akz0vr/pixijs_tutorial_needed/</guid>
-      <pubDate>Wed, 07 Feb 2024 09:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我希望布局元素在台式机和笔记本电脑上看起来都很好，我应该使用什么单位？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</link>
-      <description><![CDATA[您好， 如果我想要布局，我应该使用什么单位来表示构成布局的元素的大小让大型桌面屏幕和小型笔记本电脑（现在不需要移动设备）看起来都不错？ 例如，如果我的布局只有很少的 div 和按钮，我是否应该在其宽度上使用百分比？ （我也尽量避免高度） 我制作的示例布局：https://imgur.com /a/ollYYI7 如何确保布局在两种屏幕尺寸上保持相同，并且不会“破坏”布局调整大小时，保持相同的比例，但如果可能的话，根据尺寸稍微调整一下，这样在较大的显示器上它会更大一点，在较小的笔记本电脑屏幕上它会更小，但不会太小 （因此台式机和笔记本电脑的布局应该是相同的，与移动设备不同，它们开始堆叠） 请注意，我不会考虑文本大小等内部测量，或者按钮的填充，对于这些我将使用 em、rem 等。 是否可以仅使用百分比来实现，或者我需要使用媒体查询来定位这些特定大小，例如：&lt; /p&gt; @media (min-width:801px) { /* 低分辨率笔记本电脑 */ } @media (min-width:1025px) { /*笔记本电脑和一些台式机 */ } @media (min-width:1281px) { /* 高分辨率笔记本电脑和台式机 */ }  然后为每个查询设置样式 ​ 谢谢   由   提交 /u/ligonsk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</guid>
-      <pubDate>Wed, 07 Feb 2024 08:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种简单的方法来共享活动媒体？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aky6v5/is_there_a_simple_way_to_share_media_for_an_event/</link>
-      <description><![CDATA[首页选项卡显示“上传照片”的网站并允许用户无需注册或输入任何信息即可轻松上传照片。 这样活动的来宾就可以上传他们拍摄的照片。 在另一页，叫图库，可以看到别人上传的照片。 如果可以的话，上传的照片可以方便下载。 有没有一套wordpress插件或者比较简单的如何做到这一点？   由   提交/u/Motor__Ad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aky6v5/is_there_a_simple_way_to_share_media_for_an_event/</guid>
-      <pubDate>Wed, 07 Feb 2024 08:18:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>退出网络代理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aky0yz/quitting_web_agency/</link>
-      <description><![CDATA[我 4 个月前开始，但每天都想退出，但只有 1000 英镑的积蓄。我是一名经验丰富的 Shopify 开发人员/设计师，在此之前我已经做了 7 年的自由职业者。我开始工作是为了养老金和稳定，讽刺的是为了更轻松的生活。 自从自由职业枯竭以来，我就没有客户了，所以我不可能复活它。 该机构对客户承诺过多，而我们交付的工作质量很差。大多数项目都是外包的，因此我们要为我们实际上没有完成的工作承担责任。这就像网络开发的麦当劳。此外，一天中的每个小时都被不切实际地安排起来，因此时间表是行不通的。每个人都有压力，但管理层却没有提供帮助。 我能做什么？   由   提交 /u/casioookid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aky0yz/quitting_web_agency/</guid>
-      <pubDate>Wed, 07 Feb 2024 08:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>jQuery 4.0.0 测试版！发布和变更日志</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akws8n/jquery_400_beta_release_and_changelog/</link>
-      <description><![CDATA[ 由   提交/u/gb_14  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akws8n/jquery_400_beta_release_and_changelog/</guid>
-      <pubDate>Wed, 07 Feb 2024 06:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Interop 2024 浏览器：JPEG XL 获胜，反应比第二名多 4 倍 - 已删除且没有任何解释</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akwngt/interop_2024_for_browsers_jpeg_xl_won_with_4x/</link>
-      <description><![CDATA[       由   提交/u/scorpio312  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akwngt/interop_2024_for_browsers_jpeg_xl_won_with_4x/</guid>
-      <pubDate>Wed, 07 Feb 2024 06:33:07 GMT</pubDate>
+      <title>第一次 HTTPS 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akuiw0/first_time_https_issues/</link>
+      <description><![CDATA[我有一个计算机科学课程的期末项目，我们需要重新设计网站。我正在尝试超越并添加功能性帖子请求。为此，我使用 pern 堆栈并使用 axios 将表单数据从 netlify 上托管的站点提交到充当服务器的路由器，服务器只是将数据保存到 json 文件。我知道这可能不安全，但这只是一个临时项目。该问题与 ssl/tls 有关。使用邮递员时，我可以通过 http 发送数据，但 https 不起作用。在过去的一个月里我已经尝试了很多，我的最后一次尝试是使用 nginx 设置反向代理并获取 openssl 证书，但在失败之后我已经束手无策了。我不想放弃这个目标，任何想法都受到高度赞赏，这是相关的代码和控制台日志。如果需要，请索取更多信息！ 我的网站网址：https://stupendous-donut-525e2c .netlify.app/ 反应代码：  const [inputValues, setInputValues] = useState({ email: &#39;&#39;, 密码: &#39;&#39;, recoveryPassword ：&#39;&#39;，confirmRecoveryPassword：&#39;&#39;，}）const handleInputChangeText =（字段，事件）=&gt; { setInputValues({ ...inputValues, [field]: event.target.value, }); }; const handleSubmit = async (e) =&gt;; { console.log(&#39;输出&#39;); e.preventDefault(); const body = { 确认恢复密码：inputValues.confirmRecoveryPassword，电子邮件：inputValues.email，密码：inputValues.password，恢复密码：inputValues.recoveryPassword };尝试 { const response = wait axios.post(&#39;https://74.110.105.96/submit&#39;, body, { headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, }, withCredentials: true, }); if(&#39;data&#39; in response){ window.alert(&quot;成功！谢谢您，您可以关闭此窗口了。&quot;) } else{ window.alert(&quot;连接失败，请稍后重试。&quot;) ) } } catch (error) { console.error(&#39;错误:&#39;, error.message); } };  ​ 服务器代码： const express = require(&#39;express&#39;); const cors = require(&#39;cors&#39;); const bodyParser = require(&#39;body-parser&#39;); const fs = require(&#39;fs/promises&#39;);常量应用程序 = Express();常量端口=5000； const corsOptions = { origin: &#39;https://stupendous-donut-525e2c.netlify.app/&#39;, 方法: &#39;POST&#39;, optionsSuccessStatus: 200, }; app.use(cors(corsOptions)); app.use(express.json()); console.log(“更新”); app.post(&#39;/submit&#39;, async (req, res) =&gt; { const formData = req.body; const fileName = &#39;form-data.json&#39;; try { const currentDate = new Date(); const hours = currentDate.getHours(); const 分钟 = currentDate.getMinutes(); const 秒 = currentDate.getSeconds(); wait fs.appendFile(fileName, `当前时间: ${小时}:${分钟}:${秒}\ n${JSON.stringify(formData)}\n`); res.status(200).send(&#39;表单数据保存成功。&#39;); } catch (err) { console.error(err.message); res. status(500).send(&#39;保存表单数据时出错。&#39;); } }); app.listen(PORT, () =&gt; { console.log(`服务器正在 https://*我家的 ip*:${PORT}`上运行); });  提交表单时的控制台： XHROPTIONS https://*我家的 ip*/submit CORS 缺少允许来源跨来源请求被阻止：同源策略不允许读取 https://*我家的 ip*/submit 处的远程资源。 （原因：CORS 标头“Access-Control-Allow-Origin”丢失）。状态代码：404。跨源请求被阻止：同源策略不允许读取 https://*我家的 ip*/submit 处的远程资源。 （原因：CORS请求未成功）。状态代码：（空）。错误：网络错误 SignIn.js:47:14  我在这上面花了太多时间，我唯一推断出的是浏览器阻止了请求，因为安全性问题，我只是不知道还能尝试什么。   由   提交 /u/myTwentyLenCharArray   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akuiw0/first_time_https_issues/</guid>
+      <pubDate>Wed, 07 Feb 2024 04:32:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

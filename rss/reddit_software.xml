@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 15:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 18:14:09 GMT</lastBuildDate>
+    <item>
+      <title>MacOS 上 dtSearch 的替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1al5f3b/macos_alternatives_to_dtsearch/</link>
+      <description><![CDATA[对于 dtSearch 的 MacOS 替代品有什么建议吗？我的内容库可能是 10K（大部分）PDF、Word 和 Excel 文档，分散在远程服务器上的许多目录中。一些所需的功能：  初始加载和文档索引，而不是每次搜索都开始新的 能够“分组”文档并仅搜索一组 合理的高级搜索语法，具有大写选项、“x 靠近 y”等。 输出为某种表格格式 - 不仅仅是列表文件发送到终端。  谢谢！   由   提交 /u/Another_Boston_Dan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1al5f3b/macos_alternatives_to_dtsearch/</guid>
+      <pubDate>Wed, 07 Feb 2024 15:24:16 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个语音转换器应用程序，将语音转换为文本到语音</title>
       <link>https://www.reddit.com/r/software/comments/1al52w9/looking_for_a_voice_changer_app_that_is_voice_to/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>对于移动开发人员：AI 错误修复和 Quash SDK 现已免费！</title>
       <link>https://www.reddit.com/r/software/comments/1al2uta/for_mobile_devs_ai_bug_fixes_quash_sdk_is_now_free/</link>
-      <description><![CDATA[嘿r/software， 大约 6 个月前，我和我的团队推出了 Quash - 这是我们在没有头痛。我们有点厌倦了为了了解出了什么问题而需要来来回回。 Quash 是我们对“必须有更好的方法”的回答，自动捕获开发人员修复错误所需的一切，从屏幕截图、会话重放、网络调用到日志。 快进到今天，我们我刚刚推出了一些令我真正兴奋的东西 - AI Bug Resolver。 想象一下：你遇到了一个 bug，但相反与通常的寻宝修复过程相比，我们的人工智能为您提供了一条生命线 - 实际的代码片段来解决它。 但是等等，还有更多。我们决定将整个 SDK 开源。为什么？因为我们相信社区和透明度在突破开发界限方面的力量。 我们正在启动这项新功能的试用，说实话，我很想让大家参与进来。无论您以前使用过 Quash 还是第一次听说我们，您的反馈确实有助于塑造错误修复的未来。 在评论中关注您或 DM！   由   提交 /u/psymaniax   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/software， 大约 6 个月前，我和我的团队推出了 Quash - 这是我们在没有头痛。我们有点厌倦了为了了解出了什么问题而需要来来回回。 Quash 是我们对“必须有更好的方法”的回答，自动捕获开发人员修复错误所需的一切，从屏幕截图、会话重放、网络调用到日志。 快进到今天，我们我刚刚推出了一些让我真正兴奋的东西 - AI Bug Resolver。 想象一下：你遇到了一个 bug，但相反与通常的寻宝修复过程相比，我们的人工智能为您提供了一条生命线 - 实际的代码片段来解决它。 但是等等，还有更多。我们决定将整个 SDK 开源。为什么？因为我们相信社区和透明度在突破开发界限方面的力量。 我们正在启动这项新功能的试用，说实话，我很乐意让大家参与其中。无论您以前使用过 Quash 还是第一次听说我们，您的反馈确实有助于塑造错误修复的未来。 在评论中关注您或 DM！   由   提交 /u/psymaniax   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1al2uta/for_mobile_devs_ai_bug_fixes_quash_sdk_is_now_free/</guid>
       <pubDate>Wed, 07 Feb 2024 13:25:23 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>需要一个可以在 MS Excel 中的工作表之间切换的快捷方式。</title>
       <link>https://www.reddit.com/r/software/comments/1al16fh/need_a_shortcut_where_i_can_switch_between_sheets/</link>
-      <description><![CDATA[我正在寻找一种快捷方式，使我能够从 Excel 中的一张工作表切换到另一张工作表（上次查看的）。纸张不相邻。与替代窗口之间的“alt + tab”类似的快捷方式，但现在使用 Excel 中的工作表。注意 - 不是“ctrl + shift + 向上/向下翻页”，因为这将需要对彼此不相邻的纸张进行多次笔划。要点是能够在当前工作表和先前查看的工作表之间切换。我可以通过在多个窗口中打开 Excel 文件，然后在两个窗口上选择两个不同的工作表，然后使用 alt 选项卡来完成此操作。但我希望能够在一个打开的窗口内完成此操作。例如。您打开了一个包含 6 个工作表（工作表 1 到工作表 6）的 Excel 文件。您处理工作表 5，然后单击工作表 2 来处理该工作表。假设您想返回到工作表 5（单击当前工作表之前上次查看的内容）。是否有键盘快捷键可以返回第 5 页？   由   提交 /u/Due-Function4447    reddit.com/r/software/comments/1al16fh/need_a_shortcut_where_i_can_switch_ Between_sheets/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一种快捷方式，使我能够从 Excel 中的一张工作表切换到另一张工作表（上次查看的）。纸张不相邻。与替代窗口之间的“alt + tab”类似的快捷方式，但现在使用 Excel 中的工作表。注意 - 不是“ctrl + shift + 向上/向下翻页”，因为这将需要对彼此不相邻的纸张进行多次笔画。要点是能够在当前工作表和先前查看的工作表之间切换。我可以通过在多个窗口中打开 Excel 文件，然后在两个窗口上选择两个不同的工作表，然后使用 alt 选项卡来完成此操作。但我希望能够在一个打开的窗口内完成此操作。例如。您打开了一个包含 6 个工作表（工作表 1 到工作表 6）的 Excel 文件。您处理工作表 5，然后单击工作表 2 来处理该工作表。假设您想返回到工作表 5（单击当前工作表之前上次查看的内容）。是否有键盘快捷键可以返回第 5 页？   由   提交 /u/Due-Function4447    reddit.com/r/software/comments/1al16fh/need_a_shortcut_where_i_can_switch_ Between_sheets/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1al16fh/need_a_shortcut_where_i_can_switch_between_sheets/</guid>
       <pubDate>Wed, 07 Feb 2024 11:51:11 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/MuseSingular   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aki31i/any_adobe_acrobat_alternatives_that_also_have/</guid>
       <pubDate>Tue, 06 Feb 2024 19:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于跨设备本地同步文件夹的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1akcx3f/software_to_synchronize_folders_locally_across/</link>
-      <description><![CDATA[我正在寻找一款可以在设备之间同步文件夹的软件。我是一名学生，在家时我使用 Windows 11 Pro 桌面，外出时我使用 Windows 笔记本电脑，最近我还购买了一台 Macbook Air。这意味着我需要在这三台设备上使用相同的文件，当我在其中一台设备上进行更改时，我也希望在其他设备上看到这些文件。因此该软件需要能够在 Windows 和 MacOS 上运行。如果能够在我的 Android 手机上获取我的文件就好了，但这不是必需的。  ​ 我正在考虑使用 OneDrive 或 Google Drive，但我希望将文件本地存储在每台设备上。而且，如果我想获得更大的存储容量，它们并不便宜，而且不是一次性付款。我不需要云服务（但如果我可以在 Android 手机上获取它们，我就不想将所有内容存储在本地）。 ​ 是吗有人知道有一款软件可以处理这个问题吗？我已经做了一些研究，但也许 Reddit 上的某个人为我提供了完美的答案:)。提前致谢！   由   提交/u/SexyJazzBoii69  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1akcx3f/software_to_synchronize_folders_locally_across/</guid>
-      <pubDate>Tue, 06 Feb 2024 15:51:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
