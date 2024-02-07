@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 06:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 09:13:00 GMT</lastBuildDate>
+    <item>
+      <title>如果我希望布局元素在台式机和笔记本电脑上看起来都很好，我应该使用什么单位？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</link>
+      <description><![CDATA[您好， 如果我想要布局，我应该使用什么单位来表示构成布局的元素的大小让大型桌面屏幕和小型笔记本电脑（现在不需要移动设备）看起来都不错？ 例如，如果我的布局只有很少的 div 和按钮，我是否应该在其宽度上使用百分比？ （我也尽量避免高度） 我制作的示例布局：https://imgur.com /a/ollYYI7 如何确保布局在两种屏幕尺寸上保持相同，并且不会“破坏”布局调整大小时，保持相同的比例，但如果可能的话，根据尺寸稍微调整一下，这样在较大的显示器上它会更大一点，在较小的笔记本电脑屏幕上它会更小，但不会太小 （因此台式机和笔记本电脑的布局应该是相同的，与移动设备不同，它们开始堆叠） 请注意，我不会考虑文本大小等内部测量，或者按钮的填充，对于这些我将使用 em、rem 等。 是否可以仅使用百分比来实现，或者我需要使用媒体查询来定位这些特定大小，例如：&lt; /p&gt; @media (min-width:801px) { /* 低分辨率笔记本电脑 */ } @media (min-width:1025px) { /*笔记本电脑和一些台式机 */ } @media (min-width:1281px) { /* 高分辨率笔记本电脑和台式机 */ }  然后为每个查询设置样式 ​ 谢谢   由   提交 /u/ligonsk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akygsa/what_units_should_i_use_for_the_elements_that/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:38:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一种简单的方法来共享活动媒体？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aky6v5/is_there_a_simple_way_to_share_media_for_an_event/</link>
+      <description><![CDATA[首页选项卡显示“上传照片”的网站并允许用户无需注册或输入任何信息即可轻松上传照片。 这样活动的来宾就可以上传他们拍摄的照片。 在另一页，叫图库，可以看到别人上传的照片。 如果可以的话，上传的照片可以方便下载。 有没有一套wordpress插件或者比较简单的如何做到这一点？   由   提交/u/Motor__Ad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aky6v5/is_there_a_simple_way_to_share_media_for_an_event/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>退出网络代理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aky0yz/quitting_web_agency/</link>
+      <description><![CDATA[我 4 个月前开始，但每天都想退出，但只有 1000 英镑的积蓄。我是一名经验丰富的 Shopify 开发人员/设计师，在此之前我已经做了 7 年的自由职业者。我开始工作是为了养老金和稳定，讽刺的是为了更轻松的生活。 自从自由职业枯竭以来，我就没有客户了，所以我不可能复活它。 该机构对客户承诺过多，而我们交付的工作质量很差。大多数项目都是外包的，因此我们要为我们实际上没有完成的工作承担责任。这就像网络开发领域的麦当劳。此外，一天中的每个小时都被不切实际地安排起来，因此时间表是行不通的。每个人都有压力，但管理层却没有提供帮助。 我能做什么？   由   提交 /u/casioookid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aky0yz/quitting_web_agency/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好！需要帮助我应该选择什么课程。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akxupr/hello_need_help_on_what_course_should_i_take_up/</link>
+      <description><![CDATA[Udemy：HTML、CSS、JavaScript、React – 在线认证课程 哈佛大学：CS50 计算机科学简介   由   提交 /u/jopardee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akxupr/hello_need_help_on_what_course_should_i_take_up/</guid>
+      <pubDate>Wed, 07 Feb 2024 07:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>jQuery 4.0.0 测试版！发布和变更日志</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akws8n/jquery_400_beta_release_and_changelog/</link>
+      <description><![CDATA[ 由   提交/u/gb_14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akws8n/jquery_400_beta_release_and_changelog/</guid>
+      <pubDate>Wed, 07 Feb 2024 06:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interop 2024 浏览器：JPEG XL 获胜，反应比第二名多 4 倍 - 已删除且没有任何解释</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akwngt/interop_2024_for_browsers_jpeg_xl_won_with_4x/</link>
+      <description><![CDATA[       由   提交/u/scorpio312  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akwngt/interop_2024_for_browsers_jpeg_xl_won_with_4x/</guid>
+      <pubDate>Wed, 07 Feb 2024 06:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费托管 Flask socket-io 后端的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akwgph/what_is_the_best_way_to_host_a_flask_socketio/</link>
+      <description><![CDATA[我在 Vercel 上部署了前端，但它不支持 Web 套接字。目前我正在研究 fly.io，尽管我不确定可能遇到的任何限制。如有任何建议，我们将不胜感激！   由   提交 /u/SkirschAlt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akwgph/what_is_the_best_way_to_host_a_flask_socketio/</guid>
+      <pubDate>Wed, 07 Feb 2024 06:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>用于不同技术站点的 NGINX 代理</title>
       <link>https://www.reddit.com/r/webdev/comments/1aktrca/nginx_proxy_for_different_tech_based_sites/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>ADA 合规条款</title>
       <link>https://www.reddit.com/r/webdev/comments/1aktqdy/ada_compliance_clause/</link>
-      <description><![CDATA[对于那些提供网站设计服务的人，您的合同中是否有条款规定，如果有人因您的网站设计不当而起诉您，您无需承担责任是否符合无障碍/ADA 标准？ （这是考虑到您整个协议的一部分，当然不包括使网站符合 ADA 要求） ​ 该措辞是什么样的？ &lt; /div&gt;  由   提交/u/alohayas  [链接] [评论]]]></description>
+      <description><![CDATA[对于那些提供网站设计服务的人，您的合同中是否有条款规定，如果有人因您的网站设计不当而起诉您，您无需承担责任是否符合无障碍/ADA 标准？ （这是考虑到您整个协议的一部分，当然不包括使网站符合 ADA 标准） ​ 该措辞是什么样的？ &lt; /div&gt;  由   提交/u/alohayas  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aktqdy/ada_compliance_clause/</guid>
       <pubDate>Wed, 07 Feb 2024 03:50:38 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[   大家好！ 🌟 我很高兴向您介绍 DrugGeneExplorer，这是一款功能强大的交互式 Python 工具，它利用 Sydney AI 的功能来探索药物与基因之间复杂的相互作用。通过 DrugGeneExplorer，您可以分析药物如何影响基因表达和功能，并提供有关以下方面的详细信息：副作用、治疗意义和研究发现。得益于丰富的库，用户界面的视觉风格更加丰富，使体验既信息丰富又引人入胜。我邀请您尝试 DrugGeneExplorer，提供反馈，如果您发现它有价值，请考虑在 GitHub 上留下一个星星。您的明星推动了该工具的持续支持和发展！感谢您对 DrugGeneExplorer 发展的兴趣和贡献。 🚀   由   提交 /u/FruitysX   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akqak0/github_davidai2024druggeneexplorer_this_python/</guid>
       <pubDate>Wed, 07 Feb 2024 01:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉丁美洲 ReactJS 半高级开发人员薪资 - WDYT？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akq5vz/latam_reactjs_semisenior_developer_salary_wdyt/</link>
-      <description><![CDATA[您好，我作为承包商每月全职工作 160 小时，在阿根廷布宜诺斯艾利斯赚取 2200 美元。 我还可以获得 15 天的带薪假期、一台 MacBook、一台显示器、英语课程以及参加 Udemy 课程的机会。 我正在考虑要求加薪。你怎么看待这件事？可以吗，还是我工资太低了？ 技术：React、NextJS、Node、SQL - 3 年软件开发经验，可能是半高级，C1+ 英语    由   提交/u/Hunt_Beneficial  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akq5vz/latam_reactjs_semisenior_developer_salary_wdyt/</guid>
-      <pubDate>Wed, 07 Feb 2024 00:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akmy3c/opinions_needed/</link>
-      <description><![CDATA[所以，几天前，我的一位朋友联系了我，他希望我为他创建一个体育博彩应用程序，他主要希望它用于足球（我的美国同胞的足球）。所以，我是一名拥有近 4 年经验的开发人员，我想问一下像这样的事情需要多少钱、成本以及可能需要多少人？钱对这个人来说不是问题，因为他明确表示，哈哈，但我绝对觉得这是一个大项目，责任相当重大。  我已经看到有一些我可以利用的 API，但说实话，我不太擅长创建这样的应用程序，欢迎任何意见、想法和建议！   由   提交 /u/OneResponsibility931   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akmy3c/opinions_needed/</guid>
-      <pubDate>Tue, 06 Feb 2024 22:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>柳树API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akmwhd/vrbo_api/</link>
-      <description><![CDATA[我正在尝试将 VRBO 的房产报价集成到在线工具中。 VRBO 确实有一个 API，但您需要被设置为合作伙伴并被授予访问该 API 的权限。我试图创建的工具的本质并不与 VRBO 完全竞争，但我觉得他们可能会这么认为，所以我不确定他们是否会允许。我也没有生意，这是我正在尝试自己创造的东西，如果有效的话可能会将其发展为一项业务。无论如何，我检查了 Rapid API，那里没有任何报价选项（尽管我确实找到了 Airbnb 的选项）。有什么想法或资源吗？   由   提交 /u/Upstairs-Studio8509    reddit.com/r/webdev/comments/1akmwhd/vrbo_api/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akmwhd/vrbo_api/</guid>
-      <pubDate>Tue, 06 Feb 2024 22:36:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助客户门户/自动创建子域</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akmdfl/help_with_client_portalautomatic_subdomain/</link>
-      <description><![CDATA[嘿伙计们，对网页设计相当陌生。 本打算使用 wordpress 来实现此目的，我已经有一个 Shopify 商店，但是不确定我是否可以在 Shopify 上执行此操作。基本上我想创建一个客户门户，当他们注册并注册其详细信息时，它会自动为他们创建一个子域并输入他们的链接，就像他们在第一次注册帐户时输入的链接树一样。 基本上是这样的：  用户在 xxxx.com 上注册并检查子域是否可用。  如果被占用，用户可以向所有者发送消息的子域或找到一个新的子域。 如果没有被占用，用户可以创建和使用它，指向自己的服务器等。 仅 username.xxxx.com，但是user.name.xxxx .com 无法创建。  所以我的问题是，最好的软件是什么？我该如何为每个客户端自动创建子域？我看到 3 年前的一篇帖子说有关通配符子域和加载服务器的内容，这仍然是可行的方法吗？   由   提交 /u/Dob0Brien   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akmdfl/help_with_client_portalautomatic_subdomain/</guid>
-      <pubDate>Tue, 06 Feb 2024 22:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们应该在内部进行身份验证还是外包？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akm37q/should_we_do_authentication_in_house_or_outsource/</link>
-      <description><![CDATA[大家好， 我的团队正在计划一个小型网站和应用程序，预计 MAU 为 50k-100k。我们目前正在讨论是否应该自己处理身份验证并在内部构建一些东西，还是外包并使用类似 keycloak 的东西。 两者都有优点和缺点。目前的最新技术是什么？   由   提交 /u/mixedfeelingz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akm37q/should_we_do_authentication_in_house_or_outsource/</guid>
-      <pubDate>Tue, 06 Feb 2024 22:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么办法可以阻止Chrome移动版自动刷新页面吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aklwrf/any_way_to_prevent_chrome_mobile_from_refreshing/</link>
-      <description><![CDATA[如果您将每个页面在后台打开一段时间，然后在几分钟/小时后看到它，Chrome 会自动重新加载每个页面。 &lt; p&gt;有什么方法可以禁用此自动刷新（针对特定页面）吗？   由   提交 /u/collimarco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aklwrf/any_way_to_prevent_chrome_mobile_from_refreshing/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:56:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止打开软件键盘时手机上的页面滚动</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akbeez/how_to_prevent_page_from_scrolling_on_mobile_when/</link>
-      <description><![CDATA[   嗨，我正在探索制作移动设备的可能性- 友好的网络应用程序。我尝试实现的场景之一： 当虚拟键盘出现（并占用一些屏幕空间）时，组件“缩小”我们得到了某种“页面的紧凑版本” ​ 缩小网页的概念 经过修补，我发现屏幕可见部分的大小（不是受键盘影响）是 visualViewport https://developer.mozilla.org /en-US/docs/Web/API/VisualViewport 我通过创建自定义钩子使我的组件对 VisualViewport 的更改做出反应。某些元素的高度需要根据当前的 VisualViewport 高度计算。最后，我做了一个表格草稿，响应软件键盘的打开。 但是，问题是，当我的页面缩小到可用空间后，键盘下的页面仍然有一个空白部分可以滚动（由于它是空的，所以没用）。 起初我认为这是由于一些根元素（如 HTML、body 等）扩展到窗口（文档）大小。为了测试这一点，我使用 USB 调试，发现所有元素都缩小到 VisualViewport 大小 (444) ​ 通过 USB 调试的 Chrome 开发工具 这是演示空白部分滚动的视频： https://youtube.com/shorts/5AO8GyEs0fk ​ 你知道有什么办法可以摆脱这种滚动吗？也许以某种方式使文档高度== VisualViewport？    由   提交/u/skorphil  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akbeez/how_to_prevent_page_from_scrolling_on_mobile_when/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:45:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
