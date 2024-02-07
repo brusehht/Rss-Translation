@@ -4,14 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 00:45:38 GMT</lastBuildDate>
-    <item>
-      <title>为什么有感知的机器人还没有成为现实？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ako1qu/why_isnt_sentient_robotics_a_thing_yet/</link>
-      <description><![CDATA[我觉得这应该已经发生了；除非有一些基本/秘密法规阻止其发生。   由   提交/u/etherian1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ako1qu/why_isnt_sentient_robotics_a_thing_yet/</guid>
-      <pubDate>Tue, 06 Feb 2024 23:24:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Feb 2024 03:12:29 GMT</lastBuildDate>
     <item>
       <title>人工智能的 UX/UI 设计……你在哪里学习？技能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aknrr6/uxui_design_for_ai_where_do_you_learn_skills/</link>
@@ -67,6 +60,13 @@
       <description><![CDATA[你们能为我的最后一年项目提出一些建议吗？我主修人工智能和机器学习。 我收集了一些想法，但由于复杂而无法实现：- 汽车警察模拟约会应用手写识别和生成器 &lt; !-- SC_ON --&gt;  由   提交 /u/Raz--8   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akeq6l/need_a_suggestion_for_a_project/</guid>
       <pubDate>Tue, 06 Feb 2024 17:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能帮我建造这个吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1akej21/can_you_help_me_build_this/</link>
+      <description><![CDATA[（免责声明，我是法国人，对我的英语感到抱歉:)） 我想构建一个人工智能助手来帮助我组织我的数字生活。我的方法（作为非程序员）是构建一个 NAS 来存储我所有结构化的个人和工作相关数据。然后，采用一个可以在硬件上运行的轻量级人工智能模型，并使用我的手机或笔记本电脑作为客户端，通过人工智能模型与我的数据进行交互。通过此设置，我希望 AI 模型执行以下操作：  检索信息并在提供任何输出时将其用作上下文。 对此数据采取操作，例如整理、修改等。 将新数据上传到 NAS。  ​ I个人在以下主题方面遇到很多困难：  结构化数据（使人工智能更容易在文件之间导航） RAG（以使用此数据作为上下文） AI 模型（我不知道使用哪个模型以及如何在本地使用它） Web 服务器（如何使用我的手机或笔记本电脑作为与 NAS 交互的客户端）。   正如您可能已经猜到的，我之前没有任何技术经验。我希望有任何建议可以改进这个想法。任何形式的帮助都将不胜感激。我会不断更新我构建这个助手的旅程，所以如果你对这个项目感兴趣，也可以给我留言一起工作。我会尽快回复。  ​ 我的灵感：  https://www.rabbit.tech/ https://github.com/KillianLucas/open-interpreter https://github.com/KillianLucas/01  ​ ​   由   提交/u/McLovin_617   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akej21/can_you_help_me_build_this/</guid>
+      <pubDate>Tue, 06 Feb 2024 16:59:15 GMT</pubDate>
     </item>
     <item>
       <title>在土木工程中使用人工智能</title>
