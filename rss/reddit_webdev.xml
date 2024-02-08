@@ -4,13 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 12:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 15:12:42 GMT</lastBuildDate>
     <item>
-      <title>你怎么看待这件事？ （文章讨论）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1altxpg/what_do_you_think_about_this_discussion_of_the/</link>
-      <description><![CDATA[同事们大家好！我最近看到文章“移动应用程序与响应式网站：什么最适合您的业务？”在我看来，现在越来越多的人试图说服人们使用应用程序。我将在下面添加文章。  ​ 你现在的工作进展得怎么样？相关性有变化吗？您对这篇文章的总体看法如何？  ​ 我会单独添加链接这里。 该公司看起来很正常。   由   提交/u/Mysterious_Onion115   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1altxpg/what_do_you_think_about_this_discussion_of_the/</guid>
-      <pubDate>Thu, 08 Feb 2024 11:49:28 GMT</pubDate>
+      <title>那一次我无意中创建了一个区块链Web IDE</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alxtsq/that_time_i_accidentally_created_a_blockchain_web/</link>
+      <description><![CDATA[       由   提交/u/nsjames1  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alxtsq/that_time_i_accidentally_created_a_blockchain_web/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>JustGore/LiveLeak 合法性吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alxrqy/justgoreliveleak_legality/</link>
+      <description><![CDATA[有一天，我偶然发现了theync、liveleak和justgore等网站的利润率。我想知道拥有此类网站的合法性以及可能存在的问题？  像这样的网站并不存在，而且它们已经积累了数百万美元，而且大多数已经在线多年，所以看起来并不违法。 我想知道是否任何人都知道在欧洲推出一个具有震撼价值的网站及其合法性有多困难。感谢您花时间阅读我的问题）   由   提交/u/Financial_Arrival_31   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alxrqy/justgoreliveleak_legality/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的 Discord 社区可以用来询问编码疑问？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alxfrn/what_are_some_good_discord_communities_to_ask/</link>
+      <description><![CDATA[我是一名有抱负的前端开发人员，已经学习了 HTML CSS，目前正在学习 Javascript。 我可以访问 stack Overflow或 reddit，但我想要实时解决方案或想要讨论我在编码时遇到的问题。有哪些好的 Discord 服务器可供人们分享编码问题并向经验丰富的开发人员寻求帮助？ ​ ​ 提前致谢&lt;3    由   提交/u/wonderful_utility  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alxfrn/what_are_some_good_discord_communities_to_ask/</guid>
+      <pubDate>Thu, 08 Feb 2024 14:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>菜鸟问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alvkia/noob_question/</link>
+      <description><![CDATA[      我正在观看这个 HTML 教程，但我不明白为什么当标签用于显示 Dog 、 cat 、 Fish 时他使用值...有什么用此处的值   由   提交 /u/punjabipendulover   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alvkia/noob_question/</guid>
+      <pubDate>Thu, 08 Feb 2024 13:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于多个 Web 应用程序的哪种 EC2 实例及其性能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alvhbn/what_kind_of_ec2_instances_for_multiple_web_apps/</link>
+      <description><![CDATA[就上下文而言，我正在构建一个包含多个网络应用程序的投资组合网站。所以结构将是这样的......将有一个主要的单页组合，它将链接到托管在同一服务器上的其他网络应用程序，只是在不同的子域上。 NGINX 将处理反向代理的事情。  所有应用程序都将是 Next + React。我还将使用 django 后端。  这就是我遇到问题的地方。我为每个应用程序构建了单独的 django 后端。我想我可能需要将它们全部合并为一个，只是为了计算资源。目前我的所有项目也都有单独的 Next 服务器。  即使运行 NGINX + next，t2.micro 实例中的 CPU 利用率也会达到 85% 左右 是的...这不会成功。我刚刚意识到写这个。太多了……东西。我的预算也非常紧张。我怎样才能做到这一点？   由   提交 /u/Striking-Storm-6092   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alvhbn/what_kind_of_ec2_instances_for_multiple_web_apps/</guid>
+      <pubDate>Thu, 08 Feb 2024 13:16:59 GMT</pubDate>
     </item>
     <item>
       <title>是否有公共代码演示如何使用 AWS 构建企业级 Web 应用程序。</title>
@@ -36,7 +64,7 @@
     <item>
       <title>现代 Web 开发中速度和可访问性的当务之急</title>
       <link>https://www.reddit.com/r/webdev/comments/1altil4/the_imperative_of_speed_and_accessibility_in/</link>
-      <description><![CDATA[问候r/webdev， 在我们追求创造卓越的网络体验的过程中，网站速度和可访问性的重要性怎么强调都不为过。这些不仅仅是趋势或合规性复选框，而是定义我们工作的质量和包容性的基本元素。 速度定义用户体验 网站的加载时间常常为用户体验奠定基础。在用户期望即时性的时代，快速加载的网站是不可协商的。对速度的承诺反映了对用户的承诺，由于将 Core Web Vitals 集成到搜索排名中，它是影响从用户满意度到 SEO 等各个方面的关键组成部分。 优化是持续的&lt; /strong&gt; 优化过程是迭代的，需要我们的注意力超越最初的发布。定期使用 Lighthouse 等工具进行审核可以确保我们维持绩效标准，而不必产生额外成本。 绩效是多维的 绩效不仅仅体现在速度上加载一个页面。它包括交互的响应能力、动画的效率以及浏览体验的整体流畅性。性能优化就是创建一个功能与效率相结合的环境。 可访问性是不可协商的 可访问性应该是一个优先事项，而不是事后的想法。我们有责任确保我们的网站可供所有人使用，这从本质上扩大了我们的影响范围并为不同的受众提供服务。实施无障碍最佳实践既是道德要求，也是明智的商业决策。 总之，网络开发的这些方面是我们工艺不可或缺的一部分。他们要求我们勤奋并塑造我们提供的体验。随着技术的不断发展，让这些原则指导我们的开发实践，以创建更高效​​、更具包容性和更成功的网站。 我最喜欢的一天是当我在 PageSpeed 的辅助功能上获得 100 分时 &gt; 请告诉我您的想法   由   提交 /u/ninthessence   [链接] [评论]]]></description>
+      <description><![CDATA[问候r/webdev， 在我们追求创造卓越的网络体验的过程中，网站速度和可访问性的重要性怎么强调都不为过。这些不仅仅是趋势或合规性复选框，而是定义我们工作的质量和包容性的基本元素。 速度定义用户体验 网站的加载时间常常为用户体验奠定基础。在用户期望即时性的时代，快速加载的网站是不可协商的。对速度的承诺反映了对用户的承诺，由于将 Core Web Vitals 集成到搜索排名中，它是影响从用户满意度到 SEO 等各个方面的关键组成部分。 优化是持续的&lt; /strong&gt; 优化过程是迭代的，需要我们的注意力超越最初的发布。定期使用 Lighthouse 等工具进行审核可以确保我们维持绩效标准，而不必产生额外成本。 绩效是多维的 绩效不仅仅体现在速度上加载一个页面。它包括交互的响应能力、动画的效率以及浏览体验的整体流畅性。性能优化是为了创建一个功能与效率相结合的环境。 可访问性是不可协商的 可访问性应该是一个优先事项，而不是事后的想法。我们有责任确保我们的网站可供所有人使用，这从本质上扩大了我们的影响范围并为不同的受众提供服务。实施无障碍最佳实践既是道德要求，也是明智的商业决策。 总之，网络开发的这些方面是我们工艺不可或缺的一部分。他们要求我们勤奋并塑造我们提供的体验。随着技术的不断发展，让这些原则指导我们的开发实践，以创建更高效​​、更具包容性和更成功的网站。 我最喜欢的一天是当我在 PageSpeed 的辅助功能上获得 100 分时 &gt; 请告诉我您的想法   由   提交 /u/ninthessence   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1altil4/the_imperative_of_speed_and_accessibility_in/</guid>
       <pubDate>Thu, 08 Feb 2024 11:22:25 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>苹果在 iOS 17 beta 中破坏了网络应用程序并且尚未修复它们</title>
       <link>https://www.reddit.com/r/webdev/comments/1alr8mj/apple_broke_web_apps_in_ios_17_beta_and_hasnt/</link>
-      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1alr8mj/apple_broke_web_apps_in_ios_17_beta_and_hasnt/</guid>
       <pubDate>Thu, 08 Feb 2024 08:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用微服务架构构建票务应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alr0cf/built_a_ticketing_app_with_microservices/</link>
-      <description><![CDATA[https://github.com/Tushar-Kapil /票务 功能  用户身份验证：用户帐户的注册和登录功能。 票务管理：用户可以出售、购买和支付门票。 订单详细信息：用户可以获取他们创建的所有订单的详细信息。 微服务架构：使用可扩展且可维护的微服务构建。 &gt; 后端：使用 Express.js 和 TypeScript 开发，使用 MongoDB 作为数据库。 消息代理：Nats-streaming-server 促进不同服务之间的通信。 编排： Kubernetes 用作高效部署和扩展的编排工具。 前端：利用 Next.js 进行服务器端渲染以增强性能。 乐观并发控制 (OCC)：处理数据库中的竞态条件。 行业标准设计：代码的结构和设计遵循行业最佳实践。 可扩展性：应用程序旨在轻松扩展以适应数百万用户。&lt; /li&gt; 自定义 npm 包：将自定义 npm 包发布到 npm，包含服务之间的共享代码。    由   提交 /u/TusharKapil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alr0cf/built_a_ticketing_app_with_microservices/</guid>
-      <pubDate>Thu, 08 Feb 2024 08:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>酒店预订网站如何知道某人使用其他网站预订酒店？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alqxmw/how_do_hotel_booking_sites_know_when_a_someone/</link>
-      <description><![CDATA[假设用户 A 正在预订网站 A 上并尝试预订酒店。用户 B 在用户 A 之前预订了同一家酒店，但从不同的预订网站 B 预订。 当有人使用不同的系统预订酒店时，不同的预订网站如何收到通知？ &lt; !-- SC_ON --&gt;  由   提交/u/aiai92  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alqxmw/how_do_hotel_booking_sites_know_when_a_someone/</guid>
-      <pubDate>Thu, 08 Feb 2024 08:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么工具/服务对您来说价值不菲？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alqj0d/what_toolservice_is_worth_its_weight_in_gold_to/</link>
-      <description><![CDATA[我发现了一些工具和服务，我愿意为之付出太多的钱，只是因为我喜欢它（对我来说是 cloudflare）。所以我想知道你们最喜欢什么东西？   由   提交 /u/Kurtisconnerr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alqj0d/what_toolservice_is_worth_its_weight_in_gold_to/</guid>
-      <pubDate>Thu, 08 Feb 2024 07:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js 社区关于默认启用 Corepack 的争论愈演愈烈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alov6y/nodejs_community_debate_intensifies_over_enabling/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alov6y/nodejs_community_debate_intensifies_over_enabling/</guid>
-      <pubDate>Thu, 08 Feb 2024 06:00:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
