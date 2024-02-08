@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 06:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 09:12:46 GMT</lastBuildDate>
+    <item>
+      <title>苹果在 iOS 17 beta 中破坏了网络应用程序并且尚未修复它们</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alr8mj/apple_broke_web_apps_in_ios_17_beta_and_hasnt/</link>
+      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alr8mj/apple_broke_web_apps_in_ios_17_beta_and_hasnt/</guid>
+      <pubDate>Thu, 08 Feb 2024 08:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用微服务架构构建票务应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alr0cf/built_a_ticketing_app_with_microservices/</link>
+      <description><![CDATA[https://github.com/Tushar-Kapil /票务 功能  用户身份验证：用户帐户的注册和登录功能。 票务管理：用户可以出售、购买和支付门票。 订单详细信息：用户可以获取他们创建的所有订单的详细信息。 微服务架构：使用可扩展且可维护的微服务构建。 &gt; 后端：使用 Express.js 和 TypeScript 开发，使用 MongoDB 作为数据库。 消息代理：Nats-streaming-server 促进不同服务之间的通信。 编排： Kubernetes 用作高效部署和扩展的编排工具。 前端：利用 Next.js 进行服务器端渲染以增强性能。 乐观并发控制 (OCC)：处理数据库中的竞态条件。 行业标准设计：代码的结构和设计遵循行业最佳实践。 可扩展性：应用程序旨在轻松扩展以适应数百万用户。&lt; /li&gt; 自定义 npm 包：将自定义 npm 包发布到 npm，包含服务之间的共享代码。    由   提交 /u/TusharKapil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alr0cf/built_a_ticketing_app_with_microservices/</guid>
+      <pubDate>Thu, 08 Feb 2024 08:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>酒店预订网站如何知道某人使用其他网站预订酒店？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alqxmw/how_do_hotel_booking_sites_know_when_a_someone/</link>
+      <description><![CDATA[假设用户 A 正在预订网站 A 上并尝试预订酒店。用户 B 在用户 A 之前预订了同一家酒店，但从不同的预订网站 B 预订。 当有人使用不同的系统预订酒店时，不同的预订网站如何收到通知？ &lt; !-- SC_ON --&gt;  由   提交/u/aiai92  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alqxmw/how_do_hotel_booking_sites_know_when_a_someone/</guid>
+      <pubDate>Thu, 08 Feb 2024 08:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么工具/服务对您来说价值不菲？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1alqj0d/what_toolservice_is_worth_its_weight_in_gold_to/</link>
+      <description><![CDATA[我发现了一些工具和服务，我愿意为之付出太多的钱，只是因为我喜欢它（对我来说是 cloudflare）。所以我想知道你们最喜欢什么东西？   由   提交 /u/Kurtisconnerr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1alqj0d/what_toolservice_is_worth_its_weight_in_gold_to/</guid>
+      <pubDate>Thu, 08 Feb 2024 07:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>Node.js 社区关于默认启用 Corepack 的争论愈演愈烈</title>
       <link>https://www.reddit.com/r/webdev/comments/1alov6y/nodejs_community_debate_intensifies_over_enabling/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[嘿r/webdev， 我一直在深入研究如何提高 Web 性能，最近使用 Astro JS 取得了一些巨大的成功，特别是在图像和速度优化领域。我想分享一下对我们机构的网站真正产生影响的见解和策略。 Astro JS 和性能：对于那些没有接触过 Astro JS 的人来说，Astro JS 是一个非常简洁的框架。还没遇到过。它旨在通过仅向用户提供必要的 JavaScript 来提供更快的 Web 体验。这与速度对于用户参与度、转化率和 SEO 的重要性完美契合。 图像优化：这是一个游戏规则改变者。我们探索了各种策略，例如选择正确的格式（WebP FTW！）、有效压缩（有损与无损）以及实现响应式图像。 Astro 的&lt;图像/&gt;&gt;组件在这里是一个救星，使管理这些方面变得更加容易。 延迟加载和 JavaScript 管理：Astro 支持开箱即用的延迟加载，这对于初始页面加载来说非常棒。另外，它还有一些可靠的实践来最小化和捆绑 JavaScript，以缩短交互时间。 CSS 和服务器端调整：最小化和提取关键 CSS 帮助我们减少渲染阻塞资源。此外，服务器端缓存和优化在提高性能方面发挥了重要作用。 构建和部署：Astro 的静态站点生成功能针对性能进行了优化，真正补充了现代托管平台。  最佳实践：我们学到了很多关于代码分割、优化第三方脚本和字体以及 CDN 和 HTTP/2 优化等网络增强功能的知识。 &lt; p&gt;监控和分析：像 Google 的 PageSpeed Insights 这样的工具对于迭代优化方法至关重要，有助于保持网站的快速运行。 我很想听听是否可以其他人已经尝试过 Astro JS 或对我们的流程有任何疑问。这是一个充满测试、学习和改进的旅程，与其他开发人员分享这些总是很棒的。这绝对是我目前最喜欢的框架。   由   提交 /u/ninthessence   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1alkwze/supercharging_website_performance_with_astro_js/</guid>
       <pubDate>Thu, 08 Feb 2024 02:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>操作方法：在 React 中使用 setInterval</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alkuh6/howto_use_setinterval_in_react/</link>
-      <description><![CDATA[       由   提交/u/JonJamesDesign  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alkuh6/howto_use_setinterval_in_react/</guid>
-      <pubDate>Thu, 08 Feb 2024 02:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的笔记本电脑建议！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alkbok/best_laptop_suggestion/</link>
-      <description><![CDATA[嗨， 我在台式机上编码，但现在我需要一台笔记本电脑。我是全栈工程师，但我的大部分任务都在前端。 预算：约 1200 美元 注意：没有 Macbook 给我你的建议和你为什么喜欢那台笔记本电脑！  谢谢   由   提交 /u/F2DProduction   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alkbok/best_laptop_suggestion/</guid>
-      <pubDate>Thu, 08 Feb 2024 01:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>你认为编程是一个低压力的工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1alkbjp/do_you_think_programming_is_a_lowstress_job/</link>
-      <description><![CDATA[如标题所示。 查看民意调查   由   提交/u/nakorndev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1alkbjp/do_you_think_programming_is_a_lowstress_job/</guid>
-      <pubDate>Thu, 08 Feb 2024 01:59:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头 CMS，允许自定义页面布局</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aljv2i/headless_cms_that_allows_for_customised_page/</link>
-      <description><![CDATA[我正在为一个项目进入无头 CMS 的世界，并且需要一个允许在页面上进行某些布局更改的解决方案。 页面的大部分内容将保持不变，但每页都有一些部分需要更改。 我正在尝试使用 Sanity，但我不确定它是否可以做这个。我还可以考虑其他选项吗？ 示例 一个页面将有一个全宽图像，然后是一个推荐块。 另一页将有 2 列带有图像，然后是推荐块。 ​ 另一方面，我明白保留演示（布局）数据应该与内容分开，但我可以&#39;想不出另一种方法来解决这个问题。我愿意接受任何见解:)   由   提交/u/intheburrows  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aljv2i/headless_cms_that_allows_for_customised_page/</guid>
-      <pubDate>Thu, 08 Feb 2024 01:37:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

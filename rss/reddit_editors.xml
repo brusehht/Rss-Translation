@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 08 Feb 2024 06:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 09:12:11 GMT</lastBuildDate>
+    <item>
+      <title>NAS 与 DAS 视频编辑器存储解决方案？</title>
+      <link>https://www.reddit.com/r/editors/comments/1alpnqk/nas_vs_das_video_editor_storage_solution/</link>
+      <description><![CDATA[大家好！ 所以，我是职业生涯早期的独奏编辑（主要使用 FX3 4K XAVCS-I） 422 10 位，主要 Apple 生态系统，三大视频编辑软件），经常出差……我的所有素材都分散在各种 SSD 和硬盘上。这是很有问题的&amp;显着减慢我的工作流程，因此我希望将我的文件存储解决方案升级为能够在我职业生涯发展过程中持续更长时间的解决方案，让我安心地囤积我的数据，一个高效的文件系统/工作流程，&amp;稳定的编辑/清理速度。 但是我很难决定哪种解决方案最适合我（目标是 3.5-4K 美元左右），在搜索 Reddit 后，我​​发现有很多解决方案你们中的一些人有丰富的经验&amp;有用的见解（如鲍勃）。所以这里是我正在权衡/纠结的选项： ​  6-8 bay DAS (G-raid或 OWC）与 7200rpm IronWolfs - 想法是直接对其进行编辑。可能会定期备份到 Backblaze 等服务。我对 DAS 的主要担忧是没有专门的措施来监控文件的完整性，并且在 NAS 中配备 ECC 内存似乎不错...使用 DAS 会提高我在 NAS 上的视频编辑清理速度吗？ 一个 6 盘位（可能是 8 个 - 这是一个很贵的东西）NAS（QNAP H874[T]？）。虽然我知道在旅行和旅行时通过 wifi 访问大视频文件可能会受到极大限制。将 NAS 暴露在互联网上可能会造成损害 - 我真正感兴趣的是家庭 NAS 提供的额外生活质量功能。我经常在计算机之间使用，因此能够在所有计算机之间轻松访问我的所有文件似乎是一个非常好的功能。但额外的前期成本、复杂性和 10gbE 网络速度上限值得吗？对我来说，一个巨大的卖点是监控存储、ECC RAM 和额外外部硬件资源完整性的专用软件，这些资源可专门用于创建代理或处理“文件内容”，从而使我的工作站能够专注于编辑...集成显卡有那么大帮助吗？缓存的效果如何真的？  对于 DAS（不受网络限制），我也不确定是否应该全力使用 HDD，或者是否应该使用 HDD应该有一个热 SSD 编辑池 + 冷 HDD 存储...无论它们都在 Raid 阵列中，还是我只是使用大/快速的 M.2 SSD（如 OWC Thunder Blade）进行编辑（可能在 raid 中）。 什么对你们有用 - 编辑速度有多快，你们有什么建议？会非常有兴趣听到。我优柔寡断，分析瘫痪... ​   由   提交/u/nickmleen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1alpnqk/nas_vs_das_video_editor_storage_solution/</guid>
+      <pubDate>Thu, 08 Feb 2024 06:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Davinci Resolve 导出 fcpxml 未在 FCPX 中导入</title>
+      <link>https://www.reddit.com/r/editors/comments/1alpmhg/exporting_fcpxml_from_davinci_resolve_not/</link>
+      <description><![CDATA[看在上帝的份上，我对这个该死的程序失去了理智。 所以我正在和某人合作谁使用 fcpx，我就想“太棒了，我可以从解析创建一个 fcpxml 文件发送给他”。我可能错了。 剪辑都在那里，只是媒体没有链接，但是当他去重新链接时，它出现了一个兼容性错误，说“必须具有相同的媒体类型”以及与原始文件类似的音频通道”。但它绝对是相同的源文件。 我尝试了很多不同的 fcpxml 导出，但都是相同的错误。他甚至尝试先导入所有素材，然后导入 fcpxml 文件，但仍然显示相同的错误。 我还有希望吗？    由   提交/u/warwickfilm  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1alpmhg/exporting_fcpxml_from_davinci_resolve_not/</guid>
+      <pubDate>Thu, 08 Feb 2024 06:47:57 GMT</pubDate>
+    </item>
     <item>
       <title>在 Premiere 中放大，同时导出缩小的 TL</title>
       <link>https://www.reddit.com/r/editors/comments/1alo461/upscaling_in_premiere_while_exporting_a/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[为一些社交视频做字幕。 简单的字幕，但他们需要使用他们的模板来完成。这是 Premiere 中的一个 aegraphics 模板。 我自动转录，修复了转录，自动计时字幕。将字幕导出为 text/csv。在时间轴上使用其模板，并使用字幕轨道作为模板对其进行切片。然后必须逐行复制并粘贴字幕。 这很痛苦。模板中有可编辑的设置，可以通过扬声器更改颜色，但我无法选择多个并同时更改它们。 我考虑过绕过他们的模板，只在低音轨道上进行操作，如下所示只有第一个需要任何动画，但字体和阴影不完全匹配。当我做第二批时，我可能会尝试获得更接近的匹配，因为这非常慢。几乎是所需时间的两倍。 有人遇到过类似的情况并且有更快的方法吗？   由   提交/u/Jeremy070707  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1al49fd/subtitles_with_mogrtaegraphics/</guid>
       <pubDate>Wed, 07 Feb 2024 14:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frame.io - 在浏览器中从 MacOS / Safari 上的评论链接下载无法正常工作</title>
-      <link>https://www.reddit.com/r/editors/comments/1al3kh1/frameio_download_in_browser_from_review_link_on/</link>
-      <description><![CDATA[一位客户打电话给我，我要发送评论链接，说下载功能已损坏。结果他在 MacOS 上使用 Safari。 我当时正在测试：创建一个指向资产的评论链接，打开此链接并尝试通过“在浏览器中下载”下载该资产。 装有 Firefox、Chrome 和 Edge 的 Windows 运行正常。 装有 Firefox 和 Chrome 的 MacOS 运行正常。 装有 Safari 的 MacOS 无法运行，下载会在 2 秒内停止。 运行 Firefox、Chrome 和 Edge 的 Windows 运行正常。 p&gt; 我尝试了两种不同的资源来尝试不同的 asst 大小。 谷歌搜索并没有让我得出“这是一个已知的错误”的结论。报告。 您也遇到过这种情况吗？   由   提交 /u/mapleycat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1al3kh1/frameio_download_in_browser_from_review_link_on/</guid>
-      <pubDate>Wed, 07 Feb 2024 14:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助同步</title>
-      <link>https://www.reddit.com/r/editors/comments/1al3jx2/help_with_sync/</link>
-      <description><![CDATA[拜托各位，我需要一些帮助。我有来自三个不同摄像机的几个剪辑和来自麦克风的几个音频剪辑，我需要将它们同步，但“同步”按钮呈灰色。我不习惯同步剪辑，因为我在整个职业生涯中这样做过几次。有小费吗？谢谢。 哦，我忘了说我用的是Premiere pro。谢谢。   由   提交 /u/WakeMeUpIn10min   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1al3jx2/help_with_sync/</guid>
-      <pubDate>Wed, 07 Feb 2024 14:00:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
