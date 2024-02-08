@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 08 Feb 2024 09:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 12:19:29 GMT</lastBuildDate>
+    <item>
+      <title>Avid - 颜色适配器影响所有视频轨道。</title>
+      <link>https://www.reddit.com/r/editors/comments/1altmrs/avid_color_adapter_affects_all_video_tracks/</link>
+      <description><![CDATA[我的热心用户朋友们大家好。我对我刚刚发现的事情感到有点困惑。我有一个时间轴，上面有 Xdcam 素材，还有多个带有 png 的图层和上面的一些 Quicktime 动画。 “效果大头钉”是指“效果大头钉”。全部都有哑光按键。 Quick Times 上还带有 Avid 自动添加的颜色适配器。全范围到视频范围。 Premiere Pro 的速度很快。到目前为止，一切都很好。  现在我意识到，颜色适配器也在改变我的素材中的颜色...是否有快速解决此问题的方法，或者 avid 是否希望我避免自动应用颜色适配器，而是这样做以某种方式通过步入方式嵌套在哑光键下？或者在错误的色彩空间中实现这样的图形只是一个坏主意？提前致谢！顺便说一句，我正在 HP z840 机器上运行最新版本的 Media Composer Ultimate。   由   提交/u/NoMercy1989   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1altmrs/avid_color_adapter_affects_all_video_tracks/</guid>
+      <pubDate>Thu, 08 Feb 2024 11:29:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>周四提示！ 2 月 8 日星期四一周</title>
+      <link>https://www.reddit.com/r/editors/comments/1alsbn2/tip_thursday_week_of_thu_feb_08/</link>
+      <description><![CDATA[过去一周你学到了一些新的/很酷的（或者可能只是显而易见的）东西吗？ 将你的工具**放入括号 [Avid、Premiere、FCPX、After Effects、Resolve] 以及后面的说明。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1alsbn2/tip_thursday_week_of_thu_feb_08/</guid>
+      <pubDate>Thu, 08 Feb 2024 10:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>NAS 与 DAS 视频编辑器存储解决方案？</title>
       <link>https://www.reddit.com/r/editors/comments/1alpnqk/nas_vs_das_video_editor_storage_solution/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Videomaker 将其评为年度最佳 NAS，但我无法找到有关此设备的任何评论或文章。我看到了很多关于 Synology 系统的推荐，但以同样的价格，Jupiter Mini 配备了我想要的一切（2 个 10GbE 端口、32 GB RAM，以及免费的 Thunderbolt 10G 以太网适配器）。  有什么理由远离 OWC？  提前致谢 ​   由   提交/u/soundproof2010   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1al7k9j/anyone_have_experience_with_the_owc_jupiter_mini/</guid>
       <pubDate>Wed, 07 Feb 2024 16:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我将视频放入视频编辑器时，它不会分离我单独的录制音频</title>
-      <link>https://www.reddit.com/r/editors/comments/1al4l5i/when_i_put_a_video_in_my_video_editor_it_doesnt/</link>
-      <description><![CDATA[标题不太准确，这可能不是提问的正确位置，但我找不到其他任何东西。所以我使用 obs 并有 6 个独立的音频曲目，当我进入编辑器时，音频变为 1 首曲目，因此我无法删除背景音乐，但不能删除我的声音和游戏音频，如果我删除声音，所有声音都会消失。我想改变这一点，所以我查找了如何在 obs 中做到这一点，现在我明白了，但如果我放入编辑器中，它仍然不起作用，它没有分离。有人知道怎么修这个东西吗？我一直在使用免费软件，如果有一个无需订阅即可购买的应用程序，它允许我自动分离音频，那将是最好的，但如果它必须有订阅，我明白，在这种情况下我应该问一下如果我单独录制多个音轨，什么软件允许我使用它们？我必须添加我的规格，即使这与此无关，所以我要添加它们，这样我的帖子就不会被删除，请记住，这可能不准确，特别是因为我不知道我的 GPU、RAM 或任何东西是什么：AMD Ryzen 3 3100 4 核处理器 mommerie 16gb，速度 2400MHz vormfactor？ DIMM、D 盘 TOSHIBA HDWD220、C 盘 GIGABYTE GP-GSTFS31120GNTD、以太网、PCIe 系列控制器、GPU NVIDIA GeForce GTX 1650 现在希望我的帖子不会被删除，并且我没有泄露任何我不应该泄露的内容 （我知道我的解释不是很清楚，很抱歉，我不知道如何用其他方式来表达） &lt;!-- SC_ON - -&gt;  由   提交/u/hentoio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1al4l5i/when_i_put_a_video_in_my_video_editor_it_doesnt/</guid>
-      <pubDate>Wed, 07 Feb 2024 14:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 .mogrt/.aegraphics 的字幕</title>
-      <link>https://www.reddit.com/r/editors/comments/1al49fd/subtitles_with_mogrtaegraphics/</link>
-      <description><![CDATA[为一些社交视频做字幕。 简单的字幕，但他们需要使用他们的模板来完成。这是 Premiere 中的一个 aegraphics 模板。 我自动转录，修复了转录，自动计时字幕。将字幕导出为 text/csv。在时间轴上使用其模板，并使用字幕轨道作为模板对其进行切片。然后必须逐行复制并粘贴字幕。 这很痛苦。模板中有可编辑的设置，可以通过扬声器更改颜色，但我无法选择多个并同时更改它们。 我考虑过绕过他们的模板，只在低音轨道上进行操作，如下所示只有第一个需要任何动画，但字体和阴影不完全匹配。当我做第二批时，我可能会尝试获得更接近的匹配，因为这非常慢。几乎是所需时间的两倍。 有人遇到过类似的情况并且有更快的方法吗？   由   提交/u/Jeremy070707  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1al49fd/subtitles_with_mogrtaegraphics/</guid>
-      <pubDate>Wed, 07 Feb 2024 14:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
