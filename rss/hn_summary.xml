@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 00:46:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 03:12:33 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 作者分享了他们修复 20 世纪 80 年代老式 Macintosh 电脑的经验。</title>
-      <link>https://t.me/hn_summary/73397</link>
-      <description><![CDATA[显示 HN：84–24 恢复 80 年代永恒的故事经典
-作者分享了他们修复 20 世纪 80 年代老式 Macintosh 电脑的经验。最初，他们对计算机的功能和展示计算机的简约家具感到满意。然而，他们意识到一种名为“retrobright”的工艺，可以使泛黄的 ABS 塑料外壳恢复原来的颜色。作者决定在他们的 Macintosh 上尝试 Retrobright，但遇到了困难并且最终结果参差不齐。然后他们决定对塑料进行专业喷漆，成功​​恢复了计算机的外观。作者的结论是修复现已完成，正好赶上 Macintosh 诞生 40 周年。]]></description>
-      <guid>https://t.me/hn_summary/73397</guid>
-      <pubDate>Fri, 09 Feb 2024 00:46:52 GMT</pubDate>
+      <title>Quartz 是一套工具，旨在帮助用户以我们的方式发布他们的数字花园和笔记 [...]</title>
+      <link>https://t.me/hn_summary/73415</link>
+      <description><![CDATA[Quartz – 面向 PKM 的 Markdown SSG
+Quartz 是一套工具，旨在帮助用户免费将数字花园和笔记发布为网站。最新版本 Quartz v4 已完全重写，重点关注最终用户的可扩展性和易用性。该项目旨在为想要以用户友好且可定制的格式在线分享知识和想法的个人提供解决方案。作者强调开放协作的重要性，并邀请用户加入Discord社区进行支持和讨论。该项目通过提供全面的文档和对可扩展性的高度重视而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/73415</guid>
+      <pubDate>Fri, 09 Feb 2024 03:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一场幽默的转折中，Waymo 的自动驾驶汽车与一辆 [...]</title>
-      <link>https://t.me/hn_summary/73396</link>
-      <description><![CDATA[展示 HN：TechCrunch 遇见洋葱
-有趣的是，Waymo 的自动驾驶汽车与一名骑自行车的人近距离接触，导致加州汽车监管机构展开调查。虽然骑自行车的人只受了轻伤，但这一事件引发了人们对乘坐机器人驾驶的汽车的安全性的质疑。这次事件提醒我们，即使在先进的技术和算法的世界里，也难免会发生意外。]]></description>
-      <guid>https://t.me/hn_summary/73396</guid>
-      <pubDate>Fri, 09 Feb 2024 00:42:47 GMT</pubDate>
+      <title>Postgres 16 查询规划器（又名：</title>
+      <link>https://t.me/hn_summary/73414</link>
+      <description><![CDATA[Postgres 16 查询规划器（又名优化器）中的新增功能
+Web 内容讨论了 PostgreSQL 16 中查询规划器的改进。它重点介绍了 10 项具体改进，并提供了 PostgreSQL 15 和 PostgreSQL 16 中查询规划器之间的比较。其中一些改进包括 DISTINCT 查询的增量排序、更快的 ORDER BY / DISTINCT聚合，支持 Right Anti Join，以及窗口函数的优化。内容提供示例和测试用例来演示更改及其对查询性能的影响。一项显着的改进是使用增量排序，这可以减少内存使用并缩短查询执行时间。总体而言，PostgreSQL 16 对查询规划器进行了显着增强，从而实现更快的 SQL 查询。 （根据 26% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73414</guid>
+      <pubDate>Fri, 09 Feb 2024 03:08:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“container-shell”项目是一个 shell 脚本，它启动并附加沙盒 [...]</title>
-      <link>https://t.me/hn_summary/73395</link>
-      <description><![CDATA[显示 HN：container-shell – 容器作为类固醇的 chroot
-“container-shell”项目是一个 shell 脚本，它使用 Docker 启动并附加沙盒 shell，提供对当前目录或项目目录的访问。它将 chroot 的概念与容器相结合，创建一个用于使用或测试工具的沙盒环境。作者强调了使用容器来控制项目依赖性和影响的重要性，特别是考虑到最近的供应链攻击。该脚本的工作原理是启动一个带有保持活动循环的容器，并立即为其启动一个 shell。它可以与或不与 Shellfile 一起使用来配置 Docker 映像等设置。作者承认 Docker 的这种用法不是其预期目的，但表示它满足了他们的需求。他们还提到了未来支持 NixOS 的可能性。]]></description>
-      <guid>https://t.me/hn_summary/73395</guid>
-      <pubDate>Fri, 09 Feb 2024 00:38:44 GMT</pubDate>
+      <title>[媒体]Arm Holdings 股价大幅上涨，飙升高达 64%，af [...]</title>
+      <link>https://t.me/hn_summary/73413</link>
+      <description><![CDATA[第三季度财报披露其人工智能优势后，Arm Holdings 股价飙升 64% 
+Arm Holdings 公布好于预期的第三季度财报后，股价大幅上涨，涨幅高达 64%。财报突显了 Arm 对人工智能的投入不断增加，这一直是其成功背后的推动力。该公司与英伟达的合并提议遭到监管机构的阻止，但财报显示，如果该交易成功，将对 Arm 非常有利。 Arm Holdings 的市值增加了 470 亿美元，市值达到 1260 亿美元。该公司对 2024 年的乐观指引，加上华尔街分析师的积极评论，进一步提振了 Arm Holdings 股票的兴奋度。]]></description>
+      <guid>https://t.me/hn_summary/73413</guid>
+      <pubDate>Fri, 09 Feb 2024 03:04:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Nasium 是一款健身房跟踪应用程序，提供一系列功能来帮助用户优化 [...]</title>
-      <link>https://t.me/hn_summary/73394</link>
-      <description><![CDATA[显示 HN：Nasium – 健身房跟踪应用
-Nasium 是一款健身房跟踪应用程序，提供一系列功能来帮助用户优化锻炼、防止受伤并实现健身目标。其中一项突出的功能是每周的肌肉活动概览，它允许用户随着时间的推移监控和分析他们的肌肉使用模式。这可以帮助用户识别趋势并定制他们的健身程序以获得最佳效果。另一个独特的功能是能够在一周内均匀分配肌肉活动，通过渐进式超负荷促进生长。该应用程序还提供定制的过滤器和搜索选项，以快速找到最喜欢的锻炼，从而更容易保持动力。此外，Nasium 允许用户立即开始锻炼课程，提供便利和效率。]]></description>
-      <guid>https://t.me/hn_summary/73394</guid>
-      <pubDate>Fri, 09 Feb 2024 00:34:40 GMT</pubDate>
+      <title>人工智能能否解开古代世界的秘密？</title>
+      <link>https://t.me/hn_summary/73412</link>
+      <description><![CDATA[人工智能能否解开古代世界的秘密？ 
+文章讨论了利用人工智能技术来解开古代世界的秘密，特别关注赫库兰尼姆纸莎草纸。这些纸莎草纸是公元 79 年维苏威火山喷发时保存下来的卷轴集。然而，由于这些卷轴烧焦且易碎，因此无法阅读。 GitHub 前首席执行官纳特·弗里德曼 (Nat Friedman) 发起了维苏威火山挑战赛，提供 100 万美元奖金，用于开发能够阅读古卷的人工智能软件。参赛者利用人工智能算法和高分辨率扫描在破译卷轴方面取得了进展。最终目标是解锁整个收藏，并有可能改写古代世界的历史。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/73412</guid>
+      <pubDate>Fri, 09 Feb 2024 02:50:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加拿大政府正在采取行动打击汽车盗窃，禁止 Flipper Z [...]</title>
-      <link>https://t.me/hn_summary/73393</link>
-      <description><![CDATA[加拿大政府禁止 Flipper Zero 以打击汽车盗窃&lt; br/&gt;
-加拿大政府正在采取行动，通过禁止 Flipper Zero 设备来打击汽车盗窃。加拿大边境服务局 (CBSA) 将投资 2800 万加元，以增强调查和检查被盗车辆的能力，并加强调查和情报共享方面的合作。加拿大皇家骑警 (RCMP) 协调联邦、省和市警察部队之间的情报共享，并利用港口执法能力来识别加拿大边境的威胁。加拿大司法部将审查《刑法》的潜在修正案，以加强与汽车盗窃相关的法律框架。加拿大交通部将现代化车辆安全标准并识别货物装卸漏洞。加拿大创新、科学和经济发展部 (ISED) 将与企业和汽车行业合作开发新的解决方案，以保护车辆免遭盗窃，并禁止使用 Flipper Zero 等设备。]]></description>
-      <guid>https://t.me/hn_summary/73393</guid>
-      <pubDate>Fri, 09 Feb 2024 00:30:36 GMT</pubDate>
+      <title>这篇文章讨论了中国女演员赵薇最近从互联网上消失的事件 [...]</title>
+      <link>https://t.me/hn_summary/73411</link>
+      <description><![CDATA[王沪宁的胜利与恐怖
+文章讨论了中国女演员赵薇最近从互联网上消失以及政府对中国艺人更广泛的打压。它探讨了中国正在发生的“深刻变革”，即习近平主席的“共同繁荣”运动，其中包括监管打压和重塑中国文化的努力。文章重点介绍了王沪宁的角色，他是一位顶级意识形态理论家和中国政坛有影响力的人物，曾担任中国历届最高领导人的战略顾问。它讨论了王的背景、他对文化和政治稳定的看法以及他对美国的观察，这些观察塑造了他的思想。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73411</guid>
+      <pubDate>Fri, 09 Feb 2024 02:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>这个项目是关于一个可以用来对抗的自主机器人手臂。</title>
-      <link>https://t.me/hn_summary/73392</link>
-      <description><![CDATA[你可以与之对抗的自主机器人手臂&lt; br/&gt;
-这个项目是关于一个可以用来对抗的自主机器人手臂。该项目的目的是创造一种有趣的互动体验，用户可以在游戏中与机器人手臂竞争。作者提到，这个项目与其他项目不同，因为它使用计算机视觉和机器学习技术，使机械臂能够做出智能决策并调整其游戏策略。该项目可用于解决创建涉及与机器人手臂进行物理交互的引人入胜且具有挑战性的游戏的问题。]]></description>
-      <guid>https://t.me/hn_summary/73392</guid>
-      <pubDate>Fri, 09 Feb 2024 00:26:28 GMT</pubDate>
+      <title>[媒体] 这条来自官方 Twitter 帐户的推文提供了当前海面的最新情况 [...]</title>
+      <link>https://t.me/hn_summary/73410</link>
+      <description><![CDATA[我们已经接近去年6月10日的海面温度异常
+这条来自官方推特账户的推文提供了当前海面温度异常的最新情况。它表明我们已经接近去年 6 月 10 日记录的异常情况。该推文鼓励用户启用 JavaScript 或切换到受支持的浏览器以继续使用 Twitter。此内容中没有任何争议或令人惊讶的信息。]]></description>
+      <guid>https://t.me/hn_summary/73410</guid>
+      <pubDate>Fri, 09 Feb 2024 02:31:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 医疗保险和医疗补助服务中心 (CMS) 已澄清，健康保险 [...]</title>
-      <link>https://t.me/hn_summary/73391</link>
-      <description><![CDATA[联邦政府向保险公司澄清，人工智能不能用于拒绝医疗保险承保
-医疗保险和医疗补助服务中心 (CMS) 澄清，健康保险公司不能使用算法或人工智能 (AI) 来确定医疗保险优惠计划会员的护理或拒绝承保。这一澄清是在针对 UnitedHealth 和 Humana 提起诉讼之后作出的，指控他们使用了一种名为 nH Predict 的有缺陷的人工智能工具来拒绝为老年患者提供护理。诉讼称，该工具对急性后护理需求的估计不准确，员工因偏离这些估计而受到纪律处分。 CMS 备忘录指出，承保范围决定必须基于患者个体情况，而不仅仅是算法预测。 CMS 还警告保险公司，人工智能工具可能会导致偏见和歧视永久化。]]></description>
-      <guid>https://t.me/hn_summary/73391</guid>
-      <pubDate>Fri, 09 Feb 2024 00:22:24 GMT</pubDate>
+      <title>[媒体]文章讨论了热力学计算的概念及其潜在应用[...]</title>
+      <link>https://t.me/hn_summary/73409</link>
+      <description><![CDATA[热力学人工智能越来越热
+本文讨论了热力学计算的概念及其在人工智能中的潜在应用。作者介绍了热力学计算机和随机处理单元 (SPU) 作为新型硬件的概念。他们解释说，噪声是热力学人工智能计算的必要资源，许多机器学习算法都基于物理原理并利用随机性。该硬件的构建块是随机位（s-bits）和随机单位（s-units），它们可以表示连续变量。作者的目标是统一基于热力学的现代人工智能算法，并建议使用热力学硬件来加速这些算法。他们展示了第一台连续变量热力学计算机，其中包括一个可以从高斯分布中采样并执行矩阵求逆的 SPU。 SPU的结果与数字计算机上的计算结果相当，并且在性能和能耗方面比传统硬件显示出优势。本文最后强调了为这种新硬件发现新算法的潜力以及未来在热力学计算机上训练神经网络的可能性。]]></description>
+      <guid>https://t.me/hn_summary/73409</guid>
+      <pubDate>Fri, 09 Feb 2024 02:27:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “konf”项目是 Go 程序的极简配置加载器。</title>
-      <link>https://t.me/hn_summary/73390</link>
-      <description><![CDATA[展示 HN：Go 的极简配置加载器&lt; br/&gt;
-“konf”项目是 Go 程序的极简配置加载器。它为 Go 程序提供了一种读取配置的方法，而无需绑定到特定的配置源。该项目提供了两个API：供应用程序作者读取配置的Config类型，以及供配置源库实现者使用的Loader和Watcher接口。这种解耦允许开发人员根据“konf.Config”编写代码，同时单独管理配置源。该项目支持各种配置源，例如环境变量、文件系统、标志和 AWS AppConfig。它还允许开发人员实现自己的自定义配置提供程序。该项目的灵感来自“viper”和“koanf”配置库。]]></description>
-      <guid>https://t.me/hn_summary/73390</guid>
-      <pubDate>Fri, 09 Feb 2024 00:18:19 GMT</pubDate>
+      <title>[媒体] 圈复杂度是一种软件度量，用于衡量程序的复杂度 [...]</title>
+      <link>https://t.me/hn_summary/73408</link>
+      <description><![CDATA[圈复杂度
+圈复杂度是一种软件度量，通过量化源代码中线性独立路径的数量来衡量程序的复杂度。它由 Thomas J. McCabe, Sr. 于 1976 年开发。复杂性是使用程序的控制流图来计算的，它可以应用于程序中的各个函数、模块、方法或类。一种测试策略是测试程序中的每条线性独立路径，测试用例的数量等于圈复杂度。复杂性还可以用来衡量程序的“结构化”并限制开发过程中的复杂性。 （根据故事文本的 61% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/73408</guid>
+      <pubDate>Fri, 09 Feb 2024 02:18:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Code Sync 是一款协作式实时代码编辑器，允许多个用户编码 [...]</title>
-      <link>https://t.me/hn_summary/73389</link>
-      <description><![CDATA[展示 HN：代码同步 – 实时代码编辑器 
-Code Sync 是一款协作式实时代码编辑器，允许多个用户在同一房间中一起编码。用户可以进入房间，共享唯一的房间 ID，并同时协作编写代码。该项目提供的功能包括实时协作代码编辑、语法突出显示、自动建议、代码更改的即时更新和同步、用户加入和离开事件的通知、多个主题以及全面的语言支持。它与其他项目的区别在于提供实时预览、用户状态列表、文件管理功能、群组聊天以及包括 React JS、Node.js、Express 和 Socket.io。该项目开放供贡献，并根据 MIT 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/73389</guid>
-      <pubDate>Fri, 09 Feb 2024 00:14:15 GMT</pubDate>
+      <title>【媒体】波兰造币厂铸造了世界上第一枚“飞行硬币”，命名为UFO MP-1766。</title>
+      <link>https://t.me/hn_summary/73407</link>
+      <description><![CDATA[波兰铸币厂创造出第一枚“飞行硬币”
+波兰造币厂创造了世界上第一枚“飞行硬币”，名为 UFO MP-1766。硬币由隐藏的电机驱动，并由于电机和专门设计的底座之间产生的磁场而漂浮在空中。这枚硬币由七盎司银制成，涂有荧光涂料，在黑暗中会发光。虽然其面额为 1,766 喀麦隆法郎，但其实际价值更高。该硬币要到春季才会上市，并将成为法定货币。波兰造币厂此前曾铸造过非常规硬币，例如 3D 形状硬币和圆柱形硬币。]]></description>
+      <guid>https://t.me/hn_summary/73407</guid>
+      <pubDate>Fri, 09 Feb 2024 02:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>作者介绍了一个名为 Blogkit 的新博客平台，旨在提供完全自定义的 [...]</title>
-      <link>https://t.me/hn_summary/73388</link>
-      <description><![CDATA[显示 HN：完全可定制的博客服务
-作者介绍了一个名为 Blogkit 的新博客平台，旨在提供完全可定制的功能、内置分析、内置电子邮件通讯服务以及使用 SEO 最佳实践优化的性能。他们强调了现有博客平台和 CMS 选项的局限性，需要组合多个服务并独立托管才能实现这些功能。 Blogkit 提供了一个浏览器内编辑器，用于使用 React.js 和 CSS/Tailwind CSS 自定义博客主题，以及内置分析和电子邮件新闻通讯功能。作者邀请反馈并为有兴趣尝试 Blogkit 的企业提供免费试用。]]></description>
-      <guid>https://t.me/hn_summary/73388</guid>
-      <pubDate>Fri, 09 Feb 2024 00:10:11 GMT</pubDate>
+      <title>[媒体]我停止使用密码。</title>
+      <link>https://t.me/hn_summary/73406</link>
+      <description><![CDATA[我停止使用密码。太棒了——但一团糟
+本文讨论了使用密钥作为传统密码的替代方案。密钥存储在密码管理器系统、浏览器、专用密码管理器或物理安全密钥中。作者分享了他们使用万能钥匙的经验，并强调了参与万能钥匙创建和部署的不同团队之间进行协调的必要性。在任何设备上保存密钥的功能很方便，但需要记住它们的保存位置。作者主要使用 Bitwarden 作为密码管理器，但必须将密钥保存到 iCloud 的钥匙串中以供移动使用。文章提到，万能钥匙正变得越来越普遍，但广泛采用还需要时间。密钥的好处包括提高安全性并消除密码重置的麻烦。]]></description>
+      <guid>https://t.me/hn_summary/73406</guid>
+      <pubDate>Fri, 09 Feb 2024 01:55:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
