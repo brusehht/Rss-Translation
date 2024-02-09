@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 21:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:46:52 GMT</lastBuildDate>
     <item>
-      <title>AI 平台 Ollama 宣布与 OpenAI Chat Completion API 兼容。</title>
-      <link>https://t.me/hn_summary/73350</link>
-      <description><![CDATA[Ollama 发布 OpenAI API 兼容性
-AI 平台 Ollama 宣布与 OpenAI Chat Completion API 兼容。这种集成允许用户在 Ollama 本地使用更多工具和应用程序。要使用 OpenAI 兼容的 API 端点，用户可以发出 cURL 请求或利用 OpenAI Python 或 JavaScript 库。 Ollama 提供了如何与 Vercel AI SDK 和 Autogen 等其他框架集成的示例。与 OpenAI API 的兼容性仍处于实验阶段，未来的改进可能包括对嵌入、函数调用、视觉和 logprobs 的支持。更多信息，用户可以参考OpenAI兼容性文档。]]></description>
-      <guid>https://t.me/hn_summary/73350</guid>
-      <pubDate>Thu, 08 Feb 2024 21:05:44 GMT</pubDate>
+      <title>[媒体] 作者分享了他们修复 20 世纪 80 年代老式 Macintosh 电脑的经验。</title>
+      <link>https://t.me/hn_summary/73397</link>
+      <description><![CDATA[显示 HN：84–24 恢复 80 年代永恒的故事经典
+作者分享了他们修复 20 世纪 80 年代老式 Macintosh 电脑的经验。最初，他们对计算机的功能和展示计算机的简约家具感到满意。然而，他们意识到一种名为“retrobright”的工艺，可以使泛黄的 ABS 塑料外壳恢复原来的颜色。作者决定在他们的 Macintosh 上尝试 Retrobright，但遇到了困难并且最终结果参差不齐。然后他们决定对塑料进行专业喷漆，成功​​恢复了计算机的外观。作者的结论是修复现已完成，正好赶上 Macintosh 诞生 40 周年。]]></description>
+      <guid>https://t.me/hn_summary/73397</guid>
+      <pubDate>Fri, 09 Feb 2024 00:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Reflex 是一家 Y Combinator 支持的公司，正在寻找一名开发者倡导者来教育 [...]</title>
-      <link>https://t.me/hn_summary/73349</link>
-      <description><![CDATA[Reflex (YC W23) 创始开发者倡导者
-Reflex 是一家由 Y Combinator 支持的公司，正在寻找一名开发者倡导者来向社区宣传其开源项目。该角色包括帮助开发人员了解如何使用 Reflex 的工具构建应用程序、创建高质量的应用程序和内容以及积极参与开源社区。理想的候选人应拥有至少 3 年的技术/工程经验，并拥有不断发展的开发者社区的记录。他们还应该对构建出色的产品充满热情，并有能力简化复杂的问题。该职位要求每周在旧金山工作五天。]]></description>
-      <guid>https://t.me/hn_summary/73349</guid>
-      <pubDate>Thu, 08 Feb 2024 21:01:40 GMT</pubDate>
+      <title>[媒体]在一场幽默的转折中，Waymo 的自动驾驶汽车与一辆 [...]</title>
+      <link>https://t.me/hn_summary/73396</link>
+      <description><![CDATA[展示 HN：TechCrunch 遇见洋葱
+有趣的是，Waymo 的自动驾驶汽车与一名骑自行车的人近距离接触，导致加州汽车监管机构展开调查。虽然骑自行车的人只受了轻伤，但这一事件引发了人们对乘坐机器人驾驶的汽车的安全性的质疑。这次事件提醒我们，即使在先进的技术和算法的世界里，也难免会发生意外。]]></description>
+      <guid>https://t.me/hn_summary/73396</guid>
+      <pubDate>Fri, 09 Feb 2024 00:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 GitHub 项目提供了一个用于构建端到端流分析的模板 [...]</title>
-      <link>https://t.me/hn_summary/73348</link>
-      <description><![CDATA[显示 HN：端到端流式传输的开源模板分析
-此 GitHub 项目提供了一个使用开源技术构建端到端流分析的模板。它从 GitHub API 收集公共事件，将它们发送到 Apache Kafka 进行消息代理，将它们持久保存到 QuestDB 中以进行快速时间序列数据库存储，并使用 Grafana 在仪表板上将它们可视化。该项目还包括一个基于 Web 的开发环境，使用 Jupyter Notebook 进行数据科学和机器学习。作者强调，所有组件都可以使用单个 docker-compose 命令启动，并提供运行项目的说明。该项目通过提供所需最少配置的完整流分析解决方案而脱颖而出。 （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/73348</guid>
-      <pubDate>Thu, 08 Feb 2024 20:30:29 GMT</pubDate>
+      <title>[媒体]“container-shell”项目是一个 shell 脚本，它启动并附加沙盒 [...]</title>
+      <link>https://t.me/hn_summary/73395</link>
+      <description><![CDATA[显示 HN：container-shell – 容器作为类固醇的 chroot
+“container-shell”项目是一个 shell 脚本，它使用 Docker 启动并附加沙盒 shell，提供对当前目录或项目目录的访问。它将 chroot 的概念与容器相结合，创建一个用于使用或测试工具的沙盒环境。作者强调了使用容器来控制项目依赖性和影响的重要性，特别是考虑到最近的供应链攻击。该脚本的工作原理是启动一个带有保持活动循环的容器，并立即为其启动一个 shell。它可以与或不与 Shellfile 一起使用来配置 Docker 映像等设置。作者承认 Docker 的这种用法不是其预期目的，但表示它满足了他们的需求。他们还提到了未来支持 NixOS 的可能性。]]></description>
+      <guid>https://t.me/hn_summary/73395</guid>
+      <pubDate>Fri, 09 Feb 2024 00:38:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据国会预算办公室（CBO）的一份报告，移民是一个项目 [...]</title>
-      <link>https://t.me/hn_summary/73347</link>
-      <description><![CDATA[国会预算办公室表示，移民将在十年内使美国 GDP 增长 7 万亿美元&lt; /a&gt;
-根据国会预算办公室 (CBO) 的一份报告，未来 10 年移民预计将使美国 GDP 增长 7 万亿美元。报告表明，移民数量的增加将导致劳动力的增加，进而带来更高的经济产出。国会预算办公室还预测，移民将导致联邦收入增加，因为移民将缴纳更多税款。然而，该报告并未考虑到对本土出生工人的工资或就业机会的任何潜在负面影响。]]></description>
-      <guid>https://t.me/hn_summary/73347</guid>
-      <pubDate>Thu, 08 Feb 2024 20:26:23 GMT</pubDate>
+      <title>[媒体]Nasium 是一款健身房跟踪应用程序，提供一系列功能来帮助用户优化 [...]</title>
+      <link>https://t.me/hn_summary/73394</link>
+      <description><![CDATA[显示 HN：Nasium – 健身房跟踪应用
+Nasium 是一款健身房跟踪应用程序，提供一系列功能来帮助用户优化锻炼、防止受伤并实现健身目标。其中一项突出的功能是每周的肌肉活动概览，它允许用户随着时间的推移监控和分析他们的肌肉使用模式。这可以帮助用户识别趋势并定制他们的健身程序以获得最佳效果。另一个独特的功能是能够在一周内均匀分配肌肉活动，通过渐进式超负荷促进生长。该应用程序还提供定制的过滤器和搜索选项，以快速找到最喜欢的锻炼，从而更容易保持动力。此外，Nasium 允许用户立即开始锻炼课程，提供便利和效率。]]></description>
+      <guid>https://t.me/hn_summary/73394</guid>
+      <pubDate>Fri, 09 Feb 2024 00:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>此网络内容讨论了 17 世纪哲学家巴鲁克·斯宾诺莎 (Baruch Spinoza) 的生活和思想，他 [...]</title>
-      <link>https://t.me/hn_summary/73346</link>
-      <description><![CDATA[巴鲁克·斯宾诺莎和危险时期的思维艺术 
-此网络内容讨论了 17 世纪哲学家巴鲁克·斯宾诺莎 (Baruch Spinoza) 的生活和思想，他因其非正统信仰而面临迫害。斯宾诺莎反对传统的宗教教义，例如三位一体和耶稣的神性，并主张知识自由以及自由思考和言论的能力。他被阿姆斯特丹犹太社区逐出教会，并面临宗教当局的强烈反对。尽管如此，斯宾诺莎仍然继续发展他的哲学体系，并成为知识自由的象征。这篇文章强调了斯宾诺莎的思想在当今世界的相关性，在当今世界，思想自由正受到来自各方的挑战。]]></description>
-      <guid>https://t.me/hn_summary/73346</guid>
-      <pubDate>Thu, 08 Feb 2024 20:22:20 GMT</pubDate>
+      <title>[媒体]加拿大政府正在采取行动打击汽车盗窃，禁止 Flipper Z [...]</title>
+      <link>https://t.me/hn_summary/73393</link>
+      <description><![CDATA[加拿大政府禁止 Flipper Zero 以打击汽车盗窃&lt; br/&gt;
+加拿大政府正在采取行动，通过禁止 Flipper Zero 设备来打击汽车盗窃。加拿大边境服务局 (CBSA) 将投资 2800 万加元，以增强调查和检查被盗车辆的能力，并加强调查和情报共享方面的合作。加拿大皇家骑警 (RCMP) 协调联邦、省和市警察部队之间的情报共享，并利用港口执法能力来识别加拿大边境的威胁。加拿大司法部将审查《刑法》的潜在修正案，以加强与汽车盗窃相关的法律框架。加拿大交通部将现代化车辆安全标准并识别货物装卸漏洞。加拿大创新、科学和经济发展部 (ISED) 将与企业和汽车行业合作开发新的解决方案，以保护车辆免遭盗窃，并禁止使用 Flipper Zero 等设备。]]></description>
+      <guid>https://t.me/hn_summary/73393</guid>
+      <pubDate>Fri, 09 Feb 2024 00:30:36 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 是否出于恶意合规而破坏 PWA？</title>
-      <link>https://t.me/hn_summary/73345</link>
-      <description><![CDATA[Apple 是否出于恶意合规性而破坏 PWA？&lt; br/&gt;
-在本文中，作者讨论了 Apple 在 iOS 17.4 beta 2 中对渐进式 Web 应用程序 (PWA) 的潜在破坏。作者强调，在 Beta 版本中，PWA 仍然对欧盟用户禁用，并表明这可能是故意的，而不是故意的。漏洞。这对欧盟用户来说可能是一个重大打击，因为许多欧洲公司已经将其原生 iOS 应用程序转换为 PWA，以避免 App Store 施加的限制。笔者推测，苹果可能不希望 PWA 在功能比 Safari 更强大的第三方浏览器中打开，因为这会直接与 App Store 中的原生应用竞争。这引发了人们对苹果公司将网络应用程序作为本机应用程序的可行替代方案的承诺的质疑。作者还提到，这种潜在的 PWA 破坏可能违反《数字市场法案》的反规避条款。文章最后指出，欧盟对此问题的反应还有待观察。]]></description>
-      <guid>https://t.me/hn_summary/73345</guid>
-      <pubDate>Thu, 08 Feb 2024 20:18:17 GMT</pubDate>
+      <title>这个项目是关于一个可以用来对抗的自主机器人手臂。</title>
+      <link>https://t.me/hn_summary/73392</link>
+      <description><![CDATA[你可以与之对抗的自主机器人手臂&lt; br/&gt;
+这个项目是关于一个可以用来对抗的自主机器人手臂。该项目的目的是创造一种有趣的互动体验，用户可以在游戏中与机器人手臂竞争。作者提到，这个项目与其他项目不同，因为它使用计算机视觉和机器学习技术，使机械臂能够做出智能决策并调整其游戏策略。该项目可用于解决创建涉及与机器人手臂进行物理交互的引人入胜且具有挑战性的游戏的问题。]]></description>
+      <guid>https://t.me/hn_summary/73392</guid>
+      <pubDate>Fri, 09 Feb 2024 00:26:28 GMT</pubDate>
     </item>
     <item>
-      <title>作者分享了他们意外开始使用 Blender 视频序列的经验 [...]</title>
-      <link>https://t.me/hn_summary/73344</link>
-      <description><![CDATA[我不小心搅拌了 VSE
-作者分享了他们在访问 Blender 总部并被要求做出贡献后意外开始使用 Blender 视频序列编辑器 (VSE) 的经历。他们对 VSE 进行了修补并进行了性能优化，从而实现了一些改进，例如更快速的时间线绘制、修复了音频波形显示以及 UI 优化调整。他们还改进了示波器功能，包括图像直方图、波形和矢量示波器。此外，他们还优化了用于音频/视频读写的 ffmpeg 库，修复了音频重采样问题，并解决了图像转换和过滤中的“半个像素”错误。作者强调了他们的学习经验和所实现的更快的渲染时间。 （根据 58% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/73344</guid>
-      <pubDate>Thu, 08 Feb 2024 20:14:11 GMT</pubDate>
+      <title>[媒体] 医疗保险和医疗补助服务中心 (CMS) 已澄清，健康保险 [...]</title>
+      <link>https://t.me/hn_summary/73391</link>
+      <description><![CDATA[联邦政府向保险公司澄清，人工智能不能用于拒绝医疗保险承保
+医疗保险和医疗补助服务中心 (CMS) 澄清，健康保险公司不能使用算法或人工智能 (AI) 来确定医疗保险优惠计划会员的护理或拒绝承保。这一澄清是在针对 UnitedHealth 和 Humana 提起诉讼之后作出的，指控他们使用了一种名为 nH Predict 的有缺陷的人工智能工具来拒绝为老年患者提供护理。诉讼称，该工具对急性后护理需求的估计不准确，员工因偏离这些估计而受到纪律处分。 CMS 备忘录指出，承保范围决定必须基于患者个体情况，而不仅仅是算法预测。 CMS 还警告保险公司，人工智能工具可能会导致偏见和歧视永久化。]]></description>
+      <guid>https://t.me/hn_summary/73391</guid>
+      <pubDate>Fri, 09 Feb 2024 00:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大喜鹊河已被授予法人资格，以保护其原始状态 [...]</title>
-      <link>https://t.me/hn_summary/73343</link>
-      <description><![CDATA[加拿大原始河流具有法人资格，保护自然的新方法
-为了保护其原始水域，加拿大喜鹊河已被授予法人资格。这条河对因努人具有重要的文化意义，也是多种野生动物的家园。世界上只有不到三分之一的大河保持自由流动，喜鹊河正面临着水力发电潜在筑坝的威胁。赋予河流法人资格属于自然权利框架，承认自然现象有权独立于其与人类的关系而存在。授予喜鹊河法人资格的决定被视为一种独特的保护方法，可能对保护全世界的生态系统产生影响。]]></description>
-      <guid>https://t.me/hn_summary/73343</guid>
-      <pubDate>Thu, 08 Feb 2024 20:10:07 GMT</pubDate>
+      <title>[媒体] “konf”项目是 Go 程序的极简配置加载器。</title>
+      <link>https://t.me/hn_summary/73390</link>
+      <description><![CDATA[展示 HN：Go 的极简配置加载器&lt; br/&gt;
+“konf”项目是 Go 程序的极简配置加载器。它为 Go 程序提供了一种读取配置的方法，而无需绑定到特定的配置源。该项目提供了两个API：供应用程序作者读取配置的Config类型，以及供配置源库实现者使用的Loader和Watcher接口。这种解耦允许开发人员根据“konf.Config”编写代码，同时单独管理配置源。该项目支持各种配置源，例如环境变量、文件系统、标志和 AWS AppConfig。它还允许开发人员实现自己的自定义配置提供程序。该项目的灵感来自“viper”和“koanf”配置库。]]></description>
+      <guid>https://t.me/hn_summary/73390</guid>
+      <pubDate>Fri, 09 Feb 2024 00:18:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple Vision Pro 是第一代“空间计算”耳机，既具有 SP [...]</title>
-      <link>https://t.me/hn_summary/73342</link>
-      <description><![CDATA[Apple Vision Pro 评测：着眼未来&lt; br/&gt;
-Apple Vision Pro 是第一代“空间计算”耳机，既是推测性的，也是不切实际的。作者将其与个人电脑的早期阶段进行了比较，当时人们购买它们时并不知道他们会用它们做什么。 Vision Pro 是一项昂贵的尖端技术，预示着可能的未来，但其实际用例有限。作者称赞这款耳机的设计和舒适度，以及令人印象深刻的音质。他们还强调了数字表冠对于进入沉浸式环境的有用性。然而，外部电池被视为一个缺点。 （根据故事文本的 27% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/73342</guid>
-      <pubDate>Thu, 08 Feb 2024 20:03:02 GMT</pubDate>
+      <title>[媒体]Code Sync 是一款协作式实时代码编辑器，允许多个用户编码 [...]</title>
+      <link>https://t.me/hn_summary/73389</link>
+      <description><![CDATA[展示 HN：代码同步 – 实时代码编辑器 
+Code Sync 是一款协作式实时代码编辑器，允许多个用户在同一房间中一起编码。用户可以进入房间，共享唯一的房间 ID，并同时协作编写代码。该项目提供的功能包括实时协作代码编辑、语法突出显示、自动建议、代码更改的即时更新和同步、用户加入和离开事件的通知、多个主题以及全面的语言支持。它与其他项目的区别在于提供实时预览、用户状态列表、文件管理功能、群组聊天以及包括 React JS、Node.js、Express 和 Socket.io。该项目开放供贡献，并根据 MIT 许可证获得许可。]]></description>
+      <guid>https://t.me/hn_summary/73389</guid>
+      <pubDate>Fri, 09 Feb 2024 00:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 比利时的 ISP，包括 Proximus 和 Orange，都渴望削减盗版 IPTV 流 [...]</title>
-      <link>https://t.me/hn_summary/73341</link>
-      <description><![CDATA[ISP 表示他们会像法律一样迅速地切断盗版 IPTV 流允许
-比利时的 ISP，包括 Proximus 和 Orange，都渴望在法律允许的情况下尽快切断盗版 IPTV 流。 2000 年代初，娱乐行业团体要求采取行动防止在线内容盗窃，但 ISP 犹豫是否要优先考虑客户利益。 2004 年，SABAM 以 ISP Scarlet 为目标，试图迫使他们过滤和阻止盗版流量。 Scarlet 进行了反击，最终在 2011 年获胜。然而，从那以后，人们对过滤和屏蔽的态度发生了变化。 Proximus 和 Orange 正在等待法律框架能够阻止非法流，因为当前的过程需要太长时间。两家 ISP 都认为盗版 IPTV 威胁着出版商和版权的经济模式。他们正在等待一项法律草案的实施，该草案将授权立即阻止盗版 IPTV 提供商。]]></description>
-      <guid>https://t.me/hn_summary/73341</guid>
-      <pubDate>Thu, 08 Feb 2024 19:53:56 GMT</pubDate>
+      <title>作者介绍了一个名为 Blogkit 的新博客平台，旨在提供完全自定义的 [...]</title>
+      <link>https://t.me/hn_summary/73388</link>
+      <description><![CDATA[显示 HN：完全可定制的博客服务
+作者介绍了一个名为 Blogkit 的新博客平台，旨在提供完全可定制的功能、内置分析、内置电子邮件通讯服务以及使用 SEO 最佳实践优化的性能。他们强调了现有博客平台和 CMS 选项的局限性，需要组合多个服务并独立托管才能实现这些功能。 Blogkit 提供了一个浏览器内编辑器，用于使用 React.js 和 CSS/Tailwind CSS 自定义博客主题，以及内置分析和电子邮件新闻通讯功能。作者邀请反馈并为有兴趣尝试 Blogkit 的企业提供免费试用。]]></description>
+      <guid>https://t.me/hn_summary/73388</guid>
+      <pubDate>Fri, 09 Feb 2024 00:10:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
