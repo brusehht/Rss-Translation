@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 09 Feb 2024 18:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 21:11:09 GMT</lastBuildDate>
+    <item>
+      <title>在哪里提出开源想法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1amxb9k/where_to_propose_a_open_source_idea/</link>
+      <description><![CDATA[我目前正在考虑一个我想做的项目。但我没有足够的编程经验来实现这一目标，所以我希望其他人加入我的想法。但提出项目想法的正确地点在哪里呢？在这个 Reddit 子版块中还是这太过自我广告了？或者有更好的方式来发布想法吗？   由   提交/u/kinkyMars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1amxb9k/where_to_propose_a_open_source_idea/</guid>
+      <pubDate>Fri, 09 Feb 2024 20:08:40 GMT</pubDate>
+    </item>
     <item>
       <title>是不是感觉 MIT 比 Apache 更不受青睐？</title>
       <link>https://www.reddit.com/r/opensource/comments/1amsq4v/does_it_seem_like_mit_is_not_favored_over_apache/</link>
-      <description><![CDATA[编辑：最糟糕的拼写错误，我的意思是“看起来 MIT 比 Apache 更受青睐吗” 主要卖点Apache 似乎是在对抗专利流氓，据我所知，这仅在美国重要？但是有很多新的开源项目（例如 Go 编程语言）选择了非常宽松的许可证？那么为什么这些人不关心专利流氓呢？我应该吗？   由   提交/u/i_need_gpu   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：最糟糕的拼写错误，我的意思是“看起来 MIT 比 Apache 更受欢迎吗” 主要卖点Apache 似乎是在对抗专利流氓，据我所知，这仅在美国重要？但是有很多新的开源项目（例如 Go 编程语言）选择了非常宽松的许可证？那么为什么这些人不关心专利流氓呢？我应该吗？   由   提交/u/i_need_gpu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1amsq4v/does_it_seem_like_mit_is_not_favored_over_apache/</guid>
       <pubDate>Fri, 09 Feb 2024 16:55:08 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>问：Oracle 是在创建一个伟大的新虚拟功能，还是通过放弃 Virtualbox 的“自定义内核模块”开发来削减成本？</title>
       <link>https://www.reddit.com/r/opensource/comments/1amd6pc/question_is_oracle_creating_a_great_new_virtual/</link>
-      <description><![CDATA[摘自本文https： //cyberus-technology.de/articles/vbox-kvm-public-release 我的第一个想法： 鉴于 Oracle 不断削减开源代码成本的历史它拥有但不想付费继续开发（开放式办公室）...在我看来，他们似乎在削减成本。 我的第二个想法： 但对我来说，我一直认为 1. 开发自己的虚拟化技术既昂贵又困难……而且当它在跨平台上工作时，难度会增加 10 倍；2. Oracle 没有充分利用该产品来跟上 VMware 和其他厂商的步伐；3.对于他们支持的功能数量...这使得开发和测试变得更加困难...所以也许这是挽救出色的 GUI 并将其切换为更好的后端的好方法？ &lt; !-- SC_ON --&gt;  由   提交/u/night0x63  [链接] [评论]]]></description>
+      <description><![CDATA[摘自本文https： //cyberus-technology.de/articles/vbox-kvm-public-release 我的第一个想法： 鉴于 Oracle 不断削减开源代码成本的历史它拥有，但不想付费继续开发（开放式办公室）...在我看来，他们似乎在削减成本。 我的第二个想法： 但对我来说，我一直认为 1. 开发自己的虚拟化技术既昂贵又困难……而且当它在跨平台上运行时，难度会增加 10 倍；2. Oracle 没有充分利用该产品来跟上 VMware 和其他厂商的步伐；3.对于他们支持的功能数量...这使得开发和测试变得更加困难...所以也许这是挽救出色的 GUI 并将其切换为更好的后端的好方法？ &lt; !-- SC_ON --&gt;  由   提交/u/night0x63  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1amd6pc/question_is_oracle_creating_a_great_new_virtual/</guid>
       <pubDate>Fri, 09 Feb 2024 02:19:23 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这是一个诚实的问题。这里有多少人一次性赚到了钱。有多难？怎么有人尝试在个人项目中做到这一点？   由   提交 /u/GuaxinimRadical   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1alznoo/did_you_already_earn_money_with_open_source/</guid>
       <pubDate>Thu, 08 Feb 2024 16:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将构建最受欢迎的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aly5ap/ill_build_the_most_requested_opensource_project/</link>
-      <description><![CDATA[嘿，开源爱好者们， 如果您有一个新工具的想法，或者有一个现有的工具，您会想要想要一个开源版本，请将其放在下面。 （最好是前者 - 更有趣）。 我会选择投票最高的对我来说最现实的构建。  只有一件事：它需要是一个完整的堆栈 Web 应用程序或 API。 &lt;3    ;由   提交/u/blueBerries720   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aly5ap/ill_build_the_most_requested_opensource_project/</guid>
-      <pubDate>Thu, 08 Feb 2024 15:23:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
