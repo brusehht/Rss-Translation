@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 09 Feb 2024 12:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 15:09:08 GMT</lastBuildDate>
+    <item>
+      <title>Apple Vision Pro 用户发现他们的 3,500 美元新耳机无法玩沉浸式游戏 [...]</title>
+      <link>https://t.me/hn_summary/73458</link>
+      <description><![CDATA[VR 色情内容不适用于 Apple Vision Pro 用户，因为其功能被阻止苹果
+Apple Vision Pro 用户发现，由于苹果在 Safari 中屏蔽了该功能，他们的 3,500 美元新耳机无法播放沉浸式 VR 色情内容。虽然苹果公司的长期政策是不允许在其设备上使用色情应用程序，但它此前曾允许用户通过网络访问自己选择的内容。不过，苹果现在已经屏蔽了 Vision Pro 上以沉浸式 VR 模式观看色情内容的功能，使其成为第一台无法播放空间色情内容的“空间计算机”。用户仍然可以在平面屏幕上观看常规色情内容，但这可能会让那些寻求更身临其境体验的人感到失望。]]></description>
+      <guid>https://t.me/hn_summary/73458</guid>
+      <pubDate>Fri, 09 Feb 2024 15:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]气候科学家迈克尔·曼赢得了针对两名保守派令状的诽谤案 [...]</title>
+      <link>https://t.me/hn_summary/73457</link>
+      <description><![CDATA[气候科学家迈克尔·曼赢得针对保守派作家的诽谤案 
+气候科学家迈克尔·曼 (Michael Mann) 赢得了针对两位保守派作家兰德·辛伯格 (Rand Simberg) 和马克·斯泰恩 (Mark Steyn) 的诽谤案，他们十多年前曾在网上批评他的作品。宾夕法尼亚大学教授曼恩就辛伯格和斯泰恩的言论起诉了他们，斯泰恩称曼恩的工作具有“欺诈性”，辛伯格则将曼恩与一名被定罪的儿童性虐待者杰里桑达斯基进行了比较。陪审团裁定辛伯格和斯坦恩诽谤曼恩，并命令辛伯格支付 1000 美元的惩罚性赔偿，斯坦恩支付 100 万美元。此案被视为气候科学家的胜利，并可能阻止未来对他们的攻击。&lt;​​br /&gt;]]></description>
+      <guid>https://t.me/hn_summary/73457</guid>
+      <pubDate>Fri, 09 Feb 2024 15:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 气候科学家迈克尔·曼 (Michael Mann) 在诽谤诉讼中再次获得 100 万美元 [...]</title>
+      <link>https://t.me/hn_summary/73456</link>
+      <description><![CDATA[陪审团在诽谤诉讼中判给气候科学家迈克尔·曼 100 万美元
+气候科学家迈克尔·曼 (Michael Mann) 在针对两名保守派作家的诽谤诉讼中获得了 100 万美元的赔偿，两名保守派作家将他的全球变暖研究成果与一名被定罪的儿童猥亵者的作品进行了比较。曼恩以其描绘气候变化的“曲棍球棒”图表而闻名，他起诉这些作家，声称这些评论损害了他的职业生涯和声誉。陪审团发现，这些作者恶意地做出了虚假陈述，判给曼恩每位作者 1 美元的赔偿金，以及一名作者 1,000 美元和另一名作者 100 万美元的惩罚性赔偿。这一判决被视为科学家对抗气候变化错误信息的胜利。]]></description>
+      <guid>https://t.me/hn_summary/73456</guid>
+      <pubDate>Fri, 09 Feb 2024 15:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Web 内容讨论了在 Go 中处理上下文管道的最佳实践。</title>
+      <link>https://t.me/hn_summary/73455</link>
+      <description><![CDATA[Go 中的上下文控制
+Web 内容讨论了在 Go 中处理上下文管道的最佳实践。作者解释说，上下文是 Go 中的基本构建块，有两个目的：提供跨 API 边界的控制流机制和承载请求范围的数据。作者概述了处理上下文的三个主要规则：只有入口点函数才应该创建新的上下文，上下文只能沿着调用链传递，并且在函数返回后不应存储或使用上下文。作者还分享了一个关于在结构中存储上下文时遇到问题的个人故事，并提供了修改后的解决方案。内容强调了不存储上下文的重要性，并解释了此规则背后的基本原理。]]></description>
+      <guid>https://t.me/hn_summary/73455</guid>
+      <pubDate>Fri, 09 Feb 2024 14:46:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者介绍了 CueCam，这是一个允许用户为 [...] 创建演示文稿的工具</title>
+      <link>https://t.me/hn_summary/73454</link>
+      <description><![CDATA[显示 HN：为您的网络摄像头而不是投影仪演示文稿
+作者介绍了 CueCam，这是一种允许用户为其网络摄像头创建演示文稿而不是使用投影仪的工具。他们提供了如何将 CueCam 用于体育教练的示例，从球队比赛的剪辑开始。然后作者解释了他们如何使用 Video Pencil 和 CueCam 来控制视频并通过 YouTube 链接共享浏览器窗口。他们还使用 ChatGPT 生成鼓舞人心的演讲，并添加背景音乐以达到效果。演示结束时，视频铅笔中的实时标题将在屏幕上显示“获奖者”。作者提供了示例项目供下载。]]></description>
+      <guid>https://t.me/hn_summary/73454</guid>
+      <pubDate>Fri, 09 Feb 2024 14:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]华为在法国的办事处遭到财务检察官的突击搜查，作为预审的一部分 [...]</title>
+      <link>https://t.me/hn_summary/73453</link>
+      <description><![CDATA[华为驻法国办事处遭金融检察官突击搜查
+作为对涉嫌“违反诚信”的初步调查的一部分，金融检察官突击搜查了华为在法国的办事处。该公司证实正在全力配合当局的合作。调查并不意味着有任何不当行为。华为在法国已有20多年的历史，一直遵守该国的法律法规。 2020年，该公司宣布计划在法国建设一家无线通信设备工厂，投资巨额，创造500个就业岗位。多个欧洲国家禁止或限制华为在其 5G 网络中的作用。]]></description>
+      <guid>https://t.me/hn_summary/73453</guid>
+      <pubDate>Fri, 09 Feb 2024 14:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>该网络内容的作者讨论了他们在尝试匹配骗局时面临的挑战 [...]</title>
+      <link>https://t.me/hn_summary/73452</link>
+      <description><![CDATA[调试 Tokio Instrumentation
+此 Web 内容的作者讨论了他们在尝试将控制台输出与 Tokio 的“原始”跟踪输出进行匹配时所面临的挑战。他们解释说，他们需要查看 Tracing 的内部 span::Id 来获取发出的 Span，而 fmt::Subscriber 不支持这一点。他们还表达了在视觉上区分 Tokio 仪器中使用的特定跨度和事件的愿望。作者提供了控制台输出和包含 span::Id 的彩色输出的示例。然后，他们引入了自己的自定义跟踪订阅者，称为 ari-subscriber，这有助于缩小 Tokio 的问题范围。作者解释了跟踪生态系统中订阅者和层的概念以及它们如何存储有关跨度的信息。最后，他们提供了如何在 Rust 代码中使用 ari-subscriber 的示例。 （根据 41% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73452</guid>
+      <pubDate>Fri, 09 Feb 2024 13:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>荷兰科学家发现垂直光伏 (PV) 系统具有高 [...]</title>
+      <link>https://t.me/hn_summary/73451</link>
+      <description><![CDATA[垂直光伏系统神秘且更高的能源产量&lt; br/&gt;
+荷兰科学家发现，由于工作温度较低，垂直光伏（PV）系统比水平阵列具有更高的发电量。研究人员进行了测试和模拟，发现垂直安装的传热系数几乎是水平安装的两倍。较低的工作温度对工作电压和总能量产生具有积极影响，特别是在高辐照度条件下。该研究使用数字孪生（现实世界资产的虚拟表示）来模拟垂直光伏系统。研究人员认为，这一发现可能会使年发电量增加 2-3%，并减缓降解机制。]]></description>
+      <guid>https://t.me/hn_summary/73451</guid>
+      <pubDate>Fri, 09 Feb 2024 13:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI，人工智能研究实验室，正在迈向非凡的里程 [...]</title>
+      <link>https://t.me/hn_summary/73450</link>
+      <description><![CDATA[随着增长的迅猛，OpenAI 有望达到 20 亿美元的收入里程碑
+人工智能研究实验室 OpenAI 随着其持续高速增长，即将实现收入 20 亿美元的非凡里程碑。这一成就证明了该公司在人工智能领域的成功及其创造可观收入的能力。这篇文章没有强调任何争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/73450</guid>
+      <pubDate>Fri, 09 Feb 2024 13:18:14 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 排列城市</title>
       <link>https://t.me/hn_summary/73449</link>
@@ -12,78 +84,6 @@
 格雷格·伊根（Greg Egan）的《排列城市》是一部科幻小说，探讨了在虚拟现实中创建自我软件模拟的概念。主角保罗·达勒姆（Paul Durham）不断复制自己，用作人工智能、时间和因果关系实验的豚鼠。然而，他的副本不断自行关闭。与此同时，玛丽亚·德卢卡沉迷于一个名为“汽车宇宙”的虚拟世界，保罗为她提供了一份工作，为汽车宇宙中的虚拟生物圈设计种子。问题是它需要对汽车宇宙进行模拟，超出了当前计算机的能力。小说深入探讨了围绕意识和现实的复杂哲学和科学思想。]]></description>
       <guid>https://t.me/hn_summary/73449</guid>
       <pubDate>Fri, 09 Feb 2024 12:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 医疗保健技术初创公司 Circle Medical 正在蒙特利尔招聘 Ruby 工程师。</title>
-      <link>https://t.me/hn_summary/73448</link>
-      <description><![CDATA[Circle Medical (YC S15) 正在蒙特利尔招聘 Ruby 工程师
-Circle Medical 是一家医疗保健技术初创公司，正在蒙特利尔招聘 Ruby 工程师。该公司由李嘉诚爵士支持，其使命是为每个人提供优质的初级护理。凭借最近的资金，Circle Medical 计划在未来六个月内在全国范围内扩张。他们正在寻找具有使用 Ruby、Rails 和 PostgreSQL 进行后端开发经验的充满热情的工程师。职责包括实施和维护功能、设计 API、集成第三方 API 以及编写安全软件。优先资格包括计算机科学学位、大型软件系统经验以及 JavaScript 和计算机安全知识。]]></description>
-      <guid>https://t.me/hn_summary/73448</guid>
-      <pubDate>Fri, 09 Feb 2024 12:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 技术博客的这篇博文讨论了重建公司视频的过程 [...]</title>
-      <link>https://t.me/hn_summary/73447</link>
-      <description><![CDATA[用微服务重建 Netflix 视频处理管道
-Netflix 技术博客的这篇博文讨论了使用微服务重建公司视频处理管道的过程。这篇文章重点介绍了多年来对该管道所做的改进和扩展，包括对 4K 和高动态范围 (HDR) 内容的支持，以及编码创新的集成，例如按标题和按镜头优化。这篇文章还解释了以前的系统（称为 Reloaded）的局限性，并介绍了称为 Cosmos 的新的基于微服务的平台。这篇文章接着描述了构成管道的不同视频服务，例如视频编码服务和视频质量服务，并解释了它们如何协同工作来生成用于流媒体和工作室操作的视频资产。]]></description>
-      <guid>https://t.me/hn_summary/73447</guid>
-      <pubDate>Fri, 09 Feb 2024 11:44:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]科学家宣布，世界已经超过了关键的变暖阈值[...]</title>
-      <link>https://t.me/hn_summary/73446</link>
-      <description><![CDATA[全球全年超过关键变暖阈值&lt; br/&gt;
-科学家们宣布，世界有记录以来首次超过了关键的变暖阈值，截至今年 1 月的 12 个月内，全球平均气温比工业化前平均气温高出 1.52 摄氏度。这强化了迅速减少温室气体排放以避免气候危机最严重影响的必要性。数据还显示，2024 年 1 月是有记录以来最热的 1 月，之前 7 个月都打破了高温记录。研究结果对采取行动限制气候变化和实现《巴黎协定》目标的紧迫性提出了严厉警告。]]></description>
-      <guid>https://t.me/hn_summary/73446</guid>
-      <pubDate>Fri, 09 Feb 2024 11:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]中国北京理工大学科学家研发出游戏-changi [...]</title>
-      <link>https://t.me/hn_summary/73445</link>
-      <description><![CDATA[中国科学家声称对GHz范围进行干扰和实时射频频谱分析
-北京理工大学的中国科学家开发出了结合干扰和实时射频 (RF) 频谱分析的革命性技术。该技术被描述为“体积小、性能高、功耗低”，可以监测和分析千兆赫范围内的信号，超出了传统的 40-160 MHz 范围。这一进步使中国在电子战领域具有优势，使他们能够捕获和分析美国军事单位发出的信号，从而可能影响无线通信。杨凯教授领导的研究团队还将人工智能融入数据分析过程，提升军队信息感知能力。]]></description>
-      <guid>https://t.me/hn_summary/73445</guid>
-      <pubDate>Fri, 09 Feb 2024 11:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>此网页内容来自 craftinginterpreters.com 网站，标题为“编译表达式”。</title>
-      <link>https://t.me/hn_summary/73444</link>
-      <description><![CDATA[编译表达式
-此网页内容来自网站 craftinginterpreters.com，标题为“编译表达式。”作者在本章开头引用了但丁·阿利吉耶里的《地狱篇》中的一段话，并介绍了本章令人兴奋的三个原因。首先，它提供虚拟机执行管道的最后一段。其次，作者开始编写一个实际的编译器来解析源代码并输出字节码。第三，作者介绍了Vaughan Pratt的“自顶向下运算符优先级解析”算法，这是他们最喜欢的解析表达式的算法。作者还提到，Pratt 解析器在学术界并不常见，但在生产编译器中却广为人知。然后本章继续讨论深入解析器核心之前的预备步骤。作者解释了使用VM编译和执行代码的过程，并介绍了单遍编译器的概念。作者还提到他们为本书设计的 Lox 语言非常适合单遍编译器。本章最后介绍了“advance()”函数，该函数从扫描仪读取标记并处理错误标记。 （根据故事文本的 18% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/73444</guid>
-      <pubDate>Fri, 09 Feb 2024 10:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]有报道称，俄罗斯军队正在使用卫星互联网服务 Starlink [...]</title>
-      <link>https://t.me/hn_summary/73443</link>
-      <description><![CDATA[俄罗斯军队使用从迪拜获得许可并进口的星链&lt; br/&gt;
-有报道称，俄罗斯军队正在使用从迪拜进口的卫星互联网服务“星链”。乌克兰士兵注意到俄罗斯军队对星链的使用有所增加，授权账户和终端抵达俄罗斯并在有争议的地区全面投入使用。乌克兰士兵还报告说，前线的互联网速度较慢。俄罗斯军方部署了电子战系统，扰乱了星链网络，并导致阿夫季夫卡互联网中断。这次中断影响了乌克兰军队的指挥和控制系统，削弱了与高级指挥部的沟通。俄罗斯军方还采取措施物理消除已发现的星链终端。文章还提供了 2022 年俄罗斯入侵乌克兰的背景信息。]]></description>
-      <guid>https://t.me/hn_summary/73443</guid>
-      <pubDate>Fri, 09 Feb 2024 09:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 这条推文的作者声称，流行的编程语言 Gemini 无法实现 [...]</title>
-      <link>https://t.me/hn_summary/73442</link>
-      <description><![CDATA[Gemini 无法向我展示在 C# 中复制内存的最快方法因为这是不道德的
-这条推文的作者声称，流行的编程语言 Gemini 无法为他们提供 C# 中复制内存的最快方法，因为这是不道德的。该推文没有提供任何进一步的解释或上下文，让读者猜测围绕此问题的争议。目前尚不清楚作者对 Gemini 有哪些具体的道德问题，也不清楚为什么在 C# 中使用它进行内存复制是不道德的。]]></description>
-      <guid>https://t.me/hn_summary/73442</guid>
-      <pubDate>Fri, 09 Feb 2024 09:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Carta，一家专门从事股权管理的初创公司，推出了一项新的服务cal [...]</title>
-      <link>https://t.me/hn_summary/73441</link>
-      <description><![CDATA[Carta推出启动关闭服务
-Carta 是一家专门从事股权管理的初创公司，推出了一项名为 Carta 结论的新服务，以帮助决定解散公司的创始人。关闭公司的过程通常充满挑战且耗时，涉及创建遣散费、取消协议和提交纳税申报表等任务。 Carta 结论旨在通过指导创始人完成整个流程并处理所有运营任务来减轻这一负担。此外，该服务还确保 Carta 上的投资者收到适当的税务文件。我们的目标是在这个困难时期为创始人提供支持，并帮助他们过渡到下一个篇章，无论是创办新公司还是追求不同的职业道路。]]></description>
-      <guid>https://t.me/hn_summary/73441</guid>
-      <pubDate>Fri, 09 Feb 2024 09:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：您的网络首选堆栈是什么？</title>
-      <link>https://t.me/hn_summary/73440</link>
-      <description><![CDATA[询问 HN：您的网络首选堆栈是什么？ 
-这篇文章的作者正在向黑客新闻社区寻求关于各种类型网站的首选技术堆栈的建议。他们特别提到了经典的商业网站、SaaS（软件即服务）平台、登陆页面和任何其他类型的网站。该帖子表明作者已经离开 Web 开发 10 年，正在寻找 HN 社区的最新建议和见解。]]></description>
-      <guid>https://t.me/hn_summary/73440</guid>
-      <pubDate>Fri, 09 Feb 2024 08:41:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
