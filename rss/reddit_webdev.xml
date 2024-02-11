@@ -4,11 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 10 Feb 2024 21:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:53:40 GMT</lastBuildDate>
+    <item>
+      <title>来自 Google Recaptcha 的屏幕截图。有人知道这些表单提交机器人发生了什么吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anu71i/screenshot_from_google_recaptcha_anyone_know/</link>
+      <description><![CDATA[   /u/b90qyah  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anu71i/screenshot_from_google_recaptcha_anyone_know/</guid>
+      <pubDate>Sat, 10 Feb 2024 23:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于社交聆听的良好 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1antpt5/good_api_for_social_listening/</link>
+      <description><![CDATA[webdev 社区您好，我正在寻找一个用于社交监听的良好 API。 API 将绑定到付费用户可以访问的平台（可能在信用系统上）。这样做的目的是让他们能够看到竞争对手的内容，并了解哪些内容在评论、点赞等方面最受关注，或者更广泛地说是趋势内容。   由   提交 /u/soloinmiami   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1antpt5/good_api_for_social_listening/</guid>
+      <pubDate>Sat, 10 Feb 2024 23:34:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRUD 样板 - 技术堆栈建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anst52/crud_boilerplate_tech_stack_recommendations/</link>
+      <description><![CDATA[我正着手开展一个雄心勃勃的项目，旨在对遗留 SaaS 应用程序进行现代化改造，并引导其走向未来。这一举措的诞生是为了摆脱当前雇主管理问题造成的混乱局面，我们的目标不仅是复制现有应用程序的功能，而且要显着改进现有应用程序的功能，为用户体验和性能树立新的标准。&lt; br /&gt; 和我一起参与这次冒险的还有一位开发人员，他虽然对后端开发有扎实的掌握，对前端技术有基本的了解，但对前端开发的最新进展（例如React）并不熟悉。我们现有的应用程序基于 ColdFusion 构建，利用 MSSQL 进行数据库管理，设计为多租户系统，并采用 Bootstrap 3 作为前端。它本质上是一个通过表单输入与用户交互的 CRUD 应用程序。 该应用程序还非常关注权限，因为可以为每个“模块”和不同的权限集设置用户级别访问权限。 该应用程序还非常关注权限。 &gt; 我们对社区在几个方面的建议非常感兴趣： 现代样板解决方案 是否有任何推荐的 SaaS 特定 CRUD 样板或框架坚持当代发展标准？我们偶然发现 Laravel 作为一个潜在的后端解决方案，但愿意接受建议。我们正在寻找能够促进快速开发，同时确保应用程序保持可扩展性和可维护性的东西。当发布带有部分模块的应用程序时，我们预计第一年的客户数量将达到 10 名。 技术堆栈 考虑到我们对强大的后端和现代化的需求、响应式前端 - 考虑到我们团队对最新前端框架的了解有限 - 您会推荐什么？我们听说过有关 Laravel 后端的好消息，但对前端还不确定。对于进行过渡的开发人员来说，Vue.js、Angular，甚至更接近 Laravel 如何叠加？然后，我们再次愿意坚持使用 Coldfusion 和 MSSQL/Postgres 后端，因为这是我们最了解的。 任何有关上述内容的指导将不胜感激。   由   提交 /u/unknownbullet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anst52/crud_boilerplate_tech_stack_recommendations/</guid>
+      <pubDate>Sat, 10 Feb 2024 22:53:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 JS 模块来更改网站颜色模式（浅色/深色），希望得到反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ansf6w/i_made_a_js_module_to_change_a_website_color_mode/</link>
+      <description><![CDATA[https://github.com/DouglasFlorindo/ColorModeModule 我最初制作这个模块是为了在我自己的项目中使用，但后来我决定将其公开。这是我第一次做这样的事情，我很想得到一些反馈或贡献！  您需要了解的所有内容都记录在自述文件中:)   由   提交 /u/NekoRaita   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ansf6w/i_made_a_js_module_to_change_a_website_color_mode/</guid>
+      <pubDate>Sat, 10 Feb 2024 22:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anrhl8/review_my_site/</link>
+      <description><![CDATA[（由于原始帖子被删除并且需要在周六炫耀时发布而重新发布）。鉴于我在其他人要求进行网站审查时向他们提供了反馈，我觉得我自己也接受同样的审查是公平的。 就上下文而言，该网站只是一个个人项目作为教程存在。当我创造自己感兴趣的东西时，我学得最好。这是一个音乐网站，我通常将 10 首歌曲放在一起播放列表。我单独列出了每首歌曲，并附有 Apple Music、Spotify 和 YouTube 的链接。除了这些单独的链接之外，我还提供了每个服务的完整播放列表的链接。直到最近，我才开始为剧集添加介绍文本（稍后会详细介绍）。 该网站的最终目标是学习，这次迭代是 Contentful、Sveltekit 和 Netlify 实现。每个学习冲刺都是一个新的播放列表和一个新功能。功能的一个示例是介绍文本。 Contentful 将文本存储为 markdown，我希望在页面上以 HTML 形式获取该 markdown，因为这是 CMS 中最常见的用例。我有一份我要做的事情清单，例如 SSG，使用 Contentful 但用 Nuxt.js 替换 Sveltekit 并在不同的子域上发布，尝试 Contentful 的竞争对手，例如 Sanity.io 等。我开始学习，我的朋友和同事接触音乐。 https://www.listentothissong.com/ 看看，让我知道想法之类的。如果您想讨论音乐选择，请将其保存到 r/Music   由   提交/u/the_natis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anrhl8/review_my_site/</guid>
+      <pubDate>Sat, 10 Feb 2024 21:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>真正需要增强的最糟糕的文档是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anqvhh/whats_the_worst_documentation_that_really_needs/</link>
+      <description><![CDATA[对人们认为什么是好/坏的文档感到好奇，并且想知道你们中的一些人是否同意我对某些文档的看法，哈哈   由   提交/u/Professional_One3573  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anqvhh/whats_the_worst_documentation_that_really_needs/</guid>
+      <pubDate>Sat, 10 Feb 2024 21:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 网格还是 Flexbox？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1anqrzb/css_grid_or_flexbox/</link>
+      <description><![CDATA[      Nav 部分，我在想这样的布局适合 CSS 网格吗？但 css grid 和 flexbox 对我来说还很陌生。自从我这样做以来已经有几年了。   由   提交/u/soCalForFunDude   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1anqrzb/css_grid_or_flexbox/</guid>
+      <pubDate>Sat, 10 Feb 2024 21:22:53 GMT</pubDate>
+    </item>
     <item>
       <title>r/webdev 帮助我的网站 NewsCord 改进了 10 倍</title>
       <link>https://www.reddit.com/r/webdev/comments/1anq4jm/rwebdev_helped_make_my_website_newscord_10x_better/</link>
-      <description><![CDATA[     &lt; td&gt; TLDR： 这个令人惊叹的 Reddit 子版块为我提供了高质量的建设性批评，使我的网站NewsCord 好 10 倍。这个社区正式为 NewsCord 的发展做出了贡献！ ❤️ 我在星期六的炫耀会上发布了并获得了很多人们投入大量时间提出有价值的建议，得到了大量的反馈。它得到了回报！ 快速回顾：NewsCord 的使命是使用大语言模型快速让人们全面了解新闻。您可以通过粘贴您感兴趣的文章/即时使用 Chrome 扩展程序、浏览我们的“趋势新闻”部分或在主页的搜索栏中输入您的新闻主题来获取新闻。然后，它会为您总结文章，并比较不同来源之间的报道，为您提供叙述差异、遗漏信息，甚至语气差异。 来自 r/webdev： - 类似的文章不是很准确（现在基本上已修复） - AI 输出有时有点误导（固定在最高优先级） - 大量 UI 建议（其中大部分已实现） 结果： - 用户保留率不断提高。现在每天持续吸引约 100 位用户，其中 30% 是回访者 - 拥有 60% 的访客来自美国的坚实基础，其余大部分来自英国、印度和加拿大 - Twitter 上确实有很好的吸引力和支持和 Reddit 我要感谢这个社区，他们推动我改进 NewsCord，使其成为今天的样子，并确保它对世界有用！查看新的 NewsCord，让我知道您的想法！   由   提交 /u/nimzinho   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; td&gt; TLDR： 这个令人惊叹的 Reddit 子版块为我提供了高质量的建设性批评，使我的网站NewsCord 好 10 倍。这个社区正式为 NewsCord 的发展做出了贡献！ ❤️ 我在周六的炫耀会上发布了并得到了很多人们投入大量时间提出有价值的建议，得到了大量的反馈。它得到了回报！ 快速回顾：NewsCord 的使命是使用大语言模型快速让人们全面了解新闻。您可以通过粘贴您感兴趣的文章/即时使用 Chrome 扩展程序、浏览我们的“趋势新闻”部分或在主页的搜索栏中输入您的新闻主题来获取新闻。然后，它会为您总结文章，并比较不同来源之间的报道，为您提供叙述差异、遗漏信息，甚至语气差异。 来自 r/webdev： - 类似的文章不是很准确（现在基本上已经修复） - AI 输出有时有点误导（固定在最高优先级） - 大量 UI 建议（其中大部分已实现） 结果： - 用户保留率不断提高。现在每天持续吸引约 100 位用户，其中 30% 是回头客 - 拥有 60% 的访客来自美国的坚实基础，其余大部分来自英国、印度和加拿大 - Twitter 上确实有很好的吸引力和支持和 Reddit 我要感谢这个社区，他们推动我改进 NewsCord，使其成为今天的样子，并确保它对世界有用！查看新的 NewsCord，让我知道您的想法！   由   提交 /u/nimzinho   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1anq4jm/rwebdev_helped_make_my_website_newscord_10x_better/</guid>
       <pubDate>Sat, 10 Feb 2024 20:53:26 GMT</pubDate>
     </item>
@@ -36,7 +85,7 @@
     <item>
       <title>希望为我的小型金融公司创建一个简单的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1anp8eg/looking_to_create_a_simple_website_for_my_small/</link>
-      <description><![CDATA[我一开始只用了很少的资金，我通过 Wix 创建了一个简单的网站，我对能够让我继续前进的设计感到满意。 我发现这是我决定是否购买他们的 1 年 50% 折扣保费计划（174 美元）的最后一天。我认为在接下来的 12 个月内，我将能够聘请专业的网页设计师来创建一个更强大的网站，并且能够支付他们所报价的 WordPress 运行网站的费用（2,000 美元 + 50 美元/月）。 我没有任何编码知识，因此 Wix 提供的拖放前提对我很有吸引力。 我的问题是，在我点击购买 Wix 年度选项之前，有什么我应该知道的吗？或者有什么其他选择可以让我以大约相同的价格采取，而不需要我花费 100 个小时来弄清楚如何使用 Wordpress？ 谢谢！   由   提交 /u/NoDonut8789   [链接] [评论]]]></description>
+      <description><![CDATA[我一开始只用了很少的资金，我通过 Wix 创建了一个简单的网站，我对能够让我继续前进的设计感到满意。 我发现这是我决定是否购买他们的 1 年 50% 折扣保费计划（174 美元）的最后一天。我认为在接下来的 12 个月内，我将能够聘请专业的网页设计师来创建一个更强大的网站，并且能够支付他们所报价的 WordPress 运行网站的费用（2,000 美元 + 50 美元/月）。 我没有任何编码知识，因此 Wix 提供的拖放前提对我很有吸引力。 我的问题是，在我点击购买 Wix 年度选项之前，有什么我应该知道的吗？或者有什么其他选择可以让我以大约相同的价格采取，而不需要我花费 100 个小时来弄清楚如何使用 Wordpress？ 谢谢！   由   提交/u/NoDonut8789   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1anp8eg/looking_to_create_a_simple_website_for_my_small/</guid>
       <pubDate>Sat, 10 Feb 2024 20:13:41 GMT</pubDate>
     </item>
@@ -50,7 +99,7 @@
     <item>
       <title>我可以请求对我的作品集提供反馈吗[周六炫耀]</title>
       <link>https://www.reddit.com/r/webdev/comments/1anp14b/may_i_kindly_request_feedback_on_my_portfolio/</link>
-      <description><![CDATA[各位开发人员大家好， 我一直在开发我的个人作品集网站，我想用它来展示我的技能来帮助您我找到了一份开发人员的工作。我有几个项目，前端训练营（3.5 个月）和软件开发课程（4.5 个月），获得了多项认证等。 我相信我拥有在这方面取得成功所需的技能领域，但我现在必须说服潜在的雇主/客户为什么会出现这种情况，我认为投资组合是第一步。  我非常感谢您的反馈和指导，以帮助我朝着正确的方向前进。  注意：请以 1920x1080 或 2560x1080 分辨率查看页面。由于家庭义务，我还没有机会使其移动响应，我真的很想今天发布它，而不是再等一周。我将在明天结束前准备好移动响应能力！  站点：www.maciejdev.com  提前谢谢您。  ​   由   提交 /u/maciejdev   [链接] [评论]]]></description>
+      <description><![CDATA[各位开发人员大家好， 我一直在开发我的个人作品集网站，我想用它来展示我的技能来帮助您我找到了一份开发人员的工作。我有几个项目，前端训练营（3.5 个月）和软件开发课程（4.5 个月），获得了多项认证等。 我相信我拥有在这方面取得成功所需的技能领域，但我现在必须说服潜在的雇主/客户为什么会出现这种情况，我认为投资组合是第一步。  我非常感谢您的反馈和指导，以帮助我朝着正确的方向前进。  注意：请以 1920x1080 或 2560x1080 分辨率查看页面。由于家庭义务，我还没有机会使其具有移动响应能力，我真的很想今天发布它，而不是再等一周。我将在明天结束前准备好移动响应能力！  站点：www.maciejdev.com  提前谢谢您。  ​   由   提交 /u/maciejdev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1anp14b/may_i_kindly_request_feedback_on_my_portfolio/</guid>
       <pubDate>Sat, 10 Feb 2024 20:04:48 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[       由   提交 /u/SilentHopes   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1anodsk/how_do_planetscale_and_other_companies_generate/</guid>
       <pubDate>Sat, 10 Feb 2024 19:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个小应用程序来学习网络套接字</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ano2s1/i_made_a_little_app_to_learn_web_sockets/</link>
-      <description><![CDATA[    &lt; /a&gt;  http://ec2-3-88-25-22.compute-1.amazonaws.com/   由   提交/u/NiftyOctopus_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ano2s1/i_made_a_little_app_to_learn_web_sockets/</guid>
-      <pubDate>Sat, 10 Feb 2024 19:23:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要有关 HTML 项目的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anmch6/i_need_help_on_a_html_project/</link>
-      <description><![CDATA[       您好！我有一个大学项目，我必须使用 HTML、CSS 和 JS 制作自己的作品集。我是一个完全的初学者，所以如果有人能给我一些帮助，我将非常感激！我的导航栏有问题。正如您在图像中看到的，当我缩小屏幕时，切换按钮位于左侧，但如果我没有记错的话，它应该位于右侧。我该如何修复它？ https ://preview.redd.it/g8895uexsshc1.jpg?width=1348&amp;format=pjpg&amp;auto=webp&amp;s=0a69f050b7a2fa38997895d19a13fdc47764dabf ​  https://preview.redd.it/r5exaz7zsshc1.jpg？ width=1291&amp;format=pjpg&amp;auto=webp&amp;s=da9c58fa84f4af1996ca53f2eca59262e845c30a ​ https://preview.redd.it/nq3pa9xzsshc1.jpg?width=767&amp;format=pjpg&amp;auto=webp&amp;s =cc77d34b016cd2b7c39f4c53ebbec9774be48204   由   提交 /u/LuckyLookingLucho   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anmch6/i_need_help_on_a_html_project/</guid>
-      <pubDate>Sat, 10 Feb 2024 18:06:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以获得修改 CSS 代码的帮助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anlq0u/can_i_get_help_for_modifying_a_css_code/</link>
-      <description><![CDATA[我正在使用 WordPress 构建一个网站，其中使用的是 Royal Elementor Addon Carousel，此轮播在免费版本中没有自动播放功能，但我我正在尝试使用 CSS 来做到这一点，其中将鼠标悬停在轮播上会停止自动播放。但是当我使用 CSS 代码时，轮播播放得太快了。鼠标悬停会停止自动播放。 引用如下： /* 设置轮播幻灯片的 3 秒过渡持续时间和延迟 */ .top -carousel .slick-slide { 过渡：变换 3s 缓入-出； 动画延迟：3s； /* 添加初始暂停的动画延迟 */ } ​ /* 隐藏手动导航箭头（可选）*/ .top-carousel .slick-prev， .top-carousel .slick-next { 显示：无; } ​ /* 防止动画过程中幻灯片溢出 */ .top-carousel .slick-slider { overflow: hidden; } ​ /* 设置动画持续时间（可选，根据需要调整）*/ . top-carousel .slick-track { 动画：slide-carousel 3s线性无限向前； /* 根据幻灯片宽度调整百分比 */ transition-duration: 3s; /* 添加了幻灯片过渡的过渡持续时间 */ } ​ /* 悬停时暂停动画（可选）*/ .top-carousel:hover .slick-track { 动画播放状态：已暂停; } ​&lt; /p&gt; /* 动画关键帧（可选，根据幻灯片宽度调整百分比） */  u/keyframes 幻灯片轮播{ 0% { 变换：translateX(0); }  100% { 变换：translateX(-100%); } } ​   由   提交/u/Downtown_Ad624   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anlq0u/can_i_get_help_for_modifying_a_css_code/</guid>
-      <pubDate>Sat, 10 Feb 2024 17:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flex box 和 Grid 单独就足够了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anldb5/is_flex_box_grid_alone_good_enough/</link>
-      <description><![CDATA[我是 CSS 新手，我一直想知道弹性框和网格是否足以创建前端网站，我应该能够掌握/知道如何使用内联/块？我参与的大多数项目都看到了代码，因为他们几乎没有使用内联/块。 额外奖励： 我也不知道何时使用网格或弹性框&amp;何时使用 div 或 span 或section，因此也将不胜感激。 谢谢！   由   提交 /u/cooketrunlizer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anldb5/is_flex_box_grid_alone_good_enough/</guid>
-      <pubDate>Sat, 10 Feb 2024 17:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我查看用户消息合法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anl547/is_it_legal_for_me_to_see_user_messages/</link>
-      <description><![CDATA[我正在制作一个应用程序，用户可以在其中向人工智能发出指令，并且我正在存储消息，以便指令下次再次出现他们登录。所以这可能是一个菜鸟问题，但我可以看到消息（目前它只是本地主机并且仍在开发中），可以吗？或者非法（根据 GDPR 或隐私法）？提出这个问题是因为，用户显然可以向人工智能提供敏感信息。   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anl547/is_it_legal_for_me_to_see_user_messages/</guid>
-      <pubDate>Sat, 10 Feb 2024 17:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>从预取到预渲染，使用推测规则 API 优化性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ankw6q/from_prefetch_to_prerender_optimize_performance/</link>
-      <description><![CDATA[ 由   提交/u/rossrobino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ankw6q/from_prefetch_to_prerender_optimize_performance/</guid>
-      <pubDate>Sat, 10 Feb 2024 17:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 LLM 代理，可以回答有关您的代码库的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1anktzd/i_built_a_llm_agent_that_can_answer_questions/</link>
-      <description><![CDATA[       由   提交/u/jsonathan  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1anktzd/i_built_a_llm_agent_that_can_answer_questions/</guid>
-      <pubDate>Sat, 10 Feb 2024 17:01:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 10 Feb 2024 21:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:52:54 GMT</lastBuildDate>
+    <item>
+      <title>Moviola，仍然是最好的 NLE</title>
+      <link>https://www.reddit.com/r/editors/comments/1anvc2h/the_moviola_still_the_best_nle/</link>
+      <description><![CDATA[Moviola，非线性编辑器的鼻祖。这么多年过去了，仍然是最好的。 解决了吗？狂热吗？首映??媒体100？别让我笑。威廉·斯汀贝克可以吸吮它。 断头台、油脂铅笔和遮住血淋淋的手指的白手套。这些才是剪辑师真正的工具。 直到你的 NLE 抓住你的领带并试图掐死你的时候，你才真正开始剪辑。 &lt; !-- SC_ON --&gt;  由   提交/u/edit-boy-zero  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1anvc2h/the_moviola_still_the_best_nle/</guid>
+      <pubDate>Sun, 11 Feb 2024 00:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>QuickTime 播放器不显示正确的运行时间</title>
+      <link>https://www.reddit.com/r/editors/comments/1ansg0k/quicktime_player_does_not_display_correct_runtime/</link>
+      <description><![CDATA[问候 - 我遇到 QuickTime 播放器显示 18fps ProResHQ .mov 持续时间不正确的问题。该文件的实际运行时间为 9 分 40 秒。屏幕上的 QuickTime 播放器栏显示视频长度为 00:05:47:24。  检查器不会在任何“常规”、“视频详细信息”、“音频详细信息”或“其他轨道”部分的运行时方面报告任何内容。 MediaInfo 和 VLC 报告正确的时间 - 我还可以将文件导入 Premiere，它也可以识别正确的持续时间。我什至用秒表计时。  我知道 QuickTime 播放器存在（咳咳）“一些”问题，而且我通常不使用它/不关心它的作用，尽管我想为特定客户解决这个问题。我 100% 确信这与 18fps 帧速率有关 - 这是有意为之的，并且是在包含胶片扫描的项目中常见的广泛使用的帧速率（如此处的情况）。  有什么想法吗？ 编辑：系统规格：全部。 (Apple M1 Pro/16 GB/MacOS 14.2.1) QT 播放器：10.5   由   提交 /u/MrEtrain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ansg0k/quicktime_player_does_not_display_correct_runtime/</guid>
+      <pubDate>Sat, 10 Feb 2024 22:37:46 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 导出的视频存在几秒钟的冻结帧和严重的压缩问题</title>
       <link>https://www.reddit.com/r/editors/comments/1ano9ip/premiere_pro_exports_videos_with_seconds_of/</link>
-      <description><![CDATA[规格和技术细节： Mac Studio M2 Max 96 GB RAM 1 TB SSD 我目前正在通过 Samsung T7 编辑和导出视频。 原始镜头：Sony Alpha 7Siii 和 Alpha 7R5，自己拍摄的； SLOG 3。 我在 Davinci 中对素材进行了粗剪和颜色分级，然后在 Premiere 中再次打开它，因此我当前尝试导出的素材是 ProRes 422。 ------------------------------------------------- ------------------------------- 问题： 我目前正在编辑视频，但导出时出现了严重错误。近两天来，我一直在尝试导出该视频，以便您只需完整观看一次即可进行修改。每次，视频中的段落在导出后都会丢失几秒钟。就好像编码器无法跟上比特率一样。此外，某些地方会出现几秒钟的压缩错误。然后该图像将无法识别。 我已尝试了所有不同的导出设置；但没有成功。 VBR1,2； CBR1，各种比特率从 50 到 100 不等。首先，我在 Premiere Pro beta 版本中剪切视频。 在导出错误后，我切换回据说稳定的 Premiere Pro 2024 版本。  p&gt; 始终是相同的导出错误，但在视频的不同部分。我正在慢慢失去耐心。视频为4k，时长27分钟，带特效；因此，导出需要相应较长的时间。 我以前从未遇到过此问题。 有人知道可能导致此问题的原因吗？ 提前致谢！   由   提交 /u/GrindelShindel   [链接] [评论]]]></description>
+      <description><![CDATA[规格和技术细节： Mac Studio M2 Max 96 GB RAM 1 TB SSD 我目前正在通过 Samsung T7 编辑和导出视频。 原始镜头：Sony Alpha 7Siii 和 Alpha 7R5，自己拍摄的； SLOG 3。 我在 Davinci 中对素材进行了粗剪和颜色分级，然后在 Premiere 中再次打开它，因此我当前尝试导出的素材是 ProRes 422。 ------------------------------------------------- ------------------------------- 问题： 我目前正在编辑视频，但导出时出现了严重错误。近两天来，我一直在尝试导出该视频，以便您只需完整观看一次即可进行修改。每次，视频中的段落在导出后都会丢失几秒钟。就好像编码器无法跟上比特率一样。此外，某些地方会出现几秒钟的压缩错误。然后该图像将无法识别。 我已尝试了所有不同的导出设置；但没有成功。 VBR1,2； CBR1，比特率从 50 到 100 不等。首先，我在 Premiere Pro beta 版本中剪切视频。 在导出错误后，我切换回了据说稳定的 Premiere Pro 2024 版本。  p&gt; 始终是相同的导出错误，但在视频的不同部分。我正在慢慢失去耐心。视频为4k，时长27分钟，带特效；因此，导出需要相应较长的时间。 我以前从未遇到过此问题。 有人知道可能导致此问题的原因吗？ 提前致谢！   由   提交 /u/GrindelShindel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ano9ip/premiere_pro_exports_videos_with_seconds_of/</guid>
       <pubDate>Sat, 10 Feb 2024 19:31:45 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>Avid 将 17:9 剪辑的源设置更改为 16:9。</title>
       <link>https://www.reddit.com/r/editors/comments/1aneq1z/avid_changes_source_settings_on_179_clip_to_169/</link>
-      <description><![CDATA[我以 17:9 拍摄了素材，并制作了一个 2048x1080p 项目以节省屏幕空间。序列似乎具有相同的分辨率，并且剪辑在时间线上看起来是正确的，但是在源设置中，Frameflex 将它们设置为 16:9 1920x1080，并且每当我尝试更改它时都会恢复到该设置。时间轴上的所有剪辑都具有 Frameflex 效果 - 在我看来，17:9 序列将素材解释为 16:9，并且“更改”为 16:9。它适合 17:9 的比例。因此，所有剪辑都应用了毫无意义的效果。知道我做错了什么吗？到目前为止，我只处理过标准 1920x1080 项目。 系统规格：i5 9600k、GTX 1070、16GB RAM // 软件规格：Avid MC 2023.12 // 素材规格：DNxHR SQ、MXF，在 Resolve 中转码   由   提交 /u/helari_s   [链接] [评论]]]></description>
+      <description><![CDATA[我以 17:9 拍摄了素材，并制作了一个 2048x1080p 项目以节省屏幕空间。序列似乎具有相同的分辨率，并且剪辑在时间轴上看起来正确，但是在源设置中，Frameflex 将它们设置为 16:9 1920x1080，并且每当我尝试更改它时都会恢复到该设置。时间轴上的所有剪辑都具有 Frameflex 效果 - 在我看来，17:9 序列将素材解释为 16:9，并且“更改”为 16:9。它适合 17:9 的比例。因此，所有剪辑都应用了毫无意义的效果。知道我做错了什么吗？到目前为止，我只处理过标准 1920x1080 项目。 系统规格：i5 9600k、GTX 1070、16GB RAM // 软件规格：Avid MC 2023.12 // 素材规格：DNxHR SQ、MXF，在 Resolve 中转码   由   提交 /u/helari_s   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1aneq1z/avid_changes_source_settings_on_179_clip_to_169/</guid>
       <pubDate>Sat, 10 Feb 2024 11:56:36 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>Titler+ 已经 5 岁了</title>
       <link>https://www.reddit.com/r/editors/comments/1an7r6h/titler_is_5_years_old/</link>
-      <description><![CDATA[在这里找到这个 --- 亲爱的 Avid Titler+ 迟来的生日快乐！两个月前，你五岁了。你相信吗？整整五年是多么伟大的五年啊！从 2018 年 12 月发布第一个稳定版本，到 2024 年 2 月几乎让我们突出显示我们实际指向的文本。这肯定会让您思考。五年后，谁知道呢？也许您甚至能够应对行间距！开发一个可写入实际文本的工具可能非常具有挑战性，但您确实是经过整整五年的紧张开发的产物，当然，这只是在第一个稳定版本之后。 当然，有人可能会说Davinci Resolve 在过去的五年里已经成为最有能力和革命性的 NLE 之一，当然，他们在做这件事的同时成功地包含了一个很棒的标题工具，但我们狂热的忠实粉丝知道，如果你没有稳定性。这就是你，Avid Titler+。当我们感觉周围的世界正在崩溃时，我们总是可以向 Avid Titler+ 寻求稳定。想象一下，有一天上班时，不必在占位符标题卡上渲染标准叠化效果。随之而来的就是混乱！但你不是，Avid Titler+。你们就像一张熟悉的温暖毯子，已经五年了。 所以，Avid Titler+，你不用担心我们。今天是你的好日子。我可以在 2030 年完成这些滚动学分，没问题。生日快乐，伙计。祝又五年了。 ​   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
+      <description><![CDATA[在这里找到这个 --- 亲爱的 Avid Titler+ 迟来的生日快乐！两个月前，你五岁了。你相信吗？整整五年是多么伟大的五年啊！从 2018 年 12 月发布第一个稳定版本，到 2024 年 2 月几乎让我们突出显示我们实际指向的文本。这肯定会让您思考。五年后，谁知道呢？也许您甚至能够应对行间距！开发一个编写实际文本的工具可能非常具有挑战性，但您确实是经过整整五年的紧张开发的产物，当然，这只是在第一个稳定版本之后。 当然，有人可能会说Davinci Resolve 在过去五年中已经成为最有能力和最具革命性的 NLE 之一，当然，他们在做这件事的同时成功地包含了一个很棒的标题工具，但我们狂热的忠实粉丝知道，如果你没有稳定性。这就是你，Avid Titler+。当我们感觉周围的世界正在崩溃时，我们总是可以向 Avid Titler+ 寻求稳定。想象一下，有一天上班时，不必在占位符标题卡上渲染标准叠化效果。随之而来的就是混乱！但你不是，Avid Titler+。你们就像一张熟悉的温暖毯子，已经五年了。 所以，Avid Titler+，不用担心我们。今天是你的好日子。我可以在 2030 年完成这些滚动学分，没问题。生日快乐，伙计。祝又五年了。 ​   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1an7r6h/titler_is_5_years_old/</guid>
       <pubDate>Sat, 10 Feb 2024 04:20:54 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以我主要为唱片公司编辑音乐视频，但在我们上次电影团队会议期间，我发现我的选择可以更好。我的老板说我是一名优秀的编辑，过去我的工作做得很好，但这是我需要努力的地方。我对此有点沮丧，因为我总是在努力改进，所以希望我的同事当面告诉我他们对我的编辑的感受。无论如何，我需要变得更好。关于选择，有什么我可以学习、阅读或注意的具体内容吗？   由   提交 /u/CuzIGotDeppression   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1an47cf/how_do_you_get_better_at_making_selects/</guid>
       <pubDate>Sat, 10 Feb 2024 01:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望在开始时得到的建议。</title>
-      <link>https://www.reddit.com/r/editors/comments/1an33vu/advice_that_you_wish_you_were_given_while/</link>
-      <description><![CDATA[您好，作为“给刚开始发帖的人的建议”中的另一位，我想知道你们中的一些在职业生涯中取得成功的人会怎么做？不得不对那些希望在后期制作领域起步的人说。  大学毕业后，我已经在制作部门担任 PA 工作了大约一年，目前正在搬迁到洛杉矶。搬家后，我想换个方向，从事后期制作工作。现在我了解了从后期公共广播到助理编辑再到编辑的传统流程，我正在寻找后期制作公共广播的工作——最适合后期制作公司。就技能而言，我多年来一直在 Premiere 中编辑自己的项目/为朋友的项目，但我对此的基础知识仅限于此。我愿意并且想要了解更多的工作流程以及其他软件，但我担心基于我有限的技能和经验，甚至无法获得入门级工作。  我在洛杉矶有一小部分人脉，但他们更多地参与了制作方面的工作，我不一定认识在后期领域工作的人。  您会给刚刚开始的人什么建议，我应该寻找或考虑什么样的事情？我也想听听其他人的故事。感谢任何花时间对此做出回应的人。   由   提交 /u/DanglinSnoozer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1an33vu/advice_that_you_wish_you_were_given_while/</guid>
-      <pubDate>Sat, 10 Feb 2024 00:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持在家工作的技术</title>
-      <link>https://www.reddit.com/r/editors/comments/1an0x33/techniques_to_support_working_from_home/</link>
-      <description><![CDATA[您好！我想我们这里的许多人都在家办公，有时被锁在家里，社交生活比其他人少，这意味着我们必须处理家庭事务、压力、限制、工作等。您想分享一些管理日常生活的技巧吗？例如，我尝试时不时地更新我的家和我工作的房间的东西，更换植物，移动我的东西，每小时出去到阳台上呼吸新鲜空气，投资我的家以拥有漂亮的东西期待。因为我每天 24 小时都在那里度过的景色等等。   由   提交/u/ZiggyStardust_88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1an0x33/techniques_to_support_working_from_home/</guid>
-      <pubDate>Fri, 09 Feb 2024 22:44:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
