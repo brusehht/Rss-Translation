@@ -4,18 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 11 Feb 2024 15:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 18:13:05 GMT</lastBuildDate>
+    <item>
+      <title>关于最好的换脸选项是什么有什么想法吗？ Fooocus 似乎有点挣扎。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aodacu/any_thoughts_on_what_the_best_face_swapping/</link>
+      <description><![CDATA[标题。 使用 Fooocus AI 已经大约一个月了。似乎真的无法让换脸工具变得可预测和实用——或者说没有我想要的那么好。还有更好的选择吗？谢谢！   由   提交 /u/Attitude_Capital_V2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aodacu/any_thoughts_on_what_the_best_face_swapping/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:26:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>将人工智能引入开发</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aod3c6/bringing_ai_in_development/</link>
+      <description><![CDATA[大家好， 我有一家自由职业公司，我计划引入人工智能，以便我的开发人员同事更快地开发应用程序。您能否就如何将人工智能引入开发并加快进​​程提供一些建议想法   由   提交 /u/GeekyCoderDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aod3c6/bringing_ai_in_development/</guid>
+      <pubDate>Sun, 11 Feb 2024 17:18:19 GMT</pubDate>
+    </item>
     <item>
       <title>包含不相关的文档可以将 RAG 准确率提高 30%？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao9u7c/including_irrelevant_documents_improve_rag/</link>
-      <description><![CDATA[读完“噪声的力量：重新定义 RAG 系统的检索”后，我非常感兴趣。论文（https://arxiv.org/pdf/2401.14887.pdf），他们探讨了相关性、位置的影响以及检索到的文档数量对 RAG 管道准确性的影响。 作者定义了 3 组文档： 黄金文档 - 其中包含给定问题的答案。&lt; /p&gt; 相关文档 - 一组讨论同一主题但不包含问题答案的文档。 不相关文档 - 一组讨论不同的不相关主题的文档当然，不包含问题的答案。  关键要点：  更多相关文档=较低的性能，因为法学硕士变得混乱。这挑战了将 top_k 相关文档添加到上下文的一般概念 黄金文档的位置很重要：开始&gt; &gt;结束&gt;  令人惊讶的是，添加不相关的文档实际上提高了模型的准确性（与上下文只是黄金文档的情况相比）。在更强大的法学硕士和其他数据集上进一步验证它会很有趣，因为这个观察结果非常违反直觉。您认为第三个观察结果有意义吗？  &lt; !-- SC_ON --&gt;  由   提交 /u/Vegetable-Skill-9700   [链接] [评论]]]></description>
+      <description><![CDATA[读完“噪声的力量：重新定义 RAG 系统的检索”后，我非常感兴趣。论文（https://arxiv.org/pdf/2401.14887.pdf），他们探讨了相关性、位置的影响以及检索到的文档数量对 RAG 管道准确性的影响。 作者定义了 3 组文档： 黄金文档 - 其中包含给定问题的答案。&lt; /p&gt; 相关文档 - 一组讨论同一主题但不包含问题答案的文档。 不相关文档 - 一组讨论不同的不相关主题的文档当然，不包含问题的答案。  关键要点：  更多相关文档=较低的性能，因为法学硕士变得混乱。这挑战了将 top_k 相关文档添加到上下文的一般概念 黄金文档的位置很重要：start &gt; &gt;结束&gt;  令人惊讶的是，添加不相关的文档实际上提高了模型的准确性（与上下文只是黄金文档的情况相比）。在更强大的法学硕士和其他数据集上进一步验证它会很有趣，因为这个观察结果非常违反直觉。您认为第三个观察结果有意义吗？  &lt; !-- SC_ON --&gt;  由   提交 /u/Vegetable-Skill-9700   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao9u7c/including_irrelevant_documents_improve_rag/</guid>
       <pubDate>Sun, 11 Feb 2024 15:00:05 GMT</pubDate>
     </item>
     <item>
       <title>未来世界看到了它的到来......</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao9hfe/futurama_saw_it_coming/</link>
-      <description><![CDATA[在 2001 年的《飞出个未来》剧集中：https:// futurama.fandom.com/wiki/I_Dated_a_Robot 弗莱爱上了人工智能机器人。还有一个闪现，人类由于出生率下降而灭绝。考虑到最近所有这些人工智能女孩服务的流行，我开始认为这不再是一个遥不可及的场景。显然这是一个有趣的话题，所以不要太认真。   由   提交 /u/priamusai   [链接] [评论]]]></description>
+      <description><![CDATA[在 2001 年的《飞出个未来》剧集中：https:// futurama.fandom.com/wiki/I_Dated_a_Robot 弗莱爱上了人工智能机器人。还有一个闪现，人类由于出生率下降而灭绝。考虑到最近所有这些人工智能女孩服务的流行，我开始认为这不再是一个牵强的场景。显然这是一个有趣的话题，所以不要太认真。   由   提交 /u/priamusai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao9hfe/futurama_saw_it_coming/</guid>
       <pubDate>Sun, 11 Feb 2024 14:43:52 GMT</pubDate>
     </item>
@@ -25,13 +39,6 @@
       <description><![CDATA[我一直在寻找 Gmail 代理。我遇到了这个 https://autogmail.com/ 有什么替代方案或建议吗？我在一家企业每天处理大约 100 封电子邮件，我需要它来撰写并留下我们的回复草稿。谢谢   由   提交/u/Et_008  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao9ehb/automatic_gmail_replies_agents/</guid>
       <pubDate>Sun, 11 Feb 2024 14:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 AI Tharoor 与 Real Tharoor 视频以及即将到来的印度大选的思考</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao30m1/thoughts_on_the_ai_tharoor_vs_real_tharoor_vid/</link>
-      <description><![CDATA[对 AI Tharoor 与 Real Tharoor 视频的思考以及即将到来的印度大选 视频链接： https://www.youtube.com/watch?v=1oxBIWXYWPg  &lt; !-- SC_ON --&gt;  由   提交 /u/elthazaar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao30m1/thoughts_on_the_ai_tharoor_vs_real_tharoor_vid/</guid>
-      <pubDate>Sun, 11 Feb 2024 08:07:11 GMT</pubDate>
     </item>
     <item>
       <title>人工智能政策/治理</title>
@@ -50,16 +57,9 @@
     <item>
       <title>手指问题什么时候能解决？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao1unx/when_will_the_finger_problem_be_solved/</link>
-      <description><![CDATA[所有人工智能图像生成器在准确描绘手指以及正确的手指数量方面仍然存在巨大问题。我觉得这已经有所改进，但这仍然是导致几乎完美的图像看起来很奇怪的主要原因。预测一下这个问题什么时候能最终解决？   由   提交 /u/GermanTurtleneck   [链接] [评论]]]></description>
+      <description><![CDATA[所有 AI 图像生成器在准确描绘手指以及正确的手指数量方面仍然存在巨大问题。我觉得这已经有所改进，但这仍然是导致几乎完美的图像看起来很奇怪的主要原因。预测一下这个问题什么时候能最终解决？   由   提交 /u/GermanTurtleneck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao1unx/when_will_the_finger_problem_be_solved/</guid>
       <pubDate>Sun, 11 Feb 2024 06:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有地方可以下载游戏的ai配音音频？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ao11g0/is_there_somewhere_i_can_download_ai_dubbed_audio/</link>
-      <description><![CDATA[就像，我喜欢在我的母语巴西葡萄牙语上玩 it take 2，但只有英语和其他一些语言，所以我想知道是否有办法用葡萄牙语玩它   由   提交 /u/prsnlacc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ao11g0/is_there_somewhere_i_can_download_ai_dubbed_audio/</guid>
-      <pubDate>Sun, 11 Feb 2024 06:01:23 GMT</pubDate>
     </item>
     <item>
       <title>即使在通过 Poe 使用的慢速连接中，Groq Mixtral 也非常快</title>
@@ -92,7 +92,7 @@
     <item>
       <title>用生成式 AI 改变我的生活：14 个月回顾</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1anse02/transforming_my_life_with_generative_ai_a_14month/</link>
-      <description><![CDATA[发现 ChatGPT 确实是我生命中的关键时刻。我收到的第一个回复简直就是神奇，那一刻我永远不会忘记。从一开始我就清楚这项技术是非凡的，并且它的功能继续让我感到惊讶。 在我开始之前，就上下文而言，在我的旅程的这一点上，我无法编写一个任何语言的一行代码...... 在最初的两个月里，我就像一个吃糖过量的孩子，我只想在屋顶上大喊大叫。虽然我的一些朋友很感兴趣，但他们很难掌握它的潜力。其他人根本没有表现出任何兴趣。我没有被吓倒，在接下来的四个星期里，我探索如何将这项突破性技术货币化。我的创业之旅始于一个创新概念：为会计师事务所提供潜在客户开发服务。 我开发了一个网络爬虫，可以筛选公司之家的数据，每天识别新注册的公司。利用 FuzzyWuzzy Python 库的模糊匹配功能，我过滤掉了在会计师地址注册的所有公司，确保我们的目标是真正需要会计服务的新企业。这些数据经过精心清理、组织和准备用于直邮活动，为我们的会计客户提供了高度针对性的营销解决方案。 到第四个月，我扩展了我的工具包，创建了更多网络抓取工具。第五个月标志着我迄今为止最雄心勃勃的项目的开始：即兴索引。由于没有任何编码经验，我开始了陡峭的学习曲线，编写了 10,000 多行代码，包括 HTML、CSS、Javascript、PHP 和 SQL。这项努力最终导致我推出了第一个网站，建立了四个专门用于 AI 提示、工具、GPT 和图像的数据库，并创建了一份以 AI 为中心的时事通讯，迅速吸引了 8,000 多名订阅者。我们的网站流量猛增至每月超过 10,000 次访问，我们的 Telegram 群组增长到近 2,000 名成员。 最近，我想专注于发展我的 Telegram 频道，所以我开始开发一个 Python-基于 Telegram 的推荐机器人。该机器人集成并与数据库通信，生成独特的推荐链接，跟踪通过这些链接获得的新群组成员，并在达到某些里程碑时分发奖励。  这对某些人来说可能很简单，但这个消息和故事是针对那些不会编码或无法做某事的人的，这对他们来说是一个障碍，因为他们付不起钱请人去做它。好吧，你现在就可以做到这一切！没有任何借口！ 虽然我还没有达到百万富翁的地位（还！），但生成式 AI 的旅程非常有意义。它极大地增强了我的信心，扩展了我的编码知识，并加深了我对数字生态系统的理解。生成式人工智能不仅改变了我的职业生涯，还重塑了我对可能性的看法。 感谢您的阅读。   由   提交/u/steves1189  [链接] [评论]]]></description>
+      <description><![CDATA[发现 ChatGPT 确实是我生命中的关键时刻。我收到的第一个回复简直就是神奇，那一刻我永远不会忘记。从一开始我就清楚这项技术是非凡的，并且它的能力继续让我感到惊讶。 在我开始之前，就上下文而言，在我的旅程的这一点上，我无法编写一个任何语言的一行代码...... 在最初的两个月里，我就像一个吃糖过量的孩子，我只想在屋顶上大喊大叫。虽然我的一些朋友很感兴趣，但他们很难掌握它的潜力。其他人根本没有表现出任何兴趣。我没有被吓倒，在接下来的四个星期里，我探索如何将这项突破性技术货币化。我的创业之旅始于一个创新概念：为会计师事务所提供潜在客户开发服务。 我开发了一个网络爬虫，可以筛选公司之家的数据，每天识别新注册的公司。利用 FuzzyWuzzy Python 库的模糊匹配功能，我过滤掉了在会计师地址注册的所有公司，确保我们的目标是真正需要会计服务的新企业。这些数据经过精心清理、组织和准备用于直邮活动，为我们的会计客户提供了高度针对性的营销解决方案。 到第四个月，我扩展了我的工具包，创建了更多网络抓取工具。第五个月标志着我迄今为止最雄心勃勃的项目的开始：即兴索引。由于没有任何编码经验，我开始了陡峭的学习曲线，编写了 10,000 多行代码，包括 HTML、CSS、Javascript、PHP 和 SQL。这项努力最终导致我推出了第一个网站，建立了四个专门用于 AI 提示、工具、GPT 和图像的数据库，并创建了一份以 AI 为中心的时事通讯，迅速吸引了 8,000 多名订阅者。我们的网站流量猛增至每月超过 10,000 次访问，我们的 Telegram 群组已发展到近 2,000 名成员。 最近，我想专注于发展我的 Telegram 频道，所以我开始开发一个 Python-基于 Telegram 的推荐机器人。该机器人集成并与数据库通信，生成独特的推荐链接，跟踪通过这些链接获得的新群组成员，并在达到某些里程碑时分发奖励。  这对某些人来说可能很简单，但这个消息和故事是针对那些不会编码或无法做某事的人的，这对他们来说是一个障碍，因为他们付不起钱请人去做它。好吧，你现在就可以做到这一切！没有任何借口！ 虽然我还没有达到百万富翁的地位（还！），但生成式 AI 的旅程非常有意义。它极大地增强了我的信心，扩展了我的编码知识，并加深了我对数字生态系统的理解。生成式人工智能不仅改变了我的职业生涯，还重塑了我对可能性的看法。 感谢您的阅读。   由   提交/u/steves1189  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1anse02/transforming_my_life_with_generative_ai_a_14month/</guid>
       <pubDate>Sat, 10 Feb 2024 22:35:14 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
