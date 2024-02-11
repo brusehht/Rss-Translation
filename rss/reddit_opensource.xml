@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 11 Feb 2024 09:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 12:18:52 GMT</lastBuildDate>
+    <item>
+      <title>PeaZip 9.7.0 发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ao52dt/peazip_970_released/</link>
+      <description><![CDATA[       由   提交 /u/peazip   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ao52dt/peazip_970_released/</guid>
+      <pubDate>Sun, 11 Feb 2024 10:30:41 GMT</pubDate>
+    </item>
     <item>
       <title>批量 JPEG 到 AVIF 转换器 (Windows / Linux)</title>
       <link>https://www.reddit.com/r/opensource/comments/1any1v8/batch_jpeg_to_avif_converter_windows_linux/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我知道我们大多数人都遇到过 API 网关问题。我也有，然后我决定开发一种新型的 API 网关。 这里是 Serverless API 网关 https:// github.com/irensaltali/serverlessapigateway 您下载并部署到您自己的 Cloudflare Workers。它具有所有最基本的功能：  路由（路径和方法） CORS - AUTH (JWT) 价值映射 高度可扩展（感谢 Cloudflare Workers） 速度极快（路由需要 2 毫秒） 在边缘运行且最便宜（甚至对大多数网站来说都是免费的）。  我将向无服务器 API 网关添加令人难以置信的功能，同时保持提高质量。您可以将其视为版本 1.0.1，请尝试一下，分享评论，如果遇到问题请提出问题，并且不要忘记在 GitHub 上加注星标。 我还创建了用于部署 Serverless API Gateway 的 GitHub 操作。您现在可以使用 GitHub 操作轻松进行部署。您只需添加配置即可。文档：https://github.com/irensaltali/ serverlessapigateway/blob/main/README.md   由   提交 /u/irensaltali   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1amq9ak/serverless_api_gateway/</guid>
       <pubDate>Fri, 09 Feb 2024 15:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>采访 Will McGugan，丰富的文本和 pyFilesystem (python) 的创建者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ampwu4/interview_with_will_mcgugan_creator_of_rich/</link>
-      <description><![CDATA[       由   提交/u/rubiesordiamonds  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ampwu4/interview_with_will_mcgugan_creator_of_rich/</guid>
-      <pubDate>Fri, 09 Feb 2024 14:54:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
