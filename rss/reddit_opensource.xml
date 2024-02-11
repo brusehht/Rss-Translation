@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 11 Feb 2024 00:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 03:13:17 GMT</lastBuildDate>
+    <item>
+      <title>批量 JPEG 到 AVIF 转换器 (Windows / Linux)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1any1v8/batch_jpeg_to_avif_converter_windows_linux/</link>
+      <description><![CDATA[以防万一有人可能会用到这个，我决定完善我自己使用过的一个脚本。  https://github.com/drobin04/Batch-JPEG-to-AVIF -Converter 它可用作 GUI（非常易于使用），也可用作上下文菜单项（需要在 .bat 文件上输入一些数据来注册上下文菜单项，指向脚本目录和您的 python 环境）。  本质上，它只是递归地在指定目录中搜​​索 JPEG 文件，然后将它们转换为较新的 AVIF 文件格式，目的是减小文件大小。  代码方面它使用Python，以及用于图像操作的pillow 和pillow-avif-plugin 包。  我已经使用 pyinstaller 为 Linux（我从 Linux Mint 21.3 运行它，不确定其他基于 Linux 的操作系统是否存在任何兼容性问题？）和 Windows 创建了可执行文件。  无论如何，仅此而已。相当小的项目。我将在某个时候改进自述文件，直到最近这才成为事后的想法。    由   提交/u/NotARedditUser3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1any1v8/batch_jpeg_to_avif_converter_windows_linux/</guid>
+      <pubDate>Sun, 11 Feb 2024 03:10:40 GMT</pubDate>
+    </item>
     <item>
       <title>自然显示计算器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1antkgk/natural_display_calculator/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/rubiesordiamonds  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ampwu4/interview_with_will_mcgugan_creator_of_rich/</guid>
       <pubDate>Fri, 09 Feb 2024 14:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>2 月 15 日，我将在欧洲议会请愿委员会上发表讲话，讨论通过 Google Play Protect 和 SafetyNet 在运行 Android 的设备上进行软件认证以及它如何影响竞争对手，如果您想实时关注，请点击以下链接。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1amly07/on_february_15th_i_will_be_speaking_at_the/</link>
-      <description><![CDATA[ 由   提交/u/eirexe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1amly07/on_february_15th_i_will_be_speaking_at_the/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
