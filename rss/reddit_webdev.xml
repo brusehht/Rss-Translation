@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 12 Feb 2024 12:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 15:12:32 GMT</lastBuildDate>
+    <item>
+      <title>路线图建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ap20zf/roadmap_suggestion/</link>
+      <description><![CDATA[嗨，我现在 18 岁。我想以网络开发人员的身份开始我的职业生涯。我从 2020 年开始就对 Web 开发感兴趣，但由于时间有限而无法学到很多东西。到今年年底，我将进入一所大学。所以我想全身心投入一条道路。我知道一点中间 HTML 和 CSS 以及一点点 javascript，所以开始工作不会那么困难。我想在进入校队后参加在线付费课程（最好低于 100 美元）。请添加一些建议。我想给学习阶段6-9个月的时间，每天最多6个小时以上。所以艰苦的训练不是问题。我的目标是到 2026 年开始作为自由职业者赚钱，并到 2026 年底过上舒适的生活（±500 美元/月）。我非常期待您的建议。   由   提交 /u/Playful-Floor7523    reddit.com/r/webdev/comments/1ap20zf/roadmap_suggestion/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ap20zf/roadmap_suggestion/</guid>
+      <pubDate>Mon, 12 Feb 2024 15:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 开发者控制台显示 Reddit 招聘广告并冻结 Chrome</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ap1122/chrome_developer_console_showing_reddit_job_ads/</link>
+      <description><![CDATA[      所以，我是一名退休的软件工程师，我喜欢编程，Reddit 想要向我发送一则广告是有道理的编程工作。但是，当我调查 Chrome 在该选项卡上的冻结情况时，我的浏览器控制台中出现了广告。我怀疑广告也是导致锁定的原因。这很奇怪，因为我似乎是从谷歌搜索触发的。我已禁用所有扩展程序，但我已登录 Google。我无法从隐身模式进行复制。还有其他人看过这个吗？我希望除了屏幕截图之外还能提供更多诊断信息。 “广告”不再为我服务。 （当我正在刷新调查时，它被提供了五六次）。  ​ https://preview.redd.it/7bm27ef3y5ic1.png?width=2848&amp;format=png&amp;auto=webp&amp;s=b6d81ccdd84778fa32d6654f5135055409253ccf   由   提交 /u/snowdrone   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ap1122/chrome_developer_console_showing_reddit_job_ads/</guid>
+      <pubDate>Mon, 12 Feb 2024 14:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 declarativeNetRequest 修改请求标头很困难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ap0t33/difficulty_modifying_request_headers_with/</link>
+      <description><![CDATA[我正在尝试使用 declarativeNetRequest API 创建修改某些请求标头的静态规则。 我的清单： { &quot;manifest_version&quot;: 3, ... &quot;permissions&quot;: [ &quot;declarativeNetRequest&quot;; ], “host_permissions”: [ “” ], “declarative_net_request”: { “rule_resources”: [ { “id”: “ruleset”, “path”: “rules.json”, “enabled”: true } ] } }  这里是 rules.json: [ { &quot;id&quot;: 1, &quot;priority&quot;: 1, &quot; action&quot;: { &quot;type&quot;: &quot;modifyHeaders&quot;, &quot;requestHeaders&quot;: [ { &quot;header&quot;: &quot;Referer&quot;, &quot;operation&quot;: &quot;set&quot;, &quot;value&quot;: &quot;example. com” } ] }, “条件”: { “urlFilter”: “example.com” } } ]  启用此扩展并为 example.com 授予运行时权限后，我在 上看不到 Referer 标头我访问 example.com 时的任何请求。 正如 MDN 上所述，Referer 不是 Chrome 支持的“追加”标头之一操作。即使我尝试该列表中的标头之一（例如 Accept），我也看不到预期的请求标头值。 如果我更改操作，请求将被成功阻止输入到block，所以这似乎不是我的条件的问题。我已经阅读文档并在线搜索了很长一段时间，但没有运气。 任何帮助将非常感激。  &amp;# 32；由   提交 /u/WorkOdd8251   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ap0t33/difficulty_modifying_request_headers_with/</guid>
+      <pubDate>Mon, 12 Feb 2024 14:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的设计中最重要的部分是什么 > 开发交接？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ap0fcu/whats_the_most_important_part_of_your_design_dev/</link>
+      <description><![CDATA[作为一名 FE 开发人员转型为 UI 设计师，我最近的任务是标准化工作中的设计到开发的交接。 当然，虽然我一直在与与我合作的开发团队（完全远程）进行交谈，但我想就您觉得没有它就无法生存的事物或成功交接的技巧获得更广泛的总体意见。 我们的技术堆栈主要包括 Figma、Jira、PHPstorm 和 VScode。   由   提交 /u/musedrainfall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ap0fcu/whats_the_most_important_part_of_your_design_dev/</guid>
+      <pubDate>Mon, 12 Feb 2024 13:49:22 GMT</pubDate>
+    </item>
     <item>
       <title>调用“.showPicker()”时，不可见的日期输入会触发表单验证</title>
       <link>https://www.reddit.com/r/webdev/comments/1aox92n/invisible_date_input_triggers_form_validation/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[所以我正在寻找一个可以找到可以改进我的网站的人员的地方，我可以在哪些网站上雇用能够改进我的网站的人员这样做？   由   提交/u/metalf4c3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aop7ou/how_can_i_find_people_to_revise_a_crappy_website/</guid>
       <pubDate>Mon, 12 Feb 2024 02:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以在公司办公室使用个人笔记本电脑处理个人项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aoojl8/can_you_work_on_personal_projects_on_your/</link>
-      <description><![CDATA[有关 IP 的大多数问题都与在工作计算机上执行个人项目有关，但如果我带自己的笔记本电脑来工作并在工作计算机上处​​理我的个人项目，使用他们的wifi网络，公司有办法追索我写的代码吗？ 经常有其他公司的工程师来我们办公室工作，因为他们的朋友带来了他们，而我假设我的公司对他们编写的任何代码没有所有权，但我不确定我赢得的项目是否也是如此。 编辑 - 这项工作是有薪水的，所以我不确定公司时间与个人时间的定义是什么   由   提交 /u/efilstahw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aoojl8/can_you_work_on_personal_projects_on_your/</guid>
-      <pubDate>Mon, 12 Feb 2024 01:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道初学者友好的电子邮件 API 服务吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aonh1g/anyone_know_a_beginner_friendly_email_api_service/</link>
-      <description><![CDATA[上周我一直在搜索电子邮件 API 服务来学习我正在开发的 Web 应用程序。尝试过一些大牌  Sendgrid - 他们甚至让我在注册后登录 mailersend - 必须注册域名，然后被拒绝批准 mailtrap - 注册域名，然后被拒绝 brevo - 几个小时后被阻止 有些需要私人工作电子邮件，但我没有，所以邮戳是不行的  li&gt;  一些验证问题，我没有托管网站或客户评价。 每次没有发送任何内容，帐户就会被暂停。尝试过不同的电子邮件（谷歌和 Outlook）相同的结果，我不住在美国，但我需要使用 VPN，甚至无法升级到更高级别的计划（愿意使用 mailersend）。  有没有人经历过这种情况，是否有任何具有电子邮件 api +Web 挂钩和 Node js 包的替代方案？ ​   由   提交/u/void0000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aonh1g/anyone_know_a_beginner_friendly_email_api_service/</guid>
-      <pubDate>Mon, 12 Feb 2024 00:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于响应式图像，我必须手动执行分辨率切换吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aon2lp/is_resolution_switching_something_i_have_to_do/</link>
-      <description><![CDATA[请随时纠正我的错误。 我听说有传言说，为了在跨平台兼容性方面获得最佳结果，您需要应该为您的网站使用响应式图像。 据我所知，这些选择是艺术指导，您使用裁剪为不同尺寸的相同图像的副本，以及将相同图像发布在分辨率切换中。更低或更高的分辨率。 我的问题是我是否必须手动创建不同分辨率图片的副本，还是由计算机自动完成？ &lt;!-- SC_ON - -&gt;  由   提交 /u/69420FappistMonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aon2lp/is_resolution_switching_something_i_have_to_do/</guid>
-      <pubDate>Mon, 12 Feb 2024 00:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个 npm 包来自动化国际化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aoljkd/ive_developed_an_npm_package_to_automate/</link>
-      <description><![CDATA[我不知道我是不是唯一一个，但每次我被要求为我的公司添加措辞时，我都会倒吸一口气，我我知道我会很有趣地从 Deepl 中为我们处理的所有语言复制和粘贴大量短语。这可能需要我 10 分钟，但这 10 分钟很无聊，否则我不会编码。因此，为了解决这种超级无聊的情况，我编写了一些免费的开源 npm 包。告诉我你的想法！ 基本上，它是如何工作的？ 你这样做：  ## 你好，我是马里奥##&lt;/div&gt;  然后在你的终端 intl-agent  和MAGIC，你的div变成了 &lt; pre&gt; {{t(&#39;shortPresentationOfMario&#39;)}};  它还会在不同的 json 中创建所有密钥和翻译（例如，如果您有 en.json 和 fr.json） 密钥是由chatGPT，这样你就不会使用毫无意义的恶心关键字！ 这里是存储库 PR 和问题已打开！   由   提交 /u/GabUritos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aoljkd/ive_developed_an_npm_package_to_automate/</guid>
-      <pubDate>Sun, 11 Feb 2024 23:15:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
