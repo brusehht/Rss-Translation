@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 11 Feb 2024 21:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:50:16 GMT</lastBuildDate>
     <item>
       <title>小艇6个月内结束服务，多可惜</title>
       <link>https://www.reddit.com/r/opensource/comments/1aohwig/skiff_ending_its_services_within_6_months_what_a/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>寻求帮助使产品开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1aoa5t2/looking_for_help_making_a_product_open_source/</link>
-      <description><![CDATA[我希望可以在这里发布此内容，如果没有，我很抱歉！说来话长，但我最终拥有了一款管理农产品仓库的 SAS 产品。该平台是古老的，需要更新。它在前端运行 Tomcat，在后端运行 MS Sql。我积极地告诉客户留下这个旧东西，但它的客户似乎很困在这个平台上，因为它做了一些独特的事情。我开始想知道我是否可以以某种方式更新这个东西并将其开源。让它在 Maria DB 上运行，也许还有 Ruby 或其他东西。  糟糕的是，我是基础设施服务器人员，而不是开发人员，所以虽然我可以保持它运行，但除此之外我有点卡住了。我愿意在这整件事上投入一些钱，但我只是没有疯狂的预算，因为这个平台并没有真正为我带来任何东西。我真的不认为该网站不仅仅是一堆以某种方式排列的表格，但我可能是错的。看起来很简单。  我收到了数以万计的报价，这远远超出了我愿意支付的价格，但我愿意向对此类内容感兴趣的开发人员支付相当可观的小时费率，如果我们能以某种方式可以开发出我可以为他们提供更一致的产品。但我很想找到一个可以帮助我更新这个东西并将其全部开源的人。即使我无法更新它，我也宁愿它在开源世界中而不是在开源世界中。如果我可以对其进行现代化改造，我只会对 SAS 托管版本收取月费，但让任何人下载社区版本等。你们都知道商业模式。因此，如果您认识任何拥有此技能且不介意从事兼职工作的人，请给我发私信。谢谢！   由   提交/u/tdreampo   [链接] [评论]]]></description>
+      <description><![CDATA[我希望可以在这里发布此内容，如果没有，我很抱歉！说来话长，但我最终拥有了一款管理农产品仓库的 SAS 产品。该平台是古老的，需要更新。它在前端运行 Tomcat，在后端运行 MS Sql。我积极地告诉客户留下这个旧东西，但它的客户似乎很困在这个平台上，因为它做了一些独特的事情。我开始想知道我是否可以以某种方式更新这个东西并将其开源。让它在 Maria DB 上运行，也许还有 Ruby 或其他东西。  糟糕的是，我是基础设施服务器人员，而不是开发人员，所以虽然我可以保持它运行，但除此之外我有点卡住了。我愿意在这整件事上投入一些钱，但我只是没有疯狂的预算，因为这个平台并没有真正为我带来任何东西。我真的不认为该网站不仅仅是一堆以某种方式排列的表格，但我可能是错的。看起来很简单。  我收到了数以万计的报价，这远远超出了我愿意支付的价格，但我愿意向对此类内容感兴趣的开发人员支付相当可观的小时费率，如果我们能以某种方式可以开发出我可以为他们提供更一致的产品。但我很想找到一个可以帮助我更新这个东西并将其全部开源的人。即使我无法更新它，我也宁愿它在开源世界中而不是在开源世界中。如果我可以对其进行现代化改造，我只会对 SAS 托管版本收取月费，但让任何人下载社区版本等。你们都知道商业模式。因此，如果您认识任何拥有此技能且不介意从事兼职工作的人，请给我发私信。谢谢！   由   提交 /u/tdreampo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aoa5t2/looking_for_help_making_a_product_open_source/</guid>
       <pubDate>Sun, 11 Feb 2024 15:13:57 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>是否有任何具有 LLM 使用限制的许可证？</title>
       <link>https://www.reddit.com/r/opensource/comments/1anmbwe/are_there_any_licenses_out_there_with_llm_usage/</link>
-      <description><![CDATA[上下文：我决定通过 git 存储库提供视听艺术装置的开发流程。我的想法是上传艰难的过程，当然还有所有的蓝图和软件。我对人们将它用于自己的艺术项目没有任何意见，但我不喜欢将其用于训练语言模型（LLM）的想法。问题：是否正在进行任何讨论或解决用于培训法学硕士的内容问题的许可证？使用知识共享内容作为培训材料时是否被视为衍生作品？   由   提交 /u/Common-Maximum8431    reddit.com/r/opensource/comments/1anmbwe/are_there_any_licenses_out_there_with_llm_usage/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[上下文：我决定通过 git 存储库提供视听艺术装置的开发流程。我的想法是上传艰难的过程，当然还有所有的蓝图和软件。我对人们将其用于自己的艺术项目没有任何意见，但我不喜欢将其用于训练语言模型（LLM）的想法。问题：是否正在进行任何讨论或解决用于培训法学硕士的内容问题的许可证？使用知识共享内容作为培训材料时是否被视为衍生作品？   由   提交 /u/Common-Maximum8431    reddit.com/r/opensource/comments/1anmbwe/are_there_any_licenses_out_there_with_llm_usage/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1anmbwe/are_there_any_licenses_out_there_with_llm_usage/</guid>
       <pubDate>Sat, 10 Feb 2024 18:05:56 GMT</pubDate>
     </item>
