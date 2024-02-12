@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 12 Feb 2024 00:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 03:12:33 GMT</lastBuildDate>
+    <item>
+      <title>我怎样才能找到人来修改一个蹩脚的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aop7ou/how_can_i_find_people_to_revise_a_crappy_website/</link>
+      <description><![CDATA[所以我正在寻找一个可以找到可以改进我的网站的人员的地方，我可以在哪些网站上雇用能够改进我的网站的人员这样做？   由   提交/u/metalf4c3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aop7ou/how_can_i_find_people_to_revise_a_crappy_website/</guid>
+      <pubDate>Mon, 12 Feb 2024 02:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以在公司办公室使用个人笔记本电脑处理个人项目吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aoojl8/can_you_work_on_personal_projects_on_your/</link>
+      <description><![CDATA[有关 IP 的大多数问题都与在工作计算机上执行个人项目有关，但如果我带自己的笔记本电脑来工作并在工作计算机上处​​理我的个人项目，使用他们的wifi网络，公司有办法追索我写的代码吗？ 经常有其他公司的工程师来我们办公室工作，因为他们的朋友带来了他们，而我假设我的公司对他们编写的任何代码没有所有权，但我不确定我赢得的项目是否也是如此。 编辑 - 这项工作是有薪水的，所以我不确定公司时间与个人时间的定义是什么   由   提交 /u/efilstahw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aoojl8/can_you_work_on_personal_projects_on_your/</guid>
+      <pubDate>Mon, 12 Feb 2024 01:47:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道初学者友好的电子邮件 API 服务吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aonh1g/anyone_know_a_beginner_friendly_email_api_service/</link>
+      <description><![CDATA[上周我一直在搜索电子邮件 API 服务来学习我正在开发的 Web 应用程序。尝试过一些大牌  Sendgrid - 他们甚至让我在注册后登录 mailersend - 必须注册域名，然后被拒绝批准 mailtrap - 注册域名，然后被拒绝 brevo - 几个小时后被阻止 有些需要私人工作电子邮件，但我没有，所以邮戳是不行的  li&gt;  一些验证问题，我没有托管网站或客户评价。 每次没有发送任何内容，帐户就会被暂停。尝试过不同的电子邮件（谷歌和 Outlook）相同的结果，我不住在美国，但我需要使用 VPN，甚至无法升级到更高级别的计划（愿意使用 mailersend）。  有没有人经历过这种情况，是否有任何具有电子邮件 api +Web 挂钩和 Node js 包的替代方案？ ​   由   提交/u/void0000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aonh1g/anyone_know_a_beginner_friendly_email_api_service/</guid>
+      <pubDate>Mon, 12 Feb 2024 00:50:18 GMT</pubDate>
+    </item>
     <item>
       <title>对于响应式图像，我必须手动执行分辨率切换吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aon2lp/is_resolution_switching_something_i_have_to_do/</link>
@@ -41,7 +62,7 @@
       <pubDate>Sun, 11 Feb 2024 22:50:34 GMT</pubDate>
     </item>
     <item>
-      <title>对于一个非常简单的创建/删除操作来说，450-500 毫秒是合理的时间吗？</title>
+      <title>对于非常简单的创建/删除操作来说，450-500 毫秒是合理的时间吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aokq5r/is_450500ms_a_reasonable_time_for_a_very_simple/</link>
       <description><![CDATA[嗨，您知道有哪些网站利用 React Server Actions 并持续执行低于 500 毫秒阈值的简单创建/删除操作（由 chrome 开发工具测量）网络选项卡？这就是我使用简单的待办事项应用程序得到的结果，我想知道是否可以加快速度，通过客户端 Tanstack 查询和 api 路由，我能够在同一待办事项上始终达到 150-200 毫秒。我还想知道使用 Vite 和 Go 后端是否可以比这更快。 只是为了添加一些上下文，这两个待办事项都是在 Next.js 14 中创建的，并驻留在同一存储库中，托管在 Vercel 上免费层，连接到 Supabase。   由   提交 /u/JustAStudentFromPL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aokq5r/is_450500ms_a_reasonable_time_for_a_very_simple/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aoif3z/getting_started_with_web_performance/</guid>
       <pubDate>Sun, 11 Feb 2024 21:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 日历 API 范围需要 YouTube 视频</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aohr53/google_calendar_api_scope_needs_a_youtube_video/</link>
-      <description><![CDATA[我正在尝试将 Google Calendar API 实现到我的应用中，但我感觉自己陷入了第 22 条军规的困境。 我在这里做错了什么？  ​   由   提交 /u/amusedonion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aohr53/google_calendar_api_scope_needs_a_youtube_video/</guid>
-      <pubDate>Sun, 11 Feb 2024 20:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 和 CSS 代码审查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aohelt/html_css_code_review/</link>
-      <description><![CDATA[这是我的第一个功能齐全的响应式登陆页面（我希望）它不多，但我很高兴我想出了一个第一次尝试。 如果有人看一下代码并告诉我错误在哪里，那就太好了，因为我肯定有一些错误，我愿意接受任何批评。 &lt; p&gt;https://jsfiddle.net/abdAG/7atc3f94/4/ 感谢前进！&lt;​​/p&gt; ​   由   提交/u/cooketrunlizer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aohelt/html_css_code_review/</guid>
-      <pubDate>Sun, 11 Feb 2024 20:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，烤我的网站。 getholdof.co.uk。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aoh7yi/hi_everyone_roast_my_website_getholdofcouk/</link>
-      <description><![CDATA[有一天，我设法将手机和钥匙锁在车里。锁匠过来让我进去，花了我 65 英镑。如果我知道我妻子的电话号码，我可以从借给我手机的人而不是锁匠那里给她打电话，她可以买我的备用钥匙 我想如果有一个应用程序或网站可以让我可以添加 3 个联系人，我只需点击即可呼叫。我本来可以省下钱的。   由   提交/u/Idliketoknow73  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aoh7yi/hi_everyone_roast_my_website_getholdofcouk/</guid>
-      <pubDate>Sun, 11 Feb 2024 20:10:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
