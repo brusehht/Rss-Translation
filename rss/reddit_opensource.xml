@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 12 Feb 2024 21:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:49:31 GMT</lastBuildDate>
     <item>
       <title>一直在为网络视频的 Advanced SubStation Alpha 字幕开发 GPU 加速的 ECMAScript 渲染器</title>
       <link>https://www.reddit.com/r/opensource/comments/1ap7cub/been_working_on_a_gpu_accelerated_ecmascript/</link>
@@ -34,9 +34,9 @@
       <pubDate>Mon, 12 Feb 2024 14:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>TDARR 自由软件替代方案</title>
+      <title>TDARR 自由软件替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1aoxloh/tdarr_foss_alternative/</link>
-      <description><![CDATA[TDARR 是一个服务器端应用程序，可在后台对视频进行编码。它具有许多功能，例如分布式编码和精美的 Web UI。 TDARR V1 显然是自由开源软件，但已休眠多年。 V2 效果很好，但是是专有的。 我正在寻找一个类似的服务器端应用程序，它以无人值守的方式监视我的视频服务器的目录，并处理那里的现有文件，以便将它们转码为 H.265以最小的质量损失，以减少磁盘使用。我找到了 HBBatchBeast，但它是一个 GUI 应用程序。我并不真正需要 TDARR 的任何高级功能，但支持视频质量指标来判断原始代码和转码之间的质量损失将是一个很好的选择。 我可能可以这样写： FFMPEG 和一个花哨的 shell 脚本 + cron，但这更多是最后的手段。   由   提交/u/Yugen42  [链接] [评论]]]></description>
+      <description><![CDATA[TDARR 是一个服务器端应用程序，可在后台对视频进行编码。它具有许多功能，例如分布式编码和精美的 Web UI。 TDARR V1 显然是自由开源软件，但已休眠多年。 V2 效果很好，但是是专有的。 我正在寻找一个类似的服务器端应用程序，它以无人值守的方式监视我的视频服务器的目录，并处理那里的现有文件，以便将它们转码为 H.265以最小的质量损失，以减少磁盘使用。我找到了 HBBatchBeast，但它是一个 GUI 应用程序。我真的不需要 TDARR 的任何高级功能，但支持视频质量指标来判断原始代码和转码之间的质量损失将是一个很好的选择。 我可能可以这样写： FFMPEG 和一个花哨的 shell 脚本 + cron，但这更多是最后的手段。   由   提交/u/Yugen42  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aoxloh/tdarr_foss_alternative/</guid>
       <pubDate>Mon, 12 Feb 2024 11:09:41 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Sun, 11 Feb 2024 18:27:03 GMT</pubDate>
     </item>
     <item>
-      <title>寻求 UNIFI 网络机架的免费开源替代品</title>
+      <title>寻求 UNIFI 网络机架的免费开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1aod5yu/seeking_free_and_open_source_alternative_to_unifi/</link>
       <description><![CDATA[大家好， 我正在市场上寻找类似于 UNIFI 的网络机架解决方案，但我正在寻找免费且开源的东西。 UNIFI 机架很棒，但我更喜欢尽可能支持开源项目。  有人对 UNIFI 网络机架的免费开源替代方案有任何建议吗？我对提供类似功能和可扩展性的东西特别感兴趣。我们将非常感谢您的建议和见解！预先感谢您！   由   提交 /u/SpaceGhost113   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aod5yu/seeking_free_and_open_source_alternative_to_unifi/</guid>
