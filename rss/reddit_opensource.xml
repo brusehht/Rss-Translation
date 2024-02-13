@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 13 Feb 2024 12:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 18:15:21 GMT</lastBuildDate>
+    <item>
+      <title>管道日志和工件但在本地</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aq089q/pipeline_logs_and_artifacts_but_locally/</link>
+      <description><![CDATA[   /u/sourishkrout  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aq089q/pipeline_logs_and_artifacts_but_locally/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Express.js 垃圾 PR 事件凸显开源贡献的商品化</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apztk7/expressjs_spam_prs_incident_highlights_the/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apztk7/expressjs_spam_prs_incident_highlights_the/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>🐽 Oink：单个文件中的 PHP API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apxkqh/oink_an_api_for_php_in_a_single_file/</link>
+      <description><![CDATA[       由   提交/u/JCx64  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apxkqh/oink_an_api_for_php_in_a_single_file/</guid>
+      <pubDate>Tue, 13 Feb 2024 16:27:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过贝叶斯优化，LLM 评估速度提高 10 倍</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apvi0s/10_times_faster_llm_evaluation_with_bayesian/</link>
+      <description><![CDATA[最近我一直致力于通过使用贝叶斯优化来选择合理的子集来快速进行 LLM 评估。 贝叶斯优化是使用它是因为它有利于探索/利用昂贵的黑匣子（释义，LLM）。 项目链接&lt; /p&gt; 我很想听听您对此的想法和建议！   由   提交 /u/b06901038g   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apvi0s/10_times_faster_llm_evaluation_with_bayesian/</guid>
+      <pubDate>Tue, 13 Feb 2024 15:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>变更日志应该链接到问题或 PullRequest 吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apveiq/should_a_changelog_link_to_issues_or_pullrequests/</link>
+      <description><![CDATA[我知道 https://keepachangelog.com/ 但是在那里找不到答案。 变更日志中的条目（例如“修复”）是否应该链接到错误报告或关闭此错误的拉取请求？对于其中一个是否有约定或充分的理由？ 我自己无法决定。   由   提交/u/buhtz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apveiq/should_a_changelog_link_to_issues_or_pullrequests/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频语料库的开放访问存储库？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apv99s/open_access_repositories_for_video_corpora/</link>
+      <description><![CDATA[我正在研究手语和语料库语言学，我想知道是否有人知道托管视频或视听语料库并可以访问的存储库自由。 我了解 Ortolang 和语言档案馆。还有其他的吗？  谢谢！！   由   提交/u/CapCompressive2536   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apv99s/open_access_repositories_for_video_corpora/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>quillpad 导入和通知？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1apu42p/quillpad_import_and_notifications/</link>
+      <description><![CDATA[嗨， ​ 我已经在 Android 手机上安装了 quillpad，但我没有看到任何从 keep 或其他地方导入数据的图标，如果我添加注释并添加通知，我设置时没有通知，想法？ 谢谢 &lt; /div&gt;  由   提交/u/ninjanoir78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1apu42p/quillpad_import_and_notifications/</guid>
+      <pubDate>Tue, 13 Feb 2024 13:59:10 GMT</pubDate>
+    </item>
     <item>
       <title>请帮我找到一个发票程序，我对 GNUcash 失去了理智</title>
       <link>https://www.reddit.com/r/opensource/comments/1apqeeb/please_help_me_find_an_invoicing_program_i_am/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好！我在 /r/Python 分享了一个我已经工作了三年的开源项目，并得到了一些非常积极的反馈，所以我也很想在这里分享。它是一个专门处理 PDF 表单的 Python 库，最突出的功能是通过简单地输入 Python 字典以编程方式填充 PDF 表单。 我曾经在一家以 Python 作为后端的初创公司工作堆。客户不断向我们提供纸质文档，我们需要将其生成 PDF。我们使用reportlab脚本来做这件事，我很快发现这个过程对于更复杂的PDF来说是乏味且耗时的。 这就是这个项目的想法的由来。您无需编写冗长且难以维护的reportlab脚本来生成PDF，只需将任何纸质文档转换为PDF表单模板，PyPDFForm就可以轻松填充它。 以下是该项目的一些资源： GitHub：https://github.com/chinapandaman/PyPDFForm  PyPi：https://pypi.org/project/PyPDFForm/ 文档：https://chinapandaman.github.io/PyPDFForm/ 我对这个项目所做的公开演讲：https://www.youtube.com/watch?v=8t1RdAKwr9w 我希望你们发现这个库对您有帮助自己的 PDF 生成工作流程。请随意尝试、测试、留下评论或建议以及打开问题。当然，如果您愿意，请在 GitHub 上给我一颗星。   由   提交 /u/chinapandaman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ap0phs/i_made_a_python_pdf_form_library/</guid>
       <pubDate>Mon, 12 Feb 2024 14:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>TDARR 自由软件替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aoxloh/tdarr_foss_alternative/</link>
-      <description><![CDATA[TDARR 是一个服务器端应用程序，可在后台对视频进行编码。它具有许多功能，例如分布式编码和精美的 Web UI。 TDARR V1 显然是自由开源软件，但已休眠多年。 V2 效果很好，但是是专有的。 我正在寻找一个类似的服务器端应用程序，它以无人值守的方式监视我的视频服务器的目录，并处理那里的现有文件，以便将它们转码为 H.265以最小的质量损失，以减少磁盘使用。我找到了 HBBatchBeast，但它是一个 GUI 应用程序。我真的不需要 TDARR 的任何高级功能，但支持视频质量指标来判断原始代码和转码之间的质量损失将是一个很好的选择。 我可能可以这样写： FFMPEG 和一个花哨的 shell 脚本 + cron，但这更多是最后的手段。   由   提交/u/Yugen42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aoxloh/tdarr_foss_alternative/</guid>
-      <pubDate>Mon, 12 Feb 2024 11:09:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些对神经网络感兴趣的人：过去几个月我一直致力于使用 C++ 和 Vulkan 从头开始​​构建 CNN（没有数学或 ML 库）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aowzp3/for_those_interested_in_neural_nets_ive_spent_the/</link>
-      <description><![CDATA[    &lt; /a&gt;  一开始是为了了解更多有关神经网络的个人努力，但我有点得意忘形了，不断完善它并添加更多功能:) 我最近使用 Vulkan 计算着色器在 GPU 上运行它🎉 这是一个 CLI 应用程序，您只需在其中描述网络的形状一个 json 配置文件并将其指向您的训练数据，然后在评估模式下再次运行它并将其指向以前从未见过的一些数据，它将尝试对每个样本进行分类。 如果您&#39;如果您对神经网络感兴趣，您希望会发现代码非常可读，并且我已在 Documentation/math.pdf 中编写了数学内容。 目前这是一项正在进行的工作。我有一大堆积压的功能想要添加，所以请注意这个空间:)   由   提交/u/LlaroLlethri   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aowzp3/for_those_interested_in_neural_nets_ive_spent_the/</guid>
-      <pubDate>Mon, 12 Feb 2024 10:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>SharpWeather - 用 C# 制作的 CLI 天气工具。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aov09f/sharpweather_a_cli_weather_tool_made_in_c/</link>
-      <description><![CDATA[   和我朋友一起做的简单项目。   由   提交 /u/xyqnn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aov09f/sharpweather_a_cli_weather_tool_made_in_c/</guid>
-      <pubDate>Mon, 12 Feb 2024 08:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>小艇6个月内结束服务，多可惜</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aohwig/skiff_ending_its_services_within_6_months_what_a/</link>
-      <description><![CDATA[晚上好， 你知道吗？我大约 20 分钟前读到了这篇文章，对此感到非常沮丧……Skiff 发送了一封电子邮件（Alternativeto.net 写了一篇关于这一点的清晰文章： 阅读此处&lt; /a&gt;) 解释 Skiff 正在与 Notion 合并。  这让我非常沮丧，因为 Skiff 是第一个值得信赖的云套件（电子邮件、日历、笔记、驱动器...），它是开源的、设计良好且功能齐全。此外，免费计划还提供了创建三个别名和使用一个自定义域的功能。除了 Android 应用程序有点问题外，一切都运行良好，但 Web 版本运行良好。我不仅因为我开始从其他服务迁移到 Skiff 并且非常喜欢这项服务而感到沮丧，而且还因为这样一个事实而感到难过：一个开源服务再次成为了稳定、高效和直接的一个很好的例子，正在被一家大公司收购，而该公司没有像 Skiff 那样具有相同的透明度和相同的目标。  如果您也是 Skiff 用户，您的替代服务是什么？您对这种情况有何看法？ 我想我会选择 Nextcloud 和 Tuta，因为它们都是看起来很棒的开源替代品。 感谢您的回答并感谢读过我的话。   由   提交 /u/paulit--   /u/paulit--  reddit.com/r/opensource/comments/1aohwig/skiff_ending_its_services_within_6_months_what_a/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aohwig/skiff_ending_its_services_within_6_months_what_a/</guid>
-      <pubDate>Sun, 11 Feb 2024 20:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的软件副本被其他人上传到 steam - 可能违反 GPL3 许可证？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aofnrq/copy_of_my_software_uploaded_to_steam_by_another/</link>
-      <description><![CDATA[最近有人提醒我，另一个人将把我的软件副本放到 Steam 上（请参阅 此处）。该游戏将以“Tempo Cube”为标题发布，并计划于 2024 年第一季度发布。根据该软件所遵循的 GPL3 许可证，这似乎基本上没问题。然而，我非常怀疑源代码是否会以易于访问的方式提供（如果有的话）。  https://store.steampowered.com/app/2720810/Tempo_Cube/  源代码似乎已被修改，因为第四张图像具有“橙色轨迹”，这是基础游戏中不存在的新功能。 什么是违规行为在这种情况下，GPL3 许可证是什么？如果软件中未包含更新的源代码，我该如何处理许可证违规问题？   由   提交/u/QUASAR098  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aofnrq/copy_of_my_software_uploaded_to_steam_by_another/</guid>
-      <pubDate>Sun, 11 Feb 2024 19:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能电视选项</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aoeqau/smart_tv_option/</link>
-      <description><![CDATA[我现在的电视已经不再被认为是非常智能的了。我只能安装奇怪的中文和俄语应用程序。为了流式传输我的果冻媒体，我一直在使用旧的亚马逊火棒，速度非常慢。我觉得我听说过一些小盒子（我想是来自谷歌？），你只需插入 HDMI 端口，基本上就可以充当智能电视。有没有开源的替代方案？基本上只需要 netflix 和 jellyfin。   由   提交 /u/More_Shift61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aoeqau/smart_tv_option/</guid>
-      <pubDate>Sun, 11 Feb 2024 18:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求 UNIFI 网络机架的免费开源替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aod5yu/seeking_free_and_open_source_alternative_to_unifi/</link>
-      <description><![CDATA[大家好， 我正在市场上寻找类似于 UNIFI 的网络机架解决方案，但我正在寻找免费且开源的东西。 UNIFI 机架很棒，但我更喜欢尽可能支持开源项目。  有人对 UNIFI 网络机架的免费开源替代方案有任何建议吗？我对提供类似功能和可扩展性的东西特别感兴趣。我们将非常感谢您的建议和见解！预先感谢您！   由   提交 /u/SpaceGhost113   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aod5yu/seeking_free_and_open_source_alternative_to_unifi/</guid>
-      <pubDate>Sun, 11 Feb 2024 17:21:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
