@@ -4,13 +4,69 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 00:49:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 03:14:13 GMT</lastBuildDate>
     <item>
-      <title>使用 Canvas Chart 寻找正确方向的凹口</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apg06q/looking_for_a_notch_in_the_right_direction_with/</link>
-      <description><![CDATA[     &lt; td&gt; 我第一次制作饼图/圆环图画布图表，但在定位标签时遇到问题。我需要将它们全部放置在图表的右侧，总是位于他的范围附近。我对这一部分的理解是正确的。 我的问题是我希望所有标签与图表的距离相同，并且具有对称的外观。 我试图进行硬编码它带有条件，但由于标签的宽度而不同。我打赌一定有更好的方法，但我只是不知道该怎么做。 到目前为止我所拥有的： https://preview.redd.it/dadmlr8bw8ic1.png?width=329&amp;format=png&amp;auto= webp&amp;s=13ec4123cb4fe002d5eb2e304caa032e1a586c1c 我需要如何定位标签（Figma 设计）： ​ https://preview.redd.it/tstviwfhz8ic1.png?width=281&amp; ;format=png&amp;auto=webp&amp;s=53947a5dde0a3fd3399f6ccbd6dc37c12906602f 函数drawDoughnutChart() {totalProductiveTime =秒ToDdHhMm(totalProductiveTime);总干扰时间=秒数ToDdHhMm(总干扰时间);总中立时间=秒数ToDdHhMm(总中立时间); const data = [ { 标签：&#39;生产&#39;，百分比：百分比生产，颜色：&#39;#f6fb15&#39;，时间：totalProductiveTime }，{ 标签：&#39;中性&#39;，百分比：百分比中性，颜色：&#39;#B1AEAE&#39;，时间：totalNeutralTime }， { 标签：&#39;Distractions&#39;，百分比：percentageDistractions，颜色：&#39;#6bfde3&#39;，时间：totalDistractionsTime } ]; data.sort((a, b) =&gt; b.percentage - a.percentage); data.forEach((entry) =&gt; { addData(entry.percentage,entry.color,entry.label,entry.time); });让大多数X = 0； ctx.clearRect(0, 0, canvas.width, canvas.height); var 总计 = value.reduce((acc, val) =&gt; acc + val, 0); var startAngle = -Math.PI / 34 - 125; var maxValueIndex = value.indexOf(Math.max(...values)); var 最大标签宽度 = 0; for (var i = 0; i &lt; labels.length; i++) { var labelWidth = ctx.measureText(labels[i]).width; if (labelWidth &gt; maxLabelWidth) { maxLabelWidth = labelWidth; } for (var i = maxValueIndex; i  mostX) { mostX = labelX; } else { labelX = mostX; var LabelWidth = ctx.measureText(labels[index]).width; console.log(&#39;LabelWidth&#39;, LabelWidth); ctx.zIndex = &#39;10&#39;; ctx.fillStyle = &#39;#000&#39;; ctx.font = `${ labels[index] === &#39;高效&#39; ? &#39;30px&#39; : &#39;20px&#39; } “这里又是我”，Arial`; ctx.textAlign = &#39;居中&#39;; ctx.fillText(标签[索引], labelX, labelY); var timeLabelText = times[index]; var timeLabelWidth = ctx.measureText(timeLabelText).width + 20; var timeLabelX = labelX &gt;;中心 X ?标签X + 10 : 标签X - 10; ctx.fillStyle = 颜色[索引];令水平除法 = 2.25； if (labels[index] == &#39;生产&#39;) { timeLabelWidth = timeLabelWidth - 10;水平除法 = 2.1； ctx.fillRect( timeLabelX - timeLabelWidth / splitHorizo​​ntally, labelY + 6, timeLabelWidth - 5, 20 ); ctx.font = `${ labels[index] === &#39;高效&#39; ? &#39;16.5px&#39; : &#39;13.5px&#39; } &quot;Inria Sans&quot;, Arial`; ctx.fillStyle = &#39;#000&#39;; ctx.textAlign = &#39;居中&#39;;让verticalPosition = labels[index] === &#39;生产&#39; ？ 22：20； ctx.fillText(timeLabelText, timeLabelX, labelY + 垂直位置);起始角度+=切片角度； } } &gt;    由   提交/u/foottaster123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apg06q/looking_for_a_notch_in_the_right_direction_with/</guid>
-      <pubDate>Tue, 13 Feb 2024 00:37:26 GMT</pubDate>
+      <title>孤立域并且必须保留电子邮件 DNS 记录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apj4z2/orphaned_a_domain_and_have_to_preserve_email_dns/</link>
+      <description><![CDATA[      我刚刚获得了一个旧 GoDaddy 域名的所有权，该域名已经拥有指向网络托管和电子邮件的自定义名称服务器。我对这些服务的提供商并不熟悉，而且我仍然不确定我是否知道电子邮件服务提供商的名称。 我需要更改 DNS 记录，以便它指向新的网络主机。我通过删除自定义域名服务器并恢复到 GoDaddy 默认域名服务器来做到这一点。然后我添加了指向新虚拟主机的 A 记录，它适用于虚拟主机。但是电子邮件坏了，这在我的预料之中。 我真的不知道如何让电子邮件恢复正常工作，因为我不了解我正在查看的旧 DNS 配置是否允许电子邮件。在进行更改之前，我有一些 DNS 配置的屏幕截图。 ​ 旧的 GoDaddy 自定义域名服务器（我已删除） ​ &lt; a href=&quot;https://preview.redd.it/dja0mofjq9ic1.png?width=2362&amp;format=png&amp;auto=webp&amp;s=c4725e47668b5264b894c79583fe6d916ff16527&quot;&gt;通过 who.is 运行时的 DNS 记录（在我进行任何更改之前）  图像中现有的 MX 记录只是指向该域。我尝试复制该内容，但没有成功。 知道如何恢复电子邮件吗？   由   提交/u/pvJ0w4HtN5   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apj4z2/orphaned_a_domain_and_have_to_preserve_email_dns/</guid>
+      <pubDate>Tue, 13 Feb 2024 03:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将资金发送（电汇）至银行账户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apj3op/how_do_you_send_wire_funds_to_a_bank_account/</link>
+      <description><![CDATA[例如，Etsy/Amazon/eBay 等。买家向公司付款，然后公司将资金发送给卖家。 后一个公园如何运作？如今，公司可以支持多种付款方式，例如 PayPal 等。想必这些“银行公司”有某种 API。 我对最不奇特的选项更感兴趣 - 将资金大概从另一个银行账户（例如公司账户）发送到银行账户 &lt; /div&gt;  由   提交/u/jigajigga  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apj3op/how_do_you_send_wire_funds_to_a_bank_account/</guid>
+      <pubDate>Tue, 13 Feb 2024 03:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何更好地进行网页设计？我的网站缺少颜色，也许还有其他东西。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apj0mf/how_to_be_better_at_web_design_my_website_lacks/</link>
+      <description><![CDATA[我是一名后端开发人员，最近开始从事前端开发。我正在使用 Astro 构建一个网站。我选择了一个免费主题并边学习边学习。我觉得我的网站缺乏色彩，也许还有其他一些东西。我可以使用任何资源来帮助我改进网页设计吗？  我看到人们推荐 Coolors.co 和其他资源。   由   提交/u/sanji1212  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apj0mf/how_to_be_better_at_web_design_my_website_lacks/</guid>
+      <pubDate>Tue, 13 Feb 2024 03:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试制作我的个人项目一直失败，我应该遵循教程一段时间吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aphw2l/keep_failing_trying_to_make_my_personal_project/</link>
+      <description><![CDATA[我是一个初学者，我用 Angular 创建了这个网站，您可以在其中搜索召回。现在我的目标是添加一个 .Net api，以便用户可以使用 Google 登录，创建一个监视列表，然后当某些内容被召回（如果它在用户监视列表中）时，我们会向他们发送一封电子邮件。好吧，简单的目标，但我发现很难做到这一点，人们说致力于你的个人项目..好吧。每次我用谷歌搜索如何做 x 时，我都会看到大约 20 种不同的方法。你如何编写控制器？有人知道吗？或者 dbContext？关系数据？每个 YouTube 视频都说要做一些不同的事情，并且该文档不适合初学者。我只是觉得很难弄清楚你具体需要什么。你是如何克服这个问题的？人们说不要遵循教程，但现在我开始遵循教程，因为我认为严格的边做边学和谷歌搜索是不可行的。    ;由   提交/u/FordCEO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aphw2l/keep_failing_trying_to_make_my_personal_project/</guid>
+      <pubDate>Tue, 13 Feb 2024 02:06:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>成为 MERN 开发者后爱上 Laravel</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apht60/loving_laravel_after_being_a_mern_developer/</link>
+      <description><![CDATA[在使用 Node/React 进行 Web 开发多年后，回到 Laraval/Blade 让我意识到以下内容  现代 PHP (v8.1+) 是一种非常好用的语言。与 PHPDocs 和 PHPStan 配合使用，它在类型安全方面几乎可以与 Typescript 相媲美。 我使用 Laravel 的开发速度远远超过使用 NodeJS 的速度。带有组件的刀片/Livewire 完全集成到框架中，无需任何样板代码即可实现后端到前端代码的紧密集成。 不必要的复杂性会扼杀项目。带有刀片组件/Livewire 的 Laravel 最大限度地降低了复杂性，对于大多数 Web 应用程序来说已经足够了。 PHP 工具链也比混乱的 Javascript 工具链简单得多。 托管成本可以大大降低。 NodeJS 应用程序几乎完全托管在昂贵的云基础设施上，初创企业可以通过部署廉价的 VPS/共享托管来节省大量服务器成本（至少在他们的应用程序获得关注之前）  总而言之，PHP / Laravel 仍然是一个可靠/务实的选择，我希望更多的人会在新项目中选择它。与它一起工作确实是一种乐趣。   由   提交 /u/Nervous_Swordfish289   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apht60/loving_laravel_after_being_a_mern_developer/</guid>
+      <pubDate>Tue, 13 Feb 2024 02:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Win 11 上，我可以使用 Edge、Chrome、Firefox 访问网站并生成文本文件，一旦我下载它，Windows 就会将其删除。即使 Windows 安全性已关闭。我 99% 确定它与这个网站有关，也许下载的文件是一个 lisp 程序。这是怎么回事？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgyly/on_win_11_i_can_visit_a_website_and_generate_a/</link>
+      <description><![CDATA[我访问 https://emacs.amodernist.com/ 生成初始 emacs 配置文件。此配置文件是纯文本，但其内容是 emacs lisp 程序。 如果单击文件保存，它将有一个建议文件名generate.txt 在 Windows 11 上Pro，使用 Edge、Chrome、Firefox、Brave、Opera 和 Vivaldi，一旦我下载生成的文本，Windows 就会将其删除。  事件查看器中没有看到任何事件，事件查看器中也没有任何内容。应用程序、安全性或系统日志 Windows 安全性不会在其保护历史记录中记录任何内容  我什至检查了 Windows 安全性并关闭了与病毒和应用程序相关的所有内容。威胁防护以及应用程序和应用程序浏览器控制。 无论如何，只要我下载该文件，Windows 就会将其删除。 我重新启动并重试，并且...一旦我下载该文件，Windows 就会删除它。删除它。 我可以从其他网站下载文本文件，但似乎不能从这个网站下载。 除了 Windows Security，我没有运行任何其他病毒防护。&lt; /p&gt; 知道这里发生了什么吗？   由   提交 /u/DenebianSlimeMolds   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgyly/on_win_11_i_can_visit_a_website_and_generate_a/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:21:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望聘请一名网络开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/</link>
+      <description><![CDATA[希望为特定用例构建一个专注于房地产的网站。 1. 我对网站的初始版本有一些基本功能的想法。 2. 开发人员应该能够轻松地完成前端（包括设计）和后端工作。 3. 开发商应熟悉MLS/IDX集成等房地产技术。 4. 应位于北美（墨西哥可以）。旧金山湾区本地人优先。 5. 请直接与我联系。在 DM 中分享您过去的项目或工作。 编辑：如果您只按小时计费，我不感兴趣。    由   提交/u/Random-Cloud  /u/Random-Cloud  reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgnzq/looking_to_hire_a_web_developer/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>为第三方构建小部件，iframe 与注入 html/css/scripts？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgmfi/building_widget_for_thirdparties_iframe_vs_inject/</link>
+      <description><![CDATA[我正在构建一个反馈小部件，其他网站可以将其嵌入到其页面中。在查看其他服务如何解决此问题时，我发现了两种方法： 1) Doorbell 注入所有 CSS、HTML 和需要 JavaScript 才能将小部件运行到您的网站中。 2) Feedback Fish 为您提供一个小脚本以添加到您的网站。然后，此脚本将一个 iframe 注入您的网站，该网站显示由反馈托管的 小部件页面Fish inside a popup. 选项 2 似乎是最好的选择，您可以使用任何您想要构建小部件页面的工具（React、Tailwind 等），而不必担心小部件的捆绑包大小，它允许您构建更复杂的功能，而不用担心与主机站点的样式冲突等。它似乎只是提供了更多的整体控制。然而，大多数此类服务似乎都选择第一个选项，并将所需的一切注入到您的网站中。 我缺少什么，选项 2 的缺点是什么？   由   提交 /u/ReactiveNative   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgmfi/building_widget_for_thirdparties_iframe_vs_inject/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSDOM 未运行 javascript</title>
+      <link>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</link>
+      <description><![CDATA[我在使用 JSDOM 时遇到了问题。由于某种原因，我的 Jest 单元测试似乎在 JavaScript 加载之前运行。如何确保在测试运行之前加载 JavaScript？ HTML 有一个脚本标签 。 ​ import {fireEvent, getByTestId} 来自“@testing-library/dom”从“路径”导入{目录名}；导入“@testing-library/jest-dom”从“jsdom”导入 jsdom, {JSDOM}从“路径”导入路径从“url”导入{ fileURLToPath }； const __filename = fileURLToPath(import.meta.url); const __dirname = dirname(__filename); const BASE = path.resolve(__dirname, &quot;./src&quot;) let virtualConsole let dom, body描述(&quot;手风琴测试&quot;, function () { beforeEach(async () =&gt; { dom = wait JSDOM.fromFile( path.join(BASE, &#39;/index.html&#39;), { url: `${BASE}`, runScripts: &quot;危险&quot;, resources: &quot;可用&quot;, fakeToBeVisual: true, // virtualConsole }) body = dom .window.document.body }) it(&#39;显示默认展开的第一个项目描述&#39;, async function () { const Accordion1 = getByTestId(body, &#39;1&#39;) const description1 = Accordion1.querySelector(&#39;.description&#39;) Expect (description1).toBeVisible() const ids = [&#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;] for (const id of ids) { const Accordion = getByTestId(body, id) const description = Accordion.querySelector (&#39;.description&#39;) Expect(description).not.toBeVisible() } }) .....  ​    提交者   /u/False-Owl8404   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1apgit3/jsdom_is_not_running_javascript/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:01:14 GMT</pubDate>
     </item>
     <item>
       <title>寻找一些构建前端的建议</title>
@@ -36,7 +92,7 @@
     <item>
       <title>从 Tauri 的前端-->后端发送事件</title>
       <link>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</link>
-      <description><![CDATA[我正在制作一个小应用程序，它根据配置文件从 api 下载（不是那么重要，但我想我还是会分享它）。我需要将带有用户选择的文件夹路径的字符串发送到后端。但是当我使用 emit 来执行此操作时，它总是解析为带有 some() 和一堆反斜杠的奇怪字符串。  ​ 前端代码片段：  import { open } from &#39;@tauri-apps/api/dialog&#39;;从&#39;@tauri-apps/api/event&#39;导入{emit}； async function showDialog() { const selected = wait open({ 目录: true, multiple: false, }); if (selected !== null) { const selectedValue = Array.isArray(selected) ?选定[0]：选定； selectedDir.set(selectedValue); console.log(selectedValue) 发出(&#39;selectedDirChanged&#39;, selectedValue); } }  后端代码片段： // On tauri::Builder::default() .setup(|app| { app.listen_global( &quot;selectedDirChanged&quot;, |dirchange| { letfolder_dir = dirchange.payload(); println!(&quot;得到路径为 {:#?} 的 selectedDirChanged&quot;,folder_dir); }); Ok(()) })  前端日志：D:\some\very\cool\folder\path 后端日志：got selectedDirChanged with path Some(  “\”D:\\\\some\\\\very\\\\cool\\\\folder\\\\path\&quot;&quot; ;, ) 注意：\\\\是因为windows希望与 \ 不同，它也是转义字符，因为当我用正斜杠替换它时，它只是一个。但这仍然是一个问题。 我已经阅读了所有有关事件的 2 分钟文档，并在网上查找了它，但没有人提到任何有关此的内容。 我是新来的一般编码，因此我们将不胜感激。   由   提交/u/SingleZero27  [链接] [评论]]]></description>
+      <description><![CDATA[我正在制作一个小应用程序，它根据配置文件从 api 下载（不是那么重要，但我想无论如何我都会分享它）。我需要将带有用户选择的文件夹路径的字符串发送到后端。但是当我使用 emit 来执行此操作时，它总是解析为带有 some() 和一堆反斜杠的奇怪字符串。  ​ 前端代码片段：  import { open } from &#39;@tauri-apps/api/dialog&#39;;从&#39;@tauri-apps/api/event&#39;导入{emit}； async function showDialog() { const selected = wait open({ 目录: true, multiple: false, }); if (selected !== null) { const selectedValue = Array.isArray(selected) ?选定[0]：选定； selectedDir.set(selectedValue); console.log(selectedValue) 发出(&#39;selectedDirChanged&#39;, selectedValue); } }  后端代码片段： // On tauri::Builder::default() .setup(|app| { app.listen_global( &quot;selectedDirChanged&quot;, |dirchange| { letfolder_dir = dirchange.payload(); println!(&quot;得到路径为 {:#?} 的 selectedDirChanged&quot;,folder_dir); }); Ok(()) })  前端日志：D:\some\very\cool\folder\path 后端日志：got selectedDirChanged with path Some(  “\”D:\\\\some\\\\very\\\\cool\\\\folder\\\\path\&quot;&quot; ;, ) 注意：\\\\是因为windows希望与 \ 不同，它也是转义字符，因为当我用正斜杠替换它时，它只是一个。但这仍然是一个问题。 我已经阅读了所有有关事件的 2 分钟文档，并在网上查找了它，但没有人提到任何有关此的内容。 我是新来的一般编码，因此我们将不胜感激。   由   提交/u/SingleZero27   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ape44f/sending_events_from_frontendbackend_in_tauri/</guid>
       <pubDate>Mon, 12 Feb 2024 23:13:44 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[       由   提交 /u/the_dancing_squirel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1apdc3s/made_me_chuckle/</guid>
       <pubDate>Mon, 12 Feb 2024 22:40:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么建议可以从事副业吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apc6kw/suggestions_for_which_area_to_side_hustle/</link>
-      <description><![CDATA[工作愉快，但有兴趣在晚上/周末接待一些副业客户，想知道什么是最有利可图、最受欢迎但最不耗时的服务专注在？为小型企业建立网站？为中型企业构建网络应用程序？为没有全职开发人员的公司管理/维护事物？基于票证的保留金适用于任何事物？   由   提交 /u/indiealaska   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apc6kw/suggestions_for_which_area_to_side_hustle/</guid>
-      <pubDate>Mon, 12 Feb 2024 21:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>加载文本问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apb5jm/loading_text_question/</link>
-      <description><![CDATA[嗨！ 我正在开发我的 React/NextJs 应用程序，我有一个关于“loading”行业标准的问题。 ..”文本。 在我的应用程序中，某些页面仅应在用户经过身份验证/授权后才能访问。这些多个页面显示“正在加载...”。文本，同时检查用户是否登录。如果用户已登录，则会呈现正确的页面。如果用户没有登录，则显示“登录”。组件将呈现。代码的工作原理如下： function(){ if (loading) { return( Loading... ) } else if (userId===null){ return(  ) } return (  ) }  我的问题是，使用此方法，多个页面我的网站有一个 0.5 秒的“正在加载...”渲染正确页面之前的文本。这是行业标准吗？如果有“正在加载...”在我网站的大部分页面上显示 0.5 秒的文本可以接受吗？如果没有，更好的方法是什么？ ​ 谢谢！  &amp; #32；由   提交/u/Intelligent_Sugar207   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apb5jm/loading_text_question/</guid>
-      <pubDate>Mon, 12 Feb 2024 21:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人的工作场所使用非捆绑客户端吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apaha3/anyones_workplace_using_unbundled_client/</link>
-      <description><![CDATA[https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7 我多年来我一直在单独做这件事，但我想知道团队如何找到它（如果有的话）。 除了零捆绑、零意见风格之外，还带来了极大的灵活性，但这是一个对于一个团队来说可能是一把两刃剑。   由   提交/u/elendee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apaha3/anyones_workplace_using_unbundled_client/</guid>
-      <pubDate>Mon, 12 Feb 2024 20:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>社区支持 Instagram 页面 - 自动海报</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apae53/instagram_page_for_community_support_auto_poster/</link>
-      <description><![CDATA[嘿伙计们， 我正在考虑创建一个 Instagram 页面来支持我们的社区。目前还没有一个公共平台供人们寻求帮助——与工作相关的或任何其他的。  我想创建一个网页，人们可以在其中发布他们的查询，它会自动以图像格式将其上传到 Instagram。 但正如我所查找的，我认为 Instagram api 允许通过 api 上传的帖子数量有限。这是真的吗？如果是，那么还有其他方法吗？ 谢谢   由   提交 /u/hmmIsItAGoodUsername   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apae53/instagram_page_for_community_support_auto_poster/</guid>
-      <pubDate>Mon, 12 Feb 2024 20:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望从当前的专用主机迁移到亚马逊托管 - 寻求一些帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1apadsz/looking_to_move_from_current_dedicated_host_to/</link>
-      <description><![CDATA[我正在考虑将我的托管从当前的托管提供商转移到 Amazon。  我们目前在当前主机上使用 cPanel / PHP / mySQL / SSH 和 SFTP，因此我会在 AWS 上寻找类似的东西。 我们当前的服务器是： &gt;  8 GB RAM 1TB SATA HDD 20TB 带宽 CentOS 操作系统 cPanel/WHM li&gt;  我正在寻找类似的技术。 我们每个月使用大约 150-200 GB 的带宽，服务器上有大约 180 GB 的数据，数据库中有 2 GB 数据。  如何确保我根据 AWS 的选项调整了自己的规模？ ​   由   提交/u/bradical1379  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1apadsz/looking_to_move_from_current_dedicated_host_to/</guid>
-      <pubDate>Mon, 12 Feb 2024 20:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种 GPT 最适合我？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap8u9p/which_gpt_would_best_suit_me/</link>
-      <description><![CDATA[我绝不是人工智能专家，但我已经每月为 ChatGPT 支付 20 美元大约 8 个月了。对于我用它做的一些事情来说，它确实是无价的。除了开发之外，我还是 IT 主管，它可以帮助我编写 powershell 脚本、解析日志等...我什至用它来帮助我进行市场研究并为我的企业编写商业计划和营销。刚刚开始（下周盛大开幕！）。 随着最近这么多模型的出现，我想知道除了 ChatGPT 之外还有什么更好的选择吗？前几天我看了 Perplexity，它看起来很理想，但我没有经验。我从未使用过 copilot，因为我读过的所有内容似乎都表明它不如 ChatGPT 4，尽管我仍然倾向于使用它。 传统上我&#39;我是一名网络开发人员。我喜欢使用 HTML、Javscript、CSS 等设计和编码网站和 Web 应用程序...最近我一直在使用 Astro，这非常棒。考虑到这一点，我应该坚持使用 ChatGPT 付费服务，还是按月付费还有其他好处？   由   提交 /u/MotorBoats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap8u9p/which_gpt_would_best_suit_me/</guid>
-      <pubDate>Mon, 12 Feb 2024 19:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手AWS部署体验（痛苦）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap7z8c/the_noobie_aws_deployment_experience_pain/</link>
-      <description><![CDATA[      嗨，我已经开发了一段时间，但从未部署过一些东西，最近我想将我的 React-express 应用程序部署到 AWS，这真是痛苦。 现在我对 AWS 已经半熟悉了，因为我拿到了他们的云从业者证书，但我基本上忘记了一切。 与一切一样，我问 chatgpt 如何将我的 React 前端部署到 AWS，它建议使用 npm构建并将其上传到 s3 上的静态主机。这不是一个坏主意，这是一个可怕的主意，因为这意味着每次推送更新时，您都必须转到 S3 并删除旧文件并放入新版本。 然后我探索了 beanstalk，但它试图让我使用 ELB，每月花费大约 20 美元，什么都不做。 随后进行了几个小时的谷歌搜索... 转AWS 放大是我发现的最好方法，但是大问题来了，后端怎么样？AWS apprunner 显然是个好主意，但它有 3 个我尚未解决的问题：该怎么办与 .env 文件？ （apprunner 获取你的 github 存储库并运行它）为什么我不能向它发出任何终端命令？为什么构建需要 90 年 在修复问题并为每个构建等待几分钟后，我完全放弃了。  然后我就想，是时候停止做个该死的婊子了，在 ec2 上运行我自己的服务器并通过那里连接我的域... 太棒了！直到 https，因为 ec2 实例默认通过 http 托管，因此您的前端实际上不会连接到任何 http 内容。那么我就去 Google 吧。 ​ 你知道 YouTube 上通常有 3 个教程，其中一个可以帮你完成 80% 的任务，但是你需要做一些最后的工作，例如设置 https，因此您可以搜索“如何在 ec2 上设置 https 到我的端口”厄运的兔子洞？然后你尝试实现堆栈溢出、reddit 页面上写的内容，并保证它永远不会工作。  确定设置ELB-&gt; 20 美元，请设置路由 52 并将您的 ec2 ip 指向您想要的子域，哦，这不起作用？尝试 elasic ip 和 AWS 证书管理器！你得到的是一大堆热气腾腾的狗屎，你只是不知道到底发生了什么。 所以一天后，你从头开始尝试第二个视频教程，同样的事情，同样的过程，您以为这次会有所不同，但不，连接拒绝宝贝！回到谷歌搜索和弗兰肯斯坦，你去 几个小时后，你开始尝试第三个教程，它就像魔术一样，第一次尝试一切都会正常，正是你所需要的，它可以治愈癌症，你的路线连接起来，你看你的子域的 api 路由上的 hello world，耶稣从天上来给你跳膝舞，太美丽了。 Technoblade 再次回来祝福我们。 HMMMMMMMMMMMMMMMMMMMMM 幸福的感觉会持续大约 10 分钟，直到你需要实施其他事情......祝你好运！  还要大声疾呼 aws 文档是我见过的最没有价值的狗屎， 在我的旅程中，我需要将 CNAME 添加到我的域中以获得 SSL 证书和第一个aws帮助文档的部分是： ​ 什么他妈的 咆哮结束，操这个 ​    由   提交/u/xatnagh  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap7z8c/the_noobie_aws_deployment_experience_pain/</guid>
-      <pubDate>Mon, 12 Feb 2024 19:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程师对 Web 开发的一些奇怪看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ap7xad/weird_things_engineers_believe_about_web/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ap7xad/weird_things_engineers_believe_about_web/</guid>
-      <pubDate>Mon, 12 Feb 2024 19:05:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
