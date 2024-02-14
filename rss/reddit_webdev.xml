@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 12:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 15:12:35 GMT</lastBuildDate>
+    <item>
+      <title>如何将现有目录邮件列表集成到新的电子商务注册中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqnz15/how_to_integrate_existing_catalogue_mailing_list/</link>
+      <description><![CDATA[你好。我在一家营销机构担任数字顾问，在审查客户的网站（不是我们开发的）时遇到了以下问题，我希望有人可以帮助我找出如何适当（且巧妙）解决的问题。&lt; /p&gt; 我们管理客户的纸质目录已有一段时间了。目录的每个客户都有一个帐户代码。最近，客户决定将纸质目录放到网上，开始接受网络订单。当有人去结帐时，它会询问他们是否是现有的目录客户。如果您单击“是”，它会显示一个示例目录标签的图像，其中突出显示了客户帐号，以及一个用于输入您的帐号的空白字段。如果您成功输入该号码，您的所有客户信息都会填充到新帐户中。这对我来说是隐私和安全的危险信号，因为拥有随机数生成器的黑客可以轻松提取他们的整个客户数据库，如果他们成功注册该帐户，他们还可以提取所有以前的订单信息。 我绞尽脑汁试图找出一种不同的方法来自动将新帐户注册链接到现有帐户，但我能想到的最好的方法是让在网站上注册的人拥有他们的最后一个帐户姓名、帐号和现有电子邮件或手机，用于发送短信验证码以验证该人的身份。然而，客户表示，他们只有大约 10% 的客户的电子邮件地址，并且数据库中的电话号码可能并不都是手机。 如有任何想法，我们将不胜感激。谢谢！ ​   由   提交 /u/quietpilgrim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqnz15/how_to_integrate_existing_catalogue_mailing_list/</guid>
+      <pubDate>Wed, 14 Feb 2024 14:20:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sentry 的新源映射方法提高 Web 可观察性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqnobp/improving_web_observability_with_sentrys_new/</link>
+      <description><![CDATA[   /u/alexey2021   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqnobp/improving_web_observability_with_sentrys_new/</guid>
+      <pubDate>Wed, 14 Feb 2024 14:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>定位 css bg 中的特定图像以使用滑块移动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqmx3t/targeting_specific_images_within_css_bg_to_move/</link>
+      <description><![CDATA[所以我目前正在我的网站上工作，其中有 4 张图片： Image1：背景  Image2：要移动的元素 Image3：遮罩使其看起来更漂亮 Image4：需要位于遮罩上方的元素的其他部分 i设置一个滑块，使用 js 可以通过其类名来定位 img 2 并向下移动，一切都很好。现在我发现自己陷入了困境，因为该网站在移动设备上看起来很糟糕，所以我得出的结论是，所有图像都需要采用不同的尺寸（更像肖像）才能在移动设备上查看。  好吧，我编辑了图像，现在的问题是，根据我的研究，即使我隐藏移动设备的网络图像，它仍然会下载这些图像。为了优化（我认为），我决定将所有内容放入整个部分容器中，并将所有图像设置为背景。现在我可以为移动设备和桌面设备提供不同的图像，但是当谈到优化 js 时，我意识到这可能不像我想象的那么容易。  之前我的js是这样的：  document.addEventListener(&quot;DOMContentLoaded&quot;, function() { var slider = document.getElementById(&#39;myRange&#39;); var image = document.querySelector(&#39;.car&#39;); slider.addEventListener(&#39;input&#39;, function() { var newPositionVh = (parseInt(this.value) * 1.5) / 100; image.style.transform = &#39;translateY(&#39; + newPositionVh + &#39;vh)&#39;; });  }); 但是我如何定位 css 类的 4 个背景之一而不是全部一次 ？这可能吗？   由   提交/u/cleronfx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqmx3t/targeting_specific_images_within_css_bg_to_move/</guid>
+      <pubDate>Wed, 14 Feb 2024 13:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否限制宽显示器上英雄背景图像的最大宽度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqltmo/limit_maxwidth_for_hero_background_images_on_wide/</link>
+      <description><![CDATA[      嗨，我有兴趣听听你们是否通常限制最大宽度如果该部分不是 100vh，则您的英雄部分背景图像适用于更宽的显示器。如果最大宽度不受限制，它们会伸展并因此被放大（背景大小：封面）。 我看到两种解决方案： 要么使用看起来不错的图像，即使放大。限制英雄部分的最大宽度，使其仅覆盖较宽显示器上的特定像素范围。 您通常选择什么？或者你通常会考虑这一点吗？如果您喜欢限制宽度，通常会将其限制为 1920 像素或更宽吗？ 下面的示例草图！ 左：全角图像，右：限制最大宽度   由   提交 /u/Philosofen   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqltmo/limit_maxwidth_for_hero_background_images_on_wide/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:33:12 GMT</pubDate>
+    </item>
     <item>
       <title>新旅行社网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqlhoa/new_travel_agency_website/</link>
@@ -64,14 +92,14 @@
     <item>
       <title>“盗链”与“复制”的礼仪（无论哪种方式都完全归因）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqjffb/etiquette_for_hotlinking_vs_reproducing/</link>
-      <description><![CDATA[当我引用或介绍其他各方时，我喜欢至少包含他们的徽标或某种特征图像，以增加一些深度参考。 我倾向于直接从他们的官方网站链接/嵌入这些资源。我的理由/自然偏好是避免复制和托管他人的内容（这是他们的 IP）。 但是，我刚刚读到“热链接”和“热链接保护”（没有人拥有“对我来说，我只是在阅读/学习网络开发，是的，我绝对是一个业余爱好者），现在我很矛盾...... 我应该（a）引用他们的网站吗？并“进行盗链”但避免复制其内容？或者 (b) 获取一份副本并自己托管，但减少他们的资源？或者 (c) 忘记图像，只需恢复到带有文本和超链接的 OG www。 感谢任何帮助和帮助。间接从其他人的帖子中学习东西！   由   提交 /u/Psengath   [链接] [评论]]]></description>
+      <description><![CDATA[当我引用或介绍其他各方时，我喜欢至少包含他们的徽标或某种特征图像，以增加一些深度参考。 我倾向于直接从他们的官方网站链接/嵌入这些资产。我的理由/自然偏好是避免复制和托管他人的内容（这是他们的 IP）。 但是，我刚刚读到“热链接”和“热链接保护”（没有人拥有“对我来说，我只是在阅读/学习网络开发，是的，我绝对是一个业余爱好者），现在我很矛盾...... 我应该（a）引用他们的网站吗？并“进行盗链”但避免复制其内容？或者 (b) 获取一份副本并自己托管，但减少他们的资源？或者 (c) 忘记图像，只需恢复到带有文本和超链接的 OG www。 感谢任何帮助和帮助。间接从其他人的帖子中学习东西！   由   提交 /u/Psengath   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqjffb/etiquette_for_hotlinking_vs_reproducing/</guid>
       <pubDate>Wed, 14 Feb 2024 10:03:12 GMT</pubDate>
     </item>
     <item>
       <title>我是一名 Web 开发人员，但并不是所有编程语言的大师。</title>
       <link>https://www.reddit.com/r/webdev/comments/1aqj9nh/im_a_web_dev_not_a_master_of_all_programming/</link>
-      <description><![CDATA[最近公司和雇主发生了什么。现在大多数招聘广告似乎都有条款...我们需要懂 HTML、CSS、JS Vue 和 React 等的人...（没问题）...哦，顺便说一句...你还需要有强大的 C# 能力和对 Linux 服务器端的强大掌握等我只是一个人哈哈    由   提交/u/beginningofdayz   [链接] [评论]]]></description>
+      <description><![CDATA[最近公司和雇主发生了什么。现在大多数招聘广告似乎都有条款...我们需要懂 HTML、CSS、JS Vue 和 React 等的人...（没问题）...哦，顺便说一句...你还需要有强大的 C# 能力和对 Linux 服务器端的强大掌握等我只是一个人哈哈    由   提交 /u/beginningofdayz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqj9nh/im_a_web_dev_not_a_master_of_all_programming/</guid>
       <pubDate>Wed, 14 Feb 2024 09:51:52 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好， 我工作的公司最近切换到 Frontdoor。现在一切都乱了。 我们是一家以 API 为中心的公司，这意味着我们处理 JSON 和 XML，这些 XML 具有架构链接和内容。就像没有可以定义的模式一样。  现在的问题是，API 调用在生产环境中左右受阻，而从开发人员角度来看，我们感到措手不及。我们公司的预算有点紧张，所以现在没有 UAT，我们只有开发和质量保证。这两个都驻留在专用网络中 即使我们被迫拥有一个 UAT，QA 也能够在其中测试“某些”网络。作为一家 SaaS 公司，我们可能无法测试客户尝试的所有场景。  理想的方式是什么！？应该如何顺利解决这个问题，以便我们可以放心地说，只有恶意 API 调用才会被阻止，而不会阻止有效的 API 调用。 谢谢   由   提交 /u/Mindless-Umpire-9395   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aqj52y/azure_frontdoor_rain_fires_403/</guid>
       <pubDate>Wed, 14 Feb 2024 09:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该担心吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqhxlh/should_i_be_worried/</link>
-      <description><![CDATA[最近使用 docker-compose 启动了一个站点（尚不需要 Swarm 或 Kubernetes 等可扩展性），运行容器化 Django、Nginx、Celery 等容器。&lt; br /&gt; 它托管在 Ubuntu 20 的 DO Droplet 上，并在顶部运行 Cloudflare。 一切都在顺利运行，直到昨晚我收到我的网站已关闭的通知。尝试打开它时，我不断收到： 此网站无法提供安全连接并且{{ domain }} 使用不受支持的协议。  我重新启动了发行版，重新启动了容器 - 什么也没有。再次重新启动容器后，这次不是处于分离模式，一切都恢复正常。我的 SSL 证书还剩 40 天，我没有更改任何配置。  是否存在恶意行为或类似的事情偶尔发生？谢谢   由   提交/u/denisbotev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqhxlh/should_i_be_worried/</guid>
-      <pubDate>Wed, 14 Feb 2024 08:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>高风险的重构</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqhs5l/the_highrisk_refactoring/</link>
-      <description><![CDATA[ 由   提交/u/ruinijuni  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqhs5l/the_highrisk_refactoring/</guid>
-      <pubDate>Wed, 14 Feb 2024 08:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里托管商业 POS 系统（vue、node、mysql）应用程序以及如何托管。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqhod8/where_to_host_commercial_pos_systemvue_node_mysql/</link>
-      <description><![CDATA[我希望我能很好地解释这一点...我开发了一个小型且不那么复杂的应用程序，用于处理客户订单，应该用作信息亭应用程序。我想租用它，并且需要为每个公司创建一个实例。如何实现这一目标并省钱。因此每个公司都会分别拥有自己的应用程序实例和数据库。亚马逊AWS？    由   提交/u/Kinkajou89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqhod8/where_to_host_commercial_pos_systemvue_node_mysql/</guid>
-      <pubDate>Wed, 14 Feb 2024 07:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在cloudflareworker中使用缓存·Newbeelearn</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqhcdc/how_to_use_cache_in_cloudflare_workers_newbeelearn/</link>
-      <description><![CDATA[   /u/pdycnbl  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqhcdc/how_to_use_cache_in_cloudflare_workers_newbeelearn/</guid>
-      <pubDate>Wed, 14 Feb 2024 07:32:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

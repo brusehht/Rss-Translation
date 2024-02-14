@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 12:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 15:12:41 GMT</lastBuildDate>
     <item>
-      <title>如何快速提高 GitHub 虚荣指标</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aqkezs/how_to_improve_your_github_vanity_metrics_fast/</link>
-      <description><![CDATA[   /u/UpvoteBeast  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aqkezs/how_to_improve_your_github_vanity_metrics_fast/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:09:09 GMT</pubDate>
+      <title>使用 openSUSE Krypton Live CD 模式从 git 运行 KDE Plasma 6</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aqogi8/run_kde_plasma_6_from_git_using_opensuse_krypton/</link>
+      <description><![CDATA[       由   提交 /u/nmariusp   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aqogi8/run_kde_plasma_6_from_git_using_opensuse_krypton/</guid>
+      <pubDate>Wed, 14 Feb 2024 14:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的公司刚刚让我开源了我们的编排工具“Houston”，这是一个基于 API 的 Airflow/Google Cloud Composer 替代品，过去 4 年我们一直在内部使用！它非常适合低成本、高速数据管道</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aqmpfl/my_company_just_let_me_open_source_our/</link>
+      <description><![CDATA[       由   提交/u/flo0d  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aqmpfl/my_company_just_let_me_open_source_our/</guid>
+      <pubDate>Wed, 14 Feb 2024 13:20:00 GMT</pubDate>
     </item>
     <item>
       <title>React/React原生开源项目</title>
@@ -57,7 +64,7 @@
     <item>
       <title>能够将一系列图像转换为视频的软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</link>
-      <description><![CDATA[我正在上计算机动画课，我们使用的软件通常将视频输出为 PNG 序列。通常我们会使用 Adob​​e Media Encoder 将图像转换为视频，但我正在寻找替代软件，以便在我的家用计算机上使用来完成如此简单的任务。 Blender 有能力这样做，但只能处理 2 种视频文件格式。l 你们会推荐什么软件？   由   提交/u/UV_Sun   [链接] [评论]]]></description>
+      <description><![CDATA[我正在上计算机动画课，我们使用的软件通常将视频输出为 PNG 序列。通常，我们会使用 Adob​​e Media Encoder 将图像转换为视频，但我正在寻找替代软件，以便在我的家用计算机上使用来完成如此简单的任务。 Blender 有能力这样做，但只能处理 2 种视频文件格式。l 你们会推荐什么软件？   由   提交/u/UV_Sun   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</guid>
       <pubDate>Tue, 13 Feb 2024 19:12:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在研究手语和语料库语言学，我想知道是否有人知道托管视频或视听语料库并可以访问的存储库自由。 我了解 Ortolang 和语言档案馆。还有其他的吗？  谢谢！！   由   提交/u/CapCompressive2536   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1apv99s/open_access_repositories_for_video_corpora/</guid>
       <pubDate>Tue, 13 Feb 2024 14:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>quillpad 导入和通知？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1apu42p/quillpad_import_and_notifications/</link>
-      <description><![CDATA[嗨， ​ 我已经在 Android 手机上安装了 quillpad，但我没有看到任何从 keep 或其他地方导入数据的图标，如果我添加注释并添加通知，我设置时没有通知，想法？ 谢谢 &lt; /div&gt;  由   提交/u/ninjanoir78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1apu42p/quillpad_import_and_notifications/</guid>
-      <pubDate>Tue, 13 Feb 2024 13:59:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
