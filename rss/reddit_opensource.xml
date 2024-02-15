@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 21:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:49:24 GMT</lastBuildDate>
+    <item>
+      <title>任何人都有Shadow.inc 的替代品吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ar2h7m/anyone_have_an_alternative_for_shadeinc/</link>
+      <description><![CDATA[ 由   提交 /u/hex20dec   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ar2h7m/anyone_have_an_alternative_for_shadeinc/</guid>
+      <pubDate>Thu, 15 Feb 2024 00:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>图形界面人工智能应用商店</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ar0yn7/ai_app_store_for_graphical_interfaces/</link>
+      <description><![CDATA[GitHub：https://github.com/dht/gdi  网站：https://usegdi.com 什么是 GDI？ GDI是一个用于人工智能驱动界面的应用程序商店。 它有何独特之处？  集中数据：所有 GDI 应用程序共享一个通用数据库，并且资产库。 人工智能驱动：对于每个用例，根本问题是“当人工智能在您身边时，如何最好地实现这一点。” 基于模式：GDI 采用基于模式的方法，支持动态界面和内容版本控制。从数据到 UI 再到生成的内容，一切都是由架构定义的。  基于架构的视频示例：https://usegdi.com/boards/B-013/modelz 项目目标是什么？探索AI时代图形界面的新可能性。毕竟，并不是所有事情都可以通过提示完成...:-)   由   提交/u/dht  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ar0yn7/ai_app_store_for_graphical_interfaces/</guid>
+      <pubDate>Wed, 14 Feb 2024 23:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>Google Fit/Google 钱包是否被视为开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1aqvlq9/are_google_fitgoogle_wallet_considered_open_source/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>开源项目的许可证问题，该项目是具有不同许可证的 2 个项目的衍生项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1aqv1ir/license_question_for_opensource_project_that_is_a/</link>
-      <description><![CDATA[我想在 GitHub 上开源我的一个项目，该项目是 GitHub 上托管的其他 2 个项目的分支/衍生项目。一种使用 BSD 3 条款许可证，另一种使用 Apache 2.0。我修改/扩展了他们的源代码，并在必要时添加了我自己的文件。现在，我很困惑如果我想许可我自己的项目该怎么办。我的问题是：  能否有一个“总体”框架？我自己的项目的许可证？据我了解，Apache 2.0 要求包含到许可证文件中，而 BSD 3 条款许可证禁止从源文件中删除原始版权声明。如果是这样的话，我的衍生项目如何拥有自己的单一许可证？也许，我应该提到，我不想将我的项目商业化，只是希望人们/叉子相信我的工作。最好是，如果可能有一个总体许可证，我不希望它是 Copyleft。 除了 Apache 2.0 许可证文件之外，我应该在我的 Github 项目中包含哪些文件？ 什么是在原始 Apache 2.0 和 BSD 3-clause 项目文件的修改后的源文件中包含我自己的作者/信用/版权的正确方法是什么？我的意思是我到底可以把自己的学分放在哪里？例如，BSD 项目使用以下块作为通知：  ​ ########### ###BSD######################## (c) 原作者姓名，Github 链接 ..... 3 个子句 .... ## ########################################  什么我的意思是我要把自己的学分放在这个块下吗？或者在原作者版权线之后的这个块内？ 提前感谢您的帮助！   由   提交 /u/TheDragonRebornEMA   [链接] [评论]]]></description>
+      <description><![CDATA[我想在 GitHub 上开源我的一个项目，该项目是 GitHub 上托管的其他 2 个项目的分支/衍生项目。一种使用 BSD 3 条款许可证，另一种使用 Apache 2.0。我修改/扩展了他们的源代码，并在必要时添加了我自己的文件。现在，我很困惑如果我想许可我自己的项目该怎么办。我的问题是：  能否有一个“总体”框架？我自己的项目的许可证？据我了解，Apache 2.0 要求包含到许可证文件中，而 BSD 3 条款许可证禁止从源文件中删除原始版权声明。如果是这样的话，我的衍生项目如何拥有自己的单一许可证？也许，我应该提到，我不想将我的项目商业化，只是希望人们/叉子相信我的工作。最好是，如果可能有总体许可证，我不希望它是 Copyleft。 除了 Apache 2.0 许可证文件之外，我应该在我的 Github 项目中包含哪些文件？ 什么是在原始 Apache 2.0 和 BSD 3-clause 项目文件的修改后的源文件中包含我自己的作者/信用/版权的正确方法是什么？我的意思是我到底可以把自己的学分放在哪里？例如，BSD 项目使用以下块作为通知：  ​ ########### ###BSD######################## (c) 原作者姓名，Github 链接 ..... 3 个子句 .... ## ########################################  什么我的意思是我要把自己的学分放在这个块下吗？或者在原作者版权线之后的这个块内？ 提前感谢您的帮助！   由   提交 /u/TheDragonRebornEMA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aqv1ir/license_question_for_opensource_project_that_is_a/</guid>
       <pubDate>Wed, 14 Feb 2024 19:11:01 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>您喜欢哪种开源许可证，不喜欢哪种？</title>
       <link>https://www.reddit.com/r/opensource/comments/1aqsev2/which_opensource_license_do_you_like_and_which_do/</link>
-      <description><![CDATA[对于我的项目，我总是使用 M.I.T.模块和 G.P.L. 许可证其他软件的版本 2。我知道它们是非常不同的许可证，但我一直在想我是否应该开始研究 Apache 2（B.S.D.）。许可证或 G.P.L.版本 3。我很好奇认真的开源贡献者对这些许可证的看法。   由   提交 /u/Lekritz   [链接] [评论]]]></description>
+      <description><![CDATA[对于我的项目，我总是使用 M.I.T.模块和 G.P.L. 许可证其他软件的版本 2。我知道它们是非常不同的许可证，但我一直在想我是否应该开始研究 Apache 2（B.S.D.）。许可证或 G.P.L.版本 3。我很好奇严肃的开源贡献者对这些许可证的看法。   由   提交 /u/Lekritz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aqsev2/which_opensource_license_do_you_like_and_which_do/</guid>
       <pubDate>Wed, 14 Feb 2024 17:26:21 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Wed, 14 Feb 2024 04:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>开源的全新完整人工智能应用程序堆栈</title>
+      <title>新的完整开源人工智能应用程序堆栈</title>
       <link>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/smw355  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/Ok_Acanthoperygii40   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aq1w7y/envio_a_modern_and_secure_cli_tool_for_managing/</guid>
       <pubDate>Tue, 13 Feb 2024 19:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>能够将一系列图像转换为视频的软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</link>
-      <description><![CDATA[我正在上计算机动画课，我们使用的软件通常将视频输出为 PNG 序列。通常，我们会使用 Adob​​e Media Encoder 将图像转换为视频，但我正在寻找替代软件，以便在我的家用计算机上使用来完成如此简单的任务。 Blender 有能力这样做，但只能处理 2 种视频文件格式。l 你们会推荐什么软件？   由   提交/u/UV_Sun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aq1qp5/software_capable_turning_a_sequence_of_images/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>管道日志和工件但在本地</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aq089q/pipeline_logs_and_artifacts_but_locally/</link>
-      <description><![CDATA[   /u/sourishkrout  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aq089q/pipeline_logs_and_artifacts_but_locally/</guid>
-      <pubDate>Tue, 13 Feb 2024 18:13:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

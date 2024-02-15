@@ -4,11 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 21:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:48:01 GMT</lastBuildDate>
+    <item>
+      <title>关于人工智能和音乐的问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar1wt1/question_about_ai_and_music/</link>
+      <description><![CDATA[我只是想知道，ai 能够创作旋律吗？我认为很多人高估了它的能力。在我看来，人工智能并不像大多数人想象的那么聪明。但它能做到吗？或创作​​完整歌曲？它可以为伴唱创建完整的句子吗？有证据支持/反对吗？   由   提交 /u/lavender_m1lk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar1wt1/question_about_ai_and_music/</guid>
+      <pubDate>Thu, 15 Feb 2024 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>现实的未来——亚伦·奈克</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar196o/the_future_of_reality_aaron_naik/</link>
+      <description><![CDATA[现实的未来图书链接&lt; /p&gt;   由   提交/u/A_Naik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar196o/the_future_of_reality_aaron_naik/</guid>
+      <pubDate>Wed, 14 Feb 2024 23:34:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>RTX 4060 ti 8GB 能做什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqy1pf/what_can_i_do_with_a_rtx_4060_ti_8gb/</link>
+      <description><![CDATA[嘿伙计们，我是人工智能的真正初学者，但最近购买了 RTX 4060 ti 搭配 ryzen 7 5700x 和 32gb。我想用 AI 探索一些东西，如果有人能帮助解决我的问题，我将不胜感激。 我可以将 VRAM 与 RAM 配对来运行更复杂的 AI 吗？ LM studio是一种很好的开始方式还是存在更好的方式在本地运行LLM？ 我想在AI的帮助下写一些故事，你会推荐哪一个？   由   提交 /u/Old_Emphasis7922   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqy1pf/what_can_i_do_with_a_rtx_4060_ti_8gb/</guid>
+      <pubDate>Wed, 14 Feb 2024 21:16:41 GMT</pubDate>
+    </item>
     <item>
       <title>我在哪里可以便宜地获得微积分大学学分？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqvqsg/where_can_i_get_calculus_college_credit_for_cheap/</link>
-      <description><![CDATA[大家好，我正在寻求获得人工智能硕士学位，招生顾问建议我学习一个学期的微积分。我上过的唯一的数学课程是基础统计。有人可以让我在哪里可以便宜地上大学甚至微积分吗？除了我当地的社区大学。另外，如果我应该研究任何其他数学课程才能在人工智能硕士课程中取得成功，请在下面发表评论。 TYIA   由   提交/u/panpan1941  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻求获得人工智能硕士学位，招生顾问建议我学习一个学期的微积分。我上过的唯一的数学课程是基础统计。有人知道哪里可以便宜地学习大学微积分吗？除了我当地的社区大学。另外，如果我应该研究任何其他数学课程才能在人工智能硕士课程中取得成功，请在下面发表评论。 TYIA   由   提交/u/panpan1941  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqvqsg/where_can_i_get_calculus_college_credit_for_cheap/</guid>
       <pubDate>Wed, 14 Feb 2024 19:39:53 GMT</pubDate>
     </item>
@@ -41,16 +62,9 @@
       <pubDate>Wed, 14 Feb 2024 17:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>Mixtral 8x7B 上每秒 430 个令牌：@GroqInc 创下新的 LLM API 吞吐量记录</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqrxf9/430_tokenss_on_mixtral_8x7b_groqinc_sets_new_llm/</link>
-      <description><![CDATA[Groq 推出了新的 Mixtral 8x7B Instruct API，在其定制芯片上提供了创纪录的性能。定价极具竞争力，每 100 万代币 0.27 美元，是 Mixtral 8x7B 的最低价格之一。Artificial Analysis 已独立对这些结果进行基准测试，并将继续监控性能。请参阅下面我们网站的完整详细信息，包括吞吐量、延迟和定价，以及方差分析、随时间变化的性能以及与其他 API 提供商的比较： https://artificialanalysis.ai/models/mixtral-8x7b-instruct 带有关键图表的推文： https://twitter.com/ArtificialAnlys/status/1757812016671305817    由   提交 /u/speakerknock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqrxf9/430_tokenss_on_mixtral_8x7b_groqinc_sets_new_llm/</guid>
-      <pubDate>Wed, 14 Feb 2024 17:06:42 GMT</pubDate>
-    </item>
-    <item>
       <title>每日两分钟 AI 更新（日期：2024 年 2 月 14 日）：来自 NVIDIA、OpenAI、Cohere、Nous Research、Otter、ElevenLabs 等的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqp717/twominute_daily_ai_update_date_2142024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Nvidia 推出可在本地数据上训练的离线 AI 聊天机器人 - Nvidia 发布了“Chat with RTX”，这是一款可以通过训练来定制的 AI 聊天机器人您的私人本地数据。它可以离线工作，并经过优化，可以利用 PC 中的 Nvidia RTX 显卡来提高处理聊天查询的性能。 ChatGPT 现在可以记住对话 - OpenAI 正在发布ChatGPT 的记忆功能，使其能够记住之前对话的详细信息，以提供更有帮助和个性化的响应。用户可以控制记住的内容，并可以随时删除记忆。  Cohere 推出开源 101 种语言 AI ​​模型 - Cohere for AI 推出了 Aya，一种支持 101 种语言的全新开源大语言模型。在 3000 多人的全球合作和涵盖资源匮乏语言的数据集的支持下，Aya 正在通过处理英语培训内容之外的数据，让人工智能能够为被忽视的文化所用。 Nous Research 发布了 1M-具有先进可操纵性的 Entry 70B Llama-2 模型 - Nous Research 发布了迄今为止最大的模型 - Nous Hermes 2 Llama-2 70B - 经过超过 100 万个主要合成 GPT-4 生成数据的训练。该模型采用了与 OpenAI 兼容的更加结构化的 ChatML 提示格式，可实现高级多轮聊天对话。 Otter 推出可以跟上会议进度的 AI 会议伙伴 - Otter 为其人工智能聊天机器人引入了一项新功能，可以查询过去的记录、频道内团队对话和自动生成的概述。该人工智能套件旨在通过利用 Otter 完整会议数据简化用户的回忆和提高工作效率，超越并取代 Microsoft、Zoom 和 Google 等竞争对手的付费产品。  OpenAI CEO 预测更智能的多任务 GPT-5 - 在世界政府峰会上，OpenAI 首席执行官 Sam Altman 表示即将推出的 GPT-5 模型将更智能、更快，更加多式联运，并且由于其通用性而在所有方面都做得更好。有传言称 GPT-5 可能是一种名为“Gobi”的多模式人工智能。经过大规模数据集的训练后，预计将于 2024 年春季发布。 ElevenLabs 宣布将其语音到语音扩展为 29 种语言 - ElevenLabs 的语音到语音现已推出29 种语言，使其成为多语言的。该工具于 11 月推出，用户可以通过单独提示将自己的声音转变为另一个角色，并完全控制情绪、时间和表达方式。这次更新只是让它更具包容性！  Airbnb 计划打造“有史以来最具创新性的人工智能界面 - Airbnb 计划利用人工智能，包括最近收购的隐形初创公司 GamePlanner，将其界面发展为自适应“终极礼宾服务”。 Airbnb 高管认为，生成模型本身并未得到充分利用，因此希望专注于改进人工智能应用层，以提供更加个性化的跨类别服务。   每日每日对这些新闻和创新进行更详细的细分时事通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Nvidia 推出可在本地数据上训练的离线 AI 聊天机器人 - Nvidia 发布了“Chat with RTX”，这是一款可以通过训练来定制的 AI 聊天机器人您的私人本地数据。它可以离线工作，并经过优化，可以利用 PC 中的 Nvidia RTX 显卡来提高处理聊天查询的性能。 ChatGPT 现在可以记住对话 - OpenAI 正在发布ChatGPT 的记忆功能，使其能够记住之前对话的详细信息，以提供更有帮助和个性化的响应。用户可以控制记住的内容，并可以随时删除记忆。  Cohere 推出开源 101 种语言 AI ​​模型 - Cohere for AI 推出了 Aya，一种支持 101 种语言的全新开源大语言模型。在 3000 多人的全球合作和涵盖资源匮乏语言的数据集的支持下，Aya 正在通过处理英语培训内容之外的数据，让人工智能能够为被忽视的文化所用。 Nous Research 发布了 1M-具有先进可操纵性的 Entry 70B Llama-2 模型 - Nous Research 发布了迄今为止最大的模型 - Nous Hermes 2 Llama-2 70B - 经过超过 100 万个主要合成 GPT-4 生成数据的训练。该模型采用了与 OpenAI 兼容的更加结构化的 ChatML 提示格式，可实现高级多轮聊天对话。 Otter 推出可以跟上会议进度的 AI 会议伙伴 - Otter 为其人工智能聊天机器人引入了一项新功能，可以查询过去的记录、频道内团队对话和自动生成的概述。该人工智能套件旨在通过利用 Otter 完整会议数据简化用户的回忆和生产力，超越并取代 Microsoft、Zoom 和 Google 等竞争对手的付费产品。  OpenAI CEO 预测更智能的多任务 GPT-5 - 在世界政府峰会上，OpenAI 首席执行官 Sam Altman 表示即将推出的 GPT-5 模型将更智能、更快，更加多式联运，并且由于其通用性而在所有方面都做得更好。有传言称 GPT-5 可能是一种名为“Gobi”的多模式人工智能。经过大规模数据集的训练后，预计将于 2024 年春季发布。 ElevenLabs 宣布将其语音到语音扩展为 29 种语言 - ElevenLabs 的语音到语音现已推出29 种语言，使其成为多语言的。该工具于 11 月推出，可让用户将自己的声音转变为另一个角色，并通过单独提示来完全控制情绪、时间和表达方式。这次更新只是让它更具包容性！  Airbnb 计划打造“有史以来最具创新性的人工智能界面 - Airbnb 计划利用人工智能，包括最近收购的隐形初创公司 GamePlanner，将其界面发展为自适应“终极礼宾服务”。 Airbnb 高管认为，生成模型本身并未得到充分利用，因此希望专注于改进人工智能应用层，以提供更加个性化的跨类别服务。   每日每日对这些新闻和创新进行更详细的细分时事通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqp717/twominute_daily_ai_update_date_2142024_news_from/</guid>
       <pubDate>Wed, 14 Feb 2024 15:13:52 GMT</pubDate>
     </item>
@@ -60,13 +74,6 @@
       <description><![CDATA[[摘录] 基于与 Microsoft 的合作和信息共享，我们挫败了五个与国家有关的恶意行为者：其中两个是中国-被称为“木炭台风”和“鲑鱼台风”的附属威胁行为者；与伊朗有关联的威胁组织 Crimson Sandstorm；朝鲜演员 Emerald Sleet；还有俄罗斯演员森林暴雪。已识别的与这些参与者相关的 OpenAI 帐户已被终止。博客：https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors   由   提交 /u/ShamanGinseng   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqotr3/disrupting_malicious_uses_of_ai_by/</guid>
       <pubDate>Wed, 14 Feb 2024 14:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>多种数据产品、重复管理和治理的挑战</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqmmtz/challenges_of_multiple_data_products_duplication/</link>
-      <description><![CDATA[您将获得什么： - 数据治理的重要性 - 基于反馈的排名系统 - 数据产品版本控制 - 面向源的数据产品 (SoDP) 阅读全文：https://moderndata101.substack.com/p/managing-the-evolving-landscape-of-data-products    由   提交/u/growth_man  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqmmtz/challenges_of_multiple_data_products_duplication/</guid>
-      <pubDate>Wed, 14 Feb 2024 13:16:02 GMT</pubDate>
     </item>
     <item>
       <title>Apple 推出 MGIE，这是一种根据文本命令编辑照片的 AI 模型</title>
@@ -83,13 +90,6 @@
       <pubDate>Wed, 14 Feb 2024 05:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>在 Android 手机上运行的小型 1.1B(!) 模型上演示实时 RAG 系统。这表明，通过强大的 RAG 系统，即使是最小的模型也可以变得惊人的连贯。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqe7ej/demo_of_a_live_rag_system_on_a_tiny_11b_model/</link>
-      <description><![CDATA[来源：https://twitter.com/_layla_ai /status/1757619798106935391 型号是在 Samsung S23 Ultra 手机上本地运行的 TinyLlama 1.1B。当与 RAG（检索增强生成）系统结合使用时，对于如此小的模型来说，响应是惊人的一致。   由   提交 /u/Tasty-Lobster-8915   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqe7ej/demo_of_a_live_rag_system_on_a_tiny_11b_model/</guid>
-      <pubDate>Wed, 14 Feb 2024 04:25:51 GMT</pubDate>
-    </item>
-    <item>
       <title>我创建了一个其他人没有的人工智能功能！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/</link>
       <description><![CDATA[上周，我写了一篇关于新概念的技术文章：智能人工智能筛查仪。特点很简单。您无需使用 ChatGPT 解释 SQL 查询、整理 Excel 电子表格以及使用复杂的股票筛选器来寻找新的投资机会，而是使用一种更加自然、直观的方法：自然语言。 此筛选器不会不仅仅是寻找创下历史新高的股票（取笑你，罗宾汉）。通过结合大型语言模型、复杂的数据查询和基本股票数据，我创建了一个无缝管道，可以根据几乎任何基本指标搜索股票。这包括搜索 130 多个行业，包括医疗保健、生物技术、3D 打印和可再生能源。此外，用户还可以按市值、市盈率、收入、净利润、EBITDA、自由现金流等过滤搜索。该解决方案提供了一种直观的方法来寻找符合您投资标准的新奇股票。最好的部分是，几乎任何人都可以使用此功能。 这是金融领域的游戏规则改变者。在此之前，寻找新的投资机会非常困难，因为你在互联网上看到的一切都是有偏见的。大多数文章都是人们试图推销自己的股票，并有经济动机让他们的投资看起来很合理。 但是这个工具使金融研究变得客观。它很直观，不需要任何技术专业知识即可使用。它还完全免费尝试，因此您可以亲自了解它的效果。 想了解更多信息吗？ 阅读 NexusTrade 上的官方发布公告!   由   提交 /u/Starks-Technology   [链接] [评论]]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Tue, 13 Feb 2024 13:33:53 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
