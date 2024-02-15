@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 15 Feb 2024 00:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 03:14:15 GMT</lastBuildDate>
+    <item>
+      <title>经过 6 年的努力和数千名用户，我们将全面开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ar42tu/after_6_years_of_work_and_thousands_of_users_we/</link>
+      <description><![CDATA[大家好！ 经过 6 年的努力，我们决定将 UTMStack SIEM 和 XDR 完全开源开源软件许可证。是的，是真的；没有奇怪的公共条款或伪 OSS 许可证来限制服务提供商的使用。更重要的是：这不是一个上限或过时的版本，它与付费发行版完全相同。企业支持是唯一的区别，因此我们可以以某种方式谋生；） 这里有人有兴趣加入我们的社区吗？我们一直在寻找充满热情的个人为我们的项目做出贡献。无论您是开发人员、安全专家，还是只是热衷于网络安全，您的意见都是有价值的。 作为 Linux 基金会的活跃成员，我们努力为开源世界做出尽可能多的贡献。您可以在 linux.com  这是 GitHub 存储库：https://github.com/ utmstack/UTMStack 再见！ ​   由   提交/u/rickv92  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ar42tu/after_6_years_of_work_and_thousands_of_users_we/</guid>
+      <pubDate>Thu, 15 Feb 2024 01:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>任何人都有Shadow.inc 的替代品吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ar2h7m/anyone_have_an_alternative_for_shadeinc/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>开源项目的许可证问题，该项目是具有不同许可证的 2 个项目的衍生项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1aqv1ir/license_question_for_opensource_project_that_is_a/</link>
-      <description><![CDATA[我想在 GitHub 上开源我的一个项目，该项目是 GitHub 上托管的其他 2 个项目的分支/衍生项目。一种使用 BSD 3 条款许可证，另一种使用 Apache 2.0。我修改/扩展了他们的源代码，并在必要时添加了我自己的文件。现在，我很困惑如果我想许可我自己的项目该怎么办。我的问题是：  能否有一个“总体”框架？我自己的项目的许可证？据我了解，Apache 2.0 要求包含到许可证文件中，而 BSD 3 条款许可证禁止从源文件中删除原始版权声明。如果是这样的话，我的衍生项目如何拥有自己的单一许可证？也许，我应该提到，我不想将我的项目商业化，只是希望人们/叉子相信我的工作。最好是，如果可能有总体许可证，我不希望它是 Copyleft。 除了 Apache 2.0 许可证文件之外，我应该在我的 Github 项目中包含哪些文件？ 什么是在原始 Apache 2.0 和 BSD 3-clause 项目文件的修改后的源文件中包含我自己的作者/信用/版权的正确方法是什么？我的意思是我到底可以把自己的学分放在哪里？例如，BSD 项目使用以下块作为通知：  ​ ########### ###BSD######################## (c) 原作者姓名，Github 链接 ..... 3 个子句 .... ## ########################################  什么我的意思是我要把自己的学分放在这个块下吗？或者在原作者版权线之后的这个块内？ 提前感谢您的帮助！   由   提交 /u/TheDragonRebornEMA   [链接] [评论]]]></description>
+      <description><![CDATA[我想在 GitHub 上开源我的一个项目，该项目是 GitHub 上托管的其他 2 个项目的分支/衍生项目。一种使用 BSD 3 条款许可证，另一种使用 Apache 2.0。我修改/扩展了他们的源代码，并在必要时添加了我自己的文件。现在，我很困惑如果我想许可我自己的项目该怎么办。我的问题是：  能否有一个“总体”框架？我自己的项目的许可证？据我了解，Apache 2.0 要求包含到许可证文件中，而 BSD 3 条款许可证禁止从源文件中删除原始版权声明。如果是这样的话，我的衍生项目如何拥有自己的单一许可证？也许，我应该提到，我不想将我的项目商业化，只是希望人们/叉子相信我的工作。最好是，如果可能有一个总体许可证，我不希望它是 Copyleft。 除了 Apache 2.0 许可证文件之外，我应该在我的 Github 项目中包含哪些文件？ 什么是在原始 Apache 2.0 和 BSD 3-clause 项目文件的修改后的源文件中包含我自己的作者/信用/版权的正确方法是什么？我的意思是我到底可以把自己的学分放在哪里？例如，BSD 项目使用以下块作为通知：  ​ ########### ###BSD######################## (c) 原作者姓名，Github 链接 ..... 3 个子句 .... ## ########################################  什么我的意思是我要把自己的学分放在这个块下吗？或者在原作者版权线之后的这个块内？ 提前感谢您的帮助！   由   提交 /u/TheDragonRebornEMA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aqv1ir/license_question_for_opensource_project_that_is_a/</guid>
       <pubDate>Wed, 14 Feb 2024 19:11:01 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>您喜欢哪种开源许可证，不喜欢哪种？</title>
       <link>https://www.reddit.com/r/opensource/comments/1aqsev2/which_opensource_license_do_you_like_and_which_do/</link>
-      <description><![CDATA[对于我的项目，我总是使用 M.I.T.模块和 G.P.L. 许可证其他软件的版本 2。我知道它们是非常不同的许可证，但我一直在想我是否应该开始研究 Apache 2（B.S.D.）。许可证或 G.P.L.版本 3。我很好奇严肃的开源贡献者对这些许可证的看法。   由   提交 /u/Lekritz   [链接] [评论]]]></description>
+      <description><![CDATA[对于我的项目，我总是使用 M.I.T.模块和 G.P.L. 许可证其他软件的版本 2。我知道它们是非常不同的许可证，但我一直在想我是否应该开始研究 Apache 2（B.S.D.）。许可证或 G.P.L.版本 3。我很好奇认真的开源贡献者对这些许可证的看法。   由   提交 /u/Lekritz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aqsev2/which_opensource_license_do_you_like_and_which_do/</guid>
       <pubDate>Wed, 14 Feb 2024 17:26:21 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 14 Feb 2024 04:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>新的完整开源人工智能应用程序堆栈</title>
+      <title>开源的全新完整人工智能应用程序堆栈</title>
       <link>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/smw355  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</guid>
       <pubDate>Tue, 13 Feb 2024 21:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>envio - 用于管理环境变量的现代且安全的 CLI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aq1w7y/envio_a_modern_and_secure_cli_tool_for_managing/</link>
-      <description><![CDATA[       由   提交/u/Ok_Acanthoperygii40   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aq1w7y/envio_a_modern_and_secure_cli_tool_for_managing/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:18:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
