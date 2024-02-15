@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 15 Feb 2024 03:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 06:16:13 GMT</lastBuildDate>
+    <item>
+      <title>自动 Git 提交（AI 根据差异写入消息）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ar6ejl/automatic_git_commits_ai_writes_the_messages/</link>
+      <description><![CDATA[https://github.com/e-p-armstrong /autocommit 演示：https://www.youtube.com/watch?v =yZWEADQZeKM 我在解决 Git 问题时的快速尝试是，经常提交最适合节省工作并能够在必要时恢复，但它会让你脱离区域，并且是一个脑力劳动——尤其是当你想避免你的提交历史被垃圾弄乱时。无限提交循环与人工智能驱动的提交名称写入相结合似乎可以解决这个问题。它可以使用本地模型（演示视频正在使用 Oobabooga 运行）。 告诉我你的想法！   由   提交 /u/Heralax_Tekran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ar6ejl/automatic_git_commits_ai_writes_the_messages/</guid>
+      <pubDate>Thu, 15 Feb 2024 03:47:16 GMT</pubDate>
+    </item>
     <item>
       <title>经过 6 年的努力和数千名用户，我们将全面开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1ar42tu/after_6_years_of_work_and_thousands_of_users_we/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[令人兴奋的消息！经过六个月的努力，我很高兴地宣布我的无头表单生成器 Formex v0.1.0 发布。该工具专为 SaaS 公司设计，现已开源且完全免费。查看下面的 GitHub 链接即可开始使用！ GitHub 链接：https://github.com/OysterD3/formex  Stackblitz：https://stackblitz.com/edit/formex-react-mui 欢迎批评🤭 我为什么制作 Formex？ 我曾与一些需要表单构建器的 SaaS 公司合作过。完全可定制。他们愿意花钱购买现有的解决方案。但我找不到一个。其中大多数要么无法自定义 UI，要么必须在其平台上创建表单。   由   提交 /u/OysterD3   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aqdwli/formex_a_headless_form_builder/</guid>
       <pubDate>Wed, 14 Feb 2024 04:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源的全新完整人工智能应用程序堆栈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/smw355  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aq5c66/new_full_ai_app_stack_in_open_source/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:38:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 15 Feb 2024 03:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 06:14:18 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​14/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar8jvv/oneminute_daily_ai_news_2142024/</link>
+      <description><![CDATA[ Nvidia  Chat with RTX 是一款很有前景的 AI 聊天机器人，可在您的 PC 上本地运行。[1] Sam Altman 寻求 7 万亿美元来增强芯片生产。[2]  宾夕法尼亚大学宣布了其第一个人工智能 (AI) 工程理学学士学位。[3] 诺基亚 为产业工人介绍人工智能驱动的产品。[4]  来源包括：https://bushaicave.com/2024/02/14/2-14-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar8jvv/oneminute_daily_ai_news_2142024/</guid>
+      <pubDate>Thu, 15 Feb 2024 05:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>app.voicemy.ai 不再让您免费训练 RVC AI 语音模型。是否有任何其他类似于该网站的简单替代方案，允许您将它们下载为 .pth 和 .index 文件？请帮忙。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar8dlp/appvoicemyai_no_longer_lets_you_train_rvc_ai/</link>
+      <description><![CDATA[我怀疑在这种情况下是否有人会帮助我，但我认为值得询问而不是根本不采取任何行动...... 而且这并不是因为我不想付钱，而是因为我没有钱支付。    由   提交/u/sacboy326  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar8dlp/appvoicemyai_no_longer_lets_you_train_rvc_ai/</guid>
+      <pubDate>Thu, 15 Feb 2024 05:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过 EKS 在 AWS 中使用 vLLM 实施 LLM AI 聊天机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar7gnu/how_to_implement_llm_ai_chatbot_using_vllm_in_aws/</link>
+      <description><![CDATA[大家好， 我需要一些帮助，想知道是否有人可以为我实施 Mixtral 提供一些步骤或指南-8x7B-Instruct-v0.1 模型（我的 AI 聊天机器人的 LLM）使用名为 vLLM 的 GPU 优化库（https://github .com/vllm-project/vllm）在 AWS 中使用 EKS（弹性 Kubernetes 服务）。 这很紧急。真的非常感谢任何帮助。非常感谢！   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/ArtificialInteligence/comments/1ar7gnu/how_to_implement_llm_ai_chatbot_using_vllm_in_aws/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar7gnu/how_to_implement_llm_ai_chatbot_using_vllm_in_aws/</guid>
+      <pubDate>Thu, 15 Feb 2024 04:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI字幕外国电影</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar6ydd/ai_subtitles_foreign_films/</link>
+      <description><![CDATA[多年来我获得了一些没有英文字幕的外国电影。我想知道是否有一个人工智能 AI 模型可以收听外语音频并生成字幕，也许我可以将其转换成可以与 VLC 一起使用的格式，甚至嵌入它。我希望获得免费服务，甚至是我可以在本地运行的服务，以节省某种成本   由   提交 /u/Relative_Move   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar6ydd/ai_subtitles_foreign_films/</guid>
+      <pubDate>Thu, 15 Feb 2024 04:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>simulink 中的 AI 控制器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar5t5c/ai_controller_in_simulink/</link>
+      <description><![CDATA[我想用人工神经网络替换我的 PID 控制器以减少超调。我不知道应该使用哪种类型的神经网络架构师，尝试了一个合适的模型，但它仅适用于特定值。任何人都可以帮忙吗？谢谢。   由   提交 /u/ThoughtSea8051   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar5t5c/ai_controller_in_simulink/</guid>
+      <pubDate>Thu, 15 Feb 2024 03:14:44 GMT</pubDate>
+    </item>
     <item>
       <title>AI语音训练</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3pkq/ai_voice_training/</link>
       <description><![CDATA[我有一盘采访一位已故亲戚的盒式磁带。我知道如何将其转换为 MP3，但我想知道人工智能程序是否可以仅挑选他们的声音并对其进行训练？  &amp;# 32；由   提交/u/Septemberry_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3pkq/ai_voice_training/</guid>
       <pubDate>Thu, 15 Feb 2024 01:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一个证书计划来了解如何使用人工智能进行营销和内容创建。有什么建议么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3o1v/looking_for_a_certificate_program_to_learn_about/</link>
-      <description><![CDATA[我想在数字营销领域进一步发展我的职业生涯，并希望学习如何使用人工智能程序来创建内容，尤其是视频。    由   提交 /u/Fonda_PeterFonda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar3o1v/looking_for_a_certificate_program_to_learn_about/</guid>
-      <pubDate>Thu, 15 Feb 2024 01:24:53 GMT</pubDate>
     </item>
     <item>
       <title>关于人工智能和音乐的问题</title>
@@ -32,13 +60,6 @@
       <description><![CDATA[现实的未来图书链接&lt; /p&gt;   由   提交/u/A_Naik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ar196o/the_future_of_reality_aaron_naik/</guid>
       <pubDate>Wed, 14 Feb 2024 23:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTX 4060 ti 8GB 能做什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqy1pf/what_can_i_do_with_a_rtx_4060_ti_8gb/</link>
-      <description><![CDATA[嘿伙计们，我是人工智能的真正初学者，但最近购买了 RTX 4060 ti 搭配 ryzen 7 5700x 和 32gb。我想用 AI 来探索一些东西，如果有人能帮助解决我的问题，我将不胜感激。 我可以将 VRAM 与 RAM 配对来运行更复杂的 AI 吗？ LM studio是一种很好的开始方式还是存在更好的方式在本地运行LLM？ 我想在AI的帮助下写一些故事，你会推荐哪一个？   由   提交 /u/Old_Emphasis7922   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqy1pf/what_can_i_do_with_a_rtx_4060_ti_8gb/</guid>
-      <pubDate>Wed, 14 Feb 2024 21:16:41 GMT</pubDate>
     </item>
     <item>
       <title>我在哪里可以便宜地获得微积分大学学分？</title>
@@ -62,13 +83,6 @@
       <pubDate>Wed, 14 Feb 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>每日两分钟 AI 更新（日期：2024 年 2 月 14 日）：来自 NVIDIA、OpenAI、Cohere、Nous Research、Otter、ElevenLabs 等的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqp717/twominute_daily_ai_update_date_2142024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Nvidia 推出可在本地数据上训练的离线 AI 聊天机器人 - Nvidia 发布了“Chat with RTX”，这是一款可以通过训练来定制的 AI 聊天机器人您的私人本地数据。它可以离线工作，并经过优化，可以利用 PC 中的 Nvidia RTX 显卡来提高处理聊天查询的性能。 ChatGPT 现在可以记住对话 - OpenAI 正在发布ChatGPT 的记忆功能，使其能够记住之前对话的详细信息，以提供更有帮助和个性化的响应。用户可以控制记住的内容，并可以随时删除记忆。  Cohere 推出开源 101 种语言 AI ​​模型 - Cohere for AI 推出了 Aya，一种支持 101 种语言的全新开源大语言模型。在 3000 多人的全球合作和涵盖资源匮乏语言的数据集的支持下，Aya 正在通过处理英语培训内容之外的数据，让人工智能能够为被忽视的文化所用。 Nous Research 发布了 1M-具有先进可操纵性的 Entry 70B Llama-2 模型 - Nous Research 发布了迄今为止最大的模型 - Nous Hermes 2 Llama-2 70B - 经过超过 100 万个主要合成 GPT-4 生成数据的训练。该模型采用了与 OpenAI 兼容的更加结构化的 ChatML 提示格式，可实现高级多轮聊天对话。 Otter 推出可以跟上会议进度的 AI 会议伙伴 - Otter 为其人工智能聊天机器人引入了一项新功能，可以查询过去的记录、频道内团队对话和自动生成的概述。该人工智能套件旨在通过利用 Otter 完整会议数据简化用户的回忆和提高工作效率，超越并取代 Microsoft、Zoom 和 Google 等竞争对手的付费产品。  OpenAI CEO 预测更智能的多任务 GPT-5 - 在世界政府峰会上，OpenAI 首席执行官 Sam Altman 表示即将推出的 GPT-5 模型将更智能、更快，更加多式联运，并且由于其通用性而在所有方面都做得更好。有传言称 GPT-5 可能是一种名为“Gobi”的多模式人工智能。经过大规模数据集的训练后，预计将于 2024 年春季发布。 ElevenLabs 宣布将其语音到语音扩展为 29 种语言 - ElevenLabs 的语音到语音现已推出29 种语言，使其成为多语言的。该工具于 11 月推出，用户可以通过单独提示将自己的声音转变为另一个角色，并完全控制情绪、时间和表达方式。这次更新只是让它更具包容性！  Airbnb 计划打造“有史以来最具创新性的人工智能界面 - Airbnb 计划利用人工智能，包括最近收购的隐形初创公司 GamePlanner，将其界面发展为自适应“终极礼宾服务”。 Airbnb 高管认为，生成模型本身并未得到充分利用，因此希望专注于改进人工智能应用层，以提供更加个性化的跨类别服务。   每日每日对这些新闻和创新进行更详细的细分时事通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqp717/twominute_daily_ai_update_date_2142024_news_from/</guid>
-      <pubDate>Wed, 14 Feb 2024 15:13:52 GMT</pubDate>
-    </item>
-    <item>
       <title>阻止国家相关威胁行为者对人工智能的恶意使用</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqotr3/disrupting_malicious_uses_of_ai_by/</link>
       <description><![CDATA[[摘录] 基于与 Microsoft 的合作和信息共享，我们挫败了五个与国家有关的恶意行为者：其中两个是中国-被称为“木炭台风”和“鲑鱼台风”的附属威胁行为者；与伊朗有关联的威胁组织 Crimson Sandstorm；朝鲜演员 Emerald Sleet；还有俄罗斯演员森林暴雪。已识别的与这些参与者相关的 OpenAI 帐户已被终止。博客：https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors   由   提交 /u/ShamanGinseng   [链接] [评论]]]></description>
@@ -81,20 +95,6 @@
       <description><![CDATA[苹果公司的图像编辑人工智能模型 MGIE（MLLM-Guided Image Editing 的缩写）正在引起轰动。虽然该模型仍处于早期开发阶段，但它让我们可以一睹直观照片编辑的未来。 阅读全文：https://www.ibtimes.co.uk/apple-unveils-mgie-ai-model-that -edits-photos-based-your-text-commands-1723413   由   提交 /u/vinaylovestotravel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqhvm2/apple_unveils_mgie_an_ai_model_that_edits_photos/</guid>
       <pubDate>Wed, 14 Feb 2024 08:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>WGS 的 Sam Altman 在 GPT-5 上表示：“真正重要的是：它会变得更加智能。”圣杯。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aqfhs6/sam_altman_at_wgs_on_gpt5_the_thing_that_will/</link>
-      <description><![CDATA[我们正在从记忆转向理性。逻辑和推理是人类和人工智能的基础。这是关于弄清楚事情的。我们的人工智能工程师和企业家终于明白了！更强的逻辑和推理算法将轻松为我们解决对齐和幻觉。但这只是开始。 逻辑和推理告诉我们，人类首先看重三件事：幸福、健康和善良。这就是我们生活的意义所在。这是我们最希望我们所爱和关心的人得到的。 所以，是的，ais 将在未来几年内在科学和医学领域取得惊人的发现，因为它们具有更强大的逻辑和推理算法。更聪明的人工智能拥有更强大的逻辑和推理算法，将使我们人类更加高效，在未来六年内创造数万亿美元的新财富。我们将消除贫困，结束工厂化农业，停止每年因所有其他原因而死亡的人数，并扭转气候变化。 但我们最大的成就是，我们可以在几年内做到这一点而不是几十年后，就是让地球上的每个人都更快乐、更健康，成为一个更好的人。超逻辑人工智能将教会我们如何进化成为本质上新的人类物种。它将开发出安全的药物，让我们更快乐、更友善。它将创造出不仅可以治愈而且可以预防癌症等疾病的药物。它将使我们所有人活得更长久、更健康。 ais将为地球上的每个人创造一个天堂。所有这一切的发生不会超过 10 年。 它可能不会让我们变得更加聪明，只是因为它可能没有必要。它将为我们进行所有最深刻的思考，让我们以前所未有的方式享受生活。我们人类生来就追求快乐，避免痛苦。最根本的是，这就是我们。我们就快到了。 https://www.youtube.com/live/RikVztHFUQ8 ?si=GwKFWipXfTytrhD4   由   提交/u/Georgeo57  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aqfhs6/sam_altman_at_wgs_on_gpt5_the_thing_that_will/</guid>
-      <pubDate>Wed, 14 Feb 2024 05:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个其他人没有的人工智能功能！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/</link>
-      <description><![CDATA[上周，我写了一篇关于新概念的技术文章：智能人工智能筛查仪。特点很简单。您无需使用 ChatGPT 解释 SQL 查询、整理 Excel 电子表格以及使用复杂的股票筛选器来寻找新的投资机会，而是使用一种更加自然、直观的方法：自然语言。 此筛选器不会不仅仅是寻找创下历史新高的股票（取笑你，罗宾汉）。通过结合大型语言模型、复杂的数据查询和基本股票数据，我创建了一个无缝管道，可以根据几乎任何基本指标搜索股票。这包括搜索 130 多个行业，包括医疗保健、生物技术、3D 打印和可再生能源。此外，用户还可以按市值、市盈率、收入、净利润、EBITDA、自由现金流等过滤搜索。该解决方案提供了一种直观的方法来寻找符合您投资标准的新奇股票。最好的部分是，几乎任何人都可以使用此功能。 这是金融领域的游戏规则改变者。在此之前，寻找新的投资机会非常困难，因为你在互联网上看到的一切都是有偏见的。大多数文章都是人们试图推销自己的股票，并有经济动机让他们的投资看起来很合理。 但是这个工具使金融研究变得客观。它很直观，不需要任何技术专业知识即可使用。它还完全免费尝试，因此您可以亲自了解它的效果。 想了解更多信息吗？ 阅读 NexusTrade 上的官方发布公告!   由   提交 /u/Starks-Technology   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aptkqt/i_created_an_ai_feature_that_nobody_else_has/</guid>
-      <pubDate>Tue, 13 Feb 2024 13:33:53 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
