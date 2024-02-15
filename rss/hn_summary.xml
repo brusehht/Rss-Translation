@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 15 Feb 2024 03:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 08:12:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网页内容讨论了语言设计中执行的重要性，并强调了 [...]</title>
-      <link>https://t.me/hn_summary/74291</link>
-      <description><![CDATA[灰胡子之墓：语言设计失落的宝藏（2019）
-网络内容讨论了语言设计中执行的重要性，并强调了可能影响编程语言成功的被遗忘的实现细节。作者列出了几个他们不想谈论的主题，例如内存安全和强静态类型系统，而是专注于新语言的执行。他们还将某些语言中频繁发生的重大更改与 C 和 Ada 等语言的稳定性进行了比较。作者强调需要有一个由独立标准机构管理的正式规范，以防止供应商锁定并鼓励多种实现。他们还讨论了稳定性对于吸引有经验的程序员和排除“傻瓜”的重要性。 （根据故事文本的 29% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74291</guid>
-      <pubDate>Thu, 15 Feb 2024 03:07:51 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了曾经以其喧嚣文化而闻名的千禧一代如何[...]</title>
+      <link>https://t.me/hn_summary/74315</link>
+      <description><![CDATA[千禧一代正在从忙碌的文化工作者转变为疲惫不堪的中层管理人员
+这篇文章讨论了曾经以忙碌文化和野心而闻名的千禧一代现在如何过渡到中层管理职位，并在工作中经历倦怠和不满。作者强调，千禧一代是对工作最不满意的一代，尽管人们认为他们很成功并且经济稳定。文章还提到，千禧一代在职场中面临权力和资源匮乏等挑战，夹在老一辈的期望和年轻员工的愿望之间。然而，作者认为，随着千禧一代的晋升，这种不满可能会导致劳动力的创新和积极变化。]]></description>
+      <guid>https://t.me/hn_summary/74315</guid>
+      <pubDate>Thu, 15 Feb 2024 08:12:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cathie Wood 可能损失了 $14B。</title>
-      <link>https://t.me/hn_summary/74290</link>
-      <description><![CDATA[Cathie Wood 可能损失了 14B 美元。但她很有趣
-ARK Investment Management 创始人兼首席执行官 Cathie Wood 最近面临约 140 亿美元的巨额亏损。然而，尽管遭遇了这次挫折，伍德仍然是投资界的一个有趣的人物。她以其大胆和非传统的投资策略而闻名，赢得了一批忠实的支持者，他们钦佩她独特的方法。伍德对颠覆​​性技术的关注以及她尽早发现有前途公司的能力使她成为该行业的杰出人物。虽然她最近的损失引起了一些人的关注，但她的往绩和创新思维仍然使她成为一个引人注目的人物。]]></description>
-      <guid>https://t.me/hn_summary/74290</guid>
-      <pubDate>Thu, 15 Feb 2024 02:56:43 GMT</pubDate>
+      <title>[媒体] 这篇博文讨论了 20 世纪 70 年代英特尔 8271 软盘 co 的逆向工程 [...]</title>
+      <link>https://t.me/hn_summary/74314</link>
+      <description><![CDATA[对被遗忘的 1970 年代英特尔双核野兽进行逆向工程：8271，一个新的ISA
+该博客文章讨论了 20 世纪 70 年代 Intel 8271 软盘控制器 (FDC) 芯片的逆向工程。该芯片当时并不出名，主要用于商用计算机和存储解决方案，但也用于 BBC Micro 计算机。在触发了损坏软盘的测试模式后，作者对这款芯片产生了兴趣。一个虚拟团队聚集在一起研究该芯片，成员们贡献了他们在芯片开盖、提取 ROM 位和拆卸 ROM 方面的技能。这篇文章强调了该芯片与当时其他 CPU 相比的复杂性和尺寸。该团队还发现了该芯片的架构细节和指令集架构 (ISA)。 （根据故事文本的 27% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74314</guid>
+      <pubDate>Thu, 15 Feb 2024 08:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了美国商业房地产市场的延迟洗牌，原因是[...]</title>
-      <link>https://t.me/hn_summary/74289</link>
-      <description><![CDATA[办公楼价值暴跌的残酷现实就在这里&lt; br/&gt;
-本文讨论了由于房地产价值的不确定性而导致的美国商业房地产市场的延迟洗牌。 Covid-19 大流行扰乱了全球房地产的使用，导致贷方犹豫是否对因高利率和房产贬值而苦苦挣扎的借款人采取行动。结果，交易陷入停滞，因为卖家拒绝以低价出售他们的建筑物，让他们维持着一切都没有改变的假象。文章强调了写字楼价值暴跌的残酷现实，以及市场参与者不愿承认和解决这一问题的现实。]]></description>
-      <guid>https://t.me/hn_summary/74289</guid>
-      <pubDate>Thu, 15 Feb 2024 02:55:39 GMT</pubDate>
+      <title>网络内容讨论了苹果公司可能在 20 天内破解欧盟所有网络应用程序的计划。</title>
+      <link>https://t.me/hn_summary/74313</link>
+      <description><![CDATA[Apple 计划在 20 天内破解欧盟的所有 Web 应用&lt; /a&gt;
+网络内容讨论了苹果公司可能在 20 天内破解欧盟所有网络应用程序的计划。它强调了苹果公司历史上认为网络应用程序对应用程序商店收入模式及其对 iOS 和 WebKit 浏览器引擎的控制构成威胁的观点。内容还提到了监管机构对苹果对网络应用程序功能的控制以及浏览器之间竞争的必要性提出的担忧。它还进一步讨论了 iOS 17.4 Beta 1 中最近将网络应用程序降级为快捷方式的变化以及苹果对此事的沉默。内容表明苹果的行为是反竞争的，并呼吁苹果允许第三方浏览器在提供网络应用功能方面进行竞争。]]></description>
+      <guid>https://t.me/hn_summary/74313</guid>
+      <pubDate>Thu, 15 Feb 2024 08:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家在南达科他州布莱克山地下深处发现了细菌[...]</title>
-      <link>https://t.me/hn_summary/74288</link>
-      <description><![CDATA[在地球下 1,250 米处发现的细菌可以将二氧化碳转化为方解石
-科学家在南达科他州布莱克山地下深处发现了细菌，它们能够将二氧化碳 (CO2) 转化为一种称为方解石的固体矿物。这些微生物有可能被用来捕获枯竭的化石燃料储备中的温室气体。研究人员发现了三种有希望的候选细菌，其中包括一种位于地下 1,250 米的芽孢杆菌。这些细菌在实验室实验中经受了极端的压力、温度和酸度，并能够在 10 天内利用二氧化碳产生方解石晶体。如果加以利用，这些细菌可以被注入地下空隙，永久封存二氧化碳并防止其进入大气。这项研究可能是解决气候危机的一个有价值的工具，但它不应取代减少化石燃料消耗的迫切需要。]]></description>
-      <guid>https://t.me/hn_summary/74288</guid>
-      <pubDate>Thu, 15 Feb 2024 02:51:34 GMT</pubDate>
+      <title>[媒体]这篇文章的作者正在回应科学传播者 Sabine Hossen 的视频 [...]</title>
+      <link>https://t.me/hn_summary/74312</link>
+      <description><![CDATA[Sabine Hossenfelder、暗物质、FCC、弦理论等
+这篇文章的作者是在回应科学传播者萨宾·霍森菲尔德 (Sabine Hossenfelder) 的一段视频，她在视频中批评欧洲核子研究中心的误导性陈述。作者不同意 Hossenfelder 的说法，即未来圆形对撞机 (FCC) 的目的是找出暗物质是什么，并指出这并不是 FCC 推销活动中提到的首要任务。作者还反驳了霍森菲尔德对粒子物理学家希望为基础研究提供资金的批评，指出这就是物理学的运作方式，实验常常会带来意想不到的发现。作者认为霍森菲尔德的论点抹黑了基础研究并阻碍了人们对物理学的追求。]]></description>
+      <guid>https://t.me/hn_summary/74312</guid>
+      <pubDate>Thu, 15 Feb 2024 07:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>作者是一名软件技术顾问，揭示了这个行业的一个秘密：当公司喜 [...]</title>
-      <link>https://t.me/hn_summary/74287</link>
-      <description><![CDATA[你所遇到的实际上是人的问题
-作者是一名软件技术顾问，他揭示了一个行业秘密：当公司聘请顾问解决技术问题时，问题往往是人的问题，而不是技术问题。作者建议，如果顾问怀疑这一点，他们应该安排与团队中最高级的工程师会面，询问他们组织出了什么问题。然后，顾问可以向执行领导层提供这些信息，这通常被视为有价值的战略见解。作者强调了倾听员工意见并做出有意义的改变来解决他们的担忧的重要性，因为这可以提高士气并激发尊重。]]></description>
-      <guid>https://t.me/hn_summary/74287</guid>
-      <pubDate>Thu, 15 Feb 2024 02:50:30 GMT</pubDate>
+      <title>[媒体]Zerodha 是一个金融平台，在生成和通过电子邮件发送 D [...]</title>
+      <link>https://t.me/hn_summary/74311</link>
+      <description><![CDATA[25 分钟内生成 150 万个 PDF
+Zerodha 是一个金融平台，在生成数字签名的 PDF 报告并将其通过电子邮件发送给用户方面一直面临着挑战。该过程大约需要 8 个小时才能完成，并且随着工作量的增加，效率变得越来越低。为了解决这个问题，Zerodha 重新设计了其架构，并使用原始 EC2 实例进行计算和 S3 进行存储构建了一个水平可扩展的系统。他们还使用名为 Tasqueue 的轻量级、可插入式 Go 消息传递和作业管理库实现了链式作业工作流程。此外，Zerodha 从使用 Puppeteer 生成 PDF 改为使用 LaTeX 和后来的 Typst（一种现代排版系统），以更快、更高效地生成 PDF。该公司还开发了一个小型 HTTP 包装器，用于使用 OpenPDF 库对 PDF 进行数字签名。总体而言，这些变化使 Zerodha 能够在大约 25 分钟内处理、生成、数字签名并通过电子邮件发送超过 150 万份 PDF 合同票据，从而显着提高了效率并降低了成本。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74311</guid>
+      <pubDate>Thu, 15 Feb 2024 07:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本已跌至世界第四大经济体，仅次于美国，[...]</title>
-      <link>https://t.me/hn_summary/74286</link>
-      <description><![CDATA[日本跃居第四大经济体，仅次于美国、中国和现在是德国
-根据政府数据，日本已跌至世界第四大经济体，仅次于美国、中国，现在是德国。分析人士将这种下降归因于日本人口减少以及竞争力和生产力下降。日本此前曾是第二大经济体，直到2010年中国经济出现增长。国际货币基金组织曾预测日本将跌至第四位。比较是基于名义GDP，没有考虑不同国情。日本去年的名义GDP为4.2万亿美元，而德国为4.4万亿美元。日本经济疲软可能会导致该国在全球的影响力下降。]]></description>
-      <guid>https://t.me/hn_summary/74286</guid>
-      <pubDate>Thu, 15 Feb 2024 02:49:26 GMT</pubDate>
+      <title>[媒体]本文探讨了爱尔兰数据中心繁荣的隐性成本。</title>
+      <link>https://t.me/hn_summary/74310</link>
+      <description><![CDATA[权力攫取：爱尔兰数据中心繁荣的隐性成本 
+本文探讨了爱尔兰数据中心繁荣的隐性成本。数据中心已成为爱尔兰的常见景观，尤其是在都柏林郊区。这些建筑物内装有存储数 TB 数据的网络服务器，并且消耗大量电力。事实上，爱尔兰的数据中心使用了该国高达 18% 的计量电力，相当于每个城市家庭的能源消耗总和。爱尔兰较低的企业税率推动了数据中心的增长，这吸引了科技公司在该国设立欧洲总部。然而，数据中心数量的增加引发了人们对其对爱尔兰能源消耗的影响以及轮流停电的可能性的担忧。此外，文章还强调了社会和国家记忆的脆弱性，将爱尔兰内战期间公共记录办公室的烧毁与数据中心的主导地位导致的历史记录潜在丢失进行了类比。 （根据故事文本的 61% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74310</guid>
+      <pubDate>Thu, 15 Feb 2024 07:29:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]每个人都需要一名编辑。</title>
-      <link>https://t.me/hn_summary/74285</link>
-      <description><![CDATA[每个人都需要一个编辑器。 Lyft 经历了惨痛的教训
-Lyft 最近在其收益报告中的一个拼写错误导致其股价短暂飙升后认识到了拥有一名编辑的重要性。该报告错误地指出，该公司预计毛利率将扩大500个基点，导致股价上涨60%。然而，Lyft 的首席财务官在与分析师的电话会议上很快纠正了这个错误。虽然拼写错误很常见并且通常无害，但也有一些小错误会造成重大财务后果的情况。例如，花旗银行意外地将 9 亿美元而不是几百万美元转移给一组贷方，导致多年的诉讼。尽管存在错误，Lyft 的股价在调整后反弹，该公司公布了强劲的盈利和积极的前景。]]></description>
-      <guid>https://t.me/hn_summary/74285</guid>
-      <pubDate>Thu, 15 Feb 2024 02:48:22 GMT</pubDate>
+      <title>在此网络内容中，作者介绍了他们为 [...] 开发 MIPS 模拟器的新项目。</title>
+      <link>https://t.me/hn_summary/74309</link>
+      <description><![CDATA[WoWMIPS – 适用于 Windows 的 MIPS 模拟器，第 1 部分：简介
+在此 Web 内容中，作者介绍了他们为 Windows 开发 MIPS 模拟器的新项目。他们之前开发了一个 Win16 模拟器，允许旧版 Windows 3.1 时代的二进制文件在现代系统上运行。作者解释了他们在 Win16 项目中面临的挑战，例如翻译 API 调用和处理 16 位分段内存模型。他们还提到Win16模拟器只能运行简单的游戏。 
+
+现在，作者计划开发一个适用于 Windows 的 MIPS 仿真器，专门设计用于在 MIPS R4000 CPU 上运行。他们提到模拟器将被编写为 32 位可执行文件，他们的目标是模拟足够的核心功能来运行内置的 Windows 游戏和实用程序。作者承认他们之前缺乏 MIPS 和 RISC 架构的经验，但决心在大约一周内完成该项目。即将发布的系列文章将记录构建模拟器的过程。]]></description>
+      <guid>https://t.me/hn_summary/74309</guid>
+      <pubDate>Thu, 15 Feb 2024 07:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cosmos 是一个用 C# 和 X# 编写的开源工具包，用于构建 GUI 和命令行 [...]</title>
-      <link>https://t.me/hn_summary/74284</link>
-      <description><![CDATA[Cosmos：用于构建操作系统的 C# 工具包
-Cosmos 是一个用 C# 和 X# 编写的开源工具包，用于构建基于 GUI 和命令行的操作系统。它提供了一个抽象层，并向开发人员隐藏了硬件的内部工作原理。 Cosmos 包含一个名为 IL2CPU 的提前编译器，用于将通用中间语言 (CIL) 翻译为本机指令。它可以将用户编写的程序和库编译成可在各种平台上运行的可启动本机可执行文件。 Cosmos 支持 Visual Studio 集成，用于编码、编译、调试和运行操作系统。它还支持虚拟化和 PXE 启动，以便更轻松地开发和测试。该工具包主要用于.NET，并不意味着成为一个完整的操作系统。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74284</guid>
-      <pubDate>Thu, 15 Feb 2024 02:36:44 GMT</pubDate>
+      <title>[媒体]Glowdust 是一种新型数据库管理系统，旨在模糊 [...]</title>
+      <link>https://t.me/hn_summary/74308</link>
+      <description><![CDATA[Glowdust 是一种新型数据库管理系统&lt; br /&gt;
+Glowdust 是一种新型数据库管理系统，旨在模糊算法和数据之间的界限。它旨在减轻构建和部署应用程序的负担，并旨在成为探索数据库系统新想法的平台。 Glowdust 由三层组成：语言前端、字节码虚拟机和 I/O 层。它目前正在大力开发中，尚未完全发挥作用。 Glowdust 适合需要简单方法来存储和检索数据的个人程序员或小型团队。它是用 Rust 编写的，开源的，并在 GPLv3 下获得许可。 （根据故事文本的 38% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74308</guid>
+      <pubDate>Thu, 15 Feb 2024 06:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]诺贝尔奖获得者格雷格·塞门扎因数据问题撤回了他的第10篇论文[...]</title>
-      <link>https://t.me/hn_summary/74283</link>
-      <description><![CDATA[诺贝尔奖得主格雷格·塞门扎第十次撤稿
-由于数据和图像问题，诺贝尔奖获得者格雷格·塞门扎撤回了他的第十篇论文。塞门扎是约翰霍普金斯大学细胞工程研究所的教授，因其在细胞如何感知和适应氧气供应方面的研究而获得 2019 年诺贝尔生理学或医学奖。此次撤回是在 Semenza 的出版物在 PubPeer 上被标记为重复或操纵图像后发生的。去年，塞门扎和他的合著者撤回了《美国国家科学院院刊》上的四篇论文，以及《Oncogene》和《生物化学杂志》上的论文。今天，Semenza 的另一篇文章被分子癌症研究中心撤回。]]></description>
-      <guid>https://t.me/hn_summary/74283</guid>
-      <pubDate>Thu, 15 Feb 2024 02:35:39 GMT</pubDate>
+      <title>[媒体] 本文讨论了 Ruby 中的匿名块转发功能，该功能允许使用 [...]</title>
+      <link>https://t.me/hn_summary/74307</link>
+      <description><![CDATA[Ruby 中的匿名块转发
+本文讨论了 Ruby 中的匿名块转发功能，该功能允许用户将代码块转发到另一个方法，而无需显式命名它。此功能在 Ruby 3.1 中引入，并提供转发块的简写语法。作者解释了如何使用此功能并强调了它的好处，例如更干净、更简洁的代码。文章还提到了 Rubocop 规则，可以强制使用匿名块转发。作者建议阅读 zverok 的一篇文章，以更深入地解释该主题。总的来说，本文旨在让读者了解这一新功能并鼓励其使用。]]></description>
+      <guid>https://t.me/hn_summary/74307</guid>
+      <pubDate>Thu, 15 Feb 2024 05:30:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Miguel de Icaza，一位著名的软件开发人员和 GNOME 项目的联合创始人，他 [...]</title>
-      <link>https://t.me/hn_summary/74282</link>
-      <description><![CDATA[Miguel de Icaza 因发布有关加沙的内容而被 X 禁止 
-著名软件开发人员兼 GNOME 项目联合创始人 Miguel de Icaza 因发布有关加沙冲突的帖子而被社交媒体平台 X 封禁。影子禁令是一种有争议的做法，即用户的内容在他人不知情的情况下对其隐藏。德伊卡萨关于加沙局势的帖子被认为违反了 X 的社区准则，导致他受到影子禁令。这一事件凸显了围绕社交媒体平台言论自由和审查制度正在进行的争论。它还提出了关于这些平台在塑造公共话语方面的作用以及内容审核中可能存在偏见的问题。]]></description>
-      <guid>https://t.me/hn_summary/74282</guid>
-      <pubDate>Thu, 15 Feb 2024 02:28:03 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克创立的航空航天公司 SpaceX 宣布，已将其移至 [...]</title>
+      <link>https://t.me/hn_summary/74306</link>
+      <description><![CDATA[SpaceX 已将其注册地从特拉华州迁至德克萨斯州
+埃隆·马斯克 (Elon Musk) 创立的航空航天公司 SpaceX 宣布，其注册地已从特拉华州迁至德克萨斯州。此举并不令人意外，因为 SpaceX 一直在扩大其在德克萨斯州的业务，包括在博卡奇卡建造其 Starship 宇宙飞船。迁往德克萨斯州符合 SpaceX 的目标，即使该州成为其未来太空探索活动的中心。这一决定也凸显了德克萨斯州良好的营商环境和激励措施，近年来吸引了众多企业入驻。]]></description>
+      <guid>https://t.me/hn_summary/74306</guid>
+      <pubDate>Thu, 15 Feb 2024 05:28:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
