@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 16 Feb 2024 08:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 11:57:12 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 据报道，俄罗斯活动家和反对派领导人阿列克谢·纳瓦尔尼 (Alexei Navalny) 在监狱中去世。</title>
+      <link>https://t.me/hn_summary/74506</link>
+      <description><![CDATA[阿列克谢·纳瓦尔尼在监狱中去世
+据俄罗斯监狱部门称，俄罗斯活动家和反对派领导人阿列克谢·纳瓦尔尼在狱中死亡。纳瓦尔尼是弗拉基米尔·普京总统的批评者，他被关押在北极圈以北 40 英里的监狱中，在“特殊政权”下服刑 19 年。他的死因不明，克里姆林宫表示没有关于此事的信息。纳瓦尔尼一直是俄罗斯政坛的知名人物，揭露政府腐败并领导针对选举舞弊的抗议活动。他还曾在 2020 年疑似中毒事件中幸存。他的死亡情况很可能被视为政治暗杀。]]></description>
+      <guid>https://t.me/hn_summary/74506</guid>
+      <pubDate>Fri, 16 Feb 2024 11:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 作者分享了他们在新的 Framework 13 AMD 笔记本电脑上设置 Guix 的经验。</title>
+      <link>https://t.me/hn_summary/74505</link>
+      <description><![CDATA[AMD Framework 13 上的 Guix
+作者分享了他们在新的 Framework 13 AMD 笔记本电脑上设置 Guix 的经验。他们提到了笔记本电脑的规格，并对其性能表示满意。他们还强调了由于新用户的限制，他们在框架论坛上发帖时遇到的困难。作者解释说，Guix 在笔记本电脑上运行有一些限制，例如软件渲染和没有 wifi，但这些可以通过使用名为 nonguix 的第三方存储库来解决。他们还表达了对自由软件基金会在固件方面的立场的看法。作者提供了安装过程的说明并讨论了分数缩放的问题。他们提到了笔记本电脑在重新启动时挂起的错误，并讨论了笔记本电脑的用户可修复设计。总体而言，作者似乎对笔记本电脑的性能感到满意，并分享了他们进一步定制的计划。]]></description>
+      <guid>https://t.me/hn_summary/74505</guid>
+      <pubDate>Fri, 16 Feb 2024 11:41:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 全球最受欢迎的 Web 服务器 Nginx 的核心开发人员已退出该项目 [...]</title>
+      <link>https://t.me/hn_summary/74504</link>
+      <description><![CDATA[Nginx核心开发人员因安全纠纷退出项目，启动“freenginx”分支
+由于与 Nginx Inc.（商业支持该 Web 服务器的公司）发生安全纠纷，世界上最受欢迎的 Web 服务器 Nginx 的核心开发人员已退出该项目，并启动了一个名为“freenginx”的分支。 Maxim Dounin 是 Nginx 项目最早、最活跃的程序员之一，他表示，他不再将 Nginx 视为一个为公共利益服务的免费开源项目。争议的起因是为实验性 HTTP/3 代码中的错误分配通用漏洞和暴露 (CVE)，Dounin 反对 Nginx Inc. 分配 CVE 的决定。此次分裂凸显了企业利益与开源社区之间的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/74504</guid>
+      <pubDate>Fri, 16 Feb 2024 10:58:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]德国信用机构 SCHUFA 面临隐私倡导组织的投诉和报告 [...]</title>
+      <link>https://t.me/hn_summary/74503</link>
+      <description><![CDATA[德国信贷机构通过非法客户操纵赚取数百万美元&lt; br /&gt;
+德国信用机构 SCHUFA 正面临隐私倡导组织 noyb 的投诉和举报，涉嫌通过非法客户操纵赚取数百万欧元。 SCHUFA 被指控阻止个人获得其数据的免费副本，而根据 GDPR 第 15 条，他们依法有权获得这些数据。据说该公司从在德国寻求住宿的人中获利，这些人通常必须提供偿付能力证明才能获得租赁。 SCHUFA 据称隐瞒了免费信息的权利，转而为其付费产品做广告，错误地声称只有这些产品才能提供给第三方。该公司还隐瞒信息并延迟提供免费信息。 noyb 已向黑森州数据保护机构提出投诉，指控 SCHUFA 违反 GDPR。]]></description>
+      <guid>https://t.me/hn_summary/74503</guid>
+      <pubDate>Fri, 16 Feb 2024 10:53:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]布鲁金斯学会进行了一系列调查，揭示了两项重要发现。</title>
+      <link>https://t.me/hn_summary/74502</link>
+      <description><![CDATA[交易信托
+布鲁金斯学会进行了一系列调查，揭示了两项重要发现。首先，有针对性和持续性的宣传可以影响公众对与人们没有直接互动的机构的看法。其次，许多公司，尤其是科技行业的公司，为了短期利润而故意牺牲信任。亚马逊和其他公司已经从优先考虑可靠性、可信度和公平性转向优先考虑季度业绩。这一有意的决定反映了一种信念，即消费者对他们的信任并不像他们可以采取的增加利润的捷径那么有价值。对于当地比萨饼店等小型企业来说也是如此。一旦失去信任，就很难重新获得。这为企业提供了一个机会，使他们能够从怀疑中获益，而不是被视为低信任选择。]]></description>
+      <guid>https://t.me/hn_summary/74502</guid>
+      <pubDate>Fri, 16 Feb 2024 10:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]美国汽车安全法规的复杂性阻碍了广泛的可用性[...]</title>
+      <link>https://t.me/hn_summary/74501</link>
+      <description><![CDATA[美国法规的复杂性使得自适应车头灯无法上路&lt; br /&gt;
+美国汽车安全法规的复杂性阻碍了自适应远光灯 (ADB) 车头灯的广泛应用，而这项技术在欧洲和亚洲已经很常见。 ADB 车头灯可以调整车头灯发出的光线，以避免使其他驾驶员感到眩目，同时仍提供最大的可见度。尽管支持 ADB 的车头灯在美国的一些豪华车上出售，但由于监管限制，它们缺乏能够按预期运行的软件。汽车制造商和安全组织敦促美国国家公路交通安全管理局重新考虑相关规定，以便在美国提供 ADB 车头灯变得更容易、成本更低。]]></description>
+      <guid>https://t.me/hn_summary/74501</guid>
+      <pubDate>Fri, 16 Feb 2024 10:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]民权组织敦促欧洲数据保护机构 (DPA) [...]</title>
+      <link>https://t.me/hn_summary/74500</link>
+      <description><![CDATA[民权组织敦促欧洲 DPA 拒绝“付款或同意”&lt; /a&gt;
+民权组织敦促欧洲数据保护机构 (DPA) 拒绝 Instagram 和 Facebook 母公司 Meta 实施的“付费或OK”做法。在这种方法下，用户被迫每年支付 251.88 欧元的隐私费，或者同意被跟踪以进行定向广告。荷兰、挪威和汉堡 DPA 已请求欧洲数据保护委员会 (EDPB) 就此事提供具有约束力的意见。如果“付费或OK”合法化，可能会为其他公司效仿树立先例，从而可能削弱欧洲用户的真正同意。 EDP​​B 的意见将对数据保护和在线隐私的未来产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/74500</guid>
+      <pubDate>Fri, 16 Feb 2024 09:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Forgejo 是一个类似于 GitHub 的自托管 git forge，最初是 Gitea 的软分叉。</title>
+      <link>https://t.me/hn_summary/74499</link>
+      <description><![CDATA[Forgejo 开辟了自己的前进道路
+Forgejo 是一个类似于 GitHub 的自托管 git forge，最初是 Gitea 的软分叉。然而，它随着时间的推移不断发展，现在提供了 Gitea 中不可用的功能和更改。为了进一步脱离 Gitea 并对其开发有更多的控制权，Forgejo 决定进行硬分叉。这使得 Forgejo 能够减少技术债务并更快地实施变革。虽然 Forgejo 目前包含所有 Gitea 并且可以用作直接替代品，但将来可能不会出现这种情况。因此，鼓励用户尽早升级到 Forgejo。 Forgejo API 将努力与 Gitea 的 API 保持兼容，但可能会发生变化。]]></description>
+      <guid>https://t.me/hn_summary/74499</guid>
+      <pubDate>Fri, 16 Feb 2024 09:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]文章讨论了围绕苹果 Vision Pro 耳机和 e [...]</title>
       <link>https://t.me/hn_summary/74498</link>
@@ -20,70 +84,6 @@
 在 1993 年的一段视频剪辑中，可以看到 Microsoft 首席执行官 Satya Nadella 进行了将数据从 IBM AS/400 移动到 Excel 的技术演示。该剪辑还展示了与团队的小组问答环节。作者重点介绍了过去三十年中发生的变化，AS/400 基本消失，Excel 得到广泛使用。笔者将此视为权力从IBM向微软转移的象征。作者还提到了纳德拉的相关性，因为他也对旧照片或视频重新出现感到恐惧。]]></description>
       <guid>https://t.me/hn_summary/74497</guid>
       <pubDate>Fri, 16 Feb 2024 08:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kagi 对其搜索平台进行了多项更新和改进。</title>
-      <link>https://t.me/hn_summary/74496</link>
-      <description><![CDATA[Kagi 变更日志 2/13：更快、更准确的即时答案和维基百科页面
-Kagi 对其搜索平台进行了多项更新和改进。他们最近举办了一次社区活动，讨论了他们的业务更新并回答了问题。他们还根据社区请求添加了对几种新语言/区域组合的支持。在改进方面，Kagi 实施了一个新系统，允许更长的用户查询，并且他们对引文片段设计和附件提取进行了增强。他们还修复了一些错误，包括包含非字母字符的长输入的问题以及引文片段中双重 HTML 转义的问题。]]></description>
-      <guid>https://t.me/hn_summary/74496</guid>
-      <pubDate>Fri, 16 Feb 2024 08:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这本 1994 年的互联网指南中，电子前沿基金会 (EFF) 带领读者 [...]</title>
-      <link>https://t.me/hn_summary/74495</link>
-      <description><![CDATA[1994 年左右的 EFF（扩展）互联网指南 
-在这本 1994 年的互联网指南中，电子前沿基金会 (EFF) 带领读者踏上全球网络和网络空间生活的旅程。该指南由 Adam Gaffin 和 Jörg Heitkötter 撰写，提供了有关如何浏览互联网并充分利用其资源的宝贵信息。虽然以今天的标准来看，这些内容可能已经过时，但它让我们对互联网的早期阶段以及用户当时面临的挑战有了一个有趣的了解。对于任何对互联网历史及其多年来的演变感兴趣的人来说，本指南是必读的。]]></description>
-      <guid>https://t.me/hn_summary/74495</guid>
-      <pubDate>Fri, 16 Feb 2024 07:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国的 Deliveroo 和 Uber Eats 优食乘客计划在情人节举行罢工，dema [...]</title>
-      <link>https://t.me/hn_summary/74494</link>
-      <description><![CDATA[Deliveroo 和 Uber Eats 优食乘客情人节罢工&lt; br /&gt;
-英国的 Deliveroo 和 Uber Eats 优食乘客计划在情人节举行罢工，要求提高工资和工作条件。这次罢工是由英国独立工人联盟（IWGB）组织的，该联盟声称这些零工经济工人正在受到剥削，应该得到更好的待遇。在此之前，美国基于应用程序的工人也发起了类似的罢工，其中 Uber、Lyft 和食品配送公司的司机也计划停工两个小时。这些罢工凸显了围绕零工经济的持续争议以及改善工人权利和保护的必要性。]]></description>
-      <guid>https://t.me/hn_summary/74494</guid>
-      <pubDate>Fri, 16 Feb 2024 07:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 randsinrepose.com 上的这篇文章中，作者分享了如何做出决定的流程图，[...]</title>
-      <link>https://t.me/hn_summary/74493</link>
-      <description><![CDATA[如何做出决定（由机器人）&lt; br /&gt;
-在 randsinrepose.com 上的这篇文章中，作者分享了一个流程图如何做出决定，由人工智能程序 DALL-E 创建。该流程图被描述为准确无误，表明它准确地代表了决策过程。虽然这篇文章没有提供任何有争议或令人惊讶的信息，但它强调了人工智能在创建决策工具中的使用，这可能被视为独特而聪明。]]></description>
-      <guid>https://t.me/hn_summary/74493</guid>
-      <pubDate>Fri, 16 Feb 2024 06:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Vizzy 是一个数据可视化工具，它使用 ChatGPT 和 D3 创建可视化效果 [...]</title>
-      <link>https://t.me/hn_summary/74492</link>
-      <description><![CDATA[展示 HN：使用 ChatGPT 和 D3 进行数据可视化&lt; br /&gt;
-Vizzy 是一种数据可视化工具，它使用 ChatGPT 和 D3 从各种类型的数据文件创建可视化效果。该项目提供了演示和示例项目，例如电视节目“办公室”和美国各州肥胖率的脚本。该工作流程包括上传数据文件、检查 Vizzy 的数据摘要、要求 Vizzy 根据特定请求创建可视化、检查生成的可视化并根据需要对其进行增强。 Vizzy 可以处理常见的数据可视化任务，并允许用户通过提示 Vizzy 或自行编辑代码来进行更改。该项目还提供了在本地运行 Vizzy 的说明。]]></description>
-      <guid>https://t.me/hn_summary/74492</guid>
-      <pubDate>Fri, 16 Feb 2024 06:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Blossom Word Game 是一款每日 12 字游戏，挑战玩家使用 [...]</title>
-      <link>https://t.me/hn_summary/74491</link>
-      <description><![CDATA[展示 HN：开花文字游戏
-Blossom Word Game 是一款每日 12 字游戏，挑战玩家使用所需字母创建单词。该游戏没有时间限制，鼓励玩家瞄准最长的答案和丰富多彩的全字母组合。玩家可以选择重置或玩过去的游戏，使他们能够继续进度或补上错过的日子。游戏提供了一个汇总表，其中包含有用的信息，例如当前连胜、平均得分和最高得分。还提到了类似的游戏，如 Wordle、Quordle 和 Octordle。游戏玩法包括使用提供的字母填写单词并遵循特定的评分规则。分数越高，成就越好。文章还提供了在游戏中寻找答案的提示和技巧。]]></description>
-      <guid>https://t.me/hn_summary/74491</guid>
-      <pubDate>Fri, 16 Feb 2024 06:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>WarpBuild 是一个 CI/CD 平台，为 GitHub Actions 提供快速高效的运行程序。</title>
-      <link>https://t.me/hn_summary/74490</link>
-      <description><![CDATA[在 macOS 上显示 HN：GitHub Actions，速度提高 25%，速度减半成本
-WarpBuild 是一个 CI/CD 平台，为 GitHub Actions 提供快速高效的运行程序。这些运行程序旨在直接替代 GitHub 托管的运行程序，并采用最快的处理器、SSD 和高带宽网络构建，以实现最佳性能。目前，它们支持 x86-64 和 ARM64 架构上的 Linux，并且即将推出 macOS 和 Windows 支持。 Linux 运行器基于 Ubuntu 22.04 LTS，并具有与 GitHub 托管的运行器相同的工具。 macOS 运行程序基于 ARM64 架构上的 M2 Pro，速度比 GitHub 托管的同类运行程序快 25-40%，价格便宜 2 倍。它们还提供独特的功能，例如嵌套虚拟化和对 Android 模拟器的支持。 WarpBuild 正在不断改进其服务，并即将推出诸如用于 Docker 构建的自动 Buildkit 缓存等功能。]]></description>
-      <guid>https://t.me/hn_summary/74490</guid>
-      <pubDate>Fri, 16 Feb 2024 05:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]StableBuild 是一套新的工具，可帮助开发人员创建可靠且确定的 [...]</title>
-      <link>https://t.me/hn_summary/74489</link>
-      <description><![CDATA[显示 HN：StableBuild – 固定并冻结任何构建依赖项
-StableBuild 是一组新工具，可帮助开发人员冻结和固定 Docker 映像、操作系统包、Python 包和其他构建依赖项，从而创建可靠且确定性的构建。 Dockerfile 的问题在于它们可能看起来是确定性的，但实际上它们依赖于随时可能更改的各种镜像、注册表和存储库。 StableBuild 通过为 Docker 基础映像、包注册表、第三方包注册表、Python 包以及来自 Internet 的任意 URL 或文件提供镜像和注册表来解决此问题。通过将 StableBuild 集成到他们的构建工具链中，开发人员可以确保相同的 Dockerfile 始终生成相同的 Docker 容器。 StableBuild 计划起价为每月 199 美元。]]></description>
-      <guid>https://t.me/hn_summary/74489</guid>
-      <pubDate>Fri, 16 Feb 2024 05:55:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
