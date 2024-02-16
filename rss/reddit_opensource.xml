@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 16 Feb 2024 06:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 09:12:02 GMT</lastBuildDate>
+    <item>
+      <title>Unix shell - 我们现在可以做得更好 |伊利亚·谢尔 | Conf42 混沌工程 2024</title>
+      <link>https://www.reddit.com/r/opensource/comments/1as48q3/unix_shell_we_can_do_better_now_ilya_sher_conf42/</link>
+      <description><![CDATA[      Next Generation Shell 是一个开源项目，正在解决大多数（如果不是所有）其他 shell 都存在的数十年之久的 UI 问题：电报风格的通信范例（发送文本/接收文本）。有关该问题和建议的解决方案的更多信息 - 在视频中。   由   提交/u/ilyash  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1as48q3/unix_shell_we_can_do_better_now_ilya_sher_conf42/</guid>
+      <pubDate>Fri, 16 Feb 2024 09:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何向开源学习？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1as3juv/how_to_learn_from_open_source/</link>
+      <description><![CDATA[嗨，在担任了大约 5 年的软件工程师之后，我已经在大约 2 个月的时间里每天阅读大量开源代码并编写代码记录我所有研究工作的博客。  我写了一些小型开源 npm 包，但它们并不那么受欢迎。 你如何向开源学习？ 最近，我构建了一个文档网站，在我的空闲时间提供使用 Docusaurus 的 Web 开发教程。它有一个名为“Open Source Talks”的链接。我的动机是与精英开源开发人员交谈并向他们学习，记录对话并将其呈现在我网站的该部分中以供全世界查看。我想知道您如何跟上最佳实践？您使用什么生产力工具？是什么促使您构建开源工具（背后的故事）？您如何管理存储库中报告的问题？等等， 我尝试联系一些开源开发人员和维护人员，但尚未得到积极回应。但没关系，我会继续努力。  这是我向开源学习的努力。 如果您有兴趣，请留言或私信我。谢谢。   由   提交/u/Loud_Contact_6718   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1as3juv/how_to_learn_from_open_source/</guid>
+      <pubDate>Fri, 16 Feb 2024 08:14:17 GMT</pubDate>
+    </item>
     <item>
       <title>有没有用Python写的RTS游戏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1as17sq/any_rts_games_written_in_python/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是一名全栈开发人员。我最近完成了一个小型 React 本机混合应用程序。到目前为止，我有 3 个月的空闲时间，我想用这些时间来工作或合作项目。如果它是开源的那就太好了，我也不介意从事私人项目。  我很乐意使用 React Native 和 Redux 开发 Shopify 电子商务应用程序。我在许多堆栈方面都有经验，包括 ReactJs、MERN、wordpress、drupal、govCMS、aws 以及一些我可能忘记提及的技术。  我拥有一个基于 php 的服务器，如果需要域名等，我愿意投资一些钱。但是，对于 aws 或 azure 等，赞助商必须对此进行投资。我的目的是学习一些尖端技术，同时创造一些有价值的东西，甚至帮助慈善组织。 我过去曾参与过澳大利亚政府网络项目。 Atm 我在澳大利亚失业，正在尝试找一份 IT 工作。我在 ReactJs 和 WordPress 工作中接受了很多面试，并且确实进入了最后阶段，并且在两个案例中是他们名单中的第二个人。我取得的最大成功是在 React Native 面试中，但我缺乏那里的商业经验，所以在过去的几个月里，我一直在 React Native 中工作，希望能找到一份工作。  Github：https://github.com/AnupamKhosla  我过去最喜欢的个人项目https://liveradio.site/ http://musicsheets.in/  http://crimewiki.in/     ;由   提交/u/AutomaticAd6646   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1araovl/i_want_to_workcollaborate_on_your_react_native/</guid>
       <pubDate>Thu, 15 Feb 2024 08:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动 Git 提交（AI 根据差异写入消息）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ar6ejl/automatic_git_commits_ai_writes_the_messages/</link>
-      <description><![CDATA[https://github.com/e-p-armstrong /autocommit 演示：https://www.youtube.com/watch?v =yZWEADQZeKM 我在解决 Git 问题时的快速尝试是，经常提交最适合节省工作并能够在必要时恢复，但它会让你脱离区域，并且是一个脑力劳动——尤其是当你想避免你的提交历史被垃圾弄乱时。无限提交循环与人工智能驱动的提交名称写入相结合似乎可以解决这个问题。它可以使用本地模型（演示视频正在使用 Oobabooga 运行）。 告诉我你的想法！   由   提交 /u/Heralax_Tekran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ar6ejl/automatic_git_commits_ai_writes_the_messages/</guid>
-      <pubDate>Thu, 15 Feb 2024 03:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 6 年的努力和数千名用户，我们将全面开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ar42tu/after_6_years_of_work_and_thousands_of_users_we/</link>
-      <description><![CDATA[大家好！ 经过 6 年的努力，我们决定将 UTMStack 日志管理（SIEM）和 XDR 完全开放- 来源 OSS 许可证。是的，是真的；没有奇怪的公共条款或伪 OSS 许可证来限制服务提供商的使用。更重要的是：这不是一个上限或过时的版本，它与付费发行版完全相同。企业支持是唯一的区别，因此我们可以以某种方式谋生；） 这里有人有兴趣加入我们的社区吗？我们一直在寻找充满热情的个人为我们的项目做出贡献。无论您是开发人员、安全专家，还是只是热衷于网络安全，您的意见都是有价值的。 作为 Linux 基金会的活跃成员，我们努力为开源世界做出尽可能多的贡献。您可以在 linux.com 这是 GitHub 存储库：https://github.com/ utmstack/UTMStack 再见！ ​   由   提交/u/rickv92  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ar42tu/after_6_years_of_work_and_thousands_of_users_we/</guid>
-      <pubDate>Thu, 15 Feb 2024 01:45:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
