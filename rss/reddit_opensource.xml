@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 17 Feb 2024 12:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 15:12:27 GMT</lastBuildDate>
+    <item>
+      <title>Wdyt 是最好的开源 Miro 替代品吗？也非常适合在 Nextcloud 中使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1at2y30/wdyt_is_the_best_opensource_miro_alternative/</link>
+      <description><![CDATA[ 由   提交/u/Traditional-Joke-290   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1at2y30/wdyt_is_the_best_opensource_miro_alternative/</guid>
+      <pubDate>Sat, 17 Feb 2024 14:15:44 GMT</pubDate>
+    </item>
     <item>
       <title>有《狂野飙车 8》/《狂野飙车 9》游戏的开源替代品吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1asz9t0/is_there_any_open_source_alternative_to_asphalt_8/</link>
@@ -25,20 +32,6 @@
       <description><![CDATA[你好， 我正在构建一个开源项目，并且我已经发布了一个基本版本。然而，我有很多想要进行的更新，并且我很难确定首先执行哪些任务的优先级。我现在应该在文档页面上工作吗？或者我应该继续开发更多功能和示例，以便人们在 Github 上遇到该项目时发现可以轻松启动该项目？  我当前的目标是找到用户和维护者，甚至是少量时间的贡献者，他们只会测试项目，然后提供改进反馈。  项目链接：https://github.com/kindsmiles/pyvigate   由   提交 /u/metalvendetta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1asy135/what_is_the_usual_strategy_of_building_and/</guid>
       <pubDate>Sat, 17 Feb 2024 09:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 SvelteKit、Google Sheets 和 Cloudflare Turnstile 自托管您的 CF 域名销售平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aspicp/selfhost_your_cf_domain_selling_platform_with/</link>
-      <description><![CDATA[使用 SvelteKit、Google Sheets 和 Cloudflare Turnstile 自行托管您的域名销售平台 嘿 Reddit！ &lt;我刚刚开源了一个项目，那些希望使用现代技术堆栈创建域名销售平台的人可能会感兴趣。该项目将 SvelteKit 与 Google Sheets 和 Cloudflare Turnstile 集成，为卖家和潜在买家提供无缝体验。 盒子里有什么？  SvelteKit 前端：用于制作用户界面的时尚 SvelteKit 设置。 Google Sheets API：利用 Google Apps 脚本将表单提交直接记录到 Google 表格中。 &gt; CAPTCHA 集成：实施 Cloudflare Turnstile 是为了抵御垃圾邮件。 响应式表单：用于提交域名购买报价的时尚且响应式表单.  它是如何工作的？ 用户可以通过表单提交对域的报价。然后，数据将保存到 Google 表格中，以便于管理和审查，同时通过 CAPTCHA 验证确保提交的合法性。 快速设置  克隆存储库并安装依赖项。 设置 Google Sheets API 和 Apps 脚本（自述文件中有详细步骤）。 配置密钥的环境变量。 运行开发服务器或构建项目。 部署到您首选的托管服务。  使用的技术  SvelteKit  Google Apps 脚本 Cloudflare Turnstile  有兴趣吗？ 查看存储库，如果您觉得有用，请给它一个星号：svelte-forms-googlesheets-cf-turnstile。 我已将其托管在 Cloudflare 上页。您可以使用 vercel 或其他替代方案  随时为您自己的项目贡献或分叉它！   由   提交 /u/pvbhanuteja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aspicp/selfhost_your_cf_domain_selling_platform_with/</guid>
-      <pubDate>Sat, 17 Feb 2024 01:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里提供有史以来所有最流行的面试问题 - 祝大家好运</title>
-      <link>https://www.reddit.com/r/opensource/comments/1asp9lu/here_is_open_to_all_most_popular_interview/</link>
-      <description><![CDATA[   /u/TranslatorAway9891   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1asp9lu/here_is_open_to_all_most_popular_interview/</guid>
-      <pubDate>Sat, 17 Feb 2024 01:08:41 GMT</pubDate>
     </item>
     <item>
       <title>付钱给人们从事开源工作实际上是件好事</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[   /u/matthiasjmair   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1arqu85/code_chores_the_boring_part_of_maintenance/</guid>
       <pubDate>Thu, 15 Feb 2024 21:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找最佳开源 CAD</title>
+      <link>https://www.reddit.com/r/opensource/comments/1arqiu9/hunting_for_best_open_source_cad/</link>
+      <description><![CDATA[我一直在潜伏和研究满足我需求的最佳开源 CAD（免费）选项，但我觉得我无法完全找到一个处理它。所以我当然会求助于 reddit 的英雄。 我曾经是一家公司的设计助理，使用 CAD 来制作他们的 2D 平面图和立面图。几年前我离开了这个领域。最近，我担任助理的一位设计师来找我，说她要单独行动，并想知道我是否能够帮助找到一个程序/根据需要创建她的图纸。  我首先尝试了 libreCAD - 它似乎最适合我的需求。我已经了解了需要对新图纸进行的调整，但我在个人驱动器上发现了来自公司的旧 DWG 文件，并且它不能很好地转换为程序。他们的模板是我认为典型的 - 绘图空间，然后是一张显示适合 A4 (8.5x11) 1&#39;=1/16&quot; 尺寸的纸张空间的纸张。打印比例尺，方便客户了解要点。对于开源 CAD，是否有更好的选择？或者是一个会“说话”的人。 DWG 文件更好？如果她能够保留以前的 DWG，那么当客户返回未来的项目并仅在原始文件中工作时，显然会容易得多。 提前致谢！   由   提交/u/emm_space  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1arqiu9/hunting_for_best_open_source_cad/</guid>
+      <pubDate>Thu, 15 Feb 2024 21:18:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
