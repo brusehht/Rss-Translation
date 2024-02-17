@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 06:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 09:10:47 GMT</lastBuildDate>
     <item>
-      <title>Progman 是一个简单的 X11 窗口管理器，其灵感来自 Windows 3 时代，提供诸如 [...]</title>
-      <link>https://t.me/hn_summary/74636</link>
-      <description><![CDATA[Progman：模仿 Windows 3 时代的程序管理器的 X11 WM&lt; /a&gt;
-Progman 是一个简单的 X11 窗口管理器，灵感来自 Windows 3 时代，提供窗口最小化、最大化、阴影、移动和键盘/鼠标绑定支持等功能。它还包括虚拟桌面、窗口循环、主题支持和可选的 HiDPI 缩放。该项目的与众不同之处在于，它提供了让人想起 Windows 3 时代的怀旧用户体验，同时仍然提供现代功能和自定义选项。它可以轻松编译和安装，使其成为寻求复古美学和实用窗口管理功能融合的用户的独特选择。]]></description>
-      <guid>https://t.me/hn_summary/74636</guid>
-      <pubDate>Sat, 17 Feb 2024 06:04:18 GMT</pubDate>
+      <title>[媒体] 隆重推出 endpts.io，这是一个简单的工具，可让您生成用于测试的模拟 API [...]</title>
+      <link>https://t.me/hn_summary/74648</link>
+      <description><![CDATA[显示 HN：生成用于测试的模拟 API 的简单工具
+介绍 endpts.io，一个允许您生成模拟的简单工具用于测试目的的 API。通过多种起点可供选择，例如单个用户数据、用户列表、产品、文件、Git 提交，甚至航班信息，您可以轻松创建真实的模拟数据来测试您的应用程序。该工具非常适合希望简化测试流程并确保应用程序正常运行的开发人员。今天尝试 endpts.io 看看生成模拟有多么容易满足您测试需求的 API。]]></description>
+      <guid>https://t.me/hn_summary/74648</guid>
+      <pubDate>Sat, 17 Feb 2024 09:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>在超级碗周末期间，我们发现了一个令人震惊的发现 - 76% 的流量从 X 流向客户端 [...]</title>
-      <link>https://t.me/hn_summary/74635</link>
-      <description><![CDATA[超级期间从 X 到客户网站的流量中有 76% 是假的碗周末
-在超级碗周末期间，我们发现了一个令人震惊的发现 - 从 X 到客户网站的流量中有 76% 是假的。这一揭露引发了人们对在线流量的真实性以及高调活动期间营销策略有效性的担忧。围绕此问题的争议凸显了企业需要密切监控其网站流量并确保其接触到真正的、参与其中的受众。这一令人大开眼界的统计数据提醒我们始终对在线指标保持警惕和怀疑。]]></description>
-      <guid>https://t.me/hn_summary/74635</guid>
-      <pubDate>Sat, 17 Feb 2024 05:54:13 GMT</pubDate>
+      <title>在我的 Raspberry Pi 可靠性系列中，我探讨了保持 Raspberry Pi 运行的挑战 [...]</title>
+      <link>https://t.me/hn_summary/74647</link>
+      <description><![CDATA[长期运行 Raspberry Pi 的注意事项
+在我的 Raspberry Pi 可靠性系列中，我探讨了保持 Raspberry Pi 长时间平稳运行的挑战。从调频发射机到能源监视器，这些小设备在我家里有多种用途。我讨论可能出现的潜在问题并分享我的解决方案以确保长期可靠性。强烈建议不要禁用 Raspberry Pi 文件系统的日志记录这一有争议的建议，因为它会增加文件系统损坏的风险。我的目标是让我的 Pi 更加可靠，因此我专注于实现该目标的策略。请继续关注 Pi 可靠性博客系列中的更新和其他提示。]]></description>
+      <guid>https://t.me/hn_summary/74647</guid>
+      <pubDate>Sat, 17 Feb 2024 09:06:43 GMT</pubDate>
     </item>
     <item>
-      <title>三六黑手党以幽默的方式看待臭名昭著的三六规则，该规则规定，一个古 [...]</title>
-      <link>https://t.me/hn_summary/74634</link>
-      <description><![CDATA[三六黑手党：愚蠢地看待楼下一英寸的价值
-《三六黑手党》以幽默的方式审视了臭名昭著的三六规则，该规则规定，一个男人必须有 6 位数的收入、身高 6 英尺、胸围 6 英寸才能被认为可以约会。作者深入研究了统计分析，以确定满足这些标准的排他性，强调了这种严格标准的荒谬性。令人惊讶的是，数据显示，6 英寸的啄木鸟在排他性方面比身高或收入更重要，导致了“众神之谷”，身高和啄木鸟的大小使收入变得无关紧要。这篇文章挑战了社会规范，并提供了约会的独特视角标准。（根据 61% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74634</guid>
-      <pubDate>Sat, 17 Feb 2024 05:50:10 GMT</pubDate>
+      <title>[媒体]马克扎克伯格最近解释了为什么科技公司继续裁员，德 [...]</title>
+      <link>https://t.me/hn_summary/74646</link>
+      <description><![CDATA[马克扎克伯格解释了为什么这么多科技公司正在裁员
+马克·扎克伯格最近解释了为什么科技公司在疫情期间仍在继续裁员。他提到，最初的裁员潮是由于大流行时期增长期间的过度招聘，但最近的裁员是因为公司正在意识到精简和提高效率的好处。扎克伯格还讨论了 Meta 与苹果的竞争，强调了他们在虚拟现实和增强现实领域的竞争。他提到，虽然苹果是一家好公司，但 Meta 在某些领域可能会走得更快。总体而言，扎克伯格强调了科技行业在企业度过后疫情时代时效率和重组的重要性。]]></description>
+      <guid>https://t.me/hn_summary/74646</guid>
+      <pubDate>Sat, 17 Feb 2024 09:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]大奖章基金：终极反例？</title>
-      <link>https://t.me/hn_summary/74633</link>
-      <description><![CDATA[大奖章基金：终极反例？
-Renaissance Technologies 管理的 Medallion 基金是市场效率的显着反例，1988 年投资 100 美元，到 2018 年增长到 3.987 亿美元，复合回报率为 63.3%。尽管 31 年来从未经历过负回报，但 Medallion 的市场贝塔值和因子负载均为负值，挑战了传统的风险解释。创始人詹姆斯·西蒙（James Simon）禁止外部投资者，后来又开设了采用不同策略的新基金，这些策略与 Medallion 的出色表现并不相符。该基金的成功仍然无法解释，导致人们对其交易优势进行猜测，并违背市场效率理论。 Medallion无与伦比的业绩对传统投资智慧提出了重大挑战。]]></description>
-      <guid>https://t.me/hn_summary/74633</guid>
-      <pubDate>Sat, 17 Feb 2024 05:46:06 GMT</pubDate>
+      <title>[媒体]人们发现，幼年类人猿喜欢取笑和惹恼长辈，正如雷夫 [...]</title>
+      <link>https://t.me/hn_summary/74645</link>
+      <description><![CDATA[研究发现，幼年类人猿喜欢取笑和惹恼长辈&lt; /a&gt;
+圣地亚哥和莱比锡动物园的录像显示，幼年类人猿喜欢取笑和惹恼长辈。这些有趣的、有时甚至是攻击性的行为包括戳、戳、拉头发和挠痒痒。该研究记录了 142 起戏弄事件，其中 3 至 5 岁的青少年是主要的煽动者。令人惊讶的是，这种行为类似于人类婴儿的戏弄，猿类会寻找目标的反应。这种行为可能有助于测试社会界限并加强关系，其历史可以追溯到 1300 万年前人类和现代猿类的最后共同祖先。]]></description>
+      <guid>https://t.me/hn_summary/74645</guid>
+      <pubDate>Sat, 17 Feb 2024 08:34:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] UFO 是一个以 UI 为中心的双代理框架，专为 Windows 操作系统交互而设计。</title>
-      <link>https://t.me/hn_summary/74632</link>
-      <description><![CDATA[UFO：用于 Windows 操作系统交互的以 UI 为中心的 AI 代理
-UFO 是一个以 UI 为中心的双代理框架，专为 Windows 操作系统交互而设计。它由 AppAgent 和 ActAgent 组成，它们协同工作来满足单个或多个应用程序中的用户请求。 UFO 是第一个能够将自然语言用户请求转换为 Windows 操作系统上可操作操作的代理框架。它提供了用于完成复杂任务的交互模式，结合了敏感操作的保护措施，并允许轻松扩展以处理不同的任务。 UFO 需要 Python &gt;= 3.10 和 Windows OS &gt;= 10，并利用 GPT-Vision 实现多模式功能。项目还为用户提供了演示示例和评估技巧。]]></description>
-      <guid>https://t.me/hn_summary/74632</guid>
-      <pubDate>Sat, 17 Feb 2024 05:28:58 GMT</pubDate>
+      <title>www.pcloadletter.dev 上的文章认为“敏捷”一词已被玷污并意味着 [...]</title>
+      <link>https://t.me/hn_summary/74644</link>
+      <description><![CDATA[敏捷是一个被玷污的术语
+关于 www.pcloadletter.dev 的文章认为，该术语在软件开发领域，“敏捷”已经变得污点且毫无意义。虽然敏捷宣言的原则很有价值，但该术语本身已被 Scrum 和看板等各种解释和流程所淡化。作者强调了许多开发人员在敏捷方法论方面的负面经历，导致人们对该术语缺乏信任。最终，文章表明“敏捷”这个词不再有效地传达它本应代表的原则，使其成为行业中一个空洞的流行词。]]></description>
+      <guid>https://t.me/hn_summary/74644</guid>
+      <pubDate>Sat, 17 Feb 2024 08:16:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]纽约法官下令唐纳德·特朗普因撒谎而支付 3.55 亿美元的罚款 [...]</title>
-      <link>https://t.me/hn_summary/74631</link>
-      <description><![CDATA[法官命令特朗普因谎报财富而支付 3.55 亿美元
-纽约一名法官裁定唐纳德·特朗普因谎报自己的财富而支付 3.55 亿美元的罚款，因为他发现他参与了一项通过夸大财务报表来欺骗银行和保险公司的计划。这项民事欺诈判决对特朗普作为亿万富翁商人的形象造成了重大打击，并可能产生深远的财务后果。法官对特朗普实施三年禁令，禁止其担任任何纽约公司的高管或董事，并将其公司置于法院监督之下。特朗普发誓要对这一裁决提出上诉，声称这是出于政治动机。这项裁决是特朗普面临的一系列法律麻烦中的最新一起，其中包括与 2020 年大选相关的起诉和封口费。]]></description>
-      <guid>https://t.me/hn_summary/74631</guid>
-      <pubDate>Sat, 17 Feb 2024 04:56:47 GMT</pubDate>
+      <title>[媒体]标题：从工程师到经理：我爱什么，我恨什么</title>
+      <link>https://t.me/hn_summary/74643</link>
+      <description><![CDATA[从工程师到经理：我爱什么，我恨什么
+标题：从工程师到经理：我爱什么，我恨什么
+
+从前端开发人员过渡到工程管理职位后，我经历了新角色的高潮和低谷。我喜欢管理的地方在于它能够对产品和团队产生真正的影响，它提供了有前途的职业机会，可以跨行业应用的可转移技能，以及不断跟上最新技术趋势所带来的轻松感。然而，我也讨厌某些方面，比如与公司的废话打交道、应对尴尬的社交场合、感受到办公时间的压力以及面对管理行为的漫长反馈循环。尽管面临挑战，但向管理层的转变是一次有益的过山车之旅，它扩展了我的技能，并为工程工作提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/74643</guid>
+      <pubDate>Sat, 17 Feb 2024 08:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了节食减肥的无效性，尽管[...]</title>
-      <link>https://t.me/hn_summary/74630</link>
-      <description><![CDATA[即使是成功的研究也表明节食效果不佳
-这篇文章讨论了节食减肥的无效性，尽管人们普遍认为节食可以解决肥胖问题。 Look AHEAD 研究被强调为综合生活方式干预的一个例子，该干预在八年后实现了最小的体重减轻。这篇文章质疑小幅减肥对健康的好处，并建议注重增加体力活动和更好的饮食可能更有益。它还解决了对肥胖者的污名化的有害影响。作者呼吁对有效的治疗形式进行更多研究，并敦促社会挑战对超重个体的偏见。]]></description>
-      <guid>https://t.me/hn_summary/74630</guid>
-      <pubDate>Sat, 17 Feb 2024 04:52:43 GMT</pubDate>
+      <title>blog.fpmurphy.com 上的 GRUB2 Modules (2010) 探索了 GRUB2 的模块化架构，类似于 [...]</title>
+      <link>https://t.me/hn_summary/74642</link>
+      <description><![CDATA[GRUB2 模块 (2010)
+blog.fpmurphy.com 上的 GRUB2 模块 (2010) 进行了探索GRUB2 的模块化架构，将模块比作 Linux 内核模块或 Mozilla Firefox 等软件的插件。这篇文章深入探讨了修改现有模块并使用 grub-emu 模拟器创建自定义模块。值得注意的模块包括那些提供类 Unix 命令、文件系统支持、分区方案和图形功能的模块。加载和卸载模块的命令与 GNU/Linux 中的命令相同。模块是 ELF 格式文件，使用 core.img 处理动态链接。 moddep.lst 中详细介绍了依赖关系映射，展示了模块如何交互。这篇文章全面介绍了 GRUB2 的模块系统。 （根据故事文本的 20% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74642</guid>
+      <pubDate>Sat, 17 Feb 2024 07:33:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一项开创性的研究中，研究人员发现大型语言模型（LLM [...]</title>
-      <link>https://t.me/hn_summary/74629</link>
-      <description><![CDATA[LLM代理可以自主入侵网站
-在一项开创性的研究中，研究人员发现大型语言模型 (LLM) 可以在无需人工干预的情况下自主入侵网站。这些高级模型（例如 GPT-4）能够执行盲数据库模式提取和 SQL 注入等任务，即使事先不了解漏洞。这引起了人们对部署 LLM 代理的潜在网络安全影响的担忧。虽然现有的开源模型缺乏这种能力，但像 GPT-4 这样的前沿模型在利用扩展的上下文和工具使用方面表现出色。 LLM 代理在野外发现网站漏洞的能力既令人惊讶又充满争议，促使人们进一步探索所涉及的风险。]]></description>
-      <guid>https://t.me/hn_summary/74629</guid>
-      <pubDate>Sat, 17 Feb 2024 04:36:35 GMT</pubDate>
+      <title>随着变革性人工智能越来越成为现实，我发现自己处于一个暮色世界，不确定是否 [...]</title>
+      <link>https://t.me/hn_summary/74641</link>
+      <description><![CDATA[在人工智能前夜养育孩子
+随着变革性人工智能越来越成为现实，我发现自己处于一个暮色世界，不确定未来会更黑暗还是更光明。历史学家伊恩·莫里斯和本·加芬克尔的见解让我思考在这个不确定的环境中我应该如何抚养我的孩子。他们会面对一个正常的未来，还是一个充满混乱、战争，甚至是后匮乏乌托邦的未来？尽管存在不确定性，但我相信让他们为未知做好准备是值得的。虽然一些家长鼓励人工智能互动以做好准备，但我担心其中的风险。最终，我的目标是关注美好生活的基本特征，让我的孩子在不断变化的世界中追求他们的激情。]]></description>
+      <guid>https://t.me/hn_summary/74641</guid>
+      <pubDate>Sat, 17 Feb 2024 06:34:42 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇发人深省的文章中，作者探讨了编程、音乐之间的联系 [...]</title>
-      <link>https://t.me/hn_summary/74628</link>
-      <description><![CDATA[模式的乐趣
-在这篇发人深省的文章中，作者通过模式识别的视角探讨了编程、音乐和扑克之间的联系。作者利用代数、音乐表演和扑克策略方面的个人经验，深入探讨了在各种情况下识别和操纵模式所带来的满足感。音乐和编程方面的天赋可能源于对模式识别的共同享受，这一发现既令人惊讶又富有洞察力。作者还提出了关于这种现象背后的神经化学机制以及模式匹配技能的进化优势的有趣问题。这种对不同领域模式的探索为人类认知和行为提供了独特的视角。]]></description>
-      <guid>https://t.me/hn_summary/74628</guid>
-      <pubDate>Sat, 17 Feb 2024 04:30:31 GMT</pubDate>
+      <title>[媒体]最新的 Nvidia 驱动程序更新版本 551.52 为 Ope 引入了 16 位浮点支持 [...]</title>
+      <link>https://t.me/hn_summary/74640</link>
+      <description><![CDATA[新的 Nvidia 驱动程序为 OpenCL 添加了 16 位浮点支持 [pdf](https ://news.ycombinator.com/item?id=39380745)
+最新的 Nvidia 驱动程序更新版本 551.52 引入了对 OpenCL 的 16 位浮点支持，从而增强了用户的性能和功能。此更新还包括游戏改进、错误修复和需要注意的已知问题。此外，发行说明还详细介绍了驱动程序安全性、GPU 性能计数器和兼容性模式方面的变化。用户还可以找到有关硬件和软件支持的信息以及驱动程序安装指南。总体而言，此更新提供了一系列增强功能和修复，以优化 Nvidia 显卡的用户体验。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74640</guid>
+      <pubDate>Sat, 17 Feb 2024 06:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇开创性的论文中，Meta 介绍了 TestGen-LLM，这是一种利用 Large Language [...]</title>
-      <link>https://t.me/hn_summary/74627</link>
-      <description><![CDATA[在 Meta 上使用大型语言模型进行自动化单元测试改进 
-在这篇开创性的论文中，Meta 介绍了 TestGen-LLM，这是一种利用大型语言模型自动增强现有单元测试的工具。通过确保生成的测试类满足特定的改进标准，TestGen-LLM 解决了与 LLM 幻觉相关的问题。通过在 Instagram 和 Facebook 的 Meta 测试马拉松中进行部署，取得了令人印象深刻的结果，很大一部分测试用例可靠地通过并扩大了覆盖范围。值得注意的是，TestGen-LLM 提高了 11.5% 的课程，并且 Meta 工程师对其建议的接受率很高。这标志着在工业规模使用 LLM 生成的代码来改进测试方面取得了重大进步。]]></description>
-      <guid>https://t.me/hn_summary/74627</guid>
-      <pubDate>Sat, 17 Feb 2024 04:26:28 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，旁遮普邦首席部长 Bhagwant Mann 接受了住院治疗 [...]</title>
+      <link>https://t.me/hn_summary/74639</link>
+      <description><![CDATA[印度政客饮用被污染的“圣”河水，入院治疗&lt; /a&gt;
+令人惊讶的是，旁遮普邦首席部长巴格万特·曼 (Bhagwant Mann) 在清洁水体的运动中饮用了受污染的卡利贝因河的水后不久就住院了。尽管他的办公室否认他有任何疾病，并声称他进行了例行检查，但社交媒体用户批评这一行为是“失败的公关噱头”，并将他住院的原因归咎于水污染。曼恩在宗教先知的簇拥下喝水的视频在网上疯传，引发了人们对他住院的真正原因的争议和猜测。该事件引发了人们对印度圣河清洁度的质疑。]]></description>
+      <guid>https://t.me/hn_summary/74639</guid>
+      <pubDate>Sat, 17 Feb 2024 06:24:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
