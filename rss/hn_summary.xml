@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 09:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 11:52:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 隆重推出 endpts.io，这是一个简单的工具，可让您生成用于测试的模拟 API [...]</title>
-      <link>https://t.me/hn_summary/74648</link>
-      <description><![CDATA[显示 HN：生成用于测试的模拟 API 的简单工具
-介绍 endpts.io，一个允许您生成模拟的简单工具用于测试目的的 API。通过多种起点可供选择，例如单个用户数据、用户列表、产品、文件、Git 提交，甚至航班信息，您可以轻松创建真实的模拟数据来测试您的应用程序。该工具非常适合希望简化测试流程并确保应用程序正常运行的开发人员。今天尝试 endpts.io 看看生成模拟有多么容易满足您测试需求的 API。]]></description>
-      <guid>https://t.me/hn_summary/74648</guid>
-      <pubDate>Sat, 17 Feb 2024 09:10:47 GMT</pubDate>
+      <title>2024 年初，ECC RAM 在台式电脑上的前景有所改善。</title>
+      <link>https://t.me/hn_summary/74660</link>
+      <description><![CDATA[2024 年（年初）桌面上的正版 ECC RAM 选项&lt; /a&gt;
+2024 年初，ECC RAM 在台式电脑上的前景有所改善。英特尔 W680 台式机芯片组正式支持第 12 代及更高版本 CPU 的 ECC RAM，提供更快的内存配置文件。 AMD 在早期 Ryzen 上缺乏对 ECC 的支持，但当前的 Socket AM5 和 Zen 4 系统现在通过最近的固件更新支持 ECC。虽然找到兼容的主板可能是一个挑战，但与英特尔的高端 W680 系统或基于 Xeon 的解决方案相比，构建具有 ECC RAM 的 AMD 系统可能是更具成本效益的选择。关于 ECC RAM 是否真正具有重大意义、值得投资的争论仍在继续。]]></description>
+      <guid>https://t.me/hn_summary/74660</guid>
+      <pubDate>Sat, 17 Feb 2024 11:52:40 GMT</pubDate>
     </item>
     <item>
-      <title>在我的 Raspberry Pi 可靠性系列中，我探讨了保持 Raspberry Pi 运行的挑战 [...]</title>
-      <link>https://t.me/hn_summary/74647</link>
-      <description><![CDATA[长期运行 Raspberry Pi 的注意事项
-在我的 Raspberry Pi 可靠性系列中，我探讨了保持 Raspberry Pi 长时间平稳运行的挑战。从调频发射机到能源监视器，这些小设备在我家里有多种用途。我讨论可能出现的潜在问题并分享我的解决方案以确保长期可靠性。强烈建议不要禁用 Raspberry Pi 文件系统的日志记录这一有争议的建议，因为它会增加文件系统损坏的风险。我的目标是让我的 Pi 更加可靠，因此我专注于实现该目标的策略。请继续关注 Pi 可靠性博客系列中的更新和其他提示。]]></description>
-      <guid>https://t.me/hn_summary/74647</guid>
-      <pubDate>Sat, 17 Feb 2024 09:06:43 GMT</pubDate>
+      <title>[媒体]这篇文章探讨了英国大选从长达数周的争论中的演变[...]</title>
+      <link>https://t.me/hn_summary/74659</link>
+      <description><![CDATA[英国长达数周的大选结束&lt; br/&gt;
+这篇文章探讨了英国大选从为期数周的选举到我们今天所知的单日投票的演变。 1918 年之前，选举可能需要长达两个月的时间，选举官员对整个过程拥有重大权力。腐败、战略时机和技术的影响都在塑造选举时间表方面发挥了作用。 1918 年转向单日投票是出于减少干扰和解决选民多元化问题的愿望。这一变化让人们松了口气，并被视为选举进程现代化的一步。]]></description>
+      <guid>https://t.me/hn_summary/74659</guid>
+      <pubDate>Sat, 17 Feb 2024 11:38:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]马克扎克伯格最近解释了为什么科技公司继续裁员，德 [...]</title>
-      <link>https://t.me/hn_summary/74646</link>
-      <description><![CDATA[马克扎克伯格解释了为什么这么多科技公司正在裁员
-马克·扎克伯格最近解释了为什么科技公司在疫情期间仍在继续裁员。他提到，最初的裁员潮是由于大流行时期增长期间的过度招聘，但最近的裁员是因为公司正在意识到精简和提高效率的好处。扎克伯格还讨论了 Meta 与苹果的竞争，强调了他们在虚拟现实和增强现实领域的竞争。他提到，虽然苹果是一家好公司，但 Meta 在某些领域可能会走得更快。总体而言，扎克伯格强调了科技行业在企业度过后疫情时代时效率和重组的重要性。]]></description>
-      <guid>https://t.me/hn_summary/74646</guid>
-      <pubDate>Sat, 17 Feb 2024 09:02:39 GMT</pubDate>
+      <title>[媒体] 隆重推出 Vykee，这是传统产品旅游的创新替代方案。</title>
+      <link>https://t.me/hn_summary/74658</link>
+      <description><![CDATA[显示 HN：我构建了产品游览的替代方案 
+隆重推出 Vykee，这是传统产品之旅的创新替代方案。告别混乱的软件和困惑的用户。借助 Vykee，您可以引导新用户无缝地使用您的产品，确保他们理解并欣赏其所有功能。不再因客户不满而造成收入损失。立即尝试 Vykee，彻底改变您吸引用户的方式。]]></description>
+      <guid>https://t.me/hn_summary/74658</guid>
+      <pubDate>Sat, 17 Feb 2024 11:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人们发现，幼年类人猿喜欢取笑和惹恼长辈，正如雷夫 [...]</title>
-      <link>https://t.me/hn_summary/74645</link>
-      <description><![CDATA[研究发现，幼年类人猿喜欢取笑和惹恼长辈&lt; /a&gt;
-圣地亚哥和莱比锡动物园的录像显示，幼年类人猿喜欢取笑和惹恼长辈。这些有趣的、有时甚至是攻击性的行为包括戳、戳、拉头发和挠痒痒。该研究记录了 142 起戏弄事件，其中 3 至 5 岁的青少年是主要的煽动者。令人惊讶的是，这种行为类似于人类婴儿的戏弄，猿类会寻找目标的反应。这种行为可能有助于测试社会界限并加强关系，其历史可以追溯到 1300 万年前人类和现代猿类的最后共同祖先。]]></description>
-      <guid>https://t.me/hn_summary/74645</guid>
-      <pubDate>Sat, 17 Feb 2024 08:34:30 GMT</pubDate>
+      <title>看看我创建的这项新服务，它可以将使用法学硕士的书籍重写减少 40-60%。</title>
+      <link>https://t.me/hn_summary/74657</link>
+      <description><![CDATA[显示HN：图书重写（减少40-60%）服务法学硕士
+看看我创建的这项新服务，它可以将使用法学硕士的书籍重写减少 40-60%。这不仅仅是一个摘要，而是一个旨在保持质量的浓缩版本。我建立这个是为了帮助自己在更短的时间内阅读更多内容。看一下 Walden 的例子，减少了 53%。尝试一下，看看它如何节省您的时间，同时仍然享受原文的精髓。]]></description>
+      <guid>https://t.me/hn_summary/74657</guid>
+      <pubDate>Sat, 17 Feb 2024 10:49:16 GMT</pubDate>
     </item>
     <item>
-      <title>www.pcloadletter.dev 上的文章认为“敏捷”一词已被玷污并意味着 [...]</title>
-      <link>https://t.me/hn_summary/74644</link>
-      <description><![CDATA[敏捷是一个被玷污的术语
-关于 www.pcloadletter.dev 的文章认为，该术语在软件开发领域，“敏捷”已经变得污点且毫无意义。虽然敏捷宣言的原则很有价值，但该术语本身已被 Scrum 和看板等各种解释和流程所淡化。作者强调了许多开发人员在敏捷方法论方面的负面经历，导致人们对该术语缺乏信任。最终，文章表明“敏捷”这个词不再有效地传达它本应代表的原则，使其成为行业中一个空洞的流行词。]]></description>
-      <guid>https://t.me/hn_summary/74644</guid>
-      <pubDate>Sat, 17 Feb 2024 08:16:22 GMT</pubDate>
+      <title>“被盗”的无线电塔已经失踪至少一年，引发了人们的兴趣和调查 [...]</title>
+      <link>https://t.me/hn_summary/74656</link>
+      <description><![CDATA[“被盗”无线电塔失踪至少一年
+“被盗”的无线电塔已经失踪至少一年了，引起了一些人的兴趣和调查，他们在访问 WJLX 塔现场后制作了视频。视频显示杂草丛生，内部看起来被遗弃，还有一个断开的电表。此外，五点 WJBE 的 CP 并未从其许可站点进行传输，而是使用未经适当许可的水塔。这引发了人们对大南社区广播公司可能存在违规行为的质疑，该广播公司也获得了汉密尔顿电台的非通信许可。这种情况引发了人们对遵守广播法规的担忧。]]></description>
+      <guid>https://t.me/hn_summary/74656</guid>
+      <pubDate>Sat, 17 Feb 2024 10:45:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：从工程师到经理：我爱什么，我恨什么</title>
-      <link>https://t.me/hn_summary/74643</link>
-      <description><![CDATA[从工程师到经理：我爱什么，我恨什么
-标题：从工程师到经理：我爱什么，我恨什么
-
-从前端开发人员过渡到工程管理职位后，我经历了新角色的高潮和低谷。我喜欢管理的地方在于它能够对产品和团队产生真正的影响，它提供了有前途的职业机会，可以跨行业应用的可转移技能，以及不断跟上最新技术趋势所带来的轻松感。然而，我也讨厌某些方面，比如与公司的废话打交道、应对尴尬的社交场合、感受到办公时间的压力以及面对管理行为的漫长反馈循环。尽管面临挑战，但向管理层的转变是一次有益的过山车之旅，它扩展了我的技能，并为工程工作提供了新的视角。]]></description>
-      <guid>https://t.me/hn_summary/74643</guid>
-      <pubDate>Sat, 17 Feb 2024 08:12:19 GMT</pubDate>
+      <title>[媒体] 苹果因其在欧盟删除 Web 应用程序 (PWA) 的决定而受到批评，声称其 [...]</title>
+      <link>https://t.me/hn_summary/74655</link>
+      <description><![CDATA[IPissed：Apple正在寻求网络功能来保护近100B的App Store税收
+苹果因声称遵守《数字市场法》而在欧盟删除网络应用程序 (PWA) 的决定而受到批评。此举被视为有意遏制竞争并保护其应用商店税收。争议在于苹果公司规避了 DMA 的要求，并拒绝允许第三方浏览器进入 iOS 系统。该公司采取这一行动的理由，包括安全问题和低采用率，正受到误导和自私的质疑。这种强烈反对促使人们呼吁监管机构进行干预，确保 iOS 上的网络开发者和用户公平竞争。]]></description>
+      <guid>https://t.me/hn_summary/74655</guid>
+      <pubDate>Sat, 17 Feb 2024 10:41:09 GMT</pubDate>
     </item>
     <item>
-      <title>blog.fpmurphy.com 上的 GRUB2 Modules (2010) 探索了 GRUB2 的模块化架构，类似于 [...]</title>
-      <link>https://t.me/hn_summary/74642</link>
-      <description><![CDATA[GRUB2 模块 (2010)
-blog.fpmurphy.com 上的 GRUB2 模块 (2010) 进行了探索GRUB2 的模块化架构，将模块比作 Linux 内核模块或 Mozilla Firefox 等软件的插件。这篇文章深入探讨了修改现有模块并使用 grub-emu 模拟器创建自定义模块。值得注意的模块包括那些提供类 Unix 命令、文件系统支持、分区方案和图形功能的模块。加载和卸载模块的命令与 GNU/Linux 中的命令相同。模块是 ELF 格式文件，使用 core.img 处理动态链接。 moddep.lst 中详细介绍了依赖关系映射，展示了模块如何交互。这篇文章全面介绍了 GRUB2 的模块系统。 （根据故事文本的 20% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74642</guid>
-      <pubDate>Sat, 17 Feb 2024 07:33:03 GMT</pubDate>
+      <title>[媒体]在 Vox 的这篇文章中，愤怒被视为一种复杂的情绪，它既可以是动机，也可以是 [...]</title>
+      <link>https://t.me/hn_summary/74654</link>
+      <description><![CDATA[如何让你的愤怒为你服务
+在 Vox 的这篇文章中，愤怒被视为一种复杂的情绪，既可以激励也可以误导。愤怒是一种内部警报，表明不公平或错误需要纠正。虽然愤怒可能导致不当行为和负面健康后果，但它也可以用来带来积极的改变。通过反思愤怒的根源、规划战略应对措施以及在采取行动之前花时间冷静下来，个人可以利用愤怒建设性地解决不公正问题。这种方法可以利用愤怒的好处来获得积极的结果，而不是破坏性的结果。]]></description>
+      <guid>https://t.me/hn_summary/74654</guid>
+      <pubDate>Sat, 17 Feb 2024 10:37:06 GMT</pubDate>
     </item>
     <item>
-      <title>随着变革性人工智能越来越成为现实，我发现自己处于一个暮色世界，不确定是否 [...]</title>
-      <link>https://t.me/hn_summary/74641</link>
-      <description><![CDATA[在人工智能前夜养育孩子
-随着变革性人工智能越来越成为现实，我发现自己处于一个暮色世界，不确定未来会更黑暗还是更光明。历史学家伊恩·莫里斯和本·加芬克尔的见解让我思考在这个不确定的环境中我应该如何抚养我的孩子。他们会面对一个正常的未来，还是一个充满混乱、战争，甚至是后匮乏乌托邦的未来？尽管存在不确定性，但我相信让他们为未知做好准备是值得的。虽然一些家长鼓励人工智能互动以做好准备，但我担心其中的风险。最终，我的目标是关注美好生活的基本特征，让我的孩子在不断变化的世界中追求他们的激情。]]></description>
-      <guid>https://t.me/hn_summary/74641</guid>
-      <pubDate>Sat, 17 Feb 2024 06:34:42 GMT</pubDate>
+      <title>[媒体]Linux 内核项目已成为漏洞 CVE 编号机构 (CNA) [...]</title>
+      <link>https://t.me/hn_summary/74653</link>
+      <description><![CDATA[Linux 是 CVE 编号机构 (CNA)&lt; br/&gt;
+Linux 内核项目已成为 Linux 中发现的漏洞的 CVE 编号机构 (CNA)，追随开源项目控制 CVE 分配的趋势。 Python 项目和 OpenSSF 项目支持了这项工作，curl 项目也紧随其后。尽管 CVE 系统受到批评，但此举允许承担更多责任并实现潜在的改进。由于其独特的位置，内核的进程可能会有所不同，但所有分配的 CVE 都可以在邮件列表和 git 存储库中找到。后续将提供流程更新。]]></description>
+      <guid>https://t.me/hn_summary/74653</guid>
+      <pubDate>Sat, 17 Feb 2024 10:33:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最新的 Nvidia 驱动程序更新版本 551.52 为 Ope 引入了 16 位浮点支持 [...]</title>
-      <link>https://t.me/hn_summary/74640</link>
-      <description><![CDATA[新的 Nvidia 驱动程序为 OpenCL 添加了 16 位浮点支持 [pdf](https ://news.ycombinator.com/item?id=39380745)
-最新的 Nvidia 驱动程序更新版本 551.52 引入了对 OpenCL 的 16 位浮点支持，从而增强了用户的性能和功能。此更新还包括游戏改进、错误修复和需要注意的已知问题。此外，发行说明还详细介绍了驱动程序安全性、GPU 性能计数器和兼容性模式方面的变化。用户还可以找到有关硬件和软件支持的信息以及驱动程序安装指南。总体而言，此更新提供了一系列增强功能和修复，以优化 Nvidia 显卡的用户体验。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74640</guid>
-      <pubDate>Sat, 17 Feb 2024 06:30:39 GMT</pubDate>
+      <title>SP新能源股份有限公司</title>
+      <link>https://t.me/hn_summary/74652</link>
+      <description><![CDATA[Spnec 快速建设吕宋岛中部 200B 比索太阳能发电场
+SP New Energy Corp. 正在加快开发位于吕宋岛中部、耗资 2000 亿比索的太阳能发电厂，该发电厂将成为世界上最大的太阳能项目。 Terra Solar项目将占地3,500公顷，涉及超过500万块太阳能电池板，容量为3500兆瓦和4000兆瓦时的电池存储。预计每年发电50亿千瓦时，将满足菲律宾电网5%的电量和总需求的12%。第一阶段预计于 2026 年完工。该项目由 MGen 可再生能源公司支持，标志着菲律宾对可再生能源的重大投资。]]></description>
+      <guid>https://t.me/hn_summary/74652</guid>
+      <pubDate>Sat, 17 Feb 2024 10:28:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人惊讶的是，旁遮普邦首席部长 Bhagwant Mann 接受了住院治疗 [...]</title>
-      <link>https://t.me/hn_summary/74639</link>
-      <description><![CDATA[印度政客饮用被污染的“圣”河水，入院治疗&lt; /a&gt;
-令人惊讶的是，旁遮普邦首席部长巴格万特·曼 (Bhagwant Mann) 在清洁水体的运动中饮用了受污染的卡利贝因河的水后不久就住院了。尽管他的办公室否认他有任何疾病，并声称他进行了例行检查，但社交媒体用户批评这一行为是“失败的公关噱头”，并将他住院的原因归咎于水污染。曼恩在宗教先知的簇拥下喝水的视频在网上疯传，引发了人们对他住院的真正原因的争议和猜测。该事件引发了人们对印度圣河清洁度的质疑。]]></description>
-      <guid>https://t.me/hn_summary/74639</guid>
-      <pubDate>Sat, 17 Feb 2024 06:24:30 GMT</pubDate>
+      <title>正在寻找人工智能生成的用户头像图像来满足您的开发需求？</title>
+      <link>https://t.me/hn_summary/74651</link>
+      <description><![CDATA[显示 HN：AI 生成的（非真实）用户头像图像发展需求
+正在寻找人工智能生成的用户头像图像来满足您的开发需求？ avatars.tzador.com 就是最好的选择。我们的服务提供开发友好、一致且可过滤的用户头像，看起来和听起来都很真实。这些图像是使用 DALL-E 3 生成的，用户数据是使用 ChatGPT-4 生成的。您可以访问 JSON 格式的所有可用生成的用户配置文件的列表，从而允许您使用各种过滤器或静态 ID 来一致地获取相同的图像。根据您的下一个大型项目的需要混合和匹配参数。立即开始，通过我们独特的头像服务提升您的用户体验。]]></description>
+      <guid>https://t.me/hn_summary/74651</guid>
+      <pubDate>Sat, 17 Feb 2024 10:24:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
