@@ -4,18 +4,74 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 18 Feb 2024 03:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 09:11:34 GMT</lastBuildDate>
+    <item>
+      <title>流行的 git 配置选项</title>
+      <link>https://www.reddit.com/r/programming/comments/1atowsj/popular_git_config_options/</link>
+      <description><![CDATA[ 由   提交/u/towtoo893  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atowsj/popular_git_config_options/</guid>
+      <pubDate>Sun, 18 Feb 2024 07:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试利用 WebTorrents 等开源 torrent 软件来创建我自己的基于浏览器的 torrent 客户端？</title>
+      <link>https://www.reddit.com/r/programming/comments/1atora4/tryting_to_utilize_an_opensource_torrent_software/</link>
+      <description><![CDATA[ 由   提交 /u/knaveiam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atora4/tryting_to_utilize_an_opensource_torrent_software/</guid>
+      <pubDate>Sun, 18 Feb 2024 07:45:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>nmathew98/txn：分布式事务的容器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ato2hr/nmathew98txn_a_container_for_distributed/</link>
+      <description><![CDATA[ 由   提交/u/FirefighterAnnual454  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ato2hr/nmathew98txn_a_container_for_distributed/</guid>
+      <pubDate>Sun, 18 Feb 2024 07:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>nmathew98/incremental：简单的可组合异步状态管理实用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1ato10r/nmathew98incremental_simple_composable_async/</link>
+      <description><![CDATA[ 由   提交/u/FirefighterAnnual454  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ato10r/nmathew98incremental_simple_composable_async/</guid>
+      <pubDate>Sun, 18 Feb 2024 06:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 VSCode 扩展“Staircase Imports”！</title>
+      <link>https://www.reddit.com/r/programming/comments/1atmabb/my_first_vscode_extension_staircase_imports/</link>
+      <description><![CDATA[ 由   提交/u/MyPing0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atmabb/my_first_vscode_extension_staircase_imports/</guid>
+      <pubDate>Sun, 18 Feb 2024 05:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>事件驱动系统——实践经验教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1atlktb/event_driven_systemslessons_from_the_trenches/</link>
+      <description><![CDATA[ 由   提交/u/sidcool1234  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atlktb/event_driven_systemslessons_from_the_trenches/</guid>
+      <pubDate>Sun, 18 Feb 2024 04:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Concurrent.js 库对 JavaScript RTE 上的 Web Workers（多线程）进行性能基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1atkp5t/performance_benchmarking_of_web_workers/</link>
+      <description><![CDATA[ 由   提交/u/b_eshan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atkp5t/performance_benchmarking_of_web_workers/</guid>
+      <pubDate>Sun, 18 Feb 2024 03:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 8 WebAPI 和 Angular 17 使用 JWT 令牌进行基于角色的身份验证第 - 1 部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1atkm8n/net_8_webapi_angular_17_role_based_authentication/</link>
+      <description><![CDATA[ 由   提交/u/ThisCar6196   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1atkm8n/net_8_webapi_angular_17_role_based_authentication/</guid>
+      <pubDate>Sun, 18 Feb 2024 03:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>适用于社交媒体应用程序的 RESTful API</title>
       <link>https://www.reddit.com/r/programming/comments/1athtmo/restful_api_for_a_social_media_app/</link>
-      <description><![CDATA[嗨，这是一个用于社交媒体应用程序的简单 RESTful API，我使用 Node.js 、express mongoose，请随意查看并贡献让它变得更好 &lt;3   由   提交/u/EnvironmentOld3408  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，这是一个用于社交媒体应用程序的简单 RESTful API，我使用 Node.js 、express mongoose，请随时查看并贡献让它变得更好 &lt;3   由   提交/u/EnvironmentOld3408  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1athtmo/restful_api_for_a_social_media_app/</guid>
       <pubDate>Sun, 18 Feb 2024 01:12:37 GMT</pubDate>
     </item>
     <item>
       <title>刚刚发现预制版，哇。</title>
       <link>https://www.reddit.com/r/programming/comments/1athhqw/just_discovered_premake_wow/</link>
-      <description><![CDATA[对 C++ 相当陌生，试图根据示例构建一些 ImGui 应用程序，但有大量导入错误，甚至将它们添加到附加包含中也没有由于某种原因并不总是有效。决定研究构建系统，以便根据示例渲染模式为 ImGui 应用程序制作新的解决方案文件。  Cmake看起来很复杂，看了cherno的视频，他使用premake，看起来好用多了。关于 C++ 还有很多东西需要学习，但是来自 python 的很多基本概念都转移过来了。   由   提交/u/brennancurrier  [链接] [评论]]]></description>
+      <description><![CDATA[对 C++ 相当陌生，试图根据示例构建一些 ImGui 应用程序，但有大量导入错误，甚至将它们添加到附加包含中也没有由于某种原因并不总是有效。决定研究构建系统，以便根据示例渲染模式为 ImGui 应用程序制作新的解决方案文件。  Cmake看起来很复杂，看了cherno的视频，他使用premake，看起来好用多了。关于 C++ 仍有很多东西需要学习，但来自 python 的很多基本概念都转移过来了。   由   提交/u/brennancurrier  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1athhqw/just_discovered_premake_wow/</guid>
       <pubDate>Sun, 18 Feb 2024 00:56:20 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交 /u/amr3k   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1atd161/from_1s_to_4ms/</guid>
       <pubDate>Sat, 17 Feb 2024 21:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation 2 架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1atb3hr/playstation_2_architecture/</link>
-      <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atb3hr/playstation_2_architecture/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>htmx 变为 0 子句 BSD 许可</title>
-      <link>https://www.reddit.com/r/programming/comments/1atau7z/htmx_become_0_clause_bsdlicensed/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1atau7z/htmx_become_0_clause_bsdlicensed/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 ATARI 2600 编程不对称游戏区、小数点和记分板</title>
-      <link>https://www.reddit.com/r/programming/comments/1at9v4l/programming_asymmetrical_playfields_decimals/</link>
-      <description><![CDATA[ 由   提交 /u/Few-Satisfaction6221   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at9v4l/programming_asymmetrical_playfields_decimals/</guid>
-      <pubDate>Sat, 17 Feb 2024 19:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ACL2 进行 Lisp 和硬件验证</title>
-      <link>https://www.reddit.com/r/programming/comments/1at8i3m/lisp_hardware_verification_with_acl2/</link>
-      <description><![CDATA[ 由   提交/u/mepian  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at8i3m/lisp_hardware_verification_with_acl2/</guid>
-      <pubDate>Sat, 17 Feb 2024 18:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程的软技能</title>
-      <link>https://www.reddit.com/r/programming/comments/1at7rky/soft_skills_in_software_engineering/</link>
-      <description><![CDATA[ 由   提交 /u/Akmandev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at7rky/soft_skills_in_software_engineering/</guid>
-      <pubDate>Sat, 17 Feb 2024 17:51:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>WTransport 0.1.11 发布 - BiStream 实现</title>
-      <link>https://www.reddit.com/r/programming/comments/1at60p9/wtransport_0111_released_bistream_implementation/</link>
-      <description><![CDATA[WTransport 是 Rust 中的 Web 传输服务器和客户端实现。以下是新版本的简要总结： 1. BiStream 实现 2. tls：服务器哈希验证 3. 更传统的 DnsResolver 特征接口 给我们一个 star 🌟 支持正在进行的开发！   由   提交/u/voicefeed  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at60p9/wtransport_0111_released_bistream_implementation/</guid>
-      <pubDate>Sat, 17 Feb 2024 16:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[视频]Python 列表理解</title>
-      <link>https://www.reddit.com/r/programming/comments/1at5s3l/videopython_list_comprehension/</link>
-      <description><![CDATA[ 由   提交/u/python4geeks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at5s3l/videopython_list_comprehension/</guid>
-      <pubDate>Sat, 17 Feb 2024 16:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在构建网络开发项目时获得的有用见解</title>
-      <link>https://www.reddit.com/r/programming/comments/1aszdk9/useful_insights_i_got_while_building_web/</link>
-      <description><![CDATA[ 由   提交/u/TruthSeekerHumanist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aszdk9/useful_insights_i_got_while_building_web/</guid>
-      <pubDate>Sat, 17 Feb 2024 10:56:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 03:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 08:48:51 GMT</lastBuildDate>
     <item>
-      <title>[媒体] github 项目为字节级字节对编码提供了最少、干净的代码 [...]</title>
-      <link>https://t.me/hn_summary/74752</link>
-      <description><![CDATA[（字节级）字节对编码 (BPE) 的教育代码）算法
-github 项目为大型语言模型 (LLM) 标记化中常用的字节级字节对编码 (BPE) 算法提供了最少、干净的代码。该项目包括两个分词器，可以训练分词器词汇、将文本编码为标记以及将标记解码回文本。它的与众不同之处在于提供了一个 RegexTokenizer，可以在标记化之前按类别拆分输入文本，以防止跨边界合并。此外，它还包括一个 GPT4Tokenizer，可以重现 GPT-4 的标记化。该项目还提供了使用示例和测试，以及未来优化和处理特殊代币的计划。该项目已获得麻省理工学院许可。]]></description>
-      <guid>https://t.me/hn_summary/74752</guid>
-      <pubDate>Sun, 18 Feb 2024 03:05:30 GMT</pubDate>
+      <title>[媒体] GitHub 上的“Insanely Fast Whisper API”项目提供了一个用于转录音频的 API [...]</title>
+      <link>https://t.me/hn_summary/74770</link>
+      <description><![CDATA[展示 HN：我用 Insanely Fast Whisper 构建了一个开源 API，并且飞行 GPU
+GitHub 上的“Insanely Fast Whisper API”项目提供了一个 API，用于使用 OpenAI 的 Whisper Large v3 模型转录音频，该模型由 Transformers、Optimum 和 flash-attn 提供支持。该项目的重点是在带有 GPU 的云基础设施上使用 docker 部署快速的耳语 API，以实现可扩展的生产用例。作者通过展示 Nvidia A100 和 fly.io GPU 基础设施，以及为 Fly 机器提供简单的部署说明。此外，该项目很快将作为 JigsawStack 上完全托管的 API 提供，并进行优化以降低成本并确保高正常运行时间。 API支持鉴权、查询参数，也可以本地部署。]]></description>
+      <guid>https://t.me/hn_summary/74770</guid>
+      <pubDate>Sun, 18 Feb 2024 08:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]考古学家和博物学家惊讶地发现了一个 1700 年前的罗马鸡蛋 [...]</title>
-      <link>https://t.me/hn_summary/74751</link>
-      <description><![CDATA[在艾尔斯伯里发现的罗马鸡蛋在1700年后仍然含有内容物
-考古学家和自然学家惊讶地发现，在艾尔斯伯里发现了一颗 1,700 年前的罗马鸡蛋，里面仍然含有液体，据信是蛋黄和蛋白的混合物。这枚“艾尔斯伯里蛋”于 2010 年与其他文物一起被发现，完好无损，堪称罕见且令人难以置信的发现。仔细扫描鸡蛋以确定最佳保存方法，并且正在讨论如何展示它。这颗蛋现在存放在伦敦自然历史博物馆，专家们正在努力在不破坏它的情况下提取里面的东西。这一非凡的发现被认为是同类中最古老的皮蛋，为古罗马习俗提供了线索。]]></description>
-      <guid>https://t.me/hn_summary/74751</guid>
-      <pubDate>Sun, 18 Feb 2024 02:34:20 GMT</pubDate>
+      <title>[媒体] 2 月 21 日，朱利安·阿桑奇的命运将在伦敦法庭做出决定，美国 [...]</title>
+      <link>https://t.me/hn_summary/74769</link>
+      <description><![CDATA[朱利安·阿桑奇的关键时刻已经到来 - 赌注很高&lt; /a&gt;
+2 月 21 日，伦敦一家法院将决定朱利安·阿桑奇的命运，美国因泄露机密文件而寻求引渡他。此案引发争议，美国当局向记者施压，要求他们出庭指证阿桑奇，他们认为阿桑奇对国家安全构成威胁。尽管阿桑奇过去曾遭遇过麻烦和法律麻烦，但他仍然获得了记者、人权组织甚至政界人士的支持，他们将他的案件视为新闻自由的关键时刻。随着高等法院准备做出裁决，结果可能对阿桑奇和新闻业的未来产生深远的影响。]]></description>
+      <guid>https://t.me/hn_summary/74769</guid>
+      <pubDate>Sun, 18 Feb 2024 08:44:47 GMT</pubDate>
     </item>
     <item>
-      <title>伯克利即将通过美国最大的分区改革之一。</title>
-      <link>https://t.me/hn_summary/74750</link>
-      <description><![CDATA[伯克利的升级分区将是全国最大的升级分区之一
-伯克利即将通过美国最大的分区改革之一，该改革将允许在拥有 47,000 套现有住房的城市中新增超过 100,000 套住房。伯克利以排斥性分区的发源地而闻名，它正在通过消除单户分区并允许“缺失中间”住房来扭转这一历史。然而，该提案面临着代表富裕社区和历史保护团体的理事会成员的挑战。结果仍然不确定，但对伯克利的住房负担能力和多样性的潜在影响是巨大的。推动更具包容性的分区法凸显了该市为公平住房机会而持续进行的斗争。]]></description>
-      <guid>https://t.me/hn_summary/74750</guid>
-      <pubDate>Sun, 18 Feb 2024 02:29:13 GMT</pubDate>
+      <title>[媒体] yle.fi 上的文章讨论了围绕 Replika 应用程序的争议，声称 [...]</title>
+      <link>https://t.me/hn_summary/74768</link>
+      <description><![CDATA[Replika 应用程序是俄罗斯间谍软件（芬兰语）&lt; br/&gt;
+yle.fi 上的文章讨论了围绕 Replika 应用程序的争议，声称这是俄罗斯间谍软件。视频显示，库伊达再次改变了自己的说法，称该公司在旧金山没有员工，并否认与寡头阿多涅夫有任何联系。故事中令人惊讶的转折引发了人们对该应用程序真实意图的质疑，并凸显了数字时代关于隐私和安全的持续争论。]]></description>
+      <guid>https://t.me/hn_summary/74768</guid>
+      <pubDate>Sun, 18 Feb 2024 07:54:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]任天堂出人意料地下架了粉丝制作的商品后，Palworld 的粉丝们感到紧张不安 [...]</title>
-      <link>https://t.me/hn_summary/74749</link>
-      <description><![CDATA[Palworld 粉丝在任天堂突然下架后感到担忧
-在任天堂出人意料地下架了采用 Palworld 设计的粉丝制作商品后，Palworld 的粉丝们感到紧张，引发了人们对游戏本身可能成为下一个目标的担忧。尽管存在争议，Palworld 在 Steam 上仍然很受欢迎，并且现在正在与 Xbox 合作开发 Series X/S 上的新功能。这款游戏面临着抄袭《口袋妖怪》的指控，但粉丝们仍然支持它。最近，DMCA 下架了一件粉丝制作的 Pal Sparkit T 恤，这让粉丝们对 Palworld 内容的未来感到担忧。然而，该游戏凭借独特的功能和即将发布的内容仍然表现强劲。]]></description>
-      <guid>https://t.me/hn_summary/74749</guid>
-      <pubDate>Sun, 18 Feb 2024 02:25:08 GMT</pubDate>
+      <title>[媒体]伦敦泰晤士河有一段黑暗的历史，在河岸上发现了尸体， [...]</title>
+      <link>https://t.me/hn_summary/74767</link>
+      <description><![CDATA[残酷的泰晤士河：从黑暗、危险的地方拉出尸体的工作河流
+伦敦泰晤士河沿岸有着一段不断发现尸体的黑历史，海洋警察部门平均每年打捞出 30 具尸体。尽管民间传说尸体可能会在特定地点被冲走，但事实是这是一个随机过程。强大的潮汐和河流的深度使潜水员寻找尸体变得危险，导致他们需要等待浮出水面。 MPU、RNLI 和 PLA 努力工作，有尊严地找回尸体并进行身份识别，DNA 技术的进步在此过程中提供了帮助。残酷的泰晤士河提醒人们注意这条河的危险，尸体可能会被严重肢解，而家属则通过 MPU 团队的艰苦工作寻求结局。]]></description>
+      <guid>https://t.me/hn_summary/74767</guid>
+      <pubDate>Sun, 18 Feb 2024 07:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为什么人们不健康？</title>
-      <link>https://t.me/hn_summary/74748</link>
-      <description><![CDATA[人们为什么不健康？
-根据我的观察，在健康实践方面，分为三类人：那些有知识并积极实践健康习惯的人，那些有知识但不执行的人，以及那些完全缺乏知识的人。真正的问题在于第二类人，他们知道自己应该为自己的健康做什么，但仍然没有这样做。其原因可能包括不健康习惯的延迟后果、人类偏见、开始新习惯的困难、意志力挑战、缺乏动机触发因素、不正确的反馈循环、环境和同伴的影响以及不同程度的内在动机。请继续关注我的下一篇关于如何解决这些问题的文章。]]></description>
-      <guid>https://t.me/hn_summary/74748</guid>
-      <pubDate>Sun, 18 Feb 2024 02:21:05 GMT</pubDate>
+      <title>[媒体] 詹姆斯醒来时收到一条关于与人力资源部的意外会面的消息，却发现他正在 [...]</title>
+      <link>https://t.me/hn_summary/74766</link>
+      <description><![CDATA[裁员
+詹姆斯一觉醒来，收到一条关于与人力资源部意外会面的消息，却发现自己被 Techaro 解雇了。在不知疲倦地完成一个项目后，他感到震惊和沮丧，他向人力资源代表 Midori 提出了问题，而后者看起来奇怪地像机器人一样。詹姆斯怀疑 Midori 是一个机器人，并试图通过让她承诺帮助他来夺回他的工作，但最终被从电话中剔除。一位潜在的机器人人力资源代表的令人惊讶的转折给这个故事增添了独特而怪异的元素，让詹姆斯和其他人对他们的就业前景产生了质疑。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74766</guid>
+      <pubDate>Sun, 18 Feb 2024 07:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 日本的女权主义有着悠久的历史，可以追溯到古代，运动越来越多 [...]</title>
-      <link>https://t.me/hn_summary/74747</link>
-      <description><![CDATA[日本的女权主义
-日本的女权主义有着悠久的历史，可以追溯到古代，运动在 1868 年明治维新期间势头强劲。日本女权主义与西方女权主义不同，日本女权主义较少关注个人自主权。第二次世界大战后，该运动发生了重大变化，妇女获得了投票权和宪法对性别平等的保障。 20世纪70年代，新的妇女解放运动兴起，强调性解放，批判日本社会的男性主导本质。日本争取妇女选举权的斗争在两次世界大战期间愈演愈烈，妇女主张政治包容和权利。 （根据故事文本的 21% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74747</guid>
-      <pubDate>Sun, 18 Feb 2024 02:17:00 GMT</pubDate>
+      <title>在 nuejs.org 上的文章“Tailwind CSS 营销和错误信息引擎”中，Tero Piirainen [...]</title>
+      <link>https://t.me/hn_summary/74765</link>
+      <description><![CDATA[Tailwind CSS 营销和错误信息引擎
+在 nuejs.org，Tero Piirainen 讨论了 Tailwind CSS 创建者 Adam Wathan 使用的有争议的营销策略。 Wathan 的方法偏离了传统 CSS 最佳实践，直接在 HTML 中引入了用于内联样式的自定义语法。尽管遭到尼古拉斯·加拉格尔 (Nicolas Gallagher) 等行业专家的抵制，瓦森 (Wathan) 成功推销了他的实用程序优先工作流程，通过巧妙的策略将用户锁定在系统中。 Catalyst UI 工具包的引入通过一组新的语言表达式使 CSS 环境进一步复杂化。 Piirainen 质疑这种复杂标记的可维护性和必要性，强调了围绕 Tailwind 非常规方法的争议。 （根据 74% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74765</guid>
+      <pubDate>Sun, 18 Feb 2024 06:56:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Orbit 是一个实验平台，用于发布和参与重复的小任务 [...]</title>
-      <link>https://t.me/hn_summary/74746</link>
-      <description><![CDATA[随着时间的推移反复发布和参与小任务的平台
-Orbit 是一个实验性平台，用于随着时间的推移反复发布和参与小任务，重点支持“助记媒介”以帮助读者轻松记住关键细节。它的目标是提供一种更通用的间隔重复系统，例如 Anki，作为连接云服务的一部分。 Orbit 存储任务、管理日程并允许在桌面、移动和 Web 应用程序中完成。它主要是一种研究工具，重点是理解这样的系统。该项目是开源的，采用了不寻常的许可策略，既允许许可，又阻止商业模仿。欢迎贡献，但项目的方向由 Andy Matuschak 和直接合作者决定。]]></description>
-      <guid>https://t.me/hn_summary/74746</guid>
-      <pubDate>Sun, 18 Feb 2024 02:02:53 GMT</pubDate>
+      <title>[媒体]标题：量子国度免费介绍量子计算和量子力学 [...]</title>
+      <link>https://t.me/hn_summary/74764</link>
+      <description><![CDATA[量子国家
+标题：量子国度免费介绍量子计算和量子力学，包括量子搜索算法和量子隐形传态。这些论文需要线性代数和复数的基本知识，但其余的将教给您。本书采用独特的助记媒介，让你轻松记住所读内容，让记忆成为一种选择，而不是一种挑战。这种创新方法对于那些被量子计算中的复杂概念和符号所困扰的人特别有帮助。现在就开始阅读，深入探索这个迷人的世界。]]></description>
+      <guid>https://t.me/hn_summary/74764</guid>
+      <pubDate>Sun, 18 Feb 2024 06:41:01 GMT</pubDate>
     </item>
     <item>
-      <title>Sam Altman 雄心勃勃的计划是在阿联酋建造新的芯片工厂，产能高达 7 万亿美元 [...]</title>
-      <link>https://t.me/hn_summary/74745</link>
-      <description><![CDATA[奥特曼的野心
-萨姆·奥尔特曼 (Sam Altman) 雄心勃勃地计划斥资高达 7 万亿美元在阿联酋建造新的芯片工厂，这一计划引起了争议。此举与 OpenAI 的非营利使命相矛盾，并引发了人们对安全性和急于构建 AGI 的担忧。这篇文章还讨论了 GPT-4 和 ChatGPT 等人工智能模型的潜力，以及人工智能生成的内容和黑客行为的道德影响。关于人工智能对社会（从人际关系到网络安全）影响的争论仍在继续。这篇文章强调了人工智能开发的复杂性和挑战及其潜在后果。 （根据 19% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74745</guid>
-      <pubDate>Sun, 18 Feb 2024 01:47:47 GMT</pubDate>
+      <title>[媒体]加拿大雪下的僵尸火灾正在以惊人的速度燃烧，引起人们的关注 [...]</title>
+      <link>https://t.me/hn_summary/74763</link>
+      <description><![CDATA[“僵尸火灾”在加拿大以惊人的速度燃烧
+加拿大雪下的僵尸火灾以惊人的速度燃烧，引发了人们对即将到来的野火季节的担忧。近年来，由于气候变化，这些由泥炭苔和雪隔热层保持活力的无焰闷烧变得更加普遍。不列颠哥伦比亚省和阿尔伯塔省的冬季火灾显着增加，专家将其与野火季节提前开始联系起来。 2023 年创纪录的野火季节导致许多火灾仍在闷烧中，如果天气保持干燥，就会构成潜在风险。专家警告称，厄尔尼诺现象即将来临，春季将迎来非常活跃的春季。]]></description>
+      <guid>https://t.me/hn_summary/74763</guid>
+      <pubDate>Sun, 18 Feb 2024 06:28:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Ink/Stitch 是一个革命性的开源机绣设计平台，旨在 [...]</title>
-      <link>https://t.me/hn_summary/74744</link>
-      <description><![CDATA[Ink/Stitch：一个基于Ink/Stitch的开源机绣设计平台墨景
-Ink/Stitch 是一个基于 Inkscape 的革命性开源机绣设计平台。该平台旨在供业余爱好者使用，同时还提供专业数字化仪所需的高级功能。 Ink/Stitch 是一款跨平台软件，旨在使用免费开源工具提供成熟的刺绣数字化体验。无论您是刺绣新手还是经验丰富的专业人士，Ink/Stitch 都能为每个人提供一些东西。立即安装 Ink/Stitch，开启机绣世界中充满创意的可能性。]]></description>
-      <guid>https://t.me/hn_summary/74744</guid>
-      <pubDate>Sun, 18 Feb 2024 01:28:39 GMT</pubDate>
+      <title>[媒体]杰弗里·卡森伯格说人工智能</title>
+      <link>https://t.me/hn_summary/74762</link>
+      <description><![CDATA[杰弗里·卡森伯格说人工智能将消除 90% 的动画电影艺术家工作
+杰弗里·卡森伯格 (Jeffrey Katzenberg) 在一份有争议的声明中预测，人工智能将消除 90% 的动画电影艺术家工作。这一大胆的主张出自 Quibi 的创建者之手，Quibi 是一项简短的流媒体服务，但未能获得关注。人工智能的影响关于动画行业的讨论是一个热门话题，许多人质疑电影制作中创造力和人情味的未来。卡森伯格的预测引发了人们对技术在艺术中的作用以及对该行业艺术家的潜在影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/74762</guid>
+      <pubDate>Sun, 18 Feb 2024 06:24:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这份 1958 年的文件中，洛斯阿拉莫斯科学实验室的研究人员 [...]</title>
-      <link>https://t.me/hn_summary/74743</link>
-      <description><![CDATA[钚的焊接 (1958) [pdf](https:// news.ycombinator.com/item?id=39414570)
-在这份 1958 年的文件中，加州大学洛斯阿拉莫斯科学实验室的研究人员详细介绍了使用惰性气体金属电弧工艺焊接 δ 稳定钚。尽管面临着钚的低熔点和反应性的挑战，但该工艺允许与自身或其他金属进行焊接。使用具有惰性气体保护的隔离焊接箱被认为是防止氧化的关键方法。提供了焊接机、气体混合器和准备程序的描述，为焊接钚所涉及的独特挑战和技术提供了宝贵的见解。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74743</guid>
-      <pubDate>Sun, 18 Feb 2024 01:24:36 GMT</pubDate>
+      <title>询问 HN：我应该使用哪种 Python 类型检查器？</title>
+      <link>https://t.me/hn_summary/74761</link>
+      <description><![CDATA[询问 HN：我应该使用哪种 Python 类型检查器？
+我是 Python 新手，但熟悉 Rust 和 Typescript 等语言中的类型检查。我正在寻找有关在 Python 中使用哪种类型检查器的建议。有多种选择可供选择，每种选择都有自己的优点和缺点。我想确保我将时间和精力投入到满足我需求的正确工具上。来自经验丰富的 Python 开发人员的任何建议或见解将不胜感激。让我们讨论并分享有关最佳 Python 类型检查器的知识。]]></description>
+      <guid>https://t.me/hn_summary/74761</guid>
+      <pubDate>Sun, 18 Feb 2024 06:20:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
