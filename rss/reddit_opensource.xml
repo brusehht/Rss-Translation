@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 18 Feb 2024 12:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 15:13:11 GMT</lastBuildDate>
+    <item>
+      <title>NxtCMS - NodeJS 无头 CMS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</link>
+      <description><![CDATA[一项开源计划，旨在为下一代应用程序构建和维护功能齐全的 CMS。在 MongoDB 的支持下使用 NodeJS 和 NextJS 构建。 欢迎合作者加入团队并帮助我们开发。 Github : https://github.com/nxtopen/nxtcms 加入我们！  &amp; #32；由   提交/u/gilzonme  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</guid>
+      <pubDate>Sun, 18 Feb 2024 15:03:27 GMT</pubDate>
+    </item>
     <item>
       <title>自动化网络抓取开源库反馈和提示</title>
       <link>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</link>
-      <description><![CDATA[嗨，我正在和一群人一起开发一个开源库，目标是让这个项目成为首选用于抓取的工具库，类似于数据科学中的 pandas，与经典库的区别在于利用 LLM 和代理技术，我知道这是一个非常雄心勃勃的目标，为此我向您询问一些方法的提示扩展维护者/贡献者以及如何发展此类项目。 此处存储库：https://github.com/ VinciGit00/Scrapegraph-ai   由   提交/u/lurenssss   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在和一群人一起开发一个开源库，目标是让这个项目成为首选用于抓取的工具库，类似于数据科学中的 pandas，与经典库的区别在于利用 LLM 和代理技术，我知道这是一个相当雄心勃勃的目标，为此我向您询问一些技巧和方法扩展维护者/贡献者以及如何发展此类项目。 此处存储库：https://github.com/ VinciGit00/Scrapegraph-ai   由   提交/u/lurenssss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</guid>
       <pubDate>Sun, 18 Feb 2024 12:16:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好， 我正在构建一个开源项目，并且我已经发布了一个基本版本。然而，我有很多想要进行的更新，并且我很难确定首先执行哪些任务的优先级。我现在应该在文档页面上工作吗？或者我应该继续开发更多功能和示例，以便人们在 Github 上遇到该项目时发现可以轻松启动该项目？  我当前的目标是找到用户和维护者，甚至是少量时间的贡献者，他们只会测试项目，然后提供改进反馈。  项目链接：https://github.com/kindsmiles/pyvigate   由   提交 /u/metalvendetta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1asy135/what_is_the_usual_strategy_of_building_and/</guid>
       <pubDate>Sat, 17 Feb 2024 09:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>付钱给人们从事开源工作实际上是件好事</title>
-      <link>https://www.reddit.com/r/opensource/comments/1askjro/paying_people_to_work_on_open_source_is_good/</link>
-      <description><![CDATA[    /u/David_AnkiDroid   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1askjro/paying_people_to_work_on_open_source_is_good/</guid>
-      <pubDate>Fri, 16 Feb 2024 21:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
