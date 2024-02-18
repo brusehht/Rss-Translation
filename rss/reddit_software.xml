@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 00:52:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 03:12:33 GMT</lastBuildDate>
+    <item>
+      <title>寻求人工智能文章摘要器</title>
+      <link>https://www.reddit.com/r/software/comments/1athfh5/seeking_an_ai_article_summarizer/</link>
+      <description><![CDATA[大家好， 我正在寻找一个基于人工智能的文章摘要器（一个可以提供 url 或chrome/firefox 扩展）可以帮助我快速有效地处理信息。作为一名学生，我正在寻找免费或负担得起的选择。以下是我正在寻求的关键功能  该工具应在不牺牲重要细节的情况下抓住文章的精髓。 理想情况下，我更喜欢免费服务。不过，如果预算友好的付费选项能提供显着的价值，我愿意接受。  我已经尝试过：  TLDR 这：  有时太简短，缺乏关键的细微差别。 Kagi Summarizer： 出色的结果，但不幸的是与他们的付费搜索服务相关。 学术性：提供各个部分的结果。各个部分太简短，阅读所有部分会花费太长时间。  您能否建议一些替代方案？我渴望找到一种有效的方式来了解情况而又不花太多钱。   由   提交 /u/rusty Electron   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1athfh5/seeking_an_ai_article_summarizer/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:53:13 GMT</pubDate>
+    </item>
     <item>
       <title>创始人，我提供免费的销售和营销咨询</title>
       <link>https://www.reddit.com/r/software/comments/1ategqp/founders_im_offering_free_sales_marketing/</link>
@@ -48,7 +55,7 @@
       <pubDate>Sat, 17 Feb 2024 17:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>我的任务是组织和重命名各种外部硬盘驱动器中的数万个文件。我认为没有自动化的空间，因为必须使用很多自由裁量权。我应该使用什么软件来学习和记住快捷方式来优化这项耗时的任务？</title>
+      <title>我的任务是组织和重命名各种外部硬盘驱动器中的数万个文件。我认为没有自动化的空间，因为必须使用大量的自由裁量权。我应该使用什么软件来学习和记住快捷方式来优化这项耗时的任务？</title>
       <link>https://www.reddit.com/r/software/comments/1at6eih/ive_been_given_the_task_to_organize_and_rename/</link>
       <description><![CDATA[有人告诉我资源管理器不是正确的选择。 也许是一个基于文本的文件管理程序以提高速度？ 将会有大量的重命名和移动文件，以及解压缩和压缩（RAR 格式）。 感谢您的意见，操作系统是 Windows 11，所有驱动器上的文件系统都是 NTFS . 一些其他硬件详细信息 CPU 为 Intel 第 12 代 i9。 RAM 为 64GB（双通道）。 内部 NVMe SSD 为 4 TB Gen 4。 大多数数据是通过 USB-C 从外部访问的，尽管内部复制块是加快管理速度的一个选项？ 谢谢。 &lt; /div&gt;  由   提交/u/peacefulMercedes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1at6eih/ive_been_given_the_task_to_organize_and_rename/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Sat, 17 Feb 2024 12:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>假设我有一个来自已恢复驱动器的图像文件夹。所有混乱的文件名。有些让我穿着红色衬衫，有些穿着黑色衬衫，还有一些穿着白色衬衫。是否有一个程序可以根据相似性将图像分组，然后创建新文件夹并将图像从程序内重定向到所述文件夹？</title>
+      <title>假设我有一个来自已恢复驱动器的图像文件夹。所有混乱的文件名。有些让我穿着红色衬衫，有些穿着黑色衬衫，还有一些穿着白色衬衫。是否有一个程序可以根据相似性将图像分组在一起，然后创建新文件夹并将图像从程序内重定向到所述文件夹？</title>
       <link>https://www.reddit.com/r/software/comments/1asykd8/say_i_have_an_image_folder_from_a_recovered_drive/</link>
       <description><![CDATA[想要从  C:\Users\me\Pictures\folder 包含所有恢复的图像&lt; /p&gt;  到...  C:\Users\me\Pictures\NEW\RedShirt C:\Users\me\图片\NEW\WhiteShirt C:\Users\me\Pictures\NEW\BlackShirt  （日期是一个完全不同的头痛问题，我不打算打扰)   由   提交 /u/Dulianiti   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1asykd8/say_i_have_an_image_folder_from_a_recovered_drive/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我正在寻找一款具有深色模式画布的白板软件，其功能如下：ctrl + z，擦除全部内容并擦除部分书写内容。&lt; /p&gt;   由   提交/u/_Arthxr  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1asquzu/paint_alternative_with_dark_mode_canvas/</guid>
       <pubDate>Sat, 17 Feb 2024 02:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么软件可以将你的电脑变成文件服务器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1asp8p9/any_software_that_changes_your_pc_to_a_file_server/</link>
-      <description><![CDATA[Windows 10   由   提交 /u/solidprospect   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1asp8p9/any_software_that_changes_your_pc_to_a_file_server/</guid>
-      <pubDate>Sat, 17 Feb 2024 01:07:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

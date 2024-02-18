@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 18 Feb 2024 00:52:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 03:12:39 GMT</lastBuildDate>
+    <item>
+      <title>适用于社交媒体应用程序的 RESTful API</title>
+      <link>https://www.reddit.com/r/programming/comments/1athtmo/restful_api_for_a_social_media_app/</link>
+      <description><![CDATA[嗨，这是一个用于社交媒体应用程序的简单 RESTful API，我使用 Node.js 、express mongoose，请随意查看并贡献让它变得更好 &lt;3   由   提交/u/EnvironmentOld3408  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1athtmo/restful_api_for_a_social_media_app/</guid>
+      <pubDate>Sun, 18 Feb 2024 01:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发现预制版，哇。</title>
+      <link>https://www.reddit.com/r/programming/comments/1athhqw/just_discovered_premake_wow/</link>
+      <description><![CDATA[对 C++ 相当陌生，试图根据示例构建一些 ImGui 应用程序，但有大量导入错误，甚至将它们添加到附加包含中也没有由于某种原因并不总是有效。决定研究构建系统，以便根据示例渲染模式为 ImGui 应用程序制作新的解决方案文件。  Cmake看起来很复杂，看了cherno的视频，他使用premake，看起来好用多了。关于 C++ 还有很多东西需要学习，但是来自 python 的很多基本概念都转移过来了。   由   提交/u/brennancurrier  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1athhqw/just_discovered_premake_wow/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:56:20 GMT</pubDate>
+    </item>
     <item>
       <title>ARM 平台第一款游戏——Acorn Archimedes 计算机上的 Lander 的完整记录重建源代码</title>
       <link>https://www.reddit.com/r/programming/comments/1atgwtq/fully_documented_reconstructed_source_code_of_the/</link>
@@ -90,23 +104,9 @@
       <pubDate>Sat, 17 Feb 2024 16:26:43 GMT</pubDate>
     </item>
     <item>
-      <title>重构十诫</title>
-      <link>https://www.reddit.com/r/programming/comments/1at59wy/the_ten_commandments_of_refactoring/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at59wy/the_ten_commandments_of_refactoring/</guid>
-      <pubDate>Sat, 17 Feb 2024 16:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 移动开发中的功能标志</title>
-      <link>https://www.reddit.com/r/programming/comments/1at57xv/feature_flags_in_ios_mobile_development/</link>
-      <description><![CDATA[ 由   提交/u/rbe​​vans  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1at57xv/feature_flags_in_ios_mobile_development/</guid>
-      <pubDate>Sat, 17 Feb 2024 16:01:37 GMT</pubDate>
-    </item>
-    <item>
       <title>我在构建网络开发项目时获得的有用见解</title>
       <link>https://www.reddit.com/r/programming/comments/1aszdk9/useful_insights_i_got_while_building_web/</link>
-      <description><![CDATA[ 由   提交 /u/TruthSeekerHumanist   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/TruthSeekerHumanist   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aszdk9/useful_insights_i_got_while_building_web/</guid>
       <pubDate>Sat, 17 Feb 2024 10:56:09 GMT</pubDate>
     </item>

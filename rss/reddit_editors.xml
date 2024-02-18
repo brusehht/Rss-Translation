@@ -4,13 +4,27 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 18 Feb 2024 00:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 03:12:27 GMT</lastBuildDate>
     <item>
-      <title>缓慢的时间线</title>
-      <link>https://www.reddit.com/r/editors/comments/1atg2ix/slow_timeline/</link>
-      <description><![CDATA[嘿伙计们，我在达芬奇解析项目一个月后回来，突然时间线变得非常慢。不是播放，只是时间线。因此，每次我想移动一个剪辑（甚至像一帧一样）后，加载都需要 10-15 秒。我也尝试过另一台 Mac，它的性能比我的笔记本电脑好得多，但仍然是一样的。我尝试将所有内容放在更快的硬盘上，但仍然相同.. 我在这里做错了什么吗？我需要交付该项目，但我很害怕......   由   提交/u/Antique_Dress4325  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1atg2ix/slow_timeline/</guid>
-      <pubDate>Sat, 17 Feb 2024 23:49:58 GMT</pubDate>
+      <title>有关仅代理工作流程的问题 - Premiere Pro。</title>
+      <link>https://www.reddit.com/r/editors/comments/1atjmga/question_about_onlyproxy_workflow_premiere_pro/</link>
+      <description><![CDATA[您好！ 几天后，我将收到一个可以完全远程编辑的广告。到目前为止，这对于我的标准来说相当大，所以我想确保不要搞砸。我会做线下工作，其他人做线上工作。我只会使用代理。我建议了这个工作流程，这对我来说似乎不那么痛苦：  他们创建项目，导入源文件，制作代理。 向我发送代理和项目。  他们创建项目，导入源文件，制作代理。 li&gt; 我在该项目中进行编辑并将其发回。 他们重新连接源媒体。  但现在看来他们只会向我发送代理，没有项目。当然，问题始终在于扩展。影片的拍摄时长为 4 分 5 秒，他们还希望剪掉 9 分 16 秒的片段。他们将以 4k 格式拍摄，仍然不确定所需的输出是什么，但代理将以 1080 格式拍摄。 我的问题是：只有代理，我如何设置垂直时间线以便缩放没有搞砸，他们稍后重新连接它？如果宽高比相同，设置为帧大小/缩放到帧大小是很好的，但是尝试从中获取垂直视频怎么样？ 我能想到的唯一解决方案是它们应确保使用相同分辨率的代理，只是比特率非常低。这应该可行，对吧？ 谢谢！ [自动主持人消息：我在 Mac M1 上工作，最新的 Premiere Pro 版本，素材将使用 Alexa 拍摄，不确定是哪一个。]   由   提交 /u/Phedericus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1atjmga/question_about_onlyproxy_workflow_premiere_pro/</guid>
+      <pubDate>Sun, 18 Feb 2024 02:43:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道 Chromebook 上有什么好的编辑软件可以剪切图像的特定部分吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1atj6h7/does_anyone_know_any_good_editing_software_that/</link>
+      <description><![CDATA[ 由   提交/u/That-guy200  /u/That-guy200 reddit.com/r/editors/comments/1atj6h7/does_anyone_know_any_good_editing_software_that/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1atj6h7/does_anyone_know_any_good_editing_software_that/</guid>
+      <pubDate>Sun, 18 Feb 2024 02:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳斯问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1athfwn/nas_questions/</link>
+      <description><![CDATA[您好， 我在家里经营一家小型视频制作公司。我经常让远程编辑需要文件，而 dropbox 删除了他们的非企业无限计划，现在是我构建 NAS 的时候了。值得注意的是，我有 1Gb 光纤互联网。 我想将 NAS 存放在壁橱里的另一个空闲房间中，以免打扰我的理智。 我正在查看QNAP TS-1655 16 盘位 NAS 机箱，可放置 12x22tb Seagate Iron Wolf Pro 硬盘以及可能的 8tb 2.5 Ssd 和另一个 8TB m.2 SSD ​ 我有几个问题。 ​  我想在预算限制内尽可能提高速度。  将 m2 NVME 放入内置区域与购买此产品有区别吗 扩展卡？  如果我只买一个 2.5 SSD 会更好吗？显然 NVME 的速度会更快，但在此应用中使用 2.5 与 NVME 相比是否有优势？ 有没有办法可以卸载到 2.5 SSD 或 NVME SSD（以获得最大速度）它会自动将文件放到 NAS 上。我经常倾倒 2-4tb 的镜头。 我假设我会使 10Gbe 以太网 PCIE 卡饱和，但我听说我可以相当轻松地将 2 条 10Gbe 以太网电缆组合到托管交换机中然后使用这个之类的东西将2个10gbe以太网表运行到我的桌面？&lt; /li&gt;  我希望尽可能减少能源消耗，以便在没有写入或读取任何内容时让 raid 自动关闭驱动器？ 当我不在家庭网络上时，Qnap 桌面或移动应用程序的 UI 怎么样？  有人有类似设置的经验或任何建议吗？    由   提交 /u/mythoughtsaregolden   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1athfwn/nas_questions/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:53:50 GMT</pubDate>
     </item>
     <item>
       <title>三星t7盾格式化问题</title>
@@ -71,7 +85,7 @@
     <item>
       <title>天网实际上是 Avid</title>
       <link>https://www.reddit.com/r/editors/comments/1at08qs/skynet_is_literally_avid/</link>
-      <description><![CDATA[所以我昨晚在看《终结者》，我不禁注意到天网和非线性编辑系统的出现之间的相似之处。它们实际上是完全相同的东西，之间没有任何细微差别。  我的意思是 - 在整个系列中，都有这些超级严肃的场景，人们对从未来送回摧毁我们的智能机器人感到愤怒（“你的眼睛怎么了？”）只是坐在那里思考“孩子，与时俱进！” 我小时候真的很喜欢这部电影，1927 年，但我在重看时注意到，所有角色都那么抗拒改变 - 就像是的，让机甲版的宇宙先生追你是不是很可怕？当然可以，但是生活是可怕的！你需要做的是适应周围的世界，关键是不断学习。 很多人错过的是电影 1 和 2 中终结者和莎拉·康纳之间不断发展的关系，实际上是莎拉接受在她的工作流程中使用生成式人工智能的隐喻。您想知道一些真正会让您想以滑稽方式尖叫的事情吗？天网的发明者？威廉·斯汀贝克。  我的观点是这样的，是的，地球上的每个行业都在发生变化，是的，政府和私营公司正在花费数万亿美元进行技术军备竞赛，是的，许多世界领先的专家都在警告大规模失业，民主处于危险之中，普遍存在遭到破坏，但这都是噪音。  如果你想在生活中取得进步，你需要忽略这些东西 - 忽略它，就像我妻子忽略我失败的喜剧事业一样 - 只需专注于你自己和你的编辑。 记住，当全球骚乱爆发时，人们不会求助于某些“人工智能奇才”，他们不会求助于具有良好人际交往能力、有能力完成客户修正并适当设定费率的人。这些都是对人们的生活至关重要的技能！ 所以，孩子们，打起精神，未来是光明的！    由   提交 /u/NotReallyHero   [链接] [评论]]]></description>
+      <description><![CDATA[所以我昨晚在看《终结者》，我不禁注意到天网和非线性编辑系统的出现之间的相似之处。它们实际上是完全相同的东西，它们之间根本没有任何细微差别。  我的意思是 - 在整个系列中，都有这些超级严肃的场景，人们对从未来送回摧毁我们的智能机器人感到愤怒（“你的眼睛怎么了？”）只是坐在那里思考“孩子，与时俱进！” 我小时候真的很喜欢这部电影，1927 年，但我在重看时注意到，所有角色都那么抗拒改变 - 就像是的，让机甲版的宇宙先生追你是不是很可怕？当然可以，但是生活是可怕的！你需要做的是适应周围的世界，关键是不断学习。 很多人错过的是电影 1 和 2 中终结者和莎拉·康纳之间不断发展的关系，实际上是莎拉接受在她的工作流程中使用生成式人工智能的隐喻。您想知道一些真正会让您想以滑稽方式尖叫的事情吗？天网的发明者？威廉·斯汀贝克。  我的观点是这样的，是的，地球上的每个行业都在发生变化，是的，政府和私营公司正在花费数万亿美元进行技术军备竞赛，是的，许多世界领先的专家都警告大规模失业，民主处于危险之中，普遍存在遭到破坏，但这都是噪音。  如果你想在生活中取得成功，你需要忽略这些东西 - 忽略它，就像我妻子忽略我失败的喜剧事业一样 - 只需专注于你自己和你的编辑。 记住，当全球骚乱爆发时，人们不会求助于某些“人工智能奇才”，他们不会求助于具有良好人际交往能力、有能力完成客户修正并适当设定费率的人。这些都是对人们的生活至关重要的技能！ 所以，孩子们，打起精神，未来是光明的！    由   提交 /u/NotReallyHero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1at08qs/skynet_is_literally_avid/</guid>
       <pubDate>Sat, 17 Feb 2024 11:53:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在尝试同步纪录片的多个摄像机。摄像机有很多停止和启动的过程，并且经常分开记录事件的不同部分，然后返回同一地点拍摄同一件事。当我没有匹配的 TC 或 clap 时，如何同步此 Avid？我知道使用 Premiere 和 Plural Eyes 或 Syncaila 可能会更容易，但这不是这个项目的选择。   由   提交 /u/obijacobghul   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1asm483/avid_sync_with_no_clap_or_tc/</guid>
       <pubDate>Fri, 16 Feb 2024 22:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>外部编辑存储 - NVME 16tb 可以吗？ 1k 英镑是个好价格吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ask393/external_editing_storage_would_an_nvme_16tb_work/</link>
-      <description><![CDATA[大家好， 我想知道是否有人对在速度和大小之间取得良好平衡的外部存储 (DAS) 有一些建议......  我当前的编辑工作流程是使用 4tb Extreme Pro 进行实时项目，将其镜像到另一个 4tb Extreme Pro，然后在完成后存档到家用 G-Raid 12tb HDD（使用 Backblaze 备份）。我在办公室外使用 MacBook Pro 进行编辑。我的 Extreme Pro SSD 已满，我的 G Raid 也几乎已满。因此，我正在寻找一种可以替代 G-Raid 的产品，并且其速度足以编辑 SSD 中的项目溢出。 （内容通常是在 fx6/fx3 上拍摄的 4k 镜头）。 预算为 1-1,500 英镑。人们对以下选项有何想法，还有其他选项需要考虑吗？ 选项： 1. OWC Mercury Pro U.2 双 3.5&quot;带 SoftRAID 的 NVMe 机箱，带有 x4 Crucial P3 Plus 4TB M.2 PCIe Gen4 NVMe（RAID 0 中为 16tb）。 1000 英镑 - 这是一个可行的选择吗？  OWC 40TB Gemini Thunderbolt 3 扩展坞和双驱动器（更多存储和冗余，但速度较差？）  ​    ;由   提交/u/Technical-Custard975   reddit.com/r/editors/comments/1ask393/external_editing_storage_would_an_nvme_16tb_work/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ask393/external_editing_storage_would_an_nvme_16tb_work/</guid>
-      <pubDate>Fri, 16 Feb 2024 21:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>不确定我是否应该从 Premiere Pro 切换到 Davinci（工作速度）</title>
-      <link>https://www.reddit.com/r/editors/comments/1ashfha/not_sure_if_i_should_switch_to_davinci_from/</link>
-      <description><![CDATA[嗨！ 我多年来一直在剪辑电影并从中赚钱。主要针对 YouTube 用户，有时也针对个人或公司。我目前使用 Adob​​e，老实说我很讨厌它。月费，好几年都没有解决的问题。使用 Adob​​e 程序是在计算机上工作时可能遇到的最糟糕的体验之一，但我已经以这种方式工作了大约 5 年，当一切正常时（有时会发生这种情况），它进展得很快，尤其是当我有我自己的方法、预设等。我的问题是 - 您有使用这两个程序的经验吗？您能否说，例如，许多事情实际上可以在 Premiere Pro 中更快地完成？这是让我坚持这个邪恶计划的唯一也是最后一件事——工作速度。我知道达芬奇是免费的，我可以自己检查所有内容，我很快就会做，但我也想知道你的意见:)    由   提交 /u/KinderboomX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ashfha/not_sure_if_i_should_switch_to_davinci_from/</guid>
-      <pubDate>Fri, 16 Feb 2024 19:36:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
