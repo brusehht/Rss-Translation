@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 00:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 08:56:23 GMT</lastBuildDate>
     <item>
-      <title>J vs.</title>
-      <link>https://t.me/hn_summary/74879</link>
-      <description><![CDATA[J 与 K 举例 (2005)&lt; br/&gt;
-网页内容通过简单算术、列表操作、列表元素、索引、排序、列表聚合、函数组合和用户定义函数的示例来比较 J 和 K 编程语言。 J 由 JSoftware Inc. 开发，K 则由 Kx Inc. 开发，展示了完成类似任务的不同语法和方法。内容突出了每种语言的独特之处，例如 J 使用括号来改变顺序，K 使用符号进行运算。通过比较，可以深入了解这两种语言的优势和差异，供程序员探索。 （根据 39% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74879</guid>
-      <pubDate>Mon, 19 Feb 2024 00:39:30 GMT</pubDate>
+      <title>生物学家在深海中突破性地发现了四种新的章鱼物种 [...]</title>
+      <link>https://t.me/hn_summary/74921</link>
+      <description><![CDATA[生物学家在哥斯达黎加近海深海发现了四种新的章鱼物种&lt; /a&gt;
+生物学家在哥斯达黎加附近的深海中突破性地发现了四种新的章鱼物种。这一发现，包括稀有的幼体和热液喷口，引起了科学家们的兴奋。这些章鱼是在通风口附近发现的，对于通常独居的生物来说，这是一个令人惊讶的栖息地选择。这一发现为章鱼研究打开了新的大门，并可能导致对深海生态系统的进一步探索。包括多拉多章鱼在内的新物种具有独特的特征，正在接受密切研究。这一发现标志着了解哥斯达黎加太平洋深海的重要一步，并凸显了海洋研究国际合作的重要性。]]></description>
+      <guid>https://t.me/hn_summary/74921</guid>
+      <pubDate>Mon, 19 Feb 2024 08:56:23 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者探讨了与欺诈相关的规模不经济的概念 [...]</title>
-      <link>https://t.me/hn_summary/74878</link>
-      <description><![CDATA[欺诈、垃圾邮件、支持和审核方面的规模不经济
-在本文中，作者探讨了与在线平台上的欺诈、垃圾邮件、支持和审核相关的规模不经济概念。他们认为，与较大平台相比，较小平台的诈骗、垃圾邮件和欺诈内容发生率往往较低。作者对“只有大公司才能有效处理审核和反垃圾邮件工作”的普遍看法提出了挑战，并列举了小公司在这些领域优于大公司的例子。他们还讨论了支持质量如何随着平台规模的增加而下降，以及用户对内容审核的分歧如何在较大的平台上变得更加普遍。作者批评了规模经济总是让用户受益的观点，并强调了小公司提供更好用户体验的例子。最终，本文对网络世界中越大越好的假设提出了质疑。 （根据故事文本的 4% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74878</guid>
-      <pubDate>Mon, 19 Feb 2024 00:35:26 GMT</pubDate>
+      <title>[媒体] Oxide Computer 正在利用 3,000 磅重的刀片服务器重新构想私有云，其目标是 [...]</title>
+      <link>https://t.me/hn_summary/74920</link>
+      <description><![CDATA[Oxide 将私有云重新构想为 3000 磅重的刀片服务器
+Oxide Computer 正在利用 3,000 磅重的刀片服务器重新构想私有云，旨在彻底改变数据中心计算。 Oxide 的机架规模系统由前 Joyent 和 Sun Microsystems 专家创立，集成了直流供电和定制软件等超大规模功能，可实现高效电源管理。该平台配备 64 核 Epyc 3 处理器和定制虚拟机管理程序，提供主动工作负载管理和网络功能。虽然硬件选项有限，但 Oxide 计划推出基于 AMD Turin 平台的新计算节点。该公司对 AMD MI300A 等 APU 的关注展示了一种独特的加速计算方法。 Oxide 在 GitHub 上的开源软件堆栈确保了其创新硬件的使用寿命。]]></description>
+      <guid>https://t.me/hn_summary/74920</guid>
+      <pubDate>Mon, 19 Feb 2024 08:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>为什么振幅是复数？</title>
-      <link>https://t.me/hn_summary/74877</link>
-      <description><![CDATA[为什么振幅是复数？ (2018)
-大自然对量子力学的选择让许多人质疑为什么振幅是复数。这篇文章深入研究了量子力学中复数的必要性，探讨了使用实数或四元数的含义。令人惊讶的是，虽然复数是许多量子现象的基础，但实数在大多数量子计算应用中就足够了。这篇文章强调了复数在均匀随机概率分布和量子态局部断层扫描等场景中的优雅和必要性。复数的独特性质可以更精确地确定量子态，展示了它们在量子世界中不可或缺的作用。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74877</guid>
-      <pubDate>Mon, 19 Feb 2024 00:20:19 GMT</pubDate>
+      <title>[媒体]空中客车公司首席执行官 Guillaume Faury 宣布了 A320neo 的继任者计划，该飞机将继续 [...]</title>
+      <link>https://t.me/hn_summary/74919</link>
+      <description><![CDATA[A320neo 继任者将基于可持续航空燃料：空中客车公司首席执行官
+空中客车公司首席执行官纪尧姆·福里 (Guillaume Faury) 宣布了 A320neo 后续机型的计划，该机型将使用可持续航空燃料，旨在帮助该行业到 2050 年实现碳中和。这款下一代单通道飞机将于 2030 年代首次亮相，将是专为可持续燃料消耗而设计的新平台。福里强调，这架飞机不会是现有型号的延伸，并将在空中客车公司的航空业绿色未来战略中发挥关键作用。这一创新方法标志着朝着减少行业环境影响迈出的重要一步。]]></description>
+      <guid>https://t.me/hn_summary/74919</guid>
+      <pubDate>Mon, 19 Feb 2024 08:14:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国食品公司的卡车司机通过在全国范围内举行罢工，赢得了重大胜利， [...]</title>
-      <link>https://t.me/hn_summary/74876</link>
-      <description><![CDATA[Teamster 食品司机在全国范围内赢得了罢工 
-美国食品公司的卡车司机在全国范围内举行罢工，将纠察队延伸到全国两打以上的工厂，赢得了重大胜利。纠察队的激进策略导致公司运营陷入瘫痪，并迫使公司坐到谈判桌前。保护权利语言的使用使工人能够遵守主要纠察线并扩大冲突范围。这种战略方法，加上协调一致的讨价还价努力，已经为卡车司机带来了回报，带来了合同的重大收益，并为未来的谈判奠定了基础。芝加哥的成功将推动食品服务分销行业持续的组织活动。]]></description>
-      <guid>https://t.me/hn_summary/74876</guid>
-      <pubDate>Mon, 19 Feb 2024 00:16:15 GMT</pubDate>
+      <title>Josh 是一个革命性的工具，通过介绍结合了 monorepos 和 multirepos 的优点 [...]</title>
+      <link>https://t.me/hn_summary/74918</link>
+      <description><![CDATA[乔什：只有一个历史
+Josh 是一个革命性的工具，通过引入闪电般快速、可逆的 git 历史过滤实现，结合了 monorepos 和 multirepos 的优点。与缓慢且具有破坏性的传统方法不同，Josh 允许将无缝历史记录过滤作为日常工作流程的一部分，而用户甚至不会注意到。通过在过滤器运行之间保留持久缓存，重新运行过滤器所需的工作与上次运行以来的更改数量成正比，而不是与历史记录的总长度成正比。这种创新的历史过滤方法为开发人员和 CI 系统开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/74918</guid>
+      <pubDate>Mon, 19 Feb 2024 08:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>在 GitHub 上发现一系列精彩的开源游戏以及可用源代码。</title>
-      <link>https://t.me/hn_summary/74875</link>
-      <description><![CDATA[开源游戏
-在 GitHub 上发现一系列精彩的开源游戏以及可用源代码。从基于浏览器的棋盘游戏（如 3D Hartwing Chess Set）到街机经典游戏（如 Asteroids 和 Breakout），每个游戏玩家都能找到适合自己的游戏。深入探索《暗黑破坏神 JavaScript》等 RPG 游戏和《BrowserQuest》等大型多人在线角色扮演游戏，或者通过《Ancient Beast》和《命令与征服》等游戏挑战您的策略技能。该合集凭借 Drunken Viking 和 Genetic Drift 等独特游戏展现了开源游戏开发者的创造力和创新精神。在 Project- 上探索、畅玩开源游戏世界并为之做出贡献Awesome.org。 （根据 29% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74875</guid>
-      <pubDate>Sun, 18 Feb 2024 23:59:08 GMT</pubDate>
+      <title>[媒体] 在本文中，作者讨论了他们为 Bash 创建 OpenGL 绑定，这是一个公关 [...]</title>
+      <link>https://t.me/hn_summary/74917</link>
+      <description><![CDATA[Bash 的 OpenGL 绑定 (2018)
+在本文中，作者讨论了他们为 Bash 创建的 OpenGL 绑定，这个项目最初只是一个笑话，但后来变成了宝贵的学习经验。作者解释了他们在 Bash 中实现 OpenGL 支持时所面临的挑战以及他们为使其发挥作用而做出的设计选择。他们还强调显示列表的使用是一个被延续到其他项目的关键技巧。尽管 Bash 作为编程语言有局限性，但作者鼓励读者出于教育目的探索该项目。文章最后反思了该项目的实用性，并幽默地邀请与其他人分享链接。]]></description>
+      <guid>https://t.me/hn_summary/74917</guid>
+      <pubDate>Mon, 19 Feb 2024 07:19:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Synthical，这是一个将黑客新闻社区模型带入世界的平台 [...]</title>
-      <link>https://t.me/hn_summary/74874</link>
-      <description><![CDATA[显示 HN：与 HN 类似，但用于科学&lt; br/&gt;
-隆重推出 Synthical，这是一个将 Hacker News 社区模型带入科学世界的平台。我们的人工智能技术简化了复杂的文章，澄清了科学术语，并协助研究，使用户更容易了解并参与最新的科学发现。加入我们 Synthical.com，探索与人互动的新方式科学内容。]]></description>
-      <guid>https://t.me/hn_summary/74874</guid>
-      <pubDate>Sun, 18 Feb 2024 23:55:04 GMT</pubDate>
+      <title>浮点数确实很奇怪，但让我们先休息一下，开始进行基本的微积分练习。</title>
+      <link>https://t.me/hn_summary/74916</link>
+      <description><![CDATA[浮动很奇怪
+浮点数确实很奇怪，但让我们先休息一下，开始进行基本的微积分练习。这里我们不会证明这个极限，但让我们使用Python来对其进行数值近似。令人惊讶的是，当我们使 $x$ 变得越来越小时，近似值并不总是变得更好。事实上，它的误差可能超过 10%！但不用担心，通过涉及冗余计算的巧妙技巧，我们可以达到我们想要的确切结果。通过使用我们最喜欢的假设分析错误，我们揭示了错误的根源以及为什么一个函数比另一个函数更准确。最后，教训很明确：浮动确实很奇怪。]]></description>
+      <guid>https://t.me/hn_summary/74916</guid>
+      <pubDate>Mon, 19 Feb 2024 07:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]联邦贸易委员会已获得针对 Simple Health 的 1.95 亿美元判决 [...]</title>
-      <link>https://t.me/hn_summary/74873</link>
-      <description><![CDATA[FTC 获得 1.95 亿美元的判决并禁止 Simple Health 提供虚假保险
-联邦贸易委员会已对 Simple Health Plans LLC 及其首席执行官做出 1.95 亿美元的判决，罪名是通过虚假医疗保健计划欺骗消费者。法院发现，Simple Health 误导人们认为他们购买了全面的健康保险，而实际上他们没有支付医疗费用或无法获得必要的医疗保健。法院已禁止 Simple Health 及相关实体进行电话营销和营销医疗保健产品，并下令清算其资产以退还给消费者。首席合规官 Candida Girouard 也已和解指控，并被禁止销售医疗保健产品。该案例凸显了医疗保健行业消费者保护的重要性。]]></description>
-      <guid>https://t.me/hn_summary/74873</guid>
-      <pubDate>Sun, 18 Feb 2024 23:51:00 GMT</pubDate>
+      <title>教授的“对精益软件的呼吁”</title>
+      <link>https://t.me/hn_summary/74915</link>
+      <description><![CDATA[Niklaus Wirth 教授的“对精益软件的呼吁”
+Niklaus Wirth 教授在“对精益软件的呼吁”中论证了创建高效且简约的软件的重要性。他强调设计和实施需要简单化，以避免不必要的复杂性和臃肿。沃斯的请求挑战了功能丰富的软件的流行趋势，并主张回归更精简、更精简的程序。这种有争议的立场可能会引发开发人员和用户之间的争论，但 Wirth 的见解为精益软件开发的好处提供了全新的视角。]]></description>
+      <guid>https://t.me/hn_summary/74915</guid>
+      <pubDate>Mon, 19 Feb 2024 07:05:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了 Nebula（一种网状 VPN）与类似软件的基准测试 [...]</title>
-      <link>https://t.me/hn_summary/74872</link>
-      <description><![CDATA[Nebula 不是最快的网状 VPN，但其他也不是&lt; /a&gt;
-本文讨论了自 2018 年以来网状 VPN Nebula 与类似软件的基准测试。作者强调了客观和公平测试的重要性，详细介绍了使用专用硬件和测试主机之间的多个流等指南。比较包括 Nebula、Netmaker、Tailscale 和 ZeroTier，突出了性能差异和状态数据包过滤的重要性。测试重点关注单向数据传输，表明 ZeroTier 的单线程特性限制了其与其他产品相比的性能。本文旨在提供持续的性能记录，并欢迎对其他项目进行测试的建议。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74872</guid>
-      <pubDate>Sun, 18 Feb 2024 23:21:50 GMT</pubDate>
+      <title>[媒体] Bits Credit Card 是一家由 Y Combinator 支持的英国金融科技初创公司，正在招聘一名后端工程师 [...]</title>
+      <link>https://t.me/hn_summary/74914</link>
+      <description><![CDATA[Bits信用卡（YC S20）招募中&lt; br/&gt;
+Bits Credit Card 是一家由 Y Combinator 支持的英国金融科技初创公司，正在招聘一名后端工程师加入他们忠诚的小型团队。凭借超过 500 万美元的收入和为 250,000 名消费者提供服务，您将有机会对现实世界产生影响。要求包括 5 年以上软件开发经验、精通 JavaScript/Typescript 和 AWS 经验。 SaaS 产品经验和 AWS CDK 知识可加分。福利包括有竞争力的薪水、人寿保险和 28 天假期。面试过程包括电话、技术挑战和最后一轮与团队见面。加入 Bits Credit Card 专注于所有权和创新的团队。]]></description>
+      <guid>https://t.me/hn_summary/74914</guid>
+      <pubDate>Mon, 19 Feb 2024 07:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]几个世纪以来，加利福尼亚州在地图上被错误地描绘为一个岛屿，引发了法西斯 [...]</title>
-      <link>https://t.me/hn_summary/74871</link>
-      <description><![CDATA[数百年来，人们一直认为加利福尼亚是一个岛屿
-几个世纪以来，加利福尼亚州在地图上被错误地描绘成一个岛屿，引发了人们的迷恋和争论。 Glen McLaughlin 收集了 700 多张与该主题相关的地图，展示了这种持久的制图谬误。尽管在地理上与大陆相连，加州作为一个幅员辽阔、多元化的州的独特身份促成了这个神话。这种误解的根源可以追溯到西班牙小说中的一个虚构岛屿，导致西班牙和英国制图师之间长达数百年的争论。直到 1747 年，西班牙国王斐迪南六世才正式宣布“加利福尼亚不是一个岛屿”，结束了这个经久不衰的神话。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74871</guid>
-      <pubDate>Sun, 18 Feb 2024 22:55:41 GMT</pubDate>
+      <title>[媒体] 大家好，请注意，Unraid 正在对其许可模式进行一些更改。</title>
+      <link>https://t.me/hn_summary/74913</link>
+      <description><![CDATA[PSA：Unraid 可能正在更改许可模式
+大家好，请注意，Unraid 正在对其许可模式进行一些更改。他们现在正在转向年度更新支持模式，这与他们的旧系统不同。新的更新工具旨在使过程更加顺畅并提供更好的发布信息。然而，一些代码片段表明用户可能需要支付年费才能继续接收操作系统更新。这一转变在 Unraid 用户中引发了一些争议，因此看看这在社区中的表现将会很有趣。请继续关注这个发展故事的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/74913</guid>
+      <pubDate>Mon, 19 Feb 2024 06:46:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，作者反思了 DuckDuckGo 多年来的演变，曲 [...]</title>
-      <link>https://t.me/hn_summary/74870</link>
-      <description><![CDATA[有关 DuckDuckGo 未来的问题
-在这篇文章中，作者回顾了 DuckDuckGo 多年来的演变，质疑其未来的发展方向。虽然 DuckDuckGo 最初以其注重隐私的搜索引擎而闻名，但现已扩展到浏览器、应用程序和其他工具，导致人们对其主要产品感到困惑。作者指出搜索引擎最近缺乏改进，并推测了该公司多元化的动机。这篇文章对 DuckDuckGo 的潜在战略提出了疑问，包括与其他浏览器或搜索引擎竞争，或者可能完全放弃搜索。最后，作者强调了 DuckDuckGo 的核心产品是隐私，并想知道该公司将如何继续优先考虑其产品并通过其货币化。]]></description>
-      <guid>https://t.me/hn_summary/74870</guid>
-      <pubDate>Sun, 18 Feb 2024 22:34:32 GMT</pubDate>
+      <title>Castle Engine 是一款尖端游戏引擎，允许开发人员创建 2D 和 3D 游戏 [...]</title>
+      <link>https://t.me/hn_summary/74912</link>
+      <description><![CDATA[Castle Engine – 免费、操作系统、x 平台、2D/3D使用现代 Pascal 的游戏引擎
+Castle Engine 是一款尖端游戏引擎，允许开发人员使用现代 Pascal 创建 2D 和 3D 游戏。最好的部分？它是完全免费和开源的，任何想要将游戏创意变为现实的人都可以使用它。 Castle Engine 的与众不同之处在于它能够针对广泛的平台，包括台式机、移动设备，甚至任天堂 Switch 等游戏机。随着对 WebGL 和 Oculus VR 的支持即将到来，创造沉浸式游戏体验的可能性是无限的。立即加入 Castle Engine 社区并开始构建您的梦想游戏。]]></description>
+      <guid>https://t.me/hn_summary/74912</guid>
+      <pubDate>Mon, 19 Feb 2024 06:42:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

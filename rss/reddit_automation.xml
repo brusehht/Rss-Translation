@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 19 Feb 2024 03:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 09:11:34 GMT</lastBuildDate>
+    <item>
+      <title>需要一个函数，使用 API 将我的问题的输出从 Chatgpt 导入到特定的 Excel 单元格中</title>
+      <link>https://www.reddit.com/r/automation/comments/1auim4o/need_a_function_that_import_the_output_of_my/</link>
+      <description><![CDATA[      需要一个函数，使用以下命令将我的问题的输出从 Chatgpt 导入到特定的 Excel 单元格API 找到了这个excel插件： deepanshu88/excelChatGPT/ ChatGPT的Excel插件的这个功能可以解决我的问题： AIAssistant_QnA（查询，段落）：它从您提供的自定义大文本中提供问题的答案。 - 查询：指定包含问题的单元格。 - 段落：指定包含大文本的单元格。 但我还没有数据“包含大文本” 哪个函数 cuold : .AIAssistant(text, [word_count]) ：使用 ChatGPT 生成搜索查询的输出。 - text ：要搜索的文本 - word_count ：可选。指定 ChatGPT 生成的输出的最大字数。 AAIAssistant_Chat(text, [reset]) ：像 ChatGPT 网站一样进行对话，记住之前的对话。 - 文本：要搜索的文本 - 重置：可选。开始/重置聊天会话。 AAIAssistant_FillData(rng_existingdata, rng_fill) ：通过在现有数据上训练 ChatGPT 来填充不完整的数据。 - rng_existingdata ：训练数据范围 - rng_fill ：指定需要填写的单元格。 AAIAssistant_Extractor(prompt, keywords) ：从您提供的文本中提取关键数据。关键数据可以是名称、地点、组织详细信息等。 - 提示：指定包含要从中提取关键数据的文本的单元格。 - 关键字：关键字可以是名称、地点、组织等&lt; /h2&gt; AIAssistant_Insights(rng_data, [prompt]) ：它从提供的数据集中生成数据见解。 - rng_data ：指定包含数据的单元格（包括标题）。 - 提示：可选。提供您想要的有关数据的具体信息。 AIAssistant_QnA（查询，段落）：它从您提供的自定义大文本中提供问题的答案。 - 查询：指定包含问题的单元格。 - pass ：指定包含大文本的单元格。   由   提交 /u/Independent-Bill-770   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1auim4o/need_a_function_that_import_the_output_of_my/</guid>
+      <pubDate>Mon, 19 Feb 2024 08:38:48 GMT</pubDate>
+    </item>
     <item>
       <title>您对明年完全由人工智能模型生成一部完整的好莱坞故事片有何赌注？</title>
       <link>https://www.reddit.com/r/automation/comments/1au8neg/what_is_your_bet_on_the_year_in_which_a/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[我正在寻找一个网站，可以让我上传图片模板和大约 20 个不同的句子，然后自动将每个句子添加到单独的图像中。&lt; /p&gt;   由   提交/u/rattletrap777  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1aq663b/bulk_text_insertion_on_images/</guid>
       <pubDate>Tue, 13 Feb 2024 22:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人愿意给我一个抖音机器人吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1apif0f/does_anybody_have_a_tiktok_bot_that_anybody_is/</link>
-      <description><![CDATA[ 由   提交 /u/ImpossibleFortune247   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1apif0f/does_anybody_have_a_tiktok_bot_that_anybody_is/</guid>
-      <pubDate>Tue, 13 Feb 2024 02:31:26 GMT</pubDate>
     </item>
     <item>
       <title>如何构建 LinkedIn 联系人助理以充分利用我的网络 [+实施指南]</title>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 06:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 09:12:46 GMT</lastBuildDate>
+    <item>
+      <title>PDFgear 是开源的吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1auim4h/is_pdfgear_open_source/</link>
+      <description><![CDATA[您好， 发现 PDFgear (www. pdfgear.com）通过对 r/opensource 的讨论，我对其功能和潜力很感兴趣。社区内的反馈似乎非常积极，凸显了其实用性和性能。然而，一个关键的细节似乎有问题——其源代码的可用性。鉴于该平台倡导开源原则，PDFgear 缺乏可访问的源代码引发了对其开源状态的质疑。 谁能澄清一下 PDFgear 的源代码是否托管在公共存储库上，我可能会这样做是否忽略了，或者它实际上是专有软件？在开源社区认可的背景下，这种差异尤其令人费解，对于此事的任何见解或澄清将不胜感激。 感谢您的帮助。    由   提交/u/kurunku  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1auim4h/is_pdfgear_open_source/</guid>
+      <pubDate>Mon, 19 Feb 2024 08:38:47 GMT</pubDate>
+    </item>
     <item>
       <title>Bitmagnet 允许人们在本地运行自己的去中心化 Torrent 索引器</title>
       <link>https://www.reddit.com/r/opensource/comments/1au9b2t/bitmagnet_allows_people_to_run_their_own/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我计划创建一个程序，用于使用互联网早期的旧扩展 ASCII Art 字体创建文本。 &lt; pre&gt;╦ ┬┬┌─┌─┐ ┌┬┐┬ ┬┬┌─┐ ║ │├┴┐├┤ │ ├─┤│└─┐ ╩═╝┴┴ ┴└─┘ ┴ ┴┴┴ └─┘o  我计划在 MIT 甚至 MIT-0 下发布它。问题是，我无法找到该字体的创建者。由于它的版权情况未知，很明显我不能在符号设计方面不加任何注释地在免费许可下发布整个程序。 处理这个问题的正确方法是什么？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</guid>
       <pubDate>Sat, 17 Feb 2024 21:22:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持自动更新尺寸标签的免费 CAD 应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1at7123/free_cad_application_that_supports_autoupdating/</link>
-      <description><![CDATA[我正在寻找一款免费的 2D CAD 应用程序，该应用程序支持在缩放形状时自动更新的尺寸标签。研究了几个应用程序，发现 LibreCAD 或 FreeCAD 都无法做到这一点。 这是 SmartDraw 中的功能。不幸的是，他们只按年收费，而且我不会使用它足够的成本效益。如果是按月付款，我肯定会付费。 https://imgur.com/a/3Yvp8BS   由   提交 /u/HiddenMushroom11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1at7123/free_cad_application_that_supports_autoupdating/</guid>
-      <pubDate>Sat, 17 Feb 2024 17:19:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
