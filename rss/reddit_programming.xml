@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 19 Feb 2024 09:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 12:20:23 GMT</lastBuildDate>
+    <item>
+      <title>编码挑战 - Sora 的使用分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1aul9in/coding_challenge_soras_usage_analysis/</link>
+      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aul9in/coding_challenge_soras_usage_analysis/</guid>
+      <pubDate>Mon, 19 Feb 2024 11:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go语言进入Tiobe指数前10名</title>
+      <link>https://www.reddit.com/r/programming/comments/1aul8u4/go_language_hits_top_10_in_the_tiobe_index/</link>
+      <description><![CDATA[ 由   提交 /u/lelanthran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aul8u4/go_language_hits_top_10_in_the_tiobe_index/</guid>
+      <pubDate>Mon, 19 Feb 2024 11:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂街通行证</title>
+      <link>https://www.reddit.com/r/programming/comments/1aukjpd/nintendo_streetpass/</link>
+      <description><![CDATA[嗨，有人有时间为所有任天堂粉丝制作游戏吗？如果再次使用任天堂 Streetpass 会很酷，但这不可能，因为几乎没有人拥有 3DS 或 DS。这就是为什么 Streetpass 应用程序会非常好。如果这个应用程序进入 Play 商店，将会有很多玩家。   由   提交/u/Anonym628  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aukjpd/nintendo_streetpass/</guid>
+      <pubDate>Mon, 19 Feb 2024 10:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Aspire - 预览版 3：通过 Azure OpenAI、MySQL、CosmosDB、Kafka 等扩展组件支持</title>
+      <link>https://www.reddit.com/r/programming/comments/1aujqvt/net_aspire_preview_3_expanded_component_support/</link>
+      <description><![CDATA[ 由   提交/u/almirvuk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aujqvt/net_aspire_preview_3_expanded_component_support/</guid>
+      <pubDate>Mon, 19 Feb 2024 09:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes 上的 Spring Boot SSL 热重载 - Piotr 的技术博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1aujnml/spring_boot_ssl_hot_reload_on_kubernetes_piotrs/</link>
+      <description><![CDATA[ 由   提交/u/piotr_minkowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aujnml/spring_boot_ssl_hot_reload_on_kubernetes_piotrs/</guid>
+      <pubDate>Mon, 19 Feb 2024 09:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么是十六进制。表示 5 个“int”类型变量的后续内存位置的数字仅增加 4，因为知道每个数字都是十六进制的。系统仅代表 4 位，因此要转到“int”的下一个内存位置（即添加 4 个字节），它不应该增加 8 吗？为什么只有4？</title>
+      <link>https://www.reddit.com/r/programming/comments/1aujl44/why_the_hex_numbers_which_represent_the/</link>
+      <description><![CDATA[ 由   提交/u/jimmyus74  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aujl44/why_the_hex_numbers_which_represent_the/</guid>
+      <pubDate>Mon, 19 Feb 2024 09:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 中的实例化和取消（非 oop）</title>
+      <link>https://www.reddit.com/r/programming/comments/1aujdbk/instantiation_and_decleration_in_cnon_oop/</link>
+      <description><![CDATA[我真的很困惑这节课想说什么，它说当程序运行时将实例化一个变量，它说“”变量必须先实例化才能用于存储值”，所以基本上实例化是在我们可以将值放入其中之前完成的？ ，我在chat gpt上发布了这个，chat gpt说当例如整数数据类型，x指示符被赋予值时，变量被实例化。 chatgpt是否正确，或者我的阅读理解是只是不好？ 来自 LEARNCPP 的变量实例 为了创建变量，我们使用一种特殊的声明语句，称为定义（我们将澄清声明和定义之间的区别）定义稍后）。 下面是定义名为 x 的变量的示例： int x; // 定义一个名为 x，类型为 int 的变量 在编译时，当编译器看到此语句时，它会向自己记录我们正在定义一个变量，给它命名为 x，并且它的类型为 int(more稍后讨论类型）。从那时起（有一些限制，我们将在以后的课程中讨论），每当编译器看到标识符 x 时，它就会知道我们正在引用这个变量。 当程序运行时运行（称为运行时），该变量将被实例化。实例化是一个奇特的词，意味着将创建对象并为其分配内存地址。变量必须先实例化，然后才能用于存储值。举例来说，假设变量 x 在内存位置 140 处实例化。每当程序使用变量 x 时，它将访问内存位置 140 中的值。实例化的对象有时称为实例。   由   提交 /u/Which-Perspective-47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aujdbk/instantiation_and_decleration_in_cnon_oop/</guid>
+      <pubDate>Mon, 19 Feb 2024 09:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 中的内存 为什么十六进制数只增加 4，而我们知道每个数字只代表 4 位（半字节）注意 8 位（一个字节）？</title>
+      <link>https://www.reddit.com/r/programming/comments/1aujc3r/memory_in_c_why_the_hexadecimal_numbers_is/</link>
+      <description><![CDATA[ 由   提交/u/jimmyus74  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1aujc3r/memory_in_c_why_the_hexadecimal_numbers_is/</guid>
+      <pubDate>Mon, 19 Feb 2024 09:28:43 GMT</pubDate>
+    </item>
     <item>
       <title>设计数据密集型的未来 • Martin Kleppmann 和 Jesse Anderson</title>
       <link>https://www.reddit.com/r/programming/comments/1auir94/designing_a_dataintensive_future_martin_kleppmann/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1aufwee/the_third_part_is_about_the_array_class_and_the/</guid>
       <pubDate>Mon, 19 Feb 2024 05:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种用于 JVM 的基于机器学习的小型编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1aufeyv/a_small_ml_based_programming_language_for_the_jvm/</link>
-      <description><![CDATA[你好。去年左右我一直在研究一种基于机器学习的小型编程语言，我想得到一些反馈。该语言的灵感来自 Rust、Standard Ml 和 Kotlin。我用 Rust 编写了编译器，它生成 Java 21 兼容的源代码。这是我的第一个“大”活动。 Rust 项目对我来说是如此裸露。任何批评都可以接受。   由   提交 /u/hexaredecimal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aufeyv/a_small_ml_based_programming_language_for_the_jvm/</guid>
-      <pubDate>Mon, 19 Feb 2024 05:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种星型路径寻找算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1auf40c/a_star_path_finding_algorithm/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auf40c/a_star_path_finding_algorithm/</guid>
-      <pubDate>Mon, 19 Feb 2024 05:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：摘要#10</title>
-      <link>https://www.reddit.com/r/programming/comments/1auessy/engineering_with_java_digest_10/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auessy/engineering_with_java_digest_10/</guid>
-      <pubDate>Mon, 19 Feb 2024 04:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供有帮助而不是有害的反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1auekzz/give_feedback_that_helps_not_hurts/</link>
-      <description><![CDATA[ 由   提交/u/musskk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auekzz/give_feedback_that_helps_not_hurts/</guid>
-      <pubDate>Mon, 19 Feb 2024 04:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>对精益软件的呼吁</title>
-      <link>https://www.reddit.com/r/programming/comments/1auay62/a_plea_for_lean_software/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1auay62/a_plea_for_lean_software/</guid>
-      <pubDate>Mon, 19 Feb 2024 01:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>每周摘要 #3：Rails 8 引入了内置的速率限制 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1aua8ge/weekly_digest_3_rails_8_introduces_a_builtin_rate/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aua8ge/weekly_digest_3_rails_8_introduces_a_builtin_rate/</guid>
-      <pubDate>Mon, 19 Feb 2024 00:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 多线程实践：实现 Bingo 游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1au84as/java_multithreading_in_action_implementing_a/</link>
-      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接]   ; [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1au84as/java_multithreading_in_action_implementing_a/</guid>
-      <pubDate>Sun, 18 Feb 2024 23:18:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何过度设计 Todo 应用程序（Zenith 梯度算法）</title>
-      <link>https://www.reddit.com/r/programming/comments/1au410f/how_to_over_engineer_a_todo_app_the_zenith/</link>
-      <description><![CDATA[ 由   提交/u/Fabulous-Ad-3985   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1au410f/how_to_over_engineer_a_todo_app_the_zenith/</guid>
-      <pubDate>Sun, 18 Feb 2024 20:32:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

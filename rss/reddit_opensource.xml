@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 09:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 12:20:47 GMT</lastBuildDate>
+    <item>
+      <title>Impler.io - 用于产品的现成 CSV 和 Excel 导入基础设施，以节省成本并更快地加载客户数据（寻求反馈和建议）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1auj5d9/implerio_readymade_csv_excel_import/</link>
+      <description><![CDATA[       由   提交/u/bhavik-chavda  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1auj5d9/implerio_readymade_csv_excel_import/</guid>
+      <pubDate>Mon, 19 Feb 2024 09:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>PDFgear 是开源的吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1auim4h/is_pdfgear_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1atgcx3/what_alternatives_are_people_looking_for/</guid>
       <pubDate>Sun, 18 Feb 2024 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何正确开源具有未知版权情况的老式字体的扩展 ASCII 艺术程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</link>
-      <description><![CDATA[我计划创建一个程序，用于使用互联网早期的旧扩展 ASCII Art 字体创建文本。 &lt; pre&gt;╦ ┬┬┌─┌─┐ ┌┬┐┬ ┬┬┌─┐ ║ │├┴┐├┤ │ ├─┤│└─┐ ╩═╝┴┴ ┴└─┘ ┴ ┴┴┴ └─┘o  我计划在 MIT 甚至 MIT-0 下发布它。问题是，我无法找到该字体的创建者。由于它的版权情况未知，很明显我不能在符号设计方面不加任何注释地在免费许可下发布整个程序。 处理这个问题的正确方法是什么？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</guid>
-      <pubDate>Sat, 17 Feb 2024 21:22:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
