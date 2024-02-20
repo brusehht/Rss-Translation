@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 21:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:47:42 GMT</lastBuildDate>
+    <item>
+      <title>有没有比 adobe prime 更好的开源免费替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1av2t3d/are_there_any_open_source_free_alternatives_to/</link>
+      <description><![CDATA[我一直在使用 photopea 作为 Photoshop 的替代品，并且喜欢我什至可以导入原生 PSD 文件。有谁知道是否存在类似的开源首要克隆？我有一些主要的序列文件，我不介意以相同的方式导入。 如果没有，那么推荐一个好的免费视频编辑器？谢谢朋友   由   提交 /u/foslforever   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1av2t3d/are_there_any_open_source_free_alternatives_to/</guid>
+      <pubDate>Mon, 19 Feb 2024 23:48:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>MindForger 2.0.0：注意 – LLM 是您笔记应用程序的全部需求！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1av1jmi/mindforger_200_attention_llm_is_all_your/</link>
+      <description><![CDATA[嘿你好！我刚刚完成了新的 MindForger 版本，集成了大型语言模型，它将笔记和知识管理提升到一个新的水平。 MindForger 现在允许您利用人工智能的力量轻松扩展您的笔记和知识。无论您需要准备计划、撰写深入分析、起草博客文章，还是只是产生想法。大型语言模型可以修复语法、翻译，写入，重新制定，总结、建议同义词和反义词等等。您可以轻松创建高质量的内容并增强知识的组织。享受吧！   由   提交 /u/ultradvorka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1av1jmi/mindforger_200_attention_llm_is_all_your/</guid>
+      <pubDate>Mon, 19 Feb 2024 22:58:23 GMT</pubDate>
+    </item>
     <item>
       <title>Project Octopus - Team Indigo Sword 的开源游戏</title>
       <link>https://www.reddit.com/r/opensource/comments/1auyo5b/project_octopus_team_indigo_swords_open_source/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>寻求帮助恢复旧的网络项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</link>
-      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理能力的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
+      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</guid>
       <pubDate>Mon, 19 Feb 2024 20:36:40 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/foundfootagefan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1au9b2t/bitmagnet_allows_people_to_run_their_own/</guid>
       <pubDate>Mon, 19 Feb 2024 00:09:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Wi-Fi 身份验证绕过漏洞暴露家庭、企业网络</title>
-      <link>https://www.reddit.com/r/opensource/comments/1au47wr/new_wifi_authentication_bypass_flaws_expose_home/</link>
-      <description><![CDATA[       由   提交 /u/wewewawa   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1au47wr/new_wifi_authentication_bypass_flaws_expose_home/</guid>
-      <pubDate>Sun, 18 Feb 2024 20:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>修改后的 MIT 许可证（限制商业用途）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1au2974/modified_mit_license_with_restricted_commercial/</link>
-      <description><![CDATA[嗨，我正在寻找一个看起来有点像这样的许可证（我将某些内容与 ChatGPT 放在一起）：  具有商业限制的 MIT 许可证 版权所有 (c) [年份] [全名] 特此免费授予任何获得本软件及相关文档文件副本的人（“软件”），不受限制地处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售的权利 /&gt; 本软件的副本，前提是满足以下条件： 1. 允许在各种商业环境中使用本软件或其任何部分（包括修改版本），例如集成到产品、服务、或系统。1.1。但是，它不得成为其他公司提供的任何商业产品或服务的主要或主要方面。 1.2。如果本软件被用作其他公司提供的任何商业产品或服务的主要或主要部分，则必须从版权所有者处获得单独的许可或协议。3. 上述版权声明和本许可声明应适用包含在本软件的所有副本或重要部分中。本软件按“原样”提供，不提供任何类型的明示或暗示的保证，包括但不限于适销性、特定用途的适用性和不侵权的保证。在任何情况下， 作者或版权持有者均不对因 引起的任何索赔、损害或其他 责任（无论是合同诉讼、侵权行为还是其他行为）承担责任。与软件的联系或软件中的使用或其他交易。  我的想法是我想发布一个应用程序并希望允许商业用途，因为我个人在以下情况下感到恼火我找到了一个很好的工具，我只能在私人场合使用，而不能在工作中使用，但我也想保护我的作品不被出售或其他东西。我的目标是在允许商业使用和防止第三方直接销售或利用我的软件之间取得平衡。 有类似的建议或要点吗？也许某件事已经被证明了？ ​ 你们对此有何看法？您认为这仍然是开源吗？   由   提交 /u/mArKoLeW   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1au2974/modified_mit_license_with_restricted_commercial/</guid>
-      <pubDate>Sun, 18 Feb 2024 19:21:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
