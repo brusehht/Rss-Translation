@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 00:46:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 03:11:32 GMT</lastBuildDate>
+    <item>
+      <title>当人工智能系统进化到超出人类理解范围后，我们如何控制它们？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av5msx/how_do_we_control_ai_systems_after_they_have/</link>
+      <description><![CDATA[今天，人工智能系统做事，人类可以检查他们所做的事情是否可以接受。例如，通过人工智能选择人员进行工作面试，我们可以验证是否存在种族偏见。或者，法学硕士撰写论文或代码时可以检查其输出是否存在幻觉、不良逻辑等。当我们无法再检查他们的输出以确保其符合我们的期望时，会发生什么？我们如何相信难以理解的输出符合我们人类的期望？ https://medium.com/p/8353603ee657&lt; /a&gt;  ​   由   提交 /u/IagoInTheLight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av5msx/how_do_we_control_ai_systems_after_they_have/</guid>
+      <pubDate>Tue, 20 Feb 2024 01:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何能够创建全身人类的生成器，而不仅仅是基本的时尚选择和自然发色，或者染发的完整头像图像</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av5dvk/any_generators_that_allow_creating_full_body/</link>
+      <description><![CDATA[我想生成具有另类/可疑时尚选择的人的逼真图像，我希望这是寻求帮助的正确位置   由   提交 /u/Sea_Instruction7692   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av5dvk/any_generators_that_allow_creating_full_body/</guid>
+      <pubDate>Tue, 20 Feb 2024 01:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>试用开源人工智能模型的最佳方式</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av4beq/the_best_way_to_trial_open_source_ai_models/</link>
+      <description><![CDATA[大家好， 有没有一个好方法可以轻松试用不同的开源 AI 模型？我尝试安装 LM Studio，但我的 Mac M1 无法处理它们。我看到你可以将 Huggingface 部署到 Sagemaker，但我正在工作的小组都是 Azure，他们的模型库是有限的。  我们考虑过购买一个指定的 Mac Studio，但只是想知道其他人在做什么。  谢谢   由   提交 /u/fijitime   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av4beq/the_best_way_to_trial_open_source_ai_models/</guid>
+      <pubDate>Tue, 20 Feb 2024 00:53:54 GMT</pubDate>
+    </item>
     <item>
       <title>事实核查某人：在人工智能领域工作 15 年以上会让你做什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av421o/fact_checking_someone_15_years_in_ai_would_make/</link>
@@ -27,27 +48,6 @@
       <pubDate>Tue, 20 Feb 2024 00:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>数学帮助！！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av34f1/math_help/</link>
-      <description><![CDATA[有人可以推荐一个可以解决所有类型问题的应用程序吗？目前代数 2/trig 和 Mathway 无法解决所有问题。    由   提交/u/danirave19  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av34f1/math_help/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能和学习之间的区别</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av345q/difference_between_ai_and_learning/</link>
-      <description><![CDATA[所以这可能已经在这里弹出了。也许不会。但随着 Copilot 的发布以及通过 Copilot AI 图像制作器轻松使用 DALL-E 3，引发了关于使用 AI 生成艺术是否道德的讨论。我知道这是一个复杂的主题，但我也觉得它很微妙。我知道很多人对艺术家没有得到报酬以及他们不希望他们的艺术以这种方式使用感到不安。有些人认为人工智能艺术生成只是对其他人艺术作品的奇特追踪或非常好的照片拍摄。除了关注整体重新创作他们的艺术之外。  根据我的经验，我知道在提示时我会使用“以 D&amp;D 高奇幻艺术风格”之类的短语。或“蒸汽朋克艺术风格” （我喜欢蒸汽朋克）而且我知道有些人如果喜欢那些人的风格，就会输入特定人的名字。同样对于 S&amp;G，我使用 ChatGPT 尽可能详细地描述了梵高的《星夜》，同时删除了所有与梵高或画作名称相关的内容。直到我在其中添加了“梵高风格”之后，描述本身并没有产生他的画作。就在那时我差点就完全重新创作了。但后来我做了同样的过程，用更简短的更简洁的描述，得到了一幅“画”。梵高风格。但离星夜还差得远。我对《蒙娜丽莎》也做了同样的事情，但效果却相差甚远。  尽管如此，我还是想提出一些事情。人类从周围的许多艺术家和他们所见过的艺术中汲取灵感，然后用这些灵感创作艺术。  那么，一个研究并看过成百上千件不同艺术作品或艺术家的人与能够创作出具有其他人风格的独特艺术作品的人与机器学习人工智能工具之间到底有什么区别？就像 DALL-E 本质上做同样的事情。  我觉得大多数人的区别在于人情味。人工智能不好，人类好。  你有什么想法？  （还有额外的信息，我已经将它用于我自己的用途，以及不以商业方式使用的东西，如果我需要任何商业用途，我认为自己使用人工智能图像制作作为一种快速制作概念艺术的方法，让人类艺术家从中汲取灵感，并使我的想法和人工智能的“想法”变得更好，特别是因为人工智能艺术根本无法拼写值得的单词。） &lt; !-- SC_ON --&gt;  由   提交 /u/TheParamedicGamer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av345q/difference_between_ai_and_learning/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>为学校作业制作一个聊天机器人网站。我们的人工智能对话如下。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av1ygh/making_a_chatbot_website_for_a_school_assignment/</link>
-      <description><![CDATA[用户：嗨 机器人：嗨[SEP] 用户：你好吗？ p&gt; 机器人：你是吗？[SEP] 用户：很好 用户：你好 机器人：[CLS]你好 我使用 Hugging Face 中的 ALBERT，并使用 ChatGPT 帮助我将其实现到我的网站中。我问 GPT 问题是什么以及为什么他没有正确回应，但没有给出明确的答案。有人可以帮忙吗？如果有不清楚的地方我可以澄清   由   提交/u/Dualshock1223  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av1ygh/making_a_chatbot_website_for_a_school_assignment/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:14:35 GMT</pubDate>
-    </item>
-    <item>
       <title>以下是可以让您成为百万富翁的前 5 只人工智能 (AI)/半导体股票</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av1jjj/here_are_the_top_5_artificial_intelligence/</link>
       <description><![CDATA[全文 概述 我使用法学硕士来帮助我查询人工智能和财务状况良好的半导体股票。人工智能模型将简单的英语翻译成数据库查询，以在数百万条记录中查找相关股票。 我正在寻找的股票：  毛利率增加了过去一年的毛利率达到或超过 60% 2023 年第三季度的收入超过 50 亿美元 按公司排名排序过去一年利润率增幅最高  5. Broadcom Inc. (AVGO)：  说明：Broadcom Inc. 在全球范围内设计和供应半导体器件。该公司经营半导体解决方案和基础设施软件等业务，为各种应用提供一系列产品。 毛利率：69.45% 收入：8,876,000,000 美元  主要优势：半导体领域的关键参与者  4。微软公司（MSFT）：  描述：微软公司在全球范围内开发软件、服务、设备和解决方案。该公司的业务涵盖生产力和业务流程、智能云和更多个人计算等领域。 毛利率：69.49% 收入：52,857,000,000 美元 主要优势：拥有 OpenAI 49% 的股份。还拥有 Azure，允许企业运行自己的个性化 ChatGPT。此外，一般而言，云计算对于人工智能来说也很重要。  3. NVIDIA Corporation (NVDA)：  说明：NVIDIA Corporation 在全球范围内提供图形、计算和网络解决方案。它为游戏、数据中心、汽车和其他市场提供产品。 毛利率：73.95% 收入：18,120,000,000 美元 主要优势：不仅在AI硬件上占主导地位，而且在AI软件（CUDA）上也占主导地位。现代人工智能完全依赖于 NVIDIA。没有 NVIDIA，就不会有 ChatGPT。  2. Salesforce, Inc. (CRM)：  描述：Salesforce, Inc. 在全球范围内提供客户关系管理 (CRM) 技术，将公司和客户联系在一起。它为企业提供各种服务和平台。 毛利率：75.29% 收入：8,720,000,000 美元 主要优势：一是少数直接将人工智能融入其核心业务的公司之一。  1. Meta Platforms, Inc. (META)：  描述：Meta Platforms, Inc. 开发通过全球各种平台连接人们的产品。它分为两个部分：应用系列和现实实验室。 毛利率：81.81% 收入：34,146,000,000 美元 主要优势：&lt; /strong&gt; 用于广告优化的 AI、Llama 2 和 Llama 3，他们购买了 600,000 台 NVIDIA 超级计算机，疯狂的利润率，开源领域的绝对领导者  最好的部分这份清单不是我从我的屁股里拉出来的。我用人工智能来查询具有这些特征的股票。如果您想寻找规模较小的科技股或其他行业的股票，也很容易。 感谢您的阅读！ 我写了在我的博客上对这些股票进行深入评论。让我知道您的想法！   由   提交 /u/Starks-Technology   [链接] [评论]]]></description>
@@ -55,18 +55,18 @@
       <pubDate>Mon, 19 Feb 2024 22:58:17 GMT</pubDate>
     </item>
     <item>
+      <title>官方授权的AI抓取即将到来...</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av0dsp/officially_licensed_ai_scraping_is_coming/</link>
+      <description><![CDATA[在没有 Reddit 或我们许可的情况下，我们已经培训 LLM 相当长一段时间了。现在我们已经到了应该做的事情了……Reddit 从我们的集体 IP 中赚到了更多的钱。嘿，我们不应该抱怨...如果我们想使用这些新方式进行良好的沟通，您就必须按原样接受 TOS 或 EULA，然后坐下来享受成为一个人的孤岛的乐趣。  https:/ /arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/ &lt; !-- SC_ON --&gt;  由   提交/u/habu-sr71  /u/habu-sr71 reddit.com/r/ArtificialInteligence/comments/1av0dsp/officially_licensed_ai_scraping_is_coming/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av0dsp/officially_licensed_ai_scraping_is_coming/</guid>
+      <pubDate>Mon, 19 Feb 2024 22:12:27 GMT</pubDate>
+    </item>
+    <item>
       <title>关于从手册中进行 2D 到 3D 产品渲染的库的建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auypow/advice_on_libraries_for_2d_to_3d_product/</link>
       <description><![CDATA[大家好， 我目前正在探索开发一个可以自动渲染 手册中来自 2D 图像的产品3D 模型。目标是创建一个可扩展的解决方案，其中起点是一组有限的 2D 图像，可能提供尺寸。 考虑到项目的性质，我正在寻找有关最佳库或使用的框架。关键标准是： - 能够使用最小图像处理 2D 到 3D 转换。 - 支持集成维度确保模型按比例缩放。 - 考虑到有限的数据输入，3D 模型输出的质量。 ​ &gt; 虽然我愿意探索不同编程语言的工具，但我的主要标准是利用广泛采用的库。这种偏好是由于需要强大的支持以及易于找到解决方案来应对开发过程中可能出现的潜在挑战。 您的见解或建议在此类应用程序中表现出色的库将非常有价值。 感谢您的时间和帮助！   由   提交 /u/trestologni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auypow/advice_on_libraries_for_2d_to_3d_product/</guid>
       <pubDate>Mon, 19 Feb 2024 21:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>生物统计学（或一般数学）的最佳聊天机器人？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auwbqw/best_chatbot_for_biostatistics_or_math_in_general/</link>
-      <description><![CDATA[嘿！所以，我目前正在学习生物统计学课程，但我的能力超出了我的能力范围。我一直在使用 CGPT 4（我还添加了 Wolfram 插件）来帮助我完成课程，但我注意到它只正确了大约 60-70% 的提示。因为有图表，所以我会把不懂的东西拍下来上传。有什么建议么？    由   提交/u/plag973  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auwbqw/best_chatbot_for_biostatistics_or_math_in_general/</guid>
-      <pubDate>Mon, 19 Feb 2024 19:36:40 GMT</pubDate>
     </item>
     <item>
       <title>您想在家中拥有一个人工智能助手或程序吗？</title>
