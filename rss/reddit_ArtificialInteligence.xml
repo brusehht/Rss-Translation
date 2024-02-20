@@ -4,20 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 06:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 09:11:10 GMT</lastBuildDate>
+    <item>
+      <title>使用带有 kmeans 的句子嵌入模型逐渐增加 CPU 负载</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avcvpr/gradually_increasing_cpu_load_on_using_sentence/</link>
+      <description><![CDATA[我有一个基于 ML 的生产应用程序，使用 Flask，使用 Gunicorn Workers 部署在 GCP 服务器上。在每个传入请求中，都会收到一个文本句子。 它使用全局加载一次的句子转换器（All-MiniLM-L6-v2 模型）来创建传入文本的嵌入，然后使用预先训练的 kmeans（也全局加载）来预测/将其映射到意图集群。基本上，目标是找到句子的意图。 我有足够的资源，请求的数量也恒定，文本也相似，但每天CPU负载都在逐渐增加。第一天的平均响应时间约为 200 毫秒，10 天后现在为 400 毫秒。 我尝试在代码本身中使用“del”命令删除嵌入变量，同时还强制 python 垃圾收集器在主进程执行完成后执行的线程中使用“gc.collect()”，但问题仍然出现。 我注意到的一件事是，如果我不使用 del 和 gc。收集（）后，RAM开始逐渐下降。对于这两种情况，RAM 是恒定的，但现在 CPU 使用率每天都在逐渐增加，因此负载和响应时间也随之增加。 我花了数周的时间在这个问题上尝试调试它，但没有找到解决方案，如有任何帮助，我们将不胜感激。   由   提交/u/Devinco001  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avcvpr/gradually_increasing_cpu_load_on_using_sentence/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:34:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>FiT：用于扩散模型的灵活视觉变压器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avcs3h/fit_flexible_vision_transformer_for_diffusion/</link>
+      <description><![CDATA[自然是无限分辨率无关的。在这种现实背景下，现有的扩散模型（例如扩散变压器）在处理训练域之外的图像分辨率时经常面临挑战。为了克服这一限制，我们提出了灵活视觉变压器（FiT），这是一种专门为生成分辨率和纵横比不受限制的图像而设计的变压器架构。与将图像视为静态分辨率网格的传统方法不同，FiT 将图像概念化为动态大小的标记序列。这种视角实现了灵活的训练策略，可以在训练和推理阶段轻松适应不同的纵横比，从而促进分辨率泛化并消除图像裁剪引起的偏差。通过精心调整的网络结构和免训练外推技术的集成，FiT 在分辨率外推生成方面表现出卓越的灵活性。综合实验证明了 FiT 在广泛的分辨率范围内的卓越性能，展示了其在训练分辨率分布内外的有效性。  -ArXiv：https://arxiv.org/pdf/2402.12376.pdf   由   提交/u/Novita_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avcs3h/fit_flexible_vision_transformer_for_diffusion/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不明白人工智能因为工作被抢走而仇恨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avcovg/i_dont_understand_ai_hatred_because_of_jobs_taken/</link>
+      <description><![CDATA[从安全角度反对人工智能的论点对我来说似乎非常有效。  但是人工智能不好，因为它可以取代很多人，在我看来这并不是一个有效的论点。为什么不尝试取代重复性的工作呢？甚至整个软件都是建立在重复事物的抽象之上的。  每个组织中的每个人都使用一些可以减少工作量的工具。  指出我错误的地方。谢谢。   由   提交/u/gkas2k1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avcovg/i_dont_understand_ai_hatred_because_of_jobs_taken/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 会大声朗读我的 pdf 文件</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avc7sh/ai_that_will_read_out_loud_my_pdfs/</link>
+      <description><![CDATA[我个人对人工智能没有太多经验，但最近我一直想知道是否有一个人工智能可以帮助我解决问题我一直有。我的教授将我们的阅读材料以扫描书页的 PDF 格式发布在网上。我们的阅读材料又长又无聊，因为我是一名艺术学生，所以我更喜欢在做艺术作业时听它们。但因为它们是从书本上扫描的，所以我无法将文本复制并粘贴到文本转语音程序中。  有没有一种工具可以帮助我从 pdf 图像中提取文本？一个可以大声朗读给我听的人怎么样？  我遇到的一个问题是读物太长而无法复制，即使在极少数情况下它们不是扫描的书页。我该怎么办？ 感谢技术人员的帮助！   由   提交 /u/LookLogical3098   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avc7sh/ai_that_will_read_out_loud_my_pdfs/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据与算法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avbuvr/data_vs_algorithms/</link>
+      <description><![CDATA[我想这是“遗传学与教养”的新风格。辩论：我只是想知道当前的“成功”有多少。人工智能在模仿人类智能方面的作用取决于实现人工智能引擎的算法，以及用于教导人工智能如何行为的大量数据及其质量。  我的看法是，算法充当过滤器：它们从数据中提取“人类印象”。当我们与人工智能互动时我们会认识到这一点。因此，更好的算法可以产生更好的结果，但前提是这些结果已经隐藏在训练数据中。    由   提交/u/fbochicchio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avbuvr/data_vs_algorithms/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:27:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sentient Relivia VS CHATGPT - 终极人工智能对决</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avbdid/sentient_relivia_vs_chatgpt_ultimate_ai_showdown/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avbdid/sentient_relivia_vs_chatgpt_ultimate_ai_showdown/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:56:57 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Scikit Learn 构建电影推荐系统的 3 种方法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avamxm/3_ways_to_build_a_movie_recommendation_system/</link>
       <description><![CDATA[在OTT平台上看《蜘蛛侠2》，刚看完就提示玩《蜘蛛侠3》。有没有想过服务怎么样提供商知道要推荐哪些电影或电视节目？它由推荐引擎提供支持，该引擎了解用户的需求。让我们看看什么是推荐系统以及如何使用 Scikit learn 开发推荐系统。  阅读：https://www.seaflux.tech/blogs/movie -推荐系统使用-scikit   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avamxm/3_ways_to_build_a_movie_recommendation_system/</guid>
       <pubDate>Tue, 20 Feb 2024 06:12:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何联系人工智能工程师？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1avajmz/how_do_i_get_in_contact_with_a_ai_engineers/</link>
-      <description><![CDATA[我需要面试一位人工智能工程师或与学校职位描述类似的人，我想知道这里有人知道如何联系吗？如果它能与音乐和人工智能相关，那就太好了，但任何有关人工智能的内容都会有帮助。   由   提交/u/Oraio-King  /u/Oraio-King  reddit.com/r/ArtificialInteligence/comments/1avajmz/how_do_i_get_in_contact_with_a_ai_engineers/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1avajmz/how_do_i_get_in_contact_with_a_ai_engineers/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:06:36 GMT</pubDate>
     </item>
     <item>
       <title>您对AI伴侣机器人有何看法？</title>
@@ -29,30 +64,9 @@
     <item>
       <title>将为人们留下哪些工作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ava5js/what_jobs_will_be_left_for_people/</link>
-      <description><![CDATA[在比人类更聪明、更快、更便宜的人工智能和更强大、更便宜的机器人之间..还会剩下什么工作？ 不会有大量失业吗？  如果他们将人工智能和机器人结合起来，我们基本上会创造一个比我们更聪明、更强大的种族，并期望他们免费为我们工作？他们不会接管吗？   由   提交/u/lakurblue  [链接] [评论]]]></description>
+      <description><![CDATA[在比人类更聪明、更快、更便宜的人工智能和更强大、更便宜的机器人之间..还会剩下什么工作？ 会出现大量失业吗？  如果他们将人工智能和机器人结合起来，我们是否会创造出一个比我们更聪明、更强大的种族，并期望他们免费为我们工作？他们不会接管吗？ 我不反对人工智能，我认为它会极大地改变世界！好和坏。我可以看到正在发生的一些事情是自动驾驶汽车，医疗进步，他们可能会制作电影和有影响力的人工智能，可能是歌曲和书籍，零售工人大多会去 只是对将要发生的事情有点困惑一些见解   由   提交/u/lakurblue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ava5js/what_jobs_will_be_left_for_people/</guid>
       <pubDate>Tue, 20 Feb 2024 05:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的人工智能照片模拟器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ava5ip/best_ai_photo_simulator/</link>
-      <description><![CDATA[我尝试过 PhotoRoom，它工作正常，但我的照片与我不完全相同。他们添加了我脸部的一些特征，但仍然不精确。 现在最好的照片人工智能编辑器是什么，可以将您的脸部放入不同的模型和设置中？   由   提交/u/Fit_Chemical4554  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ava5ip/best_ai_photo_simulator/</guid>
-      <pubDate>Tue, 20 Feb 2024 05:44:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道如何生成最佳的自定义人工智能语音模型吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av9bo8/anybody_know_how_to_generate_the_best_custom_ai/</link>
-      <description><![CDATA[我有一个应用程序，我可以使用我的声音来制作一个 AI 模型，我可以用它来制作歌曲的封面。有人知道我应该说什么来生成最佳语音模型吗？   由   提交 /u/Batapple1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av9bo8/anybody_know_how_to_generate_the_best_custom_ai/</guid>
-      <pubDate>Tue, 20 Feb 2024 04:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2/​​19/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av7xrg/oneminute_daily_ai_news_2192024/</link>
-      <description><![CDATA[ 人工智能生成的普京向普京询问他传闻中的替身。[1] 微软投资 21 亿美元扩大其在西班牙的人工智能基础设施。[2] 人工智能生成的不成比例的老鼠生殖器进入同行评审期刊。[3]&lt; /li&gt; 宾夕法尼亚大学工程师开发了可以用光波训练人工智能的芯片。[4]  来源包括：https://bushaicave.com/2024/02/19/2-19-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av7xrg/oneminute_daily_ai_news_2192024/</guid>
-      <pubDate>Tue, 20 Feb 2024 03:43:21 GMT</pubDate>
     </item>
     <item>
       <title>当人工智能系统进化到超出人类理解范围后，我们如何控制它们？</title>
@@ -76,25 +90,11 @@
       <pubDate>Mon, 19 Feb 2024 22:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>官方授权的AI抓取即将到来...</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1av0dsp/officially_licensed_ai_scraping_is_coming/</link>
-      <description><![CDATA[在没有 Reddit 或我们许可的情况下，我们已经培训 LLM 相当长一段时间了。现在我们已经到了应该做的事情了……Reddit 从我们的集体 IP 中赚到了更多的钱。嘿，我们不应该抱怨...如果我们想使用这些新方式进行良好的沟通，您就必须按原样接受 TOS 或 EULA，然后坐下来享受成为一个人的孤岛的乐趣。  https:/ /arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/ &lt; !-- SC_ON --&gt;  由   提交/u/habu-sr71  /u/habu-sr71 reddit.com/r/ArtificialInteligence/comments/1av0dsp/officially_licensed_ai_scraping_is_coming/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1av0dsp/officially_licensed_ai_scraping_is_coming/</guid>
-      <pubDate>Mon, 19 Feb 2024 22:12:27 GMT</pubDate>
-    </item>
-    <item>
       <title>您想在家中拥有一个人工智能助手或程序吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1auty5z/would_you_like_to_have_an_ai_assistant_or/</link>
-      <description><![CDATA[最近我一直在思考将人工智能助手或程序集成到我们家中的想法，我很好奇您对此的想法事情。随着技术的快速进步，拥有智能扬声器、虚拟助手甚至机器人助手等人工智能伴侣似乎不再只是科幻梦想，而是成为现实。 一方面，拥有人工智能助理可以简化任务、自动化日常琐事并提高我们日常生活的效率。想象一下，有一个虚拟助手来提醒您约会、管理您的购物清单、控制家庭设备，甚至进行随意的对话。 我仅在工作中使用人工智能助手，ShortlistIQ 为工作提供帮助面试非常有帮助，尤其是对于大公司。  您对帮助完成日常任务的人工智能助手应用程序有什么建议吗？ 但是，另一方面，人们对隐私、数据安全和潜在风险存在合理的担忧。因为过度依赖技术。我们都见过反乌托邦的叙述，其中人工智能变得过于强大或具有侵略性，导致失去自主权甚至存在生存威胁。 那么，您对此有何看法？您对人工智能在家中陪伴的前景感到兴奋吗？还是这个想法让您感到不安？ 在欢迎人工智能进入您的生活空间之前，您希望看到哪些功能或保障措施？ &gt;   由   提交 /u/Amarylss   [链接] [评论]]]></description>
+      <description><![CDATA[最近我一直在思考将人工智能助手或程序集成到我们家中的想法，我很好奇您对此的想法事情。随着技术的快速进步，拥有智能扬声器、虚拟助手甚至机器人助手等人工智能伴侣似乎不再只是科幻梦想，而是成为现实。 一方面，拥有人工智能助理可以简化任务、自动化日常琐事并提高我们日常生活的效率。想象一下，有一个虚拟助手来提醒您约会、管理您的购物清单、控制家庭设备，甚至进行随意的对话。 我仅在工作中使用人工智能助手，ShortlistIQ 为工作提供帮助面试非常有帮助，尤其是对于大公司。  您对帮助完成日常任务的人工智能助手应用程序有什么建议吗？ 但是，另一方面，人们对隐私、数据安全和潜在风险存在合理的担忧。因为过度依赖技术。我们都见过反乌托邦的叙述，其中人工智能变得过于强大或具有侵略性，导致失去自主权甚至存在生存威胁。 那么，您对此有何看法？您对人工智能在家中陪伴的前景感到兴奋吗？还是这个想法让您感到不安？ 在欢迎人工智能进入您的生活空间之前，您希望看到哪些功能或保障措施到位？ &gt;   由   提交 /u/Amarylss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1auty5z/would_you_like_to_have_an_ai_assistant_or/</guid>
       <pubDate>Mon, 19 Feb 2024 18:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个 Reddit 子版块充满了附属链接（垃圾邮件）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aurbo6/this_subreddit_is_full_with_affiliate_linksspam/</link>
-      <description><![CDATA[此 Reddit 上有史以来获得最高票数的主题是这个： 2024 年有推荐的 NSFW AI 聊天机器人吗？https://www.reddit.com/r/ArtificialInteligence/comments/18timka/any_nsfw_ai_chatbot_recommend_in_2024/&lt; /p&gt; 此页面上的所有评论都有聊天机器人的附属链接。这意味着，如果有人点击该链接，并最终付款。留下评论的人将获得金钱。 最高点赞的评论有 3.9k 点赞，附有附属链接：https://www.reddit.com/r/ArtificialInteligence/comments/18timka/comment/kg5elhm/?utm_source=reddit&amp;utm_medium =web2x&amp;context=3 此 Reddit 充斥着垃圾邮件。没有版主吗？   由   提交 /u/pimmm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aurbo6/this_subreddit_is_full_with_affiliate_linksspam/</guid>
-      <pubDate>Mon, 19 Feb 2024 16:23:37 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>

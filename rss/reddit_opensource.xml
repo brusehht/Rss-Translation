@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 06:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 09:12:22 GMT</lastBuildDate>
     <item>
-      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
+      <title>Qpackt：让生活更轻松的 Web 服务器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avcmn6/qpackt_a_web_server_that_makes_life_easier/</link>
+      <description><![CDATA[嘿r/opensource！ 最近我发布了 Qpackt，一个 Web 服务器，它：  具有基本、GDPR 合规、分析。 可以为您的网站提供多个版本。这可用于 A/B 测试，跟踪来自不同来源的用户参与度或温和地将用户滚动到新版本。 可以自动获取（并续订） ) SSL 证书。 具有 GUI 配置（主要是;)）以方便使用。 它在 qpackt.com 但它还没有准备好投入生产。 我对此有一些很棒的计划，但首先我只是寻求意见。如果您发现它可能有用，请给它一颗星。    由   提交/u/Over_Intention3342   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avcmn6/qpackt_a_web_server_that_makes_life_easier/</guid>
+      <pubDate>Tue, 20 Feb 2024 08:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索开源错误修复和功能添加的解决方案 - 专用平台可以提供帮助吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1avbn40/exploring_a_solution_for_opensource_bug_fixes_and/</link>
+      <description><![CDATA[嗨r/opensource！我正在考虑维护人员在寻找错误或所需功能的贡献时所面临的挑战。一个激励开发人员直接解决这些问题（可能有奖励）的平台有用吗？寻求您对这个概念的诚实想法。   由   提交 /u/deven_rathore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1avbn40/exploring_a_solution_for_opensource_bug_fixes_and/</guid>
+      <pubDate>Tue, 20 Feb 2024 07:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我写了一篇关于如何在 Arduino IDE 中为 ESP32S3 提供更大的闪存和内存选项的文章想与大家分享，并且想知道你们还有其他想法吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</link>
-      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的较旧 IDE 配合使用，并且由于 Arduino 和开发板版本更新得非常快，因此不可能每次有新版本出现时都更新我们所有的程序。 但是，如果您真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
+      <description><![CDATA[写这篇文章的原因是一些朋友要求我们使用其产品自己的[csv和board]配置文件更新Arduino IDE ESP32s3板，以允许为了充分利用 16MB Flash 和 8MB PSRAM 内存，因为当前默认板配置使用 [esp32s3 Dev Module]，最多只允许使用 3MB 内存，这限制了可用的完整 16MB 容量。 过去我们的很多程序都依赖稳定版本，有的依赖ESP32的1.0.6，有的依赖2.0.11。而且它们大多与 Arduino 的旧版 IDE 配合使用，而且由于 Arduino 和开发板版本更新得非常快，不可能每次有新版本出现时都更新我们所有的程序。 但是，如果你真的需要更大的闪存和内存，我们可以提供一种方法供您使用（6.25MB APP/3.43MB SPIFFS）。  打开您的Arduino ESP32包的位置。 然后用VSCODE或者其他文本编辑器打开boards.txt，请搜索“esp32s3”。菜单。分区方案”。你会看到很多熟悉的选项，在这些关键字的最后一行，添加以下配置。  ​ esp32s3. menu.PartitionScheme.mf_large=MF 16MB（6.25MB APP/3.43MB SPIFFS） esp32s3.menu.PartitionScheme.mf_large.build.partitions=default_16MB esp32s3.menu.PartitionScheme.mf_large.upload.maximum_size=6553600   然后重新启动arduino ide，就可以使用该选项了。  具体细节，我其实写过一篇博客，里面有更清晰的图片实际操作中，如果您感兴趣，请点击以下链接 https://www.makerfabs.com/blog/post/larger-flash-and-memory-options-for-esp32s3-in-arduino-ide。如果有相关的欢迎评论 如果这篇文章可以帮助你们，我会很高兴！ ​ 此外，Arduino Due Board 售价 25 美元现在就在我们的网站上，如果您有兴趣，请查看 https://www.makerfabs.com/   由   提交 /u/Vearts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avalnd/i_wrote_an_article_about_how_to_larger_flash_and/</guid>
       <pubDate>Tue, 20 Feb 2024 06:10:04 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>React-print-pdf：一个使用 React 生成 PDF 的开源库</title>
       <link>https://www.reddit.com/r/opensource/comments/1av4f7v/reactprintpdf_an_opensource_library_to_generate/</link>
-      <description><![CDATA[大家好，在过去的几周里，我和两个朋友一直在开发一个名为“react-print-pdf&quot;。我们的目标？为开发人员提供更好的 PDF 设计方式。我们厌倦了处理 Overleaf 上的 LaTeX 和 Microsoft Word 上的 docx，因此我们开始创建一些利用现代 Web 技术（例如 React）的东西 您可以从库中获得什么？ - 与我们使用的其他库不同，我们让您完全控制 PDF 的布局：边距、字体、样式、图像、图表、表格——一切。像设计网站一样设计 PDF。 - 我们已经构建了 React 组件，例如页脚、页眉和脚注，以及报告、发票、保密协议、简历等模板。我们不断添加新的模板/组件，并鼓励社区做出贡献（请继续关注我们即将推出的市场，您将在其中找到所有社区模板）。 - 将数据库中的动态数据直接无缝集成到您的文档中。  工作流程简单但功能强大：React --&gt; HTML x CSS --&gt; PDF  我们很想听听您的想法！如果您有兴趣做出贡献，可以在我们的文档中找到所有信息，或者您也可以加入我们的Discord 并与社区其他成员聊天。  ⭐️ 查看我们的存储库，如果您喜欢所看到的内容，请为其加注星标，并发表评论以分享您的反馈：https://github.com/OnedocLabs/react-print-pdf  奖励：我们实现了“Markdown”今天的组件，所以如果您想用 Markdown 编写 PDF 的某些部分，现在就可以。我们很想听听您关于如何使这个库更好、对开发人员有用的一些想法！    由   提交 /u/atroskalov   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，在过去的几周里，我和两个朋友一直在开发一个名为“react-print-pdf&quot;。我们的目标？为开发人员提供更好的 PDF 设计方式。我们厌倦了处理 Overleaf 上的 LaTeX 和 Microsoft Word 上的 docx，因此我们开始创建一些利用现代 Web 技术（例如 React）的东西 您可以从库中获得什么？ - 与我们使用的其他库不同，我们让您完全控制 PDF 的布局：边距、字体、样式、图像、图表、表格——一切。像设计网站一样设计 PDF。 - 我们已经构建了 React 组件，例如页脚、页眉和脚注，以及报告、发票、保密协议、简历等模板。我们不断添加新的模板/组件并鼓励社区做出贡献（请继续关注我们即将推出的市场，您将在其中找到所有社区模板）。 - 将数据库中的动态数据直接无缝集成到您的文档中。  工作流程简单但功能强大：React --&gt; HTML x CSS --&gt; PDF  我们很想听听您的想法！如果您有兴趣做出贡献，可以在我们的文档中找到所有信息，或者您也可以加入我们的Discord 并与社区其他成员聊天。  ⭐️ 查看我们的存储库，如果您喜欢所看到的内容，请为其加注星标，并发表评论以分享您的反馈：https://github.com/OnedocLabs/react-print-pdf  奖励：我们实现了“Markdown”今天的组件，所以如果您想用 Markdown 编写 PDF 的某些部分，现在就可以。我们很想听听您关于如何使这个库更好、对开发人员有用的一些想法！    由   提交 /u/atroskalov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1av4f7v/reactprintpdf_an_opensource_library_to_generate/</guid>
       <pubDate>Tue, 20 Feb 2024 00:58:52 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>寻求帮助恢复旧的网络项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</link>
-      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
+      <description><![CDATA[大约 15 年前，我帮助运营了一个名为 stencilpunks 的网站。它收集了大约 1200 个免费可打印模板，主要与朋克乐队有关。我最终在 2012 年左右接管了该网站，并在 2014 年左右离线，当时我一直使用的免费托管失败了。生活很忙碌，恢复它并不是首要任务。 几个月前，我在一个旧硬盘上发现了该网站的备份，我真的很想恢复模板朋克。我已经注册了 stencilpunks.com，并将在本周晚些时候将所有内容上传到 GitHub。 旧网站非常陈旧，使用框架和表格进行布局。它确实需要更新。维护它也有点混乱。再次获得一个具有服务器端处理功能的真正的 Web 主机将是理想的选择，就像一个基本的后端一样，这样一个目录中就不只有 200 多个几乎相同的 HTML 文件。 但我还没有做任何事情对于十年内的网络开发来说具有任何意义。我更像是一个嵌入式人员，但过去几年我在大学里选修了几门 Java 课程。我正在寻找一位或几位具有一些网络开发知识的贡献者来提供帮助。我对后端框架的偏好为零，虽然我没有使用过 JavaScript，但我非常乐意学习。 如果您有兴趣，请向我发送 DM。 Stencilpunks 在 2000 年代和 2010 年代初期的朋克社区中广为人知，我真的很想再次看到它。 https://imgur.com/a/DZo0HJo   由   提交 /u/themedicd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auxw8b/looking_for_help_reviving_an_old_web_project/</guid>
       <pubDate>Mon, 19 Feb 2024 20:36:40 GMT</pubDate>
     </item>
@@ -71,14 +85,14 @@
     <item>
       <title>开源游戏引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1auu4wh/open_source_game_engine/</link>
-      <description><![CDATA[嗨，我是一名软件工程师，去年 10 月被解雇了。 4 个月后，我将在下周开始一个新的角色，并在一家很棒的公司工作！在我有时间的 4 个月里，我在 pygame 之上构建了一个用 python 构建的开源游戏引擎。该项目进展顺利！但随着我的可用性即将急剧下降，我真的需要一些帮助来建立一个由感兴趣的人组成的社区，与我一起构建这个项目。 除了像这样的 reddit 帖子吗？ 欢迎查看！我使用 github 项目，目前积压的工作量很大，哈哈。 https:// github.com/m-one-w/M1WEngine ​   由   提交 /u/ humanfrompluto   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是一名软件工程师，去年 10 月被解雇了。 4 个月后，我将在下周开始一个新的角色，并在一家很棒的公司工作！在我有时间的 4 个月里，我在 pygame 之上构建了一个用 python 构建的开源游戏引擎。该项目进展顺利！但随着我的可用性即将急剧下降，我真的需要一些帮助来建立一个由感兴趣的人组成的社区来与我一起构建这个项目。 除了像这样的 reddit 帖子吗？ 欢迎查看！我使用 github 项目，目前积压的工作量很大，哈哈。 https:// github.com/m-one-w/M1WEngine ​   由   提交 /u/ humanfrompluto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auu4wh/open_source_game_engine/</guid>
       <pubDate>Mon, 19 Feb 2024 18:12:07 GMT</pubDate>
     </item>
     <item>
       <title>开源项目是否应该允许禁用遥测？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ausyxa/should_opensource_projects_allow_disabling/</link>
-      <description><![CDATA[我们刚刚让用户提交了问题和 PR，以恢复我们之前所做的更改，即删除禁用遥测的选项。我们认为与早期开发的开源工具的作者分享使用数据是一个公平的要求；但用户的观点也是完全可以理解的。我们这里错了吗？ https://github.com/diggerhq/digger/issues/1179 当然，我们不是第一家面临这种困境的开源公司。我们不想疏远社区；但失去使用可见性听起来也不太好。给人们“更多隐私”按钮，大多数人都会按下它。有快乐的媒介吗？  （我们还在 HN 上发布了此内容，x-posting 在这里，以便我们对下一步要采取的步骤有一个明智的看法）  &amp; #32；由   提交/u/utpalnadiger  [链接] [评论]]]></description>
+      <description><![CDATA[我们刚刚让一位用户提交了问题和 PR，以恢复我们之前所做的更改，即删除禁用遥测的选项。我们认为与早期开发的开源工具的作者分享使用数据是一个公平的要求；但用户的观点也是完全可以理解的。我们这里错了吗？ https://github.com/diggerhq/digger/issues/1179 当然，我们不是第一家面临这种困境的开源公司。我们不想疏远社区；但失去使用可见性听起来也不太好。给人们“更多隐私”按钮，大多数人都会按下它。有快乐的媒介吗？  （我们还在 HN 上发布了此内容，x-posting 在这里，以便我们对下一步要采取的步骤有一个明智的看法）  &amp; #32；由   提交/u/utpalnadiger  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ausyxa/should_opensource_projects_allow_disabling/</guid>
       <pubDate>Mon, 19 Feb 2024 17:27:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我创建了一个开源应用程序并发布在 Github 上。我相信有一些用户，因为有一些明星。 自从我几个月前发布以来，Github 上没有创建任何问题。很安静。与我的其他开源库相比，这是非常不同的，这些库在发布后很快就收到了问题。 但我的应用程序并非没有错误。我自己经常发现严重的错误。也许用户遇到bug就直接转身了。我将设置一些自动测试。除了技术解决方案之外，如何鼓励用户报告错误而不是离开？   由   提交 /u/CommunicationFun2962   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1auodck/no_bug_report_or_feature_request/</guid>
       <pubDate>Mon, 19 Feb 2024 14:19:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>jbtronics/settings-bundle：一个 symfony 包，可以轻松地为 symfony 应用程序创建类型安全、用户可配置的设置</title>
-      <link>https://www.reddit.com/r/opensource/comments/1auo0t6/jbtronicssettingsbundle_a_symfony_bundle_to/</link>
-      <description><![CDATA[       由   提交/u/jbtronics  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1auo0t6/jbtronicssettingsbundle_a_symfony_bundle_to/</guid>
-      <pubDate>Mon, 19 Feb 2024 14:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免开源项目中的专利侵权</title>
-      <link>https://www.reddit.com/r/opensource/comments/1aunpf0/avoiding_patent_infringement_in_open_source/</link>
-      <description><![CDATA[大家好，我刚刚开始为朋友做一个项目，我知道结果将类似于商业项目（但绝对是）考虑到不同的目标）。 我很想避免侵犯他们的专利，但不确定在哪里可以找到他们拥有哪些专利。对于查找专利详细信息并在开源项目中进行导航，有人有任何建议吗？   由   提交 /u/minermenace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1aunpf0/avoiding_patent_infringement_in_open_source/</guid>
-      <pubDate>Mon, 19 Feb 2024 13:48:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
