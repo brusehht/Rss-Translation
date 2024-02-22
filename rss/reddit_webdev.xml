@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 06:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 09:12:42 GMT</lastBuildDate>
+    <item>
+      <title>为什么我选择 Tauri 而不是 Electron</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ax1qk2/why_i_chose_tauri_instead_of_electron/</link>
+      <description><![CDATA[已找到这篇有趣的文章 为什么选择 Tauri 而不是 Electron 来构建桌面应用程序。他们强调了 Tauri 的优点，例如后端和前端的清晰分离、更小的应用程序大小和插件系统。他们还在编程语言和生态系统、Webview、功能和移动支持方面将 Tauri 与 Electron 进行了比较。   由   提交 /u/Forsterps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ax1qk2/why_i_chose_tauri_instead_of_electron/</guid>
+      <pubDate>Thu, 22 Feb 2024 08:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>视图转换：处理宽高比变化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ax0udz/view_transitions_handling_aspect_ratio_changes/</link>
+      <description><![CDATA[       由   提交/u/jaffathecake  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ax0udz/view_transitions_handling_aspect_ratio_changes/</guid>
+      <pubDate>Thu, 22 Feb 2024 07:45:51 GMT</pubDate>
+    </item>
     <item>
       <title>这是一个很好的职业吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1awzd2s/is_this_a_good_career_to_go_into/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/feltatap  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1awszvx/how_we_optimise_frontend_component_reuse_at_the/</guid>
       <pubDate>Thu, 22 Feb 2024 00:54:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我开发一个前端带有 Html、CSS 和 Js 的全栈 Web 应用程序，后端带有 SQL Server 的 asp.net core Web API，那么部署和托管的通常操作过程是什么。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awsoj6/if_i_develop_a_full_stack_web_app_with_html_css/</link>
-      <description><![CDATA[在此应用程序中集成用户注册/身份验证、支付处理和电子邮件发送服务的常用选项是什么。 我的背景更多是在 .net 的后端量化开发方面，所以请不要介意这在 Web 开发环境中是否是一个设置不当的问题。我一直在寻找来自 AWS、Hostinger 等的选项，现在对使应用程序上线的可用路径数量感到不知所措。其中一些选项的成本&gt;每月 50 美元，目前超出预算。   由   提交/u/Ngc2273  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awsoj6/if_i_develop_a_full_stack_web_app_with_html_css/</guid>
-      <pubDate>Thu, 22 Feb 2024 00:40:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助寻找 Laravel 的文件管理库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1awsb2n/need_help_finding_a_file_management_library_for/</link>
-      <description><![CDATA[大家好， 我目前正在开发一个名为“Nuance”的应用程序，专为管理应用程序更新包而定制的内容管理系统。这些包的大小差异很大，从几百兆字节到最大 30GB。作为系统工作流程的一部分，文件使用 Filepond 上传并存储在 storage\app\filepond 目录中。随后，它们被移动到指定的目录，重命名为“Package”。并通过互联网提供服务。为了保持一致性，所有文件均采用 zip 格式。 我面临的主要挑战之一是在不占用服务器资源的情况下管理不断增长的用户生成内容。为了解决这个问题，我一直在探索与 Laravel 无缝集成并提供强大的媒体管理功能的库和工具。 在我的研究过程中，我发现了一个与 Spatie 组织相关的库，它看起来很有前途。但是，在继续之前，我想向社区寻求见解和建议。 具体来说，我感兴趣的是：  兼容性：有人使用过这个库吗？在涉及大型媒体文件的类似 Laravel 项目中？它与 Laravel 的生态系统集成得很好吗？ 媒体管理：该库是否提供有效管理和删除媒体文件的功能？我特别担心避免由于内容积累过多而导致服务器过载。  虽然我对这个库的潜在适合性持乐观态度，但我愿意探索由社区。任何基于您的经验的建议或见解将不胜感激。 提前感谢您的宝贵意见和指导！    ;由   提交 /u/SkyLightYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1awsb2n/need_help_finding_a_file_management_library_for/</guid>
-      <pubDate>Thu, 22 Feb 2024 00:23:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
