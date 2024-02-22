@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 12:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 15:12:23 GMT</lastBuildDate>
+    <item>
+      <title>媒体正在谈论我们过去十年来一直在谈论的#FOSS 技术中的#feudalism。是时候离开这个烂摊子了#OGB</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ax8owl/the_media_is_talking_about_the_feudalism_in_our/</link>
+      <description><![CDATA[ 由   提交/u/openmedianetwork  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ax8owl/the_media_is_talking_about_the_feudalism_in_our/</guid>
+      <pubDate>Thu, 22 Feb 2024 15:10:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>很高兴看到我的一星级库有 70 次下载</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ax7rjw/excited_to_see_70_downloads_on_my_1star_library/</link>
+      <description><![CDATA[去年我向 Github 和 Maven Central 发布了一个开源日期时间库。我从不推广它，所以它在 Github 上只获得了 1 颗星。我想看看除了我之外还有没有人在使用它，所以我在其他项目中没有将其使用升级到最新版本。 今天下载统计出来了。最新版本的下载量超过70次，真是令人惊讶！这真的激励我继续进化它（虽然看起来进化的地方不大）！ 只是想知道，你敢使用只有 1 颗星的库吗？如果是，为什么？ 另一个问题是，我希望该库通过支持时区更改/夏令时对其他人更有帮助。但我住在一个没有时区变化/夏令时的城市。我可以从哪里开始呢？我读过维基百科之类的文章，但不太明白其中的规则。   由   提交 /u/CommunicationFun2962   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ax7rjw/excited_to_see_70_downloads_on_my_1star_library/</guid>
+      <pubDate>Thu, 22 Feb 2024 14:31:16 GMT</pubDate>
+    </item>
     <item>
       <title>Kiwix 将成为今年编程之夏的一部分，如果您正在寻找实习（和/或项目），这里就是您的最佳选择</title>
       <link>https://www.reddit.com/r/opensource/comments/1ax3ljj/kiwix_will_be_part_of_this_years_summer_of_code/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>添加赞助链接感到尴尬</title>
       <link>https://www.reddit.com/r/opensource/comments/1avwo4u/feeling_awkward_about_adding_a_sponsorship_link/</link>
-      <description><![CDATA[你好！ 我一直在人工智能领域构建一个开源项目，并且与很多用户进行了交谈，并发现了一些令人兴奋的利基市场，我可以在此基础上继续发展。不过，由于可能需要一些 AI 和其他 API 成本，所以我别无选择，只能放一个赞助链接。我之前创建的任何开源项目都没有明确这样做过，这一次我感到很尴尬。 以下是我的主要担忧以及我向您寻求的建议： - 我如何才能有效地传达财务支持的需求，而又不会损害项目的开源完整性或我们社区的信任？   我们如何整合财务支持机制，以符合我们对开源原则的承诺和项目的协作精神？     由   提交 /u/metalvendetta   [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 我一直在人工智能领域构建一个开源项目，并且与很多用户进行了交谈，并发现了一些令人兴奋的利基市场，我可以在此基础上继续发展。不过，由于可能需要一些 AI 和其他 API 成本，所以我别无选择，只能放一个赞助链接。我之前创建的任何开源项目都没有明确这样做过，这次我感到很尴尬。 以下是我的主要担忧以及我向您寻求的建议： - 我如何才能有效地传达财务支持的需求，而又不会损害项目的开源完整性或我们社区的信任？   我们如何整合财务支持机制，以符合我们对开源原则的承诺和项目的协作精神？     由   提交 /u/metalvendetta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avwo4u/feeling_awkward_about_adding_a_sponsorship_link/</guid>
       <pubDate>Tue, 20 Feb 2024 23:38:38 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[遇到一些问题（一直到向导，但在连接/设置 PostgreSQL 数据库时遇到问题）。很想与熟悉的人聊天以帮助查看可能出现的错误！对于编码和一切都是新手。    由   提交/u/natelizabeth10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1avuqj5/looking_for_help_with_setting_up_adempiere_on_mac/</guid>
       <pubDate>Tue, 20 Feb 2024 22:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 开源 Steam Audio</title>
-      <link>https://www.reddit.com/r/opensource/comments/1avnooz/valve_releases_steam_audio_as_open_source/</link>
-      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1avnooz/valve_releases_steam_audio_as_open_source/</guid>
-      <pubDate>Tue, 20 Feb 2024 17:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何翻译播客？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1avmcie/how_to_translate_a_podcast/</link>
-      <description><![CDATA[我想将 Andrew Huberman 的播客翻译成法语 您知道有一个 FOSS 应用程序可以做到这一点吗？  我很想听到音频形式的结果。   由   提交/u/clara59000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1avmcie/how_to_translate_a_podcast/</guid>
-      <pubDate>Tue, 20 Feb 2024 16:49:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

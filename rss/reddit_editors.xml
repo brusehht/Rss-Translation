@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 22 Feb 2024 12:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 15:11:48 GMT</lastBuildDate>
     <item>
       <title>无法在 CBR 中导出 H265</title>
       <link>https://www.reddit.com/r/editors/comments/1ax4o15/cant_export_h265_in_cbr/</link>
@@ -15,16 +15,9 @@
     <item>
       <title>有人可以帮助我理解同步时的波形漂移吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1ax4kfk/can_somebody_help_me_understand_this_waveform/</link>
-      <description><![CDATA[大家好。好吧，我正在构建一个多机位装配时间线，其中包含同一主题的三个不同镜头和一个音频源。我正在手动同步（杀了我）。 这是场地提供的研讨会录音。他们提供了来自三台时间码不同步的摄像机的 23.978p 源剪辑，以及来自拍摄对象盥洗室的原始音频。来自 lav 的音频传输到所有三个摄像机中，但存在明显的频率问题，因此我将使用源音频。 我使用音频中的波形作为同步参考，但源音频大约 10 分钟后波形开始偏离视频波形。它们是 100% 相同的源，我的时间线与源素材的帧速率相同。 您能想到什么可以解释为什么 .WAV 音频随着时间的推移会在时间轴上占据不同的空间吗？相同的音频直接从摄像机烘焙到 ProRes 素材中吗？这让我感到疯狂。 系统规格：  运行 MacOS 14.3.1 的 2019 Mac Pro Adobe Premiere 2024 &lt; li&gt;素材为 ARRI Amira ProRes 422 Lav 音频来自 Zaxcom ZMT4    由   提交/u/ thrownaway217   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。好吧，我正在构建一个多机位装配时间线，其中包含同一主题的三个不同镜头和一个音频源。我正在手动同步（杀了我）。 这是场地提供的研讨会录音。他们提供了来自三台时间码不同步的摄像机的 23.978p 源剪辑，以及来自拍摄对象盥洗室的原始音频。来自 lav 的音频被传输到所有三个摄像机中，但存在明显的频率问题，因此我将使用源音频。 我使用音频中的波形作为同步参考，但源音频大约 10 分钟后波形开始偏离视频波形。它们是 100% 相同的源，我的时间线与源素材的帧速率相同。 您能想到什么可以解释为什么 .WAV 音频随着时间的推移会在时间轴上占据不同的空间吗？相同的音频直接从摄像机烘焙到 ProRes 素材中吗？这让我感到疯狂。 系统规格：  运行 MacOS 14.3.1 的 2019 Mac Pro Adobe Premiere 2024 &lt; li&gt;素材为 ARRI Amira ProRes 422 Lav 音频来自 Zaxcom ZMT4    由   提交/u/ thrownaway217   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ax4kfk/can_somebody_help_me_understand_this_waveform/</guid>
       <pubDate>Thu, 22 Feb 2024 11:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以帮助我理解同步时的波形漂移吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ax4kdt/can_somebody_help_me_understand_this_waveform/</link>
-      <description><![CDATA[大家好。好吧，我正在构建一个多机位装配时间线，其中包含同一主题的三个不同镜头和一个音频源。我正在手动同步（杀了我）。 这是场地提供的研讨会录音。他们提供了来自三台时间码不同步的摄像机的 23.978p 源剪辑，以及来自拍摄对象盥洗室的原始音频。来自 lav 的音频传输到所有三个摄像机中，但存在明显的频率问题，因此我将使用源音频。 我使用音频中的波形作为同步参考，但源音频大约 10 分钟后波形开始偏离视频波形。它们是 100% 相同的源，我的时间线与源素材的帧速率相同。 您能想到什么可以解释为什么 .WAV 音频随着时间的推移会在时间轴上占据不同的空间吗？相同的音频直接从摄像机烘焙到 ProRes 素材中吗？这让我感觉很疯狂。   由   提交/u/ thrownaway217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ax4kdt/can_somebody_help_me_understand_this_waveform/</guid>
-      <pubDate>Thu, 22 Feb 2024 11:49:33 GMT</pubDate>
     </item>
     <item>
       <title>导出工作流程优化。</title>
@@ -43,7 +36,7 @@
     <item>
       <title>相机报告=剪辑报告？</title>
       <link>https://www.reddit.com/r/editors/comments/1ax1i7a/camera_report_clip_report/</link>
-      <description><![CDATA[大型制作的新手... 我通过 DIT 收到 silverstack 的“剪辑报告”，这些报告被认为是相机报告？我以为他们通常来自摄影部门而不是 DIT？虽然我知道他们一起工作......   由   提交/u/spaceham26   [链接] [评论]]]></description>
+      <description><![CDATA[大型制作的新手... 我通过 DIT 收到 silverstack 的“剪辑报告”，这些报告被认为是相机报告？我以为他们通常来自摄影部门而不是 DIT？虽然我知道他们一起工作......   由   提交/u/spaceham26  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ax1i7a/camera_report_clip_report/</guid>
       <pubDate>Thu, 22 Feb 2024 08:28:56 GMT</pubDate>
     </item>
@@ -53,13 +46,6 @@
       <description><![CDATA[我刚刚发现了一种制作带有时间码输入和输出的音乐提示表和镜头列表的方法，这比在 nle 中手动计算它们要快得多。 它对于需要时间码信息的翻译非常有用 好吧，实际上 Chat GPT 制作了脚本，我只是提出了问题。 神奇之处如下：  - 脚本从 xml 中取出时间码信息 - 对其进行净化并使其易于阅读 - 然后将所有内容放入 Excel 文件中。 &lt; p&gt;它仍然涉及一些体力劳动，如果你有更快的方法，请分享！！ 我过去在剪辑广播时做了很多这样的事情，经过一些研究，我注意到一些六年前有人在 adobe 论坛上问过同样的问题，所以我知道这个解决方案已经存在了一段时间了。我真的生活在岩石下。 这是聊天链接：（向下滚动到最后一条消息）：https://chat.openai.com/share/928ea972-0358-432e-979d-447417e5ae5f   由   提交 /u/emeahacheese   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1awvkyd/got_sick_of_making_music_cue_sheets_shot_list_and/</guid>
       <pubDate>Thu, 22 Feb 2024 02:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议？</title>
-      <link>https://www.reddit.com/r/editors/comments/1awvh2f/advice/</link>
-      <description><![CDATA[最近我在多个项目中获得了大量的灵感..我很喜欢它，但我太疯狂了，我不知所措，你有什么建议我愿意   由   提交 /u/stendough   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1awvh2f/advice/</guid>
-      <pubDate>Thu, 22 Feb 2024 02:49:12 GMT</pubDate>
     </item>
     <item>
       <title>这种外观是如何实现的？您对此有何看法？</title>
@@ -92,7 +78,7 @@
     <item>
       <title>需要有关退出受薪摄像/编辑职位的建议</title>
       <link>https://www.reddit.com/r/editors/comments/1awkuex/need_advice_on_quitting_a_salaried/</link>
-      <description><![CDATA[编辑们大家好，我将在一家更有信誉的公司接受新的编辑职位，并在两周内大幅加薪，这让我感到非常欣慰. 但是，我对戒烟感到不舒服。我不擅长，这是我以前在专业环境中从未做过的事情。  一些背景信息：我已经在现在的公司工作了 3 个月，在那段时间里，他们的广告、Instagram 视频、YouTube 视频、视频博客、内部内容等项目完全让我不知所措，活动设置和取消，管理其他编辑等。 我的老板从未对我所做的工作说过鼓励或感谢的话，并且不断告诉我做错了什么，但没有明确说明首先的期望。这是一个破碎的系统，我试图改进，但由于领导和沟通方面的差异，寻求其他机会对我的心理健康最好。 办公室里有一个人是我的 POC，我感觉很糟糕我知道我会让他和团队其他成员失望。他们的职位流动率一直很高，我知道他们认为我是长期解决方案。当我第一次到达时，他们做了一些安排，并允许我在工作室里建造剪辑室。  我正在寻求专业人士关于戒烟的建议。如何处理情绪，如何沟通，如何在知道每个人都知道我要戒烟的情况下度过两周，等等。 如果有更好的子来发布此内容，请告诉我。  请分享您在接下来的两周内退出并适应环境的建议。感谢所有回复的人。   由   提交 /u/VenterVisuals   [链接] [评论]]]></description>
+      <description><![CDATA[编辑们大家好，我将在一家更有信誉的公司接受新的编辑职位，并在两周内大幅加薪，这让我感到非常欣慰. 但是，我对戒烟感到不舒服。我不擅长，这是我以前在专业环境中从未做过的事情。  一些背景信息：我已经在现在的公司工作了 3 个月，在那段时间里，他们的广告、Instagram 视频、YouTube 视频、视频博客、内部内容等项目完全让我不知所措，活动设置和取消，管理其他编辑等。 我的老板从未对我所做的工作说过鼓励或感谢的话，并且不断告诉我做错了什么，但没有明确说明首先的期望。这是一个破碎的系统，我试图改进，但由于领导和沟通方面的差异，寻求其他机会对我的心理健康最好。 办公室里有一个人是我的 POC，我感觉很糟糕我知道我会让他和团队其他成员失望。他们的职位流动率一直很高，我知道他们认为我是长期解决方案。当我第一次到达时，他们做了一些安排，并允许我在工作室里建造编辑室。  我正在寻求专业人士关于戒烟的建议。如何处理情绪，如何沟通，如何在知道每个人都知道我要戒烟的情况下度过两周，等等。 如果有更好的子来发布此内容，请告诉我。  请分享您在接下来的两周内戒烟和适应环境的建议。感谢所有回复的人。   由   提交 /u/VenterVisuals   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1awkuex/need_advice_on_quitting_a_salaried/</guid>
       <pubDate>Wed, 21 Feb 2024 19:25:48 GMT</pubDate>
     </item>
@@ -106,9 +92,23 @@
     <item>
       <title>消除或减少闪烁。</title>
       <link>https://www.reddit.com/r/editors/comments/1awguus/removing_or_reducing_flicker/</link>
-      <description><![CDATA[我需要消除或减少闪烁，关于如何做到这一点有什么想法吗？  我已经尝试过使用 Digital Anarchy 的 Flicker free 和 Neat Video 的 Anti-flicker，但没有结果。  以下是闪烁的 GIF 供参考：https://jmp.sh/s/HXQYqwAyAAl58enNH1Xx  我正在 Premiere Pro 中进行编辑。   由   提交/u/justinwilliams26   [链接] [评论]]]></description>
+      <description><![CDATA[我需要消除或减少闪烁，关于如何做到这一点有什么想法吗？  我已经尝试过使用 Digital Anarchy 的 Flicker free 和 Neat Video 的 Anti-flicker，但没有结果。  以下是闪烁的 GIF 供参考：https://jmp.sh/s/HXQYqwAyAAl58enNH1Xx  我正在 Premiere Pro 中进行编辑。   由   提交/u/justinwilliams26  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1awguus/removing_or_reducing_flicker/</guid>
       <pubDate>Wed, 21 Feb 2024 16:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>推销电话与电子邮件；哪一个以及为什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1awg6b2/cold_call_vs_email_which_one_why/</link>
+      <description><![CDATA[这些问题是双向的（对于雇员和雇主）。子里有几篇帖子问过这个问题，但它们已经有好几年了，所以我想知道现在的意见是什么样的。 编辑/AE - 您更喜欢如何联系潜在的雇主？  邮政主管/主管 - 您希望潜在员工如何联系您？ 就上下文而言，我是一名 AE，希望与当地邮政机构合作。 &lt; /div&gt;  由   提交 /u/McClurgler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1awg6b2/cold_call_vs_email_which_one_why/</guid>
+      <pubDate>Wed, 21 Feb 2024 16:22:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约 - 场景更新后？</title>
+      <link>https://www.reddit.com/r/editors/comments/1awg3cw/new_york_post_scene_updates/</link>
+      <description><![CDATA[最后我检查了一切恢复和运行都很慢。我想知道你们这些目前担任内部编辑的人是否有任何谣言说事情是否或何时会开始再次好转？ 目前我一直在担任邮政技术员，同时还自由职业助理编辑，甚至承担无偿编辑工作，只是为了让我的简历保持最新状态，但我今年的目标是成为一名跑步者、后期公共广播，或者即使我梦想更大，在一家房子里担任助理编辑。现在这甚至是一个可行的梦想吗？我听说过有关员工被裁减一半甚至被人工智能取代的传言。 我目前的许多人脉要么已满员，要么正在等待收到关于招聘工作/预算的回复额外的帮助，所以我不确定冷电话/电子邮件还能起到多少作用。   由   提交/u/Desperate_W0nder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1awg3cw/new_york_post_scene_updates/</guid>
+      <pubDate>Wed, 21 Feb 2024 16:19:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
