@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 06:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 09:11:36 GMT</lastBuildDate>
+    <item>
+      <title>cvss 3.1 分数 api 的攻击向量</title>
+      <link>https://www.reddit.com/r/software/comments/1axvrdf/attack_vector_to_cvss_31_score_api/</link>
+      <description><![CDATA[大家好，有谁知道有哪些 API 可以将 3.1 版攻击向量转换为 cvss 分数吗？   由   提交 /u/cannon_pais   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1axvrdf/attack_vector_to_cvss_31_score_api/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:40:49 GMT</pubDate>
+    </item>
     <item>
       <title>通过 USB/任何电缆连接将一台笔记本电脑镜像到另一台笔记本电脑？</title>
       <link>https://www.reddit.com/r/software/comments/1axtdwg/mirror_one_laptop_to_another_over_usbany_cable/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>尝试查找 Windows 控制台中监视按键的 exe 源（几乎任何键）</title>
       <link>https://www.reddit.com/r/software/comments/1axhcot/trying_to_find_source_of_exe_that_monitors/</link>
-      <description><![CDATA[今天有点向后/反向的帖子。我有这个软件，我想弄清楚它来自哪里！ 我在脚本中经常使用这个可执行文件，但我不记得从哪里得到它。它被称为 kbd.exe，当它运行时，它会在控制台上侦听按键并根据按键设置唯一的％errorlevel％。我通常用它来侦听箭头键或功能键，因为 CHOICE 命令不允许使用这些键。 我知道它来自可信来源...我几乎想说它包含在 microsoft 中软件，但不知道是什么。 我想看看是否有命令行选项，例如超时等，但通常的 /? -h /h --help 不要调出帮助菜单。 有人认识这个exe吗？ https://github.com/ITCMD/ITCMD-STORAGE/blob/master/Kbd.exe &lt;!-- SC_ON - -&gt;  由   提交 /u/LinuxIsFree   [链接] [评论]]]></description>
+      <description><![CDATA[今天有点向后/反向的帖子。我有这个软件，我想弄清楚它来自哪里！ 我经常在脚本中使用这个可执行文件，但我不记得从哪里得到它。它被称为 kbd.exe，当它运行时，它会在控制台上侦听按键并根据按键设置唯一的％errorlevel％。我通常用它来侦听箭头键或功能键，因为 CHOICE 命令不允许使用这些键。 我知道它来自可信来源...我几乎想说它包含在 microsoft 中软件，但不知道是什么。 我想看看是否有命令行选项，例如超时等，但通常的 /? -h /h --help 不要调出帮助菜单。 有人认识这个exe吗？ https://github.com/ITCMD/ITCMD-STORAGE/blob/master/Kbd.exe &lt;!-- SC_ON - -&gt;  由   提交 /u/LinuxIsFree   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1axhcot/trying_to_find_source_of_exe_that_monitors/</guid>
       <pubDate>Thu, 22 Feb 2024 20:51:04 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>VBA实习值得吗？</title>
       <link>https://www.reddit.com/r/software/comments/1axfnn1/vba_internship_worth_it/</link>
-      <description><![CDATA[大家好，我是一名软件开发学生，本学期我已经进入兼职实习的第二面试阶段，即将转为全职暑假，重点学习VBA和Excel。  想知道这次实习对我的简历有多大价值？是否值得选择参加暑期课程来减轻我未来的学习负担？目前，我每周在课堂和家庭作业之间投入 60-80 个小时，目标是在暑假期间取得学业进步，这确实让我对更好的学校生活平衡感到高兴和兴奋。 这次实习机会不期而至。希望得到一些关于这是否是一个好举动的建议！或者如果在学业上取得进步是更好的选择？ 在学业结束之前我的经济状况是安全的。    ;由   提交 /u/Ramenshark1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是一名软件开发学生，本学期我已经进入兼职实习的第二个面试阶段，即将转为全职暑假，重点学习VBA和Excel。  想知道这次实习对我的简历有多大价值？是否值得选择参加暑期课程来减轻我未来的学习负担？目前，我每周在课堂和家庭作业之间投入 60-80 个小时，目标是在暑假期间取得学业进步，这确实让我对更好的学校生活平衡感到高兴和兴奋。 这次实习机会不期而至。希望得到一些关于这是否是一个好举动的建议！或者如果在学业上取得进步是更好的选择？ 在学业结束之前我的经济状况是安全的。    ;由   提交 /u/Ramenshark1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1axfnn1/vba_internship_worth_it/</guid>
       <pubDate>Thu, 22 Feb 2024 19:46:07 GMT</pubDate>
     </item>
     <item>
       <title>SlideRshow – 在线照片和视频演示者和组织者</title>
       <link>https://www.reddit.com/r/software/comments/1axet0q/slidershow_online_photo_video_presenter_and/</link>
-      <description><![CDATA[想要用假日照片让您的朋友眼花缭乱吗？需要从您的五十个收藏中挑选出完美的选择吗？想知道如何管理这些冗长的视频吗？忘记复制和粘贴文件、记住时间戳或手动预渲染视频的麻烦。输入 SlideRshow - 您的新伙伴。 通过 SlideRshow，我尝试让这一切变得毫不费力。只需在浏览器中打开应用程序，拖放所有文件，然后就可以开始魔法了。将您的照片整理为可自定义的类别，按日期排序，或轻松手动排列。此外，您还可以轻松修剪和自定义您的视频，以仅展示精彩内容。磁盘上不再有杂乱的重复项！只需将一个微小的 HTML 文件放入包含照片的文件夹中即可。 但这还不是全部。使用 SlideRshow，您可以做更多事情。告别繁琐的文件管理，享受流畅、精简的体验。准备好提升您的照片和视频演示了吗？ SlideRshow 可以满足您的需求。今天就尝试一下，准备好惊喜吧！你说什么？ https://github.com/CZ-NIC/slidershow/   由   提交 /u/the-e2rd   /u/the-e2rd  reddit.com/r/software/comments/1axet0q/slidershow_online_photo_video_presenter_and/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[想要用假日照片让您的朋友眼花缭乱吗？需要从您的五十个收藏中挑选出完美的选择吗？想知道如何管理这些冗长的视频吗？忘记复制和粘贴文件、记住时间戳或手动预渲染视频的麻烦。输入 SlideRshow - 您的新伙伴。 通过 SlideRshow，我尝试让这一切变得毫不费力。只需在浏览器中打开应用程序，拖放所有文件，然后就可以开始魔法了。将您的照片整理为可自定义的类别，按日期排序，或轻松手动排列它们。此外，您还可以轻松修剪和自定义您的视频，以仅展示精彩内容。磁盘上不再有杂乱的重复项！只需将一个微小的 HTML 文件放入包含照片的文件夹中即可。 但这还不是全部。使用 SlideRshow，您可以做更多事情。告别繁琐的文件管理，享受流畅、精简的体验。准备好提升您的照片和视频演示了吗？ SlideRshow 可以满足您的需求。今天就尝试一下，准备好惊喜吧！你说什么？ https://github.com/CZ-NIC/slidershow/   由   提交/u/the-e2rd  /u/the-e2rd  reddit.com/r/software/comments/1axet0q/slidershow_online_photo_video_presenter_and/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1axet0q/slidershow_online_photo_video_presenter_and/</guid>
       <pubDate>Thu, 22 Feb 2024 19:11:52 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>正在寻找 Google Chrome 浏览器的 iMacros 扩展替代品，因为它们将于 2024 年 6 月更新到清单 3.0，而清单 2.0 中的 iMacros 不再支持更新？</title>
       <link>https://www.reddit.com/r/software/comments/1axd3qq/looking_for_imacros_extension_alternatives_for/</link>
-      <description><![CDATA[您好， 我目前正在为我的 Google Chrome 浏览器使用 iMacros 扩展，该扩展在最新版本上运行良好。我有一些自动化录音，与使用 chromedriver watir/selenium 自动化之类的东西相比，它非常快且轻。我喜欢的是，您不需要任何特殊的浏览器模式来运行它。 我了解到 Google 计划于 2024 年 6 月更新其浏览器以要求清单 3.0，这意味着许多浏览器扩展将停止工作除非附加组件更新到清单 3.0，并且 iMacros 已终止生命周期并且不再受支持。 尽管如此，是否还有其他方法可以继续使用 iMacros 附加组件？ &gt; 有什么想法或替代方案吗？ 谢谢。   由   提交/​​u/phoenixlegend7  [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我目前正在为我的 Google Chrome 浏览器使用 iMacros 扩展程序，该扩展程序在最新版本上运行良好。我有一些自动化录音，与使用诸如 chromedriver watir/selenium 自动化之类的东西相比，它非常快速且轻便。我喜欢的是，您不需要任何特殊的浏览器模式来运行它。 我了解到 Google 计划在 2024 年 6 月更新其浏览器以要求清单 3.0，这意味着许多浏览器扩展将停止工作除非附加组件更新到清单 3.0，并且 iMacros 已结束生命周期且不再受支持。 尽管如此，是否还有其他方法可以继续使用 iMacros 附加组件？ &gt; 有什么想法或替代方案吗？ 谢谢。   由   提交/​​u/phoenixlegend7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1axd3qq/looking_for_imacros_extension_alternatives_for/</guid>
       <pubDate>Thu, 22 Feb 2024 18:05:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[适用于 Windows 10。 我使用 GOM Player 和 KM Player，但找不到任何下载字幕的选项观看电影时来自播放器本身。  有一个名为 MX 播放器的 Android 应用程序，我可以在其中从 MX 播放器本身在线搜索字幕。现在我正在为我的 Windows 10 笔记本电脑寻找类似的应用程序。    由   提交/u/thescarface5567  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ax2uwi/looking_for_a_media_player_software_from_which_i/</guid>
       <pubDate>Thu, 22 Feb 2024 10:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从多个视频（例如 lightcut 或 capcut）自动创建视频工具</title>
-      <link>https://www.reddit.com/r/software/comments/1ax2tsu/auto_create_video_tool_from_multiple_videos_like/</link>
-      <description><![CDATA[我正在寻找一种工具（iOS 或 Windows），可以使用它自动从多个视频中剪切一个视频。 LightCut 很棒，但剪辑太短了。我也想在 Windows 上使用它（如果存在的话）。 由于数据保护，CapCut 是不可能的。  &amp;# 32；由   提交/u/phrankme  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ax2tsu/auto_create_video_tool_from_multiple_videos_like/</guid>
-      <pubDate>Thu, 22 Feb 2024 09:59:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
