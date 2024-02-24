@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 12:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 17:40:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体]如何不被千刀万剐而死。</title>
-      <link>https://t.me/hn_summary/75883</link>
-      <description><![CDATA[如何不被千刀万剐而死。或者如何思考软件质量（2022）
-www.evalapply.org 上的内容深入探讨了这一概念软件质量，将其比作过程的体验，并强调让事情比我们发现的更好的重要性。它探讨了软件产品的本质、它们的不断演变以及持续维护的需求。作者讨论了软件质量保证的责任，强调了各种场景对客户的影响以及产品生命周期中每个功能的重要性。内容还深入探讨了线性软件生产工作流程的风险以及破坏质量的方式，强调需要深入反思和采取主动措施来确保软件质量。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75883</guid>
-      <pubDate>Sat, 24 Feb 2024 12:12:24 GMT</pubDate>
+      <title>LEV-1 是一个月球漏斗，在 435 MHz 业余卫星频段传输遥测数据。</title>
+      <link>https://t.me/hn_summary/75912</link>
+      <description><![CDATA[尝试解码 Lev-1
+LEV-1 是一个月球漏斗，在 435 MHz 业余卫星频段传输遥测数据。该信号很奇特，具有明显的衰落和幅移键控，使得解码具有挑战性。通过一系列解码尝试，作者通过卷积编码和IESS-308加扰识别出信号为PCM/PSK/PM。这些帧包含前导码和同步字，但内容仍然未知。另外，莫尔斯电码对剩余载波进行调制，其含义仍然是个谜。尽管解码面临挑战，但作者的详细分析揭示了 LEV-1 遥测信号的独特特征。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75912</guid>
+      <pubDate>Sat, 24 Feb 2024 17:40:17 GMT</pubDate>
     </item>
     <item>
-      <title>在我最新的博客文章中，我深入探讨了 GNOME、GNOME 3 和 [...]</title>
-      <link>https://t.me/hn_summary/75882</link>
-      <description><![CDATA[每个人似乎都忘记了为什么 GNOME、GNOME 3 和 Unity 会发生
-在我最新的博文中，我深入探讨了 GNOME、GNOME 3 和 Unity 开发背后的原因。许多人似乎忘记了 Linux 桌面环境中这些变化背后的动机，但我在这里提醒您。从改善用户体验到适应不断变化的技术，这些转变都有充分的理由。和我一起探索围绕这些发展的历史和争议，揭示导致其创作的思维过程。不要错过这篇对 Linux 桌面环境演变的深刻见解。]]></description>
-      <guid>https://t.me/hn_summary/75882</guid>
-      <pubDate>Sat, 24 Feb 2024 12:11:19 GMT</pubDate>
+      <title>[媒体]作者分享了使用 Ledger 的经验，Ledger 是一个命令行记账工具，用于 [...]</title>
+      <link>https://t.me/hn_summary/75911</link>
+      <description><![CDATA[账本
+作者分享了他们使用 Ledger 的经验，Ledger 是一个面向 UNIX 书呆子的命令行记账工具。他们强调了 Ledger 的灵活性和效率，强调其可脚本性和修订控制友好的文件格式。作者承认开始使用 Ledger 的挑战，包括在评估其有用性之前需要几个月的数据。它们提供了可以与 Ledger 一起运行的查询示例，展示了其财务分析功能。尽管遇到了最初的障碍，作者还是对 Ledger 表示满意，并鼓励其他人在新的一年里尝试一下。]]></description>
+      <guid>https://t.me/hn_summary/75911</guid>
+      <pubDate>Sat, 24 Feb 2024 17:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据我作为面试官的经验，我注意到一些候选人有潜力 [...]</title>
-      <link>https://t.me/hn_summary/75881</link>
-      <description><![CDATA[面试官笔记
-根据我作为面试官的经验，我注意到有些候选人有潜力，但在面试中很难展示出来。为了帮助处于这个位置的其他人，我整理了一些技巧。首先，了解您所在领域的基础知识至关重要——熟悉常见的面试问题。此外，了解概念背后的“原因”，而不仅仅是“内容”，使经验丰富的开发人员脱颖而出。表达意见并积极倾听面试官的意见也很关键。最后，积极的态度大有帮助。请记住，犯错误是可以的——热情和学习意愿可以带来很大的改变。祝你好运！]]></description>
-      <guid>https://t.me/hn_summary/75881</guid>
-      <pubDate>Sat, 24 Feb 2024 12:07:15 GMT</pubDate>
+      <title>[媒体] V 语言评论 (2023) 提供了对 V 编程语言的深入分析 [...]</title>
+      <link>https://t.me/hn_summary/75910</link>
+      <description><![CDATA[V语言评论（2023）
+V 语言评论 (2023) 对 V 编程语言进行了深入分析，重点介绍了其语法、文档和内存管理功能。作者深入研究了 V 内存管理选项的细微差别，包括手动内存管理和有争议的“autofree”模式。该文章揭示了文档的承诺与语言的实际行为之间的差异，展示了尽管保证自动内存清理但仍发生内存泄漏的实例。通过代码示例和使用 Valgrind 等工具进行的实际测试，作者挑战了 V 内存管理声明的准确性，为考虑在项目中使用 V 的开发人员揭示了潜在的陷阱。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75910</guid>
+      <pubDate>Sat, 24 Feb 2024 17:23:34 GMT</pubDate>
     </item>
     <item>
-      <title>在 Qubes OS 4.2.0 版的最新更新中，重点是提高可用性和用户 [...]</title>
-      <link>https://t.me/hn_summary/75880</link>
-      <description><![CDATA[Qubes OS 的适度更新
-在 Qubes OS 4.2.0 版的最新更新中，重点是提高可用性和用户体验。这个注重安全的桌面 Linux 发行版使用虚拟化来提供具有严格隐私性的安全操作系统。该更新包括重新设计的应用程序菜单、新的全局配置应用程序以及对“创建新 Qube”和“更新”应用程序的改进。 Fedora 和 Debian 模板使用 Xfce 版本旨在减少内存使用，而在 Fedora 模板中添加 SELinux 则增强了安全性。总体而言，虽然就新功能而言，更新似乎并不多，但对可用性的重视对于让 Qubes OS 更易于用户使用至关重要。]]></description>
-      <guid>https://t.me/hn_summary/75880</guid>
-      <pubDate>Sat, 24 Feb 2024 11:56:08 GMT</pubDate>
+      <title>[媒体] 在 dataswamp.org 上的这篇博客文章中，读者将发现一些鲜为人知的功能 [...]</title>
+      <link>https://t.me/hn_summary/75909</link>
+      <description><![CDATA[一些不为人所知的 OpenBSD 功能&lt; br/&gt;
+在 dataswamp.org 上的这篇博文中，读者会发现一些较小的内容- OpenBSD 的已知功能非常有用。这些功能虽然小众，但可以防止用户重新发明轮子。从安全级别 sysctl 到内存分配器调整，OpenBSD 提供了独特的安全增强功能。此外，还突出显示了文件标志、crontab 改进以及使用预配置答案创建安装介质的能力。用于设备事件的 apmd 守护进程挂钩和 hotplugd 提供了方便的自动化选项。最后，“谈话”程序允许在终端中进行本地聊天，增加了一个有趣且有效的沟通工具。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75909</guid>
+      <pubDate>Sat, 24 Feb 2024 17:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中微子是神秘的粒子，可以像子弹一样穿过地球[...]</title>
-      <link>https://t.me/hn_summary/75879</link>
-      <description><![CDATA[中微子 (2010) [pdf](https://news. ycombinator.com/item?id=39489395)
-中微子是神秘的粒子，可以像子弹穿过雾一样穿过地球。它们是如此难以捉摸，以至于我们对它们仍然知之甚少，尽管它们无处不在，包括在太阳和我们自己的身体内部。雷·戴维斯是第一个捕获太阳中微子的人，许多人认为这是不可能的壮举。他的故事，以及其他毕生致力于中微子研究的科学家的悲惨故事，是一段探索宇宙奥秘的迷人旅程。中微子就像穿过我们宇宙的隐形观众，以最意想不到的方式揭示自然的秘密。 （根据故事文本的 4% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75879</guid>
-      <pubDate>Sat, 24 Feb 2024 11:30:55 GMT</pubDate>
+      <title>[媒体]那么谁了解中国经济？</title>
+      <link>https://t.me/hn_summary/75908</link>
+      <description><![CDATA[那么谁了解中国经济呢？绝对不是中国
+中国经济长期以来一直笼罩在争议之中，操纵的统计数据和可疑的数据让人对中国金融健康的真实状况产生怀疑。从夸大的GDP数据到捏造的省级统计数据，中国的经济数据一直被捏造以符合预定的叙述。尽管努力打击腐败和欺诈，国家统计局仍然难以准确报告。外部组织试图揭示中国经济的真实规模和增长率，一些令人震惊的结论表明官方数据可能被严重夸大。中国经济实力的真实程度仍然是个谜，其报道的数据笼罩着巨大的疑云。 （根据 86% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75908</guid>
+      <pubDate>Sat, 24 Feb 2024 17:02:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我 25 年的大脑和记忆研究中，我发现了四种常见的习惯 [...]</title>
-      <link>https://t.me/hn_summary/75878</link>
-      <description><![CDATA[25 年研究大脑：避免这 4 个破坏我们大脑的习惯内存
-在我 25 年对大脑和记忆的研究中，我发现了四种常见的习惯，这些习惯会随着年龄的增长而破坏我们的记忆。首先，避免过多地同时处理多项任务，因为它会损害记忆力并加重前额皮质的负担。其次，优先考虑优质睡眠，让大脑排出废物并激活记忆。第三，进行多样化、不单调的活动，以建立持久的记忆。最后，不要对自己的记忆能力过于自信，因为测试自己和间隔尝试可以提高记忆力。通过遵循这些提示，您可以避免这些“高级时刻”并保持清晰的记忆力。]]></description>
-      <guid>https://t.me/hn_summary/75878</guid>
-      <pubDate>Sat, 24 Feb 2024 11:15:36 GMT</pubDate>
+      <title>GoGoGrandparent 是一名数字护理人员，正在寻找高级/员工后端和领导工程师来帮助他们 [...]</title>
+      <link>https://t.me/hn_summary/75907</link>
+      <description><![CDATA[GoGoGrandparent (YC S16) 正在招聘高级/员工后端和领导工程师
+GoGoGrandparent 是一家数字护理人员，正在寻找高级/员工后端和首席工程师，以帮助老年人和残疾人在自己的家中安享晚年。他们为残障人士定制 Uber 和 Instacart 等公司的 API。该公司以远程优先的方式实现了数百万美元的盈利，工程人员总数为 8 人。这些职位提供有竞争力的薪水以及在硅谷初创公司工作的机会，既健康又有利可图。技术堆栈包括 Node、Typescript、MySQL、REST+GraphQL、Vue、AWS 和 Docker/K8s。申请人必须拥有至少 6 年经验，专注于后端全栈工程师。首席工程师角色需要领导经验。如果您想为老年人和残疾人做出贡献，请立即申请。]]></description>
+      <guid>https://t.me/hn_summary/75907</guid>
+      <pubDate>Sat, 24 Feb 2024 17:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：由于市场饱和，我应该改变我的专业吗？</title>
-      <link>https://t.me/hn_summary/75877</link>
-      <description><![CDATA[询问 HN：由于市场饱和，我应该改变我的专业吗？&lt; /a&gt;
-作为一名拥有全栈开发经验的计算机科学毕业生，由于前雇主的财务挑战而被解雇后，我面临着竞争激烈的就业市场。由于专注于远程职位，我正在考虑将我的专业从 Web 开发更改为 Android 或 iOS，以提高我的就业能力。我寻求建议，了解这种转变是否会增加我获得远程工作的机会，以及哪个平台可以提供最好的前景。争议在于网络开发领域的饱和，促使我探索新的机会。]]></description>
-      <guid>https://t.me/hn_summary/75877</guid>
-      <pubDate>Sat, 24 Feb 2024 10:31:20 GMT</pubDate>
+      <title>[媒体]37年后，伦敦大学学院的研究人员终于发现了一个[...]</title>
+      <link>https://t.me/hn_summary/75906</link>
+      <description><![CDATA[37年后，韦伯望远镜发现了1987年超新星形成的恒星
+37年后，伦敦大学学院的研究人员终于在超新星1987A的中心发现了一颗中子星，超新星1987A是在大麦哲伦星云中观察到的恒星爆炸。利用美国宇航局的詹姆斯·韦伯太空望远镜，研究小组发现了电离氩和硫原子的证据，证实了中子星的存在。这一发现揭示了生命必需的化学元素的产生，并为坍缩恒星核心发生的过程提供了新的见解。这项研究发表在《科学》杂志上，标志着理解超新星事件后果的重大突破。]]></description>
+      <guid>https://t.me/hn_summary/75906</guid>
+      <pubDate>Sat, 24 Feb 2024 16:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 莎士比亚专家大卫·法洛 (David Fallow) 揭穿了威廉·莎士比亚的父亲 [...]</title>
-      <link>https://t.me/hn_summary/75876</link>
-      <description><![CDATA[莎士比亚专家推翻了剧作家父亲的自卸车神话 
-莎士比亚专家大卫·法洛 (David Fallow) 揭穿了关于威廉·莎士比亚的父亲约翰·莎士比亚是 16 世纪的飞卸者的神话。经过多年的研究，法洛发现，约翰·莎士比亚对粪堆的“罚款”只是与他作为手套和皮革制革商的行业有关的废物处理费用。这推翻了长期以来对莎士比亚家族财富和声誉的假设。法洛的研究结果将发表在《莎士比亚季刊》上，揭示了伊丽莎白时代英国复杂的废物管理系统，挑战了那个时代肮脏的传统观点。这一令人惊讶的发现为莎士比亚笔下的英国的环境意识和社会实践提供了新的线索。]]></description>
-      <guid>https://t.me/hn_summary/75876</guid>
-      <pubDate>Sat, 24 Feb 2024 10:28:16 GMT</pubDate>
+      <title>更深层次：来自加纳的洛夫克拉夫特式电影海报探索了独特而引人注目的手绘[...]</title>
+      <link>https://t.me/hn_summary/75905</link>
+      <description><![CDATA[深度剪辑：来自加纳的洛夫克拉夫特式电影海报
+更深层次：来自加纳的洛夫克拉夫特式电影海报探索了 20 世纪末加纳出现的独特而引人注目的手绘电影海报。这些海报由当地艺术家创作，通常以恐怖血腥的图像来吸引观众。传统电影的衰落和家庭观影的兴起导致了这种艺术形式的消亡，但海报却获得了国际认可。这篇文章重点介绍了《邓威奇恐怖》和《重新动画》等洛夫克拉夫特式电影，它们受到加纳的对待，展示了对这些邪教经典的创造性诠释。这些海报让我们得以一睹非洲电影过去时代的迷人风采。 （根据 70% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75905</guid>
+      <pubDate>Sat, 24 Feb 2024 16:44:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我关于 NixOS 打包审查的最新帖子中，我深入研究了贡献过程 [...]</title>
-      <link>https://t.me/hn_summary/75875</link>
-      <description><![CDATA[为 Nixpkgs 提供审查
-在我关于 NixOS 打包审查的最新文章中，我深入研究了 nixpkgs 的贡献过程。尽管最初有些犹豫，但我发现社区很支持我，并且很快提供了反馈。虽然有些人可能会觉得这些评论迂腐，但它们提供了宝贵的学习机会。我分享了我为多通道贡献包、模块和测试的旅程，强调了社区的慷慨。通过不断改进我的工作，例如简化 Go 程序的打包，我最终打开了 scrutiny 和 scrutiny-collector 包的 Pull request。我还讨论了遵守 pkgs 目录中的贡献指南和适应结构转变的重要性。此外，我还探索了用于结构化模块配置的新概念，例如 lib.types.nullOr 和 RFC42。总的来说，为 nixpkgs 做出贡献的经历是有益且有教育意义的。 （根据故事文本的 59% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75875</guid>
-      <pubDate>Sat, 24 Feb 2024 10:13:07 GMT</pubDate>
+      <title>[媒体] 在“DNS 不是什么”中，Paul Vixie 讨论了对该域的误解和滥用 [...]</title>
+      <link>https://t.me/hn_summary/75904</link>
+      <description><![CDATA[DNS 不是什么 (2009)
+Paul Vixie 在《DNS 不是什么》中讨论了对域名系统 (DNS) 的误解和滥用。他强调了 DNS 被滥用于货币化中介（即撒谎行为），以及重新映射 NXDOMAIN 响应以获取广告收入。 Vixie 还深入研究了服务提供商颇具争议的 DNS 重定向做法，以及 DNSSEC 在遏制 DNS 谎言方面的潜在影响。该文章揭示了围绕 DNS 实践的复杂性和道德困境，敦促采取更加透明和真实的 DNS 管理方法。 （根据故事文本的 59% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75904</guid>
+      <pubDate>Sat, 24 Feb 2024 16:41:23 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 Herr Bischoff 的垃圾邮件阻止列表！</title>
-      <link>https://t.me/hn_summary/75874</link>
-      <description><![CDATA[Herr Bischoff 的垃圾邮件阻止列表
-欢迎来到 Herr Bischoff 的垃圾邮件阻止列表！这些列表可以免费使用，但不提供任何保证。 IPBL 捕获参与积极探测、恶意软件源等的 IP。 DROP 列表整合了 Spamhaus IP，以便于防火墙使用。 BADASN 列表针对具有滥用流量的 ASN。 TOREXIT 列出了 Tor 退出节点，而 AI 列表则标记了创建大型语言模型的公司使用的 IP。 GEOIP 列表按国家/地区编制了 IPv4 和 IPv6 范围。不存在除名流程，因此如果已列出，请调整行为。这些列表只能通过 HTTPS 获取，服务器自 2021 年以来一直在运行。]]></description>
-      <guid>https://t.me/hn_summary/75874</guid>
-      <pubDate>Sat, 24 Feb 2024 10:12:01 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/75903</link>
+      <description><![CDATA[美国该公司表示，月球着陆器处于一侧，一些天线被遮盖
+直觉机器公司的美国月球着陆器奥德修斯在月球南极附近着陆时翻倒，阻碍了通讯。据信，这艘飞船是侧向的，可能靠在一块岩石上，一些天线被遮住了。尽管遭遇挫折，着陆器仍被认为距离预定着陆点只有几英里。美国宇航局的月球勘测轨道飞行器将尝试确定其位置。这次由美国宇航局赞助的任务面临着导航系统的挑战，但最后一刻改用美国宇航局的激光系统挽救了这一局面。 Intuitive Machines 预计在月球夜幕降临之前仅在月球上运行一周。]]></description>
+      <guid>https://t.me/hn_summary/75903</guid>
+      <pubDate>Sat, 24 Feb 2024 16:40:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
