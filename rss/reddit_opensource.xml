@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 24 Feb 2024 03:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 06:14:16 GMT</lastBuildDate>
+    <item>
+      <title>笔记图更新：谈话、集思广益、组织笔记和想法（gui）。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ayko7o/notemap_updated_talk_brainstorm_and_organize/</link>
+      <description><![CDATA[   笔记图是一个简单但功能强大的工具，用于快速分析、组织和发现模式和大量文本文件中的相似性。凭借其直观的界面和高级功能，Note Map 使用户能够轻松地可视化、搜索和关联各种文件格式（包括 PDF、TXT 和 DOCX）的信息。此外，Note Map 还可以集思广益、产生想法，甚至可以与笔记进行交流！ +演示视频可在存储库中找到！ 如果您愿意，请在 GitHub 上给它一个星号喜欢它！   由   提交/u/Mr3600  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ayko7o/notemap_updated_talk_brainstorm_and_organize/</guid>
+      <pubDate>Sat, 24 Feb 2024 03:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理环境变量的安全工具！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aykk32/a_secure_tool_to_manage_environment_variables/</link>
+      <description><![CDATA[大家好！ 我目前正在开发一个名为 envio 的开源项目，该项目是本质上是一个帮助管理环境变量的 CLI 工具。用户可以创建配置文件（环境变量的集合），并使用密码或GPG加密对其进行加密。有关更多信息，您可以访问GitHub 存储库 或 官方网站。  这是我的第一个“大”活动。开源项目，也是第一个真正的人们将要使用的项目。因此，一些关于改进该工具的建议将非常有帮助。我希望围绕该项目建立一个社区，不断提高其质量和功能集。如果您对此感兴趣，请毫不犹豫地采取查看项目的 GitHub 存储库，通过打开 问题。   由   提交/u/Ok_Acanthoperygii40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aykk32/a_secure_tool_to_manage_environment_variables/</guid>
+      <pubDate>Sat, 24 Feb 2024 03:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>您发现缺少哪些开源安全产品。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</link>
+      <description><![CDATA[你好， 我是一名网络安全架构师，也是一位非常建议的开源用户。有一些很棒的开源软件，例如（fail2ban、pfsense、opnsense、security onion 等）... 我想知道您发现缺少什么？ 例如，我缺少一个优秀的开源 SIEM 和优秀的 WebFiltering 软件。 我对你的经验和想法感到好奇。   由   提交/u/Reasonable_Chain_160   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</guid>
+      <pubDate>Sat, 24 Feb 2024 03:32:43 GMT</pubDate>
+    </item>
     <item>
       <title>为了更好地理解MVC框架，我做了这个，我需要贡献！</title>
       <link>https://www.reddit.com/r/opensource/comments/1aycfdz/in_order_to_understand_mvc_frameworks_better_i/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
       <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
-      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易让 Grist 变得有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
+      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易使 Grist 有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</guid>
       <pubDate>Fri, 23 Feb 2024 16:29:36 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>为电影、戏剧和艺术装置创意人士提供的开源照明解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1axv7v4/open_source_lighting_solution_for_creatives_in/</link>
-      <description><![CDATA[大家好， 我们是托比亚斯和詹尼斯。在过去的几年里，我们一直在开发针对电影、剧院和艺术装置的独特照明解决方案，包括 3D 打印外壳、采用 STM32 架构的定制 PCB 以及具有蓝牙连接功能的 Flutter 应用程序。两个月前，我们启动了 Kickstarter，但它并没有像我们希望的那样成功。这就是为什么我们决定将其开源！我们现在正在记录更多内容，希望社区能够参与进来并帮助推动这个项目向前发展！ 项目网站：starklicht .net YouTube 关于该项目的说明：https://www.youtube.com/ @starklicht-de  GitHub 存储库：https://github.com/starklicht 干杯 詹尼斯   由   提交/u/kringelschatten   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我们是托比亚斯和詹尼斯。在过去的几年里，我们一直在开发针对电影、剧院和艺术装置的独特照明解决方案，包括 3D 打印外壳、采用 STM32 架构的定制 PCB 以及具有蓝牙连接功能的 Flutter 应用程序。两个月前，我们启动了 Kickstarter，但它并没有像我们希望的那样成功。这就是为什么我们决定将其开源！我们现在正在记录更多内容，希望社区能够参与其中并帮助推动该项目向前发展！ 项目网站：starklicht .net YouTube 关于该项目的说明：https://www.youtube.com/ @starklicht-de  GitHub 存储库：https://github.com/starklicht 干杯 詹尼斯   由   提交/u/kringelschatten   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1axv7v4/open_source_lighting_solution_for_creatives_in/</guid>
       <pubDate>Fri, 23 Feb 2024 08:03:09 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[嘿大家， 只是想分享一些我一直在研究的东西.. kftray 是一个小型的开源软件应用程序旨在简化管理多个 kubectl 端口转发，特别是对于本地开发。 此应用程序是一个菜单栏 GUI，使用 Tauri 框架构建 - Rust 用于后端，TypeScript 用于前端。 &gt; 查看一下：https://github.com/hcavarsan/kftray/releases/tag/ v0.6.3 功能：  - 自动重新连接以实现稳定连接 - 一键设置多个端口转发 - 直接工作使用 Kubernetes API - 通过服务器代理中继支持 TCP 和 UDP - 使用本地 JSON 文件或 Git 集成管理配置。 我非常感谢任何反馈或想法改进应用程序。 如果您发现 kftray 有帮助，请考虑在 github 上给我们 ⭐️ - 真正支持我们的工作。    ;由   提交/u/Beginning_Dot_1310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1axb54d/just_made_a_opensource_desktop_app_to_manage/</guid>
       <pubDate>Thu, 22 Feb 2024 16:49:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>很高兴看到我的一星级库有 70 次下载</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ax7rjw/excited_to_see_70_downloads_on_my_1star_library/</link>
-      <description><![CDATA[去年我向 Github 和 Maven Central 发布了一个开源日期时间库。我从不推广它，所以它在 Github 上只获得了 1 颗星。我想看看除了我之外还有没有人在使用它，所以我在其他项目中没有将其使用升级到最新版本。 今天下载统计出来了。最新版本的下载量超过70次，真是令人惊讶！这真的激励我继续进化它（虽然看起来进化的地方不大）！ 只是想知道，你敢使用只有 1 颗星的库吗？如果是，为什么？ 另一个问题是，我希望该库通过支持时区更改/夏令时对其他人更有帮助。但我住在一个没有时区变化/夏令时的城市。我可以从哪里开始呢？我读过维基百科之类的文章，但不太明白其中的规则。   由   提交 /u/CommunicationFun2962   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ax7rjw/excited_to_see_70_downloads_on_my_1star_library/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kiwix 将成为今年编程之夏的一部分，如果您正在寻找实习（和/或项目），这里就是您的最佳选择</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ax3ljj/kiwix_will_be_part_of_this_years_summer_of_code/</link>
-      <description><![CDATA[ 由   提交/u/The_other_kiwix_guy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ax3ljj/kiwix_will_be_part_of_this_years_summer_of_code/</guid>
-      <pubDate>Thu, 22 Feb 2024 10:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚在浏览器工具中完全离线，没有分析和奇怪的东西</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ax0jxm/i_just_made_full_offline_in_browser_tools_without/</link>
-      <description><![CDATA[https://ibt.razikus.tech https://github.com/Razikus/In-Browser-Tools   由   提交 /u/Razikus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ax0jxm/i_just_made_full_offline_in_browser_tools_without/</guid>
-      <pubDate>Thu, 22 Feb 2024 07:27:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
