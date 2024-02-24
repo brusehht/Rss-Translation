@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 18:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:38:57 GMT</lastBuildDate>
     <item>
-      <title>巴别塔图书馆的灵感来自豪尔赫·路易斯·博尔赫斯的短篇小说，是一个网站，可让您 [...]</title>
-      <link>https://t.me/hn_summary/75744</link>
-      <description><![CDATA[显示 HN：Babel – 浏览所有使用过的书籍简单的数学
-巴别塔图书馆的灵感来自豪尔赫·路易斯·博尔赫斯的短篇小说，是一个网站，可让您浏览所有使用简单数学编写的书籍。图书馆中的每本书都由三十二个符号组成，包含所有可能的字符组合。该网站共有大约 10,197,473 个房间，其中有 1601 个独特的房间可供参观，是巴别塔图书馆的完全重建，包含每一本独特的书籍。您可以从头开始浏览该库、随机页面或搜索特定文本。这个独特的项目提供了对文学无限可能性的迷人一瞥。]]></description>
-      <guid>https://t.me/hn_summary/75744</guid>
-      <pubDate>Fri, 23 Feb 2024 18:12:11 GMT</pubDate>
+      <title>使用 C 或 C++ 工作需要了解未定义的行为，这可能会导致意外的 [...]</title>
+      <link>https://t.me/hn_summary/75825</link>
+      <description><![CDATA[C 和 C++ 中的未定义行为
+使用 C 或 C++ 工作需要了解未定义的行为，如果处理不当，可能会导致意外结果。 C 整数仅限于 CPU 寄存器中适合的范围，这与 Python 的无界整数不同。有符号整数溢出、取消引用坏指针、未初始化的数据和其他常见错误可能会导致未定义的行为。 C 标准允许编译器基于不会发生未定义行为的假设来优化代码，从而产生高效但可能不可预测的结果。理解并避免未定义的行为对于编写可靠的 C 和 C++ 代码至关重要。 （根据 37% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75825</guid>
+      <pubDate>Sat, 24 Feb 2024 00:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Byju's 是一家陷入困境的初创公司，其投资者因持续存在问题而投票罢免首席执行官 [...]</title>
-      <link>https://t.me/hn_summary/75743</link>
-      <description><![CDATA[Byju 的投资者投票罢免陷入困境的初创公司的首席执行官&lt; br /&gt;
-由于公司内部持续存在问题，Byju&#39;s 是一家陷入困境的初创公司，其投资者已投票罢免首席执行官。这一举动令许多人感到惊讶，因为首席执行官曾被视为公司成功的关键人物。围绕这一决定的争议引发了人们对 Byju&#39;s 及其领导层未来的猜测。请继续关注 Bloomberg.com 上有关这一发展故事的更新。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/75743</guid>
-      <pubDate>Fri, 23 Feb 2024 18:03:03 GMT</pubDate>
+      <title>[媒体] 匹兹堡大学的研究发现，重返办公室 (RTO) 要求 [...]</title>
+      <link>https://t.me/hn_summary/75824</link>
+      <description><![CDATA[RTO 并不能提高公司价值，反而让员工痛苦不堪：学习
+匹兹堡大学的研究发现，重返办公室（RTO）指令并没有改善公司的财务指标，反而降低了员工满意度。数据表明，RTO 指令与男性首席执行官在公司拥有更大权力的公司有关。研究人员推测，RTO 指令可能会被用来将公司绩效不佳归咎于员工。研究还发现，RTO 指令与员工满意度下降有关，总体工作满意度、工作与生活平衡、高级管理层和企业文化的评分下降。研究结果表明，反收购政策可能更多的是为了控制而不是提高公司价值。]]></description>
+      <guid>https://t.me/hn_summary/75824</guid>
+      <pubDate>Sat, 24 Feb 2024 00:36:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家在寻求清洁聚变能源方面取得了突破性的人工智能突破。</title>
-      <link>https://t.me/hn_summary/75742</link>
-      <description><![CDATA[科学家声称人工智能突破可产生无限的清洁聚变能源 
-科学家在寻求清洁聚变能源方面取得了突破性的人工智能突破。这项新技术有潜力产生无限量的清洁能源，彻底改变我们为世界提供动力的方式。这一发现的影响是巨大的，为我们的能源需求提供了可持续的解决方案。然而，围绕人工智能技术在能源领域的安全和伦理影响存在争议。尽管如此，这一突破的潜在好处是不可否认的，为更加绿色的未来带来了希望。请继续关注这一激动人心的开发的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/75742</guid>
-      <pubDate>Fri, 23 Feb 2024 17:58:58 GMT</pubDate>
+      <title>来自主流 OO 语言的 Common Lisp 对象系统 (CLOS) 可能看起来很陌生。</title>
+      <link>https://t.me/hn_summary/75823</link>
+      <description><![CDATA[Lisp 中的类：CLOS 简介
+来自主流 OO 语言的 Common Lisp 对象系统 (CLOS) 可能看起来很陌生。 www.lambda-out-loud.com 上的此介绍 旨在让您熟悉 Lisp 中面向对象的基础知识。与传统的 OO 语言不同，CLOS 将类结构与功能分开。使用 defclass 宏，可以使用槽（属性）和访问器来定义类。对象实例化是通过 make-instance 完成的，对象行为是通过方法实现的。 CLOS 支持继承，包括多重继承，并具有合理的冲突解决方案。虽然本指南是一个很好的起点，但建议进一步阅读以更深入地了解 CLOS。]]></description>
+      <guid>https://t.me/hn_summary/75823</guid>
+      <pubDate>Fri, 23 Feb 2024 23:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google 钱包、Google Pay 和 Android Pay 都曾一度成为人们关注的焦点，b [...]</title>
-      <link>https://t.me/hn_summary/75741</link>
-      <description><![CDATA[Google Pay 取代了 Google 电子钱包 - 现在它即将消失，以腾出空间钱包
-Google Wallet、Google Pay 和 Android Pay 都曾一度成为人们关注的焦点，但现在 Google Wallet 卷土重来，再次取代了 Google Pay。在多次尝试改进和重塑支付服务品牌后，谷歌决定回归谷歌钱包的基础，谷歌钱包现在提供了广泛的功能，包括持有信用卡/借记卡、活动通行证、会员卡、政府身份证和证明疫苗接种。 Google Pay 将于 2024 年 6 月 4 日后逐步淘汰，因此建议用户删除仍占用该平台的任何资金。这是一段奇怪的旅程，但与 Google 消息应用程序失败的历史相比，这种转变还算不错。]]></description>
-      <guid>https://t.me/hn_summary/75741</guid>
-      <pubDate>Fri, 23 Feb 2024 17:54:53 GMT</pubDate>
+      <title>[媒体]由亿万富翁资助的人工智能末日论者正在加大游说力度，以推动警察 [...]</title>
+      <link>https://t.me/hn_summary/75822</link>
+      <description><![CDATA[亿万富翁资助的人工智能末日论者加大游说力度
+由亿万富翁资助的人工智能末日论者正在加大游说力度，推动制定政策，要求人工智能开发人员对潜在危害负责，要求高风险系统获得许可，并赋予监管机构在紧急情况下暂停项目的权力。批评者认为，这些努力正在转移人们对人工智能更紧迫问题的注意力，例如工作流失和歧视。由 CAIP 和 CAIS 等组织领导的游说活动可能会让顶级人工智能公司受益，并引发争议。这些团体与有效的利他主义联系在一起，获得了行业领导者的大量资助，引发了人们对其影响力的担忧。转向直接游说标志着这些组织战略的转变，旨在使他们在华盛顿的努力专业化。]]></description>
+      <guid>https://t.me/hn_summary/75822</guid>
+      <pubDate>Fri, 23 Feb 2024 23:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的 Flash Calendar 项目为 React Native 提供了注重性能的日历。</title>
-      <link>https://t.me/hn_summary/75740</link>
-      <description><![CDATA[显示 HN：Flash 日历 - React Native 的注重性能的日历
-GitHub 上的 Flash Calendar 项目为 React Native 提供了注重性能的日历。它旨在提供令人难以置信的快速和灵活的日历构建功能。该项目使用 Bun 作为其包管理器，并包括文档、示例和贡献结构。该项目的与众不同之处在于，它专注于性能和灵活性，并提供了 monorepo 结构，其中包含日历本身的单独包、eslint 配置和共享 tsconfig。 Flash 日历已获得 MIT 许可，允许免费使用和修改。]]></description>
-      <guid>https://t.me/hn_summary/75740</guid>
-      <pubDate>Fri, 23 Feb 2024 17:53:48 GMT</pubDate>
+      <title>[媒体] 在《勇士与忧虑者》中，心理学家乔伊斯·贝南森 (Joyce Benenson) 挑战了口碑 [...]</title>
+      <link>https://t.me/hn_summary/75821</link>
+      <description><![CDATA[女性是排除在外的担忧者
+在《勇士与忧虑者》一书中，心理学家乔伊斯·贝南森对女性比男性更善于交际、男性比女性更具竞争力的观念提出了挑战。她认为，女性将社会排斥作为竞争的关键策略，其目标是保留资源、地位和伴侣。贝南森的研究表明，女孩从幼儿时期就开始遭受社会排斥，而且女性比男性更容易受到社会排斥的影响。这种行为在不同的文化中都有所体现，并可能产生严重后果，例如女孩因严重排斥而不得不转学。 “取消文化”的兴起可以被视为这种女性策略的延伸，部分是由#MeToo运动推动的。这种转变反映了更广泛的文化女性化，对社会动态和规范具有潜在影响。]]></description>
+      <guid>https://t.me/hn_summary/75821</guid>
+      <pubDate>Fri, 23 Feb 2024 23:37:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TL;DR：我们开发了一个名为 github-secrets 的工具，可以揭示隐藏的提交 [...]</title>
-      <link>https://t.me/hn_summary/75739</link>
-      <description><![CDATA[隐藏的 GitHub 提交以及如何显示它们
-TL;DR：我们开发了一个名为 github-secrets 的工具，它可以揭示 GitHub 上隐藏的提交，甚至是那些已被强制推送或删除的提交。该工具可以帮助用户识别公众仍然可以访问的敏感信息。该过程涉及使用 Git 重置命令和 GitHub API 来访问常规提交历史记录中不可见的隐藏提交。对于在提交中意外共享秘密并希望确保此信息不再公开的用户来说，此工具特别有用。]]></description>
-      <guid>https://t.me/hn_summary/75739</guid>
-      <pubDate>Fri, 23 Feb 2024 17:52:44 GMT</pubDate>
+      <title>[媒体]前 Gizmodo 作家汤姆·麦凯 (Tom McKay) 将自己的名字改为“Sla [...]</title>
+      <link>https://t.me/hn_summary/75820</link>
+      <description><![CDATA[一位前 Gizmodo 作家更名为“Slackbot”，一直未被发现月
+前 Gizmodo 作家汤姆·麦凯 (Tom McKay) 在 2022 年离开公司后，在 Slack 上将自己的名字改成了“Slackbot”，从而成功搞了一个聪明的恶作剧。几个月来，他一直没有被发现，用一张类似于实际 Slackbot 图标的愤怒版本的个人资料图片来愚弄管理层。通过使用特殊字符来模仿名字，麦凯的帐户避免了删除，并且他能够向同事发送类似机器人的消息。虽然不是每家公司都会上当，但它在 Gizmodo 上奏效了。这种令人惊讶和幽默的情况引起了前同事的嘲笑，其中一位说：“作为 G/O Media 的幸存者，这就是跟踪。”]]></description>
+      <guid>https://t.me/hn_summary/75820</guid>
+      <pubDate>Fri, 23 Feb 2024 23:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在journal.hexmos.com，我们很高兴分享我们从P [...]转变欢乐合唱团的旅程</title>
-      <link>https://t.me/hn_summary/75738</link>
-      <description><![CDATA[分享我们将 glee 从 Python 转变为 Golang 的历程 
-在 journal.hexmos.com，我们很高兴与大家分享我们将 glee 从 Python 转变为 Golang 的旅程。 glee 是我们对开发人员友好的博客设置，一直在经历重大转变，以解决兼容性问题和部署时间。通过从 Python 迁移到 Golang，我们遇到了依赖性和兼容性方面的挑战，但找到了创新的解决方案来克服这些挑战。通过切换到 Golang，glee 现在提供了改进的用户体验以及跨各种操作系统和架构的更好兼容性。与我们一起探索《欢乐合唱团》的未来可能性，我们的目标是使其成为一个完全开发友好的独立内容管理系统。]]></description>
-      <guid>https://t.me/hn_summary/75738</guid>
-      <pubDate>Fri, 23 Feb 2024 17:51:39 GMT</pubDate>
+      <title>标题： 2024 年全球收入最大的行业</title>
+      <link>https://t.me/hn_summary/75819</link>
+      <description><![CDATA[2024 年全球收入最大的行业
+标题：2024 年全球收入最大的行业
+
+电信行业的需求不断增长，但无线运营商之间的竞争阻碍了收入增长。受疫情影响，石油和天然气行业出现了极大的波动，收入将在 2022 年创下历史新高。尽管全球需求旺盛，但保险业仍面临挑战，尤其是在人寿和健康保险方面。养老基金对于退休计划至关重要，积极的投资回报推动收入增长。商业房地产有所下降，但随着经济反弹，预计会出现复苏。汽车销售受到供应链中断的影响，而银行业则受到全球经济表现的影响。汽车制造商正在适应技术进步，旅游业在 2020 年因疫情大幅下滑后正在复苏。]]></description>
+      <guid>https://t.me/hn_summary/75819</guid>
+      <pubDate>Fri, 23 Feb 2024 23:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软发布了 PyRIT，这是一款旨在帮助识别生成人工智能风险的工具 [...]</title>
-      <link>https://t.me/hn_summary/75737</link>
-      <description><![CDATA[微软向公众发布 PyRIT 内部生成式 AI 红队工具
-微软向公众发布了 PyRIT，这是一种旨在帮助识别生成人工智能系统风险的工具。该工具由微软的人工智能红队使用，旨在解决人工智能模型失控或产生有害内容等问题。 PyRIT 自动化了一代 AI 系统中的风险探测过程，使红队的工作更加高效并节省时间。 Microsoft 已经看到了 PyRIT 的成功，将需要数周时间的任务缩短到了几个小时。该工具包现已可供访问，其中提供了帮助用户入门的演示，并且正在举办网络研讨会以演示其在红队生成人工智能系统中的使用。]]></description>
-      <guid>https://t.me/hn_summary/75737</guid>
-      <pubDate>Fri, 23 Feb 2024 17:50:34 GMT</pubDate>
+      <title>有人退出每天上午 8:30 的站立会议吗？</title>
+      <link>https://t.me/hn_summary/75818</link>
+      <description><![CDATA[有人退出每天上午 8:30 的站立会议吗？ 
+news.ycombinator.com 上这篇文章的作者是寻求有关如何摆脱每天上午 8:30 导致睡眠不足的站立会议的建议。他们正在考虑伪造每周约会或搬到不同的时区以避免提前开会。作者对会议毫无用处并影响他们的睡眠表示沮丧。争议在于平衡工作义务与个人福祉的斗争，而独特的方面是建议搬到不同的时区作为潜在的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/75818</guid>
+      <pubDate>Fri, 23 Feb 2024 23:12:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Orac Interface，这是一款开源应用程序，可让您与 [...]</title>
-      <link>https://t.me/hn_summary/75736</link>
-      <description><![CDATA[显示 HN：一款可轻松与 LLM 交互的开源应用程序
-隆重推出 Orac Interface，这是一款开源应用程序，可让您与法学硕士无缝聊天，而无需中断您的工作流程。只需按 Ctrl+Space 即可从桌面上的任何位置开始聊天。适用于 Linux 和 Windows，GitHub 上提供了安装步骤。使用 Ctrl+Space 打开输入、Esc 关闭输入、Shift+Enter 换行等快捷键使聊天变得轻松。 Orac Interface 可免费使用且开源，可以选择在 GitHub 上显示支持。如有任何疑问或问题，请在 Twitter 上联系或加入 Discord。与您的法学硕士轻松沟通的便捷工具。]]></description>
-      <guid>https://t.me/hn_summary/75736</guid>
-      <pubDate>Fri, 23 Feb 2024 17:49:29 GMT</pubDate>
+      <title>[媒体]生成模型：他们知道什么？</title>
+      <link>https://t.me/hn_summary/75817</link>
+      <description><![CDATA[生成模型：他们知道什么？他们知道事情吗？让我们来了解一下
+生成模型有潜力创建详细且真实的图像，这引发了人们对其生成图像的真正理解的疑问。我们的论文介绍了 INTRINSIC LoRA (I-LoRA)，这是一种突破性的方法，允许生成模型提取内在场景图，而不需要额外的解码器或广泛的微调。通过采用关键特征图的低秩适应（LoRA），我们的方法可以适应各种生成架构，并生成可与传统监督技术生成的场景内在图相媲美甚至超越的场景内在图。这种创新方法为理解生成模型创建逼真图像的能力开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/75817</guid>
+      <pubDate>Fri, 23 Feb 2024 23:04:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]备受期待的 Spotify HiFi 功能已经消失三年了 [...]</title>
-      <link>https://t.me/hn_summary/75735</link>
-      <description><![CDATA[三年后 Spotify HiFi 仍然 MIA，现在我的也是 MIA订阅
-备受期待的 Spotify HiFi 功能已经消失三年了，让像我这样的订阅者感到沮丧和失望。尽管公司高管做出了承诺，但仍然没有发布的迹象。据推测，Spotify 可能会推出一种新的、更昂贵的“Supremium”级别，其中包括高分辨率流媒体，但这一延迟让许多人想知道为什么要花这么长时间。作为一名音乐爱好者和音频爱好者，我决定在等待 Spotify 兑现其承诺的同时转向 Apple Music。 Spotify 最终会推出其 Supremium 计划，还是会让订户继续蒙在鼓里？]]></description>
-      <guid>https://t.me/hn_summary/75735</guid>
-      <pubDate>Fri, 23 Feb 2024 17:47:24 GMT</pubDate>
+      <title>[媒体]路边切割效应是通用设计中的一个概念，强调了无残障人士如何 [...]</title>
+      <link>https://t.me/hn_summary/75816</link>
+      <description><![CDATA[路边切割效果
+路边切割效应是通用设计中的一个概念，它强调了残疾人友好功能如何被比最初预期更广泛的受众所接受。例如，为听力正常的人提供隐藏式字幕，以及为不同群体使用的人行道设置路缘石。这种无意的现象导致人们对包容性设计和经济效益的认识不断提高。然而，这也引发了人们对缺乏针对残疾人群体的个性化设计的担忧。路边削减效应展示了无障碍住宿在创造更具包容性的环境方面的力量，对社会产生积极和消极的影响。]]></description>
+      <guid>https://t.me/hn_summary/75816</guid>
+      <pubDate>Fri, 23 Feb 2024 22:59:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

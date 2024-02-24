@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 21:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:45:44 GMT</lastBuildDate>
+    <item>
+      <title>为了更好地理解MVC框架，我做了这个，我需要贡献！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aycfdz/in_order_to_understand_mvc_frameworks_better_i/</link>
+      <description><![CDATA[大家好。  最近，为了更好地了解 MVC 框架，我做了这个： https ://github.com/prp-e/jails  现在，我在这里推广它，希望得到贡献:-) 随意开个 PR 并给个 star !   由   提交/u/Haghiri75  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aycfdz/in_order_to_understand_mvc_frameworks_better_i/</guid>
+      <pubDate>Fri, 23 Feb 2024 21:34:01 GMT</pubDate>
+    </item>
     <item>
       <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
       <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://ibt.razikus.tech https://github.com/Razikus/In-Browser-Tools   由   提交 /u/Razikus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ax0jxm/i_just_made_full_offline_in_browser_tools_without/</guid>
       <pubDate>Thu, 22 Feb 2024 07:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我什么时候必须使用 MIT 许可代码？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1awobtf/when_do_i_have_to_credit_with_mit_licensed_code/</link>
-      <description><![CDATA[假设我使用 pip 安装了一个 python 库，并在我的项目中使用该库。该项目是否必须包含 python 库的信用和许可证？或者这只适用于有人直接使用源代码并将其直接放置在其 git 存储库中的某个位置？   由   提交 /u/TimeDilution   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1awobtf/when_do_i_have_to_credit_with_mit_licensed_code/</guid>
-      <pubDate>Wed, 21 Feb 2024 21:44:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
