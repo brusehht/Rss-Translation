@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 25 Feb 2024 12:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 15:11:04 GMT</lastBuildDate>
+    <item>
+      <title>求职混乱？使用“跟踪我的工作”来组织和征服。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1azp59z/job_search_chaos_organize_conquer_with_track_my/</link>
+      <description><![CDATA[跟踪我的工作：轻松组织，更快找到梦想的工作 告别凌乱的电子表格以及分散的应用程序！跟踪我的工作是您组织和征服求职的一站式商店。 厌倦了： 兼顾多个工作委员会和申请？ 错过最后期限忘记细节？ 感到不知所措和杂乱无章？ 跟踪我的工作可以帮助您： 将所有工作申请集中在一处。 &lt; p&gt;轻松跟踪进度。 保持井井有条 充满信心和专注地找到你梦想的工作。 ​ 产品链接：https://trackmyjobs.onrender.com/ Github 链接：https://github.com/jysh-bgde/trackMyJobs    ;由   提交/u/pikachu_01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1azp59z/job_search_chaos_organize_conquer_with_track_my/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找支持多种语言的免费文本转语音工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1azmy0o/looking_for_free_texttospeech_tools_that_support/</link>
+      <description><![CDATA[大家好， 我目前正在开发一款独立恐怖游戏，我想在某些方面使用文本转语音游戏的。我更喜欢听起来更像机器人的声音，因为它来自游戏中的旧电脑。 我已经尝试过使用 espeak-ng，但到目前为止，它对于我的用例来说是一个很好的工具我注意到，例如，用英语或德语获得可理解的结果比用俄语获得良好的结果要容易得多。这很难理解，我已经尝试过设置不同的参数，如音高、速度、字距等。我看到 MBROLA 还提供了其他声音，但遗憾的是到目前为止还没有好的俄语替代品。  我真的很希望能够选择翻译成多种语言，并为听众提供良好的体验，而不会过度依赖字幕等。 我想知道是否有人知道如何改进这个问题，我知道这是一个非常具体的问题，但我不知道还能在哪里提出这个问题。  最重要的是，如果这些工具是免费的并开放用于商业用途，那就太好了。 感谢您的帮助:) &lt; !-- SC_ON --&gt;  由   提交 /u/Toamy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1azmy0o/looking_for_free_texttospeech_tools_that_support/</guid>
+      <pubDate>Sun, 25 Feb 2024 12:37:24 GMT</pubDate>
+    </item>
     <item>
       <title>XploreScan：再也不用记住区块链浏览器了。</title>
       <link>https://www.reddit.com/r/opensource/comments/1azigov/xplorescan_never_memorize_a_blockchain_explorer/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>“开源我的拥有 100 万用户的互联网操作系统”的后续内容</title>
       <link>https://www.reddit.com/r/opensource/comments/1az32m8/a_followup_to_opensourcing_my_internet_os_with_1/</link>
-      <description><![CDATA[大家好， 上周我在这个 reddit 子版块中发布了关于我开源我的“互联网操作系统”的意图以及我对这个令人惊叹的社区的支持感到非常震惊。我只是想让您知道这个过程正在全面进行，我刚刚也开源了 SDK。&lt; /p&gt; 这是迄今为止的当前列表以及每个项目的状态： ✅ 🆕 SDK (Apache 2.0): https://github.com/HeyPuter/puter.js Puter 的官方 JavaScript SDK。 [今天发布] ✅ 终端 (AGPL)：https://github.com/ HeyPuter/terminal [上周发布] - 朝着 POSIX 合规性迈进。 ✅ Phoenix Shell (AGPL)：https://github.com/HeyPuter/phoenix [上周发布] ✅ KV.JS (MIT)，即“浏览器中的 Redis！”：https://github.com/HeyPuter/kv.js [1,300 颗星&lt;3 ] 🔜 GUI (AGPL)：puter.com [下个月推出] 🔜 Office (AGPL)：非常令人鼓舞的讨论 不久前在这个 subreddit 上 [即将推出] 🔜 应用程序，例如 记事本等[即将推出] ​ 4 下 3 去！请继续关注更多内容:) ​ P.S. 我们对真实的、未经修改的 OSS 许可证 100% 承诺——绝对不提供“开放核心”许可或“可用源”假OSS废话。   由   提交 /u/mitousa   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 上周我在这个 reddit 子版块中发布了关于我开源我的“互联网操作系统”的意图以及我对这个令人惊叹的社区的支持感到非常震惊。我只是想让您知道这个过程正在全面进行，我刚刚也开源了 SDK。&lt; /p&gt; 这是迄今为止的当前列表以及每个项目的状态： ✅ 🆕 SDK (Apache 2.0): https://github.com/HeyPuter/puter.js Puter 的官方 JavaScript SDK。 [今天发布] ✅ 终端 (AGPL)：https://github.com/ HeyPuter/terminal [上周发布] - 朝着 POSIX 合规性迈进。 ✅ Phoenix Shell (AGPL)：https://github.com/HeyPuter/phoenix [上周发布] ✅ KV.JS (MIT)，即“浏览器中的 Redis！”：https://github.com/HeyPuter/kv.js [1,300 颗星&lt;3 ] 🔜 GUI (AGPL)：puter.com [下个月推出] 🔜 Office (AGPL)：非常令人鼓舞的讨论 不久前在此 Reddit 子版块上 [即将推出] 🔜 应用程序，例如 记事本等[即将推出] ​ 4 下 3 去！请继续关注更多内容:) ​ P.S. 我们对真实的、未经修改的 OSS 许可证 100% 承诺——绝对不提供“开放核心”许可或“可用源”假OSS废话。   由   提交 /u/mitousa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1az32m8/a_followup_to_opensourcing_my_internet_os_with_1/</guid>
       <pubDate>Sat, 24 Feb 2024 19:30:22 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>笔记图更新：谈话、集思广益、组织笔记和想法（gui）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ayko7o/notemap_updated_talk_brainstorm_and_organize/</link>
-      <description><![CDATA[   笔记图是一个简单但功能强大的工具，用于快速分析、组织和发现模式和大量文本文件中的相似性。凭借其直观的界面和高级功能，Note Map 使用户能够轻松地可视化、搜索和关联各种文件格式（包括 PDF、TXT 和 DOCX）的信息。此外，Note Map 还可以集思广益、产生想法，甚至可以与笔记进行交流！ +演示视频可在存储库中找到！ 如果您愿意，请在 GitHub 上给它一个星号喜欢它！   由   提交/u/Mr3600  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   笔记图是一个简单但功能强大的工具，用于快速分析、组织和发现模式和大量文本文件中的相似性。凭借其直观的界面和高级功能，Note Map 使用户能够轻松地可视化、搜索和关联各种文件格式（包括 PDF、TXT 和 DOCX）的信息。此外，笔记地图可以进行头脑风暴、产生想法，甚至可以与笔记进行交流！ +演示视频可在存储库中找到！ 如果您愿意，请在 GitHub 上给它一个星号喜欢它！   由   提交/u/Mr3600  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ayko7o/notemap_updated_talk_brainstorm_and_organize/</guid>
       <pubDate>Sat, 24 Feb 2024 03:41:26 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>您发现缺少哪些开源安全产品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</link>
-      <description><![CDATA[您好， 我是一名网络安全架构师，也是一位非常建议的开源用户。有一些很棒的开源软件，例如（fail2ban、pfsense、opnsense、security onion 等）... 我想知道您发现缺少什么？ 例如，我缺少一个优秀的开源 SIEM 和优秀的 WebFiltering 软件。 我对你的经验和想法感到好奇。   由   提交/u/Reasonable_Chain_160   [链接] [评论]]]></description>
+      <description><![CDATA[你好， 我是一名网络安全架构师，也是一位非常建议的开源用户。有一些很棒的开源软件，例如（fail2ban、pfsense、opnsense、security onion 等）... 我想知道您发现缺少什么？ 例如，我缺少一个优秀的开源 SIEM 和优秀的 WebFiltering 软件。 我对你的经验和想法感到好奇。   由   提交/u/Reasonable_Chain_160   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ayki1r/what_opensource_security_products_do_u_find/</guid>
       <pubDate>Sat, 24 Feb 2024 03:32:43 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>发布：Grist v1.1.11 [Airtable + Google Sheets 的自由开源软件替代品] - 表单、日历视图、高级图表、JupyterLite 笔记本</title>
       <link>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</link>
-      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易使 Grist 有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
+      <description><![CDATA[最近版本的亮点：  表单 - 在 Grist 中设计表单和调查，并观看实时数据滚动。每个字段都会自动绑定到电子表格列，因此分析非常简单。 新日历小部件用于显示日期。  高级图表和JupyterLite Notebook 自定义小部件 - 对于高级数据可视化和 Python 工作非常强大。  公式查找和快捷方式，用于添加常用公式和查找。&lt; /li&gt; 记录卡，使导航和编辑参考数据（很大一部分）变得更加容易让 Grist 变得有用）。  GitHub 存储库：https://github.com/gristlabs/grist -core Grist 概述：https://www.reddit.com/r/selfhosted/ comments/su6tv3/grist_free_open_source_alternative_to_airtable/ 互动演示（无需登录）：https://docs.getgrist.com/&lt; /p&gt; 👀 我们正在招聘！让 Grist 随处运行：https://www.getgrist.com/job-systems-engineer/&lt; /p&gt;   由   提交 /u/anaisconce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ay4rrt/released_grist_v1111_foss_alternative_to_airtable/</guid>
       <pubDate>Fri, 23 Feb 2024 16:29:36 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[标题 Raspberry Pi 传感器监控项目 关于 该项目旨在为 Raspberry Pi 上的实时传感器监控提供强大的解决方案，具有用于实时数据可视化的图形用户界面 (GUI)、用于历史分析的数据记录功能以及用于基于阈值的警报。它非常适合从环境监测到家庭自动化系统等各种应用。  开源项目 URL https:// github.com/SMCallan/DataLOGGER\_2024FEB/tree/main   由   提交/u/Cute-Amount5868  /u/Cute-Amount5868 reddit.com/r/opensource/comments/1ay1xx6/looking_for_review_and_input_with_an_open_access/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ay1xx6/looking_for_review_and_input_with_an_open_access/</guid>
       <pubDate>Fri, 23 Feb 2024 14:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>OECD对“人工智能系统”的定义是否过于宽泛？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1axzrcw/is_the_definition_of_ai_system_by_the_oecd_too/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1axzrcw/is_the_definition_of_ai_system_by_the_oecd_too/</guid>
-      <pubDate>Fri, 23 Feb 2024 12:53:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅赛德斯-奔驰股份公司 - 福斯宣言</title>
-      <link>https://www.reddit.com/r/opensource/comments/1axzi1c/mercedesbenz_ag_foss_manifesto/</link>
-      <description><![CDATA[ 由   提交/u/unixbhaskar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1axzi1c/mercedesbenz_ag_foss_manifesto/</guid>
-      <pubDate>Fri, 23 Feb 2024 12:40:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
