@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 03:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 06:12:54 GMT</lastBuildDate>
+    <item>
+      <title>计算机科学学位和数据科学学位哪个更适合开发人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azgl7y/what_is_better_for_developing_an_ai_computer/</link>
+      <description><![CDATA[您好， 我很好奇开发人工智能需要什么。 您知道吗？需要计算机科学学位或数据科学学位吗？我不是在谈论开发像 Torch 或 TensorFlow 这样的框架。但是开发一个供最终用户工作的人工智能。   由   提交 /u/Fun_Kangaroo512   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1azgl7y/what_is_better_for_developing_an_ai_computer/</guid>
+      <pubDate>Sun, 25 Feb 2024 05:55:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​24/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azfwxu/oneminute_daily_ai_news_2242024/</link>
+      <description><![CDATA[ 人工智能机器人“复制”主教的声音，从数千名修女中骗取可怕的骗局。[1] 扔掉 1.9 亿美元比特币财富的人现在正在使用人工智能来定位它。[2] 美国和中国同意制定负责任地开发人工智能的框架。[3] 善待聊天机器人可能会提高其性能。[4] 来源：https://bushaicave.com/2024/02/24/2-24-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1azfwxu/oneminute_daily_ai_news_2242024/</guid>
+      <pubDate>Sun, 25 Feb 2024 05:17:01 GMT</pubDate>
+    </item>
     <item>
       <title>有没有一个人工智能会记住你告诉它的内容以供参考</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1azb89y/is_there_an_ai_that_will_remember_what_you_tell/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[ 由   提交 /u/andWan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az2t5h/the_universe_and_ai_are_two_nontrivial_instances/</guid>
       <pubDate>Sat, 24 Feb 2024 19:19:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 RAG 相关的基本问题。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az27tk/a_basic_question_related_to_rag/</link>
-      <description><![CDATA[这里是新手。我看到一个项目，他们从 YouTube 视频中提取文字记录并创建一个向量嵌入，并根据他们通过 fiass 搜索的查询。现在我的问题是它与 RAG 有什么不同？因为他们根本没有提到 RAG。我们还在文档上创建矢量数据库，并根据查询搜索数据库并将其提供给 llm。   由   提交/u/agni07  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az27tk/a_basic_question_related_to_rag/</guid>
-      <pubDate>Sat, 24 Feb 2024 18:55:20 GMT</pubDate>
     </item>
     <item>
       <title>我只是希望关于奇点子有更有力的论据</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[Gibson 对 AI 的深刻见解（经常被忽视）是模拟系统给 AI 带来的挑战。温特穆特数十年来努力寻找并影响潜入迷魂别墅的团队的全部原因就是要通过“带有一把古老机械锁的粗糙柚木门”。这样人们就可以进入它后面的房间并唱出他们记住的三音调。书中最好的概念之一是，20 年前 Wintermute 成功操纵了一名 8 岁男孩，将那扇门的钥匙藏在一个不起眼的抽屉里，因为它知道最终它可以操纵人类取回那把钥匙，打开门。  Wintermutute 可以轻松渗透数字系统、操纵电子锁、利用在线设备，并利用其拥有的数十亿人的数据来“创造概率”。行动 - 但当面对离线模拟系统时，它依赖于人类来完成任务。 人工智能系统将如何克服这些挑战 - 实施是唯一的选择，还是脑机接口允许人工智能直接使用人类来绕过这些限制？   由   提交/u/encomlab  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</guid>
       <pubDate>Sat, 24 Feb 2024 10:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最强大、最开放的人工智能聊天机器人/GPT 是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aylmnb/what_is_the_most_powerful_and_most_open_ai/</link>
-      <description><![CDATA[我正在寻找最强大/有能力/智能的人工智能聊天机器人，例如 ChatGPT 或目前存在的其他大多不受限制的机器人，或者否则不会受到过度的政治正确性、政策规定或其他限制的阻碍。  对于真正想测试这些东西的编程能力、内容生成、设计工作、哲学讨论等极限的人来说，什么是首选？   由   提交 /u/DrTardis1963   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aylmnb/what_is_the_most_powerful_and_most_open_ai/</guid>
-      <pubDate>Sat, 24 Feb 2024 04:31:42 GMT</pubDate>
     </item>
     <item>
       <title>双子座连我都生气了</title>

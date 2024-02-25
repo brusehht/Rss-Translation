@@ -4,7 +4,14 @@
     <title>最新提交：免费</title>
     <link>https://www.reddit.com/r/FREE/new</link>
     <description>/r/Free 代表所有免费的东西（赠品或一直免费的东西）。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 03:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 06:13:27 GMT</lastBuildDate>
+    <item>
+      <title>[免费]无限云存储</title>
+      <link>https://www.reddit.com/r/FREE/comments/1az79bf/free_unlimited_cloud_storage/</link>
+      <description><![CDATA[我开发了一个 Flask 应用程序，它利用 Discord webhook 将 Discord 转变为一个无限的文件存储平台。每个文件在上传之前都经过安全加密，并在检索时解密。对于较大的文件，它们被分段，并且由于多线程，最多可以同时传输四个分段 - 这适用于上传和下载两种方式。通过基于网络的界面，与该系统的交互变得非常友好。  github 上的hendrikbgr/discord-cloud-storage   由   提交 /u/Advanced-Prompt-4387   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/FREE/comments/1az79bf/free_unlimited_cloud_storage/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:22:58 GMT</pubDate>
+    </item>
     <item>
       <title>MasterChef - 冰淇淋版 - 全球 Steam 密钥</title>
       <link>https://www.reddit.com/r/FREE/comments/1ayx1ix/masterchef_ice_cream_edition_global_steam_key/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[第一个私信我的人会得到代码。   由   提交/u/Minute-Ad2346   /u/Minute-Ad2346 reddit.com/r/FREE/comments/1avrapt/giving_company_of_heroes_3_night_fighters_afrika/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/FREE/comments/1avrapt/giving_company_of_heroes_3_night_fighters_afrika/</guid>
       <pubDate>Tue, 20 Feb 2024 20:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费获取 25 张不同风格的 AI 自己照片</title>
-      <link>https://www.reddit.com/r/FREE/comments/1auuxhl/get_25_ai_photos_of_yourself_in_different_styles/</link>
-      <description><![CDATA[为 Glam Graph 提供免费赠品！ 前 10 名参与此活动的人可以获得 25 张自己的各种照片款式100%免费。只需在结帐时使用优惠券代码GIVEAWAY即可。 很想听听您的想法和反馈。 https://glamgraph.com   由   提交 /u/alvisanovari   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/FREE/comments/1auuxhl/get_25_ai_photos_of_yourself_in_different_styles/</guid>
-      <pubDate>Mon, 19 Feb 2024 18:42:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

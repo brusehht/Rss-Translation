@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 03:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 06:14:19 GMT</lastBuildDate>
+    <item>
+      <title>评价我的投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azgud5/rate_my_portfolio_site/</link>
+      <description><![CDATA[大家好， 如果您能看一下我的 投资组合网站 并给我一些关于改进和添加内容的反馈。  您还可以访问网站的 Github 存储库。请随意给它一颗星 ⭐   由   提交/u/Ok_Acanthoperygii40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azgud5/rate_my_portfolio_site/</guid>
+      <pubDate>Sun, 25 Feb 2024 06:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使 JavaScript 编码器的 TypeScript 可读性提高 10000 倍:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azfdx5/how_to_make_typescript_10000x_more_readable_to_a/</link>
+      <description><![CDATA[       由   提交/u/cha0s  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azfdx5/how_to_make_typescript_10000x_more_readable_to_a/</guid>
+      <pubDate>Sun, 25 Feb 2024 04:48:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员如何在笔记本电脑或只有一台显示器上工作？我感觉我还需要2个显示器..</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azfbi6/how_do_you_devs_work_on_laptops_or_only_one/</link>
+      <description><![CDATA[       由   提交/u/marchershey   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azfbi6/how_do_you_devs_work_on_laptops_or_only_one/</guid>
+      <pubDate>Sun, 25 Feb 2024 04:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用简单的 Cloudflare Worker 转换图像 URL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azf063/transform_image_urls_with_a_simple_cloudflare/</link>
+      <description><![CDATA[       由   提交/u/alexmacarthur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azf063/transform_image_urls_with_a_simple_cloudflare/</guid>
+      <pubDate>Sun, 25 Feb 2024 04:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>上下文切换还原</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azerge/context_switching_redux/</link>
+      <description><![CDATA[我发现了这篇较早的文章，我有点想将上下文切换的主题带回到生活中，并尝试在如何进行方面获得更多新鲜的想法来处理它。 我的情况与 OP 有点不同，因为我基本上是在使用 3 种不同技术堆栈或 sass 产品的大约 4 个不同项目中进行自由职业。 我非常擅长保持我的工作空间井井有条，我有针对不同项目的 Trello 看板，并将其与我的 Google 日历同步。所以我总是知道我应该什么时候做什么任务。我尝试在特定的一天对类似的任务进行分组，但不可避免的是，在某些日子里需要进行上下文切换。尽管有世界上所有的工具，我有时还是很难让我的大脑进行切换。  你们有没有办法处理这个问题，无论是日程安排技巧、任务之间某种类型的休息或休息、你做的一件事或你访问的一个地方来提神醒脑或让它变得更好能够专注于下一件事吗？ 渴望听到。   由   提交 /u/Amazing_Box_8032   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azerge/context_switching_redux/</guid>
+      <pubDate>Sun, 25 Feb 2024 04:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成的元标签臃肿是正常的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aze6zg/is_it_normal_to_have_bloated_generated_meta_tags/</link>
+      <description><![CDATA[      所以，我正在我的网站上工作并配置元数据、OG 图像等内容那。这是我第一次处理这些事情，但到目前为止，我已经设法弄清楚了。但让我很困扰的一件事是，当我查看元标记时，它们非常臃肿，有很多看不见的字符，如下图所示。  https://preview.redd .it/31delivyhnkc1.png?width=878&amp;format=png&amp;auto=webp&amp;s=d6257e462eb4750fa3032294bce6077caed5fafa 我不知道这是否对 SEO 或速度或类似的东西有任何影响但至少每次都需要检查meta标签是否正确，很麻烦。据我所知，这似乎是 Sanity（我正在使用的 CMS）的错误。当我对来自 Sanity 的数据进行 console.log 时，它总是在输出末尾出现很多奇怪的空格，有时甚至会由于某种原因擦除最后一个字符。不过，数据被正确使用，并且在我的网站上没有任何错误。它可能与 Sanity 处理数据的方式有关，但我在文档中找不到任何相关内容。  有什么办法可以解决这个问题吗？这是我应该担心的事情吗？就像我说的，一切似乎都按预期进行，但必须经历如此多的臃肿来检查所有元标记，这很烦人，更重要的是，我担心它会对 SEO 产生不良影响。&lt; /p&gt; 更多信息，以防万一它很重要：我将 Next.js 14 与 App Router 一起使用，该网站托管在 Vercel 上（开发和生产环境中都会发生膨胀）和 React 18.2。我不知道还有哪些其他相关信息，但请别问。   由   提交 /u/TheSirion   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aze6zg/is_it_normal_to_have_bloated_generated_meta_tags/</guid>
+      <pubDate>Sun, 25 Feb 2024 03:43:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在这个饱和的市场中脱颖而出？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aze66v/how_to_stand_out_in_this_saturated_market/</link>
+      <description><![CDATA[既然每个工作机会都有 4.2069 亿程序员，如何作为一名 Web 开发人员脱颖而出？这实际上是不可能的。有小费吗？？？？？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aze66v/how_to_stand_out_in_this_saturated_market/</guid>
+      <pubDate>Sun, 25 Feb 2024 03:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[炫耀星期六] 生产力工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aze5sn/showoff_saturday_productivity_tool/</link>
+      <description><![CDATA[我已经成为一名开发人员 5 年了，在这段时间里，我注意到大多数开发人员都会做笔记，但没有人有专门的笔记应用程序。现有的应用程序是一般的笔记应用程序，对于过滤/重用信息来说很糟糕，所以我制作了一个应用程序，它可以更轻松地首先：找到我正在处理的代码问题的解决方案，第二：保存笔记，以防万一需要重复使用它们。链接是https://codemento.com。我很想听听您对此的想法。   由   提交 /u/asimo22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aze5sn/showoff_saturday_productivity_tool/</guid>
+      <pubDate>Sun, 25 Feb 2024 03:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该怎么做呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azdxjo/how_do_i_do_this/</link>
+      <description><![CDATA[      如何使我的大纲在遇到这样的文本时停止，如何做我首先在那里得到文本（我对前端相对较新）   由   提交/u/centerdeveloper  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azdxjo/how_do_i_do_this/</guid>
+      <pubDate>Sun, 25 Feb 2024 03:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关 servlet 和 html 的帮助吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azdn6p/help_with_servlet_and_html/</link>
+      <description><![CDATA[您好！我开始在 Web 开发中编程，并且正在编写一个需要创建连接到 servlet 的 html 文件的程序。我用的是netbeans。所以我做的第一件事就是尝试它，但没有成功，因为我缺少很多东西，我必须使用 tomcat 设置我的服务器，修复一些更新问题，安装 Java EE 等等。最终完成所有这些操作后，我能够创建一个项目，并在该项目内创建一个 html 文件和一个 servlet。两者都运行时没有标记任何错误，但问题是 html 文件没有打开浏览器页面。代码的要点是打开一个浏览器页面，其中有一个启动 servlet 的按钮，然后该 servlet 打开，但是什么也没发生，我真的不知道该怎么办。 感谢您的帮助！   由   提交 /u/Zethasu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azdn6p/help_with_servlet_and_html/</guid>
+      <pubDate>Sun, 25 Feb 2024 03:14:29 GMT</pubDate>
+    </item>
     <item>
       <title>欺骗性弃用：关于 npm 弃用包的真相</title>
       <link>https://www.reddit.com/r/webdev/comments/1azcccc/deceptive_deprecation_the_truth_about_npm/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[我想为社交媒体上每半月一次的独立作者活动创建一个新网站。 这也没什么复杂，只是列出参与者（提供指向他们的页面/电子邮件的链接），一些漂亮的图片来展示他们的书籍，列出相关信息，并展示我们的促销合作伙伴。 我从未在我的生活，我对最便宜/最简单的方法有点迷失。我考虑过雇人帮我做这件事，但由于设计简单，我不确定它是否值这个钱。 帮助？ &lt;!-- SC_ON - -&gt;  由   提交/u/archblade7777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azaapc/wanting_to_make_a_simple_website_completely_new/</guid>
       <pubDate>Sun, 25 Feb 2024 00:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何具有扩展 Markdown 支持的数据库吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az98mq/any_db_with_extended_markdown_support/</link>
-      <description><![CDATA[虽然我确实意识到 Markdown 只是标记并且可以表示为字符串，但我想知道是否有一个数据库具有专门的 Markdown 数据类型，例如标签收集、Wiki 链接感知等。我一直在谷歌上搜索一下，虽然 MarkdownDB 似乎有点朝这个方向发展，但它与我在这里的意思并不完全相同，这是一个带有 Markdown 的通用数据库，而不是 Markdown 驱动的（这个术语正确吗？）数据库。   由   提交 /u/skwyckl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az98mq/any_db_with_extended_markdown_support/</guid>
-      <pubDate>Sat, 24 Feb 2024 23:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>善有善报恶有恶报</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az8sra/what_goes_around_comes_around/</link>
-      <description><![CDATA[我想有人可能会喜欢这个。 我一直在为 Shopify 应用商店开发一款应用。尽管进展缓慢，但它正在到来。大约一周前，我遇到了一个问题，并通过在合作伙伴仪表板中启用特定设置来解决它。我花了几个小时才弄清楚（我不是很聪明），一路上我在 Shopify 论坛上发现了几个月前未解决的帖子。 好吧，这次我决定我想做一些事情让世界变得更美好，所以我登录并发布了我的解决方案。当然没有人回应，但我觉得有一天，像我这样的人会出现，在同一个线程中遇到同样的问题，我想让他们的生活变得更轻松。 今天下午，添加后一个新功能，我重新部署了该应用程序，但像往常一样它停止工作。我花了一个小时左右的时间来解决这个问题，无法弄清楚，第一百次回到谷歌，这一次我找到了一个帖子，里面有一群有同样问题的人，最后，一种解决方案。 这是我发布的解决方案。 因此，对于那些想知道在您已经知道的情况下共享修复程序有何意义的人，请记住，如果你曾经遇到过这个问题，那么你可能会再次遇到这个问题。如果您花一点时间分享您的知识，您帮助的人可能就是您自己。   由   提交 /u/oldepoetry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az8sra/what_goes_around_comes_around/</guid>
-      <pubDate>Sat, 24 Feb 2024 23:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程师如何创造价值</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az8ahm/how_software_engineers_create_value/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az8ahm/how_software_engineers_create_value/</guid>
-      <pubDate>Sat, 24 Feb 2024 23:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[不受欢迎的观点]马克·扎克伯格关于元宇宙的看法是正确的，但这个想法太新了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az828m/unpopular_opinion_mark_zuckerberg_was_right_about/</link>
-      <description><![CDATA[每一项可以上线的服务最终都会上线。就像Zoom、Citrix等视频会议软件以及电子商务平台成功地将传统线下活动（会议、购物）带到线上。人们最终会在网上做一些诸如太空篮球之类的事情。唯一的问题是侵入性硬件。我休息一下。   由   提交/u/UniversityEastern542   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az828m/unpopular_opinion_mark_zuckerberg_was_right_about/</guid>
-      <pubDate>Sat, 24 Feb 2024 22:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动和运行 Redux-Toolkit 时遇到问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az7zji/having_trouble_getting_reduxtoolkit_up_and_running/</link>
-      <description><![CDATA[      我在 VS Code 中收到以下错误。我正在尝试在 Angular 应用程序中测试 RTK。它甚至还没有以任何方式与 Angular 联系在一起。这是RTK 2.2.1。具体错误是 对象字面量只能指定已知属性，并且类型&#39;Omit, &quot;selectId&quot;&gt;&#39;.ts(2353)中不存在&#39;selectId&#39;谷歌给我的结果为零（字面意思）。有人遇到过这个吗？ https ://preview.redd.it/avewghee4mkc1.png?width=1354&amp;format=png&amp;auto=webp&amp;s=35f664eb24169a59d29da53f89bd9805662eaa40  &amp;# 32；由   提交 /u/AttackOnGolrk   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az7zji/having_trouble_getting_reduxtoolkit_up_and_running/</guid>
-      <pubDate>Sat, 24 Feb 2024 22:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从数据库中获取数据并将其显示在 Next.js 的页面上？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az7s5h/how_can_i_fetch_the_data_from_the_database_and/</link>
-      <description><![CDATA[嗨，我正在 Next.js、Postgres 作为数据库和 Prisma ORM 创建一个学习管理系统 (LMS)。我想知道如何从数据库（Postgres）获取数据并将其显示在 Page 上。请建议一些资源来理解它并实施它。    由   提交/u/meet__07  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az7s5h/how_can_i_fetch_the_data_from_the_database_and/</guid>
-      <pubDate>Sat, 24 Feb 2024 22:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用 github 还是 Hostinger 进行托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az7cvd/should_i_use_github_or_hostinger_for_hosting/</link>
-      <description><![CDATA[我通过托管商购买了域名，并且还购买了托管计划。但现在，我的网站已连接到 github。我应该坚持使用 github 进行托管还是将其发送给托管商托管？ 编辑：这是我的投资组合   由   提交 /u/Wicked_Weaboo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az7cvd/should_i_use_github_or_hostinger_for_hosting/</guid>
-      <pubDate>Sat, 24 Feb 2024 22:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术面试编码模式完整课程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az75c6/full_course_on_coding_patterns_for_technical/</link>
-      <description><![CDATA[编码模式比盲目做leetcode更重要，在这个不确定的时期我认为每个人都应该做好面试准备。  编码模式完整课程  &amp;# 32；由   提交 /u/TranslatorAway9891   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az75c6/full_course_on_coding_patterns_for_technical/</guid>
-      <pubDate>Sat, 24 Feb 2024 22:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 Rust/TypeScript Web 应用程序来探索 Mandelbrot 集分形</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az6mil/i_built_a_rusttypescript_web_app_to_explore_the/</link>
-      <description><![CDATA[       由   提交/u/dp-ross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az6mil/i_built_a_rusttypescript_web_app_to_explore_the/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>显示当前状态：ruby 和 <ruby> 元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</link>
-      <description><![CDATA[刚刚偶然发现了 display: ruby​​; 和  元素。任何人都可以分享关于 &lt;ruby&gt; 之间互连的见解吗？元素和 CSS ruby​​ 注释？鉴于浏览器对 CSS ruby​​ 样式选项的支持程度适中（根据 MDN），这些选项是否有任何实际用例？ 链接：* https://developer.mozilla.org/en-US/docs/Web/CSS/display#ruby * https://html.spec.whatwg.org/multipage/text-level-semantics.html#the -ruby-element * https://developer.mozilla.org/en -US/docs/Web/HTML/Element/ruby   由   提交/u/web-devel  /u/web-devel  reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1az6b0u/the_current_state_of_displayruby_and_ruby_element/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:43:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
