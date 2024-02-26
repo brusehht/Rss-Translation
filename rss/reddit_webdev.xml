@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 18:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:50:09 GMT</lastBuildDate>
     <item>
-      <title>有没有办法确定用户是否设置了 12 小时制还是 24 小时制？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azu87y/is_there_a_way_to_determine_if_the_user_has_12/</link>
-      <description><![CDATA[我已经尝试过 Intl 对象以及我在堆栈溢出时遇到的其他几个对象，但我就是不能为我的生活弄清楚如何确定如何按照用户的预期向他们显示时间。   由   提交 /u/blakealex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azu87y/is_there_a_way_to_determine_if_the_user_has_12/</guid>
-      <pubDate>Sun, 25 Feb 2024 17:59:13 GMT</pubDate>
+      <title>一个漂亮优雅的日本网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0441t/a_nice_elegant_looking_japanese_website/</link>
+      <description><![CDATA[几个月前，当我在日本时，我在这里发了一篇帖子，谈论那里的大多数网站看起来绝对是垃圾。今天早些时候，我看到了一家日本公司的这个网站，我觉得它看起来非常不错，所以只是想分享 https://www.kyocera.co.jp/animation/imashou/ 这并不是什么令人兴奋的事情，但如果您看过很多日本网站，您就会&#39;你会知道这个比大多数人都好得多哈哈   由   提交/u/r1a2k3i4b   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0441t/a_nice_elegant_looking_japanese_website/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:39:39 GMT</pubDate>
     </item>
     <item>
-      <title>作为 WordPress 开发人员，寻找学习 MERN 堆栈的灵感。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aztvcm/looking_for_inspiration_to_learn_mern_stack_as_a/</link>
-      <description><![CDATA[在过去的 7 年里，我一直是 WordPress 开发人员，我希望提高自己的技能，并关注市场趋势 MERN 显然是我的想法我的下一步是学习。 我相信通过构建来学习。 但我仍然找不到一个很好的理由来说明为什么某个特定项目会做得更好在 MERN 中，而不是在传统的 WordPress/PHP/Javascript 堆栈中，显然它的构建和部署速度更快。 有人可以帮助我解决这个困境，并告诉我应该尝试构建什么，这将展示 MERN 如何进行构建明显优于 WordPress？ 我知道 MERN 在构建具有巨大流量的大型系统时会有所帮助，但我无法自己测试这些系统，因为我不是用它来建立业务。 &lt; /div&gt;  由   提交 /u/slamdunk6662003   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aztvcm/looking_for_inspiration_to_learn_mern_stack_as_a/</guid>
-      <pubDate>Sun, 25 Feb 2024 17:44:48 GMT</pubDate>
+      <title>为什么我的博客上显示的是代码而不是内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b03gsf/why_is_code_showing_up_instead_of_content_on_my/</link>
+      <description><![CDATA[请帮忙！我的主页没有显示在我的新博客上，而是一堆代码。有时，如果您直接访问网站 cookandcrumbs.com 没问题，但如果您单击“主页”，则可能会出现问题。那么就是这盒代码，没有别的了。它看起来像 MailPoet 代码，大概来自我使用 MailPoet 插件的订阅框。我已经检查过我的插件，认为没有任何冲突，但我不确定会发生什么。如果有人有任何想法请告诉我。我的其他插件是 asgaros 论坛、演示导入器 plus、jetpack、性能实验室、asgaros 的 recaptcha、site kit、smush、wp beautiful 和 Yoast SEO。谢谢！   由   提交/u/AppleAnne33  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b03gsf/why_is_code_showing_up_instead_of_content_on_my/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:10:16 GMT</pubDate>
     </item>
     <item>
-      <title>英国前端开发人员的职业发展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aztp9v/career_progression_for_front_end_devs_in_uk/</link>
-      <description><![CDATA[你们中有人有从常规前端开发角色跳到更专业/薪水更高的角色的经验吗？ 就上下文而言，我是所谓的普通前端开发人员，在一家设计机构工作，在 Wordpress、Shopify 等中构建网站。我每天都使用 HTML、CSS、Vanilla JS、Vue.js。中等规模的开发商，年收入略高于 4 万英镑。 8 年经验。 我并不是对这个职位不满意，而是我很清楚，在金融科技等行业中还有更高薪的职位。我见过的薪水高达 12 万英镑。 你们中有没有人经历过类似的职位而跳槽到其中一个职位？  您是否学习过任何可能不属于您之前技能的特定内容？（数据可视化、Web 服务开发、单元测试、集成测试、数据结构、设计模式等） ） 您作为设计机构类型开发人员的经验对申请过程有帮助吗？ 过渡需要多长时间？ 提供的薪水是多少？该行业的新手？   由   提交/u/benr89  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aztp9v/career_progression_for_front_end_devs_in_uk/</guid>
-      <pubDate>Sun, 25 Feb 2024 17:37:59 GMT</pubDate>
+      <title>修改代码输出的美观性？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b01n62/modifying_the_aesthetics_on_code_output/</link>
+      <description><![CDATA[大家好，这里对 css 和 javascript 完全是菜鸟，但我的一个朋友正在构建一个网站，网站构建人员给了他一段代码片段公司嵌入到网站的  中HTML 代码部分？ 这是他发送的内容： ; 和   问题是网站建设公司的聊天机器人缺少我朋友网站颜色的颜色主题以及他想要定制的更多品牌？无论如何，是否可以将此代码输入到正文部分并编辑美学字段。 本质上使用聊天机器人的相同功能，但根据美学进行修改？如果有人愿意解释，我很乐意了解该过程 我听说使用 HTML 包装器可以提供帮助？或者这距离解决方案还有很长的路要走？   由   提交 /u/Minute_Canary9025   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b01n62/modifying_the_aesthetics_on_code_output/</guid>
+      <pubDate>Sun, 25 Feb 2024 22:53:23 GMT</pubDate>
     </item>
     <item>
-      <title>您的第一个项目每小时收费多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aztp7u/what_sort_of_hourly_would_you_charge_for_your/</link>
-      <description><![CDATA[我的朋友知道我热衷于构建网站，并为我提供了一份为他构建网站的工作。他希望我在 Wordpress 上为他建立一个非常详细的 50 页网站。我需要做的是精确地重新设计设计，并使其全部正常工作并链接在一起。我对 WordPress 的经验有限，我只使用 HTML、CSS 和 JavaScript 制作过网站，我以前也在那里制作过网站，但没有任何接近这个大小或规模的网站。我绝对可以在给我的时间内做到这一点，我只是觉得付款有点低。他知道我必须学习如何使用 Wordpress，但将其视为培训，因此如果我超过 25 小时的时间，我不会获得更多报酬，我肯定会学习，因为它是一个大型网站。为此，他出价 250 英镑。这太低了吗？   由   提交/u/thatwentverywrong  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aztp7u/what_sort_of_hourly_would_you_charge_for_your/</guid>
-      <pubDate>Sun, 25 Feb 2024 17:37:55 GMT</pubDate>
+      <title>Redux-Toolkit 应用创意示例</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b013uj/example_reduxtoolkit_app_ideas/</link>
+      <description><![CDATA[什么是相当于 Hello World Todo 应用程序，但用于通过 Redux/Redux-Toolkit 测试状态管理的应用程序？我觉得基本的 Todo 应用程序并不一定能让库有机会大放异彩。   由   提交 /u/AttackOnGolrk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b013uj/example_reduxtoolkit_app_ideas/</guid>
+      <pubDate>Sun, 25 Feb 2024 22:31:51 GMT</pubDate>
     </item>
     <item>
-      <title>我需要学习什么才能构建我想要制作的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azthw7/what_do_i_need_to_learn_to_build_an_app_i_want_to/</link>
-      <description><![CDATA[我现在了解 python 的基础知识。我想构建一个应用程序，您可以在其中填写一份调查问卷，并根据您的答案将您与与您兼容的人相匹配。有些问题在匹配中比其他问题具有更大的权重，我希望用户能够在一段时间后报告他们是否对与他们匹配的人感到满意，并让该信息细化问题的权重以更准确地反映什么会给出很好的匹配。想必这需要一些机器学习。当两个人匹配时，我希望为他们提供一种文本聊天，他们可以从选项中选择适合他们俩进行视频通话的时间（实际上无法在该时间之外发短信）。然后他们当然可以互相视频通话。为了制作这个应用程序，我需要学习哪些确切的主题、技能和堆栈或其他内容？最好主要是用Python。谢谢 （我的计划是先构建一些其他需要相同技能和知识的更简单的东西，一旦我知道所需的技能和知识是什么，然后再尝试整个应用程序。它将第一次可能会很糟糕，但是一旦我让它工作起来，我就可以从错误中吸取教训，再​​次构建整个东西）    由   提交 /u/TakingNamesFan69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azthw7/what_do_i_need_to_learn_to_build_an_app_i_want_to/</guid>
-      <pubDate>Sun, 25 Feb 2024 17:29:48 GMT</pubDate>
+      <title>你有什么学位</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b00a9a/what_degree_do_you_have/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/Snowpecker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b00a9a/what_degree_do_you_have/</guid>
+      <pubDate>Sun, 25 Feb 2024 21:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>带路由器的 SPA 是否具有与“普通”网站相同的 URL 限制？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azt45z/do_spas_with_routers_have_the_same_url/</link>
-      <description><![CDATA[我正在尝试确定是否需要使用 Vue Router 将字符串化 JSON 对象编码为 Vue 应用程序中的查询参数。 &lt; p&gt;路由器不会抱怨查询中的字符串化 JSON，Chrome 在开发或构建过程中也不会抱怨。我还注意到路由器采用了自己的编码机制。  不过，我担心查询字符串中的键值对（例如 foo={“bar”:1}）会给自己带来问题    由   提交/u/zmcnulty980  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azt45z/do_spas_with_routers_have_the_same_url/</guid>
-      <pubDate>Sun, 25 Feb 2024 17:14:25 GMT</pubDate>
+      <title>您在 nextjs/react 中实现 Figma 设计时使用的前端行业标准工具是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b007sv/what_are_the_frontend_industry_standard_tools_you/</link>
+      <description><![CDATA[我是一名后端开发人员，我尝试为一家初创公司签订前端合同。我尝试从头开始实现下一个应用程序，但结果很糟糕，因为我无法完全匹配Figma，而且我花了比运行该项目的前Facebook开发人员预期的时间更长的时间。 他说我应该“已经认识前端工程师，我可以依靠他们来建议我应该使用哪些工具”但没有兴趣进一步帮助我。他提到了使用 Figma 来反应/下一个代码的工具，我见过一些人工智能项目，但我发现这些代码不能很好地处理整个多页项目。  TLDR； 我希望你们能告诉我人们在工作流程中使用的行业标准工具来进行 Figma 设计并将其完全实现到 nextjs 中。如果有人拥有扎实的前端背景，并且愿意通过我遇到的一些合同向我提供建议，我会非常乐意协商其中的一部分。提前致谢！ ​   由   提交 /u/Majestic-firebombing    reddit.com/r/webdev/comments/1b007sv/what_are_the_frontend_industry_standard_tools_you/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b007sv/what_are_the_frontend_industry_standard_tools_you/</guid>
+      <pubDate>Sun, 25 Feb 2024 21:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>我的网站是商业网站还是投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azsoxb/is_my_website_commercial_or_still_a_portfolio/</link>
-      <description><![CDATA[我自己有一个网络代理网站，也可以考虑作为“投资组合网站”。该网站永久免费托管在名为 Vercel 的平台上。根据 Vercel 的说法，只有非商业网站可以免费托管。最近，我的网站上有很多关于创建网站或网络应用程序的报价的联系表格。那么我的网站会被视为商业网站还是仍然可以被视为一个投资组合？ 更新：感谢大家的帮助。我刚刚在联系表单上添加了一些新文本和一些其他元素，以使网站更加商业化。我打算将项目转移到 Cloudflare Pages。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azsoxb/is_my_website_commercial_or_still_a_portfolio/</guid>
-      <pubDate>Sun, 25 Feb 2024 16:57:40 GMT</pubDate>
+      <title>好的，色彩空间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azxef6/okay_color_spaces/</link>
+      <description><![CDATA[ 由   提交 /u/stefanjudis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azxef6/okay_color_spaces/</guid>
+      <pubDate>Sun, 25 Feb 2024 20:04:42 GMT</pubDate>
     </item>
     <item>
-      <title>您见过的最糟糕、最无用的文档是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azsdqy/whats_the_worst_most_unhelpful_documentation_that/</link>
-      <description><![CDATA[对于您经常使用（或者更好的是依赖）的语言或库来说，最糟糕的文档是什么，但读起来很糟糕并理解吗？ 我目前正在学习如何制作检索增强生成 LLM 应用程序（例如“Chat with X Knowledgebase”等网站），我想我也可以调整我的项目以允许用户与不太好的文档聊天。我很想知道是否有任何您经常使用的文档很糟糕。  我希望做出一些有用的东西，因此我将投入大量工作来减少幻觉（包括源链接）并制作一个实际上直观易用的前端。但除此之外，这个项目是为了娱乐和学习！   由   提交 /u/hatvaccum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azsdqy/whats_the_worst_most_unhelpful_documentation_that/</guid>
-      <pubDate>Sun, 25 Feb 2024 16:44:57 GMT</pubDate>
+      <title>我感觉使用 cookieyes wordpress 插件后我的每次点击费用和广告可见率下降了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azwnq4/i_feel_like_my_cpc_and_ad_visibility_rate/</link>
+      <description><![CDATA[我使用 cookieyes，但由于弹出消息，我觉得我的每次点击费用和广告可见率下降了。它可能是正确的，或者只是安慰剂？ 我是否需要使用 cookie 插件，或者如果我启用 adsense 自己的 GDPR 在 adsense 面板上显示警告并仅在欧洲显示就足够了？因为我的流量 99% 是美国。 我应该对美国流量使用 cookie 警告吗？   由   提交 /u/Jayonsticks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azwnq4/i_feel_like_my_cpc_and_ad_visibility_rate/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>你在电脑上花了多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azs20a/how_much_did_you_spend_on_your_computer/</link>
-      <description><![CDATA[只是想知道这里的平均值是多少。只有计算机单元，没有屏幕，没有配件。 告诉您是专业人士还是业余爱好者。简短的规格描述也很好。   由   提交 /u/alimbade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azs20a/how_much_did_you_spend_on_your_computer/</guid>
-      <pubDate>Sun, 25 Feb 2024 16:31:48 GMT</pubDate>
+      <title>我厌倦了必须向下滚动到职位描述才能找到所需的最低经验年限，因此编写了一个脚本来为我做到这一点。现在，它在职位名称下方添加了所需的经验，以便我可以快速评估我的资格。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azwg29/was_fed_up_with_having_to_scroll_down_to_job/</link>
+      <description><![CDATA[       由   提交/u/WorL_YouDecide   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azwg29/was_fed_up_with_having_to_scroll_down_to_job/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>为什么许多公司对子服务使用单独的根域而不是子域？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azr2fk/why_do_many_companies_use_separate_root_domains/</link>
-      <description><![CDATA[我见过许多公司为不同的服务使用额外的根域。有充分的理由不使用子域吗？在我看来，另一个根域需要额外的注册/续订费用和额外的维护，例如用于 DNS 和 SSL。这也使得识别域名（或电子邮件地址）是否属于公司变得更加困难。网络钓鱼攻击通常利用与公司名称相似的域名和电子邮件来欺骗受害者，因此一般人更难知道该网站、域名是否实际上由该公司拥有。 例如为什么使用companycdn.net而不是cdn.company.com作为CDN，companystat.us而不是status.company.com作为状态页面，@companyemail.com而不是@company.com作为电子邮件（company代表公司名称） ). Reddit 到底怎么了？当我保存时，它会不断地从我的帖子中删除我的链接。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azr2fk/why_do_many_companies_use_separate_root_domains/</guid>
-      <pubDate>Sun, 25 Feb 2024 15:51:15 GMT</pubDate>
+      <title>有哪些适合简历的 Javascript 项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azvzh8/good_javascript_projects_for_resume/</link>
+      <description><![CDATA[在当今的环境下，您认为什么是好的项目，可以让您的简历脱颖而出？（使用 Node 的项目.js/react.js、html 和 css） PS-我知道它要求太高，但如果该项目不是太困难或者有在线资源来了解该项目，我会很感激   由   提交 /u/PandeyyJi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azvzh8/good_javascript_projects_for_resume/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>作为独立开发人员进行自动化测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azqgqh/automated_tests_as_a_solo_dev/</link>
-      <description><![CDATA[嘿各位 Reddit 用户， ​ 只是想获得一些关于自动化测试的主题，尤其是作为独立开发人员。我之前在不同的背景下看过很多关于它的讨论，我知道这样做是理想的，一个好的代码库需要它，但缺乏资源和截止日期可能是某些人在某些情况下不这样做的原因之一. ​ 因此，如果您是从事前端和后端项目的单个开发人员，我想了解一些关于自动化测试相关性的意见。如果这些项目是商业性的，你会改变主意吗？ ​ 只是想弄清楚人们是否认为自动化测试与 Typescript 一样重要，例如，在更好地学习并习惯它之前，这是我不喜欢的一件事，而现在，就像许多其他开发人员所发生的那样，如果没有它，我无法看到自己编码。 ​ ; 提前感谢您的关注！   由   提交/u/Stark_Sieger  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azqgqh/automated_tests_as_a_solo_dev/</guid>
-      <pubDate>Sun, 25 Feb 2024 15:25:27 GMT</pubDate>
+      <title>网络开发和游戏领域的人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</link>
+      <description><![CDATA[您好，只是对从事 Web 开发和工作的人员感到好奇。您也是游戏玩家，您每天在电脑/游戏机上盯着屏幕有多少小时？我是一名业余网络开发人员，做过自由职业，但主要使用 &amp;想要创业和创业的技能我想经营在线业务，而且我喜欢学习它。我从来都不是一个大游戏玩家。 15 年前，18 岁时就完全停止了。我知道有很多专业网络开发人员也经常玩游戏，我很好奇你在屏幕上花费的时间，如果你曾经做过屏幕排毒，我知道游戏可以是社交的，但你仍然坐着花费大量时间进行和学习 Web 开发，身体或精神都不健康。   由   提交/u/redsnflr-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</guid>
+      <pubDate>Sun, 25 Feb 2024 19:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>将我的个人网站重建为单个 HTML 页面。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azpvb6/rebuilt_my_personal_website_as_a_single_html_page/</link>
-      <description><![CDATA[我的网站 我已经过去有一个个人网站，全部都是用 React 构建的不同程度的复杂性。今年，我决定再次重建我的网站，但我回到了最基础的、没有 JS 或框架的纯 HTML 页面。该设计深受 saveflipper.ca 和 hugo-theme-terminal 站点源代码：https://github.com/sgolovine/www  非常感谢任何批评。   由   提交 /u/_fat_santa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azpvb6/rebuilt_my_personal_website_as_a_single_html_page/</guid>
-      <pubDate>Sun, 25 Feb 2024 15:00:05 GMT</pubDate>
+      <title>这里的菜鸟，我需要去掉这个边框，但我似乎找不到它写在哪里。我正在使用 React 和 Tailwind。我如何追踪其根本原因？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azvk4w/noob_here_i_need_to_get_rid_of_this_border_but_i/</link>
+      <description><![CDATA[   /u/iiexistenzeii  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azvk4w/noob_here_i_need_to_get_rid_of_this_border_but_i/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:51:41 GMT</pubDate>
     </item>
     <item>
-      <title>你们如何管理翻译？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azphmb/how_do_you_manage_translations/</link>
-      <description><![CDATA[您如何管理多语言网站的翻译？ 我正在寻找与 React 网站相关的策略，但后来我我认为任何适用于 webdev 的策略也适用于 React 网站。 我目前在 JSON 文件中的字符串中使用 i18next，对于我的大多数用例来说，它都非常适合我。我可以管理 CSV 中的字符串并将它们导出到 JSON 文件。可以用其他工具替换 CSV 以进行扩展。可以将 CSV 命名到特定页面以自动映射它们等。 当我有一个充满内容的页面而不是为我正在考虑的段落和项目符号创建 50 个翻译标签时，此工作流程对我来说会失败。备择方案。有什么建议吗？   由   提交 /u/webdevop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azphmb/how_do_you_manage_translations/</guid>
-      <pubDate>Sun, 25 Feb 2024 14:42:50 GMT</pubDate>
+      <title>我有一个域名，我应该使用什么来部署和托管我的个人投资组合网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azv9z2/i_have_a_domain_what_should_i_use_to_deploy_and/</link>
+      <description><![CDATA[大家好！  我获得了一个域名，目前正在开发我的个人作品集网站。我应该使用什么免费托管服务来部署我的网站？  我听说过 Vercel、GitHub Pages、Render.com 等，但我不知道该选择哪个。&lt; /p&gt;   由   提交/u/NightShadowGR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azv9z2/i_have_a_domain_what_should_i_use_to_deploy_and/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:40:31 GMT</pubDate>
     </item>
     <item>
-      <title>应用内浏览器不支持 lvh 和 svh 单位？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azphm2/lvh_and_svh_units_not_supported_by_inapp_browsers/</link>
-      <description><![CDATA[这让我发疯。我的网站是基于 lvh 的，但它似乎无法与 Facebook Instagram 和 LinkedIn 使用的这些糟糕的应用内浏览器一起使用？当您随着标题进出而上下滚动时，我的内容会到处弹跳。 这些新的 css 单元是否真的不受此支持？   div&gt;  由   提交 /u/1conflictedconfusion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azphm2/lvh_and_svh_units_not_supported_by_inapp_browsers/</guid>
-      <pubDate>Sun, 25 Feb 2024 14:42:50 GMT</pubDate>
+      <title>此交通是否合法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azv0fs/is_this_traffic_legit/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azv0fs/is_this_traffic_legit/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>我为你做了“测验”〜有趣、简单和实用的测验（没有书呆子问题）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azj26z/i_made_quiz_for_you_fun_easy_practical_quizzes_no/</link>
-      <description><![CDATA[我为你制作了 Quiz，这是一个学习各种概念的实用问题。 这很有趣，很简单。 已有 1000 人参加过这些测验。 在下方分享您的分数👇   由   提交 /u/Genuine-Helperr   /u/Genuine-Helperr reddit.com/r/webdev/comments/1azj26z/i_made_quiz_for_you_fun_easy_practical_quizzes_no/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azj26z/i_made_quiz_for_you_fun_easy_practical_quizzes_no/</guid>
-      <pubDate>Sun, 25 Feb 2024 08:30:50 GMT</pubDate>
+      <title>寻求反馈：如何改进 Jean Fernand Setti 网站以提高用户参与度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1azuy27/seeking_feedback_how_can_i_improve_the_jean/</link>
+      <description><![CDATA[大家好， 我目前正在致力于增强 Jean Fernand Setti 的网站，他是一位杰出的男中音低音歌剧歌手，我正在寻求您的专业知识和反馈。我们的目标不仅是展示他的才华和即将到来的表演，而且还要确保该网站具有吸引力、信息丰富且可供所有访问者访问。 以下是该网站的链接：www.jeanfernandsetti.fr 我对您对以下方面的想法特别感兴趣：  用户体验和导航：如何使网站更加直观和用户友好？ 内容呈现：是否有更有效的方式来呈现有关 Jean Fernand 的职业、表演和录音的信息？ 视觉设计：对于如何改进网站的美感以更好地体现 Jean Fernand 的艺术才华有什么建议吗？ 性能和可访问性：有关提高所有用户的网站速度、响应能力和可访问性的提示。 性能和可访问性：有关提高网站速度、响应能力和所有用户可访问性的提示。 li&gt;  如果您能提供任何反馈、批评或建议，我们将不胜感激。我们渴望让这个网站对粉丝和新人来说尽可能有效和有吸引力。预先感谢您的帮助！   由   提交 /u/JackTroyl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1azuy27/seeking_feedback_how_can_i_improve_the_jean/</guid>
+      <pubDate>Sun, 25 Feb 2024 18:27:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
