@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 12:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 18:14:39 GMT</lastBuildDate>
     <item>
-      <title>[媒体]计费系统对于寻求货币化的企业来说是不可避免的罪恶，但它们[...]</title>
-      <link>https://t.me/hn_summary/76185</link>
-      <description><![CDATA[构建自己的计费系统的 14 个痛点&lt; br/&gt;
-对于寻求货币化的企业来说，计费系统是不可避免的祸患，但它们非常复杂且经常被忽视。构建自己的系统可能会导致一系列问题，从幂等性问题到收入确认挑战。计费系统的三种常见模式是自行开发的、完全第三方的或两者的混合。将尽可能多的问题转移给 Chargebee 或 Stripe 等可靠的计费解决方案，以避免日后出现麻烦，这一点至关重要。请记住，计费不仅仅是一个工程问题；它也是一个问题。这是一个多方面的问题，需要专家处理。]]></description>
-      <guid>https://t.me/hn_summary/76185</guid>
-      <pubDate>Mon, 26 Feb 2024 12:19:23 GMT</pubDate>
+      <title>[媒体]瑞典已扫清加入北约的最后障碍，匈牙利议会 [...]</title>
+      <link>https://t.me/hn_summary/76254</link>
+      <description><![CDATA[瑞典扫清加入北约的最后障碍&lt; br/&gt;
+瑞典已扫清加入北约的最后障碍，匈牙利议会以压倒性多数批准了此举。这一决定是经过激烈谈判后做出的，对俄罗斯总统弗拉基米尔·普京来说是一个打击。瑞典加入北约将使该联盟更加强大和安全，目前其成员国已达 32 个。匈牙利的批准至关重要，因为包括匈牙利和土耳其在内的一些北约成员国最初坚持支持瑞典加入。此举正值乌克兰战争的关键时刻，俄罗斯在战场上再次取得胜利，西方民主国家的民粹主义情绪日益高涨。]]></description>
+      <guid>https://t.me/hn_summary/76254</guid>
+      <pubDate>Mon, 26 Feb 2024 18:14:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Genie：生成交互环境是一个涉及团队的协作项目 [...]</title>
-      <link>https://t.me/hn_summary/76184</link>
-      <description><![CDATA[Genie：生成交互环境
-Genie：生成交互环境是一个协作项目，涉及来自不同机构的研究人员和工程师团队。这个创新平台允许用户使用生成模型创建交互式环境。该团队包括机器学习、人工智能和交互设计方面的专家。该项目由 Ashley Edwards 和 Jack Parker-Holder 领导，如需进一步询问，请联系他们。该项目的独特之处在于能够生成交互式环境，为创意表达和探索开辟新的可能性。请联系他们以获取有关这一开创性项目的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/76184</guid>
-      <pubDate>Mon, 26 Feb 2024 12:15:17 GMT</pubDate>
+      <title>[媒体] 如果您想在 Vim 中通过 scp 编辑远程文件，这里有一些方便的提示 [...]</title>
+      <link>https://t.me/hn_summary/76253</link>
+      <description><![CDATA[在 Vim 中通过 scp 编辑远程文件
+如果您想在 Vim 中通过 scp 编辑远程文件，请记住一些方便的提示。 Vim 6.x 附带了 netrw 插件，允许您通过各种协议编辑文件。为了避免远程主机上的用户名问题，请在打开文件时使用正确的语法。您还可以安全地保存密码并定义 ftp 端口。对于 Windows 用户，PuTTY 集成可以简化该过程。此外，利用 SSH 机制和最新版本的 netrw.vim 可以解决任何遗留问题。总的来说，这些技巧为在 Vim 中编辑远程文件提供了有效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/76253</guid>
+      <pubDate>Mon, 26 Feb 2024 18:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 ViHN，一个 Firefox 和 Chrome 的浏览器扩展，用于使用 Vim 导航黑客新闻 - [...]</title>
-      <link>https://t.me/hn_summary/76183</link>
-      <description><![CDATA[ViHN：Vim 黑客新闻
-我创建了 ViHN，这是一个适用于 Firefox 和 Chrome 的浏览器扩展，可以使用类似 Vim 的键绑定来浏览 Hacker News，而无需使用鼠标。厌倦了浪费时间用鼠标排列窗口，我转而使用像 Ratpoison 这样的平铺窗口管理器。 Hacker News 是一个讨论商业想法、安全缺陷和技术主题的论坛，但其基于树的讨论格式可能很麻烦。 ViHN 允许高效的基于键盘的导航、快速回复/编辑/删除评论以及管理请求以避免速率限制。 ViHN 采用 Vanilla JS 编写，可实现最佳性能，简化了键盘爱好者浏览黑客新闻的过程。]]></description>
-      <guid>https://t.me/hn_summary/76183</guid>
-      <pubDate>Mon, 26 Feb 2024 12:03:08 GMT</pubDate>
+      <title>[媒体]有争议的新闻提醒：微软被指控向白人员工支付的工资低于[...]</title>
+      <link>https://t.me/hn_summary/76252</link>
+      <description><![CDATA[同样工作，微软向白人员工支付的工资低于非白人员工
+有争议的新闻提醒：微软被指控在同一份工作中向白人员工支付的工资低于非白人员工。这一令人震惊的揭露引发了愤怒，并呼吁科技行业内实现透明度和平等。像微软这样的公司是时候解决这些差异并确保所有员工（无论种族）获得公平的薪酬。 #EqualPay #TechIndustry #MicrosoftControversy]]></description>
+      <guid>https://t.me/hn_summary/76252</guid>
+      <pubDate>Mon, 26 Feb 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mail Clipper 是一个 Chrome 扩展程序和 Firefox 插件，允许用户在 [...]</title>
-      <link>https://t.me/hn_summary/76182</link>
-      <description><![CDATA[显示 HN：Mail Clipper 将 mailto 链接复制到剪贴板
-Mail Clipper 是一个 Chrome 扩展程序和 Firefox 插件，允许用户将电子邮件链接复制到剪贴板，而不用打开电子邮件应用程序。该项目旨在简化用户复制电子邮件地址的过程。与其他类似项目不同，Mail Clipper 提供了只需单击一下即可直接复制电子邮件链接的便利。用户还可以通过打开拉取请求或任何所需功能的问题来为项目做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/76182</guid>
-      <pubDate>Mon, 26 Feb 2024 11:40:58 GMT</pubDate>
+      <title>[媒体]谷歌的图像生成工具因争议而被下架后将重新启动 [...]</title>
+      <link>https://t.me/hn_summary/76251</link>
+      <description><![CDATA[Google 图片生成器因图像不准确而重新推出
+谷歌的图像生成工具因历史描述不准确而被下架，之后将重新启动。该工具是谷歌名为 Gemini 的人工智能模型套件的一部分，因根据用户提示生成种族多样化且历史上不准确的图像而面临强烈反对。这场争议引发了人工智能行业内关于人工智能开发的道德规范和细致专业知识需求的争论。谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)强调了公司对人工智能的承诺，计划提供可以在谷歌搜索中完成任务的人工智能代理。谷歌聊天机器人更名为 Gemini 也引发了讨论，一些人称该工具太“觉醒”，另一些人则批评谷歌对待人工智能道德的做法。尽管遇到了挫折，谷歌仍在大力投资开发人工智能助手，这些助手可以执行除总结和生成待办事项列表等简单功能之外的广泛任务。重新推出图像生成器是 Google 打造真正的 AI 助手努力的一部分。]]></description>
+      <guid>https://t.me/hn_summary/76251</guid>
+      <pubDate>Mon, 26 Feb 2024 18:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 最近在资源中宣布了有关 iOS、Safari 和 App Store 的更改 [...]</title>
-      <link>https://t.me/hn_summary/76181</link>
-      <description><![CDATA[当苹果把欧盟委员会当傻瓜时：初步概述
-苹果最近宣布针对欧盟《数字市场法案》对 iOS、Safari 和 App Store 进行更改，引发了争议。虽然苹果现在被迫允许替代应用程序商店和“侧面加载”，但他们对这些义务的解释是狭隘且不能令人满意的。欧盟 iOS 应用的佣金减少和新业务条款带来的额外费用可能会给应用开发者带来负担。 Apple 的 DMA 实施方式似乎将自身利益置于公平竞争和用户选择之上。该公司的好斗立场引发了人们对其遵守 DMA 的情况的质疑。 （根据 94% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76181</guid>
-      <pubDate>Mon, 26 Feb 2024 11:36:53 GMT</pubDate>
+      <title>我一直是 GNU/Linux 的长期用户，但是当我切换到 Mac 时，我错过了软件包管理 [...]</title>
+      <link>https://t.me/hn_summary/76250</link>
+      <description><![CDATA[我在 macOS 上使用 Nix
+我一直是 GNU/Linux 的长期用户，但是当我切换到 Mac 时，我错过了包管理系统。使用 Homebrew 一段时间后，我发现了 Nix，一个跨平台的包管理器，它从根本上改变了我的工作流程。借助 Nix，我可以轻松搜索、安装、升级和删除软件包，同时保持系统干净高效。 Nix 包的不变性允许轻松回滚和实验，而不会使系统混乱。虽然 Nix 可能没有像 Homebrew Cask 这样简单的方法来安装 GUI 应用程序，但它的强大功能和效率使其成为 macOS 用户的游戏规则改变者。尝试一下，亲身体验它的好处！]]></description>
+      <guid>https://t.me/hn_summary/76250</guid>
+      <pubDate>Mon, 26 Feb 2024 18:04:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 GitHub 项目介绍了 Google Gemini，这是一种基于 AI 的摘要工具 [...]</title>
-      <link>https://t.me/hn_summary/76180</link>
-      <description><![CDATA[显示 HN：使用 Google Gemini 解锁 PDF 见解：人工智能驱动的摘要
-这个 GitHub 项目介绍了 Google Gemini，这是一款基于 Google Bard 的人工智能摘要工具，旨在简化从 PDF 文档中提取关键信息的过程。通过利用Google Bard先进的AI技术，用户可以快速高效地汇总PDF文件，节省时间并提高信息处理效率。该项目因其支持多种语言、实时信息更新、类人对话以及与谷歌产品的集成而脱颖而出。它还提供了优化 PDF 文档摘要的最佳实践，并提供了最大限度提高 Google Bard 摘要功能有效性的提示。尽管存在一些限制，例如令牌长度和文件大小限制，Google Bard 仍然是智能文档处理的一个有价值的工具。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76180</guid>
-      <pubDate>Mon, 26 Feb 2024 11:35:49 GMT</pubDate>
+      <title>[媒体] Niklaus Wirth 是计算机科学领域的杰出人物，曾任苏黎世联邦理工学院教授 [...]</title>
+      <link>https://t.me/hn_summary/76249</link>
+      <description><![CDATA[“我一直将自己视为一名工程师” – 第 1/3 部分
+Niklaus Wirth 是计算机科学界的杰出人物，曾在苏黎世联邦理工学院担任教授三十多年。他开发了多种编程语言，并在瑞士开创了个人计算机。他的贡献为他赢得了多项著名奖项，包括 ACM 图灵奖。 Friedemann Mattern，计算机科学系教授，专注于分布式系统和普适计算。他在教学中强调批判性思维和跨学科交流。马特恩发表了大量著作，并且是受人尊敬的科学院的成员。他们在苏黎世联邦理工学院的工作对计算机科学领域产生了持久的影响。]]></description>
+      <guid>https://t.me/hn_summary/76249</guid>
+      <pubDate>Mon, 26 Feb 2024 18:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>micro 上的第一个虚拟机（sweet 16）？</title>
-      <link>https://t.me/hn_summary/76179</link>
-      <description><![CDATA[micro 上的第一个虚拟机（sweet 16）？&lt; br/&gt;
-www.6502.org 上的文章讨论了Sweet 16 是 Steve Wozniak 为 Apple II 创建的元处理器，适用于其他基于 6502 的系统。 Sweet 16 为 8 位 CPU 提供 16 位功能，具有减少代码大小和更轻松编程等优点。本文包括源代码、历史记录、编程说明和移植说明。它强调了移植的挑战，例如零页寄存器位置、代码基地址和保存/恢复例程。作者强调移植 Sweet 16 的简单性，并鼓励使用 Sweet 16 操作码增强 6502 汇编器。本文还引用了 BYTE 杂志文章和 Usenet 帖子以获取更多信息。 （根据故事文本的 10% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76179</guid>
-      <pubDate>Mon, 26 Feb 2024 11:34:43 GMT</pubDate>
+      <title>Apple 即将推出的 iOS 17.4 更新将影响渐进式 Web 应用程序 (PWA) 的可用性 [...]</title>
+      <link>https://t.me/hn_summary/76248</link>
+      <description><![CDATA[iOS 17.4也是对加密货币的攻击
+Apple 即将推出的 iOS 17.4 更新将影响渐进式 Web 应用程序 (PWA) 的可用性，影响 Kiwi News 等应用程序。此次更新将阻止 PWA 在 iOS 上作为独立应用程序打开，从而要求用户重新委派投票权并删除存储的私钥。苹果降级 PWA 功能的决定归因于欧盟关于浏览器中立性的规定，引起了开发者的争议和沮丧。此举被视为对加密创新和开放网络的攻击，限制了未经许可的创新，并使苹果对应用程序功能有更多的控制权。作者对苹果的行为表示失望，并呼吁重新考虑他们的做法。]]></description>
+      <guid>https://t.me/hn_summary/76248</guid>
+      <pubDate>Mon, 26 Feb 2024 18:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我探索了《德军总部 3D》源代码的编译过程 [...]</title>
-      <link>https://t.me/hn_summary/76178</link>
-      <description><![CDATA[让我们像 1992 年一样进行编译
-在本文中，我探索了使用 DosBox 和 Borland C++ 3.1 编译 1992 年《德军总部 3D》源代码的过程。尽管年代久远，但如果您重新创建环境，游戏仍然可以编译。令人惊讶的是，当尝试运行游戏并由于编译的游戏索引与原始资产文件不匹配而遇到奇怪的视觉效果时。该解决方案涉及重新生成 VGA 资源以匹配索引，最终导致游戏成功运行。这个过程提供了对 90 年代初游戏开发复杂性的独特见解。 （根据 87% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76178</guid>
-      <pubDate>Mon, 26 Feb 2024 11:31:37 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克宣布开发新的电子邮件服务引发争议 [...]</title>
+      <link>https://t.me/hn_summary/76247</link>
+      <description><![CDATA[Elon Musk 将推出新的 Xmail 服务挑战 Gmail 
+就在 Gmail 将于 8 月 1 日关闭的传言被揭穿之际，埃隆·马斯克 (Elon Musk) 宣布开发一款名为 Xmail 的新电子邮件服务，引发了争议。马斯克对 Xmail 发布日期问题的神秘回答引发了许多猜测。然而，围绕此公告的安全风险令人担忧，因为网络犯罪分子可能会利用混乱来传播网络钓鱼消息。此外，马斯克可能面临挑战，因为一些现有的电子邮件服务已经使用 Xmail 这个名称。尽管大肆宣传，但马斯克的 Xmail 服务是否可能对 Gmail 的 20 亿用户产生重大影响仍不确定。]]></description>
+      <guid>https://t.me/hn_summary/76247</guid>
+      <pubDate>Mon, 26 Feb 2024 17:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]丹麦已结束对北溪管道爆炸的调查，原因是[...]</title>
-      <link>https://t.me/hn_summary/76177</link>
-      <description><![CDATA[丹麦结束北溪爆炸调查，但指责蓄意破坏 
-丹麦结束了对北溪管道爆炸的调查，将其归咎于蓄意破坏。爆炸将甲烷释放到空气中，造成严重破坏。俄罗斯和西方国家否认参与其中，紧张局势因莫斯科入侵乌克兰而升级。瑞典也以管辖权问题为由结束了调查。与此同时，俄罗斯军队继续在乌克兰推进，泽连斯基总统在维持支持和弹药方面面临挑战。欧洲领导人将在巴黎举行会议，反击俄罗斯的侵略。局势仍然不稳定，有可能发生进一步的冲突，正在采取外交努力来解决危机。]]></description>
-      <guid>https://t.me/hn_summary/76177</guid>
-      <pubDate>Mon, 26 Feb 2024 11:20:30 GMT</pubDate>
+      <title>[媒体] 隆重介绍 Darwin，您的新 Github 代理，它使用 AI 来自动化您的项目管理 [...]</title>
+      <link>https://t.me/hn_summary/76246</link>
+      <description><![CDATA[展示 HN：Darwin – 使用 AI 自动化您的 GitHub 项目
+隆重推出 Darwin，您的新 Github 代理，它使用 AI 来自动化您的项目管理任务。该工具由 Darwin 和 Marco Lamina 共同开发，旨在简化您的工作流程并使项目管理比以往更轻松。借助 Darwin，您可以自动执行重复性任务、分析数据并做出明智的决策，以优化项目的成功。告别手动流程，迎接更高效的 Darwin 工作方式。访问 darwin-ai.dev 立即开始。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/76246</guid>
+      <pubDate>Mon, 26 Feb 2024 17:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>injuly.in 上的傅立叶级数交互式指南提供了一种独特且引人入胜的方式来理解 [...]</title>
-      <link>https://t.me/hn_summary/76176</link>
-      <description><![CDATA[傅立叶级数交互式指南
-injuly.in 上的傅立叶级数交互式指南提供了独特且以一种引人入胜的方式来理解复杂的数学概念。通过使用交互式动画和可视化，作者将傅立叶级数分解为更简单的术语，使其更易于掌握。该指南涵盖了添加函数、分解周期函数的基础知识，甚至深入研究了使用傅立叶近似重新创建草图。令人惊讶的方面是使用本轮来动画草图，为解释添加了有趣且视觉上吸引人的元素。总的来说，本指南提供了一种全面的交互式方法来学习傅立叶级数。 （根据 57% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76176</guid>
-      <pubDate>Mon, 26 Feb 2024 10:45:16 GMT</pubDate>
+      <title>你是如何找到人生目标的？</title>
+      <link>https://t.me/hn_summary/76245</link>
+      <description><![CDATA[您是如何找到人生目标的？&lt; br/&gt;
+作者分享了他们在多年的日常饮酒后戒酒并专注于锻炼以提高头脑清晰度的历程。尽管有这些积极的变化，他们仍在努力寻找生活的目标。他们质疑自己的工作、爱好和人际关系是否足以带来满足感。作者向分析性受众寻求建议，表达了对通用自助建议的沮丧，并寻求发现真正目的和意义的路线图。他们在追求成就感的过程中表现出的脆弱和诚实使得这篇文章具有相关性且发人深省。]]></description>
+      <guid>https://t.me/hn_summary/76245</guid>
+      <pubDate>Mon, 26 Feb 2024 17:45:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
