@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 08:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 12:19:23 GMT</lastBuildDate>
     <item>
-      <title>“console.log(DOOM)”项目允许用户直接在控制台中玩经典游戏 DOOM [...]</title>
-      <link>https://t.me/hn_summary/76168</link>
-      <description><![CDATA[console.log(DOOM)
-“console.log(DOOM)”项目允许用户直接在网络浏览器的控制台日志中玩经典游戏《DOOM》。通过利用 WebAssembly 和 base64 编码，游戏在隐藏的画布元素中呈现，并使用 console.log() 显示。该项目基于之前的作品（例如 Checkboxland 和 DOOM），通过 WebAssembly 构建，提供了一种独特的游戏体验方式。关键事件被转发到画布以确保流畅的游戏体验，并在游戏处理时显示加载消息。该项目非标准，不推荐用于生产现场。可以通过编辑文件和刷新浏览器来完成开发。]]></description>
-      <guid>https://t.me/hn_summary/76168</guid>
-      <pubDate>Mon, 26 Feb 2024 08:48:18 GMT</pubDate>
+      <title>[媒体]计费系统对于寻求货币化的企业来说是不可避免的罪恶，但它们[...]</title>
+      <link>https://t.me/hn_summary/76185</link>
+      <description><![CDATA[构建自己的计费系统的 14 个痛点&lt; br/&gt;
+对于寻求货币化的企业来说，计费系统是不可避免的祸患，但它们非常复杂且经常被忽视。构建自己的系统可能会导致一系列问题，从幂等性问题到收入确认挑战。计费系统的三种常见模式是自行开发的、完全第三方的或两者的混合。将尽可能多的问题转移给 Chargebee 或 Stripe 等可靠的计费解决方案，以避免日后出现麻烦，这一点至关重要。请记住，计费不仅仅是一个工程问题；它也是一个问题。这是一个多方面的问题，需要专家处理。]]></description>
+      <guid>https://t.me/hn_summary/76185</guid>
+      <pubDate>Mon, 26 Feb 2024 12:19:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我最近对谷歌失去了信任。</title>
-      <link>https://t.me/hn_summary/76167</link>
-      <description><![CDATA[失去对 Google 的信任
-我最近对谷歌失去了信任。他们对搜索算法和隐私政策的不断变化让我感到不安。依靠他们获取准确信息并保护我的个人数据变得越来越困难。我正在考虑切换到另一个重视透明度和用户隐私的搜索引擎。是时候掌控我的在线体验并找到一个我可以信任的平台了。 #GoogleTrustControversy：围绕 Google 处理用户数据和搜索算法的争议导致许多人质疑该公司的可信度。]]></description>
-      <guid>https://t.me/hn_summary/76167</guid>
-      <pubDate>Mon, 26 Feb 2024 08:43:13 GMT</pubDate>
+      <title>[媒体] Genie：生成交互环境是一个涉及团队的协作项目 [...]</title>
+      <link>https://t.me/hn_summary/76184</link>
+      <description><![CDATA[Genie：生成交互环境
+Genie：生成交互环境是一个协作项目，涉及来自不同机构的研究人员和工程师团队。这个创新平台允许用户使用生成模型创建交互式环境。该团队包括机器学习、人工智能和交互设计方面的专家。该项目由 Ashley Edwards 和 Jack Parker-Holder 领导，如需进一步询问，请联系他们。该项目的独特之处在于能够生成交互式环境，为创意表达和探索开辟新的可能性。请联系他们以获取有关这一开创性项目的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/76184</guid>
+      <pubDate>Mon, 26 Feb 2024 12:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Bluesky 首席执行官 Jay Graber 强调审核服务的重要性，同时维护 [...]</title>
-      <link>https://t.me/hn_summary/76166</link>
-      <description><![CDATA[Bluesky 首席执行官 Jay Graber 表示她不会“[通过广告影响网络”](https://news.ycombinator.com/item?id=39507753)
-Bluesky 首席执行官 Jay Graber 强调了审核服务的重要性，同时维持开放的创新生态系统。她讨论了快速变化的信息环境中集体智慧的必要性，以及第三方标签系统帮助解决深度伪造内容等问题的潜力。 Graber 强调了去中心化社交网络为用户带来的好处，允许更多的自由和选择。她还谈到了 Bluesky 的商业模式，重点是在货币化之前向用户和开发者证明价值。 Graber 的方法旨在回归平台协议，确保社交媒体领域的开放性和创新。]]></description>
-      <guid>https://t.me/hn_summary/76166</guid>
-      <pubDate>Mon, 26 Feb 2024 08:35:07 GMT</pubDate>
+      <title>我创建了 ViHN，一个 Firefox 和 Chrome 的浏览器扩展，用于使用 Vim 导航黑客新闻 - [...]</title>
+      <link>https://t.me/hn_summary/76183</link>
+      <description><![CDATA[ViHN：Vim 黑客新闻
+我创建了 ViHN，这是一个适用于 Firefox 和 Chrome 的浏览器扩展，可以使用类似 Vim 的键绑定来浏览 Hacker News，而无需使用鼠标。厌倦了浪费时间用鼠标排列窗口，我转而使用像 Ratpoison 这样的平铺窗口管理器。 Hacker News 是一个讨论商业想法、安全缺陷和技术主题的论坛，但其基于树的讨论格式可能很麻烦。 ViHN 允许高效的基于键盘的导航、快速回复/编辑/删除评论以及管理请求以避免速率限制。 ViHN 采用 Vanilla JS 编写，可实现最佳性能，简化了键盘爱好者浏览黑客新闻的过程。]]></description>
+      <guid>https://t.me/hn_summary/76183</guid>
+      <pubDate>Mon, 26 Feb 2024 12:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>justinpombrio.net 上的内容介绍了 Wadler 的“Prettier Pr [...]”的更具表现力的变体</title>
-      <link>https://t.me/hn_summary/76165</link>
-      <description><![CDATA[Wadler 打印机的变化
-justinpombrio.net 上的内容介绍了 Wadler 的“更具表现力的变体” Prettier Printer”用于代码格式化工具，如 gofmt 和 prettier。这篇文章解释了漂亮打印的概念，即 Wadler 最初的 Prettier 算法，并介绍了打印机的一个改进，可以在布局选择上提供更大的灵活性。这种变化包括新的操作，例如用于在符号之间进行选择的“x | y”和用于强制单行布局的“flat(x)”。这种变体允许对格式选择进行更多控制，例如在列表中添加尾随逗号。这篇文章提供了 Rust 的详细解释和实现，提供了一种独特的代码格式化方法。 （根据 19% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76165</guid>
-      <pubDate>Mon, 26 Feb 2024 08:18:58 GMT</pubDate>
+      <title>[媒体] Mail Clipper 是一个 Chrome 扩展程序和 Firefox 插件，允许用户在 [...]</title>
+      <link>https://t.me/hn_summary/76182</link>
+      <description><![CDATA[显示 HN：Mail Clipper 将 mailto 链接复制到剪贴板
+Mail Clipper 是一个 Chrome 扩展程序和 Firefox 插件，允许用户将电子邮件链接复制到剪贴板，而不用打开电子邮件应用程序。该项目旨在简化用户复制电子邮件地址的过程。与其他类似项目不同，Mail Clipper 提供了只需单击一下即可直接复制电子邮件链接的便利。用户还可以通过打开拉取请求或任何所需功能的问题来为项目做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/76182</guid>
+      <pubDate>Mon, 26 Feb 2024 11:40:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]现役美国军人</title>
-      <link>https://t.me/hn_summary/76164</link>
-      <description><![CDATA[美国空军 DevOps 工程师在加沙抗议战争中自焚
-现役美国空军成员亚伦·布什内尔在以色列驻华盛顿大使馆外自焚，以抗议正在进行的以色列-哈马斯战争，称其为“种族灭绝”。 Bushnell 是一名 DevOps 工程师，他在因伤去世前在 Twitch 上直播了这一过程。由于军事法规禁止此类政治活动，该事件引发了争议。针对以色列在加沙的行动和美国对以色列的支持的抗议活动已变得普遍，自焚是一种历史性的抗议形式。这一令人震惊的事件突显了围绕中东冲突的持续紧张局势。]]></description>
-      <guid>https://t.me/hn_summary/76164</guid>
-      <pubDate>Mon, 26 Feb 2024 08:06:50 GMT</pubDate>
+      <title>[媒体]Apple 最近在资源中宣布了有关 iOS、Safari 和 App Store 的更改 [...]</title>
+      <link>https://t.me/hn_summary/76181</link>
+      <description><![CDATA[当苹果把欧盟委员会当傻瓜时：初步概述
+苹果最近宣布针对欧盟《数字市场法案》对 iOS、Safari 和 App Store 进行更改，引发了争议。虽然苹果现在被迫允许替代应用程序商店和“侧面加载”，但他们对这些义务的解释是狭隘且不能令人满意的。欧盟 iOS 应用的佣金减少和新业务条款带来的额外费用可能会给应用开发者带来负担。 Apple 的 DMA 实施方式似乎将自身利益置于公平竞争和用户选择之上。该公司的好斗立场引发了人们对其遵守 DMA 的情况的质疑。 （根据 94% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76181</guid>
+      <pubDate>Mon, 26 Feb 2024 11:36:53 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：本文讨论了如何精简 Windows 3.1/3.11 以在最少的内存上运行，甚至 [...]</title>
-      <link>https://t.me/hn_summary/76163</link>
-      <description><![CDATA[精简 Windows 3.1/3.11 (2002)&lt; br/&gt;
-摘要：本文讨论了如何精简 Windows 3.1/3.11，使其在最少的内存上运行，甚至可以在软盘上运行。通过删除不必要的文件并利用 RAM 磁盘，作者能够在内存有限的旧计算机上运行 Windows。本文还提供了从头开始设置 Windows 的详细说明，包括控制面板和网络等不同功能所需的文件。作者强调使用 ZIP 文件来存储不必要的文件并最大限度地减少所需的空间。本文还探讨了使用压缩技术从单个软盘运行 Windows。 （根据 74% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76163</guid>
-      <pubDate>Mon, 26 Feb 2024 07:57:41 GMT</pubDate>
+      <title>[媒体]此 GitHub 项目介绍了 Google Gemini，这是一种基于 AI 的摘要工具 [...]</title>
+      <link>https://t.me/hn_summary/76180</link>
+      <description><![CDATA[显示 HN：使用 Google Gemini 解锁 PDF 见解：人工智能驱动的摘要
+这个 GitHub 项目介绍了 Google Gemini，这是一款基于 Google Bard 的人工智能摘要工具，旨在简化从 PDF 文档中提取关键信息的过程。通过利用Google Bard先进的AI技术，用户可以快速高效地汇总PDF文件，节省时间并提高信息处理效率。该项目因其支持多种语言、实时信息更新、类人对话以及与谷歌产品的集成而脱颖而出。它还提供了优化 PDF 文档摘要的最佳实践，并提供了最大限度提高 Google Bard 摘要功能有效性的提示。尽管存在一些限制，例如令牌长度和文件大小限制，Google Bard 仍然是智能文档处理的一个有价值的工具。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76180</guid>
+      <pubDate>Mon, 26 Feb 2024 11:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以价格实惠的汽车而闻名的比亚迪，推出了一款高端电动汽车，令许多人感到惊讶 [...]</title>
-      <link>https://t.me/hn_summary/76162</link>
-      <description><![CDATA[比亚迪在同一周推出价值 23 万美元的超级跑车和 1.4 万美元的掀背车
-以其价格实惠的汽车而闻名的比亚迪推出了一款高端电动跑车阳王U9，令许多人感到惊讶，其售价为233,450美元，可与法拉利和兰博基尼竞争。该车可在 2.36 秒内达到 100 公里/小时，并具有舞蹈模式等独特功能。另一方面，比亚迪还推出了其广受欢迎的海豚掀背车的售价 13,865 美元的版本。尽管面临价格战和中国电动汽车增长放缓等挑战，比亚迪仍在国际扩张，埃隆·马斯克承认其竞争力。伯克希尔哈撒韦对比亚迪的投资激增，得益于创始人王传福的工程和生产人才。]]></description>
-      <guid>https://t.me/hn_summary/76162</guid>
-      <pubDate>Mon, 26 Feb 2024 07:56:37 GMT</pubDate>
+      <title>micro 上的第一个虚拟机（sweet 16）？</title>
+      <link>https://t.me/hn_summary/76179</link>
+      <description><![CDATA[micro 上的第一个虚拟机（sweet 16）？&lt; br/&gt;
+www.6502.org 上的文章讨论了Sweet 16 是 Steve Wozniak 为 Apple II 创建的元处理器，适用于其他基于 6502 的系统。 Sweet 16 为 8 位 CPU 提供 16 位功能，具有减少代码大小和更轻松编程等优点。本文包括源代码、历史记录、编程说明和移植说明。它强调了移植的挑战，例如零页寄存器位置、代码基地址和保存/恢复例程。作者强调移植 Sweet 16 的简单性，并鼓励使用 Sweet 16 操作码增强 6502 汇编器。本文还引用了 BYTE 杂志文章和 Usenet 帖子以获取更多信息。 （根据故事文本的 10% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76179</guid>
+      <pubDate>Mon, 26 Feb 2024 11:34:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是深度学习？</title>
-      <link>https://t.me/hn_summary/76161</link>
-      <description><![CDATA[什么是深度学习？初学者教程
-深度学习是一项革命性技术，它使用神经网络自动执行任务并从数据中学习，就像人脑一样。本教程解释了深度学习的核心概念，例如神经网络、深度神经网络和激活函数。它还探讨了特征工程的重要性以及深度学习与传统机器学习的不同之处。本教程重点介绍深度学习在计算机视觉、语音识别、生成人工智能、翻译、时间序列预测、自动化、客户反馈和生物医学领域的应用。此外，它还讨论了不同类型的深度学习模型，包括监督学习、无监督学习、强化学习和生成对抗网络。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76161</guid>
-      <pubDate>Mon, 26 Feb 2024 07:09:20 GMT</pubDate>
+      <title>[媒体]在这篇文章中，我探索了《德军总部 3D》源代码的编译过程 [...]</title>
+      <link>https://t.me/hn_summary/76178</link>
+      <description><![CDATA[让我们像 1992 年一样进行编译
+在本文中，我探索了使用 DosBox 和 Borland C++ 3.1 编译 1992 年《德军总部 3D》源代码的过程。尽管年代久远，但如果您重新创建环境，游戏仍然可以编译。令人惊讶的是，当尝试运行游戏并由于编译的游戏索引与原始资产文件不匹配而遇到奇怪的视觉效果时。该解决方案涉及重新生成 VGA 资源以匹配索引，最终导致游戏成功运行。这个过程提供了对 90 年代初游戏开发复杂性的独特见解。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76178</guid>
+      <pubDate>Mon, 26 Feb 2024 11:31:37 GMT</pubDate>
     </item>
     <item>
-      <title>这篇文章讨论了苹果试图限制 iOS 上的网络应用程序和浏览器竞争，其中 [...]</title>
-      <link>https://t.me/hn_summary/76160</link>
-      <description><![CDATA[主屏幕优势
-这篇文章讨论了苹果公司试图限制 iOS 上的网络应用程序和浏览器竞争，特别是为了响应欧盟的数字市场法案。苹果的策略包括禁用 PWA 的重要功能，从而给用户和企业造成混乱和数据丢失。作者强调了苹果公司的欺骗策略，并试图将责任归咎于监管机构。文章强调了浏览器竞争的重要性以及对移动网络开发的潜在影响。总的来说，作者敦促读者了解苹果的行为及其对移动网络未来的影响。 （根据 52% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76160</guid>
-      <pubDate>Mon, 26 Feb 2024 07:08:16 GMT</pubDate>
+      <title>[媒体]丹麦已结束对北溪管道爆炸的调查，原因是[...]</title>
+      <link>https://t.me/hn_summary/76177</link>
+      <description><![CDATA[丹麦结束北溪爆炸调查，但指责蓄意破坏 
+丹麦结束了对北溪管道爆炸的调查，将其归咎于蓄意破坏。爆炸将甲烷释放到空气中，造成严重破坏。俄罗斯和西方国家否认参与其中，紧张局势因莫斯科入侵乌克兰而升级。瑞典也以管辖权问题为由结束了调查。与此同时，俄罗斯军队继续在乌克兰推进，泽连斯基总统在维持支持和弹药方面面临挑战。欧洲领导人将在巴黎举行会议，反击俄罗斯的侵略。局势仍然不稳定，有可能发生进一步的冲突，正在采取外交努力来解决危机。]]></description>
+      <guid>https://t.me/hn_summary/76177</guid>
+      <pubDate>Mon, 26 Feb 2024 11:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>news.ycombinator.com 上帖子的作者正在他们的电子学习网站上寻求建议 [...]</title>
-      <link>https://t.me/hn_summary/76159</link>
-      <description><![CDATA[询问 HN：有关点击率、转化和验证的问题
-news.ycombinator.com 上帖子的作者是在他们的阿拉伯语电子学习网站 Nahda.io。在以每天 5 美元的预算投放有针对性的广告后，他们观察到 35,000 次展示、1,290,000 次点击和 6 ​​次注册，转化率为 0.47%，点击率为 3.6%。他们质疑这些数字是否表明了一个有缺陷的想法或一个不需要的产品。作者正在寻求产品验证方面经验丰富的人士的见解。争议在于网站能否成功的不确定性，而主动寻求建议的做法值得赞扬。]]></description>
-      <guid>https://t.me/hn_summary/76159</guid>
-      <pubDate>Mon, 26 Feb 2024 06:55:08 GMT</pubDate>
+      <title>injuly.in 上的傅立叶级数交互式指南提供了一种独特且引人入胜的方式来理解 [...]</title>
+      <link>https://t.me/hn_summary/76176</link>
+      <description><![CDATA[傅立叶级数交互式指南
+injuly.in 上的傅立叶级数交互式指南提供了独特且以一种引人入胜的方式来理解复杂的数学概念。通过使用交互式动画和可视化，作者将傅立叶级数分解为更简单的术语，使其更易于掌握。该指南涵盖了添加函数、分解周期函数的基础知识，甚至深入研究了使用傅立叶近似重新创建草图。令人惊讶的方面是使用本轮来动画草图，为解释添加了有趣且视觉上吸引人的元素。总的来说，本指南提供了一种全面的交互式方法来学习傅立叶级数。 （根据 57% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76176</guid>
+      <pubDate>Mon, 26 Feb 2024 10:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
