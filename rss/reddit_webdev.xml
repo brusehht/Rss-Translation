@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 06:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 09:13:34 GMT</lastBuildDate>
+    <item>
+      <title>来自自学前端开发者的问题，作为初学者，您难以理解的事情是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0cdm3/question_from_self_taught_frontend_dev_what_are/</link>
+      <description><![CDATA[正如标题所说，了解它有点有趣。 我和我的朋友们正在自学，我的大多数朋友正在努力解决这些问题 - 内联元素与块元素 - 锚点与按钮标签（更具体地说，他们正在努力识别网页设计中的按钮和链接是什么） - div 与部分 - 何时使用 div 何时使用使用 span - 何时将某些内容包装在 div 中以及何时不这样做 这些是他们在 html 中遇到的一些问题。  您能分享一下您的类似经历吗？您是如何克服的？    由   提交 /u/RiceCookerOfWeb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0cdm3/question_from_self_taught_frontend_dev_what_are/</guid>
+      <pubDate>Mon, 26 Feb 2024 08:11:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>将静态资源从一个纱线工作区复制到另一个纱线工作区的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0b66q/best_way_to_copy_static_asset_from_one_yarn/</link>
+      <description><![CDATA[大家好，我有一个带有几个纱线工作区的 monorepo。在其中一个工作区中，我有静态应用程序，在另一个工作区中，我有一些用于 API 层的快速服务器。当我部署时，我的静态应用程序由 Cloudfront 提供服务，但我有一个需要（我现在就不告诉你原因），我还需要通过 Express 服务器将应用程序作为静态资产提供服务。 我的问题是，如何将静态资源从workspace-static复制到workspace-express中，以便静态文件最终包含在我的workspace-express中？显然，我可以逐字复制这些文件，因为我知道它们的位置，但我想知道是否有更好的方法来做到这一点，希望利用纱线工作区。 谢谢！ &lt; !-- SC_ON --&gt;  由   提交 /u/dyniper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0b66q/best_way_to_copy_static_asset_from_one_yarn/</guid>
+      <pubDate>Mon, 26 Feb 2024 06:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有什么积极的东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b0angt/no_something_positive/</link>
+      <description><![CDATA[不到一年前，我被亚利桑那州一家不错的网络开发公司聘为“初级”开发人员。我一直很喜欢它，在我开始后不久，我可以看出这个地方有点无组织，但不是很糟糕。 我的工作很快就从初级前端开发人员转变为中级全栈哈哈，我曾经搞砸过一次，但除此之外我在这个地方做得很好。 作为一个没有学位、只有爱好和自由职业经验的人，我惊讶于自己实际上做得还不错。  我觉得我在吹牛，但我想说的是，没有学位也可以成为一名成功的开发者，市场并不可怕，但也不是很好任何一个。尽管如此，它仍然是可行的！ 如果今晚我的这份工作有什么意义的话，那就是我作为一名开发人员能够取得成功，如果我把时间投入到某些事情上，我相信我可以构建它。    由   提交/u/pyr00t  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b0angt/no_something_positive/</guid>
+      <pubDate>Mon, 26 Feb 2024 06:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>你觉得这些带回家的东西怎么样？他们太多了吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我使用 cookieyes，但由于弹出消息，我觉得我的每次点击费用和广告可见率下降了。它可能是正确的，或者只是安慰剂？ 我是否需要使用 cookie 插件，或者如果我启用 adsense 自己的 GDPR 在 adsense 面板上显示警告并仅在欧洲显示就足够了？因为我的流量 99% 是美国。 我应该对美国流量使用 cookie 警告吗？   由   提交 /u/Jayonsticks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azwnq4/i_feel_like_my_cpc_and_ad_visibility_rate/</guid>
       <pubDate>Sun, 25 Feb 2024 19:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了必须向下滚动到职位描述才能找到所需的最低经验年限，因此编写了一个脚本来为我做到这一点。现在，它在职位名称下方添加了所需的经验，以便我可以快速评估我的资格。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azwg29/was_fed_up_with_having_to_scroll_down_to_job/</link>
-      <description><![CDATA[       由   提交 /u/WorL_YouDecide   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azwg29/was_fed_up_with_having_to_scroll_down_to_job/</guid>
-      <pubDate>Sun, 25 Feb 2024 19:26:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些适合简历的 Javascript 项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azvzh8/good_javascript_projects_for_resume/</link>
-      <description><![CDATA[在当今的环境下，您认为什么是好的项目，可以让您的简历脱颖而出？（使用 Node 的项目.js/react.js、html 和 css） PS-我知道它要求太高，但如果该项目不是太困难或者有在线资源来了解该项目，我会很感激   由   提交 /u/PandeyyJi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azvzh8/good_javascript_projects_for_resume/</guid>
-      <pubDate>Sun, 25 Feb 2024 19:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络开发和游戏领域的人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</link>
-      <description><![CDATA[您好，只是对从事 Web 开发和工作的人员感到好奇。您也是游戏玩家，您每天在电脑/游戏机上盯着屏幕有多少小时？我是一名业余网络开发人员，做过自由职业，但主要使用 &amp;想要创业和创业的技能我想经营在线业务，而且我喜欢学习它。我从来都不是一个大玩家。 15 年前，18 岁时就完全停止了。我知道有很多专业网络开发人员也经常玩游戏，我很好奇你在屏幕上花费的时间，如果你曾经做过屏幕排毒，我知道游戏可以是社交的，但你仍然坐着花费大量时间进行和学习 Web 开发，身体或精神都不健康。   由   提交/u/redsnflr-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</guid>
-      <pubDate>Sun, 25 Feb 2024 19:04:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
