@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:14:34 GMT</lastBuildDate>
     <item>
       <title>带绿屏的 Chrome 键控：可快速获得结果的最佳 Premiere 插件</title>
       <link>https://www.reddit.com/r/editors/comments/1b1dt2u/chrome_keying_with_greenscreen_best_premiere/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>将捕获的 VHS 素材导入到 6k 时间轴上。您最喜欢的让它看起来更……美味的技巧是什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1b1dr4u/importing_captured_vhs_footage_onto_a_6k_timeline/</link>
-      <description><![CDATA[显然，质量是狗屎，而且仍然是狗屎。但我要问的是，您是否见过或使用过任何新的现代技术，只是让它看起来比一般垃圾 VHS 更酷一点？ AI Upscale/Instagram 滤镜/即时性爱/扫描线/传输模式/等等？ 谢谢 编辑：我将其标记为技术性，因为......它有点技术性，但与系统无关。不过，我正在观看最新的首映，还有 After Effects。   由   提交/u/girafa  [链接] [评论]]]></description>
+      <description><![CDATA[显然，质量是狗屎，而且仍然是狗屎。但我要问的是，您是否见过或使用过任何新的现代技术，可以让这一切看起来比一般垃圾 VHS 更酷一点？ AI Upscale/Instagram 过滤器/即时性爱/扫描线/传输模式/等等？ 谢谢 编辑：我将其标记为技术性，因为......它有点技术性，但与系统无关。不过，我使用的是最新的 Premiere，还使用了 After Effects。 编辑：使用 Topaz 和 AFX 进行了测试 - https://youtu.be/-91W_m4w_-s   由   提交/u/girafa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b1dr4u/importing_captured_vhs_footage_onto_a_6k_timeline/</guid>
       <pubDate>Tue, 27 Feb 2024 14:54:55 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>适合多个编辑器的最快、简单的 NAS？</title>
       <link>https://www.reddit.com/r/editors/comments/1b153e5/fastest_straightforward_nas_for_multiple_editors/</link>
-      <description><![CDATA[您好！ 一些 NAS 问题。希望购买不需要太多配置的设备。最多可同时为 4 名编辑提供服务。大约有 8 个驱动器托架。倾向于 QNAP 或 Synology，但开放！预算不是一个问题，而是简单性和读/写速度。 其他问题：  最好采用全闪存 SSD 而不是 HDD，对吗？我想是的，尽管我听说在某些 RAID 设置中，HDD 的速度很快？ 为了减少瓶颈，多个 10gbe 端口是理想的选择，对吗？与只有一个编辑器一样，所有编辑器都将争夺该带宽。  我见过配备 4x 10gbe 的 Blackmagic Cloud Store...尽管对该产品的其他担忧让我犹豫不决。 或者，25gbe 端口会更好，对吗？   编辑方面，配备 10gbe 适配器的 MacBook Pro（通过本机 10gbe 端口，如 Mac Studio）有什么缺点吗？ &lt; /ul&gt; 非常感谢。   由   提交 /u/OpanDeluxe   [链接] [评论]]]></description>
+      <description><![CDATA[您好！ 一些 NAS 问题。希望购买不需要太多配置的设备。最多可同时为 4 名编辑提供服务。大约有 8 个驱动器托架。倾向于 QNAP 或 Synology，但开放！预算不是一个问题，而是简单性和读/写速度。 其他问题：  最好采用全闪存 SSD 而不是 HDD，对吗？我想是的，虽然我听说在某些 RAID 设置中，HDD 的速度很快？ 为了减少瓶颈，多个 10gbe 端口是理想的选择，对吗？与只有一个编辑器一样，所有编辑器都将争夺该带宽。  我见过配备 4x 10gbe 的 Blackmagic Cloud Store...尽管对该产品的其他担忧让我犹豫不决。 或者，25gbe 端口会更好，对吗？   编辑方面，配备 10gbe 适配器的 MacBook Pro（通过本机 10gbe 端口，如 Mac Studio）有什么缺点吗？ &lt; /ul&gt; 非常感谢。   由   提交 /u/OpanDeluxe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b153e5/fastest_straightforward_nas_for_multiple_editors/</guid>
       <pubDate>Tue, 27 Feb 2024 06:28:12 GMT</pubDate>
     </item>
     <item>
       <title>Premiere 响度计和真实峰值问题</title>
       <link>https://www.reddit.com/r/editors/comments/1b11rv3/premiere_loudness_meter_and_true_peaks_issue/</link>
-      <description><![CDATA[大家好，我收到了播放规范，其中规定了以下音频配置： -24 LKFS/LUFS ( ITU-R BS.1770-3)没有超过-10dBTP（真实峰值）的峰值在整个视频持续时间内进行长期测量 因此，我将响度计应用于混音/主轨道并选择ITU BS.1770-3 预设和设置中，我已将最大真实峰值设置为 -10.1dBTPI 还将硬限制器应用于混音/主轨道并尝试了两个选项： 默认预设，最大幅度设置为 -10.1dB以及最大振幅设置为 -10.1dB 的真实峰值预设。 尽管存在上述所有情况，在观看乐曲期间的响度计时，我发现真实峰值几乎一致达到 -5.3dBTP . 有人能找出我做错了什么吗？任何指导将不胜感激。 编辑：Apple M1 Ultra，128GB 内存，音轨来自混音器（VO、DIA、SFX）- 立体声 .wav + 1 条混音音乐轨（立体声 .wav）  演奏时响度计的屏幕截图： https://imgur.com/a/ 1YRcQnU   由   提交 /u/linedpapers   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我收到了播放规范，其中规定了以下音频配置： -24 LKFS/LUFS ( ITU-R BS.1770-3)没有超过-10dBTP（真实峰值）的峰值在整个视频持续时间内进行长期测量 因此，我将响度计应用于混音/主轨道并选择ITU BS.1770-3 预设和设置中，我已将最大真实峰值设置为 -10.1dBTPI 还将硬限制器应用于混音/主轨道并尝试了两个选项： 默认预设，最大幅度设置为 -10.1dB以及最大振幅设置为 -10.1dB 的真实峰值预设。 尽管存在上述所有情况，在演奏过程中观看响度计时，我发现真实峰值几乎一致达到 -5.3dBTP . 有人能找出我做错了什么吗？任何指导将不胜感激。 编辑：Apple M1 Ultra，128GB 内存，音轨来自混音器（VO、DIA、SFX）- 立体声 .wav + 1 重新混合的音乐轨道（立体声 .wav）  演奏时响度计的屏幕截图： https://imgur.com/a/ 1YRcQnU   由   提交 /u/linedpapers   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b11rv3/premiere_loudness_meter_and_true_peaks_issue/</guid>
       <pubDate>Tue, 27 Feb 2024 03:30:35 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>有以前的 Frame io 用户现在改用 Dropbox Replay 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1b0wlqo/any_former_frame_io_users_now_using_dropbox/</link>
-      <description><![CDATA[显然，UI 比 Frame 笨重得多，但我想知道是否有以前的 Frame 用户改用了 Dropbox Replay。或者，也许您是以前的 Replay 用户，后来改用了 Frame 并且不打算再回去了？ 我们是一家公司的 Dropbox 用户，可以以 120 美元/席位/年的价格添加 Replay，这与 Frame io 相比，可以节省约 2000 美元，而且由于我们有 DBX 帐户，因此我们不像 Frame 那样受到存储限制。 Replay 有几个 Frame 没有的有趣功能 - 实时评论看起来很有趣。 NLE“集成”是一种笑话与框架（如果我理解正确的话，它只是导出你的视频，并带有评论所在的标记），但我并没有真正使用该功能 - 通常情况下，客户的时间戳记都是错误的。  也很好奇，因为它看起来默认会转录您上传的任何内容？与将内容发送给 Rev 以获取 AI 成绩单相比，这将节省 addtl $$。  想法？  谢谢！   由   提交 /u/WillEdit4Food   [链接] [评论]]]></description>
+      <description><![CDATA[显然，UI 比 Frame 笨重得多，但我想知道是否有以前的 Frame 用户改用了 Dropbox Replay。或者，也许您是以前的 Replay 用户，后来转用了 Frame，并且不想再回去了？？ 我们是一家公司的 Dropbox 用户，可以以 120 美元/席位/年的价格添加 Replay，这与 Frame io 相比，可以节省约 2k 美元，而且由于我们有 DBX 帐户，因此我们不像 Frame 那样受到存储限制。 Replay 有几个 Frame 没有的有趣功能 - 实时评论看起来很有趣。 NLE“集成”是一种笑话与框架（如果我理解正确的话，它只是导出带有评论所在位置的标记的视频），但我并没有真正使用该功能 - 通常情况下，客户的时间戳记都是错误的。  也很好奇，因为它看起来默认会转录您上传的任何内容？与将内容发送给 Rev 以获得 AI 成绩单相比，这会节省 addtl $$。  想法？  谢谢！   由   提交 /u/WillEdit4Food   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b0wlqo/any_former_frame_io_users_now_using_dropbox/</guid>
       <pubDate>Mon, 26 Feb 2024 23:36:25 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>不小心点击了其他时间线？</title>
       <link>https://www.reddit.com/r/editors/comments/1b0t29q/accidentally_clicking_on_other_timelines/</link>
-      <description><![CDATA[在 Premiere 和 Davinci 中，当我尝试单击时间线标尺来移动我的时间轴时，我情不自禁地意外单击了序列上方的选项卡洗涤器。这种情况发生的几率大约为 20%。只有我吗？我有点希望选项卡可以位于序列的底部。   由   提交 /u/desetefa   [链接] [评论]]]></description>
+      <description><![CDATA[在 Premiere 和 Davinci 中，当我尝试单击时间轴标尺来移动我的时间线时，我情不自禁地意外单击了序列上方的选项卡洗涤器。这种情况发生的几率大约为 20%。只有我吗？我有点希望选项卡可以位于序列的底部。   由   提交 /u/desetefa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b0t29q/accidentally_clicking_on_other_timelines/</guid>
       <pubDate>Mon, 26 Feb 2024 21:17:14 GMT</pubDate>
     </item>
