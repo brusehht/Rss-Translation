@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 03:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 06:15:19 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 扩展 JSON 查看器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1yadf/chrome_extension_json_viewer/</link>
+      <description><![CDATA[如果其他人需要查看大型 JSON 文件（10MB+）的方法，我为 Chrome 编写了这个扩展：  https://chromewebstore.google.com/detail/json-navigator/glgilclfmgofaeffphalkglkgbbpmigf &lt; p&gt;它加载大型 JSON 文件的速度比 Chrome 生成预格式化文本的速度要快（远远超过），并且具有许多有用的功能，可以让大海捞针变得更容易。 享受吧:)&lt; /p&gt;   由   提交 /u/Isopod-Severe   /u/Isopod-Severe reddit.com/r/webdev/comments/1b1yadf/chrome_extension_json_viewer/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1yadf/chrome_extension_json_viewer/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮差打断了我的话。 Restfox 从舞台右侧进入。从房子后面进入tampermonkey。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1y17r/postman_cut_me_off_enter_restfox_from_stage_right/</link>
+      <description><![CDATA[我正在测试我们的 API，我想 Postman 已经受够了并打断了我。我可以使用桌面客户​​端，但坦率地说，它对于我的需要来说有点过度，所以我开始寻找替代方案。 我找到了 Restfox，然后发现它有一个浏览器客户端。凉爽的！不过，我怀念 Postman 的一项功能，那就是使用 Ctrl+Enter 来发出请求。 因此，我编写了一个 tampermonkey 脚本来提供该功能。如果其他人想要它，请看这里： // ==UserScript== // u/name Ctrl+输入 Restfox // u/namespace http://tampermonkey.net / // u/version 2024-02-28 // u/description 添加键盘发送请求的快捷方式 // u/author Bill in KCMO // u/match &lt; a href=&quot;https://restfox.dev/&quot;&gt;https://restfox.dev/ // u/icon https://www.google.com/s2/favicons?sz =64&amp;domain=restfox.dev // u/grant none // == /UserScript== ​ (function() { &#39;use strict&#39;; document.querySelector(&quot;body&quot;).addEventListener(&quot;keyup&quot;, function(evt){  if(evt.ctrlKey &amp;&amp; evt.key == &quot;Enter&quot;) { document.querySelector(&quot;.request-panel-address-bar button&quot;).click()  } }); })(); ​   由   提交/u/mapsedge  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1y17r/postman_cut_me_off_enter_restfox_from_stage_right/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 C 语言的游戏可以在浏览器中玩？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1xf80/making_a_game_in_c_playable_in_browser/</link>
+      <description><![CDATA[所以我一直在学习 C 标准，并且很乐意用它来构建程序，但现在我为了好玩而冒险进入 HTML。我想尝试将我用 C 语言制作的游戏放入 HTML 网页中，以便可以在那里玩。这可能吗？我还有一个 .exe 版本的程序可以使用。我已经研究了很多，但找不到任何结论性的东西。 注意：游戏在终端中运行并接受用户输入。我不确定这是否重要，但我想无论如何我都应该声明一下。有什么建议或帮助吗？谢谢！   由   提交 /u/Napstafox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1xf80/making_a_game_in_c_playable_in_browser/</guid>
+      <pubDate>Wed, 28 Feb 2024 04:45:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tumblr 和 WordPress 出售用户数据来训练人工智能工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b1vy0d/tumblr_and_wordpress_to_sell_users_data_to_train/</link>
+      <description><![CDATA[       &amp;# 32；由   提交/u/cshaiku  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b1vy0d/tumblr_and_wordpress_to_sell_users_data_to_train/</guid>
+      <pubDate>Wed, 28 Feb 2024 03:30:42 GMT</pubDate>
+    </item>
     <item>
       <title>如何快速掌握CS基础知识？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b1uzng/how_can_i_quickly_gain_knowledge_of_cs/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>您认为设计师到开发人员的过渡需要多长时间？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b1su8z/how_long_do_you_think_a_designer_to_developer/</link>
-      <description><![CDATA[我是一名想要转型的设计师。我已经有了 CSS 和 HTML 的基础，对 JavaScript 有了基本的了解（我用一些基本的 JavaScript 构建了一些静态网站，这些基本的 JavaScript 是我通过谷歌搜索找到的）。我计划学习更多 JavaScript 以及如何在 Wordpress 上编写代码，但不确定需要花多少时间才能足够熟练地开始申请入门级职位或实习，或者我应该花时间学习哪些其他语言学习。我希望了解以前做过类似转变的任何人的见解。   由   提交/u/loganmorganml1   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名想要转型的设计师。我已经有了 CSS 和 HTML 的基础，对 JavaScript 有了基本的了解（我用一些基本的 JavaScript 构建了一些静态网站，这些基本的 JavaScript 是我通过谷歌搜索找到的）。我计划学习更多 JavaScript 以及如何在 Wordpress 上编写代码，但不确定需要花多少时间才能足够熟练地开始申请入门级职位或实习，或者我应该花时间使用哪些其他语言学习。我希望了解以前做过类似转变的任何人的见解。   由   提交/u/loganmorganml1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b1su8z/how_long_do_you_think_a_designer_to_developer/</guid>
       <pubDate>Wed, 28 Feb 2024 01:05:58 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>有没有可以校对网站的人工智能工具？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b1sf5j/is_there_an_ai_tool_to_proofread_a_website/</link>
-      <description><![CDATA[例如，您将其指向某个 URL，然后它会分析该 URL 并突出显示问题（使用聊天 GPT 或其他方式）？ &lt; p&gt;如果能递归地做到这一点就更好了。   由   提交 /u/nbelyh   [链接] [评论]]]></description>
+      <description><![CDATA[例如，您将其指向某个 URL，然后它会对其进行分析并突出显示问题（使用 Chat GPT 或其他方式）？ &lt; p&gt;如果能递归地做到这一点就更好了。   由   提交 /u/nbelyh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b1sf5j/is_there_an_ai_tool_to_proofread_a_website/</guid>
       <pubDate>Wed, 28 Feb 2024 00:47:01 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我的意思不是对 VR 或 AR 眼镜的要求，而是对计算机本身的 CPU 或 GPU 处理器的要求，例如，如果我有基本型号 M3 Pro Macbook Pro 的功能是否足以用于 3D 网站开发以及使用 WebXR 进行 VR 或 AR 网站开发？   由   提交 /u/Zaza_Zazadze   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b1qskr/what_is_a_hardware_requirements_for_webxr_and_3d/</guid>
       <pubDate>Tue, 27 Feb 2024 23:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>明信片/信件模板编辑器可以直接集成到我的网络应用程序中吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1qs1a/a_postcardletter_template_editor_to_integrate/</link>
-      <description><![CDATA[请原谅我缺乏知识，这是我构建的第一个网络应用程序。该应用程序的功能允许用户上传物理邮件的设计，然后将其发送以进行打印。 理想情况下，我希望用户能够从一系列选项中进行选择模板，然后编辑模板以自定义它，然后该设计将被发送以进行打印，而不是仅上传自己的设计。 我以为 Canva 可以像这样集成，但现在看来它们不再提供那个。有谁知道像 4x6 这样的明信片设计编辑器可以直接集成到我自己的网络应用程序中（理想情况下用户不会离开应用程序，但它仍然可以由我的应用程序中的另一家公司打上品牌），所以我没有自己编写一个编辑器，因为我不具备相关知识。非常感谢您的帮助。   由   提交 /u/New_Pomegranate9829   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1qs1a/a_postcardletter_template_editor_to_integrate/</guid>
-      <pubDate>Tue, 27 Feb 2024 23:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我的故事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1qqms/this_is_my_story/</link>
-      <description><![CDATA[   /u/http203  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1qqms/this_is_my_story/</guid>
-      <pubDate>Tue, 27 Feb 2024 23:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您取消订阅时，是否有任何合法原因需要几天时间才能从邮件列表中删除？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1q6et/is_there_any_legit_reason_it_takes_multiple_days/</link>
-      <description><![CDATA[还是只是普通的企业废话？   由   提交 /u/giveKINDNESS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1q6et/is_there_any_legit_reason_it_takes_multiple_days/</guid>
-      <pubDate>Tue, 27 Feb 2024 23:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>必须具有开始和结束标记（而不是 void 标记（？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b1pai5/what_is_an_element_called_that_must_have_a/</link>
-      <description><![CDATA[标题   由   提交/u/Logical_Cherry_7588   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b1pai5/what_is_an_element_called_that_must_have_a/</guid>
-      <pubDate>Tue, 27 Feb 2024 22:34:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
