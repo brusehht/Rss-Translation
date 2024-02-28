@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 27 Feb 2024 18:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 15:10:51 GMT</lastBuildDate>
+    <item>
+      <title>StarCoder2 和 Stack v2</title>
+      <link>https://huggingface.co/blog/starcoder2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/starcoder2</guid>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>TTS Arena：在野外对文本转语音模型进行基准测试</title>
       <link>https://huggingface.co/blog/arena-tts</link>
@@ -101,13 +108,6 @@
       <link>https://huggingface.co/blog/constitutional_ai</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/constitutional_ai</guid>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 AWS Inferentia2 的拥抱面部文本生成推理</title>
-      <link>https://huggingface.co/blog/text-generation-inference-on-inferentia2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/text-generation-inference-on-inferentia2</guid>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
