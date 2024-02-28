@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 28 Feb 2024 03:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 09:11:44 GMT</lastBuildDate>
+    <item>
+      <title>不要在单元测试中模拟机器学习模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1b21n56/dont_mock_machine_learning_models_in_unit_tests/</link>
+      <description><![CDATA[ 由   提交/u/nmaahum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b21n56/dont_mock_machine_learning_models_in_unit_tests/</guid>
+      <pubDate>Wed, 28 Feb 2024 09:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>不必要的 git 测验</title>
+      <link>https://www.reddit.com/r/programming/comments/1b20hg2/unnecessary_git_quiz/</link>
+      <description><![CDATA[ 由   提交/u/DoctorMany7987  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b20hg2/unnecessary_git_quiz/</guid>
+      <pubDate>Wed, 28 Feb 2024 07:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序攀爬动画 (Unity)</title>
+      <link>https://www.reddit.com/r/programming/comments/1b1zbo7/procedural_climbing_animation_unity/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b1zbo7/procedural_climbing_animation_unity/</guid>
+      <pubDate>Wed, 28 Feb 2024 06:31:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程语言中的时间旅行</title>
+      <link>https://www.reddit.com/r/programming/comments/1b1z9s8/time_travel_in_programming_languages/</link>
+      <description><![CDATA[ 由   提交/u/gururani  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b1z9s8/time_travel_in_programming_languages/</guid>
+      <pubDate>Wed, 28 Feb 2024 06:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>V语言评论（Vlang）：Mike Shah的第一印象</title>
+      <link>https://www.reddit.com/r/programming/comments/1b1xsvh/v_language_review_vlang_mike_shahs_first/</link>
+      <description><![CDATA[ 由   提交/u/waozen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b1xsvh/v_language_review_vlang_mike_shahs_first/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>possum-db 是一种先进的并发磁盘支持缓存，支持使用文件克隆和稀疏文件的高效直接文件 I/O、事务和快照</title>
+      <link>https://www.reddit.com/r/programming/comments/1b1xafh/possumdb_is_an_advanced_concurrent_diskbacked/</link>
+      <description><![CDATA[ 由   提交/u/anacrolix  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b1xafh/possumdb_is_an_advanced_concurrent_diskbacked/</guid>
+      <pubDate>Wed, 28 Feb 2024 04:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spring Data MongoDB 教程：如何使用 MongoRepository、查询注释和 MongoTemplate ？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b1wqj7/spring_data_mongodb_tutorial_how_to_use/</link>
+      <description><![CDATA[ 由   提交/u/erdsingh24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b1wqj7/spring_data_mongodb_tutorial_how_to_use/</guid>
+      <pubDate>Wed, 28 Feb 2024 04:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>剩下的就是历史了：Postgres 对 WAL 的调查...</title>
+      <link>https://www.reddit.com/r/programming/comments/1b1w00y/the_rest_is_history_postgres_investigations_of_wal/</link>
+      <description><![CDATA[ 由   提交/u/craigkerstiens  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b1w00y/the_rest_is_history_postgres_investigations_of_wal/</guid>
+      <pubDate>Wed, 28 Feb 2024 03:33:32 GMT</pubDate>
+    </item>
     <item>
       <title>什么是尼特？为什么它们不好？</title>
       <link>https://www.reddit.com/r/programming/comments/1b1q9j6/what_are_nits_and_why_are_they_bad/</link>
@@ -48,67 +104,11 @@
       <pubDate>Tue, 27 Feb 2024 19:54:07 GMT</pubDate>
     </item>
     <item>
-      <title>如何在不烧坏的情况下编程？您发现哪些技巧或习惯对于避免长时间编码过程中的倦怠最有效？我最近看到了这篇关于应对开发人员倦怠的富有洞察力的文章。你有机会读过它吗？如果有，你有什么想法？”</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1kvuy/how_do_you_program_without_burning_out_what/</link>
-      <description><![CDATA[ 由   提交/u/Rivalez_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1kvuy/how_do_you_program_without_burning_out_what/</guid>
-      <pubDate>Tue, 27 Feb 2024 19:41:02 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用 ChatGPT 进行网页抓取</title>
       <link>https://www.reddit.com/r/programming/comments/1b1ip8m/how_to_use_chatgpt_for_web_scraping/</link>
       <description><![CDATA[ 由   提交/u/9millionrainydays_91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b1ip8m/how_to_use_chatgpt_for_web_scraping/</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 的 EIA 能源数据 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1ihen/eia_energy_data_api_with_python/</link>
-      <description><![CDATA[ 由   提交/u/datonsx  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1ihen/eia_energy_data_api_with_python/</guid>
-      <pubDate>Tue, 27 Feb 2024 18:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>引入 pql，一种编译为 SQL（用 Go 编写）的管道查询语言。</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1hja2/introducing_pql_a_pipelined_query_language_that/</link>
-      <description><![CDATA[ 由   提交/u/evanrunreveal  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1hja2/introducing_pql_a_pipelined_query_language_that/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auth0 Terraform 提供程序入门</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1hgg2/getting_started_with_auth0_terraform_provider/</link>
-      <description><![CDATA[ 由   提交/u/robertinoc  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1hgg2/getting_started_with_auth0_terraform_provider/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adam 在 Plain C 中的梯度下降</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1h8ux/gradient_descent_with_adam_in_plain_c/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1h8ux/gradient_descent_with_adam_in_plain_c/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:15:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 时间序列机器学习预言家</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1h8uf/facebook_prophet_for_timeseries_machine_learning/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1h8uf/facebook_prophet_for_timeseries_machine_learning/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>一行有趣的代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1h8tp/a_fun_line_of_code/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1h8tp/a_fun_line_of_code/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:15:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>模块化中的常见错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1b1h8s8/common_mistakes_in_modularisation/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b1h8s8/common_mistakes_in_modularisation/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:15:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
