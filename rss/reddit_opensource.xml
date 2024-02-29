@@ -4,20 +4,41 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 21:13:02 GMT</lastBuildDate>
+    <item>
+      <title>Refeed - 开源 RSS 阅读器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b3b7hn/refeed_open_source_rss_reader/</link>
+      <description><![CDATA[ 由   提交 /u/User_Pigbot    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b3b7hn/refeed_open_source_rss_reader/</guid>
+      <pubDate>Thu, 29 Feb 2024 21:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>litgen：一个新的自动 C++ 到 python 绑定生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b3ar3x/litgen_a_new_automatic_c_to_python_bindings/</link>
+      <description><![CDATA[ 由   提交/u/pstomi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b3ar3x/litgen_a_new_automatic_c_to_python_bindings/</guid>
+      <pubDate>Thu, 29 Feb 2024 20:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能雪崩 - Jarrett Catlin</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b38eah/the_ai_avalanche_jarrett_catlin/</link>
+      <description><![CDATA[ 由   提交/u/Nice-Inflation-1207   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b38eah/the_ai_avalanche_jarrett_catlin/</guid>
+      <pubDate>Thu, 29 Feb 2024 19:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>netplus,旨在增强 .NET 应用程序开发的工具包,下载netplus的源码_GitHub_酷徒</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b353qa/github_gsilvamartinnetplus_a_toolkit_designed_to/</link>
+      <description><![CDATA[    /u/gsilvamartin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b353qa/github_gsilvamartinnetplus_a_toolkit_designed_to/</guid>
+      <pubDate>Thu, 29 Feb 2024 16:55:04 GMT</pubDate>
+    </item>
     <item>
       <title>VeraCrypt 包含 TrueCrypt 的专有代码？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b2yqhw/veracrypt_includes_proprietary_code_from_truecrypt/</link>
       <description><![CDATA[https://www.infoworld.com/article/2609745/truecrypt-or-false--would-be-open-source-project-must -clean-up-its-act.html 有什么想法吗？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b2yqhw/veracrypt_includes_proprietary_code_from_truecrypt/</guid>
       <pubDate>Thu, 29 Feb 2024 12:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏化开源贡献 (oss.gg) - 今天软发布 (MIT)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b2xvye/gamifying_open_source_contributions_ossgg_soft/</link>
-      <description><![CDATA[嘿嘿！ 我运行一个开源调查项目，我们一直在努力解决如何有效管理社区贡献的问题。我举办了一次演讲，讨论如何通过游戏化方法解决以下所有问题： ​  很多初级人员的帮助 高级人员不坚持 赏金的激励困境 审核开销 重新协商过于手动 难以“弯曲”供后辈找工作 重复工作 未完成的PR  ​ 可以看到详细如果您有兴趣，请写在 oss.gg 上。 ​ 更多重要的是，我们今天软启动了我们的测试版！ 到目前为止，贡献者可以注册、注册、在我们自己的存储库中查找准备好贡献的问题，并在他们的工作合并后收集积分🕹️ 公平地说，这是一个相当简单的概念证明，但我们希望在使用它时将其构建出来。 ​ 帮助构建 oss.gg 创新操作系统项目处理大型社区的方式👷  oss.gg 是 MIT 许可的社区驱动项目。我们需要：  设计师 社区版主 工程师 产品经理 内容撰稿人&lt; /li&gt; 以及您想带来的任何内容:)  ​ 很想听听您的看法！ 🤓   由   提交 /u/jobenjada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b2xvye/gamifying_open_source_contributions_ossgg_soft/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:12:36 GMT</pubDate>
     </item>
     <item>
       <title>寻找有趣的项目来贡献</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[本周我们将开源一个名为 Handshake 的项目：一个 Next.js 应用程序，可通过 200 多个 API 处理 OAuth 流程。请访问：github.com/ Fiberinc/handshake。 其工作原理如下：  克隆存储库 修改 app/options.ts 以配置您要使用的 API 部署到子域，例如handshake.yourdomain.com（或任何地方） 然后，获取例如。来自用户的 Reddit 令牌，将其发送到 HANDSHAKE/api/auth/reddit/redirect。 应用程序将处理授权和令牌交换，然后将用户发送回给您。   握手有助于集成，而不是身份验证。想想“连接你的 Github 帐户”按钮，而不是“使用 Github 登录” （next-auth 已经很棒了！）。 我们一直在内部使用 Handshake在 Fiber 工作了好几个月，反馈非常好。但现在这个产品是我们赚钱的方式，所以当公司要求使用它时，我们总是不得不拒绝他们。现在我们将其开源，他们可以免费自行托管。 我们这个项目的北极星是易于使用。我们构建它是为了适应我们内部使用的堆栈：Typescript、Next.js、部署到 Vercel（很快还有其他 PaaS）等。我们在构建 Handshake 之前考虑的其他解决方案要么太难设置（Docker、Kubernetes 等），要么尝试过做太多事情（例如，需要数据库、开放核心来赚钱等）。 查看handshake.cool我们的演示和支持的 API 列表。期待您的反馈和关于如何改进的想法！   由   提交/u/mrbtie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b2er38/handshake_nextjs_boilerplate_for_oauth_with_200/</guid>
       <pubDate>Wed, 28 Feb 2024 19:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wiggle Animate - 适用于 Web 浏览器的基于矢量的运动图形动画工具。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b2bg18/wiggle_animate_a_vectorbased_motion_graphics/</link>
-      <description><![CDATA[ 由   提交/u/imbenzenker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b2bg18/wiggle_animate_a_vectorbased_motion_graphics/</guid>
-      <pubDate>Wed, 28 Feb 2024 17:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放集体基金会关闭</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b29obq/open_collective_foundation_shutting_down/</link>
-      <description><![CDATA[ 由   提交/u/vmbrasseur  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b29obq/open_collective_foundation_shutting_down/</guid>
-      <pubDate>Wed, 28 Feb 2024 16:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要PDF转换器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b24gv6/need_pdf_converter/</link>
-      <description><![CDATA[已解决 我需要将大量 PDF 转换为 .odt 文件（但 .docx 也可以，因为 LibreOffice 可以读取 . docx），以及我发现的所有解决方案在某种程度上都严重混乱（Word，它有一个内置转换器，具有讽刺意味的是，显然是最糟糕的）。  &amp; #32；由   提交/u/L30N1337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b24gv6/need_pdf_converter/</guid>
-      <pubDate>Wed, 28 Feb 2024 12:04:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
