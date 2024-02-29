@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 00:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 03:13:47 GMT</lastBuildDate>
+    <item>
+      <title>刷新过期令牌的正确方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2pwyj/what_is_the_proper_way_to_refresh_an_expired_token/</link>
+      <description><![CDATA[我正在尝试完成 Google OAuth 2.0 流程的实现。我使用 React 前端来获取身份验证代码，然后将其发送到 C# API，在其中交换令牌。在令牌响应上，API 将刷新令牌保存到数据库，并将访问令牌传递回我的前端。来自前端的所有授权请求都包含此访问令牌，我在 API 中使用一些中间件来验证每个请求的此令牌。 我在前端实现了一个刷新机制，用于监视令牌过期 15 分钟并在我的 API 上调用刷新端点。刷新端点返回到谷歌以获取新的访问权限和访问权限。刷新令牌，只要用户在网站上保持活动状态，整个过程就会重复。这一切都工作得“很好”。 我遇到一些困惑的是，我希望能够保留用户的会话，而不要求他们每次访问该网站时都登录。现在发生的情况是，如果我离开站点并在超过 15 分钟后返回，则会调用刷新端点，并且我的中间件在验证令牌时会抛出异常。 会吗？在这种情况下，吞下该异常并刷新令牌是否被认为是最佳实践？我很好奇我是否在设计中进行了某种监督，并且很难找到涵盖该主题的任何好的资源。处理这种情况的最佳方法是什么？任何见解将不胜感激。提前致谢！   由   提交/u/turkeymaster77  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2pwyj/what_is_the_proper_way_to_refresh_an_expired_token/</guid>
+      <pubDate>Thu, 29 Feb 2024 03:08:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TypeScript 进行错误处理和防御性编程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2pevu/error_handling_and_defensive_programming_with/</link>
+      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2pevu/error_handling_and_defensive_programming_with/</guid>
+      <pubDate>Thu, 29 Feb 2024 02:44:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助使用 Gravatar</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2ofu9/help_with_gravatar/</link>
+      <description><![CDATA[您好 -  我有一个 Wordpress.org&lt; /a&gt; 网站在我的所有帖子上都会显示默认的头像（此处插入图片）。我一辈子都不知道如何插入我的照片。我已询问过 Bluehost，他们将我引导至 Wordpress.com。还是想不通。  帮助？   由   提交/u/Haunting-Distance-79   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2ofu9/help_with_gravatar/</guid>
+      <pubDate>Thu, 29 Feb 2024 01:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>小企业主寻求建立数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2nvfk/small_business_owner_seeking_to_build_database/</link>
+      <description><![CDATA[我拥有一家房屋检查公司，我希望建立一个网站，以便可以搜索我的检查。我需要能够将 PDF、图片和信息拖放到同一屏幕上。我可以用 Wix、Wordpress 等来做这件事吗？ - 如果有人想通过 DM 告诉我一个小时或报价，那就太棒了。    由   提交/u/rhouston25  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2nvfk/small_business_owner_seeking_to_build_database/</guid>
+      <pubDate>Thu, 29 Feb 2024 01:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 AdSense 替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2n9hk/looking_for_an_adsense_alternative/</link>
+      <description><![CDATA[是否有一个没有恶意软件且付费的良好广告网络？  &amp; #32；由   提交 /u/FarrisFahad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2n9hk/looking_for_an_adsense_alternative/</guid>
+      <pubDate>Thu, 29 Feb 2024 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 网站的商店定位器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b2n4il/store_locator_for_wordpress_site/</link>
+      <description><![CDATA[我的客户想要为他们的网站提供商店定位器，用户可以在其中输入邮政编码并查看其所在地区的商店地图。是否有一个可靠的 WordPress 插件，或者我最好从头开始构建它？    由   提交/u/raybanshee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b2n4il/store_locator_for_wordpress_site/</guid>
+      <pubDate>Thu, 29 Feb 2024 00:57:03 GMT</pubDate>
+    </item>
     <item>
       <title>如何让网站的标志看起来不模糊？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2mpqo/how_to_make_logo_for_website_not_look_blurry/</link>
@@ -62,53 +104,11 @@
       <pubDate>Wed, 28 Feb 2024 20:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了在 Reddit 上无休止地滚动，所以我编写了一些脚本，只提供最后一天的前 10 条帖子。它让我在不浪费太多时间的情况下了解情况，并拥有我自己的个性化 Reddit 报纸。该代码每天上午 8 点和晚上 8 点在我的服务器上运行。</title>
+      <title>我厌倦了在 Reddit 上无休止地滚动，所以我编写了一些脚本，只提供最后一天的前 10 条帖子。它让我不浪费太多时间就能了解最新情况，并且拥有我自己的个性化 Reddit 报纸。该代码每天早上 8 点和晚上 8 点在我的服务器上运行。</title>
       <link>https://www.reddit.com/r/webdev/comments/1b2guah/i_was_fed_up_with_endless_scrolling_on_reddit_so/</link>
       <description><![CDATA[    /u/WorL_YouDecide   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2guah/i_was_fed_up_with_endless_scrolling_on_reddit_so/</guid>
       <pubDate>Wed, 28 Feb 2024 20:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作问题库的最佳网站，例如 passmedicine.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2ghem/best_website_to_make_a_questionbank_like/</link>
-      <description><![CDATA[大家好。我没有网络开发经验，也没有编码背景，但我想通过 wordpress 制作一个像 passmedicine.com 这样的网站。到目前为止，我已经尝试过 quizmaker、learnpress 和 lifterLMS 等插件。到目前为止，quizmaker 是达到我想要的效果的最佳工具，但还不够，因为它在测验过程中没有进展，无法重复错误的问题，也没有进度跟踪（附有图像来解释我的意思。现在也许我可以通过 quizmaker 做到这一点，我只是需要指导，或者也许有更好的插件/方法来做到这一点？谢谢帮助 https://imgur.com/a/VeBQq29&quot;&gt;https:// /imgur.com/a/VeBQq29    提交者    /u/QTIMEEY    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2ghem/best_website_to_make_a_questionbank_like/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 开关控件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2fsfa/an_html_switch_control/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2fsfa/an_html_switch_control/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何设计？ （blackbox.ai 在 1 秒内做出了比我更好的设计）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2fawh/how_do_you_design_blackboxai_make_a_better_design/</link>
-      <description><![CDATA[我正在制作我的第一个网页，它需要看起来不错，但我在前端方面很糟糕。你们的前端方法是什么？ ​   由   提交 /u/Admirable-Ad-9943   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2fawh/how_do_you_design_blackboxai_make_a_better_design/</guid>
-      <pubDate>Wed, 28 Feb 2024 19:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 代码 2024 年 2 月</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2f10w/visual_studio_code_february_2024/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2f10w/visual_studio_code_february_2024/</guid>
-      <pubDate>Wed, 28 Feb 2024 19:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>在最初的一两个月内，后辈们应该是被动的海绵和手握，还是应该采取主动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2dwdq/within_the_first_month_or_two_should_juniors_be/</link>
-      <description><![CDATA[基本上，如果有高级员工，是否应该期望他们主动改进文档、查找和修复错误以及在代码中执行操作 - 或者这些任务是填鸭式的吗？它们应该只交给高级员工吗？   由   提交/u/IdeaExpective3073  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2dwdq/within_the_first_month_or_two_should_juniors_be/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>简历 - 经验部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2dkij/resumes_experience_section/</link>
-      <description><![CDATA[恢复“体验”部分： 从 2012 年到 2019 年，我作为一名 LAMP 堆栈开发人员稳定工作。 在 2019 年到 2022 年之间，存在很大的就业差距，我开始了一个 WordPress 博客，并产生了足够的联属销售 目前，我是一名 MERN 堆栈开发人员，从未想过将我开始的博客放在我的简历中，因为 WordPress 博客与 LAMP（我以前的堆栈）或 MERN 堆栈（我当前的堆栈）无关。  最近，一位招聘人员告诉我 2019 年至 2022 年之间的差距看起来很糟糕，我应该添加我在那段时间开始的博客。 所以在“经验”中我添加了这个博客，标题为“创始人/所有者”它的工作要点如下：  利用 Semrush 进行关键字研究和文章优化。 使用 Sass 进行自定义 WordPress 主题开发。  &lt; p&gt;我以为一切看起来都不错。 但是，自从我在简历中添加了此内容后，5 周内没有人联系我进行面试。 在此更改之前，我平均每周接受 1 到 2 次面试。 考虑到我的整个职业生涯，我一直是一名 LAMP/MERN 堆栈开发人员，将我开始的这个 WordPress 博客放在“经验”下是否值得？伤害了我的简历吗？ “经验”下的博客条目位于顶部，潜在雇主一旦看到“Wordpress”，可能会立即解雇我。   由   提交/u/Melvin393  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2dkij/resumes_experience_section/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:36:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
