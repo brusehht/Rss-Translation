@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 05:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:11:43 GMT</lastBuildDate>
     <item>
-      <title>[媒体]不要错过任何火箭发射！</title>
-      <link>https://t.me/hn_summary/76767</link>
-      <description><![CDATA[火箭发射
-不要错过任何火箭发射！在 rocketlaunch.org 上注册我们的电子邮件提醒，了解最新动态所有即将发布的日期。每周收到一封电子邮件，其中包含未来一周的发布时间表。随时了解最新情况，再也不会错过激动人心的火箭发射！]]></description>
-      <guid>https://t.me/hn_summary/76767</guid>
-      <pubDate>Thu, 29 Feb 2024 05:58:51 GMT</pubDate>
+      <title>该网页内容讨论了高性能无锁环的设计和实现 - [...]</title>
+      <link>https://t.me/hn_summary/76817</link>
+      <description><![CDATA[具有连续预留的无锁环形缓冲区（2019）&lt; /a&gt;
+此 Web 内容讨论了 Andrea Lattuada 和 James Munns 设计和实现的用于跨线程通信的高性能无锁环形缓冲区。这篇文章介绍了循环缓冲区的基础知识、维护连续数据写入/读取的挑战以及直接内存访问 (DMA) 在嵌入式系统中的重要性。该设计从 BipBuffer 中汲取灵感，但引入了一种无需显式锁定即可处理并发的新方法。通过将每个协调变量与单个线程相关联，该设计简化了推理并减少了写入器和读取器线程之间的协调。这篇文章还强调了 DMA 在提高嵌入式系统和数据中心的数据传输效率和 CPU 利用率方面的重要性。 （根据 68% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76817</guid>
+      <pubDate>Thu, 29 Feb 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这本科学文章集深入探讨了 ca [...]</title>
-      <link>https://t.me/hn_summary/76766</link>
-      <description><![CDATA[汽车轮胎微塑料和其他道路污染径流的环境风险
-这本科学文章集深入探讨了汽车轮胎微塑料和其他道路径流污染物造成的环境风险。有争议的是，这项研究强调了轮胎磨损产生的微塑料的秘密来源，揭示了一个以前被忽视的问题。令人惊讶的是，研究揭示了轮胎和道路磨损颗粒对水和沉积物生物的慢性毒性，引起了人们对其对水生生态系统影响的担忧。研究结果强调需要进一步研究和潜在的缓解措施，以解决微塑料对环境的有害影响。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76766</guid>
-      <pubDate>Thu, 29 Feb 2024 05:50:47 GMT</pubDate>
+      <title>作者分享了他们学习世界语、Toki Pona 的旅程，以及他们在 E [...]</title>
+      <link>https://t.me/hn_summary/76816</link>
+      <description><![CDATA[世界语、道本语、斯瓦希里语、印度尼西亚语
+作者分享了他们学习世界语、Toki Pona 的历程以及他们在世界语会议上的经历。他们对在世界语这种实际用途有限的语言上投入如此多的时间表示遗憾。他们还讨论了语言学家约翰·麦克沃特（John McWhorter）对斯瓦希里语和印度尼西亚语的赞扬，因为它们简单且广泛使用，是理想的语言。作者考虑将来学习其中一种语言或普通话，以便与更多母语人士交流。这个故事凸显了作者对语言的热情以及他们对有意义的沟通体验的追求。]]></description>
+      <guid>https://t.me/hn_summary/76816</guid>
+      <pubDate>Thu, 29 Feb 2024 15:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]继2020年创建Checkboxland之后，2021年我发现自己陷入了复选框动画热潮。</title>
-      <link>https://t.me/hn_summary/76765</link>
-      <description><![CDATA[我一直在用复选框制作东西（2021） 
-在 2020 年创建 Checkboxland 后，我发现自己在 2021 年陷入了复选框动画热潮。一开始只是编码消遣，后来深入研究了数学动画、交互式演示，甚至将图像和视频转换为复选框版本。这个过程既有趣又令人上瘾，但我开始为花这么多时间在看似无聊的追求上而感到内疚。尽管有继续前进的诱惑，但我意识到在我被称为“复选框家伙”之前可能是时候继续前进了。这是一次疯狂的旅程，但也许是时候让这股创意之火自行熄灭了。]]></description>
-      <guid>https://t.me/hn_summary/76765</guid>
-      <pubDate>Thu, 29 Feb 2024 05:46:43 GMT</pubDate>
+      <title>在这项开创性的研究中，研究人员展示了虚幻引擎（一种视频游戏引擎）的使用 [...]</title>
+      <link>https://t.me/hn_summary/76815</link>
+      <description><![CDATA[使用虚幻引擎在原子级别渲染细胞内的蛋白质结构
+在这项开创性的研究中，研究人员展示了如何使用虚幻引擎（一种视频游戏引擎）来渲染细胞内原子水平的蛋白质结构。虽然 CryoET 可以识别细胞内的大分子，但在原子水平上可视化它们一直是一个挑战。通过利用这种创新方法，该团队展示了实时渲染复杂生物结构的能力，提供了一种独特的交互式方式来探索细胞环境。此外，他们还提供交互式导航工具和将 CryoET 数据转换为与游戏引擎兼容的格式的软件。这项研究为以前所未有的细节可视化细胞结构开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/76815</guid>
+      <pubDate>Thu, 29 Feb 2024 15:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“碳捕获作为气候解决方案的虚假承诺”中，Naomi Oreskes 讨论了 [...]</title>
-      <link>https://t.me/hn_summary/76764</link>
-      <description><![CDATA[碳捕获作为气候解决方案的虚假承诺 
-在《碳捕获作为气候解决方案的虚假承诺》一书中，Naomi Oreskes 讨论了利用碳捕获和封存 (CCS) 作为气候危机解决方案的争议问题。虽然石油和天然气行业推广 CCS 作为减少排放的一种方式，但现实情况是，美国的大多数 CCS 项目实际上都是提高石油采收率的项目，导致大气中二氧化碳的净增加。 Oreskes 强调了将二氧化碳储存在地下的挑战以及与冰岛 Orca 工厂等替代方法相关的高成本。最终，她认为关注可再生能源和效率措施是更紧迫、更有效的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/76764</guid>
-      <pubDate>Thu, 29 Feb 2024 05:13:31 GMT</pubDate>
+      <title>[媒体] Show HN：猜骰子 – 哪一面获胜？</title>
+      <link>https://t.me/hn_summary/76814</link>
+      <description><![CDATA[显示 HN：猜骰子 – 哪一面获胜？
+标题：Show HN：猜骰子 – 哪一边落地？
+
+正在寻找一款有趣且简单的应用程序来打发时间？猜骰子就是最好的选择！该应用程序由 Indest 开发，允许用户猜测骰子的哪一面会落地。最好的部分？您的隐私受到保护，因为开发人员不会从应用程序收集任何数据。所以，现在就下载 Dice Guess 并开始测试您的运气吧！]]></description>
+      <guid>https://t.me/hn_summary/76814</guid>
+      <pubDate>Thu, 29 Feb 2024 14:56:21 GMT</pubDate>
     </item>
     <item>
-      <title>在“时间的障碍：准备重新考虑的反思”中，克里斯托弗·希钦斯 (Christopher Hitchens) 未收集的 [...]</title>
-      <link>https://t.me/hn_summary/76763</link>
-      <description><![CDATA[为什么搭便车仍然很重要：论克里斯托弗·希钦斯的“搭便车” 
-在《时间的绊脚石：重新考虑的反思》中，克里斯托弗·希钦斯 (Christopher Hitchens) 20 世纪 90 年代未收录的文章被收集起来，展示了他敏锐的智慧和对打击部落主义思想的坚定承诺。希钦斯晚年与左派的好战分裂可能会给他的职业生涯蒙上阴影，但这个系列让我们想起了他的才华。他的俏皮话或“希奇耳光”挑战读者进行批判性思考，而他俏皮而博学的风格则鼓励独立思考。尽管希钦斯有缺陷，但他的见解在今天仍然具有现实意义，敦促我们抵制情绪操纵，并为更美好的政治未来进行仔细、深思熟虑的思考。]]></description>
-      <guid>https://t.me/hn_summary/76763</guid>
-      <pubDate>Thu, 29 Feb 2024 04:58:24 GMT</pubDate>
+      <title>[媒体]纽约市有缓解交通拥堵的计划吗？</title>
+      <link>https://t.me/hn_summary/76813</link>
+      <description><![CDATA[纽约市有缓解交通拥堵的计划吗？曼哈顿司机 15 美元通行费
+纽约市正在考虑对进入中央公园以南曼哈顿的司机征收 15 美元的通行费，以减少交通拥堵、空气污染，并为公共交通提供资金。该计划将使纽约成为美国第一个实行拥堵收费计划的城市，但遭到公立学校教师、企业主和郊区通勤者的反对。支持者认为，纽约的本质取决于可靠的公共交通，而批评者则担心这会对低收入居民、残疾人和夜班工人产生影响。该计划包括对某些车辆的豁免以及对低收入居民的折扣。]]></description>
+      <guid>https://t.me/hn_summary/76813</guid>
+      <pubDate>Thu, 29 Feb 2024 14:52:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]尽管之前声称具有可持续性，但英国 Drax 发电站被发现 [...]</title>
-      <link>https://t.me/hn_summary/76762</link>
-      <description><![CDATA[Drax：英国发电站仍在燃烧稀有森林木材 
-尽管之前声称具有可持续性，但英国德拉克斯发电站被发现仍在燃烧来自古老森林的稀有森林木材。这与他们 2017 年的报告相矛盾，该报告称他们不会从“禁区”（例如受保护的森林、老树或具有高生物多样性价值的原始森林地区）获取木材。争议在于他们的承诺与行动之间的差距，让人质疑他们对环境保护的承诺。]]></description>
-      <guid>https://t.me/hn_summary/76762</guid>
-      <pubDate>Thu, 29 Feb 2024 04:54:20 GMT</pubDate>
+      <title>FBI 一直在使用推送通知令牌来识别匿名用户，导致 ar [...]</title>
+      <link>https://t.me/hn_summary/76812</link>
+      <description><![CDATA[FBI 使用推送通知令牌来识别匿名用户&lt; br/&gt;
+联邦调查局一直在使用推送通知令牌来识别匿名用户，从而逮捕了与儿童性虐待材料和其他犯罪相关的案件中的嫌疑人。这项技术涉及从苹果和谷歌等科技公司获取推送代币，这些代币可用于追踪用户。虽然执法官员认为这种方法是打击犯罪的重要工具，但隐私倡导者担心滥用和监视的可能性。这种有争议的做法已被用于各种刑事案件，包括与恐怖主义、毒品，甚至国会大厦骚乱有关的案件。推送代币的使用引发了有关隐私和执法机构滥用的可能性的问题。]]></description>
+      <guid>https://t.me/hn_summary/76812</guid>
+      <pubDate>Thu, 29 Feb 2024 14:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>在超高清电视逐渐成为常态的世界中，现实是大多数人 [...]</title>
-      <link>https://t.me/hn_summary/76761</link>
-      <description><![CDATA[你的电视太适合你了
-在超高清电视逐渐成为常态的世界里，现实情况是，由于人类视觉和客厅设计的限制，大多数人无法充分体会到 4K 分辨率的好处。尽管人们在推动 8K 等更高分辨率的发展，但事实是电视技术在图像质量方面已经达到了顶峰。技术与实际观看习惯之间的不匹配只会变得越来越严重，许多人在从事其他活动时将电视用作背景噪音。更多像素等于更好质量的想法是一个神话，也许现在是时候接受电视本来就很好的事实。]]></description>
-      <guid>https://t.me/hn_summary/76761</guid>
-      <pubDate>Thu, 29 Feb 2024 04:50:17 GMT</pubDate>
+      <title>在亚特兰大，三个企业房东拥有近 11% 的单户出租房屋，总计 [...]</title>
+      <link>https://t.me/hn_summary/76811</link>
+      <description><![CDATA[三家公司在佐治亚州亚特兰大拥有 19,000 套出租房屋 
+在亚特兰大，三个公司房东拥有近 11% 的单户出租房屋，总计超过 19,000 处房产。这种所有权的集中使这些公司对租户拥有巨大的市场影响力，从而导致了该市的经济适用房危机。有限责任公司复杂的所有权结构使得很难追踪财产与母公司之间的联系。由于管理层的层级关系，租户在与企业业主打交道时面临着挑战。在经济增长、经济适用房和宽松的租户保护的推动下，亚特兰大是美国最大的企业房东活动市场。佐治亚州立大学的研究人员旨在向公众公开他们的调查方法，以阐明这个问题。]]></description>
+      <guid>https://t.me/hn_summary/76811</guid>
+      <pubDate>Thu, 29 Feb 2024 14:33:58 GMT</pubDate>
     </item>
     <item>
-      <title>太空旅行世界的激动人心的消息！</title>
-      <link>https://t.me/hn_summary/76760</link>
-      <description><![CDATA[新型喷气发动机可在各种速度下提高效率，实现更便宜的轨道发射
-太空旅行世界的激动人心的消息！一种新的喷气发动机已经开发出来，可以在各种速度下提高效率，使轨道发射比以往任何时候都便宜。这项突破性技术将彻底改变我们探索太空的方式，为达到新的高度提供更具成本效益和可持续的解决方案。请继续关注有关这一改变游戏规则的开发的更多更新！ #space #jetengine #efficiency #orbitallaunches]]></description>
-      <guid>https://t.me/hn_summary/76760</guid>
-      <pubDate>Thu, 29 Feb 2024 04:46:12 GMT</pubDate>
+      <title>[媒体]谷歌正面临来自 30 多家欧洲媒体公司的 21 亿欧元诉讼，指控 [...]</title>
+      <link>https://t.me/hn_summary/76810</link>
+      <description><![CDATA[Google 因 30 多家欧洲媒体公司提起 2.1B 欧元诉讼
+谷歌正面临 30 多家欧洲媒体公司提起的 21 亿欧元诉讼，指控这家科技巨头存在不公平行为。这是在米斯特拉尔和微软之间达成一项有争议的人工智能协议的背景下发生的，突显了关于欧洲在科技行业中角色的持续争论。激烈的游说努力揭示了欧洲公司在不断变化的科技领域竞争所面临的挑战和机遇。]]></description>
+      <guid>https://t.me/hn_summary/76810</guid>
+      <pubDate>Thu, 29 Feb 2024 14:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇有力而原始的作品中，作者深入研究了无家可归的严酷现实和 [...]</title>
-      <link>https://t.me/hn_summary/76759</link>
-      <description><![CDATA[我不怕上帝，我害怕信用卡
-在这篇有力而原始的文章中，作者深入探讨了无家可归的严酷现实以及使其长期存在的系统性问题。作者强调了社区中一名无家可归者被谋杀的悲惨事件，对美国人抱怨症状而不是解决根本原因的方式提出了挑战。他们指出，房东和雇主是造成无家可归的主要原因，而不是人们普遍认为的药物滥用。作者还批评了经济适用房的缺乏以及便利店对社区的影响。他们呼吁采取整体方法来解决这些问题，并敦促提供真正的帮助和行动，而不仅仅是空洞的姿态。]]></description>
-      <guid>https://t.me/hn_summary/76759</guid>
-      <pubDate>Thu, 29 Feb 2024 04:42:09 GMT</pubDate>
+      <title>Apple TV Plus 计划将威廉·吉布森 (William Gibson) 的标志性赛博朋克小说《神经漫游者》改编成 10 部 [...]</title>
+      <link>https://t.me/hn_summary/76809</link>
+      <description><![CDATA[苹果正在将威廉·吉布森的《神经漫游者》改编成电视剧 
+Apple TV Plus 计划将威廉·吉布森的标志性赛博朋克小说《神经漫游者》改编成 10 集连续剧。该剧由制片人格雷厄姆·罗兰和导演 JD·迪拉德加盟，讲述超级黑客凯斯和他的搭档莫莉应对数字间谍活动和高风险犯罪的故事。这并不是《神经漫游者》的第一次改编，该剧最初于 1984 年首次亮相，它加入了 Apple TV Plus 上不断增长的科幻内容阵容。这一消息引起了该类型粉丝的兴奋，他们渴望看到这个经典故事将如何搬上银幕。]]></description>
+      <guid>https://t.me/hn_summary/76809</guid>
+      <pubDate>Thu, 29 Feb 2024 14:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>几何代数使用 Clifford p [...] 将传统标量代数扩展到更高维度</title>
-      <link>https://t.me/hn_summary/76758</link>
-      <description><![CDATA[三维几何代数
-几何代数使用 Clifford 产品将传统的标量代数扩展到更高的维度。它为物理理论和数学技术提供了统一的语言，并在相对论场论中得到应用。然而，支持者可能太快地跳入量子物理学等专业学科。在三维空间中，基向量用于定义向量和点积等运算。楔积取代了叉积，代表有向平面段。 Clifford 积将点积和楔积组合成多向量，提供结合性和可逆性。几何代数挑战了传统惯例，并为数学物理提供了新的视角。 （根据 32% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76758</guid>
-      <pubDate>Thu, 29 Feb 2024 04:38:06 GMT</pubDate>
+      <title>news.ycombinator.com 上帖子的作者正在 Google 恢复出厂设置后寻求帮助 [...]</title>
+      <link>https://t.me/hn_summary/76808</link>
+      <description><![CDATA[问 HN：Google 变砖了我死去兄弟的手机&lt; br/&gt;
+news.ycombinator.com 上帖子的作者是在 Google 的恢复出厂设置保护功能将他们无法使用已故兄弟的 Google Pixel 6 手机后，他们寻求帮助。尽管提交了死亡证明等文件，但谷歌的支持只提供了有限的选择，并建议获得美国法院的命令来解锁手机。作者对谷歌在此过程中缺乏同理心和透明度表示失望，甚至诉诸法律帮助并尝试各种方法绕过保护但没有成功。作者衷心请求通过使用手机来纪念他们的兄弟，这突显了他们面临的情感和技术挑战。]]></description>
+      <guid>https://t.me/hn_summary/76808</guid>
+      <pubDate>Thu, 29 Feb 2024 14:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
