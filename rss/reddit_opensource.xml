@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 28 Feb 2024 18:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 00:48:03 GMT</lastBuildDate>
+    <item>
+      <title>我需要一些关于我的开源情况的建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b2lwwa/i_need_some_suggestions_regarding_my_open_source/</link>
+      <description><![CDATA[大家好，我正在经营一家软件开发机构，我们有一个 Uber Eats 克隆产品。我们开源了前端，同时保留了后端的专有性，这样我们就可以拥有一些商业模式。前端仍然可以获取数据和所有内容，因为 API 是公共的，但是后端的代码只有在购买后才可用。 我知道它不是完全开源的，它更倾向于开放核心，但是什么是开源？我无法完全开源整个项目并提供SAAS解决方案，因为大多数客户都有兴趣自己运行该项目，并希望根据自己的需求对软件进行一些更改。 关于某种方式为了货币化和支付成本账单，该模型运行良好，而且它还向客户验证了我们公司针对我们主要公司的不同项目的软件开发能力。然而，我仍然质疑我们正在构建的叙述，并多次质疑自己这是否是正确的方法。 有关上下文，这里是存储库的链接： com/ninjas-code-official/food-delivery-multivendor&quot;&gt;https://github.com/ninjas-code-official/food-delivery-multivendor 期待您的所有建议和反馈。   由   提交/u/sharan_dev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b2lwwa/i_need_some_suggestions_regarding_my_open_source/</guid>
+      <pubDate>Thu, 29 Feb 2024 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>打开 EDX</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b2ktfi/open_edx/</link>
+      <description><![CDATA[为什么 Open Edx 不是主流？我认为它类似于 Wix 课程。我觉得需要大量的在线开放课程，所以我想以开源者的身份通过 Open Edx 来帮助一些朋友。   由   提交/u/Far_Star_6475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b2ktfi/open_edx/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 OSS 来说，有一个好消息：我已有 10 年历史的 OSS 项目刚刚达到 185,000 每月活跃用户</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b2hv5e/on_a_good_note_for_oss_my_10_year_old_oss_project/</link>
+      <description><![CDATA[       由   提交/u/Complete-Stage5815  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b2hv5e/on_a_good_note_for_oss_my_10_year_old_oss_project/</guid>
+      <pubDate>Wed, 28 Feb 2024 21:22:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想创建一个新的开源 CMS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b2fwke/id_like_to_create_a_new_cms_opensource/</link>
+      <description><![CDATA[大家好，我想创建一个类似于 https://www.storyblok.com/。 为什么？我想帮助开发者和公司获得摆脱 Wordpress。 现在每个人都想要一些直观的拖放界面，如 Shopify 或任何其他可视化编辑器，但不是 WP。 对于一个简单的公司网站，您将需要至少 10 个插件，这将影响您的网站速度和性能...谁知道这些插件提供的安全性..  这是一个好主意吗？ CMS 在市场上有新的定位吗？ 谢谢，分享您的意见。  ​   由   提交/u/Commercial_Dig_3732   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b2fwke/id_like_to_create_a_new_cms_opensource/</guid>
+      <pubDate>Wed, 28 Feb 2024 20:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Handshake：带有 200 多个 API 的 OAuth 的 Next.js 样板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b2er38/handshake_nextjs_boilerplate_for_oauth_with_200/</link>
+      <description><![CDATA[本周我们将开源一个名为 Handshake 的项目：一个 Next.js 应用程序，可通过 200 多个 API 处理 OAuth 流程。请访问：github.com/ Fiberinc/handshake。 其工作原理如下：  克隆存储库 修改 app/options.ts 以配置您要使用的 API 部署到子域，例如handshake.yourdomain.com（或任何地方） 然后，获取例如。来自用户的 Reddit 令牌，将其发送到 HANDSHAKE/api/auth/reddit/redirect。 应用程序将处理授权和令牌交换，然后将用户发送回给您。   握手有助于集成，而不是身份验证。想想“连接你的 Github 帐户”按钮，而不是“使用 Github 登录” （next-auth 已经很棒了！）。 我们一直在内部使用 Handshake在 Fiber 工作了好几个月，反馈非常好。但现在这个产品是我们赚钱的方式，所以当公司要求使用它时，我们总是不得不拒绝他们。现在我们将其开源，他们可以免费自行托管。 我们这个项目的北极星是易于使用。我们构建它是为了适应我们内部使用的堆栈：Typescript、Next.js、部署到 Vercel（很快还有其他 PaaS）等。我们在构建 Handshake 之前考虑的其他解决方案要么太难设置（Docker、Kubernetes 等），要么尝试过做太多事情（例如，需要数据库、开放核心来赚钱等）。 查看handshake.cool我们的演示和支持的 API 列表。期待您的反馈和关于如何改进的想法！   由   提交/u/mrbtie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b2er38/handshake_nextjs_boilerplate_for_oauth_with_200/</guid>
+      <pubDate>Wed, 28 Feb 2024 19:21:59 GMT</pubDate>
+    </item>
     <item>
       <title>Wiggle Animate - 适用于 Web 浏览器的基于矢量的运动图形动画工具。</title>
       <link>https://www.reddit.com/r/opensource/comments/1b2bg18/wiggle_animate_a_vectorbased_motion_graphics/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我看过的一个有趣的视频中有一句话是这样的：“当你不能使用你没有使用过的开源工具时，世界会变成什么样子？”不将其作为托管服务构建和转售吗？这是一个经典的赚钱计划！”我想知道一些这样做的公司（无论是活着的还是已经死了）的例子。示例可以很宽松（即公司实际上确实为产品增加了很多价值...公司确实贡献了一些...等等）  &amp;# 32；由   提交/u/k0mi55ar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b1mtqo/what_are_some_examples_of_companies_that_sell/</guid>
       <pubDate>Tue, 27 Feb 2024 20:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 2FA 应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b1lgug/best_2fa_app/</link>
-      <description><![CDATA[嗨，Android 上最好的开源 2FA 应用是什么？  我看到了一些，但我能相信什么？ 谢谢   由   提交 /u/MatineHen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b1lgug/best_2fa_app/</guid>
-      <pubDate>Tue, 27 Feb 2024 20:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>tea.xyz 导致开源项目出现大量垃圾邮件拉取请求</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b1ifvc/teaxyz_causes_a_flood_of_spam_pull_requests_to/</link>
-      <description><![CDATA[       由   提交 /u/EpiscopalPerch   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b1ifvc/teaxyz_causes_a_flood_of_spam_pull_requests_to/</guid>
-      <pubDate>Tue, 27 Feb 2024 18:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以为大学课程任务做出贡献的项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b1i9mi/finding_projects_to_contribute_to_for_task_in/</link>
-      <description><![CDATA[您好！我和我的 3 名小组成员正在学习软件开发课程，作为计算机科学硕士课程的一部分。我们当前课程的任务是找到开源项目中的问题并通过解决它来做出贡献。我现在想知道你们中是否有人对开源项目有建议，或者甚至是我们可以解决的具体问题？也许在某些项目中你是你自己的一部分？该问题最好与某种重构有关，并且应该是不平凡的，并且我们最好在 java 中工作。另请注意，我们有大约 1 周的时间来处理该问题。感谢您的任何回答或建议！   由   提交 /u/Bazsma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b1i9mi/finding_projects_to_contribute_to_for_task_in/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>本文介绍了与开放模型一起使用的风险评估框架。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b1i0lr/this_paper_introduces_a_risk_assessment_framework/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b1i0lr/this_paper_introduces_a_risk_assessment_framework/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放式办公桌</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b1hou1/opendesk/</link>
-      <description><![CDATA[你好，亲爱的社区。你们中是否有人尝试过安装 OpenDesk，这是德国联邦内政部管理的主权工作场所 (OpenSource)？ openCode   由   提交/u/Specialist-Number400   /u/Specialist-Number400 reddit.com/r/opensource/comments/1b1hou1/opendesk/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b1hou1/opendesk/</guid>
-      <pubDate>Tue, 27 Feb 2024 17:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
