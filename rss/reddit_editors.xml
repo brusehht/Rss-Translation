@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 01 Mar 2024 09:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 12:19:25 GMT</lastBuildDate>
+    <item>
+      <title>周五有趣/沮丧；发布本周 3 月 1 日星期五的有趣/令人沮丧的模因/故事</title>
+      <link>https://www.reddit.com/r/editors/comments/1b3sq2r/funfrustration_friday_post_your_funnyfrustrating/</link>
+      <description><![CDATA[一周中有很多天都很严肃。希望不是今天。希望今晚你不会加班到周末。 不过周五是为了好玩。在这里发布您最喜欢的有趣项目/模因/令人沮丧的故事。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b3sq2r/funfrustration_friday_post_your_funnyfrustrating/</guid>
+      <pubDate>Fri, 01 Mar 2024 12:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化 YouTube 上传的视频质量：Premiere Pro 到 DaVinci Resolve</title>
+      <link>https://www.reddit.com/r/editors/comments/1b3s6yb/optimizing_video_quality_for_youtube_uploads/</link>
+      <description><![CDATA[我一直在 Premiere Pro 中编辑视频，然后将其导出为 Apple ProRes 4444（遵循 Waqas Qazi 的“Bake &amp; Blake”工作流程）在 DaVinci Resolve 中进行评分。不过，我遇到了一些可以使用一些指导的问题。首先，我从 Premiere Pro 导出的 Apple ProRes 文件的文件大小非常大，有时 3 个文件最多可达 20GB。分钟的 4K 视频。我不确定这是否是由于源媒体或其他因素造成的。其次，在使用设置对DaVinci Resolve中的视频进行分级后Waqas Qazi推荐，我使用附图所示的设置导出它。但是，当我将视频带回 Premiere Pro 并将其上传到 YouTube 时，质量显着降低。我一直听说 H.264 是网络上传的最佳编解码器，但一些消息来源推荐 Apple ProRes 。我对此处的最佳方法感到有点困惑。有人可以建议 YouTube 上传的最佳质量设置，以确保上传后质量保持不变吗？我非常信任 Waqas Qazi 的建议，因为它们有 Google 文章的支持本身。我只是不确定在这种情况下该怎么办。 提前感谢您的帮助！   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b3s6yb/optimizing_video_quality_for_youtube_uploads/</guid>
+      <pubDate>Fri, 01 Mar 2024 11:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>维护导入 Avid 的文件夹结构</title>
+      <link>https://www.reddit.com/r/editors/comments/1b3rbja/maintaining_folder_structure_importing_into_avid/</link>
+      <description><![CDATA[大家好， 有谁知道是否有办法在导入视频文件的同时在 Avid 中维护文件夹/树结构？树的最后一个文件夹是 bin 名称。 如果之前有人问过这个问题但我找不到任何东西，我深表歉意。 非常感谢任何帮助。 &lt; p&gt;系统规格：Apple M1 Max Mac Studio、Avid Media Composer 2023.12   由   提交 /u/lukecodec   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b3rbja/maintaining_folder_structure_importing_into_avid/</guid>
+      <pubDate>Fri, 01 Mar 2024 10:41:38 GMT</pubDate>
+    </item>
     <item>
       <title>我犯错了吗</title>
       <link>https://www.reddit.com/r/editors/comments/1b3naha/did_i_make_a_mistake/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我找到了 3 种不同的军团模型，但我不确定应该选择哪一种。我不想买太多，但我也不想少付钱。您推荐我的工作使用以下哪一款？ 我将使用的软件：Premiere Pro 2024、After Effects 2024、Illustrator 2024。 工作：视频编辑和调色大部分是 1080p，偶尔有 4K。大多数视频时长为 5-20 分钟。 2022 Legion 5 Pro AMD：Ryzen 7 5800H 4.4 GHz ‎8 核/16 线程 |秦皇岛 |具有 140TGP 的 RTX 3070 | 32 GB 内存。价格：1267 美元/105,000 卢比。 2022 Legion 5 Pro 英特尔：i7-12700H 14 核 (6P + 8E) 20 线程，24 MB 缓存 |秦皇岛 | RTX 3070 Ti 8 GB 带 150TGP | 32GB 内存。价格：1749 美元/145,000 卢比。 2024 Legion 5 Pro 英特尔：i7-14650HX 处理器 16 核(8P+8E) 24 线程，32 MB 缓存 |秦皇岛 | RTX 4060 8GB 带 150W TGP | 32GB 内存。价格：1797 美元/149,000 卢比。   由   提交/u/Professional_Act7992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b2yk3t/can_you_help_me_pick_a_laptop_for_video_editing/</guid>
       <pubDate>Thu, 29 Feb 2024 11:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁从公司上班变成个体户的吗？您是如何应对这一转变并寻找客户的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b2yjz3/anyone_who_went_from_working_for_a_company_to/</link>
-      <description><![CDATA[我目前在一家公司全职编辑（UGC 内容和动态图形），我正在考虑明年成为自由职业者，然后可能会添加3D 动画符合我的技能。  我将能够使用我的作品集中的视频，但我有点担心如何寻找客户？今年我可以做些什么来为这一变化做好准备吗？ 我之前曾在不同的行业做过个体户，所以生活方式和商业方面的事情不会是全新的。  非常感谢任何第一手经验和建议！   由   提交 /u/jaaambi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b2yjz3/anyone_who_went_from_working_for_a_company_to/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>存储素材的最佳方式（外部）？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b2x06s/best_way_to_store_footage_externally/</link>
-      <description><![CDATA[存储和访问我们积累的 TB 级素材的最佳方式是什么？  我最近从桌面迁移到桌面具有大量内部 HDD 和硬盘的 PC SSD 到 1TB M2 Max Macbook Pro 需要新的解决方案来外部存储我以前和未来的所有项目 + 原始媒体文件。 我的 NAS 有点慢，但不幸的是不能将以太网电缆连接到路由器，直到我搬家。 理想情况下，我需要可以通过办公桌上的 Thunderbolt 4 连接到的设备。  我现在正在尝试在 Raid 5 中设置 OWC Thunder bay 8 这希望是我所需要的，但我在验证磁盘方面遇到了问题，现在有点担心 SoftRaid 是一项额外成本，并质疑它的可靠性。 （如果 SoftRaid 失败，我将来可能会失去访问权限吗？） 我开始怀疑是否值得进行 Raid 设置并恢复到一系列标记的外部硬盘驱动器。虽然访问不太方便，但设置起来会节省很多时间和麻烦。 您找到好的解决方案了吗？   由   提交 /u/ActualWillow3199   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b2x06s/best_way_to_store_footage_externally/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>周四提示！ 2 月 29 日星期四当周</title>
-      <link>https://www.reddit.com/r/editors/comments/1b2wsz0/tip_thursday_week_of_thu_feb_29/</link>
-      <description><![CDATA[过去一周你学到了一些新的/很酷的（或者可能只是显而易见的）东西吗？ 将你的工具**放入括号 [Avid、Premiere、FCPX、After Effects、Resolve] 以及后面的说明。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b2wsz0/tip_thursday_week_of_thu_feb_29/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
