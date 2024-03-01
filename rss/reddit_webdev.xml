@@ -4,11 +4,32 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 18:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 21:12:22 GMT</lastBuildDate>
+    <item>
+      <title>对于小型个人项目来说，Spring 是笨重还是规模较小？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b44ojx/spring_unwieldy_or_fine_at_scale_for_small/</link>
+      <description><![CDATA[大家好，我正在构建一个个人全栈 Web 应用程序项目来练习我的 React 和 API 开发技能。想想一个市场网络应用程序。我从 Spring Boot 开始，认为启动我所需要的只是一些 CRUD 端点。但现在我意识到我需要更多的功能和 OAuth 身份验证，甚至可能是一个不错的管理控制台，供我管理报告的帖子和批准帖子等内容。 我知道 spring 在企业环境中效果很好，但是对于我相对较小的个人项目，当我可以使用其他工具集或框架轻松完成此操作时，我是否在困难模式下玩？或者 Spring 真的是我想要的吗？   由   提交/u/wee深度  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b44ojx/spring_unwieldy_or_fine_at_scale_for_small/</guid>
+      <pubDate>Fri, 01 Mar 2024 20:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿你们。我想为我的儿子建立一个非盈利基金会网站，他于 2 月 4 日在划皮划艇时不幸身亡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b43xqu/hey_yall_im_wanting_to_build_a_non_profit/</link>
+      <description><![CDATA[我儿子因划皮划艇时未穿救生衣而溺水身亡。他是一个典型的 17 岁年轻人，认为自己是隐形的。我和我的妻子正在成立一个基金会，以提高青少年和年轻人对安全装备的认识。我想开发一个网站，但我是一个愚蠢的消防员，知道谷歌就是这样的。对于建设网站的公司来说，有什么好的建议吗？我应该避免什么。   由   提交/u/bbake33  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b43xqu/hey_yall_im_wanting_to_build_a_non_profit/</guid>
+      <pubDate>Fri, 01 Mar 2024 20:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要体育赛事安排网站的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b41nr2/need_help_with_sports_scheduling_website/</link>
+      <description><![CDATA[寻求一些建议。我正在考虑合并我所在地区高中橄榄球队的每周赛程/比分。大约有45支球队。  我希望列出每个团队的日程安排，并提供一种更新他们每周得分的方法，从而自动更新他们的排名。  CoachT.com 是一个为田纳西州做类似事情的网站。  我自己研究过，但我实在找不到一个好的方法。我知道我可能缺少一种简单的方法。 目前我已经安装了 Wordpress。我可以访问 Softaculous。如果有更简单的方法的话，我不想从 Wordpress 切换过来。  我已经尝试过用于团队日程安排的 Wordpress 插件，但它们都不能满足我的需要。 任何建议将不胜感激。  谢谢！   由   提交/u/Ok_Training4264   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b41nr2/need_help_with_sports_scheduling_website/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:32:21 GMT</pubDate>
+    </item>
     <item>
       <title>如何向客户展示此信息</title>
       <link>https://www.reddit.com/r/webdev/comments/1b40og9/how_to_present_this_info_to_a_client/</link>
-      <description><![CDATA[      客户从 PageSpeed Insights 获得总体页面性能数据以及速度指数。 主要焦点是速度指数，但性能数据仍然没有达到绿色。 预算不足以让我进行研究并尝试修复所有性能指标并使它们全部变为绿色。 如何才能我继续吗？ ​ https://preview.redd.it/c08a82vkgrlc1.png?width=1025&amp;format=png&amp;auto=webp&amp;s=8ac4c8f9687c6ae08b25ead87e3d6fdd73 2a8388 &lt; a href=&quot;https://preview.redd.it/d0d38zukgrlc1.png?width=987&amp;format=png&amp;auto=webp&amp;s=9d6a4f87f8e900d50b399deaa2b9bdc5a11cc737&quot;&gt;https://preview.redd.it/d0d38zukgrlc1.png?width =987&amp;format=png&amp;auto=webp&amp;s=9d6a4f87f8e900d50b399deaa2b9bdc5a11cc737   由   提交/u/bartsimpson09   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      客户从 PageSpeed Insights 获得总体页面性能数据以及速度指数。 主要焦点是速度指数，但性能数据仍然没有达到绿色。 预算不足以让我进行研究并尝试修复所有性能指标并使它们全部变为绿色。 如何才能我提供这些信息吗？ ​ https://preview.redd.it/c08a82vkgrlc1.png?width=1025&amp;format=png&amp;auto=webp&amp;s=8ac4c8f9687c6ae08b25ead87e3d6fdd73 2a8388 &lt; a href=&quot;https://preview.redd.it/d0d38zukgrlc1.png?width=987&amp;format=png&amp;auto=webp&amp;s=9d6a4f87f8e900d50b399deaa2b9bdc5a11cc737&quot;&gt;https://preview.redd.it/d0d38zukgrlc1.png?width =987&amp;format=png&amp;auto=webp&amp;s=9d6a4f87f8e900d50b399deaa2b9bdc5a11cc737   由   提交/u/bartsimpson09   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b40og9/how_to_present_this_info_to_a_client/</guid>
       <pubDate>Fri, 01 Mar 2024 17:54:24 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我对 Web 服务有点不了解。大概十年前，我开始在 Namecheap 上购买域名。我的大多数网站只是 GitHub 页面。我大约 5 年前开始使用 Netlify，因为他们是唯一拥有不错的免费套餐的公司之一，而且他们的 Forms API 非常适合我网站上的留言簿功能。我还使用 Google Analytics 来一目了然地获取数据，我不是营销人员什么的。我曾经使用 Cloudflare 进行 DNS，但意识到它太过分了。 无论如何，似乎在过去 5 年左右的时间里，Cloudflare 已经添加了所有这些服务。为了简单起见，我正在考虑将所有内容（Namecheap、Netlify、Google Analytics）整合到 Cloudflare 中。 有人这样做过吗？这是一种什么样的体验？ FWIW 这是针对一些静态网站、简单的网页游戏，所有这些都是我作为程序员的日常工作中独立开发的。尽管我对留言簿、在线排行榜等简单的无服务器数据库内容很感兴趣。   由   提交/u/O0OO00O0OO0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b3xd8i/is_anyone_using_cloudflare_for_everything_domain/</guid>
       <pubDate>Fri, 01 Mar 2024 15:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>你所知道的志愿服务组织</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3xavv/volunteering_organizations_that_you_know_about/</link>
-      <description><![CDATA[大家好，最近我受聘为一名软件工程师，现在正在寻找如何获得额外经验的方法。我发现一些非营利组织的开源和志愿服务是很好的起点。那么，你们能建议我在哪里可以找到这样的组织吗？提前致谢！   由   提交/u/anevskii  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3xavv/volunteering_organizations_that_you_know_about/</guid>
-      <pubDate>Fri, 01 Mar 2024 15:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>为草坪护理业务创建一个网站。需要有关使用哪种网络托管的建议的帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3x9f2/creating_a_website_for_a_lawn_care_business_need/</link>
-      <description><![CDATA[我已尝试使用 Shopify 构建我的网站，但我网站的目的不是通过其销售商品。目标是让客户通过可点击的按钮给我打电话，或者通过他们填写的表格留下估价请求。我使用 Shopify 完成了大约 50% 的工作，但很难编辑网站的具体内容，它更像是通用主题。  我听说过 Wordpress，但不想像使用 Shopify 那样墨守成规。我还听说你可以用像谷歌这样的网站制作一个？没有代码经验，只需要一些易于使用的东西来自定义   由   提交/u/Mean-Strawberry-2045   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3x9f2/creating_a_website_for_a_lawn_care_business_need/</guid>
-      <pubDate>Fri, 01 Mar 2024 15:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将网站上线</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3wxqz/need_help_with_putting_a_website_online/</link>
-      <description><![CDATA[最近，我为朋友的企业编写了一个网站，这是我第一次真正将其放到网上。我从来没有这样做过，除了我免费放在 000webhosting 上的私人项目，这很容易。 我们需要购买域名和托管，以及进行 SEO 优化，这是我的以前从未做过。有太多的选择和小细节需要我考虑和注意，我什至不知道从哪里开始，做什么...... 这是一个只有几个页面的静态网站还有图片，整个网站的大小大约是5mb，我做了一些图片压缩后会更小，没什么太复杂的。  那么，有经验的人可以指导我并让我变得更简单吗？   由   提交/u/munru1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3wxqz/need_help_with_putting_a_website_online/</guid>
-      <pubDate>Fri, 01 Mar 2024 15:26:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
