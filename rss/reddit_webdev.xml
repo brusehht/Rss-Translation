@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 03:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 06:15:53 GMT</lastBuildDate>
+    <item>
+      <title>我将如何为新的客户端 API Web 标准做出贡献？这还值得追求吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3n4io/how_would_i_go_about_contributing_to_a_new/</link>
+      <description><![CDATA[我是 webdev 的新手，最近遇到的一个问题是浏览器之间对 jpg 的编码不一致。具体来说，浏览器编码的 jpeg 的色度子采样取决于浏览器使用的一些质量值（https://github.com/whatwg/html/issues/5395）。我意识到 Chrome 可以更改其实现，但某些用户将受益于能够指定色度子采样值。 为了解决这个问题，我使用了 imagemagick 的 wasm 端口。但是，我仍然想在 toBlob() 和 toDataURL() Canvas API 中实现这一点，因为我认为学习如何实现它会很酷这个过程有效。  但似乎不值得实现这个 API，因为它只能完成当前可用 WASM 库所能完成的一小部分。   由   提交/u/Specialist-Address98  /u/Specialist-Address98 reddit.com/r/webdev/comments/1b3n4io/how_would_i_go_about_contributing_to_a_new/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3n4io/how_would_i_go_about_contributing_to_a_new/</guid>
+      <pubDate>Fri, 01 Mar 2024 06:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Word文档转换为html后是否可以在网页中显示其所有格式和布局？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3m587/is_it_possible_to_display_word_document_in_web/</link>
+      <description><![CDATA[我想通过将 Word 文档转换为 html 来在网页中显示它，但它丢失了格式和布局。  有人在不丢失这些细节的情况下做到了这一点吗？   由   提交/u/The_artist_999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3m587/is_it_possible_to_display_word_document_in_web/</guid>
+      <pubDate>Fri, 01 Mar 2024 05:08:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>一家面向公众的价值数十亿美元的公司在 Google“PageSpeed”Insights 上的绩效得分应该为 3 分吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3m4v5/is_there_any_reason_a_public_facing_billion/</link>
+      <description><![CDATA[一家大型上市公司在我的 Pagespeed Insights 测试中的绩效数字为 3。他们不知道测试地点吗？他们不在乎吗？他们直接向公众销售。 不会透露名称 谢谢   由   提交 /u/CalvinFramedHobbes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3m4v5/is_there_any_reason_a_public_facing_billion/</guid>
+      <pubDate>Fri, 01 Mar 2024 05:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是网络邮件的正常界面吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b3lnds/is_this_the_normal_interface_with_webmail/</link>
+      <description><![CDATA[      我正在与一个拥有大量电子邮件的客户打交道。我正在努力了解正在发生的事情并解决它。据我了解，每个浏览器客户端都有自己的访问电子邮件的方式，我试图弄清楚这是否有意义或看起来像我应该期望的那样。我正在通过检查器查看代码。当试图查明这是否有效时，有什么需要注意的吗？客户对技术相当脱节。提前致谢！  https://preview.redd .it/6hdulmyujnlc1.png?width=865&amp;format=png&amp;auto=webp&amp;s=cd45d9dd763fc4fd9a62740f4b52db2cb3c0fb0f   由   提交 /u/GOD_LIKE_WOW   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b3lnds/is_this_the_normal_interface_with_webmail/</guid>
+      <pubDate>Fri, 01 Mar 2024 04:41:45 GMT</pubDate>
+    </item>
     <item>
       <title>技术技能被高估了。专注于你的态度。</title>
       <link>https://www.reddit.com/r/webdev/comments/1b3js76/technical_skills_are_overrated_focus_on_your/</link>
@@ -15,14 +43,14 @@
     <item>
       <title>后端开发人员需要多长时间来学习一个新框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b3j5nj/how_long_does_it_take_for_backend_dev_to_learn_a/</link>
-      <description><![CDATA[我问这个问题是因为我听到很多开发者说你应该选择一种语言并深入研究它，我一直在这样做想知道什么时候你必须找到另一份工作或其他什么。假设另一家公司使用另一个后端框架。您通常需要多长时间才能学习另一门课程？如果您了解其中的概念，通常会产生很大的遗留问题吗？   由   提交/u/DryMention4449   [链接] [评论]]]></description>
+      <description><![CDATA[我问这个问题是因为我听到很多开发人员说你应该选择一种语言并深入研究它，我一直在这样做想知道什么时候你必须找到另一份工作或其他什么。假设另一家公司使用另一个后端框架。您通常需要多长时间才能学习另一门课程？如果您了解其中的概念，通常会产生很大的遗留问题吗？   由   提交/u/DryMention4449   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b3j5nj/how_long_does_it_take_for_backend_dev_to_learn_a/</guid>
       <pubDate>Fri, 01 Mar 2024 02:36:26 GMT</pubDate>
     </item>
     <item>
       <title>简单的问题：如果我超出带宽限制，您可以让我的网站离线吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b3irqv/simple_question_can_you_just_take_my_site_offline/</link>
-      <description><![CDATA[在 Netlify 表单上交叉发布  我真的不明白为什么我不能只是对您要更改的所有类别设置严格限制。我很乐意为企业帐户付费，但我宁愿我的网站离线，也不愿收取超出我承受能力的费用。 Netlify 关于此问题的回应没有中肯 来自首席执行官  目前我们的政策是，在与攻击模式不匹配的流量高峰期间不会关闭免费网站，而是在事后免除因合法错误而产生的任何账单。  对于一位论坛用户询问如何限制带宽以避免 DDoS 造成的高额计费？的回复读起来特别令人沮丧。 用户关心的问题：如果我受到 DDOS 攻击且使用没有限制我将不得不支付很多费用  我总是担心“按使用付费”服务没有限制。  我认为对于“按使用付费”的网站来说，让用户设置使用限制是非常合理的，也是人们所期望的。 Netlify 员工的回应 “别担心这种事不会发生在你身上”  虽然 DDoS 攻击会发生，但它们通常不针对我们的入门级用户。  “如果是你的错”  与您讨论您要求我们免费托管的网站类型（如果它可能吸引这种关注），我们可能会从中受益。  “如果您支付的费用比您预期的要高，这是好事，人们访问您的网站  现在，如果您托管的内容像病毒一样传播 - 恭喜！我们假设这不一定是坏事 - 对吧？  “不是我们的问题，你应该知道你是否会受到 DDOS”  &lt; p&gt;所以，简而言之，我想通过以下问题来回答：a.）这是可能发生在您身上的现实事情吗？ b.) 非常欢迎您自行研究减轻 DDoS 攻击或病毒内容影响的选项！  我最喜欢的是：“我们的工作是保持您的网站正常运行，抱歉，您不喜欢这样”  我们的首要任务是保持您的网站正常运行 - 这就是我们的业务所在。如果这不是一种适合您并改变您与我们合作的决定的方法，我理解。  这是一个非常简单的请求，让我设置永远不必支付费用的限制。比我预期或同意的多一毛钱。看来这个决定是基于一种掠夺性的商业实践，目的是让人们支付更多费用，而不是基于无法解决的困难工程问题。 Netlify 服务看起来非常好，是我的第一选择，但我会不注册“无限制”费用。我也不会只是“相信”如果出现问题，Netlify 会原谅我的账单。 我只是想看到 Netlify 做得更好。只需让我设置使用限制并获得更好的客户服务即可。   由   提交/u/YogurtCloset47   [链接] [评论]]]></description>
+      <description><![CDATA[在 Netlify 表单上交叉发布  我真的不明白为什么我不能只是对您要更改的所有类别设置严格限制。我很乐意为企业帐户付费，但我宁愿我的网站离线，也不愿收取超出我承受能力的费用。 Netlify 关于此问题的回应没有中肯 来自首席执行官  目前我们的政策是，在与攻击模式不匹配的流量高峰期间不会关闭免费网站，而是在事后免除因合法错误而产生的任何账单。  对于一位论坛用户询问如何限制带宽以避免 DDoS 造成的高额计费？的回复读起来特别令人沮丧。 用户关心的问题：如果我受到 DDOS 攻击且使用没有限制我将不得不支付很多费用  我总是担心“按使用付费”服务没有限制。  我认为对于“按使用付费”的网站来说，让用户设置使用限制是非常合理的，也是人们所期望的。 Netlify 员工的回应 “别担心这种事不会发生在你身上”  虽然 DDoS 攻击会发生，但它们通常不针对我们的入门级用户。  “如果它是你的错”  与您讨论您要求我们免费托管的网站类型（如果它可能吸引这种关注），我们可能会从中受益。  “如果您支付的费用比您预期的要高，这是好事，人们访问您的网站  现在，如果您托管的内容像病毒一样传播 - 恭喜！我们假设这不一定是坏事 - 对吧？  “不是我们的问题，你应该知道你是否会受到 DDOS”  &lt; p&gt;所以，简而言之，我想通过以下问题来回答：a.）这是可能发生在您身上的现实事情吗？ b.) 非常欢迎您自行研究减轻 DDoS 攻击或病毒内容影响的选项！  我最喜欢的是：“我们的工作是保持您的网站正常运行，抱歉，您不喜欢这样”  我们的首要任务是保持您的网站正常运行 - 这就是我们的业务所在。如果这不是一种适合您并改变您与我们合作的决定的方法，我理解。  这是一个非常简单的请求，让我设置永远不必支付费用的限制。比我预期或同意的多一毛钱。看来这个决定是基于一种掠夺性的商业实践，目的是让人们支付更多费用，而不是基于无法解决的困难工程问题。 Netlify 服务看起来非常好，是我的第一选择，但我会不注册“无限制”费用。如果确实出现问题，我也不会只是“相信”Netlify 会原谅我的账单。 我只是想看到 Netlify 做得更好。只需让我设置使用限制并获得更好的客户服务即可。   由   提交/u/YogurtCloset47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b3irqv/simple_question_can_you_just_take_my_site_offline/</guid>
       <pubDate>Fri, 01 Mar 2024 02:18:00 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>如果流量过多，您可以创建一个简单的 shell 脚本来关闭您的 VPS</title>
       <link>https://www.reddit.com/r/webdev/comments/1b3igkt/you_can_create_a_simple_shell_script_to_shutdown/</link>
-      <description><![CDATA[最近看到一些帖子，内容是人们因 ddos​​ 攻击而被收取巨额费用。认为如果我们收到异常流量，脚本可以简单地完成关闭服务器的工作。事实证明这很容易做到。 就在这里分享它，以 5 分钟间隔运行它作为 cronjob，如果在此期间您获得超过 1GB 的流量，它会简单地关闭您的服务器时间。非常简单，实际上只是一个概念证明，也许有人可以将其变成一个合适的开源应用程序？ https://github.com/junzhengca/traffic-fuse   由   提交/u/Exciting_Session492   [链接] [评论]]]></description>
+      <description><![CDATA[最近看到一些帖子，内容是人们因 ddos​​ 攻击而被收取巨额费用。认为如果我们收到异常流量，脚本可以简单地完成关闭服务器的工作。事实证明这很容易做到。 就在这里分享它，以 5 分钟间隔运行它作为 cronjob，如果在此期间您的流量超过 1GB，它将简单地关闭您的服务器时间。非常简单，实际上只是一个概念证明，也许有人可以将其变成一个合适的开源应用程序？ https://github.com/junzhengca/traffic-fuse   由   提交/u/Exciting_Session492   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b3igkt/you_can_create_a_simple_shell_script_to_shutdown/</guid>
       <pubDate>Fri, 01 Mar 2024 02:03:24 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>因为这些垃圾，我再也无法忍受在科技行业工作了（咆哮？）</title>
       <link>https://www.reddit.com/r/webdev/comments/1b3hvq8/i_cant_stand_working_in_tech_anymore_because_of/</link>
-      <description><![CDATA[我被几家失败的初创公司解雇，然后从一份合同跳到另一份合同大约一年半后，正在寻找一份新工作。我已经准备好接受另一个全职职位，在那里我可以放松一下，也许可以尝试一些新的东西，因为我对全栈网络应用程序的工作感到非常厌倦。 我看到一家公司正在招聘销售人员开发人员。听起来很有趣，而且公司看起来相当稳定。我从未与销售人员有过任何互动。从未使用过它，从未见过为它做过任何工作，我也不知道如何为其编写代码。他们的中层职位需要 4 年以上的 Salesforce 经验，初级职位需要一年的一般开发经验。我的生活开支非常低，所以薪水不是问题，所以我申请了 Jr 职位，认为我可以在 Salesforce 方面获得一些经验，也许可以继续努力，或者如果没有别的办法，就休息几年吧从初创公司持续的压力中恢复过来。 我接到回电，他们询问我的经历，并立即说“哦，抱歉，你对于 Jr 职位的资历过高，我们不能雇用任何拥有以上经验的人”。 3 年开发经验”。我想好吧...我没有 Salesforce 的经验...那么我有资格担任中级职位吗？ “哦，不，你不合格，我们需要你有至少 4 年的经验，抱歉祝你有美好的一天”。 比如什么？我的资格既低于又高于。无论我使用过多少种语言和堆栈，无论我为软件生命周期的各个阶段做出了多少贡献，这都还不够。我几乎觉得我需要在简历上撒谎，因为这样的事情不断发生。这不是我第一次听到关于各种语言、框架、软件等的相同内容。 我是一个人，我不可能同时了解每一个框架/软件/语言，全部是最新的。但一旦你使用了其他方法近十年，学习其中一个方法并不难。但祝你好运，赢得这场对话。 我喜欢解决问题和创造事物，但我想我讨厌现在行业的发展方式。也许我应该停下来，成为一名电工，掌握大学里必须学的所有数学知识，哈哈。 无论如何，很抱歉我的咆哮，感谢您来参加我的 Ted 演讲。    由   提交 /u/ColonelShrimps   [链接] [评论]]]></description>
+      <description><![CDATA[在被几家失败的初创公司解雇后，我正在寻找一份新工作，然后在大约一年半的时间里从一个合同跳到另一个合同。我已经准备好接受另一个全职职位，在那里我可以放松一下，也许可以尝试一些新的东西，因为我对全栈网络应用程序的工作感到非常厌倦。 我看到一家公司正在招聘销售人员开发人员。听起来很有趣，而且公司看起来相当稳定。我从未与销售人员有过任何互动。从未使用过它，从未见过为它做过任何工作，我也不知道如何为其编写代码。他们的中层职位需要 4 年以上的 Salesforce 经验，初级职位需要一年的一般开发经验。我的生活开支非常低，所以薪水不是问题，所以我申请了 Jr 职位，认为我可以获得一些 Salesforce 的经验，也许可以继续努力，或者如果没有别的办法，就休息几年吧从初创公司持续的压力中恢复过来。 我接到回电，他们询问我的经历，并立即说“哦，抱歉，你对于初级职位的资历过高，我们不能雇用任何拥有超过3 年开发经验”。我想好吧...我没有 Salesforce 的经验...那么我有资格担任中级职位吗？ “哦，不，你不合格，我们需要你至少有 4 年的经验，抱歉祝你有美好的一天”。 比如什么？我的资格既低于又高于。无论我使用过多少种语言和堆栈，无论我为软件生命周期的各个阶段做出了多少贡献，这都还不够。我几乎觉得我需要在简历上撒谎，因为这样的事情不断发生。这不是我第一次听到关于各种语言、框架、软件等的相同内容。 我是一个人，我不可能同时了解每一个框架/软件/语言，全部是最新的。但一旦你使用了其他方法近十年，学习其中一个方法并不难。但祝你好运，赢得这场对话。 我喜欢解决问题和创造事物，但我想我讨厌现在行业的发展方式。也许我应该停下来，成为一名电工，掌握大学里必须学的所有数学知识，哈哈。 无论如何，很抱歉我的咆哮，感谢您来参加我的 Ted 演讲。    由   提交 /u/ColonelShrimps   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b3hvq8/i_cant_stand_working_in_tech_anymore_because_of/</guid>
       <pubDate>Fri, 01 Mar 2024 01:36:42 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b3hosp/browser_extensions_are_underrated_the_promise_of/</guid>
       <pubDate>Fri, 01 Mar 2024 01:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果不担任管理职务，我的职业生涯下一步可以去哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3eu9r/where_can_i_go_next_in_my_career_that_isnt_going/</link>
-      <description><![CDATA[我是一名高级前端开发人员，并且已经工作了一段时间了。我喜欢前端，但希望在我的职业生涯中迈出新的一步，最好是不涉及担任管理角色的一步。 我应该考虑什么职业发展才能让我继续编码？    由   提交 /u/MeltingDog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3eu9r/where_can_i_go_next_in_my_career_that_isnt_going/</guid>
-      <pubDate>Thu, 29 Feb 2024 23:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻松创建灵活的布局，无需关注多个属性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3ebzh/effortlessly_create_flexible_layouts_without/</link>
-      <description><![CDATA[       由   提交/u/chicadesign  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3ebzh/effortlessly_create_flexible_layouts_without/</guid>
-      <pubDate>Thu, 29 Feb 2024 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 JWT 和 cookie</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3dy02/understanding_the_jwt_and_cookies/</link>
-      <description><![CDATA[      嗨，我正在学习cookie和Session Id管理我正在查看owasp Juice shop 在查看源代码时，我看到：  ​ https://preview.redd.it/6jpcl1wcsllc1.jpg?width=1219&amp;format=pjpg&amp;auto=webp&amp;s=c37a6966f9f3cdd6be1254d2642c7b24bf57b5 ba 这样我们就可以看到cookie了参数是： 8 小时内到期  ​ 另一方面： ​ https://preview.redd.it/eogvoiifsllc1.jpg ?width=1153&amp;format=pjpg&amp;auto=webp&amp;s=82c85a0e00303fb30a8d90d1b76b302f63abec87 ​ ​ 我们看到j​​wt设置为在6小时内过期 jwt过期时间如何与cookie过期时间不同？ 我不确定我理解这里的会话ID是如何管理的，是通过cookie还是jwt？它什么时候到期，我们将发行新的？   由   提交/u/ilsapo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3dy02/understanding_the_jwt_and_cookies/</guid>
-      <pubDate>Thu, 29 Feb 2024 22:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该尝试使 NextAuth 适应自定义后端，还是最好创建自己的前端解决方案来处理 JWT 和会话管理？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b3d4bt/should_i_try_to_adapt_nextauth_for_custom_backend/</link>
-      <description><![CDATA[我从后端团队收到了一组用于身份验证/授权的 REST 端点，现在我需要为此编写前端。我不确定这是最好的方法，但我可能会在 NextJS 中编写自己的身份验证逻辑，将其与 Iron Session 连接并使用 Zustand 来访问客户端组件中的用户状态。你认为这是个好主意吗？  带有应用程序路由器的 NextJS 14。中型应用程序类似于中型公司的内部仪表板，因此不会有数十万用户。    由   提交/u/amelix34  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b3d4bt/should_i_try_to_adapt_nextauth_for_custom_backend/</guid>
-      <pubDate>Thu, 29 Feb 2024 22:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
