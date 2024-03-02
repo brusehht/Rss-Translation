@@ -4,13 +4,20 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 02 Mar 2024 15:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 18:14:28 GMT</lastBuildDate>
     <item>
-      <title>我做了一个 Premiere Pro 扩展，以节省时间并克服创意障碍</title>
-      <link>https://www.reddit.com/r/editors/comments/1b4p5ng/i_made_a_premiere_pro_extension_to_save_time_and/</link>
-      <description><![CDATA[我和我的朋友制作了这个 Premiere Pro 扩展，我想与您分享。它称为 C-Roll，它使用 SRT 文件或内置 Premiere Pro 转录功能中的字幕为您正在编辑的视频生成创意 B-Roll 创意。在处理长视频时，它会为您节省大量时间，而您必须观看整个视频才能找到要添加的幕后花絮。这是演示视频演示视频。我希望你喜欢它   由   提交 /u/Dear_Extension9194   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b4p5ng/i_made_a_premiere_pro_extension_to_save_time_and/</guid>
-      <pubDate>Sat, 02 Mar 2024 14:11:15 GMT</pubDate>
+      <title>您对卷轴素材进行排序的方法是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1b4spuu/your_approach_to_sorting_footage_for_a_reel/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，但是当你制作卷轴时，你对 HD 进行排序的过程是怎样的？我昨天开始使用 Adob​​e Bridge，但感觉效率很低。我有近 40 个 HD 和 SSD 我需要整理。    由   提交 /u/beer_run   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b4spuu/your_approach_to_sorting_footage_for_a_reel/</guid>
+      <pubDate>Sat, 02 Mar 2024 16:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbolt 4 扩展坞推荐</title>
+      <link>https://www.reddit.com/r/editors/comments/1b4rpyi/thunderbolt_4_dock_recommendation/</link>
+      <description><![CDATA[您好，我正在为我的 M1 MacBook 和 T7 Shield 寻找 Thunderbolt 4 底座。现在，我知道 T7 盾牌不是雷电 SSD，但是，我计划将来购买雷电 4 外壳 + NVME。我更喜欢这个坞站至少有 2 个可用的 thundebolt 4 端口，并且它们也应该向后兼容 USB 3x。    由   提交/u/Academic_Wall_7621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b4rpyi/thunderbolt_4_dock_recommendation/</guid>
+      <pubDate>Sat, 02 Mar 2024 16:08:43 GMT</pubDate>
     </item>
     <item>
       <title>2/23-3/1 周每周综述</title>
@@ -22,7 +29,7 @@
     <item>
       <title>在 Resolve 中将立体声 wav 导出为单独的左右通道</title>
       <link>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</link>
-      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学习。为了控制质量，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
+      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学。为了质量控制，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</guid>
       <pubDate>Sat, 02 Mar 2024 11:58:25 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>慢动作代理不再工作</title>
       <link>https://www.reddit.com/r/editors/comments/1b44fpz/slow_motion_proxies_no_longer_working/</link>
-      <description><![CDATA[如果您以 60 fps 或更高的速度拍摄，在 Premiere Pro 中将素材修改为 23.976 并制作代理，其他人会突然遇到此问题不再正确播放？  我的所有代理都在 23.976 时间轴上以慢动作播放，但只播放了一半的剪辑。剪辑的另一半保持冻结状态，就好像代理是以原始 60fps 制作的一样，并且由于在 23.976 时间线中播放而丢失了数据。  我尝试过返回 PP 24.0.3、24.1 和 24.2.1。我最初使用 24.1 已经有一段时间了。不确定还有什么会导致这种变化。  计算机：Mac Studio、M2 Ultra、192 GB RAM 素材规格：DJI Osmo Pocket 3、Sony FX3、均为 Mp4    ;由   提交 /u/TheWampaSlayer   [链接] [评论]]]></description>
+      <description><![CDATA[如果您以 60 fps 或更高的速度拍摄，在 Premiere Pro 中将素材修改为 23.976 并制作代理，那么其他人会突然遇到此问题不再正确播放？  我的所有代理都在 23.976 时间轴上以慢动作播放，但只播放了一半的剪辑。剪辑的另一半保持冻结状态，就好像代理是以原始 60fps 制作的一样，并且由于在 23.976 时间线中播放而丢失了数据。  我尝试过返回 PP 24.0.3、24.1 和 24.2.1。我最初使用 24.1 已经有一段时间了。不确定还有什么会导致这种变化。  计算机：Mac Studio、M2 Ultra、192 GB RAM 素材规格：DJI Osmo Pocket 3、Sony FX3、均为 Mp4    ;由   提交 /u/TheWampaSlayer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b44fpz/slow_motion_proxies_no_longer_working/</guid>
       <pubDate>Fri, 01 Mar 2024 20:22:27 GMT</pubDate>
     </item>
     <item>
       <title>Canon *.CRM 视频文件的结构。</title>
       <link>https://www.reddit.com/r/editors/comments/1b44b85/the_structure_of_canon_crm_video_files/</link>
-      <description><![CDATA[您好，我遇到 *.CRM 视频文件的非标准问题。我不小心从计算机上的 SSD 中删除了它们。文件放不进篮子。我立即运行了删除的文件恢复程序（尝试了不同的程序），文件很快就完全恢复了。但现在这些文件在 Cinema RAW Development 中不显示。 系统规格：CPU Intel、Asrock MB // 软件规格：Win11 / Davinchi Resolve 16 // 素材规格：Canon RAW Canon Cine相机：佳能 C300 Mark II谁可以帮助我？有关数据文件结构或任何内容的任何帮助。谢谢！   由   提交 /u/CineScop   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我遇到 *.CRM 视频文件的非标准问题。我不小心从计算机上的 SSD 中删除了它们。文件放不进篮子。我立即运行了一个已删除文件恢复程序（尝试了不同的程序），文件很快就完全恢复了。但现在这些文件在 Cinema RAW Development 中不显示。 系统规格：CPU Intel、Asrock MB // 软件规格：Win11 / Davinchi Resolve 16 // 素材规格：Canon RAW Canon Cine相机：佳能 C300 Mark II谁可以帮助我？有关数据文件结构或任何内容的任何帮助。谢谢！   由   提交 /u/CineScop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b44b85/the_structure_of_canon_crm_video_files/</guid>
       <pubDate>Fri, 01 Mar 2024 20:17:36 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我从事专业编辑已有 4 年了 - 现在我在一家小公司担任主要协调员/经理/编辑/你去的那个人。我喜欢剪辑，但因为剪辑的热情，我累死了。我最大的追求是良好的人际关系和可以帮助我进入下一个阶段的人，但我给了他们一切，甚至感觉不值得。 我非常在乎关于我承担的超出我能力范围的职位。我没有加班费，但我免费工作来完成项目，当我拒绝时，我觉得我让人们失望/烧毁了一座桥梁。这显然并不常见，而且现在，尽管我很努力工作但仍受到不尊重，我往往会生气。最主要的是这种压力对身体造成了损害。我从来没有想过剪辑，我已经开始脱发，我还发现了一些白发，我的医生告诉我我需要找到减压的方法。我也有心悸和偏头痛，但是请病假/休假并不能解决问题，因为我仍然担心如果没有我，事情会出问题。 不知道该怎么办了，所以我想看看这是否是一些人可以联系并摆脱这种心态的地方。我可以找到另一个不把一切都抛给我的地方，因为它更便宜，但保持良好的关系总是会阻止我前进。  我23岁了，还有时间。   由   提交 /u/mud2 Producer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b42gwh/overworking_when_its_not_necessary_advice/</guid>
       <pubDate>Fri, 01 Mar 2024 19:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>准确/一致的分屏？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b41iie/accurateconsistent_split_screen/</link>
-      <description><![CDATA[大家好，我最近做了更多社交媒体分屏类型的事情，我一直想知道的一件事是 Premiere 是否有更多功能比我的方法更有效的方法。例如，我正在剪切 9x16，并希望采访占据框架顶部的 1200 像素，一些附带的镜头占据底部的 720 像素。现在，我只是有点盯着它，但是当你要逐一剪切时，如果它不完美，你会看到顶部/底部之间的像素不对齐的小跳跃（如果这有意义的话），所以我必须摆弄裁剪/上下移动直到它正确为止。再加上需要从一个镜头重新构图到下一个镜头，感觉整个过程需要重新开始，这变得非常乏味。有没有更简单的方法来做到这一点（遮罩/调整层/等），我缺少？    由   提交/u/snugglecakes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b41iie/accurateconsistent_split_screen/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:26:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
