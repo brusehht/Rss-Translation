@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 18:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:44:42 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在日本，拉面长期以来一直与男性气概联系在一起，传统上男性是[...]</title>
-      <link>https://t.me/hn_summary/77224</link>
-      <description><![CDATA[日本“拉面女孩”崛起
-在日本，拉面长期以来一直与男性气概联系在一起，传统上，男性是独处享用拉面的人。然而，随着“拉面女孩”的崛起，一种新的趋势正在出现，她们打破了这种受人喜爱的面条汤的性别规范。这种文化转变正在挑战拉面只属于男性的观念，因为女性现在正在以自己的方式拥抱和享受拉面。这一变化反映了日本对食物和性别角色的态度不断变化，标志着拉面作为男性主导的烹饪体验的传统观念的重大背离。]]></description>
-      <guid>https://t.me/hn_summary/77224</guid>
-      <pubDate>Sat, 02 Mar 2024 18:13:25 GMT</pubDate>
+      <title>在此更新中，Cat、cp、mv、dd、install 和 split 命令的默认 IO 大小已 [...]</title>
+      <link>https://t.me/hn_summary/77275</link>
+      <description><![CDATA[Cat,cp,mv,dd,install,split：设置默认IO大小为256KiB
+在此更新中，Cat、cp、mv、dd、install 和 split 命令的默认 IO 大小已设置为 256KiB，以最大程度地减少各个系统之间的系统调用开销。在不同系统上使用不同块大小进行的测试表明传输速率有所提高，其中 256KiB 成为最佳选择。令人惊讶的是，Apple M1 系统表现出了令人印象深刻的性能，凸显了选择正确的块大小对于高效数据传输的重要性。此更改旨在增强系统性能并减少开销，并根据系统可用性进行未来潜在的改进。]]></description>
+      <guid>https://t.me/hn_summary/77275</guid>
+      <pubDate>Sun, 03 Mar 2024 00:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一群专注的维基百科编辑，专注于策划有关道路的文章和 [...]</title>
-      <link>https://t.me/hn_summary/77223</link>
-      <description><![CDATA[流氓编辑创建了一个仅与道路有关的竞争性维基百科 
-一群专注于策划有关美国道路和高速公路文章的维基百科编辑由于对网站规则的分歧而面临分裂。这导致了一个名为 AARroads 的新网站的创建，专门致力于道路。争论的焦点是地图作为来源的使用以及原创研究的构成。最终，道路项目成功更新了维基百科的政策，允许引用地图。这次分裂对双方来说都是痛苦的，一些编辑完全离开了维基百科。 AARroads 早于维基百科，现在成为道路编辑的新家，并希望最终重新加入维基百科社区。]]></description>
-      <guid>https://t.me/hn_summary/77223</guid>
-      <pubDate>Sat, 02 Mar 2024 17:59:17 GMT</pubDate>
+      <title>“使用稳定扩散 XL 生成透明图像”项目专注于创建透明图像 [...]</title>
+      <link>https://t.me/hn_summary/77274</link>
+      <description><![CDATA[使用稳定扩散XL生成透明图像
+“使用稳定扩散 XL 生成透明图像”项目专注于使用潜在透明度创建透明图像和图层。它是 SD WebUI 的扩展，允许生成透明图像和图层，能够处理透明玻璃、发光效果、毛皮、头发和详细结构等复杂元素。该项目为不同的功能提供了各种模型，例如将 SDXL 模型转变为透明图像生成器或以前景、背景或混合合成为条件的图层生成模型。作者强调了代码库的动态特性和持续更新，以改进结果并减少 VRAM 需求。 （根据 67% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77274</guid>
+      <pubDate>Sun, 03 Mar 2024 00:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Lisp 中的 Gamedev。</title>
-      <link>https://t.me/hn_summary/77222</link>
-      <description><![CDATA[Lisp 中的 Gamedev。第 1 部分：ECS 和元语言抽象
-在本教程系列中，我们将探索使用 Common Lisp 创建 2D 游戏，展示其在游戏开发中的功能。 Lisp 的独特之处在于元语言抽象，允许程序员在语言本身内创建自己的语言结构。本教程介绍了 cl-fast-ecs 宏库，它利用实体-组件-系统模式来有效地组织游戏数据和处理规则。通过在运行时动态修改游戏对象结构，ECS 增强了灵活性和性能，解决了冯诺依曼瓶颈。这种用 Lisp 进行游戏开发的创新方法为语言设计者（而不仅仅是用户）提供了全新的编程视角。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77222</guid>
-      <pubDate>Sat, 02 Mar 2024 17:58:13 GMT</pubDate>
+      <title>欢迎来到维基教科书，在这里您可以访问数以千计的多种语言的免费教科书。</title>
+      <link>https://t.me/hn_summary/77273</link>
+      <description><![CDATA[维基教科书免费教科书
+欢迎来到维基教科书，在这里您可以访问数以千计的多种语言的免费教科书。超过 10,000 页的内容，适合每个人。无论您需要特定主题的帮助还是只是想扩展您的知识，维基教科书都有超过 1,000 页的信息等着您。探索我们关于各种主题的 100 多页合集，并立即开始学习。加入我们的贡献者和读者社区，分享知识和资源。维基教科书通过为所有人提供免费、易于使用的教​​科书正在彻底改变教育。]]></description>
+      <guid>https://t.me/hn_summary/77273</guid>
+      <pubDate>Sun, 03 Mar 2024 00:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重介绍 Emilio，这是一款电子邮件管理器，只需处理 [...] 即可为您节省 60% 的时间</title>
-      <link>https://t.me/hn_summary/77221</link>
-      <description><![CDATA[显示 HN：Emilio 整理您的电子邮件，节省 60% 的时间 –了解v1.0
-隆重推出 Emilio，这是一款电子邮件管理器，只需处理未读邮件即可为您节省 60% 的时间。使用 Emilio，您可以按优先级对电子邮件进行分类，并将高优先级电子邮件标记为“重要”以便于通知。 Emilio 的与众不同之处在于其巧妙的设计，可以隐藏低优先级电子邮件，以免在视觉上弄乱您的收件箱。如果您有任何反馈或功能请求，请务必告知我们。使用 Emilio v1.0 告别电子邮件超载，迎接更有条理的收件箱。立即在 getemil.io 上查看。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/77221</guid>
-      <pubDate>Sat, 02 Mar 2024 17:45:05 GMT</pubDate>
+      <title>在机器人领域，我们通过将人形机器人视为机器人来应对人形运动的挑战 [...]</title>
+      <link>https://t.me/hn_summary/77272</link>
+      <description><![CDATA[人形运动作为下一个标记预测
+在机器人领域，我们通过将人形运动视为数据建模问题来应对其挑战。通过训练变压器模型来预测感觉运动轨迹中的转移标记，我们的目标是捕获联合数据分布而不仅仅是条件动作分布。我们的创新方法使我们能够以统一的方式利用有或没有动作的轨迹，从神经网络策略、基于模型的控制器、人体动作捕捉和 YouTube 视频等不同来源获取数据。最终，我们的模型在旧金山进行了测试，展示了其在现实环境中导航各种地形并遵循速度命令的能力。]]></description>
+      <guid>https://t.me/hn_summary/77272</guid>
+      <pubDate>Sun, 03 Mar 2024 00:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 成功废除埃隆·马斯克 560 亿美元赔偿方案的律师现在 [...]</title>
-      <link>https://t.me/hn_summary/77220</link>
-      <description><![CDATA[因过高而取消埃隆·马斯克薪酬的律师需要 60 亿美元的费用
-成功取消埃隆·马斯克 560 亿美元赔偿方案的律师现在正在寻求创纪录的 60 亿美元法律费用，并以特斯拉股票支付。这笔费用相当于每小时 288,888 美元，被马斯克批评为“犯罪”。法律团队认为，这笔费用是合理的，因为特斯拉受益于马斯克返还的薪酬方案。法官凯瑟琳·麦考密克称马斯克的薪酬“高不可测”，如果案件获得批准，可能会产生巨额费用。法律团队正在推动一种费用结构，将奖励与所创造的利益直接挂钩，从而使特斯拉可以免税。]]></description>
-      <guid>https://t.me/hn_summary/77220</guid>
-      <pubDate>Sat, 02 Mar 2024 17:40:59 GMT</pubDate>
+      <title>备受争议的 ShotSpotter 系统（以前称为 SoundThinking）已面临批评 [...]</title>
+      <link>https://t.me/hn_summary/77271</link>
+      <description><![CDATA[ShotSpotter：监听邻居
+备受争议的 ShotSpotter 系统（以前称为 SoundThinking）因其秘密操作和潜在的民权影响而受到批评。该系统使用声学传感器检测枪声，被指控压制研究和操纵证据。令人惊讶的是，阿尔伯克基等城市的 ShotSpotter 传感器密度很高，覆盖范围与种族和阶级相关。该系统识别枪声的准确性存在争议，只有一小部分报告得到证实。尽管存在这些担忧，阿尔伯克基警察局等执法机构仍在继续使用 ShotSpotter，引发了有关公众监督和隐私的问题。]]></description>
+      <guid>https://t.me/hn_summary/77271</guid>
+      <pubDate>Sun, 03 Mar 2024 00:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Stillcolor 是一款适用于 macOS 的轻量级菜单栏应用程序，旨在通过 [...]</title>
-      <link>https://t.me/hn_summary/77219</link>
-      <description><![CDATA[显示 HN：Stillcolor – 通过禁用时间抖动来减少 macOS 上的眼睛疲劳&lt; /a&gt;
-Stillcolor 是一款适用于 macOS 的轻量级菜单栏应用程序，旨在通过禁用 Apple Silicon Mac 上的时间抖动来减轻眼睛疲劳。对于那些对显示特性敏感的人来说，时间抖动可能会导致眼睛疲劳、疲劳和头痛等身体症状。与其他专注于蓝光或无闪烁显示器的解决方案不同，Stillcolor 专门针对 GPU 级别的时间抖动，在 Apple Silicon Mac 上没有可见的选项来禁用它。该项目提供了简单的安装过程和说明来验证临时抖动的状态，以及未来扩展兼容性和改进测试方法的计划。]]></description>
-      <guid>https://t.me/hn_summary/77219</guid>
-      <pubDate>Sat, 02 Mar 2024 17:29:52 GMT</pubDate>
+      <title>[媒体]在数字外交领域，TikTok已成为沙平的重要战场[...]</title>
+      <link>https://t.me/hn_summary/77270</link>
+      <description><![CDATA[以色列正在输掉对 TikTok 的战争
+在数字外交领域，TikTok 已成为塑造以色列-巴勒斯坦冲突叙事的关键战场。希伯来大学的 Lilly Boxman-Shabtai 博士揭示了一个残酷的事实：以色列正在输掉 TikTok 的战争。虽然巴勒斯坦人擅长利用该平台的视觉叙事和草根宣传来分享引起全球共鸣的原始体验，但以色列人却很难与观众建立联系。巴勒斯坦人掌握 TikTok 微妙的语言，将叙事与国际团结运动交织在一起。随着地缘政治紧张局势在 20 秒的视频中展开，问题仍然存在：以色列能否在这个数字领域迎头赶上？巴勒斯坦人对互文性和情感深度的战略运用给他们带来了显着的优势，在 TikTok 宣传战中将以色列甩在后面。]]></description>
+      <guid>https://t.me/hn_summary/77270</guid>
+      <pubDate>Sat, 02 Mar 2024 23:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>博士。</title>
-      <link>https://t.me/hn_summary/77218</link>
-      <description><![CDATA[鲍勃·海尔，K9EID，静音键
-Bob Heil 博士 (K9EID) 是现场摇滚音乐和业余无线电音频工程领域的先驱，现已去世，享年 83 岁。他于 1966 年创立了 Heil Sound，彻底改变了标志性音乐家的音乐会音响系统。他于 2007 年荣获帕内利音频创新者奖。他也是一位热情的业余无线电爱好者，创立了 Heil Ham Radio，为业余无线电爱好者提供高品质的设备。海尔以其慷慨和指导而闻名，对业余无线电界的影响是深远的。许多人都对他的去世表示哀悼，其中包括 ARRL 主席 Rick Roderick，他赞扬了 Heil 的技术成就以及帮助其他人从事这项爱好的意愿。]]></description>
-      <guid>https://t.me/hn_summary/77218</guid>
-      <pubDate>Sat, 02 Mar 2024 17:27:48 GMT</pubDate>
+      <title>在本文中，我通过计算测试了 Microsoft BASIC 浮点例程的速度 [...]</title>
+      <link>https://t.me/hn_summary/77269</link>
+      <description><![CDATA[Microsoft BASIC 浮点例程的速度
+在这篇文章中，我通过计算-2π 3 /3来测试微软BASIC浮点例程的速度！使用 Color BASIC 例程、IEEE-754 单精度和双精度。 Color BASIC 例程运行了 8,742 个周期，而 IEEE-754 单精度运行了 14,204 个周期，双精度运行了 31,613 个周期。令人惊讶的是，8 位 CPU 的 42 年前的代码运行完美，但 IEEE-754 例程比预期慢，可能是由于处理 ±∞ 和 NaN 等特殊情况。总体而言，Microsoft BASIC 的浮点计算速度令人印象深刻。]]></description>
+      <guid>https://t.me/hn_summary/77269</guid>
+      <pubDate>Sat, 02 Mar 2024 23:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]疾病预防控制中心 (CDC) 宣布改变 COVID-19 指南，指出该病毒已成为 [...]</title>
-      <link>https://t.me/hn_summary/77217</link>
-      <description><![CDATA[CDC 放弃了为期 5 天的 Covid 隔离，认为 Covid 正在演变为流感 -就像
-CDC 宣布对 COVID-19 指南进行调整，指出该病毒变得越来越像流感，不再需要自己的特定健康规则。该机构现在建议根据症状进行隔离，而不是固定的五天隔离期。批评者认为，这一决定将商业利益置于公共卫生之上。然而，CDC 指出，COVID-19 病例、住院人数和死亡人数正在下降，疫苗可以有效预防严重疾病。该机构还强调，目前 COVID-19 死亡人数与流感死亡人数相当。总体而言，CDC 正在将 COVID-19 纳入一般呼吸道病毒指南，强调疫苗接种和常识性预防措施的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77217</guid>
-      <pubDate>Sat, 02 Mar 2024 17:16:10 GMT</pubDate>
+      <title>[Media] 您是否想要开发 (Neo)Vim 插件但不确定从哪里开始？</title>
+      <link>https://t.me/hn_summary/77268</link>
+      <description><![CDATA[本地 Neovim 插件开发
+您是否想要开发 (Neo)Vim 插件但不确定从哪里开始？别再犹豫了！本指南以 Telescope-repo.nvim 为例，提供本地 NeoVim 插件开发的提示和技巧。了解如何在实时 NeoVim 实例中快速加载更改、在不重新启动的情况下重新加载更改以及自动设置 NeoVim 重新启动。发现用于编写完整插件和更改 NeoVim 配置的资源。准备好自信、高效地投入 Lua 插件开发。不要让插件开发吓倒您 - 通过这些技巧，您将立即开始创建令人惊叹的插件！]]></description>
+      <guid>https://t.me/hn_summary/77268</guid>
+      <pubDate>Sat, 02 Mar 2024 23:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]印度刚刚发布了2022-23年官方消费支出数据，标志着[...]</title>
-      <link>https://t.me/hn_summary/77216</link>
-      <description><![CDATA[印度消除极端贫困
-印度刚刚发布了 2022-23 年官方消费支出数据，这是十多年来首次基于调查的贫困估计。转向更准确的修正混合回忆期方法显示出印度在购买力平价 1.9 美元线下的显着增长、城市和农村不平等的减少以及极端贫困的消除。数据显示，贫困人口数量低于世界银行此前的估计。结果表明，印度需要向更高的贫困线过渡，这反映了该国过去十年的包容性增长。贫困水平的下降归功于对再分配和发展计划的强有力的政策推动。]]></description>
-      <guid>https://t.me/hn_summary/77216</guid>
-      <pubDate>Sat, 02 Mar 2024 17:10:05 GMT</pubDate>
+      <title>[媒体] 三分法则是一种用于视觉图像的构图技术，例如设计、电影 [...]</title>
+      <link>https://t.me/hn_summary/77267</link>
+      <description><![CDATA[三分法则
+三分法则是一种用于设计、电影、绘画和照片等视觉图像的构图技术。它涉及用两条水平线和两条垂直线将图像分成九个相等的部分，沿着这些线或其交叉点放置重要元素。这种技术在构图中创造了张力和兴趣。该规则起源于 1797 年，首先由约翰·托马斯·史密斯 (John Thomas Smith) 提出，并由约书亚·雷诺兹 (Joshua Reynolds) 爵士进行了扩展。它因平衡图像而受到电影摄影师的青睐。拍摄人物时，通常的做法是身体与垂直线对齐，眼睛与水平线对齐。]]></description>
+      <guid>https://t.me/hn_summary/77267</guid>
+      <pubDate>Sat, 02 Mar 2024 23:27:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 通过基于 Java 的创新单 [...]</title>
-      <link>https://t.me/hn_summary/77215</link>
-      <description><![CDATA[显示 HN：何时在 Trader Joe&#39;s 购物（使用本土 Java单页应用程序）
-通过基于 Java 的创新单页应用程序 CoronaWait，在 frequal.com。揭开何时找到您最喜欢的物品（例如冷冻华夫饼和卫生纸）的秘密。令人惊讶的是，华夫饼的供应在周末达到高峰，而卫生纸则在周中消失。探索每月趋势，例如 12 月烘焙粉和华夫饼库存不足，1 月卫生纸库存不足。虽然库存水平全天保持一致，但早起的鸟儿可能对紫菜包饭有优势。关注 2020 年至今的库存趋势，了解商品随时间的波动情况。不要错过这种独特的购物见解。]]></description>
-      <guid>https://t.me/hn_summary/77215</guid>
-      <pubDate>Sat, 02 Mar 2024 17:05:30 GMT</pubDate>
+      <title>调查：您对平台互操作性有多关心？</title>
+      <link>https://t.me/hn_summary/77266</link>
+      <description><![CDATA[投票：您对平台互操作性有多关心？
+标题：投票：您对平台互操作性有多关心？
+
+您是否厌倦了封闭的生态系统和登录墙的限制？随着苹果被迫开放以及替代前端面临挑战，关于平台互操作性的争论正在升温。 HN 社区有多重视选择操作系统、通讯工具和软件的自由？分享您对使用社交媒体替代客户端和避免浏览器限制的想法。加入讨论互操作性在当今技术领域的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77266</guid>
+      <pubDate>Sat, 02 Mar 2024 23:23:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
