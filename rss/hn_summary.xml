@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 00:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 03:03:05 GMT</lastBuildDate>
     <item>
-      <title>在此更新中，Cat、cp、mv、dd、install 和 split 命令的默认 IO 大小已 [...]</title>
-      <link>https://t.me/hn_summary/77275</link>
-      <description><![CDATA[Cat,cp,mv,dd,install,split：设置默认IO大小为256KiB
-在此更新中，Cat、cp、mv、dd、install 和 split 命令的默认 IO 大小已设置为 256KiB，以最大程度地减少各个系统之间的系统调用开销。在不同系统上使用不同块大小进行的测试表明传输速率有所提高，其中 256KiB 成为最佳选择。令人惊讶的是，Apple M1 系统表现出了令人印象深刻的性能，凸显了选择正确的块大小对于高效数据传输的重要性。此更改旨在增强系统性能并减少开销，并根据系统可用性进行未来潜在的改进。]]></description>
-      <guid>https://t.me/hn_summary/77275</guid>
-      <pubDate>Sun, 03 Mar 2024 00:44:42 GMT</pubDate>
+      <title>[媒体]已针对苹果提出集体诉讼，指控该公司 [...]</title>
+      <link>https://t.me/hn_summary/77288</link>
+      <description><![CDATA[针对 Apple 5GB iCloud 限制和 iOS 备份限制的集体诉讼
+有人对苹果提起集体诉讼，指控该公司不公平地抬高 iCloud 价格，并限制 iOS 备份只能通过 iCloud 进行管理。该诉讼称，苹果的 5GB 免费存储限制对于大多数用户来说不够，迫使他们购买额外的存储计划。原告声称，苹果对设备备份的限制限制了 iCloud 相对于竞争对手云平台的竞争和优势。主要原告由 Hagens Berman 律师事务所代表，该律师事务所因处理之前针对苹果的集体诉讼而闻名。有兴趣加入诉讼的人可以通过 Hagens Berman 网站进行操作。]]></description>
+      <guid>https://t.me/hn_summary/77288</guid>
+      <pubDate>Sun, 03 Mar 2024 03:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>“使用稳定扩散 XL 生成透明图像”项目专注于创建透明图像 [...]</title>
-      <link>https://t.me/hn_summary/77274</link>
-      <description><![CDATA[使用稳定扩散XL生成透明图像
-“使用稳定扩散 XL 生成透明图像”项目专注于使用潜在透明度创建透明图像和图层。它是 SD WebUI 的扩展，允许生成透明图像和图层，能够处理透明玻璃、发光效果、毛皮、头发和详细结构等复杂元素。该项目为不同的功能提供了各种模型，例如将 SDXL 模型转变为透明图像生成器或以前景、背景或混合合成为条件的图层生成模型。作者强调了代码库的动态特性和持续更新，以改进结果并减少 VRAM 需求。 （根据 67% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77274</guid>
-      <pubDate>Sun, 03 Mar 2024 00:39:38 GMT</pubDate>
+      <title>[媒体]算法思维（第二版）</title>
+      <link>https://t.me/hn_summary/77287</link>
+      <description><![CDATA[算法思维（第二版）
+“《算法思维》（第二版）是面向 C 编程语言学生和软件开发专业人士的全面且用户友好的教学资源。Daniel Zingaro 精选了一系列具有挑战性的编程问题，并对算法和数据结构进行了清晰的解释。这本书受到称赞其详细的分步解决方案和引人入胜的编程竞赛问题选择。关于随机算法的新章节是一个亮点，提供了算法思维的独特视角。行业专业人士和学者的评论强调了这一更新的实践和理论价值。版，使其成为那些希望提高编程技能的人的必读之作。”]]></description>
+      <guid>https://t.me/hn_summary/77287</guid>
+      <pubDate>Sun, 03 Mar 2024 02:59:01 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到维基教科书，在这里您可以访问数以千计的多种语言的免费教科书。</title>
-      <link>https://t.me/hn_summary/77273</link>
-      <description><![CDATA[维基教科书免费教科书
-欢迎来到维基教科书，在这里您可以访问数以千计的多种语言的免费教科书。超过 10,000 页的内容，适合每个人。无论您需要特定主题的帮助还是只是想扩展您的知识，维基教科书都有超过 1,000 页的信息等着您。探索我们关于各种主题的 100 多页合集，并立即开始学习。加入我们的贡献者和读者社区，分享知识和资源。维基教科书通过为所有人提供免费、易于使用的教​​科书正在彻底改变教育。]]></description>
-      <guid>https://t.me/hn_summary/77273</guid>
-      <pubDate>Sun, 03 Mar 2024 00:20:30 GMT</pubDate>
+      <title>[媒体] 介绍我们的最新创新：使用 GPT-4 技术帮助您购买服装 [...]</title>
+      <link>https://t.me/hn_summary/77286</link>
+      <description><![CDATA[显示 HN：使用 GPT-4 购买我喜欢的电影服装和电视节目
+介绍我们的最新创新：使用 GPT-4 技术帮助您从最喜欢的电影和电视节目中购买您喜欢的服装。借助我们的人工智能工具，您可以轻松复制并购买那些在屏幕上吸引您眼球的时尚外观。只需上传一张图片，然后让我们的技术完成剩下的工作。有疑问或反馈吗？请填写我们网站上的表格，我们将与您联系。告别时尚 FOMO，迎接您的梦想衣橱！立即访问 tryon.trydisto.com 尝试一下。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/77286</guid>
+      <pubDate>Sun, 03 Mar 2024 02:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>在机器人领域，我们通过将人形机器人视为机器人来应对人形运动的挑战 [...]</title>
-      <link>https://t.me/hn_summary/77272</link>
-      <description><![CDATA[人形运动作为下一个标记预测
-在机器人领域，我们通过将人形运动视为数据建模问题来应对其挑战。通过训练变压器模型来预测感觉运动轨迹中的转移标记，我们的目标是捕获联合数据分布而不仅仅是条件动作分布。我们的创新方法使我们能够以统一的方式利用有或没有动作的轨迹，从神经网络策略、基于模型的控制器、人体动作捕捉和 YouTube 视频等不同来源获取数据。最终，我们的模型在旧金山进行了测试，展示了其在现实环境中导航各种地形并遵循速度命令的能力。]]></description>
-      <guid>https://t.me/hn_summary/77272</guid>
-      <pubDate>Sun, 03 Mar 2024 00:17:26 GMT</pubDate>
+      <title>[媒体]世界上最大的机场，位于沙特阿拉伯利雅得的萨勒曼国王国际机场 [...]</title>
+      <link>https://t.me/hn_summary/77285</link>
+      <description><![CDATA[最大机场将于 2030 年开放，拥有 6 条跑道，每年接待 1.2 亿乘客
+世界上最大的机场——位于沙特阿拉伯利雅得的萨勒曼国王国际机场将于 2030 年投入使用，拥有 6 条跑道，每年可容纳 1.2 亿乘客。该机场占地 57 平方公里，将设有娱乐设施和零售空间。该机场由福斯特建筑事务所设计，旨在打造一个注重客户体验和创新的“航空大都市”。尽管该地区冲突不断，但前往利雅得的旅行被认为是安全的。此外，波兰和意大利等其他国家也在开发新机场，以增强连通性和旅客增长。]]></description>
+      <guid>https://t.me/hn_summary/77285</guid>
+      <pubDate>Sun, 03 Mar 2024 02:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>备受争议的 ShotSpotter 系统（以前称为 SoundThinking）已面临批评 [...]</title>
-      <link>https://t.me/hn_summary/77271</link>
-      <description><![CDATA[ShotSpotter：监听邻居
-备受争议的 ShotSpotter 系统（以前称为 SoundThinking）因其秘密操作和潜在的民权影响而受到批评。该系统使用声学传感器检测枪声，被指控压制研究和操纵证据。令人惊讶的是，阿尔伯克基等城市的 ShotSpotter 传感器密度很高，覆盖范围与种族和阶级相关。该系统识别枪声的准确性存在争议，只有一小部分报告得到证实。尽管存在这些担忧，阿尔伯克基警察局等执法机构仍在继续使用 ShotSpotter，引发了有关公众监督和隐私的问题。]]></description>
-      <guid>https://t.me/hn_summary/77271</guid>
-      <pubDate>Sun, 03 Mar 2024 00:00:17 GMT</pubDate>
+      <title>问 HN：您日常使用什么笔记本电脑来驱动 Linux？</title>
+      <link>https://t.me/hn_summary/77284</link>
+      <description><![CDATA[问HN：你日常使用什么笔记本电脑来驱动Linux？&lt; /a&gt;
+正在寻找一台笔记本电脑来日常运行 Linux？避免像我使用 Dell XPS 15 时那样令人头痛的 Nvidia 显卡问题。许多用户推荐 AMD 笔记本电脑以获得更流畅的 Linux 体验。在 HN 上分享您首选的 Linux 笔记本电脑并加入讨论！]]></description>
+      <guid>https://t.me/hn_summary/77284</guid>
+      <pubDate>Sun, 03 Mar 2024 02:16:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在数字外交领域，TikTok已成为沙平的重要战场[...]</title>
-      <link>https://t.me/hn_summary/77270</link>
-      <description><![CDATA[以色列正在输掉对 TikTok 的战争
-在数字外交领域，TikTok 已成为塑造以色列-巴勒斯坦冲突叙事的关键战场。希伯来大学的 Lilly Boxman-Shabtai 博士揭示了一个残酷的事实：以色列正在输掉 TikTok 的战争。虽然巴勒斯坦人擅长利用该平台的视觉叙事和草根宣传来分享引起全球共鸣的原始体验，但以色列人却很难与观众建立联系。巴勒斯坦人掌握 TikTok 微妙的语言，将叙事与国际团结运动交织在一起。随着地缘政治紧张局势在 20 秒的视频中展开，问题仍然存在：以色列能否在这个数字领域迎头赶上？巴勒斯坦人对互文性和情感深度的战略运用给他们带来了显着的优势，在 TikTok 宣传战中将以色列甩在后面。]]></description>
-      <guid>https://t.me/hn_summary/77270</guid>
-      <pubDate>Sat, 02 Mar 2024 23:58:13 GMT</pubDate>
+      <title>[媒体] 在 tylercipriani.com 上的这篇文章中，作者分享了他们对永恒的解决方案 [...]</title>
+      <link>https://t.me/hn_summary/77283</link>
+      <description><![CDATA[永恒的 Bash 历史
+在 tylercipriani.com 上的这篇文章中，作者分享了他们的解决方案历史上丢失重要 bash 命令的永恒斗争。通过将超过 750,000 行 bash 历史记录存储在一个名为 ~/.muhhistory 的 102MB 文件中，他们创建了自 2016 年以来其工作的可搜索存档。他们还引入了一个名为 hist 的命令来搜索这段广泛的历史记录。作者解释了他们如何使用 PROMPTCOMMAND 变量保存历史记录，并讨论了他们系统的权衡和问题，强调了安全性谨慎的必要性以及使用 bash 内置历史记录的局限性。他们还提供了对 McFly 和 Atuin 等替代解决方案的见解。]]></description>
+      <guid>https://t.me/hn_summary/77283</guid>
+      <pubDate>Sun, 03 Mar 2024 02:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，我通过计算测试了 Microsoft BASIC 浮点例程的速度 [...]</title>
-      <link>https://t.me/hn_summary/77269</link>
-      <description><![CDATA[Microsoft BASIC 浮点例程的速度
-在这篇文章中，我通过计算-2π 3 /3来测试微软BASIC浮点例程的速度！使用 Color BASIC 例程、IEEE-754 单精度和双精度。 Color BASIC 例程运行了 8,742 个周期，而 IEEE-754 单精度运行了 14,204 个周期，双精度运行了 31,613 个周期。令人惊讶的是，8 位 CPU 的 42 年前的代码运行完美，但 IEEE-754 例程比预期慢，可能是由于处理 ±∞ 和 NaN 等特殊情况。总体而言，Microsoft BASIC 的浮点计算速度令人印象深刻。]]></description>
-      <guid>https://t.me/hn_summary/77269</guid>
-      <pubDate>Sat, 02 Mar 2024 23:52:08 GMT</pubDate>
+      <title>[媒体]本文探讨了使用序列微积分作为编译的中间语言[...]</title>
+      <link>https://t.me/hn_summary/77282</link>
+      <description><![CDATA[作为编译器中间语言的序列微积分 (2016) [pdf]( https://news.ycombinator.com/item?id=39570423)
+本文探讨了序列微积分作为编译器中间语言的使用，并将其与流行的 λ 微积分进行了比较。作者介绍了 Sequent Core，一种基于 Sequent Calculus 的类型化演算，并在 Glasgow Haskell 编译器中实现了它。令人惊讶的是，Sequent Core 在优化方面优于现有的 Core 语言，特别是在处理连接点方面。该语言类似于延续传递风格，为编译器带来控制流和延续，而不妨碍现有的优化。作者希望将顺序微积分引入编译器设计领域，为函数式编程语言和中间表示技术提供新的视角。 （根据故事文本的 9% 进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77282</guid>
+      <pubDate>Sun, 03 Mar 2024 02:08:32 GMT</pubDate>
     </item>
     <item>
-      <title>[Media] 您是否想要开发 (Neo)Vim 插件但不确定从哪里开始？</title>
-      <link>https://t.me/hn_summary/77268</link>
-      <description><![CDATA[本地 Neovim 插件开发
-您是否想要开发 (Neo)Vim 插件但不确定从哪里开始？别再犹豫了！本指南以 Telescope-repo.nvim 为例，提供本地 NeoVim 插件开发的提示和技巧。了解如何在实时 NeoVim 实例中快速加载更改、在不重新启动的情况下重新加载更改以及自动设置 NeoVim 重新启动。发现用于编写完整插件和更改 NeoVim 配置的资源。准备好自信、高效地投入 Lua 插件开发。不要让插件开发吓倒您 - 通过这些技巧，您将立即开始创建令人惊叹的插件！]]></description>
-      <guid>https://t.me/hn_summary/77268</guid>
-      <pubDate>Sat, 02 Mar 2024 23:48:04 GMT</pubDate>
+      <title>在本文中，作者认为初创企业不应回避挑战垄断 [...]</title>
+      <link>https://t.me/hn_summary/77281</link>
+      <description><![CDATA[更多初创公司应该挑战垄断
+在本文中，作者认为初创企业不应回避挑战其行业的垄断地位。作者根据播客和有声读物的个人经验，强调了具有挑战性的老牌玩家如何能够带来创新、市场增长和消费者利益。作者强调，垄断企业往往效率低下，缺乏创新动力，因此很容易被敏捷初创企业颠覆。通过打破垄断所设置的障碍，初创企业可以创造更健康的市场、更好的产品，并最终创造更快乐的消费者。文章鼓励创始人拥抱竞争，不要害怕挑战现状。]]></description>
+      <guid>https://t.me/hn_summary/77281</guid>
+      <pubDate>Sun, 03 Mar 2024 02:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 三分法则是一种用于视觉图像的构图技术，例如设计、电影 [...]</title>
-      <link>https://t.me/hn_summary/77267</link>
-      <description><![CDATA[三分法则
-三分法则是一种用于设计、电影、绘画和照片等视觉图像的构图技术。它涉及用两条水平线和两条垂直线将图像分成九个相等的部分，沿着这些线或其交叉点放置重要元素。这种技术在构图中创造了张力和兴趣。该规则起源于 1797 年，首先由约翰·托马斯·史密斯 (John Thomas Smith) 提出，并由约书亚·雷诺兹 (Joshua Reynolds) 爵士进行了扩展。它因平衡图像而受到电影摄影师的青睐。拍摄人物时，通常的做法是身体与垂直线对齐，眼睛与水平线对齐。]]></description>
-      <guid>https://t.me/hn_summary/77267</guid>
-      <pubDate>Sat, 02 Mar 2024 23:27:56 GMT</pubDate>
+      <title>[媒体] 在一个宣传和阴谋论猖獗的世界里，塞夫顿·德尔默的反 [...]</title>
+      <link>https://t.me/hn_summary/77280</link>
+      <description><![CDATA[从二战中塞夫顿·德尔默的反纳粹宣传中吸取的教训
+在宣传和阴谋论猖獗的世界里，塞夫顿·德尔默在二战期间的反纳粹宣传工作提供了宝贵的教训。德尔默的创新策略，包括创建假广播电台和利用心理洞察力，吸引了德国观众并削弱了希特勒政权。通过了解观众的兴趣和需求，德尔默能够有效地突破纳粹的宣传。然而，创造“袜子傀儡”媒体可能会适得其反，正如人们对他的作品的负面反应所示。德尔默与观众世界互动并提供相关信息的方法至今仍然具有现实意义，正如在乌克兰接触俄罗斯观众的努力所体现的那样。最终，了解受众并与受众互动是对抗宣传的关键。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77280</guid>
+      <pubDate>Sun, 03 Mar 2024 02:06:20 GMT</pubDate>
     </item>
     <item>
-      <title>调查：您对平台互操作性有多关心？</title>
-      <link>https://t.me/hn_summary/77266</link>
-      <description><![CDATA[投票：您对平台互操作性有多关心？
-标题：投票：您对平台互操作性有多关心？
-
-您是否厌倦了封闭的生态系统和登录墙的限制？随着苹果被迫开放以及替代前端面临挑战，关于平台互操作性的争论正在升温。 HN 社区有多重视选择操作系统、通讯工具和软件的自由？分享您对使用社交媒体替代客户端和避免浏览器限制的想法。加入讨论互操作性在当今技术领域的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77266</guid>
-      <pubDate>Sat, 02 Mar 2024 23:23:52 GMT</pubDate>
+      <title>[媒体] Z世代俚语在不断演变，新术语不断涌现。</title>
+      <link>https://t.me/hn_summary/77279</link>
+      <description><![CDATA[Z世代俚语列表
+Z 世代俚语在不断演变，新术语不断涌现。从“af”到“boujee”再到“drip”，这个列表涵盖了当今年轻人使用的最新俚语。一些术语，如“BDE”和“clapback”，已经广泛流行，而其他术语，如“fanum Tax”，则更为小众。无论您是想跟上最新趋势还是只是想了解孩子们在说什么，此列表都能满足您的需求。因此，下次当您听到有人说“下注”或“额外”时，您就会确切地知道他们的意思。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77279</guid>
+      <pubDate>Sun, 03 Mar 2024 02:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
