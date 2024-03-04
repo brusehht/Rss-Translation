@@ -4,88 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 15:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 18:09:13 GMT</lastBuildDate>
     <item>
-      <title>介绍我们的网球计算器，这是一种使用马尔可夫模型来分析获胜概率的工具 [...]</title>
-      <link>https://t.me/hn_summary/77535</link>
-      <description><![CDATA[展示HN：基于马尔可夫模型的网球获胜概率分析器
-介绍我们的网球计算器，这是一种使用马尔可夫模型根据任何给定分数分析获胜概率的工具。只需输入玩家 1 和玩家 2 的游戏、设置和比赛数据，然后让计算器计算赔率。对于希望深入了解比赛动态的网球爱好者来说，该工具是一个改变游戏规则的工具。请访问 tenniscalc.pythonanywhere.com 并获取您的网球分析更上一层楼。]]></description>
-      <guid>https://t.me/hn_summary/77535</guid>
-      <pubDate>Mon, 04 Mar 2024 15:13:34 GMT</pubDate>
+      <title>[媒体]随着编程语言的发展，Java 在某些方面开始类似于 Rust，并且 [...]</title>
+      <link>https://t.me/hn_summary/77569</link>
+      <description><![CDATA[Java 变得越来越像 Rust，我就是为了它&lt; /a&gt;
+随着编程语言的发展，Java 在某些方面开始类似于 Rust，这是一件好事。尽管存在社区问题，Rust 对编译器强制正确性的关注使其很受欢迎。由于记录类和密封接口等现代更新，Java 现在融入了类似 Rust 的功能，例如不可变数据结构和代数数据类型。虽然 Java 永远不会完全成为 Rust，但这些新增功能将巩固其作为商业编程首选的地位。随着 OpenJDK 项目对开发人员生产力的承诺，Java 将在未来几年保持甚至增加其市场份额。]]></description>
+      <guid>https://t.me/hn_summary/77569</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gleam 1.0.0 版本已经发布，标志着该语言的一个重要里程碑。</title>
-      <link>https://t.me/hn_summary/77534</link>
-      <description><![CDATA[Gleam 版本 1
-Gleam 1.0.0 版本已经发布，标志着该语言的一个重要里程碑。 Gleam 的目标是让编程变得可预测且有趣，只需一个下午就能学会的小知识。该语言具有强大的静态分析和受 Elm、OCaml 和 Rust 启发的类型系统。版本 1 表示稳定性和可用于生产使用，重点是保持向后兼容性。未来的计划包括提高 Gleam 项目的开发人员生产力和可持续性。此外，Gleam 的吉祥物 Lucy 也进行了重新设计，为这个社区驱动的项目增添了一丝魅力。]]></description>
-      <guid>https://t.me/hn_summary/77534</guid>
-      <pubDate>Mon, 04 Mar 2024 15:01:27 GMT</pubDate>
+      <title>[媒体]Yuzu模拟器的开发商已与任天堂达成和解，同意[...]</title>
+      <link>https://t.me/hn_summary/77568</link>
+      <description><![CDATA[柚子模拟器开发商和解任天堂诉讼，支付 240 万美元赔偿
+Yuzu 模拟器的开发商已与任天堂达成和解，同意支付 240 万美元的赔偿金。这标志着模拟器法律纠纷的结束，该模拟器允许用户在计算机上玩任天堂 Switch 游戏。该和解凸显了游戏行业中围绕模拟和版权侵权的持续争议。尽管达成和解，Yuzu 模拟器仍然是希望在其他平台上玩 Nintendo Switch 游戏的玩家的热门选择。]]></description>
+      <guid>https://t.me/hn_summary/77568</guid>
+      <pubDate>Mon, 04 Mar 2024 18:07:08 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】今天，Gleam v1.0.0 已经发布，这标志着该语言的一个重要里程碑。</title>
-      <link>https://t.me/hn_summary/77533</link>
-      <description><![CDATA[Gleam v1.0.0 发布
-今天，Gleam v1.0.0 已经发布，标志着该语言的一个重要里程碑。 Gleam 的目标是让编程变得可预测、无压力、令人愉快，而且占地面积小，一下午就能轻松学会。该语言具有强大的静态分析和受 Elm、OCaml 和 Rust 启发的类型系统。版本 1 表示稳定性和可用于生产使用，重点是保持向后兼容性。 Gleam v1 后的未来将优先考虑用户的生产力和项目的可持续性，包括改善开发人员体验、提高现实世界的生产力以及确保对贡献者的财务支持。另外，来认识一下 Gleam 可爱的吉祥物露西！]]></description>
-      <guid>https://t.me/hn_summary/77533</guid>
-      <pubDate>Mon, 04 Mar 2024 14:44:18 GMT</pubDate>
+      <title>[媒体]最高法院裁定各州不能取消前总统唐纳德·特朗普的选举资格 [...]</title>
+      <link>https://t.me/hn_summary/77567</link>
+      <description><![CDATA[最高法院规定各州不能因叛乱而将特朗普从选票中删除
+最高法院裁定，各州不得取消前总统唐纳德·特朗普在 2021 年 1 月 6 日美国国会大厦袭击事件中所扮演角色的投票资格。法院认为，只有国会，而非各州，才能执行第十四修正案第 3 条。巴雷特法官、索托马约尔法官、卡根法官和杰克逊法官对这一决定持有不同意见。该裁决影响即将举行的初选，缅因州和伊利诺伊州的决定可能会被推翻。法院做出这一裁决的同时，还涉及其他涉及特朗普的案件，其中包括与 2020 年大选有关的指控。争议在于对第十四修正案的解释以及各州与国会之间的权力平衡。]]></description>
+      <guid>https://t.me/hn_summary/77567</guid>
+      <pubDate>Mon, 04 Mar 2024 18:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 dailydevtools.com 上推出 Rails 命令生成器工具！</title>
-      <link>https://t.me/hn_summary/77532</link>
-      <description><![CDATA[显示 HN：Rails 命令生成器工具
-在 dailydevtools.com 上介绍 Rails 命令生成器工具！该工具可让您轻松为 Rails 项目生成命令，并提供各种数据库选项（包括 PostgreSQL 和 MySQL）、JavaScript 工具（如 Webpack 和 Rollup）、CSS 框架（如 Tailwind 和 Bootstrap）以及资产管道选项（如 Sprockets 和 Propshaft）。只需点击几下即可自定义您的项目并简化您的开发流程。立即查看这个方便的工具，将您的 Rails 项目提升到新的水平！]]></description>
-      <guid>https://t.me/hn_summary/77532</guid>
-      <pubDate>Mon, 04 Mar 2024 14:35:11 GMT</pubDate>
+      <title>[媒体] 隆重介绍 Claude 3 车型系列：Opus、Sonnet、Haiku、我们最新的多式联运模式 [...]</title>
+      <link>https://t.me/hn_summary/77566</link>
+      <description><![CDATA[克劳德 3 模型家族：作品、十四行诗、俳句 [pdf](https://news.ycombinator.com/item?id=39590652)
+隆重推出 Claude 3 模型系列：Opus、Sonnet、Haiku，这是我们最新的具有图像处理视觉功能的多模态模型。 Opus 在推理、数学和编码方面处于领先地位，而 Sonnet 则提供了技能和速度的平衡。 Haiku 是最快且最实惠的选择，在文本任务中表现出色。这些模型提高了非英语语言的流利程度，并且适用于全球应用。 Claude 3 系列由 Anthropic 开发，树立了新的行业基准，专为自动化、创收和跨行业研究而设计。虽然功能强大，但建议在高风险情况下保持谨慎，禁止的用途包括政治竞选和监视。我们的负责任的扩展政策可确保安全和合乎道德的使用。 （根据故事文本的 12% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77566</guid>
+      <pubDate>Mon, 04 Mar 2024 18:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Poopup.co，这是一款旨在提高网站转化率的革命性工具 [...]</title>
-      <link>https://t.me/hn_summary/77531</link>
-      <description><![CDATA[Show HN：我制作了一个工具来促使访问者购买您的产品
-隆重推出 Poopup.co，这是一款旨在提高网站转化率的革命性工具通过温和地推动访客购买您的产品来提高价格。只需复制一小段代码并将其粘贴到您的网站上，无论是 WordPress、Shopify、Wix、Squarespace 还是任何其他平台。这种创新工具易于使用，并且在推动销售方面非常有效。通过 Poopup.co 告别错失的机会，迎接增加的收入。今天就尝试一下，您的销售额就会飙升！]]></description>
-      <guid>https://t.me/hn_summary/77531</guid>
-      <pubDate>Mon, 04 Mar 2024 14:34:07 GMT</pubDate>
+      <title>[媒体]Revy 是 Bevy 游戏引擎的概念验证时间旅行调试器，利用 Rerun。</title>
+      <link>https://t.me/hn_summary/77565</link>
+      <description><![CDATA[Revy – Bevy 的概念验证时间旅行调试器游戏引擎
+Revy 是 Bevy 游戏引擎的概念验证时间旅行调试器，利用 Rerun。它旨在调查游戏玩法、物理和一般行为错误，提供一种随时检查和可视化引擎状态的方法。与图形调试器或性能分析器不同，Revy 专注于用于调试目的的数据库快照和日志记录。它允许实时或事后分析，并可以共享录音以进行重播或错误报告。该实验项目探索了 Rerun 在游戏开发中的潜力，提供自定义记录器以及与 Bevy 和 Rerun 版本的兼容性。]]></description>
+      <guid>https://t.me/hn_summary/77565</guid>
+      <pubDate>Mon, 04 Mar 2024 18:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：Postgres 列存储索引与索引</title>
-      <link>https://t.me/hn_summary/77530</link>
-      <description><![CDATA[显示 HN：Postgres 列存储索引与 ClickHouse 进行 OLAP 查询
-标题：显示 HN：Postgres 列存储索引与 ClickHouse 进行 OLAP 查询
-
-在 www.tablespace.io 上，我们进行了独立基准测试将表空间平台上的 Postgres 与用于 OLAP 查询的 ClickHouse 进行比较。结果表明，Tablespace 比 ClickHouse Cloud 快 1.6 倍，成本低 50%。利用列存储索引，Tablespace 成为世界上最快的用于分析查询的 Postgres 数据库平台。通过针对分析工作负载优化 Postgres，Tablespace 比 Vanilla Postgres 提供了显着的性能改进。此外，表空间针对混合事务和分析 (HTAP) 工作负载进行了全面优化，性能提高了 10 至 2000 倍。注册 Tablespace 并亲自查看基准测试结果！]]></description>
-      <guid>https://t.me/hn_summary/77530</guid>
-      <pubDate>Mon, 04 Mar 2024 14:33:03 GMT</pubDate>
+      <title>Opus 1.5 已发布，具有突破性的机器学习升级，标志着 [...]</title>
+      <link>https://t.me/hn_summary/77564</link>
+      <description><![CDATA[Opus 1.5 发布：Opus 机器学习得到重大升级
+Opus 1.5 已发布，具有突破性的机器学习升级，标志着音频质量改进的重大转变。该版本引入了深度学习技术来增强音频体验，重点关注丢包隐藏、冗余和语音质量增强等领域。 Opus 中深度神经网络的使用可以实现更高效的处理，而不会影响与旧设备的兼容性。值得注意的是，Opus 1.5 包括 Deep REDundancy (DRED) 和神经声码器等功能，展示了在优化音频编解码器方面取得的创新进步。此次升级使用户能够无缝过渡到更高质量的音频，同时保持运营效率。 （根据 50% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77564</guid>
+      <pubDate>Mon, 04 Mar 2024 17:58:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇发人深省的文章中，作者反思了他们过去对maki的痴迷[...]</title>
-      <link>https://t.me/hn_summary/77529</link>
-      <description><![CDATA[为什么金钱不是答案
-在这篇发人深省的文章中，作者反思了他们过去对赚钱的痴迷以及这对他们个人生活造成的影响。他们意识到真正的幸福并非来自财富，而是来自有意义的联系和经历。作者强调了在工作和个人生活之间找到平衡、追求激情以及将人际关系置于物质成功之上的重要性。传达的信息很明确：追逐金钱并不是实现充实生活的答案，而是专注于真正带来快乐和满足的事物。]]></description>
-      <guid>https://t.me/hn_summary/77529</guid>
-      <pubDate>Mon, 04 Mar 2024 14:31:57 GMT</pubDate>
+      <title>[媒体]RustCUPP 是一个用 Rust 实现的通用用户密码分析器 (CUPP)，旨在 c [...]</title>
+      <link>https://t.me/hn_summary/77563</link>
+      <description><![CDATA[显示 HN：Rust 中的通用用户密码分析器 (CUPP)
+RustCUPP 是一个用 Rust 实现的通用用户密码分析器（CUPP），旨在根据用户信息创建个性化单词列表以进行密码破解。它旨在解决弱密码问题，弱密码很容易被猜到并带来安全风险。该项目可用于法律渗透测试或法医犯罪调查。作者指出，Rust 版本的程序产生的单词比 Python 版本更多，这凸显了进一步测试和优化的必要性。该项目的路线图包括添加测试、优化代码、实施 CI/CD、添加更多基准、文档以及利用 Clippy 提高代码质量。]]></description>
+      <guid>https://t.me/hn_summary/77563</guid>
+      <pubDate>Mon, 04 Mar 2024 17:57:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Icebreaker.to，这是一款为 Twitt 生成个性化消息的便捷工具 [...]</title>
-      <link>https://t.me/hn_summary/77528</link>
-      <description><![CDATA[Show HN：为Twitter/X冷生成个人消息的工具外展
-隆重推出 Icebreaker.to，这是一款为 Twitter 生成个性化消息的便捷工具/X 冷漠的外展。只需添加收件人的 Twitter 用户名，从生成的三条消息中进行选择，然后将其发送出去，作为完美的破冰之道。该工具以独特且高效的方式简化了联系新联系人和开始对话的过程。尝试一下，看看 Icebreaker.to 如何帮助您社交媒体上有意义的联系。]]></description>
-      <guid>https://t.me/hn_summary/77528</guid>
-      <pubDate>Mon, 04 Mar 2024 14:30:52 GMT</pubDate>
+      <title>[媒体] GraphRAG 由微软研究院开发，是增强 [...]</title>
+      <link>https://t.me/hn_summary/77562</link>
+      <description><![CDATA[GraphRAG：解锁叙事私有数据上的 LLM 发现&lt; br/&gt;
+GraphRAG 由微软研究院开发，是增强法学硕士对私有数据集进行数据调查能力的突破性进步。通过使用 LLM 生成的知识图，GraphRAG 显着提高了问答性能，尤其是在基线 RAG 遇到困难的情况下。这种方法允许进行整个数据集推理，使法学硕士能够将数据集组织成有意义的语义集群，并在响应用户查询时总结主题。 GraphRAG 为每个响应提供出处，确保准确性并能够根据原始源材料轻松审核结果。这种创新技术为利用法学硕士从叙述性私人数据中发现见解开辟了新的可能性。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77562</guid>
+      <pubDate>Mon, 04 Mar 2024 17:56:35 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 推出了最新的 M3 MacBook Air 系列，有 13 英寸和 15 英寸尺寸可供选择。</title>
-      <link>https://t.me/hn_summary/77527</link>
-      <description><![CDATA[Apple 推出搭载 M3 的新款 13 英寸和 15 英寸 MacBook Air芯片
-Apple 推出了最新的 M3 MacBook Air 系列，有 13 英寸和 15 英寸尺寸可供选择。新型号采用 M3 芯片，具有改进的 CPU 和 GPU 性能、更快的神经引擎和升级的 Wi-Fi 功能。一个突出的功能是能够连接两个外部显示器，但仅限于笔记本电脑盖关闭时。尽管存在这一限制，M3 MacBook Air 仍提供了坚实的规格提升，具有更快的处理能力和 Wi-Fi 6E 支持。这些笔记本电脑有午夜色、星光色、深空灰色和银色可供选择，13 英寸型号起价为 1099 美元，15 英寸型号起价为 1299 美元。]]></description>
-      <guid>https://t.me/hn_summary/77527</guid>
-      <pubDate>Mon, 04 Mar 2024 14:29:48 GMT</pubDate>
+      <title>摘要：在这篇博文中，作者分享了他们解决“Kubernetes [...]</title>
+      <link>https://t.me/hn_summary/77561</link>
+      <description><![CDATA[Kubernetes 的艰难之路 – Vagrant、Ansible、无云
+标题：Kubernetes 的艰难之路 – Vagrant、Ansible、无云
+摘要：在这篇博文中，作者分享了他们在不使用任何云提供商的情况下应对“Kubernetes The Hard Way”挑战的经验。他们使用 Vagrant 和 VirtualBox 来创建节点，使用 Ansible 进行配置，使用 Cilium 进行网络 CNI。这篇文章深入探讨了从头开始设置 Kubernetes 集群的细节，强调了了解 Kubernetes 内部工作原理的重要性。作者深入介绍了他们的 Vagrantfile 配置、专用网络设置、负载均衡器端口转发以及在此过程中面临的挑战。一个独特的方面是采用本地方法，为系统管理员提供实践学习体验。 （根据故事文本的 11% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77561</guid>
+      <pubDate>Mon, 04 Mar 2024 17:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Anthropic 推出了 Claude 3，这是一套强大的人工智能模型，包括 Opus、Sonnet、[...]</title>
-      <link>https://t.me/hn_summary/77526</link>
-      <description><![CDATA[人类首次亮相克劳德 3
-Anthropic 推出了 Claude 3，这是一套强大的人工智能模型，包括 Opus、Sonnet 和 Haiku。 Opus 在行业测试中优于 GPT-4 和 Gemini Ultra 等竞争对手。 Anthropic 在过去一年中与 ChatGPT 竞争，获得了大量资金和人气。 Claude 3 可以概括多达 150,000 个单词，并为数据分析提供多模式支持。尽管人工智能领域正在蓬勃发展，但对偏见的担忧依然存在。 Anthropic 强调其模型的安全性和功能。多模态是人工智能的一个关键趋势，但也带来了风险，正如谷歌的图像生成器问题所示。 Claude 3 专注于分析而不是图像生成。]]></description>
-      <guid>https://t.me/hn_summary/77526</guid>
-      <pubDate>Mon, 04 Mar 2024 14:28:44 GMT</pubDate>
+      <title>[媒体]GitHub 上的“Golang 中的 Workflow Orchestrator”项目提供了一个极其轻量级的 [...]</title>
+      <link>https://t.me/hn_summary/77560</link>
+      <description><![CDATA[展示 HN：Golang 中的工作流程协调器
+GitHub 上的“Golang 中的工作流编排器”项目受 databuilderframework 的启发，为 Golang 提供了一个极其轻量级的工作流编排器。它专为多步骤工作流执行而设计，步骤之间具有依赖关系，跨越单个或多个请求范围。该项目允许使用可以以各种方式组合的可重用组件创建工作流程。它还支持暂停、恢复和重新启动工作流程。作者指出，与 Cadence 和 Conductor 等其他框架相比，工作流版本控制和抽象级别存在局限性。据说该框架开销较低，并预先生成执行图，以实现高效的运行时性能。]]></description>
+      <guid>https://t.me/hn_summary/77560</guid>
+      <pubDate>Mon, 04 Mar 2024 17:48:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
