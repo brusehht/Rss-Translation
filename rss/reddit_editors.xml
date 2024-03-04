@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 04 Mar 2024 00:48:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 03:41:31 GMT</lastBuildDate>
     <item>
       <title>在 Premiere Pro 中编辑 6K B-RAW 素材的最佳工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1b5wezx/best_workflow_for_editing_6k_braw_footage_in/</link>
-      <description><![CDATA[我在这里有点困惑，需要一些指导。因此，我正在 Premiere Pro 中处理一些大量的 6K B-RAW 素材，并且正在尝试找出最佳工作流程来优化我的编辑过程。  我应该：  将素材直接导入 Premiere 并从那里创建代理吗？ 将素材导入 Adob​​e Media Encoder首先创建具有更多控制权的代理？ 将单独的文件从 B-RAW 编码为 4K ProRes 和 480p，然后使用 480p 代理进行编辑，同时将 4K ProRes 文件链接为全分辨率媒体Premiere？  （我知道所有方法都使用 AME，但我在选项 2/3 中拥有更多控制权，例如为 6K 制作低至 480p 分辨率的代理）。  我倾向于选项 3，但我并不完全确定。有没有经验丰富的剪辑师可以介绍一下在 Premiere Pro 中处理高分辨率素材的最有效工作流程？  我担心的是，当我创建代理并在分辨率之间切换时，它会弄乱我的效果、变换和调整图层。 另一方面，如果我对单独的文件进行编码从 B-RAW 到 4K ProRes 以及 480p，并从 480p 进行编辑，并将 4K ProRes 作为全分辨率媒体链接，这会是一个更流畅的工作流程吗？  在这方面，我是否应该将 480p 编码为 ProRes 还是 H.264？因为我听说 NLE 针对 ProRes Media 进行了更好的优化。   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
+      <description><![CDATA[我在这里有点困惑，需要一些指导。因此，我正在 Premiere Pro 中处理一些大量的 6K B-RAW 素材，并且正在尝试找出最佳工作流程来优化我的编辑过程。  我应该：  将素材直接导入 Premiere 并从那里创建代理吗？ 将素材导入 Adob​​e Media Encoder首先创建具有更多控制权的代理？ 将单独的文件从 B-RAW 编码为 4K ProRes 和 480p，然后使用 480p 代理进行编辑，同时将 4K ProRes 文件链接为全分辨率媒体Premiere？  （我知道所有方法都使用 AME，但我在选项 2/3 中有更多控制权，例如为 6K 制作低至 480p 分辨率的代理）。  我倾向于选项 3，但我并不完全确定。有没有经验丰富的剪辑师可以介绍一下在 Premiere Pro 中处理高分辨率素材的最有效工作流程？  我担心的是，当我创建代理并在分辨率之间切换时，它会弄乱我的效果、变换和调整图层。 另一方面，如果我对单独的文件进行编码从 B-RAW 到 4K ProRes 以及 480p，并从 480p 进行编辑，并将 4K ProRes 作为全分辨率媒体链接，这会是一个更流畅的工作流程吗？  在这方面，我是否应该将 480p 编码为 ProRes 还是 H.264？因为我听说 NLE 针对 ProRes Media 进行了更好的优化。   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b5wezx/best_workflow_for_editing_6k_braw_footage_in/</guid>
       <pubDate>Mon, 04 Mar 2024 00:03:25 GMT</pubDate>
     </item>
@@ -34,16 +34,16 @@
       <pubDate>Sun, 03 Mar 2024 04:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>有什么电影剪辑技巧是你以前从未注意到，但现在一旦看到却无法忽视的？</title>
+      <title>有什么电影剪辑技巧是你以前从未注意到但现在一旦看到却无法忽视的？</title>
       <link>https://www.reddit.com/r/editors/comments/1b58595/whats_a_film_editing_technique_you_never_noticed/</link>
-      <description><![CDATA[我先启动它。我注意到，有时节目需要来自从未拍摄过的演员的反应。 所以他们会拍摄一个剪辑，反转它，与插入内容进行插切，然后正常播放。 《熊》第一季中有一个片段，里奇向警察举报了一些暴徒。 他们确实使用了他看向别处的镜头，然后将其反转，这样看起来他正在转过头朝向摄像机。 它的效果非常好，除了你总能看出它何时反转，因为演员的眼睛跟随他们的头部运动，这表明它是不自然的。 现在我可以了。不相信有多少电影一直在使用这个！   由   提交 /u/carlostambien   [链接] [评论]]]></description>
+      <description><![CDATA[我先启动它。我注意到有时节目需要来自从未拍摄过的演员的反应。 因此他们会拍摄一个剪辑，反转它，与插入内容进行插切，然后正常播放。 《熊》第一季中有一个片段，里奇向警察举报一些暴徒。 他们确实用了一个他看向别处的镜头，然后将其反转，这样看起来他正在转过头朝向相机。 效果非常好，除了你总能看出它何时反转，因为演员的眼睛跟随他们的头部运动，这表明它是不自然的。 现在我可以了。不相信有多少电影一直在使用这个！   由   提交 /u/carlostambien   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b58595/whats_a_film_editing_technique_you_never_noticed/</guid>
       <pubDate>Sun, 03 Mar 2024 04:20:12 GMT</pubDate>
     </item>
     <item>
       <title>在 Resolve 上使用代理播放时出现断断续续的情况，在 Premiere Pro 上使用代理时播放流畅吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1b53pnt/choppy_playback_with_proxies_on_resolve_smooth/</link>
-      <description><![CDATA[大家好，这里有问题。似乎无论我做什么，播放都会断断续续，并且在断断续续的播放中编辑运动镜头以寻找那些有趣的快速时刻非常困难。我在固态硬盘上创建了代理文件。它们的格式为 1080p .mov。我还尝试在 Davinci Resolve 中生成优化媒体。 这是我的 mac macOS Sonoma 14.2.1 芯片：Apple M2 Pro 核心总数：12（8 个性能和4 效率） 内存：16 GB 奇怪的是，我可以在 Premiere Pro 上流畅地播放素材，即使没有代理，但在 Davinci 中，设置代理文件和四分之一分辨率播放仍然存在问题。还清除了缓存并按照此视频中的步骤进行操作。 https://youtu.be/j4yLY00BezY?si= CvI\_fALWRgypboVw 感谢任何帮助！   由   提交 /u/bemzilla   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，这里有问题。似乎无论我做什么，播放都会断断续续，并且在断断续续的播放中编辑运动镜头以寻找那些有趣的快速时刻非常困难。我在固态硬盘上创建了代理文件。它们的格式为 1080p .mov。我还尝试在 Davinci Resolve 中生成优化媒体。 这是我的 mac macOS Sonoma 14.2.1 芯片：Apple M2 Pro 核心总数：12（8 个性能和4 效率） 内存：16 GB 奇怪的是，我可以在 Premiere Pro 上流畅地播放素材，即使没有代理，但在 Davinci 中，设置代理文件和四分之一分辨率播放仍然存在问题。还清除了缓存并按照该视频中的步骤进行操作。 https://youtu.be/j4yLY00BezY?si= CvI\_fALWRgypboVw 感谢任何帮助！   由   提交 /u/bemzilla   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b53pnt/choppy_playback_with_proxies_on_resolve_smooth/</guid>
       <pubDate>Sun, 03 Mar 2024 00:39:05 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>在 Resolve 中将立体声 wav 导出为单独的左右通道</title>
       <link>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</link>
-      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学。为了质量控制，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
+      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学习。为了控制质量，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</guid>
       <pubDate>Sat, 02 Mar 2024 11:58:25 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>我该如何处理这些 SSD？！</title>
       <link>https://www.reddit.com/r/editors/comments/1b4a3h3/what_do_i_do_with_all_these_ssds/</link>
-      <description><![CDATA[在过去 4 年里，我积累了 100 多个外部 SSD（主要是三星 T5、T7） 我可以剥离它们吗从机箱中取出一块SSD？是否有任何公司有用于此目的的文档或附件？ 我是否将它们保留为存储空间？卖掉这些？！？  当一个项目在你快速工作的驱动器上完成后，你们都会做什么？你会把它移到速度较慢的 HDD 上吗？ 谢谢  编辑：我与一位 DIT 朋友交谈过，不幸的是，驱动器外形尺寸是三星专有的，它不适合去壳后放在任何外壳或 NAS 中:(。  因此，在我将这些转储到我拥有的 HDD 存储中后，我将发布一些出售给你们这些疯狂的野兽。 &lt; /div&gt;   提交者    /u/glowinthedark  &lt; br /&gt; [链接] [评论]]]></description>
+      <description><![CDATA[在过去 4 年里，我积累了 100 多个外部 SSD（主要是三星 T5、T7） 我可以剥离它们吗从机箱中取出一块SSD？是否有任何公司有用于此目的的文档或附件？ 我是否将它们保留为存储空间？卖掉这些？！？  当一个项目在你快速工作的驱动器上完成后，你们都会做什么？你会把它移到速度较慢的 HDD 吗？ 谢谢  编辑：我与一位 DIT 朋友交谈过，不幸的是，驱动器外形尺寸是三星专有的，它不适合去壳后放在任何外壳或 NAS 中:(。  因此，在我将这些转储到我拥有的 HDD 存储中后，我将发布一些出售给你们这些疯狂的野兽。 &lt; /div&gt;   提交者    /u/glowinthedark  &lt; br /&gt; [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4a3h3/what_do_i_do_with_all_these_ssds/</guid>
       <pubDate>Sat, 02 Mar 2024 00:10:20 GMT</pubDate>
     </item>
