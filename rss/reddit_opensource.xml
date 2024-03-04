@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 07:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 10:58:35 GMT</lastBuildDate>
+    <item>
+      <title>开源跨平台渲染框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b673ly/open_source_crossplatform_rendering_framework/</link>
+      <description><![CDATA[https://github.com/Dragons-Lake /REI REI是一个跨平台渲染框架。它作为一个全面的图形API，适用于各种平台，包括PC、控制台和移动设备。它简化了移植，特别是对于在自定义或专有引擎上开发的游戏。 REI 可以充当跨平台 API 以及特定于平台的 API 的帮助程序库。   由   提交/u/room8studio_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b673ly/open_source_crossplatform_rendering_framework/</guid>
+      <pubDate>Mon, 04 Mar 2024 09:48:45 GMT</pubDate>
+    </item>
     <item>
       <title>有没有适用于 Gear S2 的三星手表应用程序的开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>除了想要获得信用之外，还有什么理由比 MIT-0 和 BSD0 更喜欢 MIT 和 BSD 2-Clause 许可证吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/</link>
-      <description><![CDATA[标准 MIT（又名 X11）许可证要求在任何衍生产品中包含此许可证的副本。  &lt; p&gt;上述版权声明和本许可声明应包含在软件的所有副本或主要部分中。  与 BSD0 几乎相同。 MIT- 0 和 BSD0 （遗憾的是他们没有称之为 BSD-0） 是排除此要求的这些许可证的版本。 是否有理由保留此要求？使用以前的许可证而不是公共领域的等效许可证，而不是希望合法地要求衍生作品的开发商提供信用？或者是否有法律原因说明常规 MIT 和 BSD 2-Clause 更好？   由   提交/u/Qwert-4  /u/Qwert-4 reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[标准 MIT（又名 X11）许可证要求在任何衍生产品中包含此许可证的副本。  &lt; p&gt;上述版权声明和本许可声明应包含在软件的所有副本或主要部分中。  与 BSD 2-Clause 几乎相同。 MIT-0 和 BSD0 （很遗憾他们没有称之为 BSD-0） 是这些许可证的版本，排除了此要求。 有理由保留吗除了希望合法地要求衍生作品的开发商提供信用之外，是否会遵循这一要求并使用以前的许可证而不是公共领域的等效许可证？或者是否有法律原因说明常规 MIT 和 BSD 2-Clause 更好？   由   提交/u/Qwert-4  /u/Qwert-4 reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/</guid>
       <pubDate>Sun, 03 Mar 2024 18:41:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我知道开源 Fluent Emoji 存在某些例外情况（clippy、世界国旗、某些使用 Microsoft 品牌的表情符号等），但是我很好奇 3D 动画版本是否也是开源的？ 3D 动画版本参考此处。我不相信这些位于原始的 MSFT GitHub 存储库中，但它们列在 Emojipedia 上，所以我只想确认一下。谢谢！   由   提交 /u/SkinADeer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</guid>
       <pubDate>Sat, 02 Mar 2024 02:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>dotnet-gemini-sdk,.NET SDK，用于与 Google Gemini 无缝高效集成,下载dotnet-gemini-sdk的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b4coyg/github_gsilvamartindotnetgeminisdk_net_sdk_for/</link>
-      <description><![CDATA[       由   提交 /u/gsilvamartin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b4coyg/github_gsilvamartindotnetgeminisdk_net_sdk_for/</guid>
-      <pubDate>Sat, 02 Mar 2024 02:08:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 07:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 10:58:28 GMT</lastBuildDate>
+    <item>
+      <title>有没有人遇到过阻止文本复制的网站，你能分享一些例子吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b680dq/has_anyone_encountered_websites_that_prevent_text/</link>
+      <description><![CDATA[大家好， 我一直在寻找不允许复制文本的网站。我尝试过 Google 和 Bing，还询问了 Copilot Chat（带网络搜索的 GPT-4）。但我一直找到的只是有关如何从阻止复制的网站复制文本的网站指南的链接，而不是阻止复制的实际网站。 这非常困难，老实说，我不敢相信我我花了很多时间在这上面但没有运气。这里有人能给我指出一些限制文本复制的网站示例吗？只需要一些链接即可亲自查看。 提前致谢！   由   提交 /u/Straight_Random_2211   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b680dq/has_anyone_encountered_websites_that_prevent_text/</guid>
+      <pubDate>Mon, 04 Mar 2024 10:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIX：1 个网站的 2 个域名存在问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b67y16/wix_problems_with_2_domain_names_for_1_website/</link>
+      <description><![CDATA[您好， 我的朋友想要为她的网站获取另一个备用域名。她在 wix 以外的其他地方购买了它，我将其转移到她的 WIX 帐户，但是，现在我找不到保留两者的方法。 我只想能够单击示例：example.com 并将我发送到 exemple.com 现有网站。  有人有什么想法吗？  Wix 不是我的菜，请帮忙！   由   提交/u/Xtab2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b67y16/wix_problems_with_2_domain_names_for_1_website/</guid>
+      <pubDate>Mon, 04 Mar 2024 10:42:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有多语言输入元素的方法/方式/设计路径？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b67jhf/is_there_a_methodwaydesign_path_to_multilanguage/</link>
+      <description><![CDATA[      嗨，我目前正在使用我自己的，是这样的，但想知道是否有是一种方法、设计路径或此类元素的一些示例...实现此类内容的最佳方法是什么...  https://preview.redd.it/voozr0fzlamc1.png?width=646&amp;format=png&amp;auto=webp&amp; s=45f4818f131bb61adb54ea2184bc7cf789839ff3   由   提交 /u/os_nesty   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b67jhf/is_there_a_methodwaydesign_path_to_multilanguage/</guid>
+      <pubDate>Mon, 04 Mar 2024 10:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么类型的耳机？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b672ls/what_type_of_headphones_do_you_use_and_why/</link>
+      <description><![CDATA[工作时，您使用的计算机是什么类型，为什么？ 有线还是无线？ &lt;耳罩式？入耳式？耳塞？   由   提交 /u/CocoaTrain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b672ls/what_type_of_headphones_do_you_use_and_why/</guid>
+      <pubDate>Mon, 04 Mar 2024 09:46:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用声明式 Shadow DOM，在没有 JavaScript 的情况下乱序流式传输 HTML</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b66byd/streaming_html_out_of_order_without_javascript/</link>
+      <description><![CDATA[ 由   提交/u/niutech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b66byd/streaming_html_out_of_order_without_javascript/</guid>
+      <pubDate>Mon, 04 Mar 2024 08:56:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最常使用哪些人工智能工具？您喜欢它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b658jl/what_ai_tools_you_use_most_and_how_do_you_like_it/</link>
+      <description><![CDATA[我没有尝试过 copilot，但在构建 Vue 应用程序项目之初我经常使用 ChatGPT。我有点把它当作导师——你需要知道如何提出正确的问题才能得到正确的答案。通常是一个帮助者——当我懒得阅读文档但知道可以实现某些东西时。但随着时间的推移，我的问题变得不再那么基本，我意识到它（gpt 4）并不能像以前那样给出快速而简单的答案。  您使用哪些人工智能工具以及您喜欢它吗？   由   提交 /u/sillygoosewinery   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b658jl/what_ai_tools_you_use_most_and_how_do_you_like_it/</guid>
+      <pubDate>Mon, 04 Mar 2024 07:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 AWS Batch 和 Amazon SageMaker 训练和部署机器学习模型？ • 科学世界</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b655v3/how_to_use_aws_batch_and_amazon_sagemaker_to/</link>
+      <description><![CDATA[       由   提交/u/Another_Noob_69   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b655v3/how_to_use_aws_batch_and_amazon_sagemaker_to/</guid>
+      <pubDate>Mon, 04 Mar 2024 07:39:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>dep-tree,允许使用文件的 3d 力导向图及其之间的依赖关系可视化“代码库熵”,下载dep-tree的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b652qp/github_gabotechsdeptree_allows_visualising_a_code/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b652qp/github_gabotechsdeptree_allows_visualising_a_code/</guid>
+      <pubDate>Mon, 04 Mar 2024 07:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite 5.1 已发布 - 您有什么想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b64s7o/vite_51_is_out_what_are_your_thoughts/</link>
+      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b64s7o/vite_51_is_out_what_are_your_thoughts/</guid>
+      <pubDate>Mon, 04 Mar 2024 07:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关我简历上的要点的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b64r0a/need_help_about_a_bullet_point_on_my_resume/</link>
+      <description><![CDATA[嗯，我有点伪造了一个观点，我说我将网络仪表板的 TTI 提高了 16%（我完全没有） 页面有一个导航栏，四个图表，需要对数据库进行四种不同的查询，其中一个是联接，一个从 sv 获取数据的表（这是一个简单的查询）并显示结果，一些静态内容。 如果问我如何准备好此响应（写得非常简洁，以免让您感到厌烦） Ans：重新排序，以便首先显示表格，并延迟加载所有图表以及底部的静态内容页面。 我如何进一步调整我的回答，使其听起来更可信/有趣。我的回答容易被看穿吗？ 编辑： 有人评论（并删除）说我是个撒谎的废物。嗯，我也不喜欢说谎。但猜猜怎么了？在当前经济形势下，我背负着 6 万美元的债务，并试图在这个市场中获得新的毕业生职位   由   提交 /u/SuccMyStrangerThings   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b64r0a/need_help_about_a_bullet_point_on_my_resume/</guid>
+      <pubDate>Mon, 04 Mar 2024 07:11:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Astro.js 创建粘性变更日志</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b64l6j/how_to_ceeate_a_sticky_changelog_with_tailwind/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b64l6j/how_to_ceeate_a_sticky_changelog_with_tailwind/</guid>
+      <pubDate>Mon, 04 Mar 2024 07:01:45 GMT</pubDate>
+    </item>
     <item>
       <title>您有多少用户实际使用渐进式 Web 应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b64die/how_many_of_your_users_actually_use_progressive/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[嗨，我有一个简单的静态 HTML 网站。我每天收到 10-20 封不相关的垃圾邮件。它每天都有相同的 IP 地址。有时会收到 30-50 封电子邮件并拥有 3-4 个 IP 地址。我在联系表单中设置了验证码。但是，我的收件箱每天仍然收到数十封垃圾邮件。我应该怎么办？验证码不能防止垃圾邮件吗？或者我需要使用第三方联系表单扩展吗？请建议我。谢谢。   由   提交/u/kmartin_BIM   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b63f6o/need_help_to_prevent_spammy_emails/</guid>
       <pubDate>Mon, 04 Mar 2024 05:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 应用程序很糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b63e6e/reddit_app_sucks/</link>
-      <description><![CDATA[像 Reddit 这样大的公司怎么可能拥有运行如此糟糕的移动应用程序？我是否遗漏了一些东西，因为我认为在整个阿波罗事件加上谷歌交易之后，这不会是一个问题。 Reddit 工程师整天都在做什么？   由   提交/u/notabadger9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b63e6e/reddit_app_sucks/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 VS Code 时程序无法运行，因为无法加载本地文件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b633v5/program_wont_run_when_using_vs_code_because_it/</link>
-      <description><![CDATA[我正在使用括号和 p5.js 开发一个应用程序，它工作正常，但我尝试在 VS Code 中使用“运行”和“调试”。当它在 Chrome 中打开时，我只是看到一个白屏（Edge 也是如此）。当我检查控制台时，我收到以下错误消息： 从源“null”获取“（文件名）”的访问已被 CORS 策略阻止：仅协议方案支持跨源请求： http、数据、独立应用程序、chrome 扩展、chrome、https、chrome 不受信任。 和 无法加载资源：net::ERR_FAILED 文件加载的行如下：handleSprite = loadImage(“library/sprites/Handle.png”);以 js 文件的位置作为根。 我想我之前读过一些有关此问题的内容，答案是“您无法向消费者提供存储在 PC 上的本地文件” ;.好的，但我只想测试我在 PC 上制作的应用程序。我没有任何服务器可言。 我对 Web 开发非常陌生，所以我真的不知道如何为 Web 应用程序加载文件。我将其发布在这里是因为我不认为这是 p5 问题或 VS Code 问题。如有任何帮助，我们将不胜感激。   由   提交 /u/MalgorgioArhhnne   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b633v5/program_wont_run_when_using_vs_code_because_it/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员到工程师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b62vv0/developer_to_engineer/</link>
-      <description><![CDATA[作为一名拥有一年经验的全栈开发人员，我注意到我的思维和编码风格更倾向于开发人员的思维方式。然而，我渴望增强我的方法，让自己更像工程师一样思考。是否有任何推荐的资源或提示可以帮助我完成此转换？   由   提交/u/Big-Cchungus  /u/Big-Cchungus  reddit.com/r/webdev/comments/1b62vv0/developer_to_engineer/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b62vv0/developer_to_engineer/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Salesforce 开发转向更标准的 Web 开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b62m54/moving_from_salesforce_development_to_more/</link>
-      <description><![CDATA[我是一名 Salesforce 开发人员，拥有大约 5 年的行业经验。在此期间，我在使用 JavaScript、HTML 和 CSS 的前端技术上做了很多工作。然而，Salesforce 处理了使网站上线和可用的许多过程。因此，您可以做的事情通常受到极大限制。 我希望在我的职业生涯中做出重大转变，从 Salesforce 转向更标准的 Web 开发。问题是：我对销售人员生态系统之外的任何事情都没有任何经验。  有人对我需要学习的技术有什么建议吗（拥有上述三种语言 5 年的经验）？总的来说，我不确定有什么可以用来构建网站。  JavaScript、HTML 和 CSS 足以开始构建网站吗？有人有任何好的资源可以开始这个过程吗？我知道有很多优秀的 JavaScript 库可以在这个过程中提供帮助。对你们所有人的任何提示感兴趣！谢谢！   由   提交 /u/Begeeru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b62m54/moving_from_salesforce_development_to_more/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 比 CSS 更好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b60bsu/javascript_does_css_better/</link>
-      <description><![CDATA[CSS 应该是用于样式的。然而在很多情况下，JS 似乎比 CSS 做得更好。在某些情况下，已经有成熟的 CSS 实践，但您选择 JS，因为它更好。    由   提交 /u/revocer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b60bsu/javascript_does_css_better/</guid>
-      <pubDate>Mon, 04 Mar 2024 03:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳使用语言</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5zeb0/best_language_to_use/</link>
-      <description><![CDATA[我正在创建一个桌面登陆页面，它本质上是一个游戏计算器。放入一个项目，每个项目都有 2 个唯一值，添加其他项目即可得到总计。  这个自定义小部件将具有一些其他功能，例如过滤器、搜索和两种模式之间的循环。  我计划在 WordPress、PHP 上创建这个。现在我正在重新考虑，因为我想开发一个 Android 应用程序，并希望能够简化流程。 我的问题是我应该使用哪种语言来创建桌面网站使用此自定义小部件能够有效地创建具有相同框架的应用程序，而无需太多麻烦。 谢谢！  &amp; #32；由   提交/u/Nabs22  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5zeb0/best_language_to_use/</guid>
-      <pubDate>Mon, 04 Mar 2024 02:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>臃肿的软件并不是坏软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5yw7a/bloated_software_isnt_bad_software/</link>
-      <description><![CDATA[    /u/Unappreciable   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5yw7a/bloated_software_isnt_bad_software/</guid>
-      <pubDate>Mon, 04 Mar 2024 01:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>值得？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5y48d/worth_it/</link>
-      <description><![CDATA[嘿，我是一名目前在大学学习计算机科学的学生。我正在考虑去没有网站的餐馆/地方，并让他们付费为他们创建一个网站。所以更多的是自由职业者类型的事情。但目前阻止我前进的是知道我是否应该了解更多有关后端和设计的知识。我会说我非常擅长创建前端，但当涉及到后端/UI 和 UX 时就不那么擅长了。我是否应该稍等一下并了解有关后端和 UI/UX 的更多信息？或者我应该跳起来然后开始？谢谢你！    由   提交 /u/Bvtterz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5y48d/worth_it/</guid>
-      <pubDate>Mon, 04 Mar 2024 01:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该怎么做才能让这些页面更现代、更美观？全栈农贸市场个人项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5wpt3/what_can_i_do_to_give_these_pages_a_more_modern/</link>
-      <description><![CDATA[      我该如何改进这些？所有功能都已具备，只需要更好的样式和外观。欢迎任何想法 https:// Preview.redd.it/h1pyc681n7mc1.png?width=1896&amp;format=png&amp;auto=webp&amp;s=dc7a3a0fddf955a0be7ca440cf2614f3a1ef93bb https://preview.redd.it/qlzei581n7mc1.jpg?width=1897&amp;format=pjpg&amp;auto=webp&amp;s = 8d82d9906dca2bed648bceeffb65bfedd243787a https： //preview.redd.it/2xhoh881n7mc1.jpg?width=1906&amp;format=pjpg&amp;auto=webp&amp;s=49692b1e2249357c3619e57e2c6b5bdc88c39b2a https://preview.redd.it/9d0qo781n7mc1.png?width=1902&amp;format=png&amp;auto =webp&amp; s=266f179ee4c6b6b1f3792ec45573e0392cd7a107   由   提交 /u/Zorqo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5wpt3/what_can_i_do_to_give_these_pages_a_more_modern/</guid>
-      <pubDate>Mon, 04 Mar 2024 00:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于向页面添加解释性帮助信息并同时创建单独的用户指南的框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5wlag/framework_to_add_explanatory_help_information_to/</link>
-      <description><![CDATA[对于一个很多页面都包含数据科学图表的 Intranet 站点，我想添加一些解释性帮助信息。 目前，我已设法在每个页面上添加此信息，并通过每个页面上的帮助按钮打开覆盖层。 但是，此信息也应作为单独的“用户指南”提供。页面包含每个页面的所有帮助信息。 我可以使用任何轻量级框架来实现这两者吗？ （这样我就不需要将每页帮助文本复制粘贴到用户指南中）   由   提交/u/jan_aloleo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5wlag/framework_to_add_explanatory_help_information_to/</guid>
-      <pubDate>Mon, 04 Mar 2024 00:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似于 html5up 但用于 React 的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b5ueha/websites_similar_to_html5up_but_for_react/</link>
-      <description><![CDATA[在 React 世界中是否有一个与这个精彩网站相当的网站？  我从这里学到了很多解构和定制网站的知识，我想立即做出反应。  有人最喜欢的网站有完整的网站模板或类似于 html5up 的资源吗？   由   提交/u/Round_Astronomer_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b5ueha/websites_similar_to_html5up_but_for_react/</guid>
-      <pubDate>Sun, 03 Mar 2024 22:40:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
