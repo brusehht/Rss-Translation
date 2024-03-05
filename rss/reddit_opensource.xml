@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 00:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 03:13:34 GMT</lastBuildDate>
+    <item>
+      <title>Matro UI - React 组件库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6rt5m/matro_ui_components_library_for_react/</link>
+      <description><![CDATA[我的好朋友，一位高级 UI/UX 设计师，我和我为 React 创建了一个组件库。它称为 Matro UI，并且完全开源。我们一起花了一个月的时间才发布了这个 MVP，我真的希望它会随着时间的推移而越来越受欢迎。 看看，如果你觉得这有用，请给它一颗星。此外，我们正在寻找贡献者，如果这个项目成功，我们计划将其添加到 Open Collective 中。 网站 - https://matro-ui.github.io/ Github - https://github.com/matro-ui/matro-ui/&quot;&gt;https://matro-ui/ /github.com/matro-ui/matro-ui/   由   提交/u/Revolutionary_Floor4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6rt5m/matro_ui_components_library_for_react/</guid>
+      <pubDate>Tue, 05 Mar 2024 00:54:41 GMT</pubDate>
+    </item>
     <item>
       <title>#openweb 资金问题和人们使用的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>为开源数据库做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6o33t/contributing_to_open_source_db/</link>
-      <description><![CDATA[大家好，我对为开源项目做出贡献还很陌生。我目前正在研究一个课程项目。该项目旨在在开源数据库中创建一个功能。我有大约两个月的时间来完成它。我没有运气找到一个好的项目。我希望你们中的一个人能给我一个想法/建议。    由   提交 /u/lunarnirvana   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我对为开源项目做出贡献还很陌生。我目前正在研究一个课程项目。该项目旨在在开源数据库中创建一个功能。我有大约两个月的时间来完成它。我没有运气找到一个好项目。我希望你们中的一个人能给我一个想法/建议。    由   提交 /u/lunarnirvana   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6o33t/contributing_to_open_source_db/</guid>
       <pubDate>Mon, 04 Mar 2024 22:22:05 GMT</pubDate>
     </item>
     <item>
-      <title>请告知云备份 +</title>
+      <title>请告知云备份+</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6o079/please_advise_on_cloud_backup/</link>
-      <description><![CDATA[我一直在做一些研究，但在思考理想解决方案的大局愿景时遇到了一些困难...我正在寻找一种解决方案，它允许我：1.存储和备份数据。来自移动设备和本地 PC 的照片，2. 利用云访问多个设备存储的数据。理想情况下，某种实时笔记应用程序不会与谷歌、苹果等共享我的所有数据。（我也许可以只使用云笔记应用程序和 rsync 或其他东西） 3.最终可能有其他项目，例如作为电子邮件、日历、家庭媒体服务器。即使我们只采用 1 &amp; 2 看来我需要 VPS 和云数据存储解决方案？我希望将两者合而为一，但更重要的是，从长远来看，这具有成本效益。我可以处理两个盒子。（我这样说是因为大多数 VPS 似乎存储空间很小，我理想情况下至少需要 1TB）如果我错了，请纠正我，或者给我指出更理想的位置我可能即将使用 Nextcloud 或推出自己的解决方案，但希望建议和个人经验可以避免我犯一些错误。谢谢大家！不幸的是，跨平台（windows/unix/android）对我来说仍然很重要。 （旁注最近 Unix 世界中的视频游戏支持进展如何？） Oracle 云免费套餐实际上看起来很棒，但空间不够。   由   提交/u/holyhellhelpme   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在做一些研究，但在思考理想解决方案的大局愿景时遇到了一些困难...我正在寻找一种解决方案，它允许我：1.存储和备份数据。来自手机和本地电脑的照片，2.利用云访问多个设备存储的数据。理想情况下，某种实时笔记应用程序不会与谷歌、苹果等共享我的所有数据。（我也许可以只使用云笔记应用程序和 rsync 或其他东西） 3.最终可能有其他项目，例如作为电子邮件、日历、家庭媒体服务器。即使我们只采用 1 &amp; 2 看来我需要 VPS 和云数据存储解决方案？我希望将两者合而为一，但更重要的是，从长远来看，这具有成本效益。我可以处理两个盒子。（我这样说是因为大多数 VPS 似乎存储空间很小，我理想情况下至少需要 1TB）如果我错了，请纠正我，或者给我指出更理想的位置我可能即将使用 Nextcloud 或推出自己的解决方案，但希望建议和个人经验可以避免我犯一些错误。谢谢大家！不幸的是，跨平台（windows/unix/android）对我来说仍然很重要。 （旁注最近 Unix 世界中的视频游戏支持进展如何？） Oracle 云免费套餐实际上看起来很棒，但空间不够。   由   提交/u/holyhellhelpme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6o079/please_advise_on_cloud_backup/</guid>
       <pubDate>Mon, 04 Mar 2024 22:18:58 GMT</pubDate>
     </item>
     <item>
       <title>知识应该免费吗？为什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6n1y8/should_knowledge_be_free_and_why/</link>
-      <description><![CDATA[ 由   提交 /u/nooz_an   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/nooz_an   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6n1y8/should_knowledge_be_free_and_why/</guid>
       <pubDate>Mon, 04 Mar 2024 21:41:06 GMT</pubDate>
     </item>
@@ -50,14 +57,14 @@
     <item>
       <title>现在您会为新项目推荐什么堆栈？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6i51m/what_stack_for_a_new_project_would_you_recommend/</link>
-      <description><![CDATA[大家好！ 准备开始一个新的开源项目，我想“基于网络”。  我考虑过使用 Electron 来让该工具像桌面工具一样使用，尽管它基本上只是基于浏览器。 我还可以做一些事情React + C++/C#/Go 后端。 想知道是否有人有任何建议或类似的经验？   由   提交/u/Joe_Scouter  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 准备开始一个新的开源项目，我想“基于网络”。  我考虑过使用 Electron 来让该工具像桌面工具一样使用，尽管它基本上只是基于浏览器。 我还可以做一些事情React + C++/C#/Go 后端。 想知道是否有人有任何建议或类似的经验？   由   提交 /u/Joe_Scouter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6i51m/what_stack_for_a_new_project_would_you_recommend/</guid>
       <pubDate>Mon, 04 Mar 2024 18:24:01 GMT</pubDate>
     </item>
     <item>
       <title>使用 Google Analytics 计算多租户博客网站的页面浏览量</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6fvn0/counting_page_views_for_a_multi_tenant_blogging/</link>
-      <description><![CDATA[我正在运行一个博客平台，大约有 2000 个用户。我使用谷歌分析来跟踪新用户、参与时间等。我使用 API 来获取每个用户的这些数据并将其显示在他们的仪表板中。我通过过滤页面来做到这一点。在主页中，我显示了来自不同作者的帖子集合，并且对于每个作者，我想显示页面浏览量。我不想发送分析请求，所以我想缓存它。对此有什么好的策略呢？这些是我的想法：每天运行一个 cron 作业并获取所有用户的所有帖子的数据，然后过滤它们并更新数据库。但这可能会很昂贵。我可以实现一种缓存机制，仅在用户请求时才获取特定帖子的分析数据，而不是预先获取所有帖子的数据。但是这样我就无法在主页中显示页面浏览量了。有什么建议/想法吗？   由   提交 /u/redsnowmac   [链接] [评论]]]></description>
+      <description><![CDATA[我正在运行一个博客平台，大约有 2000 个用户。我使用谷歌分析来跟踪新用户、参与时间等。我使用 API 来获取每个用户的这些数据并将其显示在他们的仪表板中。我通过过滤页面来做到这一点。在主页中，我显示了来自不同作者的帖子集合，并且对于每个作者，我想显示页面浏览量。我不想发送分析请求，所以我想缓存它。对此有什么好的策略呢？这些是我的想法：每天运行一个 cron 作业并获取所有用户的所有帖子的数据，然后过滤它们并更新数据库。但这可能会很昂贵。我可以实现一种缓存机制，仅在用户请求时才获取特定帖子的分析数据，而不是预先获取所有帖子的数据。但是这样我就无法 在主页中显示页面浏览量了。 有什么建议/想法吗？   由   提交 /u/redsnowmac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6fvn0/counting_page_views_for_a_multi_tenant_blogging/</guid>
       <pubDate>Mon, 04 Mar 2024 16:56:10 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[三星的官方手表应用程序似乎无法与 microG 配合使用（说我缺少 gear s 插件），是否有任何开源替代方案？ Gadgetbridge 似乎不支持它。 我使用的是运行 crDroid 9 (android 13) 的 Samsung Galaxy S6。 Watch 是一款 Samsung Gear S2，运行最新的 Tizen。   由   提交/u/Lost-Entrepreneur439  /u/Lost-Entrepreneur439 reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b623ln/is_there_any_open_source_alternative_to_samsungs/</guid>
       <pubDate>Mon, 04 Mar 2024 04:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于想要获得工作荣誉的个人来说，是否有任何理由期望获得许可合规性？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</link>
-      <description><![CDATA[我的灵感来自于 /u/Qwert-4 的主题 以及我最近经历的事件。 一些不良行为者通过忽视许可条款滥用了我在开源许可下发布的内容，最重要的是归属条款。我不知道美国以外的情况如何，但为此类许可违规行为寻求法律补救措施可能会付出高昂的代价。我认为众所周知，许多人在开源许可下发布内容并没有从此类内容中赚到很多钱，因此执行许可条款并不经济。 也许我&#39;我遗漏了一些东西，但如果您不打算投入必要的资金来执行这些条款，我很难找到使用这些许可证的理由。似乎优秀的演员都希望避免抄袭带来的道德问题，并且无论许可如何，都希望将功劳归功于原创者。坏演员将继续是坏演员，你仍然可以指责他们的行为不道德。 编辑：我不小心在最后删掉了几句话，但我很好奇为什么人们应该这样做如果 CC0、MIT-0、0BSD 或 The Unlicense 等替代方案与个人执行许可证的方式更加一致，则不喜欢这些替代方案，这意味着他们无论如何都无法采取任何执法行动。    由   提交 /u/TomOwens   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</guid>
-      <pubDate>Mon, 04 Mar 2024 01:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
