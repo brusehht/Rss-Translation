@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 21:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 00:49:24 GMT</lastBuildDate>
+    <item>
+      <title>#openweb 资金问题和人们使用的工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</link>
+      <description><![CDATA[ 由   提交/u/openmedianetwork  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</guid>
+      <pubDate>Mon, 04 Mar 2024 23:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开源数据库做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6o33t/contributing_to_open_source_db/</link>
+      <description><![CDATA[大家好，我对为开源项目做出贡献还很陌生。我目前正在研究一个课程项目。该项目旨在在开源数据库中创建一个功能。我有大约两个月的时间来完成它。我没有运气找到一个好的项目。我希望你们中的一个人能给我一个想法/建议。    由   提交 /u/lunarnirvana   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6o33t/contributing_to_open_source_db/</guid>
+      <pubDate>Mon, 04 Mar 2024 22:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>请告知云备份 +</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6o079/please_advise_on_cloud_backup/</link>
+      <description><![CDATA[我一直在做一些研究，但在思考理想解决方案的大局愿景时遇到了一些困难...我正在寻找一种解决方案，它允许我：1.存储和备份数据。来自移动设备和本地 PC 的照片，2. 利用云访问多个设备存储的数据。理想情况下，某种实时笔记应用程序不会与谷歌、苹果等共享我的所有数据。（我也许可以只使用云笔记应用程序和 rsync 或其他东西） 3.最终可能有其他项目，例如作为电子邮件、日历、家庭媒体服务器。即使我们只采用 1 &amp; 2 看来我需要 VPS 和云数据存储解决方案？我希望将两者合而为一，但更重要的是，从长远来看，这具有成本效益。我可以处理两个盒子。（我这样说是因为大多数 VPS 似乎存储空间很小，我理想情况下至少需要 1TB）如果我错了，请纠正我，或者给我指出更理想的位置我可能即将使用 Nextcloud 或推出自己的解决方案，但希望建议和个人经验可以避免我犯一些错误。谢谢大家！不幸的是，跨平台（windows/unix/android）对我来说仍然很重要。 （旁注最近 Unix 世界中的视频游戏支持进展如何？） Oracle 云免费套餐实际上看起来很棒，但空间不够。   由   提交/u/holyhellhelpme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6o079/please_advise_on_cloud_backup/</guid>
+      <pubDate>Mon, 04 Mar 2024 22:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>知识应该免费吗？为什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6n1y8/should_knowledge_be_free_and_why/</link>
+      <description><![CDATA[ 由   提交 /u/nooz_an   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6n1y8/should_knowledge_be_free_and_why/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:41:06 GMT</pubDate>
+    </item>
     <item>
       <title>Moirai，一种开源图灵不完整脚本语言</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6lcht/moirai_an_opensource_turingincomplete_scripting/</link>
@@ -15,21 +43,21 @@
     <item>
       <title>使用 ElectronJS 构建的开源 socket.io 开发工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6j4os/open_source_socketio_dev_tool_built_with/</link>
-      <description><![CDATA[大家好， 当我开发后端服务时，我需要一个简单的工具来显示来自服务器的事件。我找到了几个 CLI 工具，但它们不能满足我的要求。因此，我使用 Electron.js 和 React 创建了一个 socket.io 开发工具。这是我第一次使用此框架构建跨平台应用程序，它可用于 Windows、macOS 和 Linux。 在 GitHub 上查看：​​https://github.com/aurotones/socket-io-playground 欢迎任何反馈，也非常感谢关于更好的实现和安全实践的建议。 谢谢。   由   提交/u/aurotones  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 当我开发后端服务时，我需要一个简单的工具来显示来自服务器的事件。我找到了几个 CLI 工具，但它们不能满足我的要求。因此，我使用 Electron.js 和 React 创建了一个 socket.io 开发工具。这是我第一次使用此框架构建跨平台应用程序，它可用于 Windows、macOS 和 Linux。 在 GitHub 上查看：​​https://github.com/aurotones/socket-io-playground 欢迎任何反馈，也非常感谢有关更好实施和安全实践的建议。 谢谢。   由   提交/u/aurotones  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6j4os/open_source_socketio_dev_tool_built_with/</guid>
       <pubDate>Mon, 04 Mar 2024 19:03:20 GMT</pubDate>
     </item>
     <item>
       <title>现在您会为新项目推荐什么堆栈？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6i51m/what_stack_for_a_new_project_would_you_recommend/</link>
-      <description><![CDATA[大家好！ 准备开始一个新的开源项目，我想“基于网络”。  我考虑过使用 Electron 来让该工具像桌面工具一样使用，尽管它基本上只是基于浏览器。 我还可以做一些事情React + C++/C#/Go 后端。 想知道是否有人有任何建议或类似的经验？   由   提交 /u/Joe_Scouter   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 准备开始一个新的开源项目，我想“基于网络”。  我考虑过使用 Electron 来让该工具像桌面工具一样使用，尽管它基本上只是基于浏览器。 我还可以做一些事情React + C++/C#/Go 后端。 想知道是否有人有任何建议或类似的经验？   由   提交/u/Joe_Scouter  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6i51m/what_stack_for_a_new_project_would_you_recommend/</guid>
       <pubDate>Mon, 04 Mar 2024 18:24:01 GMT</pubDate>
     </item>
     <item>
       <title>使用 Google Analytics 计算多租户博客网站的页面浏览量</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6fvn0/counting_page_views_for_a_multi_tenant_blogging/</link>
-      <description><![CDATA[我正在运行一个博客平台，大约有 2000 个用户。我使用谷歌分析来跟踪新用户、参与时间等。我使用 API 来获取每个用户的这些数据并将其显示在他们的仪表板中。我通过过滤页面来做到这一点。在主页中，我显示了来自不同作者的帖子集合，并且对于每个作者，我想显示页面浏览量。我不想发送分析请求，所以我想缓存它。对此有什么好的策略呢？这些是我的想法：每天运行一个 cron 作业并获取所有用户的所有帖子的数据，然后过滤它们并更新数据库。但这可能会很昂贵。我可以实现一种缓存机制，仅在用户请求时才获取特定帖子的分析数据，而不是预先获取所有帖子的数据。但是这样我就无法 在主页中显示页面浏览量了。 有什么建议/想法吗？   由   提交 /u/redsnowmac   [链接] [评论]]]></description>
+      <description><![CDATA[我正在运行一个博客平台，大约有 2000 个用户。我使用谷歌分析来跟踪新用户、参与时间等。我使用 API 来获取每个用户的这些数据并将其显示在他们的仪表板中。我通过过滤页面来做到这一点。在主页中，我显示了来自不同作者的帖子集合，并且对于每个作者，我想显示页面浏览量。我不想发送分析请求，所以我想缓存它。对此有什么好的策略呢？这些是我的想法：每天运行一个 cron 作业并获取所有用户的所有帖子的数据，然后过滤它们并更新数据库。但这可能会很昂贵。我可以实现一种缓存机制，仅在用户请求时才获取特定帖子的分析数据，而不是预先获取所有帖子的数据。但是这样我就无法在主页中显示页面浏览量了。有什么建议/想法吗？   由   提交 /u/redsnowmac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6fvn0/counting_page_views_for_a_multi_tenant_blogging/</guid>
       <pubDate>Mon, 04 Mar 2024 16:56:10 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我的灵感来自于 /u/Qwert-4 的主题 以及我最近经历的事件。 一些不良行为者通过忽视许可条款滥用了我在开源许可下发布的内容，最重要的是归属条款。我不知道美国以外的情况如何，但为此类许可违规行为寻求法律补救措施可能会付出高昂的代价。我认为众所周知，许多人在开源许可下发布内容并没有从此类内容中赚到很多钱，因此执行许可条款并不经济。 也许我&#39;我遗漏了一些东西，但如果您不打算投入必要的资金来执行这些条款，我很难找到使用这些许可证的理由。似乎优秀的演员都希望避免抄袭带来的道德问题，并且无论许可如何，都希望将功劳归功于原创者。坏演员将继续是坏演员，你仍然可以指责他们的行为不道德。 编辑：我不小心在最后删掉了几句话，但我很好奇为什么人们应该这样做如果 CC0、MIT-0、0BSD 或 The Unlicense 等替代方案与个人执行许可证的方式更加一致，则不喜欢这些替代方案，这意味着他们无论如何都无法采取任何执法行动。    由   提交 /u/TomOwens   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b5xysx/is_there_any_reason_to_expect_license_compliance/</guid>
       <pubDate>Mon, 04 Mar 2024 01:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于证据和社区的开放迭代平台设计</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b5wtla/evidence_and_communitybased_open_and_iterative/</link>
-      <description><![CDATA[ 由   提交/u/Evening_Ad_6626   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b5wtla/evidence_and_communitybased_open_and_iterative/</guid>
-      <pubDate>Mon, 04 Mar 2024 00:21:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了想要获得信用之外，还有什么理由比 MIT-0 和 BSD0 更喜欢 MIT 和 BSD 2-Clause 许可证吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/</link>
-      <description><![CDATA[标准 MIT（又名 X11）许可证要求在任何衍生产品中包含此许可证的副本。  &lt; p&gt;上述版权声明和本许可声明应包含在软件的所有副本或主要部分中。  与 BSD 2-Clause 几乎相同。 MIT-0 和 BSD0 （遗憾的是他们没有将其称为 BSD-0） 是排除此要求的这些许可证的版本。 有理由保留吗除了希望合法地要求衍生作品的开发商提供信用之外，是否会遵循这一要求并使用以前的许可证而不是公共领域的等效许可证？或者是否有法律原因说明常规 MIT 和 BSD 2-Clause 更好？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/</guid>
-      <pubDate>Sun, 03 Mar 2024 18:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找高质量的语音克隆</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b5jnkj/looking_for_highquality_voice_cloning/</link>
-      <description><![CDATA[嗨，我需要一个免费的开源语音克隆软件，它可以从样本中学习语音，然后进行文本转语音或语音转语音，因为我很快就要开始内容创作，我想克隆我的声音/或雇用一个拥有出色麦克风和声音的人并使用它。您有什么建议吗？   由   提交 /u/Flick9000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b5jnkj/looking_for_highquality_voice_cloning/</guid>
-      <pubDate>Sun, 03 Mar 2024 15:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Next.js 和 MDX 的开源博客</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b5fzwh/open_source_blog_with_nextjs_and_mdx/</link>
-      <description><![CDATA[https://github.com/Bartek532/zagrodzki .me   由   提交 /u/zagrodzki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b5fzwh/open_source_blog_with_nextjs_and_mdx/</guid>
-      <pubDate>Sun, 03 Mar 2024 12:25:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
