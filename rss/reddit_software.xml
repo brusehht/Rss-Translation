@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 15:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 18:15:47 GMT</lastBuildDate>
+    <item>
+      <title>搜索视频中的文本（文本来自图像，而不是语音）</title>
+      <link>https://www.reddit.com/r/software/comments/1b78wso/search_for_a_text_in_a_video_text_is_from_the/</link>
+      <description><![CDATA[我正在寻找可以搜索视频中文本的程序或网络服务。例如，如果视频帧包含文本“Interactive”，那么如果我搜索这个词，我希望解决方案指向该帧： https://i.stack.imgur.com/TzsVS.png (图像来源）。 任何许可证/价格/操作系统都可以。优先选择 Windows + 免费 + GUI。   由   提交/u/Franck_Dernoncourt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b78wso/search_for_a_text_in_a_video_text_is_from_the/</guid>
+      <pubDate>Tue, 05 Mar 2024 16:06:51 GMT</pubDate>
+    </item>
     <item>
       <title>可视化组件文件</title>
       <link>https://www.reddit.com/r/software/comments/1b75kal/visual_components_files/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>多次运行 .exe 而不覆盖 AppData 备份的方法</title>
       <link>https://www.reddit.com/r/software/comments/1b731rx/way_to_run_exe_multiple_times_wo_overwriting/</link>
-      <description><![CDATA[我一直在尝试多次运行 .exe，不幸的是它会在 AppData 上创建一个备份文件，并且每次打开它时都会创建一个备份文件它再次尝试覆盖现有文件而不是创建新文件。更改保存文件地址不起作用。我设法运行它的唯一方法是： 1. 在主 PC 上。 2.使用Windows虚拟机。 3. 在移动设备上使用.exe并强制备份到ssd卡上。我正在寻找一种方法让它运行尽可能多次。 VM 占用了我的 cpu 和 ram 的很大一部分，运行第二个几乎是不可能的。有没有办法让它发挥作用？我唯一的想法是尝试在云虚拟机上运行.exe，明天尝试一下。您还有其他想法吗，我该怎么做？提前致谢:)    由   提交 /u/MattLyss   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在尝试多次运行 .exe，不幸的是它会在 AppData 上创建一个备份文件，而且每次我打开它时都会创建一个备份文件它再次尝试覆盖现有文件而不是创建新文件。更改保存文件地址不起作用。我设法运行它的唯一方法是： 1. 在主 PC 上。 2.使用Windows虚拟机。 3. 在移动设备上使用.exe并强制备份到ssd卡上。我正在寻找一种方法让它运行尽可能多次。 VM 占用了我的 cpu 和 ram 的很大一部分，运行第二个几乎是不可能的。有没有办法让它发挥作用？我唯一的想法是尝试在云虚拟机上运行.exe，明天尝试一下。您还有其他想法吗，我该怎么做？提前致谢:)    由   提交 /u/MattLyss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b731rx/way_to_run_exe_multiple_times_wo_overwriting/</guid>
       <pubDate>Tue, 05 Mar 2024 11:29:31 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 05 Mar 2024 01:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>寻求创新教育技术项目的灵感！</title>
+      <title>寻找创新教育技术项目的灵感！</title>
       <link>https://www.reddit.com/r/software/comments/1b6ofyn/seeking_inspiration_for_an_innovative_educational/</link>
       <description><![CDATA[我目前正在开发基于技术的解决方案（应用程序/网站/游戏/软件工具等），旨在应对挑战或增强学习体验在教育领域内。无论您是学生、教育工作者，还是只是对技术和学习充满热情的人，我很想听听您的想法和想法！  你们在大学/学校的日常生活中遇到什么问题？   由   提交 /u/ParfaitMaleficent887   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b6ofyn/seeking_inspiration_for_an_innovative_educational/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[好的，我会解释一下： ​ 我有 Windows 11 笔记本电脑，并且我有我将 USB-C 集线器插入其中的 USB-C 端口一侧有 (3) 个 USB 端口。因此，我可以插入我的 (2) 个 1TB 东芝硬盘和 USB 闪存驱动器来清理我的 (2) 个东芝硬盘。现在这是我一直遇到的问题：当我在文件夹之间来回移动并将内容移动到新文件夹中时，我最终需要不断更改“模板”对于文件资源管理器上的文件夹。我觉得这很烦人。  ​ 所以这就是我要做的： 我希望能够找到可以安装到我的计算机上的东西用于单独处理 .mp4 文件或任何文件类型，只要我可以一次查看所有文件即可。  ​ (1) 示例：如果我在名为“Movies &amp;”的硬盘上，电视节目”我打开了文件夹“电视节目”我会看到 (2) 文件夹“正在返回”和“完成” - “回归的是仍在播出的节目。电视节目不再有新剧集了。”如果我打开“完成”我将按文件夹标题查看所有电视节目。 文件夹如下所示： 文件夹模板 &gt;名称|修改日期|类型|大小&lt; &gt; 文件夹顺序 &gt; 尤里卡|2022 年 7 月 23 日下午 4:05|文件夹|大小“空白”&lt; 打开 &gt; 尤里卡|第 1 季、第 2 季、第 3 季、第 4 季、第 5 季 打开 &gt; 尤里卡} 第 1 季“风格 - 大图标”我需要将其更改为“详细信息”然后我需要将“名称”滑动到向右移动区域以使其变大。我每次都需要这样做。我想有一种方法可以保存它，但有时它会自行改变并且很烦人。因此，如果有一种方法可以让我做这样的事情而不需要一直改变东西，那就太好了。  ​ 如果有一个简单的“Windows 文件资源管理器”替代方案？这是免费且易于遵循的，那就太好了。  ​   由   提交 /u/DawnRenee1988   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b6myn1/looking_for_a_free_program_to_help_with_viewing_a/</guid>
       <pubDate>Mon, 04 Mar 2024 21:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 JSON 转换为 PDF？我没有编程技能。</title>
-      <link>https://www.reddit.com/r/software/comments/1b6hce7/how_do_i_convert_json_to_pdf_i_have_no/</link>
-      <description><![CDATA[基本上我下载了谷歌聊天日志，它是以 JSON 格式提供给我的。现在我需要将这些提交给警方报告，但 JSON 不会成功。  我尝试用谷歌搜索如何转换它，但方法是可疑的，或者我缺乏这样做的编程知识。  我正在寻找合适的软件来执行此操作，并且只要其合法且能完成工作，我不介意为其付费。如果有人能指导我走上正确的道路，我将不胜感激。   由   提交/u/Jnbee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b6hce7/how_do_i_convert_json_to_pdf_i_have_no/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:52:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
