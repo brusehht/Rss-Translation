@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 09:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 12:20:14 GMT</lastBuildDate>
+    <item>
+      <title>Djapy：基于 Pydantic 的 RestAPI 库，具有 I/O 流控制和精确的 Swagger 支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b73cu5/djapy_pydanticbased_restapi_library_with_io_flow/</link>
+      <description><![CDATA[       由   提交/u/bishwasbhn  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b73cu5/djapy_pydanticbased_restapi_library_with_io_flow/</guid>
+      <pubDate>Tue, 05 Mar 2024 11:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何可以轻松与我的应用程序集成的免费开源托管人工智能工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b72gpz/are_there_any_free_and_open_source_hosted_ai/</link>
+      <description><![CDATA[我知道自托管是一种选择，但对于软件开发人员来说，它现在看起来确实无法访问，我也认为托管并不容易VPS 或类似的东西.. 有可用的 FOSS 解决方案吗？这是现实的还是托管成本仍然太高？ 在这里寻找总体方向。   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b72gpz/are_there_any_free_and_open_source_hosted_ai/</guid>
+      <pubDate>Tue, 05 Mar 2024 10:52:39 GMT</pubDate>
+    </item>
     <item>
       <title>如果您错过了有关开源人工智能定义的讨论，这里是上周发生的事情的摘要。一个重要的里程碑已经实现。</title>
       <link>https://www.reddit.com/r/opensource/comments/1b6zdt2/in_case_you_missed_the_discussions_about_the_open/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[    /u/opensourceinitiative   [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/opensource/comments/1b6y42c/i_outlined_the_third_programs_that_comprise_the/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6y42c/i_outlined_the_three_programs_that_comprise_the/</guid>
       <pubDate>Tue, 05 Mar 2024 06:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>mdremind：Markdown 文件的简单提醒工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6vpj8/mdremind_a_simple_reminder_tool_for_markdown_files/</link>
-      <description><![CDATA[大家好， mdremind 是我开发的一个轻量级工具，用于发送由存储在 Markdown 文件中的提醒触发的通知。 Dataview 内联元数据语法用于定义提醒。 mdremind 会密切关注指定目录中 Markdown 文件的任何更改。 虽然桌面用户可以使用提醒插件接收提醒，但 mdremind 的优点是无需保持 Obsidian 打开即可接收通知。此外，它还可以通过 Termux 在移动设备上使用，提供了一种在移动设备上接收通知的解决方案，而 Obsidian 目前缺乏此功能。 https://github.com/AyushRawal/mdremind 我很想听听您的想法和反馈。欢迎提出任何问题或分享您的使用体验。   由   提交 /u/Royal_rawal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6vpj8/mdremind_a_simple_reminder_tool_for_markdown_files/</guid>
-      <pubDate>Tue, 05 Mar 2024 03:53:50 GMT</pubDate>
     </item>
     <item>
       <title>Matro UI - React 组件库</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我目前正在开发一个开源程序，该程序可以自动执行标准 Windows OOBE 不允许我们个性化/执行的许多任务，如 Debloating、禁用（真正的）数据收集和遥测、安装所有第 3 方程序、驱动程序等。 我想知道我还可以将哪些内容集成到我的程序中，所以我问你，安装 Windows 后你要做的第一件事是什么？ （除了基准测试和安装 chrome）。我没有提到的书呆子技术和简单任务都值得赞赏。 感谢您的时间。   由   提交 /u/Flick9000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6bikp/what_are_the_first_things_you_do_after_installing/</guid>
       <pubDate>Mon, 04 Mar 2024 13:58:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有特定功能的书签管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6alys/looking_for_bookmark_manager_with_specific/</link>
-      <description><![CDATA[长期以来，我一直在努力整理我的书签，我认为必须有一个解决方案。  我正在寻找一种根据标签对书签进行排序的方法，但更具体地说，能够选择多个标签并仅查看与每个选定标签匹配的项目。  例如，如果我有 3 个书签，其中一个标记为“汽车”，其中一个书签为“汽车”。一个标有“自行车”的以及一张标有“汽车、自行车”的标签我想要搜索包含汽车和汽车的页面的选项自行车，并且只显示第三个站点。我希望拥有一个大型标签库，因此能够查看所有书签中找到的所有标签的列表对我来说也很重要。  在完美的世界中，将会有一个带有复选框的列表，我可以单击或关闭这些复选框，并且可以单击“任何这些标签”。 /“所有这些标签”选项，但这不是必需的，只是一个很好的选择。  我用过 Edge、Chrome 和 Firefox，虽然它们都有一些有趣的书签相关功能，但它们都没有真正提供我一直向往的功能。我目前同时使用 Edge 和 Firefox，如果正确的扩展或应用程序只能在其他地方使用，我愿意更换浏览器。  提前感谢您的任何建议！   由   提交/u/BadAdviceBison  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6alys/looking_for_bookmark_manager_with_specific/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:14:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

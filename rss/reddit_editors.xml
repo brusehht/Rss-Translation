@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 05 Mar 2024 09:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 12:19:38 GMT</lastBuildDate>
+    <item>
+      <title>寻求后期制作建议：我应该先编辑、添加图形，还是与导演协调以获得无缝流程？</title>
+      <link>https://www.reddit.com/r/editors/comments/1b72iqu/seeking_postproduction_advice_should_i_edit_first/</link>
+      <description><![CDATA[嘿，各位电影制作人！ 我已经到了后期制作的关键阶段，需要一些指导。我已经完成了电影的第一个剪辑，但有些场景带有绿屏和图形，目前已被锁定。导演想要对某些场景进行更改，我想知道最好的工作流程以避免重做。 我是否应该预先向导演索要所有图形文件，然后进行最终编辑，或者先完成编辑再合并图形会更有效吗？另外，在色彩校正和声音方面，我应该导出最终剪辑然后整合这些元素，还是有更好的方法来简化整个过程？ 期待听到您的经验和建议！    由   提交/u/CoachDue2436   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b72iqu/seeking_postproduction_advice_should_i_edit_first/</guid>
+      <pubDate>Tue, 05 Mar 2024 10:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家都是如何整理自己的资产的呢？库存资源、模板等...</title>
+      <link>https://www.reddit.com/r/editors/comments/1b72e7z/how_do_you_all_keep_your_assets_organized_stock/</link>
+      <description><![CDATA[大家好！我通常会尝试尽可能组织我的文件夹层次结构，以便轻松找到所有内容。但是，我一直无法想出一个工作层次结构来组织我的各种资产（忽略音频- 我将它们放在一个音频文件夹中，分为 SFX 和音乐，Soundly 提供了很多帮助）。  有库存资源（素材和图像），各种模板 - 一些用于 Premiere，一些用于 After Effects；然后还有库存视频，它们并不是真正的素材，而是更像模板（例如动画箭头、图标等）；然后是插画资源...... 无论我尝试以哪种方式组织它，我最终都会在给定文件夹中堆积大量资源，并且三个文件夹中的任何一个都适合任何给定资源。  你们如何组织你们的？我很想在事情变得失控之前得到一些想法。   由   提交/u/YYS770   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b72e7z/how_do_you_all_keep_your_assets_organized_stock/</guid>
+      <pubDate>Tue, 05 Mar 2024 10:48:02 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere 23/24 和 OSX Ventura</title>
       <link>https://www.reddit.com/r/editors/comments/1b70ulq/premiere_2324_and_osx_ventura/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Trint 很棒，但由于当前的预算情况，我们正在寻找替代工具来创建脚本，主要是真实的拍摄和采访。视频编辑将在 Avid 中完成。 Premiere 的自动转录看起来很棒。我想象能够添加发言人姓名并编辑从 Avid 导出的 mp4 中自动生成的文字记录，并嵌入 Time Of Day TC。然后吐出一个txt。可用于创建 Google Drive 文档的文件，以及 avid 中的 Scriptsync 文件。 Avid 现在有自己的转录，我需要研究是否可以添加演讲者姓名、显示源 TC ，并在 Avid 中编辑生成的文字记录。 只是集思广益，欢迎任何其他意见或建议。 TIA！   由   提交/u/CptMurphy  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b6kypa/has_anyone_successfully_found_another_option_to/</guid>
       <pubDate>Mon, 04 Mar 2024 20:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>EDL转换问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1b6k1aj/edl_conversion_question/</link>
-      <description><![CDATA[这是我的情况： ​ - 我正在确认一个项目在胶片上拍摄。 - 样片/代理以 29.97fps 的速度创建（二十年前在 betacam 上），编辑以 29.97fps 完成。 - 现在希望符合胶片。 - 我有一个 29.97 EDL，我想转换为 24fps，然后我将用它来扫描胶片以确保符合要求。 - 有谁知道如何轻松地将 29.97 EDL 转换为 24fps？在（遥远的）过去，我曾使用过 Cinema Tools，但这已经不再是真正的事情了。一位同事告诉我 Avid 的列表工具也许能够完成它，但我不确定工作流程。  ​ 谢谢！   由   提交 /u/Ben-jam-in-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b6k1aj/edl_conversion_question/</guid>
-      <pubDate>Mon, 04 Mar 2024 19:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frame.IO 的替代品？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b6gl3y/alternatives_to_frameio/</link>
-      <description><![CDATA[我使用 Frame IO 进行客户/导演审阅、传输文件和存档。我发现将所有项目存档很有用，但费用确实很高。每次我想添加某人作为协作者以继续发送文件时，都会向我收费。你们有更便宜的存储/传输文件解决方案吗？   由   提交/u/peakpiffs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b6gl3y/alternatives_to_frameio/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:23:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
