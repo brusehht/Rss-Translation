@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 Mar 2024 06:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 12:21:26 GMT</lastBuildDate>
+    <item>
+      <title>驱动程序更新程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7ya4p/driver_updater/</link>
+      <description><![CDATA[我很好奇，因为我找不到任何免费或开源的驱动程序更新工具。是否有适用于 Windows 机器的开放驱动程序更新程序？   由   提交/u/sedi343  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7ya4p/driver_updater/</guid>
+      <pubDate>Wed, 06 Mar 2024 12:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[windows 手机链接替代方案] 刚刚找到了 windows 不那么痛苦的方法 - android 剪贴板/文件传输</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7w0tb/windows_phone_link_alternative_just_found_the/</link>
+      <description><![CDATA[使用 Windows Phone Link 和 kdeconnect 一段时间了，但这需要大量资源。但现在我发现了这个 - (https://github.com/thevindu-w/clip\_share\_client )。 只是分享这个，因为它让我的生活变得更轻松，而且您可以按需运行它。 （我与作者没有任何关系。）感谢贡献者。   由   提交/u/digga-wat  /u/digga-wat  reddit.com/r/opensource/comments/1b7w0tb/windows_phone_link_alternative_just_found_the/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7w0tb/windows_phone_link_alternative_just_found_the/</guid>
+      <pubDate>Wed, 06 Mar 2024 09:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>阻止另一个程序在预定时间内运行的程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7v1m1/program_to_block_another_program_from_running_in/</link>
+      <description><![CDATA[是否有开源 Windows 程序可以让我阻止某些程序在预定时间运行。例如，我想阻止 Firefox.exe 从 2100 到 2200 每天运行。 先谢谢您！   由   提交 /u/GladeHeart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7v1m1/program_to_block_another_program_from_running_in/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Podlite：一种通用的基于块的标记语言 - 开源规范（艺术许可证 2.0）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7v01r/podlite_a_universal_blockbased_markup_language/</link>
+      <description><![CDATA[       由   提交/u/zagap  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7v01r/podlite_a_universal_blockbased_markup_language/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的项目应该需要 CLA 吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7ux23/should_i_require_cla_for_my_project/</link>
+      <description><![CDATA[   /u/Over_Intention3342   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7ux23/should_i_require_cla_for_my_project/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:41:51 GMT</pubDate>
+    </item>
     <item>
       <title>SuperRAG：适用于 AI 代理的超高性能 RAG 管道。通过一个简单的 API 进行检索/重新排序、总结和计算问答。开源（麻省理工学院）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1b7qrup/superrag_superperformat_rag_pipelines_for_ai/</link>
@@ -50,19 +85,19 @@
     <item>
       <title>有可用的活动存档 FOSS 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b783nx/any_active_archive_foss_available/</link>
-      <description><![CDATA[大家好， 我正在寻找是否有任何 FOSS 可以启用活动归档系统。我当然可以用自己的脚本创建这个，但想先看看社区。 对于那些不熟悉这个术语的人来说，它指的是将数据定位到适合使用的存储介质上的能力，无论是 SSD、HDD 还是磁带（例如）。我想提供一个 POSIX 安装点，例如“/data”，并让服务从这里读取/写入。所有新数据都将被压缩并重复数据删除到 SSD 上，然后在 30 天后将其移至 HDD，90 天后将其移至磁带。在这种情况下，我会将数据复制到不同的媒体，然后删除原始数据并创建返回原始路径的符号链接。 ​ 知道这是否存在于任何介质中吗？今天的自由开源软件？我的目标是最有效地利用能源和存储成本。   由   提交/u/bmoreitdan  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找是否有任何 FOSS 可以启用活动归档系统。我当然可以用自己的脚本创建这个，但想先看看社区。 对于那些不熟悉这个术语的人来说，它指的是将数据定位到适合使用的存储介质上的能力，无论是 SSD、HDD 还是磁带（例如）。我想提供一个 POSIX 安装点，例如“/data”，并让服务从这里读取/写入。所有新数据都将被压缩并重复数据删除到 SSD 上，然后在 30 天后将其移至 HDD，并在 90 天后将其移至磁带。在这种情况下，我会将数据复制到不同的媒体，然后删除原始数据并创建返回原始路径的符号链接。 ​ 知道这是否存在于任何介质中吗？今天的自由开源软件？我的目标是最有效地利用能源和存储成本。   由   提交/u/bmoreitdan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b783nx/any_active_archive_foss_available/</guid>
       <pubDate>Tue, 05 Mar 2024 15:35:58 GMT</pubDate>
     </item>
     <item>
       <title>Reddit 与 Brilliant Labs 关于新型开源智能眼镜的问答即将开始</title>
       <link>https://www.reddit.com/r/opensource/comments/1b77wmf/reddit_qa_with_brilliant_labs_about_the_new_open/</link>
-      <description><![CDATA[嘿！ 我希望我在这里提到它没有问题。问答即将在 30 分钟后开始。 这是关于具有多模态 AI 功能的开源智能眼镜。 Brilliant Labs 的第二个产品。 如果您感兴趣，请提出您的问题并了解更多信息： https://www.reddit.com/r/augmentedreality/comments/1b779e1/qa_with_brilliant_labs_about_the_new_smart/ ​&lt; /p&gt; ​   由   提交/u/SpatialComputing  [链接] [评论]]]></description>
+      <description><![CDATA[嘿！ 我希望我在这里提到它没有问题。问答即将在 30 分钟后开始。 这是关于具有多模态 AI 功能的开源智能眼镜。 Brilliant Labs 的第二个产品。 如果您有兴趣，请提出您的问题并了解更多信息： https://www.reddit.com/r/augmentedreality/comments/1b779e1/qa_with_brilliant_labs_about_the_new_smart/ ​&lt; /p&gt; ​   由   提交/u/SpatialComputing  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b77wmf/reddit_qa_with_brilliant_labs_about_the_new_open/</guid>
       <pubDate>Tue, 05 Mar 2024 15:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>🕹️ apk.sh 是一个 Bash 脚本，可以更轻松地对 Android 应用进行逆向工程，自动执行一些重复性任务，例如提取、解码、重建和修补 APK。</title>
+      <title>🕹️ apk.sh 是一个 Bash 脚本，使逆向工程 Android 应用程序变得更容易，自动执行一些重复性任务，例如拉取、解码、重建和修补 APK。</title>
       <link>https://www.reddit.com/r/opensource/comments/1b76gr2/apksh_is_a_bash_script_that_makes_reverse/</link>
       <description><![CDATA[   /u/recovo_recovo   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b76gr2/apksh_is_a_bash_script_that_makes_reverse/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[       由   提交/u/bishwasbhn  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b73cu5/djapy_pydanticbased_restapi_library_with_io_flow/</guid>
       <pubDate>Tue, 05 Mar 2024 11:48:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何可以轻松与我的应用程序集成的免费开源托管人工智能工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b72gpz/are_there_any_free_and_open_source_hosted_ai/</link>
-      <description><![CDATA[我知道自托管是一种选择，但对于软件开发人员来说，它现在看起来确实无法访问，我也认为托管并不容易VPS 或类似的东西.. 有可用的 FOSS 解决方案吗？这是现实的还是托管成本仍然太高？ 在这里寻找总体方向。   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b72gpz/are_there_any_free_and_open_source_hosted_ai/</guid>
-      <pubDate>Tue, 05 Mar 2024 10:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您错过了有关开源人工智能定义的讨论，这里是上周发生的事情的摘要。一个重要的里程碑已经实现。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6zdt2/in_case_you_missed_the_discussions_about_the_open/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6zdt2/in_case_you_missed_the_discussions_about_the_open/</guid>
-      <pubDate>Tue, 05 Mar 2024 07:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我概述了组成 OSI 工作的三个计划——法律和许可、政策和标准以及宣传和外展——此时我们直接进入了属于后一个计划的项目：开源人工智能定义。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6y42c/i_outlined_the_three_programs_that_comprise_the/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] &amp;# 32； &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/opensource/comments/1b6y42c/i_outlined_the_third_programs_that_comprise_the/&quot;&gt;[评论]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6y42c/i_outlined_the_three_programs_that_comprise_the/</guid>
-      <pubDate>Tue, 05 Mar 2024 06:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Matro UI - React 组件库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6rt5m/matro_ui_components_library_for_react/</link>
-      <description><![CDATA[我的好朋友，一位高级 UI/UX 设计师，我和我为 React 创建了一个组件库。它称为 Matro UI，并且完全开源。我们一起花了一个月的时间才发布了这个 MVP，我真的希望它会随着时间的推移而越来越受欢迎。 看看，如果你觉得这有用，请给它一颗星。此外，我们正在寻找贡献者，如果这个项目成功，我们计划将其添加到 Open Collective 中。 网站 - https://matro-ui.github.io/ Github - https://github.com/matro-ui/matro-ui/&quot;&gt;https://matro-ui/ /github.com/matro-ui/matro-ui/   由   提交/u/Revolutionary_Floor4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6rt5m/matro_ui_components_library_for_react/</guid>
-      <pubDate>Tue, 05 Mar 2024 00:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>#openweb 资金问题和人们使用的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</link>
-      <description><![CDATA[ 由   提交/u/openmedianetwork  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</guid>
-      <pubDate>Mon, 04 Mar 2024 23:58:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
