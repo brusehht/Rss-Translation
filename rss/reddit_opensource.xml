@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 Mar 2024 03:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 06:16:17 GMT</lastBuildDate>
     <item>
-      <title>我们构建了一个受 Airbyte 启发的协议，可以在数小时内创建任何 SaaS 连接器</title>
+      <title>SuperRAG：适用于 AI 代理的超高性能 RAG 管道。通过一个简单的 API 进行检索/重新排序、总结和计算问答。开源（麻省理工学院）。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7qrup/superrag_superperformat_rag_pipelines_for_ai/</link>
+      <description><![CDATA[   /u/Many_Yogurtcloset_15   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7qrup/superrag_superperformat_rag_pipelines_for_ai/</guid>
+      <pubDate>Wed, 06 Mar 2024 04:33:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免为开源做出贡献的常见陷阱</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b7q5hg/avoiding_common_pitfalls_contributing_to_open/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b7q5hg/avoiding_common_pitfalls_contributing_to_open/</guid>
+      <pubDate>Wed, 06 Mar 2024 04:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建了一个受 Airbyte 启发的协议，可在数小时内创建任何 SaaS 连接器</title>
       <link>https://www.reddit.com/r/opensource/comments/1b7mfvm/we_built_a_protocol_inspired_by_airbyte_to_create/</link>
       <description><![CDATA[   /u/nagstler  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b7mfvm/we_built_a_protocol_inspired_by_airbyte_to_create/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>有可用的活动存档 FOSS 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b783nx/any_active_archive_foss_available/</link>
-      <description><![CDATA[大家好， 我正在寻找是否有任何 FOSS 可以启用活动归档系统。我当然可以用自己的脚本创建这个，但想先看看社区。 对于那些不熟悉这个术语的人来说，它指的是将数据定位到适合使用的存储介质上的能力，无论是 SSD、HDD 还是磁带（例如）。我想提供一个 POSIX 安装点，例如“/data”，并让服务从这里读取/写入。所有新数据都将被压缩并重复数据删除到 SSD 上，然后在 30 天后将其移至 HDD，90 天后将其移至磁带。在这种情况下，我会将数据复制到不同的媒体，然后删除原始数据并创建回到原始路径的符号链接。 ​ 知道这是否存在于任何媒体中吗？今天的自由开源软件？我的目标是最有效地利用能源和存储成本。   由   提交/u/bmoreitdan  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找是否有任何 FOSS 可以启用活动归档系统。我当然可以用自己的脚本创建这个，但想先看看社区。 对于那些不熟悉这个术语的人来说，它指的是将数据定位到适合使用的存储介质上的能力，无论是 SSD、HDD 还是磁带（例如）。我想提供一个 POSIX 安装点，例如“/data”，并让服务从这里读取/写入。所有新数据都将被压缩并重复数据删除到 SSD 上，然后在 30 天后将其移至 HDD，90 天后将其移至磁带。在这种情况下，我会将数据复制到不同的媒体，然后删除原始数据并创建返回原始路径的符号链接。 ​ 知道这是否存在于任何介质中吗？今天的自由开源软件？我的目标是最有效地利用能源和存储成本。   由   提交/u/bmoreitdan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b783nx/any_active_archive_foss_available/</guid>
       <pubDate>Tue, 05 Mar 2024 15:35:58 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/openmedianetwork  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b6qi0u/the_problem_with_openweb_funding_and_the_tools/</guid>
       <pubDate>Mon, 04 Mar 2024 23:58:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开源数据库做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6o33t/contributing_to_open_source_db/</link>
-      <description><![CDATA[大家好，我对为开源项目做出贡献还很陌生。我目前正在研究一个课程项目。该项目旨在在开源数据库中创建一个功能。我有大约两个月的时间来完成它。我没有运气找到一个好项目。我希望你们中的一个人能给我一个想法/建议。    由   提交 /u/lunarnirvana   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6o33t/contributing_to_open_source_db/</guid>
-      <pubDate>Mon, 04 Mar 2024 22:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>请告知云备份+</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b6o079/please_advise_on_cloud_backup/</link>
-      <description><![CDATA[我一直在做一些研究，但在思考理想解决方案的大局愿景时遇到了一些困难...我正在寻找一种解决方案，它允许我：1.存储和备份数据。来自手机和本地电脑的照片，2.利用云访问多个设备存储的数据。理想情况下，某种实时笔记应用程序不会与谷歌、苹果等共享我的所有数据。（我也许可以只使用云笔记应用程序和 rsync 或其他东西） 3.最终可能有其他项目，例如作为电子邮件、日历、家庭媒体服务器。即使我们只采用 1 &amp; 2 看来我需要 VPS 和云数据存储解决方案？我希望将两者合而为一，但更重要的是，从长远来看，这具有成本效益。我可以处理两个盒子。（我这样说是因为大多数 VPS 似乎存储空间很小，我理想情况下至少需要 1TB）如果我错了，请纠正我，或者给我指出更理想的位置我可能即将使用 Nextcloud 或推出自己的解决方案，但希望建议和个人经验可以避免我犯一些错误。谢谢大家！不幸的是，跨平台（windows/unix/android）对我来说仍然很重要。 （旁注最近 Unix 世界中的视频游戏支持进展如何？） Oracle 云免费套餐实际上看起来很棒，但空间不够。   由   提交/u/holyhellhelpme   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b6o079/please_advise_on_cloud_backup/</guid>
-      <pubDate>Mon, 04 Mar 2024 22:18:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
