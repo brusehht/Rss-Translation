@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 07 Mar 2024 09:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 18:14:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 您是否厌倦了花费几个月的时间从头开始建立您的初创公司？</title>
-      <link>https://t.me/hn_summary/78067</link>
-      <description><![CDATA[显示 HN：在几天而不是几个月内启动您的初创公司
-您是否厌倦了花费几个月的时间从头开始建立您的初创公司？别再犹豫了！借助排名第一的 Next.js 启动样板 Shipped.club，您可以在短短几天内启动您的初创公司。该技术堆栈由一位经验丰富的初创公司引导者创建，他已成功构建并销售了多种 SaaS 产品，包括您所需的一切：登陆页面、支付处理器、身份验证、电子邮件服务集成、数据库 ORM、UI Kit 和 SaaS 组件。通过 Shipped.club.]]></description>
-      <guid>https://t.me/hn_summary/78067</guid>
-      <pubDate>Thu, 07 Mar 2024 09:07:30 GMT</pubDate>
+      <title>问 HN：您是否记录 LLM 生成的代码？</title>
+      <link>https://t.me/hn_summary/78156</link>
+      <description><![CDATA[询问 HN：您是否记录 LLM 生成的代码？&lt; /a&gt;
+作者正在寻求有关如何在 Python 源文件中记录 LLM 生成的代码的建议。他们审查和测试法学硕士编写的函数，但不确定是否应该在代码中注明它是由法学硕士生成的。作者想知道引文应该有多具体，是否应注明代码生成的日期，以及是否应列出法学硕士使用的提示。争议在于是否在代码文档中公开LLM的使用。]]></description>
+      <guid>https://t.me/hn_summary/78156</guid>
+      <pubDate>Thu, 07 Mar 2024 18:14:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作为一名拥有 15 年经验的程序员，我已经开始接受自己很愚蠢的事实。</title>
-      <link>https://t.me/hn_summary/78066</link>
-      <description><![CDATA[我是一名程序员，但我很愚蠢 
-作为一名拥有 15 年经验的程序员，我已经开始接受自己很愚蠢的事实。我与复杂的算法和依赖项作斗争，而像 Rust 这样的花哨语言对我来说实在是太多了。因此，我坚持使用 Go 和基本 Python 等简单语言，避免深度抽象和不必要的依赖。我专注于编写具有基本弹性模式和最少软件组件的清晰、可维护的代码。虽然我的方法可能不会给谷歌工程师留下深刻的印象，但它很好地服务于用户和业务。接受我的局限性实际上帮助我构建了完成工作的功能软件。订阅我的博客以获取更多见解。]]></description>
-      <guid>https://t.me/hn_summary/78066</guid>
-      <pubDate>Thu, 07 Mar 2024 08:28:16 GMT</pubDate>
+      <title>KAIST 开发了一种突破性的人工智能半导体，可以处理大型语言模型 [...]</title>
+      <link>https://t.me/hn_summary/78155</link>
+      <description><![CDATA[Kaist 开发下一代超低功耗 LLM 加速器
+KAIST 开发了一种突破性的 AI 半导体，可以以超低功耗处理大型语言模型。由 Yoo Hoi-jun 教授领导的团队创​​建了“Complementary-Transformer”人工智能芯片，该芯片在功效和尺寸方面优于 Nvidia 的 A-100 GPU。通过利用神经形态计算技术，该芯片实现了以前只有深度神经网络才能实现的高精度。这种 DNN 和 SNN 的创新融合优化了能耗，同时压缩了 LLM 的大参数。该芯片尺寸紧凑、功耗低，适用于移动设备，标志着人工智能技术的重大进步。]]></description>
+      <guid>https://t.me/hn_summary/78155</guid>
+      <pubDate>Thu, 07 Mar 2024 18:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]华为将凭借其新型磁电磁盘彻底改变存储市场（[...]</title>
-      <link>https://t.me/hn_summary/78065</link>
-      <description><![CDATA[华为：新型磁电存储设备提供无与伦比的密度
-华为将凭借全新磁电磁盘（MED）技术彻底改变存储市场，推出OceanStor Arctic，机架容量超过10PB，功耗低于2kW。该公司声称，与磁带存储相比，总连接成本降低了 20%，与传统硬盘相比，功耗降低了 90%。虽然这款神秘的新存储产品的细节尚未公开，但华为 MED 技术的潜在影响是巨大的，因为目前市场上还没有现有的 MED 存储产品。该产品预计将于2025年上半年在全球上市。]]></description>
-      <guid>https://t.me/hn_summary/78065</guid>
-      <pubDate>Thu, 07 Mar 2024 08:21:10 GMT</pubDate>
+      <title>[媒体]LastPass，广泛使用的密码管理器，经历了全球中断，导致 4 [...]</title>
+      <link>https://t.me/hn_summary/78154</link>
+      <description><![CDATA[LastPass 遭受全球中断，导致网站 404 错误
+广泛使用的密码管理器 LastPass 经历了全球中断，导致其网站出现 404 错误。尽管状态页面显示所有系统都在运行，但世界各地的用户都报告了访问该网站的问题。 LastPass 确认了停机并将其归因于产品发布，该问题很快得到解决。该事件持续了不到 30 分钟，促使 LastPass 更新其发布流程以提高可靠性。这次中断提醒我们，透明度和快速解决方案对于为客户提供卓越服务的重要性。]]></description>
+      <guid>https://t.me/hn_summary/78154</guid>
+      <pubDate>Thu, 07 Mar 2024 18:05:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《聪明人愚蠢的一面》中，作者探讨了过于聪明的危险[...]</title>
-      <link>https://t.me/hn_summary/78064</link>
-      <description><![CDATA[聪明人的愚蠢一面
-在《聪明人愚蠢的一面》一书中，作者探讨了过于聪明的危险，重点关注书本上的智慧及其潜在的陷阱。这篇文章强调了非常聪明的人如何陷入过度自信的陷阱，难以倾听那些资历较低的人的意见，并发现在需要时很难改变自己的想法。作者使用了金融和娱乐等各个领域的例子来说明知识声誉如何阻碍成长和适应。最终，这篇文章挑战了智力始终是一种积极特质的观念，揭示了过于聪明的潜在缺点。]]></description>
-      <guid>https://t.me/hn_summary/78064</guid>
-      <pubDate>Thu, 07 Mar 2024 08:19:06 GMT</pubDate>
+      <title>[媒体] 41 名州检察长组成的小组要求 Meta 改善其客户服务 [...]</title>
+      <link>https://t.me/hn_summary/78153</link>
+      <description><![CDATA[41 个州 AG 要求 Meta 修复对黑客受害者的客户支持&lt; /a&gt;
+由 41 名州总检察长组成的小组要求 Meta 改善其为遭受黑客攻击和帐户接管受害者的用户提供的客户支持服务。这封信首先由《连线》报道，突显了许多用户在尝试恢复丢失帐户时面临的挫败感，尤其是企业主和知名创作者。一些用户甚至诉诸法律服务或雇用黑客来重新获得访问权限。州 AG 发现投诉激增，现在正在向 Meta 施压，要求其在账户接管缓解策略上投入更多资金，并提高对此类事件的响应透明度。争议在于 Meta 缺乏对黑客受害者的足够支持，尽管他们声称在执法和审查团队上投入了大量资金。]]></description>
+      <guid>https://t.me/hn_summary/78153</guid>
+      <pubDate>Thu, 07 Mar 2024 18:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 ecosophia.net 最近发表的一篇文章中，作者讨论了流行音乐的重大转变 [...]</title>
-      <link>https://t.me/hn_summary/78063</link>
-      <description><![CDATA[陌生的世界，21世纪的人口下降问题 
-在 ecosophia.net 上最近发表的一篇文章中，作者讨论了重要的目前世界范围内正在发生人口从增长转向下降的转变。从人口繁荣到人口萧条的转变是许多人都难以理解的 21 世纪问题。随着全球生育率下降，许多国家已经出现人口萎缩。作者深入研究了承载能力和超调的概念，解释了有限的化石燃料资源如何推动人口增长。随着这些资源的减少，人口持续萎缩的后果变得越来越明显。作者挑战了乌托邦或世界末日的未来是唯一可能性的信念，强调需要以新的视角来看待我们当前的困境。 （根据故事文本的 67% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78063</guid>
-      <pubDate>Thu, 07 Mar 2024 08:10:00 GMT</pubDate>
+      <title>OpenAI 发布了埃隆·马斯克的电子邮件。</title>
+      <link>https://t.me/hn_summary/78152</link>
+      <description><![CDATA[OpenAI 发布埃隆·马斯克的电子邮件。 “我们对事情发展到这一步感到难过”
+OpenAI 公布了埃隆·马斯克的电子邮件，表达了他对该公司需要大量资金来支持其人工智能雄心的担忧。马斯克提出了 10 亿美元的融资承诺，但最终只提供了 4500 万美元，导致他和公司之间关系紧张。尽管马斯克声称 OpenAI 违反了其创立章程，但该公司坚称自己始终恪守创造安全、有益的人工智能技术的使命。 OpenAI 的成功导致与微软建立了密切的合作伙伴关系，估值达到 900 亿美元。马斯克和 OpenAI 之间的争议凸显了科技行业平衡盈利和非营利使命的挑战。]]></description>
+      <guid>https://t.me/hn_summary/78152</guid>
+      <pubDate>Thu, 07 Mar 2024 17:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>创建知识共享许可证是为了促进安全共享，以应对法律威胁 [...]</title>
-      <link>https://t.me/hn_summary/78062</link>
-      <description><![CDATA[早期知识共享许可证中的一个错误导致了 Copyleft 巨魔的出现
-创建知识共享许可证是为了促进安全共享，以应对来自娱乐行业的法律威胁。然而，早期版本中的一个错误导致了 Copyleft 巨魔的崛起，他们的目标是善意经营的个人。这些流氓利用归因中的小错误索要数千美元的许可费，否则将面临 15 万美元的法定赔偿。 Copyleft 巨魔的掠夺性策略，例如自己制造归因错误或使用过时的许可证，给毫无戒心的个人和组织造成了经济损失。这种对行政无知的利用凸显了提高版权法意识和适当归属实践的必要性。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78062</guid>
-      <pubDate>Thu, 07 Mar 2024 07:51:50 GMT</pubDate>
+      <title>[媒体] 安全研究人员 Talal Haj Bakry 和 Tommy Mysk 最近的一项发现表明 [...]</title>
+      <link>https://t.me/hn_summary/78151</link>
+      <description><![CDATA[Flipper Zero WiFi 攻击可以解锁并窃取特斯拉汽车 
+安全研究人员 Talal Haj Bakry 和 Tommy Mysk 最近的一项发现表明，使用 Flipper Zero 设备进行简单的网络钓鱼攻击可能会危及 Tesla 帐户、解锁汽车，甚至将其开走。通过设置虚假的 Tesla Guest WiFi 网络，攻击者可以诱骗受害者输入其凭据，从而允许他们添加新的电话钥匙并完全控制车辆。令人惊讶的是，特斯拉认为这份报告超出了范围，突显了其系统中存在重大安全漏洞。研究人员建议添加实体特斯拉卡钥匙要求以增强安全性，但特斯拉尚未对这一担忧做出回应。]]></description>
+      <guid>https://t.me/hn_summary/78151</guid>
+      <pubDate>Thu, 07 Mar 2024 17:54:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加州删除法案正在州立法机关掀起波澜，让居民 [...]</title>
-      <link>https://t.me/hn_summary/78061</link>
-      <description><![CDATA[在网上变得不那么引人注目：缩小数字足迹的五种方法
-加州删除法案正在州立法机关掀起波澜，赋予居民控制其在线信息的权力。虽然这项立法对英国来说似乎还很遥远，但您现在可以采取一些措施来缩小您的数字足迹。从关闭旧帐户到加强浏览器隐私，这五个技巧将帮助您控制自己的在线状态。不要让数据经纪人跟踪您 - 今天就负责您的在线身份。]]></description>
-      <guid>https://t.me/hn_summary/78061</guid>
-      <pubDate>Thu, 07 Mar 2024 07:46:44 GMT</pubDate>
+      <title>[媒体]前谷歌工程师丁林伟因涉嫌窃取人工智能商业机密被捕 [...]</title>
+      <link>https://t.me/hn_summary/78150</link>
+      <description><![CDATA[美国政府宣布逮捕涉嫌盗窃人工智能商业机密的前谷歌工程师
+前谷歌工程师丁林伟因涉嫌窃取该公司人工智能商业机密并与中国公司合作而被捕。起诉书称，丁将有关谷歌数据中心的机密信息上传到他的个人谷歌云帐户。他在中国获得了首席技术官职位，并创办了一家初创公司，但没有透露自己与谷歌的关系。丁去年从谷歌辞职，被发现拥有 500 多个被盗信息的独特文件。谷歌采取了严格的防盗措施，并迅速将案件移交给执法部门。丁因盗窃联邦商业机密而面临最高 10 年监禁。]]></description>
+      <guid>https://t.me/hn_summary/78150</guid>
+      <pubDate>Thu, 07 Mar 2024 17:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本公告中，乔纳森·戈拉德 (Jonathan Gorard) 详细介绍了他如何成功地再现衍射 [...]</title>
-      <link>https://t.me/hn_summary/78060</link>
-      <description><![CDATA[关于 Wolfram 模型中的双缝实验和量子干涉&lt; /a&gt;
-在本公告中，Jonathan Gorard 详细介绍了他如何使用 Wolfram 模型中的量子力学公式成功地再现了衍射和干涉图案。通过利用具有路径权重的简单弦多路系统，他能够演示单缝、双缝和多缝光子干涉图案的已知现象。结果与传统量子力学的分析预测非常吻合，展示了他的量子力学形式主义中衍射和干涉效应的自然出现。这种计算实例提供了他之前工作中提出的抽象数学论证的具体示例，为 Wolfram 模型中的量子现象提供了独特的视角。 （根据故事文本的 38% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78060</guid>
-      <pubDate>Thu, 07 Mar 2024 07:37:38 GMT</pubDate>
+      <title>[媒体]想偷特斯拉吗？</title>
+      <link>https://t.me/hn_summary/78149</link>
+      <description><![CDATA[想偷一辆特斯拉吗？尝试使用脚蹼归零
+安全研究人员发现了一个设计缺陷，允许黑客使用 Flipper Zero（一种有争议的黑客工具）窃取特斯拉汽车。这次攻击涉及通过一个虚假网站欺骗特斯拉车主放弃他们的登录信息，从而使窃贼能够进入汽车并在不被发现的情况下开走。尽管就该漏洞联系了特斯拉，但该公司声称这是“故意行为”。 Flipper Zero 设备专为业余爱好者和黑客设计，暴露了大型科技公司的重大安全漏洞。为了防止此类攻击，专家建议特斯拉实施钥匙卡身份验证，并通知用户新创建的钥匙。]]></description>
+      <guid>https://t.me/hn_summary/78149</guid>
+      <pubDate>Thu, 07 Mar 2024 17:52:22 GMT</pubDate>
     </item>
     <item>
-      <title>在即将发布的 GTK 4.14 中，新的渲染器将为分数提供改进的支持 [...]</title>
-      <link>https://t.me/hn_summary/78059</link>
-      <description><![CDATA[GTK：关于分数比例、字体和提示&lt; br/&gt;
-在即将发布的 GTK 4.14 中，新的渲染器将提供对分数缩放的改进支持，从而实现更清晰的字体渲染。该博客讨论了在常见分数比例（如 125% 和 150%）下将应用程序像素与设备像素对齐的挑战。新的渲染器旨在根据字体选项优化均匀间距或清晰渲染，从而实现更好的文本渲染。作者鼓励读者尝试新的渲染器并分享他们对改进的字体渲染体验的反馈。]]></description>
-      <guid>https://t.me/hn_summary/78059</guid>
-      <pubDate>Thu, 07 Mar 2024 07:36:34 GMT</pubDate>
+      <title>[媒体]尽管许多企业主可能会担心，但自行车道实际上对商业有利。</title>
+      <link>https://t.me/hn_summary/78148</link>
+      <description><![CDATA[自行车道有利于商业
+尽管许多企业主可能会担心，但自行车道实际上对商业有利。研究表明，对自行车和行人更友好的街道对企业有利，一些地区在增设自行车道后，销售额甚至翻了两番。虽然并非每个企业都能平等受益，但总体而言，自行车道增加了零售区域的收入和就业机会。作为对市中心地区更大范围重新思考的一部分，全国各地的城市都在拥抱自行车道，这有可能吸引更多的购物者并增加经济活动。数据很清楚：自行车道对企业来说是一场胜利。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78148</guid>
+      <pubDate>Thu, 07 Mar 2024 17:51:19 GMT</pubDate>
     </item>
     <item>
-      <title>尼康公司宣布收购美国领先的电影摄影机制造商 RED.com, LLC [...]</title>
-      <link>https://t.me/hn_summary/78058</link>
-      <description><![CDATA[尼康将收购美国电影摄影机制造商 Red.com, LLC
-尼康公司宣布收购 RED.com, LLC（一家美国领先的电影摄影机制造商以其 RED ONE 4K 和 V-RAPTOR X 等创新产品而闻名。该协议将使 RED 成为尼康的全资子公司，旨在结合两家公司的优势，为电影摄影机打造卓越的产品。专业数字电影摄影机市场。凭借尼康在产品开发方面的专业知识和 RED 独特的图像压缩技术，此次合作有望在电影和视频制作领域取得令人兴奋的进步。此次收购标志着尼康扩大其在不断增长的电影摄影机市场的影响力并为全球客户提供尖端解决方案的重大举措。]]></description>
-      <guid>https://t.me/hn_summary/78058</guid>
-      <pubDate>Thu, 07 Mar 2024 07:32:29 GMT</pubDate>
+      <title>[媒体] 英特尔将从美国获得 3.5B 美元注资</title>
+      <link>https://t.me/hn_summary/78147</link>
+      <description><![CDATA[英特尔将从美国政府获得 3.5 亿美元资金用于制造芯片对于军事：报告
+美国政府正在向英特尔投资 35 亿美元，以提高用于军事和情报目的的先进芯片的生产，这可能是超过 100 亿美元的更大激励计划的一部分。这笔资金将支持 Secure Enclave 计划三年，使英特尔成为国防市场的关键参与者。英特尔还与美国政府和国防部签订了价值 10 亿美元的代工合同，与其他行业巨头一起开发军用芯片。这项投资旨在加强关键应用的半导体供应链的安全性和可靠性。]]></description>
+      <guid>https://t.me/hn_summary/78147</guid>
+      <pubDate>Thu, 07 Mar 2024 17:48:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
