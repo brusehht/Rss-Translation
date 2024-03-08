@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 00:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 03:12:30 GMT</lastBuildDate>
+    <item>
+      <title>使用 Python 进行面部情绪识别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9chvw/facial_emotion_recognition_with_python/</link>
+      <description><![CDATA[情绪识别是机器学习的一部分，属于相对较新的人工智能研究领域。如今，该技术用于自动识别图像和视频中的面部表情、音频中的口头表达、文本中的书面表达以及可穿戴设备测量的生理学。Luxand 提供基于云的情绪识别 API，该 API 提供了用于人脸识别的全系列基于人工智能的计算机视觉工具。通过本教程，您将了解如何使用 Python 将 Luxand.clod 情绪检测 API 实现到您的应用程序、软件或系统中。学习更多信息请参见：使用 Python 进行面部情绪识别   由   提交 /u/dothemaumau   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9chvw/facial_emotion_recognition_with_python/</guid>
+      <pubDate>Fri, 08 Mar 2024 02:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>认证问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9bej9/authentication_question/</link>
+      <description><![CDATA[对于通过第三方应用程序进行令牌认证，您可以在后端完成整个过程：请求授权码-&gt;接收码-&gt;请求令牌，还是需要在前端请求代码，然后将其发送到后端，然后从后端请求令牌？  &amp;# 32；由   提交 /u/bilimon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9bej9/authentication_question/</guid>
+      <pubDate>Fri, 08 Mar 2024 01:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>得到教训</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b9b7ob/lessons_learned/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b9b7ob/lessons_learned/</guid>
+      <pubDate>Fri, 08 Mar 2024 01:24:17 GMT</pubDate>
+    </item>
     <item>
       <title>我想为我的静态 html+css+js 网站提供一些功能，例如联系表单、路由等。我可以使用的最简单、最轻量级的后端是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b9a9w9/i_want_to_give_my_static_htmlcssjs_website_some/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>您从哪里获得项目灵感？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b9a667/where_do_you_get_inspiration_for_your_projects/</link>
-      <description><![CDATA[您好，一位领导要求查看网站，以获取他们想要为其建筑业务创建的新网站的新想法。我经常使用 codepen 来编写小型 HTML css 片段，对于更大的项目是否有类似的东西？或者您可以查看任何具有很酷网站的博客来获取项目灵感？谢谢。    由   提交/u/Retrobici-9696    reddit.com/r/webdev/comments/1b9a667/where_do_you_get_inspiration_for_your_projects/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨，我想为一个新的设计/架构网站获得一些新想法，我计划为潜在的领导者创建该网站。我经常使用 codepen 来编写小型 HTML css 片段，是否有类似的东西可以展示具有精美设计和动画的更大项目？我将不胜感激任何建议。谢谢！   由   提交/u/Retrobici-9696    reddit.com/r/webdev/comments/1b9a667/where_do_you_get_inspiration_for_your_projects/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b9a667/where_do_you_get_inspiration_for_your_projects/</guid>
       <pubDate>Fri, 08 Mar 2024 00:38:13 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>使用 iframe 进行延迟加载和自动播放？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b98xtm/lazy_load_and_autoplay_with_iframe/</link>
-      <description><![CDATA[如果这里不适合提出此类问题，我们深表歉意。我正在尝试建立一个网站来展示我的作品（视觉特效主管/创意总监），我真的很喜欢拥有一个长页面的想法。我目前使用锚链接在顶部仍然有一个快速按钮栏，并且运行良好。 我遇到的问题是自动播放/循环视频都在一个网站上。我使用 squarespace 因为我已经很多年没有接触过 html/css 了。这是网站 www.mav.studio 的 wip，我喜欢页面上连续出现的超宽视频的外观。它使人们很容易快速看到作品。但问题是加载时间，如果我使用 squarespaces 本机加载器，我可以使用优化的 mp4，但它仍然会立即加载所有视频。我认为 vimeo 做了同样的事情，而且由于它们自己的 h264 转换，它们的文件本质上更大，而且我注意到每次视频循环时都会有一个新的 js 查询。我尝试过在 iframe 标记中使用 vimeo 嵌入和延迟加载，但我很确定它不能与自动播放结合使用。 www.mav.studio/test 如此处所示。 是否有一种简单的方法可以解决此问题？我有一些可以实现的强力修复（例如在视频中创建平铺效果并具有奇怪的长宽比），但我希望有一个更优雅的解决方案来保持设计和质量。 谢谢寻求帮助！ -Mav   由   提交/u/maverickPixel  [链接] [评论]]]></description>
+      <description><![CDATA[如果这里不适合提出此类问题，我们深表歉意。我正在尝试建立一个网站来展示我的作品（视觉特效主管/创意总监），我真的很喜欢拥有一个长页面的想法。我目前使用锚链接在顶部仍然有一个快速按钮栏，并且运行良好。 我遇到的问题是自动播放/循环视频都在一个网站上。我使用 squarespace 因为我已经很多年没有接触过 html/css 了。这是网站 www.mav.studio 的 wip，我喜欢页面上连续出现的超宽视频的外观。它使人们很容易快速看到作品。但问题是加载时间，如果我使用 squarespaces 本机加载器，我可以使用优化的 mp4，但它仍然会立即加载所有视频。我认为 vimeo 做了同样的事情，而且由于它们自己的 h264 转换，它们的文件本质上更大，而且我注意到每次视频循环时都会有一个新的 js 查询。我尝试过在 iframe 标记中使用 vimeo 嵌入和延迟加载，但我很确定它不能与自动播放结合使用。 www.mav.studio/test 如此处所示。 是否有一种简单的方法可以解决此问题？我有一些可以实现的强力修复（例如在视频中创建平铺效果和具有奇怪的长宽比），但我希望有一个更优雅的解决方案来保持设计和质量。 谢谢寻求帮助！ -Mav   由   提交/u/maverickPixel  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b98xtm/lazy_load_and_autoplay_with_iframe/</guid>
       <pubDate>Thu, 07 Mar 2024 23:34:50 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>Headless CMS - Sitecore 云太多了？寻求有关企业中型市场网站 CMS 的建议。</title>
       <link>https://www.reddit.com/r/webdev/comments/1b97k19/headless_cms_sitecore_cloud_too_much_looking_for/</link>
-      <description><![CDATA[TLDR：希望任何人都能深入了解 Sitecore Cloud！它是否仍然像传统的 Sitecore 一样开发起来很糟糕，或者它实际上是一个很好的快速无头 CMS？我们不是一家 .net 商店，因为它是无头的，所以这有什么关系吗？ 背景：我经营一个公司网站（不是电子商务）。我们目前使用中层“混合无头”CMS。我想，一切都很好。他们的编辑器界面缓慢且笨重，并且他们的开发工具不存在/令人痛苦。再加上糟糕的客户支持、大规模的网站中断，我正在考虑迁移。 （这太糟糕了。） 我们的母公司使用整体 Sitecore。出于显而易见的原因，这对我来说是行不通的，但 Sitecore 确实有一个新的混合无头 CMS。 我通常不会考虑使用 Sitecore，但我是否有偏见？我正在寻找一个适合我的编辑人员快速的轻量级无头平台，以及一个适合我的开发人员的工具集和工作流程。我并不是在寻找很多花里胡哨的东西，我们的网站是带有 JS 的静态 HTML，并且我们有自己开发的用于个性化和表单提交的工具 - 但我正在寻找一个与翻译记忆库工具集成良好的平台，或者至少可以容纳一个健全的多语言网站。 我也会安排一个使用 Contentful 的演示，而且说实话，我也在考虑推出我们自己的，然后利用一个轻量级博客平台来为我们的非技术编辑 - 但是我知道对于拥有数千页的多语言网站来说，这在思想上与实践上总是听起来更简单。   由   提交 /u/batrathat   [链接] [评论]]]></description>
+      <description><![CDATA[TLDR：希望任何人都能深入了解 Sitecore Cloud！它是否仍然像传统的 Sitecore 一样开发起来很糟糕，或者它实际上是一个很好的快速无头 CMS？我们不是一家 .net 商店，因为它是无头的，所以这有什么关系吗？ 背景：我经营一个公司网站（不是电子商务）。我们目前使用中层“混合无头”CMS。我想，一切都很好。他们的编辑器界面缓慢且笨重，并且他们的开发工具不存在/令人痛苦。再加上糟糕的客户支持、大规模的网站中断，我正在考虑迁移。 （这太糟糕了。） 我们的母公司使用整体 Sitecore。出于显而易见的原因，这对我来说是行不通的，但 Sitecore 确实有一个新的混合无头 CMS。 我通常不会考虑使用 Sitecore，但我是否有偏见？我正在寻找一个适合我的编辑人员快速的轻量级无头平台，以及一个适合我的开发人员的工具集和工作流程。我并不是在寻找很多花里胡哨的东西，我们的网站是带有 JS 的静态 HTML，并且我们有自己开发的用于个性化和表单提交的工具 - 但我正在寻找一个与翻译记忆库工具集成良好的平台，或者至少可以容纳一个健全的多语言网站。 我也会安排一个带有 Contentful 的演示，而且说实话，我也在考虑推出我们自己的，然后利用一个轻量级博客平台来为我们的非技术编辑 - 但是我知道对于拥有数千个页面的多语言网站来说，这在思想上与实践上总是听起来更简单。   由   提交 /u/batrathat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b97k19/headless_cms_sitecore_cloud_too_much_looking_for/</guid>
       <pubDate>Thu, 07 Mar 2024 22:31:59 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>提高页面速度/分数（特别是在移动设备上）的基础知识是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b97429/what_are_the_basics_to_improving_page_speedscore/</link>
-      <description><![CDATA[       由   提交/u/finch66332  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/finch66332   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b97429/what_are_the_basics_to_improving_page_speedscore/</guid>
       <pubDate>Thu, 07 Mar 2024 22:13:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我是一家名为 Pagid racing 的公司的批发经销商，他们在其网站上使用小部件工具来帮助定位刹车片（位于此处：&lt; a href=&quot;https://www.pagidracing.com/en/product-search/race-products/racing-brake-pads.html&quot;&gt;https://www.pagidracing.com/en/product-search/race -products/racing-brake-pads.html）我们目前在我们的网站上使用他们的小部件（https://www.northstarmotorsports .com/pagid），但显然当您点击并到达实际的刹车片时，链接将不起作用，因此我们的解决方法是使用位于页面右侧的下拉菜单。我希望有人能够破解该小部件并使用小部件内我们页面上的链接，以便它将链接到我们新的 Shopify 网站上的正确产品。   由   提交/u/The-Black-Stig   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b973f1/looking_to_have_someone_modify_an_widget_for_our/</guid>
       <pubDate>Thu, 07 Mar 2024 22:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 JavaScript 检测大写锁定</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b96x64/detect_caps_lock_with_javascript/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b96x64/detect_caps_lock_with_javascript/</guid>
-      <pubDate>Thu, 07 Mar 2024 22:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT 学位能帮助我找到前端开发工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b96uiz/will_an_it_degree_help_me_land_a_front_end_dev_job/</link>
-      <description><![CDATA[我目前正在参加网页设计认证课程，正在学习一些基本的 HTML、CSS 和 JS。  我最初的计划是尝试这个证书计划，看看我是否喜欢它，然后尝试进入新兵训练营，这有望让我踏入大门。 我我担心这些可能不足以让我找到工作，所以您认为 IT 学位值得吗？   由   提交 /u/sybrskye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b96uiz/will_an_it_degree_help_me_land_a_front_end_dev_job/</guid>
-      <pubDate>Thu, 07 Mar 2024 22:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设置 SVG 文本元素的“文本内容”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b8z5yt/how_do_you_set_the_text_content_of_a_svg_text/</link>
-      <description><![CDATA[我正在尝试使用 Javascript 创建 SVG 元素并将其附加到 SVG 标签。 我发现您可以像这样轻松制作矩形： let svg = document.getElementbyId(“svgTag1”);让 矩形 = svg.createElementNS(&#39;http://www.w3.org/2000/svg&#39;, &#39;矩形&#39;); rect.setAttribute(&#39;填充&#39;, &#39;蓝色&#39;); //设置其余属性 svg.appendChild(rect);  现在如何使用文本标签执行此操作？ 因为 svg 文本标签如下所示： 标签&lt;/text&gt;  标签之间的那段文本的属性名称是什么？我写的地方标签＆quot;。 我已经检查了官方SVG文档，甚至没有说明该属性名称是什么。 到目前为止我已经尝试过：setAttribute(&quot; ;textContent&quot;, &quot;标签&quot; ) , setAttribute(&quot;文本&quot;, &quot;标签&quot; ), 但似乎没有任何效果。 ​    由   提交 /u/SubzeroCola   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b8z5yt/how_do_you_set_the_text_content_of_a_svg_text/</guid>
-      <pubDate>Thu, 07 Mar 2024 16:44:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
