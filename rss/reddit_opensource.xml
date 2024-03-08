@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Mar 2024 12:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 15:12:38 GMT</lastBuildDate>
+    <item>
+      <title>ELI5请求：F/OSS许可证类型之间的差异</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b9q55h/eli5_request_difference_between_types_of_foss/</link>
+      <description><![CDATA[有人可以 ELI5 说明不同类型的自由/开源软件许可证之间的差异、您可能使用它们的原因以及它们在实践中如何发挥作用来保护您或者你的软件？   由   提交 /u/SimplifyAndAddCoffee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b9q55h/eli5_request_difference_between_types_of_foss/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:04:57 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了纸上钢琴，不知何故我确实成功了，但它确实需要一些细节，例如光线、相机角度、距离等。我已将其上传到 Git Hub，如果我们可以进一步改进，我将很高兴！链接：https://github.com/Mayuresh1611/Paper-Piano.git</title>
       <link>https://www.reddit.com/r/opensource/comments/1b9l1c2/i_made_piano_on_paper_somehow_i_did_managed_to/</link>
@@ -57,14 +64,14 @@
     <item>
       <title>SynQ：一个拥有 4 万用户的音乐浏览器扩展，提供具有跨服务链接的迷你播放器，现已开源并正在寻找贡献者！</title>
       <link>https://www.reddit.com/r/opensource/comments/1b95az6/synq_a_music_browser_extension_with_40k_users/</link>
-      <description><![CDATA[大家好！ 我非常高兴地宣布，我最初在 6 年前专门为 YouTube Music 开发的浏览器扩展程序现已完全重写以支持多种音乐服务。该扩展在 6 年内获得了大约 4 万用户，我预计随着我们添加更多基于网络的音乐服务，它会从此大幅增长！重写配备了更高质量的迷你播放器和跨服务链接功能，使您可以在您首选的服务上打开来自我们支持的任何服务的曲目、专辑和艺术家链接。 我们目前支持 Spotify、 Apple Music、YouTube Music 和 Amazon Music，但我们很乐意支持所有主要音乐服务，并且在实施另外 11 项服务方面存在问题。我们有一份关于实现音乐服务适配器需要做什么的指南，并且我们尝试在 SynQ 的核心中尽可能多地完成繁重的工作，这应该使这些适配器的实现对初学者更加友好。 &lt; p&gt;在此处查看我们的 GitHub 存储库：https://github.com/SynQApp/Extension 网站下载SynQ：https://www.synqapp.io/ ​   由   提交/u/PatrioTech  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我非常高兴地宣布，我最初在 6 年前专门为 YouTube Music 开发的浏览器扩展程序现已完全重写以支持多种音乐服务。该扩展在 6 年内获得了大约 4 万用户，我预计随着我们添加更多基于网络的音乐服务，它会从此大幅增长！重写配备了更高质量的迷你播放器和跨服务链接功能，让您可以在您首选的服务上打开来自我们支持的任何服务的曲目、专辑和艺术家链接。 我们目前支持 Spotify、 Apple Music、YouTube Music 和 Amazon Music，但我们很乐意支持所有主要音乐服务，并且在实施另外 11 项服务方面存在问题。我们有一个关于实现音乐服务适配器需要做什么的指南，并且我们尝试在 SynQ 的核心中尽可能多地完成繁重的工作，这应该使这些适配器的实现对初学者更加友好。 &lt; p&gt;在此处查看我们的 GitHub 存储库：https://github.com/SynQApp/Extension 网站下载SynQ：https://www.synqapp.io/ ​   由   提交/u/PatrioTech  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b95az6/synq_a_music_browser_extension_with_40k_users/</guid>
       <pubDate>Thu, 07 Mar 2024 21:02:34 GMT</pubDate>
     </item>
     <item>
       <title>Vernier Logger Pro/图形分析的自由和开源软件替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1b932s9/foss_alternative_to_vernier_logger_prographical/</link>
-      <description><![CDATA[我在一所小型大学教授入门物理实验室，我们利用 Vernier LabQuest Mini 传感器接口及其 Logger Pro 软件进行数据收集和分析。然而，我们都付出了很多（因为教育软件和设备的价格过高），并且该软件偶尔会在一些明显的任务上失败，例如将图形导出为图像。 （学生目前必须截屏，保存，然后通过电子邮件发送给自己以包含在他们的实验报告中，这很令人讨厌）。我很想找到一种 FOSS 替代方案（如果存在）。以下是要求：  与 Vernier LabQuest Mini 和传感器完全连接，包括检测和校准 与 Vernier 实验文件 (.cmbl) 兼容 &lt; li&gt;使用易于配置的标签和轴进行简单的数据输入/绘图 曲线拟合，具有用户定义的拟合选项 将数据导出为常见格式并将图形导出为图像（.png、 .jpeg，也许是 svg/pdf） 必须可供具有最少计算经验的本科生使用 最好与操作系统无关（至少是 Mac/Win），以便学生可以在他们的计算机上安装如果需要，可以拥有自己的机器  如果我正在寻找不存在的东西，我理解，但我会接受你能给的任何东西。   由   提交/u/ducks_over_IP   [链接] [评论]]]></description>
+      <description><![CDATA[我在一所小型大学教授入门物理实验室，我们利用 Vernier LabQuest Mini 传感器接口及其 Logger Pro 软件进行数据收集和分析。然而，我们都付出了很多（因为教育软件和设备的价格过高），并且该软件偶尔会在一些明显的任务上失败，例如将图形导出为图像。 （学生目前必须截屏、保存，然后通过电子邮件发送给自己以包含在实验室报告中，这很令人讨厌）。我很想找到一种 FOSS 替代方案（如果存在）。以下是要求：  与 Vernier LabQuest Mini 和传感器完全连接，包括检测和校准 与 Vernier 实验文件 (.cmbl) 兼容 &lt; li&gt;使用易于配置的标签和轴进行简单的数据输入/绘图 曲线拟合，具有用户定义的拟合选项 将数据导出为常见格式并将图形导出为图像（.png、 .jpeg，也许是 svg/pdf） 必须可供具有最少计算经验的本科生使用 最好与操作系统无关（至少是 Mac/Win），以便学生可以在他们的计算机上安装如果需要，可以拥有自己的机器  如果我正在寻找不存在的东西，我理解，但我会接受你能给的任何东西。   由   提交/u/ducks_over_IP   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b932s9/foss_alternative_to_vernier_logger_prographical/</guid>
       <pubDate>Thu, 07 Mar 2024 19:33:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/mitousa  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8m9pn/fully_opensourced_my_internet_os_after_3_years_of/</guid>
       <pubDate>Thu, 07 Mar 2024 05:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于维护劳工标准的开源应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b8e32p/open_source_application_for_labor_standards/</link>
-      <description><![CDATA[嗨， 我正在寻找一个关于劳工标准的小型应用程序。 劳工标准是定义为一个人在零售中采取的行动。测量单位是秒。标准的属性是标准名称、时间。标准可以是 2 级深。 示例： 第 1 级：在面包店制作蛋糕 15 分钟 第 2 级：搅拌蛋糕粉 10 分钟，放入烤箱 4 分钟 第 3 级：获取面粉2分钟，鸡蛋1分钟 用例很简单。  允许用户创建、更新、删除标准 版本控制&lt; /li&gt; 流式传输或拥有一个 API，允许将标准中的更改推送/拉入另一个下游系统 允许轻松地将标准下载到 Excel 或从 Excel 上传标准  是否有一个开源应用程序具有相对现代的数据库，我可以将其用于此类用例？    由   提交 /u/gmehtaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b8e32p/open_source_application_for_labor_standards/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:58:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
