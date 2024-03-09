@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Mar 2024 18:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 21:11:50 GMT</lastBuildDate>
+    <item>
+      <title>为我的项目寻求反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</link>
+      <description><![CDATA[r/dotnet 社区大家好！&lt; /p&gt; 我想分享一个我长期以来一直热衷的项目，该项目完全用 .NET 构建。它称为 musoq，允许在不同的数据源上使用 SQL 语法。我很乐意邀请​​您访问我的项目的 GitHub 个人资料以进一步探索它。我们将非常感谢您的反馈和建议。最近，我又采取了一步来降低进入门槛，准备了一个 CLI 工具来轻松使用该项目。 在我继续改进该项目时，您对该项目的指导、想法和想法对我来说非常宝贵。 。非常感谢您抽出宝贵的时间，即使只是阅读这篇文章:)   由   提交 /u/Puchaczov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</guid>
+      <pubDate>Sat, 09 Mar 2024 20:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是另一个 android 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1baq8x7/just_another_android_library/</link>
+      <description><![CDATA[       由   提交 /u/Junior_Mushroom8983   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1baq8x7/just_another_android_library/</guid>
+      <pubDate>Sat, 09 Mar 2024 19:43:22 GMT</pubDate>
+    </item>
     <item>
       <title>Resticity - Restic 的跨平台前端</title>
       <link>https://www.reddit.com/r/opensource/comments/1banseq/resticity_a_crossplatform_frontend_for_restic/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[嗨。我开发了一个人工智能聊天机器人，它注重隐私并作为单个聊天窗口运行。它使用上下文管理来实现长期和短期记忆。 该项目可在此处获取：https://github.com/taylorgoolsby /cobalt 我这里有一个视频演示了该项目的 MVP：https://www. youtube.com/watch?v=SBA2dH04570 我的目标是确保使用人工智能在隐私方面是安全的。如果每个人都在与人工智能对话，并且它正在收集大量数据以提供更好的服务，我认为最好将数据保密，而不是合并到专有系统中，并且数据会被挖掘或泄露。您同意这个目标，我需要您的支持。关注我（https://bento.me/taylorgoolsby）并尝试一下，并让我知道您的想法。 此外，这个项目是开源的，我认为看到其他人使用该代码作为他们自己需要上下文管理的 AI 聊天机器人项目的基础会很酷。   由   提交/u/Croolsby  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ba983t/privacy_focused_ai_chat_bot/</guid>
       <pubDate>Sat, 09 Mar 2024 04:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNU 带来公共许可</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ba6o40/gnu_affero_public_licensing/</link>
-      <description><![CDATA[大家好， 我有一个非常酷的想法，即利用 GNU 许可的代码。我重新调整这段代码的用途，根据我的想法对其进行一些修改，然后将其出售，这是否合法？ 我以前从未做过这样的事情；我想要一些建议。 谢谢！   由   提交/u/Few_Speaker_9537   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ba6o40/gnu_affero_public_licensing/</guid>
-      <pubDate>Sat, 09 Mar 2024 02:27:15 GMT</pubDate>
     </item>
     <item>
       <title>适用于不同创意工作的优秀开源软件，例如音乐制作、游戏开发、照片编辑等。</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/Cool_Giraffe8270  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b9l1c2/i_made_piano_on_paper_somehow_i_did_managed_to/</guid>
       <pubDate>Fri, 08 Mar 2024 10:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源软件和应用程序的集合</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b9kl7m/a_collection_of_open_source_software_and_apps/</link>
-      <description><![CDATA[嗨，Piotr 这里👋 我创建了一个开源“软件即服务”列表应用程序： 👉 https://openalternative.co 随时提交您自己的或分享一些反馈。 一些背景故事： 我已经收集一些不错的开源软件有一段时间了。主要是为了获得一些灵感并从他们的代码中学习。 上周，我认为将其构建为一个目录网站供任何人使用和贡献会很有趣。经过 2 天的努力构建，OpenAlternative 诞生了。 感谢您的支持！   由   提交 /u/piotrkulpinski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b9kl7m/a_collection_of_open_source_software_and_apps/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:59:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
