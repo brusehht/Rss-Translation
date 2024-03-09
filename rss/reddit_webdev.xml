@@ -4,20 +4,83 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Mar 2024 15:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 18:13:48 GMT</lastBuildDate>
+    <item>
+      <title>[Showoff Saturday] 我制作了一个语言学习平台，包含人工智能生成的内容和类似 Anki 的抽认卡训练。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bao10s/showoff_saturday_i_made_a_language_learning/</link>
+      <description><![CDATA[       由   提交/u/Apox33  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bao10s/showoff_saturday_i_made_a_language_learning/</guid>
+      <pubDate>Sat, 09 Mar 2024 18:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么这个游戏无法在我的网站上运行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1banqmc/why_isnt_this_game_working_on_my_website/</link>
+      <description><![CDATA[我正在开始一份后端开发人员的新工作，他们给了我这个荒谬的任务。我需要从网站下载游戏并将其上传到其他地方并使其在那里运行。 这是我的尝试，JavaScript 不断抛出错误，正如您可以从开发工具的控制台选项卡中看到的那样。 这是我的尝试。 p&gt; （由于某种原因，当我放入 netlify 链接时，reddit 不断删除我的帖子，因此我不得不在那里放一个空格）： https://friend-panda-b4eb22 .netlify。 app/happy-winner.de/neonstaxx/game/index3c7a.html   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1banqmc/why_isnt_this_game_working_on_my_website/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[ShowOff Saturday] 我为我创建的这个自动审查任何视频的应用程序感到自豪。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1band7u/showoff_saturday_im_proud_of_this_app_i_created/</link>
+      <description><![CDATA[我构建了一个应用程序，只是为了在本地运行，它使用 Transformers.Js 在本地运行语音到文本模型（耳语）来转录视频，我与 FFMPEG 进行了斗争，让视频能够按照我从转录中获得的字级时间戳进行审查。效果很好，但是花了很长时间。 然后我想，好吧，其他人可能希望能够将其用作服务。  所以我一直致力于发布一个软件即服务来做到这一点。我的技术堆栈中使这一切成为可能的超级明星是：  Wasp Lang。电池包括完整的堆栈框架。反应、节点、棱镜。  FFMPEG.Wasm。浏览器中的 FFMPEG 宝贝。 DeepGram，更快的 STT API。   将免费提供即将发布的测试版。至少对于前几个测试者来说，请检查一下:) https://bleepify.me &lt; /div&gt;  由   提交 /u/Front-Insurance9577    reddit.com/r/webdev/comments/1band7u/showoff_saturday_im_proud_of_this_app_i_created/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1band7u/showoff_saturday_im_proud_of_this_app_i_created/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲/美国工作环境最好的公司</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ban9p9/companies_with_the_best_work_environment_in/</link>
+      <description><![CDATA[我正在寻找很酷的前端/后端工作来申请。我并不绝望，我应该申请哪些在欧洲/美国设有办事处的很酷的项目？（去他妈的远程工作）。我正在寻找工作环境良好的团队，薪资并不重要。   由   提交 /u/ellisbud   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ban9p9/companies_with_the_best_work_environment_in/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么替代早已消亡的 polyfill.io 的方法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bamsbk/any_alternatives_to_longdead_polyfillio/</link>
+      <description><![CDATA[https://polyfill.io/ 它非常方便，您访问该网站，检查您需要的功能，它会生成即插即用的现成 JS 脚本   由   提交 /u/KeinZantezuken   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bamsbk/any_alternatives_to_longdead_polyfillio/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我设计了一个简单的 CSS 变量系统，您可以将其用于您的下一个爱好项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bamhoc/i_designed_a_simple_css_variable_system_that_you/</link>
+      <description><![CDATA[我一直在开发一个紧凑的令牌系统，该系统易于自定义和扩展并自动处理主题。色彩管理采用具有预定义对比度的多级结构构建。它包括间距、响应属性和不同边框半径样式的变量。我们的平台上已完整记录功能：https://www.once-ui.com/docs/the- design-dividend  还有一个匹配的 Figma 变量系统，可以轻松地将设计转换为代码，因为您可以复制粘贴大部分属性面板，只需很少的调整。  该系统可免费用于非商业用途，我在开发 React 库时正在寻求反馈。您可以了解有关该系统的更多信息并从我们的平台下载：https://www.once-ui。 com/product/css-variable-system  如果您想分享您的想法，请加入我们的 Discord，并在我们公开发布之前让我们知道您是否有兴趣测试我们的 React 库： https://discord.com/invite/5EyAQ4eNdS  &amp; #32；由   提交 /u/lorantart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bamhoc/i_designed_a_simple_css_variable_system_that_you/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找网站：FAANG 软件替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1balj51/looking_for_website_faang_software_alternatives/</link>
+      <description><![CDATA[嗨， 我记得不久前遇到过一个很棒的网站，其中列出了一堆非 FAANG 软件替代品（例如谷歌分析的替代品）。 IIRC，它非常适合非 FAANG 选项。 有人记得这个网站吗？   由   提交/u/pbdj3000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1balj51/looking_for_website_faang_software_alternatives/</guid>
+      <pubDate>Sat, 09 Mar 2024 16:25:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vue 3 客户端模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bal3zi/vue_3_client_templates/</link>
+      <description><![CDATA[嗨， 我有一个网络应用程序，允许用户创建报价，然后将其导出为 PDF 发送给自己的用户客户。目前，pdf 是预先制作好的，几乎没有定制选项。  如何为我的用户提供更多自定义选项？理想情况下，我想让他们控制布局中的所有内容，以及访问所有逻辑。  我的第一个想法是制作一个使用类似于 Vue 3 模板语言的编辑器。因此用户可以使用HTML和Css，也可以使用V-if、V-for等逻辑。我如何安全地实现这一点，以及如何存储用户模板？   由   提交/u/Interesting_Buy_5039   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bal3zi/vue_3_client_templates/</guid>
+      <pubDate>Sat, 09 Mar 2024 16:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>以声明方式测试 Angular 组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bakvpa/testing_angular_components_declaratively/</link>
+      <description><![CDATA[我开发了一个库，允许您以声明性方式对 Angular 组件进行单元测试，我很乐意从你们那里收集一些反馈。 您可以在这里找到该库：https://www.npmjs.com/package/@centigrade/ ngtx 以下是一些示例： https:// github.com/Centigrade/ngtx/blob/HEAD/docs/examples.md（从技术角度你可能无法理解，但可以感受一下它是什么样子） 我使用这个库大约 2.5 年了，现在在几个项目中非常成功，它改变了我对测试的看法。它对我编写 DRY 测试并使其更易于维护有很大帮助。 我想听听您对方法、文档或您可能想要评论的其他内容的想法。感谢您的宝贵时间:)   由   提交 /u/St34thdr1v3R   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bakvpa/testing_angular_components_declaratively/</guid>
+      <pubDate>Sat, 09 Mar 2024 15:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 CurlerRoo，一个带有丰富附加功能的 cURL GUI 应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bakbe4/i_created_curlerroo_a_gui_app_for_curl_with_rich/</link>
+      <description><![CDATA[我在这个项目上花了 6 个多月的时间。它是完全开源的。 如果您更喜欢直接使用 cURL 而不是 Postman 或 Insomnia 等流行的 REST 客户端，那么您可能会喜欢这个应用程序！因为它允许使用普通的 cURL 请求，并且还具有其他功能，例如格式化响应、搜索、从变量响应中提取值、链接请求... 存储库：https://github.com/CurlerRoo/CurlerRoo   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bakbe4/i_created_curlerroo_a_gui_app_for_curl_with_rich/</guid>
+      <pubDate>Sat, 09 Mar 2024 15:31:38 GMT</pubDate>
+    </item>
     <item>
       <title>不要对自己太苛刻</title>
       <link>https://www.reddit.com/r/webdev/comments/1bajdjl/dont_be_too_hard_on_yourself/</link>
       <description><![CDATA[我是一名自学成才的开发人员，在一家公司拥有大约 3 年的“真实”经验。他们确实冒着雇用我的风险，但认为这对每个人都有回报。  本周我第一次审查初级开发人员的代码测试（与我 3 年前所做的测试相同）。妈的，我不知道这是否是人工智能，但有一些复杂的提交内容。 我的观点是，我现在几乎不会雇用自己，更不用说三年前了。 我的观点是，我现在几乎不会雇用自己，更不用说三年前了。 p&gt; 我的观点是，我们将提供 1 个录用通知，但如果您正在申请并被拒绝，请保持警惕，有时这超出了您的控制范围。    由   提交/u/jande48  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bajdjl/dont_be_too_hard_on_yourself/</guid>
       <pubDate>Sat, 09 Mar 2024 14:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude 3 使用单个提示创建多人应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bajaif/claude_3_creates_a_multiplayer_application_with_a/</link>
-      <description><![CDATA[想法？ https://www.youtube.com/watch?v=AkqmnCyZ75c&amp;t=1s 公平地说，不要成为一个失败者，显然这是黑客马拉松上的事情，现在代码存在于 GitHub 中，并有许多存储库   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bajaif/claude_3_creates_a_multiplayer_application_with_a/</guid>
-      <pubDate>Sat, 09 Mar 2024 14:44:58 GMT</pubDate>
     </item>
     <item>
       <title>我们的全栈 Web 框架在 GitHub 上获得了 10,000 颗星！</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[标题   由   提交 /u/trjayke   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bahyat/what_were_the_first_problems_you_were_solving_in/</guid>
       <pubDate>Sat, 09 Mar 2024 13:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 使用令牌桶算法限制 API 速率</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bahub2/showoff_saturday_rate_limiting_apis_using_token/</link>
-      <description><![CDATA[       由   提交/u/dumbPotatoPot  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bahub2/showoff_saturday_rate_limiting_apis_using_token/</guid>
-      <pubDate>Sat, 09 Mar 2024 13:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 3 年多的时间和 GitHub 上 6300 多颗星的关注，Next.js Boilerplate 终于有了官方网站。登陆页面也是开源的，采用 Next.js + TypeScript + Tailwind CSS + Shadcn UI 构建。评论中的现场演示和 GitHub 存储库。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bahrwe/after_3_years_and_6300_stars_on_github_nextjs/</link>
-      <description><![CDATA[   /u/ixartz  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bahrwe/after_3_years_and_6300_stars_on_github_nextjs/</guid>
-      <pubDate>Sat, 09 Mar 2024 13:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Next.js 构建了一个开源自托管用户身份验证平台，可以在 3 分钟内完成设置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bahgfe/i_built_an_opensource_selfhostable_user_auth/</link>
-      <description><![CDATA[大家好，我正在为 Next.js 构建一个开源用户身份验证库。您只需几分钟的设置即可获得一切内容，包括 OAuth、凭据登录、预构建页面和电子邮件。一切都可以通过主题或低级组件进行自定义。 Github 链接：https://github.com/ stackframe-projects/stack 以下是我构建此项目的原因： 我从事过很多副项目，我认为最烦人的是我花了很多时间在非核心业务的事情上：用户身份验证、用户个人资料、支付、仪表板等。 所以我的愿景是构建一个框架，帮助所有开发人员消除这些问题为他们的新项目花费了不必要的时间。 Auth 是实现这一愿景的首要任务。 这是与您可能知道的其他 auth 服务的比较  Auth0/Clerk：不是开源的，并且具有供应商锁定 -在。此外，如果你达到一定规模，他们的定价会很疯狂 NextAuth：开发人员刚刚决定他们不支持密码。此外，如果您想将其与数据库连接或自定义 UI，也不是那么容易。 SuperTokens：设置起来非常困难。此外，它们还有一些非开源功能。我想要 100% 开源，只通过托管赚钱。 Supabase/Firebase：他们没有开箱即用的 UI 组件，这不是世界末日但仍有很多工作要做。此外，对于那些不使用其服务其他部分的人来说，它们的集成并不是很好。  如果您对这个愿景感兴趣并希望看到甚至帮助我们构建它，请加入我们的 Discord：https://discord.gg/5P6wvATb   由   提交/u/fomalhaut_b   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bahgfe/i_built_an_opensource_selfhostable_user_auth/</guid>
-      <pubDate>Sat, 09 Mar 2024 13:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Hostinger 中指向域名的简单方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bahe2b/simple_way_of_pointing_to_domain_in_hostinger/</link>
-      <description><![CDATA[所以在开发网站方面我是个菜鸟，之前只做过两次。我的最新网站是通过 Hostinger 购买了主机和域名。我已经开始在 Wordpress 和 Elementor 中编辑我的网站。  我注意到 WordPress 正在编辑“xxxx-com.preview-domain.com”而不是我的实际域名。这导致 Elementor Pro 插件无法工作，因为它们是根据我的实际域名注册的。  两个小时的搜索导致了极其复杂的说明，我不明白如何将我的网站指向服务器。 Hostinger 在 48 小时前没有回复我的询问，因此我想知道；有没有一个简单的解决方案可以根据我的实际域编辑我的网站？  对于我以前的托管公司来说，这从来不是问题，它们会自动执行此操作。对于那些只想创建基本网站的人来说，这种复杂性似乎超出了合理范围。   由   提交/u/AppearanceFeeling397   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bahe2b/simple_way_of_pointing_to_domain_in_hostinger/</guid>
-      <pubDate>Sat, 09 Mar 2024 13:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据技术堆栈找到托管应用程序的最佳位置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bah2n8/find_the_best_place_to_host_your_application/</link>
-      <description><![CDATA[       由   提交 /u/__brennerm    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bah2n8/find_the_best_place_to_host_your_application/</guid>
-      <pubDate>Sat, 09 Mar 2024 12:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合我工作的 CMS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bagufw/most_suitable_cms_for_my_job/</link>
-      <description><![CDATA[我目前在办公室担任 Web 开发人员。我一直在使用 Wordpress 开发电子商务网站。问题是我不认为 WordPress 是最适合我们项目的工具。  原因之一是我们有一位 UI 设计师，他使用 Figma 创建每个页面的设计。这些设计非常独特，并且在不注入充满 !important 子句的自定义代码或 css 的情况下，使用 Gutenberg 块或 elementor 等界面工具来复制它们是非常困难的，这会导致不一致的混乱。 我目前正在寻找一个CMS，它允许我使用完整的代码（HTML、CSS、PHP、JavaScript...我愿意学习其他语言，例如Python或Ruby，如果需要的话）来完全设计布局。然而，我办公室的经理不喜欢这个想法，因为我们的大多数项目都需要定制自由，这样我们的客户就可以随时完全更改文本、颜色、图像等元素。由于Wordpress界面非常容易理解，任何人都可以轻松地进行这些更改，但正如我所说，这个CMS对于所有类型的设计来说根本不灵活。 有什么建议吗？ （抱歉我的英语）   由   提交/u/LuckyJinx98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bagufw/most_suitable_cms_for_my_job/</guid>
-      <pubDate>Sat, 09 Mar 2024 12:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>顺风设置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bagpp0/tailwind_setup/</link>
-      <description><![CDATA[为了简单起见，我一直在尝试安装 Tailwind，但它从未与 CLI 一起使用。  我遵循了 2-3 个教程和文档，它们都显示了相同的步骤。完成后，我的 Tailwind 扩展开始工作，但我使用的所有类都不能工作。 使用 CDN 可以正常工作，但这不是我需要的。  有人可以帮忙吗？我已经尝试了 5-6 次。   由   提交 /u/ViSuo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bagpp0/tailwind_setup/</guid>
-      <pubDate>Sat, 09 Mar 2024 12:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Observer - 实现卓越网站健康和性能的终极工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bagdsb/observer_your_ultimate_tool_for_superior_website/</link>
-      <description><![CDATA[      我们的新产品Observer已上线！它可以帮助您跟踪、分析和优化您的网站，确保您的网站不仅生存而且蓬勃发展。您可以免费使用它，欢迎提供所有反馈！ https://siteobserver.co 技术堆栈 我们使用 Angular、.NET、Python 和 Node.JS 构建了 Observer。我们的后端服务是分开的。对于数据库，我们使用 Redis 进行缓存、PostgreSQL 和 MySQL。 https://preview.redd.it/ssmvw0fcvanc1.jpg?width=2540&amp;format=pjpg&amp;auto=webp&amp;s=08dae143ee559f1d592f53a7e077f8c6 e9a1ef80   由   提交 /u/compos3dly   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bagdsb/observer_your_ultimate_tool_for_superior_website/</guid>
-      <pubDate>Sat, 09 Mar 2024 12:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI/UX 设计师多久与客户会面一次？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bagapd/how_often_do_uiux_designers_have_meetings_with/</link>
-      <description><![CDATA[这有多费脑力？我正在考虑这个职业，但我的社交活力有点低。感谢任何回复的人。    由   提交 /u/noctemics   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bagapd/how_often_do_uiux_designers_have_meetings_with/</guid>
-      <pubDate>Sat, 09 Mar 2024 12:07:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
