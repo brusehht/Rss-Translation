@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Mar 2024 03:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 06:17:04 GMT</lastBuildDate>
+    <item>
+      <title>注重隐私的人工智能聊天机器人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ba983t/privacy_focused_ai_chat_bot/</link>
+      <description><![CDATA[嗨。我开发了一个人工智能聊天机器人，它注重隐私并作为单个聊天窗口运行。它使用上下文管理来实现长期和短期记忆。 该项目可在此处获取：https://github.com/taylorgoolsby /cobalt 我这里有一个视频演示了该项目的 MVP：https://www. youtube.com/watch?v=SBA2dH04570 我的目标是确保使用人工智能在隐私方面是安全的。如果每个人都在与人工智能对话，并且它正在收集大量数据以提供更好的服务，我认为最好将数据保密，而不是合并到专有系统中，并且数据会被挖掘或泄露。您同意这个目标，我需要您的支持。关注我（https://bento.me/taylorgoolsby）并尝试一下，并让我知道您的想法。 此外，这个项目是开源的，我认为看到其他人使用该代码作为他们自己需要上下文管理的 AI 聊天机器人项目的基础会很酷。   由   提交/u/Croolsby  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ba983t/privacy_focused_ai_chat_bot/</guid>
+      <pubDate>Sat, 09 Mar 2024 04:40:02 GMT</pubDate>
+    </item>
     <item>
       <title>GNU 带来公共许可</title>
       <link>https://www.reddit.com/r/opensource/comments/1ba6o40/gnu_affero_public_licensing/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>比 GPL 更强大的许可证？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b9j63v/a_license_stronger_than_gpl/</link>
-      <description><![CDATA[我想知道是否有比 (A)GPL 更强一点的许可证，需要与我共享更改。&lt; /strong&gt; 我担心的是以下情况：  将项目设为 GPL 某些公司采用它，进行一些更改，然后卖掉它。他们的副本仍然是 GPL，但他们只需要与他们的客户共享代码，并且只有在他们提出要求的情况下。  我希望这些更改能够顺利进行回到“公共”或“我的”代码。   由   提交/u/Over_Intention3342   [链接] [评论]]]></description>
+      <description><![CDATA[我想知道是否有比 (A)GPL 更强一点的许可证，需要与我共享更改。&lt; /strong&gt; 我担心的是以下情况：  将项目设为 GPL 某些公司采用它，进行一些更改，然后卖掉它。他们的副本仍然是 GPL，但他们只需要与他们的客户共享代码，并且只有在他们提出要求的情况下。  我希望这些更改能够顺利实施回到“公共”或“我的”代码。   由   提交/u/Over_Intention3342   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b9j63v/a_license_stronger_than_gpl/</guid>
       <pubDate>Fri, 08 Mar 2024 08:22:20 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/Spirited-Pause   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b9hw9j/ad_zap_is_a_new_fork_of_kablock_ios_ad_blocker/</guid>
       <pubDate>Fri, 08 Mar 2024 07:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在你的 GitHub 中，你能说出你想要制作开源版本而不遇到麻烦的软件的名称吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b97bla/in_your_github_can_you_name_the_software_you_are/</link>
-      <description><![CDATA[ 由   提交 /u/MrOogaBoga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b97bla/in_your_github_can_you_name_the_software_you_are/</guid>
-      <pubDate>Thu, 07 Mar 2024 22:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
