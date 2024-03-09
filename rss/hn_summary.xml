@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 09 Mar 2024 08:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 11:36:46 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 在“SuperC：通过驯服预处理器解析所有 C”中，Paul Gazzillo 和 Robert Gri [...]</title>
+      <link>https://t.me/hn_summary/78432</link>
+      <description><![CDATA[SuperC：通过驯服预处理器解析所有 C [pdf]( https://news.ycombinator.com/item?id=39650788)
+在“SuperC：通过驯服预处理器解析所有 C”一文中，纽约大学的 Paul Gazzillo 和 Robert Grimm 提出了一个突破性的解决方案，以应对在 C 工具中处理 C 和预处理器的挑战。他们的方法涉及一个保留配置的预处理器和解析器，用于处理包含、宏和静态条件，同时保持程序的可变性。他们引入了一种新颖的 Fork-Merge LR 解析算法和性能优化。他们的开源工具 SuperC 成功解析了 x86 Linux 内核，证明了他们方法的有效性。这项工作为更强大的 C 分析和转换工具奠定了基础。 （根据故事文本的 14% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78432</guid>
+      <pubDate>Sat, 09 Mar 2024 11:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Rust 编程语言正在蓄势待发，特别是在以安全为中心的组织中 [...]</title>
+      <link>https://t.me/hn_summary/78431</link>
+      <description><![CDATA[Rust 兴起：新的倡导有望推动采用
+Rust 编程语言正在获得发展势头，特别是在注重安全的组织中，白宫建议将其用于软件开发。 Microsoft 和 Google 等公司已经从 C、C++ 和 C# 过渡到 Rust。 2023 年 Rust 年度调查显示 Rust 的使用量持续增加，重点是构建无错误的软件和性能。包括政府在内的监管倡导预计将进一步推动 Rust 的采用。然而，对 Rust 的复杂性和项目治理可扩展性的担忧仍然存在。 Rustaceans 希望改进特征、const 执行和异步功能，同时优先考虑错误修复和性能增强。]]></description>
+      <guid>https://t.me/hn_summary/78431</guid>
+      <pubDate>Sat, 09 Mar 2024 11:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我们的研究探讨了由恒星引起的银河系旋转曲线的异常贡献[...]</title>
+      <link>https://t.me/hn_summary/78430</link>
+      <description><![CDATA[随机时空对银河旋转曲线的异常贡献 
+我们的研究探讨了随机时空涨落对银河系旋转曲线的异常贡献。通过将这些波动纳入我们的模型，我们发现它们会对观测到的星系旋转曲线产生重大影响。这表明传统模型可能无法完全解释时空动力学的复杂性。我们的发现挑战了对银河系旋转的传统理解，并强调了在该领域进一步研究的必要性。这项研究为理解时空的本质及其对星系动力学的影响开辟了新的可能性。我们的研究意义深远，值得进一步研究。]]></description>
+      <guid>https://t.me/hn_summary/78430</guid>
+      <pubDate>Sat, 09 Mar 2024 11:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]一个有争议的新引力理论正在挑战对暗物质的需求，建议[...]</title>
+      <link>https://t.me/hn_summary/78429</link>
+      <description><![CDATA[有争议的新引力理论排除了暗物质的存在
+一种有争议的新引力理论正在挑战对暗物质的需求，表明这种难以捉摸的物质可能只是物理学界几十年来一直在追逐的海市蜃楼。该理论由伦敦大学学院的乔纳森·奥本海姆教授提出，提出时空的不稳定性质可以解释宇宙的膨胀和银河系的旋转，而无需暗物质或暗能量。虽然有些人持怀疑态度，但另一些人则认为这个理论有趣且具有创新性。需要进一步的研究和测试来确定这种新方法是否能够彻底改变我们对宇宙的理解。]]></description>
+      <guid>https://t.me/hn_summary/78429</guid>
+      <pubDate>Sat, 09 Mar 2024 11:17:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我一直很好奇为什么 Rust 被认为适合处理字符串，e [...]</title>
+      <link>https://t.me/hn_summary/78428</link>
+      <description><![CDATA[为什么 Rust 适合处理字符串
+我一直很好奇为什么 Rust 被认为适合处理字符串，特别是因为我计划将它用于一个涉及在 Python 项目中搜索文档字符串的项目。尽管有任何疑问，我还是决定尝试一下作为 Rust 的练习。我正在寻找有关在 Rust 中有效搜索文本的库或技术的指针，并且我渴望了解为什么 Rust 特别适合字符串操作。这可能不是传统的选择，但我很高兴看到 Rust 能为这个独特的项目带来什么。]]></description>
+      <guid>https://t.me/hn_summary/78428</guid>
+      <pubDate>Sat, 09 Mar 2024 11:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 半导体行业专家讨论小芯片标准、互操作性和 [...]</title>
+      <link>https://t.me/hn_summary/78427</link>
+      <description><![CDATA[Chiplet IP 标准只是开始
+半导体行业的专家讨论小芯片标准、互操作性以及定制人工智能小芯片的需求。人们正在推动工具和格式的标准化，例如 TSMC 的 3Dblox 和 CDX 工作组的 CDXML 格式。 Chiplet 互操作性因细分市场而异，较小的公司会优先考虑它以提高盈利能力。由于针对特定应用的专用处理器的优势，人们对 AI 小芯片的兴趣与日俱增。互操作性被视为一个旅程，重点是缓解风险的硅证明点。业界正在努力更广泛地采用小芯片技术，但挑战仍然存在。]]></description>
+      <guid>https://t.me/hn_summary/78427</guid>
+      <pubDate>Sat, 09 Mar 2024 10:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>本文讨论了假设的火神行星，理论上存在于水星和太阳系之间 [...]</title>
+      <link>https://t.me/hn_summary/78426</link>
+      <description><![CDATA[火神行星
+这篇文章讨论了假设的火神行星，理论上存在于水星和太阳之间。法国数学家乌尔班·勒维耶 (Urbain Le Verrier) 于 1859 年预测了水星的存在，以解释水星轨道的特殊性。一位法国业余天文学家声称观察到了火神星，从而导致了所谓的发现。但随后的搜寻和观察未能证实其存在。当其他天文学家对所声称的目击事件提出异议时，争议就出现了。尽管缺乏证据，对瓦肯人的搜寻仍在继续，多年来有各种目击报告。这篇文章揭示了寻找可能从未存在过的行星的有趣历史。 （根据 58% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78426</guid>
+      <pubDate>Sat, 09 Mar 2024 10:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>令人惊讶的是，RC4 加密可以使用一副纸牌手动执行。</title>
+      <link>https://t.me/hn_summary/78425</link>
+      <description><![CDATA[RC4 与一副纸牌
+令人惊讶的是，RC4 加密可以使用一副纸牌手动执行。通过为每张卡分配值并遵循特定步骤，可以实现相当于 64 位或 128 位的加密。卡片数量的不同值可以允许在消息中使用数字和标点符号。概述了密钥调度和加密的方法，提供了安全性和易用性的选项。该过程涉及使用卡生成密钥流并根据标记交换值。这种独特的加密方法为传统方法提供了一种创造性且实用的替代方案。]]></description>
+      <guid>https://t.me/hn_summary/78425</guid>
+      <pubDate>Sat, 09 Mar 2024 10:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年 12 月，提交了一份有关 Apple 版本 cu 安全问题的错误报告 [...]</title>
+      <link>https://t.me/hn_summary/78424</link>
+      <description><![CDATA[苹果curl安全事件12604
+2023 年 12 月，提交了一份有关 macOS 上 Apple 版本的 curl 安全问题的错误报告。问题在于 --cacert 命令行选项在 macOS 上的行为与 Linux 上不同，导致证书检查在不应通过的情况下通过。苹果回应称，他们不认为这是一个问题，因为他们的 OpenSSL 版本有意使用系统信任存储。原作者不同意，称其为未记录的功能，导致证书验证不可靠。此问题不被视为 Apple 发布的curl 版本中的安全漏洞，但作者警告用户注意这种不一致。]]></description>
+      <guid>https://t.me/hn_summary/78424</guid>
+      <pubDate>Sat, 09 Mar 2024 09:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]最近，MKBHD 和 Fisker 就所谓的“世界 [...]</title>
       <link>https://t.me/hn_summary/78423</link>
@@ -12,78 +84,6 @@
 最近，MKBHD 和 Fisker 就所谓“有史以来最糟糕的汽车”展开了激烈的争论。此次争议引发了汽车爱好者和双方车迷的大量讨论。令人惊讶的是，尽管有负面评论，该车仍然引起了很多关注和关注。敬请期待这部戏剧如何展开，以及这款车能否在评论家的眼中救赎自己。 #MKBHD #Fisker #worstcarreviewed]]></description>
       <guid>https://t.me/hn_summary/78423</guid>
       <pubDate>Sat, 09 Mar 2024 08:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]尼康采取了大胆举措，收购了 RED 并使其成为子公司，旨在进入 [...]</title>
-      <link>https://t.me/hn_summary/78422</link>
-      <description><![CDATA[尼康收购 RED 并将其纳入子公司&lt; br/&gt;
-尼康采取了大胆举措，收购了RED并使其成为子公司，旨在以尖端技术进军影院领域。此次合作将尼康在产品开发和图像处理方面的专业知识与 RED 的创新数字电影摄影机相结合。 RED 以其 RED ONE 4K 和 V-RAPTOR X 等行业定义产品而闻名，已在奥斯卡获奖影片中使用，受到全球电影制作人的高度评价。此次收购对两家公司来说都是一个重要的里程碑，有望在专业数字电影摄影机市场取得令人兴奋的发展。请继续关注尼康和 RED 塑造电影技术未来的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/78422</guid>
-      <pubDate>Sat, 09 Mar 2024 07:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]上个月，黑客入侵了代理后，CISA 被迫关闭了两个系统 [...]</title>
-      <link>https://t.me/hn_summary/78421</link>
-      <description><![CDATA[CISA 上个月被迫关闭两个系统&lt; br/&gt;
-上个月，黑客通过 Ivanti 产品中的漏洞入侵了该机构的系统，CISA 被迫关闭了两个系统。受损的系统包括基础设施保护网关和化学安全评估工具，其中包含有关美国基础设施和敏感工业数据的关键信息。 CISA 已就威胁行为者利用 Ivanti 产品中的漏洞向组织发出警告，并敦促他们考虑对手访问的重大风险。自 2020 年以来，该机构与网络安全机构和公司一起就 Ivanti 产品中的漏洞发出警报，国家支持的黑客利用这些漏洞对世界各地的政府发起攻击。]]></description>
-      <guid>https://t.me/hn_summary/78421</guid>
-      <pubDate>Sat, 09 Mar 2024 07:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在本周的 On Call 节目中，我们听到了 Linux 专家 Colin 的故事，他发现自己 [...]</title>
-      <link>https://t.me/hn_summary/78420</link>
-      <description><![CDATA[求职面试陷入脏话骂战，候选人还是得到了这份工作&lt; /a&gt;
-在本周的 On Call 节目中，我们听到了 Linux 专家 Colin 的故事，他在一次技术支持职位的面试中发现自己陷入了脏话的争吵之中。尽管与 CTO 进行了激烈的交流，Colin 还是得到了这份工作，并很快发现 CTO 本人就是他们争论的服务器问题背后的原因。 Colin 的技能被证明是无价的，因为他解决了 CTO 错误的代码更改所引起的问题。这一令人惊讶的事态转变凸显了即使在最非常规的工作面试中，在压力下保持冷静并展示您的专业知识的重要性。]]></description>
-      <guid>https://t.me/hn_summary/78420</guid>
-      <pubDate>Sat, 09 Mar 2024 07:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 我曾经喜欢使用最初的 FourSquare 与朋友分享我的位置，所以我决定 [...]</title>
-      <link>https://t.me/hn_summary/78419</link>
-      <description><![CDATA[使用 OpenStreetMap 为 ActivityPub 重建 FourSquare
-我曾经很喜欢原来的 FourSquare 与朋友分享我的位置，所以我决定使用 OpenStreetMap 和 ActivityPub 重建它。 OpenStreetMap 提供了大量数据，但过滤出有用的位置可能很棘手。 ActivityPub 中的 ActivityStreams 支持共享位置，但并非所有平台都充分利用此功能。建立一个网站来检索位置数据并将其发布到 Fediverse 是一个挑战，但通过一些测试，这似乎是可能的。如果您有兴趣帮助该项目，请联系我们。让我们重拾以全新、开放的方式与朋友分享行踪的乐趣！]]></description>
-      <guid>https://t.me/hn_summary/78419</guid>
-      <pubDate>Sat, 09 Mar 2024 06:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]印度当局拘留了一个贩运网络的成员，该网络正在向我发送 [...]</title>
-      <link>https://t.me/hn_summary/78418</link>
-      <description><![CDATA[印度袭击网络，派遣公民为俄罗斯而战&lt; br/&gt;
-印度当局拘留了一个贩运网络的成员，该网络正在派遣印度公民前往乌克兰为俄罗斯而战。中央调查局对 13 个地点进行了突击搜查，目标是一个承诺在国外提供利润丰厚工作的主要人口贩运团伙。受害者接受了战斗任务训练，并违背自己的意愿被部署到俄罗斯-乌克兰战区，造成伤亡。印度与俄罗斯的密切关系引发了担忧，因为该国没有谴责俄罗斯入侵乌克兰，而是呼吁采取外交手段。这种情况凸显了人口贩运的危险以及印度国民必须保持警惕的必要性。]]></description>
-      <guid>https://t.me/hn_summary/78418</guid>
-      <pubDate>Sat, 09 Mar 2024 06:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] SEA-KIT 的创新型无人水面舰艇 (USV) 为 va [...]</title>
-      <link>https://t.me/hn_summary/78417</link>
-      <description><![CDATA[海上套件
-SEA-KIT 的创新型无人水面舰艇 (USV) 为各种任务提供多功能解决方案，无论是单独操作还是作为团队的一部分。这些船舶具有可定制的有效载荷区域，设计高效、经济且环保。通过利用远程控制技术，SEA-KIT 确保快速安全地完成任务，最大限度地降低人员风险并减少碳排放。 SEA-KIT 的 USV 彻底改变了海事行业，为更加可持续和高效的海上未来铺平了道路。]]></description>
-      <guid>https://t.me/hn_summary/78417</guid>
-      <pubDate>Sat, 09 Mar 2024 06:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在一篇令人心碎的消息中，博士生陈惠祥透露了压力和学术 [...]</title>
-      <link>https://t.me/hn_summary/78416</link>
-      <description><![CDATA[自杀博士生陈惠祥
-在一封令人心碎的信息中，博士生陈惠祥透露了他在研究过程中面临的压力和学术不端行为。尽管他的论文存在严重缺陷，但由于教授的关系还是被接受了，导致了良心危机。慧翔自杀的决定凸显了学术不诚实的毁灭性后果，以及在残酷的学术界保持真实自我的重要性。他和朋友之间被曝光的对话揭示了他的挣扎以及他与导师李涛博士的不良关系。这个悲惨的故事给所有研究者敲响了警钟。]]></description>
-      <guid>https://t.me/hn_summary/78416</guid>
-      <pubDate>Sat, 09 Mar 2024 06:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计软件最重要的方面是可理解性。</title>
-      <link>https://t.me/hn_summary/78415</link>
-      <description><![CDATA[设计软件最重要的目标是可理解性&lt; br/&gt;
-设计软件最重要的方面是可理解性。虽然安全性、性能和正确性很重要，但它们都是在确保软件易于理解之后实现的。被误解的软件会导致重大缺陷，影响正确性、安全性和性能。作者分享了自己努力理解代码的个人经历，并强调问题往往在于代码，而不是个人。使软件易于理解的策略包括编写清晰的代码、添加支持文档以及随着时间的推移逐步改进。通过优先考虑可理解性，软件工程师可以防止代价高昂的错误并创建更易于维护的系统。]]></description>
-      <guid>https://t.me/hn_summary/78415</guid>
-      <pubDate>Sat, 09 Mar 2024 05:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者分享了他们早上采用冷水淋浴疗法的个人经历 [...]</title>
-      <link>https://t.me/hn_summary/78414</link>
-      <description><![CDATA[生物黑客：冷水淋浴疗法和仪式
-作者分享了他们将冷水淋浴疗法作为早晨仪式的个人经历，强调了其积极效果，例如头脑清晰、增加能量水平和改善整体健康状况。它们提供了关于目标设定和习惯形成的见解，强调一致性和跟踪进度的重要性。作者对比了他们洗冷水澡前后的经历，展示了冷水淋浴对他们日常生活和心态的变革性影响。此外，他们还讨论了将热水淋浴作为放松或奖励形式的好处。作者鼓励读者考虑尝试冷水淋浴，亲身体验其潜在的好处。]]></description>
-      <guid>https://t.me/hn_summary/78414</guid>
-      <pubDate>Sat, 09 Mar 2024 05:38:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
