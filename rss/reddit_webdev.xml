@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Mar 2024 00:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 03:15:25 GMT</lastBuildDate>
+    <item>
+      <title>在输入中添加“必需”是否比显示可访问性错误更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ba7b0f/is_it_better_to_add_required_to_inputs_than/</link>
+      <description><![CDATA[我在 React 中有一个表单正在由 Zod 验证，但错误仅在用户提交时显示。如果我在输入中添加“必填”并且用户没有填写输入，则表单将重点关注输入而不显示错误（因为它实际上并未提交）。即使我的错误没有在提交时显示，最好的做法仍然是添加必填项吗？我应该将验证更改为 onChange 状态吗？我担心每次 onChange 操作后输入都会重新渲染。    由   提交 /u/little_hoarse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ba7b0f/is_it_better_to_add_required_to_inputs_than/</guid>
+      <pubDate>Sat, 09 Mar 2024 02:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用什么技术来建立这个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ba6xrx/what_technology_is_used_to_build_this_website/</link>
+      <description><![CDATA[https://neal.fun/space-elevator/  我是一名计算机科学专业的学生，​​想知道这个网站是如何构建的。我猜测这不是 Three.js，因为没有可以用鼠标控制的移动组件，但不确定它是如何创建的。我想建立一个网站，当我滚动时，顶部有一辆汽车像左边的电梯一样移动。 ​ 我怎样才能建造那辆车我有什么练习的想法？   由   提交/u/PotatoHeadQuestions   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ba6xrx/what_technology_is_used_to_build_this_website/</guid>
+      <pubDate>Sat, 09 Mar 2024 02:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员对时区的误解</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ba69g9/falsehoods_programmers_believe_about_time_zones/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ba69g9/falsehoods_programmers_believe_about_time_zones/</guid>
+      <pubDate>Sat, 09 Mar 2024 02:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我以为这是一个错字。有人知道这是什么吗？我在谷歌上找不到任何东西。 （PHP、Laravel）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ba62mj/i_thought_it_was_a_typo_anyone_know_what_it_is_i/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/mekmookbro  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ba62mj/i_thought_it_was_a_typo_anyone_know_what_it_is_i/</guid>
+      <pubDate>Sat, 09 Mar 2024 01:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>难以构建（难以响应）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ba4oqc/difficult_to_build_tough_to_make_responsive/</link>
+      <description><![CDATA[      我正在尝试找出在桌面视口中构建此英雄部分的最简单方法。这特别困难，因为文本量是可变的。 H1 可以在 1-3 行之间变化，这使得黑色部分的高度进行调整，但图像保持相同的高度/比例，然后看起来很糟糕。我无法弄清楚这一点。移动视口要简单一些，因为它只是堆叠。  ​ https://preview.redd.it/m5tomku7i7nc1.png?width=474&amp;format=png&amp;auto=webp&amp;s=b4e0ba5cc66c06fd6f5492eb97ff283d0d49de95 &lt; p&gt;​ https://preview.redd.it /lqtap2l8i7nc1.png?width=199&amp;format=png&amp;auto=webp&amp;s=1635b09358b7928ab061eac242b4a317d1661d8f   由   提交 /u/jaredchese   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ba4oqc/difficult_to_build_tough_to_make_responsive/</guid>
+      <pubDate>Sat, 09 Mar 2024 00:53:03 GMT</pubDate>
+    </item>
     <item>
       <title>寻求建议是否可能！</title>
       <link>https://www.reddit.com/r/webdev/comments/1ba3iww/looking_for_advice_on_if_this_is_even_possible/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>如何将用户与 firebase Auth 和自定义后端（MySQL for db）同步</title>
       <link>https://www.reddit.com/r/webdev/comments/1ba3ftn/how_to_sync_users_with_firebase_auth_and_custom/</link>
-      <description><![CDATA[嗨，我仅使用 firebase 进行身份验证，以 React 作为前端，以 dotnet 作为后端。我现在正在做的是使用 firebase 客户端在前端创建用户，然后将不记名令牌发送到我的后端。如果令牌有效，我将创建用户并将其存储在 sql 中。这对我来说很有用，但我有一个问题，那就是用户是从前端在 firebase 中创建的，因此可能存在用户存在于 firebase auth 中但不存在于我的数据库中的情况。我可以在后端创建用户，但我如何知道这是否是有效的请求（例如：来自我的注册表单的请求）或其他内容。我喜欢在前端创建用户的地方是我从 firebase 获取一个令牌，我可以使用它来授权用户，但不确定如果我在后端创建用户，我该怎么做？    由   提交 /u/After-Perception-250   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我仅使用 firebase 进行身份验证，以 React 作为前端，以 dotnet 作为后端。我现在正在做的是使用 firebase 客户端在前端创建用户，然后将不记名令牌发送到我的后端。如果令牌有效，我将创建用户并将其存储在 sql 中。这对我来说很有用，但我有一个问题，那就是用户是从前端在 firebase 中创建的，因此可能存在用户存在于 firebase auth 中但不存在于我的数据库中的情况。我可以在后端创建用户，但我如何知道这是否是有效的请求（例如：来自我的注册表单的请求）或其他内容。我喜欢在前端创建用户的是我从 firebase 获取一个令牌，我可以使用它来授权用户，但不确定如果我在后端创建用户，我该怎么做？   由   提交 /u/After-Perception-250   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ba3ftn/how_to_sync_users_with_firebase_auth_and_custom/</guid>
       <pubDate>Fri, 08 Mar 2024 23:57:59 GMT</pubDate>
     </item>
@@ -50,7 +85,7 @@
     <item>
       <title>NodeJS API 模拟库</title>
       <link>https://www.reddit.com/r/webdev/comments/1ba06c7/nodejs_api_mocking_libraries/</link>
-      <description><![CDATA[嗨，有谁知道或可以推荐任何与 https://www.mocks-server.org/？ 我知道，并且玩过https:// /mswjs.io/，但我特别关注可以作为独立 http 服务器启动的模拟解决方案，其中可以以编程方式更改端点响应（无需重新启动模拟服务器）以帮助自动测试运行。&lt; /p&gt; Mocks-server 做了所有这些，而且它很棒，但它已经有一段时间没有更新了，而且它不是用 TypeScript 编写的事实并不理想，所以想知道是否还有其他东西可以尝试. 干杯！   由   提交 /u/woodshed_ned   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，有谁知道或可以推荐任何与 https://www.mocks-server.org/？ 我知道，并且玩过https://mswjs.io/&quot;&gt;https:// /mswjs.io/，但我特别在一个可以作为独立http服务器旋转的模拟解决方案之后，其中端点响应可以通过编程方式更改（无需重新启动模拟服务器）以帮助自动化测试运行。&lt; /p&gt; Mocks-server 做了所有这些，而且它很棒，但它已经有一段时间没有更新了，而且它不是用 TypeScript 编写的事实并不理想，所以想知道是否还有其他东西可以尝试. 干杯！   由   提交 /u/woodshed_ned   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ba06c7/nodejs_api_mocking_libraries/</guid>
       <pubDate>Fri, 08 Mar 2024 21:42:22 GMT</pubDate>
     </item>
@@ -69,44 +104,9 @@
       <pubDate>Fri, 08 Mar 2024 21:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>支付网关集成 - Ontraport</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9zuzb/payment_gateway_integration_ontraport/</link>
-      <description><![CDATA[大家好！我正在为客户研究支付网关选项，并正在寻找一些外部意见。客户当前正在使用并希望退出 Authorize.net。她正在寻找一种可能更便宜的选择。她想要至少有 5 个选项可供选择。以下是目前与 Ontraport 集成的网关： Elavon Eway Rapid Network Merchants Inc Payflow Pro PayJunction Payleap PayPal Payments Pro QuickBooks 付款服务 Stripe 和 Stripe 令牌  USA ePay 我们只关注在线读者，不需要实体选项。我个人只使用过 Stripe &amp; PayPal之前用于支付集成。有人对列出的这些内容有过实践经验吗？他们对你来说效果如何？预先感谢您！   由   提交 /u/boop-nose_joy-parade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9zuzb/payment_gateway_integration_ontraport/</guid>
-      <pubDate>Fri, 08 Mar 2024 21:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们都是如何完成业余项目的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9zjt4/how_do_you_all_finish_side_projects/</link>
-      <description><![CDATA[就上下文而言，我已经成为一名全栈开发人员 13 年了。我觉得我很有成就，有能力开发软件系统和应用程序。 但是，在完成自己的“业余项目”时，我一直遇到问题 我得到了真正的动力事实上，2015 年的时候，我设计了一款几乎不折不扣的游戏（没有双关语），wordle。  我已经启动了很多副业项目，并且通常都会完成它，这是一个可行的开发实例，然后……所有的动力都消失了。 我的问题是如何做任何一个你们真的从副项目过渡到主项目吗？只是需要建议。   由   提交/u/bccorb1000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9zjt4/how_do_you_all_finish_side_projects/</guid>
-      <pubDate>Fri, 08 Mar 2024 21:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 嵌入评论不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9yskm/reddit_embed_comment_not_working/</link>
-      <description><![CDATA[你好， 我在我的网站上添加了一些 reddit 嵌入内容，当我点击这些嵌入的 reddit 徽标时，它会重定向出现错误：  https://www.reddit.comhttps://embed.reddit.com/?utm_source=embedv2&amp;utm_medium=comment_embed&amp;utm_content=header&amp;embed_host_url=https://publish.reddit .com/embed ​ 这是 reddit 生成的嵌入代码： &gt;评论通过&lt;a href=&quot;[https://www.reddit.com/user/HubSpotLifer/](https://www.reddit.com/user/HubSpotLifer/)&quot;&gt;u/HubSpotLifer&lt;/a&gt;来自讨论&lt;a href=&quot;[https://www.reddit.com/r/marketing/comments/1b82ahh/webinar\_registrants/](https://www.reddit.com/r/marketing/comments/1b82ahh /webinar_registrants/)&lt;&gt;&lt;无值=&quot;&gt;&lt;/no&gt;&lt;/a&gt;&lt;br&gt;在&lt;a href=&quot;[https://www.reddit.com/r/marketing/](https://www.reddit.com/r/marketing/)&quot;&gt;营销&lt;/a&gt;&lt; /blockquote&gt;&lt;脚本异步=“” src=“[https://embed.reddit.com/widgets.js](https://embed.reddit.com/widgets.js)” charset=&quot;UTF-8&quot;&gt;&lt;/script&gt; ​ 我将不胜感激任何类型的帮助，提前致谢！ &lt; p&gt;​   由   提交/u/Kamel_Ben_Yacoub   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9yskm/reddit_embed_comment_not_working/</guid>
-      <pubDate>Fri, 08 Mar 2024 20:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚花了 3 分钟与 Anthropic 的 Claude-Opus-3-200k 聊天，并克隆了 Product Hunt</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9yk1a/ive_just_spent_3_minutes_chatting_to_anthropics/</link>
-      <description><![CDATA[      我很震惊。 新模型生成的代码比 GPT4 好得多，并且具有更大的上下文窗口。让我想到了 2025 年左右出现的这些趋势： - 全栈应用程序提示 - 超利基产品 - 虚拟 CTO - 人工智能优先的 Web 框架 - 副项目营销 - 超个性化 - 多1,000名初创公司创始人 - 代码/产品的价值为0 - 本地应用程序 - 在移动设备上构建产品设备 - Figma-to-app   由   提交 /u/alexanderisora   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9yk1a/ive_just_spent_3_minutes_chatting_to_anthropics/</guid>
-      <pubDate>Fri, 08 Mar 2024 20:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何避免开发环境和生产环境之间的差异？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b9yina/how_does_one_avoid_discrepancies_between_the/</link>
-      <description><![CDATA[我目前正在使用 VS Code 的实时预览扩展来构建一个网站，我注意到一旦发布就会出现一些细微的差异。我想知道除了进行微调、推送到 GitHub 并查看发生了什么变化之外，解决此问题最有效的方法是什么。  P.S.抱歉，如果这个问题是多余的，我找不到任何其他可以帮助我的内容。   由   提交 /u/Bacleo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b9yina/how_does_one_avoid_discrepancies_between_the/</guid>
-      <pubDate>Fri, 08 Mar 2024 20:36:01 GMT</pubDate>
-    </item>
-    <item>
       <title>我对 js 注入攻击如何运作有正确的想法吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b9ht48/do_i_have_the_right_idea_of_how_js_injection/</link>
-      <description><![CDATA[因此，当您访问用户的个人资料时，后端会将用户简介信息添加到段落标记中，如下所示： &lt;p&gt;{{简介信息}}但是拥有此个人简介的用户可以将其个人简介设置为： &lt;脚本&gt;恶意代码&lt;/script&gt; 那么现在当生物信息加载时，会自动运行代码，可以窃取cookie，注入HTML等？ 防止这些攻击，我可以禁止“&gt;”吗？或“&lt;”不被放置在任何地方？这种攻击也可以通过将其添加到图像等文件中来完成，因为它不太可能被检查是否有恶意内容？   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
+      <description><![CDATA[因此，当您访问用户的个人资料时，后端会将用户简介信息添加到段落标记中，如下所示： &lt;p&gt;{{简介信息}}但是拥有此个人简介的用户可以将其个人简介设置为： &lt;脚本&gt;恶意代码&lt;/script&gt; 那么现在当生物信息加载时，会自动运行代码，可以窃取cookie，注入HTML等？ 为了防止这些攻击，我可以禁止“&gt;”吗？或“&lt;”不被放置在任何地方？这种攻击也可以通过将其添加到图像等文件中来完成，因为它不太可能被检查是否有恶意内容？   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b9ht48/do_i_have_the_right_idea_of_how_js_injection/</guid>
       <pubDate>Fri, 08 Mar 2024 06:56:09 GMT</pubDate>
     </item>
