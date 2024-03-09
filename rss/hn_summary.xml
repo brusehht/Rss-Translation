@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 09 Mar 2024 11:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 15:08:45 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在“SuperC：通过驯服预处理器解析所有 C”中，Paul Gazzillo 和 Robert Gri [...]</title>
-      <link>https://t.me/hn_summary/78432</link>
-      <description><![CDATA[SuperC：通过驯服预处理器解析所有 C [pdf]( https://news.ycombinator.com/item?id=39650788)
-在“SuperC：通过驯服预处理器解析所有 C”一文中，纽约大学的 Paul Gazzillo 和 Robert Grimm 提出了一个突破性的解决方案，以应对在 C 工具中处理 C 和预处理器的挑战。他们的方法涉及一个保留配置的预处理器和解析器，用于处理包含、宏和静态条件，同时保持程序的可变性。他们引入了一种新颖的 Fork-Merge LR 解析算法和性能优化。他们的开源工具 SuperC 成功解析了 x86 Linux 内核，证明了他们方法的有效性。这项工作为更强大的 C 分析和转换工具奠定了基础。 （根据故事文本的 14% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78432</guid>
-      <pubDate>Sat, 09 Mar 2024 11:36:46 GMT</pubDate>
+      <title>[媒体]韩国科学技术院的研究人员开发出突破性的 C-Transformer AI 芯片，[...]</title>
+      <link>https://t.me/hn_summary/78457</link>
+      <description><![CDATA[韩国研究人员的神经人工智能芯片：功耗降低了 625 倍，降低了 41 倍小了几倍
+KAIST 的韩国研究人员开发了突破性的 C-Transformer AI 芯片，声称其功耗比 Nvidia 的 A100 GPU 低 625 倍，尺寸小 41 倍。该芯片基于精细的神经拟态计算技术，可以处理大型语言模型处理任务。虽然缺乏性能指标，但该芯片的架构包括同质 DNN 变压器核心和输出尖峰推测单元等创新功能。该芯片的精度与深度神经网络的精度相匹配，使其成为移动计算的一个有前途的选择。尽管缺乏与行业标准人工智能加速器的直接比较，C-Transformer 芯片仍显示出巨大的潜力。]]></description>
+      <guid>https://t.me/hn_summary/78457</guid>
+      <pubDate>Sat, 09 Mar 2024 15:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Rust 编程语言正在蓄势待发，特别是在以安全为中心的组织中 [...]</title>
-      <link>https://t.me/hn_summary/78431</link>
-      <description><![CDATA[Rust 兴起：新的倡导有望推动采用
-Rust 编程语言正在获得发展势头，特别是在注重安全的组织中，白宫建议将其用于软件开发。 Microsoft 和 Google 等公司已经从 C、C++ 和 C# 过渡到 Rust。 2023 年 Rust 年度调查显示 Rust 的使用量持续增加，重点是构建无错误的软件和性能。包括政府在内的监管倡导预计将进一步推动 Rust 的采用。然而，对 Rust 的复杂性和项目治理可扩展性的担忧仍然存在。 Rustaceans 希望改进特征、const 执行和异步功能，同时优先考虑错误修复和性能增强。]]></description>
-      <guid>https://t.me/hn_summary/78431</guid>
-      <pubDate>Sat, 09 Mar 2024 11:34:16 GMT</pubDate>
+      <title>[媒体]科学家对最早的森林做出了突破性的发现，其历史可以追溯到[...]</title>
+      <link>https://t.me/hn_summary/78456</link>
+      <description><![CDATA[科学家称发现了最早的森林
+科学家们在德文郡和萨默塞特海岸发现了最早的森林，其历史可以追溯到泥盆纪时期。这片森林位于刽子手砂岩地层中，让我们可以深入了解生命首次登陆陆地的时代。泥盆纪时期因在海岸发现的标志性海洋岩石而以德文郡命名，标志着地球历史上的一个重要时刻。这一发现揭示了森林和生态系统的演变，让我们得以一睹远古的过去。围绕这一发现的争议在于它对我们理解地球早期生命的影响。]]></description>
+      <guid>https://t.me/hn_summary/78456</guid>
+      <pubDate>Sat, 09 Mar 2024 14:40:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的研究探讨了由恒星引起的银河系旋转曲线的异常贡献[...]</title>
-      <link>https://t.me/hn_summary/78430</link>
-      <description><![CDATA[随机时空对银河旋转曲线的异常贡献 
-我们的研究探讨了随机时空涨落对银河系旋转曲线的异常贡献。通过将这些波动纳入我们的模型，我们发现它们会对观测到的星系旋转曲线产生重大影响。这表明传统模型可能无法完全解释时空动力学的复杂性。我们的发现挑战了对银河系旋转的传统理解，并强调了在该领域进一步研究的必要性。这项研究为理解时空的本质及其对星系动力学的影响开辟了新的可能性。我们的研究意义深远，值得进一步研究。]]></description>
-      <guid>https://t.me/hn_summary/78430</guid>
-      <pubDate>Sat, 09 Mar 2024 11:26:09 GMT</pubDate>
+      <title>谷歌的内部网站“经验法则”将计算资源的成本与[...]</title>
+      <link>https://t.me/hn_summary/78455</link>
+      <description><![CDATA[Google/Rulesofthumb
+谷歌内部网站“Rules of Thumb”将计算资源的成本与公司“SWE”（软件工程师）的单位进行了比较。这种独特的方法允许在优化堆栈的各个方面时进行有趣的比较。虽然将人类劳动力等同于计算资源似乎有些反乌托邦，但 2023 年后计算价值的不断增加提出了一个问题：某些任务是否需要更多计算或更多人员。人类在独立工作中与原始计算竞争的概念可能会塑造未来，导致一个“通过人工智能技术和大量计算增强的聪明人”可以与专家团队相媲美的世界。]]></description>
+      <guid>https://t.me/hn_summary/78455</guid>
+      <pubDate>Sat, 09 Mar 2024 14:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一个有争议的新引力理论正在挑战对暗物质的需求，建议[...]</title>
-      <link>https://t.me/hn_summary/78429</link>
-      <description><![CDATA[有争议的新引力理论排除了暗物质的存在
-一种有争议的新引力理论正在挑战对暗物质的需求，表明这种难以捉摸的物质可能只是物理学界几十年来一直在追逐的海市蜃楼。该理论由伦敦大学学院的乔纳森·奥本海姆教授提出，提出时空的不稳定性质可以解释宇宙的膨胀和银河系的旋转，而无需暗物质或暗能量。虽然有些人持怀疑态度，但另一些人则认为这个理论有趣且具有创新性。需要进一步的研究和测试来确定这种新方法是否能够彻底改变我们对宇宙的理解。]]></description>
-      <guid>https://t.me/hn_summary/78429</guid>
-      <pubDate>Sat, 09 Mar 2024 11:17:04 GMT</pubDate>
+      <title>[媒体] 欢迎来到 deadsimplesites.com 上的简单网站库！</title>
+      <link>https://t.me/hn_summary/78454</link>
+      <description><![CDATA[简单网站库
+欢迎来到 deadsimplesites.com 上的简单网站库！我们相信干净、简约的设计，注重功能而不是华而不实的动画。告别滚动劫持和过多的故事讲述 - 我们的网站都是简单易用的。无论您是小企业主还是寻求时尚在线形象的创意人士，您都会在这里找到灵感。与我们一起拥抱网页设计的简约之美。]]></description>
+      <guid>https://t.me/hn_summary/78454</guid>
+      <pubDate>Sat, 09 Mar 2024 14:34:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我一直很好奇为什么 Rust 被认为适合处理字符串，e [...]</title>
-      <link>https://t.me/hn_summary/78428</link>
-      <description><![CDATA[为什么 Rust 适合处理字符串
-我一直很好奇为什么 Rust 被认为适合处理字符串，特别是因为我计划将它用于一个涉及在 Python 项目中搜索文档字符串的项目。尽管有任何疑问，我还是决定尝试一下作为 Rust 的练习。我正在寻找有关在 Rust 中有效搜索文本的库或技术的指针，并且我渴望了解为什么 Rust 特别适合字符串操作。这可能不是传统的选择，但我很高兴看到 Rust 能为这个独特的项目带来什么。]]></description>
-      <guid>https://t.me/hn_summary/78428</guid>
-      <pubDate>Sat, 09 Mar 2024 11:02:57 GMT</pubDate>
+      <title>克里夫·斯托尔 (Cliff Stoll) 以《布谷鸟蛋》一书而闻名，他经营 Acme Klein Bottle，提供独特的克莱因 [...]</title>
+      <link>https://t.me/hn_summary/78453</link>
+      <description><![CDATA[Acme Klein 瓶子（来自 Cliff Stoll 及其家人）
+克利夫·斯托尔（Cliff Stoll）以其《布谷鸟蛋》（Cuckoo&#39;s Egg）一书而闻名，他经营着 Acme Klein Bottle，提供独特的克莱因瓶，这些瓶子只有一侧，没有内部或外部。这些瓶子就像莫比乌斯带，但更复杂。虽然真正的克莱因瓶需要一个额外的维度才能存在而不与自身相交，但克里夫的瓶子沉浸在我们的三维世界中。包装内含计算尺、检查报告、安全说明、贴纸等。如果您想要在家中拥有不可定向的表面，请查看 Acme Klein Bottle 以获得独一无二的体验。]]></description>
+      <guid>https://t.me/hn_summary/78453</guid>
+      <pubDate>Sat, 09 Mar 2024 14:29:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 半导体行业专家讨论小芯片标准、互操作性和 [...]</title>
-      <link>https://t.me/hn_summary/78427</link>
-      <description><![CDATA[Chiplet IP 标准只是开始
-半导体行业的专家讨论小芯片标准、互操作性以及定制人工智能小芯片的需求。人们正在推动工具和格式的标准化，例如 TSMC 的 3Dblox 和 CDX 工作组的 CDXML 格式。 Chiplet 互操作性因细分市场而异，较小的公司会优先考虑它以提高盈利能力。由于针对特定应用的专用处理器的优势，人们对 AI 小芯片的兴趣与日俱增。互操作性被视为一个旅程，重点是缓解风险的硅证明点。业界正在努力更广泛地采用小芯片技术，但挑战仍然存在。]]></description>
-      <guid>https://t.me/hn_summary/78427</guid>
-      <pubDate>Sat, 09 Mar 2024 10:34:46 GMT</pubDate>
+      <title>4D 针织连衣裙是麻省理工学院自组装实验室和供应部合作的成果，revol [...]</title>
+      <link>https://t.me/hn_summary/78452</link>
+      <description><![CDATA[4D针织连衣裙
+4D 针织连衣裙是麻省理工学院自组装实验室和供应部合作的成果，通过结合热激活纱线、电脑针织和机器人技术，彻底改变了服装结构，创造出个性化的合身和风格。传统的 2D 图案裁剪和缝纫方法被 3D 针织工艺所取代，该工艺允许定制形状以适合任何体型。这件衣服会实时变形，模仿传统剪裁的设计过程，同时保持柔软、弹性和弹性。这种创新方法减少了浪费、成本和劳动力，为传统服装制作方法提供了独特而高效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/78452</guid>
+      <pubDate>Sat, 09 Mar 2024 14:28:18 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了假设的火神行星，理论上存在于水星和太阳系之间 [...]</title>
-      <link>https://t.me/hn_summary/78426</link>
-      <description><![CDATA[火神行星
-这篇文章讨论了假设的火神行星，理论上存在于水星和太阳之间。法国数学家乌尔班·勒维耶 (Urbain Le Verrier) 于 1859 年预测了水星的存在，以解释水星轨道的特殊性。一位法国业余天文学家声称观察到了火神星，从而导致了所谓的发现。但随后的搜寻和观察未能证实其存在。当其他天文学家对所声称的目击事件提出异议时，争议就出现了。尽管缺乏证据，对瓦肯人的搜寻仍在继续，多年来有各种目击报告。这篇文章揭示了寻找可能从未存在过的行星的有趣历史。 （根据 58% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78426</guid>
-      <pubDate>Sat, 09 Mar 2024 10:02:31 GMT</pubDate>
+      <title>[媒体]在 Terraform Industries，我们专注于生产最便宜的绿色氢能 [...]</title>
+      <link>https://t.me/hn_summary/78451</link>
+      <description><![CDATA[如何以 1 美元/公斤的价格生产绿色氢气&lt; br/&gt;
+在 Terraform Industries，我们专注于生产最便宜的绿色氢，以创造清洁和丰富的能源未来。我们的创新方法包括开发可扩展的电解槽，以实现 1 美元/kg-H2 的成本目标。通过直接利用太阳能生产氢气，我们能够显着降低成本并与传统的污染能源竞争。我们独特的战略挑战了高效率和资本利用率是关键的传统观念，表明较低的效率和较高的功耗可以将成本节省转嫁给消费者。这项突破性技术有可能彻底改变能源行业，并使绿色氢成为全球最实惠和可扩展的能源。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78451</guid>
+      <pubDate>Sat, 09 Mar 2024 14:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，RC4 加密可以使用一副纸牌手动执行。</title>
-      <link>https://t.me/hn_summary/78425</link>
-      <description><![CDATA[RC4 与一副纸牌
-令人惊讶的是，RC4 加密可以使用一副纸牌手动执行。通过为每张卡分配值并遵循特定步骤，可以实现相当于 64 位或 128 位的加密。卡片数量的不同值可以允许在消息中使用数字和标点符号。概述了密钥调度和加密的方法，提供了安全性和易用性的选项。该过程涉及使用卡生成密钥流并根据标记交换值。这种独特的加密方法为传统方法提供了一种创造性且实用的替代方案。]]></description>
-      <guid>https://t.me/hn_summary/78425</guid>
-      <pubDate>Sat, 09 Mar 2024 10:01:27 GMT</pubDate>
+      <title>波士顿的一名电气工程师在不知情的情况下购买了一台用于监狱和监狱的安全笔记本电脑 [...]</title>
+      <link>https://t.me/hn_summary/78450</link>
+      <description><![CDATA[工程师购买了监狱笔记本电脑，1,200 名被监禁者丢失了设备
+波士顿的一名电气工程师在不知情的情况下在 eBay 上购买了一台用于监狱和监狱教育的安全笔记本电脑，引发了一系列事件，导致华盛顿 1,200 名被监禁的学生丢失了他们的设备。默认密码在网上共享后，出于安全考虑，惩教署收集了这些笔记本电脑。学生们对无法参加工作和教育项目表示沮丧。虽然一些专家认为安全威胁微乎其微，但其他专家则支持撤回笔记本电脑的决定。该事件引发了人们对监狱笔记本电脑最终在线销售的安全性的质疑，并凸显了被监禁学习者面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/78450</guid>
+      <pubDate>Sat, 09 Mar 2024 13:58:32 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年 12 月，提交了一份有关 Apple 版本 cu 安全问题的错误报告 [...]</title>
-      <link>https://t.me/hn_summary/78424</link>
-      <description><![CDATA[苹果curl安全事件12604
-2023 年 12 月，提交了一份有关 macOS 上 Apple 版本的 curl 安全问题的错误报告。问题在于 --cacert 命令行选项在 macOS 上的行为与 Linux 上不同，导致证书检查在不应通过的情况下通过。苹果回应称，他们不认为这是一个问题，因为他们的 OpenSSL 版本有意使用系统信任存储。原作者不同意，称其为未记录的功能，导致证书验证不可靠。此问题不被视为 Apple 发布的curl 版本中的安全漏洞，但作者警告用户注意这种不一致。]]></description>
-      <guid>https://t.me/hn_summary/78424</guid>
-      <pubDate>Sat, 09 Mar 2024 09:25:13 GMT</pubDate>
+      <title>[媒体]最近中国私人保安承包商 I-Soon 的文件泄露事件引起了人们的关注 [...]</title>
+      <link>https://t.me/hn_summary/78449</link>
+      <description><![CDATA[中国黑客文件转储为普遍的国家监控提供了窗口 
+最近中国私人保安承包商 I-Soon 的文件泄露暴露了中国当局进行的广泛的国家监视和黑客活动。泄露的文件揭示了用于监视持不同政见者、少数民族和外国人的工具，以及在社交媒体上宣传亲北京言论的工具。这次泄密被认为非常重要，暴露了亚洲各地的黑客活动，包括香港、台湾和新疆。分析人士认为，这是有史以来与为中国安全部门提供网络间谍服务的公司有关的最重大的泄密事件。这次泄密引发了人们对中国针对全球个人和组织的国家监视和黑客活动的担忧。]]></description>
+      <guid>https://t.me/hn_summary/78449</guid>
+      <pubDate>Sat, 09 Mar 2024 13:55:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近，MKBHD 和 Fisker 就所谓的“世界 [...]</title>
-      <link>https://t.me/hn_summary/78423</link>
-      <description><![CDATA[MKBHD、Fisker 和“有史以来最糟糕的汽车评测”
-最近，MKBHD 和 Fisker 就所谓“有史以来最糟糕的汽车”展开了激烈的争论。此次争议引发了汽车爱好者和双方车迷的大量讨论。令人惊讶的是，尽管有负面评论，该车仍然引起了很多关注和关注。敬请期待这部戏剧如何展开，以及这款车能否在评论家的眼中救赎自己。 #MKBHD #Fisker #worstcarreviewed]]></description>
-      <guid>https://t.me/hn_summary/78423</guid>
-      <pubDate>Sat, 09 Mar 2024 08:00:17 GMT</pubDate>
+      <title>[媒体] M3 MacBook Air 的 CPU 峰值温度达到 114 摄氏度，使其性能下降 33% [...]</title>
+      <link>https://t.me/hn_summary/78448</link>
+      <description><![CDATA[M3 MacBook Air CPU 峰值温度可达 114 摄氏度，33%较慢
+M3 MacBook Air 的 CPU 峰值温度为 114 摄氏度，比 M3 MacBook Pro 慢 33%。尽管基准测试得分令人印象深刻，但 Air 仍难以应对持续的工作负载，尤其是在压力测试中。无风扇设计会导致令人不舒服的热量水平，外部温度高达 46 摄氏度。然而，YouTube 频道找到了解决方案，通过使用导热垫改装散热器来提高性能。苹果可能需要在未来的迭代中解决这些问题。 M3 MacBook Air 可以在短时间爆发时胜过 Pro，但对于长时间使用，Pro 是更好的选择。]]></description>
+      <guid>https://t.me/hn_summary/78448</guid>
+      <pubDate>Sat, 09 Mar 2024 13:54:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
