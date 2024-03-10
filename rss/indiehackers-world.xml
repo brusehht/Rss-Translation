@@ -4,7 +4,52 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 10 Mar 2024 15:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 18:13:17 GMT</lastBuildDate>
+    <item>
+      <title>Docker 2 分钟 PHP/Nginx/MySQL 设置</title>
+      <link>https://feed.indiehackers.world/post/a757a06ca8</link>
+      <description><![CDATA[我为向导工具包的 Docker 拉取和设置创建了一个视频。我给它计时了，只需要 2 分钟即可下载并让所有内容在 Docker 中运行。我使用了“图像中的容器”技巧 - 只需在终端中执行 5 个命令即可完成所有操作。
+我已经使用 Docker 大约两年了，它仍然给我留下了深刻的印象。这是在受控本地环境中进行开发的好方法！
+Docker 容器包括：
+
+Nginx：1.22.0-alpine
+MySQL 8.3
+PHP 8.1-FPM
+phpMyAdmin
+Wizard 的 Toolkit 低代码开发库
+
+此视频中详细介绍了所有内容：
+https://youtu.be/3myhUcsz9w8
+或者您可以直接跳转到 Docker hub 存储库：
+https://hub.docker.com/r/proglabs/wizards-toolkit
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a757a06ca8</guid>
+      <pubDate>Sun, 10 Mar 2024 16:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉10,500 名用户之后，AI Jingle Maker 不断增长！</title>
+      <link>https://feed.indiehackers.world/post/5964c9fe74</link>
+      <description><![CDATA[它使您能够使用一些构建块创建广播或播客节目。
+我即将在音频创意领域发布第三个微型 SaaS。 
+我邀请您尝试这些产品。
+如果您对想法和内容有任何疑问，请联系我们。开发流程，欢迎询问。
+📻敬请期待！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5964c9fe74</guid>
+      <pubDate>Sun, 10 Mar 2024 16:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高在线形象的 7 个创意营销策略</title>
+      <link>https://feed.indiehackers.world/post/42d7c324c3</link>
+      <description><![CDATA[因此，请在您的营销策略中使用它。 根据个人用户的偏好和行为定制您的内容和消息。个性化营销可以显着提高参与度和转化率。
+7.微时刻
+作为一名商人或营销人员，您还应该专注于利用微时刻。当人们转向设备快速获取信息或做出决定时，这些都是短暂的时刻。预测这些时刻并提供相关的、及时的内容来吸引他们的注意力。
+结论
+提升您的在线形象需要创造力、真实性和战略性的结合思维。通过实施这些创意营销策略，您可以提升品牌形象并以有意义的方式与受众互动。因此，继续发挥创意，让您的在线形象飙升！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/42d7c324c3</guid>
+      <pubDate>Sun, 10 Mar 2024 16:02:08 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Job Boardly 求职板软件审查（实践）</title>
       <link>https://feed.indiehackers.world/post/89702dc2b5</link>
@@ -142,39 +187,6 @@ https://bridgepath.ai/
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/5182f5e142</guid>
       <pubDate>Sat, 09 Mar 2024 23:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 笔记本到成熟的人工智能求职助手：我的技术堆栈之旅</title>
-      <link>https://feed.indiehackers.world/post/b5a6075235</link>
-      <description><![CDATA[致其他建设者：
-您选择的技术堆栈至关重要，但同样重要的是学习和适应的意愿。我的旅程非常规，但它强调了坚持、自我教育和正确工具的力量。
-查看 Bridge Path，看看我用这个技术堆栈构建了什么：
-https://bridgepath.ai/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b5a6075235</guid>
-      <pubDate>Sat, 09 Mar 2024 23:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 笔记本到成熟的人工智能求职助手：我的技术堆栈之旅</title>
-      <link>https://feed.indiehackers.world/post/ab5f3536f1</link>
-      <description><![CDATA[致其他建设者：
-您选择的技术堆栈至关重要，但同样重要的是学习和适应的意愿。我的旅程非常规，但它强调了坚持、自我教育和正确工具的力量。
-查看 Bridge Path，看看我用这个技术堆栈构建了什么：
-https://bridgepath.ai/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ab5f3536f1</guid>
-      <pubDate>Sat, 09 Mar 2024 23:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 笔记本到成熟的人工智能求职助手：我的技术堆栈之旅</title>
-      <link>https://feed.indiehackers.world/post/f0258c95c2</link>
-      <description><![CDATA[致其他建设者：
-您选择的技术堆栈至关重要，但同样重要的是学习和适应的意愿。我的旅程非常规，但它强调了坚持、自我教育和正确工具的力量。
-查看 Bridge Path，看看我用这个技术堆栈构建了什么：
-https://bridgepath.ai/
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f0258c95c2</guid>
-      <pubDate>Sat, 09 Mar 2024 23:57:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
