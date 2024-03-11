@@ -4,7 +4,39 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 11 Mar 2024 06:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 09:07:17 GMT</lastBuildDate>
+    <item>
+      <title>蒂姆·布雷 (Tim Bray) 正在着手一项“去谷歌”项目，以减少家人对大型科技公司的依赖，pa [...]</title>
+      <link>https://t.me/hn_summary/78724</link>
+      <description><![CDATA[Tim Bray 的去 Google 项目
+蒂姆·布雷 (Tim Bray) 正在着手实施“去谷歌”项目，以减少家人对大型科技公司（尤其是谷歌）的依赖。他正在系统地解决他们对谷歌服务的依赖，并寻求开源、无广告支持且不来自主要科技巨头的替代方案。布雷正在探索办公工具、数据共享、视频会议、地图、浏览器、搜索引擎、聊天平台、照片编辑软件、车载界面、音乐发现和电视流媒体服务等选项。他强调了他对隐私和谷歌搜索衰落的担忧，同时还分享了令人惊讶的发现，例如 Android Auto 的中立性。布雷的去谷歌之旅既实用又发人深省。]]></description>
+      <guid>https://t.me/hn_summary/78724</guid>
+      <pubDate>Mon, 11 Mar 2024 09:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音和语言处理（第三版）</title>
+      <link>https://t.me/hn_summary/78723</link>
+      <description><![CDATA[语音和语言处理（第三版草案） 
+在 web.stanford.edu，包括每个主题的单独章节和幻灯片。作者欢迎反馈和错误报告来改进本书，并列出了帮助本书成为可能的贡献者名单。本书涵盖了基础算法、NLP 应用和注释语言结构，并可在线获取附录章节。请继续关注更新和全书发布，但不要询问何时完成。参与并使用课程中的章节草稿来帮助塑造最终产品。]]></description>
+      <guid>https://t.me/hn_summary/78723</guid>
+      <pubDate>Mon, 11 Mar 2024 06:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问 HN：通过 SSH 托管 CLI 工具？</title>
+      <link>https://t.me/hn_summary/78722</link>
+      <description><![CDATA[询问 HN：通过 SSH 托管 CLI 工具？ 
+作者最近创建了一个使用 AI 来为软件工程师匹配工作机会的 CLI 工具。他们对通过 SSH 托管该工具、允许用户轻松访问它的想法很感兴趣。然而，他们很难找到有关如何通过 SSH 托管命令行应用程序的资源。作者就此事向 HN 社区寻求帮助和指导。如果您有任何有关通过 SSH 托管 CLI 工具的信息或链接，他们将非常感谢您的意见。]]></description>
+      <guid>https://t.me/hn_summary/78722</guid>
+      <pubDate>Mon, 11 Mar 2024 06:40:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]极限编程 (XP) 是一种强调频繁使用的软件开发方法 [...]</title>
+      <link>https://t.me/hn_summary/78721</link>
+      <description><![CDATA[极限编程
+极限编程（XP）是一种强调频繁发布、短开发周期以及与客户密切协作的软件开发方法。 XP 由 Kent Beck 在克莱斯勒综合薪酬系统项目工作期间开发，提倡结对编程、单元测试和持续代码审查等实践。虽然 XP 在 20 世纪 90 年代末和 2000 年代初引起了极大的兴趣，但它的一些原始实践在不同的环境中已被弃用或修改。该方法不断发展，吸收了现场的经验教训和其他敏捷开发实践。 XP 重视沟通、简单、反馈、勇气和尊重，旨在更高效地生产更高质量的软件。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78721</guid>
+      <pubDate>Mon, 11 Mar 2024 06:24:24 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]令人兴奋的消息！</title>
       <link>https://t.me/hn_summary/78720</link>
@@ -52,38 +84,6 @@
 该项目是GTA III和GTA VC的完全逆向源代码，使其可以在Windows、Linux、MacOS和FreeBSD等各种平台上运行。它提供使用原始 RenderWare 或重新实现 librw 的渲染选项，以及使用 MSS 或 OpenAL 的音频选项。该项目已移植到 Nintendo Switch、Playstation Vita 和 Nintendo Wii U。它的目标是修复错误、提高性能并提供类似于原始 GTA 游戏的模组功能。接受新功能、错误修复、特定于平台的代码等的贡献。该项目仅用于教育、文档和修改目的。]]></description>
       <guid>https://t.me/hn_summary/78715</guid>
       <pubDate>Mon, 11 Mar 2024 04:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trieve 是一种用于混合搜索、推荐和 RAG 的高级相关性 API。</title>
-      <link>https://t.me/hn_summary/78714</link>
-      <description><![CDATA[基于 Rust 的开源 RAG
-Trieve 是一种用于混合搜索、推荐和 RAG 的高级相关性 API。它提供的功能包括自托管、语义密集向量搜索、容错全文/神经搜索、子句突出显示、推荐、RAG API 路由等。该项目的独特之处在于能够引入您自己的模型、具有跨编码器重新排名的混合搜索、新近度偏差、可调整的基于流行度的排名、过滤选项、重复检测和分组。该项目是开源的，并积极寻求反馈和贡献。该路线图包括可观察性、基准测试和 SDK 计划。针对 Linux 和 Windows 环境提供了自托管和本地开发的详细说明。]]></description>
-      <guid>https://t.me/hn_summary/78714</guid>
-      <pubDate>Mon, 11 Mar 2024 04:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在这篇极具吸引力和争议性的文章中，作者深入探讨了正在进行的[...]</title>
-      <link>https://t.me/hn_summary/78713</link>
-      <description><![CDATA[恢复私人办公室，第二部分
-在这篇极具吸引力和争议性的文章中，作者深入探讨了围绕工作场所开放办公室与私人办公室正在进行的争论。作者重点关注开放式办公室对生产力和员工福祉的负面影响，提出了经历过这两种办公室设置的个人的各种观点。从对干扰和缺乏隐私的讨论到个人工作空间的重要性，文章强调了人们对开放式办公环境日益增长的不满。这篇文章结合了行业专家的见解和个人轶事，挑战了开放式办公室有利于更好的沟通和协作的传统观念。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78713</guid>
-      <pubDate>Mon, 11 Mar 2024 04:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家们提议修建一个 62 英里长的激进帷幕来保护南极洲的思韦茨冰川 [...]</title>
-      <link>https://t.me/hn_summary/78712</link>
-      <description><![CDATA[保护 62 英里长的“世界末日”思韦茨冰川的激进想法窗帘
-科学家们提议修建一个长达 62 英里的激进屏障，以保护南极洲的思韦茨冰川（被称为“世界末日”冰川）免于融化并导致海平面大幅上升。窗帘将固定在海底，有可能减缓冰川的融化速度。虽然这个想法引起了科学家们的分歧，但一些人认为，考虑到海平面上升的全球威胁，这一想法值得探索。然而，批评者认为，这种地球工程概念未经证实、成本高昂，并且可能对自然系统造成损害。随着研究人员努力寻找保护地球免受气候变化影响的解决方案，争论仍在继续。]]></description>
-      <guid>https://t.me/hn_summary/78712</guid>
-      <pubDate>Mon, 11 Mar 2024 04:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]AMD 最近发布了 Spartan UltraScale+ FPGA 系列，这是 [...]</title>
-      <link>https://t.me/hn_summary/78711</link>
-      <description><![CDATA[AMD 宣布推出 Spartan UltraScale+ FPGA 系列
-AMD 最近发布了 Spartan UltraScale+ FPGA 系列，这是其成本优化产品组合的最新成员。这些 FPGA 旨在平衡成本、功耗和外形尺寸，同时提供高 I/O 数量和强大的安全功能。 UltraScale+ 系列的功耗比上一代降低了 30%，并具有强化的 DDR 内存控制器和 PCIe Gen4 x8 支持。这些 FPGA 专注于嵌入式视觉、医疗保健、工业网络、机器人和视频应用，必将彻底改变行业。 Spartan UltraScale+ FPGA 系列由 AMD Vivado 设计套件和 Vitis 统一软件平台支持，是 FPGA 领域的游戏规则改变者。]]></description>
-      <guid>https://t.me/hn_summary/78711</guid>
-      <pubDate>Mon, 11 Mar 2024 04:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
