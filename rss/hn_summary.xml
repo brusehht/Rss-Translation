@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 09:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 21:09:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者在更广泛的背景下讨论了 C++ 中当前的安全问题 [...]</title>
-      <link>https://t.me/hn_summary/78928</link>
-      <description><![CDATA[上下文中的 C++ 安全性
-作者在软件安全和安全威胁的更广泛背景下讨论了 C++ 中当前的安全问题。他们强调需要在 C++ 中默认执行已知的安全规则，以防止安全漏洞。作者感谢各种语言和安全社区的反馈，并呼吁将 C++ 中的类型、边界、初始化和生命周期漏洞减少 98%，以实现与内存安全语言的安全性同等。他们提出了 C++ 的安全配置文件，以默认启用安全规则并保留向后兼容性，旨在与现有代码实现无缝互操作。作者主张采用实用且标准化的解决方案来提高 C++ 安全性。 （根据故事文本的 27% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78928</guid>
-      <pubDate>Tue, 12 Mar 2024 09:14:31 GMT</pubDate>
+      <title>电子表格不仅仅是一个数字处理工具；它还是一个数据处理工具。</title>
+      <link>https://t.me/hn_summary/79026</link>
+      <description><![CDATA[电子表格是一个模拟机
+电子表格不仅仅是一个数字处理工具；它还是一个数据处理工具。它是一个模拟机，允许用户在单元网格内构建和操作虚拟世界。从预测未来到分析复杂系统，电子表格已在从小企业到生物实验室等各个领域变得至关重要。电子表格的强大功能、透明度和易用性使其成为思考未来的多功能工具。尽管对用户预测未来的愿望感到惊讶，第一个电子表格 VisiCalc 的创建者还是利用了人类对模拟和担心即将发生的事情的强烈渴望。电子表格无处不在，影响着我们理解周围世界以及与周围世界互动的方式。]]></description>
+      <guid>https://t.me/hn_summary/79026</guid>
+      <pubDate>Tue, 12 Mar 2024 21:09:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LanguageBeast 是一款革命性的英语词汇学习工具，专注于 [...]</title>
-      <link>https://t.me/hn_summary/78927</link>
-      <description><![CDATA[Show HN：学习重要英语词汇的工具（抽认卡/离线）
-LanguageBeast 是一款革命性的英语词汇学习工具，专注于真正重要的单词。借助抽认卡和离线功能，您可以随时随地学习。最好的部分？您只需支付一次，就可以永久使用。没有订阅，没有隐藏费用。告别无休止的付款，迎接高效、便捷的学习。立即加入 LanguageBeast 社区并开始扩展您的英语词汇量。]]></description>
-      <guid>https://t.me/hn_summary/78927</guid>
-      <pubDate>Tue, 12 Mar 2024 09:13:27 GMT</pubDate>
+      <title>[媒体]Chyrp Lite 是一款超轻量级 tumblelogging 引擎，可让您托管博客 [...]</title>
+      <link>https://t.me/hn_summary/79025</link>
+      <description><![CDATA[Chyrp Lite – 使用 PHP 和 SQLite 的超轻量级 Tumblelogging 引擎&lt; /a&gt;
+Chyrp Lite 是一款超轻量级的 Tumblelogging 引擎，可让您轻松在自己的 Web 服务器上托管博客。您可以选择传统的博客布局或对其进行自定义以创建独特的网络发布平台。借助响应式 HTML5，您的博客将可以在各种设备上访问。无论您喜欢纯文本帖子还是多媒体体验，Feathers and Pages 系统都可以灵活地创建内容。主要功能包括易于安装、经 W3C 验证的 HTML5、对不同内容格式的支持、使用 Twig 模板引擎进行主题定制以及用户管理选项。]]></description>
+      <guid>https://t.me/hn_summary/79025</guid>
+      <pubDate>Tue, 12 Mar 2024 21:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英国政府斥资 325 英镑向乌克兰提供 10,000 多架尖端无人机 [...]</title>
-      <link>https://t.me/hn_summary/78926</link>
-      <description><![CDATA[英国将向乌克兰供应超过 1 万架无人机&lt; br/&gt;
-英国政府斥资 3.25 亿英镑向乌克兰提供 10,000 多架尖端无人机，以帮助打击俄罗斯的非法入侵。这项投资将在 2024 年之前向乌克兰武装部队提供各种类型的无人机，包括第一人称视角 (FPV) 无人机和攻击无人机。英国国防部长强调了英国支持乌克兰的承诺，并强调了乌克兰军队使用无人机的有效性以俄罗斯设备和车辆为目标。英国还将共同领导一个国际联盟，以增强乌克兰的无人机能力，重点是黑海的海上行动。]]></description>
-      <guid>https://t.me/hn_summary/78926</guid>
-      <pubDate>Tue, 12 Mar 2024 09:11:23 GMT</pubDate>
+      <title>[媒体]Discord 正在通过推出专用 SDK 供开发人员创建 emb [...]</title>
+      <link>https://t.me/hn_summary/79024</link>
+      <description><![CDATA[Discord开放开发者SDK以在平台内启用更多游戏和应用
+Discord 正在通过推出专用 SDK 来改变现状，供开发人员在平台内创建嵌入式应用程序和游戏。这一举措为在聊天中共享体验开辟了一个可能性的世界，并有可能增加可用活动。该平台还重新引入应用程序推介，为开发者提供为其创意获得资金的机会。此外，Discord 正在试验允许用户将应用程序添加到其帐户的技术，确保这些体验能够跨服务器跟随他们。这些更新是在最近一轮裁员之后发布的，因为该公司旨在加强其业务模式。]]></description>
+      <guid>https://t.me/hn_summary/79024</guid>
+      <pubDate>Tue, 12 Mar 2024 20:49:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音公司的麻烦依然存在，一架从奥地利起飞的智利航班上有 50 名乘客受伤 [...]</title>
-      <link>https://t.me/hn_summary/78925</link>
-      <description><![CDATA[波音公司的困境仍在继续，澳大利亚-新西兰航班上有 50 人受伤
-波音公司的麻烦依然存在，一架从澳大利亚飞往新西兰的智利航班上，由于南美航空飞机上的“强烈震动”，造成 50 名乘客受伤。这一事件加剧了波音飞机的一系列安全相关问题，包括发动机起火、机舱烟雾和飞行途中轮胎脱落。最近发生的事件让这家美国飞机制造商感到震惊，乘客们描述了飞机失去高度时被抛向天花板的可怕经历。围绕波音安全记录的争议继续引起乘客和航空当局的关注。]]></description>
-      <guid>https://t.me/hn_summary/78925</guid>
-      <pubDate>Tue, 12 Mar 2024 09:10:19 GMT</pubDate>
+      <title>[媒体] 隆重推出 StableBuild，这是一款革命性工具，可确保您的 Docker 容器 [...]</title>
+      <link>https://t.me/hn_summary/79023</link>
+      <description><![CDATA[展示 HN：StableBuild – 使任何 Docker 容器具有确定性 
+隆重推出 StableBuild，这是一款革命性工具，可确保您的 Docker 容器每次都具有确定性。我们的平台支持所有主要存储库，提供历史和当前镜像以保证成功的软件构建。使用 StableBuild 告别不可预测的构建，迎接稳定性。访问 www.stablebuild.com 了解更多信息并开始制作您的 Docker 容器坚如磐石。]]></description>
+      <guid>https://t.me/hn_summary/79023</guid>
+      <pubDate>Tue, 12 Mar 2024 20:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]宇宙距离阶梯，也称为河外距离尺度，是一系列[...]</title>
-      <link>https://t.me/hn_summary/78924</link>
-      <description><![CDATA[宇宙距离阶梯
-宇宙距离阶梯，也称为河外距离尺度，是天文学家用来确定天体距离的一系列方法。对于靠近地球的物体可以进行直接距离测量，而更远的物体则可以使用不同方法之间的相关性来测量。视差是最重要的方法，涉及测量当地球绕太阳运行时附近恒星相对于背景的位置变化。标准蜡烛是具有已知光度的物体，用于根据亮度计算距离。这些方法有助于将精确的恒星距离测量扩展到银河系的更深处。 （根据故事文本的 17% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78924</guid>
-      <pubDate>Tue, 12 Mar 2024 09:09:15 GMT</pubDate>
+      <title>[媒体]VLC，开源视频播放器，下载量已超过 50 亿次，现已预 [...]</title>
+      <link>https://t.me/hn_summary/79022</link>
+      <description><![CDATA[VLC 下载量突破 50 亿次，准备 Vision Pro 应用 
+开源视频播放器 VLC 的下载量已超过 50 亿次，目前正准备为苹果耳机推出 Vision Pro 应用程序。尽管 Netflix 等流媒体服务兴起，VLC 仍然很受欢迎，仅桌面版最新版本的下载量就超过 3.35 亿次。 Videolan 团队还在开发用于网络播放的 VLC WebAssembly 版本。此外，VLC 的成功凸显了流媒体服务与盗版之间持续不断的斗争。其他新闻方面，VR 初创公司 Dreamscape Immersive 在关闭其洛杉矶办事处后，正在转向 VR 教育。科技界还见证了苹果公司的罚款、新 Chromecast 的传闻以及 VR 耳机销量的飙升。]]></description>
+      <guid>https://t.me/hn_summary/79022</guid>
+      <pubDate>Tue, 12 Mar 2024 20:42:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]来自朝鲜的强迫劳动正在渗透到全球海鲜供应链，其中 [...]</title>
-      <link>https://t.me/hn_summary/78923</link>
-      <description><![CDATA[来自朝鲜的强迫劳动正在污染世界海鲜供应
-来自朝鲜的强迫劳动正在渗透到全球海鲜供应链中，中国海鲜加工厂在圈养条件下雇用朝鲜工人。 Outlaw Ocean Project 通过泄露的文件、视频和对工人的采访揭露了这种剥削行为。尽管联合国制裁禁止使用朝鲜劳工，但东港金汇食品和大连海青等公司继续从这种不道德的做法中获利。沃尔玛和 High Liner Foods 等主要零售商涉嫌从这些工厂采购产品，引发了人们对海鲜行业透明度和道德的担忧。围绕这一问题的争议凸显了供应链中更严格的监督和问责的必要性。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78923</guid>
-      <pubDate>Tue, 12 Mar 2024 08:54:07 GMT</pubDate>
+      <title>[媒体]鸡税，即对轻型卡车和货车征收 25% 的关税，自 1 [...]</title>
+      <link>https://t.me/hn_summary/79021</link>
+      <description><![CDATA[鸡税是时候消亡了
+鸡税是对轻型卡车和货车征收 25% 的关税，自 1963 年以来一直存在，是林登·B·约翰逊 (Lyndon B. Johnson) 为了通过美国汽车工人联合会投票赢得连任而采取的策略。福特最近因对其 Transit Connect 货车进行错误分类而规避税收而面临 3.65 亿美元的罚款。该法律为美国汽车制造商创造了一个不公平的竞争环境，抑制了卡车市场的竞争和创新。福特在小型 Maverick 皮卡上的成功证明了对紧凑型卡车的需求，但鸡税阻止了外国制造商进入市场。废除税收可以为消费者带来更多选择，并提高公司的盈利能力。]]></description>
+      <guid>https://t.me/hn_summary/79021</guid>
+      <pubDate>Tue, 12 Mar 2024 20:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这些对《斯巴达与战争纪念》和《杀戮场》的评论中，[...]</title>
-      <link>https://t.me/hn_summary/78922</link>
-      <description><![CDATA[“斯巴达和战争纪念”和“杀戮场”评论
-在《斯巴达与战争纪念》和《杀戮场》的评论中，作者深入探讨了古代斯巴达历史和温泉关战役的迷人但有争议的世界。这些书提供了关于这些事件如何随着时间的推移被纪念和神话化的独特视角。 《斯巴达与战争纪念》聚焦于古代斯巴达人和他们的军国主义，而《杀戮场》则详细描述了这场著名的战役，挑战了希罗多德等历史资料的可靠性。这些评论还谈到了现代人对斯巴达运动精神的迷恋以及美化军国主义的危险。最终，这两本书都为古代历史和战争纪念的复杂性提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/78922</guid>
-      <pubDate>Tue, 12 Mar 2024 08:53:03 GMT</pubDate>
+      <title>荷兰政府</title>
+      <link>https://t.me/hn_summary/79020</link>
+      <description><![CDATA[荷兰政府。自豪地宣布将利用欧洲最大的互联网交易所
+荷兰政府自豪地宣布计划利用欧洲最大的互联网交易所来增强国家安全，防范俄罗斯和中国黑客。新的《荷兰情报与安全法案》赋予荷兰机构广泛的权力，允许他们拦截通信、入侵全球计算机以及收集和存储电缆数据。该法律还扩大了监督和授权程序，并提出了重大修改，以进一步提高监视能力。这些变化引起了人们对侵犯隐私和人权的担忧，特别是考虑到欧洲人权法院的先例。该法律的广泛适用性以及缺乏对荷兰或欧盟个人的具体保护使其独特且充满争议。]]></description>
+      <guid>https://t.me/hn_summary/79020</guid>
+      <pubDate>Tue, 12 Mar 2024 20:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“对儿童撒谎”的概念涉及简化复杂的科目以进行教学 [...]</title>
-      <link>https://t.me/hn_summary/78921</link>
-      <description><![CDATA[对孩子撒谎
-“对儿童撒谎”的概念涉及为了教学目的而简化复杂的主题。它起源于杰克·科恩和伊恩·斯图尔特，现已应用于生物学和社会科学等各个领域。该方法虽然无意欺骗，但旨在促进初步理解。然而，批评者警告说存在潜在的缺点，例如过于简单化和需要最终揭晓。该技术被比作科幻小说，并已应用于物理、化学和进化论教育。尽管存在争议，但对儿童撒谎的方法仍然是教授复杂概念的宝贵工具。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78921</guid>
-      <pubDate>Tue, 12 Mar 2024 08:09:46 GMT</pubDate>
+      <title>[媒体]《阿奇特雷扎的渔夫》（La Terra Trema）是意大利新现实主义电影的里程碑 [...]</title>
+      <link>https://t.me/hn_summary/79019</link>
+      <description><![CDATA[Aci Trezza (La terra trema) 的渔民 
+《阿奇特雷扎的渔夫》（La Terra Trema）是意大利新现实主义电影的里程碑，由卢奇诺·维斯康蒂执导。影片讲述了瓦拉斯特罗一家的故事，他们是西西里岛贫困渔民，与剥削和苦难作斗争。维斯康蒂的人文主义方法超越了政治教条，创造了丰富而复杂的叙事。这部电影最初在财务上失败了，现在被认为是维斯康蒂最重要的作品之一。它深刻地描绘了传统社会中的社会不公正、代际鸿沟和妇女的斗争。凭借令人惊叹的电影摄影和引人入胜的故事情节，《La Terra Trema》仍然是永恒的经典，不断引起观众的共鸣。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79019</guid>
+      <pubDate>Tue, 12 Mar 2024 20:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>在快速发展的人工智能世界中，DARPA 人工智能网络挑战赛 (AIxCC) [...]</title>
-      <link>https://t.me/hn_summary/78920</link>
-      <description><![CDATA[机器人梦见根壳
-在快速发展的人工智能世界中，DARPA 人工智能网络挑战赛 (AIxCC) 正在突破使用人工智能查找和修复 Linux 内核和 Jenkins 等现实软件中的安全漏洞的界限。虽然人工智能在解决 CTF 挑战方面表现出了希望，但现实世界中错误的复杂性提出了重大挑战。该竞赛旨在探索人工智能驱动的错误发现和修补，潜在策略侧重于人工智能分析或辅助传统模糊测试方法。该竞赛将于 2025 年达到高潮，将测试人工智能在网络安全领域的能力。结果可能对软件安全产生深远的影响。]]></description>
-      <guid>https://t.me/hn_summary/78920</guid>
-      <pubDate>Tue, 12 Mar 2024 07:51:37 GMT</pubDate>
+      <title>[媒体]以色列经济因加沙毁灭性战争而陷入瘫痪，导致19.4 [...]</title>
+      <link>https://t.me/hn_summary/79018</link>
+      <description><![CDATA[穷困潦倒：加沙5个月的种族灭绝战争如何让以色列陷入瘫痪经济
+以色列经济因加沙地带的毁灭性战争而陷入瘫痪，导致国内生产总值下降 19.4%，并造成大量失业。这场冲突令投资者望而却步，扰乱了劳动力市场，并造成了严重的经济衰退。主要工业已陷入停顿，港口因也门军队和伊拉克抵抗组织的袭击而遭受严重损失。随着国际法院裁决后各国停止武器出口，该政权的军事工业也面临挑战。据估计，经济影响将超过 1000 亿美元，复苏之路还很漫长。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79018</guid>
+      <pubDate>Tue, 12 Mar 2024 20:16:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]SpaceX 已获得批准使用 E 频段无线电波来增强其星链宽带 [...]</title>
-      <link>https://t.me/hn_summary/78919</link>
-      <description><![CDATA[SpaceX 获得 E 频段无线电波以增强星链宽带
-SpaceX 已获得批准使用 E 频段无线电波以及已经批准的 Ka 和 Ku 频段来增强其 Starlink 宽带星座。 FCC 允许在 71-76 GHz 从太空到地球和 81-86 GHz 地球到太空之间进行通信。 SpaceX 计划部署 30,000 颗 Gen2 卫星，其中 1,900 颗已在轨道上运行。 FCC 推迟了对 Gen2 星座中剩余 22,500 颗卫星的行动。 E频段的使用有望增加星链的容量和吞吐量，如果其他卫星运营商寻求使用相同的频率，则需要进行潜在的修改。这一决定标志着 SpaceX 在扩展宽带能力方面迈出了重要一步。]]></description>
-      <guid>https://t.me/hn_summary/78919</guid>
-      <pubDate>Tue, 12 Mar 2024 07:42:32 GMT</pubDate>
+      <title>[媒体]如果美国撤资法案针对 [...]</title>
+      <link>https://t.me/hn_summary/79017</link>
+      <description><![CDATA[如果美国撤资法案成为法律，TikTok 计划采取全面法律行动
+如果美国针对该应用的撤资法案成为法律，TikTok 正准备打一场全面的法律战。中国母公司字节跳动有限公司对于是否考虑出售这款火爆视频应用程序犹豫不决，并计划首先排除所有法律挑战。这一有争议的举动可能会导致美国和中国政府之间的摊牌，因为强制出售需要得到中国的批准，而中国已经表示反对这一举动。这项立法的结果仍不确定，但 TikTok 已准备好战斗到底，以保护自己的利益。]]></description>
+      <guid>https://t.me/hn_summary/79017</guid>
+      <pubDate>Tue, 12 Mar 2024 20:15:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
