@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 09:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 15:12:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Swift Signal 是一个 Swift 包，它提供受 Solid [...] 启发的反应性计算</title>
-      <link>https://t.me/hn_summary/79095</link>
-      <description><![CDATA[显示 HN：刚刚在 Swift 中实现了 Solid.js 信号
-Swift Signal 是一个 Swift 包，它提供受 Solid 启发的反应性计算，提供核心库和 SwiftUI 集成库。它允许创建信号、效果和计算值，与 Solid 类似，但语言风格有所不同。该项目的目标是在 Swift 应用程序中实现细粒度的反应性，特别是在 SwiftUI 中。它的与众不同之处在于提供了一种使用信号在 SwiftUI 和其他 UI 框架之间传递数据的方法。作者警告说，这是一个实验性软件包，并建议在生产应用程序中使用它时要小心。欢迎贡献，但应首先讨论重大更改。]]></description>
-      <guid>https://t.me/hn_summary/79095</guid>
-      <pubDate>Wed, 13 Mar 2024 09:05:26 GMT</pubDate>
+      <title>[媒体] Family Dollar 的母公司 Dollar Tree 计划在 2024 年关闭 1,000 家门店 [...]</title>
+      <link>https://t.me/hn_summary/79133</link>
+      <description><![CDATA[家族美元计划在 2024 年关闭 1000 家商店
+Family Dollar 的母公司 Dollar Tree 由于季度盈利惨淡，预计将在 2024 年关闭 1,000 家门店。这一决定是在去年暗示业绩不佳的商店可能被关闭之后做出的。该公司计划在 2024 财年上半年关闭 600 家 Family Dollar 商店，并在未来几年关闭另外 370 家 Family Dollar 商店和 30 家 Dollar Tree 商店。这一消息是在第四季度大幅亏损 17.1 亿美元之后发布的，与去年报告的利润形成鲜明对比。消息公布后，Dollar Tree 股价下跌 12.5%。]]></description>
+      <guid>https://t.me/hn_summary/79133</guid>
+      <pubDate>Wed, 13 Mar 2024 15:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>在 Susam Pal 的文章“IRC 的简单性”中，作者强调了 I [...]</title>
-      <link>https://t.me/hn_summary/79094</link>
-      <description><![CDATA[IRC 的简单性（2022）
-在 Susam Pal 的文章“IRC 的简单性”中，作者强调了互联网中继聊天 (IRC) 协议的简单性以及它如何培养年轻计算机爱好者的创造力。本文讨论了阅读和理解 IRC 服务器和客户端之间交换的有效负载是多么容易，从而使业余编程项目可以轻松访问它。作者分享了一个最小的 IRC 会话示例，展示了加入频道和发布消息是多么简单。尽管很简单，本文还是指出了处理身份验证和消息长度限制等细节的重要性。作者还提供了连接 Libera Chat 网络的便捷方法，鼓励读者探索 IRC。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79094</guid>
-      <pubDate>Wed, 13 Mar 2024 08:37:14 GMT</pubDate>
+      <title>[媒体]在这篇发人深省的文章中，作者探讨了废除时区的想法[...]</title>
+      <link>https://t.me/hn_summary/79132</link>
+      <description><![CDATA[所以你想废除时区（2015） 
+在这篇发人深省的文章中，作者探讨了废除时区的想法及其对日常生活的影响，特别是在拨打国际电话方面。争议的方面源于在没有时区的世界中尝试确定给某人打电话的适当时间时出现的复杂性。作者深入探讨了使用太阳时、二十四小时时钟的复杂性，以及协调不同地区时间表的挑战。与史蒂夫叔叔的对话强调了不同国家围绕日光、上课时间和工作时间表构建日常生活的独特方式，展示了对时间解释的多样性。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79132</guid>
+      <pubDate>Wed, 13 Mar 2024 15:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌宣布他们将限制与选举相关的查询类型 [...]</title>
-      <link>https://t.me/hn_summary/79093</link>
-      <description><![CDATA[Google 限制 Gemini 聊天机器人选举答案
-谷歌宣布，他们将限制其聊天机器人 Gemini 响应的与选举相关的查询类型，以防止错误信息和干扰即将到来的 2024 年选举。这一决定是一项预防措施，旨在确保向用户提供的信息的准确性和可靠性。此举引发了一些人的争议，他们认为这可能会限制对重要信息的访问，但谷歌坚持认为有必要保护选举过程的完整性。]]></description>
-      <guid>https://t.me/hn_summary/79093</guid>
-      <pubDate>Wed, 13 Mar 2024 08:36:10 GMT</pubDate>
+      <title>汽车制造商在没有适当通知的情况下向保险公司出售有关您驾驶习惯的数据 [...]</title>
+      <link>https://t.me/hn_summary/79131</link>
+      <description><![CDATA[汽车制造商正在向保险公司出售有关您驾驶习惯的数据
+根据一份新报告，汽车制造商在没有适当通知您的情况下向您的保险公司出售有关您驾驶习惯的数据。汽车行业被认为是在隐私、数据收集和货币化方面最差的科技行业，而且缺乏透明度。汽车制造商正在向 Lexis Nexis 出售个人驾驶数据的访问权限，然后 Lexis Nexis 为保险公司创建“风险评分”来调整费率。消费者的认可是通过在用户协议中隐藏细则来获得的，就连法学教授也对这种漫不经心的行为感到惊讶。尽管呼吁进行调查和监管，但腐败的国会意味着联邦调查可能毫无进展。]]></description>
+      <guid>https://t.me/hn_summary/79131</guid>
+      <pubDate>Wed, 13 Mar 2024 15:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>奇异值分解 (SVD) 的证明是一个强大的概念，它说明了每一个 [...]</title>
-      <link>https://t.me/hn_summary/79092</link>
-      <description><![CDATA[奇异值分解的证明
-奇异值分解 (SVD) 的证明是一个强大的概念，它指出每个矩阵都可以使用域和范围空间的适当基进行对角化。麻省理工学院教授 Gilbert Strang 提供了关于 SVD 的精彩讲座，其中包括存在性证明。为了清楚起见，这篇文章将证明分为两部分。 SVD 适用于复杂矩阵，但该证明侧重于实值矩阵。通过仔细浏览证明，读者可以在根据需要查阅细节的同时掌握全局。关键步骤涉及定义新的向量和矩阵，以矩阵形式表达关系，最终证明 SVD。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79092</guid>
-      <pubDate>Wed, 13 Mar 2024 08:34:07 GMT</pubDate>
+      <title>[媒体]Dollar Tree 旗下的 Family Dollar 由于市场原因将关闭近 1,000 家商店 [...]</title>
+      <link>https://t.me/hn_summary/79130</link>
+      <description><![CDATA[Family Dollar 将关闭近 1,000 家商店
+由于市场状况和商店业绩，Dollar Tree 旗下的 Family Dollar 计划关闭近 1,000 家商店。此次关闭将在 2024 年上半年影响 600 家 Family Dollar 商店，并在未来几年影响 370 家以上商店，以及 30 家 Dollar Tree 商店。该公司财务业绩未达预期，第四季度净亏损超过17亿美元。由于成本上升、消费者偏好转变和盗窃增加，一元店面临着挑战。行业竞争对手 Dollar General 也遇到了类似的问题，而据报道，中国电子商务平台 Temu 正在从一元店夺取市场份额。]]></description>
+      <guid>https://t.me/hn_summary/79130</guid>
+      <pubDate>Wed, 13 Mar 2024 15:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>OpenDevin 是一个专注于推广开源软件和技术的 Twitter 帐户。</title>
-      <link>https://t.me/hn_summary/79091</link>
-      <description><![CDATA[OpenDevin
-OpenDevin 是一个专注于推广开源软件和技术的 Twitter 帐户。该帐户强调了开源项目的重要性，并鼓励技术社区内的合作。通过分享与开源开发相关的新闻、更新和资源，OpenDevin 旨在教育和激励其他人为开源运动做出贡献。通过在 Twitter 上关注 OpenDevin 加入对话并了解有关开源软件优势的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/79091</guid>
-      <pubDate>Wed, 13 Mar 2024 08:15:57 GMT</pubDate>
+      <title>[媒体]美国众议院通过了一项法案，将迫使 TikTok 的中国母公司字节跳动 [...]</title>
+      <link>https://t.me/hn_summary/79129</link>
+      <description><![CDATA[美国众议院通过法案，迫使 TikTok 切断与中国所有者或脸部禁令
+美国众议院通过了一项法案，迫使 TikTok 的中国母公司字节跳动剥离该应用，否则将在美国面临禁令。该法案以 352 比 65 获得通过，旨在解决与中国共产党参与社交媒体平台相关的国家安全和隐私问题。尽管 TikTok 辩称它不会与中国政府共享美国用户数据，但该法案对该应用程序构成了具体威胁。该法案目前在参议院面临着不确定的道路，一些立法者对言论自由以及对企业和内容创作者的潜在影响表示担忧。此前支持禁止 TikTok 的前总统唐纳德·特朗普现在表示反对该法案。]]></description>
+      <guid>https://t.me/hn_summary/79129</guid>
+      <pubDate>Wed, 13 Mar 2024 14:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌决定禁止 Gemini AI 中的选举查询引发了关于平衡赌注的辩论 [...]</title>
-      <link>https://t.me/hn_summary/79090</link>
-      <description><![CDATA[Google 禁止 Gemini AI 中的选举查询引发争论 
-谷歌决定禁止 Gemini AI 中的选举查询引发了一场关于信息适度与自由获取之间平衡的争论。此举旨在打击政治错误信息，凸显了这家科技巨头维护民主进程的承诺。这项全球禁令自印度选举以来一直延续，凸显了整个行业在政治背景下趋于温和的趋势。随着人工智能继续影响公共话语，开发人员面临着确保负责任的使用同时维护民主价值观的挑战。需要共同努力建立透明的指导方针并提高用户的数字素养，以负责任地驾驭在线信息环境。]]></description>
-      <guid>https://t.me/hn_summary/79090</guid>
-      <pubDate>Wed, 13 Mar 2024 08:13:53 GMT</pubDate>
+      <title>华纳兄弟。</title>
+      <link>https://t.me/hn_summary/79128</link>
+      <description><![CDATA[华纳兄弟探索公司下架了人们已购买的游戏&lt; br/&gt;
+华纳兄弟探索公司决定“退役”一批由 Adult Swim Games 发行的游戏，让已经购买了这些游戏的玩家感到冷落。尽管开发商要求将游戏转移到自己的帐户，但 WBD 拒绝了，导致玩家多年的进度和内容丢失。该公司决定取消这些游戏（可能是出于税收目的），这使得合法买家无法拥有或访问他们付费的游戏。这凸显了数字时代消费者权利的缺乏，以及就这种模式的可持续性进行对话的必要性。]]></description>
+      <guid>https://t.me/hn_summary/79128</guid>
+      <pubDate>Wed, 13 Mar 2024 14:43:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]圣罗莎一家人在飞机失事后奇迹般地生还了一场小型飞机失事 [...]</title>
-      <link>https://t.me/hn_summary/79089</link>
-      <description><![CDATA[飞机展开降落伞并迫降后受轻伤&lt; br/&gt;
-圣罗莎的一个家庭在一次小型飞机失事中奇迹般地生还，飞机发动机发生故障，机上降落伞展开，将他们轻轻地降落到门多西诺县的地面上。飞行员反应敏捷，启动了西锐机身降落伞系统 (CAPS)，挽救了机上两名成人和一名 2 岁儿童的生命。尽管飞机在最终坠落地面前被树木缠住，但一家人只受了轻伤，这在最坏的情况下确实是一个奇迹。这是该地区近两年来发生的第二起小型飞机失事事件，均造成轻伤，无人死亡。]]></description>
-      <guid>https://t.me/hn_summary/79089</guid>
-      <pubDate>Wed, 13 Mar 2024 07:52:36 GMT</pubDate>
+      <title>[媒体] Show HN：Android 键盘，为应用程序保留屏幕（即</title>
+      <link>https://t.me/hn_summary/79127</link>
+      <description><![CDATA[显示 HN：Android 键盘，为应用程序保留屏幕（即 termux） 
+隆重推出 CarrotKeys，这是一款创新的屏幕键盘，旨在最大限度地增加您正在使用的应用程序的屏幕空间。它允许输入复杂的按键组合，使其成为终端应用程序和文档编辑器的理想选择。 CarrotKeys 的与众不同之处在于其简约的设计，仅在打字时显示帮助/指南，在不使用时不显示任何内容。它可以在不看屏幕的情况下使用，从而方便视障用户使用。虽然建议横向和双手使用，但也可以在纵向模式下用一只手使用。请观看 YouTube 视频进行演示，如果您发现 CarrotKeys 有用，请考虑捐赠。]]></description>
+      <guid>https://t.me/hn_summary/79127</guid>
+      <pubDate>Wed, 13 Mar 2024 14:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摩托罗拉最新的廉价手机 2024 年 Moto G Power 5G 和 Moto G 5G 展现了 [...]</title>
-      <link>https://t.me/hn_summary/79088</link>
-      <description><![CDATA[摩托罗拉最新的廉价手机看起来出奇的好
-摩托罗拉最新的廉价手机 2024 Moto G Power 5G 和 Moto G 5G 在 NFC、纯素皮革背板、microSD 卡插槽和耳机插孔方面表现出色。 G Power 5G 甚至还提供无线充电功能，这在廉价手机中是罕见的功能。这两款手机的起价分别为 199 美元和 299 美元，其中 G Power 配备 6.7 英寸 1080p LCD 和 MediaTek Dimensity 7020 芯片组。 G 5G 配备高通 Snapdragon 4 Gen 1 芯片组和 6.6 英寸 720p LCD。这两款手机都有很有前途的功能，但执行力将是关键。 Moto G Power 将于 3 月 22 日上市，Moto G 5G 将于 3 月 21 日上市。]]></description>
-      <guid>https://t.me/hn_summary/79088</guid>
-      <pubDate>Wed, 13 Mar 2024 07:44:30 GMT</pubDate>
+      <title>[媒体] Gitea Enterprise 是 Gitea 开源项目的增强版本，专为 [...]</title>
+      <link>https://t.me/hn_summary/79126</link>
+      <description><![CDATA[Gitea Enterprise
+Gitea Enterprise是Gitea开源项目的增强版本，专为企业级用户设计。它包含 Gitea 的所有功能，但还提供其他功能，例如分支保护继承、依赖关系扫描、高级安全功能、企业主题、SAML 身份验证和审核日志。 Gitea Enterprise 还提供高级支持和可扩展性，以满足小型团队和大型组织的需求。用户可以通过访问客户门户网站进行 30 天免费试用，体验这些高级功能。选择 Gitea Enterprise 以获得安全且可定制的 Git 存储库管理体验。]]></description>
+      <guid>https://t.me/hn_summary/79126</guid>
+      <pubDate>Wed, 13 Mar 2024 14:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tex Live 2024 已发布，现在可以通过 torrent 文件和 [...]</title>
-      <link>https://t.me/hn_summary/79087</link>
-      <description><![CDATA[TeX Live 2024 已发布 - ISO 可通过 torrent 文件和磁铁下载
-Tex Live 2024 已发布，现在可以通过 torrent 文件和磁力链接下载。该 torrent 文件由作者创建并最初播种，可从 timstewart 下载.io。用于获取 TeX Live 作为 ISO 映像的官方网页即将更新。这是作者第六年协助这一过程，他们很高兴能够帮助尽可能多的用户访问 TeX Live。十多年来，LaTeX 一直是作者生产力和乐趣的源泉。]]></description>
-      <guid>https://t.me/hn_summary/79087</guid>
-      <pubDate>Wed, 13 Mar 2024 07:39:24 GMT</pubDate>
+      <title>[媒体]2010 年代初，随着智能手机的出现，青少年的发展发生了巨大的转变 [...]</title>
+      <link>https://t.me/hn_summary/79125</link>
+      <description><![CDATA[基于手机的童年的可怕代价&lt; br/&gt;
+2010 年代初期，随着智能手机的普及，青少年的发展发生了巨大的转变。青少年的抑郁、焦虑和自杀率急剧上升，不仅在美国，而且在全球范围内都是如此。 1996 年及以后出生的 Z 世代正面临着前所未有的心理健康挑战，学业成绩和社交互动下降。童年时期以手机为基础的转变剥夺了年轻人玩耍、冒险和独立等基本经历，导致焦虑和风险厌恶情绪增加。智能手机对儿童发展的影响是深远而紧迫的，需要进行文化矫正以确保子孙后代的福祉和成功。 （根据故事文本的 26% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79125</guid>
+      <pubDate>Wed, 13 Mar 2024 14:27:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《Ars 电影时间旅行指南》全面介绍了好莱坞如何 [...]</title>
-      <link>https://t.me/hn_summary/79086</link>
-      <description><![CDATA[以科学逻辑和娱乐价值评分的穿越电影
-《Ars 电影时间旅行指南》全面介绍了好莱坞多年来如何描绘时间旅行。从牛顿力学到量子力学，现实世界科学的演变都反映在这些电影中。该指南根据每部电影的娱乐价值和科学逻辑对每部电影进行评估，为观众提供穿越时空电影世界的便捷工具。虽然有些电影擅长讲故事，但缺乏科学准确性，而另一些电影则为了技术精确性而牺牲叙事。本指南精选了 20 部跨越几十年、不同类型的代表性影片，展示了最好和最差的时间旅行电影，突出了对完美时间旅行电影的持续追求。]]></description>
-      <guid>https://t.me/hn_summary/79086</guid>
-      <pubDate>Wed, 13 Mar 2024 07:16:14 GMT</pubDate>
+      <title>[媒体] 在 ECSS.info，我们相信高效 CSS 设计的简单规则。</title>
+      <link>https://t.me/hn_summary/79124</link>
+      <description><![CDATA[显示 HN：ECSS – 高效 CSS 的简单规则 
+在 ECSS.info，我们相信高效 CSS 设计的简单规则。 CSS应该反映设计模式和概念，使设计师能够自主完善他们的工作。并非所有 CSS 属性都是相同的，盒模型属性更为敏感。组件和模式需要结构，而不是抽象。 CSS 选择器应该有一个目的，并且应该利用特异性。 CSS 中的全局作用域并不是罪过，全局设计规则应该是匿名的。命名概念应该是自主的、自给自足的，并有严格的操作规则。 HTML 应该简单且富有表现力，每个元素仅代表一个角色。拥抱流动性并避免高级框架可以带来更好的用户体验。]]></description>
+      <guid>https://t.me/hn_summary/79124</guid>
+      <pubDate>Wed, 13 Mar 2024 14:14:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
