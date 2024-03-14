@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:47:35 GMT</lastBuildDate>
+    <item>
+      <title>我们可以制作自己的人物机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1be7cnn/we_can_make_our_own_figure_robot/</link>
+      <description><![CDATA[好吧，不完全是，但请听我说完。 如果您还没有发送，请观看此内容。  p&gt; https://youtu.be/Sq1QZB5baNw?si=amJfGkKRuD2zZyBW 该机器人的基本原理是使用摄像机收集图像，使用麦克风捕获音频并将语音转换为文本。然后，您将其输入多模型人工智能，并在此基础上，让它智能地调用激活预先设计的运动模式的自定义函数。 通过一点（好吧，很多）采访，您可以使用辅助处理系统将图像中的对象与通过辅助传感器阵列识别的对象联系起来。 由于这是一个人形机器人，因此可以通过记录人类运动并将其转换为机器运动来创建运动模式。这还有一些工作要做，但已经用animatronic完成了。 所以..如果你使用一个开源3D打印机器人，一些用于处理音频、视频等的树莓派..并运行通过经过微调以调用自定义函数的 LlaVa 模型。 相比之下，它显然相形见绌......而且其能力明显低于数十亿美元的公司所能做到的......但它可以 完成。   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1be7cnn/we_can_make_our_own_figure_robot/</guid>
+      <pubDate>Thu, 14 Mar 2024 00:10:19 GMT</pubDate>
+    </item>
     <item>
       <title>帮我做一个AI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1be1u21/help_me_make_an_ai/</link>
@@ -13,18 +20,11 @@
       <pubDate>Wed, 13 Mar 2024 20:27:07 GMT</pubDate>
     </item>
     <item>
-      <title>作为人工智能爱好者，我们可以做些什么来防止政府干预人工智能的进步和扩散？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdzwwg/we_as_ai_enthusiasts_what_can_we_do_to_prevent/</link>
-      <description><![CDATA[正如标题所说， 我们能做什么，全世界，不仅仅是美国，还有墨西哥、加拿大，在南美，在欧洲，在非洲，在任何地方 - 我们能做些什么来阻止政府阻碍这项技术及其进步？ （认真讨论，正在寻求认真的意见）   由   提交 /u/Kasozi_Group   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bdzwwg/we_as_ai_enthusiasts_what_can_we_do_to_prevent/</guid>
-      <pubDate>Wed, 13 Mar 2024 19:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源人工智能代理占据新的性能榜首！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdzoly/open_source_ai_agents_take_the_new_top_slot_for/</link>
-      <description><![CDATA[成功率26%！让那些营销垃圾的业绩翻倍！ https://github.com/RichardAragon/MultiAgentLLM ​ 直到昨天我才担心另一个人工智能冬天的到来。我想我们已经完蛋了哈哈。如果你今天因为一群营销人员花了一大笔钱来宣传他们让 LLM 模型进行函数调用的 13% 成功率而感到兴奋，那么你真的应该远离炒作。  “嘿，公司先生，我的产品在 13% 的情况下可以正常工作，而 87% 的情况下会出现故障并在您的组织内造成问题。请购买它，在这个类别中它比 GPT4 好 3 倍！”人们指责法学硕士模型是随机鹦鹉学舌，但我质疑这些论点的有效性。人们似乎经常无法通过自己在这些领域的测试。过度炒作一个只有 13% 的时间有效的产品。哪个世界上一个人认为这不会导致市场反弹？   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bdzoly/open_source_ai_agents_take_the_new_top_slot_for/</guid>
-      <pubDate>Wed, 13 Mar 2024 19:01:26 GMT</pubDate>
+      <title>有用的聊天GPT/BardAI/Gemini/Gronk 提示</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1be1t2i/useful_chatgptbardaigeminigronk_prompts/</link>
+      <description><![CDATA[我已经研究 LLM 一段时间了，并且我策划了一些非常酷的提示。想知道其他实用程序人员在商业环境中发现了什么，您是否确定了解决问题的唯一字符串？例如，我发现要求 CGPT 确定 PPC 活动中的垃圾邮件/机器人流量提供了一些很好的解决方案，但随后要求批评该方法，然后重新编写解决方案以考虑批评，这是发现智能响应的有趣方法&lt; /p&gt;   由   提交/u/circa20twenty  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1be1t2i/useful_chatgptbardaigeminigronk_prompts/</guid>
+      <pubDate>Wed, 13 Mar 2024 20:26:04 GMT</pubDate>
     </item>
     <item>
       <title>有没有一个离线人工智能可以用来作为我的电子书图书馆员？</title>
@@ -41,13 +41,6 @@
       <pubDate>Wed, 13 Mar 2024 17:52:55 GMT</pubDate>
     </item>
     <item>
-      <title>一个实时语音二值化工具，你会推荐哪个</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdxeky/a_real_time_speach_diarization_tool_which_would/</link>
-      <description><![CDATA[我想做的是让AI记录下两个人在平静的背景下交流的语音。不需要复杂的工具。 我希望它在写下他们谈论的内容时能够区分两个说话者。 这是说话人二值化项目。 openai和汇编不提供此类工具 您建议为此目的使用什么工具？ 编辑： 我通过 picovoice 进行摄像，但它仅适用于公司 编辑：  p&gt;   由   提交 /u/qhelspil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bdxeky/a_real_time_speach_diarization_tool_which_would/</guid>
-      <pubDate>Wed, 13 Mar 2024 17:33:18 GMT</pubDate>
-    </item>
-    <item>
       <title>法学硕士如何获胜——未来五年</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdx3cd/how_llms_win_the_next_five_years/</link>
       <description><![CDATA[写了一些关于现状以及未来五年家庭和工作场所法学硕士采用的内容，以及潜在的失误。 “如果您打开计算机开始新的一天，大型语言模型可能可以可靠地代表您完成一些专业任务，尤其是当您的工作有点废话时。您可能已经使用 LLM 来加速您工作中的废话部分，可能是 GPT-3 或 GPT-4。也许，如果您是真正的爱好者，您已经尝试过克劳德。也许你会让这样的生产力实验远离你老板的眼睛。 这是一个秘密。你不圆滑。公司不可能都是愚蠢的——他们知道这里发生了什么，并且他们故意选择对这种做法视而不见。嘿，为什么不呢？ “不问，不说”的安排是有效的。公司在享受生产力（和拼写）提升的同时，保留了看似合理的推诿的社会和法律盾牌。反过来，使用笔记本电脑的美国人承担了检验机器输出的责任，这样他们就不会“陷入困境”。他们减轻了工作量，公司在无所事事的情况下获得了好处。这都是有趣的游戏（直到裁员开始）。 裁员总会到来。随着法学硕士实现输出自动化，大量知识劳动力将面临淘汰和裁员。许多人将向下流动。政治轴心将会形成以阻止潮流。他们都会失败。这种收缩最终是进步的土壤。它通过让半聪明的人解放出来去做更多必要的事情来培养更高的国家生产力。与之前节省劳动力的突破一样，大规模动乱最终将让位于生根发芽的繁荣。” 如果您有兴趣，请阅读整篇文章：https://www.futuristletters.com/p/how-llms-win  &amp;# 32；由   提交 /u/CairoSmith   [链接] [评论]]]></description>
@@ -55,11 +48,18 @@
       <pubDate>Wed, 13 Mar 2024 17:20:58 GMT</pubDate>
     </item>
     <item>
-      <title>热力学计算：比量子更好？ | Guillaume Verdon 和 Trevor McCourt，Extropic</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdwjig/thermodynamic_computing_better_than_quantum/</link>
-      <description><![CDATA[https://youtu.be/OwDWOtFNsKQ?si =XIU8mNWo08piecfm 据我了解，这些提议的芯片将与环境的自然噪声一起工作（正如他们所解释的那样，这些芯片目前不这样做），而不是对抗它们（如现代芯片尝试这样做）。虽然我不能百分百理解，但我确实看到了这将为人工智能技术的加速带来的重大影响。你们对此有何看法？   由   提交 /u/Kasozi_Group   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bdwjig/thermodynamic_computing_better_than_quantum/</guid>
-      <pubDate>Wed, 13 Mar 2024 16:59:22 GMT</pubDate>
+      <title>世界上第一位人工智能软件工程师：Cognition AI 的 Devin</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdvhta/worlds_first_ai_software_engineer_devin_by/</link>
+      <description><![CDATA[在一项开创性的声明中，Cognition AI 揭晓了 Devin，他是世界上第一位完全自主的人工智能软件工程师，得到了 Peter Thiel 创始人基金和著名技术领袖（例如埃拉德·吉尔和托尼·徐。与任何现有的编码助理不同，Devin 具有独特的优势，可以从头到尾管理整个软件开发项目。这包括从编写代码和修复错误到执行最终产品的一切，展示了其无与伦比的功能。  Devin 成为人工智能辅助开发领域的革命性人物。它通过为工程任务提供全面的解决方案来超越现有工具的局限性。 Devin 不只是充当代码生成器，而是作为一名成熟的团队成员，能够独立处理复杂的项目，甚至参与 Upwork 等平台上发布的任务。Devin 的创建标志着向 AI 的关键转变——驱动开发，为工程师提供了一个得力的盟友。 Cognition 首席执行官 Scott Wu 详细介绍了 Devin 如何在配备了 shell、代码编辑器和浏览器等开发工具的沙盒环境中运行。通过聊天界面，用户可以用自然语言传达他们的需求，促使 Devin 设计并执行战略计划来满足项目需求，就像人类开发人员一样。  更多关于德文   由   提交 /u/Ok_Sound3244   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bdvhta/worlds_first_ai_software_engineer_devin_by/</guid>
+      <pubDate>Wed, 13 Mar 2024 16:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>从实际人工智能的角度探讨《我是母亲》中的人工智能伦理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bdvfmr/exploring_the_ethics_of_ai_in_i_am_mother_from_an/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bdvfmr/exploring_the_ethics_of_ai_in_i_am_mother_from_an/</guid>
+      <pubDate>Wed, 13 Mar 2024 16:15:25 GMT</pubDate>
     </item>
     <item>
       <title>在人工智能操纵的时代，老式电影能否成为法庭证据的首选形式？</title>
