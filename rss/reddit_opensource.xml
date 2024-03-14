@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 15:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 18:15:03 GMT</lastBuildDate>
+    <item>
+      <title>我想开源一个用 C 编写的库，但有问题......:(</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bephlz/i_want_to_open_source_a_library_written_in_c_but/</link>
+      <description><![CDATA[ 由   提交/u/khushal-banks  /u/khushal-banks  reddit.com/r/C_Programming/comments/1bepb7u/i_want_to_open_source_a_library_writing_in_c_but/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bephlz/i_want_to_open_source_a_library_written_in_c_but/</guid>
+      <pubDate>Thu, 14 Mar 2024 16:36:41 GMT</pubDate>
+    </item>
     <item>
       <title>开源并非不安全</title>
       <link>https://www.reddit.com/r/opensource/comments/1ben0og/open_source_is_not_insecure/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿伙计们， 我一直在深入研究开源或预算友好型工具的世界，用于创建 GUI输入和可视化数据。我不太关注数据模型的复杂性；更多的是关于界面。 我不久前偶然发现了这个工具，但对它的名字完全不知道。这是我记得的——它有一个简洁的界面，其中表格是主要的明星。最酷的部分是相关表格如何最小化到屏幕边缘。您可以从各个方向在这些表格之间导航 - 左、右、上、下。很圆滑，对吧？ 为任何人敲响警钟吗？很想重新发现它或找到类似的东西。提前致谢！   由   提交/u/paranoia32  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdo2fn/nocode_lowcode_crud_app_that_displays_tables_and/</guid>
       <pubDate>Wed, 13 Mar 2024 10:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 活动记录器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</link>
-      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交/u/basecatcherz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</guid>
-      <pubDate>Wed, 13 Mar 2024 08:56:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

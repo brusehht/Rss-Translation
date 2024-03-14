@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 14 Mar 2024 15:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 18:14:16 GMT</lastBuildDate>
+    <item>
+      <title>素材恢复问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1berod8/footage_recovery_issue/</link>
+      <description><![CDATA[我的团队最近为客户拍摄了视频，团队中的某人在我们备份之前不小心格式化了该卡。 &lt;经过几天的恐慌，我找到了一些恢复软件，并且能够找到大部分片段（或者我假设是基于时间戳的片段），但数据恢复软件由于某种原因分割了文件转换为没有分辨率、编解码器或相机信息的 .mp4 文件，因此它们无法播放。然后是另一个文件夹，其剪辑名称与 .mov 文件相同，并且包含所有编解码器和摄像机信息，但没有附加视频数据。有没有什么流程可以将两者合并？到目前为止，我已经有 100 美元了，除非我确信有什么办法能奏效，否则我希望不要继续花钱。    由   提交 /u/steelcitycynical   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1berod8/footage_recovery_issue/</guid>
+      <pubDate>Thu, 14 Mar 2024 18:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Post-Pro M1/2/3 Mac 指南（更新）</title>
+      <link>https://www.reddit.com/r/editors/comments/1beqh2y/the_postpros_guide_to_the_m123_macs_update/</link>
+      <description><![CDATA[我通常会保持更新。现在在 ProVideoCoalition 上。  当然，如果我有什么问题，那是 Reddit 的责任。请随意告诉我。   由   提交 /u/greenysmac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1beqh2y/the_postpros_guide_to_the_m123_macs_update/</guid>
+      <pubDate>Thu, 14 Mar 2024 17:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lucid Link 与 Syncthing 相结合</title>
+      <link>https://www.reddit.com/r/editors/comments/1beq8e8/lucid_link_in_combination_with_syncthing/</link>
+      <description><![CDATA[我想知道如果我使用 Lucid Link 文件空间作为 Syncthing 文件夹的位置会发生什么。如果有人熟悉 Lucid Link 的工作原理，我的理解是数据块可能位于云存储上，而元数据则单独存储。这对于操作系统来说应该是不可见的。但是，我想知道它是否会给 Syncthing 带来问题。 Lucid 链接是非常昂贵的存储，我的想法是当不再需要使用 Lucid Link 文件空间进行访问时，将文件同步回我们更经济的服务器。假设如果我固定文件夹，这不会成为问题，但如果文件夹未固定，会发生什么？ Syncthing 在同步整个文件时是否会出错，或者它会在 Syncthing 请求文件时传输数据并且没问题吗？将在 r/Syncthing 中交叉发布此内容以获得更多可见性。   由   提交/u/Magic_MTN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1beq8e8/lucid_link_in_combination_with_syncthing/</guid>
+      <pubDate>Thu, 14 Mar 2024 17:07:39 GMT</pubDate>
+    </item>
     <item>
       <title>我的职位的英文名称是什么？与 Avid 合作，同步音频和视频、管理数据库、转码和整合等。</title>
       <link>https://www.reddit.com/r/editors/comments/1bemydu/what_is_the_name_of_my_position_in_english/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>如何处理部分日的预订</title>
       <link>https://www.reddit.com/r/editors/comments/1bdy0q1/how_to_deal_with_partialday_bookings/</link>
-      <description><![CDATA[最近在大流行后我经常遇到这个问题，想分享一些建议。  自从大流行以来，大部分人都在家办公，突然之间，客户试图只为我预订几个小时，而不是在办公室呆上一整天。 以下是我的做法处理它： 我说，“我理解你为什么要这样做，不幸的是这对我来说效果不佳。这作为一种生活方式是不可持续的，除非我同时接待多个客户，而且根据我的经验，这可能会变得混乱。不过，我对其他解决方案持开放态度。也许每周工作 4 天？如果这还不够，我还可以每天工作 7 小时，而不是 8 小时。我也愿意接受其他解决方案。”  你必须坚持自己的立场，这可能很可怕。最好的情况是，他们每周工作 4 天。这就是梦想，对吗？   由   提交 /u/The_Justicer   [链接] [评论]]]></description>
+      <description><![CDATA[大流行后我最近经常遇到这个问题，想分享一些建议。 自大流行以来并转为大部分在家办公，突然之间，客户试图只为我预订几个小时，而不是在办公室呆一整天。 以下是我的处理方式： 我说：“我明白你为什么要这么做，不幸的是这对我来说效果不太好。这作为一种生活方式是不可持续的，除非我同时接待多个客户，而且根据我的经验，这可能会变得混乱。不过，我对其他解决方案持开放态度。也许每周工作 4 天？如果这还不够，我还可以每天工作 7 小时，而不是 8 小时。我也愿意接受其他解决方案。” 你必须坚持自己的立场，这可能会很可怕。最好的情况是，他们每周工作 4 天。这就是梦想，对吗？ ​ 编辑：我认为我的建议可能更具体针对在线广告。他们希望我随时待命，随时待命，除了按时间付费之外，什么都可以做。这就是我如何将突然的 2 小时笔记会议变成一整天的预订，并保持更正常的工作时间表。 我很高兴听到你们都有自己的策略。很好的讨论。   由   提交 /u/The_Justicer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bdy0q1/how_to_deal_with_partialday_bookings/</guid>
       <pubDate>Wed, 13 Mar 2024 17:57:47 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[Premiere 的自动重构功能是重新打包社交媒体视频的最佳选择吗？如果存在这种情况，请寻找更高级的选项。   由   提交/u/Currzon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bdwm66/autoreframe/</guid>
       <pubDate>Wed, 13 Mar 2024 17:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以升级 Synology NAS 速度吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bdw7ey/possible_to_upgrade_synology_nas_speed/</link>
-      <description><![CDATA[所以我有一台 Synology DS918+ 4-Bay NAS，具有 18TB 可用空间和 100K 互联网速度。我使用带有 4 个 Seagate IronWolf 硬盘的 RAID-5 Seagate ST10000VN0004 IronWolf 10 TB NAS intern Festplatte（8、9 厘米（3、5 Zoll）、7200 u/min、256 MB 缓存、SATA 6 Gb/s。传输速度介于 20 - 80 MBit/s 之间，具体取决于硬盘驱动器. 我是否可以采取任何措施来提高传输速度，以便我可以在 NAS 上进行良好的编辑？现在这并不是一次糟糕的体验，我可以摆脱它，但它还算不错。比我的其他硬盘驱动器的工作速度慢。 我读过有关 10GB 以太网或类似内容的内容。我可以用它做点什么，以提高我的 NAS 速度，或者我怎么知道我的所有内容系统和我的 NAS 支持这个速度吗？我的主板是否需要能够有一些特定的连接，我的 NAS 是否可以使用这个连接速度？    提交者    /u/Zeigerful   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bdw7ey/possible_to_upgrade_synology_nas_speed/</guid>
-      <pubDate>Wed, 13 Mar 2024 16:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>WD Passport 与 Elements？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bdsny1/wd_passport_vs_elements/</link>
-      <description><![CDATA[我已经有几个这样的驱动器，它们是满足我需求的完美备份驱动器。但我始终无法弄清楚两者之间的区别。现在需要购买一个新的，想知道这里是否有人知道它们之间的任何相关差异？   由   提交 /u/EtheriumSky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bdsny1/wd_passport_vs_elements/</guid>
-      <pubDate>Wed, 13 Mar 2024 14:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>最被低估的音效是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bdfuf4/whats_the_most_underrated_sound_effect/</link>
-      <description><![CDATA[我先：铙钹。它可以将您从棘手的场景中过渡出来，而不会像快速过渡那样引起人们的注意。   由   提交/u/Edit44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bdfuf4/whats_the_most_underrated_sound_effect/</guid>
-      <pubDate>Wed, 13 Mar 2024 02:13:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
