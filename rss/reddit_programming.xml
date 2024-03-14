@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 14 Mar 2024 00:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 03:12:39 GMT</lastBuildDate>
+    <item>
+      <title>程序员对时区的误解</title>
+      <link>https://www.reddit.com/r/programming/comments/1bea6ao/falsehoods_programmers_believe_about_time_zones/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bea6ao/falsehoods_programmers_believe_about_time_zones/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>得到教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1be8sur/lessons_learned/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1be8sur/lessons_learned/</guid>
+      <pubDate>Thu, 14 Mar 2024 01:15:34 GMT</pubDate>
+    </item>
     <item>
       <title>通过哈希调用</title>
       <link>https://www.reddit.com/r/programming/comments/1be83q0/call_by_hash/</link>
       <description><![CDATA[ 由   提交/u/jkarni  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1be83q0/call_by_hash/</guid>
       <pubDate>Thu, 14 Mar 2024 00:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>问起来有点奇怪，但是...</title>
-      <link>https://www.reddit.com/r/programming/comments/1be75xo/kinda_weird_to_ask_but/</link>
-      <description><![CDATA[我正在寻找可以从 .exe 文件中提取源代码的人，或者可以帮助我识别这个简单的旧游戏中使用的编程语言的人驾驶舱管理员 14.    由   提交/u/Urbix04  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1be75xo/kinda_weird_to_ask_but/</guid>
-      <pubDate>Thu, 14 Mar 2024 00:02:27 GMT</pubDate>
     </item>
     <item>
       <title>如何让构建 Wasm 变得异常简单</title>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 13 Mar 2024 21:36:54 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰开源政府服务平台Diia（数字身份、服务、移动应用程序）</title>
+      <title>乌克兰开源政府服务平台 Diia（数字身份、服务、移动应用程序）</title>
       <link>https://www.reddit.com/r/programming/comments/1be1on4/ukraine_opensourced_government_services_platform/</link>
       <description><![CDATA[ 由   提交/u/Alikont  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1be1on4/ukraine_opensourced_government_services_platform/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bdyur3/ksml_v08_new_features_for_kafka_streams_in_low/</guid>
       <pubDate>Wed, 13 Mar 2024 18:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 grep 类似，但用于自然语言问题。基于 Mistral 8B 或 Mixtral 8x7B，在 8GB GPU 上速度高达 52 个令牌/秒。用 Rust 从头开始​​构建。</title>
-      <link>https://www.reddit.com/r/programming/comments/1bdyqry/like_grep_but_for_natural_language_questions/</link>
-      <description><![CDATA[ 由   提交/u/compressor0101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bdyqry/like_grep_but_for_natural_language_questions/</guid>
-      <pubDate>Wed, 13 Mar 2024 18:25:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
