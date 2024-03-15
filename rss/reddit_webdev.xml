@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 09:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 12:20:31 GMT</lastBuildDate>
+    <item>
+      <title>你还在使用 Photoshop 进行网页设计吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfbhx9/yall_still_use_photoshop_for_webdesign/</link>
+      <description><![CDATA[标题。如果没有，为什么？你用什么？ 编辑： 谢谢你们，会研究Ligma，哎呀我是说Figma   由   提交 /u/Mammoth-Asparagus498   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfbhx9/yall_still_use_photoshop_for_webdesign/</guid>
+      <pubDate>Fri, 15 Mar 2024 11:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 更改滚动条的背景颜色</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfb7wc/how_to_change_background_color_on_scroll_with/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]＆#32;更改滚动上的背景颜色[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfb7wc/how_to_change_background_color_on_scroll_with/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您生活中的哪些部分已实现自动化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfawz4/what_parts_of_your_life_have_you_automated/</link>
+      <description><![CDATA[例如：我现在正在寻找一所房子，并构建了一个脚本来抓取符合我的标准的房屋的住房地点。然后，新列表会通过 Slack 向我发送消息。 我还有一个脚本，可以检查我的 YouTube 播放列表中是否有我最喜欢的歌曲。如果添加了新视频，脚本会将其转换为 mp3 并将其存储在我的电脑上。 还有其他人使用像这样很酷的自动化吗？   由   提交 /u/karen_jd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfawz4/what_parts_of_your_life_have_you_automated/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些类型的英雄部分被称为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bf9ux1/what_are_these_types_of_hero_sections_called/</link>
+      <description><![CDATA[      这些有名字吗？我想查找示例，但我不知道该怎么称呼它们。 我尝试过“图片拼贴”和“网格”以及这些行周围的内容，但无济于事 https://preview.redd.it/y7pdu6xoygoc1.png?width=1410&amp;format=png&amp;auto=webp&amp;s=2173f825058c36d759ff04eaf5f367d2d806585e   由   提交/u/blunt_bear  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bf9ux1/what_are_these_types_of_hero_sections_called/</guid>
+      <pubDate>Fri, 15 Mar 2024 09:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何将数据库从 PlanetScale 迁移到 Neon.tech</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bf9r2w/how_i_migrated_my_db_from_planetscale_to_neontech/</link>
+      <description><![CDATA[ 由   提交 /u/kitsunekyo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bf9r2w/how_i_migrated_my_db_from_planetscale_to_neontech/</guid>
+      <pubDate>Fri, 15 Mar 2024 09:16:46 GMT</pubDate>
+    </item>
     <item>
       <title>在网站中实施谷歌日历的最简单方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bf9hny/what_is_the_easiest_way_to_implement_google/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>引导建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1bf96lp/bootstrap_advice/</link>
-      <description><![CDATA[您好，我目前正在学习 bootstrap，我有这个项目。我只创建桌面版本没有问题，但是我有响应问题。例如，当我将屏幕设置为半宽时，图像和文本似乎到处都是，甚至在其他元素上也是如此。我尝试使用 Bootstrap 网格备忘单中的提示，如 col-12、row 等，但没有帮助。尝试做 img-fluid，但似乎也不起作用。我希望即使在调整窗口大小时图像也能保持在原位，并且文本元素也能调整大小。我知道可以使用 @media 元素，但是建议我仅使用引导程序。我很困惑，我什至不知道从哪里开始。感谢任何帮助。   由   提交/u/stiletto4721   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我目前正在学习 bootstrap，我有这个项目。我只创建桌面版本没有问题，但是我有响应问题。例如，当我将屏幕设置为半宽时，图像和文本似乎到处都是，甚至在其他元素上也是如此。我尝试使用 Bootstrap 网格备忘单中的提示，如 col-12、row 等，但没有帮助。尝试做 img-fluid，但似乎也不起作用。我希望即使在调整窗口大小时图像也能保持在原位，并且文本元素也能调整大小。我知道可以使用 @media 元素，但是建议我仅使用引导程序。我很困惑，我什至不知道从哪里开始。感谢任何帮助。   由   提交/u/stiletto4721  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bf96lp/bootstrap_advice/</guid>
       <pubDate>Fri, 15 Mar 2024 08:33:58 GMT</pubDate>
     </item>
@@ -50,7 +85,7 @@
     <item>
       <title>你有多少时间在编码？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bf8c2n/how_much_time_are_you_coding/</link>
-      <description><![CDATA[这是我编程的第四个年头（工作中），而且我在第四家公司，我终于找到了一个可以编程的地方几乎一天中的所有时间，我们的会议都很少（上半年除了站立会议外，我只举行了 2-3 次会议）。我的第一家公司是一家银行，所以如果我能够写 3 个小时的代码，那一天对我来说就很棒了，但这种情况每两周就会发生一次。之前的公司稍微好一点，但是代码库和股东都很糟糕，所以一年半后我辞职了，来到了现在的位置。 ​ 在银行有很多会议，在以前的公司有很多空闲时间。  您一周或一天花多少时间编码？会议和空闲时间占非编码时间的比例是多少？   由   提交 /u/ChiliMarshmallow   [链接] [评论]]]></description>
+      <description><![CDATA[这是我编程的第四个年头（工作中），而且我在第四家公司，我终于找到了一个可以编程的地方几乎一天中的所有时间，我们的会议都很少（上半年除了站立会议外，我只举行了 2-3 次会议）。我的第一家公司是一家银行，所以如果我能够写 3 个小时的代码，那一天对我来说就很棒了，但这种情况大约每两周发生一次。之前的公司稍微好一点，但是代码库和股东都很糟糕，所以一年半后我辞职了，来到了现在的位置。 ​ 在银行有很多会议，在以前的公司有很多空闲时间。  您一周或一天花多少时间编码？会议和空闲时间占非编码时间的比例是多少？   由   提交 /u/ChiliMarshmallow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bf8c2n/how_much_time_are_you_coding/</guid>
       <pubDate>Fri, 15 Mar 2024 07:29:05 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[    /u/ExemptedRat   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bf7e21/how_to_change_url_to_business_name_in_google/</guid>
       <pubDate>Fri, 15 Mar 2024 06:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>CROSS MY HEART - Frogger Demake（256 字节）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf7d44/cross_my_heart_frogger_demake_in_256_bytes/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf7d44/cross_my_heart_frogger_demake_in_256_bytes/</guid>
-      <pubDate>Fri, 15 Mar 2024 06:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>倡导开放网络的未来 - 开放网络倡导（JS Party #316）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf73pn/advocating_for_the_future_of_the_open_web_open/</link>
-      <description><![CDATA[       由   提交/u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf73pn/advocating_for_the_future_of_the_open_web_open/</guid>
-      <pubDate>Fri, 15 Mar 2024 06:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>就我的下一步行动寻求建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf6w00/seeking_advice_on_my_next_steps/</link>
-      <description><![CDATA[嗨，我不确定这是否是正确的提问地点，但我认为这会有所帮助。我已经学习开发 Web 应用程序有一段时间了，并且自己完成了几个项目。但现在我感觉有点陷入困境，因为我缺乏申请我所在地区工作的专业经验。如果你们正在经营初创公司或从事必须使用 MERN 堆栈开发 Web 应用程序的项目，我想以实习生的身份加入，以进行指导交流。或者，如果您对我可以从这里继续前进有什么建议，我将不胜感激。   由   提交 /u/WorriedEquivalent852   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf6w00/seeking_advice_on_my_next_steps/</guid>
-      <pubDate>Fri, 15 Mar 2024 05:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>完整的 Web 组件框架/系统（操作系统或许可）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf6vpm/complete_web_component_frameworkssystems_os_or/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf6vpm/complete_web_component_frameworkssystems_os_or/</guid>
-      <pubDate>Fri, 15 Mar 2024 05:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf5pb5/analytics_questions/</link>
-      <description><![CDATA[嗨，我正在寻找一些有关分析的建议。 我正在开发一个网站，并希望跟踪多个级别的活动。我可以将我的 IP 地址输入到任何这些分析应用程序中，以阻止我在网站上工作时的活动，但这是我的问题。我经常出差，在咖啡店、爱彼迎、机场、图书馆等地方工作。我大部分时间登录时都有不同的IP，这让封锁我的IP变得很痛苦。是否有一个具有专用 IP 的 VPN 可供我使用，以便我可以在工作时使用 VPN？有什么建议给我吗？或者有更好的方法来实现这一目标吗？   由   提交/u/scenicvows  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf5pb5/analytics_questions/</guid>
-      <pubDate>Fri, 15 Mar 2024 04:35:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
