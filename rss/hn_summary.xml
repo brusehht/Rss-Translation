@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 09:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:10:20 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Cerebras Systems 推出了突破性的 Wafer Scale Engine 3 (WSE-3)，这是一款 [...]</title>
-      <link>https://t.me/hn_summary/79488</link>
-      <description><![CDATA[Cerebras 推出人工智能处理器，理论上相当于 62 个 Nvidia H100
-Cerebras Systems 推出了突破性的 Wafer Scale Engine 3 (WSE-3)，该芯片的性能是其前身 WSE-2 的两倍。 WSE-3 拥有 4 万亿个晶体管和 90 万个 AI 核心，为 CS-3 超级计算机提供动力，能够训练具有多达 24 万亿个参数的 AI 模型。 CS-3 提供卓越的功效和易用性，与 GPU 相比，所需的代码显着减少。 Cerebras 已经获得了包括企业和政府在内的各个部门的大量兴趣和订单。与 G42 的战略合作伙伴关系将导致 Condor Galaxy 3 的诞生，这是一款拥有 57,600,000 个海量内核的人工智能超级计算机。]]></description>
-      <guid>https://t.me/hn_summary/79488</guid>
-      <pubDate>Fri, 15 Mar 2024 09:11:15 GMT</pubDate>
+      <title>[媒体]在法医调查领域，确定尸体的死亡时间一直是[...]</title>
+      <link>https://t.me/hn_summary/79524</link>
+      <description><![CDATA[一种计算尸体死亡时间的新技术
+在法医调查领域，确定尸体的死亡时间一直是一项具有挑战性且不精确的任务。然而，一种名为 geoFOR 的新型人工智能工具正在彻底改变这一过程，它分析了数千起死亡调查，并使用机器学习提供迄今为止最可靠的尸检间隔 (PMI) 估计。该工具由克莱姆森大学的一个研究团队开发，结合​​了真实案例和法医实验的数据，为法医调查人员提供可能的 PMI 和估计死亡日期。这项创新技术不仅有助于解决犯罪问题，还有助于结束失踪人员案件并为死者家属提供一个了结。]]></description>
+      <guid>https://t.me/hn_summary/79524</guid>
+      <pubDate>Fri, 15 Mar 2024 15:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我创建了一个编译器，可以将 Python（ish）代码转换为 tmux 配置文件，允许您 [...]</title>
-      <link>https://t.me/hn_summary/79487</link>
-      <description><![CDATA[展示 HN：制作一个编译器来证明 Tmux 是图灵完备的
-作者总结：
-我创建了一个编译器，它将 Python(ish) 代码转换为 tmux 配置文件，允许您通过在窗口之间切换来在 tmux 中运行代码。当我发现 tmux wait-for 命令并沉迷于在 tmux 中运行代码的想法时，这个项目开始了。通过利用缓冲区、字符串扩展和挂钩等 tmux 功能，我能够实现堆栈并在 tmux 中执行算术运算。编译器可用于在 tmux 中运行您自己的代码，并且在 tmux 中实现简单语言的可能性是无限的。查看演示视频以了解其实际效果。 （根据故事文本的 51% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79487</guid>
-      <pubDate>Fri, 15 Mar 2024 09:08:09 GMT</pubDate>
+      <title>这篇关于 0x44.cc 的文章旨在简化令人生畏的逆向工程世界 [...]</title>
+      <link>https://t.me/hn_summary/79523</link>
+      <description><![CDATA[傻瓜逆向 – x86 汇编和 C 代码（适合初学者/ADHD） )
+这篇关于 0x44.cc 的文章旨在简化令人生畏的反向世界面向初学者的工程，重点关注 x86 汇编和 C 代码。作者以初学者友好的方式分解了一些基本概念，例如编译、二进制代码、CPU 寄存器、内存访问和汇编指令。目标是激励有抱负的逆向工程师更深入地研究这一领域。本文假设您具备十六进制和 C 编程的基本知识。作者的直接方法和对实际示例的强调使逆向工程新手可以轻松理解本指南。 （根据 24% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79523</guid>
+      <pubDate>Fri, 15 Mar 2024 15:09:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]澳大利亚和世界各地的麦当劳餐厅正面临全球IT中断[...]</title>
-      <link>https://t.me/hn_summary/79486</link>
-      <description><![CDATA[麦当劳因全球 IT 中断而关闭
-澳大利亚和世界各地的麦当劳餐厅正面临全球IT中断，迫使一些分店关闭，其他分店只接受现金订单。中国、日本、加拿大、荷兰、韩国和德国等国家均报告了该问题。麦当劳日本公司承认存在“系统故障”，并对由此带来的不便表示歉意。在新西兰，计算机服务器崩溃导致员工无法接受订单或提供食物。停电原因尚不清楚，《新闻周刊》正在寻求麦当劳的评论。此突发新闻报道将随着更多信息的出现而更新。]]></description>
-      <guid>https://t.me/hn_summary/79486</guid>
-      <pubDate>Fri, 15 Mar 2024 09:06:04 GMT</pubDate>
+      <title>[媒体] 在 otterly.ai 的综合目录中发现超过 300 个 AI 和 LLM 工具。</title>
+      <link>https://t.me/hn_summary/79522</link>
+      <description><![CDATA[显示 HN：包含 306 个列出的 AI 和 LLM 工具的 AI 工具目录&lt; /a&gt;
+在 otterly.ai。从人工智能分析到聊天机器人，从交易机器人到客户支持，我们都对其进行了分类，以便于浏览。无论您从事金融、营销、房地产还是任何其他行业，您都会找到简化流程的完美工具。凭借广泛的类别和搜索选项，找到合适的人工智能工具从未如此简单。立即探索我们的目录，彻底改变您使用人工智能技术的工作方式。]]></description>
+      <guid>https://t.me/hn_summary/79522</guid>
+      <pubDate>Fri, 15 Mar 2024 14:58:07 GMT</pubDate>
     </item>
     <item>
-      <title>尼泊尔旅游部针对即将到来的 2024 年珠穆朗玛峰季节推出了一项新规则，[...]</title>
-      <link>https://t.me/hn_summary/79485</link>
-      <description><![CDATA[2024年珠穆朗玛峰：尼泊尔“GPS芯片”计划存在重大问题
-尼泊尔旅游部针对即将到来的 2024 年珠穆朗玛峰登山季出台了一项新规定，要求登山者租用或购买“GPS 芯片”，并将其缝在夹克中。这一有争议的决定引发了争论，因为许多人认为常识和经验对于预防事故更有效。本文探讨了从无线电到 GPS 跟踪器的各种跟踪设备，并重点介绍了它们的优缺点。此外，Recco 系统使用反射器来定位埋在地下的滑雪者，也被认为是一种新颖的解决方案。随着尼泊尔计划实施“GPS芯片”规则，登山者可以预见即将到来的季节的变化和潜在的挑战。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79485</guid>
-      <pubDate>Fri, 15 Mar 2024 09:04:00 GMT</pubDate>
+      <title>[媒体]在最近的一份声明中，NVIDIA 首席执行官黄仁勋表示 [...]</title>
+      <link>https://t.me/hn_summary/79521</link>
+      <description><![CDATA[编码的消亡被过分夸大了
+NVIDIA 首席执行官黄仁勋在最近的一份声明中表示，由于人工智能的进步，编程正在变得过时，引发了争议。然而，历史表明，随着新语言和技术的不断涌现，编码不断发展和繁荣。虽然人工智能可以自动执行某些任务，但精确编码的需求对于解决复杂的现实问题仍然至关重要。此外，掌握编码技能可以提供宝贵的能力，例如抽象思维和快速适应。与其阻止学生追求计算机科学，不如拥抱人工智能带来的机会并继续在该领域进行创新，这一点至关重要。]]></description>
+      <guid>https://t.me/hn_summary/79521</guid>
+      <pubDate>Fri, 15 Mar 2024 14:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 麦当劳在日本的顾客因这家快餐连锁店经历了 [...]</title>
-      <link>https://t.me/hn_summary/79484</link>
-      <description><![CDATA[麦当劳的顾客在系统中断后无法订购
-日本麦当劳的顾客因这家快餐连锁店出现系统故障而感到沮丧，导致他们无法在全国 3,000 家门店下订单。该公司发表了道歉并请求大家耐心等待，以恢复服务。该事件凸显了食品行业对技术的依赖以及影响客户体验的潜在干扰。]]></description>
-      <guid>https://t.me/hn_summary/79484</guid>
-      <pubDate>Fri, 15 Mar 2024 09:02:52 GMT</pubDate>
+      <title>[媒体]新的在线投资骗局正在不断演变，骗子利用机器人来创建虚假经验 [...]</title>
+      <link>https://t.me/hn_summary/79520</link>
+      <description><![CDATA[由机器人驱动的新在线投资骗局模拟假专家
+新的在线投资诈骗正在不断演变，诈骗者利用机器人创建假冒专家并模拟群聊来欺骗受害者。这些骗局承诺高回报且无风险，针对个人和机构。人工智能机器人的使用使这些计划更加令人信服，也更难以揭露。这些骗局的复杂性，加上心理操纵和经济利益的诱惑，使它们成为潜在的威胁。移动设备和社交应用程序为诈骗者提供了持续接触潜在受害者的机会，使他们更容易传播欺诈计划。与监管机构和行业合作伙伴的合作对于消除这一日益严重的威胁至关重要。]]></description>
+      <guid>https://t.me/hn_summary/79520</guid>
+      <pubDate>Fri, 15 Mar 2024 14:47:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]神经网络的有效训练通常依赖于使用较低精度的数据类型[...]</title>
-      <link>https://t.me/hn_summary/79483</link>
-      <description><![CDATA[关于 PyTorch 中的混合精度训练，每个用户都应该了解什么
-神经网络的有效训练通常依赖于使用 PyTorch 中的 float16 和 bfloat16 等较低精度的数据类型。这些数据类型可以显着加快训练速度并减少内存使用，从而允许更大的模型和批次。 torch.amp 模块可以轻松利用混合精度训练，如成功的模型和加速示例所示。虽然混合精度广泛有效，但某些模型可能需要更仔细的数值精度管理。 TF32 模式和选择性应用 torch.amp 等高级选项可以进一步优化训练。总的来说，混合精度训练对于最大限度地提高现代硬件的性能至关重要，PyTorch 提供了实现它的工具。]]></description>
-      <guid>https://t.me/hn_summary/79483</guid>
-      <pubDate>Fri, 15 Mar 2024 08:52:46 GMT</pubDate>
+      <title>[媒体]IBM 首席执行官 Arvind Krishna 预计 2023 年薪资将增长 23%，达到 2039.8 万美元，而 [...]</title>
+      <link>https://t.me/hn_summary/79519</link>
+      <description><![CDATA[IBM CEO 2023 年薪酬上涨 23%，普通员工薪酬为 7% 
+IBM首席执行官Arvind Krishna预计2023年薪资将上涨23%，达到2039.8万美元，而普通员工的薪资涨幅为7%。该公司略低于其收入目标，但超出了其运营现金流目标，影响了高管支出。 IBM 通过在研发和收购方面的大量投资，向更高利润增长收入的转变得到了强调。 CEO 与员工中位数薪酬之比增至 312:1，引发潜在争议。股东将在即将举行的股东年会上就高管薪酬发表意见。包括首席财务官和首席商务官在内的其他高管也获得了丰厚的薪酬奖励。]]></description>
+      <guid>https://t.me/hn_summary/79519</guid>
+      <pubDate>Fri, 15 Mar 2024 14:32:49 GMT</pubDate>
     </item>
     <item>
-      <title>压缩是一个棘手的问题，但是如果我们可以使用圆周率的数字来传输消息呢？</title>
-      <link>https://t.me/hn_summary/79482</link>
-      <description><![CDATA[使用 pi 数字实现糟糕的压缩
-压缩是一个棘手的问题，但是如果我们可以使用圆周率的数字来传输消息呢？这个想法导致了一种独特的压缩方法，我们在 pi 中找到消息，然后发送偏移量和长度来重建它。使用 Bailey-Borwein-Plouffe 公式，我们可以计算 pi 的十六进制数字并压缩消息。然而，压缩率并不高，我们的原始消息通常比压缩版本大。尽管如此，您可以通过下载并使用它来尝试 pi 压缩，只需确保遵循许可条款即可。特别感谢 Erika 在这个项目上的合作！]]></description>
-      <guid>https://t.me/hn_summary/79482</guid>
-      <pubDate>Fri, 15 Mar 2024 07:56:28 GMT</pubDate>
+      <title>白宫无能的监管机构对美国的安全保障可悲</title>
+      <link>https://t.me/hn_summary/79518</link>
+      <description><![CDATA[白宫无能的监管机构对美国无线网络的安全保障可悲
+怀登参议员批评白宫监管机构不负责任，导致美国无线网络的安全状况堪忧。虽然立法者一直关注 TikTok 的隐私问题，但他们忽视了国家电信网络的漏洞。黑客正在利用 Diameter 和 SS7 等技术的缺陷来进行监视和数据泄露。美国联邦通信委员会未能为无线运营商制定网络安全标准，使情况更加恶化。怀登敦促 FCC、CISA 和 NSA 之间合作提高安全标准，但缺乏行动表明寻求关注和行业影响力优先于保护消费者。]]></description>
+      <guid>https://t.me/hn_summary/79518</guid>
+      <pubDate>Fri, 15 Mar 2024 14:30:44 GMT</pubDate>
     </item>
     <item>
-      <title>Google 不断要求我提供位置数据以改善连接性，这已成为日常 [...]</title>
-      <link>https://t.me/hn_summary/79481</link>
-      <description><![CDATA[Google 每天都会询问我的位置以改善连接性，即使我说没有
-谷歌不断要求我提供位置数据以改善连接性，这已经成为我每天的烦恼。尽管一再拒绝，提示仍然存在。有没有办法制止这种侵略性行为？争议在于谷歌对个人信息的不懈追求，即使用户明确拒绝同意。这是数字时代一场令人沮丧的隐私之战。]]></description>
-      <guid>https://t.me/hn_summary/79481</guid>
-      <pubDate>Fri, 15 Mar 2024 07:32:18 GMT</pubDate>
+      <title>最高法院将审理一个案件，该案件可能会改变政府与[...]的互动方式。</title>
+      <link>https://t.me/hn_summary/79517</link>
+      <description><![CDATA[最高法院将审理有关政府如何与社交媒体公司对话的案件
+最高法院将审理一个可能改变政府与社交媒体平台互动方式的案件，引发有关强迫言论的问题。在穆蒂诉密苏里州案中，问题在于政府是否可以在不违反第一修正案的情况下标记有害帖子。此案是继之前涉及社交媒体和言论自由的挑战之后发生的。结果可能会影响在线处理错误信息的方式以及平台与政府沟通的能力。多个团体已提交简报，警告该决定的广泛影响，强调对选民信息、审查制度和政府干预的担忧。预计此案将对网络言论和政府沟通产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/79517</guid>
+      <pubDate>Fri, 15 Mar 2024 14:29:41 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 推出了 OpenAI Codex，这是许多程序员面临的 XY 问题的解决方案。</title>
-      <link>https://t.me/hn_summary/79480</link>
-      <description><![CDATA[OpenAI 一劳永逸地解决了 XY 问题 
-OpenAI 推出了 OpenAI Codex，这是许多程序员面临的 XY 问题的解决方案。 Codex 旨在遵循您的指示，不带疑问或判断，使您免于与无用的专家或不相关的解释打交道。它为您的编码问题提供快速、直接的答案，消除了获得偏离主题的答复的挫败感。虽然有些结果可能看起来很简单，但 Codex 还可以根据所提供的输入提供更复杂的解决方案。它是一个旨在简化编码过程并帮助程序员专注于他们的任务而不会受到不必要的干扰的工具。]]></description>
-      <guid>https://t.me/hn_summary/79480</guid>
-      <pubDate>Fri, 15 Mar 2024 07:27:14 GMT</pubDate>
+      <title>[媒体]法国总统马克龙重申派遣军队进入[...]</title>
+      <link>https://t.me/hn_summary/79516</link>
+      <description><![CDATA[马克龙加大力度支持北约在乌克兰部署&lt; br/&gt;
+尽管遭到德国的反对和北约盟国的强烈反对，法国总统马克龙还是重申了向乌克兰派遣军队的可能性。马克龙强调面对俄罗斯的侵略需要采取强有力的行动，并表示软弱就会导致失败。这些言论引发了争议，并有可能进一步分裂北约成员国。马克龙即将与德国总理奥拉夫·肖尔茨和波兰总理唐纳德·图斯克举行会议，旨在解决乌克兰紧张局势。德国此前因拖延军事支持而受到批评，现在面临提供必要装备的压力。图斯克是乌克兰的坚定支持者，他呼吁提供更多切实的支持，而不仅仅是口头上的支持。]]></description>
+      <guid>https://t.me/hn_summary/79516</guid>
+      <pubDate>Fri, 15 Mar 2024 14:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>Unfetch.com 是一个突破性的 LLM（语言模型），能够编写和部署 [...]</title>
-      <link>https://t.me/hn_summary/79479</link>
-      <description><![CDATA[显示 HN：Unfetch.com – 编写和部署自己的 LLM立即发挥作用
-Unfetch.com 是一个开创性的 LLM（语言模型），具有能够立即编写和部署自己的功能。这个创新代理是一个公共模板，允许用户与其交互，但为了进行编辑，他们必须克隆它。 Unfetch.com 的独特之处在于其自主性，因为它无需人工干预即可生成并实现功能。这项技术有可能彻底改变我们编程和自动化的方式。立即查看 Unfetch.com，见证 AI 驱动的未来发展。]]></description>
-      <guid>https://t.me/hn_summary/79479</guid>
-      <pubDate>Fri, 15 Mar 2024 07:03:35 GMT</pubDate>
+      <title>在这篇发人深省的文章中，作者深入探讨了扩大计划的挑战[...]</title>
+      <link>https://t.me/hn_summary/79515</link>
+      <description><![CDATA[蒙特利尔问题：为什么编程语言需要风格沙皇
+在这篇发人深省的文章中，作者深入探讨了在大型项目中扩展编程语言的挑战，强调了“风格沙皇”建立和维护一致的编码标准的必要性。作者使用 Scala、C++ 和 Python 的示例，强调了不断发展的语言标准对于防止风格分歧和保持代码一致性的重要性。通过倡导语言创建者在制定和执行编码指南方面发挥更积极的作用，作者建议统一的编码风格方法可以带来更有凝聚力和更高效的编程实践。最终，本文呼吁语言社区内共同努力，在指定的“风格沙皇”的指导下建立并遵守不断发展的标准。]]></description>
+      <guid>https://t.me/hn_summary/79515</guid>
+      <pubDate>Fri, 15 Mar 2024 14:25:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
