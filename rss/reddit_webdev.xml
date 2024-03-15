@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 18:15:30 GMT</lastBuildDate>
+    <item>
+      <title>DNS传播仍然没有解决</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfjuuo/dns_propagation_still_hasnt_resolved/</link>
+      <description><![CDATA[我最近将我的主要 DNS 提供商从 a2hosting 更改为 cloudflare。我没有转移域名本身，只是转移了 DNS 服务（该域名仍然通过 a2hosting 注册）。在我进行此转移之前，域经常会返回各种错误，有时有效，有时无效（这就是为什么我决定将 DNS 提供商切换到 cloudflare 而不是使用 a2hosting 的名称服务器）。然而问题仍然没有解决。昨天该域名运行良好。前天它返回 NET::ERR_CERT_COMMON_NAME_INVALID 或 ERR_SSL_VERSION_OR_CIPHER_MISMATCH 错误。今天它返回 DNS_PROBE_FINISHED_NXDOMAIN 错误。上个月，查看 DNS 传播网站，该域似乎从未在所有甚至大多数地区正常工作。它仅在某些地区有效。  域名是 bocaschess.com。看起来可能存在一些 DNSSEC 问题？有人可以解释这些问题可能是什么吗？我对这个过程感到非常沮丧，需要在月底之前准备好网站。为什么域名有时有效，有时无效。我在这里缺少什么。    由   提交/u/jyammies  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfjuuo/dns_propagation_still_hasnt_resolved/</guid>
+      <pubDate>Fri, 15 Mar 2024 17:46:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript - 保存方法集合的最佳方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfjrqm/javascript_best_way_to_hold_a_collection_of/</link>
+      <description><![CDATA[选项 1：类 class CollectionClass { static DoSomething() { console.log(&quot;hello world&quot;; ）； CollectionClass.DoSomething();  选项 2：字典 let CollectionDict = { DoSomething: () =&gt;; console.log(“hello world”) // 或（取决于单行函数还是多行函数）DoSomething: () =&gt; { console.log(&quot;你好世界&quot;); } }; CollectionDict.DoSomething();  如果您知道其他方法，我很想听听。我个人更喜欢选项 2，但是围绕一个共同主题收集方法的正确方法是什么？ 这些方法都是静态的，它们永远不会在任何实例上使用；它们是单独的进程，但归入相似的类别。 我最近才将模板转换为更面向 OOP 的方法，因为我一直使用 OOP 并希望组织我的代码片段。我很好地整理了 PHP，但由于 JS 有几种方法可以做事情，因为它的语法可能性，我陷入困境，不确定如何继续。  &amp;# 32；由   提交/u/InvaderToast348  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfjrqm/javascript_best_way_to_hold_a_collection_of/</guid>
+      <pubDate>Fri, 15 Mar 2024 17:43:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Python 中构建实时 API 有哪些选项？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfig67/what_are_the_options_to_build_a_realtime_api_in/</link>
+      <description><![CDATA[所以我是一名 Python 开发新手。我被要求实时（某种程度上）从数据库向前端提供数据。据我了解，我们实际上并不需要以毫秒为单位更新数据，而更像是每分钟左右更新一次。到目前为止，我已经了解了 websockets 和 webhook（不知道如何实现它们，也不知道哪一个更适合用例）。这些选项好还是有更好的解决方案？如果你们能解释我应该做什么，那就太好了。另外，Python 后端主要是在 FastAPI 上完成的，所以让我知道我是否需要不同的框架或库？另外，资源密集程度最低的选项是什么？或者周期性地在循环中调用普通 API 是否更有意义？   由   提交 /u/Barack_obameme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfig67/what_are_the_options_to_build_a_realtime_api_in/</guid>
+      <pubDate>Fri, 15 Mar 2024 16:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluehost 的困境，谁是更能满足我需求的域名提供商？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfh5tq/bluehost_woes_who_is_a_better_domain_provider_for/</link>
+      <description><![CDATA[所以..场景是这样的：我在 Bluehost 上有一个域。 我已经映射了该域上的 CNAMES到 Google App Engine 网站，MX 条目指向 Zoho 帐户。 出于各种原因（另一个关于 Google 人工智能验证的令人沮丧的故事 - 他们不断任意暂停我的结算帐户并要求政府ID，即使我每次上传后），我在 DigitalOcean 上托管该网站，并决定将 Bluehost 域上的 CNAME 映射更改为新的 DigitalOcean 实例。 首先，编辑 DNS 条目在 Bluehost 上真是太痛苦了。但执行此操作后，仅传播 CNAME，而 MX 和 MX 则被传播。电子邮件的 TXT 条目则不然。该网站可以正常工作，但我不再收到电子邮件，因为 MX 和 TXT 条目在此更改后将不会传播。 当我联系支持人员时，他们告诉我需要购买网络托管从他们那里制定计划，使 DNS 条目正常工作！ （是的，wtf）。 我尝试更新域以使用 DigitalOcean 的名称服务器，但他们就是不让我添加它。该表单不断出错，表示我不拥有与名称服务器关联的域（比如 wut？！）。支持人员毫无头绪，只是不断重复我需要购买“网络托管计划”。 我想知道谁是一个好的注册商，可以将域名移至何处，在哪里进行 DNS 条目编辑和/或名称服务器更改为“正常工作”。这不应该那么难哈哈。   由   提交/u/anonperson2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfh5tq/bluehost_woes_who_is_a_better_domain_provider_for/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾德文</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfh4er/devin_ai/</link>
+      <description><![CDATA[我没有看到有人在这里谈论这个，但我觉得我们都已经熟了。 Devin Ai 是一个编码模型，并且每年都会变得更好。这是否意味着几年后软件工程师的需求量将会大大减少？ 1个人可以在短时间内完成10个人的工作。即时工程师不可能达到今天的水平。   由   提交/u/Plastic_Challenge_51   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfh4er/devin_ai/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我每天醒来都知道新的 JS 框架/库/运行时已经出来了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfgw73/i_wake_up_every_day_knowing_that_a_new_js/</link>
+      <description><![CDATA[首先是 Bun，现在是 WinterJS，然后是 AutumnJS、SpringJS、SummerJS   由   提交/u/Zafugus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfgw73/i_wake_up_every_day_knowing_that_a_new_js/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI艺术网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfgkj9/website_for_ai_art/</link>
+      <description><![CDATA[所以我正在考虑构建一个用于存储和共享 AI 艺术的网络应用程序，它的工作方式有点像 Instagram，但仅适用于 AI 图像，有吗？已经有这样的应用程序了吗？如果不是，您认为这是个好主意吗？   由   提交 /u/Asdragarth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfgkj9/website_for_ai_art/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:25:40 GMT</pubDate>
+    </item>
     <item>
       <title>你如何不再关心一个项目而成为一名 PM？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bffoy7/how_do_you_stop_caring_about_a_project_enough_to/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>大多数编写的代码真的非常糟糕吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfetf3/is_most_code_ever_written_really_really_bad/</link>
-      <description><![CDATA[我最近才开始涉足这一领域，所以我不确定我是否真的很不幸，或者事情是否就是这样。我们说的是混乱，没有干，没有固体，什么都没有。 🤣 别误会我的意思，我很清楚我自己的代码有多么蹩脚，只是想知道您在深入研究现有代码库时是否有类似的经历。   由   提交 /u/Accomplished_Cup1513   [链接] [评论]]]></description>
+      <description><![CDATA[我最近才开始涉足这一领域，所以我不确定我是否真的很不幸，或者事情是否就是这样。我们说的是混乱，没有干，没有固体，什么都没有。 🤣 别误会我的意思，我很清楚我自己的代码有多糟糕，只是想知道您在深入研究现有代码库时是否有类似的经历。   由   提交 /u/Accomplished_Cup1513   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfetf3/is_most_code_ever_written_really_really_bad/</guid>
       <pubDate>Fri, 15 Mar 2024 14:09:28 GMT</pubDate>
     </item>
@@ -36,7 +85,7 @@
     <item>
       <title>我正在为我的业务开发一个单页网站，我应该如何与开发人员正确设置它，以便将来进行更多搜索引擎优化？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfd9ve/i_am_getting_a_onepager_site_developed_for_my/</link>
-      <description><![CDATA[本月我将开发一款单页程序，我们专注于将其用于某些主页功能，以增强某些帐户的入门功能。这是目前对我来说最好、最实用的选择，但它不会有搜索引擎优化，因为这是一个更高的层次……我如何确保我正在设置这个单页浏览器，具有正确的搜索引擎优化范围和我可以的其他功能将来用得着吗？我应该向开发人员询问并确保什么？我自己能做什么？谢谢    由   提交 /u/feodortwostoveski   [链接] [评论]]]></description>
+      <description><![CDATA[本月我将开发一款单页程序，我们专注于将其用于某些主页功能，以增强某些帐户的入门功能。这是目前对我来说最好、最实用的选择，但它不会有 SEO，因为这是一个更高的层次……我如何确保我正在设置这个单页浏览器，具有正确的 SEO 范围和我可以的其他功能将来用得着吗？我应该向开发人员询问并确保什么？我自己能做什么？谢谢    由   提交 /u/feodortwostoveski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfd9ve/i_am_getting_a_onepager_site_developed_for_my/</guid>
       <pubDate>Fri, 15 Mar 2024 12:53:55 GMT</pubDate>
     </item>
@@ -57,58 +106,9 @@
     <item>
       <title>当网站托管在 AWS 上时，将 AWS 列为“我们合作的品牌”是否常见？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfd1xq/is_it_common_to_list_aws_among_the_brands_weve/</link>
-      <description><![CDATA[我看到越来越多的网站通过在“我们合作的品牌”中列出他们的工具堆栈来做到这一点。我认为如果您只有 2 到 3 个品牌并且需要更多品牌来填补空白，那么它会很有用。   由   提交/u/phatangus  [链接] [评论]]]></description>
+      <description><![CDATA[我发现越来越多的网站通过在“我们合作的品牌”中列出他们的工具堆栈来做到这一点。我认为如果您只有 2 到 3 个品牌并且需要更多品牌来填补空白，那么它会很有用。   由   提交/u/phatangus  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfd1xq/is_it_common_to_list_aws_among_the_brands_weve/</guid>
       <pubDate>Fri, 15 Mar 2024 12:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>你还在使用 Photoshop 进行网页设计吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfbhx9/yall_still_use_photoshop_for_webdesign/</link>
-      <description><![CDATA[标题。如果没有，为什么？你用什么？ 编辑： 谢谢你们，会研究Ligma，哎呀我是说Figma   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfbhx9/yall_still_use_photoshop_for_webdesign/</guid>
-      <pubDate>Fri, 15 Mar 2024 11:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 更改滚动条的背景颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfb7wc/how_to_change_background_color_on_scroll_with/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]＆#32;更改滚动上的背景颜色[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfb7wc/how_to_change_background_color_on_scroll_with/</guid>
-      <pubDate>Fri, 15 Mar 2024 10:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您生活中的哪些部分已实现自动化？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfawz4/what_parts_of_your_life_have_you_automated/</link>
-      <description><![CDATA[例如：我现在正在寻找房子，并构建了一个脚本来抓取符合我的标准的房屋的住房地点。然后，新列表会通过 Slack 向我发送消息。 我还有一个脚本，可以检查我的 YouTube 播放列表中是否有我最喜欢的歌曲。如果添加了新视频，脚本会将其转换为 mp3 并将其存储在我的电脑上。 还有其他人使用这样的酷自动化功能吗？   由   提交 /u/karen_jd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfawz4/what_parts_of_your_life_have_you_automated/</guid>
-      <pubDate>Fri, 15 Mar 2024 10:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些类型的英雄部分被称为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf9ux1/what_are_these_types_of_hero_sections_called/</link>
-      <description><![CDATA[      这些有名字吗？我想查找示例，但我不知道如何称呼它们。 我尝试过“图片拼贴”和“网格”以及这些行周围的内容，但无济于事 https://preview.redd.it/y7pdu6xoygoc1.png?width=1410&amp;format=png&amp;auto=webp&amp;s=2173f825058c36d759ff04eaf5f367d2d806585e   由   提交/u/blunt_bear  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf9ux1/what_are_these_types_of_hero_sections_called/</guid>
-      <pubDate>Fri, 15 Mar 2024 09:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将数据库从 PlanetScale 迁移到 Neon.tech</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf9r2w/how_i_migrated_my_db_from_planetscale_to_neontech/</link>
-      <description><![CDATA[ 由   提交 /u/kitsunekyo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf9r2w/how_i_migrated_my_db_from_planetscale_to_neontech/</guid>
-      <pubDate>Fri, 15 Mar 2024 09:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网站中实施谷歌日历的最简单方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf9hny/what_is_the_easiest_way_to_implement_google/</link>
-      <description><![CDATA[大家好， 寻求一些有关将 Google 日历合并到我的网站中进行预约安排的指导。关于最佳方法有什么建议吗？ 具体：  集成：我应该选择 Google Calendar API 还是使用 iframe 嵌入它？  此外，我的目标是让用户仅查看日历上的可用时间段，而无法访问其他约会的详细信息。有关实现此目标的任何建议吗？ 提前感谢您的意见！   由   提交 /u/mostafaLaravel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf9hny/what_is_the_easiest_way_to_implement_google/</guid>
-      <pubDate>Fri, 15 Mar 2024 08:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以将我的 netlify 和 sveltekit vercel 网站合并到一个自定义域中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bf9dbj/is_it_possible_to_merge_my_netlify_and_sveltekit/</link>
-      <description><![CDATA[嘿，我在 netlify 上有一个页面，使用带有 index.html、css、json 和所有基础知识的自定义域。  然后我在 vercel 上有一个使用 Sveltekit 的网站，该网站没有 index.html，但它在那里部署并运行得很好。 我想使用相同的两者的域名并在 netlify 或 vercel 上合并网站（以允许的为准）。 Sveltekit 网站将充当网站的“主页”。它将链接到 netlify 页面上的各个页面，同时删除 netlify 上的 index.html 功能并让 Sveltekit 网站接管该滚动。  如果这是唯一的方法，他们的托管可以在两个提供商上保持分离。如果有任何问题就问吧。我该如何解决这个问题？ 提前非常感谢您   由   提交/u/yayamane  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bf9dbj/is_it_possible_to_merge_my_netlify_and_sveltekit/</guid>
-      <pubDate>Fri, 15 Mar 2024 08:48:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
