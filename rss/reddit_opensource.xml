@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 15 Mar 2024 06:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 09:11:56 GMT</lastBuildDate>
+    <item>
+      <title>终端生成 Shell</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bf9low/terminal_generative_shell/</link>
+      <description><![CDATA[大家好，我创建了这个开源应用程序，旨在通过将人工智能集成到工作流程中来优化命令行体验。该项目是开源的，不需要第三方连接、支付 API 费用等。您拥有人工智能。 https://www.producthunt.com/posts/warpy-terminal -生成外壳   由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bf9low/terminal_generative_shell/</guid>
+      <pubDate>Fri, 15 Mar 2024 09:05:26 GMT</pubDate>
+    </item>
     <item>
       <title>MyFitnessPal FOSS 的替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bexzcv/myfitnesspal_foss_alternative/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我很好奇是否有人遇到过任何适用于小型机械店的自托管/开源软件或解决方案，这些软件或解决方案能够执行诸如允许存储和创建发票、跟踪车辆及其维修状态之类的操作（也可能能够）从邮件服务器向客户发送有关更新的电子邮件）。零件库存管理等。如果可能的话，我更喜欢在我自己的 Proxmox 环境中自行托管它。我从事 IT 工作，但我不是任何程序员，仅供参考。谢谢！   由   提交/u/Computermaster26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdt73f/open_source_mechanic_software/</guid>
       <pubDate>Wed, 13 Mar 2024 14:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚开源了一个用 Svelte + Sveltekit 制作的设计系统管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bdsybz/just_opensourced_a_design_system_manager_made/</link>
-      <description><![CDATA[我想分享一个我过去几个月一直在从事的项目，并且刚刚将其开源。 它是一个免费的 Web 应用程序，用于创建、管理和分发设计令牌。您可以创建设计系统、添加组和设计令牌，并将它们导出为代码。 它具有一些很酷的功能：  从模板启动组和设计系统。 批量编辑令牌。 别名令牌。 阴影生成器。  支持不同的主题。 将令牌导出到 CSS、Less、SCSS、JSON、Tailwind 配置等！  应用程序 URL： https://token-base.com 仓库网址：https://github.com/mateoroldos/tokenbase 目前仅在桌面上可用。它是一个编码+UI设计的工具，并且这两项任务主要在桌面上完成。将所有信息都放入较小的屏幕中也是不可能的。 我们很乐意接受意见和合作！    由   提交 /u/Total-Sheepherder251    reddit.com/r/opensource/comments/1bdsybz/just_opensourced_a_design_system_manager_made/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bdsybz/just_opensourced_a_design_system_manager_made/</guid>
-      <pubDate>Wed, 13 Mar 2024 14:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
