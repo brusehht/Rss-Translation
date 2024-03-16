@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 00:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 03:13:30 GMT</lastBuildDate>
+    <item>
+      <title>如何禁用选择文本和万无一失的方法来禁用右键单击/复制/粘贴/剪切？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfw4m0/how_to_disable_selecting_text_and_foolproof_way/</link>
+      <description><![CDATA[大家好， 我想知道如何禁止某人按照 此网站。  该网站的开发人员还禁用了照片的右键单击功能，你只能固定它们，但我可以通过禁用 JavaScript 来解决这个问题。不，我并不是想窃取她的内容，最初是从 Youtube 定向到该网站寻找甜菜鹰嘴豆泥食谱（对于那些好奇的人来说，结果很棒），但后来我想在谷歌上搜索一种调味品，发现发现我不能只选择文本并右键单击进行搜索。 所以，根据问题，我如何在我的博客上实现此功能（即使在我禁用 JavaScript 后这仍然有效，是的，我重复这一点是为了额外强调）？而且，即使在禁用 JavaScript 后，我​​怎样才能阻止人们复制我的照片。 提前致谢！   由   提交/u/Full_Eye7824   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfw4m0/how_to_disable_selecting_text_and_foolproof_way/</guid>
+      <pubDate>Sat, 16 Mar 2024 02:57:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node.js 作为 wasm 模块，静态页面上的全栈。如今，Webdev 需要变得非常疯狂。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bftv0d/nodejs_as_wasm_module_fullstack_on_a_static_page/</link>
+      <description><![CDATA[https://allyoucaneat.robeert.com/    由   提交/u/pucyta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bftv0d/nodejs_as_wasm_module_fullstack_on_a_static_page/</guid>
+      <pubDate>Sat, 16 Mar 2024 01:03:34 GMT</pubDate>
+    </item>
     <item>
       <title>你是在第一个括号之前还是之后换行？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bftdsz/do_you_line_break_before_or_after_first/</link>
-      <description><![CDATA[我总是在不同的代码库中看到这两种在开括号之前或之后打断的方式。  function helloReddit() { if (stuff) { // 我们做到了 } } function helloReddit () { if (stuff) { // 耶！ } }  第一个更受开始使用 JS 编码的开发人员欢迎，第二个则更受使用 C 编码的开发人员欢迎。这有什么好处？您使用/喜欢哪个，为什么？   由   提交 /u/CultivatorX   [链接] [评论]]]></description>
+      <description><![CDATA[我总是在不同的代码库中看到这两种在打开brakets*之前或之后进行中断的方式。  function helloReddit() { if (stuff) { // 我们做到了 } } function helloReddit () { if (stuff) { // 耶！ } }  第一个更受开始使用 JS 编码的开发人员欢迎，第二个则更受使用 C 编码的开发人员欢迎。这有什么好处？您使用/喜欢哪个，为什么？   由   提交 /u/CultivatorX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bftdsz/do_you_line_break_before_or_after_first/</guid>
       <pubDate>Sat, 16 Mar 2024 00:41:20 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>uBlock 和 gtag 出现问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfqyf7/trouble_with_ublock_and_gtag/</link>
-      <description><![CDATA[为了帮助跟踪转化，我们将用户的 gtag client_id 存储在数据库中。前几天我们遇到了一个错误，用户信息无法加载，事实证明这是因为我添加了 gtag client_id 检查和存储，如果 uBlock 处于打开状态，它会在检查 window.gtag 时无限期挂起。说实话，我对 gtag 或直接使用 window 不太有经验，但这是我的 next.js 代码，我在其中添加了超时来解决挂起问题。 ​ 问题是，现在如果有人打开了广告拦截器，则需要等待 1 秒才能在我们的网站上执行任何操作。而且它感觉真的很随意，我希望有一些愚蠢的东西我可以在这里更改以立即检查（一旦 gtag 尝试加载）它是否可用：  function getClientId(timeout : 数字 = 1000): Promise&lt;字符串 |未定义&gt; { return new Promise((resolve) =&gt; { let returned = false if (typeof window.gtag === &#39;function&#39;) { window.gtag(&#39;get&#39;, process.env.NEXT_PUBLIC_GA_ID!, &#39;client_id&#39;, ( clientId) =&gt; {resolved = true resolve(clientId) }) } setTimeout(() =&gt; { if (!resolved) { console.warn(&#39;检索客户端 ID 时超时&#39;)resolve(undefined) } },超时) }) }  有什么想法吗？   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
+      <description><![CDATA[为了帮助跟踪转化，我们将用户的 gtag client_id 存储在数据库中。前几天我们遇到了一个错误，用户信息无法加载，事实证明这是因为我添加了 gtag client_id 检查和存储，如果 uBlock 处于打开状态，它会在检查 window.gtag 时无限期挂起。说实话，我对 gtag 或直接使用 window 不太有经验，但这是我的 next.js 代码，我在其中添加了超时来解决挂起问题。 ​ 问题是，现在如果有人打开了广告拦截器，则需要等待 1 秒才能在我们的网站上执行任何操作。而且它感觉真的很随意，我希望有一些愚蠢的东西我可以在这里更改以立即检查（一旦 gtag 尝试加载）它是否可用：  function getClientId(timeout : 数字 = 1000): Promise&lt;字符串 |未定义&gt; { return new Promise((resolve) =&gt; { let returned = false if (typeof window.gtag === &#39;function&#39;) { window.gtag(&#39;get&#39;, process.env.NEXT_PUBLIC_GA_ID!, &#39;client_id&#39;, ( clientId) =&gt; {resolved = trueresolve(clientId) }) } setTimeout(() =&gt; { if (!resolved) { console.warn(&#39;检索客户端 ID 时超时&#39;)resolve(undefined) } },超时) }) }  有什么想法吗？   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfqyf7/trouble_with_ublock_and_gtag/</guid>
       <pubDate>Fri, 15 Mar 2024 22:51:48 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>正在寻找一项服务来帮助我将一些网站从旧 VPS 转移到共享主机</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfqjsr/looking_for_a_service_to_help_me_transfer_a_few/</link>
-      <description><![CDATA[长话短说 - 我有一个 VPS，托管着一些流量不大的小型网站，但这些网站对于依赖这些网站的小型企业。有一家比萨饼店、一家婚礼摄影师、一个当地社区网站（想想 Nextdoor，除非他们不想使用 Nextdoor）、几个摇滚乐队等。总共七个域。我曾经热衷于做自由网络工作，尽管对 Linux 的经验为零，但我决定摆脱共享主机的束缚，并通过 Linode 运行我自己的 VPS。多年来一切都很顺利，我学到了很多关于 Linux、Apache 等的知识。  但后来我有了孩子，我在真正的工作中晋升到了管理职位，这需要我更多的时间。它已经成为我无法再融入我生活的东西了。所有站点都是用 Drupal 构建的。我使用 Drush 让它们至少在安全方面保持最新状态，但事情正在崩溃。我遇到了越来越多的错误和问题，需要占用太多的个人带宽来进行故障排除。我需要将它们全部转移到更稳定的地方，这样就不需要太多的保姆。 我希望找到一项服务，可以作为我与他们一起注册的交换条件，提供帮助我转移了几个 Drupal 网站，并协助处理所有 DNS 内容以及其中涉及的所有其他废话。我正忙于其他事情，感觉自己一个人完成的任务是一项艰巨的任务。   由   提交 /u/wafflesareforever   [链接] [评论]]]></description>
+      <description><![CDATA[长话短说 - 我有一个 VPS，托管着一些流量不大的小型网站，但这些网站对于依赖这些网站的小型企业。有一家比萨饼店、一家婚礼摄影师、一个当地社区网站（想想 Nextdoor，除非他们不想使用 Nextdoor）、几个摇滚乐队等。总共七个域。我曾经热衷于做自由网络工作，尽管对 Linux 的经验为零，但我决定摆脱共享主机的束缚，并通过 Linode 运行我自己的 VPS。多年来一切都很顺利，我学到了很多关于 Linux、Apache 等的知识。  但后来我有了孩子，我在真正的工作中晋升到了管理职位，这需要我更多的时间。它已经成为我无法再融入我生活的东西了。所有站点都是用 Drupal 构建的。我使用 Drush 让它们至少在安全方面保持最新状态，但事情正在崩溃。我遇到了越来越多的错误和问题，需要占用太多的个人带宽来进行故障排除。我需要将它们全部转移到更稳定的地方，这样就不需要太多的保姆。 我希望找到一项服务，可以作为我与他们一起注册托管的交换条件，提供帮助我转移了几个 Drupal 网站，并协助处理所有 DNS 内容以及其中涉及的所有其他废话。我正忙于其他事情，感觉自己一个人完成的任务是一项艰巨的任务。   由   提交 /u/wafflesareforever   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfqjsr/looking_for_a_service_to_help_me_transfer_a_few/</guid>
       <pubDate>Fri, 15 Mar 2024 22:34:05 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[作为标题。我知道这听起来很愚蠢，但我使用 firebase 是为了方便，现在它试图“保护我”禁止我使用 axios 向我刚开始学习 aws 的朋友构建的后端服务器发送 HTTP 请求。似乎 aws 还提供了一种提供 HTTPS api 的方法，但我们希望避免任何成本。任何想法？由于这个玩具项目的限制，我想与 Firebase 说再见。如果我们有一些免费的后端托管以及易于设置的 HTTPS，那就太好了。   由   提交/u/rainning0513  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bflpec/any_https_web_hosting_that_supports_making_http/</guid>
       <pubDate>Fri, 15 Mar 2024 19:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想使用网页抓取来备份我的 Pinterest 个人资料？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfl5s5/i_want_to_back_up_my_pinterest_profile_using_web/</link>
-      <description><![CDATA[所以，我已经使用 Pinterest 大约 6 年了，但我失去了对该平台的感觉，并且更频繁地使用 Reddit 或 Instagram 。我想在永久删除我的帐户之前备份我的整个个人资料，从 Pin 图到发布所有内容。 Gemini（谷歌的人工智能）建议我使用网页抓取。我想知道它是如何工作的以及可能吗？ 谢谢   由   提交/u/TheDeadGuy_00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfl5s5/i_want_to_back_up_my_pinterest_profile_using_web/</guid>
-      <pubDate>Fri, 15 Mar 2024 18:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS传播仍然没有解决</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfjuuo/dns_propagation_still_hasnt_resolved/</link>
-      <description><![CDATA[我最近将我的主要 DNS 提供商从 a2hosting 更改为 cloudflare。我没有转移域名本身，只是转移了 DNS 服务（该域名仍然通过 a2hosting 注册）。在我进行此转移之前，域经常会返回各种错误，有时有效，有时无效（这就是为什么我决定将 DNS 提供商切换到 cloudflare 而不是使用 a2hosting 的名称服务器）。然而问题仍然没有解决。昨天该域名运行良好。前天它返回 NET::ERR_CERT_COMMON_NAME_INVALID 或 ERR_SSL_VERSION_OR_CIPHER_MISMATCH 错误。今天它返回 DNS_PROBE_FINISHED_NXDOMAIN 错误。上个月，查看 DNS 传播网站，该域似乎从未在所有甚至大多数地区正常工作。它仅在某些地区有效。  域名是 bocaschess.com。看起来可能存在一些 DNSSEC 问题？有人可以解释一下这些问题可能是什么吗？我对这个过程感到非常沮丧，需要在月底之前准备好网站。为什么域名有时有效，有时无效。我在这里缺少什么。    由   提交/u/jyammies  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfjuuo/dns_propagation_still_hasnt_resolved/</guid>
-      <pubDate>Fri, 15 Mar 2024 17:46:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

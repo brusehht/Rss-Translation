@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 16 Mar 2024 00:46:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 03:12:56 GMT</lastBuildDate>
     <item>
       <title>给 AE 博士叙述性访谈的建议</title>
       <link>https://www.reddit.com/r/editors/comments/1bfqg33/advice_for_a_doc_ae_interviewing_for_narrative/</link>
@@ -15,21 +15,21 @@
     <item>
       <title>试图让 AAF 做 OMF 所做的事情？</title>
       <link>https://www.reddit.com/r/editors/comments/1bfo441/trying_to_get_an_aaf_to_do_what_an_omf_has_done/</link>
-      <description><![CDATA[大家好， 在确定正确的音频导出时遇到一些问题。我正在使用 Davinci 进行编辑，但我主要使用 Premiere Pro。编辑项目时，我通过 Premiere 导出 OMF 并将其发送到音频混音器以调平音频并清理它以进行最终混音/母带。 我正在尝试使用此编辑器发送他的音频用于音频混合的项目，但 Resolve 没有发送 OMF 的选项。我们在使用 AAF 预设的 Protools 时遇到了一些问题。该音频将在 AAF 中混合，但它似乎没有提供与 OMF 相同的选项。 · 在整个过程的不同片段中，音频经常与 H.264 参考视频失去同步。视频。 · 没有像 OMF 那样可以拖动波形音频并延长时间或时间轴中的音乐剪辑的选项 · 音频似乎合并在一个轨道上，而不是每个轨道都是自己的 如果有人能够深入了解 Protools 使用哪些导出设置，从而能够调整音乐或扩展剪辑，而无需发送原始音频文件，我们将不胜感激。我们本质上是在尝试平衡 HOST 1 音频、HOST 2 音频、Foley 音频和音乐音频，所有这些都作为各自独立的轨道，并且能够在任一方向上推/拉任一部分几秒钟的覆盖范围，以填补盲点。 非常感谢任何帮助或见解。   由   提交 /u/reelwestcoast   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 在确定正确的音频导出时遇到一些问题。我正在使用 Davinci 进行编辑，但我主要使用 Premiere Pro。编辑项目时，我通过 Premiere 导出 OMF 并将其发送到音频混音器以调平音频并清理它以进行最终混音/母带。 我正在尝试使用此编辑器发送他的音频用于音频混合的项目，但 Resolve 没有发送 OMF 的选项。我们在使用 AAF 预设的 Protools 时遇到了一些问题。该音频将在 AAF 中混合，但它似乎没有提供与 OMF 相同的选项。 · 在整个过程的不同片段中，音频经常与 H.264 参考视频失去同步。视频。 · 没有像 OMF 那样可以拖动波形音频并延长时间或时间线中的音乐剪辑的选项 · 音频似乎合并在一个轨道上，而不是每个轨道都是自己的 如果有人能够深入了解 Protools 使用哪些导出设置，从而能够调整音乐或扩展剪辑，而无需发送原始音频文件，我们将不胜感激。我们本质上是在尝试平衡 HOST 1 音频、HOST 2 音频、Foley 音频和音乐音频，所有这些都作为各自独立的轨道，并且能够在任一方向上推/拉任一部分几秒钟的覆盖范围，以填补盲点。 非常感谢任何帮助或见解。   由   提交 /u/reelwestcoast   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bfo441/trying_to_get_an_aaf_to_do_what_an_omf_has_done/</guid>
       <pubDate>Fri, 15 Mar 2024 20:48:59 GMT</pubDate>
     </item>
     <item>
       <title>伽玛偏移 - 快门编码器</title>
       <link>https://www.reddit.com/r/editors/comments/1bfnp7c/gamma_shift_shutter_encoder/</link>
-      <description><![CDATA[素材 - Canon C70 - CLOG3 - Cinema Gamut 在 Premiere 中工作，使用 Shutter Encoder 将素材转码为 ProResLT 并获得相当显着的效果伽马位移。 ProResLT 位于左侧，原始相机文件位于右侧。还附有相同视图的范围。未应用色彩校正。我缺少什么设置吗？伽马设置和色彩空间选项没有任何改变。  https://imgur.com/a/AAB7dSp  ​ ;   由   提交/u/Deputy-Dewey   [链接] [评论]]]></description>
+      <description><![CDATA[素材 - Canon C70 - CLOG3 - Cinema Gamut 在 Premiere 中工作，使用 Shutter Encoder 将素材转码为 ProResLT 并获得相当显着的效果伽马位移。 ProResLT 位于左侧，原始相机文件位于右侧。还附有相同视图的范围。未应用色彩校正。我缺少什么设置吗？伽玛设置和色彩空间选项没有改变任何东西。  https://imgur.com/a/AAB7dSp  ​ ;   由   提交/u/Deputy-Dewey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bfnp7c/gamma_shift_shutter_encoder/</guid>
       <pubDate>Fri, 15 Mar 2024 20:30:51 GMT</pubDate>
     </item>
     <item>
       <title>从 Premiere Productions 恢复到单个 Premiere 项目工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1bflozx/reverting_from_premiere_productions_to_a_singe/</link>
-      <description><![CDATA[大家好， 我刚刚为纪录片系列剪辑了四集中的三集，为此我使用了 Premiere Productions 工作流程。我正要转移到另一个项目，而传入的编辑器在出现一些初期问题后似乎非常抵制使用 Productions，并希望将最后一个 ep 剪切为独立的项目文件，完全脱离 Productions 工作流程。 就上下文而言，我努力研究制作部门将工作拆分为多个项目文件的能力，因此大多数项目文件仅包含一种序列或一种媒体（每集的每次编辑一个项目文件，每个采访串接一个项目文件，一个用于每个采访串接的项目文件）声音，每种 B-roll 一个，库存一个，等等）。 另外，对于上下文，我已经对第 4 集的大部分内容进行了粗略的组装。新任编辑的计划是分离保留此装配序列的项目文件，并根据需要从其他项目文件导入序列 - 因此为最后一集有机地重建项目组织。 抛开学习的智慧不谈现有的制作工作流程（我已经在这方面向他们提供了建议），如果他们以这种方式将制作工作流程迁移回单个项目文件，是否存在“破坏”编辑的风险？我无法通过网上的搜索来预见任何情况，但我想检查一下这里是否有人有过任何不好的经历，或者是否比我对潜在的并发症有更深入的技术了解。 很高兴回答任何进一步的问题。预先感谢！ 编辑：不幸的是，我不知道传入编辑器正在处理的任何规格，但我在 Mac Studio M1 Max (32GB) 上的 Premiere Pro 24.1 中剪切了我的 eps    由   提交 /u/JacquesdeVilliers   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我刚刚为纪录片系列剪辑了四集中的三集，为此我使用了 Premiere Productions 工作流程。我即将转移到另一个项目，而传入的编辑器在出现一些初期问题后似乎非常抵制使用 Productions，并希望将最后一个 EP 作为独立的项目文件进行剪切，完全脱离 Productions 工作流程。 就上下文而言，我努力研究制作部门将工作拆分为多个项目文件的能力，因此大多数项目文件仅包含一种序列或一种媒体（每集的每次编辑一个项目文件，每个采访串接一个项目文件，一个用于每个采访串接的项目文件）声音，每种 B-roll 一个，库存一个，等等）。 另外，对于上下文，我已经对第 4 集的大部分内容进行了粗略的组装。新任编辑的计划是分离保留此装配序列的项目文件，并根据需要从其他项目文件导入序列 - 因此为最后一集有机地重建项目组织。 抛开学习的智慧不谈现有的制作工作流程（我已经在这方面向他们提供了建议），如果他们以这种方式将制作工作流程迁移回单个项目文件，是否存在“破坏”编辑的风险？通过网上浏览我无法预见到任何问题，但我想检查一下这里是否有人有过任何不好的经历，或者是否比我对潜在的并发症有更深入的技术了解。 很高兴回答任何进一步的问题。提前致谢！ 编辑：不幸的是，我不知道传入编辑器正在处理的任何规格，但我在 Mac Studio M1 Max (32GB) 上的 Premiere Pro 24.1 中剪切了我的 eps    由   提交 /u/JacquesdeVilliers   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bflozx/reverting_from_premiere_productions_to_a_singe/</guid>
       <pubDate>Fri, 15 Mar 2024 19:05:07 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Storyblocks 版权问题：寻求解决方案</title>
       <link>https://www.reddit.com/r/editors/comments/1bfapi2/storyblocks_copyright_issues_seeking_solutions/</link>
-      <description><![CDATA[您好，我有一个问题......我可以从哪里找到客户 YouTube 视频的音乐（bgm）而不会遇到版权问题？即使我通过订阅使用 Storyblocks 中的音乐，版权声明仍然会出现，给客户带来麻烦。删除这些声明对于客户来说是一件令人头疼的事情。我该如何解决这个问题？有替代的订阅网站吗？  另外，我需要与客户端共享音乐许可证吗？   由   提交/u/sadekAD277   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我有一个问题......我可以从哪里找到客户 YouTube 视频的音乐（bgm）而不会遇到版权问题？即使我通过订阅使用来自 Storyblocks 的音乐，版权声明仍然会出现，给客户带来麻烦。删除这些声明对于客户来说是一件令人头疼的事情。我该如何解决这个问题？有替代的订阅网站吗？  另外，我需要与客户端共享音乐许可证吗？   由   提交/u/sadekAD277   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bfapi2/storyblocks_copyright_issues_seeking_solutions/</guid>
       <pubDate>Fri, 15 Mar 2024 10:23:43 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>作为自由职业者，你们都是如何保持身材的？</title>
       <link>https://www.reddit.com/r/editors/comments/1bf8acq/how_do_you_all_manage_to_stay_in_shape_as/</link>
-      <description><![CDATA[我刚刚度过了极其漫长的一天，我感觉自己越来越邋遢，身材越来越走形，我睡前锻炼的梦想是破碎了。整天坐着盯着电脑对我们的健康非常不利，但是当它成为我们工作的一部分并且截止日期迫在眉睫时，我们到底怎么能抽出一个小时去锻炼呢？    由   提交/u/AbbreviationsLife206   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚度过了极其漫长的一天，我感觉自己越来越邋遢，身材越来越走形，我睡前锻炼的梦想是破碎了。整天坐着盯着电脑对我们的健康非常不利，但是当它成为我们工作的一部分并且最后期限迫在眉睫时，我们到底怎么能抽出一个小时去锻炼呢？    由   提交/u/AbbreviationsLife206   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bf8acq/how_do_you_all_manage_to_stay_in_shape_as/</guid>
       <pubDate>Fri, 15 Mar 2024 07:25:20 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>我必须交付我的第一个广播项目，我有一些问题！</title>
       <link>https://www.reddit.com/r/editors/comments/1beyrrb/i_have_to_deliver_my_first_project_for_broadcast/</link>
-      <description><![CDATA[编辑：这是一个体育节目 我的制作人说他们需要两个 MXF 导出。 （干净和肮脏的音频通道）？ 一个有 4 个通道（A1/2 - 立体声，A3/4 - 混合减） 还有一个有 8 个通道（A1 - 宣布、A2 - SOT、A3/4 - NAT、A5/6- SFX、A7/8 -MX） 我不擅长多通道任何东西。我是在一家代理机构做的，然后完全忘记了。这一直是一种痛苦。我需要一些帮助。 我已经编辑了项目，所以我需要返回并将它们复制粘贴到为此类事情设置的新序列中。 是这样吗？简单地说，开始一个新序列，然后在“轨道”选项卡下，点击多通道，然后分别点击 4（或 8），然后确保音轨名称的数量与通道的数量一致？ 轨道类型应该是什么？ 另外，为什么 4 通道导出是 A1/2 - 立体声，A3/4 -mix minus？） 我有更多的音频不仅仅是 4 个通道，所以我假设我已经导出的音频符合这个？ mix-minus 是什么意思？ 很抱歉提出所有问题，我正在与我的制作人讨论，所以这真的很有帮助。谢谢 ​ 规格： Premiere Pro 24.1.0 M2 Max Macbook Pro 96GB RAM 影片规格： Canon、MXF、MOV、MP4。    由   提交 /u/futurespacecadet   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：这是一个体育节目 我的制作人说他们需要两个 MXF 导出。 （干净和肮脏的音频通道）？ 一个有 4 个通道（A1/2 - 立体声，A3/4 - 混合减） 还有一个有 8 个通道（A1 - 宣布，A2 - SOT，A3/4 - NAT，A5/6-SFX，A7/8 -MX） 我不擅长多通道任何东西。我是在一家代理机构做的，然后完全忘记了。这一直是一种痛苦。我需要一些帮助。 我已经编辑了项目，所以我需要返回并将它们复制粘贴到为此类事情设置的新序列中。 是这样吗？简单地说，开始一个新序列，然后在“轨道”选项卡下，点击多通道，然后分别点击 4（或 8），然后确保音轨名称的数量与通道的数量一致？ 轨道类型应该是什么？ 另外，为什么 4 通道导出是 A1/2 - 立体声，A3/4 -mix minus？） 我有更多的音频不仅仅是 4 个通道，所以我假设我已经导出的音频符合这个？ mix-minus 是什么意思？ 很抱歉提出所有问题，我正在与制作人讨论，所以这真的很有帮助。谢谢 ​ 规格： Premiere Pro 24.1.0 M2 Max Macbook Pro 96GB RAM 影片规格： Canon、MXF、MOV、MP4。    由   提交 /u/futurespacecadet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1beyrrb/i_have_to_deliver_my_first_project_for_broadcast/</guid>
       <pubDate>Thu, 14 Mar 2024 22:59:17 GMT</pubDate>
     </item>
