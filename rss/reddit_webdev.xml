@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 03:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 06:13:59 GMT</lastBuildDate>
+    <item>
+      <title>React Native PanGestureHandler 测试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfze8e/react_native_pangesturehandler_test/</link>
+      <description><![CDATA[       由   提交/u/NuGGGzGG   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfze8e/react_native_pangesturehandler_test/</guid>
+      <pubDate>Sat, 16 Mar 2024 06:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>app.netlify.com 已关闭吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfxjy3/is_appnetlifycom_down/</link>
+      <description><![CDATA[是否有其他人在尝试连接到 app.netlify 时遇到 5XX 错误。 com？ 到目前为止我已经看过 500、502 和 503。我能够短暂登录，但暂时返回错误。   由   提交/u/Nessus1985   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfxjy3/is_appnetlifycom_down/</guid>
+      <pubDate>Sat, 16 Mar 2024 04:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>页面速度洞察不起作用 - 网址无效</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bfxczu/page_speed_insights_not_working_invalid_url/</link>
+      <description><![CDATA[嗨， 我正在将它用于我正在开发的网站，突然它返回“”无效网址”错误，检查了其他网址，同样的问题 清除缓存，尝试隐身模式，更改浏览器和网络，在其他设备上尝试，仍然没有任何结果 知道可能是什么原因造成的吗？  谢谢 3分钟后编辑：好吧，它又可以工作了，仍然想知道它是否发生在其他人身上！    由   提交/u/bitchyasshole  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bfxczu/page_speed_insights_not_working_invalid_url/</guid>
+      <pubDate>Sat, 16 Mar 2024 04:01:19 GMT</pubDate>
+    </item>
     <item>
       <title>如何禁用选择文本和万无一失的方法来禁用右键单击/复制/粘贴/剪切？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfw4m0/how_to_disable_selecting_text_and_foolproof_way/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>你是在第一个括号之前还是之后换行？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bftdsz/do_you_line_break_before_or_after_first/</link>
-      <description><![CDATA[我总是在不同的代码库中看到这两种在打开brakets*之前或之后进行中断的方式。  function helloReddit() { if (stuff) { // 我们做到了 } } function helloReddit () { if (stuff) { // 耶！ } }  第一个更受开始使用 JS 编码的开发人员欢迎，第二个则更受使用 C 编码的开发人员欢迎。这有什么好处？您使用/喜欢哪个，为什么？   由   提交 /u/CultivatorX   [链接] [评论]]]></description>
+      <description><![CDATA[我总是在不同的代码库中看到这两种在打开brakets*之前或之后进行中断的方式。  function helloReddit() { if (stuff) { // 我们做到了 } } function helloReddit () { if (stuff) { // 耶！ } }  第一个更受开始使用 JS 编码的开发人员欢迎，第二个则更受使用 C 编码的开发人员欢迎。这有什么好处？您使用/喜欢哪个？为什么？   由   提交 /u/CultivatorX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bftdsz/do_you_line_break_before_or_after_first/</guid>
       <pubDate>Sat, 16 Mar 2024 00:41:20 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>既然人工智能聊天机器人已经成为现实，还有其他人发现开发论坛变得越来越无用和烦人吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfshhk/anyone_else_finding_dev_forums_more_and_more/</link>
-      <description><![CDATA[自从使用 ChatGPT 4 和 Claude 3 以来，我几乎停止使用论坛来寻找问题的答案，部分原因是大多数问题可以通过 AI 进行评估聊天机器人，但老实说，这主要是因为人工智能实际上更加友好。我终于可以提出一个看似愚蠢的问题，并得到有助于我思考的友好答复。真正的人似乎习惯于立即尝试对你的项目做出疯狂的假设，在你的流程中钻洞，吹毛求疵，离题，提出比你所要求的信息更完整的替代技术。我发现我花更多的时间概述我做过的所有事情并捍卫为什么我处于现在的位置，而不是实际讨论问题的实质。 人工智能采用我的思维过程并尝试理解它并与我一起解决问题；虽然现代人类试图找出问题所在，并试图说服我其他方法更好，但我很愚蠢，甚至尝试按照我的方式去做是。我也不一定会责怪人们，人们只是没有足够的空间来关心一对一的教育过程。 这些天每次我最终进入论坛时，都会感到非常不舒服和麻烦，而且它提醒我我为什么这么喜欢人工智能助手。   由   提交 /u/Things-n-Such   [链接] [评论]]]></description>
+      <description><![CDATA[自从使用 ChatGPT 4 和 Claude 3 以来，我几乎停止使用论坛来寻找问题的答案，部分原因是大多数问题可以通过 AI 进行评估聊天机器人，但老实说，这主要是因为人工智能实际上更加友好。我终于可以提出一个看似愚蠢的问题，并得到有助于我思考的友好答复。真正的人似乎习惯于立即尝试对你的项目做出疯狂的假设，在你的流程中钻洞，吹毛求疵，离题，提出比你所要求的信息更完整的替代技术。我发现我花更多的时间概述我做过的所有事情并捍卫为什么我处于现在的位置，而不是实际讨论问题的实质。 人工智能采用我的思维过程并尝试理解它并与我一起解决问题；虽然现代人试图找出问题所在，并试图说服我其他方法更好，但我很愚蠢，甚至尝试按照我的方式去做是。我也不一定责怪人们，人们只是没有足够的空间来关心一对一的教育过程。 这些天每次我最终进入论坛时，都会感到非常不舒服和麻烦，而且它提醒我我为什么这么喜欢人工智能助手。   由   提交 /u/Things-n-Such   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfshhk/anyone_else_finding_dev_forums_more_and_more/</guid>
       <pubDate>Sat, 16 Mar 2024 00:00:14 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>uBlock 和 gtag 出现问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfqyf7/trouble_with_ublock_and_gtag/</link>
-      <description><![CDATA[为了帮助跟踪转化，我们将用户的 gtag client_id 存储在数据库中。前几天我们遇到了一个错误，用户信息无法加载，事实证明这是因为我添加了 gtag client_id 检查和存储，如果 uBlock 处于打开状态，它会在检查 window.gtag 时无限期挂起。说实话，我对 gtag 或直接使用 window 不太有经验，但这是我的 next.js 代码，我在其中添加了超时来解决挂起问题。 ​ 问题是，现在如果有人打开了广告拦截器，则需要等待 1 秒才能在我们的网站上执行任何操作。而且它感觉真的很随意，我希望有一些愚蠢的东西我可以在这里更改以立即检查（一旦 gtag 尝试加载）它是否可用：  function getClientId(timeout : 数字 = 1000): Promise&lt;字符串 |未定义&gt; { return new Promise((resolve) =&gt; { let returned = false if (typeof window.gtag === &#39;function&#39;) { window.gtag(&#39;get&#39;, process.env.NEXT_PUBLIC_GA_ID!, &#39;client_id&#39;, ( clientId) =&gt; {resolved = trueresolve(clientId) }) } setTimeout(() =&gt; { if (!resolved) { console.warn(&#39;检索客户端 ID 时超时&#39;)resolve(undefined) } },超时) }) }  有什么想法吗？   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
+      <description><![CDATA[为了帮助跟踪转化，我们将用户的 gtag client_id 存储在数据库中。前几天我们遇到了一个错误，用户信息无法加载，事实证明这是因为我添加了 gtag client_id 检查和存储，如果 uBlock 处于打开状态，它会在检查 window.gtag 时无限期挂起。说实话，我对 gtag 或直接使用 window 不太有经验，但这是我的 next.js 代码，我在其中添加了超时来解决挂起问题。 ​ 问题是，现在如果有人打开了广告拦截器，则需要等待 1 秒才能在我们的网站上执行任何操作。而且它感觉真的很随意，我希望有一些愚蠢的东西我可以在这里更改以立即检查（一旦 gtag 尝试加载）它是否可用：  function getClientId(timeout : 数字 = 1000): Promise&lt;字符串 |未定义&gt; { return new Promise((resolve) =&gt; { let returned = false if (typeof window.gtag === &#39;function&#39;) { window.gtag(&#39;get&#39;, process.env.NEXT_PUBLIC_GA_ID!, &#39;client_id&#39;, ( clientId) =&gt; {resolved = true resolve(clientId) }) } setTimeout(() =&gt; { if (!resolved) { console.warn(&#39;检索客户端 ID 时超时&#39;)resolve(undefined) } },超时) }) }  有什么想法吗？   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfqyf7/trouble_with_ublock_and_gtag/</guid>
       <pubDate>Fri, 15 Mar 2024 22:51:48 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>正在寻找一项服务来帮助我将一些网站从旧 VPS 转移到共享主机</title>
       <link>https://www.reddit.com/r/webdev/comments/1bfqjsr/looking_for_a_service_to_help_me_transfer_a_few/</link>
-      <description><![CDATA[长话短说 - 我有一个 VPS，托管着一些流量不大的小型网站，但这些网站对于依赖这些网站的小型企业。有一家比萨饼店、一家婚礼摄影师、一个当地社区网站（想想 Nextdoor，除非他们不想使用 Nextdoor）、几个摇滚乐队等。总共七个域。我曾经热衷于做自由网络工作，尽管对 Linux 的经验为零，但我决定摆脱共享主机的束缚，并通过 Linode 运行我自己的 VPS。多年来一切都很顺利，我学到了很多关于 Linux、Apache 等的知识。  但后来我有了孩子，我在真正的工作中晋升到了管理职位，这需要我更多的时间。它已经成为我无法再融入我生活的东西了。所有站点都是用 Drupal 构建的。我使用 Drush 让它们至少在安全方面保持最新状态，但事情正在崩溃。我遇到了越来越多的错误和问题，需要占用太多的个人带宽来进行故障排除。我需要将它们全部转移到更稳定的地方，这样就不需要太多的保姆。 我希望找到一项服务，可以作为我与他们一起注册托管的交换条件，提供帮助我转移了几个 Drupal 网站，并协助处理所有 DNS 内容以及其中涉及的所有其他废话。我正忙于其他事情，感觉自己一个人完成的任务是一项艰巨的任务。   由   提交 /u/wafflesareforever   [链接] [评论]]]></description>
+      <description><![CDATA[长话短说 - 我有一个 VPS，托管着一些流量不大的小型网站，但这些网站对于依赖这些网站的小型企业。有一家比萨饼店、一家婚礼摄影师、一个当地社区网站（想想 Nextdoor，除非他们不想使用 Nextdoor）、几个摇滚乐队等。总共七个域。我曾经热衷于做自由网络工作，尽管对 Linux 的经验为零，但我决定摆脱共享主机的束缚，并通过 Linode 运行我自己的 VPS。多年来一切都很顺利，我学到了很多关于 Linux、Apache 等的知识。  但后来我有了孩子，我在真正的工作中晋升到了管理职位，这需要我更多的时间。它已经成为我无法再融入我生活的东西了。所有站点都是用 Drupal 构建的。我使用 Drush 让它们至少在安全方面保持最新状态，但事情正在崩溃。我遇到了越来越多的错误和问题，需要占用太多的个人带宽来进行故障排除。我需要将它们全部转移到更稳定的地方，这样就不需要太多的保姆。 我希望找到一项服务，可以作为我与他们一起注册的交换条件，提供帮助我转移了几个 Drupal 网站，并协助处理所有 DNS 内容以及其中涉及的所有其他废话。我正忙于其他事情，感觉自己一个人完成的任务是一项艰巨的任务。   由   提交 /u/wafflesareforever   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfqjsr/looking_for_a_service_to_help_me_transfer_a_few/</guid>
       <pubDate>Fri, 15 Mar 2024 22:34:05 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我不经常这样做，所以我在这里遗漏了一些关键的东西，希望为那些更精通这些东西的人提供简单的答案。  好的，这是一封 html 电子邮件，它使用一个模板，该模板有自己的样式设置，用于如何布置电子邮件中的表格，所以我不想踩到其中任何一个，所以我不这样做我想要直接更改表、td、tr 等的样式。相反，我想要一个特殊的表，我可以简单地应用一个类（让我们称之为“特殊表”），我可以将其嵌入到电子邮件中有我的样式，特别是填充 5px、1px 实心白色边框（折叠）等）   由   提交 /u/astarastarastarastar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bfop38/struggling_with_this_css_lil_help/</guid>
       <pubDate>Fri, 15 Mar 2024 21:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SEO] 我有一个地图 Web 应用程序，由于地图的原因，LCP 失败。我该怎么做才能提高 mu 分数？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfnoa2/seo_i_have_a_map_web_app_thats_failing_lcp/</link>
-      <description><![CDATA[作为 POC，我添加了一个超时，在一秒后加载地图，这确实有效，但对我来说似乎有点老套。 &lt;我们的另一个想法是显示一个“欢迎面板”，隐藏地图，然后设置一个 cookie，以便重复访问者不会看到它，但爬虫总是会这样做。但我担心这对用户体验有点不友好。我还需要显示此类 cookie 的 cookie 通知吗？ 任何其他想法将不胜感激。   由   提交 /u/sateliteconstelation   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfnoa2/seo_i_have_a_map_web_app_thats_failing_lcp/</guid>
-      <pubDate>Fri, 15 Mar 2024 20:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>将“.zip”文件加载到 OpenSeadragon 的修改版本时，Firefox 和 CORS 存在 CORS 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bfn9pq/cors_problems_with_firefox_and_cors_when_loading/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bfn9pq/cors_problems_with_firefox_and_cors_when_loading/</guid>
-      <pubDate>Fri, 15 Mar 2024 20:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有支持 HTTP 请求的 HTTPS 虚拟主机吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bflpec/any_https_web_hosting_that_supports_making_http/</link>
-      <description><![CDATA[作为标题。我知道这听起来很愚蠢，但我使用 firebase 是为了方便，现在它试图“保护我”禁止我使用 axios 向我刚开始学习 aws 的朋友构建的后端服务器发送 HTTP 请求。似乎 aws 还提供了一种提供 HTTPS api 的方法，但我们希望避免任何成本。任何想法？由于这个玩具项目的限制，我想与 Firebase 说再见。如果我们有一些免费的后端托管以及易于设置的 HTTPS，那就太好了。   由   提交/u/rainning0513  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bflpec/any_https_web_hosting_that_supports_making_http/</guid>
-      <pubDate>Fri, 15 Mar 2024 19:05:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
