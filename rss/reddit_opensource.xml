@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 16 Mar 2024 06:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 09:11:10 GMT</lastBuildDate>
     <item>
       <title>有人可以推荐 github 二进制文件的 Linux 包管理器吗（例如，obtainium 等价物）？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bfpvmp/can_anybody_recommend_linux_package_managers_for/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>这是 iFrame 的 GDPR 解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1bfptzo/here_is_a_gdpr_solution_for_iframes/</link>
-      <description><![CDATA[您可以在这里找到它：https: //github.com/FOSSalyze/privacy-Friendly-iframe 嵌入针对另一个站点的  可能会产生隐私问题，并可能违反 GDPR 和类似的隐私法。我开发了这个 Web 组件作为解决方案，在  加载之前添加同意屏幕。它允许轻松定制，并且可以与其他或自定义同意来源集成。 我真的很喜欢这个小项目的结果，并决定在 MIT 许可证下发布它。它与框架无关，而且是轻量级的（压缩后大约 2KB，包括 CSS 和翻译）。 我愿意接受反馈、批评或贡献，尤其是翻译。   由   提交 /u/TimothyLGillespie   [链接] [评论]]]></description>
+      <description><![CDATA[您可以在这里找到它：https: //github.com/FOSSalyze/privacy-Friendly-iframe 嵌入针对另一个网站的  可能会产生隐私问题，并可能违反 GDPR 和类似的隐私法。我开发了这个 Web 组件作为解决方案，在  加载之前添加同意屏幕。它允许轻松定制，并且可以与其他或自定义同意来源集成。 我真的很喜欢这个小项目的结果，并决定在 MIT 许可证下发布它。它与框架无关，并且是轻量级的（压缩后大约 2KB，包括 CSS 和翻译）。 我愿意接受反馈、批评或贡献，尤其是翻译。   由   提交 /u/TimothyLGillespie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bfptzo/here_is_a_gdpr_solution_for_iframes/</guid>
       <pubDate>Fri, 15 Mar 2024 22:02:56 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Fri, 15 Mar 2024 09:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>MyFitnessPal FOSS 的替代品？</title>
+      <title>MyFitnessPal FOSS 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bexzcv/myfitnesspal_foss_alternative/</link>
       <description><![CDATA[是否有用于跟踪卡路里、扫描条形码和跟踪健身的开源应用程序？类似于 MyFitnessPal？   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bexzcv/myfitnesspal_foss_alternative/</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>纽约州：你的雇主真的拥有那么多财产吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bewotn/new_york_state_are_you_really_that_much_owned_by/</link>
-      <description><![CDATA[显然，在某些国家/地区，您不能仅在受雇时为开源项目做出贡献。  在 Stackexchange 上找到此内容：  在纽约州，您很可能是一名专业员工。专业员工没有固定的工作时间，也没有固定的工作场所。如果你和客户出去吃饭，那么你就是在工作。如果你在淋浴时想出了如何解决问题，那是属于你的雇主的。作为一名专业员工，默认情况下（这也可能出现在您的合同中）是您编写的所有软件都是属于您的雇主的雇佣作品。这种安排的盛行是 FSF 要求版权转让并要求您的雇主签字的原因之一。  这听起来绝对可怕。到底发生了什么？   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <description><![CDATA[显然，在某些国家/地区，您不能仅在受雇时为开源项目做出贡献。  在 Stackexchange 上找到此内容：  在纽约州，您很可能是一名专业员工。专业员工没有固定的工作时间，也没有固定的工作场所。如果你和客户出去吃饭，那么你就是在工作。如果你在淋浴时想出了如何解决问题，那是属于你的雇主的。作为一名专业员工，默认情况（也可能在您的合同中）是您编写的所有软件都是属于您的雇主的雇佣作品。这种安排的盛行是 FSF 要求版权转让并要求您的雇主签署的原因之一。  这听起来绝对可怕。到底发生了什么？   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bewotn/new_york_state_are_you_really_that_much_owned_by/</guid>
       <pubDate>Thu, 14 Mar 2024 21:32:25 GMT</pubDate>
     </item>
     <item>
       <title>开源并非不安全</title>
       <link>https://www.reddit.com/r/opensource/comments/1ben0og/open_source_is_not_insecure/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ben0og/open_source_is_not_insecure/</guid>
       <pubDate>Thu, 14 Mar 2024 14:51:57 GMT</pubDate>
     </item>
