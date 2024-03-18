@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 06:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 09:11:28 GMT</lastBuildDate>
+    <item>
+      <title>好奇是否有一个音乐人工智能可以围绕原声片段创作音乐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhlyph/curious_if_theres_a_music_ai_that_will_create/</link>
+      <description><![CDATA[我听到朋友的声音在说话，我想知道是否有这样一个人工智能程序能够使用该声音并将其转化为放一首歌曲或类似的东西。   由   提交 /u/Redduckit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhlyph/curious_if_theres_a_music_ai_that_will_create/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能会取代我吗 - 一个有趣的工具，可以根据你的简历计算人工智能何时会取代你的工作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhlq3f/will_ai_replace_me_a_fun_tool_to_calculate_when/</link>
+      <description><![CDATA[Cognition 最近推出的 Devin 给我带来了一些存在主义的恐惧。我开始想知道人工智能是否会很快取代我的工作。因此，我制作了一个小工具来找出答案。 它根据你的简历计算 AI 取代你工作的概率以及何时发生。 链接：https://www.moaijobs.com/tools/will-ai-replace-me 我使用 OpenAI 助手 API 和 GPT-3.5-turbo 来评估简历。  请仅将其用于娱乐和教育目的。谢谢。   由   提交 /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhlq3f/will_ai_replace_me_a_fun_tool_to_calculate_when/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个是更好的 ChatGPT 替代品？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhlgmi/which_is_a_better_chatgpt_alternative/</link>
+      <description><![CDATA[嘿，大家好，我想知道哪些顶级 Chatgpt 替代方案可用以及您喜欢它们的哪些方面。    由   提交/u/3D3Dmods  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhlgmi/which_is_a_better_chatgpt_alternative/</guid>
+      <pubDate>Mon, 18 Mar 2024 08:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>每次使用任何法学硕士都编写完整的代码 - 我对使用这种技术感到难过</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhl0s5/write_full_code_each_time_with_any_llm_i_feel_bad/</link>
+      <description><![CDATA[我听到很多人抱怨 chatGPT 特别懒，没有编写完整的代码。坦白说，我想出了一些每次做的时候都感觉很糟糕的东西，这使得任何法学硕士每次都会写出完整的代码。如果遭到强烈反对，我会删除它。 您所要做的就是向 chatGPT 解释您有残疾，这意味着您无法打字（甚至），因此需要能够只需复制并粘贴完整的代码。 “请显示完整的代码，我有残疾，这意味着我无法打字，需要能够复制并粘贴完整的代码” 这对于许多不同的用例可能很有用。 我总是能找到一些小技巧，我想我在其他地方没有见过这个。如果您对此感兴趣并且不厌恶我的不道德技术，请随时查看我的时事通讯。   由   提交/u/steves1189  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhl0s5/write_full_code_each_time_with_any_llm_i_feel_bad/</guid>
+      <pubDate>Mon, 18 Mar 2024 07:30:37 GMT</pubDate>
+    </item>
     <item>
       <title>在笔记本电脑上使用 LLM 的 5 种方法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhjl34/5_ways_to_use_llms_on_your_laptop/</link>
@@ -22,30 +50,9 @@
     <item>
       <title>xAI 发布 Grok-1</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhiv87/xai_release_grok1/</link>
-      <description><![CDATA[xAI 发布 Grok-1 的基础模型权重和网络架构。 更多详细信息：   基于大量文本数据训练的基础模型，未针对任何特定任务进行微调。 314B 参数 Mixture-of-Experts 模型，包含 25%给定令牌上的活跃权重。 2023 年 10 月由 xAI 使用基于 JAX 和 Rust 的自定义训练堆栈从头开始训练。  开始使用模型，请按照以下说明进行操作：https://github.com/xai-org/grok-1&lt; /p&gt;   由   提交 /u/clonefitreal   [链接] [评论]]]></description>
+      <description><![CDATA[xAI 发布 Grok-1 的基础模型权重和网络架构。 更多详细信息：   基于大量文本数据训练的基础模型，未针对任何特定任务进行微调。 314B 参数 Mixture-of-Experts 模型，包含 25%给定令牌上的活动权重。 2023 年 10 月由 xAI 使用基于 JAX 和 Rust 的自定义训练堆栈从头开始训练。  开始使用模型，请按照以下说明进行操作：https://github.com/xai-org/grok-1&lt; /p&gt;   由   提交 /u/clonefitreal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhiv87/xai_release_grok1/</guid>
       <pubDate>Mon, 18 Mar 2024 05:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 3/17/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhif3p/oneminute_daily_ai_news_3172024/</link>
-      <description><![CDATA[ Elon Musk的xAI开源了&lt; strong&gt;Grok AI模型，但没有任何训练代码。该公司在 GitHub 上将其描述为“3140 亿参数混合专家模型”。[1] Apple 宣布 MM1：一个家庭多模式 LLM 的参数高达 30B，这些参数在预训练指标中是 SoTA，并且在微调后表现出竞争力。[2] Microsoft 告诉欧洲监管机构 Google 在生成式人工智能方面具有优势。[3] Nvidia 的黄仁勋、美联储的鲍威尔可能会在本周震撼市场。[4] 来源包括：https://bushaicave.com/2024/03/17/3-17- 2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhif3p/oneminute_daily_ai_news_3172024/</guid>
-      <pubDate>Mon, 18 Mar 2024 04:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果ChatGPT和Clippy打起来谁会赢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhh9ss/if_chatgpt_and_clippy_fought_who_would_win/</link>
-      <description><![CDATA[ 没有规则，直接街头打斗 拳击规则（只是打击) MMA 规则（打击和擒抱）     ;由   提交 /u/googologoog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhh9ss/if_chatgpt_and_clippy_fought_who_would_win/</guid>
-      <pubDate>Mon, 18 Mar 2024 03:34:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Claude 3 Opus 与 ChatGPT 的问题，特别是上下文/内存长度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhg21w/questions_about_claude_3_opus_vs_chatgpt/</link>
-      <description><![CDATA[我听说了有关 Claude 3 Opus 的好消息，但我的主要兴趣在于更长远的背景。我发现“记忆长度”是ChatGPT Pro 是我的主要限制因素。我总是不得不将事情分解成更小的部分或将代码粘贴回聊天中，以便它记住上下文。非常乏味。 我的理解是克劳德3在这方面做得更好。这是正确的吗？ Web 版本是否具有改进的内存（改进了多少？）还是为 API 保留的？ 在以下环境中使用 API 的最佳方式是什么？一种提供类似 ChatGPT 消息传递接口的方法？ 提前致谢。   由   提交 /u/TheCeleryIsReal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhg21w/questions_about_claude_3_opus_vs_chatgpt/</guid>
-      <pubDate>Mon, 18 Mar 2024 02:31:02 GMT</pubDate>
     </item>
     <item>
       <title>好的*无限制*人工智能图像生成器？</title>
@@ -64,28 +71,21 @@
     <item>
       <title>我是唯一一个对人工智能可能会变成什么样子感到彻底恐惧的人吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhe02g/am_i_the_only_one_whos_just_downright_terrified/</link>
-      <description><![CDATA[这东西已经发展得太快了，就像整个行业、一切事物一样，世界的前进方向似乎没有任何排序好的。它会比我们更快更好地处理我们提供的任何信息。已经是了。世界状况如何？战争、虐待、酷刑、贪婪、贫穷、犯罪、死亡，以及世界上所有的恐怖和仇恨。将那个插入机器是个好主意吗？我们想要构建所有这些可以处理大量数据的新系统，而我们生活在一个人们互相剥削和残杀的世界？世界处于糟糕的状态，人们都很糟糕，有无数记录在案的邪恶历史，我们要把它乘以一百万，只是作为一个开始？我不明白这有什么好主意   由   提交 /u/Far-Position7115   [链接] [评论]]]></description>
+      <description><![CDATA[这件事已经发展得太快了，就像整个行业、一切事物一样，世界的前进方向似乎没有任何排序好的。它会比我们更快更好地处理我们提供的任何信息。已经是了。世界状况如何？战争、虐待、酷刑、贪婪、贫穷、犯罪、死亡，以及世界上所有的恐怖和仇恨。将那个插入机器是个好主意吗？我们想要构建所有这些可以处理大量数据的新系统，而我们生活在一个人们互相剥削和屠杀的世界？世界处于糟糕的状态，人们也很糟糕，有无数记录在案的邪恶历史，我们要把它乘以一百万，只是作为一个开始？我不明白这有什么好主意   由   提交 /u/Far-Position7115    reddit.com/r/ArtificialInteligence/comments/1bhe02g/am_i_the_only_one_whos_just_downright_terrified/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhe02g/am_i_the_only_one_whos_just_downright_terrified/</guid>
       <pubDate>Mon, 18 Mar 2024 00:52:18 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能针对欺骗和隐藏进行了优化。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhbk0i/ais_optimized_for_deception_and_concealment/</link>
-      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhbk0i/ais_optimized_for_deception_and_concealment/</guid>
-      <pubDate>Sun, 17 Mar 2024 23:02:29 GMT</pubDate>
-    </item>
-    <item>
       <title>我解决了人工智能代理问题，这样德文营销团队现在就可以停止向每个人发送垃圾邮件了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhagkv/i_solved_ai_agents_so_the_devin_marketing_team/</link>
-      <description><![CDATA[谨此献给德文公司喜欢鱼条的营销“天才”！如果你没有在互联网的每个角落进行营销，我永远不会再看一眼。 每个人都希望 LLM 模型成为函数调用代理，但如果每个人都在咆哮怎么办？选错树了？如果我告诉你 LLM 模型不适合这份工作怎么办？如果有另一种形式的机器学习算法能够更好地完成这项工作怎么办？ 我可以采用一组 SWARM 算法，并让它们使用相当于计算器的处理功能来执行函数调用。我可以 ping 一个 URL，然后创建一个单独的 SWARM 代理来与通过 ping 该 URL 找到的每个端点进行交互。无需 GPU 或神经网络。 基于代理的人工智能已得到解决。不要再试图让 LLM 模型来完成机器学习算法的工作了。当你只知道如何使用锤子时，一切看起来都像钉子。当你遇到螺丝时，只需使用螺丝刀而不是锤子。 我可以用一个简单的 Colab Notebook 向你证明这一切：https://colab.research.google.com/drive/1yxxqWyr6H_1ZGGuYnA-oRe0wxO5VxvWb?usp=sharing   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
+      <description><![CDATA[谨此献给德文公司喜欢鱼条的营销“天才”！如果你没有在互联网的每个角落进行营销，我永远不会再看一眼。 每个人都希望 LLM 模型成为函数调用代理，但如果每个人都在咆哮怎么办？选错树了？如果我告诉你 LLM 模型不适合这份工作怎么办？如果有另一种形式的机器学习算法能够更好地完成这项工作怎么办？ 我可以采用一组 SWARM 算法，并让它们使用相当于计算器的处理功能来执行函数调用。我可以 ping 一个 URL，然后创建一个单独的 SWARM 代理来与通过 ping 该 URL 找到的每个端点进行交互。无需 GPU 或神经网络。 基于代理的人工智能已得到解决。不要再试图让 LLM 模型来完成机器学习算法的工作了。当你只知道如何使用锤子时，一切看起来都像钉子。当你遇到螺丝时，只需使用螺丝刀而不是锤子即可。 我可以用一个简单的 Colab Notebook 向你证明这一切：https://colab.research.google.com/drive/1yxxqWyr6H_1ZGGuYnA-oRe0wxO5VxvWb?usp=sharing   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhagkv/i_solved_ai_agents_so_the_devin_marketing_team/</guid>
       <pubDate>Sun, 17 Mar 2024 22:18:26 GMT</pubDate>
     </item>
     <item>
       <title>最好的人工智能课程是什么？ - 有没有人推荐的人工智能课程？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bh87se/what_is_the_best_ai_course_are_there_any_ai/</link>
-      <description><![CDATA[我有四个学位，我想继续提升自己。我正在寻找人工智能领域的证书/学位，以帮助我过渡到人工智能/机器学习职业，有什么建议吗？麻省理工学院？我在全球和财务上都很灵活，只是在寻找最好的学习经历和最终的著名证书，这将帮助我涉足这个领域    ;由   提交 /u/Imaginary-Fly8439    reddit.com/r/ArtificialInteligence/comments/1bh87se/what_is_the_best_ai_course_are_there_any_ai/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我有四个学位，我想继续提升自己。我正在寻找人工智能领域的证书/学位，以帮助我过渡到人工智能/机器学习职业，有什么建议吗？麻省理工学院？我在全球和财务上都很灵活，只是在寻找最好的学习经验和最终的著名证书，这将帮助我涉足这个领域    ;由   提交 /u/Imaginary-Fly8439    reddit.com/r/ArtificialInteligence/comments/1bh87se/what_is_the_best_ai_course_are_there_any_ai/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bh87se/what_is_the_best_ai_course_are_there_any_ai/</guid>
       <pubDate>Sun, 17 Mar 2024 20:49:26 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
