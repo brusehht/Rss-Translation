@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 06:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 09:11:57 GMT</lastBuildDate>
+    <item>
+      <title>最大的内容绘画错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biftsi/largest_contentful_paint_bug/</link>
+      <description><![CDATA[      您好， 我在使用 LCP 时遇到了奇怪的行为 我经历的第一个奇怪的事情是： - LCP 始终在 1.5 - 1.8 秒左右，但始终是橙色。如果&lt;&lt;，它不应该是绿色的吗？ 2.5 秒？ 第二件奇怪的事情是： - PageSpeed 中的 LCP 结果约为 1.5 - 1.8 秒，但我无法重现，因为在 DevTools 的“性能”选项卡中，LCP 始终低于 700 毫秒（附照片）。可能是因为模拟节流的原因吗？ 有什么想法吗？ 非常感谢！ https://preview.redd.it/ff46ckyea9pc1.png?width=261&amp;format=png&amp;auto=webp&amp; s=d9586f7a96dc936d2610eb6a7186fa3fc03f4e37   由   提交/u/stonowinnner   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biftsi/largest_contentful_paint_bug/</guid>
+      <pubDate>Tue, 19 Mar 2024 09:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用SQLite查询的云数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1biew5x/cloud_database_that_uses_sqlite_querying/</link>
+      <description><![CDATA[嘿大家。 所以我有一个最初使用 Flask 和 SQLite 在计算机上本地开发的 Web 应用程序，但是当我尝试在云上运行它时，我意识到我使用的 sqlite 文件将不再工作，现在我一直在寻找其他解决方案，但我尝试过的一切都很难实现。大多数时候我不理解每个服务提供的复杂查询，我尝试过 mysql、postgres 和不同的 ORM，但每个都有一些疯狂的奇怪查询。有没有什么东西是免费的，基本上是sqlite，但是在云端？   由   提交 /u/pineybtw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1biew5x/cloud_database_that_uses_sqlite_querying/</guid>
+      <pubDate>Tue, 19 Mar 2024 07:52:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>以有趣的方式提升您的前端开发技能！这 3 个游戏将教您 JavaScript、CSS 和解决问题，同时让您保持娱乐！在评论中让我知道哪一个听起来最有趣！ #coding #learncoding #webdev #frontenddev #javas</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bie2x4/level_up_your_frontend_dev_skills_the_fun_way/</link>
+      <description><![CDATA[       由   提交/u/Medium_Ad_9555   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bie2x4/level_up_your_frontend_dev_skills_the_fun_way/</guid>
+      <pubDate>Tue, 19 Mar 2024 06:54:13 GMT</pubDate>
+    </item>
     <item>
       <title>盖伊在比特币潜艇上索要它</title>
       <link>https://www.reddit.com/r/webdev/comments/1biddtt/guy_asked_for_it_on_a_bitcoin_sub/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>网站建设作为副业？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bicjtf/website_builds_as_a_side_hustle/</link>
-      <description><![CDATA[大家好， 我有使用 Wix 设计网站的经验，我想知道构建网站的优缺点作为副业？ 这个想法是给 Google 上列出的没有网站的小型本地企业打电话。例如一个园林设计师，并向他们推销我实际上为他们设计了一个网站，如果他们有兴趣看到它，如果他们喜欢它，他们可以保留它。如果他们同意，我会在 Wix 上获取“横向网站模板”并更改一些内容，例如徽标和文本。  我要么单独提供给他们，不提供托管服务，费用约为 300 美元，要么提供托管服务，费用约为每月 100 美元。他们更有可能购买哪些产品，或者我应该推动哪些产品？ 对于这种副业模式，您有什么建议？    由   提交 /u/DrGonzoRonSlater   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我有使用 Wix 设计网站的经验，我想知道构建网站的利弊作为副业？ 这个想法是给 Google 上列出的没有网站的小型本地企业打电话。例如一个园林设计师，并向他们推销我实际上为他们设计了一个网站，如果他们有兴趣看到它，如果他们喜欢它，他们可以保留它。如果他们同意，我会在 Wix 上获取“横向网站模板”并更改一些内容，例如徽标和文本。  我要么单独提供给他们，不提供托管服务，费用约为 300 美元，要么提供托管服务，费用约为每月 100 美元。他们更有可能购买哪些产品，或者我应该推动哪些产品？ 对于这种副业模式，您有什么建议？    由   提交 /u/DrGonzoRonSlater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bicjtf/website_builds_as_a_side_hustle/</guid>
       <pubDate>Tue, 19 Mar 2024 05:11:14 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>来自网络托管公司的电子邮件，寻求有关如何继续的建议。</title>
       <link>https://www.reddit.com/r/webdev/comments/1biba55/email_from_web_hosting_company_looking_for_advice/</link>
-      <description><![CDATA[我有一个非常简单的网站，大约在 2003 年开始，我从未将其货币化，它只是一个简单的信息网站，我只是为了好玩而做的。即使在今天，我认为它也获得了相当不错的流量。我最初是由 Lunarpages 托管，该公司于 2019 年 9 月被出售/与 HostPapa 合并。 上周我收到了一封电子邮件，然后又收到了第二封类似的电子邮件，内容如下：  我想跟进我们之前关于您帐户的 inode 限制的沟通。如前所述，超过这些限制可能会对网站的功能和稳定性产生重大影响。  在共享托管环境中，inode 限制是硬编码的。因此，一旦达到限额，该帐户将立即停止工作。这确保了每个用户都可以访问公平份额的服务器资源，并且服务器的性能不会受到某个用户的活动的影响。  即便如此，我们还是暂时撤销了此类限制以尽可能最好的方式容纳我们服务器中的资源。我们不想在没有事先通知您的情况下影响您的业务。 我很乐意与您讨论最佳的解决方案，请让我知道我们的愉快时光可以通过电话连接。 在几次电话和电子邮件之间，他们似乎突然说我的网站中的文件太多了。有趣的是，该网站大约 10 年以来一直保持不变，而且从来没有出现过任何问题，直到上周我突然“超出了限制”。我已经很多年没有添加任何新文件了，所以不知道为什么它突然成为一个问题。从来没有任何关于过去的电子邮件或通知，包括当我在 2021 年 2 月将托管计划续订 5 年时。 我附上了一些网站统计数据的图像，文件计数显示目前为 242,120 个无穷大，我认为没有限制。其他项目有限制，这个说没有，这也有点令人困惑。他们说我的限制应该是 150,000 个，所以我大约超过了 92,000 个文件。  对我来说，最突出的是，当我处于 5 年托管计划的第 3 年时，他们试图让我升级到更高的计划，以允许我拥有的文件数量。当然，这个新计划比我目前的合同贵 3 倍多。我怀疑他们只是想从我身上骗取更多钱。相比之下，我当前的预付费合同为每月 4.95 美元的托管费用，他们希望将其更改为每月 14.69 美元的计划，这比每月 20.99 美元的正常费用有折扣。  因此，我正在寻找可能了解此类事情的其他人的反馈，并寻求有关我如何继续进行的建议。 提前感谢您提供的任何和所有帮助！    由   提交 /u/parksoffroad   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个非常简单的网站，大约在 2003 年开始，我从未将其货币化，它只是一个简单的信息网站，我只是为了好玩而做的。即使在今天，我认为它也获得了相当不错的流量。我最初是由 Lunarpages 托管，该公司于 2019 年 9 月被出售/与 HostPapa 合并。 上周我收到了一封电子邮件，然后又收到了第二封类似的电子邮件，内容如下：  我想跟进我们之前关于您帐户的 inode 限制的沟通。如前所述，超过这些限制可能会对网站的功能和稳定性产生重大影响。  在共享托管环境中，inode 限制是硬编码的。因此，一旦达到限额，该帐户将立即停止工作。这确保了每个用户都可以访问公平份额的服务器资源，并且服务器的性能不会受到某个用户的活动的影响。  即便如此，我们还是暂时撤销了此类限制以尽可能最好的方式容纳我们服务器中的资源。我们不想在没有事先通知您的情况下影响您的业务。 我很乐意与您讨论最佳的解决方案，请让我知道我们的愉快时光可以通过电话连接。 在几次电话和电子邮件之间，他们似乎突然说我的网站中的文件太多了。有趣的是，该网站大约 10 年以来一直没有任何变化，而且从来没有出现过任何问题，直到上周我突然“超出了限制”。我已经很多年没有添加任何新文件了，所以不知道为什么它突然成为一个问题。从来没有任何关于过去的电子邮件或通知，包括当我在 2021 年 2 月将托管计划续订 5 年时。 我附上了一些网站统计数据的图像，文件计数显示目前为 242,120 个无穷大，我认为没有限制。其他项目有限制，这个说没有，这也有点令人困惑。他们说我的限制应该是 150,000 个，所以我大约超过了 92,000 个文件。  对我来说，最突出的是，当我处于 5 年托管计划的第 3 年时，他们试图让我升级到更高的计划，以允许我拥有的文件数量。当然，这个新计划比我目前的合同贵 3 倍多。我怀疑他们只是想从我身上骗取更多钱。相比之下，我当前的预付费合同为每月 4.95 美元的托管费用，他们希望将其更改为每月 14.69 美元的计划，这比每月 20.99 美元的正常费用有折扣。  因此，我正在寻找可能了解此类事情的其他人的反馈，并寻求有关我如何继续进行的建议。 提前感谢您提供的所有帮助！    由   提交 /u/parksoffroad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1biba55/email_from_web_hosting_company_looking_for_advice/</guid>
       <pubDate>Tue, 19 Mar 2024 03:59:21 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在开发一个允许用户上传自己的文件的网络应用程序。然后他们可以下载这些文件，甚至允许公众下载它们。但是，我想确保每个用户的每次下载都收取适当的费用，并且如果下载的价格超过他们所支付的价格，用户的文件很快就会变得不可用。 我已经查看过使用 AWS S3 执行此操作，但似乎我只能在 24 小时后查看日志。如果某些内容病毒式传播或用户上传大型盗版游戏或电影，这可能会导致使用大量带宽。 S3 也可能有点贵，所以如果服务便宜一点的话会加分。像 Backblaze 这样的定价是理想的（我不希望“普通”用户广泛共享他们的文件），但我不确定他们是否支持这种用例。 我想避免通过我的应用程序节点代理每个文件，但如果这是唯一的选择，这就是我的后备计划。   由   提交 /u/EmeraldHawk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bi6jd3/good_cloud_file_host_if_i_want_to_monitor/</guid>
       <pubDate>Tue, 19 Mar 2024 00:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的网站 SEO 有多糟糕？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bi6eas/how_bad_is_my_websites_seo/</link>
-      <description><![CDATA[大家好。建立一个属于我自己的博客网站一直是我的梦想。我已经实现了梦想，我的网站上线了。我的网络搜索总点击次数曾经很高（每天超过 12 次点击，峰值为 100 次），但现在很低（少于 3 次）。我认为这与我的 SEO 有关。因此，如果有任何 SEO 专家或任何了解任何内容的人可以帮助我。请给我建议。这是我网站的链接。这是我的第一个网站，已经一岁了。老实说，我什至不知道我做错了什么或做对了。  我的网站   由   提交 /u/CBNM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bi6eas/how_bad_is_my_websites_seo/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>贵公司的开发工作 SOP 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bi522a/whats_the_sop_for_dev_work_at_your_company/</link>
-      <description><![CDATA[我在一家真正的小型初创公司我在一家真正的小型初创公司&lt;;有 10 个人，我是网络开发人员/首席技术官/任何技术人员。  我们的运营程序就像初创公司一样一团糟。在这份工作之前，我一直是自由职业者，所以我不知道专业公司是如何运作的，但很想获得一些反馈，以希望改善流程。  基本上，程序是什么 - 错误报告 - 功能建议/想法  您使用什么软件来跟踪它？谁接收信息并组织它以委托给开发人员？那个人基本上是开发部门的联络人吗？那么 CTO 职责又如何呢？  我还假设首席技术官负责技术方面的所有日常决策，但只让首席执行官参与更大的事情（大量新功能等）？或者首席执行官通常会处理所有事情并委托给首席技术官吗？  我确信对于在专业环境中工作的人来说这些都是非常明显的问题，但这是一家小型初创公司，没有人有在科技公司工作的经验。    由   提交 /u/stevebeans   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bi522a/whats_the_sop_for_dev_work_at_your_company/</guid>
-      <pubDate>Mon, 18 Mar 2024 23:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想免费制作一个子域名提供商</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bi3iit/i_want_to_make_a_subdomain_provider_for_free/</link>
-      <description><![CDATA[我大约 3 年前购买了一个域名，但出于某种忘记的原因。现在我有了一个未使用的域名，我决定让它对社区有用，而不是把它停在那里。因此，我允许任何人与我一起注册子域，但我需要有关设置的技术方面的帮助。提前致谢   由   提交 /u/__Electron__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bi3iit/i_want_to_make_a_subdomain_provider_for_free/</guid>
-      <pubDate>Mon, 18 Mar 2024 22:07:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
