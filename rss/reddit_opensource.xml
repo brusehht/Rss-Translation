@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 00:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 03:13:18 GMT</lastBuildDate>
+    <item>
+      <title>你们中有多少人可以从改进的 UI/UX 中受益？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bi8cih/how_many_of_you_could_benefit_from_improved_uiux/</link>
+      <description><![CDATA[我认为有很多 UX 专业人士有兴趣参与项目（开源或其他），但我很好奇开发人员是否开源项目甚至需要/想要这样的东西。  ​ 所以我的问题是： 对于您正在从事或了解的开源项目（并且有前端），他们可以从用户体验专业人员的帮助中受益吗？这可能涉及设计、UI、UX、用户/市场研究等。   由   提交 /u/Andrew__Salvatore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bi8cih/how_many_of_you_could_benefit_from_improved_uiux/</guid>
+      <pubDate>Tue, 19 Mar 2024 01:34:24 GMT</pubDate>
+    </item>
     <item>
       <title>Mitch Altman 关于开源硬件</title>
       <link>https://www.reddit.com/r/opensource/comments/1bhm6p4/mitch_altman_about_opensource_hardware/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您可以在这里找到它：https: //github.com/FOSSalyze/privacy-Friendly-iframe 嵌入针对另一个站点的  可能会产生隐私问题，并可能违反 GDPR 和类似的隐私法。我开发了这个 Web 组件作为解决方案，在  加载之前添加同意屏幕。它允许轻松定制，并且可以与其他或自定义同意来源集成。 我真的很喜欢这个小项目的结果，并决定在 MIT 许可证下发布它。它与框架无关，而且是轻量级的（压缩后大约 2KB，包括 CSS 和翻译）。 我愿意接受反馈、批评或贡献，尤其是翻译。   由   提交 /u/TimothyLGillespie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bfptzo/here_is_a_gdpr_solution_for_iframes/</guid>
       <pubDate>Fri, 15 Mar 2024 22:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>翻译也很重要</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bfln43/translations_are_important_too/</link>
-      <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bfln43/translations_are_important_too/</guid>
-      <pubDate>Fri, 15 Mar 2024 19:02:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
