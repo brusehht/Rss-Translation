@@ -4,7 +4,56 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 21:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 00:47:26 GMT</lastBuildDate>
+    <item>
+      <title>编程的危险：克劳德版。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi75li/the_perils_of_programming_claude_edition/</link>
+      <description><![CDATA[我不确定这对任何人来说有多有趣，但这让我有点惊讶。我让 Claude 给我写一个简短的程序来在 AutoHotKey 中创建一些宏按钮。我要求宏是可配置的并且是程序文件的一部分。令人惊讶的是，Claude 编写了这个应用程序，大约 40 行，并且第一次就完美运行。这些按键被标记为“按钮 1”、“按钮 2”等，并且它们输出“按钮 1 的文本”等。 所以我去更改了按钮和标签的文本。不去。该应用程序无法运行。克劳德和我为此苦苦挣扎了两个小时，除非它直接回到原来的文本，否则我们无法让它发挥作用。克劳德建议了各种类型的更正，但没有任何效果。 最后，我自己浏览了该应用程序，对文本做了一点修改。即使是一个微小的更改也会禁用该应用程序。我终于发现（我不是程序员，我只是修补）有一行正在读取按钮标签……我想，“为什么要这样做？” 回到 Claude I去。这条线到底在做什么，为什么？克劳德告诉我，它读取数字（标签的一部分）来找出要输出的输出。所以...长话短说，按钮 1 中没有“1”，并且找不到输出编号“1”，因此它什么也不输出。 最终 Claude 能够编写一个应用程序这做到了我想要的，并且比没有它时做得更快更好，但是……要小心，你必须非常小心地提出你想要的东西。祝你好运。   由   提交 /u/Intraluminal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi75li/the_perils_of_programming_claude_edition/</guid>
+      <pubDate>Tue, 19 Mar 2024 00:39:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有动作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi719x/ai_motion/</link>
+      <description><![CDATA[现在向图片或人工智能艺术等添加动作的最简单方法，这样图片就不会那么无聊 还有建议对于ai艺术网站 免费网站 艺术质量比dal3低一步 目前有哪些更好的选择，会尝试比较 没有不和谐 我知道 mj 在艺术、照片、图像质量方面仍然是#1，因为每当它出现时 需要为 sora 的故事板制作泰勒·斯威夫特的照片出来了，像女超人一样敏捷   由   提交 /u/KidDroidSuperpowerrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi719x/ai_motion/</guid>
+      <pubDate>Tue, 19 Mar 2024 00:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星/地形照片的最佳人工智能升级器？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6lnx/best_ai_upscaler_for_satelliteterrain_photos/</link>
+      <description><![CDATA[我必须指定我正在创作数字艺术作品，并且我有一些低分辨率卫星拼贴画。我尝试了 Topaz Gigapixel AI，效果还不错，我喜欢它对森林/草地的作用，但想知道是否还有更多功能。   由   提交/u/nastupchanyn1488  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6lnx/best_ai_upscaler_for_satelliteterrain_photos/</guid>
+      <pubDate>Tue, 19 Mar 2024 00:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一些人工智能专家来参加学校面试。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6c8r/i_need_some_ai_expert_for_school_interview/</link>
+      <description><![CDATA[您好，我目前正在开展一个有关人工智能的学校项目，我想知道是否有人工智能专家可以通过回答来帮助我关于人工智能的五个简单问题。预先感谢您:)   由   提交 /u/Accomplished_Fix4180   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi6c8r/i_need_some_ai_expert_for_school_interview/</guid>
+      <pubDate>Tue, 19 Mar 2024 00:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>年鉴课程的 ML/AI 图像处理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi5hu0/mlai_image_processing_for_a_yearbook_class/</link>
+      <description><![CDATA[这可能会跨越各个 Reddit 子版块，但让我深入探讨一下。我目前正在参加高中的年鉴课程，利用我两年的学习经历摄影经验，通过编辑提高图像质量。然而，我们在识别学生方面遇到了挑战。同时，我正在通过双重注册计划攻读计算机科学专业。我设想将我对计算机科学和摄影的热情结合起来，利用我自己的家庭实验室的资源开发一个识别服务器。我非常感谢您对如何实现这一努力的想法和建议。我的想法涉及实现一个系统，在该系统中输入图片将产生有关所描绘的个人、活动或事件的信息，也许利用具有成本效益的机器学习技术。此外，我还可以访问两年的高中图像数据库，这可以帮助识别以前的学生。任何关于实现该项目的指导或见解都是非常宝贵的。   由   提交/u/Happyfeet748  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi5hu0/mlai_image_processing_for_a_yearbook_class/</guid>
+      <pubDate>Mon, 18 Mar 2024 23:28:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 推出新的 MM1 AI 模型和 Siri 2.0</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi51dq/apple_unveils_new_mm1_ai_models_siri_20/</link>
+      <description><![CDATA[ 由   提交/u/DumbMoneyMedia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi51dq/apple_unveils_new_mm1_ai_models_siri_20/</guid>
+      <pubDate>Mon, 18 Mar 2024 23:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI如何接入互联网？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi2pwg/how_do_ai_access_the_internet/</link>
+      <description><![CDATA[从逻辑角度来看，我怎样才能制作一个像 Google 和 bing 一样解析堆栈溢出或文档答案的程序？或者说这部分不使用AI？   由   提交/u/lt_Matthew  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bi2pwg/how_do_ai_access_the_internet/</guid>
+      <pubDate>Mon, 18 Mar 2024 21:35:58 GMT</pubDate>
+    </item>
     <item>
       <title>我不确定你们中有多少人已经涉足人工智能编程的世界，但我想在我的第一篇博客文章中分享我的经验</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bi1rmy/im_not_sure_how_many_of_you_have_ventured_into/</link>
@@ -13,39 +62,11 @@
       <pubDate>Mon, 18 Mar 2024 20:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>VLOGGER AI：谷歌的静态照片动画工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhzf1b/vlogger_ai_googles_tool_animates_still_photos/</link>
-      <description><![CDATA[ 由   提交/u/DumbMoneyMedia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhzf1b/vlogger_ai_googles_tool_animates_still_photos/</guid>
-      <pubDate>Mon, 18 Mar 2024 19:26:44 GMT</pubDate>
-    </item>
-    <item>
       <title>在人工智能取代我之前，我应该放弃学业去找工作吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhz2zz/should_i_quit_my_education_and_pursue_a_job/</link>
       <description><![CDATA[我拥有工程领域学士学位，目前正在攻读硕士学位，将于 2025 年完成。然而，我非常担心人工智能，因为它我看来它可以在未来5年内取代并超越我。因此，我正在考虑放弃我的硕士课程并继续攻读学士学位，这样我至少可以在被人工智能淘汰之前获得几年的收入。  我是夸大了人工智能的技能还是我的想法合理？   由   提交/u/fragmenteret-raev   reddit.com/r/ArtificialInteligence/comments/1bhz2zz/should_i_quit_my_education_and_pursue_a_job/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhz2zz/should_i_quit_my_education_and_pursue_a_job/</guid>
       <pubDate>Mon, 18 Mar 2024 19:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepMind 推出可扩展的多世界代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhwq7q/deepmind_unveils_scalable_multiworld_agent/</link>
-      <description><![CDATA[https://current.news/brief/m9ywFJaC DeepMind 最近推出了可扩展可指导的多世界代理 (SIMA)，这是一种强化学习 (RL) 代理，可以在各种模拟环境中执行各种任务。 SIMA 通过演示和书面指令进行学习，在不同的设置中表现出了令人印象深刻的泛化能力，在各种任务中超越了专业代理。    由   提交 /u/gronkulus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhwq7q/deepmind_unveils_scalable_multiworld_agent/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为一家公司制作一个人工智能常见问题解答机器人需要花费多少精力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhwiw3/how_much_effort_would_it_take_to_make_an_ai_faq/</link>
-      <description><![CDATA[大家好， 这是我第一次在这个 subreddit 上发帖，所以我希望我没有做错任何事情。  p&gt; 我们是一家为特定行业销售特定软件的公司。除了我们的 pdf 手册之外，我们还有 2800 多个视频，这些视频解释了我们软件的不同功能（在市场上已有 40 多年的历史，这些主题肯定会不止一次得到解答）。 现在的想法：是否有可能让人工智能“观看”所有这些视频并收集提供的所有信息，然后创建一个数据库，用户可以在其中简单地询问：“我如何制作......”或“功能 XY 如何工作？”以及AI 给我指示点击哪里才能获得所需的结果？到目前为止，员工始终必须观看新创建的视频，为该视频编写摘要，并且可以在数据库中搜索摘要中的单词。如果是的话，这需要多少努力和成本？这是 IT 确认员工可以完成的事情还是需要专门的公司来做这些事情？   由   提交 /u/Skorpid1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhwiw3/how_much_effort_would_it_take_to_make_an_ai_faq/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhw0dr/artificial_intelligence/</link>
-      <description><![CDATA[嗨，我已经用 C++ 编码很长时间了，但决定更多地研究人工智能、机器学习和神经网络的世界。我在这个领域没有任何经验，所以我想看看你对初学者从哪里开始、接近这个广阔的世界有什么建议。我开始看《Harvard CS50&#39;s Artificial Intelligence with python》但因为这是一个 12 小时长的视频，对于初学者来说相当可怕。拜拜，如果您知道我可以在观看本课程时阅读的一些网站或书籍，那会对我有帮助，以便我可以练习一些东西。谢谢您。   由   提交/u/mcalby  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhw0dr/artificial_intelligence/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:10:51 GMT</pubDate>
     </item>
     <item>
       <title>机器学习 + 自动化实验加速药物设计过程</title>
@@ -69,32 +90,11 @@
       <pubDate>Mon, 18 Mar 2024 14:56:38 GMT</pubDate>
     </item>
     <item>
-      <title>每日人工智能新闻摘要 (03/18/2024)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhsc57/daily_ai_news_summary_03182024/</link>
-      <description><![CDATA[ xAI 发布了其 3140 亿参数的 LLM 的权重和架构，Grok -1。它于 2023 年 10 月由 xAI 使用基于 JAX 和 Rust 的自定义训练堆栈从头开始训练。 OpenAI 意外泄露GPT-4.5 Turbo&lt; /em&gt; 发布了一篇博文，该博文已被 Bing 和 DuckDuckGo 编入索引，但很快就被删除了。该帖子是 GPT-4.5 Turbo 的公告，表明它将比其前身更快、更准确，并且拥有更大的知识库。 Meta 引入了两个 24K GPU用于训练其Llama 3 LLM 的集群。这些集群总共有 49,000 个 H100 GPU，每个 GPU 的成本约为 40,000 美元。 Llama 3 预计将于 7 月推出。 Apple 正在洽谈打造 Google Gemini人工智能引擎融入iPhone。两家公司之间的交易可以帮助谷歌将其人工智能服务的使用范围扩大到超过 20 亿台活跃的苹果设备。    由   提交 /u/Used-Bat3441    reddit.com/r/ArtificialInteligence/comments/1bhsc57/daily_ai_news_summary_03182024/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhsc57/daily_ai_news_summary_03182024/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:40:07 GMT</pubDate>
-    </item>
-    <item>
       <title>AI、AGI 和 ASI 最终将带我们走上生化之路，减少痛苦，享受更多乐趣</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhqw21/ai_agi_and_asi_will_ultimately_take_us_to/</link>
       <description><![CDATA[当我们的生存需求得到满足后，我们作为人类最根本的动力就是趋乐避苦。基本上，我们都在努力尽可能地快乐，并尽可能少地受苦。 因为快乐是一种情绪状态，而情绪是会传染的，所以我们关心的不仅仅是我们的快乐和。我们周围的人越快乐，我们就越容易感到快乐。 你可能听说过人工智能刚刚发现了 200 万种材料。如果没有人工智能，这将需要大约 800 年的时间。您可能还听说过人工智能刚刚发现了一类全新的抗生素。因此，我们的想法是，人工智能可以全面增强生化研究，使我们能够在一年内完成原本需要 50 年或更长时间才能完成的事情。 在我们感到惊讶之后我们开发了文本到视频和语音到文本的功能，在我们加速几乎每个业务领域的进步之后，我们将把注意力转向我们生活中最想要的东西。 到那时，我们将充分认识到并认识到，我们人类本质上是生化有机体。这就是药物如此有效的原因。这就是为什么我们很多人使用酒精、咖啡因和大麻。我们摄入的东西可以以深刻且非常有用的方式影响我们的思想和情绪状态。这与 lsd、mdma 和 dmt 等重量级药物的作用完全不同。 基本上，我正在谈论 ais 如何很快将抗抑郁和抗焦虑药物的研发带入一个全新的阶段 因此，想象一下一类新型抗抑郁药，它不仅能让您从不满意变得还好。想象一下，这些新的超强抗抑郁药以一种你从未梦想过的方式让你感到幸福。想象一下，新的超强抗焦虑药物让你比喜马拉雅山上的某些大师更放松，这些大师已经连续冥想了 50 年。 无论是药丸还是某种基因改造，它都不会&#39;不久之后，人工智能工程师就会意识到，最终的适销对路的产品是能够直接而有力地提升我们的幸福感，让我们所有人难以置信地放松与平静的产品。 我们将继续打造令人惊叹的创新，例如能够创造只需用几个段落告诉人工智能我们想要什么，就可以制作出一部完整的故事片。但我们将在一种全新的、强烈的放松和快乐的情感状态下完成这一切。我们很快就会意识到，人工智能、通用人工智能和人工智能的最终好处是通过安全和超级有效的生化手段建立一个更加幸福和更加和平的世界。一旦我们到达那里，我们将享受我们所做的一切，其程度是以前难以想象的。    由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhqw21/ai_agi_and_asi_will_ultimately_take_us_to/</guid>
       <pubDate>Mon, 18 Mar 2024 13:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能和感知：机器真的能感觉吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhp1y5/ai_and_sentience_can_machines_truly_feel/</link>
-      <description><![CDATA[人工智能能否发展出真正的意识和情感？ ​ 只是随机问题我想到了什么   由   提交 /u/WizJager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhp1y5/ai_and_sentience_can_machines_truly_feel/</guid>
-      <pubDate>Mon, 18 Mar 2024 12:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您每月在人工智能上花费多少钱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bh51lh/how_much_a_month_are_you_spending_on_ai/</link>
-      <description><![CDATA[个人，不通过工作获得报酬。  您是否有多个 LLM 订阅（ChatGPT、Claude Opus、copilot 完整版等）？您还为哪些其他人工智能工具付费（Descript、DID、Zapier 等？    提交者    /u/Titos-Airstream-2003   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bh51lh/how_much_a_month_are_you_spending_on_ai/</guid>
-      <pubDate>Sun, 17 Mar 2024 18:43:27 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
