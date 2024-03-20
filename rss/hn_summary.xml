@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 08:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 12:18:28 GMT</lastBuildDate>
     <item>
-      <title>庆祝 Curl 成立 26 周年，作者回顾了过去一年的改进和翻新 [...]</title>
-      <link>https://t.me/hn_summary/80355</link>
-      <description><![CDATA[Curl 今天 26 岁了
-庆祝curl成立26周年，作者回顾了过去一年为保持互联网传输基础的牢固而进行的改进和翻新。他们幽默地拿安装数量开玩笑，开玩笑地暗示安装数量为 80 亿，但也承认存在不确定性。作者重点介绍了 Curl 正在进行的工作以及对其持续成功的奉献精神，为又一年的进步举杯。]]></description>
-      <guid>https://t.me/hn_summary/80355</guid>
-      <pubDate>Wed, 20 Mar 2024 08:56:21 GMT</pubDate>
+      <title>KDE 商店最近发生的事件引发了有关第三方安全性和信任的讨论 [...]</title>
+      <link>https://t.me/hn_summary/80374</link>
+      <description><![CDATA[信任 KDE 商店中的内容
+KDE 商店最近发生的事件引发了有关第三方插件安全和信任的讨论。虽然全球主题导致意外数据删除的问题很快得到解决，但它引发了有关这些主题的访问级别的问题。开发人员认为主题和插件的功能需要一定程度的自由来运行代码。主要关注点是管理用户期望并明确传达下载第三方内容所涉及的潜在风险。展望未来，我们将努力区分安全和潜在不安全的内容，并在商店中实施管理和审核流程。建议用户在从商店安装内容之前谨慎行事并寻求可信来源的评论。]]></description>
+      <guid>https://t.me/hn_summary/80374</guid>
+      <pubDate>Wed, 20 Mar 2024 12:18:28 GMT</pubDate>
     </item>
     <item>
-      <title>在 jmduke.com 上的这篇文章中，作者讨论了捕获隐性知识的挑战 [...]</title>
-      <link>https://t.me/hn_summary/80354</link>
-      <description><![CDATA[使用奇怪的测试来捕获隐性知识
-在 jmduke.com 上的这篇文章中，作者讨论了在像 Buttondown 这样的复杂代码库中捕获隐性知识。他们强调了传统文档的局限性，并建议使用测试来捕获重要的步骤和约束。作者提供了如何将此方法应用于添加新 Django 模块和记录枚举值等任务的示例。他们强调测试驱动的不变量的自记录性质，并鼓励读者考虑测试是否可以在代码审查中发现问题。这种在代码中记录和执行规范的独特方法既实用又富有洞察力。]]></description>
-      <guid>https://t.me/hn_summary/80354</guid>
-      <pubDate>Wed, 20 Mar 2024 08:42:15 GMT</pubDate>
+      <title>谷歌因违反向媒体付费的协议而被法国监管机构罚款 2.5 亿欧元 [...]</title>
+      <link>https://t.me/hn_summary/80373</link>
+      <description><![CDATA[Google 因违反知识产权协议在法国被罚款 2.5 亿欧元
+谷歌因违反向媒体公司在线复制其内容付费的协议而被法国监管机构罚款 2.5 亿欧元。竞争监管机构指责谷歌没有与新闻出版商真诚谈判，并对其人工智能服务表示担忧。这笔罚款与法国在线内容的版权纠纷有关，谷歌违反了 2022 年做出的承诺条款。尽管与法国新闻出版商签署许可协议取得了进展，但谷歌解决了此案，专注于将人们与优质内容联系起来的可持续方法。此次罚款引发了关于处罚是否相称以及谷歌为解决相关担忧所做的努力的争议。]]></description>
+      <guid>https://t.me/hn_summary/80373</guid>
+      <pubDate>Wed, 20 Mar 2024 12:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>在 sethmlarson.dev 上的这篇文章中，我讨论了正则表达式字符“[...]</title>
-      <link>https://t.me/hn_summary/80353</link>
-      <description><![CDATA[正则表达式字符“$”并不意味着“end-of-”字符串”
-在这篇关于 sethmlarson.dev 的文章中，我讨论了Python 正则表达式模块中的正则表达式字符“$”。虽然“^”通常表示“字符串开头”，但“$”并不总是如预期的那样表示“字符串结尾”。在 Python 中，禁用多行模式后，“$”可以匹配字符串末尾或字符串末尾之前的尾随换行符。要在 Python 中匹配没有换行符的字符串末尾，可以使用“\z”或“\Z”而不是“$”。本文对不同平台如何处理此行为进行了比较，并提供了有效使用正则表达式的见解。]]></description>
-      <guid>https://t.me/hn_summary/80353</guid>
-      <pubDate>Wed, 20 Mar 2024 08:32:09 GMT</pubDate>
+      <title>在印度尼西亚，电动自行车市场正在蓬勃发展，Dharmawan Kusna Hand 等 DIY 电池包装商 [...]</title>
+      <link>https://t.me/hn_summary/80372</link>
+      <description><![CDATA[印度尼西亚的电动自行车商店正在制造自己的电池 
+在印度尼西亚，电动自行车市场正在蓬勃发展，Dharmawan Kusna Handoyo 等 DIY 电池组满足了对更长续航里程电池的需求。尽管人们对安全性和可靠性存在担忧，但电池法规的缺失导致了自制电池市场的蓬勃发展。像 Hadi Wijaya 这样的客户选择定制电池，与品牌电池相比，它们以更低的成本提供更大的续航里程。然而，电池尺寸和设计缺乏标准化给行业带来了挑战。随着国家朝着电动汽车电池标准化的方向迈进，自制电池组可能会对电池更换初创公司构成威胁。]]></description>
+      <guid>https://t.me/hn_summary/80372</guid>
+      <pubDate>Wed, 20 Mar 2024 12:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]构建系统在开发领域经常被忽视，但它们是必不可少的[...]</title>
-      <link>https://t.me/hn_summary/80352</link>
-      <description><![CDATA[点菜构建系统：理论与实践（2020）
-构建系统在开发领域经常被忽视，但它们是每个开发人员使用的基本工具。在本文中，我们提出了一个用于开发和比较构建系统的独特框架，使我们能够通过组合现有组件来创建新系统。此修订版包含更多细节和关于实际应用的新部分。提供的可执行代码允许读者探索和实现这些概念。深入构建系统的世界，发现软件开发这一关键方面的新视角。]]></description>
-      <guid>https://t.me/hn_summary/80352</guid>
-      <pubDate>Wed, 20 Mar 2024 08:28:05 GMT</pubDate>
+      <title>为什么无关的构建步骤会使我的 Zig 应用程序速度提高 10 倍？</title>
+      <link>https://t.me/hn_summary/80371</link>
+      <description><![CDATA[为什么无关的构建步骤会使我的 Zig 应用程序速度提高 10 倍？&lt; /a&gt;
+摘要：作者探索了一个令人惊讶的发现，即向 Zig 应用程序添加额外的构建步骤使其运行速度提高了近 10 倍。通过实验并寻求 Zig 社区的帮助，他们发现 bash 管道中的所有命令都是并行运行的，从而导致观察到的性能差异。作者最初对 bash 管道如何工作的误解导致了混乱。通过调整基准测试方法并直接运行编译的二进制文件，他们能够准确地测量应用程序的性能。这一发现凸显了理解所使用的工具和技术的复杂性的重要性。 （根据 60% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80371</guid>
+      <pubDate>Wed, 20 Mar 2024 12:06:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]世界气象组织在一份令人震惊的报告中透露，所有主要行业 [...]</title>
-      <link>https://t.me/hn_summary/80351</link>
-      <description><![CDATA[WMO警告称，随着主要指标突破图表，气候变化加速
-世界气象组织在一份令人震惊的报告中透露，气候变化的所有主要指标都达到了前所未有的水平，其中一些指标上升得如此之快，以至于“破纪录”。气候变化加剧的自然灾害给数百万人的生命造成了严重破坏，导致全球数十亿美元的经济损失。 WMO 2023 年全球气候状况报告描绘了气候变化步伐加快的严峻景象，强调迫切需要采取行动减轻其破坏性影响。]]></description>
-      <guid>https://t.me/hn_summary/80351</guid>
-      <pubDate>Wed, 20 Mar 2024 07:28:46 GMT</pubDate>
+      <title>你好，HN！</title>
+      <link>https://t.me/hn_summary/80370</link>
+      <description><![CDATA[Lago 正在招聘来扩展 Stripe Billing 的开源替代方案&lt; /a&gt;
+你好，HN！ Raffi 和我在 YC 的 S21 批次中以我们最初的想法为基础，创立了 Lago，一个用于实时使用计量和计费的开源平台。我们已从 FirstMark 等顶级投资者那里筹集了 2200 万美元，并为 Mistral.ai 等客户提供服务 和 Together.ai。我们正在欧洲招聘各种职位，并计划稍后扩展到美国。我们的堆栈是 Ruby 和 React.js，我们正在寻找热爱解决独特问题、经验丰富的个人贡献者。我们的目标是尽量减少会议和层级结构。与 MongoDB 的副总裁 DevRel 交谈，了解我们的愿景和雄心。对于回复申请的任何延迟，我们深表歉意，并正在努力改进。请通过 Talent@getlago.com 或通过我们的 YC 职位页面联系我们。感谢您的耐心和理解！安托。]]></description>
+      <guid>https://t.me/hn_summary/80370</guid>
+      <pubDate>Wed, 20 Mar 2024 12:02:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软宣布将阻止俄罗斯公司使用其云服务 [...]</title>
-      <link>https://t.me/hn_summary/80350</link>
-      <description><![CDATA[微软现在阻止俄罗斯公司使用其云服务
-微软宣布，作为对该国制裁的一部分，它将阻止俄罗斯公司使用其云服务。预计亚马逊和谷歌也将效仿这一举措。俄罗斯公司被敦促转向当地服务提供商。这一决定并不令人意外，因为俄罗斯自入侵乌克兰以来一直面临经济制裁。在俄罗斯被从 SWIFT 金融交易处理系统中删除以及 Visa 和 MasterCard 退出之后，这一最新进展被视为对俄罗斯市场的重大破坏。]]></description>
-      <guid>https://t.me/hn_summary/80350</guid>
-      <pubDate>Wed, 20 Mar 2024 07:06:38 GMT</pubDate>
+      <title>最新版本的 Firefox（版本 124）为 Mac 和 Android 用户带来了改进。</title>
+      <link>https://t.me/hn_summary/80369</link>
+      <description><![CDATA[Firefox 124 在 Android 和 Mac 上进行了改进，并添加了 PDF 的键盘导航&lt; /a&gt;
+最新版本的 Firefox（版本 124）为 Mac 和 Android 用户带来了改进。 Android 用户现在可以通过简单的手势刷新页面，而 Mac 用户将受益于增强的全屏模式。现在可以通过插入符号浏览来实现 PDF 的键盘导航，满足视觉障碍用户和键盘爱好者的需求。屏幕唤醒锁定 API 可防止屏幕保护程序和变暗，非常适合电影观看者和导航应用程序。虽然包含一些以开发人员为中心的更新，但测试版中缺少 Cookie Banner Blocker 功能，但用户可以使用替代扩展。总体而言，Firefox 124 提供了增强功能，带来更流畅的浏览体验。]]></description>
+      <guid>https://t.me/hn_summary/80369</guid>
+      <pubDate>Wed, 20 Mar 2024 11:58:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加入 Y Combinator 2019 年冬季初创公司 Ashby，因为我们目前正在招聘工程师 [...]</title>
-      <link>https://t.me/hn_summary/80349</link>
-      <description><![CDATA[Ashby (YC W19) 正在欧洲、中东和非洲地区招聘工程经理
-加入 Y Combinator 2019 年冬季初创公司 Ashby，因为我们目前正在 EMEA 地区招聘工程经理。我们的团队致力于突破界限并提供一流的工作。如果您是一位对技术和创新充满热情的才华横溢的领导者，这可能是您的绝佳机会。立即申请并成为令人兴奋和开创性的事物的一部分。加入我们 Ashby，成为塑造技术未来的团队的一员。立即前往 www.ashbyhq.com 申请。]]></description>
-      <guid>https://t.me/hn_summary/80349</guid>
-      <pubDate>Wed, 20 Mar 2024 07:02:34 GMT</pubDate>
+      <title>[媒体] 在 talkhub.framer.ai 上探索革命性的 AI 视频工具 @TalkHub。</title>
+      <link>https://t.me/hn_summary/80368</link>
+      <description><![CDATA[一款帮助语言学习者高效学习多种语言的人工智能视频工具
+在 @TalkHub rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;talkhub.framer.ai。告别传统的视频编辑软件，迎接高效的语言学习。该工具不仅可以快速转录和导出字幕，还提供AI翻译功能。 @TalkHub 的与众不同之处在于它能够在您的计算机上本机运行，从而确保数据隐私。加入无数已经转换的用户的行列，体验前所未有的无缝语言学习体验。不要错过这个改变游戏规则的工具。]]></description>
+      <guid>https://t.me/hn_summary/80368</guid>
+      <pubDate>Wed, 20 Mar 2024 11:53:59 GMT</pubDate>
     </item>
     <item>
-      <title>联想宣布推出最新的商务笔记本电脑 ThinkPad L 系列和 Thin [...]</title>
-      <link>https://t.me/hn_summary/80348</link>
-      <description><![CDATA[联想宣布推出 ThinkPad，以实现“更好的可持续性和更长的可修复性”
-联想宣布推出最新商务笔记本电脑ThinkPad L系列和ThinkPad X13系列，展现创新和可持续发展。这些新型号具有增强的可修复性、更多的回收材料、高效的电源管理以及具有内置安全性的强大处理能力。这些笔记本电脑提供各种外形尺寸，包括 13 英寸或 13 英寸二合一、14 英寸，并在 ThinkPad L16 中引入了新的 16 英寸显示屏。这些笔记本电脑配备可选的更高分辨率摄像头、改进的散热性能以及对 Wi-Fi 7 和 4G LTE 或 5G 的支持，有望增强用户体验。此外，联想致力于可持续发展和可访问性，具有改进的可修复性、显示亮度的新技术以及包容性的触觉标记等功能。这些笔记本电脑中包含英特尔酷睿 Ultra 处理器和 AMD 锐龙 PRO 7030 系列处理器，可提供增强的人工智能功能，从而提高性能和效率。联想致力于可持续发展、可修复性和尖端技术，使其在行业中脱颖而出。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80348</guid>
-      <pubDate>Wed, 20 Mar 2024 06:58:31 GMT</pubDate>
+      <title>询问 HN：本月英国所有 IT 失败背后的原因是什么？</title>
+      <link>https://t.me/hn_summary/80367</link>
+      <description><![CDATA[询问 HN：本月英国所有 IT 故障背后的原因是什么？&lt; /a&gt;
+英国本月似乎面临一系列 IT 故障，麦当劳、Sainsbury&#39;s 和 Greggs 等大公司因支付系统问题而暂时关闭。每个人心中的问题是：这些事件有关联吗？是什么造成了这些广泛的破坏？加入 Hacker News 的讨论，分享您对困扰英国的神秘 IT 故障的见解和理论。这些事件之间的争议和潜在联系成为一个引人注目且令人担忧的讨论话题。]]></description>
+      <guid>https://t.me/hn_summary/80367</guid>
+      <pubDate>Wed, 20 Mar 2024 11:49:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]专利流氓是我们经济的主要威胁，造成数十亿美元的损失和潜在的损失 [...]</title>
-      <link>https://t.me/hn_summary/80347</link>
-      <description><![CDATA[EFF：告诉国会：我们无法承受更多不良专利&lt; /a&gt;
-专利流氓是对我们经济的主要威胁，造成数十亿美元的损失，并可能因其侵权要求而毁掉小公司。 2014 年，最高法院的一项裁决开创了打击专利流氓的先例，但现在 PERA 和 PREVAIL 两项法案威胁要撤销这些保护。参议员汤姆·蒂利斯和克里斯·库恩斯正在推动这些法案，但我们需要您的帮助来阻止它们。和我们一起告诉国会，我们不能再承受更多的不良专利。]]></description>
-      <guid>https://t.me/hn_summary/80347</guid>
-      <pubDate>Wed, 20 Mar 2024 06:54:25 GMT</pubDate>
+      <title>令人惊讶的是，洪都拉斯总统西奥马拉·卡斯特罗再次采取大胆立场 [...]</title>
+      <link>https://t.me/hn_summary/80366</link>
+      <description><![CDATA[洪都拉斯与加密货币自由主义投资者展开激烈斗争&lt; br /&gt;
+令人惊讶的是，洪都拉斯总统西奥马拉·卡斯特罗采取了大胆立场，反对美国加密货币投资者利用世界银行国际投资争端解决中心（ICSID）从该国攫取数十亿美元。这些投资者是一群加密自由主义者，他们受益于由毒品支持的政权制定的法律，该法律后来被洪都拉斯公众废除。卡斯特罗让洪都拉斯退出ICSID的决定得到了国际经济学家的支持，他们认为这是对民主的捍卫。这场战斗凸显了 ZEDE 有争议的历史，ZEDE 是通过军事政变和毒贩影响实施的。随着投资者通过世界银行寻求赔偿，斗争仍在继续，而卡斯特罗则坚定保护洪都拉斯主权。]]></description>
+      <guid>https://t.me/hn_summary/80366</guid>
+      <pubDate>Wed, 20 Mar 2024 11:45:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初是 [...]</title>
-      <link>https://t.me/hn_summary/80346</link>
-      <description><![CDATA[Open Salamander 是一款快速可靠的 Windows 两面板文件管理器
-Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初由 Petr Šolín 于 1997 年开发，名为 Servant Salamander。该项目后来更名为 Altap Salamander，并最终于 2023 年作为 Open Salamander 5.0 开源。该项目的独特之处在于它是一个纯WinAPI应用程序，不使用任何MFC等框架。它欢迎贡献并提供各种功能和插件，尽管某些插件可能需要更新或替换。 Open Salamander 根据 GPLv2 及更高版本获得许可。]]></description>
-      <guid>https://t.me/hn_summary/80346</guid>
-      <pubDate>Wed, 20 Mar 2024 05:20:58 GMT</pubDate>
+      <title>马萨诸塞州索尔兹伯里一座为保护海滨房屋而建造的昂贵沙丘消失了 [...]</title>
+      <link>https://t.me/hn_summary/80365</link>
+      <description><![CDATA[一扫而光：为保护美国家园而建造的价值 50 万美元的沙丘消失在天
+马萨诸塞州索尔兹伯里一座为保护海滨房屋而建造的昂贵沙丘在完工后三天内就消失了，令房主们悲痛欲绝。这座沙丘由 15,000 吨沙子制成，旨在保护这些财产免受海平面上升和严重风暴的影响。尽管沙丘的寿命很短，但该项目背后的志愿者组织声称，沙丘通过防止进一步的破坏达到了其目的。现在，居民正在寻求国家援助来补充沙子，因为马萨诸塞州的海滩上不允许有更多的永久性建筑。该事件突显了沿海社区在气候变化和极端天气事件面前面临的持续挑战。]]></description>
+      <guid>https://t.me/hn_summary/80365</guid>
+      <pubDate>Wed, 20 Mar 2024 11:40:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
