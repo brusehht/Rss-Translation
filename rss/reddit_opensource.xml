@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 21 Mar 2024 06:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 09:12:09 GMT</lastBuildDate>
+    <item>
+      <title>成为开源的 RAJA 或 RANI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bk12q1/become_the_raja_or_rani_of_open_source/</link>
+      <description><![CDATA[ 由   提交/u/derberq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bk12q1/become_the_raja_or_rani_of_open_source/</guid>
+      <pubDate>Thu, 21 Mar 2024 07:42:28 GMT</pubDate>
+    </item>
     <item>
       <title>Redis 采用双源可用许可 |雷迪斯</title>
       <link>https://www.reddit.com/r/opensource/comments/1bjx7fk/redis_adopts_dual_sourceavailable_licensing_redis/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我记得读过一篇关于一些俄罗斯打印机软件开发人员的帖子，他们违反了他们使用的某些库的 GPL，因为他们没有向该帖子的作者透露其源代码购买“商业许可证”来自原始库的开发人员。我现在找不到这个帖子了（X 的搜索系统很糟糕，花了 10 分钟滚动我以前喜欢的内容，但没有结果），但我记得双重许可的想法。 我如何考虑发布我自己开发了一年多的服务器端软件，作为一名破产的开源粉丝，我觉得它可能是一个完美的中间地带——为那些准备好的人提供 Copyleft AGPL 之间的选择以相同的许可证和商业收入共享许可证发布他们的开发成果，供那些想要进行改进并保留其秘密的公司使用。 据我所知，我不能将任何 GPL/AGPL 许可代码包含在我的作品将在没有版权所有者明确许可的情况下以这种方式获得双重许可。这是否意味着，如果有人使用我的 AGPL 工作并进行更改，我将无法将此更改添加到我的主分支中？ 请分享一些采用此许可模式的成功软件示例。    由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1bix18d/what_are_some_good_examples_of_duallicensing/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bix18d/what_are_some_good_examples_of_duallicensing/</guid>
       <pubDate>Tue, 19 Mar 2024 22:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用苏格兰 STV 计票。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bitd3l/counting_votes_using_scottish_stv/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bitd3l/counting_votes_using_scottish_stv/</guid>
-      <pubDate>Tue, 19 Mar 2024 19:47:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
