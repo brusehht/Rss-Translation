@@ -4,16 +4,65 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 22 Mar 2024 09:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 12:19:22 GMT</lastBuildDate>
+    <item>
+      <title>完美的生成式人工智能软件的功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkwmlw/features_for_the_perfect_generative_ai_software/</link>
+      <description><![CDATA[根据您的经验和观点，您认为理想的生成式 AI（主要是图像）软件中您想要的首要功能是什么？    由   提交/u/blondie2405  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkwmlw/features_for_the_perfect_generative_ai_software/</guid>
+      <pubDate>Fri, 22 Mar 2024 11:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>NLTK 与 spaCy：深入探讨 NLP 库</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkwlsi/nltk_vs_spacy_a_deeper_dive_into_nlp_libraries/</link>
+      <description><![CDATA[NLTK 和 spaCy 是开发人员、研究人员和企业必不可少的 NLP 工具。 NLTK 为标记化和词性标记等任务提供灵活的算法，而 spaCy 以其速度和性能而闻名，是高效 NLP 解决方案的理想选择。 NLTK 面向研究人员，spaCy 面向生产任务，两者都广泛应用于商业应用。 NLTK 提供多种文本分析工具，可针对各种任务进行定制，而 spaCy 的效率适合生产中的快速部署，具有预先训练的模型以实现无缝集成。  阅读：https://www.seaflux.tech/blogs /nltk-vs-spacy-nlp-libraries-comparison   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkwlsi/nltk_vs_spacy_a_deeper_dive_into_nlp_libraries/</guid>
+      <pubDate>Fri, 22 Mar 2024 11:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>在现有代码库上工作的最佳开源人工智能代理是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkw4rd/what_is_the_best_opensource_ai_agent_for_working/</link>
+      <description><![CDATA[能够提供诸如现有 MVC 控制器、应用程序结构之类的上下文，并且 AI 能够根据需要拉取和查看当前代码将是一个很好的选择 我最近了解了 Devika，如果它能以某种方式提供上下文，那么它可能是一个解决方案。 目前哪种开源 AI 代理表现最好，能够访问文件系统上的代码库？ ​   由   提交 /u/head_robotics   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkw4rd/what_is_the_best_opensource_ai_agent_for_working/</guid>
+      <pubDate>Fri, 22 Mar 2024 10:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费 AI 生成的 Powerpoint？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvjs1/free_ai_generated_powerpoints/</link>
+      <description><![CDATA[是否有完全免费的 AI 站点用于创建 Powerpoint 演示文稿？ 如果没有，是否有使用 ChatGPT 等的一般规则。这样就可以轻松输出并复制到 Powerpoint 中？ 我正在寻找一种快速制作基本 Powerpoint 的方法，可以在短时间内进行定制。    由   提交 /u/TheDreamnought   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvjs1/free_ai_generated_powerpoints/</guid>
+      <pubDate>Fri, 22 Mar 2024 09:56:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的 Linkedin Enggament Pod，您对 hyperclapper 有什么看法？你会用吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvh8w/free_linkedin_enggament_pod_what_are_your/</link>
+      <description><![CDATA[我想开始讨论我最近一直在思考的一个话题——LinkedIn 参与的艺术。这是许多营销人员不断寻求改进的领域。我遇到了一个名为 HyperClapper 的工具，我认为它可能值得在这里讨论。在你下结论之前，这不是一个促销帖子。我不隶属于他们，也不想推销他们的产品。相反，我有兴趣听听您对其背后概念的想法。 HyperClapper 提供声称可以提高 LinkedIn 帖子参与度的功能。这与垃圾邮件或自动化无关，而是了解如何鼓励网络内的真实交互。他们提到了人工智能生成的评论和回复等功能。 你们中有人探索过类似的策略来提高 LinkedIn 参与度吗？什么对您有效，什么无效？让我们分享有关提高 LinkedIn 参与度的见解、技巧和经验。无论是有意义的内容、网络策略还是 HyperClapper 等工具，让我们就如何帮助我们所有人在专业网络领域取得成功进行建设性讨论。 请分享您的想法和经验，让我们保持这次对话的价值和价值信息丰富！期待听到您的观点。   由   提交/u/SnooHabits754  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvh8w/free_linkedin_enggament_pod_what_are_your/</guid>
+      <pubDate>Fri, 22 Mar 2024 09:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的 Linkedin Enggament Pod，您对 hyperclapper 有什么看法？你会用吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvgdq/free_linkedin_enggament_pod_what_are_your/</link>
+      <description><![CDATA[我想开始讨论我最近一直在思考的一个话题——LinkedIn 参与的艺术。这是许多营销人员不断寻求改进的领域。我遇到了一个名为 HyperClapper 的工具，我认为它可能值得在这里讨论。在你下结论之前，这不是一个促销帖子。我不隶属于他们，也不想推销他们的产品。相反，我有兴趣听听您对其背后概念的想法。 HyperClapper 提供声称可以提高 LinkedIn 帖子参与度的功能。这与垃圾邮件或自动化无关，而是了解如何鼓励网络内的真实交互。他们提到了人工智能生成的评论和回复等功能。 你们中有人探索过类似的策略来提高 LinkedIn 参与度吗？什么对您有效，什么无效？让我们分享有关提高 LinkedIn 参与度的见解、技巧和经验。无论是有意义的内容、网络策略还是 HyperClapper 等工具，让我们就如何帮助我们所有人在专业网络领域取得成功进行建设性讨论。 请分享您的想法和经验，让我们保持这次对话的价值和价值信息丰富！期待听到您的观点。   由   提交/u/SnooHabits754  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvgdq/free_linkedin_enggament_pod_what_are_your/</guid>
+      <pubDate>Fri, 22 Mar 2024 09:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>从事人工智能相关领域的人，如果不是程序员，可以从事哪些相关工作？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvbpv/those_who_work_in_ai_related_fields_what_adjacant/</link>
+      <description><![CDATA[我想进入这个领域，但我知道人工智能开发将是一个陡峭的学习曲线，想知道该领域是否还有其他工作雇用非程序员？我目前从事商业智能工作。   由   提交/u/slapstick15  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkvbpv/those_who_work_in_ai_related_fields_what_adjacant/</guid>
+      <pubDate>Fri, 22 Mar 2024 09:40:48 GMT</pubDate>
+    </item>
     <item>
       <title>向专家提问：AGI实际上将如何实现？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkuxh2/question_for_the_experts_how_will_agi_actually_be/</link>
-      <description><![CDATA[所以我们都在同一页面上，在这篇文章中让我们将 AGI 定义为一个能够在标准化测试中达到最高智商的系统地球上任何人都能够产生比人脑更多的突触，而且，虽然这似乎很难以具体的方式定义，但能够识别语言和非语言线索，同时具有“自我意识”和“意识”以最理性的人描述这些术语的方式。  考虑一下我今天早些时候在 X 上发现的 Abacus.AI 首席执行官 Bindu Reddy 发表的这篇文章： “人工智能模型在越来越大的数据集或大量计算上进行训练时将不会”神奇地变得有意识 人工智能模型显得智能的唯一原因是推理嵌入在语言数据中！  当接受大量语言数据的训练时，他们会学习固有的模式并能够执行推理任务！  就是这样！这并不奇怪，这是预料之中的！  OTOH 意识和自我意识并不嵌入语言中！它在语言出现之前就在神经有机大脑中进化了！  所以，是的，除非我们刻意训练一个模型有意识，否则法学硕士不会有一天神奇地变得有意识！” 我已经思考同样的事情有一段时间了，因为人工智能不是有机材料，没有随着时间的推移继续发展和进化的内在动力。除了另一端的人类一遍又一遍地向其提供更多数据之外，不存在达尔文式的生存本能并随着时间的推移变得更加聪明。 我的问题实际上是我们在什么时候跨过拥有本质上，法学硕士正在接受大量数据/参数的培训，然后进入所谓的有感知的、模仿有机体的 AGI？我真的对这个主题了解不多，如果您在场，我很想听听该领域的一些人的意见。    由   提交 /u/Select-Music6767    reddit.com/r/ArtificialInteligence/comments/1bkuxh2/question_for_the_experts_how_will_agi_actually_be/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[所以我们都在同一页面上，在这篇文章中让我们将 AGI 定义为一个能够在标准化测试中达到最高智商的系统地球上任何人都能够产生比人脑更多的突触，而且，虽然这似乎很难以具体的方式定义，但能够识别语言和非语言线索，同时具有“自我意识”和“意识”以最理性的人描述这些术语的方式。  考虑一下我今天早些时候在 X 上发现的 Abacus.AI 首席执行官 Bindu Reddy 发表的这篇文章： “人工智能模型在越来越大的数据集或大量计算上进行训练时将不会”神奇地变得有意识 人工智能模型显得智能的唯一原因是推理嵌入在语言数据中！  当接受大量语言数据的训练时，他们会学习固有的模式并能够执行推理任务！  就是这样！这并不奇怪，这是预料之中的！  OTOH 意识和自我意识并不嵌入语言中！它在语言出现之前就在神经有机大脑中进化了！  所以，是的，除非我们刻意训练一个模型有意识，否则法学硕士不会有一天神奇地变得有意识！” 我已经思考同样的事情有一段时间了，因为人工智能不是有机材料，没有随着时间的推移继续发展和进化的内在动力。除了另一端的人类一遍又一遍地向其提供更多数据之外，不存在达尔文式的生存本能并随着时间的推移变得更加聪明。 我的问题实际上是我们在什么时候跨过拥有本质上，法学硕士正在接受大量数据/参数的培训，然后进入所谓的有感知的、模仿有机体的 AGI？我真的对这个主题了解不多，如果您在场，我很想听听该领域的一些人的意见。  如果这些听起来完全荒谬和搞笑，请怜悯我。   由   提交 /u/Select-Music6767    reddit.com/r/ArtificialInteligence/comments/1bkuxh2/question_for_the_experts_how_will_agi_actually_be/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkuxh2/question_for_the_experts_how_will_agi_actually_be/</guid>
       <pubDate>Fri, 22 Mar 2024 09:12:02 GMT</pubDate>
     </item>
     <item>
-      <title>联合国通过了有史以来第一个人工智能决议。 “人们在线下拥有的相同权利也必须在网上得到保护，包括人工智能系统的整个生命周期，”</title>
+      <title>联合国通过了有史以来第一个人工智能决议。 “人们在线下拥有的相同权利也必须在网上受到保护，包括人工智能系统的整个生命周期，”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkunl6/the_un_has_adopted_its_firstever_ai_resolution/</link>
       <description><![CDATA[联合国大会通过了有史以来第一个人工智能决议，旨在推广“安全、可靠、值得信赖”的人工智能 (AI) 系统，也有利于所有人的可持续发展。该决议由美国发起，包括中国在内的其他123个成员国共同提案。  https://news.un.org/en/story/2024/03 /1147831   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkunl6/the_un_has_adopted_its_firstever_ai_resolution/</guid>
@@ -22,7 +71,7 @@
     <item>
       <title>如何删除 pi.ai 上的帖子？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkuj4o/how_do_you_delete_threads_on_piai/</link>
-      <description><![CDATA[它似乎坏了，说当你将鼠标悬停在线程（或垃圾桶）上并单击它时，会出现三个点，但不存在这样的东西我 另外，在手机应用程序上，它说在线程上向左滑动并删除，在 iPhone 应用程序上向左滑动对我没有任何作用  &amp; #32；由   提交/u/daway8899  [链接] [评论]]]></description>
+      <description><![CDATA[它似乎坏了，说当您将鼠标悬停在线程（或垃圾桶）上并单击它时，会出现三个点，但不存在这样的东西我 另外，在手机应用程序上，它说在线程上向左滑动并删除，在 iPhone 应用程序上向左滑动对我没有任何作用  &amp; #32；由   提交/u/daway8899  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkuj4o/how_do_you_delete_threads_on_piai/</guid>
       <pubDate>Fri, 22 Mar 2024 08:42:26 GMT</pubDate>
     </item>
@@ -34,44 +83,9 @@
       <pubDate>Fri, 22 Mar 2024 08:40:30 GMT</pubDate>
     </item>
     <item>
-      <title>我拥有我的人工智能艺术吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bktpbp/do_i_own_my_ai_art/</link>
-      <description><![CDATA[我可以为我在 Midjourney 或 Stable Diffusion 中创建的图像添加版权吗？我可以将人工智能生成的艺术作品用于商业用途吗？过去欧盟和美国的法律是如何适用的？ 答案在这里  &amp; #32；由   提交/u/Magic-Fabric  /u/Magic-Fabric  reddit.com/r/ArtificialInteligence/comments/1bktpbp/do_i_own_my_ai_art/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bktpbp/do_i_own_my_ai_art/</guid>
-      <pubDate>Fri, 22 Mar 2024 07:39:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 AI 提升您的 LinkedIn 参与度：我使用 HyperClapper 的经验</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkskhl/elevate_your_linkedin_engagement_with_ai_my/</link>
-      <description><![CDATA[嘿，人工智能爱好者， 我最近偶然发现了人工智能在 LinkedIn 参与度中的一个令人着迷的应用，我迫不及待地想分享我的经验和大家在一起。现在，在您急于下结论之前，让我向您保证，这与销售产品无关。这是关于探索人工智能改变我们数字交互的创新方式。作为一个对人工智能及其应用充满热情的人，我一直对人工智能如何改善我们的日常生活很感兴趣。人工智能真正给我留下深刻印象的一个领域是 LinkedIn 参与领域。 输入 HyperClapper&lt; /a&gt;.这个人工智能驱动的工具改变了我在 LinkedIn 帖子上的参与度。它是如何工作的？好吧，HyperClapper 无需花费数小时来制作评论和回复，而是使用人工智能来生成真实的、类似人类的交互。这就像拥有一位随时准备伸出援助之手的私人助理。 但最棒的部分是：HyperClapper 不仅仅是增加点赞和评论。这是为了在 LinkedIn 上培养真正的联系和对话。无论您是分享行业见解、推广您的工作，还是只是与志趣相投的人建立联系，HyperClapper 都能帮助您在拥挤的数字空间中脱颖而出。 现在，我知道您在想什么。这难道不是又一个营销噱头吗？相信我，我也有疑问。但在尝试 HyperClapper 后，我对结果感到震惊。不仅我的帖子参与度飙升，而且我还发现自己能够与其他方式无法接触到的人建立联系。因此，如果您希望将 LinkedIn 游戏提升到一个新的水平，并利用人工智能的力量真正的参与，我强烈建议给 HyperClapper 一个机会。这不是关于销售；而是关于销售。这是关于探索人工智能的可能性以及它如何增强我们的数字交互。我很想听听您对 HyperClapper 等人工智能驱动工具的想法。您是否尝试过使用 AI 来提高 LinkedIn 参与度？分享您的经历，让我们继续对话！ 最诚挚的问候， [您的名字]   由   提交/u/SnooHabits754  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkskhl/elevate_your_linkedin_engagement_with_ai_my/</guid>
-      <pubDate>Fri, 22 Mar 2024 06:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该加入这家公司吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bks5ln/should_i_join_this_company/</link>
-      <description><![CDATA[我是一名应届生（计算机科学专业毕业生），我还具备 Python、ML、深度学习和 NLP 方面的技能。 我最近收到了 WNS 的工作邀请，每月 36-40k 印度卢比。公司很好，但有一个问题： 该个人资料是 r2r 会计资料。不是我想去的GenAI领域。 但是在我的第三轮面试中，面试我的高级经理说他可以让我在他们的后端部门内部从事自动化等工作。另外，推荐我的人在审核期间也在场，他告诉我正常工资是 25-30k，他们给了我 36-40k 印度卢比，因为他们将我视为一项投资，所以我想这是一个很好的迹象他们可能会让我进入自动化领域。 这是一个好机会吗？人工智能或数据科学领域的人可以指导我吗？我真的很困惑。 另请注意，这是印度卢比。不是美元。   由   提交/u/ChillChats_123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bks5ln/should_i_join_this_company/</guid>
-      <pubDate>Fri, 22 Mar 2024 05:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能代理会成为公共牧羊人还是利基恶魔？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bks4gh/will_ai_agents_be_communal_shepherds_or_niche/</link>
-      <description><![CDATA[ 由   提交/u/Motor_System_6171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bks4gh/will_ai_agents_be_communal_shepherds_or_niche/</guid>
-      <pubDate>Fri, 22 Mar 2024 05:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>一体化人工智能平台</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkrdvi/an_allinone_ai_platform/</link>
-      <description><![CDATA[一款一体化人工智能平台，旨在增强您的创意和开发项目。 https://aiforFounder.com/register?aff=ZQCQEUOBWTKZ   由   提交 /u/MIZEV21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkrdvi/an_allinone_ai_platform/</guid>
-      <pubDate>Fri, 22 Mar 2024 04:58:31 GMT</pubDate>
-    </item>
-    <item>
       <title>MedBright AI Investments Inc. (MBAI.c) 通过创新合作伙伴关系增强医疗保健运营</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkksog/medbright_ai_investments_inc_mbaic_enhances/</link>
-      <description><![CDATA[在医疗保健管理领域，技术进步在简化操作和改善患者护理方面发挥着关键作用。其中一项进步来自 MedBright AI Investments Inc.（CSE：MBAI，OTCQB：MBAIF），这是一家致力于投资尖端医疗保健技术解决方案的公司。  MBAI 最近宣布与加拿大著名医疗保健提供商 Rejuvenation Medical Group 达成另一项战略协议，旨在通过采用先进的人工智能技术彻底改变诊所运营。 其核心是合作伙伴关系在于 MBAI 的 MedMatrix AI 平台及其 AI Reporter 功能。该软件提供全面的数据报告和预测功能，为 Rejuvenation Medical Group 等诊所提供有关其运营的宝贵见解。  通过利用 MedMatrix AI Reporter，Rejuvenation 能够在分布于加拿大三个省的八家诊所网络中集中报告流程。 通过集成这项创新技术，Rejuvenation旨在优化资源利用、扩大诊所可及性并增加收入。  博士。 Rejuvenation Medical Group 的医疗总监兼皮肤科医生 Paul Kuzel 对 MedMatrix AI Reporter 的潜力表示了热情，并强调了它在诊所内识别改进机会的能力。 除了给 Rejuvenation Medical Group 带来的直接好处之外，此次合作证明了MBAI在医疗保健技术投资方面的专业知识。通过为 Rejuvenation 提供定制的人工智能解决方案，MBAI 展示了其为客户带来切实成果的承诺。  展望未来，MBAI 仍致力于培育战略合作伙伴关系，推动创新和改进医疗保健管理实践。  通过其协同投资组合，MBAI 继续将自己定位为寻求利用人工智能技术力量的医疗保健提供商值得信赖的合作伙伴。 完整新闻： https://financialpost.com/globe-newswire/rejuvenation-medical-group-of-canada-uses-medmatrix-ai-reporter-to-streamline-reporting-and-improve-operations 代表 MedBright AI Investments Inc. 发布   由   提交 /u/Califanoal   [链接] [评论]]]></description>
+      <description><![CDATA[在医疗保健管理领域，技术进步在简化操作和改善患者护理方面发挥着关键作用。其中一项进步来自 MedBright AI Investments Inc.（CSE：MBAI，OTCQB：MBAIF），这是一家致力于投资尖端医疗保健技术解决方案的公司。  MBAI 最近宣布与加拿大著名医疗保健提供商 Rejuvenation Medical Group 达成另一项战略协议，旨在通过采用先进的人工智能技术彻底改变诊所运营。 其核心是合作伙伴关系在于 MBAI 的 MedMatrix AI 平台及其 AI Reporter 功能。该软件提供全面的数据报告和预测功能，为 Rejuvenation Medical Group 等诊所提供有关其运营的宝贵见解。  通过利用 MedMatrix AI Reporter，Rejuvenation 能够在分布于加拿大三个省的八家诊所网络中集中报告流程。 通过集成这项创新技术，Rejuvenation旨在优化资源利用、扩大诊所可及性并增加收入。  博士。 Rejuvenation Medical Group 的医疗总监兼皮肤科医生 Paul Kuzel 对 MedMatrix AI Reporter 的潜力表示了热情，并强调了它在诊所内识别改进机会的能力。 除了给 Rejuvenation Medical Group 带来的直接好处之外，此次合作证明了MBAI在医疗保健技术投资方面的专业知识。通过为 Rejuvenation 提供量身定制的人工智能解决方案，MBAI 展示了其为客户带来切实成果的承诺。  展望未来，MBAI 仍致力于培育战略合作伙伴关系，推动创新和改进医疗保健管理实践。  通过其协同投资组合，MBAI 继续将自己定位为寻求利用人工智能技术力量的医疗保健提供商值得信赖的合作伙伴。 完整新闻： https://financialpost.com/globe-newswire/rejuvenation-medical-group-of-canada-uses-medmatrix-ai-reporter-to-streamline-reporting-and-improve-operations 代表 MedBright AI Investments Inc. 发布   由   提交 /u/Califanoal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkksog/medbright_ai_investments_inc_mbaic_enhances/</guid>
       <pubDate>Thu, 21 Mar 2024 23:23:50 GMT</pubDate>
     </item>
@@ -83,21 +97,7 @@
       <pubDate>Thu, 21 Mar 2024 22:32:29 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 的 10 个最佳 ChatGPT 提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkjext/10_best_chatgpt_prompts_for_linkedin/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkjext/10_best_chatgpt_prompts_for_linkedin/</guid>
-      <pubDate>Thu, 21 Mar 2024 22:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些有趣的“人工智能功能出了问题”的故事？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bkazys/what_are_some_interesting_ai_features_gone_wrong/</link>
-      <description><![CDATA[本文列出了其中的 9 篇：  Gannett AI 搞砸了高中体育文章 iTutorGroup 的招聘 AI 因年龄而拒绝申请者 律师因 ChatGPT 幻觉法庭案件而面临处罚 人工智能算法可以识别除 COVID-19 之外的所有内容： Zillow 的算法购房灾难 医疗保健算法未能标记黑人患者 微软聊天机器人发布种族主义推文 亚马逊人工智能招聘工具仅推荐男性 目标分析向家人透露了一名青少年怀孕的情况  我渴望了解更多信息。特别有趣/引人注目的。   由   提交/u/RR_28023  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bkazys/what_are_some_interesting_ai_features_gone_wrong/</guid>
-      <pubDate>Thu, 21 Mar 2024 16:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

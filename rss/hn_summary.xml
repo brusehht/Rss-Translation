@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 22 Mar 2024 08:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 12:08:04 GMT</lastBuildDate>
     <item>
-      <title>[媒体]苹果 M 系列芯片中发现了一个新漏洞，允许 [...]</title>
-      <link>https://t.me/hn_summary/80724</link>
-      <description><![CDATA[Apple M 系列中的新漏洞无法提取密钥打补丁
-苹果 M 系列芯片中发现了一个新的漏洞，可以提取密钥，但不幸的是，该漏洞无法修复。这给苹果设备的用户带来了重大的安全风险。围绕此漏洞的争议在于，它使用户容易受到潜在攻击并损害他们的敏感信息。对于苹果来说，及时解决这个问题以保护用户至关重要。随时了解情况并采取必要的预防措施来保护您的数据。]]></description>
-      <guid>https://t.me/hn_summary/80724</guid>
-      <pubDate>Fri, 22 Mar 2024 08:48:06 GMT</pubDate>
+      <title>[媒体] 20 世纪 90 年代中期，纯文本和 HTML 电子邮件之间的战争开始，引发了激烈的 [...]</title>
+      <link>https://t.me/hn_summary/80739</link>
+      <description><![CDATA[纯文本电子邮件
+20世纪90年代中期，纯文本和HTML电子邮件之间的战争开始，引发了互联网用户的激烈争论。早期的计算机爱好者 Mauricio Teixeira 甚至发起了“ASCII Ribbon Campaign”来抗议 HTML 电子邮件。尽管当今 HTML 电子邮件占据主导地位，但有些人仍然更喜欢纯文本的简单性和可访问性。 Mauricio 现在是红帽员工，他反思了自己过去的极端主义以及电子邮件可访问性的重要性。虽然大多数电子邮件客户端都支持 HTML，但有些客户端（例如 Thunderbird）仍然优先考虑纯文本。加入 ASCII Ribbon 帮派，在使用纯文本电子邮件网站上拥抱纯文本电子邮件的魅力。]]></description>
+      <guid>https://t.me/hn_summary/80739</guid>
+      <pubDate>Fri, 22 Mar 2024 12:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Show HN：绘制澳大利亚几乎所有法律、法规和案例</title>
-      <link>https://t.me/hn_summary/80723</link>
-      <description><![CDATA[显示 HN：映射澳大利亚几乎所有法律、法规和案例&lt; /a&gt;
-标题：Show HN：绘制澳大利亚几乎所有法律、法规和案例
-
-探索有史以来第一张澳大利亚法律地图，展示澳大利亚法律、法规和案例之间的相互联系和区别。探索法律领域中隐藏的关系和分歧，从案件和立法之间的障碍到家庭法、移民法和刑法的孤立分支。揭示判例法的连续性以及不同法律领域之间的漏洞边界。这张开创性的地图为澳大利亚法律的结构和构成提供了宝贵的见解，并有可能在未来进行更深入的探索和理解。 （根据故事文本的 44% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80723</guid>
-      <pubDate>Fri, 22 Mar 2024 08:00:48 GMT</pubDate>
+      <title>[媒体]德国刚刚将娱乐性大麻合法化，这一决定遭到了反对者 [...]</title>
+      <link>https://t.me/hn_summary/80738</link>
+      <description><![CDATA[德国刚刚将休闲大麻合法化
+德国刚刚将娱乐性大麻合法化，这一决定遭到了基民盟政治家雷纳·哈塞洛夫和迈克尔·克雷奇默的反对。哈塞洛夫主张成立调解委员会来解决对时间表和现有案件的担忧，而克雷奇默则警告大麻作为入门毒品的潜在危险。尽管荷兰的消费合法化，但两位政治家都对潜在的负面影响表示担忧。哈塞洛夫甚至警告与危险的大麻消费有关的潜在“死亡”。此举标志着德国禁毒政策的重大转变，并引发了政界人士和公众的争论。]]></description>
+      <guid>https://t.me/hn_summary/80738</guid>
+      <pubDate>Fri, 22 Mar 2024 11:56:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“makeMoE”项目是专家语言模型稀疏混合的实现[...]</title>
-      <link>https://t.me/hn_summary/80722</link>
-      <description><![CDATA[在 PyTorch 的单个文件中实现混合专家语言模型&lt; /a&gt;
-“makeMoE”项目是 PyTorch 中稀疏混合专家语言模型的实现，受到 Andrej Karpathy 的“makemore”项目的启发。它采用稀疏混合专家架构，具有 top-k 门控、噪声 top-k 门控和 Kaiming He 初始化等功能。该项目包括 PyTorch 中的单个文件实现，以及用于理解模型架构和实现的笔记本。作者强调可读性和可修改性而不是性能，鼓励用户改进和定制代码。该项目是在 Databricks 上开发的，并利用 MLFlow 来跟踪指标。它旨在为语言建模任务提供一个有用的工具。]]></description>
-      <guid>https://t.me/hn_summary/80722</guid>
-      <pubDate>Fri, 22 Mar 2024 07:52:39 GMT</pubDate>
+      <title>[媒体]在破纪录的洪水、干旱、热浪和野火中，气候变化 [...]</title>
+      <link>https://t.me/hn_summary/80737</link>
+      <description><![CDATA[为什么气候变化会像虫子一样摧毁文明&lt; br /&gt;
+在破纪录的洪水、干旱、热浪和野火的影响下，气候否认主义不断抬头，这让作者感到困惑。尽管气候变化的影响显而易见，但人们似乎还是把头埋在沙子里，而不是要求采取行动。作者警告说，如果我们继续忽视气候变化的现实，它将像虫子一样摧毁文明。情况的紧迫性显而易见，但许多人选择否认事实。]]></description>
+      <guid>https://t.me/hn_summary/80737</guid>
+      <pubDate>Fri, 22 Mar 2024 11:50:49 GMT</pubDate>
     </item>
     <item>
-      <title>陨石自检清单提供了有关如何识别陨石的宝贵信息[...]</title>
-      <link>https://t.me/hn_summary/80721</link>
-      <description><![CDATA[陨石自检清单
-陨石自检清单提供了有关如何根据其熔壳识别陨石的宝贵信息。聚变壳是陨石因进入地球大气层的高温而产生的闪亮、玻璃状和较暗的外观。这一特征对于区分陨石和普通岩石至关重要。检查表强调，如果一块岩石缺乏熔壳并且不含铁镍金属，那么它不太可能是陨石。该网站包括熔壳特征的详细图像和解释，例如收缩裂纹和片状，以帮助准确识别。]]></description>
-      <guid>https://t.me/hn_summary/80721</guid>
-      <pubDate>Fri, 22 Mar 2024 07:38:31 GMT</pubDate>
+      <title>[媒体] 在最近与 Tantek 和 Joe 的对话中，我们探讨了 HTML 成为 [...]</title>
+      <link>https://t.me/hn_summary/80736</link>
+      <description><![CDATA[HTML 的可读性、稳健性和直观性
+在最近与 Tantek 和 Joe 的对话中，我们探讨了 HTML 成为 Web 标记首选标准的原因。蒂姆·伯纳斯·李爵士的《编织网络》强调了 HTML 意想不到的人类可读性，它使用户能够创建自己的文档。与 Markdown 不同，HTML 的稳健性允许轻松调试和视觉反馈。 Adam Bosworth 对 Internet Explorer 4.0 的见解强调了 HTML 的灵活性和宽容性。对于许多人来说，编写 HTML 是一项有趣的活动，像 IndieWeb 这样的社区培养了人们对创作 Web 内容的热爱。总体而言，HTML 的简单性和直观性使其成为深受喜爱的网页创建工具。]]></description>
+      <guid>https://t.me/hn_summary/80736</guid>
+      <pubDate>Fri, 22 Mar 2024 11:40:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 黑客新闻排行榜。</title>
-      <link>https://t.me/hn_summary/80720</link>
-      <description><![CDATA[黑客新闻排名。 HN 帖子在时间线上的排名图表
-欢迎来到黑客新闻排名！我们的网站为用户提供详细的图表，显示一段时间内黑客新闻上的帖子排名。了解帖子的受欢迎程度如何上升和下降，并跟踪科技界最受关注的话题的趋势。我们独特的视觉呈现使用户可以轻松地看到哪些帖子正在获得关注，哪些帖子正在失去动力。通过我们的交互式图表了解黑客新闻上的最新讨论和争议。访问 hnrankings.info 探索黑客新闻排名的动态世界。 ]]></description>
-      <guid>https://t.me/hn_summary/80720</guid>
-      <pubDate>Fri, 22 Mar 2024 07:21:22 GMT</pubDate>
+      <title>[媒体]作者讨论了 Apache NuttX 上按需分页的实现，重点介绍 [...]</title>
+      <link>https://t.me/hn_summary/80735</link>
+      <description><![CDATA[Apache NuttX：实现按需分页
+作者讨论了 Apache NuttX 上按需分页的实现，强调了它对于嵌入式系统等内存受限设备的重要性。他们解释了按需分页、延迟加载和过度使用内存的概念，强调了它如何允许较大的程序在内存有限的系统上运行。作者还深入研究了 NuttX 对地址环境的支持以及传统按需寻呼实施中面临的挑战。他们提供了使用 RISC-V 架构的详细示例来演示如何在内核构建模式下加载应用程序。作者对这一技术主题的探索展示了他们在嵌入式系统和内核开发方面的专业知识。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80735</guid>
+      <pubDate>Fri, 22 Mar 2024 11:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Atari Falcon030 是 Atari 于 1992 年发布的最后一款电脑，其特点令人印象深刻 [...]</title>
-      <link>https://t.me/hn_summary/80719</link>
-      <description><![CDATA[Atari Falcon030
-Atari Falcon030 是 Atari 于 1992 年发布的最后一款计算机，具有令人印象深刻的创新功能，例如 VIDEL 视频芯片和 Motorola 56001 DSP。尽管硬件先进，Falcon030 仍面临过时的机箱设计和有限的 RAM 选项的挑战。定价也是一个问题，升级成本明显高于基本型号。 Falcon030 默认在 TOS 4 上运行，可以选择升级到 MultiTOS 以实现多任务处理功能。虽然 Falcon030 有其缺陷，但由于其独特的特性和功能，它仍然是爱好者追捧的复古计算机。]]></description>
-      <guid>https://t.me/hn_summary/80719</guid>
-      <pubDate>Fri, 22 Mar 2024 06:53:10 GMT</pubDate>
+      <title>[媒体] 在这篇关于 Zig 延迟模式的文章中，作者探讨了 Zig 延迟的意想不到的用途 [...]</title>
+      <link>https://t.me/hn_summary/80734</link>
+      <description><![CDATA[之字形延迟模式
+在这篇关于 Zig defer 模式的文章中，作者探讨了 Zig defer 语句在传统资源管理之外的意外用途。虽然 defer 并不是 RAII 的完美替代品，但它鼓励批量资源获取和释放调用以获得更好的性能。这篇文章深入研究了 defer 的非面向资源的用法，展示了它在合约编程和错误处理方面的强大功能。示例包括确保后置条件、防止错误返回路径以及简化向最终用户的错误报告。此外，defer 可以巧妙地用作递增值的简写，如从空闲列表中弹出项目所示。]]></description>
+      <guid>https://t.me/hn_summary/80734</guid>
+      <pubDate>Fri, 22 Mar 2024 11:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]蒙古正面临50年来最严酷的冬季，极端条件导致新生儿死亡[...]</title>
-      <link>https://t.me/hn_summary/80718</link>
-      <description><![CDATA[近 500 万只动物在蒙古半个世纪以来最严酷的冬季死亡
-蒙古正面临50年来最严酷的冬季，极端条件导致近500万只动物死亡，并威胁到数千人的生计。这种被称为“dzud”的恶劣条件使许多牧民家庭陷入贫困，无法养活自己，也无法取暖。蒙古政府已宣布进入高度戒备状态，但危机的规模仍然令许多人感到意外。气候变化扰乱了蒙古的季节，导致暴风雨更加频繁和严重。红十字国际联合会呼吁提供资金来帮助受这场毁灭性危机影响的人们。]]></description>
-      <guid>https://t.me/hn_summary/80718</guid>
-      <pubDate>Fri, 22 Mar 2024 06:24:59 GMT</pubDate>
+      <title>询问 HN：有什么好的 gRPC 模糊测试器吗？</title>
+      <link>https://t.me/hn_summary/80733</link>
+      <description><![CDATA[询问 HN：有什么好的 gRPC 模糊测试器吗？&lt; br /&gt;
+作者一直在使用 Schemathesis 来测试 REST API，并发现它在发现意外错误和增强对其系统的信心方面非常出色。他们欣赏它如何与 pytest 无缝集成。然而，当涉及到使用 gRPC 服务时，他们正在努力寻找类似的工具。考虑到 gRPC 对模糊测试的适用性，他们发现奇怪的是，少数可用的解决方案是闭源的，并且需要与第三方平台集成。作者正在寻求有关 gRPC 的良好模糊器的建议，并想知道他们是否忽略了其他人正在使用的一个很棒的工具。]]></description>
+      <guid>https://t.me/hn_summary/80733</guid>
+      <pubDate>Fri, 22 Mar 2024 11:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Unitree 的 H1 人形机器人因成为第一个进行站立表演而引起轰动 [...]</title>
-      <link>https://t.me/hn_summary/80717</link>
-      <description><![CDATA[视频：Unitree H1 是第一个在没有液压系统的情况下完成后空翻的人形机器人&lt; /a&gt;
-Unitree 的 H1 人形机器人引起了轰动，成为第一个无需液压、仅依靠电动关节电机进行站立后空翻的机器人。虽然波士顿动力公司的 Atlas 等其他机器人已经利用液压技术实现了后空翻，但 Unitree 的 H1 却展示了令人印象深刻的敏捷性和创新能力。该机器人还展示了其他有用的技能，如快走、爬楼梯和跳舞。 H1 的售价为 9 万美元，并计划未来改进，是人形开发领域的一个有前途的补充。其先进功能包括头戴式传感器阵列和可更换电池，使其有别于市场上的其他机器人。]]></description>
-      <guid>https://t.me/hn_summary/80717</guid>
-      <pubDate>Fri, 22 Mar 2024 06:13:51 GMT</pubDate>
+      <title>问 HN：如何识别市场需求？</title>
+      <link>https://t.me/hn_summary/80732</link>
+      <description><![CDATA[询问 HN：如何识别市场需求？
+作为一名有抱负的企业家，我正在努力确定市场上的独特需求，以便我可以用自己的软件产品来满足。感觉就像所有可能的想法都已经被执行了。我如何确定要构建什么才能真正脱颖而出并满足需求？对于许多想要自己创业的人来说，这个问题是一个常见的困境。加入讨论如何发现未开发的机会并在拥挤的市场中创造真正创新的产品。]]></description>
+      <guid>https://t.me/hn_summary/80732</guid>
+      <pubDate>Fri, 22 Mar 2024 11:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.henrikkarlsson.xyz，我们探讨了隐藏限制的概念，这可能是 [...]</title>
-      <link>https://t.me/hn_summary/80716</link>
-      <description><![CDATA[隐藏在盲点中的限制
-在 www.henrikkarlsson.xyz 中，我们探索了以下概念：隐藏的局限性可能会阻碍我们的成长和成功。通过个人轶事和反思，我们深入探讨了识别和克服这些限制以充分发挥潜力的重要性。通过分享自我发现和学习的经验，我们强调认识和解决盲点的变革力量。从重新定义写作过程到将失败视为洞察力的来源，我们为个人和职业发展提供独特的视角。与我们一起踏上自我完善和发现的旅程，共同应对成长和学习的复杂性。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80716</guid>
-      <pubDate>Fri, 22 Mar 2024 05:51:41 GMT</pubDate>
+      <title>问 HN：人工智能的最佳用户体验是什么？</title>
+      <link>https://t.me/hn_summary/80731</link>
+      <description><![CDATA[询问 HN：人工智能的最佳用户体验是什么？ 
+您遇到过的人工智能的用户体验。在下面的评论中分享您的想法和见解！让我们揭开人工智能在用户界面中最具创新性和令人印象深刻的应用。加入 HN 讨论，参与塑造人工智能技术未来的对话。]]></description>
+      <guid>https://t.me/hn_summary/80731</guid>
+      <pubDate>Fri, 22 Mar 2024 11:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 liorsinai.github.io 上的这篇博文中，作者探讨了 [...]</title>
-      <link>https://t.me/hn_summary/80715</link>
-      <description><![CDATA[Julia 中的基数树
-在这篇关于 liorsinai.github.io 的博文中，作者探索了 Julia 中基数树的实现，这是一种用于存储和搜索字符串的空间优化数据结构。这篇文章介绍了基数树的基础知识、它们的应用程序，以及使用测试驱动开发 (TDD) 在 Julia 中构建基数树的过程。作者详细解释了创建 RadixTreeNode 结构、实现搜索功能，并讨论了基数树与其他搜索方法相比的局限性。这篇文章还包括代码片段和示例来说明所讨论的概念。总的来说，它为那些对 Julia 数据结构和算法感兴趣的人提供了一份信息指南。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80715</guid>
-      <pubDate>Fri, 22 Mar 2024 05:49:36 GMT</pubDate>
+      <title>问 HN：如何运行老式邮件列表？</title>
+      <link>https://t.me/hn_summary/80730</link>
+      <description><![CDATA[询问 HN：如何运行老式邮件列表？&lt; /a&gt;
+作者希望为少数人建立一个老式的邮件列表，以便在没有现代聊天平台的情况下讨论软件和副项目。他们正在寻求有关如何运行经典邮件列表、如何处理垃圾邮件发送者以及邮件列表云服务或在 VPS 上运行是否是最佳选择的建议。他们还质疑 GNU Mailman 是否仍然是最佳选择，或者是否有更现代的替代方案。作者邀请有兴趣以轻松、悠闲的方式分享代码、想法和讨论的程序员同行通过电子邮件进行联系。]]></description>
+      <guid>https://t.me/hn_summary/80730</guid>
+      <pubDate>Fri, 22 Mar 2024 10:37:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
