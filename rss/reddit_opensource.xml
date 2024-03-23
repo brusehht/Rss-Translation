@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 23 Mar 2024 15:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 18:13:20 GMT</lastBuildDate>
+    <item>
+      <title>构建基于Web App的一体化OSS操作系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bluy6z/building_an_allinone_oss_operating_system_based/</link>
+      <description><![CDATA[大家好！我希望每个人都一切都好。  我正计划启动一个OSS项目，我们构建一个一体化的操作系统供每个人使用。该操作系统将完全基于网络，并且将像 PWA 一样运行。  操作系统将包含互联网上的所有功能，包括计算器、日历、代码编辑器、联系人管理系统、国家/地区目录、词典、图像编辑器、语言翻译器、搜索引擎等等操作系统中包含的功能。我们还将在系统中包含一个看起来像维基百科的百科全书。  该操作系统将是完全定制的，并且是非商业的、社区所有的。它还将配备最好的安全和隐私系统。  如果有人有兴趣加入该任务和项目，请私信我或在下面发表评论。迫不及待地想开始！    由   提交 /u/JestonT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bluy6z/building_an_allinone_oss_operating_system_based/</guid>
+      <pubDate>Sat, 23 Mar 2024 15:32:37 GMT</pubDate>
+    </item>
     <item>
       <title>Mandrake 是 2000 年最好的 Linux 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1blu0bt/mandrake_is_the_best_linux_operating_system_of/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[做了一些研究（google-fu）并发现了这个 subreddit 和这篇文章： https://www.reddit.com/r/opensource/comments/dej32w/opensource_pdf_viewer_and_editor/ 现在，该帖子截至 /this/ 帖子已有 4 年历史，我想知道是否有人拥有他们所了解的最新工具，或者旧工具是否没有更新等等。我不想破坏旧帖子，也想根据我想要编辑的内容重新提出问题。 我从 Bitsavers 的大量扫描中发现了一份 PDF 文档- 在数据表/数据簿库中。 https://archive.org/details/bitsavers_necdatabooterCatalog_23751145 但是......所说的文件相当......荒谬。该文档的大部分内容都严重混乱。例如，它从文档第 236 页，到 239、240，然后到第 399 页，直到至少 407 页...非常混乱。 （编辑以上内容，结果是跳转到第 399 页是因为我打印了数据表的几个不同小节，/BUT/ 数据表的 /ARE/ 部分不合适，正如我在上述特定 archive.org页面，数据页237/238位于pdf页358-359） 所以我想要什么尝试做的是重新排序文档中的页面，然后尝试将文档重新提交回互联网档案馆？或者至少上传一个固定且按页面顺序排列的版本，以便人们可以打印出他们想要的数据表，而不必到处搜索相关页面？ 所以我想要使用的软件将在至少能够在略多于 400 页的文档（准确地说是 418 页）中重新排序页面 ​ 任何帮助将不胜感激。 &lt; /div&gt;  由   提交 /u/dracosilv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bke33a/opensource_pdf_editor_redux/</guid>
       <pubDate>Thu, 21 Mar 2024 18:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建商业产品的开源版本的合法性</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bkbbde/legality_of_creating_open_source_version_of_a/</link>
-      <description><![CDATA[我的一个想法引发了一些问题。这是我的“垃圾机器人”这让我想起了这一点，所以我在这里用它作为例子。 Litter Robot 拥有筛选猫砂（旋转浴缸）方法的专利。 现在显然我可以我不会出售以任何方式使用它的产品，但做一些建模、3D 打印零件以及使用 arduino 之类的东西来控制电路会相当容易。 如果我只这样做的话对于我自己来说，没有人会知道，但即使公司发现了，也可能不会有任何法律挑战，因为没有造成金钱损失。 如果在我制作模型后，我发布了计划作为开源，以便其他人可以便宜地 DIY 吗？ 这会被视为侵犯他们的专利吗？ 自从开源项目以来，Litter Robot 会对我提起民事诉讼吗？可能会失去客户？   由   提交 /u/loadnurmom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bkbbde/legality_of_creating_open_source_version_of_a/</guid>
-      <pubDate>Thu, 21 Mar 2024 16:55:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
