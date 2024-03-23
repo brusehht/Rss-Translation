@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 23 Mar 2024 00:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 03:14:27 GMT</lastBuildDate>
+    <item>
+      <title>使用本地 API 的 GUI 有声读物/TTS 生成器（基于 XTTS）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1blg1f7/a_gui_audiobook_tts_generator_working_with_local/</link>
+      <description><![CDATA[我为自己制作了这个小工具，用于从 OCRed 书籍复制的文本生成质量不错的有声读物，但存在伪影和拼写/格式问题：https://github.com/lukaszliniewicz/Pandrator。  这是一个带有一键式安装程序的 Python 脚本，它利用 XTTS 进行文本转语音，并且可以选择使用本地 LLM 进行 TTS 文本校正/优化，以及利用 RVC 进行音频增强和更好的语音克隆。您将在存储库中找到详细信息。我不是一个经验丰富的开发人员 - 事实上，我是一个菜鸟 - 这只是一个业余爱好项目，所以代码肯定在很多方面都缺乏，但我已经能够获得不错的结果，至少对于我的目的。也许有人也会发现它很有用。如果您愿意做出贡献 - 当然，我们非常欢迎:)  ​   由   提交/u/black_cat90   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1blg1f7/a_gui_audiobook_tts_generator_working_with_local/</guid>
+      <pubDate>Sat, 23 Mar 2024 01:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>云转换克隆？</title>
       <link>https://www.reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/rnmkrmn   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bjx7fk/redis_adopts_dual_sourceavailable_licensing_redis/</guid>
       <pubDate>Thu, 21 Mar 2024 03:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐开源会计和税务软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</link>
-      <description><![CDATA[嗨！ 有人能为小型企业（公司）推荐一款像样的开源/Linux 会计软件吗？可以是本地/基于云的。似乎大多数开源会计软件都缺乏税务报告和强大的工资单。主要需求是：  不同项目的时间跟踪功能 工资功能 直接存款可选，不是必需的 &lt; /li&gt; 不同项目的费用跟踪 税务报告（吐出 940/941/1120s 等表格，无需我手动填写这些表格） 能够生成财务报表（损益表、资产负债表、现金流量表） 能够生成通用文件格式，以便将来导入到其他软件中，例如 QB  我简要地了解了但乍一看似乎都不符合标准：Frappe、GnuCash、OpenMiracle、LedgerSMB、GNUHata、iDempiere、Apache OFBiz、Akaunting、GoDBLedger 谢谢！   由   提交/u/_lOOOl_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</guid>
-      <pubDate>Thu, 21 Mar 2024 02:53:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
