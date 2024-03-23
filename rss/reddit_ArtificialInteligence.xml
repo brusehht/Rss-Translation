@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 12:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 15:12:46 GMT</lastBuildDate>
+    <item>
+      <title>Emad Mostaque 刚刚辞去 S​​tability 首席执行官一职，领导开源去中心化人工智能革命。未来的大事情！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1blrtrg/emad_mostaque_just_stepped_down_as_ceo_of/</link>
+      <description><![CDATA[现在问题开始了。几周前，我发布了这篇文章： “开源、分布式、去中心化人工智能：众包如何支付海量数据和计算费用” https://www.reddit.com/r/ArtificialInteligence/s/rQFHoo9aLl 它提出了一些emad 可能会面临的问题。这就是悬而未决的事情。 我一直很钦佩他的开源方法，但一直不明白为什么他只专注于视频生成，而不是扩展到提供信息和代码的生成人工智能。我希望他的想法是参与这一切。  这可能是人工智能领域的一个关键时刻，类似于 22 年 11 月 openai 推出 chatgpt 的情况。那里有数百万开源人工智能工程师。这是一个号召他们将研究转向去中心化人工智能的号角吗？我真的希望如此！ 我很想知道他的众包方法是什么。绕过传统金融市场，允许投资者从一开始就为这个新行业提供资金，而不是限制富人的初始投资，这不是很好吗？ llama 受到限制性许可，不允许轻易商业化，musk 在 Apache.2 下开源 grok，开发人员可以从中赚到所有他们想要的钱。我不知道emad的净资产是多少，所以很难说他是否愿意为这个新企业投入大量资金。但如果埃隆真的致力于开源，他可以轻松地投入数亿美元。这可能是他的 openai 版本 2。我相信此举也不会损害他针对 sam 的案子，哈哈。 （等不及该试验进入发现阶段，我们就会知道 openai 是否已经拥有 agi！） 然后需要进行研究来克服一些技术障碍分散式、分布式人工智能。我们在这里看到什么样的时间框架？  仍然存在很多问题，但这可能是人工智能真正的游戏规则改变者。 emad 可能刚刚以改变整个竞争环境的方式推动了我们的人工智能革命。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1blrtrg/emad_mostaque_just_stepped_down_as_ceo_of/</guid>
+      <pubDate>Sat, 23 Mar 2024 13:11:27 GMT</pubDate>
+    </item>
     <item>
       <title>全球人工智能法规地图</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1blppnj/global_ai_regulations_map/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[我刚刚完成第一组模型的训练。它们相对较小，只有 30m 个参数，因为我正在使用本地资源（即家庭服务器）进行学习/练习。 我想开始努力更好地理解知识蒸馏......采用更大的模型并用它来训练较小的模型。但我想让较小的模型特定于领域。 我希望建立几个特定于领域的模型，然后想尝试 devtan 算法，该算法将更多/更少地绘制激活路径，以便我可以（希望）合并特定领域的模型。 简而言之，我开发了一个“大型”模型。模型，想要将其提炼成各个领域特定的“小”模型模型，然后开发一种算法将小模型合并为更高效的大型模型...  如果我能让它按照我想要的方式工作，我想扩展并开始租用服务器空间开发一个更大的模型..但在我整理了一些基础知识之前也不想浪费钱。 那么...将较大的数据集分离为特定于领域的集合的有效方法是什么?   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bljpub/what_are_the_most_efficient_methods_for/</guid>
       <pubDate>Sat, 23 Mar 2024 04:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 3/22/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1blj8t5/oneminute_daily_ai_news_3222024/</link>
-      <description><![CDATA[ Nvidia 宣布人工智能驱动的医疗保健“代理”性能优于护士 - 每小时费用为 9 美元。[ 1] Unitree H1 是第一个在没有液压系统的情况下完成后空翻的人形机器人。[2] Apple 考虑添加  &gt;百度 GenAI 在中国的设备。[3] 联合国通过了第一个关于人工智能的全球决议。[4] &lt; p&gt;来源包含在：https://bushaicave.com/2024/03/22/3-22 -2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1blj8t5/oneminute_daily_ai_news_3222024/</guid>
-      <pubDate>Sat, 23 Mar 2024 04:05:52 GMT</pubDate>
     </item>
     <item>
       <title>AI证明学位？</title>
