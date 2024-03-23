@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 23 Mar 2024 18:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 21:09:41 GMT</lastBuildDate>
     <item>
       <title>寻找客户端监视器推荐</title>
       <link>https://www.reddit.com/r/editors/comments/1blyqqt/looking_for_client_monitor_recommendation/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>Nas 与 Das 速度</title>
       <link>https://www.reddit.com/r/editors/comments/1bldxuz/nas_vs_das_speeds/</link>
-      <description><![CDATA[大家好， 我在一家媒体制作公司担任编辑。我们目前拥有 G-Raid 4 bay (40tb) 和 20tb 的 Gdrive 空间，用于完成工作和工作。文档  G Shuttle 装置开始变坏，因此我们考虑升级到 Synology 1821+ 4x16tb，并在将来需要时添加更多驱动器。我主要关心的是 DAS 设备的速度，无论是 10Gb 还是直接 USB 的 Thunderbolt DAS 复制文件的速度有多快？我一直在研究 OWC 8 盘位外壳，它只比 Synology 设备便宜 100 美元，因此如果速度相似，我认为没有理由不购买 nas 设备并获得更多功能？ 我们当前的工作流程是这样的：我们在 SSD 上拍摄，将文件复制到 G-shuttle 中我们用来编辑的外部SSD。我知道有正确的备份方法和 3-2-1 规则，但目前我们对此不感兴趣。 我希望我能获得一些有用的见解，并知道我确实搜索了这个 subreddit在发帖之前，我知道有专门讨论这个主题的 Reddit 子版块，但我想从与我从事同一领域工作的人们那里得到答案。   由   提交/u/ali78x  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我在一家媒体制作公司担任编辑。我们目前拥有 G-Raid 4 bay (40tb) 和 20tb 的 Gdrive 空间，用于完成工作和工作。文档  G Shuttle 装置开始变坏，因此我们考虑升级到 Synology 1821+ 4x16tb，并在将来需要时添加更多驱动器。我主要关心的是 DAS 设备的速度，无论是 10Gb 还是直接 USB 的 Thunderbolt DAS 复制文件的速度有多快？我一直在关注 OWC 8 盘位外壳，它只比 Synology 设备便宜 100 美元，所以如果速度相似，我认为没有理由不购买 nas 设备并获得更多功能？ 我们当前的工作流程是这样的：我们在 SSD 上拍摄，将文件复制到 G-shuttle 中我们用来编辑的外部SSD。我知道有正确的备份方法和 3-2-1 规则，但目前我们对此不感兴趣。 我希望我能获得一些有用的见解，并知道我确实搜索了这个 subreddit在发帖之前，我知道有专门讨论这个主题的 Reddit 子版块，但我想从与我从事同一领域工作的人们那里得到答案。   由   提交/u/ali78x  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bldxuz/nas_vs_das_speeds/</guid>
       <pubDate>Fri, 22 Mar 2024 23:46:21 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Fri, 22 Mar 2024 16:12:58 GMT</pubDate>
     </item>
     <item>
-      <title>AVID - 如何从右到左调整叠加？</title>
+      <title>AVID - 如何从右到左对齐叠加？</title>
       <link>https://www.reddit.com/r/editors/comments/1bl2rfz/avid_how_to_justify_overlays_right_to_left/</link>
-      <description><![CDATA[正在处理一些纪录片的交付工作，后期制作公司要求在屏幕右侧叠加源剪辑名称和源时间码。 我似乎不知道如何让它工作，特别是源剪辑名称的长度根据剪辑而变化。在时间码生成器效果中，我可以移动源剪辑名称叠加的位置，使其与屏幕右侧对齐，但对于每个新剪辑，文本仍然从左到右填充，因此如果下一个剪辑名称较长则它会向右滚出屏幕，如果较短则它会漂浮在帧的中心。 是否有一种方法可以将显示设置为向右对齐，以便每个新剪辑都会填充空间从右侧，而不是从左侧？ 系统规格： Apple M2 Max • 64GB RAM • Sonoma 14.0 运行 Avid MC 2023.8.2  在 DNxHRLB 离线编解码器中处理各种不同的素材类型 ​  &amp;# 32；由   提交 /u/NapoleonsPocket   [链接] [评论]]]></description>
+      <description><![CDATA[正在处理一些纪录片的交付工作，后期制作公司要求在屏幕右侧叠加源剪辑名称和源时间码。 我似乎不知道如何让它工作，特别是源剪辑名称的长度根据剪辑而变化。在时间码生成器效果中，我可以移动源剪辑名称叠加的位置，使其与屏幕右侧对齐，但对于每个新剪辑，文本仍然从左到右填充，因此如果下一个剪辑名称较长则它会向右滚出屏幕，如果较短则它会漂浮在帧的中心。 是否有一种方法可以将显示设置为向右对齐，以便每个新剪辑都会填充空间从右侧，而不是从左侧？ 系统规格： Apple M2 Max • 64GB RAM • Sonoma 14.0 运行 Avid MC 2023.8.2  在 DNxHRLB 离线编解码器中处理各种不同的素材类型 ​  &amp;# 32；由   提交/u/NapoleonsPocket  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bl2rfz/avid_how_to_justify_overlays_right_to_left/</guid>
       <pubDate>Fri, 22 Mar 2024 16:01:38 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>您如何在 LinkedIn 上与制片人/导演保持联系？</title>
       <link>https://www.reddit.com/r/editors/comments/1bkyseu/how_do_you_stay_conntected_with/</link>
-      <description><![CDATA[所以我通常通过邮件向制作人写信，这是一种冷漠的方式，这意味着我以前从未与他们接触过。他们通常对我的邮件和作品集回复得很好，但我在与他们保持联系时遇到了问题。因此，我正在考虑更多地使用我的 LinkedIn，但想知道这里的其他人是如何做到这一点的。  您是在 LinkedIn 上亲自写信给他们还是在第一次邮件联系后才与他们联系？也许在联系后立即给他们写一些东西并对他们的帖子发表评论？到目前为止，我还没有真正在 LinkedIn 上发帖，所以感觉我的联系实际上并没有为我做任何事情，因为如果我们还没有一起工作，他们仍然不会记得我。 &lt; !-- SC_ON --&gt;  由   提交 /u/Zeigerful   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我通常通过邮件向制作人写信，这是一种冷漠的方式，这意味着我以前从未与他们接触过。他们通常对我的邮件和作品集回复得很好，但我在与他们保持联系时遇到了问题。因此，我正在考虑更多地使用我的 LinkedIn，但想知道这里的其他人是如何做到这一点的。  您是在 LinkedIn 上亲自写信给他们还是在第一次邮件联系后才与他们联系？也许在联系后立即给他们写一些东西并对他们的帖子发表评论？到目前为止，我还没有真正在 LinkedIn 上发帖，所以感觉我的联系实际上并没有为我做任何事情，因为如果我们还没有一起工作，他们仍然不会记得我。 &lt; !-- SC_ON --&gt;  由   提交 /u/Zeigerful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkyseu/how_do_you_stay_conntected_with/</guid>
       <pubDate>Fri, 22 Mar 2024 13:06:34 GMT</pubDate>
     </item>
