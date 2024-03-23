@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 22 Mar 2024 21:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:47:23 GMT</lastBuildDate>
+    <item>
+      <title>Node.js TSC 确认：无意从发行版中删除 npm</title>
+      <link>https://www.reddit.com/r/programming/comments/1blcz5v/nodejs_tsc_confirms_no_intention_to_remove_npm/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1blcz5v/nodejs_tsc_confirms_no_intention_to_remove_npm/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:04:55 GMT</pubDate>
+    </item>
     <item>
       <title>可微网格渲染的冒险</title>
       <link>https://www.reddit.com/r/programming/comments/1bl9ai4/adventures_with_differentiable_mesh_rendering/</link>
@@ -18,20 +25,6 @@
       <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bl8qs8/i_coded_an_ai_cli_with_rust_for_243_days/</guid>
       <pubDate>Fri, 22 Mar 2024 20:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我的应用程序是 GPT-Wrapper，那么 Google 只是一个“数据库包装器”。</title>
-      <link>https://www.reddit.com/r/programming/comments/1bl8339/if_my_app_is_a_gptwrapper_then_google_is_just_a/</link>
-      <description><![CDATA[ 由   提交/u/Starks-Technology  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bl8339/if_my_app_is_a_gptwrapper_then_google_is_just_a/</guid>
-      <pubDate>Fri, 22 Mar 2024 19:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>magick.css – 巫师的极简 CSS</title>
-      <link>https://www.reddit.com/r/programming/comments/1bl6zu6/magickcss_minimalist_css_for_wizards/</link>
-      <description><![CDATA[ 由   提交/u/Gleb_T   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bl6zu6/magickcss_minimalist_css_for_wizards/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:56:05 GMT</pubDate>
     </item>
     <item>
       <title>适用于 DOS 的 Sound Blaster Emulator — PhilsComputerLab 开源 SBEMU 项目的视频概述</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/deepCelibateValue   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bl2c3j/manpdf_read_your_man_pages_in_pdf_format/</guid>
       <pubDate>Fri, 22 Mar 2024 15:43:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>用遗传算法探索 Gleam</title>
+      <link>https://www.reddit.com/r/programming/comments/1bl0xqi/exploring_gleam_with_genetic_algorithms/</link>
+      <description><![CDATA[ 由   提交 /u/smarvin2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bl0xqi/exploring_gleam_with_genetic_algorithms/</guid>
+      <pubDate>Fri, 22 Mar 2024 14:43:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Mar 2024 21:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:47:51 GMT</lastBuildDate>
+    <item>
+      <title>云转换克隆？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/</link>
+      <description><![CDATA[有人知道一个类似于 cloudconvert.com 的开源项目，有一个不错的自托管 UI 吗？    由   提交 /u/ctrl-brk   /u/ctrl-brk  reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1blbf5n/cloudconvert_clone/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>RevenueCat 的 Kedi</title>
+      <link>https://www.reddit.com/r/opensource/comments/1blb2vt/kedi_for_revenuecat/</link>
+      <description><![CDATA[大家好！我很高兴与您分享我的最新项目。 隆重推出 Kedi for RevenueCat：免费开源 RevenueCat 客户端。 ↔️ 交易：显示交易历史记录。 ✨ 见解：显示见解专门为您的用户准备的。 🛒 App Store 发薪日：了解您何时会从 App Store 获得付款。 📱 小部件：概述、收入图表和 App Store 发薪日。 GitHub ： https://github.com/sereisoglu/kedi 下载应用程序：https://apps.apple.com/app/id6478032635 https:/ /kediapp.com 希望您喜欢！非常欢迎任何反馈！   由   提交/u/sereisoglu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1blb2vt/kedi_for_revenuecat/</guid>
+      <pubDate>Fri, 22 Mar 2024 21:45:19 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 DOS 的 Sound Blaster Emulator — PhilsComputerLab 开源 SBEMU 项目的视频概述</title>
       <link>https://www.reddit.com/r/opensource/comments/1bl6x82/sound_blaster_emulator_for_dos_video_overview_by/</link>
@@ -41,13 +55,6 @@
       <pubDate>Fri, 22 Mar 2024 09:42:14 GMT</pubDate>
     </item>
     <item>
-      <title>您对 01 Light 有何看法？开源人工智能语音控制个人助理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bkv3mx/what_do_you_think_about_the_01_light_an_open/</link>
-      <description><![CDATA[   /u/salacious_sonogram   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bkv3mx/what_do_you_think_about_the_01_light_an_open/</guid>
-      <pubDate>Fri, 22 Mar 2024 09:24:34 GMT</pubDate>
-    </item>
-    <item>
       <title>R2R - 一个开源平台，使开发人员能够构建最好的 RAG 系统。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bkq6cj/r2r_an_open_source_platform_that_enables/</link>
       <description><![CDATA[大家好， TL;DR: Owen 与 SciPhi 一起，SciPhi 是一个 云平台，简化了生产就绪检索的部署和优化-面向开发人员的增强生成 (RAG) 管道。构建于强大开源 R2R 框架，SciPhi 使构建者能够专注于创建创新应用程序，而不是管理基础设施。 我今天刚刚推出了我们的云产品，我正在寻找高度相关的 subreddits 来发布它。它由我们用于部署生产就绪 RAG 的开源框架提供支持。如果您一直在寻找一种简单有效的方法来部署构造良好的 RAG 管道，那么这就是它。 我真的希望你们中的一些人都有机会检查一下并让我知道您的想法 - 我很高兴能分享我们一直在努力的事情。   由   提交/u/docsoc1  [链接] [评论]]]></description>
@@ -71,7 +78,7 @@
     <item>
       <title>创建商业产品的开源版本的合法性</title>
       <link>https://www.reddit.com/r/opensource/comments/1bkbbde/legality_of_creating_open_source_version_of_a/</link>
-      <description><![CDATA[我的一个想法引发了一些问题。这是我的“垃圾机器人”这让我想起了这一点，所以我在这里用它作为例子。 Litter Robot 拥有筛选猫砂（旋转浴缸）方法的专利。 现在显然我可以我不会出售以任何方式使用它的产品，但做一些建模、3D 打印零件以及使用 arduino 之类的东西来控制电路会相当容易。 如果我只这样做的话对于我自己来说，没有人会知道，但即使公司发现了，也可能不会有任何法律挑战，因为没有造成金钱损失。 如果在我制作模型后，我发布了计划作为开源，以便其他人可以便宜地 DIY 吗？ 这会被视为侵犯他们的专利吗？ 自从开源项目以来，Litter Robot 会对我提起民事诉讼吗？可能会让他们失去客户吗？   由   提交 /u/loadnurmom   [链接] [评论]]]></description>
+      <description><![CDATA[我的一个想法引发了一些问题。这是我的“垃圾机器人”这让我想起了这一点，所以我在这里用它作为例子。 Litter Robot 拥有筛选猫砂（旋转浴缸）方法的专利。 现在显然我可以我不会出售以任何方式使用它的产品，但做一些建模、3D 打印零件以及使用 arduino 之类的东西来控制电路会相当容易。 如果我只这样做的话对于我自己来说，没有人会知道，但即使公司发现了，也可能不会有任何法律挑战，因为没有造成金钱损失。 如果在我制作模型后，我发布了计划作为开源，以便其他人可以便宜地 DIY 吗？ 这会被视为侵犯他们的专利吗？ 自从开源项目以来，Litter Robot 会对我提起民事诉讼吗？可能会失去客户？   由   提交 /u/loadnurmom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bkbbde/legality_of_creating_open_source_version_of_a/</guid>
       <pubDate>Thu, 21 Mar 2024 16:55:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！ 有人能为小型企业（公司）推荐一款像样的开源/Linux 会计软件吗？可以是本地/基于云的。似乎大多数开源会计软件都缺乏税务报告和强大的工资单。主要需求是：  不同项目的时间跟踪功能 工资功能 直接存款可选，不是必需的 &lt; /li&gt; 不同项目的费用跟踪 税务报告（吐出 940/941/1120s 等表格，无需我手动填写这些表格） 能够生成财务报表（损益表、资产负债表、现金流量表） 能够生成通用文件格式，以便将来导入到其他软件中，例如 QB  我简要地了解了但乍一看似乎都不符合标准：Frappe、GnuCash、OpenMiracle、LedgerSMB、GNUHata、iDempiere、Apache OFBiz、Akaunting、GoDBLedger 谢谢！   由   提交/u/_lOOOl_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</guid>
       <pubDate>Thu, 21 Mar 2024 02:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子零件库存管理软件：PartPilot</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bjniul/the_electronics_part_inventory_management/</link>
-      <description><![CDATA[大家好， 我最近发布了我一直在从事的开源项目的第一个版本。它是一款电子零件库存软件 - 完全免费且开源 (https://github.com/PartPilotLab/PartPilot)。我最初是为我的兄弟做的，因为他对订购他已经拥有的零件感到烦恼，或者在组装项目时注意到他实际上没有零件。所有现有的解决方案要么昂贵，要么糟糕。所以我做了一个替代方案。它具有几乎所有最重要的功能，并直接与 LCSC 集成（但仍然缺乏一点）。 希望得到一些反馈，也许你们中的一些人愿意做出贡献:) 留下一颗星也意味着很多 ✨ Lenni   由   提交 /u/Len_Ki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bjniul/the_electronics_part_inventory_management/</guid>
-      <pubDate>Wed, 20 Mar 2024 20:29:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
