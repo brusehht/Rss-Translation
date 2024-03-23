@@ -4,11 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 06:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 09:11:55 GMT</lastBuildDate>
+    <item>
+      <title>最好的免费电子邮件客户端？</title>
+      <link>https://www.reddit.com/r/software/comments/1blnw0p/best_free_email_client/</link>
+      <description><![CDATA[我使用 gmail 和 hotmail Hotmail 应用程序开始出现错误，我尝试了 Mailbird，但它不是免费的，我不喜欢它. ​   由   提交 /u/fostes1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1blnw0p/best_free_email_client/</guid>
+      <pubDate>Sat, 23 Mar 2024 09:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Android 的免费短信验证应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1blm56a/free_sms_verification_app_for_android/</link>
+      <description><![CDATA[该应用程序需要免费，不需要电话号码即可注册！ Talkatone 不是免费的，Google Voice 需要电话号码才能注册帐户   由   提交/u/mossy_tree47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1blm56a/free_sms_verification_app_for_android/</guid>
+      <pubDate>Sat, 23 Mar 2024 07:05:48 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11 中控制显示器的应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1blkcck/app_to_control_monitor_in_windows_11/</link>
-      <description><![CDATA[我有 Lenovo 4 K 显示器，Lenovo Display Control 应用程序无法始终运行以允许我更改输入，我有 2 台 Mac，连接了 W11 机器。 对于 Mac，我使用 BetterDisplay 应用程序，它允许进行大量设置，并且无需按钮即可更改输入。 Windows 有类似的东西吗？   由   提交 /u/holguinero   [链接] [评论]]]></description>
+      <description><![CDATA[我有 Lenovo 4 K 显示器，但 Lenovo Display Control 应用程序无法始终运行以允许我更改输入，我有 2 台 Mac，连接了 W11 机器。 对于 Mac，我使用 BetterDisplay 应用程序，它允许进行大量设置，并且无需按钮即可更改输入。 Windows 有类似的东西吗？   由   提交 /u/holguinero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1blkcck/app_to_control_monitor_in_windows_11/</guid>
       <pubDate>Sat, 23 Mar 2024 05:08:24 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>我们需要一个卡拉OK歌曲排队的软件（只有排队部分）</title>
       <link>https://www.reddit.com/r/software/comments/1bkyrru/we_need_a_software_for_karaoke_song_queuing_only/</link>
-      <description><![CDATA[您好，我们定期举办 20-30 人的卡拉 OK 派对。 我们当前的工作流程：  我们有一个数字歌曲列表，客人可以通过手机访问。 一旦客人找到一首或多首他们喜欢的歌曲，他们就会将其写在列表上（笔和纸） 唱完一首歌后，我们会查看（纸质）列表上的下一首歌曲并开始播放  问题：  很难跟踪谁想要哪首歌，因此可能会发生一些人唱了很多歌，而另一些人则等待数小时的情况。但出于实际原因，我们不能要求客人每人只能选择一首歌曲。 （地方很窄，要找到纸质列表并不容易。） 我们无法向客人展示接下来要播放哪些歌曲。因此，有些人等了一个小时才能听歌，而当轮到他们时，他们可能还没有准备好。  我希望有一个通用的软件解决方案来解决这个问题。我们需要的本质上是一个具有以下功能的（免费）软件：  该软件可能在我们自己的服务器上运行，或者它已经是我们可以使用的网站。 用户可以通过网站在手机上查看/搜索项目（歌曲）数据库。 用户可以选择项目并将其添加到队列中。 （或从队列中删除自己以前的项目） 所有用户都可以查看队列（接下来要演唱的歌曲列表） 管理员（活动主持人）可以标记队列中的下一个项目已完成（在卡拉 OK 软件中手动启动该歌曲后）。然后该项目将从队列中删除。 这可能很棘手：队列会自动按照“公平”的顺序排序。方式，例如如果用户 A 将 5 个项目添加到队列 A1 A2 A3 A4 A5，然后用户 B 将 1 个项目添加到队列 B1，则队列如下所示：A1 B1 A2 A3 A4 A5。 （这意味着每个人都有机会在任何人获得下一首歌曲之前唱歌） 队列中的下一个项目可以显示在房间某处的大屏幕上。 （这样客人就知道接下来要播放什么歌曲）  这听起来很简单，但我就是找不到合适的软件，也许我不知道要搜索哪些关键字。不幸的是，我们没有时间自己实现它。再说一遍，我们不需要卡拉 OK 软件，我们已经有了一个我们喜欢的软件。我们只需要一个独立于我们的卡拉 OK 软件来管理歌曲列表的系统。 如果有人有解决方案，那就太好了！   由   提交 /u/ecksofa   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我们定期举办 20-30 人的卡拉 OK 派对。 我们当前的工作流程：  我们有一个数字歌曲列表，客人可以通过手机访问。 一旦客人找到一首或多首他们喜欢的歌曲，他们就会将其写在列表上（笔和纸） 唱完一首歌后，我们会查看（纸质）列表上的下一首歌曲并开始播放  问题：  很难跟踪谁想要哪首歌，因此可能会发生一些人唱了很多歌，而另一些人则等待数小时的情况。但出于实际原因，我们不能要求客人每人只能选择一首歌曲。 （地方很窄，要找到纸质列表并不容易。） 我们无法向客人展示接下来要播放哪些歌曲。因此，有些人等了一个小时才能听歌，而当轮到他们时，他们可能还没有准备好。  我希望有一个通用的软件解决方案来解决这个问题。我们需要的本质上是一个具有以下功能的（免费）软件：  该软件可能在我们自己的服务器上运行，或者它已经是我们可以使用的网站。 用户可以通过网站在手机上查看/搜索项目（歌曲）数据库。 用户可以选择项目并将其添加到队列中。 （或从队列中删除自己以前的项目） 所有用户都可以查看队列（接下来要演唱的歌曲列表） 管理员（活动主持人）可以标记队列中的下一个项目已完成（在卡拉 OK 软件中手动启动该歌曲后）。然后该项目将从队列中删除。 这可能很棘手：队列会自动按照“公平”的顺序排序。方式，例如如果用户 A 将 5 个项目添加到队列 A1 A2 A3 A4 A5，然后用户 B 将 1 个项目添加到队列 B1，则队列如下所示：A1 B1 A2 A3 A4 A5。 （这意味着每个人都有机会在任何人获得下一首歌曲之前唱歌） 队列中的下一个项目可以显示在房间某处的大屏幕上。 （这样客人就知道接下来要播放什么歌曲）  这听起来很简单，但我就是找不到合适的软件，也许我不知道要搜索哪些关键字。不幸的是，我们没有时间自己实现它。再说一遍，我们不需要卡拉 OK 软件，我们已经有了一个我们喜欢的软件。我们只需要一个独立于卡拉 OK 软件来管理歌曲列表的系统。 如果有人有解决方案，那就太好了！   由   提交 /u/ecksofa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bkyrru/we_need_a_software_for_karaoke_song_queuing_only/</guid>
       <pubDate>Fri, 22 Mar 2024 13:05:41 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我遇到了一个小但很重要的问题。 在我的一个工作流程中，我使用了一款名为 aText 的软件（https://www.trankynam.com/atext/)。软件是一个很棒的文本自动化工具，它允许我在文本中输入“fill”或“c​​ta”等关键字。 （或任何人们想要的单词），它会自动将链接和一堆其他内容填充到不同的列中，这节省了我大量的时间，无需将粘贴内容一遍又一遍地复制到不同的列中。 现在，由于开发商 Trankynam 出于某种原因不再接受付款，我的问题出现了，因为他们提供的免费试用期只有 21 天，并且与使用它的每台设备/计算机绑定。尽管它很便宜，每年只有 5 美元左右，但我不能再使用甚至购买该软件... 所以我向你们提出的问题是，你们是否知道任何类似的软件可以更换它，因为我非常需要它。如果没有这种类型的软件，我的工作流程会显着减慢，这并不理想。不，它不能仅用键盘快捷键功能来替换，因为您将其设置为能够填充多个单独的文本列，并且它还需要能够跳过某些列等。 非常感谢任何帮助！   由   提交 /u/FunPeanut192   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bku6u5/need_help_finding_a_software/</guid>
       <pubDate>Fri, 22 Mar 2024 08:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mega easy DAW，即跨平台？</title>
-      <link>https://www.reddit.com/r/software/comments/1bksf5e/mega_easy_daw_that_is_cross_platform/</link>
-      <description><![CDATA[我需要 Mac 和 Windows 上的 DAW。我需要它非常易于使用。我对水果循环软件感到完全不知所措。真的只在 Vegas Pro 中编辑过我的音频。我在几个项目中使用过车库乐队。但我希望不同操作系统的计算机之间有一个一致的工作流程。主要是我只需要一个具有多种音频效果的多轨编辑器，这些编辑器组织整齐，而且看起来不像百科全书中的术语表。我不在乎是否必须购买一个，只要它简单并且在两个系统上都可以。   由   提交/u/SolidIcecube  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bksf5e/mega_easy_daw_that_is_cross_platform/</guid>
-      <pubDate>Fri, 22 Mar 2024 06:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mosbys 护理助理必备知识第四版 CD</title>
-      <link>https://www.reddit.com/r/software/comments/1bkp054/mosbys_essentials_for_nursing_assistants_4th/</link>
-      <description><![CDATA[ 由   提交 /u/AcademicStorm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bkp054/mosbys_essentials_for_nursing_assistants_4th/</guid>
-      <pubDate>Fri, 22 Mar 2024 02:45:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
