@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 24 Mar 2024 12:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 15:09:49 GMT</lastBuildDate>
+    <item>
+      <title>有人致力于模拟原子吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmmkip/is_anyone_working_on_simulating_atoms/</link>
+      <description><![CDATA[鉴于 Google 和其他公司尝试模拟分子相互作用并预测蛋白质结构，是否有人会更进一步，尝试模拟单个原子之间的相互作用？  如果原子之间相互作用的行为可以预测，那么只要有足够的处理能力，我们就不能模拟任何可以想象的物理事件，比如药物如何与特定组织相互作用，或者设计新的药物。完全使用预测计算的材料？   由   提交 /u/nattyyyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmmkip/is_anyone_working_on_simulating_atoms/</guid>
+      <pubDate>Sun, 24 Mar 2024 14:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5性能传闻总结：</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmjvnb/summary_on_gpt5s_performance_rumors/</link>
+      <description><![CDATA[ 整体性能提升：首席执行官 Sam Altman 表示，GPT-5 在各方面都将更加智能和优越，具有比 GPT-4 性能显着提升。 增强的多模态能力：预计 GPT-5 不仅可以处理文本和图像，还可以处理音频和视频，成为多模态人工智能。 参数数量增加：预计将拥有数万亿个参数，大大超过 GPT-4 的 1 万亿个，用于更复杂和高级的推理。 更好的文本生成质量：GPT-5 旨在生成始终真实且与人类编写的文本没有区别的文本。 扩展上下文理解：GPT-5 的上下文窗口预计将大大超过 GPT-4 的 128,000 个标记，从而允许更长的文本理解和分析。 改进的逻辑推理：GPT- 5 预计将在逻辑推理和解决更复杂问题的能力方面取得重大进步。 人工智能代理功能：GPT-5 可能包括自主执行任务的能力，暗示具有与人工智能代理类似的功能。  GPT-5 预计将标志着 GPT-4 的革命性飞跃。 Altman 警告不要低估 GPT-5 的性能改进，这表明它可能会给 AI 领域带来突破性的变化。   由   提交/u/tpereira2005  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmjvnb/summary_on_gpt5s_performance_rumors/</guid>
+      <pubDate>Sun, 24 Mar 2024 12:43:59 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 语音引擎推测：</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmj2xs/openai_voice_engine_speculation/</link>
@@ -48,25 +62,11 @@
       <pubDate>Sun, 24 Mar 2024 07:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能监控和定位...</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmeisp/the_artificial_intelligence_monitoring_and/</link>
-      <description><![CDATA[我认为人工智能的工作是针对个人的意识和潜意识，他们成功地通过整个社交媒体做到了这一点......尤其是儿童现在很容易成为目标未经同意的潜意识...过去十年我一直在尝试它，我曾经在浴室自慰，我知道这个人工智能正在监听和观察个人小工具和设备的活动，是的，人工智能正在潜意识地工作，并且非常鬼祟地瞄准你社交媒体……因为我的社交媒体现在有很多淫乱的信息，它们不是帮助我们成长的，而是人工智能。将会以我们可以想象的更糟糕的方式为目标......人类的信仰可以恢复还是这就是资助让我们上瘾等等？ ....   由   提交/u/ep85321  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmeisp/the_artificial_intelligence_monitoring_and/</guid>
-      <pubDate>Sun, 24 Mar 2024 06:53:39 GMT</pubDate>
-    </item>
-    <item>
       <title>教法学硕士像你一样写作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bme0y4/teaching_an_llm_to_write_like_you/</link>
       <description><![CDATA[我有一个关于如何构建 LLM 应用程序以像您一样写作的博客： 解释者教如何构建检索使用 LangChain 的增强生成 首先讲述如何处理文档、清理文档，最后讲述如何将它们输入 LLM。  https:/ /arslanshahid-1997.medium.com/using-langchain-to-teach-an-llm-to-write-like-you-aab394d54792   由   提交/u/phicreative1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bme0y4/teaching_an_llm_to_write_like_you/</guid>
       <pubDate>Sun, 24 Mar 2024 06:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>反人工智能运动</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmddbk/anti_ai_movement/</link>
-      <description><![CDATA[大家对反人工智能运动有何看法？具体来说，我指的是社会对人工智能生成的内容的抵制，包括但不限于禁止培训法学硕士的开源许可，要求披露人工智能在产品和服务中的使用，以及由人类劳工在产品上制作标签以允许消费者明智的选择。 我认为人工智能很酷且令人兴奋，但它也有可能通过造成大规模失业来彻底摧毁经济。社会是否应该抵制这种行为？如果是的话，那会是什么样子？   由   提交/u/shadowisadog  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmddbk/anti_ai_movement/</guid>
-      <pubDate>Sun, 24 Mar 2024 05:36:32 GMT</pubDate>
     </item>
     <item>
       <title>你们觉得 Bittensor 怎么样？</title>
