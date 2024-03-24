@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 24 Mar 2024 18:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 21:08:49 GMT</lastBuildDate>
+    <item>
+      <title>有人知道为什么这个子名字拼写错误吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmusti/anybody_know_why_the_name_of_this_sub_is_spelled/</link>
+      <description><![CDATA[好奇这是否是有意的。需要 100 个字符，所以我就说长期潜伏者，第一次发帖。关于这个子的很多有趣的信息。    由   提交 /u/CarinasHere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmusti/anybody_know_why_the_name_of_this_sub_is_spelled/</guid>
+      <pubDate>Sun, 24 Mar 2024 20:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布前请阅读规则。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmt5oi/please_read_the_rules_before_posting/</link>
+      <description><![CDATA[我姐姐赢得了一张免费照片，并和她的小家庭一起去参加， 拍摄结束后，花了很长时间当时，他们大吃一惊，因为他们无法获得拍摄时的照片，没有数字副本，只有付费打印的照片，而且它们太他妈的太贵了，就像 100 欧元一张普通尺寸的照片？？？ 于是，姐姐问我能否去掉“画质不好”的水印？他们网站上的照片供他们选择/购买一些。 我成功地从网站下载了它们（非常困难，因为他们锁定了它们） 然后我尝试使用谷歌第一页和第二页的一些免费工具，但确实无法获得好的结果。所有照片上的水印都是相同的，并且非常透明，有没有办法制作一个工具（或者找到一个好的），拍摄所有照片并以某种方式推断出水印并将其从所有照片中删除？这是一个相当长的镜头，我可以潜心开发解决方案，因为我将开发作为一种爱好，但我还没有尝试过人工智能开发。非常感谢您的帮助。   由   提交 /u/nav3t   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmt5oi/please_read_the_rules_before_posting/</guid>
+      <pubDate>Sun, 24 Mar 2024 19:30:44 GMT</pubDate>
+    </item>
     <item>
       <title>对于大型科技公司或任何人来说，在未来十年内与 Nvidia 竞争有多难？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmqn9k/how_hard_is_it_for_big_tech_or_anyone_to_compete/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[我经常反思这样一个事实：在当今世界，每个人的信念不是由发生在他们身上的事情形成的，而是由他们在新闻中看到的内容形成的喂养。科技公司凭借其推荐服务对公众舆论产生了巨大影响，这些服务既形成了世界的某种图景，也形成了其解释的选择。 几天前，我看到了这篇文章，其中表明LLM是宣传和广告的游戏规则改变者：https://arxiv.org/abs/2403.14380  我们发现，与与人类进行辩论的参与者相比，与可访问其个人信息的 GPT-4 进行辩论的参与者与对手达成一致的几率更高，为 81.7%（p &lt; 0.01；N=820 名独立参与者）。  因此，利用国家一级的资源，将有可能为每个人提供个性化的说服者，他不会疲倦，可以就任何主题提出任何观点，并且持续时间尽可能长。如他们所愿。 现在我们如何区分真相和操纵？创建人群观察者的混搭网络？培养我们自己的法学硕士谁会反对互联网上的影响者？下载完整的《原始技术》 youtube 频道并在树林里直播？） 真的很期待听到你们对此的想法   由   提交 /u/FarPercentage6591   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmhnmm/how_to_convince_anyone_of_anything_via_the_llms/</guid>
       <pubDate>Sun, 24 Mar 2024 10:28:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助人工智能生成肖像</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmgl25/help_with_ai_generated_portraits/</link>
-      <description><![CDATA[我最近发现了一个名为 Imagine Me 的网站，我可以在那里上传我的照片并将其转换为 AI 模型。我计划在我的网站上使用这些，但我面临一些挑战。首先，一些人工智能生成的照片有明显的手，我想知道是否有办法对它们进行 Photoshop，或者是否有另一个网站可以更改手的位置以不显示手。其次，我对“稳定扩散”和“洛娜”感到困惑。我想继续使用人工智能来创建看起来像我的照片，而不是鱼目混珠。谁能推荐最好的程序或应用程序？我不太懂技术，所以任何帮助将不胜感激   由   提交 /u/Sensitive_Degree3602   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmgl25/help_with_ai_generated_portraits/</guid>
-      <pubDate>Sun, 24 Mar 2024 09:15:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩展要点</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmfy8a/expanding_on_bullet_points/</link>
-      <description><![CDATA[我想我前一周看到了一篇文章，提到了一种写作工具，可以扩展一组项目符号来创建段落。这对于我在工作中撰写的技术报告非常有用。唉，我现在找不到这篇文章了。 是否有这样的事情，我可以将我的一些其他报告提供给它以提供风格指导，然后要求它扩展一些要点到我的书面段落中风格？ 非常感谢我这周遇到的任何帮助。   由   提交/u/EffectiveChocolate77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmfy8a/expanding_on_bullet_points/</guid>
-      <pubDate>Sun, 24 Mar 2024 08:31:17 GMT</pubDate>
     </item>
     <item>
       <title>教法学硕士像你一样写作</title>
