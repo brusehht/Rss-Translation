@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 21:10:28 GMT</lastBuildDate>
+    <item>
+      <title>发现了亚马逊自动化技巧</title>
+      <link>https://www.reddit.com/r/automation/comments/1bnobu1/discovered_an_amazon_automation_trick/</link>
+      <description><![CDATA[找到了一种让一群人实现亚马逊自动化的方法   由   提交/u/Quick-Bag-8459   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bnobu1/discovered_an_amazon_automation_trick/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:39:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于分配配置文件的 ISO 软件和自动化建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1bnmk2y/iso_software_and_automation_recommendations_for/</link>
+      <description><![CDATA[我们目前有一个手动流程，用于向我们平台的临时用户分配个人资料： 用户提交包含其信息的表单，并他们需要的类别。 电子表格将每个类别作为不同的选项卡，并开放插槽，其中包含每个新用户的用户名。 一旦表格被清除，密码就会重置一个月。 一旦将用户（手动）分配到某个位置，就会（手动）向他们发送一封电子邮件，其中包含用户名和密码以及其他相关信息。 我会做什么想要做的就是让表单运行一个工作流程，自动将用户分配到可用的槽位之一，并发送包含该槽位的正确信息的电子邮件。 ​  有什么想法吗？ ​   由   提交 /u/reassuring-wink    reddit.com/r/automation/comments/1bnmk2y/iso_software_and_automation_recommendations_for/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1bnmk2y/iso_software_and_automation_recommendations_for/</guid>
+      <pubDate>Mon, 25 Mar 2024 19:31:03 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个问答机器人，可以回答有关 Slack 和 MS Teams 中公司法规的问题</title>
       <link>https://www.reddit.com/r/automation/comments/1bnf54s/i_built_a_qa_bot_that_answers_questions_about/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[r/automation 会员大家好！  我是 Alexandria，我正在深入研究业务流程和工作流程的细节，以了解他们的痛点。我们与西雅图的一些工程朋友一起工作，正在构建一个支持人工智能的助手来自动化这些工作，解决诸如错过最后期限、繁琐的任务分配、工作流程优化等问题。  我们希望从像您这样的专业人士那里获得一些见解！ 你们中的任何人愿意在本周或下周的某个时间进行快速聊天或演练吗？坦白说，这不是一次销售尝试，因为我们还没有什么可卖的。  这是出于研究目的，因为我们试图诚实地了解我们的解决方案的最佳目标。 谢谢您，并期待您的想法！    由   提交/u/allexandriarose956  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1bjqxam/business_workflow_and_processes/</guid>
       <pubDate>Wed, 20 Mar 2024 22:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>绩效讲座：行业领导者关于掌握营销的见解...</title>
-      <link>https://www.reddit.com/r/automation/comments/1bjnrk2/performance_talks_insights_from_industry_leaders/</link>
-      <description><![CDATA[       由   提交/u/jonneye  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1bjnrk2/performance_talks_insights_from_industry_leaders/</guid>
-      <pubDate>Wed, 20 Mar 2024 20:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>训练“AI”编辑非正式最终用户非正式的基本配置文件？ （甚至提出问题以获得对配置文件的完全信心？）</title>
-      <link>https://www.reddit.com/r/automation/comments/1bja9w8/train_ai_to_edit_basic_config_files_from_informal/</link>
-      <description><![CDATA[ 由   提交 /u/clambchop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1bja9w8/train_ai_to_edit_basic_config_files_from_informal/</guid>
-      <pubDate>Wed, 20 Mar 2024 10:30:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 21:12:10 GMT</lastBuildDate>
+    <item>
+      <title>XenApp 替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bnlgb9/xenapp_alternative/</link>
+      <description><![CDATA[大家好，有没有开源/免费的 Citrix XenApp 替代品？希望为我的家庭实验室的 15 人或更少人员安全地交付应用程序，甚至 VDI。我所做的所有谷歌搜索都没有提供任何有用的信息。有什么建议吗？  我想要一个人们可以下载的应用程序，例如 Citrix Workspace，最好可以将应用程序交付到桌面。    由   提交 /u/TheDiaryofaSoyBean   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bnlgb9/xenapp_alternative/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>致美国商务部长雷蒙多的信敦促保护人工智能的开放性和透明度</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bnkpuy/letter_to_us_commerce_secretary_raimondo_urging/</link>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bnkpuy/letter_to_us_commerce_secretary_raimondo_urging/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:18:58 GMT</pubDate>
+    </item>
     <item>
       <title>在我们进入最后 2 个月的起草阶段时，请向您的同行传播这一信息：现在是提出担忧并形成开源人工智能定义最终文本的时候了。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bnin92/please_spread_the_word_with_your_peers_as_we_are/</link>
@@ -55,13 +69,6 @@
       <pubDate>Mon, 25 Mar 2024 03:46:46 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个名为 Flex Source 的开源“相邻”模型。请在我开展业务之前将其拆开。 Flex Source 模型是针对社区项目的一种新的融资策略，我设计它是为了平衡财务可持续性的需求与社区参与的精神。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bmtnd3/i_developed_a_open_source_adjacent_model_called/</link>
-      <description><![CDATA[   /u/The_Bridge_Imperium  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bmtnd3/i_developed_a_open_source_adjacent_model_called/</guid>
-      <pubDate>Sun, 24 Mar 2024 19:50:59 GMT</pubDate>
-    </item>
-    <item>
       <title>开源仿生腿</title>
       <link>https://www.reddit.com/r/opensource/comments/1bmswxt/opensource_bionic_leg/</link>
       <description><![CDATA[www.opensourceleg.org  在该领域进行更广泛的讨论表明，对这些技术的控制是阻碍其临床成功的最大障碍之后，我们被迫创建开源分支。过去，假肢硬件设计和控制的研究都是在孤岛中进行的。每个研究人员都开发自己的机器人腿系统，以测试他们的控制策略或生物力学假设。这在短期内取得了成功，因为每个研究人员都会发表出版物并进一步拓展知识。然而，从长远来看，这种分散的研究方法阻碍了研究结果对残疾人产生影响，最终导致该领域全面失败，无法真正产生推动其产生的影响。如果没有标准化的硬件/软件平台，就很难比较研究这些系统控制的研究小组的结果。此外，不断地为每个小组重新创建机械腿在时间和金钱上都是昂贵的，导致这些资源无法解决因控制这些系统而产生的实际障碍。事实上，与假肢控制各个方面相关的复杂挑战需要顶尖研究人员的集体努力来进行开创性工作。因此，为了缩小这一差距，我们创建了一个开放访问平台，不仅促进假肢控制的研究，而且还提供了一个通用框架来测试和评估这些策略——开源腿。 &lt; !-- SC_ON --&gt;  由   提交 /u/__newerest__   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/General_Riju   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bmhjtw/is_there_any_chrome_extension_which_disables_all/</guid>
       <pubDate>Sun, 24 Mar 2024 10:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>请说出一些适用于 Windows 和 Linux 的开源视频播放器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</link>
-      <description><![CDATA[玩家不需要跨平台。我正在寻找适用于两个平台的优秀视频播放器，它可能不是同一个应用程序。例如，对于Linux，有MPV，对于Windows，有MPC-HC，我对这两个有问题，所以我需要更改。此外，VLC 在我的两个操作系统上都存在问题，因此请向我建议除 VLC、MPV 和 MPC-HC 之外的其他内容。 MPV 问题： 没有 GUI 设置控制，没有上下文菜单。我经常忘记键盘快捷键。 MPC-HC 问题：视频质量看起来与浏览器中的 YouTube 中看到的不同。在 MPC 中播放的同一视频看起来对比度较低，饱和度较低，有时看起来很糟糕。 已解决：访问 此链接，下载 .zip 文件，解压 .zip 文件并双击 install.bat 进行安装。    ;由   提交​​ /u/LivingGraveGround   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</guid>
-      <pubDate>Sun, 24 Mar 2024 04:20:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
