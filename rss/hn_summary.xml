@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 12:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 14:57:38 GMT</lastBuildDate>
     <item>
-      <title>亚马逊最近停止了对其云摄像头的支持，使其毫无用处。</title>
-      <link>https://t.me/hn_summary/81160</link>
-      <description><![CDATA[亚马逊为旧云摄像头提供 5 美元赠金
-亚马逊最近停止了对其云摄像头的支持，使其毫无用处。然而，他们给了我 5 美元来归还我的旧相机，我把它们放在一个未使用的技术盒子里。虽然我收到了免费的 Blink 相机作为替代品，但我很欣赏亚马逊收集旧技术进行回收的努力。这是减少浪费的一小步，我相信更多的公司应该效仿。感谢亚马逊采取这一举措。请访问 news.ycombinator.com 查看详细信息。]]></description>
-      <guid>https://t.me/hn_summary/81160</guid>
-      <pubDate>Mon, 25 Mar 2024 12:05:03 GMT</pubDate>
+      <title>在快时尚和在线购物的世界中，人工智能正在彻底改变我们的购物方式。</title>
+      <link>https://t.me/hn_summary/81186</link>
+      <description><![CDATA[我的 400 美元人工智能购物收获：人工智能如何改变我们的购物方式
+在快时尚和在线购物的世界中，人工智能正在彻底改变我们的购物方式。虽然这使得流行服装变得更加便宜，但也导致了浪费和冲动的购物习惯。 Finesse 是一家在线时装公司，正在利用人工智能来减少生产过剩，并打造适合其受众的服装。 eBay、亚马逊和 Shopify 等零售商正在采用生成式人工智能来执行产品描述、尺码建议和图像编辑等任务。然而，争议也随之而来，比如李维斯在没有雇佣多样化模型的情况下，利用人工智能模型来增加多样性。 Verge 记者 Mia Sato 探讨了人工智能如何改变零售格局，以及购买人工智能设计的衣柜是什么感觉。]]></description>
+      <guid>https://t.me/hn_summary/81186</guid>
+      <pubDate>Mon, 25 Mar 2024 14:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Spine AI 是一家通过人工智能副驾驶彻底改变产品界面的公司，正在招聘一名 S [...]</title>
-      <link>https://t.me/hn_summary/81159</link>
-      <description><![CDATA[Spine AI (YC S23) 正在招聘高级后端工程师
-Spine AI 是一家通过人工智能副驾驶彻底改变产品界面的公司，正在招聘一名高级后端工程师加入他们在旧金山的团队。 Spine AI 由 Akshay 和 Ashwin 共同创立，在人工智能和亚马逊、Instacart 等科技巨头领域拥有令人印象深刻的背景，处于人工智能创新的前沿。理想的候选人将拥有 Python、云基础设施管理、数据存储、MLOps 和合规性方面的经验。该角色涉及部署法学硕士、深入研究 API、扩展云部署以及推动合规计划。与 Spine AI 一起踏上重塑人工智能技术未来的激动人心的旅程。立即申请，成为魔法的一部分！]]></description>
-      <guid>https://t.me/hn_summary/81159</guid>
-      <pubDate>Mon, 25 Mar 2024 12:01:29 GMT</pubDate>
+      <title>在 Go 编程世界中，使用 Goroutines 和 ch 构建并发系统变得很容易 [...]</title>
+      <link>https://t.me/hn_summary/81185</link>
+      <description><![CDATA[Goroutine 泄漏的案例
+在 Go 编程世界中，使用 Goroutines 和通道构建并发系统的便利性既是福也是祸。虽然该语言在设计时就考虑到了并发性，但 Goroutine 中的内存泄漏是一个难以检测的常见问题。通过使用 Pyrscope 和 goleak 等工具，开发人员可以在泄漏的 Goroutines 造成重大问题之前识别并修复它们。关键要点是坚持 Go 的内置上下文模式并避免转换通道以防止泄漏。掌握 Go 并发性的过程充满了挑战，但通过正确的工具和知识，这些问题是可以克服的。]]></description>
+      <guid>https://t.me/hn_summary/81185</guid>
+      <pubDate>Mon, 25 Mar 2024 14:49:30 GMT</pubDate>
     </item>
     <item>
-      <title>和我一起踏上探索 Git 和 GitLab 内部运作的旅程吧！</title>
-      <link>https://t.me/hn_summary/81158</link>
-      <description><![CDATA[执行 Git 推送时 Gitlab 上会发生什么&lt; br /&gt;
-和我一起踏上探索 Git 和 GitLab 内部运作的旅程吧！了解 Git 存储库的组件、Git 传输协议以及 GitLab 的组件。逐步了解 git Push 的工作原理，并深入研究在 GitLab 中使用 SSH 时的身份验证过程。揭示从使用 sshd 到 gitlab-sshd 来处理 Git 请求的演变，以及在此过程中面临的挑战。和我一起揭开当你执行 git Push 时 GitLab 上发生的事情背后的秘密！ （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81158</guid>
-      <pubDate>Mon, 25 Mar 2024 11:53:23 GMT</pubDate>
+      <title>[媒体] Jampack 是一款后处理工具，旨在优化静态网站，为我们提供最好的服务 [...]</title>
+      <link>https://t.me/hn_summary/81184</link>
+      <description><![CDATA[显示 HN：Jampack – 作为后处理步骤优化静态网站
+Jampack 是一款后处理工具，旨在优化静态网站以获得最佳用户体验和 Core Web Vitals 分数。它不是捆绑器或框架，而是作为静态站点生成器输出之后的后处理步骤。 Jampack 通过优化图像以提高响应能力、将图像转换为多种格式、优化 CDN 图像、下载和优化外部图像、优先考虑首屏资源、延迟加载首屏资源以及内联关键 CSS 以防止 FOUC 来脱颖而出。 。总体而言，Jampack 旨在通过各种优化技术来增强网站性能和用户体验。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81184</guid>
+      <pubDate>Mon, 25 Mar 2024 14:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：我制作了一个工具，可以在几秒钟内找到您的初创公司名称。</title>
-      <link>https://t.me/hn_summary/81157</link>
-      <description><![CDATA[显示 HN：我制作了一个工具，可以在几秒钟内找到您的启动名称.
-隆重推出 Findna.me，这是一款革命性的工具，可帮助您找到完美的只需几秒钟即可为您的初创公司命名。只需输入最能描述您的项目的两个词以及详细的描述，然后奇迹就会发生。很快，您就会有 10 个独特且富有创意的名称提案可供选择。通过 Findna.me。准备好以真正脱颖而出的名字将您的初创公司提升到一个新的水平。现在就尝试一下，亲自看看结果！]]></description>
-      <guid>https://t.me/hn_summary/81157</guid>
-      <pubDate>Mon, 25 Mar 2024 11:49:48 GMT</pubDate>
+      <title>[媒体]Flatito 是一款旨在充当 YAML 和 JSON 文件 grep 的工具，允许用户 [...]</title>
+      <link>https://t.me/hn_summary/81183</link>
+      <description><![CDATA[显示 HN：YAML 和 JSON 文件的 Flatito、grep
+Flatito 是一款旨在充当 YAML 和 JSON 文件的 grep 工具，允许用户搜索特定键并检索其相应的值和行号。该项目旨在解决通过 YAML 和 JSON 文件高效搜索特定信息的问题。 Flatito 的与众不同之处在于它能够搜索这些文件类型中的密钥并提供有关其位置的详细信息。用户可以使用捆绑器或 gem 安装 gem，并利用各种选项来搜索和过滤结果。该项目欢迎贡献并遵循行为准则以确保协作环境。]]></description>
+      <guid>https://t.me/hn_summary/81183</guid>
+      <pubDate>Mon, 25 Mar 2024 14:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以色列定居者正在关注加沙海滨的潜在开发潜力，吸引了 [...]</title>
-      <link>https://t.me/hn_summary/81156</link>
-      <description><![CDATA[以色列定居者将目光投向加沙海滨
-以色列定居者被迷人的海岸线和金色沙滩所吸引，正在关注加沙海滨的潜在开发潜力。尽管围绕以色列在巴勒斯坦领土上的定居点存在争议，但一些人已经制定计划以确保靠近海岸的土地。一位女士甚至提到她在特拉维夫的朋友要求她为他们预留一个位置。风景如画的海滩的吸引力似乎超过了任何政治紧张局势，因为定居者将目光投向了这个独特且令人惊讶的海滨生活机会。]]></description>
-      <guid>https://t.me/hn_summary/81156</guid>
-      <pubDate>Mon, 25 Mar 2024 11:47:44 GMT</pubDate>
+      <title>这项研究深入研究了直播平台上的性文化，特别是 Twit [...]</title>
+      <link>https://t.me/hn_summary/81182</link>
+      <description><![CDATA[直播平台上的性文化：Twitch.tv 的内容分析&lt; /a&gt;
+这项研究深入探讨了直播平台上的性文化，特别是 Twitch.tv，通过内容分析方法。通过根据服装、展示的身体部位、图像焦点和行为等可观察属性来分析性化的频率和强度，该研究旨在了解主播如何在不同类别中呈现自己。令人惊讶的是，该研究在分析中纳入了男性主播，这一建议在之前的研究中经常被忽视。详细的编码系统允许对性化水平进行细致入微的理解，强调背景和行为在确定性化程度方面的重要性。严格的数据分析过程确保了研究结果的可靠性和有效性，为以前未探索的研究领域提供了线索。]]></description>
+      <guid>https://t.me/hn_summary/81182</guid>
+      <pubDate>Mon, 25 Mar 2024 14:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国 vs.</title>
-      <link>https://t.me/hn_summary/81155</link>
-      <description><![CDATA[美国 vs. 苹果
-在美国与苹果正在进行的法律战中，司法部和 16 个州根据《谢尔曼反垄断法》指控苹果滥用其市场地位。由于政府提出了强有力的理由，这一案件预计将持续数年。然而，文件中的许多论点都是基于苹果自成立以来一贯做出的产品选择，引发了人们对这些行为合法性的质疑。该案例还忽视了苹果 iPhone 的独特市场产品，该产品将硬件和软件结合在一起，使其有别于 Android 设备。法律程序很复杂，可能会很漫长，结果也不确定。 （根据故事文本的 24% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81155</guid>
-      <pubDate>Mon, 25 Mar 2024 11:46:08 GMT</pubDate>
+      <title>[媒体] 在 divy.work 上的这篇文章中，作者探索了 Turbocall，一个用于 [...]</title>
+      <link>https://t.me/hn_summary/81181</link>
+      <description><![CDATA[Turbocall – Deno FFI 的即时编译器
+在 divy.work 上的这篇文章中，作者探讨了 Turbocall，一个Deno FFI 的即时编译器，可显着加速 JavaScript 中的本机函数调用。通过优化绑定和使用 V8 快速 API 调用，Turbocall 为 FFI 调用生成 ARM64 汇编代码，使它们在 Deno 中速度提高 100 倍。作者还讨论了未来的可能性，包括比较 Turbocall 与 Static Hermes 以及 just-js/lo 提前生成 V8 快速调用绑定的潜力。这篇文章包括基准测试和 DenoFest 演讲的幻灯片，深入探讨了 Turbocall 的实现和影响。]]></description>
+      <guid>https://t.me/hn_summary/81181</guid>
+      <pubDate>Mon, 25 Mar 2024 14:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]近东救济工程处主任专员菲利普·拉扎里尼谴责以色列拒绝 [...]</title>
-      <link>https://t.me/hn_summary/81154</link>
-      <description><![CDATA[以色列告诉联合国，它将拒绝近东救济工程处的粮食车队进入加沙北部
-近东救济工程处总专员菲利普·拉扎里尼谴责以色列拒绝近东救济工程处食品车队进入加沙北部的决定，称这是在人为饥荒期间故意阻碍救生援助的无耻行为。世界卫生组织和联合国紧急救济协调员也批评了这一禁令，警告该地区即将发生饥荒。联合国秘书长安东尼奥·古特雷斯呼吁增加对加沙的援助，强调以色列需要消除救援障碍。尽管美国资金有限，近东救济工程处仍然致力于支持巴勒斯坦难民并努力实现该地区的和平。]]></description>
-      <guid>https://t.me/hn_summary/81154</guid>
-      <pubDate>Mon, 25 Mar 2024 11:37:03 GMT</pubDate>
+      <title>[媒体]“103 Early Anti Adblock”项目是一个概念验证，旨在检测 adblock [...]</title>
+      <link>https://t.me/hn_summary/81180</link>
+      <description><![CDATA[显示 HN：通过滥用 HTTP 103 响应，无需 JavaScript 即可检测广告拦截
+“103 Early Anti Adblock”项目是一个概念验证，旨在通过滥用 HTTP 103 Early Hints 响应来在不使用 JavaScript 的情况下检测广告拦截器。通过在实际响应之前发送早期提示，服务器可以根据客户端对这些提示的处理来确定是否存在广告拦截器。这种方法很有效，因为它不依赖于 JavaScript，而 JavaScript 可以被用户禁用或操纵。该项目目前在 Firefox 中运行，但在 Chrome 和 Safari 中存在限制。作者提到，这项技术虽然目前受到限制，但随着浏览器扩展对早期提示的支持，它可能成为检测广告拦截器的可靠方法。作者还指出，存在其他检测广告拦截器的技术，但可能需要更复杂的实现，并且更容易出现误报。]]></description>
+      <guid>https://t.me/hn_summary/81180</guid>
+      <pubDate>Mon, 25 Mar 2024 14:33:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软首席执行官 Satya Nadella 最近采取了一项战略举措，收购了 Inflection，这是一家 [...]</title>
-      <link>https://t.me/hn_summary/81153</link>
-      <description><![CDATA[微软通过 Inflection 接管重用其 OpenAI 剧本
-微软首席执行官 Satya Nadella 最近采取了一项战略举措，收购了 OpenAI 的潜在竞争对手 Inflection。尽管面临监管挑战，微软还是成功地将 Inflection 的大部分员工整合到了由联合创始人 Mustafa Suleyman 领导的新人工智能部门。此次收购不仅增强了微软在人工智能市场的地位，还凸显了该公司克服监管障碍的能力。值得注意的是，微软董事会成员 Reid Hoffman 将继续留在 Inflection 董事会，这标志着两家公司之间的独特合作。此次收购展示了微软在科技行业增长和扩张的创新方法。]]></description>
-      <guid>https://t.me/hn_summary/81153</guid>
-      <pubDate>Mon, 25 Mar 2024 11:34:59 GMT</pubDate>
+      <title>作者正在寻求有关如何开始托管和维护 Linux 服务器的技巧 [...]</title>
+      <link>https://t.me/hn_summary/81179</link>
+      <description><![CDATA[询问 HN：开始使用我自己的服务器的提示
+作者正在寻求有关如何开始托管和维护 Linux 服务器的技巧，以获得实践经验。他们欣赏云服务的便利性，但希望深入研究细节。他们计划以每月 10 美元左右的价格租用一台服务器，构建个人应用程序，并了解性能和安全性。尽管他们拥有云服务经验，但他们缺乏 Linux 命令和网络知识。他们受到 HN 最近的帖子的启发，渴望学习和提高自己的技能。他们乐于接受社区其他人的建议、资源和建议。]]></description>
+      <guid>https://t.me/hn_summary/81179</guid>
+      <pubDate>Mon, 25 Mar 2024 14:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>我成功地对 Mistral-7B 进行了微调以玩《DOOM》，突破了这个 AI 模型的界限 [...]</title>
-      <link>https://t.me/hn_summary/81152</link>
-      <description><![CDATA[微调 Mistral-7B 玩《DOOM》
-我成功地对 Mistral-7B 进行了微调以玩《DOOM》，突破了这个 AI 模型的功能界限。通过优化参数和训练数据，我取得了令人印象深刻的结果，并展示了人工智能在游戏中的潜力。这一突破凸显了 Mistral-7B 等人工智能模型的多功能性和适应性，为娱乐和创新开辟了新的可能性。请继续关注这个激动人心的项目的更多更新！ #AI #DOOM #创新 #gaming]]></description>
-      <guid>https://t.me/hn_summary/81152</guid>
-      <pubDate>Mon, 25 Mar 2024 11:05:46 GMT</pubDate>
+      <title>[媒体]Eric Ghost 在 20 世纪 60 年代创新的 LSD 包装反映了反主流文化的心理 [...]</title>
+      <link>https://t.me/hn_summary/81178</link>
+      <description><![CDATA[打造绚丽色彩：包装第一张 LSD 吸墨纸&lt; br/&gt;
+Eric Ghost 在 20 世纪 60 年代创新的 LSD 包装反映了反主流文化的迷幻愿景。他与人共同创立了迷幻药店，并以电影胶片的形式分发LSD，承诺“色彩绚丽”。 Ghost 的隐形包装包括第一张机械生产的 LSD 吸墨纸，其中添加了 LSD 滴剂，每滴含有 1,000 个麦克风。该包装包括一份科学信息表，强调了该药物起源于欧洲现代技术。 “场景和场景”在影响迷幻体验中的作用得到了认可，Ghost 的文本揭示了 20 世纪 60 年代 LSD 各种临床应用的探索。学者埃里克·戴维斯 (Erik Davis) 在他的著作《Blotter：酸性介质不为人知的故事》中探讨了这种对 LSD 分布和文化的独特见解。]]></description>
+      <guid>https://t.me/hn_summary/81178</guid>
+      <pubDate>Mon, 25 Mar 2024 14:24:43 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年，SpaceX 以 96 次发射占据了航天发射行业的主导地位，其中三分之二是 [...]</title>
-      <link>https://t.me/hn_summary/81151</link>
-      <description><![CDATA[这是 SpaceX 的世界（其他人都在追赶）&lt; /a&gt;
-2023年，SpaceX以96次发射占据了航天发射行业的主导地位，其中三分之二专门用于其星链业务。这占全球发射量的 30% 和部署的航天器的 70%。 SpaceX 的小型卫星拼车计划吸引了 130 多家客户，其中包括 OneWeb 和美国太空军等国际组织。相比之下，Rocket Lab 和 ULA 等其他美国发射公司则难以与 SpaceX 的客户多样性相媲美。中国的发射服务尽管进行了多次发射，但缺乏客户多样性，并且由于火箭碎片可能落在居民身上而面临争议。总体而言，SpaceX 在航天工业中的成功使他们成为创新和客户服务领域的领导者。]]></description>
-      <guid>https://t.me/hn_summary/81151</guid>
-      <pubDate>Mon, 25 Mar 2024 11:03:42 GMT</pubDate>
+      <title>[媒体]Tiny Corp 再次改变路线，这次决定提供 AMD Radeon GPU [...]</title>
+      <link>https://t.me/hn_summary/81177</link>
+      <description><![CDATA[小公司再次改变路线，计划提供 AMD Radeon GPU&lt; /a&gt;
+Tiny Corp 再次改变路线，这次决定为其计算盒提供 AMD Radeon GPU 以及 NVIDIA GeForce 选项。在发现 UMR 调试器后，他们感觉更有能力解决之前遇到的 Radeon GPU 问题。他们将提供红色（AMD）和绿色（NVIDIA）选项，红色选项更适合那些喜欢修补和故障排除的人。绿色选项被描述为更稳定和可靠，尽管价格更高。这一决定是在简要探索了英特尔 Arc Graphics 的可能性之后做出的。 UMR 调试器已经存在多年，但可能需要对开发人员进行更好的推广。]]></description>
+      <guid>https://t.me/hn_summary/81177</guid>
+      <pubDate>Mon, 25 Mar 2024 14:02:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
