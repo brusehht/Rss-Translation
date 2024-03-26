@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 26 Mar 2024 18:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 21:12:27 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 替代方案 - Radile</title>
+      <link>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</link>
+      <description><![CDATA[如果有人对微软拥有 Github 和 Open AI 并积极游说政府确保“人工智能安全”感到害怕，那么是时候探索一个真正的同行了点对点代码协作网络。  Radicle 团队今天发布了他们的产品，将 git 扩展为真正的 P2P。  这可能更符合 Linus Torvald 关于如何使用 git 的最初愿景。不是技术垄断拥有的 Github。  https://x.com/radicle/status/1772659708978991605?s =20 https://radicle.xyz/guides/user   由   提交 /u/Correct-External-778   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</guid>
+      <pubDate>Tue, 26 Mar 2024 19:52:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>RemoteStorage：一个简单的库，它将 localStorage API 与远程服务器相结合，以跨浏览器和设备保存数据（更新）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bof4i6/remotestorage_a_simple_library_that_combines_the/</link>
+      <description><![CDATA[ 由   提交/u/supportingthedogs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bof4i6/remotestorage_a_simple_library_that_combines_the/</guid>
+      <pubDate>Tue, 26 Mar 2024 18:28:51 GMT</pubDate>
+    </item>
     <item>
       <title>Inkscape的开发版本切换到GTK4</title>
       <link>https://www.reddit.com/r/opensource/comments/1boe6p6/inkscapes_development_version_switches_to_gtk4/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>在加拿大使用 Copyleft 许可证还重要吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bocfxw/does_using_a_copyleft_license_even_matter_in/</link>
-      <description><![CDATA[加拿大版权法有一项版权例外情况，称为“非商业用户生成的内容”。如下所示：   用户生成的非商业内容 29.21 (1) 个人使用现有作品或其他主题并不侵犯版权 -在创作新作品或其他具有版权的主题时，已出版或以其他方式向公众提供的内容或内容的副本，并且为个人（或经个人授权，为其成员）家庭——使用新作品或其他主题或授权中介传播它，如果  (a) 使用或授权传播新作品或其他主题主题仅用于非商业目的； (b) 提及现有作品或其他主题或其副本的来源（如果来源中给出了作者、表演者、制作者或广播者的姓名），如果在当时情况下合理的话这样做; (c) 该个人有合理的理由相信现有作品或其他主题或其副本（视情况而定）没有侵犯版权； (d) 使用或授权传播新作品或其他主题不会对现有作品或其他主题的利用或潜在利用产生财务或其他方面的重大不利影响——或其副本，或在其现有或潜在市场上，包括新作品或其他主题不能替代现有作品或其他主题。  定义 (2) 以下定义适用于第 (1) 款。 指定期为公众欣赏作品或其他主题提供空间或手段的个人或实体。 （中间）“使用”指根据本法，版权所有者唯一有权做的任何事情，但授权权除外。 (utiliser)   那么，如果大多数人不必遵循 Copyleft 许可证，那么使用它还有什么意义吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/DarkDetectiveGames   [链接] [评论]]]></description>
+      <description><![CDATA[加拿大版权法有一项版权例外情况，称为“非商业用户生成的内容”。如下所示：   用户生成的非商业内容 29.21 (1) 个人使用现有作品或其他主题并不侵犯版权 -在创作新作品或其他具有版权的主题时，已出版或以其他方式向公众提供的内容或内容的副本，并且为个人（或经个人授权，为其成员）家庭——使用新作品或其他主题或授权中介传播它，如果  (a) 使用或授权传播新作品或其他主题主题仅用于非商业目的； (b) 提及现有作品或其他主题或其副本的来源（如果来源中给出了作者、表演者、制作者或广播者的姓名），如果在当时情况下合理的话这样做; (c) 该个人有合理的理由相信现有作品或其他主题或其副本（视情况而定）没有侵犯版权； (d) 使用或授权传播新作品或其他主题不会对现有作品或其他主题的利用或潜在利用产生财务或其他方面的重大不利影响——或其副本，或在其现有或潜在市场上，包括新作品或其他主题不能替代现有作品或其他主题。  定义 (2) 以下定义适用于第 (1) 款。 指定期为公众欣赏作品或其他主题提供空间或手段的个人或实体。 （中间）“使用”指根据本法，版权所有者唯一有权做的任何事情，但授权权除外。 (utiliser)   那么，如果大多数人不必遵循 Copyleft 许可证，那么使用它还有什么意义吗？ &lt; !-- SC_ON --&gt;  由   提交/u/DarkDetectiveGames  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bocfxw/does_using_a_copyleft_license_even_matter_in/</guid>
       <pubDate>Tue, 26 Mar 2024 16:41:41 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>您如何资助您的开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1bo8gle/how_do_you_fund_your_opensource_projects/</link>
-      <description><![CDATA[嘿， 有一段时间，我一直在观察围绕开源项目运行的公司，例如 tldraw.com 或 signal.org。我想知道他们如何存在并能够雇用员工，同时又是一家专注于开源的公司。  获得一些捐款并保持服务器运行是一回事，而能够定期向员工支付工资并让整个团队专注于项目则是另一回事。  我知道有赞助捐款，有时大公司可以赞助更多的资金来持续支持，但我想知道是否还有其他方式/案例研究？就像从其他来源筹集资金一样，公司专注于为开源筹集资金等等？  另外我想知道你的项目必须有多大才能开始带来任何自我维持的资金？如果您有较小的项目（假设只有几颗星星），您应该采取哪些路线来为其提供足够的动力来获得资助？ 我想知道您是否有任何故事、观点或案例研究。 :)   由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 有一段时间，我一直在观察围绕开源项目运行的公司，例如 tldraw.com 或 signal.org。我想知道他们如何存在并能够雇用员工，同时又是一家专注于开源的公司。  获得一些捐款并保持服务器运行是一回事，而能够定期向员工支付工资并让整个团队专注于项目则是另一回事。  我知道有赞助捐款，有时大公司可以赞助更多的资金来持续支持，但我想知道是否还有其他方式/案例研究？就像从其他来源筹集资金一样，公司专注于为开源筹集资金等？  另外我想知道你的项目必须有多大才能开始带来任何自我维持的资金？如果您有较小的项目（假设只有几颗星星），您应该采取哪些路线来为其提供足够的动力来获得资助？ 我想知道您是否有任何故事、观点或案例研究。 :)   由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bo8gle/how_do_you_fund_your_opensource_projects/</guid>
       <pubDate>Tue, 26 Mar 2024 13:53:39 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>我们可以保护开源代码免受大型科技公司的侵害吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bo4feq/can_we_protect_open_source_codes_from_big_techs/</link>
-      <description><![CDATA[大家好！ 这里的人很天真，不太懂技术，所以如果我的问题完全是妄想，请提前原谅我或者愚蠢，但我想知道开源应用程序/代码等是否可以受到亚马逊、苹果、谷歌、Meta 等公司的保护。 我认为有很多例子可以说明懒惰的程度巨大的财政支持团体只是窃取想法并应用它们（我想到了任天堂的仿真或阀门的 WINE 代码）。 显然这种情况每天都在发生，但看到鲨鱼得到所有的想法是相当令人愤怒的信用和从别人的工作中获得的利润。 是否有办法保护项目并至少让它们可供小规模公司使用？或者至少报答创作者的不足？  或者说这是完全不可能的，只是为了“姿态之美”而已。每说并没有关系？出于我自己的好奇心，我想从了解这个游戏的人那里得到一个合理的解释。 干杯！   由   提交/u/madagreement  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 这里的人很天真，不太懂技术，所以如果我的问题完全是妄想，请提前原谅我或者愚蠢，但我想知道开源应用程序/代码等是否可以受到亚马逊、苹果、谷歌、Meta 等公司的保护。 我认为有很多例子可以说明懒惰的程度巨大的财政支持团体只是窃取想法并应用它们（我想到了任天堂的仿真或阀门的 WINE 代码）。 显然，这种情况每天都在发生，但看到鲨鱼得到所有的想法是相当令人愤怒的信用和从别人的工作中获得的利润。 有没有办法保护项目并至少让它们可供小规模公司使用？或者至少报答创作者的不足？  或者说这是完全不可能的，只是为了“姿态之美”而已。每说并没有关系？出于我自己的好奇心，我想从了解这个游戏的人那里得到一个合理的解释。 干杯！   由   提交/u/madagreement  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bo4feq/can_we_protect_open_source_codes_from_big_techs/</guid>
       <pubDate>Tue, 26 Mar 2024 10:20:48 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>介绍 fwdctl：使用 CLI 简化 iptables 转发管理</title>
       <link>https://www.reddit.com/r/opensource/comments/1bo2y1y/introducing_fwdctl_simplify_iptables_forward/</link>
-      <description><![CDATA[大家好，我想分享一个我一直在做的项目，名为 fwdctl。它是一个简单的 CLI 工具，旨在使管理 iptables 转发变得轻而易举。无论您是网络管理员、系统管理员，还是只是使用 Linux 的人员，fwdctl 都可以帮助简化您的工作流程。您可以在 GitHub 上找到该项目：github.com/alegrey91/fwdctl  我很想听听您对该项目的想法和反馈。请随时提出任何问题或分享您使用 fwdctl 的经验。让我们一起简化 iptables 管理！ 转发愉快！   由   提交/u/ale_grey_91   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想分享一个我一直在做的项目，名为 fwdctl。它是一个简单的 CLI 工具，旨在使管理 iptables 转发变得轻而易举。无论您是网络管理员、系统管理员，还是只是使用 Linux 的人员，fwdctl 都可以帮助简化您的工作流程。 您可以在 GitHub 上找到该项目：github.com/alegrey91/fwdctl  我很想听听您对该项目的想法和反馈。请随时提出任何问题或分享您使用 fwdctl 的经验。让我们一起简化 iptables 管理！ 转发愉快！   由   提交/u/ale_grey_91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bo2y1y/introducing_fwdctl_simplify_iptables_forward/</guid>
       <pubDate>Tue, 26 Mar 2024 08:41:26 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[讨厌必须不断注册帐户才能在其中一些网站上尝试，以及为仅长于 30 秒的镜头设置大量愚蠢的付费墙。 我很多人推荐使用Topaz AI，但是对于一次性使用来说它有点贵，这不像我专业使用它。只是想升级一些剪辑并完成它。    由   提交/u/MemeB0MB   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bo1amc/any_good_open_source_video_upscale_tools/</guid>
       <pubDate>Tue, 26 Mar 2024 06:46:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计的冲突解决方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bo0an5/conflict_resolution_methods_for_system_design/</link>
-      <description><![CDATA[Grokking 系统设计提到了操作转换和无冲突复制数据类型。我认为 OT 就是 Google Drive 使用的。但在面试的背景下，人们必须讨论基础知识、权衡等，我真的无法“理解”这两种解决方法。 TIA。   由   提交/u/CautiousAd6486   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bo0an5/conflict_resolution_methods_for_system_design/</guid>
-      <pubDate>Tue, 26 Mar 2024 05:40:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordCamp US 2024 门票现已发售</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bnyw9w/wordcamp_us_2024_tickets_are_now_available/</link>
-      <description><![CDATA[    &lt; /a&gt;  2024 年 9 月 17 日至 20 日在俄勒冈州波特兰 “WordCamp US 是为网络专业人士提供北美首屈一指的活动的通行证，该活动的重点是尖端网络开发、开放网络的未来以及使用 WordPress 做更多事情的创新方法。”   由   提交/u/MoochieRacoon  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bnyw9w/wordcamp_us_2024_tickets_are_now_available/</guid>
-      <pubDate>Tue, 26 Mar 2024 04:18:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
