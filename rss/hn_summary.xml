@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 15:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:14:47 GMT</lastBuildDate>
     <item>
-      <title>[媒体]经过四年的开发，开源FuryGPU已经在游戏中亮相，因此[...]</title>
-      <link>https://t.me/hn_summary/81703</link>
-      <description><![CDATA[新的开源 GPU 向所有人免费
-经过四年的开发，游戏软件开发人员 Dylan Barrie 推出了开源 FuryGPU。基于 Xilinx FPGA 设计，GPU 原型可以在 Quake Timedemo 中实现约 44fps 的速度。 Barrie 自学了 SystemVerilog 和 KiCAD，将他的愿景变为现实，其中最具挑战性的方面是创建 Windows 驱动程序。尽管性能令人印象深刻，Barrie 强调 FuryGPU 是一个创客项目，无意与商业 GPU 竞争。该项目将是开源的，尚待法律考虑。虽然 FuryGPU 并不是 GPU 领域的游戏规则改变者，但它的进展正在受到密切关注。]]></description>
-      <guid>https://t.me/hn_summary/81703</guid>
-      <pubDate>Thu, 28 Mar 2024 15:10:20 GMT</pubDate>
+      <title>嗨，HN！</title>
+      <link>https://t.me/hn_summary/81740</link>
+      <description><![CDATA[启动 HN: Thorntale (YC W24) – 与您的数据
+嗨，HN！我们是来自 Thorntale 的 Dori、John 和 Ellen，Thorntale 是一款可处理您的数据的新型演示软件。厌倦了仅仅为了创建简单的图表而在不同平台之间移动指标？我们也是。这就是我们创建 Thorntale 的原因，它直接连接到您的数据源，例如 Google Sheets、Snowflake 和 Postgres，从而无需屏幕截图或像素推送。我们的工具可以在几分钟内为定期会议创建或更新幻灯片，并且每个报告既是演示文稿又是文档。我们对未来有宏伟的计划，但现在，请查看我们的早期测试版 app.sandbox.thorntale.com。我们迫不及待地想听到您的反馈！]]></description>
+      <guid>https://t.me/hn_summary/81740</guid>
+      <pubDate>Thu, 28 Mar 2024 18:14:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 brooker.co.za 上的这篇文章中，作者讨论了纠删码的概念作为 [...]</title>
-      <link>https://t.me/hn_summary/81702</link>
-      <description><![CDATA[纠删码与尾部延迟
-在 brooker.co.za 上的这篇文章中，作者讨论了纠删码的概念，作为减少尾部延迟和提高系统可用性的强大工具。他们将纠删码与对冲（Jeff Dean 和 Luiz Barroso 推广的一种技术）进行了比较，并强调了纠删码在处理延迟、可用性、负载平衡和分散负载方面的灵活性和效率。作者强调了纠删码对尾部延迟和可用性的重大影响，使其成为构建延迟敏感或可用性敏感系统时值得考虑的有价值的技术。这篇文章还涉及纠删码的数学基础及其在存储和网络中的广泛应用。]]></description>
-      <guid>https://t.me/hn_summary/81702</guid>
-      <pubDate>Thu, 28 Mar 2024 15:08:14 GMT</pubDate>
+      <title>[媒体] 在本周的时事通讯中，我深入探讨了 RISC-V 的迷人故事，这是一种开源 [...]</title>
+      <link>https://t.me/hn_summary/81739</link>
+      <description><![CDATA[RISC-V：一群伯克利研究人员如何接管芯片行业
+在本周的时事通讯中，我深入探讨了 RISC-V 的精彩故事，这是一种开源指令集架构，颠覆了由英特尔、ARM 和 AMD 主导的芯片行业。 RISC-V 由 Krste Asanović 领导的加州大学伯克利分校的一组研究人员开发，为开发计算机芯片提供了一种免费、可定制的替代方案。通过向公众发布指令集，他们吸引了众多公司，包括谷歌、IBM 和英特尔等大公司，最终形成了 RISC-V 基金会。这种开放式芯片架构在各个行业中都受到了关注，提供了真正的自由并显着节省了许可费用。 RISC-V 的成功凸显了开放标准在促进创新和打破垄断方面的力量。关键要点是开放以前封闭的产品为较小的参与者创造了机会，公共资金和开放许可对于推动创新和经济增长至关重要。 RISC-V 的故事是一个令人信服的例子，说明协作和开放创新如何能够彻底改变行业并创建更具弹性和健康的市场生态系统。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81739</guid>
+      <pubDate>Thu, 28 Mar 2024 18:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.emoses.org 上，作者介绍了 Go 中表示状态变化的模式 [...]</title>
-      <link>https://t.me/hn_summary/81701</link>
-      <description><![CDATA[在 Go 中将状态表示为接口
-在 www.emoses.org 上，作者介绍了一种模式在 Go 中通过使用接口来表示系统中的状态变化。该模式涉及 Resolver、Executor 和 Resolved，它们全部由同一结构实现。作者解释了这种模式背后的动机，强调需要在不同状态下处理不同的操作。他们还讨论了一种混乱的替代方法，并强调使用 Go 中的接口来有效管理状态更改的简单性和清晰度。这种独特的模式提供了一种巧妙的解决方案，可以使用 Go 接口处理系统中的状态更改。]]></description>
-      <guid>https://t.me/hn_summary/81701</guid>
-      <pubDate>Thu, 28 Mar 2024 15:03:37 GMT</pubDate>
+      <title>[媒体]巴尔的摩大桥倒塌后，网上对话如潮水般涌来……</title>
+      <link>https://t.me/hn_summary/81738</link>
+      <description><![CDATA[Twitter 的缓慢消亡是通过巴尔的摩大桥倒塌等灾难来衡量的
+巴尔的摩大桥倒塌后，网上对话充斥着阴谋论和错误信息，一些人将这场悲剧归咎于种族主义和移民。互联网格局的变化，尤其是 Twitter 上的变化，导致了有害内容和虚假叙述的传播。巴尔的摩节拍的当地记者丽莎·斯诺登对错误信息侵入社区表示担忧，强调了悲剧事件期间网上猜测的破坏性影响。尽管一片混乱，斯诺登仍然专注于报道灾难对她的社区的影响，并等待错误信息的风暴过去。]]></description>
+      <guid>https://t.me/hn_summary/81738</guid>
+      <pubDate>Thu, 28 Mar 2024 18:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在对已婚夫妇常见年龄差异的分析中，数据来自 2022 年美国 [...]</title>
-      <link>https://t.me/hn_summary/81700</link>
-      <description><![CDATA[已婚夫妇常见的年龄差异
-在对已婚夫妇常见年龄差异的分析中，2022 年美国社区调查的数据显示，三分之一的男女已婚家庭的配偶年龄相差不到一年，其中丈夫的年龄通常较大。令人惊讶的是，年龄差距并没有随着年龄的增长而显着增加，更大的差距在第二次和第三次婚姻以及同性婚姻中更为常见。使用 R 和 Adob​​e Illustrator 对数据进行分析，突显已婚夫妇之间不同年龄差距的普遍性。这一发人深省的分析促使人们进一步探索人际关系中的年龄差异如何随着时间的推移而演变。]]></description>
-      <guid>https://t.me/hn_summary/81700</guid>
-      <pubDate>Thu, 28 Mar 2024 14:54:30 GMT</pubDate>
+      <title>[媒体] 使用实验性 MSBuild 编辑器探索新的 MSBuild 编辑体验，该编辑器支持 [...]</title>
+      <link>https://t.me/hn_summary/81737</link>
+      <description><![CDATA[全新的 MSBuild 编辑体验
+使用实验性 MSBuild 编辑器探索新的 MSBuild 编辑体验，该编辑器可以更丰富地了解项目文件。此编辑器提供属性、项目和元数据的快速信息、NuGet 包的 IntelliSense 以及 XML 错误之外的验证。使用常见目标和 SDK 的内置架构增强您的编辑体验，或为自定义目标创建您自己的架构。该扩展目前可用于 Visual Studio，并计划将其移植到 Visual Studio Code。在 GitHub 页面上或通过调查分享您的反馈，以帮助塑造此工具在 .NET 开发体验中的未来。]]></description>
+      <guid>https://t.me/hn_summary/81737</guid>
+      <pubDate>Thu, 28 Mar 2024 18:07:03 GMT</pubDate>
     </item>
     <item>
-      <title>我抓取了 OpenAI 社区论坛的所有内容，并编译了有关帖子讨论、标签、观点的数据，[...]</title>
-      <link>https://t.me/hn_summary/81699</link>
-      <description><![CDATA[显示 HN：我抓取了 OpenAI 社区论坛的所有内容 
-我抓取了 OpenAI 的所有社区论坛，并整理了有关帖子讨论、标签、视图、回复、点赞、参与者、字数、作者信息、情绪等的数据。这些数据包括帖子 ID、时间戳、类别、相关主题、情绪得分和内容嵌入。这个全面的数据集为 OpenAI 社区的讨论和互动提供了宝贵的见解。探索 julep-ai.github.io 发现论坛内的趋势和模式。]]></description>
-      <guid>https://t.me/hn_summary/81699</guid>
-      <pubDate>Thu, 28 Mar 2024 14:45:54 GMT</pubDate>
+      <title>[媒体]kettanaito.com 上的文章深入探讨了经常被忽视的挑战和现实 [...]</title>
+      <link>https://t.me/hn_summary/81736</link>
+      <description><![CDATA[开源的阴暗面
+kettanaito.com 上的文章深入探讨了经常被忽视的挑战和现实贡献和创作开源项目。作者强调了贡献者和作者之间的区别，强调需要做好准备并理解所涉及的承诺。这篇文章还讨论了从开源项目到产品的转变、财务可持续性的斗争，以及在开源工作和个人生活之间建立健康平衡的重要性。作者鼓励读者享受项目中未被发现的阶段，为未来做好计划，并优先考虑心理健康。最终，本文为那些探索开源世界的人提供了一份警示性但内容丰富的指南。]]></description>
+      <guid>https://t.me/hn_summary/81736</guid>
+      <pubDate>Thu, 28 Mar 2024 18:01:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Dioxus 0.5 是一次重大更新，为构建库带来了重大变化 [...]</title>
-      <link>https://t.me/hn_summary/81698</link>
-      <description><![CDATA[Dioxus 0.5：Rust 中的 Web、桌面、移动应用
-Dioxus 0.5 是一个重大更新，为 Rust 中构建 GUI 的库带来了重大变化。该更新包括对核心的完全重写，删除所有不安全代码，并引入信号作为组件的核心状态原语。信号始终是复制的，不需要手动订阅，使状态管理变得更加容易。此更新还删除了生命周期和作用域，简化了组件声明和运行时函数的使用。通过这些变化，Dioxus 的目标是让应用程序开发变得更容易、更高效，同时满足新手和经验丰富的 Rust 开发人员的需求。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81698</guid>
-      <pubDate>Thu, 28 Mar 2024 14:44:51 GMT</pubDate>
+      <title>[媒体] 在微软进行改组之后，Windows 和 Surface 在新的领导者的领导下重新组合在一起 [...]</title>
+      <link>https://t.me/hn_summary/81735</link>
+      <description><![CDATA[Windows 改组如何让微软利用人工智能 PC 
+微软改组后，Windows 和 Surface 在新的领导下重新整合，标志着“人工智能 PC”的大力推动。 DeepMind 联合创始人 Mustafa Suleyman 现在领导微软的消费者人工智能工作。负责 Bing 和广告业务的米哈伊尔·帕拉欣 (Mikhail Parakhin) 因 Windows 和人工智能分裂而离职。微软专注于让 Edge 成为一个更好的浏览器，而不采取激进的策略。 Pavan Davuluri 在硬件和软件方面经验丰富，在采用定制处理器的 AI PC 领域处于领先地位。微软即将举行的活动可能会推出基于 Arm 的 Surface 设备，这标志着微软可能会放弃英特尔。此举可能会重新定义 Windows 笔记本电脑的未来。]]></description>
+      <guid>https://t.me/hn_summary/81735</guid>
+      <pubDate>Thu, 28 Mar 2024 18:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌的 Lars Bergstrom 在 Twitter 上分享了一些有趣的见解，揭示了 [...]</title>
-      <link>https://t.me/hn_summary/81697</link>
-      <description><![CDATA[Google 的 Lars Bergstrom：Rust 团队的工作效率是使用 C++ 的团队的两倍
-来自 Google 的 Lars Bergstrom 在 Twitter 上分享了一些有趣的见解，揭示 Rust 团队的生产力是使用 C++ 的团队的两倍。这一声明引发了开发商的争论，一些人质疑这一说法的有效性。围绕 Rust 与 C++ 生产力的争议引起了技术社区许多人的关注。这是一个大胆的声明，让许多人想知道在软件开发中使用 Rust 相对于 C++ 的潜在好处。]]></description>
-      <guid>https://t.me/hn_summary/81697</guid>
-      <pubDate>Thu, 28 Mar 2024 14:30:43 GMT</pubDate>
+      <title>[媒体]特斯拉公司</title>
+      <link>https://t.me/hn_summary/81734</link>
+      <description><![CDATA[特斯拉价值 25,000 美元的汽车意味着扔掉已有 100 年历史的装配线
+Tesla Inc. 正在推出一款价值 25,000 美元的电动汽车，彻底改变制造流程，挑战传统的装配线方法。该公司的“拆箱”方法类似于搭建乐高积木，允许在最终集成之前在专用区域同时进行零件组装。这种创新方法可以将制造占地面积减少 40% 以上，从而实现更快、更具成本效益的工厂建设。通过摆脱具有 100 年历史的装配线模式，特斯拉的目标是在竞争中保持领先地位，尤其是来自中国的竞争。这一大胆举措标志着汽车制造领域的重大转变，体现了特斯拉对创新和效率的承诺。]]></description>
+      <guid>https://t.me/hn_summary/81734</guid>
+      <pubDate>Thu, 28 Mar 2024 17:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>戴尔要求员工返回办公室，否则可能会错过晋升机会，sparkin [...]</title>
-      <link>https://t.me/hn_summary/81696</link>
-      <description><![CDATA[戴尔：返回办公室或放弃晋升&lt; br/&gt;
-戴尔要求员工返回办公室，否则可能会错过晋升机会，这引发了员工的困惑和强烈反对。该公司从重视远程工作转向优先考虑办公室工作，引发了人们对隐形裁员的担忧，并对女性和残疾人产生了不成比例的影响。工作场所文化专家杰西卡·克里格尔表示，戴尔强制重返办公室是一种“精简员工队伍”的方式，可能会导致一些员工辞职。这项有争议的政策反映出，尽管员工不满并担心远程工作对经济和商业地产的影响，但企业仍倾向于取消远程工作政策。]]></description>
-      <guid>https://t.me/hn_summary/81696</guid>
-      <pubDate>Thu, 28 Mar 2024 14:19:36 GMT</pubDate>
+      <title>[媒体]AI21 Labs 推出了 Jamba，这是第一个基于 Mamba 的生产级人工智能模型 [...]</title>
+      <link>https://t.me/hn_summary/81733</link>
+      <description><![CDATA[AI21 实验室推出 Jamba：首款基于 Mamba 的生产级人工智能型号
+AI21 Labs 推出了 Jamba，这是第一个基于 Mamba 架构的生产级 AI 模型，与流行的 Transformer 模型不同。 Jamba 的混合设计将 Mamba 的结构化状态空间模型与 Transformer 架构相结合，允许更长的上下文窗口和更高的效率。凭借 Apache 2.0 许可下提供的开放权重，Jamba 已经在基准测试中显示出令人印象深刻的结果，并且可以通过 Hugging Face 和 NVIDIA API 目录等平台进行访问。虽然尚不适合商业用途，但 AI21 Labs 计划很快发布更安全的版本。 Jamba 代表着人工智能模型开发向前迈出的重要一步，有望增强未来的性能和可访问性。]]></description>
+      <guid>https://t.me/hn_summary/81733</guid>
+      <pubDate>Thu, 28 Mar 2024 17:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 介绍 3D 打印二进制恩尼格玛 (10 Enigma) – 终极加密和解密 [...]</title>
-      <link>https://t.me/hn_summary/81695</link>
-      <description><![CDATA[Show HN：我制作了一个用于手动加密的二进制恩尼格玛机
-隆重推出 3D 打印二进制恩尼格玛机 (10 Enigma) – 受二战恩尼格玛机启发的终极加密和解密设备。这种手动设备为无需电池的现代通信提供了简单性和安全性。请务必小心，因为机器需要精确处理和定位环才能正确操作。通过将文本转换为简化的二进制文件并费力地按下相应的按钮来加密消息。按照相反的相同过程进行解密。从解码秘密消息中获利并尝试破解所提供的谜题。该设备的机械结构通过详细的组装说明进行了解释。使用二进制恩尼格玛体验前所未有的加密！]]></description>
-      <guid>https://t.me/hn_summary/81695</guid>
-      <pubDate>Thu, 28 Mar 2024 14:18:30 GMT</pubDate>
+      <title>[媒体]研究人员找到了一种通过减少[...]来恢复老年小鼠免疫系统活力的方法。</title>
+      <link>https://t.me/hn_summary/81732</link>
+      <description><![CDATA[如何让衰老的免疫系统再次年轻&lt; br/&gt;
+研究人员找到了一种通过减少促炎干细胞来恢复老年小鼠免疫系统活力的方法，从而增强对病毒感染的反应并降低炎症水平。这项发表在《自然》杂志上的突破性技术可能会改变人类与年龄相关的免疫系统衰退的游戏规则。这项研究揭示了造血干细胞如何影响免疫系统衰老，并暗示逆转人体生物年龄的可能性。虽然该方法仍处于测试的早期阶段，但它有望在未来应用于人类健康领域。]]></description>
+      <guid>https://t.me/hn_summary/81732</guid>
+      <pubDate>Thu, 28 Mar 2024 17:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：Reddit内部人士在IPO后一直在抛售股票</title>
-      <link>https://t.me/hn_summary/81694</link>
-      <description><![CDATA[Reddit 内部人士在 IPO 后一直在抛售股票&lt; br/&gt;
-标题：Reddit 内部人士在 IPO 后一直在抛售股票
-
-最近，有消息称 Reddit 的内部人士在公司 IPO 后抛售了他们的股票。这引起了一些人的关注，并引发了投资者和分析师的争议。许多人质疑这些销售背后的动机以及这对公司的未来意味着什么。对于一个以透明度和社区参与为荣的平台来说，这是一个令人惊讶的转变。只有时间才能证明这将如何影响 Reddit 的市场轨迹。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/81694</guid>
-      <pubDate>Thu, 28 Mar 2024 14:16:26 GMT</pubDate>
+      <title>[媒体]加利福尼亚州参议员史蒂夫帕迪拉提出了一项有争议的法案，SB 1228，t [...]</title>
+      <link>https://t.me/hn_summary/81731</link>
+      <description><![CDATA[CA 参议员推动法案取消任何有影响力的在线人士的匿名性&lt; /a&gt;
+加利福尼亚州参议员史蒂夫·帕迪拉 (Steve Padilla) 提出了一项有争议的法案 SB 1228，该法案旨在取消“有影响力”的在线用户的匿名性，特别是在选举背景下。该法案要求大型在线平台验证拥有大量关注者的用户的身份，并将其标记为“经过身份验证”或“未经身份验证”。帕迪拉对网上错误信息的担忧是可以理解的，但他提出的补救措施是违宪的，并且违背了言论自由和匿名的原则。该法案模糊的定义和要求引发了隐私和法律问题，使其成为法律挑战的目标。帕迪拉显然缺乏对宪法原则的理解，该法案也因其越权而受到批评。]]></description>
+      <guid>https://t.me/hn_summary/81731</guid>
+      <pubDate>Thu, 28 Mar 2024 17:36:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
