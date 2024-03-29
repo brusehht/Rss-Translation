@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 00:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 03:11:34 GMT</lastBuildDate>
+    <item>
+      <title>Code Copilot 使用最先进的 Databricks DBRX</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqetag/code_copilot_using_the_new_stateoftheart/</link>
+      <description><![CDATA[很高兴阅读 Databricks 关于其新开源 LLM DBRX 的公告，这是一个总共有 132B 参数的 MoE（在任何输入上都有 36B 参数有效），对 12T 文本和代码标记进行预训练。  他们声称这是开放模型的最新技术，基准测试表明它意味着 Mixtral 和 Grok-1。使用 HumanEval 基准进行编码时表现强劲。这让我产生了尝试将 DBRX 作为 IDE 中的编码副驾驶的想法。 因此，我将 DBRX 推出到我的VS Code 扩展，您可以在此处免费下载。 扩展还有其他流行的与 GPT-4 Turbo 和 Claude 3 Opus 等封闭模型进行对比。让我知道你的想法。   由   提交/u/geepytee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqetag/code_copilot_using_the_new_stateoftheart/</guid>
+      <pubDate>Fri, 29 Mar 2024 03:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 3/28/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqerse/oneminute_daily_ai_news_3282024/</link>
+      <description><![CDATA[ 拜登政府公布联邦政府使用人工智能的新规则。[1] &lt; li&gt;AI21 Labs 的新 AI 模型可以处理比大多数模型更多的上下文。[2] Google 现在将允许您使用 AI 来构建旅行行程[3] 微软推出了一些工具，以防止用户出于恶意目的欺骗人工智能聊天机器人。[4] 来源包含在：https://bushaicave.com/2024/03/28/3-28-2024/     由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqerse/oneminute_daily_ai_news_3282024/</guid>
+      <pubDate>Fri, 29 Mar 2024 03:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能 PDF 编辑</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqep17/ai_for_pdf_editing/</link>
+      <description><![CDATA[在我的工作中，我们每月必须编辑数百个 PDF 文档。我想知道是否有任何人工智能能够自动化这些过程。基本上，它涉及删除某些文本、删除图像和替换其他文本。如果有人知道，我将不胜感激您的帮助。   由   提交/u/mbrotom  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqep17/ai_for_pdf_editing/</guid>
+      <pubDate>Fri, 29 Mar 2024 02:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊刚刚对配音演员进行了核打击吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqcckn/did_amazon_just_drop_a_nuke_on_voice_actors/</link>
+      <description><![CDATA[我刚刚获得了亚马逊 AI 创建的有声读物程序的测试版访问权限... 亚马逊刚刚针对配音行业。我认为这是表达它的底线方式。你不能说产品不好。产品的质量令人惊叹。作为受邀进行 Beta 测试的人，只需单击两次按钮即可完成总体设置。亚马逊将直接对待配音演员，就像他们对整个图书行业所做的那样。你如何阻止这个？无论你喜欢还是讨厌这种情况，试图阻止它都不是答案。  通过此 YouTube 视频查看实际情况并自行判断：https://www.youtube .com/watch?v=w8YgQKjdcRY    由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqcckn/did_amazon_just_drop_a_nuke_on_voice_actors/</guid>
+      <pubDate>Fri, 29 Mar 2024 01:06:51 GMT</pubDate>
+    </item>
     <item>
       <title>AI 网站/应用程序可将图像转换为移动的 gif 或视频？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqaswd/ai_siteapp_to_turn_image_into_moving_gif_or_video/</link>
@@ -34,13 +62,6 @@
       <pubDate>Thu, 28 Mar 2024 19:48:41 GMT</pubDate>
     </item>
     <item>
-      <title>用于总结网页内容的最佳人工智能工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bq1pz3/best_ai_tool_for_summarizing_webpage_content/</link>
-      <description><![CDATA[是否有任何好的工具可以插入 5-10 个 URL，例如论坛主题或 reddit 帖子，它会分析所有数据并为您提供摘要？ 例如，如果您在 google 上搜索“洛杉矶最佳中餐 reddit”，并找到 20 个 reddit 线程，您可以将这 20 个 URL 插入到 AI 工具中可以分析数据并进行总结吗？ 示例输出： “共识是最好的中餐馆是：PF Changs、Panda Express 等。圣费尔南多谷，人们说 Mings Diner 是最好的选择。在康普顿、XYZ 选项等”。  只是想知道是否有任何人工智能工具可以帮助那些经常阅读论坛帖子的人加快研究过程。  &amp;# 32；由   提交 /u/ChiefRunningCar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bq1pz3/best_ai_tool_for_summarizing_webpage_content/</guid>
-      <pubDate>Thu, 28 Mar 2024 17:45:55 GMT</pubDate>
-    </item>
-    <item>
       <title>不上大学，值得作为独立开发者吗？有初学者项目吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bq0w3z/is_it_worth_getting_into_as_a_solo_dev_not_in/</link>
       <description><![CDATA[您好，在我继续讨论之前。我精通编程领域，已经完成了 90% 的大学生涯。刚刚遇到财务障碍导致中断。我主要为 IOS Dev、python、java 和 SQL 编程。我确实发现 ML 领域很有趣，但投入如此多的时间却总是远远落后并且永远无法在其中找到工作，这似乎总是令人畏惧。像我这样的人是否有可能在机器学习领域找到一份工作，或者在这个繁荣时期它的竞争是否太激烈了。另外，如果您知道有任何流行的初学者项目，它们有助于进入该领域并使自己更加可信。我将不胜感激。   由   提交 /u/nikotbt   [链接] [评论]]]></description>
@@ -55,7 +76,7 @@
       <pubDate>Thu, 28 Mar 2024 17:09:46 GMT</pubDate>
     </item>
     <item>
-      <title>为什么它不能画出有5根手指的人手</title>
+      <title>为什么它不能画出有5个手指的人手</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bq0etm/why_cant_it_draw_a_human_hand_with_5_fingers/</link>
       <description><![CDATA[我尝试过几种不同的企业法学硕士，将其放入其中并使其得出正确答案的方式让我摸不着头脑思考图像生成器如何总是制作出具有 6 个手指的人类。这是否只是代码中设计的一个小故障，以便能够判断图像是否是由人工智能生成的？看起来如果你告诉它给人类 5 个手指，它会尝试这样做。    由   提交/u/National-Belt5893  /u/National-Belt5893 reddit.com/r/ArtificialInteligence/comments/1bq0etm/why_cant_it_draw_a_ human_hand_with_5_fingers/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bq0etm/why_cant_it_draw_a_human_hand_with_5_fingers/</guid>
@@ -69,32 +90,11 @@
       <pubDate>Thu, 28 Mar 2024 16:18:13 GMT</pubDate>
     </item>
     <item>
-      <title>AI Unplugged 5：从 Apple MM1 到 DBRX 再到 Open SORA</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpwp3q/ai_unplugged_5_from_apple_mm1_to_dbrx_to_open_sora/</link>
-      <description><![CDATA[AI unplugged 是一份每周新闻通讯，涵盖人工智能领域（更像是生成式人工智能）的最新研究和动态。这是第五周了。 请让我知道你的想法:) ... https://datta0.substack.com/p/ai-unplugged-5-databricks-dbrx-apple   由   提交/u/im_datta0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpwp3q/ai_unplugged_5_from_apple_mm1_to_dbrx_to_open_sora/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:17:07 GMT</pubDate>
-    </item>
-    <item>
       <title>10年后的索拉。可能性是无限的，好莱坞已经完蛋了。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpfx56/sora_in_10_years_the_possibilities_are_endless/</link>
       <description><![CDATA[想象一下： 您想在下雨的周末在客厅制作一部逼真的长片电影，所以您打开提升 Sora 或其众多竞争对手之一，并创建一个具有自己高度独特的身体和性格特征的演员阵容。你给他们每个人一个剧本，然后可以挑选出单独的场景进行编辑、写作； “我希望当杰西卡对乔说话时，乔的脸上露出稍微困惑的表情。我还希望她的声音中带有一丝愤怒。” 没有任何目的地或场景是遥不可及的，也不受预算的限制。每个“演员”和他们的表演都可以修改到最微小的细节。可能性是无限的，好莱坞完蛋了。   由   提交/u/CH4LOX2  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpfx56/sora_in_10_years_the_possibilities_are_endless/</guid>
       <pubDate>Wed, 27 Mar 2024 23:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我与潜在的性伴侣分享了我的性病测试结果，他们通过人工智能应用程序运行了我的结果，该应用程序错误地将我的文档标记为被篡改。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bpf79w/i_shared_my_std_test_results_with_a_potential_sex/</link>
-      <description><![CDATA[我有两个问题... 首先，这是否意味着我的私人、未编辑的 STD 测试结果现在存储在某个公共数据库中我的名字和地址完全可见？存储和发布我的受 HIPPA 保护的健康信息是不合法的，不是吗？ 其次，该人声称他们使用的 AI 应用程序报告我文档中的日期和测试结果已被篡改。我确实给了他们我直接从测试机构下载的未修改的 PDF。我给他们的版本中没有任何内容被篡改，并且是 100% 原创的。有没有可能，因为我的结果是在标准实验室表格上，人工智能应用程序已经看到了其他人在同一张实验室表格上的测试结果，现在报告说我的表格被玷污了，因为我的实验室结果与实验室结果不符他们数据库中第一个人的名字？ 我无法询问该人是哪个人工智能应用程序，也无法为自己辩护，因为他们在痛斥我、称我为撒谎的性掠夺者并咒骂后，现在已经屏蔽了我把我列入黑名单。哎呀。并帮助！   由   提交 /u/NaughtyNutter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bpf79w/i_shared_my_std_test_results_with_a_potential_sex/</guid>
-      <pubDate>Wed, 27 Mar 2024 22:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊斥资 27.5 亿美元收购人工智能初创公司 Anthropic，这是其迄今为止最大的风险投资</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bp74ea/amazon_spends_275_billion_on_ai_startup_anthropic/</link>
-      <description><![CDATA[https://www.cnbc.com/amp/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture -investment.html   由   提交/u/BilgeYamtar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bp74ea/amazon_spends_275_billion_on_ai_startup_anthropic/</guid>
-      <pubDate>Wed, 27 Mar 2024 17:08:40 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
