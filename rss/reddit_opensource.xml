@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 21:11:12 GMT</lastBuildDate>
+    <item>
+      <title>社区知道哪些项目最初是封闭的或秘密开发的，但后来开源了？结果是成功了还是失败了？ （请参阅正文以了解后续问题）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</link>
+      <description><![CDATA[ 他们的开源策略是什么？他们是一次性完成还是分批完成？ 他们如何与开发人员沟通？他们使用论坛、IRC，还是只是在 PR 和问题跟踪器中讨论问题？    由   提交 /u/carrotcypher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</guid>
+      <pubDate>Fri, 29 Mar 2024 20:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>上游 xz/liblzma 中的后门导致 ssh 服务器受损</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bqxzhk/backdoor_in_upstream_xzliblzma_leading_to_ssh/</link>
+      <description><![CDATA[ 由   提交 /u/LHLaurini   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bqxzhk/backdoor_in_upstream_xzliblzma_leading_to_ssh/</guid>
+      <pubDate>Fri, 29 Mar 2024 19:52:39 GMT</pubDate>
+    </item>
     <item>
       <title>第一个开源项目！显示热键。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bqvcpb/first_opensource_project_display_hot_keys/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/iByteABit   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bprpad/github_ibyteabit256tictactoes_super_tic_tac_toe/</guid>
       <pubDate>Thu, 28 Mar 2024 09:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>协作文档编辑的最佳开源等效项？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bpr6yo/best_opensource_equivalent_for_collaborative/</link>
-      <description><![CDATA[不需要超过 1 GB 的存储空间，但我需要一个开源文档编辑器，可以允许与一个协作者进行实时编辑，例如谷歌文档。最好易于安装，因为我的合作者在计算机和编码方面没有太多经验（尽管我有）。 我们有 .docx 格式的现有文档，但我正在努力寻找程序这让我可以将它们导入为 .docx，否则我会丢失富文本方面，如粗体、斜体、颜色、注释等。    由   提交/u/athena_x_11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bpr6yo/best_opensource_equivalent_for_collaborative/</guid>
-      <pubDate>Thu, 28 Mar 2024 09:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们来谈谈 Apache AGE：PostgreSQL 的图形扩展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bpd2a9/lets_talk_about_apache_age_a_graph_extension_for/</link>
-      <description><![CDATA[大家好u/opensource！我是 Apache AGE 的核心贡献者之一，这是一个开源项目，致力于向 PostgreSQL 添加图形数据库功能，我非常高兴能在这里与大家分享。 🎉 为什么我要把 Apache AGE 带到这里？嗯，很简单： 社区与协作：我们对开源充满热情，并相信社区贡献和反馈的力量。 灵活性和创新：&lt; /strong&gt; Apache AGE 代表了关系数据库的结构化世界和图形数据库的互连领域之间的一座桥梁，为您的项目提供了独特的功能组合。 共同学习和成长：是否如果您是数据库爱好者或只是对新技术感到好奇，我来这里是为了向您学习、回答问题，甚至可能一起解决一些难题。 这是关于分享我们喜欢的东西并发现类似 -有头脑的人可能会发现它有用或有趣。如果图数据库引起您的兴趣，或者您有见解、问题，或者只是想讨论数据库的未来，我洗耳恭听！ com/apache/age&quot;&gt;Apache AGE GitHub &amp; 网站    由   提交/u/Eya_AGE  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bpd2a9/lets_talk_about_apache_age_a_graph_extension_for/</guid>
-      <pubDate>Wed, 27 Mar 2024 21:07:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
