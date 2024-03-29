@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 09:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 12:20:00 GMT</lastBuildDate>
     <item>
-      <title>A.I 涂抹视频！？ （将 4:3 变为 16:9 宽屏）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqk5wi/ai_outpaint_videos_make_43_to_169_widescreen/</link>
-      <description><![CDATA[所以，pikalabs 有一个名为“扩展画布”的功能。它超越了视频。 这意味着它可以用来将 4:3 视频转换为 16:9 宽屏。 问题是 pikalabs 只能处理 10mb 的视频大小，只需几秒钟。 它还在视频中添加了奇怪的生成内容... 所以我想知道..是否有其他平台为视频提供外画？ （我知道有大量的图像重写人工智能）而且我不是在谈论静态照片。我知道这很容易做到。我的意思是实际的移动镜头。还有一些易于使用的？   由   提交 /u/livecollector   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqk5wi/ai_outpaint_videos_make_43_to_169_widescreen/</guid>
-      <pubDate>Fri, 29 Mar 2024 08:31:21 GMT</pubDate>
+      <title>使用生成式人工智能创建虚拟技术团队</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmwn3/creating_a_virtual_technical_team_using/</link>
+      <description><![CDATA[大家好，请查看本教程，了解如何创建 AI 技术团队（编码员、产品经理、技术主管等），然后看看他们如何解决问题在此演示中使用 CrewAI 执行任务：https://youtu.be/QPUUclaNI5o?si=HQZMbn-KOInQ02o1    由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmwn3/creating_a_virtual_technical_team_using/</guid>
+      <pubDate>Fri, 29 Mar 2024 11:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题 - 学习多智能体和自我反思的课程？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmcni/question_courses_for_learning_multiagent_and_self/</link>
+      <description><![CDATA[大家好，今天，我遇到了一些非常有趣的事情，激发了我的好奇心，促使我寻求更多知识。这是 Andrew Ng 讨论的一个关于智能体之间的协作及其自我反思过程的概念。他在一次演讲中谈到了这个话题，强调智能体的重要性不仅在于孤立地工作，还在于通过一种自我反思来实际交互和完善其流程。 现在，我一直在涉足编程和使用 Jupyter Lab 对代理进行一段时间的培训。我发现自己渴望更深入地研究协作代理领域。两个或多个代理协同工作、共享数据和见解并共同努力实现共同目标的想法对于人工智能和机器学习项目的未来来说既有趣又充满希望。鉴于此，我正在寻求可以教我的课程或资源： 1- 在一个代理（我们称之为代理 A）的输出和将其用作另一个代理（代理 B）的输入之间建立链接。我热衷于了解实现这种无缝信息流的技术细节以及如何有效实施它。2 - 精心设计场景或任务，让代理 A 和代理 B 可以协作、分享他们的经验并共同努力实现解决任务。3- 实施一种机制，让这些代理参与自我反思过程。我的意思是，代理可以采用一种结构化的方式来分析其输出、从交互中学习并改进其策略，以便在未来的任务中获得更好的性能。  &amp;# 32；由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1bqmcni/question_courses_for_learning_multiagent_and_self/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqmcni/question_courses_for_learning_multiagent_and_self/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:54:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>多主体和反思课程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqm88i/courses_for_multiagent_and_reflection/</link>
+      <description><![CDATA[嗨，这可能是一个愚蠢的问题。 Andrew Ng 谈到了智能体之间的协作和自我反思过程这里我可以编程并在 Jupyter Lab 中训练代理。您可以建议我学习什么课程吗： - 将代理 A 的输出链接为代理 B 的输入 - 让代理 A 和代理 B 共同完成一项任务 -让代理通过反射来优化其输出 谢谢   由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1bqm88i/courses_for_multiagent_and_reflection/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqm88i/courses_for_multiagent_and_reflection/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>认识 Jan：在计算机上完全离线运行的开源 ChatGPT 替代方案</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqlqic/meet_jan_an_opensource_chatgpt_alternative_that/</link>
+      <description><![CDATA[Jan 是 Jan Labs 开发的 ChatGPT 的开源替代品，旨在使 AI 能够在不依赖互联网的情况下广泛使用。它专为不同的硬件而构建，优先考虑用户隐私和道德人工智能开发。根据 AGPLv3 许可证，Jan 鼓励开放协作和改进。 Jan 支持 TypeScript 和 C++，并计划支持 Python 和移动平台，代表了一种社区驱动的 AI 方法，提供私人的、可定制的体验。  有关全面概述，请查看 https://app.daily.dev/posts/ 上的完整文章aII4xxOPg 和 MarkTechPost   由   提交 /u/High_Sleep3694   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqlqic/meet_jan_an_opensource_chatgpt_alternative_that/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:15:20 GMT</pubDate>
     </item>
     <item>
       <title>销售 ED 药和赞扬普京的 AI 广告被盗，女性面孔被盗</title>
@@ -48,20 +69,6 @@
       <pubDate>Fri, 29 Mar 2024 06:50:33 GMT</pubDate>
     </item>
     <item>
-      <title>您认为购买人工智能艺术品是不道德的吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqicny/do_you_think_that_buying_ai_art_is_unethical/</link>
-      <description><![CDATA[嘿伙计们， 几周前，我偶然发现了一个在线销售人工智能艺术品的页面。我觉得这些照片看起来很漂亮，我正在考虑买几张。但后来我意识到支持人工智能艺术可能是错误的，因为它建立在艺术家的作品之上，但并不支持他们。  你认为我应该购买人工智能艺术吗？还是说这是不道德的，因为人工智能正在蚕食那些投入大量时间和精力的传统创作者？ &lt;!-- SC_ON - -&gt;  由   提交 /u/VortexOfPain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqicny/do_you_think_that_buying_ai_art_is_unethical/</guid>
-      <pubDate>Fri, 29 Mar 2024 06:25:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能进化的未来。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqhckm/the_future_of_ai_evolution/</link>
-      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqhckm/the_future_of_ai_evolution/</guid>
-      <pubDate>Fri, 29 Mar 2024 05:20:26 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年 3 款最佳免费人工智能写作工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqh9kb/the_3_best_free_ai_writing_tools_2024/</link>
       <description><![CDATA[ 由   提交/u/DazzlingDiana7  [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[大家好，我是一名物理系本科生，在过去的 1-2 年里一直在密切关注 AI 社区。这一领域的快速改进和进步确实令人瞩目，并且将变得意义深远。 一个挑战是人工智能的发展似乎主要由谷歌等大公司推动，即使他们也可能没有完全掌握人工智能功能的各个方面。对于我们这些有兴趣掌握人工智能用于专业用途或潜在创业的人来说，我们如何驾驭这一领域？ 传统的大学教育往往落后于人工智能的快速进步。因此，许多人转向在线课程和 YouTube 等教育平台。 因此，如果您向过去不熟悉人工智能的自己提出建议，您会建议采取什么分步计划来加快和优化学习过程？您会观看哪些 YouTube 主播？你会报名参加哪些课程？您认为人工智能的哪个利基市场增长最快，哪个利基市场拥有最多的商机？ （例如艺术人工智能、基于文本的人工智能、视频人工智能等...）   由   提交/u/Frenzy-115-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqgry3/whats_the_fastest_path_to_mastering_ai_tips_for/</guid>
       <pubDate>Fri, 29 Mar 2024 04:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code Copilot 使用最先进的 Databricks DBRX</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bqetag/code_copilot_using_the_new_stateoftheart/</link>
-      <description><![CDATA[很高兴阅读 Databricks 关于其新开源 LLM DBRX 的公告，这是一个总共有 132B 参数的 MoE（在任何输入上都有 36B 参数有效），对 12T 文本和代码标记进行预训练。  他们声称这是开放模型的最新技术，基准测试表明它意味着 Mixtral 和 Grok-1。使用 HumanEval 基准进行编码时表现强劲。这让我产生了尝试将 DBRX 作为 IDE 中的编码副驾驶的想法。 因此，我将 DBRX 推出到我的VS Code 扩展，您可以在此处免费下载。 扩展还有其他流行的与 GPT-4 Turbo 和 Claude 3 Opus 等封闭模型进行对比。让我知道你的想法。   由   提交/u/geepytee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bqetag/code_copilot_using_the_new_stateoftheart/</guid>
-      <pubDate>Fri, 29 Mar 2024 03:04:40 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊刚刚对配音演员进行了核打击吗？</title>

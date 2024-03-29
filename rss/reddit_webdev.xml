@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 09:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 12:21:12 GMT</lastBuildDate>
+    <item>
+      <title>探索 HTTP 客户端：Axios、请求和节点获取</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqntf9/exploring_http_clients_axios_requests_and/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqntf9/exploring_http_clients_axios_requests_and/</guid>
+      <pubDate>Fri, 29 Mar 2024 12:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以通过 Google.docs 表单进行跟踪？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqnfms/is_it_possible_to_get_tracked_through_googledocs/</link>
+      <description><![CDATA[我已通过 Google 文档 表单进行了语法测试一份工作申请。他们写道，他们将跟踪我在浏览器中使用的语法网站和词典。所以我关闭了手机上的wifi，并在手机上进行了一些谷歌搜索。他们有可能检测到它吗？   由   提交 /u/Spiritual-Peace-4414   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqnfms/is_it_possible_to_get_tracked_through_googledocs/</guid>
+      <pubDate>Fri, 29 Mar 2024 11:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天我了解到即使你是初学者也有一些愚蠢的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqne5f/today_i_learned_there_are_dumb_questions_even_if/</link>
+      <description><![CDATA[      不和谐是敌对的。我试图问为什么我的 jsx 没有渲染，而之前已经渲染了，我得到了一些简短的早期评论，比如“Jsx 是 js”之类的，但为什么我的 jsx 没有显示？我是新手，不是Js，我只是想请教专家，如果我犯了错误，我应该注意什么？  我不明白为什么我必须去游戏开发者不和谐处才能得到答案，也不明白为什么网络开发者不和谐对此如此消极，这不是社区的用途吗？帮助？我认为任何人都不应该因为提出任何问题而被贬低，ofc我不完全理解，我正在学习过程中？我应该学习然后提出问题吗？我通过提问、做自己的研究或观看视频来学得更好，这就是我。但我无法提供视频，所以我询问并收到了react.dev 链接。  P.s.当我说我更愿意从别人那里得到帮助时，那是因为那个人告诉我我不明白，需要回去重新学习 JS，但这不是问题。   由   提交 /u/Yourenotfriend  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqne5f/today_i_learned_there_are_dumb_questions_even_if/</guid>
+      <pubDate>Fri, 29 Mar 2024 11:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>oklch 颜色对比检查器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqmo3n/oklch_color_contrast_checker/</link>
+      <description><![CDATA[我想使用精美的新 oklch 颜色格式，但我找不到可访问性对比检查器。 使用 oklch 的人，你的a11y检查做得怎么样？我认为灯塔可以，但我宁愿提前检查。    由   提交/u/0-_tom_-0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqmo3n/oklch_color_contrast_checker/</guid>
+      <pubDate>Fri, 29 Mar 2024 11:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端开发人员使用什么 IDE？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqmlsr/what_ide_backend_devs_use/</link>
+      <description><![CDATA[标题。您目前使用哪一个以及您认为现在大多数开发人员都使用哪一个？ 您为什么坚持使用当前的版本？ 祝大家有美好的一天！   由   提交/u/zaris98  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqmlsr/what_ide_backend_devs_use/</guid>
+      <pubDate>Fri, 29 Mar 2024 11:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>边缘视觉搜索在所有图像上添加了竞争对手的链接。这如何可以接受？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqmduc/edge_visual_search_adds_links_to_competitors_on/</link>
+      <description><![CDATA[我收到了一封来自客户的愤怒电子邮件，我为该客户制作了一个电子商务网站，称该网站上的所有图片都链接到他的竞争对手。我不知道他在说什么，Firefox 也没有任何问题，但后来我检查了 Edge，它在所有图像上添加了一个视觉搜索按钮，您可以单击该按钮来获取 Bing 搜索结果。  我该如何向使用 Edge 并且完全不懂技术的人解释我无法在不破坏网站其他功能的情况下关闭它？ 我认为这很漂亮Edge 想要在浏览器中硬编码它，我疯了吗？   由   提交/u/pewpewpostit  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqmduc/edge_visual_search_adds_links_to_competitors_on/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:56:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于将 Supabase 与 Wordpress 一起使用的想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqm674/thoughts_on_using_supabase_with_wordpress/</link>
+      <description><![CDATA[交叉发布，因为这个社区更大， 所以我现在的情况非常独特，有一个现有的 WordPress 网站处理会员资格、用户身份验证等基本上所有内容以及一个新的 Next JS 应用程序，该应用程序依赖 supabase 进行身份验证，该应用程序将嵌入到 WordPress 网站的会员专用区域中，并且不应能够从外部或外部访问网站。我现在遇到的情况是 Wordpress 和 Supabase 以不同方式对用户进行身份验证的方式不同步。当新用户加入时，新用户也会在 Supabase 上类似地创建，但使用不同的密码等 我目前有一个古怪的想法，即直接将 supabase 登录的用户名/密码发送到应用程序进行登录附加用户，我已经知道安全风险和影响，但如果我不希望用户需要记住/存储 2 组不同的密码，我不确定如何处理它...从好的方面来说，这可能会减少滥用，因为整个平台仅是付费会员，并且两个密码都会不同，我什至考虑为每次登录设置临时密码，仅用于supabase哈哈哈 如果有任何其他人不得不处理这种情况，我将不胜感激任何有关如何安全地实现此方案作为我的黑客解决方案的替代方案的想法。虽然理想情况下所有身份验证都在 Supabase 上完成，但现在不可能从 wordpress 迁移   由   提交/u/yamibae  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqm674/thoughts_on_using_supabase_with_wordpress/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:43:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个网站可以让我挑战自己从 rgb/hsl/其他字符串中猜测颜色？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqls6j/is_there_a_website_that_i_can_challenge_myself_at/</link>
+      <description><![CDATA[你知道是否有一些类似于抽认卡的测验可以向我显示一个字符串，例如“rgb(255, 255, 0)” ;或“hsl(221 12% 53%)”我需要从中猜测颜色？ 也许是一个 anki 甲板，或者也许是一个网站？我想我在 YouTube 视频上看到了类似的内容，但我不确定它是否是公共网站   由   提交/u/cyprianz5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqls6j/is_there_a_website_that_i_can_challenge_myself_at/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:18:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Firebase 上免费托管 WP 网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqlqlm/host_wp_site_for_free_on_firebase/</link>
+      <description><![CDATA[我最近遇到了 Google Firebase，并得到了他们提供免费网络托管的印象。 是否可以托管 WordPress 网站在那里？我在这里查看，但没有看到提及 MySQL 或 PHP： https://firebase.google.com/pricing   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqlqlm/host_wp_site_for_free_on_firebase/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:15:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>呼吁所有自由职业者：托管？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bql723/calling_all_freelancers_hosting/</link>
+      <description><![CDATA[我将慢慢迁移到自由职业世界（当然不是一下子，我会一边做一边做，直到它能够自给自足。 .. 如果有的话），首先针对我将居住的城市的小型企业。我个人的技术堆栈是 python (flask)、html、css、MySQL (如果需要) 和 js (最常见的是 vanilla，尤其是当我独自工作时）。到目前为止，我所有的个人项目都托管在 pythonanywhere 上。对于自由职业者来说，这种类型的托管服务通常是个好主意吗？我正在考虑未来......如果我决定退出（当然是在履行任何长期合同之后），正确的程序是否只是将代码文件发送给客户，而忽略托管服务？我将使用我自己的个人登录详细信息来访问我的托管帐户，所以我当然不能将这些信息交给我。也许这一切都只是在我和客户之间的初始合同中描述的？ 另外......创建一两个我可以简单地更改描述的全能合同需要多少钱/每个客户端的值？ 感谢您提供任何信息/资源。 编辑：将 MySQL 添加到堆栈  &amp;# 32；由   提交/u/zacguymarino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bql723/calling_all_freelancers_hosting/</guid>
+      <pubDate>Fri, 29 Mar 2024 09:40:43 GMT</pubDate>
+    </item>
     <item>
       <title>我如何构建 Mailwind：从零到一（用户）的 SaaS 奥德赛和对 V2 的探索</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqkiyo/how_i_built_mailwind_a_saas_odyssey_from_zero_to/</link>
@@ -27,88 +97,18 @@
       <pubDate>Fri, 29 Mar 2024 03:58:25 GMT</pubDate>
     </item>
     <item>
+      <title>将这个设计变成网站的最佳途径是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqfhp3/what_is_the_best_path_to_turn_this_design_into_a/</link>
+      <description><![CDATA[大家好，很抱歉，如果这不是正确的 Reddit 子版块。我在 HTML 和 CSS 方面有一点经验，我正在尝试建立一个网站。我制作了一个动画来展示确切的设计，但现在如何集成/开发每个单独的东西与我不太相关。我想了解对我来说深入建设这个网站的项目的最佳方法是什么。我绝对想要最简单的路径，因为我目前不打算成为一名 Web 开发人员。  https://imgur.com/a/YYUYjbX 我尝试过 Squarespace、Framer 和 Webflow。我不确定这些服务在使用什么架构方面落在哪里（如果这甚至是一个术语）。我所知道的是我无法将它们用于我需要的功能，即能够切换“夜间模式”更改网站内容的开关。有一些方法可以改变“主题”。到深色模式，但我想要的是能够更改图片、文本和其他内容，具体取决于您所处的模式（“浅色”或“深色”）。这是最重要的，找到最适合实现此功能的编码工具/语言。我还需要能够制作一个页脚，当鼠标悬停在其上方时会稍微展开，并在点击时完全展开。 正如您通过我的行话所看到的，我真的不&#39;我什至不知道自己要做什么，但是嘿，你只能活一次。 在理想的世界中，我可以通过购买 CSS 模板来实现这一点并进行一些调整（这是我过去通过CSS所做的）。我完全愿意投入大量时间，我只是想指明正确的方向。我打算在 HTML 上构建它吗？ WordPress？ Webflow？  谢谢！   由   提交 /u/Gustavoizq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqfhp3/what_is_the_best_path_to_turn_this_design_into_a/</guid>
+      <pubDate>Fri, 29 Mar 2024 03:39:03 GMT</pubDate>
+    </item>
+    <item>
       <title>副业项目建议？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqfchp/side_project_suggestion/</link>
       <description><![CDATA[有哪些好的项目可以让我学到很多东西，最好是与电子商务相关的项目（因为我有时会在网上卖东西作为一种爱好）？虽然我可以花费大量时间创建自己的网站，但由于 Shopify，这似乎毫无意义。任何建议将不胜感激   由   提交/u/KartaMemory  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bqfchp/side_project_suggestion/</guid>
       <pubDate>Fri, 29 Mar 2024 03:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否应该在代码中写太多 html 标签？ （+民意调查）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqenjb/should_we_write_too_many_tags_in_html_in_a_code/</link>
-      <description><![CDATA[最近，我意识到在 JavaScript 端使用“document.createElement”更容易，而不是将所有必要的标签逐个添加到 HTML 中 （我不是在谈论 React 和 TypeScript）在 JavaScript 中这样做有意义吗？ 查看民意调查   由   提交 /u/ercanvas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqenjb/should_we_write_too_many_tags_in_html_in_a_code/</guid>
-      <pubDate>Fri, 29 Mar 2024 02:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>二手车列表网站 - 动态领域还是过度工程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqdcbu/used_car_listing_website_dynamic_fields_or_over/</link>
-      <description><![CDATA[我正在构建一个二手车列表网站作为一个单独的项目。它不仅支持汽车，还支持船只、摩托车等。 我实现了一个多步骤表单，它构建列表并将其发送到后端。 目前，所有列表字段是硬编码的。意味着例如对于车辆颜色，我手动添加了一个文本字段，然后在列表页面上我有一个映射器，我在其中手动添加了一个地图键，它告诉页面要使用哪个图标，如何显示和翻译它等。  然后当我向朋友讲述这个项目时，一场争论开始了：是否使用动态字段更好。 从技术上来说，它会让系统更加灵活，但是另一方面，发明一种新型车辆的频率。 现在我倾向于采用混合方法，可以使用管理面板或其他方式添加特定于车辆类别的字段，但我仍然觉得这可能有点过度设计了。  就像手动添加一些枚举、弹出文本字段并添加翻译键有多难一样。  大家觉得怎么样？你会如何构建这个？   由   提交 /u/spurkle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqdcbu/used_car_listing_website_dynamic_fields_or_over/</guid>
-      <pubDate>Fri, 29 Mar 2024 01:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 发布请求中的日期</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqc9te/dates_in_api_post_request/</link>
-      <description><![CDATA[这是一个简单的问题，我可以/应该在发布请求中发送 Date 对象吗？还是客户端，我想我正在使用本机第一，一路将其转换为其他东西。我在发送日期时遇到问题，只是想知道完成了什么。   由   提交 /u/cardyet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqc9te/dates_in_api_post_request/</guid>
-      <pubDate>Fri, 29 Mar 2024 01:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济影响自由职业吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqc7t0/did_the_economy_affect_freelancing/</link>
-      <description><![CDATA[随着科技界的裁员（由于利率上升），很多人失去了工作，并且很难找到工作 但是，对于那些经常从事自由职业的人来说，一个问题...自由职业的需求是否受到影响？    ;由   提交 /u/mike_kong_sama   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqc7t0/did_the_economy_affect_freelancing/</guid>
-      <pubDate>Fri, 29 Mar 2024 01:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>您还记得这个投资组合聚合网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqc6b3/do_you_remember_this_portfolio_aggregator_site/</link>
-      <description><![CDATA[我记得看到过这个网站，有人制作并发布在 Reddit 上 - 它是左侧的一个抽屉，里面列出了人们的 Web 开发作品集和一个显示它们的右侧 iframe。我想看看它是如何改变的，但我的搜索没有成功。还有其他人知道我在找什么吗？谢谢！   由   提交 /u/Naywish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqc6b3/do_you_remember_this_portfolio_aggregator_site/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从单独开发转向与他人合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqc1em/how_to_go_from_solo_dev_to_working_with_someone/</link>
-      <description><![CDATA[有点太长了，但我拥有一家非技术服务型公司，有 35 名员工。这个行业的技术含量非常低，所以作为这个行业的年轻人，我一直讨厌所有可用于我们利基市场的软件工具。在过去几年的空闲时间里，我最终为某些事情构建了自己的应用程序。 MERN 堆栈。前端和后端。员工们真的很喜欢它，并希望我替换他们使用的过时软件的更多功能。但我没有足够的时间来运营公司、建立和维护公司。开发的有些部分是我喜欢的，有些部分是我可以没有的。我真的不知道还有谁会写这么长话短说的代码，如果我想雇一个人开始兼职开发工作，每个人都会推荐什么。  有没有找到自由职业者的好地方那不是苦差事。很难从中筛选出如此多的列表。 如何安全地共享 .env 文件等内容。 人们通常按功能还是按小时付费？ &lt; li&gt;确保人们真正知道自己在做什么的最简单、最不烦人的方法是什么。  谢谢大家。  &amp; #32；由   提交/u/christo9090   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqc1em/how_to_go_from_solo_dev_to_working_with_someone/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telerik / KendoReact TreeView 替代现代 React + Redux/工具包应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqbvlm/telerik_kendoreact_treeview_alternative_for_a/</link>
-      <description><![CDATA[我的开发团队正在重建一个非常旧的 .NET CMS 应用程序，该应用程序使用 Telerik 控件，即 RadTreeView。我们当前的许可证包括 KendoReact 组件，但将在几个月后到期，作为主要前端，我正在尝试决定是否应该更新许可证或为 TreeView 使用其他解决方案。 乍一看，KendoReact 组件似乎是在 .NET 不断发展的开发环境中保持最新状态的快速尝试。  TLDR； 有没有人有使用 KendoReact TreeView 的经验并且喜欢它，或者知道一个强大的付费或开源替代方案React 中的 &gt;TreeView？ ​   由   提交/u/kirkbross   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqbvlm/telerik_kendoreact_treeview_alternative_for_a/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:45:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>传送大型音频文件的最佳方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqbuq8/best_way_to_deliver_large_audio_files/</link>
-      <description><![CDATA[我想开发一个睡眠辅助应用程序，例如，可以让您在有声读物上覆盖通用音景。我希望它能专注于移动设备，所以我很好奇交付多个大型音频文件的最佳方式。我是一个初学者，但过去几个月我一直在研究 MERN 堆栈，所以我认为这是我有能力做到的。 （虽然我一般使用过很多 jQuery 和 JS，但我还没有机会真正练习 React）  我也很好奇是否有一个好的方法来集成YouTube？据我所知，我不打算对应用程序或托管广告收取任何费用，因为我已享受 CC 保护。    由   提交 /u/Savings-Rise-6642   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqbuq8/best_way_to_deliver_large_audio_files/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>点击 Youtube 视频而不影响您的算法——是否有扩展可以做到这一点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqbpwj/click_youtube_videos_without_affecting_your/</link>
-      <description><![CDATA[我大部分时间都喜欢 YouTube 的推荐引擎，但我点击的视频中约有 10% 是我知道我不想影响我的视频建议。我可以以隐身方式打开它们，但这对于我这个极其懒惰的人来说太费力了。它很笨重。有没有一个扩展可以简化这个过程？就像当您将鼠标悬停在 YT 链接上时弹出的一个小按钮，上面写着“无需更改算法即可查看”...或类似的内容。    ;由   提交 /u/probously_sarc4sm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqbpwj/click_youtube_videos_without_affecting_your/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建像本网站中那样的背景渐变？ https://recruit.renxa.co.jp/</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqas8h/how_does_one_go_about_creating_a_background/</link>
-      <description><![CDATA[我尝试过制作堆叠径向渐变，但我无法让它看起来像网站上的渐变。   由   提交/u/aka_dany  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqas8h/how_does_one_go_about_creating_a_background/</guid>
-      <pubDate>Thu, 28 Mar 2024 23:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 Web 开发项目和工具选项的复杂性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bq9lji/understanding_complexity_of_web_dev_project_tool/</link>
-      <description><![CDATA[大家好！我是这个 Reddit 子版块的新手，但我不知道有什么更好的地方可以问这个问题。我正在研究一个创业想法，该产品是一个在线网站/平台。 该平台的核心功能是案例管理 - 客户为其客户或“案例”创建个人资料，然后添加与案件相关的信息和文档。他们应该能够查看所有案例、修改现有案例或向现有案例添加信息并跟踪截止日期。我们还希望他们能够与平台上的其他客户共享案例信息，并控制与他们共享的案例相关的信息量。据推测，我们需要与某种数据库进行后端集成来管理存储和共享信息。接下来，我们希望向网站添加人工智能功能。 我们的目标客户是组织，我们希望组织的员工拥有个人帐户，在其中拥有个性化仪表板，只能访问他们的自己的案例等。不同类型的客户也将具有与其帐户相关的不同功能。作为参考，我们正在查看诸如 LegalServer 或  之类的内容Epic Healthcare 在架构方面。 现在，我的问题是：这种网站有多复杂以及我应该考虑使用什么工具来制作它？ Wix、SquareSpace 或其他我没听说过的网站构建器是否可以实现这种架构？如果是这样，初学者是否能够在合理的时间内设计这个网站？或者您会建议聘请更有经验的 UI/UX 设计师吗？ 这对于制定我们的时间表以及我们应该引进什么样的人才非常重要。我是产品开发流程的带头人，但我个人有在 WP 上仅在博客、信息页面等基本内容上工作的经验。这就是为什么我需要帮助来理解我们的想法实施起来有多复杂。很高兴回答任何澄清问题，并提前致谢！   由   提交/u/Saltbae_987 ​​  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bq9lji/understanding_complexity_of_web_dev_project_tool/</guid>
-      <pubDate>Thu, 28 Mar 2024 23:06:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
