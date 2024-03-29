@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 12:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 15:11:56 GMT</lastBuildDate>
+    <item>
+      <title>邮递员和这篇文章，BS 还是准确的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqr9nw/postman_and_this_article_bs_or_accurate/</link>
+      <description><![CDATA[文章：Lee Holmes | Postman的安全风险  我已经使用Postman有一段时间了，我完全理解公共和私人集合的区别以及将秘密存储为变量等等。我相信“肉”其中似乎是扫描公共收藏。  是的，我知道私人收藏存储在 Postman 的云服务器中，如果这些服务器遭到破坏，那将是灾难性的事件，成为头条新闻。  这篇文章似乎推断存在安全可变性，并且使用 Postman 作为工具是不好的。如果用户的凭据被暴露，那么无论使用 SaaS，而不仅仅是邮递员，都会构成安全威胁。 最近，我公司的安全团队开始了抹黑活动，引起了人们对使用 SaaS 的担忧。它用于 API 开发、测试和文档。我们专门使用私人收藏，并为我们团队的用户锁定它，我们通过 Postman 进行了订阅。 我已经在网络上进行了尽可能多的挖掘，以验证他的内容。文章中说。文章末尾有评论认为这可能是毫无根据的恐惧散布。 虽然我知道存在邮递员的替代品，但我质疑此人和他的文章的合法性。  首先，我不想让我们的团队在一篇文章上转储邮递员，这对于为我们的团队和我们的团队建立另一个 API 环境而言将是一个小地震。许多 API。 想法？   由   提交/u/druid74  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqr9nw/postman_and_this_article_bs_or_accurate/</guid>
+      <pubDate>Fri, 29 Mar 2024 14:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>因重叠的项目和多任务处理而不知所措。有没有关于项目管理的书？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqqkos/overwhelmed_by_overlapping_projects_and/</link>
+      <description><![CDATA[我经营我的网络代理机构已经一年多了，现在我已经陷入了严重的倦怠状态。  这是美好的一年，我们建立了一些漂亮的项目，但我不断发现自己处于项目重叠或截止日期在同一周的情况，我需要学习如何管理时间表、项目等。  有人可以推荐关于这个主题的书籍、课程、演讲吗？我很想完成一个项目并继续下一个项目。这可能是不可能的（客户往往要对延迟的最后期限负责），但我想尝试并尽可能接近这个目标。谢谢   由   提交 /u/miguste   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqqkos/overwhelmed_by_overlapping_projects_and/</guid>
+      <pubDate>Fri, 29 Mar 2024 14:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何监控个人用户的 Voiceflow 机器人使用情况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqq19b/how_to_monitor_individual_users_voiceflow_bot/</link>
+      <description><![CDATA[大家好， 我正在构建一个聊天机器人 saas 并为聊天机器人使用语音流。有没有办法知道特定用户要求限制不同订阅级别和内容的使用的消息数量？ 谢谢！  &amp;# 32；由   提交 /u/The-Manipulator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqq19b/how_to_monitor_individual_users_voiceflow_bot/</guid>
+      <pubDate>Fri, 29 Mar 2024 14:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有绕过cloudflare的api，解决Google recaptcha并让我们使用自己的代理进行抓取？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqpsku/is_there_any_api_bypass_cloudflare_solve_google/</link>
+      <description><![CDATA[是的，我想要很多东西，但我想解决 Google 验证码问题并使用同一平台抓取数据。另外为了安全起见，我想使用自己的私人代理。   由   提交 /u/nothingen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqpsku/is_there_any_api_bypass_cloudflare_solve_google/</guid>
+      <pubDate>Fri, 29 Mar 2024 13:51:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>“您的下载将在几秒钟后开始......”为什么有些网站会这样做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bqoqsr/your_download_will_start_in_few_seconds_why_do/</link>
+      <description><![CDATA[https://imgur.com/a/Zb8gQqO（来自 VLC 网站） 我需要 VLC 在 Windows 上进行新安装，但遇到了“下载将在几秒钟后开始...”页面。 我真的很好奇，为什么有些网站会这样做，即使有些网站（例如 VLC）没有自动启动，也有下载链接？ 编辑：拼写&lt; /p&gt;   由   提交 /u/DazUki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bqoqsr/your_download_will_start_in_few_seconds_why_do/</guid>
+      <pubDate>Fri, 29 Mar 2024 13:02:19 GMT</pubDate>
+    </item>
     <item>
       <title>探索 HTTP 客户端：Axios、请求和节点获取</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqntf9/exploring_http_clients_axios_requests_and/</link>
@@ -43,7 +78,7 @@
     <item>
       <title>边缘视觉搜索在所有图像上添加了竞争对手的链接。这如何可以接受？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqmduc/edge_visual_search_adds_links_to_competitors_on/</link>
-      <description><![CDATA[我收到了一封来自客户的愤怒电子邮件，我为该客户制作了一个电子商务网站，称该网站上的所有图片都链接到他的竞争对手。我不知道他在说什么，Firefox 也没有任何问题，但后来我检查了 Edge，它在所有图像上添加了一个视觉搜索按钮，您可以单击该按钮来获取 Bing 搜索结果。  我该如何向使用 Edge 并且完全不懂技术的人解释我无法在不破坏网站其他功能的情况下关闭它？ 我认为这很漂亮Edge 想要在浏览器中硬编码它，我疯了吗？   由   提交/u/pewpewpostit  [链接] [评论]]]></description>
+      <description><![CDATA[我收到了一封来自客户的愤怒电子邮件，我为该客户制作了一个电子商务网站，称该网站上的所有图片都链接到他的竞争对手。我不知道他在说什么，Firefox 也没有任何问题，但后来我检查了 Edge，它在所有图像上添加了一个视觉搜索按钮，您可以单击该按钮来获取 Bing 搜索结果。  我该如何向使用 Edge 并且完全不懂技术的人解释我无法在不破坏网站其他功能的情况下关闭它？ 我认为这很漂亮Edge 很想在浏览器中硬编码它，我疯了吗？   由   提交/u/pewpewpostit  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bqmduc/edge_visual_search_adds_links_to_competitors_on/</guid>
       <pubDate>Fri, 29 Mar 2024 10:56:48 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我将慢慢迁移到自由职业世界（当然不是一下子，我会一边做一边做，直到它能够自给自足。 .. 如果有的话），首先针对我将居住的城市的小型企业。我个人的技术堆栈是 python (flask)、html、css、MySQL (如果需要) 和 js (最常见的是 vanilla，尤其是当我独自工作时）。到目前为止，我所有的个人项目都托管在 pythonanywhere 上。对于自由职业者来说，这种类型的托管服务通常是个好主意吗？我正在考虑未来......如果我决定退出（当然是在履行任何长期合同之后），正确的程序是否只是将代码文件发送给客户，而忽略托管服务？我将使用我自己的个人登录详细信息来访问我的托管帐户，所以我当然不能将这些信息交给我。也许这一切都只是在我和客户之间的初始合同中描述的？ 另外......创建一两个我可以简单地更改描述的全能合同需要多少钱/每个客户端的值？ 感谢您提供任何信息/资源。 编辑：将 MySQL 添加到堆栈  &amp;# 32；由   提交/u/zacguymarino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bql723/calling_all_freelancers_hosting/</guid>
       <pubDate>Fri, 29 Mar 2024 09:40:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建 Mailwind：从零到一（用户）的 SaaS 奥德赛和对 V2 的探索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqkiyo/how_i_built_mailwind_a_saas_odyssey_from_zero_to/</link>
-      <description><![CDATA[几个月前，我对客户的需求感到震惊：能够轻松制作交易电子邮件，并且可以毫不费力地进行调整和改进。我的思绪立刻转向了 Tailwind。 经过一番挖掘，我偶然发现了 Maizzle，并认为它非常简洁。但我真正寻找的是解决这个难题的云解决方案。因此，我卷起袖子创建了 Mailwind。 Mailwind 是一个 SaaS API，可让您连接电子邮件提供商（例如 Resend、Sendgrid 等）、启动 Tailwind 布局和邮件服务。模板，只需一个简单的 API 调用，即可生成并发送电子邮件。 现在，关键是——除了我自己之外，我几乎没有任何用户（只有一个付费的，保佑他们的灵魂），使用每天为我的客户提供服务。 我目前正在全力开发版本 2，其中包含以下功能：  i18n 支持 资产集成（告别 Azure Blob、S3 等托管） 更流畅的入门体验 还有更多  我曾尝试在 Google、LinkedIn 甚至 Reddit 上传播这一信息，但在用户注册方面却进展缓慢。 我非常感谢您的想法和反馈！ &lt; /div&gt;  由   提交 /u/Admirable_Proof8972   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqkiyo/how_i_built_mailwind_a_saas_odyssey_from_zero_to/</guid>
-      <pubDate>Fri, 29 Mar 2024 08:56:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应原生网络？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqimlk/react_native_web/</link>
-      <description><![CDATA[我们提供仅应用程序的金融科技服务已经有一段时间了，最​​近有人提出了响应式网络应用程序的想法。目标是能够将这个新的 Web 应用程序（作为 Web 视图）嵌入到客户端应用程序（使用 SSO）中，并使其充当独立的桌面友好的 Web 应用程序。 移动应用程序基于 React 构建本国的。 rn web 值得探索吗？或者在 Next 中看看重建是否更好？ 我从未尝试过 rn web，也很少遇到有人使用它，但听说过一些好的东西。 我们是一个启动，这需要快速且经济高效地完成。但这也将是一个长期项目。 有人使用 rn web 吗？   由   提交/u/dhruvoberoi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqimlk/react_native_web/</guid>
-      <pubDate>Fri, 29 Mar 2024 06:43:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何从企业级公司购买域名 [我的姓氏].com，而无需成为企业或支付企业价格？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqfv1a/how_can_i_go_about_purchasing_the_domain_my_last/</link>
-      <description><![CDATA[这是不言自明的。未使用的域名 [我的姓氏].com（我真实姓氏的占位符）当前由名为“Vautron Rechenzentrum AG”的企业级域名托管服务商拥有。根据 ICANN 的说法。 这是一家德国公司，在 Google 翻译的帮助下，我确定：  我什至无法检查我是否可以购买如果我是一家企业级公司而不提供个人信息 整个事情完全超出了我的价格范围，因为它当然不适合普通消费者  li&gt; 该网站的所有权将于 2024 年底到期。  有什么方法可以让我联系代表，而无需提供详细的个人信息，或者至少无需谎报我的身份有法律支持的公司代表？我可以通过其他公司吗？如果他们不立即续订，我可以盗用该域名吗？还是我完蛋了？ （我在美国，不会说德语。）    由   提交 /u/TheDudeofDC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqfv1a/how_can_i_go_about_purchasing_the_domain_my_last/</guid>
-      <pubDate>Fri, 29 Mar 2024 03:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>将这个设计变成网站的最佳途径是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqfhp3/what_is_the_best_path_to_turn_this_design_into_a/</link>
-      <description><![CDATA[大家好，很抱歉，如果这不是正确的 Reddit 子版块。我在 HTML 和 CSS 方面有一点经验，我正在尝试建立一个网站。我制作了一个动画来展示确切的设计，但现在如何集成/开发每个单独的东西与我不太相关。我想了解对我来说深入建设这个网站的项目的最佳方法是什么。我绝对想要最简单的路径，因为我目前不打算成为一名 Web 开发人员。  https://imgur.com/a/YYUYjbX 我尝试过 Squarespace、Framer 和 Webflow。我不确定这些服务在使用什么架构方面落在哪里（如果这甚至是一个术语）。我所知道的是我无法将它们用于我需要的功能，即能够切换“夜间模式”更改网站内容的开关。有一些方法可以改变“主题”。到深色模式，但我想要的是能够更改图片、文本和其他内容，具体取决于您所处的模式（“浅色”或“深色”）。这是最重要的，找到最适合实现此功能的编码工具/语言。我还需要能够制作一个页脚，当鼠标悬停在其上方时会稍微展开，并在点击时完全展开。 正如您通过我的行话所看到的，我真的不&#39;我什至不知道自己要做什么，但是嘿，你只能活一次。 在理想的世界中，我可以通过购买 CSS 模板来实现这一点并进行一些调整（这是我过去通过CSS所做的）。我完全愿意投入大量时间，我只是想指明正确的方向。我打算在 HTML 上构建它吗？ WordPress？ Webflow？  谢谢！   由   提交 /u/Gustavoizq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqfhp3/what_is_the_best_path_to_turn_this_design_into_a/</guid>
-      <pubDate>Fri, 29 Mar 2024 03:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>副业项目建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqfchp/side_project_suggestion/</link>
-      <description><![CDATA[有哪些好的项目可以让我学到很多东西，最好是与电子商务相关的项目（因为我有时会在网上卖东西作为一种爱好）？虽然我可以花费大量时间创建自己的网站，但由于 Shopify，这似乎毫无意义。任何建议将不胜感激   由   提交/u/KartaMemory  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqfchp/side_project_suggestion/</guid>
-      <pubDate>Fri, 29 Mar 2024 03:31:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
