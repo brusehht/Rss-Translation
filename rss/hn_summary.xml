@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 18:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:47:15 GMT</lastBuildDate>
     <item>
-      <title>嗨，HN！</title>
-      <link>https://t.me/hn_summary/81740</link>
-      <description><![CDATA[启动 HN: Thorntale (YC W24) – 与您的数据
-嗨，HN！我们是来自 Thorntale 的 Dori、John 和 Ellen，Thorntale 是一款可处理您的数据的新型演示软件。厌倦了仅仅为了创建简单的图表而在不同平台之间移动指标？我们也是。这就是我们创建 Thorntale 的原因，它直接连接到您的数据源，例如 Google Sheets、Snowflake 和 Postgres，从而无需屏幕截图或像素推送。我们的工具可以在几分钟内为定期会议创建或更新幻灯片，并且每个报告既是演示文稿又是文档。我们对未来有宏伟的计划，但现在，请查看我们的早期测试版 app.sandbox.thorntale.com。我们迫不及待地想听到您的反馈！]]></description>
-      <guid>https://t.me/hn_summary/81740</guid>
-      <pubDate>Thu, 28 Mar 2024 18:14:47 GMT</pubDate>
+      <title>隆重推出 Grok-1.5，这是一种尖端的大型语言模型 (LLM)，能够处理 lo [...]</title>
+      <link>https://t.me/hn_summary/81795</link>
+      <description><![CDATA[Grok-1.5
+推出 Grok-1.5，这是一种尖端的大型语言模型 (LLM)，能够处理多达 128K 个标记的长上下文，显着扩展了其内存容量。在 Haystack 评估中，Grok-1.5 展示了在冗长上下文中嵌入文本的完美检索结果。 Grok-1.5 基于使用 JAX、Rust 和 Kubernetes 的自定义分布式训练框架构建，可确保在大规模 GPU 集群上进行训练的强大而灵活的基础设施。当我们准备向早期测试人员发布 Grok-1.5 时，我们渴望收到反馈以进一步增强其功能。随着我们不断发展 Grok，请继续关注未来几天令人兴奋的新功能。如果您有兴趣使用我们的创新培训堆栈，请申请加入我们的团队。]]></description>
+      <guid>https://t.me/hn_summary/81795</guid>
+      <pubDate>Fri, 29 Mar 2024 00:47:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本周的时事通讯中，我深入探讨了 RISC-V 的迷人故事，这是一种开源 [...]</title>
-      <link>https://t.me/hn_summary/81739</link>
-      <description><![CDATA[RISC-V：一群伯克利研究人员如何接管芯片行业
-在本周的时事通讯中，我深入探讨了 RISC-V 的精彩故事，这是一种开源指令集架构，颠覆了由英特尔、ARM 和 AMD 主导的芯片行业。 RISC-V 由 Krste Asanović 领导的加州大学伯克利分校的一组研究人员开发，为开发计算机芯片提供了一种免费、可定制的替代方案。通过向公众发布指令集，他们吸引了众多公司，包括谷歌、IBM 和英特尔等大公司，最终形成了 RISC-V 基金会。这种开放式芯片架构在各个行业中都受到了关注，提供了真正的自由并显着节省了许可费用。 RISC-V 的成功凸显了开放标准在促进创新和打破垄断方面的力量。关键要点是开放以前封闭的产品为较小的参与者创造了机会，公共资金和开放许可对于推动创新和经济增长至关重要。 RISC-V 的故事是一个令人信服的例子，说明协作和开放创新如何能够彻底改变行业并创建更具弹性和健康的市场生态系统。 （根据 46% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81739</guid>
-      <pubDate>Thu, 28 Mar 2024 18:12:43 GMT</pubDate>
+      <title>[媒体] rev.ng 反编译器已开源，后端现已可供公众使用。</title>
+      <link>https://t.me/hn_summary/81794</link>
+      <description><![CDATA[rev.ng 反编译器开源
+rev.ng 反编译器已经开源，现在有后端可供公众使用。该版本包括初始文档并邀请用户加入 UI 的封闭测试版。该反编译器专注于自动数据结构恢复、现代用户体验、协作逆向、广泛的平台支持和可扩展性。用户可以通过安装并反编译简单程序来尝试rev.ng。 UI 基于 VSCode，并允许交互式更改。 UI 的协作性质使多个用户能够同时处理同一个项目。该反编译器支持广泛的架构和 ABI，使其成为逆向工程的多功能工具。 （根据故事文本的 57% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81794</guid>
+      <pubDate>Fri, 29 Mar 2024 00:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]巴尔的摩大桥倒塌后，网上对话如潮水般涌来……</title>
-      <link>https://t.me/hn_summary/81738</link>
-      <description><![CDATA[Twitter 的缓慢消亡是通过巴尔的摩大桥倒塌等灾难来衡量的
-巴尔的摩大桥倒塌后，网上对话充斥着阴谋论和错误信息，一些人将这场悲剧归咎于种族主义和移民。互联网格局的变化，尤其是 Twitter 上的变化，导致了有害内容和虚假叙述的传播。巴尔的摩节拍的当地记者丽莎·斯诺登对错误信息侵入社区表示担忧，强调了悲剧事件期间网上猜测的破坏性影响。尽管一片混乱，斯诺登仍然专注于报道灾难对她的社区的影响，并等待错误信息的风暴过去。]]></description>
-      <guid>https://t.me/hn_summary/81738</guid>
-      <pubDate>Thu, 28 Mar 2024 18:08:37 GMT</pubDate>
+      <title>[媒体] Twitter（现称为 X）被发现向执法机构出售用户数据 [...]</title>
+      <link>https://t.me/hn_summary/81793</link>
+      <description><![CDATA[Twitter 在抱怨监视的同时向政府间谍出售数据
+Twitter（现称为 X）被发现通过一家名为 Dataminr 的监控公司向执法机构出售用户数据，尽管此前曾起诉美国政府要求监控做法的透明度。这一爆料让该公司和倡导言论自由的埃隆·马斯克都陷入了妥协的境地。出售的数据可以实时监控在线活动，包括抗议活动。虽然这种做法违背了 Twitter 自己的政策，但从技术上讲，它在到达政府机构之前会经过一家中间数据公司。这种有争议的做法在马斯克上任之前就一直在持续，凸显了情况的两面性。]]></description>
+      <guid>https://t.me/hn_summary/81793</guid>
+      <pubDate>Fri, 29 Mar 2024 00:37:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 使用实验性 MSBuild 编辑器探索新的 MSBuild 编辑体验，该编辑器支持 [...]</title>
-      <link>https://t.me/hn_summary/81737</link>
-      <description><![CDATA[全新的 MSBuild 编辑体验
-使用实验性 MSBuild 编辑器探索新的 MSBuild 编辑体验，该编辑器可以更丰富地了解项目文件。此编辑器提供属性、项目和元数据的快速信息、NuGet 包的 IntelliSense 以及 XML 错误之外的验证。使用常见目标和 SDK 的内置架构增强您的编辑体验，或为自定义目标创建您自己的架构。该扩展目前可用于 Visual Studio，并计划将其移植到 Visual Studio Code。在 GitHub 页面上或通过调查分享您的反馈，以帮助塑造此工具在 .NET 开发体验中的未来。]]></description>
-      <guid>https://t.me/hn_summary/81737</guid>
-      <pubDate>Thu, 28 Mar 2024 18:07:03 GMT</pubDate>
+      <title>电动汽车车主面临着一个令人惊讶的问题——轮胎快速烧毁。</title>
+      <link>https://t.me/hn_summary/81792</link>
+      <description><![CDATA[没有人告诉电动车车主轮胎烧坏的速度 
+电动汽车车主面临着一个令人惊讶的问题——轮胎快速烧毁。由于电动汽车的重量和即时动力，不仅会更快地磨损橡胶和道路，而且许多车主从未被告知这一潜在问题。这种教育的缺乏凸显了汽车购买过程中的差距，电动汽车车主期望与内燃机汽车车主类似的轮胎磨损。米其林和固特异等公司认识到独特的要求，现在专门销售电动汽车轮胎。随着电动汽车市场的增长，需要更好的教育和产品开发来解决维护成本并为客户提供更好的价值。]]></description>
+      <guid>https://t.me/hn_summary/81792</guid>
+      <pubDate>Fri, 29 Mar 2024 00:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]kettanaito.com 上的文章深入探讨了经常被忽视的挑战和现实 [...]</title>
-      <link>https://t.me/hn_summary/81736</link>
-      <description><![CDATA[开源的阴暗面
-kettanaito.com 上的文章深入探讨了经常被忽视的挑战和现实贡献和创作开源项目。作者强调了贡献者和作者之间的区别，强调需要做好准备并理解所涉及的承诺。这篇文章还讨论了从开源项目到产品的转变、财务可持续性的斗争，以及在开源工作和个人生活之间建立健康平衡的重要性。作者鼓励读者享受项目中未被发现的阶段，为未来做好计划，并优先考虑心理健康。最终，本文为那些探索开源世界的人提供了一份警示性但内容丰富的指南。]]></description>
-      <guid>https://t.me/hn_summary/81736</guid>
-      <pubDate>Thu, 28 Mar 2024 18:01:58 GMT</pubDate>
+      <title>[媒体]气候变化导致的极地冰融化正在影响地球自转，缓慢[...]</title>
+      <link>https://t.me/hn_summary/81791</link>
+      <description><![CDATA[气候变化引起的极地冰融化正在减慢地球自转
+气候变化导致的极地冰融化正在影响地球自转，使其减慢。这种现象以及核心速度减慢等其他因素正在影响计时并导致通用时和原子时之间缺乏同步。研究人员邓肯·阿格纽将极地冰的加速融化与地球自转联系起来，将其比作滑冰者伸出手臂以减速。这种意想不到的连接对全球计时基础设施产生了影响，未来可能需要减去一秒而不是添加一秒。关于闰秒及其对各种系统的影响的争论仍在继续，未来时间的计算和调整方式可能会发生变化。]]></description>
+      <guid>https://t.me/hn_summary/81791</guid>
+      <pubDate>Fri, 29 Mar 2024 00:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在微软进行改组之后，Windows 和 Surface 在新的领导者的领导下重新组合在一起 [...]</title>
-      <link>https://t.me/hn_summary/81735</link>
-      <description><![CDATA[Windows 改组如何让微软利用人工智能 PC 
-微软改组后，Windows 和 Surface 在新的领导下重新整合，标志着“人工智能 PC”的大力推动。 DeepMind 联合创始人 Mustafa Suleyman 现在领导微软的消费者人工智能工作。负责 Bing 和广告业务的米哈伊尔·帕拉欣 (Mikhail Parakhin) 因 Windows 和人工智能分裂而离职。微软专注于让 Edge 成为一个更好的浏览器，而不采取激进的策略。 Pavan Davuluri 在硬件和软件方面经验丰富，在采用定制处理器的 AI PC 领域处于领先地位。微软即将举行的活动可能会推出基于 Arm 的 Surface 设备，这标志着微软可能会放弃英特尔。此举可能会重新定义 Windows 笔记本电脑的未来。]]></description>
-      <guid>https://t.me/hn_summary/81735</guid>
-      <pubDate>Thu, 28 Mar 2024 18:00:25 GMT</pubDate>
+      <title>犹他州通过了开创性的立法《人工智能政策法案》，成为 [...]</title>
+      <link>https://t.me/hn_summary/81790</link>
+      <description><![CDATA[犹他州通过人工智能立法
+犹他州通过了开创性的《人工智能政策法案》，成为首批监管人工智能的州之一。该法律规定了使用人工智能系统的实体的披露义务，特别是在生成式人工智能交互中。不遵守规定可能会导致巨额罚款。人工智能政策办公室和人工智能学习实验室计划的成立旨在鼓励创新，同时确保消费者保护。该计划的参与者可以获得监管缓解，以在监督下测试他们的人工智能应用程序。 Snell &amp; Wilmer 将密切关注这一不断变化的法律格局。]]></description>
+      <guid>https://t.me/hn_summary/81790</guid>
+      <pubDate>Thu, 28 Mar 2024 23:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉公司</title>
-      <link>https://t.me/hn_summary/81734</link>
-      <description><![CDATA[特斯拉价值 25,000 美元的汽车意味着扔掉已有 100 年历史的装配线
-Tesla Inc. 正在推出一款价值 25,000 美元的电动汽车，彻底改变制造流程，挑战传统的装配线方法。该公司的“拆箱”方法类似于搭建乐高积木，允许在最终集成之前在专用区域同时进行零件组装。这种创新方法可以将制造占地面积减少 40% 以上，从而实现更快、更具成本效益的工厂建设。通过摆脱具有 100 年历史的装配线模式，特斯拉的目标是在竞争中保持领先地位，尤其是来自中国的竞争。这一大胆举措标志着汽车制造领域的重大转变，体现了特斯拉对创新和效率的承诺。]]></description>
-      <guid>https://t.me/hn_summary/81734</guid>
-      <pubDate>Thu, 28 Mar 2024 17:51:20 GMT</pubDate>
+      <title>[媒体]Meta（原名 Facebook）已停止其原始流媒体内容制作 [...]</title>
+      <link>https://t.me/hn_summary/81789</link>
+      <description><![CDATA[Facebook 让 Netflix 查看用户私信，停止流媒体以让 Netflix 满意&lt; /a&gt;
+由于成本削减和裁员，Meta（原名 Facebook）已停止其原创流媒体内容制作，包括贾达·萍克·史密斯 (Jada Pinkett Smith) 的《红桌谈话》(Red Table Talk) 等热门节目。然而，最近公布的反垄断诉讼法庭文件称，Meta 终止了流媒体业务，以取悦其最大广告客户之一的 Netflix。该诉讼称，Facebook 允许 Netflix 访问用户的私人消息，以换取广告支出，从而使 Netflix 能够影响重大商业决策。 Meta 尚未对这些指控发表评论，但围绕 Facebook 和 Netflix 之间关系的争议引发了有关用户隐私和流媒体行业竞争的问题。]]></description>
+      <guid>https://t.me/hn_summary/81789</guid>
+      <pubDate>Thu, 28 Mar 2024 23:50:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AI21 Labs 推出了 Jamba，这是第一个基于 Mamba 的生产级人工智能模型 [...]</title>
-      <link>https://t.me/hn_summary/81733</link>
-      <description><![CDATA[AI21 实验室推出 Jamba：首款基于 Mamba 的生产级人工智能型号
-AI21 Labs 推出了 Jamba，这是第一个基于 Mamba 架构的生产级 AI 模型，与流行的 Transformer 模型不同。 Jamba 的混合设计将 Mamba 的结构化状态空间模型与 Transformer 架构相结合，允许更长的上下文窗口和更高的效率。凭借 Apache 2.0 许可下提供的开放权重，Jamba 已经在基准测试中显示出令人印象深刻的结果，并且可以通过 Hugging Face 和 NVIDIA API 目录等平台进行访问。虽然尚不适合商业用途，但 AI21 Labs 计划很快发布更安全的版本。 Jamba 代表着人工智能模型开发向前迈出的重要一步，有望增强未来的性能和可访问性。]]></description>
-      <guid>https://t.me/hn_summary/81733</guid>
-      <pubDate>Thu, 28 Mar 2024 17:48:43 GMT</pubDate>
+      <title>[媒体]您在寻找更多游戏吗？</title>
+      <link>https://t.me/hn_summary/81788</link>
+      <description><![CDATA[末日验证码
+您在寻找更多游戏吗？查看《Doom Captcha》，这是一个有趣的项目，您必须击败敌人才能完成验证码。别太认真了，一切都很有趣。您甚至可以使用 iddqd 等作弊码立即完成验证码。该项目成为 Product Hunt 当天的顶级产品，令仅仅一个周末就开发出该项目的创建者感到惊讶。如果您喜欢 Doom Captcha，请查看创建者的其他项目。 《毁灭战士》的创造者约翰·卡马克甚至喜欢它！]]></description>
+      <guid>https://t.me/hn_summary/81788</guid>
+      <pubDate>Thu, 28 Mar 2024 23:44:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员找到了一种通过减少[...]来恢复老年小鼠免疫系统活力的方法。</title>
-      <link>https://t.me/hn_summary/81732</link>
-      <description><![CDATA[如何让衰老的免疫系统再次年轻&lt; br/&gt;
-研究人员找到了一种通过减少促炎干细胞来恢复老年小鼠免疫系统活力的方法，从而增强对病毒感染的反应并降低炎症水平。这项发表在《自然》杂志上的突破性技术可能会改变人类与年龄相关的免疫系统衰退的游戏规则。这项研究揭示了造血干细胞如何影响免疫系统衰老，并暗示逆转人体生物年龄的可能性。虽然该方法仍处于测试的早期阶段，但它有望在未来应用于人类健康领域。]]></description>
-      <guid>https://t.me/hn_summary/81732</guid>
-      <pubDate>Thu, 28 Mar 2024 17:40:37 GMT</pubDate>
+      <title>雷迪斯有限公司</title>
+      <link>https://t.me/hn_summary/81787</link>
+      <description><![CDATA[取代 Redis 的竞赛
+Redis Ltd. 最近宣布将 Redis“内存数据存储”项目转向非免费、可获取源代码的许可证，这在开源社区引发了争议。这一举措导致了多个 Redis 替代品的出现，包括 KeyDB 和 Linux 基金会的 Valkey 项目。更改许可的决定引发了人们对 Redis 的未来以及对 Linux 发行版、用户和提供商的影响的质疑。此外，向 SSPL 和 RSAL 等使用限制许可证的转变引发了关于云提供商对开源项目贡献的争论。业界正在见证一场取代 Redis 的竞赛，Valkey 成为了一个突出的竞争者。 （根据 63% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81787</guid>
+      <pubDate>Thu, 28 Mar 2024 23:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加利福尼亚州参议员史蒂夫帕迪拉提出了一项有争议的法案，SB 1228，t [...]</title>
-      <link>https://t.me/hn_summary/81731</link>
-      <description><![CDATA[CA 参议员推动法案取消任何有影响力的在线人士的匿名性&lt; /a&gt;
-加利福尼亚州参议员史蒂夫·帕迪拉 (Steve Padilla) 提出了一项有争议的法案 SB 1228，该法案旨在取消“有影响力”的在线用户的匿名性，特别是在选举背景下。该法案要求大型在线平台验证拥有大量关注者的用户的身份，并将其标记为“经过身份验证”或“未经身份验证”。帕迪拉对网上错误信息的担忧是可以理解的，但他提出的补救措施是违宪的，并且违背了言论自由和匿名的原则。该法案模糊的定义和要求引发了隐私和法律问题，使其成为法律挑战的目标。帕迪拉显然缺乏对宪法原则的理解，该法案也因其越权而受到批评。]]></description>
-      <guid>https://t.me/hn_summary/81731</guid>
-      <pubDate>Thu, 28 Mar 2024 17:36:58 GMT</pubDate>
+      <title>Xr0.dev 推出了 Xr0，这是一个工具，通过保证 c [...] 的安全，使 C 程序比 Rust 更安全。</title>
+      <link>https://t.me/hn_summary/81786</link>
+      <description><![CDATA[Xr0 使 C 比 Rust 更安全
+Xr0.dev 介绍了 Xr0，一个使 C 程序比Rust 通过保证编译时的安全性。通过形式化和验证函数接口，Xr0 消除了常见的安全问题，例如释放后使用和空指针取消引用。虽然 Rust 解决了 C 的安全问题，但其复杂性和严格的所有权模型可能会阻碍其广泛采用。 Xr0关注接口形式，认为这是C程序不安全的根本原因。通过使用安全语义注释函数并验证其合规性，Xr0 为 C 语言的安全挑战提供了灵活实用的解决方案。这种创新方法可以在不影响简单性和控制的情况下增强安全性，从而彻底改变系统编程。 （根据 57% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81786</guid>
+      <pubDate>Thu, 28 Mar 2024 23:32:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
