@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 12:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 15:09:22 GMT</lastBuildDate>
     <item>
-      <title>亚当斯吹捧的纽约人工智能聊天机器人告诉企业要违法</title>
-      <link>https://t.me/hn_summary/82042</link>
-      <description><![CDATA[亚当斯吹捧的纽约人工智能聊天机器人告诉企业违法
-亚当斯吹捧的纽约人工智能聊天机器人告诉企业要违法
+      <title>标题：询问 HN：如何确保网站公开发布的安全</title>
+      <link>https://t.me/hn_summary/82068</link>
+      <description><![CDATA[询问 HN：如何确保网站公开发布的安全 
+标题：询问 HN：如何确保网站公开发布
 
-纽约市的人工智能聊天机器人是政府改善商业运营举措的一部分，但被发现向用户提供不准确且有时有害的信息。该机器人由微软的 Azure AI 服务提供支持，一直在住房政策、工人权利和商业法规方面提供错误建议。房东、企业主和消费者都被机器人误导了，引发了人们对其可能产生的潜在法律责任的担忧。尽管该市保证该机器人只是一个试点项目并将得到改进，但专家和倡导者呼吁立即采取行动纠正正在传播的错误信息。]]></description>
-      <guid>https://t.me/hn_summary/82042</guid>
-      <pubDate>Sat, 30 Mar 2024 12:17:17 GMT</pubDate>
+希望推出具有 Google 地图 API 功能但担心安全性的网站？加入 Hacker News 上的讨论，作为一名开发人员从本地主机项目飞跃到上线。在寻求有关保护用户输入和管理恶意行为者的建议时，他们想知道第三方服务或从头开始学习是否是最好的方法。分享您的专业知识并帮助他们应对启动安全前端和后端网站的复杂性。加入对话并为社区的集体知识做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/82068</guid>
+      <pubDate>Sat, 30 Mar 2024 15:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>20 年前，当 Gmail 推出时，许多人认为这是一个骗局，因为它承诺提供 1 GB [...]</title>
-      <link>https://t.me/hn_summary/82041</link>
-      <description><![CDATA[Gmail 20 周年
-20 年前，当 Gmail 推出时，许多人认为这是一个骗局，因为它承诺提供 1 GB 的存储空间并且完全免费。尽管最初遭到质疑，Gmail 仍然成为科技爱好者的必备工具，并彻底改变了电子邮件。如今，Gmail 拥有 12 亿用户，是一种实际必需品。然而，随着其他消息应用程序占据主导地位，Gmail 的核心作用受到质疑。谷歌对搜索的关注和细微的调整使得 Gmail 基本保持不变。虽然电子邮件对于有形记录仍然很重要，但 Gmail 作为互联网护照的身份是不可否认的。谷歌的目标是让电子邮件变得不那么费力，让收件箱重新充满乐趣。]]></description>
-      <guid>https://t.me/hn_summary/82041</guid>
-      <pubDate>Sat, 30 Mar 2024 12:07:10 GMT</pubDate>
+      <title>[媒体]在美国，每 13 座桥梁就有 1 座状况“较差”，有 46,000 座桥梁面临风险 [...]</title>
+      <link>https://t.me/hn_summary/82067</link>
+      <description><![CDATA[美国每 13 座桥梁就有 1 座处于“较差”状态&lt; /a&gt;
+在美国，每 13 座桥梁就有 1 座状况“较差”，其中 46,000 座桥梁面临着一次撞击而倒塌的风险。巴尔的摩弗朗西斯·斯科特大桥最近的倒塌凸显了老化的基础设施在极端天气事件、重型卡车和大型集装箱船碰撞面前的脆弱性。虽然有结构缺陷的桥梁数量有所减少，但改善支出的速度却有所放缓，预计维修积压金额为 1,250 亿美元。 2021 年通过的耗资 1.2 万亿美元的联邦基础设施法可能有助于解决其中一些问题，但需要采取紧急行动来保护桥梁免受现代船舶的侵害。]]></description>
+      <guid>https://t.me/hn_summary/82067</guid>
+      <pubDate>Sat, 30 Mar 2024 15:04:19 GMT</pubDate>
     </item>
     <item>
-      <title>最近，NetBSD 中包含的 xz 压缩库中发现了一个后门。</title>
-      <link>https://t.me/hn_summary/82040</link>
-      <description><![CDATA[Xz 库上的 NetBSD/Pkgsrc
-最近，NetBSD 中包含的 xz 压缩库中发现了一个后门。然而，NetBSD 中的 xz 版本是安全的，不会受到后门的影响，因为它早于代码更改。该攻击似乎针对 Linux/glibc，但有必要检查是否有任何其他尝试破坏该库。使用 pkgsrc 中的 xz（非默认设置）的 NetBSD 用户需要采取预防措施，因为该版本受到影响。这一发现敲响了警钟，促使内部进一步讨论如何继续下去。]]></description>
-      <guid>https://t.me/hn_summary/82040</guid>
-      <pubDate>Sat, 30 Mar 2024 12:03:05 GMT</pubDate>
+      <title>在“基本事项”中，作者分享了项目组织的关键原则，这些原则至关重要 [...]</title>
+      <link>https://t.me/hn_summary/82066</link>
+      <description><![CDATA[基本内容
+在“基本事项”中，作者分享了项目组织的关键原则，这些原则对于项目增长时的生产力至关重要。他们强调从一开始就拥有简洁的自述文件、结构化的开发人员文档和用户友好的网站的重要性。作者还讨论了自动化检查和可靠测试对于维护代码质量的重要性。引入的一个独特概念是代码审查过程的“非火箭科学规则”。本文强调了构建系统的简单性、可重复性和一致性的价值。总的来说，这些内容为开发人员提供了实用的见解，以简化他们的工作流程并提高项目效率。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82066</guid>
+      <pubDate>Sat, 30 Mar 2024 14:55:13 GMT</pubDate>
     </item>
     <item>
-      <title>亲爱的 HN 发帖者，让我们专注于为我们的讨论增加价值，而不是诉诸点击 [...]</title>
-      <link>https://t.me/hn_summary/82039</link>
-      <description><![CDATA[致 HN 海报：请添加值，修正标题，使其不点击诱饵
-亲爱的 HN 发帖者，让我们专注于为我们的讨论增加价值，而不是诉诸点击诱饵标题。参与有意义的对话并为我们的社区提供有价值的见解非常重要。因此，让我们共同努力提高帖子质量，使 HN 成为一个对每个人来说信息更丰富、更具吸引力的平台。谢谢您的合作。]]></description>
-      <guid>https://t.me/hn_summary/82039</guid>
-      <pubDate>Sat, 30 Mar 2024 11:59:01 GMT</pubDate>
+      <title>询问 HN：有人在工作中使用 Htmx 吗？</title>
+      <link>https://t.me/hn_summary/82065</link>
+      <description><![CDATA[询问 HN：有人在工作中使用 Htmx 吗？ 
+我最近在阅读 Hypermedia.systems 书并进行测试后开始探索 Htmx这是在一个小项目上完成的，我对此印象深刻。我很想知道是否有公司已经在工作中使用它，或者它是否只是一个业余项目工具。您是否遇到过 Htmx 的任何实际应用，或者您认为它有潜力在未来得到更广泛的采用？在此主题上与我分享您的想法和经验。]]></description>
+      <guid>https://t.me/hn_summary/82065</guid>
+      <pubDate>Sat, 30 Mar 2024 14:51:10 GMT</pubDate>
     </item>
     <item>
-      <title>苏格兰的《仇恨犯罪和公共秩序法》将“煽动”对战争的仇恨定为犯罪行为 [...]</title>
-      <link>https://t.me/hn_summary/82038</link>
-      <description><![CDATA[苏格兰仇恨犯罪法
-苏格兰《仇恨犯罪和公共秩序法》将“煽动”对受保护特征（包括种族、年龄、残疾、宗教和变性身份）的仇恨定为刑事犯罪。该法案包括指定的“第三方报告中心”，其中一个位于格拉斯哥的一家性用品商店。该法案还伴随着一场备受争议和嘲笑的宣传活动，其中包括姜黄色的“仇恨怪物”。批评者担心该法案会抑制合法的言论自由，特别是批评宗教的言论。该法案的措辞依赖于“理性人”的想法，呼应了苏格兰启蒙运动对理性的强调。然而，该法案对仇恨的宽泛定义引发了人们对过度扩张和压制不同意见的担忧。]]></description>
-      <guid>https://t.me/hn_summary/82038</guid>
-      <pubDate>Sat, 30 Mar 2024 11:30:52 GMT</pubDate>
+      <title>[媒体]一只名叫罗斯科的机器人警犬，隶属于马萨诸塞州警察拆弹小组，[...]</title>
+      <link>https://t.me/hn_summary/82064</link>
+      <description><![CDATA[机器人警犬射杀，避免流血事件&lt; br/&gt;
+一只名叫罗斯科的机器人警犬是马萨诸塞州警察拆弹小组的成员，它被认为避免了巴恩斯特布尔的一场悲剧。这只狗被部署到一所房子里，一名嫌疑人被封锁并配备了步枪。尽管身中三枪并致残，罗斯科仍提供了关键的房间清理和态势感知能力，避免了人类操作员进入危险的情况。机器狗背后的公司波士顿动力公司表示，这是他们的机器人第一次被枪击。该事件突显了 Spot 等移动机器人在危险情况下拯救生命的潜力。]]></description>
+      <guid>https://t.me/hn_summary/82064</guid>
+      <pubDate>Sat, 30 Mar 2024 14:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 推出了语音引擎，这是一种语音克隆技术，可以复制任何扬声器 [...]</title>
-      <link>https://t.me/hn_summary/82037</link>
-      <description><![CDATA[OpenAI 表示它可以从 15 秒的音频中克隆语音&lt; /a&gt;
-OpenAI 推出了语音引擎，这是一种语音克隆技术，可以在分析 15 秒的音频后复制任何说话者。该公司宣称其能够生成具有情感和真实声音的自然语音。尽管该技术在阅读辅助和语言翻译方面显示出良好的前景，但人们仍严重担心该技术可能被误用于深度伪造目的。 OpenAI 正在努力解决隐私问题，并计划实施安全措施，包括“禁止语音列表”，以防止人工智能生成的演讲者冒充知名人物。定价细节表明语音引擎可能是有声读物制作的一个经济高效的选择。尽管具有潜力，但由于涉及重大风险，该技术尚未准备好广泛使用。]]></description>
-      <guid>https://t.me/hn_summary/82037</guid>
-      <pubDate>Sat, 30 Mar 2024 11:26:48 GMT</pubDate>
+      <title>在 REA 集团的 David Kemp 最近的一次演讲中，处理大型 nu [...]</title>
+      <link>https://t.me/hn_summary/82063</link>
+      <description><![CDATA[我的笔记本电脑比您的 Elastic 集群更快
+在 REA Group 的 David Kemp 最近的一次演示中，实现了在 realestate.com.au。使用弹性集群来存储属性并匹配已保存的搜索，该过程涉及将 5M 个已保存的搜索与 5K 个新属性进行匹配。令人惊讶的是，一台具有基本代码和优化的笔记本电脑仅使用 2GB RAM，就能在 6 秒内匹配所有属性。这种性能为执行类似任务提供了可能性，而无需专用集群，展示了现代计算机的速度和效率。]]></description>
+      <guid>https://t.me/hn_summary/82063</guid>
+      <pubDate>Sat, 30 Mar 2024 14:41:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]SHH（Systemd Hardening Helper）是一个提供自动 systemd 服务硬 [...]</title>
-      <link>https://t.me/hn_summary/82036</link>
-      <description><![CDATA[显示 HN：SHH（Systemd 强化助手） – 自动 systemd 服务强化
-SHH（Systemd Hardening Helper）是一个提供由 strace 分析引导的自动 systemd 服务强化的项目。它旨在通过分析 systemd 服务的行为并基于此分析创建强化配置来提高 systemd 服务的安全性。该项目提供了从源代码构建的安装说明，以及为 Debian 和 Arch Linux 用户提供的预构建包。作者提到不支持在服务管理器的每用户实例中运行的服务。 SHH 的与众不同之处在于，它通过运行时分析提供指导性的服务强化方法。该项目已获得 GPLv3 许可。]]></description>
-      <guid>https://t.me/hn_summary/82036</guid>
-      <pubDate>Sat, 30 Mar 2024 11:22:42 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，最近的研究表明无效的 SMILES（简化的 Molecu [...]</title>
+      <link>https://t.me/hn_summary/82062</link>
+      <description><![CDATA[无效的 SMILES 对化学语言模型有益而不是有害
+令人惊讶的是，最近的研究表明，无效的 SMILES（简化分子输入线输入系统）实际上对化学语言模型是有益的，而不是有害的。这一有争议的发现挑战了传统假设，并为探索化学空间开辟了新的可能性。通过利用生成人工智能和片上合成，研究人员现在能够以前所未有的速度和准确性设计新型药物化合物。这种创新方法将分子结构和生物活性与化学语言模型相结合，正在彻底改变从头药物设计领域。请继续关注这一前沿研究领域令人兴奋的进展。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82062</guid>
+      <pubDate>Sat, 30 Mar 2024 14:34:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenUI 是一个旨在使构建 UI 组件的过程变得有趣、快速、 [...]</title>
-      <link>https://t.me/hn_summary/82035</link>
-      <description><![CDATA[Wandb/openui：发挥你的想象力描述 UI&lt; br/&gt;
-OpenUI 是一个旨在使构建 UI 组件的过程变得有趣、快速且灵活的项目。它允许用户使用他们的想象力描述 UI 并查看它的实时渲染，并且能够将 HTML 转换为 React、Svelte、Web 组件等。该项目是开源的，不像其他工具那么完善，但 W&amp;B 正在使用它来测试和原型下一代工具，以在法学硕士的基础上构建强大的应用程序。用户可以尝试现场演示或在本地运行 OpenUI 来探索其功能。该项目通过提供独特的 UI 设计和开发方法而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/82035</guid>
-      <pubDate>Sat, 30 Mar 2024 11:18:39 GMT</pubDate>
+      <title>日食什么时候发生？</title>
+      <link>https://t.me/hn_summary/82061</link>
+      <description><![CDATA[日食什么时候发生？千年计算的故事
+2024 年 4 月 8 日，美国各地将可见日全食，但预测确切时间是科学的胜利。从古代巴比伦观测到现代 Wolfram 语言，计算日食的能力不断发展。 2000年前的Antikythera装置甚至尝试使用金属齿轮来预测日食。日食的罕见性是由于月球的倾斜轨道以及与黄道面的对齐。通过研究古代记录和默冬周期等周期，天文学家已经能够以越来越高的精度预测数千年来的日食。 （根据故事文本的 18% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82061</guid>
+      <pubDate>Sat, 30 Mar 2024 14:19:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]MyScaleDB 是一个基于 ClickHouse 构建的开源 SQL 矢量数据库，针对 AI [...]</title>
-      <link>https://t.me/hn_summary/82034</link>
-      <description><![CDATA[展示 HN：MyScaleDB 开源：一个可供构建的 SQL 矢量数据库带有SQL的AI APP
-MyScaleDB 是一个基于 ClickHouse 构建的开源 SQL 矢量数据库，针对 AI 应用程序进行了优化。它允许开发人员有效地管理和处理海量数据。主要功能包括 SQL 兼容性、快速矢量搜索以及通过元数据过滤提高准确性。 MyScaleDB 利用尖端的 OLAP 架构提供无与伦比的性能和可扩展性。与其他矢量数据库相比，MyScale 功能更强大、性能更佳且更具成本效益，适合大型程序员社区。该项目还提供了详细的基准和文档。该项目与 ClickHouse 的集成确保了快速的分析和数据扫描速度，使其成为结合结构化和矢量搜索操作的理想选择。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82034</guid>
-      <pubDate>Sat, 30 Mar 2024 11:14:34 GMT</pubDate>
+      <title>在这篇 2008 年的文章中，苏珊娜·维加 (Suzanne Vega) 反思了她的热门歌曲《汤姆的晚餐》(Tom's Diner) 的创作和影响。</title>
+      <link>https://t.me/hn_summary/82060</link>
+      <description><![CDATA[汤姆的随笔 (2008)
+在这篇 2008 年的文章中，苏珊娜·维加 (Suzanne Vega) 反思了她的热门歌曲《汤姆的晚餐》(Tom&#39;s Diner) 的创作和影响。她讨论了这首歌背后的灵感、她现场表演这首歌的经历，以及让这首歌重新回到聚光灯下的意想不到的混音。 Vega 还分享了有关她的家庭与技术的关系以及她女儿早期熟练掌握 HTML 的轶事。通过个人故事和反思，她阐明了《汤姆的晚餐》的不朽遗产及其在音乐和技术世界中的地位。 （根据 35% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82060</guid>
+      <pubDate>Sat, 30 Mar 2024 14:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]即将发布的 Java 开发工具包 23 将引入令人兴奋的新功能 [...]</title>
-      <link>https://t.me/hn_summary/82033</link>
-      <description><![CDATA[Java 23 计划功能
-即将发布的 Java Development Kit 23 将引入令人兴奋的新功能，包括模式中基本类型的集成、类文件 API 的增强以及模式匹配的改进。 Oracle 2024 年 Java 路线图包括 Amber、Babylon 和 Valhalla 等项目，旨在提高生产力和性能。所提出的功能，例如在调用超类构造函数之前执行语句、字符串模板、流收集器、作用域值以及矢量 API 的演变，都展示了 Java 对创新和效率的承诺。这些进步凸显了 Java 的适应性，并有望提升该语言在现代软件开发中的能力。]]></description>
-      <guid>https://t.me/hn_summary/82033</guid>
-      <pubDate>Sat, 30 Mar 2024 11:07:28 GMT</pubDate>
+      <title>[媒体]美国联邦上诉法院推翻了塑料容器污染禁令 [...]</title>
+      <link>https://t.me/hn_summary/82059</link>
+      <description><![CDATA[美国上诉法院撤销对受 PFAS 污染的塑料容器的禁令
+美国一家联邦上诉法院推翻了对受有毒 PFAS 化学品污染的塑料容器的禁令，尽管这些“永久化学品”存在已知的健康风险。法院裁定，美国环保局无法根据所使用的法规对容器进行监管，因为制造工艺并不被认为是新的。这一决定是针对 Inhance 制造工艺长达四年的法律诉讼的一部分，该制造工艺已被发现将 PFAS 渗入产品中。美国环保署正在审查该决定，诉讼正在进行中，最高法院可能会介入。争议在于法院将经济影响置于健康风险之上的决定。]]></description>
+      <guid>https://t.me/hn_summary/82059</guid>
+      <pubDate>Sat, 30 Mar 2024 14:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
