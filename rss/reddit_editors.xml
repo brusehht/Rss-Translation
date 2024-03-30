@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 30 Mar 2024 00:46:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 03:15:00 GMT</lastBuildDate>
+    <item>
+      <title>Avid 上 Blackmagic + Apple 芯片的替代品</title>
+      <link>https://www.reddit.com/r/editors/comments/1br60wt/alternatives_to_blackmagic_apple_silicon_on_avid/</link>
+      <description><![CDATA[使用 M1、M2 或 M3 的 Mac 上的 Blackmagic 硬件显然无法工作。 每次插入硬件时，我都会得到沙滩球，甚至更糟。 Avid 指责 Blackmagic，但人们似乎并不关心，因为相同的硬件在同一台机器上的 Premiere 和 Resolve 上运行良好。 有一个非常愤怒的人avid 论坛上的帖子此处。 有人运行 AJA硬件没有问题还是一样？ 除了使用“全屏”功能之外，你们还有什么建议吗？ HDMI 模式？   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1br60wt/alternatives_to_blackmagic_apple_silicon_on_avid/</guid>
+      <pubDate>Sat, 30 Mar 2024 01:50:38 GMT</pubDate>
+    </item>
     <item>
       <title>ISO 以社会为中心的邮政机构？</title>
       <link>https://www.reddit.com/r/editors/comments/1br3iw2/iso_socialfocused_post_houses/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我对上一个项目中的多个剪辑有疑问。我们在车库里拍摄了一个场景，使用了现场的一些 LED 实用工具。当然，当我们到达那里时，我们检查了它们是否闪烁，我们拥有的六个显示器中没有任何可见的东西。当后期制作公司第二天检查素材时，他们意识到很多对比度高且运动量大的片段都存在非常奇怪的双重曝光问题。一只手在画面中移动，看起来有 10 个手指，让我想起了一些交错的镜头，只是没有线条。 这就是我认为发生的事情：我们在德国，所以我们在以 25 fps 的速度拍摄，快门角度为 180 度。没有明显的闪烁，因为 LED 的匹配系数为 25hz，使其与相机设置同步。假设 LED 在 1/50 秒内打开和关闭两次，这将是类似于闪光摄影的效果，其中图像在相机的曝光时间内曝光两次。这可能会导致这些奇怪的双打轮廓。  我几乎可以肯定排除我的相机的所有问题，因为我们的 a/b 相机也有完全相同的问题，一台 Alexa mini，一台 Arri Amira，均为 ProRes 4444，2k 分辨率。 &gt; 你们中有人遇到过类似的问题或知道这些文件的可能修复方法吗？我不认为简单的去闪烁真的有多大作用.. 在评论中附上了两个帧抓取，感谢您的帮助！    由   提交 /u/hnehls   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bqq6rr/problem_with_video_file_flickering_double_exposure/</guid>
       <pubDate>Fri, 29 Mar 2024 14:08:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>真人秀编辑，你们的工作流程是怎样的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bqi1vm/reality_show_editors_whats_your_workflow/</link>
-      <description><![CDATA[我目前正在制作一个 1 小时的真人秀竞赛节目。我使用 14 个摄像机和 15 个领夹式麦克风。对我来说最痛苦的部分是整个剧集的多机位拍摄。我觉得有更好的方法来做到这一点或加快速度。 除此之外，我还想问一下如何将其发送给调色师、音频工程师等？ 编辑：我在 Premiere Pro 多机位功能上执行此操作   由   提交/u/kingjuyeon02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bqi1vm/reality_show_editors_whats_your_workflow/</guid>
-      <pubDate>Fri, 29 Mar 2024 06:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
