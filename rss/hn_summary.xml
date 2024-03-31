@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 00:36:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 02:50:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在制作相机的过程中，阳光对PCB的影响是意想不到的[...]</title>
-      <link>https://t.me/hn_summary/82139</link>
-      <description><![CDATA[阳光对摄像头 PCB 的影响
-在制作相机的过程中，阳光对 PCB 的影响出乎意料地令人着迷。当从肯塔基州的原型机传输图像时，阳光在 PCB 上显示出神秘的痕迹，这些痕迹原来是图像传感器背面的 BGA 电路。这种现象对紫外线很敏感，甚至在打开窗户的环境紫外线下也会发生。在圣何塞，阳光导致原型出现故障，特别是影响芯片级封装的组件。这种对阳光的独特敏感性使 Photon 成为出色的阳光探测器，凸显了相机设计中适当外壳材料的重要性。]]></description>
-      <guid>https://t.me/hn_summary/82139</guid>
-      <pubDate>Sun, 31 Mar 2024 00:36:42 GMT</pubDate>
+      <title>[媒体]流处理已经发展了数十年，2020 年代标志着显着增长 [...]</title>
+      <link>https://t.me/hn_summary/82162</link>
+      <description><![CDATA[流处理的过去、现在和未来 - Kai Waehner
+流处理已经发展了数十年，到了 2020 年代，由于 Apache Kafka 和 Flink 等开源框架的出现，流处理的受欢迎程度显着上升。该博文深入探讨了流处理的历史、当前趋势和未来展望，包括从批处理到实时处理的转变、Apache Kafka 等开源技术的出现，以及向有状态流处理的架构演变。讨论还涉及低代码/无代码工具的优缺点，强调了灵活选择正确的流处理技术的重要性。争议的方面在于无代码/低代码工具的缺点，强调在采用此类平台时需要仔细考虑。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82162</guid>
+      <pubDate>Sun, 31 Mar 2024 02:50:25 GMT</pubDate>
     </item>
     <item>
-      <title>问HN：为什么没有杂牌喷墨打印机？</title>
-      <link>https://t.me/hn_summary/82138</link>
-      <description><![CDATA[问HN：为什么没有杂牌喷墨打印机？&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者是质疑为什么市场上没有可以与廉价品牌产品竞争的杂牌喷墨打印机。用户对主要制造商计划淘汰的喷墨打印机以及更换打印机头等组件的高成本表示失望。欧盟对此作出了回应，颁布了可维修性强制令，但作者指出，备件可能仍然有固定的有效期。这篇文章提出了这样一个问题：是否存在 DIY 或“亚洲克隆”的喷墨打印机，可以为主要供应商提供更实惠、更可持续的替代品。]]></description>
-      <guid>https://t.me/hn_summary/82138</guid>
-      <pubDate>Sun, 31 Mar 2024 00:27:37 GMT</pubDate>
+      <title>[媒体] 8BitDo 的 100 美元无线机械键盘向标志性的 Commodore 64 com 致敬 [...]</title>
+      <link>https://t.me/hn_summary/82161</link>
+      <description><![CDATA[8BitDo 的 100 美元无线机械键盘是向 Commodore 64 致敬
+8BitDo 的 100 美元无线机械键盘向标志性的 Commodore 64 计算机致敬，采用彩虹条纹和电源按钮的复古设计，让人想起 80 年代的经典。该键盘是无线的，可以通过 USB 或蓝牙连接，配备 2000 mAh 电池，可持续使用长达 200 小时。它包括一个操纵杆和用于游戏的大按钮，无需额外软件即可进行编程。键帽的设计模仿了原始 C64 的手感，采用 ABS 塑料制成的球形 SA 型键帽。虽然与 Apple 设备不兼容，但该键盘面向寻求怀旧游戏体验的 Windows 10 和 Android 用户。]]></description>
+      <guid>https://t.me/hn_summary/82161</guid>
+      <pubDate>Sun, 31 Mar 2024 02:46:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1995 年，萨尔瓦多的故意杀人率是世界上最高的，每人 139 起。</title>
-      <link>https://t.me/hn_summary/82137</link>
-      <description><![CDATA[萨尔瓦多注意事项
-1995年，萨尔瓦多的故意杀人案发生率是世界上最高的，为每10万人中有139起，但在纳伊布·布克莱总统的领导下奇迹般地扭转局面，到2023年，该比率下降至每10万人中有2.4起。布克莱的反犯罪打击行动被誉为“全球故意杀人案之一”。现代历史上最成功的人之一。该国的历史充满了内乱、军事独裁和持续十多年的残酷内战。在这部对萨尔瓦多过去和现在的全面概述中，还探讨了萨尔瓦多帮派的崛起及其对美国（尤其是洛杉矶）的影响。 （根据故事文本的 7% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82137</guid>
-      <pubDate>Sun, 31 Mar 2024 00:18:33 GMT</pubDate>
+      <title>[媒体]该网站探讨了类型线性代数的概念，它模仿了代数 [...]</title>
+      <link>https://t.me/hn_summary/82160</link>
+      <description><![CDATA[类型的线性代数
+该网站探讨了类型线性代数的概念，它模仿了中学学习的代数。它深入研究了半环、矩阵和类型，展示了它们如何互连。作者演示了使用 Either-(,) 半环构造类型矩阵，并提供了代码示例进行说明。内容还讨论了矩阵在描述转换系统中的实际应用，并提出了表示转换步骤的替代方法。本文最后提出了关于提升构造以执行向量空间线性代数的想法，将其与 2Vect 的概念及其在类型化函数编程中的相关性联系起来。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82160</guid>
+      <pubDate>Sun, 31 Mar 2024 02:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我最近从 eBay 购买了一块老式 8086 芯片进行逆向工程，结果发现 [...]</title>
-      <link>https://t.me/hn_summary/82136</link>
-      <description><![CDATA[假冒 8086 处理器
-我最近在 eBay 上购买了一块老式 8086 芯片进行逆向工程，结果发现这是一块被重新标记为 8086 的假冒芯片。该假冒芯片原来是 Uncommissed Logic Array，一种门阵列，与正品完全不同8086处理器。该假冒芯片的双极晶体管数量不到 1000 个，远少于真正的 8086 中的 29,000 个 MOS 晶体管。这一发现凸显了半导体假冒的风险以及购买芯片时谨慎的重要性。请在 Twitter 上关注我：@kenshirriff，了解有关对真实 8086 进行逆向工程的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/82136</guid>
-      <pubDate>Sun, 31 Mar 2024 00:04:26 GMT</pubDate>
+      <title>[媒体] 隆重推出 Kallo，这是一款创新协作工具，可让您利用 p [...]</title>
+      <link>https://t.me/hn_summary/82159</link>
+      <description><![CDATA[展示 HN：Kallo – 尝试不同 AI 的多 LLM 协作工具
+隆重推出 Kallo，这是一款创新协作工具，可让您利用 AI 的力量进行有意义的协作。借助 Kallo，您可以立即从您的个人文档和资源库中获取主题专业知识。邀请您的团队进行多用户协作，并利用 OpenAI、Anthropic 和 Mistral 的最佳 AI 模型来生成见解并找到答案。免费开始并彻底改变您的合作方式。 Kallo 是人工智能协作工具领域的游戏规则改变者，为希望更智能而不是更辛苦地工作的团队提供独特而强大的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/82159</guid>
+      <pubDate>Sun, 31 Mar 2024 02:18:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在“失败综合症”中，作者探讨了管理者如何经常责怪员工[...]</title>
-      <link>https://t.me/hn_summary/82135</link>
-      <description><![CDATA[准备失败综合症 (1998)
-在《失败综合症》一书中，作者探讨了管理者如何经常将绩效不佳归咎于员工，而不是审视自己在这种情况下的角色。这种心态可能会导致有毒的工作环境，让员工注定会失败。这篇文章要求管理者对自己在员工绩效问题中所扮演的角色承担责任，而不是仅仅将责任归咎于员工。这篇发人深省的文章最初发表在 1998 年的《哈佛商业评论》上，揭示了一个在当今工作场所仍然具有争议性的话题。]]></description>
-      <guid>https://t.me/hn_summary/82135</guid>
-      <pubDate>Sat, 30 Mar 2024 23:56:20 GMT</pubDate>
+      <title>威廉姆斯赛车队在一级方程式赛车中的衰落被归因于 Microsoft Excel 的巨大热潮 [...]</title>
+      <link>https://t.me/hn_summary/82158</link>
+      <description><![CDATA[来自地狱的 Microsoft Excel 电子表格使威廉姆斯的 F1 赛车减慢了多年&lt; /a&gt;
+威廉姆斯赛车队在一级方程式赛车中的衰落归因于一个巨大的 Microsoft Excel 电子表格，该电子表格多年来阻碍了汽车开发。车队负责人 James Vowles 透露了车队内部流程效率低下的问题，杂乱无章的零件管理系统导致了延误和效率低下。 Excel 电子表格包含 20,000 个零件，缺乏关键的物流信息，导致生产人员很难找到必要的零件。这种过时的系统导致季前测试的延迟和升级成本的增加。 Williams 目前正在进行技术改革以提高竞争力，但 Excel 电子表格的遗留问题仍然存在。]]></description>
+      <guid>https://t.me/hn_summary/82158</guid>
+      <pubDate>Sun, 31 Mar 2024 02:13:59 GMT</pubDate>
     </item>
     <item>
-      <title>疫苗投资是理所当然的事——那我们为什么不这样做呢？</title>
-      <link>https://t.me/hn_summary/82134</link>
-      <description><![CDATA[疫苗投资是理所当然的 – 那么我们为什么不呢做吗？
-投资疫苗是理所当然的事，但许多人没有利用这个机会。疫苗投资具有拯救生命和预防疾病传播的潜力，其好处是显而易见的。尽管如此，这方面似乎缺乏行动。利用我们的限时优惠，在任何设备上以标准数字方式访问优质 FT 新闻可节省高达 40% 的费用。不要错过这个了解情况并为全球健康做出贡献的机会。]]></description>
-      <guid>https://t.me/hn_summary/82134</guid>
-      <pubDate>Sat, 30 Mar 2024 23:51:17 GMT</pubDate>
+      <title>与 fin.Flights 一起踏上无限旅行可能的旅程，这是搜索 [...]</title>
+      <link>https://t.me/hn_summary/82157</link>
+      <description><![CDATA[显示 HN：Fin.Flights – 搜索航班的最快方式GPT
+使用 fin.Flights 踏上无限旅行可能的旅程，这是由 GPT 提供支持的搜索航班的最快方式。为两名成人和一名婴儿查找从 肯尼迪国际机场 飞往 LHR 最快捷的航班，或者为五口之家搜索从 巴黎 飞往 东京 最便宜的单程航班。预订从 洛杉矶 飞往 悉尼 的商务舱往返航班，或者查找从 纽约市 飞往 伦敦 的航班，且日期灵活。探索阿联酋航空运营的 伦敦 飞往 迪拜 的航班，或查找从 罗马 飞往 巴塞罗那 最后一分钟的最佳优惠。显示 HN：Fin.Flights 是满足您所有航班搜索需求的一站式商店。]]></description>
+      <guid>https://t.me/hn_summary/82157</guid>
+      <pubDate>Sun, 31 Mar 2024 02:09:54 GMT</pubDate>
     </item>
     <item>
-      <title>2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。</title>
-      <link>https://t.me/hn_summary/82133</link>
-      <description><![CDATA[爱尔兰房地产泡沫为何破裂
-2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。爱尔兰建造过多房屋的神话已被揭穿，2011 年只有 10% 的房屋空置。泡沫不是由自由放任政策造成的，而是由农村地区的税收优惠政策造成的。建筑率和价格之间的相关性并不能反驳供求规律，因为信贷条件在推动价格上涨方面发挥了至关重要的作用。理解这些误区对于防止将来犯同样的错误至关重要。 （根据 57% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82133</guid>
-      <pubDate>Sat, 30 Mar 2024 23:47:14 GMT</pubDate>
+      <title>隆重推出 Signmeup.ai，这是一款革命性工具，可让您收集电子邮件并创建 [...]</title>
+      <link>https://t.me/hn_summary/82156</link>
+      <description><![CDATA[显示 HN：Signmeup.ai – 几秒钟内即可收集电子邮件和注册页面
+隆重推出 Signmeup.ai，一款可让您收集电子邮件的革命性工具并在几秒钟内创建注册页面。告别手动收集联系信息的麻烦，轻松简化您的注册流程。借助 Signmeup.ai，建立联系从未如此简单。立即访问我们的网站即可开始并亲自体验其中的差异。]]></description>
+      <guid>https://t.me/hn_summary/82156</guid>
+      <pubDate>Sun, 31 Mar 2024 02:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]震颤性谵妄是由酒精戒断引起的快速发作的精神错乱，伴有症状 [...]</title>
-      <link>https://t.me/hn_summary/82132</link>
-      <description><![CDATA[震颤性谵妄
-震颤性谵妄是由酒精戒断引起的一种快速发作的精神错乱，症状包括颤抖、幻觉和心率不齐。如果不及时治疗，可能会致命，死亡率为 15% 至 40%。治疗包括苯二氮卓类药物和硫胺素，预防包括逐渐减少饮酒。震颤性谵妄在有大量饮酒和酗酒史的人中最常见。马克·吐温和约瑟夫·康拉德等作家在文学作品中描述了这种情况。 “谵妄”这个名字来自拉丁语，意思是“走出犁沟”。 （根据故事文本的 44% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82132</guid>
-      <pubDate>Sat, 30 Mar 2024 23:43:11 GMT</pubDate>
+      <title>[媒体]滚轮船是一种独特的航海奇物，其设计目的是减少阻力并增加速度 [...]</title>
+      <link>https://t.me/hn_summary/82155</link>
+      <description><![CDATA[滚轮船并不是穿越公海的有效方式&lt; /a&gt;
+滚轮船是一种独特的航海奇物，其设计目的是通过使用大型滚轮将船体的大部分升出水面来减少阻力并提高速度。然而，法国发明家欧内斯特·巴赞 (Ernest Bazin) 于 1896 年建造的唯一一艘滚轮船被证明不适合航海且不切实际。尽管尝试改进设计，但由于旋转滚轮产生的阻力，滚轮船甚至难以达到每小时十几英里。最终，滚轮船的概念在机械上很复杂，并且与传统的船舶设计相比没有提供任何真正的好处。尽管失败了，这艘滚轮船还是吸引了许多人的想象力，并且仍然是非常规设计的一个令人着迷的例子。]]></description>
+      <guid>https://t.me/hn_summary/82155</guid>
+      <pubDate>Sun, 31 Mar 2024 02:01:48 GMT</pubDate>
     </item>
     <item>
-      <title>标题：加拿大的枫糖浆储备几乎空了</title>
-      <link>https://t.me/hn_summary/82131</link>
-      <description><![CDATA[加拿大的枫糖浆储备几乎空了
-标题：加拿大的枫糖浆储备几乎空了
-
-摘要：加拿大的枫糖浆储备对于满足全球需求至关重要，但由于收获季节不佳，枫糖浆储备几乎耗尽。短缺导致价格上涨，并引发人们对枫糖浆行业影响的担忧。争议在于对生产者和消费者的潜在经济影响。这种意外的短缺凸显了枫糖浆供应链的脆弱性，以及需要更好的管理策略以确保未来市场的稳定。]]></description>
-      <guid>https://t.me/hn_summary/82131</guid>
-      <pubDate>Sat, 30 Mar 2024 23:37:07 GMT</pubDate>
+      <title>项目“rust-s3-async-ffi”演示了如何在 C 中异步流式传输 AWS S3 对象 [...]</title>
+      <link>https://t.me/hn_summary/82154</link>
+      <description><![CDATA[显示 HN：在 C 和 中使用异步 Rust 运行时的实际示例C++
+项目“rust-s3-async-ffi”演示了如何使用 Rust crate rust-s3 和 Unix 域套接字以 C 和 C++ 异步流式传输 AWS S3 对象。它生成一个可以链接到 C 或 C++ 代码的 C 动态库。该项目的与众不同之处在于，它产生了由连接的 Unix 套接字驱动的异步任务，从而可以有效地处理 S3 对象。测试可以通过 Rust 单元测试或使用 boost::asio 构建 C++ 程序来完成。测试需要正确配置bucket.toml或bucket.ini等文件，并且该项目支持使用Localstack或其他AWS S3模拟器进行测试。]]></description>
+      <guid>https://t.me/hn_summary/82154</guid>
+      <pubDate>Sun, 31 Mar 2024 01:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 认识三个以独特方式感知世界的人。</title>
-      <link>https://t.me/hn_summary/82130</link>
-      <description><![CDATA[认识三个可能与您看待世界不同的人
-认识三个以独特方式感知世界的人。梅根·西姆斯 (Meagan Sims) 是一位患有色盲的艺术家，她看到的一切都是灰色的。尽管如此，她还是找到了一种通过艺术用她看不到的颜色来表达自己的方法。康塞塔·安蒂科（Concetta Antico）是一名四色视者，声称能看到我们大多数人无法感知的数千种颜色。尽管像杂货店购物这样的日常任务可能会让人难以承受，但她的超凡视野使她成为了一名成功的艺术家。凯特琳·霍瓦 (Kaitlyn Hova) 是一位具有联觉的音乐家，当她听到声音时，她会看到颜色和形状。她利用自己独特的能力将音乐、神经科学和编码融入到她的职业生涯中。]]></description>
-      <guid>https://t.me/hn_summary/82130</guid>
-      <pubDate>Sat, 30 Mar 2024 23:33:02 GMT</pubDate>
+      <title>[媒体]在令人震惊的事件中，OpenAI 175 美元的 mi 的负责人似乎 [...]</title>
+      <link>https://t.me/hn_summary/82153</link>
+      <description><![CDATA[负责 OpenAI 1.75 亿美元基金的人似乎是假的
+令人震惊的是，OpenAI 1.75 亿美元基金的负责人 Jacob Vespers 似乎根本不存在。据 OpenAI 称，向加州国务卿提交的任命 Vespers 的文件“完全是捏造的”。这场争议让许多人想知道人工智能行业究竟发生了什么。 OpenAI 现任首席执行官萨姆·奥尔特曼 (Sam Altman) 目前负责管理该基金，这引发了人们对前任管理层合法性的质疑。由于这种欺骗背后的动机尚不清楚，人们对这个精心设计的计划背后的真实意图有很多猜测。这是经济犯罪、恶作剧，还是更险恶的事情？真相尚不明朗。]]></description>
+      <guid>https://t.me/hn_summary/82153</guid>
+      <pubDate>Sun, 31 Mar 2024 01:53:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
