@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 31 Mar 2024 18:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 21:10:37 GMT</lastBuildDate>
+    <item>
+      <title>寻找项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bskmyy/looking_for_project/</link>
+      <description><![CDATA[大家好， 我正在尝试构建一个开源眼动追踪器，它可以带来网络摄像头驱动的眼动追踪面向更广泛的公众，无需订阅或昂贵的硬件。  我们的存储库得到了一些关注，我正在寻找更多的帮助、一些促销，甚至是希望通过提供反馈或为该项目加星来支持我们的人！就像 Apple Vision Pro 所展示的那样，眼动追踪对于界面来说非常有用，我认为作为一个开源项目，它可能会更受欢迎、更值得信赖，同时也能让有需要的人更容易使用眼动追踪界面。  我们非常愿意与网站创建者、想要使用视觉驱动界面的人、或者想要为核心项​​目做出贡献甚至加入团队的人合作！  如果您不是其中任何一个，那么请随意过来打个招呼。如果您想贡献，但认为自己没有技能，请给我留言；任何一双手都是金子！  仓库： - https://github.com/NativeSensors/EyeGestures  演示： - https://eyegestures.com - https://eyegestures.com/cinema - https://eyegestures.com/game  - https://eyegestures.com/restaurant    由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bskmyy/looking_for_project/</guid>
+      <pubDate>Sun, 31 Mar 2024 20:54:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaveHere：最小云文件管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bskfr5/savehere_minimal_cloud_file_manager/</link>
+      <description><![CDATA[大家好。请查看我的新开源自托管应用程序，名为 SaveHere。它位于 https://github.com/gudarzi/SaveHere。 SaveHere 是一个最小的云文件管理器，允许您从互联网下载文件并将它们存储在您自己的服务器上（本地或 VPS 上）。它使用 Docker、React 作为前端，ASP.NET Core 作为后端，Nginx 用于提供下载的文件和一个一些用于其他功能的 Docker 镜像。 该应用程序旨在解决从慢速服务器或不稳定连接下载大文件的问题。使用 SaveHere，您可以输入要下载的文件的 URL，应用程序会将其下载到您的服务器。然后，您可以使用自己的域名和 URL 从自己的服务器下载文件，并可以根据需要暂停和恢复下载。 请随时检查存储库的问题选项卡，看看是否可以你可以修复一些东西。另外，如果您喜欢该项目，请不要忘记为其加注星标。   由   提交 /u/ehsangd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bskfr5/savehere_minimal_cloud_file_manager/</guid>
+      <pubDate>Sun, 31 Mar 2024 20:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人为亚马逊基础智能电源板开发过开源固件吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bsjlbc/anyone_developed_an_open_source_firmware_for/</link>
+      <description><![CDATA[因此，我使用 Alexa 智能家居插件通过 Homebridge 将电源板连接到 HomeKit。然而，这是基于云的，我想要一些可以在本地与 HomeKit 通信的东西。所以我得到了一个 MEROSS 电源板。这似乎工作正常，尽管它可能会由于没有响应问题而返回。这不是重点。现在我有了这个亚马逊基础知识条，我正在尝试弄清楚如何处理它。我很乐意把它变成砖头。我不喜欢焊接到 CPU 上来安装这个固件。是否有任何固件或其他方法可以用来与 HomeKit 或 Homebridge 进行本地通信？   由   提交 /u/Teenage_techboy1234   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bsjlbc/anyone_developed_an_open_source_firmware_for/</guid>
+      <pubDate>Sun, 31 Mar 2024 20:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Transcribing Video Cutter：开源视频和播客编辑器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bshiqi/transcribing_video_cutter_open_source_video_and/</link>
+      <description><![CDATA[嗨r/opensource，我&#39;我们已经在这个项目上工作了一个月，所有基本功能都开始发挥作用。 它是关于什么的：  这是一个简单的 Python Qt (PySide6) 应用程序视频编辑 快速、帧精确地剪切视频和播客，无需重新编码视频（音频仍需要重新编码）。值得注意的是，使用 ffmpeg-cli 并不容易做到这一点，因此该应用程序不仅仅是 ffmpeg 的前端。它直接使用 libav (pyav)。 使用本地 AI 提供音频转录（目前使用 Faster-Whisper 进行转录，使用 Silero VAD 进行语音检测。降噪器模型即将推出（tm））。 允许混合多个轨道的音频并加载外部文件作为新轨道  当前状态：  该项目处于早期阶段，并且边缘相当粗糙。它是预发布版本，这意味着存在一些限制： 尚无简单的安装包；需要手动环境设置。 不支持 CUDA，仅基于 CPU 的处理。 音频处理方面存在一些技术问题。我了解到媒体导出很困难  该项目托管在 GitHub 上 https: //github.com/skeskinen/transcribing-video-cutter。请随意查看，如果您喜欢所看到的内容，请为其加注星标。 它已获得 MIT 许可，欢迎贡献。功能请求和反馈也是如此。我很想知道您是否有任何几乎受支持但需要额外功能的用例。   由   提交 /u/Lesser_Scholar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bshiqi/transcribing_video_cutter_open_source_video_and/</guid>
+      <pubDate>Sun, 31 Mar 2024 18:42:09 GMT</pubDate>
+    </item>
     <item>
       <title>企业 IT 中的开源支持方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交 /u/RedditAdminCeo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bram9h/firefly_mastodon_client_for_android_implemented/</guid>
       <pubDate>Sat, 30 Mar 2024 05:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sphereon Wallet：开源移动 SSI 钱包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1br50hy/sphereon_wallet_an_opensource_mobile_ssi_wallet/</link>
-      <description><![CDATA[在搜索开源数字钱包时偶然发现了这一点。看起来很整洁。 https://github.com/Sphereon-Opensource/mobile-wallet   由   提交/u/PitchyAndNotPerfect  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1br50hy/sphereon_wallet_an_opensource_mobile_ssi_wallet/</guid>
-      <pubDate>Sat, 30 Mar 2024 01:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Librum - 现代电子书阅读器（v.0.12.2 版本）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1br44nq/librum_a_modern_ebook_reader_v0122_release/</link>
-      <description><![CDATA[Librum 是一个现代、开源和跨平台的电子阅读平台，可在任何设备上存储、管理和阅读电子书：https://github.com/Librum-Reader/Librum。 我们刚刚发布了 0.12.2 版本（ https://github.com/Librum-Reader/Librum/releases/tag/v。 0.12.2）添加了许多新的更改，包括新功能、错误修复和重大改进。 实现我们的使命，让 Librum 成为满足您所有电子书需求的平台，我们已将工具添加到应用程序中。我们将在即将发布的版本中添加许多工具，但现在您可以： - 将多本书合并在一起 - 从书中提取页面 - 将图像转换为 PDF 我们引入了许多其他重大改进并修复了许多错误，以确保提供出色的体验！要了解我们的所有更改，请查看或博客 (https://librumreader.com/posts? id=81f2555b-efba-4656-be81-246bbcbfdb87)！ 如果您想支持Librum的开发，请访问https://librumreader.com/contribute 或考虑成为 Github 赞助商 ❤️   由   提交 /u/Creapermann   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1br44nq/librum_a_modern_ebook_reader_v0122_release/</guid>
-      <pubDate>Sat, 30 Mar 2024 00:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>配置文件验证器 v1.6.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1br0e2k/configfilevalidator_v160_released/</link>
-      <description><![CDATA[用于验证所有配置文件语法的跨平台工具。 此版本中的许多更改：  支持 11 种配置文件格式 按文件类型、通过/失败或目录对输出进行分组 将结果输出到 json 或 junit，以便更好地与 CI 工具集成  每个功能更改都是由开源贡献者做出的。感谢所有贡献者！ https://github.com /Boeing/config-file-validator/releases/tag/v1.6.0   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1br0e2k/configfilevalidator_v160_released/</guid>
-      <pubDate>Fri, 29 Mar 2024 21:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>社区知道哪些项目最初是封闭的或秘密开发的，但后来开源了？结果是成功了还是失败了？ （请参阅正文以了解后续问题）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</link>
-      <description><![CDATA[ 他们的开源策略是什么？他们是一次性完成还是分批完成？ 他们如何与开发人员沟通？他们使用论坛、IRC，还是只是在 PR 和问题跟踪器中讨论问题？    由   提交 /u/carrotcypher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bqykhb/what_projects_are_the_community_aware_of_that/</guid>
-      <pubDate>Fri, 29 Mar 2024 20:23:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
