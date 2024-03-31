@@ -4,7 +4,55 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 02:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 05:12:21 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] Bacon 是一个后台 Rust 代码检查器，与您的编辑器一起运行，通知您 [...]</title>
+      <link>https://t.me/hn_summary/82168</link>
+      <description><![CDATA[Bacon – 后台 Rust 代码检查器
+Bacon 是一个后台 Rust 代码检查器，与编辑器一起运行，以最少的交互通知您 Rust 代码中的错误、警告和测试失败。它通过在小终端窗口中显示信息来优化屏幕空间。它优先显示错误在警告之前，并且优先显示第一个错误在最后一个错误之前，以便于访问。 Bacon 无需记住命令，基本命令列在底部，按“h”键即可使用其他命令。用户可以在编码时配置和启动自定义作业，例如测试或特定编译。该工具提供方便的快捷方式和可自定义的设置，以实现无缝的编码体验。]]></description>
+      <guid>https://t.me/hn_summary/82168</guid>
+      <pubDate>Sun, 31 Mar 2024 05:12:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]中国伏特台风黑客，又名先锋熊猫等别名，已被蜜蜂[…]</title>
+      <link>https://t.me/hn_summary/82167</link>
+      <description><![CDATA[中国伏特台风黑客瞄准美国基础设施
+中国的 Volt Typhoon 黑客（也称为 Vanguard Panda 等别名）一直以美国关键基础设施为目标，引发了美国政府及其情报合作伙伴的警告。尽管中国否认，但该组织至少自 2021 年中期以来一直活跃，危害了全球数千台设备。他们使用恶意软件来利用互联网连接系统中的漏洞，对通信、能源和交通等部门构成重大威胁。美国和英国对参与这些攻击的中国黑客实施了制裁，强调了强有力的网络安全措施对组织和个人的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82167</guid>
+      <pubDate>Sun, 31 Mar 2024 04:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]维基百科将恶性循环或循环的概念作为一种自我强化的探索 [...]</title>
+      <link>https://t.me/hn_summary/82166</link>
+      <description><![CDATA[恶性循环
+维基百科将恶性循环的概念解释为一系列具有有害结果的自我强化事件。该反馈循环没有达到平衡的趋势，并且每次迭代都会强化前一次迭代。例子包括次贷危机和 COVID-19 大流行。另一方面，当结果是有益的时，就被称为良性循环。通过让所有利益相关者参与生态区管理，可以形成良性循环，改善生态环境。从经济学到生态学，恶性循环的概念在各种背景下都有讨论。]]></description>
+      <guid>https://t.me/hn_summary/82166</guid>
+      <pubDate>Sun, 31 Mar 2024 04:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 2024 年阿贝尔奖获得者米歇尔·塔拉格兰 (Michel Talagrand) 彻底改变了对 [...]</title>
+      <link>https://t.me/hn_summary/82165</link>
+      <description><![CDATA[理解宇宙随机性的数学家荣获数学最高奖
+2024 年阿贝尔奖获得者米歇尔·塔拉格兰德 (Michel Talagrand) 通过其关于随机系统的数学工作彻底改变了对宇宙随机性的理解。他的方法为不可预测的变量提供了精确的估计，在各个领域提供了实际应用。塔拉格兰德令人惊讶地证明了一个被认为无法用纯数学解决的物理问题，这展示了他在个人奋斗中的奉献精神和韧性。他在逆境中磨练出来的数学方法为他赢得了享有声望的奖项和 70 万美元的奖金。塔拉格兰德的作品不仅阐明了宇宙的随机性，还强调了隐藏在看似混沌系统中的可预测性。]]></description>
+      <guid>https://t.me/hn_summary/82165</guid>
+      <pubDate>Sun, 31 Mar 2024 04:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]越来越多的美国人发现自己被关进俄罗斯监狱，美国监狱</title>
+      <link>https://t.me/hn_summary/82164</link>
+      <description><![CDATA[越来越多的美国人最终被关进俄罗斯监狱 
+越来越多的美国人发现自己被关进俄罗斯监狱，记者埃文·格什科维奇和企业安全主管保罗·惠兰等美国公民面临间谍指控。美国政府宣布他们被错误拘留，并主张释放他们。囚犯交换过去曾取得成功，WNBA 球星布里特尼·格里纳 (Brittney Griner) 和海军陆战队老兵特雷弗·里德 (Trevor Reed) 等知名人士交换了俄罗斯囚犯。然而，释放在俄罗斯关押的其他美国人的谈判仍不确定，例如音乐家特拉维斯·利克和教师马克·福格尔。这些人的命运最终掌握在俄罗斯总统弗拉基米尔·普京手中。]]></description>
+      <guid>https://t.me/hn_summary/82164</guid>
+      <pubDate>Sun, 31 Mar 2024 03:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员发现，XZ 后门的二进制有效负载中可能嵌入了一个终止开关。</title>
+      <link>https://t.me/hn_summary/82163</link>
+      <description><![CDATA[XZ 后门可能有终止开关和缓解措施
+研究人员发现，XZ 后门的二进制有效负载中可能嵌入了一个终止开关。该终止开关可以通过特定字符串激活，为受影响的系统提供潜在的缓解策略。争议首先在于后门的存在，引发了人们对安全漏洞的担忧。令人惊讶的是，找到了一种巧妙的解决方法，使用终止开关来潜在地保护系统免受利用。随时了解情况并采取必要的预防措施来保护您的数据和系统。]]></description>
+      <guid>https://t.me/hn_summary/82163</guid>
+      <pubDate>Sun, 31 Mar 2024 03:18:34 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]流处理已经发展了数十年，2020 年代标志着显着增长 [...]</title>
       <link>https://t.me/hn_summary/82162</link>
@@ -36,54 +84,6 @@
 隆重推出 Kallo，这是一款创新协作工具，可让您利用 AI 的力量进行有意义的协作。借助 Kallo，您可以立即从您的个人文档和资源库中获取主题专业知识。邀请您的团队进行多用户协作，并利用 OpenAI、Anthropic 和 Mistral 的最佳 AI 模型来生成见解并找到答案。免费开始并彻底改变您的合作方式。 Kallo 是人工智能协作工具领域的游戏规则改变者，为希望更智能而不是更辛苦地工作的团队提供独特而强大的解决方案。]]></description>
       <guid>https://t.me/hn_summary/82159</guid>
       <pubDate>Sun, 31 Mar 2024 02:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>威廉姆斯赛车队在一级方程式赛车中的衰落被归因于 Microsoft Excel 的巨大热潮 [...]</title>
-      <link>https://t.me/hn_summary/82158</link>
-      <description><![CDATA[来自地狱的 Microsoft Excel 电子表格使威廉姆斯的 F1 赛车减慢了多年&lt; /a&gt;
-威廉姆斯赛车队在一级方程式赛车中的衰落归因于一个巨大的 Microsoft Excel 电子表格，该电子表格多年来阻碍了汽车开发。车队负责人 James Vowles 透露了车队内部流程效率低下的问题，杂乱无章的零件管理系统导致了延误和效率低下。 Excel 电子表格包含 20,000 个零件，缺乏关键的物流信息，导致生产人员很难找到必要的零件。这种过时的系统导致季前测试的延迟和升级成本的增加。 Williams 目前正在进行技术改革以提高竞争力，但 Excel 电子表格的遗留问题仍然存在。]]></description>
-      <guid>https://t.me/hn_summary/82158</guid>
-      <pubDate>Sun, 31 Mar 2024 02:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 fin.Flights 一起踏上无限旅行可能的旅程，这是搜索 [...]</title>
-      <link>https://t.me/hn_summary/82157</link>
-      <description><![CDATA[显示 HN：Fin.Flights – 搜索航班的最快方式GPT
-使用 fin.Flights 踏上无限旅行可能的旅程，这是由 GPT 提供支持的搜索航班的最快方式。为两名成人和一名婴儿查找从 肯尼迪国际机场 飞往 LHR 最快捷的航班，或者为五口之家搜索从 巴黎 飞往 东京 最便宜的单程航班。预订从 洛杉矶 飞往 悉尼 的商务舱往返航班，或者查找从 纽约市 飞往 伦敦 的航班，且日期灵活。探索阿联酋航空运营的 伦敦 飞往 迪拜 的航班，或查找从 罗马 飞往 巴塞罗那 最后一分钟的最佳优惠。显示 HN：Fin.Flights 是满足您所有航班搜索需求的一站式商店。]]></description>
-      <guid>https://t.me/hn_summary/82157</guid>
-      <pubDate>Sun, 31 Mar 2024 02:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 Signmeup.ai，这是一款革命性工具，可让您收集电子邮件并创建 [...]</title>
-      <link>https://t.me/hn_summary/82156</link>
-      <description><![CDATA[显示 HN：Signmeup.ai – 几秒钟内即可收集电子邮件和注册页面
-隆重推出 Signmeup.ai，一款可让您收集电子邮件的革命性工具并在几秒钟内创建注册页面。告别手动收集联系信息的麻烦，轻松简化您的注册流程。借助 Signmeup.ai，建立联系从未如此简单。立即访问我们的网站即可开始并亲自体验其中的差异。]]></description>
-      <guid>https://t.me/hn_summary/82156</guid>
-      <pubDate>Sun, 31 Mar 2024 02:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]滚轮船是一种独特的航海奇物，其设计目的是减少阻力并增加速度 [...]</title>
-      <link>https://t.me/hn_summary/82155</link>
-      <description><![CDATA[滚轮船并不是穿越公海的有效方式&lt; /a&gt;
-滚轮船是一种独特的航海奇物，其设计目的是通过使用大型滚轮将船体的大部分升出水面来减少阻力并提高速度。然而，法国发明家欧内斯特·巴赞 (Ernest Bazin) 于 1896 年建造的唯一一艘滚轮船被证明不适合航海且不切实际。尽管尝试改进设计，但由于旋转滚轮产生的阻力，滚轮船甚至难以达到每小时十几英里。最终，滚轮船的概念在机械上很复杂，并且与传统的船舶设计相比没有提供任何真正的好处。尽管失败了，这艘滚轮船还是吸引了许多人的想象力，并且仍然是非常规设计的一个令人着迷的例子。]]></description>
-      <guid>https://t.me/hn_summary/82155</guid>
-      <pubDate>Sun, 31 Mar 2024 02:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目“rust-s3-async-ffi”演示了如何在 C 中异步流式传输 AWS S3 对象 [...]</title>
-      <link>https://t.me/hn_summary/82154</link>
-      <description><![CDATA[显示 HN：在 C 和 中使用异步 Rust 运行时的实际示例C++
-项目“rust-s3-async-ffi”演示了如何使用 Rust crate rust-s3 和 Unix 域套接字以 C 和 C++ 异步流式传输 AWS S3 对象。它生成一个可以链接到 C 或 C++ 代码的 C 动态库。该项目的与众不同之处在于，它产生了由连接的 Unix 套接字驱动的异步任务，从而可以有效地处理 S3 对象。测试可以通过 Rust 单元测试或使用 boost::asio 构建 C++ 程序来完成。测试需要正确配置bucket.toml或bucket.ini等文件，并且该项目支持使用Localstack或其他AWS S3模拟器进行测试。]]></description>
-      <guid>https://t.me/hn_summary/82154</guid>
-      <pubDate>Sun, 31 Mar 2024 01:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在令人震惊的事件中，OpenAI 175 美元的 mi 的负责人似乎 [...]</title>
-      <link>https://t.me/hn_summary/82153</link>
-      <description><![CDATA[负责 OpenAI 1.75 亿美元基金的人似乎是假的
-令人震惊的是，OpenAI 1.75 亿美元基金的负责人 Jacob Vespers 似乎根本不存在。据 OpenAI 称，向加州国务卿提交的任命 Vespers 的文件“完全是捏造的”。这场争议让许多人想知道人工智能行业究竟发生了什么。 OpenAI 现任首席执行官萨姆·奥尔特曼 (Sam Altman) 目前负责管理该基金，这引发了人们对前任管理层合法性的质疑。由于这种欺骗背后的动机尚不清楚，人们对这个精心设计的计划背后的真实意图有很多猜测。这是经济犯罪、恶作剧，还是更险恶的事情？真相尚不明朗。]]></description>
-      <guid>https://t.me/hn_summary/82153</guid>
-      <pubDate>Sun, 31 Mar 2024 01:53:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
