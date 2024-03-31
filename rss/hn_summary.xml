@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 15:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 00:36:42 GMT</lastBuildDate>
     <item>
-      <title>标题：询问 HN：如何确保网站公开发布的安全</title>
-      <link>https://t.me/hn_summary/82068</link>
-      <description><![CDATA[询问 HN：如何确保网站公开发布的安全 
-标题：询问 HN：如何确保网站公开发布
+      <title>[媒体]在制作相机的过程中，阳光对PCB的影响是意想不到的[...]</title>
+      <link>https://t.me/hn_summary/82139</link>
+      <description><![CDATA[阳光对摄像头 PCB 的影响
+在制作相机的过程中，阳光对 PCB 的影响出乎意料地令人着迷。当从肯塔基州的原型机传输图像时，阳光在 PCB 上显示出神秘的痕迹，这些痕迹原来是图像传感器背面的 BGA 电路。这种现象对紫外线很敏感，甚至在打开窗户的环境紫外线下也会发生。在圣何塞，阳光导致原型出现故障，特别是影响芯片级封装的组件。这种对阳光的独特敏感性使 Photon 成为出色的阳光探测器，凸显了相机设计中适当外壳材料的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82139</guid>
+      <pubDate>Sun, 31 Mar 2024 00:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>问HN：为什么没有杂牌喷墨打印机？</title>
+      <link>https://t.me/hn_summary/82138</link>
+      <description><![CDATA[问HN：为什么没有杂牌喷墨打印机？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者是质疑为什么市场上没有可以与廉价品牌产品竞争的杂牌喷墨打印机。用户对主要制造商计划淘汰的喷墨打印机以及更换打印机头等组件的高成本表示失望。欧盟对此作出了回应，颁布了可维修性强制令，但作者指出，备件可能仍然有固定的有效期。这篇文章提出了这样一个问题：是否存在 DIY 或“亚洲克隆”的喷墨打印机，可以为主要供应商提供更实惠、更可持续的替代品。]]></description>
+      <guid>https://t.me/hn_summary/82138</guid>
+      <pubDate>Sun, 31 Mar 2024 00:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 1995 年，萨尔瓦多的故意杀人率是世界上最高的，每人 139 起。</title>
+      <link>https://t.me/hn_summary/82137</link>
+      <description><![CDATA[萨尔瓦多注意事项
+1995年，萨尔瓦多的故意杀人案发生率是世界上最高的，为每10万人中有139起，但在纳伊布·布克莱总统的领导下奇迹般地扭转局面，到2023年，该比率下降至每10万人中有2.4起。布克莱的反犯罪打击行动被誉为“全球故意杀人案之一”。现代历史上最成功的人之一。该国的历史充满了内乱、军事独裁和持续十多年的残酷内战。在这部对萨尔瓦多过去和现在的全面概述中，还探讨了萨尔瓦多帮派的崛起及其对美国（尤其是洛杉矶）的影响。 （根据故事文本的 7% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82137</guid>
+      <pubDate>Sun, 31 Mar 2024 00:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我最近从 eBay 购买了一块老式 8086 芯片进行逆向工程，结果发现 [...]</title>
+      <link>https://t.me/hn_summary/82136</link>
+      <description><![CDATA[假冒 8086 处理器
+我最近在 eBay 上购买了一块老式 8086 芯片进行逆向工程，结果发现这是一块被重新标记为 8086 的假冒芯片。该假冒芯片原来是 Uncommissed Logic Array，一种门阵列，与正品完全不同8086处理器。该假冒芯片的双极晶体管数量不到 1000 个，远少于真正的 8086 中的 29,000 个 MOS 晶体管。这一发现凸显了半导体假冒的风险以及购买芯片时谨慎的重要性。请在 Twitter 上关注我：@kenshirriff，了解有关对真实 8086 进行逆向工程的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/82136</guid>
+      <pubDate>Sun, 31 Mar 2024 00:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在“失败综合症”中，作者探讨了管理者如何经常责怪员工[...]</title>
+      <link>https://t.me/hn_summary/82135</link>
+      <description><![CDATA[准备失败综合症 (1998)
+在《失败综合症》一书中，作者探讨了管理者如何经常将绩效不佳归咎于员工，而不是审视自己在这种情况下的角色。这种心态可能会导致有毒的工作环境，让员工注定会失败。这篇文章要求管理者对自己在员工绩效问题中所扮演的角色承担责任，而不是仅仅将责任归咎于员工。这篇发人深省的文章最初发表在 1998 年的《哈佛商业评论》上，揭示了一个在当今工作场所仍然具有争议性的话题。]]></description>
+      <guid>https://t.me/hn_summary/82135</guid>
+      <pubDate>Sat, 30 Mar 2024 23:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>疫苗投资是理所当然的事——那我们为什么不这样做呢？</title>
+      <link>https://t.me/hn_summary/82134</link>
+      <description><![CDATA[疫苗投资是理所当然的 – 那么我们为什么不呢做吗？
+投资疫苗是理所当然的事，但许多人没有利用这个机会。疫苗投资具有拯救生命和预防疾病传播的潜力，其好处是显而易见的。尽管如此，这方面似乎缺乏行动。利用我们的限时优惠，在任何设备上以标准数字方式访问优质 FT 新闻可节省高达 40% 的费用。不要错过这个了解情况并为全球健康做出贡献的机会。]]></description>
+      <guid>https://t.me/hn_summary/82134</guid>
+      <pubDate>Sat, 30 Mar 2024 23:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。</title>
+      <link>https://t.me/hn_summary/82133</link>
+      <description><![CDATA[爱尔兰房地产泡沫为何破裂
+2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。爱尔兰建造过多房屋的神话已被揭穿，2011 年只有 10% 的房屋空置。泡沫不是由自由放任政策造成的，而是由农村地区的税收优惠政策造成的。建筑率和价格之间的相关性并不能反驳供求规律，因为信贷条件在推动价格上涨方面发挥了至关重要的作用。理解这些误区对于防止将来犯同样的错误至关重要。 （根据 57% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82133</guid>
+      <pubDate>Sat, 30 Mar 2024 23:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]震颤性谵妄是由酒精戒断引起的快速发作的精神错乱，伴有症状 [...]</title>
+      <link>https://t.me/hn_summary/82132</link>
+      <description><![CDATA[震颤性谵妄
+震颤性谵妄是由酒精戒断引起的一种快速发作的精神错乱，症状包括颤抖、幻觉和心率不齐。如果不及时治疗，可能会致命，死亡率为 15% 至 40%。治疗包括苯二氮卓类药物和硫胺素，预防包括逐渐减少饮酒。震颤性谵妄在有大量饮酒和酗酒史的人中最常见。马克·吐温和约瑟夫·康拉德等作家在文学作品中描述了这种情况。 “谵妄”这个名字来自拉丁语，意思是“走出犁沟”。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82132</guid>
+      <pubDate>Sat, 30 Mar 2024 23:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：加拿大的枫糖浆储备几乎空了</title>
+      <link>https://t.me/hn_summary/82131</link>
+      <description><![CDATA[加拿大的枫糖浆储备几乎空了
+标题：加拿大的枫糖浆储备几乎空了
 
-希望推出具有 Google 地图 API 功能但担心安全性的网站？加入 Hacker News 上的讨论，作为一名开发人员从本地主机项目飞跃到上线。在寻求有关保护用户输入和管理恶意行为者的建议时，他们想知道第三方服务或从头开始学习是否是最好的方法。分享您的专业知识并帮助他们应对启动安全前端和后端网站的复杂性。加入对话并为社区的集体知识做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/82068</guid>
-      <pubDate>Sat, 30 Mar 2024 15:09:22 GMT</pubDate>
+摘要：加拿大的枫糖浆储备对于满足全球需求至关重要，但由于收获季节不佳，枫糖浆储备几乎耗尽。短缺导致价格上涨，并引发人们对枫糖浆行业影响的担忧。争议在于对生产者和消费者的潜在经济影响。这种意外的短缺凸显了枫糖浆供应链的脆弱性，以及需要更好的管理策略以确保未来市场的稳定。]]></description>
+      <guid>https://t.me/hn_summary/82131</guid>
+      <pubDate>Sat, 30 Mar 2024 23:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在美国，每 13 座桥梁就有 1 座状况“较差”，有 46,000 座桥梁面临风险 [...]</title>
-      <link>https://t.me/hn_summary/82067</link>
-      <description><![CDATA[美国每 13 座桥梁就有 1 座处于“较差”状态&lt; /a&gt;
-在美国，每 13 座桥梁就有 1 座状况“较差”，其中 46,000 座桥梁面临着一次撞击而倒塌的风险。巴尔的摩弗朗西斯·斯科特大桥最近的倒塌凸显了老化的基础设施在极端天气事件、重型卡车和大型集装箱船碰撞面前的脆弱性。虽然有结构缺陷的桥梁数量有所减少，但改善支出的速度却有所放缓，预计维修积压金额为 1,250 亿美元。 2021 年通过的耗资 1.2 万亿美元的联邦基础设施法可能有助于解决其中一些问题，但需要采取紧急行动来保护桥梁免受现代船舶的侵害。]]></description>
-      <guid>https://t.me/hn_summary/82067</guid>
-      <pubDate>Sat, 30 Mar 2024 15:04:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在“基本事项”中，作者分享了项目组织的关键原则，这些原则至关重要 [...]</title>
-      <link>https://t.me/hn_summary/82066</link>
-      <description><![CDATA[基本内容
-在“基本事项”中，作者分享了项目组织的关键原则，这些原则对于项目增长时的生产力至关重要。他们强调从一开始就拥有简洁的自述文件、结构化的开发人员文档和用户友好的网站的重要性。作者还讨论了自动化检查和可靠测试对于维护代码质量的重要性。引入的一个独特概念是代码审查过程的“非火箭科学规则”。本文强调了构建系统的简单性、可重复性和一致性的价值。总的来说，这些内容为开发人员提供了实用的见解，以简化他们的工作流程并提高项目效率。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82066</guid>
-      <pubDate>Sat, 30 Mar 2024 14:55:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：有人在工作中使用 Htmx 吗？</title>
-      <link>https://t.me/hn_summary/82065</link>
-      <description><![CDATA[询问 HN：有人在工作中使用 Htmx 吗？ 
-我最近在阅读 Hypermedia.systems 书并进行测试后开始探索 Htmx这是在一个小项目上完成的，我对此印象深刻。我很想知道是否有公司已经在工作中使用它，或者它是否只是一个业余项目工具。您是否遇到过 Htmx 的任何实际应用，或者您认为它有潜力在未来得到更广泛的采用？在此主题上与我分享您的想法和经验。]]></description>
-      <guid>https://t.me/hn_summary/82065</guid>
-      <pubDate>Sat, 30 Mar 2024 14:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]一只名叫罗斯科的机器人警犬，隶属于马萨诸塞州警察拆弹小组，[...]</title>
-      <link>https://t.me/hn_summary/82064</link>
-      <description><![CDATA[机器人警犬射杀，避免流血事件&lt; br/&gt;
-一只名叫罗斯科的机器人警犬是马萨诸塞州警察拆弹小组的成员，它被认为避免了巴恩斯特布尔的一场悲剧。这只狗被部署到一所房子里，一名嫌疑人被封锁并配备了步枪。尽管身中三枪并致残，罗斯科仍提供了关键的房间清理和态势感知能力，避免了人类操作员进入危险的情况。机器狗背后的公司波士顿动力公司表示，这是他们的机器人第一次被枪击。该事件突显了 Spot 等移动机器人在危险情况下拯救生命的潜力。]]></description>
-      <guid>https://t.me/hn_summary/82064</guid>
-      <pubDate>Sat, 30 Mar 2024 14:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 REA 集团的 David Kemp 最近的一次演讲中，处理大型 nu [...]</title>
-      <link>https://t.me/hn_summary/82063</link>
-      <description><![CDATA[我的笔记本电脑比您的 Elastic 集群更快
-在 REA Group 的 David Kemp 最近的一次演示中，实现了在 realestate.com.au。使用弹性集群来存储属性并匹配已保存的搜索，该过程涉及将 5M 个已保存的搜索与 5K 个新属性进行匹配。令人惊讶的是，一台具有基本代码和优化的笔记本电脑仅使用 2GB RAM，就能在 6 秒内匹配所有属性。这种性能为执行类似任务提供了可能性，而无需专用集群，展示了现代计算机的速度和效率。]]></description>
-      <guid>https://t.me/hn_summary/82063</guid>
-      <pubDate>Sat, 30 Mar 2024 14:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]令人惊讶的是，最近的研究表明无效的 SMILES（简化的 Molecu [...]</title>
-      <link>https://t.me/hn_summary/82062</link>
-      <description><![CDATA[无效的 SMILES 对化学语言模型有益而不是有害
-令人惊讶的是，最近的研究表明，无效的 SMILES（简化分子输入线输入系统）实际上对化学语言模型是有益的，而不是有害的。这一有争议的发现挑战了传统假设，并为探索化学空间开辟了新的可能性。通过利用生成人工智能和片上合成，研究人员现在能够以前所未有的速度和准确性设计新型药物化合物。这种创新方法将分子结构和生物活性与化学语言模型相结合，正在彻底改变从头药物设计领域。请继续关注这一前沿研究领域令人兴奋的进展。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82062</guid>
-      <pubDate>Sat, 30 Mar 2024 14:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>日食什么时候发生？</title>
-      <link>https://t.me/hn_summary/82061</link>
-      <description><![CDATA[日食什么时候发生？千年计算的故事
-2024 年 4 月 8 日，美国各地将可见日全食，但预测确切时间是科学的胜利。从古代巴比伦观测到现代 Wolfram 语言，计算日食的能力不断发展。 2000年前的Antikythera装置甚至尝试使用金属齿轮来预测日食。日食的罕见性是由于月球的倾斜轨道以及与黄道面的对齐。通过研究古代记录和默冬周期等周期，天文学家已经能够以越来越高的精度预测数千年来的日食。 （根据故事文本的 18% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82061</guid>
-      <pubDate>Sat, 30 Mar 2024 14:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这篇 2008 年的文章中，苏珊娜·维加 (Suzanne Vega) 反思了她的热门歌曲《汤姆的晚餐》(Tom's Diner) 的创作和影响。</title>
-      <link>https://t.me/hn_summary/82060</link>
-      <description><![CDATA[汤姆的随笔 (2008)
-在这篇 2008 年的文章中，苏珊娜·维加 (Suzanne Vega) 反思了她的热门歌曲《汤姆的晚餐》(Tom&#39;s Diner) 的创作和影响。她讨论了这首歌背后的灵感、她现场表演这首歌的经历，以及让这首歌重新回到聚光灯下的意想不到的混音。 Vega 还分享了有关她的家庭与技术的关系以及她女儿早期熟练掌握 HTML 的轶事。通过个人故事和反思，她阐明了《汤姆的晚餐》的不朽遗产及其在音乐和技术世界中的地位。 （根据 35% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82060</guid>
-      <pubDate>Sat, 30 Mar 2024 14:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国联邦上诉法院推翻了塑料容器污染禁令 [...]</title>
-      <link>https://t.me/hn_summary/82059</link>
-      <description><![CDATA[美国上诉法院撤销对受 PFAS 污染的塑料容器的禁令
-美国一家联邦上诉法院推翻了对受有毒 PFAS 化学品污染的塑料容器的禁令，尽管这些“永久化学品”存在已知的健康风险。法院裁定，美国环保局无法根据所使用的法规对容器进行监管，因为制造工艺并不被认为是新的。这一决定是针对 Inhance 制造工艺长达四年的法律诉讼的一部分，该制造工艺已被发现将 PFAS 渗入产品中。美国环保署正在审查该决定，诉讼正在进行中，最高法院可能会介入。争议在于法院将经济影响置于健康风险之上的决定。]]></description>
-      <guid>https://t.me/hn_summary/82059</guid>
-      <pubDate>Sat, 30 Mar 2024 14:11:42 GMT</pubDate>
+      <title>[媒体] 认识三个以独特方式感知世界的人。</title>
+      <link>https://t.me/hn_summary/82130</link>
+      <description><![CDATA[认识三个可能与您看待世界不同的人
+认识三个以独特方式感知世界的人。梅根·西姆斯 (Meagan Sims) 是一位患有色盲的艺术家，她看到的一切都是灰色的。尽管如此，她还是找到了一种通过艺术用她看不到的颜色来表达自己的方法。康塞塔·安蒂科（Concetta Antico）是一名四色视者，声称能看到我们大多数人无法感知的数千种颜色。尽管像杂货店购物这样的日常任务可能会让人难以承受，但她的超凡视野使她成为了一名成功的艺术家。凯特琳·霍瓦 (Kaitlyn Hova) 是一位具有联觉的音乐家，当她听到声音时，她会看到颜色和形状。她利用自己独特的能力将音乐、神经科学和编码融入到她的职业生涯中。]]></description>
+      <guid>https://t.me/hn_summary/82130</guid>
+      <pubDate>Sat, 30 Mar 2024 23:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
