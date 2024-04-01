@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 31 Mar 2024 21:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:55:30 GMT</lastBuildDate>
     <item>
-      <title>寻找项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bskmyy/looking_for_project/</link>
-      <description><![CDATA[大家好， 我正在尝试构建一个开源眼动追踪器，它可以带来网络摄像头驱动的眼动追踪面向更广泛的公众，无需订阅或昂贵的硬件。  我们的存储库得到了一些关注，我正在寻找更多的帮助、一些促销，甚至是希望通过提供反馈或为该项目加星来支持我们的人！就像 Apple Vision Pro 所展示的那样，眼动追踪对于界面来说非常有用，我认为作为一个开源项目，它可能会更受欢迎、更值得信赖，同时也能让有需要的人更容易使用眼动追踪界面。  我们非常愿意与网站创建者、想要使用视觉驱动界面的人、或者想要为核心项​​目做出贡献甚至加入团队的人合作！  如果您不是其中任何一个，那么请随意过来打个招呼。如果您想贡献，但认为自己没有技能，请给我留言；任何一双手都是金子！  仓库： - https://github.com/NativeSensors/EyeGestures  演示： - https://eyegestures.com - https://eyegestures.com/cinema - https://eyegestures.com/game  - https://eyegestures.com/restaurant    由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bskmyy/looking_for_project/</guid>
-      <pubDate>Sun, 31 Mar 2024 20:54:01 GMT</pubDate>
+      <title>我的许可证足够开源吗？ 【欢迎mod们讨论】</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bsnl8q/is_my_license_opensource_enough_mods_are_welcome/</link>
+      <description><![CDATA[嘿， 我正在构建项目，并试图使其能够自我维持，但也免费提供给所有可能需要它的人，因此我想鼓励公司购买商业类型的许可证，但不阻止他们使用“免费许可证”将我的软件嵌入到他们的商业产品中。只要免费提供功能即可？ 你能称该项目为开源项目吗？或者它不符合本子中的严格定义？ 我问，因为最近我试图在这里发帖，因为我正在寻找贡献者，也许有人想跳上船。但由于“不开源”而被删除链接“什么是开源”。 我的所有源代码都是开放且可访问的，您可以使用开源存储库构建项目，将其用作其他项目中的库等。所以我猜唯一有问题的事情，是我的许可证。这禁止商业运营（它仍然是 WiP），说实话，我也发现它很不稳定，所以我正在尝试构建超级简单且易于访问的许可证，但不鼓励大玩家将我的软件置于付费墙后面，但是如果他们愿意的话无论如何都要这样做，那么至少要求他们支持该项目。 我可以免费提供我的整个软件作为经典开源软件，但说实话，OSS 面临着很多问题，缺乏对贡献者的激励，由于维护者失去利益而锁定项目，并且从不将回购协议或技术转让给其他人。另一方面，看到 OSS 项目通过更大的参与者的自我维持收入（以及商业许可）运作，但仍然允许人们检查/分叉/构建免费应用程序，在我看来，这听起来是更合理的方法。 &lt; p&gt;所以我想知道您对什么可以被归类为 OSS 有何看法？它只是传统的吗：免费构建，大家都可以“按原样”使用它，或者也许我们应该努力包括这样的项目：“你可以免费使用它，但如果你是大企业并且想要做从我身上掏钱，然后请分享”？我想看看你的意见。 PS：我认为第二种方法更健康，到目前为止我还认为这也是开源的，但我很快就受到了 mod 的教育。&lt; /p&gt;   由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bsnl8q/is_my_license_opensource_enough_mods_are_welcome/</guid>
+      <pubDate>Sun, 31 Mar 2024 22:55:59 GMT</pubDate>
     </item>
     <item>
       <title>SaveHere：最小云文件管理器</title>
