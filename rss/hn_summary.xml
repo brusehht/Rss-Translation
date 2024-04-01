@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:14:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Redis 分叉之战？</title>
-      <link>https://t.me/hn_summary/82349</link>
-      <description><![CDATA[Redis 分叉之战？
-Redis 最近做出了有争议的决定，转向更具限制性的双许可证，在贡献者社区中造成了混乱。这一举措导致了多个新分叉的创建，其中一个由 AWS 的 Madelyn Olson 领导，另一个由软件开发人员 Drew DeVault 领导。 Olson 的分叉旨在延续许可证变更之前的社区路线图，而 DeVault 的独立分叉 Redict 则专注于建立一个独立于专有基础设施的真正开源社区。在 AWS 和阿里云等主要参与者的潜在支持下，Redis 的重大分叉可能即将出现。请继续关注进一步的进展。]]></description>
-      <guid>https://t.me/hn_summary/82349</guid>
-      <pubDate>Mon, 01 Apr 2024 15:12:17 GMT</pubDate>
+      <title>在最近的人工智能故事中，一位安全研究人员发现人工智能编写的源代码来自大型 [...]</title>
+      <link>https://t.me/hn_summary/82383</link>
+      <description><![CDATA[人类对科里·多克托罗并不是完全保持警惕
+在最近的一个人工智能故事中，一名安全研究人员发现，来自大公司的人工智能编写的源代码反复引用了一个不存在的库，导致创建了一个恶意库，成千上万的开发人员在不知不觉中将其合并到他们的代码中。这凸显了人工智能“幻觉”的问题，即模型仅给出理解的幻觉，使它们不适合高风险任务。关于更多的训练数据是否可以减少这些幻觉的争论仍在继续，但人工智能擅长的大量低价值任务正以机器人生成的内容压倒互联网。 “人类参与循环”的概念作为解决方案引发了人们对自动化失明和反向半人马主义的可能性的担忧，在这种情况下，人类必须对人工智能生成的内容保持高度警惕。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82383</guid>
+      <pubDate>Mon, 01 Apr 2024 18:14:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Postgres vs.</title>
-      <link>https://t.me/hn_summary/82348</link>
-      <description><![CDATA[Postgres 与文件系统：性能比较（2022 年）
-在 2022 年 Postgres 与各种文件系统的性能比较中，结果显示，虽然 ZFS 在只读测试中落后，但在读写测试中表现良好，行为一致。 EXT4 和 XFS 在总吞吐量方面成为明显的赢家，但 ZFS 因其最小的抖动和灵活性而脱颖而出。另一方面，BTRFS 在吞吐量和抖动方面表现不佳，使其不太适合数据库。该研究强调了在评估性能指标时考虑系统稳定性和随时间演变的重要性。最终，文件系统的选择取决于数据库系统的具体工作负载和要求。]]></description>
-      <guid>https://t.me/hn_summary/82348</guid>
-      <pubDate>Mon, 01 Apr 2024 15:09:12 GMT</pubDate>
+      <title>[媒体]特朗普媒体，与前总统唐纳德特朗普密切相关的社交媒体应用程序，报道[...]</title>
+      <link>https://t.me/hn_summary/82382</link>
+      <description><![CDATA[Trump Media 在公司报告净亏损 58 美元后暴跌超过 25%万元
+与前总统唐纳德·特朗普关系密切的社交媒体应用程序 Trump Media 报告称，2023 年净亏损 5820 万美元，营收仅为 410 万美元，导致其股价暴跌超过 25%。尽管有所下降，该公司的市值仍超过 68 亿美元。特朗普媒体警告称，未来将持续出现经营亏损，并在其财务报告中披露了“重大缺陷”。特朗普拥有该公司57.3%的股份，价值超过40亿美元。该公司的高估值部分归因于特朗普的政治支持者购买股票，为公司带来了独特的风险。]]></description>
+      <guid>https://t.me/hn_summary/82382</guid>
+      <pubDate>Mon, 01 Apr 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在他们对哈瓦那综合症为期五年的调查的最新一期中，60 Mi [...]</title>
-      <link>https://t.me/hn_summary/82347</link>
-      <description><![CDATA[哈瓦那综合症调查发现新证据
-在哈瓦那综合症五年调查的最新一期中，《60 分钟》发现了新的证据，将格鲁吉亚第比利斯的袭击与俄罗斯绝密情报单位 29155 单位联系起来。调查记者克里斯托·格罗泽夫 (Christo Grozev) 发现了一份将该单位与声能联系起来的文件武器测试。该部队指挥官阿尔伯特·阿韦扬诺夫的儿子因第比利斯发生的事件正在接受调查。尽管有这些发现，但关于这些攻击的幕后黑手仍然存在疑问。中央情报局和国家情报总监对外国对手蓄意袭击的理论表示怀疑，导致哈瓦那综合症之谜仍未解开。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82347</guid>
-      <pubDate>Mon, 01 Apr 2024 15:08:08 GMT</pubDate>
+      <title>[媒体] 隆重推出 Joystick，这是一个全栈 JavaScript 框架，可简化内部构建 [...]</title>
+      <link>https://t.me/hn_summary/82381</link>
+      <description><![CDATA[展示 HN：操纵杆 – 全栈 JavaScript 框架
+隆重推出 Joystick，这是一个全栈 JavaScript 框架，可简化交互式 Web 应用程序的构建。使用操纵杆，您可以使用干净简洁的语法轻松创建商店和购物车等组件。该框架允许无缝状态管理和事件处理，使其成为动态 Web 开发的理想选择。 Joystick 的独特之处在于其全局状态管理，可以实现跨组件的实时更新。潜入操纵杆的世界，彻底改变您的 Web 开发体验。请查看 cheatcode.co 了解更多信息。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/82381</guid>
+      <pubDate>Mon, 01 Apr 2024 17:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者分享了他们使用 Raspberry Pi 5 作为台式电脑的经验，重点 [...]</title>
-      <link>https://t.me/hn_summary/82346</link>
-      <description><![CDATA[有人用亚马逊迷你台式机更换 Pi 5 时学到了什么
-作者分享了他们使用 Raspberry Pi 5 作为台式电脑的经验，强调了性能限制和软件生态系统挑战。他们探索了亚马逊和全球速卖通上销售的 200 美元以下迷你台式电脑的选择，并指出其价格规格令人惊讶。本文深入探讨了英特尔低端处理器的改进，特别是 E 核，它为浏览和办公提供了不错的性能。作者将这些处理器与较旧的奔腾和赛扬芯片进行了比较，展示了它们的效率和速度。总体而言，本文提供了有关 Raspberry Pi 之外的经济型台式电脑选项的宝贵见解。]]></description>
-      <guid>https://t.me/hn_summary/82346</guid>
-      <pubDate>Mon, 01 Apr 2024 15:03:02 GMT</pubDate>
+      <title>[媒体] xz 包后门在科技界引起轰动，但这仅仅是开始。</title>
+      <link>https://t.me/hn_summary/82380</link>
+      <description><![CDATA[`xz`包后门只是冰山一角&lt; /a&gt;
+xz 软件包后门在科技界引起了轰动，但这仅仅是开始。这一有争议的发现揭示了其他软件包中潜伏的潜在漏洞。这个后门的影响是深远的，并为软件开发过程中网络安全的重要性敲响了警钟。请继续关注，我们将进一步了解这个问题以及它对包管理的未来意味着什么。不要错过这个令人大开眼界的启示，它可能会改变我们处理软件安全的方式。]]></description>
+      <guid>https://t.me/hn_summary/82380</guid>
+      <pubDate>Mon, 01 Apr 2024 17:47:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]自1989年以来，每年愚人节，互联网RFC编辑都会发布幽默的Requ [...]</title>
-      <link>https://t.me/hn_summary/82345</link>
-      <description><![CDATA[愚人节征求意见
-自 1989 年以来的每个愚人节，互联网 RFC 编辑都会发布幽默的征求意见 (RFC) 文件，其灵感来自对 Lewis Carroll 的“Jabberwocky”的戏仿。这些 RFC 包括通过信鸽传输 IP 数据包、在 IPv4 中实现邪恶位以及使用 Unicode 表示 IPv6 地址等建议。一些 RFC（例如涉及到达圣诞老人的复杂地址的 RFC）采用数学方法，而其他 RFC 则侧重于实际解决方案，例如通过空中路由数据包实现绿色 IT。 RFC 编辑欢迎公众提交愚人节 RFC。]]></description>
-      <guid>https://t.me/hn_summary/82345</guid>
-      <pubDate>Mon, 01 Apr 2024 15:01:57 GMT</pubDate>
+      <title>[媒体]宇宙真的有意识吗？</title>
+      <link>https://t.me/hn_summary/82379</link>
+      <description><![CDATA[宇宙实际上有意识吗？ 
+宇宙可能有意识的想法正在学术界获得关注，科学家和哲学家积极争论这个问题。有意识的宇宙是否“决定”创造生命，导致一些人质疑宇宙本身是否可能是“上帝”？宇宙心理学的主要支持者菲利普·戈夫教授认为，宇宙的微调太完美了，不可能是偶然的，这表明这是有目的的设计。他的理论挑战了宗教和无神论的传统观点，为创造者的存在提供了新的视角。戈夫提出的有争议且发人深省的想法正在重塑围绕宇宙本质的对话。 （根据故事文本的 58% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82379</guid>
+      <pubDate>Mon, 01 Apr 2024 17:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CamSimulate 是一个 Python 应用程序，可将视频从本地文件或 URL 流式传输到 vi [...]</title>
-      <link>https://t.me/hn_summary/82344</link>
-      <description><![CDATA[CamSimulate：Python 应用程序，用于将视频从文件流式传输到计算机上的视频设备
-CamSimulate 是一个 Python 应用程序，可将视频从本地文件或 URL 流式传输到计算机上的视频设备。如果没有可用的物理设备，它使用 v4l2loopback 创建虚拟视频设备，并使用 ffmpeg 流式传输所选视频。该项目是专门为类 UNIX 操作系统设计的。作者提到了即将推出的功能，例如 TUI 菜单、来自 URL 的视频输入、选择视频分辨率和 Windows 支持。 CamSimulate 允许用户在任何他们想要的网站上使用相机，但要注意视频 URL 应该是直接的，而不是来自网页。]]></description>
-      <guid>https://t.me/hn_summary/82344</guid>
-      <pubDate>Mon, 01 Apr 2024 14:48:51 GMT</pubDate>
+      <title>[媒体]苹果正式将 iPhone 6 Plus 视为“过时”，将 iPad Mini 4 视为“过时”。</title>
+      <link>https://t.me/hn_summary/82378</link>
+      <description><![CDATA[苹果称 iPhone 6 Plus 现已“过时”，iPad Mini 4 现已过时“复古”
+Apple 已正式将 iPhone 6 Plus 视为“过时”，将 iPad Mini 4 视为“过时”。这意味着 iPhone 6 Plus 的维修和硬件服务将不再提供，而 iPad Mini 4 的维修将再提供长达两年的服务。 iPhone 6 Plus 于 2014 年推出，具有更大的屏幕并支持 Apple Pay，而 iPad Mini 4 于 2015 年发布。此外，Apple 已将 (Product)RED 颜色的 iPhone 8 和 iPhone 8 Plus 添加到其“复古”列表中。请继续关注即将推出的新 iPad Pro 和 iPad Air 机型的更新。]]></description>
+      <guid>https://t.me/hn_summary/82378</guid>
+      <pubDate>Mon, 01 Apr 2024 17:28:59 GMT</pubDate>
     </item>
     <item>
-      <title>等等，美国的蜜蜂数量突然创新高了吗？</title>
-      <link>https://t.me/hn_summary/82343</link>
-      <description><![CDATA[等等，美国的蜜蜂数量突然创下纪录了吗？
-美国蜜蜂数量惊人激增，达到 380 万个蜂群，创历史新高。然而，这种增加可能并不像看起来那么简单，不同来源的数据相互矛盾，而且人们担心对本地授粉媒介的影响。由于鼓励养蜂的新法律，德克萨斯州在蜜蜂繁荣中发挥了重要作用。另一方面，由于对杏仁授粉的需求，加利福尼亚州的蜜蜂数量占主导地位。虽然蜜蜂数量的增长令人鼓舞，但这并不一定意味着蜂群崩溃的结束或传粉媒介的整体下降。通过栖息地保护来支持所有传粉媒介对于它们的生存至关重要。]]></description>
-      <guid>https://t.me/hn_summary/82343</guid>
-      <pubDate>Mon, 01 Apr 2024 14:39:42 GMT</pubDate>
+      <title>OpenAI 让立即开始使用 ChatGPT 变得比以往更容易。</title>
+      <link>https://t.me/hn_summary/82377</link>
+      <description><![CDATA[OpenAI：立即开始使用 ChatGPT
+OpenAI 让立即开始使用 ChatGPT 变得比以往更容易。通过增加内容保护以及保存和查看聊天历史记录、共享聊天以及解锁语音对话等功能的能力，这款人工智能工具非常适合那些对人工智能潜力感到好奇的人。无需设置帐户 - 只需立即开始使用 ChatGPT 聊天即可。]]></description>
+      <guid>https://t.me/hn_summary/82377</guid>
+      <pubDate>Mon, 01 Apr 2024 17:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Peter Selinger 关于 lambda 演算的讲义全面概述了 [...]</title>
-      <link>https://t.me/hn_summary/82342</link>
-      <description><![CDATA[Peter Selinger 关于 lambda 演算的讲座笔记 [pdf](https: //news.ycombinator.com/item?id=39890232)
-Peter Selinger 关于 lambda 演算的讲义全面概述了计算机科学和数学中的这一基本概念。 Selinger 涵盖了无类型和简单类型 lambda 演算、Curry-Howard 同构和指称语义等主题，深入探讨了 lambda 演算的理论和应用。这些注释还探讨了功能概念的历史演变，将现代外延观点与旧的内涵观点进行对比。有争议的是，这些注释挑战了函数作为图形的传统概念，为如何理解和定义函数提供了新的视角。塞林格独特的方法使这些讲义成为学生和研究人员的宝贵资源。 （根据故事文本的 4% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82342</guid>
-      <pubDate>Mon, 01 Apr 2024 14:24:27 GMT</pubDate>
+      <title>[媒体]摘要：4 月 1 日，作者分享了一个关于他们的 Wi-Fi 只能工作的真实故事 [...]</title>
+      <link>https://t.me/hn_summary/82376</link>
+      <description><![CDATA[Wi-Fi 仅在下雨时有效&lt; br/&gt;
+摘要：4月1日，作者分享了一个真实的故事，说他们的Wi-Fi只有在下雨的时候才能工作，乍一听似乎很荒谬。尽管作者是一名大学生，但他的工程师父亲声称这种奇怪的现象是真实的。在亲身经历了这个问题之后，作者在决定解决这个问题之前经历了悲伤的阶段。通过调试，他们发现邻居的树干扰了Wi-Fi信号，遇雨时会弯曲，干燥时会遮挡信号。通过升级到新硬件，问题得到了解决，展示了自然对技术的惊人影响。]]></description>
+      <guid>https://t.me/hn_summary/82376</guid>
+      <pubDate>Mon, 01 Apr 2024 17:15:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 renegadeotter.com 的这篇网页内容中，作者分享了 2 [...]</title>
-      <link>https://t.me/hn_summary/82341</link>
-      <description><![CDATA[您的数据库技能并不“好” 
-在来自 renegadeotter.com 的网页内容中，作者分享了一个 MySQL 2006 年的战争故事，当时他们为《纽约杂志》的时装周门户网站开展一个具有挑战性的项目。该项目涉及通过近乎实时的时装秀图像和详细分类来创建搜索体验。尽管面临技术挑战和有限的资源，团队还是成功地使用 MySQL 4 构建了搜索产品。作者强调掌握数据库技能并避免 ORM 滥用和不必要的缓存等常见陷阱的重要性。它们强调了 Postgres 等关系数据库的强大功能，揭穿了外来数据库始终是解决方案的神话。作者还讨论了性能在现代系统中的重要性以及数据库反模式的影响。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82341</guid>
-      <pubDate>Mon, 01 Apr 2024 14:21:10 GMT</pubDate>
+      <title>[媒体]作者反思了喂养患有胃食管反流病的婴儿所面临的挑战，强调了 [...]</title>
+      <link>https://t.me/hn_summary/82375</link>
+      <description><![CDATA[大多数未能喂养宝宝的经历教会了我&lt; br/&gt;
+作者反思了喂养患有胃食管反流病的婴儿所面临的挑战，强调了试图控制局势所带来的压力和自责。他们讨论了文化对个人能动性和优点的重视，这可能导致在养育和生活中错误的自豪或自责。作者探讨了导致这种心态的心理偏见，并提出了一种更具适应性的视角，承认运气和外部因素在结果中的作用。他们强调谦逊和感恩在不可预测的为人父母之旅中的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82375</guid>
+      <pubDate>Mon, 01 Apr 2024 16:58:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google Keep 用户请注意：Google 已宣布他们将关闭 [...]</title>
-      <link>https://t.me/hn_summary/82340</link>
-      <description><![CDATA[Google 正在关闭 Google Keep
-Google Keep 用户请注意：Google 已宣布他们将关闭这款流行的笔记应用程序。这一消息在依赖该应用程序来组织想法和任务的忠实用户中引发了争议。许多人都在争先恐后地在关闭日期之前寻找替代解决方案。请继续关注这一令人惊讶的发展的更多更新。 #GoogleKeep #ShutdownControversy]]></description>
-      <guid>https://t.me/hn_summary/82340</guid>
-      <pubDate>Mon, 01 Apr 2024 14:09:04 GMT</pubDate>
+      <title>[媒体]在应对气候变化的大胆举措中，科学家提议建造一个巨大的遮阳棚 [...]</title>
+      <link>https://t.me/hn_summary/82374</link>
+      <description><![CDATA[为了应对气候变化，我们可以遮挡阳光 
+为了应对气候变化，科学家们提出了一项大胆的举措，他们建议建造一个巨大的遮阳篷来减弱太阳光线。这个雄心勃勃的项目需要数百次火箭发射和创新材料来改变阳光方向。遮阳罩位于 L1 拉格朗日点，有可能将地球温度降低至工业化前的水平。然而，风险和后果是巨大的，包括全球降雨量减少以及气候变化斗争中的赢家和输家。虽然这项技术是可以实现的，但道德争论却很激烈：地球工程是解决方案还是拐杖？最终，重点应该是减少排放和资源消耗，真正应对气候变化。]]></description>
+      <guid>https://t.me/hn_summary/82374</guid>
+      <pubDate>Mon, 01 Apr 2024 16:54:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
