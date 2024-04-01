@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Apr 2024 12:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 15:12:50 GMT</lastBuildDate>
     <item>
       <title>信件</title>
       <link>https://www.producthunt.com/posts/letters-5</link>
@@ -18,34 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/letters-5</guid>
       <pubDate>Mon, 01 Apr 2024 06:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT Maxx</title>
-      <link>https://www.producthunt.com/posts/gpt-maxx</link>
-      <description><![CDATA[
-            世界上第一个AGI模型
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gpt-maxx</guid>
-      <pubDate>Sun, 31 Mar 2024 22:54:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>抹布关于它</title>
-      <link>https://www.producthunt.com/posts/rag-about-it</link>
-      <description><![CDATA[
-            深入研究 AI 检索增强生成 (RAG)
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rag-about-it</guid>
-      <pubDate>Sun, 31 Mar 2024 22:14:52 GMT</pubDate>
     </item>
     <item>
       <title>下一个泵</title>
@@ -132,6 +104,34 @@
       <pubDate>Sat, 30 Mar 2024 14:57:20 GMT</pubDate>
     </item>
     <item>
+      <title>心情书籍</title>
+      <link>https://www.producthunt.com/posts/booksbymood</link>
+      <description><![CDATA[
+            根据心情找书
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/booksbymood</guid>
+      <pubDate>Sat, 30 Mar 2024 07:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>尚诺AI API</title>
+      <link>https://www.producthunt.com/posts/sunoai-api</link>
+      <description><![CDATA[
+            使用API​​调用suno.ai的音乐生成AI
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sunoai-api</guid>
+      <pubDate>Sat, 30 Mar 2024 07:09:43 GMT</pubDate>
+    </item>
+    <item>
       <title>织物流</title>
       <link>https://www.producthunt.com/posts/fabricflow</link>
       <description><![CDATA[
@@ -146,6 +146,34 @@
       <pubDate>Thu, 28 Mar 2024 22:46:18 GMT</pubDate>
     </item>
     <item>
+      <title>我的人工智能可穿戴设备</title>
+      <link>https://www.producthunt.com/posts/moji-ai-wearable</link>
+      <description><![CDATA[
+            外包你的情绪
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/moji-ai-wearable</guid>
+      <pubDate>Wed, 27 Mar 2024 23:14:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>迪尔威斯</title>
+      <link>https://www.producthunt.com/posts/dealwise</link>
+      <description><![CDATA[
+            人工智能驱动的初创企业并购顾问
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/dealwise</guid>
+      <pubDate>Tue, 26 Mar 2024 19:28:04 GMT</pubDate>
+    </item>
+    <item>
       <title>圈圈搜索</title>
       <link>https://www.producthunt.com/posts/circle-to-search</link>
       <description><![CDATA[
@@ -158,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/circle-to-search</guid>
       <pubDate>Tue, 26 Mar 2024 04:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉奈</title>
-      <link>https://www.producthunt.com/posts/llanai</link>
-      <description><![CDATA[
-            与人工智能说语言
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/llanai</guid>
-      <pubDate>Mon, 25 Mar 2024 16:38:14 GMT</pubDate>
     </item>
     <item>
       <title>雪球FATG</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/coderabbit-2</guid>
       <pubDate>Sun, 24 Mar 2024 17:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>管道</title>
-      <link>https://www.producthunt.com/posts/pipe-8</link>
-      <description><![CDATA[
-            将冷压数据集直接输送到您的管道中
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/pipe-8</guid>
-      <pubDate>Wed, 08 Nov 2023 11:44:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
