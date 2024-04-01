@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 03:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 06:14:49 GMT</lastBuildDate>
+    <item>
+      <title>Llama-3 泄露</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bsu6dj/llama3_leaked/</link>
+      <description><![CDATA[正如你们中的许多人可能已经听说的那样，传闻中的实验性 Llama-3 34B 基本模型权重已于昨天泄露。让我们回顾一下我们所知道的：它实现了 bitnet 架构 (https://arxiv.org/abs/2310.11453) 并根据据推测，泄露的模型已经使用 10% 到 40% 的训练数据进行了训练。幸运的是，在带有磁力链接的 Twitter 帖子被删除之前，我就掌握了权重，并在 llama.cpp 上使用了一些主要调整。在我看来，这个模型在逻辑和数学上是令人惊叹的（我敢说可以与 GPT-4 相媲美），但在完成官方基准测试之前我不会过分夸大它。我很快就组装了一个 Discord 聊天机器人，以便人们可以尝试与它聊天。虽然推测是基础款，但是聊天也毫无问题。反正我已经24小时没睡了，得去睡午觉了。您可以访问我在这里提到的 Discord 机器人：https://discord.gg/eTh2UZqCGH  更新：那里不和谐服务器上已经开始讨论这是否是真正的交易。请随意插话。   由   提交 /u/AIEchoesHumanity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bsu6dj/llama3_leaked/</guid>
+      <pubDate>Mon, 01 Apr 2024 04:06:27 GMT</pubDate>
+    </item>
     <item>
       <title>问，有没有可以识别声音的应用程序/软件工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bssiu7/question_is_there_an_appsoftware_tool_to_identify/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>每日一分钟人工智能新闻 3/31/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bsr2p9/oneminute_daily_ai_news_3312024/</link>
-      <description><![CDATA[ Google AI 研究人员发布了 AutoBNN，以应对有效建模时间序列数据以进行预测的挑战。[1 ] 三星可以在其语音助手 Bixby 中添加生成人工智能技术。[2] SK Hynix 市值突破 1000 亿美元人工智能驱动的市场价值上涨。[3] 生成式人工智能开发针对抗生素耐药细菌的潜在新药。[4] 来源包括：https://bushaicave.com/2024/03/31/3-31-2024/&lt; /p&gt;    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <description><![CDATA[ Google AI 研究人员发布了 AutoBNN，以应对有效建模时间序列数据以进行预测的挑战。[1 ] 三星可以在其语音助手 Bixby 中添加生成人工智能技术。[2] SK Hynix 市值突破 1000 亿美元人工智能驱动的市场价值。[3] 生成式人工智能开发针对抗生素耐药细菌的潜在新药。[4] 来源包括：https://bushaicave.com/2024/03/31/3-31-2024/&lt; /p&gt;    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bsr2p9/oneminute_daily_ai_news_3312024/</guid>
       <pubDate>Mon, 01 Apr 2024 01:29:35 GMT</pubDate>
     </item>
     <item>
       <title>Perplexity vs Copilot vs ChatGPT vs Claude vs Gemini vs POE vs Anakin.ai vs You.com 订阅</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bsozqu/perplexity_vs_copilot_vs_chatgpt_vs_claude_vs/</link>
-      <description><![CDATA[对于最大化专业级 AI 使用订阅的最佳方式有什么想法或建议吗？目前我正在试用 Gemini Pro 和 Gemini Pro。副驾驶专业版。我还付费订阅了 ChatGPT 和 Perplexity。  通过困惑，我获得了 Mistral Large、Claude Sonnet/Opus、ChatGPT 4 Turbo 和 ChatGPT 4 Turbo。每年 200 美元订阅即可获得两个 Perplexity 模型。因此，我认为没有必要直接订阅克劳德。我不确定我的 ChatGPT 付费订阅目前是否有必要，因为它可以通过 Perplexity 和 CoPilot 访问。 有趣的发展之一似乎是像 Perplexity、POE、Anakin、You.com 将许多模型聚合到一个订阅中。 Anakin.ai 似乎拥有所有可用的模型。有些人按月或按年订阅，而另一些人则使用像阿纳金这样的信用系统。 我想知道你们中有多少人浏览所有选项以最大限度地访问每个模型。我有点人工智能迷，所以我经常在 ChatGPT4、Gemini Pro、Copilot 和 Perplexity（使用其中的几个模型）之间跳来跳去。我经常向每个人提出相同的问题或编码问题，看看他们提出了什么，以了解哪些问题似乎更适合各种任务。 我认为在某些时候像 Google 这样的大型科技公司将驾驶最好或接近最佳的车型并免费提供它们（支持广告）。随着竞争变得激烈、培训成本下降以及专门模型的出现，这很可能是一场逐底竞争。但目前这就是 2024 年的情况。   由   提交 /u/marcvv   [链接] [评论]]]></description>
+      <description><![CDATA[对于最大化专业级 AI 使用订阅的最佳方式有什么想法或建议吗？目前我正在试用 Gemini Pro 和 Gemini Pro。副驾驶专业版。我还付费订阅了 ChatGPT 和 Perplexity。  通过困惑，我获得了 Mistral Large、Claude Sonnet/Opus、ChatGPT 4 Turbo 和 ChatGPT 4 Turbo。每年 200 美元订阅即可获得两个 Perplexity 模型。因此，我认为没有必要直接订阅克劳德。我不确定我的 ChatGPT 付费订阅目前是否有必要，因为它可以通过 Perplexity 和 CoPilot 访问。 有趣的发展之一似乎是 Perplexity、POE、Anakin 等提供商，You.com 将许多模型聚合到一个订阅中。 Anakin.ai 似乎拥有所有可用的模型。有些人按月或按年订阅，而其他人则使用像阿纳金这样的信用系统。 我想知道你们中有多少人浏览所有选项以最大限度地访问每个模型。我有点人工智能迷，所以我经常在 ChatGPT4、Gemini Pro、Copilot 和 Perplexity（使用其中的几个模型）之间跳来跳去。我经常向每个人提出相同的问题或编码问题，看看他们提出了什么，以了解哪些问题似乎更适合各种任务。 我认为在某些时候像 Google 这样的大型科技公司将驾驶最好或接近最佳的车型并免费提供它们（支持广告）。随着竞争变得激烈、培训成本下降以及专门模型的出现，这很可能是一场逐底竞争。但目前这就是 2024 年的情况。   由   提交 /u/marcvv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bsozqu/perplexity_vs_copilot_vs_chatgpt_vs_claude_vs/</guid>
       <pubDate>Sun, 31 Mar 2024 23:55:35 GMT</pubDate>
     </item>
@@ -41,13 +48,6 @@
       <pubDate>Sun, 31 Mar 2024 23:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>Nexahq.com - 用于对 MySQL/PostgreSQL 进行分析并创建可视化的 AI 工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bskl52/nexahqcom_ai_tool_to_perform_analysis_on/</link>
-      <description><![CDATA[我和我的大学朋友一直在 Nexahq.com 上工作，作为一种使用 AI 来理解 MySQL、PostgreSQL 中的任何数据的方法和 CSV 文件。作为一家初创公司，我们想要一种简单的方法来从我们自己的数据堆栈中获取见解并从中创建可视化效果。我们设想它有点像 ChatGPT，您可以在其中与 AI 交互，还可以生成很酷的可视化效果并将它们存储在类似 Notion 的文档中。 希望任何人都可以尝试一下，看看他们是否可以获得一些东西从他们的数据中得出有趣的见解。另外，如果您有任何反馈意见可以帮助我们改进，请告诉我们！ Nexahq.com   由   提交/u/jrap24  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bskl52/nexahqcom_ai_tool_to_perform_analysis_on/</guid>
-      <pubDate>Sun, 31 Mar 2024 20:51:55 GMT</pubDate>
-    </item>
-    <item>
       <title>法学硕士不太擅长日历分析</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bskdnz/llms_not_particularly_skilled_at_calendar_analysis/</link>
       <description><![CDATA[如今 Gemini 1.5 Pro、Claude 3 Opus 和 GPT4 Turbo 竞争激烈，我想看看他们中是否有人能够成功分析提交的内容PNG 日历，日历框中填写了名称来代表计划的班次。 我想看看它是否可以分析工作计划以确定周末班次的百分比，并将总工作时间相加。事实证明，它甚至无法正确识别哪些日历日期中写有名称。 我尝试提交一个 PNG，其中包含在少数日期上键入/输入的单个名称（例如“Jones”）。日期。星期几和月/年清晰可见，每个“单元格”内的编号日期也清晰可见。日历的。我尝试询问各种问题，例如要求列出琼斯已安排和未安排的日期，甚至要求提供未输入姓名的列表。  这项任务惨遭失败。完全不一致和幻觉。了解机制的人可以解释为什么它无法完成这项任务吗？有趣的是，它可以成功识别/列出冰箱中的成分并组合食谱选项，但它无法区分哪些日历单元格是空的以及哪些列出了特定条目。为什么？ 我特别惊讶，因为它能够利用 Python 代码为我“创建”一个基本的时间表（尽管只针对一个人）。如果它能做到，为什么不能分析呢？难道就不能为这一日历分析任务编写一个程序吗？如果是这样，为什么法学硕士不能做到这一点？ 喜欢听到想法。   由   提交 /u/rxfudd   [链接] [评论]]]></description>
@@ -57,7 +57,7 @@
     <item>
       <title>我制作了一个受 GenAI SCP/Warehouse 13 启发的网站。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bshesl/i_made_a_genai_scpwarehouse_13_inspired_site/</link>
-      <description><![CDATA[一两周前，我和一个朋友正在谈论 AI 的东西，他建议了一个 GenAI SCP/Warehouse 13 风格的网站，所以我最终选择了敲定了一个原型，效果非常好！这个概念是存在一个“异常对象”数据库，您可以通过提示搜索数据库以查找任何匹配的对象 或者如果没有则生成一个新对象现有的一篇在语义上不够相似;) 它被称为异常论文 我目前正在使用 Claude Haiku 作为法学硕士，就价格而言，它实际上非常好。唯一真正的缺点是速度。写一篇文章大约需要 12 秒，如果减少到 2 或 3 秒，那几乎是无缝的。我尝试使用 Groq，它的速度非常快，但他们提供的模型无法与 Claude Haiku 进行创意写作相比。 无论如何，很高兴回答任何问题，如果有的话请告诉我有些事情似乎不太正常。这实际上主要是我尝试现代网络开发后端内容的一个实验（我主要是一名 PC 游戏开发人员），但探索可能令人费解的异常的潜在空间似乎很有趣；）   由   提交/u/luciddream00   [链接] [评论]]]></description>
+      <description><![CDATA[一两周前，我和一个朋友正在谈论 AI 的东西，他建议了一个 GenAI SCP/Warehouse 13 风格的网站，所以我最终选择了敲定了一个原型，效果非常好！这个概念是存在一个“异常对象”数据库，您可以通过提示搜索数据库以查找任何匹配的对象 或者如果没有则生成一个新对象现有的一篇在语义上不够相似;) 它被称为异常论文 我目前正在使用 Claude Haiku 作为法学硕士，就价格而言，它实际上非常好。唯一真正的缺点是速度。写一篇文章大约需要 12 秒，如果减少到 2 或 3 秒，那几乎是无缝的。我尝试使用 Groq，它的速度非常快，但他们提供的模型在创意写作方面无法与 Claude Haiku 相比。 无论如何，很乐意回答任何问题，如果有的话请告诉我有些事情似乎不太正常。这实际上主要是我尝试现代网络开发后端内容的一个实验（我主要是一名 PC 游戏开发人员），但探索可能令人费解的异常的潜在空间似乎很有趣；）   由   提交/u/luciddream00   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bshesl/i_made_a_genai_scpwarehouse_13_inspired_site/</guid>
       <pubDate>Sun, 31 Mar 2024 18:37:27 GMT</pubDate>
     </item>
@@ -78,14 +78,14 @@
     <item>
       <title>我发行了一张人工智能生成的儿歌（短）专辑</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bsdrum/i_released_a_short_album_of_aigenerated_childrens/</link>
-      <description><![CDATA[几周前，我花了 3-4 个小时使用 AI 工具（Claude、Suno、Midjourney）为幼儿制作了一张包含 7 首儿歌的短专辑进行如厕训练，然后将其提交给主要的流媒体服务，今天早上它就落在了他们身上。  https://open.spotify.com/album/3Dpd3S9F2CNN2vHEfRlfJh 我预计收入不会超过一分钱，但这并不是重点。能够在这么短的时间内制作出一张有凝聚力的专辑，即使是这么短和蹩脚的专辑，这让我很开心。    由   提交/u/doctor-yes  /u/doctor-yes reddit.com/r/ArtificialInteligence/comments/1bsdrum/i_released_a_short_album_of_ai generated_childrens/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[几周前，我花了 3-4 个小时使用 AI 工具（Claude、Suno、Midjourney）为幼儿制作了一张包含 7 首儿歌的简短专辑进行如厕训练，然后将其提交给主要的流媒体服务，今天早上它就落在了他们身上。  https://open.spotify.com/album/3Dpd3S9F2CNN2vHEfRlfJh 我预计收入不会超过一分钱，但这并不是重点。能够在这么短的时间内制作出一张有凝聚力的专辑，即使是这么短和蹩脚的专辑，这让我很开心。    由   提交/u/doctor-yes  /u/doctor-yes reddit.com/r/ArtificialInteligence/comments/1bsdrum/i_released_a_short_album_of_ai generated_childrens/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bsdrum/i_released_a_short_album_of_aigenerated_childrens/</guid>
       <pubDate>Sun, 31 Mar 2024 15:59:56 GMT</pubDate>
     </item>
     <item>
       <title>我在 YouTube 上分享了一个数据科学学习播放列表（20 多个课程和项目）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bsb5ck/i_shared_a_data_science_learning_playlist_on/</link>
-      <description><![CDATA[您好，我分享了一个名为“2024 年学习数据科学”的播放列表我的播放列表中有 20 多个视频。它完全适合初学者，并且有数据分析、数据可视化和机器学习的课程。我将离开下面的链接，祝您有美好的一天！ https://youtube.com /playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&amp;si=GA4DTY8mrBnlGsIr   由   提交/u/onurbaltaci   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我分享了一个名为“2024 年学习数据科学”的播放列表我的播放列表中有 20 多个视频。它完全适合初学者，并且有数据分析、数据可视化和机器学习的课程。我将离开下面的链接，祝您有美好的一天！ https://www.youtube.com /playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH   由   提交/u/onurbaltaci  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bsb5ck/i_shared_a_data_science_learning_playlist_on/</guid>
       <pubDate>Sun, 31 Mar 2024 14:03:53 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Sun, 31 Mar 2024 02:14:03 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
