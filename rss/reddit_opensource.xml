@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 01 Apr 2024 18:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 21:12:08 GMT</lastBuildDate>
+    <item>
+      <title>移位 v1.4.0 发布。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1btbk21/smenu_v140_released/</link>
+      <description><![CDATA[smenu 最初是一个轻量级且灵活的终端菜单生成器，但很快发展成为一个强大且多功能的 CLI 选择工具，用于交互式或脚本编写。 smenu 使用友好的基于文本的用户界面可以轻松地从标准输入或文件中导航和选择单词。选择将打印到标准输出以供进一步处理。 在 Linux 和 FreeBSD 上进行了测试，但也应该在其他 Unix 上工作。 可在此处获取：https://github.com/p-gen/smenu 更改：https://github.com/p-gen/smenu/releases/tag/v1.4.0    由   提交/u/pgen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1btbk21/smenu_v140_released/</guid>
+      <pubDate>Mon, 01 Apr 2024 18:31:43 GMT</pubDate>
+    </item>
     <item>
       <title>专有语音文件格式</title>
       <link>https://www.reddit.com/r/opensource/comments/1btacts/proprietary_voice_file_formats/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨r/opensource，我&#39;我们已经在这个项目上工作了一个月，所有基本功能都开始发挥作用。 它是关于什么的：  这是一个简单的 Python Qt (PySide6) 应用程序视频编辑 快速、帧精确地剪切视频和播客，无需重新编码视频（音频仍需要重新编码）。值得注意的是，使用 ffmpeg-cli 并不容易做到这一点，因此该应用程序不仅仅是 ffmpeg 的前端。它直接使用 libav (pyav)。 使用本地 AI 提供音频转录（目前使用 Faster-Whisper 进行转录，使用 Silero VAD 进行语音检测。降噪器模型即将推出（tm））。 允许混合多个轨道的音频并加载外部文件作为新轨道  当前状态：  该项目处于早期阶段，并且边缘相当粗糙。它是预发布版本，这意味着存在一些限制： 尚无简单的安装包；需要手动环境设置。 不支持 CUDA，仅基于 CPU 的处理。 音频处理方面存在一些技术问题。我了解到媒体导出很困难  该项目托管在 GitHub 上 https: //github.com/skeskinen/transcribing-video-cutter。请随意查看，如果您喜欢所看到的内容，请为其加注星标。 它已获得 MIT 许可，欢迎贡献。功能请求和反馈也是如此。我很想知道您是否有任何几乎受支持但需要额外功能的用例。   由   提交 /u/Lesser_Scholar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bshiqi/transcribing_video_cutter_open_source_video_and/</guid>
       <pubDate>Sun, 31 Mar 2024 18:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业 IT 中的开源支持方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</link>
-      <description><![CDATA[嗨， 尝试了解企业如何维持对不提供此功能的开源工具/产品的支持。 曾经在一家企业中，他们只是雇用开源项目的开发人员来完成特定任务，有时当需要专业知识/故障排除时，顺便说一句，他们不知道如何找到免费的开发人员？！这是对开源社区的贡献吗？ 您的方法是什么，特别是在预算紧张的情况下？ 谢谢  &amp;# 32；由   提交 /u/gnumaro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bscrzw/approach_to_the_opensource_support_in_enterprise/</guid>
-      <pubDate>Sun, 31 Mar 2024 15:16:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
