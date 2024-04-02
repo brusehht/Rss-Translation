@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 00:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 03:15:13 GMT</lastBuildDate>
+    <item>
+      <title>聊天 GPT 包装器是长期游戏吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btny7w/are_chat_gpt_wrappers_a_longterm_play/</link>
+      <description><![CDATA[显然我们都熟悉“Chat GPT Wrapper”。软件和网络应用程序。 从短期来看，通过将人工智能的功能扩展到利基问题/解决方案，它们肯定会有价值。 但是，我认为很明显，任何人工智能任何有价值的软件产品/机制最终都会被所有行业巨头席卷。 例如，当Chat GPT开放时，每个人都在尝试创建AI聊天机器人，并以高价出售它们字面意思是1000美元。现在，Hubspot 和 Intercom 已经赶上了并实现了相同的功能（如果不是更好的话），而且每月费用为 30 美元 - 让任何人工智能聊天机器人 SaaS 都退出了商业领域。 同样的事情还会发生吗？跨其他行业和利基市场的 AI Saas/工具？ 如果是这样，构建 AI Saas 是否值得（如果你想*实际上*构建一些东西，显然也有例外）新）会被拥有更好技术和更多资金的更大玩家挤出市场吗？稍后会吃掉你吗？ 话虽如此，我现在正在避开人工智能领域。我正在构建基于浏览器扩展的 pluq.io，我更喜欢我的长期机会 - 作为进入构建 chrome 的护城河扩展要大得多，并且不会遍布社交媒体。   由   提交 /u/seanhward   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btny7w/are_chat_gpt_wrappers_a_longterm_play/</guid>
+      <pubDate>Tue, 02 Apr 2024 02:52:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的脚本不保存换行符？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btmxlt/why_doesnt_my_script_save_line_breaks/</link>
+      <description><![CDATA[它根本不保存换行符。我已经尝试过使用 text() 而不是 val()，但它仍然是同一件事... textarea: &lt;textarea id=&quot;id_content&quot; ;名称=“内容”占位符=“...”&gt;&lt;/textarea&gt;  POST： var formData = new FormData(); ... formData.append(&#39;内容&#39;, $(&#39;#id_content&#39;).val()); ... $.ajax({ url: &#39;{% url &quot;new_post&quot; %}&#39;, type: &#39;POST&#39;, data: formData, async: false, cache: false, contentType: false, processData: false, success:函数（响应）{ ...  GET： var content = response.content; $(&#39;#id_content&#39;).val(content) ;  视图： content = request.POST.get(&#39;content&#39;) new_post = Post.objects.create( ... content=content , ... )     提交者    /u/my-name-is-Tracy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btmxlt/why_doesnt_my_script_save_line_breaks/</guid>
+      <pubDate>Tue, 02 Apr 2024 02:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频在 Safari 和触摸设备上自动播放。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btmros/video_autoplay_on_safari_and_touch_devices/</link>
+      <description><![CDATA[所以我已经尝试了一段时间来寻找解决此问题的方法。我知道视频应该被静音，并且我已经尝试过所有这些：  autoplayloop mutedplaysinline  我什至尝试用 javascript 触发播放，但这也不起作用。  有人可以帮我吗？   由   提交/u/Environmental_Gap_65   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btmros/video_autoplay_on_safari_and_touch_devices/</guid>
+      <pubDate>Tue, 02 Apr 2024 01:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得安全的开发环境？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btm5w2/how_do_you_get_a_safe_dev_environment/</link>
+      <description><![CDATA[我很早就知道我的系统中的 npm-ing 很糟糕，并且考虑到最近的 xz-package 惨败，偏执增加了，所以您的堆栈使用哪些技术来保证系统安全？   由   提交 /u/MobilePenor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btm5w2/how_do_you_get_a_safe_dev_environment/</guid>
+      <pubDate>Tue, 02 Apr 2024 01:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为哪一位是最好的 JavaScript 讲师？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1btlrcu/in_your_opinion_which_one_is_the_best_instructor/</link>
+      <description><![CDATA[布拉德特拉弗西 / 乔纳斯施梅特曼 / 马克西米利安施瓦茨穆勒 p&gt;   由   提交 /u/_Aladin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1btlrcu/in_your_opinion_which_one_is_the_best_instructor/</guid>
+      <pubDate>Tue, 02 Apr 2024 01:10:36 GMT</pubDate>
+    </item>
     <item>
       <title>如何处理对前端团队缺乏尊重的问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1btkwxl/how_to_handle_lack_of_respect_towards_frontend/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>为什么我的网站在手机上看起来很奇怪？</title>
       <link>https://www.reddit.com/r/webdev/comments/1btkizq/why_does_my_website_look_weird_on_phone/</link>
-      <description><![CDATA[我正在让一名网络开发人员为我构建一个物业管理网站。 他向我展示了他迄今为止所拥有的内容以及在大多数情况下，它看起来不错。 不过文字很奇怪！有些单词的最后三个字母位于下一行...... 右上角的电话号码仅显示几个数字。然后，您必须将整个屏幕向左移动才能看到其余部分，这会导致其下方的所有内容都消失。 您不必移动屏幕才能看到更右侧的文本。 .它应该正好适合屏幕。 我的网络开发人员正在使用 WordPress，他看起来知识渊博。他建立了很多网站，而且看起来都不错。 我让他知道了这些问题。你们有人知道这些问题是如何纠正的吗？ 谢谢您的任何建议您的见解！   由   提交 /u/AmazingExperiance   [链接] [评论]]]></description>
+      <description><![CDATA[我正在让一名网络开发人员为我构建一个物业管理网站。 他向我展示了他迄今为止所拥有的内容以及在大多数情况下，它看起来不错。 不过文字很奇怪！有些单词的最后三个字母位于下一行...... 右上角的电话号码仅显示几个数字。然后，您必须将整个屏幕向左移动才能看到其余部分，这会导致其下方的所有内容都消失。 您不必移动屏幕才能看到更右侧的文本。 .它应该正好适合屏幕。 我的网络开发人员正在使用 WordPress，他看起来知识渊博。他建立了很多网站，而且看起来都不错。 我让他知道了这些问题。你们中有人知道这些问题是如何纠正的吗？ 谢谢您的任何建议您的见解！   由   提交 /u/AmazingExperiance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1btkizq/why_does_my_website_look_weird_on_phone/</guid>
       <pubDate>Tue, 02 Apr 2024 00:16:28 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[作为一名南亚开发人员，我经常面临这样的假设：我的英语技能与我的工作质量直接相关。然而，我认为是时候挑战这种误解了。虽然英语可能不是我的母语，但我对提供一流软件/网络开发的奉献精神仍然坚定不移。我很想听听您的想法：在评估来自不同背景的开发人员时，语言能力是否应该掩盖技术实力？让我们一起深入讨论一下。   由   提交/u/diopter2155  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1btgenh/breaking_stereotypes_south_asian_developers_and/</guid>
       <pubDate>Mon, 01 Apr 2024 21:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS safari <audio> 遇到问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btfrbh/having_trouble_with_ios_safari_audio/</link>
-      <description><![CDATA[您好！我正在开发一个音乐网站，它在除 iPhone 之外的所有设备上都能完美运行。在浏览互联网后，我看到了所有有关自动播放限制以及需要用户交互才能播放音频的内容，但问题是我已经这样做了？  所以我完全不知所措，我尝试浏览互联网，我尝试使用网络音频 API，我尝试向 AI 寻求帮助，但什么也没有。我不知道该怎么办。所有代码都可以在我的 Github 存储库中找到，但这是我认为可能导致该问题的主要代码。 &lt; p&gt;Player.jsx : 38 &lt;useEffect(() =&gt; { const audio = audioRef.current; audio.src = currentSong; const handleTimeUpdate = () =&gt; { const剩余 = audio.duration - audio.currentTime; setRemainingTime(remaining); setProgress((audio.currentTime / audio.duration) * 100); }; audio.addEventListener(&quot;timeupdate&quot;, handleTimeUpdate); audio.addEventListener(&quot;loadedmetadata&quot;, () =&gt; {&lt; br /&gt; setDuration(audio.duration); }); if (isPlaying) { audio.play().catch((error) =&gt; { console .error(“播放错误：”, error); playButtonPressed = true; }); } else { audio.pause(); } return () =&gt; { audio.pause(); audio.removeEventListener(&quot;timeupdate&quot;, handleTimeUpdate); }; }, [currentSong, isPlaying]);&gt; ​ Player.jsx : 69 &lt; ;const handlePlay = () =&gt; { setIsPlaying(true);audioRef.current.muted = true; // 最初将音频静音 audioRef.current .play() .then(() =&gt; { // 在播放承诺解决后，取消音频静音&lt; br /&gt; audioRef.current.muted = false; }) .catch((error) =&gt; { console.error(&quot;播放错误:&quot;, error);  playButtonPressed = true; }); };&gt; ​ &amp;# x200b;   由   提交/u/krayonixix  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btfrbh/having_trouble_with_ios_safari_audio/</guid>
-      <pubDate>Mon, 01 Apr 2024 21:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名自由开发者，在紧急状态下如何快速找到客户？ （严肃的）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btf1ct/how_can_i_land_a_client_fast_as_a_freelance_dev/</link>
-      <description><![CDATA[大家好，我是一名网页开发者和网页设计师，我的一个重要项目还没有收到报酬，我需要在 2 年内交房租天。获得项目的最快方法是什么？我不在美国，我回到了我的祖国和家乡，那里没有科技场景，尽管我试图在现实生活中敲门推销我的服务。自由职业网站是不可能的，因为我从来没有在那里接过项目，而且我不能向朋友或家人借钱，因为他们目前也没有太多钱。我给企业和企业主发送了几十封电子邮件，但我很好奇是否有更好的方法？在大学里，我接受了我能为其他企业做的所有类型的项目：标志设计、品牌设计、社交媒体营销、网页设计、电子商务网站开发、自动化、网页抓取，凡是你能想到的。我并不是所有方面的专家，但我在这些方面都有经验，不过我的大部分项目都涉及网页开发和图形设计。我已注册成立，我有多个银行账户，一个 Paypal，我可以发送发票，我可以签署合同，我可以签署保密协议，通过电话交谈，通过 Zoom 交谈，与世界上任何客户交谈的任何内容，我只想尽可能快地工作。如果您有任何想法，请告诉我，我对任何事物、任何国家或时区持开放态度。我希望你有一个幸福的一天，我正在等待你的建议。谢谢！   由   提交/u/ProfessionalPie1287   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btf1ct/how_can_i_land_a_client_fast_as_a_freelance_dev/</guid>
-      <pubDate>Mon, 01 Apr 2024 20:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在 Rust 中构建后端 Web 应用程序的模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bte3h9/a_template_for_building_backend_web_apps_in_rust/</link>
-      <description><![CDATA[我发现很难找到开始使用 Rust 编写 REST API 所需的所有部分，因此我决定尝试构建一个有效的对于任何希望在后端使用 Rust 的人来说，这是一个起点。 我刚刚完成了一个用于生产就绪的 Rust REST API 的模板，您可以提取该模板  com/emanguy/rust-rest&quot;&gt;来自我的 GitHub。以下是模板中现成的内容：  HTTP 路由器和业务逻辑的单元测试 针对真实 Postgres 数据库的集成测试 通过 CircleCI 进行 CI，运行单元和集成测试、检查代码并验证格式 通过 Swagger UI 提供 OpenAPI 文档 可配置的记录器 传入的验证HTTP 请求数据传输对象 关于模板中使用的编码模式的大量文档  我希望它对任何希望使用 Rust 的正确性和速度的人来说都是有用的他们的网络后端有好处！欢迎任何反馈以及对模板的贡献。我希望这不会违反规则 3，因为我希望这对其他后端开发人员来说是宝贵的资源。快乐编码！   由   提交 /u/emanguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bte3h9/a_template_for_building_backend_web_apps_in_rust/</guid>
-      <pubDate>Mon, 01 Apr 2024 20:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何大规模开发和交付 WordPress 网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btdr9j/how_to_develop_and_deliver_wordpress_sites_at/</link>
-      <description><![CDATA[假设我的代理机构每月获得 30-40 个 WordPress 网站，其中主要是本地企业的信息网站。如何加快流程并按时交付项目？   由   提交 /u/saneomaniac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btdr9j/how_to_develop_and_deliver_wordpress_sites_at/</guid>
-      <pubDate>Mon, 01 Apr 2024 19:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>(SHOPIFY) 需要一个代码来添加第二张图片，以便横幅图像显示在 Dawn 主题的移动视图中。桌面图像不适合移动视图。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1btd7d8/shopify_need_a_code_to_add_a_second_picture_for/</link>
-      <description><![CDATA[    /u/c3ll0skyy5hadm4n   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1btd7d8/shopify_need_a_code_to_add_a_second_picture_for/</guid>
-      <pubDate>Mon, 01 Apr 2024 19:33:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
