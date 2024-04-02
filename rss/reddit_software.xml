@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 12:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 15:12:15 GMT</lastBuildDate>
+    <item>
+      <title>我终于找到了消耗RAM最少的最好的邮件客户端</title>
+      <link>https://www.reddit.com/r/software/comments/1bu0p2i/i_finally_found_the_best_mail_client_that/</link>
+      <description><![CDATA[这是 Opera 邮件。 Opera 自 2016 年起不再支持它，但您仍然可以使用它。我已经尝试过大约20个邮件客户端程序。其中一些非常粗略且无法使用，并且大多数使用大约 500 MB 或更多的 RAM。 Opera Mail 目前在我的计算机上仅使用 63 MB。   由   提交/u/muhammet484  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bu0p2i/i_finally_found_the_best_mail_client_that/</guid>
+      <pubDate>Tue, 02 Apr 2024 14:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软/Chrome</title>
+      <link>https://www.reddit.com/r/software/comments/1bu00em/microsoftchrome/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，所以请友善。我最近被大学录取了，我必须使用的大多数程序都是微软的。我有一台 Chrome 笔记本电脑，但买不起新的——学校只提供 5% 的优惠券。有没有办法合并 Microsoft 和 Chrome，以便我可以访问我的课程？    由   提交 /u/She_reads_smut0106   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bu00em/microsoftchrome/</guid>
+      <pubDate>Tue, 02 Apr 2024 14:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在 Android、iOS 和桌面上使用过任何人工智能聊天应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1btzpvr/have_you_used_any_ai_chat_apps_on_android_ios_and/</link>
+      <description><![CDATA[我计划使用 botstacks&lt; 构建一个人工智能聊天机器人应用程序/a&gt; kotlin 多平台，因此我可以将其部署到 ios、桌面和 android。该应用程序有点像移动设备和应用程序。 chatgpt 的桌面应用程序版本，但它有多个 LLM，如 GPT、Claude、Mistral 和 Gemini 在一个链中一起工作。  那么你在android、ios和桌面上使用过任何人工智能聊天应用程序吗？如果是，请分享您的体验，例如您最喜欢应用程序中的哪些内容以及您不喜欢哪些内容   由   提交/u/SweetMoonx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1btzpvr/have_you_used_any_ai_chat_apps_on_android_ios_and/</guid>
+      <pubDate>Tue, 02 Apr 2024 14:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 本地网络照片备份软件</title>
+      <link>https://www.reddit.com/r/software/comments/1btxfr4/local_network_photo_backup_software_for_windows/</link>
+      <description><![CDATA[我正在寻找可在本地网络上充当个人云备份的软件。您在 Windows PC 上安装的东西，然后在 Android 和 iPhone 上安装客户端应用程序。只是为了通过 wifi 将照片备份到 Windows PC。 这是给朋友的。就我个人而言，我会与 Nexcloud 或 Immich 一起构建一个 Linux 服务器。我只想在他们当前的 Windows 计算机上实现一些简单的功能。我还认为，当出现问题时，这将更容易远程维护和诊断。我知道我可以让我提到的两个工作，但我想知道推荐的是什么。    由   提交/u/guy30000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1btxfr4/local_network_photo_backup_software_for_windows/</guid>
+      <pubDate>Tue, 02 Apr 2024 12:26:14 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 虚拟麦克风未显示</title>
       <link>https://www.reddit.com/r/software/comments/1bto05s/windows_virtual_mic_not_showing/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[这可能是一个奇怪的请求，甚至可能不存在。我正在寻找一种方法来在我的设备上获取独特的按钮绘图板，因此我可以使用其上的按钮，而无需将它们注册为 OBS 中的键盘或鼠标输入。  因此，在软件中，我可以将按钮 2 分配给“Control+Shift+1”。或“鼠标右键单击”，但我希望它注册为它自己的唯一密钥，该密钥不会干扰除 OBS 本身之外的任何其他内容，因此假设我将按钮 2 设置为它自己的“输入” 2”而不是任何其他相应的键，有点像控制器在 Windows 上分配自己的方式。  我怀疑这样的东西是否存在，但拥有它真是太棒了，因为我在尝试使用我的绘图板（就像流媒体平台一样）时遇到了很多麻烦，无论它是否试图将我的静音麦克风，Control+Shift+F1 会弹出游戏内终端，同时将我从掩体后面带出来，毁了我的游戏。   由   提交 /u/InfectedPrince   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bt97vv/software_for_drawing_tablet_unique_keybinds_for/</guid>
       <pubDate>Mon, 01 Apr 2024 17:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>未硬件锁定的离线许可证密钥...</title>
-      <link>https://www.reddit.com/r/software/comments/1bt5xx1/offline_license_key_that_isnt_hardware_locked/</link>
-      <description><![CDATA[是否可以制作一个不连接到互联网的应用程序，该应用程序接受未锁定到硬件的许可证密钥？ 我想从某人那里购买的程序是为 RPi4 创建的。我遇到的问题是，如果 RPi4 损坏并且无法使用，我无法将 SD 卡更换到另一个 pi，甚至无法下载应用程序并将其加载到另一个 pi。有没有什么方法可以在不提供互联网连接的情况下允许这样的离线密钥？ 此实例有哪些标准？  &amp; #32；由   提交 /u/Hack3rsD0ma1n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bt5xx1/offline_license_key_that_isnt_hardware_locked/</guid>
-      <pubDate>Mon, 01 Apr 2024 14:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音合成？</title>
-      <link>https://www.reddit.com/r/software/comments/1bt3dxw/tts/</link>
-      <description><![CDATA[嗨， 希望转换 PDF/网页/书籍（我猜我自己可以将任何内容转换为 PDF，但它会如果软件可以为我做到这一点，请节省一步）到“可用”的 TTS，这意味着声音听起来不是超级机器人，而是像有人实际上正在阅读（理解这显然有局限性）。 我刚刚从 Android 切换到 iPhone，以前我在 Android 上使用名为“@voice”的神奇应用程序。 iPhone 上不存在这个功能。对于 iOS，似乎所有好的选项都是按月付费的，所以我希望在我的 PC 上将 PDF 转换为声音文件，然后导出到我的 iPhone。我想一旦我能找到在 PC (Windows 11) 上执行此操作的软件，我就可以在 iPhone 上自动执行此过程，但我不确定在 Windows 上执行此操作的最佳（最好是免费）软件是什么？ 谢谢！   由   提交/u/curlyfacephil  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bt3dxw/tts/</guid>
-      <pubDate>Mon, 01 Apr 2024 13:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化建议？</title>
-      <link>https://www.reddit.com/r/software/comments/1bt0szu/optimization_suggestions/</link>
-      <description><![CDATA[你好，我的电脑有点慢，现在重新安装 Windows 的帮助越来越小，我正在使用 WinUtil（脚本版本）为了消除一些东西，我不知道什么更好，所以我只是删除了所有我认为不需要的东西，现在我也在安装驱动程序，但手动安装它们太难了，我不擅长，现在我&#39;我使用 Driver Booster 重新安装它们，然后我还会优先考虑程序，例如游戏和与工作相关的应用程序都处于较高优先级，其他所有内容要么较低或正常优先级，所以问题是：任何进一步优化 Win 10 的建议?   由   提交 /u/EcoIsASadBanana   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bt0szu/optimization_suggestions/</guid>
-      <pubDate>Mon, 01 Apr 2024 11:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试找到一些软件来模仿电影项目的鼠标或游戏手柄运动</title>
-      <link>https://www.reddit.com/r/software/comments/1bt0myq/trying_to_find_some_software_to_mimic_mouse_or/</link>
-      <description><![CDATA[大家好，我一直在尝试在游戏中制作视频，但我无法获得我想要的平滑相机运动。我一直在尝试各种宏软件，但我尝试过的所有软件都只是让鼠标立即转动。我只想要一种可以对鼠标或控制器的移动进行编程并顺利回放的方法。感谢您阅读我的帖子   由   提交 /u/FallmoonFox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bt0myq/trying_to_find_some_software_to_mimic_mouse_or/</guid>
-      <pubDate>Mon, 01 Apr 2024 10:55:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
