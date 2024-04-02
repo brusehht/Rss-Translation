@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 18:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:04:30 GMT</lastBuildDate>
     <item>
-      <title>在最近的人工智能故事中，一位安全研究人员发现人工智能编写的源代码来自大型 [...]</title>
-      <link>https://t.me/hn_summary/82383</link>
-      <description><![CDATA[人类对科里·多克托罗并不是完全保持警惕
-在最近的一个人工智能故事中，一名安全研究人员发现，来自大公司的人工智能编写的源代码反复引用了一个不存在的库，导致创建了一个恶意库，成千上万的开发人员在不知不觉中将其合并到他们的代码中。这凸显了人工智能“幻觉”的问题，即模型仅给出理解的幻觉，使它们不适合高风险任务。关于更多的训练数据是否可以减少这些幻觉的争论仍在继续，但人工智能擅长的大量低价值任务正以机器人生成的内容压倒互联网。 “人类参与循环”的概念作为解决方案引发了人们对自动化失明和反向半人马主义的可能性的担忧，在这种情况下，人类必须对人工智能生成的内容保持高度警惕。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82383</guid>
-      <pubDate>Mon, 01 Apr 2024 18:14:34 GMT</pubDate>
+      <title>CERN 正在庆祝其成立 70 周年，并以一个令人惊讶的变化 - 更名为 Network of [...]</title>
+      <link>https://t.me/hn_summary/82438</link>
+      <description><![CDATA[CERN 为庆祝成立 70 周年更名
+CERN 正在庆祝其成立 70 周年，并以一个令人惊讶的变化 - 更名为社会研究与发展实验网络 (NERDS)。新名称反映了该实验室从欧洲核研究理事会向全球科学技术中心的演变。做出品牌重塑的决定是为了更好地代表欧洲核子研究中心进行的多样化研究并促进包容性。尽管有一些有争议的名字建议，如“GOD”，但“NERDS”因其易于记忆和积极的含义而被选中。这一变化将于 2024 年生效，标志着 CERN 作为 NERDS 的历史翻开了新的篇章。]]></description>
+      <guid>https://t.me/hn_summary/82438</guid>
+      <pubDate>Tue, 02 Apr 2024 00:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特朗普媒体，与前总统唐纳德特朗普密切相关的社交媒体应用程序，报道[...]</title>
-      <link>https://t.me/hn_summary/82382</link>
-      <description><![CDATA[Trump Media 在公司报告净亏损 58 美元后暴跌超过 25%万元
-与前总统唐纳德·特朗普关系密切的社交媒体应用程序 Trump Media 报告称，2023 年净亏损 5820 万美元，营收仅为 410 万美元，导致其股价暴跌超过 25%。尽管有所下降，该公司的市值仍超过 68 亿美元。特朗普媒体警告称，未来将持续出现经营亏损，并在其财务报告中披露了“重大缺陷”。特朗普拥有该公司57.3%的股份，价值超过40亿美元。该公司的高估值部分归因于特朗普的政治支持者购买股票，为公司带来了独特的风险。]]></description>
-      <guid>https://t.me/hn_summary/82382</guid>
-      <pubDate>Mon, 01 Apr 2024 18:09:27 GMT</pubDate>
+      <title>[媒体]网络内容讨论了 Vespers Inc. 的争议话题。</title>
+      <link>https://t.me/hn_summary/82437</link>
+      <description><![CDATA[OpenAI创业基金：GP幻觉
+该网络内容讨论了 Vespers Inc. 的争议话题，这家公司可能是在人工智能的帮助下创建的，作为涉及 OpenAI 初创基金的未公开交易的幌子公司。作者质疑 Vespers Inc. 参与的合法性，并强调了各种披露，表明该公司使用假名个人和潜在的虚假人物角色来隐藏其真实目的。作者深入研究了 Vespers Inc. 的成立时间、其业务类型以及其作为 OpenAI Startup Fund GP I, LLC 经理的短暂任期，以证明其是一家幌子公司。该内容引起了人们对潜在不当行为的担忧，并呼吁进一步审查。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82437</guid>
+      <pubDate>Tue, 02 Apr 2024 00:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Joystick，这是一个全栈 JavaScript 框架，可简化内部构建 [...]</title>
-      <link>https://t.me/hn_summary/82381</link>
-      <description><![CDATA[展示 HN：操纵杆 – 全栈 JavaScript 框架
-隆重推出 Joystick，这是一个全栈 JavaScript 框架，可简化交互式 Web 应用程序的构建。使用操纵杆，您可以使用干净简洁的语法轻松创建商店和购物车等组件。该框架允许无缝状态管理和事件处理，使其成为动态 Web 开发的理想选择。 Joystick 的独特之处在于其全局状态管理，可以实现跨组件的实时更新。潜入操纵杆的世界，彻底改变您的 Web 开发体验。请查看 cheatcode.co 了解更多信息。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/82381</guid>
-      <pubDate>Mon, 01 Apr 2024 17:56:18 GMT</pubDate>
+      <title>[媒体]在本文中，作者探讨了常见数据库在虚构的 [...]</title>
+      <link>https://t.me/hn_summary/82436</link>
+      <description><![CDATA[一些查询优化器的嗅探测试
+在本文中，作者在涉及查询优化的虚构基准测试中探讨了常见数据库的性能。作者强调，该测试并不代表优化器的整体质量，并提供了一个用于测试数据库的转换列表。令人惊讶的是，DuckDB、CockroachDB 和 Postgres 通过了将 EXISTS 查询转换为半连接去相关的测试，而 SQLite 却没有。作者还测试了基于主键的 DISTINCT 消除，并为每个数据库提供了结论。本文提供了有关查询优化的独特且内容丰富的视角。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82436</guid>
+      <pubDate>Mon, 01 Apr 2024 23:41:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] xz 包后门在科技界引起轰动，但这仅仅是开始。</title>
-      <link>https://t.me/hn_summary/82380</link>
-      <description><![CDATA[`xz`包后门只是冰山一角&lt; /a&gt;
-xz 软件包后门在科技界引起了轰动，但这仅仅是开始。这一有争议的发现揭示了其他软件包中潜伏的潜在漏洞。这个后门的影响是深远的，并为软件开发过程中网络安全的重要性敲响了警钟。请继续关注，我们将进一步了解这个问题以及它对包管理的未来意味着什么。不要错过这个令人大开眼界的启示，它可能会改变我们处理软件安全的方式。]]></description>
-      <guid>https://t.me/hn_summary/82380</guid>
-      <pubDate>Mon, 01 Apr 2024 17:47:12 GMT</pubDate>
+      <title>[媒体] OpenSSH 和 XZ/liblzma：一次民族国家攻击被挫败，我们学到了什么？</title>
+      <link>https://t.me/hn_summary/82435</link>
+      <description><![CDATA[OpenSSH 和 XZ/liblzma：民族国家攻击被挫败，我们学到了什么？
+该文章讨论了一次涉及 OpenSSH 和 XZ/liblzma 的挫败的民族国家攻击，强调了两年多来为渗透开源维护者而进行的复杂操作。该攻击是由 Postgres 维护人员发现的，强调了软件使用中超意识和可观察性的重要性。作者强调了面对潜在攻击时软件生态系统的多样性、弹性和可恢复性规划的必要性。本文鼓励 Docker 社区内部进行对话，以加强开源供应链并为未来的安全挑战做好准备。]]></description>
+      <guid>https://t.me/hn_summary/82435</guid>
+      <pubDate>Mon, 01 Apr 2024 23:40:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]宇宙真的有意识吗？</title>
-      <link>https://t.me/hn_summary/82379</link>
-      <description><![CDATA[宇宙实际上有意识吗？ 
-宇宙可能有意识的想法正在学术界获得关注，科学家和哲学家积极争论这个问题。有意识的宇宙是否“决定”创造生命，导致一些人质疑宇宙本身是否可能是“上帝”？宇宙心理学的主要支持者菲利普·戈夫教授认为，宇宙的微调太完美了，不可能是偶然的，这表明这是有目的的设计。他的理论挑战了宗教和无神论的传统观点，为创造者的存在提供了新的视角。戈夫提出的有争议且发人深省的想法正在重塑围绕宇宙本质的对话。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82379</guid>
-      <pubDate>Mon, 01 Apr 2024 17:38:06 GMT</pubDate>
+      <title>[媒体] 在 20 世纪 70 年代，苏联人试图创建自己的互联网版本，称为 [...]</title>
+      <link>https://t.me/hn_summary/82434</link>
+      <description><![CDATA[苏联人如何发明互联网以及为什么它不起作用
+20 世纪 70 年代，苏联试图创建自己的互联网版本，即全国家自动化系统，以彻底改变经济计划。该项目由计算机科学家 Viktor Glushkov 领导，旨在利用计算机建模和电子货币简化计划经济。然而，内部权力斗争和缺乏包括财政部长瓦西里·加尔布佐夫在内的主要官员的支持导致了该项目的失败。尽管电子社会主义有着雄心勃勃的愿景，但苏联互联网从未实现，凸显了官僚体系内创新的挑战。这个故事揭示了苏联技术、政治和野心的交叉点。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82434</guid>
+      <pubDate>Mon, 01 Apr 2024 23:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果正式将 iPhone 6 Plus 视为“过时”，将 iPad Mini 4 视为“过时”。</title>
-      <link>https://t.me/hn_summary/82378</link>
-      <description><![CDATA[苹果称 iPhone 6 Plus 现已“过时”，iPad Mini 4 现已过时“复古”
-Apple 已正式将 iPhone 6 Plus 视为“过时”，将 iPad Mini 4 视为“过时”。这意味着 iPhone 6 Plus 的维修和硬件服务将不再提供，而 iPad Mini 4 的维修将再提供长达两年的服务。 iPhone 6 Plus 于 2014 年推出，具有更大的屏幕并支持 Apple Pay，而 iPad Mini 4 于 2015 年发布。此外，Apple 已将 (Product)RED 颜色的 iPhone 8 和 iPhone 8 Plus 添加到其“复古”列表中。请继续关注即将推出的新 iPad Pro 和 iPad Air 机型的更新。]]></description>
-      <guid>https://t.me/hn_summary/82378</guid>
-      <pubDate>Mon, 01 Apr 2024 17:28:59 GMT</pubDate>
+      <title>问 HN：为什么你会在新项目中使用 C++ 而不是 Rust？</title>
+      <link>https://t.me/hn_summary/82433</link>
+      <description><![CDATA[问 HN：为什么你会在新项目中使用 C++生锈？
+在新项目中使用 C++ 还是 Rust 的争论正在升温，Rust 爱好者声称 Rust 的工具和支持已经变得如此先进，选择 C++ 将是一个错误。但这真的是真的吗？面对 Rust 日益流行，C++ 还能保持自己的地位吗？加入讨论为什么有人会在新项目中选择 C++ 而不是 Rust，以及这样做是否有任何正当理由。让我们深入探讨这个有争议的话题，看看是否有什么惊喜。]]></description>
+      <guid>https://t.me/hn_summary/82433</guid>
+      <pubDate>Mon, 01 Apr 2024 23:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 让立即开始使用 ChatGPT 变得比以往更容易。</title>
-      <link>https://t.me/hn_summary/82377</link>
-      <description><![CDATA[OpenAI：立即开始使用 ChatGPT
-OpenAI 让立即开始使用 ChatGPT 变得比以往更容易。通过增加内容保护以及保存和查看聊天历史记录、共享聊天以及解锁语音对话等功能的能力，这款人工智能工具非常适合那些对人工智能潜力感到好奇的人。无需设置帐户 - 只需立即开始使用 ChatGPT 聊天即可。]]></description>
-      <guid>https://t.me/hn_summary/82377</guid>
-      <pubDate>Mon, 01 Apr 2024 17:26:53 GMT</pubDate>
+      <title>问 HN：鉴于市场趋势，您如何决定做什么？</title>
+      <link>https://t.me/hn_summary/82432</link>
+      <description><![CDATA[询问 HN：鉴于市场趋势，您如何决定做什么？ 
+作者是瑞典的一名前 Android 开发人员，希望转型为合同工，但很难找到适合其特定技能的机会。他们在寻求更流行的技术堆栈认证和等待市场需求增加之间左右为难。他们也在考虑创造产品，但认为合同工作是财务稳定的最佳选择。作者正在向处于类似情况的其他人寻求建议，以了解如何驾驭当前的市场趋势并为未来的职业道路做出最佳决定。]]></description>
+      <guid>https://t.me/hn_summary/82432</guid>
+      <pubDate>Mon, 01 Apr 2024 23:33:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摘要：4 月 1 日，作者分享了一个关于他们的 Wi-Fi 只能工作的真实故事 [...]</title>
-      <link>https://t.me/hn_summary/82376</link>
-      <description><![CDATA[Wi-Fi 仅在下雨时有效&lt; br/&gt;
-摘要：4月1日，作者分享了一个真实的故事，说他们的Wi-Fi只有在下雨的时候才能工作，乍一听似乎很荒谬。尽管作者是一名大学生，但他的工程师父亲声称这种奇怪的现象是真实的。在亲身经历了这个问题之后，作者在决定解决这个问题之前经历了悲伤的阶段。通过调试，他们发现邻居的树干扰了Wi-Fi信号，遇雨时会弯曲，干燥时会遮挡信号。通过升级到新硬件，问题得到了解决，展示了自然对技术的惊人影响。]]></description>
-      <guid>https://t.me/hn_summary/82376</guid>
-      <pubDate>Mon, 01 Apr 2024 17:15:45 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，发表在《美国医学会杂志内科学》上的一项研究揭示了 [...]</title>
+      <link>https://t.me/hn_summary/82431</link>
+      <description><![CDATA[GPT-4 获得了比医生更高的临床推理分数 
+令人惊讶的是，发表在《JAMA Internal Medicine》上的一项研究表明，在评估模拟临床病例时，Open AI 的 GPT-4 聊天机器人在临床推理方面的表现优于医生。该聊天机器人在 R-IDEA 评估中的得分高于主治医生和内科住院医师。虽然像 GPT-4 这样的人工智能可以提供公正的第二意见，但与居民相比，它也显示出更多不正确的临床推理实例。该研究强调在将人工智能集成到临床工作流程之前需要进一步评估。尽管 GPT-4 在临床推理评分方面取得了成功，但在诊断准确性方面与医生的结果相似。]]></description>
+      <guid>https://t.me/hn_summary/82431</guid>
+      <pubDate>Mon, 01 Apr 2024 23:20:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者反思了喂养患有胃食管反流病的婴儿所面临的挑战，强调了 [...]</title>
-      <link>https://t.me/hn_summary/82375</link>
-      <description><![CDATA[大多数未能喂养宝宝的经历教会了我&lt; br/&gt;
-作者反思了喂养患有胃食管反流病的婴儿所面临的挑战，强调了试图控制局势所带来的压力和自责。他们讨论了文化对个人能动性和优点的重视，这可能导致在养育和生活中错误的自豪或自责。作者探讨了导致这种心态的心理偏见，并提出了一种更具适应性的视角，承认运气和外部因素在结果中的作用。他们强调谦逊和感恩在不可预测的为人父母之旅中的重要性。]]></description>
-      <guid>https://t.me/hn_summary/82375</guid>
-      <pubDate>Mon, 01 Apr 2024 16:58:37 GMT</pubDate>
+      <title>加州以其进步的政策和创新而闻名，但目前正面临着经济挑战 [...]</title>
+      <link>https://t.me/hn_summary/82430</link>
+      <description><![CDATA[加州深受经济问题困扰，没有简单的解决办法
+加州以其先进的政策和创新而闻名，但也面临着失业率上升、财政紧张和人口外流等经济挑战。尽管美国经济整体强劲，但加州失业率却飙升至5.3%，为全美最高。该州财政状况严峻，预计赤字达 730 亿美元。高收入居民的外流加剧了这一问题，限制了国家解决预算问题的灵活性。加州的房地产市场是全国最难以负担的，也是一个主要问题。尽管国家在创新方面拥有优势，但它必须解决经济难题，以确保稳定的未来。]]></description>
+      <guid>https://t.me/hn_summary/82430</guid>
+      <pubDate>Mon, 01 Apr 2024 23:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在应对气候变化的大胆举措中，科学家提议建造一个巨大的遮阳棚 [...]</title>
-      <link>https://t.me/hn_summary/82374</link>
-      <description><![CDATA[为了应对气候变化，我们可以遮挡阳光 
-为了应对气候变化，科学家们提出了一项大胆的举措，他们建议建造一个巨大的遮阳篷来减弱太阳光线。这个雄心勃勃的项目需要数百次火箭发射和创新材料来改变阳光方向。遮阳罩位于 L1 拉格朗日点，有可能将地球温度降低至工业化前的水平。然而，风险和后果是巨大的，包括全球降雨量减少以及气候变化斗争中的赢家和输家。虽然这项技术是可以实现的，但道德争论却很激烈：地球工程是解决方案还是拐杖？最终，重点应该是减少排放和资源消耗，真正应对气候变化。]]></description>
-      <guid>https://t.me/hn_summary/82374</guid>
-      <pubDate>Mon, 01 Apr 2024 16:54:32 GMT</pubDate>
+      <title>[媒体]Bonk 是 X11 窗口管理的命令行工具，允许用户修改wind [...]</title>
+      <link>https://t.me/hn_summary/82429</link>
+      <description><![CDATA[显示 HN：Bonk，X11 窗口管理的命令行工具
+Bonk 是 X11 窗口管理的命令行工具，允许用户修改窗口、调整窗口属性、更改窗口装饰等。它是专门为 X11 设计的，需要 C 编译器、CMake 和 libxcb 来构建。 Bonk 的独特之处在于提供了用于交互式窗口管理的子命令，例如通过左键单击选择窗口、通过 ID 指定窗口、根据窗口类和标题等条件搜索窗口以及将搜索限制为任务栏中的窗口。它还提供各种窗口操作和属性调整。该项目包括一个测试套件和支持命令的完整列表。]]></description>
+      <guid>https://t.me/hn_summary/82429</guid>
+      <pubDate>Mon, 01 Apr 2024 22:53:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
