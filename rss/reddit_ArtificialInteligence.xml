@@ -4,11 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 00:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 03:12:39 GMT</lastBuildDate>
+    <item>
+      <title>人工智能协作的未来？多人工智能平台概览</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buhpcz/the_future_of_ai_collaboration_a_look_at_multiai/</link>
+      <description><![CDATA[人工智能领域持续快速发展，一个令人着迷的趋势是促进多个人工智能工具之间协作的平台的出现。虽然 OpenAI 一直是该领域的先驱，但看到其他平台如何为人工智能能力的进步做出贡献还是令人兴奋的。 引起我注意的一个这样的平台是 GlobalGPT。其核心概念围绕为各种人工智能工具提供中央枢纽。通过允许用户在单一环境中利用不同人工智能专业的优势，这可能会彻底改变工作流程。 想象一下在同一平台内无缝集成文本生成、图像创建和问题解决功能。随着这些人工智能工具的交互和协作，它可以为新颖的创意方法、简化的研究流程和不可预见的发现打开大门。 当然，需要进一步的探索和评估来了解该平台的有效性。然而，我相信多人工智能协作的潜力是巨大的。看到 GlobalGPT 与 OpenAI 等平台一起如何为进一步突破人工智能所能实现的界限做出贡献，这将是一件令人着迷的事情。   由   提交/u/Diligent_Emmanuel40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buhpcz/the_future_of_ai_collaboration_a_look_at_multiai/</guid>
+      <pubDate>Wed, 03 Apr 2024 02:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>与前端 GUI 集成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bugcat/integration_with_frontend_gui/</link>
+      <description><![CDATA[我能够使用 Python 编程，使用文件文件夹训练 LLM（推理）。我还训练了一些供个人使用的自定义 GPT。 我将开展一个项目，让测试人员能够使用我的专用 GPT。不过前端开发并不是我的强项。  我探索了一些前端选项，包括 Bearly、OmniGPT、POE、ChatbotUI、FileGPT 和 Typingmind。这些要么太贵，要么不允许公众使用自定义 GPT。 有谁知道任何快速简便的方法将我的专用 GPT（Python 应用程序或自定义 GPT）连接到允许公众使用的前端？我熟悉 Google Site 和 Wix，这些是不错的选择吗？    由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1bugcat/integration_with_frontend_gui/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bugcat/integration_with_frontend_gui/</guid>
+      <pubDate>Wed, 03 Apr 2024 01:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>与前端 GUI 轻松集成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bugafj/easy_integration_with_a_frontend_gui/</link>
+      <description><![CDATA[我能够使用 Python 编程，使用文件文件夹训练 LLM（推理）。我还训练了一些自定义 GPT。我探索了一些前端选项，包括 Bearly、OmniGPT、POE、ChatbotUI、FileGPT 和 Typingmind。这些要么太贵，要么不允许公众使用自定义 GPT。 有谁知道任何快速简便的方法将我的专用 GPT（Python 应用程序或自定义 GPT）连接到允许公众使用的前端？    由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1bugafj/easy_integration_with_a_frontend_gui/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bugafj/easy_integration_with_a_frontend_gui/</guid>
+      <pubDate>Wed, 03 Apr 2024 01:37:39 GMT</pubDate>
+    </item>
     <item>
       <title>建立人工智能顾问？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buf6hj/building_ai_consultants/</link>
-      <description><![CDATA[我一直在尝试通过人工智能打造“顾问”。提示类似于：“假设您在 x 工作。访问这些网站并吸收信息来建立你的角色”。但这确实是时好时坏。 ChatGPT 很好，但它不是最新的。 Gemini 我今天早上建了 3 个，其中 2 个似乎可以工作，第 3 个只是告诉我他们做不到，但它对另外 2 个有效，哈哈。你尝试过类似的吗？什么提示有效？   由   提交 /u/Grade-Long   /u/Grade-Long reddit.com/r/ArtificialInteligence/comments/1buf6hj/building_ai_consultants/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我一直在尝试通过人工智能打造“顾问”。提示类似于：“假设您在 x 工作。访问这些网站并吸收信息来建立你的角色”。但这确实是时好时坏。 ChatGPT 很好，但不是最新的。 Gemini 我今天早上建了 3 个，其中 2 个似乎可以用，第 3 个只是告诉我他们做不到，但对另外 2 个有用，哈哈。你尝试过类似的吗？什么提示有效？   由   提交/u/Grade-Long  /u/Grade-Long  reddit.com/r/ArtificialInteligence/comments/1buf6hj/building_ai_consultants/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buf6hj/building_ai_consultants/</guid>
       <pubDate>Wed, 03 Apr 2024 00:46:05 GMT</pubDate>
     </item>
@@ -27,13 +48,6 @@
       <pubDate>Wed, 03 Apr 2024 00:25:21 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1budzx7/generative_ai/</link>
-      <description><![CDATA[ 由   提交/u/Former_Ambassador883  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1budzx7/generative_ai/</guid>
-      <pubDate>Tue, 02 Apr 2024 23:52:32 GMT</pubDate>
-    </item>
-    <item>
       <title>乔恩·斯图尔特提出了我们许多人多年来一直在问的问题。 AI的最终结局是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bucos6/jon_stewart_is_asking_the_question_that_many_of/</link>
       <description><![CDATA[https://youtu.be/20TAkcy3aBY ?si=u6HRNul-OnVjSCnf 是的，我是婴儿潮一代。但我也完全了解世界上正在发生的事情，因此将我的糟糕态度归咎于我的年龄在这里并没有多大帮助，而且我感觉这将是这里许多人的下意识反应。这远不准确。  请告诉我，随着人工智能越来越融入（或完全融入）我们的生活，您如何看待世界的变化。请说明一下。    由   提交 /u/WhatsYour20GB   [链接] [评论]]]></description>
@@ -41,23 +55,16 @@
       <pubDate>Tue, 02 Apr 2024 22:57:53 GMT</pubDate>
     </item>
     <item>
-      <title>根据提示生成自己照片的工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bu8eg7/tool_for_generating_photos_of_myself_with_prompts/</link>
-      <description><![CDATA[嗨，我是一名内容创作者，有时我想制作自己在不同情况下的图像（图像可以看起来卡通或逼真。） 有人工智能吗有什么工具可以让我上传自己的照片，然后根据提示生成很酷且有趣的我的照片？   由   提交/u/gjian4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bu8eg7/tool_for_generating_photos_of_myself_with_prompts/</guid>
-      <pubDate>Tue, 02 Apr 2024 19:56:36 GMT</pubDate>
-    </item>
-    <item>
       <title>每日两分钟 AI 更新 (04/02/2024)：来自 Apple、OpenAI、Pinecone、Perplexity、Samsung 等的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bu3iew/twominute_daily_ai_update_04022024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Apple 的 ReALM 可以理解您的屏幕上下文 - Apple 研究人员开发了一种名为 ReALM 的 AI 系统，可以理解对屏幕元素的引用，了解更多信息与 Siri 等语音助手进行自然交互。通过将复杂的引用解析任务转换为语言建模问题，ReALM 在理解模糊引用和上下文方面甚至优于 GPT-4。 OpenAI 引入了对 ChatGPT 的即时访问 - 用户现在可以立即开始使用 ChatGPT，尽管创建帐户仍提供聊天历史记录、共享和语音对话等附加功能。 OpenAI 还引入了新的内容保护措施，并允许用户选择退出模型训练。 埃隆·马斯克表示人工智能可能会毁灭人类，但值得冒险 - Elon Musk马斯克最近在丰富峰会的“人工智能大辩论”上分享了他对人工智能潜在危险的看法。研讨会。他估计人工智能有 10-20% 的可能性对人类的生存构成威胁。然而，马斯克认为人工智能的好处大于风险，并强调教会人工智能诚实和好奇的重要性。  Pinecone 推出永不产生幻觉的 Luna AI - 使用新颖的“无信息”模型进行训练通过这种方法，卢娜在不知道答案时总是承认，从而实现了零幻觉。收获是什么？它在其他任务上的性能显着降低。虽然尚未开源，但经过审查的机构可以访问该模型的来源和权重。 美国和英国合作应对人工智能安全风险 - 随着人们对为了应对下一代人工智能的潜在风险，两国将共同开发先进的测试方法，并分享有关人工智能能力和风险的关键信息。此次合作将解决国家安全问题和更广泛的社会问题，并计划在各自的人工智能安全机构之间进行联合测试演习和人员交流。  Perplexity 在人工智能搜索中测试赞助问题 - Perplexity 计划通过赞助建议问题将其平台货币化。据该公司首席商务官 Dmitry Shevelenko 称，Perplexity 计划在今年晚些时候推出赞助建议问题。当用户搜索某个主题的更多信息时，该平台将提供来自品牌的建议查询。 OpenAI 通过东京办事处扩展到日本 - 东京办事处将成为 OpenAI 在亚洲的第一个地点，也是继伦敦和都柏林之后的第三个国际地点。此举旨在为企业提供日语定制人工智能服务，并为该国人工智能治理框架的发展做出贡献。 Bixby 获得 GenAI 升级 -尽管有猜测，三星并没有放弃其语音助手 Bixby。相反，该公司正在努力为 Bixby 配备生成式人工智能，使其更加智能、更具对话性。三星在其智能手机中引入了一套名为 Galaxy AI 的人工智能功能，其中包括 Galaxy S24 使用 Google 的 Gemini Nano AI 模型。  有关这些新闻和创新的更多详细信息，请参见 每日新闻通讯。  &amp; #32；由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Apple 的 ReALM 可以理解您的屏幕上下文 - Apple 研究人员开发了一种名为 ReALM 的 AI 系统，可以理解对屏幕元素的引用，了解更多信息与 Siri 等语音助手进行自然交互。通过将复杂的引用解析任务转换为语言建模问题，ReALM 在理解模糊引用和上下文方面甚至优于 GPT-4。 OpenAI 引入了对 ChatGPT 的即时访问 - 用户现在可以立即开始使用 ChatGPT，尽管创建帐户仍提供聊天历史记录、共享和语音对话等附加功能。 OpenAI 还引入了新的内容保护措施，并允许用户选择退出模型训练。 埃隆·马斯克表示人工智能可能会毁灭人类，但值得冒险 - Elon Musk马斯克最近在丰富峰会的“人工智能大辩论”上分享了他对人工智能潜在危险的看法。研讨会。他估计人工智能有 10-20% 的可能性对人类的生存构成威胁。然而，马斯克认为人工智能的好处大于风险，并强调教会人工智能诚实和好奇的重要性。  Pinecone 推出永不产生幻觉的 Luna AI - 使用新颖的“无信息”模型进行训练通过这种方法，卢娜在不知道答案时总是承认，从而实现了零幻觉。收获是什么？它在其他任务上的性能显着降低。虽然尚未开源，但经过审查的机构可以访问该模型的来源和权重。 美国和英国合作应对人工智能安全风险 - 随着人们对为了应对下一代人工智能的潜在风险，两国将共同开发先进的测试方法，并分享有关人工智能能力和风险的关键信息。此次合作将解决国家安全问题和更广泛的社会问题，并计划在各自的人工智能安全机构之间进行联合测试演习和人员交流。  Perplexity 在人工智能搜索中测试赞助问题 - Perplexity 计划通过赞助建议问题将其平台货币化。据该公司首席商务官 Dmitry Shevelenko 称，Perplexity 计划在今年晚些时候推出赞助建议问题。当用户搜索某个主题的更多信息时，该平台将提供品牌的建议查询。 OpenAI 通过东京办事处扩展到日本 - 东京办事处将成为 OpenAI 在亚洲的第一个地点，也是继伦敦和都柏林之后的第三个国际地点。此举旨在为企业提供日语定制人工智能服务，并为该国人工智能治理框架的发展做出贡献。 Bixby 获得 GenAI 升级 -尽管有猜测，三星并没有放弃其语音助手 Bixby。相反，该公司正在努力为 Bixby 配备生成式人工智能，使其更加智能、更具对话性。三星在其智能手机中引入了一套名为 Galaxy AI 的人工智能功能，其中包括 Galaxy S24 使用 Google 的 Gemini Nano AI 模型。  有关这些新闻和创新的更多详细信息，请参见 每日新闻通讯。  &amp; #32；由   提交 /u/RohitAkki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bu3iew/twominute_daily_ai_update_04022024_news_from/</guid>
       <pubDate>Tue, 02 Apr 2024 16:46:20 GMT</pubDate>
     </item>
     <item>
       <title>为什么我们应该创造有知觉的人造生物，为什么这在道德上不是错误的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bu3a0j/why_should_we_create_sentient_artificial_beings/</link>
-      <description><![CDATA[嗨，我正在准备一场辩论，我们必须在本周五进行比赛。我在周末写了命题的一面，忽略了另一面，结果我们正在辩论我没有写的一面。 一些一般性问题：有感知力的人工智能将如何帮助我们？为什么道德上没有错呢？  我们的要点：  人工授精的好处 非生物存在 平等与权利 不断发展的道德框架 促进多样性  （BIR 的确切决议是创造有知觉的人造生物在道德上是错误的，这意味着像克隆和试管受精这样的东西也有效） 如果你有什么，我的意思是任何东西，请告诉我，任何一点帮助。非常感谢！   由   提交 /u/isabellasnapdragon   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在准备一场辩论，我们必须在本周五进行比赛。我周末写了命题的一面，忽略了另一面，结果我们正在辩论我没有写的一面。 一些一般性问题：有感知力的人工智能将如何帮助我们？为什么道德上没有错呢？  我们的要点：  人工授精的好处 非生物存在 平等与权利 不断发展的道德框架 促进多样性  （BIR 的确切决议是创造有知觉的人造生物在道德上是错误的，这意味着像克隆和试管受精这样的东西也有效） 如果你有什么，我的意思是任何东西，请告诉我，任何一点帮助。非常感谢！   由   提交 /u/isabellasnapdragon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bu3a0j/why_should_we_create_sentient_artificial_beings/</guid>
       <pubDate>Tue, 02 Apr 2024 16:36:44 GMT</pubDate>
     </item>
@@ -69,13 +76,6 @@
       <pubDate>Tue, 02 Apr 2024 15:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Opus 3 显然已成为法学硕士之王。我应该将其添加到 BrainChat.ai 支持的法学硕士列表中吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bu1756/claude_opus_3_has_apparently_become_the_king_of/</link>
-      <description><![CDATA[在 BrainChat.ai 的 Alpha 版本中，我正在测试来自 OpenAI 和 Gemini 的模型。 Anthropic 的模型也做得非常出色。看来我也必须添加他们的 Claude Opus 3 模型。  我应该在这个阶段这样做，还是应该把它留到 Beta 阶段？   由   提交 /u/ramst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bu1756/claude_opus_3_has_apparently_become_the_king_of/</guid>
-      <pubDate>Tue, 02 Apr 2024 15:12:58 GMT</pubDate>
-    </item>
-    <item>
       <title>我的同事让 14 名法学硕士在 314 场《街头霸王 III》比赛中相互对战。克劳德 3俳句是现任领导者。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1btzusp/my_coworker_made_14_llms_fight_each_other_in_314/</link>
       <description><![CDATA[我的同事决定让基准测试变得更加令人兴奋，他使用 Amazon Bedrock 让一群法学硕士参加了 300 多场街头霸王 III 比赛。然后他创建了一个受国际象棋启发的 Elo 评级系统来对他们的表现进行排名。查看：https://community。 aws/content/2dbNlQiqKvUtTBV15mHBqivckmo/14-llms-fought-314-street-fighter-matches-here-s-who-won    ;由   提交/u/thedaveperry1   [链接] [评论]]]></description>
@@ -85,7 +85,7 @@
     <item>
       <title>开放人工智能的最终目标是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1btuoo6/what_is_open_ais_end_goal/</link>
-      <description><![CDATA[目前 open ai 是迄今为止人工智能领域最大的项目，他们最近宣布与微软达成一项名为 Stargate 的 1000 亿超级计算机的协议应该在2028年之前建成一个数据库中心。 我的问题是，他们的最终目标是什么？他们想要在人工智能领域占据绝对主导地位吗？他们只是想成为第一个制造 AGI 的人吗？或者只是保持市场领先地位？ 他们绝对是竞争者，但我想知道其他竞争者会如何发挥作用。 编辑：请不要回答诸如“”之类的肤浅答案赚钱”我们都知道这是他们的目标之一，但它不是最终目标，它不可持续。   由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
+      <description><![CDATA[目前 open ai 是迄今为止人工智能领域最大的项目，他们最近宣布与微软达成一项名为 Stargate 的 1000 亿超级计算机的协议应该在 2028 年之前完成一个数据库中心。 我的问题是，他们的最终目标是什么？他们想要在人工智能领域占据绝对主导地位吗？他们只是想成为第一个制造 AGI 的人吗？或者只是保持市场领先地位？ 他们绝对是竞争者，但我想知道其他竞争者会如何发挥作用。 编辑：请不要回答诸如“”之类的肤浅答案赚钱”我们都知道这是他们的目标之一，但它不是最终目标，它不可持续。   由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1btuoo6/what_is_open_ais_end_goal/</guid>
       <pubDate>Tue, 02 Apr 2024 09:48:27 GMT</pubDate>
     </item>
