@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 12:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:10:44 GMT</lastBuildDate>
     <item>
-      <title>[媒体]无人机正在彻底改变乌克兰的战争，两军都展示了其效果 [...]</title>
-      <link>https://t.me/hn_summary/82697</link>
-      <description><![CDATA[乌克兰的无人机作战如何改变战争
-无人机正在彻底改变乌克兰的战争，两军都展示了它们用廉价无人机摧毁昂贵设备的有效性。无人机部署规模呈爆炸式增长，无人机已融入乌克兰武装部队结构。配备高规格摄像头的侦察无人机可定位敌方目标，而 FPV 无人机和精确轰炸装置则可精确打击。远程无人机已经击中了敌方领土深处的目标，迫使我们调整防御策略。电子战系统用于干扰无人机信号，促进了不受干扰的人工智能制导无人机的发展。战争的未来可能在于人工智能技术，改变无人机作战的格局。]]></description>
-      <guid>https://t.me/hn_summary/82697</guid>
-      <pubDate>Wed, 03 Apr 2024 12:20:03 GMT</pubDate>
+      <title>[媒体]台湾遭受地震袭击后，数十人被困在高速公路隧道中</title>
+      <link>https://t.me/hn_summary/82768</link>
+      <description><![CDATA[台湾25年来最强地震，数十人被困隧道
+台湾发生25年来最强烈地震，造成至少9人死亡、900多人受伤，数十人被困在高速公路隧道中。东海岸发生7.4级地震，随后发生多次余震。救援人员正在努力营救被困人员，其中包括一家酒店的 50 名员工。据报道，损失严重，包括建筑物倒塌、停电和山体滑坡。此次地震引发了台湾、日本和菲律宾的海啸警报。损失的全部程度仍在评估中，搜救行动仍在进行中。台湾地处环太平洋火山带，地震频发。]]></description>
+      <guid>https://t.me/hn_summary/82768</guid>
+      <pubDate>Wed, 03 Apr 2024 18:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]长期核废料警告信息旨在阻止人类侵入核废料 [...]</title>
-      <link>https://t.me/hn_summary/82696</link>
-      <description><![CDATA[长期核废料警告消息
-长期核废料警告信息旨在阻止人类在遥远的将来入侵核废料储存库。桑迪亚国家实验室推荐了复杂的信息，包括不祥的物理特征和象形信息。废物隔离试点工厂为子孙后代研究了书面和图片信息，并考虑将其翻译成多种语言。拟议的设计包括诸如尖刺和土丘之类的物理标记，以传达危险。人们提出了各种文化方法，例如原子祭司、人造卫星、辐射猫和全球语言的警告标志。这些创造性的方法旨在传达数千年来核废料储存的危险。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82696</guid>
-      <pubDate>Wed, 03 Apr 2024 12:05:55 GMT</pubDate>
+      <title>[媒体] 隆重推出 Jpegli，这是一款革命性的 JPEG 编码库，可实现更快的加载速度 [...]</title>
+      <link>https://t.me/hn_summary/82767</link>
+      <description><![CDATA[Jpegli：新的 JPEG 编码库
+隆重推出 Jpegli，这是一款革命性的 JPEG 编码库，可实现更快的加载时间和更高的图像质量。 Jpegli 在高质量设置下压缩比提高了 35%，提供了高质量的结果、快速的编码速度以及比传统 JPEG 编解码器更有效地压缩图像的能力。使用自适应量化启发式方法和改进的量化矩阵选择，Jpegli 可提供更清晰的图像和更少的伪影。针对 libjpeg-turbo 和 MozJPEG 进行测试，Jpegli 在较低比特率下的图像质量方面表现出色。 Jpegli 是 Google Research 开发的一项很有前景的新技术，具有让互联网更快、更美观的潜力。]]></description>
+      <guid>https://t.me/hn_summary/82767</guid>
+      <pubDate>Wed, 03 Apr 2024 18:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Last Layer 是一个安全库，旨在保护 LLM 应用程序免受提示注入 [...]</title>
-      <link>https://t.me/hn_summary/82695</link>
-      <description><![CDATA[显示HN：我为LLM提示注入/利用创建了一个库/越狱检测
-Last Layer 是一个安全库，旨在保护 LLM 应用程序免受即时注入攻击、越狱和漏洞利用。它提供超快速扫描，对用户体验影响最小，注重隐私的操作，无需跟踪或网络调用，并且与无服务器平台兼容。该库利用先进的检测机制来准确识别威胁，并定期更新以适应不断变化的安全挑战。 Last Layer 的核心是闭源的，以降低逆向工程的风险并保持针对不断变化的威胁的有效性。该项目还提供了 Fast API 示例并欢迎贡献。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82695</guid>
-      <pubDate>Wed, 03 Apr 2024 11:38:44 GMT</pubDate>
+      <title>美国宇航局和洛克希德·马丁公司正在共同努力解决猎户座航天器的问题，这些问题[...]</title>
+      <link>https://t.me/hn_summary/82766</link>
+      <description><![CDATA[NASA、洛克希德马丁公司致力于解决 Artemis II Orion 问题
+NASA 和洛克希德·马丁公司正在共同努力解决猎户座飞船的问题，这些问题导致阿耳忒弥斯 II 号任务推迟到 2025 年 9 月。电路和电池耐用性方面的问题已经被发现，并正在实施修复。这些团队对他们的恢复计划充满信心，并正在努力实现发射准备目标日期。人们设计了独特的解决方法和解决方案来克服挑战，例如绕过航天器中的当前控制器以及在不同位置安装替代品。阿耳忒弥斯二号任务将是 EGS、猎户座和 SLS 计划的首次载人任务，由四名机组人员准备绕月飞行。 （根据 60% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82766</guid>
+      <pubDate>Wed, 03 Apr 2024 18:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 事情发生了令人惊讶的转变，乔恩·斯图尔特 (Jon Stewart) 透露，苹果试图阻止他 [...]</title>
-      <link>https://t.me/hn_summary/82694</link>
-      <description><![CDATA[乔恩·斯图尔特称苹果告诉他不要采访 FTC 的莉娜·汗
-令人惊讶的是，乔恩·斯图尔特 (Jon Stewart) 透露，苹果试图阻止他采访联邦贸易委员会 (FTC) 的莉娜·汗 (Lina Khan)，因为她卷入了针对这家科技巨头的反垄断案件。斯图尔特在接受《每日秀》采访时透露了这一消息，他表示希望让汗出现在他的播客上，但苹果公司告诉他不要这样做。这场争议揭示了科技行业中的权力动态，并引发了有关审查制度和企业影响力的问题。]]></description>
-      <guid>https://t.me/hn_summary/82694</guid>
-      <pubDate>Wed, 03 Apr 2024 11:37:41 GMT</pubDate>
+      <title>[媒体] 大通银行正在通过其新零售媒体平台 Cha [...]</title>
+      <link>https://t.me/hn_summary/82765</link>
+      <description><![CDATA[摩根大通即将让广告商根据支出定位客户
+大通银行正在通过其新的零售媒体平台 Chase Media Solutions 震撼广告界，该平台允许品牌根据 8000 万客户的消费习惯来定位他们。这一有争议的举动引起了人们对隐私和数据所有权的担忧，因为银行将使用客户的交易数据来个性化优惠和激励措施。然而，大通银行相信，其无与伦比的规模和客户洞察力将使其在竞争激烈的零售媒体行业中脱颖而出，该行业目前价值 610 亿美元，并且正在快速增长。亚马逊和沃尔玛等主要参与者已经加入其中，大通银行希望以其独特的定向广告方法引起轰动。]]></description>
+      <guid>https://t.me/hn_summary/82765</guid>
+      <pubDate>Wed, 03 Apr 2024 18:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>用于在 Intel CPU 和 GPU 上运行 LLM 的 PyTorch 库（称为 IPEX-LLM）旨在 [...]</title>
-      <link>https://t.me/hn_summary/82693</link>
-      <description><![CDATA[用于在 Intel CPU 和 GPU 上运行 LLM 的 PyTorch 库 
-用于在 Intel CPU 和 GPU 上运行 LLM 的 PyTorch 库（称为 IPEX-LLM）旨在实现在 Intel 硬件上低延迟执行大型语言模型。它利用 Intel Extension for PyTorch (IPEX) 并与各种其他工具和库无缝集成。 IPEX-LLM 为 50 多种模型提供优化，包括对 Intel GPU 和 CPU 上的微调和不同类型推理的支持。值得注意的功能包括用于提高性能的自推测解码以及直接从 ModelScope 加载模型的能力。该项目旨在在英特尔架构上提供高效的法学硕士执行，重点关注性能和多功能性。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82693</guid>
-      <pubDate>Wed, 03 Apr 2024 11:17:33 GMT</pubDate>
+      <title>[媒体]以色列媒体调查显示，以色列正在使用秘密人工智能软件 [...]</title>
+      <link>https://t.me/hn_summary/82764</link>
+      <description><![CDATA[报告称，以色列的“Lavender”人工智能用于加沙杀戮名单&lt; /a&gt;
+以色列媒体调查显示，以色列正在使用名为“Lavender”的秘密人工智能软件在加沙创建杀戮名单，针对约37,000人进行潜在的空袭。该计划使用机器学习根据与可疑激进分子的关联等因素为个人评分。目标决策是在最少的监督下快速做出的，导致错误率很高。据报道，附带损害规则有所放松，导致平民伤亡增加。以色列否认将决策外包给机器，但围绕在瞄准实践中使用人工智能的争议引发了外国政府和人道主义组织的批评。]]></description>
+      <guid>https://t.me/hn_summary/82764</guid>
+      <pubDate>Wed, 03 Apr 2024 17:58:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]杯赛VS杯赛</title>
-      <link>https://t.me/hn_summary/82692</link>
-      <description><![CDATA[杯子与克数：为什么美国和英国厨师不能达成一致关于食物测量？
-美国和英国的厨师长期以来在使用杯子和克来测量食物的问题上存在分歧。美国人依赖基于体积的测量，而欧洲人更喜欢基于重量的测量。争议在于使用杯子的准确性和一致性，许多专业人士主张使用秤来获得精确的结果。尽管人们对使用杯子有情感上的依恋，但使用秤的趋势正在增长，尤其是在准确性至关重要的烘焙领域。争论仍在继续，一些人主张杯子的便利性和传统，而另一些人则主张克的精确度。]]></description>
-      <guid>https://t.me/hn_summary/82692</guid>
-      <pubDate>Wed, 03 Apr 2024 11:11:27 GMT</pubDate>
+      <title>[媒体] 据报道，由于基础设施成本极高，稳定性人工智能面临财务困境，[...]</title>
+      <link>https://t.me/hn_summary/82763</link>
+      <description><![CDATA[据报道，Stability AI 耗尽了现金来支付其云 GPU 账单&lt; /a&gt;
+据报道，Stability AI 由于基础设施成本过高而面临财务困境，耗尽了公司的金库，只剩下 400 万美元的储备金。前首席执行官 Emad Mostaque 难以支付其流行的文本到图像生成模型 Stable Diffusion 所需的巨额 GPU 费用。该公司未能与主要客户和投资者达成交易，导致信任和财务稳定性螺旋式下降。尽管努力转向订阅模式并转售计算资源，但 Stability AI 的未来仍然不确定，版权侵权案件迫在眉睫。新的管理层就位，但公司的命运仍悬而未决。]]></description>
+      <guid>https://t.me/hn_summary/82763</guid>
+      <pubDate>Wed, 03 Apr 2024 17:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今年将是我第 11 次参加勒芒大赛，这是我自从第一次参加勒芒大赛以来一直在追逐的梦想 [...]</title>
-      <link>https://t.me/hn_summary/82691</link>
-      <description><![CDATA[2024 年勒芒
-今年将是我第 11 次参加勒芒大赛，这是我自从第一次驾驶赛车以来一直在追逐的梦想。要在竞争激烈的赛车运动中占据一席之地，需要资金和人才、合作伙伴关系和赞助的结合。尽管赛车运动的未来存在不确定性，但今年的勒芒将迎来制造商的高调参与和激烈的竞争。 44 岁了，我知道我作为车手的巅峰不会永远持续下去，但我接受不可避免的衰退。作为一名父亲，无论我的儿子们是否参加赛车运动，我都会在人类血统的延续中找到安慰。当我开车时，没有时间思考存在主义 - 只需专注于快速行驶并避免碰撞。]]></description>
-      <guid>https://t.me/hn_summary/82691</guid>
-      <pubDate>Wed, 03 Apr 2024 11:09:23 GMT</pubDate>
+      <title>Ugreen 将挑战 Synology 在网络附加存储 (NAS) 市场的主导地位 [...]</title>
+      <link>https://t.me/hn_summary/82762</link>
+      <description><![CDATA[Ugreen 以平价系列 NAS 硬件挑战 Synology 
+Ugreen 准备通过其新的 NASync 系列挑战 Synology 在网络附加存储 (NAS) 市场的主导地位，该系列已在 Kickstarter 上筹集了超过 230 万美元。该系列包括六款产品，可满足从个人使用到商业解决方案等不同用户的需求，具有令人印象深刻的规格，如第 12 代英特尔酷睿 i5 处理器和高达 64GB 的可扩展内存。顶级型号提供双 10GbE 端口和 Thunderbolt 4 端口，实现闪电般的性能。凭借全面的移动应用程序和专业的数据安全性，NASync 系列正在成为 NAS 市场的有力竞争者。]]></description>
+      <guid>https://t.me/hn_summary/82762</guid>
+      <pubDate>Wed, 03 Apr 2024 17:53:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：俄罗斯在欧洲的影响力网络：提拔政客名单</title>
-      <link>https://t.me/hn_summary/82690</link>
-      <description><![CDATA[俄罗斯在欧洲的影响力网络：晋升政客名单 
-标题：俄罗斯在欧洲的影响力网络：提拔的政治家名单
-
-俄罗斯在欧洲的影响力网络被曝光，亲俄网站“欧洲之声”宣传的欧洲政客名单曝光。颇具争议的是，马克西米利安·克拉（Maximilian Krah）和蒂埃里·马里亚尼（Thierry Mariani）等以推动亲克里姆林宫议程而闻名的政客也在晋升之列。捷克反情报机构发现了俄罗斯针对欧洲议会选举的影响力活动，导致该网站所有者和维克托·梅德韦德丘克受到制裁。令人惊讶的是，德国选择党的反建制议员据称收到了付款，引发了波兰对俄罗斯间谍活动的调查。请继续关注俄罗斯在欧洲影响力的传奇故事的进一步发展。]]></description>
-      <guid>https://t.me/hn_summary/82690</guid>
-      <pubDate>Wed, 03 Apr 2024 11:01:17 GMT</pubDate>
+      <title>[媒体]这项研究探讨了临界闪烁融合阈值的个体差异，这是一个[...]</title>
+      <link>https://t.me/hn_summary/82761</link>
+      <description><![CDATA[视速：临界闪烁融合阈值的个体差异
+本研究探讨了健康人类参与者中临界闪烁融合阈值（视觉时间分辨率的衡量标准）的个体差异。研究人员使用两种常见的心理物理学方法，发现参与者之间的最大差异约为 30 Hz，其中女性比男性表现出更大的变异性。该研究还评估了阈值随时间的稳定性，发现大约 80% 的方差是由于个体之间的差异造成的。通过结合不同的测试方法，该研究旨在提供一种更有效的方法来测量 CFF 阈值。总体而言，该研究强调了视觉感知的自然变化以及在视觉时间分辨率研究中考虑个体差异的重要性。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82761</guid>
+      <pubDate>Wed, 03 Apr 2024 17:48:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]乔恩·斯图尔特 (Jon Stewart) 指责苹果阻止他采访联邦贸易委员会 (FTC) 主席莉娜·汗 (Lina Khan) [...]</title>
-      <link>https://t.me/hn_summary/82689</link>
-      <description><![CDATA[审查制度：乔恩·斯图尔特称苹果告诉他不要采访 FTC 主席莉娜可汗
-乔恩·斯图尔特 (Jon Stewart) 指责苹果阻止他在他的节目《乔恩·斯图尔特的问题》(The Problem with Jon Stewart) 中采访 FTC 主席莉娜·汗 (Lina Khan)。据称，苹果公司要求他不要与汗交谈，这引发了人们的疑问，为什么他们害怕在公共领域进行某些对话。以追求反垄断行动而闻名的汗并未起诉苹果，而是将目标瞄准了亚马逊等其他科技巨头。斯图尔特的节目因与苹果在创意控制和包括中国在内的话题上关系紧张而被取消。这场争议凸显了围绕大型科技公司和反垄断监管的权力动态和敏感性。]]></description>
-      <guid>https://t.me/hn_summary/82689</guid>
-      <pubDate>Wed, 03 Apr 2024 10:31:05 GMT</pubDate>
+      <title>[媒体]德克萨斯三角是一个独特且快速发展的巨型区域，挑战了常见的地形 [...]</title>
+      <link>https://t.me/hn_summary/82760</link>
+      <description><![CDATA[德克萨斯三角区：一个不同于其他地区的崛起中的巨型区域 
+德克萨斯三角是一个独特且快速发展的巨型区域，打破了人们对德克萨斯州的普遍刻板印象。虽然它与国家有一些共同特征，例如经济扩张和多元化，但它也通过较高的教育水平和更加中间派的政治格局挑战了人们的看法。三角都市面临着共同的挑战，例如西班牙裔社区的教育程度较低，但也具有整合在一个州内的优势。随着德克萨斯三角不断发展，它成为在维持经济增长的同时包容多样性的典范，使其成为美国社会和全球经济的关键参与者。]]></description>
+      <guid>https://t.me/hn_summary/82760</guid>
+      <pubDate>Wed, 03 Apr 2024 17:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>您是否厌倦了为平庸的在线课程支付一大笔钱？</title>
-      <link>https://t.me/hn_summary/82688</link>
-      <description><![CDATA[显示 HN：我创建了一个网站来查找顶级 YouTube 课程，绕过了昂贵的课程
-您是否厌倦了为平庸的在线课程支付一大笔钱？别再犹豫了！ EduHunt 可帮助您免费找到 YouTube 上的热门教育内容。只需输入您要查找的内容，然后让我们的人工智能为您完成工作。 EduHunt 具有可定制的搜索结果和对广泛教育内容的访问，是您的首选学习工具。最好的部分是什么？您有 24 小时试用期来测试它。告别无用的在线课程，开始通过 EduHunt 更智能地学习。在 Twitter 上关注创作者 Saikou 以获取更多更新。]]></description>
-      <guid>https://t.me/hn_summary/82688</guid>
-      <pubDate>Wed, 03 Apr 2024 10:30:02 GMT</pubDate>
+      <title>[媒体]Burr 是一个旨在帮助开发人员快速构建和调试 GenAI 应用程序的框架 [...]</title>
+      <link>https://t.me/hn_summary/82759</link>
+      <description><![CDATA[显示 HN：Burr – 用于更快构建和调试 GenAI 应用程序的框架
+Burr 是一个框架，旨在帮助开发人员通过使用简单的 Python 构建块创建状态机来更快地构建和调试 GenAI 应用程序。它包括一个用于实时监控决策的 UI，使其对于聊天机器人、代理、模拟等非常有用。 Burr 通过提供低抽象 Python 库、用于遥测的 UI 以及用于持久状态和连接到其他系统的集成而与众不同。它可用于各种应用程序，例如聊天机器人、机器学习管道和模拟。该项目以 Aaron Burr 命名，旨在简化 Hamilton DAG 执行之间的状态管理。该路线图包括测试、效率改进和基于云的检查点等功能。欢迎开发者做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/82759</guid>
+      <pubDate>Wed, 03 Apr 2024 17:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

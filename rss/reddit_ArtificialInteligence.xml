@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 15:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:13:32 GMT</lastBuildDate>
+    <item>
+      <title>现在根据提示创建 STERIO 音乐：新推出的稳定音乐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buz3ao/now_create_sterio_music_from_prompt_newly/</link>
+      <description><![CDATA[我一直在 SaaS 开发和发布的世界中工作，每周有关此类 SaaS 的新闻都让我感到惊讶。今晚，Stability Audio 宣布了其最新版本，该版本可通过提示符生成可用于商业用途的立体声音频。 主页上的示例提示符为：Soulful Boom Bap Hip Hop 乐器、庄严效果钢琴、SP-1200、低音-关键摇摆鼓，正弦波低音，有个性，平和，有趣，编曲良好，90 BPM ​ 我无法停止自己的想象接下来会发生什么。 ​ 所以现在您可以动态创建高质量视觉特效 (SORA)，生成高质量图像（稳定扩散），现在生成高质量音频和背景乐谱具有稳定的音频。  ​ 我相信电影和娱乐行业将在未来一年（或几个月）遭受重创。您认为还会影响哪些地方？  如果您尝试并在评论中发布提示，我会很高兴。 ​ URL：https://stableaudio.com/ ​ ​    由   提交/u/aureliatech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buz3ao/now_create_sterio_music_from_prompt_newly/</guid>
+      <pubDate>Wed, 03 Apr 2024 17:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解如何免费使用 ChatGPT Next Web (NextChat)</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buyxx1/learn_how_to_use_chatgpt_next_web_nextchat_for/</link>
+      <description><![CDATA[ChatGPT Next Web（现称为 NextChat）是一款聊天机器人应用程序，使用户能够访问来自 OpenAI 和 Google AI 的高级 AI 模型。该应用程序是轻量级的，并且包含增强用户体验的功能。 在本教程中，我们将学习如何免费获取 Google AI API 并使用 ChatGPT Next Web 生成响应。此外，我们将学习如何在 Windows 11 上本地使用它。最后，我们将在一分钟内在 Vercel 上部署我们自己的 Web 应用程序。 ​ 链接：https://www.kdnuggets.com/learn-如何免费使用chatgpt-next-web-nextchat   由   提交 /u/kingabzpro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buyxx1/learn_how_to_use_chatgpt_next_web_nextchat_for/</guid>
+      <pubDate>Wed, 03 Apr 2024 17:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>MobileEyes 技术是赢家吗？该股票值得买入吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buxpcw/is_mobileeyes_tech_a_winner_is_the_stock_a_buy/</link>
+      <description><![CDATA[mobileye 是一项不错的投资吗？ 我认为 Waymo 是这一切的赢家，但我想知道是否还有空间MobileEyes 技术也非常有价值。 有人认为这是一笔不错的投资吗？   由   提交 /u/SeperentOfRa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buxpcw/is_mobileeyes_tech_a_winner_is_the_stock_a_buy/</guid>
+      <pubDate>Wed, 03 Apr 2024 16:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 4 月 3 日）：来自 DeepMind、Anthropic、Microsoft、Cloudflare 等的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buweuc/twominute_daily_ai_update_date_04032024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Google 的 Gecko：LLM 支持的文本嵌入突破： - Gecko 是一种紧凑且高度通用的文本嵌入模型，通过利用 LLM 的知识实现了令人印象深刻的性能。 Gecko 背后的 DeepMind 研究人员开发了一种新颖的两步蒸馏过程，使用 LLM 创建名为 FRet 的高质量数据集。 Gecko 的性能优于 MTEB 上类似尺寸的现有模型，后者大 7 倍，尺寸增加 5 倍。  Anthropic 的“多次越狱”削弱了 AI 道德： - Anthropic 发现了一种新方法，可以让高级 AI 语言模型绕过其安全限制并提供不道德的服务信息。他们称之为“多次越狱”。技术。通过在输入中包含许多虚构的对话示例，其中人工智能助手会提供有害的响应，研究人员可以让真正的人工智能覆盖其训练。  CosmicMan 能够生成逼真的人物图像： - 上海人工智能实验室的研究人员创建了一种名为 CosmicMan 的新人工智能模型，专门生成逼真的人物图像。 CosmicMan 可以生成高质量、逼真的人体图像，与详细的文本描述精确匹配。  微软计划在 Xbox 中添加人工智能聊天机器人： - 微软目前正在测试一款新的人工智能聊天机器人，该机器人将添加到 Xbox 中以自动执行客户支持任务。这家软件巨头已经测试了一个“具体的人工智能角色”，该角色在响应 Xbox 支持查询时会产生动画效果。虚拟代表可以处理文本或语音请求。  CloudFare 推出 Workers AI，支持 Hugging Face 的一键部署： - CloudFare 推出 Workers AI，使开发人员能够将其 AI 应用程序从 Hugging Face 引入到一键点击其平台。由 GPU 驱动的无服务器接口通常向公众开放。 Cloudflare-Hugging Face 集成于七个月前宣布，使模型可以轻松部署在 Workers AI 上。  机器学习可以预测和增强复杂的啤酒风味： - 在《自然通讯》的一项研究中，研究人员结合化学分析、感官数据和机器学习来创建模型根据啤酒的化学成分准确预测啤酒风味和消费者的喜好。他们发现了增强风味的化合物，并用它们来改善商业啤酒的口味和受欢迎程度。 Read AI 将 AI 摘要添加到会议、电子邮件和消息中： - Read AI 正在将其服务从总结视频会议扩展到包括消息和电子邮件。它连接到 Gmail、Outlook、Slack、Zoom、Microsoft Teams 和 Google Meet 等流行的通信平台，以提供每日更新、摘要和人工智能生成的要点。目标是帮助用户节省时间并提高工作效率。 Bille Elish、Kety Perry 和其他 200 名艺术家抗议 AI 贬低音乐： - 超过 200 名著名艺术家包括比莉·艾利什 (Billie Eilish) 和凯蒂·佩里 (Katy Perry) 在内的音乐家表达了他们对人工智能对人类创造力的负面影响的担忧。他们呼吁负责任的人工智能，并敦促人工智能公司停止创作破坏其工作的音乐。他们认为不受监管和控制的人工智能可能会伤害歌曲作者、音乐家和创作者。   每日通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buweuc/twominute_daily_ai_update_date_04032024_news_from/</guid>
+      <pubDate>Wed, 03 Apr 2024 16:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的校长将他的种族主义者音频泄露归咎于人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buw6dp/my_principal_blamed_a_racist_leaked_audio_of_him/</link>
+      <description><![CDATA[我以前的高中校长被录音对学生和家长说了种族主义的话，并且音频被泄露给新闻。在此之前我对他并没有什么看法，但我在现实生活中认识的很多人都表示，他们一点也不感到惊讶，当地 Reddit 版块和 Twitter 上的人也是如此。我知道音频听起来与他的用词选择和说话方式一模一样。 他将音频归咎于人工智能，新闻也随之而来，所以看起来他会侥幸逃脱惩罚。这很烦人，因为所有的家长都立即接受了这一点，并开始谈论这种情况可能发生在任何人身上是多么可怕，并比较像巴拉克奥巴马人工智能歌曲这样的案例，不明白他只是一个随机的校长而不是公众人物。直到其他人开始猜测他才说这是人工智能，这对我来说也很可疑。  所以我想知道，对于一个人来说，从零开始创建一个只有几个在线视频的随机人的语音模块有多困难，是否有人愿意听一下&lt; a href=&quot;https://www.youtube.com/watch?v=WT-2p832IMk&quot;&gt;音频并说出您的想法。谢谢。    由   提交 /u/flockl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buw6dp/my_principal_blamed_a_racist_leaked_audio_of_him/</guid>
+      <pubDate>Wed, 03 Apr 2024 15:56:22 GMT</pubDate>
+    </item>
     <item>
       <title>Stability AI 更新了用于音乐创作的神经网络</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buuph9/stability_ai_has_updated_its_neural_network_for/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>文本转换：从输入文件生成输出文件</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buth5s/text_transformation_generating_output_files_from/</link>
-      <description><![CDATA[文本转换：训练模型从输入文件生成输出文件 您好，我目前正在开发一个项目，该项目包括“翻译”文件从一种格式转换为另一种格式，我使用了带有映射的编程方法，该映射将输入文件中的每个模式与输出中的方便模式链接起来，编写映射和执行转换的类非常困难，此外，我每次我想要一种新的格式或调整时，都应该编写一个新的，所以我决定用一个可以用数千个输入文件及其各自的输出进行尝试的模型来替换整个东西，这里有一个小例子可以给你一个想法：来自输入文件的块：DIM+1.800:0.400:500:CT+12，在输出中转换为 XML 标记：1.800&lt;\height&gt; &lt;长度&gt;0.400&lt;\长度&gt; &lt;宽度&gt;500&lt;\宽度&gt;所以基本上，第一行就是我们所说的“段”它以 3 个字母的首字母缩略词开头，正如您所看到的，它代表尺寸，并转换高度、长度和宽度，如图所示，输入文件是一系列片段，例如尺寸、日期、地址等，输出可能是 XML 或其他东西，但我想模型的逻辑不会有很大不同，我可以将其调整为其他格式，这怎么能完成？？？谢谢   由   提交 /u/rickwheelersr4   [链接] [评论]]]></description>
+      <description><![CDATA[文本转换：训练模型从输入文件生成输出文件 您好，我目前正在开发一个项目，该项目包括“翻译”文件从一种格式转换为另一种格式，我使用了带有映射的编程方法，该映射将输入文件中的每个模式与输出中的方便模式链接起来，编写映射和执行转换的类非常困难，此外，我每次我想要一种新的格式或调整时，都应该写一个新的，所以我决定用一个可以用数千个输入文件及其各自的输出进行尝试的模型来替换整个东西，这里有一个小例子可以给你一个想法：来自输入文件的块：DIM+1.800:0.400:500:CT+12，在输出中转换为 XML 标记：1.800&lt;\height&gt; &lt;长度&gt;0.400&lt;\长度&gt; &lt;宽度&gt;500&lt;\宽度&gt;所以基本上，第一行就是我们所说的“段”它以 3 个字母的首字母缩略词开头，正如您所看到的，它代表尺寸，并转换高度、长度和宽度，如图所示，输入文件是一系列片段，例如尺寸、日期、地址等，输出可能是 XML 或其他东西，但我想模型的逻辑不会有很大不同，我可以将其调整为其他格式，这怎么能完成？？？谢谢   由   提交 /u/rickwheelersr4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buth5s/text_transformation_generating_output_files_from/</guid>
       <pubDate>Wed, 03 Apr 2024 14:06:00 GMT</pubDate>
     </item>
@@ -25,13 +60,6 @@
       <description><![CDATA[人工智能和营销的融合似乎不可避免。我正在寻找 MateGenius.ai 的人工智能机器人，以实现我的数字营销机构的某些部分的自动化。好奇这里是否有人对他们的工具有经验或见解？   由   提交/u/Karen_Hong   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buta52/ai_in_digital_marketing_thoughts_on_mategeniusai/</guid>
       <pubDate>Wed, 03 Apr 2024 13:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>有用例问题的新手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1but30i/novice_with_usage_case_question/</link>
-      <description><![CDATA[如果这是常识，我向大家道歉，但请原谅我。好吧，这是场景……假设我是一名音乐家和歌手。我可以以某种方式输入一些我录制/演唱的歌曲，然后提示人工智能给我一份我可以做得很好并且观众喜欢的欢快翻唱歌曲列表吗？生成我非常适合的完整“原创”曲调怎么样？ AI擅长主观反馈吗？谢谢！ 编辑：我可以进行对话，让 AI 告诉我如何以更迷人的方式表达出来吗？   由   提交 /u/GuitarPlayerEngineer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1but30i/novice_with_usage_case_question/</guid>
-      <pubDate>Wed, 03 Apr 2024 13:49:55 GMT</pubDate>
     </item>
     <item>
       <title>Sam Altman 放弃了 OpenAI 创业基金的控制权，解决了不寻常的企业风险结构</title>
@@ -48,32 +76,11 @@
       <pubDate>Wed, 03 Apr 2024 10:20:50 GMT</pubDate>
     </item>
     <item>
-      <title>多次越狱 - LLM 漏洞</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buo5pe/manyshot_jailbreaking_a_llm_vulnerability/</link>
-      <description><![CDATA[ 由   提交/u/caljhud  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buo5pe/manyshot_jailbreaking_a_llm_vulnerability/</guid>
-      <pubDate>Wed, 03 Apr 2024 09:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成 ChatGPT 以自动化 WhatsApp 响应</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bul448/integrating_chatgpt_to_automate_whatsapp_responses/</link>
-      <description><![CDATA[当今世界，消息传递应用程序变得越来越流行，WhatsApp 是使用最广泛的应用程序之一。在人工智能的帮助下，聊天机器人已成为企业改善客户服务体验的重要工具。对于想要提供无缝、高效的客户体验的企业来说，聊天机器人与 WhatsApp 的集成已成为必需。 ChatGPT 是流行的聊天机器人之一，可以为此目的与 WhatsApp 集成。在这篇博文中，我们将讨论如何将 ChatGPT 与 WhatsApp 集成，以及聊天机器人与 WhatsApp 的集成如何使您的业务受益。 阅读：https://www.seaflux.tech/blogs/integrate-chatgpt-with-whatsapp    ;由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bul448/integrating_chatgpt_to_automate_whatsapp_responses/</guid>
-      <pubDate>Wed, 03 Apr 2024 05:52:55 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么 Copilot Studio 和 Copilot pro 的采用在网上如此安静？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buidvm/why_is_the_adoption_of_copilot_studio_and_copilot/</link>
       <description><![CDATA[Reddit 子版块非常小，几乎没有帖子，facebook、X 都一样。有人使用这些工具吗？我感受到了 openAI 的吸引力，但许多企业无法或不愿意将其引入内部。但如果他们是微软的 Azure 商店，他们很可能会采用 Copilot。预先感谢您的意见。    由   提交 /u/Titos-Airstream-2003   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buidvm/why_is_the_adoption_of_copilot_studio_and_copilot/</guid>
       <pubDate>Wed, 03 Apr 2024 03:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>CustomGPT 之后是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1buezfj/what_comes_after_customgpts/</link>
-      <description><![CDATA[我们有提示，然后提示被搁置到自定义 GPT，这很有趣。但接下来会发生什么呢？我们是继续将信息加载到我们的虚拟朋友中，还是像提示工程一样来来去去快   由   提交/u/circa20twenty  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1buezfj/what_comes_after_customgpts/</guid>
-      <pubDate>Wed, 03 Apr 2024 00:36:59 GMT</pubDate>
     </item>
     <item>
       <title>乔恩·斯图尔特提出了我们许多人多年来一直在问的问题。 AI的最终结局是什么？</title>
@@ -90,13 +97,6 @@
       <pubDate>Tue, 02 Apr 2024 14:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>开放人工智能的最终目标是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1btuoo6/what_is_open_ais_end_goal/</link>
-      <description><![CDATA[目前 open ai 是迄今为止人工智能领域最大的项目，他们最近宣布与微软达成一项名为 Stargate 的 1000 亿超级计算机的协议应该在2028年之前建成一个数据库中心。 我的问题是，他们的最终目标是什么？他们想要在人工智能领域占据绝对主导地位吗？他们只是想成为第一个制造 AGI 的人吗？或者只是保持市场领先地位？ 他们绝对是竞争者，但我想知道其他竞争者会如何发挥作用。 编辑：请不要回答诸如“”之类的肤浅答案赚钱”我们都知道这是他们的目标之一，但它不是最终目标，它不可持续。   由   提交 /u/unknownstudentoflife   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1btuoo6/what_is_open_ais_end_goal/</guid>
-      <pubDate>Tue, 02 Apr 2024 09:48:27 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

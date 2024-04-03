@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 03 Apr 2024 15:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:14:20 GMT</lastBuildDate>
+    <item>
+      <title>填充/调整层</title>
+      <link>https://www.reddit.com/r/editors/comments/1buyrd2/fill_adjustment_layers/</link>
+      <description><![CDATA[出于某种原因，我的编辑器从不将效果添加到原始剪辑中 - 他更喜欢在 V2、V3、V4 等上使用效果堆叠调整图层/填充图层. 当需要符合准备时，将所有效果应用到实际剪辑是一个巨大的痛苦。 我想知道，XML/AAF 能否从 Premiere 中的调整图层捕获信息？同样，AAF 可以从 Avid 捕获信息填充层吗？ 任何关于如何简化我的工作流程以符合准备的想法都值得赞赏！  &amp;# 32；由   提交/u/axp955  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1buyrd2/fill_adjustment_layers/</guid>
+      <pubDate>Wed, 03 Apr 2024 17:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在哪个查看器伽玛中进行编辑？</title>
+      <link>https://www.reddit.com/r/editors/comments/1buyhhg/which_viewer_gamma_do_you_edit_in/</link>
+      <description><![CDATA[我终于能够弄清楚为什么我的视频颜色在 Quicktime 和在线 (Chrome/Safari) 中与在 Premiere Pro 中看起来不同。简单的答案是，没有普遍接受的显示标准，默认情况下，Premiere 已将色彩空间设置为 2.4 广播标准 Gamma。另一方面，Quicktime 和其他互联网浏览器使用 1.96 Gamma。在 Quicktime、Chrome 或 Safari 中查看导出的视频（在 Mac 上）时，颜色显得饱和度较低，并且黑色电平被冲淡。 话虽如此，随着 Premiere Pro 2024 的发布，您可以可以通过单击“设置”将观众伽玛设置为 2.4 Broadcast、2.2 Web 或 1.96 Quicktime在 Lumetri 面板中。我想问其他在 Premiere Pro 中进行色彩分级的编辑人员（我想是超出范围的），您使用什么查看器伽玛进行编辑？ 我这些天制作的大部分内容只能在 YouTube 上看到或社交媒体（笔记本电脑和智能手机）。对我来说，将查看器伽马设置为 1.96 Quicktime 并导出到 H.264 更有意义，而无需像我过去那样添加任何额外的 Quicktime 补偿 LUT。如果我最终不得不制作电视广告，我会将观众伽玛设置为 2.4 Broadcast。或者也许将我的观众伽玛设置为 2.2 Web 会更明智，因为这是最好的中间立场？如果只有一个普遍接受的观看标准，那就太好了，这样我们只需编辑并剔除单一颜色的导出，但这充其量只是一个白日梦。 很想知道其他人的想法. 我认为这篇文章以简洁明了的方式很好地解释了伽玛问题： https:// digitalfilms.wordpress.com/2023/10/12/premiere-pro-tackles-the-gamma-bug/#:\~:text=3%20viewer%20gamma%20levels%20are,%2C%20with%202.2%20in% 2D之间.   由   提交 /u/TheWampaSlayer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1buyhhg/which_viewer_gamma_do_you_edit_in/</guid>
+      <pubDate>Wed, 03 Apr 2024 17:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Moviola 20 手册</title>
+      <link>https://www.reddit.com/r/editors/comments/1buvxzd/looking_for_moviola_20_manual/</link>
+      <description><![CDATA[正在查找 Moviola 20 手册。有人吗？   由   提交/u/vincentchase2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1buvxzd/looking_for_moviola_20_manual/</guid>
+      <pubDate>Wed, 03 Apr 2024 15:47:06 GMT</pubDate>
+    </item>
     <item>
       <title>制片人要求我在有时间的时候编辑她的个人 insta 视频</title>
       <link>https://www.reddit.com/r/editors/comments/1buu9fv/producer_asks_me_to_edit_her_personal_insta_reels/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我因通过子混音进行所有混音而受到一些批评，即我将所有对话/FX/MX 发送到各自的子混音，然后使用 MX 子混音轨道上的关键帧将音乐浸入对话下方。我认为这是一种更好的工作方式，因为它允许我交换音乐片段而无需重新绘制，并且使用钢笔工具可以很容易地调整关键帧。 问题是大多数人在我的公司里，我们会单独对实际的音乐剪辑进行关键帧处理，以避开下面的对话，我认为进行调整也是一件很痛苦的事情。艾塔？   由   提交 /u/ryguysir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bu1a75/premiere_pro_submixes/</guid>
       <pubDate>Tue, 02 Apr 2024 15:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>纪录片灵感：由独奏者拍摄的序列</title>
-      <link>https://www.reddit.com/r/editors/comments/1btyf5d/documentary_inspiration_sequences_shot_by_a_solo/</link>
-      <description><![CDATA[我是一名纪录片制片人和摄影师，最近为一家广播公司拍摄了半小时的时事文档。通常只有我和一名主持人/记者，如果有两个以上的麦克风，偶尔会有声音。我正在寻找灵感，特别是我们一直需要的更人为的序列。   由   提交 /u/tassietyler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1btyf5d/documentary_inspiration_sequences_shot_by_a_solo/</guid>
-      <pubDate>Tue, 02 Apr 2024 13:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何联系尚未发送双方同意的工作的客户</title>
-      <link>https://www.reddit.com/r/editors/comments/1btxjlq/how_to_reach_out_to_a_client_that_hasnt_been/</link>
-      <description><![CDATA[我有一位客户正在寻找每周编辑一个视频的人，以后每周编辑 2 个视频。 我们签署了一份二月份的合同说明了商定的工作量。从那以后我只编辑了 2 个视频。 我该如何联系这位客户解决这种情况？   由   提交/u/aregulargirl089  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1btxjlq/how_to_reach_out_to_a_client_that_hasnt_been/</guid>
-      <pubDate>Tue, 02 Apr 2024 12:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人比较过顶级规格 m1 ultra studio 和顶级规格 m3 macbook pro 吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bti0ef/anyone_compared_a_top_spec_m1_ultra_studio_with_a/</link>
-      <description><![CDATA[嘿，我需要再次进行远程操作，我想知道顶级规格 m3 macbook pro 是否能与顶级规格 m1 ultra studio 竞争？如果他们在同一个球场，这对我来说是个好消息。谢谢   由   提交/u/richielg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bti0ef/anyone_compared_a_top_spec_m1_ultra_studio_with_a/</guid>
-      <pubDate>Mon, 01 Apr 2024 22:34:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
