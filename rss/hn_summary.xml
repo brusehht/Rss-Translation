@@ -4,88 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 02:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 09:13:25 GMT</lastBuildDate>
     <item>
-      <title>问 HN：入门级软件工程工作的未来是什么？</title>
-      <link>https://t.me/hn_summary/82652</link>
-      <description><![CDATA[问HN：入门级软件工程的未来是什么工作？
-标题：问 HN：入门级软件工程工作的未来是什么？
+      <title>[媒体]在一份措辞严厉的报告中，拜登政府任命的联邦审查委员会批评 [...]</title>
+      <link>https://t.me/hn_summary/82683</link>
+      <description><![CDATA[针对中国黑客攻击，严厉的联邦报告破坏了微软的安全
+拜登政府任命的联邦审查委员会在一份措辞严厉的报告中批评微软犯了一系列错误，这些错误允许国家支持的中国黑客入侵美国高级官员的电子邮件帐户，其中包括商务部长吉娜·雷蒙多。该报告强调了微软安全文化的不足以及在漏洞方面缺乏透明度，呼吁公司内部进行重大的安全改进和文化变革。黑客访问了来自全球多个美国机构和组织的电子邮件，引发了人们对微软处理网络安全威胁的担忧。该报告还提出了有关由国家支持的俄罗斯黑客发起的另一次黑客攻击的问题，进一步强调了加强安全措施的必要性。]]></description>
+      <guid>https://t.me/hn_summary/82683</guid>
+      <pubDate>Wed, 03 Apr 2024 09:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 站点：safe-staging.unicornplatform.page</title>
+      <link>https://t.me/hn_summary/82682</link>
+      <description><![CDATA[显示 HN：为敏感信息创建临时私有链接 
+标题：显示 HN：为敏感信息创建临时私人链接
+网站：safe-staging.unicornplatform.page&lt; br/&gt;
 
-人工智能的进步是否会塑造入门级软件工程角色的未来？加入讨论未来几年对入门级 SWE 职位的需求可能会如何变化。分享您对 SWE 工作不断变化的性质以及对不同行业的潜在影响的观察。角色会减少、工作描述不同，还是完全不同？让我们一起探索各种可能性，并考虑不同行业的变革速度有何不同。根据您当前的角色或塑造您观点的经历分享您的见解。加入有关入门级软件工程工作未来的对话。]]></description>
-      <guid>https://t.me/hn_summary/82652</guid>
-      <pubDate>Wed, 03 Apr 2024 02:48:56 GMT</pubDate>
+厌倦了通过不安全的渠道发送敏感信息？使用安全消息，您可以创建临时私人链接以进行安全共享。告别短信拦截的风险，并通过额外的安全层保护您的个人数据。只需生成一个链接，添加验证码，然后将其发送给收件人即可。通过安全消息确保您的信息安全且保密。立即尝试一下，在共享敏感信息时体验安心。]]></description>
+      <guid>https://t.me/hn_summary/82682</guid>
+      <pubDate>Wed, 03 Apr 2024 09:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>在“停产软件的威胁”中，作者反思了改变公司所面临的挑战 [...]</title>
-      <link>https://t.me/hn_summary/82651</link>
-      <description><![CDATA[停产软件的威胁 (2021)
-在《停产软件的威胁》一书中，作者反思了多年来计算机和软件不断变化的挑战，强调了对工作流程和数据存储的影响。作者分享了使用 IBM 的 Visual Age for Java 和 Apple 的 Aperture 等已停产程序的个人经历，以及寻找合适替代品的努力。本文讨论了与专有数据格式相关的风险以及某些软件程序未来的不确定性。作者还谈到了 Apple macOS 更新的不断变化以及保持与旧软件版本兼容性的挑战。]]></description>
-      <guid>https://t.me/hn_summary/82651</guid>
-      <pubDate>Wed, 03 Apr 2024 02:47:53 GMT</pubDate>
+      <title>[媒体]Postgres 社区中正在进行的有关 Postgres extensio 未来的讨论 [...]</title>
+      <link>https://t.me/hn_summary/82681</link>
+      <description><![CDATA[为什么 Postgres 扩展应打包并作为 OCI 映像分发
+Postgres 社区中正在进行的关于 Postgres 扩展的未来的讨论非常有趣。 OnGres 一直在运营一个具有 200 个 StackGres 扩展的 Postgres 发行版，StackGres 是一个在 Kubernetes 上自托管 Postgres 的平台。他们引入了一种新技术来动态加载和卸载扩展，允许用户指定他们想要的扩展。 Postgres 扩展存在安全风险，因此应将它们构建在与 Postgres 服务器相同的环境中。 OnGres 建议将 Postgres 扩展打包和分发为 OCI 映像，利用 OCI 周围的生态系统来构建、打包、分发和增强安全性。这种方法解决了许多问题并提供了额外的好处。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82681</guid>
+      <pubDate>Wed, 03 Apr 2024 09:11:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]客户更喜欢对他们可以改进的产品进行众筹，因为他们希望在[...]中拥有发言权</title>
-      <link>https://t.me/hn_summary/82650</link>
-      <description><![CDATA[客户更喜欢众筹他们可以改进的产品
-客户更喜欢对他们可以改进的产品进行众筹，因为他们希望对最终产品有发言权。尽管众筹有很多好处，但许多活动都失败了，因为公司提供了完全开发的产品，没有给客户留下参与的空间。这导致了对 Kickstarter 上 18,173 个活动的实证分析，揭示了让客户参与产品开发过程的重要性。众筹是创新融资的有力工具，每年筹集 13 亿美元，预计未来五年将翻一番。客户参与产品开发的转变正在重塑公司与消费者的联系方式。]]></description>
-      <guid>https://t.me/hn_summary/82650</guid>
-      <pubDate>Wed, 03 Apr 2024 02:45:50 GMT</pubDate>
+      <title>[媒体] 在 Sequin，我们最近采用了 NATS，并且对其简单性和流畅性印象深刻 [...]</title>
+      <link>https://t.me/hn_summary/82680</link>
+      <description><![CDATA[NATS：第一印象
+在 Sequin，我们最近采用了 NATS，并且对其简单性和灵活性印象深刻。 NATS 构建在发布/订阅系统之上，使系统之间的通信异步且短暂。 JetStream 的加入提供了持久性和消费者群体，提供至少一次交付保证。使用点分隔的主题和通配符允许表达订阅，路由读取而不是写入。虽然 NATS 缺乏 Kafka 的分区范例，但确定性主题令牌分区可以提供有序的消息处理。总的来说，NATS 已被证明是一个强大的工具，提供了 AWS 服务的绝佳替代方案，并能够无缝集成到我们的开发工作流程中。]]></description>
+      <guid>https://t.me/hn_summary/82680</guid>
+      <pubDate>Wed, 03 Apr 2024 09:10:15 GMT</pubDate>
     </item>
     <item>
-      <title>通过《数学艺术简介》3.1 版探索数学世界。</title>
-      <link>https://t.me/hn_summary/82649</link>
-      <description><![CDATA[数学艺术的简要介绍
-通过《数学艺术简介》3.1 版探索数学世界。这本开源教科书涵盖了逻辑、集合、关系和函数等基础主题，同时还深入研究了各种证明技术。 GIAM 的与众不同之处在于每章开头的有趣引文，为学习体验增添了独特的触感。 GIAM 提供文本、练习手册、提示和解决方案手册，甚至还有评论，全面介绍了数学艺术。最好的部分是什么？全部免费下载，也可以购买硬拷贝版本。立即与 GIAM 一起探索数学世界。]]></description>
-      <guid>https://t.me/hn_summary/82649</guid>
-      <pubDate>Wed, 03 Apr 2024 02:31:42 GMT</pubDate>
+      <title>[媒体]Portr 是一个专为团队设计的开源 ngrok 替代品，允许用户公开 [...]</title>
+      <link>https://t.me/hn_summary/82679</link>
+      <description><![CDATA[Portr – 专为团队设计的开源 ngrok 替代方案 
+Portr 是专为团队设计的开源 ngrok 替代方案，允许用户通过 SSH 远程端口转发安全地将本地 HTTP 和 TCP 连接公开到公共互联网。对于希望在公共 URL 上共享开发服务器的小型团队来说，它是理想的选择，但不建议用于生产服务器。功能包括简单的隧道、用于团队/用户管理的管理仪表板以及用于检查和重播请求的 Portr 检查器。该项目目前处于测试阶段，因此可能会出现错误和重大更改。欢迎贡献，该项目已获得 GNU Affero 通用公共许可证 v3.0 的许可。]]></description>
+      <guid>https://t.me/hn_summary/82679</guid>
+      <pubDate>Wed, 03 Apr 2024 09:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]全球最大代工芯片制造商台积电被迫撤离生产线 [...]</title>
-      <link>https://t.me/hn_summary/82648</link>
-      <description><![CDATA[台湾大地震后台积电撤离生产线
-全球最大的代工芯片制造商台积电在台湾发生大地震后被迫撤离其在台湾的生产线。地震对设施造成严重损坏，引发人们对全球半导体供应链潜在中断的担忧。这一事件凸显了科技行业对自然灾害的脆弱性以及应急计划的重要性。台积电正在努力评估受损程度，并尽量减少对其运营的影响。请继续关注这一事态发展的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/82648</guid>
-      <pubDate>Wed, 03 Apr 2024 02:26:38 GMT</pubDate>
+      <title>在这个更新的 Python 项目管理指南中，作者讨论了工具的演变 [...]</title>
+      <link>https://t.me/hn_summary/82678</link>
+      <description><![CDATA[Python项目-本地Virtualenv管理Redux
+在这个更新的 Python 项目管理指南中，作者讨论了 direnv 和 uv 等工具在管理本地虚拟环境方面的演变。作者分享了他们管理 Python 安装、取消固定的包和固定的应用程序的个人工作流程。额外的提示包括 Fish shell 功能，可以有效地重新创建虚拟环境。作者还重点介绍了使用 PDM 实现跨平台锁定文件以及使用 GitLab CI 集成构建 Python Docker 容器。总体而言，作者强调了工作流构建中上下文的重要性，并分享了优化 Python 项目管理的实用技巧。]]></description>
+      <guid>https://t.me/hn_summary/82678</guid>
+      <pubDate>Wed, 03 Apr 2024 09:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国联邦通信委员会终于采取行动解决美国电话网络的安全缺陷 [...]</title>
-      <link>https://t.me/hn_summary/82647</link>
-      <description><![CDATA[美联储决定对已有多年历史的 SS7 间谍漏洞电话网络采取行动
-FCC 最终采取行动解决美国电话网络中的安全缺陷，特别是 SS7 和 Diameter 协议，这些协议多年来一直容易受到间谍和监视的攻击。据称，这些缺陷已被外国政府和监控机构利用。参议员罗恩·怀登对这些漏洞造成的威胁表示担忧，呼吁制定强制性最低网络安全标准以保护国家安全。 FCC 目前正在寻求电信提供商的意见，以了解他们为防止滥用这些协议所做的努力。这标志着确保美国电话网络免受潜在威胁的重要一步。]]></description>
-      <guid>https://t.me/hn_summary/82647</guid>
-      <pubDate>Wed, 03 Apr 2024 02:15:31 GMT</pubDate>
+      <title>[媒体]VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry [...]</title>
+      <link>https://t.me/hn_summary/82677</link>
+      <description><![CDATA[OpenTelemetry 太复杂
+VictoriaMetrics 首席技术官兼联合创始人 Aliaksandr Valialkin 批评 OpenTelemetry 过于复杂和臃肿，导致集成问题和二进制大小增加。尽管面临挑战，可观测数据标准化的核心思想仍然被认为是有价值的。 Valialkin 认为 Prometheus 由于其效率和简单性而成为衡量指标的更好选择。 VictoriaMetrics 正在推进其自己的用于 OTel 指标支持的自定义库，同时还准备为其新产品 VictoriaLogs 采用日志协议。争议在于 OpenTelemetry 的复杂性和低效率，与标准化可观测数据的价值形成对比。]]></description>
+      <guid>https://t.me/hn_summary/82677</guid>
+      <pubDate>Wed, 03 Apr 2024 09:07:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]密苏里州杰克逊县因涉嫌勒索勒索事件已宣布进入紧急状态 [...]</title>
-      <link>https://t.me/hn_summary/82646</link>
-      <description><![CDATA[密苏里州因涉嫌勒索软件攻击而宣布进入紧急状态 
-密苏里州杰克逊县已宣布进入紧急状态，原因是疑似勒索软件攻击破坏了关键 IT 系统，导致办公室和纳税和结婚证等服务关闭。这次袭击恰逢针对体育场馆销售税提案的特别选举。虽然调查正在进行中，但官员们尚未发现数据泄露的证据。该县正在与网络安全合作伙伴合作解决这一问题，并可能需要紧急资金来减轻影响。敦促居民保持耐心，县政府正在努力解决这一问题。]]></description>
-      <guid>https://t.me/hn_summary/82646</guid>
-      <pubDate>Wed, 03 Apr 2024 01:54:21 GMT</pubDate>
+      <title>巴尔的摩达利大楼的业主已提交请愿书，要求限制其责任 [...]</title>
+      <link>https://t.me/hn_summary/82676</link>
+      <description><![CDATA[大理业主提交请愿书，要求将巴尔的摩大桥倒塌责任上限限制在 4370 万美元
+巴尔的摩 Dali 大楼的业主已提交请愿书，要求将其在最近桥梁倒塌事故中的赔偿责任上限限制为 4,370 万美元。此举引发争议，许多人质疑这笔金额是否足以支付受害者的损失和赔偿。该请愿书目前正在接受美国马里兰州地区法院的审查。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/82676</guid>
+      <pubDate>Wed, 03 Apr 2024 09:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]键盘不仅仅是打字工具；</title>
-      <link>https://t.me/hn_summary/82645</link>
-      <description><![CDATA[键盘：机械、薄膜和屈曲弹簧&lt; br/&gt;
-键盘不仅仅是打字工具；它们会极大地影响您的打字体验。机械键盘具有触觉反馈和定制选项，通常被认为是最好的键盘类型。与薄膜键盘相比，机械开关的组件和设计提供了更扎实的手感。此外，机械键盘提供的自定义选项允许用户微调他们的打字体验。有些人发现机械按键的反馈和行程可以帮助缓解身体不适并提高打字速度和准确性。总的来说，了解机械键盘、薄膜键盘和屈曲弹簧键盘之间的差异可以帮助您选择最适合您打字需求的选择。]]></description>
-      <guid>https://t.me/hn_summary/82645</guid>
-      <pubDate>Wed, 03 Apr 2024 01:16:07 GMT</pubDate>
+      <title>[媒体] 19 世纪，康涅狄格州哈特福德市的一群工人阶级孩子在埃德的带领下 [...]</title>
+      <link>https://t.me/hn_summary/82675</link>
+      <description><![CDATA[The Wide Awakes：一个 19 世纪穿着斗篷的反社会俱乐部奴隶制活动家
+19 世纪，康涅狄格州哈特福德的一群工人阶级孩子在埃迪·耶加森 (Eddie Yergason) 的领导下发起了一场名为“大觉醒”的斗篷运动，以应对美国因奴隶制而日益紧张的局势。觉醒运动成为一个强大的政治组织，挑战奴隶势力和民主党。他们的行动，包括火炬游行和与民主党人的冲突，凸显了哈特福德街头争取民主的斗争。这场令人惊讶且影响深远的青年运动在南北战争的爆发中发挥了重要作用，重塑了美国的民主。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82675</guid>
+      <pubDate>Wed, 03 Apr 2024 07:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 巴西特种部队 G.E.F.</title>
-      <link>https://t.me/hn_summary/82644</link>
-      <description><![CDATA[巴西特种部队为拯救亚马逊而战
-巴西特种部队 G.E.F. 正在打击亚马逊地区的非法采矿活动，前总统博尔索纳罗否认这一问题，加剧了这场危机。现任总统卢拉已采取行动，领导突击搜查矿工并减少森林砍伐。尽管取得了进展，但随着矿工继续返回原住民土地以获取经济利益，挑战仍然存在。 G.E.F.面临障碍，包括缺乏支持采矿的军方和地方官员的支持。这种情况突显了该地区贫困、财富和环境保护等复杂问题，保护亚马逊的努力持续面临阻力和挫折。]]></description>
-      <guid>https://t.me/hn_summary/82644</guid>
-      <pubDate>Wed, 03 Apr 2024 00:43:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 人抗小鼠抗体 (HAMA) 是在人体中发现的一种抗体，可对免疫 [...]</title>
-      <link>https://t.me/hn_summary/82643</link>
-      <description><![CDATA[人抗鼠抗体
-人抗小鼠抗体（HAMA）是一种在人类体内发现的抗体，可与小鼠的免疫球蛋白发生反应。这种反应可能会使癌症和免疫疾病的抗体治疗变得复杂，因为患者可能会对小鼠抗体产生过敏反应，导致从皮疹到肾衰竭等一系列症状。令人惊讶的是，至少百分之十的普通人群携带动物源性抗体，通常来自小鼠。争议在于使用小鼠来生产单克隆抗体，这给动物带来了痛苦。然而，现在使用体外方法在没有小鼠的情况下制造抗体，消除了与 HAMA 反应相关的问题。]]></description>
-      <guid>https://t.me/hn_summary/82643</guid>
-      <pubDate>Wed, 03 Apr 2024 00:34:49 GMT</pubDate>
+      <title>[媒体]Capitally 的创始人 Rafał 深知财务独立的重要性 [...]</title>
+      <link>https://t.me/hn_summary/82674</link>
+      <description><![CDATA[显示 HN：针对任何国家/地区的无代码税务模型的投资跟踪器
+Capitally 的创始人 Rafał 深知财务独立的重要性以及长期投资在实现财务独立方面所发挥的作用。他发现现有工具限制过多且脱节，因此他创建了一个灵活且用户友好的投资跟踪器，允许用户无需编码即可为任何国家/地区建立税收模型。 Capitally 使个人能够制定并跟踪其独特的财务策略以实现独立。这种创新工具结合了电子表格的灵活性和应用程序的强大功能，使用户可以更轻松地掌控自己的财务未来。在 Twitter 或 LinkedIn 上联系 Rafał 了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/82674</guid>
+      <pubDate>Wed, 03 Apr 2024 07:47:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
