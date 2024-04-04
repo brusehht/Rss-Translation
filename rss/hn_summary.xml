@@ -4,12 +4,76 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 05:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 09:10:29 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]在《独自监视》中，作者深入探讨了传统社区苏 [...]</title>
+      <link>https://t.me/hn_summary/82885</link>
+      <description><![CDATA[单独监视
+在《独自监视》一书中，作者深入探讨了从传统社区监视到环形摄像机和邻里监视应用程序等技术监视工具的兴起的转变。作者借鉴 Jane Jacobs 的“街头之眼”的概念，探讨了这些技术对隐私、信任和社区动态的影响。该文章强调了围绕这些监视工具的好处和争议，从增强安全性到潜在的隐私侵犯和歧视性做法。监控技术的正常化引发了人们对在持续监控的世界中个人的形成以及社区信任的侵蚀的疑问。 （根据故事文本的 66% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82885</guid>
+      <pubDate>Thu, 04 Apr 2024 09:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]身体健康的 28 岁女性 Zoraya ter Beek 做出了备受争议的决定 [...]</title>
+      <link>https://t.me/hn_summary/82884</link>
+      <description><![CDATA[身体健康的 28 岁女性因抑郁症安排安乐死&lt; /a&gt;
+身体健康的 28 岁女性 Zoraya ter Beek 由于严重抑郁、自闭症和边缘性人格障碍，做出了有争议的安乐死决定。尽管身体健康，她还是选择在合法的荷兰通过协助自杀来结束自己的生命。索拉亚将于五月被安乐死，身边环绕着她的男友和两只猫。这一决定引发了关于安乐死伦理的争论，特别是对于患有精神疾病的年轻人。佐拉亚的故事揭示了心理健康和临终决定的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/82884</guid>
+      <pubDate>Thu, 04 Apr 2024 08:31:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Rickroll meme 已在定制 ASIC 中永垂不朽，其中包括 164 个硬编码的 p [...]</title>
+      <link>https://t.me/hn_summary/82883</link>
+      <description><![CDATA[Rickroll meme 在包含 164 个硬编码程序的自定义 ASIC 中永垂不朽
+Rickroll 模因已在定制 ASIC 中永垂不朽，其中包括 164 个硬编码程序，作为 Matthew Venn 的零到 ASIC 课程的一部分。该 ASIC 被称为 Tiny Tapeout 2，具有 FPGA、4 位 CPU 和可将 pi 估算到小数点后 1,000 位的计算器等设计。工程师兼 YouTuber Bitluni 对 ASIC 上秘密文件的设计在 Rick Astley 的《Never Gonna Give You Up》音乐视频中扮演了一小部分。尽管课程成本很高，但这些设计是开源的，并为有抱负的芯片设计师提供了一个独特的机会，让他们在真实的芯片上看到他们的创作。]]></description>
+      <guid>https://t.me/hn_summary/82883</guid>
+      <pubDate>Thu, 04 Apr 2024 08:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作为一名自豪的 Fedora Linux 用户和经验丰富的 Kubernetes 开发人员，一切都在运行 [...]</title>
+      <link>https://t.me/hn_summary/82882</link>
+      <description><![CDATA[如何使用单个 Helm 命令停止生产 
+作为一名自豪的 Fedora Linux 用户和经验丰富的 Kubernetes 开发人员，一切都运行得很顺利，直到 Helm 回滚命令导致混乱。 Pod、秘密、入口 - 与服务相关的所有内容都消失了，每次删除都会显示您的名字。经过几天的排查，发现Fedora Linux版本的Helm中的一个补丁是罪魁祸首。删除 Helm 解决了这个问题，但让你对自己的技术职业生涯产生了质疑。一个无害的命令的意外扭曲会导致这种破坏，这突显了了解您使用的工具的重要性。在这次灾难之后，养蜂的想法突然变得有吸引力。]]></description>
+      <guid>https://t.me/hn_summary/82882</guid>
+      <pubDate>Thu, 04 Apr 2024 07:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] github 项目“atomic-update”旨在防止系统在更新期间出现故障 [...]</title>
+      <link>https://t.me/hn_summary/82881</link>
+      <description><![CDATA[显示 HN：永远不要让另一个更新破坏您的滚动发行版
+github 项目“atomic-update”旨在防止在读写 openSUSE 系统（如 Tumbleweed 和 Slowroll）更新期间出现系统损坏。它使用 btrfs 子卷和 snapper 快照以原子方式执行更新，从而最大限度地减少副作用。与其他工具不同，atomic-update 创建一个新的更新快照，在临时容器中启动它以检查问题，并且仅在成功时应用更改。这种方法可以防止由于崩溃、冲突或脚本失败而导致系统损坏。用户可以轻松执行发行版升级、运行命令、回滚以及排除更新故障。该项目受到事务更新的启发，但专为读写系统量身定制。]]></description>
+      <guid>https://t.me/hn_summary/82881</guid>
+      <pubDate>Thu, 04 Apr 2024 07:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]由于种族不平等，西雅图公立学校正在逐步取消其天才项目，目标是 [...]</title>
+      <link>https://t.me/hn_summary/82880</link>
+      <description><![CDATA[西雅图因白人和亚裔学生过多而关闭天才计划&lt; /a&gt;
+由于种族不平等，西雅图公立学校正在逐步取消其天才项目，旨在建立更具包容性的模式。到 2024-25 年，以白人和亚洲人为主的高能力群体将被全民强化计划所取代。批评者担心个性化学习和高级课程的准备，而支持者则认为新模式将培养更强的社区意识。当该计划中的黑人学生的家长反对终止该计划时，引发了争议，一名学校董事会成员指责他们将一个小社区代币化。尽管存在担忧，该学区仍在推进改革以解决种族差异。]]></description>
+      <guid>https://t.me/hn_summary/82880</guid>
+      <pubDate>Thu, 04 Apr 2024 07:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在这篇与 Majeed Kazemitabaar 共同撰写的文章中，我们探讨了人工智能代码的影响 [...]</title>
+      <link>https://t.me/hn_summary/82879</link>
+      <description><![CDATA[学习使用和不使用人工智能进行编码
+在这篇与 Majeed Kazemitabaar 共同撰写的文章中，我们探讨了人工智能代码生成器对入门编程课程中的新手学习者的影响。通过对 69 名学生进行的对照研究，我们发现使用 AI 工具 Codex 的学生比 Baseline 组取得了更多进步，在代码编写任务上表现更好，并且保留信息略好。然而，我们也发现了过度依赖人工智能工具的迹象，凸显了促进自我监管使用的重要性。我们的研究揭示了将人工智能工具纳入编程教育的潜在好处和挑战。查看我们的论文以了解更多详细信息，并根据我们的发现继续关注未来的工具。]]></description>
+      <guid>https://t.me/hn_summary/82879</guid>
+      <pubDate>Thu, 04 Apr 2024 06:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我是《务实工程师通讯》的 Gergely，我正在讨论 [...]</title>
+      <link>https://t.me/hn_summary/82878</link>
+      <description><![CDATA[据老同事介绍，GenZ 软件工程师
+大家好，我是 Pragmatic Engineer Newsletter 的 Gergely，根据老同事的说法，我正在讨论与 GenZ 软件工程师合作的独特挑战。 Z 世代被描述为具有更高的薪资期望、处于技术前沿、对高层领导的信任度较低。有些人认为他们有权利，期望快速升职和换工作以获得更高的薪水。留住 Z 世代员工是一项艰巨的任务，一些人将其归因于社交媒体影响者加剧了职业不耐烦。尽管存在差异，但了解新一代技术并有效地与之合作非常重要。请继续关注第 2 部分，我们将聆听 GenZ 专业人士的心声。 （根据 65% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82878</guid>
+      <pubDate>Thu, 04 Apr 2024 06:23:17 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]最近的一项研究表明，只有 57 家石油、天然气、煤炭和水泥生产商分别 [...]</title>
       <link>https://t.me/hn_summary/82877</link>
       <description><![CDATA[仅 57 家公司与 2016 年以来 80% 的温室气体排放有关&lt; /a&gt;
-最近的一项研究显示，自 2016 年《巴黎气候协议》签署以来，仅 57 家石油、天然气、煤炭和水泥生产商就造成了全球温室气体排放量的 80%。这些国有控股和股东所有的公司被认为是气候危机的主要推动者。分析显示，尽管政府承诺减少排放，但许多大型生产商实际上增加了化石燃料的产量和相关排放量。这项由碳专业数据库编制的研究引发了争议，并呼吁这些强大的实体承担责任。这些数据已用于气候诉讼，并引发了关于化石燃料生产商应对其活动造成的损害的道德责任的讨论。]]></description>
+最近的一项研究显示，自 2016 年巴黎气候协议以来，仅 57 家石油、天然气、煤炭和水泥生产商就造成了全球温室气体排放量的 80%，这一数字令人震惊。这些国有控股和股东所有的公司被认为是气候危机的主要推动者。分析显示，尽管政府承诺减少排放，但许多大型生产商实际上增加了化石燃料的产量和相关排放量。这项由碳专业数据库编制的研究引发了争议，并呼吁这些强大的实体承担责任。这些数据已用于气候诉讼，并引发了关于化石燃料生产商应对其活动造成的损害的道德责任的讨论。]]></description>
       <guid>https://t.me/hn_summary/82877</guid>
       <pubDate>Thu, 04 Apr 2024 05:55:36 GMT</pubDate>
     </item>
@@ -17,73 +81,9 @@
       <title>[媒体] 禁止下班后发邮件和打电话？</title>
       <link>https://t.me/hn_summary/82876</link>
       <description><![CDATA[禁止下班后发送电子邮件和通话吗？科技老板说你最好禁止初创公司
-旧金山的科技领袖们对加州拟议的一项禁止下班后电子邮件和电话的法律表示不满，认为这会扼杀初创企业的创新精神。议员马特·哈尼 (Matt Haney) 介绍了 AB 2751，旨在建立在约定时间后“断开”与工作相关的沟通的权利。加里·谭（Garry Tan）和保罗·格雷厄姆（Paul Graham）等科技公司首席执行官正在反击，提倡深夜工作的好处以及初创企业中灵活性的重要性。甚至像马丁·施克雷利这样有争议的人物也参与了进来，其中一些人呼吁取消所有科幻初创公司。该法案将于近期在立法机关进行辩论。]]></description>
+旧金山的科技领袖们对加州一项拟议的法律表示不满，该法律将禁止下班后发送电子邮件和打电话，认为这会扼杀初创企业的创新精神。议员马特·哈尼 (Matt Haney) 介绍了 AB 2751，旨在建立在约定时间后“断开”与工作相关的沟通的权利。加里·谭（Garry Tan）和保罗·格雷厄姆（Paul Graham）等科技公司首席执行官正在反击，提倡深夜工作的好处以及初创企业中灵活性的重要性。甚至像马丁·施克雷利这样有争议的人物也参与了进来，其中一些人呼吁取消所有科幻初创公司。该法案将于近期在立法机关进行辩论。]]></description>
       <guid>https://t.me/hn_summary/82876</guid>
       <pubDate>Thu, 04 Apr 2024 05:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cally 是由 Nick Williams 创建的创新型开源日期选择器 Web 组件。</title>
-      <link>https://t.me/hn_summary/82875</link>
-      <description><![CDATA[Cally：无障碍声明
-Cally 是由 Nick Williams 创建的创新型开源日期选择器 Web 组件。这个与框架无关的工具是轻量级的，并拥有详细的可访问性声明，展示了它如何在 JAWS、NVDA 和 VoiceOver 等流行的屏幕阅读器中进行测试。这种级别的可访问性文档使 Cally 与其他 JavaScript 库区分开来，并为 Web 开发的包容性设定了高标准。 Williams 对无障碍的承诺值得赞扬，并成为其他开发人员效仿的典范。]]></description>
-      <guid>https://t.me/hn_summary/82875</guid>
-      <pubDate>Thu, 04 Apr 2024 05:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这篇博文中，作者挑战了改进打字的传统方法 [...]</title>
-      <link>https://t.me/hn_summary/82874</link>
-      <description><![CDATA[您不必打字更快才能打字更快
-在这篇博文中，作者挑战了提高打字速度的传统方法，并介绍了一种独特的解决方案：文本扩展器。通过为经常输入的短语分配缩写，用户可以节省时间并提高效率，而无需实际更快地输入。作者强调了该工具对于重复性任务（如用户名、URL 和电子邮件回复）的价值，强调了潜在的节省时间的好处。这种非传统的打字方法为常见问题提供了巧妙的解决方案，使其成为一种令人惊讶的创新方式，可以更聪明地工作，而不是更辛苦。]]></description>
-      <guid>https://t.me/hn_summary/82874</guid>
-      <pubDate>Thu, 04 Apr 2024 05:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]台湾遭受强烈地震袭击，但其准备工作仅收到九次[...]</title>
-      <link>https://t.me/hn_summary/82873</link>
-      <description><![CDATA[台湾为大地震做好了充分准备——比部分地区更充分美国
-台湾遭受了强烈地震，但其准备工作得到了回报，据报道仅九人死亡。自 1999 年毁灭性的集集地震以来，岛上强大的预警系统和现代抗震建筑规范发挥了重大作用。相比之下，美国西海岸的城市在防震方面取得了不同程度的进展，没有一个能够与台湾首都台北相媲美。台湾先进的预警系统通过电话和直播电视节目发送警报，是其安全基础设施的重要组成部分。这场地震成为美国科学家和政治领导人评估自身准备情况的标杆。]]></description>
-      <guid>https://t.me/hn_summary/82873</guid>
-      <pubDate>Thu, 04 Apr 2024 05:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在一项开创性的裁决中，华盛顿州法官禁止使用人工智能增强的 [...]</title>
-      <link>https://t.me/hn_summary/82872</link>
-      <description><![CDATA[华盛顿州法官禁止使用人工智能增强视频作为证据
-在一项开创性的裁决中，华盛顿州法官禁止在三重谋杀案中使用人工智能增强视频作为证据，理由是担心该技术的不透明方法以及可能混淆目击证人的证词。这起案件涉及一名男子被指控在西雅图地区一家酒吧外开枪致人死亡，这凸显了围绕在刑事诉讼中使用人工智能的日益激烈的争论。虽然被告的律师辩称增强视频准确地描述了事件，但检察官和专家对其可靠性和准确性表示怀疑。这项裁决揭示了在法律环境中使用人工智能技术所面临的挑战和争议。]]></description>
-      <guid>https://t.me/hn_summary/82872</guid>
-      <pubDate>Thu, 04 Apr 2024 05:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]据报道，继禁令之后，苹果公司正在深入研究个人家庭机器人的世界 [...]</title>
-      <link>https://t.me/hn_summary/82871</link>
-      <description><![CDATA[据报道苹果正在探索个人家庭机器人
-据报道，苹果公司在放弃电动汽车项目后，正在深入研究个人家庭机器人的世界。据称，苹果公司的工程师正在开发一款能够跟随用户在家中四处走动的机器人，以及一款利用机器人技术调整显示屏的桌面设备。此举是在苹果关闭其电动汽车团队之后做出的，这是其进军新产品市场的努力的一部分。虽然家庭机器人项目仍处于早期阶段，但苹果的硬件工程部门和人工智能团队正在监督开发。亚马逊等其他科技公司也探索了家庭机器人，但取得了不同程度的成功。]]></description>
-      <guid>https://t.me/hn_summary/82871</guid>
-      <pubDate>Thu, 04 Apr 2024 04:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Sei 是一个人工智能驱动的营销和客户沟通合规平台，正在招募 [...]</title>
-      <link>https://t.me/hn_summary/82870</link>
-      <description><![CDATA[Sei (YC W22) 正在招聘首席工程师（现场、印度）
-Sei 是一个人工智能驱动的营销和客户沟通合规平台，正在招聘首席工程师来塑造公司的技术、产品和文化。 Sei 由顶级投资者支持，由来自领先公司的经验丰富的个人创立，提供了一个快节奏的环境，技术堆栈包括 Typescript、Python、Kafka、Spark 等。 Sei 强调持续反馈、产品所有权和人性等价值观，寻找具有深思熟虑工作记录和行动倾向的多面手工程师。该公司提供有竞争力的薪酬和福利，但期望有强烈的职业道德、高质量的产出、团队合作以及古尔冈的现场服务。]]></description>
-      <guid>https://t.me/hn_summary/82870</guid>
-      <pubDate>Thu, 04 Apr 2024 04:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]由日本鹌鹑细胞制成的澳大利亚实验室培育的肉在新加坡首次亮相 [...]</title>
-      <link>https://t.me/hn_summary/82869</link>
-      <description><![CDATA[澳大利亚实验室培育的鹌鹑细胞肉登陆新加坡市场
-由日本鹌鹑细胞制成的澳大利亚实验室培育肉在新加坡首次亮相，标志着人造肉行业的一个重要里程碑。该产品背后的澳大利亚公司 Vow 已获得澳大利亚食品监管机构的初步批准，预计将在今年年底获得全面批准。这款冻糕以 Forged 品牌出售，被描述为高价位的奢侈品，对新加坡的高档餐厅很有吸引力。 Vow 专注于提供独特且独特的食品，这使得他们在新兴的人造肉领域中脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/82869</guid>
-      <pubDate>Thu, 04 Apr 2024 04:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 经历了大范围的中断，影响了 App Store、Apple TV、Apple Music 和其他 [...]</title>
-      <link>https://t.me/hn_summary/82868</link>
-      <description><![CDATA[App Store 以及 Apple TV、Apple 播客、和Apple Music
-周三晚上，苹果公司遭遇了大范围的服务中断，影响了 App Store、Apple TV、Apple Music 和其他服务。系统状态页面显示，中断从东部时间下午 6:31 开始，但到东部时间晚上 7:35，所有服务均已恢复并运行。 @AppleSupport 帐户没有提供问题的原因。此次服务中断是继 WhatsApp 全球服务中断之后发生的，给许多用户造成了干扰。苹果公司后来解决了这个问题，但对于这家科技巨头来说，突然停机的情况很少见。]]></description>
-      <guid>https://t.me/hn_summary/82868</guid>
-      <pubDate>Thu, 04 Apr 2024 03:51:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
