@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 04 Apr 2024 18:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 21:11:21 GMT</lastBuildDate>
+    <item>
+      <title>谁还在把云存储视为奢侈品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bvwbzr/who_is_still_treating_cloud_storage_as_a_luxury/</link>
+      <description><![CDATA[您还记得购买 CD 和硬盘来存储电影和歌曲的日子吗？我当然愿意！每张 CD 可以容纳大约 700MB 的数据，而 HDD 又大又重。然后云出现了，并抽象了您自己维护硬件的问题。 突然之间，您可以在一小时内存储 1 MB 到 1 GB 的数据，并且只需为您使用的存储付费即可。 。只需为您使用的部分付费！那不是很好吗？但是等等，这些公司开始对云存储收费，就像你过去为 CD 和硬盘付费一样。消费者有 10GB 计划、50GB 计划、一直到 2TB 计划。如果我只使用 15GB 的存储空间，为什么要支付 50GB 的费用？  为了解决我的挫败感，我决定构建一个开源计量存储平台。想用1GB吗？！太棒了，这就是你付出的代价。想要下个月使用 20GB 吗？当然可以，只要多付一点钱就可以了。但始终只为您使用的部分付费！  我将从一个用于照片和视频的开源前端应用程序开始，稍后扩展到文档。照片和视频占用了大部分存储空间，这就是为什么我想首先解决它们。  即使您已经订阅了 Google One 或 iCloud 存储套餐，您认为您还会使用这样的应用吗？  &amp;# 32；由   提交 /u/savagesir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bvwbzr/who_is_still_treating_cloud_storage_as_a_luxury/</guid>
+      <pubDate>Thu, 04 Apr 2024 19:29:31 GMT</pubDate>
+    </item>
     <item>
       <title>XZ Attack - 未来的想法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvt6y7/xz_attack_thoughts_going_forward/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>OSI 参加关于开放性和人工智能的哥伦比亚会议；第一个可用读数</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvnky4/osi_participates_in_columbia_convening_on/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bvnky4/osi_participates_in_columbia_convening_on/</guid>
       <pubDate>Thu, 04 Apr 2024 13:48:01 GMT</pubDate>
     </item>
     <item>
       <title>🚀🔥下一代开源免费办公套件（Sheet、Doc、Slide）-Univer 来了🎨✨</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvn0k8/next_generation_opensource_and_free_office/</link>
-      <description><![CDATA[🌟 Univer 是一套企业文档和数据协作解决方案，集成了电子表格、文档和幻灯片。 更多信息请参见 GitHub ：https://github.com/dream-num/univer！ 亮点： - Univer 旨在支持电子表格和**文档**。将来也将支持幻灯片。 - ⚙️ Univer 可以轻松**嵌入**，允许无缝集成到您的应用程序中。 - 🎇 Univer **功能强大**，提供广泛的功能功能包括**公式**、**条件格式**、**数据验证**、**过滤**、**协作编辑**、**打印**、导入和导出导出和更多即将推出的功能。 - 🔌 Univer **高度可扩展**，这要归功于它的插件架构和 Facade API，这使得开发人员可以在 Univer 之上实现他们的独特需求. - 💄 Univer **高度可定制**，允许您使用*主题*个性化其外观。它还提供对国际化（i18n）的支持。 - ⚡ Univer **性能**。 - ✏️ Univer 拥有基于画布的高效渲染引擎，能够完美渲染各种文档类型。渲染引擎支持高级排版功能，例如*标点符号压缩*、文本和图像布局以及*滚动缓冲*。 - 🧮 Univer 包含一个快如闪电的公式引擎，可以在 Web Workers 甚至服务器端运行. - 🌌 Univer 是一个高度集成的系统。文档、电子表格和幻灯片可以相互操作，甚至可以在同一画布上呈现，从而允许信息和数据在 Univer 内流动。   由   提交 /u/ransixi   [链接] [评论]]]></description>
+      <description><![CDATA[🌟 Univer 是一套企业文档和数据协作解决方案，集成了电子表格、文档和幻灯片。 更多信息请参见 GitHub ：https://github.com/dream-num/univer！ 亮点： - Univer 旨在支持电子表格和**文档**。将来也将支持幻灯片。 - ⚙️ Univer 可以轻松**嵌入**，允许无缝集成到您的应用程序中。 - 🎇 Univer **功能强大**，提供广泛的功能功能包括**公式**、**条件格式**、**数据验证**、**过滤**、**协作编辑**、**打印**、导入和导出导出和更多即将推出的功能。 - 🔌Univer **高度可扩展**，这要归功于它的插件架构和 Facade API，这使得开发人员可以在 Univer 之上实现他们的独特需求. - 💄 Univer **高度可定制**，允许您使用*主题*个性化其外观。它还提供对国际化（i18n）的支持。 - ⚡ Univer **性能**。 - ✏️ Univer 拥有基于画布的高效渲染引擎，能够完美渲染各种文档类型。渲染引擎支持高级排版功能，例如*标点符号压缩*、文本和图像布局以及*滚动缓冲*。 - 🧮 Univer 包含一个快如闪电的公式引擎，可以在 Web Workers 甚至服务器端运行. - 🌌 Univer 是一个高度集成的系统。文档、电子表格和幻灯片可以相互操作，甚至可以在同一画布上呈现，从而允许信息和数据在 Univer 内流动。   由   提交 /u/ransixi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bvn0k8/next_generation_opensource_and_free_office/</guid>
       <pubDate>Thu, 04 Apr 2024 13:22:52 GMT</pubDate>
     </item>
     <item>
       <title>Open CoDE 是公共管理部门用于开源软件交流的联合平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</link>
-      <description><![CDATA[ 由   提交 /u/Doener23   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Doener23  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bvkadl/open_code_is_the_joint_platform_of_the_public/</guid>
       <pubDate>Thu, 04 Apr 2024 11:01:46 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>开源社区如何利用生成式人工智能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1buvtlw/how_does_the_open_source_community_make_use_of/</link>
-      <description><![CDATA[我是开源新手，想知道社区（特别是 Github）如何利用 GenAI？您觉得有什么有用的 github 机器人吗？您希望 github 拥有任何 GenAI 功能吗？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <description><![CDATA[我是开源新手，想知道社区（特别是 Github）如何利用 GenAI？您觉得有什么有用的 github 机器人吗？您希望 github 拥有任何 GenAI 功能吗？   由   提交/u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1buvtlw/how_does_the_open_source_community_make_use_of/</guid>
       <pubDate>Wed, 03 Apr 2024 15:42:21 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Tiktok风格的自动字幕</title>
       <link>https://www.reddit.com/r/opensource/comments/1buoa1o/tiktok_style_auto_captions/</link>
-      <description><![CDATA[有谁知道有一个可以让您创建 tiktok/youtube Shorts 风格自动字幕的存储库吗？ （彩色，大笔画，在屏幕上弹出和弹出）。谢谢   由   提交 /u/Absolutelyphenomenal   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道有一个可以让您创建 tiktok/youtube Shorts 风格自动字幕的存储库吗？ （彩色，大笔划，在屏幕上弹出和弹出）。谢谢   由   提交 /u/Absolutelyphenomenal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1buoa1o/tiktok_style_auto_captions/</guid>
       <pubDate>Wed, 03 Apr 2024 09:28:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bu5eae/osis_response_to_ntia_dual_use_rfc_3272024/</guid>
       <pubDate>Tue, 02 Apr 2024 18:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>显示热键 1.1.0 - 现在可以为每个热键槽设置显示缩放模式！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bu4g5k/display_hot_keys_110_can_now_set_display_scaling/</link>
-      <description><![CDATA[   发行说明： 实现了每个热键的显示缩放模式选择投币口。此版本仅适用于单显示器配置，因为缩放模式可能适用于所有连接的显示器，而不仅仅是主显示器。另外，如果您在启动 Display Hot Keys 1.1.0 后选择返回到 1.0.0，请在启动 1.0.0 之前删除 Documents/DisplayHotKeys 文件夹中的设置文件。如果不这样做，可能会发生奇怪的事情，因为 1.1.0 版本的 ini 管理引擎已更改为 Ini4j，并且格式与 Ini4j 不同。请报告任何问题，我会尽力解决它们。   由   提交/u/jonRock1992   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bu4g5k/display_hot_keys_110_can_now_set_display_scaling/</guid>
-      <pubDate>Tue, 02 Apr 2024 17:23:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
