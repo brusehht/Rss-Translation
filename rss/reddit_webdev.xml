@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:19:55 GMT</lastBuildDate>
+    <item>
+      <title>使用 API 创建 React 应用程序的最简单方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwggly/simplest_way_to_create_a_react_app_with_an_api/</link>
+      <description><![CDATA[我通常更关注后端，但也接触过 React/Vue/Svelte。我想构建一个副项目，并且想使用 React 作为 UI，使用 Node 作为后端 - 我也想与数据库等对话...... 我知道我可以 Google这个，但我一直在寻找一些更明智的意见 - 开始一个新项目来实现这一目标的最简单方法是什么？   由   提交 /u/SimpleWarthog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwggly/simplest_way_to_create_a_react_app_with_an_api/</guid>
+      <pubDate>Fri, 05 Apr 2024 12:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要多少费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwgamx/how_much_would_it_cost/</link>
+      <description><![CDATA[网络机构会向我收取多少费用来建立一个数据库，其中包含我所在地区见过的 350 种鸟类，并附有详细的描述和地图目击、频率数据和季节性目击信息功能，同时确保数据库可按鸟类种类和一年中的时间进行搜索？ 他们会如何做到这一点？ &lt; !-- SC_ON --&gt;  由   提交 /u/Existing-Target-6485   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwgamx/how_much_would_it_cost/</guid>
+      <pubDate>Fri, 05 Apr 2024 12:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>流媒体平台如何摆脱这个困境？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwg1s9/how_do_streaming_platforms_get_away_with_this/</link>
+      <description><![CDATA[我最近读了一篇关于如何使用简单的控制台技巧下载仅查看 Google 云端硬盘中的文件的文章。 因此，必须有一种方法来下载我们在其上看到的任何内容浏览器对吗？无论是图像、视频还是服务器发送到客户端的任何文件。 那么 Netflix、Amazon Prime 等流媒体平台如何摆脱这种情况呢？或者，一个人可以免费试用并下载一卡车的电影而不订阅吗？   由   提交 /u/OnARockSomewhere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwg1s9/how_do_streaming_platforms_get_away_with_this/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理具有非常大图像的客户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwf8sm/dealing_with_clients_with_very_large_images/</link>
+      <description><![CDATA[所以我为客户构建了一些 CMS 系统，一直存在的问题是图像大小。如今，当客户与摄影师合​​作时，他们拥有 40MB 的图像并不罕见，我在 CMS 系统中允许最大 10MB，以免服务器超载。 那么问题就变成了客户负责调整他们的图像大小，为此他们使用各种工具，而且我注意到他们有时将图像做得太小，或者调整大小不够等等。当然，我不希望客户知道这一点。  那么这里的解决方案是什么？你如何处理这个问题？   由   提交 /u/miguste   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwf8sm/dealing_with_clients_with_very_large_images/</guid>
+      <pubDate>Fri, 05 Apr 2024 11:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户端告诉用户没有找到，什么时候得到401？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwe2vf/client_to_tell_users_not_found_when_getting_401/</link>
+      <description><![CDATA[我目前正在开发一项在线服务，用户可以在其中创建帖子并相互交互。该平台的一项重要功能是用户能够阻止其他人。但是，我面临着如何处理某人被阻止时的用户体验的困境。 场景如下：如果用户 B 决定阻止用户 A，则用户 A 不应该能够查看用户 B 的内容帖子。现在，当用户 A 尝试访问用户 B 的内容并收到 401 错误时，提供用户体验的最佳方法是什么？  显示“未找到”消息消息：有些人认为显示通用的“Not Found”可能是错误的。当用户遇到 401 错误时发送消息可以维护隐私并防止用户 A 意识到自己已被用户 B 阻止。但是，这种方法会引发有关透明度和用户意识的道德问题。 通知屏蔽用户A：另一方面，其他人建议在遇到401错误时通知用户A他们已被用户B屏蔽。虽然这种方法可能更透明，但也可能导致用户之间潜在的冲突或不适。  我在这两个选项之间左右为难，非常感谢您的见解和经验。您认为我应该如何处理这种情况，以有效平衡隐私和透明度？我应该考虑其他方法吗？ 提前谢谢您！ *抱歉我的错误。 401 和 403 混合...    由   提交/u/ITvi-software07  /u/ITvi-software07 reddit.com/r/webdev/comments/1bwe2vf/client_to_tell_users_not_found_when_getting_401/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwe2vf/client_to_tell_users_not_found_when_getting_401/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我理解组件库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwe2cf/can_someone_help_me_understand_component_libraries/</link>
+      <description><![CDATA[据我了解，像 Shoelace 这样的组件库为您提供了一堆按钮、头像、面包屑等组件。 但用例是什么？仅仅是为了快速获得 MVP 吗？还是它像 Bootstrap 一样工作，您可以为正在构建的任何功能提供现成的组件？ 我记得社区曾经批评“Bootstrap 站点”，因为他们使用了 Bootstrap 组件。我们不是对组件库做同样的事情吗，还是我遗漏了一些东西？当有一个大的、一致的 UI 工具包时，组件不是相当固执己见吗？ 我还没有使用过组件库，所以我愿意学习更多内容，但我发现自己想要将组件设计为以某种方式，库听起来就像我只是在调整模板。   由   提交 /u/LISCoxH1Gj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwe2cf/can_someone_help_me_understand_component_libraries/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwdvjr/how/</link>
+      <description><![CDATA[      为什么“当前”是值不同 https://preview .redd.it/ax0147x0smsc1.png?width=1060&amp;format=png&amp;auto=webp&amp;s=da7269935e149341fb8e1c8196be4f6e463b0d1e   由   提交​​/u/Prof_Dr_Hund  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwdvjr/how/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一些帮助来修改我的简历</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwdpuk/i_need_some_help_fixing_my_cv/</link>
+      <description><![CDATA[我从 2012 年到 2018 年是一名 Web 开发人员，然后从 2018 年起管理 Shopify 在线商店。我使用 HTML、HTML5、CSS、CSS3、JS、jQuery、PHP 和 MySQL 制作了网站。 我正在重新制作我的简历。 https://i.imgur.com/0JWJ4w5.jpeg 是我所说的专业经验。我感觉我写的有点弱。有人可以帮我改进我写的内容吗？如果您需要有关我所做的更多信息，请询问我。   由   提交/u/cns000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwdpuk/i_need_some_help_fixing_my_cv/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站不同部分的不同平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bwdjt0/differing_platforms_for_different_parts_of_website/</link>
+      <description><![CDATA[大家好， 所以我认为对于那些处理过 SEO 的人来说这是一个问题（技术而非内容） ）。我有一个目前在 Wix 中构建的网站，但我正在慢慢地从它迁移，其中静态页面将是普通的，然后博客/动态页面将位于其他内容上（还不确定是什么）。 基本上我的抱怨是这样的。 Wix 的速度慢得令人难以置信，加载时间为 4-5 秒，但我可以将其减少到大约 2-300 毫秒。当然，我应该考虑加快 Wix 网站的速度，但由于我们无论如何都要迁移，老实说我是 CBA。 我目前的计划是让主页暂时位于根域上，然后是子域上的所有其他页面。当然，我知道这对于 blog.example.com 或 app.example.com 等内容来说是很常见的做法，但我不知道我想我已经看到主页位于根目录上，而网站的其余部分位于子目录上。 以前有人做过类似的事情吗？您发现了哪些陷阱？我最初担心的是 SEO，但这可能是没有根据的。   由   提交 /u/Jompra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bwdjt0/differing_platforms_for_different_parts_of_website/</guid>
+      <pubDate>Fri, 05 Apr 2024 09:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>不相信 Tailwind 就是这一切</title>
       <link>https://www.reddit.com/r/webdev/comments/1bwd5sz/unconvinced_that_tailwind_is_all_that/</link>
@@ -22,7 +85,7 @@
     <item>
       <title>改变我的想法：HTML 应该放在最后</title>
       <link>https://www.reddit.com/r/webdev/comments/1bwcbpu/change_my_mind_html_should_come_last/</link>
-      <description><![CDATA[我学web开发的时候，首先要背一堆HTML标签，然后还要背一堆css。直到那时我们才转向 javascript 和行为。 所有不同的 html 标签对我来说没有任何意义。  您应该使用 h1 来表示第一个标题，h2 为第二个标题。 您应该使用 p 来表示文本段落。  当然可以感觉，段落标签中有段落，但是为什么会有段落标签呢？它对我有什么作用？如果我将段落放在非 p 标记中会发生什么。所有这些问题都没有得到解答，我只需要记住它。 我看到的替代方法是告诉新手对所有内容都使用 div，并设置它们的样式以使页面看起来像我们想要的方式。&lt; /p&gt; 让他们实现链接本身等行为（例如 onclick window.location = bla）。 向他们介绍 SEO 的概念，然后再教他们 HTML。 在这种情况下，您可以说，  看看我们实现的链接，有一个 HTML 标记可以为您执行此操作，而且它可以执行此操作和该操作 是否因必须重复增加标题的字体大小而感到烦恼？这里使用 h1，而且它有助于 SEO 等。  有更多的解释为什么，而不是手动“这就是你必须这样做”  Wdyt？  编辑：经过思考一段时间，我认为这给出了 HTML 的错误模型。  HTML 标签不存在，因此您必须编写更少的 javascript 或 css 才能获得相同的外观和行为，而 javascript 和 css 的存在是为了增强 HTML 的交互性和视觉效果。 &lt; /div&gt;  由   提交 /u/SyefufS   [链接] [评论]]]></description>
+      <description><![CDATA[我学web开发的时候，首先要背一堆HTML标签，然后还要背一堆css。直到那时我们才转向 javascript 和行为。 所有不同的 html 标签对我来说没有任何意义。  您应该使用 h1 来表示第一个标题，h2 为第二个标题。 您应该使用 p 来表示文本段落。  当然可以感觉，段落标签中有段落，但是为什么会有段落标签呢？它对我有什么作用？如果我将段落放在非 p 标记中会发生什么。所有这些问题都没有得到解答，我只需要记住它。 我看到的替代方法是告诉新手在所有内容中使用 div，并设置它们的样式以使页面看起来像我们想要的方式。&lt; /p&gt; 让他们实现链接本身等行为（例如 onclick window.location = bla）。 向他们介绍 SEO 的概念，然后再教他们 HTML。 在这种情况下，您可以说，  看看我们实现的链接，有一个 HTML 标记可以为您执行此操作，而且它可以执行此操作和该操作 是否因必须重复增加标题的字体大小而感到烦恼？这里使用 h1，而且它有助于 SEO 等。  有更多的解释为什么，而不是手动“这就是你必须这样做”  Wdyt？  编辑：经过思考一段时间，我认为这给出了 HTML 的错误模型。  HTML 标签不存在，因此您必须编写更少的 javascript 或 css 才能获得相同的外观和行为，而 javascript 和 css 的存在是为了增强 HTML 的交互性和视觉效果。 &lt; /div&gt;  由   提交 /u/SyefufS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bwcbpu/change_my_mind_html_should_come_last/</guid>
       <pubDate>Fri, 05 Apr 2024 07:49:47 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[     &lt; /td&gt;  由   提交/u/Temporary_Balance158   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bwbemh/elon_musk_unveils_grok15/</guid>
       <pubDate>Fri, 05 Apr 2024 06:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以帮助我编辑/设计我的 webflow 网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bwaz5f/can_someone_help_me_with_editingdesigning_my/</link>
-      <description><![CDATA[我只是第一次尝试，已经好几天了，但我已经完成了一些工作。    由   提交 /u/Delhisehubhaisahab1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bwaz5f/can_someone_help_me_with_editingdesigning_my/</guid>
-      <pubDate>Fri, 05 Apr 2024 06:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法下载文件！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw9v37/not_able_to_download_the_file/</link>
-      <description><![CDATA[      嘿，我正在尝试使用 FFmpeg 库构建数据压缩，并且我能够压缩音频文件并下载它，但是，我无法对视频文件执行相同的操作。它正在压缩并存储在服务器端，但当我尝试下载它时，它显示错误。最糟糕的是，直到昨天早上它都工作正常，但现在根本无法工作。 https://pastebin.com /zAemWnMu 我的代码服务器端和客户端的链接。请查看我的代码并告诉我昨天到底发生了什么导致我收到此错误。   由   提交/u/Lelouch_5  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw9v37/not_able_to_download_the_file/</guid>
-      <pubDate>Fri, 05 Apr 2024 05:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOMPDF 简介 - 用于生成 PDF 文档的最轻、最简单的 PHP 库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw9p2a/intro_to_dompdf_lightest_and_simplest_php_library/</link>
-      <description><![CDATA[       由   提交/u/pyeri  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw9p2a/intro_to_dompdf_lightest_and_simplest_php_library/</guid>
-      <pubDate>Fri, 05 Apr 2024 05:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让蓝色部分出现在红色部分上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw9fh8/how_do_i_get_blue_part_to_appear_on_red_part/</link>
-      <description><![CDATA[   /u/Available_Canary_517  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw9fh8/how_do_i_get_blue_part_to_appear_on_red_part/</guid>
-      <pubDate>Fri, 05 Apr 2024 04:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年是 Bun 还是 Node.js？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw99iq/bun_or_nodejs_in_2024/</link>
-      <description><![CDATA[       由   提交/u/moonbunR  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw99iq/bun_or_nodejs_in_2024/</guid>
-      <pubDate>Fri, 05 Apr 2024 04:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果诉美国政府，美国政府是对的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw8stv/apple_v_us_govt_the_us_govt_is_right/</link>
-      <description><![CDATA[对于美国政府在针对苹果的案件中如何使用反竞争法，似乎存在误解。我不是法律专家，但从我所读到的内容来看，核心问题在于苹果的各种平台，他们允许第三方但通过市场操纵（有限的 API 访问，阻止合法和公平的产品出现在他们的商店等...）实际上从未允许在上述平台上进行自由和公平的竞争，因此可能会被起诉。 对于美国政府的做法似乎存在误解在本案中针对苹果公司使用了反竞争法。我不是法律专家，但从我所读到的内容来看，核心问题是苹果的各种平台允许第三方但通过市场操纵（有限的 API 访问，阻止合法和公平的产品出现在其商店中）等...）实际上从未允许在上述平台上进行自由和公平的竞争，因此可能会被起诉。 基本上，您可以将诉讼总结为 2 点， &lt; ul&gt; 苹果正在利用他们的平台以不公平的方式限制竞争；如果 iOS 和其他系统不向第三方开放，这确实不会成为问题 苹果本身可能不是最大的参与者，但他们的市场力量和滥用上述权力是垄断行为的表现 亚马逊和谷歌就是一个很好的例子。亚马逊不是世界上唯一的购物网站（搜索领域的谷歌也不是），但他们拥有强大的市场力量。在他们的平台上，他们需要确保不会以牺牲其他竞争为代价来不公平地推广他们的产品，基本上，当你拥有一个平台时，竞争必须是公平的（实际上与微软相同）     TL;DR; 苹果正在滥用市场力量，使其难以在其平台上竞争。苹果可能已经构建了最好的沙盒，但只要他们允许其他人在该沙盒中玩游戏，他们就需要确保游戏公平进行，在微软的反垄断诉讼案件中，同样的规则也适用于微软。 Windows 是微软的孩子，但如果微软不公平地推广他们的产品，损害了其他竞争对手的利益，那么就会提起反垄断诉讼（就这么简单） 不过，我对其他人对这种情况的看法很感兴趣，我错了吗根据我的分析，如果是这样，为什么？   由   提交/u/okikio_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw8stv/apple_v_us_govt_the_us_govt_is_right/</guid>
-      <pubDate>Fri, 05 Apr 2024 04:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Supabase 进行存储和身份验证。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw7zbm/using_supabase_for_storage_and_auth/</link>
-      <description><![CDATA[我发现很多 YouTube 教程中人们使用 Supabase 作为数据库，但诉诸其他选项进行身份验证和存储。为什么会这样呢？除了 Supabase 的服务之外，还有其他更好的选择吗？人们愿意花钱购买他们的服务吗？我是一个真正困惑的初学者，想听听专业人士的想法。   由   提交 /u/ILoveTypeScript   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw7zbm/using_supabase_for_storage_and_auth/</guid>
-      <pubDate>Fri, 05 Apr 2024 03:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>给有梦想的初学者一些建议，从哪里开始？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw7ya5/some_advice_for_a_beginner_with_a_dream_on_where/</link>
-      <description><![CDATA[大家好，首先，如果这是一个愚蠢的帖子，我很抱歉。从职业上来说，我是一名医学生。但我一直对技术、应用程序和设计很着迷。如果您能花时间阅读我的帖子并指导我正确的方式，我愿意学习并创造一些可以帮助很多学生的东西。 所以我有一个愿景，让医学教育成为可能更容易访问和更容易，这涉及我建立一个网站。我的想法是，当我准备考试时，我意识到为了获得所有过去的考试问题，我必须购买过去的纸质书，而这些书很大，很难随身携带。而且最新的书籍出版时间太接近考试了，没有足够的时间复习。 所以我决定需要建立一个网站（或者你可以称之为数字图书馆）。它本质上是一个闪存卡类型的东西。您登录后，选择您需要的主题。您想要修改的年份和网站应该从这些年份中提取问题并为您显示问题。用户会在心里尝试回忆答案并点击“显示”文本，它会在那里显示答案，用户可以查看他们是否正确，然后你点击下一个按钮，它会显示下一个问题。 我准备好了网站的基本框架。 对于数据库，使用我有限的知识和谷歌文档。我想我会为问答数据库创建一个 Excel 工作表。因此，问题将有一个问题 ID，例如“Q-PP2022-GROUPA-1”，然后它将包含包含该问题的 google 文档的路径（该文档将仅包含格式化文本，最多可能为 5 行） 。下一列中将是一个答案 ID，其中包含包含答案的 Google 文档的路径（该文档将仅包含带格式的文本，可能还有一两张图像） 现在用户之后选择他想要修改的年份并点击确认我只想让网站显示一个问题ID，这意味着它应该使用谷歌表拉出包含问题的谷歌文档并以格式显示它。单击“显示”按钮后，它应该执行相同的操作并在 Google 文档中显示相应的答案。 由于问题 ID 中将包含年份，因此当用户选择时，他只需要问题例如，从 2023 年和 2022 年开始，它将显示其中包含 2023 年和 2022 年的问题 ID。 现在这是我的小想法。 Web 开发的世界很大，我从未上过 IT 学校或类似的学校，但我有互联网可供使用，并且我愿意学习。因此，请指导我如何完成这项工作。我应该学习什么，基本上任何指针都会有帮助。 谢谢！   由   提交 /u/Lostnetizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw7ya5/some_advice_for_a_beginner_with_a_dream_on_where/</guid>
-      <pubDate>Fri, 05 Apr 2024 03:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 go templ css 组件中进行复合选择器和媒体查询？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw7eik/how_do_i_do_compound_selectors_and_media_queries/</link>
-      <description><![CDATA[.aClass .childClass { } 或 @media (prefers-color-scheme: dark) { }  我不明白如何在 go templ css 组件中执行这些操作，因为选择器是函数名称，而这些不是有效的函数名称。 我是 Web 开发新手，了解不多所以 ELI5 请   由   提交/u/no_brains101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw7eik/how_do_i_do_compound_selectors_and_media_queries/</guid>
-      <pubDate>Fri, 05 Apr 2024 03:03:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

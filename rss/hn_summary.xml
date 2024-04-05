@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 08:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:04:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 设备绑定会话凭证 (DBSC) 是一种协议和浏览器基础设施，旨在 [...]</title>
-      <link>https://t.me/hn_summary/83046</link>
-      <description><![CDATA[设备绑定会话凭据解释器
-设备绑定会话凭证 (DBSC) 是一种协议和浏览器基础设施，旨在减少 cookie 盗窃导致的帐户劫持。它引入了加密密钥来验证绑定到用户设备的会话，从而使恶意软件更难滥用被盗的 cookie。 DBSC 为网站提供 API，用于控制密钥生命周期并定期向服务器证明拥有密钥。 DBSC 的独特之处在于其应用程序级绑定，允许网站将会话设置与用户登录机制以及浏览器启动的刷新紧密结合，从而简化设备绑定。该项目还解决了 TPM 考虑因素和隐私问题，以确保用户安全和隐私。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83046</guid>
-      <pubDate>Fri, 05 Apr 2024 08:46:12 GMT</pubDate>
+      <title>[媒体]2024年3月，葡萄牙语博客notes.ghed.in的作者进行了一次前[...]</title>
+      <link>https://t.me/hn_summary/83058</link>
+      <description><![CDATA[几乎没有人关心您的网站是否不在社交媒体上
+2024 年 3 月，葡萄牙语博客 notes.ghed 的作者。  进行了一项实验，停止在社交媒体平台上分发内容。令人惊讶的是，该博客的独立访问者和页面浏览量有所增加，这主要归功于病毒式传播的谷歌链接。作者强调了社交媒体对网络流量缺乏影响，并对 WhatsApp 和 Threads 等平台的未来作用表示怀疑。尽管一些读者错过了社交媒体的更新，但作者仍然关注直接流量和去中心化平台。该实验揭示了在线参与不断发展的格局以及作者维持博客受众的独特方法。]]></description>
+      <guid>https://t.me/hn_summary/83058</guid>
+      <pubDate>Fri, 05 Apr 2024 12:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 目前遇到问题，您可以随时了解 Iss 事件的最新信息 [...]</title>
-      <link>https://t.me/hn_summary/83045</link>
-      <description><![CDATA[GitHub 已关闭
-GitHub 目前遇到问题，您可以通过订阅电子邮件和短信通知来了解问题事件、API 请求、拉取请求和 Codespaces 的最新信息。您可以选择接收各个国家/地区的事件更新的短信通知，并且当 GitHub 创建或解决事件时您会收到通知。随时了解 GitHub 的状态更新并保持联系。]]></description>
-      <guid>https://t.me/hn_summary/83045</guid>
-      <pubDate>Fri, 05 Apr 2024 08:43:07 GMT</pubDate>
+      <title>[媒体] 为什么我不喜欢 Git 多一些？</title>
+      <link>https://t.me/hn_summary/83057</link>
+      <description><![CDATA[为什么我不喜欢 Git 多一些？&lt; br /&gt;
+使用 Git 十年后，我仍然很难完全接受它。 Git 的复杂性经常会导致意想不到的行为，要求我记住大量的命令和概念。虽然 Git 适用于很多人，但我发现它对于我的典型工作流程来说有点过分了。为了寻找更简单的版本控制系统，我探索了“Gitlite”的想法，它专注于集中操作、按需服务器端处理和改进的可视化工具。我还深入研究了 SVN 的简单性和用户友好的方法，以及 Sapling，这是一种专为在以 GitHub 为中心的世界中轻松使用而设计的 VCS。最终，我寻求一种能够简化我的工作流程且避免不必要的复杂性的 VCS。 （根据故事文本的 56% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83057</guid>
+      <pubDate>Fri, 05 Apr 2024 11:58:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如何转动旋钮让冰箱变冷？</title>
-      <link>https://t.me/hn_summary/83044</link>
-      <description><![CDATA[如何转动此旋钮使冰箱温度降低？
-在 kottke.org 发人深省的帖子中，作者提出一个简单但令人费解的问题：如何转动冰箱上的旋钮使其变冷？作者以一家冰淇淋店老板想要调节浸渍柜的温度为例，要求读者批判性地思考是否应该将刻度盘设置为 3 还是 5。这篇文章在 Gracie 的 Instagram 粉丝中引发了激烈的争论，展示了了解温度控制背后的机制的重要性。加入对话并分享您对这个有趣的困境的想法。]]></description>
-      <guid>https://t.me/hn_summary/83044</guid>
-      <pubDate>Fri, 05 Apr 2024 08:25:59 GMT</pubDate>
+      <title>[媒体] 在“基础设施即代码不是答案”中，Luke Shaughnessy 挑战了常见的 [...]</title>
+      <link>https://t.me/hn_summary/83056</link>
+      <description><![CDATA[基础设施即代码不是答案 - 作者：Luke Shaughnessy
+在《基础设施即代码不是答案》中，Luke Shaughnessy 挑战了基础设施即代码 (IAC) 是 DevOps、平台和 SRE 团队的最终解决方案的普遍信念。虽然 IAC 的好处是显而易见的，但 Shaughnessy 深入研究了采用这种方法所带来的复杂性和风险。他强调了诸如代码过时、代码无法自我记录以及可能出现灾难性错误等问题。 Shaughnessy 强调灵活性和批判性思维的重要性，表明 IAC 并不是一种万能的解决方案。该文章引发了争论，并对有效实施 IAC 的挑战提供了细致入微的视角。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83056</guid>
+      <pubDate>Fri, 05 Apr 2024 11:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Facebook 被发现窥探 Snapchat 用户。</title>
-      <link>https://t.me/hn_summary/83043</link>
-      <description><![CDATA[Facebook 被发现窥探 Snapchat 用户。这是怎么回事？
-Facebook、WhatsApp 和 Instagram 的母公司 Meta 的数据隐私政策一直存在争议。在 Facebook 上发布免责声明以保护隐私的谣言已被揭穿。 Facebook 的主要商业模式是将用户数据货币化。 Facebook 的起源涉及哈佛学生的数据收集。最近，法庭文件显示 Facebook 试图窥探 Snapchat 用户，从而可能引发刑事调查。 Meta 与 Netflix 共享私人消息数据和反竞争行为凸显了大型科技公司的垄断地位。欧盟的数字市场法案旨在挑战这些做法。为了保护隐私，请考虑使用 Signal 和 Tuta Mail 等替代方案。]]></description>
-      <guid>https://t.me/hn_summary/83043</guid>
-      <pubDate>Fri, 05 Apr 2024 08:09:51 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，作者挑战了 Rust 难以学习的观点，并提供了 [...]</title>
+      <link>https://t.me/hn_summary/83055</link>
+      <description><![CDATA[简单模式 Rust
+在这篇文章中，作者挑战了 Rust 难以学习的观点，并提供了一种不同的学习该语言的方法。通过专注于一小部分概念并避免更复杂的主题（例如语法、借用规则和宏），作者建议初学者可以快速提高 Rust 的工作效率，并随着时间的推移巩固他们的知识。作者强调了通过首先接受“不合格”代码并随后清理来鼓励新学习者和同事的重要性。这种非常规的方法旨在让 Rust 更容易上手，并且对新手来说不那么令人生畏。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83055</guid>
+      <pubDate>Fri, 05 Apr 2024 11:52:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么现在的软件很糟糕？</title>
-      <link>https://t.me/hn_summary/83042</link>
-      <description><![CDATA[为什么今天的软件很糟糕？
-在当今世界，软件在我们的日常生活中发挥着至关重要的作用，从驾驶汽车到管理财务。然而，尽管努力提高软件质量，性能和可用性问题仍然存在。现代软件的复杂性，加上影响行业的能力危机，导致了持续的质量挑战。令人惊讶的是，高级编程语言和框架的兴起使软件工程民主化，但也导致了专业标准的下降。有争议的是，像 Martin Fowler 这样的思想领袖可能没有强大的软件工程背景，但他们的影响力塑造了行业实践。最终，更深入地了解技术对于确保软件质量和可靠性仍然至关重要。]]></description>
-      <guid>https://t.me/hn_summary/83042</guid>
-      <pubDate>Fri, 05 Apr 2024 07:52:43 GMT</pubDate>
+      <title>[媒体] 在 WannaCry 勒索软件流行的世界中，网络安全研究员 Marcu [...]</title>
+      <link>https://t.me/hn_summary/83054</link>
+      <description><![CDATA[拯救互联网的黑客马库斯·哈钦斯的自白
+在 WannaCry 勒索软件大流行肆虐的世界中，网络安全研究员马库斯·哈钦斯 (Marcus Hutchins) 做出了一项令人惊讶的发现，该发现将改变危机的进程。随着恶意代码在全球范围内传播混乱，哈钦斯注意到恶意软件中嵌入了一个特殊的网址。经过进一步调查，他发现该网站并不存在，这让他相信这可能是勒索软件的终止开关。凭借敏捷的思维和运气，哈钦斯注册了该域名，无意中阻止了 WannaCry 的传播，并拯救了无数计算机免遭进一步的损害。他的行动是对抗网络威胁的关键时刻。]]></description>
+      <guid>https://t.me/hn_summary/83054</guid>
+      <pubDate>Fri, 05 Apr 2024 11:50:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] XZ Utils Linux 后门背后的编码者“Jia Tan”是谁？</title>
-      <link>https://t.me/hn_summary/83041</link>
-      <description><![CDATA[谁是 XZ Utils Linux 背后的编码员“Jia Tan”后门？
-被称为“Jia Tan”的神秘编码员已被确定为 XZ Utils Linux 后门的幕后主使，专家表示他们很可能不是单独行动。安全研究人员 Costin Raiu 将这个精心设计的后门描述为“狡猾”，这表明它有一个复杂的长期访问计划。令人惊讶的是，对 Tan 提交的代码的调查揭示了与中国时区相关的活动模式，即使在中国假期期间，偶尔也会从中东或东欧上传。围绕谭的身份和动机的争议为这个网络安全难题增添了一层有趣的色彩。]]></description>
-      <guid>https://t.me/hn_summary/83041</guid>
-      <pubDate>Fri, 05 Apr 2024 07:47:37 GMT</pubDate>
+      <title>问 HN：我想在我所在城市的学校提供​​免费 WiFi，我该怎么做？</title>
+      <link>https://t.me/hn_summary/83053</link>
+      <description><![CDATA[询问 HN：我想在我所在城市的学校安装免费 WiFi ，我该怎么办？
+作者正在寻求有关如何在所在城市的学校实施免费 WiFi 的建议。他们正在考虑两种方法：为每所学校进行独立设置，或者建立一个全市网络，让学生可以在任何学校访问 WiFi。他们正在寻找有关设备、基础设施、定价估算以及提供类似解决方案的现有公司的建议。作者正在寻求有关该项目的技术和后勤方面的指导，强调在学校提供免费 WiFi 的潜在影响。]]></description>
+      <guid>https://t.me/hn_summary/83053</guid>
+      <pubDate>Fri, 05 Apr 2024 10:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mission Talita 是由瑞典一家非营利机构创建的《侠盗猎车手》模组，旨在 [...]</title>
-      <link>https://t.me/hn_summary/83040</link>
-      <description><![CDATA[Mission Talita 是一款旨在阻止贩卖的侠盗猎车手模组
-Mission Talita 是由瑞典一家非营利机构创建的侠盗猎车手模组，旨在提高人们对人口贩卖的认识。该模组包含新任务、定制广播电台以及逃离人口贩卖的女性的真实故事。玩家扮演好撒玛利亚人的角色，拯救受害者并躲避或消灭人贩子。该模组旨在利用熟悉的 GTA 环境来传递强有力的信息，从而改变人们对卖淫和性贩运的态度。该模组可在 PC 上下载，并在非营利组织的网站上接受捐款。这是解决游戏社区中严重的现实问题的一种独特而引人注目的方式。]]></description>
-      <guid>https://t.me/hn_summary/83040</guid>
-      <pubDate>Fri, 05 Apr 2024 07:46:33 GMT</pubDate>
+      <title>Proton Mail 指责微软新的 Outlook for Windows 应用程序是一个数据收集服务 [...]</title>
+      <link>https://t.me/hn_summary/83052</link>
+      <description><![CDATA[Proton Mail 称 Outlook for Windows 是微软的新数据收集服务
+Proton Mail 指责微软新的 Outlook for Windows 应用程序是一项数据收集服务，与 772 家广告商共享用户数据。该应用程序从用户那里收集广泛的数据，包括个人信息、密码，甚至语音数据。 Proton 声称，微软与其他从事数据收集和定向广告的公司没有什么不同。新的 Outlook 应用程序会显示看起来像消息通知的广告，并将第三方电子邮件帐户与该应用程序同步，从而将密码和其他数据发送到微软的服务器。 Proton 推荐 Thunderbird 和 Apple Mail 作为替代电子邮件客户端。]]></description>
+      <guid>https://t.me/hn_summary/83052</guid>
+      <pubDate>Fri, 05 Apr 2024 10:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>不幸的是，我无法提供内容摘要，因为我无权访问该文章。</title>
-      <link>https://t.me/hn_summary/83039</link>
-      <description><![CDATA[美国夫妻饮酒和死亡率：个人和伴侣的影响&lt; /a&gt;
-不幸的是，我无法提供内容摘要，因为我无权访问该文章。]]></description>
-      <guid>https://t.me/hn_summary/83039</guid>
-      <pubDate>Fri, 05 Apr 2024 07:07:19 GMT</pubDate>
+      <title>[媒体]在 Time.com 上发表的一篇开创性文章中，作者深入探讨了童年的世界 [...]</title>
+      <link>https://t.me/hn_summary/83051</link>
+      <description><![CDATA[了解童年创伤可以帮助我们变得更有韧性&lt; br /&gt;
+在 Time.com 上发表的一篇开创性文章中，作者深入研究了儿童创伤的世界，强调了全球每年有 10 亿儿童遭受虐待的惊人统计数据。通过伊森和凯文这两个经历过不同类型不良童年经历 (ACE) 的孩子的故事，作者探讨了创伤如何在个体中以独特的方式表现出来。通过了解创伤特征的概念（不良经历引起的精神扭曲的具体标识符），护理人员和教育工作者可以制定干预措施，帮助儿童康复并增强复原力。本文强调了根据每个孩子的具体需求来识别和应对创伤的重要性，最终为更光明的未来铺平道路。]]></description>
+      <guid>https://t.me/hn_summary/83051</guid>
+      <pubDate>Fri, 05 Apr 2024 10:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>准备好使用 alix 进行一次回忆之旅，这是一款采用 KDE 1.1.2 的复古 Linux 发行版 [...]</title>
-      <link>https://t.me/hn_summary/83038</link>
-      <description><![CDATA[Debian 13 上的 KDE1
-准备好使用 arix 来回忆一下，这是一个复古的 Linux 发行版，在 Debian 13 (Trixie) 上采用 KDE 1.1.2。通过这个独特的发行版体验老式计算的怀旧之情。不要忘记使用密码“1”下载，当您在这里时，请查看我的 YouTube 频道以获取更多技术内容。准备好在 Debian 13 上使用 alix 重温过去。]]></description>
-      <guid>https://t.me/hn_summary/83038</guid>
-      <pubDate>Fri, 05 Apr 2024 06:47:11 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，我们深入研究了线性反馈移位寄存器 (LFSR) 的世界 [...]</title>
+      <link>https://t.me/hn_summary/83050</link>
+      <description><![CDATA[了解 FPGA 中的线性反馈移位寄存器
+在这篇博文中，我们深入探讨了 FPGA 设计中的线性反馈移位寄存器 (LFSR) 的世界。 LFSR 可用于生成随机测试模式、计数器、数据加扰/解扰以及错误检测/纠正。这篇文章解释了实现 LFSR 的两种方法 - 斐波那契和伽罗瓦，并强调了了解哪种方法最适合您的应用程序的重要性。这篇文章还提供了使用这两种技术实现 LFSR 的源代码。一个令人惊讶的转折是在下一篇博客文章中提到将 LFSR 与 ILA 和测试设备结合使用。该帖子还推荐了 Peter Alfke 撰写的有用的应用说明，其中列出了 LFSR 反馈点击列表。]]></description>
+      <guid>https://t.me/hn_summary/83050</guid>
+      <pubDate>Fri, 05 Apr 2024 09:48:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《龙之教条2》中，战斗系统故意草率和不精致，挑战[...]</title>
-      <link>https://t.me/hn_summary/83037</link>
-      <description><![CDATA[《龙之信条2》的战斗是故意的草率且不精致
-在《龙之教条2》中，战斗系统故意显得草率和粗糙，挑战玩家接受失败和不可预测性。与其他动作角色扮演游戏不同，它没有闪避、反击或锁定机制，迫使玩家依赖松散的目标和称为棋子的人工智能同伴。该游戏旨在在单人体验中模拟多人角色扮演游戏的混乱本质，玩家必须接受对其党员的有限控制和信任。虽然战斗可能会让人感觉混乱且不集中，但它创造了一个任何事情都可能发生的独特空间，为游戏玩法增添了惊喜和不可预测的元素。]]></description>
-      <guid>https://t.me/hn_summary/83037</guid>
-      <pubDate>Fri, 05 Apr 2024 06:44:08 GMT</pubDate>
+      <title>[媒体] 作为一名广泛使用 PostgreSQL 的开发人员，我已经确定了几个 [...]</title>
+      <link>https://t.me/hn_summary/83049</link>
+      <description><![CDATA[我希望 PostgreSQL 作为开发人员拥有的功能
+作为一名广泛使用 PostgreSQL 的开发人员，我发现了几个关键功能，我相信这些功能将极大地增强数据库管理体验。其中包括用于更好一致性和回滚选项的版本化模式、用于最大限度减少停机时间的在线模式迁移、用于更轻松跟踪的基于状态的迁移、用于高效测试环境的分支、用于数据保护的存档表以及用于改进组织的通用标签系统。此外，集成 Git 进行版本控制将简化开发工作流程。 Neon、Xata、Snaplet、Supabase 和 Bytebase 等公司已经在突破 PostgreSQL 功能的界限。您希望 PostgreSQL 有什么功能？]]></description>
+      <guid>https://t.me/hn_summary/83049</guid>
+      <pubDate>Fri, 05 Apr 2024 09:46:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
