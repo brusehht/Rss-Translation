@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 03:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 06:14:51 GMT</lastBuildDate>
+    <item>
+      <title>无法下载文件！！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw9v37/not_able_to_download_the_file/</link>
+      <description><![CDATA[      嘿，我正在尝试使用 FFmpeg 库构建数据压缩，并且我能够压缩音频文件并下载它，但是，我无法对视频文件执行相同的操作。它正在压缩并存储在服务器端，但当我尝试下载它时，它显示错误。最糟糕的是，直到昨天早上它都工作正常，但现在根本无法工作。 https://pastebin.com /zAemWnMu 我的代码服务器端和客户端的链接。请查看我的代码并告诉我昨天到底发生了什么导致我收到此错误。   由   提交/u/Lelouch_5  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw9v37/not_able_to_download_the_file/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOMPDF 简介 - 用于生成 PDF 文档的最轻、最简单的 PHP 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw9p2a/intro_to_dompdf_lightest_and_simplest_php_library/</link>
+      <description><![CDATA[       由   提交/u/pyeri  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw9p2a/intro_to_dompdf_lightest_and_simplest_php_library/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让蓝色部分出现在红色部分上</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw9fh8/how_do_i_get_blue_part_to_appear_on_red_part/</link>
+      <description><![CDATA[   /u/Available_Canary_517  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw9fh8/how_do_i_get_blue_part_to_appear_on_red_part/</guid>
+      <pubDate>Fri, 05 Apr 2024 04:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年是 Bun 还是 Node.js？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw99iq/bun_or_nodejs_in_2024/</link>
+      <description><![CDATA[       由   提交/u/moonbunR  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw99iq/bun_or_nodejs_in_2024/</guid>
+      <pubDate>Fri, 05 Apr 2024 04:37:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果诉美国政府，美国政府是对的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw8stv/apple_v_us_govt_the_us_govt_is_right/</link>
+      <description><![CDATA[对于美国政府在针对苹果的案件中如何使用反竞争法，似乎存在误解。我不是法律专家，但从我所读到的内容来看，核心问题在于苹果的各种平台，他们允许第三方但通过市场操纵（有限的 API 访问，阻止合法和公平的产品出现在他们的商店等...）实际上从未允许在上述平台上进行自由和公平的竞争，因此可能会被起诉。 对于美国政府的做法似乎存在误解在本案中针对苹果公司使用了反竞争法。我不是法律专家，但从我所读到的内容来看，核心问题是苹果的各种平台允许第三方但通过市场操纵（有限的 API 访问，阻止合法和公平的产品出现在其商店中）等...）实际上从未允许在上述平台上进行自由和公平的竞争，因此可能会被起诉。 基本上，您可以将诉讼总结为 2 点， &lt; ul&gt; 苹果正在利用他们的平台以不公平的方式限制竞争；如果 iOS 和其他系统不向第三方开放，这确实不会成为问题 苹果本身可能不是最大的参与者，但他们的市场力量和滥用上述权力是垄断行为的表现 亚马逊和谷歌就是一个很好的例子。亚马逊不是世界上唯一的购物网站（搜索领域的谷歌也不是），但他们拥有强大的市场力量。在他们的平台上，他们需要确保不会以牺牲其他竞争为代价来不公平地推广他们的产品，基本上，当你拥有一个平台时，竞争必须是公平的（实际上与微软相同）     TL;DR; 苹果正在滥用市场力量，使其难以在其平台上竞争。苹果可能已经构建了最好的沙盒，但只要他们允许其他人在该沙盒中玩游戏，他们就需要确保游戏公平进行，在微软的反垄断诉讼案件中，同样的规则也适用于微软。 Windows 是微软的孩子，但如果微软不公平地推广他们的产品，损害了其他竞争对手的利益，那么就会提起反垄断诉讼（就这么简单） 不过，我对其他人对这种情况的看法很感兴趣，我错了吗根据我的分析，如果是这样，为什么？   由   提交/u/okikio_dev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw8stv/apple_v_us_govt_the_us_govt_is_right/</guid>
+      <pubDate>Fri, 05 Apr 2024 04:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Supabase 进行存储和身份验证。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw7zbm/using_supabase_for_storage_and_auth/</link>
+      <description><![CDATA[我发现很多 YouTube 教程中人们使用 Supabase 作为数据库，但诉诸其他选项进行身份验证和存储。为什么会这样呢？除了 Supabase 的服务之外，还有其他更好的选择吗？人们愿意花钱购买他们的服务吗？我是一个真正困惑的初学者，想听听专业人士的想法。   由   提交 /u/ILoveTypeScript   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw7zbm/using_supabase_for_storage_and_auth/</guid>
+      <pubDate>Fri, 05 Apr 2024 03:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>给有梦想的初学者一些建议，从哪里开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bw7ya5/some_advice_for_a_beginner_with_a_dream_on_where/</link>
+      <description><![CDATA[大家好，首先，如果这是一个愚蠢的帖子，我很抱歉。从职业上来说，我是一名医学生。但我一直对技术、应用程序和设计很着迷。如果您能花时间阅读我的帖子并指导我正确的方式，我愿意学习并创造一些可以帮助很多学生的东西。 所以我有一个愿景，让医学教育成为可能更容易访问和更容易，这涉及我建立一个网站。我的想法是，当我准备考试时，我意识到为了获得所有过去的考试问题，我必须购买过去的纸质书，而这些书很大，很难随身携带。而且最新的书籍出版时间太接近考试了，没有足够的时间复习。 所以我决定需要建立一个网站（或者你可以称之为数字图书馆）。它本质上是一个闪存卡类型的东西。您登录后，选择您需要的主题。您想要修改的年份和网站应该从这些年份中提取问题并为您显示问题。用户会在心里尝试回忆答案并点击“显示”文本，它会在那里显示答案，用户可以查看他们是否正确，然后你点击下一个按钮，它会显示下一个问题。 我准备好了网站的基本框架。 对于数据库，使用我有限的知识和谷歌文档。我想我会为问答数据库创建一个 Excel 工作表。因此，问题将有一个问题 ID，例如“Q-PP2022-GROUPA-1”，然后它将包含包含该问题的 google 文档的路径（该文档将仅包含格式化文本，最多可能为 5 行） 。下一列中将是一个答案 ID，其中包含包含答案的 Google 文档的路径（该文档将仅包含带格式的文本，可能还有一两张图像） 现在用户之后选择他想要修改的年份并点击确认我只想让网站显示一个问题ID，这意味着它应该使用谷歌表拉出包含问题的谷歌文档并以格式显示它。单击“显示”按钮后，它应该执行相同的操作并在 Google 文档中显示相应的答案。 由于问题 ID 中将包含年份，因此当用户选择时，他只需要问题例如，从 2023 年和 2022 年开始，它将显示其中包含 2023 年和 2022 年的问题 ID。 现在这是我的小想法。 Web 开发的世界很大，我从未上过 IT 学校或类似的学校，但我有互联网可供使用，并且我愿意学习。因此，请指导我如何完成这项工作。我应该学习什么，基本上任何指针都会有所帮助。 谢谢！   由   提交 /u/Lostnetizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bw7ya5/some_advice_for_a_beginner_with_a_dream_on_where/</guid>
+      <pubDate>Fri, 05 Apr 2024 03:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 go templ css 组件中进行复合选择器和媒体查询？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bw7eik/how_do_i_do_compound_selectors_and_media_queries/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[您好！  我过去为我的老企业和我重要的其他服务业务制作了一些 squarespace 网站，我只是为了好玩而闲逛，没有真正的编码。  我最近帮助一些朋友建立了他们的商业网站，最初是一个基本的网站，现在已经变得越来越分层和详细，有很多我不确定 Squarespace 能否满足或我会满足的要求。必须在工作中学习，到目前为止我还没有获得愉快的经历。  他们向我提供了一定比例的业务或一些付款，我决定向他们收取构建的折扣费率，因为我讨论了我是多么缺乏经验，并认为这只是一个快速的恩惠，但是这些人无法运行他们的网站。我曾提议对某人进行基本变革培训，但遭到了抵制。我不介意获得报酬来进行更新，因为大部分更新都是基于事件的，如果我提前掌握详细信息，我可以将内容删除。  关于如何正确导航的任何提示？您如何构建这些费率？  是否有为小型企业构建 squarespace 的市场，我可以在其中兼职做这件事？    由   提交 /u/ConstipatedFrenchie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bw1dxt/do_you_guys_charge_website_maintenance_fees/</guid>
       <pubDate>Thu, 04 Apr 2024 22:41:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>对所有项目使用 PUT 进行删除、添加和重新定位 - 这是一个好主意、中立还是坏主意？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw19f9/using_put_with_all_items_for_deletion_addition/</link>
-      <description><![CDATA[我是一名后端开发人员，与一名前端开发人员一起工作。我的工作是创建 API 并从数据库存储/检索数据，以及其他一些后端内容。 前端开发人员正在提出一个 API，其中 PUT 用于删除、添加和重新定位。换句话说，如果用户添加新对象、删除对象或将对象移动到列表中的新位置，则会重新发送所有对象的所有详细信息。后端会遍历它们并重新保存它们（或者检查哪些是不同的，然后只重新保存那些），添加任何新的，并删除任何丢失的。 这对于我担心，导致没有对象的 PUT 请求的错误会擦除所有对象。 我反应过度了吗？您认为这种方法是好、中立还是坏？ 谢谢！   由   提交/u/lindymad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw19f9/using_put_with_all_items_for_deletion_addition/</guid>
-      <pubDate>Thu, 04 Apr 2024 22:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D 可视化工具 - 如何使用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw0mce/3d_visualization_tools_how/</link>
-      <description><![CDATA[我正在尝试实现 Blue Nile 为其钻石提供的相同 3D 可视化工具 ( 1.00 克拉 I-SI1 优质切工圆形钻石 (bluenile.com))。但我的问题是； ___ 是如何工作的？？？我得到了使用某种 3D 相机平台进行实际扫描的部分。 但是如何将这种东西实际嵌入到网站中呢？它甚至有可能集成到 Webflow 之类的东西中吗？   由   提交 /u/KimAndersenCock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw0mce/3d_visualization_tools_how/</guid>
-      <pubDate>Thu, 04 Apr 2024 22:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify Flask 应用请求不发送带有回调函数的 HMAC 参数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw0k10/shopify_flask_app_request_not_sending_hmac/</link>
-      <description><![CDATA[使用与 Facebook 交互的 Flask 构建此 Shopify 应用程序，但是当 Facebook 通过回调重定向我时，我没有获得用于验证的 HMAC 参数。&lt; /p&gt; 这是验证函数： def is_valid_request(params, hmac_signature): parsed_pa​​rams = dict(parse_qsl(params, keep_blank_values=True)) # 去掉hmac参数 parsed_pa​​rams. pop(&#39;hmac&#39;, None) # 重建不带 hmac 参数的查询字符串 msg = urlencode(sorted(parsed_pa​​rams.items())) # 创建一个新的 HMAC 并根据提供的值验证它 hmac_calculated = hmac.new(SHOPIFY_API_SECRET.编码（&#39;utf-8&#39;），msg.encode（&#39;utf-8&#39;），hashlib.sha256）.hexdigest（）如果hmac_signature为None：print（“hmac_signature为None。”）返回False返回hmac.compare_digest (str(hmac_calculated), str(hmac_signature))  这是 Shopify 回调中处理 HMAC 验证的部分： @app.route (&#39;/shopify/callback&#39;,methods=[&#39;GET&#39;]) defcallback(): shop = request.args.get(&#39;shop&#39;) code = request.args.get(&#39;code&#39;) hmac_signature = request.args .get(&#39;hmac&#39;) # 验证 HMAC 签名 params = request.query_string.decode(&quot;utf-8&quot;) # 确保请求来自 Shopify if not is_valid_request(params, hmac_signature): print(is_valid_request(params, hmac_signature) )) return str(“无效签名”), 403  连接 Facebook 后，重定向到 Shopify 回调路由并显示“无效签名”页面。我尝试记录签名以查看它看起来是否等于“无”。打印出 params 变量显示一长串文本，我认为它应该具有 HMAC 参数，但唯一可读的英文是“code=”和“状态＝”后面跟着一堆随机数字和字母。 我做错了什么吗？ Shopify 应该有不同的反应吗？ Shopify 开发文档中没有关于使用 Flask 构建应用程序的文档，因此找到解决方案有点困难。 完整的回调 URL 非常清楚地有两个我可以看到的参数：code  参数和 state 参数。没有 HMAC 参数，就像应该有的那样。 这是我从回调函数获得的 URL 重定向：https://appurl.com/shopify/callback?code=AQBKkiaVmjmD7HYsZ7CUz8cOvn8V_GSR3VzGsdLyOO419dG4p3qAajSzFrqO5sHAiMCcd1jfA-QbMBfSg_ --oAFRNvNBQXhYOUJQoLcQRmT_SNxLnLvS5TyULMG6fNip6xdhB44Md3mASORuDYOmFJ39jZvigUi9zfvTPsmMNXFmj8Df0JKtLJmm7lON7mvMqNMMGNC3fMHM8OY2dMHSR2U0HYN9NUci19zNGAJ3L0 IMOUhD4UXCTocRdUJLMxjkJYy7kO-bB1FG2fVVt13J8XLNy2BTZpHzvV-GPK-f8kXVQlUtUUmBfQfnynbtZss2VFxtpDjt0OMJs5Q4XNJix1UToUQ5OjzCHb1zMCfrpPsZ1phDmjo_BvAAMzs Ob8HXp4O&amp;状态=b%27Xa%5Cx8d%5Cx91%5Cx88%5Cxf7%5Cx00%5Cxc4%5Cxa4V%5Cx00%5Cxf0%5Cx18%5Cxb6%5Cx8f%5Cxab%5Cxb1Z%60%5Cxdb4%5Cx01X% 5CxO9%27#_=_ 可以看到，这里可以看到code参数和state参数，但是有没有 hmac 参数。 官方 Shopify 开发文档中没有关于使用 Flask 的文档，但我已经在 Flask 中构建了比这更多的内容，而且我最熟悉与Python，所以我想坚持这一点。   由   提交/u/Natural-Arm2224  /u/Natural-Arm2224 reddit.com/r/webdev/comments/1bw0k10/shopify_flask_app_request_not_sending_hmac/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw0k10/shopify_flask_app_request_not_sending_hmac/</guid>
-      <pubDate>Thu, 04 Apr 2024 22:08:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望存在哪些待办事项列表功能，但大多数常见应用程序似乎都缺少该功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bw0hsd/which_todo_list_feature_do_you_wish_existed_but/</link>
-      <description><![CDATA[您希望在最常见的待办事项列表应用程序中缺少哪些独特功能？ 可能是真正的功能对于您来说，我正在尝试了解不同的需求   由   提交/u/victormachadogp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bw0hsd/which_todo_list_feature_do_you_wish_existed_but/</guid>
-      <pubDate>Thu, 04 Apr 2024 22:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvzjqc/looking_for_opensource_project/</link>
-      <description><![CDATA[大家好，我已经使用 TypeScript（前端和后端）进行开发大约 4 年了，我正在寻找一个相对年轻的人通过开发功能或解决错误来贡献的开源项目。 您有任何项目可以推荐吗？   由   提交/u/sourheart12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvzjqc/looking_for_opensource_project/</guid>
-      <pubDate>Thu, 04 Apr 2024 21:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 HTML 中使插画图像的不同部分可点击</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvyx5f/how_to_make_different_sections_of_an_illustrator/</link>
-      <description><![CDATA[大家好，我正在创作一篇以大彩色玻璃窗为中心的电子文学作品。我希望一旦点击每一块玻璃，就能进入故事的不同页面/部分。彩色玻璃艺术品是在插画中制作的，我想知道如何在我的代码中准确地执行它。每块玻璃都需要是单独的图像吗？   由   提交 /u/sailorscoutnel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvyx5f/how_to_make_different_sections_of_an_illustrator/</guid>
-      <pubDate>Thu, 04 Apr 2024 21:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vercel 正在更新他们的定价，您有什么想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bvyals/vercel_is_updating_their_pricing_thoughts/</link>
-      <description><![CDATA[有关上下文，https://vercel。 com/blog/improved-infrastruct-pricing   由   提交 /u/Nicolello_iiiii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bvyals/vercel_is_updating_their_pricing_thoughts/</guid>
-      <pubDate>Thu, 04 Apr 2024 20:43:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
