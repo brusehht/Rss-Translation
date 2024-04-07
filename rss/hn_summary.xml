@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 06:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 08:43:10 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 在“Designing-data-intense-application-notes.md”中，我深入研究了 cr 的复杂性 [...]</title>
+      <link>https://t.me/hn_summary/83343</link>
+      <description><![CDATA[Designing-data-intense-application-notes.md
+在“设计数据密集应用- Notes.md，”我深入研究了创建可以有效处理大量数据的应用程序的复杂性。从了解不同的数据存储系统到优化数据处理管道，这份综合指南涵盖了所有内容。有争议的是，我挑战了传统的数据管理方法，并提出了可以彻底改变我们处理数据的方式的创新解决方案。该资源包含实际示例和富有洞察力的注释，是寻求设计健壮且可扩展的数据密集型应用程序的开发人员的必读之作。通过这些独特且内容丰富的内容探索新的可能性并提高您的数据处理技能。]]></description>
+      <guid>https://t.me/hn_summary/83343</guid>
+      <pubDate>Sun, 07 Apr 2024 08:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]ElephantSQL宣布将于2025年1月27日关闭服务。</title>
+      <link>https://t.me/hn_summary/83342</link>
+      <description><![CDATA[ElephantSQL 正在关闭
+ElephantSQL 宣布将于 2025 年 1 月 27 日关闭其服务。做出这一决定之际，该公司计划通过 CloudAMQP 专注于 AMQP 协议，他们在该协议上看到了显着的增长和兴趣。现有客户在关闭日期之前可以使用该服务，并且可以在其网站上获取有关关闭过程的全面信息。 ElephantSQL 团队向他们的客户和合作伙伴表示感谢，并向他们保证在过渡期间将继续提供支持。该公司的专业知识现在将致力于推进消息队列和消息流解决方案方面的服务。]]></description>
+      <guid>https://t.me/hn_summary/83342</guid>
+      <pubDate>Sun, 07 Apr 2024 07:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>【媒体】作为GNU M4的原作者，我不得不说M4一直很糟糕。</title>
+      <link>https://t.me/hn_summary/83341</link>
+      <description><![CDATA[M4 总是很糟糕，我作为原作者这么说GNU M4
+作为GNU M4的原作者，我不得不说M4一直很糟糕。尽管存在缺陷，但它已广泛应用于各种项目中。如果您想使用 Mastodon，请确保在 Web 应用程序上启用 JavaScript，或尝试适用于您的平台的本机应用程序之一。无论您喜欢还是讨厌，M4 都已经在编程世界中留下了自己的印记。]]></description>
+      <guid>https://t.me/hn_summary/83341</guid>
+      <pubDate>Sun, 07 Apr 2024 07:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Piku 是一个受 dokku 启发的微型 PaaS，它允许您使用 [...]</title>
+      <link>https://t.me/hn_summary/83340</link>
+      <description><![CDATA[Piku – 适用于任何服务器的微型 PaaS&lt; br/&gt;
+Piku 是一个受 dokku 启发的微型 PaaS，它允许您使用 git Push 将代码部署到您自己的服务器。它支持类似 Heroku 的工作流程，自动确定运行时、安装依赖项并基于 Procfile 启动工作进程。 Piku 稳定且维护积极，计划要求 Python 3.7 或更高版本。您可以使用 Piku 在一台计算机上部署多个应用程序，并可以使用 piku-bootstrap 或 cloud-init 完成安装。 piku 助手简化了多个 piku 遥控器和应用程序的管理，使您可以更轻松地处理项目。]]></description>
+      <guid>https://t.me/hn_summary/83340</guid>
+      <pubDate>Sun, 07 Apr 2024 06:56:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 超过 92,000 个 D-Link NAS 设备被发现有后门帐户，允许 [...]</title>
+      <link>https://t.me/hn_summary/83339</link>
+      <description><![CDATA[超过 92,000 个暴露的 D-Link NAS 设备拥有后门帐户
+超过 92,000 个 D-Link NAS 设备被发现存在后门帐户，允许攻击者在系统上远程执行命令。该漏洞由威胁研究人员“Netsecfish”发现，影响多个报废的 D-Link NAS 型号，并被追踪为 CVE-2024-3273。尽管问题很严重，D-Link 仍表示不再支持这些设备，并建议淘汰它们或用更新的型号替换它们。这些旧设备缺乏自动更新和客户拓展功能，因此很容易受到攻击，这强调了保持硬件最新且不将 NAS 设备暴露在互联网上的重要性。]]></description>
+      <guid>https://t.me/hn_summary/83339</guid>
+      <pubDate>Sun, 07 Apr 2024 06:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] PM2 是 Node.js 应用程序的生产流程管理器，具有内置负载巴拉 [...]</title>
+      <link>https://t.me/hn_summary/83338</link>
+      <description><![CDATA[PM2：具有内置负载均衡器的生产流程管理器
+PM2 是 Node.js 应用程序的生产流程管理器，具有内置负载均衡器，允许应用程序保持活动状态、无需停机即可重新加载，并简化系统管理任务。它支持从 Node.js 12.X 开始的所有 Node.js 版本，并且适用于 Linux、macOS 和 Windows。 PM2 提供的功能包括用于负载平衡和零停机重新加载的集群模式、pm2-runtime 的容器支持、主机监控​​、基于终端的监控、日志管理和启动脚本生成。它可以通过 npm 轻松安装并无缝更新。 PM2+ 提供了额外的监控功能，用于管理跨服务器的应用程序。]]></description>
+      <guid>https://t.me/hn_summary/83338</guid>
+      <pubDate>Sun, 07 Apr 2024 06:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在《转化精神病学》上发表的一项开创性研究中，研究人员发现 [...]</title>
+      <link>https://t.me/hn_summary/83337</link>
+      <description><![CDATA[研究发现，针对蜘蛛恐惧症的暴露疗法可以有益于不相关的恐惧
+在《转化精神病学》上发表的一项开创性研究中，研究人员发现，针对蜘蛛恐惧症的暴露疗法也可以有益于不相关的恐惧，例如恐高症。这种疗法不仅可以减少对其所针对的特定事物的恐惧，还可以通过称为恐惧泛化的过程减少对类似事物的恐惧。该研究对 50 名因害怕蜘蛛而接受暴露疗法的人进行了抽样调查，结果显示，他们不仅对蜘蛛而且对高度的恐惧和回避行为显着减少。这项研究强调了暴露疗法在治疗各种恐惧和焦虑症方面的广泛而有效的影响。]]></description>
+      <guid>https://t.me/hn_summary/83337</guid>
+      <pubDate>Sun, 07 Apr 2024 06:45:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>作者是 GNU 项目的长期贡献者，讨论了 GNU A [...]</title>
+      <link>https://t.me/hn_summary/83336</link>
+      <description><![CDATA[GNU Autotools 面临的优势、劣势、机遇和威胁
+作者是 GNU 项目的长期贡献者，他讨论了 GNU Autotools 面临的挑战，包括贡献者和用户的热情下降。时隔八年之后，最近发布的 Autoconf 2.70 凸显了 Autotools 生态系统中更深层次的问题。虽然 Autotools 具有架构方法和互操作性等优点，但知识过时以及与其他工具缺乏协调等缺点阻碍了其有效性。作者探索了更新的机会，例如对系统编程和交叉编译的兴趣，但也承认来自 CMake 和 Meson 等竞争项目的威胁。 Autotools 的未来取决于解决这些问题并寻找新的贡献者和资金。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83336</guid>
+      <pubDate>Sun, 07 Apr 2024 06:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在这篇开创性的论文中，本杰明·莱姆金 (Benjamin Lemkin) 介绍了一种绕过 fi [...]</title>
+      <link>https://t.me/hn_summary/83335</link>
+      <description><![CDATA[利用幻觉绕过 RLHF 过滤器
+在这篇开创性的论文中，Benjamin Lemkin 介绍了一种绕过 GPT4 等大型语言模型过滤器的新方法。通过诱导涉及反向文本的幻觉，模型恢复到单词桶，有效地暂停其过滤器。这一漏洞挑战了传统的基于人类反馈过程的强化学习，凸显了法学硕士的一个根本漏洞。与之前的越狱不同，这种方法不依赖于指示模型覆盖其策略，这使其成为一种独特且可能存在争议的方法。莱姆金的工作为理解法学硕士在幻觉期间的内部运作开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/83335</guid>
+      <pubDate>Sun, 07 Apr 2024 06:39:12 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]频域是真实的地方吗？</title>
       <link>https://t.me/hn_summary/83334</link>
@@ -12,78 +84,6 @@
 频域是一个令人着迷的数学领域，其中信号被转换为正弦波幅度和相位。但这个域名的真实性如何？离散傅里叶变换 (DFT) 在信号处理中至关重要，但它是否揭示了有关宇宙的更深层次的真相？本文探讨了使用沃尔什矩阵构建一个只有方波是实数的频域。通过操纵阿达玛矩阵，创建“离散方波变换”，将信号解构为纯方波。反函数证实了这种变换，展示了超越传统正弦波的频域独特视角。 （根据 96% 的故事文本进行总结。）]]></description>
       <guid>https://t.me/hn_summary/83334</guid>
       <pubDate>Sun, 07 Apr 2024 06:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在反对 Meta 审查制度的大胆行动中，该文章的作者将目标瞄准了 [...]</title>
-      <link>https://t.me/hn_summary/83333</link>
-      <description><![CDATA[我们可以杀死巨人
-这篇文章的作者采取了有针对性的行动，重新发表了一篇关于 Facebook 广告政策的批评专栏，这是对 Meta 审查制度的大胆举措。这导致其网站的所有链接在 Meta 平台上被屏蔽，引起了媒体的轰动。尽管 Meta 缺乏明确的解释或真诚的道歉，但作者强调了多元化社交媒体平台和独立媒体的重要性。他们强调了 Bluesky 的支持以及作为独立记者的自由。最终，作者相信个人能够对抗科技巨头并做出改变。]]></description>
-      <guid>https://t.me/hn_summary/83333</guid>
-      <pubDate>Sun, 07 Apr 2024 05:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>柯里化是将带有多个参数的函数转换为函数的过程 [...]</title>
-      <link>https://t.me/hn_summary/83332</link>
-      <description><![CDATA[柯里化
-柯里化是将接受多个参数的函数转换为仅接受一个参数并返回另一个函数以获取更多参数的过程。在 Haskell 中，所有函数都被认为是柯里化的，这意味着它们采用一个参数。这可能会让新用户感到困惑，但它允许部分应用。例如，函数 div 11 2 实际上涉及两个步骤：div 11 创建一个新函数，然后将其应用于 2。理解柯里化对于某些 Haskell 技术非常重要。虽然它看起来很复杂，但它提供了一种统一的函数方法并简化了形式证明。]]></description>
-      <guid>https://t.me/hn_summary/83332</guid>
-      <pubDate>Sun, 07 Apr 2024 05:52:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]为了响应欧洲的数字市场法案 (DMA)，Google 不得不对 c [...]</title>
-      <link>https://t.me/hn_summary/83331</link>
-      <description><![CDATA[DMA 上的 Google 博客
-为了响应欧洲的数字市场法案 (DMA)，Google 不得不进行更改以符合新法规。这些变化导致航班、酒店和本地企业的某些 Google 搜索功能被删除，对消费者和企业都产生了影响。中介服务的流量有所增加，而各种企业的参与度却有所下降。酒店、航空公司和当地企业对这些合规性变化的负面影响表示担忧。 Google 强调平衡利益和关注消费者的重要性，强调过于严格的产品授权可能带来的不利后果。]]></description>
-      <guid>https://t.me/hn_summary/83331</guid>
-      <pubDate>Sun, 07 Apr 2024 05:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] ESR 的 Autodafe：“将您的项目从自动工具的束缚中解放出来。</title>
-      <link>https://t.me/hn_summary/83330</link>
-      <description><![CDATA[ESR 的 Autodafe：“将您的项目从自动工具的束缚中解放出来。 “
-厌倦了项目中的自动工具的束缚？ ESR 的 Autodafe 就是您的最佳选择。这种创新工具提供了一种无缝的方式来摆脱自动工具的限制并控制项目的构建过程。告别自动工具的复杂性和挫败感，迎接新水平的自由和灵活性。立即加入运动并通过 ESR 的 Autodafe 解放您的项目。]]></description>
-      <guid>https://t.me/hn_summary/83330</guid>
-      <pubDate>Sun, 07 Apr 2024 05:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者讨论了 rsync 命令备份的使用，强调了它的效率 [...]</title>
-      <link>https://t.me/hn_summary/83329</link>
-      <description><![CDATA[使用 Rsync 进行备份
-作者讨论了 rsync 命令进行备份的使用，强调了其高效且省时的特点。他们强调 rsync 与其他备份选项相比的简单性和有效性，展示了它以最少的数据传输同步目录和文件的能力。作者还分享了他们个人的 rsync 备份命令，包括排除文件、链接到以前的备份以及与远程主机同步的选项。他们强调自动化备份和定期测试恢复过程的重要性。本文提供了利用 rsync 进行高效、可靠备份的实用指南。]]></description>
-      <guid>https://t.me/hn_summary/83329</guid>
-      <pubDate>Sun, 07 Apr 2024 05:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】是什么让房价如此昂贵？</title>
-      <link>https://t.me/hn_summary/83328</link>
-      <description><![CDATA[是什么让住房如此昂贵？
-购买房屋是一项重大的财务承诺，住房成本消耗了许多美国人收入的很大一部分。了解导致住房成本高的因素至关重要。虽然讨论通常集中在分区和土地使用法规上，但房屋的实体建设实际上占成本的最大部分。全国住宅建筑商协会的建筑成本调查显示，建筑材料和劳动力等硬成本构成了大部分支出。软成本，包括设计和管理任务，也发挥着重要作用。令人惊讶的是，土地本身的成本仅占新房总成本的 20% 左右。这项综合分析揭示了住房负担能力的复杂性以及降低建筑成本的挑战。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83328</guid>
-      <pubDate>Sun, 07 Apr 2024 05:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一个公司从你的无知中获利的世界里，事实是你可能过度 [...]</title>
-      <link>https://t.me/hn_summary/83327</link>
-      <description><![CDATA[荣耀仅 11MB/秒
-在一个公司从你的无知中获利的世界里，事实是你可能为云服务支付了过高的费用。尽管声称云解决方案很便宜，但数学表明，为 Business Insider 这样的顶级网站提供服务只需要 11MB/秒的 HTML 数据，使用现代硬件即可轻松实现。对边缘技术的痴迷忽视了数据库查询引起的延迟问题，使得使用 SQLite 和 CDN 的单一服务器设置成为更具成本效益和高效的解决方案。不要相信云炒作 - 简单和高效是数字世界成功的关键。]]></description>
-      <guid>https://t.me/hn_summary/83327</guid>
-      <pubDate>Sun, 07 Apr 2024 05:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>百思买 (Best Buy) 极客小队 (Geek Squad) 的前员工报告称，公司已大规模裁员，其中一些人 [...]</title>
-      <link>https://t.me/hn_summary/83326</link>
-      <description><![CDATA[百思买极客小队员工报告大规模裁员
-百思买极客小队的前员工报告称大规模裁员，其中一些人通过电子邮件收到临时通知，称他们因财务困难而被解雇。被解雇的特工们通过在 Reddit 上发布徽章照片来表达团结，称自己为“休眠小组”。百思买首席执行官此前曾提到可能通过裁员将资源转向人工智能等领域。该公司还寻求在店内做出改变，包括取消物理媒体。由于工资低且晋升机会有限，极客小队特工的工作以人员流动率高而闻名。 Glassdoor 估计 Geek Squad 代理的薪资范围为每小时 16-21 美元。]]></description>
-      <guid>https://t.me/hn_summary/83326</guid>
-      <pubDate>Sun, 07 Apr 2024 05:29:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 据报道，OpenAI 首席执行官 Sam Altman 正在为人工智能驱动的个人项目寻求资金 [...]</title>
-      <link>https://t.me/hn_summary/83325</link>
-      <description><![CDATA[ChatGPT 可能会在 Jony Ive 的帮助下获得自己的专用个人人工智能设备
-据报道，OpenAI 首席执行官 Sam Altman 正在前苹果设计大师 Jony Ive 的帮助下为人工智能驱动的个人设备寻求资金。该设备与智能手机不同，旨在利用 ChatGPT 等人工智能助手来消除对传统应用程序和显示器的需求。有传言称该项目的融资目标为 10 亿美元，而且软银和 Arm 也可能参与其中，因此该项目是一项重大任务。 Ive 在 Apple 产品方面的经验表明了其时尚的设计，而这次合作也暗示了个人人工智能设备的创新和独特方法。请继续关注这一激动人心的开发的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/83325</guid>
-      <pubDate>Sun, 07 Apr 2024 04:47:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
