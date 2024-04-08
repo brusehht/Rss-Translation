@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 15:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 18:16:15 GMT</lastBuildDate>
+    <item>
+      <title>简化威胁搜寻：Shortemall 只需点击一下即可自动进行短 URL 分析！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bz4ldd/streamline_threat_hunting_shortemall_automates/</link>
+      <description><![CDATA[   Short&#39;Em All 是一款深受 CTI 分析师和安全研究人员信赖的 URL 扫描工具。它旨在扫描短 URL 并提供有关潜在安全风险或有用信息的见解。该工具自动执行扫描 URL 的过程，使用户能够专注于分析结果。   由   提交/u/osint_matter  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bz4ldd/streamline_threat_hunting_shortemall_automates/</guid>
+      <pubDate>Mon, 08 Apr 2024 17:58:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Project Mellow：托管预测 API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bz3juu/project_mellow_managed_forecasting_api/</link>
+      <description><![CDATA[ 由   提交/u/CuriousInflation6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bz3juu/project_mellow_managed_forecasting_api/</guid>
+      <pubDate>Mon, 08 Apr 2024 17:16:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些适合初学者的开源 Web 项目想法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bz1nzl/need_some_open_source_web_project_ideas_for/</link>
+      <description><![CDATA[我正在帮助一些人学习 Web 开发。我想给他们一些“真实”的东西构建开源项目。 我想我可以向社区询问社区想要构建的一些东西。 chrome 扩展，或者 npm 模块，或者 React 组件，任何东西。 不一定是新的东西，也可以是更好的东西。 关闭我的脑海中浮现出一个 React 简单的日期选择器组件或颜色选择器组件。它们存在很多，但它们都是复杂的，有很多选项，简单但好的例子并不多。 另一个想法是一个开源网络地图，它显示经常被洪水淹没的城市区域。  如果您有任何想法，请告诉我。 此外，其他 webdev 学生可以使用此帖子回复作为自己作品集的素材。 注意: 这不是一个促销帖子。我并不是在寻找新学员或寻求推广任何东西。他们只是想要一些“真实”的人。工作，特别是开源项目最好从头开始。   由   提交/u/anonperson2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bz1nzl/need_some_open_source_web_project_ideas_for/</guid>
+      <pubDate>Mon, 08 Apr 2024 16:04:25 GMT</pubDate>
+    </item>
     <item>
       <title>错过了 GSOC 截止日期</title>
       <link>https://www.reddit.com/r/opensource/comments/1byvzja/missed_gsoc_deadline/</link>
@@ -48,9 +69,9 @@
       <pubDate>Sun, 07 Apr 2024 19:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>像安德烈斯·弗罗因德（Andres Freund）发现的那样的漏洞为什么不会经常发生呢？</title>
+      <title>像安德烈斯·弗罗因德（Andres Freund）发现的漏洞这样的漏洞为什么不会经常发生呢？</title>
       <link>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</link>
-      <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任并贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
+      <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任，然后贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</guid>
       <pubDate>Sun, 07 Apr 2024 17:51:41 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>开源——接下来的步骤是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</link>
-      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交/u/Accurate-Screen8774   reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</guid>
       <pubDate>Sun, 07 Apr 2024 12:57:17 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/fasaso25  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bxplz2/releasing_a_copy_paste_web_analytics_barlist/</guid>
       <pubDate>Sat, 06 Apr 2024 23:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我决定将 XMind 开源作为替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bx7io0/ive_decided_to_make_xmind_open_source_alternative/</link>
-      <description><![CDATA[https://github.com/ukizet/mindativity 所以，最近我试图找到至少在 Linux 和 Android 上可用的 XMind 开源替代品，但没有找到类似的东西。仅找到 draw.io（电脑、网页）、freemind（电脑）、freeplane（电脑）。所以，我决定自己做。我想听听你的想法，也许你可以推荐一些东西，或者说服我放弃它。   由   提交/u/Ambitious_Ad4397   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bx7io0/ive_decided_to_make_xmind_open_source_alternative/</guid>
-      <pubDate>Sat, 06 Apr 2024 09:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>物理 Github 计数器显示</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</link>
-      <description><![CDATA[我们构建了：https://github.com/ 10play/10tap-editor，我们发现自己真的很着迷于看到人们使用我们的项目，打开问题和 PR 并为我们加注星标，所以我们构建了这个显示： https://x.com/10play_software/status/1776511263217942610您对您的项目房间/办公室中的这种显示感兴趣吗？&lt; /p&gt;   由   提交 /u/GuySerfaty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bx6k6o/a_physical_github_counter_display/</guid>
-      <pubDate>Sat, 06 Apr 2024 08:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xr0：C 编程语言验证器（C 但安全）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bx6feo/xr0_verifier_for_the_c_programming_language_c_but/</link>
-      <description><![CDATA[       由   提交/u/waozen  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bx6feo/xr0_verifier_for_the_c_programming_language_c_but/</guid>
-      <pubDate>Sat, 06 Apr 2024 08:17:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
