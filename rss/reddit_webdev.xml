@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 00:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 03:13:50 GMT</lastBuildDate>
+    <item>
+      <title>未来几年人工智能的急剧发展和就业保障</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bykw14/the_steep_incline_of_ai_in_the_upcoming_years_and/</link>
+      <description><![CDATA[大家好，我只是想听听你们对人工智能和我们所做的事情的一些看法！我读过具有相互冲突的想法和观点的文章（就像大多数事情一样），并且读过从 AI 完全渲染 Web 开发和设计过时到 Web 开发永远不会陷入危险的所有内容。我开始相信，它在未来 10、15 或 20 年内都不会过时，但人类要发挥作用的学习曲线将陡峭强&gt;增加。我背后的逻辑是，随着数据集变得越来越大，人工智能变得越来越好，并且更能够准确地理解我们所要求的内容以及如何解决它的解决方案。作为一个刚刚开始职业生涯的人，我不得不说 - 我非常担心。我希望获得一些见解或看到其他人的不同观点。 ​   由   提交 /u/JubieFN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bykw14/the_steep_incline_of_ai_in_the_upcoming_years_and/</guid>
+      <pubDate>Mon, 08 Apr 2024 01:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何设计一个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bykusb/how_do_you_design_a_website/</link>
+      <description><![CDATA[如何设计网站的外观/感觉？您是否遵循一种方法或流程。 构建网站是一回事，事实上有时将其完全放在代码中似乎更容易，但实际设计是另一回事。   由   提交/u/Various_Ad5600   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bykusb/how_do_you_design_a_website/</guid>
+      <pubDate>Mon, 08 Apr 2024 01:02:45 GMT</pubDate>
+    </item>
     <item>
       <title>开发人员技能的可转移性如何？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bykle9/how_transferable_are_developer_skills/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[      所以我看到了这个https://www.google.com/finance/quote/AAPL:NASDAQ?sa=X&amp;ved=2ahUKEwj2qPnu5a-FAxWBt4QIHSO0AKUQ3ecFegQIdBAX ​ https://preview.redd.it/mn1gjn9u75tc1.png?width=699&amp;format=png&amp;auto=webp&amp;s=42f64ebc256db7ee5d7bff9ec4f614e1a8c04ad3 我正在努力将此处的类似时间序列与其他数据的交互式图表一起使用。我认为 Google API 有这个，但我似乎找不到它。有谁知道我在哪里可以找到它的例子？或者我可以在哪里重现缩放和数据绘图？ ​   由   提交 /u/DisastrousCourage   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1byj12w/help_google_time_series_plot_api/</guid>
       <pubDate>Sun, 07 Apr 2024 23:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>不受欢迎的观点：学习新框架并不会让你成为更好的开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1byird7/unpopular_opinion_learning_a_new_framework_doesnt/</link>
-      <description><![CDATA[在 Vanilla JS/jQuery 中编写勉强过得去的代码的人不会仅仅因为他们采用了 React / Vue / Angular 就神奇地开始在 React / Vue / Angular 中编写优秀的代码关于它的课程。如果说有什么不同的话，那就是这些框架更容易摆脱糟糕的代码模式和设计，因为它们添加了一层关于事物在幕后如何工作的抽象层。许多开发人员（主要是初级开发人员）涌向新的、闪亮的 JS 框架，只是因为它是新的、闪亮的，而不一定是因为它提供了他们项目所需的特定优势。没有什么反对框架，它们使某些工作变得更容易，它们只是工具，每个工具都有特定的用途。有些框架更适合某些项目，具体取决于它们是什么，但坚持使用 React 并仅为静态站点安装所有 NPM 依赖项是完全疯狂的。 如果您甚至不了解基础知识，那么简历上的十几个 JS 框架认证并不会让您成为更好的开发人员。这只是意味着你有能力用 12 种不同的方式编写垃圾代码。 真诚地，有人非常厌倦初级开发人员认为他们很热门，因为他们参加了在线课程现在是“经过认证的反应开发者”。我又收到一封电子邮件，内容是关于如何在 React 中重写整个项目，尽管它不依赖任何状态管理以免丢失。   由   提交 /u/ChiefAoki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1byird7/unpopular_opinion_learning_a_new_framework_doesnt/</guid>
-      <pubDate>Sun, 07 Apr 2024 23:26:17 GMT</pubDate>
     </item>
     <item>
       <title>什么才是一个好的网站？</title>
@@ -57,7 +64,7 @@
     <item>
       <title>你们如何为客户处理域名和 DNS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</link>
-      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新站点，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得自己执行更新的权限。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun    由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
+      <description><![CDATA[我建议所有客户不要使用 GoDaddy。对于具有新域或重建的新网站，您喜欢做什么？ 也就是说，是否有更好的注册商可以提供您喜欢的委托访问权限？到目前为止，选项是：  我购买域名并进行管理，每年向他们收费。不是粉丝，因为我不想成为 IT 的瓶颈，或者如果我发生了什么事。 他们购买域名，可能会感到困惑（或更糟糕的是，他们使用 GoDaddy），然后通过以下方式给我访问权限： OneTimeSecret什么的。缺点是如果我需要更新，他们的帐户会进行 2FA。 他们拥有域，然后我要么给出 DNS 启动说明，要么获得访问权限来自己执行此操作。他们希望我进行的更新仍然很棘手，例如设置 MX+DMARC 或其他记录。  看起来像 namecheap 具有代表访问权限。 Hover 似乎没有，我不知道是否 PorkBun都可以。   由   提交 /u/ChimpsAndDimp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bye7cs/how_do_you_handle_domains_and_dns_for_clients/</guid>
       <pubDate>Sun, 07 Apr 2024 20:18:39 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>我可以雇人来转让我的域名吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1byam7y/can_i_hire_someone_to_transfer_my_domain_name/</link>
-      <description><![CDATA[我通过 Network Solutions 购买域名已有 2 年多了。我终于准备好启动我的 Shopify 网站，并且我想使用我通过 Network Solutions 拥有的域名。这真是一场噩梦！我看了一遍又一遍的 YouTube 教学视频，我所获得的只是网络解决方案太糟糕了！  我想雇人帮我做这件事。我不需要网页设计师，因为我可以自己处理基本的 Shopify 设计和产品列表。我只需要域名转移方面的帮助。 我需要寻找自由 IT 人员吗？有大概的数字说明这要花多少钱吗？我一无所知！  TIA 提供任何反馈和/或建议。    由   提交/u/10canineta  [链接] [评论]]]></description>
+      <description><![CDATA[我通过 Network Solutions 购买域名已有 2 年多了。我终于准备好启动我的 Shopify 网站，并且我想使用我通过 Network Solutions 拥有的域名。这真是一场噩梦！我看了一遍又一遍的 YouTube 教学视频，我所获得的只是网络解决方案太糟糕了！！  我想雇人帮我做这件事。我不需要网页设计师，因为我可以自己处理基本的 Shopify 设计和产品列表。我只需要域名转移方面的帮助。 我需要寻找自由 IT 人员吗？有大概的数字说明这要花多少钱吗？我一无所知！  TIA 提供任何反馈和/或建议。    由   提交/u/10canineta  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1byam7y/can_i_hire_someone_to_transfer_my_domain_name/</guid>
       <pubDate>Sun, 07 Apr 2024 17:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐我：免费（非常便宜）的数据库服务、托管服务和部署平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bya8pu/recommend_me_free_very_cheap_database_service/</link>
-      <description><![CDATA[你好。计划构建一个供个人使用的 Web 应用程序（目前为 Monolith）。 您能给我推荐一个   数据库服务 托管服务  数据库服务 托管服务 li&gt; 服务部署  工具：  Django RDB、SQL（如果可能）    由   提交 /u/Jajajajambo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bya8pu/recommend_me_free_very_cheap_database_service/</guid>
-      <pubDate>Sun, 07 Apr 2024 17:39:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
