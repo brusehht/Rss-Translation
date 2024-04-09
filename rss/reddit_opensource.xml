@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 21:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:50:35 GMT</lastBuildDate>
+    <item>
+      <title>文件传输？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bzbs0k/file_transfer/</link>
+      <description><![CDATA[我经营视频业务，有时必须向客户传输大型视频文件。我宁愿不使用谷歌驱动器并付给他们很多钱。我寻找开源选项并找到了“filegator”。这是一个合法的选择还是我可以使用其他东西？    由   提交/u/polycarpmedia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bzbs0k/file_transfer/</guid>
+      <pubDate>Mon, 08 Apr 2024 22:37:02 GMT</pubDate>
+    </item>
     <item>
       <title>随着人工智能使用量的增长，开源 Apache Airflow 2.9 推进数据编排</title>
       <link>https://www.reddit.com/r/opensource/comments/1bz93zy/open_source_apache_airflow_29_advances_data/</link>
@@ -90,7 +97,7 @@
       <pubDate>Sun, 07 Apr 2024 19:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>像安德烈斯·弗罗因德（Andres Freund）发现的那样的漏洞为什么不会经常发生呢？</title>
+      <title>像安德烈斯·弗罗因德（Andres Freund）发现的漏洞这样的漏洞为什么不会经常发生呢？</title>
       <link>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</link>
       <description><![CDATA[我的印象（也许是错误的）开源软件是一个安全的过程。这个过程似乎是有人可以建议代码更改并最终为大型开源项目做出贡献。 对此有审查流程吗？如何阻止不良行为者在一段时间内获得信任并贡献恶意代码（如 Freund 发现的 SSH）？  我可能错过了该过程的主要部分，但这对于许多人来说似乎太简单了，无法利用。    由   提交/u/tannercub  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1byajec/how_do_vulnerabilities_like_the_one_andres_freund/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[[FOUND] Mautrix 是许多人的选择 https://github.com/mautrix 大家好，有人知道有没有免费的开源软件可以从同一个应用程序发送和接收消息，任何人都使用它？成功了吗？   由   提交/u/Buffalo_Vivid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1by5loc/finding_an_alternate_to_texts_which_send_and/</guid>
       <pubDate>Sun, 07 Apr 2024 14:19:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源——接下来的步骤是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</link>
-      <description><![CDATA[嘿。我是开源新手。我最近开源了一个项目。这是一项不稳定的工作，没有任何值得关注的地方。 我想知道你们如何推广您的开源项目以获得支持？ （无论你如何定义它）。虽然我的应用程序没有很好的文档记录，但存在一些文档，并且当我遇到问题时我愿意改进它。作为一个开源项目，一些开发人员可能可以选择查看代码的工作原理。 我认为开源对于我的应用程序来说是一个很好的第一步。您可以提出什么建议来吸引人们对我的应用程序的关注并帮助增加我的应用程序用户群？   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1by3vbq/open_commerce_what_are_the_next_steps/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1by3vbq/open_sourcing_what_are_the_next_steps/</guid>
-      <pubDate>Sun, 07 Apr 2024 12:57:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
