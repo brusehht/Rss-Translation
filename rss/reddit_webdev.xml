@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 09 Apr 2024 15:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 18:14:39 GMT</lastBuildDate>
     <item>
-      <title>Ryan Weaver 需要我们的帮助（Symfony 博客）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bztztr/ryan_weaver_needs_our_help_symfony_blog/</link>
-      <description><![CDATA[    /u/DoNDaPo   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bztztr/ryan_weaver_needs_our_help_symfony_blog/</guid>
-      <pubDate>Tue, 09 Apr 2024 14:47:23 GMT</pubDate>
+      <title>学习 AWS 等部署教程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzz05c/tutorials_for_learning_deployment_like_aws/</link>
+      <description><![CDATA[嘿，各位， 任何人都可以推荐学习 AWS 等部署内容的好教程吗？ 有哪些具体课程/视频您能在 Udemy、Pluralsight、Youtube 等网站上推荐吗？  谢谢！   由   提交 /u/jtan80813999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzz05c/tutorials_for_learning_deployment_like_aws/</guid>
+      <pubDate>Tue, 09 Apr 2024 18:13:43 GMT</pubDate>
     </item>
     <item>
-      <title>客户说该网站看起来“无聊”且“非常企业化”，但没有具体说明它有什么问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bztq4p/client_says_the_website_looks_boring_and_very/</link>
-      <description><![CDATA[   他给我发了一个线框，我做了线框完全一样，但他现在希望它看起来更像那些网站（更有趣，更少公司和无聊） 这里是示例网站 https://andrejgajdos.com/hire-fractional-cto/ https://www.rossboardman.com/fractional-cto https:// Spectrumapps.com/ https://gexpsoftware.com/ &lt; a href=&quot;https://www.breakneck.dev/mvp&quot;&gt;https://www.breakneck.dev/mvp 我制作的网站（完全根据他的线框图）提供）还请记住，它还没有完成，它仍然需要一个更好的徽标，更好的库存图像（我使用一张图像只是为了对其进行编码并计划稍后替换它）但是是的，它还远没有完成 我只是需要建议，我怎样才能让它看起来更好、更有趣、更少“公司化”？根据这些示例为我的客户提供服务？ ​ https://preview.redd.it/5x93a3h5tgtc1.jpg?width=1700&amp;format=pjpg&amp;auto=webp&amp;s=8adf7ba892cc1b1e5337e3b8 f0f2952c7a33f86e &lt; /div&gt;  由   提交/u/seifeldin02   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bztq4p/client_says_the_website_looks_boring_and_very/</guid>
-      <pubDate>Tue, 09 Apr 2024 14:35:55 GMT</pubDate>
+      <title>担心我的 SaaS 的 Paddle 支付费用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzyuzk/concerned_about_paddle_payout_fees_for_my_saas/</link>
+      <description><![CDATA[我在他们的付款页面上读到过此内容： “Paddle 将尽一切努力避免在您的付款中产生费用。如果付款货币是付款目的地的当地货币，则不收取任何费用。如果情况并非如此，并且付款货币与付款目的地的当地货币不同，则银行转账将产生 15 美元/欧元/英镑的费用。该金额是在创建发票之前扣除的，因此发票金额就是发送的金额。任何后续费用将由您的银行支付，并由您直接承担。 ”链接是 https://www.paddle.com /help/manage/get-paid/is-there-a-fee-taken-for-payouts 我不太明白这一点。假设我在收到付款到我的比利时银行帐户之前已收到 20 笔付款（我住在比利时，我的银行帐户是标准欧元帐户）。我的 SaaS 客户可以来自世界各地。因此，在付款之前发生的 20 笔付款可以来自世界上任何人，无论是美国、加拿大、任何欧盟国家等。我的银行账户与我的 Paddle 账户关联。我如何以及何时为每次付款支付 15 欧元的费用，或者对于使用外币在我的 SaaS 中支付服务费用的每个外国用户，该费用要乘以该费用吗？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzyuzk/concerned_about_paddle_payout_fees_for_my_saas/</guid>
+      <pubDate>Tue, 09 Apr 2024 18:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>如何解决这个问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzt3q8/how_to_fix_this/</link>
-      <description><![CDATA[      当我通过浏览器发出 get 请求时，它运行正常，但是当我尝试使用 javascript 获取响应时出现此错误 请帮助 （url 和响应模糊）  &amp;# 32；由   提交 /u/jiggling-dick    reddit.com/gallery/1bzt3q8&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzt3q8/how_to_fix_this/</guid>
-      <pubDate>Tue, 09 Apr 2024 14:09:11 GMT</pubDate>
+      <title>有人可以向我推荐一个带有免费足球数据套餐的 API 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzyqwt/can_someone_please_recommend_me_a_good_api_with_a/</link>
+      <description><![CDATA[我想开始一个新的个人项目来提高我的后端技能，我的想法是一个简单的 Web 应用程序，呈现最新的联赛排名、赛程、热门分数之类的。它们似乎有很多，而且它们的文档并不总是很好或更新。 谢谢！   由   提交 /u/NilmarHonorato   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzyqwt/can_someone_please_recommend_me_a_good_api_with_a/</guid>
+      <pubDate>Tue, 09 Apr 2024 18:03:17 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，需要帮助！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzsjvs/hello_guys_need_help/</link>
-      <description><![CDATA[       由   提交/u/_grounded_gamer  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzsjvs/hello_guys_need_help/</guid>
-      <pubDate>Tue, 09 Apr 2024 13:44:51 GMT</pubDate>
+      <title>创建了一个基于 Material-UI 的高级 UI 组件存储库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzy0i5/created_an_advanced_ui_components_repo_built_on/</link>
+      <description><![CDATA[嘿伙计们，我已经创建了material-ui-advanced 组件存储库，它是构建在Material-UI 之上的高级UI 组件的集合。在 GitHub 上查看：https://github.com/sai6855/material-ui-advanced  查看演示：https://material-ui-advanced.com/ 目前包含的组件： NestedMenu DebouncedInput OTP 输入 文件上传&lt; /p&gt; 可滑动选项卡 堆叠式 Snackbar 如果您觉得有用，请考虑给它一颗星 ⭐。   由   提交 /u/Turbulent-Line3591    reddit.com/r/webdev/comments/1bzy0i5/created_an_advanced_ui_components_repo_built_on/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzy0i5/created_an_advanced_ui_components_repo_built_on/</guid>
+      <pubDate>Tue, 09 Apr 2024 17:33:42 GMT</pubDate>
     </item>
     <item>
-      <title>旧的很新吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzrw8s/old_is_the_new_cool/</link>
-      <description><![CDATA[Tldr;经过 10 年的网络开发后，我对闪亮的新事物失去了信心，转而喜欢旧的东西。生产技术更简单。想法？ ———— 嗨，书呆子们， 我是一名 31 岁的网络开发人员，拥有 10 年与欧洲小型企业合作的经验，主要是在 JS 生态系统内。 我现在正在为客户提供 Django 应用程序，这对每个人来说都是一次很棒的体验。尽管缺少我在 JS 世界中习惯的花里胡哨的东西，但它感觉更加健壮和连贯。我什至很欣赏过时的 Django Admin 外观，就像有人会欣赏一辆行驶了 100 万英里的旧丰田汽车一样。 在我的职业生涯中，我已经发布了大量 JS 应用程序，现在回头看，大多数工具我使用过的现在要么已弃用，要么完全重新发明，使应用程序充其量只是不稳定。 我真的怀疑 JS 生态系统是否是在我的环境中的最佳选择（自由职业者为团队人手不足的小型企业制作出色的 CRUD 应用程序）。最近我的直觉是它可能不是。 这也适用于其他领域： - 现在，我会选择 Sqlite 而不是 Postgres，除非有充分的理由不这样做。 - 现在，我会选择专用服务器而不是云服务，除非有充分的理由不这样做。 - 天哪，我什至会选择 Wordpress，而不是由 VC 资助的 CMS 即服务或最新的酷库，这些库可能会在某个时候失败。 我很想听听您的意见。你们在同一条船上吗？我只是患有教科书上的 JS 疲劳吗？我越来越懒了吗？更明智吗？什么时候简单对于专业工作来说太简单了？   由   提交 /u/marcpcd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzrw8s/old_is_the_new_cool/</guid>
-      <pubDate>Tue, 09 Apr 2024 13:15:17 GMT</pubDate>
+      <title>需要帮助设置我的 elementor 模板和页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzx6os/need_help_getting_my_elementor_templates_and/</link>
+      <description><![CDATA[大家好！我现在正在为客户工作，希望付费外包初始页面和模板。我有副本，可以自己完成该部分，但在设置模板和使用它们时遇到很多问题。 我有 elementor pro，我正在尝试使用这些模板加快速度。我不能 100% 确定我将模板设置在正确的位置，因为它们不断在我的页面中交叉，或者因“找不到帖子内容”错误而变得无效。 请告诉我不管你怎么想，这对我来说绝对是这个网站的关键时刻，此时我的带宽不是很好，我只需要完成它。 提前非常感谢！我会好好补偿的。    由   提交 /u/Happy_Little_Leaves   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzx6os/need_help_getting_my_elementor_templates_and/</guid>
+      <pubDate>Tue, 09 Apr 2024 16:59:10 GMT</pubDate>
     </item>
     <item>
-      <title>做个调查，您的业务系统使用什么图表库，ECharts、Chart.js、HighCharts 还是 Plotly？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzpvko/do_a_survey_what_chart_library_do_you_use_for/</link>
-      <description><![CDATA[丰富的图表库对业务系统有很大帮助，但有些图表库由于配置繁琐，使用起来不是很方便。 &lt; p&gt;查看民意调查   由   提交/u/Alexads518  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzpvko/do_a_survey_what_chart_library_do_you_use_for/</guid>
-      <pubDate>Tue, 09 Apr 2024 11:34:32 GMT</pubDate>
+      <title>克服项目开始时的瘫痪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzwxvo/overcoming_paralysis_at_the_start_of_a_project/</link>
+      <description><![CDATA[我在一家 Web 开发机构担任全职后端开发人员，参与过数十个项目，所有项目都主要在后端。虽然我经常需要涉足前端并对已经完成的项目进行更改或添加少量内容，但我从未从头开始构建完整的前端。 我很好奇当你当你对项目不太有信心时，就必须开始启动一个项目，就像我和前端一样。 我可以很快构建一个强大的后端系统，但无法让自己开始前端部分。这并不是缺乏 CSS 知识，我的 CSS 和 HTML 相当扎实。我在工作中广泛使用了 Sass 和 Tailwind，同时在需要时进行了一些奇怪的调整。 有没有人有任何他们学到的智慧、工作流程或流程可以帮助我入门?   由   提交 /u/_Benefaction   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzwxvo/overcoming_paralysis_at_the_start_of_a_project/</guid>
+      <pubDate>Tue, 09 Apr 2024 16:49:02 GMT</pubDate>
     </item>
     <item>
-      <title>JS 对象的 Inspector 导出</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzprah/inspector_export_of_js_object/</link>
-      <description><![CDATA[我想从检查器复制 console.log() 的 JS 对象的结构，这样我就可以有一个格式化的文本版本用于文档。 Safari 有复制功能，但它只是纯文本，没有格式。有没有推荐的浏览器来做这种事情？  顺便说一句，我想在执行一些方法并且对象中填充了数据后复制它，因此浏览器似乎是执行此操作的最佳方法。   由   提交/u/Beginning_One_7685   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzprah/inspector_export_of_js_object/</guid>
-      <pubDate>Tue, 09 Apr 2024 11:27:56 GMT</pubDate>
+      <title>花几个小时比较对象存储提供商的定价，节省了 90% 的存储预算</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzwwf8/spend_a_few_hours_comparing_pricing_of_object/</link>
+      <description><![CDATA[      以下是 2TB 存储和 1TB 带宽的美元结果： &lt; p&gt;​ https ://preview.redd.it/93ycvnwofhtc1.png?width=305&amp;format=png&amp;auto=webp&amp;s=b9bc51388537c70ffe98cd386310c8056133da7d 以下是包含电子表格链接的完整文章：&lt; a href=&quot;https://wituz.com/thoughts/841b6c14-b51b-4af7-8990-089bd7471fe0?t=object-storage-providers-pricing-comparison&quot;&gt;https://wituz.com/thoughts/841b6c14-b51b -4af7-8990-089bd7471fe0?t=object-storage-providers-pricing-comparison 本文中有一些有关每个提供商的带宽的说明。 这可以节省 S3 大约 90% 的费用。  差别这么大，真是太疯狂了。   由   提交 /u/Flouuw   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzwwf8/spend_a_few_hours_comparing_pricing_of_object/</guid>
+      <pubDate>Tue, 09 Apr 2024 16:47:19 GMT</pubDate>
     </item>
     <item>
-      <title>收到身份验证错误：</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzod7l/getting_an_authentication_error/</link>
-      <description><![CDATA[      在 Clerk 中，我正在使用 Webhooks，并且所有用户事件都已订阅。消息尝试显示，每当我创建新用户、更新用户名或删除用户时，它都会失败。我在 vercel 上部署了该站点，它在我的中间件文件上显示状态 401。我环顾四周，发现其原因与身份验证有关。 这就是我的 middleware.ts 文件的样子： import { authMiddleware }来自“@clerk/nextjs”；导出默认 authMiddleware({ publicRoutes: [&#39;/&#39;, &#39;/api/webhooks/clerk&#39;] });导出 const config = { 匹配器: [&quot;/((?!.+\\.[\\w]+$|_next).*)&quot;, &quot;/&quot;, &quot;/(api|trpc) (.*)”], };  Vercel 日志中的 401 错误消息： [GET] [middleware: &quot;middleware&quot;] / status=401  我已将其链接到 MangDB，但由于上述问题，集合中没有显示任何内容。 我确保 env 文件中的职员签名密钥和 mangoDB URL 是正确的，并且我做了确保职员正在 ping 正确的端点，但无法弄清楚这里的问题是什么。希望得到一些帮助，谢谢。  店员消息尝试失败 ​   由   提交 /u/Atraukos   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzod7l/getting_an_authentication_error/</guid>
-      <pubDate>Tue, 09 Apr 2024 10:03:49 GMT</pubDate>
+      <title>你是如何“惩罚”你最糟糕的客户的？为什么他/她是最差的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzwb2d/how_did_you_punish_your_worst_client_and_why/</link>
+      <description><![CDATA[我有一位客户没有为我的上一份作品付费（他为我之前的作品付费）或为设计师的作品付费（他提出只付费账单的 20%）。我仍然可以访问他的网站，并且想稍微改变一下。我应该怎么办？或者你会怎么做？   由   提交 /u/88Smiley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzwb2d/how_did_you_punish_your_worst_client_and_why/</guid>
+      <pubDate>Tue, 09 Apr 2024 16:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>自定义 CMS 项目的堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bznbzy/stack_for_a_custom_cms_project/</link>
-      <description><![CDATA[各位开发人员，我目前正在利用业余时间开展一个项目，以温习现有技能并学习一些更现代的开发技术。我从事 PHP 开发已有 7 年了，曾在 2 家公司工作过，这两家公司都使用自己定制的 CMS。 几年前，我开始开发自己的 CMS，但在开发自己的 CMS 时失去了动力。快进到几周前，我想到了这个想法，并开始了一些头脑风暴。我正在考虑自己创业，并开始权衡构建自己的 CMS 与使用预制解决方案的利弊。我决定走上创建自己的道路，一路温习我的 UX/UI 设计技能，并将其视为一个实际的项目。时间不是问题，因为我是在空闲时间做这件事的，并不急于完成它。 我已经完成了设计阶段的大部分时间，并开始考虑什么开发时使用的堆栈。作为一名 PHP 开发人员，我的第一个想法是学习像 Laravel 这样的后端框架，以及 React 或 Vue 等前端框架。我没有使用任何 js 框架的经验，因为我一直编写普通 js。 CMS 将成为一个具有一些不同集成的一体化平台。用户可以创建和管理网站上的所有内容： - 创建和管理页面，包括页面内容生成器 - 创建和管理具有众多选项和属性的产品 - 显示产品的类别和集合页面&lt; br /&gt; - 资产管理器 - CRM，包括订单、客户管理、营销活动等 我计划了更多的功能，因为它是我自己的，所以我可以在我想要的地方扩展和定制它。觉得合适。 我并不是在寻找替代解决方案，因为这是一个充满激情的项目，但如果您正在从事类似的事情，您会在整个项目中使用什么堆栈？ 太长了；作为一个激情项目开始设计和构建电子商务/页面管理器 CMS，您将使用什么堆栈来开发这样的系统   由   提交 /u/TheWooders   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bznbzy/stack_for_a_custom_cms_project/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:51:16 GMT</pubDate>
+      <title>处理用户生成的表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzvmnu/handle_user_generated_tables/</link>
+      <description><![CDATA[嘿。我正在研究一个程序，用户可以在其中生成和管理自己的表格。 他们还可以创建自己的民意调查和类似的内容。 所以。我正在研究如何实现这一点。选项一可能是基于文档的数据库，例如 Mongodb。但是过滤这样的数据不会太有效（可以用索引来处理 - 对它们没有任何经验）而且所有数据都会混合在一个大锅中，而不是相关的。 其他选项是使用关系数据库并动态创建和删除新表。用户表将位于单独的数据库中。 我可以使用像 SurrealDB 这样的无模式数据库来使其更容易一些，并且还为所有用户提供单独的命名空间，并为每个用户提供一个新的数据库。&lt; /p&gt; 我觉得第二个选项会给我带来更高的性能，因为我正在处理任何一个实际的表。而且会更加直观。 这有点非常规，我在网上没有看到太多关于这种方法的信息，我想知道为什么。 我无法想象安全性成为瓶颈。每次写入数据库时​​我都必须检查安全性。它是一行还是另一张表并不重要。 我可以想象，这不符合人们的要求，因为无模式关系数据库本身相当独特 有任何输入吗？   由   提交 /u/Rechtecki42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzvmnu/handle_user_generated_tables/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>Google 新的 AdvancedMarkerElement 和性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzn20g/googles_new_advancedmarkerelement_performance/</link>
-      <description><![CDATA[我最近才开始考虑迁移到新标记。感觉很有希望 - 更容易创建自定义内容，可以使用 CSS 等。初始渲染也很快。 但后来我注意到缺乏任何形式的“优化”。旧的有。它在画布图块上渲染标记。 我只渲染了 250 个 SVG 标记，然后简单地将地图移动到不稳定的位置（使用 4090 和 5800x3d）。 实际上在世界地图上，我可能需要轻松渲染一千个或更多标记。以前的标记甚至可以处理 100k。  现在它是纯 HTML - 我看不到再优化它的方法 - 每个标记都需要自己的 dom 树并且必须进行渲染。  有人最近也开始使用它们或计划使用它们吗？ 这感觉像是 Google 的重大疏忽。    ;由   提交 /u/dustofdeath   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzn20g/googles_new_advancedmarkerelement_performance/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:30:02 GMT</pubDate>
+      <title>Web 应用程序的 Web 托管提供商</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzvcbo/web_hosting_providers_for_web_app/</link>
+      <description><![CDATA[我目前正在开发一个 React Web 应用程序，该应用程序需要 MySQL、邮件服务器和短信。除此之外，它应该只是标准的反应依赖项。我环顾过网络托管提供商，我能找到的所有托管提供商要么贵得离谱，要么不满足我的所有要求。您对此有何建议？我的预算最多为 20 美元/月，但我更喜欢 15 美元/月或更少   由   提交 /u/Ok_Independent_2620   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzvcbo/web_hosting_providers_for_web_app/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建暗模式切换</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzn17h/how_to_create_a_dark_mode_toggle_with_tailwind/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建主题切换[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzn17h/how_to_create_a_dark_mode_toggle_with_tailwind/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:28:20 GMT</pubDate>
+      <title>如何创建登录页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzvbqh/how_do_you_create_a_login_page/</link>
+      <description><![CDATA[所有教程仅展示没有后端的设计，因此无法创建登录页面。我的网站是 https://scabidi.com    由   提交 /u/Mrcool654321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzvbqh/how_do_you_create_a_login_page/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:42:09 GMT</pubDate>
     </item>
     <item>
-      <title>恐怕对于免费网络来说，使用和推荐 Firefox 变得越来越困难</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzmw93/its_getting_hard_to_use_and_recommend_firefox_im/</link>
-      <description><![CDATA[ 由   提交/u/ellnorrisjerry  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzmw93/its_getting_hard_to_use_and_recommend_firefox_im/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:17:43 GMT</pubDate>
+      <title>我自己的 JavaScript 和 HTML 文件被检测为 Trojan:Script/Wacatac.H!ml</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzv5ll/my_own_javascript_and_html_files_detected_as/</link>
+      <description><![CDATA[大家好！ 我正在为我的大学项目制作一个网站，并为其创建了简单的迷你 SPA 框架。直到今天一切都很好。我看到 Microsoft Defender 病毒 &amp;威胁防护已于几个小时前更新，现在它将我的 index.html 和 app.js（我的自定义 SPA 框架）文件检测为特洛伊木马:Script/Wacatac.H!ml 每次我从 GitHub、我的电子学习平台或我上传代码的任何网站下载它时。 这是我的代码： &lt; ul&gt; app.js: JavaScript“app.js” - Pastebin.com index.html: HTML - “index.html” - Pastebin.com  除了我删除了我的评论之外，它是完全相同的，因为我猜它们与这个问题无关。 我知道我可以将这些文件添加到 Microsoft Defender 例外中，但由于我最终需要将这些文件发送给我的教授，我真的不希望他收到有关病毒的可疑 Microsoft Defender 弹出窗口。我能做些什么来防止这种情况发生吗？提前致谢。   由   提交 /u/PoProstuWitold   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzv5ll/my_own_javascript_and_html_files_detected_as/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:34:56 GMT</pubDate>
     </item>
     <item>
-      <title>Strava Webhook 问题，无法验证回调 URL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzmnii/strava_webhook_issue_cant_verify_callback_url/</link>
-      <description><![CDATA[      不太确定为什么它不起作用。运行此： curl --location &#39;https://www.strava.com/ api/v3/push_subscriptions&#39; \ --header &#39;授权：承载 d8b55389ae86be50d28dcc4a642afeba2ef4c3f0&#39; \ --header &#39;内容类型：application/json&#39; \ --data &#39; { &quot;client_id&quot;: &quot;124236&quot;, &quot;client_secret&quot;: &quot;xxxxxxxxxxx&quot;, &quot;callback_url&quot;: &quot;https://webhook.site/f8c1dd6f-3315-404c-a1d4-5f69dadffc27”，“verify_token”：“Strava” ;, &quot;aspect_type&quot;: &quot;create&quot;, &quot;object_type&quot;: &quot;activity&quot; }&#39; 并获取回调域的错误无法验证，根据附图 感觉我一直在密切关注可用文档，但似乎仍然无法修复它。 希望这是非常明显的事情很愚蠢！ webhook 文档：https://developers.strava.com/docs/webhooks/ https://preview .redd.it/k8dhkskkuetc1.png?width=2062&amp;format=png&amp;auto=webp&amp;s=4379a6f7f7a46e9f83a243c0dd7723bc4b9bd1dc   由   提交 /u/Queasy-Performer-309   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzmnii/strava_webhook_issue_cant_verify_callback_url/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:00:23 GMT</pubDate>
+      <title>如何解决这个错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzuvdn/how_to_solve_this_error/</link>
+      <description><![CDATA[      每次我打开我的网站时都会出现这个问题，如果我选择“选择”它显示“403 - 禁止：访问被拒绝。”错误，如果我选择“拒绝”网站加载   由   提交/u/msafari10  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzuvdn/how_to_solve_this_error/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:23:40 GMT</pubDate>
     </item>
     <item>
-      <title>使用 span 标签禁用文本选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzmbz0/disabled_text_selection_using_span_tag/</link>
-      <description><![CDATA[我使用的网站禁用了文本选择。我检查了开发人员工具，每个单词都放在一个跨度内，实际文本作为跨度元素内的数据建议。任何人都有这种技术的经验，是否仍然可以从页面中选择文本。    由   提交/u/deepjeep123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzmbz0/disabled_text_selection_using_span_tag/</guid>
-      <pubDate>Tue, 09 Apr 2024 07:36:43 GMT</pubDate>
+      <title>AudioWorkletProcessor 及其在 Angular 中的用法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzus13/audioworkletprocessor_and_its_usage_in_angular/</link>
+      <description><![CDATA[大家好， 我正在尝试找到用 Angular 编写自己的音频处理器的方法，但我似乎没有找到任何我可以使用那里的资源来获得提示。有人有我可以使用的资源吗？ 最后，我想将工作集中的数据发送到 Web Worker 进行处理，然后返回 UI 线程。 &lt; p&gt;不幸的是，我在任何与音频相关的方面都很弱。   由   提交 /u/esibangi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzus13/audioworkletprocessor_and_its_usage_in_angular/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Safari 会向我的 Apple Touch 图标添加内边距？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzm1dv/why_safari_adds_padding_to_my_apple_touch_icon/</link>
-      <description><![CDATA[   我已为此网站正确配置了苹果触摸图标： https://newsletter.page/apple-touch-icon.png 这是也在网页的 HTML 中定义。 但是 Safari（在 MacOS 上测试）不断在图标周围添加填充！这是奇怪的结果： 图标显示在 Safari 上 正如您所看到的，左侧的图标（我的图标）周围有一些白色填充，而右侧的图标则用其背景覆盖了所有空间。 我该如何解决这个问题？    由   提交 /u/collimarco   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzm1dv/why_safari_adds_padding_to_my_apple_touch_icon/</guid>
-      <pubDate>Tue, 09 Apr 2024 07:16:03 GMT</pubDate>
+      <title>Campfire 中的现代 CSS 模式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bz4mtk/modern_css_patterns_in_campfire/</link>
+      <description><![CDATA[       由   提交/u/ApatheticBeardo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bz4mtk/modern_css_patterns_in_campfire/</guid>
+      <pubDate>Mon, 08 Apr 2024 17:59:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
