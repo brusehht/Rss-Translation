@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 09:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 14:40:24 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在 writefreesoftware.org，我们的目标是教育个人并让他们参与自由软件 [...]</title>
-      <link>https://t.me/hn_summary/83832</link>
-      <description><![CDATA[讨论自由软件的新社区空间
-在writefreesoftware.org，我们的目标是教育个人并让他们参与自由软件运动。我们深入的内容以易于理解的方式解释了自由软件的原理和实践，欢迎新成员并加深对现有成员的理解。加入我们的论坛 discourse.writefreesoftware.org 参与讨论、提出问题并与支持社区建立联系。我们优先考虑包容性和安全性，并制定行为准则以确保相互尊重的互动。我们的目标是建立一个多元化且富有同情心的社区，赋予所有人权力，促进自由软件运动的团结和力量。加入我们，成为这一重要对话的一部分！]]></description>
-      <guid>https://t.me/hn_summary/83832</guid>
-      <pubDate>Wed, 10 Apr 2024 09:04:42 GMT</pubDate>
+      <title>[媒体]Twitter 最近转向自动将提及“twitter.com”的链接重定向到“x.[...]</title>
+      <link>https://t.me/hn_summary/83875</link>
+      <description><![CDATA[Twitter 笨拙地转向 X.com 是送给网络钓鱼者的礼物
+Twitter 最近将提及“twitter.com”的链接自动重定向到“x.com”无意中为网络钓鱼者打开了创建病毒的大门令人信服的网络钓鱼链接。已经注册了数十个新域名，例如 fedetwitter.com在推文中显示为 fedex.com。虽然某些域名是防御性注册的，但其他域名则重定向到博客或不包含有用的联系信息。 Twitter/X 的疏忽引起了用户的嘲笑和惊讶，一位讲师将其总结为一个滑稽的错误。不良行为者从合法网站或品牌转移流量的可能性是一个重大问题，凸显了围绕这一笨拙转向的争议。]]></description>
+      <guid>https://t.me/hn_summary/83875</guid>
+      <pubDate>Wed, 10 Apr 2024 14:40:24 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇有关 Verified Curl 的文章中，作者强调了验证整数的重要性 [...]</title>
-      <link>https://t.me/hn_summary/83831</link>
-      <description><![CDATA[已验证的 Curl
-在这篇有关Verified Curl的文章中，作者强调了验证curl包的完整性以防止潜在安全威胁的重要性。作者讨论了确保代码不存在恶意后门的各种方法，包括检查二进制 blob、禁用的模糊器以及 tarball 中的隐藏有效负载。本文还重点介绍了可复制 tarball、签名 tarball 和提交的使用，以及接受匿名贡献者的贡献。作者承认curl过去存在漏洞，但坚称在代码中植入后门极其困难。]]></description>
-      <guid>https://t.me/hn_summary/83831</guid>
-      <pubDate>Wed, 10 Apr 2024 08:26:59 GMT</pubDate>
+      <title>[媒体] WebAssembly 采用：缓慢而稳定地赢得比赛吗？</title>
+      <link>https://t.me/hn_summary/83874</link>
+      <description><![CDATA[WebAssembly 采用：缓慢而稳定地赢得比赛吗？
+WebAssembly 的采用进展缓慢，尽管已经存在了七年，但许多人仍在等待开始使用它。生态系统的碎片化既被视为挑战也是力量。成功包括其在企业应用程序和插件系统中的使用。无服务器领域仍然面临挑战，团队需要重新工具和重新技能。 WebAssembly 的未来在于 WASI 和组件模型，Go 和 Zig 等新语言正在迎头赶上。关键可能在于管理期望，因为 WebAssembly 的真正价值可能并不总是在表面上可见。]]></description>
+      <guid>https://t.me/hn_summary/83874</guid>
+      <pubDate>Wed, 10 Apr 2024 14:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项突破性的在线隐私提案，即《美国隐私权法案》(APRA)，已 [...]</title>
-      <link>https://t.me/hn_summary/83830</link>
-      <description><![CDATA[突破性在线隐私提案提交国会
-一项突破性的在线隐私提案——《美国隐私权法案》(APRA) 已在国会提出，旨在限制公司可以收集的消费者数据类型，并让用户对其个人信息有更多控制权。两党提案将允许用户选择退出定向广告，并能够从在线服务查看、更正、删除和下载其数据。该立法还包括国家数据经纪人登记册和更强有力的执法措施的规定。虽然一些立法者表示支持该草案，但 APRA 是否会获得必要的批准还有待观察。]]></description>
-      <guid>https://t.me/hn_summary/83830</guid>
-      <pubDate>Wed, 10 Apr 2024 07:47:16 GMT</pubDate>
+      <title>[媒体] Solidigm D5-P5336 61.44TB NVMe SSD 是一款高容量存储选项，可提供 [...]</title>
+      <link>https://t.me/hn_summary/83873</link>
+      <description><![CDATA[Solidigm 61.44TB SSD
+Solidigm D5-P5336 61.44TB NVMe SSD 是一款高容量存储选项，在 2.5 英寸外形尺寸中提供可靠性和密度。虽然它可能不是市场上最快的 SSD，但它旨在将大容量工作负载过渡到SSD取代HDD。采用QLC NAND技术，它提供了令人印象深刻的容量和耐用性，非常适合视频和图像存储等应用。该驱动器可能不是随机写入最快的，但其顺序读取速度仍然令人印象深刻。总体而言， Solidigm SSD 为需要大容量存储的用户提供了独特的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/83873</guid>
+      <pubDate>Wed, 10 Apr 2024 14:25:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]DjVu 是一种专为扫描文档设计的计算机文件格式，提供高质量的 [...]</title>
-      <link>https://t.me/hn_summary/83829</link>
-      <description><![CDATA[DjVu - PDF 替代品
-DjVu 是一种专为扫描文档而设计的计算机文件格式，可在最小的空间内提供高质量的图像。它的文件大小比 PDF 更小，因此在数字图书馆和在线分发中很受欢迎。 DjVu 由 AT&amp;T 实验室的一个团队开发，自 2002 年以来一直作为开源格式维护。虽然 PDF 和 DjVu 在文档分发领域相互竞争，但 DjVu 将图像编码为像素图的独特方法使其与众不同。尽管过去面临来自 PDF 查看器的挑战，DjVu 仍然是高效创建和共享高分辨率文档的宝贵工具。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83829</guid>
-      <pubDate>Wed, 10 Apr 2024 07:40:40 GMT</pubDate>
+      <title>[媒体]如果您经常在 shell/终端中工作，您的历史记录可以成为 p [...]</title>
+      <link>https://t.me/hn_summary/83872</link>
+      <description><![CDATA[Shell 历史记录是您最好的生产力工具
+如果您经常在 shell/终端中工作，您的历史记录可以成为提高生产力的宝贵工具。通过优化 shell 历史记录配置，您可以存储无限量的命令、忽略混乱、添加时间戳并启用模糊搜索以实现高效搜索。 CTRL+R 和箭头键等按键绑定可以增强您的历史搜索体验。对于跨工作站同步，可使用history-sync 或 atuin.sh 等插件可以使用。通过这些技巧和配置，您的 shell 历史记录可以成为个人知识库，从而提高您在 shell 中的效率。查看提供的要点中的完整配置。]]></description>
+      <guid>https://t.me/hn_summary/83872</guid>
+      <pubDate>Wed, 10 Apr 2024 14:17:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我很高兴与大家分享，我的 macOS FFmpeg 包装器 CompressX 已经产生了 9000 美元 [...]</title>
-      <link>https://t.me/hn_summary/83828</link>
-      <description><![CDATA[Show HN：我的 macOS FFmpeg 包装器 CompressX 赚了 9000 美元过去 4 个月
-我很高兴与大家分享，我的 macOS FFmpeg 包装器 CompressX 在过去 4 个月内创造了 9000 美元的收入。该工具旨在简化视频压缩任务并提高用户的工作效率。借助 CompressX，您只需点击几下即可轻松压缩和优化视频。该工具的成功凸显了市场对高效视频处理解决方案的需求。立即尝试 CompressX，体验生产力的提升！]]></description>
-      <guid>https://t.me/hn_summary/83828</guid>
-      <pubDate>Wed, 10 Apr 2024 07:36:06 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，作者讲述了他们为 World of [...] 创建插件的经历</title>
+      <link>https://t.me/hn_summary/83871</link>
+      <description><![CDATA[我从未修复过的最大错误（2010）&lt; br/&gt;
+在这篇博文中，作者讲述了他们为《魔兽世界》创建一个名为 FriendNet 的插件的经历，该插件帮助玩家在游戏中找到值得信赖的人一起玩。由于游戏对网络通信的限制，该插件面临挑战，导致难以重现的错误。作者回忆起一个特别难以捉摸的错误，该错误导致插件的 GUI 出现故障，最终追溯到玩家在游戏中喝醉并发送了损坏的数据。尽管从未修复该错误，但作者在回顾这段经历时既感到有趣又怀念。这篇文章强调了开发在线游戏插件的创造力和挑战。]]></description>
+      <guid>https://t.me/hn_summary/83871</guid>
+      <pubDate>Wed, 10 Apr 2024 14:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 查看这款利用 Web MIDI 技术的创新乐谱训练应用程序。</title>
-      <link>https://t.me/hn_summary/83827</link>
-      <description><![CDATA[展示 HN：使用 Web MIDI 的乐谱训练应用 
-查看这款利用 Web MIDI 技术的创新乐谱训练应用程序。该应用程序涵盖了广泛的音阶和模式，从大调到洛克里安，到贝博普到西班牙吉普赛，为各个级别的音乐家提供全面的学习体验。借助 Prometheus、Overtone 和 Enigmatic Major 等独特的音阶，用户可以探索新的声音并扩展他们的音乐知识。对于任何希望以有趣和互动的方式增强对音乐理论的理解并提高技能的人来说，这个应用程序是必备的。尝试一下 midi-note-trainer.teemukoivisto .xyz。 （根据 86% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83827</guid>
-      <pubDate>Wed, 10 Apr 2024 07:32:33 GMT</pubDate>
+      <title>[媒体]KTH皇家理工学院和斯德哥尔摩大学的研究人员发现[...]</title>
+      <link>https://t.me/hn_summary/83870</link>
+      <description><![CDATA[更好的生物传感器只需要一点廉价塑料&lt; br/&gt;
+KTH 皇家理工学院和斯德哥尔摩大学的研究人员发现，通过将有机半导体与聚苯乙烯（一种常见且廉价的塑料）混合，他们可以在仅使用一小部分有机材料的情况下提高半导体的电气性能。这一突破不仅使设备更具可持续性，还增强了其耐用性。令人惊讶的是，用绝缘体稀释半导体材料的电气性能比未稀释的半导体好三倍。这一发现为研究人员探索不同材料并提高有机生物电子性能开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/83870</guid>
+      <pubDate>Wed, 10 Apr 2024 14:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 耗资数百万美元的洛杉矶</title>
-      <link>https://t.me/hn_summary/83826</link>
-      <description><![CDATA[价值数百万美元的洛杉矶抢劫案无缝、复杂、隐蔽
-洛杉矶发生的价值数百万美元的抢劫案让执法官员感到困惑并寻找答案。窃贼以西尔马 (Sylmar) 的 Gardaworld 大楼为目标，从现金库中盗走了估计 20-3000 万美元。窃贼的行动非常复杂，从屋顶进入，然后离开却无影无踪。专家认为，抢劫案背后的人员可能掌握了有关该设施的内部情报。被盗资金可能难以追查，但可以通过接触 DNA 找到线索。邻居报告说，在抢劫过程中听到了奇怪的声音，但强盗们成功地完成了盗窃。]]></description>
-      <guid>https://t.me/hn_summary/83826</guid>
-      <pubDate>Wed, 10 Apr 2024 07:01:50 GMT</pubDate>
+      <title>[媒体]LLMWhisperer 是一项突破性技术，可简化 c [...]</title>
+      <link>https://t.me/hn_summary/83869</link>
+      <description><![CDATA[显示 HN：LLMWhisperer – 准备可在 LLM 中使用的复杂文档&lt; /a&gt;
+LLMWhisperer 是一项突破性技术，可简化准备用于大型语言模型 (LLM) 的复杂文档的过程。通过从具有不同格式、编码和复杂表格的杂乱文档中提取数据，LLMWhisperer 可确保法学硕士收到高质量的输入以获得可靠的结果。这一创新工具彻底改变了向法学硕士呈现数据的方式，优化了他们的理解并提高了他们的产出。告别混乱的文档，迎接 LLMWhisperer 的简化效率。访问 llmwhisperer.unstract.com 体验文档的未来准备工作。]]></description>
+      <guid>https://t.me/hn_summary/83869</guid>
+      <pubDate>Wed, 10 Apr 2024 14:02:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项调查中，我们深入研究了生成模型的红队世界，探索 [...]</title>
-      <link>https://t.me/hn_summary/83825</link>
-      <description><![CDATA[生成模型红队调查
-在本次调查中，我们深入研究了生成模型的红队世界，探索用于评估这些模型的稳健性和安全性的各种技术和策略。从对抗性攻击到模型反转，我们揭示了与生成模型相关的漏洞和潜在风险。通过了解弱点，我们可以更好地防范潜在威胁并确保这些模型在各种应用中的可靠性。这项调查为不断发展的生成模型领域以及红队在确保其安全性和有效性方面的重要性提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/83825</guid>
-      <pubDate>Wed, 10 Apr 2024 06:49:44 GMT</pubDate>
+      <title>[媒体]Avi Wigderson 荣获著名的 2023 ACM A.M.</title>
+      <link>https://t.me/hn_summary/83868</link>
+      <description><![CDATA[2023 年 ACM 图灵奖授予 Avi Wigderson
+Avi Wigderson 荣获著名的 2023 ACM A.M.图灵奖表彰他对理论计算机科学的开创性贡献，特别是在重塑我们对计算随机性的理解方面。他的工作彻底改变了该领域，表明随机性对于高效计算并不是必需的。威格德森的研究对计算机科学的各个领域（从密码学到​​网络设计）产生了深远的影响。此外，他的指导激励了无数年轻研究人员追求理论计算机科学的职业生涯。 Wigderson 获得图灵奖巩固了他作为该领域领先知识力量的地位。]]></description>
+      <guid>https://t.me/hn_summary/83868</guid>
+      <pubDate>Wed, 10 Apr 2024 14:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Steam 上的“游戏化焦点工具”Spirit City: Lofi Sessions 可让您创建自己 [...]</title>
-      <link>https://t.me/hn_summary/83824</link>
-      <description><![CDATA[“游戏化焦点工具”让你构建lofi伙伴来放松/学习与
-Steam 上的“游戏化焦点工具”Spirit City: Lofi Sessions 允许您创建自己的 Lofi 伙伴，在时髦的单间公寓中一起放松/学习。自定义您的角色，装饰您的空间，并享受内置的洛菲音乐播放列表和声音效果，如下雨和壁炉。该游戏还设有番茄计时器和待办事项列表，让您保持在正轨上。独特之处在于幻想生物研究伙伴莱尼，当你升级时，他可以被其他可爱的生物取代。虽然它可能不适合每个人的工作流程，但 Spirit City 是一个巧妙的想法，可以捕捉完美的放松/学习氛围。]]></description>
-      <guid>https://t.me/hn_summary/83824</guid>
-      <pubDate>Wed, 10 Apr 2024 06:48:39 GMT</pubDate>
+      <title>【媒体】摩根大通首席执行官杰米戴蒙对美国发出严厉警告</title>
+      <link>https://t.me/hn_summary/83867</link>
+      <description><![CDATA[杰米·戴蒙 (Jamie Dimon) 警告 8% 的利率将伴随经济衰退
+摩根大通首席执行官杰米·戴蒙(Jamie Dimon)对美国经济发出严厉警告，预计利率可能攀升至8%，经济衰退可能即将来临。戴蒙表达了对“滞胀”可能性的担忧，并列举了可能导致物价居高不下的各种通胀压力。这一警告违背了降息的共识，可能对投资者产生重大影响。尽管戴蒙的信息带有危言耸听的语气，但他也强调了人工智能对社会的积极影响。关注摩根大通第一季度财务业绩，进一步洞察经济格局。]]></description>
+      <guid>https://t.me/hn_summary/83867</guid>
+      <pubDate>Wed, 10 Apr 2024 13:53:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]关于一架 F-16 战斗机在受限区域内与一架无人机相撞的新细节已经浮出水面。</title>
-      <link>https://t.me/hn_summary/83823</link>
-      <description><![CDATA[F-16 无人机在亚利桑那州禁空区相撞的新细节&lt; /a&gt;
-关于一架 F-16 战斗机在亚利桑那州限制空域与一架无人机相撞的新细节浮出水面，这是该地区一系列未经授权的无人机目击事件的一部分。碰撞发生在 1,745 英尺的高度，飞机没有损坏。一些无人机被发现在 20,000 英尺的高度，超出了消费者的能力，这导致专家推测它们可能是由寻求美国空中力量情报的外国政府操作的。这些入侵背后的幕后黑手仍然是个谜，据报道，美国南部边境附近每月有超过 1,000 起无人机入侵事件。围绕这些事件的争议和阴谋只会加深。]]></description>
-      <guid>https://t.me/hn_summary/83823</guid>
-      <pubDate>Wed, 10 Apr 2024 06:35:02 GMT</pubDate>
+      <title>一本重要的化学期刊从网络上消失了。</title>
+      <link>https://t.me/hn_summary/83866</link>
+      <description><![CDATA[一本重要的化学期刊从网络上消失了。其他人也面临风险
+乔纳森·古德曼 (Jonathan Goodman) 发现流行的化学期刊《杂环》(Heterocycles) 已从网络上消失，导致其所有内容无法访问。这种情况并不罕见，一项研究发现，如果停止出版，许多学术文章就有丢失的风险。马丁·保罗·伊夫强调，出版商有责任以数字格式保存资料，而这一职责以前是由图书馆员承担的。古德曼当地的图书馆支付了 Heterocycles 的订阅费，发现该期刊的内容被安全地保存在像 CLOCKSS 这样的档案中。 Alicia Wise 确认 CLOCKSS 拥有杂环的完整记录，确保其未来的可用性。]]></description>
+      <guid>https://t.me/hn_summary/83866</guid>
+      <pubDate>Wed, 10 Apr 2024 13:40:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
