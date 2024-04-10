@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 09 Apr 2024 18:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:50:13 GMT</lastBuildDate>
+    <item>
+      <title>PDF 的替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c06mgt/alternative_to_pdf/</link>
+      <description><![CDATA[嘿！ PDF 格式是否有任何替代方案，支持大多数功能（固定大小页面、矢量图形等），但在嵌入类似于 ActionScript 的内容时又不会显得臃肿？我正在考虑开发一些其他的东西。   由   提交/u/henke443  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c06mgt/alternative_to_pdf/</guid>
+      <pubDate>Tue, 09 Apr 2024 23:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个好的工具可以用于测试代码覆盖率？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c05pqx/is_there_a_good_tool_out_there_for_code_coverage/</link>
+      <description><![CDATA[具体来说，我正在寻找能够进行线路覆盖的东西   由   提交 /u/bigboybamo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c05pqx/is_there_a_good_tool_out_there_for_code_coverage/</guid>
+      <pubDate>Tue, 09 Apr 2024 22:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c057gv/is_it_possible/</link>
+      <description><![CDATA[你好，我。欧普有一个梦想。 （男，22） 好吧，现在我将（尝试）解释我的终身目标 我的梦想很简单，我想创建帮助盲人开发人员的软件（是的，我们存在，不，我上周刚刚在 JS 中创建了我的第一个 hello world）。所以我决定，为什么不开源呢？这意味着 PC 上使用的主要屏幕阅读器之一是开源的  是的，仅靠我一个人还无法做出那么大的改变。我应该如何进行？我实际上已经计划了 10 多个以盲人社区为最终用户目标的软件。我是否太天真了，没有尝试让像我这样的人的生活变得更轻松一点的“梦想”？    由   提交 /u/LeBlindGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c057gv/is_it_possible/</guid>
+      <pubDate>Tue, 09 Apr 2024 22:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Golang 和 Tqla 进行动态 SQL 模板化</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c02cce/dynamic_sql_templating_with_golang_and_tqla/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/Apart_Lobster000   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c02cce/dynamic_sql_templating_with_golang_and_tqla/</guid>
+      <pubDate>Tue, 09 Apr 2024 20:29:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币开发者补偿计划导致 npm 垃圾邮件大幅增加</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c00xf1/large_increase_in_npm_spam_driven_by/</link>
+      <description><![CDATA[   /u/louis11  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c00xf1/large_increase_in_npm_spam_driven_by/</guid>
+      <pubDate>Tue, 09 Apr 2024 19:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>prs - 通过命令行在 Github PR 上保持更新的 TUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bzzjz5/prs_a_tui_to_stay_updated_on_github_prs_from_the/</link>
+      <description><![CDATA[       由   提交/u/hingle0mcringleberry  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bzzjz5/prs_a_tui_to_stay_updated_on_github_prs_from_the/</guid>
+      <pubDate>Tue, 09 Apr 2024 18:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴向大家介绍 Gestalt 一个 Java 配置项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bzz1sf/i_am_excited_to_introduce_gestalt_a_java/</link>
+      <description><![CDATA[🚀 我很高兴介绍格式塔 https:// github.com/gestalt-config/gestalt，一个新的开源 Kotlin/Java 配置库！ Gestalt 通过支持来自不同来源的多种配置类型，简化了软件项目的配置管理。无论您使用的是 Java bean、列表、集合还是原始数据类型，Gestalt 基于数据类型的自动解码都可以使该过程无缝进行。借助 Gestalt，您可以轻松合并来自不同来源的配置、导航配置中的特定小节，并享受灵活性和可配置性。 Gestalt 的设计考虑到了简单性、可靠性和可扩展性，对于任何 Java 开发人员的工具箱来说都是一个有价值的补充。立即探索格式塔并简化您的配置管理工作流程！ 我已经在这个项目上工作了几年，并在生产中的几个项目中使用它。尽管有很多很棒的配置工具，但我创建这个工具既是为了一项有趣的挑战，也是为了满足我的项目需求。随着时间的推移，我添加了很多功能来充实该项目。该项目的目标是提供模块化厨房水槽方法。其中核心项目有 0 个依赖项，但可以通过包含 15 个模块之一轻松扩展，这些模块可以在  找到https://central.sonatype.com/namespace/com.github.gestalt-config。 我即将发布 1.0 版本，因此我希望在最终承诺之前获得反馈1.0。谢谢！   由   提交/u/cred1652  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bzz1sf/i_am_excited_to_introduce_gestalt_a_java/</guid>
+      <pubDate>Tue, 09 Apr 2024 18:15:31 GMT</pubDate>
+    </item>
     <item>
       <title>Next.js 中 Shopify 商店的高性能店面 - 完全免费</title>
       <link>https://www.reddit.com/r/opensource/comments/1bzudsn/performant_storefront_for_shopify_stores_in/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我经营视频业务，有时必须向客户传输大型视频文件。我宁愿不使用谷歌驱动器并付给他们很多钱。我寻找开源选项并找到了“filegator”。这是一个合法的选择还是我可以使用其他东西？    由   提交/u/polycarpmedia  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bzbs0k/file_transfer/</guid>
       <pubDate>Mon, 08 Apr 2024 22:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着人工智能使用量的增长，开源 Apache Airflow 2.9 推进数据编排</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bz93zy/open_source_apache_airflow_29_advances_data/</link>
-      <description><![CDATA[ 由   提交 /u/CrankyBear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bz93zy/open_source_apache_airflow_29_advances_data/</guid>
-      <pubDate>Mon, 08 Apr 2024 20:53:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果 RISC V 是开源的，那么高通如何通过 RISC V 赚钱呢？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bz7ryk/how_does_qualcomm_make_money_off_risc_v_if_its/</link>
-      <description><![CDATA[ 由   提交 /u/Swimming_Asparagus53   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bz7ryk/how_does_qualcomm_make_money_off_risc_v_if_its/</guid>
-      <pubDate>Mon, 08 Apr 2024 20:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 sourceforge.net 下载存储库或文件夹？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bz5e9x/how_to_download_repo_or_folder_from_sourceforgenet/</link>
-      <description><![CDATA[sourceforge.net    由   提交 /u/RedditNoobie777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bz5e9x/how_to_download_repo_or_folder_from_sourceforgenet/</guid>
-      <pubDate>Mon, 08 Apr 2024 18:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化威胁搜寻：Shortemall 只需点击一下即可自动进行短 URL 分析！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bz4ldd/streamline_threat_hunting_shortemall_automates/</link>
-      <description><![CDATA[   Short&#39;Em All 是一款深受 CTI 分析师和安全研究人员信赖的 URL 扫描工具。它旨在扫描短 URL 并提供有关潜在安全风险或有用信息的见解。该工具自动执行扫描 URL 的过程，使用户能够专注于分析结果。   由   提交/u/osint_matter  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bz4ldd/streamline_threat_hunting_shortemall_automates/</guid>
-      <pubDate>Mon, 08 Apr 2024 17:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Mellow：托管预测 API</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bz3juu/project_mellow_managed_forecasting_api/</link>
-      <description><![CDATA[ 由   提交/u/CuriousInflation6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bz3juu/project_mellow_managed_forecasting_api/</guid>
-      <pubDate>Mon, 08 Apr 2024 17:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些适合初学者的开源 Web 项目想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bz1nzl/need_some_open_source_web_project_ideas_for/</link>
-      <description><![CDATA[我正在帮助一些人学习 Web 开发。我想给他们一些“真实”的东西构建开源项目。 我想我可以向社区询问社区想要构建的一些东西。 chrome 扩展，或者 npm 模块，或者 React 组件，任何东西。 不一定是新的东西，也可以是更好的东西。 关闭我的脑海中浮现出一个 React 简单的日期选择器组件或颜色选择器组件。它们存在很多，但它们都是复杂的，有很多选项，简单但好的例子并不多。 另一个想法是一个开源网络地图，它显示经常被洪水淹没的城市区域。  如果您有任何想法，请告诉我。 此外，其他 webdev 学生可以使用此帖子回复作为自己作品集的素材。 注意: 这不是一个促销帖子。我并不是在寻找新学员或寻求推广任何东西。他们只是想要一些“真实”的东西的人。工作，特别是开源项目最好从头开始。   由   提交/u/anonperson2021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bz1nzl/need_some_open_source_web_project_ideas_for/</guid>
-      <pubDate>Mon, 08 Apr 2024 16:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>错过了 GSOC 截止日期</title>
-      <link>https://www.reddit.com/r/opensource/comments/1byvzja/missed_gsoc_deadline/</link>
-      <description><![CDATA[今天看到这张海报，我真的会用头撞墙来从事 SU2 CFD 项目 我该怎么办做   由   提交 /u/Dofosz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1byvzja/missed_gsoc_deadline/</guid>
-      <pubDate>Mon, 08 Apr 2024 11:56:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
