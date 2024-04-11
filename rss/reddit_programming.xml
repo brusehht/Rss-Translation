@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 11 Apr 2024 06:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:12:50 GMT</lastBuildDate>
     <item>
-      <title>Google Sheets 的单元格数量限制为 500 万个，但为什么开源电子表格 - Univer Sheets 可以支持 1000 万个单元格甚至更多。有谁知道技术细节吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1c17vtw/google_sheets_has_a_limit_of_5_million_cells_but/</link>
-      <description><![CDATA[ 由   提交/u/Alexads518  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c17vtw/google_sheets_has_a_limit_of_5_million_cells_but/</guid>
-      <pubDate>Thu, 11 Apr 2024 06:11:52 GMT</pubDate>
+      <title>如何构建一个机器人来告诉我 DOM 元素何时可用？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c1aii2/how_can_i_build_a_bot_that_tells_me_when_a_dom/</link>
+      <description><![CDATA[基本上，我想要一个通知，可以是电子邮件或任何告诉我表格中是否有可用类别的通知，以便我可以预约我的硕士课程VISA。   由   提交 /u/Shoddy-Mushroom-872   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c1aii2/how_can_i_build_a_bot_that_tells_me_when_a_dom/</guid>
+      <pubDate>Thu, 11 Apr 2024 09:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>自营很棒</title>
+      <link>https://www.reddit.com/r/programming/comments/1c1ahms/selfhosted_is_awesome/</link>
+      <description><![CDATA[ 由   提交/u/superjet1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c1ahms/selfhosted_is_awesome/</guid>
+      <pubDate>Thu, 11 Apr 2024 09:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 创建登录/注册表单</title>
+      <link>https://www.reddit.com/r/programming/comments/1c19wfr/how_to_create_a_loginregister_form_with_tailwind/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c19wfr/how_to_create_a_loginregister_form_with_tailwind/</guid>
+      <pubDate>Thu, 11 Apr 2024 08:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElephantSQL：生命周期终止公告</title>
+      <link>https://www.reddit.com/r/programming/comments/1c19w83/elephantsql_end_of_life_announcement/</link>
+      <description><![CDATA[ 由   提交 /u/LifelessPhoenix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c19w83/elephantsql_end_of_life_announcement/</guid>
+      <pubDate>Thu, 11 Apr 2024 08:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否为送货过程中遇到的问题所困扰？用“钢丝”解决它们。</title>
+      <link>https://www.reddit.com/r/programming/comments/1c192o4/plagued_with_problems_getting_to_delivery_solve/</link>
+      <description><![CDATA[将架构上完整的功能投入生产、控制缺陷并在几次冲刺中证明您的概念到生产流程的 5 条原则。 大家好，我最近推出了客户关注工程，我终于有时间在这里分享一两篇文章了！希望您喜欢它，请告诉我您的想法！   由   提交/u/__zaphod  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c192o4/plagued_with_problems_getting_to_delivery_solve/</guid>
+      <pubDate>Thu, 11 Apr 2024 07:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，我需要一些帮助来尝试弄清楚如何手动更改我的电脑上的程序上的某些数据库后端。它是一个旧的Windows程序，但我找不到任何关于它的文档（它用于在油漆分配机中混合油漆）。有人知道有什么资源可供我研究吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c18dxu/hi_i_need_some_help_trying_to_figure_out_how_to/</link>
+      <description><![CDATA[ 由   提交/u/lolbanter79b   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c18dxu/hi_i_need_some_help_trying_to_figure_out_how_to/</guid>
+      <pubDate>Thu, 11 Apr 2024 06:43:17 GMT</pubDate>
     </item>
     <item>
       <title>Aichat v0.16.0：支持新型号gpt-4-turbo、gemini-1.5-pro-latest和command-r-plus</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/thecreazy  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c0x7un/become_a_better_engineer_step_2_connect_the_dots/</guid>
       <pubDate>Wed, 10 Apr 2024 21:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>“优雅地”实施优雅关闭</title>
-      <link>https://www.reddit.com/r/programming/comments/1c0w6kp/gracefully_implementing_graceful_shutdowns/</link>
-      <description><![CDATA[ 由   提交/u/Jainal09  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c0w6kp/gracefully_implementing_graceful_shutdowns/</guid>
-      <pubDate>Wed, 10 Apr 2024 20:49:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本编辑器 Sam，作者 Rob Pike</title>
-      <link>https://www.reddit.com/r/programming/comments/1c0t55b/the_text_editor_sam_by_rob_pike/</link>
-      <description><![CDATA[ 由   提交 /u/Alexander_Selkirk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c0t55b/the_text_editor_sam_by_rob_pike/</guid>
-      <pubDate>Wed, 10 Apr 2024 18:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>YETI 是一种在 JVM 上运行的 ML 风格函数式编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1c0pfsd/yeti_is_an_ml_style_functional_programming/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c0pfsd/yeti_is_an_ml_style_functional_programming/</guid>
-      <pubDate>Wed, 10 Apr 2024 16:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>分隔延续，揭秘</title>
-      <link>https://www.reddit.com/r/programming/comments/1c0pfjg/delimited_continuations_demystified/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c0pfjg/delimited_continuations_demystified/</guid>
-      <pubDate>Wed, 10 Apr 2024 16:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>现实世界中执法机构违反端到端加密消息传递的行为</title>
-      <link>https://www.reddit.com/r/programming/comments/1c0per2/a_realworld_lawenforcement_breach_of_endtoend/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c0per2/a_realworld_lawenforcement_breach_of_endtoend/</guid>
-      <pubDate>Wed, 10 Apr 2024 16:13:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

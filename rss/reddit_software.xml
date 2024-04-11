@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 06:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:12:45 GMT</lastBuildDate>
+    <item>
+      <title>寻找与我的任务栏时钟相关的非常具体的功能</title>
+      <link>https://www.reddit.com/r/software/comments/1c184q4/looking_for_a_very_specific_function_relating_to/</link>
+      <description><![CDATA[我一直在寻找一个应用程序，可以让我自定义任务栏中的时钟（在 Windows 10 上），以便它以特定时间之间的特定颜色，以帮助我自己的时间管理。 例如，我会将其设置为上午 7 点到晚上 10 点之间为绿色时间，这意味着我可以保持清醒并做任何事情我需要做的事情 晚上 11 点到凌晨 12 点是黄色时间，这意味着我应该很快就睡觉，但不着急。 凌晨 1 点到凌晨 2 点是橙色时间，这意味着我现在应该睡觉了如果可能的话。凌晨 3 点到 4 点是红色时间，这意味着我现在肯定应该睡觉。我在红色时间所做的任何不上床睡觉的事情都会占用我应该已经上床睡觉的时间。凌晨 5 点至 6 点是黑色时间，这意味着如果我没有上床睡觉已经睡着了，我已经搞砸了，或者我是出于某种未知的原因故意这样做的。如果幸运的话，我永远不会看到 Black Time。 我已经尝试了 2 个没有此功能的程序（T-Clock 和 ElevenClock），我希望这里有人会知道一个程序有这个特定的功能供我使用。    由   提交/u/masquite  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c184q4/looking_for_a_very_specific_function_relating_to/</guid>
+      <pubDate>Thu, 11 Apr 2024 06:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有软件可以记住窗口位置吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1c182cp/software_to_remember_window_positions/</link>
+      <description><![CDATA[我运行 Windows 10，并连接了 3 个显示器和一台电视。 我有一个名为 DesktopOK 的软件，它可以记住我桌面上的所有内容，因为有时打开/关闭显示器时图标会移动 是否有类似的软件可以记住打开的窗口的位置，这样我就不必每次都重新排列它们打开和关闭我的显示器？    由   提交 /u/IdealIdeas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1c182cp/software_to_remember_window_positions/</guid>
+      <pubDate>Thu, 11 Apr 2024 06:23:16 GMT</pubDate>
+    </item>
     <item>
       <title>日本招聘</title>
       <link>https://www.reddit.com/r/software/comments/1c17nmk/japan_hiring/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[这是作业的一部分，但似乎最困难的部分 - 实际上让程序可用并运行 - 留给我们来解决。  我首先在 Windows 10 上设置 WSL，但无法按照我找到的有关 Peridigm 安装的教程进行操作 (https://usermanual.wiki/Document/PeridigmInstallationGuide.160361722/html#pf1f），很大程度上是因为这是我第一次使用 WSL，只是使用虚拟机而不是干净的复杂性Ubuntu。 我也看过这个页面https ://johnfoster.pge.utexas.edu/blog/posts/peridigm-without-building-via-Docker/ 关于在 Docker 中运行它，我基本上成功了。除了实际运行该软件之外，因为我不知道在哪里可以找到本指南建议使用的 .perdigm 文件。我们的老师提供了一些 .f90 文件，这些文件看起来确实像 Peridigm 中的实验设置，但我不知道从哪里开始使用它们。  任何帮助表示赞赏。现在我陷入了 zypper 上的 WSL（步骤 3.2.3），我不知道如何通过它安装 GCC 编译器。   由   提交 /u/HowStrangeThatImHere   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1c0msd5/i_need_help_installing_or_otherwise_running/</guid>
       <pubDate>Wed, 10 Apr 2024 14:21:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我看到很多人在问，但似乎无法相信，有人知道一个安全的 YouTube 到 mp3 网站吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1c0lukj/i_see_loads_of_people_asking_but_cant_seem_to/</link>
-      <description><![CDATA[ 由   提交 /u/StrangeViolinist1836   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c0lukj/i_see_loads_of_people_asking_but_cant_seem_to/</guid>
-      <pubDate>Wed, 10 Apr 2024 13:40:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简单的防火墙，可以让我快速阻止除特定程序之外的所有内容</title>
-      <link>https://www.reddit.com/r/software/comments/1c0lpp4/a_simple_firewall_that_will_let_me_to_quickly/</link>
-      <description><![CDATA[最好免费但不一定..   由   提交/u/dokha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1c0lpp4/a_simple_firewall_that_will_let_me_to_quickly/</guid>
-      <pubDate>Wed, 10 Apr 2024 13:33:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
