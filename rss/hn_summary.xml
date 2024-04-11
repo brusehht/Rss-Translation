@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 08:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:19:11 GMT</lastBuildDate>
     <item>
-      <title>在美国视光学会 2021 年会议上，研究人员提出了继续 [...]</title>
-      <link>https://t.me/hn_summary/83996</link>
-      <description><![CDATA[持续滚动社交媒体会对眼球运动产生负面影响
-在 2021 年美国视光学会会议上，研究人员提出了持续滚动社交媒体会对眼球运动产生负面影响的发现。一项涉及 12 名参与者的研究表明，在社交媒体平台上滚动 15 分钟后，垂直扫视峰值速度会降低，扫视不准确性会增加。当参与者在近期任务之前进行有氧运动时，这种影响会进一步加剧。这项研究揭示了滚动社交媒体信息引起的动眼疲劳和肌肉骨骼疲劳之间的潜在联系。该研究强调了持续滚动社交媒体对眼球运动的有害影响。]]></description>
-      <guid>https://t.me/hn_summary/83996</guid>
-      <pubDate>Thu, 11 Apr 2024 08:17:24 GMT</pubDate>
+      <title>[媒体] 厌倦了正则表达式的编写？</title>
+      <link>https://t.me/hn_summary/84009</link>
+      <description><![CDATA[显示 HN：Rgx.tools – 使用 GPT 从文本生成正则表达式&lt; /a&gt;
+厌倦了编写正则表达式吗？ Rgx.tools 就是您的最佳选择！这个创新工具使用人工智能根据您的输入生成干净、可读且高效的正则表达式。只需描述您需要提取的内容即可让奇迹发生。告别手动编写正则表达式的痛苦，让人工智能为您处理。使用 Rgx.tools，正则表达式从未如此简单。立即在 rgx.tools 上查看。&lt; br /&gt;]]></description>
+      <guid>https://t.me/hn_summary/84009</guid>
+      <pubDate>Thu, 11 Apr 2024 12:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，我在德国生活期间很难学会德语，所以我创建了 Wunderbar [...]</title>
-      <link>https://t.me/hn_summary/83995</link>
-      <description><![CDATA[展示 HN：Wunderbar，在 Mac 上工作的同时学习语言
-大家好，我在德国生活期间学习德语一直很困难，因此我创建了 Wunderbar，这是一款可以在 Mac 的菜单栏上显示德语单词及其含义的应用程序。这样，您就可以在工作的同时学习新单词，而无需专门留出时间。该应用程序使用间隔重复算法来帮助您记住单词，并且我根据流行需求添加了其他语言，例如西班牙语、法语、荷兰语、瑞典语、日语和意大利语。您可以花费 3.99 美元下载该应用程序，无需订阅。看看吧，让我知道你的想法！]]></description>
-      <guid>https://t.me/hn_summary/83995</guid>
-      <pubDate>Thu, 11 Apr 2024 07:31:08 GMT</pubDate>
+      <title>[媒体] 在这个关于 Go 中 I/O 基础知识的网页内容中，作者深入研究了各种 f [...]</title>
+      <link>https://t.me/hn_summary/84008</link>
+      <description><![CDATA[Go 中 I/O 基础
+在这篇关于 Go 中 I/O 基础知识的网页内容中，作者深入研究了处理输入和输出操作的各种函数和方法。它们涵盖了 io.Reader 和 io.Writer 等概念，演示了如何限制从数据源读取的字节数、将多个数据源合并为一个以及使用 io.MultiReader 和 io.MultiWriter 等函数。作者还探讨了 TeeReader 的行为，类似于 Linux 中的 tee 命令，并讨论了使用 io.Pipe 将需要 io.Reader 的代码与需要 io.Writer 的代码连接起来。内容包括代码示例和解释，重点介绍这些 I/O 函数在 Go 编程中的实际应用。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84008</guid>
+      <pubDate>Thu, 11 Apr 2024 12:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我问了 100 名开发者，他们的发货速度并没有更快。</title>
-      <link>https://t.me/hn_summary/83994</link>
-      <description><![CDATA[我问了 100 名开发者，他们的发货速度并没有更快。这是我学到的东西
-在 greptile.com，作者深入探讨了开发速度的主题采访了来自 Amazon、Google 和 Meta 等顶级公司的 100 名软件工程师。工程师们分享了他们对阻碍他们更快地交付代码的因素的见解，其中出现了常见的主题，例如代码库复杂性、缓慢的部署/构建时间以及过多的会议。令人惊讶的是，许多工程师认为等待公关审查是一个主要瓶颈。作者强调了开发人员在驾驭微服务架构、理解系统交互和处理不明确的需求方面面临的挑战。总体而言，本文阐明了影响开发速度的各种因素，并为工程领导者提供了宝贵的见解。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83994</guid>
-      <pubDate>Thu, 11 Apr 2024 07:27:05 GMT</pubDate>
+      <title>[媒体]由于可持续农业计划的延误，英国农民在脱欧后陷入困境[...]</title>
+      <link>https://t.me/hn_summary/84007</link>
+      <description><![CDATA[英国农民希望获得基本收入来应对脱欧后的困境
+由于可持续农业计划的延迟和农业预算的支出不足，英国脱欧后的英国农民陷入困境。在英格兰，低订阅率让许多农民陷入困境，而在威尔士，针对预留土地用于自然和植树的计划爆发了抗议活动。现在，农民呼吁实行全民基本收入，以确保财务安全并能够试验自然友好型耕作方法。 BI4Farmers 活动团体已聚集了 100 多名支持者，倡导者强调 UBI 在支持农场工人和增强农业部门恢复力方面的潜力。由于农民面临不确定性和成本上升，这一有争议的提议正在获得关注。]]></description>
+      <guid>https://t.me/hn_summary/84007</guid>
+      <pubDate>Thu, 11 Apr 2024 12:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如果继承这么糟糕，为什么每个人都使用它？</title>
-      <link>https://t.me/hn_summary/83993</link>
-      <description><![CDATA[如果继承这么糟糕，为什么每个人都使用它？
-在这篇发人深省的文章中，作者深入探讨了编程中继承这一有争议的话题，质疑为什么它尽管有缺陷但仍被如此广泛地使用。通过研究继承的历史，从 SIMULA-67 中的起源到它对现代面向对象语言的影响，作者强调了这种编程概念的挑战和局限性。令人惊讶的是，作者将 Eiffel 介绍为继承问题的潜在解决方案，展示了其独特的功能，例如代码契约。最终，作者鼓励读者考虑继承的替代方法，并反思编程语言设计的演变。]]></description>
-      <guid>https://t.me/hn_summary/83993</guid>
-      <pubDate>Thu, 11 Apr 2024 07:23:00 GMT</pubDate>
+      <title>19 世纪初，苏格兰出现了挑战传统的自由思想团体的崛起 [...]</title>
+      <link>https://t.me/hn_summary/84006</link>
+      <description><![CDATA[有责任心的不信者
+19世纪初，苏格兰自由思想团体兴起，挑战传统基督教信仰，引发了一场关于言论自由的斗争。在托马斯·芬利等人的领导下，这些“有良心的异教徒”面临着亵渎法的迫害。他们来自不同的背景，与大卫·休谟等以前的知识精英不同。自由思想家通过报纸、社团和书店组织起来，创造了一种社区意识和知识交流。尽管面临法律挑战，他们最终成功改变了公众舆论并结束了苏格兰的亵渎审判，与英格兰正在进行的起诉相比，这是一个重大转变。 （根据 54% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84006</guid>
+      <pubDate>Thu, 11 Apr 2024 12:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>Untergunther 是一支由秘密遗产修复者组成的法国团队，渗透进了万神殿 [...]</title>
-      <link>https://t.me/hn_summary/83992</link>
-      <description><![CDATA[Untergunther – 万神殿时钟的修复
-2005 年，法国秘密遗产修复小组 Untergunther 潜入巴黎万神殿，修复废弃的瓦格纳时钟。尽管万神殿管理员伯纳德·让诺 (Bernard Jeannot) 最初热情高涨，但后来他决定对修复工作保密，因为担心这会暴露法国国家遗产管理部门效率低下。 Untergunther 继续他们的工作，甚至将时钟与圣诞节的钟声连接起来。 2007 年，他们面临法律指控，但最终被释放，新的万神殿管理员承认了他们的修复质量。围绕这一地下修复项目的争议和阴谋引起了国际社会的关注。]]></description>
-      <guid>https://t.me/hn_summary/83992</guid>
-      <pubDate>Thu, 11 Apr 2024 07:18:57 GMT</pubDate>
+      <title>[媒体] Fern 是一家 YC 支持的初创公司，正在寻找一名前端工程师加入他们的小团队 [...]</title>
+      <link>https://t.me/hn_summary/84005</link>
+      <description><![CDATA[Fern (YC W23) 正在布鲁克林招聘一名前端工程师，纽约
+Fern 是一家由 YC 支持的初创公司，正在寻找一名前端工程师加入他们位于纽约布鲁克林的小团队。他们正在寻找具有强大 JavaScript 基础和 Next.js、React 和 TypeScript 背景、经验丰富的人才。该角色涉及开发新的面向用户的功能、与设计师合作完善 UI 系统、管理前端基础设施以及与客户建立关系。公司提供有竞争力的薪资、股权、福利和生活邻近奖金。 Fern 的技术堆栈包括 NextJS、Vercel、Express、FastAPI、Postgres DB 和 AWS。他们的目标是通过为 REST API 提供“条带级”SDK 和文档来简化 API 开发。 Fern 成立于 2022 年，专注于开源和客户满意度。]]></description>
+      <guid>https://t.me/hn_summary/84005</guid>
+      <pubDate>Thu, 11 Apr 2024 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了卷对卷（R2R）制造的钙钛矿溶胶的发展[...]</title>
-      <link>https://t.me/hn_summary/83991</link>
-      <description><![CDATA[在室温条件下卷对卷制造的钙钛矿太阳能电池&lt; /a&gt;
-本文讨论了在室温条件下卷对卷 (R2R) 制造的钙钛矿太阳能电池 (PeSC) 的开发。印刷友好的顺序沉积 (PFSD) 技术的引入使得能够制造出功率转换效率 (PCE) 高达 17.9% 的高质量钙钛矿薄膜。 PFSD 技术的一项重大创新是浅角吹制技术，它提高了薄膜质量和可靠性。本文还重点介绍了自动化、常温和无真空器件制造工艺的发展，从而可以快速测试和优化 PeSC 的沉积参数。此外，还引入了使用 P3HT 和 HTAB 的新型空穴传输层系统，以提高 R2R 制造的电池的性能。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83991</guid>
-      <pubDate>Thu, 11 Apr 2024 07:08:51 GMT</pubDate>
+      <title>[媒体]iXsystems，最古老的 BSD 系统供应商，正在将其重点从 FreeBSD 转向 Lin [...]</title>
+      <link>https://t.me/hn_summary/84004</link>
+      <description><![CDATA[TrueNAS CORE 13 是 FreeBSD 版本的终结 
+iXsystems 是最古老的 BSD 系统供应商，通过推出 TrueNAS SCALE（一款针对 Kubernetes 用户的基于 Debian 的产品），将其重点从 FreeBSD 转向 Linux。此举标志着基于 FreeBSD 的产品 TrueNAS CORE 13 的终结。尽管 TrueNAS SCALE 取得了成功，但人们对 TrueNAS CORE 的未来及其延迟更新感到担忧。 iXsystems 源于 Berkeley Software Design, Inc.，其历史很复杂，涉及合并、收购和产品停产。优先考虑 Linux 而非 FreeBSD 的决定引发了人们对公司发展方向以及对用户潜在影响的质疑。]]></description>
+      <guid>https://t.me/hn_summary/84004</guid>
+      <pubDate>Thu, 11 Apr 2024 11:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在马特·威廉姆斯和团队最近的一项研究中，研究人员研究了人们的信念如何[...]</title>
-      <link>https://t.me/hn_summary/83990</link>
-      <description><![CDATA[阴谋论信念的改变很少见，但有可能&lt; br/&gt;
-在马特·威廉姆斯和团队最近的一项研究中，研究人员研究了人们对阴谋论的信念如何随着时间的推移而演变。这项研究于 2021 年 3 月至 9 月 Covid-19 大流行期间进行，发现总体而言，参与者对阴谋论的信念几乎没有变化。令人惊讶的是，相信 SARS-CoV-2 是中国制造的生物武器的人数略有增加。然而，这种增加是微不足道的，并且根据现有理论很难解释。该研究还强调需要对不同样本进行更多研究，因为保守派参与者表现出更高水平的阴谋信念。总体而言，研究结果表明，即使在社会受到威胁的时期，人们对阴谋论的信念也相对稳定。]]></description>
-      <guid>https://t.me/hn_summary/83990</guid>
-      <pubDate>Thu, 11 Apr 2024 07:02:45 GMT</pubDate>
+      <title>[媒体]Cascade 是一个开源 SaaS 模板，旨在提供一种简约的方法 [...]</title>
+      <link>https://t.me/hn_summary/84003</link>
+      <description><![CDATA[显示 HN：Cascade – 付费 SaaS 样板的开源替代方案&lt; /a&gt;
+Cascade 是一个开源 SaaS 模板，旨在提供一种简约的技术选择方法，让用户从一开始就专注于编写业务逻辑。该项目的独特之处在于提供了简化的设置过程，唯一的要求是 .env 文件中的环境变量正确。 Cascade 利用各种开源和自托管工具，以及具有慷慨免费计划的 SaaS 选项，来支持身份验证、用户分析、错误跟踪等功能。作者赞扬了对 Cascade 的发展有启发和贡献的各种个人和项目。]]></description>
+      <guid>https://t.me/hn_summary/84003</guid>
+      <pubDate>Thu, 11 Apr 2024 11:32:41 GMT</pubDate>
     </item>
     <item>
-      <title>DNSViz 是一款尖端工具，提供了一种独特的方式来可视化 DNS 区域的状态。</title>
-      <link>https://t.me/hn_summary/83989</link>
-      <description><![CDATA[DNSViz：DNS可视化工具
-DNSViz 是一款尖端工具，提供了一种独特的方式来可视化 DNS 区域的状态。它专为那些希望了解 DNS 安全扩展 (DNSSEC) 部署并对其进行故障排除的人员量身定制。通过提供 DNSSEC 身份验证链和域名解析路径的可视化分析，DNSViz 可以帮助用户识别可能影响其 DNS 设置的配置错误。对于任何希望确保其 DNS 基础设施安全性和可靠性的人来说，此工具都是必备工具。尝试一下，让我们知道您的想法！]]></description>
-      <guid>https://t.me/hn_summary/83989</guid>
-      <pubDate>Thu, 11 Apr 2024 06:36:35 GMT</pubDate>
+      <title>[媒体]苹果已向 92 个国家的 iPhone 用户发出威胁通知，警告他们 [...]</title>
+      <link>https://t.me/hn_summary/84002</link>
+      <description><![CDATA[Apple 在新警告中提醒 92 个国家/地区的用户注意雇佣兵攻击
+Apple 已向 92 个国家/地区的 iPhone 用户发出威胁通知，警告他们潜在的雇佣间谍软件攻击。该公司向这些国家的个人发出警报，敦促他们认真对待这一警告，因为他们可能会因为他们的身份或所做的事情而成为专门的目标。在此之前，印度曾发生过针对记者和政界人士的间谍软件攻击事件。苹果的高可信度警报基于内部威胁情报和调查，强调这些复杂攻击的严重性。这些警报的发布时间恰逢许多国家正在筹备选举，突显了国家资助的影响选举结果的持续威胁。]]></description>
+      <guid>https://t.me/hn_summary/84002</guid>
+      <pubDate>Thu, 11 Apr 2024 11:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]海军正面临现金流问题，阻碍了其扩大舰队的能力。</title>
-      <link>https://t.me/hn_summary/83988</link>
-      <description><![CDATA[海军需要解决现金流问题以扩大舰队&lt; /a&gt;
-海军面临现金流问题，阻碍了其扩大舰队的能力。明年的预算要求包括造船预算停滞、潜艇建造减少以及19艘舰艇退役。海军造船的延误导致舰队规模比计划更严重地缩减，弗吉尼亚级潜艇的采购大幅减少。如今缺乏坚固的建筑也影响了下一代项目的研究经费。国会有机会通过一项国家安全补充法案来解决这些问题，为潜艇工业基地提供急需的资金并恢复潜艇的生产节奏。]]></description>
-      <guid>https://t.me/hn_summary/83988</guid>
-      <pubDate>Thu, 11 Apr 2024 06:32:31 GMT</pubDate>
+      <title>[媒体] Avi Wigderson，Advanc 研究所的计算科学家和数学家 [...]</title>
+      <link>https://t.me/hn_summary/84001</link>
+      <description><![CDATA[计算机科学家因随机性方面的开创性工作荣获图灵奖 
+普林斯顿高等研究院的计算科学家和数学家 Avi Wigderson 荣获 2023 年 A.M.图灵奖表彰他在计算随机性方面的开创性工作。这项享有盛誉的奖项以及 Google 颁发的 100 万美元奖金，旨在表彰 Wigderson 对计算理论的基础性贡献。他的研究重塑了我们对计算中随机性作用的理解，并对理论计算机科学产生了深远的影响。 Wigderson 在随机性方面的工作带来了算法效率的显着进步，并为包括密码学和凸优化在内的各个领域的新发展铺平了道路。]]></description>
+      <guid>https://t.me/hn_summary/84001</guid>
+      <pubDate>Thu, 11 Apr 2024 11:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>KOReader 是一款专为 E Ink 设备设计的多功能文档查看器，支持 [...]</title>
-      <link>https://t.me/hn_summary/83987</link>
-      <description><![CDATA[适用于 E Ink 设备的 KOReader 文档查看器
-KOReader 是一款专为 E Ink 设备设计的多功能文档查看器，支持多种文件格式，包括 EPUB、PDF 和 MOBI。 KOReader 的与众不同之处在于它与各种设备的兼容性，例如 Kindle、Kobo、PocketBook、Android 和桌面 Linux。凭借其用户友好的界面和广泛的文件格式支持，KOReader 是任何想要增强 E Ink 设备阅读体验的人的必备工具。]]></description>
-      <guid>https://t.me/hn_summary/83987</guid>
-      <pubDate>Thu, 11 Apr 2024 06:15:23 GMT</pubDate>
+      <title>[媒体] ChaosPixels 是一个协作网站建设实验，用户可以在其中提交拉取请求 [...]</title>
+      <link>https://t.me/hn_summary/84000</link>
+      <description><![CDATA[展示 HN：ChaosPixels：协作网站建设实验&lt; br /&gt;
+ChaosPixels 是一个协作网站构建实验，用户可以提交拉取请求来修改网站的源代码，并每天合并和部署投票最高的 PR。用户可以通过购买提升来提高投票权。该项目旨在探索简单规则的不可预测结果，并有可能在线赚钱。作者强调保持积极的氛围，禁止在公关中发布非法、色情或赌博相关内容。该项目的与众不同之处在于专注于网站创建中的混乱和不可预测性。我们鼓励用户加入混乱，共同为构建一些很酷的东西做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/84000</guid>
+      <pubDate>Thu, 11 Apr 2024 10:55:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
