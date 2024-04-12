@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 15:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:11:58 GMT</lastBuildDate>
     <item>
-      <title>有用的认证吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2aow2/useful_certification/</link>
-      <description><![CDATA[加州大学伯克利分校高管教育“机器学习和人工智能专业证书”是有用的知识体系吗？它涵盖： 模块1：机器学习简介模块2：机器学习基础模块3：数据分析简介模块4：数据分析基础模块5：实际应用模块6：聚类和原理成分分析 模块 7：线性和多元回归 模块 8：特征工程和过拟合 模块 9：模型选择和正则化 模块 10：时间序列分析和预测 模块 11：实际应用 II 模块 12：分类和 k 最近邻 模块 13：逻辑回归模块 14：决策树 模块 15：梯度下降和优化 模块 16：支持向量机 模块 17：实际应用 III 模块 18：自然语言处理 模块 19：推荐系统 模块 20：Capstone I 模块 21：集成技术（GBM、XGB）和随机森林）模块 22：深度神经网络 I 模块 23：深度神经网络 II 模块 24：Capstone II   由   提交/u/comesatime1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2aow2/useful_certification/</guid>
-      <pubDate>Fri, 12 Apr 2024 14:33:38 GMT</pubDate>
+      <title>Claude 3 Haiku JSON 格式</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2fk6w/claude_3_haiku_json_formatting/</link>
+      <description><![CDATA[有人成功从 Haiku 获取 JSON 响应吗？ 我的问题是当字符串时 JSON 响应不起作用-value 包含撇号或双引号。 我提示它在字符串中使用双引号的文字（有效），但随后它开始转义撇号，这会破坏输出。我告诉它不要对撇号这样做，但它似乎无法辨别差异。 还有其他人遇到这个问题吗？   由   提交/u/MGeeeeeezy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2fk6w/claude_3_haiku_json_formatting/</guid>
+      <pubDate>Fri, 12 Apr 2024 17:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能安全</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2equu/ai_security/</link>
+      <description><![CDATA[我想知道每个人对于使用 ChatGTP、Gemini 或 Claude 等 NLP 提供商构建真正安全的应用程序有何感想？我的用例将处理大量超敏感数据，我正在尝试找出一种方法来保证其绝对安全。    ;由   提交/u/Final_Awareness1855  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2equu/ai_security/</guid>
+      <pubDate>Fri, 12 Apr 2024 17:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Udio的第一交响曲！！ [完整的第一乐章]。还有钢琴奏鸣曲！我们不知道这东西实际上有什么能力......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2ctb4/udios_1st_symphony_full_1st_movement_plus_a_piano/</link>
+      <description><![CDATA[ 由   提交 /u/flexaplext   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2ctb4/udios_1st_symphony_full_1st_movement_plus_a_piano/</guid>
+      <pubDate>Fri, 12 Apr 2024 15:59:56 GMT</pubDate>
     </item>
     <item>
       <title>最佳人工智能代理 - 开源列表</title>
@@ -22,7 +36,7 @@
     <item>
       <title>即时工程是炒作吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c29wxj/is_prompt_engineering_a_hype/</link>
-      <description><![CDATA[看过一些关于即时工程的 LinkedIn 帖子 - 如果您决定接受它，那么它是一个短暂的职业。但它确实激发了创新，我想知道学习如何以巧妙的方式使用法学硕士会带来什么……   由   提交/u/circa20twenty  [链接] [评论]]]></description>
+      <description><![CDATA[看过一些关于即时工程的 LinkedIn 帖子 - 如果您决定接受它，那么它是一个短暂的职业。但它确实激发了创新，我想知道学习如何巧妙地使用法学硕士会带来什么……   由   提交/u/circa20twenty  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c29wxj/is_prompt_engineering_a_hype/</guid>
       <pubDate>Fri, 12 Apr 2024 14:01:10 GMT</pubDate>
     </item>
@@ -34,30 +48,16 @@
       <pubDate>Fri, 12 Apr 2024 13:43:59 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关简化项目管理流程的人工智能工具的建议</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c27f3p/seeking_advice_on_ai_tools_for_streamlining/</link>
-      <description><![CDATA[我最近开始了项目管理的新职位，目前正在接受培训。培训的技术性很强，但每个项目的结构和项目修改都是相似的。  我正在考虑是否可以使用一种工具来简化我的工作流程，让我可以输入 SOP 文档、培训材料和其他相关信息。理想情况下，该工具将生成执行每个过程所需的步骤。  本质上，我正在寻找一种能够处理和合成大量信息的解决方案。  任何见解或建议将不胜感激！   由   提交 /u/FoldEmLikeSeanPenn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c27f3p/seeking_advice_on_ai_tools_for_streamlining/</guid>
-      <pubDate>Fri, 12 Apr 2024 12:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>请提及免费提供 Resume Builder 或至少提供试用版本的 A.I 网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c23vom/please_mention_ai_websites_that_offer_resume/</link>
-      <description><![CDATA[许多人工智能简历生成器声称是免费的，但他们通常在最后有一个付费专区，要求您在创建简历后付款。   由   提交/u/Legitimate-Studio876  /u/Legitimate-Studio876 reddit.com/r/ArtificialInteligence/comments/1c23vom/please_mention_ai_websites_that_offer_resume/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c23vom/please_mention_ai_websites_that_offer_resume/</guid>
-      <pubDate>Fri, 12 Apr 2024 08:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>无限的上下文窗口和自适应学习。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c22xyz/infinite_context_windows_and_adaptive_learning/</link>
-      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c22xyz/infinite_context_windows_and_adaptive_learning/</guid>
-      <pubDate>Fri, 12 Apr 2024 07:18:12 GMT</pubDate>
+      <title>Suno AI和Udio AI背后的技术是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c2736c/whats_the_technology_behind_suno_ai_and_udio_ai/</link>
+      <description><![CDATA[我一直在尝试开发英语歌声合成，但未能找到一个好的神经网络。 我我不是人工智能工程师，但 Python 开发人员开始涉足生成式人工智能。  我尝试过 NNSVS 和 Sinsy，它们都很好，但不如 Suno 和 Udio 那样 varsatiel。 现在我明白他们一定开发了自己的模型，但如果有人能告诉的话我对此有更多了解，以及如何训练自己的英语歌声模型，那就太好了。   由   提交/u/kid_90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c2736c/whats_the_technology_behind_suno_ai_and_udio_ai/</guid>
+      <pubDate>Fri, 12 Apr 2024 11:46:30 GMT</pubDate>
     </item>
     <item>
       <title>公司首席执行官表示，人工智能的未来将在亚马逊上运行</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c22oli/the_future_of_ai_will_run_on_amazon_company_ceo/</link>
-      <description><![CDATA[在回滚亚马逊最雄心勃勃的人工智能项目之一（一项名为 Just Walk Out 的无收银结账技术）后不到两周，首席执行官安迪·贾西 (Andy Jassy) 表示有信心公司未来为客户带来的最大突破将来自于生成式人工智能。 Jassy 在周四发布的年度股东信中表示，他“乐观地认为，这种改变世界的人工智能大部分将建立在 AWS 或 Amazon Web Services 之上”，这是该公司的云计算业务，许多人世界上的数字企业已经依赖它来运行。  他阐明了该公司在生成式人工智能方面的战略，描述了该公司如何不再专注于构建面向消费者的应用程序以直接与 OpenAI 的 ChatGPT 等流行工具竞争，而是专注于构建底层的“基础”人工智能模型并进行销售。 Jassy 表示，企业客户已经包括达美航空、西门子和辉瑞。  看看他们使用 AWS 所做的事情，我认为这并不牵强。他们尝试了无收银员技术（面向消费者），但没有成功，他们决定坚持自己的核心竞争力之一：企业软件。从长远来看，看到这一点会很有趣。  https://www.washingtonpost.com/technology/2024/ 04/11/amazon-ai/   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <description><![CDATA[在回滚亚马逊最雄心勃勃的人工智能项目之一（一项名为 Just Walk Out 的无收银结账技术）后不到两周，首席执行官安迪·贾西 (Andy Jassy) 表示有信心公司未来为客户带来的最大突破将来自于生成式人工智能。  贾西在周四发布的年度股东信中表示，他“乐观地认为，这种改变世界的人工智能大部分将建立在 AWS 或 Amazon Web Services 之上”，这是该公司的云计算业务，许多人对此表示乐观。世界上的数字企业已经依赖它来运行。  他阐明了该公司在生成式人工智能方面的战略，描述了该公司如何不再专注于构建面向消费者的应用程序以直接与 OpenAI 的 ChatGPT 等流行工具竞争，而是专注于构建底层的“基础”人工智能模型并进行销售。 Jassy 表示，企业客户已经包括达美航空、西门子和辉瑞。  看看他们使用 AWS 所做的事情，我认为这并不牵强。他们尝试了无收银员技术（面向消费者），但没有成功，他们决定坚持自己的核心竞争力之一：企业软件。从长远来看，看到这一点会很有趣。  https://www.washingtonpost.com/technology/2024/ 04/11/amazon-ai/   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c22oli/the_future_of_ai_will_run_on_amazon_company_ceo/</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -78,12 +78,12 @@
     <item>
       <title>我认为 Reddit 上已经有大量的 LLM/机器人了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1xl2v/i_think_there_are_a_ton_of_llmbots_on_reddit/</link>
-      <description><![CDATA[最近我看到一些用户的帖子，他们的帐户才几天或几周前才开始，他们已经拥有了荒谬的业力，并且赚了很多钱不同 Reddit 子版块中的评论。看看其中的许多评论，很难相信它们不是由人工智能撰写的。   由   提交 /u/Will_Tomos_Edwards   [链接] [评论]]]></description>
+      <description><![CDATA[最近我看到一些用户的帖子，他们的帐户才在几天或几周前开始，他们已经拥有了荒谬的业力，并且赚了很多钱不同 Reddit 子版块中的评论。看看其中的许多评论，很难相信它们不是由人工智能撰写的。   由   提交 /u/Will_Tomos_Edwards   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1xl2v/i_think_there_are_a_ton_of_llmbots_on_reddit/</guid>
       <pubDate>Fri, 12 Apr 2024 02:16:42 GMT</pubDate>
     </item>
     <item>
-      <title>每个人都准备好接受人工智能生成的歌曲的轰炸吗？就像达勒图像那样？</title>
+      <title>每个人都准备好接受 AI 生成的歌曲的轰炸吗？就像 Dalle 图像那样？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1c1x372/is_everyone_ready_to_be_bombarded_by_aigenerated/</link>
       <description><![CDATA[基本上我们在这里讨论的是任何能够在几分钟内完成的音乐风格，而乐队需要几周或几个月的时间才能完成组织和排练。  https://www.udio.com/songs/8g6Tns9W671RNjTPzSKcYB   由   提交/u/rutan668  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1c1x372/is_everyone_ready_to_be_bombarded_by_aigenerated/</guid>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 11 Apr 2024 19:26:28 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
