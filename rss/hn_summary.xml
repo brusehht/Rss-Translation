@@ -4,87 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 03:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 05:22:15 GMT</lastBuildDate>
     <item>
-      <title>Boaty McBoatface 是英国自主水下航行器，是由三个机器人组成的舰队的一部分 [...]</title>
-      <link>https://t.me/hn_summary/84136</link>
-      <description><![CDATA[Boaty McBoatface
-Boaty McBoatface 是英国自主水下航行器，是 2017 年推出的由三艘机器人 AUV 组成的舰队的一部分。最初是作为极地考察船的幽默名称而提出的，后来引起了病毒式的轰动，获得了最终投票数的十倍以上船名，大卫·阿滕伯勒爵士。尽管存在争议，Boaty McBoatface 现在积极参与重要的气候研究任务，包括探索深海水域的动力学和进行冰下穿越。这个名字引发了类似的命名民意调查，并在流行文化中创造了“McBoatface”一词。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84136</guid>
-      <pubDate>Fri, 12 Apr 2024 03:09:31 GMT</pubDate>
+      <title>[媒体] 不要构建 JavaScript JIT。</title>
+      <link>https://t.me/hn_summary/84155</link>
+      <description><![CDATA[不要构建 JavaScript JIT。一个快速的解释器就足够了
+JavaScript JIT 编译器通常被视为提高性能的首选解决方案，但构建一个编译器可能很复杂且占用大量资源。相反，请考虑使用快速的 JavaScript 解释器。通过专注于优化解释器，您可以显着提高性能，而无需增加 JIT 编译器的复杂性。这种方法可能不像 JIT 那样华丽，但对于许多项目来说它同样有效且更易于管理。不要忽视经过良好优化的解释器在加速 JavaScript 代码方面的强大功能。 #JavaScript #Performance #InterpreterVsJIT]]></description>
+      <guid>https://t.me/hn_summary/84155</guid>
+      <pubDate>Fri, 12 Apr 2024 05:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>DwarFS 是一个适用于 Linux 和 Windows 的高压缩只读文件系统，专注于实现 [...]</title>
-      <link>https://t.me/hn_summary/84135</link>
-      <description><![CDATA[DwarFS – 去重 Warp-Speed 高级只读文件系统&lt; /a&gt;
-DwarFS 是适用于 Linux 和 Windows 的高压缩只读文件系统，专注于实现冗余数据的极高压缩比。作者发现其他只读、压缩文件系统并不能有效地利用冗余。 DwarFS 通过相似性、分段分析、分类框架和高度多线程实现提供文件聚类。该项目于 2013 年启动，旨在解决作者高效压缩多个版本 Perl 的需求。 DwarFS 在压缩和随机读取速率方面优于 SquashFS。预构建的二进制文件可供下载，通用二进制文件使用 upx 进行压缩。该项目使用 CMake、Boost 和 Folly 作为依赖项。 （根据故事文本的 9% 进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84135</guid>
-      <pubDate>Fri, 12 Apr 2024 02:59:26 GMT</pubDate>
+      <title>[媒体]《自然通讯》发表的一项开创性研究表明，[...]</title>
+      <link>https://t.me/hn_summary/84154</link>
+      <description><![CDATA[研究发现洋流可能导致南极冰架崩塌
+《自然通讯》发表的一项开创性研究表明，阿蒙森海南极冰架的融化是由洋流与海底之间的相互作用驱动的，挑战了之前的假设。由 Taewook Park 和 Yoshihiro Nakayama 领导的研究人员发现，洋流引起的暖水上升在冰架不稳定方面发挥着重要作用，特别是松岛冰架和思韦茨冰架。这一发现凸显了重新评估海洋过程对南极冰损失的影响及其对全球海平面上升的影响的迫切需要。这项研究为该地区气候变化的复杂动态提供了新的线索。]]></description>
+      <guid>https://t.me/hn_summary/84154</guid>
+      <pubDate>Fri, 12 Apr 2024 05:21:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] YouTube Skipper Chrome 扩展程序是一款旨在自动跳过skippabl [...]</title>
-      <link>https://t.me/hn_summary/84134</link>
-      <description><![CDATA[显示 HN：我制作了一个 Chrome 扩展程序来自动跳过 YouTube 可跳过广告
-YouTube Skipper Chrome 扩展程序是一款旨在自动跳过 YouTube 视频上可跳过广告的工具，为用户提供不间断的观看体验。它的特点是重量轻、易于使用并且能够跳过多个广告。用户可以在 Google Chrome 或基于 Chromium 的浏览器上安装该扩展，并通过 GitHub 存储库为其开发做出贡献。该项目旨在通过消除广告造成的干扰来增强 YouTube 上的用户体验，而无需 YouTube 本身的认可或附属。使用 YouTube Skipper Chrome 扩展程序享受无广告干扰的 YouTube 观看体验！]]></description>
-      <guid>https://t.me/hn_summary/84134</guid>
-      <pubDate>Fri, 12 Apr 2024 02:55:22 GMT</pubDate>
+      <title>OpenAI 最近解雇了两名研究人员 Leopold Aschenbrenner 和 Pavel Izmailov，原因是 [...]</title>
+      <link>https://t.me/hn_summary/84153</link>
+      <description><![CDATA[OpenAI 研究人员，包括 Sutskever 的盟友，因涉嫌泄密而被解雇
+OpenAI 最近解雇了两名研究人员 Leopold Aschenbrenner 和 Pavel Izmailov，原因是涉嫌泄露信息。 Aschenbrenner是致力于确保人工智能安全的团队成员，也是OpenAI首席科学家Ilya Sutskever的盟友。此举是在去年秋天试图罢免 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 失败之后做出的。泄密的原因尚不清楚，但这标志着自奥特曼三月份恢复董事会席位以来首次公共人员变动之一。这场争议凸显了组织内部的动态和紧张局势。]]></description>
+      <guid>https://t.me/hn_summary/84153</guid>
+      <pubDate>Fri, 12 Apr 2024 05:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们深入研究 Linux 容器的世界，重点关注它们的工作方式 [...]</title>
-      <link>https://t.me/hn_summary/84133</link>
-      <description><![CDATA[使用命名空间构建 Linux 容器：第 1 部分 
-在本文中，我们深入研究 Linux 容器的世界，重点关注它们的工作原理以及命名空间在容器化中的重要性。我们探索 Linux 中的六种类型的命名空间 - IPC、网络、Mount、PID、用户和 UTS - 每种命名空间在隔离系统资源方面都有独特的用途。本文提供了使用 unshare 命令和 golang 构建简单容器的分步指南，重点介绍了安装过程和必要的软件包。一个令人惊讶的元素是对 User 命名空间使用 newuidmap 和 newgidmap，这为容器创建增加了一层复杂性。请继续关注第 2 部分以获取更多见解！ （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84133</guid>
-      <pubDate>Fri, 12 Apr 2024 02:46:58 GMT</pubDate>
+      <title>[媒体]标题：Vaxx受伤者的哀悼</title>
+      <link>https://t.me/hn_summary/84152</link>
+      <description><![CDATA[Vaxx 受伤者的哀悼
+标题：Vaxx 受伤者的哀悼
+
+这首强有力的诗是向那些遭受新冠疫苗影响的人们致敬，强调了他们每天面临的痛苦、背叛和挣扎。作者质疑那些宣扬疫苗安全有效、却对疫苗接种者的痛苦视而不见的人的动机。这首诗呼吁为那些受到影响的人伸张正义、支持和认可，敦促读者倾听他们的故事，并与他们一起为治愈和真相而奋斗。作者还为疫苗接种受伤者提供资源，并鼓励支持他们的事业。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84152</guid>
+      <pubDate>Fri, 12 Apr 2024 04:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]克里斯托弗·卡沃利将军透露了乌克兰境内令人担忧的炮兵失衡问题[...]</title>
-      <link>https://t.me/hn_summary/84132</link>
-      <description><![CDATA[俄罗斯向乌克兰每发射一枚炮弹就发射五发炮弹
-克里斯托弗·卡沃利将军透露，乌克兰冲突中存在令人担忧的炮兵失衡问题，乌克兰每发射一枚炮弹，俄罗斯就发射五枚炮弹，这一比例可能扩大到十比一。正如泽连斯基总统强调的那样，这使乌克兰面临失败的风险。尽管乌克兰努力升级其武库，但仍面临严重的弹药短缺问题，每天所需的 20,000 发炮弹中仅提供约 2,000 发。局势严峻，俄罗斯军队加大攻击力度，对乌克兰能源基础设施造成重大破坏。国际社会密切关注不断升级的冲突，其风险比以往任何时候都更高。]]></description>
-      <guid>https://t.me/hn_summary/84132</guid>
-      <pubDate>Fri, 12 Apr 2024 02:33:51 GMT</pubDate>
+      <title>[媒体] 1856年，</title>
+      <link>https://t.me/hn_summary/84151</link>
+      <description><![CDATA[莫兹莱的螺丝起源方法 (1856)
+1856 年，Maudslay 先生通过引入创新的结构和技术彻底改变了螺纹切削车床方法。他尝试了各种方法来完善螺钉的螺旋特性和均匀细分，甚至创造了原创的丝锥和板牙来纠正微小的错误。他的奉献精神创造了一种与标准尺寸偏差最小的优质黄铜螺丝。 Maudslay 先生的朋友 Barton 先生也做出了重大贡献，他利用链式或柔性带式方法来提高精度。尽管显微镜检查发现了隐藏的错误，但他们的共同努力导致了完美匹配的螺钉，从而促使进一步改进。]]></description>
+      <guid>https://t.me/hn_summary/84151</guid>
+      <pubDate>Fri, 12 Apr 2024 04:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>博士。</title>
-      <link>https://t.me/hn_summary/84131</link>
-      <description><![CDATA[博士。吴恩达 (Andrew Ng) 被任命为亚马逊董事会成员
-人工智能和教育领域的著名领导者吴恩达博士已被任命为亚马逊董事会成员。吴博士拥有创立和领导多家人工智能公司和教育平台的背景，以及在百度和谷歌等公司的经验，为董事会带来了丰富的知识和专业知识。他对人工智能变革潜力的见解将有助于亚马逊在这个快速发展的领域制定战略。此外，朱迪·麦格拉思 (Judy McGrath) 将不会寻求连任董事会成员，从而结束十年的服务。亚马逊很高兴欢迎吴博士，并感谢朱迪的贡献。]]></description>
-      <guid>https://t.me/hn_summary/84131</guid>
-      <pubDate>Fri, 12 Apr 2024 02:28:57 GMT</pubDate>
+      <title>大西洋翻转环流是否已接近临界点？</title>
+      <link>https://t.me/hn_summary/84150</link>
+      <description><![CDATA[大西洋翻转环流是否正在接近临界点？ 
+本文探讨了大西洋经向翻转环流 (AMOC) 及其在全球气候变化中的关键作用。 AMOC将热量从南部高纬度地区输送到赤道，使北大西洋地区比预期更温暖。由温度和盐度差异驱动的循环由于淡水流入而面临达到临界点的风险，这可能会破坏系统。 AMOC 的稳定性是一个令人担忧的问题，模型显示，如果超过某些阈值，就有可能关闭。文章强调了 AMOC 系统的复杂性和脆弱性，并提出了在快速变化的气候下其未来的问题。 （根据 26% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84150</guid>
+      <pubDate>Fri, 12 Apr 2024 04:16:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，作者探讨了他们尝试 Rye 的经验，这是一种旨在 [...]</title>
-      <link>https://t.me/hn_summary/84130</link>
-      <description><![CDATA[尝试黑麦
-在本文中，作者探讨了他们尝试 Rye 的经验，Rye 是一种旨在通过将各种功能捆绑在一起来简化 Python 开发的工具。虽然作者欣赏 Rye 的概念及其作为 Rust 的 Cargo 等一站式工具的潜力，但由于 C 扩展和静态 Python 构建的问题，他们在将其用于 Django 项目时遇到了挑战。作者强调了 Rye 的局限性，例如缺乏环境变量集成以及尽管 Rye 的预期目的仍需要 pyenv。尽管有一些积极的方面，但作者得出的结论是，Rye 可能更适合初学者，或者将来可能会有所改进。]]></description>
-      <guid>https://t.me/hn_summary/84130</guid>
-      <pubDate>Fri, 12 Apr 2024 02:24:53 GMT</pubDate>
+      <title>[媒体] 一位国会议员想了解人工智能。</title>
+      <link>https://t.me/hn_summary/84149</link>
+      <description><![CDATA[一位国会议员想要了解人工智能。于是他又回到了大学教室
+弗吉尼亚州民主党众议员唐·拜尔 (Don Beyer) 在乔治梅森大学攻读了机器学习硕士学位，以便在立法者努力监管该行业时更好地了解人工智能 (AI)。拜尔对人工智能潜在好处的乐观态度因对失业、有偏见的结果和深度造假技术的担忧而受到影响。加利福尼亚州共和党众议员杰伊·奥伯诺特 (Jay Oberolte) 等立法者也在人工智能方面进行自我教育，以在创新和监管之间取得平衡。美国在人工智能监管方面正在追赶欧盟，但两党正在努力解决人工智能的潜在风险和收益。]]></description>
+      <guid>https://t.me/hn_summary/84149</guid>
+      <pubDate>Fri, 12 Apr 2024 04:15:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯州已正式使 Kei 卡车在其道路上使用合法化，使其成为第一个 [...]</title>
-      <link>https://t.me/hn_summary/84129</link>
-      <description><![CDATA[德克萨斯州使 Kei 卡车合法化
-德克萨斯州已正式将 Kei 卡车在其道路上使用合法化，成为自美国机动车辆管理员协会建议在 2021 年禁止不符合 FMVSS 的汽车以来第一个这样做的州。这一决定推翻了之前认为这些小型作业机器非法的政策在该州。德克萨斯州汽车爱好者的这一胜利引发了佐治亚州、宾夕法尼亚州和缅因州等其他州做出类似法律改革的努力。对于为实现这一目标而努力奋斗的 Kei 卡车爱好者和倡导者来说，此举是一次胜利。祝其他州推动变革的人们好运！]]></description>
-      <guid>https://t.me/hn_summary/84129</guid>
-      <pubDate>Fri, 12 Apr 2024 02:01:44 GMT</pubDate>
+      <title>[媒体]Ruby 的 NotImplementedError 异常通常用作抽象类中的占位符 [...]</title>
+      <link>https://t.me/hn_summary/84148</link>
+      <description><![CDATA[Ruby 中的抽象方法和 NotImplementedError
+Ruby 的 NotImplementedError 异常通常用作抽象类中应该由子类实现的方法的占位符，但这不是它的预期用途。该异常实际上是在当前平台上不可用的功能时引发的。本文探讨了 NotImplementedError 的常见误用，并提供了替代方法，例如在基类中提供默认实现或创建自定义异常。本文还讨论了 Ruby 代码库中静态类型检查器（如 Sorbet）的使用。争议在于 NotImplementedError 的广泛误用以及建议引入新的异常类来取代它。]]></description>
+      <guid>https://t.me/hn_summary/84148</guid>
+      <pubDate>Fri, 12 Apr 2024 04:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]争议：一些用户可能会因为需要使用 JavaScript 来感到沮丧 [...]</title>
-      <link>https://t.me/hn_summary/84128</link>
-      <description><![CDATA[A::B
-争议：一些用户可能会对使用 Twitter 需要 JavaScript 感到沮丧，因为并非所有浏览器都支持它。这可能会限制某些人的可访问性。 
-独特之处：Twitter 需要 JavaScript 才能正常运行，因此请确保启用它或切换到支持的浏览器以继续使用该网站。请查看我们的帮助中心，了解有关支持的浏览器的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/84128</guid>
-      <pubDate>Fri, 12 Apr 2024 01:55:39 GMT</pubDate>
+      <title>Ripl 是一个用于数据可视化的 JavaScript 库，为 2D 图形提供统一的 API [...]</title>
+      <link>https://t.me/hn_summary/84147</link>
+      <description><![CDATA[Show HN：用于 SVG 和 Canvas 中数据可视化的 JavaScript 库
+Ripl 是一个用于数据可视化的 JavaScript 库，为画布和 SVG 格式的 2D 图形渲染提供统一的 API。它旨在通过提供模仿 DOM/CSSOM 的统一 API 来简化开发人员交互，从而解决使用低级画布 API 的困难和 SVG 的局限性。 Ripl 的与众不同之处在于，开发人员只需一行代码即可轻松在画布和 SVG 之间切换。它还提供了受 D3 启发的比例、几何、插值、颜色和缓动方法，以辅助绘图。该项目包括多系列趋势图和具有悬停效果的圆环图的示例。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84147</guid>
+      <pubDate>Fri, 12 Apr 2024 04:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]CISA 紧急指令已发布，以回应民族国家的妥协 [...]</title>
-      <link>https://t.me/hn_summary/84127</link>
-      <description><![CDATA[CISA 紧急指令：Microsoft 公司电子邮件的民族国家妥协
-CISA 紧急指令的发布是为了应对 Microsoft 公司电子邮件遭到民族国家入侵的情况。这种违规行为对国家安全构成重大威胁，需要立即采取行动减轻损害。对于所有政府机构和组织来说，采取措施保护其电子邮件系统并防止进一步渗透至关重要。通过遵循该指令中概述的准则，我们可以保护敏感信息并防止未来的攻击。保持警惕，优先考虑网络安全，防范潜在威胁。]]></description>
-      <guid>https://t.me/hn_summary/84127</guid>
-      <pubDate>Fri, 12 Apr 2024 01:33:32 GMT</pubDate>
+      <title>[媒体]上个月，Meta 的 Threads 与 Fediverse 集成，允许 Mastodon 用户 [...]</title>
+      <link>https://t.me/hn_summary/84146</link>
+      <description><![CDATA[关于 Mastodon 和 Fediverse 光明未来的主题 
+上个月，Meta 的 Threads 与 Fediverse 集成，允许 Mastodon 用户关注选择加入的 Threads 用户。虽然 Threads 有其优点，如 For You feed，但它缺乏按时间顺序排列的 feed 和列表等功能。为了增强体验，作者转向 Mastodon 并发现了 Phanpy，这是一个可定制的客户端，可以实时组织帖子并提供“Catch Up”功能。尽管有一些限制，比如后期组织，Phanpy 的功能还是给人留下了深刻的印象。作者在留在 Threads 和联盟后转向 Mastodon 之间左右为难，强调了社交媒体平台中用户体验的重要性。 （根据 94% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84146</guid>
+      <pubDate>Fri, 12 Apr 2024 04:12:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
