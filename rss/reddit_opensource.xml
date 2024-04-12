@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 18:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 21:12:13 GMT</lastBuildDate>
+    <item>
+      <title>寻求对我的信使服务的反馈。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c2ilse/seeking_feedback_on_my_messenger_service/</link>
+      <description><![CDATA[我构建了一个用于自托管的即时通讯工具，按照我的标准，它具有合理的吸引力。然而，我很难获得有关哪些功能有效、哪些无效以及哪些最重要的缺失功能的反馈。我将非常感谢任何愿意看一下并让我知道他们的想法的人。  这是该项目：https://github.com/balzack/databag &lt; p&gt;提前致谢！   由   提交/u/diatum  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c2ilse/seeking_feedback_on_my_messenger_service/</guid>
+      <pubDate>Fri, 12 Apr 2024 19:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF 阅读器可以跨应用程序目录添加书签吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</link>
+      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在其他应用程序（例如 Windows Acrobat 的目录）中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，并且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</guid>
+      <pubDate>Fri, 12 Apr 2024 19:20:33 GMT</pubDate>
+    </item>
     <item>
       <title>厌倦了电子邮件解决方案，决定更改它，操作系统电子邮件今天推出</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2fg21/got_fed_up_with_email_solutions_decided_to_change/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>Openkoda - 用于更快的业务应用程序和 SaaS 开发的开源平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1c24gkf/openkoda_opensource_platform_for_faster_business/</link>
-      <description><![CDATA[开源社区您好！ 💙 就在最近，我们发布了 Openkoda 的第一个版本，这是一个快速开发的开源平台SaaS和企业应用程序开发！ 🚀 Openkoda 旨在通过提供即用型构建块和预构建模板来加快软件开发过程。它通过提供简化功能定制和扩展的工具，使开发人员能够比传统方法更快地创建和部署应用程序​。 Openkoda 功能： 📌 应用程序管理面板，&lt; br /&gt; 📌 动态实体， 📌 用户管理功能， 📌 事件侦听器， 📌 作业请求， 📌 支持多种多租户模型。 &lt; p&gt;类似的解决方案通常会导致可怕的“供应商锁定”。问题，这就是为什么开源核心如此重要。使用 Openkoda 构建应用程序的组织和开发人员保留对其代码的完全所有权，并可以用它做任何他们想做的事情。 这是我们的 GitHub 页面的链接。请随时查看并分享您的想法！ 🔗 Opekoda GitHub 页面 🔗 🔗 展示视频 🔗   由   提交/u/TheRobak333  [链接] [评论]]]></description>
+      <description><![CDATA[开源社区您好！ 💙 就在最近，我们发布了 Openkoda 的第一个版本，这是一个快速开发的开源平台SaaS和企业应用程序开发！ 🚀 Openkoda 旨在通过提供即用型构建块和预构建模板来加快软件开发过程。它通过提供简化功能定制和扩展的工具，使开发人员能够比传统方法更快地创建和部署应用程序。 Openkoda 功能： 📌 应用程序管理面板，&lt; br /&gt; 📌 动态实体， 📌 用户管理功能， 📌 事件侦听器， 📌 作业请求， 📌 支持多种多租户模型。 &lt; p&gt;类似的解决方案通常会导致可怕的“供应商锁定”。问题，这就是为什么开源核心如此重要。使用 Openkoda 构建应用程序的组织和开发人员保留对其代码的完全所有权，并可以用它做任何他们想做的事情。 这是我们的 GitHub 页面的链接。请随时查看并分享您的想法！ 🔗 Opekoda GitHub 页面 🔗 🔗 展示视频 🔗   由   提交/u/TheRobak333  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c24gkf/openkoda_opensource_platform_for_faster_business/</guid>
       <pubDate>Fri, 12 Apr 2024 09:02:46 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/rubiesordiamonds  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c1hnh5/steve_pike_on_automating_open_source_package/</guid>
       <pubDate>Thu, 11 Apr 2024 15:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 LinkedIn Scraper RestAPI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c1h3pm/opensource_linkedin_scraper_restapi/</link>
-      <description><![CDATA[我使用 fastAPI 和 selenium 发布了这个 Restful API，它的端点一个用于抓取配置文件，另一个用于抓取公司，我希望您对此发表意见代码以及是否有任何改进或我可以添加的内容。 这是该项目的存储库，请随意尝试，提交拉取请求或请求功能:) &lt; /div&gt;  由   提交/u/Objective-Tune-7499   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c1h3pm/opensource_linkedin_scraper_restapi/</guid>
-      <pubDate>Thu, 11 Apr 2024 14:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>遇到危机了。发送帮助。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c1ew0u/having_a_crisis_send_help/</link>
-      <description><![CDATA[是啊是啊，一切都很艰难。 我的问题（常见？）是我对蹩脚的东西越来越不满意，来自最大的软件生产商（苹果、微软、Adobe 等）的昂贵软件。提供替代品的小型商业公司似乎正在以惊人的速度被收购并并入更大的公司。企业“赞助商” （请参阅：IBM/redhat，还有 Microsoft）正在破坏开源软件的目的，在赚取利润​​的同时将社区拒之门外，并将源代码分叉/私有化。 开源替代品大型头条新闻（Photoshop、Premiere、ProTools、Final Cut、Logic 甚至 Excel）可以说没有那么强大。 我错过了什么吗？是否有与商业替代品竞争的程序，至少对于非专业用途？ 此外，普通人可以做哪些事情来支持开源软件？哪些公民和政治团体在维持和促进开源生态系统方面最有效？ 感谢您对天真的包容。    ;由   提交/u/googleflont  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c1ew0u/having_a_crisis_send_help/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:20:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
