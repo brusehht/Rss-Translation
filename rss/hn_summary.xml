@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 21:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 03:09:31 GMT</lastBuildDate>
     <item>
-      <title>GitHub 上的项目“Show HN：生成 Docker Artifacts to $PWD”提供了一个 Docker 脚本，[...]</title>
-      <link>https://t.me/hn_summary/84092</link>
-      <description><![CDATA[显示 HN：生成 Docker 工件到 $PWD&lt; br/&gt;
-GitHub 上的项目“Show HN：Generate Docker Artifacts to $PWD”提供了一个 Docker 脚本，允许用户从 Dockerfile 生成构建工件，而无需创建容器。该项目旨在简化从 Docker 镜像中提取特定工件的过程。通过向 Dockerfile 添加标签，指定所需工件的路径，用户可以轻松构建 Dockerfile 并自动提取编译后的程序。该项目的独特之处在于专注于生成工件而不是容器，为用户提供更高效的工作流程。]]></description>
-      <guid>https://t.me/hn_summary/84092</guid>
-      <pubDate>Thu, 11 Apr 2024 21:10:09 GMT</pubDate>
+      <title>Boaty McBoatface 是英国自主水下航行器，是由三个机器人组成的舰队的一部分 [...]</title>
+      <link>https://t.me/hn_summary/84136</link>
+      <description><![CDATA[Boaty McBoatface
+Boaty McBoatface 是英国自主水下航行器，是 2017 年推出的由三艘机器人 AUV 组成的舰队的一部分。最初是作为极地考察船的幽默名称而提出的，后来引起了病毒式的轰动，获得了最终投票数的十倍以上船名，大卫·阿滕伯勒爵士。尽管存在争议，Boaty McBoatface 现在积极参与重要的气候研究任务，包括探索深海水域的动力学和进行冰下穿越。这个名字引发了类似的命名民意调查，并在流行文化中创造了“McBoatface”一词。 （根据 60% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84136</guid>
+      <pubDate>Fri, 12 Apr 2024 03:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果的高级数据保护功能受到来自研究的质疑 [...]</title>
-      <link>https://t.me/hn_summary/84091</link>
-      <description><![CDATA[报告称苹果收集用户数据的行为难以阻止 
-阿尔托大学的研究对苹果的高级数据保护功能提出了质疑，该大学声称，即使用户试图禁用它们，苹果的默认应用程序也会收集用户数据。这使得用户几乎不可能阻止他们的数据被收集。研究发现，苹果自己的应用程序，如 Safari、Siri 和 iMessage，可以向苹果反馈大量数据，而阻止这种数据收集的过程复杂且令人困惑。尽管 Apple 制定了隐私政策，但该研究强调了用户在保护其数据时面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/84091</guid>
-      <pubDate>Thu, 11 Apr 2024 21:06:05 GMT</pubDate>
+      <title>DwarFS 是一个适用于 Linux 和 Windows 的高压缩只读文件系统，专注于实现 [...]</title>
+      <link>https://t.me/hn_summary/84135</link>
+      <description><![CDATA[DwarFS – 去重 Warp-Speed 高级只读文件系统&lt; /a&gt;
+DwarFS 是适用于 Linux 和 Windows 的高压缩只读文件系统，专注于实现冗余数据的极高压缩比。作者发现其他只读、压缩文件系统并不能有效地利用冗余。 DwarFS 通过相似性、分段分析、分类框架和高度多线程实现提供文件聚类。该项目于 2013 年启动，旨在解决作者高效压缩多个版本 Perl 的需求。 DwarFS 在压缩和随机读取速率方面优于 SquashFS。预构建的二进制文件可供下载，通用二进制文件使用 upx 进行压缩。该项目使用 CMake、Boost 和 Folly 作为依赖项。 （根据故事文本的 9% 进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84135</guid>
+      <pubDate>Fri, 12 Apr 2024 02:59:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加入旧金山的 Etleap，担任客户经理，并成为领先数据公司的一部分 [...]</title>
-      <link>https://t.me/hn_summary/84090</link>
-      <description><![CDATA[Etleap (YC W13) 正在旧金山招聘一名客户经理&lt; /a&gt;
-加入旧金山的 Etleap，担任客户经理，并成为领先的数据集成解决方案提供商的一员。在顶级投资者的支持下，我们帮助组织集中、转换和管理其数据，以增强分析能力。随着我们的扩张，我们正在寻找充满活力的客户经理来发掘潜在客户、培养关系并达成交易。如果您拥有 5 年以上 B2B 软件销售经验，善于沟通，并在以团队为中心的文化中茁壮成长，我们将提供有竞争力的薪资、不封顶的佣金、股权、福利和职业发展机会。与我们一起重新定义数据分析并产生重大影响。立即申请！]]></description>
-      <guid>https://t.me/hn_summary/84090</guid>
-      <pubDate>Thu, 11 Apr 2024 21:02:01 GMT</pubDate>
+      <title>[媒体] YouTube Skipper Chrome 扩展程序是一款旨在自动跳过skippabl [...]</title>
+      <link>https://t.me/hn_summary/84134</link>
+      <description><![CDATA[显示 HN：我制作了一个 Chrome 扩展程序来自动跳过 YouTube 可跳过广告
+YouTube Skipper Chrome 扩展程序是一款旨在自动跳过 YouTube 视频上可跳过广告的工具，为用户提供不间断的观看体验。它的特点是重量轻、易于使用并且能够跳过多个广告。用户可以在 Google Chrome 或基于 Chromium 的浏览器上安装该扩展，并通过 GitHub 存储库为其开发做出贡献。该项目旨在通过消除广告造成的干扰来增强 YouTube 上的用户体验，而无需 YouTube 本身的认可或附属。使用 YouTube Skipper Chrome 扩展程序享受无广告干扰的 YouTube 观看体验！]]></description>
+      <guid>https://t.me/hn_summary/84134</guid>
+      <pubDate>Fri, 12 Apr 2024 02:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>在一个充满无尽技术选择的世界中，对平台的关注似乎已经消失。</title>
-      <link>https://t.me/hn_summary/84089</link>
-      <description><![CDATA[Kubernetes 不是重点
-在一个充满无尽技术选择的世界中，对平台的关注似乎已经消失。对新组件的兴奋导致了实验和创新的狂热，为最终用户创造了复杂的选择环境。 “工程主导”或创新的压力迫使许多 IT 组织拼凑自己的平台，从而导致生命周期和集成管理的负担。内部开发者平台的回归带来了简化、用户友好体验的理念。问题仍然是：我们是为了构建而构建，还是真正专注于改进业务计划和应用程序结果？]]></description>
-      <guid>https://t.me/hn_summary/84089</guid>
-      <pubDate>Thu, 11 Apr 2024 20:27:49 GMT</pubDate>
+      <title>[媒体]在本文中，我们深入研究 Linux 容器的世界，重点关注它们的工作方式 [...]</title>
+      <link>https://t.me/hn_summary/84133</link>
+      <description><![CDATA[使用命名空间构建 Linux 容器：第 1 部分 
+在本文中，我们深入研究 Linux 容器的世界，重点关注它们的工作原理以及命名空间在容器化中的重要性。我们探索 Linux 中的六种类型的命名空间 - IPC、网络、Mount、PID、用户和 UTS - 每种命名空间在隔离系统资源方面都有独特的用途。本文提供了使用 unshare 命令和 golang 构建简单容器的分步指南，重点介绍了安装过程和必要的软件包。一个令人惊讶的元素是对 User 命名空间使用 newuidmap 和 newgidmap，这为容器创建增加了一层复杂性。请继续关注第 2 部分以获取更多见解！ （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84133</guid>
+      <pubDate>Fri, 12 Apr 2024 02:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过漫长的等待，OpenZiti 1.0 终于来了，展示了它提供安全 [...]</title>
-      <link>https://t.me/hn_summary/84088</link>
-      <description><![CDATA[OpenZiti 1.0
-经过漫长的等待，OpenZiti 1.0 终于面世，展示了其大规模提供安全连接的能力。该平台以其零信任网络原则而闻名，已广泛应用于关键任务应用程序，包括财富 50 强环境。 1.0版本的发布标志着对未来分布式应用程序质量、稳定性和兼容性的承诺，并将安全性作为重中之重。 zrok（一款点对点共享应用程序）的推出作为第一个 ziti 原生应用程序展示了该平台的潜力。 OpenZiti 提供强大的身份、端口扫描保护、最小特权访问、持续授权、端到端加密、可见性等，使安全网络作为软件成为现实。]]></description>
-      <guid>https://t.me/hn_summary/84088</guid>
-      <pubDate>Thu, 11 Apr 2024 20:20:43 GMT</pubDate>
+      <title>[媒体]克里斯托弗·卡沃利将军透露了乌克兰境内令人担忧的炮兵失衡问题[...]</title>
+      <link>https://t.me/hn_summary/84132</link>
+      <description><![CDATA[俄罗斯向乌克兰每发射一枚炮弹就发射五发炮弹
+克里斯托弗·卡沃利将军透露，乌克兰冲突中存在令人担忧的炮兵失衡问题，乌克兰每发射一枚炮弹，俄罗斯就发射五枚炮弹，这一比例可能扩大到十比一。正如泽连斯基总统强调的那样，这使乌克兰面临失败的风险。尽管乌克兰努力升级其武库，但仍面临严重的弹药短缺问题，每天所需的 20,000 发炮弹中仅提供约 2,000 发。局势严峻，俄罗斯军队加大攻击力度，对乌克兰能源基础设施造成重大破坏。国际社会密切关注不断升级的冲突，其风险比以往任何时候都更高。]]></description>
+      <guid>https://t.me/hn_summary/84132</guid>
+      <pubDate>Fri, 12 Apr 2024 02:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Aarde，这是一个通过自我复制模拟进化的突破性程序 [...]</title>
-      <link>https://t.me/hn_summary/84087</link>
-      <description><![CDATA[显示 HN：Aarde – 自我复制程序
-隆重推出 Aarde，这是一个突破性的程序，通过自我复制程序来模拟进化。使用 S、E、F、C 和 J 等命令的独特组合，Aarde 能够快速复制和进化。这个创新项目由 Koen van Gilst 创建，可在 GitHub 上供那些有兴趣探索自我复制程序可能性的人使用。与 Aarde 一起体验观看节目实时演变和适应的兴奋感。在 aarde 上探索这项尖端技术的潜在争议和令人惊讶的结果。 koenvangilst.nl。]]></description>
-      <guid>https://t.me/hn_summary/84087</guid>
-      <pubDate>Thu, 11 Apr 2024 20:16:39 GMT</pubDate>
+      <title>博士。</title>
+      <link>https://t.me/hn_summary/84131</link>
+      <description><![CDATA[博士。吴恩达 (Andrew Ng) 被任命为亚马逊董事会成员
+人工智能和教育领域的著名领导者吴恩达博士已被任命为亚马逊董事会成员。吴博士拥有创立和领导多家人工智能公司和教育平台的背景，以及在百度和谷歌等公司的经验，为董事会带来了丰富的知识和专业知识。他对人工智能变革潜力的见解将有助于亚马逊在这个快速发展的领域制定战略。此外，朱迪·麦格拉思 (Judy McGrath) 将不会寻求连任董事会成员，从而结束十年的服务。亚马逊很高兴欢迎吴博士，并感谢朱迪的贡献。]]></description>
+      <guid>https://t.me/hn_summary/84131</guid>
+      <pubDate>Fri, 12 Apr 2024 02:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔和联想硬件被发现包含一个漏洞，该漏洞已经消失[...]</title>
-      <link>https://t.me/hn_summary/84086</link>
-      <description><![CDATA[可破解的英特尔和联想硬件五年未被发现 
-英特尔和联想的硬件被发现包含一个五年来未被发现的漏洞，允许黑客远程利用它。该问题源于涉及多个制造商的开源软件和硬件的供应链错误。该漏洞影响 AMI 和 AETN 制造的基板管理控制器，这些控制器用于服务器中以实现远程管理。 lighttpd 软件中的缺陷可被利用来泄露敏感信息并绕过安全机制。虽然 Supermicro 正在为受影响的产品提供修复程序，但英特尔和联想没有计划为其硬件发布补丁。]]></description>
-      <guid>https://t.me/hn_summary/84086</guid>
-      <pubDate>Thu, 11 Apr 2024 20:12:34 GMT</pubDate>
+      <title>[媒体]在本文中，作者探讨了他们尝试 Rye 的经验，这是一种旨在 [...]</title>
+      <link>https://t.me/hn_summary/84130</link>
+      <description><![CDATA[尝试黑麦
+在本文中，作者探讨了他们尝试 Rye 的经验，Rye 是一种旨在通过将各种功能捆绑在一起来简化 Python 开发的工具。虽然作者欣赏 Rye 的概念及其作为 Rust 的 Cargo 等一站式工具的潜力，但由于 C 扩展和静态 Python 构建的问题，他们在将其用于 Django 项目时遇到了挑战。作者强调了 Rye 的局限性，例如缺乏环境变量集成以及尽管 Rye 的预期目的仍需要 pyenv。尽管有一些积极的方面，但作者得出的结论是，Rye 可能更适合初学者，或者将来可能会有所改进。]]></description>
+      <guid>https://t.me/hn_summary/84130</guid>
+      <pubDate>Fri, 12 Apr 2024 02:24:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“向 JavaScript 添加信号的提案”项目旨在引入一个标准 [...]</title>
-      <link>https://t.me/hn_summary/84085</link>
-      <description><![CDATA[向 JavaScript 添加信号的提案
-“向 JavaScript 添加信号的提案”项目旨在引入 JavaScript 中的信号标准，类似于 Promises/A+ 的工作。信号旨在帮助以反应方式管理应用程序状态，使开发人员能够专注于业务逻辑而不是重复的细节。与 Promises/A+ 不同，该提案侧重于信号图的核心语义，而不是面向开发人员的 API。该项目涉及各个框架作者的合作，如果信号被证明跨多个框架有益，则旨在标准化信号。该提案包括自动依赖跟踪、惰性评估和记忆功能，以提高性能和内存使用率。 （根据故事文本的 21% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84085</guid>
-      <pubDate>Thu, 11 Apr 2024 20:04:29 GMT</pubDate>
+      <title>[媒体]德克萨斯州已正式使 Kei 卡车在其道路上使用合法化，使其成为第一个 [...]</title>
+      <link>https://t.me/hn_summary/84129</link>
+      <description><![CDATA[德克萨斯州使 Kei 卡车合法化
+德克萨斯州已正式将 Kei 卡车在其道路上使用合法化，成为自美国机动车辆管理员协会建议在 2021 年禁止不符合 FMVSS 的汽车以来第一个这样做的州。这一决定推翻了之前认为这些小型作业机器非法的政策在该州。德克萨斯州汽车爱好者的这一胜利引发了佐治亚州、宾夕法尼亚州和缅因州等其他州做出类似法律改革的努力。对于为实现这一目标而努力奋斗的 Kei 卡车爱好者和倡导者来说，此举是一次胜利。祝其他州推动变革的人们好运！]]></description>
+      <guid>https://t.me/hn_summary/84129</guid>
+      <pubDate>Fri, 12 Apr 2024 02:01:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]华为宣布推出首款人工智能PC，该PC将由I [...]</title>
-      <link>https://t.me/hn_summary/84084</link>
-      <description><![CDATA[华为表示将开始销售搭载英特尔人工智能芯片的个人电脑
-华为宣布推出首款人工智能PC，该PC将采用英特尔最新芯片组并运行自己的操作系统。此举是在美国对该公司进行打压、限制其获取美国技术之际采取的。华为这一大胆举措展现了他们面对争议时对创新和独立的承诺。]]></description>
-      <guid>https://t.me/hn_summary/84084</guid>
-      <pubDate>Thu, 11 Apr 2024 19:59:25 GMT</pubDate>
+      <title>[媒体]争议：一些用户可能会因为需要使用 JavaScript 来感到沮丧 [...]</title>
+      <link>https://t.me/hn_summary/84128</link>
+      <description><![CDATA[A::B
+争议：一些用户可能会对使用 Twitter 需要 JavaScript 感到沮丧，因为并非所有浏览器都支持它。这可能会限制某些人的可访问性。 
+独特之处：Twitter 需要 JavaScript 才能正常运行，因此请确保启用它或切换到支持的浏览器以继续使用该网站。请查看我们的帮助中心，了解有关支持的浏览器的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/84128</guid>
+      <pubDate>Fri, 12 Apr 2024 01:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/84083</link>
-      <description><![CDATA[美国称俄罗斯黑客在微软网络攻击期间窃取了政府电子邮件 
-美国网络安全和基础设施安全局 (CISA) 已证实，被称为“午夜暴雪”或 APT29 的俄罗斯黑客在针对微软的网络攻击中窃取了多个美国联邦机构的政府电子邮件。微软最初于 1 月份披露了这次攻击，促使 CISA 发布了一项紧急指令，命令民间政府机构保护其电子邮件帐户的安全。此举正值微软面临安全漏洞审查之际，其中包括针对微软以外其他组织的俄罗斯黑客。美国网络安全审查委员会还指责微软在 2023 年中国支持的黑客攻击事件中造成安全失败。]]></description>
-      <guid>https://t.me/hn_summary/84083</guid>
-      <pubDate>Thu, 11 Apr 2024 19:47:20 GMT</pubDate>
+      <title>[媒体]CISA 紧急指令已发布，以回应民族国家的妥协 [...]</title>
+      <link>https://t.me/hn_summary/84127</link>
+      <description><![CDATA[CISA 紧急指令：Microsoft 公司电子邮件的民族国家妥协
+CISA 紧急指令的发布是为了应对 Microsoft 公司电子邮件遭到民族国家入侵的情况。这种违规行为对国家安全构成重大威胁，需要立即采取行动减轻损害。对于所有政府机构和组织来说，采取措施保护其电子邮件系统并防止进一步渗透至关重要。通过遵循该指令中概述的准则，我们可以保护敏感信息并防止未来的攻击。保持警惕，优先考虑网络安全，防范潜在威胁。]]></description>
+      <guid>https://t.me/hn_summary/84127</guid>
+      <pubDate>Fri, 12 Apr 2024 01:33:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
