@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 00:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 03:11:10 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Javascript 生态系统如此（过度）令人讨厌？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2r6dr/why_is_the_javascript_ecosystem_so_over_hated/</link>
+      <description><![CDATA[只是想发帖给我无用的 2 美分，但在我看来 JavaScript 生态系统太热了。 人们抱怨说有太多的库/框架，我一直认为：只需选择一个框架或其他东西并坚持使用它，您不需要学习现有的所有内容。 尽管我同意您是更有可能经历“闪亮物体综合症”在这个生态系统中，但这也会带来新的学习，在某些情况下甚至可能带来创新。 ，因为它非常简单，我可以做我想做的一切） 不知道，有人对此有什么意见吗？   由   提交 /u/AndryDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2r6dr/why_is_the_javascript_ecosystem_so_over_hated/</guid>
+      <pubDate>Sat, 13 Apr 2024 02:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>实施 SSO 的开发人员，如果用户帐户被提供商禁止，会发生什么情况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2q088/devs_who_implement_sso_what_would_happen_if_a/</link>
+      <description><![CDATA[假设您实现了一个不和谐的oauth。如果用户不和谐帐户被禁止，他们是否能够登录？   由   提交 /u/OrganicSearchTraffic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2q088/devs_who_implement_sso_what_would_happen_if_a/</guid>
+      <pubDate>Sat, 13 Apr 2024 01:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些选择器不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2pnug/some_selectors_not_working/</link>
+      <description><![CDATA[      大家好， 我是 Lambdatest 的新手，但到目前为止我非常喜欢它。我发现了一个小问题，可能是我这边的问题，也可能是其他方面的问题。我正在使用本地主机。选择移动设备或平板电脑设备以及任何浏览器时，某些选择器可以正常工作，而有些则不能（桌面环境工作正常）。当我在本地浏览器上测试时，选择器正常工作。我相信“：has”是正确的。选择器是共同的主题。我附上了一些带有 :has 选择器和 id 选择器的屏幕截图，以及 Lambdatest 和本地浏览器的屏幕截图。 你知道为什么选择器会有这样的差异吗？我 99% 确定这不是特异性问题，也不是其他地方的压倒性规则。 谢谢！ ​ ​ ​ 谢谢！ p&gt; :has 选择器仅适用于本地环境，不适用于 Lambdatest： ​ ​ HTML ​&lt; /p&gt; ：有选择器&lt; /p&gt; ​ ​ 移动响应模式下的本地 (Mac) Firefox 浏览器 ​ ​  ​ Lambdatest 虚拟移动设备（三星 S23 Ultra、Google Chrome） ​ ID 选择器适用于本地和 Lambdatest 环境： ​ ID 选择器 ​ ​ ​ 再次使用本地浏览器 &amp;# x200b; ​ ​ 使用 id 选择器进行 Lambdatest 工作 ​ ​ 干杯！   由   提交/u/peppertom32  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2pnug/some_selectors_not_working/</guid>
+      <pubDate>Sat, 13 Apr 2024 01:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你可以在移动网站上使用小字体吗？这真的会损害搜索引擎优化吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c2pgay/can_you_use_small_fonts_for_website_on_mobile_or/</link>
+      <description><![CDATA[我在网上看到很多东西说智能手机上的字体不要使用小于 1em (16px) 的字体，因为这会损害你的 SEO，但后来我明白了几乎每个主要网站都使用小得多的字体。比如 12 甚至 10 像素。 在手机上查看 ESPN 网站。或者脸书。全部都使用非常小的字体。 如果字体很小，真的会影响您的搜索引擎优化吗？如果是这样，这些大公司难道就不在乎，因为它们已经这么大、这么知名了？   由   提交/u/gabbysal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c2pgay/can_you_use_small_fonts_for_website_on_mobile_or/</guid>
+      <pubDate>Sat, 13 Apr 2024 00:55:27 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助了解有关域的一些信息</title>
       <link>https://www.reddit.com/r/webdev/comments/1c2ncne/need_help_understanding_something_about_domains/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我在 spaceship.com 上注册了 2 个域名。我希望他们只指向一个带有我公司徽标和电子邮件地址的静态页面。  有什么方法可以免费做到这一点吗？   由   提交 /u/PostModernPost   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c2jk8r/is_there_a_way_to_easily_create_and_host_a_free/</guid>
       <pubDate>Fri, 12 Apr 2024 20:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>并排加载外部站点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2j857/loading_external_sites_sidebyside/</link>
-      <description><![CDATA[我在政府调度中心工作。我不会透露哪个级别、哪个机构或我们派遣什么。 （不是秘密，但我不一定想在 Reddit 上与它联系在一起。）我们有一个墙壁显示屏，显示 Windy、WunderMap 和联邦自动飞行跟踪。它本质上是由一台计算机提供 6 个电视屏幕，就好像它们是一个显示器一样。显然，没有办法将系统设置为三个显示器或六个显示器。它通过建筑物中的中央路由系统运行。 我想做的是编写一个页面，从这三个站点提取信息，并排显示它们，并且我可以设置浏览器全屏显示，这样顶部的选项卡和 URL 栏就看不见了。 请记住，自从 Geocities 消失大约一年后，我就没有碰过代码了，我尝试做 iframe 并遇到了 Bootstrap，这让我开始尝试 Flexbox。这在尺寸调整方面存在一些问题，我确信我能解决，但其中两个框架表示无法从源（Windy 和 WunderMap）加载，并且 AFF 只是空白。我考虑过拆分页面，但 Chrome 似乎无法在没有插件的情况下做到这一点，而 Edge 只能拆分为两部分。 （机构管理的计算机，因此插件受到限制。）我已经做了一些其他搜索，并将继续做更多搜索。 这可能吗？有没有一些 javascript 巫毒要做？ 如果这是解决此类难题的错误子，我深表歉意，并谦虚地请求指导到最近的可能正确的子。   由   提交/u/Giric  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2j857/loading_external_sites_sidebyside/</guid>
-      <pubDate>Fri, 12 Apr 2024 20:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024年php还值得学吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2it7w/is_php_worth_learning_in_2024/</link>
-      <description><![CDATA[我正在开发 Web 开发课程的期末项目。我们被要求用 php 来做。我决定继续前进。我看到很多人使用 python 和 .net 框架。我想知道 php 在现代市场中是否仍然重要？   由   提交/u/Artistic-Cat577  /u/Artistic-Cat577 reddit.com/r/webdev/comments/1c2it7w/is_php_worth_learning_in_2024/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2it7w/is_php_worth_learning_in_2024/</guid>
-      <pubDate>Fri, 12 Apr 2024 20:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费开源 Chrome 扩展程序，允许您从右键单击菜单调用 ChatGPT 提示。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2iqbu/ive_created_a_free_open_source_chrome_extension/</link>
-      <description><![CDATA[大家好，希望这篇文章没有违反规则。  我创建了一个 Chrome 扩展程序，允许您从右键菜单中调用 ChatGPT 提示。您只需提供您的 API 密钥（确保您有足够的积分，并请设置支出限额！），您就可以立即开始使用它。您可以在此处查看快速演示。  该扩展附带了一些提示，例如专业地重写所选文本以及修复拼写错误，但您可以根据需要添加任意数量的提示。要查看所有配置值，请在安装扩展程序后右键单击并选择编辑提示。 您可以下载扩展程序此处。请告诉我您的想法！ （与我所做的一切一样，整个项目是开源的.)  PS：要在 Reddit 中使用此扩展，请先切换到 Markdown 模式，因为 Reddit 有一个可怕的弗兰肯斯坦怪物，它的文本框只是拒绝配合粘贴事件。其他文本框（例如 YouTube 等）应该可以正常工作。   由   提交/u/ironmaiden947   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2iqbu/ive_created_a_free_open_source_chrome_extension/</guid>
-      <pubDate>Fri, 12 Apr 2024 20:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助客户托管数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c2hure/help_with_client_hosted_database/</link>
-      <description><![CDATA[您好！我正在开发一个网站，它可以让主机浏览器生成一个“房间”和其他浏览器进入房间。房间由唯一代码标识，由房间主人与房间客户共享。每个房间都有一个与之关联的数据库，其中有许多表。然后，客户端和主机可以将数据插入数据库并从中收集信息。当主机和客户端完成操作后（通常在一天内），数据库将被删除。问题是我希望数据库由“主机”自行托管。浏览器，因为这将大大减少我托管网站的服务器所需的存储空间。有没有办法做到这一点？如前所述，数据库将是临时的，但如果发生任何情况（例如电脑错误关闭），我需要一种方法来恢复数据。 我记得几年前我做了一个存储 sqlite 的项目数据库在我的本地目录中。我需要类似的东西，但可以通过网络访问。 感谢阅读本文的所有人！   由   提交 /u/Spapa96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c2hure/help_with_client_hosted_database/</guid>
-      <pubDate>Fri, 12 Apr 2024 19:24:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

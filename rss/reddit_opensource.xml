@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 00:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 03:11:15 GMT</lastBuildDate>
+    <item>
+      <title>在调试时自动将 print 语句添加到您的 python 代码中！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c2qqvu/automatically_add_print_statements_into_your/</link>
+      <description><![CDATA[嘿伙计们，我们时不时地发现自己在代码中添加打印来调试变量通过函数时的值。  警察会在运行时自动为你做这件事！  https://github.com/saurabh0719/constable 示例 - ` ``python import constable @constable.trace(&#39;a&#39;, &#39;b&#39;) def example(a, b): a = a + b c = a a = “实验 AST” b = c + b a = c + b return a example(5, 6) ``` 输出 - ``` constable: example: line 5 a = a + b a = 11 type(a) =  constable: example: line 7 a = “实验 AST” a = 试验 AST type(a) =  constable: 示例：第 8 行 b = c + b b = 17 type(b) =  常量：示例：第 9 行 a = c + b a = 28 type(a) =  常量：示例：第 3 行到第 10 行args: (5, 6) kwargs: {} 返回: 28 执行时间: 0.00018480 秒 ```   由   提交/u/saurabh0719  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c2qqvu/automatically_add_print_statements_into_your/</guid>
+      <pubDate>Sat, 13 Apr 2024 02:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>开源对数字制造的贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2n3w2/open_source_contribution_to_digital_manufacturing/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2d3et/linux_foundation_leads_the_fight_against_fauxpen/</guid>
       <pubDate>Fri, 12 Apr 2024 16:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 k-inv 的贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c281l2/looking_for_contributors_for_kinv/</link>
-      <description><![CDATA[大家好！我是 DevOps 工程师和开发人员小组的成员，他们正在编写 k-inv，这是一个完全开源的 kubernetes 混沌工程工具。 我们希望实现一些新功能，并且对该项目的炒作越来越多。我们也处于 CNCF 景观中 (https://landscape.cncf.io /?item=observability-and-analysis--chaos-engineering--kubeinvaders)。 该项目 100% 开源。在此处查找演示 https://kubeinvaders.platformengineering.it/ 并在此处查找源代码 https://github.com/lucky-sideburn/kubeinvaders 欢迎任何贡献！    由   提交 /u/luckysideburn2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c281l2/looking_for_contributors_for_kinv/</guid>
-      <pubDate>Fri, 12 Apr 2024 12:35:48 GMT</pubDate>
     </item>
     <item>
       <title>TaleCast - 我制作的基于 CLI 的播客管理器</title>
