@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 08:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 12:15:52 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] Weblog 项目是一个用 PHP 编写的基于纯文本的博客引擎，旨在 [...]</title>
+      <link>https://t.me/hn_summary/84346</link>
+      <description><![CDATA[显示 HN：Weblog – 基于纯文本的博客引擎，没有 HTML包括
+Weblog 项目是一个用 PHP 编写的基于纯文本的博客引擎，旨在使事情变得简单、轻便且易于设置，而不需要数据库。用户可以将博客文章编写为纯文本文件、通过 YAML 配置文件管理设置以及自定义显示设置。与其他博客平台不同，Weblog 不需要数据库来存储数据。用户可以通过克隆存储库、将帖子另存为 .txt 文件以及调整 config.yml 文件中的设置来轻松设置引擎。该项目是在 MIT 许可证下开源的，欢迎贡献。]]></description>
+      <guid>https://t.me/hn_summary/84346</guid>
+      <pubDate>Sat, 13 Apr 2024 12:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]OpenTofu 项目在代码指控后面临 HashiCorp 的法律阻力 [...]</title>
+      <link>https://t.me/hn_summary/84345</link>
+      <description><![CDATA[OpenTofu 项目否认 HashiCorp 的代码盗窃指控
+OpenTofu 项目因代码盗窃指控而面临 HashiCorp 的法律阻力。 HashiCorp 发出了一份停止函，声称 OpenTofu 使用 BSL 许可的 Terraform 代码违反了许可条款和知识产权。 OpenTofu 否认这些指控，称任何复制的代码都来自 MPL 许可的版本。他们已经采取了措施来防止进一步的问题，包括一个“污点小组”来审查贡献。尽管最初受到批评，InfoWorld 评论员 Matt Asay 仍认为 OpenTofu 的回应令人满意。 HashiCorp 正在评估回应，但没有进一步评论。这场争议凸显了开源许可和代码归属的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/84345</guid>
+      <pubDate>Sat, 13 Apr 2024 12:09:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在本关于如何在 Haskell 中发送 SMS 的教程中，我们探索设置 Haskell 开发 [...]</title>
+      <link>https://t.me/hn_summary/84344</link>
+      <description><![CDATA[如何在 Haskell 中发送短信 (2017) 
+在本关于如何在 Haskell 中发送短信的教程中，我们探索使用各种包管理器和 IDE 选项设置 Haskell 开发人员环境。虽然没有完整的 Haskell IDE，但许多 Haskellers 使用 Atom 和特定的包来进行语法突出显示和代码完成。其他选项包括 Emacs、Vim、Eclipse 和 Leksah。交互式 Glasgow Haskell 编译器在 GitHub 上开源，并为 Mac 和 PC 用户提供安装说明。本综合指南提供了 Haskell 编程入门和集成 Twilio 以实现 SMS 功能的分步方法。]]></description>
+      <guid>https://t.me/hn_summary/84344</guid>
+      <pubDate>Sat, 13 Apr 2024 11:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 该项目是 D.Atari 8 位 BASIC 中 Ray Tracer 的移植。</title>
+      <link>https://t.me/hn_summary/84343</link>
+      <description><![CDATA[引导扇区中的光线追踪器
+该项目是 D. Scott Williamson 将 Atari 8 位 BASIC 中的光线追踪器移植到 Oscar Toledo G 的引导扇区。该项目的目的是在简约环境中展示光线追踪器。它可用于学习 8086/8088 汇编程序，并针对现代计算机上的实时动画进行了优化。作者提到代码已针对大小进行了调整和优化，并提供了在各种模拟器上组装和运行该项目的说明。另外，作者还推荐了他们的书籍，以供进一步学习8086/8088汇编器。]]></description>
+      <guid>https://t.me/hn_summary/84343</guid>
+      <pubDate>Sat, 13 Apr 2024 11:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管非常棒，作为独立黑客和首席技术官，我更喜欢自托管我需要的所有工具。</title>
+      <link>https://t.me/hn_summary/84342</link>
+      <description><![CDATA[自托管非常棒
+自托管非常棒，作为独立黑客和首席技术官，我更喜欢自托管我需要的所有工具。借助高质量的自托管产品，我们可以节省资金并保持对数据的控制。我使用的自托管产品具有最先进的用户体验，让工作变得愉快。 Docker 使自托管变得更加容易，了解 Nginx 路由和 Linux 网络至关重要。为自托管产品提供资金可能具有挑战性，但提供具有企业功能的云版本可能会有所帮助。然而，一些自托管产品限制其免费版本，导致社区强烈反对。我的自托管方法涉及设置 n8n 这样的产品的基本步骤，只需几分钟。]]></description>
+      <guid>https://t.me/hn_summary/84342</guid>
+      <pubDate>Sat, 13 Apr 2024 11:39:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 德国之翼 9525 号航班是一场由副驾驶安德烈亚斯·卢比特 (Andreas Lubit) 故意造成的悲惨事故 [...]</title>
+      <link>https://t.me/hn_summary/84341</link>
+      <description><![CDATA[德国之翼 9525 航班
+德国之翼 9525 号航班是一起由副驾驶安德烈亚斯·卢比茨 (Andreas Lubitz) 故意造成的悲剧性事故，他有自杀倾向。事故导致 144 名乘客和 6 名机组人员全部死亡。尽管提出了新的安全建议，德国之翼航空和其他航空公司还是放弃了驾驶舱内始终配备两名授权人员的规定。围绕坠机事件的争议导致卢比茨的家人和官方调查结果产生了相互矛盾的意见。坠机地点位于法国阿尔卑斯山，交通不便，调查显示卢比茨故意锁上驾驶舱门并发起受控下降，导致悲剧性坠机。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84341</guid>
+      <pubDate>Sat, 13 Apr 2024 10:25:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 gekk.info 上的“Running DOS Apps on Windows from 1.0 to 95 (2020)”中，作者深入研究了 [...]</title>
+      <link>https://t.me/hn_summary/84340</link>
+      <description><![CDATA[在 Windows 1.0 到 95 上运行 DOS 应用程序 (2020)
+在 gekk 上的“在 Windows 上从 1.0 到 95 (2020) 运行 DOS 应用程序”中。 info，作者深入研究了Windows 95对DOS软件用户的影响。他们探索了在 Windows 95 上启动 DOS 应用程序的过程，重点介绍了程序设置和视频显示方面的变化。本文还讨论了程序信息文件 (PIF) 的演变以及 Windows 95 中 PIF 的自动创建。作者指出了令人惊讶的细节，例如默认字体更改以及单个程序副本向特定 PIF 的转变。总体而言，本文详细介绍了 Windows 95 上 DOS 应用程序的兼容性和功能。（摘要基于 54% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/84340</guid>
+      <pubDate>Sat, 13 Apr 2024 10:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么迈克尔·莫考克鄙视托尔金和 C.</title>
+      <link>https://t.me/hn_summary/84339</link>
+      <description><![CDATA[为什么迈克尔·莫考克鄙视托尔金和C.S.刘易斯
+迈克尔·莫考克 (Michael Moorcock) 的文章《史诗般的维尼》批评了托尔金和 C.S. 刘易斯等奇幻作家的感伤和异想天开的散文，将其与托儿所的摇篮曲进行了比较。莫科克认为，这种写作风格是保守和排外的，反映了对理想化过去的渴望。然而，莫科克自己的作品，例如《梅尔尼博内的埃里克》，既宏大又严肃，导致人们对他自己的标准产生质疑。虽然莫科克的批评很严厉，但并不总是连贯的，他反对感伤散文的论点可能经不起推敲。最终，莫科克的文章引发了关于奇幻文学的本质以及感伤在讲故事中的作用的争论。 （根据 36% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84339</guid>
+      <pubDate>Sat, 13 Apr 2024 09:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]计算机科学中的程序综合涉及构建一个满足 for [...]</title>
+      <link>https://t.me/hn_summary/84338</link>
+      <description><![CDATA[程序综合
+计算机科学中的程序综合涉及构建满足正式规范的程序，从而减轻程序员编写代码的负担。这个概念可以追溯到 1957 年的 Alonzo Church，多年来不断发展，采用了语法引导综合等现代方法。该框架使用逻辑规范和上下文无关语法来自动寻找解决方案。 1980 年的 Manna 和 Waldinger 框架专注于从一阶规范公式合成函数程序，通过构造保证正确性。程序综合在形式化验证及相关领域具有实际应用，使其成为21世纪研究​​和发展的重点领域。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84338</guid>
+      <pubDate>Sat, 13 Apr 2024 09:40:41 GMT</pubDate>
+    </item>
     <item>
       <title>Anbernic RG353V/S 是一款手持式游戏系统，可转变为袖珍 Li [...]</title>
       <link>https://t.me/hn_summary/84337</link>
@@ -12,78 +84,6 @@
 Anbernic RG353V/S 是一款手持游戏系统，可以通过 AnberDeck 模组转变成袖珍 Linux 终端。 Reddit 用户 gthing 详细介绍了他们如何添加键盘和 Ubuntu Linux 来创建这款独特的设备。虽然该项目非常聪明且令人惊讶，但它确实存在一些缺点，例如由于添加的组件而导致成品厚度增加。尽管如此，AnberDeck 提供了一种创造性的方法，将游戏机重新转变为功能强大的手持电脑。 Anbernic RG353V/S 在速卖通上的售价约为 74 美元，在 Anbernic 网站上的售价约为 88 美元。]]></description>
       <guid>https://t.me/hn_summary/84337</guid>
       <pubDate>Sat, 13 Apr 2024 08:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 翼地效应船（飞机？</title>
-      <link>https://t.me/hn_summary/84336</link>
-      <description><![CDATA[翼地效应船（飞机？）2018
-Wiget Works AirFish 8 (AF8) 是一款独特的 8-10 座 WIG 水上飞机，专为民用运输而设计。它由紧凑型 V8 汽车发动机提供动力，拥有令人印象深刻的性能指标，包括 500 米的起飞距离和 106 节的最高速度。它由 2 名船员操作，航程为 300 海里，高度可达 7 米。未来主义思想领袖和科普博主 Brian Wang 在他的博客上重点介绍了这款创新飞机 Nextbigfuture.com，以涵盖太空、机器人和人工智能等颠覆性技术而闻名。]]></description>
-      <guid>https://t.me/hn_summary/84336</guid>
-      <pubDate>Sat, 13 Apr 2024 07:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]育碧因吊销《飙酷车神》的许可而引发争议，阻止所有者 [...]</title>
-      <link>https://t.me/hn_summary/84335</link>
-      <description><![CDATA[育碧在《飙酷车神》关闭几周后将取消人们的许可
-育碧因吊销《飙酷车神》的许可而引发争议，甚至在游戏关闭后也阻止所有者安装该游戏。粉丝们感到愤怒，一些人称这是“游戏史上最悲伤、最残酷的决定”。尽管如此，一个名为《The Crew Offline+Online Server Emulation》的社区项目正在努力让游戏恢复到可玩的状态。这种情况凸显了数字所有权的脆弱性以及游戏中保存的重要性。 “停止杀戮游戏”活动旨在解决此问题，并确保即使在支持结束后仍然可以玩在线游戏。]]></description>
-      <guid>https://t.me/hn_summary/84335</guid>
-      <pubDate>Sat, 13 Apr 2024 07:44:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>scottarc.blog 上的博客文章深入探讨了操作中 xz 后门事件的后果 [...]</title>
-      <link>https://t.me/hn_summary/84334</link>
-      <description><![CDATA[开源、供应链和熊市
-scottarc.blog 上的博客文章深入探讨了 xz 事件的后果开源社区的后门事件，重点关注开发人员的倦怠和企业对志愿者劳动力的依赖。作者建议将开源开发者和企业软件包提供商分开，提出一种新的网络保险模式来资助开源开发。这一独特的想法旨在为开发商提供可持续的资金流，同时解决供应链风险。帖子强调作者个人观点，不代表任何雇主的意见。]]></description>
-      <guid>https://t.me/hn_summary/84334</guid>
-      <pubDate>Sat, 13 Apr 2024 07:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 同卵双胞胎萨姆·费特斯 (Sam Fetters) 和约翰·费特斯 (John Fetters) 尽管成长过程中智慧过人，却走上了不同的道路 [...]</title>
-      <link>https://t.me/hn_summary/84333</link>
-      <description><![CDATA[同卵双胞胎都患有自闭症，却走上了不同的道路
-尽管患有自闭症，同卵双胞胎萨姆·费特斯和约翰·费特斯却走上了不同的道路。山姆是一名热衷于跑马拉松的大学生，而约翰在一所特殊学校上学，喜欢观看儿童节目。这对双胞胎的独特经历引发了人们对自闭症本质的疑问，以及自闭症如何在拥有相同基因的兄弟姐妹中以不同的方式表现出来。研究表明，受孕后的事件可能会影响自闭症症状的严重程度，从而揭示遗传和环境因素之间复杂的相互作用。尽管存在分歧，山姆和约翰却有着超越他们个人挑战的特殊纽带。 （根据故事文本的 76% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84333</guid>
-      <pubDate>Sat, 13 Apr 2024 07:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者讨论了预测试版 Ubuntu 24.04 SP 上 grub 软件包更新的一个令人困惑的问题 [...]</title>
-      <link>https://t.me/hn_summary/84332</link>
-      <description><![CDATA[目前还不清楚 grub 软件包更新在 Ubuntu 上的工作原理
-作者讨论了预测试版 Ubuntu 24.04 上 grub 软件包更新的一个令人困惑的问题，特别是针对具有软件 RAID 根磁盘和 BIOS MBR 引导的系统。更新过程中收到的错误消息会突出显示，并提供涉及重新配置 grub 包的解决方法。作者指出了 grub-install 中不清楚的错误消息以及 Ubuntu 22.04 和 24.04 之间的差异。还讨论了“grub-pc”包 postinst 脚本的复杂性，这使得普通用户很难进行故障排除。此外，令人惊讶的是，Ubuntu 的 grub 软件包在软件包更新期间会悄悄更新 EFI 系统分区。]]></description>
-      <guid>https://t.me/hn_summary/84332</guid>
-      <pubDate>Sat, 13 Apr 2024 06:55:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] www.typography.com 上的复杂数据字体介绍了模块化装饰物的使用 [...]</title>
-      <link>https://t.me/hn_summary/84331</link>
-      <description><![CDATA[复杂数据的字体
-www.typography.com 上的复杂数据字体介绍了在 Sentinel 字体中使用模块化装饰。这些装饰旨在增强复杂数据的呈现，使其更易于阅读和理解。 Sentinel 的独特设计允许以富有创意且具有视觉吸引力的方式显示信息。然而，有些人可能会发现模块化装饰品的使用存在争议，因为它可能会分散注意力或不必要。总体而言，Sentinel 提供了一种巧妙的解决方案，以视觉上引人入胜的方式呈现复杂数据。]]></description>
-      <guid>https://t.me/hn_summary/84331</guid>
-      <pubDate>Sat, 13 Apr 2024 06:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】德文AI第一人工智能软件工程师是个弥天大谎？</title>
-      <link>https://t.me/hn_summary/84330</link>
-      <description><![CDATA[Devin AI优先的人工智能软件工程师是个弥天大谎？
-gosummarize.com 上的内容讨论了围绕 Devin 的争议，被誉为“第一位人工智能软件工程师”。作者 Carl 批评了有关 Devin 功能的炒作和误导性说法，强调它的表现并不像 Upwork 上宣传的那样。卡尔强调了人工智能开发中真实性的重要性以及传播虚假信息的潜在后果。他还深入研究了人工智能可能遇到的软件工程的复杂性，例如与客户的有效沟通。总体而言，这些内容揭示了人工智能行业夸大声明的危险以及透明度和准确性的必要性。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84330</guid>
-      <pubDate>Sat, 13 Apr 2024 06:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>本文讨论了一种常见的误解，即 PDF 文件中的 JavaScript 会构成安全威胁。</title>
-      <link>https://t.me/hn_summary/84329</link>
-      <description><![CDATA[浏览器安全漏洞：PDF 中的 JavaScript
-本文讨论了一种常见的误解，即 PDF 文件中的 JavaScript 会构成安全威胁。虽然 PDF 中的 JavaScript 确实可以运行，但与 HTML 文档相比，其功能极其有限。这种混淆是由于 PDF 和 HTML 文档中的 JavaScript 之间的安全风险差异而产生的。本文强调了限制 PDF 文件中的 JavaScript 以尊重用户设置的重要性，并讨论了不同浏览器如何处理此问题。令人惊讶的是，Firefox 的全局 JavaScript 切换不会影响其 PDF 查看器内的脚本，而 Chrome 和 Edge 可以正确处理它。此外，Chromium 目前会忽略 PDF 响应中的 Content-Security-Policy 标头，这会导致用户感到困惑，并给 Web 开发人员带来烦恼。]]></description>
-      <guid>https://t.me/hn_summary/84329</guid>
-      <pubDate>Sat, 13 Apr 2024 05:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] joe-steel.com 上的 YouTube Screen Stealer 深入探讨了围绕 YouT 的争议 [...]</title>
-      <link>https://t.me/hn_summary/84328</link>
-      <description><![CDATA[YouTube 的屏幕窃取程序
-joe-steel.com 上的 YouTube Screen Stealer 深入研究了围绕 Apple TV 上 YouTube 应用程序的争议，该应用程序以压缩静态图像的幻灯片放映取代了备受喜爱的空中屏幕保护程序。作者强调了广告和促销内容对曾经平静的屏幕保护程序体验的侵入。这篇文章还讨论了 Roku 在暂停的视频流中注入广告的潜在举措，进一步强调了广告对媒体消费各个方面的侵蚀。作者提供了一种绕过 YouTube 屏幕保护程序的解决方法，展示了数字时代广告现状的沮丧和失望。]]></description>
-      <guid>https://t.me/hn_summary/84328</guid>
-      <pubDate>Sat, 13 Apr 2024 05:51:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
