@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 20:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:32:00 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Cipherleaks 作为针对 AMD SEV-SNP 的首次演示攻击引起了轰动，揭示了 [...]</title>
-      <link>https://t.me/hn_summary/84262</link>
-      <description><![CDATA[Cipherleaks 是针对 AMD SEV-SNP 的首个已证实的攻击
-Cipherleaks 作为针对 AMD SEV-SNP 的首次演示攻击引起了轰动，揭示了 SEV 内存加密中的易受攻击的设计功能。通过利用加密的 VM 保存区域 (VMSA) 的密文作为侧通道，Cipherleaks 能够突破最新 OpenSSL 库的恒定时间 RSA 和 ECDSA 实现。这次攻击凸显了 AMD SEV-SNP 技术的潜在安全风险，引起了网络安全社区用户和专家的担忧。]]></description>
-      <guid>https://t.me/hn_summary/84262</guid>
-      <pubDate>Fri, 12 Apr 2024 20:56:50 GMT</pubDate>
+      <title>[媒体]微软宣布正在测试 Windows 11 开始菜单中的广告，具体 [...]</title>
+      <link>https://t.me/hn_summary/84280</link>
+      <description><![CDATA[Microsoft 开始在 Windows 11“开始”菜单中测试广告 
+微软宣布正在 Windows 11 的“开始”菜单中测试广告，特别是在“推荐”部分。此举在 Windows Insider 中引发了争议，因为广告将推荐来自 Microsoft Store 的应用程序。虽然用户可以在“设置”部分禁用这些应用程序促销，但 Microsoft 可能会默认启用它们。这并不是微软第一次在 Windows 中尝试广告，之前他们曾在 Windows 10 的文件资源管理器和锁屏界面中测试过广告。用户反馈是否会导致微软从最终版本的 Windows 中删除这些广告还有待观察。 Windows 11。]]></description>
+      <guid>https://t.me/hn_summary/84280</guid>
+      <pubDate>Sat, 13 Apr 2024 00:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国在真空管中成功测试了磁悬浮列车，旨在提高速度[...]</title>
-      <link>https://t.me/hn_summary/84261</link>
-      <description><![CDATA[中国成功在真空管道中测试磁浮列车，速度有望达到 4 千公里/小时
-中国已成功在真空管中测试磁悬浮列车，速度可达每小时4000公里。这列革命性的列车采用磁悬浮技术，时速可达 623 公里，比任何其他正在运营的列车都要快。该列车使用磁铁悬挂在低真空管道中，无需车轮和传统轨道。虽然高速列车的潜在好处是巨大的，但挑战包括高能源需求、噪音问题和高昂的成本。尽管这项新技术令人兴奋，但专家们对大规模实施磁悬浮列车的可行性和实用性持谨慎态度。]]></description>
-      <guid>https://t.me/hn_summary/84261</guid>
-      <pubDate>Fri, 12 Apr 2024 20:55:47 GMT</pubDate>
+      <title>[媒体]谷歌与以色列国防部建立了深化的合作伙伴关系，提供 clo [...]</title>
+      <link>https://t.me/hn_summary/84279</link>
+      <description><![CDATA[Google 合同显示与以色列国防部达成的协议
+谷歌与以色列国防部有着不断深化的合作关系，提供云计算服务和咨询援助。备受争议的价值 12 亿美元的 Nimbus 项目涉及谷歌和亚马逊向以色列政府提供技术，有报道称他们无法阻止军事用途。谷歌坚称其工作是用于民用目的，但最近的指控称以色列军方正在使用人工智能进行空袭目标。国防部正在扩展多个单位的 Google Cloud 访问权限，由 Google 提供架构设计和自动化服务。两名谷歌员工辞职以抗议 Nimbus 项目。 Google Cloud 的军事用途程度仍不清楚。]]></description>
+      <guid>https://t.me/hn_summary/84279</guid>
+      <pubDate>Sat, 13 Apr 2024 00:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎加入我们的 SIGBOVIK 2024，这是一场庆祝 Harry Bovik 工作的奇特学术会议。</title>
-      <link>https://t.me/hn_summary/84260</link>
-      <description><![CDATA[Sigbovik 2024
-欢迎加入我们的 SIGBOVIK 2024，这是一场庆祝 Harry Bovik 工作的奇特学术会议。今年的活动将重点介绍粘指操作、自然智能和追溯数据。该会议于 4 月 5 日在卡内基梅隆大学举行，欢迎笑话和严肃领域的非传统研究。论文、演示文稿和评论均已被接受，提交截止日期已临近。与会者可以期待有趣的氛围和独特的学术讨论。不要错过这一独一无二的活动，它模糊了幽默和学术界之间的界限。订阅邮件列表以获取更新，如有任何问题请联系组织者。]]></description>
-      <guid>https://t.me/hn_summary/84260</guid>
-      <pubDate>Fri, 12 Apr 2024 20:42:40 GMT</pubDate>
+      <title>[媒体]弗兰克是一家高端存储阵列供应商的技术支持人员，他发现自己陷入了困境 [...]</title>
+      <link>https://t.me/hn_summary/84278</link>
+      <description><![CDATA[支持合同要求技术人员在 5000 美元/晚的酒店闲逛房间
+Frank 是一家高端存储阵列供应商的技术支持人员，由于支持合同激活，周末他住在一间 5,000 美元/晚的酒店房间里。客户司法部希望他随时待命，以防存储阵列出现进一步问题。尽管住宿条件很豪华，弗兰克还是准备在需要时立即采取行动。法院在周一很快做出了裁决，弗兰克在周二就回到了工作岗位，并因其努力而获得了奖金，并在奢华中度过了一个难忘的周末。这个故事是 IT 专业人员从技术支持事件中受益的罕见例子。]]></description>
+      <guid>https://t.me/hn_summary/84278</guid>
+      <pubDate>Sat, 13 Apr 2024 00:13:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国的洗脑史是一段离奇扭曲的故事 [...]</title>
-      <link>https://t.me/hn_summary/84259</link>
-      <description><![CDATA[一段简短而怪异的洗脑历史
-美国洗脑的历史是一个离奇而扭曲的故事，始于朝鲜战争，并逐渐演变成对激进行为的包罗万象的解释。从声称电视是洗脑机到相信高中正在将孩子们变成共产主义同情者，精神控制的概念在社会和政治领域占据了主导地位。中央情报局的 MK-Ultra 项目深入研究了记忆擦除、精神控制和真理血清药物领域，导致了诸如“午夜高潮行动”和心理学家唐纳德·卡梅伦的工作等有争议的实验。在追求控制思想的过程中，科学与中世纪酷刑之间的界限变得模糊。]]></description>
-      <guid>https://t.me/hn_summary/84259</guid>
-      <pubDate>Fri, 12 Apr 2024 20:41:35 GMT</pubDate>
+      <title>OpenEQA 项目在基础模型时代引入了具体问答。</title>
+      <link>https://t.me/hn_summary/84277</link>
+      <description><![CDATA[OpenEQA：基础模型时代的体现问答
+OpenEQA 项目在基础模型时代引入了具体问答。这种创新方法在计算机视觉和模式识别会议 (CVPR) 上提出，它结合了人工智能和机器人技术，使机器能够与环境交互并根据观察结果回答问题。 OpenEQA 拥有一支由研究人员和专家组成的多元化团队，突破了人工智能功能的界限，并为现实世界的应用开辟了新的可能性。请继续关注这个令人兴奋的领域的最新进展。]]></description>
+      <guid>https://t.me/hn_summary/84277</guid>
+      <pubDate>Sat, 13 Apr 2024 00:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，大约一年前，我和妻子坚定了信念，辞去了红帽的工作 [...]</title>
-      <link>https://t.me/hn_summary/84258</link>
-      <description><![CDATA[显示 HN：Mazelit - 我和妻子发布了我们的第一款游戏&lt; /a&gt;
-大家好，大约一年前，我和妻子坚定了信念，辞去了红帽的工作，去追求创造游戏的梦想。经过多次挑战和学习经验后，我们很高兴地宣布在 Steam 上发布我们的第一款游戏《Mazelit》。演示版可免费玩到 8 级，完整版游戏提供 80 个级别的游戏玩法。我们在 Godot 4.2 中仅用了 3 个月就开发了这款游戏，并以 DLC 的形式向那些有兴趣探索我们如何制作游戏的人提供整个源代码。检查一下并让我们知道您的反馈！干杯，祝周末愉快！]]></description>
-      <guid>https://t.me/hn_summary/84258</guid>
-      <pubDate>Fri, 12 Apr 2024 20:39:31 GMT</pubDate>
+      <title>[媒体]2024 年 3 月 29 日，XZ 压缩实用程序中发现恶意后门，[...]</title>
+      <link>https://t.me/hn_summary/84276</link>
+      <description><![CDATA[XZ后门故事 – 初步分析
+2024 年 3 月 29 日，XZ 压缩实用程序中发现恶意后门，对使用 OpenSSH 的 Linux 发行版构成重大威胁。与之前的供应链攻击不同，这次事件涉及多阶段操作，几乎损害了全球的 SSH 服务器。该后门是通过修改构建基础设施引入的，隐藏在测试文件中，并在编译过程中与合法库链接。主要供应商在不知情的情况下运送了受感染的组件，导致严重性评分为 10。该后门旨在向 SSH 服务器引入远程代码执行功能。事件的时间表和对后门行为的详细分析揭示了一个复杂且令人震惊的违规行为。 （根据故事文本的 53% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84276</guid>
+      <pubDate>Sat, 13 Apr 2024 00:08:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由于缺乏用户参与度，Google One VPN 将于今年晚些时候关闭，d [...]</title>
-      <link>https://t.me/hn_summary/84257</link>
-      <description><![CDATA[Google One VPN 将于今年晚些时候关闭&lt; br/&gt;
-尽管所有 Google One 计划的价格都更加实惠，但由于缺乏用户参与，Google One VPN 将于今年晚些时候关闭。现有用户将被引导至第三方 VPN 替代方案。不过，Google 仍将通过 Google Fi 蜂窝服务和 Pixel 7 或更新型号的 Pixel 设置提供 VPN 功能。在其他消息中，有传言称苹果即将推出的 iPhone 16 系列将配备更大的电池容量，而下一代 Apple TV 也将进行硬件升级。此外，iOS 18 可能会包含一个新的 Safari 浏览助手，利用 iCloud Private Relay 基础设施。]]></description>
-      <guid>https://t.me/hn_summary/84257</guid>
-      <pubDate>Fri, 12 Apr 2024 20:38:27 GMT</pubDate>
+      <title>[媒体] HP 200 LX 是 1994 年推出的一款成功的掌上电脑，运行 MS-DOS 和 [...]</title>
+      <link>https://t.me/hn_summary/84275</link>
+      <description><![CDATA[HP 200LX 及相关掌上电脑
+HP 200 LX 是 1994 年推出的一款成功的掌上电脑，运行 MS-DOS 并提供独特的外形尺寸，将台式电脑挤进手掌中。惠普在 1999 年继续销售它，使其成为 20 世纪 90 年代运行时间最长的计算机型号之一。尽管不像 Palm Pilot 或 Blackberry 等其他移动平台那样华丽，HP 200 LX 仍因其实用性和尖端技术而拥有一批忠实的追随者。 HP 200 LX 能够随时随地运行有用的程序并与全尺寸计算机交换数据，在移动计算领域取得了悄然的成功。]]></description>
+      <guid>https://t.me/hn_summary/84275</guid>
+      <pubDate>Fri, 12 Apr 2024 23:58:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一名 TikToker 发现自己被困在特斯拉 Model 3 里 40 分钟，天气炎热 [...]</title>
-      <link>https://t.me/hn_summary/84256</link>
-      <description><![CDATA[特斯拉 Model 3 在软件更新期间将 TikToker 困在 115 度的汽车内
-一位 TikTok 用户在软件更新期间发现自己被困在特斯拉 Model 3 车内，在酷热的天气下呆了 40 分钟，一天之内就有超过 1,070 万次观看。尽管遵循特斯拉的指导方针，在安装过程中不要打开门窗，但潜在的危险疏忽还是让她被困在里面。相比之下，Lucid Motors 要求乘客在更新之前退出。这一事件凸显了特斯拉需要改进安全措施，尤其是在全球气温不断上升的情况下。这一经历并没有阻止这位 TikToker，她计划继续拥有她的特斯拉。业主在极端条件下启动更新时应谨慎，以避免类似情况的发生。]]></description>
-      <guid>https://t.me/hn_summary/84256</guid>
-      <pubDate>Fri, 12 Apr 2024 20:37:23 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，中西部工业区的工人们拒绝了卢克 [...]</title>
+      <link>https://t.me/hn_summary/84274</link>
+      <description><![CDATA[廉价抵押贷款阻碍工人搬迁以获得 25 万美元的工作 
+令人惊讶的是，中西部工业区的工人们由于 30 年期抵押贷款低廉而拒绝了美国南部 25 万美元的丰厚工作机会。这一趋势给试图吸引管理人员搬迁的雇主带来了挑战，因为鉴于住房成本上涨以及大流行后远程或混合工作安排的日益普及，工人们选择留在离家较近的地方。 Challenger, Gray &amp; Christmas Inc. 高级副总裁 Andy Challenger 强调了雇主在紧张的劳动力市场中招聘人才所面临的困难。]]></description>
+      <guid>https://t.me/hn_summary/84274</guid>
+      <pubDate>Fri, 12 Apr 2024 23:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]佛罗里达州州长罗恩·德桑蒂斯签署了一项新法律，禁止城市和县 [...]</title>
-      <link>https://t.me/hn_summary/84255</link>
-      <description><![CDATA[佛罗里达州签署新法律，防止工人免受酷热侵害
-佛罗里达州州长罗恩·德桑蒂斯签署了一项新法律，禁止各市县为在该州极端高温下劳动的工人提供保护。这项法律引发了争议，因为它阻止了迈阿密戴德县议程上的当地防热规定，该县估计有 30 万名户外工作者居住。这些保护措施的丧失对于一直在争取水、阴凉和休息时间等基本权利的活动人士和工人来说是一个重大打击。新法律对佛罗里达州的工人安全来说是一个重大挫折，佛罗里达州的高温风险因气候变化而增加。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84255</guid>
-      <pubDate>Fri, 12 Apr 2024 20:36:20 GMT</pubDate>
+      <title>[媒体]曾经坚持让员工重返办公室全职工作的首席执行官现在已经不再是[...]</title>
+      <link>https://t.me/hn_summary/84273</link>
+      <description><![CDATA[失败的首席执行官现在承认混合工作将继续存在
+曾经坚持让员工回到办公室全职工作的首席执行官们现在承认混合工作将继续存在。毕马威 (KPMG) 的一项调查发现，只有三分之一的首席执行官预计在未来三年内全面重返办公室，这与去年相比发生了重大转变，当时 62% 的首席执行官预计到 2026 年将结束在家工作。在遭遇阻力后，他们改变了主意由于重返办公室的要求，公司面临着更高的离职率和招聘困难。这种向混合工作模式的转变被认为对于未来吸引和留住顶尖人才至关重要。]]></description>
+      <guid>https://t.me/hn_summary/84273</guid>
+      <pubDate>Fri, 12 Apr 2024 23:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]众议院投票决定延长和扩大有争议的美国窃听计划 [...]</title>
-      <link>https://t.me/hn_summary/84254</link>
-      <description><![CDATA[众议院投票延长和扩大美国主要间谍计划&lt; /a&gt;
-众议院投票决定延长和扩大有争议的美国窃听计划，即外国情报监视法 (FISA) 第 702 条，允许政府拦截美国人与海外外国人之间的通信。该计划因被政府滥用而闻名，并因可能侵犯隐私权而面临批评。众议院法案还包括扩大通信服务提供商的法定定义，这一举措已受到 FISA 专家的警告。尽管担心政府过度干预和滥用权力，众议院还是拒绝了一项修正案，该修正案将对联邦机构获取美国人数据施加新的搜查令要求。]]></description>
-      <guid>https://t.me/hn_summary/84254</guid>
-      <pubDate>Fri, 12 Apr 2024 20:25:13 GMT</pubDate>
+      <title>询问 HN：用于谈判/讨论固定报价范围项目的工具是什么？</title>
+      <link>https://t.me/hn_summary/84272</link>
+      <description><![CDATA[询问 HN：用于谈判/讨论固定报价范围项目的工具？
+作为一名独立的自由网络开发人员，谈判和讨论固定报价的范围项目可能是一个乏味的过程。客户经常添加新功能、更改现有功能并通过多个电子邮件线程提供反馈，这使得跟踪所有内容变得困难。虽然 Github Issues 看起来像是一个解决方案，但说服客户使用它进行业务讨论可能具有挑战性。一些开发人员尝试使用电子表格来跟踪功能和讨论，但它缺乏格式，并且很难合并屏幕截图。如果您有任何在此过程中对您有用的工具或技术，请​​分享您的见解。]]></description>
+      <guid>https://t.me/hn_summary/84272</guid>
+      <pubDate>Fri, 12 Apr 2024 22:57:09 GMT</pubDate>
     </item>
     <item>
-      <title>使用我们独特的嵌套 bul [...] 在我们的网站上发现畅销书的章节级摘要</title>
-      <link>https://t.me/hn_summary/84253</link>
-      <description><![CDATA[显示 HN：使用法学硕士的畅销书的章节级别摘要
-在我们的网站上发现畅销书的章节级摘要，使用我们独特的嵌套项目符号格式轻松导航和吸收关键思想。从《原子习惯》和《埃隆·马斯克》等热门书籍，到《权力 48 定律》和《聪明的投资者》等经典书籍，我们都能满足您的需求。如果您没有看到列出的您最喜欢的书名，请索取新书摘要。还包括有争议的话题，如“核战争：一个场景”和令人惊讶的读物，如“焦虑的一代”。不要错过这个巧妙的方法，以简洁的形式获取畅销书的精髓。立即查看我们的网站！]]></description>
-      <guid>https://t.me/hn_summary/84253</guid>
-      <pubDate>Fri, 12 Apr 2024 20:02:03 GMT</pubDate>
+      <title>[媒体] Volexity 最近发现了 Palo Alto N 漏洞的零日利用 [...]</title>
+      <link>https://t.me/hn_summary/84271</link>
+      <description><![CDATA[CVE-2024-3400 Palo Alto Networks PAN-OS 零日漏洞剥削
+Volexity 最近发现了 Palo Alto Networks PAN-OS 中漏洞的零日利用，允许通过 GlobalProtect 功能执行未经身份验证的远程代码。名为 UTA0218 的威胁参与者能够破坏防火墙设备、创建反向 shell，并在受害者组织内横向移动。攻击者试图部署一个名为 UPSTYLE 的自定义 Python 后门，从而在设备上启用更多命令。 Palo Alto Networks 已发布针对 CVE-2024-3400 的公告，预计将于 2024 年 4 月 14 日修复。Volexity 建议受影响的组织立即采取行动以保护其系统和网络。 （根据故事文本的 37% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84271</guid>
+      <pubDate>Fri, 12 Apr 2024 22:29:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
