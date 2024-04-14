@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 14 Apr 2024 03:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 07:52:50 GMT</lastBuildDate>
+    <item>
+      <title>寻找一个可以作为 UX/UI 设计师做出贡献的开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c3m7uv/looking_for_an_open_source_project_to_contribute/</link>
+      <description><![CDATA[标题基本   由   提交/u/lweria  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c3m7uv/looking_for_an_open_source_project_to_contribute/</guid>
+      <pubDate>Sun, 14 Apr 2024 05:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sentinel - 用 Python 构建的数字取证工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c3kwqw/sentinel_a_digital_forensics_tool_built_in_python/</link>
+      <description><![CDATA[大家好！我目前正在开发一个名为 Sentinel 的工具。最初我打算成为著名取证操作系统的一部分，但我决定作为目前唯一的开发人员继续该项目。 Sentinel 是一款用于调查协助的全功能工具，从 API 利用到编译数据。该工作仍在进行中，但请随时查看此处的 GitHub 页面。 Sentinel 具有许多功能，从 IP 跟踪到 Virustotal 扫描，所有这些功能都可以在您的终端上实现！ 在此处查看 Sentinel！ 在此处查看 Sentinel！ a&gt;   由   提交/u/TheMaestro810   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c3kwqw/sentinel_a_digital_forensics_tool_built_in_python/</guid>
+      <pubDate>Sun, 14 Apr 2024 04:25:42 GMT</pubDate>
+    </item>
     <item>
       <title>开源而非机器人垃圾邮件替代 Reddit</title>
       <link>https://www.reddit.com/r/opensource/comments/1c3fid8/open_source_not_bot_spammed_alternative_to_reddit/</link>
@@ -48,9 +62,9 @@
       <pubDate>Sat, 13 Apr 2024 09:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>在调试时自动将 print 语句添加到您的 python 代码中！</title>
+      <title>调试时自动将 print 语句添加到您的 python 代码中！</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2qqvu/automatically_add_print_statements_into_your/</link>
-      <description><![CDATA[嘿伙计们，我们时不时地发现自己在代码中添加打印来调试变量通过函数时的值。  警察会在运行时自动为你做这件事！  https://github.com/saurabh0719/constable 示例 - ` ``python import constable @constable.trace(&#39;a&#39;, &#39;b&#39;) def example(a, b): a = a + b c = a a = “实验 AST” b = c + b a = c + b return a example(5, 6) ``` 输出 - ``` constable: example: line 5 a = a + b a = 11 type(a) =  constable: example: line 7 a = “实验 AST” a = 试验 AST type(a) =  constable: 示例：第 8 行 b = c + b b = 17 type(b) =  常量：示例：第 9 行 a = c + b a = 28 type(a) =  常量：示例：第 3 行到第 10 行args: (5, 6) kwargs: {} 返回: 28 执行时间: 0.00018480 秒 ```   由   提交/u/saurabh0719  [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我们时不时地发现自己在代码中添加打印内容，以在变量传递函数时调试变量的值。  警察会在运行时自动为你做这件事！  https://github.com/saurabh0719/constable 示例 - ` ``python import constable @constable.trace(&#39;a&#39;, &#39;b&#39;) def example(a, b): a = a + b c = a a = “实验 AST” b = c + b a = c + b return a example(5, 6) ``` 输出 - ``` constable: example: line 5 a = a + b a = 11 type(a) =  constable: example: line 7 a = “实验 AST” a = 试验 AST type(a) =  constable: 示例：第 8 行 b = c + b b = 17 type(b) =  常量：示例：第 9 行 a = c + b a = 28 type(a) =  常量：示例：第 3 行到第 10 行args: (5, 6) kwargs: {} 返回: 28 执行时间: 0.00018480 秒 ```   由   提交/u/saurabh0719  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2qqvu/automatically_add_print_statements_into_your/</guid>
       <pubDate>Sat, 13 Apr 2024 02:02:38 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>PDF 阅读器可以跨应用程序目录添加书签吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</link>
-      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在 Windows Acrobat 目录等其他应用程序中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，并且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
+      <description><![CDATA[我在 Android 上使用 Xodo 阅读 PDF。有一个书签功能可以保存重要的章节和注释。 但是，在其他应用程序（例如 Windows Acrobat 的目录）中打开这些书签时，这些书签不会显示。  我正在寻找一款可以执行此操作的 Android 应用，并且最好是免费的。   由   提交 /u/Far-Philosopher-9984   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2hr05/pdf_reader_that_can_bookmark_across_apps_table_of/</guid>
       <pubDate>Fri, 12 Apr 2024 19:20:33 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 12 Apr 2024 16:20:38 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 基金会领导对抗假笔源代码的斗争</title>
+      <title>Linux 基金会领导对抗仿笔源代码的斗争</title>
       <link>https://www.reddit.com/r/opensource/comments/1c2d3et/linux_foundation_leads_the_fight_against_fauxpen/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c2d3et/linux_foundation_leads_the_fight_against_fauxpen/</guid>
       <pubDate>Fri, 12 Apr 2024 16:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>TaleCast - 我制作的基于 CLI 的播客管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c27269/talecast_a_cli_based_podcast_manager_i_made/</link>
-      <description><![CDATA[     ＆#32;由   提交/u/gittor123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c27269/talecast_a_cli_based_podcast_manager_i_made/</guid>
-      <pubDate>Fri, 12 Apr 2024 11:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源NAS？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</link>
-      <description><![CDATA[我想要一个开源 NAS，但是 * 预构建的解决方案不自由 * 我可以使用 TrueNas 和类似的塔式设备制作自己的 NAS PC，但我没有空间*我可以使用 USB 托架，但它们不可靠。 我只是想要一个 Nas 大小的 libre 解决方案，哈哈。有类似的吗？   由   提交/u/NatSpaghettiAgency   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c26dji/open_source_nas/</guid>
-      <pubDate>Fri, 12 Apr 2024 11:06:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
