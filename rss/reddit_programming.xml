@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 14 Apr 2024 07:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 11:17:46 GMT</lastBuildDate>
+    <item>
+      <title>反对在测试之间清除数据库的论点</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3r64n/the_argument_against_clearing_the_database/</link>
+      <description><![CDATA[ 由   提交/u/hongminhee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3r64n/the_argument_against_clearing_the_database/</guid>
+      <pubDate>Sun, 14 Apr 2024 11:15:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为plantuml制作了一个dracula主题，希望你能使用！</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3r53d/i_made_a_dracula_theme_for_plantuml_i_hope_you/</link>
+      <description><![CDATA[ 由   提交 /u/Sprutnums   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3r53d/i_made_a_dracula_theme_for_plantuml_i_hope_you/</guid>
+      <pubDate>Sun, 14 Apr 2024 11:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的编程笔记（我累了）。</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3r3ld/my_notes_on_programming_im_tired/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3r3ld/my_notes_on_programming_im_tired/</guid>
+      <pubDate>Sun, 14 Apr 2024 11:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mertix：Java 文件系统库</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3p70l/mertix_a_java_filesystem_library/</link>
+      <description><![CDATA[ 由   提交/u/lonew0lf-G   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3p70l/mertix_a_java_filesystem_library/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关为电子商务网站构建同步浏览和语音聊天功能的建议</title>
+      <link>https://www.reddit.com/r/programming/comments/1c3o6mp/seeking_advice_on_building_sync_browsing_and/</link>
+      <description><![CDATA[大家好 我今天与您联系，寻求有关为我的电子商务网站构建两个特定功能的建议：同步浏览和语音聊天。我相信这些功能将显着增强用户体验并提高客户参与度。 对于同步浏览，我设想一种共同浏览体验，客户可以邀请朋友或家人一起浏览网站、讨论产品，并共同做出决定。理想情况下，此功能应包括语音聊天等实时通信工具。 您可以根据您对这些功能的经验或知识分享任何见解、建议或最佳实践，我将不胜感激。具体来说，我有兴趣了解： 实现同步浏览和语音聊天功能的可行性和潜在挑战。 用于构建这些功能的推荐工具、平台或服务。  构建无缝的用户体验并维护隐私和安全。 预先感谢您的时间和专业知识。我期待听到您的想法并从您的经验中学习。   由   提交/u/shotolic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c3o6mp/seeking_advice_on_building_sync_browsing_and/</guid>
+      <pubDate>Sun, 14 Apr 2024 07:53:45 GMT</pubDate>
+    </item>
     <item>
       <title>探索适合您的项目的各种 API</title>
       <link>https://www.reddit.com/r/programming/comments/1c3o552/explore_diverse_apis_for_your_projects/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c3lqlz/setting_up_postgresql_for_running_integration/</guid>
       <pubDate>Sun, 14 Apr 2024 05:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>zkSNARKs 和 zkSTARKs：一种新颖的可验证计算模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lql5/zksnarks_zkstarks_a_novel_verifiable_computation/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lql5/zksnarks_zkstarks_a_novel_verifiable_computation/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算的乐趣</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqkk/the_joy_of_computing/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqkk/the_joy_of_computing/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Vim 到 Zed</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqje/from_vim_to_zed/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqje/from_vim_to_zed/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编写代码格式化程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqjc/how_to_write_a_code_formatter/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqjc/how_to_write_a_code_formatter/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>bunkchat：用 posix sh 编写的波浪号服务器的本地聊天</title>
-      <link>https://www.reddit.com/r/programming/comments/1c3lqij/bunkchat_localonly_chat_for_tilde_servers_written/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c3lqij/bunkchat_localonly_chat_for_tilde_servers_written/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:16:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
