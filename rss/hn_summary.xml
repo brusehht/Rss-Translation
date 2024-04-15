@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 12:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 15:13:03 GMT</lastBuildDate>
     <item>
-      <title>据称，由于油门踏板问题导致严重事故，特斯拉已暂停 Cyber​​truck 交付 [...]</title>
-      <link>https://t.me/hn_summary/84623</link>
-      <description><![CDATA[特斯拉据称暂停赛博卡车交付
-据称，由于油门踏板问题导致可怕的油门卡住事件，特斯拉暂停了 Cyber​​truck 的交付。 TikTok 上的一段视频显示踏板盖滑落并卡住油门，引发安全担忧。特斯拉可能需要手动改造现有卡车，以防止潜在的事故。该公司尚未发表官方评论，因此情况存在不确定性。这一事件凸显了了解如何处理任何车辆油门卡住情况的重要性。 Cyber​​truck 踏板的缺陷对特斯拉来说是一个糟糕的表现，强调需要正确制造基本控制装置以确保安全。]]></description>
-      <guid>https://t.me/hn_summary/84623</guid>
-      <pubDate>Mon, 15 Apr 2024 12:08:28 GMT</pubDate>
+      <title>[媒体]八木-宇田天线，也称为八木天线，是一种具有 mu [...]</title>
+      <link>https://t.me/hn_summary/84649</link>
+      <description><![CDATA[八木–宇田天线
+八木宇田天线，也称为八木天线，是一种具有多个金属棒元件的定向天线，可增强单个方向的辐射，从而增加增益。该天线由日本宇田信太郎 (Shintaro Uda) 于 1926 年发明，八木英次 (Hidetsugu Yagi) 的作用较小，在第二次世界大战的雷达系统中得到广泛应用，后来又被用作家庭电视天线。该天线的设计包括反射器、驱动元件和导向器，增益随着所用元件数量的增加而增加。八木天线的带宽很窄，但可以使用陷波器设计用于多个频段。天线的操作涉及重新辐射从驱动元件接收到的功率，以增强特定方向上的辐射。 （根据故事文本的 30% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84649</guid>
+      <pubDate>Mon, 15 Apr 2024 15:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>我正在为欧洲之行做准备，并希望确保我的关键应用程序，例如银行门户 [...]</title>
-      <link>https://t.me/hn_summary/84622</link>
-      <description><![CDATA[与 Tailscale 一起旅行
-我正在为欧洲之行做准备，并希望确保我的关键应用程序（例如银行门户）能够在国外无缝运行。设置 Tailscale 出口节点是解决方案。通过部署 DigitalOcean Droplet 并配置 Tailscale，我成功地将所有流量路由到出口节点。然而，当我使用 Netbird VPN 的工作笔记本电脑与 Tailscale 路由发生冲突时，出现了挑战。为了解决这个问题，我深入研究了 Tailscale 的 IP 路由机制，最终创建了自定义规则，以优先考虑 Netbird 的内部流量和 Tailscale 的外部流量。该解决方案使我能够实现流程自动化，并为我的旅行实现无缝网络设置。]]></description>
-      <guid>https://t.me/hn_summary/84622</guid>
-      <pubDate>Mon, 15 Apr 2024 12:07:24 GMT</pubDate>
+      <title>Broadcom 收购 VMware 后，Ionos 价格上涨。</title>
+      <link>https://t.me/hn_summary/84648</link>
+      <description><![CDATA[Broadcom 收购 VMware 后 Ionos 价格上涨
+Broadcom 收购 VMware 后，Ionos 价格上涨。客户对突然的价格上涨表示沮丧，许多人质疑这一决定背后的原因。这一有争议的举动让许多用户考虑转向替代托管提供商。对于 Ionos 客户来说，这是一个令人惊讶的事件，他们没有预料到价格会如此大幅上涨。请继续关注这个发展故事的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/84648</guid>
+      <pubDate>Mon, 15 Apr 2024 15:11:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加入 Y Combinator 2020 年冬季初创公司 Recall.ai，担任俄罗斯工程师 #4 [...]</title>
-      <link>https://t.me/hn_summary/84621</link>
-      <description><![CDATA[Recall.ai (YC W20) 正在招聘工程师 #4 (Rust)和大规模基础设施）
-加入 Y Combinator 2020 年冬季初创公司 Recall.ai，担任工程师#4 专注于 Rust 和大型基础设施。该职位位于加利福尼亚州旧金山，可以选择远程工作，提供在快节奏的环境中研究尖端技术的机会。如果您对 Rust 编程充满热情并且拥有大规模基础设施的经验，那么这个角色非常适合您。立即申请成为塑造人工智能技术未来的充满活力的团队的一员。不要错过这个令人兴奋的机会，对行业产生重大影响。]]></description>
-      <guid>https://t.me/hn_summary/84621</guid>
-      <pubDate>Mon, 15 Apr 2024 12:01:19 GMT</pubDate>
+      <title>[媒体]协商共识协议是在线群体决策的解决方案，aimi [...]</title>
+      <link>https://t.me/hn_summary/84647</link>
+      <description><![CDATA[协商共识协议
+协商共识协议是一种在线群体决策的解决方案，旨在大规模地产生公平且知情的决策。与区块链协议不同，它们奖励诚实的意见，并使用审议过程来发现群体中最公正的意见。通过博弈论、深思熟虑和机器学习纠正不诚实、无知和偏见，这些协议可以增强在线决策过程。这些协议不仅可以改善决策，还可以通过激励知情诚实来促进更明智的对话。潜力在于改善话语，并将注意力分配给信息最丰富、最诚实的对话。]]></description>
+      <guid>https://t.me/hn_summary/84647</guid>
+      <pubDate>Mon, 15 Apr 2024 15:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>介绍我们的最新创新：为您的文档网站提供人工智能驱动的聊天机器人！</title>
-      <link>https://t.me/hn_summary/84620</link>
-      <description><![CDATA[显示 HN：在几秒钟内为您的文档站点创建可共享的 AI 聊天&lt; /a&gt;
-介绍我们的最新创新：为您的文档网站提供人工智能驱动的聊天机器人！只需点击几下，您就可以创建交互式、可共享的人工智能聊天，为用户的问题提供即时答案。告别漫长的等待时间和令人沮丧的信息搜索。我们友好的团队随时为您提供帮助。访问 explainit.mzslabs.com 看看有多么简单利用人工智能技术彻底改变您的文档网站。]]></description>
-      <guid>https://t.me/hn_summary/84620</guid>
-      <pubDate>Mon, 15 Apr 2024 11:42:09 GMT</pubDate>
+      <title>在当今世界，超过 75% 的美国领先报纸、杂志和期刊都是 [...]</title>
+      <link>https://t.me/hn_summary/84646</link>
+      <description><![CDATA[民主在付费墙后面消亡
+在当今世界，超过 75% 的美国领先报纸、杂志和期刊都采用付费墙，付费获取信息或在其他地方寻找信息的困境是常见的。付费墙创建了一个两层的信息访问系统，可信的新闻在墙后，错误的信息可以免费获得。随着人们寻求免费的替代品，付费墙的兴起无意中导致了错误信息和阴谋论的增加。当前的免费新闻环境由专注于参与而非新闻的平台公司主导，这进一步加剧了不良信息的传播。为了解决这个问题，新闻编辑室应暂停 2024 年选举报道的付费墙，以确保公众获得可靠的信息并维护民主的基础。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84646</guid>
+      <pubDate>Mon, 15 Apr 2024 15:01:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 正准备通过即将推出的 M4 芯片彻底改变其 Mac 产品线，该芯片将 [...]</title>
-      <link>https://t.me/hn_summary/84619</link>
-      <description><![CDATA[Apple 准备推出 M4 芯片 Mac 系列，包括新款 MacBook Air 和 Mac Pro 
-苹果正准备通过即将推出的 M4 芯片彻底改变其 Mac 系列，该芯片将展示人工智能功能。随着 M3 芯片 Mac 的发布，这家科技巨头现在即将推出下一代处理器。 Apple 计划至少为所有 Mac 机型配备 M4 芯片，目前正在开发至少三种主要版本。此举正值苹果公司旨在为其电脑销售注入新活力之际。请继续关注这一突破性发展的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/84619</guid>
-      <pubDate>Mon, 15 Apr 2024 11:41:06 GMT</pubDate>
+      <title>[媒体] 20 年前 Gmail 彻底改变了电子邮件。</title>
+      <link>https://t.me/hn_summary/84645</link>
+      <description><![CDATA[20 年前，Gmail 彻底改变了电子邮件。是时候进行新的革命了
+2004 年，Gmail 凭借其充足的存储空间和创新功能彻底改变了电子邮件，成为全球最受欢迎的电子邮件服务。然而，谷歌可疑的隐私做法引起了人们的担忧。 Tuta Mail 是一家注重隐私的电子邮件提供商，提供端到端加密和最大程度的隐私保护。 Tuta 最近庆祝了其成立 10 周年，并继续在安全通信领域处于领先地位。虽然谷歌从用户数据中获利，但图塔将隐私视为一项人权。通过免费和付费选项，Tuta 确保用户不是产品。与 Tuta 一起创建一个默认隐私的更好网络。立即注册免费加密邮箱。]]></description>
+      <guid>https://t.me/hn_summary/84645</guid>
+      <pubDate>Mon, 15 Apr 2024 15:00:44 GMT</pubDate>
     </item>
     <item>
-      <title>在 2022 年的更新中，作者讨论了基于 C 构建的概念验证 Python 可执行文件 [...]</title>
-      <link>https://t.me/hn_summary/84618</link>
-      <description><![CDATA[Python 实际上是可移植的（2022）
-在 2022 年的更新中，作者讨论了基于 Cosmopolitan Libc 构建的概念验证 Python 可执行文件，该可执行文件允许 Python 在六种不同的操作系统上运行。作者详细介绍了 python.com 相对于普通 Python 所做的改进，包括更快的加载、减小尺寸以及改进的构建和测试系统。这篇文章还介绍了编译 Python、添加标准库模块以及使用 pip 等外部包所面临的挑战。作者探索了 python.com&lt; 的性能调优和自定义构建系统的潜力/a&gt; 可执行文件，突出了这个可移植版本的 Python 令人兴奋的可能性。 （根据 97% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84618</guid>
-      <pubDate>Mon, 15 Apr 2024 11:40:02 GMT</pubDate>
+      <title>[媒体]白化红杉是一种令人着迷且罕见的现象，大约有 400 棵已知的树木幸存 [...]</title>
+      <link>https://t.me/hn_summary/84644</link>
+      <description><![CDATA[白化红木
+白化红杉是一种迷人而罕见的现象，大约有 400 棵已知的红杉树通过从邻近的红杉中获取糖而生存。这些独特的树木由于无法产生叶绿素，所以针叶是白色的而不是绿色的。虽然它们对美洲原住民很重要并被记录在传说中，但它们通常被视为寄生植物。然而，最近的研究表明它们可能在储存有毒重金属方面发挥作用。这些树具有六种表型分类和嵌合红杉，显示出白化和正常组织的嵌合体，继续引起科学家和自然资源保护主义者的兴趣。]]></description>
+      <guid>https://t.me/hn_summary/84644</guid>
+      <pubDate>Mon, 15 Apr 2024 14:51:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 幸运VS.</title>
-      <link>https://t.me/hn_summary/84617</link>
-      <description><![CDATA[幸运与重复
-在运气和成功的世界里，区分什么是幸运的和什么是可重复的很重要。虽然运气看起来是随机且不可预测的，但不可重复的往往是无法轻易复制的独特环境和技能的结果。向杰夫·贝索斯或沃伦·巴菲特等成功人士学习包括了解哪些技能和策略是可重复的和可以效仿的，而不是试图复制特定的、不可重复的事件。通过专注于可重复的事情，普通人有更好的机会取得成功，并在他们的努力中变得“更幸运”。]]></description>
-      <guid>https://t.me/hn_summary/84617</guid>
-      <pubDate>Mon, 15 Apr 2024 11:22:54 GMT</pubDate>
+      <title>[媒体] 缩放用户界面 (ZUI) 是一个图形用户界面，允许用户更改 [...]</title>
+      <link>https://t.me/hn_summary/84643</link>
+      <description><![CDATA[缩放用户界面 (ZUI)
+缩放用户界面 (ZUI) 是一种图形用户界面，允许用户更改查看区域的比例以查看更多或更少的细节并浏览不同的文档。 ZUI 使用缩放作为浏览超链接或多变量信息的主要隐喻，允许递归嵌套和语义缩放。这一概念可以追溯到 20 世纪 60 年代，多年来在各种项目中不断发展和实施。著名的例子包括 Apple 的 iPhone 界面和 GNOME Shell。 ZUI 不断发展，最近发布了 bigpictu.re 和 Zircle 等版本UI 提供了可缩放导航的创新方法。]]></description>
+      <guid>https://t.me/hn_summary/84643</guid>
+      <pubDate>Mon, 15 Apr 2024 14:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GestureX 是 GitHub 上的一个项目，允许用户用手控制他们的 Linux PC [...]</title>
-      <link>https://t.me/hn_summary/84616</link>
-      <description><![CDATA[使用 OpenCV、GTK、Mediapipe 的手势控制基于 Linux 的发行版&lt; /a&gt;
-GestureX 是 GitHub 上的一个项目，允许用户使用手势控制他们的 Linux PC。通过为不同的手势分配命令或功能，用户可以免提与计算机交互。该项目仍处于测试阶段，不稳定，但具有实时网络摄像头和手势识别功能，通过图形用户界面轻松配置，并支持各种手势，如“好的”、“安静”和“竖起大拇指”。 GestureX 的与众不同之处在于它使用 OpenCV、GTK 和 Mediapipe 进行手势识别，以及可自定义的命令映射。]]></description>
-      <guid>https://t.me/hn_summary/84616</guid>
-      <pubDate>Mon, 15 Apr 2024 11:21:50 GMT</pubDate>
+      <title>谨防最近针对提供虚假道路收费服务的个人的网络诈骗。</title>
+      <link>https://t.me/hn_summary/84642</link>
+      <description><![CDATA[FBI IC3：有关公路收费服务债务的诈骗
+谨防最近针对提供虚假道路收费服务的个人的网络诈骗。 FBI IC3 已收到大量关于声称未支付通行费并敦促收件人点击链接结清余额的短信的投诉。该骗局似乎在多个州蔓延，短信中使用了相似的语言，但电话号码不同。如果您收到此类短信，请向 IC3 报告，在收费服务的官方网站上检查您的帐户，然后联系客户服务。请谨慎对待您的个人和财务信息，并对任何未经授权的收费提出异议。对这种巧妙的骗局保持警惕。]]></description>
+      <guid>https://t.me/hn_summary/84642</guid>
+      <pubDate>Mon, 15 Apr 2024 14:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2016年，日本政府推出了Society 5.0，一个新时代的创新特征[...]</title>
-      <link>https://t.me/hn_summary/84615</link>
-      <description><![CDATA[可以熔化钢铁的微型超亮激光器
-2016年，日本政府推出了Society 5.0，这是一个以按需商品和机器人为特色的创新新时代。虽然人工智能至关重要，但经常被忽视的关键技术是激光。半导体激光器对于这项工作来说太暗了，但一种称为光子晶体表面发射激光器（PCSEL）的新型激光器正在彻底改变该领域。 PCSEL 使用独特的瑞士奶酪层来控制光传播，从而产生可以熔化钢铁的超亮光束。这些激光器由京都大学的一个团队开发，具有改变行业的潜力，甚至可以实现核聚变和航天推进等奇异应用。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84615</guid>
-      <pubDate>Mon, 15 Apr 2024 11:20:46 GMT</pubDate>
+      <title>[媒体] Supabase 自豪地宣布其全面上市周，标志着我们的一个里程碑 [...]</title>
+      <link>https://t.me/hn_summary/84641</link>
+      <description><![CDATA[Supabase – 全面上市周
+Supabase 很自豪地宣布推出全面可用周，这标志着我们提供能够安全运行数百万个数据库的托管平台之旅的一个里程碑。尽管已经做好生产准备多年，但我们保留了“测试版”标签，以确保我们能够支持所有客户，从独立黑客到财富 500 强公司。凭借一支由敬业的 Postgres 工程师和支持人员组成的团队，我们有信心帮助任何客户取得成功。令人惊讶的是，即使是 Mozilla、PWC 和 Johnson &amp; Johnson 等知名公司也信任 Supabase 的应用程序管理。我们对安全性（包括行级安全策略）的关注使我们成为像普华永道法国公司的 Matthieu 这样的开发人员的首选。]]></description>
+      <guid>https://t.me/hn_summary/84641</guid>
+      <pubDate>Mon, 15 Apr 2024 14:46:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 光镊是使用激光束固定和移动麦克风的科学仪器 [...]</title>
-      <link>https://t.me/hn_summary/84614</link>
-      <description><![CDATA[光镊
-光镊是使用激光束来固定和移动原子和纳米粒子等微观物体的科学仪器。光镊由阿瑟·阿什金 (Arthur Ashkin) 开发，彻底改变了生物学、医学和量子光学等领域。朱棣文 (Steven Chu) 是光镊研发的关键人物，他利用光镊捕获中性原子，为他赢得了诺贝尔物理学奖。光镊在研究单分子、生物马达和细胞运动方面发挥了重要作用。它们还被用来捕获激光冷却的原子，用于量子科学应用。这项技术不断发展，努力让预算较少的研究人员更容易使用光镊。 （根据故事文本的 12% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84614</guid>
-      <pubDate>Mon, 15 Apr 2024 11:13:40 GMT</pubDate>
+      <title>英国即将离开美国</title>
+      <link>https://t.me/hn_summary/84640</link>
+      <description><![CDATA[英国在性别医学辩论中落后于美国 
+在一份开创性的报告中，高级儿科医生希拉里·卡斯挑战了激进分子对青少年性别医学的普遍看法，强调缺乏支持未成年人激素和手术治疗的证据。该报告对青春期阻滞剂和跨性别激素的安全性和有效性提出质疑，强调需要采取更全面的方法来解决与性别相关的困扰。与美国医疗团体相反，卡斯认为，对于大多数年轻人来说，医疗途径可能不是最佳解决方案。该报告在英国引发了争论和反思，促使英国从平权治疗模式转向更加基于证据的方法。]]></description>
+      <guid>https://t.me/hn_summary/84640</guid>
+      <pubDate>Mon, 15 Apr 2024 14:45:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
