@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Tue, 16 Apr 2024 18:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 21:11:25 GMT</lastBuildDate>
+    <item>
+      <title>我想我稍微破坏了 GPT</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</link>
+      <description><![CDATA[       正在写一些诗句，这些词在我的脑海中留下了很酷的流畅感。所以它满足了我的要求。   由   提交/u/No_Atmosphere_5485   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:02:26 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 能否在几分钟内创建、发布并向我推荐一个 NPM 包？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c5mhzz/could_chatgpt_have_created_published_and/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>使用 DarkGPT 增强 OSINT，检测泄露数据库的工具</title>
       <link>https://www.reddit.com/r/GPT3/comments/1bwsbqp/enhanced_osint_with_darkgpt_a_tool_to_detect/</link>
-      <description><![CDATA[   /u/Sharp_Philosopher   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由    /u/Sharp_Philosopher  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1bwsbqp/enhanced_osint_with_darkgpt_a_tool_to_detect/</guid>
       <pubDate>Fri, 05 Apr 2024 20:34:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[     &lt; td&gt; 计算在人工智能和数据中发挥着关键作用吗？ &lt;!-- SC_ON - -&gt;  由   提交 /u/FarPercentage6591   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1bv5uni/nvidias_revenue_by_product_line/</guid>
       <pubDate>Wed, 03 Apr 2024 22:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GPT 模型分析 MongoDB 中的一些数据的过程是怎样的？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1bu6wmu/what_would_be_the_process_to_use_a_gpt_model_to/</link>
-      <description><![CDATA[大家好！我是这个社区的新人。我目前正在致力于 GPT-4 模型实现，以回答 MongoDB 数据库的一些问题。我有一个数据库，其中包含我所有订阅的集合，我想像这样快速提示；过去 5 个月的总销售额是多少？或者什么是平均销售额？ - 但是，似乎我需要为每个提示创建一个聚合管道，我认为这不是一个好方法。例如;如果我输入过去 3 个月的总销售额是多少，它不会返回任何内容，因为我创建的查询是过去几个月的？  ​  elif “5 个月销售额”在提示中： sales_5months =calculate_sales_5months(collection) return f“您的 MRR 平均值为 ${sales_5months}”  我的 GPT-4 模型访问我的集合并创建分析所有数据的方法是什么？   由   提交 /u/ManT92Nic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1bu6wmu/what_would_be_the_process_to_use_a_gpt_model_to/</guid>
-      <pubDate>Tue, 02 Apr 2024 18:58:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
