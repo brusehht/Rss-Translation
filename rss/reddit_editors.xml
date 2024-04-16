@@ -4,13 +4,34 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 16 Apr 2024 03:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:15:06 GMT</lastBuildDate>
+    <item>
+      <title>Davinci Resolve 18.6 中的 Chromakeying 会导致抠像剪辑下方的每一层都表现得像同一个剪辑（使用 Color Tab 进行抠像）</title>
+      <link>https://www.reddit.com/r/editors/comments/1c588fg/chromakeying_in_davinci_resolve_186_causes_every/</link>
+      <description><![CDATA[编辑们大家好， 通常我并不是达芬奇的初学者。我有多年使用该软件的经验，并且（大部分）了解它的使用方法。但现在，我感觉自己像个新手啊。 情况是这样的：我为客户拍摄了一个没有任何动作的静态视频。该视频用于解释不同类型的软件包、硬件配置等。现在我的客户希望在演讲者后面的背景中包含一个演示（RIP 风格，但可以）。我相应地在时间轴中构建了图层，即： V5 -&gt;企业标志（变换为右上角）V4-&gt;演示文稿的另一个剪辑（没有缩放，以防我需要全屏显示）V3 -&gt;演示者剪辑（这个已被删除）V2 -&gt;演示文稿剪辑（缩小到一半大小，移到左侧）V1 -&gt;基本背景图像 (.png)  现在我的问题是：我使用颜色选项卡在 V3 上键入剪辑。目前，我正在使用限定符来选择绿色值，然后添加 alpha 输出。也就是说，我愿意使用其他键控方法。相应的节点放置在我的节点树的末尾。 当我现在在 V3 上变换剪辑时，该剪辑下面的所有内容都会以相同的方式变换。在颜色选项卡中进行抠像的所有其他方法也会发生这种情况。 在 Fusion 中不会发生这种情况，但我想避免使用 Fusion，因为它不会继承我的所有分级。 （我知道我需要对剪辑进行分级，然后用它制作一个 fusionclip，然后可以应用我的键控，但我不想在我的项目中最终得到 10-15 个融合剪辑。）我宁愿这样做一次在颜色选项卡中进行分级和键入。 我做错了什么？ （如果需要，我可以提供我的问题的屏幕截图或视频） 提前感谢阅读本文并会尽力帮助我的任何人。 系统规格： &gt; 处理器：第 12 代 Intel(R) Core(TM) i7-12850HX 2.10 GHz RAM：32.0 GB（31.7 GB 可用）GPU：NVIDIA RTX A3000 12Gb 笔记本电脑 GPU &lt; /pre&gt; 软件：Davinci Resolve 18.6.6 Build 7（免费版） 素材规格： 容器：.mxf 格式：MXF OP1A (DNxHR SQ ) 结果: 3840x2160 FPS: 25    由   提交/u/BobbyB_518  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c588fg/chromakeying_in_davinci_resolve_186_causes_every/</guid>
+      <pubDate>Tue, 16 Apr 2024 05:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何设置 Aspera SSH 密钥吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1c5669n/anyone_know_about_set_up_aspera_ssh_key/</link>
+      <description><![CDATA[我想在我的 mac aspera 桌面客户端中创建 SSH 密钥。但是，问题是“”允许共享连接使用此密钥“”复选框呈灰色。如何正确制作 ssh 密钥？我的其他 Mac 上的复选框是可以选中的。帮帮我 为什么这个 subreddit 无法发布屏幕截图？  &amp;# 32；由   提交/u/ddd102  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c5669n/anyone_know_about_set_up_aspera_ssh_key/</guid>
+      <pubDate>Tue, 16 Apr 2024 03:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>如何将字幕从 .SCC 转换为 .SRT ？</title>
       <link>https://www.reddit.com/r/editors/comments/1c55otf/how_do_i_convert_captions_from_scc_to_srt/</link>
       <description><![CDATA[正在处理一个项目，但我收到的文本文件是 .scc，我需要将其转换为 .srt 文件。 我看到有些网站可以做此类事情，但其中有安全的吗？如果您知道一种安全的方法或在首映中进行转换的方法，我将非常感激！   由   提交/u/i-want-to-leave  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c55otf/how_do_i_convert_captions_from_scc_to_srt/</guid>
       <pubDate>Tue, 16 Apr 2024 03:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字果汁 DVD，过时了吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1c55n2t/digital_juice_dvds_obsolete/</link>
+      <description><![CDATA[我有一整套 Digital Juice、Jump Backs、Motion Backs、Editor’s Toolkit 1 &amp; 2. 我在 2003 年左右购买了它们。 既然公司不再运营，有什么方法可以在 Windows 11 中激活它们吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/BreakfreeYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c55n2t/digital_juice_dvds_obsolete/</guid>
+      <pubDate>Tue, 16 Apr 2024 03:02:21 GMT</pubDate>
     </item>
     <item>
       <title>签约视频编辑的 NDA 或保密协议？</title>
@@ -22,7 +43,7 @@
     <item>
       <title>潜在客户希望我教他们编辑。你会做吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1c4vn6z/potential_client_wants_me_to_teach_them_editing/</link>
-      <description><![CDATA[我是一名DP，曾经是一名编辑。我遇到了一个小伙子，他是个小导演。这位导演来找我，问我是否愿意坐在他身边教他首映，因为他即将从 Final Cut 切换过来。他说他会买食物和饮料，这样我们就可以出去玩。一方面，教他帮助我找到和他一起工作的机会很小，尽管除了一些自费的博士工作之外，他确实没有太多工作。另一方面，我自己知道，仅仅观看教程是最好的学习方式，而且我宁愿不坐下来教一些可以通过教程轻松学习的东西。我推荐了一些教程，但他们仍然希望我过来教他们。在这个情况下，你会怎么做？    由   提交 /u/jakenbakeboi   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名DP，曾经是一名编辑。我遇到了一个小导演。这位导演来找我，问我是否愿意坐在他身边教他首映，因为他即将从 Final Cut 切换过来。他说他会买食物和饮料，这样我们就可以出去玩。一方面，教他帮助我找到和他一起工作的机会很小，尽管除了一些自费的文档工作之外，他确实没有太多工作。另一方面，我自己知道，仅仅观看教程是最好的学习方式，我宁愿不坐下来教一些可以通过教程轻松学习的东西。我推荐了一些教程，但他们仍然希望我过来教他们。在这个情况下，你会怎么做？    由   提交 /u/jakenbakeboi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4vn6z/potential_client_wants_me_to_teach_them_editing/</guid>
       <pubDate>Mon, 15 Apr 2024 19:50:20 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>Maxon 刚刚将 Plural Eyes 添加到了 Maxon One 付费专区订阅中吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1c4qxfr/did_maxon_just_put_plural_eyes_behind_their_maxon/</link>
-      <description><![CDATA[我经常使用 Plural Eyes，并且已经使用多年。这是完美的。它速度很快，让生活变得轻松。我知道 Maxon 已经停止使用 PE，并选择了“它是你的，它仍然可以工作，我们只是不会更新它”。这很好。它仍然会打开并执行我需要的操作。直到今天。 没有今天，我去打开PE，它只是在打开时停止。窗口打开时不会加载 UI。重置补偿结果相同。第三次尝试后，我决定卸载并重新安装。 这才是真正的心痛开始的地方。 Maxon 应用程序不会安装我拥有旧激活码的最新版本的 PE。一直提示“安装失败”我从网站下载最新版本的 Maxon App。设法下载了Plural Eyes 4的最新版本。打开PE4，它立即崩溃。直接进监狱。每次我点击它。这样做大约 30 次。 我继续度过早上接下来的 3 个小时。无论如何都想下载。即使是旧版本。 （零运气） 最终！ 我注意到他们一直在推动 Maxon One 14 天试用版。我点击接受试用。 繁荣！ Plural Eyes 打开了非常好的作品，没有任何问题。 现在真正的问题出现了。 他们是否希望我以每年 700 美元的价格购买他们的 Red Giant 套餐？ ？ （最低限度）只是为了使用我之前已经支付全价的程序来单独使用。即将推出零升级的程序。 如果是这样。那就乱了。因为这上周效果很好。现在，直到我注册 Maxon One 后，它才会打开。 还有其他人经历过这种情况吗？  比较：Macbook Sonoma 14.4.1 2.3GHz 8 核 Intel Core i9 AMD Radeon Pro 5500m 8GB Intel uhd 显卡 630 无镜头。只是应用程序问题和 Maxon 的恐怖。   由   提交 /u/TheWorldmind   [链接] [评论]]]></description>
+      <description><![CDATA[我经常使用 Plural Eyes，并且已经使用多年。这是完美的。它速度很快，让生活变得轻松。我知道 Maxon 已经停止使用 PE，并选择了“它是你的，它仍然可以工作，我们只是不会更新它”。这很好。它仍然会打开并执行我需要的操作。直到今天。 没有今天，我去打开PE，它只是在打开时停止。窗口打开时不会加载 UI。重置补偿结果相同。第三次尝试后，我决定卸载并重新安装。 这才是真正的心痛开始的地方。 Maxon 应用程序不会安装我拥有旧激活码的最新版本的 PE。一直提示“安装失败”我从网站下载最新版本的 Maxon App。设法下载了Plural Eyes 4的最新版本。打开PE4，它立即崩溃。直接进监狱。每次我点击它。这样做大约 30 次。 我继续度过早上接下来的 3 个小时。无论如何都想下载。即使是旧版本。 （零运气） 最终！ 我注意到他们一直在推动 Maxon One 14 天试用版。我点击接受试用。 繁荣！ Plural Eyes 打开完全正常的作品，没有任何问题。 现在真正的问题出现了。 他们是否希望我以每年 700 美元的价格购买他们的 Red Giant 套餐？ ？ （最低限度）只是为了使用我之前已经支付全价的程序来单独使用。即将推出零升级的程序。 如果是这样。那真是一团糟。因为这上周效果很好。现在，直到我注册 Maxon One 后，它才会打开。 还有其他人经历过这种情况吗？  比较：Macbook Sonoma 14.4.1 2.3GHz 8 核 Intel Core i9 AMD Radeon Pro 5500m 8GB Intel uhd 显卡 630 无镜头。只是应用程序问题和 Maxon 的恐怖。   由   提交 /u/TheWorldmind   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4qxfr/did_maxon_just_put_plural_eyes_behind_their_maxon/</guid>
       <pubDate>Mon, 15 Apr 2024 16:44:37 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>我想听听硬币的反面——有人看到电影的光明未来吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1c4pnnc/i_want_to_hear_the_flip_side_of_the_coin_anyone/</link>
-      <description><![CDATA[我知道我并不是唯一一个对我们行业目前状况感到有点沮丧的人。关于希望完全离开该领域的编辑的帖子不断涌入（在这里和其他论坛上）。我自己最近也尝试过这个想法，但在我一生都在追逐这种激情之后，一想到要放弃这个想法就很糟糕，但在 30 岁的时候，怀着早点生孩子的希望，我宁愿早点撕掉创可贴，而不是 10 岁那些年，当它是可怕的。  一些背景知识 - 自从我开始工作以来，我一直在文档领域工作，非常幸运能够作为一名员工获得稳定的薪水。我本来希望现在已经换工作了，但市场在（围绕新冠疫情）跳跃的好时机出现了暴跌。我经常担心未来——这份工作之后我能找到稳定的工作吗？ 20年后我会老吗？ 5 年后这个行业会是什么样子？  最后，我开始尝试寻找替代的职业道路，作为 B 计划 - 我仍然对这个领域充满热情，但如果我要离开，我可能会从事交易/其他事情不在电脑上。无法想象成为一个小程（这似乎是大多数编辑所走的路），他们的行业似乎也面临着清算。  无论如何，希望在这里的对话中注入一些积极的想法 - 任何经历过一段时间/经历过几场风暴的人都愿意分享他们对未来的展望吗？对于我们中的一些人来说，编辑工作是否仍然存在，或者我们应该在还为时不晚的时候跳槽？  或者，有人离开编辑并在其他地方寻找稳定/幸福吗？  谢谢   由   提交/u/KungLa0   [链接] [评论]]]></description>
+      <description><![CDATA[我知道我并不是唯一一个对我们行业目前状况感到有点沮丧的人。关于希望完全离开该领域的编辑的帖子不断涌入（在这里和其他论坛上）。我自己最近也尝试过这个想法，但在我一生都在追逐这种激情之后，一想到要放弃这个想法就很糟糕，但在 30 岁的时候，怀着早点生孩子的希望，我宁愿早点撕掉创可贴，而不是 10 岁那些年，当它是可怕的。  一些背景知识 - 自从我开始工作以来，我一直在文档领域工作，非常幸运能够作为一名员工拥有稳定的薪水。我本来希望现在已经换工作了，但市场在（围绕新冠疫情）跳跃的好时机出现了暴跌。我经常担心未来——这份工作之后我能找到稳定的工作吗？ 20年后我会老吗？ 5 年后这个行业会是什么样子？  最后，我开始尝试寻找替代的职业道路，作为 B 计划 - 我仍然对这个领域充满热情，但如果我要离开，我可能会从事交易/其他事情不在电脑上。无法想象成为一个小程（这似乎是大多数编辑所走的路），他们的行业似乎也面临着清算。  无论如何，希望在这里的对话中注入一些积极的想法 - 任何经历过一段时间/经历过几场风暴的人都愿意分享他们对未来的展望吗？对于我们中的一些人来说，编辑工作是否仍然存在，或者我们应该在还为时不晚的时候跳槽？  或者，有人离开编辑并在其他地方寻找稳定/幸福吗？  谢谢   由   提交/u/KungLa0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4pnnc/i_want_to_hear_the_flip_side_of_the_coin_anyone/</guid>
       <pubDate>Mon, 15 Apr 2024 15:52:52 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Mon, 15 Apr 2024 15:51:33 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe 宣布推出大量全新 AI 生成工具</title>
+      <title>Adobe 宣布推出大规模全新 AI 生成工具</title>
       <link>https://www.reddit.com/r/editors/comments/1c4p8ln/adobe_announces_massive_new_ai_gen_tools_for/</link>
       <description><![CDATA[https://www.instagram.com/ p/C5yKkxRrHvn/ - 看到这里，讨厌链接社交，但这就是他们宣布的方式.. 在卷轴中   由   提交 /u/seanbastard1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4p8ln/adobe_announces_massive_new_ai_gen_tools_for/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[我的背景 - 纪录片制作硕士，做过一些不一定涉及编辑的自由职业，目前正在为慈善组织做志愿者视频编辑工作。  离开大学后，我感觉有点停滞不前，我申请了行业内的数百个职位，主要是编辑助理/初级视频编辑，但似乎找不到任何一个。  &gt; 一直致力于我的简历，使其对雇主更具吸引力，并且还致力于个人形象。 最近开始与一家慈善组织合作，担任志愿者视频编辑，以积累我的经验，一直进展顺利。 我只是不知道从这里该去哪里，我仍在申请编辑职位，但我只是失去了希望和动力，我将能够在该领域找到一份工作行业。 有什么建议或技巧可以让我脱颖而出或帮助我找工作吗？  （总部位于英国）   由   提交 /u/RantingChinchompa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c4oe8t/where_to_go_from_here/</guid>
       <pubDate>Mon, 15 Apr 2024 15:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>监控图形设计师/艺术家的建议。</title>
-      <link>https://www.reddit.com/r/editors/comments/1c4k4ag/monitor_recommandations_for_graphic_designerartist/</link>
-      <description><![CDATA[嗨， 我是一位油画家，正在寻找一款能为我的照片提供最佳色域和伽玛值的显示器参考资料以及小型图形作品。 我主要寻找中等价格范围的产品，但欢迎任何建议。此外，我做了一些研究，发现了两款有前途的显示器，但我仍然怀疑。（技嘉 M32Q HDR KVM 和 LG 27UQ850）。 我发现这个网站对显示器进行排名，我不确定它是否合法。&lt; /p&gt; rtings.com/monitor/tests/picture-quality/color-accuracy 提前感谢您的任何评论和建议。   由   提交/u/DizzyAd5743  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c4k4ag/monitor_recommandations_for_graphic_designerartist/</guid>
-      <pubDate>Mon, 15 Apr 2024 11:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Adob​​e Premiere pro 切换到 DaVinci 让我意识到 Adob​​e 产品有多糟糕。</title>
-      <link>https://www.reddit.com/r/editors/comments/1c4jr17/switching_from_adobe_premiere_pro_to_davinci_made/</link>
-      <description><![CDATA[Adobe 曾经很好，但说实话，自 2010 年以来他们没有做任何好的改进。他们的软件现在肯定是建立在意大利面条式代码的基础上的，这真是太糟糕了，而且过于复杂。 达芬奇对我来说是更流畅的用户体验和更快的软件。对于 Adob​​e，我想也许我必须升级我的 PC (RTX 3080)，因为它会很延迟且有问题。有了达芬奇，所有这些问题都迎刃而解。  希望他们也制作 Photoshop 和 LR 替代品 - 会立即切换。   由   提交/u/Rimhawk  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c4jr17/switching_from_adobe_premiere_pro_to_davinci_made/</guid>
-      <pubDate>Mon, 15 Apr 2024 11:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问专业人士 - 每周 - 2024 年 4 月 15 日星期一 - 没有愚蠢的问题！如果您不以此为生，这就是您发帖的地方！规则+职业问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c4hizo/ask_a_pro_weekly_monday_mon_apr_15_2024_no_stupid/</link>
-      <description><![CDATA[/r/editors 是一个社区面向后期制作专业人士。 每周，我们都会使用此帖子与任何对编辑或后期制作有疑问的人进行公开讨论，**无论您的职业或专业地位如何。**  再次强调，如果您是新来的，请知道这个 Reddit 子版块是针对专业人士的。我们的模组团队修剪了 Reddit 子版块，并在此发布了新手级别的问题。  ​ 如果您不确定自己属于哪一类？这就是您正在寻找的主题。 关键规则：彼此保持良好（且耐心）。没有自我推销。没有盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/ about/rules/) 如果您不在该领域工作，这就是您的问题应该去的地方 什么样的问题对于该主题来说是公平的游戏？   学校值得吗？ 职业问题？ 哪个编辑器*您应该付费？*（免费工具？请参阅/r/videoediting) 考虑副业吗？ 我应该设置什么费率在？ （参见 WIKI） 从学校毕业？并需要入门建议？  ​ 此子版块有一个 wiki。 请随意建议它需要的页面。 我们有一个姐妹子版块 /r/videoediting。如果您不以此为生，这是理想的选择 - 但此帖子适合所有人！   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c4hizo/ask_a_pro_weekly_monday_mon_apr_15_2024_no_stupid/</guid>
-      <pubDate>Mon, 15 Apr 2024 09:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
