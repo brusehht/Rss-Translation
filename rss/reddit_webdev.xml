@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 09:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 12:20:47 GMT</lastBuildDate>
+    <item>
+      <title>对于网络开发来说完全陌生，可能是一个非常基本的问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c68e84/completely_new_to_web_development_probably_a_very/</link>
+      <description><![CDATA[首先，作为一些上下文，请查看此链接，您可以在其中输入预测的投票趋势来预测英国选举：https://www.electoralcalculus.co.uk/userpoll.html 网站上的一个非常标准的功能，我想交互式输入接口，利用算法输出一些操作数据。对于一个完全的新手来说，非常简单，这是如何完成的？我对Python相当精通，所以我希望能够为各种应用程序创建类似的输入输出模型，但是它是如何内置到网站中的呢？可以用python内置吗？如果我想建立一个网站，我应该告诉网络开发团队什么？一般来说，这是简单还是复杂？非常感谢！   由   提交 /u/SidewaysVerticleLine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c68e84/completely_new_to_web_development_probably_a_very/</guid>
+      <pubDate>Wed, 17 Apr 2024 12:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个月找到一份工作有多难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c686iq/how_hard_is_to_land_one_job_a_month/</link>
+      <description><![CDATA[嘿，过去 3 年我一直在使用 Webflow，我希望有更多的 Webflow 项目。现在我在 UX 机构工作，我喜欢这份工作，但我有空闲时间和周末，我想用工作来填补它。 在预算范围内，哪里是获得 Webflow 开发工作的最佳地点1000-2000 美元之间？ 您尝试过 Facebook/Instagram AD 之类的东西吗？   由   提交/u/Early_Sun_8699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c686iq/how_hard_is_to_land_one_job_a_month/</guid>
+      <pubDate>Wed, 17 Apr 2024 12:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义 Omada Captive Portal 不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c67wev/customize_omada_captive_portal_not_working/</link>
+      <description><![CDATA[      自定义门户浏览器与 Omada 控制器不兼容 嗨！我为我们的业务创建了一个定制的门户页面。但是，我的自定义页面在某些 Android 设备上遇到了 2 个问题。  在某些设备上，页面可能会加载，但某些元素无法正常工作，例如基于问候语的动态内容在特定时间。 (第2张图片) 其他设备根本不会加载该页面；它显示，抱歉，浏览器不兼容。当前浏览器不支持 Omada 控制器 (3rdpicture)  当我使用 Chrome 在本地测试 HTML 文件时，一切正常。 （第一张图片） PS：我对 HTML、CSS、JS 的了解有限   由   提交/u/Krade1027  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c67wev/customize_omada_captive_portal_not_working/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关 Microsoft 团队应用程序开发的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c67ne7/need_help_regarding_microsoft_teams_app/</link>
+      <description><![CDATA[我正在开发 Microsoft 团队应用程序，但要在本地测试它，我需要有 Microsoft 团队的付费版本。 作为一名大学生，我如何在不购买付费团队的情况下在本地创建和测试我的团队应用程序？ 我曾尝试注册他们的开发人员计划，但遗憾的是我没有资格（微软提到过） )。   由   提交 /u/async_redditor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c67ne7/need_help_regarding_microsoft_teams_app/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite 的力量：现代前端工具链的可视化指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c67j6v/the_power_of_vite_a_visual_guide_to_the_modern/</link>
+      <description><![CDATA[       由   提交 /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c67j6v/the_power_of_vite_a_visual_guide_to_the_modern/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>PTR大混乱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c67bfe/big_ptr_confusion/</link>
+      <description><![CDATA[我采用的是共享托管计划。共享 IP / 服务器名 1.2.3.4 / hosting.examplehost.net  - 我的域名是 example.com  有一条 PTR 记录，我无法更改，其值为 hosting.examplehost.net 并对应于  1.2.3.4 有一条我可以更改的 A 记录，它对应于 example.com且值为 1.2.3.4  我的说法是正确的，如果外部实体同时查询我的 A 记录和 PTR 记录，对吗？我担心这会影响电子邮件的送达率。 （请注意，发送电子邮件时，服务器使用 hosting.examplehos.net 的备用 HELO）如果不匹配，则此会影响送达率，我该如何解决这个问题？ 具体而言，PTR 记录在电子邮件送达率中实际上是如何使用的？我听到过相互矛盾的想法；同时检查 A 记录和 PTR 记录以查看是否存在匹配；实际上是 HELO 与 PTR 记录进行比较；接收服务器只是检查是否有 PTR 记录，仅此而已；这是不同的服务，所以你永远不知道；等等...   由   提交/u/hjorje69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c67bfe/big_ptr_confusion/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:22:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>您多久使用一次 PWA？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c671sq/how_often_do_you_make_use_of_a_pwas/</link>
+      <description><![CDATA[为了让人们更容易并为我的论文研究获得更多答案，我以民意调查的形式发布我的调查。希望这不违反规则，并希望它也能在评论中引发一场很酷的对话。 这是原始调查。 查看投票   由   提交 /u/sebastiancastroj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c671sq/how_often_do_you_make_use_of_a_pwas/</guid>
+      <pubDate>Wed, 17 Apr 2024 11:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为朋友建立网页。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c66nyi/building_webpage_for_a_friend/</link>
+      <description><![CDATA[大家好， 我的朋友有一家小型石材加工公司，他让我为他建立一个网页来宣传他的业务. 我只是在想我是否应该使用 Wordpress 或者只使用 HTML、CSS 和 JS 编写整个内容。  该页面将有一些画廊，其中包含石头样品、可以放置的字体等。小型联系表格和有关它们的一般信息。  所以我的问题是你会怎么做？    由   提交 /u/CarelessMacaron8383   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c66nyi/building_webpage_for_a_friend/</guid>
+      <pubDate>Wed, 17 Apr 2024 10:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计工程，一个工作定义</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c663kh/design_engineering_a_working_definition/</link>
+      <description><![CDATA[   /u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c663kh/design_engineering_a_working_definition/</guid>
+      <pubDate>Wed, 17 Apr 2024 10:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Web 开发训练营中，但是..</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c65w1i/in_a_web_dev_bootcamp_but/</link>
+      <description><![CDATA[目前处于 Web 开发训练营的第二周。 第一周是 HTML + CSS，主题很棒，但主题并不难所以我很快就涵盖了它们，因为我在加入之前有少量的经验。 但是 Javascript 给我带来了一些小问题。我是否需要在 1 周内理解所有类型的循环、布尔值、数据类型等？我正在努力将它们牢记在心，我似乎无法编写 JS 或完全理解所有内容。 这是我的问题还是我应该做其他事情？还有其他人可以通过此训练营进行导航吗？   由   提交 /u/0permissions   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c65w1i/in_a_web_dev_bootcamp_but/</guid>
+      <pubDate>Wed, 17 Apr 2024 09:55:44 GMT</pubDate>
+    </item>
     <item>
       <title>HTTP/2 和 HTTP/3 解释</title>
       <link>https://www.reddit.com/r/webdev/comments/1c656pv/http2_and_http3_explained/</link>
@@ -22,14 +92,14 @@
     <item>
       <title>Turborepo 和 Webpack 缓存问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1c64wwz/turborepo_and_webpack_cache_issue/</link>
-      <description><![CDATA[我目前正在使用 Turborepo 来管理两个前端构建的并发运行，每个前端构建都通过 npm 拥有自己的开发和生产脚本。此设置是我们逐步淘汰旧代码同时引入新堆栈的策略的一部分，使我们的依赖项和编码风格整齐分开。 两个构建都采用相当典型的 webpack 设置，处理来自资产目录的脚本并输出到一个单独的 dist/static 目录，远离我们的源文件。 这里有一个障碍：当我运行 prod 构建时，Turborepo 会缓存它。然后，如果我切换到开发版本，webpack 会将带有源映射的未缩小文件吐出到 dist 目录中。如果我恢复到产品版本而不进行任何源更改，Turborepo 无法检测到任何更改 - 它假设没有任何新内容并坚持使用缓存的版本。这意味着它不会用产品版本替换静态目录中的开发文件。 还有其他人遇到过这种情况吗？您是如何设法让 Turborepo 识别何时在开发环境和生产环境之间正确缓存或替换文件？谢谢！   由   提交 /u/Benjosity   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在使用 Turborepo 来管理两个前端构建的并发运行，每个构建都通过 npm 拥有自己的开发和生产脚本。此设置是我们逐步淘汰旧代码同时引入新堆栈的策略的一部分，使我们的依赖项和编码风格整齐分开。 两个构建都采用相当典型的 webpack 设置，处理来自资产目录的脚本并输出到一个单独的 dist/static 目录，远离我们的源文件。 这里有一个障碍：当我运行 prod 构建时，Turborepo 会缓存它。然后，如果我切换到开发版本，webpack 会将带有源映射的未缩小文件吐出到 dist 目录中。如果我恢复到产品版本而不进行任何源更改，Turborepo 无法检测到任何更改 - 它假设没有任何新内容并坚持使用缓存的版本。这意味着它不会用产品版本替换静态目录中的开发文件。 还有其他人遇到过这种情况吗？您是如何设法让 Turborepo 识别何时在开发环境和生产环境之间正确缓存或替换文件？谢谢！   由   提交 /u/Benjosity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c64wwz/turborepo_and_webpack_cache_issue/</guid>
       <pubDate>Wed, 17 Apr 2024 08:48:04 GMT</pubDate>
     </item>
     <item>
       <title>更改滚动条上的部分图像和描述</title>
       <link>https://www.reddit.com/r/webdev/comments/1c64n2c/change_section_image_and_description_on_scroll/</link>
-      <description><![CDATA[我想在我的网页中创建一个与[滚动此部分中网页中的任意位置且仅滚动图像和描述更改](https://i.stack.imgur.com/D1a5H.png) [克莱德]( https://joinclyde.com/）。我有 2 张幻灯片用于此部分，并且也忽略进度条。 我正在使用 React Framer 动作在我的网站上添加动画。在这里，我尝试使用 {useInView}-{react-intersection-observer} 或 useRef ，这可能更好地获取该部分顶部的引用并使用 {useAnimationControls} 启动一些动画来更改向下滚动的图像和描述向上滚动时反之亦然。也许我无法将所有这些放在一起，或者也许我的方法是错误的。建议一些想法或片段，以便我可以在我的网页中实现这一点。   由   提交/u/Prankush_048   [链接] [评论]]]></description>
+      <description><![CDATA[我想在我的网页中创建一个部分，该部分类似于 [滚动此部分的网页任意位置，只有图像和说明会发生变化](https://i.stack.imgur.com/D1a5H.png) [Clyde](https://joinclyde.com/) 中的此部分。我有 2 张幻灯片用于此部分，并且忽略进度条。 我正在使用 React Framer motion 在我的网站上添加动画。在这里，我尝试使用 {useInView}-{react-intersection-observer} 或 useRef，它们可以更好地获取部分顶部的引用，并使用 {useAnimationControls} 启动一些动画以在向下滚动时更改图像和说明，反之亦然。也许我无法将所有这些放在一起，或者我的方法不对。 提出一些想法或片段，以便我可以在我的网页中实现它。    提交人    /u/Prankush_048   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c64n2c/change_section_image_and_description_on_scroll/</guid>
       <pubDate>Wed, 17 Apr 2024 08:28:37 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[我尝试在视频上使用 SVG 作为 ClipPath。我尝试了一个 SVG，它显示了预期的结果。但是，另一个则不然。 另外，有没有办法将视频与 svg 标签分离，使其独立？ 代码位于以下 stackoverflow 链接： https://stackoverflow.com/questions/78337100/svg-clippath-not-showing    由   提交/u/za3b  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c648y7/svg_clippath_not_showing/</guid>
       <pubDate>Wed, 17 Apr 2024 08:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c63tpr/beginner_help/</link>
-      <description><![CDATA[      有人可以向我解释一下我是如何算出来的吗，我知道答案是 55 只是因为我已经弄错了    由   提交/u/Billy-VB  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c63tpr/beginner_help/</guid>
-      <pubDate>Wed, 17 Apr 2024 07:30:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何进行软件测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c63k70/how_to_do_software_testing/</link>
-      <description><![CDATA[嘿伙计们，我自学和构建 Web 应用程序已经超过 1.5 年了，但我一直害怕测试我的代码因为我觉得需要大量的开发时间和心理体操来思考每个测试应该如何实施，所以现在我觉得我想回去再试一次，所以任何测试专家都可以帮助我选择我应该使用哪种工具以及如何考虑测试我的代码？我正在使用 javascript/typescript。   由   提交 /u/Cheesuscrust460   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c63k70/how_to_do_software_testing/</guid>
-      <pubDate>Wed, 17 Apr 2024 07:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>“完美”的 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c6390h/the_perfect_cms/</link>
-      <description><![CDATA[我正在寻找/构建一个可以实现以下目的的 CMS： 1. 将博客功能添加到现有的静态站点，只需将一些文件上传到 /blog 文件夹中。 2.没有数据库。平面文件系统。 我发现最好的东西是 HTMLy cms。该 cms 仍然缺少的东西是： - 上传图像时，创建多个不同大小的实例（如 WordPress 那样）以提高响应能力。也许还可以创建其他图像格式，例如 webp + jpg 或 webp + png（用于透明图像）。 - 目前只能通过编辑 .ini 文件来创建用户。如果您可以从后端添加/删除用户，那就太好了。 - 一个更干净、直观的后端，带有像 Decap CMS 这样的看板发布流程 - 一个富文本编辑器以及当前的 Markdown 编辑器，并且能够在它们之间切换（就像 Decap 那样） 我想要的其他东西要添加的是： 3. 只需将一些文件上传到 /shop 文件夹即可向现有静态站点添加购物功能。 4. 添加一个作为前端编辑器的模块（中型），可以编辑任何文本并替换静态站点中的任何图像。 这看起来不现实吗？ &lt; !-- SC_ON --&gt;  由   提交 /u/88Smiley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c6390h/the_perfect_cms/</guid>
-      <pubDate>Wed, 17 Apr 2024 06:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么 SFTP 或 SSH 客户端来连接和实时编辑代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c638qj/what_sftp_or_ssh_client_do_you_use_to_connect_and/</link>
-      <description><![CDATA[我学习使用 Python、SQL 以及 HTML 和 CSS 从头开始​​构建网站。您使用什么SFTP客户端连接到服务器/托管并在服务器上编辑代码？有什么推荐吗？我知道 Filezilla 和 Winscp，但很难进行实时编辑，因为我看不到行号和代码颜色。   由   提交 /u/verzing1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c638qj/what_sftp_or_ssh_client_do_you_use_to_connect_and/</guid>
-      <pubDate>Wed, 17 Apr 2024 06:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者问题：如何使这些按钮正确对齐？ https://github.com/AungHtet2/epidemic-pricing-web-page.git</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c635bt/beginner_question_how_do_i_make_those_buttons/</link>
-      <description><![CDATA[       由   提交/u/aunghtetnaing  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c635bt/beginner_question_how_do_i_make_those_buttons/</guid>
-      <pubDate>Wed, 17 Apr 2024 06:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么该元素的索引高于具有 z 索引的固定元素的索引； 9999？当我将其设置为-1时，它超出了固定元素。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c631st/why_is_the_index_of_this_element_higher_than_that/</link>
-      <description><![CDATA[   /u/BredBul  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c631st/why_is_the_index_of_this_element_higher_than_that/</guid>
-      <pubDate>Wed, 17 Apr 2024 06:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助放置网站图标</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c61svl/need_help_placing_a_favicon/</link>
-      <description><![CDATA[我在互联网上搜索过，试图找出如何在我正在构建的网站上放置图标图像，但我正在尝试的一切都不是不工作。任何人都知道如何做到这一点，我真的很感激。   由   提交 /u/Worldly-Fig4244    reddit.com/r/webdev/comments/1c61svl/need_help_placing_a_favicon/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c61svl/need_help_placing_a_favicon/</guid>
-      <pubDate>Wed, 17 Apr 2024 05:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作/学校用笔记本电脑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c613pb/laptop_for_workschool/</link>
-      <description><![CDATA[我正在考虑回去完成我的计算机科学学位。遗憾的是，我需要使用工作笔记本电脑以外的其他设备。 哪款笔记本电脑对我来说最划算？我习惯了 Windows，并且使用 WSL2 来处理 Kubernetes 和 GIT 的所有事情。我可以使用任何其他工具来替换 WSL2 吗？    由   提交/u/a-salt-and-badger  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c613pb/laptop_for_workschool/</guid>
-      <pubDate>Wed, 17 Apr 2024 04:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c60sel/newbie_assistance/</link>
-      <description><![CDATA[作为一名希望自己制作作品集网站的学生设计师，我对自己应该走的路有些怀疑。如果有人能给我指点如何实现我的目标，我会非常高兴。  Discord : edencroft 不会花超过几分钟的时间。我保证。    提交人    /u/Charming_Ad4221   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c60sel/newbie_assistance/</guid>
-      <pubDate>Wed, 17 Apr 2024 04:23:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 架构：HTTP 与 Websockets (Socket.IO)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c5zw3h/api_architecture_http_v_websockets_socketio/</link>
-      <description><![CDATA[所以，我现在正在进行一个非常大的项目，我对如何进行后面的工作感到左右为难——本次重新设计结束。 例如：这是一个类似于本地销售点系统的系统。为了便于讨论，不需要考虑云服务器，因为它是由数据库同步处理的。 这里的问题是本地网络使用什么方法。每个位置都有一个运行一些后端服务的本地服务器。本地网络上的机器可以连接到本地服务器的API服务。有两个主要用途：管理仪表板（具有前端 React 应用程序）以及销售点网点和屏幕（也具有前端 React 应用程序）。 通常，我默认为基于请求的 API，但是，由于整个本地网络中持续且即时的通信需求，我已将 Websocket 用于许多销售点功能。我一直困惑的问题是……为什么我不让整个 API 基于 websocket？  这是一个安全的网络，使用安全的 SSL，利用标头安全性、密钥、JWT 等。一旦我对客户端（机器）进行了身份验证并授权了用户，持续的请求/响应似乎很麻烦- 使用相当稳定，很少会看到单个请求 - 我最终会收到数十个针对单个用户事务的请求，当他们返回输入其他内容时，这些请求将在两分钟内重新打开。  我倾向于利用机器的请求来进行身份验证并允许在销售点进行用户授权。那时，我正在努力寻找继续使用 http 来处理传输的理由，而不仅仅是使用 websocket 来处理当时的所有事情。  对于这种 API 架构有什么想法/例子吗？或者有谁从事过类似的工作吗？    由   提交/u/NuGGGzGG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c5zw3h/api_architecture_http_v_websockets_socketio/</guid>
-      <pubDate>Wed, 17 Apr 2024 03:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
