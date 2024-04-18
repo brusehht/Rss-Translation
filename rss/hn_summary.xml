@@ -4,86 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 08:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:18:43 GMT</lastBuildDate>
     <item>
-      <title>[媒体]该项目证明 Meson（C 和 C++ 的构建系统）是 Turing-Comp [...]</title>
-      <link>https://t.me/hn_summary/85139</link>
-      <description><![CDATA[介子图灵完备的证明
-该项目证明 Meson（C 和 C++ 的构建系统）是图灵完备的，尽管声称它不是。作者探索了介子的特征，例如 if 语句和循环，表明其图灵完备性。该项目还讨论了与内存大小限制相关的图灵完备性概念。作者强调，Meson 的目标是成为一种优秀的构建描述语言，而不是一种通用语言。这个证明并没有降低 Meson 的质量，而是凸显了构建配置所需的复杂性。]]></description>
-      <guid>https://t.me/hn_summary/85139</guid>
-      <pubDate>Thu, 18 Apr 2024 08:33:40 GMT</pubDate>
+      <title>[媒体]您知道摩尔多瓦人均拥有世界上最多的葡萄园吗？</title>
+      <link>https://t.me/hn_summary/85154</link>
+      <description><![CDATA[摩尔多瓦人均葡萄园数量世界第一
+您知道摩尔多瓦人均拥有世界上最多的葡萄园吗？摩尔多瓦有着悠久的酿酒历史，可以追溯到几个世纪前，是葡萄酒爱好者的一颗隐藏的宝石。该国独特的气候和土壤使其成为种植葡萄和生产高品质葡萄酒的理想之地。无论您是葡萄酒鉴赏家还是只是想探索新事物，摩尔多瓦的葡萄园都绝对值得一游。今天就探索摩尔多瓦葡萄酒的美丽和味道！ #摩尔多瓦#wine #vineyards]]></description>
+      <guid>https://t.me/hn_summary/85154</guid>
+      <pubDate>Thu, 18 Apr 2024 12:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>OpenBSD 将引入并行原始 IP 输入，这是网络堆栈的重大改进。</title>
-      <link>https://t.me/hn_summary/85138</link>
-      <description><![CDATA[OpenBSD – 即将推出您附近的当前系统：并行原始IP输入
-OpenBSD 将引入并行原始 IP 输入，这是网络堆栈的重大改进。 Alexander Bluhm 发布了一个补丁，允许并行运行原始 IP 输入，使其比 UDP 更简单。这一变化旨在提高系统充分利用多个核心处理网络流量的能力，从而产生更快的数据包。虽然原始 IP 的测试范围仍然有限，但这一开发预计将包含在下一个版本中。最终目标是通过并行处理来增强 UDP 和 TCP 等协议的性能。]]></description>
-      <guid>https://t.me/hn_summary/85138</guid>
-      <pubDate>Thu, 18 Apr 2024 08:09:29 GMT</pubDate>
+      <title>[媒体]Keeper 正在招聘工程师，为不知所措的自由职业者建立个人会计师 [...]</title>
+      <link>https://t.me/hn_summary/85153</link>
+      <description><![CDATA[Keeper (YC S21) 正在招聘工程师为以下人员建立个人会计师大家
+Keeper 正在招聘工程师，为饱受税法困扰的自由职业者打造个人会计师。超过一半的 Z 世代工人签订了 1099 份合同，许多人都错过了税收减免。 Keeper 根据用户上传的内容提供个性化的报税体验，并提供快速响应和专家建议。用户喜欢该应用程序，因为它简单且安心。 Keeper 的工程师拥有自主权，专注于产品和用户，并直接与利益相关者协作。他们致力于基于上下文的情报、收入跟踪和季度税收。如果您注重自主性、专注于产品和帮助他人，Keeper 可能非常适合您。]]></description>
+      <guid>https://t.me/hn_summary/85153</guid>
+      <pubDate>Thu, 18 Apr 2024 12:01:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]席勒不知道App Store是否盈利；</title>
-      <link>https://t.me/hn_summary/85137</link>
-      <description><![CDATA[Schiller 不知道 App Store 是否盈利；没有注释
-苹果公司前营销主管菲尔·席勒 (Phil Schiller) 在反垄断案件中作证称，他不确定 App Store 是否盈利。他还透露，苹果公司不会记录高管之间的会议纪要，这是史蒂夫·乔布斯 (Steve Jobs) 在 1997 年发起的做法。在推出 App Store 时缺乏投资回报率和盈利能力分析等财务指标引起了人们的关注，席勒承认利润并不高。这不是团队的关键指标。在美国与 Epic Games 的法庭大战可能已经结束，但澳大利亚针对苹果的案件正在重新审视类似的问题。]]></description>
-      <guid>https://t.me/hn_summary/85137</guid>
-      <pubDate>Thu, 18 Apr 2024 07:42:18 GMT</pubDate>
+      <title>用于测试的数据。</title>
+      <link>https://t.me/hn_summary/85152</link>
+      <description><![CDATA[创业理念：逆向亚马逊
+用于测试的数据。这次经历启发我提出了反向亚马逊的想法——用户可以在这个平台上上传他们的个人数据并收到完全匿名的版本作为回报。这个概念彻底颠覆了传统的数据收集模式，让用户能够控制自己的信息。随着隐私问题的日益严重，反向亚马逊可能会成为科技行业的游戏规则改变者。]]></description>
+      <guid>https://t.me/hn_summary/85152</guid>
+      <pubDate>Thu, 18 Apr 2024 11:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家终于解开了月球“不平衡”地质之谜，脱落了 [...]</title>
-      <link>https://t.me/hn_summary/85136</link>
-      <description><![CDATA[科学家解开了围绕月球“不平衡”地质的长期谜团&lt; /a&gt;
-科学家们终于解开了月球“不平衡”地质之谜，揭示了月球内部 40 亿年来的演变过程。通过分析月球重力异常和计算机模型，研究人员发现了钛铁矿材料的密度如何沉入月球内部，并在表面留下了独特的图案。这一发现不仅提供了对月球形成的见解，而且对理解地球和火星等其他行星的演化也具有重要意义。这些发现为我们最近的天体邻居提供了新的视角，揭示了等待未来任务探索的隐藏历史。]]></description>
-      <guid>https://t.me/hn_summary/85136</guid>
-      <pubDate>Thu, 18 Apr 2024 07:32:11 GMT</pubDate>
+      <title>[媒体] 作者参加旧金山的一个家庭聚会，客人们进行着古怪的交谈 [...]</title>
+      <link>https://t.me/hn_summary/85151</link>
+      <description><![CDATA[耶奥尔德湾区家庭聚会
+标题：Ye Olde Bay Area House Party 摘要：
+作者参加旧金山的一个家庭聚会，客人们进行着古怪的对话。女主人介绍了一种名为“Landulgences”的新产品，人们可以向美洲原住民部落支付租金以使用他们的土地。另一位客人计划为他的公司从哈马斯挖隧道专家。一位女士推销一款支持二维码的浏览器，一位男士经营一家慈善机构，以防止鱼被疟疾网捕获。聚会充满了独特的想法和讨论，展示了湾区文化的奇特之处。 （根据故事文本的 61% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85151</guid>
+      <pubDate>Thu, 18 Apr 2024 11:41:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Lions OS 由 UNSW 的 Trustworthy Systems 团队开发，是一个完整的操作系统 [...]</title>
-      <link>https://t.me/hn_summary/85135</link>
-      <description><![CDATA[Lions OS：安全 – 快速 – 适应性强
-Lions OS 由新南威尔士大学的 Trustworthy Systems 团队开发，是一个基于安全 seL4 内核的完整操作系统。与 seL4 不同，Lions OS 为应用程序程序员提供必要的服务，旨在支持网络物理、物联网和嵌入式系统的开发人员。该操作系统的设计考虑了高性能、安全性和适应性，并注重简单性，以实现卓越的性能和实现的正确性。该项目预计在 2-3 年内完成，展示了 Lions OS 作为适用于广泛用例的开源解决方案的潜力。]]></description>
-      <guid>https://t.me/hn_summary/85135</guid>
-      <pubDate>Thu, 18 Apr 2024 07:13:02 GMT</pubDate>
+      <title>欧盟委员会的科学顾问正在推动创建“人工智能欧洲核子研究中心”[...]</title>
+      <link>https://t.me/hn_summary/85150</link>
+      <description><![CDATA[欧盟科学顾问呼吁“CERN for AI”提供援助研究
+欧盟委员会的科学顾问正在推动在欧洲创建“人工智能欧洲核子研究中心”，以促进研究和创新。拟议的欧洲分布式人工智能科学研究所（EDIRAS）旨在为研究人员提供一流的计算能力、数据、人才和培训。然而，人工智能社区的一些人认为该提案缺乏雄心和愿景，过于狭隘地关注人工智能的科学而非更广泛的应用。 EDIRAS 的分布式性质被视为一种优势，可确保整个欧洲的透明度和可访问性。 EDIRAS 的预算和实施仍然是委员会前进的关键考虑因素。]]></description>
+      <guid>https://t.me/hn_summary/85150</guid>
+      <pubDate>Thu, 18 Apr 2024 11:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加入 Langfuse，一个尖端的语言学习平台，我们在 Ber [...]</title>
-      <link>https://t.me/hn_summary/85134</link>
-      <description><![CDATA[Langfuse (YC W23) 正在招聘 [德国柏林 DevRel 工程师](https://news.ycombinator.com/item?id=40073673)
-加入 Langfuse，一个尖端的语言学习平台，我们正在扩大我们在德国柏林的团队。我们目前正在寻找工程师和开发者关系专家来帮助我们彻底改变人们学习语言的方式。在 Langfuse，我们相信创造一个支持性和创新性的工作环境，让员工能够茁壮成长。如果您对语言教育充满热情并希望成为充满活力的团队的一员，请立即申请！不要错过这个激动人心的机会，参与 Langfuse 真正特别的活动。 © 2022-2024 Finto 技术公司。立即前往 langfuse.com 申请。]]></description>
-      <guid>https://t.me/hn_summary/85134</guid>
-      <pubDate>Thu, 18 Apr 2024 07:00:55 GMT</pubDate>
+      <title>[媒体]羽毛确实是进化论中最聪明的发明之一，正如公司所证明的那样[...]</title>
+      <link>https://t.me/hn_summary/85149</link>
+      <description><![CDATA[羽毛是进化最聪明的发明之一
+羽毛确实是进化过程中最聪明的发明之一，斑尾塍鹬 B6 的不可思议的旅程就证明了这一点。这只鸟不间断地飞行了 8,425 英里，展示了羽毛的非凡特性，可以保暖、防雨，并形成翅膀的飞行表面。关于羽毛的令人惊讶的新发现不断出现，包括它们的进化起源和空气动力学特性。羽毛在飞行的进化中发挥着至关重要的作用，不同类型的羽毛具有不同的功能。展示羽毛曾经被认为只是性选择的产物，现在被视为社会生物学和机械生物学之间的复杂妥协。羽毛的适应性和复杂性继续吸引着研究人员，为人们揭示鸟类进化的迷人世界提供了线索。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85149</guid>
+      <pubDate>Thu, 18 Apr 2024 11:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在斯特雷特的无酵饼工厂，逾越节主食的生产遵循严格的犹太教[...]</title>
-      <link>https://t.me/hn_summary/85133</link>
-      <description><![CDATA[Matzo 是如何制作的
-在 Streit 的无酵饼工厂，逾越节主食的生产遵循严格的犹太法律，并由一名 mashgiach 监督整个过程。尽管发生了一些变化，比如搬到纽约州北部的一家更大的工厂，逾越节无酵饼的配方仍然是一样的：面粉和水。该工厂在逾越节前日夜不停地运转，为节日生产了约 250 万箱。无酵饼被称为“苦难的面包”，象征着奴隶制和自由的二分法，在逾越节家宴期间引发了对这些主题的讨论。 Streit 对传统和品质的承诺体现在其一丝不苟的生产过程中。]]></description>
-      <guid>https://t.me/hn_summary/85133</guid>
-      <pubDate>Thu, 18 Apr 2024 06:29:42 GMT</pubDate>
+      <title>[媒体] 标题：多米诺计算机</title>
+      <link>https://t.me/hn_summary/85148</link>
+      <description><![CDATA[Domino 计算机
+标题：多米诺计算机
+
+马特·帕克 (Matt Parker) 在 2012 年曼彻斯特科学节上用多米诺骨牌建造了一台计算机。该计算机可以使用二进制逻辑将三位数字相加。该页面解释了计算机的设计方式以及简单的反应如何进行数学计算。用户可以在线与多米诺骨牌互动，了解“非”、“或”、“与”和“异或”等逻辑门。挑战是构建一个半加器和全加器来添加两个三位数字。设计必须考虑到真正的多米诺骨牌变异性和时间问题。该项目旨在展示基本组件如何创建复杂的系统，例如真实的计算机。]]></description>
+      <guid>https://t.me/hn_summary/85148</guid>
+      <pubDate>Thu, 18 Apr 2024 11:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Dimidium 是一种终端配色方案，旨在在所有颜色上具有统一的可见性 [...]</title>
-      <link>https://t.me/hn_summary/85132</link>
-      <description><![CDATA[展示 HN：Dimidium – 采用色彩科学的制作终端配色方案
-Dimidium 是一种终端配色方案，旨在使所有颜色具有统一的可见性，旨在成为终端的不错的默认设置。通过使用颜色外观模型 (CAM16) 调整传统的配色方案，它可以解决可见性问题，同时保留颜色的本质。 Dimidium 将感知亮度差异减少一半，解决了过度深蓝色和鲜艳绿色等问题。它还均衡色调差异以最大化颜色变化，并引入色调偏移以更好地区分。该项目通过利用色彩科学精心设计配色方案来确保最佳的可视性和美观性，从而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/85132</guid>
-      <pubDate>Thu, 18 Apr 2024 05:54:29 GMT</pubDate>
+      <title>[媒体]欧盟委员会给TikTok 24小时时间解释风险评估程序 [...]</title>
+      <link>https://t.me/hn_summary/85147</link>
+      <description><![CDATA[欧洲给 TikTok 24 小时的时间来解释“令人上瘾且有毒”的新应用
+欧盟委员会给 TikTok 24 小时的时间来解释在推出新的 TikTok Lite 应用程序之前所使用的风险评估程序，该应用程序会奖励用户完成任务。该应用程序提供亚马逊优惠券和贝宝礼品卡等奖励，面向数据使用量有限的青少年。欧盟委员蒂埃里·布雷顿质疑该应用程序是否像香烟一样令人上瘾和有毒。 TikTok 必须提供有关对未成年人和心理健康的潜在影响的信息。该应用程序的推出加剧了其在欧洲的麻烦，而在美国，人们对其中国所有权感到担忧。埃隆·马斯克 (Elon Musk) 也惹恼了他，询问他是否应该带回 Vine。]]></description>
+      <guid>https://t.me/hn_summary/85147</guid>
+      <pubDate>Thu, 18 Apr 2024 11:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了当前 Rust 调用约定的局限性，并提出了一种新的 [...]</title>
-      <link>https://t.me/hn_summary/85131</link>
-      <description><![CDATA[我们应得的 Rust 调用约定
-本文讨论了当前 Rust 调用约定的局限性，并提出了一种新的、更高效的调用约定，称为“快速”。通过引入一个标志来设置 Rust 函数的调用约定，作者建议优化参数传递和返回的方式以改进代码生成。所提出的方法包括确定寄存器可以传递多少个值、决定返回值处理以及最大化寄存器空间使用。虽然这个想法很创新，但作者承认函数指针和某些目标存在潜在的挑战。总的来说，本文提出了实现更有效的 Rust 调用约定的详细计划。 （根据 27% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85131</guid>
-      <pubDate>Thu, 18 Apr 2024 05:27:17 GMT</pubDate>
+      <title>[媒体]在混乱和复杂的世界中，传统的原子因果模型可能不再是[...]</title>
+      <link>https://t.me/hn_summary/85146</link>
+      <description><![CDATA[因果关系、交互作用和复杂性
+在混乱和复杂的世界中，传统的原子因果模型可能不是理解相互作用的最有效方法。相反，关注系统中每个元素如何与其他元素交互可以提供更准确的图像。通过考虑相互关联的事件集而不是线性因果关系，我们可以更好地分析混沌系统。令人惊讶的是，因果关系可以被视为系统之间熵水平或采样率差异的结果。这种独特的视角挑战了传统的因果关系思维方式，并强调了理解复杂系统中事件相互关联的本质的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85146</guid>
+      <pubDate>Thu, 18 Apr 2024 10:37:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在抗议劳动条件和公司合作后，谷歌解雇了 28 名员工 [...]</title>
-      <link>https://t.me/hn_summary/85130</link>
-      <description><![CDATA[Google 在多城市抗议后解雇了 28 名员工&lt; br /&gt;
-在抗议劳动条件以及该公司与以色列政府和军方签订的云计算和人工智能服务合同后，谷歌解雇了 28 名员工。包括纽约和加利福尼亚州谷歌办公室静坐在内的抗议活动导致逮捕和解雇。被解雇的工人参与了由“种族隔离无技术”团体组织的抗议活动。争议围绕谷歌的军事合同和员工抗议权。这些示威活动凸显了谷歌员工与该公司参与军事项目之间的紧张关系。解雇事件引发了公愤，并引发了对公司内部言论自由的担忧。]]></description>
-      <guid>https://t.me/hn_summary/85130</guid>
-      <pubDate>Thu, 18 Apr 2024 04:31:56 GMT</pubDate>
+      <title>【媒体】你厌倦了“A资本”敏捷的废话吗？</title>
+      <link>https://t.me/hn_summary/85145</link>
+      <description><![CDATA[展示 HN：反对敏捷的卡片，一款适合敏捷爱好者和敏捷爱好者的有趣游戏愤世嫉俗者同样如此
+您是否厌倦了“资本 A”敏捷的废话？ Cards Against Agility 就是最好的选择，这是一款搞笑的纸牌游戏，嘲笑敏捷仪式中人为的术语和实践。通过史诗和用户故事，玩家扮演 Scrum Master 等角色，并竞争按时、按预算交付项目。这款游戏采用耐用、高品质的卡片印刷，非常适合喜欢幽默和讽刺的科技行业人士。无论您是敏捷迷还是愤世嫉俗者，《Cards Against Agility》一定会在那些漫长而无聊的会议中提供娱乐。]]></description>
+      <guid>https://t.me/hn_summary/85145</guid>
+      <pubDate>Thu, 18 Apr 2024 10:35:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
