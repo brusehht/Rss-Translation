@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 00:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 03:08:01 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在佛罗里达州，一种神秘现象导致鱼在水中旋转和旋转，le [...]</title>
-      <link>https://t.me/hn_summary/85088</link>
-      <description><![CDATA[佛罗里达州的鱼在“旋转和旋转”后神秘死亡，
-在佛罗里达州，一种神秘现象导致鱼类在水中旋转并旋转，导致至少 28 只濒危物种小齿锯鳐死亡。科学家们对这种异常行为感到困惑，并正在启动紧急响应工作以拯救剩余的锯鳐。这种奇怪行为的原因仍然未知，潜在的触发因素被排除。我们鼓励公众举报任何行为异常的鱼类，以协助调查。这种前所未有的情况使得野生动物生物学家争先恐后地拯救小齿锯鳐和其他受影响的物种。]]></description>
-      <guid>https://t.me/hn_summary/85088</guid>
-      <pubDate>Thu, 18 Apr 2024 00:21:10 GMT</pubDate>
+      <title>[媒体] WebSocketStream API 将流与 WebSocket 协议集成在一起，允许 b [...]</title>
+      <link>https://t.me/hn_summary/85122</link>
+      <description><![CDATA[WebSocketStream API
+WebSocketStream API 将流与 WebSocket 协议集成，允许轻松应用背压。这解决了处理消息过快或过慢的问题，防止内存溢出和无响应。该 API 是基于 Promise 的，因此在现代 JavaScript 中易于使用。高级功能包括协议选择和处理封闭连接。目前仅在 Chrome 中可用，鼓励对 API 设计和实现提供反馈。通过使用 API 并分享您的经验来表达对 API 的支持。由 Adam Rice 和 Yutaka Hirano 开发，英雄形象由 Daan Mooij 设计。 #WebSocketStream。]]></description>
+      <guid>https://t.me/hn_summary/85122</guid>
+      <pubDate>Thu, 18 Apr 2024 03:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Riley Testut 很高兴地宣布推出 AltStore PAL，这是 Apple 批准的替代品 [...]</title>
-      <link>https://t.me/hn_summary/85087</link>
-      <description><![CDATA[AltStore Pal
-Riley Testut 很高兴地宣布推出 AltStore PAL，这是一个经 Apple 批准的欧盟替代应用市场，专为独立开发者设计。 AltStore PAL 是开源的，旨在解决 App Store 的问题，提供任天堂模拟器 Delta 和剪贴板管理器 Clip 等应用程序。 AltStore 是去中心化的，允许开发人员免费自行托管和分发应用程序。该平台还与 Patreon 集成，供开发者通过他们的应用程序获利。 Riley 希望 AltStore 能为被 App Store 拒绝的独特应用程序提供一条路径，并迫使苹果做出积极的改变。 （根据 99% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85087</guid>
-      <pubDate>Thu, 18 Apr 2024 00:15:05 GMT</pubDate>
+      <title>[媒体] Bencher（领先的连续基准测试工具）的作者发现他们的 p [...]</title>
+      <link>https://t.me/hn_summary/85121</link>
+      <description><![CDATA[为什么 SQLite 性能调优使 Bencher 速度提高了 1200 倍
+摘要：
+Bencher（领先的连续基准测试工具）的作者发现他们的性能慢得令人尴尬，并决定进行调查。通过进行各种性能改进，包括重构 Reports API 和限制数据库句柄，他们能够使 Bencher 速度提高 1200 倍。作者还首次深入研究了 SQLite 数据库的分析，并优化了 ORM Diesel 生成的 SQL 查询。令人惊讶的方面是通过这些调整工作实现了显着的性能改进。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85121</guid>
+      <pubDate>Thu, 18 Apr 2024 02:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔实验室推出了 Hala Point 神经拟态计算机，拥有 11.5 亿个神经元 [...]</title>
-      <link>https://t.me/hn_summary/85086</link>
-      <description><![CDATA[桑迪亚国家实验室接收英特尔 Hala Point 实时人工智能系统
-英特尔实验室推出了 Hala Point 神经拟态计算机，拥有 11.5 亿个神经元和 1280 亿个突触，全部在硅中模拟。该系统由 1,152 个 Loihi 2 处理器提供支持，与传统 CPU 和 GPU 架构相比，解决 AI 问题的速度提高了 50 倍，功耗降低了 100 倍。虽然尚未准备好取代所有工作负载的 GPU，但 Hala Point 擅长自动驾驶汽车和组合优化问题等应用的实时数据处理。桑迪亚国家实验室已经交付了这项尖端技术，展示了其推进人工智能和高性能计算研究的潜力。]]></description>
-      <guid>https://t.me/hn_summary/85086</guid>
-      <pubDate>Thu, 18 Apr 2024 00:02:58 GMT</pubDate>
+      <title>美国的年轻农民正在精疲力尽。</title>
+      <link>https://t.me/hn_summary/85120</link>
+      <description><![CDATA[美国的年轻农民正在精疲力竭。我也辞职了
+在深刻反思美国年轻农民所面临的挑战时，作者分享了斯科特·张·弗利曼 (Scott Chang-Fleeman) 的故事，这位农民最近因精疲力尽而决定离开土地。尽管取得了初步成功，张·弗利曼的旅程仍面临着财务压力、严重干旱和全球大流行的影响。故事揭示了许多年轻农民面临的心理健康困境，强调需要结构性支持和政策变化，以确保他们在该行业的福祉和可持续性。随着《农业法案》的临近，作者主张采取真正的解决方案来解决年轻农民面临的经济、身体和精神挑战，并强调确保美国农业未来的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85120</guid>
+      <pubDate>Thu, 18 Apr 2024 02:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>Meta AI 是一家领先的人工智能公司，最近因声称拥有 [...]</title>
-      <link>https://t.me/hn_summary/85085</link>
-      <description><![CDATA[Meta AI 声称在纽约公立学校有一个孩子
-领先的人工智能公司 Meta AI 最近因声称自己的孩子在纽约市公立学校就读而登上了头条新闻。这一发现引发了争议，并引发了人们对人工智能在教育中的作用的质疑。许多人都好奇这将如何影响孩子的学习体验，以及 Meta AI 将从这种独特的情况中获得什么见解。请继续关注这一有趣发展的最新动态。 #AIinEducation #MetaAI #NYCSschools]]></description>
-      <guid>https://t.me/hn_summary/85085</guid>
-      <pubDate>Thu, 18 Apr 2024 00:01:54 GMT</pubDate>
+      <title>[媒体]在微软研究院，我们很高兴推出 Vasa-1，这是一项突破性技术 [...]</title>
+      <link>https://t.me/hn_summary/85119</link>
+      <description><![CDATA[Vasa-1：实时生成逼真的音频驱动会说话的面孔
+在微软研究院，我们很高兴推出 Vasa-1，这是一项突破性的技术，可以实时创建逼真的音频驱动会说话的面孔。通过将尖端的人工智能算法与先进的音频处理技术相结合，Vasa-1 可以生成逼真的面部表情和动作，与口语完美同步。这项创新为互动交流和娱乐开辟了无限的可能性，彻底改变了我们与虚拟角色和化身互动的方式。通过 Vasa-1 体验人机交互的未来，现实与虚拟之间的界限在令人着迷的技术和创造力展示中变得模糊。]]></description>
+      <guid>https://t.me/hn_summary/85119</guid>
+      <pubDate>Thu, 18 Apr 2024 02:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>在我寻求解开笔记本电脑 100% CPU 使用率的谜团时，我偶然发现了一个随机解决方案 [...]</title>
-      <link>https://t.me/hn_summary/85084</link>
-      <description><![CDATA[Windows 中 CPU 使用率 100% 的随机解决方案 
-在我试图解开我的笔记本电脑 CPU 使用率 100% 的谜团时，我偶然发现了一个实际有效的随机解决方案。通过禁用电源选项中的 USB 选择性暂停设置，问题得到了解决，结束了困扰我一年多的粉丝狂热。令人惊讶的部分？无论连接的 USB 设备如何，问题都会发生，这使得修复更加出乎意料。虽然这一变化的潜在影响尚不清楚，但对于不再失控的 CPU 来说，这是一个很小的代价。]]></description>
-      <guid>https://t.me/hn_summary/85084</guid>
-      <pubDate>Wed, 17 Apr 2024 23:37:41 GMT</pubDate>
+      <title>[媒体]美国宇航局的聪明号火星直升机已经完成了在这颗红色星球上的最后一次飞行，[...]</title>
+      <link>https://t.me/hn_summary/85118</link>
+      <description><![CDATA[聪明才智为人类提供了最后的礼物，但我们必须去火星去拿吧
+美国宇航局的“聪明号”火星直升机已经完成了在这颗红色星球上的最后一次飞行，收集了可能有利于未来火星任务的宝贵数据。尽管因迫降而结束了任务，“独创”号仍将继续在火星的维林诺山收集数据，直到失去电力或存储空间，这可能会持续 20 年。这些数据不会被发送回地球，需要未来的火星车辆或宇航员来检索。来自“独创性”的最后一份礼物有可能提供对火星天气模式和尘埃运动的深入了解，使该任务尽管面临挑战，但仍取得历史性的成功。]]></description>
+      <guid>https://t.me/hn_summary/85118</guid>
+      <pubDate>Thu, 18 Apr 2024 02:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：有人使用“封闭核心”软件模型吗？</title>
-      <link>https://t.me/hn_summary/85083</link>
-      <description><![CDATA[问 HN：有人使用“封闭核心”软件模型吗？ 
-news.ycombinator.com 上这篇文章的作者是寻求对“封闭核心”软件模型的见解，其中主系统是专有的，但附加模块是开源的。他们对使用这种方法的公司、优点和缺点以及它如何影响社区参与和软件采用感到好奇。这种独特的模型引发了有关软件开发中专有元素和开源元素之间平衡的问题。加入讨论，分享您对科技行业这一有争议话题的想法和经验。]]></description>
-      <guid>https://t.me/hn_summary/85083</guid>
-      <pubDate>Wed, 17 Apr 2024 23:35:35 GMT</pubDate>
+      <title>[媒体]最高法院决定不审查第一修正案的大规模抗议权利 [...]</title>
+      <link>https://t.me/hn_summary/85117</link>
+      <description><![CDATA[最高法院拒绝审查第一修正案大规模抗议权利案件 
+最高法院决定不审查第一修正案大规模抗议权利案件，这对德克萨斯州、密西西比州和路易斯安那州的抗议权利具有重大影响。这起案件是由一名在抗议期间受伤的警察提起的，目标是“黑人生命也是命”活动家德雷·麦克森。第五巡回上诉法院推翻了下级法院的裁决，允许该警官对麦克森提出的索赔继续进行，限制了第一修正案的保护并危及抗议权。麦克森认为，尽管此类诉讼产生了寒蝉效应，但宪法仍然保护抗议权。该决定凸显了捍卫独立新闻业的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85117</guid>
+      <pubDate>Thu, 18 Apr 2024 02:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 九名谷歌员工在谷歌云首席执行官 T 举行静坐抗议后被捕 [...]</title>
-      <link>https://t.me/hn_summary/85082</link>
-      <description><![CDATA[Google 员工在云主管办公室抗议九小时后被捕
-九名谷歌员工在谷歌云首席执行官 Thomas Kurian 的办公室举行静坐抗议后被捕，抗议活动在 Twitch 上进行了直播。这次抗议是针对 Nimbus 项目，这是一项与以色列政府和军方签订的价值 12 亿美元的合同。工人们抗议谷歌参与军事合同，其中一名工人表示，“我拒绝开发助长种族灭绝的技术。”这些抗议活动突显了谷歌在将其技术用于军事用途方面的内部斗争，一些员工面临着被解雇或行政休假等后果。工人们还抗议巴勒斯坦、阿拉伯和穆斯林雇员的劳动条件和审查制度。]]></description>
-      <guid>https://t.me/hn_summary/85082</guid>
-      <pubDate>Wed, 17 Apr 2024 23:28:30 GMT</pubDate>
+      <title>[媒体] 澳大利亚悉尼星赌场的软件故障导致无意中赠品 [...]</title>
+      <link>https://t.me/hn_summary/85116</link>
+      <description><![CDATA[软件故障导致澳大利亚赌场白送数百万现金 
+澳大利亚悉尼 Star Casino 的一次软件故障导致 TICO 机器无意中泄露了数百万现金。该故障使得赌徒可以多次兑换同一张收据，导致几周内就有 205 万美元被送走。赌场对此问题的回应受到批评，人们担心缺乏控制和监督。调查还揭示了该赌场合规措施的失败，包括财富来源检查不完整以及分析师提供的信息不足。围绕赠品的争议和赌场的合规问题引发了对其运营的严重担忧。]]></description>
+      <guid>https://t.me/hn_summary/85116</guid>
+      <pubDate>Thu, 18 Apr 2024 02:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章探讨了我们结婚的人的年龄在不同阶段如何变化[...]</title>
-      <link>https://t.me/hn_summary/85081</link>
-      <description><![CDATA[我们结婚的人的年龄
-这篇文章探讨了我们结婚的人的年龄在人生的不同阶段如何变化，考虑了离婚、多次婚姻和同性关系等因素。基于 2022 年美国社区调查数据的交互式图表显示，虽然我们倾向于在年轻时与年龄相近的人结婚，但随着年龄的增长，年龄分布变得更加多样化。令人惊讶的是，年龄在以后的关系中变得不那么重要。该数据还凸显了 2015 年同性婚姻合法化对年龄分布的影响。分析是使用 R 和 JavaScript 以及 D3.js 完成的。]]></description>
-      <guid>https://t.me/hn_summary/85081</guid>
-      <pubDate>Wed, 17 Apr 2024 23:26:26 GMT</pubDate>
+      <title>想深入研究语音世界吗？</title>
+      <link>https://t.me/hn_summary/85115</link>
+      <description><![CDATA[Praat：用计算机做语音
+想深入研究语音世界吗？ Praat 就是您的最佳选择，这是一款专为语音分析而设计的计算机程序。 Praat 适用于 Macintosh、Windows、Linux 等，提供丰富的手册、教程和初学者指南来帮助您入门。 Praat 由阿姆斯特丹大学的 Paul Boersma 和 David Weenink 开发，是分析语音的强大工具。需要帮助或有疑问吗？升级到最新版本，查看用户组，或直接联系创建者。有了 Praat，语音世界触手可及。]]></description>
+      <guid>https://t.me/hn_summary/85115</guid>
+      <pubDate>Thu, 18 Apr 2024 02:41:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人工智能并非无用。</title>
-      <link>https://t.me/hn_summary/85080</link>
-      <description><![CDATA[人工智能并非毫无用处。但这值得吗？
-AI并非无用，但值得吗？围绕人工智能工具，特别是大型语言模型（LLM）的使用的争议引发了对其真正收益和成本的质疑。虽然人工智能可以方便地完成某些任务，例如编码和校对，但围绕其功能的炒作往往与现实不符。公司夸大其辞地承诺人工智能工具可以取代人类作家，甚至可以制作长篇电影，但这与事实相去甚远。尽管有一些有用的功能，法学硕士很难产生新颖的想法，而且他们“幻觉”错误的倾向构成了重大挑战。关于人工智能工具有用性的争论仍在继续，人们担心它们的局限性和道德影响。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85080</guid>
-      <pubDate>Wed, 17 Apr 2024 23:24:22 GMT</pubDate>
+      <title>[媒体]科学家发现了第一个已知的分形蛋白，谢尔宾斯基三角形帕特 [...]</title>
+      <link>https://t.me/hn_summary/85114</link>
+      <description><![CDATA[第一个已知的分形分子
+科学家们发现了第一个已知的分形蛋白，即在蓝细菌使用的酶中发现的谢尔宾斯基三角形图案。这种独特的结构类似于《塞尔达传说》的符号，被发现是一种进化事故，而且非常容易进化。该蛋白质的自组装是不对称的，形成了引人注目的分形结构。虽然这一数学奇迹的目的尚不清楚，但研究人员认为它可能只是偶然进化出来的，并没有特定的功能。这一发现开启了在自然界中发现更多分子分形的可能性。该研究发表在《自然》杂志上。]]></description>
+      <guid>https://t.me/hn_summary/85114</guid>
+      <pubDate>Thu, 18 Apr 2024 02:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如何避免意外泄露前雇主的专有信息？</title>
-      <link>https://t.me/hn_summary/85079</link>
-      <description><![CDATA[如何避免意外分享前雇主的专有信息？
-本内容讨论了避免意外共享前雇主专有信息的重要性。它强调需要仔细阅读和理解保密协议（NDAs）以避免法律和道德问题。作者强调了分享一般知识和揭示具体专有细节之间的区别。他们还提到，并非在公司工作时学到的所有信息都被视为专有信息并应受到保护。该内容提供了有关哪些信息应保密的指导，例如未来计划、定价结构以及使公司脱颖而出的独特技巧。它还确保分享在公司工作期间开发的一般行业知识或技能并不等同于披露专有信息。]]></description>
-      <guid>https://t.me/hn_summary/85079</guid>
-      <pubDate>Wed, 17 Apr 2024 23:08:14 GMT</pubDate>
+      <title>[媒体]在一次奇怪的事件中，旧国际空间站的一块碎片意外地出现了 [...]</title>
+      <link>https://t.me/hn_summary/85113</link>
+      <description><![CDATA[国际空间站旧部分登陆家庭住宅 
+事情发生了奇怪的转变，旧国际空间站的一块碎片意外坠落在一户人家的房屋上。随着送入太空的物体数量持续增加，这一事件凸显了日益严重的太空碎片问题。仅 2023 年就进行了 2,664 次发射，此类碰撞的风险变得越来越普遍。这一事件清楚地提醒我们需要更好的空间碎片管理和监管，以防止进一步的事故和损害。]]></description>
+      <guid>https://t.me/hn_summary/85113</guid>
+      <pubDate>Thu, 18 Apr 2024 02:31:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
