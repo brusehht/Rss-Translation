@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:49:42 GMT</lastBuildDate>
+    <item>
+      <title>APC UPS 用户，这里有一个简单的 bash 脚本，可以显示 Linux 台式 PC 的能耗。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c6ofd8/apc_ups_users_heres_a_simple_bash_script_that/</link>
+      <description><![CDATA[在大多数笔记本电脑上，您可以看到您使用了多少能量（以“瓦”为单位）。我搜索了一段时间如何在台式电脑上做到这一点，但除了 CPU 和 GPU 特定功耗之外，找不到可靠的方法。  由于我使用 APC 品牌的 UPS 电池，因此我可以访问 APCUPSD 程序，该程序允许您从电池获取所有类型的信息。我制作了一个使用 APCUPSD 并将“电池百分比”值转换为“瓦特”的小脚本。  我在这里发帖是希望能够帮助其他想要在台式电脑上获得相当准确的能耗计量表的人。享受吧！ 源代码：https://gitlab.com/GameFeverOnline/apcupsd-watts&lt; /p&gt;   由   提交 /u/GameFeverOnline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c6ofd8/apc_ups_users_heres_a_simple_bash_script_that/</guid>
+      <pubDate>Wed, 17 Apr 2024 23:20:30 GMT</pubDate>
+    </item>
     <item>
       <title>宣布勤奋证明 (PoD) 算法：一种在开源生态系统中对信任和可维护性进行建模的方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1c6kifn/announcing_the_proofofdiligence_pod_algorithm_a/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我刚刚发布了一个新的 Python 包，notion2pandas，它允许您仅用一行代码将 Notion 数据库导入 pandas 数据帧，并仅用一行代码从 pandas 数据帧更新 Notion 数据库。&lt;无论您是数据科学家、数据工程师、Python 爱好者，还是只是好奇，从终端“pip install notion2pandas”，按照 README 中的教程进行操作，祝您编码愉快！  ​ https://gitlab.com/Jaeger87/notion2pandas   由   提交/u/Jaeger1987   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4w5ef/notion2pandas/</guid>
       <pubDate>Mon, 15 Apr 2024 20:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 AI 定义 – 4 月 15 日每周更新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c4qudz/open_source_ai_definition_weekly_update_april_15/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c4qudz/open_source_ai_definition_weekly_update_april_15/</guid>
-      <pubDate>Mon, 15 Apr 2024 16:41:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
