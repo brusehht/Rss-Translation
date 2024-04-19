@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 19 Apr 2024 18:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:11:03 GMT</lastBuildDate>
     <item>
       <title>用于基本 QC 的轻量级软件？</title>
       <link>https://www.reddit.com/r/editors/comments/1c827ce/lightweight_software_for_basic_qc/</link>
@@ -41,7 +41,7 @@
       <pubDate>Fri, 19 Apr 2024 14:51:30 GMT</pubDate>
     </item>
     <item>
-      <title>有关在 Premiere Pro 中加快剪辑速度的任何提示吗？</title>
+      <title>有关在 Premiere Pro 中加快剪辑速度的任何技巧吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1c7ye1x/any_tips_on_cutting_faster_in_premiere_pro/</link>
       <description><![CDATA[过去 5 年里，我主要为 YouTube 创作者工作，调整素材节奏仍然是我认为花费时间最长的事情，而且必须有一些更快的方式 原始素材是 1080p 视频，有时是多机位，有时只是单个录音，（大多数时候都没有真正编写脚本，我也没有真正了解录音的简介）平均长度约为 1.5-3 小时最终的干净剪辑（将它们削减到大约 8-15 分钟）花了我几乎 1 到 1.5 天（大约 6-10 小时），而且硬件从来都不是阻碍的问题 我主要使用键盘用于剪切，有时我使用鼠标进行精确操作 我的控件是： Q - 波纹修剪上一个编辑到播放头 W - 波纹修剪下一个编辑到播放头 E - 添加编辑到所有轨道 S - 添加编辑 1 - 转到上一个编辑点 2 - 转到下一个编辑点 3 - 删除（我使用 D 的组合- 在播放头处选择剪辑，然后按“shit + 3”进行波纹删除该选择） J K L - 向左、向右穿梭、停止（我使用“shit + J/K”逐帧向前移动） My工作并不包括太多的镜头选择，但有时当我这样做时，我使用煎饼时间线，在序列监视器中打开该时间线，然后使用 ins/out 并插入覆盖将它们放入主时间线 我当前的工作流程：粗剪（熟悉素材并删除明显无用的部分）&gt;减少粗剪（保留我认为可以进入最终剪辑的所有时刻）&gt;半干净切割&gt;干净的最终剪辑 有什么办法可以改进它吗？或者我应该开始学习节奏，因为我听说过很多关于它在该领域如何更好的说法，哈哈   由   提交 /u/HereToMakeYourDay09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c7ye1x/any_tips_on_cutting_faster_in_premiere_pro/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>在计算机之间移动 SSD SanDisk 问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1c7w5a2/moving_ssd_between_computers_sandisk_issues/</link>
-      <description><![CDATA[要将外部 SSD 从一个系统更换到另一个系统，我需要了解或执行某些操作吗？当我将 SanDisk Extreme Pro 4TB 驱动器从新的 M3 Max 16 核 CPU - 40 核 GPU MacBook 转移到 iMac 3.3 GHz 6 核 Intel Core i5 - AMD Radeon Pro 5300 时，我试图弄清楚到底出了什么问题。 4 GB - 16 GB 2667 MHz DDR4。 当我将驱动器插入 iMac 来传输一些文件时，驱动器上的所有视频文件都以某种方式弄乱了。它们在播放器上的取景器中播放得很好，但首映时间轴在两个系统上播放所有素材时都非常不稳定。我尝试了所有可能的 Premiere 修复，但没有任何效果。然后我读到了一些关于 SanDisk 在过去一年中出现问题、损坏文件等的信息，我还收集了一些关于有一种方法可以安全地将外部 SSD 驱动器从一个系统移动到另一个系统的信息。不过，我过去从来没有遇到过任何问题。我购买了新的三星 T7 Shield SSD，想要返回编辑，但我想确保不会再次重复该问题。我的Sandisk是APFS，我打算让我的T7也一样。   由   提交/u/WayMaterial8290   [链接] [评论]]]></description>
+      <description><![CDATA[要将外部 SSD 从一个系统更换到另一个系统，我需要了解或执行某些操作吗？当我将 SanDisk Extreme Pro 4TB 驱动器从新的 M3 Max 16 核 CPU - 40 核 GPU MacBook 转移到 iMac 3.3 GHz 6 核 Intel Core i5 - AMD Radeon Pro 5300 时，我试图弄清楚到底出了什么问题。 4 GB - 16 GB 2667 MHz DDR4。 当我将驱动器插入 iMac 来传输一些文件时，驱动器上的所有视频文件都以某种方式弄乱了。它们在播放器上的取景器中播放得很好，但首映时间轴在两个系统上播放所有素材时都非常不稳定。我尝试了所有可能的 Premiere 修复，但没有任何效果。然后我读到了一些关于 SanDisk 在过去一年中出现问题、损坏文件等的信息，我还收集了一些关于有一种方法可以安全地将外部 SSD 驱动器从一个系统移动到另一个系统的信息。不过，我过去从来没有遇到过任何问题。我购买了新的三星 T7 Shield SSD，想要返回编辑，但我想确保不会再次重复该问题。我的 Sandisk 是 APFS，我计划让我的 T7 也一样。 编辑：这种情况在过去一个月发生了两次。以下是更多详细信息：  我在 Macbook 上编辑项目 我迁移到 iMac，将项目放在 Sandisk SSD (exFAT) 上&lt; /li&gt; 我将其插入 iMac，传输一些文件，打开驱动器中正在处理的项目，所有这些项目都在时间轴上播放断断续续、跳过的音频和视频。音频和视频在取景器的常规播放器上播放效果良好。 我在我的 Macbook 上进行了测试，驱动器中的所有项目在时间轴上播放时仍然断断续续 我购买一个新的 Sandisk SSD，这次将其格式化为 APFS，用备份驱动器中的原始文件替换素材，然后返回到 Macbook 上进行编辑 一切正常，直到我返回 iMac，插入电源SSD，传输驱动器上我需要的一些音频文件，在 iMac 上打开项目，突然项目时间线再次播放断断续续，无论我做什么。项目文件看起来不错，但无论我启动多少个新项目并导入这些文件，这些视频文件都完全混乱......但仅限于首映时间线内。 实际上，甚至SSD中我最近没有处理过的其他项目的视频文件也乱了。驱动器上的所有内容都受到了影响。 现在我意识到这一定与从一台计算机移动到另一台计算机有关，因为这是两次发生此问题的时刻，但我只是不明白为什么，因为我过去多次在系统之间来回移动我的 SSD 和项目。    由   提交/u/WayMaterial8290   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c7w5a2/moving_ssd_between_computers_sandisk_issues/</guid>
       <pubDate>Fri, 19 Apr 2024 12:53:05 GMT</pubDate>
     </item>
@@ -90,13 +90,6 @@
       <pubDate>Thu, 18 Apr 2024 23:44:02 GMT</pubDate>
     </item>
     <item>
-      <title>多机位中的超低帧率。为什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c7dylf/super_low_framerate_in_multi_cam_why/</link>
-      <description><![CDATA[在首映式中，在强大的 PC（AMD 7900xt GPU 和 5800x 3d CPU、48GB RAM）上使用 SSD 时，我在多机位播放中的帧速率非常糟糕. 一切都很顺利，直到我进入多机位视图，就像丢了 1000 帧一样。这不是素材的问题，导出后就没问题，只是播放时出现问题。 从事该项目的其他人正在使用 Mac，而我正在使用 PC，如果这是一个问题的话。该素材最初是 4k，但我使用 1/8 播放分辨率，并已完成我在网上可以找到的所有操作来修复它，即更改编解码器（最初是 Apple Res HQ）、清除媒体缓存、更新驱动程序和软件、关闭所有 FX剪辑，降低分辨率，并且没有修复。我无法制作代理，因为它是按顺序排列的，而且我不想重新制作所有内容。我得到了已经制作好的序列的驱动器。任务管理器上的 CPU 和 GPU 使用率都很低，因此我的电脑没有陷入困境。 请帮忙   由   提交 /u/tinybazaar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c7dylf/super_low_framerate_in_multi_cam_why/</guid>
-      <pubDate>Thu, 18 Apr 2024 20:39:13 GMT</pubDate>
-    </item>
-    <item>
       <title>新工作站</title>
       <link>https://www.reddit.com/r/editors/comments/1c7bhpk/new_workstation/</link>
       <description><![CDATA[嘿，我打算购买一台新电脑，主要用于 Premiere Pro 编辑。我通常编辑 4K XAVC-I 或 XAVC-L，有时编辑 8K R3D。这是我选择的硬件： AMD Ryzen 9 7950X Noctua NH-U12A GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G，12GB GDDR6X Crucial P5 Plus，M.2 - 1TB WD Black SN770，M.2 - 2TB 金士顿狂暴野兽黑色 64GB (2x32GB) DDR5 5600 CL40 MSI MAG B650 TOMAHAWK WIFI - AMD B650 分形设计 Meshify 2 紧凑型黑色固体 安静！系统功率 10 - 850W 对构建有什么想法吗？我已经有足够的 HDD 存储空间，所以我没有在这里列出它    由   提交 /u/Atrekan   [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[嘿朋友们。我们正在考虑为即将到来的工作设置 LucidLink 文件空间。我们有大约 4-5 名剪辑师使用 1080p ProRes 代理（以及一些 UHD ProRes HQ vfx 合成）在 Premiere/AE 中工作。我们将在美国的几个不同角落进行合作。 与高级层相比，在基础层工作有什么缺点吗？我可以看到功能的简短列表，但我也注意到“高性能工作负载”标记并想知道这到底意味着什么？一层比另一层快吗？ Wasabi 与 IBM？ 感谢您对此提供的任何帮助。我在接下来的几天内与 LucidLink 进行了通话设置，但也想了解这个子系统。你们过去都非常有帮助。 技术信息： M1-M3 MacBook Pro、Adobe Premiere Pro（当前）、各种 Apple ProRes 风格（1080p + UHD）    由   提交/u/kstebbs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c7b0lt/lucidlink_basic_or_advanced/</guid>
       <pubDate>Thu, 18 Apr 2024 18:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>必须有编辑配件吗？ （控制台或其他）</title>
+      <link>https://www.reddit.com/r/editors/comments/1c78s49/must_have_editing_accessories_console_or_other/</link>
+      <description><![CDATA[我目前正在刷新我的设置，并专门寻找一个编辑控制台来加快我的工作流程。 我编辑电视剧（在预算范围内）段），并负责在 MacOS 上使用 Adobe Premiere 进行编辑、调色和音频。偶尔我必须跳入 After Effects 来处理一些 GFX，主要是模板操作或下三分之一。 我正在考虑将 Monogram CC Video Console、Tangent Wave2 或 Tangent Element（使用）添加到我的工作流程中。作为“下一次升级”，这些是否有意义？或者有人对它们有什么优点和缺点吗？ 是否还有其他配件（控制台或非控制台）人们发现对他们的编辑有帮助，我应该寻找替代或补充控制台？ 当前设置：  显示器 - Dell U4025QW 椅子 - Herman Miller Mirra 2 办公桌 - 我在 Craigslist 上找到的一些大型编辑台 计算机 - M1 Max MacBook Pro（可能会在 M4 发布时升级） SSD - 用于在线编辑 li&gt; TrueNas SCALE 服务器 - 用于在 SSD 上循环编辑后进行热数据存储 LTO8 磁带 - 用于深度归档、异地备份    由   提交 /u/the__lurker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c78s49/must_have_editing_accessories_console_or_other/</guid>
+      <pubDate>Thu, 18 Apr 2024 17:13:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
