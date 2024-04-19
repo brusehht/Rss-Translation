@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 03:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:16:28 GMT</lastBuildDate>
+    <item>
+      <title>为我的员工创建模拟页面来计算总成本的最简单方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7pqoc/simplest_way_to_create_simulate_page_for_my/</link>
+      <description><![CDATA[      嗨 我在室内设计行业工作，我们每月获得大约 100 个潜在客户 我需要一些网页供我的员工计算客户需求的总成本 到目前为止，我们使用的是 Excel 页面，但有时我们会迷失方向，无法跟踪我们创建的模拟之前通过Excel，需要为我们的潜在客户重新创建它 我们想要创建的是这样的 https://preview.redd.it/g68dzk90odvc1.png?width=1526&amp;format=png&amp;auto=webp&amp;s=ff9c02566 5d557ef9ef01353f2e3290c6e48625a&lt; /a&gt; 您可以选择要显示的组件和成本，也可以保存表格并通过特定的“模拟代码”调用它们，每当您输入它时，它都会显示之前输入的最后一个值 ​ 有任何开源代码可以实现类似的功能吗？    ;由   提交/u/Either_Audience_1937   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7pqoc/simplest_way_to_create_simulate_page_for_my/</guid>
+      <pubDate>Fri, 19 Apr 2024 06:13:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何支付处理商都可以与我的企业合作吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7phwt/will_any_payment_processors_work_with_my_business/</link>
+      <description><![CDATA[我的初创公司正在开发中，我们正在努力寻找一个支付处理器来与我们的非常规支付流程集成。  我的网站需要工作的方式是 - 用户通过我的用户界面创建一个活动（无需验证，任何人都可以做到）。 - 其他用户使用信用卡为该活动做出贡献（我对每笔交易收取费用）。 - 然后该活动要么由其他用户认领（我收取另一笔费用），要么该活动将退还给每个贡献的用户。 到目前为止，我们已被 Paypal Braintree、Mangopay、Wepay 拒绝， Ayden 和 Stripe Connect（我认为）。 有人知道可以与我们合作的支付处理器吗？    由   提交/u/Cool_Sweet_4854  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7phwt/will_any_payment_processors_work_with_my_business/</guid>
+      <pubDate>Fri, 19 Apr 2024 05:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找团队！我是营销专家，正在寻找合作项目。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7pb9b/looking_for_a_team_im_marketing_expert_looking/</link>
+      <description><![CDATA[      我一直是营销和网络专家。我负责所有社交媒体和所有促销活动，包括发布和更新。我将使用免费促销和付费促销期待与其他网络开发人员一起开发成功的网络应用程序。 没有项目？不用担心，我可以构建的项目很少，不需要经验，欢迎初学者，您可以将其用作您的作品集。 DM 我或在下面评论。 Discord ID - Kaiz#7555 为了证明我的免费营销技巧，我的网站在 24 小时内获得了 11000 多次浏览 https://preview.redd.it/lwoytp5eldvc1.png?width=998&amp;format=png&amp;auto=webp&amp;s= e870409f7ffe689182eb88d1b99fe8af6755d95b   由   提交 /u/KaiGameDev   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7pb9b/looking_for_a_team_im_marketing_expert_looking/</guid>
+      <pubDate>Fri, 19 Apr 2024 05:46:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际上，创建一个这样的网站需要多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7oecx/realistically_how_much_would_a_site_like_this/</link>
+      <description><![CDATA[https://www.skill -capped.com/lol/browse/course（假设只是网站的“英雄联盟”部分，而不是其他游戏）。 假设我们提供图像、文本和用户界面/用户体验设计。因此，只需开发/创建网站即可。 该网站将需要在线订阅支付方式、自定义注册、登录功能和视频播放。 我知道我不会能够得到一个确定的价格，只是想得到一些粗略的估计。   由   提交 /u/GoWalrus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7oecx/realistically_how_much_would_a_site_like_this/</guid>
+      <pubDate>Fri, 19 Apr 2024 04:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有内部 IT 的自由职业客户需要定制 ERP 和电子商务解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7n2lh/freelance_client_without_inhouse_it_wants_custom/</link>
+      <description><![CDATA[我是一名独立的自由网络开发人员，希望将事情提升到一个新的水平，所以我通过口碑得到了这个客户，他们想要一个定制的 ERP /电子商务网站。 问题是，他们没有 IT 或内部解决方案（他们确实有用于会计/仓库等的软件订阅，但没有其他中间的东西）。&lt; /p&gt; 他们希望我帮助他们从头开始建立一个团队或引入一个团队来帮助他们。但他们似乎不清楚自己想要构建什么，只是想即时构建。  所以有两个选择：  按照我的正常费率向他们收取费用，以便在一开始就为他们构建东西，并根据需要引入更多角色。  帮助他们实施现有的开源 ERP 解决方案并一路进行定制。然后最终帮助他们建立内部 IT 团队。  一些背景：  我通常构建在不同系统之间连接的应用程序（通常是一个系统）并完成了事情），所以我不确定我是否可以从头开始启动大型应用程序。  我在设置 DevOps（CI/CD、git、测试、服务器管理等）方面的经验很少。  我有领导 IT 团队的经验，但不是从头开始构建它，因此这对我来说也是一项重要的任务。  选项 1 是一个很好的机会从自由职业者转为代理机构。但是，一旦开始扩展，我应该如何预算呢？我生活在亚洲部分地区，那里优秀的软件工程师很少见（大多数公司只愿意以每年 12,000 美元左右的价格聘请 SWE），而产品经理/DevOps/QA 等其他职位基本上不存在。因此，客户的预算可能是一个问题，但我们可以通过关注功能特性并使用更简单的技术堆栈（NextJS/Vue + BaaS）来解决这个问题。我不知道如何估计时间表？这将是一项持续的工作，所以我就永远向他们收费？ 选项 2 对我来说更可行，可以单独处理，因为我有与顾问合作实施 ERP 并自己运行 ERP 的经验，我只能进行逆向工程。他们可以每月向我支付预聘金，让我每月预订实施后支持的时间，并最终在必要时雇用他们自己的 IT 员工来填补该职位。然后我们可以根据结果创建自定义应用程序或集成。 哪个更可行，还是有第三种选择？ 连续几周我每天的睡眠时间少于 4 小时现在正在想办法解决。这对我来说可能太大了，但凡事总有第一次，对吧？   由   提交/u/CorruptedKnight0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7n2lh/freelance_client_without_inhouse_it_wants_custom/</guid>
+      <pubDate>Fri, 19 Apr 2024 03:35:48 GMT</pubDate>
+    </item>
     <item>
       <title>Vue 3 + Vite 和 WebRTC 在设置方面遇到困难</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7mjkb/vue_3_vite_and_webrtc_struggling_on_setting/</link>
-      <description><![CDATA[我正在使用 Vite + Vue 3 并决定制作一个视频流应用程序，我按照教程，甚至官方文档安装了包 &lt; strong&gt;vue-webrtc，但是当我导入它时，它记录了一个错误“global is not Define”，所以我在 vite.config.js 中将其定义为  define: { global: {}, }, 现在，错误更改为 &#39;Buffer is未定义&#39;，我在网络上做了一个研究，看看是否有人遇到和我一样的麻烦，在 stackoverflow 上找到了一个答案，说这个包是在 webpack 上构建的，对 vue 3 不友好。有人遇到同样的问题吗？您找到解决方案了吗？  当我安装该软件包时，它显示 core-js@2.6.12: core-js @&lt;3.23.3 和 cuid@2.1.8 已弃用，所以我尝试安装最新版本，但它没有工作。 它还显示了一个 TS 警告“无法找到模块‘vue-webrtc’的声明文件”。 &#39;/home/ayakase/Documents/vuewebrtc/node_modules/vue-webrtc/dist/vue-webrtc.ssr.js&#39; 隐式具有“any”类型。&#39; 但我使用的是 JS，所以我假设我可以跳过这个警告。   由   提交/u/Zafugus  [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用 Vite + Vue 3 并决定制作一个视频流应用程序，我按照教程，甚至官方文档安装了包&lt; strong&gt;vue-webrtc，但是当我导入它时，它记录了一个错误“global is not Define”，所以我在 vite.config.js 中将其定义为  define: { global: {}, }, 现在，错误更改为 &#39;Buffer is未定义&#39;，我在网络上做了一个研究，看看是否有人遇到和我一样的麻烦，在 stackoverflow 上找到了一个答案，说这个包是在 webpack 上构建的，对 vue 3 不友好。有人遇到同样的问题吗？您找到解决方案了吗？  当我安装该软件包时，它显示 core-js@2.6.12: core-js @&lt;3.23.3 和 cuid@2.1.8 已弃用，所以我尝试安装最新版本，但它没有工作。 它还显示了一个 TS 警告“无法找到模块‘vue-webrtc’的声明文件”。 &#39;/home/ayakase/Documents/vuewebrtc/node_modules/vue-webrtc/dist/vue-webrtc.ssr.js&#39; 隐式具有“any”类型。&#39; 但我使用的是 JS，所以我假设我可以跳过这个警告。   由   提交/u/Zafugus  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7mjkb/vue_3_vite_and_webrtc_struggling_on_setting/</guid>
       <pubDate>Fri, 19 Apr 2024 03:07:18 GMT</pubDate>
     </item>
@@ -22,14 +57,14 @@
     <item>
       <title>wordpress 还是 webflow 更适合开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7mbkn/would_wordpress_or_webflow_be_better_for/</link>
-      <description><![CDATA[我正在寻找货运代理网站的开发人员，该网站具有一些 API 连接和客户预订功能（可跟踪发货）。我只熟悉 wordpress，但许多开发人员都说使用 webflow 或 go 自定义堆栈。有人使用过或开发过两者并提供反馈吗？我认为 WordPress 最适合我的行业（货运/运输），但这就是我曾经使用过的所有内容，所以它是我所熟悉的，因为它在更新内容时对用户很友好。    由   提交/u/Ancient-Weakness-291   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找货运代理网站的开发人员，该网站具有一些 API 连接和客户预订功能（可跟踪发货）。我只熟悉 wordpress，但许多开发人员都说使用 webflow 或 go 自定义堆栈。有人使用过或开发过两者并提供反馈吗？我认为 WordPress 最适合我的行业（货运/运输），但这就是我曾经使用过的，所以它是我熟悉的，因为它在更新内容时对用户友好。    由   提交/u/Ancient-Weakness-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7mbkn/would_wordpress_or_webflow_be_better_for/</guid>
       <pubDate>Fri, 19 Apr 2024 02:55:39 GMT</pubDate>
     </item>
     <item>
       <title>你们对 2024 年的 Cognito 有何看法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/</link>
-      <description><![CDATA[在我的启动时实现 SSO，并在 Cognito 和 Auth0 之间做出选择。 到目前为止，我已经开始使用 Auth0，而经验很好，我想确保在尝试之前考虑替代方案。 我们的大部分基础设施都是 AWS，我们使用 CDK 部署资源。另外，Cognito 的定价更好，据我了解，Auth0 最近的价格增加了两倍。 但我也听到了很多人对 Cognito 的不满，比如缺乏文档、功能不丰富等等。你们有什么感想？我特别好奇您使用 Cognito 和 MFA 的体验如何。   由   提交/u/Necessary-Ad8108   reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[在我的启动时实现 SSO，并在 Cognito 和 Auth0 之间做出选择。 到目前为止，我已经开始使用 Auth0，而经验很好，我想确保在尝试之前考虑替代方案。 我们的大部分基础设施都是 AWS，我们使用 CDK 部署资源。另外，Cognito 的定价更好，据我了解，Auth0 最近将其价格提高了两倍。 但我也听到了很多人对 Cognito 的不满，比如缺乏文档、功能不丰富等等。你们有什么感想？我特别好奇您使用 Cognito 和 MFA 的体验如何。   由   提交/u/Necessary-Ad8108   reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7m8ry/how_do_you_guys_feel_about_cognito_in_2024/</guid>
       <pubDate>Fri, 19 Apr 2024 02:51:28 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[基本上是标题。我正在使用 axios 与后端进行通信，并且由于后端是由单独的团队开发的，因此如果我可以验证响应的模式，我会更有信心。我正在考虑使用 Zod，但我想知道其他人是如何做到的。    由   提交 /u/shriram-k    reddit.com/r/webdev/comments/1c7k6i0/what_is_the_industry_best_practice_to_validate/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7k6i0/what_is_the_industry_best_practice_to_validate/</guid>
       <pubDate>Fri, 19 Apr 2024 01:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子商务/博客/预约网站的 CMS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7iixa/cms_for_a_ecommerce_blog_appointment_website/</link>
-      <description><![CDATA[大家好， 我是一名平面设计师，在过去的两年里转型为前端开发人员。我认为自己还很初级，但可以很好地适应当前的框架。但对于实际的客户工作，我担心安全方面的问题，因为我对这个领域还很陌生，并且不想匆忙地完成这个过程，也不想用完全定制的网络应用程序让客户烧死我。我的客户想要创建一些平台，最终可以托管电子商务、博客和潜在的预约系统。  显而易见且简单的选择是 WordPress，它可以通过服务器 + cloudflare、备份和带有 mxroute + 安全插件的自定义邮件快速设置（已经构建了 3-4 个网站，包括一个滑雪胜地）全部使用 elementor），而且他们还想自己编辑内容，所以 elementor 似乎是正确的。但 elementor 有时感觉缓慢/有问题，所以我正在为客户寻找替代 CMS，它也可以轻松编辑他们的内容。 我应该只使用 glutenberg 吗？对客户来说也很容易吗？或者其他 cms 是否有一些即将出现的趋势，我应该研究哪些会更快/更好优化？就像纯代码和具有安全性并支持客户端编辑的 CMS 之间的中间地带一样，这会更加优化吗？  不确定我是否清楚。希望如此！谢谢！    由   提交/u/TonyBikini  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7iixa/cms_for_a_ecommerce_blog_appointment_website/</guid>
-      <pubDate>Thu, 18 Apr 2024 23:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何人工智能服务可以加载整个项目并理解其上下文？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7ihuh/is_there_any_ai_service_that_can_load_the_whole/</link>
-      <description><![CDATA[诸如聊天 gpt 之类的 Ai 非常适合帮助处理小的孤立代码片段，但是您提供的信息越多，它就会开始产生幻觉并使其变得越多说废话。据我了解，它不具备“心理能力”。加载更多代码并在该上下文中工作。 是否有一些人工智能服务可以让我做到这一点？    ;由   提交 /u/Typical_Bear_264   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7ihuh/is_there_any_ai_service_that_can_load_the_whole/</guid>
-      <pubDate>Thu, 18 Apr 2024 23:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将推荐系统集成到应用程序中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7ih92/how_to_integrate_a_recommendation_system_to_an/</link>
-      <description><![CDATA[一般来说，我知道您可以使用简单的 API（例如 ChatGPT）利用任何 ML 模型，但对于诸如自定义推荐引擎之类的东西，则需要访问平台/应用程序上的每个帖子以及所有帖子的相关数据，实现此目的的正确系统设计是什么？ 通过简单的前端和后端设置，人们可以在其中发布、点赞和发布内容评论事物，数据流将如何工作以及将使用哪些技术/设计？澄清一下，我不是在问如何创建一个模型来准确预测某人会喜欢的帖子，而是在问如何将这样的模型集成到发帖平台中。   由   提交/u/AdQuirky3186   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7ih92/how_to_integrate_a_recommendation_system_to_an/</guid>
-      <pubDate>Thu, 18 Apr 2024 23:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求网站大修</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7igoy/looking_for_a_website_overhaul/</link>
-      <description><![CDATA[我拥有一家挡风玻璃维修公司，我们正在考虑从头开始构建一个新网站。去年我们使用了在 bark.com 上找到的人来做我们的网站，但他们没有兑现他们的承诺。想知道是否有某个地方或网站可以让我们找到更值得信赖的人。听说过一些关于人们使用树皮的坏故事。 （我可能在错误的子目录中 - 如果是这样，我很乐意指出正确的方向）   由   提交/u/jjvolk16  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7igoy/looking_for_a_website_overhaul/</guid>
-      <pubDate>Thu, 18 Apr 2024 23:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用什么技术来创建诸如“www.sweetpunk.com”之类的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7hvfg/what_technologies_are_used_to_create_a_website/</link>
-      <description><![CDATA[我想知道，这样我就可以知道要学什么  &amp; #32；由   提交/u/jiajunsun998   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7hvfg/what_technologies_are_used_to_create_a_website/</guid>
-      <pubDate>Thu, 18 Apr 2024 23:21:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
