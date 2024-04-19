@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 12:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:13:07 GMT</lastBuildDate>
+    <item>
+      <title>SaaS 前进 - 快速推进您的开发、交付产品并消除头痛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7z3pr/saas_forward_fast_forward_your_development_ship/</link>
+      <description><![CDATA[   /u/Joseph_Branch   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7z3pr/saas_forward_fast_forward_your_development_ship/</guid>
+      <pubDate>Fri, 19 Apr 2024 15:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>便利的成本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7z34r/the_cost_of_convenience/</link>
+      <description><![CDATA[   一个&gt; &lt; td&gt; 由   提交/u/aijan1  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7z34r/the_cost_of_convenience/</guid>
+      <pubDate>Fri, 19 Apr 2024 15:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>想出售我的代码，在哪里可以出售？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7yye3/want_to_sell_my_code_where_can_i_sell_it/</link>
+      <description><![CDATA[大家好，我有一个网站。它确实有可观的收入。但我想，由于我没有分销和营销技能，我没有接触到足够的大众，因此无法获得足够的收入。  这就是我开始了解白标的时候。所以我决定以 499 美元的价格出售白标许可证和整个代码。有人做过这样的事情吗？请与我分享您的经验。  我是一名机械工程师，在新冠疫情期间学习了网络开发，并制作了一个网站，可以将无聊的屏幕截图变成令人兴奋的图形。  既然我已经找到了一份工作，我将无法全职工作，所以我正在考虑出售代码（而不是品牌）。有谁知道我在哪里可以找到代码的买家。我不想卖品牌，只想卖代码。  这是我过去一年一直在开发的网站https://www.picyard.in  如果您有任何建议，请告诉我。    由   提交/u/metabhai  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7yye3/want_to_sell_my_code_where_can_i_sell_it/</guid>
+      <pubDate>Fri, 19 Apr 2024 14:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP/CSS 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7ykqz/phpcss_question/</link>
+      <description><![CDATA[我正在为正在创建的四个 php 页面使用 header.php 文件，并且在头文件中链接了 CSS 样式表。只有使用它的页面之一正确对齐，我想知道我是否链接了我的代码，是否有人可以查看它并告诉我我做错了什么？我还尝试在其中一个未对齐的页面上进行轮播幻灯片放映，并且无法正常工作，因此我认为这也可能与 CSS 问题有关。 任何帮助都是赞赏。   由   提交 /u/ThickChemistry4660   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7ykqz/phpcss_question/</guid>
+      <pubDate>Fri, 19 Apr 2024 14:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>意见：前端和后端保持一致的大小写还是转换大小写？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7y83f/opinion_maintain_consistent_casing_or_converting/</link>
+      <description><![CDATA[假设后端使用蛇形命名法编码，前端使用驼峰命名法编码。 你是前端开发人员。&lt; /p&gt; 您愿意吗，  在解析 API 的响应时转换大小写，例如从蛇形命名法转换为驼峰命名法，在传递数据时从驼峰命名法转换回蛇形命名法到 API   或  将前端转换为遵循蛇形格式，以便一切都一致。  仅用于上下文，正在使用 Supabase 构建东西，并意识到数据响应是蛇形的。   由   提交 /u/juzatropictroll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7y83f/opinion_maintain_consistent_casing_or_converting/</guid>
+      <pubDate>Fri, 19 Apr 2024 14:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 iOS 设备上的 Web 应用程序中使用触摸事件，我向元素添加和删除类，但 UI 更改并未立即反映出来。任何想法为什么会发生这种情况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7xb71/using_touch_events_in_my_web_app_on_ios_devices/</link>
+      <description><![CDATA[作为标题。我是网络开发新手，正在尝试创建一个小型网络应用程序，以便在我的手机上使用作为练习。 UI 在桌面浏览器上更新得很好，但在移动设备上则不然。   由   提交/u/cyber-neko  /u/cyber-neko  reddit.com/r/webdev/comments/1c7xb71/using_touch_events_in_my_web_app_on_ios_devices/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7xb71/using_touch_events_in_my_web_app_on_ios_devices/</guid>
+      <pubDate>Fri, 19 Apr 2024 13:47:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我使用 WordPress API 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7x0f8/can_someone_help_me_with_the_wordpress_api/</link>
+      <description><![CDATA[我正在使用 flutter/dart 创建一个可在手机、平板电脑和计算机上运行的应用程序。我需要能够通过 WP API 对用户进行身份验证、重置密码、检索他们的姓名和电子邮件。 我对如何执行此操作一无所知，我正在尝试阅读文档但我不明白它们。 这将是我第一次做这样的事情。 我知道如何在 flutter 上执行此操作/飞镖侧。我特别想看看端点是什么，以及我是否需要使用 cookie，或者 1 个用户创建应用程序密码是否可行。 我尝试了 wordpress oAuth 插件，但收到了格式错误的请求我认为不同 Reddit 子版块上的某个人告诉我我可以使用核心 API。这可能吗？   由   提交 /u/DudeThatsErin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7x0f8/can_someone_help_me_with_the_wordpress_api/</guid>
+      <pubDate>Fri, 19 Apr 2024 13:33:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何部署我们的反应/表达应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c7vn2c/how_to_deploy_our_reactexpress_app/</link>
+      <description><![CDATA[我们目前正在开发一个学校项目，其中我们有一个客户端文件夹（带有 React 应用程序）和一个服务器文件夹（带有 Express 应用程序），我们还路由文件夹中有一个 Package.json，用于处理所有启动和构建命令等。我们应该如何部署站点？我们应该分别部署react应用程序和express应用程序吗？或者我们可以通过服务器托管所有内容吗？目前我们通过构建客户端然后节点服务器来托管站点，这是常见的做法吗？如果不是，为什么这很糟糕？我们确实有一个系统，我们可以同时使用在单独的链接上运行服务器和应用程序（例如本地的 localhost3000 和 3001），但发现仅在一个链接（本地的 localhost3000）上使用服务器和主机要容易得多。但我们发现在 render/vercel 上托管确实很难。我们应该如何部署网站？每种方法的优缺点是什么？我们正在创建的网站是一个简单的网站，用户可以在其中预订露营地等。   由   提交 /u/tojzl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c7vn2c/how_to_deploy_our_reactexpress_app/</guid>
+      <pubDate>Fri, 19 Apr 2024 12:27:54 GMT</pubDate>
+    </item>
     <item>
       <title>UI 库的组件建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7vh5q/components_suggestions_for_ui_library/</link>
@@ -22,7 +78,7 @@
     <item>
       <title>世界其他地方的人知道“www”吗？该域名以 www 开头</title>
       <link>https://www.reddit.com/r/webdev/comments/1c7v2sv/do_people_in_other_parts_of_the_world_know_about/</link>
-      <description><![CDATA[您好，简短的 IT/营销问题 我想在传单等上写字“www.domain.com” 全世界的人都知道 www 吗？或者只有西方人？ 否则我会写“https://domain.com”看起来不那么花哨   由   提交 /u/JuriJurka   [链接] [评论]]]></description>
+      <description><![CDATA[您好，简短的 IT/营销问题 我想在传单等上写字“www.domain.com” 全世界的人都知道 www 吗？或者只有西方人？ 否则我会写“https://domain.com”这看起来不那么花哨 编辑：因为这里有些人真的在评判：我问这个是因为我有一个不常见的域名，比如brand.beer，它不能轻易被识别为域名 我不知道其他国家/地区是否认可 www   由   提交 /u/JuriJurka   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7v2sv/do_people_in_other_parts_of_the_world_know_about/</guid>
       <pubDate>Fri, 19 Apr 2024 11:59:29 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我正在管理一个使用 WordPress 为客户构建的网站，曾经有一段时间我们每天从联系表单中收到数百个联系人，但是后来我们意识到这些是机器人，我继续添加谷歌的 reCAPTCHA 来过滤掉这些机器人，它似乎有效，但不到一周后，我们又回到了同样的问题，似乎这些机器人正在通过测试，什么我可以吗，我无法实现蜜罐，因为我们正在使用 wp 联系表单插件，我无权访问代码，我也不想从头开始编写表单。我还能做什么来击败这些机器人？   由   提交/u/zaphden  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c7sf7r/bots_are_passing_google_recaptcha/</guid>
       <pubDate>Fri, 19 Apr 2024 09:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网络开发实习生。为学生提供帮助的个人指导。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7sb5f/looking_for_webdeveloper_intern_personal_guide_to/</link>
-      <description><![CDATA[我愿意担任导师来指导 Web 开发职业。我将指导您学习需要学习的内容，并同时制作作品集。 为新生提供指导。 私信我或通过 Discord kaiz#7555 或 kaiz7555 与我联系&lt; /p&gt;   由   提交 /u/KaiGameDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7sb5f/looking_for_webdeveloper_intern_personal_guide_to/</guid>
-      <pubDate>Fri, 19 Apr 2024 09:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 程序的 Web GUI 使用什么工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7rusi/what_tools_to_use_for_web_gui_of_a_linux_program/</link>
-      <description><![CDATA[我有以下场景：在 Linux 机器上运行的程序。我需要有一个远程 GUI 来与其交互（查看数据、修改参数/配置等）。我只有一个这样的实例，它将在一个小实验室中由有限数量的人使用（原则上一次只有一个人）。我想我需要在远程计算机上实现某种服务器，既在后端与程序交互，又提供 Web 界面。 我的编程经验 90% 是在嵌入式系统上（ C、C++ 和 Python），并且没有 Web 开发。有人可以给我一些建议，我应该朝哪个方向移动吗？这是正确的方法吗？我需要什么工具？   由   提交/u/bromson3105   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7rusi/what_tools_to_use_for_web_gui_of_a_linux_program/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找托管 React 前端和 Node/Express API 后端的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7rpgl/looking_for_the_best_way_to_host_my_react/</link>
-      <description><![CDATA[嘿 reddit，标题相关。我目前正在做一个新的爱好项目，其中包括 React 前端、Node/express REST API 后端和 postgres 数据库。在我看来，我有几个选项可以做到这一点：  使用 Vercel 或 Heroku 等服务的免费托管层作为无服务器 postgres 的后端。使用 Cloudflare Pages 或 Vercel/Heroku（我开发时的当前方法）免费托管前端 采用无服务器功能的统一方法。看起来很简单，成本低是一个优点，但必须处理冷启动问题 支付 VPS 和域名费用，并使用本地 postgres 服务器自行设置（倾向于这一点，最好也学习）  你们觉得怎么样？   由   提交 /u/AntwonTheDamaja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7rpgl/looking_for_the_best_way_to_host_my_react/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gulp scss 到 css 的速度很慢</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7r8vv/gulp_scss_to_css_is_way_to_slow/</link>
-      <description><![CDATA[我的驱动器出现问题，必须重新安装 Windows。现在，终于完成了 gulp 设置，就像我以前所做的那样，速度慢得令人痛苦。生成CSS需要7-11秒，如何加快速度？任务看起来很简单，我的 css 甚至没有那么大，使用 Bootstrap 时它大约有 200kb。另外，如果我有一个拼写错误（而不是宽度，我写的是宽度或其他东西，我不会收到任何错误） import gulp from &#39;gulp&#39;; const { src, dest, watch, 系列 } = gulp;从 &#39;sass&#39; 导入 sassCompiler；从 &#39;gulp-sass&#39; 导入 gulpSass； const sass = gulpSass(sassCompiler);从 &#39;gulp-sass-glob&#39; 导入 sassGlob；从 &#39;gulp-clean-css&#39; 导入 cleanCSS；从 &#39;gulp-autoprefixer&#39; 导入 autoprefixer；从“gulp-size”导入大小；函数generateCSS() { return src(&#39;./assets/css/style.scss&#39;) .pipe(sassGlob()) .pipe(sass({outputStyle: &#39;压缩&#39;}).on(&#39;error&#39;, sass.logError )) .pipe(autoprefixer()) .pipe(cleanCSS({ Compatibility: false })) .pipe(size({ showFiles: true })) .pipe(dest(&#39;./&#39;)); } function watchFiles() { watch(&#39;./assets/css/**/*.scss&#39;,generateCSS); } 导出 { watchFiles 作为 watch };导出默认系列（generateCSS，watchFiles）；    由   提交 /u/jekotoy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7r8vv/gulp_scss_to_css_is_way_to_slow/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站所有者和开发人员：您对网站审核最关心的问题和挑战是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7r6xi/website_owners_and_developers_what_are_your_top/</link>
-      <description><![CDATA[大家好， 作为网站所有者和开发人员，我们都努力确保我们的网站达到最佳性能，遵守质量标准，并满足各种要求。我很好奇您在审核网站时面临的挑战以及您用来解决这些挑战的工具。 您是否担心网站性能、质量、可访问性、SEO、安全性、合规性或隐私？您在使用现有工具进行网站审核时遇到了哪些具体挑战？ 此外，我对您推荐的最佳网站审核工具很感兴趣，这些工具以合理的价格提供全面的功能。您认为哪种工具可以最有效地提供可行的网站审核而又不花很多钱？ 期待听到您的见解和经验！您的反馈对于网站所有者和开发人员来说都非常有价值。 提前感谢您分享您的想法！   由   提交/u/v-saurav  /u/v-saurav  reddit.com/r/webdev/comments/1c7r6xi/website_owners_and_developers_what_are_your_top/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7r6xi/website_owners_and_developers_what_are_your_top/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>重定向 Iframe 时出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7r4bv/trouble_redirecting_iframe/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7r4bv/trouble_redirecting_iframe/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>身份验证有哪些类型？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7r21j/wht_are_the_types_of_authentication/</link>
-      <description><![CDATA[我想知道身份验证如何在现实生活项目而不是个人项目中工作。 在我的个人项目中 - 我存储用户 cookie 中的令牌，然后对其进行验证。 我想知道现实生活中使用的身份验证类型，例如基于会话的身份验证。   由   提交/u/HistorianOdd6875   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7r21j/wht_are_the_types_of_authentication/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似桌面的 Web 应用程序框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c7r0dr/framework_for_desktoplike_web_application/</link>
-      <description><![CDATA[嗨， 哪些 Web 框架适合桌面类 Web 应用程序？ 解释一下：  通常希望创建一个具有“非类 html 结构”的 Web 应用程序（例如 facebook、reddit...）。我想做一些事情，比如绘制一个图表并使用鼠标操作它。   由   提交 /u/Jadw1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c7r0dr/framework_for_desktoplike_web_application/</guid>
-      <pubDate>Fri, 19 Apr 2024 07:37:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
