@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:11:15 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一张交互式地图来评价巴黎的地区和社区</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8lkgz/i_made_an_interactive_map_to_rate_paris_districts/</link>
+      <description><![CDATA[   /u/o2sh  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8lkgz/i_made_an_interactive_map_to_rate_paris_districts/</guid>
+      <pubDate>Sat, 20 Apr 2024 09:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 CSS 上重新创建了 Apple M3 和 M1 系列芯片，并在 React 的帮助下组织组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8lh8x/i_recreated_apple_m3_and_m1_family_chips_on_css/</link>
+      <description><![CDATA[   /u/superquanganh  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8lh8x/i_recreated_apple_m3_and_m1_family_chips_on_css/</guid>
+      <pubDate>Sat, 20 Apr 2024 09:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的问题：功能齐全的市场作为一个投资组合项目，如何让用户知道它不是一个真正的网站，以防他们以某种方式认为它是一个真正的网站，而不会让潜在的招聘人员认为它是一个没有身份验证等工作功能的模型网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8l90d/weird_question_fully_featured_marketplace_as_a/</link>
+      <description><![CDATA[标题   由   提交/u/Commander_of_Death   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8l90d/weird_question_fully_featured_marketplace_as_a/</guid>
+      <pubDate>Sat, 20 Apr 2024 08:49:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您看到了这一点，...获取 Sentry</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8jzh0/if_youre_seeing_this_in_thatget_sentry/</link>
+      <description><![CDATA[广告满天飞，有人真正尝试过 Sentry 吗？你怎么看待这件事 ？这些广告有点烦我，但我对平台本身没有任何问题，我只是好奇它是否像它所宣传的那样好。  &amp;# 32；由   提交/u/Zafugus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8jzh0/if_youre_seeing_this_in_thatget_sentry/</guid>
+      <pubDate>Sat, 20 Apr 2024 07:22:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端和后端，您会使用什么作为自托管？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8j0pd/frontend_backend_what_would_you_use_for_a_self/</link>
+      <description><![CDATA[嗨 我想做点娱乐活动。如果您听说过 Google Apps 脚本包，那就是我正在尝试重新创建的包。 具体来说，我想从创建一个网站 (Apache) 开始，它与后端（JavaScript、也许是 Node.js？）并且可以从数据库（也许是 MySQL）保存和提取数据。毫无疑问，这是典型的 Web 服务器托管，但我从未在其中完成过自托管项目。 它的逻辑工作原理如下：让某人能够“登录”Web 服务器。 （引号是因为所有登录只是将用户名和密码传递到后端，而不是其他）到网站。总线用户名和密码将被发送到后端脚本，该脚本查看数据库并说“是”，有用户名和密码正确，或者“没有”，没有任何内容无法进入，并向客户端发出警报（是，否） /true, false)。 我的问题是我真的知道我们要开始了。我已经使用过 Apache、Node.js 和 MySQL。通过 Google Apps 脚本，它可以为您托管前端（但会提供一个很长的 URL，您也无法免费附加域）并链接到使用 AppSpreadsheet API 的电子表格。然而，这不是自托管的，缺乏功能（Cookes、域名、浏览器通知等），因为谷歌会看不起它。  我知道这是一项艰巨的任务，但是我现在拥有大约 5 年的 Ubuntu 服务器和 Apache 经验，并且希望将我的所有项目（网络托管、网络、电子邮件服务器托管）整合到一个大项目中打包并在途中学习一些东西。我对 JavaScript、HTML 和 CSS 作为语言感到满意。  任何智慧/建议将不胜感激😊   由   提交 /u/thelaughedking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8j0pd/frontend_backend_what_would_you_use_for_a_self/</guid>
+      <pubDate>Sat, 20 Apr 2024 06:19:36 GMT</pubDate>
+    </item>
     <item>
       <title>Stripe Payment Saas 用户创建</title>
       <link>https://www.reddit.com/r/webdev/comments/1c8in3j/stripe_payment_saas_user_creation/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>Chart.googleapis.com 404 ???</title>
       <link>https://www.reddit.com/r/webdev/comments/1c8hkup/chartgoogleapiscom_404/</link>
-      <description><![CDATA[我们在网站上使用谷歌二维码，客户刚刚注意到它们没有生成......当我检查它们时，我只是得到 404 ...所以我检查了 https://downforeveryoneorjustme.com/chart.googleapis.com?proto=https 它说它对每个人来说都已关闭...我是否错过了重要的谷歌更新电子邮件或其他什么？是否发生了某些变化或实际上已损坏。至少几天都是这样。 ​ 我收到 404 的示例网址： https://chart.googleapis.com/chart?cht=qr&amp;chl =Hello+world&amp;choe=UTF-8&amp;chs=180x180   由   提交 /u/Sphism   [链接] [评论]]]></description>
+      <description><![CDATA[我们在网站上使用谷歌二维码，客户刚刚注意到它们没有生成......当我检查它们时，我只是得到 404 ...所以我检查了 https://downforeveryoneorjustme.com/chart.googleapis.com?proto=https 它说它对每个人来说都已关闭...我是否错过了重要的谷歌更新电子邮件或其他什么？是否发生了某些变化或者实际上是否已损坏。至少几天都是这样。 ​ 我收到 404 的示例网址： https://chart.googleapis.com/chart?cht=qr&amp;chl =Hello+world&amp;choe=UTF-8&amp;chs=180x180   由   提交 /u/Sphism   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c8hkup/chartgoogleapiscom_404/</guid>
       <pubDate>Sat, 20 Apr 2024 04:51:26 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我告诉我的客户在 bluehost.com 购买他的域名，然后他去了 wordpress.COM。我让他获得了 wordpress.com 垃圾托管价格的退款，但他试图在 10 天内恢复该网站。  但是，我们仍在 60 天的转移锁定期内。我可以将名称服务器指向 bluehost 以便让该网站显示在那里吗？我目前正在 bluehost 中构建该网站。有什么解决办法吗？    由   提交 /u/Zealousideal_House70   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c8cye8/need_urgent_help_pleaseeee/</guid>
       <pubDate>Sat, 20 Apr 2024 00:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>新自由职业者不确定如何为我的服务定价 - 对于这样的登陆页面，您会收取多少费用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8cta2/new_freelancer_unsure_how_to_price_my_services/</link>
-      <description><![CDATA[TLDR：https://www.newell.agency  我最近开始为小型企业进行一些自由网络开发，我不确定如何为我的服务定价。 我想知道你们对基本登陆页面的收费是多少像这样的联系表？另外，如果您使用 WordPress 等无代码/低代码工具，请包含该信息。 p.s.我知道这没什么特别的，而且看起来和现在的其他东西没什么两样。我也知道这个副本非常通用，所以请不要对我胡言乱语，哈哈。   由   提交 /u/Possible-Scary    reddit.com/r/webdev/comments/1c8cta2/new_freelancer_unsure_how_to_price_my_services/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8cta2/new_freelancer_unsure_how_to_price_my_services/</guid>
-      <pubDate>Sat, 20 Apr 2024 00:40:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 的最佳托管网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8bqx1/best_hosting_sites_for_wordpress/</link>
-      <description><![CDATA[什么是最好且物有所值的 WordPress 网络托管网站，提供良好的安全性（针对 ddos​​ 和恶意软件攻击）、隐私（域隐私）和 CDN 。我不断看到对其中一些网站的评论褒贬不一，例如 Hostinger、Siteground 和 GoDaddy。那么像我这样的新手可以使用什么好的可靠主机呢？    由   提交 /u/Acorn_Community   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8bqx1/best_hosting_sites_for_wordpress/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用服务器发送事件时需要记住哪些要点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8bahj/what_are_some_points_to_keep_in_mind_when_using/</link>
-      <description><![CDATA[如何确定它可以支持的最大客户端数量？   由   提交/u/pixobe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8bahj/what_are_some_points_to_keep_in_mind_when_using/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>新闻源的网站构建，用户可以在其中输入信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8b37s/website_build_of_news_feed_where_users_input_to/</link>
-      <description><![CDATA[我希望构建一个类似准系统框架的网站。  我希望获取用户的文本输入并将其放入新闻提要中。   可以创建用户。  用户将输入将存储在其页面上的输入/内容。  该内容可以保持私密，也可以放入公共新闻源中。  空白网站，仅包含用户提供的文本中的新闻提要。没有图片，视频。 GIF、表情符号等。 阻止机器人。  保护隐私。  能够以管理员身份进行审核/审核。  该网站将以添加评论或回复、标记用户等功能的方式构建， 不确定一开始我是否会将其托管在我的个人服务器（托管）上像 Godaddy 这样的提供商，或者像 AWS 这样的云提供商    由   提交/u/zhome888  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8b37s/website_build_of_news_feed_where_users_input_to/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular Vs（您下一个最喜欢的 JS 库/框架）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8aqnw/angular_vs_your_next_favourite_js_library/</link>
-      <description><![CDATA[我是一名后端软件开发人员，想要构建一个允许用户选择他们可以阅读的语言的表单。我在完成 angular.dev 教程后实现了此功能 这里是我的实现最终结果的链接https://angular-docker-4kbqnvs2ha-uc.a.run.app/languages（如果您喜欢，请留下您选择的语言的屏幕截图） 我想尝试其他 JavaScript 框架和库。还有其他类似 Angular 的 2 路绑定吗？   由   提交 /u/MeynGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8aqnw/angular_vs_your_next_favourite_js_library/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
