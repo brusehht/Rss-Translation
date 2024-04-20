@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 02:59:14 GMT</lastBuildDate>
     <item>
-      <title>[媒体]为了满足 Android 设备上对更高质量视频日益增长的需求，Goog [...]</title>
-      <link>https://t.me/hn_summary/85407</link>
-      <description><![CDATA[YouTube 默认转向 AV1，这让一些 Android 用户感到沮丧&lt; /a&gt;
-为了满足 Android 设备上对更高质量视频日益增长的需求，Google 通过名为“libdav1d”的新解码器引入了对 AV1 编解码器的支持。虽然此更新为许多 Android 手机带来了改进的编解码器支持，但 YouTube 已决定默认使用新的解码器，这引起了一些用户对由于缺乏硬件加速支持而可能产生的电池影响的担忧。此前，Netflix 在 2020 年也做出了类似决定，将 AV1 设为 Android 设备上流媒体的新标准。随着用户适应这一变化，围绕 YouTube 决定的争议最终可能会平息。]]></description>
-      <guid>https://t.me/hn_summary/85407</guid>
-      <pubDate>Fri, 19 Apr 2024 21:04:13 GMT</pubDate>
+      <title>[媒体]汽车工人联合会十月份在大众汽车工厂取得了历史性胜利 [...]</title>
+      <link>https://t.me/hn_summary/85459</link>
+      <description><![CDATA[UAW 在田纳西州大众汽车工厂赢得历史性工会选举 
+美国汽车工人联合会在田纳西州大众汽车工厂取得历史性胜利，这是自 20 世纪 40 年代以来美国南部地区首次工会选举胜利。这次胜利是美国汽车工人联合会雄心勃勃的组织活动的一部分，该活动旨在将美国各地的非工会汽车工厂联合起来。这次胜利标志着美国南部劳工运动的努力发生了转变，那里的工会历来面临反对。 UAW 在查塔努加的成功被视为扩大工会在该地区的努力的里程碑。经过多年的激烈竞争的选举以及反工会团体和共和党官员的反对，这次胜利来了。]]></description>
+      <guid>https://t.me/hn_summary/85459</guid>
+      <pubDate>Sat, 20 Apr 2024 02:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国环保署第三次允许在全国范围内销售更高浓度的乙醇 [...]</title>
-      <link>https://t.me/hn_summary/85406</link>
-      <description><![CDATA[美国环保局再次允许夏季销售高乙醇汽油混合物
-由于全球冲突影响燃料供应，美国环保署连续第三个夏天允许在全国范围内销售更高比例的乙醇。这一决定受到了中西部生物燃料行业和政界人士的赞扬，他们认为乙醇对农民、消费者和环境都有好处。然而，环保人士对乙醇生产中碳排放量增加表示担忧。更高的混合比例预计消费者的成本将低于目前 10% 的混合比例，并且已被批准用于较新的车辆。这项临时豁免是为了应对持续的全球冲突和美国炼油能力的下降。]]></description>
-      <guid>https://t.me/hn_summary/85406</guid>
-      <pubDate>Fri, 19 Apr 2024 20:51:06 GMT</pubDate>
+      <title>[媒体]特斯拉因油门踏板卡住而召回全部 3,878 辆 Cyber​​truck [...]</title>
+      <link>https://t.me/hn_summary/85458</link>
+      <description><![CDATA[特斯拉因油门踏板卡住问题召回全部 3,878 辆 Cyber​​truck
+由于油门踏板卡住问题可能导致意外加速，特斯拉已召回全部 3,878 辆 Cyber​​truck。这与通常可以远程完成的软件更新不同。该问题是由未经批准的更改引起的，该更改引入了润滑剂以帮助组装，从而减少了踏板盖的固定力。社交媒体视频疯传后，这一问题曝光，促使特斯拉停止生产和交付。车主需要将车辆带到服务中心进行免费维修或更换油门踏板总成。美国国家公路交通安全管理局 (NHTSA) 警告踏板被困可能会导致撞车风险。]]></description>
+      <guid>https://t.me/hn_summary/85458</guid>
+      <pubDate>Sat, 20 Apr 2024 02:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mozilla 终于开始在 Linu 上为 Firefox 提供官方 ARM64/AArch64 二进制文件 [...]</title>
-      <link>https://t.me/hn_summary/85405</link>
-      <description><![CDATA[Mozilla 开始提供 Firefox ARM64 Linux 二进制文件
-Mozilla 终于开始为 Linux 上的 Firefox 提供官方 ARM64/AArch64 二进制文件，这是用户期待已久的举动。虽然 Firefox 已在 AArch64 Linux 和 Windows ARM64 上可用，但 Linux ARM64 构建已留给第三方。 Mozilla 开始针对 ARM64 构建 Firefox Nightly，并计划在全面测试后扩展到发布版本和 ESR 版本。我们鼓励用户下载并测试新的 ARM64 Firefox Nightly 二进制文件，以帮助提高稳定性和可靠性。这标志着 ARM64 上的 Firefox 向前迈出了重要一步，尽管有些人可能认为它早就该发生了。]]></description>
-      <guid>https://t.me/hn_summary/85405</guid>
-      <pubDate>Fri, 19 Apr 2024 20:49:01 GMT</pubDate>
+      <title>[媒体]天文学家发现了一个巨大的宇宙空洞，横跨 20 亿光年，近 [...]</title>
+      <link>https://t.me/hn_summary/85457</link>
+      <description><![CDATA[我们生活在一个空虚的宇宙中，以至于违反了宇宙法则宇宙学
+天文学家在我们银河系的中心附近发现了一个横跨 20 亿光年的巨大宇宙空洞。这种空洞挑战了宇宙学原理，该原理指出物质应该在大尺度上均匀分布。关于宇宙空间的证据越来越多，引发了人们对是否需要改变我们对宇宙的理解的质疑，可能会重新思考引力和暗物质。这一发现引发了争论，并可能导致我们的宇宙模型发生重大变化。宇宙中存在如此巨大的真空既令人惊讶又充满争议，挑战了人们长期以来对宇宙本质的信念。]]></description>
+      <guid>https://t.me/hn_summary/85457</guid>
+      <pubDate>Sat, 20 Apr 2024 02:57:07 GMT</pubDate>
     </item>
     <item>
-      <title>告诉 HN：有没有想过申请 YC？</title>
-      <link>https://t.me/hn_summary/85404</link>
-      <description><![CDATA[告诉 HN：有没有想过申请 YC？这个周末做S24
-您正在考虑申请 Y Combinator 吗？不要犹豫，这个周末就为即将到来的 S24 批次做吧。如果您曾经怀疑过自己的资格或认为现在还为时过早，请再想一想。 YC 正在寻找能够学习和成长的潜在创始人，无论他们处于旅程的哪个阶段。申请过程很简单，奖励可以改变生活。不要让自我怀疑阻碍你。抓住机会，在周一之前提交您的申请，看看这个机会可以带您去哪里。 YC 就像蛇梯游戏中的梯子，看不到蛇。立即申请，看看它会带您走向何方。]]></description>
-      <guid>https://t.me/hn_summary/85404</guid>
-      <pubDate>Fri, 19 Apr 2024 20:47:57 GMT</pubDate>
+      <title>[媒体]科学家发现，41000年前，地球经历了一次“旅行”，当时[...]</title>
+      <link>https://t.me/hn_summary/85456</link>
+      <description><![CDATA[41,000 年前宇宙射线穿过地球大气层&lt; br /&gt;
+科学家发现，41000年前，地球经历了一次磁场减弱的“偏移”，导致有害的宇宙射线轰击地球。这次拉尚偏移是一个经过充分研究的事件，它导致磁场强度降低和宇宙射线暴露增加。通过测量宇宙放射性核素，研究人员可以确定宇宙射线何时猛烈轰击地球表面。研究结果表明，了解这些极端事件对于预测未来的太空气候和评估其对环境的影响至关重要。这一新信息揭示了地球磁场的动态性质及其在保护我们的星球免受太空辐射方面的作用。]]></description>
+      <guid>https://t.me/hn_summary/85456</guid>
+      <pubDate>Sat, 20 Apr 2024 02:55:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Greptile 是管理 Git 存储库的游戏规则改变者。</title>
-      <link>https://t.me/hn_summary/85403</link>
-      <description><![CDATA[通过 Web UI 询问有关 Git 存储库的问题&lt; br /&gt;
-Greptile 是管理 Git 存储库的游戏规则改变者。我对我的 Github 存储库提出问题并用简单的英语获得清晰、简洁的答案是多么容易感到震惊。但真正让我印象深刻的是它能够生成美人鱼图来帮助我更好地理解代码结构。对于任何希望简化开发流程并深入了解项目的人来说，该工具都是必备工具。在 greptile.com 上查看，看看它能带来什么改变适合您的工作流程。]]></description>
-      <guid>https://t.me/hn_summary/85403</guid>
-      <pubDate>Fri, 19 Apr 2024 20:43:52 GMT</pubDate>
+      <title>[媒体] 在伦敦妇女诊所和哈勒姆医疗中心进行的一项研究中，研究 [...]</title>
+      <link>https://t.me/hn_summary/85455</link>
+      <description><![CDATA[与异性恋女性相比，女同性恋女性中 PCO 和 PCOS 的患病率
+在伦敦妇女诊所和哈勒姆医学中心进行的一项研究中，研究人员发现，与异性恋女性相比，接受生育治疗的女同性恋者多囊卵巢 (PCO) 和多囊卵巢综合征 (PCOS) 的患病率明显更高。 80% 的女同性恋者患有 PCO，而只有 32% 的异性恋女性患有 PCO。此外，38% 的女同性恋女性患有 PCOS，而异性恋女性的这一比例为 14%。令人惊讶的是，患有多囊卵巢综合症或多囊卵巢综合症的女同性恋者的雄激素浓度高于异性恋者。这项研究揭示了女同性恋和异性恋女性生殖健康的差异。]]></description>
+      <guid>https://t.me/hn_summary/85455</guid>
+      <pubDate>Sat, 20 Apr 2024 02:53:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过深思熟虑，我做出了退出我的 invo 的艰难决定 [...]</title>
-      <link>https://t.me/hn_summary/85402</link>
-      <description><![CDATA[Moxie：我不再参与 Signal 
-经过深思熟虑，我做出了退出 Signal 的艰难决定。虽然我很感激有机会成为这样一个创新平台的一部分，但我觉得现在是我追求其他事业的时候了。我对未来感到兴奋，并感谢 Signal 社区的支持。感谢您的理解。 #Moxie #Signal #NewBeginnings]]></description>
-      <guid>https://t.me/hn_summary/85402</guid>
-      <pubDate>Fri, 19 Apr 2024 20:42:49 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，来自剑桥大学图书馆的 Leontien Talboom 和 Chris Knowles [...]</title>
+      <link>https://t.me/hn_summary/85454</link>
+      <description><![CDATA[原始通量流和模糊格式：进一步解决 5.25 英寸成像问题弗洛
+在这篇博文中，剑桥大学图书馆和丘吉尔档案中心的 Leontien Talboom 和 Chris Knowles 讨论了他们对丘吉尔收藏的 5.25 英寸软盘进行成像的持续努力。他们在使用 FC5025 控制器时遇到了挑战，并在使用 GreaseWeazle 控制器时取得了成功，这使他们能够读取原始通量流。他们清理并测试了多个软盘驱动器，以找到一个可以正常工作的软盘驱动器。他们还发现磁盘标签与实际格式之间的差异，导致重新评估其映像过程。吸取的教训包括投资 GreaseWeazle 和采购高密度磁盘驱动器的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85454</guid>
+      <pubDate>Sat, 20 Apr 2024 02:45:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们探讨了如何利用 Google AI Studi 的多模式功能 [...]</title>
-      <link>https://t.me/hn_summary/85401</link>
-      <description><![CDATA[Gemini 1.5 Pro 和 Google AI Studio 入门 
-在本文中，我们将探讨如何利用 Google AI Studio 1.5 Pro 的多模式功能。一个突出的功能是能够处理各种文件类型，如图像、视频、音频和 Google Drive 文件，使开发人员能够有效地测试想法和排除故障。例如，通过将聊天提示与视频相结合进行摘要，模型可以分析视频内容并提供摘要。这种独特的功能使 Google AI Studio 与 OpenAI 等其他 AI Playgrounds 区分开来，为交互式和动态 AI 项目开辟了新的可能性。立即探索 Gemini 1.5 Pro 和 Google AI Studio 的潜力！]]></description>
-      <guid>https://t.me/hn_summary/85401</guid>
-      <pubDate>Fri, 19 Apr 2024 20:33:43 GMT</pubDate>
+      <title>[媒体] 该网站使用 n-gram 语言 mo [...] 探索 Bash 中的自然语言处理</title>
+      <link>https://t.me/hn_summary/85453</link>
+      <description><![CDATA[Bash 中的自然语言处理
+该网站探索了 Bash 中的自然语言处理，使用 n-gram 语言模型生成类似于文本语料库的随机散文。该过程包括预处理文本、训练模型以及根据初始单词生成文本。令人惊讶的是，Bash 工具链可以模仿 Herman Melville 等著名作家的风格。文本生成过程涉及根据打乱的二元组选择下一个单词，从而创建一种独特而巧妙的文本生成方法。该工具链还可以处理三元组以生成更复杂的句子。总体而言，该实施以创造性和引人入胜的方式展示了 Bash 在 NLP 任务中的强大功能。]]></description>
+      <guid>https://t.me/hn_summary/85453</guid>
+      <pubDate>Sat, 20 Apr 2024 02:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]克里姆林宫支持的行为者正在加紧努力，在美国之前传播虚假信息 [...]</title>
-      <link>https://t.me/hn_summary/85400</link>
-      <description><![CDATA[克里姆林宫支持的行为者在美国大选前散布虚假信息 
-克里姆林宫支持的行为者正在美国大选前加紧传播虚假信息，重点是减少对乌克兰的支持并播下国内分裂的种子。微软分析师发现了几个隶属于俄罗斯政府的独特的以影响力为目的的组织参与了这些活动。这些团体在这个选举周期中不太活跃，可能是因为初选季节竞争较少。最多产的组织与俄罗斯总统政府有关，凸显了俄罗斯影响力活动的集权性质。这些演员以英语观众为目标，推动对乌克兰及其总统的负面描述。这些策略包括通过受控网站网络传播虚假新闻文章。]]></description>
-      <guid>https://t.me/hn_summary/85400</guid>
-      <pubDate>Fri, 19 Apr 2024 20:21:36 GMT</pubDate>
+      <title>[媒体]苹果最近改变了应用商店指南，允许像 Delta 这样的复古游戏模拟器 [...]</title>
+      <link>https://t.me/hn_summary/85452</link>
+      <description><![CDATA[为什么 Dolphin 没有登陆 App Store 
+苹果最近对 App Store 指南的修改允许发布像 Delta 这样的复古游戏模拟器，引发了人们对 DolphiniOS 的兴趣。然而，Apple 对使用 Dolphin 性能所需的 JIT 技术的限制阻止了其提交到 App Store。 JIT 对于将 PowerPC 代码转换为 ARM，以便 GameCube 和 Wii 游戏在 iPhone 上运行至关重要。虽然 Dolphin 可以使用解释器在没有 JIT 的情况下运行，但性能明显较慢。 Apple 拒绝 JIT 支持请求引发了安全问题。如果没有 JIT，DolphiniOS 就无法满足 App Store 标准，除非 Apple 放松限制，否则其发布将变得不确定。]]></description>
+      <guid>https://t.me/hn_summary/85452</guid>
+      <pubDate>Sat, 20 Apr 2024 02:43:45 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌以前的座右铭“不作恶”是该公司企业行为准则的重要组成部分。</title>
-      <link>https://t.me/hn_summary/85399</link>
-      <description><![CDATA[不作恶 (Google)
-谷歌以前的座右铭“不作恶”是该公司企业行为准则的重要组成部分。这是 Google 员工 Paul Buchheit 在 2000 年代初期提出的建议，旨在将 Google 与竞争对手区分开来。这句座右铭后来被纳入谷歌 2004 年的 IPO 招股说明书中。然而，随着时间的推移，这句座右铭的含义和相关性受到质疑，批评者用它来强调谷歌有争议的行为，例如避税。 2021 年，三名谷歌前员工甚至提起诉讼，声称谷歌因公开反对不道德行为而解雇他们，违反了自己的座右铭。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85399</guid>
-      <pubDate>Fri, 19 Apr 2024 20:15:31 GMT</pubDate>
+      <title>在本文中，Alexei Starovoitov 介绍了 BPF 蹦床，这是一种充当 [...]</title>
+      <link>https://t.me/hn_summary/85451</link>
+      <description><![CDATA[介绍 BPF 蹦床（2019）
+在本文中，Alexei Starovoitov 介绍了 BPF 蹦床，这是一种充当内核函数、BPF 程序和其他 BPF 程序之间桥梁的机制。 Trampoline 允许以最小的开销附加 fentry/fexit BPF 程序，使其成为 XDP 开发中网络故障排除的理想选择。它还支持 BPF 程序的动态链接，提供比传统程序链接方法更通用的机制。该文章详细介绍了开发过程，解决了后续补丁中的反馈和改进问题。 BPF 蹦床为基于 BPF 的网络操作开辟了新的可能性，并有望简化程序附加过程。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85451</guid>
+      <pubDate>Sat, 20 Apr 2024 02:42:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔在 14A 节点上下了重注，旨在通过其处理器赢得客户 [...]</title>
-      <link>https://t.me/hn_summary/85398</link>
-      <description><![CDATA[英特尔 14A 魔弹：定向自组装 (DSA)
-英特尔在14A节点上下了很大的赌注，旨在通过其工艺技术赢得客户。使高数值孔径光刻变得经济的关键在于定向自组装（DSA），这是一种能够大幅降低光刻成本的灵丹妙药。 DSA 利用嵌段共聚物在光刻引导下自组装成精确的图案。这项创新技术有可能彻底改变芯片制造，但十多年来一直停留在研究阶段。英特尔采用 DSA 可以给他们带来竞争优势，但也存在风险。这对行业的影响是巨大的，潜在的应用不仅仅局限于前沿逻辑的关键层。]]></description>
-      <guid>https://t.me/hn_summary/85398</guid>
-      <pubDate>Fri, 19 Apr 2024 20:14:25 GMT</pubDate>
+      <title>[媒体]维基媒体基金会的支出一直在以不可持续的速度增加，研究 [...]</title>
+      <link>https://t.me/hn_summary/85450</link>
+      <description><![CDATA[维基百科得了癌症
+维基媒体基金会的支出一直在以不可持续的速度增长，就像癌细胞的快速生长一样。尽管维基百科的页面浏览量呈指数级增长，但基金会的支出却猛增，雇佣了数百名员工，支出比 2005 年增加了 1,250 倍。这种过度支出，加上缺乏透明度和问责制，可能会导致财务破产。作者建议实施支出限制、提高透明度并建立捐赠基金以确保长期可持续性。如果不能解决这些问题，可能会导致维基百科破产并可能被公司收购。 （根据故事文本的 58% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85450</guid>
+      <pubDate>Sat, 20 Apr 2024 02:41:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

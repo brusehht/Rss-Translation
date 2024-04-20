@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 00:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 03:13:53 GMT</lastBuildDate>
+    <item>
+      <title>具有代理工作流程的 Github 项目模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</link>
+      <description><![CDATA[我制作了一个名为 智能项目附带人工智能工作流程：  自动格式化和标记新问题 检查新 PR 的常见问题、代码质量、格式等 生成代码的工作流程 运行任意任务的工作流程 询问有关代码库的问题的工作流程  &lt; p&gt;您还可以在问题/PR 评论中使用“/pilot”与 AI 代理交谈。 让我知道您的想法！   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</guid>
+      <pubDate>Sat, 20 Apr 2024 02:29:59 GMT</pubDate>
+    </item>
     <item>
       <title>圣经经文参考图</title>
       <link>https://www.reddit.com/r/opensource/comments/1c88lie/bible_verses_refference_graph/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>创建网页来计算室内设计成本 Sim</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7prs6/create_a_web_page_to_calculate_interior_design/</link>
-      <description><![CDATA[嗨 我在室内设计行业工作，我们每月获得大约 100 个潜在客户 我需要一些网页我的员工计算客户需求的总成本 到目前为止，我们正在使用 Excel 页面，但有时我们会迷路，无法跟踪我们之前通过 Excel 创建的模拟，需要为我们的潜在客户重新创建它 /&gt; 我们想要创建的是这样的  https://ibb.co/9ysp5hH 您可以选择显示哪个组件和成本以及总计，您也可以保存表格并通过特定的“模拟代码”调用它们，每当您输入它时，它都会显示之前输入的最后一个值 有开源代码可以实现类似的功能吗？   由   提交/u/Either_Audience_1937   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 我在室内设计行业工作，我们每月大约有 100 条线索 我需要一些网页，以便我的员工计算客户需求的总成本 到目前为止，我们一直在使用 excel 页面，但有时我们会迷失方向，无法追踪之前通过 excel 创建的模拟，需要为我们的线索重新创建它 我们想要创建的东西是这样的  https://ibb.co/9ysp5hH 您可以选择显示哪些组件和成本以及总数，也可以保存表单并通过特定的“模拟代码”调用它们，每当您输入它时，它都会显示之前输入的最后值 有任何开源代码可以实现这样的事情吗？    提交人    /u/Either_Audience_1937   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7prs6/create_a_web_page_to_calculate_interior_design/</guid>
       <pubDate>Fri, 19 Apr 2024 06:15:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的意思是那些不显眼的东西，它们可以在后台运行，而桌面上没有任何指示。首选开源。   由   提交 /u/General_Riju   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c79ynn/recommendations_for_hidden_screen_recorders_for/</guid>
       <pubDate>Thu, 18 Apr 2024 18:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在建立我们的开源公司作为另一个项目的分支</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c78tq6/were_building_our_open_source_company_as_a_fork/</link>
-      <description><![CDATA[ 由   提交 /u/Rizz-Alpaca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c78tq6/were_building_our_open_source_company_as_a_fork/</guid>
-      <pubDate>Thu, 18 Apr 2024 17:15:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

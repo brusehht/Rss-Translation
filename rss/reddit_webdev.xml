@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 00:51:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 03:13:48 GMT</lastBuildDate>
+    <item>
+      <title>托管站点的选择：WordPress 或 Azure</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8ep4b/choice_of_hosting_site_wordpress_or_azure/</link>
+      <description><![CDATA[作为一名志愿学生开发人员，我的任务是为非营利组织建立一个全新的网站。他们旧的、低流量的网站使用 Wordpress，并具有一些非常基本的功能（捐赠、邮件列表、联系表格）。现在，他们正在重塑品牌，并且还想要一个登录功能，以便员工可以访问预制的帖子模板（我将为他们编写代码）并制作自己的类似博客的帖子，而无需将来专门的开发人员。他们的首要任务是优化网站的 SEO。 我可以选择为此项目选择托管平台，这有点让人不知所措，因为我还是一名学生开发人员。我只熟悉在 Azure（免费层）上托管全栈应用程序。我知道 Azure 和 Wordpress 之间询问的标题，但是对于此类项目有什么平台建议吗？   由   提交 /u/Dropbototoro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8ep4b/choice_of_hosting_site_wordpress_or_azure/</guid>
+      <pubDate>Sat, 20 Apr 2024 02:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>选项卡切换上有多个网络请求 - 这正常吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8e9ai/multiple_network_requests_on_tab_switch_is_this/</link>
+      <description><![CDATA[大家好， 我对网站优化和故障排除非常陌生，我的网站遇到了一个令人困惑的问题WordPress 网站。每当我切换选项卡并返回网站选项卡时，对某些文件（例如 dropdown.css 和 dropdown.js）的网络请求似乎都会增加。在隐身模式下不会发生这种情况，这让我相信这可能是扩展程序或缓存相关的问题。 发生的情况如下：  打开网站的选项卡，开发人员工具正在运行。 切换到不同的选项卡。 切换回来，现在“网络”选项卡中有相同文件的多个条目。  应该不会发生新的请求，对吧？该网站基于 WordPress，使用 Elementor Pro，并由 SiteGround 托管，并启用了所有缓存选项。我很困惑！ 如果您能提供有关寻找内容的见解或建议，我将不胜感激！ 非常感谢！   由   提交 /u/CaPpedDoG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8e9ai/multiple_network_requests_on_tab_switch_is_this/</guid>
+      <pubDate>Sat, 20 Apr 2024 01:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>手腕疼痛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8dc24/wrist_pain/</link>
+      <description><![CDATA[我最近升级到了 Logitech MX Master 3s，但不幸的是，长时间使用后我的手腕感到疼痛。作为一名学生，我要兼顾作业、编程和偶尔的休闲游戏，我一直在寻找一种更符合人体工程学和多功能的替代方案。有什么推荐的鼠标可以在长时间学习期间和偶尔玩游戏时保持舒适度之间的平衡吗？预先感谢您的建议！   由   提交 /u/colinksh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8dc24/wrist_pain/</guid>
+      <pubDate>Sat, 20 Apr 2024 01:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>手腕疼痛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8day3/wrist_pain/</link>
+      <description><![CDATA[我最近升级到了 Logitech MX Master 3s，但不幸的是，长时间使用后我的手腕感到疼痛。作为一名学生，我要兼顾作业、编程和偶尔的休闲游戏，我一直在寻找一种更符合人体工程学和多功能的替代方案。有什么推荐的鼠标可以在长时间学习期间和偶尔玩游戏时保持舒适度之间的平衡吗？预先感谢您的建议！   由   提交 /u/colinksh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8day3/wrist_pain/</guid>
+      <pubDate>Sat, 20 Apr 2024 01:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有更明智的方式用顺风来写这个？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8d13z/is_there_a_more_sane_way_to_write_this_with/</link>
+      <description><![CDATA[       由   提交/u/ln3ar  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8d13z/is_there_a_more_sane_way_to_write_this_with/</guid>
+      <pubDate>Sat, 20 Apr 2024 00:51:12 GMT</pubDate>
+    </item>
     <item>
       <title>需要紧急帮助，请</title>
       <link>https://www.reddit.com/r/webdev/comments/1c8cye8/need_urgent_help_pleaseeee/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[      嘿，开发人员。 我是一名来自瑞典的 x0 前端开发人员，在过去的两周里，我一直在开发一个简历生成器应用程序作为我的业余项目。  您可以在恢复构建 查看，非常感谢任何反馈。请告诉我您希望在未来版本中看到哪些功能。 ​ ​ https://preview.redd.it/640bbg3qeivc1.png?width=960&amp;format= png&amp;auto=webp&amp;s=5601a00aeede3b8cbe1ab9e1bba06892af4e9cca   由   提交 /u/Mans__js   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c89wee/i_created_free_resume_builder/</guid>
       <pubDate>Fri, 19 Apr 2024 22:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计首页的正确方法是什么？有问题的内容/部分是否应该始终适合浏览器的视口，或者如果某些内容/部分溢出并且用户必须滚动才能看到全部内容是否可以？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c89qaw/what_is_the_correct_way_to_design_a_frontpage/</link>
-      <description><![CDATA[   如标题所示   由   提交/u/mediamystery  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c89qaw/what_is_the_correct_way_to_design_a_frontpage/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我们发明 CSS&#160;Grid&#160;Level&#160;3，又名“Masonry”布局</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c89ath/help_us_invent_css160grid160level1603_aka_masonry/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c89ath/help_us_invent_css160grid160level1603_aka_masonry/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有经验的人对服务器和安全性有疑问？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c895jg/nonexperienced_person_with_a_question_about/</link>
-      <description><![CDATA[帮助我的亲戚，所以我的亲戚正试图雇用某人为他们的餐厅建立一个网站，但他们遇到了这位正在提供服务的开发人员，正在尝试使用来自哥斯达黎加的服务器（开发者最初来自哥斯达黎加）。这应该是一个问题还是真的不重要？我只是想确保我向这个人提出了所有正确的问题，以确保我亲戚的“数字足迹”安全可靠。   由   提交 /u/Kigginlester   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c895jg/nonexperienced_person_with_a_question_about/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您在过去 6 个月内被录用，您是否也被解雇过？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c87vmv/if_youve_been_hired_in_the_last_6_months_have_you/</link>
-      <description><![CDATA[我很好奇有多少开发者通过学习和面试真正能够坚持下去。 如何2024 年成为 Web 开发人员现实吗？   由   提交 /u/thenadeemam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c87vmv/if_youve_been_hired_in_the_last_6_months_have_you/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的图形/图表库是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c87f28/what_are_your_favourite_graphchart_libraries/</link>
-      <description><![CDATA[如果重要的话，我正在 React 中构建 这是我的用例的简化版本 我正在跟踪“订单数量”随着时间的推移，我想要一个折线图，显示随时间（X 轴）每天（y 轴）的总量。那里没什么太难的。  但我也会记录特定事件的日期，例如“新产品发布” ，并希望在它们发生时绘制它们 - 我想象一条从发生之日起向上的垂直线 - 这样您也许可以看到发布如何影响订单数量。  我还希望能够在线图上绘制一系列日期 - 例如销售的开始/结束 - 再次查看其影响。  我发现很容易找到构建折线图的方法，但添加其他位就不那么容易了，我希望有人在那里并可以为我指明正确的方向！    由   提交/u/SimpleWarthog  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c87f28/what_are_your_favourite_graphchart_libraries/</guid>
-      <pubDate>Fri, 19 Apr 2024 20:44:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
