@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 20 Apr 2024 03:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:14:00 GMT</lastBuildDate>
+    <item>
+      <title>关于 Davinci Resolve Studio 新 Linux 机器的建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1c8h88j/advice_on_new_linux_machine_for_davinci_resolve/</link>
+      <description><![CDATA[嗨， 我是一名长期 Mac 用户，主要用于视频和一些照片编辑。我仍在运行配备 intel i9、16GB RAM、1TB SSD、Radeon 5500M 4GB 型号的 Macbook pro 16 (2019)。我的机器最近也显得有些老化了。我最近通过 Thunderbolt 3 从外部 NVME 编辑了 4TB LongGOP、10 位、4:2:2 文件，在 Davinci Resolve 中制作了一部 30 分钟的纪录片，它出现了很多卡顿（15-20fps 播放）。我必须在代理生成器中创建代理以缓解口吃。我意识到我的机器对于 DR 18.6 来说可能太旧了 由于缺乏可升级性，我不想投资新的 Mac，并想构建一台 PC。但我不想运行Windows，我只是不想处理它的问题。我已经运行 Linux 来管理我的家庭和财务，并且我相信 Linux 是完美的选择。  所以我的问题是：  我不想使用推荐的 Rocky Linux，debian、ubuntu、linux mint 或 fedora 是否兼容？ 该发行版有任何教程吗？ 您会推荐哪些 PC 部件/硬件？ CPU、GPU 和主板。 Linux 中的 DR 支持 intel Arc GPU 吗？  谢谢 &lt;!-- SC_ON - -&gt;  由   提交 /u/brenebon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c8h88j/advice_on_new_linux_machine_for_davinci_resolve/</guid>
+      <pubDate>Sat, 20 Apr 2024 04:31:20 GMT</pubDate>
+    </item>
     <item>
       <title>有关 SanDisk Professional PRO-Blade Station 的问题吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1c8edox/a_question_about_sandisk_professional_problade/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我知道在试镜中这是可能的，但我不想添加额外的步骤，因为我已经在太多节目之间跳转了   由   提交 /u/T00Human   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c7idye/any_plugins_that_make_sidechaining_possible_in/</guid>
       <pubDate>Thu, 18 Apr 2024 23:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>新工作站</title>
-      <link>https://www.reddit.com/r/editors/comments/1c7bhpk/new_workstation/</link>
-      <description><![CDATA[嘿，我打算购买一台新电脑，主要用于 Premiere Pro 编辑。我通常编辑 4K XAVC-I 或 XAVC-L，有时编辑 8K R3D。这是我选择的硬件： AMD Ryzen 9 7950X Noctua NH-U12A GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G，12GB GDDR6X Crucial P5 Plus，M.2 - 1TB WD Black SN770，M.2 - 2TB 金士顿狂暴野兽黑色 64GB (2x32GB) DDR5 5600 CL40 MSI MAG B650 TOMAHAWK WIFI - AMD B650 分形设计 Meshify 2 紧凑型黑色固体 安静！系统功率 10 - 850W 对构建有什么想法吗？我已经有足够的 HDD 存储空间，所以我没有在这里列出它    由   提交 /u/Atrekan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c7bhpk/new_workstation/</guid>
-      <pubDate>Thu, 18 Apr 2024 19:01:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

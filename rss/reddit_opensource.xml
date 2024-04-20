@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 03:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:14:29 GMT</lastBuildDate>
+    <item>
+      <title>朋友：开源AI可穿戴录音设备</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c8ikn1/friend_open_source_ai_wearable_recording_device/</link>
+      <description><![CDATA[隆重推出 Friend，这是世界排名第一的开源可穿戴设备，可轻松捕获对话。只需将其连接到您的移动设备，无论您身在何处，都可以自动保存会议、聊天和语音备忘录的高质量转录。 获取即时摘要、关键亮点、思维导图、待办事项列表等 - 不再乏味需要做笔记。使用这款终极免提解决方案解放自己，充分参与对话。 ​ 主要功能 完全开源 电池电量超过 24 小时 实时语音和音频转录 记住对话 支持蓝牙 WiFi、LED、加速计 USB-C 充电应用程序市场 我们创建了有关如何设置设备和构建您自己的应用程序的分步指南： 开发人员文档 ​ GitHub 上最大的开源 AI 可穿戴社区 构建利用这种创新新技术的应用程序，并与我们 Discord 社区中的数千名其他开发者分享想法 ​ ​ ; 立即加入候补名单： https://basedhardware.com  &lt; /div&gt;  由   提交 /u/durgxn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c8ikn1/friend_open_source_ai_wearable_recording_device/</guid>
+      <pubDate>Sat, 20 Apr 2024 05:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synthesia.io 的替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1c8gmo9/alternative_to_synthesiaio/</link>
+      <description><![CDATA[非常简单的问题：有 Synthesia.io 的开源替代品吗？一个现成的工具固然很棒，但具有开放权重的模型就足够了。   由   提交/u/TonyGTO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1c8gmo9/alternative_to_synthesiaio/</guid>
+      <pubDate>Sat, 20 Apr 2024 03:59:13 GMT</pubDate>
+    </item>
     <item>
       <title>具有代理工作流程的 Github 项目模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1c8eyf8/a_github_project_template_with_agentic_workflows/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>创建网页来计算室内设计成本 Sim</title>
       <link>https://www.reddit.com/r/opensource/comments/1c7prs6/create_a_web_page_to_calculate_interior_design/</link>
-      <description><![CDATA[嗨 我在室内设计行业工作，我们每月大约有 100 条线索 我需要一些网页，以便我的员工计算客户需求的总成本 到目前为止，我们一直在使用 excel 页面，但有时我们会迷失方向，无法追踪之前通过 excel 创建的模拟，需要为我们的线索重新创建它 我们想要创建的东西是这样的  https://ibb.co/9ysp5hH 您可以选择显示哪些组件和成本以及总数，也可以保存表单并通过特定的“模拟代码”调用它们，每当您输入它时，它都会显示之前输入的最后值 有任何开源代码可以实现这样的事情吗？    提交人    /u/Either_Audience_1937   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 我在室内设计行业工作，我们每月获得大约 100 个潜在客户 我需要一些网页我的员工计算客户需求的总成本 到目前为止，我们正在使用 Excel 页面，但有时我们会迷路，无法跟踪我们之前通过 Excel 创建的模拟，需要为我们的潜在客户重新创建它 /&gt; 我们想要创建的是这样的  https://ibb.co/9ysp5hH 您可以选择显示哪个组件和成本以及总计，您也可以保存表格并通过特定的“模拟代码”调用它们，每当您输入它时，它都会显示之前输入的最后一个值 有开源代码可以实现类似的功能吗？   由   提交/u/Either_Audience_1937   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7prs6/create_a_web_page_to_calculate_interior_design/</guid>
       <pubDate>Fri, 19 Apr 2024 06:15:04 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以我希望从事一些不需要太多参与的 Node js 或 django 项目。我的背景是我19岁，我也进入了一个学习软件工程的非常要求的教师，现在我希望在不久的将来我可以从事更“重要”的工作。使用 C++ 的开源项目，但我作为后端开发人员使用 Node JS 工作了 10 个月，使用 django 工作了 7 个月。我不想忘记我所做的一切。  如果项目贡献者向新人开放，并在遇到困难时提供帮助/指导，这也会有很大帮助。   由   提交/u/just_something_tbh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c7bw07/node_js_or_django_open_source_projects_worth/</guid>
       <pubDate>Thu, 18 Apr 2024 19:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我经常提交，在 GitHub 上找到我的存储库会更容易吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c7ax61/will_it_be_easier_to_find_my_repo_on_github_if_i/</link>
-      <description><![CDATA[你好， 我最近开源了我的语言学习门户项目。问题是我有我的旧私人仓库，我每天都会对其进行开发。然后是公共开源存储库，我只向其中提交了带有生产代码的里程碑。  如果我将日常开发完全切换到公共仓库，其他人是否更有可能在 GitHub 上找到它？  谢谢。   由   提交/u/tcoil_443   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c7ax61/will_it_be_easier_to_find_my_repo_on_github_if_i/</guid>
-      <pubDate>Thu, 18 Apr 2024 18:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 的隐藏屏幕录像机有推荐吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c79ynn/recommendations_for_hidden_screen_recorders_for/</link>
-      <description><![CDATA[我的意思是那些不显眼的东西，它们可以在后台运行，而桌面上没有任何指示。首选开源。   由   提交 /u/General_Riju   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c79ynn/recommendations_for_hidden_screen_recorders_for/</guid>
-      <pubDate>Thu, 18 Apr 2024 18:01:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

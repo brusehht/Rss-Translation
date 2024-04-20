@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 03:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:14:26 GMT</lastBuildDate>
+    <item>
+      <title>Stripe Payment Saas 用户创建</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8in3j/stripe_payment_saas_user_creation/</link>
+      <description><![CDATA[你好！我使用 Stripe 付款为我的 SAAS 设置了不同级别的登陆页面。你知道那些时尚的定价表吗？无论如何，当有人选择一个级别时，我希望他们通过定期付款来订阅。但这里存在一个困境：我应该如何管理用户创建？ 我应该让他们先注册，然后显示层级，并以某种方式将他们的 Stripe 客户 ID 链接到我的用户 ID？或者也许我可以在他们付款后创建他们的用户帐户？或者我应该完全放弃 Stripe 定价表并要求他们首先在我的网站上创建一个帐户，然后在我的后端设置一个 Stripe 客户帐户？ 过去，我曾经处理 Stripe 付款手动，但现在一切都是为了避免我们自己收集卡信息，对吗？那么，关于如何以更正确的方式处理此问题有什么建议吗？   由   提交 /u/look_at_my_cucumber   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8in3j/stripe_payment_saas_user_creation/</guid>
+      <pubDate>Sat, 20 Apr 2024 05:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得 AdSense 批准</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8il76/getting_adsense_approval/</link>
+      <description><![CDATA[大约一个月前，我托管了我制作的这个网站（我会将链接放在评论中），这是一个包含文章和壁纸的游戏网站。截至目前，我有一百多张壁纸和两篇文章。当我申请 AdSense 时，我遇到了低价值内容。我知道这并不容易，就像我看到过一些帖子，有些人在有 50 篇文章的情况下遇到了同样的问题，有些人立即就得到了它。我没想到它会立即获得批准，但我希望你们就我应该做什么提供一些指导   由   提交 /u/KPCGamer2017s   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8il76/getting_adsense_approval/</guid>
+      <pubDate>Sat, 20 Apr 2024 05:52:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chart.googleapis.com 404 ???</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8hkup/chartgoogleapiscom_404/</link>
+      <description><![CDATA[我们在网站上使用谷歌二维码，客户刚刚注意到它们没有生成......当我检查它们时，我只是得到 404 ...所以我检查了 https://downforeveryoneorjustme.com/chart.googleapis.com?proto=https 它说它对每个人来说都已关闭...我是否错过了重要的谷歌更新电子邮件或其他什么？是否发生了某些变化或实际上已损坏。至少几天都是这样。 ​ 我收到 404 的示例网址： https://chart.googleapis.com/chart?cht=qr&amp;chl =Hello+world&amp;choe=UTF-8&amp;chs=180x180   由   提交 /u/Sphism   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8hkup/chartgoogleapiscom_404/</guid>
+      <pubDate>Sat, 20 Apr 2024 04:51:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个更好的笔记/生产力应用程序。请检查一下。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c8hcn0/i_am_building_a_better_notetakingproductivity_app/</link>
+      <description><![CDATA[嗨，我正在构建 https://thedrive.ai ，一个人工智能优先的协作知识库和笔记应用程序。您可以上传和管理您的课程资源，提出问题以更好地理解内容，突出显示 PDF，并利用 AI 将写作速度提高 100 倍。此外，您可以在平台上与朋友聊天的同时撰写协作笔记。作为一名学生，这非常有帮助，并且想知道您是否也可以尝试一下。抱歉，如果它断章取义。干杯   由   提交 /u/karkibigyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c8hcn0/i_am_building_a_better_notetakingproductivity_app/</guid>
+      <pubDate>Sat, 20 Apr 2024 04:38:16 GMT</pubDate>
+    </item>
     <item>
       <title>托管站点的选择：WordPress 或 Azure</title>
       <link>https://www.reddit.com/r/webdev/comments/1c8ep4b/choice_of_hosting_site_wordpress_or_azure/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是一名后端软件开发人员，想要构建一个允许用户选择他们可以阅读的语言的表单。我在完成 angular.dev 教程后实现了此功能 这里是我的实现最终结果的链接https://angular-docker-4kbqnvs2ha-uc.a.run.app/languages（如果您喜欢，请留下您选择的语言的屏幕截图） 我想尝试其他 JavaScript 框架和库。还有其他类似 Angular 的 2 路绑定吗？   由   提交 /u/MeynGuy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c8aqnw/angular_vs_your_next_favourite_js_library/</guid>
       <pubDate>Fri, 19 Apr 2024 23:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>最可靠的域名注册商和最好的客户支持？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8aikm/most_reliable_domain_registrar_with_best_customer/</link>
-      <description><![CDATA[您好，如果我愿意支付额外费用（最好每年不超过几百美元）来获得域名，我应该使用哪个域名注册商最好的客户支持？例如，如果出现紧急问题，能够 24/7 打电话给有能力的人。 刚刚度过了过去几年中最可怕的 14 个小时，试图找到一个便宜的东西我使用的垃圾注册商是我这个白痴。   由   提交 /u/JumpRevolutionary664   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8aikm/most_reliable_domain_registrar_with_best_customer/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>幻灯片/CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c8ai3d/slideshow_css/</link>
-      <description><![CDATA[我正在尝试播放幻灯片，但它仅显示 3 张图像中的 2 张。下面是 CSS，你能看看我是否做错了什么吗？ .slideshow { width: 100%; height: 300px; Overflow:隐藏; 位置：相对; } .slide { 宽度：100%; 高度：100%; 显示：flex; 位置：绝对； 过渡：变换 1s 轻松； } .slide img { 宽度：100%； 高度：100%； object-fit: cover; } .text-overlay { 位置：绝对; 顶部：50%; 左侧：20px;变换：translateY(-50%); 颜色：白色 } .slide:nth-child(1) { left: 0; } .slide:nth-child(2) { 左：100%; } .slide:nth-child(3) { 左：200%;&lt; br /&gt; } ​ 这是它的 HTML 部分。     欢迎光临丽居酒店  &lt;/div&gt;    山脉或海洋   &lt;/div&gt;    您的冒险等待着   &lt;/div&gt; &lt;/div&gt;   由   提交 /u/ThickChemistry4660   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c8ai3d/slideshow_css/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很好奇;也许只是因为我很糟糕，但是你们中有多少人因为拼写错误而出现控制台错误？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c89yqd/im_curious_only_perhaps_because_im_shite_but_how/</link>
-      <description><![CDATA[最好的例子是我以前的 jQuery 时代；  $( &quot;#exampleOne&quot; ).on( &quot;lick&quot;,)  对我来说，无论如何，有时最大的教训就是实际阅读控制台错误。  你也一样吗？    由   提交 /u/Grandecamer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c89yqd/im_curious_only_perhaps_because_im_shite_but_how/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了免费的简历生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c89wee/i_created_free_resume_builder/</link>
-      <description><![CDATA[      嘿，开发人员。 我是一名来自瑞典的 x0 前端开发人员，在过去的两周里，我一直在开发一个简历生成器应用程序作为我的业余项目。  您可以在恢复构建 查看，非常感谢任何反馈。请告诉我您希望在未来版本中看到哪些功能。 ​ ​ https://preview.redd.it/640bbg3qeivc1.png?width=960&amp;format= png&amp;auto=webp&amp;s=5601a00aeede3b8cbe1ab9e1bba06892af4e9cca   由   提交 /u/Mans__js   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c89wee/i_created_free_resume_builder/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:27:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
