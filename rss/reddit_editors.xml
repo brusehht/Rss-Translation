@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 22 Apr 2024 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 18:15:19 GMT</lastBuildDate>
+    <item>
+      <title>对于所有库存音乐作曲家...</title>
+      <link>https://www.reddit.com/r/editors/comments/1cadqs5/to_all_stockmusic_composers_out_there/</link>
+      <description><![CDATA[...请不要在曲目中添加钢琴。相信我 - 90% 的歌曲中，它都会让它变得不那么俗气。谢谢。   由   提交 /u/Sigerr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cadqs5/to_all_stockmusic_composers_out_there/</guid>
+      <pubDate>Mon, 22 Apr 2024 15:29:27 GMT</pubDate>
+    </item>
     <item>
       <title>您工作日有多少时间用于实际编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1cabmdy/how_much_of_your_workday_is_actual_editing/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>适合我们制作室的最佳设置（LucidLink、Synology NAS 及其他）</title>
       <link>https://www.reddit.com/r/editors/comments/1ca4xaa/best_setup_for_our_production_house_lucidlink/</link>
-      <description><![CDATA[嗨，我正在尝试为我的公司制定最佳工作流程，但很难得到正确的答案。有人可以提供建议吗？ 我们是一家制作公司，在现场拍摄，上传到伦敦的 Synology NAS，然后允许英国各地的编辑在 Premiere Pro 中处理项目。 我们的主要编辑表示他应该只使用本地文件进行最终通关和分级，但他的连接速度为 100Mpbs 上行/20Mbps 下行。他想使用 Dropbox，但我们过去遇到过问题，如果您的驱动器被卸载或有人将其链接到空间不足的驱动器，它会删除所有文件，因此我们希望避免使用 Dropbox。 我们一直在试用 LucidLink 并且喜欢它。但不确定如何创建正确的工作流程。  我们正在考虑： Synology NAS 用于存储原始文件，LucidLink 用于存储其他所有内容 但显然 LL 根本不与 Synology 通信或同步 有人对如何有效使用这两样东西有什么建议或提供任何替代方案吗？    提交人    /u/sbuswell   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我正在努力为我的公司制定最佳工作流程，并努力寻找正确的答案。有人可以提供建议吗？ 我们是一家制作公司，负责现场拍摄，上传到伦敦的 Synology NAS，然后让英国各地的剪辑师可以在 Premiere Pro 中处理项目。  我们的主编辑表示他应该只使用本地文件进行最终通行证和评分，但他的连接速度为 100Mpbs 上行/20Mbps 下行。他想使用 Dropbox，但我们过去遇到过问题，如果您的驱动器被卸载或有人将其链接到空间不足的驱动器，则会删除所有文件，因此我们希望避免使用 Dropbox。 我们一直在试用 LucidLink 并且喜欢它。但不确定如何创建正确的工作流程。  我们在想： Synology NAS 用于我们的原始文件 LucidLink 用于其他一切 但显然 LL 不与 Synology 通信或与其同步根本 有人对如何有效地使用这两个东西或提供任何替代方案有任何建议吗？   由   提交/u/sbuswell  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ca4xaa/best_setup_for_our_production_house_lucidlink/</guid>
       <pubDate>Mon, 22 Apr 2024 07:45:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[过去两年我一直使用 AE 进行编辑，但既然我决定切换到视频编辑，我应该切换到 PR 吗？   由   提交/u/Most_Ad_7259   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c9oalu/should_i_switch_from_ae_to_pr/</guid>
       <pubDate>Sun, 21 Apr 2024 18:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在公共云中运行 MC 是否需要 VM 选项许可证？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c9o5s8/does_running_mc_in_public_cloud_require_vm_option/</link>
-      <description><![CDATA[对于那些在 AWS 中部署 Media Composer 的人来说，这是一个非常具体的问题。您需要为 VM 选项付费吗？因为 MC 在使用 GPU 直通运行时不会抱怨，只有当它检测到 vWs GRID 配置文件时才会抱怨。如果使用直通，这是否意味着不需要 VM 选项许可证？ （就像在 AWS G 实例中一样？）   由   提交 /u/BoilingJD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c9o5s8/does_running_mc_in_public_cloud_require_vm_option/</guid>
-      <pubDate>Sun, 21 Apr 2024 17:57:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

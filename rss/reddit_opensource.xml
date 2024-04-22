@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 15:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 18:16:06 GMT</lastBuildDate>
+    <item>
+      <title>您认为哪个文档具有最好的 UI/UX？寻找灵感。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cadk6n/which_documentation_you_feel_has_the_best_ui_ux/</link>
+      <description><![CDATA[ 由   提交 /u/Only_Piccolo5736   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cadk6n/which_documentation_you_feel_has_the_best_ui_ux/</guid>
+      <pubDate>Mon, 22 Apr 2024 15:21:52 GMT</pubDate>
+    </item>
     <item>
       <title>《辐射 4》如何促使创建 JSON 替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cactp8/how_the_fallout_4_prompted_the_creation_of_json/</link>
       <description><![CDATA[大家好！ 几天前，我必须回到辐射 4看过电视剧。我想我们很多人都做了同样的事情！但是，在下载游戏后，我遇到了一些麻烦 - 游戏不会以无边框窗口启动，也不会拉伸到全屏。我发现网上的人描述了一些解决这个问题的技巧，首先我需要找到 Fallout 配置文件。 看到这个后，我的下巴撞到了地板上。 文件中的参数是按前缀强类型化的。 [HairLighting] fHairPrimSpecScale=0.02 [Audio] bEnableAudio=1  这个决定非常明智。我开发过很多游戏，我们所有的游戏设计师都犯了很多错误，因为 JSON 没有强类型。他们看不到所有这些类型！并且您可以想象产生了多少错误以及必须在任务跟踪器中创建多少问题。  另一个想法。您还记得GTA 5 游戏配置有多少兆吗？ 10mb 和 63k 项！ 一个错误，你的车就无法达到最大速度;) 所以，据我所知，这是一个问题。 和 JSON应该换成更好的。  上周末我妻子去看望了她的父母，留下我一个人。我花时间在 .NET 平台上制作STORM（强类型对象引用模型）。两天时间，事情就完成了。 顺便说一句，我只想获得简单的、强类型的、类似 JSON 的对象表示法，并将其用于我自己的项目中。 它有：   原始类型的所有类型 从字符串或数字反序列化枚举 单行和多行字符串 能够内联任意数量的继承文件（来自本地文件或 Web 服务器） 自定义反序列化过程（您可以添加对任何自定义类型的支持！）  看起来像： #this is a comment #b - 表示“布尔值”并且可以是不区分大小写的值“yes”或“1”或“tRuE”或“no”或“0”或“fAlSe”之一 param_1:b = yes #i - 表示“整数” param_2:i = -123 #f - 表示“浮动” param_3:f = 32.32 #t - 表示“文本”或“字符串” param_4:t = 这是单行 param_5:t = &quot;这是多行，也称为“弦乐之王”。这不是玩笑！” #对象应该映射为没有任何类型 obj_1 = { field_1:t = &quot;I&#39;m a first field&quot;; field_2:s = 123 field_3 = { arg_1:i = 123 arg_2:sbt = 4 } } #数组也应该映射为不带任何类型 #而且所有数组值都不能有名称 array_1 = [ :t = &quot;first元素” :t = 第二个元素 :t = 第三个元素 ] #任何内联对象都应通过类型 &#39;url&#39; 映射 obj = { internal:url = file:///home/user/internal.storm external:url = http:// youhostname.domain/files/external.storm }  您可以在 GitHub 的项目页面中找到更多信息：https://github.com/am1goo/Storm.Net  你对此有何看法？值得在这里STORM吗？请以任何方式分享您的反馈，这对我来说非常重要。 PS：不幸的是，这个项目的第一个名称 STON（强类型对象表示法）被来自 SmallTalk 生态系统的家伙 :(    提交者    /u/am1goo   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cactp8/how_the_fallout_4_prompted_the_creation_of_json/</guid>
       <pubDate>Mon, 22 Apr 2024 14:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>将项目开源的清单？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cacn9o/checklist_for_turning_a_project_open_source/</link>
-      <description><![CDATA[我有一个小型 iPad 应用程序，正在应用商店免费分发。我想将该项目移至开源。 问题是我从未对其他项目做出任何贡献，或者除了备份我的代码之外真正使用过 git，所以我真的不知道从哪里开始。我发现了几个关于首次对开源做出贡献的帖子，但总是作为参与者，而不是存储库所有者。 该项目目前每月有大约 13k 个活跃会话和 4k 次下载，我在 2023 年 10 月发布了第一个版本。该应用程序是一个名为“Dongled”的 USB 视频 (UVC) 监视器，我现在正在将存储库公开。  到目前为止，我的自制指南，也就是我的待办事项清单包括：  为项目选择许可证 创建贡献指南（不确定要放什么，只是复制了一个模板） 以某种方式推广该项目，让感兴趣的贡献者了解它，如果苹果允许的话，可能是通过应用程序的商店页面？ 标记项目中的问题以供其他人贡献并尝试组织/标记代码？ 通过 gitignore 从 xcode 项目中删除并清除我的设置 我遗漏了什么吗？  我对开源的目标是：  代码审查：我是一名自学成才的程序员，我可以想象在代码布局方面应该有一些事情需要调整为“最佳实践”，对于学习了“正确”代码的人来说，这些调整很容易方式。 允许其他人贡献新功能 分享我的项目：我认为该应用程序的核心 UVC 监控功能可能是其他想要做涉及 UVC 监视器的项目的开发人员的有用起点。  我可能忽略的任何其他考虑或想法都会受到欢迎。    提交人    /u/oddforms   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cacn9o/checklist_for_turning_a_project_open_source/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:45:39 GMT</pubDate>
     </item>
     <item>
       <title>我们正在构建一个开源、自托管的 Captable。在 Github 上查看并给我们反馈？</title>
