@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:12:46 GMT</lastBuildDate>
+    <item>
+      <title>使用 Parsec/Jump 等的远程编辑器：验证音频和视频同步的最佳/最快/最简单方法是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb68is/remote_editors_who_use_parsecjump_etc_whats_the/</link>
+      <description><![CDATA[您可能知道，使用秒差距会出现轻微延迟，导致音频和视频无法完美匹配。我们不通过时间码同步，因此我们仅依靠通过波形同步采访。然而，如果能够验证它实际上是否与确切的帧同步，那就太好了。也没有石板:(我最初的想法是只与受访者的波形和爆破音同步。有更好的方法吗？也许可以在秒差距内进行设置来更好地同步系统的 AV 输出？     提交者 /u/bigpuffy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb68is/remote_editors_who_use_parsecjump_etc_whats_the/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频制作公司的最佳项目备份系统？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb640g/optimal_project_backing_up_system_for_a_video/</link>
+      <description><![CDATA[我在一家视频制作公司工作，有一段时间我们一直在争论如何组织项目备份。或者当前流程是： ​  拍摄后将驱动器带回 复制将所有内容复制到我们的本地服务器，我们为其设置备份作业到远程服务器  还将其复制到另一个硬盘上，然后我们将其复制到另一个硬盘上带到一个单独的位置，因此我们总共将有 2 个物理驱动器、本地服务器和远程服务器，它们都位于不同的位置。  我们觉得烦人的事情/tedious 是我们与本地/远程服务器的手动备份过程。编辑结束时，有许多我们不需要的不必要的文件/时间线。如果我们在本地服务器上清理这些文件，这些已删除的文件不会在远程服务器上自动删除，我们必须手动清理它们，而我们没有时间这样做。我们的本地服务器的卷现在已满，并且与我们的本地服务器使用的存储大小也不匹配，我们需要检查背后的原因。我不完全知道我的具体问题是什么，但是制作公司的其他编辑在备份过程中做了什么？我们不介意手动确保备份，但在删除文件时它不会自动镜像，这会变得很烦人。 ​ 有什么建议吗？   由   提交/u/ZiddyKong  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb640g/optimal_project_backing_up_system_for_a_video/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:30:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>首先带孩子去上班</title>
+      <link>https://www.reddit.com/r/editors/comments/1cb3clr/first_take_your_child_to_work_day/</link>
+      <description><![CDATA[带着我女朋友 12 岁的小弟弟去办公室，我只是想知道是否有任何在内部编辑的人带他们的孩子去上班，你们怎么样？让他们这样做。我想让他做一些很酷的事情，让他对这个世界更加感兴趣。   由   提交 /u/This_kid_santi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cb3clr/first_take_your_child_to_work_day/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:28:31 GMT</pubDate>
+    </item>
     <item>
       <title>将 Nexis 同步到单个驱动器</title>
       <link>https://www.reddit.com/r/editors/comments/1cb300b/sync_nexis_to_single_drive/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[我以前从未剪辑过 Prores Raw，我只是想检查一下在 Mac 上的 Premiere 中进行编辑时是否不需要 Prores RAW 编码器。我已经看到了适用于 Windows 的下载文件，但没有适用于 mac 的选项？   由   提交/u/Fantastic_Flounder96   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cb1yjn/do_i_need_to_download_prores_raw_decoder_when/</guid>
       <pubDate>Tue, 23 Apr 2024 11:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在编辑音乐视频时陷入困境。</title>
-      <link>https://www.reddit.com/r/editors/comments/1cb19gj/im_stuck_while_editing_a_music_video/</link>
-      <description><![CDATA[我必须编辑小提琴乐器音乐视频，并且有多个剪辑。我已经同步了所有有音频的剪辑。但是还有一些无人机拍摄的剪辑我必须添加。无人机拍摄的剪辑没有音频。请告诉我如何同步没有音频的剪辑。 系统规格：Macbook Air M1 芯片 -8 GB RAM / 256 GB   由   提交 /u/vinithemonkie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cb19gj/im_stuck_while_editing_a_music_video/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:34:29 GMT</pubDate>
     </item>
     <item>
       <title>iPad 和显示器应用程序</title>
@@ -71,7 +85,7 @@
     <item>
       <title>有人曾在 Lux Angeles Studios 工作过吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1caqmvo/anyone_ever_work_post_at_lux_angeles_studios/</link>
-      <description><![CDATA[体验不错吗？坏的？介于两者之间？ https://www.luxangelesstudios.com/home &lt; !-- SC_ON --&gt;  由   提交 /u/Pm_me-wholesome_porn   /u/Pm_me-wholesome_porn reddit.com/r/editors/comments/1caqmvo/anyone_ever_work_post_at_lux_angeles_studios/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[体验好？不好？中等？ https://www.luxangelesstudios.com/home    提交人    /u/Pm_me-wholesome_porn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1caqmvo/anyone_ever_work_post_at_lux_angeles_studios/</guid>
       <pubDate>Tue, 23 Apr 2024 00:17:18 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>达芬奇沃弗洛首映</title>
       <link>https://www.reddit.com/r/editors/comments/1caou48/premiere_to_davinci_worflow/</link>
-      <description><![CDATA[嘿你们！  我在营销机构担任编辑/摄像师多年。我们所有人之间的常用工作流程由 Adob​​e Suite 程序组成，因为它们可以轻松地相互集成。  Premiere、After Effects、Illustrator、Photoshop、Lightroom、Audition 等。 我自己进行颜色分级，但多年来我看到达芬奇在颜色分级方面杀死了游戏。由于我与团队的工作流程，您可能无法说服我进行完全切换，但我会问……你们对 Premiere 和 Davinci 之间的工作流程有什么想法/工作流程吗？  显而易见的答案可能是从首映中导出编辑过的素材，然后将其导入达芬奇进行颜色分级。但我只是想问是否有更好的方法供大家用来将这两个程序相互集成。 我真的很想在达芬奇中开始颜色分级。  谢谢！    由   提交/u/KRAH713  [链接] [评论]]]></description>
+      <description><![CDATA[嘿你们！  我在营销机构担任编辑/摄像师多年。我们所有人之间的常用工作流程由 Adob​​e Suite 程序组成，因为它们可以轻松地相互集成。  Premiere、After Effects、Illustrator、Photoshop、Lightroom、Audition 等。 我自己进行颜色分级，但多年来我看到达芬奇在颜色分级方面杀死了游戏。由于我与团队的工作流程，您可能无法说服我进行完全切换，但我会问……你们对 Premiere 和 Davinci 之间的工作流程有什么想法/工作流程吗？  显而易见的答案可能是从首映中导出编辑过的素材，然后将其带入达芬奇进行颜色分级。但我只是想问是否有更好的方法供大家用来将这两个程序相互集成。 我真的很想在达芬奇中开始颜色分级。  谢谢！    由   提交/u/KRAH713  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1caou48/premiere_to_davinci_worflow/</guid>
       <pubDate>Mon, 22 Apr 2024 22:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年学习 Media Composer 的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1canhlb/what_is_the_best_way_to_learn_media_composer_in/</link>
-      <description><![CDATA[大家好！ 我在一家法国电视台的网络部门工作。我认为我非常熟悉 Resolve、Premiere Pro、FCPX 和 After Effects。但为了在公司发展，我需要学习 Avid Media Composer。 我刚刚下载了 MC First 和 OH MY。我可能是弱智，但我不明白时间线是如何运作的，工具是什么。 你对 2024 年学习 MC 的最佳方法有什么建议吗？谢谢！   由   提交 /u/Ainri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1canhlb/what_is_the_best_way_to_learn_media_composer_in/</guid>
-      <pubDate>Mon, 22 Apr 2024 22:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候买一台 NAS 了，看看 DS1821。我知道我的台式电脑需要一张 10GB 卡，但不清楚 RAM/SSD/缓存需求。</title>
-      <link>https://www.reddit.com/r/editors/comments/1camcno/time_to_get_a_nas_looking_at_ds1821_i_know_ill/</link>
-      <description><![CDATA[https ://www.bhphotovideo.com/c/product/1706724-REG/synology_96tb_diskstation_ds1821_8_bay.html/overview 我很乐意购买一次可以长期陪伴我的东西，所以我不介意 DS1821 的成本。跳过 4 个盘位并直接进入 8 个盘位是否正确？ 我喜欢基于代理的工作流程，目前主要处理 4k 素材，尽管我同时处理一些客户感觉需要更好的媒体管理，有时我确实会看到更大的文件。 我技术含量很高，设置了 NUC 并构建了我自己的电脑等，所以我不介意这一点。  我看到了一些关于缓存是否好/坏等的相互冲突的信息。如果它们有所作为，我不介意选择一些 NVME。 我想这也意味着更新路由器；我还缺少什么吗？   由   提交 /u/CyJackX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1camcno/time_to_get_a_nas_looking_at_ds1821_i_know_ill/</guid>
-      <pubDate>Mon, 22 Apr 2024 21:19:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
