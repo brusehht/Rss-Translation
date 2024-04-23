@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 15:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:15:20 GMT</lastBuildDate>
     <item>
-      <title>我应该如何许可我的第一个使用第 3 方库的 github 项目？</title>
+      <title>将选项卡分组到左侧 chrome 扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</link>
+      <description><![CDATA[您好！我很高兴第一次涉足开源社区。 我制作了一个 Chrome 扩展通过管理选项卡混乱来提高浏览效率。只需单击一下，它就会将所有选项卡分组到当前选项卡的左侧，使我能够专注于任务，而不会丢失对打开页面的跟踪。它最小化了该组并排除了任何固定的选项卡。 我已将最近的更新推送到 GitHub 存储库。虽然这个版本尚未上架 Chrome 应用商店，但它包含了一项新功能：忽略现有组的能力。对于那些想要分组的人来说，这可能是更好的选择。   由   提交/u/CuntBuster2077  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cb9kr9/group_tabs_to_the_left_chrome_extension/</guid>
+      <pubDate>Tue, 23 Apr 2024 16:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>贡献/维护开源项目对找工作有帮助吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</link>
+      <description><![CDATA[我一直在构建一个我非常热衷的项目。我希望该项目也能通过以下方式帮助我找工作：  通过我的项目为自己带来宣传 在面试中有一个可以谈论的重大项目 在我的简历中有一个好的项目  我的问题是，有一个好的开源项目对你找工作有帮助吗？   由   提交 /u/ItsBJr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cb7i0c/has_contributingmaintaining_an_open_source/</guid>
+      <pubDate>Tue, 23 Apr 2024 15:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何许可我的第一个使用第三方库的 github 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</link>
       <description><![CDATA[嗨，我正在 Kotlin 中开发一个简单的密码管理器应用程序，用户可以上传照片以将其用作密码的图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库 (Canhub/Android-Image-Cropper)。我的项目只是用于一个学校项目，但是我想让我的源代码免费以他们想要的任何方式使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归因图像裁剪器的作者？请记住，我没有修改他们的代码，也没有发布他们的实际包，而是在 gradle 实现中。 当涉及到 git 和软件许可时，我完全是个菜鸟。帮助将不胜感激。   由   提交/u/Agus__02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</guid>
@@ -15,7 +29,7 @@
     <item>
       <title>OW2con 2024</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</link>
-      <description><![CDATA[ 由   提交 /u/opensourceinitiative   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/opensourceinitiative  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb0chs/ow2con_2024/</guid>
       <pubDate>Tue, 23 Apr 2024 09:34:01 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Mon, 22 Apr 2024 14:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在构建一个开源、自托管的 Captable。在 Github 上查看并给我们反馈？</title>
+      <title>我们正在构建一个开源、自托管的 Captable。在 Github 上查看并向我们提供反馈？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cab3yl/we_are_building_an_opensource_self_hosted/</link>
       <description><![CDATA[大家好，我们正在构建 Captable - Carta 的开源、自托管版本。查看 Github &amp;让我知道你的想法？  https://github.com/captableinc/captable    由   提交/u/haphazardwizardofoz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cab3yl/we_are_building_an_opensource_self_hosted/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[      «开源付费一直很困难。但在过去的几个月里，一些知名公司将关键项目从开源许可证转移到了更严格的许可证。»   由   提交/u/carlospinheirotorres   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9ta2f/whats_next_for_companies_built_on_open_source/</guid>
       <pubDate>Sun, 21 Apr 2024 21:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>图数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9s4qc/graph_database/</link>
-      <description><![CDATA[Apache 软件基金会项目聚焦：APACHE 时代 https://news.apache.org/foundation/entry/asf-project-spotlight-apache-age https://age.apache.org/ https://github .com/apache/age   由   提交/u/Eya_AGE  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9s4qc/graph_database/</guid>
-      <pubDate>Sun, 21 Apr 2024 20:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 多个开源本地 AI 工具和解决方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9oqs9/100_opensource_local_ai_tools_and_solutions/</link>
-      <description><![CDATA[嗨u/opensource，我来了每天都在寻找开源的本地 AI 工具，但找到​​合适的工具和解决方案仍然很累。作为一个开源项目，我们的团队  Jan 已开始在一个 GitHub 存储库中整理一系列开源本地 AI 工具和解决方案。我们列出了从推理引擎到 AI 代理的 100 多个开源项目 - 您可以在此处查看列表：https://github。 com/janhq/awesome-local-ai 即使在加入 Jan 团队之前，这个列表也对我帮助很大。我坚信开源法学硕士很可能会改变我们做事的方式——即使是在我工作了几年的营销和商业战略等领域。一个无聊的注释：我如此坚信它，以至于我改变了我的职业方向。我们将用一些更多的视觉元素更新此列表，并为每个类别添加更容易理解的图表。我需要您对此的评论和贡献。您认为在 GitHub 存储库上添加更多视觉效果是否会引起受众共鸣，或者我们应该只为社交媒体帖子添加更多视觉效果？如果您发现该列表有用，请考虑在 GitHub 上给它一颗星。一如既往，欢迎贡献。   由   提交 /u/emreckartal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9oqs9/100_opensource_local_ai_tools_and_solutions/</guid>
-      <pubDate>Sun, 21 Apr 2024 18:21:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
