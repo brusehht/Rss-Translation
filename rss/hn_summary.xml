@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 09:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:12:25 GMT</lastBuildDate>
     <item>
-      <title>最后期限 (2014)</title>
-      <link>https://t.me/hn_summary/86160</link>
-      <description><![CDATA[截止日期（2014）
-汤姆·德马科 (Tom DeMarco) 的《最后期限》是一部伪装成小说的独特项目管理经典。主角是一名项目经理，他被下药并绑架到一个虚构的国家从事软件项目。每一章都介绍了一个新问题以及世界知名专家的见解。这本书提供了有关风险管理、“我能做到”态度的危险以及喜欢你的团队的重要性的宝贵经验。令人惊讶的教训包括对直觉进行建模，以及揭示模糊的规范常常隐藏冲突。总体而言，本书以引人入胜的形式提供了发人深省的建议，使其成为项目经理的必读之作。]]></description>
-      <guid>https://t.me/hn_summary/86160</guid>
-      <pubDate>Wed, 24 Apr 2024 09:05:41 GMT</pubDate>
+      <title>特斯拉正面临着股价暴跌、裁员和项目取消等困难。</title>
+      <link>https://t.me/hn_summary/86205</link>
+      <description><![CDATA[特斯拉吸取了惨痛的教训：反唤醒，破产
+特斯拉正面临着股价暴跌、裁员和项目取消等困难。该公司转向反觉醒言论，疏远了其历史上忠诚的民主党客户群，导致销售额大幅下降。尽管共和党人接受了埃隆·马斯克的政治立场，但他们并没有弥补民主党的支持率损失。向其他汽车制造商开放特斯拉超级充电网络的决定可能会进一步削弱其民主党客户群。尽管民主党的销量略有反弹，但特斯拉的未来仍然充满不确定性，尤其是在赛博卡车令人尴尬的失败以及围绕马斯克的负面报道的情况下。]]></description>
+      <guid>https://t.me/hn_summary/86205</guid>
+      <pubDate>Wed, 24 Apr 2024 15:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“Rsyncchown”项目是 rsync 的包装器，解决了设置使用的问题 [...]</title>
-      <link>https://t.me/hn_summary/86159</link>
-      <description><![CDATA[显示 HN：如果您厌倦了，Rsyncchown 在 rsync 之后运行 chown Jetbrains上传
-“Rsyncchown”项目是 rsync 的包装器，它解决了将文件同步到目标服务器后设置用户和组所有权的问题。它对于 Jetbrains IDE 特别有用，因为它不提供通过 rsync 上传后运行命令的方法。该项目的独特之处在于，在 rsync 命令完成后，通过 ssh 在目标目录上运行递归 chown 命令。用户在使用该工具时应谨慎，因为它是针对特定需求而编写的，使用时应自行承担风险。]]></description>
-      <guid>https://t.me/hn_summary/86159</guid>
-      <pubDate>Wed, 24 Apr 2024 08:55:34 GMT</pubDate>
+      <title>高收入国家的雀巢婴儿食品不添加糖，但中低收入国家的雀巢婴儿食品 [...]</title>
+      <link>https://t.me/hn_summary/86204</link>
+      <description><![CDATA[雀巢婴儿食品富含不健康的糖分——但仅限于较贫穷的国家&lt; /a&gt;
+雀巢婴儿食品在高收入国家不添加糖，但在低收入和中等收入国家，其糖含量较高，引发人们对儿童不健康饮食习惯的担忧。 Public Eye和IBFAN的一项调查发现，雀巢在较贫穷国家的婴儿产品添加了糖，这与专家的建议相反，造成了双重标准。世界卫生组织科学家奈杰尔·罗林斯批评了这种做法，强调了道德和公共卫生问题。雀巢为其产品辩护，称糖含量的差异取决于法规和当地成分。这场争议加剧了雀巢在较贫穷国家的营销实践备受争议的历史。]]></description>
+      <guid>https://t.me/hn_summary/86204</guid>
+      <pubDate>Wed, 24 Apr 2024 15:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]政府的就业数据被操纵，以制造[...]的假象</title>
-      <link>https://t.me/hn_summary/86158</link>
-      <description><![CDATA[波将金经济
-政府的就业数据被操纵，以制造经济强劲的假象，私营部门的就业机会消失，联邦支出推动经济增长。通过将人们从劳动力中剔除，失业率被人为地降低了，而问题的真实程度却被掩盖了。消费者物价指数也具有误导性，政府经常改变通货膨胀的计算方式。随着财政危机恶化，政府操纵预计将增加。这种欺骗是美元终局游戏的一个标志，社会信任的崩溃和经济创伤都被掩盖了。问题的真实程度最终会被揭露，从而导致潜在的骚乱。]]></description>
-      <guid>https://t.me/hn_summary/86158</guid>
-      <pubDate>Wed, 24 Apr 2024 08:54:30 GMT</pubDate>
+      <title>[媒体]俄罗斯干扰 GPS 信号一直导致航空公司航班中断，[...]</title>
+      <link>https://t.me/hn_summary/86203</link>
+      <description><![CDATA[俄罗斯涉嫌干扰航空公司航班 GPS 信号&lt; br /&gt;
+俄罗斯干扰 GPS 信号一直导致航空公司航班中断，自去年 8 月以来已有数千架航班受到影响。瑞安航空、维兹航空、英国航空和易捷航空等主要航空公司均报告了此类干扰事件，其中大多数事件发生在俄罗斯附近的东欧地区。尽管英国政府证实发生了涉及英国皇家空军飞机的 GPS 信号干扰事件，但英国民航局却淡化了商用飞机面临的风险。国际航空运输协会和欧盟航空安全局已经讨论了这个问题，欧洲航空安全局报告称袭击事件有所增加。 Ryanair 和 easyJet 等航空公司拥有多个导航系统来缓解 GPS 问题。]]></description>
+      <guid>https://t.me/hn_summary/86203</guid>
+      <pubDate>Wed, 24 Apr 2024 15:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]物理学家正在使用人工智能来解决弦理论的复杂性，神经网络 [...]</title>
-      <link>https://t.me/hn_summary/86157</link>
-      <description><![CDATA[人工智能开始筛选弦理论近乎无限的可能性
-物理学家正在使用人工智能来解决弦理论的复杂性，神经网络被证明是计算卡拉比-丘度量的游戏规则改变者。到 2020 年，为此目的发布了定制包。计算度量的能力使研究人员能够深入研究粒子的质量，这是弦理论的长期目标。由 Challenger Mishra 和 Burt Ovrut 领导的团队在使用神经网络计算粒子质量方面取得了重大进展。尽管挑战依然存在，例如研究更复杂的流形，但人工智能在弦理论中的应用正在开辟新的可能性，并突破了理解宇宙的界限。]]></description>
-      <guid>https://t.me/hn_summary/86157</guid>
-      <pubDate>Wed, 24 Apr 2024 08:53:25 GMT</pubDate>
+      <title>[媒体] 黑客利用防病毒服务长达五年的时间，通过 [...]</title>
+      <link>https://t.me/hn_summary/86202</link>
+      <description><![CDATA[黑客感染通过 HTTP 提供更新的防病毒服务的用户
+黑客利用防病毒服务长达五年的时间，通过执行中间人攻击（用后门替换真正的更新）来感染用户恶意软件。 eScan 服务通过 HTTP 提供更新，因此容易受到此类攻击。该恶意软件 GuptiMiner 使用 DLL 劫持和自定义 DNS 服务器等复杂技术来逃避检测。令人惊讶的是，该恶意软件还安装了一个加密货币挖矿程序。研究人员怀疑其与朝鲜政府支持的组织有联系。此攻击凸显了 eScan 中的主要安全缺陷，包括不使用 HTTPS 进行更新。用户应检查感染情况并考虑改用更安全的防病毒服务。]]></description>
+      <guid>https://t.me/hn_summary/86202</guid>
+      <pubDate>Wed, 24 Apr 2024 15:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这次富有洞察力的对话中，心理学家 Jay Van Bavel 讨论了他对 [...]</title>
-      <link>https://t.me/hn_summary/86156</link>
-      <description><![CDATA[心理学家解释互联网如此破碎的原因&lt; br /&gt;
-在这场富有洞察力的对话中，心理学家 Jay Van Bavel 讨论了他对群体心理学的研究及其如何影响社交媒体参与度。他解释了我们的大脑如何归属于群体，以及这种对归属感的渴望如何导致负面的在线行为。范·巴维尔还揭示了互联网和社交媒体参与的四大法则，强调了消极情绪、极端主义、外群体敌意和道德语言对在线互动的影响。通过他的研究，他揭示了为什么互联网会让人感觉如此破碎，并为数字时代的人类行为提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/86156</guid>
-      <pubDate>Wed, 24 Apr 2024 08:51:20 GMT</pubDate>
+      <title>我们的研究团队开发了 VideoGigaGAN，这是一项尖端技术，旨在提高 [...]</title>
+      <link>https://t.me/hn_summary/86201</link>
+      <description><![CDATA[VideoGigaGAN：迈向细节丰富的视频超分辨率 
+我们的研究团队开发了 VideoGigaGAN，这是一项旨在彻底改变视频超分辨率的尖端技术。通过利用先进的技术和算法，VideoGigaGAN 能够增强低分辨率视频的细节，从而产生极其清晰锐利的图像。 VideoGigaGAN 拥有包括 Yiran Xu、Taesung Park 和 Jia-Bin Huang 在内的专家团队，处于计算机视觉领域创新的前沿。这项突破性技术有可能改变我们观看视频和与视频互动的方式，为内容创作者和消费者等开辟新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/86201</guid>
+      <pubDate>Wed, 24 Apr 2024 14:53:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Podlite v1.0，这是一种注重灵活性和易用性的通用标记语言 [...]</title>
-      <link>https://t.me/hn_summary/86155</link>
-      <description><![CDATA[展示 HN：Podlite：一种用于组织知识的轻量级标记语言
-隆重推出 Podlite v1.0，这是一种注重灵活性和易用性的通用标记语言。 Podlite 支持 Markdown 和自定义块的可扩展性，非常适合文档、教育材料等。最新版本包括可定制块、增强的链接功能和改进的数据处理等功能。已删除已弃用的功能以简化工具集。 Podlite 根据用户反馈不断发展，旨在成为内容创作者的多功能且强大的工具。加入 Github 上的讨论并关注未来的更新。使用 Podlite 快乐记录！]]></description>
-      <guid>https://t.me/hn_summary/86155</guid>
-      <pubDate>Wed, 24 Apr 2024 08:47:14 GMT</pubDate>
+      <title>[媒体] 隆重推出 SimpleChore，一款旨在简化膳食计划的应用程序。</title>
+      <link>https://t.me/hn_summary/86200</link>
+      <description><![CDATA[Show HN：我制作了一个应用程序来简化膳食计划
+隆重推出 SimpleChore，一款旨在简化膳食计划的应用程序。当前版本侧重于膳食安排，并有可能在未来推出新功能。成为早期采用者并在塑造产品方向方面拥有发言权。通过提供的电子邮件分享您的愿望和反馈。加入我们simplechore.xyz，彻底改变您的膳食计划体验。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/86200</guid>
+      <pubDate>Wed, 24 Apr 2024 14:35:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Android 15 将引入增强确认模式，让旁听变得更加困难 [...]</title>
-      <link>https://t.me/hn_summary/86154</link>
-      <description><![CDATA[Android 15 可能会让侧载应用更难获取敏感权限&lt; /a&gt;
-Android 15 将引入增强确认模式，使侧载应用更难访问敏感权限。虽然从外部应用程序商店旁加载应用程序是 Android 上的常见做法，但它也会带来安全风险，因为恶意应用程序可以利用漏洞来访问敏感 API。 Android 15 中的新功能将通过检查白名单来加强安全措施，以确定哪些应用和安装程序不受限制。谷歌此举旨在增强安全性并防止恶意应用程序访问高特权权限。请继续关注有关 Android 15 中增强确认模式的更多详细信息。]]></description>
-      <guid>https://t.me/hn_summary/86154</guid>
-      <pubDate>Wed, 24 Apr 2024 08:29:05 GMT</pubDate>
+      <title>QEMU 9.0 已发布，具有一系列新功能和改进。</title>
+      <link>https://t.me/hn_summary/86199</link>
+      <description><![CDATA[QEMU 9.0 发布
+QEMU 9.0 已发布，具有一系列新功能和改进。一些值得注意的变化包括删除某些功能和不兼容的更改，以及弃用旧的 Arm 板。该更新还引入了新的架构功能、模拟板类型以及对各种 ISA 扩展的支持。此外，还对设备模拟、块设备、图形等进行了改进。该版本还包括对各种错误的修复以及对内存后端和迁移功能的增强。总体而言，QEMU 9.0 为寻求增强虚拟化功能的用户提供了全面的更新。 （根据 76% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86199</guid>
+      <pubDate>Wed, 24 Apr 2024 14:24:41 GMT</pubDate>
     </item>
     <item>
-      <title>Piet 是一种独特的编程语言，其灵感源自抽象艺术，特别是 Piet Mondrian 的 c [...]</title>
-      <link>https://t.me/hn_summary/86153</link>
-      <description><![CDATA[皮特
-Piet 是一种独特的编程语言，其灵感来自于抽象艺术，特别是 Piet Mondrian 的作品。该语言使用颜色来表示命令和数字，每个颜色块代表一个整数值。程序执行涉及根据特定规则遍历彩色块，黑色和白色块影响程序流程。命令由色块之间的转换决定，包括推送、弹出、加法、减法等操作。 Piet 已经拥有了一个小型的程序员社区，并被用于益智竞赛，提供了一种富有创意且具有视觉吸引力的编程方法。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86153</guid>
-      <pubDate>Wed, 24 Apr 2024 08:19:58 GMT</pubDate>
+      <title>[媒体]在这篇博文中，作者讨论了他们对高速以太网交换机的搜索[...]</title>
+      <link>https://t.me/hn_summary/86198</link>
+      <description><![CDATA[系统管理员友好的高速以太网交换
+在这篇博文中，作者讨论了他们对系统管理员经济实惠且用户友好的高速以太网交换机的探索。他们分享了他们对 Mellanox SN2010 交换机的积极体验，强调了其开源驱动程序以及与 Debian 的兼容性。作者提供了在交换机上安装 Debian 的详细指南，包括内核配置和固件升级。他们还提到了开关的独特功能，例如轻松切换气流方向的能力。总的来说，作者提出了一种实用且信息丰富的方法来设置和利用 Mellanox SN2010 交换机进行网络连接。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86198</guid>
+      <pubDate>Wed, 24 Apr 2024 14:20:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]朱尔斯·埃文斯 (Jules Evans) 年轻时曾因迷幻药而遭受创伤，导致一年 [...]</title>
-      <link>https://t.me/hn_summary/86152</link>
-      <description><![CDATA[糟糕的旅行侦探
-朱尔斯·埃文斯（Jules Evans）年轻时曾因服用迷幻药而遭受创伤，导致他多年来一直在与心理健康作斗争。尽管如此，他还是决定在 2017 年再次尝试，结果在服用死藤水后体验到了强烈的置身于虚假现实的感觉。这促使他启动了“具有挑战性的迷幻药项目”来研究糟糕的旅行及其后果。令人惊讶的是，研究发现先前的精神疾病并不能预测持续困难的持续时间或种类。这项研究挑战了人们对致幻剂的普遍乐观态度，并强调了谨慎的必要性。这项发表在 Plos One 上的研究揭示了迷幻药物使用经常被忽视的负面影响。]]></description>
-      <guid>https://t.me/hn_summary/86152</guid>
-      <pubDate>Wed, 24 Apr 2024 08:02:49 GMT</pubDate>
+      <title>[媒体] 隆重推出 FlyCI Wingman，AI 代理可以自动修复失败的构建 [...]</title>
+      <link>https://t.me/hn_summary/86197</link>
+      <description><![CDATA[向 HN：FlyCI Wingman 展示一个可以自动修复失败构建的 AI 代理
+隆重推出 FlyCI Wingman，这是一款 AI 代理，可以自动修复失败的构建，并每月为开发人员节省最多 20 个小时。通过客户访谈，我们发现调试 GitHub 工作流程是开发人员的一项主要耗时任务。 FlyCI Wingman 介入修复构建错误，让开发人员能够专注于创新。该过程很简单：登录 FlyCI 仪表板，使用 FlyCI AI 重新运行失败的工作流程，然后让 FlyCI Wingman 为您修复构建。借助 FlyCI Wingman，开发人员可以节省时间、专注于产品创新、更快地推出产品并保持高质量。加入测试计划，让 FlyCI Wingman 为您服务。]]></description>
+      <guid>https://t.me/hn_summary/86197</guid>
+      <pubDate>Wed, 24 Apr 2024 14:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>用于评估大型语言模型 (LLM) 的基准给我留下了深刻的印象，它 [...]</title>
-      <link>https://t.me/hn_summary/86151</link>
-      <description><![CDATA[询问 HN：LLM 以外的模型的基准&lt; br /&gt;
-用于评估大型语言模型 (LLM) 的基准给我留下了深刻的印象，它激发了我对其他类型模型（如倾向建模和流失预测）的基准的好奇心。是否有既定的最佳实践来比较基于不同数据集的模型性能？我渴望了解更多关于如何有效评估和比较基准数据之外的各种模型的能力。让我们讨论并分享对此主题的见解。]]></description>
-      <guid>https://t.me/hn_summary/86151</guid>
-      <pubDate>Wed, 24 Apr 2024 07:27:33 GMT</pubDate>
+      <title>[媒体]国会已向总统乔·拜登发送了一项可能禁止 TikTok 的法案，但没有 [...]</title>
+      <link>https://t.me/hn_summary/86196</link>
+      <description><![CDATA[国会向拜登发送一项可能在 2024 年大选后禁止 TikTok 的法案
+国会已向总统乔·拜登发送了一项可能禁止 TikTok 的法案，但要等到 2024 年大选之后。该立法规定 TikTok 的母公司字节跳动有九个月的时间出售该应用程序，否则将在美国面临全国范围的禁令。该法案经过修改以延长最后期限，一些民主党人将选举作为一个因素。此前曾试图禁止 TikTok 的前总统唐纳德·特朗普现在将潜在的禁令归咎于拜登。这个问题引发了立法者之间的争论，一些人表达了对创作者、活动人士和年轻选民影响的担忧。围绕 TikTok 及其潜在禁令的争议预计将在即将到来的选举中发挥作用。]]></description>
+      <guid>https://t.me/hn_summary/86196</guid>
+      <pubDate>Wed, 24 Apr 2024 14:03:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
