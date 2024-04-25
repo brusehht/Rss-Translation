@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 09:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:18:32 GMT</lastBuildDate>
+    <item>
+      <title>有人刚刚复制了我的整个代码库。我可以做什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccob3h/somebody_just_copied_my_entire_code_base_what_i/</link>
+      <description><![CDATA[我创建了一个网站来解决我自己的问题。我将其开源，因为如果有人想引用它，就让他们来吧。 它没有任何广告。我创建它并不是为了从中赚钱。  几个月前，有人联系我。他想收购我的网站。在我看来他更像是骗子。他想让我把域名转让给他。我叫他滚蛋。 我对这个家伙做了一些研究。结果他提供了与我的网站相同的功能。这家伙不知道如何编码。他从一些 Github 存储库复制了之前的代码。他只是想让我免费解决他的问题。  这家伙照原样复制了整个代码。刚刚删除了关于页面。 Github 链接是他自己的网站。 人们引用我的代码没有任何问题。但完全出于商业用途的复制是不可接受的。我的 Github 存储库没有任何许可证。 这是我的存储库 https://github.com/indahud/ getupilink 这家伙来自印度。  你们认为我应该做什么？   由   提交 /u/lonew0lfy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccob3h/somebody_just_copied_my_entire_code_base_what_i/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:13:45 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 发布：自动化文档</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[https://github.com/samosvk/Bookworm  您好， 我们为教育工作者创建了一个开源程序，为学生创建课程，例如 Zybooks、Pearson 和 Canvas 的功能。请随时向我们提供反馈或做出贡献。 谢谢！ 我将附上一个 YouTube 教程视频，介绍如何为遇到问题的人下载和运行该程序： https://youtu.be/dulkhEhdI9w  &amp; #32；由   提交/u/Electronic-Let627   reddit.com/r/opensource/comments/1cciwyw/bookworm_project/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cciwyw/bookworm_project/</guid>
       <pubDate>Thu, 25 Apr 2024 04:21:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费人工智能漫画生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cciab5/free_ai_comics_generator/</link>
-      <description><![CDATA[大家好，请查看这个很酷的 Comic Factory 演示，只需点击几下即可生成免费漫画（最多 6 页）。您只需登录 HuggingFace 帐户即可。 https://youtu.be/1wD00djfoXA?si=nxmZCWrPJfpBam9J   由   提交/u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cciab5/free_ai_comics_generator/</guid>
-      <pubDate>Thu, 25 Apr 2024 03:47:31 GMT</pubDate>
     </item>
     <item>
       <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 24 Apr 2024 15:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找与 Azure Avatar 文本转语音类似的解决方案</title>
+      <title>寻找类似于 Azure Avatar 文本转语音的解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</link>
       <description><![CDATA[嘿， 我目前正在寻找与此类似的内容 https://github.com/Sgvkamalakar/Azure-Talking-Avatar Azure Avatar 文本转语音服务实时生成语音和头像运动，因此只要没有文本需要处理，头像就处于空闲状态。 我发现了像 SadTalker 这样的项目，看起来很有前途，但我不知道我如何在我的项目中利用它。 是否有人构建了类似于 Azure Avatar 服务的东西，以便可以嵌入到应用程序中并可以实时输入文本？ &lt; p&gt;谢谢！   由   提交 /u/timowevel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</guid>
