@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 06:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 09:12:57 GMT</lastBuildDate>
+    <item>
+      <title>🚀 发布：自动化文档</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</link>
+      <description><![CDATA[您好 Reddit， 我很高兴向您介绍自动化文档。该工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 - 所有这些都组织成 Markdown 文件以便于查看。 主要功能：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown，以实现简单明了  非常适合任何希望自动化文档编写的人。我计划通过 Ollama 增强其功能以获取更详细的说明，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。    由   提交 /u/tilltmk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</guid>
+      <pubDate>Thu, 25 Apr 2024 08:36:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源世界中的维基百科：您发现了哪些宝石？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cclyzz/wikihopping_in_the_open_source_world_what_gems/</link>
+      <description><![CDATA[我们都知道对开源主题的简单搜索如何会变成几个小时的维基跳转。这可以帮助我们发现新的项目、工具，甚至我们所使用的技术的历史背景。您通过这种方法发现了哪些最迷人或最有价值的开源项目？  分享您的故事，让我们一起探索开源宇宙中隐藏的宝藏！ P.S.：本着充分披露和开源透明精神，我在 XWiki SAS 工作， XWiki 软件的顶级赞助公司。 :)   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cclyzz/wikihopping_in_the_open_source_world_what_gems/</guid>
+      <pubDate>Thu, 25 Apr 2024 07:31:19 GMT</pubDate>
+    </item>
     <item>
       <title>书虫计划</title>
       <link>https://www.reddit.com/r/opensource/comments/1cciwyw/bookworm_project/</link>
@@ -27,9 +41,9 @@
       <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
+      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
-      <description><![CDATA[        提交人    /u/SoftwareCitadel   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
       <pubDate>Wed, 24 Apr 2024 21:58:29 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Android 启动器类似于 Neo Launcher 或 Nova Launcher</title>
+      <title>Android 启动器类似于 Neo 启动器或 Nova 启动器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</link>
       <description><![CDATA[我一直在使用 Nova，直到一家数据收集公司购买了它。然后我切换到 Neo Launcher，但它总是锁定，迫使我锁定和解锁我的手机。自 2022 年以来，它一直没有更新 要求 - 我可以更改应用程序图标 - 它有一个应用程序抽屉 - 没有简单的分析或数据收集和销售 - 没有持久的搜索或 Google 搜索不会被删除或关闭 - 像 Nova 这样的桌面可以让我在上面放置应用程序图标。我不喜欢像 Niagara 这样的极简启动器，无论它多么时尚和快速。   由   提交 /u/BriniaSona   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</guid>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 24 Apr 2024 15:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>寻找类似于 Azure Avatar 文本转语音的解决方案</title>
+      <title>正在寻找与 Azure Avatar 文本转语音类似的解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</link>
       <description><![CDATA[嘿， 我目前正在寻找与此类似的内容 https://github.com/Sgvkamalakar/Azure-Talking-Avatar Azure Avatar 文本转语音服务实时生成语音和头像运动，因此只要没有文本需要处理，头像就处于空闲状态。 我发现了像 SadTalker 这样的项目，看起来很有前途，但我不知道我如何在我的项目中利用它。 是否有人构建了类似于 Azure Avatar 服务的东西，以便可以嵌入到应用程序中并可以实时输入文本？ &lt; p&gt;谢谢！   由   提交 /u/timowevel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbvr8d/looking_for_a_solution_similar_to_azure_avatar/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>[新手指导] 感谢您的建议！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</link>
-      <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时，我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，希望你们做得很好！  让我简单介绍一下我自己 --  我目前是一名即将毕业的学生，​​最近对开源的贡献让我着迷！我非常熟悉 MERN 堆栈，并且想开始为项目做出贡献。我知道像我这样的菜鸟不会解决一些需要花费很多钱的问题，但我至少想开始解决它。  这里的很多人都对开源有丰富的经验，我会问几个问题-- 我该如何解决这个问题？我如何根据我的堆栈找到可以贡献的好项目？ 有时我可能会用我熟悉的语言开始一个项目，但也可能会发生我不了解特定语言的情况正在使用的技术可以说是一些后端数据库或其他东西，我应该如何处理它？ [这是我面临的最大问题，不敢开始] 请帮助我这样的菜鸟！我想编写一些好的代码并提供帮助！ 非常感谢您的时间和建议！非常感谢！ -yeonw   由   提交/u/yeonw  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbszkd/guide_a_beginner_your_advice_is_appreciated/</guid>
       <pubDate>Wed, 24 Apr 2024 08:22:31 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/unquietwiki  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cbh9ee/gobetween_modern_minimalistic_load_balancer_for/</guid>
       <pubDate>Tue, 23 Apr 2024 21:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>java 初学者开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbfnbw/beginner_opensource_project_in_java/</link>
-      <description><![CDATA[大家好，我是开源的新手，我想用 Java 或 java + spring boot 为开源做出贡献，你们有人可以给我推荐一些好的 repo 吗     提交人    /u/Cautious-Sherbert659   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbfnbw/beginner_opensource_project_in_java/</guid>
-      <pubDate>Tue, 23 Apr 2024 20:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Podlite v1.0 发布：一种轻量级、面向块的标记语言，专为组织知识而设计。 （艺术许可2.0）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cbek8g/podlite_v10_released_a_lightweight_blockoriented/</link>
-      <description><![CDATA[什么是 Podlite？ Podlite,一种轻量级的面向块的标记语言，注重灵活性和易用性。   不受任何特定领域、编程语言或概念的束缚，Podlite 作为一种通用标记语言脱颖而出 此外，对 Markdown 标记作为标准块的支持增加了便利性，并允许使用熟悉的语法进行文本格式化 它非常适合文档、教育材料、博客等组织知识。 Podlite 的关键特性之一是它的可扩展性。这允许定义独特的和特定于域的块，并根据项目的要求扩展语言的功能。 Podlite 规范根据 Artistic 许可证 2.0 发布。  Podlite 的主要功能  基于块的结构：Podlite 的核心是“块”的概念。这是任何文档的基本单位。这些块可以具有定义的属性并支持包含丰富的内容。 丰富的链接功能：Podlite 允许将块、术语、定义链接到各种类型的关系，增强文档的互连性和可导航性。 支持公式和 Markdown：无论您需要插入复杂的数学公式还是喜欢 Markdown 的简单性，Podlite 可以满足您的需求。它无缝集成了两者，让您可以灵活地选择编写方式。 可扩展和可定制：使用自定义块和内联代码扩展 Podlite ，定制语言以满足您的特定需求。  Podlite v1.0 发行说明 Podlite v1.0 发行说明 谢谢   由   提交 /u/zagap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cbek8g/podlite_v10_released_a_lightweight_blockoriented/</guid>
-      <pubDate>Tue, 23 Apr 2024 20:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
