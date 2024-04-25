@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:51:20 GMT</lastBuildDate>
     <item>
-      <title>“约束引用”内存安全方法结合了引用计数和单一拥有 [...]</title>
-      <link>https://t.me/hn_summary/86256</link>
-      <description><![CDATA[借用检查、RC、GC 和十一 () 其他内存安全措施
-“约束引用”内存安全方法结合了引用计数和单一所有权，从而使内存管理更加灵活。令人惊讶的是，这种方法被游戏开发者普遍使用，甚至可以实现为像 Gel 这样的整个语言的内存安全模型。它支持借用检查可能无法适应的各种模式，例如侵入式数据结构和回调。然而，运行时检查方面可能并不适合所有情况，因为在发布模式下停止可能是不受欢迎的。当战略性地使用或者可以在发布模式下实施替代策略时，这种方法是最有效的。]]></description>
-      <guid>https://t.me/hn_summary/86256</guid>
-      <pubDate>Wed, 24 Apr 2024 21:11:13 GMT</pubDate>
+      <title>Llama3 是一款功能强大的工具，具有 65k 上下文窗口，可提供出色的回忆能力。</title>
+      <link>https://t.me/hn_summary/86304</link>
+      <description><![CDATA[Llama3 – 65k 上下文窗口，具有很好的记忆力
+Llama3 是一款功能强大的工具，具有 65k 上下文窗口，可提供出色的回忆能力。凭借其先进的功能，它可以为用户提供有价值的见解和信息。然而，有些人可能会发现该工具的复杂性存在争议，因为它需要对编码和数据分析有深入的了解。尽管如此，Llama3 仍因其处理大量数据并提供准确结果的独特能力而脱颖而出。探索 Llama3 的可能性并释放其为您的项目带来的潜力。 #Llama3 #数据分析 #Insights]]></description>
+      <guid>https://t.me/hn_summary/86304</guid>
+      <pubDate>Thu, 25 Apr 2024 00:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>Zap Energy 在聚变技术方面取得了突破性的里程碑，达到了电子TEM [...]</title>
-      <link>https://t.me/hn_summary/86255</link>
-      <description><![CDATA[Zap Energy 在紧凑型聚变装置中实现 37M 度的温度
-Zap Energy 在聚变技术领域取得了突破性的里程碑，在其紧凑型聚变 Z 箍缩实验 (FuZE) 中达到了超过 3700 万摄氏度的电子温度。一篇新的研究论文详细介绍了这一成就，展示了更实用且更具成本效益的聚变能源系统的潜力。与传统的聚变方法不同，Zap 的技术不需要昂贵的超导磁体或强大的激光器，使其更容易获得和高效。结果已由外部合作者使用 Thomson 散射进行了验证，凸显了 Zap 剪切流稳定 Z 箍缩融合技术的创新和前景。这一突破为能够生产丰富的无碳能源的商业产品铺平了道路。]]></description>
-      <guid>https://t.me/hn_summary/86255</guid>
-      <pubDate>Wed, 24 Apr 2024 21:07:08 GMT</pubDate>
+      <title>[媒体] Windows 11 用户请注意 - 最新更新包含应用程序建议形式的广告软件 [...]</title>
+      <link>https://t.me/hn_summary/86303</link>
+      <description><![CDATA[Windows 11 现在带有自己的广告软件
+Windows 11 用户请注意 - 最新更新包括在“开始”菜单中以应用程序建议形式出现的广告软件。虽然可以在设置中禁用广告，但这是微软的一个有争议的举动，特别是对于那些购买零售版操作系统的人来说。在没有来自 Insider 计划的适当用户反馈的情况下，此“功能”的快速实施令人惊讶，并且可能会让客户感到沮丧。此更新可能会让您回想起从 OEM Windows 安装中删除过时软件的情景，但至少有一种方法可以选择退出广告。]]></description>
+      <guid>https://t.me/hn_summary/86303</guid>
+      <pubDate>Thu, 25 Apr 2024 00:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>在飞行学校，经常会出现飞机能否着陆的问题，许多博阿 [...]</title>
-      <link>https://t.me/hn_summary/86254</link>
-      <description><![CDATA[如何在紧急情况下降落飞机（分步)
-在飞行学校，经常会出现飞机能否降落的问题，许多人都拥有多年的飞行模拟器经验。然而，历史表明这可能还不够，因为模拟器扭曲了着陆的关键方面。尽管如此，许多人还是在第一次尝试中成功着陆了飞机。在紧急情况下，了解基本控制和机械原理是关键。保持冷静，掌控一切，并按照分步说明安全着陆轻型飞机。请记住，小动作至关重要，耐心也很关键。通过正确的方法和指导，即使是新手也可以在紧急情况下成功降落飞机。]]></description>
-      <guid>https://t.me/hn_summary/86254</guid>
-      <pubDate>Wed, 24 Apr 2024 21:06:04 GMT</pubDate>
+      <title>[媒体]梅赛德斯推出了 2025 款电动 G 级车，即“采用 EQ 技术的 G580”，其特点是 [...]</title>
+      <link>https://t.me/hn_summary/86302</link>
+      <description><![CDATA[梅赛德斯推出 2025 款电动 G 级车，配备 4 个电机和油箱转向
+梅赛德斯推出了 2025 款电动 G 级车，即“采用 EQ 技术的 G580”，配备 4 个独立电动机并能够进行油箱转弯。这款越野车拥有 579 马力、879 磅英尺的扭矩和令人印象深刻的越野能力，包括 100% 爬坡度和 35° 横向坡度稳定性。 G580 还提供透明引擎盖功能、具有独特风格的 EDITION ONE 装饰以及用于急转弯的独特 G 转向功能。在保持经典 G 级设计的同时，梅赛德斯强调了该车的电动功能和性能，将其定位为那些希望以电动形式获得标志性 G 级体验的人士的旗舰车型。]]></description>
+      <guid>https://t.me/hn_summary/86302</guid>
+      <pubDate>Thu, 25 Apr 2024 00:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Windows 使用反斜杠作为路径分隔符？</title>
-      <link>https://t.me/hn_summary/86253</link>
-      <description><![CDATA[为什么 Windows 使用反斜杠作为路径分隔符？&lt; br /&gt;
-有没有想过为什么 Windows 使用反斜杠作为路径分隔符，而世界其他地方则使用正斜杠？答案就在于 DOS 及其前身的历史。 Microsoft 希望使用正斜杠，但 IBM 坚持使用反斜杠以保持与 DOS 1.x 的兼容性。令人惊讶的是，DOS 中正斜杠的使用可以追溯到 DEC TOPS-10，这是早期微软员工使用的分时系统。这一启示揭示了 DOS 约定的起源以及 Windows 至今仍使用反斜杠的原因。争议在于决策过程以及历史制度对现代技术的影响。]]></description>
-      <guid>https://t.me/hn_summary/86253</guid>
-      <pubDate>Wed, 24 Apr 2024 21:04:29 GMT</pubDate>
+      <title>Apple 发布了 OpenELM，这是一种突破性的举措，这是一种尖端的开放语言模型 [...]</title>
+      <link>https://t.me/hn_summary/86301</link>
+      <description><![CDATA[Apple 发布在设备上运行的开源 AI 模型
+Apple 发布了 OpenELM，这是一种突破性的举措，这是一种优先考虑效率和准确性的尖端开放语言模型。与以前的模型不同，OpenELM 提供了完整的训练和评估框架，包括训练日志和多个检查点。这种透明度使研究人员能够调查风险和偏见，同时也吸引顶尖人才加入苹果。虽然这些人工智能功能尚未集成到苹果设备中，但有传言称 iOS 18 将包含设备上的大语言模型以增强隐私性。此次发布标志着自然语言人工智能领域朝着更快的进展和更值得信赖的结果迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/86301</guid>
+      <pubDate>Thu, 25 Apr 2024 00:20:00 GMT</pubDate>
     </item>
     <item>
-      <title>令人兴奋的消息！</title>
-      <link>https://t.me/hn_summary/86252</link>
-      <description><![CDATA[世界上第一台 Nvidia DGX H200，手工交付给 OpenAI&lt; /a&gt;
-令人兴奋的消息！全球首台 Nvidia DGX H200 已手工交付给 OpenAI。这项尖端技术将彻底改变人工智能的研究和开发，突破该领域的可能性界限。请继续关注有关如何利用这一强大工具来推动人工智能创新和进步的最新动态。 #NvidiaDGXH200 #OpenAI #AIRevolution。]]></description>
-      <guid>https://t.me/hn_summary/86252</guid>
-      <pubDate>Wed, 24 Apr 2024 20:54:14 GMT</pubDate>
+      <title>[媒体]阿根廷总统哈维尔·米莱宣布该国首次季度预算超额 [...]</title>
+      <link>https://t.me/hn_summary/86300</link>
+      <description><![CDATA[阿根廷庆祝 16 年来首次季度预算盈余&lt; br /&gt;
+阿根廷总统哈维尔·米莱宣布该国16年来首次出现季度预算盈余，标志着阿根廷追求繁荣的一个重要里程碑。这一消息引发了投资者乐观情绪的高涨，阿根廷债券价值上涨。虽然 Milei 的严格措施产生了积极的财政成果，但人们对该战略的可持续性提出了担忧，特别是通货膨胀对公共部门工资和养老金的影响。随着米莱继续实施大胆的经济改革，包括货币贬值和补贴削减，维持势头和确保长期财政稳定的压力越来越大。 （来自彭博社的输入）]]></description>
+      <guid>https://t.me/hn_summary/86300</guid>
+      <pubDate>Thu, 25 Apr 2024 00:14:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Bluesky 是一个去中心化的社交网络，已迅速发展到 550 万用户 [...]</title>
-      <link>https://t.me/hn_summary/86251</link>
-      <description><![CDATA[构建 Bluesky：分布式社交网络
-Bluesky 是一个去中心化的社交网络，在短短两年内已迅速增长到 550 万用户。与其他主流社交网络不同，Bluesky 允许任何人运行自己的服务器，确保用户真正拥有自己的数据。 Bluesky 的几乎所有内容都是开源的，一小群工程师实现了令人印象深刻的增长和创新功能。该团队面临扩展和基础设施方面的挑战，但他们灵活的设计选择和对持续进步的承诺推动了他们的成功。 Bluesky 构建去中心化社交网络的独特方法使其有别于其他平台，使其成为一个令人着迷的值得探索的工程项目。 （根据故事文本的 37% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86251</guid>
-      <pubDate>Wed, 24 Apr 2024 20:50:40 GMT</pubDate>
+      <title>[媒体] 在巴黎，自行车使用量已超过汽车使用量，两轮交通占比达 [...]</title>
+      <link>https://t.me/hn_summary/86299</link>
+      <description><![CDATA[巴黎的自行车使用量现已超过汽车使用量
+巴黎的自行车使用量已超过汽车使用量，两轮交通工具占城市内出行量的 11.2%，而汽车仅占 4.3%。地方当局推动的自行车革命已导致该市建立了 1,000 多公里的自行车基础设施。尽管“自行车计划”的实施有所延迟，但进展显而易见，高峰时段使用自行车道的人数翻了一番。目标是创建一个沿着最繁忙的地铁线路的自行车道网络，为通勤者提供快速安全的替代方案。该市还致力于增加自行车停车位的数量，以适应​​日益增长的趋势。]]></description>
+      <guid>https://t.me/hn_summary/86299</guid>
+      <pubDate>Wed, 24 Apr 2024 23:58:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]IBM 巴西员工起诉这家科技巨头，要求其被归类为科技工人 [...]</title>
-      <link>https://t.me/hn_summary/86250</link>
-      <description><![CDATA[为什么巴西的 IBM 员工起诉被归类为技术工人&lt; /a&gt;
-巴西的 IBM 员工正在起诉这家科技巨头，要求将其归类为技术员工而不是销售员工，这将为他们带来更好的福利。这些诉讼是由米纳斯吉拉斯州的胜诉引发的，诉讼称 IBM 的主要活动是软件开发，而不是销售。工会认为IBM注册为销售公司是为了获得商业优势。 IBM 否认了这些说法，并在巴西多个州面临法律诉讼。这一结果可能会给公司带来重大的财务和法律后果。尽管IBM利润丰厚，工会仍决心在全国范围内推动重新分类。]]></description>
-      <guid>https://t.me/hn_summary/86250</guid>
-      <pubDate>Wed, 24 Apr 2024 20:46:35 GMT</pubDate>
+      <title>[媒体]谷歌在办公室抗议这家科技巨头的[...]后解雇了更多员工</title>
+      <link>https://t.me/hn_summary/86298</link>
+      <description><![CDATA[谷歌因办公室抗议解雇更多员工
+谷歌因办公室抗议该科技巨头与以色列军方签订的合同而解雇了更多员工。目前共有 50 名员工被解雇，其中一些人声称自己是未参与的旁观者。抗议活动包括在纽约、西雅图和加利福尼亚州桑尼维尔的谷歌办公室举行的静坐活动。谷歌首席执行官 Sundar Pichai 明确表示，工作场所不会容忍此类扰乱。抗议者要求谷歌切断与以色列的联系并取消与以色列政府签订的合同“光环计划”。谷歌否认“光环计划”被用于种族灭绝手段。]]></description>
+      <guid>https://t.me/hn_summary/86298</guid>
+      <pubDate>Wed, 24 Apr 2024 23:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今天，我们很高兴地宣布 HashiCorp 正在与 IBM 联手加速 [...]</title>
-      <link>https://t.me/hn_summary/86249</link>
-      <description><![CDATA[HashiCorp 携手 IBM 加速多云自动化&lt; br /&gt;
-今天，我们很高兴地宣布 HashiCorp 正在与 IBM 联手加速我们的多云自动化使命。自 2012 年成立以来，我们一直致力于为全球从业者实现多云世界中的云自动化。借助 IBM 的支持，我们可以接触到更广泛的受众并持续创新。我们的产品受到数百万人的信赖，并为连接自动驾驶汽车、支持游戏并确保每天数万亿美元交易安全的电力应用程序提供支持。这种伙伴关系将使我们能够扩大我们的影响力和影响力，同时继续坚定地致力于我们的用户和合作伙伴社区。加入我们，踏上这段激动人心的旅程！]]></description>
-      <guid>https://t.me/hn_summary/86249</guid>
-      <pubDate>Wed, 24 Apr 2024 20:41:00 GMT</pubDate>
+      <title>[媒体] 无薪带回家面试作业是否道德？</title>
+      <link>https://t.me/hn_summary/86297</link>
+      <description><![CDATA[无薪面试作业是否符合道德规范？&lt; br /&gt;
+在关于无薪带回家面试作业是否道德的争论中，专家斯蒂芬妮·希思 (Stephanie Heath) 和达纳·亨德利 (Dana Hundley) 发表了自己的意见。虽然作业对于衡量技能很有价值，但它们也可以无偿地利用候选人的时间和技能。边缘化社区在完成这些任务时面临着额外的挑战。求职者应该评估完成任务的好处，并准备好拒绝完成任务的剥削。带回家作业的替代方案包括基于现场技能的练习和具体的技术问题。与雇主进行清晰的沟通是巧妙拒绝任务的关键。招聘人员的反馈对于改进面试过程至关重要。]]></description>
+      <guid>https://t.me/hn_summary/86297</guid>
+      <pubDate>Wed, 24 Apr 2024 23:56:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国载人航天工程机构CMSEO在其发展道路上正在取得重大进展 [...]</title>
-      <link>https://t.me/hn_summary/86248</link>
-      <description><![CDATA[航天官员表示，中国有望在 2030 年实现载人登月&lt; /a&gt;
-中国载人航天工程局正在朝着2030年将宇航员送上月球的目标取得重大进展。包括火箭、航天器和月球着陆器在内的关键飞行产品的开发正在顺利进行。该任务将涉及两名宇航员在返回地球之前在月球表面停留六个小时。这个雄心勃勃的项目是中国建立机器人并最终有人居住的月球基地的更广泛计划的一部分。相比之下，美国的阿耳忒弥斯 3 号载人重返月球任务却面临延误。 CMSEO新闻发布会还公布了即将执行的神舟十八号天宫空间站任务的乘员组名单。]]></description>
-      <guid>https://t.me/hn_summary/86248</guid>
-      <pubDate>Wed, 24 Apr 2024 20:32:54 GMT</pubDate>
+      <title>[媒体] Nginx 1.26 已发布，具有实验性 HTTP/3 支持。</title>
+      <link>https://t.me/hn_summary/86296</link>
+      <description><![CDATA[Nginx 1.26 发布，提供实验性 HTTP/3 支持&lt; br /&gt;
+Nginx 1.26 已发布，具有实验性 HTTP/3 支持。此更新包括对 Nginx 1.25 分支的改进，在每台服务器上提供 HTTP/2 支持，并在流模块中提供虚拟服务器支持。 HTTP/3 支持仍处于实验阶段，需要具有 QUIC 支持的 SSL 库。 Nginx 仍然是 Web 服务器、负载均衡器、反向代理和 HTTP 缓存的多功能选项。对于那些有兴趣尝试最新版本的人，可以在 Nginx 上获取下载和更多信息.org.]]></description>
+      <guid>https://t.me/hn_summary/86296</guid>
+      <pubDate>Wed, 24 Apr 2024 23:55:03 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 宣布收购 HashiCorp, Inc.</title>
-      <link>https://t.me/hn_summary/86247</link>
-      <description><![CDATA[IBM 将以 64 亿美元收购 HashiCorp, Inc&lt; br /&gt;
-IBM 宣布以 64 亿美元收购 HashiCorp, Inc.，旨在创建一个全面的混合云平台，以应对跨公共云和私有云管理基础设施和应用程序的挑战。这一战略举措预计将推动 IBM 在红帽、数据安全和 IT 自动化等关键增长领域的协同效应。 HashiCorp 的产品套件（包括 Terraform 和 Vault）将增强 IBM 的产品并为客户提供多云环境的自动化功能。该交易预计将在第一年增加调整后的 EBITDA，并在第二年增加自由现金流。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86247</guid>
-      <pubDate>Wed, 24 Apr 2024 20:31:20 GMT</pubDate>
+      <title>[媒体] Steam 上 roguelike 牌组构建器的突然激增让许多人想知道为什么会出现这种情况 [...]</title>
+      <link>https://t.me/hn_summary/86295</link>
+      <description><![CDATA[为什么 Steam 上突然有 861 个 Roguelike 牌组构建器
+Steam 上 roguelike 牌组构建游戏的突然激增让许多人想知道为什么这种类型会如此流行。有 861 款游戏被贴上“roguelike 牌组构建游戏”的标签，市场已经饱和，导致人们抱怨现在每款独立游戏要么是舒适的农场模拟游戏，要么是牌组构建游戏。 《杀戮尖塔》等游戏的成功激发了开发者创造自己独特的游戏类型，其中一些游戏以令人惊讶的方式结合了卡牌游戏和类 Rogue 游戏的元素。 《杀戮尖塔》从苦苦寻找玩家到销量超过150万份的故事，证明了独立游戏行业口碑营销的力量。]]></description>
+      <guid>https://t.me/hn_summary/86295</guid>
+      <pubDate>Wed, 24 Apr 2024 23:39:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
