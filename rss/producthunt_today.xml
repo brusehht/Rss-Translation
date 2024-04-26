@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:15:05 GMT</lastBuildDate>
     <item>
       <title>深渊漫游者</title>
       <link>https://www.producthunt.com/posts/deepwander</link>
@@ -37,12 +37,12 @@
       <title>表情符号</title>
       <link>https://www.producthunt.com/posts/emojitell</link>
       <description><![CDATA[
-            将文本翻译成有趣且富有表现力的表情符号组合
-          
+将文本翻译成有趣且富有表现力的表情符号组合
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/emojitell</guid>
       <pubDate>Fri, 26 Apr 2024 02:05:53 GMT</pubDate>
@@ -76,10 +76,24 @@
       <pubDate>Thu, 25 Apr 2024 23:07:46 GMT</pubDate>
     </item>
     <item>
+      <title>是否人工智能</title>
+      <link>https://www.producthunt.com/posts/ai-or-not</link>
+      <description><![CDATA[
+            免费检测 AI 生成的图像、音频和 KYC 文档。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-or-not</guid>
+      <pubDate>Thu, 25 Apr 2024 15:47:40 GMT</pubDate>
+    </item>
+    <item>
       <title>宝石</title>
       <link>https://www.producthunt.com/posts/gems-3</link>
       <description><![CDATA[
-            从您的所有知识中获取现成可用的答案
+            从您所有的知识中获取现成可用的答案
           
 
 讨论&lt; /a&gt;
@@ -93,7 +107,7 @@
       <title>习惯</title>
       <link>https://www.producthunt.com/posts/habitie</link>
       <description><![CDATA[
-            一款旨在帮助用户养成习惯的 iOS 应用
+            一款旨在帮助用户养成习惯的iOS应用程序
           
 
 讨论
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/highlights-fa915501-9da2-49ca-8d10-e6391f1c7c4c</guid>
       <pubDate>Wed, 28 Feb 2024 17:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>取消身体</title>
-      <link>https://www.producthunt.com/posts/unbody</link>
-      <description><![CDATA[
-一行代码即可实现自定义 AI 处理自定义数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/unbody</guid>
-      <pubDate>Mon, 12 Feb 2024 20:11:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
