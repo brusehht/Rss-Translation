@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:20 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT for Svelte/Tailwind</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdnaob/chatgpt_for_sveltetailwind/</link>
+      <description><![CDATA[我是一名后端开发人员，很多时候需要快速构建一个小前端来帮助我试验我的 API。使用 ChatGPT 4，我设法快速构建了一个小型单页前端，其中包含一个下拉菜单（从我的一个后端 API 填充）、一个用于设置浮点值的滑块、一个文本输入框，最后当单击文本框附近的搜索按钮时，调用我的最后一个 API 来填充结果区域。 两个问题： 您将使用哪种类型的“组件”来显示 10 个元素的结果，其中每个元素由标题、3-4 行文本、相似度指标和结束的 2 行调试文本组成？ 虽然 ChatGPT 对设置我的 Svelte/Tailwind 项目很有帮助，但对于我的代码来说，“外观”真的很丑。有什么技巧吗？ 谢谢    提交人    /u/olddoglearnsnewtrick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdnaob/chatgpt_for_sveltetailwind/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈产品的项目定价</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdls5h/project_pricing_for_full_stack_product/</link>
+      <description><![CDATA[我正在与一位客户合作，他想要一个具有条纹支付集成和登录按钮/身份验证（用于导师和管理员）的网站，其中有两个附加到该网站的门户网站，一个用于管理员，另一个用于导师 - 他们可以在其中更新他们的日程安排和信息。拥有他们填写的时间表的链接，并在两人之间传递并互相留言。  门户网站有多个选项卡，用于预订会议、填写导师空闲时间、导师时间表和信息。课程更新供学生填写。 他们还想要 QA 测试。  你会为此收取多少费用？ 你会如何处理“预算有回旋余地吗？”这个话题 我是独自一人从事这个项目，因为这并不超出我的能力范围，但在定价和策略性对话方面存在混乱。  请不要给出“他们负担不起你，然后继续前进”之类的答案。我知道这是一个选择，&amp;如果涉及到这一点，我会选择一个。 我正在尝试探索其他途径&amp;练习我的推销技巧提高我的技术。    由   提交 /u/Grapefruit6543   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdls5h/project_pricing_for_full_stack_product/</guid>
+      <pubDate>Fri, 26 Apr 2024 13:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的设计师作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdlgsb/roast_my_designer_portfolio/</link>
+      <description><![CDATA[我为此投入了大量工作，希望它能为任何愿意与我合作的潜在客户或机构建立信任。 https://josephsalazar.dev/  &amp;# 32；由   提交 /u/Kelerya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdlgsb/roast_my_designer_portfolio/</guid>
+      <pubDate>Fri, 26 Apr 2024 13:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能做出这个布局？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdk150/how_can_i_make_this_layout/</link>
+      <description><![CDATA[      蓝色框是不同高度的图像。他们以这种方式安排自己   由   提交 /u/jiggling-dick   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdk150/how_can_i_make_this_layout/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:24:05 GMT</pubDate>
+    </item>
     <item>
       <title>允许源代码下载的在线网站构建器</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdjbeq/online_website_builder_that_allows_source_code/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[.com 例如，brandname 被 horder 占用，大多数其他 tld 例如，brandname 则不是。  “品牌”是一家拥有不同部门的公司（例如品牌教育和品牌财产等） 当地人认为最好选择：  brandname.divisionname1、brandname.divisionname2 等 直到能够收购brandname.com，然后可能将部门名称移至brandname.com 下的子域，或者简单地保留 .divisionnames 作为网站的 TLD，而 .com 作为也许是某种目录模板.. 然后沿着这个思路，就有了获取 .contact、.social、.email 等并将它们用作所有部门的 TLD 的想法，例如： divisionname1.brandname.contact Divisionname2.brandname.contact 等其他顶级域名。 其中brandname.contact 和brandname.social 也可以是各个部门的目录页面。  然后显然，与其他可能性一样，可以将这些功能作为子域或路径，例如： contact.brandname.divisionname 或简单地brandname.divisionname/contact 寻找通往对于这种情况，下去吧..有很多选择。  我的一些考虑： 顶级域名的所有权和行使规模，与子域名相比，可用顶级域名的供应也有限..从搜索引擎优化的角度来看，品牌权威和真实性，这样的例子不胜枚举。 。  就可扩展性的最佳实践而言，这里的想法是什么？在您看来什么最有意义？ 最终在 .com（或集中式顶级域名获取）下有更多的可能性开放， 你觉得怎么样？   由   提交/u/shootermcgaverson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdhjvm/tlds_subdomains_paths/</guid>
       <pubDate>Fri, 26 Apr 2024 10:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望人们对开放图谱协议有意见，这值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdh7s6/would_love_peoples_opinion_on_open_graph_protocol/</link>
-      <description><![CDATA[寻找可自定义用户页面的选项，然后可以通过唯一的 URL 与其他人共享，并希望考虑开放图协议。  您对实际协议的体验如何？在使用该协议后您是否需要在各自的网站上进行任何有趣的吸收？  您有什么建议吗？    由   提交 /u/kaye4kinky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdh7s6/would_love_peoples_opinion_on_open_graph_protocol/</guid>
-      <pubDate>Fri, 26 Apr 2024 09:41:55 GMT</pubDate>
     </item>
     <item>
       <title>Popover API 登陆 Baseline</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好， 我已通过 Hostgator 购买了域名和网络托管，但出于我的网站要求和用例，我的开发人员已使用 Next.js 构建了我的网站。 有人知道如何将其移动到我的实时网站/服务器上吗？    ;由   提交/u/honey_trees  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdaplk/how_to_migrate_nextjs_website_onto_live_server/</guid>
       <pubDate>Fri, 26 Apr 2024 02:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS动画帮助：无限滚动循环背景总是在动画时间结束时跳过</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cda2t1/css_animation_help_infinite_scroll_loop/</link>
-      <description><![CDATA[大家好， 所以我正在尝试制作 CSS 动画循环，并使用背景图像来滚动和循环。由于某种原因，无论我尝试什么，最后似乎总是有这种奇怪的跳跃。 ​ 我尝试过调整封面、图像背景大小，位置、填充并将关键帧设置为 100% 和图像的实际 px 大小。根据我看到的每个示例，这应该可行，但由于某种原因它不会。 pen: https: //codepen.io/m-falcon/full/eYoXzBg 一些代码 ​  ;  &lt;div class=&quot;stars&quot;&gt;&lt;/div&gt; ; &lt;人物 id=“地球”&gt; &lt;span class=&quot;shadow&quot;&gt;&lt;/span&gt; &lt;/图&gt;   &lt;/主要&gt;  css ​ body { font-family: system-ui;背景：#f06d06；白颜色;文本对齐：居中；显示：柔性；弯曲方向：列；高度：100vh；调整内容：开始；对齐项目：居中；保证金：0；填充：0； } 主要{ 背景颜色：黑色；宽度：100vw；高度：100vh；溢出：隐藏；显示：柔性；调整内容：居中； /* @-moz-keyframes move-map { 0% { 背景位置：-100% 0; } 100% { 背景位置：-0 -0; } } @-webkit-keyframes move-map { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } @-o-keyframes move-map { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } @-ms-keyframes move-map { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } */ @keyframes move-map { 0% { 背景位置：左 0; } 100% { 背景位置：1920px 0; } } } @keyframes 旋转 { 0% { 变换：旋转（0deg）; } 25% { 变换：旋转（90 度）； } 50% { 变换：旋转（180 度）； } 75% { 变换：旋转（270 度）； } 100% { 变换：旋转（360 度）； } } #space{ 背景颜色：黑色；宽度：95%；身高：95%；边框：红色实心1px；不透明度：1；溢出：隐藏；调整内容：居中；对齐项目：居中； } #earthWrapper{ 最大宽度：300px;最大高度：300px；变换风格：保留 3d；高度：100%；宽度：100%； z 索引：4；边框：纯绿色 5px；边界半径：50%；背景：径向渐变（圆圈为 50% 120%，#d9dfff 5%，#009dc4，#0a0a0a 90%，#d9dfff 95%）； } #earth{ 变换样式：preserve-3d; -webkit-transform-style：保留3d；显示：块；宽度：100%；高度：100%；保证金：0；边界半径：50%；位置：相对；背景：url（&#39;https://res.cloudinary.com/dhcl0fsay/image/upload/v1713678258/gif-to-css-codepen/l2knvwqfglyhry0ljjwa.png&#39;）重复x；背景大小：自动 100%； -webkit-animation：move-map 5s无限线性； -moz-animation：移动地图 5s 无限线性； -o-animation: move-map 5s无限线性； -ms-animation: move-map 5s无限线性；动画：move-map 5s无限线性法线向前； z 索引：5；不透明度：1； } #space { 位置：绝对； } .stars{ 背景：径向渐变（中心椭圆，#f7f28f 0%，#e61c0e 20%，透明 30%）;背景重复：空格；背景位置：中心；背景不透明度：0.5；背景大小：10px 10px；宽度：100%；高度：100%； z 索引：0；位置：绝对； }  ​   由   提交/u/d0rf47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cda2t1/css_animation_help_infinite_scroll_loop/</guid>
-      <pubDate>Fri, 26 Apr 2024 02:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为网络开发人员的压力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cd9nx5/stress_as_web_developers/</link>
-      <description><![CDATA[我正在为我的心理学课程写一篇关于压力和技术专业人员的大学论文 如果您愿意接听 5 分钟电话或想要私下给我答案，请随时给我留言 但如果没有，我希望你们中的任何一个人可以回答以下一些问题。 这将对我有很大帮助： 1) 您的压力水平目前让您感到沮丧（或烦恼）的是什么？ 2) 过去您被告知要做什么，但没有奏效？ 3) 如果您可以与治疗师一起解决 1 个压力问题，那会是什么？ 4) 您在处理压力时经历过的 1 件事是什么，您希望更多人谈论/获得更多支持 5) 如果您可以减轻压力，那会是什么样子？ 6)您的生活中有哪些方法可以减轻压力？ 7) 您觉得压力水平中最让您恼火的是什么 其他问题（如果您够勇敢的话）： 是否有关于压力的故事让您再也不想经历 您觉得压力和工作中哪些方面让您恼火？ 如果您可以选择 1 件关于压力的事情并 100% 控制它，您会选择什么 如果您去看心理医生，并且免费接到电话，您会问什么问题 您控制压力的目标是什么？ 如果实现了这个目标，您会有什么改变 非常感谢！！ 如果您有压力，也许您的答案会帮助其他同样有压力的工程师    提交人    /u/lizleads   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cd9nx5/stress_as_web_developers/</guid>
-      <pubDate>Fri, 26 Apr 2024 02:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我能为网络开发人员做点好事吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cd9b79/can_i_do_something_good_for_people_in_web/</link>
-      <description><![CDATA[到目前为止，我在大学里一直在学习心理学，寻求从事咨询或类似的工作来直接帮助人们。我发现，尽管符合我的价值观并且让我感兴趣，但我并不总是在这个领域感到个人满足。我总是发现自己渴望做一些更有创意和个性的事情。我真的很想在一个有更大发展空间和灵活性的领域工作。我知道 webdev 并不是一个完美的梦想领域，我总是可以创造自己的想法，但我想知道它是否更接近我想要的。  webdev 是否​​有机会做出改变，或者至少为有这种改变的公司工作？特别是。在心理健康或类似领域。   由   提交 /u/_marimbae   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cd9b79/can_i_do_something_good_for_people_in_web/</guid>
-      <pubDate>Fri, 26 Apr 2024 01:51:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
