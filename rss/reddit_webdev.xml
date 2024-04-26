@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 03:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 06:17:32 GMT</lastBuildDate>
+    <item>
+      <title>建筑逻辑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cde3vc/logic_of_building/</link>
+      <description><![CDATA[只是扩展了后端的表面，所以我希望收到一些反馈，特别是在构建应用程序的逻辑、架构、我什至不确定这是一种以这种方式构建它的好方法.. https:// github.com/Mediteran2910/rock-paper-scissors   由   提交/u/decentralized29  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cde3vc/logic_of_building/</guid>
+      <pubDate>Fri, 26 Apr 2024 06:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端语言选择？使困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdc89b/backend_language_selection_confused/</link>
+      <description><![CDATA[Python 用于后端？请赐教 我已经完成了我的前端网络开发部分。我对自己的技能很有信心，想转到后端部门。但问题是，大多数有影响力的人都在后端推广 MERN 堆栈，因为前端和后端都使用相同的语言，因此很容易推广。 在研究时，我发现了 Java，但它一直在自2017年以来持续下降，每年下降1%。像 Golang 和 Python 这样的语言正在兴起。 在 Reddit 上的在线辩论主题中，人们经常提到 Python 不具有可扩展性和安全性，而且速度非常慢。这是真的吗？ 而且，在线 Golang 课程并不多。   由   提交 /u/Popular_Release4922   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdc89b/backend_language_selection_confused/</guid>
+      <pubDate>Fri, 26 Apr 2024 04:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>该网站使用什么技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cdb09w/what_technology_is_this_website_using/</link>
+      <description><![CDATA[你能从源代码中看出吗？ view-source:https://my.graydient.ai/concepts   由   提交 /u/FortunateBeard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cdb09w/what_technology_is_this_website_using/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>如何将 Next.js 网站迁移到实时服务器上？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdaplk/how_to_migrate_nextjs_website_onto_live_server/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>CSS动画帮助：无限滚动循环背景总是在动画时间结束时跳过</title>
       <link>https://www.reddit.com/r/webdev/comments/1cda2t1/css_animation_help_infinite_scroll_loop/</link>
-      <description><![CDATA[大家好， 所以我正在尝试制作 CSS 动画循环，并使用背景图像来滚动和循环。由于某种原因，无论我尝试什么，最后似乎总是有这种奇怪的跳跃。 ​ 我尝试过调整封面、图像背景大小，位置、填充并将关键帧设置为 100% 和图像的实际 px 大小。根据我看到的每个示例，这应该可行，但由于某种原因它不会。 pen: https: //codepen.io/m-falcon/full/eYoXzBg 一些代码 ​  ;  &lt;div class=&quot;stars&quot;&gt;&lt;/div&gt; ; &lt;人物 id=“地球”&gt; &lt;span class=&quot;shadow&quot;&gt;&lt;/span&gt; &lt;/图&gt;   &lt;/主要&gt;  css ​ body { font-family: system-ui;背景：#f06d06；白颜色;文本对齐：居中；显示：柔性；弯曲方向：列；高度：100vh；调整内容：开始；对齐项目：居中；保证金：0；填充：0； } 主要{ 背景颜色：黑色；宽度：100vw；高度：100vh；溢出：隐藏；显示：柔性；调整内容：居中； /* @-moz-keyframes move-map { 0% { 背景位置：-100% 0; } 100% { 背景位置：-0 -0; } } @-webkit-keyframes move-map { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } @-o-keyframes move-map { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } @-ms-keyframes move-map { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } */ @keyframes move-map { 0% { 背景位置：左 0; } 100% { 背景位置：1920px 0; } } } @keyframes 旋转 { 0% { 变换：旋转（0deg）; } 25% { 变换：旋转（90 度）； } 50% { 变换：旋转（180 度）； } 75% { 变换：旋转（270 度）； } 100% { 变换：旋转（360 度）； } } #space{ 背景颜色：黑色；宽度：95%；身高：95%；边框：红色实心1px；不透明度：1；溢出：隐藏；调整内容：居中；对齐项目：居中； } #earthWrapper{ 最大宽度：300px;最大高度：300px；变换风格：保留 3d；高度：100%；宽度：100%； z 索引：4；边框：纯绿色 5px；边界半径：50%；背景：径向渐变（圆圈为 50% 120%，#d9dfff 5%，#009dc4，#0a0a0a 90%，#d9dfff 95%）； } #earth{ 变换样式：preserve-3d; -webkit-transform-style：保留3d；显示：块；宽度：100%；高度：100%；保证金：0；边界半径：50%；位置：相对；背景：url（&#39;https://res.cloudinary.com/dhcl0fsay/image/upload/v1713678258/gif-to-css-codepen/l2knvwqfglyhry0ljjwa.png&#39;）重复x；背景大小：自动 100%； -webkit-animation：move-map 5s无限线性； -moz-animation：移动地图 5s 无限线性； -o-animation: move-map 5s无限线性； -ms-animation: move-map 5s无限线性;动画：move-map 5s无限线性法线向前； z 索引：5；不透明度：1； } #space { 位置：绝对； } .stars{ 背景：径向渐变（中心椭圆，#f7f28f 0%，#e61c0e 20%，透明 30%）;背景重复：空格；背景位置：中心；背景不透明度：0.5；背景大小：10px 10px；宽度：100%；高度：100%； z 索引：0；位置：绝对； }  ​   由   提交/u/d0rf47  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 因此，我正在尝试制作一个 CSS 动画循环，并使用背景图像来滚动和循环。出于某种原因，无论我怎么尝试，它似乎总是在最后出现这种奇怪的跳跃。 ​ 我尝试调整封面、图像背景大小、位置、填充，并将关键帧设置为 100% 和图像的实际 px 大小。根据我看到的每个示例，这应该有效，但由于某种原因，它就是不行。 pen：https://codepen.io/m-falcon/full/eYoXzBg 一些代码 ​ &lt;main&gt; &lt;div id=&quot;space&gt; &lt;div class=&quot;stars&quot;&gt;&lt;/div&gt; &lt;div id=&#39;earthWrapper&#39;&gt; &lt;figure id=&quot;earth&quot;&gt; &lt;span class=&quot;shadow&quot;&gt;&lt;/span&gt; &lt;/figure&gt; &lt;/div&gt; &lt;/div&gt; &lt;/main&gt;  css ​ body { font-family: system-ui; background: #f06d06; color: white; text-align: center; display:flex; flex-direction:column; height:100vh; justify-content:start; align-items:center; margin:0; padding:0; } 主要{ 背景颜色：黑色; 宽度：100vw; 高度：100vh; 溢出：隐藏; 显示：弹性; 对齐内容：中心; } /* @-moz-keyframes 移动地图 { 0% { 背景位置：-100% 0; } 100% { 背景位置：-0 -0; } } @-webkit-keyframes 移动地图 { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } @-o-keyframes 移动地图 { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } @-ms-keyframes 移动地图 { 0% { 背景位置：0 0; } 100% { 背景位置：-1920px -0; } } */ @keyframes move-map { 0% { background-position: left 0; } 100% { background-position: 1920px 0; } } } @keyframes rotate { 0% { 变换：旋转(0deg); } 25% { 变换：旋转(90deg); } 50% { 变换：旋转(180deg); } 75% { 变换：旋转(270deg); } 100% { 变换：旋转(360deg); } } #space{ background-color:black; width:95%; height:95%; border:red solid 1px; opacity: 1; overflow:hidden; justify-content:center; align-items:center; } #earthWrapper{ max-width:300px; max-height:300px; transform-style:preserve-3d; height:100%; width:100%; z-index：4；边框：实心绿色 5px；边框半径：50%；背景：径向渐变（圆圈 50% 120%，#d9dfff 5%，#009dc4，#0a0a0a 90%，#d9dfff 95%）；} #earth{transform-style：preserve-3d；-webkit-transform-style：preserve-3d；显示：块；宽度：100%；高度：100%；边距：0；边框半径：50%；位置：相对；背景：url（&#39;https://res.cloudinary.com/dhcl0fsay/image/upload/v1713678258/gif-to-css-codepen/l2knvwqfglyhry0ljjwa.png&#39;）repeat-x；背景大小：自动 100%；-webkit-animation：move-map 5s 无限线性； -moz-animation：move-map 5s 无限线性； -o-animation：move-map 5s 无限线性； -ms-animation：move-map 5s 无限线性； animation：move-map 5s 无限线性正常向前； z-index：5； opacity：1； } #space { position：absolute； } .stars{ background：radial-gradient（椭圆中心，#f7f28f 0％，#e61c0e 20％，透明 30％）； background-repeat：space； background-position：center； background-opacity：0.5； background-size：10px 10px； width：100％； height：100％； z-index：0； position：absolute； }  ​    提交人    /u/d0rf47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cda2t1/css_animation_help_infinite_scroll_loop/</guid>
       <pubDate>Fri, 26 Apr 2024 02:27:39 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>我能为网络开发人员做点好事吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cd9b79/can_i_do_something_good_for_people_in_web/</link>
-      <description><![CDATA[到目前为止，我在大学里一直在学习心理学，寻求从事咨询或类似的工作来直接帮助人们。我发现，尽管符合我的价值观并且让我感兴趣，但我并不总是在这个领域感到个人满足。我总是发现自己渴望做一些更有创意和个性的事情。我真的很想在一个有更大发展空间和灵活性的领域工作。我知道 webdev 并不是一个完美的梦想领域，我总是可以创造自己的想法，但我想知道它是否更接近我想要的东西。  webdev 是否​​有机会做出改变，或者至少为有这种改变的公司工作？特别是。在心理健康或类似领域。   由   提交 /u/_marimbae   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，我在大学里一直在学习心理学，寻求从事咨询或类似的工作来直接帮助人们。我发现，尽管符合我的价值观并且让我感兴趣，但我并不总是在这个领域感到个人满足。我总是发现自己渴望做一些更有创意和个性的事情。我真的很想在一个有更大发展空间和灵活性的领域工作。我知道 webdev 并不是一个完美的梦想领域，我总是可以创造自己的想法，但我想知道它是否更接近我想要的。  webdev 是否​​有机会做出改变，或者至少为有这种改变的公司工作？特别是。在心理健康或类似领域。   由   提交 /u/_marimbae   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cd9b79/can_i_do_something_good_for_people_in_web/</guid>
       <pubDate>Fri, 26 Apr 2024 01:51:40 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>客户端 PDF 生成难倒了</title>
       <link>https://www.reddit.com/r/webdev/comments/1cd825l/stumped_with_clientside_pdf_generation/</link>
-      <description><![CDATA[我们有一个大型 React 应用程序，具有许多不同的视图。流量最高的是仪表板/卡片视图，其中包含许多有关不同基础设施资产性能的单独 Highcharts 可视化效果。在我之前的开发人员构建了一个打印预览功能，该功能将打印样式表应用于页面，调度所有可视化组件使用的打印操作，以便它们有条件地渲染图例、调整大小、添加趋势线等。用户可以选择打印或将打印预览页保存为 PDF。  现在，CEO/产品经理决定他们不喜欢这样，并且希望能够通过单击按钮生成 PDF。他们希望所有样式和单独的可视化状态更改都发生在最终用户看不到的地方，然后应用程序在完成后生成 PDF。  团队坚持认为这一切都必须在客户端完成；否则我会使用 Puppeteer 之类的东西，这会很容易。我尝试过使用 html2pdf.js、html2canvas 和 jsPDF 的各种客户端解决方案。这些解决方案的问题在于：1）性能极差，有时 pdf 无法渲染或浏览器崩溃，2）生成巨大的 pdf 大小，因为它们只是生成光栅图像，3）不一致地渲染图标，此外，这些库通过在 React 完成其工作后克隆 DOM 来工作，因此任何状态更改、操作等都不会产生事后影响。  我什至尝试通过单击将整个应用程序克隆到一个隐藏的门户并从那里使用它，但考虑到单个视图可能很容易有 70-80 个可视化，每个视图都获取其自己的可视化，这是一场性能噩梦。自己的数据。  我提出了一个解决方案，其中请求 pdf 应用打印样式表、分派操作、将更新的 HTML 发送到 html2pdf，然后自动将应用程序返回到其原始状态，但他们反对这一点，因为它导致 DOM 在用户的完整视图中来回更改，我同意这不是很好的用户体验。  我已经解释了这些挑战，但我处于“让它发挥作用”的状态。场景和产品人员/其他利益相关者缺乏灵活性。不幸的是，这比 CSS 能完成的要多得多。有什么想法/经验吗？我是一个相对较新的开发者，如果我对这一切听起来有点模糊，我很抱歉。    由   提交 /u/sudo-chown   /u/sudo-chown  reddit.com/r/webdev/comments/1cd825l/stumped_with_clientside_pdf_ Generation/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我们有一个大型 React 应用程序，具有许多不同的视图。流量最高的是仪表板/卡片视图，其中包含许多有关不同基础设施资产性能的单独 Highcharts 可视化效果。在我之前的开发人员构建了一个打印预览功能，该功能将打印样式表应用于页面，调度所有可视化组件使用的打印操作，以便它们有条件地渲染图例、调整大小、添加趋势线等。用户可以选择打印或将打印预览页保存为 PDF。  现在，CEO/产品经理决定他们不喜欢这样，并且希望能够通过单击按钮生成 PDF。他们希望所有样式和单独的可视化状态更改都发生在最终用户看不到的地方，然后应用程序在完成后生成 PDF。  团队坚持认为这一切都必须在客户端完成；否则我会使用 Puppeteer 之类的东西，这会很容易。我尝试过使用 html2pdf.js、html2canvas 和 jsPDF 的各种客户端解决方案。这些解决方案的问题在于：1）性能极差，有时 pdf 无法渲染或浏览器崩溃，2）生成巨大的 pdf 大小，因为它们只是生成光栅图像，3）不一致地渲染图标，此外，这些库通过在 React 完成其工作后克隆 DOM 来工作，因此任何状态更改、操作等都不会产生事后影响。  我什至尝试通过单击将整个应用程序克隆到隐藏的门户并从那里使用它，但考虑到单个视图可能很容易有 70-80 个可视化，每个视图都获取其自己的可视化，这是一场性能噩梦。自己的数据。  我提出了一个解决方案，其中请求 pdf 应用打印样式表、分派操作、将更新的 HTML 发送到 html2pdf，然后自动将应用程序返回到其原始状态，但他们反对这一点，因为它导致 DOM 在用户的完整视图中来回更改，我同意这不是很好的用户体验。  我已经解释了这些挑战，但我处于“让它发挥作用”的状态。场景和产品人员/其他利益相关者缺乏灵活性。不幸的是，这远远超出了 CSS 所能完成的范围。有什么想法/经验吗？我是一个相对较新的开发者，如果我对这一切听起来有点模糊，我很抱歉。    由   提交 /u/sudo-chown   /u/sudo-chown  reddit.com/r/webdev/comments/1cd825l/stumped_with_clientside_pdf_ Generation/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cd825l/stumped_with_clientside_pdf_generation/</guid>
       <pubDate>Fri, 26 Apr 2024 00:51:54 GMT</pubDate>
     </item>
@@ -76,13 +97,6 @@
       <pubDate>Thu, 25 Apr 2024 23:43:50 GMT</pubDate>
     </item>
     <item>
-      <title>难道真的不可能从另一个网站静态获取 HTML 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cd5t5m/is_it_really_not_possible_to_get_the_html_from/</link>
-      <description><![CDATA[这对我来说似乎很疯狂。我根本无法获取其他网站的 HTML 格式吗？我必须使用他妈的代理，否则它不会让我这么做？  我需要检查我正在访问的某个网站对于静态网站是否安全，并且我将有一个脚本来加载 HTML 并在允许用户访问该网站之前对其进行处理。没有代理我就不能这样做吗？真的吗？   由   提交/u/Lephilis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cd5t5m/is_it_really_not_possible_to_get_the_html_from/</guid>
-      <pubDate>Thu, 25 Apr 2024 23:13:05 GMT</pubDate>
-    </item>
-    <item>
       <title>原始 RFC 消息示例</title>
       <link>https://www.reddit.com/r/webdev/comments/1cd5cgr/raw_rfc_message_samples/</link>
       <description><![CDATA[是否可以在任何地方找到纯文本 rfc 消息的示例？我到处都找过了，到目前为止只找到了 rfc2822   由   提交 /u/Spirited-Caramel-167   [链接] [评论]]]></description>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 25 Apr 2024 22:53:50 GMT</pubDate>
     </item>
     <item>
-      <title>部署 cloudflare、aws、google ？</title>
+      <title>部署 cloudflare、aws、google？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cd3doo/deploy_cloudflare_aws_google/</link>
       <description><![CDATA[你好， 今年夏天我有一份工作，我必须制作一个具有某些特定功能的网络应用程序。&lt; /p&gt; 总的来说，我对编程非常满意，并且该功能不会成为问题。我对 webdev、托管、workers、lambda 等知识知之甚少。 我正在做一些研究，并且由于我已经在 cloudflare 上拥有域名，所以我正在考虑将网站部署在带有 Rust 工作人员的 cloudflare 页面。不过，我必须寻找其他提供商，而 AWS 可能是最大的。 我最大的问题是，我很难找到良好的比较、优点和缺点，以及基本上关于如何选择的任何建议。 你有什么建议吗？我已经在寻找一些我需要的关键功能，例如矢量数据库，但两者都有我需要的一切。 AWS 看起来要复杂得多，我不明白他们一半的服务，我想我可能会犯更大的错误。但如果由于某种原因它更好，那么一开始的努力应该是值得的   由   提交 /u/NoahZhyte   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cd3doo/deploy_cloudflare_aws_google/</guid>
       <pubDate>Thu, 25 Apr 2024 21:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用哪个 React 库来构建 LLM 聊天界面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cd3a5y/which_react_library_do_you_use_to_build_llm_chat/</link>
-      <description><![CDATA[我从 langchain subreddit 交叉发布此内容，但认为这样更合适。 ​ 我很好奇你们这些使用 React 并使用前端用户界面制作 LLM 聊天机器人的人，你们使用什么库来制作聊天界面？发送消息、显示回复、聊天框等功能...    由   提交/u/Any-Demand-2928   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cd3a5y/which_react_library_do_you_use_to_build_llm_chat/</guid>
-      <pubDate>Thu, 25 Apr 2024 21:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在现有的静态网站上销售商品的最佳方向是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cd2uza/whats_the_best_direction_to_take_to_sell_an_item/</link>
-      <description><![CDATA[我对开发还很陌生。几个月前，我为一位正在创业的朋友建立了一个网站。她准备出售一件商品，我正在努力找出最好的方法（并尽可能让她负担得起）来解决这个问题。  我从头开始构建了该网站，她真的很喜欢它的样式，所以我不想用 shopify 或其他地方的模板重建它。我也没有时间重建整个事情。  我们曾想过，也许她可以通过亚马逊进行销售，然后链接到该网站，但如果她的网站带有商店页面，那就太好了。  有人能指出我正确的方向吗？非常感谢    由   提交 /u/Arniesmam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cd2uza/whats_the_best_direction_to_take_to_sell_an_item/</guid>
-      <pubDate>Thu, 25 Apr 2024 21:09:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

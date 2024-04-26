@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 03:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 06:17:38 GMT</lastBuildDate>
+    <item>
+      <title>带标签的本地书签管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cddyg4/local_bookmark_manager_with_tags/</link>
+      <description><![CDATA[我正在寻找一个在本地运行而不是在云上运行的书签管理器，就像现在大多数人所做的那样，我希望它有标签。  早在 OSX Snow Leopard 时代，我使用的是“Webbla”（img 示例：https://i.postimg.cc/qqn8Pxvp/Webbla-2.jpg）。不幸的是，它是商业版（1），不能在现代 macOS（2）上运行，而且我还没有找到 Windows（3）的替代品。  我更喜欢它是开源的和/或自托管的。主要是我需要 Windows 版的，但是如果有 Linux 版的也没关系；我可以通过 WSL 使用它。  ​   由   提交/u/conmac7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cddyg4/local_bookmark_manager_with_tags/</guid>
+      <pubDate>Fri, 26 Apr 2024 06:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 未读评论 - 我已更新浏览器扩展以获取新评论，以处理新的 Reddit 设计</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</link>
+      <description><![CDATA[大家好。 几个月前，我在这里发布了有关我的 Chrome/Firefox 浏览器扩展的信息，该扩展可以跟踪 Reddit 中的新评论线程更容易。不幸的是，就在我发布它一个月后，Reddit 完全改变了设计，并使扩展无法使用。在过去的几天里，我花了一些时间来更新它以处理新的设计。 除此之外，我还添加了“立即”将当前线程标记为已读的复选框。  新的 Reddit 设计不再使用模式来显示线程，因此我花时间完全重构了附加 onUrlChange、onScroll 和 onKeyDown 事件以及消除这些事件的逻辑。此外，我还添加了重试逻辑，以更稳健的方式处理线程加载状态。 新的 Reddit 网站使用影子 DOM，查询它并为其编写选择器是很有趣的体验。 Popup 是用 React Hook Form 和 RadixUI 主题组件制作的。 请尝试一下，从用户的角度分享您的印象，或者作为开发人员查看代码并分享您的建议，可以做什么以更好的方式。您认为它是您每天都想使用的东西吗？ 提醒一下，它适用于当前的 www.reddit.com（请参阅 Readme 中的屏幕截图）。 md)，它不支持 www.old.reddit.com 和 www.new.reddit.com。 Github 存储库： https://github.com/nemanjam/r​​eddit-unread-comments Youtube 演示： （它是为具有旧 Reddit 设计的初始版本制作的，但所有功能也适用于新版本） https://www.youtube.com/watch?v=dHw0pM3ZzqY  &amp;# 32；由   提交/u/nemanja_codes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:37:26 GMT</pubDate>
+    </item>
     <item>
       <title>我的 GSoC 提案已更新？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdaguu/my_gsoc_proposal_was_updated/</link>
-      <description><![CDATA[嘿，我希望能找到其他申请参加今年 Google 代码之夏的贡献者的人。  我一直在检查我的提案，并注意到“最后更新”是我的提案中的日期在过去一周更改了两次，可能表明幕后有什么事情（例如导师对我的提案进行排名等？） 其他人也发生过这种情况吗？这似乎有点奇怪，因为最近更改的日期是今天，4 月 25 日，排名期于 24 日结束。席位分配期将于 29 日结束，但我不明白为什么会更新任何提案，因为这只是组织请求 x 数量的席位。 无论如何，任何能让我平静下来的回复将不胜感激。我只是很紧张，想知道我是否获得了这个职位，因为我在申请中投入了如此多的时间和精力。   由   提交/u/weeeewoooweeeee  [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我希望能找到其他申请参加今年 Google 代码之夏的贡献者的人。  我一直在检查我的提案，并注意到“最后更新”是我的提案中的日期在过去一周更改了两次，可能表明幕后有什么事情（例如导师对我的提案进行排名等？） 其他人也发生过这种情况吗？这似乎有点奇怪，因为最近更改的日期是今天，4 月 25 日，排名期于 24 日结束。席位分配期将于 29 日结束，但我不明白为什么会更新任何提案，因为这只是组织请求 x 数量的席位。 无论如何，任何能让我平静下来的回复将不胜感激。我只是很紧张，想看看我是否得到了这个职位，因为我在申请中投入了如此多的时间和精力。   由   提交/u/weeeewoooweeeee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdaguu/my_gsoc_proposal_was_updated/</guid>
       <pubDate>Fri, 26 Apr 2024 02:47:14 GMT</pubDate>
     </item>
@@ -29,14 +43,14 @@
     <item>
       <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
-      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们深信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们坚信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
       <pubDate>Thu, 25 Apr 2024 20:40:38 GMT</pubDate>
     </item>
     <item>
       <title>猜猜谁刚刚为我们的开源项目找到了第一个赞助商？！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</link>
-      <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，也感谢匿名赞助商对我们士气的提振。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 系列的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，感谢匿名赞助商对我们道德的提升。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 家族的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
       <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>开源世界中的维基百科：您发现了哪些宝石？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cclyzz/wikihopping_in_the_open_source_world_what_gems/</link>
-      <description><![CDATA[我们都知道对开源主题的简单搜索如何会变成几个小时的维基跳转。这可以帮助我们发现新的项目、工具，甚至我们所使用的技术的历史背景。您通过这种方法发现了哪些最迷人或最有价值的开源项目？  分享您的故事，让我们一起探索开源宇宙中隐藏的宝藏！ P.S.：本着充分披露和开源透明精神，我在 XWiki SAS 工作， XWiki 软件的顶级赞助公司。 :)   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
+      <description><![CDATA[我们都知道，对开源主题进行简单的搜索可能会变成数小时的 wiki 跳跃。这可能会导致发现新项目、工具，甚至是有关我们使用的技术的历史背景。通过这种方法，您发现了哪些最令人着迷或最有价值的开源项目？ 分享您的故事，让我们一起探索开源世界的隐藏宝藏！ 附注：为了充分披露和开源透明精神，我在 XWiki SAS 工作，它是 XWiki 软件的最大赞助公司。:)    提交人    /u/LorinaBalan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cclyzz/wikihopping_in_the_open_source_world_what_gems/</guid>
       <pubDate>Thu, 25 Apr 2024 07:31:19 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
+      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
       <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/UnusedTechie2021  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc5ru2/simone_repurpose_your_youtube_videos_by/</guid>
       <pubDate>Wed, 24 Apr 2024 18:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>loreVault 需要测试人员，这是一个从配方创建文件夹的简单工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</link>
-      <description><![CDATA[大家好， 这几个星期我一直在致力于 lorevault。它是一个从 .toml 文件中定义的文件列表创建文件夹的程序。 它可以是用于可重现的测试/构建环境或简单的项目模板。 一些重要功能是：  确保文件未更改的哈希值。 一个文件有多个源以实现冗余。 文件可以从本地或远程 git-repos 的存档或提交中获取。 标签可用于有条件包含文件。&lt; /li&gt; 可以包含其他配置文件。 如果该文件夹已经存在，则可以避免很多工作。  我为什么要告诉你这个？我希望找到愿意测试该程序的人。当然，我已经实现了一些测试，但这只是意味着我在我的机器上想出了一些测试用例。可能存在许多明显的错误。 我期待您的 GitHub 问题！   由   提交 /u/Bowtiestyle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cc4x84/testers_needed_for_lorevault_a_simple_tool_to/</guid>
-      <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 启动器类似于 Neo Launcher 或 Nova Launcher</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</link>
-      <description><![CDATA[我一直在使用 Nova，直到一家数据收集公司购买了它。然后我切换到 Neo Launcher，但它总是锁定，迫使我锁定和解锁我的手机。自 2022 年以来，它一直没有更新 要求 - 我可以更改应用程序图标 - 它有一个应用程序抽屉 - 没有简单的分析或数据收集和销售 - 没有持久的搜索或 Google 搜索不会被删除或关闭 - 像 Nova 这样的桌面可以让我在上面放置应用程序图标。我不喜欢像 Niagara 这样的极简启动器，无论它多么时尚和快速。   由   提交 /u/BriniaSona   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</guid>
-      <pubDate>Wed, 24 Apr 2024 15:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
