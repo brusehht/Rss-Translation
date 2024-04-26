@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:11:05 GMT</lastBuildDate>
+    <item>
+      <title>开放人工智能模型很棒，但我们需要诚实地面对三个令人不安的事实</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</link>
+      <description><![CDATA[       由   提交 /u/alexvoica   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源CDN服务器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</link>
+      <description><![CDATA[是否存在？人们自己建造这些东西吗？只有我觉得这很有用吗？ 快速的 Google 搜索并没有透露太多信息，但我可能错过了:)   由   提交 /u/supportingthedogs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:36:01 GMT</pubDate>
+    </item>
     <item>
       <title>Just Open-Sourced AppUpdater，一个 Mac 应用程序静默更新框架，作为 Sparkle 的轻量级替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>公开共享</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <description><![CDATA[   一个&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</guid>
       <pubDate>Fri, 26 Apr 2024 12:03:01 GMT</pubDate>
     </item>
@@ -34,13 +48,6 @@
       <pubDate>Fri, 26 Apr 2024 11:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>💡什么是对开源的贡献，什么不是</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</link>
-      <description><![CDATA[ 由   提交/u/suchdevblog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:43:16 GMT</pubDate>
-    </item>
-    <item>
       <title>Android 上的 LibreOffice Calc 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdieqj/libreoffice_calc_alternative_on_android/</link>
       <description><![CDATA[嘿！ 所以在我的电脑上我使用 LibreOffice 创建/编辑任何文档。大多数情况下，我使用计算器。我想随时随地在手机上处理一些文档。  有什么好的 Android 应用程序可以创建/编辑 OpenDocument 文件吗？我发现了很多“OpenDocument Reader”应用程序。但我想编辑文档。 我的文件存储在我的 NAS（SMB 共享）上，我可以通过 VPN 访问它 谢谢！   由   提交/u/Leonix260  [链接] [评论]]]></description>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 26 Apr 2024 10:58:24 GMT</pubDate>
     </item>
     <item>
-      <title>您最喜欢的 Android 应用程序仍然没有任何开源替代品吗？</title>
+      <title>您最喜欢的 Android 应用程序仍然没有任何开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdgc4n/your_favorite_android_apps_that_still_doesnt_have/</link>
       <description><![CDATA[我将从我的开始并在此提及原因。如果我们知道什么，让我们互相帮助。 1dm+ ：- 所有其他下载管理器都过时了，与此相比，功能甚至不接近。 Appsales：- 有一种开源替代方案，但它不显示主要功能的销售通知。 AutoTagger：- 仍然没有好的自动音乐标记应用程序。有点利基，因为我们也生活在流媒体服务时代，但我喜欢我的音乐收藏，而且本地音乐播放器要先进得多。 自定义快速设置：- 开源替代品已经过时了（这个）也是），但它们也有大约 10-12 个可用选项，并且不允许您创建自己的快速设置切换（像这样）。所以这个应用程序仍然是独一无二的。 Pluma：- 没有可以自己或通过 inoreader 集成进行跨设备同步的 RSS 阅读器。 Fluent reader 需要 api key，但似乎已被放弃。 Read You 在他们的路线图中集成了 inoreader，所以我有一些希望。 MIUI Gallery：- 不仅是 Gallery 本身，还通过 Mi Media 应用程序集成了编辑功能。对于画廊，我不喜欢我尝试过的用户界面。对于编辑来说，Image Toolbox 非常有前途。 Mixplorer：- 开源或专有替代品都无法接近它的功能。但这是非常值得信赖的，并且是由 XDA 开发人员制作的，所以我不太担心这个。 Moon+ Reader Pro：- 功能和 UI 之间的良好平衡，不喜欢其他的。 Moon+ Reader Pro：- 功能和 UI 之间的良好平衡。 &gt; Picsart：- 目前还没有成熟的图像编辑器 芝麻搜索/像素搜索：- 仍然没有适用于 Android 的全球搜索应用程序。 Launcher 的默认集成功能非常有限，而且速度也很慢。 Shazam：- 需要一个音乐识别器，不仅可以识别麦克风，还可以识别系统中的音频。还有显示弹出图标而不是切换到应用程序的东西。 通过：- 没有找到任何其他具有此类功能的浏览器。标题选项卡栏、简单的下载管理器开关和图像搜索等。我使用它进行休闲浏览，使用 Firefox 进行登录帐户 Tasker：- 你可能已经知道了 谷歌翻译:- 替代方案无法翻译图像、显示翻译浮动栏或没有足够的语言支持 Xodo:- 还没有好的办公套件 Xplayer:- 仍然可以&#39;找不到功能和 UI 之间具有良好平衡的视频播放器。 Next Player 最接近，但它无法播放 webm 格式的带有 webvtt 嵌入字幕的视频（使用 Seal 或 YTDLnis 下载的视频的嵌入字幕不起作用）   由   提交 /u/nikunjuchiha   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdgc4n/your_favorite_android_apps_that_still_doesnt_have/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 26 Apr 2024 02:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>https://flosshub.org/biblio 为什么档案馆只列出 2017 年之前的研究文献</title>
+      <title>https://flosshub.org/biblio 为什么档案馆只列出截至 2017 年的研究文献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cda896/httpsflosshuborgbiblio_why_the_archive_only_lists/</link>
       <description><![CDATA[为什么会这样？   由   提交 /u/Munich_tal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cda896/httpsflosshuborgbiblio_why_the_archive_only_lists/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，也感谢匿名赞助商对我们士气的提振。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 系列的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
       <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Burr 构建电子邮件助手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
-      <description><![CDATA[    /u/benizzy1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
-      <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
