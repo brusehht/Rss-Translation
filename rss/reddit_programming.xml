@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 21:10:09 GMT</lastBuildDate>
+    <item>
+      <title>我用二进制解决了 fizzBu​​zz</title>
+      <link>https://www.reddit.com/r/programming/comments/1cen0kf/i_solved_fizzbuzz_in_binary/</link>
+      <description><![CDATA[ 由   提交/u/ForwardBeginning2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cen0kf/i_solved_fizzbuzz_in_binary/</guid>
+      <pubDate>Sat, 27 Apr 2024 19:40:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发魔法：针对初学者的 HTML 和 CSS 课程。</title>
+      <link>https://www.reddit.com/r/programming/comments/1celsp5/web_development_wizardry_html_css_course_for/</link>
+      <description><![CDATA[ 由   提交/u/thweb  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1celsp5/web_development_wizardry_html_css_course_for/</guid>
+      <pubDate>Sat, 27 Apr 2024 18:47:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 STREAAMLIT 和 SQLITE 的完整铁路预订系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1cels9f/complete_railway_reservation_system_using/</link>
+      <description><![CDATA[ 由   提交/u/thweb  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cels9f/complete_railway_reservation_system_using/</guid>
+      <pubDate>Sat, 27 Apr 2024 18:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在推出“不要承诺”：获取策划的可操作的技术见解时事通讯 [详细信息在评论中]</title>
+      <link>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</link>
+      <description><![CDATA[ 由   提交/u/mrsampage  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1celmiv/i_am_launching_dont_commit_get_curated_actionable/</guid>
+      <pubDate>Sat, 27 Apr 2024 18:40:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>人脸识别软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1cel1zj/face_recognition_software/</link>
+      <description><![CDATA[ 由   提交 /u/Lucymass   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cel1zj/face_recognition_software/</guid>
+      <pubDate>Sat, 27 Apr 2024 18:16:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Langton ant 的 WIP 实现（JS Web 可视化工具和 C++）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cel01s/my_wip_implementation_of_langtons_ant_js_web/</link>
+      <description><![CDATA[ 由   提交/u/rafa_br34  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cel01s/my_wip_implementation_of_langtons_ant_js_web/</guid>
+      <pubDate>Sat, 27 Apr 2024 18:14:00 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个具有几何约束的字形生成工具</title>
       <link>https://www.reddit.com/r/programming/comments/1cej66e/i_made_a_glyph_generation_tool_with_geometric/</link>
@@ -25,13 +67,6 @@
       <description><![CDATA[ 由   提交/u/XLEX97  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cebyqw/planes_in_3d_space/</guid>
       <pubDate>Sat, 27 Apr 2024 11:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 txtai 与 Postgres 集成</title>
-      <link>https://www.reddit.com/r/programming/comments/1ceb89d/integrate_txtai_with_postgres/</link>
-      <description><![CDATA[ 由   提交/u/davidmezzetti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ceb89d/integrate_txtai_with_postgres/</guid>
-      <pubDate>Sat, 27 Apr 2024 10:18:45 GMT</pubDate>
     </item>
     <item>
       <title>TypeScript 5.4 的新增功能</title>
@@ -57,7 +92,7 @@
     <item>
       <title>系统和数据库设计（第 1 天）- 在 30 天内创建 SaaS 初创公司</title>
       <link>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce6sn4/system_database_design_day_1_creating_a_saas/</guid>
       <pubDate>Sat, 27 Apr 2024 05:29:12 GMT</pubDate>
     </item>
@@ -69,46 +104,11 @@
       <pubDate>Sat, 27 Apr 2024 03:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>bun.report 是 Bun 的新崩溃报告器</title>
+      <title>Bun.report 是 Bun 的新崩溃报告器</title>
       <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
       <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
       <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clang 的 -O0 输出：分支位移和大小增加</title>
-      <link>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</link>
-      <description><![CDATA[ 由   提交 /u/MaskRay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</guid>
-      <pubDate>Sat, 27 Apr 2024 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有热重载功能的单文件（几乎）本地 Shaderoy [仅限 Linux]</title>
-      <link>https://www.reddit.com/r/programming/comments/1ce145p/single_file_almost_local_shadertoy_with_hot/</link>
-      <description><![CDATA[ 由   提交/u/tootac  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ce145p/single_file_almost_local_shadertoy_with_hot/</guid>
-      <pubDate>Sat, 27 Apr 2024 00:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>覆盖率引导模糊测试 - 扩展仪器以更快地发现错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdyhud/coverage_guided_fuzzing_extending_instrumentation/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdyhud/coverage_guided_fuzzing_extending_instrumentation/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>派生一个位摆弄的黑客：有符号整数溢出</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdyhsw/deriving_a_bittwiddling_hack_signed_integer/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdyhsw/deriving_a_bittwiddling_hack_signed_integer/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>修补请求以获得乐趣和（并发）利润</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdyhrt/patching_requests_for_fun_and_concurrent_profit/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdyhrt/patching_requests_for_fun_and_concurrent_profit/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:25:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
