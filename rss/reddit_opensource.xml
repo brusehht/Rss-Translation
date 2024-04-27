@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 03:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:20 GMT</lastBuildDate>
+    <item>
+      <title>florisboard 抛光支持 ?</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
+      <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
+      <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
+    </item>
     <item>
       <title>时期应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>开源 MS-DOS 4.0 - 微软开源博客</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</link>
-      <description><![CDATA[        提交人    /u/hells_itch   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/hells_itch  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</guid>
       <pubDate>Fri, 26 Apr 2024 12:37:54 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>Reddit 未读评论 - 我已更新浏览器扩展以获取新评论，以处理新的 Reddit 设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</link>
-      <description><![CDATA[大家好。 几个月前，我在这里发布了关于我的 Chrome/Firefox 浏览器扩展程序的信息，该扩展程序可以更轻松地跟踪 Reddit 帖子中的新评论。不幸的是，在我发布它仅一个月后，Reddit 就完全改变了设计，导致扩展程序无法使用。在过去的几天里，我花了一些时间来更新它以处理新设计。 除此之外，我还添加了“立即”复选框，将当前帖子标记为已读。 新的 Reddit 设计不再使用模式来显示帖子，因此我花了一些时间完全重构了附加 onUrlChange、onScroll 和 onKeyDown 事件以及去抖动这些事件的逻辑。此外，我还添加了重试逻辑，以更强大的方式处理线程加载状态。 新的 Reddit 网站使用影子 DOM，查询它并为其编写选择器是一种有趣的体验。 Popup 由 React Hook Form 和 RadixUI 主题组件制作而成。 请尝试一下，并从用户的角度分享您的印象，或者查看代码并以开发人员的身份分享您的建议，看看可以做些什么更好的事情。你认为这是你想每天都用的东西吗？ 提醒一下，它适用于当前的 www.reddit.com（参见 Readme.md 中的屏幕截图），它不支持 www.old.reddit.com 和 www.new.reddit.com。 Github 存储库： https://github.com/nemanjam/r​​eddit-unread-comments Youtube 演示： （它是为具有旧 Reddit 设计的初始版本制作的，但所有功能也适用于新版本） https://www.youtube.com/watch?v=dHw0pM3ZzqY    由   提交  /u/nemanja_codes   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 几个月前，我在这里发布了有关我的 Chrome/Firefox 浏览器扩展的信息，该扩展可以跟踪 Reddit 中的新评论线程更容易。不幸的是，就在我发布它一个月后，Reddit 完全改变了设计，并使扩展无法使用。在过去的几天里，我花了一些时间来更新它以处理新的设计。 除此之外，我还添加了“立即”将当前线程标记为已读的复选框。  新的 Reddit 设计不再使用模式来显示线程，因此我花时间完全重构了附加 onUrlChange、onScroll 和 onKeyDown 事件以及消除这些事件的逻辑。此外，我还添加了重试逻辑，以更稳健的方式处理线程加载状态。 新的 Reddit 网站使用影子 DOM，查询它并为其编写选择器是很有趣的体验。 Popup 是用 React Hook Form 和 RadixUI 主题组件制作的。 请尝试一下，从用户的角度分享您的印象，或者作为开发人员查看代码并分享您的建议，可以做什么以更好的方式。您认为它是您每天都想使用的东西吗？ 提醒一下，它适用于当前的 www.reddit.com（请参阅 Readme 中的屏幕截图）。 md)，它不支持 www.old.reddit.com 和 www.new.reddit.com。 Github 存储库： https://github.com/nemanjam/r​​eddit-unread-comments Youtube 演示： （它是为具有旧 Reddit 设计的初始版本制作的，但所有功能也适用于新版本） https://www.youtube.com/watch?v=dHw0pM3ZzqY  &amp;# 32；由   提交/u/nemanja_codes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</guid>
       <pubDate>Fri, 26 Apr 2024 03:37:26 GMT</pubDate>
     </item>
     <item>
       <title>我的 GSoC 提案已更新？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdaguu/my_gsoc_proposal_was_updated/</link>
-      <description><![CDATA[嘿，我希望能找到其他申请参加今年 Google 代码之夏的贡献者的人。  我一直在检查我的提案，并注意到“最后更新”是我的提案中的日期在过去一周更改了两次，可能表明幕后有什么事情（例如导师对我的提案进行排名等？） 其他人也发生过这种情况吗？这似乎有点奇怪，因为最近更改的日期是今天，4 月 25 日，排名期于 24 日结束。席位分配期将于 29 日结束，但我不明白为什么会更新任何提案，因为这只是组织请求 x 数量的席位。 无论如何，任何能让我平静下来的回复将不胜感激。我只是很紧张，想知道我是否获得了这个职位，因为我在申请中投入了如此多的时间和精力。   由   提交/u/weeeewoooweeeee  [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我希望找到今年申请 Google Summer of Code 贡献者的其他人。  我一直在检查我的提案，发现我的提案中的“上次更新”日期在过去一周内更改了两次，这可能表明幕后发生了一些事情（比如导师对我的提案进行排名等？） 其他人也遇到过这种情况吗？这似乎有点奇怪，因为最近更改的日期是今天，即 4 月 25 日，而排名期在 24 日结束。名额分配期在 29 日结束，但我不明白为什么任何提案都会更新，因为这只是组织请求 x 个名额。 无论如何，任何能让我平静下来的回复都将不胜感激。我只是很紧张，想知道我是否能得到这个职位，因为我为我的申请投入了大量的时间和精力。   由    /u/weeeewoooweeeee  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdaguu/my_gsoc_proposal_was_updated/</guid>
       <pubDate>Fri, 26 Apr 2024 02:47:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们深信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
       <pubDate>Thu, 25 Apr 2024 20:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>猜猜谁刚刚为我们的开源项目找到了第一个赞助商？！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</link>
-      <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，也感谢匿名赞助商对我们士气的提振。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 系列的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
