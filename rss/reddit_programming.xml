@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:13:33 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript 5.5 测试版</title>
+      <link>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ce4dnl/typescript_55_beta_release/</guid>
+      <pubDate>Sat, 27 Apr 2024 03:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bun.report 是 Bun 的新崩溃报告器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</link>
+      <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ce21vd/bunreport_is_buns_new_crash_reporter/</guid>
+      <pubDate>Sat, 27 Apr 2024 01:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clang 的 -O0 输出：分支位移和大小增加</title>
+      <link>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</link>
+      <description><![CDATA[ 由   提交 /u/MaskRay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ce1x2b/clangs_o0_output_branch_displacement_and_size/</guid>
+      <pubDate>Sat, 27 Apr 2024 01:03:16 GMT</pubDate>
+    </item>
     <item>
       <title>具有热重载功能的单文件（几乎）本地 Shaderoy [仅限 Linux]</title>
       <link>https://www.reddit.com/r/programming/comments/1ce145p/single_file_almost_local_shadertoy_with_hot/</link>
@@ -41,7 +62,7 @@
       <pubDate>Fri, 26 Apr 2024 22:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>VueJS 和 Gleam（实验性）</title>
+      <title>VueJS 和 Gleam（实验）</title>
       <link>https://www.reddit.com/r/programming/comments/1cdyhp2/vuejs_gleam_experimental/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdyhp2/vuejs_gleam_experimental/</guid>
@@ -57,7 +78,7 @@
     <item>
       <title>可靠的 HTTP：用 Webhooks 智取两位将军</title>
       <link>https://www.reddit.com/r/programming/comments/1cdyglv/reliable_http_outsmarting_the_two_generals_with/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdyglv/reliable_http_outsmarting_the_two_generals_with/</guid>
       <pubDate>Fri, 26 Apr 2024 22:23:46 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Fri, 26 Apr 2024 22:21:50 GMT</pubDate>
     </item>
     <item>
-      <title>Heed v0.20：用于 LMDB 键值存储的最安全、最容易维护的 Rust 包装器</title>
+      <title>Heed v0.20：用于 LMDB 键值存储的最安全、最维护的 Rust 包装器</title>
       <link>https://www.reddit.com/r/programming/comments/1cdyea5/heed_v020_the_safest_and_most_maintained_rust/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdyea5/heed_v020_the_safest_and_most_maintained_rust/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdydkb/the_importance_of_an_ordinary_space_in_a_unix/</guid>
       <pubDate>Fri, 26 Apr 2024 22:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对 Arm 平台优化您的程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdycft/optimizing_your_programs_for_arm_platforms/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdycft/optimizing_your_programs_for_arm_platforms/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:18:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>法罗12号发布！</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdybte/pharo_12_released/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdybte/pharo_12_released/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件演化法则</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdwht2/laws_of_software_evolution/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdwht2/laws_of_software_evolution/</guid>
-      <pubDate>Fri, 26 Apr 2024 21:01:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

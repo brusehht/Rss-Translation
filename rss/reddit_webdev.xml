@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:50:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:13:50 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript 5.5 测试版</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce4doo/typescript_55_beta_release/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce4doo/typescript_55_beta_release/</guid>
+      <pubDate>Sat, 27 Apr 2024 03:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从网站转到应用程序，最好是免费的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce36lr/how_to_go_from_website_to_app_preferably_for_free/</link>
+      <description><![CDATA[所以，有一些网络到应用程序转换器，大多数是预先收费的，其他人让你制作应用程序，然后向你提供帐单，而我是能够免费找到一个（Webintoapp），但它只是打开网站，每当我向上移动页面尝试向上滚动时，它只是......重新加载页面。所以是的，质量值得怀疑，所以...如何将我的网站变成一个功能齐全的apk？无需付费，无需寻找一键式解决方案，任何所需的软件或技术方法都可以实现这一目标，只要它们不意味着从头开始重新设计所有内容，我们都会感激不已。 &lt;!-- SC_ON - -&gt;  由   提交/u/idhaff  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce36lr/how_to_go_from_website_to_app_preferably_for_free/</guid>
+      <pubDate>Sat, 27 Apr 2024 02:07:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人搞砸了这个职位发布，并将此必填字段设置为仅数字，所以我输入了二进制文件“是”。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce2xew/someone_screwed_up_with_this_job_posting_and_made/</link>
+      <description><![CDATA[   /u/DangerActiveRobots   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce2xew/someone_screwed_up_with_this_job_posting_and_made/</guid>
+      <pubDate>Sat, 27 Apr 2024 01:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>内部组件库的“构建与购买”困境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ce2kif/the_build_vs_buy_dilemma_with_internal_component/</link>
+      <description><![CDATA[嘿r/webdev！ 我目前正在努力应对我的公司（一家财富 500 强公司）的挑战，并且希望从该社区经验丰富的成员那里获得一些见解或建议。 我们公司有一个长期的“建设”它是内部的”心态，这常常导致开发大量的内部项目，但遗憾的是这些项目得不到长期支持。一个典型的例子是我们尝试为 React、Angular 等框架创建一个通用的 Web 组件库。尽管投入了大量资源，该项目仍然受到错误、支持不足、设计缺陷、可访问性问题和性能问题的困扰。在强迫数百个团队采用该技术后，该公司在四年后停止了资助，并开始开发两个新的特定于框架的库。 这些新库已经显示出过于固执己见和错误的迹象，并且没有提供从遗留系统的迁移路径。这让我们的组织陷入了困境，需要决定是否采用新的内部库。 鉴于历史背景，我们正在考虑使用开源库并将我们产品团队的设计令牌应用于它们。这可能会以更少的维护工作来满足我们的品牌要求。然而，我们不确定主题是否“足够好”。符合我们的品牌标准。 有人面临过类似的困境吗？您如何权衡使用内部解决方案与开源解决方案之间的关系？任何有关使用开源工具实现高质量主题的参考或提示也将不胜感激。 提前感谢您的帮助！   由   提交 /u/Godlyric   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ce2kif/the_build_vs_buy_dilemma_with_internal_component/</guid>
+      <pubDate>Sat, 27 Apr 2024 01:36:30 GMT</pubDate>
+    </item>
     <item>
       <title>我为我的脚本和自动化 shell 制作了一个信息主页</title>
       <link>https://www.reddit.com/r/webdev/comments/1ce1k22/i_made_an_informational_homepage_for_my_scripting/</link>
-      <description><![CDATA[嗨r/webdev 我从这个子网站得到了非常好的反馈，所以我想我可以再次询问您有关另一个网络实体的反馈。 这次我想获得有关信息的反馈AquaShell（适用于 Windows 的脚本和自动化 shell）的网站：www.aquashell-scripting.com  背景：大约 20 年前，我对 Windows 上的脚本和自动化非常着迷。我偶然发现了 AutoIt。尽管我从未使用过它，但我发现该产品本身很有趣。几年后，我开始为 Windows 构建自己的脚本环境。 由于历史背景，我试图在项目主页中加入一些怀旧情绪。所以，我基本上希望它带来一些怀旧的氛围，同时符合现代网络标准，例如响应能力等。我使用了“waterish”颜色适合产品名称。 我不太擅长设计，所以我希望你能给我反馈。 :) 免责声明：该网站尚未完成，但我认为我可以要求反馈了。 Chrome 浏览器上也可能存在滚动错误，我正在解决它。 :) 周末愉快！ 亲切的问候   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <description><![CDATA[嗨r/webdev 我从这个子网站得到了非常好的反馈，所以我想我可以再次询问您有关另一个网络实体的反馈。 这次我想获得有关信息的反馈AquaShell（适用于 Windows 的脚本和自动化 shell）的网站：www.aquashell-scripting.com  背景：大约 20 年前，我对 Windows 上的脚本和自动化非常着迷。我偶然发现了 AutoIt。尽管我从未使用过它，但我发现该产品本身很有趣。几年后，我开始为 Windows 构建自己的脚本环境。 由于历史背景，我试图在项目主页中加入一些怀旧情绪。所以，我基本上希望它带来一些怀旧的氛围，同时符合现代网络标准，例如响应能力等。我使用了“waterish”颜色适合产品名称。 我不太擅长设计，所以我希望您能给我反馈。 :) 免责声明：该网站尚未完成，但我认为我可以要求反馈了。 Chrome 浏览器上也可能存在滚动错误，我正在解决它。 :) 周末愉快！ 亲切的问候   由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ce1k22/i_made_an_informational_homepage_for_my_scripting/</guid>
       <pubDate>Sat, 27 Apr 2024 00:45:58 GMT</pubDate>
     </item>
@@ -20,7 +48,7 @@
       <pubDate>Fri, 26 Apr 2024 23:29:01 GMT</pubDate>
     </item>
     <item>
-      <title>面试时使用副驾驶有哪些礼仪？</title>
+      <title>面试时使用副驾驶的礼仪是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdyskh/whats_the_etiquette_on_using_copilot_in_interviews/</link>
       <description><![CDATA[几天后我将与一家梦想公司进行最后一轮面试。我或多或少知道面试的内容。我将花费 25 分钟在分配给我的带回家作业的基础上构建一个附加功能。  奇怪的是，人们会介意你在这些情况下使用副驾驶吗？也许正确的做法是问？对于算法来说，显然你不应该使用它，但当你亲自构建一个应用程序时，它似乎是合理的。  在这些情况下你做了什么？   由   提交/u/No_Radish_7692   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdyskh/whats_the_etiquette_on_using_copilot_in_interviews/</guid>
@@ -62,7 +90,7 @@
       <pubDate>Fri, 26 Apr 2024 21:44:08 GMT</pubDate>
     </item>
     <item>
-      <title>向下滚动时增加宽度和高度的动画/组件类型的名称是什么？</title>
+      <title>向下滚动时增加其宽度和高度的动画/组件类型的名称是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cdvtgm/whats_the_name_of_the_animationcomponent_type/</link>
       <description><![CDATA[我见过这里显示的几个组合，其中有一个部分最初约为视口大小的 75%-80%，后来变得更大当您向下滚动直到其全宽时。有人知道它的名字吗？  我的意思是这样的： https://www.apple.com/mac/ .&lt; /p&gt; 任何人都可以向我推荐显示漂亮动画和组件类型的网站吗？我想学习如何做这样很酷的事情，因为我没有足够的创造力来自己解决这个问题。   由   提交 /u/phpArtisanMakeWeeb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdvtgm/whats_the_name_of_the_animationcomponent_type/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨， 我开发了个人作品集网站，在其中展示了我的项目，我很想听听您的意见。 p&gt; 访问此处 此外，我想开始自由职业以赚取一些额外收入收入。我的技术堆栈包括 MERN、laravel、flutter、dart，包括一些 python 脚本。我该如何开始？   由   提交 /u/lollystring   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cdvknv/personal_portfolio_review/</guid>
       <pubDate>Fri, 26 Apr 2024 20:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>shovel - 一款深入挖掘的生产力应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdtpgm/shovel_a_productivity_app_for_going_deep/</link>
-      <description><![CDATA[我刚刚部署了一个新的小型生产力应用程序，我希望其他人能发现它有用！我的灵感来自于读了一本叫做《深度工作》的书。它是一个带有节点后端的 next.js 应用程序，在数字海洋水滴上运行。查看屏幕截图 https://github.com/JamesAC42/shovel ​ 我称它为铲子，因为它可以帮助你深入。它包括一个每日连续跟踪器，可帮助您每天完成某件事、一本日记、一种记录每天工作时间的方法，以及一个用于管理目标和任务的待办事项部分。而且它是协作式的，因此您可以让朋友与您一起工作并互相了解情况。最重要的是，我创建了 30 多个主题，因此每个人都能找到适合的主题！免费查看，无需电子邮件即可注册 https://ovel.sh ​&lt; /p&gt; ​ 让我知道任何反馈、建议、问题、疑问以及其他任何内容！ ​   由   提交/u/jamesfy49  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdtpgm/shovel_a_productivity_app_for_going_deep/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:08:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Javascript 画布实现这种类型的螺旋文本动画？画布上还有另一件事我想作为背景。链接在评论里！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdsy52/how_can_i_achieve_this_type_of_spiral_text/</link>
-      <description><![CDATA[   /u/sailorscoutnel  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdsy52/how_can_i_achieve_this_type_of_spiral_text/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>请烤我的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdsw5m/please_roast_my_site/</link>
-      <description><![CDATA[https://cam-web-studio。 vercel.app/ 仍在努力，但请不要犹豫   由   提交/u/TobiFon98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdsw5m/please_roast_my_site/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚对入门级后端开发职位进行了测试，我认为该公司的测试有点太过分了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cdsrat/just_did_a_test_for_an_entry_level_backend_dev/</link>
-      <description><![CDATA[所以我申请了入门级后端 Web 开发职位，我收到了一封电子邮件，说我通过了初始阶段招聘流程，他们将在周五向我发送一份测试，要求我在打开链接时在 90 分钟内完成。  周五到了，我收到一封包含测试链接的电子邮件。他们还表示，他们将时间从 90 分钟延长到了 2 小时。我知道我被骗了。  所以我打开了测试，这里是  使用 Python、Java 或 C# 中的布林带开发简单的交易策略  背景：&lt; /p&gt; 布林线是交易中常用的技术分析工具。它们由一组三条线组成：中带是简单移动平均线 (SMA)，上带和下带是远离 SMA 的标准差。该指标通常用于识别市场中的超买或超卖状况。  挑战： 您的任务是使用布林线制定简单的交易策略。该策略应根据价格相对于区间的位置生成买入和卖出信号。  要求：  研究和理解：  快速学习布林线的基础知识及其使用方法在交易策略中。   实现：  编写一个脚本，计算给定价格数据集的布林带。  • 实施交易策略，其中：  • 当价格从上方穿越下限 频段时，会生成“买入”信号。  • 您的脚本应输出信号及其出现的价格点。   数据处理：使用任何开源金融 API 来获取真实数据来测试您的策略，您可以选择更真实的股票价格或货币。  提示：查看 yahoo Financial api 和 TA-ib。   注释：清楚地注释您的代码以解释您的逻辑和决策。  奖励（可选）：通过添加额外的条件或过滤器来增强您的策略，以提高其有效性。使用图表库可视化价格数据以及布林线和信号。   评估标准： 准确性：布林线和交易信号的正确实施。  策略有效性：交易策略的逻辑和有效性。  代码质量：干净、可读且注释良好的代码。  • 解决问题的能力：能够处理实施过程中遇到的挑战或错误。 。  • 学习和研究：展示快速学习和理解布林线及其在交易中的应用。  ​ I认为这太多了。  这是针对入门级职位的测试吗？？？ 而且只需 2 小时即可完成？？？  对于那些想知道我是否完成了测试的人。我不确定我是否做对了......我所知道的是我已经提交了一份有效的申请。  技术和编码的东西并不难，说实话它们相当简单。但我的问题是域以及与 api 的集成。你怎么指望我能在短短 2 小时内理解我一无所知的东西并与我一无所知的 api 集成？？？  那么你们觉得呢？    由   提交/u/Transcender49  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cdsrat/just_did_a_test_for_an_entry_level_backend_dev/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:29:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
