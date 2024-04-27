@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:13:40 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 但专门用于帮助编程/编码？</title>
+      <link>https://www.reddit.com/r/software/comments/1ceihny/chatgpt_but_specifically_for_helping_with/</link>
+      <description><![CDATA[没有想到任何特定的语言，但我开始发现 ChatGPT 对于协助通用“编程”非常有帮助。任务（创建简单的配置等）。 它帮助解决的随机问题（不是我使用的确切查询，但类似）： -&gt;请创建有效的 Nginx 入口规则，以将 HTTP 转发到此服务的端口 8088 -&gt;嘿ChatGPT！请编写一个 ipv4 网络配置，该配置从 10.0.0.1 开始，网关为 10.0 .0.125。我需要足够的空间容纳大约 100 个本地 IP。 -&gt;请创建一个家庭助理自动化，以在午夜自动关闭“卧室”房间的灯 （我想这两个示例都是 YAML！） 这引导了我想知道是否有一个利用 ChatGPT（或另一个 LLM）的工具专门用于帮助生成代码片段，并且可能会产生更有用的输出。 TIA 适用于任何建议！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ceihny/chatgpt_but_specifically_for_helping_with/</guid>
+      <pubDate>Sat, 27 Apr 2024 16:26:26 GMT</pubDate>
+    </item>
     <item>
       <title>排班表软件</title>
       <link>https://www.reddit.com/r/software/comments/1ced21w/shift_schedule_software/</link>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 27 Apr 2024 11:48:02 GMT</pubDate>
     </item>
     <item>
-      <title>除了 Discord 和 Amino 之外，还可以找到其他适合网络好友的好应用/网站</title>
+      <title>很好的应用程序/网站，可以找到除 Discord 和 Amino 之外的 weeb 朋友</title>
       <link>https://www.reddit.com/r/software/comments/1ceaq33/good_appsite_to_find_weeb_friends_other_than/</link>
       <description><![CDATA[我通常使用 Discord 和 Amino，最近尝试了 Spacehey。只是想寻找一个主要吸引 weebs/游戏玩家（主要是 weebs）的社区。与 facebook/insta/reddit 相比相对小众但仍然相当活跃的东西将是首选，但这不是必要的要求。    由   提交/u/Mountain_Clock2410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ceaq33/good_appsite_to_find_weeb_friends_other_than/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Sat, 27 Apr 2024 06:55:17 GMT</pubDate>
     </item>
     <item>
-      <title>Play Deals | 开源 Android 应用，以折扣价或免费获得付费应用</title>
+      <title>玩优惠 |开源 Android 应用程序，以折扣或免费方式获取付费应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1ce7id3/play_deals_open_source_android_app_to_get_paid/</link>
       <description><![CDATA[Play Deals 是一款开源多平台应用，其中列出了 Google Play 商店中免费或有折扣的付费应用。它没有任何广告、跟踪器或类似的东西。 链接： - Play 商店：https://play.google.com/store/apps/details?id=me.sujanpoudel.playdeals - Github：https://github.com/psuzn/Play-Deals - F-droid：https://f-droid.org/packages/me.sujanpoudel.playdeals  免责声明 我是开发者 （希望在 GitHub 存储库上加星或在 Play 商店上发表评论）   由   提交 /u/psuzn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ce7id3/play_deals_open_source_android_app_to_get_paid/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>没有无线网络？？？？</title>
       <link>https://www.reddit.com/r/software/comments/1ce5qfu/no_wifi/</link>
-      <description><![CDATA[我买了一台不错的电脑，里面没有wifi？？？！！！ &lt;!-- SC_ON - -&gt;  由   提交/u/PrincessPrick  [链接] [评论]]]></description>
+      <description><![CDATA[我买了一台不错的电脑，但里面没有 wifi？！！！    提交人    /u/PrincessPrick   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ce5qfu/no_wifi/</guid>
       <pubDate>Sat, 27 Apr 2024 04:25:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好， 我的 sims 4 mods 文件夹现在显示出截然不同的属性，我不知道为什么。 当我打开文件夹时，信息栏显示其中有 9937 个项目，但在属性上，它显示有 26k。它*应该*是 26k，但是一大堆东西似乎丢失了，我不知道为什么。 我知道这些文件已安装，因为一些“丢失”的文件被安装了。那些来自curseforge，我将它们重新安装到昨晚遇到问题的同一文件夹中。 Curseforge 也没有显示任何安装问题，因此我安装的文件应该位于那里。 我还尝试将 mods 文件夹复制/粘贴到其他位置，并且发生了同样的问题。 请帮助我，我很生气： D  谢谢   由   提交 /u/HappyPenguin1608   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdvove/issues_with_windows_11_folder/</guid>
       <pubDate>Fri, 26 Apr 2024 20:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以先录制我的声音，然后让人工智能创建将文本转语音的提示返回到我的声音中？</title>
-      <link>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</link>
-      <description><![CDATA[我希望创建一些人工智能生成的积极肯定。  &amp;# 32；由   提交/u/Alchemist0029   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:22:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
