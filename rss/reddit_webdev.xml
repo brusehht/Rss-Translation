@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:14:04 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 28 Apr 2024 21:12:05 GMT</lastBuildDate>
     <item>
-      <title>具有成本效益的托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfc2l6/cost_effective_hosting/</link>
-      <description><![CDATA[多年来，我一直将网站开发作为一种爱好，但我从未真正采取步骤来部署任何东西。最近，我决定在自己的机器上首次尝试部署，主要是为了测试和学习目的。 既然我已经涉足部署，我正在考虑托管一个网站。目前，我感到相当满意的唯一选择是 VPS 托管。虽然我相信我可以快速设置好一切，但我逐渐意识到这条路线的成本可能相当高，并且可能超出我在可预见的未来所需要的。 鉴于我对 SSH 访问的偏好，什么是我应该探索其他托管替代方案吗？我的项目基于 Django，如果这会影响可用选项。   由   提交/u/thethoughtofprivacy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfc2l6/cost_effective_hosting/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:38:39 GMT</pubDate>
+      <title>公共 WiFi 的自定义 WiFi 登录页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfh5qr/custom_wifi_login_page_for_public_wifi/</link>
+      <description><![CDATA[大家好，我希望你们一切都好:) 我想知道什么类型的软件可以创建用于登录公共 WiFi 的登陆页面？ 因此，我不知道从哪里开始：/我的任务是创建一个 WiFi 登录页面，供访客 WiFi 访问，例如在商店 我需要创建一个自定义登录页面，客户必须在其中输入电子邮件和其他内容，然后他们会进入显示 WiFi 密码的页面。  或者在他们完成注册过程后自动将他们连接到 WiFi 的东西 非常感谢您对此的帮助:)  &lt; !-- SC_ON --&gt;  由   提交/u/Inverse-Arts  /u/Inverse-Arts  reddit.com/r/webdev/comments/1cfh5qr/custom_wifi_login_page_for_public_wifi/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfh5qr/custom_wifi_login_page_for_public_wifi/</guid>
+      <pubDate>Sun, 28 Apr 2024 21:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>对于个人项目，我可以继续为我的博客文章创建 html 吗？它有多实用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfbsvm/for_personal_projects_can_i_just_keep_creating/</link>
-      <description><![CDATA[我正在做业余项目，不知道如何为该项目做博客部分？有很多CMS，但我现在或将来都不想在上面花任何钱；并学习如何整合它。如果我只存储 html 文档数组来存储我的博客文章，可以吗？我看不出任何缺点...   由   提交 /u/realforreal1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfbsvm/for_personal_projects_can_i_just_keep_creating/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:27:02 GMT</pubDate>
+      <title>开源包来创建可搜索数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfgqg9/open_source_package_to_create_searchable_db/</link>
+      <description><![CDATA[我有一个非常简单的需求，但不太擅长 Web 开发。 我想用数据填充数据库来自 csv 文件。 然后我想创建一个搜索页面，用户可以简单地输入搜索数据库的条件，然后发布结果。 任何人都可以推荐一些可以填充的内容吗？需要什么？   由   提交 /u/Mibiz22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfgqg9/open_source_package_to_create_searchable_db/</guid>
+      <pubDate>Sun, 28 Apr 2024 20:49:03 GMT</pubDate>
     </item>
     <item>
-      <title>运行社交广告的网络开发的平均每次转化费用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfbsv1/average_cpa_for_web_development_running_social_ads/</link>
-      <description><![CDATA[您好！ 我很高兴这个问题/答案是根据目标受众和目标受众的情况而定的。你们对网站收取多少费用，但有人统计过基于社交广告的网站项目的平均每次获取成本吗？  我的一个朋友为商人建立网站，每个网站收费 1250 英镑，他在 Facebook 上的 CPA 为 600 英镑，解决了 15-20% 的询问。显然有安静的月份和忙碌的月份。 其他人呢？    由   提交 /u/Yulkfara   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfbsv1/average_cpa_for_web_development_running_social_ads/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:27:01 GMT</pubDate>
+      <title>位置粘性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfghrp/position_sticky/</link>
+      <description><![CDATA[嘿， w3 学校网站（和其他来源）指出：  &quot; ;粘性元素根据滚动位置在相对和固定之间切换。它被相对定位，直到在视口中满足给定的偏移位置——然后它“粘”在视口中。到位（如位置：固定）。”  但是当我使用： .myElement{position:sticky;顶部：100 像素； }  =&gt;我的元素一开始不会改变位置。它保持在正常流程中的位置，直到我向下滚动。 但是如果我使用： 。 myElement{ 位置：相对；顶部：100 像素； }  =&gt;然后我的元素定位在距离正常流的位置向下 100 像素的位置。那么在不满足偏移位置的情况下，position Sticky = topositionrelative是如何实现的呢？   由   提交/u/nino3227  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfghrp/position_sticky/</guid>
+      <pubDate>Sun, 28 Apr 2024 20:39:27 GMT</pubDate>
     </item>
     <item>
-      <title>亲爱的高级开发人员，您会向初级或入门级开发人员推荐哪些书籍？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfbja0/dear_senior_devs_what_books_would_you_recommend/</link>
-      <description><![CDATA[如标题所示   由   提交/u/spaced-outboi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfbja0/dear_senior_devs_what_books_would_you_recommend/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:15:45 GMT</pubDate>
+      <title>如何连接一堆不同的服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfghgm/how_do_i_connect_a_bunch_of_different_services/</link>
+      <description><![CDATA[就上下文而言，我目前正在尝试开发一个网络应用程序，允许以下操作 用户使用其 Google 帐户登录（我认为我应该为此使用 google 身份？） 他们还会登录到 firebase（不知道我是否需要这部分） 网站检索和/或更新存储在 firestore 中的数据 网站可以访问和修改他们的谷歌日历（不知道如何做到这一点） 我一直在试图弄清楚如何让这一切发挥作用由于我之前的经验只涉及 Firebase，所以我可以只使用 firebase 的 google 身份验证。但这次我需要访问谷歌日历，我认为 firebase 不直接支持它 我已经看过教程和东西，并遇到了 OAuth2 和 JWT，但说实话，我不知道它们是如何工作的。  有人有任何指示/资源可以让我朝着我想做的事情的正确方向前进吗？   由   提交/u/B1SQ1T   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfghgm/how_do_i_connect_a_bunch_of_different_services/</guid>
+      <pubDate>Sun, 28 Apr 2024 20:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>企业应用程序的渲染托管？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfb6an/render_hosting_for_enterprise_applications/</link>
-      <description><![CDATA[您好，我正在检查 render.com 是否托管应用程序，并且总是直接访问 AWS/GCP。但我喜欢它的简单和轻松。有人有通过 Render 托管专业企业应用程序的定价和可扩展性的经验吗？   由   提交/u/qpal123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfb6an/render_hosting_for_enterprise_applications/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:00:25 GMT</pubDate>
+      <title>Hostinger 新用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfg0gt/new_to_hostinger/</link>
+      <description><![CDATA[今天我决定尝试一下托管提供商，然后我决定选择 Hostinger。  完成所有付款流程并观看一些教程后，我将 html、css 和 js 作为 zip 上传到 public_html 文件夹。启动网站后，我收到 403 错误，在查看该错误的解决方案后，没有任何帮助。  我错过了一些明显的东西吗？   由   提交/u/RayGunny178  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfg0gt/new_to_hostinger/</guid>
+      <pubDate>Sun, 28 Apr 2024 20:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>渲染很长字符串时如何提高浏览器性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfatzn/how_to_improve_browser_performance_when_rendering/</link>
-      <description><![CDATA[嗨！ 这个codesandbox说明了我遇到的问题。我正在构建一个有大型数据网格的应用程序，随着单元格文本内容长度的增加，渲染性能会下降。大多数文本内容是不可见的（单元格上的overflow:hidden），因此浏览器只需要花精力处理少数可见的字符。 我可以使用哪些技术用于提高此性能？我的理解是，渲染性能主要受到元素 DOM 大小的影响，而不是文本大小的影响。 我已经虚拟化了这个网格，这有所帮助，但应用程序仍然很慢由于任何给定点屏幕上的单元格数量都很大，因此无法进行渲染。任何额外的帮助将不胜感激！   由   提交 /u/WillFry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfatzn/how_to_improve_browser_performance_when_rendering/</guid>
-      <pubDate>Sun, 28 Apr 2024 16:45:43 GMT</pubDate>
+      <title>立即创建这个流畅的动画选项卡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cffqdt/create_this_smooth_animation_tab_today/</link>
+      <description><![CDATA[       由   提交/u/kriptonian_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cffqdt/create_this_smooth_animation_tab_today/</guid>
+      <pubDate>Sun, 28 Apr 2024 20:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>归因或不归因</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfapkw/to_attribute_or_not_to_attribute/</link>
-      <description><![CDATA[假设有一个网站，有大量的网站设计灵感，它有免费的设计模板，我可以用于个人或商业用途，而且不需要归因。如果我在我的网站上使用这些模板之一，我是否应该归因于它们？   由   提交 /u/decim_watermelon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfapkw/to_attribute_or_not_to_attribute/</guid>
-      <pubDate>Sun, 28 Apr 2024 16:40:35 GMT</pubDate>
+      <title>作为按小时计费的承包商，我为自己构建了一个工具来帮助我更快地完成好工作。需要建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cffqbi/as_a_contractor_who_bills_by_the_hour_i_built/</link>
+      <description><![CDATA[因此，我构建了一个个人工具来帮助我更快、更一致地编写代码。老实说，这是一个非常好的工具。我从事合同开发工作，现在工作时间更少，这意味着薪水更少（这就是这个工具让我变得多产和高效的原因） 即使我的工具生成了代码（我编写的！）并大大缩短了时间，我是否仍应该按小时收费，就好像我从头开始工作和构建了某些东西一样？ 这有点像作弊，但事实并非如此，因为这都是我的代码。我工作中枯燥和重复的任务现在得到了处理。需要建议     提交人    /u/Dev918   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cffqbi/as_a_contractor_who_bills_by_the_hour_i_built/</guid>
+      <pubDate>Sun, 28 Apr 2024 20:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>什么是 DNS 以及我需要它吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfa6p3/whats_a_dns_do_i_need_it/</link>
-      <description><![CDATA[你好！我是一名艺术家，正在为我的网站/作品集和作品获取域名。在查找最佳域名注册商时，我看到很多人提到他们使用 cloudflare 作为“dns”。我做了一些谷歌搜索，但仍然不明白，哈哈，所以这是我需要的东西来托管我的愚蠢的小艺术页面吗？我打算只在我的网站上使用 wix一旦我拥有它，就链接我的域名。 ty!!   由   提交/u/frannypie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfa6p3/whats_a_dns_do_i_need_it/</guid>
-      <pubDate>Sun, 28 Apr 2024 16:18:07 GMT</pubDate>
+      <title>DNS 传播时间？我想我想得太多了，但需要在 5 月 1 日之前启动。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cffdum/dns_propagation_time_i_think_im_overthinking/</link>
+      <description><![CDATA[所以..愚蠢的我忘记了 DNS 传播需要 24-72 小时。值得庆幸的是，我比计划的发布日期提前了大约 4 天，并于昨天更新了所有 DNS 设置。 但是 - 我意识到我的域位于 Google Domains 下（我在其中更新了 DNS 信息），但我无法最初找到它，所以我使用 Weebly（这是我实际网站的托管位置）支付了 1 年的域名转移费用。我实际上还没有完成转账。该域名曾经并且仍然被锁定到 Google Domains。我想我刚刚获得了随期限转让的权利？之后，我根据 Weebly 数据更新了相应 Google 域名上的 DNS 设置。 我是不是想太多了，应该等到 24 小时标记还是我做错了什么？现在已经过去15个小时了。抱歉，如果我听起来很担心，因为我对这次发布感到非常兴奋，并且已经为此工作了几个月......   由   提交/u/drakon6192   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cffdum/dns_propagation_time_i_think_im_overthinking/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>基于滚动的动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf9rl9/animation_based_on_scroll/</link>
-      <description><![CDATA[有没有好的库推荐可以根据滚动位置制作动画？我正在使用 Vue/Nuxt 3    提交人    /u/Complete_Maybe_9344   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf9rl9/animation_based_on_scroll/</guid>
-      <pubDate>Sun, 28 Apr 2024 16:00:33 GMT</pubDate>
+      <title>“让你大吃一惊”的面试策略？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cffbbl/the_catch_you_by_surprise_interview_strategy/</link>
+      <description><![CDATA[大家好， 我最近申请了欧洲的两个职位 - 一个是技术主管，另一个是架构师 -并受两家公司邀请进行视频面试。在每种情况下，人力资源部都告诉我，面试将重点关注我的背景和动机。但面试时并没有HR代表在场；  有趣的是，第一次采访与预期的话题大相径庭。经理几乎没有触及我的背景或动机，而是使用在线编辑器启动了实时编码会话。第二次面试一开始问了一些关于我的背景的问题，但很快就变成了一系列技术问题。 虽然我不反对面试时问技术问题，但沟通内容与实际内容不一致实际发生的事情让我觉得不专业并且具有误导性。另外，我认为公司提前明确面试形式也很重要。 有没有其他人遇到过这种“出其不意”的情况？面试方式？我很好奇这是否正在成为一种新趋势。   由   提交/u/reditoro  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cffbbl/the_catch_you_by_surprise_interview_strategy/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>尽管使用最常见的方法，如何进一步缩短加载时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf9h7b/how_to_further_improve_loading_times_despite/</link>
-      <description><![CDATA[大家好，我正在做一个业余项目。这是我多年来在 Spotify 上最常播放的歌曲的库。这是一个 5 页的网站，除了一个页面外，所有页面加载速度都非常快。 它是图片/视频/音频文件数量最多的网站。该一页上总共有 32 个图像/音频文件/视频。 我已经压缩了音频文件，因此一个重量约为 2mb / 图像 &lt;&lt; 1mb 和视频 &lt; 4MB。  我已将所有视频和音频文件上传到谷歌云，编写了 JavaScript，使其仅在用户交互时播放，并且我添加了预加载“无”观看带有“推迟”字样的视频到 JS 文件。  我还能做些什么来提高速度？我的灯塔得分为 60-80，主要是因为加载速度。  感谢您的反馈   由   提交/u/RayGunny178  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf9h7b/how_to_further_improve_loading_times_despite/</guid>
-      <pubDate>Sun, 28 Apr 2024 15:48:13 GMT</pubDate>
+      <title>Vite和PostCss设置，无法使全局变量工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfez82/vite_and_postcss_setup_cant_get_global_variables/</link>
+      <description><![CDATA[大家好， 我正在尝试定义一些全局变量并稍后使用它们，但由于某种原因浏览器不应用这些变量风格。我可能会错过什么？我已将此文件导入到 main.tsx 中。我正在运行 React、Vite、TypeScript 和 PostCSS（我尝试过谷歌搜索几种解决方案，但似乎没有任何效果） --root { --lightColor: #0d387e; } h2 { 背景颜色：var(--lightColor); }    由   提交/u/dabe3ee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfez82/vite_and_postcss_setup_cant_get_global_variables/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器隔离 - Web 漏洞是否可以从不同浏览器窃取数据，或者内容是否被沙箱化？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf9b4d/browser_isolation_can_web_exploits_steal_data/</link>
-      <description><![CDATA[假设我使用 Chrome 来访问我的所有 Google 服务（Gmail 等） 然后我使用 Firefox（或 Edge）或 Brave）前往有问题的网站（Torrent 等），然后我点击某个内容。  理论上，此操作可以使恶意网站*跨*浏览器窃取我的密码/cookie吗？   由   提交 /u/fluiddynamicx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf9b4d/browser_isolation_can_web_exploits_steal_data/</guid>
-      <pubDate>Sun, 28 Apr 2024 15:40:51 GMT</pubDate>
+      <title>我们正在测试一个 github 操作机器人，它会自动批准离线农场网站的所有拉取请求。希望找人测试该机器人，看看它是否有效且不会被滥用。求求你了，谢谢你</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfesac/we_are_testing_a_github_action_bot_that/</link>
+      <description><![CDATA[    /u/PlanetRenox   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfesac/we_are_testing_a_github_action_bot_that/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个在线视频聊天应用程序（类似于 Omegle）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf90wz/i_built_an_online_video_chat_app_similar_to_omegle/</link>
-      <description><![CDATA[你好， 正如标题所说，我构建了一个视频聊天应用程序（类似于 Omegle），您可以在其中与随机用户。 我还为其创建了一个 YouTube 教程 👉 https://youtu.be/FamZMfLIYag Github 仓库 👉 https://github.com/benlhachemi/randomcall 享受： )   由   提交/u/Personal_Cost4756   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf90wz/i_built_an_online_video_chat_app_similar_to_omegle/</guid>
-      <pubDate>Sun, 28 Apr 2024 15:28:23 GMT</pubDate>
+      <title>Xampp无法在Windows 11中启动Mysql</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfejo1/xampp_unable_to_start_mysql_in_windows_11/</link>
+      <description><![CDATA[大家好， 我很困惑。我在 Windows 11 上使用 Xampp。初始安装正常，一切正常。然后突然这个错误不断出现。  ​  3:16:12 am [mysql] 这可能是由于端口阻塞、缺少依赖项、 3 :16:12 am [mysql] 权限不当、崩溃或通过其他方法关闭。  3:16:12 am [mysql] 按“日志”按钮查看错误日志并检查  3:16:12 am [mysql] Windows 事件查看器以获取更多线索 &lt; /p&gt; 3:16:12 am [mysql] 如果您需要更多帮助，请复制并发布此内容 3:16:12 am [mysql] 论坛上的整个日志窗口 &gt;  我尝试更改端口。仅适用于当天。从 330x 到 3377。 ​ 第二天，我刚启动 Xampp 控制面板，它就不再工作了。同样的错误。很烦人。  有什么想法吗？非常感谢。 ​ 此致， 回到网络编程。    由   提交 /u/Competitive-Sock-693   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfejo1/xampp_unable_to_start_mysql_in_windows_11/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>最令人沮丧的 JavaScript 怪癖？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf7ky0/most_frustrating_javascript_quirks/</link>
-      <description><![CDATA[对我来说，过去它一直在处理服务器端 SPA 的 popstates，并且最近在为选择元素运行异步操作 onchange 时更新 selectedIndex。  使用 JavaScript 可以做一些非常令人惊奇的事情，我的第一个项目是像 krunker 这样的第一人称射击游戏。  您在开发过程中遇到过的最令人沮丧的事情是什么？    由   提交/u/g0th_shawty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf7ky0/most_frustrating_javascript_quirks/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:23:36 GMT</pubDate>
+      <title>我拿到了第一份薪水，想宠坏自己。每个开发人员都应该具备哪些东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfe3yv/i_got_my_first_paycheck_and_wanna_spoil_myself/</link>
+      <description><![CDATA[我对我的设置没问题（显示器、电脑、平板电脑、办公桌），您可以建议我购买什么东西来改善我的工作环境吗？我正在考虑一些记事本和一些漂亮的笔（白板对我来说太麻烦了，我更喜欢记事本）   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfe3yv/i_got_my_first_paycheck_and_wanna_spoil_myself/</guid>
+      <pubDate>Sun, 28 Apr 2024 19:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>我想构建一个端到端加密聊天应用程序，我已经向 chatgpt 解释了我的整个布局以寻求建议，但它建议我使用数据库来存储数据。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cf6taz/i_want_to_build_an_end_to_end_encrypted_chat_app/</link>
-      <description><![CDATA[如果数据库要成为端到端加密的聊天室，我无法理解数据库有什么用。   由   提交 /u/WelcomeBeneficial742   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cf6taz/i_want_to_build_an_end_to_end_encrypted_chat_app/</guid>
-      <pubDate>Sun, 28 Apr 2024 13:48:11 GMT</pubDate>
+      <title>如何准备聘请网络开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfdwbr/how_to_prepare_for_hiring_a_web_dev/</link>
+      <description><![CDATA[网络开发人员会向我提出哪些类型的问题？他们需要了解该领域，是吗？他们还需要知道什么？ 关于薪酬呢？更具体地说，对于这样的事情来说，体面的报酬是什么样的，人们更喜欢怎样的报酬？一次性合同，或者如果我需要每六个月联系您更新一次，您预计如何获得报酬？多少钱？ 法律文件呢？签署法律文件同意不破坏网站、发布信息正常吗？ **不要私信我受聘这份工作。我不会通过 Reddit 招聘。只是来这里了解如何不浪费开发人员的时间和金钱。   由   提交/u/csmith70  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfdwbr/how_to_prepare_for_hiring_a_web_dev/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:54:28 GMT</pubDate>
     </item>
     <item>
-      <title>React StrictMode 导致 userData 两次发布到本地存储中。无需删除 StrictMode 可能会出现什么问题和解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cejqkx/react_strictmode_is_causing_the_userdata_to_be/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cejqkx/react_strictmode_is_causing_the_userdata_to_be/</guid>
-      <pubDate>Sat, 27 Apr 2024 17:21:01 GMT</pubDate>
+      <title>出于性能原因使用多个子域仍然有好处吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfdupj/are_there_still_benefits_of_using_several/</link>
+      <description><![CDATA[过去，据说使用多个子域有助于包含许多元素（如图像、视频、脚本）的网页加载速度更快，因为浏览器可以对单个域进行的同时连接（例如 6 个）的限制。 HTTP/2 和 HTTP/3 仍然存在此限制还是过去遗留下来的？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfdupj/are_there_still_benefits_of_using_several/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:52:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

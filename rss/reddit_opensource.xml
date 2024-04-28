@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:12:11 GMT</lastBuildDate>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
+    </item>
     <item>
       <title>为什么公司要为开源做出贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</link>
@@ -13,7 +27,7 @@
       <pubDate>Sun, 28 Apr 2024 17:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板❤️</title>
+      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板 ❤️</title>
       <link>https://www.reddit.com/r/opensource/comments/1cf4pxr/i_made_an_opensource_developer_portfolio_website/</link>
       <description><![CDATA[       由   提交/u/p00phed27  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cf4pxr/i_made_an_opensource_developer_portfolio_website/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 的 AudioSharing RTSP 替代方案？</title>
+      <title>Windows 的 AudioSharing RTSP 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
       <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 26 Apr 2024 18:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>Just Open-Sourced AppUpdater，一个 Mac 应用程序静默更新框架，作为 Sparkle 的轻量级替代品</title>
+      <title>刚刚开源 AppUpdater，一个 Mac App 静默更新框架，作为 Sparkle 的轻量级替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
-      <description><![CDATA[       由   提交/u/auv1107  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/auv1107   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</guid>
       <pubDate>Fri, 26 Apr 2024 14:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 MS-DOS 4.0 - 微软开源博客</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</link>
-      <description><![CDATA[       由   提交/u/hells_itch  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</link>
-      <description><![CDATA[   一个&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
