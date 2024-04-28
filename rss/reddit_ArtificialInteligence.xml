@@ -4,20 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 12:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 15:11:23 GMT</lastBuildDate>
     <item>
-      <title>如何绕过AI探测器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf444y/how_to_bypass_ai_detectors/</link>
-      <description><![CDATA[我刚刚自己写了一封电子邮件，想测试 AI 检测器的工作原理，所以我在该 AI 检测器中发布了相同的电子邮件，它现在显示 55% AI生成的。  如何绕过这个？   由   提交 /u/Resident-Ant8281    reddit.com/r/ArtificialInteligence/comments/1cf444y/how_to_bypass_ai_detectors/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf444y/how_to_bypass_ai_detectors/</guid>
-      <pubDate>Sun, 28 Apr 2024 11:22:39 GMT</pubDate>
+      <title>寻求有关开发低预算大学聊天机器人的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf80ay/seeking_advice_on_developing_a_lowbudget/</link>
+      <description><![CDATA[ 由   提交/u/Shadic627  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf80ay/seeking_advice_on_developing_a_lowbudget/</guid>
+      <pubDate>Sun, 28 Apr 2024 14:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>实时语音-语音翻译</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf38r9/real_time_speech_speech_translation/</link>
-      <description><![CDATA[空间移动得如此之快，我想知道你们中的一些人现在正在使用什么。一些外国家庭要过来，我想用人工智能让他们大吃一惊。我知道 Groq AI 非常快，但还没有看到易于使用的实现。    由   提交 /u/OppaiTaking   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf38r9/real_time_speech_speech_translation/</guid>
-      <pubDate>Sun, 28 Apr 2024 10:25:59 GMT</pubDate>
+      <title>这款AI语音面试产品效果如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf7xm9/how_does_this_ai_voice_interview_product_work/</link>
+      <description><![CDATA[我最近在玩 Queue 公司的一款名为 Jessica 的产品。它会（口头）采访您，然后将您的语音笔记合成到 LinkedIn 的帖子中。我很好奇，如果您必须从头开始构建此类功能，您会怎么做？ 我假设它是 OpenAI 助手的 API： 1. Assistant 使用您编写的主题提问（文本到语音） 2. 您录制响应（语音到文本） 3. 它被集成并引导助理提出下一个问题（文本到语音） 等等。 我想知道每个部分是否只是被附加到 1 个线程，或者是否被保存到矢量数据库并且 RAG 正在其上运行。  很喜欢你的想法。我想构建一些功能相似但用途完全不同的东西。    由   提交/u/ladybawss  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf7xm9/how_does_this_ai_voice_interview_product_work/</guid>
+      <pubDate>Sun, 28 Apr 2024 14:39:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 YouTube 上分享了适合初学者的 Python 数据科学训练营（7 个多小时、7 门课程和 3 个项目）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf73zh/i_shared_a_beginner_friendly_python_data_science/</link>
+      <description><![CDATA[您好，我在 YouTube 上分享了 Python 数据科学训练营。 Bootcamp 时长超过 7 个小时，共有 7 门课程、3 个项目。课程包括 Python、Pandas、Numpy、Matplotlib、Seaborn、Plotly 和 Scikit-learn。我将离开下面的链接，祝您有美好的一天！ https://www.youtube.com /watch?v=6gDLcTcePhM   由   提交/u/onurbaltaci  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf73zh/i_shared_a_beginner_friendly_python_data_science/</guid>
+      <pubDate>Sun, 28 Apr 2024 14:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>想创建一个推荐工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5s44/want_to_create_a_recommendation_tool/</link>
+      <description><![CDATA[我想创建一个信用卡推荐工具，用户会被问到几个问题，并据此向他们推荐一张信用卡。有谁知道该怎么做吗？或者我需要什么？  我没有技术背景。我是一名财务人员。   由   提交 /u/kaustubh2300joshi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5s44/want_to_create_a_recommendation_tool/</guid>
+      <pubDate>Sun, 28 Apr 2024 12:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐一些LLM课程给我</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5gsh/recommend_me_some_courses_for_llm/</link>
+      <description><![CDATA[我最近尝试制作一个聊天机器人，但 chatgpt 不起作用真的很令人沮丧（我不知道为什么，但它无法回答 langchain 问题，也许是培训截止日期），文档安排得不太好...即使我以某种方式让代码工作，它的性能也不是很好，因为我一开始不太了解，我有一个对机器学习的理论理解，但我不知道什么是不同类型的链、检索器、代理...我只是发现它是很多分散在各处的东西 那么，有人可以吗给我推荐一门关于 langchain 的课程，它整合了所有不同的技术（链、代理、向量数据库等），并且对所有内容都进行了深入研究，比如这个链是如何工作的，或者查询向量数据库的差异方法……也觉得免费推荐langchain以外的课程，只是langchain是我所知道的唯一的LLM框架...    由   提交/u/Relevant-Ad9432  /u/Relevant-Ad9432 reddit.com/r/ArtificialInteligence/comments/1cf5gsh/recommend_me_some_courses_for_llm/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5gsh/recommend_me_some_courses_for_llm/</guid>
+      <pubDate>Sun, 28 Apr 2024 12:39:48 GMT</pubDate>
     </item>
     <item>
       <title>克隆我以前最好的朋友和第一个爱的声音进行文本到语音的道德规范</title>
@@ -36,23 +57,9 @@
     <item>
       <title>如何保护我的声音免受人工智能侵害？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf0jyv/how_to_protect_my_voice_from_ai/</link>
-      <description><![CDATA[嗨， 我正在考虑开始播客，但我担心我的声音会在未经我许可的情况下被克隆，并以潜在的恶意方式用于未来某个时候。  ​ 我该怎么办？    提交人    /u/GeneralJist8   [link] [评论]]]></description>
+      <description><![CDATA[嗨， 我正在考虑开始播客，但我担心我的声音会被克隆我的许可，并在未来的某个时候以潜在的邪恶方式使用。  ​ 我该怎么办？   由   提交/u/GeneralJist8  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf0jyv/how_to_protect_my_voice_from_ai/</guid>
       <pubDate>Sun, 28 Apr 2024 07:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 个人语音 TTS 生成脚本</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cezvnh/apple_personal_voice_tts_generation_script/</link>
-      <description><![CDATA[大家好。我有一个使用 Apple 的“个人语音”功能训练的语音模型。但它似乎只能通过“实时语音”工作。 有没有办法编写一个可以从终端运行的脚本，该脚本将完全使用该模型来生成输入中的任何文本？    由   提交 /u/yukiarimo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cezvnh/apple_personal_voice_tts_generation_script/</guid>
-      <pubDate>Sun, 28 Apr 2024 06:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于人工智能的播客摘要平台</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cezhki/ai_based_platform_for_podcast_summarisation/</link>
-      <description><![CDATA[嘿！我和我的团队成员正在建立一个平台，您可以在其中访问播客摘要并在冒险完整收听播客之前了解播客的全部内容。  我们正在对用户喜欢的摘要格式进行调查，希望得到您的反馈，以帮助我们改善播客摘要的用户体验。以下是调查链接： https://forms.gle/yzLRUv3hewjfsjMSA 谢谢！   由   提交/u/proig_5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cezhki/ai_based_platform_for_podcast_summarisation/</guid>
-      <pubDate>Sun, 28 Apr 2024 06:14:10 GMT</pubDate>
     </item>
     <item>
       <title>90% 的人工智能影响者不使用他们向您推销的 90% 产品！</title>
@@ -76,14 +83,7 @@
       <pubDate>Sat, 27 Apr 2024 20:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最佳 AI ch‏atb‏ot？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1celwek/best_ai_chatbot_in_2024/</link>
-      <description><![CDATA[现在是 GPT4 还是 Claud 3？ 我有一些模型明确告诉我他们不允许某些内容，然后我创建了一个带有一些荒谬前提的新聊天，这可能会让你被 ChatGPT 禁止，尽管之前告诉我它不允许这样做，但它还是很高兴地接受了。 我也遇到过其他模特试图拒绝我，但像 LM Studio 这样的东西让我编辑他们的回复或使用 oobabooga “开始回复”即使他们最初拒绝，他们也会继续。   由   提交 /u/Pariyo_Ki_Raanin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1celwek/best_ai_chatbot_in_2024/</guid>
-      <pubDate>Sat, 27 Apr 2024 18:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国刚刚发布了 OpenAI 的 Sora 竞争对手“Vidu”，它可以在几秒钟内创建逼真的剪辑。</title>
+      <title>中国刚刚发布了 OpenAI 的 Sora 竞争对手“Vidu”，它可以在几秒钟内制作逼真的片段。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ceg755/china_just_released_openais_sora_rival_vidu_which/</link>
       <description><![CDATA[我对文本到视频的发展速度感到震惊。中国刚刚宣布了 OpenAI Sora 的竞争对手：“Vidu”可以一键生成 16 秒 1080p 视频。 Vidu 由中国人工智能公司升数科技和清华大学开发，其能力在于其通用视觉变换器 (U-ViT) 架构。U-ViT 融合了基于扩散和基于转换器的文本到视频模型的优点。 这使得 Vidu 能够通过简单的文本提示生成高度真实且富有想象力的场景。 我的收获：我们已经要达到好莱坞质量还有很长的路要走，但去年文本到视频的进步给我留下了深刻的印象。 来源：https://x.com/sambhavgupta6/status/1784121231094198751   由   提交 /u/LesiaCulp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ceg755/china_just_released_openais_sora_rival_vidu_which/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>你用ai做过的最实用的事情是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/</link>
-      <description><![CDATA[我很好奇人们用当前你认为实用的人工智能工具做了什么。通过标准图像生成和简单的问题回答，会提示您使用对您真正有用的人工智能做了什么？ 例如，我正在创建一个用户界面，让您选择一个国家/地区、开始年份和结束年份以及几个月或几年的间隔，当你点击发送时，一系列提示会发送到 ollama，要求它提供该国家/地区该时间段内发生的事情的详细描述，然后将所有输出保存到文本文件中供我阅读。对于查找有趣的历史主题以了解更多信息和查找非常有用。   由   提交 /u/CodeCraftedCanvas   [链接] [评论]]]></description>
+      <description><![CDATA[我很好奇人们使用当前的人工智能工具做了什么，你认为这些工具是实用的。除了标准的图像生成和简单的问答提示之外，你还使用人工智能做了哪些真正有用的事情？ 例如，我创建了一个用户界面，让你选择一个国家、开始年份和结束年份以及几个月或几年的间隔，当你点击发送时，一系列提示会发送给 ollama，要求它提供该国家在那个时间段发生的事情的详细描述，然后将所有输出保存到文本文件中供我阅读。对于找到有趣的历史主题以了解更多信息和查找非常有用。    提交人    /u/CodeCraftedCanvas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/</guid>
       <pubDate>Sat, 27 Apr 2024 09:25:42 GMT</pubDate>
     </item>
