@@ -4,11 +4,11 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:09:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:54:17 GMT</lastBuildDate>
     <item>
       <title>AI 新闻：新 LLM 胜过 GPT4 Turbo</title>
       <link>https://www.reddit.com/r/GPT3/comments/1cdrvxa/ai_news_new_llm_trumps_gpt4_turbo/</link>
-      <description><![CDATA[以下是今日人工智能新闻的头条：  新模型击败 GPT：中国科技公司商汤科技推出了一款新的 LLM，其能力在几乎所有关键基准测试中都击败了 GPT4-Turbo Apple 发布 OpenELM：Apple 悄然发布了一系列小型开放模型，可在 iPhone 等设备上有效高效运行； macs Sanctuary AI 新机器人：Sanctuary AI 发布第 7 代凤凰人形机器人，对物理设计人工智能系统进行了重大改进等等 Adobe 推出 VideoGigaGAN：新功能能够将视频放大 8 倍，具有惊人的清晰度和最小的质量损失 埃隆的大胆声明：在第一季度特斯拉财报电话会议上，埃隆马斯克声称他相信 optimus 将“比公司所有产品的总和更有价值” Cognition Labs 新融资：Devin AI 的创始人 Cognition Labs 宣布新一轮融资，对唯一一家成立 6 个月的公司估值超过 20 亿美元  更多深入文章 - https://mapleai.beehiiv.com/p/new-chinese-llm-trumps-gpt4-turbo    由   提交  /u/ArFiction   [链接] [评论]]]></description>
+      <description><![CDATA[以下是今日人工智能新闻的头条新闻：  新模型击败 GPT ：中国科技公司商汤科技推出了新的 LLM，其能力在几乎所有关键基准测试中都击败了 GPT4-Turbo Apple 发布 OpenELM：Apple 悄然发布了一系列小型开放模型有效地运行&amp;在 iPhone 等设备上高效运行macs Sanctuary AI 新机器人：Sanctuary AI 发布第七代凤凰人形机器人，对物理设计人工智能系统进行重大改进等  Adobe 推出 VideoGigaGAN：新功能能够将视频放大 8 倍，并具有极高的清晰度和最小的质量损失 Elon 的大胆声明：在特斯拉第一季度财报电话会议中，El​​on马斯克声称，他相信 Optimus 将“比公司所有产品的总和更有价值” Cognition Labs 新融资：Devin AI 背后的创始人 Cognition Labs 宣布新一轮融资估值唯一一家成立时间超过 20 美元的 6 个月公司  更深入的文章 - https://mapleai.beehiiv.com/p/new-chinese-llm-trumps-gpt4-turbo  &amp; #32；由   提交 /u/ArFiction   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1cdrvxa/ai_news_new_llm_trumps_gpt4_turbo/</guid>
       <pubDate>Fri, 26 Apr 2024 17:53:40 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>Whatsapp 群聊历史记录之上的聊天机器人 - 如何构建？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1cbd28g/chatbot_on_top_of_whatsapp_group_chat_history_how/</link>
-      <description><![CDATA[嘿， 问题：我加入了一个本地 Whatsapp 家长群，该群有大约 200 名成员，每周都有新人加入。每隔几周，人们就会问同样的问题，询问推荐人（牙医、理发、保姆等），这变得非常重复。 解决方案（尝试）：我希望可以查询聊天记录来获取过去的推荐（群组已经活跃了大约 2 年），包括推荐人的姓名和日期。 - 我导出了 Whatsapp 聊天记录（9k 条消息），并将其用作 OpenAI 上自定义 GPT 的知识库（仅适用于 Plus 订阅者）。它显示出一些希望，但也有很多错误--&gt;  - 它产生了幻觉 - 错误引用了推荐人和日期，即使我要求列出所有提到的内容，它也会错过一些建议。我希望它仅使用文件中的信息和文件中的所有信息。事实证明，这比我想象的要难。  - 它也与答案格式不一致，即使我指定了我总是想要推荐人和日期的人 - 它只能由 Plus 订阅者使用 - 没有办法与小组成员分享，所以他们在小组中发帖之前先询问聊天记录 有什么想法吗？  - 关于如何调整 GPT 或在哪里建立替代方案的任何建议？它不需要集成到给定的 Whatsapp 组中，我可以让聊天机器人位于它自己的链接中的某个地方。  我希望得到一些非常轻量级的东西。  ​ ​    提交人    /u/ApprehensiveNotice90   [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 问题：我在当地的 Whatsapp 家长小组中，约有 200 名成员，每周都有新人加入。人们每隔几周就会问同样的问题来寻求建议（牙医、理发、保姆等），而且事情变得非常重复。  解决方案（尝试）：我希望人们可以查询聊天历史记录以获取过去的推荐（该组已活跃约 2 年）以及推荐者的姓名和名称。日期。  - 我导出了 Whatsapp 聊天历史记录（9k 条消息），并将其用作 OpenAI 上自定义 GPT 的知识库（仅适用于 Plus 订阅者）。它显示出一些希望，但存在很多错误 --&gt;   - 它产生幻觉 - 错误引用推荐人、日期，即使我要求列出提到的所有内容，也会错过一些推荐。我希望它只使用文件中的信息以及文件中的所有信息。事实证明这比我想象的要难。   - 它也与答案格式不一致，即使我指定我总是希望推荐的人＆amp;日期  - 它只能由 Plus 订阅者使用 - 无法与群组成员共享它，以便他们在群组中发帖之前先询问聊天记录 IDEAS？   - 关于如何调整 GPT 或在哪里构建替代方案有什么建议吗？它不需要集成到给定的 Whatsapp 组中，我可以让聊天机器人位于其自己的链接上的某个位置。  我希望有一些非常轻量级的东西。  ​ ​   由   提交/u/AppressiveNotice90  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1cbd28g/chatbot_on_top_of_whatsapp_group_chat_history_how/</guid>
       <pubDate>Tue, 23 Apr 2024 19:11:21 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 18 Apr 2024 08:34:28 GMT</pubDate>
     </item>
     <item>
-      <title>在德语中使用 CHATGPT3 / 从正式演讲切换到非正式演讲</title>
+      <title>在德语中使用 CHATGPT3 / 从正式讲话转换为非正式讲话</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c6wr03/using_chatgpt3_in_german_switching_from_formal_to/</link>
       <description><![CDATA[大家好， ​ 我使用 ChatGPT 最常见的任务之一正在优化工作邮件。对于英语，我觉得这很有效，但是当用德语写邮件时，它总是使用高度正式的演讲“Sie 而不是 DU”。  我有一些客户坚持要求你使用“Du”来表达。以他们的形式交流。我仍然希望给这位客户的邮件仍然使用专业和雄辩的语言，但使用“Du”字样。而不是“谢”。  有没有人想出一个提示可以帮助 ChatGPT 更好地理解我需要的语气语言？   由   提交 /u/c00lstone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c6wr03/using_chatgpt3_in_german_switching_from_formal_to/</guid>
