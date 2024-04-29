@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 29 Apr 2024 03:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 06:15:58 GMT</lastBuildDate>
+    <item>
+      <title>媒体作曲家和信用卡到期</title>
+      <link>https://www.reddit.com/r/editors/comments/1cfpy8x/media_composer_and_credit_card_expiration/</link>
+      <description><![CDATA[早在 2021/2022 年，我就设法获得了 MC 的永久许可证，我知道 Avid 从那以后就不再将 MC 作为除订阅。我的卡即将到期，我想知道如果我不在 Avid 帐户上更换它，是否会失去我的永久许可证？他们向我发送了一封电子邮件作为警告，但我不想给我一张新卡，因为我不打算购买其他任何东西或意外地因他们的新订阅模式而被收取费用。由于永久许可证不存在，不确定下一步应该做什么。谢谢！   由   提交 /u/SnakeuChan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cfpy8x/media_composer_and_credit_card_expiration/</guid>
+      <pubDate>Mon, 29 Apr 2024 04:10:20 GMT</pubDate>
+    </item>
     <item>
       <title>Blackmagic braw 在 Premiere Pro 中不起作用</title>
       <link>https://www.reddit.com/r/editors/comments/1cfkhxu/blackmagic_braw_not_working_in_premiere_pro/</link>
@@ -76,14 +83,14 @@
       <pubDate>Sat, 27 Apr 2024 20:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Davinci 将“AAF SYNC”移交给音响师</title>
+      <title>将“AAF SYNC”交给达芬奇音响人</title>
       <link>https://www.reddit.com/r/editors/comments/1ceifvr/handing_over_aaf_sync_to_sound_people_with_davinci/</link>
       <description><![CDATA[好吧，伙计们，首先，抱歉，英语不是我的母语，所以我不知道这里正确的行话是什么。 基本上，众所周知，当您完成一个项目并且必须将其交给声音人员时，您必须给他们几个 AAF 文件。一个是您的项目时间线 - 包含音效、替换台词、j 剪切、l 剪切等等 - 另一个是我们这里所说的“AAF 同步”。它的字面意思是“AAF Sync”，尽管我们在意大利。第二个 AAF 只是相应播放剪辑的原始同步音频。没有音效，没有真正的音频编辑，甚至没有淡入淡出，只有原始的同步声音完全反映了视频剪切的方式。 现在，我的问题是，有没有一种不错的方法来创建这样的时间线在达芬奇？在 Avid 中这已经很烦人了 - 转到剪辑的开头，按 T 在剪辑的确切开头和结尾处设置入点和出点，单击匹配帧以检索原始文件，确保仅选择音轨而不是视频，按 B 将原始音频猛击到剪辑下，冲洗并重复整个可怕的事情。 你知道在达芬奇中是否有一种有效的方法可以做到这一点，而无需手动拖动并调整每个剪辑下的原始声音？ 另外，美国/英国的你们怎么称呼这个该死的“AAF SYNC”？文件？你有它的名字吗？   由   提交/u/pontiacband1t-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ceifvr/handing_over_aaf_sync_to_sound_people_with_davinci/</guid>
       <pubDate>Sat, 27 Apr 2024 16:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>RED Komodo 视频带有不需要的音轨。需要帮助删除。</title>
+      <title>RED Komodo 视频带有不需要的音轨。需要帮助移除。</title>
       <link>https://www.reddit.com/r/editors/comments/1ceibem/red_komodo_video_comes_with_unwanted_audio_track/</link>
       <description><![CDATA[第一次在这里发帖，对于编辑来说相对较新，所以请原谅我的无知。 我拍摄了 2 天的镜头我们录制单独音频的短片。当我们将视频上传到Davinci Resolve（付费版本18.6）时，我们发现该视频有一个嗡嗡声的音轨，这似乎阻止了我自动同步我的外部录音。  有没有办法删除、禁用或删除这个不需要的音轨？ 请注意，我们无法卡住相机和板岩来同步时间码，但在过去，当我使用这个 RED Komodo 时，没有这种不需要的音频来阻止同步和基于波形的同步完美地工作。  &amp; #32；由   提交 /u/XenoVisthra   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ceibem/red_komodo_video_comes_with_unwanted_audio_track/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>我应该购买 Mac Mini M2 来进行编辑工作吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cegfke/should_i_buy_the_mac_mini_m2_for_edit_work/</link>
-      <description><![CDATA[我一直计划在家里建立自己的编辑设置，我正在考虑购买 mac mini m2。我主要使用的软件是 premiere pro、after effects、photoshop 和一些 resolve。Pro Res422、4k 素材可能是我会使用的最高分辨率素材。有什么建议可以告诉我这是否是个好主意，或者是否有其他我应该考虑的替代方案？    提交人    /u/TonightDifferent55   [link] [评论]]]></description>
+      <description><![CDATA[我一直计划在家里构建自己的编辑设置，并且正在考虑购买 mac mini m2。我主要使用的软件是 Premiere Pro、After Effects、Photoshop，也许还有一些 Resolve。 Pro Res422、4k 素材可能是我能使用的最高分辨率的素材。关于这是否是一个好主意或者是否有我应该考虑的替代方案有什么建议吗？   由   提交/u/TonightDifferent55  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cegfke/should_i_buy_the_mac_mini_m2_for_edit_work/</guid>
       <pubDate>Sat, 27 Apr 2024 14:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户希望我使用 CapCut</title>
-      <link>https://www.reddit.com/r/editors/comments/1cedob0/client_want_me_to_use_capcut/</link>
-      <description><![CDATA[叹气 我有一个客户坚持使用 CapCut 而不是 Premiere，因为 CapCut 有“系统”字体. 根据互联网进行了一些研究，发现 dfp king gothic media 是等效的......。  有人知道等价物是什么吗？ 我真的很讨厌使用 CapCut    由   提交/u/Abman117  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cedob0/client_want_me_to_use_capcut/</guid>
-      <pubDate>Sat, 27 Apr 2024 12:44:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

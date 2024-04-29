@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 02:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 06:12:41 GMT</lastBuildDate>
     <item>
-      <title>我为 AT&T UNIX PC 开发了一个模拟器，可以启动 3B1 UNIX 操作系统 [...]</title>
-      <link>https://t.me/hn_summary/86937</link>
-      <description><![CDATA[FreeBee：AT&amp;T Unix PC 模拟器
-我为AT&amp;T UNIX PC开发了一个模拟器，可以启动3B1 UNIX操作系统并运行各种软件。目前，该模拟器无法模拟串行端口、打印机端口或调制解调器，但我正在致力于为 Linux、Windows 和 Mac OS X 创建虚拟设备。特别感谢 Antoni Sawicki 捐赠 AT&amp;T UNIX PC 系统和软件磁盘，以及 Andrew Warkentin 和 Jesse Booth 对改进仿真做出的贡献。此外，您还可以在该网站上找到启动 ROM 和扫描的技术参考文档等资源。]]></description>
-      <guid>https://t.me/hn_summary/86937</guid>
-      <pubDate>Mon, 29 Apr 2024 02:57:33 GMT</pubDate>
+      <title>问 HN：我不能再喜欢 React，你呢？</title>
+      <link>https://t.me/hn_summary/86951</link>
+      <description><![CDATA[问 HN：我不再喜欢 React，你呢？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者分享他们从 2010 年作为前端爱好者开始使用 React 的旅程。他们称赞 React 的简单、优雅和易用性，使他们能够在新团队的短短 3 天内提高工作效率。然而，他们对 React 引入钩子、HOC、Redux 等的方向表示失望，这使得状态管理变得混乱，代码程序化程度降低。作者甚至用纯 JavaScript 创建了一个聊天应用程序，发现它非常容易理解和维护。他们强调了简单、过程化代码的好处以及使用 IDE 轻松重构的好处。]]></description>
+      <guid>https://t.me/hn_summary/86951</guid>
+      <pubDate>Mon, 29 Apr 2024 06:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]悄悄辞职：总是有朝九晚五的员工，但这是一种令人毛骨悚然的不适</title>
-      <link>https://t.me/hn_summary/86936</link>
-      <description><![CDATA[安静地辞职：总是有朝九晚五的员工，但这是一种蔓延的不适
-“悄悄离职”已成为疫情后的普遍问题，员工不再愿意为雇主做出超越自己的事情。这种微妙的阻力对于管理者来说很难处理，因为这些“安静的放弃者”继续毫无怨言地达到他们的工作量标准。专家建议雇主需要重新评估员工的责任并通过提供必要的支持来解决疲劳问题。这场流行病给员工带来了损失，导致一些年龄段的人几乎不加掩饰的愤怒和易怒。虽然理解很重要，但管理者仍然必须满足他们的 KPI。员工援助计划和奖励等小举动可以发挥作用，即使它们可能无法影响所有安静的放弃者。]]></description>
-      <guid>https://t.me/hn_summary/86936</guid>
-      <pubDate>Mon, 29 Apr 2024 02:44:26 GMT</pubDate>
+      <title>隆重推出 Google Bard 或 Gemini，这是一个大型语言模型的界面，允许用户 [...]</title>
+      <link>https://t.me/hn_summary/86950</link>
+      <description><![CDATA[显示 HN：Bard PDF – 在 Google Bard 或 Gemini 中与 Pdf 聊天
+隆重推出 Google Bard 或 Gemini，这是一个大型语言模型的接口，允许用户与生成式人工智能进行协作。虽然您无法直接上传 PDF 文件，但 Bard 或 Gemini 可以根据文件内容进行识别和交互。令人惊讶的是，它可以生成 PDF 文件摘要并执行文件分析。但是，使用在线 PDF 只会根据文档名称提示响应，而不是其内容。为了获得更加用户友好的体验，请尝试 ChatPDF 以获得更好的交互和图形界面。探索以全新方式处理 PDF 文件的可能性。请访问 bardpdf.dev 了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/86950</guid>
+      <pubDate>Mon, 29 Apr 2024 06:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Haystack DB 是一个最小但高性能的矢量数据库，其设计速度比 [...] 快 10 倍。</title>
-      <link>https://t.me/hn_summary/86935</link>
-      <description><![CDATA[Haystack DB – 默认情况下采用二进制嵌入，比 FAISS 快 10 倍
-Haystack DB 是一个最小但高性能的矢量数据库，默认情况下，其速度比采用二进制嵌入的 FAISS 快 10 倍。它提供了诸如用于查询的 JSON 过滤、用于多副本部署的可扩展分布式架构以及持久、持久的数据等功能，这些数据经过内存映射以便在客户端中快速访问。尽管将数据存储在磁盘上并使用暴力破解，Haystack 在基准测试中的表现仍优于 FAISS，速度快了大约 10 倍。该项目的路线图包括 int8 重新排序、更好的查询、全文搜索、改进的插入性能、时间点备份/回滚、基于游标的分页和架构迁移的计划。]]></description>
-      <guid>https://t.me/hn_summary/86935</guid>
-      <pubDate>Mon, 29 Apr 2024 02:15:14 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克在中国的战略举措已被证明是成功的，特斯拉克服了障碍 [...]</title>
+      <link>https://t.me/hn_summary/86949</link>
+      <description><![CDATA[特斯拉与百度合作扫清了中国辅助驾驶的关键障碍
+事实证明，埃隆·马斯克在中国的战略举措是成功的，特斯拉克服了障碍，将其驾驶辅助系统引入中国市场。特斯拉将与百度合作开发地图和导航，推出全自动驾驶技术。此外，该公司还解决了数据安全问题，这是一个过去一直困扰特斯拉的有争议的问题。这笔交易不仅展示了特斯拉对创新的承诺，还凸显了战略合作伙伴关系在驾驭中国等复杂市场方面的重要性。]]></description>
+      <guid>https://t.me/hn_summary/86949</guid>
+      <pubDate>Mon, 29 Apr 2024 05:44:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]热门真人秀节目《最大的失败者》揭示了 [...]</title>
-      <link>https://t.me/hn_summary/86934</link>
-      <description><![CDATA[运动、新陈代谢和体重：来自《减肥达人》的新研究&lt; /a&gt;
-热门真人秀《减肥达人》阐明了运动、新陈代谢和减肥之间的关系。研究表明，剧烈减肥会导致新陈代谢显着减慢，如果不极端限制热量摄入，就很难维持减肥效果。令人惊讶的是，保持体重减轻最多的参赛者具有最大的代谢适应能力，这可能是由于体力活动的持续增加所致。这凸显了运动对于成功维持体重的重要性。虽然需要更多的研究来充分理解这些关系，但关键是适量吃天然食品，避免加工食品，并保持活跃以达到和保持健康的体重。]]></description>
-      <guid>https://t.me/hn_summary/86934</guid>
-      <pubDate>Mon, 29 Apr 2024 01:56:05 GMT</pubDate>
+      <title>[媒体]作者讲述了在东京与一位外国人的奇怪遭遇，该外国人向他 [...]</title>
+      <link>https://t.me/hn_summary/86948</link>
+      <description><![CDATA[外国人在东京的求助让我们为社会现状感到悲伤
+作者讲述了在东京遇到一名外国人的奇怪遭遇，这名外国人向他寻求帮助寻找便宜的住宿，而他手里只有 660 日元。作者产生了怀疑，想知道这是 YouTube 的恶作剧还是真诚的求助。这次遭遇让作者对社会现状感到悲哀，不断上升的成本和潜在的恶作剧让人很难辨别人们的真实意图。作者很好奇其他人是否有类似的经历，并邀请读者分享他们的故事。]]></description>
+      <guid>https://t.me/hn_summary/86948</guid>
+      <pubDate>Mon, 29 Apr 2024 05:37:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 无人机制造商大疆创新面临美国制裁</title>
-      <link>https://t.me/hn_summary/86933</link>
-      <description><![CDATA[无人机制造商大疆面临美国FCC禁令
-由于国家安全担忧，中国受欢迎的无人机制造商大疆创新可能在美国面临禁令。美国国会正在制定两党立法，将大疆创新列入联邦通信委员会的黑名单，从而有效地结束该公司在美国的业务。大疆创新否认侵犯人权和监视的指控，但对拥有该公司部分股份的中国国有企业的担忧仍然存在。该禁令可能会影响大疆在商用无人机市场 58% 的市场份额。此举类似于对华为和 TikTok 等其他科技公司的禁令，并可能使市场上的其他无人机公司受益。]]></description>
-      <guid>https://t.me/hn_summary/86933</guid>
-      <pubDate>Mon, 29 Apr 2024 01:32:25 GMT</pubDate>
+      <title>[媒体]在这项研究中，我们探讨了教学视频中的步数差异对学习的影响[...]</title>
+      <link>https://t.me/hn_summary/86947</link>
+      <description><![CDATA[教学视频中的步骤差异
+在这项研究中，我们探讨了教学视频中的步数差异对学习成果的影响。我们的研究结果表明，改变视频中步骤的长度和复杂性可以显着影响观看者保留和应用所呈现信息的能力。令人惊讶的是，我们发现与更长、更详细的步骤相比，更短、更简洁的步骤可以带来更好的理解和记忆。这对于希望优化教学视频效果的教育工作者和内容创作者具有重要意义。有争议的是，有些人可能会认为更长的步骤可以提供更彻底的解释，但我们的研究挑战了这一观点。]]></description>
+      <guid>https://t.me/hn_summary/86947</guid>
+      <pubDate>Mon, 29 Apr 2024 05:26:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，我们深入研究了数据科学学生在介绍[...]时所犯的常见错误。</title>
-      <link>https://t.me/hn_summary/86932</link>
-      <description><![CDATA[数据科学专业学生常犯的错误
-在这篇文章中，我们根据密歇根大学进行的一项研究，深入探讨了数据科学学生在入门课程中犯的常见错误。这些错误的范围包括由于误解数据而导致的逻辑错误、由于不正确的函数使用而导致的语义错误、次优的编码实践以及对 Python 和 Jupyter Notebook 的误解。这些发现的意义凸显了在数据科学入门课程中关注数据素养、数据科学库编程以及代码优化的必要性。这项研究的一个独特之处是部署了人工智能导师，帮助学生不仅了解代码的正确性，还了解数据科学的领域知识和最佳实践。]]></description>
-      <guid>https://t.me/hn_summary/86932</guid>
-      <pubDate>Mon, 29 Apr 2024 01:31:21 GMT</pubDate>
+      <title>[媒体]Apple Vision Pro 的继任者预计要到 2026 年底才会推出，苹果面临 [...]</title>
+      <link>https://t.me/hn_summary/86946</link>
+      <description><![CDATA[Apple Vision Pro 继任者预计要到 2026 年底才会推出 
+Apple Vision Pro 的继任者预计要到 2026 年底才会推出，苹果面临着降低组件成本以使 AR 耳机更便宜的挑战。苹果当前一代产品的售价为 1,542 美元，苹果通过评估中国显示器供应商的微型 OLED 面板来降低成本。一款低成本耳机可能会在 2025 年推出，配备 iPhone 芯片组和更差的显示屏。国际扩张，包括在中国的推出，即将到来。苹果混合现实部门的未来取决于解决定价问题，以及与中国面板制造商建立潜在合作伙伴关系以降低显示成本。]]></description>
+      <guid>https://t.me/hn_summary/86946</guid>
+      <pubDate>Mon, 29 Apr 2024 05:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple MacBook Air 15 英寸 M3 是一款令人惊叹的设备，其设计令人印象深刻，[...]</title>
-      <link>https://t.me/hn_summary/86931</link>
-      <description><![CDATA[Apple MacBook Air 15 英寸 M3 评测 - Thurrott.com
-Apple MacBook Air 15 英寸 M3 是一款令人惊叹的设备，其设计、性能和电池寿命令人印象深刻。时尚优雅的设计以及独特的颜色选择使其脱颖而出。该显示屏是一流的，提供清晰的视觉效果和出色的色彩准确性。内部组件由 Apple Silicon M3 芯片供电，可提供出色的性能，而不会出现任何噪音或热量问题。连接选项很现代，支持 Wi-Fi 6E 和蓝牙 5.3。键盘和触摸板舒适且反应灵敏。总体而言，MacBook Air M3 是风格与实质的近乎完美结合，为大多数用户提供了无与伦比的价值。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86931</guid>
-      <pubDate>Mon, 29 Apr 2024 01:30:17 GMT</pubDate>
+      <title>[媒体]2月份，韩国活产儿数量创历史新低，连续5年跌破2万 [...]</title>
+      <link>https://t.me/hn_summary/86945</link>
+      <description><![CDATA[韩国2月份死亡人数连续第52个月超过出生人数
+2 月份，韩国的活产人数创历史新低，自 1981 年开始追踪以来首次跌破 20,000 人。该国的活产人数为 19,362 人，死亡人数为 29,977 人，自然减少了 10,614 人。这标志着死亡人数连续第 52 个月超过出生人数，引发了对该国人口下降的担忧。出生人数下降的趋势已经持续了 17 个月，2023 年 12 月的出生人数最低为 16,253 人。该数据凸显了韩国人口挑战的紧迫问题以及制定政策解决出生率下降问题的必要性。]]></description>
+      <guid>https://t.me/hn_summary/86945</guid>
+      <pubDate>Mon, 29 Apr 2024 04:58:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Block 和 AgentFormer 是一个结合了 BlockStar 算法的项目，这是一个多块 [...]</title>
-      <link>https://t.me/hn_summary/86930</link>
-      <description><![CDATA[Block* 和 AgentFormer – 玩积木和变形金刚（耶）&lt; /a&gt;
-Block 和 AgentFormer 是一个项目，它将 BlockStar 算法（一种用于重新排列块的多块 A 算法）与 AgentFormer（一种转换 BlockStar 的输入和输出的字符级转换器）相结合。该项目的灵感来自作者作为预制混凝土工地工人的经历，在那里他们经常做比移动砌块所需的更多的工作。 BlockStar 算法用于遗传算法中，以找到将块移动到目标位置的最佳路径，成功的结果将被保存并输入变压器以训练语言模型。该项目通过结合这些算法来优化块移动效率而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/86930</guid>
-      <pubDate>Mon, 29 Apr 2024 01:28:12 GMT</pubDate>
+      <title>在这篇富有洞察力的文章中，Frank J.</title>
+      <link>https://t.me/hn_summary/86944</link>
+      <description><![CDATA[为什么亚伯拉罕·林肯是共和党人（2008）&lt; br/&gt;
+在这篇富有洞察力的文章中，弗兰克·J·威廉姆斯探讨了亚伯拉罕·林肯为何做出成为共和党人的关键决定，这一决定塑造了该党的历史。尽管林肯出身辉格党，但他对自由和平等原则坚定不移的信念促使他加入了共和党，共和党一致反对扩大奴隶制。林肯的影响力使该党从一个单一问题的团体转变为致力于更广泛的自由和乐观理想的团体。他作为共和党人的遗产得以延续，因为他相信人们在自由时才能处于最佳状态，这仍然是国家的基本原则。]]></description>
+      <guid>https://t.me/hn_summary/86944</guid>
+      <pubDate>Mon, 29 Apr 2024 04:28:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]联邦存款保险公司宣布共和第一银行已[...]</title>
-      <link>https://t.me/hn_summary/86929</link>
-      <description><![CDATA[FDIC 表示宾夕法尼亚州监管机构关闭了共和第一银行 
-联邦存款保险公司宣布，宾夕法尼亚州监管机构关闭了共和第一银行，这是今年第一家美国银行倒闭。该银行拥有 60 亿美元资产和 40 亿美元存款。富尔顿银行将承担存款和资产。与去年的地区银行倒闭相比，这次倒闭规模较小。该银行的 32 家分行将在富尔顿银行旗下重新开业。由于高利率，区域银行面临着充满挑战的时期。去年硅谷银行的倒闭引发了更广泛的危机。纽约社区银行近期也面临挑战。]]></description>
-      <guid>https://t.me/hn_summary/86929</guid>
-      <pubDate>Mon, 29 Apr 2024 01:20:04 GMT</pubDate>
+      <title>[媒体]乌鸦是非常聪明的生物，最近的研究表明它们拥有[...]</title>
+      <link>https://t.me/hn_summary/86943</link>
+      <description><![CDATA[乌鸦像人类一样有自我意识，它们可能像人类一样像大猩猩一样聪明
+乌鸦是非常聪明的生物，最近的研究表明它们具有自我意识，可能和大猩猩一样聪明。他们可以执行复杂的任务，使用工具解决问题，甚至哀悼死者。研究表明，乌鸦的大脑中神经元排列紧密，可以实现脑细胞之间的有效沟通。虽然一些科学家质疑乌鸦是否真的有意识，但另一些科学家认为，它们的能力表明了可以追溯到数百万年前的感官意识水平。争论仍在继续，但有一件事是明确的：乌鸦拥有令人印象深刻的大脑，这使它们与其他鸟类区别开来。]]></description>
+      <guid>https://t.me/hn_summary/86943</guid>
+      <pubDate>Mon, 29 Apr 2024 04:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个项目是一个用 Java 编写的填字游戏填充程序，可以找到有效的英语 cr [...]</title>
-      <link>https://t.me/hn_summary/86928</link>
-      <description><![CDATA[我在Wayback Machine 及其运行
-该项目是一个用 Java 编写的填字游戏填充程序，它基于具有可选部分完成的网格模式查找有效的英语填字游戏填充。作者在 Wayback Machine 上找到了该程序，他们于 2011 年在 MediaFire 上发布了该 jar 文件。他们能够在 2023 款 MacBook Air 上下载并运行该程序，并相信它也应该在其他计算机上运行。该程序使用波束搜索，用 Java 编写，带有 Java Swing UI，并且具有一个独特的功能，即它仅在屏幕上呈现每 N 个猜测。作者鼓励用户下载jar文件并享受使用它的乐趣。]]></description>
-      <guid>https://t.me/hn_summary/86928</guid>
-      <pubDate>Mon, 29 Apr 2024 01:19:00 GMT</pubDate>
+      <title>【媒体】日元兑美元大幅贬值</title>
+      <link>https://t.me/hn_summary/86942</link>
+      <description><![CDATA[自 1990 年以来日元兑美元汇率跌至 160 
+日元兑美元大幅贬值，自1990年以来首次触及160。这一跌幅归因于美元走强以及美联储降息的延迟。尽管日本当局警告日元汇率过度波动，但他们尚未正式宣布任何提振日元的计划。专家预测，日本央行5月会议后可能会出现干预措施，但目前尚无干预的具体“底线”。尽管存在担忧，但一些人认为日元疲软对股票表现产生了积极影响，并鼓励企业提高工资。]]></description>
+      <guid>https://t.me/hn_summary/86942</guid>
+      <pubDate>Mon, 29 Apr 2024 04:24:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
