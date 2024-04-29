@@ -4,11 +4,46 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:13:39 GMT</lastBuildDate>
+    <item>
+      <title>命令式服装中的功能语义（理查德·费尔德曼）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfuf0g/functional_semantics_in_imperative_clothing/</link>
+      <description><![CDATA[ 由   提交/u/bosyluke  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfuf0g/functional_semantics_in_imperative_clothing/</guid>
+      <pubDate>Mon, 29 Apr 2024 09:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devin AI 的要点</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfu4j7/takeaway_from_devin_ai/</link>
+      <description><![CDATA[关于 Devin 是否真的像听起来那样令人印象深刻，或者大部分内容都是糖衣，以及 Devin 只是一个稍微复杂的群体，存在很多争论的代理。我从演示中得到的主要收获是 - 他们为法学硕士提供了代码编辑器的访问权限。虽然全世界都在研究代码生成，但制定通过法学硕士运行的编辑问题却令人印象深刻。关于如何以稳健的方式做到这一点有什么想法吗？  PS - 我已要求法学硕士生成差异。生成差异并不容易。大多数 diff 格式要求您事先指定新代码的行跨度，这对于自回归模型来说是一项艰巨的任务。我尝试引入自己的 diff 格式，该格式似乎工作正常，但突破了我们当今最好的法学硕士的局限性。有任何意见/想法吗？   由   提交/u/FrozenChikoo9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfu4j7/takeaway_from_devin_ai/</guid>
+      <pubDate>Mon, 29 Apr 2024 08:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Redis 通过速率限制保护您的 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfsspr/secure_your_api_with_rate_limiting_using_redis/</link>
+      <description><![CDATA[API 很容易受到各种网络攻击，例如暴力破解、拒绝服务 (DoS)、抓取等，因此采用缓解策略至关重要 在这一集的实现中，我将向您展示如何使用 Redis 和 Node.js 实现固定窗口速率限制😊  &amp; #32；由   提交/u/MarcoMoauro95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfsspr/secure_your_api_with_rate_limiting_using_redis/</guid>
+      <pubDate>Mon, 29 Apr 2024 07:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>在做出任何技术决策之前，我将分享一个 4 步方法来指导您</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfsg7v/im_sharing_a_4step_approach_to_guide_you_before/</link>
+      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfsg7v/im_sharing_a_4step_approach_to_guide_you_before/</guid>
+      <pubDate>Mon, 29 Apr 2024 06:43:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索数据库清理之谜</title>
+      <link>https://www.reddit.com/r/programming/comments/1cfsajx/exploring_the_enigma_of_database_vacuuming/</link>
+      <description><![CDATA[  由    /u/dine-ssh  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cfsajx/exploring_the_enigma_of_database_vacuuming/</guid>
+      <pubDate>Mon, 29 Apr 2024 06:33:15 GMT</pubDate>
+    </item>
     <item>
       <title>编写 (SRS) 软件需求规范的 6 个最佳实践</title>
       <link>https://www.reddit.com/r/programming/comments/1cfrmc8/6_best_practices_for_writing_srs_software/</link>
-      <description><![CDATA[ 由   提交/u/Yukti_Solutions  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Yukti_Solutions  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfrmc8/6_best_practices_for_writing_srs_software/</guid>
       <pubDate>Mon, 29 Apr 2024 05:50:18 GMT</pubDate>
     </item>
@@ -27,32 +62,11 @@
       <pubDate>Mon, 29 Apr 2024 05:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>程序故障导致美国航空一位 102 岁的旅客陷入混乱</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfrhez/programming_glitch_caused_chaos_for_a_102_year/</link>
-      <description><![CDATA[ 由   提交 /u/saleemkce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfrhez/programming_glitch_caused_chaos_for_a_102_year/</guid>
-      <pubDate>Mon, 29 Apr 2024 05:41:42 GMT</pubDate>
-    </item>
-    <item>
       <title>了解如何在 Java 中使用密码学</title>
       <link>https://www.reddit.com/r/programming/comments/1cfr4jq/understanding_how_to_use_cryptography_in_java/</link>
       <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfr4jq/understanding_how_to_use_cryptography_in_java/</guid>
       <pubDate>Mon, 29 Apr 2024 05:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 市场编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfqps4/facebook_marketplace_coding/</link>
-      <description><![CDATA[嗨， 有没有什么方法可以让我在编码中看到 Facebook Marketplace 广告首次创建和在线发布的时间？ 此外，有没有什么方法可以让我在编码/编程方面看到广告状态何时变为待处理和/或已售出/出租？ 我是编码/编程方面的菜鸟，如果这样的话，将有助于我访问它。 仅供参考，我正在尝试跟踪有关出租广告物业的信息，对于我的工作来说，捕获此类数据非常重要。 不幸的是，大多数提供商都是通过市场做广告，而市场并不免费提供这些信息。 谢谢    提交人    /u/Bbtrojans7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfqps4/facebook_marketplace_coding/</guid>
-      <pubDate>Mon, 29 Apr 2024 04:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭秘人工智能：技术爱好者的温和入门指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfooma/demystifying_ai_a_gentle_introductory_guide_for/</link>
-      <description><![CDATA[ 由   提交/u/pedantic-sagan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfooma/demystifying_ai_a_gentle_introductory_guide_for/</guid>
-      <pubDate>Mon, 29 Apr 2024 03:00:04 GMT</pubDate>
     </item>
     <item>
       <title>FridgeLock：通过可用内存加密防止挂起的 Linux 上的数据被盗</title>
@@ -64,7 +78,7 @@
     <item>
       <title>每个程序员都应该知道的内存管理</title>
       <link>https://www.reddit.com/r/programming/comments/1cflxmd/memory_management_every_programmer_should_know/</link>
-      <description><![CDATA[  由    /u/hizacharylee  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cflxmd/memory_management_every_programmer_should_know/</guid>
       <pubDate>Mon, 29 Apr 2024 00:40:37 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cfcl9q/top_10_biggest_tech_disasters_caused_by/</guid>
       <pubDate>Sun, 28 Apr 2024 18:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 信号标准提案</title>
-      <link>https://www.reddit.com/r/programming/comments/1cfbaqv/javascript_signals_standard_proposal/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cfbaqv/javascript_signals_standard_proposal/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:05:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 高级工程师分享阅读白皮书如何让他的职业生涯更上一层楼</title>
-      <link>https://www.reddit.com/r/programming/comments/1cf8z5w/google_staff_engineer_shares_how_reading/</link>
-      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cf8z5w/google_staff_engineer_shares_how_reading/</guid>
-      <pubDate>Sun, 28 Apr 2024 15:26:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
