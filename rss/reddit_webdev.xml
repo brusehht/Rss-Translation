@@ -3,10 +3,31 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 00:52:23 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Mon, 29 Apr 2024 03:13:47 GMT</lastBuildDate>
     <item>
-      <title>当客户说“为什么网站没有产生任何新的潜在客户？”时，最好的回应是什么？</title>
+      <title>全栈/咆哮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfoiok/fullstack_rant/</link>
+      <description><![CDATA[所以我一直在申请全栈开发的新职位。这些职位列表对经验的要求简直荒谬至极。以前只要是前端或后端开发人员就够糟糕的了，现在你必须精通大量的后端和前端技术，包括数据库、自动化、CI、数据分析、测试、容器、基于云的服务器、大量的 JS 框架和构建工具，这些可能在下周就会过时等等。此外，每家公司似乎都有不同的堆栈（有时甚至不是广告中宣传的堆栈），包括一些垃圾遗留的“SaaS”，这些是他们几年前出售的，没人愿意维护，如果你最终使用它——没有人会在未来的工作前景中使用它！我开始认为这只是一种偷偷摸摸的方式，用 1 名开发人员填补 2 个（或 3 个）职位……    提交人    /u/rebelnz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfoiok/fullstack_rant/</guid>
+      <pubDate>Mon, 29 Apr 2024 02:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>脸书 API |无需 UI 的应用程序验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfoc8b/facebook_api_app_verification_without_ui/</link>
+      <description><![CDATA[Reddit 用户们好！我正在寻求将 Facebook API 集成到 REST API 中，但我遇到了一个问题，没有用户可以直接使用此流程的 UI。目前的流程如下：我们的商业团队为我们的一些客户创建带有销售线索表单的 Facebook 营销活动，然后通过 Zapier 活动将销售线索信息存储在 Google 电子表格中。在将新行写入电子表格（表示新的线索）后，会触发另一个 Zapier 事件，并且数据将发送到我们的 API 并进行处理。处理完潜在客户数据后，我们会将这些信息发送给我们的客户。 问题是，我们想要摆脱 Zapier，为此我们需要完成一些步骤，例如业务验证。根据 Facebook 文档，我需要提供流程的视频（这没有问题）和访问权限（用户和密码），以便审核者可以完成整个流程（问题就在这里）。考虑到我们目前正在使用 Zapier 并手动创建营销活动（我知道这也可以通过 API 完成，但这仍在讨论中），我不确定审核者能够复制多少流程因为这需要他们有办法创建营销活动，然后在 Zapier 上设置 Zaps，管理 Google Drive 上的电子表格，并连接 Google 帐户为新潜在客户创建活动。以前有人做过类似的事情吗？ 我认为这些是我需要的权限，因为潜在客户也需要其他权限和网络钩子： 检索潜在客户信息所需的权限：  pages_manage_ads（leads_retrieval 必需） pages_read_engagement（leads_retrieval 必需） pages_show_list（leads_retrieval 必需） leads_retrieval ads_read（获取活动信息，例如名称）  对于网络钩子 (https://developers.facebook.com/ads/blog/post/v2/2018/07/02/lead-ads-retrieval/)&lt; /p&gt;  lead_retrieval pages_manage_metadata pages_show_list  **TL;DR:** 我想使用 Facebook Rest API 上的 API 不连接到 UI。我不知道如何才能在不提供访问权限或其他许多必要的东西的情况下获得 Facebook 批准此功能流程。   由   提交/u/bryan-gc   /u/bryan-gc  reddit.com/r/webdev/comments/1cfoc8b/facebook_api_app_verification_without_ui/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfoc8b/facebook_api_app_verification_without_ui/</guid>
+      <pubDate>Mon, 29 Apr 2024 02:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要建立一个社区页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cfn6s2/i_need_a_community_page_built/</link>
+      <description><![CDATA[我有一家初创公司（新闻博客），我刚刚开始打造一个利基市场，我意识到要组建一个社区，让人们成为新闻业的一部分将改变我的业务动态。我的网站是在 WordPress 上的，我的预算是 250 美元。谢谢。  快进，我想建立一个社区页面？此页面应该 - 最小化 - 允许用户创建个人资料和共享内容。    由   提交 /u/red Plasticglove   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cfn6s2/i_need_a_community_page_built/</guid>
+      <pubDate>Mon, 29 Apr 2024 01:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>当客户问“该网站为什么没有产生任何新的潜在客户？”时，最好的回应是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cfki5i/whats_the_best_response_when_a_client_says_how/</link>
       <description><![CDATA[我已经多次被问过这个问题，我优化了他们的 SEO，我将它们放在搜索引擎的首页上，但他们会总是回来说“为什么要建立一个网站，它对我没有任何帮助。”我是一名提供 Web 开发服务的新企业主，因此我们将不胜感激任何有关如何解决此问题的建议。   由   提交/u/dazahx1515   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cfki5i/whats_the_best_response_when_a_client_says_how/</guid>
@@ -36,7 +57,7 @@
     <item>
       <title>开源包来创建可搜索数据库？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cfgqg9/open_source_package_to_create_searchable_db/</link>
-      <description><![CDATA[我有一个非常简单的需求，但不太擅长 Web 开发。 我想用数据填充数据库来自 csv 文件。 然后我想创建一个搜索页面，用户可以简单地输入搜索数据库的条件，然后发布结果。 任何人都可以推荐一些可能填充的内容吗？需要什么？   由   提交 /u/Mibiz22   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个非常简单的需求，但是我并不擅长 Web 开发。 我想用来自 csv 文件的数据填充数据库。 然后，我想制作一个搜索页面，用户只需输入条件即可搜索数据库，然后发布结果。 有人可以推荐一些可以满足该需求的东西吗？    提交人    /u/Mibiz22   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cfgqg9/open_source_package_to_create_searchable_db/</guid>
       <pubDate>Sun, 28 Apr 2024 20:49:03 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[    /u/PlanetRenox   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cfesac/we_are_testing_a_github_action_bot_that/</guid>
       <pubDate>Sun, 28 Apr 2024 19:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xampp无法在Windows 11中启动Mysql</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfejo1/xampp_unable_to_start_mysql_in_windows_11/</link>
-      <description><![CDATA[大家好， 我很困惑。我在 Windows 11 上使用 Xampp。初始安装正常，一切正常。然后突然这个错误不断出现。  ​  3:16:12 am [mysql] 这可能是由于端口阻塞、缺少依赖项、 3 :16:12 am [mysql] 权限不当、崩溃或通过其他方法关闭。  3:16:12 am [mysql] 按“日志”按钮查看错误日志并检查  3:16:12 am [mysql] Windows 事件查看器以获取更多线索 &lt; /p&gt; 3:16:12 am [mysql] 如果您需要更多帮助，请复制并发布此内容 3:16:12 am [mysql] 论坛上的整个日志窗口 &gt;  我尝试更改端口。仅适用于当天。从 330x 到 3377。 ​ 第二天，我刚启动 Xampp 控制面板，它就不再工作了。同样的错误。很烦人。  有什么想法吗？非常感谢。 ​ 此致， 回到网络编程。    由   提交 /u/Competitive-Sock-693   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfejo1/xampp_unable_to_start_mysql_in_windows_11/</guid>
-      <pubDate>Sun, 28 Apr 2024 19:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我拿到了第一份薪水，想宠坏自己。每个开发人员都应该具备哪些东西？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfe3yv/i_got_my_first_paycheck_and_wanna_spoil_myself/</link>
-      <description><![CDATA[我对我的设置（显示器、PC、平板电脑、办公桌）没问题，您可以建议我购买什么东西来改善我的工作环境吗？我正在考虑一些记事本和一些漂亮的笔（白板对我来说太麻烦了，我更喜欢记事本）   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfe3yv/i_got_my_first_paycheck_and_wanna_spoil_myself/</guid>
-      <pubDate>Sun, 28 Apr 2024 19:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何准备聘请网络开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cfdwbr/how_to_prepare_for_hiring_a_web_dev/</link>
-      <description><![CDATA[网络开发人员会向我提出哪些类型的问题？他们需要了解该领域，是吗？他们还需要知道什么？ 关于薪酬呢？更具体地说，对于这样的事情来说，体面的报酬是什么样的，人们更喜欢怎样的报酬？一次性合同，或者如果我需要每六个月联系您更新一次，您预计如何获得报酬？多少钱？ 法律文件呢？签署法律文件同意不破坏网站、发布信息正常吗？ **不要私信我受聘这份工作。我不会通过 Reddit 招聘。只是来这里了解如何不浪费开发人员的时间和金钱。   由   提交/u/csmith70  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cfdwbr/how_to_prepare_for_hiring_a_web_dev/</guid>
-      <pubDate>Sun, 28 Apr 2024 18:54:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 20:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 02:57:33 GMT</lastBuildDate>
     <item>
-      <title>“dotenv”项目是一个 Unix 实用程序，允许用户从 [...]</title>
-      <link>https://t.me/hn_summary/86906</link>
-      <description><![CDATA[显示 HN：Dotenv（如果它是 Unix 实用程序）
-“dotenv”项目是一个 Unix 实用程序，允许用户从当前目录中名为 .env 的文件加载环境变量。可以通过在命令前添加“dotenv”前缀或在脚本的 shebang 行中包含“dotenv”来使用它。该项目的独特之处在于它是一个小型、独立的实用程序。它提供了 dotenv 实用程序的安装说明和联机帮助页。用户可以自定义dotenv文件路径以及文件中键值对的格式。该项目由 Yifan Gu 撰写，最后更新于 2024 年 4 月 28 日。]]></description>
-      <guid>https://t.me/hn_summary/86906</guid>
-      <pubDate>Sun, 28 Apr 2024 20:39:41 GMT</pubDate>
+      <title>我为 AT&T UNIX PC 开发了一个模拟器，可以启动 3B1 UNIX 操作系统 [...]</title>
+      <link>https://t.me/hn_summary/86937</link>
+      <description><![CDATA[FreeBee：AT&amp;T Unix PC 模拟器
+我为AT&amp;T UNIX PC开发了一个模拟器，可以启动3B1 UNIX操作系统并运行各种软件。目前，该模拟器无法模拟串行端口、打印机端口或调制解调器，但我正在致力于为 Linux、Windows 和 Mac OS X 创建虚拟设备。特别感谢 Antoni Sawicki 捐赠 AT&amp;T UNIX PC 系统和软件磁盘，以及 Andrew Warkentin 和 Jesse Booth 对改进仿真做出的贡献。此外，您还可以在该网站上找到启动 ROM 和扫描的技术参考文档等资源。]]></description>
+      <guid>https://t.me/hn_summary/86937</guid>
+      <pubDate>Mon, 29 Apr 2024 02:57:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Valentina Alto 的 Medium 页面上这篇开创性的文章中，我们深入研究了这个世界 [...]</title>
-      <link>https://t.me/hn_summary/86905</link>
-      <description><![CDATA[GraphRAG 与 LangChain 和 Neo4j
-在 Valentina Alto 的 Medium 页面上这篇开创性的文章中，我们通过 LangChain 和 Neo4j 深入研究了 GraphRAG 的世界。本系列的第 1 部分重点介绍法学硕士时代的图数据库入门，阐明这些结构如何彻底改变多智能体框架。 LangChain 库 LangGraph 于 2024 年 1 月推出，改变了该领域的游戏规则，为数据分析和应用程序开发提供了令人兴奋的可能性。请继续关注有关在不断发展的技术领域中利用基于图形的技术的力量的更多见解和实用技巧。]]></description>
-      <guid>https://t.me/hn_summary/86905</guid>
-      <pubDate>Sun, 28 Apr 2024 20:34:36 GMT</pubDate>
+      <title>[媒体]悄悄辞职：总是有朝九晚五的员工，但这是一种令人毛骨悚然的不适</title>
+      <link>https://t.me/hn_summary/86936</link>
+      <description><![CDATA[安静地辞职：总是有朝九晚五的员工，但这是一种蔓延的不适
+“悄悄离职”已成为疫情后的普遍问题，员工不再愿意为雇主做出超越自己的事情。这种微妙的阻力对于管理者来说很难处理，因为这些“安静的放弃者”继续毫无怨言地达到他们的工作量标准。专家建议雇主需要重新评估员工的责任并通过提供必要的支持来解决疲劳问题。这场流行病给员工带来了损失，导致一些年龄段的人几乎不加掩饰的愤怒和易怒。虽然理解很重要，但管理者仍然必须满足他们的 KPI。员工援助计划和奖励等小举动可以发挥作用，即使它们可能无法影响所有安静的放弃者。]]></description>
+      <guid>https://t.me/hn_summary/86936</guid>
+      <pubDate>Mon, 29 Apr 2024 02:44:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Ozempic 颠覆大型烟草、糖果和酒精行业</title>
-      <link>https://t.me/hn_summary/86904</link>
-      <description><![CDATA[Ozempic 将颠覆大型烟草、糖果公司和酒类品牌
-标题：臭氧扰乱大型烟草、糖果和酒精工业
-
-加工食品和酒精公司的主导地位可能会受到 Ozempic 等 GLP-1 药物崛起的挑战。摩根士丹利 (Morgan Stanley) 的一项调查显示，服用 GLP-1 药物的用户表示，在快餐上花的钱更少，吸烟更少，饮酒更少。消费者行为的这种转变可能会影响大型连锁餐厅以及多力多滋和好时等零食公司。到 2030 年，GLP-1 药物的市场预计将达到 1050 亿美元，预计将有数百万美国人使用它们。虽然用药物依赖取代加工食品成瘾的想法似乎存在争议，但健康益处大于成本。监管机构可以在确保公平获取这些药物方面发挥作用。请继续关注有关 GLP-1 和成瘾的更多研究。]]></description>
-      <guid>https://t.me/hn_summary/86904</guid>
-      <pubDate>Sun, 28 Apr 2024 20:24:30 GMT</pubDate>
+      <title>[媒体] Haystack DB 是一个最小但高性能的矢量数据库，其设计速度比 [...] 快 10 倍。</title>
+      <link>https://t.me/hn_summary/86935</link>
+      <description><![CDATA[Haystack DB – 默认情况下采用二进制嵌入，比 FAISS 快 10 倍
+Haystack DB 是一个最小但高性能的矢量数据库，默认情况下，其速度比采用二进制嵌入的 FAISS 快 10 倍。它提供了诸如用于查询的 JSON 过滤、用于多副本部署的可扩展分布式架构以及持久、持久的数据等功能，这些数据经过内存映射以便在客户端中快速访问。尽管将数据存储在磁盘上并使用暴力破解，Haystack 在基准测试中的表现仍优于 FAISS，速度快了大约 10 倍。该项目的路线图包括 int8 重新排序、更好的查询、全文搜索、改进的插入性能、时间点备份/回滚、基于游标的分页和架构迁移的计划。]]></description>
+      <guid>https://t.me/hn_summary/86935</guid>
+      <pubDate>Mon, 29 Apr 2024 02:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“科学不存在”：约会应用程序可以帮助我们找到灵魂伴侣吗？</title>
-      <link>https://t.me/hn_summary/86903</link>
-      <description><![CDATA[“科学不存在”：约会应用程序对我们有帮助吗找到我们的灵魂伴侣？
-关于约会应用是否能帮助我们找到灵魂伴侣的争论仍在继续，最近的一起集体诉讼指控 Match Group 使用掠夺性商业模式来吸引用户。尽管这些应用程序很受欢迎，但其有效性的科学依据却很缺乏。社会学家伊丽莎白·布鲁赫指出，在线约会已经改变了社会现实，超过一半的美国异性恋伴侣在网上认识。虽然一些研究表明，网上认识的人的婚姻满意度稍差一些，但通过数据收集和研究改善婚介的潜力即将显现。约会应用程序的未来仍然不确定，但有一点是明确的：它们将继续存在。]]></description>
-      <guid>https://t.me/hn_summary/86903</guid>
-      <pubDate>Sun, 28 Apr 2024 20:21:25 GMT</pubDate>
+      <title>[媒体]热门真人秀节目《最大的失败者》揭示了 [...]</title>
+      <link>https://t.me/hn_summary/86934</link>
+      <description><![CDATA[运动、新陈代谢和体重：来自《减肥达人》的新研究&lt; /a&gt;
+热门真人秀《减肥达人》阐明了运动、新陈代谢和减肥之间的关系。研究表明，剧烈减肥会导致新陈代谢显着减慢，如果不极端限制热量摄入，就很难维持减肥效果。令人惊讶的是，保持体重减轻最多的参赛者具有最大的代谢适应能力，这可能是由于体力活动的持续增加所致。这凸显了运动对于成功维持体重的重要性。虽然需要更多的研究来充分理解这些关系，但关键是适量吃天然食品，避免加工食品，并保持活跃以达到和保持健康的体重。]]></description>
+      <guid>https://t.me/hn_summary/86934</guid>
+      <pubDate>Mon, 29 Apr 2024 01:56:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容探讨了在 1 个大气压下生长钻石的迷人过程，[...]</title>
-      <link>https://t.me/hn_summary/86902</link>
-      <description><![CDATA[在 1 个大气压下生长钻石
-该网络内容探讨了在 1 个大气压下生长钻石的迷人过程，重点介绍了该领域的各种研究和专家的研究。钻石化学气相沉积的讨论引起了争议，概述了最新的进展和挑战。令人惊讶的进展包括使用液态金属（例如镓）作为金刚石合成的催化剂，展示了该行业的创新方法。内容深入探讨了钻石形成的复杂性，为钻石科学和技术的未来提供了见解。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86902</guid>
-      <pubDate>Sun, 28 Apr 2024 20:19:21 GMT</pubDate>
+      <title>[媒体] 无人机制造商大疆创新面临美国制裁</title>
+      <link>https://t.me/hn_summary/86933</link>
+      <description><![CDATA[无人机制造商大疆面临美国FCC禁令
+由于国家安全担忧，中国受欢迎的无人机制造商大疆创新可能在美国面临禁令。美国国会正在制定两党立法，将大疆创新列入联邦通信委员会的黑名单，从而有效地结束该公司在美国的业务。大疆创新否认侵犯人权和监视的指控，但对拥有该公司部分股份的中国国有企业的担忧仍然存在。该禁令可能会影响大疆在商用无人机市场 58% 的市场份额。此举类似于对华为和 TikTok 等其他科技公司的禁令，并可能使市场上的其他无人机公司受益。]]></description>
+      <guid>https://t.me/hn_summary/86933</guid>
+      <pubDate>Mon, 29 Apr 2024 01:32:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 洛杉矶地铁公交车上安装了人工智能摄像头，以帮助售票车 [...]</title>
-      <link>https://t.me/hn_summary/86901</link>
-      <description><![CDATA[安装在地铁公交车上的人工智能摄像头对非法停放车辆进行罚单&lt; /a&gt;
-洛杉矶地铁公交车上安装了人工智能摄像头，以帮助停放在公交车道上的售票车，计划于今年夏天进行测试，并于 2024 年底全面实施。该计划旨在改善公交车时间、增加乘客量并解决出行问题的担忧。摄像头只会在观察到潜在违规行为时进行记录，并且在开罚单之前将由人工审核录像。华盛顿特区和纽约市已经实施了类似的计划，展示了人工智能技术在旅行安全方面的扩展。 2021 年，使用视频成像处理违规停车行为合法化，违规记录最多保留六个月。]]></description>
-      <guid>https://t.me/hn_summary/86901</guid>
-      <pubDate>Sun, 28 Apr 2024 20:11:14 GMT</pubDate>
+      <title>[媒体]在这篇文章中，我们深入研究了数据科学学生在介绍[...]时所犯的常见错误。</title>
+      <link>https://t.me/hn_summary/86932</link>
+      <description><![CDATA[数据科学专业学生常犯的错误
+在这篇文章中，我们根据密歇根大学进行的一项研究，深入探讨了数据科学学生在入门课程中犯的常见错误。这些错误的范围包括由于误解数据而导致的逻辑错误、由于不正确的函数使用而导致的语义错误、次优的编码实践以及对 Python 和 Jupyter Notebook 的误解。这些发现的意义凸显了在数据科学入门课程中关注数据素养、数据科学库编程以及代码优化的必要性。这项研究的一个独特之处是部署了人工智能导师，帮助学生不仅了解代码的正确性，还了解数据科学的领域知识和最佳实践。]]></description>
+      <guid>https://t.me/hn_summary/86932</guid>
+      <pubDate>Mon, 29 Apr 2024 01:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国人已经看到了向大型汽车、SUV 和皮卡卡车的重大转变 [...]</title>
-      <link>https://t.me/hn_summary/86900</link>
-      <description><![CDATA[鲁莽的政策让我们的街道上挤满了大型汽车
-美国人已明显转向大型汽车，SUV 和皮卡车占美国新车销量的 80% 以上。这一趋势受到有利于大型车辆的联邦政策的推动，例如企业平均燃油经济性标准，该标准激励汽车制造商生产更多SUV和卡车。鸡税等保护主义措施也阻止了更小、更省油的汽车进入美国市场。悍马税和油耗税等漏洞进一步刺激了人们购买重型、低效车辆。其结果是形成一个有利于汽车制造商的监管环境，但以牺牲道路安全和环境为代价。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86900</guid>
-      <pubDate>Sun, 28 Apr 2024 20:07:10 GMT</pubDate>
+      <title>[媒体]Apple MacBook Air 15 英寸 M3 是一款令人惊叹的设备，其设计令人印象深刻，[...]</title>
+      <link>https://t.me/hn_summary/86931</link>
+      <description><![CDATA[Apple MacBook Air 15 英寸 M3 评测 - Thurrott.com
+Apple MacBook Air 15 英寸 M3 是一款令人惊叹的设备，其设计、性能和电池寿命令人印象深刻。时尚优雅的设计以及独特的颜色选择使其脱颖而出。该显示屏是一流的，提供清晰的视觉效果和出色的色彩准确性。内部组件由 Apple Silicon M3 芯片供电，可提供出色的性能，而不会出现任何噪音或热量问题。连接选项很现代，支持 Wi-Fi 6E 和蓝牙 5.3。键盘和触摸板舒适且反应灵敏。总体而言，MacBook Air M3 是风格与实质的近乎完美结合，为大多数用户提供了无与伦比的价值。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86931</guid>
+      <pubDate>Mon, 29 Apr 2024 01:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]dailysceptic.org 上的内容讨论了德国有争议的决定 [...]</title>
-      <link>https://t.me/hn_summary/86899</link>
-      <description><![CDATA[绿党参与欺诈，欺骗部长并推动德国逐步淘汰核能
-dailysceptic.org 上的内容讨论了德国分阶段实施的有争议的决定日本福岛灾难后，尽管德国没有类似的风险，但日本还是停止了核电建设。作者批评政府的能源政策，将其归因于激进的反核情绪和加强与俄罗斯关系的政治动机。文章强调了政府官员为推动核淘汰而使用的欺骗手段，包括伪造专家报告和隐瞒信息。作者讽刺地将政府中的关键人物描绘成无能且受意识形态议程驱动的人。文章最后批评了政府处理能源危机的方式以及令人尴尬的内部文件的发布。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86899</guid>
-      <pubDate>Sun, 28 Apr 2024 20:05:06 GMT</pubDate>
+      <title>[媒体]Block 和 AgentFormer 是一个结合了 BlockStar 算法的项目，这是一个多块 [...]</title>
+      <link>https://t.me/hn_summary/86930</link>
+      <description><![CDATA[Block* 和 AgentFormer – 玩积木和变形金刚（耶）&lt; /a&gt;
+Block 和 AgentFormer 是一个项目，它将 BlockStar 算法（一种用于重新排列块的多块 A 算法）与 AgentFormer（一种转换 BlockStar 的输入和输出的字符级转换器）相结合。该项目的灵感来自作者作为预制混凝土工地工人的经历，在那里他们经常做比移动砌块所需的更多的工作。 BlockStar 算法用于遗传算法中，以找到将块移动到目标位置的最佳路径，成功的结果将被保存并输入变压器以训练语言模型。该项目通过结合这些算法来优化块移动效率而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/86930</guid>
+      <pubDate>Mon, 29 Apr 2024 01:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>在自主代理的世界中，能够以最少的 [...]</title>
-      <link>https://t.me/hn_summary/86898</link>
-      <description><![CDATA[OSWorld：对真实计算机中开放式任务的多模式代理进行基准测试&lt; /a&gt;
-在自主代理的世界中，以最少的人为干预完成复杂的计算机任务的能力是人机交互的游戏规则改变者。然而，现有的基准不足以反映现实世界计算机使用的多样性和复杂性。进入 OSWorld，这是一个突破性的多模式代理真实计算机环境，支持跨各种操作系统的交互式学习。通过涉及真实 Web 和桌面应用程序、操作系统文件 I/O 和多应用程序工作流程的 369 项任务的基准测试，OSWorld 揭示了当前基于 LLM/VLM 的代理的重大缺陷。这种全面的分析为开发更有效的计算机助手提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/86898</guid>
-      <pubDate>Sun, 28 Apr 2024 20:04:02 GMT</pubDate>
+      <title>[媒体]联邦存款保险公司宣布共和第一银行已[...]</title>
+      <link>https://t.me/hn_summary/86929</link>
+      <description><![CDATA[FDIC 表示宾夕法尼亚州监管机构关闭了共和第一银行 
+联邦存款保险公司宣布，宾夕法尼亚州监管机构关闭了共和第一银行，这是今年第一家美国银行倒闭。该银行拥有 60 亿美元资产和 40 亿美元存款。富尔顿银行将承担存款和资产。与去年的地区银行倒闭相比，这次倒闭规模较小。该银行的 32 家分行将在富尔顿银行旗下重新开业。由于高利率，区域银行面临着充满挑战的时期。去年硅谷银行的倒闭引发了更广泛的危机。纽约社区银行近期也面临挑战。]]></description>
+      <guid>https://t.me/hn_summary/86929</guid>
+      <pubDate>Mon, 29 Apr 2024 01:20:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]芬兰初创公司 Solar Foods 已开始生产由电力和空气制成的食品 [...]</title>
-      <link>https://t.me/hn_summary/86897</link>
-      <description><![CDATA[轻食：芬兰初创公司开始“利用空气和太阳能制造食物” &#39;
-芬兰初创公司 Solar Foods 已开始在赫尔辛基附近万塔的工厂生产由电力和空气制成的食品。他们的产品中使用的蛋白质来自利用太阳的可再生电力分解水的过程，将氢气和氧气供给酿造容器中的微生物。这种创新方法可以减少对用于动物饲料和牧场的大片土地的需求，从而彻底改变食品工业。虽然有些人可能将实验室种植的食品视为一种威胁，但 Solar Foods 的联合创始人 Pasi Vainikka 相信传统耕作方法和新技术的共存可以提供高质量、可持续的食品选择。]]></description>
-      <guid>https://t.me/hn_summary/86897</guid>
-      <pubDate>Sun, 28 Apr 2024 19:56:56 GMT</pubDate>
+      <title>[媒体]这个项目是一个用 Java 编写的填字游戏填充程序，可以找到有效的英语 cr [...]</title>
+      <link>https://t.me/hn_summary/86928</link>
+      <description><![CDATA[我在Wayback Machine 及其运行
+该项目是一个用 Java 编写的填字游戏填充程序，它基于具有可选部分完成的网格模式查找有效的英语填字游戏填充。作者在 Wayback Machine 上找到了该程序，他们于 2011 年在 MediaFire 上发布了该 jar 文件。他们能够在 2023 款 MacBook Air 上下载并运行该程序，并相信它也应该在其他计算机上运行。该程序使用波束搜索，用 Java 编写，带有 Java Swing UI，并且具有一个独特的功能，即它仅在屏幕上呈现每 N 个猜测。作者鼓励用户下载jar文件并享受使用它的乐趣。]]></description>
+      <guid>https://t.me/hn_summary/86928</guid>
+      <pubDate>Mon, 29 Apr 2024 01:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
