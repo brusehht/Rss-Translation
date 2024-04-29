@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 21:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 00:52:28 GMT</lastBuildDate>
+    <item>
+      <title>如何熟悉一个新项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
+      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
+      <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>知道美国开源公司的目录吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</link>
+      <description><![CDATA[GitHub 是否提供公司搜索功能，或者有一些很棒的人在那里编制了一个列表？ 我都尝试过开源行业过滤器针对 1) Crunchbase 和 2) F6S，但结果仅限于几百个。 提前致谢！   由   提交 /u/HeyTomesei   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</guid>
+      <pubDate>Sun, 28 Apr 2024 21:46:29 GMT</pubDate>
+    </item>
     <item>
       <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
-      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
       <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
     </item>
@@ -27,7 +41,7 @@
       <pubDate>Sun, 28 Apr 2024 17:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板 ❤️</title>
+      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板❤️</title>
       <link>https://www.reddit.com/r/opensource/comments/1cf4pxr/i_made_an_opensource_developer_portfolio_website/</link>
       <description><![CDATA[       由   提交/u/p00phed27  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cf4pxr/i_made_an_opensource_developer_portfolio_website/</guid>
@@ -36,14 +50,14 @@
     <item>
       <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
     <item>
       <title>开源 dos 4</title>
       <link>https://www.reddit.com/r/opensource/comments/1cekbxb/open_sourcing_dos_4/</link>
-      <description><![CDATA[        提交人    /u/llathreddzg   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/llathreddzg   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cekbxb/open_sourcing_dos_4/</guid>
       <pubDate>Sat, 27 Apr 2024 17:46:21 GMT</pubDate>
     </item>
@@ -71,12 +85,12 @@
     <item>
       <title>分叉项目命名</title>
       <link>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</link>
-      <description><![CDATA[我分叉了一个已弃用的项目并想要更新它。如果原始项目名为“ProjectName”，我可以将我的分支称为“Varthe&#39;s ProjectName”吗？有没有更合适的名字？我当然会感谢原创者。   由   提交 /u/varthe   [链接] [评论]]]></description>
+      <description><![CDATA[我分叉了一个弃用的项目并想更新它。如果原始项目名为“ProjectName”，我可以称我的分叉为“Varthe 的 ProjectName”吗？有没有更合适的名字？我当然会归功于原始创建者。    提交人    /u/varthe   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</guid>
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 的 AudioSharing RTSP 替代品？</title>
+      <title>Windows 的 AudioSharing RTSP 替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
       <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨！我正在寻找一款可以与我的伴侣使用并分享的经期应用程序？我目前使用的是星尘，关心这个东西的不是我，而是我的搭档（尽管我正在努力学习），所以我正在尝试进行切换，以便他们也可以使用它。拥有一个共享日历对我们很有帮助，所以我希望有任何建议，那就太棒了！    由   提交 /u/moldypizzaghee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>
       <pubDate>Sat, 27 Apr 2024 00:06:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源CDN服务器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</link>
-      <description><![CDATA[是否存在？人们自己建造这些东西吗？只有我觉得这很有用吗？ 快速的 Google 搜索并没有透露太多信息，但我可能错过了:)   由   提交 /u/supportingthedogs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚开源 AppUpdater，一个 Mac App 静默更新框架，作为 Sparkle 的轻量级替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
-      <description><![CDATA[        提交人    /u/auv1107   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:15:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
