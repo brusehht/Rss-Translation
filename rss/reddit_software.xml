@@ -4,18 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 21:11:46 GMT</lastBuildDate>
     <item>
-      <title>寻找一个可以在直播/现场录制期间使用的文本转录程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1cg5eju/looking_for_a_text_transcribing_program_that/</link>
-      <description><![CDATA[一直在搜索，但我认为没有找到任何可用的东西。有一款游戏，在游戏过程中，大部分时间屏幕底部都有文字，我想知道是否有任何程序可以将其居中或集中在游戏中通常弹出该文字的部分，并且可以即时将其转录成文档或程序。会非常方便，因为它有助于更​​容易地跟踪它的某些部分，我发现很多东西都可以工作，但只能在事后使用视频，而不是在几秒钟内或在合理的时间内提供反馈。如果还有一个程序的工作原理类似，只是不是将其转录，而是将其转换为同样有效的不同语言，那么主要需要的就是将游戏中的实时文本转录为文档或类似的内容。   由   提交 /u/KingCrooked   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cg5eju/looking_for_a_text_transcribing_program_that/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:46:53 GMT</pubDate>
+      <title>显然不再允许使用 SAI Production Manager (Flexi 12) 进行远程打印</title>
+      <link>https://www.reddit.com/r/software/comments/1cg8p9s/remote_printing_with_sai_production_manager_flexi/</link>
+      <description><![CDATA[我使用 SAI Production Manager 打印到 HP Latex 360。直到上周，我还不得不使用一台运行 Windows 7 的旧电脑。上周我终于得到了一台运行 Windows 10 的更新计算机，但我们的 IT 经理必须联系 SAI 技术支持来更新软件，以使其兼容。我很高兴，因为如果不尝试近一个小时，程序总是无法在旧计算机上启动。这是白天和黑夜。 但是，有一个问题。在更新之前，我在 Production Manager 中添加了几个打印设置，使我能够打印到不同城市其他地点的乳胶打印机。更新后我不能再这样做了。当我尝试添加其他打印机/IP 地址等时，作业出现在作业队列中，似乎在撕裂，然后一旦进入打印队列就保持为 0%。我可以 ping 通打印机，并且可以在互联网上看到接口页面（尽管我无法在此页面上添加作业）。我们的 IT 人员无法弄清楚这一点，而 SAI 只是想向我们出售新软件。  这是一家公司为了向您销售更多产品而减少功能的案例，还是我们忽略了某些事情？是否有需要允许的权限可能在软件更新时被“关闭”？ ​ 欢迎任何帮助。谢谢。   由   提交 /u/endorrawitch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cg8p9s/remote_printing_with_sai_production_manager_flexi/</guid>
+      <pubDate>Mon, 29 Apr 2024 19:57:45 GMT</pubDate>
     </item>
     <item>
-      <title>用 iPad 收集数据的软件建议？请参阅正文了解更多信息。</title>
+      <title>托管连接服务如何提高软件性能？</title>
+      <link>https://www.reddit.com/r/software/comments/1cg6a1p/how_do_managed_connectivity_services_work_for/</link>
+      <description><![CDATA[​ ​ 我在一家专门从事数字化业务的公司工作内容创建和分发，因此我们非常依赖我们的软件系统来跨不同平台和不同客户端快速管理和分发大文件。但随着我们的客户群不断增长（我希望它能够持续增长），我们注意到我们的网络设置确实难以跟上，尤其是在流量高峰期。那么...我们如何正确解决此问题？ ​ 我已阅读有关托管连接服务以及它们如何提高我们的性能和可靠性的信息。软件应用程序，这就是为什么这是标题中的主要问题。我们的想法是，通过使用托管服务，我们可以获得更一致的互联网速度，这应该有助于满足大量数据和高用户需求。但它到底是如何运作的，投资会是什么样子，以及我错过了什么？因为我发现的定义听起来好得令人难以置信。 ​ 此外，在我们考虑使用这些服务之前，我需要更多地了解它们的功能和限制。  ​ 我希望从你们那里得到一些好的建议，特别是如果这里有人在类似的环境中工作的话。非常感谢！   由   提交/u/Sparrowhaw3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cg6a1p/how_do_managed_connectivity_services_work_for/</guid>
+      <pubDate>Mon, 29 Apr 2024 18:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ipad 收集数据的软件建议？请参阅正文以获取更多信息。</title>
       <link>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</link>
-      <description><![CDATA[嗨。我最近换了工作，需要在外出完成实地工作时在 iPad 上创建自己的文档来收集数据。之前，我有一个可填写的 PDF 文档，我相信它最初是在 Excel 中创建的，然后转换为 PDF 以在 PDF Expert 应用程序中编辑。我经常需要使用的编辑工具是自由输入文本字段、添加带有文本的便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来就像是将一张实际的方格纸扫描叠加到 Excel 工作表的几页上。我之前的公司没有人记得最初是谁制作的表格或如何制作的，我们也不确定原始 Excel 版本在哪里。 我的问题是：   使用 Excel 创建文档然后将其转换为可填写的 PDF 是创建此类文档的最佳方法吗？  如果不是，请建议其他方法。     提交人    /u/LiquidAmbar247   [link] [评论]]]></description>
+      <description><![CDATA[嗨。我最近换了工作，需要在外出完成现场工作时在 iPad 上创建自己的文档来收集数据。以前，我有一个可填写的 PDF 文档，我认为该文档最初是在 Excel 中创建的，然后转换为 PDF 以便在 PDF Expert 应用程序中进行编辑。我经常需要使用的编辑工具是在文本字段中自由输入、添加文本便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来像这是一张实际的方格纸扫描件，叠加在几页 Excel 工作表上。我之前公司的任何人都不记得最初是谁制作了该表格或如何制作的，而且我们不确定原始 Excel 版本在哪里。 我的问题是：   正在使用Excel 创建文档，然后将其转换为可填写的 PDF，这是创建此类文档的最佳方法吗？ 如果不是，请建议其他方法。    由   提交/u/LiquidAmbar247  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</guid>
       <pubDate>Mon, 29 Apr 2024 17:43:08 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 29 Apr 2024 16:21:49 GMT</pubDate>
     </item>
     <item>
-      <title>Web 远程桌面</title>
+      <title>网络远程桌面</title>
       <link>https://www.reddit.com/r/software/comments/1cg32vp/web_remote_desktop/</link>
       <description><![CDATA[您好，我需要一个可以通过网络访问的远程桌面客户端，而不是 Chrome 远程桌面，您有什么想法吗？   由   提交 /u/PCbuilderFR   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg32vp/web_remote_desktop/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>2024 年适合小型企业的最佳网站建设者？</title>
       <link>https://www.reddit.com/r/software/comments/1cfy54h/best_website_builder_in_2024_for_small_business/</link>
-      <description><![CDATA[ 由   提交 /u/FGC_FAT_WATCHER   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/FGC_FAT_WATCHER  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cfy54h/best_website_builder_in_2024_for_small_business/</guid>
       <pubDate>Mon, 29 Apr 2024 12:41:12 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[最近，我遇到了成绩问题，并想过认真对待学习，但后来我意识到我需要一些应用程序来帮助我指导我的学习。 要探索教科书，请参考其他人的笔记，通常如可汗学院。   由   提交/u/Ivanreek-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cfvbgf/what_apps_do_you_use_for_studyingwhy/</guid>
       <pubDate>Mon, 29 Apr 2024 10:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 相关帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1cftw26/adobe_related_help/</link>
-      <description><![CDATA[大家好，我的兄弟在我的卡上使用 Photoshop 订阅，他取消了这是每年订阅，他没有更改计划类型，现在我将收取取消费用。我可以做些什么来解决这个问题吗？我真的不想花那么多钱取消预订，请帮忙   由   提交 /u/Vicdazzles   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cftw26/adobe_related_help/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:23:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

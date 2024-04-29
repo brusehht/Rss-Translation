@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 21:10:42 GMT</lastBuildDate>
+    <item>
+      <title>StarCoder2-Instruct：完全透明且允许的代码生成自对准</title>
+      <link>https://huggingface.co/blog/sc2-instruct</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/sc2-instruct</guid>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开放思想排行榜链简介</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/duckdb-nsql-7b</guid>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Xeon 上使用 🤗 最佳 Intel 实现超快 SetFit 推理</title>
-      <link>https://huggingface.co/blog/setfit-optimum-intel</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/setfit-optimum-intel</guid>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
