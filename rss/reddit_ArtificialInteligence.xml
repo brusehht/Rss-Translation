@@ -4,16 +4,58 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:21:05 GMT</lastBuildDate>
     <item>
-      <title>帮助！！！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cftivv/help/</link>
-      <description><![CDATA[是否有一个应用程序可以用于人工智能，而不是输入我想要它创建的内容，我可以发布照片，它会做同样的事情我&#39;我正在寻找超现实类型的图像，并试图获得我想要的图像    由   提交 /u/Fit-Fox-7337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cftivv/help/</guid>
-      <pubDate>Mon, 29 Apr 2024 07:58:13 GMT</pubDate>
+      <title>数据产品讲收入。如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfx88x/data_products_speak_revenue_how/</link>
+      <description><![CDATA[数据产品产生收入流的目的驱动能力 在本文中，作者深入探讨了目的的变革力量驱动的数据产品，阐明了它们在推动成本优化和增加收入流方面的作用。通过对每个相关方面的详细探索，他们阐明了数据产品如何产生收入并提供宝贵的见解。他们详细阐述了一些关键问题，例如： 💠 从哪里开始 - 北极星 💠 模板化 - 规模之父投资回报率 💠 通过数据驱动的洞察改善客户体验 💠 降低查找上下文和数据的成本 💠 处理管理大数据基础设施的成本 💠 决策重要吗？&lt; br /&gt; 📩𝐑𝐞𝐚𝐝𝐭𝐡𝐞𝐞𝐧𝐭𝐢𝐫𝐞𝐚𝐫𝐭𝐢𝐜𝐥𝐞𝐡𝐞𝐫𝐞：https://moderndata101.substack.com/p/数据产品说话收入如何   由   提交/u/growth_man  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfx88x/data_products_speak_revenue_how/</guid>
+      <pubDate>Mon, 29 Apr 2024 11:55:42 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个情绪分析工具</title>
+      <title>基于使用情况计费的 ChatGPT 替代方案</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfwxr8/chatgpt_alternative_with_usage_based_billing/</link>
+      <description><![CDATA[大家好， 我目前正在寻找适合商业应用程序的 AI 服务，该服务在后台使用 OpenAI 并提供基于使用情况的计费。我们公司有很多用户，但每个用户都很少使用该服务，因此每个用户每月 20-30 美元的费用是不切实际的。 有人可以推荐符合这些标准的 AI 服务吗？理想情况下，我正在寻找允许我们根据实际使用情况而不是按每个用户的统一费率付费的解决方案。如果您对类似服务有任何见解或经验，我们将不胜感激！ 提前感谢您的帮助！   由   提交/u/bwljohannes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfwxr8/chatgpt_alternative_with_usage_based_billing/</guid>
+      <pubDate>Mon, 29 Apr 2024 11:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infini-Attention：法学硕士的无限上下文</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfwvw1/infiniattention_infinite_context_for_llms/</link>
+      <description><![CDATA[自注意力的重大突破是网络能够将输入的不同部分相互关联，无论距离如何。这种重要性直接取决于输出。对于不同类型的输出，对输入数据序列中每个标记的关注度会有很大差异。但问题在于扩展此类系统。为了计算注意力分数，我们需要存储长度为 N 的序列的 NxN 注意力分数矩阵。这意味着当我们按照 128k 或一百万个 token 的上下文窗口顺序进行扩展时，扩展将变得越来越资源密集。  ​  全文： https://vishal-ai.medium.com/infini-attention-infinite-context-for-llms-d4485619a01e&lt; /p&gt;  ​ 那么，Infini-Attention 论文承诺了什么？  一种有效的方法，可将基于 Transformer 的大型语言模型 (LLM) 扩展到具有有限内存和计算的无限长输入。我们提出的方法的一个关键组成部分是一种被称为“Infini-attention”的新注意力技术。 因此，Infini 注意力背后的想法是结合使用局部注意力和全局注意力。首先，将整个文本片段分为块，我们对一个块应用标准注意力，并使用一种线性注意力形式来获取前一个块的上下文。  -混合注意力混合：局部注意力集中于单词周围的直接上下文，而远程注意力通过引用所看到的整个序列的压缩摘要来保持更广泛的视野到目前为止。 - 压缩记忆：以前的块是在线性注意力的帮助下记忆的。 -高效更新：为了避免冗余并节省计算量，Infini-attention 不仅仅将新信息添加到其内存中。相反，它首先检查已知的内容，然后仅用新的或不同的内容更新内存，类似于 ResNet 中的跳过连接。 - 权衡控制：  混合本地信息和压缩内存的超参数。 ​   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfwvw1/infiniattention_infinite_context_for_llms/</guid>
+      <pubDate>Mon, 29 Apr 2024 11:36:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以描述视频的AI工具？我的意思是视频到文本。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw486/is_there_any_ai_tool_that_can_describe_video_i/</link>
+      <description><![CDATA[如果 Sora 可以根据文本创建视频，是否有工具可以描述视频中发生的情况？    由   提交/u/lost_and_found795  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw486/is_there_any_ai_tool_that_can_describe_video_i/</guid>
+      <pubDate>Mon, 29 Apr 2024 10:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SVM 制作了一个情感分析模型，它唯一将文本识别为负面（需要帮助，我有一个大学项目）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw2pc/made_a_sentiment_analysis_model_using_svm_and_its/</link>
+      <description><![CDATA[所以基本上我编写了这段代码，这就是准确性 精度召回 f1-score 支持 负数0.84 0.81 0.83 667 正值 0.82 0.85 0.83 666 准确度 0.83 1333 宏观平均值 0.83 0.83 0.83 1333 加权平均值 0.83 0.83 0.83 1333 每次我添加任何输入时，它都会打印出来 检测到负面情绪。  代码和模型在这里：https://github.com/SeifEldin15/AI&lt; /p&gt;   由   提交 /u/__Very_Smart_AF__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw2pc/made_a_sentiment_analysis_model_using_svm_and_its/</guid>
+      <pubDate>Mon, 29 Apr 2024 10:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>国土安全部推出人工智能安全委员会，但大型开源公司缺席</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfvrbu/dhs_launches_ai_safety_board_but_big_opensource/</link>
+      <description><![CDATA[美国国土安全部 (DHS) 启动了人工智能安全委员会。该委员会的目标是促进人工智能在美国关键基础设施中的安全使用。董事会成员包括大型科技公司的首席执行官，但开源人工智能的倡导者明显缺席。 来源：https://dailyai.com/2024/04/dhs-launches-ai-safety-board-but-big-open-source-names-缺席/    由   提交 /u/UpvoteBeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfvrbu/dhs_launches_ai_safety_board_but_big_opensource/</guid>
+      <pubDate>Mon, 29 Apr 2024 10:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的“一劳永逸”人工智能广告工具失灵并耗尽了现金</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfv1rm/metas_set_it_and_forget_it_ai_ad_tools_are/</link>
+      <description><![CDATA[广告商报告称，自动广告平台 Advantage Plus 上的每次展示成本飙升，而效果却下降。  有问题的广告服务被称为 Advantage Plus 购物活动，是 Meta 向企业推销的全套人工智能广告工具的一部分，作为手动广告活动更快、更有效的替代方案。要创建广告活动，广告商上传他们的创意资产，选择他们的转化目标（例如，吸引更多客户在 Instagram 上进行购买），然后设置他们的预算上限。 Meta 在财报电话会议上大肆宣传 Advantage Plus 购物活动，将其视为一种无忧无虑、“一劳永逸”的在线广告自动化解决方案。但营销人员表示，事实并非如此。  如果你不是营销人员，这可能感觉就像在牛排馆花了一周的杂货钱买了一份上等的和牛，结果服务员却拿着一个软滑块回来了。  https:/ /www.theverge.com/2024/4/28/24141585/meta-ai-advantage-plus-automated-ad-glitch-cpm   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfv1rm/metas_set_it_and_forget_it_ai_ad_tools_are/</guid>
+      <pubDate>Mon, 29 Apr 2024 09:44:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个情感分析工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfst7a/i_have_created_a_sentiment_analysis_tool/</link>
       <description><![CDATA[ 由   提交 /u/JBumbStyle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfst7a/i_have_created_a_sentiment_analysis_tool/</guid>
@@ -22,7 +64,7 @@
     <item>
       <title>从即时工程到流程工程 - 2024 年人工智能突破预计</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfssd5/from_prompt_engineering_to_flow_engineering_ai/</link>
-      <description><![CDATA[以下指南展望了我们预计明年 AI 编程将出现的新发展 - 流程工程范式如何为 LLM 管道提供转变，从而允许数据处理步骤、外部数据提取和中间模型调用共同努力以进一步进行 AI 推理：从即时工程到流程工程：还有 6 项值得期待的 AI 突破  LLM 信息基础和参考 有效地将 LLM 连接到工具 更大的上下文大小 LLM 生态系统成熟度可降低成本 改进微调 AI 对齐     由    /u/thumbsdrivesmecrazy 提交   [链接] [评论]]]></description>
+      <description><![CDATA[以下指南展望了我们预计明年 AI 编程将会出现的新发展 - 流程工程范例如何提供向 LLM 管道的转变允许数据处理步骤、外部数据拉取和中间模型调用一起工作以进一步进行人工智能推理：从即时工程到流程工程：还有 6 个值得期待的 AI 突破  LLM 信息基础和引用 有效地将法学硕士与工具连接 更大的背景规模 法学硕士生态系统成熟度可降低成本 改进微调&lt; /li&gt; AI 对齐    由   提交/u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfssd5/from_prompt_engineering_to_flow_engineering_ai/</guid>
       <pubDate>Mon, 29 Apr 2024 07:06:52 GMT</pubDate>
     </item>
@@ -48,53 +90,11 @@
       <pubDate>Mon, 29 Apr 2024 01:41:09 GMT</pubDate>
     </item>
     <item>
-      <title>新手问题 - 连接到克劳德</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfkxe4/newbie_question_connecting_to_claude/</link>
-      <description><![CDATA[我正在尝试注册 Claude。输入我的电子邮件地址和他们发短信给我的代码后，继续按钮未激活，我无法再继续。 当我访问他们的帮助页面时，他们都说我可以通过以下方式联系支持人员：单击屏幕右下角的图标。但那里没有图标。 关于如何继续的任何建议？   由   提交/u/CalTechie-55  /u/CalTechie-55 reddit.com/r/ArtificialInteligence/comments/1cfkxe4/newbie_question_connecting_to_claude/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfkxe4/newbie_question_connecting_to_claude/</guid>
-      <pubDate>Sun, 28 Apr 2024 23:52:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能会成为发布歌曲的音乐艺术家吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfkdks/will_artificial_intelligence_become_a_music/</link>
-      <description><![CDATA[人工智能的极限是无穷无尽的，但人工智能在音乐生成方面能走多远？ 这会是我们想要的音乐吗？每天和我们最喜欢的艺术家一起聆听？ 用人工智能创作音乐是如此简单。至于音乐好不好，则是另一个值得讨论的话题。显然它缺乏真正的人类艺术家所拥有的心灵和灵魂。  我做了一个实验，在 2 分钟的时间内，我使用 AI 制作了一首愚蠢的歌曲艾德·希兰/面包·希兰。  人工智能在音乐领域的潜力有多大？讨论   由   提交 /u/Bmantis311   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfkdks/will_artificial_intelligence_become_a_music/</guid>
-      <pubDate>Sun, 28 Apr 2024 23:26:36 GMT</pubDate>
-    </item>
-    <item>
       <title>AI通讯工具有寿命吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfkbiy/do_ai_communication_tools_have_longevity/</link>
       <description><![CDATA[想象一个常见场景，人们使用 AI 将项目符号点转换为精美的电子邮件。然后，收件人的人工智能电子邮件应用程序将电子邮件总结为要点。当收件人回复时，他们可能会使用人工智能来扩展简短的“不”变成更友好、更长的回应。然而，原始发件人的人工智能电子邮件摘要器会将消息压缩回核心“不”。这就提出了一个问题：什么时候社会才会意识到人们不再直接阅读或编写电子邮件，而我们只是使用人工智能将简洁的消息转换为冗长、礼貌的电子邮件，然后其他人工智能系统将它们总结回简短的内容语句？   由   提交 /u/mission_ctrl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfkbiy/do_ai_communication_tools_have_longevity/</guid>
       <pubDate>Sun, 28 Apr 2024 23:24:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么AI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfbw5w/what_ai_is_this/</link>
-      <description><![CDATA[我不断看到由人工智能伪造的名人帖子，或者由人工智能以不同风格/身体重新想象的名人。我还没有跟上所有这些新技术的更新，所以如果你们能告诉我哪些人工智能用于上述事情，以及什么方法，那将非常有用？   由   提交/u/xPixiKatx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfbw5w/what_ai_is_this/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 YouTube 上分享了适合初学者的 Python 数据科学训练营（7 个多小时、7 门课程和 3 个项目）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf73zh/i_shared_a_beginner_friendly_python_data_science/</link>
-      <description><![CDATA[您好，我在 YouTube 上分享了 Python 数据科学训练营。 Bootcamp 时长超过 7 个小时，共有 7 门课程、3 个项目。课程包括 Python、Pandas、Numpy、Matplotlib、Seaborn、Plotly 和 Scikit-learn。我将离开下面的链接，祝您有美好的一天！ https://www.youtube.com /watch?v=6gDLcTcePhM   由   提交/u/onurbaltaci  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf73zh/i_shared_a_beginner_friendly_python_data_science/</guid>
-      <pubDate>Sun, 28 Apr 2024 14:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些LLM课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5gsh/recommend_me_some_courses_for_llm/</link>
-      <description><![CDATA[我最近尝试制作一个聊天机器人，但 chatgpt 不起作用真的很令人沮丧（我不知道为什么，但它无法回答 langchain 问题，也许是培训截止日期），文档安排得不太好...即使我以某种方式让代码工作，它的性能也不是很好，因为我一开始不太了解，我有一个对机器学习的理论理解，但我不知道什么是不同类型的链、检索器、代理...我只是发现它是很多分散在各处的东西 那么，有人可以吗给我推荐一门关于 langchain 的课程，它整合了所有不同的技术（链、代理、向量数据库等），并且对所有内容都进行了深入研究，比如这个链是如何工作的，或者查询向量数据库的差异方法……也觉得免费推荐langchain以外的课程，只是langchain是我所知道的唯一的LLM框架...    由   提交/u/Relevant-Ad9432  /u/Relevant-Ad9432 reddit.com/r/ArtificialInteligence/comments/1cf5gsh/recommend_me_some_courses_for_llm/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cf5gsh/recommend_me_some_courses_for_llm/</guid>
-      <pubDate>Sun, 28 Apr 2024 12:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>90% 的人工智能影响者不使用他们向您推销的 90% 产品！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cew9w3/90_of_ai_influencers_dont_use_90_of_products_they/</link>
-      <description><![CDATA[我来自未来，在接下来的几周内，您将看到大量视频，讲述 Vidu 是一个多么大的骗局。再加上最近的其他炒作周期运动，如 Sora、Devin 等，将继续削弱任何在炒作这些东西之前实际使用这些东西的人的权威和专业知识。观看此 YouTube 视频，了解更多关于未来的见解！ https://youtu.be/H95FirMtvus  &lt; /div&gt;  由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cew9w3/90_of_ai_influencers_dont_use_90_of_products_they/</guid>
-      <pubDate>Sun, 28 Apr 2024 03:00:22 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>

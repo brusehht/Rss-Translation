@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:22:34 GMT</lastBuildDate>
+    <item>
+      <title>看看 OSI 是否会在您附近举办研讨会。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
+      <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
@@ -41,7 +48,7 @@
       <pubDate>Sun, 28 Apr 2024 17:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板❤️</title>
+      <title>如果有人需要的话，我制作了一个开源开发者作品集网站模板 ❤️</title>
       <link>https://www.reddit.com/r/opensource/comments/1cf4pxr/i_made_an_opensource_developer_portfolio_website/</link>
       <description><![CDATA[       由   提交/u/p00phed27  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cf4pxr/i_made_an_opensource_developer_portfolio_website/</guid>
@@ -64,14 +71,14 @@
     <item>
       <title>我们是否违反了 GPLv2？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cejmgx/are_we_violating_gplv2/</link>
-      <description><![CDATA[所以我从事一个 GPLv2 许可的项目，每两周我们发布一个新版本，同时我们还发布该版本的完整源代码。我们在内部使用 GitLab 并将代码镜像到公共 GitHub 存储库，因此我们使用 GitLab CI 管道来构建和部署我们的代码。现在这是（可能）有问题的一点，我们在管道中使用了一组不公开的内部 GitLab CI 组件。这些组件仅包含在 .gitlab-ci.yml 文件中，并且这些组件中的任何位实际上都不会编译到最终的二进制文件中。  GPLv2 允许这样做吗？   由   提交 /u/MindSwipe   [链接] [评论]]]></description>
+      <description><![CDATA[所以我从事一个 GPLv2 许可的项目，每两周我们发布一个新版本，同时我们还发布该版本的完整源代码。我们在内部使用 GitLab 并将代码镜像到公共 GitHub 存储库，因此我们使用 GitLab CI 管道来构建和部署我们的代码。现在，这是（可能）有问题的一点，我们在管道中使用了一组不公开的内部 GitLab CI 组件。这些组件仅包含在 .gitlab-ci.yml 文件中，并且这些组件中的任何位实际上都不会编译到最终的二进制文件中。  GPLv2 允许这样做吗？   由   提交 /u/MindSwipe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cejmgx/are_we_violating_gplv2/</guid>
       <pubDate>Sat, 27 Apr 2024 17:16:16 GMT</pubDate>
     </item>
     <item>
       <title>硬盘操作系统和第二个硬盘+外部便携式硬盘+VeraCrypt？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</link>
-      <description><![CDATA[我有 hdd OS 和第二个 hdd+外部便携式 hdd。如果我加密 hdd OS，第二个 hdd 会自动加密吗？如果我加密 hdd OS 和第二个 hdd+外部便携式 hdd，完成所有这些操作后我将取消插拔\提取便携式 hdd，会发生什么？没有便携式 hdd，我将无法解密 hdd OS 和第二个 hdd？    提交人    /u/DotaFSS   [link] [评论]]]></description>
+      <description><![CDATA[我有硬盘操作系统和第二个硬盘+外部便携式硬盘。如果我要加密硬盘操作系统，第二个硬盘会自动加密吗？如果我将加密硬盘操作系统和第二个硬盘+外部便携式硬盘，毕竟我将取消\提取便携式硬盘，会发生什么？如果没有便携式硬盘，我将无法解密硬盘操作系统和第二个硬盘？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</guid>
       <pubDate>Sat, 27 Apr 2024 12:53:19 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 的 AudioSharing RTSP 替代品？</title>
+      <title>Windows 的 AudioSharing RTSP 替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
       <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
       <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>时期应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</link>
-      <description><![CDATA[嗨！我正在寻找一款可以与我的伴侣使用并分享的经期应用程序？我目前使用的是星尘，关心这个东西的不是我，而是我的搭档（尽管我正在努力学习），所以我正在尝试进行切换，以便他们也可以使用它。拥有一个共享日历对我们很有帮助，所以我希望有任何建议，那就太棒了！    由   提交 /u/moldypizzaghee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ce0qcr/period_apps/</guid>
-      <pubDate>Sat, 27 Apr 2024 00:06:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
