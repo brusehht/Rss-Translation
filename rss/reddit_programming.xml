@@ -4,11 +4,60 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:15:18 GMT</lastBuildDate>
+    <item>
+      <title>使依赖项保持最新</title>
+      <link>https://www.reddit.com/r/programming/comments/1cglng0/keeping_dependencies_uptodate/</link>
+      <description><![CDATA[ 由   提交/u/Zerotorescue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cglng0/keeping_dependencies_uptodate/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么编程感觉就像一场与挫折的持续斗争</title>
+      <link>https://www.reddit.com/r/programming/comments/1cglcpr/why_programming_feels_like_a_constant_battle/</link>
+      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cglcpr/why_programming_feels_like_a_constant_battle/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼克斯：转折点</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgkxfk/nix_the_breaking_point/</link>
+      <description><![CDATA[ 由   提交 /u/Alexander_Selkirk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgkxfk/nix_the_breaking_point/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>列出问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgkj78/list_issues/</link>
+      <description><![CDATA[ 由   提交/u/supremeninja3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgkj78/list_issues/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>流媒体平台比较：Kafka/Confluence/Pulsar/AutoMQ/Redpanda/Warpstream</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgkc00/streaming_platform/</link>
+      <description><![CDATA[  由    /u/Dramatic_Row_5990  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgkc00/streaming_platform/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据发现动态：2024 年用例和顶级工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgjonq/data_discovery_dynamics_usecases_and_top_tools/</link>
+      <description><![CDATA[ 由   提交/u/amitarora5423  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgjonq/data_discovery_dynamics_usecases_and_top_tools/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 中查找内容的 4 个快捷命令</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgio26/4_quick_commands_to_find_things_in_linux/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgio26/4_quick_commands_to_find_things_in_linux/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:13:15 GMT</pubDate>
+    </item>
     <item>
       <title>用 Java 实现您自己的垃圾收集器</title>
       <link>https://www.reddit.com/r/programming/comments/1cgi7it/implementing_your_own_garbage_collector_in_java/</link>
-      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Puzzleheaded_Ad4030  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cgi7it/implementing_your_own_garbage_collector_in_java/</guid>
       <pubDate>Tue, 30 Apr 2024 02:50:17 GMT</pubDate>
     </item>
@@ -34,7 +83,7 @@
       <pubDate>Mon, 29 Apr 2024 23:03:17 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot 现在可以利用 AI 帮助启动项目，而不仅仅是完成它</title>
+      <title>GitHub Copilot 现在可以帮助启动人工智能项目，而不仅仅是完成它</title>
       <link>https://www.reddit.com/r/programming/comments/1cgco36/github_copilot_can_now_help_start_a_project_with/</link>
       <description><![CDATA[ 由   提交/u/badshah247  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cgco36/github_copilot_can_now_help_start_a_project_with/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cg9mtc/jank_gets_lazy_sequences_destructuring_and_loop/</guid>
       <pubDate>Mon, 29 Apr 2024 20:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件系统和存储基准测试的九年研究</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9mt6/a_nine_year_study_of_file_system_and_storage/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9mt6/a_nine_year_study_of_file_system_and_storage/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arc4随机</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9mrp/arc4random/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9mrp/arc4random/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索数据库清理之谜</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9mqk/exploring_the_enigma_of_database_vacuuming/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9mqk/exploring_the_enigma_of_database_vacuuming/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>fend - 任意精度单位感知计算器</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9mor/fend_an_arbitraryprecision_unitaware_calculator/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9mor/fend_an_arbitraryprecision_unitaware_calculator/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>所以，你想写一个不安全的箱子</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9moi/so_you_want_to_write_an_unsafe_crate/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9moi/so_you_want_to_write_an_unsafe_crate/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令式服装中的功能语义</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9mnf/functional_semantics_in_imperative_clothing/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9mnf/functional_semantics_in_imperative_clothing/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>6502 – 逆向工程指南（如何阅读模具镜头）[pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9kgg/6502_guideline_to_reverse_engineering_how_to_read/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9kgg/6502_guideline_to_reverse_engineering_how_to_read/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

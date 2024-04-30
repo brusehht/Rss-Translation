@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Photoshop 如何解决处理超出内存容量的文件的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgkqr5/how_photoshop_solved_working_with_files_larger/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgkqr5/how_photoshop_solved_working_with_files_larger/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻求一些简短的技术指导，了解可以使用哪些工具将 LLM 与非营利 WordPress 网站上的 Web 表单集成。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cgjiml/im_seeking_some_brief_technical_guidance_on_what/</link>
+      <description><![CDATA[TL;DR：寻求有关将 LLM 与 Web 表单集成以生成纯文本响应以在我构建的网站上演示的技术建议。 项目概述： 我是一名文案撰稿人，使用 Elementor 和 Wordpress 构建一个非营利网站，以帮助我父母所在社区的老年人。这个易于阅读、易于使用的网站具有一个表格（使用 Formidable Forms 构建），老年人可以匿名填写，无需交换或请求私人信息。我想将表单数据（仅限文本响应）直接提交给法学硕士，让法学硕士生成文本响应，然后将响应发送回我的网站以在我构建的窗口中显示。 需要的技术建议： 如何在按下“提交”按钮后将收集到的表格数据发送给法学硕士。按钮，以及如何从 LLM 接收文本回复并插入我为回复构建的窗口，用户可以在其中阅读回复，并下载或打印它。 我只是寻找用于此集成的推荐工具或 WordPress 插件的名称（例如 Webhooks？），以及相关教程或资源的名称/标题，以便像我这样的非技术人员学习如何做到这一点。 上下文：我已经构建了完整的网站和表单，但我不熟悉后端开发或 API 集成。我研究过聊天机器人，但这个项目不涉及与法学硕士的直接用户交互。 任何建议或指导将不胜感激。即使是简单的一句话“使用工具A来做这件事，插件B做这件事，然后用工具C完成”也可以。会帮助我前进，我会从那里弄清楚。 我已经做了一百万次“弄清楚”。之前的项目，我只是在这个项目上有点困难，因为现在有大量关于人工智能的废话。 非常感谢您提供的任何建议！&lt; /p&gt; （编辑：可能会使用 Claude 或 Meta。我觉得两者通常都比 ChatGPT 提供更好的人类对话响应）   由   提交 /u/hawkweasel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cgjiml/im_seeking_some_brief_technical_guidance_on_what/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:58:42 GMT</pubDate>
+    </item>
     <item>
       <title>暗网站是如何制作的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>自由开发者网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgfj62/freelance_developer_site/</link>
-      <description><![CDATA[我试图让它看起来很专业，同时也看起来很现代。有什么可以做得更好的建议吗？ k29digital.com 谢谢。   由   提交 /u/GlitteringCalendar94   [链接] [评论]]]></description>
+      <description><![CDATA[我试图让它看起来专业，同时也看起来很现代。有什么建议可以让我做得更好吗？ k29digital.com 谢谢。    由   提交  /u/GlitteringCalendar94   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgfj62/freelance_developer_site/</guid>
       <pubDate>Tue, 30 Apr 2024 00:41:03 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>Web 开发新手，如何在 html 中嵌入内容？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgf24n/new_to_web_dev_how_can_i_embed_things_in_html/</link>
-      <description><![CDATA[我是网络开发/设计的新手，但我主要制作游戏。所以我想知道您是否可以（如果可以，如何）将某些内容嵌入到 html 中的网站中。    提交人    /u/FoamyHotSoup   [link] [评论]]]></description>
+      <description><![CDATA[所以我是网页开发/设计的新手，但我主要制作游戏。所以我想知道您是否可以（如果可以的话如何）将某些内容嵌入到 html 网站中。   由   提交/u/FoamyHotSoup  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgf24n/new_to_web_dev_how_can_i_embed_things_in_html/</guid>
       <pubDate>Tue, 30 Apr 2024 00:19:31 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 29 Apr 2024 21:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>业余爱好者和行业常用哪些后端框架/语言？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cga031/which_backend_frameworkslanguages_are_used/</link>
-      <description><![CDATA[一般来说，我大多数时候听到的是，如果你想获得高薪，你应该学习 Java 之类的东西，如果你想要任何语言，你只是为了好玩而编程。我很好奇人们是否经常使用某种语言来实现这两个目的？当然，第二点肯定是主观的，但我认为在最喜欢的后端框架方面有一个非常突出的趋势（我从未见过有人使用过 Spring Boot 并喜欢它，至少与其他框架相比） 。哪些语言在业界报酬很高，但也受到业余开发者的喜爱（如果有的话）？ 我很想知道你们的想法:)   由   提交/u/7turtlereddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cga031/which_backend_frameworkslanguages_are_used/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于这个长期客户来说，每小时的费率调整多少合适？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg9lzp/what_would_be_an_adequate_hourly_rate_adjustment/</link>
-      <description><![CDATA[我在 2019 年为客户建立了一个内部网站，当我还是一名学生（我的第一个客户）时，该网站从根本上改变了他们的业务运营。我向他们收取了 25 美元/小时的费用。现在已经 5 年过去了，我还没有提高价格，每小时 25 美元的工作费用几乎不再值得我花时间了。 我最近刚刚向客户收取了每小时 120 美元的费用。项目，所以我想将我的费率提高到 70 美元/小时，这相当于过去 5 年每年增加 9 美元/小时。这公平吗？这些天我几乎没有为他们做任何工作，但他们时常会伸手寻求一些东西。   由   提交 /u/RugerHD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg9lzp/what_would_be_an_adequate_hourly_rate_adjustment/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个用手指打鼓的 AI 工具 https://handstrument.netlify.app/</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg8ufi/made_an_ai_tool_to_play_drums_with_your_fingers/</link>
-      <description><![CDATA[        提交人    /u/curryboi99   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg8ufi/made_an_ai_tool_to_play_drums_with_your_fingers/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:02:59 GMT</pubDate>
+      <title>重建我的组织的网上商店服务的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cg921d/advice_for_rebuilding_my_organizations_webstore/</link>
+      <description><![CDATA[我将自己描述为一名初级全栈 Web 开发人员。这可能听起来很奇怪，但这是因为我是我的组织雇用的第一个开发人员，而这里唯一的其他开发人员的经验比我少。因此，我负责我们需要的任何后端编程，以及一些更高级的前端内容。我熟悉 HTML、CSS、JS、TS、Node.js、React、Prisma 和简单的关系数据库。 我们做什么？ &lt; p&gt;除其他事项外，我的组织还销售网上商店。这些基本上是我们为客户建立的小型在线商店，然后客户使用这些商店向自己的客户销售产品。 当我 6 个月前被雇用时，所使用的流程相当混乱。现在仍然如此。所有网上商店都是在 WordPress 多站点环境中的 WooCommerce 中构建的。一切都托管在同一服务器上。新的网上商店是通过复制模板创建的。每当我们想要在网上商店中包含一些自定义功能时，我们基本上都是通过安装大量插件并添加我们在 Google 上找到的 PHP 片段来将其组合在一起。随着插件和网上商店数量的增加，性能逐渐恶化。 我们要去哪里？ 我们希望继续扩展我们的网上商店产品到 50、100 以及更多。我们知道我们当前的方法是不可持续的，作为这里最有经验的开发人员，我很乐意带头彻底改革我们的网络商店方法。我总是喜欢挑战，这会在我的简历上看起来很棒。 但我也只有 1.5 年的 Web 开发经验，并且没有现场高级工程师可以学习。由于我相对缺乏经验，我不想在这次重建中带领我的组织走上错误的道路。 我的本​​能是利用无头电子商务和无头 CMS，并构建某种带有仪表板的轻量级全栈应用程序，管理员可以在其中以非常简化的方式定义新网上商店的数据（无需复制整个网站，就像我们现在所做的那样）。然后，当用户输入网上商店的 URL 时，将显示一个不同的商店，但实际上它只是一个 React 前端，可以根据后端网上商店的数据动态更改样式并启用/禁用功能。&lt; /p&gt; 我在要求什么？ 我并不是在寻找任何人给我所有的答案，或者为我解决一切问题。我只是在寻找比我更有经验的开发人员的一些意见和总体方向。 如果您有时间，请查看我们下面的要求，并提出您的任何建议。通过阅读这些内容，您可能会发现我的知识中存在一些空白，因此也请随时指出这些空白。 ​  安全、高性能的托管 电子商务功能（包括运输、退货、税务计算等） 我们需要一个预构建的解决方案，因为自己构建这个解决方案根本不现实。  能够为不同的商店提供自定义域名（例如 www .clothingstore.com 和 www.computerstore.com 都将由我的应用程序提供服务） 灵活地为某些 URL 提供静态页面 (HTML/CSS/JS)，为其他 URL 提供 React 应用 一个轻量级 CMS 来管理这些静态页面以及存储媒体  我们需要预构建的解决方案，因为我自己构建这个解决方案根本不现实。  配置每个网上商店并定义其数据的简化流程 可扩展性是必须  感谢您从头到尾阅读，以及您选择提供的任何意见！    ;由   提交/u/megalogue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cg921d/advice_for_rebuilding_my_organizations_webstore/</guid>
+      <pubDate>Mon, 29 Apr 2024 20:11:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
