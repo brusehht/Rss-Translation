@@ -3,8 +3,29 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:19:35 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 15:10:08 GMT</lastBuildDate>
+    <item>
+      <title>我需要语音克隆方面的帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtr8q/i_need_help_with_voice_cloning/</link>
+      <description><![CDATA[你好，我正在尝试训练我的声音，所以用它来做一些很酷的事情。我一直在看一个播客，他们允许人们用自己的声音制作有趣的歌曲并发送给他们，我觉得这看起来很酷，想用自己的声音来做，以供自己娱乐，但我不想付钱（我现在真的买不起任何东西）来做这件事的程序。如果能够使用一个免费的文本转语音程序来表达我自己的声音，或者甚至是一个变声器，使用一个同意的名人的声音来听起来像他们，那真是太酷了。  我知道第二个道德规范仍然处于灰色地带，但我计划完全将其保留在我自己的声音或同意使用他们的声音的人之内。第一个是我这样做的主要目的。  提前感谢大家的帮助。   由   提交/u/SQUISHYx25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtr8q/i_need_help_with_voice_cloning/</guid>
+      <pubDate>Tue, 30 Apr 2024 14:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士支持每日新闻文摘 - 公正+快速</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtfpz/llm_powered_daily_news_digest_unbiased_quick/</link>
+      <description><![CDATA[你好， 我已经构建了 Quill 新闻摘要。这是一个每日新摘要，想法简单。重要新闻是最受关注的新闻。我们的目标是成为了解情况的最佳场所。既快速又轻松。没有偏见或动机。 我们每天早上阅读 5000 多篇文章，将它们合并成类似的集合，并为您提供一个视觉故事。 每个故事都包含摘要、引言、图像、和交互式地图。 ______ 在幕后使用嵌入和 LLMS 构建。在过去的一年里，LLMS 的进步令人难以置信，现在提供了一个非常好的总结。 API 与本地 LLM： 我尝试过使用公共 API 并在本地运行与美洲驼。但最终我决定附加到公共 API，直到指数曲线减慢。  他们的想法是他们可以比我更好地建立法学硕士。我不妨让他们担心产品的这一方面，而我则专注于改善用户体验。  我目前正在使用 GPT-4-turbo，最近的版本对以下说明进行了巨大改进。切换到 LLAMA 很诱人，但我们将在今年晚些时候看到 GPT-5 的发布。我认为现在继续使用 openAI 是最好的选择。  嵌入： 幕后有两个主要部分。用于创建集群的嵌入和用于提取内容的 LLM。我使用嵌入来比较标题并创建文章集群。它只是一个比较相似度的余号距离算法。  LLM： 有趣的部分是结合不同的 LLMS 来创建最小成本/最大价值摘要。我是独立开发商，所以我没有钱花。比较整个互联网文章的成本很高。  我使用 GPT-3-Turbo 组合来获取非结构化数据，然后在需要非常具体的指令时转向 GPT-4。两者的结合在降低成本方面发挥了神奇作用。  理想情况下，我会为所有事情使用最好的模型，但现在不可能。 总体而言： 学习法学硕士的所有知识是一次很棒的经历。我是一名全职 iOS 开发人员，所以这一切对我来说都是新鲜事。  我很高兴回答您的任何问题！感谢您的浏览。 https://apps.apple.com /us/app/quill-news-digest/id1669557131   由   提交/u/schultz7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtfpz/llm_powered_daily_news_digest_unbiased_quick/</guid>
+      <pubDate>Tue, 30 Apr 2024 13:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>文本通信分析 GPT4 完整包</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtarr/text_communication_analytics_gpt4_full_bundle/</link>
+      <description><![CDATA[  由    /u/No-Transition3372  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtarr/text_communication_analytics_gpt4_full_bundle/</guid>
+      <pubDate>Tue, 30 Apr 2024 13:48:55 GMT</pubDate>
+    </item>
     <item>
       <title>Instagram 上大量人工智能自动化广告</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgrdqg/influx_of_ai_automation_ads_on_instagram/</link>
@@ -22,30 +43,16 @@
     <item>
       <title>NLP vs. LLM：工具带 vs. 瑞士军刀</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgqqx5/nlp_vs_llm_toolbelt_vs_swiss_army_knife/</link>
-      <description><![CDATA[自然语言处理 (NLP) 和大型语言模型 (LLM) 都在彻底改变我们与机器交互的方式。但是什么让它们与众不同？将 NLP 视为一个储备丰富的工具箱。它装有用于特定任务的专用工具，例如用于钉钉子的锤子或用于切割木材的锯子。 NLP 擅长情感分析或语法纠正等任务。 另一方面，法学硕士就像瑞士军刀。它们是一个强大的工具，具有大量的功能。虽然并非对每项工作都那么精确，但它们可以处理更广泛的任务，从翻译到创意写作。因此，下次您与聊天机器人交互或阅读人工智能生成的内容时，请记住其背后的技术 - NLP适合精确的工作，法学硕士适合多种方法。 https://www.seaflux.tech/blogs/llm-vs-nlp-use-case-for-business-solutions   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <description><![CDATA[自然语言处理 (NLP) 和大型语言模型 (LLM) 都在彻底改变我们与机器的交互方式。但它们有何不同？ 可以将 NLP 视为一个储备充足的工具箱。它包含用于特定任务的专用工具，例如用于敲钉子的锤子或用于切割木材的锯子。NLP 擅长于情绪分析或语法校正等任务。 另一方面，LLM 就像瑞士军刀。它们是一种功能强大的工具，具有多种功能。虽然它们并不能精确地完成每项工作，但它们可以处理从翻译到创意写作等更广泛的任务。 因此，下次您与聊天机器人交互或阅读 AI 生成的内容时，请记住其背后的技术 - NLP 用于精确的工作，LLM 用于多功能方法。 https://www.seaflux.tech/blogs/llm-vs-nlp-use-case-for-business-solutions    提交人    /u/krunal_bhimani_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgqqx5/nlp_vs_llm_toolbelt_vs_swiss_army_knife/</guid>
       <pubDate>Tue, 30 Apr 2024 11:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>Dialogflow：构建对话式 AI 解决方案的未来</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgqond/dialogflow_building_the_future_of_conversational/</link>
-      <description><![CDATA[Dialogflow 是 Google 推出的对话式 AI 平台，处于塑造我们与机器交互的未来的最前沿。通过利用自然语言处理 (NLP) 和机器学习的力量，Dialogflow 使开发人员能够设计聊天机器人和虚拟助理，以日益复杂的方式理解和响应用户查询。 该技术可带来更加自然、直观的用户体验，使互动变得流畅且有吸引力。 Dialogflow 的持续学习功能使对话式 AI 能够不断改进、调整其响应并更精确地理解用户意图。随着对话式人工智能的不断发展，Dialogflow 有望成为塑造人机交互未来的主导力量。 https://www.seaflux.tech/blogs/dialogflow-ai-solutions-transforming-businesses   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgqond/dialogflow_building_the_future_of_conversational/</guid>
-      <pubDate>Tue, 30 Apr 2024 11:39:04 GMT</pubDate>
-    </item>
-    <item>
       <title>Google Cloud 教育订阅值得吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgpxys/is_google_cloud_education_subscription_worth_it/</link>
-      <description><![CDATA[我是一名自学成才的程序员，主要使用 Python。 随着 AI 领域的快速发展，选择哪个是相当复杂的值得坚持的型号。Gemini 1.5 Pro 最新的视频处理能力非常令人印象深刻。所以我正在考虑尝试一些 Google Cloud 培训来提高我的技能，希望能为我的教育行业开发一个全栈应用程序。 环顾四周后，Google Cloud 的收费为 299 美元/年，还有一些额外的学分，更少比 Coursera 价格的一半还要多。 有人可以对此发表一些想法吗？    由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1cgpxys/is_google_cloud_education_subscription_worth_it/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我是一名自学成才的程序员，主要使用 Python。 随着人工智能领域的快速发展，选择坚持使用哪种模型变得非常复杂。 Gemini 1.5 Pro 最新的视频处理功能非常令人印象深刻。所以我想尝试一些 Google Cloud 培训来提高我的技能，希望为我的行业（教育）开发一个全栈应用程序。 环顾四周后，Google Cloud 收费 299 美元/年，外加一些额外学分，不到 Coursera 价格的一半。 有人可以对此发表一些看法吗？     提交人    /u/Fr33-Thinker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgpxys/is_google_cloud_education_subscription_worth_it/</guid>
       <pubDate>Tue, 30 Apr 2024 10:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于定制面试准备应用程序的免费法学硕士</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgpug2/free_llm_for_custom_interview_preparation_app/</link>
-      <description><![CDATA[我目前正在开发自定义面试准备应用程序，需要一些指导。具体来说，我正在寻找一个具有微调功能的免费语言模型 (LM)，我可以使用它来增强应用程序的功能。 理想情况下，我正在寻找一个具有以下功能的语言模型：  p&gt; 可免费用于商业目的。 支持对自定义数据集进行微调，使我能够根据面试准备的特定需求定制模型。 提供在各种自然语言处理任务中具有强大的性能和准确性。 我已经对可用选项进行了一些研究，但我正在努力寻找满足我所有标准的合适解决方案  ​ 如果您知道任何符合要求的免费语言模型，或者您有针对自定义应用程序微调 LM 的经验，我将非常感谢您的建议。当我继续开发这个项目时，任何提示、建议或正确方向的指示都会非常有帮助。 提前致谢  &amp; #32；由   提交 /u/Raz--8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgpug2/free_llm_for_custom_interview_preparation_app/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:48:51 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT的AI“记忆”可以记住付费客户的偏好</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[我兴奋极了。好吧，我想到了一个想法。从技术上讲，您通过人工智能生成的所有内容都被视为您的知识产权吗？想想艺术、音乐、诗歌等   由   提交 /u/bontakoyaki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkbca/crazy_thought_for_debate/</guid>
       <pubDate>Tue, 30 Apr 2024 04:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！我正在整理一系列对企业有用的人工智能应用程序和工具。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgixux/help_im_curating_a_list_of_helpful_ai_apps_and/</link>
-      <description><![CDATA[大家好！ 我正在 BillionAI.co 我的目标是确保它的用户友好性，允许用户按用例搜索、按类别过滤并添加评论。 我已经添加了约 57 个应用程序，但*好*的应用程序所剩无几。 您当前使用和喜爱的最喜欢的应用程序是什么？请分享，我会确保将它们包括在内。 谢谢！   由   提交 /u/UXHelpline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgixux/help_im_curating_a_list_of_helpful_ai_apps_and/</guid>
-      <pubDate>Tue, 30 Apr 2024 03:27:29 GMT</pubDate>
     </item>
     <item>
       <title>我使用 OpenAI 助手 API 制作了一个简单的语音 AI 助手。</title>

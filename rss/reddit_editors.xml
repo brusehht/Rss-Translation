@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新投稿：编辑</title>
+    <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:10:57 GMT</lastBuildDate>
     <item>
       <title>使用 Macbook 作为 Windows 10 PC 的第二个显示器？</title>
       <link>https://www.reddit.com/r/editors/comments/1cgpfw1/use_macbook_as_a_second_monitor_for_windows_10_pc/</link>
@@ -20,9 +20,9 @@
       <pubDate>Tue, 30 Apr 2024 04:01:38 GMT</pubDate>
     </item>
     <item>
-      <title>有预告片编辑成功退出该行业吗？你现在做什么？</title>
+      <title>有没有成功退出该行业的预告片剪辑师？你现在做什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1cgituh/any_trailer_editors_successfully_exit_the/</link>
-      <description><![CDATA[我从事这项工作和代理工作已经快 10 年了。我得过奖，完成过大作品，赚了很多钱，而且……我真的讨厌我的生活。我试图想象一个没有这些的未来，但这很难，因为我只知道这些。  这里的预告片编辑有没有遇到过类似的情况？假设你已经尝试过其他代理机构/成为自由职业者，你是如何继续前进的？     提交人    /u/Spare_Ad_6776   [链接] [评论]]]></description>
+      <description><![CDATA[我从事这一行并过着代理生活已经快 10 年了。我赢得了奖项，我完成了大作品，我赚了很多钱，而且……我真的他妈的讨厌我的生活。我试图想象一个没有这些的未来，但这很难，因为这就是我所知道的一切。  这里有预告片编辑者发现自己处于类似的境地吗？假设您已经尝试过其他机构/成为自由职业者，您做了什么才能继续前进？    由   提交/u/Spare_Ad_6776   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgituh/any_trailer_editors_successfully_exit_the/</guid>
       <pubDate>Tue, 30 Apr 2024 03:21:39 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 30 Apr 2024 02:39:40 GMT</pubDate>
     </item>
     <item>
-      <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方式</title>
+      <title>使用 M2 Max 优化 Premiere Pro 暂存/缓存/项目/素材 M.2 SSD 的最佳方法</title>
       <link>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</link>
       <description><![CDATA[所以我昨晚购买了一台 M2 Max Macbook Pro，并意识到它具有三个 Thunderbolt 3 端口，以便优化 Premiere Pro 中的编辑，我是在这样的情况下吗？我想我应该购买三个 Sabrent M.2 Thunderbolt NVMe Enclosure SSD 扩展坞，然后使用一个 256GB M.2 SSD 作为媒体缓存文件和数据库，另一个 256GB M.2 SSD 用于暂存盘，然后是第三个也是最后一个 4TB M.2 用于项目文件和我正在处理的项目的源素材/rushes，因此离开了我的 Mac OS 和 Premiere Pro Macbook 内置 SSD 上的软件。 这是设置所有内容的最佳方式吗？或者项目文件是否需要位于 Mac 的内部 SSD 上，以便与 Premiere Pro 软件本身位于同一驱动器上？就瓶颈/读写速度而言，我应该全面购买三星 EVO 980 Pro，还是可以选择像金士顿这样便宜的东西？我不确定 Thunderbolt 3 的实际带宽是多少，以及获得最快、最好的 NVME m.2 驱动器是否过度杀伤力。最后，有没有任何集线器或不那么混乱/加密狗的方式可以做到这一点哈哈 系统规格：Macbook M2 Max 12 核 - 30 核 GPU    由   提交 /u/Impyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgfabn/best_way_to_optimise_premiere_pro/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 29 Apr 2024 23:35:32 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere Pro，音频混合剪辑，但单个音轨看起来不错</title>
+      <title>Premiere Pro，音频混合剪辑，但单个轨道看起来不错</title>
       <link>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</link>
       <description><![CDATA[您好！我正在准备交付序列并遇到问题。根据音轨混音器，主混音正在剪辑。然而，轨道本身没有被剪辑。事实上，我只播放一个音轨，并且没有子混音、轨道效果或剪辑效果。所有音轨和混音的音量设置为统一。有人见过这个吗？ Premiere Pro 24.3、Macbook Pro M3 [编辑：问题通过系统重新启动修复。提醒您在发帖前尝试基本的故障排除]   由   提交/u/Powerful-Bread5543  /u/Powerful-Bread5543 reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</guid>
@@ -92,19 +92,19 @@
     <item>
       <title>清晰链接已关闭</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
-      <description><![CDATA[你们这段时间都在做什么？   由   提交 /u/mjgoodenow   [链接] [评论]]]></description>
+      <description><![CDATA[你们这段时间都在干嘛？    提交人    /u/mjgoodenow   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</guid>
       <pubDate>Mon, 29 Apr 2024 18:03:23 GMT</pubDate>
     </item>
     <item>
       <title>您使用什么蓝牙耳机？</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</link>
-      <description><![CDATA[我目前使用拜亚动力 DT990 Pro，但我希望将来在家庭办公室编辑时切换到蓝牙。质量与DT990相当的蓝牙耳机有哪些？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
+      <description><![CDATA[我目前使用的是 Beyerdynamics DT990 Pro，但我希望将来在编辑时在家中办公室切换到蓝牙。 哪款蓝牙耳机在质量方面与 DT990 处于相似水平？    提交人    /u/Zeigerful   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5pfw/what_bluetooth_headset_do_you_use/</guid>
       <pubDate>Mon, 29 Apr 2024 17:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>是或不是……诚实</title>
+      <title>要不要诚实</title>
       <link>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</link>
       <description><![CDATA[当与导演/制片人或任何一般客户会面时，他们询问您对（镜头/剧本/电影等）的诚实意见，您如何处理这个问题？我确实认为诚实是最好的方法，但很多时候，当被问到这个问题时，你并没有建立关系，而且你不知道他们对内容的感受。有时他们会睁大眼睛看到它的缺陷，有时他们会认为它是一件杰作，但实际上它与杰作相去甚远。想法？    由   提交 /u/neederman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</guid>
