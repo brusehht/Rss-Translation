@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:12:49 GMT</lastBuildDate>
+    <item>
+      <title>暗网站是如何制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</link>
+      <description><![CDATA[我真的很好奇暗网网站是如何创建的。它是否遵循与表面网络类似的过程？洋葱网站使用哪些编码语言，以及使用哪些软件进行设计和开发？我渴望了解设计和构建这些网站的复杂性以及所涉及的挑战。如果有人对此主题有见解，请分享 - 我真诚地有兴趣了解更多相关信息。   由   提交/u/12A5H3FE  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cghzl3/how_dark_web_sites_are_made/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>身份验证流程的最佳实践是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cghqho/whats_the_best_practice_for_the_auth_flow/</link>
+      <description><![CDATA[在我当前的移动应用程序中，我已经实现了用于电子邮件/密码身份验证的身份验证流程：  客户端使用 EmailPassword DTO 对端点（身份验证/登录和身份验证/注册）进行 API 调用。 验证凭据后，服务器返回有效期为 5 分钟的 accessToken 和有效期为 30 天的刷新令牌。&lt; /li&gt; 客户端将这些令牌安全地存储在加密的本地存储中，并使用 accessToken 来进行后续的服务器请求。 如果 accessToken 过期，服务器将返回 401 Unauthorized 状态码，提示客户端向后端发送一个发布请求以刷新访问令牌。  现在，我正在探索使用 Firebase 身份验证集成社交登录，尽管我仍在决定提供商，例如苏帕巴斯。以下是我正在考虑的流程：  登录社交提供商后，Firebase 会向客户端返回一个 ID 令牌。 客户端将此 ID 令牌发送给后端进行验证。 如果 ID 令牌有效，后端会发出访问令牌和刷新令牌，与现有流程类似。  执行这些建议的流程你觉得正确吗？任何意见，将不胜感激。另外，有效期为 30 天的刷新令牌有意义吗？我发现有些应用程序在第一次登录时不会提示用户再次登录，所以这些刷新令牌似乎永远不会过期？   由   提交/u/lonely_programmer01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cghqho/whats_the_best_practice_for_the_auth_flow/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对这次招聘挑战有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cggv6m/what_do_you_think_of_this_hiring_challenge/</link>
+      <description><![CDATA[在搜索我遇到的东西时 https: //github.com/datapane/fe-hiring-challenge。我没有专业地做过网络前端工作，所以我不知道他们为这项任务建议的时间是否合理。 请记住，该任务是故意开放式的，我觉得如果我试图用我目前知道的来解决这个问题，但我会花费太长时间来构建完整的解决方案。我认为，只有 2-4 个小时，成功的关键是构建出他们之前想要的东西，这样人们就可以或多或少地凭记忆完成它。 但我是网络方面的菜鸟，而且我知道，所以我很好奇有经验的人是怎么想的。这是一个合理的招聘挑战吗？   由   提交 /u/houseofmercy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cggv6m/what_do_you_think_of_this_hiring_challenge/</guid>
+      <pubDate>Tue, 30 Apr 2024 01:44:35 GMT</pubDate>
+    </item>
     <item>
       <title>自由开发者网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgfj62/freelance_developer_site/</link>
@@ -22,14 +43,14 @@
     <item>
       <title>Web 开发新手，如何在 html 中嵌入内容？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgf24n/new_to_web_dev_how_can_i_embed_things_in_html/</link>
-      <description><![CDATA[所以我是网页开发/设计的新手，但我主要制作游戏。所以我想知道您是否可以（如果可以的话如何）将某些内容嵌入到 html 网站中。   由   提交/u/FoamyHotSoup  [链接] [评论]]]></description>
+      <description><![CDATA[我是网络开发/设计的新手，但我主要制作游戏。所以我想知道您是否可以（如果可以，如何）将某些内容嵌入到 html 中的网站中。    提交人    /u/FoamyHotSoup   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgf24n/new_to_web_dev_how_can_i_embed_things_in_html/</guid>
       <pubDate>Tue, 30 Apr 2024 00:19:31 GMT</pubDate>
     </item>
     <item>
       <title>预算（或免费）网站，需要使用动态网络表单收集客户信息。我应该用什么。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgf24c/budget_or_free_website_and_need_to_collect_client/</link>
-      <description><![CDATA[我需要通过网络表单收集信息，什么是最好的工具？ 我使用过 Google 网站/表单和Microsoft Sharepoint/形成一堆。两者都还好，充其量。但缺乏基本的东西。 我需要收集具有某种逻辑的用户响应，例如“如果他们在问题 X 上选择了“是”，则向他们显示问题 Y” - 或 - “如果他们对问题 Y 选择否，则不显示问题 Z” - 或 - “允许用户向表中添加更多行” 将他们的响应输出为完整的 PDF（而不仅仅是纯 CSV）是至关重要的。我希望能够将 PDF 提交给其他人，而无需我进行任何手动编辑或更改。 某种形式的验证码/身份验证/机器人预防是必不可少的（它将是公开可用的形式） . 电子签名会很好，但不是必需的。 我的第一个想法是继续使用 Google Site 或 Microsoft Sharepoint 并嵌入 Adob​​e 或 Foxit 的某些内容。但是，我想知道是否有人有更好的起点？ 谢谢   由   提交/u/chiababy6969   [链接] [评论]]]></description>
+      <description><![CDATA[我需要通过网络表单收集信息，什么是最好的工具？ 我使用过 Google 网站/表单和Microsoft Sharepoint/形成一堆。两者都还好，充其量。但缺乏基本的东西。 我需要收集具有一定逻辑的用户响应，例如“如果他们在问题 X 上选择了“是”，则向他们显示问题 Y” - 或 - “如果他们对问题 Y 选择否，则不显示问题 Z” - 或 - “允许用户向表中添加更多行” 将他们的响应输出为完整的 PDF（而不仅仅是纯 CSV）是至关重要的。我希望能够将 PDF 提交给其他人，而无需我进行任何手动编辑或更改。 某种形式的验证码/身份验证/机器人预防是必不可少的（它将是公开可用的形式） . 电子签名会很好，但不是必需的。 我的第一个想法是继续使用 Google Site 或 Microsoft Sharepoint 并嵌入 Adob​​e 或 Foxit 的某些内容。但是，我想知道是否有人有更好的起点？ 谢谢   由   提交/u/chiababy6969   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgf24c/budget_or_free_website_and_need_to_collect_client/</guid>
       <pubDate>Tue, 30 Apr 2024 00:19:30 GMT</pubDate>
     </item>
@@ -41,7 +62,7 @@
       <pubDate>Mon, 29 Apr 2024 22:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>我认为 GoDaddy 代表破坏了我的网站，迫使我支付更高级别的 WordPress 套餐费用</title>
+      <title>我认为 GoDaddy 代表破坏了我的网站，以迫使我支付更高级别的 WordPress 计划</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgbzn2/i_think_a_godaddy_rep_broke_my_website_to/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgbzn2/i_think_a_godaddy_rep_broke_my_website_to/</guid>
@@ -57,7 +78,7 @@
     <item>
       <title>离开wordpress？？？帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1cgasmi/moving_off_of_wordpress_help/</link>
-      <description><![CDATA[大家好， 我的公司有两个 WordPress 网站。我最近受聘帮助他们将这两个网站最终自定义重建/重新设计为反应应用程序。不过在此之前，有人讨论过将 WordPress 上的网站转移到 AWS 上，一旦我们建立了新网站，我们将在 AWS 上托管这些网站。 infosec 担心安全风险，我们的母公司随时来找我们，要求我们尽快退出 WordPress，所以本质上他们想要做的是让网站几乎保持原样……只是不在 WordPress 上。所以基本上我们需要托管 php 代码，为数据库创建一个 s3 存储桶并将其复制过来，迁移所有图像资产，然后以某种方式处理当前正在使用的所有插件并重新配置任何相关代码。此外，为当前存在的所有博客文章找到另一种解决方案，以及如何轻松添加新博客文章。除了重新配置 Google 标签管理器、我们的聊天机器人软件等之外。 我不是 WordPress 开发人员...我的大部分经验是制作自定义网站和 Web 应用程序，主要是在 React/TypeScript 中，所以执行上述操作对我来说听起来很痛苦而且非常耗时。这种想法可能是正确的，还是我想得太多了，让事情变得比他们需要的更复杂？因为只是重申一下，他们不想只获取静态文件并将它们托管在其他地方......他们希望将整个站点从 WordPress 迁移出来，但其行为与 WordPress 上完全相同......只是没有 WordPress 来覆盖我们的在我们从头开始重建这个东西时，我们对可能的安全问题/母公司的法律问题感到不满。 请让我知道您的想法，或者我是否可以提供任何其他附加信息。谢谢！   由   提交 /u/lilguavabean   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我的公司有两个 WordPress 网站。我最近受聘帮助他们将这两个网站最终自定义重建/重新设计为反应应用程序。不过在此之前，有人讨论过将 WordPress 上的网站转移到 AWS 上，一旦我们建立了新网站，我们将在 AWS 上托管这些网站。 infosec 担心安全风险，我们的母公司随时来找我们，要求我们尽快退出 WordPress，所以本质上他们想要做的是让网站几乎保持原样……只是不在 WordPress 上。所以基本上我们需要托管 php 代码，为数据库创建一个 s3 存储桶并将其复制过来，迁移所有图像资产，然后以某种方式处理当前正在使用的所有插件并重新配置任何相关代码。此外，为当前存在的所有博客文章找到另一种解决方案，以及如何轻松添加新博客文章。除了重新配置 Google 标签管理器、我们的聊天机器人软件等之外。 我不是 WordPress 开发人员...我的大部分经验是制作自定义网站和 Web 应用程序，主要是在 React/TypeScript 中，所以执行上述操作对我来说听起来很痛苦而且非常耗时。这种想法可能是正确的，还是我想得太多了，让事情变得比他们需要的更复杂？因为只是重申一下，他们不想只获取静态文件并将它们托管在其他地方......他们希望将整个站点从 WordPress 迁移出来，但其行为与 WordPress 上完全相同......只是没有 WordPress 来覆盖我们的当我们从头开始重建这个东西时，我们可能会担心可能的安全问题/母公司的法律问题。 请让我知道您的想法，或者我是否可以提供任何其他附加信息。谢谢！   由   提交 /u/lilguavabean   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cgasmi/moving_off_of_wordpress_help/</guid>
       <pubDate>Mon, 29 Apr 2024 21:19:03 GMT</pubDate>
     </item>
@@ -78,37 +99,16 @@
     <item>
       <title>对于这个长期客户来说，每小时的费率调整多少合适？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cg9lzp/what_would_be_an_adequate_hourly_rate_adjustment/</link>
-      <description><![CDATA[我在 2019 年为客户建立了一个内部网站，当我还是一名学生（我的第一个客户）时，该网站从根本上改变了他们的业务运营。我向他们收取了 25 美元/小时的费用。现在已经 5 年过去了，我还没有提高价格，每小时 25 美元的工作费用几乎不再值得我花时间了。 我最近刚刚向客户收取了 120 美元/小时的费用。项目，所以我想将我的费率提高到 70 美元/小时，相当于过去 5 年每年增加 9 美元/小时。这公平吗？这些天我几乎没有为他们做任何工作，但他们时常会伸手寻求一些东西。   由   提交 /u/RugerHD   [链接] [评论]]]></description>
+      <description><![CDATA[我在 2019 年为客户建立了一个内部网站，当我还是一名学生（我的第一个客户）时，该网站从根本上改变了他们的业务运营。我向他们收取了 25 美元/小时的费用。现在已经 5 年过去了，我还没有提高价格，每小时 25 美元的工作费用几乎不再值得我花时间了。 我最近刚刚向客户收取了每小时 120 美元的费用。项目，所以我想将我的费率提高到 70 美元/小时，这相当于过去 5 年每年增加 9 美元/小时。这公平吗？这些天我几乎没有为他们做任何工作，但他们时常会伸手寻求一些东西。   由   提交 /u/RugerHD   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cg9lzp/what_would_be_an_adequate_hourly_rate_adjustment/</guid>
       <pubDate>Mon, 29 Apr 2024 20:32:51 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个用手指打鼓的人工智能工具 https://handstrument.netlify.app/</title>
+      <title>制作了一个用手指打鼓的 AI 工具 https://handstrument.netlify.app/</title>
       <link>https://www.reddit.com/r/webdev/comments/1cg8ufi/made_an_ai_tool_to_play_drums_with_your_fingers/</link>
-      <description><![CDATA[       由   提交/u/curryboi99  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/curryboi99   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cg8ufi/made_an_ai_tool_to_play_drums_with_your_fingers/</guid>
       <pubDate>Mon, 29 Apr 2024 20:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头 CMS：Prismic 还是 Sanity？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg7xko/headless_cms_prismic_or_sanity/</link>
-      <description><![CDATA[大家好，我正在使用 Nextjs 创建一个网站，我正在寻找一个具有免费套餐的托管 CMS，它可以帮助我开始我的项目一旦我开始获得流量并赚到一些钱，我就会转向专业计划。 问题是我的网站上会有很多文档。 Sanity 的定价相当不错，但他们的增长计划包括 25,000 个文档，之后每月要为额外的 25,000 个文档额外支付 300 美元，如果项目增长，这对我来说可能会变得相当昂贵。  另一方面，Prismic 即使在其免费计划中也包含无限的文档，因此 Prismic 对我来说是一个更好的选择，但我对 Prismic 的了解不多。只要我不过度使用免费计划的其他配额，这些无限文档真的是无限的吗？当然，我最终会转向专业计划，但他们的免费计划能带我走多远？  你们中有人使用过 Prismic 吗？您会推荐它，还是我应该坚持使用 Sanity？   由   提交/u/Dull-Ad2820   /u/Dull-Ad2820 reddit.com/r/webdev/comments/1cg7xko/headless_cms_prismic_or_sanity/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg7xko/headless_cms_prismic_or_sanity/</guid>
-      <pubDate>Mon, 29 Apr 2024 19:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由开发者：哪些行业和客户为每个网站支付的费用最高？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg5qsy/freelance_devs_what_industries_and_clients_pay/</link>
-      <description><![CDATA[研究为客户构建网站。肯定想缩小规模。宁愿专注于为客户提供数量较少、报酬较高、质量较高的网站，而不是快速而廉价地推出这些网站。  哪些行业和企业愿意为一个网站支付 5-10K+ 的费用？  是像shopify这样的电子商务吗？我很想听听这方面的经验！ ​ 在网上，我看到有人专注于某个领域，比如说水管工。然后他们将拥有一两个管道工网站模板，可以快速为客户定制。他们可能会收取不到 1K 的网站费用，以及一定数额的经常性维护或托管费用。通过这种策略，他们似乎更加关注销售量和推销电话。 ​ 你们中的任何人是否有过尝试专注于更少的方法的经验？客户，但提供更高质量、更多定制和更昂贵的服务？如果是，这些是什么类型的行业或企业？ ​ 如有任何反馈，我们将不胜感激！   由   提交/u/kekbruh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg5qsy/freelance_devs_what_industries_and_clients_pay/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理异步回调中延迟的 XHR 响应？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cg5csm/how_do_you_deal_with_late_xhr_responses_in_your/</link>
-      <description><![CDATA[每当用户网络连接较差时，我的 js 应用程序往往会产生错误。它是这样的：  用户访问页面 A。 页面 A 发出 XHR 请求，但速度很慢。 用户导航到页面 B。  XHR 最终返回并触发回调，该回调本来是在页面 A 而不是页面 B 上运行的。混乱随之而来。  显然我可以在案例中处理这个问题根据具体情况（“如果仍然是页面A，则不要做其他事情”），但我很好奇任何人处理这个必须是一个相当普遍的问题的经验。您是如何在应用程序中解决这个问题的？有什么一般理论或原则吗？ FWIW 我的应用程序是 Vue 和 Axios，但同样，我更有兴趣听到一般方法。谢谢！   由   提交/u/secretprocess  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cg5csm/how_do_you_deal_with_late_xhr_responses_in_your/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:44:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
