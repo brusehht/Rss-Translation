@@ -3,88 +3,87 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:10:51 GMT</lastBuildDate>
+    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 21:12:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 文件文件系统（ffs）是一个允许用户挂载半结构化数据的工具 [...]</title>
-      <link>https://t.me/hn_summary/87212</link>
-      <description><![CDATA[文件文件系统
-文件文件系统（ffs）是一种工具，允许用户将 JSON、YAML 和 TOML 等半结构化数据挂载为文件系统，使他们能够使用熟悉的 shell 工具处理现代格式。这种独特的方法简化了数据的编辑和处理，无需学习新语言。但是，ffs 可能不适合 Windows 用户或拥有大文件的用户。该工具适用于 Linux 和 macOS，并且可以下载最新的开发版本。 ffs 根据 GPLv3 获得许可。探索ffs的可能性，增强您的数据处理能力。]]></description>
-      <guid>https://t.me/hn_summary/87212</guid>
-      <pubDate>Tue, 30 Apr 2024 18:10:51 GMT</pubDate>
+      <title>[媒体]联邦贸易委员会正在通过挑战“jun [...]</title>
+      <link>https://t.me/hn_summary/87268</link>
+      <description><![CDATA[FTC 对包括诺和诺德在内的 10 家制药商持有的“垃圾”专利提出质疑臭氧
+联邦贸易委员会正在通过挑战“垃圾”专利来对付制药公司，其中包括诺和诺德公司为 Ozempic 等药物持有的专利。这些专利阻碍了竞争并推高了药品价格，特别是治疗 2 型糖尿病和哮喘等药物的价格。联邦贸易委员会的行动是拜登政府为让美国人更负担得起医疗保健而做出的更广泛努力的一部分。对涉嫌专利滥用的打击是拜登总统 2024 年连任竞选的重点。联邦贸易委员会对这些专利的挑战旨在确保所有美国人及时获得创新且负担得起的药物。]]></description>
+      <guid>https://t.me/hn_summary/87268</guid>
+      <pubDate>Tue, 30 Apr 2024 21:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]日本研究人员开发出一种突破性的显微镜，可以观察 [...]</title>
-      <link>https://t.me/hn_summary/87211</link>
-      <description><![CDATA[以更高的分辨率和效率探测电子自旋态 
-日本研究人员开发了一种突破性的显微镜，可以以更高的分辨率和效率可视化材料中的电子自旋态。这项技术被称为成像型自旋分辨光电子显微镜（iSPEM），有可能彻底改变材料分析和数据处理技术。通过将数据采集效率提高一万倍，将空间分辨率提高十倍以上，这一进步为在信息处理和电子设备（包括量子计算机）中利用电子自旋态开辟了新的可能性。这种创新方法可以带来更节能、更快的电子设备，突破计算能力的界限。]]></description>
-      <guid>https://t.me/hn_summary/87211</guid>
-      <pubDate>Tue, 30 Apr 2024 18:03:44 GMT</pubDate>
+      <title>[媒体]恶意 Python 代码获得执行是软件开发人员环境中的严重威胁 [...]</title>
+      <link>https://t.me/hn_summary/87267</link>
+      <description><![CDATA[恶意Python代码获得执行
+获得执行的恶意 Python 代码是软件开发人员环境中的严重威胁，攻击者瞄准开源软件依赖项以实现任意代码执行。威胁行为者使用各种方法来利用漏洞，包括运行加密货币挖矿程序、窃取机密或加密数据以获取赎金。 Phylum 提供了一个检测、报告和阻止恶意包的解决方案，提供了 GitHub、GitLab、Azure Pipelines 和 Bitbucket Pipelines 的集成。通过使用锁定文件、监视依赖关系并防止任意代码执行，开发人员可以保护其环境免受这些攻击。 Phylum 的社区版可用于自动化软件供应链安全并确保使用可信的开源代码。]]></description>
+      <guid>https://t.me/hn_summary/87267</guid>
+      <pubDate>Tue, 30 Apr 2024 21:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 老大哥不仅仅在看着你：他正在使用你的手机、智能手表、无线 [...]</title>
-      <link>https://t.me/hn_summary/87210</link>
-      <description><![CDATA[战区监控技术正在席卷美国街头
-战区监控技术正在席卷美国街头
-老大哥不仅仅在监视您：他还使用您的手机、智能手表、无线耳机、汽车娱乐系统和车牌来实时跟踪您的位置。 NOTUS 发现当地执法机构正在使用战区常见的技术来监视美国公民。 TraffiCatch 是一款收集无线信号来跟踪设备的产品，正在美国和墨西哥边境附近的德克萨斯州社区使用。这种有争议的监视方法引起了人们对隐私和收集数据可能被滥用的担忧。此类技术的广泛使用凸显了保护个人隐私权的法规的必要性。]]></description>
-      <guid>https://t.me/hn_summary/87210</guid>
-      <pubDate>Tue, 30 Apr 2024 18:02:38 GMT</pubDate>
+      <title>[媒体]Svelte 5 现在处于候选发布阶段，这表明该框架的设计 [...]</title>
+      <link>https://t.me/hn_summary/87266</link>
+      <description><![CDATA[Svelte 5 候选版本 (RC)
+Svelte 5 现在处于候选发布阶段，这表明该框架的设计已基本确定，没有重大错误。虽然尚未准备好投入生产，但现在是尝试的好时机。新功能包括用于反应性的符文、改进的事件处理、组件片段和本机 TypeScript 支持。 Svelte 4 中的组件将与 Svelte 5 一起使用，只有少数例外。最终，对 Svelte 4 功能的支持将被逐步取消。稳定版本的发布日期尚不确定，但将根据需要进行更新。请继续关注 Svelte 团队的更多更新和改进。]]></description>
+      <guid>https://t.me/hn_summary/87266</guid>
+      <pubDate>Tue, 30 Apr 2024 21:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>Symbl.ai 的 Nebula LLM 在 e [...]</title>
-      <link>https://t.me/hn_summary/87209</link>
-      <description><![CDATA[Symbl.ai 的 Nebula LLM 击败 Claude 3、GPT-4、 Llama 3 论情商
-Symbl.ai 的 Nebula LLM 已经超越了 Claude 3 等领先模型、GPT-4 和 Llama 3 在情商方面的表现，正如其在 EQ-Bench Judgemark 任务中的突破性表现所证明的那样。通过专注于情感推理能力，星云法学硕士在增强涉及人类互动的各个领域方面表现出了希望。创新的 EQ-Bench 基准评估法学硕士的情商，超越传统的语言任务，评估复杂的情绪和社交互动。人工智能系统的这一进步为在对话环境中创建更多类似人类的交互和响应提供了可能性。星云法学硕士的成功标志着朝着以更自然的方式理解和响应人类情感迈出了重要一步。]]></description>
-      <guid>https://t.me/hn_summary/87209</guid>
-      <pubDate>Tue, 30 Apr 2024 17:55:32 GMT</pubDate>
+      <title>[媒体]国家公路交通安全管理局已正式强制要求所有新 [...]</title>
+      <link>https://t.me/hn_summary/87265</link>
+      <description><![CDATA[所有在美国销售的汽车很快都必须能够自动避免崩溃
+美国国家公路交通安全管理局已正式规定，到 2029 年 9 月 1 日，所有在美国销售的新车必须配备自动紧急制动功能，能够避免时速 62 英里的碰撞事故。然而，某些车辆有豁免、延迟推出以及禁用该系统的不同方法。汽车制造商不确定他们是否能够实现这一激进目标，并对更高速度下的可靠性提出了担忧。新规定还提出了有关误报和幻象制动事件的问题。尽管意图良好，但这些系统的有效性仍有待观察。看看汽车制造商如何应对这一挑战将会很有趣。]]></description>
+      <guid>https://t.me/hn_summary/87265</guid>
+      <pubDate>Tue, 30 Apr 2024 21:04:31 GMT</pubDate>
     </item>
     <item>
-      <title>pydantic.dev 上的 Pydantic Logfire 提供结构化数据和直接 SQL 访问，使 Python 成为 [...]</title>
-      <link>https://t.me/hn_summary/87208</link>
-      <description><![CDATA[Pydantic Logfire
-pydantic.dev 上的 Pydantic Logfire 提供结构化数据和直接 SQL 访问，使 Python 对象可以进行查询。利用 Pandas、SQLAlchemy 或 psql 等工具进行无缝查询和 AI 生成 SQL。logfire 库的手动跟踪功能简化了创建日志和跟踪的过程，提供了具有附加功能的现代界面。与直接使用 OpenTelemetry 相比，logfire 更省事。 Pydantic Logfire 结合了 OpenTelemetry 的优点，为流行的 Python 包提供自动检测、跨语言数据集成以及将数据导出到任何与 OpenTelemetry 兼容的后端。这种创新方法简化了可观察性和数据收集流程。]]></description>
-      <guid>https://t.me/hn_summary/87208</guid>
-      <pubDate>Tue, 30 Apr 2024 17:49:25 GMT</pubDate>
+      <title>[媒体] 在 media.com 上这篇发人深省的文章中，作者深入探讨了 l [...]</title>
+      <link>https://t.me/hn_summary/87264</link>
+      <description><![CDATA[LLM作为n维空间中的n维对象
+在 medium.com 上这篇发人深省的文章中，作者深入探讨了语言模型的概念是 n 维空间中的 n 维对象。他们认为，语言模型，无论是基于符号的还是基于神经网络的，都可以表示为多维空间中的复杂对象。对提示的理解就像导航该对象的表面，通过微调和重新训练修改其拓扑。作者质疑仅语言模型是否足以进行认知和推理，这表明可能有必要进行更广泛的概括。这种独特的视角挑战了关于语言模型及其在人工智能中的作用的传统观点。]]></description>
+      <guid>https://t.me/hn_summary/87264</guid>
+      <pubDate>Tue, 30 Apr 2024 21:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我购买了一台二手 Cressi Nepto 潜水电脑，很高兴能够将潜水数据同步到我的电脑。</title>
-      <link>https://t.me/hn_summary/87207</link>
-      <description><![CDATA[地下的 Cressi Nepto
-我购买了一台二手 Cressi Nepto 潜水电脑，很高兴能够将潜水数据同步到我的电脑。获得必要的适配器后，我面临着过时的软件和兼容性问题的挑战。我深入研究了捕获 USB 流量并解码 Cressi 使用的专有串行协议。尽管最初遇到了挫折，我还是成功地修补了 libdivecomputer 以支持 Nepto，并设法从设备中检索批量数据。该过程涉及解码帧格式和理解命令代码。通过坚持和技术探索，我克服了障碍，实现了与潜水电脑的数据同步。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87207</guid>
-      <pubDate>Tue, 30 Apr 2024 17:48:21 GMT</pubDate>
+      <title>[媒体]ASML 印刷了第一个 10nm [...]</title>
+      <link>https://t.me/hn_summary/87263</link>
+      <description><![CDATA[ASML 使用高数值孔径 EUV 工具对第一片晶圆进行图案化，出货量第二高-NA扫描仪
+ASML 使用其高数值孔径 EUV 原型系统印刷了首批 10 纳米图案，在光刻领域实现了一个重要里程碑。该公司还向一位未透露姓名的客户交付了第二套高数值孔径 EUV 系统。英特尔计划将这些工具用于自己的研发，并计划在 2026 年至 2027 年之前大规模生产采用英特尔 14A 技术的芯片。其他领先的芯片制造商也对高数值孔径 EUV 工具表现出兴趣，这些工具有望提供更精细的分辨率和更高的晶体管密度。业界正在密切关注ASML在这一尖端技术方面的进展。]]></description>
+      <guid>https://t.me/hn_summary/87263</guid>
+      <pubDate>Tue, 30 Apr 2024 21:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>我们可以 RAG 整个网络吗？</title>
-      <link>https://t.me/hn_summary/87206</link>
-      <description><![CDATA[我们可以拉动整个网络吗？
-在“我们可以对整个网络进行 RAG 吗？”一文中在 philippeoger.com 上，作者探讨了检索增强的概念Generation (RAG) 及其利用大型数据库彻底改变人工智能响应的潜力。作者深入研究了对庞大的互联网进行索引的挑战，并提出了一种涉及 XML 站点地图和域级别内容共享的解决方案。通过创建内容共享的标准化协议，作者提出了一种更道德、更实用的方法来实施 RAG。本文还介绍了一个 Python 库 contentmap，它简化了为矢量搜索功能创建内容数据库的过程。]]></description>
-      <guid>https://t.me/hn_summary/87206</guid>
-      <pubDate>Tue, 30 Apr 2024 17:47:17 GMT</pubDate>
+      <title>[媒体] Kubernetes 作为调度程序 vs.</title>
+      <link>https://t.me/hn_summary/87262</link>
+      <description><![CDATA[Kubernetes 作为调度程序与 API 代理
+Kubernetes 不再只是一个容器编排器；它现在正在应对管理外部资源（如云服务和数据库）的挑战。这种扩展带来了重大的安全挑战，需要转向零信任安全模型。传统的 RBAC 方法难以在不同的安全域之间映射权限，因此很难确保合规性和安全性。Otterize 通过使用基于意图的访问控制 (IBAC) 自动化 IAM 策略来提供解决方案，从而简化安全管理并确保持续合规性。通过将安全性视为代码并将其集成到开发生命周期中，Otterize 提供了一种可扩展且适应性强的方法来保护 Kubernetes 环境。（基于 43% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87262</guid>
+      <pubDate>Tue, 30 Apr 2024 21:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项试点研究中，研究人员探索了黑暗人格与[...]</title>
-      <link>https://t.me/hn_summary/87205</link>
-      <description><![CDATA[作为一个男人预测对大声汽车的渴望：更高的精神病和虐待狂
-在这项试点研究中，研究人员探索了黑暗性格特征与拥有一辆带有改装消声器的大声汽车的愿望之间的关系。研究发现，精神变态和施虐倾向程度较高的男性更有可能表达对大声车辆的渴望。令人惊讶的是，自恋并没有显着预测对大声汽车的渴望，这表明同理心和操作大声汽车之间存在潜在联系。研究结果还表明，年轻男性更有可能想要大声的汽车，这与之前关于休闲噪音的研究一致。这些发现揭示了与对大声车辆的渴望相关的黑暗人格特征。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87205</guid>
-      <pubDate>Tue, 30 Apr 2024 17:45:12 GMT</pubDate>
+      <title>[媒体] 由于“网络安全事件”，加拿大西部的伦敦药店仍处于关闭状态 [...]</title>
+      <link>https://t.me/hn_summary/87261</link>
+      <description><![CDATA[网络安全事件导致 London Drugs 商店继续关闭&lt; br /&gt;
+由于“网络安全事件”，加拿大西部的伦敦药店仍然关闭，没有提供重新开业的时间表。该公司正在与网络安全专家合作调查数据泄露的程度。顾客仍然可以亲自获得紧急药房护理，但电话线路已中断。该事件突显了加拿大网络犯罪日益猖獗，专家强调了积极主动的网络安全措施的重要性。网络安全专家 Jon Ferguson 认为此次泄露可能涉及勒索软件或数据泄露，并强调公司和个人需要更新软件并使用双因素身份验证来防范此类攻击。]]></description>
+      <guid>https://t.me/hn_summary/87261</guid>
+      <pubDate>Tue, 30 Apr 2024 21:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Copilot One 是一个旨在向任何 React/JS 应用添加类似 Siri 的 AI 助手的项目。</title>
-      <link>https://t.me/hn_summary/87204</link>
-      <description><![CDATA[显示 HN：将 Siri 像原生 AI 助手一样添加到任何 React/JS 中应用程序
-Copilot One 是一个旨在将类似 Siri 的人工智能助手添加到任何 React/JS 应用程序中的项目。它提供语音和文本输入操作、当前屏幕上下文感知以及用于与 API 进行自然语言交互的文本 API 接口等功能。该项目包括支持语音的 UX 代理，用于执行 UI 导航、表单填写等任务。它专注于缩短用户的学习曲线并实现免提体验。作者设想为人工智能助手、代理和动作创建一个开放协议。该项目提供了详细的安装和使用说明，以及未来开发的路线图。]]></description>
-      <guid>https://t.me/hn_summary/87204</guid>
-      <pubDate>Tue, 30 Apr 2024 17:44:06 GMT</pubDate>
+      <title>Rama 是一个强大的编程平台，展示了 Clojure 在革命方面的功能 [...]</title>
+      <link>https://t.me/hn_summary/87260</link>
+      <description><![CDATA[Rama 证明了 Clojure 的力量&lt; br /&gt;
+Rama 是一个强大的编程平台，展示了 Clojure 彻底改变后端开发的能力。 Rama 以新的编程语言和范例为核心，用最少的代码简化了端到端后端的创建。该平台强调不变性和数据结构导向，以及无缝混合范例的能力，使其与众不同。 Rama 与 Clojure 的集成可实现平滑的互操作性和高效的执行。虽然 Clojure 的原则已被证明可以简化软件开发，但 Rama 更进一步，解决了构建端到端后端的所有方面问题，使其成为行业游戏规则的改变者。加入 #rama 频道中有关 Clojure Slack 的讨论。]]></description>
+      <guid>https://t.me/hn_summary/87260</guid>
+      <pubDate>Tue, 30 Apr 2024 20:59:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，我讨论了放弃隐式编码并利用抽象编码的好处 [...]</title>
-      <link>https://t.me/hn_summary/87203</link>
-      <description><![CDATA[放弃隐式并使用抽象：CLIPS
-在本文中，我讨论在 CLIPS 编程中放弃隐式编码并利用抽象的好处。通过采用这种方法，开发人员可以简化代码、提高可读性并提高整体效率。和我一起探索 CLIPS 编程中抽象的力量。哦，别介意原始网址中的拼写错误 - 我们现在会将您重定向到正确的文章。]]></description>
-      <guid>https://t.me/hn_summary/87203</guid>
-      <pubDate>Tue, 30 Apr 2024 17:43:02 GMT</pubDate>
+      <title>在本研究中，我们探讨了在法律体系中用陪审团取代法官的想法，通过评估[...]</title>
+      <link>https://t.me/hn_summary/87259</link>
+      <description><![CDATA[用陪审团取代法官：用模型小组评估 LLM 一代&lt; /a&gt;
+在这项研究中，我们通过使用一组模型评估不同代法律语言模型（LLM）的表现，探讨了在法律体系中用陪审团取代法官的想法。通过比较法学硕士做出法律判断的准确性和效率，我们的目的是确定它们是否可以有效替代人类法官。我们的研究结果表明，虽然法学硕士在某些领域表现出希望，但在实施此类系统之前必须考虑其能力的局限性。这个有争议的话题引发了有关技术在法律领域中的作用的重要问题。]]></description>
+      <guid>https://t.me/hn_summary/87259</guid>
+      <pubDate>Tue, 30 Apr 2024 20:58:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

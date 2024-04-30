@@ -4,18 +4,32 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:13:22 GMT</lastBuildDate>
+    <item>
+      <title>BlueSeer 软件 6.8 版发布，具有新的车间作业扫描功能。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</link>
+      <description><![CDATA[BlueSeer 6.8 版本最近已发布。它包括许多错误修复以及操作员作业扫描服务订单形式的新功能。这一新功能可以更好地了解车间运营活动，并更真实、更准确地捕获实时劳动力成本。此处提供了演示新功能的视频教程。 https://www.youtube.com/watch?v=oWwQOPz5vCw &lt; !-- SC_ON --&gt;  由   提交/u/freetechtools  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Refact.ai——开源代码助手——引入项目意识！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</link>
+      <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，为您提供与 LLM 聊天、代码完成和我们称之为“”的功能“工具箱” -- 直接在文件中转换代码，无需进入聊天室。 很长一段时间以来，我们一直致力于使用名为 RAG（检索增强生成）的技术来实现聊天和代码完成的项目意识。它在聊天和代码完成模型的提示中填充了有关您的项目的最有用的数据，分析 AST（文件结构）并使用基于矢量的搜索。所有这些东西都是完全开源的，并且只是 100% 基于 Rust。您可以在这里找到它 - refact-lsp - 我们插件的后端。 加入我们的discord 社区亲自尝试一下，甚至在 我们在 GitHub 上的项目。 还有更多：查看我们的开源解决方案自托管法学硕士！   由   提交 /u/valaished   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</guid>
+      <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
+    </item>
     <item>
       <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
-      <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca 的第一个版本（超级草稿），我们正在寻找合作者来继续这一使命。 我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM，并通过一个简单的界面访问它们。 它从一个非常简单的前提开始。想象一下，我们正在开发基于人工智能的软件，比如聊天机器人。 如果用户输入“hello”，如果即使使用 llama3-8B（更小、更便宜的模型）也能得到很好的响应，为什么还要使用 GPT-4？ 现在，让我们尝试用数学、哲学、心理学等提示意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以在 API 调用中节省相当多的钱。 这是 github repo：https://github.com/OpenSenecaAI/openseneca 我们欢迎反馈、未来的想法和问题 :)    提交人    /u/ottaviofogliata   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca，我们正在寻找合作者来继续这一使命。我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM并通过一个简单的界面访问它们。它始于一个非常简单的前提。让我们想象一下，我们正在开发基于人工智能的软件，例如聊天机器人。如果用户输入“hello”，即使使用更小、更小的 llama3-8B 也能得到良好的响应，为什么还要使用 gpt-4？当然是更便宜的模型？现在让我们尝试用数学、哲学、心理学等的即时意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以节省相当多的费用API 调用中的资金。 这是 github 存储库：https://github.com/OpenSenecaAI/openseneca&lt; br /&gt; 我们愿意接受反馈、未来的想法和问题:)   由   提交 /u/ottaviofogliata   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
       <pubDate>Tue, 30 Apr 2024 16:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>直接从我的电脑捕获系统音频的应用程序</title>
+      <title>直接从我的计算机捕获系统音频的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</link>
-      <description><![CDATA[嗨 我正在寻找一个应用程序，它可以绕过直接从我的计算机捕获和录制任何音频的应用程序麦克风完全避免了外界噪音的干扰。我需要能够录制 PC 上任何应用程序或来源的数字音频输出的东西。 有人拥有可以执行此操作的可靠应用程序的经验吗？如果应用程序能够有选择地记录特定应用程序而不仅仅是整个系统的音频输出，那就太理想了。我正在寻找能够提供清晰、高质量录音且最好具有用户友好界面的软件。 诸如输出格式选项（例如 MP3、WAV）和方便录音的热键支持等附加功能是一个奖金。任何建议或个人经验将不胜感激！ 提前感谢您的帮助！   由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 我正在寻找一个可以捕获和录制直接来自我的计算机的任何音频的应用程序，完全绕过麦克风以避免外部噪音干扰。我需要一个可以录制来自我电脑上的任何应用程序或源的数字音频输出的东西。 有没有人使用过可以做到这一点的可靠应用程序？如果应用程序可以有选择地从特定应用程序录制，而不仅仅是整个系统的音频输出，那就太理想了。我正在寻找提供清晰、高质量录音的软件，最好具有用户友好的界面。 其他功能，如输出格式选项（例如 MP3、WAV）和热键支持，以便于录音，将是一个加分项。任何建议或个人经验都将不胜感激！ 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</guid>
       <pubDate>Tue, 30 Apr 2024 15:06:52 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Mon, 29 Apr 2024 17:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>如何从现有的开源项目中构建单独的新项目？</title>
+      <title>如何从现有的开源项目中构建一个单独的新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
       <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 29 Apr 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>对开源的威胁来自企业操纵</title>
+      <title>对开源的威胁来自公司操纵</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
       <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看 OSI 是否会在您附近举办研讨会。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何熟悉一个新项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
-      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
-      <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
