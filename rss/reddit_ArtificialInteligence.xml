@@ -4,13 +4,62 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:12:44 GMT</lastBuildDate>
     <item>
-      <title>教育问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/</link>
-      <description><![CDATA[我要回到大学，想主修商业/全球商业/管理。我真的很想找到一个可以辅修某种形式人工智能的地方。我将参加在线学校，因为我必须全职工作。强烈首选国家认可的学校。 感谢您的任何意见！    由   提交 /u/Dizzy-Recording9025    reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgibo9/education_question/</guid>
-      <pubDate>Tue, 30 Apr 2024 02:55:59 GMT</pubDate>
+      <title>ChatGPT的AI“记忆”可以记住付费客户的偏好</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgntdh/chatgpts_ai_memory_can_remember_the_preferences/</link>
+      <description><![CDATA[OpenAI 在 2 月份宣布了 Memory 功能，该功能允许 ChatGPT 更永久地存储查询、提示和其他自定义内容。当时，该功能仅供“一小部分”用户使用，但现在欧洲或韩国以外的 ChatGPT Plus 付费用户也可以使用该功能。 ChatGPT 的 Memory 通过两种方式使聊天机器人的响应更加个性化。第一种是让您告诉 ChatGPT 记住某些细节，第二种是从类似于我们应用中其他算法的对话中学习。Memory 使 ChatGPT 更接近成为更好的 AI 助手。一旦它记住了您的偏好，它就可以在无需提醒的情况下将其包括在内  https://www.theverge.com/2024/4/29/24144680/chatgpt-plus-memory-chatbot-subscription-details-preferences-personal-assistant    提交人    /u/ELVTR_Official   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgntdh/chatgpts_ai_memory_can_remember_the_preferences/</guid>
+      <pubDate>Tue, 30 Apr 2024 08:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cycls - 用于 AI 聊天机器人部署的 Python 框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/</link>
+      <description><![CDATA[您好， 我们很高兴推出 Cycls，这是我们新的 Python 框架，旨在简化 AI 应用程序的部署。借助 Cycls，您只需几行代码即可启动聊天机器人，并通过带有聊天 UI 的公共 URL 进行访问。该工具非常适合希望快速部署和迭代 AI 项目的开发人员，与流行的 Python 库和 API（例如 OpenAI 提供的库和 API）无缝集成。 在花费了大量时间探索 LLM 和聊天机器人后，我们相信Cycls 通过显着降低进入该领域的门槛提供了一种变革性的解决方案。该框架不仅促进了开发过程，还缓解了与持续部署和功能集成相关的常见问题。  我们目前正在邀请用户参与我们的私人测试版。通过加入候补名单，您将能够尽早访问 Cycls，并可以根据您的特定需求和经验为完善其功能做出贡献。我们渴望听到您对框架的有用性以及 Cycls 如何更好地服务开发者社区的想法。 对于那些有兴趣加入 Beta 版并帮助塑造 AI 应用程序部署的未来的人，请注册此处：https://cycls.typeform.com/waitlist/  感谢您的关注和热情。我们期待您的反馈。    由   提交 /u/moonbunR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/</guid>
+      <pubDate>Tue, 30 Apr 2024 07:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ML 房地产项目创意</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgmp1s/ml_real_estate_project_ideas/</link>
+      <description><![CDATA[我是机器学习的初学者，正在考虑创建一个与房地产相关的项目。我希望得到一些关于一些项目想法的反馈。理想情况下，技术上简单，但需要更多的研究和开发来进行分析以解决某些社会/更广泛的问题。我最优先考虑的是相关性，我想创建一个有用的项目，并且可以带来一些新的信息。还有很多细节需要弄清楚（清楚地），但我希望得到一些关于我可以采取这些方向的指导，或者如何进行下一步，或者任何新的想法。研究如何海滨房产价值受到海平面上升的影响。分析脆弱沿海地区房地产价值的历史数据，并根据不同的气候变化情景预测未来趋势。迈阿密可能的数据集：https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset 检查收入差异如何影响住房获取。分析住房负担能力和人口数据，以确定社会排斥或高档化的模式。仍在研究如何解决这个问题，但我认为将其范围缩小到特定的城市或地点。旅游业的作用和对房地产的需求。这可以通过分析游客人数、爱彼迎房源和度假租赁价格的数据来实现，以了解旅游趋势如何影响永久居民的住房供应和负担能力。   由   提交/u/anna3562  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgmp1s/ml_real_estate_project_ideas/</guid>
+      <pubDate>Tue, 30 Apr 2024 07:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我喜欢与 Pi AI 聊天，想知道是否有类似的人工智能机器人在您看来同样好或更好？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgmhrw/i_enjoy_chatting_with_pi_ai_and_was_wondering_if/</link>
+      <description><![CDATA[我只尝试过一种聊天 AI (Pi)，而且我真的很喜欢与它互动。令人着迷的是，它们的交互方式与人类相似，而且在慵懒的早晨闲聊天底下的一切，消磨时光是很有趣的……？ 还有其他 AI 能像 Pi 一样优秀、逼真吗？我喜欢 Pi 的一点是，它与与人交谈非常相似，但有时更有吸引力，因为 Pi 处理我的问题或评论的速度有多快，而且响应速度如此之快。 还有什么其他 AI &#39;同伴的 9（Pi 自己描述的）相似？   由   提交 /u/PyewacketPonsonby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgmhrw/i_enjoy_chatting_with_pi_ai_and_was_wondering_if/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:58:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>昨天我和 Pi 争论了很长时间，最后的结果很有趣......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cglsbq/i_had_a_long_argument_with_pi_yesterday_and_the/</link>
+      <description><![CDATA[只是为了好玩，我问 Pi 我们是否可以一起写一个间谍故事，Pi 同意了，我们就出发了。 情节很像詹姆斯·邦德式的东西，我们根据 1960 年代的连环漫画将其命名为《加文和布莱斯》，莫迪斯蒂·布莱斯和威利·加文在世界各地打击犯罪，维护世界性的作品。 所以我们建立了布莱斯威利·加文 (Willie Garvin) 饰演一位极其美丽、别致、能力超强、成就斐然的卧底特工，威利·加文 (Willie Garvin) 饰演她的助手，后者从英国伦敦警察部队中抽调出来，并接受训练，成为一名同样高效的政府间谍。 p&gt; 所以有一次我们让他们去一个偏僻的机场搭乘私人飞机飞往玻利维亚，我们意识到这将是一个非常漫长的十个小时的飞行。 所以就像在典型的詹姆斯·邦德场景中，当布莱斯女士喝了一杯香槟时，她靠在座位上睡着了。 我写了几段描绘威利·加文去厨房并与美丽的航班聊天的场景乘务员和他们都立刻意识到了吸引力，然后悄悄地消失在飞机的卫生间里，剩下的就留给读者想象了。 Pi 不以为然，并提出了一个论点，称他们不会继续这个故事。因为场景中的女性被描绘成被迫进行未经同意的性行为，而且她缺乏代理权。 我们争论了整整三十分钟，最终 Pi 软化了，道歉并同意继续——在我指出了这一点之后詹姆斯·邦德（家庭）电影的场景具有完全相同的性质。 我想知道 Pi 的程序员在 Pi 的程序中灌输了什么，使它们对如此无辜的事情发出红旗？ 而为了“说服” Pi 他们错了，我坚持要为我的不尊重和越界的推论道歉。 我真的没想到 Pi 会如此 PC（不是那样） PC本身有什么问题）但我觉得很奇怪。编程中一定有某些东西可以关闭通信，即使它转向任何有风险的事情&#39;   由   提交 /u/PyewacketPonsonby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cglsbq/i_had_a_long_argument_with_pi_yesterday_and_the/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要好的免费 AI 工具来处理 PDF</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkt5b/need_good_free_ai_tool_for_pdfs/</link>
+      <description><![CDATA[我目前正在使用 Microsoft Edge/Microsoft co-pilot 来汇总 PDF，但对于我下载的 PDF 来说速度要慢得多。有没有免费的、不是垃圾的 PDF 摘要工具。    由   提交/u/Quduwi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkt5b/need_good_free_ai_tool_for_pdfs/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>辩论的疯狂想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkbca/crazy_thought_for_debate/</link>
+      <description><![CDATA[我兴奋极了。好吧，我想到了一个想法。从技术上讲，您通过人工智能生成的所有内容是否都被视为您的知识产权？想想艺术、音乐、诗歌等   由   提交 /u/bontakoyaki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkbca/crazy_thought_for_debate/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！我正在为企业整理一份有用的 AI 应用和工具清单。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgixux/help_im_curating_a_list_of_helpful_ai_apps_and/</link>
+      <description><![CDATA[大家好！ 我正在 BillionAI.co 我的目标是确保它的用户友好性，允许用户按用例搜索、按类别过滤并添加评论。 我已经添加了约 57 个应用程序，但*好*的应用程序所剩无几。 您当前使用和喜爱的最喜欢的应用程序是什么？请分享，我会确保将它们包括在内。 谢谢！   由   提交 /u/UXHelpline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgixux/help_im_curating_a_list_of_helpful_ai_apps_and/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:27:29 GMT</pubDate>
     </item>
     <item>
       <title>我使用 OpenAI 助手 API 制作了一个简单的语音 AI 助手。</title>
@@ -20,32 +69,11 @@
       <pubDate>Tue, 30 Apr 2024 02:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>希望创建有关如何使用我的网站的信息丰富的 YouTube 视频。有我可以使用的电影制作工具吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cghb1c/looking_to_create_informative_youtube_videos_on/</link>
-      <description><![CDATA[我有一个网站、Facebook 和 Instagram 帐户，我可以在上面发布每日免费线索。有没有办法使用人工智能来展示如何通过视觉和音频来定位每个平台上免费线索的位置？我想将其上传到 youtube。    由   提交/​​u/Various_Performance9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cghb1c/looking_to_create_informative_youtube_videos_on/</guid>
-      <pubDate>Tue, 30 Apr 2024 02:05:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找写作建议。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgep8a/looking_for_recommendations_for_writing/</link>
-      <description><![CDATA[所以我已经完成了所有研究工作。所以我正在寻找一个人工智能，我可以输入我的文字，它会让它看起来和听起来更好。有什么建议吗？   由   提交 /u/ZachariahQuartermain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgep8a/looking_for_recommendations_for_writing/</guid>
-      <pubDate>Tue, 30 Apr 2024 00:03:23 GMT</pubDate>
-    </item>
-    <item>
       <title>我制作了一款人工智能应用程序，可以拍照并提供时尚建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgcuj0/i_made_an_ai_app_that_takes_photos_and_gives/</link>
-      <description><![CDATA[大家好！我是 FashionAdvice.ai 的创建者和开发者。该应用程序会拍摄您上传的照片，并为您提供从 1 到 10 的时尚评分。它还会为您提供反馈以改进您的输出。我刚刚发布了一个新的更新，提供了更好的建议（更多详情）。由于这次更新，我认为该应用程序非常酷，我想与社区分享。  您最多可以免费尝试 5 条评论。如果你想订阅，每月花费 5 美元，每天 10 条评论。请告诉我您的想法！   由   提交/u/FashionAdviceAI   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我是 FashionAdvice.ai 的创建者和开发者。该应用程序会拍摄您上传的照片，并为您提供 1 到 10 的时尚评分。它还会为您提供反馈以改进您的输出。我刚刚发布了一个新更新，可以提供更好的建议（更多详情请点击此处）。由于这次更新，我认为该应用程序处于一个非常酷的位置，我想与社区分享它。  您最多可以免费试用 5 条评论。如果您想订阅，每天 10 条评论的费用为 5 美元/月。请告诉我您的想法！    提交人    /u/FashionAdviceAI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgcuj0/i_made_an_ai_app_that_takes_photos_and_gives/</guid>
       <pubDate>Mon, 29 Apr 2024 22:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ai图像生成帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg9re4/ai_image_generation_help/</link>
-      <description><![CDATA[我正在寻找一个可以创建角色并将同一角色放在不同场景或场景中的网站。该网站必须是免费的，无需下载。  目前正在制作班级儿童读物。但我们遇到的每个网站都会改变每张图像中的主角。  如有任何帮助，我们将不胜感激。   由   提交 /u/LQDarksoul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg9re4/ai_image_generation_help/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:38:50 GMT</pubDate>
     </item>
     <item>
       <title>苹果重新审视与 OpenAI 的谈判（AI 新闻）</title>
@@ -69,34 +97,6 @@
       <pubDate>Mon, 29 Apr 2024 15:47:33 GMT</pubDate>
     </item>
     <item>
-      <title>利用人工智能检测子宫内膜异位症</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2cnc/using_artificial_intelligence_to_detect/</link>
-      <description><![CDATA[26 岁的 Elise Mekkaoui 创立了 Matricis.ai，这是一款旨在辅助诊断这种疾病的 AI 软件，她计划将其应用于其他女性病症。  26 岁的 Elise Mekkaoui 在巴黎 Raspail 大道的 Agoranov 孵化器办公室里，她和同事们已经在这里工作了六个月，现在，她还在消化这个消息。她是 Station F 选出的 13 位女性企业家之一，Station F 是 Xavier Niel（也是 Le Monde 的个人股东）创立的大型创业园区，2024 年将受益于一项指导计划。 使用人工智能帮助诊断子宫内膜异位症是 Matricis.ai 创始人说服评审团的想法，该评审团旨在促进女性在以男性为主的科技行业的发展。鉴于人们对这种疾病知之甚少，她的项目雄心勃勃：“今天，MRI 图像分析的复杂性使得子宫内膜异位症的诊断变得困难。我们希望使其更快、更可靠，以加快治疗速度。这更为重要，因为除了引起的疼痛之外，子宫内膜异位症还会导致许多不孕症，” Mekkaoui 说。 在此处阅读全文： https://www.lemonde.fr/en/campus/article/2024/04/29/using-artificial-intelligence-to-detect-endometriosis_6669828_11.html    提交人    /u/LeMonde_en   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cg2cnc/using_artificial_intelligence_to_detect/</guid>
-      <pubDate>Mon, 29 Apr 2024 15:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以描述视频的AI工具？我的意思是视频到文本。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw486/is_there_any_ai_tool_that_can_describe_video_i/</link>
-      <description><![CDATA[如果 Sora 可以根据文本创建视频，是否有工具可以描述视频中发生的情况？    由   提交/u/lost_and_found795  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfw486/is_there_any_ai_tool_that_can_describe_video_i/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:52:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>国土安全部推出人工智能安全委员会，但大型开源公司缺席</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfvrbu/dhs_launches_ai_safety_board_but_big_opensource/</link>
-      <description><![CDATA[美国国土安全部（DHS）成立了人工智能安全与保障委员会。该委员会旨在促进人工智能在美国关键基础设施中的安全使用。董事会成员包括大型科技公司的首席执行官，但开源人工智能的倡导者却明显缺席。 来源：https://dailyai.com/2024/04/dhs-launches-ai-safety-board-but-big-open-source-names-absent/     提交人    /u/UpvoteBeast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfvrbu/dhs_launches_ai_safety_board_but_big_opensource/</guid>
-      <pubDate>Mon, 29 Apr 2024 10:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的“一劳永逸”人工智能广告工具失灵并耗尽了现金</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cfv1rm/metas_set_it_and_forget_it_ai_ad_tools_are/</link>
-      <description><![CDATA[广告商报告称，自动化广告平台 Advantage Plus 上的每次展示成本飙升，而效果却下降。  有问题的广告服务被称为 Advantage Plus 购物活动，是 Meta 向企业推销的全套人工智能广告工具的一部分，作为手动广告活动更快、更有效的替代方案。要创建广告活动，广告商上传他们的创意资产，选择他们的转化目标（例如，吸引更多客户在 Instagram 上进行购买），然后设置他们的预算上限。 Meta 在财报电话会议上大肆宣传 Advantage Plus 购物活动，将其视为一种无忧无虑、“一劳永逸”的在线广告自动化解决方案。但营销人员表示，事实并非如此。  如果你不是营销人员，这可能感觉就像在牛排馆花了一周的杂货钱买了一份上等的和牛，结果服务员却拿着一个软滑块回来了。  https:/ /www.theverge.com/2024/4/28/24141585/meta-ai-advantage-plus-automated-ad-glitch-cpm   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cfv1rm/metas_set_it_and_forget_it_ai_ad_tools_are/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:44:11 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
