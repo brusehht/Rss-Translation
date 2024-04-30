@@ -3,28 +3,49 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:10:08 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 18:16:10 GMT</lastBuildDate>
     <item>
-      <title>我需要语音克隆方面的帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtr8q/i_need_help_with_voice_cloning/</link>
-      <description><![CDATA[你好，我正在尝试训练我的声音，所以用它来做一些很酷的事情。我一直在看一个播客，他们允许人们用自己的声音制作有趣的歌曲并发送给他们，我觉得这看起来很酷，想用自己的声音来做，以供自己娱乐，但我不想付钱（我现在真的买不起任何东西）来做这件事的程序。如果能够使用一个免费的文本转语音程序来表达我自己的声音，或者甚至是一个变声器，使用一个同意的名人的声音来听起来像他们，那真是太酷了。  我知道第二个道德规范仍然处于灰色地带，但我计划完全将其保留在我自己的声音或同意使用他们的声音的人之内。第一个是我这样做的主要目的。  提前感谢大家的帮助。   由   提交/u/SQUISHYx25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtr8q/i_need_help_with_voice_cloning/</guid>
-      <pubDate>Tue, 30 Apr 2024 14:08:36 GMT</pubDate>
+      <title>山姆会员商店采用人工智能退出技术，覆盖 20% 的门店</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgyskn/sams_clubs_aipowered_exit_tech_hits_20_stores/</link>
+      <description><![CDATA[ 由   提交/u/DumbMoneyMedia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgyskn/sams_clubs_aipowered_exit_tech_hits_20_stores/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:40:18 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士支持每日新闻文摘 - 公正+快速</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtfpz/llm_powered_daily_news_digest_unbiased_quick/</link>
-      <description><![CDATA[你好， 我已经构建了 Quill 新闻摘要。这是一个每日新摘要，想法简单。重要新闻是最受关注的新闻。我们的目标是成为了解情况的最佳场所。既快速又轻松。没有偏见或动机。 我们每天早上阅读 5000 多篇文章，将它们合并成类似的集合，并为您提供一个视觉故事。 每个故事都包含摘要、引言、图像、和交互式地图。 ______ 在幕后使用嵌入和 LLMS 构建。在过去的一年里，LLMS 的进步令人难以置信，现在提供了一个非常好的总结。 API 与本地 LLM： 我尝试过使用公共 API 并在本地运行与美洲驼。但最终我决定附加到公共 API，直到指数曲线减慢。  他们的想法是他们可以比我更好地建立法学硕士。我不妨让他们担心产品的这一方面，而我则专注于改善用户体验。  我目前正在使用 GPT-4-turbo，最近的版本对以下说明进行了巨大改进。切换到 LLAMA 很诱人，但我们将在今年晚些时候看到 GPT-5 的发布。我认为现在继续使用 openAI 是最好的选择。  嵌入： 幕后有两个主要部分。用于创建集群的嵌入和用于提取内容的 LLM。我使用嵌入来比较标题并创建文章集群。它只是一个比较相似度的余号距离算法。  LLM： 有趣的部分是结合不同的 LLMS 来创建最小成本/最大价值摘要。我是独立开发商，所以我没有钱花。比较整个互联网文章的成本很高。  我使用 GPT-3-Turbo 组合来获取非结构化数据，然后在需要非常具体的指令时转向 GPT-4。两者的结合在降低成本方面发挥了神奇作用。  理想情况下，我会为所有事情使用最好的模型，但现在不可能。 总体而言： 学习法学硕士的所有知识是一次很棒的经历。我是一名全职 iOS 开发人员，所以这一切对我来说都是新鲜事。  我很高兴回答您的任何问题！感谢您的浏览。 https://apps.apple.com /us/app/quill-news-digest/id1669557131   由   提交/u/schultz7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtfpz/llm_powered_daily_news_digest_unbiased_quick/</guid>
-      <pubDate>Tue, 30 Apr 2024 13:55:19 GMT</pubDate>
+      <title>针对企业业务的 RAG 机器人的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgylsc/recommendations_for_a_rag_bot_for_enterprise/</link>
+      <description><![CDATA[大家好， 我正在寻找针对企业业务 RAG 聊天机器人的开源（最好）解决方案的推荐。在 github 上某个地方可用的东西（最好是 python），可以随时实现，并且具有良好的文档或社区。 我正在寻找的功能 * RAG 功能（文档和其他数据），至少具有以下一些（最好是全部）数据源  Sharepoint、ServiceNow、SAP、直接查询 SQL 类型数据库、其他 API 集成  * 支持以下任何 LLM 托管方法：  Azure OpenAI、AWS Bedrock 不专门针对任何 LLM，而是表现最好的 LLM，例如 GPT4、Claude 3、Llama 3 等  * 直观的 Web UI  提供引用  * 与 Active Directory 的 SSO 集成（最好） *可以在 AWS 或 Azure 上构建 如上所述，我们更希望自己可以在内部部署一些东西，但类似于 Moveworks 的 SaaS 解决方案（但不那么昂贵）也可能值得探索 非常感谢您的时间，谢谢！    提交人    /u/kommz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgylsc/recommendations_for_a_rag_bot_for_enterprise/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>文本通信分析 GPT4 完整包</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtarr/text_communication_analytics_gpt4_full_bundle/</link>
-      <description><![CDATA[  由    /u/No-Transition3372  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgtarr/text_communication_analytics_gpt4_full_bundle/</guid>
-      <pubDate>Tue, 30 Apr 2024 13:48:55 GMT</pubDate>
+      <title>关于人们何时认为人工智能将超越人类智能的精彩见解。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgyffv/cool_insights_into_when_people_think_ai_will/</link>
+      <description><![CDATA[去年我对人工智能产生了很大的兴趣，尤其是随着它变得越来越大、越来越相关。我发现这个很酷的链接也让我了解其他人的想法。你们怎么看待人工智能？它什么时候会超越人类？ https://www.improvethenews.org/controversy/ai-surpass- human-intelligence&quot;&gt;https:// /www.improvethenews.org/controversy/ai-surpass- human-intelligence   由   提交 /u/QuantumQuicksilver   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgyffv/cool_insights_into_when_people_think_ai_will/</guid>
+      <pubDate>Tue, 30 Apr 2024 17:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人工智能垃圾话比真人更好时</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgwkcj/when_ai_trashtalk_gets_better_the_better_of_real/</link>
+      <description><![CDATA[我一直在尝试在市场上出售一条 14k 金链，这颗低价的宝石出现了。从低报价到直接威胁的方式很搞笑，也有点令人恐惧。我决定在记录整个火车残骸的同时，与人工智能聊天机器人 Gemini Advanced 一起享受一些乐趣。事情是这样的： https://imgur.com/a/rmcxSMb &lt; p&gt;我的想法：  奇怪的是，一旦人工智能介入，侮辱就会转移。让你思考人们在网上表达敌意的方式。 &lt; li&gt;聊天机器人最终在整个“主导性和报复性”方面表现得令人惊讶。我要求的东西。人工智能是不是有点太粗鲁了？ 老实说，这整个情况太荒谬了，以至于与令人沮丧的虚报者打交道变得很有趣。    由   提交/u/PerspectiveOne7129   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgwkcj/when_ai_trashtalk_gets_better_the_better_of_real/</guid>
+      <pubDate>Tue, 30 Apr 2024 16:06:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来10年哪些工作不会被人工智能取代？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgw8vb/which_jobs_wont_be_replaced_by_ai_in_the_next_10/</link>
+      <description><![CDATA[大家好，我一直在思考工作和人工智能的未来。  人工智能似乎正在接管越来越多的领域，但我很好奇你认为哪些工作在未来十年内仍然不会受到人工智能的影响。  就我个人而言，我觉得需要深刻的人类同理心的角色，如治疗师、社会工作者，甚至教师，可能不容易被取代。  这些工作在很大程度上依赖于人与人之间的联系和对微妙情感的理解，而人工智能目前还无法完全复制这一点。  大家觉得怎么样？即使我们看到了所有的进步，是否有某些工作或领域人工智能无法胜任？    由   提交 /u/skrt_pls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgw8vb/which_jobs_wont_be_replaced_by_ai_in_the_next_10/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Ollama 轻松运行拥抱脸部模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgvyxl/how_to_run_hugging_face_models_easily_with_ollama/</link>
+      <description><![CDATA[大家好， 我看到很多人询问如何使用 Ollama 运行 Hugging Face 模型，所以我决定制作一个快速视频（至少尽我所能，哈哈）向人们展示实现这一目标的必要步骤！ 该视频可在此处观看：https://youtu.be/jK_PZqeQ7BE?si=hXyWih7RjxdR2HZo 在视频中我提到：  如何使用 Anaconda 设置环境（可选） 如何创建环境（可选） 安装 Hugging Face CLI 如何加快下载速度通过将模型切成更小的块 如何为 Ollama 创建模型文件（使用“Ollama create”运行） 最后如何运行模型  希望这个视频可以帮助别人！  如果您愿意留下任何反馈，我们将不胜感激，因为这将帮助我随着时间的推移不断改进！如果您希望我介绍任何其他与人工智能相关的主题，请留言！  谢谢大家！   由   提交/u/fx2mx3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgvyxl/how_to_run_hugging_face_models_easily_with_ollama/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:41:29 GMT</pubDate>
     </item>
     <item>
       <title>Instagram 上大量人工智能自动化广告</title>
@@ -50,19 +71,12 @@
     <item>
       <title>Google Cloud 教育订阅值得吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgpxys/is_google_cloud_education_subscription_worth_it/</link>
-      <description><![CDATA[我是一名自学成才的程序员，主要使用 Python。 随着人工智能领域的快速发展，选择坚持使用哪种模型变得非常复杂。 Gemini 1.5 Pro 最新的视频处理功能非常令人印象深刻。所以我想尝试一些 Google Cloud 培训来提高我的技能，希望为我的行业（教育）开发一个全栈应用程序。 环顾四周后，Google Cloud 收费 299 美元/年，外加一些额外学分，不到 Coursera 价格的一半。 有人可以对此发表一些看法吗？     提交人    /u/Fr33-Thinker   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名自学成才的程序员，主要使用 Python。 随着 AI 领域的快速发展，选择哪个是相当复杂的值得坚持的型号。Gemini 1.5 Pro 最新的视频处理能力非常令人印象深刻。所以我正在考虑尝试一些 Google Cloud 培训来提高我的技能，希望能为我的教育行业开发一个全栈应用程序。 环顾四周后，Google Cloud 的收费为 299 美元/年，还有一些额外的学分，更少比 Coursera 价格的一半还要多。 有人可以对此发表一些想法吗？    由   提交/u/Fr33-Thinker  /u/Fr33-Thinker  reddit.com/r/ArtificialInteligence/comments/1cgpxys/is_google_cloud_education_subscription_worth_it/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgpxys/is_google_cloud_education_subscription_worth_it/</guid>
       <pubDate>Tue, 30 Apr 2024 10:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT的AI“记忆”可以记住付费客户的偏好</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgntdh/chatgpts_ai_memory_can_remember_the_preferences/</link>
-      <description><![CDATA[OpenAI 在 2 月份宣布了内存功能，允许 ChatGPT 更永久地存储查询、提示和其他自定义内容。当时，它仅适用于“一小部分”用户，但现在它可供欧洲或韩国以外的 ChatGPT Plus 付费订阅者使用。 ChatGPT 的内存以两种方式工作来使聊天机器人做出响应更加个性化。第一个是让您告诉 ChatGPT 记住某些细节，第二个是从类似于我们应用程序中其他算法的对话中学习。内存使 ChatGPT 更接近成为更好的 AI 助手。一旦它记住了您的偏好，它就可以将它们包含在内，而无需提醒 https://www.theverge.com/2024/4/29/24144680/chatgpt-plus-memory-chatbot-subscription-details-preferences-personal-assistant   由   提交/u/ELVTR_Official  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgntdh/chatgpts_ai_memory_can_remember_the_preferences/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cycls - 用于人工智能聊天机器人部署的 python 框架</title>
+      <title>Cycls - 用于 AI 聊天机器人部署的 Python 框架</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/</link>
       <description><![CDATA[您好， 我们很高兴推出 Cycls，这是我们新的 Python 框架，旨在简化 AI 应用程序的部署。借助 Cycls，您只需几行代码即可启动聊天机器人，并通过带有聊天 UI 的公共 URL 进行访问。该工具非常适合希望快速部署和迭代 AI 项目的开发人员，与流行的 Python 库和 API（例如 OpenAI 提供的库和 API）无缝集成。 在花费了大量时间探索 LLM 和聊天机器人后，我们相信Cycls 通过显着降低进入该领域的门槛提供了一种变革性的解决方案。该框架不仅促进了开发过程，还缓解了与持续部署和功能集成相关的常见问题。  我们目前正在邀请用户参与我们的私人测试版。通过加入候补名单，您将能够尽早访问 Cycls，并可以根据您的特定需求和经验为完善其功能做出贡献。我们渴望听到您对框架的有用性以及 Cycls 如何更好地服务开发者社区的想法。 对于那些有兴趣加入 Beta 版并帮助塑造 AI 应用程序部署的未来的人，请注册此处：https://cycls.typeform.com/waitlist/  感谢您的关注和热情。我们期待您的反馈。    由   提交 /u/moonbunR   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgnb8e/cycls_a_python_framework_for_ai_chatbot_deployment/</guid>
@@ -76,13 +90,6 @@
       <pubDate>Tue, 30 Apr 2024 06:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>辩论的疯狂想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkbca/crazy_thought_for_debate/</link>
-      <description><![CDATA[我兴奋极了。好吧，我想到了一个想法。从技术上讲，您通过人工智能生成的所有内容都被视为您的知识产权吗？想想艺术、音乐、诗歌等   由   提交 /u/bontakoyaki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgkbca/crazy_thought_for_debate/</guid>
-      <pubDate>Tue, 30 Apr 2024 04:42:09 GMT</pubDate>
-    </item>
-    <item>
       <title>我使用 OpenAI 助手 API 制作了一个简单的语音 AI 助手。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cghebw/i_made_a_simple_voice_ai_assistant_using_openai/</link>
       <description><![CDATA[嗨，我想知道如何构建像 Siri 这样的人工智能语音助手。我发现 OpenAI 有一个耳语 API，可以进行文本转语音和语音转文本，而我们可以使用 Assistants API 进行对话部分。由于这是一个有趣的项目，所以我决定通过摆脱 Whisper 部分并使用浏览器 Javascript APIWeb Speech API 进行语音输入和输出来构建 MVP。而使用助手API作为主脑。 我认为我们可以通过以下方式提高速度和质量： 语音输入：AssemblyAI或OpenAI Whisper语音输出： Elevenlabs 或 OpenAI Whisper 速度：在 Langchain 上使用不同的模型（但我们必须去掉 Assistants API 部分） 如果有人知道如何改进它，请告诉我。 这里教程是：[使用 openAI 助手 API 构建 AI 语音助手](https://serpapi.com/blog/build-ai-voice-assistant-like-siri-use-openai-ai-assistant/)以下是源代码：【AI语音GitHub 上的助手代码示例](https://github.com/hilmanski/simple-ai-voice -assistant-openai-demo)  我希望它对任何人都有用！   由   提交/u/tukemon24  [链接] [评论]]]></description>
@@ -90,14 +97,7 @@
       <pubDate>Tue, 30 Apr 2024 02:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款人工智能应用程序，可以拍照并提供时尚建议</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cgcuj0/i_made_an_ai_app_that_takes_photos_and_gives/</link>
-      <description><![CDATA[大家好！我是 FashionAdvice.ai 的创建者和开发者。该应用程序会拍摄您上传的照片，并为您提供从 1 到 10 的时尚评分。它还会为您提供反馈以改进您的输出。我刚刚发布了一个新的更新，提供了更好的建议（更多详情）。由于这次更新，我认为该应用程序非常酷，我想与社区分享。  您最多可以免费尝试 5 条评论。如果你想订阅，每月 5 美元，每天 10 条评论。请告诉我您的想法！   由   提交/u/FashionAdviceAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cgcuj0/i_made_an_ai_app_that_takes_photos_and_gives/</guid>
-      <pubDate>Mon, 29 Apr 2024 22:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>

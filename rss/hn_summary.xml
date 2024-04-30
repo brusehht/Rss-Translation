@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:10:51 GMT</lastBuildDate>
     <item>
-      <title>[媒体]英国成为第一个禁止默认错误密码的国家，创造了历史[...]</title>
-      <link>https://t.me/hn_summary/87172</link>
-      <description><![CDATA[英国成为第一个禁止在物联网设备上使用默认错误密码的国家
-继 2016 年由 Mirai 僵尸网络引发的重大网络攻击之后，英国成为第一个禁止物联网设备默认错误密码的国家，创造了历史。新法律《2022 年产品安全和电信基础设施法案》为制造商设定了最低安全标准，并要求默认安装唯一密码。不遵守规定可能会导致罚款或产品召回。这项开创性的立法旨在保护消费者免受网络威胁，并确保他们的个人隐私、数据和财务安全。其他国家/地区也在考虑类似的法律，但英国在物联网安全方面处于领先地位。]]></description>
-      <guid>https://t.me/hn_summary/87172</guid>
-      <pubDate>Tue, 30 Apr 2024 15:00:06 GMT</pubDate>
+      <title>[媒体] 文件文件系统（ffs）是一个允许用户挂载半结构化数据的工具 [...]</title>
+      <link>https://t.me/hn_summary/87212</link>
+      <description><![CDATA[文件文件系统
+文件文件系统（ffs）是一种工具，允许用户将 JSON、YAML 和 TOML 等半结构化数据挂载为文件系统，使他们能够使用熟悉的 shell 工具处理现代格式。这种独特的方法简化了数据的编辑和处理，无需学习新语言。但是，ffs 可能不适合 Windows 用户或拥有大文件的用户。该工具适用于 Linux 和 macOS，并且可以下载最新的开发版本。 ffs 根据 GPLv3 获得许可。探索ffs的可能性，增强您的数据处理能力。]]></description>
+      <guid>https://t.me/hn_summary/87212</guid>
+      <pubDate>Tue, 30 Apr 2024 18:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Google 上搜索“Delta Emulator”时，请务必小心，因为顶部结果可能会导致 [...]</title>
-      <link>https://t.me/hn_summary/87171</link>
-      <description><![CDATA[Google 搜索“Delta Emulator”显示恶意软件为首要结果
-在 Google 上搜索“Delta Emulator”时，请务必小心，因为最上面的结果可能会将您引向恶意软件。 Delta 是一款流行的 iOS 应用程序，可让您在设备上玩经典视频游戏。然而，一些恶意网站设法操纵搜索结果，诱骗用户下载有害软件而不是合法模拟器。在下载任何内容之前，请务必仔细检查该网站，以避免成为此骗局的受害者。确保安全并在 Delta 模拟器上畅玩您最喜爱的复古游戏！]]></description>
-      <guid>https://t.me/hn_summary/87171</guid>
-      <pubDate>Tue, 30 Apr 2024 14:56:59 GMT</pubDate>
+      <title>[媒体]日本研究人员开发出一种突破性的显微镜，可以观察 [...]</title>
+      <link>https://t.me/hn_summary/87211</link>
+      <description><![CDATA[以更高的分辨率和效率探测电子自旋态 
+日本研究人员开发了一种突破性的显微镜，可以以更高的分辨率和效率可视化材料中的电子自旋态。这项技术被称为成像型自旋分辨光电子显微镜（iSPEM），有可能彻底改变材料分析和数据处理技术。通过将数据采集效率提高一万倍，将空间分辨率提高十倍以上，这一进步为在信息处理和电子设备（包括量子计算机）中利用电子自旋态开辟了新的可能性。这种创新方法可以带来更节能、更快的电子设备，突破计算能力的界限。]]></description>
+      <guid>https://t.me/hn_summary/87211</guid>
+      <pubDate>Tue, 30 Apr 2024 18:03:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 26 岁的芬兰男子 Julius "Zeekill" Kivimäki 被判处六年以上徒刑 [...]</title>
-      <link>https://t.me/hn_summary/87170</link>
-      <description><![CDATA[大规模勒索心理治疗患者的男子被判六年徒刑 
-26 岁的芬兰男子 Julius“Zeekill”Kivimäki 因侵入一家在线心理治疗诊所、泄露患者记录以及试图勒索诊所和患者而被判处六年以上监禁。 Kivimäki 是一名臭名昭著的犯罪黑客，此前曾参与网络犯罪，并在袭击后逃离该国。尽管行为严重，但根据芬兰法律，Kivimäki 很可能只服刑一半。该诊所的前首席执行官也因违规行为被起诉，暴露了该公司安全措施的薄弱。该案件凸显了敏感患者数据的脆弱性以及网络犯罪的后果。]]></description>
-      <guid>https://t.me/hn_summary/87170</guid>
-      <pubDate>Tue, 30 Apr 2024 14:41:51 GMT</pubDate>
+      <title>[媒体] 老大哥不仅仅在看着你：他正在使用你的手机、智能手表、无线 [...]</title>
+      <link>https://t.me/hn_summary/87210</link>
+      <description><![CDATA[战区监控技术正在席卷美国街头
+战区监控技术正在席卷美国街头
+老大哥不仅仅在监视您：他还使用您的手机、智能手表、无线耳机、汽车娱乐系统和车牌来实时跟踪您的位置。 NOTUS 发现当地执法机构正在使用战区常见的技术来监视美国公民。 TraffiCatch 是一款收集无线信号来跟踪设备的产品，正在美国和墨西哥边境附近的德克萨斯州社区使用。这种有争议的监视方法引起了人们对隐私和收集数据可能被滥用的担忧。此类技术的广泛使用凸显了保护个人隐私权的法规的必要性。]]></description>
+      <guid>https://t.me/hn_summary/87210</guid>
+      <pubDate>Tue, 30 Apr 2024 18:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>树莓派 5 对比</title>
-      <link>https://t.me/hn_summary/87169</link>
-      <description><![CDATA[Raspberry Pi 5 与 Intel N100 迷你 PC 比较 
-Raspberry Pi 5 Arm SBC 现在在性能方面是一些英特尔系统的有力竞争者，而英特尔的 Alder Lake-N 系列，特别是英特尔处理器 N100，提供了一种经济实惠且高效的选择，可以在价格、形式等方面挑战 Arm 系统。因素和功耗。本次比较深入探讨了 Raspberry Pi 5 和 Intel N100 迷你 PC 的规格、性能基准和定价，突出了各自的独特特性和功能。这两种选择之间的争论最终归结为特定的用户需求，Raspberry Pi 5 在某些项目中表现出色，而英特尔 N100 迷你 PC 为通用计算任务提供了更好的性能。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87169</guid>
-      <pubDate>Tue, 30 Apr 2024 14:38:46 GMT</pubDate>
+      <title>Symbl.ai 的 Nebula LLM 在 e [...]</title>
+      <link>https://t.me/hn_summary/87209</link>
+      <description><![CDATA[Symbl.ai 的 Nebula LLM 击败 Claude 3、GPT-4、 Llama 3 论情商
+Symbl.ai 的 Nebula LLM 已经超越了 Claude 3 等领先模型、GPT-4 和 Llama 3 在情商方面的表现，正如其在 EQ-Bench Judgemark 任务中的突破性表现所证明的那样。通过专注于情感推理能力，星云法学硕士在增强涉及人类互动的各个领域方面表现出了希望。创新的 EQ-Bench 基准评估法学硕士的情商，超越传统的语言任务，评估复杂的情绪和社交互动。人工智能系统的这一进步为在对话环境中创建更多类似人类的交互和响应提供了可能性。星云法学硕士的成功标志着朝着以更自然的方式理解和响应人类情感迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/87209</guid>
+      <pubDate>Tue, 30 Apr 2024 17:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，字节码虚拟机不仅限于通用编程语言 [...]</title>
-      <link>https://t.me/hn_summary/87168</link>
-      <description><![CDATA[令人惊讶的地方的字节码虚拟机
-令人惊讶的是，字节码虚拟机不仅限于 JavaScript 或 Python 等通用编程语言。它们也可以在意想不到的地方找到，比如 Linux 内核内部的 eBPF 扩展机制。 eBPF 最初是为网络数据包过滤而设计的，现已发展成为带有 JIT 编译器的通用内核虚拟机。此外，字节码解释器还用于调试工具（如 GDB）中，用于评估表达式，甚至用于文件压缩实用程序（如 WinRAR）中，其中使用称为 RarVM 的字节码编码来进行数据转换。这些非常规用途展示了字节码虚拟机技术的多功能性和灵活性。]]></description>
-      <guid>https://t.me/hn_summary/87168</guid>
-      <pubDate>Tue, 30 Apr 2024 14:36:40 GMT</pubDate>
+      <title>pydantic.dev 上的 Pydantic Logfire 提供结构化数据和直接 SQL 访问，使 Python 成为 [...]</title>
+      <link>https://t.me/hn_summary/87208</link>
+      <description><![CDATA[Pydantic Logfire
+pydantic.dev 上的 Pydantic Logfire 提供结构化数据和直接 SQL 访问，使 Python 对象可以进行查询。利用 Pandas、SQLAlchemy 或 psql 等工具进行无缝查询和 AI 生成 SQL。logfire 库的手动跟踪功能简化了创建日志和跟踪的过程，提供了具有附加功能的现代界面。与直接使用 OpenTelemetry 相比，logfire 更省事。 Pydantic Logfire 结合了 OpenTelemetry 的优点，为流行的 Python 包提供自动检测、跨语言数据集成以及将数据导出到任何与 OpenTelemetry 兼容的后端。这种创新方法简化了可观察性和数据收集流程。]]></description>
+      <guid>https://t.me/hn_summary/87208</guid>
+      <pubDate>Tue, 30 Apr 2024 17:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Reddit 用户发现该平台充满了转发整个帖子的机器人 [...]</title>
-      <link>https://t.me/hn_summary/87167</link>
-      <description><![CDATA[Reddit 充满了机器人：帖子逐条评论转发，10 个月稍后
-Reddit 用户发现该平台充满了机器人，这些机器人会在几个月后逐条评论地重新发布整个帖子。这一消息在用户中引发了争议，他们担心网站上互动的真实性。一位用户甚至发现自己的评论在 10 个月后被重新发布，引发了人们对这些机器人的目的和影响的质疑。这一发现揭示了 Reddit 上自动化活动的普遍性以及对用户参与度和信任的潜在影响。这种机器人活动的程度令人惊讶，并引发了有关在线社区未来的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/87167</guid>
-      <pubDate>Tue, 30 Apr 2024 14:28:33 GMT</pubDate>
+      <title>[媒体] 我购买了一台二手 Cressi Nepto 潜水电脑，很高兴能够将潜水数据同步到我的电脑。</title>
+      <link>https://t.me/hn_summary/87207</link>
+      <description><![CDATA[地下的 Cressi Nepto
+我购买了一台二手 Cressi Nepto 潜水电脑，很高兴能够将潜水数据同步到我的电脑。获得必要的适配器后，我面临着过时的软件和兼容性问题的挑战。我深入研究了捕获 USB 流量并解码 Cressi 使用的专有串行协议。尽管最初遇到了挫折，我还是成功地修补了 libdivecomputer 以支持 Nepto，并设法从设备中检索批量数据。该过程涉及解码帧格式和理解命令代码。通过坚持和技术探索，我克服了障碍，实现了与潜水电脑的数据同步。 （根据故事文本的 53% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87207</guid>
+      <pubDate>Tue, 30 Apr 2024 17:48:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 总统哈维尔·米莱认为，阿根廷的月度通货膨胀率将降至[...]以下。</title>
-      <link>https://t.me/hn_summary/87166</link>
-      <description><![CDATA[米雷称阿根廷4月CPI将降至10%以下&lt; /a&gt;
-总统哈维尔·米莱认为，阿根廷4月份月通胀率将降至10%以下，表明政府政策有效。米莱在接受 LN+ 电话采访时表示，工资增长速度开始超过通胀率，这表明在对抗物价上涨的斗争中取得了进展。这种对国家经济形势的乐观前景是阿根廷未来稳定的积极信号。]]></description>
-      <guid>https://t.me/hn_summary/87166</guid>
-      <pubDate>Tue, 30 Apr 2024 14:26:29 GMT</pubDate>
+      <title>我们可以 RAG 整个网络吗？</title>
+      <link>https://t.me/hn_summary/87206</link>
+      <description><![CDATA[我们可以拉动整个网络吗？
+在“我们可以对整个网络进行 RAG 吗？”一文中在 philippeoger.com 上，作者探讨了检索增强的概念Generation (RAG) 及其利用大型数据库彻底改变人工智能响应的潜力。作者深入研究了对庞大的互联网进行索引的挑战，并提出了一种涉及 XML 站点地图和域级别内容共享的解决方案。通过创建内容共享的标准化协议，作者提出了一种更道德、更实用的方法来实施 RAG。本文还介绍了一个 Python 库 contentmap，它简化了为矢量搜索功能创建内容数据库的过程。]]></description>
+      <guid>https://t.me/hn_summary/87206</guid>
+      <pubDate>Tue, 30 Apr 2024 17:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]布鲁斯·佩伦斯 (Bruce Perens) 以开源工作而闻名，他正在尝试第三个“不可能”的任务 [...]</title>
-      <link>https://t.me/hn_summary/87165</link>
-      <description><![CDATA[Bruce Perens 试图实现第三件不可能的事情&lt; br /&gt;
-以开源工作而闻名的 Bruce Perens 正在通过开发开放后零成本许可证来尝试第三个“不可能”的壮举。该许可证旨在解决开源开发人员面临的财务挑战，确保他们的工作得到补偿。 Perens 认为，当前的开源许可已经产生了问题，导致像 HashiCorp 这样的公司放弃传统许可。 Post-Open 许可证要求每年从 Post-Open 软件赚取超过 500 万美元的公司支付其收入的 1% 来支持开发人员。佩伦斯承认面临的挑战，但对其新许可方法的潜在影响保持乐观。]]></description>
-      <guid>https://t.me/hn_summary/87165</guid>
-      <pubDate>Tue, 30 Apr 2024 14:25:25 GMT</pubDate>
+      <title>[媒体]在这项试点研究中，研究人员探索了黑暗人格与[...]</title>
+      <link>https://t.me/hn_summary/87205</link>
+      <description><![CDATA[作为一个男人预测对大声汽车的渴望：更高的精神病和虐待狂
+在这项试点研究中，研究人员探索了黑暗性格特征与拥有一辆带有改装消声器的大声汽车的愿望之间的关系。研究发现，精神变态和施虐倾向程度较高的男性更有可能表达对大声车辆的渴望。令人惊讶的是，自恋并没有显着预测对大声汽车的渴望，这表明同理心和操作大声汽车之间存在潜在联系。研究结果还表明，年轻男性更有可能想要大声的汽车，这与之前关于休闲噪音的研究一致。这些发现揭示了与对大声车辆的渴望相关的黑暗人格特征。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87205</guid>
+      <pubDate>Tue, 30 Apr 2024 17:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>经过多年的无所作为，各州终于开始着手解决住房危机，因为缺乏资金 [...]</title>
-      <link>https://t.me/hn_summary/87164</link>
-      <description><![CDATA[经过几十年的无所作为，各州终于开始加强住房建设
-经过多年的无所作为，各州终于开始解决住房危机，因为缺乏经济适用房导致无家可归者人数不断增加。随着国会和拜登总统关注住房负担能力，俄勒冈州、佛罗里达州和加利福尼亚州等州正在更新分区法规并提高住房建设要求。然而，并非所有州级法案都同样有效，有些法案力度较弱，不太可能产生重大影响。实施和遵守是关键，因为反对者可能会在法庭上挑战新法律或寻找漏洞。专家表示，全州政策通过后，可能需要三到五年才能看到住房生产的真正变化。]]></description>
-      <guid>https://t.me/hn_summary/87164</guid>
-      <pubDate>Tue, 30 Apr 2024 14:11:15 GMT</pubDate>
+      <title>[媒体] Copilot One 是一个旨在向任何 React/JS 应用添加类似 Siri 的 AI 助手的项目。</title>
+      <link>https://t.me/hn_summary/87204</link>
+      <description><![CDATA[显示 HN：将 Siri 像原生 AI 助手一样添加到任何 React/JS 中应用程序
+Copilot One 是一个旨在将类似 Siri 的人工智能助手添加到任何 React/JS 应用程序中的项目。它提供语音和文本输入操作、当前屏幕上下文感知以及用于与 API 进行自然语言交互的文本 API 接口等功能。该项目包括支持语音的 UX 代理，用于执行 UI 导航、表单填写等任务。它专注于缩短用户的学习曲线并实现免提体验。作者设想为人工智能助手、代理和动作创建一个开放协议。该项目提供了详细的安装和使用说明，以及未来开发的路线图。]]></description>
+      <guid>https://t.me/hn_summary/87204</guid>
+      <pubDate>Tue, 30 Apr 2024 17:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉首席执行官埃隆·马斯克 (Elon Musk) 出人意料地宣布裁员约 500 名员工 [...]</title>
-      <link>https://t.me/hn_summary/87163</link>
-      <description><![CDATA[特斯拉将解雇所有从事超级充电站和新车工作的人员
-特斯拉首席执行官埃隆·马斯克 (Elon Musk) 出人意料地宣布裁员约 500 名负责超级充电网络、新车开发和公共政策团队的员工。尽管该公司一度在电动汽车市场占据强势地位，但最近的季度业绩显示销售额和利润率不断萎缩。解雇关键高管及其团队（包括电动汽车充电总监）的决定引发了人们对特斯拉基础设施未来的质疑。马斯克对降低成本和员工人数的关注让许多人对公司的方向感到好奇，特别是当竞争对手开始在电动汽车市场迎头赶上时。]]></description>
-      <guid>https://t.me/hn_summary/87163</guid>
-      <pubDate>Tue, 30 Apr 2024 14:09:10 GMT</pubDate>
+      <title>[媒体] 在本文中，我讨论了放弃隐式编码并利用抽象编码的好处 [...]</title>
+      <link>https://t.me/hn_summary/87203</link>
+      <description><![CDATA[放弃隐式并使用抽象：CLIPS
+在本文中，我讨论在 CLIPS 编程中放弃隐式编码并利用抽象的好处。通过采用这种方法，开发人员可以简化代码、提高可读性并提高整体效率。和我一起探索 CLIPS 编程中抽象的力量。哦，别介意原始网址中的拼写错误 - 我们现在会将您重定向到正确的文章。]]></description>
+      <guid>https://t.me/hn_summary/87203</guid>
+      <pubDate>Tue, 30 Apr 2024 17:43:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
