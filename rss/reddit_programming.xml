@@ -4,13 +4,97 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 01 May 2024 15:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:15:09 GMT</lastBuildDate>
     <item>
-      <title>Neofetch 开发结束，GitHub 项目已归档</title>
-      <link>https://www.reddit.com/r/programming/comments/1choigt/neofetch_development_ends_as_github_project/</link>
-      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1choigt/neofetch_development_ends_as_github_project/</guid>
-      <pubDate>Wed, 01 May 2024 15:08:42 GMT</pubDate>
+      <title>Python 和 Pygame 中使用四叉树进行碰撞检测。源代码在说明中。</title>
+      <link>https://www.reddit.com/r/programming/comments/1chsh98/collision_detection_with_quadtree_in_python_and/</link>
+      <description><![CDATA[ 由   提交/u/eldor_z   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chsh98/collision_detection_with_quadtree_in_python_and/</guid>
+      <pubDate>Wed, 01 May 2024 17:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++23：了解 std::expected 的内部结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1chs6c0/c23_understand_internals_of_stdexpected/</link>
+      <description><![CDATA[ 由   提交/u/joebaf  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chs6c0/c23_understand_internals_of_stdexpected/</guid>
+      <pubDate>Wed, 01 May 2024 17:39:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 子版块的现状（2024 年 5 月）</title>
+      <link>https://www.reddit.com/r/programming/comments/1chs4ib/the_state_of_the_subreddit_may_2024/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chs4ib/the_state_of_the_subreddit_may_2024/</guid>
+      <pubDate>Wed, 01 May 2024 17:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llamafile 的进展，四个月</title>
+      <link>https://www.reddit.com/r/programming/comments/1chrzi2/llamafiles_progress_four_months_in/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chrzi2/llamafiles_progress_four_months_in/</guid>
+      <pubDate>Wed, 01 May 2024 17:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 python 编写的基于文本的星形系统生成器：</title>
+      <link>https://www.reddit.com/r/programming/comments/1chry4s/my_textbased_star_system_generator_in_python/</link>
+      <description><![CDATA[ 由   提交/u/Inknown-Economist57  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chry4s/my_textbased_star_system_generator_in_python/</guid>
+      <pubDate>Wed, 01 May 2024 17:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决和防止不稳定的测试？</title>
+      <link>https://www.reddit.com/r/programming/comments/1chrpom/how_do_you_address_and_prevent_flaky_tests/</link>
+      <description><![CDATA[ 由   提交/u/basecase_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chrpom/how_do_you_address_and_prevent_flaky_tests/</guid>
+      <pubDate>Wed, 01 May 2024 17:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llamafile 的进展，四个月</title>
+      <link>https://www.reddit.com/r/programming/comments/1chrm2b/llamafiles_progress_four_months_in/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chrm2b/llamafiles_progress_four_months_in/</guid>
+      <pubDate>Wed, 01 May 2024 17:16:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对编程语言的看法（以非常普遍的方式）</title>
+      <link>https://www.reddit.com/r/programming/comments/1chqypv/my_thoughts_on_programming_languages_in_a_really/</link>
+      <description><![CDATA[ 由   提交 /u/__Yi__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chqypv/my_thoughts_on_programming_languages_in_a_really/</guid>
+      <pubDate>Wed, 01 May 2024 16:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我查看了 HTMX 上的 1,000 条意见</title>
+      <link>https://www.reddit.com/r/programming/comments/1chqtia/i_reviewed_1000s_of_opinions_on_htmx/</link>
+      <description><![CDATA[ 由   提交/u/balphi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chqtia/i_reviewed_1000s_of_opinions_on_htmx/</guid>
+      <pubDate>Wed, 01 May 2024 16:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 个让你畏缩的 JavaScript 错误——你犯了多少个？</title>
+      <link>https://www.reddit.com/r/programming/comments/1chqeny/15_javascript_mistakes_thatll_make_you_cringe_how/</link>
+      <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chqeny/15_javascript_mistakes_thatll_make_you_cringe_how/</guid>
+      <pubDate>Wed, 01 May 2024 16:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 6 分钟内设置本地法学硕士并构建 AI 应用程序：教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1chpzmj/setting_up_a_local_llm_and_building_an_ai_app_in/</link>
+      <description><![CDATA[ 由   提交 /u/RushMuchPoker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chpzmj/setting_up_a_local_llm_and_building_an_ai_app_in/</guid>
+      <pubDate>Wed, 01 May 2024 16:10:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vertex AI 资源池的（隐藏？）成本：一个警示故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1chpy9c/the_hidden_costs_of_vertex_ai_resource_pools_a/</link>
+      <description><![CDATA[  由    /u/pgaleone  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chpy9c/the_hidden_costs_of_vertex_ai_resource_pools_a/</guid>
+      <pubDate>Wed, 01 May 2024 16:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过过滤向量嵌入来授权 LLM 响应</title>
+      <link>https://www.reddit.com/r/programming/comments/1chowat/authorizing_llm_responses_by_filtering_vector/</link>
+      <description><![CDATA[ 由   提交 /u/ssglaser   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chowat/authorizing_llm_responses_by_filtering_vector/</guid>
+      <pubDate>Wed, 01 May 2024 15:25:13 GMT</pubDate>
     </item>
     <item>
       <title>JAVA第一个程序</title>
@@ -20,95 +104,11 @@
       <pubDate>Wed, 01 May 2024 15:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>大科技文摘#15💥：Meta 推出 Meta Llama 3、Canva 扩展至数十亿、Booking.com 采用 Airflow 等等！</title>
+      <title>大科技文摘 #15 💥：在 Meta 上介绍 Meta Llama 3、在 Canva 上扩展至数十亿、在 Booking.com 上采用 Airflow 等等！</title>
       <link>https://www.reddit.com/r/programming/comments/1cho9ye/big_tech_digest_15_introducing_meta_llama_3_at/</link>
       <description><![CDATA[ 由   提交 /u/BigTechDigest   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cho9ye/big_tech_digest_15_introducing_meta_llama_3_at/</guid>
       <pubDate>Wed, 01 May 2024 14:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计：数据库和 DBMS - 关于数据库的一切</title>
-      <link>https://www.reddit.com/r/programming/comments/1cho738/system_design_databases_and_dbms_all_about/</link>
-      <description><![CDATA[ 由   提交/u/nandank93  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cho738/system_design_databases_and_dbms_all_about/</guid>
-      <pubDate>Wed, 01 May 2024 14:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件系统：硬链接和符号链接有什么区别？</title>
-      <link>https://www.reddit.com/r/programming/comments/1chnqeb/file_systems_whats_the_difference_between_hard/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chnqeb/file_systems_whats_the_difference_between_hard/</guid>
-      <pubDate>Wed, 01 May 2024 14:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>最重要的是认知负荷</title>
-      <link>https://www.reddit.com/r/programming/comments/1chmvyq/what_matters_most_is_cognitive_load/</link>
-      <description><![CDATA[ 由   提交/u/RobinCrusoe25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chmvyq/what_matters_most_is_cognitive_load/</guid>
-      <pubDate>Wed, 01 May 2024 13:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>证明立即模式 GUI 是高性能的</title>
-      <link>https://www.reddit.com/r/programming/comments/1chm7dt/proving_immediate_mode_guis_are_performant/</link>
-      <description><![CDATA[  由    /u/NX18  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chm7dt/proving_immediate_mode_guis_are_performant/</guid>
-      <pubDate>Wed, 01 May 2024 13:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何学会停止编写脆弱的测试并喜欢富有表现力的 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1chm598/how_i_learned_to_stop_writing_brittle_tests_and/</link>
-      <description><![CDATA[  由    /u/codingindoc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chm598/how_i_learned_to_stop_writing_brittle_tests_and/</guid>
-      <pubDate>Wed, 01 May 2024 13:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么新城市的每个人都使用旧风格？</title>
-      <link>https://www.reddit.com/r/programming/comments/1chlsyg/why_does_everyone_in_neocities_use_the_old_style/</link>
-      <description><![CDATA[ 由   提交/u/No-Educator293   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chlsyg/why_does_everyone_in_neocities_use_the_old_style/</guid>
-      <pubDate>Wed, 01 May 2024 13:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们在 GitHub 上联系吧</title>
-      <link>https://www.reddit.com/r/programming/comments/1chlozi/lets_connect_on_github/</link>
-      <description><![CDATA[我希望与全球的开发人员和技术人员建立更多的联系，并结交网上的好朋友。我一生都是一个内向的人。只是想打破外壳，走出我的舒适区。如果您想联系 GitHub，也可以在 Instagram 上关注： Instagram：instagram.com/salikmubeen  &amp;# 32；由   提交 /u/saalik_m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chlozi/lets_connect_on_github/</guid>
-      <pubDate>Wed, 01 May 2024 13:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能（还）还没有弄清楚品牌——原因如下</title>
-      <link>https://www.reddit.com/r/programming/comments/1chll2o/ai_still_hasnt_figured_out_branding_yet_heres_why/</link>
-      <description><![CDATA[ 由   提交/u/9millionrainydays_91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chll2o/ai_still_hasnt_figured_out_branding_yet_heres_why/</guid>
-      <pubDate>Wed, 01 May 2024 13:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就是解决紧急贷款被拒绝的方法！只需要10分钟！ （最新2024年）</title>
-      <link>https://www.reddit.com/r/programming/comments/1chla4y/비상금대출_거절_이젠_이렇게_해결하세요_10분이면_됩니다_2024년_최신/</link>
-      <description><![CDATA[ 由   提交/u/j030118  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chla4y/비상금대출_거절_이젠_이렇게_해결하세요_10분이면_됩니다_2024년_최신/</guid>
-      <pubDate>Wed, 01 May 2024 12:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好 Reddit 用户！我们正在开发一款使用人工智能提供医疗援助的应用程序。一旦推出，您会考虑尝试一下吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1chkxcn/hello_redditors_were_in_the_process_of_developing/</link>
-      <description><![CDATA[ 由   提交/u/corp_EXCITING   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chkxcn/hello_redditors_were_in_the_process_of_developing/</guid>
-      <pubDate>Wed, 01 May 2024 12:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tanstack Query 简介以及使用 queryOptions 组织代码以提高可维护性</title>
-      <link>https://www.reddit.com/r/programming/comments/1chiwiv/introduction_to_tanstack_query_and_organizing/</link>
-      <description><![CDATA[  由    /u/pdycnbl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chiwiv/introduction_to_tanstack_query_and_organizing/</guid>
-      <pubDate>Wed, 01 May 2024 10:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>操作系统大战，什么操作系统最适合编程。</title>
-      <link>https://www.reddit.com/r/programming/comments/1chi2i7/operating_system_wars_what_is_the_best_operating/</link>
-      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chi2i7/operating_system_wars_what_is_the_best_operating/</guid>
-      <pubDate>Wed, 01 May 2024 09:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

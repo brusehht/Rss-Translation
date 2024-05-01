@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 15:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
+      <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
+      <pubDate>Wed, 01 May 2024 18:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求人们在咨询/技术销售中使用的 CRM 推荐</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</link>
+      <description><![CDATA[嗨， 我希望安装本地开源 CRM，它提供以下功能并可作为流行 CRM 的替代品： 联系人管理 互动追踪 销售线索管理 团队管理 销售渠道管理 任务和活动管理 报告和分析 集成功能 定制和可扩展性 🙏     提交人    /u/Saiyyidi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</guid>
+      <pubDate>Wed, 01 May 2024 18:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOSS Speed reader 版本 2 现已推出：主要 UI 改进、新导入方法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</link>
+      <description><![CDATA[嗨！不久前，我发布了我在这里开发的快速阅读器，收到了很多积极和建设性的反馈。之后，我和一个朋友开始研究改进版本。现在就在这里，我们尽可能多地提供了反馈。 对于那些还不了解我们的读者的人，以下是网站上的描述：  高度可定制的快速阅读器，可直接替代付费应用程序。该阅读器内置了诸如组块、节奏和突出显示等快速阅读概念。使用对焦模式。通过上传文件或从剪贴板从 URL 导入文本。所有数据仅存储在您的设备上。随着时间的推移，提高阅读速度并更改设置以满足您的需求。  演示：https://axym.davidewiest.com/ 使用 docker 托管 - docker pull davidewiest/reader:latest  docker run -p 5001:8080 davidewiest/reader:latest（将 5001 切换为您想要访问应用程序的任何端口）  这是我们所做的所有改进的完整列表  更简单的用户界面 EPUB 导入支持 从 URL 支持导入 从 GET 请求正文导入文件/网络提取请求/html/状态 存储有关文本的源数据 内部托管文件限制从大约增加到100kB 到 100MB（但是，请注意，大多数浏览器将本地存储限制为约 5MB，但这可以更改） 新闻功能（主要用于宣布新的更新和重要功能） &lt; li&gt;修复了一些错误。加载状态时发生的情况 将名称更改为 Axym-Reader 以避免歧义  GitHub 存储库：https://github.com/Axym-Labs/Axym-Reader Docker 存储库： https://hub.docker.com/r/davidewiest/reader 反馈 要提交反馈，请在功能请求板上快速发帖. 祝您阅读愉快！ PS：我们正在寻找能够构建一个超级简单的浏览器插件的人，该插件可以重定向用户向读者发送请求正文中附加的数据。如果您认识某人，请给我发消息！   由   提交 /u/Pristine-Adeptness-1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chsu3j/foss_speed_reader_version_2_out_now_major_ui/</guid>
+      <pubDate>Wed, 01 May 2024 18:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maelstrom：一个密封的集群测试运行程序（而且速度很快）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</link>
+      <description><![CDATA[大家好，  Maelstrom 是一个 Rust 测试运行程序，构建在通用集群作业运行程序之上。 Maelstrom 将您的 Rust 测试打包到密封的微容器中，然后将它们分发到任意大的测试运行器集群上运行，或者在本地机器上运行。您可以使用 Maelstrom 来运行测试，因为：  这很简单。 Maelstrom 可以作为货物测试的直接替代品，因此在大多数情况下，它都能正常工作。 它很可靠。 Maelstrom 在自己的轻量级容器中密封地运行每个测试，消除了由测试间或隐式测试环境依赖性引起的混乱错误。 它是可扩展的。 Maelstrom 可以作为集群运行。您可以添加更多工作机器来线性增加测试吞吐量。 速度很快。在大多数情况下，即使不使用集群，Maelstrom 也比货物测试更快。 它很干净。 Maelstrom 有一个从头开始的无根容器实现（不依赖于 Docker 或 RunC），经过优化以降低开销并快速启动。 它是 Rusty。整个项目是用 Rust 编写的。  我们从 Rust 测试运行器开始，但 Maelstrom 的底层作业执行系统是通用的。我们将在不久的将来添加对其他语言测试框架的支持。我们还为喜欢冒险的用户提供了运行任意作业的工具，可以使用命令行工具或基于 gRPC 的 SDK。 欢迎提供反馈和问题！感谢您尝试一下。 https://maelstrom-software.com/ &lt; p&gt;https://github.com/maelstrom-software/maelstrom （编辑：添加github 链接）   由   提交/u/bobbobbio2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chsepj/maelstrom_a_hermetic_clustered_test_runner_and/</guid>
+      <pubDate>Wed, 01 May 2024 17:49:29 GMT</pubDate>
+    </item>
     <item>
       <title>Twitter(X)开源使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>寻找具有远程 SSH 的 MS Visual Studio Code 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</link>
-      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
+      <description><![CDATA[基本上就是标题。MS Visual Studio Code 非常棒，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，我们真的很想要这样的东西。感谢您的想法。    提交人    /u/the4amfriend   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</guid>
       <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
     </item>
@@ -34,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 08:14:05 GMT</pubDate>
     </item>
     <item>
-      <title>Android Mi Calc 开源替代品？</title>
+      <title>Android Mi Calc开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</link>
       <description><![CDATA[https://imgur.com/a/Z1ig0Xz 我一直在寻找 Mi Calc 的开源替代品，我正在寻找的是在输入计算时换行的能力。 并且请不要建议搜索应用程序在 f-droid 或类似商店中，我已经记不清我在 f-droid 和其他存储库上检查过多少个 calc 应用程序，而且到目前为止，我还没有找到能够复制该行为的应用程序。 提前致谢。   由   提交 /u/ZarTham   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</guid>
@@ -69,7 +97,7 @@
       <pubDate>Tue, 30 Apr 2024 13:40:10 GMT</pubDate>
     </item>
     <item>
-      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
+      <title>上周 FOSS 消息：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 及其他新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
       <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
       <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 FOSS 运行 Bug Bounty？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg29wy/running_bug_bounty_for_foss/</link>
-      <description><![CDATA[您好，我们经营一家小公司，主要使用专门的 FOSS 软件，该软件在我们客户的设备上运行，可能对安全至关重要。&lt; /p&gt; 我们希望推动该项目并为其所有用户和客户的安全做出贡献。因此，我们正在考虑为该软件及其一些核心依赖项运行一个小错误赏金计划。 我想知道您对如何最好地做到这一点的选择，因为我们不是这些项目/依赖项的维护者。 我们担心以某种方式冒犯核心维护者或向他们加载不需要的错误报告。他们花时间毫无意义地维护软件，我们害怕向一些向他们提交错误报告并让他们工作的随机人奖励金钱，而他们一直修复数千个错误，并且很难为此获得奖励。&lt; /p&gt; 我们显然会尝试事先联系他们，但在我们对一个愚蠢的想法大惊小怪之前，我想从你那里得到一些意见。   由   提交/u/Refinery73  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg29wy/running_bug_bounty_for_foss/</guid>
-      <pubDate>Mon, 29 Apr 2024 15:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于企业应用程序的元搜索引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</link>
-      <description><![CDATA[Ethanol 旨在成为一个搜索聚合器，能够查询多个应用程序并返回聚合结果。它就像一个元搜索引擎，但适用于 Jira、MediaWiki、Check_MK 等应用程序... https://github.com/areYouLazy/ethanol    提交人    /u/gixo89   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg24g8/a_metasearchengine_for_enterprise_applications/</guid>
-      <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找免费的应用程序来转录音频文件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
-      <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 Gboard 替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</link>
-      <description><![CDATA[是否有支持滑动打字的开源键盘？ Florisboard 是我所知道的唯一一个，而且已经有一段时间没有更新了。   由   提交 /u/Steroid_Cyborg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg1k7q/best_gboard_alternative/</guid>
-      <pubDate>Mon, 29 Apr 2024 15:11:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

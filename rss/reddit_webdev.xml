@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 May 2024 15:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:15:28 GMT</lastBuildDate>
+    <item>
+      <title>适用于以前的静态网站的 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chsvpx/cms_for_a_previously_static_site/</link>
+      <description><![CDATA[我为非营利组织制作了一个免费网站。我免费做了这件事，因为我对这个事业充满热情，而且这是一个简单的单页网站。我用纯 HTML、CSS 和 JS 制作了它。  现在，该网站已准备好启动，他们的团队希望能够编辑内容并添加类似博客的帖子。  你们都推荐什么CMS？ WordPress？ Strapi 和 Astro 的组合？   由   提交 /u/YinzJagoffs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chsvpx/cms_for_a_previously_static_site/</guid>
+      <pubDate>Wed, 01 May 2024 18:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>您多久维护或改进一次现有的个人项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chsufl/how_often_do_you_do_maintenance_on_or_improve/</link>
+      <description><![CDATA[大家好。我想知道您在“维护”现有投资组合项目上花了多少时间？您会回头进行改进吗？如果会，您的流程是怎样的？频率如何？或者您通常都在从事新工作？ 我想确定重新审视旧项目并改进现有项目是否有价值，或者是否有更多展示不同技能组合的最新“MVP”更好。    提交人    /u/babybush   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chsufl/how_often_do_you_do_maintenance_on_or_improve/</guid>
+      <pubDate>Wed, 01 May 2024 18:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llamafile 的进展，四个月</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chrzye/llamafiles_progress_four_months_in/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chrzye/llamafiles_progress_four_months_in/</guid>
+      <pubDate>Wed, 01 May 2024 17:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llamafile 的进展，四个月</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chrmir/llamafiles_progress_four_months_in/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chrmir/llamafiles_progress_four_months_in/</guid>
+      <pubDate>Wed, 01 May 2024 17:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要谁从头开始创建混合平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chrm3v/who_do_i_need_to_create_from_the_ground_up_a/</link>
+      <description><![CDATA[我需要谁从头开始创建一个网站：混合平台：一个世界地图 - 直接从用户那里显示和收集数据，例如维基百科， - 但像社交网络：集体验证的数据/ - 数据的演变速度与股市图表一样快？对于这样复杂的愿景，我应该去敲谁的门呢？我对网络开发一无所知。谢谢。    由   提交/u/josephineisonline  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chrm3v/who_do_i_need_to_create_from_the_ground_up_a/</guid>
+      <pubDate>Wed, 01 May 2024 17:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建客户端应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chri9k/creating_an_app_to_client/</link>
+      <description><![CDATA[您好，我有了第一个网络应用程序客户， 该代码属于我吗？而且客户刚刚借的？有人可以告诉我它是如何工作的吗？   由   提交 /u/Gggklss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chri9k/creating_an_app_to_client/</guid>
+      <pubDate>Wed, 01 May 2024 17:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 PWA 上实现通知以在 iOS 上工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chrf7f/how_to_implement_notifications_on_pwa_to_work_on/</link>
+      <description><![CDATA[我一直在研究在 iOS 上运行的 PWA 上发送通知，我了解到通知 API 不起作用，但从 iOS 16.4 开始推送通知得到了很好的支持，但我仍然对如何实施它们感到困惑。我目前没有构建应用程序，我只需要测试它是否有效，我该如何去做，我有一个测试 PWA 正在运行，并且通常使用 android 上的通知 API 发送通知。它甚至不要求 iOS 上的权限。    由   提交 /u/Radiossasin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chrf7f/how_to_implement_notifications_on_pwa_to_work_on/</guid>
+      <pubDate>Wed, 01 May 2024 17:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您从网站/网络应用程序创意到完成最小可行产品所需的最快时间是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chqitu/whats_the_fastest_time_it_took_you_from/</link>
+      <description><![CDATA[基本上，您从以下位置花了多长时间： 步骤 1：网站/网络应用产品创意 ... 步骤？？：产品是否能完成其应做的最少工作？ 由于很多人似乎都是单独或双人开发者，我发现这个问题很相关也很有趣。 有什么想法吗？    提交人    /u/SeriouslySally36   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chqitu/whats_the_fastest_time_it_took_you_from/</guid>
+      <pubDate>Wed, 01 May 2024 16:32:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 JavaScript 免费将 docx 文件转换为 pdf 文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chqfdu/how_to_convert_a_docx_file_to_a_pdf_file_using/</link>
+      <description><![CDATA[我找不到任何未付费或过时的解决方案，如果有人可以提供帮助，我将非常感激。    由   提交 /u/qualinto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chqfdu/how_to_convert_a_docx_file_to_a_pdf_file_using/</guid>
+      <pubDate>Wed, 01 May 2024 16:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>招聘人员是否比抛硬币更能判断简​​历？这是数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chpsvb/are_recruiters_better_than_a_coin_flip_at_judging/</link>
+      <description><![CDATA[   /u/magenta_placenta   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chpsvb/are_recruiters_better_than_a_coin_flip_at_judging/</guid>
+      <pubDate>Wed, 01 May 2024 16:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 安全问题（GitHub 页面）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chpj9c/web_security_question_github_pages/</link>
+      <description><![CDATA[嗨，我想知道一些经验丰富的开发人员是否可以帮助阐明我目前的情况。  所以我只是为了好玩而制作了一个 github 页面，但现在我的高中希望我把它放在他们的主页上，托管在 wordpress 中。我的印象是，如果我只在主页上设置一个指向我的 github 页面的链接，这将是最安全的选择，对吗？如果发生攻击，攻击会被遏制吗？ 我非常谨慎，因为我很新，没有确保代码安全的经验，而且我的页面充满了外部脚本，例如耦合的mapbox有 20 个 iframe，其中一半只是由 mapbox 制作的带有 html 的地图。   由   提交 /u/childishlamino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chpj9c/web_security_question_github_pages/</guid>
+      <pubDate>Wed, 01 May 2024 15:52:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助理解 Prisma 模拟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1choxet/help_understanding_prisma_mocking/</link>
+      <description><![CDATA[我将在使用 Prisma 的后端中实现一些中等复杂的搜索/过滤逻辑。我想编写一些单元测试，以确保这种复杂的逻辑在未来继续发挥作用。  到目前为止，我得到的印象是我应该通过嘲笑 Prisma 客户端来做到这一点。我按照这篇文章来了解基础知识，但他们这样做的方式并没有&#39;对我来说没有意义。 对于我的用例中的每个测试，我基本上想检查以下内容：如果数据库包含 {{这些虚拟项}}，并且我传递 {{这些查询参数} }，然后我总是返回{{这些正确过滤的结果}}。 不过，在文章中，他们似乎使用 mockResolvedValue 来预先确定 函数的输出。看起来他们基本上是在说，“嘿，总是返回这个正确的值，这样我的测试无论如何都会通过！” 例如，以下 createUser 通过了以下测试，即使实现是错误的。 script.ts: import { Prisma } from &quot;@prisma/client&quot;;从“./libs/prisma”导入 prisma；导出 const createUser = async (用户: Prisma.UserCreateInput) =&gt; { const errorUser = { ...用户，名称：“a” };返回等待 prisma.user.create({ data:rongUser, }); };  sample.test.ts： 从“vitest”导入{expect, test, vi }；从“../script”导入{createUser}；从“../libs/__mocks__/prisma”导入 prisma； vi.mock(“../libs/prisma”); test(&quot;createUser 应返回生成的用户&quot;, async () =&gt; { const newUser = { email: &quot;user@prisma.io&quot;, name: &quot;Prisma Fan&quot;, Age: 20 }; prisma.user .create.mockResolvedValue({ ...newUser, id: 1 }); const user = wait createUser(newUser); Expect(user).toStrictEqual({ ...newUser, id: 1 });  我确实发现我可以使用.toHaveBeenCalledWith来检查prisma.user.create是否传递了正确的数据。但这不是重点。创建记录甚至不是我想要测试的内容，而且我找不到任何更接近我的用例的示例。 关于使用 Prisma 进行测试，我是否遗漏了什么？当我使用 Prisma 时，测试搜索/过滤功能的正确方法是什么？   由   提交/u/megalogue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1choxet/help_understanding_prisma_mocking/</guid>
+      <pubDate>Wed, 01 May 2024 15:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>a11y 的源代码不错吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chowwa/good_source_code_with_a11y/</link>
+      <description><![CDATA[我仍在努力使我的 HTML 在我的项目中更易于访问，但对我来说，在幕后编写代码比在代码中编写代码要困难得多普通用户会看到的可见内容。我只知道基本的东西，比如语义标签和 alt/aria-labels。有谁有一些应用了很棒的 a11y 原则的源代码的链接吗？提前致谢！   由   提交 /u/vempr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chowwa/good_source_code_with_a11y/</guid>
+      <pubDate>Wed, 01 May 2024 15:25:57 GMT</pubDate>
+    </item>
     <item>
       <title>我应该如何处理这个项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1chodoo/how_should_i_approach_this_project/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[每两年我父亲就会组织一次欧洲杯和世界杯足球赛。他通常会给每个人发一份带有格式的excel表，你只需填写所有的分数和得分最高的人等即可。参加的老年人有时会遇到excel问题，无法使用，所以我父亲让我制作一个简单的网站。我对如何执行此操作有一些常识，但我仍然希望 Reddit 提供帮助。为足球池建立这个网站的好方法是什么？ 我认为最好的方法是获得一个为期 3 个月的网站（直到比赛结束），寻找任何格式互联网上的体育台球并导入到网站中。然后我只需要把所有国家的名字改成谁对战，我就可以让每个人填写他们的预测。我在哪里可以找到这样的格式，或者什么是构建这个网站的更好方法。  它不必是完美的，只是为了让所有那些在 Excel 中挣扎并邮寄 Excel 文件的人变得更加简单。  非常感谢！ （抱歉英语不太好）   由   提交 /u/Morriii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cho781/website_for_a_soccer_pool/</guid>
       <pubDate>Wed, 01 May 2024 14:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 正在寻找能够使用生成式 AI 的 SWE 工程师，参加在加利福尼亚州山景城举行的为期 3 天的焦点小组讨论</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cho3t6/google_looking_swe_engineers_that_work_with/</link>
-      <description><![CDATA[我刚刚看到这个并想分享它，因为我相信这将是一个能够参加的信息丰富的会议，尽管他们提供了 1000 美元的奖励我我确信这将是非常有洞察力和教育意义的，这里是参与链接。 https://app.respondent.io/respondents/projects/view/6631a215891ea14eb371e733/seeking-sw-engineers-who-are-pioneers-in-cutting-edge-generative -ai-for-interactive-research-on-ai!?referralCode=mosalamasoetsa-ba5a1f140971   由   提交/u/Straight-Carpet-6315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cho3t6/google_looking_swe_engineers_that_work_with/</guid>
-      <pubDate>Wed, 01 May 2024 14:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Vite重建NPM工作区本地依赖</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chn7e7/using_vite_to_rebuild_local_dependencies_in_an/</link>
-      <description><![CDATA[ 由   提交/u/scosio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chn7e7/using_vite_to_rebuild_local_dependencies_in_an/</guid>
-      <pubDate>Wed, 01 May 2024 14:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>这只是一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chn4ek/its_just_a_website/</link>
-      <description><![CDATA[这个标题有点让我恼火。当新软件、新应用程序、新服务或新设备发布时，它就会被经常使用。 最近，Twitter 很热闹，因为 Rabbit R1 设备的开发使用 Electron 编译的应用程序在某种程度上会立即变得很糟糕，因为它是用 Electron 构建的。这是唯一的批评吗？ 基于 Web 技术构建或基于 Android 构建如何会降低某些东西的实用性？ 这些东西不就是达到目的的手段吗？ ？或者是一种通过手机、电脑、平板电脑、汽车信息娱乐系统、单一用途设备或自助结账屏幕提供服务的方法？ 我只是在发泄，但这似乎是一个使用网络技术构建的应用程序或服务对人们来说是某种“陷阱”。如果它有效并且运行良好，为什么它很重要？   由   提交/u/LISCoxH1Gj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chn4ek/its_just_a_website/</guid>
-      <pubDate>Wed, 01 May 2024 14:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是否意味着我可以在这个单一主机上使用 5 个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chmp3t/does_this_mean_i_can_use_5_websites_on_this/</link>
-      <description><![CDATA[      我知道这是一个菜鸟问题，但任何人都可以确认。这是否意味着我可以通过单一托管使用 5 个网站？如果是，那么这样做的优点和缺点是什么？   由   提交/u/Rawat_vik17  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chmp3t/does_this_mean_i_can_use_5_websites_on_this/</guid>
-      <pubDate>Wed, 01 May 2024 13:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 礼仪和歧视</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chm634/api_etiquette_and_discrimination/</link>
-      <description><![CDATA[某些 API 对业务至关重要。如果它们停止运作，您的业务将受到严重损害。可能没有其他选择。 假设您通过独特的 API 创建了一个照片编辑套件。你围绕它建立了自己的业务多年，而且生意很好。真的很好。 突然，API 提供商决定将你踢出局。只有你，有歧视。其他用户不知道发生了什么。 然后 API 提供商开始开发自己的服务，与您的服务类似。使用你的概念。 我想知道这种情况有多常见。 你能分享类似的经历吗？是否有任何法律或既定礼仪规定这是您不应该做的事情？对此是否有任何防御措施，特别是对于无法通过谈判获得合同的小型企业？   由   提交 /u/FriendlyDolph   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chm634/api_etiquette_and_discrimination/</guid>
-      <pubDate>Wed, 01 May 2024 13:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何 Web 用户都可以访问我的所有 public_html 文件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chm2vb/are_all_my_public_html_files_accessible_to_any/</link>
-      <description><![CDATA[你好， 正在了解网络开发和管理。我已经拥有一些客户端站点，但我需要了解更多信息，尤其是安全性方面的知识。 我试图理解为什么我的 public_html 文件夹中的某些文件（例如 version.php）可以在使用 URL/目录的浏览器，而有些浏览器（例如 .htaccess）则不然，即使它们在 cpanel 文件资源管理器中的权限相同。 我希望了解 Web 服务器和文件等威胁更深入地包含漏洞。 谢谢。   由   提交/u/hjorje69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chm2vb/are_all_my_public_html_files_accessible_to_any/</guid>
-      <pubDate>Wed, 01 May 2024 13:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>很棒的文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chlmy2/great_docs/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chlmy2/great_docs/</guid>
-      <pubDate>Wed, 01 May 2024 13:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么驾驶教练需要一个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chl7kn/why_would_a_driving_instructor_need_a_website/</link>
-      <description><![CDATA[只是想知道网站能为他们带来什么   由   提交 /u/Existing-Target-6485   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chl7kn/why_would_a_driving_instructor_need_a_website/</guid>
-      <pubDate>Wed, 01 May 2024 12:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我开始学习编码时选择的最佳程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chl7fh/best_program_to_pick_as_i_begin_learning_coding/</link>
-      <description><![CDATA[我可以花 0 美元参加这些课程中的任何一个。 这将是最好的开始并帮助我的编码之旅您认为是全栈吗？这里有一些在证书中突出的课程，因为 IT 学位显然会胜过两者，但需要更长的时间才能获得。 VC - Web 开发基础知识、中级 Web 开发、用户界面设计 网站管理员 - 网络开发基础知识、网络分析、中级网络开发、高级网络分析。 虽然我已经拥有学士学位，但它不属于任何 IT 或业务相关领域，所以我不确定这是否有意义让我看看研究生水平的机会也是免费的。至少不是，但我不确定。 查看民意调查   由   提交/u/Alchemist0029   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chl7fh/best_program_to_pick_as_i_begin_learning_coding/</guid>
-      <pubDate>Wed, 01 May 2024 12:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月入门/网络开发职业主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chkduo/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[由于有关此主题的问题越来越多，因此决定每月提交一个专门讨论此主题的线程，以减少重复帖子的数量关于这个话题。主线程中将不再允许此类帖子。 其中许多问题也在子常见问题解答中得到解决，或者可能已在 以前的每月职业线程。 专门针对这些类型的订阅者问题包括一般性和开放式职业问题的r/cscareerquestions和r/learnprogramming 了解早期学习问题。 为行业做好准备而学习的主题的一般建议包括：  &lt; a href=&quot;https://www.udemy.com/course/javascript-beginners-complete-tutorial&quot;&gt;HTML/CSS/JS 训练营 版本控制 自动化 前端框架（React/Vue/Etc） API 和 CRUD 测试（单元和集成） 常见设计模式&lt; /li&gt;  您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 计划 6-12 个月在申请工作之前进行自我学习和为您的作品集制作项目。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chkduo/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Wed, 01 May 2024 12:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有 PHP 应用程序均易受攻击</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chkc5z/all_php_applications_are_vulnerable/</link>
-      <description><![CDATA[    /u/moonbunR   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chkc5z/all_php_applications_are_vulnerable/</guid>
-      <pubDate>Wed, 01 May 2024 11:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么被认为是当前最好学习的 CI/CD 工具？ Jenkins 还是 Github Actions？或其他？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chjuf7/what_is_considered_the_current_best_cicd_tool_to/</link>
-      <description><![CDATA[您认为您应该首先学习哪个？    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chjuf7/what_is_considered_the_current_best_cicd_tool_to/</guid>
-      <pubDate>Wed, 01 May 2024 11:30:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 VR 在线会议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chjjl2/online_conferences_in_vr_2024/</link>
-      <description><![CDATA[我最近参加了我的第一次现场技术活动。虽然我很享受它，但我还是忍不住觉得需要付出很多额外的努力和旅行时间来聆听几个演讲者的演讲并与开发人员交流。 我一直在寻找高低寻找在线聚会、会议等。我发现了一些我感兴趣的视频流类型活动，但我真的希望找到一些互动自然且有趣的 VR 活动。 我&#39;我在 Meta Worlds Horizo​​n 和 Immersed 上到处遇到了奇怪的开发者，在我看来，某个地方一定有人在组织 VR 研讨会和活动，但我就是找不到任何东西来拯救我的生命。 任何领先？   由   提交/u/evil-doraemon  /u/evil-doraemon  reddit.com/r/webdev/comments/1chjjl2/online_conferences_in_vr_2024/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chjjl2/online_conferences_in_vr_2024/</guid>
-      <pubDate>Wed, 01 May 2024 11:13:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
