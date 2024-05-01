@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 01 May 2024 18:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:11:28 GMT</lastBuildDate>
+    <item>
+      <title>首席开发人员被要求领导备份和灾难恢复，包括商业软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1chwhbe/lead_dev_asked_to_lead_backup_and_dr_including/</link>
+      <description><![CDATA[大家好！  一周前，我的任务是定义业务备份和灾难恢复流程。我们主要将 AWS 与一些本地商业服务和数据库一起使用。 在今天的一次推介中，有人询问了一个具有管理员访问权限的流氓开发人员进入并删除所有内容的问题 &gt;、AuroraDB、Dynamo、S3、破坏本地服务器，这些都有效。然后他们扩展了如果该开发人员也使用他们的权力删除备份怎么办？  虽然我认为我们应该信任我们的主要技术领导者并且应该实行职责分离，但我的业务领导者也是一个考虑到管理员的解决方案。 你们都在做什么那里有备份和灾难恢复？有哪些工具/套件（付费或开源）可以解决这个问题？ TIA   由   提交/u/TransportationNo7449   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chwhbe/lead_dev_asked_to_lead_backup_and_dr_including/</guid>
+      <pubDate>Wed, 01 May 2024 20:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个 RaspBerry 来替换我的 k8s 集群</title>
+      <link>https://www.reddit.com/r/programming/comments/1chw33q/one_raspberry_to_replace_my_k8s_cluster/</link>
+      <description><![CDATA[ 由   提交/u/Yomain_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chw33q/one_raspberry_to_replace_my_k8s_cluster/</guid>
+      <pubDate>Wed, 01 May 2024 20:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您将 Postgres 存储视为事务日志时您会得到什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1chutcu/what_you_get_when_you_think_of_postgres_storage/</link>
+      <description><![CDATA[ 由   提交/u/carlotasoto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chutcu/what_you_get_when_you_think_of_postgres_storage/</guid>
+      <pubDate>Wed, 01 May 2024 19:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Y42K”以及为什么您的 5 月测试可能会失败</title>
+      <link>https://www.reddit.com/r/programming/comments/1chuist/y42k_and_why_your_may_tests_may_fail/</link>
+      <description><![CDATA[ 由   提交 /u/WhiteRabbit-_-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chuist/y42k_and_why_your_may_tests_may_fail/</guid>
+      <pubDate>Wed, 01 May 2024 19:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 PC 和移动设备上使用 ngn/apl PWA 离线进行 APL 编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1chu40p/apl_programming_offline_with_the_ngnapl_pwa_on_pc/</link>
+      <description><![CDATA[ 由   提交/u/sohang-3112  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1chu40p/apl_programming_offline_with_the_ngnapl_pwa_on_pc/</guid>
+      <pubDate>Wed, 01 May 2024 18:57:03 GMT</pubDate>
+    </item>
     <item>
       <title>Python 和 Pygame 中使用四叉树进行碰撞检测。源代码在说明中。</title>
       <link>https://www.reddit.com/r/programming/comments/1chsh98/collision_detection_with_quadtree_in_python_and/</link>
@@ -57,14 +92,14 @@
     <item>
       <title>我对编程语言的看法（以非常普遍的方式）</title>
       <link>https://www.reddit.com/r/programming/comments/1chqypv/my_thoughts_on_programming_languages_in_a_really/</link>
-      <description><![CDATA[ 由   提交 /u/__Yi__   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/__Yi__  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chqypv/my_thoughts_on_programming_languages_in_a_really/</guid>
       <pubDate>Wed, 01 May 2024 16:50:29 GMT</pubDate>
     </item>
     <item>
       <title>我查看了 HTMX 上的 1,000 条意见</title>
       <link>https://www.reddit.com/r/programming/comments/1chqtia/i_reviewed_1000s_of_opinions_on_htmx/</link>
-      <description><![CDATA[ 由   提交/u/balphi  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/balphi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chqtia/i_reviewed_1000s_of_opinions_on_htmx/</guid>
       <pubDate>Wed, 01 May 2024 16:44:31 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/StartupSquash129  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1chqeny/15_javascript_mistakes_thatll_make_you_cringe_how/</guid>
       <pubDate>Wed, 01 May 2024 16:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 6 分钟内设置本地法学硕士并构建 AI 应用程序：教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1chpzmj/setting_up_a_local_llm_and_building_an_ai_app_in/</link>
-      <description><![CDATA[ 由   提交 /u/RushMuchPoker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chpzmj/setting_up_a_local_llm_and_building_an_ai_app_in/</guid>
-      <pubDate>Wed, 01 May 2024 16:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vertex AI 资源池的（隐藏？）成本：一个警示故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1chpy9c/the_hidden_costs_of_vertex_ai_resource_pools_a/</link>
-      <description><![CDATA[  由    /u/pgaleone  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chpy9c/the_hidden_costs_of_vertex_ai_resource_pools_a/</guid>
-      <pubDate>Wed, 01 May 2024 16:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过过滤向量嵌入来授权 LLM 响应</title>
-      <link>https://www.reddit.com/r/programming/comments/1chowat/authorizing_llm_responses_by_filtering_vector/</link>
-      <description><![CDATA[ 由   提交 /u/ssglaser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chowat/authorizing_llm_responses_by_filtering_vector/</guid>
-      <pubDate>Wed, 01 May 2024 15:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>JAVA第一个程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1chogwb/first_program_of_java/</link>
-      <description><![CDATA[ 由   提交/u/theinfohelp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1chogwb/first_program_of_java/</guid>
-      <pubDate>Wed, 01 May 2024 15:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>大科技文摘 #15 💥：在 Meta 上介绍 Meta Llama 3、在 Canva 上扩展至数十亿、在 Booking.com 上采用 Airflow 等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1cho9ye/big_tech_digest_15_introducing_meta_llama_3_at/</link>
-      <description><![CDATA[ 由   提交 /u/BigTechDigest   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cho9ye/big_tech_digest_15_introducing_meta_llama_3_at/</guid>
-      <pubDate>Wed, 01 May 2024 14:59:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

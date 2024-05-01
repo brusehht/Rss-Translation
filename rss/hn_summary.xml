@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 01 May 2024 18:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:08:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体]令人惊讶的是，一笔价值 1.8 亿美元的房地产交易因 [...]</title>
-      <link>https://t.me/hn_summary/87406</link>
-      <description><![CDATA[八英尺震撼了 1.8 亿美元的房地产交易&lt; br /&gt;
-令人惊讶的是，一笔价值 1.8 亿美元的房地产交易因八英尺的存在而受到震动。皮埃尔庞特的行为包括禁止啤酒厂、酿酒厂和屠宰场等各种企业，以保护买家的生活质量。这种在 19 世纪很常见的公式化语言还禁止铁工厂、糖面包店，甚至肥皂和蜡烛工厂。对“有害交易”和滋扰的限制揭示了开发商过去面临的独特挑战。]]></description>
-      <guid>https://t.me/hn_summary/87406</guid>
-      <pubDate>Wed, 01 May 2024 18:10:03 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/87426</link>
+      <description><![CDATA[FBI 数据显示美国犯罪率仍在下降
+FBI 的最新数据显示，2023 年美国犯罪率将大幅下降，这与人们普遍认为的犯罪率正在上升的观点相矛盾。谋杀下降 13%，暴力犯罪下降 6%，财产犯罪下降 4%。专家将这种下降归因于大流行后打击犯罪举措的恢复。拜登总统和司法部长加兰赞扬了打击犯罪方面的进展，但民意调查显示，大多数美国人仍然认为犯罪率正在上升。犯罪学家强调混乱与犯罪之间的区别，并指出虽然混乱可能更加明显，但犯罪率实际上正在回归长期趋势。由于警察人员配备危机，犯罪率的未来仍然不确定。]]></description>
+      <guid>https://t.me/hn_summary/87426</guid>
+      <pubDate>Wed, 01 May 2024 21:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>嘿！</title>
-      <link>https://t.me/hn_summary/87405</link>
-      <description><![CDATA[显示 HN：我创建了这个收集 OSINT 工具的网站
-嘿！我很高兴分享我的网站，www.osintguide.com，我在其中策划了一系列地图和地理定位 OSINT 工具。这些工具对于任何对开源情报收集感兴趣的人来说都是必不可少的。从跟踪 IP 地址到分析卫星图像，我的网站拥有您加强调查所需的一切。与我一起探索 OSINT 的世界，将您的研究提升到一个新的水平。立即查看 www.osintguide.com！]]></description>
-      <guid>https://t.me/hn_summary/87405</guid>
-      <pubDate>Wed, 01 May 2024 17:54:54 GMT</pubDate>
+      <title>[媒体]此维基百科页面列出了具有不寻常拍号的音乐作品，定义了 [...]</title>
+      <link>https://t.me/hn_summary/87425</link>
+      <description><![CDATA[不常见拍号的音乐作品列表
+此维基百科页面列出了具有不寻常拍号的音乐作品，这些拍号定义为除简单或复合拍号以外的任何拍号。所选择的拍号通常取决于作曲家的偏好或乐谱的视觉布局。一些著名的例子包括亚伦·科普兰、卡尔·奥尔夫和伊戈尔·斯特拉文斯基等作曲家的作品。令人惊讶的是，一些具有一致格律模式的作品会以更熟悉的拍号来标注。该列表包括各种流派和风格，展示了不同拍号的音乐表达的创造力和多样性。 （根据故事文本的 7% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87425</guid>
+      <pubDate>Wed, 01 May 2024 20:57:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]隆重推出 Ribbon，这是一款革命性的职位公告板，可简化职位申请 [...]</title>
-      <link>https://t.me/hn_summary/87404</link>
-      <description><![CDATA[显示 HN：功能区 – 带有一键求职信的求职板&lt; /a&gt;
-隆重推出 Ribbon，这是一款革命性的职位公告板，可通过一键式求职信简化职位申请流程。告别繁琐的应用程序，让 Ribbon 的人工智能工具帮助您找到梦想的工作。消除求职过程中的障碍，轻松在雇主面前脱颖而出。立即访问 app.ribbon.ai 体验未来找工作。]]></description>
-      <guid>https://t.me/hn_summary/87404</guid>
-      <pubDate>Wed, 01 May 2024 17:53:51 GMT</pubDate>
+      <title>[媒体] 在本文中，作者讨论了数据迁移的游标分页的替代方案 [...]</title>
+      <link>https://t.me/hn_summary/87424</link>
+      <description><![CDATA[光标分页的替代方案
+在本文中，作者讨论了 Elasticsearch 中数据迁移的游标分页的替代方案。作者解释了游标分页的局限性，并介绍了一种可以高效处理乱序插入的 Merkle Tree + BFS 分页算法。作者还提到了对没有早点考虑 DFS 方法的遗憾，这种方法本来可以提供更快的数据迁移，而不需要持久游标。尽管有这样的遗憾，使用光标分页和 Merkle Paginator 的两层解决方案已经在生产中取得了成功。文章最后邀请读者提出创造性的分页解决方案。]]></description>
+      <guid>https://t.me/hn_summary/87424</guid>
+      <pubDate>Wed, 01 May 2024 20:23:00 GMT</pubDate>
     </item>
     <item>
-      <title>Easy Webpage Summarizer 是一个 Python 脚本，它利用高级语言模型来快速 [...]</title>
-      <link>https://t.me/hn_summary/87403</link>
-      <description><![CDATA[显示 HN：简易网页摘要器 – 快速摘要网页和 YouTube 视频&lt; /a&gt;
-Easy Webpage Summarizer 是一个 Python 脚本，利用高级语言模型快速总结网页和 YouTube 视频。它利用 LangChain 框架和 ChatOllama 模型进行最先进的摘要，使其成为理解网络内容的宝贵工具。该项目的独特之处在于提供土耳其语翻译（即将推出更多语言）、易于使用的命令行界面以及与 LangChain 和 ChatOllama 的集成。用户可以从命令行或使用 Web UI 运行脚本，还可以通过提交拉取请求来为项目的开发做出贡献。该项目是根据 MIT 许可证发布的。]]></description>
-      <guid>https://t.me/hn_summary/87403</guid>
-      <pubDate>Wed, 01 May 2024 17:52:47 GMT</pubDate>
+      <title>[媒体] 微软多年的担保债务在两个主要民族国家的债务危机之后被曝光 [...]</title>
+      <link>https://t.me/hn_summary/87423</link>
+      <description><![CDATA[在 Microsoft，多年的安全债务崩溃了 
+微软多年来的安全债务在两次重大民族国家违规事件后逐渐曝光。该公司是云和 SaaS 市场的主要参与者，正面临声誉危机。这些违规行为导致敏感信息被盗并且缺乏问责制。批评者认为微软的安全漏洞可能会导致灾难性的后果。该公司正在做出改变以提高安全性，但政府对微软的依赖构成了国家安全威胁。尽管存在这些违规行为，但由于微软在云领域的主导地位，许多客户仍然选择使用微软。微软还将人工智能融入其安全产品中以增强保护。]]></description>
+      <guid>https://t.me/hn_summary/87423</guid>
+      <pubDate>Wed, 01 May 2024 20:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌最近从其“核心”团队中解雇了至少 200 名员工，其中一些职位 [...]</title>
-      <link>https://t.me/hn_summary/87402</link>
-      <description><![CDATA[Google 解雇了数百名“核心”员工&lt; br /&gt;
-谷歌最近从其“核心”团队中解雇了至少 200 名员工，其中一些职位被转移到印度和墨西哥。核心部门负责构建谷歌旗舰产品背后的技术基础并确保用户安全。此次裁员是谷歌母公司 Alphabet Inc. 为简化运营和削减成本而进行的更广泛重组努力的一部分。尽管进行了裁员，谷歌第一季度营收仍增长了 15%，并宣布首次派息和 700 亿美元的回购。该公司还致力于将更多人工智能融入其产品中，对聊天机器人进行了重大品牌重塑，并召开了即将召开的开发者大会。]]></description>
-      <guid>https://t.me/hn_summary/87402</guid>
-      <pubDate>Wed, 01 May 2024 17:42:41 GMT</pubDate>
+      <title>[媒体] 标题：AWS S3 拒绝钱包放大攻击</title>
+      <link>https://t.me/hn_summary/87422</link>
+      <description><![CDATA[AWS S3 拒绝钱包放大攻击
+标题：AWS S3 拒绝钱包放大攻击
+
+在这篇博文中，我们揭示了 AWS S3 用户遭受“拒绝钱包”放大攻击的潜在漏洞，其中数据传输成本可能会意外飙升。这种由小错误或恶意第三方操作引起的攻击可能会给在 AWS S3 上托管大型文件的企业带来重大财务损失。令人惊讶的是，实际下载的数据量与计费数据量之间的差异可能高达 50 倍。这个问题凸显了云计算中成本控制的重要性，以及需要采取意识和预防措施来防止这种情况的发生。攻击。]]></description>
+      <guid>https://t.me/hn_summary/87422</guid>
+      <pubDate>Wed, 01 May 2024 19:52:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在东南亚和南亚，强烈的热浪已导致30人死亡[...]</title>
-      <link>https://t.me/hn_summary/87401</link>
-      <description><![CDATA[泰国今年高温致 30 人死亡
-在东南亚和南亚，今年强烈的热浪已导致泰国 30 人中暑死亡。该地区正经历着创纪录的高温，曼谷发出极端高温警告，高温指数超过 52 摄氏度。情况十分严峻，菲律宾数千所学校停课，尼泊尔也发出了健康警告。气候变化加剧了热浪，亚洲是受气候和天气灾害影响最严重的地区。影响十分广泛，甚至印度部长 Nitin Gadkari 在竞选演讲中也因高温晕倒。]]></description>
-      <guid>https://t.me/hn_summary/87401</guid>
-      <pubDate>Wed, 01 May 2024 17:39:35 GMT</pubDate>
+      <title>[媒体] The Verge 主编 Nilay Patel 倡导主页的回归 [...]</title>
+      <link>https://t.me/hn_summary/87421</link>
+      <description><![CDATA[主页的复仇
+The Verge 的主编尼莱·帕特尔 (Nilay Patel) 支持主页重新成为内容消费的中心。尽管社交媒体作为一种分销渠道正在兴起，但 The Verge 在 2022 年的大胆重新设计证明是成功的，忠诚用户增加了 47%。这一转变标志着该行业更广泛的趋势，Semafor 和 Defector 等出版物也在其主页上进行投资，以应对社交媒体质量和可靠性下降的情况。随着数字格局的发展，主页的报复标志着算法驱动的提要回归到精心策划的、有意的内容消费。]]></description>
+      <guid>https://t.me/hn_summary/87421</guid>
+      <pubDate>Wed, 01 May 2024 19:49:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这次亲密采访中，著名的美国小说家保罗·奥斯特邀请观众 [...]</title>
-      <link>https://t.me/hn_summary/87400</link>
-      <description><![CDATA[保罗·奥斯特我如何成为一名作家
-在这次亲密采访中，著名的美国小说家保罗·奥斯特邀请观众来到他布鲁克林的家中，分享他如何成为一名作家的故事。奥斯特透露，童年时期未能获得棒球传奇人物威利·梅斯签名的失望引发了他的写作之旅。奥斯特以模糊现实主义与虚构之间的界限而闻名，他在作品中反思了艺术家的本质以及美的不可预测性。令人惊讶的是，他承认，一天的美好工作有时需要将书页揉皱并扔掉。奥斯特对写作和创造力的独特视角既富有洞察力又鼓舞人心。]]></description>
-      <guid>https://t.me/hn_summary/87400</guid>
-      <pubDate>Wed, 01 May 2024 17:38:31 GMT</pubDate>
+      <title>询问 HN：自由职业者？</title>
+      <link>https://t.me/hn_summary/87420</link>
+      <description><![CDATA[询问 HN：自由职业者？寻找自由职业者？ （2024年5月）
+您是正在寻找工作或寻求雇用自由职业者的自由职业者吗？访问 news.ycombinator.com 与潜在客户建立联系或自由职业者。只需发布您是在寻找工作还是在寻找自由职业者、您的位置以及是否可以选择远程工作。该平台专门针对希望直接雇用或作为自由职业者工作的个人，因此不允许任何代理机构、招聘人员或招聘委员会。省去中间商，在这个独特而简单的平台上找到完美的自由职业者。]]></description>
+      <guid>https://t.me/hn_summary/87420</guid>
+      <pubDate>Wed, 01 May 2024 19:19:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在日本，人口下降导致超过 900 万房屋空置，这是一种现象 [...]</title>
-      <link>https://t.me/hn_summary/87399</link>
-      <description><![CDATA[秋屋屋：为什么日本有 900 万套空置房屋 
-在日本，人口下降导致超过 900 万房屋空置，这种现象被称为“akiya”。空置房屋过剩是由于农村人口减少以及继承人无法或不愿意居住或翻新继承的财产造成的。虽然一些人认为这些空置房屋是由于对空置土地征收高额税收而造成的负担，但其他人，包括外国人，正在寻找购买和翻新传统古民家房屋的机会，以获得廉价而独特的住宿选择。然而，恢复这些财产所需的成本和承诺是巨大的，传统的木工技能变得稀缺。尽管面临挑战，外国游客对体验传统日本住宿的兴趣仍然很高。]]></description>
-      <guid>https://t.me/hn_summary/87399</guid>
-      <pubDate>Wed, 01 May 2024 17:27:22 GMT</pubDate>
+      <title>[媒体] 著名作家《纽约三部曲》作者保罗·奥斯特去世，享年 [...]</title>
+      <link>https://t.me/hn_summary/87419</link>
+      <description><![CDATA[美国《纽约三部曲》作者保罗·奥斯特去世，享年 77 岁
+纽约三部曲的著名作者保罗·奥斯特因肺癌并发症去世，享年 77 岁。奥斯特以其充满不可靠的叙述者和变化的情节的后现代主义小说而闻名，他的作品经常探讨巧合、偶然和命运的主题。他的写作生涯在年轻时就开始了，当时他错过了他的棒球偶像威利·梅斯的亲笔签名。奥斯特的一生充满了个人悲剧，包括儿子因吸毒过量死亡以及他自己与癌症的斗争。尽管奥斯特在欧洲更受欢迎，但他留下了迷人且发人深省的文学遗产。]]></description>
+      <guid>https://t.me/hn_summary/87419</guid>
+      <pubDate>Wed, 01 May 2024 19:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]HTMX 是一个 JavaScript 库，因其构建超媒体方法而受到关注 [...]</title>
-      <link>https://t.me/hn_summary/87398</link>
-      <description><![CDATA[我查看了 1,000 条关于 Htmx 的意见
-HTMX 是一个 JavaScript 库，因其构建用户界面的超媒体方法而受到关注。围绕其简单性存在争议，一些人称其为炒作，是对现代实践的倒退。然而，其他人称赞它对于非 JavaScript 开发人员的易用性和生产力优势。对于 HTMX 是否适合复杂的用例或只是开发人员工具箱中的工具，人们的看法各不相同。最终，采用 HTMX 的决定取决于个人需求和偏好。该库引发了争论并挑战开发人员考虑新想法，其中一些已经在生产中使用它。]]></description>
-      <guid>https://t.me/hn_summary/87398</guid>
-      <pubDate>Wed, 01 May 2024 17:09:14 GMT</pubDate>
+      <title>阿什利·麦迪逊 (Ashley Madison) 以促成婚外情而闻名，现在正面临着大量性勒索者的目标 [...]</title>
+      <link>https://t.me/hn_summary/87418</link>
+      <description><![CDATA[作弊网站 Ashley Madison 充斥着性勒索者
+阿什利·麦迪逊（Ashley Madison）以促成婚外情而闻名，现在正面临大量针对用户的性勒索者。过去 5 年，FTC 收到 282 起投诉，其中大多数涉及勒索金钱，以换取不曝光用户的露骨照片或视频。骗子通常最初索要 1,000 至 2,000 美元，如果付款，索要的金额就会不断增加。一些受害者报告称，他们支付了数千美元，但看不到尽头。尽管 2015 年发生了重大数据泄露事件，阿什利·麦迪逊 (Ashley Madison) 仍然是目标。勒索者的目标是那些试图隐瞒婚外情的人，有些人甚至声称自己是未成年人。该网站尚未回应有关防止勒索的保障措施的问题。 （根据 32% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87418</guid>
+      <pubDate>Wed, 01 May 2024 19:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hatchet (YC W24) 正在寻找一位创始工程师加入他们位于纽约布鲁克林的团队。</title>
-      <link>https://t.me/hn_summary/87397</link>
-      <description><![CDATA[Hatchet (YC W24) 正在招聘创始工程师
-Hatchet (YC W24) 正在寻找创始工程师加入其位于纽约布鲁克林的团队。理想的候选人应具有 Go、分布式系统、Kubernetes、Docker、gRPC 和 PostgreSQL 方面的经验。对 Typescript、Python、Github Actions 和 GCP 或 AWS 的额外了解是加分项。该职位涉及设计、实施和维护 Hatchet 任务队列的核心组件，与团队合作改进工作者 SDK，以及定义平台的技术路线图。创始工程师还将指导其他工程师，提供客户支持，并为建立卓越文化做出贡献。福利包括有竞争力的薪酬、股权、全额福利和在家工作的灵活性。]]></description>
-      <guid>https://t.me/hn_summary/87397</guid>
-      <pubDate>Wed, 01 May 2024 17:02:06 GMT</pubDate>
+      <title>[媒体] 东德国家安全部斯塔西 (Stasi) 以其广泛的生存而闻名 [...]</title>
+      <link>https://t.me/hn_summary/87417</link>
+      <description><![CDATA[西方国家斯塔西
+东德国家安全部斯塔西以其广泛的监视网络和利用线人而闻名。西方政府正在以打击“仇恨”为幌子采取类似的制度，这可以用来压制批评者。在美国，华盛顿考虑为举报偏见事件提供报酬，而俄勒冈州、纽约州、马里兰州和加利福尼亚州则实施了偏见反应系统。加拿大的网络伤害法案包括对仇恨言论进行软禁和罚款的条款。苏格兰新的仇恨法将无需证明意图的言论定为犯罪。这些法律可能会对言论自由产生寒蝉效应，并导致广泛的审查。 （根据故事文本的 72% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87417</guid>
+      <pubDate>Wed, 01 May 2024 19:13:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 18:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:11:53 GMT</lastBuildDate>
     <item>
       <title>iOS 版克劳德</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
@@ -37,15 +37,29 @@
       <title>JS日志</title>
       <link>https://www.producthunt.com/posts/jslog</link>
       <description><![CDATA[
-            JavaScript 和 TypeScript 游乐场
+JavaScript 和 TypeScript 游乐场
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/jslog</guid>
+      <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>排序</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
+      <description><![CDATA[
+            即时 AI SEO 关键词研究生成器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/jslog</guid>
-      <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 01:04:06 GMT</pubDate>
     </item>
     <item>
       <title>Windows 版圆弧</title>
@@ -65,12 +79,12 @@
       <title>小枝反馈</title>
       <link>https://www.producthunt.com/posts/sprig-feedback</link>
       <description><![CDATA[
-在您的产品或网站中获取持续反馈
+            在您的产品或网站中捕获持续反馈
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/sprig-feedback</guid>
       <pubDate>Tue, 30 Apr 2024 17:29:15 GMT</pubDate>
@@ -79,12 +93,12 @@
       <title>数据交换中心</title>
       <link>https://www.producthunt.com/posts/datashake-hub</link>
       <description><![CDATA[
-            无代码数据聚合和导出
-          
+无代码数据聚合和导出
 
-讨论&lt; /a&gt;
-            |
-            链接
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/datashake-hub</guid>
       <pubDate>Tue, 30 Apr 2024 15:44:22 GMT</pubDate>
@@ -132,20 +146,6 @@
       <pubDate>Tue, 30 Apr 2024 08:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>燕尾频道</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[
-            将用户反馈转化为实时见解
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Tue, 30 Apr 2024 05:11:25 GMT</pubDate>
-    </item>
-    <item>
       <title>马厩钱</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
       <description><![CDATA[
@@ -177,12 +177,12 @@
       <title>网格精简版</title>
       <link>https://www.producthunt.com/posts/gridlite</link>
       <description><![CDATA[
-            自动分摊水电费的最简单方法
-          
+自动分摊水电费的最简单方法
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/gridlite</guid>
       <pubDate>Mon, 22 Apr 2024 20:01:49 GMT</pubDate>
@@ -205,12 +205,12 @@
       <title>千</title>
       <link>https://www.producthunt.com/posts/mano</link>
       <description><![CDATA[
-            用您最喜欢的地点和时刻打造您的世界
-          
+用您最喜欢的地方和时刻打造您的世界
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/mano</guid>
       <pubDate>Fri, 05 Apr 2024 16:54:36 GMT</pubDate>

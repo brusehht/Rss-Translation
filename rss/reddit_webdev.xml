@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 May 2024 18:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:11:48 GMT</lastBuildDate>
+    <item>
+      <title>Let's Encrypt 足够好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chxc0f/is_lets_encrypt_good_enough/</link>
+      <description><![CDATA[所以我有一个带有 Plesk 的 VPS。我一直从 Godaddy 购买 SSL 证书，但 Plesk 似乎已经有一个可以自动安装证书的 Let&#39;s Encrypt 扩展。  我有什么理由应该继续支付简单网站 SSL 证书的费用或简单地切换到 Lets Entrypt 吗？不确定这些免费 SSL 证书是否存在问题？   由   提交/u/SaintPeter23  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chxc0f/is_lets_encrypt_good_enough/</guid>
+      <pubDate>Wed, 01 May 2024 21:09:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>会议室预订系统的最佳解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chxb8p/best_solution_for_a_conference_room_reservation/</link>
+      <description><![CDATA[我非常感谢有关我需要构建的功能的一些建议。我有一位客户即将召开年度会议。会议期间将设有会议室，会员可以提前预订进行演示。要求相对简单： 一个简单且易于理解的日历，成员可以单击以在八个会议室之一中以三十分钟为单位安排时间。  会员选择时间段后填写的表格，该表格将从客户那里收集有关哪个会员公司预订房间的信息。我必须能够自定义它并添加字段。提交表格即确认预订。  要求任何会员都不能预订超过两小时的时段或每天超过两小时的总时间。  给客户和会员的电子邮件通知。  无需付款或登录。客户应该能够为不想自己预订房间的会员预订房间，事实上，他们会雇用人员来预订房间。  这需要能够在客户的 Drupal 网站上运行，因此可以嵌入的东西可能是最好的。他们将为服务付费。去年，我在似乎是最好的 Drupal 解决方案 Bookable Entities Everywhere 中构建了这个，但我觉得它很笨重，并且没有提供最佳的用户体验。我还必须对其进行大量定制，以使表单尽可能接近他们想要的方式。我在这里问是因为我想获得一些有关非 Drupal 解决方案的更广泛的反馈。 ​   由   提交/u/PMMEBITCOINPLZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chxb8p/best_solution_for_a_conference_room_reservation/</guid>
+      <pubDate>Wed, 01 May 2024 21:08:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件演化法则</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chx5gv/laws_of_software_evolution/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chx5gv/laws_of_software_evolution/</guid>
+      <pubDate>Wed, 01 May 2024 21:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>与后端人员的讨论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chwzby/a_discussion_with_a_backend_guy/</link>
+      <description><![CDATA[我遇到了这个人，我们开始谈论编程，然后他问我在 Web 开发中使用什么语言？我告诉他我现在主要用JS 他告诉我JavaScript不是一种编程语言，他说它是（非常高的水平，就像你在写一个算法）.. 他问我做后端工作吗？我说是的，然后他问，后端有多远？后端应用程序？服务器？虚拟化和硬件？我说不，远不止于此，我用手工制作的光刻机用硅制造晶体管，这些硅是我在非洲丛林中与蛇搏斗时自己开采的。    ;由   提交 /u/Comfortable_Bank6611   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chwzby/a_discussion_with_a_backend_guy/</guid>
+      <pubDate>Wed, 01 May 2024 20:54:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的字体许可问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chw0xv/odd_font_licensing_question/</link>
+      <description><![CDATA[假设我为多个客户端提供托管登录。所以login.a.com被b.com、c.com、d.com使用。这些网站彼此之间没有任何隶属关系。  各个站点是否需要许可证，还是我作为 SSO 提供商需要持有许可证？   由   提交/u/kooks-only  /u/kooks-only reddit.com/r/webdev/comments/1chw0xv/odd_font_licensing_question/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chw0xv/odd_font_licensing_question/</guid>
+      <pubDate>Wed, 01 May 2024 20:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘 Web 开发中的着色器组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chw0hq/demystifying_shader_components_in_web_development/</link>
+      <description><![CDATA[   /u/thecreazy  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chw0hq/demystifying_shader_components_in_web_development/</guid>
+      <pubDate>Wed, 01 May 2024 20:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>从我的页面 URL 中删除 .html 扩展名时出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chvh7d/problems_with_removing_the_html_extension_from_my/</link>
+      <description><![CDATA[我在从页面 URL 中删除 .html 扩展名时遇到问题，需要一些指导。虽然我在网上找到了常见的解决方案，但找到适合我的特定设置的解决方案仍然具有挑战性。  我当前的设置涉及使用 Github Pages 托管静态网站，但我希望 URL 在本地和服务器上都可以在没有 .html 扩展名的情况下运行。我探索了几种方法：  为每个页面创建一个文件夹，并将 HTML 文件命名为 index.html，然后将所有锚点链接到该文件夹​​名称。到目前为止，这是唯一在本地和 Github Pages 上都对我有效的方法。但是，随着网站的增长，它会变得混乱，而且我不喜欢有多个同名文件。 配置 .htaccess 文件。 配置 .htaccess 文件。看起来很有前途，并且是网络上最常见的解决方案。但它需要设置一个服务器，这会添加不适合我在 Github Pages 上的项目的动态功能。不过，我只能将它用于我的本地项目。但我一直无法做到。 删除所有锚点中的 .html 扩展名。可以在 Github Pages 上运行，但不能在本地运行，需要我在本地环境中运行时手动将 .html 添加到 URL，这很麻烦。 修改 Jekyll 的_config.yml 文件。 Jekyll 是 Github Pages 的默认静态站点生成器。我已尝试将permalink 设置为pretty，但它不起作用...不确定我是否需要做更多事情。  ol&gt; 目前，我正在使用第三种方法，并探索创建 NodeJS 服务器以启用 .html 扩展名删除的想法。删除锚点中的扩展在 Github Pages 中工作得很好，但我真的想在我的本地环境中也启用它。然而，这也带来了挑战。如果我使用 http-server，我没有实时重新加载，如果我创建自己的简单节点服务器来使用 Nodemon，我需要在网站运行时再次添加 .html 扩展名，否则它会抛出 GET 错误。感觉就像我通过一种解决方案获得了一些东西，却因另一种解决方案而失去了它。当从链接中删除 .html 扩展名时，VSCode 的 Live Server 扩展也无法正常工作。  你们通常都是怎么做的？任何建议或见解将不胜感激。   由   提交/u/Sky_345  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chvh7d/problems_with_removing_the_html_extension_from_my/</guid>
+      <pubDate>Wed, 01 May 2024 19:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>在特定编程任务上比较 Opus 和 GPT4</title>
+      <link>https://www.reddit.com/r/webdev/comments/1chu0ly/comparing_opus_and_gpt4_on_a_specific_programming/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1chu0ly/comparing_opus_and_gpt4_on_a_specific_programming/</guid>
+      <pubDate>Wed, 01 May 2024 18:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端？从来没有听说过。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cht4eo/backend_never_heard_of_it/</link>
+      <description><![CDATA[       由   提交 /u/dooblr   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cht4eo/backend_never_heard_of_it/</guid>
+      <pubDate>Wed, 01 May 2024 18:17:29 GMT</pubDate>
+    </item>
     <item>
       <title>适用于以前的静态网站的 CMS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1chsvpx/cms_for_a_previously_static_site/</link>
@@ -13,9 +76,9 @@
       <pubDate>Wed, 01 May 2024 18:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>您多久维护或改进一次现有的个人项目？</title>
+      <title>您多久维护或改进现有的个人项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1chsufl/how_often_do_you_do_maintenance_on_or_improve/</link>
-      <description><![CDATA[大家好。我想知道您在“维护”现有投资组合项目上花了多少时间？您会回头进行改进吗？如果会，您的流程是怎样的？频率如何？或者您通常都在从事新工作？ 我想确定重新审视旧项目并改进现有项目是否有价值，或者是否有更多展示不同技能组合的最新“MVP”更好。    提交人    /u/babybush   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我想知道您在“维护”上花费了多少时间？您现有的投资组合项目？您会返回并添加改进吗？如果是这样，您的流程是什么以及多久一次？或者你通常在做一些新的事情吗？  我正在尝试确定重新审视旧项目并使现有项目变得更好是否有价值，或者是否最好让更新的“MVP”展示不同的技能组合。    由   提交/u/babybush  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1chsufl/how_often_do_you_do_maintenance_on_or_improve/</guid>
       <pubDate>Wed, 01 May 2024 18:06:48 GMT</pubDate>
     </item>
@@ -29,16 +92,9 @@
     <item>
       <title>Llamafile 的进展，四个月</title>
       <link>https://www.reddit.com/r/webdev/comments/1chrmir/llamafiles_progress_four_months_in/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1chrmir/llamafiles_progress_four_months_in/</guid>
       <pubDate>Wed, 01 May 2024 17:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要谁从头开始创建混合平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chrm3v/who_do_i_need_to_create_from_the_ground_up_a/</link>
-      <description><![CDATA[我需要谁从头开始创建一个网站：混合平台：一个世界地图 - 直接从用户那里显示和收集数据，例如维基百科， - 但像社交网络：集体验证的数据/ - 数据的演变速度与股市图表一样快？对于这样复杂的愿景，我应该去敲谁的门呢？我对网络开发一无所知。谢谢。    由   提交/u/josephineisonline  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chrm3v/who_do_i_need_to_create_from_the_ground_up_a/</guid>
-      <pubDate>Wed, 01 May 2024 17:16:47 GMT</pubDate>
     </item>
     <item>
       <title>创建客户端应用程序</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[我一直在研究在 iOS 上运行的 PWA 上发送通知，我了解到通知 API 不起作用，但从 iOS 16.4 开始推送通知得到了很好的支持，但我仍然对如何实施它们感到困惑。我目前没有构建应用程序，我只需要测试它是否有效，我该如何去做，我有一个测试 PWA 正在运行，并且通常使用 android 上的通知 API 发送通知。它甚至不要求 iOS 上的权限。    由   提交 /u/Radiossasin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1chrf7f/how_to_implement_notifications_on_pwa_to_work_on/</guid>
       <pubDate>Wed, 01 May 2024 17:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您从网站/网络应用程序创意到完成最小可行产品所需的最快时间是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chqitu/whats_the_fastest_time_it_took_you_from/</link>
-      <description><![CDATA[基本上，您从以下位置花了多长时间： 步骤 1：网站/网络应用产品创意 ... 步骤？？：产品是否能完成其应做的最少工作？ 由于很多人似乎都是单独或双人开发者，我发现这个问题很相关也很有趣。 有什么想法吗？    提交人    /u/SeriouslySally36   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chqitu/whats_the_fastest_time_it_took_you_from/</guid>
-      <pubDate>Wed, 01 May 2024 16:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 JavaScript 免费将 docx 文件转换为 pdf 文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chqfdu/how_to_convert_a_docx_file_to_a_pdf_file_using/</link>
-      <description><![CDATA[我找不到任何未付费或过时的解决方案，如果有人可以提供帮助，我将非常感激。    由   提交 /u/qualinto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chqfdu/how_to_convert_a_docx_file_to_a_pdf_file_using/</guid>
-      <pubDate>Wed, 01 May 2024 16:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>招聘人员是否比抛硬币更能判断简​​历？这是数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chpsvb/are_recruiters_better_than_a_coin_flip_at_judging/</link>
-      <description><![CDATA[   /u/magenta_placenta   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chpsvb/are_recruiters_better_than_a_coin_flip_at_judging/</guid>
-      <pubDate>Wed, 01 May 2024 16:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 安全问题（GitHub 页面）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chpj9c/web_security_question_github_pages/</link>
-      <description><![CDATA[嗨，我想知道一些经验丰富的开发人员是否可以帮助阐明我目前的情况。  所以我只是为了好玩而制作了一个 github 页面，但现在我的高中希望我把它放在他们的主页上，托管在 wordpress 中。我的印象是，如果我只在主页上设置一个指向我的 github 页面的链接，这将是最安全的选择，对吗？如果发生攻击，攻击会被遏制吗？ 我非常谨慎，因为我很新，没有确保代码安全的经验，而且我的页面充满了外部脚本，例如耦合的mapbox有 20 个 iframe，其中一半只是由 mapbox 制作的带有 html 的地图。   由   提交 /u/childishlamino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chpj9c/web_security_question_github_pages/</guid>
-      <pubDate>Wed, 01 May 2024 15:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助理解 Prisma 模拟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1choxet/help_understanding_prisma_mocking/</link>
-      <description><![CDATA[我将在使用 Prisma 的后端中实现一些中等复杂的搜索/过滤逻辑。我想编写一些单元测试，以确保这种复杂的逻辑在未来继续发挥作用。  到目前为止，我得到的印象是我应该通过嘲笑 Prisma 客户端来做到这一点。我按照这篇文章来了解基础知识，但他们这样做的方式并没有&#39;对我来说没有意义。 对于我的用例中的每个测试，我基本上想检查以下内容：如果数据库包含 {{这些虚拟项}}，并且我传递 {{这些查询参数} }，然后我总是返回{{这些正确过滤的结果}}。 不过，在文章中，他们似乎使用 mockResolvedValue 来预先确定 函数的输出。看起来他们基本上是在说，“嘿，总是返回这个正确的值，这样我的测试无论如何都会通过！” 例如，以下 createUser 通过了以下测试，即使实现是错误的。 script.ts: import { Prisma } from &quot;@prisma/client&quot;;从“./libs/prisma”导入 prisma；导出 const createUser = async (用户: Prisma.UserCreateInput) =&gt; { const errorUser = { ...用户，名称：“a” };返回等待 prisma.user.create({ data:rongUser, }); };  sample.test.ts： 从“vitest”导入{expect, test, vi }；从“../script”导入{createUser}；从“../libs/__mocks__/prisma”导入 prisma； vi.mock(“../libs/prisma”); test(&quot;createUser 应返回生成的用户&quot;, async () =&gt; { const newUser = { email: &quot;user@prisma.io&quot;, name: &quot;Prisma Fan&quot;, Age: 20 }; prisma.user .create.mockResolvedValue({ ...newUser, id: 1 }); const user = wait createUser(newUser); Expect(user).toStrictEqual({ ...newUser, id: 1 });  我确实发现我可以使用.toHaveBeenCalledWith来检查prisma.user.create是否传递了正确的数据。但这不是重点。创建记录甚至不是我想要测试的内容，而且我找不到任何更接近我的用例的示例。 关于使用 Prisma 进行测试，我是否遗漏了什么？当我使用 Prisma 时，测试搜索/过滤功能的正确方法是什么？   由   提交/u/megalogue  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1choxet/help_understanding_prisma_mocking/</guid>
-      <pubDate>Wed, 01 May 2024 15:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>a11y 的源代码不错吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chowwa/good_source_code_with_a11y/</link>
-      <description><![CDATA[我仍在努力使我的 HTML 在我的项目中更易于访问，但对我来说，在幕后编写代码比在代码中编写代码要困难得多普通用户会看到的可见内容。我只知道基本的东西，比如语义标签和 alt/aria-labels。有谁有一些应用了很棒的 a11y 原则的源代码的链接吗？提前致谢！   由   提交 /u/vempr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chowwa/good_source_code_with_a11y/</guid>
-      <pubDate>Wed, 01 May 2024 15:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何处理这个项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1chodoo/how_should_i_approach_this_project/</link>
-      <description><![CDATA[您好，我正在为简单的 B2B 销售设计一个 Svelte Web 应用程序 (PWA)，因为我想学习数据库的使用和最佳实践。服务器上的 ERP 按计划的时间导出包含我需要的所有数据（产品、客户、地址等）的 .dat 文件。然后可以将该文件发送到应用程序服务器或 gdrive 文件夹中，以便从应用程序访问。 我的疑问是何时将数据导入数据库，因为我不确定哪种方法更好。我正在考虑使用 mySQL 或 Pocketbase 和 Dixi.js，因为我希望该应用程序能够在某种程度上离线工作。 我可以只使用 .dat 文件作为“数据库”吗？ （总共约 500kb）无需导入它们并在需要时读取它们，还是在应用程序运行时完全在数据库中解析它们更好？ 由于 .dat 文件是按计划时间更新的，因此最好将它们导入到数据库中（使用 API 来监听文件夹更改），然后在需要时查询它们？   由   提交/u/Artemis_21  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1chodoo/how_should_i_approach_this_project/</guid>
-      <pubDate>Wed, 01 May 2024 15:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>足球池网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cho781/website_for_a_soccer_pool/</link>
-      <description><![CDATA[每两年我父亲就会组织一次欧洲杯和世界杯足球赛。他通常会给每个人发一份带有格式的excel表，你只需填写所有的分数和得分最高的人等即可。参加的老年人有时会遇到excel问题，无法使用，所以我父亲让我制作一个简单的网站。我对如何执行此操作有一些常识，但我仍然希望 Reddit 提供帮助。为足球池建立这个网站的好方法是什么？ 我认为最好的方法是获得一个为期 3 个月的网站（直到比赛结束），寻找任何格式互联网上的体育台球并导入到网站中。然后我只需要把所有国家的名字改成谁对战，我就可以让每个人填写他们的预测。我在哪里可以找到这样的格式，或者什么是构建这个网站的更好方法。  它不必是完美的，只是为了让所有那些在 Excel 中挣扎并邮寄 Excel 文件的人变得更加简单。  非常感谢！ （抱歉英语不太好）   由   提交 /u/Morriii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cho781/website_for_a_soccer_pool/</guid>
-      <pubDate>Wed, 01 May 2024 14:56:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
