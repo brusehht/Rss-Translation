@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:55:23 GMT</lastBuildDate>
     <item>
       <title>BlueSeer 软件 6.8 版发布，具有新的车间作业扫描功能。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
+      <title>OpenSeneca - 协调世界各地所有 LLM 的开源库（并节省资金）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
       <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca，我们正在寻找合作者来继续这一使命。我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM并通过一个简单的界面访问它们。它始于一个非常简单的前提。让我们想象一下，我们正在开发基于人工智能的软件，例如聊天机器人。如果用户输入“hello”，即使使用更小、更小的 llama3-8B 也能得到良好的响应，为什么还要使用 gpt-4？当然是更便宜的模型？现在让我们尝试用数学、哲学、心理学等的即时意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以节省相当多的费用API 调用中的资金。 这是 github 存储库：https://github.com/OpenSenecaAI/openseneca&lt; br /&gt; 我们愿意接受反馈、未来的想法和问题:)   由   提交 /u/ottaviofogliata   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>直接从我的计算机捕获系统音频的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</link>
-      <description><![CDATA[嗨 我正在寻找一个可以捕获和录制直接来自我的计算机的任何音频的应用程序，完全绕过麦克风以避免外部噪音干扰。我需要一个可以录制来自我电脑上的任何应用程序或源的数字音频输出的东西。 有没有人使用过可以做到这一点的可靠应用程序？如果应用程序可以有选择地从特定应用程序录制，而不仅仅是整个系统的音频输出，那就太理想了。我正在寻找提供清晰、高质量录音的软件，最好具有用户友好的界面。 其他功能，如输出格式选项（例如 MP3、WAV）和热键支持，以便于录音，将是一个加分项。任何建议或个人经验都将不胜感激！ 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 我正在寻找一个应用程序，它可以绕过直接从我的计算机捕获和录制任何音频的应用程序麦克风完全避免了外界噪音的干扰。我需要能够录制 PC 上任何应用程序或来源的数字音频输出的东西。 有人拥有可以执行此操作的可靠应用程序的经验吗？如果应用程序能够有选择地记录特定应用程序而不仅仅是整个系统的音频输出，那就太理想了。我正在寻找能够提供清晰、高质量录音且最好具有用户友好界面的软件。 诸如输出格式选项（例如 MP3、WAV）和方便录音的热键支持等附加功能是一个奖金。任何建议或个人经验将不胜感激！ 提前感谢您的帮助！   由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgv520/application_to_capture_system_audio_directly_from/</guid>
       <pubDate>Tue, 30 Apr 2024 15:06:52 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>寻找免费的应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一款可以免费转录音频文件的可靠应用程序。我尝试了几种方案，但它们要么对可以免费处理的音频长度有限制，要么准确性不尽如人意。我希望找到一款可以轻松处理较长音频文件的应用程序。 有人能推荐一些免费的转录软件或服务吗？这些软件或服务特别擅长处理各种口音和清晰的录音？如果它易于使用且不需要太多技术知识，那就更好了！ 提前感谢您的帮助！    提交人    /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
       <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
     </item>

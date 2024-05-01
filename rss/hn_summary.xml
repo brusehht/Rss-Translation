@@ -3,87 +3,91 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:12:46 GMT</lastBuildDate>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Wed, 01 May 2024 00:41:21 GMT</lastBuildDate>
     <item>
-      <title>[媒体]联邦贸易委员会正在通过挑战“jun [...]</title>
-      <link>https://t.me/hn_summary/87268</link>
-      <description><![CDATA[FTC 对包括诺和诺德在内的 10 家制药商持有的“垃圾”专利提出质疑臭氧
-联邦贸易委员会正在通过挑战“垃圾”专利来对付制药公司，其中包括诺和诺德公司为 Ozempic 等药物持有的专利。这些专利阻碍了竞争并推高了药品价格，特别是治疗 2 型糖尿病和哮喘等药物的价格。联邦贸易委员会的行动是拜登政府为让美国人更负担得起医疗保健而做出的更广泛努力的一部分。对涉嫌专利滥用的打击是拜登总统 2024 年连任竞选的重点。联邦贸易委员会对这些专利的挑战旨在确保所有美国人及时获得创新且负担得起的药物。]]></description>
-      <guid>https://t.me/hn_summary/87268</guid>
-      <pubDate>Tue, 30 Apr 2024 21:12:46 GMT</pubDate>
+      <title>StoryDiffusion 是一种利用 consis 生成远程图像和视频的新方法 [...]</title>
+      <link>https://t.me/hn_summary/87297</link>
+      <description><![CDATA[StoryDiffusion：长距离图像和视频生成的一致自注意力
+StoryDiffusion 是一种利用一致的自注意力生成远程图像和视频的新方法。该方法由南开大学和字节跳动公司的研究团队开发，旨在提高生成内容的质量和连贯性。 StoryDiffusion 的与众不同之处在于它创新地使用自我关注机制来保持视频或图像中不同帧的一致性。这项技术有可能彻底改变图像和视频生成领域，为创建逼真且连贯的视觉内容的挑战提供有前途的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/87297</guid>
+      <pubDate>Wed, 01 May 2024 00:41:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]恶意 Python 代码获得执行是软件开发人员环境中的严重威胁 [...]</title>
-      <link>https://t.me/hn_summary/87267</link>
-      <description><![CDATA[恶意Python代码获得执行
-获得执行的恶意 Python 代码是软件开发人员环境中的严重威胁，攻击者瞄准开源软件依赖项以实现任意代码执行。威胁行为者使用各种方法来利用漏洞，包括运行加密货币挖矿程序、窃取机密或加密数据以获取赎金。 Phylum 提供了一个检测、报告和阻止恶意包的解决方案，提供了 GitHub、GitLab、Azure Pipelines 和 Bitbucket Pipelines 的集成。通过使用锁定文件、监视依赖关系并防止任意代码执行，开发人员可以保护其环境免受这些攻击。 Phylum 的社区版可用于自动化软件供应链安全并确保使用可信的开源代码。]]></description>
-      <guid>https://t.me/hn_summary/87267</guid>
-      <pubDate>Tue, 30 Apr 2024 21:06:39 GMT</pubDate>
+      <title>[媒体]欧洲警察局长发表联合声明，谴责 [...]</title>
+      <link>https://t.me/hn_summary/87296</link>
+      <description><![CDATA[欧洲警察局长谴责端到端加密 [pdf]( https://news.ycombinator.com/item?id=40212736)
+欧洲警察局长发布了一份联合声明，谴责端到端加密的推出，称这将削弱他们保护公众、尤其是儿童安全的能力。他们强调科技公司能够向执法部门提供数据并主动识别其平台上的非法活动的重要性。酋长们认为，网络安全和公共安全之间不应该有二元选择，并呼吁行业和政府灵活地寻找技术解决方案。他们敦促技术行业建立安全措施，并敦促政府提供框架来支持打击网络犯罪的执法工作。]]></description>
+      <guid>https://t.me/hn_summary/87296</guid>
+      <pubDate>Wed, 01 May 2024 00:36:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Svelte 5 现在处于候选发布阶段，这表明该框架的设计 [...]</title>
-      <link>https://t.me/hn_summary/87266</link>
-      <description><![CDATA[Svelte 5 候选版本 (RC)
-Svelte 5 现在处于候选发布阶段，这表明该框架的设计已基本确定，没有重大错误。虽然尚未准备好投入生产，但现在是尝试的好时机。新功能包括用于反应性的符文、改进的事件处理、组件片段和本机 TypeScript 支持。 Svelte 4 中的组件将与 Svelte 5 一起使用，只有少数例外。最终，对 Svelte 4 功能的支持将被逐步取消。稳定版本的发布日期尚不确定，但将根据需要进行更新。请继续关注 Svelte 团队的更多更新和改进。]]></description>
-      <guid>https://t.me/hn_summary/87266</guid>
-      <pubDate>Tue, 30 Apr 2024 21:05:35 GMT</pubDate>
+      <title>[媒体] 标题：Show HN：我为企业家制作了一款问责应用程序</title>
+      <link>https://t.me/hn_summary/87295</link>
+      <description><![CDATA[Show HN：我为企业家制作了一款问责应用 
+标题：Show HN：我为企业家制作了一款问责应用程序
+
+在 Venture Pals，我们创建了一款专为企业家设计的创新问责应用程序。我们的应用程序可帮助您保持目标的正轨，跟踪您的进度，并让您自己对自己的行为负责。我们的应用程序具有目标设定、进度跟踪和提醒等功能，对于希望保持专注和积极性的忙碌企业家来说是一个游戏规则改变者。立即尝试，将您的工作效率提升到新的水平！]]></description>
+      <guid>https://t.me/hn_summary/87295</guid>
+      <pubDate>Wed, 01 May 2024 00:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国家公路交通安全管理局已正式强制要求所有新 [...]</title>
-      <link>https://t.me/hn_summary/87265</link>
-      <description><![CDATA[所有在美国销售的汽车很快都必须能够自动避免崩溃
-美国国家公路交通安全管理局已正式规定，到 2029 年 9 月 1 日，所有在美国销售的新车必须配备自动紧急制动功能，能够避免时速 62 英里的碰撞事故。然而，某些车辆有豁免、延迟推出以及禁用该系统的不同方法。汽车制造商不确定他们是否能够实现这一激进目标，并对更高速度下的可靠性提出了担忧。新规定还提出了有关误报和幻象制动事件的问题。尽管意图良好，但这些系统的有效性仍有待观察。看看汽车制造商如何应对这一挑战将会很有趣。]]></description>
-      <guid>https://t.me/hn_summary/87265</guid>
-      <pubDate>Tue, 30 Apr 2024 21:04:31 GMT</pubDate>
+      <title>隆重推出 EasyP&L，这是一款可轻松跟踪项目收入和支出的简单工具，可提供 [...]</title>
+      <link>https://t.me/hn_summary/87294</link>
+      <description><![CDATA[向 HN 展示：我制作了一个简单的工具来获取项目的损益表和估值
+推出 EasyP&amp;L，这是一款简单的工具，可轻松跟踪项目的收入和支出，清晰地了解您的盈利能力和可能需要缴纳的税款。告别会计麻烦，迎接干净、易于管理的损益表。使用 EasyP&amp;L，您可以监控您的实际利润、编辑交易，甚至接收可打印的文档。独特的是定价模式，在 2024 年 7 月之前为早期采用者提供 3.99 美元的一次性付款。未来的更新包括 AI 自动对交易进行分类以及与 Stripe 和银行账户的集成。不要错过这款经济实惠且高效的工具，用于您的副业。]]></description>
+      <guid>https://t.me/hn_summary/87294</guid>
+      <pubDate>Wed, 01 May 2024 00:27:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 media.com 上这篇发人深省的文章中，作者深入探讨了 l [...]</title>
-      <link>https://t.me/hn_summary/87264</link>
-      <description><![CDATA[LLM作为n维空间中的n维对象
-在 medium.com 上这篇发人深省的文章中，作者深入探讨了语言模型的概念是 n 维空间中的 n 维对象。他们认为，语言模型，无论是基于符号的还是基于神经网络的，都可以表示为多维空间中的复杂对象。对提示的理解就像导航该对象的表面，通过微调和重新训练修改其拓扑。作者质疑仅语言模型是否足以进行认知和推理，这表明可能有必要进行更广泛的概括。这种独特的视角挑战了关于语言模型及其在人工智能中的作用的传统观点。]]></description>
-      <guid>https://t.me/hn_summary/87264</guid>
-      <pubDate>Tue, 30 Apr 2024 21:03:26 GMT</pubDate>
+      <title>隆重推出 frontendlead.com，这是一个专为前端设计的 Leetcode 风格平台 [...]</title>
+      <link>https://t.me/hn_summary/87293</link>
+      <description><![CDATA[Show HN：我为前端面试做了一个 Leetcode 风格的平台&lt; /a&gt;
+隆重推出 frontendlead.com，这是一个专为前端设计的 Leetcode 风格平台-结束采访。该平台由来自领先科技公司的经验丰富的前端工程师创建，为有抱负的开发人员提供了练习和准备前端面试的独特机会。通过关注现实世界的场景和挑战，用户可以提高自己的技能，并从成功完成类似面试的人那里获得宝贵的见解。不要错过这个创新工具，它可以帮助您在下一次前端面试中取得好成绩。]]></description>
+      <guid>https://t.me/hn_summary/87293</guid>
+      <pubDate>Wed, 01 May 2024 00:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]ASML 印刷了第一个 10nm [...]</title>
-      <link>https://t.me/hn_summary/87263</link>
-      <description><![CDATA[ASML 使用高数值孔径 EUV 工具对第一片晶圆进行图案化，出货量第二高-NA扫描仪
-ASML 使用其高数值孔径 EUV 原型系统印刷了首批 10 纳米图案，在光刻领域实现了一个重要里程碑。该公司还向一位未透露姓名的客户交付了第二套高数值孔径 EUV 系统。英特尔计划将这些工具用于自己的研发，并计划在 2026 年至 2027 年之前大规模生产采用英特尔 14A 技术的芯片。其他领先的芯片制造商也对高数值孔径 EUV 工具表现出兴趣，这些工具有望提供更精细的分辨率和更高的晶体管密度。业界正在密切关注ASML在这一尖端技术方面的进展。]]></description>
-      <guid>https://t.me/hn_summary/87263</guid>
-      <pubDate>Tue, 30 Apr 2024 21:02:20 GMT</pubDate>
+      <title>[媒体] 标题：Show HN：Wasp Studio – 可视化您的 React/Node Web 应用程序的架构</title>
+      <link>https://t.me/hn_summary/87292</link>
+      <description><![CDATA[展示 HN：Wasp Studio – 可视化您的 React/Node Web 应用程序架构
+标题：Show HN：Wasp Studio – 可视化您的 React/Node Web 应用程序的架构
+
+Wasp Studio 是一款革命性的工具，可以可视化全栈应用程序的架构，使其更易于理解和管理。 Wasp 在 GitHub 上拥有超过 10,000 颗星，是一个强大的框架，可以简化身份验证、cron 作业和路由等任务，让您能够专注于有趣的事情。可视化工具功能提供了应用程序的全面概述，使开发变得轻而易举。未来，Wasp Studio 有潜力与人工智能和大型语言模型协作进行代码生成，为 Web 开发开辟无限可能。使用 Wasp Studio 探索 Web 开发的未来并释放其全部潜力。]]></description>
+      <guid>https://t.me/hn_summary/87292</guid>
+      <pubDate>Wed, 01 May 2024 00:24:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Kubernetes 作为调度程序 vs.</title>
-      <link>https://t.me/hn_summary/87262</link>
-      <description><![CDATA[Kubernetes 作为调度程序与 API 代理
-Kubernetes 不再只是一个容器编排器；它现在正在应对管理外部资源（如云服务和数据库）的挑战。这种扩展带来了重大的安全挑战，需要转向零信任安全模型。传统的 RBAC 方法难以在不同的安全域之间映射权限，因此很难确保合规性和安全性。Otterize 通过使用基于意图的访问控制 (IBAC) 自动化 IAM 策略来提供解决方案，从而简化安全管理并确保持续合规性。通过将安全性视为代码并将其集成到开发生命周期中，Otterize 提供了一种可扩展且适应性强的方法来保护 Kubernetes 环境。（基于 43% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87262</guid>
-      <pubDate>Tue, 30 Apr 2024 21:01:15 GMT</pubDate>
+      <title>LabelKit 是一个 .NET 工具包，旨在解析类似 Kubernetes 的标签选择器并使用它们 [...]</title>
+      <link>https://t.me/hn_summary/87291</link>
+      <description><![CDATA[显示 HN：用于解析和使用类似 Kubernetes 的标签选择器的 .Net 工具包
+LabelKit 是一个 .NET 工具包，旨在解析类似 Kubernetes 的标签选择器并使用它们构建过滤器，包括用于 PostgreSQL、MySql、SqlServer 和 Sqlite 等 EFCore 数据库的查询表达式。该项目旨在提供基于标签选择器的查询过滤解决方案，提供用于解析原始标签选择器、构建表达式和过滤 EFCore 查询的软件包。标签选择器可以轻松创建、扩展、合并和呈现，也可以在无需任何数据库交互的情况下离线使用。该项目通过为不同场景提供特定的表达式构建器并支持用于不同标签存储格式的各种 EFCore 提供程序来脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/87291</guid>
+      <pubDate>Wed, 01 May 2024 00:23:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由于“网络安全事件”，加拿大西部的伦敦药店仍处于关闭状态 [...]</title>
-      <link>https://t.me/hn_summary/87261</link>
-      <description><![CDATA[网络安全事件导致 London Drugs 商店继续关闭&lt; br /&gt;
-由于“网络安全事件”，加拿大西部的伦敦药店仍然关闭，没有提供重新开业的时间表。该公司正在与网络安全专家合作调查数据泄露的程度。顾客仍然可以亲自获得紧急药房护理，但电话线路已中断。该事件突显了加拿大网络犯罪日益猖獗，专家强调了积极主动的网络安全措施的重要性。网络安全专家 Jon Ferguson 认为此次泄露可能涉及勒索软件或数据泄露，并强调公司和个人需要更新软件并使用双因素身份验证来防范此类攻击。]]></description>
-      <guid>https://t.me/hn_summary/87261</guid>
-      <pubDate>Tue, 30 Apr 2024 21:00:09 GMT</pubDate>
+      <title>Traycer 是一款尖端的人工智能代码分析工具，它彻底改变了开发人员的方式 [...]</title>
+      <link>https://t.me/hn_summary/87290</link>
+      <description><![CDATA[展示 HN：Traycer – AI 支持的实时代码分析VSCode
+Traycer 是一款尖端的人工智能代码分析工具，它彻底改变了开发人员在 Visual Studio Code 中的工作方式。凭借实时洞察和上下文感知建议，Traycer 充当警惕的高级开发人员，在不中断您的工作流程的情况下提供更正和改进。其始终在线的分析可确保代码更干净、更高效且无错误，同时其全面的覆盖范围可解决潜在的错误和对相关代码的影响。该工具提供了可操作的建议，只需单击一下即可轻松集成。 Traycer 目前支持多种编程语言，并欢迎社区通过 Discord、Twitter 和 GitHub 提供反馈。]]></description>
+      <guid>https://t.me/hn_summary/87290</guid>
+      <pubDate>Wed, 01 May 2024 00:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>Rama 是一个强大的编程平台，展示了 Clojure 在革命方面的功能 [...]</title>
-      <link>https://t.me/hn_summary/87260</link>
-      <description><![CDATA[Rama 证明了 Clojure 的力量&lt; br /&gt;
-Rama 是一个强大的编程平台，展示了 Clojure 彻底改变后端开发的能力。 Rama 以新的编程语言和范例为核心，用最少的代码简化了端到端后端的创建。该平台强调不变性和数据结构导向，以及无缝混合范例的能力，使其与众不同。 Rama 与 Clojure 的集成可实现平滑的互操作性和高效的执行。虽然 Clojure 的原则已被证明可以简化软件开发，但 Rama 更进一步，解决了构建端到端后端的所有方面问题，使其成为行业游戏规则的改变者。加入 #rama 频道中有关 Clojure Slack 的讨论。]]></description>
-      <guid>https://t.me/hn_summary/87260</guid>
-      <pubDate>Tue, 30 Apr 2024 20:59:04 GMT</pubDate>
+      <title>[媒体]大家好，我很高兴与大家分享我的最新项目。</title>
+      <link>https://t.me/hn_summary/87289</link>
+      <description><![CDATA[显示 HN：我制作了比 SiteGPT 便宜 10 倍的替代方案
+大家好，我很高兴与大家分享我的最新项目。我创建了一个经济实惠的 SiteGPT 替代方案，称为 AnswerFlowAI。我们的 ChatGPT 机器人非常适合生成销售报告、帮助客户取得成功、分析收入、创建公司 wiki 等。我们的独特之处在于我们的定制 ChatGPT 机器人专为各种规模的企业（从初创公司到大型企业）量身定制。告别昂贵的解决方案，转向可带来成果的经济高效的选择。请访问 answerflowai.com 了解更多信息并了解我们如何进行变革您的业​​务运营。]]></description>
+      <guid>https://t.me/hn_summary/87289</guid>
+      <pubDate>Wed, 01 May 2024 00:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>在本研究中，我们探讨了在法律体系中用陪审团取代法官的想法，通过评估[...]</title>
-      <link>https://t.me/hn_summary/87259</link>
-      <description><![CDATA[用陪审团取代法官：用模型小组评估 LLM 一代&lt; /a&gt;
-在这项研究中，我们通过使用一组模型评估不同代法律语言模型（LLM）的表现，探讨了在法律体系中用陪审团取代法官的想法。通过比较法学硕士做出法律判断的准确性和效率，我们的目的是确定它们是否可以有效替代人类法官。我们的研究结果表明，虽然法学硕士在某些领域表现出希望，但在实施此类系统之前必须考虑其能力的局限性。这个有争议的话题引发了有关技术在法律领域中的作用的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/87259</guid>
-      <pubDate>Tue, 30 Apr 2024 20:58:00 GMT</pubDate>
+      <title>[媒体]我开发了一种通过自定义 ChatGPT 货币化的解决方案，特别是针对利基聊天 [...]</title>
+      <link>https://t.me/hn_summary/87288</link>
+      <description><![CDATA[展示 HN：自定义 ChatGPT 货币化解决方案 
+我开发了一种用于将自定义 ChatGPT 货币化的解决方案，特别是对于具有较小用户群但可提供巨大价值的利基聊天。虽然 OpenAI 的试点货币化计划侧重于 Plus Subs 的收入分享，但我的基于提示的付费专区集成允许用户通过 Stripe 购买订阅并在每次对话开始时验证他们的电子邮件。这种实验方法可能需要一些培训，但可以有效地限制非订阅者的访问。如果您有有价值的自定义 ChatGPT 并且正在考虑获利，请访问 https://monetizechatgpts.com 进行尝试出来。我们正在探索货币化和增强聊天体验的新方法，欢迎您提供反馈。Monetizechatgpts今天通过自定义 ChatGPT 货币化OpenAI 的 GPT 商店已经推出，但收入分成却没有。不要等待，立即开始通过您的自定义 ChatGPT 获利，同时保留 100% 的收入。将您的 ChatGPT 转变为创收 SaaS]]></description>
+      <guid>https://t.me/hn_summary/87288</guid>
+      <pubDate>Wed, 01 May 2024 00:18:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
