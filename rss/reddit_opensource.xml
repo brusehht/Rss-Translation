@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 09:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 12:21:44 GMT</lastBuildDate>
+    <item>
+      <title>寻找具有远程 SSH 的 MS Visual Studio Code 替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</link>
+      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</guid>
+      <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码管理器可在 Android、Linux 和 Windows 上与客户端相互同步</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</link>
+      <description><![CDATA[Android、Linux 和 Linux 上是否有带有客户端的密码管理器彼此同步的 Windows？ 我不需要一个可以自动集成并提交不同应用程序密码的密码管理器。我只需要 1 个开源的，可以保存凭证并在 android、Linux（基于 debian）和 Android、Linux（基于 debian）之间同步。通过互联网或蓝牙的 Windows。   由   提交/u/GL4389  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</guid>
+      <pubDate>Wed, 01 May 2024 09:23:41 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 待办事项应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</link>
-      <description><![CDATA[有人对可以离线工作并在 iPhone 上工作的开源 ToDo 应用程序有任何建议吗？我尝试过 Joplin 和 Logseq，但我很挣扎，因为它不直观，尤其是对于 Markdown 等新手来说。我很少使用笔记本电脑，因此核心功能需要在我的 iPhone 上运行。谢谢！   由   提交/u/raynethedark  [链接] [评论]]]></description>
+      <description><![CDATA[有人能推荐一款开源的 ToDo 应用吗？它可以离线运行，也可以在 iPhone 上运行？我试过 Joplin 和 Logseq，但用起来很吃力，因为不够直观，尤其是对于 markdown 之类的新手来说。我很少使用笔记本电脑，所以核心功能需要在 iPhone 上运行。谢谢！    提交人    /u/raynethedark   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</guid>
       <pubDate>Wed, 01 May 2024 08:14:05 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>如何从现有的开源项目中构建一个单独的新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
-      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我正在考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
+      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
       <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
     </item>
@@ -76,9 +90,9 @@
       <pubDate>Mon, 29 Apr 2024 15:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>寻找免费的应用程序来转录音频文件</title>
+      <title>寻找免费应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
       <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
       <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看 OSI 是否会在您附近举办研讨会。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何熟悉一个新项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
-      <description><![CDATA[您好，我最近加入了一个 Discord 服务器，其目标是开发开源格斗游戏引擎。我想知道什么方法可以有效地熟悉项目以便成为一名高效的贡献者？   由   提交 /u/AzureHierophant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</guid>
-      <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
