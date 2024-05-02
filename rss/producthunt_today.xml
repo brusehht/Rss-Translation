@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 21:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 00:51:24 GMT</lastBuildDate>
     <item>
       <title>iOS 版克劳德</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
       <description><![CDATA[
-            Anthropic 的官方人工智能助手，就在你的后兜里
+            Anthropic 的官方人工智能助手，就在你的后口袋里
           
 
 讨论
@@ -37,12 +37,12 @@
       <title>JS日志</title>
       <link>https://www.producthunt.com/posts/jslog</link>
       <description><![CDATA[
-JavaScript 和 TypeScript 游乐场
-
+            JavaScript 和 TypeScript 游乐场
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/jslog</guid>
       <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
@@ -90,29 +90,15 @@ JavaScript 和 TypeScript 游乐场
       <pubDate>Tue, 30 Apr 2024 17:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>数据交换中心</title>
-      <link>https://www.producthunt.com/posts/datashake-hub</link>
+      <title>堆栈雷达</title>
+      <link>https://www.producthunt.com/posts/stackradar</link>
       <description><![CDATA[
-无代码数据聚合和导出
+精选互联网上的最佳工具
 
 
 讨论
 |
 链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/datashake-hub</guid>
-      <pubDate>Tue, 30 Apr 2024 15:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>堆栈雷达</title>
-      <link>https://www.producthunt.com/posts/stackradar</link>
-      <description><![CDATA[
-            精选的互联网上最好的工具
-          
-
-讨论
-            |
-            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/stackradar</guid>
       <pubDate>Tue, 30 Apr 2024 13:02:27 GMT</pubDate>
@@ -130,6 +116,20 @@ JavaScript 和 TypeScript 游乐场
 ]]></description>
       <guid>https://www.producthunt.com/posts/journable</guid>
       <pubDate>Tue, 30 Apr 2024 11:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>创意火花</title>
+      <link>https://www.producthunt.com/posts/idea-spark-4</link>
+      <description><![CDATA[
+            帮助个体企业家验证想法的便捷工具
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
+      <pubDate>Tue, 30 Apr 2024 10:39:57 GMT</pubDate>
     </item>
     <item>
       <title>面条4人工智能</title>
@@ -163,7 +163,7 @@ JavaScript 和 TypeScript 游乐场
       <title>心灵之旅</title>
       <link>https://www.producthunt.com/posts/mindtrip</link>
       <description><![CDATA[
-            AI旅行平台，为您量身定制
+            AI旅行平台，为您个性化
           
 
 讨论
@@ -177,12 +177,12 @@ JavaScript 和 TypeScript 游乐场
       <title>网格精简版</title>
       <link>https://www.producthunt.com/posts/gridlite</link>
       <description><![CDATA[
-自动分摊水电费的最简单方法
-
+            自动分摊水电费的最简单方法
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/gridlite</guid>
       <pubDate>Mon, 22 Apr 2024 20:01:49 GMT</pubDate>
@@ -191,12 +191,12 @@ JavaScript 和 TypeScript 游乐场
       <title>Loom 人工智能工作流程</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[
-            只需点击一下即可将任何 Loom 视频转换为可共享的文档
-          
+只需单击一下，即可将任何 Loom 视频转换为可共享的文档
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
       <pubDate>Fri, 12 Apr 2024 22:05:06 GMT</pubDate>
