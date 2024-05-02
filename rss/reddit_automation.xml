@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 02 May 2024 15:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:14:05 GMT</lastBuildDate>
+    <item>
+      <title>自动创建 LinkedIn 连接信息以创建 ClickUp 任务</title>
+      <link>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</link>
+      <description><![CDATA[是否可以自动化此过程？当某人在 LinkedIn 上接受连接请求时，将使用他们的姓名创建一个 ClickUp 任务，该任务将包含他们的所有信息（姓名、毕业日期、LinkedIn 链接、简历等）。 可以这可以使用 Zapier、Pabbly Connect 或 n8n 来完成吗？   由   提交/u/tush_6433668   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</guid>
+      <pubDate>Thu, 02 May 2024 15:26:51 GMT</pubDate>
+    </item>
     <item>
       <title>营销机构自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1ciesnn/automations_for_marketing_agency/</link>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 01 May 2024 07:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以推荐一些关于自动化办公任务的具体教程吗？</title>
+      <title>有人可以推荐一些自动化办公任务的具体教程吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</link>
       <description><![CDATA[我迫切需要一些教程来帮助我开始自动化办公任务   由   提交/u/DepthInternational78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ch60s3/can_someone_recommend_any_specific_tutorials_for/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 30 Apr 2024 21:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>付费，需要帮助向负载较重的服务器发送请求</title>
+      <title>已付费，需要帮助向负载较重的服务器发送请求</title>
       <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
       <description><![CDATA[嘿，我需要有以高速率向服务器发送请求的经验的人，我有一个端点由于负载而变慢，我会希望有人帮助我优化流程，以便我可以在加载期间以最快的速度发送请求并获得响应。   由   提交 /u/FlumeTennisCourt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
@@ -78,21 +85,21 @@
     <item>
       <title>预约今年剩余时间的全科医生。</title>
       <link>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</link>
-      <description><![CDATA[你好， 我住在欧盟。  所以，长话短说 - 当我需要我的全科医生时，她永远不会出现（30 天内）。她有 10,000 名患者，这很荒谬，因为我每个月都要支付相当一部分的医疗费用。 上周，我的背部出现了严重的问题，好几天都不想消失。但在我去看全科医生之前，我不能（免费）去看任何专科医生。我不能去急诊室，那里的人快要死了，并告诉他们我的背痛。  所以我想出了一个计划，在今年剩下的时间里每天都预约，每天早上不需要的时候取消。我希望有人注意到，因为这将是我对这个破碎系统的小小的抗议。  无论如何，我无法取消它，因为他们的预订系统不可用，而且我无法录制鼠标宏，因为月份和日期不同，我必须点击不同的区域每次。所以我正在寻找如何实现这一目标的想法。  P.S.我在自动化方面的经验几乎为0。   由   提交/u/Dragonoidl337   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我住在欧盟。 长话短说 - 当我需要我的全科医生时，她从来都无法提供服务（30 天内）。她有 10,000 名患者，这太荒谬了，因为我每月要为医疗保健支付相当一部分费用。 上周，我的背部出现了严重的问题，几天都不想好转。但在去看全科医生之前，我不能免费拜访任何专家。我也不能去急诊室，那里的人几乎都快死了，我告诉他们我的背疼。 所以我想出了一个计划，在今年余下的时间里每天都预约一次，然后在我不需要的时候每天早上取消预约。我希望有人注意到这一点，因为这将是我对这个有缺陷的系统的小小抗议。  无论如何，我无法将其删除，因为他们的预订系统不可用，我无法录制鼠标宏，因为月份和日期不同，每次我都必须单击不同的区域。所以我正在寻找有关如何实现此目标的想法。  附言：我在自动化方面几乎没有经验。    提交人    /u/Dragonoidl337   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cg4lmh/book_a_gp_appointment_for_the_rest_of_the_year/</guid>
       <pubDate>Mon, 29 Apr 2024 17:14:53 GMT</pubDate>
     </item>
     <item>
       <title>Paperlib：开源人工智能研究论文管理工具</title>
       <link>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</link>
-      <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/High_Sleep3694   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfwho0/paperlib_an_opensource_ai_research_paper/</guid>
       <pubDate>Mon, 29 Apr 2024 11:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>您实施的令您引以为傲的想法/改进是什么</title>
+      <title>你实施的让你感到自豪的想法或改进是什么</title>
       <link>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</link>
-      <description><![CDATA[与主题几乎相同，您实现的自动化想法/流程是您真正引以为豪的，并且带来了一些积极的变化/改进   由   提交 /u/Suspicious_Ad8214   [链接] [评论]]]></description>
+      <description><![CDATA[与主题基本相同，您实施了哪些让您感到自豪的自动化理念/流程，并且带来了一些积极的变化/改进     提交人    /u/Suspicious_Ad8214   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cfquxe/what_is_that_one_ideaenhancement_you_implemented/</guid>
       <pubDate>Mon, 29 Apr 2024 05:03:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  或者是否有更简单的方法或许可以用更少的步骤来实现自动化？   由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 13:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
-      <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
-      <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
-      <pubDate>Sun, 28 Apr 2024 11:10:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
