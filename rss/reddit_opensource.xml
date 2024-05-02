@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 May 2024 12:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:13:27 GMT</lastBuildDate>
+    <item>
+      <title>Omniplex：PerplexityAI 的开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cihgfi/omniplex_an_opensource_alternative_to_perplexityai/</link>
+      <description><![CDATA[大家好！  我很高兴宣布正式推出 PerplexityAI 的开源替代品！ 🚀 您的反馈对于塑造应用程序非常宝贵。  源代码现已在 GitHub 上提供（https://github.com/Omniplex-ai/omniplex&lt; /a&gt;），我鼓励您共同探索、贡献并帮助构建开源人工智能的未来。 💻👥  主要特点： 1. ⚡️ 快速搜索和抓取速度 2. 🔍 焦点模式和 Google/Bing dork 集成 3. 📁 直观的聊天侧边栏历史记录、文档和提示 4. 💬 文本、代码和答案的时尚格式 5. 🔗 轻松聊天共享 6. 📱 适合移动设备的设计 令人兴奋的路线图： 1. 🌈 多LLM支持 2. 🖼️ 图像生成 3. 🔌插件系统 观看视频演示：https://youtu.be/ocTitQa0UHw  访问我们的网站： https://omniplex.ai   由   提交/u/bishalsaha99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cihgfi/omniplex_an_opensource_alternative_to_perplexityai/</guid>
+      <pubDate>Thu, 02 May 2024 14:44:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代且人工智能驱动的开源学习管理系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cifaje/a_modern_aipowered_open_source_lms/</link>
+      <description><![CDATA[        提交人    /u/sw3ave   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cifaje/a_modern_aipowered_open_source_lms/</guid>
+      <pubDate>Thu, 02 May 2024 13:11:12 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，它连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
@@ -48,9 +62,9 @@
       <pubDate>Wed, 01 May 2024 18:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>请求人们在咨询/技术销售中使用的 CRM 的建议</title>
+      <title>请求人们在咨询/技术销售中使用的 CRM 推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</link>
-      <description><![CDATA[嗨， 我希望安装本地开源 CRM，它提供以下功能并可作为流行 CRM 的替代品： 联系人管理 互动追踪 销售线索管理 团队管理 销售渠道管理 任务和活动管理 报告和分析 集成功能 定制和可扩展性 🙏     提交人    /u/Saiyyidi   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我正在寻找安装本地开源 CRM，它提供以下功能并用作流行 CRM 的替代品： 联系人管理 互动跟踪 潜在客户管理 团队管理 销售渠道管理 任务和活动管理 报告和分析 集成功能 定制和可扩展性 🙏  &lt; /div&gt;  由   提交 /u/Saiyyidi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</guid>
       <pubDate>Wed, 01 May 2024 18:10:03 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>寻找具有远程 SSH 的 MS Visual Studio Code 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</link>
-      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（兼容 POSIX），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
+      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</guid>
       <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[有人对可以离线工作并在 iPhone 上工作的开源 ToDo 应用程序有任何建议吗？我尝试过 Joplin 和 Logseq，但我很挣扎，因为它不直观，尤其是对于 Markdown 等新手来说。我很少使用笔记本电脑，因此核心功能需要在我的 iPhone 上运行。谢谢！   由   提交/u/raynethedark  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</guid>
       <pubDate>Wed, 01 May 2024 08:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android Mi Calc开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</link>
-      <description><![CDATA[https://imgur.com/a/Z1ig0Xz 我一直在寻找 Mi Calc 的开源替代品，我正在寻找的是在输入计算时换行的能力。 并且请不要建议搜索应用程序在 f-droid 或类似商店中，我已经记不清我在 f-droid 和其他存储库上检查过多少个 calc 应用程序，而且到目前为止，我还没有找到能够复制该行为的应用程序。 提前致谢。   由   提交 /u/ZarTham   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</guid>
-      <pubDate>Wed, 01 May 2024 05:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Refact.ai——开源代码助手——引入项目意识！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</link>
-      <description><![CDATA[嗨！我是 Refact.ai 的工程师，我们正在为不同的 IDE 开发插件，为您提供与 LLM 聊天、代码完成以及我们称之为“”的功能“工具箱” -- 直接在文件中转换代码，无需进入聊天室。 很长一段时间以来，我们一直致力于使用名为 RAG（检索增强生成）的技术来实现聊天和代码完成的项目意识。它在聊天和代码完成模型的提示中填充了有关您的项目的最有用的数据，分析 AST（文件结构）并使用基于矢量的搜索。所有这些东西都是完全开源的，并且只是 100% 基于 Rust。您可以在这里找到它 - refact-lsp - 我们插件的后端。 加入我们的discord 社区亲自尝试一下，甚至在 我们在 GitHub 上的项目。 还有更多：查看我们的开源解决方案自托管法学硕士！   由   提交 /u/valaished   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ch1pxf/refactai_opensource_code_assistant_introducing/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

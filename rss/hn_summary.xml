@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 02 May 2024 09:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:10:00 GMT</lastBuildDate>
     <item>
-      <title>[媒体] GitHub 上的“offset-allocator”项目是一个快速、简单、硬实时的分配器，用于 [...]</title>
-      <link>https://t.me/hn_summary/87515</link>
-      <description><![CDATA[Rust 的快速、简单、硬实时分配器 
-GitHub 上的“offset-allocator”项目是一个快速、简单、硬实时的 Rust 分配器，最初由 Sebastian Aaltonen 从 C++ 包移植而来。它专为管理 GPU 资源而设计，适合在 Bevy 中使用。与传统的 Rust 分配器不同，此分配器不是系统分配器的直接替代品，而是专门为管理 CPU 内存之外的资源（例如 GPU 缓冲区）而定制。分配器对其分配的内容是不可知的，并使用独特的算法来最大限度地减少碎片。 Rust 移植由 Patrick Walton 完成，该项目已获得 MIT 许可。]]></description>
-      <guid>https://t.me/hn_summary/87515</guid>
-      <pubDate>Thu, 02 May 2024 09:08:23 GMT</pubDate>
+      <title>你在建造什么？</title>
+      <link>https://t.me/hn_summary/87559</link>
+      <description><![CDATA[您在构建什么？分享您的项目
+嘿黑客们！你正在做一些很酷的事情吗？在 news.ycombinator.com 上与我们分享您的项目！告诉我们您的项目、是什么激励您开始该项目以及您遇到的任何挑战。是什么激励您开展项目？您如何克服开发过程中的障碍？让我们在创造性的努力中互相激励和支持。加入对话并展示您的创新！]]></description>
+      <guid>https://t.me/hn_summary/87559</guid>
+      <pubDate>Thu, 02 May 2024 15:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>PhastFT 是一个用 Rust 编写的高性能快速傅里叶变换 (FFT) 库，旨在 [...]</title>
-      <link>https://t.me/hn_summary/87514</link>
-      <description><![CDATA[Rust 中的快速傅立叶变换
-PhastFT 是一个用 Rust 编写的高性能快速傅里叶变换 (FFT) 库，旨在提供一种受量子启发的 FFT 计算方法。它提供了使用 Cooley-Tukey FFT 算法的简单实现，其性能与其他 Rust FFT 实现相当。该库旨在利用现代 CPU 功能（包括 AVX-512），并提供可选并行化以提高速度。 PhastFT 的独特之处在于使用零不安全代码、与其他 Rust FFT 包相比内存使用率更低，并且注重高效的内存访问模式。它需要一个夜间 Rust 编译器，并计划在未来为任意大小的 FFT 实现 Bluestein 算法。]]></description>
-      <guid>https://t.me/hn_summary/87514</guid>
-      <pubDate>Thu, 02 May 2024 09:04:18 GMT</pubDate>
+      <title>嘿黑客新闻！</title>
+      <link>https://t.me/hn_summary/87558</link>
+      <description><![CDATA[Show HN：刚刚为无 BS 应用安全平台筹集了 1700 万美元
+嘿黑客新闻！我们是 Aikido Security 背后的团队，刚刚为我们的无废话应用程序安全平台筹集了 1700 万美元。我们厌倦了复杂、价格过高的安全工具，这些工具让我们感觉很愚蠢，因此我们为开发人员而不仅仅是 CISO 构建了一个平台。我们的平台与各种工具集成，并扫描各种安全问题。利用开源项目，我们创建了一个定价透明的全面解决方案。我们有 300 名付费客户和 3000 家公司使用我们，提供简单的入职流程和模拟账户。请访问 Aikido.dev 关注我们，并让我们知道您的想法！ （争议：批评现有安全平台）]]></description>
+      <guid>https://t.me/hn_summary/87558</guid>
+      <pubDate>Thu, 02 May 2024 14:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，我们深入研究 glTF 材质和纹理的世界，探索 [...]</title>
-      <link>https://t.me/hn_summary/87513</link>
-      <description><![CDATA[使用 WebGPU 从 0 到 glTF：基本材质和纹理
-在这篇文章中，我们深入研究 glTF 材质和纹理的世界，探索基于物理的 BRDF 模型，支持金属和粗糙度属性，以及法线、发射和遮挡纹理贴图。作者通过分解 glB 文件中基础 glTF 材质参数和纹理的加载，将其传递给着色器进行颜色渲染，简化了该过程。这篇文章还介绍了加载 glTF 图像、采样器和纹理，提供了对这些元素的结构和功能的深入了解。一个值得注意的亮点是创建了 GLTFSampler 类，该类将 GLTF 采样器参数转换为其 WebGPU 等效参数，从而增强着色器中的纹理采样。 （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87513</guid>
-      <pubDate>Thu, 02 May 2024 09:03:13 GMT</pubDate>
+      <title>[媒体]由于气候变化，南极洲的陨石变得越来越难找到[...]</title>
+      <link>https://t.me/hn_summary/87557</link>
+      <description><![CDATA[由于气候变化，南极洲的陨石变得越来越难找到
+由于气候变化，南极洲的陨石变得越来越难找到，因为气温升高导致岩石深入冰盖，科学家无法触及。这些太空岩石对于理解太阳系的形成至关重要，每一颗都是拼图的一部分。虽然南极洲一直是陨石的宝贵来源，但现在流失的速度已经超过了收集的速度。随着气温持续上升，数十万颗陨石面临消失的危险，影响太阳系的科学研究。]]></description>
+      <guid>https://t.me/hn_summary/87557</guid>
+      <pubDate>Thu, 02 May 2024 14:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Snapdragon 855 的 Adreno 640 GPU 较前代产品有了显着改进 [...]</title>
-      <link>https://t.me/hn_summary/87512</link>
-      <description><![CDATA[Snapdragon 855 的 iGPU
-Snapdragon 855 的 Adreno 640 GPU 比其前身 Adreno 530 有了显着改进，计算吞吐量更高，并且配备了更现代的内存子系统。高通公司针对宽着色器处理器和矢量执行的创新方法可实现高效计算，同时降低功耗。 GPU 的本地内存和纹理缓存提供高带宽和低延迟，从而增强光栅化任务的性能。然而，Adreno 640 在处理 FluidX3D 等计算密集型工作负载时表现不佳，与 Snapdragon 821 相比，表现出令人惊讶的倒退。总体而言，Snapdragon 855 的 Adreno 640 GPU 在移动 SoC 设计的限制内提供了性能和效率的平衡。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87512</guid>
-      <pubDate>Thu, 02 May 2024 08:26:59 GMT</pubDate>
+      <title>[媒体]在这篇改编自林肯·米歇尔时事通讯的文章中，作者揭穿了病毒式传播的谣言 [...]</title>
+      <link>https://t.me/hn_summary/87556</link>
+      <description><![CDATA[是的，人们仍然在买书
+在这篇改编自林肯·米歇尔 (Lincoln Michel) 时事通讯的文章中，作者揭穿了 Elle Griffin 的“没有人买书”这一病毒式传播的说法。虽然出版业面临挑战，但文章中提供的数据具有误导性，并且是根据特定叙述量身定制的。美国人实际上每年购买超过 10 亿本书，尽管数字媒体兴起，但纸质书的销量仍然保持稳定。本文还探讨了如何操纵图书统计数据，并阐明了图书出版的经济学，表明即使出版商没有赚到作者的预付款，图书也可以为出版商带来利润。（基于 72% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87556</guid>
+      <pubDate>Thu, 02 May 2024 14:51:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Dropbox Sign（以前称为 HelloSign）用户请注意！</title>
-      <link>https://t.me/hn_summary/87511</link>
-      <description><![CDATA[Dropbox 标志已被黑客入侵
-Dropbox Sign（以前称为 HelloSign）用户请注意！ 4 月 24 日，我们的生产环境遭到未经授权的访问，导致电子邮件、用户名和哈希密码等客户信息遭到泄露。虽然没有发现未经授权访问帐户内容或付款信息的证据，但我们严肃对待这一事件。我们的安全团队已重置密码、注销用户，并正在协调 API 密钥和 OAuth 令牌轮换。我们对造成的影响深表歉意，并正在努力保护我们的用户。如果您是 Sign 客户，请按照我们的分步说明来保护您的数据。随着我们调查的继续，请继续关注最新动态。]]></description>
-      <guid>https://t.me/hn_summary/87511</guid>
-      <pubDate>Thu, 02 May 2024 08:24:55 GMT</pubDate>
+      <title>[媒体] 推出 Wiki Journey，这是一项创新的扩展，可跟踪您每天在维基百科上的活动 [...]</title>
+      <link>https://t.me/hn_summary/87555</link>
+      <description><![CDATA[显示 HN：跟踪您的维基百科冒险的扩展 
+推出 Wiki Journey，这是一个创新的扩展，可以跟踪您每天的维基百科冒险并将其可视化在树上。查看哪些文章导致了哪些内容，为您的在线探索创建独特的地图。每天都会有一棵新树，让您回顾过去的旅程。与他人分享您的树木，展示您的兴趣和发现。通过维基之旅以全新的方式探索维基百科的世界。]]></description>
+      <guid>https://t.me/hn_summary/87555</guid>
+      <pubDate>Thu, 02 May 2024 14:48:35 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉在开始日期前几周取消了实习机会，这让有抱负的实习生感到震惊，b [...]</title>
-      <link>https://t.me/hn_summary/87510</link>
-      <description><![CDATA[特斯拉大幅削减暑期实习计划
-特斯拉在实习期开始前几周取消了实习邀请，此举令有抱负的实习生感到震惊，并将这一决定归咎于公司内部的大规模裁员。像约书亚·施赖伯这样的学生只能忙着寻找暑假的替代工作，几乎没有空闲的时间。黛安娜·罗森伯格等特斯拉现任员工甚至通过 LinkedIn 联系，帮助安置失业的实习生。埃隆·马斯克 (Elon Musk) 的成本削减措施导致全球员工人数减少 10%，并计划进一步裁员。虽然此举可能不会为特斯拉节省太多资金，但它肯定对该公司的招聘渠道和受影响的学生产生了重大影响。]]></description>
-      <guid>https://t.me/hn_summary/87510</guid>
-      <pubDate>Thu, 02 May 2024 08:23:50 GMT</pubDate>
+      <title>[媒体] 在现代世界中，域名对于定义网络目的地至关重要，但是 [...]</title>
+      <link>https://t.me/hn_summary/87554</link>
+      <description><![CDATA[Microsoft 预览版：零信任 DNS (Ztdns)&lt; br /&gt;
+在现代世界中，域名对于定义网络目的地至关重要，但执行域名边界始终具有挑战性。 Microsoft 将在未来版本的 Windows 中引入零信任 DNS (ZTDNS) 来解决此问题。 ZTDNS 集成了 Windows DNS 客户端和 Windows 过滤平台，以实现基于域名的锁定，阻止除批准的域名之外的所有出站流量。该工具假定默认情况下禁止流量，这使其成为零信任工具带的一个有价值的补充。 ZTDNS没有引入新颖的网络协议，确保了互操作性。 ZTDNS 目前处于私人预览版，可提供更多信息以供实际部署注意事项。]]></description>
+      <guid>https://t.me/hn_summary/87554</guid>
+      <pubDate>Thu, 02 May 2024 14:47:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员提出了一种让宇航员在月球上保持健康的独特方法——跑步[...]</title>
-      <link>https://t.me/hn_summary/87509</link>
-      <description><![CDATA[宇航员可以绕“死亡之墙”跑步以在月球上保持健康，科学家说
-研究人员提出了一种让宇航员在月球上保持健康的独特方法——每天绕“月球死亡之墙”跑步多次。这种非常规方法涉及使用巨大的木质圆柱体和弹力绳来产生足够的侧向力，以对抗低重力环境中的骨骼和肌肉浪费。虽然一些专家认为这个想法创新且方便，但其他人质疑其实用性并建议替代锻炼方法，例如血流限制锻炼。当人类准备重返月球时，寻找有效的方法来对抗重力减小对人体的影响仍然是当务之急。]]></description>
-      <guid>https://t.me/hn_summary/87509</guid>
-      <pubDate>Thu, 02 May 2024 08:05:42 GMT</pubDate>
+      <title>[媒体]人工智能聊天机器人越来越多地用于科学出版，人们的担忧不断增加[...]</title>
+      <link>https://t.me/hn_summary/87553</link>
+      <description><![CDATA[AI 聊天机器人已彻底渗透到科学出版领域
+AI 聊天机器人越来越多地用于科学出版，人们越来越担心这些工具可能被滥用。研究人员已经确定了 AI 生成的文本中更常用的某些短语和单词，这引发了人们对 AI 在科学文献中的参与程度的怀疑。AI 生成内容的准确性也受到质疑，因为这些工具可以伪造信息，包括不存在的引用参考。在科学写作中使用 AI 聊天机器人存在引入错误的风险，并可能损害研究的完整性。AI 在科学出版中的渗透不仅限于文本生成，还包括图表、插图，甚至同行评审过程，引发了人们对其对学术诚信影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/87553</guid>
+      <pubDate>Thu, 02 May 2024 14:44:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧洲议会的欧洲议会议员呼吁禁止令人上瘾的技术，例如结束 [...]</title>
-      <link>https://t.me/hn_summary/87508</link>
-      <description><![CDATA[欧盟呼吁禁止无休止滚动等令人上瘾的技术&lt; br /&gt;
-欧洲议会的欧洲议会议员呼吁禁止在线平台使用的令人上瘾的技术，例如无休止的滚动，以吸引用户的注意力并将其数据货币化。他们希望通过更安全的替代方案来加强消费者保护，即使社交媒体平台的利润较低。该报告强调需要针对令人上瘾的设计制定新的立法，并敦促公司开发道德和公平的数字产品。对成瘾设计对心理健康影响（尤其是对未成年人）的担忧也得到了解决。欧盟委员会正在评估数字环境中更新消费者保护立法的必要性。]]></description>
-      <guid>https://t.me/hn_summary/87508</guid>
-      <pubDate>Thu, 02 May 2024 08:00:36 GMT</pubDate>
+      <title>[媒体]中国国家航天局（CNSA）公布了月球基地计划 [...]</title>
+      <link>https://t.me/hn_summary/87552</link>
+      <description><![CDATA[中国公布其月球基地计划的视频，其中包括美国宇航局空间班车
+中国国家航天局（CNSA）公布了其建立月球基地——国际月球研究站（ILRS）的计划，旨在吸引国际合作伙伴。该项目包括嫦娥六号和七号等任务，目标是到 2045 年在月球上建立一个综合科学基地。令人惊讶的是，该视频展示了一架退役的美国宇航局航天飞机，由于美国宇航局限制与中国的合作而引发争议。这个雄心勃勃的项目标志着中国日益增长的太空野心，包括长期科学研究和为未来火星任务做准备的计划。 ILRS将成为深空探索和居住的平台。]]></description>
+      <guid>https://t.me/hn_summary/87552</guid>
+      <pubDate>Thu, 02 May 2024 14:43:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Typewise (Y Combinator S22) 正在寻找一名高级全栈工程师加入他们的行列 [...]</title>
-      <link>https://t.me/hn_summary/87507</link>
-      <description><![CDATA[Typewise (YC S22) 正在招聘一名人工智能全栈工程师写作助理
-Typewise (Y Combinator S22) 正在寻找一名高级全栈工程师加入他们充满激情的国际团队。这家瑞士-美国深度科技公司旨在通过文本预测软件解码人类思想，从而简化日常生活。该角色涉及开发浏览器扩展和基于网络的管理门户，与开发人员、设计师和 AI/ML 专家密切合作。该公司提供远程优先、快节奏的环境，提供具有全球影响力的机会、在令人兴奋的地点定期聚会、灵活的工作时间以及具有股票期权的有竞争力的薪资。候选人必须具备 TypeScript 和 React 的经验，并能获得浏览器扩展开发和多种语言知识等额外技能的加分。加入 Typewise，帮助塑造人工智能写作辅助的未来！]]></description>
-      <guid>https://t.me/hn_summary/87507</guid>
-      <pubDate>Thu, 02 May 2024 07:59:32 GMT</pubDate>
+      <title>[媒体] Backblaze 2024 年第一季度的驱动器统计数据显示，年故障率有所下降（[...]</title>
+      <link>https://t.me/hn_summary/87551</link>
+      <description><![CDATA[2024 年第一季度 Backblaze 驱动器统计数据
+Backblaze 的 2024 年第一季度驱动器统计数据显示，年化故障率 (AFR) 下降至 1.41%，较上季度和上年有所下降。令人惊讶的是，三种硬盘型号实现了零故障，其中 6TB Seagate 硬盘在平均寿命为 9 年的情况下仍然表现出色。较旧的 4TB 驱动器的退役导致了 AFR 的整体下降。驱动器故障的平均寿命有所增加，这表明驱动器在较旧的寿命下会发生故障。制造商 AFR 显示出下降趋势，随着旧硬盘的更换，Seagate 和 HGST 型号预计将继续下降。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87551</guid>
+      <pubDate>Thu, 02 May 2024 14:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Spirit AeroSystems 前员工 Joshua Dean 举报了宽松的标准 [...]</title>
-      <link>https://t.me/hn_summary/87506</link>
-      <description><![CDATA[指控波音供应商忽视缺陷的举报人去世&lt; br /&gt;
-Spirit AeroSystems 前员工约书亚·迪恩 (Joshua Dean) 因突发疾病去世，他曾揭发这家波音供应商松懈的标准。他的家人和律师对他的去世表示哀悼，并强调他捍卫航空业安全和质量的勇气。迪恩的去世引发了人们对举报人待遇的担忧，特别是考虑到另一名波音举报人最近去世。围绕 Spirit AeroSystems 和波音安全标准的争议仍然是调查的主题，迪恩的指控揭示了行业内的潜在问题。]]></description>
-      <guid>https://t.me/hn_summary/87506</guid>
-      <pubDate>Thu, 02 May 2024 07:04:11 GMT</pubDate>
+      <title>[媒体] 一项要求所有新车均配备 AM 收音机的法案即将通过，两党一致同意 [...]</title>
+      <link>https://t.me/hn_summary/87550</link>
+      <description><![CDATA[受到科技和汽车行业反对的《无线电法》即将通过&lt; /a&gt;
+在国会两党的支持下，一项要求所有新车均配备调幅收音机的法案即将获得通过。支持者认为调幅广播对于紧急警报至关重要，并为数百万听众提供重要信息。然而，由于电磁干扰，一些汽车制造商已经放弃了调幅收音机，这引发了争议。包括科技和汽车行业在内的批评者认为，强制使用调幅收音机是没有必要的，并且可能会影响电动汽车的效率和可承受性。最近的一项调查显示，大多数人通过智能手机而非调幅广播接收紧急警报。随着法案的推进，争论仍在继续。]]></description>
+      <guid>https://t.me/hn_summary/87550</guid>
+      <pubDate>Thu, 02 May 2024 14:29:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
