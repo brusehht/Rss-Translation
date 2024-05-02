@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 02 May 2024 03:13:01 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Thu, 02 May 2024 06:15:27 GMT</lastBuildDate>
+    <item>
+      <title>最好的免费简单视频编辑软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1ci7nkv/best_free_simple_video_editing_sw/</link>
+      <description><![CDATA[我主要需要裁剪、修剪等非常简单的东西。Clipchamp 理论上很好，但实践中很糟糕。OpenShot 没有简单的裁剪器。Shotcut 太复杂了。你有什么建议？Windows 11。    提交人    /u/Coffeeholic911   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ci7nkv/best_free_simple_video_editing_sw/</guid>
+      <pubDate>Thu, 02 May 2024 05:20:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>shaye saint john 使用什么编辑软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1ci6jh0/what_editing_software_did_shaye_saint_john_use/</link>
+      <description><![CDATA[我想制作一个和shaye saint john一样风格的视频，有谁知道是什么软件吗？   由   提交 /u/TSmasvr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ci6jh0/what_editing_software_did_shaye_saint_john_use/</guid>
+      <pubDate>Thu, 02 May 2024 04:15:51 GMT</pubDate>
+    </item>
     <item>
       <title>PDF提取</title>
       <link>https://www.reddit.com/r/software/comments/1ci5and/pdf_extraction/</link>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 02 May 2024 02:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>帮助查找 Cisco AIR-CB21AG-A-K9 的 Windows 98 兼容软件</title>
+      <title>帮助查找适用于 Cisco AIR-CB21AG-A-K9 的 Windows 98 兼容软件</title>
       <link>https://www.reddit.com/r/software/comments/1chzz36/help_finding_windows_98_compatible_software_for/</link>
       <description><![CDATA[我正在尝试查找 Cisco PCMCIA WLAN 适配器的 Windows 98 兼容驱动程序   由   提交/u/oof_mastr  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chzz36/help_finding_windows_98_compatible_software_for/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>ISO：任务管理清单软件</title>
       <link>https://www.reddit.com/r/software/comments/1chvfvq/iso_task_management_checklist_software/</link>
-      <description><![CDATA[我是一名摄影师，从事不同类型的工作和其他一些创意副业。我很想找到一个可以保留在我的第二个屏幕上的简单程序，它的工作方式类似于 Trello，具有可重组的框，其中包含清单、文本和其他简单项目，这样我就可以跟踪看起来彼此不同的各种项目的进度。基于网络或独立。有免费的吗？   由   提交 /u/TheGrovester   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名摄影师，从事不同类型的工作和其他一些创造性的副业。我很想找到一个可以停留在我的第二个屏幕上的简单程序，它像 Trello 一样，带有可重组的框，其中包含清单、文本和其他简单项目，这样我就可以跟踪看起来彼此不同的各种项目的进度。基于 Web 或独立。有免费的东西吗？    提交人    /u/TheGrovester   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chvfvq/iso_task_management_checklist_software/</guid>
       <pubDate>Wed, 01 May 2024 19:51:20 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在寻找一种方法，可以在不截断任何内容的情况下缩小窗口（特别是桌面应用程序）的大小。目前，窗口的尺寸太大，以至于无法在屏幕上显示，如果我调整窗口的大小，我无法立即看到整个窗口。有没有办法缩小一切？ alt-tab 上的选项卡预览基本上就是这样做的，但显然它太小了。  如果有人知道浏览器扩展“Responsive Viewer”，我正在寻找类似的东西，适用于桌面应用程序，而不仅仅是浏览器。    由   提交/u/OkCompote4000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1chdivl/decrease_window_size_without_losing_window_content/</guid>
       <pubDate>Wed, 01 May 2024 04:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过上下文菜单（右键单击）向任何人发送或接收大文件，无需后台程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1chakg6/send_or_receive_large_files_to_anyone_from/</link>
-      <description><![CDATA[我刚刚制作了一个简单、轻量级的软件，它使传输文件看起来像是 Windows 中的本机功能，就像使用“将文件从手机共享到另一个手机”一样。 AirDrop”或“QuickShare”  后台没有运行程序，也没有CPU占用，它是一个基于命令的软件，使用内置的Powershell  https://preview.redd.it/zuo05tk11qxc1.png?width=311&amp;format=png&amp;auto=webp&amp; amp;s= 04c3920b293b89e37fc81033e215767e271ef1ad ​ 只需右键单击任何文件&gt; 上传，立即上传。或者点击&gt;中任意您想要下载的路径。 下载&gt;输入密码 https://preview.redd.it/v76gf7331qxc1.png?width=1116&amp;format=png&amp;auto=webp&amp;s=1072388fc9113ae58b8355e9ce0b113 1d300b4ab ​&lt; /p&gt; 快速指南（更多信息请访问 GitHub）：打开iMShare.exe，它将完成其上的所有设置自己的，然后按“CTRL+R”并关闭弹出窗口以激活它，就完成了。  下载 此处 或者来自 GitHub：https://github.com/iMAboud/iMShare  让我了解您的想法和建议。 😊   由   提交/u/imaboud  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1chakg6/send_or_receive_large_files_to_anyone_from/</guid>
-      <pubDate>Wed, 01 May 2024 02:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 是否是一家为竞争设置障碍的垄断企业？</title>
-      <link>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</link>
-      <description><![CDATA[令人疯狂的是，在 PDF 格式开放几十年后，其他支持 PDF 的文档（包括 MS WORD、LIBREOFFICE 等）似乎都无法打开可以像 Adob​​e 一样用于书写的 PDF 文件吗？ Adobe 是在偏袒还是只是声称开放格式但积极设置障碍以削弱竞争？当您尝试打开 PDF 文件进行编辑时，您会看到这一点。即使是像微软这样的公司也无法做到正确（好吧。哈哈。我知道他们写的东西不多……但我离题了） 好奇是否有任何内部人士的说法Adobe 如何看待 PDF 领域的竞争？   由   提交/u/kasarediff  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ch0afe/is_adobe_a_monopoly_that_is_putting_hurdles_in/</guid>
-      <pubDate>Tue, 30 Apr 2024 18:41:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
