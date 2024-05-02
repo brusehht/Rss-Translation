@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 02 May 2024 06:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:12:53 GMT</lastBuildDate>
+    <item>
+      <title>廉价的网站解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ci9nu8/cheap_solution_for_a_website/</link>
+      <description><![CDATA[我们有一个美国文化交流网站，我们正在使用 Google 免费网站构建器。它是免费的，但在图形方面，定制非常严格，您无能为力。 我正在寻找每年不超过 10 美元的托管计划或一些非常便宜的计划。我不需要数据库或其他东西。   由   提交 /u/CauliflowerJolly4599   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ci9nu8/cheap_solution_for_a_website/</guid>
+      <pubDate>Thu, 02 May 2024 07:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>请推荐更好的演示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ci8vmj/please_suggest_a_better_presentation/</link>
+      <description><![CDATA[      https://preview .redd.it/xgw2gp73kyxc1.png?width=1676&amp;format=png&amp;auto=webp&amp;s=d12eff380de9da5c3cb82862fc3e422e3c3632d4 这里是后端开发。对于 FE 来说是全新的。设法用 Svelte 拼凑出一个实用但相当粗糙的 FE。这就是它的样子。我还没有使用组件库，只是一些 HTML 并尝试使用 Tailwind（但不确定它是否运行良好）。您能否建议一个更好的演示文稿，特别是针对结果列表？如果足够简单，我可以尝试使用组件库，例如 shadcn-svelte 或 Skeleton UI，但我对所有这些的学习已经相当吃力了。非常感谢。   由   提交 /u/olddoglearnsnewtrick   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ci8vmj/please_suggest_a_better_presentation/</guid>
+      <pubDate>Thu, 02 May 2024 06:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动生成审计报告的软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ci8rr1/software_to_generate_audit_reports_automatically/</link>
+      <description><![CDATA[我是一家公司的实习生，我和我的团队的任务是创建一个软件应用程序，该应用程序应该接受 Excel 审核清单并生成报告。  本质上，我们将有一个 GDPR、ISO、PCIDSS 等的清单，并将报告上传到应用程序后，它应该生成一份报告。 大约需要 5 到 10 人能够登录并同时在应用程序上工作。 有人建议使用 Django 创建应用程序，我考虑在 AWS 上部署该应用程序。 如果你们有更多想法，请告诉我。   由   提交 /u/EzraSC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ci8rr1/software_to_generate_audit_reports_automatically/</guid>
+      <pubDate>Thu, 02 May 2024 06:30:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何正确地将组件放入容器中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ci8qhn/how_to_put_a_component_in_the_container_properly/</link>
+      <description><![CDATA[顺便说一句，我不确定是否有人理解这个问题，但我会尝试简单地表述。 例如，我有一个组件我想将其包含在另一个父组件中，并且我对该子组件的样式化有疑问。   &gt; &lt;父组件/&gt;&gt;然后我在子组件本身中包含子组件的容器 或者   &gt;&gt;   什么更好更准确？   由   提交 /u/Vzaje   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ci8qhn/how_to_put_a_component_in_the_container_properly/</guid>
+      <pubDate>Thu, 02 May 2024 06:28:08 GMT</pubDate>
+    </item>
     <item>
       <title>您将如何进行跨环境测试？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ci7qsl/how_would_you_go_about_testing_cross_environment/</link>
@@ -20,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 05:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 CSS 动画的过渡不平滑？</title>
+      <title>为什么 CSS 动画的过渡不流畅？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ci7iq2/why_isnt_this_transition_smooth_with_css_animation/</link>
       <description><![CDATA[      ​ https://i.redd.it/6nooiczh5yxc1.gif   由   提交/u/utsav_0   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ci7iq2/why_isnt_this_transition_smooth_with_css_animation/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>使用 fetch 是插入本地存储的 HTML 的最佳方式吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ci5bz0/is_using_fetch_the_best_way_to_insert_locally/</link>
-      <description><![CDATA[如果我有这样的文件结构：  /components  header.html footer.html  scripts  init.js  index.html  并且我有一个 &lt;header&gt; 和 &lt;footer&gt;元素在我的主 html 文件中，我用如下函数填充它：  function fetchComponent(url, containerSelector) { fetch(url) .then(response =&gt; response.text()) .then(data =&gt; { document.querySelector(containerSelector).innerHTML = data; }) .catch(error =&gt; console.error(`Error fetching ${url}:`, error)); }  我将 components/header.html 和 header 作为参数传递，这是创建全局组件的最佳方式吗？这会对性能产生明显的影响吗？这肯定比将 html 全部放在一个文件中要慢，但我想以最有效的方式做到这一点。我通常使用框架和其他 CMS 进行开发，但不确定仅使用原始 JS、HTML 和 CSS 执行此操作的正确方法。   由    /u/TheSlothJesus  提交  [链接] [评论]]]></description>
+      <description><![CDATA[如果我有这样的文件结构：  /components  header.html&lt; /li&gt; footer.html  脚本  init.js  索引.html  我有一个 和 &lt;页脚&gt;我的主 html 文件中的元素，我用这样的函数填充：  function fetchComponent(url, containerSelector) { fetch(url) .then(response =&gt; response.text()) .then(data =&gt; { document.querySelector(containerSelector).innerHTML = data; }) .catch(error =&gt; console.error(`获取 ${url} 时出错:`, error)); }  并且我将 Components/header.html 和 header 作为参数传递，这是创建全局组件的最佳方法吗？这会对性能产生明显影响吗？这肯定比将 html 全部放在一个文件中要慢，但我想以最有效的方式做到这一点。我通常使用框架和其他 CMS 进行开发，但不确定仅使用普通 JS、HTML 和 CSS 进行此操作的正确方法。   由   提交 /u/TheSlothJesus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ci5bz0/is_using_fetch_the_best_way_to_insert_locally/</guid>
       <pubDate>Thu, 02 May 2024 03:10:41 GMT</pubDate>
     </item>
@@ -69,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 02:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>随机模因项目的最佳托管解决方案？</title>
+      <title>随机 meme 项目的最佳托管解决方案？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ci3zdz/best_hosting_solutions_for_random_meme_projects/</link>
       <description><![CDATA[我知道如何在 github 上免费托管静态站点，当然。但我只想制作非常基本的实时聊天应用程序，或者带有数据库的小型未使用的 API，没有流量的糟糕的 CRUD 应用程序等。每次我尝试在 AWS 上设置它时，我都会得到意想不到的成本，最终变得如此非常昂贵。  我不明白为什么在 AWS 上托管一个我不使用的 API 总是会带来大量成本，但我可以托管一个巨大的《我的世界》服务器，有 75 个玩家插槽，4GB，内存 24 /7 在某些第三方，每月 4 美元。一定有一些我遗漏的东西   由   提交 /u/BigChillingClown   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ci3zdz/best_hosting_solutions_for_random_meme_projects/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[嘿，这方面超级超级新，我相信大家的意见各不相同，但正在学习 CSS，我有几个问题，请原谅我的天真。  因此，当使用类选择器时，这似乎是优于类型选择器的首选方法（我在这里错了吗？） 是链接选择器（在本例中为类）并应用元素的多个类是更具体地针对某些元素的首选方法，还是最好为该变体创建一个全新的类（即使它只有一个或两个新属性）？ 以上是吗？更好的说法是使用一个类，然后将其与类型选择器（div、p等）链接起来？如果是这样，什么时候链接类和类型是合适的，或者不经常这样做？如果不是，那么什么时候使用类类型链接比较合适，而不是创建一个新的更具体的类（只有当它是一次性变体时才可能？）  BEM 使约定看起来很流行，如果我正确解析它的话这种意识形态似乎有利于类链接（和类的变体）来缩小特异性，所以也许这回答了我自己的问题，哈哈？  再次抱歉，这可能是多么基本，我想在我过于沉迷于一种或另一种方法之前我会问一下。    由   提交 /u/Peppers__wish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ci3ih1/selector_help/</guid>
       <pubDate>Thu, 02 May 2024 01:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MySQL DB，你用什么来改变url？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ci2zgo/mysql_db_what_do_you_use_to_change_the_url/</link>
-      <description><![CDATA[当移动到不同的 url 时，例如本地站点，您使用什么来更改 DB 文件中的 url？   由   提交 /u/soCalForFunDude   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ci2zgo/mysql_db_what_do_you_use_to_change_the_url/</guid>
-      <pubDate>Thu, 02 May 2024 01:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关如何从 Figma 设计过渡到代码的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ci2qus/need_advice_on_how_to_transitioning_from_figma/</link>
-      <description><![CDATA[我最近加入了一个团队，担任专门从事 Angular 的前端开发人员，Figma 是设计网页和界面的首选工具。由于我是 Figma 的新手，我在将设计转换为 HTML 和 CSS 代码方面面临着挑战，特别是文本对齐——我们的设计师非常强调的一个细节。在我之前的职位中，我们依赖 Bootstrap，这让我在 CSS 知识上留下了空白。为了满足目前工作的要求，我正在积极学习CSS Grid。我有使用 Flexbox 和 Bootstrap 网格系统的经验，但在这里，必须使用 CSS 网格和自定义 CSS，因为我们不合并任何 CSS 库或框架。 我将不胜感激关于此事的建议。此外，如果有人可以分享有关 CSS Grid 的视频或教程以及从 Figma 设计过渡到代码等资源，那将会非常有帮助。 提前感谢您的支持。   div&gt;  由   提交 /u/Temporary-Divide-741   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ci2qus/need_advice_on_how_to_transitioning_from_figma/</guid>
-      <pubDate>Thu, 02 May 2024 01:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>最终权威答案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ci1yus/definitive_auth_answers/</link>
-      <description><![CDATA[我已经四处寻找了一段时间，我总是看到有关如何验证 SPA 的相互冲突的信息，我看到人们说你只能使用 http cookies从来都不是本地存储，有些人的说法恰恰相反。 Cookie 看起来总是不错，但获取会话信息却很麻烦，因为它们只是 http 协议。  更复杂的是，我看到巨大的后端作为服务提供商（supabase、firebase）将令牌存储在本地存储（或索引数据库，相同的差异）中。 我知道这两种解决方案的安全隐患，但很难清楚地了解如何做到这一点。尤其是当我开始考虑将我的 api 托管在与我的前端不同的域上时。 是否有人对我如何以安全且良好的方式实现我的 api 的前端有明确的解决方案或建议作为开发人员一起工作？   由   提交/u/Mandude225  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ci1yus/definitive_auth_answers/</guid>
-      <pubDate>Thu, 02 May 2024 00:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人作品集有必要吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ci0oeq/is_a_personal_portfolio_necessary/</link>
-      <description><![CDATA[我担任前端设计师已有近十年了。我一直有冲动去寻找世界上类似的职位。我热爱我的工作，但这里的晋升空间为零。  当我仔细阅读各种职位列表时，我注意到许多人现在正在寻找可供申请人分享的作品集。当一个人最近（过去 10 年）的所有工作都致力于一家私营公司并且无法分享时，如何解决这个问题？我多年前删除了我的个人网站。公司/招聘经理真的想看到个人作品集吗？ 此外，当我说“前端设计师”时，这个头衔是有争议的。我对 HTML、CSS 和一些 JavaScript 争论不休。我擅长响应式设计，重点关注网络可访问性。所以你想怎么称呼我就怎么称呼我吧。    由   提交/u/TataBoogiebutt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ci0oeq/is_a_personal_portfolio_necessary/</guid>
-      <pubDate>Wed, 01 May 2024 23:26:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
