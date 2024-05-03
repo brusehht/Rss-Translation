@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 03 May 2024 06:15:37 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Fri, 03 May 2024 09:12:59 GMT</lastBuildDate>
+    <item>
+      <title>谷歌驱动器上的菜鸟问题</title>
+      <link>https://www.reddit.com/r/software/comments/1cj39rg/noob_question_on_google_drive/</link>
+      <description><![CDATA[桌面版 Google 云端硬盘无法与 Android 手机上的应用同步，为什么？有人可以向像我这样生活在石器时代的贫穷会计师解释一下我们如何同步两个设备上的谷歌驱动器，以确保桌面上的所有文件在电脑和手机的谷歌驱动器上同步吗？谢谢，我变得愚蠢了   由   提交/u/matteo5477  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cj39rg/noob_question_on_google_drive/</guid>
+      <pubDate>Fri, 03 May 2024 08:05:42 GMT</pubDate>
+    </item>
     <item>
       <title>如何从 apk 中提取未出现在 res 或 obb 文件夹中的图像？</title>
       <link>https://www.reddit.com/r/software/comments/1ciztga/how_do_i_extract_images_from_an_apk_that_dont/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 03 May 2024 04:20:32 GMT</pubDate>
     </item>
     <item>
-      <title>有没有可以离线模仿电视的软件</title>
+      <title>有没有可以模拟离线电视的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ciwy45/is_there_software_where_you_can_mimic_tv_offline/</link>
       <description><![CDATA[好吧，我不知道是否允许提出这些问题。但我想知道是否有任何离线软件可以插入我的视频并让它模仿电视。所以我播放了一个 49 分钟的电视节目，但时间定在下午 6 点，然后下一个视频要到晚上 7 点才开始。我想把它切到黑色来模仿商业时间，但这可能太过分了。有没有类似的东西   由   提交/u/ineedaflippinhobbyyo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ciwy45/is_there_software_where_you_can_mimic_tv_offline/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>适用于 Mac 或 Windows 的多轨视频录制软件。</title>
       <link>https://www.reddit.com/r/software/comments/1ciqm6z/software_for_mac_or_windows_for_multitrack/</link>
-      <description><![CDATA[用于 Mac 或 Windows 的多轨视频录制软件。4 个 HDMI 输入记录为单独的“音轨”。不混合到一个流中。  就像我处理音乐一样。    提交人    /u/NoeticIntelligence   [link] [评论]]]></description>
+      <description><![CDATA[适用于 Mac 或 Windows 的多轨视频录制软件。 4 个 HDMI 输入记录为单独的“轨道”。没有将其混合到一个流中。  就像我对待音乐一样。   由   提交 /u/NoeticIntelligence   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ciqm6z/software_for_mac_or_windows_for_multitrack/</guid>
       <pubDate>Thu, 02 May 2024 20:56:34 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Windows 远程桌面连接帮助</title>
       <link>https://www.reddit.com/r/software/comments/1cio5fw/windows_remote_desktop_connection_help/</link>
-      <description><![CDATA[大家好！我无法使用自己的 wifi、VPN 和 Windows 远程桌面连接从家里连接到我的工作计算机。我的互联网连接速度足够快，但 RDC 应用程序每次尝试都会断开连接，并表示我的往返时间太长。我什至可以通过 VPN ping 我想要连接的计算机。通过我的手机使用移动数据，所有这些都可以正常工作。有人有解决这个问题的办法吗？我在我的私人计算机上运行 Win11 home。 提前致谢！ :)   由   提交/u/GuitarNoob25   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我无法使用自己的 wifi、VPN 和 Windows 远程桌面连接从家里连接到我的工作计算机。我的互联网连接速度足够快，但 RDC 应用程序每次尝试都会断开连接，说我的往返时间太长。我甚至可以通过 vpn ping 我想要连接的计算机。所有这些都可以通过我的手机使用移动数据正常工作。有人有这个问题的解决方案吗？我正在运行 Win11 home 和 fritzbox。 提前谢谢！:)    提交人    /u/GuitarNoob25   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cio5fw/windows_remote_desktop_connection_help/</guid>
       <pubDate>Thu, 02 May 2024 19:17:27 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 02 May 2024 18:54:42 GMT</pubDate>
     </item>
     <item>
-      <title>Fn键问题</title>
+      <title>Fn 键问题</title>
       <link>https://www.reddit.com/r/software/comments/1cimedi/fn_key_issue/</link>
       <description><![CDATA[嗨。最近，我的 Windows HP 笔记本电脑上的 Fn-lock 键出现了一些问题。基本上，Fn-lock 键对我来说一直处于打开状态。灯已打开并且钥匙已啮合。我似乎无法将其关闭，至少不能通过按下它。这似乎不是硬件问题，因为如果我按住 Fn-lock 键，我就可以使用正常的 F 功能，否则如果 Fn-lock 关闭，这些功能就会被分配。换句话说，按钮响应被按下，只是不想关闭。这也意味着每次我想使用键盘增加/减少音量和/或亮度时，我需要同时按住 Fn 键。有谁知道我可以修复该按钮并使其最终关闭的方法吗？   由   提交 /u/Kolakone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cimedi/fn_key_issue/</guid>
@@ -92,23 +99,16 @@
     <item>
       <title>ISO 软件可帮助团队协作填写在线表格、分享评论并标记作者身份</title>
       <link>https://www.reddit.com/r/software/comments/1cilhh1/iso_software_to_help_a_team_fill_out_online_forms/</link>
-      <description><![CDATA[您好，我在一家非营利组织工作，该组织很幸运能够获得基金会和政府实体的大量资助和支持。这很好，但一个缺点是我们经常必须填写大量非常详细的表格，报告我们使用捐赠者等资金所做的事情以及我们取得的成果。这些表格在内容和格式方面差异很大，但它们几乎都是某种可在线填写的表格，无论是编码定制、SurveyMonkey Apply、Salesforce Experience Cloud 等。 填写这些表格，我们需要我们的项目经理填写一些数据，我们的财务和会计人员来填写其他数据，我们的筹款办公室来管理和检查一切是否到位，我们的法律人员来审查其他人的工作是否合规。当我们尝试填写多页 Google 表单时，这会有点烦人，该表单不会保存您的进度，也不会允许您继续前进，直到您回答完页面上的所有必填问题。  到目前为止，我们所做的就是要求一些资助者向我们发送可以共同处理的 Word 或 pdf 版本。大约三分之一的人愿意这样做，但他们常常不小心与现场调查不相符。因此，我们最终所做的往往是将每个问题复制到共享电子表格上，其中包含以下列：问题、问题类型、是否需要、答案选择、我们的答案、团队中的谁应该回答它，以及团队中谁检查了他们的答案并批准了它。这是我指出 Excel 内置注释功能后的简化版本，因此我们不需要专门的注释或讨论列。 有   是一个更好的方法，对吗？有谁知道有一个应用程序或软件可以让我们以标记谁正在注释的方式对在线表单进行注释、稍后编辑注释以及以评论形式回复注释？ 谢谢！   由   提交/u/jptiger0  [链接] [评论]]]></description>
+      <description><![CDATA[您好，我在一家非营利组织工作，该组织很幸运能够获得基金会和政府实体的大量资助和支持。这很好，但一个缺点是我们经常必须填写大量非常详细的表格，报告我们使用捐赠者等资金所做的事情以及我们取得的成果。这些表格在内容和格式方面差异很大，但它们几乎都是某种可在线填写的表格，无论是编码定制、SurveyMonkey Apply、Salesforce Experience Cloud 等。 填写这些表格，我们需要我们的项目经理填写一些数据，我们的财务和会计人员来填写其他数据，我们的筹款办公室来管理和检查一切是否到位，我们的法律人员来审查其他人的工作是否合规。当我们尝试填写多页 Google 表单时，这会有点烦人，该表单不会保存您的进度，也不会允许您继续前进，直到您回答完页面上的所有必填问题。  到目前为止，我们所做的就是要求一些资助者向我们发送可以共同处理的 Word 或 pdf 版本。大约三分之一的人愿意这样做，但他们常常不小心与现场调查不相符。因此，我们最终所做的往往是将每个问题复制到共享电子表格上，其中包含以下列：问题、问题类型、是否需要、答案选择、我们的答案、团队中的谁应该回答它，以及团队中谁检查了他们的答案并批准了它。这是我指出 Excel 内置注释功能后的简化版本，因此我们不需要专门的注释或讨论列。 有   是一个更好的方法，对吧？有谁知道有一个应用程序或软件可以让我们以标记谁正在注释的方式对在线表单进行注释、稍后编辑注释以及以评论形式回复注释？ 谢谢！   由   提交/u/jptiger0  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cilhh1/iso_software_to_help_a_team_fill_out_online_forms/</guid>
       <pubDate>Thu, 02 May 2024 17:28:30 GMT</pubDate>
     </item>
     <item>
       <title>Steam 游戏无法关闭（即使重新启动电脑。发现任务正在运行但无法终止，因为“它没有运行”）</title>
       <link>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</link>
-      <description><![CDATA[我从我的电脑上在 Steam 上启动了《星球大战：前线》，但现在它无法关闭。在 EA 应用程序上它显示它没有运行，但在 steam 上它是。关闭游戏不会执行任何操作，它不在任务栏中，任务管理器也不会显示任何内容。我什至重新启动了我的电脑。当我打开它时游戏仍在运行。我用任务管理器关闭了很多次steam，但没有任何作用。我也刚刚以管理员身份尝试了命令提示符。我无法卸载游戏，因为它正在运行。我无法清除缓存，因为它正在运行。我可以卸载steam，因为它正在运行游戏。我验证了文件的完整性，并且不需要两秒钟就可以验证它们。哦，关于“停止”在 Steam 游戏中，是的，根据 Steam 的说法，这已经停止了大约 1.7 小时。哦，另一个编辑，我无法从文件资源管理器中手动删除游戏文件...... 因为游戏正在运行，请帮忙  &lt; p&gt;https://preview.redd.it/3b2rh1uis1yc1。 png?width=652&amp;format=png&amp;auto=webp&amp;s=258b3f91cae5f24fc1467990ebbdc4ee741db007 https://preview.redd.it/pf78zekjs1yc1.png?width=1613&amp;format=png&amp;auto=webp&amp;s=e20af92625c8206ceb84d4cc 337b0fb2e8854ce6 https://preview.redd.it/ fydvkq5ks1yc1.png?width=525&amp;format=png&amp;auto=webp&amp;s=5e6e1eb76bbea32e0b5dfeb5b25​​2504906591955 ​ ​ &lt; /div&gt;  由   提交/u/MousseIndependent310   [链接] [评论]]]></description>
+      <description><![CDATA[我从我的电脑上在 Steam 上启动了《星球大战：前线》，但现在它无法关闭。在 EA 应用程序上它显示它没有运行，但在 steam 上它是。关闭游戏不会执行任何操作，它不在任务栏中，任务管理器也不会显示任何内容。我什至重新启动了我的电脑。当我打开它时游戏仍在运行。我用任务管理器关闭了很多次steam，但没有任何效果。我也刚刚以管理员身份尝试过命令提示符。我无法卸载游戏，因为它正在运行。我无法清除缓存，因为它正在运行。我可以卸载steam，因为它正在运行游戏。我验证了文件的完整性，并且不需要两秒钟就可以验证它们。哦，关于“停止”在 Steam 游戏中，是的，根据 Steam 的说法，这已经停止了大约 1.7 小时。哦，另一个编辑，我无法从文件资源管理器中手动删除游戏文件...... 因为游戏正在运行，请帮忙  &lt; p&gt;https://preview.redd.it/3b2rh1uis1yc1。 png?width=652&amp;format=png&amp;auto=webp&amp;s=258b3f91cae5f24fc1467990ebbdc4ee741db007 https://preview.redd.it/pf78zekjs1yc1.png?width=1613&amp;format=png&amp;auto=webp&amp;s=e20af92625c8206ceb84d4cc 337b0fb2e8854ce6 https://preview.redd.it/ fydvkq5ks1yc1.png?width=525&amp;format=png&amp;auto=webp&amp;s=5e6e1eb76bbea32e0b5dfeb5b25​​2504906591955 ​ ​ &lt; /div&gt;  由   提交/u/MousseIndependent310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cilfwo/steam_game_wont_close_even_restarted_pc_task_is/</guid>
       <pubDate>Thu, 02 May 2024 17:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个好的免费 VPN 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1cil0jb/a_good_free_vpn/</link>
-      <description><![CDATA[我想在 netflix 上观看更多内容，并且我想找到一个好的 VPN   由   提交 /u/sosthesosi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cil0jb/a_good_free_vpn/</guid>
-      <pubDate>Thu, 02 May 2024 17:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
