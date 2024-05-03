@@ -4,9 +4,65 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 03 May 2024 00:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 03:14:19 GMT</lastBuildDate>
     <item>
-      <title>对我最近制作的网站提供反馈的最佳位置？</title>
+      <title>使用 github 和 VS Code？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciyc6j/using_github_and_vs_code/</link>
+      <description><![CDATA[大家好！ 我知道我这样做听起来很愚蠢，但我已经浏览了所有 YouTube 并所有的视频都是几年前的，或者在我看来并没有很好地解释它。有人可以用最基本的术语向我解释如何一起使用 github 和 VS Code，以便我能够从笔记本电脑和台式机访问我的代码   由   提交 /u/TennyBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciyc6j/using_github_and_vs_code/</guid>
+      <pubDate>Fri, 03 May 2024 03:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite：缩小和非缩小构建 + 构建扩展名是 .js 而不是 .cjs</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciy8ou/vite_minified_non_minified_builds_have_build/</link>
+      <description><![CDATA[是否可以使用 Vite 进行非缩小构建和缩小构建的构建？这样，当您进行构建时，您将获得一个 script.js 和 script.min.js 文件。 是否也可以有每个构建的文件扩展名是 .js 扩展名而不是 .cjs 扩展名？ 这是我的配置 ``` // vite.config.js import { DefineConfig } from &#39;vite&#39;; import packageJSON from &#39;../package.json&#39;; 导出默认的defineConfig({ build: { outDir: &#39;dist&#39;, lib: { entry: &#39;bundle.js&#39;, fileName: packageJSON.name,名称：&#39;myObject&#39;，格式：[&#39;cjs&#39;, &#39;es&#39;, &#39;umd&#39;] }, minify: false } }); ``` 它在我的 dist/ 文件夹中生成这三个文件  my-project.cjs  my-project.js my-project.umd.cjs  是否可以让构建的输出在我的 dist/&lt; /code&gt; 文件夹...  my-project.cjs.js my-project.cjs.min.js my-project .esm.js my-project.esm.min.js my-project.umd.js my-project.umd.min.js     由   提交/u/trymeouteh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciy8ou/vite_minified_non_minified_builds_have_build/</guid>
+      <pubDate>Fri, 03 May 2024 02:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>防止绝对定位元素溢出</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciwixx/preventing_overflow_with_absolutepositioned/</link>
+      <description><![CDATA[所以，呃，这里：https://codepen .io/milesseventh/pen/WNWqRxg 我想要实现的是可滚动侧边栏，悬停在其中的按钮旁边会出现提示。 问题是，仅使用 overflow-y: auto 就会导致字幕被剪辑，尽管它们属于不同的堆叠上下文，并且将 overflow-x 设置为任何值都没有帮助。 解释了结合可见和隐藏溢出的问题那里，有还有一些技巧我发现了，但我没能成功。 如果有一些关于处理这个问题的想法，我将不胜感激 &lt; !-- SC_ON --&gt;  由   提交 /u/MilesEighth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciwixx/preventing_overflow_with_absolutepositioned/</guid>
+      <pubDate>Fri, 03 May 2024 01:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助找到正确的 Xpath 并单击按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciwdd5/need_help_finding_the_correct_xpath_and_clicking/</link>
+      <description><![CDATA[您好，我正在做一个个人项目，目的是自动化一个网页。 下面是检查过的 HTML 源代码的一部分。两个 li 类代表 2 个可点击选项，需要点击才能继续（需要点击带有文本“是的，没错。”的选项）。 由于两个按钮类具有相同的名称，并且除了包含文本之外的所有其他内容，我认为扫描 li 类并检查文本会起作用，但它失败了。 此外，按钮在前端的位置并不总是相同的。有时选项是位于顶部，有时选项否位于顶部。 请耐心等待，因为我在这里只是涉足 Python 自动化和 Selenium。 （如果有更好的 subreddit 来回答此类问题，请见谅） HTML 来源： li class=&quot;_25kWt _1nWdI&quot;&gt; &lt;button data-test=&quot;stories-choice&quot; class=&quot;_1NTQa&quot;&gt; &lt;svg class=&quot;jds2F&quot; height=&quot;24&quot; width=&quot;24&quot;&gt; &lt;circle cx=&quot;12&quot; cy=&quot;12&quot; fill=&quot;transparent&quot; r=&quot;11&quot; stroke-width=&quot;2&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;12&quot; cy=&quot;12&quot; fill=&quot;transparent&quot; r=&quot;7&quot;&gt;&lt;/circle&gt; &lt;/svg&gt; &lt;/button&gt; &lt;div class=&quot;_3altc&quot; dir=&quot;ltr&quot;&gt; &lt;div class=&quot;_2s38C phrase&quot;&gt; &lt;span class=&quot;v9pTQ _3AnZj _2ziOV&quot;&gt;是的&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj&quot;&gt;，&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj _2ziOV&quot;&gt;那就是&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj&quot;&gt; &lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj _2ziOV&quot;&gt;right&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj&quot;&gt;.&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class=&quot;_25kWt _1nWdI&quot;&gt; &lt;button data-test=&quot;stories-choice&quot; class=&quot;_1NTQa&quot;&gt; &lt;svg class=&quot;jds2F&quot; height=&quot;24&quot; width=&quot;24&quot;&gt; &lt;circle cx=&quot;12&quot; cy=&quot;12&quot; fill=&quot;transparent&quot; r=&quot;11&quot; stroke-width=&quot;2&quot;&gt;&lt;/circle&gt; &lt;circle cx=&quot;12&quot; cy=&quot;12&quot; fill=&quot;transparent&quot; r=&quot;7&quot;&gt;&lt;/circle&gt; &lt;/svg&gt; &lt;/button&gt; &lt;div class=&quot;_3altc&quot; dir=&quot;ltr&quot;&gt; &lt;div class=&quot;_2s38C phrase&quot;&gt; &lt;span class=&quot;v9pTQ _3AnZj _2ziOV&quot;&gt;否&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj&quot;&gt;, &lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj _2ziOV&quot;&gt;那是&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj&quot;&gt; &lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj _2ziOV&quot;&gt;错误的&lt;/span&gt; &lt;span class=&quot;v9pTQ _3AnZj&quot;&gt;.&lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/li&gt; ## PYTHON 脚本中没有执行任何操作的部分 options_elements = driver.find_elements(By.XPATH, &quot;//li[contains(@class, &#39;_25kWt&#39;)]&quot;) for option_element in options_elements: text_element = option_element.find_element(By.XPATH, &quot;.//span[@class=&#39;v9pTQ _3AnZj&#39;]&quot;) option_text = text_element.text if option_text == &quot;Yes&quot;: button_element = option_element.find_element(By.XPATH, &quot;.//button[@data-test=&#39;stories-choice&#39;]&quot;) button_element.click() break     submitted by    /u/brown_nipples   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciwdd5/need_help_finding_the_correct_xpath_and_clicking/</guid>
+      <pubDate>Fri, 03 May 2024 01:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>甚至没有机会 - Amazon SDE OA</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciwb01/didnt_even_get_a_chance_amazon_sde_oa/</link>
+      <description><![CDATA[几周前，我收到亚马逊招聘人员发来的一封电子邮件，要求我发送我的空闲时间来讨论亚马逊的软件开发职位。我很高兴能面试亚马逊，所以那天我回复了我的空闲时间。经过几天的等待，没有得到回应，我联系了同一个招聘人员，但仍然没有回应。  几天前，我决定直接申请，因为亚马逊在我所在地区附近发布了很多工作机会。我上周四申请了亚马逊，周五收到了在线评估。我得到了一周的时间，今天（星期四 - 6 天后）我登录参加在线评估，却发现链接不再可用。 我没有点击评估或尚未接受，所以我不确定为什么链接已过期。在就业门户网站上，我的申请不再被考虑。  其他人也遇到过这种情况吗？想知道我是否花了太长时间参加评估，确切地说是 6 天，或者在我参加评估之前工作是否已被填补？ 这就是电子邮件的内容： &lt; blockquote&gt; “我们很高兴能够推动您在申请过程中取得进展。下一步，我们邀请您在一周内完成此在线评估。”  具体日期：  评估电子邮件 - 24 年 4 月 26 日星期五， 今天 - 2024 年 5 月 2 日星期四  编辑：在我申请时，该职位似乎刚刚关闭再次担任不同的角色、相同的地点并获得另一个 OA。这次不会等到截止日期结束。   由   提交/u/Hour-Rent-2453  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciwb01/didnt_even_get_a_chance_amazon_sde_oa/</guid>
+      <pubDate>Fri, 03 May 2024 01:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>可靠的兼职计时器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciw3wn/dependable_part_timers/</link>
+      <description><![CDATA[我有一个网络应用程序，我已经聘请了开发人员用 python 和 django amd 创建后端，然后创建前端。问题是，在发布前我必须完成测试，然后进行迭代。由于开发人员是兼职人员，因此在开发时间上造成了很大的滞后，从而大大降低了及时性。有谁知道如何处理这样的情况或以前遇到过这种情况。这里欢迎胡德的建议。    由   提交 /u/arrestwarrant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciw3wn/dependable_part_timers/</guid>
+      <pubDate>Fri, 03 May 2024 01:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让 UI 设计更具创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ciw10d/how_to_get_more_creative_with_ui_design/</link>
+      <description><![CDATA[我是一名 Web 开发人员，我需要帮助改进我的设计领域。我想在CSS方面做得更好，但更重要的是，我想学习更多的设计原则和想法。我看到了我可以制作的这个非常酷的网站设计，但如果我从未见过它，我就不会想到类似的事情。我想不出很酷的设计理念等。   由   提交 /u/RRTropical   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ciw10d/how_to_get_more_creative_with_ui_design/</guid>
+      <pubDate>Fri, 03 May 2024 01:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有趣的想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1civymt/fun_ideas/</link>
+      <description><![CDATA[我想要一些相对简单的网站创意，可以用来练习 UI 设计和 Web 开发。我希望它们是有创意的想法，并且如果可能的话制作起来也很有趣。   由   提交 /u/RRTropical   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1civymt/fun_ideas/</guid>
+      <pubDate>Fri, 03 May 2024 00:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>对我最近制作的网站提供反馈的最佳地点？</title>
       <link>https://www.reddit.com/r/webdev/comments/1civ6pf/best_place_to_has_for_feedback_on_a_recent/</link>
       <description><![CDATA[我想问一下，在哪里可以就我制作的新网站寻求反馈？   由   提交 /u/Wrong-Acanthaceae-94   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1civ6pf/best_place_to_has_for_feedback_on_a_recent/</guid>
@@ -22,21 +78,21 @@
     <item>
       <title>如何将容器化 Laravel 应用程序部署到专用服务器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1citj7y/how_do_you_deploy_your_containerized_laravel_apps/</link>
-      <description><![CDATA[我正在考虑在生产专用服务器上为我的 Laravel 应用程序使用容器，以便能够轻松限制每个服务使用的资源（PHP 应用程序、 MariaDB 数据库等）。但是，我不确定如何以正确且安全的方式执行此操作。我目前对 Docker 的了解有限，很好奇你如何处理这个问题，因为我在网上找不到任何关于 CD 部分的好的教程。我正在考虑使用像 Deployer 这样的解决方案来实现零停机原子部署，但不确定这如何与 Docker 容器一起使用。我也听说过 Laravel Sail 用于容器化开发环境，但我不知道它是否可以用于生产。我正在使用 GitHub，并且使用 GitHub Actions 会很棒。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑在生产专用服务器上为我的 Laravel 应用程序使用容器，以便能够轻松限制每个服务（PHP 应用程序、MariaDB 数据库等）使用的资源。但是，我不确定如何以正确且安全的方式执行此操作。我目前对 Docker 的了解有限，并且很好奇您如何处理这个问题，因为我在网上找不到任何关于 CD 部分的好教程。我正在考虑使用像 Deployer 这样的解决方案来实现零停机原子部署，但不确定它如何与 Docker 容器一起工作。我也听说过 Laravel Sail 用于容器化开发环境，但我不知道它是否可以在生产中使用。我正在使用 GitHub，使用 GitHub Actions 会很棒。    提交人    /u/konstantin1122   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1citj7y/how_do_you_deploy_your_containerized_laravel_apps/</guid>
       <pubDate>Thu, 02 May 2024 23:02:06 GMT</pubDate>
     </item>
     <item>
       <title>如何优化谷歌地图路线？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cit9b7/how_do_i_optimizw_google_maps_routes/</link>
-      <description><![CDATA[我需要在谷歌地图上显示 11 条路线，它们永远不会改变。我该如何优化这个？ （apache、php、vanilla js） 到目前为止我的方法：我将 lat/lng 保存在 js 数组中（大约 400&#39;000 行），然后将其与页面一起发送。 &lt; p&gt;我在文档准备好后将它们加载到地图中，与在每个页面加载时向谷歌地图 API 发送请求相比，这已经加快了进程。 现在这个文件很大（11MB），所以我开始研究压缩，到目前为止最好的选择是 HTTP 压缩，但我不明白这是否已经从一开始就实现了，听起来默认情况下已经在使用了    由   提交 /u/zwibele   [链接] [评论]]]></description>
+      <description><![CDATA[我需要在谷歌地图上显示 11 条路线，它们永远不会改变。我该如何优化呢？（apache、php、vanilla js） 我到目前为止的方法是：我将纬度/经度保存在一个 js 数组中（大约 400&#39;000 行），并将其与页面一起发送。 我在文档准备好时将它们加载到地图中，与在每次页面加载时向谷歌地图 api 发送请求相比，这已经加快了该过程。 现在这个文件很大（11MB），所以我开始研究压缩，到目前为止最好的选择是 HTTP 压缩，但我不明白这是否从一开始就实现了，听起来这已经在默认使用了     提交人    /u/zwibele   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cit9b7/how_do_i_optimizw_google_maps_routes/</guid>
       <pubDate>Thu, 02 May 2024 22:49:52 GMT</pubDate>
     </item>
     <item>
-      <title>二分键工具帮助</title>
+      <title>二分键工具HELP</title>
       <link>https://www.reddit.com/r/webdev/comments/1ciso9r/dichotomous_key_tool_help/</link>
-      <description><![CDATA[大家好！我也是网络开发和编程的初学者，需要经验丰富的人的建议。我有一个项目，我想在其中创建用于植物识别的交互式二分键。最好的格式（应用程序？网页？）和最简单的格式（格式/语言）是什么。 目标是提供带有 A 或 B 选项的页面，用您所选择的图像（可选）描述植物形态。可以选择，这将带您进入下一个 A/B 选项，直到您进行身份验证。感觉对于初学者来说制作起来很简单，但我基本上不知道这个项目的最佳格式。我愿意在 html 上学习 python 以外的语言基础知识。  我愿意接受您的想法和建议！提前致谢:)   由   提交/u/Rainom15  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我也是网络开发和编程的初学者，需要经验丰富的人的建议。我有一个项目，我想在其中创建用于植物识别的交互式二分键。最好的格式（应用程序？网页？）和最简单的格式（格式/语言）是什么。 目标是拥有带有 A 或 B 选项的页面，用您所选择的图像（可选）描述植物形态。可以选择，这将带您进入下一个 A/B 选项，直到您进行身份验证。感觉对于初学者来说制作起来很简单，但我基本上不知道这个项目的最佳格式。我愿意在 html 上学习 python 以外的语言基础知识。  我愿意接受您的想法和建议！提前致谢:)   由   提交/u/Rainom15  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ciso9r/dichotomous_key_tool_help/</guid>
       <pubDate>Thu, 02 May 2024 22:23:35 GMT</pubDate>
     </item>
@@ -48,67 +104,11 @@
       <pubDate>Thu, 02 May 2024 21:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用helcim 进行付款处理吗？</title>
+      <title>有人用helcim 进行付款处理吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1circbm/has_anyone_used_helcim_for_payment_processing/</link>
       <description><![CDATA[我正在寻找廉价但强大的支付处理服务。我看到helcim 的价格非常便宜。有人用过吗？    由   提交/u/Even-Advertising-332   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1circbm/has_anyone_used_helcim_for_payment_processing/</guid>
       <pubDate>Thu, 02 May 2024 21:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否需要花很长时间才能完成我的自由职业任务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciqzpn/am_i_talking_to_long_to_finish_my_freelancing/</link>
-      <description><![CDATA[我最近开始从事自由职业，我觉得我说得太长了，无法完成分配给我的任务。我在一个著名的自由职业网站工作，薪水很低，但对于我住的地方来说，这已经是一笔不错的钱了。  给定一个组件，我需要花多少小时来编码？我知道这取决于它的复杂程度，但假设您正在制作一个具有砖石布局的画廊。  我停止了时间跟踪器并研究了如何制作砖石布局，这花了我大约一个小时，然后我回去并实施了在跟踪器打开时学到的东西。我最终在该任务上花费了大约 1 小时的跟踪时间。 这太长还是太短？ 我应该跟踪研究非标准问题所花费的时间吗？  有时我觉得自己花了太多时间制作组件，于是我停止跟踪器并继续工作一个小时左右。   由   提交/u/bumbo90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciqzpn/am_i_talking_to_long_to_finish_my_freelancing/</guid>
-      <pubDate>Thu, 02 May 2024 21:12:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>散光作为开发人员。我需要一个新的、更大的外接显示器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ciqz33/astigmatism_as_a_dev_i_need_a_new_larger_external/</link>
-      <description><![CDATA[我需要一个新的外部显示器，但散光似乎总是在变化，我不知道到底该买什么，或者某些尺寸、类型、功能或品牌比其他更好。对于我应该在外接显示器中获得什么尺寸和什么样的显示器功能，我们将不胜感激。我希望能够保持在 200 美元以下（或最高 300 美元以下），但目前这不太重要。我有一个备用 40 英寸高清电视，但我认为清晰、真实的显示器将是理想的选择。到目前为止，我正在考虑 32-35 英寸。 QHD。 目前，我正在开发 27&quot; 的产品。我的工作给我带来的优派（VA2756系列）。我有一个更好的 32 英寸我三年前买了一台曲面游戏显示器，但我不喜欢它的曲面部分。我尝试放大分辨率，以便所有内容都更易于阅读和查看，但这似乎在其他方面使事情变得更糟，因为现在我的屏幕不够大，无法看到更多网页。在分辨率和 CPU 设置方面，比较棘手的是，我在 Macbook Pro 上工作，但我必须使用 VMWare 连接到 Windows 虚拟机才能进行开发工作。 额外信息：我只近一两年我一直戴眼镜，30岁之前甚至没有散光。更烦人的是，模糊的东西似乎总是每天甚至每小时都在变化，我有时发现自己在我的最后一副眼镜和我刚刚购买的新的第二副眼镜之间来回切换，上个月在我的眼科医生办公室得到的。   由   提交 /u/cwillner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ciqz33/astigmatism_as_a_dev_i_need_a_new_larger_external/</guid>
-      <pubDate>Thu, 02 May 2024 21:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用docker（Vite、Django）时的CORS问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cinyll/cors_problem_when_using_docker_vite_django/</link>
-      <description><![CDATA[这是 docker-compose.yaml 文件 版本：“3.8”服务：db：container_name：db图像：postgres：15重新启动：始终卷：-journal_data：/var/lib/postgresql/data环境：POSTGRES_PASSWORD：$ {POSTGRES_PASSWORD} POSTGRES_USER：$ {POSTGRES_USER} POSTGRES_DB：$ {POSTGRES_DB} POSTGRES_HOST： ${POSTGRES_HOST} POSTGRES_PORT: ${POSTGRES_PORT} api: 容器名称: api 镜像: aikido-api:0.1 构建: ./后端命令: bash -c &quot; python src/manage.py 迁移 &amp;&amp; python src/manage.py runserver 0.0.0.0:8000”重新启动：始终端口：- 8000：8000 env_file：- ./.env dependent_on：- db web：container_name：web图像：aikido-web：0.1构建：./frontend命令：npm run dev重新启动：始终端口：- 5173：第5173章plugin-react&#39; // https://vitejs.dev/config/ 导出默认的defineConfig({ plugins: [react()], base: &quot;./&quot;, server: { host: true, port: 5173 } } )  问题是当我向后端发出请求时，我的 axios fetch 不起作用，浏览器说我违反了 CORS axios.get(&#39;http://api:8000/api/v1/parents&#39;) .then(response =&gt; console.log(response.data));  我的运行开发服务器是“http://localhost:5173” 我应该怎么解决这个问题？包含 Django 中的所有标头（所有主机、所有源、corsMiddleware）    由   提交 /u/Vzaje   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cinyll/cors_problem_when_using_docker_vite_django/</guid>
-      <pubDate>Thu, 02 May 2024 19:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何监控API健康状态？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cinkbs/how_do_you_monitor_api_health_status/</link>
-      <description><![CDATA[我正在尝试找出一种方法来从前端监控我们的一个 API 的状态。前端是一个 React 应用程序。 API 是 .NET Framework 4+。  最初，我只是要创建一个健康检查端点，然后在我的 React 应用程序的入口点级别只有一个 API 调用，如果我们从例如，API 根本就不是“ok”。但这引起了人们的担忧，即潜在的自我诱导 DDOS 攻击。我们有数百名客户。如果我将此 API 调用设置为 30 秒的间隔，这意味着每 30 秒我们可能会看到对同一端点的数千次调用。 因此，我进一步研究了它。服务器端事件。如果 API 发生问题，我可以设置一个端点，该端点将发出前端将侦听的警报。如果它听到“ok”以外的任何声音，它会将用户路由到错误页面。 还研究了 WebSockets，但这对于健康检查来说似乎需要大量工作。此外，连接始终是开放的并且是双向的，因此安全问题可能是这里的一个问题。不确定，没有深入研究过 WebSockets。 但后来我在脑海中想，如果服务器宕机并且这些端点无法进行这些调用，会发生什么情况。  然后我认为制作一个 ping API 的微服务可能是值得的，如果我们没有从 ping 中得到响应，我们会向前端发送警报。但这是另一项必须管理的服务。 那么我这里有什么选择呢？这是一个多租户应用程序。因此，我们所有的用户本质上都将使用相同的客户端。我需要避免任何潜在的 DDOS。 我们是一个由 2 名开发人员组成的小团队。我们还有另一位更高级的开发人员，但他不是 Web 开发人员。基本上我们边走边学。我们让一切顺利进行。所以我的任务是弄清楚这一部分。   由   提交/u/mister_peachmango  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cinkbs/how_do_you_monitor_api_health_status/</guid>
-      <pubDate>Thu, 02 May 2024 18:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Google Sheets 与 Resend 和 Next.js 14+ 免费处理您的候补名单注册</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cinh21/use_google_sheets_with_resend_and_nextjs_14_to/</link>
-      <description><![CDATA[我最近研究了各种等候名单捕获表格，并找到了处理此问题的最佳免费解决方案，即使用最新的重新发送（发送电子邮件）的谷歌表格使用服务器操作的 Next.js 版本。 只是想分享一些关于如何自己完成的教程存储库： https://github.com/lorenzejay/nextjs-gsheets-resend    由   提交/u/techsparrowlionpie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cinh21/use_google_sheets_with_resend_and_nextjs_14_to/</guid>
-      <pubDate>Thu, 02 May 2024 18:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端和后端验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cindcv/frontend_and_backend_validation/</link>
-      <description><![CDATA[大家能列出一下在 javascript 中验证输入的方法吗？假设您的网站中有多个表单，并且您想要对每个表单进行实时验证当用户提交表单时，他们提交的所有内容都已经验证，但填写电子邮件等字段也会触发对数据库的后端调用，以检查该电子邮件是否已经存在，你该怎么做？我是菜鸟，愿意学习实现此验证的明智方法：D ofc 最后，当数据库中不存在电子邮件时，也许我们使用验证类来验证沿表单提交的每个输入字段   由   提交 /u/Legitimate-Guest7269    reddit.com/r/webdev/comments/1cindcv/frontend_and_backend_validation/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cindcv/frontend_and_backend_validation/</guid>
-      <pubDate>Thu, 02 May 2024 18:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找楼层地图库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cin3pm/looking_for_a_floormap_library/</link>
-      <description><![CDATA[大家好 我的传入项目需要允许用户与 2D 地图交互。该地图是贸易展览平面图，因此用户必须能够在整个地图上缩放和平移，并且还能够单击某些区域（各个展台）。单击后，我将在顶部加载另一个界面，但这很简单。 因此我正在寻找的库应提供以下内容：  加载 svg/png并允许“绘制”区域（并命名/标识它们）在顶部并保存这些区域以供将来加载。我们称此为编辑模式。我可以“画画”该区域位于矢量图像编辑器上，但我希望能够在应用程序上进行快速编辑。 加载地图以及顶部的区域，并允许缩放和缩放。平移地图，然后允许单击各个区域（我不需要选择多个区域或类似的区域）。  它们可能是 2 个不同的库，它们可能是高级库库，这不是问题。 如果没有想到，您将如何处理这个项目？ 感谢您提前提出的建议。    由   提交/u/DarthCoderMx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cin3pm/looking_for_a_floormap_library/</guid>
-      <pubDate>Thu, 02 May 2024 18:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果用一种更强大/更高效的语言 (请阅读文章正文了解解释) 取代 JavaScript，那么 Web 开发会有多大的改进？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cifwxt/how_much_of_an_improvement_would_there_be_to_web/</link>
-      <description><![CDATA[Web 开发（至少在客户端）由 3 个主要支柱组成：HTML、CSS 和 JavaScript。我的好奇心在于，如果我们用一种新语言取代 JavaScript，这种新语言考虑到了当今开发的现代性，将会带来什么样的好处（或缺乏好处）（考虑到所有因素，让我们先把事情放在一边）例如向后兼容性等），就像 Go 与 C 的相似之处（当然，并不完美，但希望你明白我的意思），但它擅长创建 API，并拥有强大的 stdlib。 无论如何，我都不是语言设计方面的专家，但即使是像我这样的人也知道，有很多语言不仅比 JavaScript 更快，而且更有用（取决于你在做什么） ）。例如，就 API 而言，Go 在几乎所有指标上都击败了 JavaScript，而且最重要的是，Go 有 Goroutines。 我并不是说 JavaScript/TypeScript（本质上是同样的事情，我知道）必须被移除，或者应该被烧死在火刑柱上。我只是好奇如果 JavaScript 被一种全新的、更强大的语言取代，或者如果有第四种语言（在HTML、CSS 和 JS）几乎可以完成 JS 所做的所有事情，但速度更快，能够并行 + 并发等。   由   提交/u/YonghaeCho  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cifwxt/how_much_of_an_improvement_would_there_be_to_web/</guid>
-      <pubDate>Thu, 02 May 2024 13:38:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
