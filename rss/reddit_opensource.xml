@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 May 2024 18:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:11:21 GMT</lastBuildDate>
+    <item>
+      <title>一国对数字主权的追求</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
+      <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
+    </item>
     <item>
       <title>设计师愿意贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是一个快速的发泄</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjau8n/just_a_quick_vent/</link>
-      <description><![CDATA[  由    /u/iordanos877  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjau8n/just_a_quick_vent/</guid>
-      <pubDate>Fri, 03 May 2024 15:01:28 GMT</pubDate>
     </item>
     <item>
       <title>微软开发者博客搜索工具</title>
@@ -64,7 +64,7 @@
     <item>
       <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
-      <description><![CDATA[编辑：标题有误。我主要在寻找专门用于 Facebook Messenger 的包装器。 尝试了 Frost，但它对我不起作用。在我尝试登录后它崩溃了。我四处寻找替代方案，但目前一无所获。希望有人能启发我。    提交人    /u/HiroCode   [link] [评论]]]></description>
+      <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
       <pubDate>Thu, 02 May 2024 16:27:58 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Thu, 02 May 2024 13:11:12 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟委员会近期公布了《网络弹性法案》相关标准要求的公开草案，首次明确要求尊重开源开发者和用户的需求。</title>
+      <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
       <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>开发人员害怕使用 GPL 许可证，因为其宽松性较低</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</link>
-      <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不太“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
+      <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不那么“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</guid>
       <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
     </item>

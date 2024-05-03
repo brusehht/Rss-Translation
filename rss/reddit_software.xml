@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 03 May 2024 18:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 21:10:51 GMT</lastBuildDate>
+    <item>
+      <title>文件传输软件可以在电脑重启后暂停并恢复传输吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1cjhd10/file_transfer_software_that_can_be_paused_and/</link>
+      <description><![CDATA[你好！ 这是我的情况 - 早在 2018-2019 年，我有一台旧计算机，上面有一些相当长视频（每个视频长达几个小时，文件大小为千兆字节）。我已经升级到一台新计算机，并将旧硬盘放入新硬盘中，这样我的文件就会被保留。 视频被保留，但很多都非常滞后，几乎无法观看。我被告知这可能是因为我的旧硬盘速度很慢并且难以读取文件。情况很可能是这样，因为我设法将其中一个视频从旧 HDD 传输到新 SSD，并且该视频工作正常。 所以现在，问题是：我正在尝试传输将视频从我的 HDD 转移到 SSD，但该过程非常慢（可能是因为它仍在尝试从 HDD 读取文件）。一个文件实际上需要几天的时间才能被继承，而且我真的不能让我的电脑连续几天开着。最好的选择是，我可以在电脑开启时让文件传输，在必须关闭电脑时暂停传输，然后在回到电脑时恢复传输。 最接近我的想法是将视频上传到 YouTube 并迫使 YouTube 认为我的上传被中断 - 如果我在上传过程中突然关闭浏览器，YouTube 将保存视频上传的进度并记住我离开的位置关闭约 24 小时，这意味着我基本上可以“暂停”上传。当然，这并不可靠 - 我只成功执行过一次，并且在尝试对其他几个视频执行此操作后 - 每次都会导致“上传失败”视频上传“暂停”时出现错误正如你可以想象的那样，这非常令人沮丧。 我试图寻找一种可以在计算机重新启动后暂停并在第二天恢复的文件传输软件，但我并没有真正找到太多，因为我的问题相当具体，所以我想我会直接向你们询问一些软件建议:)   由   提交 /u/N0rbertas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cjhd10/file_transfer_software_that_can_be_paused_and/</guid>
+      <pubDate>Fri, 03 May 2024 19:54:14 GMT</pubDate>
+    </item>
     <item>
       <title>在 Windows 上快速启用禁用语言</title>
       <link>https://www.reddit.com/r/software/comments/1cjfbn8/quick_enable_disable_languages_on_windows/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>我的剪贴板坏了。</title>
       <link>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</link>
-      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd59f604fe15111aaba7fc8fe    提交人    /u/DJSharp15   [链接] [评论]]]></description>
+      <description><![CDATA[​ https://preview.redd.it/qw2460wov8yc1.png?width=310&amp;format=png&amp;auto=webp&amp;s=829c64017a24d9bbd5 9f604fe15111aaba7fc8fe&lt; /p&gt;   由   提交/u/DJSharp15  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cje2tn/my_clipboard_is_broken/</guid>
       <pubDate>Fri, 03 May 2024 17:16:53 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>剪切、修剪和组合</title>
       <link>https://www.reddit.com/r/software/comments/1cjbedc/cut_trim_combine/</link>
-      <description><![CDATA[大家好，您能推荐一款适用于 Macbook 的简单剪切、修剪和合并软件吗？我们说的是每段 1-2 秒的视频中有数百和数千个剪辑。     提交人    /u/ExistingAd8421   [link] [comments]]]></description>
+      <description><![CDATA[大家好，您能推荐一款适用于 Macbook 的简单剪切、修剪和组合软件吗？我们谈论的是每个 1-2 秒的视频有成百上千次剪辑。    由   提交/u/ExistingAd8421   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjbedc/cut_trim_combine/</guid>
       <pubDate>Fri, 03 May 2024 15:25:02 GMT</pubDate>
     </item>
@@ -71,12 +78,12 @@
     <item>
       <title>为 Windows 系统提供安全远程支持的最佳解决方案是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cja0un/whats_your_best_solution_for_providing_secure/</link>
-      <description><![CDATA[鉴于目前有无数种选择，我很好奇社区对安全地为 Windows 系统提供远程支持的偏好。  您目前为此目的依赖哪些工具或软件？哪些时刻和功能是最重要的？    提交人    /u/Hopeful-Clothes-6896   [link] [评论]]]></description>
+      <description><![CDATA[鉴于有无数的选项，我很好奇社区对安全地向 Windows 系统提供远程支持的偏好。  您目前依靠什么工具或软件来实现此目的？最需要考虑的时刻和功能是什么？   由   提交 /u/Hopeful-Clothes-6896   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cja0un/whats_your_best_solution_for_providing_secure/</guid>
       <pubDate>Fri, 03 May 2024 14:26:57 GMT</pubDate>
     </item>
     <item>
-      <title>寻求 Thunderbird 的替代方案来替代 Exchange 电子邮件帐户</title>
+      <title>为 Exchange 电子邮件帐户寻求 Thunderbird 的替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</link>
       <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>寻找某种模式识别软件</title>
       <link>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</link>
-      <description><![CDATA[我不确定是否存在类似的东西，但基本思路是这样的：我输入一个问题列表和这些问题的尝试答案，以及正确答案的总数。如果有足够的数据，它有望确定正确的答案集。     提交人    /u/Master_Doggo873   [link] [评论]]]></description>
+      <description><![CDATA[我不确定是否存在这样的东西，但基本思想是这样的：我给出一系列问题的输入以及尝试的答案这些问题以及正确答案的总数。如果有足够的数据，它有望确定正确的答案集。    由   提交 /u/Master_Doggo873   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</guid>
       <pubDate>Fri, 03 May 2024 13:38:00 GMT</pubDate>
     </item>
     <item>
       <title>同步远程抄表软件</title>
       <link>https://www.reddit.com/r/software/comments/1cj84gi/software_for_synced_remote_reading/</link>
-      <description><![CDATA[嘿/r/software，对于简短背景：我和我的伙伴正在玩一个游戏，需要你阅读外部漫画才能获得完整的故事体验。通过不和谐的屏幕共享的天真的解决方案，并说当我们每个人完成一页并翻到下一页时，效果还不错，但浏览数十到数百页会有点乏味。 我想要的是一个软件或网络应用程序，本质上只是一个 pdf 查看器，让我们在读完一页时发出信号/按下按钮，然后自动翻转页面。 &lt; p&gt;我感谢任何建议、软件或其他解决方案。   由   提交 /u/RiveliaTheWise   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 /r/software，简短背景：我和我的搭档正在一起玩一个游戏，需要你阅读外部漫画/连环画才能获得完整的故事体验。通过 discord 进行屏幕共享并在我们每个人读完一页后翻到下一页的简单解决方案虽然可以正常工作，但翻阅几十到几百页就有点乏味了。 我想要的是一个本质上只是一个 pdf 查看器的软件或网络应用程序，当我们读完一页时，它让我们每个人发出信号/按下一个按钮，然后自动翻页。 我很感激任何建议、软件或其他解决方案。    提交人    /u/RiveliaTheWise   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj84gi/software_for_synced_remote_reading/</guid>
       <pubDate>Fri, 03 May 2024 13:01:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好！ 我基本上想从公共 subreddits 中批量下载图片，并找到了这个 RMD 并且在运行预构建版本二进制文件后，我无法授予它对我的 reddit 帐户的读取权限...我如何在 reddit 上对其进行身份验证...？还有其他我可以使用的软件吗？  thnx   由   提交/u/Wandering_Astroid937   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj77rp/troubles_with_reddit_media_downloader/</guid>
       <pubDate>Fri, 03 May 2024 12:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌驱动器上的菜鸟问题</title>
-      <link>https://www.reddit.com/r/software/comments/1cj39rg/noob_question_on_google_drive/</link>
-      <description><![CDATA[桌面版 Google 云端硬盘无法与 Android 手机上的应用同步，为什么？有人可以向像我这样生活在石器时代的贫穷会计师解释一下我们如何同步两个设备上的谷歌驱动器，以确保桌面上的所有文件在电脑和手机的谷歌驱动器上同步吗？谢谢，我变得愚蠢了   由   提交/u/matteo5477  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cj39rg/noob_question_on_google_drive/</guid>
-      <pubDate>Fri, 03 May 2024 08:05:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
