@@ -4,9 +4,37 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 04 May 2024 18:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:11:36 GMT</lastBuildDate>
     <item>
-      <title>吱吱语义文本</title>
+      <title>我从未有过的 Git 指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckafi5/the_guide_to_git_i_never_had/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckafi5/the_guide_to_git_i_never_had/</guid>
+      <pubDate>Sat, 04 May 2024 21:01:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在应用程序开发中使用记事本的艺术</title>
+      <link>https://www.reddit.com/r/programming/comments/1ck9l3p/the_art_of_using_notepad_in_app_development/</link>
+      <description><![CDATA[ 由   提交 /u/meandunotsodiff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ck9l3p/the_art_of_using_notepad_in_app_development/</guid>
+      <pubDate>Sat, 04 May 2024 20:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>用图片简单解释回溯</title>
+      <link>https://www.reddit.com/r/programming/comments/1ck8z9h/backtracking_explained_simply_with_visuals/</link>
+      <description><![CDATA[我正在尝试这些口袋大小的博客文章解释，它们具有漂亮的视觉效果/图表。   由   提交/u/with_mocha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ck8z9h/backtracking_explained_simply_with_visuals/</guid>
+      <pubDate>Sat, 04 May 2024 19:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个工具来跟踪 curl | shell 的脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1ck7imw/made_a_tool_to_track_scripts_that_curl_shell/</link>
+      <description><![CDATA[  由    /u/boxstripe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ck7imw/made_a_tool_to_track_scripts_that_curl_shell/</guid>
+      <pubDate>Sat, 04 May 2024 18:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squeak-语义文本</title>
       <link>https://www.reddit.com/r/programming/comments/1ck68qg/squeaksemantictext/</link>
       <description><![CDATA[ 由   提交/u/itsmeront  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck68qg/squeaksemantictext/</guid>
@@ -29,7 +57,7 @@
     <item>
       <title>PDF 中非 JavaScript 的浏览器安全漏洞</title>
       <link>https://www.reddit.com/r/programming/comments/1ck53yx/browser_security_bugs_that_arent_javascript_in_pdf/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck53yx/browser_security_bugs_that_arent_javascript_in_pdf/</guid>
       <pubDate>Sat, 04 May 2024 17:05:19 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>PlutoBook：分页 HTML 渲染库</title>
       <link>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</link>
-      <description><![CDATA[ 由   提交 /u/SamNwutobo   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/SamNwutobo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</guid>
       <pubDate>Sat, 04 May 2024 16:10:29 GMT</pubDate>
     </item>
@@ -69,13 +97,6 @@
       <pubDate>Sat, 04 May 2024 14:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>作为软件工程师如何提高工作效率（这不是您所期望的）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ck1gdu/how_to_be_more_productive_as_a_software_engineer/</link>
-      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ck1gdu/how_to_be_more_productive_as_a_software_engineer/</guid>
-      <pubDate>Sat, 04 May 2024 14:22:15 GMT</pubDate>
-    </item>
-    <item>
       <title>我最初写这篇文章是为了教授树数据结构</title>
       <link>https://www.reddit.com/r/programming/comments/1cjyk9w/i_originally_wrote_this_as_a_short_story_to_teach/</link>
       <description><![CDATA[我正在编写的系列中的最新章节。但忽略任何所谓的“女孩”的提及，它是完全独立的。 事实上，这是我写的第一件事。 我当时在 Google 工作，所以你可以猜出灵感。 如果它对即将到来的面试或测试的任何人有帮助，我会很高兴。   由   提交/u/aneffingonion  [链接] [评论]]]></description>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Latter-Dust8587  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cjy6xk/css_multiple_animations_complete_guide/</guid>
       <pubDate>Sat, 04 May 2024 11:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 贡献图没有意义！</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjxr9p/github_contributions_graph_doesnt_make_sense/</link>
-      <description><![CDATA[  由    /u/Akmandev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjxr9p/github_contributions_graph_doesnt_make_sense/</guid>
-      <pubDate>Sat, 04 May 2024 11:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Astro 和 Tailwind CSS 制作了一堆免费开源模板，供任何人使用</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjw8se/i_made_a_bunch_of_free_and_open_source_templates/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjw8se/i_made_a_bunch_of_free_and_open_source_templates/</guid>
-      <pubDate>Sat, 04 May 2024 09:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>石化</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjw4jg/bilithification/</link>
-      <description><![CDATA[ 由   提交/u/genericemon24  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjw4jg/bilithification/</guid>
-      <pubDate>Sat, 04 May 2024 09:10:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
