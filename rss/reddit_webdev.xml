@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 04 May 2024 09:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 12:19:17 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare Pages、Netflix、Vercel（免费套餐问题）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjyob5/cloudflare_pages_vs_netflix_vs_vercel_free_tiers/</link>
+      <description><![CDATA[有人能给我解释一下为什么 Cloudflare Pages 免费套餐允许无限流量，而 Netflix 和 Vercel 不允许？我知道 Cloudflare Pages 仅支持静态网站，但为什么 Netflix 和 Vercel 不也为静态网站提供无限流量？  我可能会很困惑，胡言乱语，所以请放轻松，因为我的技能不会超出前端。   由   提交/u/Commander_of_Death   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjyob5/cloudflare_pages_vs_netflix_vs_vercel_free_tiers/</guid>
+      <pubDate>Sat, 04 May 2024 12:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>过去一周根据我的网址缩短网站的反馈进行的更新</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjylj1/updates_in_the_past_week_from_feedback_on_my_url/</link>
+      <description><![CDATA[大家好， 上周六展示我发布了我的网址缩短器 Novu.Link 并得到了很多反馈！以下是我在过去一周设法解决的问题：  垃圾邮件发送者创建指向恶意目标的链接的安全和滥用 我添加了目标抓取以检查恶意网站 我添加了必需的电子邮件或电话验证 我添加了可疑电子邮件域黑名单  没有重定向失败的警告  &lt; li&gt;我添加了对目的地的正常运行时间监控 自动通知 - 如果您的链接停止工作，您会收到一封电子邮件 视觉“立即修复”不再返回良好状态代码的目的地上的按钮  没有 API 访问权限  我通过个人 API 令牌添加了完整的 API 访问权限（即使在免费层） 我编写了一个 Postman 集合  机器人点击计数 添加了机器人检测并将其从统计分析中删除数据  品牌宣传不够 添加了相关图形 添加了针对特定行业的登陆页面 已添加单独的功能和定价页面  图表不够 添加了新的细分数据图表 添加了最后 30 分钟的进度图表 添加了之前时间段的比较值 我还重写了分析的获取方式，以便当您的链接点击次数超过 10k 时其速度明显加快   不清楚 QR 码是否可点击来复制缩短的 URL 或下载代码  添加了微动画，希望传达 QR 码可点击  烦人的电子邮件 删除了所有烦人的电子邮件（旧版本的遗留物）   我还添加了一些 30 个单元+功能测试后端覆盖率达到80%左右。前端已经被单元、功能、视觉和 e2e 测试广泛覆盖。 有关 Novu.Link 的更多反馈 欢迎！正如你所看到的，我尝试认真地解决这个问题。   由   提交/u/mwargan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjylj1/updates_in_the_past_week_from_feedback_on_my_url/</guid>
+      <pubDate>Sat, 04 May 2024 11:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么每个人都在出售/购买样板？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjxukl/why_is_everyone_sellingbuying_boilerplates/</link>
+      <description><![CDATA[这是一个真正的问题。我们看到越来越多的各种语言的样板，由一些开发影响者（或想要成为的人）出售。 任何专业开发人员都知道他们的堆栈是根据其产品的要求不断变化的东西。因此，无论它多么通用，都很难将其作为对任何问题的解决方案来推销。另外，它需要大量的维护，无论是重构，还是更重要的错误和安全修复。 当然，我们在大多数产品中都发现了一些常见的东西：身份验证、支付等。但也有库和框架来处理这个问题。 最后，当你开始一份新工作时，加入别人编写的代码库通常已经很痛苦了，所以为什么要购买别人编写的代码否则，这通常质量很差？   由   提交/u/c100k_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjxukl/why_is_everyone_sellingbuying_boilerplates/</guid>
+      <pubDate>Sat, 04 May 2024 11:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地不存在带有标签的图像：digitalsplendid/my-flask-app</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjxfr5/an_image_does_not_exist_locally_with_the_tag/</link>
+      <description><![CDATA[      https://preview.redd.it/i18fayfj2eyc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=5371d86c0d 7c279f073d9a4d7b7486f983fabf5c  https://preview.redd .it/tti99d2n2eyc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=72e6d26fa860f92ce5a5c7d3179e8bb16bf5cf38 据我了解，digitalsplendid 是 Dockerhub 用户名。创建的映像名称是 my-flask-app。 但是 docker Push 命令在运行时给出以下错误消息： finance/ $ docker push digitalsplendid/my-flask-app&lt; /p&gt; 本地不存在带有标签的图像：digitalsplendid/my-flask-app   由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjxfr5/an_image_does_not_exist_locally_with_the_tag/</guid>
+      <pubDate>Sat, 04 May 2024 10:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立餐厅网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjwzce/building_restaurant_website/</link>
+      <description><![CDATA[所以我想为一位拥有百吉饼餐厅的朋友制作一个网站。我有知识和一切，但我从未建立过网站，所以我想这样做以获得一些经验。这没什么大不了的，所以不要告诉我这工作量太大了，或者我应该用 wix 来完成。你有什么我应该注意的提示或类似的东西吗？   由   提交 /u/Kulgejm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjwzce/building_restaurant_website/</guid>
+      <pubDate>Sat, 04 May 2024 10:12:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望在项目文档中看到什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjwu5z/what_do_you_like_to_see_in_project_documentation/</link>
+      <description><![CDATA[在工作中，我现在正在将旧的受诅咒的前端解决方案转移到受诅咒较少的 Vue 应用程序。作为这个感动的一部分，我也在记录一些事情。到目前为止，我们已经了解了哪些库依赖项、它们的用途等等。 您希望在您参与的项目中看到什么？您认为哪些文档是必不可少的？   由   提交 /u/zerthz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjwu5z/what_do_you_like_to_see_in_project_documentation/</guid>
+      <pubDate>Sat, 04 May 2024 10:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>2013 年出版的 Sass 书籍是否仍然有用/相关？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cjw972/will_a_2013_sass_book_still_be_useful_relevant/</link>
+      <description><![CDATA[我更像是一名设计师，但最近重新熟悉了前端开发（我以前做过很多这样的事情）  我很惊喜地在我的床下偶然发现了一本“A Book Apart”的《Sass for Web Designers》，我完全忘记了我曾经买过它（并且从未读过它）。  p&gt; 所以我在完美的时间找到了它......但我想知道 11 年后它会有多大的相关性？ 从那时起，Sass 和所使用的工具发生了很大的变化设置它？   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cjw972/will_a_2013_sass_book_still_be_useful_relevant/</guid>
+      <pubDate>Sat, 04 May 2024 09:19:57 GMT</pubDate>
+    </item>
     <item>
       <title>我用 Astro 和 Tailwind CSS 制作了一堆免费开源模板供任何人使用</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjvomv/i_made_a_bunch_of_free_and_open_source_templates/</link>
@@ -15,14 +64,14 @@
     <item>
       <title>WordPress 的云备份和插件回滚</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjvlf9/cloud_backups_plugin_rollbacks_for_wordpress/</link>
-      <description><![CDATA[嗨， 我最近构建了一个 SaaS，用于管理 WordPress 云备份、即时插件回滚和一键恢复。  与其他解决方案不同，这个解决方案不使用插件，全部通过 SSH/SFTP 完成。  让我知道您的想法：https://superwp.io/ 谢谢！    由   提交 /u/Morolord   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我最近构建了一个 SaaS，用于管理 WordPress 云备份、即时插件回滚和一键恢复。  与其他解决方案不同，这个解决方案不使用插件，全部通过 SSH/SFTP 完成。  让我知道你的想法：https://superwp.io/ 谢谢！    提交人    /u/Morolord   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjvlf9/cloud_backups_plugin_rollbacks_for_wordpress/</guid>
       <pubDate>Sat, 04 May 2024 08:31:21 GMT</pubDate>
     </item>
     <item>
       <title>Dockerfile 使用</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjvkrn/dockerfile_usage/</link>
-      <description><![CDATA[如果您正在编写要在 CI/CD 管道中执行的 Dockerfile（设置 -&gt; 构建 -&gt; 分析 -&gt; 构建容器-&gt; 部署），您更喜欢单独安装依赖项并构建应用程序，还是重用先前构建作业中的工件？对我来说，后者似乎是显而易见的，但到目前为止我只见过前一种方法。   由   提交 /u/untakenusrnm   [链接] [评论]]]></description>
+      <description><![CDATA[如果您正在编写要在 CI/CD 管道中执行的 Dockerfile（设置 -&gt; 构建 -&gt; 分析 -&gt; 构建容器） -&gt; 部署），您更喜欢单独安装依赖项并构建应用程序，还是重用先前构建作业中的工件？对我来说，后者似乎是显而易见的，但到目前为止我只见过前一种方法。   由   提交 /u/untakenusrnm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjvkrn/dockerfile_usage/</guid>
       <pubDate>Sat, 04 May 2024 08:30:08 GMT</pubDate>
     </item>
@@ -36,14 +85,14 @@
     <item>
       <title>我使用 AI 制作了一个 Fantasy 名称生成器</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjve27/i_made_a_fantasy_name_generator_using_ai/</link>
-      <description><![CDATA[大家好！我最近构建了一个使用 Claude AI 的 Fantasy 名称生成器： https://andreacerasoni.com/tool/generator/fantasy-name&lt; /a&gt; 该工具免费提供，我希望其他作家、D&amp;D 玩家、世界构建者和白日梦想家可能会发现它很有用！ 现在可用的选项分别是精灵、龙、人类、矮人和妖精，但我计划在未来添加更多。如果您正在努力命名一个不太知名的幻想种族中的角色，请告诉我，我会考虑将其添加到该工具中。 对于那些对技术方面感兴趣的人，您可以查看在我最近的博客文章中，我讨论了如何大规模推广 Claude AI、如何在网站上提供该工具等等：https://andreacerasoni.com/blog/ai-fantasy-name-generator   由   提交/u/andreacerasoni   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我最近构建了一个使用 Claude AI 的幻想名称生成器：https://andreacerasoni.com/tool/generator/fantasy-name 该工具可免费使用，我希望同行作家、D&amp;D 玩家、世界建造者和梦想家会发现它很有用！ 目前可用的选项有精灵、龙、人类、矮人和仙女，但我计划在未来添加更多。如果您正在努力为一个鲜为人知的幻想种族的角色命名，请告诉我，我会考虑将其添加到工具中。 对于那些对技术方面感兴趣的人，您可以查看我最近的博客文章，我在其中讨论了如何大规模提示 Claude AI，如何在网站上提供该工具等等：https://andreacerasoni.com/blog/ai-fantasy-name-generator    提交人    /u/andreacerasoni   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjve27/i_made_a_fantasy_name_generator_using_ai/</guid>
       <pubDate>Sat, 04 May 2024 08:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 的 DNS 问题可能会改变注册商</title>
+      <title>Cloudflare 出现 DNS 问题，希望更换注册商</title>
       <link>https://www.reddit.com/r/webdev/comments/1cjvde4/dns_issues_with_cloudflare_looking_to_possibly/</link>
-      <description><![CDATA[我正在考虑离开 cloudflare，因为他们的 DNS 给我带来了一些问题，或者在自托管大文件传输和其他一些托管服务方面出现了一些问题或速度下降。只是不好好对待他们的 DNS。在我的办公室，我正在运行类似的自托管产品，并从 Cloudflare 切换到 namecheap 域名和 dns，这真的很棒，但我想确保在花自己的钱之前我会选择最好的选择。我认为 Cloudflare 唯一让我怀念的是低廉的域名价格和免费的机器人拦截。   由   提交/u/Squanchy2112   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑离开 cloudflare，因为他们的 DNS 给我带来了一些问题，或者在自托管大文件传输和其他一些托管服务方面出现了一些问题或速度下降。只是不好好对待他们的 DNS。在我的办公室，我正在运行类似的自托管产品，并从 Cloudflare 切换到 namecheap 域名和 dns，这真的很棒，但我想确保在我花自己的钱之前我会选择最好的选择。我认为 Cloudflare 唯一让我怀念的是低廉的域名价格和免费的机器人拦截。   由   提交/u/Squanchy2112   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjvde4/dns_issues_with_cloudflare_looking_to_possibly/</guid>
       <pubDate>Sat, 04 May 2024 08:15:42 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[您寻找优质客户的策略是什么？ 您如何说服他们向您购买？，    提交人    /u/xxxpandoraxxx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cjv31c/how_do_you_land_quality_clients/</guid>
       <pubDate>Sat, 04 May 2024 07:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>采用网络组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjuyqb/webcomponents_adoption/</link>
-      <description><![CDATA[昨天，我们在 WCCG​​ 中讨论了采用 webcomponent 的主要障碍。我有自己的基于 webcomponent 的框架 (AventusJs)，我想知道您缺少什么以及是什么阻碍了您使用 webcomponents。 我可以比常规更快地将其集成到 AventusJs 中。这将提供一个如何解决主要阻塞元素的示例。    提交人    /u/max529   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjuyqb/webcomponents_adoption/</guid>
-      <pubDate>Sat, 04 May 2024 07:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个英雄页面如何运作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjuu9p/how_does_this_hero_page_work/</link>
-      <description><![CDATA[   https ://www.adhamdannaway.com/ 我正在尝试为我的网站创建一个与此类似的东西。当您加载时，这里有两张图像实际上是全尺寸的，但只显示了一半。然后，当您将鼠标移动到图像的一侧时，图像将水平扩展，填满相反的图像。感谢任何可以帮助解释它的人。   由   提交 /u/AdAffectionate3898   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjuu9p/how_does_this_hero_page_work/</guid>
-      <pubDate>Sat, 04 May 2024 07:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使使用 Python、SQLite 和 Flask 创建的 Web 应用程序与自定义域一起运行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjuhwz/making_a_web_application_created_with_python/</link>
-      <description><![CDATA[我在完成 CS50x 的财务项目时创建了一个 Web 应用程序 (https://cs50.harvard.edu/x/2024/psets/9/finance/），使用 Python、SQLite 和 Flask。我打算添加更多功能并使其与自定义域一起使用。鉴于我有 AWS 信用，AWS 服务建议牢记这一目标以及易用性和成本。   由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjuhwz/making_a_web_application_created_with_python/</guid>
-      <pubDate>Sat, 04 May 2024 07:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 和 Tailwind CSS 的开源组件库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cju8zi/open_source_components_library_for_react_tailwind/</link>
-      <description><![CDATA[大家好！ 我是 Tailframes 的联合创始人 - React 和 Tailwind CSS 的开源组件库，目标是加快您的工作流程。包括复制粘贴界面、CodePen 上的代码片段、UI 组件、登陆页面部分以及即将推出的更多内容。希望你会喜欢它！ Repo：https://github.com/Tailframes/react-components 网站：https://www.tailframes.com 免费 Figma：https://www.figma.com/community/file/1368254181288101112/tailframes-open-source-design-system-react-tailwind 享受！    提交人    /u/BlueberryBig9348   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cju8zi/open_source_components_library_for_react_tailwind/</guid>
-      <pubDate>Sat, 04 May 2024 06:56:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 vanillaJS 库，它允许灵活的表单验证而无需编写额外的代码（大多数情况下，除非需要自定义约束）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cju64g/i_made_vanillajs_lib_that_allows_flexible_form/</link>
-      <description><![CDATA[       由   提交 /u/morphles   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cju64g/i_made_vanillajs_lib_that_allows_flexible_form/</guid>
-      <pubDate>Sat, 04 May 2024 06:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在通过脚本捆绑和引用的 React 应用程序中确定 tailwindcss 的范围。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjtcjq/how_can_i_scope_tailwindcss_in_a_react_app_that/</link>
-      <description><![CDATA[我想开发一个任何人都可以通过 ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjtcjq/how_can_i_scope_tailwindcss_in_a_react_app_that/</guid>
-      <pubDate>Sat, 04 May 2024 05:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docker 和 Amazon Elastic Container Registry (ECR) 之间的区别：Docker 是否优越？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cjrtii/difference_between_docker_and_amazon_elastic/</link>
-      <description><![CDATA[      在 AWS Lightsail 上创建了一个新容器。需要了解是否有两种通过菜单选项部署容器的方法：部署或镜像？ Docker 和 ECR 是竞争产品吗？ Docker 优于 ECR 吗？原因是，如果选择了映像选项，AWS LIghtsail 本身显然强制要求使用 Docker。 此外，当单击“部署”菜单时： “从公共注册表输入映像引用” ，例如 DockerHub。” 所以他们提到的是 DockerHub，而不是他们自己的 ECR！ https://preview.redd.it/qo3mzykh6cyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=09eaf907a8615 0465dd1ed075bd6486ea8adb7b4 https://preview。 redd.it/tmd09tkh6cyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=5e0db1a842ab1b538c20f2a5a7921798030ec009 https://preview.redd.it/72j2qtkh6cyc1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=ea8651567 992be6fe710269e4173ef09f52ec877&lt; /a&gt;   由   提交 /u/DigitalSplendid   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cjrtii/difference_between_docker_and_amazon_elastic/</guid>
-      <pubDate>Sat, 04 May 2024 04:22:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

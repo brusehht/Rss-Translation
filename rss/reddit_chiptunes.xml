@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Sat, 04 May 2024 09:14:00 GMT</lastBuildDate>
+    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Sat, 04 May 2024 12:19:07 GMT</lastBuildDate>
+    <item>
+      <title>🎵 恶魔城 II“血泪”| NES 与 Famicom Remix</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1cjxjun/castlevania_ii_bloody_tears_nes_vs_famicom_remix/</link>
+      <description><![CDATA[    /u/giantassgoddamnsnake   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1cjxjun/castlevania_ii_bloody_tears_nes_vs_famicom_remix/</guid>
+      <pubDate>Sat, 04 May 2024 10:52:05 GMT</pubDate>
+    </item>
     <item>
       <title>Gameboy 芯片调谐器的问题......</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cjqtax/question_for_gameboy_chiptuners/</link>
@@ -13,14 +20,14 @@
       <pubDate>Sat, 04 May 2024 03:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>怀旧故事-我怎能？</title>
+      <title>怀旧故事——我该怎么办？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cjlxu3/nostalgic_story_how_can_i/</link>
       <description><![CDATA[       由   提交/u/NostalgicStory   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cjlxu3/nostalgic_story_how_can_i/</guid>
       <pubDate>Fri, 03 May 2024 23:09:48 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个 GLE -（Fasttracker II）</title>
+      <title>我的第一辆 GLE - (Fasttracker II)</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cj2nd1/my_first_gle_fasttracker_ii/</link>
       <description><![CDATA[      @Dubmood_Music 中我最喜欢的曲子之一，用 MilkyTracker 从头开始​​重新创作。   由   提交/u/Speedvicio  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cj2nd1/my_first_gle_fasttracker_ii/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>FamiTracker 中的草图（仅使用 2A03 芯片，因为我永远无法抗拒 VR6 的 3 个额外通道）。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ciesba/a_sketch_in_famitracker_using_only_the_2a03_chip/</link>
-      <description><![CDATA[        提交者    /u/InnerMotionMusic   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/InnerMotionMusic  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ciesba/a_sketch_in_famitracker_using_only_the_2a03_chip/</guid>
       <pubDate>Thu, 02 May 2024 12:46:52 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>回到未来第三部分 [MS DOS] IBM PC 扬声器上的一些音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cid2eq/back_to_the_future_part_iii_ms_dos_some_music_on/</link>
-      <description><![CDATA[       由    /u/JasperTedTale  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/JasperTedTale  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cid2eq/back_to_the_future_part_iii_ms_dos_some_music_on/</guid>
       <pubDate>Thu, 02 May 2024 11:17:02 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 01 May 2024 22:36:11 GMT</pubDate>
     </item>
     <item>
-      <title>在 Furnace Tracker 中混合和匹配声音芯片？</title>
+      <title>在 Furnace Tracker 中混合并匹配声音芯片？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</link>
       <description><![CDATA[我正在开发一个项目，向《星之卡比》音乐尤其是《梦境》系列致敬。我希望能够将 Gameboy 脉冲和波表通道与一些 snes 示例通道结合使用。通过浏览文档和基本的谷歌搜索，我还没有找到答案，但在我浏览手册的每一页或联系支持人员之前，我想问问你们是否知道如何做到这一点。我的猜测是，由于 Furnace 如此致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于卡比snes游戏总是保留3个声道用于音效，我只会使用5个声道，并且为了更干净的界面，希望消除未使用的声道。有办法做到这一点吗？   由   提交/u/knotalie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Contriver XTD 理解（24 分钟）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chqjsf/contriver_xtd_understanding_24_mins/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/bobthefrog003  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/bobthefrog003   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chqjsf/contriver_xtd_understanding_24_mins/</guid>
       <pubDate>Wed, 01 May 2024 16:33:19 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>GINKO ULTRA 的 Wavehalo 仪式</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</link>
-      <description><![CDATA[      由 GINKO ULTRA 创作/表演/录制     由   提交  /u/GINKO-ULTRA-3000   [链接] [评论] ]]></description>
+      <description><![CDATA[      作曲/演奏/录制：GINKO ULTRA    由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</guid>
       <pubDate>Wed, 01 May 2024 15:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Atari 8 位] 围绕 St. Germain 的“So Fute”创作的芯片音乐</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</link>
-      <description><![CDATA[       由   提交/u/makarybrauner  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</guid>
-      <pubDate>Wed, 01 May 2024 11:16:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

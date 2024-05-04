@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 04 May 2024 09:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 12:19:22 GMT</lastBuildDate>
+    <item>
+      <title>Immich 核心团队即将加入 Grayjay 的制作者 FUTO</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cjy6l4/immich_core_team_is_joining_futo_the_makers_of/</link>
+      <description><![CDATA[ 由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cjy6l4/immich_core_team_is_joining_futo_the_makers_of/</guid>
+      <pubDate>Sat, 04 May 2024 11:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共文档 OSS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
+      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
+      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将我的气象站连接到气象站网络以共享天气数据？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cjx5m9/how_do_i_connect_my_meteo_station_to_the_network/</link>
+      <description><![CDATA[我住的地方似乎没有气象站，天气数据总是由距此 50 公里的最近的大城市错误推断而来。 是否有任何 API 或某种东西可以让我上传数据以便获得（希望）更好的预报？    提交人    /u/NatSpaghettiAgency   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cjx5m9/how_do_i_connect_my_meteo_station_to_the_network/</guid>
+      <pubDate>Sat, 04 May 2024 10:25:24 GMT</pubDate>
+    </item>
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
@@ -48,7 +69,7 @@
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我发现了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
+      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
       <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
@@ -76,39 +97,18 @@
       <pubDate>Thu, 02 May 2024 13:11:12 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟委员会近期公布了《网络弹性法案》相关标准要求的公开草案，首次明确要求尊重开源开发者和用户的需求。</title>
+      <title>欧盟委员会最近发布了与《网络弹性法案》相关的标准请求的公开草案。第一次明确要求尊重开源开发人员和用户的需求。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</link>
-      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cie98e/the_european_commission_recently_published_a/</guid>
       <pubDate>Thu, 02 May 2024 12:20:01 GMT</pubDate>
     </item>
     <item>
-      <title>goralim - 一个用于处理分布式工作负载的简单速率限制器包</title>
+      <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
       <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员害怕使用 GPL 许可证，因为其宽松性较低</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</link>
-      <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不那么“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</guid>
-      <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Guix 的发泄</title>
-      <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
-      <description><![CDATA[从我的一次性帐户发帖，因为之前已经说过这一点，但我想再说一遍：Guix 可能是最好的 Linux 发行版，如果不是的话如此专注于 GNU 正统观念。 “最佳”是主观的，但我的意思是使用 Guile “一路向下”并访问其所有很酷的功能（同像性）来配置您的整体操作系统。 Nix 对专有软件有更好的方法，默认情况下选择退出，但在需要时允许您选择加入。但它由于是一种特定于领域的语言而受到阻碍。如果 Guix 真的接管了，这对每个人来说都是件好事，但要做到这一点，它必须是实用的。是的，这是 Reddit 的开源子版块，我认为推广开源的最佳方式就是将其发布出去，即使它不是“纯粹的”。是的，有 nonguix，但据我所知，它维护得不是很好。编辑补充说，GPL 还禁止 Guix 的非自由分支，这很烦人。要制作一个基于 Nix 原则的基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。 编辑：我读到，nonguix 在某个 ycombinator 帖子上没有得到很好的维护，并用它运行。请随意投反对票，无论如何，这正是我所期待的。    由   提交 /u/flaming0sis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</guid>
-      <pubDate>Wed, 01 May 2024 19:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持开源代码的两个（新的？）论点</title>
-      <link>https://www.reddit.com/r/opensource/comments/1chu2l9/two_new_arguments_in_favor_of_open_source_code/</link>
-      <description><![CDATA[ 在商业环境之外开发的代码可以在较小的时间压力下创建，并且可能源自“神圣灵感”。或“尤里卡时刻”。这样的代码更有可能比在时间压力下在单调的小隔间中创建的代码具有更高的质量，该代码只需要“足够好”即可。 （“它编译了，发布它！”）。商业代码通常更具有经济意义，购买两倍速度的计算机，而不是将代码优化为两倍速度，而开源代码通常只关心没有严格时间限制的改进。  开源通常具有“竞争力”。因为它是公开的，所以更多的人，包括局外人和陌生人，可以贡献改进，以获得朋友和同行的恶名/善意。示例：想象一下，参加 Linux 内核开发工作并能够说您已经在内核中拥有代码。  只是我的两个字节。   由   提交 /u/Joonicks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1chu2l9/two_new_arguments_in_favor_of_open_source_code/</guid>
-      <pubDate>Wed, 01 May 2024 18:55:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
