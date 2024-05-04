@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 May 2024 21:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 00:51:08 GMT</lastBuildDate>
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
@@ -71,7 +71,7 @@
     <item>
       <title>您对 WordPress 或同等 CMS 有何看法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cijn3r/what_is_you_opinion_on_wordpress_or_equivalent_cms/</link>
-      <description><![CDATA[我直截了当地说，一年前，我和我的同事正在进行的一个项目需要一个快速网站。在这种情况下我会使用 WordPress。问题是，每次使用它时我都感到非常沮丧，速度、兼容性、混乱的仪表板等都让我感到沮丧。我决定创建自己的 CMS，它与 WP 类似，但又不太相似。您会使用具有以下功能的 WordPress 替代品吗？ 1. 主题 2. 插件 3. 页面编辑器 4. 主题编辑器 基本上是普通 WordPress 所具有的一切，但更快、更干净、更简单。 如果如果您想测试一下并给我您诚实的反馈，这将非常有帮助！ 这里有一个链接，您可以查看：GitHub Discord 可以找到有用的快速指南此处： Instagram &lt;!-- SC_ON - -&gt;  由   提交/u/crkvaaa_16   [链接] [评论]]]></description>
+      <description><![CDATA[我直说吧，一年前，我和我的同事正在做一个项目，我需要一个快速网站。在那种情况下，我会使用 WordPress。问题是，每次使用它时我都非常沮丧，速度、兼容性、混乱的仪表板等都让我很沮丧。我决定创建自己的 CMS，它与 WP 类似，但又不是太相似。您是否会使用具有以下功能的 WordPress 替代方案：1. 主题 2. 插件 3. 页面编辑器 4. 主题编辑器 基本上具有原始 WordPress 的所有功能，但速度更快、更干净、更简单。 如果您想测试它并给我您的诚实反馈，那将非常有帮助！ 这里有一个链接，您可以查看：GitHub Discord 有用的快速指南可以在这里找到： Instagram    提交人    /u/crkvaaa_16   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cijn3r/what_is_you_opinion_on_wordpress_or_equivalent_cms/</guid>
       <pubDate>Thu, 02 May 2024 16:12:42 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>goralim - Go 的一个非常简单的速率限制器包，用于处理分布式工作负载</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</link>
-      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包在 hackernews 上连续流行了 22 个小时。我尝试使用 Token Bucket 算法制作一个简单的速率限制器（Stripe 使用此算法），结果非常好。非常感谢您的星级和反馈。  https://github.com/0verread/goralim/    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
+      <description><![CDATA[我用 Golang 编写了一个速率限制器包，该包连续 22 小时成为黑客新闻的热门话题。我尝试使用令牌桶算法（Stripe 使用此算法）制作一个简单的速率限制器，结果非常好。星星和反馈将不胜感激。  https://github.com/0verread/goralim/    由   提交/​​u/ElegantGoose9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci74ib/goralim_a_dead_simple_rate_limiter_package_for_go/</guid>
       <pubDate>Thu, 02 May 2024 04:50:05 GMT</pubDate>
     </item>
     <item>
       <title>开发人员害怕使用 GPL 许可证，因为其宽松性较低</title>
       <link>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</link>
-      <description><![CDATA[为什么大多数 GitHub 存储库都是在 MIT 的宽松许可证下获得许可的。我是否遗漏了一些东西，或者说宽松的许可证相对于 GPL 几乎没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，并且通过宽松的许可他们认为它不那么“免费”。 当有人在 MIT、BSD 或 Apache 下许可他们的代码时，很明显甚至自我声明他无意从代码中赚钱，而是为了帮助他人并帮助自由软件开源者。那么为什么不限制该软件仅供开源者使用。   由   提交/u/Unfair_Chocolate_307   [链接] [评论]]]></description>
+      <description><![CDATA[为什么大多数 GitHub repos 都采用 MIT 等宽松许可证。是我遗漏了什么，还是说宽松许可证与 GPL 相比没有任何优势？ 我得出的结论是，开发人员认为 GPL 会使他们的软件/源代码不那么受欢迎，因为它不是宽松的，而他们认为宽松的“自由”程度较低。 当有人根据 MIT、BSD 或 Apache 许可他们的代码时，很明显，甚至是自我声明，他无意从代码中赚钱，而是帮助他人和帮助自由软件开源者。那么为什么不限制软件的使用，只供开源者使用呢。    提交人    /u/Unfair_Chocolate_307   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ci65rr/developers_are_afraid_to_use_the_gpl_license_for/</guid>
       <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
     </item>
