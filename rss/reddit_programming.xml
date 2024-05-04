@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 04 May 2024 03:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:15:06 GMT</lastBuildDate>
     <item>
-      <title>【小额支付现金】【最低佣金100%】【5分钟保证】【全年365天、每天24小时】</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjosnm/소액결제현금화최저수수료1005분보장24시간연중무휴/</link>
-      <description><![CDATA[ 由   提交/u/j030118  [链接] [评论]&lt; /a&gt;]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjosnm/소액결제현금화최저수수료1005분보장24시간연중무휴/</guid>
-      <pubDate>Sat, 04 May 2024 01:34:14 GMT</pubDate>
+      <title>Emscripten 中的 SDL2 和 WebGPU：初学者指南（第 1 部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1cjtei5/sdl2_and_webgpu_in_emscripten_a_beginners_guide/</link>
+      <description><![CDATA[ 由   提交/u/ultimamanu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cjtei5/sdl2_and_webgpu_in_emscripten_a_beginners_guide/</guid>
+      <pubDate>Sat, 04 May 2024 05:59:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 C++ 轻量级单元测试/模糊测试/日志记录/断言框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1cjt3q2/i_made_a_c_lightweight_unit_testing_fuzzing/</link>
+      <description><![CDATA[ 由   提交/u/sunxfancy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cjt3q2/i_made_a_c_lightweight_unit_testing_fuzzing/</guid>
+      <pubDate>Sat, 04 May 2024 05:40:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在 @ThePrimeTimeagen 自己的游戏中击败他吗？第 1 部分 |公关审查 [12]</title>
+      <link>https://www.reddit.com/r/programming/comments/1cjt0kx/can_i_beat_theprimetimeagen_on_his_own_game_part/</link>
+      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cjt0kx/can_i_beat_theprimetimeagen_on_his_own_game_part/</guid>
+      <pubDate>Sat, 04 May 2024 05:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试期间可视化 C++ 数据结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1cjshr8/visualizing_c_data_structures_during_debugging/</link>
+      <description><![CDATA[ 由   提交/u/sunxfancy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cjshr8/visualizing_c_data_structures_during_debugging/</guid>
+      <pubDate>Sat, 04 May 2024 05:01:35 GMT</pubDate>
     </item>
     <item>
       <title>OSI 模型：了解计算机网络的各层</title>
@@ -20,7 +41,7 @@
       <pubDate>Sat, 04 May 2024 01:30:47 GMT</pubDate>
     </item>
     <item>
-      <title>我是一个十足的菜鸟，所以需要一些帮助</title>
+      <title>我是个菜鸟，所以需要一些帮助</title>
       <link>https://www.reddit.com/r/programming/comments/1cjod03/im_a_complete_noob_so_would_like_some_help/</link>
       <description><![CDATA[嗨，所以我想购买一个小米秤来连接到 Garmin 并使用上面的脚本来执行此操作。但是，对于一个完全的初学者来说，这个脚本是否太复杂而难以设置？  另外我有一台 MacBook Air，我需要安装 Debian 操作系统吗？   由   提交 /u/mostlyhereto_lurk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cjod03/im_a_complete_noob_so_would_like_some_help/</guid>
@@ -43,7 +64,7 @@
     <item>
       <title>Kotlin 真的好吗？ + 身份验证（第 3 天）- 在 30 天内创建 SaaS 初创公司</title>
       <link>https://www.reddit.com/r/programming/comments/1cjn3i0/is_kotlin_actually_good_authentication_day_3/</link>
-      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cjn3i0/is_kotlin_actually_good_authentication_day_3/</guid>
       <pubDate>Sat, 04 May 2024 00:06:26 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ticalvue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cjio5y/happy_60th_birthday_to_basic/</guid>
       <pubDate>Fri, 03 May 2024 20:46:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>BASIC 第 60 周年，三个现代 BASIC 发布了新版本：Small Visual BASIC、Chloe System 和 QB64 Phoenix 均已更新（由我在 Reg 上更新）</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjhgkj/for_basics_60th_three_modern_basics_release_new/</link>
-      <description><![CDATA[ 由   提交/u/lproven  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjhgkj/for_basics_60th_three_modern_basics_release_new/</guid>
-      <pubDate>Fri, 03 May 2024 19:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码挑战：人工智能互相残杀的战场</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjgnf6/coding_challenge_a_battlefield_of_ais_trying_to/</link>
-      <description><![CDATA[ 由   提交/u/kikiokol1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjgnf6/coding_challenge_a_battlefield_of_ais_trying_to/</guid>
-      <pubDate>Fri, 03 May 2024 19:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>狗头人字母</title>
-      <link>https://www.reddit.com/r/programming/comments/1cjgn8g/kobold_letters/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cjgn8g/kobold_letters/</guid>
-      <pubDate>Fri, 03 May 2024 19:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
