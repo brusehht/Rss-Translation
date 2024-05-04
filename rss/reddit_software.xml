@@ -4,18 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 May 2024 00:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 03:13:57 GMT</lastBuildDate>
+    <item>
+      <title>推荐可在 YouTube 上进行直播的纯命令行软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cjpwyl/recommendation_for_commandline_only_software_that/</link>
+      <description><![CDATA[您好，我来找您询问软件推荐的罕见问题。 我想建立一个 24/ 7 直播至 YouTube。我正在尝试在我的 Raspberry Pi 4 上进行设置。该流将是带有设定图像的音频。然而，我能找到的所有流媒体软件都只能在 GUI 环境中运行。这并不是我真正想做的事情，因为它会导致性能大幅下降。那么，是否有任何软件既可以流式传输到 YouTube，又可以在仅命令行服务器上运行？ 或者是否有其他方法可以进行这样的设置？    由   提交/u/Enderbyte09  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cjpwyl/recommendation_for_commandline_only_software_that/</guid>
+      <pubDate>Sat, 04 May 2024 02:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Windows installshield 向导安装 Avid Media Composer 时出现问题？</title>
       <link>https://www.reddit.com/r/software/comments/1cjm2m6/problem_with_windows_installshield_wizard/</link>
-      <description><![CDATA[嗨，我已经尝试了 3 天，从官方网站为 Windows 中的 uni 项目安装 avid media composer，但每当 installshield 向导即将结束安装时，它都会显示类似“恢复操作”的内容，并且进度条会倒退。然后出现一个窗口，显示“安装程序在完成安装之前已停止，您的系统尚未修改。要在其他时间完成安装，请再次执行”我已经尝试了大约 12 次，但就是不起作用。 也许这是因为我第一次尝试安装时速度太慢，我以为它没有工作，所以我只是从任务管理器关闭它并重试？ 我尝试从 avid 安装以前的版本，但发生了相同的错误，还尝试删除我能找到的每个 avid 文件并重试，我重新启动了大约 1000 次。还可以尝试以管理员身份直接从安装文件执行安装（这也会打开 installshield） 系统规格： 处理器； AMD Ryzen 5 5500U，配备 Radeon Graphics 2.10 GHz 安装的 RAM：8,00 GB（可用 7,33 GB） x64 位处理器 Windows：Windows 11 Home    提交人    /u/Longclaw10   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我已经尝试了 3 天从官方网站为 Windows 中的 uni 项目安装 avid mediacomposer，但每当 installshield向导即将结束安装，它会显示“恢复操作”之类的内容，并且进度条向后移动。然后出现一个窗口，显示“安装程序在完成安装之前停止，您的系统尚未修改。”要在其他时间完成安装，请再次执行”我已经尝试了大约 12 次，但它无法正常工作。 也许这与我第一次尝试安装速度太慢有关，我认为它无法正常工作，所以我只是从任务管理器中将其关闭然后再试一次？ 我尝试从 avid 安装以前的版本，但发生了同样的错误，还尝试删除我能找到的每个 avid 文件并重试，然后我重新启动了大约 1000 次。还可以尝试以管理员身份直接从安装文件执行安装（无论如何也会打开 installshield） 系统规格： 处理器； AMD Ryzen 5 5500U，配备 Radeon Graphics 2.10 GHz 安装的内存：8,00 GB（可用 7,33 GB） x64 位处理器 Windows：Windows 11首页   由   提交/u/Longclaw10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjm2m6/problem_with_windows_installshield_wizard/</guid>
       <pubDate>Fri, 03 May 2024 23:16:06 GMT</pubDate>
     </item>
     <item>
       <title>电脑重启后可以暂停和恢复传输的文件传输软件？</title>
       <link>https://www.reddit.com/r/software/comments/1cjhd10/file_transfer_software_that_can_be_paused_and/</link>
-      <description><![CDATA[你好！ 我的情况是这样的 - 早在 2018-2019 年，我有一台旧电脑，上面有一些相当长的视频（每个视频长达几个小时，文件大小以 GB 为单位）。我升级到了一台新电脑，把旧硬盘放在新电脑上，这样我的文件就可以被转移过去了。 视频被转移过去了，但很多视频都非常卡，几乎无法观看。有人告诉我，这可能是因为我的旧硬盘很慢，读取文件有困难。很可能是这种情况，因为我设法将其中一个视频从我的旧硬盘传输到我的新固态硬盘，视频播放得很好。 现在，问题是：我正试图将视频从我的硬盘传输到固态硬盘，但这个过程非常慢（可能是因为它仍在尝试从硬盘读取文件）。单个文件传输需要几天时间，而我又不能连续几天开着电脑。最好的替代方案是，如果我可以在电脑开机时传输文件，在必须关闭电脑时暂停传输，然后在我重新打开电脑时恢复传输。 最接近我的想法是将视频上传到 YouTube，并强制 YouTube 认为我的上传被中断 - 如果我中途突然关闭浏览器，YouTube 将保存视频上传进度并记住我中断的位置约 24 小时，这意味着我基本上可以“暂停”上传。当然，这并不可靠 - 我只成功过一次，在尝试对其他几个视频执行此操作后 - 每次都导致在视频上传“暂停”时出现“上传失败”错误你可以想象，这非常令人沮丧。 我试图寻找一个可以在计算机重启后第二天暂停和恢复的文件传输软件，但我并没有找到太多，因为我的问题相当具体，所以我想我会直接向你们询问一些软件建议 :) 编辑：不能真正回复每个人，但感谢大家的建议。我会考虑修复我的硬盘或某种形式的数据恢复    提交人    /u/N0rbertas   [link] [评论]]]></description>
+      <description><![CDATA[你好！ 这是我的情况 - 早在 2018-2019 年，我有一台旧计算机，上面有一些相当长视频（每个视频长达几个小时，文件大小为千兆字节）。我已经升级到一台新计算机，并将旧硬盘放入新硬盘中，这样我的文件就会被保留。 视频被保留，但很多都非常滞后，几乎无法观看。我被告知这可能是因为我的旧硬盘速度很慢并且难以读取文件。情况很可能是这样，因为我设法将其中一个视频从旧 HDD 传输到新 SSD，并且该视频工作得很好。 所以现在，问题来了：我正在尝试传输将视频从我的 HDD 转移到 SSD，但该过程非常慢（可能是因为它仍在尝试从 HDD 读取文件）。一个文件实际上需要几天的时间才能被继承，而且我真的不能让我的电脑连续几天开着。最好的选择是，我可以在电脑开启时让文件传输，在必须关闭电脑时暂停传输，然后在回到电脑时恢复传输。 最接近我的想法是将视频上传到 YouTube 并迫使 YouTube 认为我的上传被中断 - 如果我在上传过程中突然关闭浏览器，YouTube 将保存视频上传的进度并记住我离开的位置关闭约 24 小时，这意味着我基本上可以“暂停”上传。当然，这并不可靠 - 我只成功执行过一次，并且在尝试对其他几个视频执行此操作后 - 每次都会导致“上传失败”视频上传“暂停”时出现错误正如你可以想象的那样，这非常令人沮丧。 我试图寻找一种可以在计算机重新启动后暂停并在第二天恢复的文件传输软件，但我并没有真正找到太多，因为我的问题相当具体，所以我想我会直接向你们询问一些软件建议:) 编辑：无法真正回复所有人，但谢谢大家的建议。我会考虑修复我的硬盘或某种形式的数据恢复   由   提交 /u/N0rbertas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjhd10/file_transfer_software_that_can_be_paused_and/</guid>
       <pubDate>Fri, 03 May 2024 19:54:14 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 03 May 2024 14:26:57 GMT</pubDate>
     </item>
     <item>
-      <title>为 Exchange 电子邮件帐户寻求 Thunderbird 的替代方案</title>
+      <title>寻求 Thunderbird 的 Exchange 电子邮件帐户替代方案</title>
       <link>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</link>
       <description><![CDATA[嘿各位 Reddit 用户，让我们直接进入主题吧。我目前管理六个电子邮件帐户，其中两个是与我工作的公司关联的 Exchange 帐户。其余四个帐户有多种用途，包括个人使用和求职。直到最近，我还依赖 Thunderbird 作为我的电子邮件客户端。但是，它突然停止与我的 Exchange 帐户顺利运行。虽然它仍然可以连接到服务器，但拒绝发送电子邮件。有趣的是，在另一台具有相同设置的计算机上，Thunderbird 可以完美运行。现在，我正在寻找替代的电子邮件客户端 - 一个没有任何限制并且可以与 Exchange 电子邮件无缝协作的客户端。你们有什么建议吗？我非常感谢您的见解！   由   提交/u/sana9675  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj9ryz/seeking_an_alternative_to_thunderbird_for/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我不确定是否存在这样的东西，但基本思想是这样的：我给出一系列问题的输入以及尝试的答案这些问题以及正确答案的总数。如果有足够的数据，它有望确定正确的答案集。    由   提交 /u/Master_Doggo873   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cj8w3m/looking_for_some_kind_of_pattern_recognition/</guid>
       <pubDate>Fri, 03 May 2024 13:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步远程抄表软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cj84gi/software_for_synced_remote_reading/</link>
-      <description><![CDATA[嘿/r/software，对于简短背景：我和我的伙伴正在玩一个游戏，需要你阅读外部漫画才能获得完整的故事体验。通过不和谐的屏幕共享的天真的解决方案，并说当我们每个人完成一页并翻到下一页时，效果还不错，但浏览数十到数百页会有点乏味。 我想要的是一个软件或网络应用程序，本质上只是一个 pdf 查看器，让我们在读完一页时发出信号/按下按钮，然后自动翻转页面。 &lt; p&gt;我感谢任何建议、软件或其他解决方案。   由   提交 /u/RiveliaTheWise   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cj84gi/software_for_synced_remote_reading/</guid>
-      <pubDate>Fri, 03 May 2024 13:01:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
