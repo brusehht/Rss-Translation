@@ -4,13 +4,27 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 05 May 2024 09:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 12:19:33 GMT</lastBuildDate>
     <item>
-      <title>视觉艺术</title>
-      <link>https://www.reddit.com/r/software/comments/1ckn30m/visual_art/</link>
-      <description><![CDATA[ 由   提交/u/whoniikhil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckn30m/visual_art/</guid>
-      <pubDate>Sun, 05 May 2024 09:03:13 GMT</pubDate>
+      <title>时间表制作器</title>
+      <link>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</link>
+      <description><![CDATA[我想为我的大学制定时间表（适用于所有班级和老师）是否有软件可以实现此目的？ &lt; !-- SC_ON --&gt;  由   提交/u/jan_Asilu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</guid>
+      <pubDate>Sun, 05 May 2024 12:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>VPN 客户端的后端如何工作？</title>
+      <link>https://www.reddit.com/r/software/comments/1ckotz8/how_does_the_backend_of_a_vpn_client_work/</link>
+      <description><![CDATA[大家好， 我使用 VPN 服务已经有一段时间了，我一直很好奇如何使用 VPN 服务VPN 客户端的后端实际运行。我们都熟悉用户友好的前端，只需单击一下即可选择服务器并连接，但幕后发生了什么？ 我的主要问题是：  服务器信息管理：是否有一个中央服务器保存所有可用 VPN 服务器的信息？客户端如何知道哪些服务器在线并可供连接？ 用户身份验证：连接到 VPN 服务器时，必须涉及某种形式的身份验证。如何安全地向客户提供凭证？当然，它们没有硬编码到客户端应用程序的源代码中，对吗？    由   提交 /u/DSandleman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ckotz8/how_does_the_backend_of_a_vpn_client_work/</guid>
+      <pubDate>Sun, 05 May 2024 11:08:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界上最酷的电影应用程序刚刚发布</title>
+      <link>https://www.reddit.com/r/software/comments/1cknzu5/the_coolest_movie_app_in_the_world_just_released/</link>
+      <description><![CDATA[filminator dot net  使用点符号代替单词 dot  &lt; p&gt;​   由   提交 /u/filminator_developer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cknzu5/the_coolest_movie_app_in_the_world_just_released/</guid>
+      <pubDate>Sun, 05 May 2024 10:10:40 GMT</pubDate>
     </item>
     <item>
       <title>支持批量和4K下载的YouTube视频下载器</title>
@@ -22,7 +36,7 @@
     <item>
       <title>艺术灵感/类似 Pinterest 的软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</link>
-      <description><![CDATA[你好！我正在寻找一个程序来帮助获得艺术灵感，该程序可用于使用设备上的文件/上传到它来创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。有助于激发灵感的一般程序也很好！   由   提交 /u/vuurren   [链接] [评论]]]></description>
+      <description><![CDATA[你好！我正在寻找一个可以帮助激发艺术灵感的程序，该程序可用于使用设备上/上传到设备上的文件创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。一般的激发灵感的程序也可以！    提交人    /u/vuurren   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</guid>
       <pubDate>Sun, 05 May 2024 02:13:06 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 05 May 2024 01:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>可以将输入发送到游戏的多个实例的宏吗？</title>
+      <title>可以将输入发送到游戏的多个实例的宏？</title>
       <link>https://www.reddit.com/r/software/comments/1ckfhjq/macro_that_can_send_inputs_to_multiple_instances/</link>
       <description><![CDATA[需要一个可以将击键发送到单个游戏的多个实例的宏，这可能吗？我在网上能找到的关于执行此操作的任何内容都涉及在 ahk 上自己编写一个脚本，但我不想这样做   由   提交 /u/Former-Bar-6205   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckfhjq/macro_that_can_send_inputs_to_multiple_instances/</guid>
@@ -43,12 +57,12 @@
     <item>
       <title>android-luks：“一款允许使用 USB 附件模式安全解锁 LUKS 而无需输入 LUKS 密码的应用程序。当前状态为：稳定的概念验证。”该应用程序已在以下智能手机上进行测试：“小米 A3（Android 11）”、“谷歌 Pixel 3（Android 12）”和“三星 A54（Android 13）”。</title>
       <link>https://www.reddit.com/r/software/comments/1ckfapy/androidluks_an_app_that_allows_secure_luks/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckfapy/androidluks_an_app_that_allows_secure_luks/</guid>
       <pubDate>Sun, 05 May 2024 00:54:15 GMT</pubDate>
     </item>
     <item>
-      <title>用于社区花园管理的开源软件</title>
+      <title>社区花园管理的开源软件</title>
       <link>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</link>
       <description><![CDATA[我是一家运营社区花园的非营利组织的系统管理员。我希望找到某种形式的软件，让我能够管理谁租用了这些地块并跟踪他们的会员级别。  我们确实有 NeonOne 来进行其余的操作，但它不能很好地处理社区花园。  有什么想法吗？   由   提交/u/Kamikazepyro9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>用于管理多个外部显示器并将窗口快速移动到它们的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</link>
-      <description><![CDATA[嗨，我使用的是 Windows 10。 有时我的笔记本电脑使用 2 个显示器，如果我想移动 chrome窗口到一个并使其填满整个屏幕，我需要用鼠标将其移动到所需的屏幕，单击F11使其全屏。我也可以使用 Windows 键 + 箭头，但需要时间和多次按下。 是否有软件可以更好地管理此操作？就像一个热键一样，自动发送我的焦点窗口以显示 X 并使其全屏。 提前致谢。   由   提交 /u/sotodefonk   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我使用的是 Windows 10。 有时我的笔记本电脑使用 2 个显示器，如果我想移动 chrome窗口到一个并使其填满整个屏幕，我需要用鼠标将其移动到所需的屏幕，单击F11使其全屏。我也可以使用 Windows 键 + 箭头，但需要时间和多次按下。 是否有软件可以更好地管理此操作？就像一个热键一样，自动发送我的聚焦窗口以显示 X 并使其全屏。 提前致谢。   由   提交 /u/sotodefonk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</guid>
       <pubDate>Sat, 04 May 2024 20:02:44 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是一名自由职业者。我真的很讨厌安装软件。他们总是隐藏着大量的文件。与便携式版本不同，它位于一个文件夹中并且不会徘徊。如果我想删除它，它们不会留下残留文件。 我正在处理多个帐户，通过拥有便携式版本，我可以同时打开云存储帐户并进行管理   由   提交 /u/Juniorzkie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</guid>
       <pubDate>Sat, 04 May 2024 12:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>防病毒软件和建议</title>
-      <link>https://www.reddit.com/r/software/comments/1cjz2xg/antivirus_softwares_and_recommendations/</link>
-      <description><![CDATA[我父亲沉迷于防病毒软件，因为当他不使用防病毒软件时，他的电脑就会被无数木马文件捕获，他担心这种情况再次发生。然后我们从 BITDEFENDER 订购了 10 种设备计划，适用于 PC、平板电脑和手机。这个软件对我们帮助很大，我们使用得很开心。但现在价格有所上涨。相同的可再生能源计划（转换后）为 50 美元，现在接近 80 美元。在 bitdefender 的质量水平上，我能想到的只有卡巴斯基，它的价格相同。我们应该保留 bitdefender 还是换成卡巴斯基？那些拥有卡巴斯基的人，你喜欢它什么，不喜欢它什么？ https://preview.redd.it/eg997g97keyc1.png?width=348&amp;format=png&amp;auto=webp&amp;s=89fc967318825245153157e7dbb6f 60582830025 &lt; a href=&quot;https://preview.redd.it/guhvbnk7keyc1.jpg?width=700&amp;format=pjpg&amp;auto=webp&amp;s=4521792e36fc6cd455ab0a2a3c4a6609ea152820&quot;&gt;https://preview.redd.it/guhvbnk7keyc1.jpg?width =700&amp;format=pjpg&amp;auto=webp&amp;s=4521792e36fc6cd455ab0a2a3c4a6609ea152820   由   提交/u/Deku4068  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cjz2xg/antivirus_softwares_and_recommendations/</guid>
-      <pubDate>Sat, 04 May 2024 12:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在活动/短剧中播放背景音乐的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cjypzn/software_for_running_background_music_in/</link>
-      <description><![CDATA[请帮我找到可以帮助我在戏剧中播放背景音乐的软件  &amp; #32；由   提交/u/Huge_Zombie_75   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cjypzn/software_for_running_background_music_in/</guid>
-      <pubDate>Sat, 04 May 2024 12:03:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
