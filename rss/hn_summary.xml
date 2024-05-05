@@ -3,87 +3,87 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 05 May 2024 03:13:01 GMT</lastBuildDate>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Sun, 05 May 2024 06:12:59 GMT</lastBuildDate>
     <item>
-      <title>[媒体]我们 Infini AI Lab 的团队开发了 Sequoia，这是一个服务于 e [...]</title>
-      <link>https://t.me/hn_summary/87950</link>
-      <description><![CDATA[Sequoia：在 RTX4090 上以每令牌 1/2 秒的速度提供精确的 Llama2-70B
-Infini AI Lab 的团队开发了 Sequoia，这是一个突破性的系统，可以在 RTX4090 上以每令牌 1/2 秒的惊人速度提供精确的 Llama2-70B。正如我们在 arXiv 上的文章中详细介绍的那样，这种硬件感知推测解码技术具有可扩展性和稳定性，为 AI 处理树立了新标准。在 Zhuoming Chen 和 Avner May 等专家团队的领导下，Sequoia 代表了该领域的重大进步。探索我们的研究以了解有关此创新解决方案的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/87950</guid>
-      <pubDate>Sun, 05 May 2024 03:13:01 GMT</pubDate>
+      <title>人工智能是学习的未来吗？</title>
+      <link>https://t.me/hn_summary/87969</link>
+      <description><![CDATA[人工智能是学习的未来吗？
+关于人工智能是否是​​学习的未来的争论仍在继续。许多人对个性化人工智能导师的潜力感到兴奋，但他们实际上会是什么样子、会做什么呢？一些人质疑我们是否有能力创造如此先进的技术，而另一些人则怀疑这是否可能。围绕教育领域人工智能的争议必将引发该领域的进一步讨论和创新。你怎么认为？人工智能是彻底改变学习的关键，还是有我们尚未克服的局限性？]]></description>
+      <guid>https://t.me/hn_summary/87969</guid>
+      <pubDate>Sun, 05 May 2024 06:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 维拉·C.</title>
-      <link>https://t.me/hn_summary/87949</link>
-      <description><![CDATA[如何将最大的相机从加州实验室搬到安第斯山顶
-维拉·C·鲁宾天文台将以其 3.2 千兆像素的相机（地球上最大的相机）彻底改变天文学，该相机位于智利安第斯山脉的顶部。然而，相机从加州到山顶的旅程是一项后勤壮举，涉及货机、卡车和危险的山路。精密部件（如巨型镜子和敏感电子设备）面临着颠簸和湍流造成的损坏风险。海关、出口管制和不可预测的天气增加了挑战。尽管情况复杂，但工程师们仍在精心规划每一步，以确保相机安全抵达并成功完成这一开创性项目。]]></description>
-      <guid>https://t.me/hn_summary/87949</guid>
-      <pubDate>Sun, 05 May 2024 03:03:55 GMT</pubDate>
+      <title>[媒体]关于基于时间的 CSS 动画的文章探讨了使用时间刻度而不是关键帧 [...]</title>
+      <link>https://t.me/hn_summary/87968</link>
+      <description><![CDATA[基于时间的 CSS 动画
+关于基于时间的 CSS 动画的文章探讨了使用时间刻度而不是动画关键帧。在 CSS 中 mod() 等数学函数和三角函数的支持下，现在可以创建更复杂的动画。通过使用 CSS Houdini API 定义自定义变量，可以根据时间（以毫秒为单位）控制动画。本文还深入探讨了控制帧速率、转换时间值和创建自定义缓动函数。使用 CSS Doodle 进行实验可以快速调整参数，并使用 @t 和 @TS 等函数来跟踪动画中的时间。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87968</guid>
+      <pubDate>Sun, 05 May 2024 06:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>在《Where the Cameos Are》中，作者讲述了与《星际迷航》演员罗伯特的一次偶遇 [...]</title>
-      <link>https://t.me/hn_summary/87948</link>
-      <description><![CDATA[客串在哪里
-在《客串之处》中，作者讲述了在旧金山与《星际迷航》演员罗伯特·皮卡多的偶遇，这让他对他在电影中意想不到的客串有了新的认识。然后，作者开始了一场幽默而富有挑战性的探索，寻找由众多《星际迷航》演员扮演不同角色的非《星际迷航》电影和电视节目。在经历了飞机上数据库管理的滑稽斗争之后，作者对《星际迷航》演员出演的热门非《星际迷航》剧集进行了详细分析，强调了不同节目之间令人惊讶的联系。作者最终推荐了《死亡地带》中的一集作为这一现象的最佳例子，其中以罗伯特·皮卡多和其他《星际迷航》校友为主角。]]></description>
-      <guid>https://t.me/hn_summary/87948</guid>
-      <pubDate>Sun, 05 May 2024 02:35:44 GMT</pubDate>
+      <title>[媒体]耶鲁大学毕业生兼社会评论家罗布·亨德森 (Rob Henderson) 挑战了对教育的重视 [...]</title>
+      <link>https://t.me/hn_summary/87967</link>
+      <description><![CDATA[我去了耶鲁大学——我认为双亲家庭更适合比大学重要
+耶鲁大学毕业生、社会评论家罗布·亨德森 (Rob Henderson) 在他的新书《麻烦：寄养、家庭和社会阶层回忆录》中挑战了对教育的重视。亨德森在寄养家庭中经历了动荡的成长过程，他认为稳定而充满爱心的家庭比学业成就更有价值。他强调了知识精英与社会其他人之间的差距，指出双亲家庭在特权阶层中普遍存在。亨德森的个人故事揭示了养育孩子的重要性以及克服逆境所需的韧性。他传达的信息是个人责任和赋权。]]></description>
+      <guid>https://t.me/hn_summary/87967</guid>
+      <pubDate>Sun, 05 May 2024 06:09:52 GMT</pubDate>
     </item>
     <item>
-      <title>您知道吗，在最新版本的 Firefox 中，您可以直接在 [...]</title>
-      <link>https://t.me/hn_summary/87947</link>
-      <description><![CDATA[TIL：您可以通过 man 在 Firefox 中打开手册或信息页面：或信息：
-您是否知道，在最新版本的 Firefox 中，您可以通过键入 man: 或 info: 直接在浏览器中打开手册或信息页面？此功能是 Firefox 独有的，在 Chrome 等其他浏览器中不可用。输入 man:ls 来尝试一下，看看它的实际效果。这是一个方便且独特的功能，可以使 Firefox 用户更方便地访问手册或信息页面。]]></description>
-      <guid>https://t.me/hn_summary/87947</guid>
-      <pubDate>Sun, 05 May 2024 02:24:37 GMT</pubDate>
+      <title>[媒体] 流行播客 Pivot 的主持人斯科特·加洛韦 (Scott Galloway) 批评科技兄弟将 [...]</title>
+      <link>https://t.me/hn_summary/87966</link>
+      <description><![CDATA[Pivot 播客主持人 Scott Galloway：“科技兄弟将运气与天赋混为一谈” 
+热门播客 Pivot 的主持人斯科特·加洛韦 (Scott Galloway) 批评科技兄弟将运气与天赋混为一谈。他强调了团结盟友对于成功的重要性，并建议不要追随激情，而应该寻找自己擅长的事情。加洛韦强调了财富从年轻人向老年人的转移以及年轻人在当今经济中面临的挑战。他讨论了技术对财富积累的影响以及年轻人在社会中面临的斗争。加洛韦还质疑英国将科技创新货币化的能力。尽管在 Pivot 上广泛报道了埃隆·马斯克 (Elon Musk)，但加洛韦表示希望不再讨论这个话题。]]></description>
+      <guid>https://t.me/hn_summary/87966</guid>
+      <pubDate>Sun, 05 May 2024 05:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>初步的 Macintosh 业务计划概述了市场定位、产品线、硬件 [...]</title>
-      <link>https://t.me/hn_summary/87946</link>
-      <description><![CDATA[Macintosh 初步商业计划（1981 年 7 月 12 日）[pdf](https ://news.ycombinator.com/item?id=40261451)
-初步的 Macintosh 商业计划概述了 Macintosh 计算机的市场定位、产品线、硬件比较和定价策略。该计划强调了该系列中每个产品的独特优势，强调每个产品不必包揽一切。该计划还讨论了细分市场的重点、软件产品和分销策略。一个值得注意的方面是重点针对经理、专业人士和大学生，目标是以入门级价格提供先进的功能。该计划还包括将 Macintosh 与竞争对手进行比较，并概述了市场渗透和销售增长的战略。 （根据 56% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87946</guid>
-      <pubDate>Sun, 05 May 2024 01:53:26 GMT</pubDate>
+      <title>Cylon.js 是一个专为机器人技术、物理计算和互联网设计的 JavaScript 框架 [...]</title>
+      <link>https://t.me/hn_summary/87965</link>
+      <description><![CDATA[Cylon：用于机器人、无人机和物联网的 JavaScript 框架
+Cylon.js 是一个专为机器人、物理计算和物联网 (IoT) 设计的 JavaScript 框架。它允许用户创建同时包含多个硬件设备的解决方案。该项目为不同类型的设备提供对 Node.js、Ruby 和 Golang 的支持。自述文件提供了连接 Arduino、Parrot ARDrone 2.0 以及使用 Leap Motion 和 Digispark 创建猫玩具的示例。 Cylon.js 还支持熟悉 jQuery 或 D3 的流畅语法。该项目拥有可扩展的硬件支持，目前支持 36 个平台，使其成为机器人和物联网项目的多功能且强大的工具。 （根据 58% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/87965</guid>
+      <pubDate>Sun, 05 May 2024 05:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>敬请在 rough-understood.com 上深入了解傅里叶变换的世界。</title>
-      <link>https://t.me/hn_summary/87945</link>
-      <description><![CDATA[进军傅里叶
-在 roughly-understood 上深入了解傅立叶变换的世界.com。了解约瑟夫·傅立叶的开创性数学概念如何彻底改变音乐以外的领域，从电子电路到地震监测。揭示信号中隐藏的频率并了解傅立叶变换如何计算幅度和相位。深入研究数字和坐标的相似性，探索如何度量相似性并将其扩展到更高的维度。准备好揭开傅立叶变换的神秘面纱并了解它在现代世界中的重要性。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/87945</guid>
-      <pubDate>Sun, 05 May 2024 01:49:20 GMT</pubDate>
+      <title>作者最近在这个平台上寻找工作机会并收到了一份 [...]</title>
+      <link>https://t.me/hn_summary/87964</link>
+      <description><![CDATA[告诉 HN：对在这里提供答案的人们表示感谢
+笔者最近在这个平台上寻找工作机会，并得到了世界各地人们的热烈响应。作者衷心感谢那些花时间提供答案和支持的人。陌生人的这种善意和慷慨行为确实鼓舞人心，并提醒我们在需要时社区和联系的力量。在提供的链接中查看完整的感谢信息。]]></description>
+      <guid>https://t.me/hn_summary/87964</guid>
+      <pubDate>Sun, 05 May 2024 05:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文探讨了被遗忘的东德玻璃创新——Superfest，它[...]</title>
-      <link>https://t.me/hn_summary/87944</link>
-      <description><![CDATA[Superfest – 几乎牢不可破的东德玻璃
-本文探讨了被遗忘的东德玻璃创新——Superfest，它几乎牢不可破，是东德节俭心态和技术进步的产物。这种名为 Ceverit 的玻璃通过离子交换过程进行化学硬化，使其在跌落时能够弹起。眼镜的设计和实用性为他们赢得了东德的认可和奖项。尽管取得了成功，但生产工厂在德国统一后被关闭，凸显了资本主义制度的耐用性和计划报废之间的对比。 Superfest 眼镜因其耐用性而仍然受到追捧，但建议小心，因为它们在破碎时会碎成碎片。]]></description>
-      <guid>https://t.me/hn_summary/87944</guid>
-      <pubDate>Sun, 05 May 2024 01:34:12 GMT</pubDate>
+      <title>一篇有争议的新论文表明，来自报废卫星的航天器灰尘可能会削弱 E [...]</title>
+      <link>https://t.me/hn_summary/87963</link>
+      <description><![CDATA[像 SpaceX 这样的巨型星座可能会削弱地球的磁场和大气层 
+一篇有争议的新论文表明，来自失效卫星的航天器灰尘可能会削弱地球磁场，可能导致卫星灾难和大气剥离。私人卫星已经让天文学家头疼，但真正的威胁在于它们死亡后会发生什么。商业卫星巨型星座（例如 SpaceX 的星链网络）不受控制的扩张可能会释放出足够的灰尘来损害磁层。尽管一些研究人员对这些说法表示怀疑，但他们都同意需要进行紧急研究来量化问题的规模。航天器灰尘污染的潜在后果令人震惊，需要立即引起关注。]]></description>
+      <guid>https://t.me/hn_summary/87963</guid>
+      <pubDate>Sun, 05 May 2024 04:55:16 GMT</pubDate>
     </item>
     <item>
-      <title>《华盛顿邮报》的文章深入探讨了孩子们记得过去的有趣现象[...]</title>
-      <link>https://t.me/hn_summary/87943</link>
-      <description><![CDATA[记得前世的孩子
-《华盛顿邮报》的文章深入探讨了儿童记得前世的有趣现象。年幼的孩子艾雅生动地描述了她作为尼娜的前世，表现出超越她年龄的行为和知识。世界各地都有类似的案例记录，引发了关于转世和来世的争论。弗吉尼亚大学感知研究部主任吉姆·塔克博士对这些案例进行了广泛的研究，指出了儿童回忆前世的常见模式。尽管怀疑论比比皆是，但这些孩子及其家人的故事对意识和存在的本质提出了深刻的问题。 （根据 41% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87943</guid>
-      <pubDate>Sun, 05 May 2024 01:13:03 GMT</pubDate>
+      <title>世界上第一批木质风力涡轮机叶片已在德国安装，提供了[...]</title>
+      <link>https://t.me/hn_summary/87962</link>
+      <description><![CDATA[优雅的木质风力涡轮机叶片性能优于复合材料
+世界上第一批木质风力涡轮机叶片已在德国安装，为传统复合材料叶片提供了更具可持续性和可回收性的替代品。Voodin Blade Technologies 凭借其层压单板木材叶片引领了这一潮流，这种叶片不仅更耐用，而且在制造过程中的二氧化碳排放量减少了 78%。在涡轮叶片中使用木材是朝着风能更可持续的未来迈出的有希望的一步，而对生物基树脂和回收方法的持续研究进一步推动了该行业的创新。]]></description>
+      <guid>https://t.me/hn_summary/87962</guid>
+      <pubDate>Sun, 05 May 2024 04:43:39 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了花费数小时创建测验？</title>
-      <link>https://t.me/hn_summary/87942</link>
-      <description><![CDATA[显示 HN：点击即可进行文本 2 测验 
-厌倦了花费数小时创建测验？借助 Text2Quiz，您现在只需点击几下即可生成测验！这个创新工具彻底改变了我经营 Etsy 业务的方式，让我能够节省创建测验的时间，并更多地关注营销策略。告别繁琐的测验，迎接更多的业务增长时间。查看 www.text2quiz.co.uk 和看看这个改变游戏规则的工具如何让您受益！]]></description>
-      <guid>https://t.me/hn_summary/87942</guid>
-      <pubDate>Sun, 05 May 2024 00:54:46 GMT</pubDate>
+      <title>[媒体]在谷歌垄断案审判中，美国司法部指控谷歌破坏 [...]</title>
+      <link>https://t.me/hn_summary/87961</link>
+      <description><![CDATA[法官考虑对谷歌“令人震惊”地破坏内部聊天记录进行制裁
+在谷歌垄断案审判中，美国司法部指控谷歌指示员工在讨论敏感话题时关闭聊天记录，从而销毁证据。美国司法部辩称，这样做是为了维持谷歌对搜索的垄断地位。法官阿米特·梅塔对谷歌的文件保留政策表示震惊，并考虑实施制裁。谷歌的律师辩称，丢失的聊天记录不会为案件提供新的线索。美国司法部要求实施制裁，包括假设删除的聊天记录对谷歌不利。争议在于谷歌涉嫌隐藏证据并维持其垄断地位。]]></description>
+      <guid>https://t.me/hn_summary/87961</guid>
+      <pubDate>Sun, 05 May 2024 04:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Monit 是一个创新的数据可视化和分析平台，由 Meta AI 提供支持 [...]</title>
-      <link>https://t.me/hn_summary/87941</link>
-      <description><![CDATA[展示 HN：Monit – 数据可视化和分析平台
-Monit 是一个创新的数据可视化和分析平台，由 Meta AI 的 Llama 3 提供支持。Monit 的独特之处在于其人工智能功能，这些功能构建在开源 Llama 3 LLM 之上，为用户提供强大而灵活的分析工具。借助 Monit，您可以轻松分析和理解数据，从而做出明智的决策。立即开始使用 Monit 释放数据的全部潜力。请访问 www.monit.space 了解更多信息。]]></description>
-      <guid>https://t.me/hn_summary/87941</guid>
-      <pubDate>Sun, 05 May 2024 00:53:42 GMT</pubDate>
+      <title>[媒体] 厌倦了使用割炬来清除生锈的螺栓并在此过程中冒着烧毁其他部件的风险？</title>
+      <link>https://t.me/hn_summary/87960</link>
+      <description><![CDATA[抛弃火炬，使用感应加热来松开生锈的螺栓
+厌倦了使用火炬松开生锈的螺栓并冒着在此过程中烧毁其他部件的风险？感应加热器可能是您一直在寻找的解决方案。Brad Ford 分享了他使用手持式感应加热器处理卡车上顽固螺栓的经验，效果令人印象深刻。该设备产生的电磁场无需直接接触即可加热螺栓，使其成为传统火炬的更安全、更有效的替代品。虽然不是日常工具，但感应加热器在处理卡住的硬件时可以成为救星。告别火炬事故，迎接解开卡住东西的新方法。]]></description>
+      <guid>https://t.me/hn_summary/87960</guid>
+      <pubDate>Sun, 05 May 2024 04:08:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
