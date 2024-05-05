@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 05 May 2024 12:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:12:22 GMT</lastBuildDate>
+    <item>
+      <title>我“制作”的Suno曲子</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckr26i/suno_tune_i_made/</link>
+      <description><![CDATA[https://suno .com/song/41085ef4-69dd-4a4b-8c49-26b54eacadac 制作为我喜欢这个，它部分是我的创意才华刚刚被这个应用程序过滤掉的哈哈，制作是一个很糟糕的词。 ”歌曲风格”：塑料爱日本迷幻爵士乐超冷1980年代早期的合成键盘共鸣 有几个不同的版本，每个版本的风格和作曲都不同，但大多是相同的流派，但我个人只是喜欢这个。它接近我想要的。  第一个对我来说可用的音乐程序。它是狂野的。它可能不是真正的音乐，感觉是借用的，但尝试起来很有趣。只能想象未来几年。我主要处理人工智能图像，并且拥有美术和图形设计背景。 集体人工智能协作是我定义这件艺术品的方式  &amp; #32；由   提交/u/old_lost_boi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckr26i/suno_tune_i_made/</guid>
+      <pubDate>Sun, 05 May 2024 13:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能将如何改变全球经济模式和就业市场？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckpy5h/how_ai_will_change_global_economy_model_and_job/</link>
@@ -13,28 +20,14 @@
       <pubDate>Sun, 05 May 2024 12:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一些帮助来为机器学习大学项目提供此数据中的新功能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cko7kn/i_need_some_help_coming_up_with_new_features_in/</link>
-      <description><![CDATA[基本上这是一个大学项目，他们为我们提供了鸡尾酒/饮料质量的数据集，我们应该训练一个模型以使用他们当时给我们的数据集清理数据并查看准确性是否有所提高，如果是的话，我们应该继续下一步，即进行特征工程以获得更好的准确性，我目前正在努力设计影响准确性的特征以使其更好。 我能想到的是，营养密度，加权密度，酸度到甜度平衡，总酸度。 这些似乎对质量影响不大，只是很小的改进，我认为这个数据集是基于葡萄酒质量的数据集在这里，但教授确实更改了名称和一些数据（他们是这么说的），这是它 https ://www.kaggle.com/datasets/yasserh/wine-quality-dataset（不确定是否基于它，但他们确实说他们将获得一个数据集并更改名称和一些数据正如我之前所说，这是我能找到的最接近的）。 这是他们给我们的数据，我们应该使用：https://drive.google.com/file/d/1aLqPn-I8tbC_14GSgHX-rTekuPa-7960/view?usp=sharing  如果您无法在手机上打开数据示例图片，您可以使用它来提供有关新功能的一些想法：https://imgur.com/a/FDeQcQi 我的代码准确率为 87%： import numpy as np import pandas作为pd从sklearn.preprocessing导入MinMaxScaler，StandardScaler从sklearn.svm导入SVC从sklearn.metrics导入accuracy_score从sklearn.ensemble导入RandomForestClassifier从sklearn.metrics导入classification_report，accuracy_score从sklearn.model_selection导入train_test_split df = pd.read_csv(&#39;Cocktail Juice Quality_Training Dataset.csv&#39;) print(df)mean_citric_acid = df[&quot;柠檬酸&quot;].mean() new_df = df[&#39;柠檬酸&#39;].replace(0,mean_citric_acid, inplace=True) df[&#39;水果品质&#39;] = df[&#39;水果质量&#39;].apply(np.round).astype(&#39;int32&#39;) df[&#39;水果质量&#39;] = df[&#39;水果质量&#39;].apply(lambda x: 10 if x &gt; 10 else x) print(df) df[&#39;total_acidity&#39;] = df[&#39;固定酸度&#39;] + df[&#39;柠檬酸&#39;] df[&#39;acidity_to_sweetness_balance&#39;] = df[&#39;total_acidity&#39;] / df[&#39;甜味剂百分比&#39;] df[&#39;加权密度&#39;] = (df[&#39;密度&#39;]*df[&#39;固定酸度&#39;])+df[&#39;密度&#39;]*df[&#39;柠檬酸&#39;] df[&#39;营养密度&#39;] = df [&#39;密度&#39;] / df[&#39;卡路里&#39;] print(df) def map_quality(value): if value &lt;= 4: 返回 &#39;bad&#39; elif 5 &lt;= value &lt;= 6: 返回 &#39;normal&#39; else: return &#39;excellent&#39; df[&#39;quality&#39;] = df[&#39;quality&#39;].apply(map_quality) print(&quot;\n编码后的DataFrame:&quot;) print(df) defencode_quality(value): mapping = {&#39;bad&#39; : 0, &#39;正常&#39;: 1, &#39;优秀&#39;: 2} 返回映射[值] df[&#39;quality&#39;] = df[&#39;quality&#39;].apply(encode_quality) print(df) X = df.iloc[:, [0,1,2,3,4,6,7,8,12,13]] print(X) Y = df.iloc[:, 9] print(Y) X_train, X_test, y_train, y_test = train_test_split( X，Y，test_size = 0.25，random_state = 44）svm_model = SVC（kernel =&#39;rbf&#39;，decision_function_shape =&#39;ovr&#39;）svm_model.fit（X_train，y_train）rf_model = RandomForestClassifier（n_estimators = 100，random_state = 42）rf_model。 fit(X_train, y_train) y_pred = rf_model.predict(X_test) print(&quot;准确度：&quot;, precision_score(y_test, y_pred)) 预测 = rf_model.predict(X_test) print(&quot;准确度：&quot;, precision_score(y_test) ，预测））  ​   由   提交/u/Epic_Programmer_419   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cko7kn/i_need_some_help_coming_up_with_new_features_in/</guid>
-      <pubDate>Sun, 05 May 2024 10:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是值得信赖的人工智能检测工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cko6gw/what_is_a_trustworthy_aidetection_tool/</link>
-      <description><![CDATA[我目前正在撰写学士论文，今天早些时候发现我的一位同事使用生成式人工智能系统来生成大段文本。我通过使用可用的在线人工智能检测工具发现了这一点。有问题的大学说一切都将被重写，但我想确定一下。我们大学对此提出了严格的规定，以这种方式使用人工智能将被视为抄袭。因此，我的问题是：什么工具可以最好地检测人工智能生成的文本？这些免费的在线工具是否值得信赖，或者是否存在一定程度的错误？    由   提交/u/Wood3x8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cko6gw/what_is_a_trustworthy_aidetection_tool/</guid>
-      <pubDate>Sun, 05 May 2024 10:23:59 GMT</pubDate>
-    </item>
-    <item>
       <title>多语言数据上的 RAG</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckmxg1/rag_on_multi_lingual_data/</link>
-      <description><![CDATA[嗨，我正在尝试为我们的组织构建一个 rag 管道。知识库主要是 Wordpress 博客、书籍和 YouTube 视频。YouTube 视频恰好是英语和印地语（印度语言）。我应该如何进行数据提取？我应该将印地语视频记录翻译成英语然后嵌入它们，还是应该使用来自 cohere 之类的多语言模型嵌入所有记录，而不考虑语言？    提交人    /u/ichig0_kurosaki   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我正在尝试为我们的组织构建一个抹布管道。知识库主要是 WordPress 博客、书籍和 YouTube 视频。 YouTube 视频恰好是英语和印地语（印度的语言）。我应该如何进行数据摄取？我应该将印地语视频脚本翻译成英语然后嵌入它们，还是应该使用 cohere 等多语言模型嵌入所有语言的脚本（无论语言如何）？  &amp; #32；由   提交/u/ichig0_kurosaki  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckmxg1/rag_on_multi_lingual_data/</guid>
       <pubDate>Sun, 05 May 2024 08:52:02 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能克隆我妻子的照片以供她在商务社交中使用？</title>
+      <title>如何克隆我妻子的商业社交照片？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckl8fj/how_can_i_clone_my_wife_for_photos_for_her/</link>
       <description><![CDATA[我的妻子是一名瑜伽教练，她的 Instagram 是她的主要业务来源，我们必须不断拍摄新照片。这包括开车到一个新的地方、更换和设置、拍摄照片、编辑——这是一个漫长的过程。如果我能够上传她的照片，以便人工智能可以复制她 - 然后生成带有我选择的背景和帖子的新图片 - 这将节省很多麻烦。 这可能吗？    由   提交/u/zascar  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckl8fj/how_can_i_clone_my_wife_for_photos_for_her/</guid>
@@ -50,7 +43,7 @@
     <item>
       <title>我怎样才能进入人工智能劳动力市场？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cki7q5/how_can_i_enter_the_ai_workforce/</link>
-      <description><![CDATA[我是 BCA 一年级学生。作为 LLM 工程师或其他人员，我需要具备哪些技能才能进入人工智能劳动力市场？    由   提交 /u/Wonderful_Put_2223   [链接] [评论]]]></description>
+      <description><![CDATA[我是 BCA 一年级学生。作为 LLM 工程师或类似的人员，我需要具备哪些技能才能进入 AI 工作岗位？    提交人    /u/Wonderful_Put_2223   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cki7q5/how_can_i_enter_the_ai_workforce/</guid>
       <pubDate>Sun, 05 May 2024 03:36:31 GMT</pubDate>
     </item>
@@ -69,6 +62,13 @@
       <pubDate>Sat, 04 May 2024 22:45:29 GMT</pubDate>
     </item>
     <item>
+      <title>关于 GPT2 聊天机器人的一些想法！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ckb4wh/some_thoughts_on_that_gpt2chatbot/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ckb4wh/some_thoughts_on_that_gpt2chatbot/</guid>
+      <pubDate>Sat, 04 May 2024 21:34:38 GMT</pubDate>
+    </item>
+    <item>
       <title>转向AI产业</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck99za/pivoting_to_ai_industry/</link>
       <description><![CDATA[我 (22M) 即将以经济学背景毕业，直到最近才意识到我有多么不喜欢我正在做的事情。我听从了父母的建议，他们认为我很适合金融界。 我将从加州大学学校毕业，平均绩点约为 3.4，但没有相关工作经验。我的简历包括担任法律助理和销售代表。我一直没能获得面向经济学毕业生的职位的面试机会。  我对找工作不抱太大希望，甚至认为我在我所申请的工作中看不到自己的影子。我一直在到处寻找商业分析师、数据分析师、顾问、财务专业人士和财富管理职位等规则的申请。 我对人工智能很着迷，并且会说这是我真正感兴趣的少数行业之一并且感兴趣。我想它的潜力非常吸引人，能够创造出可以帮助每个人的东西的能力确实引起了我的共鸣。我相信每个人都觉得人工智能很着迷，但这是我唯一可以学习并忘记时间的事情之一。 现在，我如何利用这种着迷进入人工智能和机器学习行业？获得与人工智能相关的入门级职位的最快途径是什么？我应该开始学习如何编码并考虑获得硕士学位吗？ 我很遗憾没有在大学投入更多的精力，因为它让我的选择有限。我想为我的职业生涯制定一个路线图，我可以强迫自己遵循它。 TL;DR：即将成为经济学大学毕业生，试图找出如何在没有技术背景的情况下进入人工智能领域。 TL;DR：即将成为经济大学毕业生，试图找出如何在没有技术背景的情况下进入人工智能领域。 p&gt;   由   提交 /u/thefoxthefox   [链接] [评论]]]></description>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 04 May 2024 20:09:56 GMT</pubDate>
     </item>
     <item>
-      <title>软件工程师是最愿意颠覆自己的职业群体吗？</title>
+      <title>软件工程师是最愿意自我颠覆的职业群体吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ck982v/are_software_engineers_the_professional_group/</link>
       <description><![CDATA[人工智能编码助手的流行和自主编码的发展，无疑意味着编写大量代码将不再是十年后开发人员的主要活动。这肯定会让开发人员对工作保障感到担忧。然而，人工智能编码方面的大多数进步都是在开发者社区中庆祝的。他们已经在尝试弄清楚如何将时间花在人工智能无法完成且独特需要人类创造力的事情上。    由   提交 /u/creativefisher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ck982v/are_software_engineers_the_professional_group/</guid>

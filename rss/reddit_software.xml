@@ -4,9 +4,16 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 05 May 2024 12:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:13:02 GMT</lastBuildDate>
     <item>
-      <title>时间表制作器</title>
+      <title>自动跳过视频无声部分的视频播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</link>
+      <description><![CDATA[youtube 上有一些扩展可以做到这一点，但我找不到一个程序可以做到这一点，这会有很大的帮助   由   提交 /u/IAmNotNeru   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</guid>
+      <pubDate>Sun, 05 May 2024 14:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>时间表制作者</title>
       <link>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</link>
       <description><![CDATA[我想为我的大学制定时间表（适用于所有班级和老师）是否有软件可以实现此目的？ &lt; !-- SC_ON --&gt;  由   提交/u/jan_Asilu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>艺术灵感/类似 Pinterest 的软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</link>
-      <description><![CDATA[你好！我正在寻找一个可以帮助激发艺术灵感的程序，该程序可用于使用设备上/上传到设备上的文件创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。一般的激发灵感的程序也可以！    提交人    /u/vuurren   [link] [评论]]]></description>
+      <description><![CDATA[你好！我正在寻找一个程序来帮助获得艺术灵感，该程序可用于使用设备上的文件/上传到它来创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。有助于激发灵感的一般程序也很好！   由   提交 /u/vuurren   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</guid>
       <pubDate>Sun, 05 May 2024 02:13:06 GMT</pubDate>
     </item>
@@ -50,26 +57,26 @@
     <item>
       <title>可以将输入发送到游戏的多个实例的宏？</title>
       <link>https://www.reddit.com/r/software/comments/1ckfhjq/macro_that_can_send_inputs_to_multiple_instances/</link>
-      <description><![CDATA[需要一个可以将击键发送到单个游戏的多个实例的宏，这可能吗？我在网上能找到的关于执行此操作的任何内容都涉及在 ahk 上自己编写一个脚本，但我不想这样做   由   提交 /u/Former-Bar-6205   [链接] [评论]]]></description>
+      <description><![CDATA[需要一个可以将按键发送到单个游戏的多个实例的宏，这可能吗？我在网上找到的任何关于如何做到这一点的信息都涉及自己在 ahk 上编写脚本，而我不喜欢这样做    提交人    /u/Former-Bar-6205   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckfhjq/macro_that_can_send_inputs_to_multiple_instances/</guid>
       <pubDate>Sun, 05 May 2024 01:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>android-luks：“一款允许使用 USB 附件模式安全解锁 LUKS 而无需输入 LUKS 密码的应用程序。当前状态为：稳定的概念验证。”该应用程序已在以下智能手机上进行测试：“小米 A3（Android 11）”、“谷歌 Pixel 3（Android 12）”和“三星 A54（Android 13）”。</title>
+      <title>android-luks：“一款允许使用 USB 配件模式安全 LUKS 解锁而无需输入 LUKS 密码的应用程序。当前状态是：稳定的概念证明。” “应用程序已测试”的智能手机：“Xiaomi A3 (Android 11)”、“Google Pixel 3 (Android 12)”和“Samsung A54 (Android 13)”。</title>
       <link>https://www.reddit.com/r/software/comments/1ckfapy/androidluks_an_app_that_allows_secure_luks/</link>
       <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckfapy/androidluks_an_app_that_allows_secure_luks/</guid>
       <pubDate>Sun, 05 May 2024 00:54:15 GMT</pubDate>
     </item>
     <item>
-      <title>社区花园管理的开源软件</title>
+      <title>用于社区花园管理的开源软件</title>
       <link>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</link>
       <description><![CDATA[我是一家运营社区花园的非营利组织的系统管理员。我希望找到某种形式的软件，让我能够管理谁租用了这些地块并跟踪他们的会员级别。  我们确实有 NeonOne 来进行其余的操作，但它不能很好地处理社区花园。  有什么想法吗？   由   提交/u/Kamikazepyro9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckcxzp/open_source_software_for_community_garden/</guid>
       <pubDate>Sat, 04 May 2024 22:58:31 GMT</pubDate>
     </item>
     <item>
-      <title>用于管理多个外部显示器并将窗口快速移动到它们的软件</title>
+      <title>用于管理多个外接显示器并快速将窗口移动到这些显示器的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</link>
       <description><![CDATA[嗨，我使用的是 Windows 10。 有时我的笔记本电脑使用 2 个显示器，如果我想移动 chrome窗口到一个并使其填满整个屏幕，我需要用鼠标将其移动到所需的屏幕，单击F11使其全屏。我也可以使用 Windows 键 + 箭头，但需要时间和多次按下。 是否有软件可以更好地管理此操作？就像一个热键一样，自动发送我的聚焦窗口以显示 X 并使其全屏。 提前致谢。   由   提交 /u/sotodefonk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ck94er/software_to_manage_several_external_monitors_and/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>YouTube 视频播放器但离线</title>
       <link>https://www.reddit.com/r/software/comments/1ck4463/youtube_video_player_but_offline/</link>
-      <description><![CDATA[最近我一直在录制我的游戏过程，以便进行自我分析。但事实证明，大多数 Windows 视频播放器都比 YouTube 播放器更糟糕，YouTube 播放器允许您慢动作和逐帧播放，同时接受直观的快捷方式。我真的很感激能够在 YouTube 播放器上观看我的录制内容，而不必真正将它们上传到 YouTube。 TL DR：我想使用 YouTube 的视频播放器观看我自己的录制内容，而无需将它们上传到 YouTube，但我不知道该怎么做。 有人知道怎么做吗？    提交人    /u/SsomeW   [链接] [评论]]]></description>
+      <description><![CDATA[最近我一直在记录我的游戏过程，以便我可以自我分析。但事实证明，大多数 Windows 视频播放器的性能都比 YouTube 播放器差，后者允许您慢动作、逐帧播放，同时接受直观的快捷方式。我真的很高兴能够在 YouTube 播放器上观看我的录制内容，而无需将其实际上传到 YouTube。 TL DR：我想使用 YouTube 的视频播放器观看我自己的录制内容，而无需上传它们到 YouTube，但我不知道该怎么做。 有人知道如何做吗？    ;由   提交 /u/SsomeW   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ck4463/youtube_video_player_but_offline/</guid>
       <pubDate>Sat, 04 May 2024 16:21:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨嗨！ 由于我积累了大量数据，我想正确命名文件并将所有内容保留在命令。这就是为什么我多年前开发了一个可以为我完成这项工作的工具。我知道还有其他工具，例如 sonarr/radarr，但是当我开发该工具时，我找不到任何免费软件能够完全满足我的要求：整齐地命名我的电视节目。 最近我决定以开源方式发布该工具，现在它已准备就绪。它非常易于安装和使用，并且功能保持在最低限度。安装、使用、参数、开发都有详细记录，参见下面的链接。如果我忘记了某些内容或不清楚，请告诉我。 项目链接 GitHub 存储库：https://github.com/Ramo-Y/BulkRename Docker 中心：https://hub.docker.com/r/ramoy/bulkrename 安装 对于最简单的安装，可以使用以下 docker-compose.yml： 版本：&#39;3.7&#39; 服务：bulkrename：图像：ramoy/bulkrename：最新container_name：“bulkrename”环境：ASPNETCORE_URLS：http://*:8080 SupportedFileEndings：“mkv;mp4;m4v;avi”要忽略的文件夹：“.@__thumb” # 例如，这是由 QNAP 生成的文件夹，该文件夹会导致错误 TZ:“Europe/Zurich”端口： - “8080:80”卷：-“/share/Downloads/Files://app//Files//” # 重命名时您的电视节目文件必须位于其中的文件夹 - “/share/Downloads/Logs://app//Logs//” # 可选择在 docker 外部提供日志 用法 简单总结一下，您可以在工具的工作文件夹中创建一个文件夹结构，如下所示： &lt; pre&gt;/WorkingDirectory /行尸走肉 /第 01 季 twd.s1e01.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e02.GERMAN.5.1.UNTOUCHED .DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e03.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e04.GERMAN .5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e05.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd .s1e06.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv  然后您可以通过 Web 界面打开预览，显示如何该文件将被重命名。新名称将如下所示（通常在 Web UI 中显示为前后预览，但我无法在此处插入图像，请参阅 文档): /WorkingDirectory /The Walking Dead /Season 01 The Walking Dead - S01E01.mkv Dead - S01E02.mkv The Walking Dead - S01E03.mkv The Walking Dead - S01E04.mkv The Walking Dead - S01E05.mkv The Walking Dead - S01E06.mkv  如果一切看起来都不错，你如果您愿意，可以确认重命名并保存历史记录。 还有一个历史记录选项卡，其中显示所有重命名历史记录。要激活此功能，必须在 PersistanceMode 中设置 Json 或 Database。请参阅PersistanceMode 结论 该工具已经为我节省了大量时间，而且我对结果一直很满意。当然还有改进的空间，但它已经完成了工作。如果您有任何更改请求或改进建议，请随时将其写在此处，在 GitHub 上创建问题，或直接在 GitHub 上提出拉取请求（请按照 文档）。 某些函数适用于非常高级的环境，例如 Seq 中的日志记录或 SQL 中的存储数据库，但如果您不需要它们，可以将它们禁用。 请不要在颜色选择和设计上评判我，我是后端开发人员，我害怕 CSS。    由   提交 /u/Ramo-Y   /u/Ramo-Y  reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/</guid>
       <pubDate>Sat, 04 May 2024 14:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneDrive/GDrive/Mega 的便携版？</title>
-      <link>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</link>
-      <description><![CDATA[我是一名自由职业者。我真的很讨厌安装软件。他们总是隐藏着大量的文件。与便携式版本不同，它位于一个文件夹中并且不会徘徊。如果我想删除它，它们不会留下残留文件。 我正在处理多个帐户，通过拥有便携式版本，我可以同时打开云存储帐户并进行管理   由   提交 /u/Juniorzkie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</guid>
-      <pubDate>Sat, 04 May 2024 12:46:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
