@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 05 May 2024 00:54:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 03:12:48 GMT</lastBuildDate>
+    <item>
+      <title>五角大楼</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckhsfw/pentagon/</link>
+      <description><![CDATA[ 由   提交/u/TheGourd77  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckhsfw/pentagon/</guid>
+      <pubDate>Sun, 05 May 2024 03:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>闯入科技就业市场：如何脱颖而出并获得关注</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</link>
+      <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</guid>
+      <pubDate>Sun, 05 May 2024 01:05:12 GMT</pubDate>
+    </item>
     <item>
       <title>android-luks：“一款允许使用 USB 配件模式安全 LUKS 解锁而无需输入 LUKS 密码的应用程序。当前状态是：稳定的概念证明。” “应用程序已测试”的智能手机：“Xiaomi A3 (Android 11)”、“Google Pixel 3 (Android 12)”和“Samsung A54 (Android 13)”。</title>
       <link>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckfayy/androidluks_an_app_that_allows_secure_luks/</guid>
       <pubDate>Sun, 05 May 2024 00:54:36 GMT</pubDate>
     </item>
@@ -20,30 +34,9 @@
       <pubDate>Sun, 05 May 2024 00:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>关于使用生成式 AI 提高程序员工作效率的 6 个误解</title>
-      <link>https://www.reddit.com/r/programming/comments/1cke926/6_misconceptions_about_using_generative_ai_to/</link>
-      <description><![CDATA[ 由   提交/u/yourbasicgeek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cke926/6_misconceptions_about_using_generative_ai_to/</guid>
-      <pubDate>Sun, 05 May 2024 00:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>53 个项目创意（从初级到高级）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckdn4v/53_project_ideas_from_beginner_to_advanced/</link>
-      <description><![CDATA[  由    /u/Diligent_Eye1248  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckdn4v/53_project_ideas_from_beginner_to_advanced/</guid>
-      <pubDate>Sat, 04 May 2024 23:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为 chat gpt 提供正确的 API 数据？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ckdj2l/how_can_i_give_chat_gpt_correct_api_data/</link>
-      <description><![CDATA[我是编码初学者，主要使用 ChatGPT 为 Revit 程序创建插件。我在AEC行业工作，不精通编程。我注意到 ChatGPT 经常使用过时的 API 数据，从而导致错误。例如，它使用“New.Pipe”而不是“Create.Pipe”，或者遗漏了一些明显的引用。我想使用正确的 API 数据更新 ChatGPT。最初，我考虑反编译API.dll文件，但聊天gpt告诉我这是非法的。唯一的选择似乎是从 Autodesk 文档网页复制并粘贴所有数据，但这工作量太大。大家有更好的想法吗？   由   提交/u/PsychologicalAge5135  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ckdj2l/how_can_i_give_chat_gpt_correct_api_data/</guid>
-      <pubDate>Sat, 04 May 2024 23:26:41 GMT</pubDate>
-    </item>
-    <item>
       <title>作为有向图的复式记账</title>
       <link>https://www.reddit.com/r/programming/comments/1ckd2lq/double_entry_bookkeeping_as_a_directed_graph/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckd2lq/double_entry_bookkeeping_as_a_directed_graph/</guid>
       <pubDate>Sat, 04 May 2024 23:04:18 GMT</pubDate>
     </item>
@@ -69,7 +62,7 @@
       <pubDate>Sat, 04 May 2024 19:56:47 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个工具来跟踪 curl | shell 的脚本</title>
+      <title>制作了一个跟踪卷曲脚本的工具 |壳</title>
       <link>https://www.reddit.com/r/programming/comments/1ck7imw/made_a_tool_to_track_scripts_that_curl_shell/</link>
       <description><![CDATA[ 由   提交/u/boxstripe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck7imw/made_a_tool_to_track_scripts_that_curl_shell/</guid>
@@ -90,7 +83,7 @@
       <pubDate>Sat, 04 May 2024 17:55:44 GMT</pubDate>
     </item>
     <item>
-      <title>Python 中的机器人汽车避开物体</title>
+      <title>机器人汽车用 Python 避开物体</title>
       <link>https://www.reddit.com/r/programming/comments/1ck5lsh/robot_car_avoids_objects_in_python/</link>
       <description><![CDATA[看看我构建的这个东西   由   提交/u/Electrical-Growth884  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck5lsh/robot_car_avoids_objects_in_python/</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck40ep/use_greenmail_for_spring_mail_javamailsender/</guid>
       <pubDate>Sat, 04 May 2024 16:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>PlutoBook：分页 HTML 渲染库</title>
+      <link>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</link>
+      <description><![CDATA[ 由   提交 /u/SamNwutobo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</guid>
+      <pubDate>Sat, 04 May 2024 16:10:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
