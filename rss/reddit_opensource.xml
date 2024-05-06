@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 06:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 09:14:17 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
+      <description><![CDATA[ 由   提交 /u/bazipip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</guid>
+      <pubDate>Mon, 06 May 2024 06:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
-      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我刚刚开始这个项目，希望能得到一些人的使用/贡献 - 祝我好运。但我不清楚要使用哪种许可证。不使用 MIT 许可证的原因是什么？我应该看看有没有更好的选择？我对许可不是很熟悉，需要一点帮助来做决定。我很感激任何帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。    提交人    /u/Admirable_Proxy   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，良好的使用对决定有一点帮助。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>有没有一种简单的方法可以将音频从智能手机传输到 Linux 系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</link>
-      <description><![CDATA[我目前正在设置多房间音频，虽然很容易启动并运行 snapcast 以将使用 mpd 播放的音乐从我的服务器流式传输到 Android 和 Raspberry Pi；但我很难做到相反的操作。 我理想情况下想要能够在 Spotify 或 Youtube 中选择我的服务器作为 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”时运气不佳，因为我只找到 863 个允许将音频发送到 Fire TV 棒或 chromecast 设备的项目。 有人可以指出我是否可以将音频从 Android 发送到服务器，以便我可以将其传输到 snapcast 吗？    提交人    /u/atyon   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在设置多房间音频，虽然很容易获得 snapcast 启动并运行，将使用 mpd 播放的音乐从我的服务器传输到 Android 和 Raspberry Pi；我在相反的方向上挣扎。 我想要的理想情况是能够选择我的服务器作为 Spotify 或 Youtube 中的 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”的运气并不好。因为我发现只有 863 项目允许将音频发送到 Fire TV 棒或 chromecast 设备。 任何人都可以向我指出将音频从 Android 发送到服务器的可能性，以便我可以将其通过管道传输到快照？   由   提交/u/atyon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</guid>
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
@@ -48,16 +55,16 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <title>我一直在使用一款名为 Grapesjs 的开源软件，但不知为何无法拖动项目？选择固定位置后，无法拖动文本框到其位置，必须将其放在顶部和左侧像素距离处，但不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
-      <description><![CDATA[一个人不能用数百种东西做到这一点，一个人必须能够拖放？    提交人    /u/savant78   [链接] [评论]]]></description>
+      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>公共文档 OSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用 outline/outline，但它主要专注于内部文档。在与客户共享公共链接时，它目前是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决这个问题，并且可能基于 Next.JS 构建  而且我们没有时间构建静态 NextJS 网站服务文档，因为团队规模小，文档大量由非技术人员编写。    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
+      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
       <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>开源维护者 - 告诉我你的挣扎</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</link>
-      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 相结合，可以帮助解决很多此类问题。 最大的项目是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[管理文件链接   由   提交/u/fbrichs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cip7sg/any_opensource_alternative_to_hookmarked/</guid>
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
-      <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
-      <pubDate>Thu, 02 May 2024 19:12:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
