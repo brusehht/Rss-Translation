@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 15:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 18:17:46 GMT</lastBuildDate>
+    <item>
+      <title>开源 Discord 机器人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</link>
+      <description><![CDATA[嗨， 我想介绍一个有趣的小型 discord 机器人，它使用开放的 AI API 与用户进行交流。它具有一套正在开发的审核功能，但真正让它脱颖而出的是开发完整角色或个性的能力。 该机器人实际上可以改变服务器中每个频道的个性，而且它们可以像您希望的那样丰富和多样化。虽然 AI 市场的许多其他领域都专注于数据、统计数据和分析，但我想在为人们创造一个有趣的互动环境方面，更多地关注 AI 中人类状况的异想天开的一面。 请查看该项目并给我留下一些反馈。如果您觉得值得，请考虑留下一颗星，也许可以赞助它。  谢谢。 开源 discord 机器人    由   提交  /u/RobertD3277   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clnux2/open_source_discord_bot/</guid>
+      <pubDate>Mon, 06 May 2024 16:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 AI 定义 – 5 月 6 日每周更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</link>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clmpju/open_source_ai_definition_weekly_update_may_6/</guid>
+      <pubDate>Mon, 06 May 2024 16:03:02 GMT</pubDate>
+    </item>
     <item>
       <title>开源学校作业</title>
       <link>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</link>
-      <description><![CDATA[亲爱的 Reddit 朋友们， 我即将结束我第一年的 IT 学习，我的任务是为一个开源项目做出贡献。 它可以是任何你能想到的东西，但请记住，我只使用过以下语言：  html php css Java kotlin  有人有什么建议或想法吗？它需要在一周内完成，我倾向于承担对我来说太大的项目：) 很高兴收到您的想法    提交人    /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
+      <description><![CDATA[亲爱的 Reddit 朋友们， 我将通过一项作业来结束我的 IT 学习第一年，以便为以下项目做出贡献一个开源项目。 它可以是你能想到的任何东西，但请记住我只使用过以下语言：  html php css Java kotlin &gt;  有人有建议或想法吗？它需要在一周内完成，我倾向于承担对我来说很大的项目:) 很高兴听到你的想法   由   提交 /u/Lumpy_Hawk2410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cljvkg/open_source_school_assignment/</guid>
       <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
-      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，良好的使用对决定有一点帮助。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>OSS Weather：适用于 iOS/Android 的开源天气应用</title>
+      <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
       <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 03 May 2024 18:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>业务问题 - 开源供应商的成功渠道合作伙伴模式？</title>
+      <title>商业问题——开源供应商的成功渠道合作伙伴模式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</link>
       <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软开发者博客搜索工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
-      <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
-      <pubDate>Fri, 03 May 2024 03:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源维护者 - 告诉我你的挣扎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</link>
-      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
-      <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
