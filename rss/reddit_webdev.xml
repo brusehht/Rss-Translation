@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 06 May 2024 18:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 21:12:00 GMT</lastBuildDate>
+    <item>
+      <title>CS 老师试图将 LLM 整合到我学校的网站中。有没有人将法学硕士集成到网站中，我喜欢一些建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cltypd/cs_teacher_here_trying_to_integrate_an_llm_into/</link>
+      <description><![CDATA[所以我想知道是否有人知道任何好的文档或教程来执行此操作。  创建网站和 UI 已经完成。 我假设我需要使用 openAI API 假设我需要发送LLM 和我的网站之间的数据发送和接收，我实际上只是研究了 HTTP 请求，但那是非常新的。 这实际上会有多代码量，或者这是一个轻型电梯。我熟悉Python、Js、C#，但在专业方面仍然是一个初学者。  CS50.ai 是这个的哈佛版本，但我想要一些东西为我的学生量身定制。   由   提交 /u/hexcodehero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cltypd/cs_teacher_here_trying_to_integrate_an_llm_into/</guid>
+      <pubDate>Mon, 06 May 2024 20:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Spotify API 会给我一个 400：错误请求？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cltg2y/why_does_the_spotify_api_give_me_a_400_bad/</link>
+      <description><![CDATA[这是一个 Nuxt3 /server API 路由，如果这很重要的话。我三次检查了 clientId、clientSecret 和 authCode。我尝试过同时使用 Nuxt $fetch 实用程序和 axios。 import axios from &quot;axios&quot;;导出默认defineEventHandler(async (event) =&gt; { const clientId = useRuntimeConfig().spotifyClientId const clientSecret = useRuntimeConfig().spotifyClientSecret const redirectUri = &quot;http://localhost:3000/connect-to-spotify-result&quot; const authCode = getQuery(event).authCode; if (!authCode) { return new Response(&quot;缺少 authCode&quot;, { status: 400 }); } console.log(authCode) const params = new URLSearchParams(); (“grant_type”, “authorization_code”) params.append(“code”, authCode.toString()) params.append(“redirect_uri”, redirectUri) const auth = btoa(`${clientId}:${ clientSecret}`) const response = wait axios.post(&quot;https://accounts.spotify.com/api/token&quot;, params, { headers: { &quot;授权&quot;: `基本 ${auth}`, &quot; Content-Type”：“application/x-www-form-urlencoded” } }) console.log(response) 返回响应 })  ​   由   提交 /u/Fant1xX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cltg2y/why_does_the_spotify_api_give_me_a_400_bad/</guid>
+      <pubDate>Mon, 06 May 2024 20:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要通过托管商上的 github 托管网站的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clsnz9/need_help_in_hosting_website_through_github_on/</link>
+      <description><![CDATA[我想使用 hostinger 但通过 github 托管我的 react 应用程序，因此它可以作为版本控制，我找不到有用的文章，然后它最终将我的代码推送到 public_html 文件夹中，而不是网站所需的构建文件，我该怎么做，有人可以帮忙    提交人    /u/dinner88   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clsnz9/need_help_in_hosting_website_through_github_on/</guid>
+      <pubDate>Mon, 06 May 2024 20:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一天 CSS 远离废话...我的 Reddit 看起来如何</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clsavy/css_a_day_keeps_bs_away_how_my_reddit_looks/</link>
+      <description><![CDATA[https://i.imgur.com/A71Oa7x.png 我一直在努力专注于创造被动收入，reddit 一直是我分心的主要来源，在离开所有无用的子版块后，我仍然发现 reddit 非常分散注意力......就像我甚至忘记了我在想什么来解析信息 我尝试使用旧网站，但即使这样也太分散注意力了..  所以经过一些 css    提交人    /u/techsin101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clsavy/css_a_day_keeps_bs_away_how_my_reddit_looks/</guid>
+      <pubDate>Mon, 06 May 2024 19:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求合作者来增强投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cls3wx/seeking_collaborators_to_enhance_portfolio_website/</link>
+      <description><![CDATA[我很高兴向大家介绍我的最新项目：一个独特的作品集网站，它将 2D 平台游戏的魅力与“关于”等经典作品集部分融为一体“我”、“项目”、“技能”和“联系我”。作为一个对 HTML Canvas 相对较新并在一段时间后重新审视 JavaScript 的人，我在这项工作中看到了很多成长的机会。 这就是我的目标： -响应能力 (最重要）：确保网站在所有设备和屏幕尺寸上无缝显示和运行。 -性能：优化加载速度和整体性能，以获得更流畅的用户体验。 -轻量级：最大限度地减少不必要的膨胀，使网站尽可能轻量级，同时又不影响功能。 遗憾的是，我在实现这些功能时面临着挑战，非常感谢任何感兴趣的人的指导或合作。 我已在 GitHub 上设置了该项目以进行协作：https://splash-nemo.github.io/port-doodle / PS：出于个人和职业原因，我已从网站上删除了与我的姓名和联系方式相关的信息。 &lt;!-- SC_ON - -&gt;  由   提交 /u/Single-Bandicoot-761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cls3wx/seeking_collaborators_to_enhance_portfolio_website/</guid>
+      <pubDate>Mon, 06 May 2024 19:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSON 数字到底是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clr689/what_even_is_a_json_number/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clr689/what_even_is_a_json_number/</guid>
+      <pubDate>Mon, 06 May 2024 19:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于将常见服务器脚本部署到常见云环境的部署工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clr0ts/deployment_tool_for_deploying_common_server/</link>
+      <description><![CDATA[问题： 服务/平台是否有一个名称： 1) 存在，以便您可以将常用的脚本部署到各种目标上（例如：Wordpress、后端组件等） 但同时： 2) 允许您部署到任何您想要的地方 - 无论是VPS、AWS 实例……任何兼容的云环境？ （在我看来）这部分市场有点夹在两个世界之间：IaaS 部署工具（如 Pulumi）都是关于基础设施即代码。但是像 Heroku 这样的工具想要吸引你使用他们的基础设施。 我想我能理解为什么会这样（即收入模式 - 很难从一次性安装中赚钱）。但同样，它仍然让我寻找一种节省时间的工具 - 因为一天内第 10 次设置 Wordpress 或 PostgreSQL ......并不是有效地利用时间。  建议？名字？这都会有所帮助！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clr0ts/deployment_tool_for_deploying_common_server/</guid>
+      <pubDate>Mon, 06 May 2024 18:58:58 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu VM 上的 LAMP 服务器</title>
       <link>https://www.reddit.com/r/webdev/comments/1clpfvv/lamp_server_on_ubuntu_vm/</link>
@@ -29,16 +78,9 @@
     <item>
       <title>与您的实际工资相比，您从独立 Web 开发项目中赚了多少钱？</title>
       <link>https://www.reddit.com/r/webdev/comments/1clnfuf/how_much_do_you_make_from_your_independent_web/</link>
-      <description><![CDATA[显然，由于社交媒体（较低的低点和较高的高点），结果会有偏差。 实际上，如果基本工资是 100,000 美元，我预计很多人从他们的副业项目中获得的基本工资的 10% 都不到。 但谁知道呢，也许我完全错了，而且不了解情况。 有什么想法吗？    提交人    /u/SeriouslySally36   [链接] [评论]]]></description>
+      <description><![CDATA[显然，由于社交媒体（较低的低点和较高的高点），结果会有所偏差。 实际上，我并不期望有很多结果如果他们的基本工资是 100,000 美元，人们甚至可以从他们的副业项目中赚取基本工资的 10%。 但谁知道呢，也许我完全错了并且不知情。  想法？   由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clnfuf/how_much_do_you_make_from_your_independent_web/</guid>
       <pubDate>Mon, 06 May 2024 16:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的末日感</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clna77/sense_of_ai_doom/</link>
-      <description><![CDATA[在我担任 C#.NET 开发人员/PHPLaravel 开发人员的职业生涯中已有 6 年了，我一直觉得编码是我的金票，我从来没有打算这样做成为“职业发展者”从长远来看，我对创业有着痴迷，我百分百致力于发展自己的事业，而我现在正处于它的边缘。 -但感觉并不像不再是一张金票了，尤其是在过去 12 个月里，我了解到了一些事实，即普通公司实际上是如何憎恨开发人员的，并认为我们 - 不是能够与计算机对话并且物有所值的惊人天才 - 而是大规模企业迫切希望以某种方式摆脱不便的成本负担。 还有 - 人工智能......程序员将程序员编程为冗余的产品。 我喜欢引擎，没有什么比引擎更好的了。 V8 路虎揽胜 SVR 在隧道中发出的声音，听起来就像世界末日的开始……我不想开着一辆安静无聊的电动汽车到处行驶，它会告诉我生命体征……但它正在发生，我们都在无论我们是否喜欢，都会比我们想象的更快地驾驶电动汽车。 我喜欢编码，目前的形式，我喜欢语言语法和功能，我喜欢原则和设计模式，我喜欢框架和库，我喜欢根据干净的架构创建应用程序，创建服务类、存储库、工厂、事件、CQRS blablabla...我很擅长，这是我的目的，我将用它来创建一些令人惊奇的东西- 我的目标不是数十亿美元，但至少为我和我的家人实现完全的自由和独立...... 正当我变得足够好能够实现这一切时 - 所有的突然之间，整个世界都决心让我的技能变得多余，抢走我的风头，并把我排除在交易之外。 我在基础层面上使用人工智能，github副驾驶，GPT / Dall-E等等等等...我认为很多人理所当然地认为它实际上有多先进，但更重要的是 - 技术增长是指数级的，它来得如此之快，甚至不到 10 年 - 我百分百肯定绝大多数使用主流语言和框架工作的高级程序员将不再需要……也不值得创造人工智能可以创造的东西。 在过去的 12 个月里，我离开了从感觉自己很有价值、有价值、有动力去创造一些东西……到感到极度焦虑、不安全、很快就会变得一文不值，我现在只是痴迷于如何快速成为百万富翁以实现目标在我变得多余之前实现财务独立。   由   提交 /u/B333TR000T   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clna77/sense_of_ai_doom/</guid>
-      <pubDate>Mon, 06 May 2024 16:26:08 GMT</pubDate>
     </item>
     <item>
       <title>[邮件功能]替代品？</title>
@@ -48,14 +90,7 @@
       <pubDate>Mon, 06 May 2024 16:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>从面试中可以期待什么来评估我在工作时如何处理不同的情况</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clmvlt/what_to_expect_from_an_interview_to_evaluate_how/</link>
-      <description><![CDATA[所以，我正在申请后端或全栈职位（他们有 2 个职位），我已经经历了第一次面试，基本上只是了解我，告诉我有关公司的信息等。然后我也做了一个代码挑战。 现在我几天前收到一封电子邮件说我通过了下一次面试，我问什么是面试的内容，并告诉我面试的目的是评估我在工作时如何处理不同的情况（不是确切的措辞，因为是西班牙语），而且不需要事先准备。 这次采访我应该期待什么？我已经知道他们会问什么，但我真的很想要这份工作，并且想确保我已经做好准备。   由   提交/u/leinad41  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clmvlt/what_to_expect_from_an_interview_to_evaluate_how/</guid>
-      <pubDate>Mon, 06 May 2024 16:09:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>报纸网站上充斥着广告，毫无用处</title>
+      <title>报纸网站上充斥着大量广告，毫无用处</title>
       <link>https://www.reddit.com/r/webdev/comments/1clmqa5/newspaper_sites_are_so_cluttered_with_ads_that/</link>
       <description><![CDATA[      大多数报纸网站似乎都是这样。我知道他们需要赚钱，如果没有人购买报纸并在线阅读故事，那么网络广告将成为他们的主要收入来源，但这太荒谬了！ 感觉就像你必须剥开多层洋葱才能看到文章（无论如何，通常每个段落之间都散布着广告！）文章本身通常只是点击诱饵反刍的垃圾。 无论如何，有点咆哮，但令我困惑的是，这种做法足以让他们继续这样做。我几乎立即退出此类网站   由   提交/u/EthanCPP   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clmqa5/newspaper_sites_are_so_cluttered_with_ads_that/</guid>
@@ -69,46 +104,11 @@
       <pubDate>Mon, 06 May 2024 16:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>通过 Coursera Plus 进行前端（基于邀请）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clmm2f/frontend_via_coursera_plus_invitation_basis/</link>
-      <description><![CDATA[      嘿，我很乐意帮助任何想要订阅 Coursera Plus 的人。我会邀请他们正式使用 Plus，价格为 20 美元（一年 - 组织邀请）。如果有人感兴趣，他们可以私信我，因为我的邀请有限。谢谢！   由   提交/u/red_-eagle  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clmm2f/frontend_via_coursera_plus_invitation_basis/</guid>
-      <pubDate>Mon, 06 May 2024 15:59:29 GMT</pubDate>
-    </item>
-    <item>
       <title>在客户端操作文件是否会造成安全漏洞？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cllnxa/does_manipulating_files_on_the_client_side_create/</link>
       <description><![CDATA[朋友们大家好，我想创建一个中心，用户可以在其中调整图像大小以及将 PDF 转换为 Word、JPEG 转换为 PNG 等文件。直接在客户端进行这样的操作会造成安全漏洞吗？或者我绝对需要后端服务器和数据库吗？   由   提交/u/akinpinkmaN   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cllnxa/does_manipulating_files_on_the_client_side_create/</guid>
       <pubDate>Mon, 06 May 2024 15:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是后端开发新手，但为什么我的 cookies 在页面刷新时或当我在 react 和 express 上导航到其他页面时会重置？我花了一整天试图解决这个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cllbh9/i_am_new_to_backend_dev_but_why_my_cookies_reset/</link>
-      <description><![CDATA[我的登录导出 const signIn = catchAsync( async (req: customRequestOptions, res: Response, next: NextFunction) =&gt; { const { 电子邮件，密码 } = req.body; if (!email || !password) { return next(AppError(“请提供有效的电子邮件和密码”, 404)); email: email }).select(&quot;+password&quot;); if (!user) { return next(AppError(&quot;请输入有效的电子邮件地址和密码&quot;, 401)); wait user. CorrectPassword(password, user.password))) { return next(AppError(“请提供正确的电子邮件或密码”, 401)); } const accessToken = jwt.sign({ user }, process.env. JWT_SECRET as string, { expiresIn: &quot;10s&quot;, }); const refreshToken = jwt.sign( { user }, process.env.REFRESH_JWT_SECRET as string, { expiresIn: &quot;1d&quot; }, ); ;jwt&quot;, refreshToken, { httpOnly: true, secure: true, //https sameSite: &quot;none&quot;, //跨站 cookies maxAge: 7 * 24 * 60 * 60 * 1000, }); res.json({ accessToken }); },);导出常量刷新 = (req: customRequestOptions, res: Response) =&gt; { const cookies = req.cookies; if (!cookies.jwt) return res.status(401).json({ message: “未经授权” }); const refreshToken = cookies.jwt; jwt.verify(refreshToken,process.env.REFRESH_JWT_SECRET as string,{},async(err:any,decode:any)=&gt;{if(err)returnres.status(403).json({message:&quot;禁止” }); const findUser = wait User.findOne({ email:decode.email }); if (!foundUser) return res.status(401).json({ message: “未授权” }); = jwt.sign(foundUser, process.env.JWT_SECRET as string, { expiresIn: &quot;10s&quot; }, ); res.json({ accessToken }); };我的索引导出接口 customRequestOptions extends Request { user?: any; } 导出类型 ExpressBasic = { req: 请求; res：响应；下一个：下一个函数； }; dotenv.config();导出 const app = express(); // const corsOptions = { // 方法: [&quot;GET&quot;, &quot;POST&quot;], // 允许 GET 和 POST 请求 // allowedHeaders: [ // &quot;set-cookie&quot;, // &quot;Content-Type&quot; ;, // &quot;Access-Control-Allow-Origin&quot;, // &quot;Access-Control-Allow-Credentials&quot;, // ], // displayedHeaders: [&quot;Content-Length&quot;], // 公开此自定义header // 凭证：true, // 允许凭证（cookies、HTTP 身份验证） // preflightContinue: false, // 如果预检请求失败，则不继续 // }; app.use( cors({ origin: &quot;http://localhost:5173&quot;, 凭证: true, }), ); app.use(function (req, res, next) { res.header(&quot;Access-Control-Allow-Credentials&quot;, &quot;true&quot;); next(); }); app.options(“*”, cors()); app.use(摩根(“dev”)); app.use(cookieParser()); app.use(express.json()); app.use(express.urlencoded({ 扩展: true, 限制: &quot;10kb&quot; })); //它使用 URL 编码的有效负载解析传入请求，并基于主体解析器。这适用于表单 app.use(“/api/v1/posts”, postRouter); app.use(“/api/v1/users”, userRouter); app.use(globalErrorHandler);    由   提交 /u/Mr_Resident   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cllbh9/i_am_new_to_backend_dev_but_why_my_cookies_reset/</guid>
-      <pubDate>Mon, 06 May 2024 15:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何准备“解决问题”评估？？？！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cll2xh/how_am_i_supposed_to_prepare_for_the_problem/</link>
-      <description><![CDATA[我从一家公司获得了 Angular 前端开发人员的工作机会。我接受了几次面试，今天我收到了包括 Typescript、Angular 和“问题解决”在内的评估。起初，我以为这是一个数学解题测试或者一些与技术问题有关的东西，所以我准备了笔和纸开始。然而，我首先看到的却是一堆正方形、直线、圆形等几何形状。我从事软件工程师近10年了，这是我第一次看到这种类型的测试。我现在很困惑。一堆正方形和圆形与 Angular 框架有什么关系？ 我应该如何为此做好准备？？？   由   提交 /u/Temporary-Divide-741   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cll2xh/how_am_i_supposed_to_prepare_for_the_problem/</guid>
-      <pubDate>Mon, 06 May 2024 14:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何引导继承的代码库朝着正确的方向发展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clkey6/how_to_steer_an_inherited_codebase_in_the_right/</link>
-      <description><![CDATA[我们有 3 名开发人员，我是唯一的前端人员，我已经这样做了一年。我从总共 20 多名贡献者那里继承了这个代码库，他们为此工作了大约一年（波动很大，多个承包商）。可以肯定地说，当我接手它时，它有点混乱，而且（可以说）它只是稍微好一点，因为我花了 90% 以上的时间在功能上。 起初我有点更加理想主义，想要清理并干燥我触及的任何部分。我想我已经认识到，由于经验、监督和质量保证有限，这不是一个好方法。这也是一种特殊的机制，会将大量时间转化为大量错误。 那么，如何轻轻地将继承的代码库引导到正确的方向，它很简单，只是有点湿，容易适应吗？ 我认为这主要是一个关于项目管理的问题，而不是关于软件架构的问题。我正在使用 ts+react+rtk+tailwind+react-router+i18next，因此大部分问题似乎已“解决”。    ;由   提交/u/lincore81  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clkey6/how_to_steer_an_inherited_codebase_in_the_right/</guid>
-      <pubDate>Mon, 06 May 2024 14:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种布局看起来更好？ （或者推荐其他的）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clk8lg/which_layouts_looks_better_or_suggest_some_other/</link>
-      <description><![CDATA[       由   提交/u/utsav_0   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clk8lg/which_layouts_looks_better_or_suggest_some_other/</guid>
-      <pubDate>Mon, 06 May 2024 14:20:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
