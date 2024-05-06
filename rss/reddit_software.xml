@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 06 May 2024 03:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:16:25 GMT</lastBuildDate>
+    <item>
+      <title>嵌入式 LUKS (E-LUKS)：物联网安全的硬件解决方案——“物联网 (IoT) 安全是开发人员必须面对的最重要问题之一。” E-LUKS“框架”“类似于Linux系统中用于加密数据分区的Linux统一密钥设置（LUKS）解决方案”。</title>
+      <link>https://www.reddit.com/r/software/comments/1clbmf8/embedded_luks_eluks_a_hardware_solution_to_iot/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clbmf8/embedded_luks_eluks_a_hardware_solution_to_iot/</guid>
+      <pubDate>Mon, 06 May 2024 05:42:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>地图任天堂切换屏幕截图按钮以不和谐一键通话</title>
+      <link>https://www.reddit.com/r/software/comments/1clagnv/map_nintendo_switch_screenshot_button_to_discord/</link>
+      <description><![CDATA[我正在使用任天堂 Switch 控制器在 Windows PC 上的 Steam 上玩游戏，这让我大吃一惊，弄清楚这是多么困难。我想重新映射屏幕截图按钮，以便它可以在不和谐中启用一键通，可以映射到任何按钮。我尝试将其映射到`键，然后在steam大图片模式下，将屏幕截图按钮更改为`，但是在游戏本身中，单击`不会在不和谐中注册。  我愿意购买另一个控制器，这可能会让事情变得更容易。 Xbox 控制器是否更适合在 Steam 上玩游戏/重新映射一键通？任何能让这一切变得尽可能简单的事情，而无需我堆叠不同的软件解决方案来获得我正在寻找的东西。   由   提交 /u/Embarrassed_Field_84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clagnv/map_nintendo_switch_screenshot_button_to_discord/</guid>
+      <pubDate>Mon, 06 May 2024 04:28:46 GMT</pubDate>
+    </item>
     <item>
       <title>文档管理软件</title>
       <link>https://www.reddit.com/r/software/comments/1cl7e1a/document_management_software/</link>
@@ -13,14 +27,14 @@
       <pubDate>Mon, 06 May 2024 01:43:31 GMT</pubDate>
     </item>
     <item>
-      <title>海量文件的文件管理器</title>
+      <title>适用于大量文件的文件管理器</title>
       <link>https://www.reddit.com/r/software/comments/1cl63yc/file_manager_for_huge_numbers_of_files/</link>
       <description><![CDATA[我一直在使用totalcommander来执行任务，例如将照片从手机和相机移到我的Windows计算机上，然后从那里移到我的计算机上NAS 备份。  我的手机上有成千上万张照片，因此 TotalCommander 检查每个文件并复制丢失的文件的过程需要几个小时。很长时间。就像24小时一样。尽管通过 USB 3 连接并使用最先进的 PCIE SSD。 必须有更好的方法，对吧？ 此外，多年来和各种文件迁移，我留下了相当多的冗余目录和文件重复项。有什么好的实用程序可以用来排序和删除这些重复项，或者将所有内容重构到年&gt;月&gt;日之类的文件夹中？   由   提交 /u/craciant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl63yc/file_manager_for_huge_numbers_of_files/</guid>
       <pubDate>Mon, 06 May 2024 00:38:22 GMT</pubDate>
     </item>
     <item>
-      <title>有人能帮我在 Windows 11 上安装 Czkawka 吗？</title>
+      <title>谁能帮我在 Windows 11 上安装 Czkawka？</title>
       <link>https://www.reddit.com/r/software/comments/1cl5lx8/can_anyone_help_me_get_czkawka_installed_on/</link>
       <description><![CDATA[我在 Github 上找到了 Windows zip 文件并下载了它，解压了文件，但是当我双击“windows_czkawka_cli.exe”时没有任何反应。  还尝试按照说明使用 Winget 安装 Czkawka。在 CMD 提示符（以管理员身份运行）中，它显示它已成功安装，但我在应用程序的“开始”菜单列表下或在 Program Files 或 Program Files (x86) 中找不到它。以下位置中有 .exe 的副本，但双击它不会执行任何操作。 C:\Users\[用户名]\AppData\Local\Microsoft\WinGet\ Packages\qarmin.czkawka.cli_Microsoft.Winget.Source_8wekyb3d8bbwe    由   提交 /u/haley_joel_osteen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl5lx8/can_anyone_help_me_get_czkawka_installed_on/</guid>
@@ -29,7 +43,7 @@
     <item>
       <title>寻找具有特定功能的文件夹管理软件</title>
       <link>https://www.reddit.com/r/software/comments/1cl4r1r/looking_for_a_folder_management_software_with_a/</link>
-      <description><![CDATA[嗨，我需要一个文件夹管理软件，它允许我从文件夹中删除指定的文件选择。尝试修复 Minecraft 模组包。提前致谢。 （不，不仅仅是选择文件。我有一个需要删除的文件列表，我只需要一个可以让我批量删除它们的软件。（270 个文件 O_O）    提交者 /u/squiddude2578    [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我需要一个文件夹管理软件，允许我从文件夹中删除指定的文件选择。尝试修复 Minecraft 模组包。提前致谢。 （不，不仅仅是选择文件。我有一个需要删除的文件列表，我只需要一个可以让我批量删除它们的软件。（270 个文件 O_O）    提交人    /u/squiddude2578   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl4r1r/looking_for_a_folder_management_software_with_a/</guid>
       <pubDate>Sun, 05 May 2024 23:30:45 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Sun, 05 May 2024 16:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>自动跳过视频无声部分的视频播放器</title>
+      <title>自动跳过视频静音部分的视频播放器</title>
       <link>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</link>
       <description><![CDATA[youtube 上有一些扩展可以做到这一点，但我找不到一个程序可以做到这一点，这会有很大的帮助   由   提交 /u/IAmNotNeru   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>支持批量和4K下载的YouTube视频下载器</title>
       <link>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</link>
-      <description><![CDATA[大家好。我只是想知道是否有任何支持批量或队列下载以及 4k 下载器的 YouTube 视频下载器。我目前正在使用此下载器，但它不支持队列/批量下载。我不得不等到第一次下载完成后才能添加另一个视频链接。谢谢！    提交人    /u/Sekiroweb   [link] [评论]]]></description>
+      <description><![CDATA[嘿伙计们。只是想知道是否有支持批量或队列下载以及 4k 下载器的 YouTube 视频下载器。我目前正在使用此下载器，但它不支持队列/批量下载。我必须等到第一次下载完成后才能添加另一个视频链接。谢谢！   由   提交 /u/Sekiroweb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</guid>
       <pubDate>Sun, 05 May 2024 05:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>艺术灵感/类似 Pinterest 的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</link>
-      <description><![CDATA[你好！我正在寻找一个程序来帮助获得艺术灵感，该程序可用于使用设备上的文件/上传到它来创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。有助于激发灵感的一般程序也很好！   由   提交 /u/vuurren   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</guid>
-      <pubDate>Sun, 05 May 2024 02:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪辑抓取器</title>
-      <link>https://www.reddit.com/r/software/comments/1ckghgf/clipgrab/</link>
-      <description><![CDATA[Clipgrab 安全吗？我正在尝试找到一种下载 YouTube 视频的方法，我尝试了 Clipgrab。我确定我在官方网站上，然后下载了它。我收到了 Windows 安全风险通知，告诉我它给了我一个 PUP（潜在有害程序）。我卸载了它。我从其他人那里听说 Clipgrab 是安全的（只要你使用他们的官方网站），但我只是想仔细检查一下。如果没有，我正在寻找其他（最好是简单的）网站来下载 yt 视频，谢谢:)  （如果这违反了第一条规则，我也表示歉意，我已经看到其他人在过去，所以我认为没关系，ofc 我只是将其用于个人用途）   由   提交/u/Emili7689  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckghgf/clipgrab/</guid>
-      <pubDate>Sun, 05 May 2024 01:57:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
