@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 07 May 2024 03:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 06:16:53 GMT</lastBuildDate>
+    <item>
+      <title>urdo，sudo 和 run0 的“替代品”</title>
+      <link>https://www.reddit.com/r/programming/comments/1cm52ow/urdo_a_replacement_for_sudo_and_run0/</link>
+      <description><![CDATA[ 由   提交 /u/gavinhoward   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cm52ow/urdo_a_replacement_for_sudo_and_run0/</guid>
+      <pubDate>Tue, 07 May 2024 06:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究为什么我们使用分号作为语句终止符</title>
+      <link>https://www.reddit.com/r/programming/comments/1cm3zty/researching_why_we_use_semicolons_as_statement/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cm3zty/researching_why_we_use_semicolons_as_statement/</guid>
+      <pubDate>Tue, 07 May 2024 05:05:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程语言中的类型系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1cm3wxd/type_systems_in_programming_languages/</link>
+      <description><![CDATA[  由    /u/hizacharylee  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cm3wxd/type_systems_in_programming_languages/</guid>
+      <pubDate>Tue, 07 May 2024 05:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>水果忍者 (Unity)</title>
+      <link>https://www.reddit.com/r/programming/comments/1cm3hxt/fruit_ninja_unity/</link>
+      <description><![CDATA[ 由   提交/u/kingIndian831  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cm3hxt/fruit_ninja_unity/</guid>
+      <pubDate>Tue, 07 May 2024 04:35:58 GMT</pubDate>
+    </item>
     <item>
       <title>移动应用开发直播</title>
       <link>https://www.reddit.com/r/programming/comments/1cm1lj9/mobile_app_dev_live_stream/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[ 由   提交 /u/mlarose   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clzw5d/building_a_gitops_cicd_pipeline_with_github/</guid>
       <pubDate>Tue, 07 May 2024 01:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTPS 是如何工作的</title>
-      <link>https://www.reddit.com/r/programming/comments/1clzhkh/how_does_https_work/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clzhkh/how_does_https_work/</guid>
-      <pubDate>Tue, 07 May 2024 01:08:16 GMT</pubDate>
     </item>
     <item>
       <title>ASGI 基础知识 2：应用程序类与函数</title>
@@ -50,7 +71,7 @@
     <item>
       <title>我们的源代码管理最佳实践</title>
       <link>https://www.reddit.com/r/programming/comments/1clrgtq/our_best_practices_for_source_code_management/</link>
-      <description><![CDATA[ 由   提交/u/NotTheRadar24  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/NotTheRadar24  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clrgtq/our_best_practices_for_source_code_management/</guid>
       <pubDate>Mon, 06 May 2024 19:16:38 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Mon, 06 May 2024 18:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>Rust RFC 3503 - frontmatter</title>
+      <title>Rust RFC 3503 - 前言</title>
       <link>https://www.reddit.com/r/programming/comments/1clqiwd/rust_rfc_3503_frontmatter/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clqiwd/rust_rfc_3503_frontmatter/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1clqim6/supply_chain_attacks_and_the_many_different_ways/</guid>
       <pubDate>Mon, 06 May 2024 18:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特窃取合法化 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1clqil5/bitstealing_made_legal_pdf/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clqil5/bitstealing_made_legal_pdf/</guid>
-      <pubDate>Mon, 06 May 2024 18:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于现代 CSS 你需要了解什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1clqii8/what_you_need_to_know_about_modern_css/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clqii8/what_you_need_to_know_about_modern_css/</guid>
-      <pubDate>Mon, 06 May 2024 18:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>工具链死灵：过去的错误困扰着 ASLR</title>
-      <link>https://www.reddit.com/r/programming/comments/1clqige/toolchain_necromancy_past_mistakes_haunting_aslr/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1clqige/toolchain_necromancy_past_mistakes_haunting_aslr/</guid>
-      <pubDate>Mon, 06 May 2024 18:37:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
