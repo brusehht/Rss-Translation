@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 06 May 2024 21:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 00:52:18 GMT</lastBuildDate>
+    <item>
+      <title>目前穷人为小企业创建 WhatsApp 聊天机器人的方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clyqbk/what_is_the_current_poor_mans_way_of_creating_a/</link>
+      <description><![CDATA[我住在墨西哥，我妈妈想开一家小公司，这里大量使用 whatsapp。从我最初能找到的信息来看，我计划将 whatsapp-web.js 与 nlp.js 一起使用，但 nlp.js 似乎已经不再被使用了，尽管它仍然可以满足我的需求，因为我可能不需要花哨的行为。然而，由于这是一个学习机会，我想问一下目前是否有更实用的替代方案，而且这些替代方案也是免费的或非常便宜的。     提交者    /u/setdelmar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clyqbk/what_is_the_current_poor_mans_way_of_creating_a/</guid>
+      <pubDate>Tue, 07 May 2024 00:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 应用程序到 Electron — 最佳实践是什么？这应该怎么做呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clyikg/nextjs_app_to_electron_what_are_the_best/</link>
+      <description><![CDATA[我还没有开始这个，因为我想确保这实际上正确完成。 我想制作一个应用程序Next.js。该应用程序主要是一个网络应用程序，但将来我还想要一个本机桌面版本，其中包含一些仅作为网络应用程序不可能实现的附加功能。 在我开始实现网络之前dev Next.js 部分，我该怎么做才能确保代码库可以在未来的 Electron 版本中重用？我从未使用过 Electron，但我假设您不能只拥有一个 Next.js 项目，该项目具有指向 Vercel 等托管的无服务器函数的 API 路由，然后将该项目放入 Electron 包装器或类似的东西中。无论如何，这尤其不适用于我的用例，因为 Electron 版本应该带有一些额外的功能，如果它不是桌面应用程序，这些功能就不可能实现。我知道我可以使用 Qt、JavaFX、.NET MAUI 或替代方案，但是我无法重用我已有的大部分代码库。 无论如何，目标是以某种方式拥有最好的可能设置将使我能够重用最多的代码。或者这是不可能的，我必须有 2 个完全不同的存储库（Next.js 项目和 Electron 项目），它们共享一些相同的代码和一些略有不同的代码？   由   提交 /u/tempaccount00101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clyikg/nextjs_app_to_electron_what_are_the_best/</guid>
+      <pubDate>Tue, 07 May 2024 00:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助为我的寄宿业务开发全栈 MERN 网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clxlnm/help_need_to_develop_fullstack_mern_website_for/</link>
+      <description><![CDATA[我计划为我的寄宿业务创建一个全栈 MERN 网站。这将使客户能够：  选择入住和退房日期 选择客人人数 使用安全付款预订房间gateway  成功预订后，客户将收到一封包含其详细信息的确认电子邮件。此信息还将实时发送到单独的管理门户，确保所有预订都存储在数据库中。 为了防止重复预订，该网站将只允许预订可用房间。该平台将由两个独立的门户组成：一个用户友好的客户门户和一个用于管理预订和客户详细信息的管理门户。   由   提交/u/luciferxhx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clxlnm/help_need_to_develop_fullstack_mern_website_for/</guid>
+      <pubDate>Mon, 06 May 2024 23:36:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>推送通知或定期检查用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clwrmf/push_notification_or_periodically_checking_from/</link>
+      <description><![CDATA[我正在考虑制作有关工作机会的应用程序，当我发布新的工作职位机会时，我如何将新职位发送给用户？我可以想到两种情况：1.推送通知服务，但这会花费额外的钱2.定期从用户到服务器端点检查，免费但不是实时的，会给服务器带来额外的负载 你的想法??   由   提交 /u/lorens_osman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clwrmf/push_notification_or_periodically_checking_from/</guid>
+      <pubDate>Mon, 06 May 2024 22:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于网站管理员来说最好的 Reddit 子版块是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clw8lt/whats_the_best_subreddit_for_webmasters/</link>
+      <description><![CDATA[我正在寻找一个可以加入的 Reddit 子版块，其中有网站管理员分享运行多个网站的经验、提示和技巧。 流量获取技巧/最佳实践适用于每个利基市场（娱乐/旅行）的技巧 看看除了搜索之外是否有任何新方法可以为我的网站带来流量。 Ppc 看起来很有趣，但我没有可以转换的产品。  简单的技巧，不是垃圾邮件，可以增加网页浏览量，同时考虑到用户体验*  谢谢！  &amp;# 32；由   提交 /u/backsidefloater   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clw8lt/whats_the_best_subreddit_for_webmasters/</guid>
+      <pubDate>Mon, 06 May 2024 22:34:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Nunjucks (NJK) 中，“中心”过滤器有什么作用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1clv2lg/in_nunjucks_njk_what_does_the_center_filter_do/</link>
+      <description><![CDATA[大家好，书呆子们。 温习一下 11ty 和 Nunjucks，同时浏览 NJK 文档中有关内置过滤器的部分，其中有一个名为“center”的过滤器，其定义和示例非常模糊，可在此处查看。 它的字面意思是，  将给定宽度的字段中的值居中：  示例如下： // 输入：{{“fooo”| center }} // 输出 fooo  从这一点来看，我完全不知道它实际上应该做什么，而且我在网上搜索也找不到任何进一步的信息。因为我不知道它是做什么用的，所以我对它没有任何迫切的需求。只是好奇。输入与输出完全相同，所以我不知道它应该显示什么。 谢谢！    提交人    /u/tetractys_gnosys   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1clv2lg/in_nunjucks_njk_what_does_the_center_filter_do/</guid>
+      <pubDate>Mon, 06 May 2024 21:44:59 GMT</pubDate>
+    </item>
     <item>
       <title>CS 老师试图将 LLM 整合到我学校的网站中。有没有人将法学硕士集成到网站中，我喜欢一些建议。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cltypd/cs_teacher_here_trying_to_integrate_an_llm_into/</link>
@@ -22,23 +64,16 @@
     <item>
       <title>需要通过托管商上的 github 托管网站的帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1clsnz9/need_help_in_hosting_website_through_github_on/</link>
-      <description><![CDATA[我想使用 hostinger 但通过 github 托管我的 react 应用程序，因此它可以作为版本控制，我找不到有用的文章，然后它最终将我的代码推送到 public_html 文件夹中，而不是网站所需的构建文件，我该怎么做，有人可以帮忙    提交人    /u/dinner88   [link] [评论]]]></description>
+      <description><![CDATA[我想使用 Hostinger 托管我的 React 应用程序，但通过 github，所以它可以作为版本控制，我找不到有用的文章，随后的一篇文章最终推动了我的public_html 文件夹中的代码不是网站所需的构建文件我该怎么做有人可以帮助   由   提交/u/dinner88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clsnz9/need_help_in_hosting_website_through_github_on/</guid>
       <pubDate>Mon, 06 May 2024 20:05:20 GMT</pubDate>
     </item>
     <item>
       <title>一天 CSS 远离废话...我的 Reddit 看起来如何</title>
       <link>https://www.reddit.com/r/webdev/comments/1clsavy/css_a_day_keeps_bs_away_how_my_reddit_looks/</link>
-      <description><![CDATA[https://i.imgur.com/A71Oa7x.png 我一直在努力专注于创造被动收入，reddit 一直是我分心的主要来源，在离开所有无用的子版块后，我仍然发现 reddit 非常分散注意力......就像我甚至忘记了我在想什么来解析信息 我尝试使用旧网站，但即使这样也太分散注意力了..  所以经过一些 css    提交人    /u/techsin101   [链接] [评论]]]></description>
+      <description><![CDATA[https://i.imgur.com/A71Oa7x .png 我一直在努力专注于创造被动收入，而 Reddit 一直是分散注意力的主要来源，在离开所有无用的潜艇后，我仍然发现 Reddit 非常分散注意力......就像我什至忘记了我在尝试解析信息时的想法 我尝试使用旧网站，但即使这样也太分散注意力..  所以在一些CSS之后   由   提交/u/techsin101  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clsavy/css_a_day_keeps_bs_away_how_my_reddit_looks/</guid>
       <pubDate>Mon, 06 May 2024 19:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求合作者来增强投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cls3wx/seeking_collaborators_to_enhance_portfolio_website/</link>
-      <description><![CDATA[我很高兴向大家介绍我的最新项目：一个独特的作品集网站，它将 2D 平台游戏的魅力与“关于”等经典作品集部分融为一体“我”、“项目”、“技能”和“联系我”。作为一个对 HTML Canvas 相对较新并在一段时间后重新审视 JavaScript 的人，我在这项工作中看到了很多成长的机会。 这就是我的目标： -响应能力 (最重要）：确保网站在所有设备和屏幕尺寸上无缝显示和运行。 -性能：优化加载速度和整体性能，以获得更流畅的用户体验。 -轻量级：最大限度地减少不必要的膨胀，使网站尽可能轻量级，同时又不影响功能。 遗憾的是，我在实现这些功能时面临着挑战，非常感谢任何感兴趣的人的指导或合作。 我已在 GitHub 上设置了该项目以进行协作：https://splash-nemo.github.io/port-doodle / PS：出于个人和职业原因，我已从网站上删除了与我的姓名和联系方式相关的信息。 &lt;!-- SC_ON - -&gt;  由   提交 /u/Single-Bandicoot-761   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cls3wx/seeking_collaborators_to_enhance_portfolio_website/</guid>
-      <pubDate>Mon, 06 May 2024 19:43:08 GMT</pubDate>
     </item>
     <item>
       <title>JSON 数字到底是什么？</title>
@@ -48,9 +83,9 @@
       <pubDate>Mon, 06 May 2024 19:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>用于将常见服务器脚本部署到常见云环境的部署工具？</title>
+      <title>用于将通用服务器脚本部署到通用云环境的部署工具？</title>
       <link>https://www.reddit.com/r/webdev/comments/1clr0ts/deployment_tool_for_deploying_common_server/</link>
-      <description><![CDATA[问题： 服务/平台是否有一个名称： 1) 存在，以便您可以将常用的脚本部署到各种目标上（例如：Wordpress、后端组件等） 但同时： 2) 允许您部署到任何您想要的地方 - 无论是VPS、AWS 实例……任何兼容的云环境？ （在我看来）这部分市场有点夹在两个世界之间：IaaS 部署工具（如 Pulumi）都是关于基础设施即代码。但是像 Heroku 这样的工具想要吸引你使用他们的基础设施。 我想我能理解为什么会这样（即收入模式 - 很难从一次性安装中赚钱）。但同样，它仍然让我寻找一种节省时间的工具 - 因为一天内第 10 次设置 Wordpress 或 PostgreSQL ......并不是有效地利用时间。  建议？名字？这都会有所帮助！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <description><![CDATA[问题： 是否有服务/平台的名称： 1) 存在，以便您可以将常用脚本部署到各种目标上（例如：Wordpress、后端组件等） 但是，它还： 2) 允许您部署到任何您想要的地方 - 无论是 VPS、AWS 实例......任何兼容的云环境？ 似乎（在我看来）这部分市场有点夹在两个世界之间：IaaS 部署工具（如 Pulumi）都是关于基础设施即代码的。但是，像 Heroku 这样的工具想要让您使用他们的基础设施。 我想我可以理解为什么会这样（即收入模式 - 很难通过一次性安装赚钱）。但同样，它仍然让我寻找一种节省时间的工具 - 因为一天内第 10 次设置 Wordpress 或 PostgreSQL......并不是对时间的有效利用。  建议？名字？这些都会有帮助！    提交人    /u/danielrosehill   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clr0ts/deployment_tool_for_deploying_common_server/</guid>
       <pubDate>Mon, 06 May 2024 18:58:58 GMT</pubDate>
     </item>
@@ -62,53 +97,18 @@
       <pubDate>Mon, 06 May 2024 17:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>会话与 JWT（租户、移动设备、Web）</title>
+      <title>会话与 JWT（租户、移动、网络）</title>
       <link>https://www.reddit.com/r/webdev/comments/1clowl6/sessions_vs_jwts_tenants_mobile_web/</link>
-      <description><![CDATA[嘿，我们有基于 PHP 的应用程序，带有 React Web 应用程序和 Android 客户端。我们的应用程序现在正在使用 JWT，但它的实现有点混乱，我们想重构它，甚至完全切换到会话 为什么？因为 JWT 上有几个困难的因素：  应用程序是多租户的，即用户可以属于多个组，然后将请求发送到 api.service/{tenant_id}/ payment 等端点 - 我们使用httpOnly，安全cookie来存储令牌/jwt，因此它们对应用程序完全不可见。用户应该能够同时登录多个租户，但现在这是有问题的，因为我们只有一个 cookie。移动应用程序使用不记名令牌，但网络应用程序只能使用这些 cookie，所以这是真正的问题。通过会话，我们可以在服务器级别进行控制 性能通常是 JWT 的争论点，但我们希望利用 Redis 来存储会话，而且应用程序类似于模块化整体，它是一切的网关，所以我们这样做不利用 JWT 的优势，例如轻松访问多个分布式服务 撤销：租户管理员应该能够快速删除特定用户的访问权限，而使用 JWT 则更难。我们可以在 Redis 上使用黑名单，但这意味着我们需要验证每个请求...看起来与会话操作非常相似 - 但也许我错了？ 总体而言，每个连接应用程序都必须获取一些用户数据，所以即使我们有 JWT，我们仍然需要调用 DB...并且每个请求都会进行很多次，因此只需额外的 redis 调用看起来并不是什么大问题 处理会话可以比添加生成令牌、刷新等简单得多。 - 好吧，有一些很棒的库，但会话仍然只是原生  我不确定，但看起来就像在我们的案例中，会议将是最好的，但也许我错过了一些东西，应该包括它？非常欢迎任何反馈！    由   提交 /u/Left-Cartographer511    reddit.com/r/webdev/comments/1clowl6/sessions_vs_jwts_tenants_mobile_web/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嘿，我们有基于 PHP 的应用程序，带有 React Web 应用程序和 Android 客户端。我们的应用程序现在正在使用 JWT，但它的实现有点混乱，我们想重构它，甚至完全切换到会话 为什么？因为 JWT 上有几个困难的因素：  应用程序是多租户的，即用户可以属于多个组，然后将请求发送到 api.service/{tenant_id}/ payment 等端点 - 我们使用httpOnly，安全cookie来存储令牌/jwt，因此它们对应用程序完全不可见。用户应该能够同时登录多个租户，但现在这是有问题的，因为我们只有一个 cookie。移动应用程序使用不记名令牌，但网络应用程序只能使用这些 cookie，所以这是真正的问题。通过会话，我们可以在服务器级别进行控制 性能通常是 JWT 的争论点，但我们希望利用 Redis 来存储会话，而且应用程序类似于模块化整体，它是一切的网关，所以我们这样做不利用 JWT 的优势，例如轻松访问多个分布式服务 撤销：租户管理员应该能够快速删除特定用户的访问权限，而使用 JWT 则更难。我们可以在 Redis 上使用黑名单，但这意味着我们需要验证每个请求...看起来与会话操作非常相似 - 但也许我错了？ 总体而言，每个连接应用程序都必须获取一些用户数据，所以即使我们有 JWT，我们仍然需要调用 DB...并且每个请求都会发出很多数据，因此仅需要额外的 redis 调用看起来并不是什么大问题 处理会话可以比添加生成令牌、刷新等简单得多。 - 好吧，有一些很棒的库，但会话仍然只是原生  我不确定，但看起来就像在我们的案例中，会议将是最好的，但也许我错过了一些东西，应该包括它？任何反馈都非常受欢迎！    由   提交 /u/Left-Cartographer511    reddit.com/r/webdev/comments/1clowl6/sessions_vs_jwts_tenants_mobile_web/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clowl6/sessions_vs_jwts_tenants_mobile_web/</guid>
       <pubDate>Mon, 06 May 2024 17:32:08 GMT</pubDate>
     </item>
     <item>
       <title>客户的“SEO 专家”希望获得该网站的完全管理员访问权限：有关访问和移交的问题（以及一些关于 SEO“专家”的评论）。</title>
       <link>https://www.reddit.com/r/webdev/comments/1clob04/clients_seo_expert_wants_full_admin_access_to_the/</link>
-      <description><![CDATA[[TL;DR:   你们如何进行交接拥有登陆网站或小型电子商务网站的小型企业；您会为他们提供一切，为未来的业务定位自己，还是其他什么？ 您如何处理“SEO 优化”问题？小丑？]  嗨！ 不久前我创办了一家个人经纪公司。显然，这样的情况将从一开始就让我们了解全面合同的重要性。  我使用 Wix Studio 为客户构建了一个网站，因为他们的网站类型和 Wix 的基础设施使其非常适合。该网站经过 SEO 优化，因为它是在 2024 年的平台上构建的。图像命名正确，标签分配正确，Studio 在网站管理控制台的 SEO 设置下很好地呈现了需要完成的所有操作。  他们被 Google/Meta 广告承包商欺骗了，他们说服他们需要每月向他支付费用来“优化”广告。我为他们建立的网站。他每月向他们收取的费用仅略低于他们最初支付给我建设网站费用的 50%。我花了很多（无偿）时间试图让我的客户了解这种常见的骗局，我已经尝试完了。  这家伙给我的客户发了一封电子邮件，说他们需要对 Wix Studio 网站的完全管理员访问权限。如果获得许可，他们将能够完全编辑该网站，并更改所有网站设置。  一方面，我关心。首先，我对其他人翻阅我的作品有一种奇怪的感觉。这是“我的空间”。我知道这可能是没有根据的，因为客户付钱给我让他们制作这个网站。其次，在建立网站时，我鼓励客户建立一个博客（具有讽刺意味的是，出于搜索引擎优化的目的）。随着他们的业务增长，我们还希望向网站添加许多其他内容。这些都是口头协议。通过向谁知道谁开放该网站，我可能会妨碍未来的业务。  另一方面，我不在乎。我的客户对我的工作很满意，如果他们做了博客等，就没有理由认为他们会使用其他人。如果这个人把网站弄乱了怎么办？太好了，我还有更多工作要做。  正如我从一开始就说过的，如果签订了一份大合同，这一切都是可以避免的。我可以自豪地说，我已经从过去的错误中吸取了教训，并且一定会将其添加到名单中。我的主要问题是：  你们如何向拥有登陆网站或小型电子商务网站的小型企业进行移交？你会为他们提供一切，让自己成为他们继续求助的人，还是其他什么？ 你如何应对这些 SEO 小丑？我可以就此写一篇完整的文章，我相信它会得到很多参与……不言而喻，如果这个人让我参与他正在做的任何事情，那么这些时间将是计费时间。   谢谢！   由   提交 /u/cl4rkc4nt   [链接] [评论]]]></description>
+      <description><![CDATA[[TL;DR:   你们如何进行交接拥有登陆网站或小型电子商务网站的小型企业；您会为他们提供一切，为未来的业务定位自己，还是其他什么？ 您如何处理“SEO 优化”问题？小丑？]  嗨！ 不久前我创办了一家个人经纪公司。显然，这样的情况将从一开始就让我们了解全面合同的重要性。  我使用 Wix Studio 为客户构建了一个网站，因为他们的网站类型和 Wix 的基础设施使其非常适合。该网站经过 SEO 优化，因为它是在 2024 年的平台上构建的。图像命名正确，标签分配正确，Studio 在网站管理控制台的 SEO 设置下很好地呈现了需要完成的所有操作。  他们被 Google/Meta 广告承包商欺骗了，他们说服他们需要每月向他支付费用来“优化”广告。我为他们建立的网站。他每月向他们收取的费用仅略低于他们最初支付给我建设网站费用的 50%。我花了很多（无偿）时间试图让我的客户了解这种常见的骗局，我已经尝试完了。  这家伙给我的客户发了一封电子邮件，说他们需要对 Wix Studio 网站的完全管理员访问权限。如果获得许可，他们将能够完全编辑该网站，并更改所有网站设置。  一方面，我关心。首先，我对其他人翻阅我的作品有一种奇怪的感觉。这是“我的空间”。我知道这可能是没有根据的，因为客户付钱给我让他们制作这个网站。其次，在构建网站时，我鼓励客户建立一个博客（具有讽刺意味的是，出于搜索引擎优化的目的）。随着他们的业务增长，我们还希望向网站添加许多其他内容。这些都是口头协议。通过向谁知道谁开放该网站，我可能会妨碍未来的业务。  另一方面，我不在乎。我的客户对我的工作很满意，如果他们做了博客等，就没有理由认为他们会使用其他人。如果这个人把网站弄乱了怎么办？太好了，我还有更多工作要做。  正如我从一开始就说过的，如果签订了一份大合同，这一切都可以避免。我可以自豪地说，我已经从过去的错误中吸取了教训，并且一定会将其添加到名单中。我的主要问题是：  你们如何向拥有登陆网站或小型电子商务网站的小型企业进行移交？你会为他们提供一切，让自己成为他们继续求助的人，还是其他什么？ 你如何应对这些 SEO 小丑？我可以就此写一篇完整的文章，我相信它会得到很多参与……不言而喻，如果这个人让我参与他正在做的任何事情，那么这些时间将是计费时间。   谢谢！   由   提交 /u/cl4rkc4nt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1clob04/clients_seo_expert_wants_full_admin_access_to_the/</guid>
       <pubDate>Mon, 06 May 2024 17:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>与您的实际工资相比，您从独立 Web 开发项目中赚了多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clnfuf/how_much_do_you_make_from_your_independent_web/</link>
-      <description><![CDATA[显然，由于社交媒体（较低的低点和较高的高点），结果会有所偏差。 实际上，我并不期望有很多结果如果他们的基本工资是 100,000 美元，人们甚至可以从他们的副业项目中赚取基本工资的 10%。 但谁知道呢，也许我完全错了并且不知情。  想法？   由   提交/u/SeriouslySally36  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clnfuf/how_much_do_you_make_from_your_independent_web/</guid>
-      <pubDate>Mon, 06 May 2024 16:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[邮件功能]替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cln65w/mail_function_alternatives/</link>
-      <description><![CDATA[我交付网站初始版本的期限很紧。我尝试使用各种方法从本地主机发送电子邮件，例如 PHP 邮件函数、PHPMailer 和 hmailServer...，但它们似乎都没有正确进行身份验证，并且显然 Google 删除了“启用不太安全的应用程序”功能。我迫切需要一个解决方案。我没有使用任何框架，只是使用普通的 PHP。   由   提交/u/Valuable-Growth7088  /u/Valuable-Growth7088 reddit.com/r/webdev/comments/1cln65w/mail_function_alternatives/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cln65w/mail_function_alternatives/</guid>
-      <pubDate>Mon, 06 May 2024 16:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>报纸网站上充斥着大量广告，毫无用处</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clmqa5/newspaper_sites_are_so_cluttered_with_ads_that/</link>
-      <description><![CDATA[      大多数报纸网站似乎都是这样。我知道他们需要赚钱，如果没有人购买报纸并在线阅读故事，那么网络广告将成为他们的主要收入来源，但这太荒谬了！ 感觉就像你必须剥开多层洋葱才能看到文章（无论如何，通常每个段落之间都散布着广告！）文章本身通常只是点击诱饵反刍的垃圾。 无论如何，有点咆哮，但令我困惑的是，这种做法足以让他们继续这样做。我几乎立即退出此类网站   由   提交/u/EthanCPP   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clmqa5/newspaper_sites_are_so_cluttered_with_ads_that/</guid>
-      <pubDate>Mon, 06 May 2024 16:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试建立一个内容居中的网站，然后在两侧都有背景图像/颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1clmmtm/trying_to_build_a_website_with_centred_content/</link>
-      <description><![CDATA[       由   提交/u/Connect_Scar_7423   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1clmmtm/trying_to_build_a_website_with_centred_content/</guid>
-      <pubDate>Mon, 06 May 2024 16:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在客户端操作文件是否会造成安全漏洞？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cllnxa/does_manipulating_files_on_the_client_side_create/</link>
-      <description><![CDATA[朋友们大家好，我想创建一个中心，用户可以在其中调整图像大小以及将 PDF 转换为 Word、JPEG 转换为 PNG 等文件。直接在客户端进行这样的操作会造成安全漏洞吗？或者我绝对需要后端服务器和数据库吗？   由   提交/u/akinpinkmaN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cllnxa/does_manipulating_files_on_the_client_side_create/</guid>
-      <pubDate>Mon, 06 May 2024 15:20:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

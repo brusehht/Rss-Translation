@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 21:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 00:52:24 GMT</lastBuildDate>
     <item>
-      <title>在 Windows XP 上运行的最好的免费程序是什么，它可以删除您拥有的任何恶意软件和病毒。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1clsfcz/what_is_the_best_free_program_that_works_on/</link>
-      <description><![CDATA[当我这么说时，我并不是指阻止未来问题的简单防病毒程序，而是指将扫描您的计算机并指出它们的程序，并删除已经存在的。当我说“免费”时，我并不是说它可以免费下载和扫描，然后当您尝试删除发现的问题时，它就会向您收费。我希望能够免费扫描并删除它们。开源是理想的，但即使是闭源的，只要它符合要求，也可以工作。 虽然我已经找到了一个用于 64 位系统的（它的胜利提升器，你应该尝试一下），但我还没有找到没有找到适用于 32 位系统的。我之所以问这个问题，是因为我一直在摆弄最近赢得的一台 20 年前的笔记本电脑，它的运行速度比以前慢，所以我想扫描一下它可能存在的任何问题。 编辑：  我很清楚这个系统早已结束了它的生命并且不安全。我真的把笔记本电脑当作玩具使用。我并没有为此做任何严肃或有意义的事情。它只不过是我用来玩弄的一个实验工具。我很想知道在现代我能用它做什么。我绝对不可能在这件事上做一些重要的事情，我可以向你保证。我没那么疯狂。 所以那些只会说“安装更新的操作系统并购买新计算机”的人是这样认为的。不受欢迎。我已经拥有一台带有新操作系统的较新计算机。你只是说完全回避了这个问题并且什么也没做。    由   提交/u/Zadock4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1clsfcz/what_is_the_best_free_program_that_works_on/</guid>
-      <pubDate>Mon, 06 May 2024 19:56:02 GMT</pubDate>
+      <title>做坏事'</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clxnjf/doin_bad/</link>
+      <description><![CDATA[    &gt;  Heelllpppp    由   提交 /u/youaretimeeddd   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clxnjf/doin_bad/</guid>
+      <pubDate>Mon, 06 May 2024 23:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>lu5,用于创意编码的Lua解释器,下载lu5的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</link>
+      <description><![CDATA[       由   提交/u/vlevi   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</guid>
+      <pubDate>Mon, 06 May 2024 22:15:11 GMT</pubDate>
     </item>
     <item>
       <title>锻炼和减肥应用程序和手表？</title>
@@ -50,14 +57,14 @@
     <item>
       <title>开源许可证的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</link>
-      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我刚刚开始这个项目，希望能得到一些人的使用/贡献 - 祝我好运。但我不清楚要使用哪种许可证。不使用 MIT 许可证的原因是什么？我应该看看有没有更好的选择？我对许可不是很熟悉，需要一些帮助来做决定。我很感激任何帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。    提交人    /u/Admirable_Proxy   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
     <item>
       <title>开源 Android 应用程序 - 如何双重检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获得我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一个检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
+      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一项检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
       <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
     </item>
@@ -69,30 +76,30 @@
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>OSS Weather：适用于 iOS/Android 的开源天气应用程序</title>
+      <title>OSS Weather：适用于 iOS/Android 的开源天气应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</link>
-      <description><![CDATA[iOS 应用程序：https://apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用程序：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather     提交人    /u/Spirited-Pause   [链接] [评论]]]></description>
+      <description><![CDATA[iOS 应用程序：https： //apps.apple.com/fr/app/oss-weather/id1499117252 Android 应用：https://play.google.com/store/apps/details?id=com.akylas.weather  源代码：https://github.com/Akylas/oss-weather    由   提交 /u/Spirited-Pause   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckqizw/oss_weather_an_open_source_weather_app_for/</guid>
       <pubDate>Sun, 05 May 2024 12:49:10 GMT</pubDate>
     </item>
     <item>
       <title>CurlerRoo - 管理 cURL 请求的简单编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</link>
-      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 /&gt; - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，以便于使用您最喜欢的备份和版本控制工具。   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/CurlerRoo/CurlerRoo  CurlerRoo 允许您快速创建、编辑、保存和发送 cURL 命令。只需 cURL，无需处理复杂的 GUI。  功能 - 创建、编辑、保存和发送 cURL 命令。 - 自动完成 cURL 语法。 - 在 cURL 命令之前和之后执行脚本。 - 创建变量并在 cURL 命令中使用它们。 - 自动从响应中提取变量。 - 执行多个链式请求。 - 将请求存储为纯文本文件，从而可以轻松使用您最喜欢的工具进行备份和版本控制。    提交人    /u/pclover_dot_exe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cknny7/curlerroo_simple_editor_to_manage_your_curl/</guid>
       <pubDate>Sun, 05 May 2024 09:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>在 Django 和 Headless CMS 之间进行网站开发的选择：寻求建议</title>
+      <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嗨，r/opensource， 我正在为一家酒店老板做网站项目，研究其决策过程。他们希望拥有一个强大的管理界面来管理网站的各个方面，包括画廊、博客、活动、电子邮件和付款。虽然我已经做了大量的研究，但我仍在犹豫是使用 Django 的强大管理功能，还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和与 Next.js 前端集成的可能性。 尽管我付出了努力，但我还是陷入了困境。以下是我可以使用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与 Next.js 前端集成之间的开发复杂性如何？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面的用户友好性和可定制性如何？ 性能和可扩展性：在为该项目在 Django 和无头 CMS 之间进行选择时，我是否应该牢记任何性能或可扩展性注意事项？ 成本和部署：哪些开源无头 CMS 选项允许自托管而无需额外的部署成本？与部署 Django 应用程序相比，这些 CMS 的部署流程如何？ 客户满意度：根据您的经验，就易用性和功能性而言，客户对 Django Admin 提供的管理界面与开源无头 CMS 平台提供的管理界面的满意度如何？  尽管我做了大量研究，但我仍然在权衡利弊。您根据经验提出的见解、建议或最佳实践将对我做出决定大有裨益。 提前感谢您的帮助！    提交人    /u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用一款名为 Grapesjs 的开源软件，但不知为何无法拖动项目？选择固定位置后，无法拖动文本框到其位置，必须将其放在顶部和左侧像素距离处，但不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
-      <description><![CDATA[一个人不能用数百种东西做到这一点，一个人必须能够拖放？    提交人    /u/savant78   [链接] [评论]]]></description>
+      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
       <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>一国对数字主权的追求</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
-      <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
