@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 07 May 2024 12:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:11:55 GMT</lastBuildDate>
     <item>
-      <title>IIS 10 - 您可以将 HTTP 响应标头放在服务器级别或网站级别，哪一个是首选？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmah5d/iis_10_you_can_put_http_response_header_at_server/</link>
-      <description><![CDATA[我不是配置 Web 服务器的人，所以这对我来说有点新鲜。我在这篇文章中有两个问题，粗体。我的工作场所有这些网络安全扫描仪，扫描不断给我们带来 HTTP 严格传输安全相关错误： HTTP/1.1 404 Not Found Content-Type: text/html; charset=us-ascii 服务器：Microsoft-HTTPAPI/2.0 日期：2024 年 5 月 4 日星期六 04:34:39 GMT 连接：关闭 内容长度：315 远程 HTTPS 服务器不发送 HTTP“严格传输安全”消息header  我在服务器和 IIS 管理器中的实际网站上都设置了相同的 HSTS 响应标头（我被告知要这样设置，但如果有任何内容，请告诉我）很奇怪，因为在这种情况下我并不完全信任我的高级开发人员，因为他也不太熟悉 IIS）：  max-age=3156000;包括子域；重定向HttpToHttps；总是  我假设服务器级响应标头会覆盖网站级响应标头，但当我四处搜索时，我似乎找不到任何有关它的信息。 我应该只配置服务器级 HTTP 响应标头吗？我们不打算在该 Web 服务器之外托管任何其他网站。 现在，我通过以下代码实现了顶部代码块：错误不是谈论 IIS，而是引用来自 HTTP API 2.0 的响应。目前，我们的 SSL 证书配置了两个 SAN 值： CN = example.sub.com SAN = example.sub.com, example.sub.sub.com  但是，在 IIS 管理器中设置的单个网站只有两个绑定，一个在端口 80 上，一个在 443 上，两者都针对主机 example.sub.com。如果我在 Web 浏览器中导航到 example.sub.com，则不会出现证书错误，并且网络请求显示我从我们配置的 IIS 10 中获取了正确的 HSTS 标头。当我访问 example.sub.sub.com 时，我遇到了 HTTP API 2 问题，这就是扫描仪正在执行的操作。由于 example.sub.sub.com 在 IIS 中没有网站绑定，因此它会产生此错误并通过 HTTP API 2 进行路由。这实际上并不是任何外部用户都应该访问的 URL，但 这个问题的解决方案就像在 IIS 中的同一网站上设置更多具有主机名的绑定 example.sub.sub.com 一样简单吗？    由   提交/u/Focus62  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmah5d/iis_10_you_can_put_http_response_header_at_server/</guid>
-      <pubDate>Tue, 07 May 2024 12:15:45 GMT</pubDate>
+      <title>重大安全问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cme4x3/big_security_concerns/</link>
+      <description><![CDATA[大家好， 我刚刚检查了 wordpress 上一个本地网站的 404 错误。这是一个非常老的网站，其邮件服务器经常受到网络钓鱼攻击。  我可以看到 404 上有很多来自全局 IP 的粗略 URL 请求，例如： /?jkit-ajax-request=jkit_elements /wp-json/wp/v2/pages/429 等等..  这种情况几乎每 5 分钟发生一次  据我所知，AJAX 查询正在尝试运行一些 Javascript 或 XML 我已经验证这不是我，也不是机器人流量（根据 word-fence 和安全优化器）  你们有人经历过这种情况吗？  我可以做些什么来防止这种攻击吗？ 抱歉，如果这是发布此内容的错误平面    由    /u/Same_Performance4520  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cme4x3/big_security_concerns/</guid>
+      <pubDate>Tue, 07 May 2024 15:07:07 GMT</pubDate>
     </item>
     <item>
-      <title>Kinsta 在一个平台上替代应用程序 + 数据库托管？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmacf0/kinsta_alternative_for_app_db_hosting_in_one/</link>
-      <description><![CDATA[我遵循了使用 PERN 堆栈的简单 CRUD 应用程序的教程，视频讨论了将所有内容部署到 Kinsta。我无法继续下去，因为我所有的卡都拒绝了这个过程。是否有其他替代方案可以在一个平台中提供相同的解决方案，并且不需要我输入付款凭证？   由   提交/u/flamethroer10_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmacf0/kinsta_alternative_for_app_db_hosting_in_one/</guid>
-      <pubDate>Tue, 07 May 2024 12:09:01 GMT</pubDate>
+      <title>建立电子商务商店最简单的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cme4ex/what_would_be_the_easiest_way_to_build_an/</link>
+      <description><![CDATA[我使用 vue wt work 和 sveltekit 来做我自己的自由职业。我听说我可以使用 Medusahs，但是有了这个，我需要管理数据库或为其支付服务费用，并考虑在哪里托管、发送电子邮件等... 我听说还有一个选项使用Shopify，如果担心的话，数据库、托管、支付、电子邮件、履行（我不知道用户身份验证）会占用很大一部分，而且每月至少要花费20欧元，这确实是一笔很大的交易。  有人有过这些经历吗？ 我想我更倾向于 Shopify，而不是美杜莎，但让我听听你的想法和其他选择。   由   提交/u/SleepAffectionate268  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cme4ex/what_would_be_the_easiest_way_to_build_an/</guid>
+      <pubDate>Tue, 07 May 2024 15:06:32 GMT</pubDate>
     </item>
     <item>
-      <title>是否有准备使用如图所示的日历表组件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cma2bh/is_there_ready_to_use_calendartable_component/</link>
-      <description><![CDATA[   如果没有，我该怎么做？我的第一个冲动是使用网格，但我还没有弄清楚下一步该做什么......   由   提交/u/Vzaje   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cma2bh/is_there_ready_to_use_calendartable_component/</guid>
-      <pubDate>Tue, 07 May 2024 11:53:53 GMT</pubDate>
+      <title>当你执行 git Push 时，GitLab 上会发生什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cme3zr/what_happens_on_gitlab_when_you_do_git_push/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cme3zr/what_happens_on_gitlab_when_you_do_git_push/</guid>
+      <pubDate>Tue, 07 May 2024 15:06:03 GMT</pubDate>
     </item>
     <item>
-      <title>评价我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm9vob/rate_my_portfolio_website/</link>
-      <description><![CDATA[ 由   提交 /u/Substantial_Air439    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm9vob/rate_my_portfolio_website/</guid>
-      <pubDate>Tue, 07 May 2024 11:43:49 GMT</pubDate>
+      <title>你们如何应对编码面试焦虑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmdfjp/how_do_yall_deal_with_coding_interview_anxiety/</link>
+      <description><![CDATA[我看过很多关于这个主题的观点，但没有一个真正有帮助。每次我参加编码面试时，就好像我忘记了我所知道的关于软件开发的一切。我无法清晰地思考。我连最基本的知识都记不起来了，基本上就是一片空白。当它是非监考编码挑战（即 LeetCode/HackerRank）时，情况并没有那么糟糕，但仍然不是很好。  问题的速度、他们给我的问题缺乏背景、以及我感受到的给谈话对象留下深刻印象的压力，使得我进入这个领域变得如此具有挑战性。当我实际编写代码时我的心态。我知道这对我来说不应该这么难，因为我有真正的经验和很多可以谈论的东西，但当我进入面试时，所有的经验/知识都被抛在了后面。  我知道还有很多其他开发人员有这种经验，我想知道你们如何处理这个问题。您的任何意见、建议或想法都会有很大帮助。谢谢！！   由   提交/u/-storks-  /u/-storks-  reddit.com/r/webdev/comments/1cmdfjp/how_do_yall_deal_with_coding_interview_anxiety/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmdfjp/how_do_yall_deal_with_coding_interview_anxiety/</guid>
+      <pubDate>Tue, 07 May 2024 14:36:27 GMT</pubDate>
     </item>
     <item>
-      <title>数据库设计。您将如何处理航班预订 API 中的座位信息？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm9jcp/db_design_how_would_you_handle_seats_information/</link>
-      <description><![CDATA[我正在开发一个简单的（预计在 2-3 小时内完成）航班预订 API，为我大学的 Webdev 竞赛做准备。对请求和响应的模式有严格的要求。因此，可能会做出一些奇怪的决定。 在大多数情况下，这非常简单，但我正在尝试找出如何处理航班的座位信息。  以下是数据库中的一些模型： Schema::create(&#39;flights&#39;, function (Blueprint $table) { $table-&gt;id(); $table-&gt;string(&#39;flight_code&#39;); $table-&gt;foreignId(&#39;from_airport_id&#39;)-&gt;constrained(&#39;airports&#39;); $table-&gt;foreignId(&#39;to_airport_id&#39;)-&gt;constrained(&#39; $table-&gt;dateTime(&#39;departure_time&#39;); $table-&gt;dateTime(&#39;arrival_time&#39;); $table-&gt;integer(&#39;max_seats&#39;); ); }) S​​chema::create(&#39;passengers&#39;, function (Blueprint $table) { $table-&gt;id(); $table-&gt;string(&#39;first_name&#39;); $table-&gt;string(&#39;last_name &#39;); $table-&gt;date(&#39;birth_date&#39;); $table-&gt;string(&#39;document_number&#39;); $table-&gt;foreignId(&#39;booking_id&#39;)-&gt;constrained(&#39;bookings&#39;); ; Schema::create(&#39;bookings&#39;, function (Blueprint $table) { $table-&gt;id(); $table-&gt;foreignId(&#39;flight_from_id&#39;)-&gt;constrained(&#39;flights&#39;); $table-&gt; ;foreignId(&#39;flight_back_id&#39;)-&gt;nullable()-&gt;constrained(&#39;航班&#39;);  要求规定，用户应该能够通过提供 Flight_id 和乘客数据在一个请求中为多名乘客预订航班。在初始预订期间，未提供座位号，座位号必须为空。 应该有一个单独的端点，用于为特定航班上的特定乘客更改或选择座位。为此，用户必须提供航班 ID、乘客 ID 和特定格式（1A、7B、4E 等）的座位号。 到目前为止，我看到有两种方法可以做到这一点，都包括创建一个新实体来执行此操作。存储座位。 首先：创建下表并存储每个航班的所有座位（150-200）。在创建航班实例期间，还会创建具有适当座位号的所有座位（从 1A 直到超过最大座位数）。可能很容易使用，所有信息都被保留，并且不需要编写额外的逻辑，因为一切都应该用数据库约束来处理。问题是，“席位”中的记录过多，数据库会变得臃肿。桌子。对于 50 个航班，“座位”内将有 8k+ 条记录。表。 Schema::create(&#39;seats&#39;, function (Blueprint $table) { $table-&gt;string(&#39;place&#39;); $table-&gt;foreignId(&#39;flight_id&#39; )-&gt;constrained(&#39;航班&#39;); $table-&gt;foreignId(&#39;passenger_id&#39;)-&gt;nullable()-&gt;constrained(&#39;passengers&#39;); $table-&gt;boolean(&#39;is_reserved&#39;)- &gt;默认(假); $table-&gt;primary([&#39;flight_id&#39;, &#39;place&#39;]); $table-&gt;unique([&#39;flight_id&#39;, &#39;place&#39;]);  第二：仅存储预留座位。删除“is_reserved”字段并使 Passenger_id 不可为空。但在这种情况下，我需要处理请求验证以仅允许有效的座位号。而且出错的空间也会更大，因为我必须依赖间接计算，而不是已经存储所有可能的数据。可能还存在我目前没有看到的其他问题。 但是为了分配的目的，我只需要能够检查特定航班的提供号码的座位是否已被占用，这在这里不是问题，因为它仍然只是一个数据库查询。还有一件事，虽然与作业无关：我可以看到，如果我还需要编写前端，那么第一个解决方案使用起来会更舒服。 这里哪个解决方案更好？或者我应该寻找一个完全不同的？   由   提交/u/Alex_054  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm9jcp/db_design_how_would_you_handle_seats_information/</guid>
-      <pubDate>Tue, 07 May 2024 11:23:49 GMT</pubDate>
+      <title>Google Console 网络钓鱼电子邮件吸引我后，网站遭到黑客攻击并瘫痪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmdex5/website_hacked_and_down_after_google_console/</link>
+      <description><![CDATA[ https://mysite.com 的新所有者 致 mysite.com Google 已确定 [christinewood56@gmail.com](mailto:christinewood56@gmail.com) 已被添加为所有者https://mysite.com 媒体资源所有者可以更改影响 Google 搜索与您网站互动方式的关键设置。确保只有适当的人员具有所有者身份，并且当不再需要此角色时，会撤销该角色。  我于 5 月 2 日收到这封电子邮件，并单击电子邮件上的链接进行管理用户担心有人已经控制了我的网站。我通常对网络钓鱼电子邮件非常了解，并查看了所有链接及其来源，所有内容似乎都是合法的谷歌链接，并且看起来与其他谷歌控制台电子邮件一模一样。没有破损的英文、像素化的徽标/图形或虚假的链接。我通过电子邮件上的链接登录到我的谷歌搜索控制台，发现除了我之外没有其他人是唯一的所有者，我想“哦操！这封网络钓鱼电子邮件让我中招了”并立即更改了我所有的谷歌和网站密码。发生这种情况时，我的网站上还运行了 wordfence 和 2FA。 我以为我很好，但 5 月 4 日两天后，我的网站宕机了。我已经联系了我的主机 Bluehost，甚至支付了 Sitelock 费用。我知道我知道我需要离开 Bluehost，整个站点锁定事件是一个敲诈勒索骗局，但我非常想让我的网站恢复正常运行。网站关闭的时间越长，我就会失去业务。这次攻击还摧毁了我的 bluehost 帐户上的其他网站，但这些都是我不太关心的旧休眠网站。我能做什么？ 此外，如果 sitelock 可以恢复并运行我应该做什么来确保我有备份并可以转移到新主机？   由   提交 /u/ExcitingLandscape   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmdex5/website_hacked_and_down_after_google_console/</guid>
+      <pubDate>Tue, 07 May 2024 14:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>主机上的 Nginx + LetsEncrypt 或 Docker 内部给定运行 Express 的 Node.js docker 容器，您会选择哪种方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm8ydh/nginx_letsencrypt_on_the_host_machine_or_inside/</link>
-      <description><![CDATA[ 您拥有什么 您有一个使用 Express 服务器运行 node.js v20.10.0 的 docker 容器  你想要什么？  例如在 EC2 实例内的此设置中运行 nginx 和 LetsEncrypt  选项 1：在主机上安装 nginx 和 LetsEncrypt  在此选项下，您将直接在 EC2 实例上安装 nginx 和 LetsEncrypt，并使 nginx 直接指向 docker 内的 Node.js 服务器  选项2：运行 nginx 和 LetsEncrypt每个都在 2 个独立的 docker 容器内  也许使用 docker-compose 文件并让 nginx 和 letencrypt 在每个 docker 容器内运行  注意事项  &lt; li&gt;这两种方法中的自动证书续订如何工作？ 选项 2 有代码示例或示例吗？ 您更喜欢哪种方法，为什么？     由   提交 /u/PrestigiousZombie531   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm8ydh/nginx_letsencrypt_on_the_host_machine_or_inside/</guid>
-      <pubDate>Tue, 07 May 2024 10:49:34 GMT</pubDate>
+      <title>您推荐 YouTube 上的哪些 JavaScript 课程用于 Web 开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmdbsj/which_javascript_courses_on_youtube_do_you/</link>
+      <description><![CDATA[…….   由   提交/u/aunghtetnaing  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmdbsj/which_javascript_courses_on_youtube_do_you/</guid>
+      <pubDate>Tue, 07 May 2024 14:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>新更新：OneUptime - 开源 Datadog 替代方案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm8ojn/new_update_oneuptime_open_source_datadog/</link>
-      <description><![CDATA[关于 ONEUPTIME： OneUptime (https ://github.com/oneuptime/oneuptime）是 DataDog + StausPage.io + UptimeRobot + Loggly + PagerDuty 的开源替代品。它是 100% 免费的，您可以在您的虚拟机/服务器上自行托管它。  ​ OneUptime 在一个平台上提供正常运行时间监控、日志管理、状态页面、跟踪、待命软件、事件管理等功能。  ​ 更新：  ​ 推出了几个新的显示器选项- 您现在可以监控您的 SSL 证书和服务器（正在运行的进程、Mem、CPU、Dick 等）随着时间的推移评估监控指标。您可以设置警报，例如“当我的网站响应时间超过 5 秒且持续 5 分钟时创建事件”。这在以前是不可能的。  ​ 添加了使用 fluidd 和 OpenTelemetry 进行日志摄取的功能。使用 OpenTelemetry 摄取跟踪和指标。  ​ 第二季度末的路线图：  ​ 新监视器：我们将致力于新的监视器选项，特别是“日志监视器”、“跟踪监视器”、“指标监视器”等。您可以在其中设置警报，例如 - 如果有错误日志，则创建事件并向团队发出警报。  ​ 类似仪表板的 Datadog 即将推出。  ​ 第三季度末的路线图：  我们正在研究可靠性副驾驶。您需要做的就是运行 GitHub actions 作业/CI 作业，它会扫描您的代码库，查询 OneUptime API 以获取您的软件在生产中遇到的所有错误。然后我们尝试修复这些错误并自动创建 PR。让您的软件日复一日地变得可靠、更好。您的任何代码都不会发送给我们。它将保留在 GitHub 操作运行器上。我们将通过当地的法学硕士来完成此任务。不用说，这将是测试版，并且随着时间的推移会变得更好。  ​ 请求反馈和反馈特点： 这个社区对我们很友善。非常感谢您向我们提供的所有反馈。这有助于使软件变得更好。我们一如既往地寻求更多反馈。如果您确实有什么想法，请随时发表评论、与我们交谈、做出贡献。所有这些都有助于使该软件更好地供我们所有人使用。  ​ 开源承诺： OneUptime 在 Apache 2 许可下是开源且免费的，并且永远如此。    由   提交/u/OuPeaNut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm8ojn/new_update_oneuptime_open_source_datadog/</guid>
-      <pubDate>Tue, 07 May 2024 10:31:42 GMT</pubDate>
+      <title>这对 Shopify 来说太复杂了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmd8pg/is_this_too_complicated_for_shopify/</link>
+      <description><![CDATA[希望创建一个平台，为多个卖家提供自己的登录、库存管理等功能，并且我们为他们的所有商品提供了一个综合页面重新出售。这可以通过 Shopify 实现吗？还是我需要构建自定义解决方案？如果是这样，类似的东西大约要花多少钱？   由   提交/u/zlaw20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmd8pg/is_this_too_complicated_for_shopify/</guid>
+      <pubDate>Tue, 07 May 2024 14:27:53 GMT</pubDate>
     </item>
     <item>
-      <title>如果我将某个页面保存为书签，并且域名发生变化，我可以访问该页面吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm8nfy/if_i_save_a_page_as_a_bookmark_and_the_domain/</link>
-      <description><![CDATA[嗨！ 如果我将页面保存为书签并且域名发生变化，我可以访问该页面吗？ 谢谢，并致以亲切的问候    提交人    /u/ikwithh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm8nfy/if_i_save_a_page_as_a_bookmark_and_the_domain/</guid>
-      <pubDate>Tue, 07 May 2024 10:29:44 GMT</pubDate>
+      <title>诚实的问题：原来的 LAMP 堆栈怎么了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmd5kk/honest_question_what_happened_to_the_good_old/</link>
+      <description><![CDATA[我的问题不仅是哲学性的而不是技术性的，而且我确实未能跟上现代的许多技术。但这并不是因为缺乏尝试，老实说，无论我多么努力地寻找，我都找不到其中大多数的任何用处。也许我在这里遗漏了一些东西，希望你们中的一些人能教给这只老狗一些新技巧。 我在职业生涯的大部分时间里所做的 Web 开发涉及在某些 Linux 发行版上与 MySQL 一起安装 PHP作为Ubuntu。我的大多数客户更喜欢 cPanel/VistaPanel 类型的 PHP 托管，其中部署就像使用 FTP/SFTP 将一堆 PHP 文件推送到 Web 服务器一样简单。 我问你，不应该web开发就这么简单吗？为什么要发明一个全新的、复杂的 DevOps 层？为什么要涉及 Docker 和 Kubernetes 以及所有那些无用的 npm 包？即使在前端，也有现成的经过测试的库，例如 jquery 和 bootstrap，它们几乎可以完成您需要的所有操作，并且根本不需要 npm。 我不是在这里谈论大型科技公司，像谷歌、苹果、微软等大公司可能需要这些复杂的层。但对于普通的中小型企业，你很难让我相信简单的 cPanel 方法行不通。 请理解，我对这些新技术没有任何消极或怨恨。 ，我只是想了解它们的用处或效用。 慈与和平。   由   提交/u/pyeri  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmd5kk/honest_question_what_happened_to_the_good_old/</guid>
+      <pubDate>Tue, 07 May 2024 14:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>当你做一个新的业余项目时，你的流程是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm82p4/what_is_your_process_when_doing_a_new_side_project/</link>
-      <description><![CDATA[每个人都有做事的想法。您的“流程”是什么？ （有点像艺术的过程）当开始一个新的副项目时，它的中间和结束？    由   提交/u/Annual-Ad-416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm82p4/what_is_your_process_when_doing_a_new_side_project/</guid>
-      <pubDate>Tue, 07 May 2024 09:51:27 GMT</pubDate>
+      <title>遇到了一些 17 岁的人，他们开发了这个网站 https://www.moltar.ai。他们怎么学得这么快</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmd2yy/came_across_some_17_yo_who_developed_this_site/</link>
+      <description><![CDATA[基本上就是标题。教程是否变得更好，或者孩子们是否更聪明，或者只是工具是否变得更简单。当我 17 岁的时候，我甚至不知道什么是 cs，更不用说编程了。 在“孩子们可能很聪明”之前 网站上的功能似乎需要前端和后端的大量知识，而且它已经打磨得相当好了。这意味着他可能在这个年龄之前就开始了，我不知道。我就是无法理解。 我能想到的唯一另一件事是他得到了兽医的帮助。 你怎么看？    提交人    /u/tiny_pixl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmd2yy/came_across_some_17_yo_who_developed_this_site/</guid>
+      <pubDate>Tue, 07 May 2024 14:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 将商品添加到购物车</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm7zjz/how_to_add_items_to_your_cart_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   将项目添加到您的购物车[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm7zjz/how_to_add_items_to_your_cart_with_tailwind_css/</guid>
-      <pubDate>Tue, 07 May 2024 09:45:15 GMT</pubDate>
+      <title>感觉只会说一种语言？来认识一下 Huriha，多语言 Web 服务器！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmcxbb/feeling_monolingual_meet_huriha_the_polyglot_web/</link>
+      <description><![CDATA[嘿各位 Reddit 用户！ 您是否厌倦了只能使用一种语言的 Web 服务器？您是否希望构建一个能够理解多种编程语言的服务器，就像熟练掌握 Rust、Python、Brainfuck（是的，这是一种真正的语言！）以及介于两者之间的所有语言的经验丰富的程序员一样？朋友们，我为您提供了解决方案：Huriha，多语言 Web 服务器！ Huriha 是一个有趣且雄心勃勃的项目，旨在创建一个能够执行用任何可以想象的编程语言编写的中间件的 Web 服务器。没错，这里没有语言歧视！无论您是尖端 Rust、流行的 Python 还是深奥的 Brainfuck 的粉丝，Huriha 张开双臂（和开源代码）欢迎您。 但是等等，还有更多！ Huriha 的名字来自迪维希语，意思是“所有”。或“每个” – 非常适合我们使用所有编程语言构建服务器的目标。 现在，我知道您在想什么：“这听起来好得令人难以置信！”好吧，让我向你保证，Huriha 非常真实（而且还处于起步阶段）。目前它还只是一个小小的 Rust 胚胎，但它是一个开始！服务器已启动并正在运行，并且它已经可以执行以您向其提供的任何语言编写的中间件可执行文件。 因此，请转到 Huriha GitHub 存储库 并查看这个多语言奇迹。贡献您自己的中间件、建议功能，或者只是享受支持所有语言的 Web 服务器的荣耀。 谁知道呢，也许有一天 Huriha 将成为 Web 服务器中的巴别鱼，打破语言障碍为编程世界带来和谐。或者也许这只是一个有趣的副业项目，我们都可以开怀大笑。不管怎样，它都值得一看！ 和我一起踏上这个狂野而雄心勃勃的旅程，让我们构建世界上最懂多种语言的 Web 服务器！ TL;DR：Huriha是一个可以执行用任何编程语言编写的中间件的网络服务器。这是一个有趣且雄心勃勃的项目，值得您关注（和贡献）！   由   提交/u/DaniAsh551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmcxbb/feeling_monolingual_meet_huriha_the_polyglot_web/</guid>
+      <pubDate>Tue, 07 May 2024 14:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>进入 webdev 还是 devops？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm7v39/get_into_webdev_or_devops/</link>
-      <description><![CDATA[我正在考虑参加 I.T 培训，我想知道您的意见？我对两者都感兴趣，有前端背景。   由   提交 /u/xamppctrl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm7v39/get_into_webdev_or_devops/</guid>
-      <pubDate>Tue, 07 May 2024 09:36:34 GMT</pubDate>
+      <title>您愿意为这些网站支付多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmc7tr/how_much_would_you_pay_for_these_websites/</link>
+      <description><![CDATA[我的 Webflow 构建费用约为 3500 美元，但我认为收费不足。我无意中听到一些人说，就工作质量而言，我的费率非常实惠，所以我想听听第二个意见。您愿意为我建立的网站（takbuilds.com）支付多少钱？ 非常感谢，非常感谢任何建议！ P.s.我来自美国加利福尼亚州，因此与生活成本较低地区的人相比，市场价格可能有很大不同。   由   提交 /u/TakExplores   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmc7tr/how_much_would_you_pay_for_these_websites/</guid>
+      <pubDate>Tue, 07 May 2024 13:42:24 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能不因要学的东西太多而不知所措呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm7u2u/how_am_i_not_supposed_to_get_overwhelmed_with_the/</link>
-      <description><![CDATA[所以我从 JS/CSS/HTML 开始，做了一些小项目（蛇游戏、井字游戏、生命克隆游戏、一个简单的游戏）使用鼠标应用程序进行绘制..）然后开始学习 React，然后是 Node/Express，并使用 Socket.IO 制作了一个响应式全栈聊天应用程序（虽然还没有完全完成，打磨需要很多时间）。 还有很多事情要做！ 我不确定我是否必须开始学习 TypeScript，或者可能会回去反应并学习 Redux 并在前端设计方面做得更好，或者可能会回到 Node并尝试更深入地了解它和后端内容。 我意识到我开始使用那些为您准备项目的脚本来启动大多数项目，并且我自己可能无法从头开始创建项目 另外，我从一开始就用Express学习了Node，不知道如何在没有express的情况下单独编写Node。 而且我用mongoose学习了MongoDB，我有了一个基本的SQL 知识，但我正在考虑通过做一些项目来学习关系数据库，因为 SQL 知识很重要。 哦，我看到很多人提到测试的重要性，所以我正在考虑在我的聊天应用程序中实现测试. 这就像我的知识有很多漏洞，我应该提前做很多方向，而且我不确定什么时候我才能准备好担任初级职位...... 有什么想法吗？   由   提交 /u/CyperFlicker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm7u2u/how_am_i_not_supposed_to_get_overwhelmed_with_the/</guid>
-      <pubDate>Tue, 07 May 2024 09:34:35 GMT</pubDate>
+      <title>WordPress 与 Webflow，您更喜欢哪个来构建宣传册网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmbpub/wordpress_vs_webflow_which_do_you_prefer_for/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交 /u/Gandalf-and-Frodo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmbpub/wordpress_vs_webflow_which_do_you_prefer_for/</guid>
+      <pubDate>Tue, 07 May 2024 13:18:21 GMT</pubDate>
     </item>
     <item>
-      <title>Cpanel 域重定向</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm7smk/cpanel_domain_redirects/</link>
-      <description><![CDATA[我正在尝试将我的网站从domainname.in重定向到domainname.com，但是，在添加重定向后 - 我没有任何进一步的选项来添加重定向对于内部页面。当我添加通配符重定向时，域内部链接不相同，因此会导致 404 错误。我正在寻找一种解决方案，可以确保将domainname.in 中的所有内部页面重定向到domainname.com   由   提交 /u/madsandy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm7smk/cpanel_domain_redirects/</guid>
-      <pubDate>Tue, 07 May 2024 09:31:52 GMT</pubDate>
+      <title>伟大桌子的设计哲学</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmbdsk/the_design_philosophy_of_great_tables/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmbdsk/the_design_philosophy_of_great_tables/</guid>
+      <pubDate>Tue, 07 May 2024 13:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>另一个 RAG 教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm7nuw/yet_another_rag_tutorial/</link>
-      <description><![CDATA[我渴望一个动手项目，一个我可以在短短几个小时内构建的项目。因此，我决定尝试使用 LangChain 和向量数据库来创建 RAG 对话应用程序。 我想与您分享我的经验。看看吧，让我知道你的想法： https://genezio.com/blog/langchain -genezio-project   由   提交 /u/andreiaoca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm7nuw/yet_another_rag_tutorial/</guid>
-      <pubDate>Tue, 07 May 2024 09:22:30 GMT</pubDate>
+      <title>购买域名的最佳地点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmbbqj/best_place_to_purchase_a_domain/</link>
+      <description><![CDATA[想要创办一家小型企业，需要一个网站。我对此相当陌生，因此我们将不胜感激。谢谢！！   由   提交/u/Early_Calligrapher25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmbbqj/best_place_to_purchase_a_domain/</guid>
+      <pubDate>Tue, 07 May 2024 12:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>zrok SDK for NodeJS：为您的 NodeJS 应用程序提供简单、安全的点对点共享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cm71pw/zrok_sdk_for_nodejs_simple_secure_peertopeer/</link>
-      <description><![CDATA[去年，我们发布了zrok，一个开源共享构建在 OpenZiti 之上的平台 - 认为是 Ngrok、Tailscale Funnel 等的替代品。 zrok 使 HTTP 服务器、TCP 和 UDP 隧道以及文件等资源的共享变得简单、快速且安全。 我们现在发布了适用于 zrok 的 NodeJS SDK，以便可以将简单、安全的共享模型扩展到您的自定义 NodeJS 工具和应用程序。 在我们的博客上了解更多信息 - https://blog。 openziti.io/the-nodejs-zrok-sdk。 我们提供了一个使用 Express Web 服务器启用的示例。如果您自行托管其中一个，并希望它在网络上不可见，但仍可供您选择与其共享的人访问，您应该检查一下。 我们还有一个适用于 Golang 的 zrok SDK和Python。即将支持其他语言。 如果您有兴趣让 zrok SDK 支持其他语言，请通过 我们的话语。 如果您喜欢zrok并希望支持其持续发展，请在我们的zrok 存储库；这对我们来说意义重大。   由   提交/u/PhilipLGriffiths88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cm71pw/zrok_sdk_for_nodejs_simple_secure_peertopeer/</guid>
-      <pubDate>Tue, 07 May 2024 08:38:28 GMT</pubDate>
+      <title>关于我的网络应用程序内容的图书馆建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmb4p2/suggestions_for_library_regarding_content_in_my/</link>
+      <description><![CDATA[是否有一个库或其他东西可以允许我授予访问权限的人（例如内容编写者）更改我的网络应用程序中的内容在直观的图形用户界面中？  假设我需要更改对话框中的内容。而不是我在内容作者告诉我内容后更改代码。内容编写者应该能够直接在 gui 中更改它，这将反映在应用程序中。  可能吗？   由   提交/u/Ok_Jacket3710   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmb4p2/suggestions_for_library_regarding_content_in_my/</guid>
+      <pubDate>Tue, 07 May 2024 12:49:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

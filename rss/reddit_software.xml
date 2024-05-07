@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 07 May 2024 12:20:39 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Tue, 07 May 2024 15:11:27 GMT</lastBuildDate>
+    <item>
+      <title>呼叫中心软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cmc8kr/call_center_software/</link>
+      <description><![CDATA[大家好！ 我正在尝试找到一个可以帮助我组织每次通话笔记的软件。这将是实际电话系统之间的一个软件，每次通话时都会弹出注释。   由   提交/u/sfish53  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cmc8kr/call_center_software/</guid>
+      <pubDate>Tue, 07 May 2024 13:43:23 GMT</pubDate>
+    </item>
     <item>
       <title>带有时间控制的自定义地图</title>
       <link>https://www.reddit.com/r/software/comments/1cma40e/custom_maps_with_time_controls/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 07 May 2024 08:15:34 GMT</pubDate>
     </item>
     <item>
-      <title>有什么好的具有变声功能的软件或应用程序吗？</title>
+      <title>有什么好的软件或者app可以变声呢？</title>
       <link>https://www.reddit.com/r/software/comments/1cm5ivh/what_is_a_good_software_or_app_that_has_voice/</link>
       <description><![CDATA[正如标题所说，最好是免费的，具有良好的功能和质量，我主要是希望加深我对一个项目的声音，你知道深度匿名（您在电影和歌曲中听到的黑客）声音。   由   提交/u/DragovitcMIA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cm5ivh/what_is_a_good_software_or_app_that_has_voice/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>有免费的 HEVC 播放器推荐吗？</title>
       <link>https://www.reddit.com/r/software/comments/1clrlo9/any_free_hevc_player_reccomendations/</link>
-      <description><![CDATA[提前致谢！ 编辑：感谢您的推荐！    由   提交  /u/DeltaXero   [链接] [评论]]]></description>
+      <description><![CDATA[提前致谢！ 编辑：感谢您的推荐！    由   提交 /u/DeltaXero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clrlo9/any_free_hevc_player_reccomendations/</guid>
       <pubDate>Mon, 06 May 2024 19:22:04 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>无线网络设置应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1clpwu2/wifi_settings_app/</link>
-      <description><![CDATA[我需要内置 Windows 设置的替代方案，因为我的 Windows 资源管理器无法工作。其他一切都可以，所以如果我能上网，我就可以在运行电动玩具的情况下使用我的计算机，并且它应该正常运行。   由   提交 /u/Snipedzoi   [链接] [评论]]]></description>
+      <description><![CDATA[我需要一个内置 Windows 设置的替代方案，因为我的 Windows 资源管理器无法使用。其他一切都可以，所以如果我可以上网，我就可以使用我的电脑运行电源玩具，它应该可以正常工作。    由    /u/Snipedzoi  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clpwu2/wifi_settings_app/</guid>
       <pubDate>Mon, 06 May 2024 18:13:12 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以我正在为特定图像制作一个图像保存站点。我需要从谷歌图像搜索中大量下载它们（尽管它很难，高级搜索太糟糕了），但没有任何效果。我已经下载了 wfdownloader （但我无法弄清楚），此后我尝试了我能找到的所有东西（2/3 小时就这样浪费了），然后我下载了一个 chrome 扩展程序，它可以工作，但每 1 个图像集 30 张图像老实说，我需要它来下载多个页面。啊。  不得不提的是，我需要一个免费工具，但我不编码！    由   提交 /u/robinivy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1clnzf3/i_need_serious_help_here/</guid>
       <pubDate>Mon, 06 May 2024 16:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>B450// 没有 Realtek 驱动程序</title>
-      <link>https://www.reddit.com/r/software/comments/1clkuru/b450_no_realtek_drivers/</link>
-      <description><![CDATA[嘿伙计们， 我最近遇到了一些崩溃和声音削波的问题，音频是我认为我需要的帮助大多数 atm。 我的所有芯片组驱动程序都是最新的，我的 Windows 也是最新的，但在设备管理器下我没有 realtek 驱动程序。我有 AMD 高清晰度音频，这会取代它吗？ 我尝试通过设备管理器的旧版驱动程序下载（这会在更新开始时使我的计算机崩溃），并且来自该网站的 Realtek 驱动程序是“不支持”。有什么想法吗？   由   提交 /u/Primary_Exotic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1clkuru/b450_no_realtek_drivers/</guid>
-      <pubDate>Mon, 06 May 2024 14:47:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

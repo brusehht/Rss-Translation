@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 07 May 2024 12:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:10:48 GMT</lastBuildDate>
+    <item>
+      <title>每日 PDF 下载</title>
+      <link>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</link>
+      <description><![CDATA[有一个每天下午 6 点更新 PDF 的网址。有没有办法自动下载该 PDF 并通过某种更改列表运行它，该列表显示与前一天相比对 PDF 所做的更改。 我使用的是 MAC 系统。谢谢！   由   提交 /u/ShoddyNegotiation343   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</guid>
+      <pubDate>Tue, 07 May 2024 14:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>了解人工智能和自动化的 Discord/社区（无代码）</title>
       <link>https://www.reddit.com/r/automation/comments/1cm5dms/discords_communities_to_learn_about_ai_and/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 06 May 2024 14:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>联系表格和免费 PDF 自动化</title>
+      <title>联系表和免费 PDF 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</link>
       <description><![CDATA[我首先会说我希望使用尽可能少的平台。理想情况下，我不需要 Squarespace、HubSpot CRM、MailChimp 等。根据我的发现，我需要许多不同的平台来自动化我想要在 Zapier 上执行的操作。我希望有一种更简单（而且更便宜）的方法！ 我正在为我的营销机构寻找两件事：  自动化我的初始销售渠道。有人通过我的 Squarespace 网站上的联系表联系我们 &gt;已安排通话 &gt;我为他们的社交/网站提出了改进的领域（如果这可以以某种方式自动化，那就太棒了，但我可以手动执行此操作）&gt;如果没有回复，请发送后续电子邮件询问他们是否仍然感兴趣&gt;如果他们想合作，则会自动发送发票 “在我的 IG 帖子上评论单词 ___ 以获得免费指南”自动化。我很乐意制作一个免费的 pdf 或视频或仅在他们输入电子邮件并选择加入我的指南后发送的内容。  谢谢大家！&lt; /p&gt;   由   提交 /u/alexxxcazam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cl0mze/contact_form_free_pdf_automation/</guid>
@@ -48,9 +55,9 @@
       <pubDate>Thu, 02 May 2024 22:49:48 GMT</pubDate>
     </item>
     <item>
-      <title>自动创建 LinkedIn 连接信息以创建 ClickUp 任务</title>
+      <title>自动将 LinkedIn 连接信息发送到 ClickUp 任务创建</title>
       <link>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</link>
-      <description><![CDATA[是否可以自动化此过程？当有人在 LinkedIn 上接受连接请求时，将使用其名称创建一个 ClickUp 任务，并且该任务将包含他们的所有信息（姓名、毕业日期、LinkedIn 链接、简历等）。 可以使用 Zapier、Pabbly Connect 或 n8n 完成此操作吗？    提交人    /u/tush_6433668   [link] [评论]]]></description>
+      <description><![CDATA[是否可以自动化此过程？当某人在 LinkedIn 上接受连接请求时，将使用他们的姓名创建一个 ClickUp 任务，该任务将包含他们的所有信息（姓名、毕业日期、LinkedIn 链接、简历等）。 可以这可以使用 Zapier、Pabbly Connect 或 n8n 来完成吗？   由   提交/u/tush_6433668   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</guid>
       <pubDate>Thu, 02 May 2024 15:26:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我和一位同事最近各购买了一台 Allen Bradley PLC。我们都想尝试自己动手学习编程，但没有 1000 美元花在软件上。有任何兼容的免费替代品吗？   由   提交 /u/Fearless-Zebra-2543   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ch4f5x/allen_bradley_plc_software/</guid>
       <pubDate>Tue, 30 Apr 2024 21:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>已付费，需要帮助向负载较重的服务器发送请求</title>
-      <link>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</link>
-      <description><![CDATA[嘿，我需要一个有向服务器高速发送请求经验的人，我有一个端点由于负载而变慢，我希望有人帮助我优化流程，以便我可以在加载时间内以最快的时间发送请求并获得响应。    提交人    /u/FlumeTennisCourt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cgv9iq/paid_need_help_with_sending_requests_to_a_server/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:11:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

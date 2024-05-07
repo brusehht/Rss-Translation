@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 12:21:03 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Tue, 07 May 2024 15:12:00 GMT</lastBuildDate>
+    <item>
+      <title>感觉只会说一种语言？来认识一下 Huriha，多语言 Web 服务器！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmcyza/feeling_monolingual_meet_huriha_the_polyglot_web/</link>
+      <description><![CDATA[ 由   提交/u/DaniAsh551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmcyza/feeling_monolingual_meet_huriha_the_polyglot_web/</guid>
+      <pubDate>Tue, 07 May 2024 14:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>伙计们，我创建了基于人工智能的潜在客户生成器，在一个工具中包含许多功能，例如潜在客户提取器、电子邮件营销、聊天机器人集成和客户关系管理。在这里结帐，并在评论部分提供您的反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmcvb2/guys_i_have_created_ai_based_lead_generator/</link>
+      <description><![CDATA[ 由   提交/u/Ok_Simple_5326   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmcvb2/guys_i_have_created_ai_based_lead_generator/</guid>
+      <pubDate>Tue, 07 May 2024 14:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>低调厌倦了开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_sourcing/</link>
@@ -20,7 +34,7 @@
       <pubDate>Tue, 07 May 2024 10:55:30 GMT</pubDate>
     </item>
     <item>
-      <title>新更新：OneUptime——开源 Datadog 替代品。</title>
+      <title>新更新：OneUptime - 开源 Datadog 替代方案。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm8ks9/new_update_oneuptime_open_source_datadog/</link>
       <description><![CDATA[关于 ONEUPTIME： OneUptime (https ://github.com/oneuptime/oneuptime）是 DataDog + StausPage.io + UptimeRobot + Loggly + PagerDuty 的开源替代品。它是 100% 免费的，您可以将其自行托管在您的虚拟机/服务器上。 OneUptime 在一个平台上提供正常运行时间监控、日志管理、状态页面、跟踪、待命软件、事件管理等功能。  更新： 推出了几个新的监控选项 - 您现在可以监控您的 SSL 证书和服务器（正在运行的进程、Mem、CPU、Dick 等）  随着时间的推移评估监控指标。您可以设置警报，例如“当我的网站响应时间超过 5 秒且持续 5 分钟时创建事件”。这在以前是不可能的。 添加了使用 fluidd 和 OpenTelemetry 进行日志摄取的功能。使用 OpenTelemetry 摄取跟踪和指标。 第二季度末的路线图： 新监视器：我们将致力于新的监视器选项，特别是“日志” “监控器”、“跟踪监控器”、“指标监控器”您可以在其中设置警报，例如 - 如果存在错误日志，则创建事件并向团队发出警报。 类似仪表板的 Datadog 即将推出。 路线图到第三季度末： 我们正在寻找一名可靠性副驾驶。您需要做的就是运行 GitHub actions 作业/CI 作业，它会扫描您的代码库，查询 OneUptime API 以获取您的软件在生产中遇到的所有错误。然后我们尝试修复这些错误并自动创建 PR。让您的软件日复一日地变得可靠、更好。您的任何代码都不会发送给我们。它将保留在 GitHub 操作运行器上。我们将通过当地的法学硕士来完成此任务。不用说，这将是测试版，并且随着时间的推移会变得更好。 请求反馈和反馈特点： 这个社区对我们很友善。非常感谢您向我们提供的所有反馈。这有助于使软件变得更好。我们一如既往地寻求更多反馈。如果您确实有什么想法，请随时发表评论、与我们交谈、做出贡献。所有这些都有助于使该软件更好地供我们所有人使用。 开源承诺：OneUptime 是开源的，在 Apache 2 许可证下免费，并且将永远如此是。   由   提交/u/OuPeaNut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm8ks9/new_update_oneuptime_open_source_datadog/</guid>
@@ -41,16 +55,16 @@
       <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>精简版安卓操作系统</title>
+      <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
-      <description><![CDATA[有人知道有什么好的、精简的 Android 操作系统吗？我有一个较旧的 Android（2016），只是想要一个在较旧的硬件上运行更轻的操作系统，如果有帮助的话，我将把它用作哑电话。   由   提交 /u/die4tek   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道有什么好的、精简版的 Android 操作系统吗？我有一台较旧的 Android（2016 年），只想要一个可以在较旧的硬件上运行更轻量的操作系统，如果有帮助的话，我会把它用作功能手机。    提交人    /u/die4tek   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</guid>
       <pubDate>Tue, 07 May 2024 02:55:37 GMT</pubDate>
     </item>
     <item>
       <title>lu5,用于创意编码的 Lua 解释器,下载lu5的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</link>
-      <description><![CDATA[       由    /u/vlevi  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/vlevi   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</guid>
       <pubDate>Mon, 06 May 2024 22:15:11 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿，我在 GitHub 上有一个开源项目，我正在开始，希望有很多人使用/贡献 - 祝我好运。但我不清楚使用哪个许可证。不使用 MIT 许可证的原因是什么？我应该考虑更好的选择吗？我对许可不太熟悉，需要一些帮助来做出决定。感谢您的帮助。 编辑以防万一，主应用程序是用 SwiftUI 编写的，后端服务器是用 Rust 编写的。  &amp; #32；由   提交 /u/Admirable_Proxy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cl3eiy/advice_for_an_opensource_license/</guid>
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Android 应用程序 - 如何仔细检查？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
-      <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获取我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一项检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
-      <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种简单的方法可以将音频从智能手机传输到 Linux 系统？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</link>
-      <description><![CDATA[我目前正在设置多房间音频，虽然很容易启动并运行 snapcast 以将使用 mpd 播放的音乐从我的服务器流式传输到 Android 和 Raspberry Pi；但我很难做到相反的操作。 我理想情况下想要能够在 Spotify 或 Youtube 中选择我的服务器作为 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”时运气不佳，因为我只找到 863 个允许将音频发送到 Fire TV 棒或 chromecast 设备的项目。 有人可以指出我是否可以将音频从 Android 发送到服务器，以便我可以将其传输到 snapcast 吗？    提交人    /u/atyon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</guid>
-      <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
