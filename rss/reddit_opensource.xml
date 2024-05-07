@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 06:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:15:00 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 的 FOSS Gallery 来组织照片和视频？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</link>
+      <description><![CDATA[有谁知道一些 FOSS Windows 软件，它允许我选择特定文件夹，然后自动加载该文件夹和子文件夹中的所有图像和视频。图像和视频应按日期组织，我希望有一个搜索选项，以便能够按日期和图像名称进行搜索。 此外，如果它内置了地图，则会显示地图上每个图像的位置，那就太好了。 我不是在寻找像 Immich、Home Gallery 或类似的东西这样的自托管解决方案，所以不推荐在 Docker 上运行的东西。我所需要的只是一个 Windows 软件，一个可以安装并完成工作的 .exe 文件。 我找到了一个名为 Darktable 的软件，它可以完成我正在寻找的这些事情，但它的主要功能不是像图库应用程序那样工作，而且它不能处理视频，只能处理照片。它有太多选项，很混乱，而且看起来真的很难看，而且已经过时了。 任何建议或建议将不胜感激！提前致谢。   由   提交 /u/Cyber​​Sweeper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cm6jyi/looking_for_a_foss_gallery_for_windows_to/</guid>
+      <pubDate>Tue, 07 May 2024 08:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>lu5,用于创意编码的Lua解释器,下载lu5的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</link>
-      <description><![CDATA[       由   提交/u/vlevi   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由    /u/vlevi  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</guid>
       <pubDate>Mon, 06 May 2024 22:15:11 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 06 May 2024 14:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
+      <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道在哪里可以找到这个吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
       <description><![CDATA[ 由   提交 /u/bazipip   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</guid>
@@ -69,9 +76,9 @@
       <pubDate>Sun, 05 May 2024 16:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>有没有一种简单的方法可以将音频从智能手机传输到 Linux 系统？</title>
+      <title>是否可以轻松地将音频从智能手机传输到 Linux 系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</link>
-      <description><![CDATA[我目前正在设置多房间音频，虽然很容易获得 snapcast 启动并运行，将使用 mpd 播放的音乐从我的服务器传输到 Android 和 Raspberry Pi；我在相反的方向上苦苦挣扎。 我想要的理想情况是能够选择我的服务器作为 Spotify 或 Youtube 中的 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”的运气并不好。因为我发现只有 863 项目允许将音频发送到 Fire TV 棒或 chromecast 设备。 任何人都可以向我指出将音频从 Android 发送到服务器的可能性，以便我可以将其通过管道传输到快照？   由   提交/u/atyon  [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在设置多房间音频，虽然很容易启动并运行 snapcast 以将使用 mpd 播放的音乐从我的服务器流式传输到 Android 和 Raspberry Pi；但我很难做到相反的操作。 我理想情况下想要能够在 Spotify 或 Youtube 中选择我的服务器作为 Chromecast 目标，就像我可以选择 Fire TV 棒一样。不幸的是，我在谷歌上搜索“chromecast 接收器”时运气不佳，因为我只找到 863 个允许将音频发送到 Fire TV 棒或 chromecast 设备的项目。 有人可以指出我是否可以将音频从 Android 发送到服务器，以便我可以将其传输到 snapcast 吗？    提交人    /u/atyon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckrvgq/is_there_an_easy_possibility_to_stream_audio_from/</guid>
       <pubDate>Sun, 05 May 2024 13:58:34 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
+      <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
       <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共文档 OSS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用 outline/outline，但它主要专注于内部文档。在与客户共享公共链接时，它目前是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决这个问题，并且可能基于 Next.JS 构建  而且我们没有时间构建静态 NextJS 网站服务文档，因为团队规模小，文档大量由非技术人员编写。    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
-      <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
