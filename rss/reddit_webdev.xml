@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 07 May 2024 18:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:11:30 GMT</lastBuildDate>
+    <item>
+      <title>解决代码战任务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmmhr9/solving_codewars_tasks/</link>
+      <description><![CDATA[我是一名自学成才的开发人员（主要是前端），我尝试通过解决 7 级的 katas 来提高我的 JavaScript 知识和技能，有时当我真的很努力地尝试6。但我不能再低了……就像，我确实觉得我学到了很多东西，但当2小时后我因为无法解决6型任务而放弃时，这真的很令人沮丧。有时我什至无法理解任务本身。人如何成为1段，解决型1或2的任务？  分配什么时间来解决要解决的任务合适？    由   提交 /u/lponkl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmmhr9/solving_codewars_tasks/</guid>
+      <pubDate>Tue, 07 May 2024 20:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用什么来构建登陆页面？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmkr9q/what_to_build_a_landing_page_with/</link>
+      <description><![CDATA[大家好，我是一名使用 PERN 堆栈的全栈 Web 开发人员，我正在考虑进入 SaaS。我想问我应该使用什么作为登陆页面，我的意思是 WordPress 更好还是我应该坚持使用 React 和 Bootstrap/tailwind？    由   提交 /u/Tesla420A   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmkr9q/what_to_build_a_landing_page_with/</guid>
+      <pubDate>Tue, 07 May 2024 19:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者数据库困境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmjmov/beginner_database_dilemma/</link>
+      <description><![CDATA[好的，大家。 Reddit 上有人曾经说过，他们等了 24 小时才发布问题，以防他们想出解决方案，而我已经 48 小时后才遇到这个问题了。所以我们到了。我不想问这个问题，因为我想今晚能够睡觉。 一定有一个简单的解决方案，我只是没有得到，如果这意味着被钉在十字架上和嘲笑，那就这样吧。 过去两个月我一直在开发一个网站（只是为了好玩，我不是真正的网络开发人员）。它有一个 sqlite 数据库，用于存储有关某些图像的信息（存储在 s3 上）。我编写了一些基本的 CRUD 操作，这些操作只允许我写入数据库并上传到存储桶。没有任何机密信息，一切都是公开的，php 抓取所有数据库信息并将其呈现给用户。 我的问题是，如果我在实时网站上进行任何 CRUD，然后进行本地更新，然后用新的站点文件替换站点文件，它将覆盖数据库。 此外，如果我在本地站点上工作，它将是正在使用的数据库的过时版本，我希望它们是&#39;同步&#39;，如果这有意义的话。 所以我正在考虑将 sqlite 数据库文件放入 s3，并在每次执行某种形式的 CRUD 时下载/重新上传+替换它，但由于某种原因它只是感觉效率真的很低。 ChatGPT 正在成为 chatgpt 并给出无用的答案，我几乎用谷歌搜索了这个问题的所有可能性，并且开始觉得有一些解决方案完全超出了我的想象。  p&gt; 有人可以指导我正确的方向吗？ 如果我的措辞不好，请道歉 - 请随时纠正我，我们将不胜感激。   由   提交 /u/ReferezFearz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmjmov/beginner_database_dilemma/</guid>
+      <pubDate>Tue, 07 May 2024 18:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 AI 增强型 Web 开发。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmjjw3/ai_enhanced_web_dev_wanted/</link>
+      <description><![CDATA[我阅读了规则，似乎并没有禁止发布招聘请求，所以就这样了...  我想聘请一名全栈 AI 增强型 Web 开发人员。  了解并使用 AI 来提高其工作效率和质量，并将其中一些好处传递给客户的人。  像现在的大多数人一样，我正在构建一个 AI 增强型 Web 项目，拥有完整的规范，并且我希望构建一个 MVP。  大家好，谢谢阅读。    提交人    /u/Tridente   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmjjw3/ai_enhanced_web_dev_wanted/</guid>
+      <pubDate>Tue, 07 May 2024 18:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人如何制作虚假电子邮件以进行网络钓鱼？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmiwci/how_can_someone_make_a_bogus_email_for_phishing/</link>
+      <description><![CDATA[收到多封购买电子邮件，全部以 (at) acvzz.com 结尾，但它们都有不同的名字。当我使用 email-checker.net 时，它显示电子邮件不合法。但如果有人使用退回的电子邮件，并且这些电子邮件都没有退回，我也会收到通知。 事实上，我测试了它，向 thiscantbelegit (at) acvzz.com，它没有反弹，还尝试了其他一些带有该扩展名的虚构名称。他们都没有反弹。 他们是怎么做到的？    由   提交 /u/soCalForFunDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmiwci/how_can_someone_make_a_bogus_email_for_phishing/</guid>
+      <pubDate>Tue, 07 May 2024 18:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要官方开发人员的帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cminhb/need_some_help_from_the_official_dev_out_there/</link>
+      <description><![CDATA[您对 PERN 堆栈有何看法？有没有更好的堆栈我应该学习？从工作到自由职业等任何一般性建议，请提前致谢   由   提交/u/Serious_Consequence7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cminhb/need_some_help_from_the_official_dev_out_there/</guid>
+      <pubDate>Tue, 07 May 2024 18:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 是否具有 html/css 的“拖放”功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/</link>
+      <description><![CDATA[我是一名菜鸟开发人员，正在开发我的第一个“真正的”项目一个小型组织的项目。 我完全通过自定义 html/css 来完成它。  我知道如何以传统方式定位元素，但我想知道 Visual Studio Code 是否具有允许开发人员仅使用光标拖放创建的元素的功能。 我问的原因是我想做一些小调整，而不仅仅是“将此框向下移动 5 像素，然后向右移动 5 像素”。我想知道是否有比仅键入然后刷新更快的方法。    由   提交 /u/Emotional-Sir3410    reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cmim7x/does_visual_studio_code_have_a_drag_and_drop/</guid>
+      <pubDate>Tue, 07 May 2024 18:17:12 GMT</pubDate>
+    </item>
     <item>
       <title>Shopify 网站上的文本格式问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmikeb/text_formatting_issue_on_shopify_website/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>推荐用于 Web 开发的统一内存？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmhy0k/recommended_unified_memory_for_web_dev/</link>
-      <description><![CDATA[大家好！我正在寻找一台个人 Mac，可以用于工作中的开发以及涉及 Apple 生态系统的其他项目。  对我来说，重要的是它可以顺利地运行我作为网络开发人员的工作负载，而我之前的 8GB MacBook Air 却很难做到这一点。我必须运行大约 7 个 Docker 容器，并且偶尔打开 illustrator。  所以我知道 8 个不够，但不确定正确的数量是多少。我当前的 Windows PC 使用略高于 32GB 的内存来运行我们的环境，但我希望 Apple 不需要那么多内存，因为它们的成本很高。   由   提交 /u/byte-boxer   /u/byte-boxer  reddit.com/r/webdev/comments/1cmhy0k/recommended_unified_memory_for_web_dev/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好！我想买一台个人 Mac，用于工作开发和其他涉及 Apple 生态系统的项目。 对我来说，它能够顺利运行我作为 Web 开发人员的工作量很重要，而我之前的 8GB MacBook Air 却无法胜任。我必须运行大约 7 个 Docker 容器，有时还要打开 Illustrator。 所以我知道 8 个是不够的，但不确定合适的数量是多少。我当前的 Windows PC 在我们的环境中运行使用了 32GB 多一点的 RAM，但我希望使用 Apple 时不需要那么多，因为它们的成本很高。    提交人    /u/byte-boxer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmhy0k/recommended_unified_memory_for_web_dev/</guid>
       <pubDate>Tue, 07 May 2024 17:48:56 GMT</pubDate>
     </item>
@@ -36,14 +85,14 @@
     <item>
       <title>我们的非营利组织是否应该从 Wordpress 迁移到 SquareSpace？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmgbni/should_our_nonprofit_move_from_wordpress_to/</link>
-      <description><![CDATA[大家好，在此先谢谢大家提出的任何见解。我是一家非营利组织的营销经理，我的任务是确定迁移到 SquareSpace 是否是个好主意。 我们考虑的原因：  我们的网站设计已过时，并且是由第三方创建的 我们需要向第三方支付维护费用，因为我们是一个小团队 当前网站的用户体验并不理想，尤其是对于预订我们免费活动门票的用户而言（尽管我认为这更多的是 Patron Manager 的问题） 当出现新的设计需求时，我们需要付钱给设计师来解决它们 此举是由我们正在合作的图形设计团队建议的  我从未与 SS 合作过，但我在 WP 矿场工作了很多年。我有内容营销背景和大量的 SEO 知识，但我的编码经验极其有限，在技术 SEO 方面还有很多东西需要学习。我加入这个组织才一年，但已经能够使用 WP 大幅改善 SEO，有机搜索现在占我们流量的 24%。 我的想法： SS 可能会提供临时的&quot;修复&quot;，使网站看起来更现代，初级员工将更容易使用，但长期影响（SEO 问题、没有自定义编码、不可扩展等）使它成为一个糟糕的选择，我们最好继续使用 WP 并在其中进行全面重新设计。 我很乐意听到您可能有的任何想法！如果有用，我们的组织是 City of Asylum。 （交叉发布到 SEO，但我认为网络开发人员可能有我没有的见解）    提交人    /u/crystalbawl   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，提前感谢您提供的任何见解。我是一家非营利组织的营销经理，负责确定迁移到 SquareSpace 是否是个好主意。 我们考虑的原因：  我们的网站设计已经过时，并且是由第三方创建的 我们需要向第三方支付维护费用，因为我们是一个小团队 用户体验当前网站的功能并不理想，特别是对于预订我们免费活动门票的用户（尽管我认为这更多是赞助经理的问题） 当出现新的设计需求时，我们需要付费一位设计师来解决这些问题 此举是我们合作的图形设计团队推荐的  我从未与 SS 合作过，但我花了很多时间在 WP 矿山工作多年。我拥有内容营销背景和大量 SEO 知识，但我的编码经验极其有限，在技术 SEO 方面还有很多东西需要学习。我只在这个组织工作了一年，但已经能够通过 WP 大幅提高 SEO，有机搜索现在占我们流量的 24%。 我在想什么： SS 可以提供临时“修复”使网站看起来更现代，并且更容易被初级员工使用，长期影响（搜索引擎优化问题，没有自定义编码，不可扩展等）使它成为一个糟糕的选择，我们会更好地继续下去WP 并在其中进行全面的重新设计。 我很想听听您的任何想法！如果有用的话，我们的组织是 City of Asylum。 （交叉发布到 SEO，但我认为网络开发人员可能有我没有的见解）    由   提交 /u/crystalbawl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmgbni/should_our_nonprofit_move_from_wordpress_to/</guid>
       <pubDate>Tue, 07 May 2024 16:39:41 GMT</pubDate>
     </item>
     <item>
       <title>我迷路了。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmg6k5/im_lost/</link>
-      <description><![CDATA[在过去的一年里，我一直在前端和后端使用 TS。在前端使用 react 时，我不介意使用它。但在后端我不喜欢它。我用它做了几个项目，但我总是发现它很乱。 所以我想也许可以试试 Java spring boot 或 C# .NET。但我得到了一些不同的反应。我认识的 2 个在科技行业工作多年的人告诉我试试 .NET，因为它和 spring boot 都有高薪工作。我大学里的每个朋友都说它们都是过时的技术。 老实说，至少在我的个人项目中，我不想在后端使用 TS。但我有点急于尝试它们。    提交人    /u/Intelligent-Swing371   [链接] [评论]]]></description>
+      <description><![CDATA[在过去的一年里，我一直在前端和后端使用 TS。在前端使用 React 我不介意使用它。但在后端我不喜欢它。我用它做了几个项目，但我总是发现它搞砸了。  所以我想也许可以尝试一下 Java spring boot 或 C# .NET。但我得到了一些不同的回应。我认识的两个在科技行业工作多年的人告诉我尝试一下 .NET，因为它对于 Spring Boot 来说也有高薪工作。我大学里的每个朋友都说它们都是死技术。  老实说，我不想至少在我的个人项目中在后端使用 TS。但我有点担心尝试它们。    由   提交 /u/Intelligent-Swing371    reddit.com/r/webdev/comments/1cmg6k5/im_lost/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmg6k5/im_lost/</guid>
       <pubDate>Tue, 07 May 2024 16:33:31 GMT</pubDate>
     </item>
@@ -55,60 +104,11 @@
       <pubDate>Tue, 07 May 2024 16:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>探测 WebRTC 带宽探测 – gcc 中的原因和方式</title>
+      <title>探测 WebRTC 带宽探测 – 在 gcc 中为何以及如何进行</title>
       <link>https://www.reddit.com/r/webdev/comments/1cmfs1t/probing_webrtc_bandwidth_probing_why_and_how_in/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cmfs1t/probing_webrtc_bandwidth_probing_why_and_how_in/</guid>
       <pubDate>Tue, 07 May 2024 16:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站上的地图集成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmfmir/map_integration_on_website/</link>
-      <description><![CDATA[我想在我的网站上添加一项功能，允许用户查看他们所在位置附近的餐馆。我的问题很简单，我应该在我的网站中嵌入地图（例如谷歌地图）还是以他们的位置作为参数将他们重定向到谷歌地图。任何反馈都非常感谢。     提交人    /u/Queasy-Thing-3206   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmfmir/map_integration_on_website/</guid>
-      <pubDate>Tue, 07 May 2024 16:10:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>无代码网站建设者如何存储网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmfd38/how_do_nocode_website_builders_store_the_websites/</link>
-      <description><![CDATA[对于 Shopify 和 Framer 等应用程序 - 它们如何存储这些数据？它只是存储在数据库中的所有 html/css/js 吗？或者其他格式？ 这引出了我的第二个问题 - 他们将使用什么样的数据库？像 postgres 这样的东西？ 任何帮助表示赞赏！   由   提交/u/loganfordd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmfd38/how_do_nocode_website_builders_store_the_websites/</guid>
-      <pubDate>Tue, 07 May 2024 15:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像扫描质量检查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmern7/image_scan_quality_check/</link>
-      <description><![CDATA[嘿，你知道有什么好的 API 可以检查我的用户拍摄的文档图片的质量吗？    由   提交/u/gustutu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmern7/image_scan_quality_check/</guid>
-      <pubDate>Tue, 07 May 2024 15:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么使用组件库（例如在 React - MUI、Radix 或任何其他库中）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmemdb/why_do_you_use_component_libraries_eg_in_react/</link>
-      <description><![CDATA[基本上就是标题。我和一位同事讨论过，人们倾向于使用组件库是因为它们背后的逻辑，还是它们自带的设计？ 查看投票    由   提交  /u/soupgasm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmemdb/why_do_you_use_component_libraries_eg_in_react/</guid>
-      <pubDate>Tue, 07 May 2024 15:27:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>装饰按钮应该隐藏吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmeblf/should_decorative_button_be_ariahidden/</link>
-      <description><![CDATA[我的个人网站设计得看起来像是在经典的 macOS 窗口中，并且有一个标题栏，其中的按钮不执行任何操作（它们是但可点击，这就是我使用  的原因）。 ax 和 WAVE 似乎认为我做错了什么，但它们仍然应该被隐藏，对吗？ 编辑：当我向  添加禁用属性时，WAVE 和 axe 停止警告我，仍然不确定这是否是一个好的做法   由   提交/u/uGoldfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmeblf/should_decorative_button_be_ariahidden/</guid>
-      <pubDate>Tue, 07 May 2024 15:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>重大安全问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cme4x3/big_security_concerns/</link>
-      <description><![CDATA[嘿伙计们， 我刚刚在 WordPress 上检查了我的本地网站之一的 404。这是一个非常古老的网站，邮件服务器不断有网络钓鱼尝试。  我可以看到 404 上有很多来自全球 IP 的粗略 URL 请求： /?jkit-ajax-request=jkit_elements&lt; /p&gt; /wp-json/wp/v2/pages/429 等等 ..  这种情况几乎每 5 分钟就会发生一次 &lt; /p&gt; 据我所知，AJAX 查询正在尝试运行一些 Javascript 或 XML 我已经验证这不是我，也不是机器人流量（根据字栅栏和安全优化器） )  你们有人经历过这种情况吗？  我可以做些什么来防止这种攻击吗？ 抱歉，如果这是发布此内容的飞机是错误的   由   提交/u/Same_Performance4520   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cme4x3/big_security_concerns/</guid>
-      <pubDate>Tue, 07 May 2024 15:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立电子商务商店最简单的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cme4ex/what_would_be_the_easiest_way_to_build_an/</link>
-      <description><![CDATA[我使用 vue wt work 和 sveltekit 来做我自己的自由职业。我听说我可以使用 Medusahs，但是有了这个，我需要管理数据库或为其支付服务费用，并考虑在哪里托管、发送电子邮件等... 我听说还有一个选项使用Shopify，如果担心的话，数据库、托管、支付、电子邮件、履行（我不知道用户身份验证）会占用很大一部分，而且每月至少要花费20欧元，这确实是一笔很大的交易。  有人有过这些经历吗？ 我想我更倾向于 Shopify，而不是美杜莎，但让我听听你的想法和其他选择。   由   提交/u/SleepAffectionate268  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cme4ex/what_would_be_the_easiest_way_to_build_an/</guid>
-      <pubDate>Tue, 07 May 2024 15:06:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
