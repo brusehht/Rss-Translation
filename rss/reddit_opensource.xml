@@ -3,24 +3,24 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 May 2024 15:12:00 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Tue, 07 May 2024 18:15:36 GMT</lastBuildDate>
     <item>
-      <title>感觉只会说一种语言？来认识一下 Huriha，多语言 Web 服务器！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cmcyza/feeling_monolingual_meet_huriha_the_polyglot_web/</link>
-      <description><![CDATA[ 由   提交/u/DaniAsh551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cmcyza/feeling_monolingual_meet_huriha_the_polyglot_web/</guid>
-      <pubDate>Tue, 07 May 2024 14:16:06 GMT</pubDate>
+      <title>如何在简历中提及开源贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmhmuf/how_to_mention_open_source_contributions_in_resume/</link>
+      <description><![CDATA[我是一名瑞典人，大约 3 岁，在大型科技公司工作。当尝试更新我的简历时，我很困惑在哪里以及如何提及我的开源贡献： 贡献背景：这些是对 GitHub 上托管的云原生计算基金会 (CNCF) 项目所做的，其中我介绍了新功能。在其中一个项目中，我交付了一项关键的架构功能，这使我成为了该项目的维护者。 考虑到变更的规模和性质，我认为这些应该在简历中提及。所以我的问题是：  我应该将其放在工作经验中吗？ （鉴于这些与我作为公司的工程师有关）或者应该将其与项目一起放置？或者一个单独的部分来提及开源贡献？ 我应该详细说明这些贡献吗？在我最大的贡献中，也就是让我成为维护者的那一贡献中，我在 GitHub 问题中向项目维护者和管理员提出了该功能的精心设计和算法，所以我应该只用一两行提及它所实现的目标吗？到我的 PR 链接和解释该功能的链接？  提前致谢！   由   提交/u/Acrylonitrile-28  /u/Acrylonitrile-28 reddit.com/r/opensource/comments/1cmhmuf/how_to_mention_open_source_contributions_in_resume/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmhmuf/how_to_mention_open_source_contributions_in_resume/</guid>
+      <pubDate>Tue, 07 May 2024 17:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>伙计们，我创建了基于人工智能的潜在客户生成器，在一个工具中包含许多功能，例如潜在客户提取器、电子邮件营销、聊天机器人集成和客户关系管理。在这里结帐，并在评论部分提供您的反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cmcvb2/guys_i_have_created_ai_based_lead_generator/</link>
-      <description><![CDATA[ 由   提交/u/Ok_Simple_5326   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cmcvb2/guys_i_have_created_ai_based_lead_generator/</guid>
-      <pubDate>Tue, 07 May 2024 14:11:55 GMT</pubDate>
+      <title>帮我找到一种方法，在午夜后彻底屏蔽我的笔记本电脑。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cmfxic/help_me_find_a_way_to_completely_block_my_laptop/</link>
+      <description><![CDATA[我有在电脑（Windows 10）上呆到很晚的倾向，这对我的健康非常不利。但我还是忍不住这么做。 我想找到一种方法来阻止它，但很难撤销。  这可能需要向某人提供密码，但如果不必这样做，那就更好了。 我已经使用了 Cold turkey 拦截器，但是卸载起来太容易了。 而且 Freedom 软件似乎不起作用。 我还需要无法更改计算机的小时数，用这种方法或其他方法，或者我只会更改小时数.... 最好的是，如果我有两个甚至更多的解决方案，这样删除阻止会更烦人且更困难。 我经常上网，但我也会看以前下载的电影/电视节目，或者阅读文档... 我找到了一种阻止 Youtube 的方法，效果很好，但我不记得指导方针是什么了。 非常感谢    提交人    /u/Loxarr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cmfxic/help_me_find_a_way_to_completely_block_my_laptop/</guid>
+      <pubDate>Tue, 07 May 2024 16:22:59 GMT</pubDate>
     </item>
     <item>
-      <title>低调厌倦了开源</title>
+      <title>Lowkey 对开源感到厌倦</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_sourcing/</link>
       <description><![CDATA[我开源了一些项目，每当我这样做时，总是会出现某种问题。 我开源了一个项目例如，煎饼镜头替代品，主要让人们说“从技术上讲，它不是煎饼”。和“Ig 这么好，为什么meta 不使用它？”然后“把它留给真正的工程师” 然后我为初学者设计了一个简单的外壳来设计耳机，重复的一个评论是“哦，这是用tinkercad制作的吗？” （我用fusion 360，这些人关注我并且知道这一点，他们说这是侮辱） 现在我发布了Unity工具，并花时间让帖子尽可能写得好，ofc反馈是“哦，是的，这是人工智能生成的” （事实并非如此，我确实有一台服务器，我在其中讨论了该项目并中途展示了它） 老实说，我已经厌倦了开源。我有两个项目一直在与我雇佣的团队合作，第三个项目我可能已经工作了 3 年，说实话，我已经非常接近关闭采购了，现在就到此为止，让自己高枕无忧。我打赌我也可以通过我联系的代理机构以相当高的价格出售代码。 有人有同感吗？  &amp;# 32；由   提交/u/Walker-Dev  /u/Walker-Dev  reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_commerce/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm9wz1/lowkey_getting_tired_of_open_sourcing/</guid>
@@ -57,12 +57,12 @@
     <item>
       <title>精简 Android 操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</link>
-      <description><![CDATA[有人知道有什么好的、精简版的 Android 操作系统吗？我有一台较旧的 Android（2016 年），只想要一个可以在较旧的硬件上运行更轻量的操作系统，如果有帮助的话，我会把它用作功能手机。    提交人    /u/die4tek   [link] [comments]]]></description>
+      <description><![CDATA[有人知道有什么好的、精简的 Android 操作系统吗？我有一个较旧的 Android（2016），只是想要一个在较旧的硬件上运行更轻的操作系统，如果有帮助的话，我将把它用作哑电话。   由   提交 /u/die4tek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cm1nwk/stripped_down_android_operating_system/</guid>
       <pubDate>Tue, 07 May 2024 02:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>lu5,用于创意编码的 Lua 解释器,下载lu5的源码_GitHub_帮酷</title>
+      <title>lu5,用于创意编码的Lua解释器,下载lu5的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</link>
       <description><![CDATA[       由   提交/u/vlevi   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1clvsqs/github_matiasvlevilu5_lua_interpreter_for/</guid>
