@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 08 May 2024 06:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:01:15 GMT</lastBuildDate>
+    <item>
+      <title>作者反思了学习 Rust 的挑战，并提出了它是否 [...]</title>
+      <link>https://t.me/hn_summary/88495</link>
+      <description><![CDATA[寻找更简单的安全系统编程
+作者反思了学习 Rust 的挑战，并提出了是否有可能创建一种易于使用的安全系统语言的问题。他们引入了一种名为 June 的新语言，该语言通过对分配进行分组并引入共享的可变指针来简化内存管理。利用封装的概念来加强隐私并防止内存泄漏。然而，讨论了分组分配的缺点，从而提出了通过“半自动”过程进行安全内存回收的建议。这种创新方法旨在简化系统编程中的内存管理。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88495</guid>
+      <pubDate>Wed, 08 May 2024 09:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>hyperworlds.org 上的 Hyperworlds 项目旨在彻底改变我们与信息交互的方式 [...]</title>
+      <link>https://t.me/hn_summary/88494</link>
+      <description><![CDATA[Hyperworlds – Web 替换项目
+hyperworlds.org 上的 Hyperworlds 项目旨在彻底改变我们的互动方式与在线信息。它设想了一个个人可以自由表达自己，在不损害自己信仰的情况下合作开展艺术、科学和哲学作品，并因其贡献而获得公平补偿的世界。该项目旨在创建一个平台，用户可以自由借用和结合不同学科，在不强加群体思维心态的情况下共同工作，并在从集体努力中受益的同时保持个性。通过重新构想网络结构，Hyperworlds 旨在为内容创作者和消费者创造更具包容性和更有价值的在线体验。 （根据 31% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88494</guid>
+      <pubDate>Wed, 08 May 2024 08:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]过去一年里，海洋每天都在打破温度记录，[...]</title>
+      <link>https://t.me/hn_summary/88493</link>
+      <description><![CDATA[过去一年里，海洋每天都打破温度记录
+在过去的一年里，海洋每天都在打破温度记录，这对我们的星球产生了令人震惊的影响。英国南极调查局的迈克·梅雷迪思教授表示，海洋迅速变暖是令人担忧的主要原因。这一前所未有的趋势凸显了迫切需要采取行动应对气候变化及其对海洋生态系统的影响。海洋变暖速度比预期还要快，这一事实令人惊讶且令人担忧，需要立即关注。]]></description>
+      <guid>https://t.me/hn_summary/88493</guid>
+      <pubDate>Wed, 08 May 2024 08:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Fly.io Infra 日志提供了 l [...] 每周所做工作的详细记录。</title>
+      <link>https://t.me/hn_summary/88492</link>
+      <description><![CDATA[Fly.io 基础设施日志：每周记录什么团队确实
+Fly.io Infra 日志提供了每周的详细信息工程组织中最大的团队完成的工作的记录。该日志包括 WireGuard 中断、API 错误和断电等事件，让您深入了解团队面临的挑战。值得注意的是，该团队正在努力改进事件报告和项目亮点。独特的项目包括集成秘密存储、可靠的卷迁移和特定于主机的客户警报。该团队致力于改进基础设施和事件响应流程的努力是显而易见的，这使得该日志成为了解团队内部运作的宝贵资源。]]></description>
+      <guid>https://t.me/hn_summary/88492</guid>
+      <pubDate>Wed, 08 May 2024 08:43:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]组织面临管理和从众多文档中提取信息的挑战[...]</title>
+      <link>https://t.me/hn_summary/88491</link>
+      <description><![CDATA[使用 GenAI Stack 创建 AI 增强型文档管理
+组织面临着管理和提取大量文档信息的挑战，但 AI 驱动的文档管理系统提供了变革性解决方案。将 Alfresco 与 GenAI Stack 集成可通过总结、分类和提供见解来增强文档管理。Docker 可以轻松部署和在不同的 AI 模型之间切换，确保可移植性和生产准备就绪。Alfresco 的 REST 和消息传递 API 有助于与 GenAI 服务集成，从而改善文档分析和分类。GenAI Stack 提供总结、分类和描述生成等服务，增强文档管理功能。提供了使用 Docker Compose 部署 Alfresco 的详细说明，以及使用 GenAI 服务进行文档处理的示例。（摘要基于 57% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/88491</guid>
+      <pubDate>Wed, 08 May 2024 08:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]对象链接和嵌入 (OLE) 是 Microsoft 开发的一项专有技术 [...]</title>
+      <link>https://t.me/hn_summary/88490</link>
+      <description><![CDATA[对象链接和嵌入
+对象链接和嵌入 (OLE) 是 Microsoft 开发的一项专有技术，允许嵌入和链接到文档和其他对象。它使不同的应用程序能够共享数据，从而允许在应用程序之间传输文本、图像等。 OLE 1.0 从动态数据交换（DDE）发展而来，后来成为组件对象模型（COM）。 OLE 2.0 引入了 OLE 自动化和拖放等功能。 OLE 自定义控件取代了 Visual Basic 扩展控件，现在称为 ActiveX 控件。 OLE 对象和容器是在组件对象模型之上实现的，具有允许缓存、绘图和通知等功能的各种接口。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88490</guid>
+      <pubDate>Wed, 08 May 2024 07:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我们的论文介绍了 XLSTM，这是一种扩展长短期记忆模型，其性能优于 [...]</title>
+      <link>https://t.me/hn_summary/88489</link>
+      <description><![CDATA[XLSTM：扩展长短期记忆
+我们的论文介绍了 XLSTM，这是一种扩展长短期记忆模型，在序列预测任务中的表现优于传统 LSTM 模型。通过结合额外的记忆单元和新颖的门控机制，XLSTM 能够捕获数据中的长期依赖关系，从而提高准确性和性能。我们的实验表明，XLSTM 在各种基准数据集上取得了最先进的结果，证明了其在处理复杂序列数据方面的有效性。这种创新的 LSTM 架构方法为增强循环神经网络的功能开辟了新的可能性。有关更多详细信息，请访问 arxiv.org 探索我们的发现。]]></description>
+      <guid>https://t.me/hn_summary/88489</guid>
+      <pubDate>Wed, 08 May 2024 06:29:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>《C++ 冰山》全面介绍了 C++ 程序的复杂性和隐藏的深度 [...]</title>
+      <link>https://t.me/hn_summary/88488</link>
+      <description><![CDATA[C++ 冰山
+C++ Iceberg 全面审视了 C++ 编程语言的复杂性和隐藏深度。从其强大的功能到潜在的陷阱，本文深入探讨了 C++ 的冰山性质，您在表面上看到的只是冰山一角。有争议的是，本文还讨论了围绕 C++ 的挑战和争议，揭示了它作为一种难以掌握的语言的声誉。无论您是经验丰富的 C++ 开发人员还是刚刚起步，本文都将为您提供有关探索 C++ 冰山的宝贵见解和观点。]]></description>
+      <guid>https://t.me/hn_summary/88488</guid>
+      <pubDate>Wed, 08 May 2024 06:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 摘要：Mullvad VPN 引入了 DAITA，这是一种针对 AI 引导流量分析的防御措施 [...]</title>
+      <link>https://t.me/hn_summary/88487</link>
+      <description><![CDATA[防御人工智能引导的流量分析 (Daita) 
+摘要： Mulvad VPN 引入了 DAITA，这是一种针对 AI 引导流量分析的防御措施，旨在通过屏蔽网络流量模式来保护用户隐私。 DAITA 使用恒定的数据包大小、随机背景流量和数据模式失真来抵抗流量分析。 DAITA 背后的开源框架已经过学术同行评审并以开放获取方式发布。数据经纪人向当局出售交通数据的例子强调了大规模监控的交通分析的潜在威胁。 DAITA 已在适用于 Windows 的 Mullvad VPN 测试版中推出，并计划根据用户反馈进行进一步开发。]]></description>
+      <guid>https://t.me/hn_summary/88487</guid>
+      <pubDate>Wed, 08 May 2024 06:15:52 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]我们很高兴地宣布 Heroku 上对 HTTP/2 的公开测试版支持，这是一个强烈要求 [...]</title>
       <link>https://t.me/hn_summary/88486</link>
       <description><![CDATA[Heroku 上的 HTTP/2
-我们很高兴地宣布 Heroku 上对 HTTP/2 的公开测试版支持，这是我们平台强烈要求的改进。 HTTP/2 通过利用标头压缩和多路复用等功能，提供更快的加载时间、增强的响应能力和改进的用户体验。此次升级是我们正在进行的平台现代化项目的一部分，我们计划探索端到端 HTTP/2 支持以及服务器推送和 gRPC 等功能。虽然 HTTP/2 需要 TLS 证书，但我们建议使用 Heroku 自动证书管理。我们感谢导致这一变化的反馈，并期待进一步增强我们的网络能力。]]></description>
+我们很高兴地宣布 Heroku 上对 HTTP/2 的公开测试版支持，这是我们平台强烈要求的改进。 HTTP/2 通过利用标头压缩和多路复用等功能，提供更快的加载时间、增强的响应能力和改进的用户体验。此次升级是我们正在进行的平台现代化项目的一部分，我们计划探索端到端 HTTP/2 支持以及服务器推送和 gRPC 等功能。虽然 HTTP/2 需要 TLS 证书，但我们建议使用 Heroku 自动证书管理。我们感谢促成这一变化的反馈，并期待进一步增强我们的网络能力。]]></description>
       <guid>https://t.me/hn_summary/88486</guid>
       <pubDate>Wed, 08 May 2024 06:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]埃隆·马斯克对激光雷达传感器的厌恶是众所周知的，他之前称其为 [...]</title>
-      <link>https://t.me/hn_summary/88485</link>
-      <description><![CDATA[特斯拉今年从 Luminar 购买了价值超过 200 万美元的激光雷达传感器&lt; /a&gt;
-埃隆·马斯克对激光雷达传感器的厌恶是众所周知的，他此前称其为“拐杖”，并声称依赖它来实现自主能力的公司“注定要失败”。然而，特斯拉在第一季度出人意料地成为 Luminar 最大的激光雷达客户，购买了价值超过 210 万美元的传感器。尽管 Luminar 仍不得不裁员，但此举帮助抵消了收入下降的影响。尽管马斯克公开反对激光雷达，但有人发现特斯拉在佛罗里达州的 Model Y 上使用了 Luminar 的传感器，并据报道建立了测试和开发合作伙伴关系。尽管马斯克仍然公开反对激光雷达，但特斯拉似乎可能会改变对激光雷达的态度。]]></description>
-      <guid>https://t.me/hn_summary/88485</guid>
-      <pubDate>Wed, 08 May 2024 06:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 TW Elements，我们使用 TailwindCSS 的开源组件使主题化变得简单。</title>
-      <link>https://t.me/hn_summary/88484</link>
-      <description><![CDATA[TailwindCSS 开源组件
-在 TW Elements，我们使用 TailwindCSS 的开源组件使主题化变得简单。我们独特的功能包括暗模式和自定义主题的切换，使您可以轻松地将两个主题集成到您的项目中。默认情况下，我们在所有组件中都包含了深色主题变体，使得在浅色和深色模式之间切换变得简单。此外，您还可以通过 tailwind.config.js 配置文件覆盖项目的调色板、字体比例、字体、断点、边框半径值等来自定义默认主题。立即体验 TW Elements 的无缝主题！]]></description>
-      <guid>https://t.me/hn_summary/88484</guid>
-      <pubDate>Wed, 08 May 2024 06:07:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]IBM 研究中心宣布开源其 Granite 代码模型系列 revol [...]</title>
-      <link>https://t.me/hn_summary/88483</link>
-      <description><![CDATA[IBM 的 Granite 代码模型系列即将开源 - IBM 研究中心
-IBM 研究中心宣布开源其 Granite 代码模型系列，彻底改变了软件开发流程。这些模型的参数范围为 3 至 340 亿个，始终与开源代码法学硕士的最先进性能相匹配。通过在 Apache 2.0 许可下发布这些模型，IBM 旨在使开放社区能够在从代码生成到解释的各种用例中进行创新。 Granite 代码模型使开发人员能够自动执行基本任务、实现应用程序现代化并提高生产力。凭借独特的训练方法和跨主要编程语言的强大性能，IBM 的 Granite 代码模型将改变软件开发的生成式 AI 格局。]]></description>
-      <guid>https://t.me/hn_summary/88483</guid>
-      <pubDate>Wed, 08 May 2024 06:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在我的网站上使用 WASM 和 WebGL 查看这个很酷的新型 2D 流体和重力模拟。</title>
-      <link>https://t.me/hn_summary/88482</link>
-      <description><![CDATA[显示 HN：使用 WASM 和 WebGL 进行简单的 2D 流体和重力模拟
-在我的网站上查看使用 WASM 和 WebGL 进行的这个很酷的新 2D 流体和重力模拟。观察粒子如何相互作用并实时响应重力。这种模拟是一种以简单而引人入胜的方式可视化复杂物理概念的好方法。尝试不同的设置并查看模拟如何变化。对于任何对流体动力学或计算机图形学感兴趣的人来说，这都是一款有趣且互动的工具。试一试，看看你能创造什么！]]></description>
-      <guid>https://t.me/hn_summary/88482</guid>
-      <pubDate>Wed, 08 May 2024 05:31:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 作者对企业使用用户生成的内容进行交易表示失望 [...]</title>
-      <link>https://t.me/hn_summary/88481</link>
-      <description><![CDATA[Enshittification 抗议引发更多 Enshittification
-作者对公司使用用户生成内容培训法学硕士表示不满，并敦促不要以删除现有答案作为抗议形式。删除数据被视为适得其反，因为公司已经有备份，删除答案只会伤害搜索信息的人类用户。相反，作者建议不要贡献新答案、不要登录或删除帐户作为更有效的抗议形式。作者提倡通过加入社区论坛、在个人网站上发布答案以及使用导出工具来解放现有数据来构建更好的网络。本文强调了从持续的争议中吸取教训并重新控制网络的重要性。]]></description>
-      <guid>https://t.me/hn_summary/88481</guid>
-      <pubDate>Wed, 08 May 2024 05:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/88480</link>
-      <description><![CDATA[美国苹果非法审问员工并没收工会传单的规定
-美国国家劳工关系委员会裁定，苹果公司在纽约世贸中心商店非法审问员工支持工会的行为，并没收了工会传单。董事会确认了法官的裁决，并命令苹果公司停止此类行为。这是董事会首次针对苹果做出的决定，但他们不能处以罚款。针对苹果公司的其他案件正在悬而未决，包括指控将工会工人排除在福利之外。近年来，多家苹果商店成功成立了工会。苹果员工在寻求成立工会时面临反对，包括在亚特兰大一家商店举行强制性反工会会议。]]></description>
-      <guid>https://t.me/hn_summary/88480</guid>
-      <pubDate>Wed, 08 May 2024 05:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]二月份，加州参议员 Scott Wiener 提出了 SB 1047，要求安全 [...]</title>
-      <link>https://t.me/hn_summary/88479</link>
-      <description><![CDATA[对 SB 1047 的误解
-今年 2 月，加州参议员 Scott Wiener 提出了 SB 1047，要求对大型人工智能模型采取安全措施。尽管最初关注度较低，但 Twitter 和 Substack 上出现了反对声音。该法案仅适用于强大的新人工智能模型，不适用于现有模型。开发人员必须确保训练和部署过程中的安全，重点预防灾难性风险。误解包括夸大监管机构的权力和针对开源人工智能的主张。对于领先的实验室来说，合规成本是最低的。该法案旨在确保安全而不阻碍创新。鼓励健康的辩论，但夸张的主张毫无帮助。该法案并未禁止开源人工智能，并且关闭要求被误解了。 （根据故事文本的 74% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88479</guid>
-      <pubDate>Wed, 08 May 2024 05:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]文章作者发现Google网站https://too中存在漏洞[...]</title>
-      <link>https://t.me/hn_summary/88478</link>
-      <description><![CDATA[常见 Google XSS
-该文章的作者在 Google 网站 https://toolbox.googleapps.com，特别是在恢复应用程序中。通过操纵URL参数，作者能够执行XSS攻击并访问外部站点。该网站没有适当的保护措施，从而允许这种利用。作者向 Google 报告了该漏洞，并获得了 3133 美元的奖励。作者将此称为“常见”XSS 攻击，因为它是 XSS 漏洞利用的直接开放重定向。作者还在文章中暗示了复活节彩蛋。]]></description>
-      <guid>https://t.me/hn_summary/88478</guid>
-      <pubDate>Wed, 08 May 2024 05:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]特斯拉裁员持续到第四周，各部门员工[...]</title>
-      <link>https://t.me/hn_summary/88477</link>
-      <description><![CDATA[随着大屠杀进入第四周，更多特斯拉员工被解雇
-特斯拉的裁员持续到第四周，各个部门的员工都收到了解雇通知。据 Electrek 和 Business Insider 报道，最近的裁员正在影响软件、服务和工程团队。裁员的规模尚不清楚，但至少有七名员工公开分享了他们的经历。首席执行官埃隆·马斯克(Elon Musk)强调重组和提高效率的必要性，有报道称他的目标是裁员 20%。特斯拉面临着财务挑战，销量和利润下降，以及电动汽车市场竞争加剧。马斯克正在将注意力转向自动驾驶汽车，并计划在今年晚些时候推出全自动机器人出租车。]]></description>
-      <guid>https://t.me/hn_summary/88477</guid>
-      <pubDate>Wed, 08 May 2024 05:12:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
