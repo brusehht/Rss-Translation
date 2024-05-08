@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 May 2024 12:22:14 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 08 May 2024 15:12:18 GMT</lastBuildDate>
+    <item>
+      <title>Web 开发的后端开发部分？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn6j4e/backend_development_part_of_web_development/</link>
+      <description><![CDATA[我刚刚读完高中，几个月后就要上大学，我有兴趣成为一名后端开发人员，但我看到了那台计算机科学有很多分支，例如 Web 开发、人工智能和机器学习等。所以我想知道我是否应该选择 Web 开发来从事后端开发人员的职业？谢谢    由   提交 /u/_-Edrick-_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn6j4e/backend_development_part_of_web_development/</guid>
+      <pubDate>Wed, 08 May 2024 14:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>重定向 Netlify 子域？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn61ig/redirect_netlify_subdomain/</link>
+      <description><![CDATA[所以我有一个 Shopify 商店，曾经是 Netlify 上的一家无头商店，现在又回到了 Shopify。无论如何，做了一些 SEO 研究，我发现旧的无头网站仍然可以在 Netlify 的子域 (storename.netlify.com) 上访问。它实际上位于一个相当不错的位置，所以有什么方法可以在 Netlify 设置中将该域重定向到我的主商店吗？主域也不托管在 Netlify 上。提前谢谢您。   由   提交/u/oddball09  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn61ig/redirect_netlify_subdomain/</guid>
+      <pubDate>Wed, 08 May 2024 14:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会使用哪些工具来创建社交网络应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn5zwg/what_tools_would_you_use_for_a_social_web_app/</link>
+      <description><![CDATA[作为一个业余爱好项目，我想构建一个专注于编写和阅读故事的社交网络应用程序的原型。我想构建以下功能：  带有新故事的基本新闻源 发布内容 阅读其他人的内容 评论他人的内容 基本关注者系统 基本直接消息传递 故事推荐  我不是确定哪些工具最适合此类应用程序，并且很想听听你们会在此类项目中使用什么工具。到目前为止，我主要使用 .net core 和 Angular，但我不确定这些工具是否适合我的项目。 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交 /u/amelieam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn5zwg/what_tools_would_you_use_for_a_social_web_app/</guid>
+      <pubDate>Wed, 08 May 2024 14:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么最大内容在一种情况下有效，但在另一种情况下无效？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn5wpv/why_maxcontent_works_in_one_scenario_but_not_in/</link>
+      <description><![CDATA[我有两个类似的 CSS 代码片段。 1. .socialShareBtnsWrapper { display: inline-flex; transition: width 1s; max-width: max-content; width: 400px; }  2. .permaInstructionsText { transition: height 1s; --permaInstructTextPadding: 15px; padding: 0 var(--permaInstructTextPadding); max-height: max-content; height: 400px; }  在第一种情况下，项目的宽度等于最大内容（是的，内容比 400px 小得多）。 但在第二种情况下，它将其设置为 400px，这比最大内容大得多。 为什么？ 如果您想知道为什么当我希望它是最大内容时需要将高度设置为 400px？原因是转换仅适用于数字值，而不适用于基于关键字的值。 我是否遗漏了某些基本内容，或者是由我的代码的其他部分引起的？    提交人    /u/utsav_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn5wpv/why_maxcontent_works_in_one_scenario_but_not_in/</guid>
+      <pubDate>Wed, 08 May 2024 14:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用哪个托管网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn5q6n/which_hosting_site_should_i_use/</link>
+      <description><![CDATA[基本上，我在标题中问的是什么。我想获得一个域名并将其托管在（便宜的）网站上 1 或 2 个月。我可以花一点钱使用更优化的托管网站，但我宁愿避免它，因为我认为这是可能的。托管还必须包括使用 wordpress 的选项（我从未使用过 wordpress，但我不这样做）认为这是一个大问题），我想用通常的编程来制作网站的一部分，因为我有关于 html、javascript 和 php 的编程知识，并且我想付诸实践。哦，我还需要一个可用的 SQL 数据库。我应该使用哪个托管网站？我应该提前检查什么吗？ （正如我所说，我只离线编程，我对此的了解有点浅），任何帖子、视频或任何东西都值得赞赏。   由   提交/u/Guilirecs14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn5q6n/which_hosting_site_should_i_use/</guid>
+      <pubDate>Wed, 08 May 2024 14:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于使用 React/Vue、Supabase 和 WebGL 实现全栈项目设置的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn5fvz/advice_on_implementing_a_fullstack_project_setup/</link>
+      <description><![CDATA[我目前正在着手一个重要的项目，我设计了一个网站，允许用户创建和连接故事。前端可能会使用 React 或 Vue 开发，我计划使用 Supabase 来处理数据库和身份验证方面。此外，我正在考虑将 WebGL 纳入视觉效果。 作为一个具有设计背景和一些计算机科学经验但缺乏全栈开发经验的人，我正在寻求最佳建议解决这个项目的方法。 具体来说，我想要以下方面的指导： 1。前端在 React 和 Vue 之间进行选择。 2. 评估Supabase 对于数据库管理和身份验证的适用性。 3. 考虑到我有限的经验，为视觉元素实现WebGL。  任何见解、技巧或推荐资源将不胜感激。随着这个项目的进展，我渴望学习并做出明智的决定。 提前感谢您的帮助！    由   提交 /u/Glaciare   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn5fvz/advice_on_implementing_a_fullstack_project_setup/</guid>
+      <pubDate>Wed, 08 May 2024 14:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端 UI（NGinx、Docker）的部署问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn5afw/deployment_issue_with_frontend_ui_nginx_docker/</link>
+      <description><![CDATA[大家好，希望你们今天过得愉快。 在过去的一周里，我一直在努力寻找这个问题我已经部署了一个网站。 该网站项目由多个容器组成（MySQL、2 个 .NET 容器（用于管理和用户端）、2 个 React Js 容器（用于管理和用户端）这是问题开始的地方。这是 nginx.conf 文件。 events{} http { upper user-front { server 10.5.0.5 :8080; } 上游仪表板前端 { 服务器 10.5.0.4:8080; } 上游用户-api { 服务器 10.5.0.2:8080; } 服务器 { 监听 80; api/; } 位置 /adminapi/ { proxy_pass http://10.5.0.6:8080/; } 位置 / { proxy_pass http://user-front/; } 位置 /images/;别名 /home/administrator/app/project_files/; } 位置 /admin/ { proxy_pass http://dashboard-front/;包括 proxy_params； } } }  虽然用户端工作完美，没有任何问题，但当我尝试转到 /admin/ 时，我只能更改 chrome 选项卡（通常它显示用户中的 Visual Portfolio）侧面，在管理中它说 vite + React），但它卡在主页用户界面上。以下是我注意到的一些有趣的事情：  如果我将 proxy_pass 切换为 / 而不是 /admin/ 它将起作用。该面板将会显示，如果我将用户端 UI 切换到 /admin/，它将不会显示。 访问任何 API，它们都会起作用。有一件事是，因为我也在 C# 中添加了路由，所以它们变得有些混乱，例如： /api/blog 变成 /api/api/blog 当我向 proxy_pass 写入 google.com 时，它尝试访问  google.com/admin 而不是直接访问 google。  ​ version: &#39;3.4&#39; services: mysql:图像：mysql：最新端口：-“3306：3306” #如果出于某种原因想通过dbeaver加入mysql，请取消注释。卷： - ./mysql-data:/var/lib/mysql 环境： - MYSQL_ROOT_PASSWORD=******** - MYSQL_DATABASE=************ 重新启动：除非停止 网络：custom_net：ipv4_address： 10.5.0.3 api_user: image: image-url 暴露: - 8080 重新启动: 除非停止环境: - 连接字符串;网络：custom_net：ipv4_address：10.5.0.2 api_admin：图像：image-url 公开：- 8080 重新启动：除非停止环境：- 连接字符串；卷：- ./project_files：/project_files/ 网络：custom_net：ipv4_address：10.5.0.6 front_dashboard：图像：image-url 公开：- 8080 重新启动：除非停止 网络：custom_net：ipv4_address：10.5.0.4 front_user：图像：image- url公开：- 8080重新启动：除非停止网络：custom_net：ipv4_address：10.5.0.5网络：custom_net：驱动程序：桥ipam：配置：-子网：10.5.0.0/16网关：10.5.0.1 任何帮助将不胜感激，因为我完全不知道是什么原因造成的。    由   提交 /u/BandicootDistinct291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn5afw/deployment_issue_with_frontend_ui_nginx_docker/</guid>
+      <pubDate>Wed, 08 May 2024 14:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具来自动将 jQuery 代码转换为纯 JavaScript。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn4trm/i_built_a_tool_to_automatically_convert_jquery/</link>
+      <description><![CDATA[    /u/sachinchoolur   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn4trm/i_built_a_tool_to_automatically_convert_jquery/</guid>
+      <pubDate>Wed, 08 May 2024 13:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 终于每月赚取 1,000 美元！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn4eqo/saas_is_finally_generating_1000_a_month/</link>
+      <description><![CDATA[大家好！我只想说一下我们的 SaaS 软件最终如何通过每月订阅产生超过 1,000 美元的月收入。一周前，我发表了一篇文章，介绍了我的公司如何大规模地为其他公司创建软件，因此我们有了创建自己的软件的想法。该软件本身是一年前发布的。增长有点缓慢，因为我们必须了解目标客户在获得我们的服务演示时会如何行动。更多地谈论我们的软件，它是一个基于人工智能的网站分析系统。基本上，它会提供我们的软件从您的网站获取的所有网站分析数据，例如网站浏览量、产品/服务销售等，并将这些数据实时提供给我们的人工智能。这样，管理该网站的人就可以询问我们的人工智能他们的网站分析情况如何，并向他们提供详细的报告，举例说明如何使用该数据进行扩展等。该软件的主要目的主要是帮助平均水平老实说，企业主会查看他们的分析并从中学习。一般的首席执行官/企业主可能不知道点击率、APV、每月百分比倾斜等。这确实是我们解决的问题，因为我们当前的大多数客户都来自谷歌分析等平台。我们最近达到了每月 1,000 美元，并希望能增长更多。我们对未来感到兴奋！   由   提交 /u/Wild_Dragonfruit_184   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn4eqo/saas_is_finally_generating_1000_a_month/</guid>
+      <pubDate>Wed, 08 May 2024 13:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想我现在要放弃这艘开发船去上架了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn3zmf/i_think_im_abandoning_this_dev_ship_to_go_stock/</link>
+      <description><![CDATA[       由   提交 /u/agentjulliard   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn3zmf/i_think_im_abandoning_this_dev_ship_to_go_stock/</guid>
+      <pubDate>Wed, 08 May 2024 13:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于测试网站 SEO/性能/等的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn3v62/tools_for_testing_a_websites_seo_performance_etc/</link>
+      <description><![CDATA[大家好！ 测试网站 SEO、性能和可访问性的首选工具是什么？我听说过灯塔，但如果您有任何其他建议，我将非常感激！ 谢谢！   由   提交/u/scumble373  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn3v62/tools_for_testing_a_websites_seo_performance_etc/</guid>
+      <pubDate>Wed, 08 May 2024 12:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建简单的交互式地图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn3srt/create_simple_interactive_map/</link>
+      <description><![CDATA[大家好， 我正在为我的论文开发一个网站原型，需要包含某种交互式地图。我只需要绘制一个城市及其社区的地图，并根据每个社区的宜居性得分为每个社区分配一种颜色。我想添加一些互动元素，例如如果您单击特定的社区，则会显示分数的详细信息。此外，我还想添加特定位置的图钉，例如学校、超市等。 我在 webdev 方面没有太多经验，所以我不知道如何继续这个想法。我的教授建议使用 d3js，但我不确定这是否适合我的需求。有什么可以推荐的工具或教程吗？如有任何建议，我们将不胜感激！   由   提交 /u/Ancient-Lobsterr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn3srt/create_simple_interactive_map/</guid>
+      <pubDate>Wed, 08 May 2024 12:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么修补全局变量是有害的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn3qum/why_patching_globals_is_harmful/</link>
+      <description><![CDATA[    /u/CherryJimbo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn3qum/why_patching_globals_is_harmful/</guid>
+      <pubDate>Wed, 08 May 2024 12:48:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个 3 页的网站设计/整容需要多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cn3bv4/how_much_should_a_3_pages_website_design_face/</link>
+      <description><![CDATA[嗨， 我决定为我的网站需要一名设计师，因为我没有时间设计它我自己的。 主要是 3 页网站：  主页 - IMDB 风格主页。 目录 - Amazon 风格目录/搜索页面&lt; /li&gt; 游戏页面 - 与 Steam 游戏页面类似。  这项工作仅针对 Figma，我负责编码部分。您认为聘请一位优秀的设计师进行这样的整容手术需要花多少钱？你会在哪里寻找一个？ 我不确定我是否可以发布该网站的链接，这只是为了演示而不是自我推销，如果违反规则请删除该链接而不是帖子。 https://www.gamepasscompare.com/   由   提交/u/xSypRo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cn3bv4/how_much_should_a_3_pages_website_design_face/</guid>
+      <pubDate>Wed, 08 May 2024 12:27:41 GMT</pubDate>
+    </item>
     <item>
       <title>全职工作与自由职业</title>
       <link>https://www.reddit.com/r/webdev/comments/1cn2zlr/full_time_employment_vs_freelancing/</link>
-      <description><![CDATA[我周一得到消息，我的仓位这个月底要被平仓了，和另外6个人长，大约是1/3该公司的。  整个被解雇的经历非常糟糕，老实说有点痛苦，尽管我知道情况可能会更糟。我本可以在没有任何通知的情况下被解雇，或者没有遣散费。至少我能多拿到一个月的遣散费。 在过去的几年里，我全心全意地为这家公司和我们的客户做出色的工作。我知道这是生意，当公司陷入财务困境时，这些事情就会发生，所以我不能说我感到震惊，但这感觉很糟糕，几乎就像一次糟糕的分手，你真的很爱某人并为他们做了很多事情，而且然后他们突然抛弃你。我感觉自己被利用了，又被抛弃了。这是我第一次遇到这种情况，但无论你的工作做得有多好，你对自己的工作几乎没有控制权，这让我大开眼界。  这就是上下文。虽然才过了几天，但从今天开始，当我的工作时间结束时，我并不想重新回到全职开发岗位，而是想尝试进入自由职业世界。我目前的技能主要是前端，但我已经涉足了全栈，知道如果需要我可以学习它。  人们对自由职业的利弊有何看法？  开始找工作的最佳地点是什么？我知道 Fiverr 和 upwork，但我听到的关于他们的事情很复杂。主要是诸如“这是一场逐底竞争”之类的事情。就定价而言。    由   提交/u/cruzcontrol8765   [链接] [评论]]]></description>
+      <description><![CDATA[我周一得到消息，我的仓位这个月底要被平仓了，和另外6个人长，大约是1/3该公司的。  整个被解雇的经历非常糟糕，老实说有点痛苦，尽管我知道情况可能会更糟。我本可以在没有任何通知的情况下被解雇，或者没有遣散费。至少我能多拿到一个月的遣散费。 在过去的几年里，我全心全意地为这家公司和我们的客户做出色的工作。我知道这是生意，当公司陷入财务困境时，这些事情就会发生，所以我不能说我感到震惊，但这感觉很糟糕，几乎就像一次糟糕的分手，你真的很爱某人并为他们做了很多事情，而且然后他们突然抛弃你。我感觉自己被利用了，又被抛弃了。这是我第一次遇到这种情况，但无论你的工作做得有多好，你对自己的工作几乎没有控制权，这让我大开眼界。  这就是上下文。虽然才过了几天，但从今天开始，当我的工作时间结束时，我并不想重新回到全职开发岗位，而是想尝试进入自由职业世界。我目前的技能主要是前端，但我已经涉足了全栈，知道如果需要我可以学习它。  人们对自由职业的利弊有何看法？  开始找工作的最佳地点是哪些？我知道 Fiverr 和 upwork，但我听到的关于他们的事情很复杂。主要是诸如“这是一场逐底竞争”之类的事情。就定价而言。    由   提交/u/cruzcontrol8765   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cn2zlr/full_time_employment_vs_freelancing/</guid>
       <pubDate>Wed, 08 May 2024 12:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 还是 Tailwinds？哪一个应该先做</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn2owr/react_or_tailwinds_which_one_should_be_done_before/</link>
-      <description><![CDATA[几乎就是标题 有人声称先做反应，然后顺风对我来说更好 我需要的是能够快速制作网页   由   提交/u/duckie121  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn2owr/react_or_tailwinds_which_one_should_be_done_before/</guid>
-      <pubDate>Wed, 08 May 2024 11:54:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn1slf/feedback/</link>
-      <description><![CDATA[&lt;表&gt;        由   提交/u/JimenezM14   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn1slf/feedback/</guid>
-      <pubDate>Wed, 08 May 2024 11:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您要创建拖放界面，您会使用哪个前端框架？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn1q1g/if_you_were_going_to_create_a_drag_and_drop/</link>
-      <description><![CDATA[所以我希望开始一个新的前端项目，该项目将拖放大量项目并编辑时间线。 &lt; p&gt;我之前曾使用 React 做过类似的事情，但发现它令人沮丧。  有人有过针对 svelt、react 或 vue 的良好拖放解决方案的经验吗？    由   提交 /u/kextype   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn1q1g/if_you_were_going_to_create_a_drag_and_drop/</guid>
-      <pubDate>Wed, 08 May 2024 10:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何阻止CSS中的文本跳出容器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn1nwi/how_do_i_stop_text_from_jumping_outside_the/</link>
-      <description><![CDATA[      当我缩小页面时，我的文本变得扁平，最终对于容器来说太大，而且变得很难看。我希望文本也能随着容器缩小，但又不必最终对于容器来说太大。这就是它的方式。  我该如何停止这种行为    提交人    /u/MohatoDeBrigado   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn1nwi/how_do_i_stop_text_from_jumping_outside_the/</guid>
-      <pubDate>Wed, 08 May 2024 10:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么工具或网站可以将reddit帖子/评论变成图片？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn12jz/is_there_any_tool_or_website_to_turn_reddit/</link>
-      <description><![CDATA[什么是好的网站或将 reddit url（评论或帖子）转换为图像的方法？  类似于某些将推文转换为图像的网站，但找不到适用于 reddit 的图像。  TIA。   由   提交 /u/Potential-Separate   /u/Potential-Separate reddit.com/r/webdev/comments/1cn12jz/is_there_any_tool_or_website_to_turn_reddit/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn12jz/is_there_any_tool_or_website_to_turn_reddit/</guid>
-      <pubDate>Wed, 08 May 2024 10:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间线绘图库推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn11rl/recommendations_of_timeline_plotting_libraries/</link>
-      <description><![CDATA[我正在构建一个业余项目，从我的营销自动化平台中提取数字活动（电子邮件发送、打开、点击、网站访问）及其发生日期并希望以时间线图表的形式显示它，这样它比 JSON 有效负载更容易阅读。 有任何 JS 库或替代方案可以以美观的方式实现这一点吗？    由   提交/u/Walconsen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn11rl/recommendations_of_timeline_plotting_libraries/</guid>
-      <pubDate>Wed, 08 May 2024 10:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postman 和导出数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn0v1e/postman_and_exporting_data/</link>
-      <description><![CDATA[我简直不敢相信，在最新的 Postman 更新中，他们花时间实现基于 AI 的流程指令（真的吗？哈哈），甚至没有解决事实上，您无法将查询结果导出到 CSV 等文件。  邮递员流量也慢得要命 - 我不敢相信他们为此收费！   由   提交 /u/ReflexReact   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn0v1e/postman_and_exporting_data/</guid>
-      <pubDate>Wed, 08 May 2024 10:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>怎样才是一个好的 REST API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn0ll8/what_makes_a_good_rest_api/</link>
-      <description><![CDATA[ 由   提交/u/itssimon86  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn0ll8/what_makes_a_good_rest_api/</guid>
-      <pubDate>Wed, 08 May 2024 09:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular 的 UI 库，允许从多级选项列表中选择一个选项（参见模型）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn0jbw/a_ui_library_for_angular_that_allows_for/</link>
-      <description><![CDATA[      我有一个 Angular 应用程序，用户应该在其中从具有自己的子选项的多级选项列表中选择一个选项。 我的模型如下所示：-  左侧列表始终显示所选项目。在这里您可以看到“位置”被选中并显示该项目下的选项。如果您选择亚洲，则列表会向左滑动，显示下一级子项目，在本例中为亚洲境内的国家/地区。这样我们就可以拥有无​​穷无尽的选项层次。  我想知道是否有一个UI库附带这样的组件。据我探索，多级列表的可用选项非常基本，不提供基本功能，例如快速过滤器输入、撤消选择（让用户返回上一级）和重置选项（自动获取整个组件）回到初始阶段。  如果有现成的解决方案，请告诉我！ ​   由   提交 /u/ragavyarasi   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn0jbw/a_ui_library_for_angular_that_allows_for/</guid>
-      <pubDate>Wed, 08 May 2024 09:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 EC2 上继续开发 Web 应用程序，从 VS Code 推送到 Dockerhub，然后将 Dockerhub 推送到 EC2</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cn0758/how_to_keep_developing_a_web_application_on_ec2/</link>
-      <description><![CDATA[在 VS Code 上创建的 Web 应用程序（通过 Edx 上的 CS50x）。推送到 Dockerhub，然后从 Dockerhub 推送到 EC2。 了解持续更新应用程序的推荐方法将有所帮助。我不认为在 VSCode 上更新源代码，然后再次推送到 Dockerhub，然后将 Dockerhub 推送到 EC2 是最好的方法。    由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cn0758/how_to_keep_developing_a_web_application_on_ec2/</guid>
-      <pubDate>Wed, 08 May 2024 09:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建上下文菜单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmzwu1/how_to_creat_a_contextual_menu_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建上下文菜单[评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmzwu1/how_to_creat_a_contextual_menu_with_tailwind_css/</guid>
-      <pubDate>Wed, 08 May 2024 08:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>最便宜的 Google 认证 Cookie 横幅 CMP？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmzap9/cheapest_google_certified_cmp_for_cookie_banner/</link>
-      <description><![CDATA[与 Google 相关公告，  ...我们将要求合作伙伴使用我们的发布商产品 — Google AdSense、Ad Manager 或 AdMob — 在向欧洲经济区或英国的用户投放广告时，使用经 Google 认证的 CMP，该 CMP 与 IAB Europe 的透明度和同意框架 (TCF) 集成。  我浏览了那些 Google 认证的 CMP，它们看起来都相当昂贵。我有一个旧的公告论坛，有很多页面，CMP 的定价似乎与页面数量相关。我所需要的只是可以发布到网站的兼容脚本。   由   提交 /u/OffsideOracle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmzap9/cheapest_google_certified_cmp_for_cookie_banner/</guid>
-      <pubDate>Wed, 08 May 2024 08:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理本地网络项目的紧急修复？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmz5vo/how_do_you_deal_with_urgent_fixes_for_web/</link>
-      <description><![CDATA[目前正在考虑使用 Git 跳转到无头 CMS 来完成个人项目。 我的项目中不断出现一个场景。不过，请注意。 假设您需要在网站上进行一项非常紧急的更新。为了便于讨论，假设您不小心在一个面向公众的网站上进行了重要登录，并且客户打电话说“em ....您知道您的银行登录信息位于联系页面上，对吗？！ &quot; 使用标准 WordPress 网站，您可以： -&gt;找到离您最近的计算机 -&gt;登录 -&gt;快速更新生产 对于无头 CMS，如果它不是您的本地/开发机器，您不需要： -&gt;提供开发环境（即设置、克隆存储库） -&gt;修复问题 -&gt;本地推回 同样，我的场景故意有点疯狂并且极不可能，但是......只是想知道当前端和后端没有 GUI 且解耦时，会采取什么样的保护措施。    由   提交/u/danielrosehill  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmz5vo/how_do_you_deal_with_urgent_fixes_for_web/</guid>
-      <pubDate>Wed, 08 May 2024 08:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>不完全了解如何运行服务器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cmyne8/not_fully_understanding_how_to_run_a_server/</link>
-      <description><![CDATA[我想做一些简单的事情，只发送数字和数字。对使用用户脚本的每个人说的话，但我不明白如何发送/接收数据。我有一点 js 编码知识，我只是有几个问题。 1.Linux 本地主机服务器可以为我的 wifi 连接之外的人工作吗？ 2.我可以使用谷歌表格或谷歌文档吗作为服务器的替代品 3.有没有可以发送/接收少量数据的免费东西？   由   提交/u/Mrface1234  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cmyne8/not_fully_understanding_how_to_run_a_server/</guid>
-      <pubDate>Wed, 08 May 2024 07:22:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

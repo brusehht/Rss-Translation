@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 08 May 2024 12:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 15:12:05 GMT</lastBuildDate>
     <item>
-      <title>[媒体]微软刚刚决定关闭其位于尼日利亚的工程中心 [...]</title>
-      <link>https://t.me/hn_summary/88508</link>
-      <description><![CDATA[微软两年内关闭尼日利亚工程中心
-微软在尼日利亚的工程中心开业仅两年后就决定关闭该中心。此举令许多人感到惊讶，因为该中心被视为该公司致力于扩大其在非洲业务的象征。关闭引发了对其背后原因的争议和猜测，一些人指出当地商业环境面临的挑战。尽管遭遇挫折，微软仍然致力于实现通过技术为世界各地的个人和组织提供支持的使命。]]></description>
-      <guid>https://t.me/hn_summary/88508</guid>
-      <pubDate>Wed, 08 May 2024 12:13:20 GMT</pubDate>
+      <title>当我开始研究 JSFS 时，我的目标很简单：为 Web 创建持久文件存储 [...]</title>
+      <link>https://t.me/hn_summary/88538</link>
+      <description><![CDATA[网络操作系统
+当我开始研究 JSFS 时，我的目标很简单：为 Web 应用程序创建持久文件存储。使用客户端代码，在浏览器中提供本地存储之前，我需要一种永久存储数据的方法。最初是一个基本的文件系统，后来发展成为一个 Web 操作系统，将 HTTP 与 REST 约定和服务器端代码执行相结合。通过扩展 JSFS 来执行文件，我们创建了一个 Web 开发人员熟悉的便携式编程环境。这种独特的操作系统 JS/OS 将 Web 应用程序视为本机软件，提供了一种新的 Web 开发方式，具有通用命名空间和分布式处理等功能。]]></description>
+      <guid>https://t.me/hn_summary/88538</guid>
+      <pubDate>Wed, 08 May 2024 15:12:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谁想成为千富翁？</title>
-      <link>https://t.me/hn_summary/88507</link>
-      <description><![CDATA[谁想成为千富翁？ (2011)
-1984 年，迈克尔·拉尔森 (Michael Larson) 在游戏节目 Press Your Luck 中赢得了史无前例的 110,237 美元奖金，创造了电视历史。通过对展览模式的细致研究，拉尔森成功地避开了可怕的“Whammy”空间，并积累了巨额资金。他非正统的方法和强烈的专注让节目的制作人和主持人难以置信。拉尔森的胜利和争议的故事吸引了观众，并展示了他独特的游戏节目策略方法。尽管困难重重，拉尔森的决心和非传统策略使他成为电视游戏节目界的传奇人物。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88507</guid>
-      <pubDate>Wed, 08 May 2024 12:11:14 GMT</pubDate>
+      <title>[媒体] 只是一堆扫描仪（JBOS？</title>
+      <link>https://t.me/hn_summary/88537</link>
+      <description><![CDATA[只是一堆扫描仪（JBOS？）&lt; br/&gt;
+sprocketfox.io 上的网络内容作者讲述了他们的旅程尝试连接扫描仪通过 iSCSI 进行工作，以证明 StackExchange 上的错误。尽管花费了高昂的成本和时间，他们还是成功地使用 iSCSI 目标、启动器和 SCSI 扫描仪设置了测试。他们面临驱动程序、SCSI 兼容性和操作系统方面的挑战，但最终设法使用第三方软件通过 iSCSI 进行扫描。作者的决心和非传统的方法创造了一个独特且令人惊讶的故事，证明扫描仪确实可以通过 iSCSI 工作。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/88537</guid>
+      <pubDate>Wed, 08 May 2024 14:58:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 绝大多数年轻人赞成每周工作四天，81% 的人相信 [...]</title>
-      <link>https://t.me/hn_summary/88506</link>
-      <description><![CDATA[81% 的年轻人表示每周工作 4 天可以提高生产力，调查报告
-根据 CNBC/Generation Lab 的一项调查，绝大多数年轻人赞成每周工作四天，81% 的人认为这会提高生产力。像 Exos 这样的公司已经报告了实施较短工作周所带来的积极成果，理由是效率、收入和保留率都得到了提高。 60% 的受访者更喜欢在办公室工作，而 40% 的受访者更喜欢在家工作。参议员伯尼·桑德斯 (Bernie Sanders) 和马克·高野 (Mark Takano) 提出法案，将每周标准工作时间减少至 32 小时，且不减薪。巴里·迪勒（Barry Diller）和史蒂文·科恩（Steven Cohen）等商界领袖预测，未来公司将采用每周工作四天、周五灵活的工作制。关于工作周未来的讨论正在不断升温。]]></description>
-      <guid>https://t.me/hn_summary/88506</guid>
-      <pubDate>Wed, 08 May 2024 11:49:03 GMT</pubDate>
+      <title>[媒体]RetroNAS 是一个旨在将 Raspberry Pi、旧计算机或虚拟机变成 [...]</title>
+      <link>https://t.me/hn_summary/88536</link>
+      <description><![CDATA[Retronas：使用旧的计算机或虚拟机作为 NAS适用于老式电脑
+RetroNAS 是一个旨在将 Raspberry Pi、旧电脑或虚拟机转变为老式电脑、微型计算机和游戏机的 NAS 的项目。它允许用户创建中央文件存储或备份服务器，超越FAT32格式驱动器的2TB限制，并允许在不兼容的系统之间共享文件。 RetroNAS 支持各种遗留系统和协议，例如 Samba、Netatalk、EtherDFS、FTP 等。该项目强调过时的协议和加密带来的安全风险，并鼓励在防火墙后面的专用网络上使用它。该项目正处于早期开发阶段，正在寻求 Docker 容器集成和客户端文档的贡献者。]]></description>
+      <guid>https://t.me/hn_summary/88536</guid>
+      <pubDate>Wed, 08 May 2024 14:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] SteerMouse 是一款多功能工具，可让您使用各种 sh [...]</title>
-      <link>https://t.me/hn_summary/88505</link>
-      <description><![CDATA[SteerMouse
-SteerMouse 是一款多功能工具，可让您使用各种快捷方式和控件自定义鼠标。从键盘快捷键到滚动选项、缩放、应用程序切换，甚至音乐控制，SteerMouse 都能满足您的需求。一项独特的功能是能够为每个应用程序单独配置鼠标设置，从而最大限度地利用它在所有程序中的使用。借助光标捕捉和免提滚动等选项，SteerMouse 提供了一种可自定义且高效的计算机导航方式。无论您是高级用户还是只想简化工作流程，SteerMouse 都能满足每个人的需求。]]></description>
-      <guid>https://t.me/hn_summary/88505</guid>
-      <pubDate>Wed, 08 May 2024 11:23:51 GMT</pubDate>
+      <title>[媒体] Signal 是数百万人使用的加密消息应用程序，其历史颇具争议。</title>
+      <link>https://t.me/hn_summary/88535</link>
+      <description><![CDATA[Signal 的凯瑟琳·马赫问题
+Signal 是数百万人使用的加密消息应用程序，其历史颇具争议。 Signal 最初由政府资助的组织资助，与美国情报部门有联系，其现任主席凯瑟琳·马赫 (Katherine Maher) 具有政权更迭努力的背景。马赫过去对审查制度的支持以及与政府举措的联系引发了人们对 Signal 可信度的怀疑。在马赫的掌舵下，信号基金会对自由开放互联网的承诺受到质疑，因为她主张管理舆论和压制言论。用户（包括保守派持不同政见者）应谨慎对待 Signal，因为 Maher 的领导层引发了人们对该应用程序真实意图的担忧。]]></description>
+      <guid>https://t.me/hn_summary/88535</guid>
+      <pubDate>Wed, 08 May 2024 14:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot 是否提高了我的工作效率？</title>
-      <link>https://t.me/hn_summary/88504</link>
-      <description><![CDATA[GitHub Copilot 提高了我的工作效率吗？
-作者回顾了他们使用 GitHub Copilot 一年的经验以及它如何影响他们的工作效率。虽然 Copilot 有时感觉很神奇，但它在理解独特代码（例如他们的项目 picom 中）方面存在局限性。作者发现 Copilot 对于编写样板代码很有帮助，但与常用的语言服务器相比，它的不可预测性和建议速度较慢。最终，作者得出的结论是，Copilot 并没有提高他们的工作效率，也不会为此付费。他们质疑 Copilot 的改进将来是否会改变他们的看法。作者对人工智能的局限性和速度表示担忧，使他们不确定此类技术的未来影响。]]></description>
-      <guid>https://t.me/hn_summary/88504</guid>
-      <pubDate>Wed, 08 May 2024 11:03:40 GMT</pubDate>
+      <title>[媒体]司法部正在调查特斯拉的证券和电汇欺诈相关[...]</title>
+      <link>https://t.me/hn_summary/88534</link>
+      <description><![CDATA[特斯拉因自动驾驶索赔的证券和电汇欺诈而受到调查
+美国司法部正在调查特斯拉与其自动驾驶汽车索赔相关的证券和电汇欺诈行为。联邦检察官正在调查特斯拉高管是否通过对其自动驾驶能力做出未经证实的说法误导了消费者、投资者和监管机构，特别是关注首席执行官埃隆·马斯克的声明。特斯拉先进的驾驶辅助功能，自动驾驶仪和全自动驾驶，因不完全自动驾驶和安全问题而受到批评。调查还包括特斯拉的车辆续航里程声明，客户抱怨其中存在差异。特斯拉承认收到了美国证券交易委员会和司法部的传票和信息请求，但否认有任何不当行为。]]></description>
+      <guid>https://t.me/hn_summary/88534</guid>
+      <pubDate>Wed, 08 May 2024 14:46:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]勒索软件攻击已发生令人不安的转变，犯罪分子现在诉诸个人 [...]</title>
-      <link>https://t.me/hn_summary/88503</link>
-      <description><![CDATA[勒索软件骗子现在交换高管的孩子来向他们的父母施压
-勒索软件攻击已经发生了令人不安的转变，犯罪分子现在采取个人和攻击性策略，包括交换高管子女的手机，迫使他们的父母付款。这种心理攻击不仅仅是加密文件和窃取数据，还发生了救护车被转移、患者无法获得关键药物、甚至癌症患者的裸照被泄露等事件。从欺诈到勒索的转变影响了所有经济部门，医疗保健公司因其存储的敏感信息而日益成为目标。对于组织来说，支付赎金的决定已成为一个可怕的选择，尤其是在面临潜在的违规或数据泄露时。]]></description>
-      <guid>https://t.me/hn_summary/88503</guid>
-      <pubDate>Wed, 08 May 2024 11:02:35 GMT</pubDate>
+      <title>[媒体]参议员 Julie Miville-Dechêne 正在推动法案 S-210，即保护年轻人 [...]</title>
+      <link>https://t.me/hn_summary/88533</link>
+      <description><![CDATA[加拿大法案 S-210：推动广泛年龄验证
+参议员 Julie Miville-Dechêne 正在推动《S-210 法案》，即《保护青少年免遭色情制品法案》，该法案旨在通过强制年龄验证来阻止未成年人接触露骨色情材料。该法案引发了隐私问题，并扩展到色情网站之外，还包括搜索和社交媒体。数字治理委员会正在推动一项超出该法案范围的年龄验证标准，并设想在加拿大的各种在线平台上广泛采用年龄验证技术。尽管对该技术的成熟度和风险存在担忧，但该法案仍在迅速推进，并得到了业界对其广泛采用的支持。]]></description>
+      <guid>https://t.me/hn_summary/88533</guid>
+      <pubDate>Wed, 08 May 2024 14:45:30 GMT</pubDate>
     </item>
     <item>
-      <title>在亚伦·斯沃茨 (Aaron Swartz) 的《提高生产力》一书中，作者挑战了所有时间都是平等的观点 [...]</title>
-      <link>https://t.me/hn_summary/88502</link>
-      <description><![CDATA[提高工作效率，作者：Aaron Swartz
-在亚伦·斯沃茨（Aaron Swartz）的《提高生产力》一书中，作者挑战了所有时间都是平等的观念，并强调了认识和利用不同质量的时间的重要性。他建议开展多个项目来激发创造力和生产力。斯沃茨还建议列出清单并将其融入日常生活中以保持井井有条。此外，他还讨论了提高时间质量的方法，例如携带笔和纸、避免打扰以及让自己处于积极的影响之中。作者深入研究了拖延问题，提供了克服心理障碍和通过将困难任务分解为可管理步骤来解决这些任务的见解。 （根据 40% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88502</guid>
-      <pubDate>Wed, 08 May 2024 10:32:19 GMT</pubDate>
+      <title>[媒体] 作者深入研究了学习 Rust 异步生态系统的复杂性，突出 [...]</title>
+      <link>https://t.me/hn_summary/88532</link>
+      <description><![CDATA[异步 Rust 复杂性
+作者深入研究了学习 Rust 异步生态系统的复杂性，强调了众多可用选项带来的挑战和困惑。虽然 Rust Futures 的基本概念很简单，但 Rust 项目缺乏明确的指导和默认选项，这增加了初学者的难度。作者建议需要一个默认执行器来改善开箱即用的体验，让人们更容易上手。本文强调了简化学习曲线并为那些对 Rust 异步编程感兴趣的人提供更具凝聚力的生态系统的重要性。]]></description>
+      <guid>https://t.me/hn_summary/88532</guid>
+      <pubDate>Wed, 08 May 2024 14:40:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一项新研究表明，数百万美国人接触致癌化学物质[...]</title>
-      <link>https://t.me/hn_summary/88501</link>
-      <description><![CDATA[汽车内饰中的化学物质可能会致癌 - 并且它们是美国法律
-一项新的研究表明，自 20 世纪 70 年代以来美国法律就强制规定，数百万美国人每天都会接触汽车内饰中的致癌化学物质。安全所需的阻燃剂实际上可能会使火灾毒性更大。 TCIPP、TDCIPP 和 TCEP 等与健康问题相关的化学物质会向空气中排放废气，尤其是在热车中。儿童智商可能会下降，而智商高的成年人面临更高的癌症风险。消防员担心这些化学物质导致癌症发病率增加。争议在于阻燃剂的好处是否大于其对公众健康造成的风险。]]></description>
-      <guid>https://t.me/hn_summary/88501</guid>
-      <pubDate>Wed, 08 May 2024 10:27:12 GMT</pubDate>
+      <title>臭名昭著的 LockBit 网络犯罪组织的头目德米特里·霍罗舍夫 (Dmitry Khoroshev) 已被揭露并 [...]</title>
+      <link>https://t.me/hn_summary/88531</link>
+      <description><![CDATA[LockBit 领导者被揭露并受到制裁
+在国家犯罪局领导的一场成功的国际破坏行动之后，臭名昭著的 LockBit 网络犯罪组织的领导人德米特里·霍罗舍夫 (Dmitry Khoroshev) 被揭露并受到英国、美国和澳大利亚的制裁。霍罗舍夫（Khoroshev），也被称为 LockBitSupp，悬赏 1000 万美元奖励透露自己的身份，但现在面临资产冻结和旅行禁令。调查揭露了该组织广泛的犯罪活动，包括在全球范围内发动了 7,000 多次袭击。 NCA 的行动大大减少了 LockBit 的威胁，活跃的附属机构减少了，受害者也得到了支持。此次打击行动向网络犯罪分子发出了明确的信息：他们将面临正义的审判。]]></description>
+      <guid>https://t.me/hn_summary/88531</guid>
+      <pubDate>Wed, 08 May 2024 14:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网络内容深入探讨了 NSA 后门的历史，揭示了有争议的做法 [...]</title>
-      <link>https://t.me/hn_summary/88500</link>
-      <description><![CDATA[NSA 后门简史 (2013)&lt; br/&gt;
-该网络内容深入探讨了 NSA 后门的历史，揭露了有争议的做法，例如 Crypto AG 应 NSA 的要求故意操纵加密机。内容重点介绍了这些后门的复杂细节，包括活板门和关键托管功能，揭示了监视和解密能力的范围。令人惊讶的揭露包括故意在军事芯片中插入后门，引发了对国家安全影响的担忧。该内容还探讨了外国实体可能参与这些后门的情况，为这个本来就充满争议的话题增添了一层复杂性。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88500</guid>
-      <pubDate>Wed, 08 May 2024 10:24:05 GMT</pubDate>
+      <title>[媒体] 在 Linux 上寻找 NVIDIA GPU 监控工具吗？</title>
+      <link>https://t.me/hn_summary/88530</link>
+      <description><![CDATA[Nvtop：适用于 GPU 的 Htop
+正在寻找适用于 Linux 上 NVIDIA GPU 的监控工具吗？ nvtop 就是您的最佳选择！这个类似 htop 的工具与 Ubuntu、Debian、Arch、Fedora 等流行发行版兼容。 nvtop 能够处理多个 GPU 并以熟悉的 htop 格式显示信息，是 GPU 监控的必备工具。告别复杂的监控工具，迎接 nvtop 的简单。]]></description>
+      <guid>https://t.me/hn_summary/88530</guid>
+      <pubDate>Wed, 08 May 2024 14:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇关于 Redshift 临时表中的事故的文章中，作者深入研究了 [...]</title>
-      <link>https://t.me/hn_summary/88499</link>
-      <description><![CDATA[Redshift 临时表中的失误
-在这篇关于 Redshift 临时表中的失误的文章中，作者深入探讨了 Redshift 中临时表的常见反模式，强调它们本质上并不比通用表表达式 (CTE) 更好。作者强调了上下文、数据和查询优化在确定最有效方法方面的重要性。本文讨论了临时表中不必要的数据存储、过早优化和低效排序实践等问题。作者还提供了关于何时临时表是一个好选择的见解，提供了优化 Redshift 查询性能的实用技巧。]]></description>
-      <guid>https://t.me/hn_summary/88499</guid>
-      <pubDate>Wed, 08 May 2024 10:21:58 GMT</pubDate>
+      <title>在 failurelore.com 上的网页内容“在 ABI Café 配对您的编译器”中，作者讨论了 [...]</title>
+      <link>https://t.me/hn_summary/88529</link>
+      <description><![CDATA[在 ABI Café 配对您的编译器
+在 faultlore.com&lt; 上的网页内容“在 ABI Café 配对您的编译器”中/a&gt;，作者讨论了编译器兼容性和ABI的挑战，重点讨论了不同编译器之间传递int128的问题。作者介绍了 abi-cafe，这是他们开发的一个用于测试编译器之间 ABI 兼容性的工具，它有助于识别和解决 rustc、clang 和 gcc 之间的问题。本文强调了准确的 ABI 对于跨语言 FFI 的重要性以及标准化 ABI 规范的必要性。作者还预览了abi-cafe 2.0并讨论了测试编译器互操作性的过程。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88529</guid>
+      <pubDate>Wed, 08 May 2024 14:31:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
