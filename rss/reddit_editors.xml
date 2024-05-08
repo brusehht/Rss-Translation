@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：编辑</title>
+    <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 07 May 2024 21:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:41:57 GMT</lastBuildDate>
+    <item>
+      <title>以迷你拖车开头的拖车有什么关系？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cmrbdq/whats_the_deal_with_trailers_starting_with_a_mini/</link>
+      <description><![CDATA[我越来越多地看到带有一点迷你预告片在开头，有时附有文字“预告片立即开始”。 我和我认识的任何人都没有被要求在我的国家做这样的事情，但这有什么关系？ 我个人发现，在观看实际预告片之前，这会让我迷失方向。   由   提交 /u/vedhavet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cmrbdq/whats_the_deal_with_trailers_starting_with_a_mini/</guid>
+      <pubDate>Wed, 08 May 2024 00:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>主要驱动器问题，Windows 上的 APFS 下降速度很快，有什么想法吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cmqhld/major_drive_issues_apfs_on_windows_dropping_fast/</link>
+      <description><![CDATA[您好，reddit， 我的办公室使用 MBP (APL Silicon) 和 Windows 系统 (10 pro)和移动编辑工作。我已经运行 paragon 多年了，HFS+ 仍然超级稳定，但 APFS+ 最近给我带来了问题。 第一个也是最奇怪的一个，大约 3 周前，我试图访问 sandisk pro g40 TB 驱动器上有我们的样片，当我回到家时，该驱动器根本无法安装在我的 MBP 上。它会显示在磁盘实用程序中，但会呈灰色...最终我对整个系统进行了核攻击，并重新开始以确保软件和硬件不是问题，最终我最终将驱动器重新格式化为 HFS+。但现在我对驱动器失去了信心，我正在尝试通过 san 磁盘为其获取 RMA。 我的可取之处是，虽然它无法安装在我的 mac 上，但它会仍然通过 paragon 的 APFS+ 安装在我的 Windows 上，我能够恢复数据。 然后今天 - 5 月 7 日，突然另一个驱动器，也是 sandisk 专业的，但这次是 4TB 刀片驱动器，突然停止工作在我的 Windows 和 Mac 上。同样格式化为 APFS，在我的 Mac 上无法安装，并且 APFS+ 在我或我妻子的 PC 上无法读取它。我能够通过一个名为 Hetman Partician Recovery 的程序直观地恢复基本文件结构，值得庆幸的是，所有内容都备份在驱动器上，接受我今天所做的工作：/ 现在我开始害怕了，到目前为止，只有 APFS 驱动器，但如果我的 HFS 驱动器突然停止工作，我就完蛋了。目前，我正在停止所有工作并订购一些更大的机械驱动器来支持我的 NVMe，但这看起来确实很奇怪。经过多年的使用，Paragon 没有出现任何问题，考虑切换 macdrive，但是发生了一些事情导致这些驱动器宕机，它们之间唯一的共同点是它们都是 APFS 并且都与 mac 和 pc 一起使用。 刀片驱动器甚至通过 4 托架文档与其他 3 个 HFS+ 驱动器共享一个插槽，然后变得不可读。有趣的是，sandisk dsahboard 应用程序可以在插入 PC 时看到驱动器，甚至对其进行诊断检查，结果正常，但除此之外并从 hetman 恢复基本文件夹结构时，驱动器突然崩溃了。就在 APFS+ 停止工作之前，我确实遇到了另一个程序的驱动程序问题，我重新安装了该程序，它强制系统重新启动，卡住了 15 分钟以上，然后我最终强制关闭系统并重新启动......但该程序无关。当系统恢复时，一个 APFS 驱动器无法读取。 如果 paragon 是问题所在，macdrive 是否会更好？ 有什么想法吗？ 系统规格： PC - Ryzen 3950x、64gigs 3200 条匹配的内存条、3080ti GPU、带 4/4TB NVMe 驱动器的 SandDisk Pro Blade Dock + 基本 Blade Shuttle 磁带读取器。 3 个驱动器格式化为 HFS+，1 个驱动器格式化为 APFS。扩展坞通过 USB 4.0 电缆连接到我的电脑的 3.2 gen 2 端口。 电脑操作系统 - Windows 10 专业版 22H2&lt; /p&gt; Mac - 14 英寸 MBP，最大 m3，36 GB 内存（轻型最大，不是全部）基本配置，1TB 内部驱动器空间 Mac 操作系统 - Sonoma 14.4.1  软件 - Paragon APFS+（最新更新） 我也从它们运行 HFS+，但到目前为止还没有出现任何问题。 驱动器 - SanDisk g40 4TB Thunderbolt 3 驱动器和 SanDisk Pro - Pro Blade 4TB NVMe Mag 我已使用 USB 3.0、USB 4.0 和 TB 4.0 电缆尝试了每个系统上的多个端口。 视频来自于通过读卡器设置并使用带有传输日志的 Offshoot（正式名称为 Hedge）进行传输。我的所有素材都已备份，只是我的导出丢失了，我担心的是我的 APFS 驱动器突然丢失。 失败的不相关驱动程序来自一个名为 reWASD 的程序，我运行的版本很旧，因此我需要重新提交许可证并且需要更新软件。该软件确实在系统级别进行了修改，并最终在第一次重新启动期间超时崩溃。   由   提交/u/MrMoviePhone  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cmqhld/major_drive_issues_apfs_on_windows_dropping_fast/</guid>
+      <pubDate>Tue, 07 May 2024 23:48:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 macbook m1 pro 卸载威尼斯的镜头</title>
+      <link>https://www.reddit.com/r/editors/comments/1cmoa7z/offloading_venice_footage_with_macbook_m1_pro/</link>
+      <description><![CDATA[大家好，我有一项数据整理工作，需要在我的 Macbook Pro M1 Pro 上卸载 Venice 1 素材。我正在运行较旧的 mac OS Monterey。我听说片场存在这样的问题：在新的 Mac 操作系统上卸载到 SSD 时，Venice 1 可能会损坏文件。想知道是否有人以前听说过这个，如果有的话有什么解决方案。感谢任何见解/建议，谢谢。 Mac 规格：macOS Monterey 12.2.1、apple m1 pro、16GB 内存。  仅供参考，我们将使用 Sony Venice 6k、X-OCN LT、23.98、1.85 取景、ISO 基准 (500) 进行拍摄  &amp; #32；由   提交 /u/SunnyInRealLife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cmoa7z/offloading_venice_footage_with_macbook_m1_pro/</guid>
+      <pubDate>Tue, 07 May 2024 22:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>有人认识到这种转变吗？搜索该资产以避免重新创建它。</title>
       <link>https://www.reddit.com/r/editors/comments/1cmkj3z/does_anyone_recognize_this_transition_searching/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>Frame.io 删除了使用免费 Adob​​e Cloud 帐户进行链接共享下载的功能？</title>
       <link>https://www.reddit.com/r/editors/comments/1cmflbs/frameio_removed_the_ability_for_link_share/</link>
-      <description><![CDATA[六个月前，我很高兴地得知我的 Adob​​e CC 订阅附带了 Frame.io 的免费低层子系统。我的一些客户更喜欢以这种方式进行编辑，因为做笔记更容易。一切都很顺利，直到今天... 今天早上，我得知我的 Adob​​e Frame 帐户不再允许我启用“下载”功能。设置中的选项 - 选项中的切换按钮是“升级到专业版”链接。 这太糟糕了。我每年不会为这项功能支付 150 美元，而且我认为 Adob​​e 向我们提供的奖金相当可观，因为他们每年向我收取近 1,000 美元的 Adob​​e 子费用。 我想我是没有误解，这只是现在的现状。很难抱怨“免费”的东西。被撤销，但你拥有它 - 仍然感觉很糟糕。 编辑解决如下：看起来如果你将帐户更改为新的 Beta 版本，它会默认为“下载”=“是”而无需升级到专业计划。诡异的。    由   提交/u/kukov  [链接] [评论]]]></description>
+      <description><![CDATA[六个月前，我很高兴地得知我的 Adob​​e CC 订阅附带了 Frame.io 的免费低层子项目。我的一些客户更喜欢以这种方式进行编辑，因为做笔记更容易。一切都很顺利，直到今天... 今天早上，我得知我的 Adob​​e Frame 帐户不再允许我启用“下载”功能。设置中的选项 - 选项中的切换按钮是“升级到专业版”链接。 这太糟糕了。我每年不会为这项功能支付 150 美元，而且我认为 Adob​​e 为我们提供的奖金相当可观，因为他们每年向我收取近 1,000 美元的 Adob​​e 子费用。 我想我是没有误解，这只是现在的现状。很难抱怨“免费”的东西。被撤销，但你已经拥有它 - 仍然感觉很糟糕。 编辑解决如下：看起来如果你将帐户更改为新的 Beta 版本，它会默认为“下载 = 是”而无需升级到专业计划。诡异的。    由   提交/u/kukov  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmflbs/frameio_removed_the_ability_for_link_share/</guid>
       <pubDate>Tue, 07 May 2024 16:08:38 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>Premiere Export - 黑色为 0 mV？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm7rot/premiere_export_black_at_0_mv/</link>
-      <description><![CDATA[大家好， 我刚刚向一家电视台投递了一个短广告，质量控制部门禁止播放该视频，称“黑色电平不是 0 mV，而是 -20 mV！” 我从事剪辑工作 8 年了，从未听说过这个。他们指的是什么？我需要使用哪些导出设置来纠正这个问题？ 谢谢！    提交人    /u/IgnorantSmartAss   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我刚刚向一家电视台投放了一个简短的广告，质量控制部门禁止播放该视频，内容是“黑电平不是 0 mV，而是 -20 mV！” 我已经编辑了 8 年，从来没有听说过这个。他们指的是什么？我需要哪些导出设置来纠正此问题？ 谢谢！   由   提交 /u/IgnorantSmartAss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm7rot/premiere_export_black_at_0_mv/</guid>
       <pubDate>Tue, 07 May 2024 09:30:09 GMT</pubDate>
     </item>
@@ -57,14 +78,14 @@
     <item>
       <title>耳机升级的建议。</title>
       <link>https://www.reddit.com/r/editors/comments/1cm3dbs/recommendations_for_a_headphones_upgrade/</link>
-      <description><![CDATA[使用 Skullcandy Crusher Evo 进行编辑已经有几年了，它已经到了最后的阶段。 Google 粗略浏览显示了无数的选项和意见，所以我想我应该寻求专业人士的意见。 我更喜欢无线耳机或有无线选项，尽管我愿意这样做否则确信。我的预算低于 500 美元。   由   提交 /u/Lazy_Dissident   [链接] [评论]]]></description>
+      <description><![CDATA[使用 Skullcandy Crusher Evo 进行编辑已有几年了，现在它已经快不行了。 粗略浏览一下 Google，就会看到无数的选择和意见，所以我想寻求同行专业人士的意见。 我更喜欢无线耳机，或者有无线选项，但我愿意接受其他选择。我的预算在 500 美元以下。    提交人    /u/Lazy_Dissident   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm3dbs/recommendations_for_a_headphones_upgrade/</guid>
       <pubDate>Tue, 07 May 2024 04:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>按小时费率还是按实际交付物收费？</title>
+      <title>按小时收费还是按实际交付物收费？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm2h93/charging_for_deliverables_based_on_hourly_rate_or/</link>
-      <description><![CDATA[只是好奇你们中的一些人如何向客户收取制作最终交付品的费用？在我的市场中，我的大多数代理客户都习惯于根据固定的每次交付品成本收取交付品费用。我确信这是旧磁带时代的遗留，当时我们根据制作并发送给当地电视台的 BetaSP 配音数量收费。 但现在有这么多不同的编码格式和规范，像我们在模拟时代那样对数字交付品收费没有多大意义。我花了很多时间解析令人困惑且经常相互矛盾和无意义的规格表（例如我刚刚做的那个，说明他们需要 1920x1080 H264 :30，比特率为 5 Mb/秒，但文件大小不能超过 4 兆字节！），所以我试图向客户说明，从现在开始交付品必须按小时计费。 不过，我可能搬起石头砸自己的脚，因为我的客户知道我已经编写了 Python 脚本来自动为具有“已知良好”规格的本地电台创建交付品。因此，对于那些电台，我只需将 ProRes 主文件拖到脚本输入上，就可以在几秒钟内生成具有不同规格的 6 种不同的交付品。所以他们认为所有这些东西都很容易！ 我知道解决所有这些问题的正确方法是按照我的正常小时费率向他们收费，但我的许多客户都是前面提到的长期、老派的广告代理类型，所以当我告诉他们我不能像在磁带时代那样为可交付成果收费时，他们可能会生气！    提交人    /u/doctorpebkac   [link] [评论]]]></description>
+      <description><![CDATA[只是好奇你们中的一些人如何向客户收取最终交付成果的费用？在我的市场中，我的大多数代理客户习惯于根据固定的每次交付成本来收取交付费用。我确信这是旧磁带时代的延续，当时我们根据制作并发送到当地电视台的 BetaSP 配音数量来收费。 但是现在有了如此多不同的编码格式和规范，像模拟时代那样对数字交付内容收费没有多大意义。我花了很多时间解析令人困惑且经常矛盾和无意义的规格表（就像我刚刚做的那样，他们需要 1920x1080 H264 的 a:30 以 5 Mb/秒的比特率，但文件大小不能超过4 兆字节！），所以我试图向客户证明，从现在开始，交付成果必须按小时计费。 不过，我可能搬起石头砸自己的脚，因为我的客户知道我已经编写了 Python 脚本来自动为具有“已知良好”功能的本地电台创建可交付成果。眼镜。因此，对于这些电台，我只需将 ProRes 母版拖到脚本输入上，我就可以在几秒钟内生成具有不同规格的 6 个不同的可交付成果。所以他们认为所有这些事情都很简单！ 我知道解决所有这些问题的正确解决方案是按照我的正常小时费率向他们收费，但我的许多客户都是前面提到的长期、老派广告代理类型，所以当我告诉他们我不能像在磁带时代那样对可交付成果进行计费时，他们可能会生气！    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm2h93/charging_for_deliverables_based_on_hourly_rate_or/</guid>
       <pubDate>Tue, 07 May 2024 03:38:42 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>音乐问题</title>
       <link>https://www.reddit.com/r/editors/comments/1clwfse/music_issues/</link>
-      <description><![CDATA[这里有关于免版税音乐的问题。我在客户的 YouTube 播客中使用了 Filmpac 的一首歌曲。他因此获得了版权标志。我知道 FilmPac 有一个安全列表，您可以在其中注册您的 YouTube 频道以避免此标志。这里的问题是，如果包含这首歌的视频在 YouTube 上获利，那么这首歌的版权所有者也能获利吗？我的假设是，如果您使用免版税网站并在该网站上注册您的频道，则音乐的所有者不会货币化或对广告或货币化拥有任何控制权。有人可以帮我吗？   由   提交/u/adventure_mama21   [链接] [评论]]]></description>
+      <description><![CDATA[这里有一个关于免版税音乐的问题。我在客户的 YouTube 播客中使用了 Filmpac 的一首歌。他为此获得了版权标记。我知道 FilmPac 有一个安全列表，您可以在其中注册您的 YouTube 频道以避免此标记。这里的问题是，如果这个包含这首歌的视频在 YouTube 上获利，那么这首歌的版权所有者是否也会获利？我假设如果您使用免版税网站并在该网站上注册您的频道，那么音乐所有者不会获利或对广告或获利有任何控制权。有人可以帮我吗？    提交人    /u/adventure_mama21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clwfse/music_issues/</guid>
       <pubDate>Mon, 06 May 2024 22:43:22 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我有一位客户，他在收款方面有着出色的技巧。但我从未见过他全神贯注于任何事情。他拍摄了很长的采访，然后把它们交给我编辑成 5 分钟的商业影片或商业简介，但没有真正的方向。这个过程通常涉及大量的修改（首先是他的修改，然后是客户的修改），从而导致视频质量不佳。通常，他的修改笔记会导致客户质疑作品的逻辑结构，而我最终会回到旧的剪辑。他的理念是给客户他们想要的东西，但我们似乎从未获得回报。 我如何让他专注于实际产品？他似乎太忙于收集业务，无暇专注于实际制作高质量的视频。 去年，我为一家小型企业编辑了一个 5 分钟的迷你文档，其中使用了一个小时的采访和花絮，当时客户特别想要一个 1 分钟的垂直移动广告，完全没有对话。这只是一次沟通失误……我花了一周时间拍摄一部客户甚至不想要的电影。  最近，我花了 70 个小时对他和他的客户提取的选择进行编辑。当我向客户展示时，所有的选择都是错误的。我一直都有报酬，但该死的，我想为更关心我的人工作。   由   提交 /u/RibbitClyde   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clvi4y/anyone_have_advice_for_working_for_the_unorganized/</guid>
       <pubDate>Mon, 06 May 2024 22:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 天后可以取消的最佳素材库网站吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1clumzj/best_stock_footage_site_that_i_can_cancel_after/</link>
-      <description><![CDATA[我正在为医疗保健行业的客户编辑一个项目。我需要一些有关红细胞和医生/患者互动的素材。我通常不使用库存素材，因此我将要求我的客户购买许可证。我想知道是否有一个网站可以提供当月单一价格下载的所有内容，因为我计划在该月结束后取消。任何建议将不胜感激！    由   提交/u/kikokiko12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1clumzj/best_stock_footage_site_that_i_can_cancel_after/</guid>
-      <pubDate>Mon, 06 May 2024 21:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用谷歌照片使幕后花絮存档可搜索？</title>
-      <link>https://www.reddit.com/r/editors/comments/1clubo4/using_google_photos_to_make_broll_archive/</link>
-      <description><![CDATA[切片师们大家好， 前几天，我的公司收到了托管我们 b-roll 的素材库网站的授权如果我们能提供手的镜头，就可以获得许可。由于我们已经有一段时间没有向他们上传新的镜头了，所以我花了一天的最后两个小时根据我的记忆挖掘我能找到的任何东西。这让我们思考，如果我们能够以某种方式批量导出所有剪辑的缩略图，并刻录剪辑名称，然后上传到谷歌照片并让人工智能霸主为我们标记所有缩略图，会怎么样？我们的想法是，当出现这样的请求时，我们可以直接进入谷歌照片并搜索“手”。或“自行车”。或者“编辑用 Thunderbolt3 电缆窒息了自己”。 有人尝试过这个吗？有任何工作流程建议甚至其他服务可以使基于标签的搜索成为可能吗？   由   提交/u/Jordan_Ingram  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1clubo4/using_google_photos_to_make_broll_archive/</guid>
-      <pubDate>Mon, 06 May 2024 21:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>SANDISK G RAID MIRROR 36 TB 仅显示 16.3 TB</title>
-      <link>https://www.reddit.com/r/editors/comments/1clt7tq/sandisk_g_raid_mirror_36_tb_showing_only_163_tb/</link>
-      <description><![CDATA[大家好， 我刚刚购买了 Sandisk G RAID MIRROR 36 TB，raid 模式切换为“raid mode 0” ;，将磁盘格式化为 NTFS - 但大小仅显示 16,3 TB。 这是我第一次使用 G raid 镜像 - 我了解在 raid 模式 1 下 - 存储应显示一半磁盘容量，因为它是镜像的 - 但使用 raid 模式 0 应该显示完整的 36 TB 存储否？ 如果有人可以解释这是如何工作的或者我应该做什么才能使磁盘充满 36 TB - 我会非常感谢 非常感谢   由   提交/u/Kls41  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1clt7tq/sandisk_g_raid_mirror_36_tb_showing_only_163_tb/</guid>
-      <pubDate>Mon, 06 May 2024 20:27:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
