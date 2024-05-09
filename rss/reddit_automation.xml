@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 09 May 2024 06:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:12:14 GMT</lastBuildDate>
     <item>
       <title>请尽快有人帮忙</title>
       <link>https://www.reddit.com/r/automation/comments/1cnpjy8/someone_help_asap_please/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>Mac 应用程序和 Chrome 扩展自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1cnblmy/mac_app_chrome_extension_automation/</link>
-      <description><![CDATA[我使用的两个生产力工具是： Break Timer - Mac 应用程序，让我每 30 分钟休息 60 秒 &lt; /p&gt; unhook - 阻止 YouTube 推荐源的 chrome 扩展  我发现自己禁用了这些“阻止程序”晚上忘记重新启用它们。 有没有办法可靠地每天午夜重新启用它们？我还没有尝试使用录制的宏来完成此操作，但担心扩展或菜单栏中的任何位置更改都会破坏自动化。  谢谢！   由   提交 /u/armadaskis1   [链接] [评论]]]></description>
+      <description><![CDATA[我使用的两个生产力工具是： Break Timer - Mac 应用程序，让我每 30 分钟休息 60 秒 &lt; /p&gt; unhook - 阻止 YouTube 推荐源的 Chrome 扩展  我发现自己禁用了这些“阻止程序”晚上忘记重新启用它们。 有没有办法可靠地每天午夜重新启用它们？我还没有尝试使用录制的宏来完成此操作，但担心扩展或菜单栏中的任何位置更改都会破坏自动化。  谢谢！   由   提交 /u/armadaskis1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cnblmy/mac_app_chrome_extension_automation/</guid>
       <pubDate>Wed, 08 May 2024 18:24:52 GMT</pubDate>
     </item>
@@ -48,9 +48,9 @@
       <pubDate>Wed, 08 May 2024 15:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>每日下载 PDF</title>
+      <title>每日 PDF 下载</title>
       <link>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</link>
-      <description><![CDATA[有一个每天下午 6 点更新 PDF 的网址。有没有办法自动下载该 PDF 并通过某种更改列表运行它，该列表会显示与前一天相比对 PDF 所做的更改。 我使用的是 MAC 系统。谢谢！   由   提交 /u/ShoddyNegotiation343   [链接] [评论]]]></description>
+      <description><![CDATA[有一个网址每天下午 6 点更新 PDF。有没有办法自动下载该 PDF 并通过某种更改列表运行它，该列表显示与前一天相比对 PDF 所做的更改。 我正在使用 MAC 系统。谢谢！    提交人    /u/ShoddyNegotiation343   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cmdcww/pdf_download_daily/</guid>
       <pubDate>Tue, 07 May 2024 14:33:06 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>我可以使用哪些最佳工具来创建大量高质量视频并用于社交媒体自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1ckuwya/what_are_the_best_tools_i_can_use_to_create_lots/</link>
-      <description><![CDATA[我已经开始 TikTok 自动化，目前我必须手动创建每一条内容，这非常耗时，任何人都可以推荐任何我可以使用的 AI 工具吗？用于为我生成这些视频！   由   提交/u/Interesting_Island63  [链接] [评论]]]></description>
+      <description><![CDATA[我已经开始使用 TikTok 自动化，目前我必须手动创建每一段内容，这非常耗时，有人可以推荐一些可以用来为我生成这些视频的 AI 工具吗！    提交人    /u/Interesting_Island63   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ckuwya/what_are_the_best_tools_i_can_use_to_create_lots/</guid>
       <pubDate>Sun, 05 May 2024 16:18:37 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 02 May 2024 22:49:48 GMT</pubDate>
     </item>
     <item>
-      <title>自动创建 LinkedIn 连接信息以创建 ClickUp 任务</title>
+      <title>自动将 LinkedIn 连接信息发送到 ClickUp 任务创建</title>
       <link>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</link>
       <description><![CDATA[是否可以自动化此过程？当某人在 LinkedIn 上接受连接请求时，将使用他们的姓名创建一个 ClickUp 任务，该任务将包含他们的所有信息（姓名、毕业日期、LinkedIn 链接、简历等）。 可以这可以使用 Zapier、Pabbly Connect 或 n8n 来完成吗？   由   提交/u/tush_6433668   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ciihl1/automating_linkedin_connection_information_to/</guid>

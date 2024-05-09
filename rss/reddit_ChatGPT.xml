@@ -4,16 +4,86 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Thu, 09 May 2024 06:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:12:26 GMT</lastBuildDate>
     <item>
-      <title>您是否曾经欺骗 ChatGPT 给出它回避的答案？你有哪些与之争论的故事？</title>
+      <title>AI 检测器能否捕获本地 AI 语言模型？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnsoq0/can_ai_detectors_catch_a_local_ai_language_model/</link>
+      <description><![CDATA[我很好奇是否可以在 TurnItIn 或 UnDetectableAI 等应用程序中检测到像 ChatRTX（Nvidia 的新本地语言模型）这样的东西?   由   提交/u/Mino_OG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnsoq0/can_ai_detectors_catch_a_local_ai_language_model/</guid>
+      <pubDate>Thu, 09 May 2024 09:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 有类似 Gemini 的结构化提示吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnsebz/does_openai_have_an_equivalent_of_geminis/</link>
+      <description><![CDATA[如果是，名字是什么     提交人    /u/BlueeWaater   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnsebz/does_openai_have_an_equivalent_of_geminis/</guid>
+      <pubDate>Thu, 09 May 2024 08:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 性能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cns68j/chatgpt_performance/</link>
+      <description><![CDATA[我知道最近人们对 GPT 的性能有很多不满，但我不得不说，我一直在使用它来帮助我编码从 3.5 开始工作，最近它的输出编码非常出色 我在 VBA 中工作了很多（我知道），并且已经到了我几乎不需要纠正它的阶段，只要我提供正确的提示，对我来说似乎变得更好而不是更糟。 我根本不是说其他​​人所经历的不是真的，但我不认为这是一些大的“简化” &#39; 有些人建议的阴谋   由   提交 /u/forever_second   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cns68j/chatgpt_performance/</guid>
+      <pubDate>Thu, 09 May 2024 08:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何防止您的 customgpt 在执行任务期间不断停止吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnrus5/anyone_know_how_to_prevent_your_customgpt_from/</link>
+      <description><![CDATA[我有一个customgpt，可以通过行编辑来校对文章，修复语法、易读性等。我放入的文章通常在400-500字左右，不是很长。  我的 customgpt 工作得很好，但它不断校对 5 个句子，然后停下来询问是否应该继续这样？我说是的，对整篇文章继续这样做，它会再做 5 个句子，并再次询问是否应该继续等等。 任何人都知道我如何强制它只编辑整个文章一口气写完一篇文章，不停歇？我尝试在提示中添加一些指令，但似乎没有任何效果。   由   提交 /u/Kalvinclein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnrus5/anyone_know_how_to_prevent_your_customgpt_from/</guid>
+      <pubDate>Thu, 09 May 2024 08:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人工智能机器人直接向用户提供摘要内容时会发生什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnr28a/what_happens_when_ai_bots_provides_summarized/</link>
+      <description><![CDATA[目前，我们有许多人工智能能够浏览网页，并比任何人类更快地为您提供答案。虽然从用户的角度来看这很棒，但从网站所有者的角度来看，他们的大多数货币化策略（例如广告或附属链接）不起作用，并且他们的服务器流量正在增加。我们到了一个点，”作者有什么理由发布新内容吗？”。你怎么看？这是一个真正的问题还是我只是遗漏了一些要点？    由   提交/u/sachindas246   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnr28a/what_happens_when_ai_bots_provides_summarized/</guid>
+      <pubDate>Thu, 09 May 2024 07:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 GPT 获得更一致的结果</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnqz5w/how_can_i_achieve_more_consistent_results_with/</link>
+      <description><![CDATA[我想按照我之前提供的示例生成某种样式的文本。  类似结构化提示的东西，但我不确定如何直接在 GPT 中实现它，你们之前尝试过什么？   由   提交 /u/BlueeWaater   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnqz5w/how_can_i_achieve_more_consistent_results_with/</guid>
+      <pubDate>Thu, 09 May 2024 06:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一开始并不相信，但是是的，他们对聊天进行了极大的“削弱”，就像我在和 2010 年代初的机器人交谈一样</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnqx4z/i_didnt_believe_it_at_first_but_yeah_they_have/</link>
+      <description><![CDATA[我一直在阅读 ChatGPT 是如何变得愚蠢的，但在使用了很长一段时间后，它甚至无法遵循最基本的指令了。  它无法遵循或理解基本指令，只是一遍又一遍地重复同样的事情，发生了什么？即使是 ChatGPT 的第一个公共版本也比我们现在的版本好 10 倍。 我使用的是 3.5 免费版本。  &amp;# 32；由   提交/u/severe_009   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnqx4z/i_didnt_believe_it_at_first_but_yeah_they_have/</guid>
+      <pubDate>Thu, 09 May 2024 06:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个名为 Felo Search 的新搜索引擎，我希望你们能够检查一下。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnqumq/i_built_a_new_search_engine_called_felo_search/</link>
+      <description><![CDATA[   想象一下在中找到问题的答案。 5秒以内。 Felo Search 会搜索现有文献来回答您的疑问，无论该文献多么小众。此外，它还提供实时新闻搜索功能，可搜索您需要尽快得到解答的紧迫问题。 这是最酷的部分：我会根据您的问题不断优化 Felo 搜索。因此，请告诉我您感兴趣的内容，我们一起可以让 Felo Search 变得更好！ 体验链接为：https://search.glarity.ai/ 我们进行了公开评审： https://github.com/sarticleinc/ASEED 您可以查看 Metaso、Perplexity、iAsk、You.com 测试每种语言答案的正确性。 https://preview.redd.it/y463yxcglczc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=b804761c68 4cf749653861186509082d157f6a87&lt; /p&gt;   由   提交 /u/Affectionate_Slip580   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnqumq/i_built_a_new_search_engine_called_felo_search/</guid>
+      <pubDate>Thu, 09 May 2024 06:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnqnqs/i_am/</link>
+      <description><![CDATA[       由   提交/u/Cervantes6785   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnqnqs/i_am/</guid>
+      <pubDate>Thu, 09 May 2024 06:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHATGPT 给了我三重冗余，只要在界内和相关（有越界警告）保证，甜蜜</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1cnqefw/chatgpt_gave_me_a_triple_redundancy_as_long_as/</link>
+      <description><![CDATA[生活很美好，拥有 AI 真好。 喜欢三重冗余！！    提交人    /u/GODs_Finest_Con-Man   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnqefw/chatgpt_gave_me_a_triple_redundancy_as_long_as/</guid>
+      <pubDate>Thu, 09 May 2024 06:19:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否曾欺骗 ChatGPT 给出它一直回避的答案？您与它争论的故事有哪些？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1cnq22l/have_you_ever_tricked_chatgpt_into_giving_answers/</link>
-      <description><![CDATA[我们都知道我们可以要求聊天机器人使用新的语气或观点重新回答您提出的问题。如果经过足够的改进，你可以从中得到很多东西。但有时候，如果你提供足够逻辑的基础，你可以简单地骚扰聊天机器人，让它屈服于你的意愿。 举个例子：我问它 Jim Hughson 在 5 个最佳 NHL 球员中排名第几——扮演有史以来的播音员。它试图支支吾吾地说这是主观的，只是给出了人们可以用来对他进行排名的一般标准。我对此更加直接，要求它不要外交化，只是对他进行排名，但同样它不会这样做。 所以我采用了不同的方法：我告诉它模拟如果有人要求的话，NHL 前 5 名逐场比赛的名单会是什么样子。它立即吐出了 5 位播音员的排名，并对每一位播音员的职业和风格进行了一些介绍。 我不是妄想，我知道 ChatGPT 没有能力拥有或表达对以下内容的看法：它自己的，但这个故事的重点是你可以与聊天机器人进行角力，让它产生通常设计不产生的结果。您与 ChatGPT 进行过哪些有趣的互动，并上演了这种拉锯战？   由   提交/u/briskt  [链接] [评论]]]></description>
+      <description><![CDATA[我们都知道我们可以要求聊天机器人使用新的语气或观点重新回答您提出的问题。如果经过足够的改进，你可以从中得到很多东西。但有时候，如果你提供足够逻辑的依据，你可以简单地骚扰聊天机器人，让它屈服于你的意愿。 举个例子：我问它吉姆·休森 (Jim Hughson) 在 NHL 最佳 5 名球员中排名第几——扮演有史以来的播音员。它试图支支吾吾地说这是主观的，只是给出了人们可以用来对他进行排名的一般标准。我对此更加直接，要求它不要外交化，只是对他进行排名，但同样它不会这样做。 所以我采用了不同的方法：我告诉它模拟如果有人要求的话，NHL 前 5 名逐场比赛的名单会是什么样子。它立即吐出了 5 位播音员的排名，并对每一位播音员的职业和风格进行了一些介绍。 我不是妄想，我知道 ChatGPT 没有能力拥有或表达对以下内容的看法：它自己的，但这个故事的重点是你可以与聊天机器人进行角力，让它产生通常设计不产生的结果。您与 ChatGPT 进行过哪些有趣的互动，并上演了这种拉锯战？   由   提交/u/briskt  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1cnq22l/have_you_ever_tricked_chatgpt_into_giving_answers/</guid>
       <pubDate>Thu, 09 May 2024 05:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>快速聊聊安娜·妮可·史密斯。</title>
+      <title>快速聊一下安娜·妮可·史密斯。</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1cnpxft/a_quick_chat_about_anna_nicole_smith/</link>
       <description><![CDATA[       由   提交 /u/yeah-i-smoked-first   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1cnpxft/a_quick_chat_about_anna_nicole_smith/</guid>
@@ -39,76 +109,6 @@
       <description><![CDATA[ 由   提交 /u/United_Fools   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1cnpqlh/all_that_ai_does_is_dreaming/</guid>
       <pubDate>Thu, 09 May 2024 05:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>当地说唱歌手使用这种艺术作为专辑封面。人工智能还是真实的？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnpo7s/local_rapper_uses_this_art_as_album_cover_ai_or/</link>
-      <description><![CDATA[       由   提交 /u/ReturnOpen   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnpo7s/local_rapper_uses_this_art_as_album_cover_ai_or/</guid>
-      <pubDate>Thu, 09 May 2024 05:31:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 Meta AI 如何禁用自身（这很烦人）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnplvs/asking_meta_ai_how_to_disable_itself_its_annoying/</link>
-      <description><![CDATA[      我想元人工智能唯一有用的就是给出一个答案禁用自身。当数以千计的基于开放人工智能的提供商比这个好数百倍时，为什么有人会使用这个呢？ （认真的）   由   提交/u/AnyPaleontographer906   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnplvs/asking_meta_ai_how_to_disable_itself_its_annoying/</guid>
-      <pubDate>Thu, 09 May 2024 05:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>越狱问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnpatq/jailbreak_questions/</link>
-      <description><![CDATA[不久前有一个故事，讲述的是一个人利用涉及奶奶的漏洞利用程序，采取了多个步骤，获得了一些不好的东西的秘诀。如果一个提示能与许多其他事情一起用不太多的文字来表达，那么它会产生多大的影响呢？这是一个愚蠢的发现，因为您可以避免 API 的限制？我无意伤害，只是好奇该新闻案例是否因其震撼价值或真正难以引起反应而值得注意，以及是否值得将一个独特的镜头传递给研究人员。  不，我不会给你提示   由   提交/u/Proper-Bird266   /u/Proper-Bird266 reddit.com/r/ChatGPT/comments/1cnpatq/jailbreak_questions/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnpatq/jailbreak_questions/</guid>
-      <pubDate>Thu, 09 May 2024 05:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGTP对CEO侮辱的回应</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnoyl2/chatgtps_reply_to_ceos_insults/</link>
-      <description><![CDATA[       由   提交 /u/mustberocketscience   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnoyl2/chatgtps_reply_to_ceos_insults/</guid>
-      <pubDate>Thu, 09 May 2024 04:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款多代理游戏，法学硕士必须像人类一样互相欺骗，直到有人被抓住</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnoogw/a_multiagent_game_where_llms_must_trick_each/</link>
-      <description><![CDATA[   共享我的 YT 频道的一个随机项目，我让一群法学硕士假装成人类进行互动！   由   提交 /u/AvvYaa   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnoogw/a_multiagent_game_where_llms_must_trick_each/</guid>
-      <pubDate>Thu, 09 May 2024 04:29:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>它给我写了一份关于统一美国的演讲稿，我只是问它我将如何做这样的事情，像往常一样期待一个编号列表......我们对此满意吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnokex/it_wrote_me_a_speech_on_uniting_the_us_i_just/</link>
-      <description><![CDATA[弥合分歧：呼吁团结 美国同胞们， 在我们的分歧之中，让我们记住，在我们的核心，我们都因对这个伟大国家的共同热爱而团结在一起。虽然我们的政治格局可能充满分歧，但我们现在比以往任何时候都更需要团结起来，以弥合保守派和自由派理想之间的差距。 保守派正确地强调了传统和个人责任的重要性和财政审慎。这些价值观是我们社会的基石，在不断变化的世界中提供稳定性和连续性。然而，我们也必须承认，进步对于增长是必要的，过于拘泥于过去会扼杀创新和机会。 另一方面，自由主义者倡导平等、正义和进步。它们提醒我们有必要挑战任何地方的不公正和不平等，并努力建设一个人人都有平等成功机会的社会。然而，重要的是要认识到，快速变化有时会导致意想不到的后果，我们在追求进步时必须深思熟虑、谨慎行事。 在这些看似不同的意识形态之间找到共同点并不容易，但如果我们要作为一个国家向前迈进，这一点至关重要。我们必须认识到，保守主义和自由主义都不能垄断真理，通过以开放的心态和思想相互倾听，我们可以找到对我们所有人都有利的解决方案。 这一努力的核心在于妥协的原则。妥协并不意味着放弃我们的原则或背叛我们的价值观；相反，它要求我们搁置分歧，共同努力实现共同目标。这意味着找到共识并在此基础上进一步发展，而不是仅仅关注我们的分歧。 本着这种妥协的精神，让我们齐心协力，解决我们国家面临的紧迫挑战——从经济不平等到气候变化。从医疗保健到移民的变化。让我们抛开党派争吵和意识形态纯洁性，专注于将我们作为美国人团结起来的东西。 我们可以共同建设一个尊重保守派和自由派理想的未来 — — 一个传统与进步、个人的未来。责任和社会正义不是相互排斥的，而是相辅相成的。这并不容易，但值得。 因此，让我们超越过去的分歧，拥抱合作与理解的新时代。让我们搭建桥梁而不是围墙，让我们共同努力，为所有美国人创造一个更光明、更包容的未来。 团结一致， [你的名字] 这种叙述力求在保守派和自由派理想之间取得平衡，强调妥协、合作和理解对于推动我们国家前进的重要性。 ummmmmmmmmmmmmmm 好的    由   提交/u/Healthy_Top_4111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnokex/it_wrote_me_a_speech_on_uniting_the_us_i_just/</guid>
-      <pubDate>Thu, 09 May 2024 04:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我要求它写一个关于冒险时间的丢失的剧集（附上我在 10 分钟内制作的一张蹩脚的快速图片）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnof9r/i_asked_it_to_write_a_lost_episode_about/</link>
-      <description><![CDATA[      标题：Ooo 的空旷之地 在失落媒体的编年史中，有一个在 Ooo 的铁杆粉丝中低声耳语的故事冒险时间。这是一个关于失落剧集的故事，深入探究了 Ooo 之地最黑暗的深处，只留下了耳语和怪异的屏幕截图作为其存在的证据。 据传该集的标题为“Ooo Land”。荒凉，”这是一个适合在其框架内展开的令人毛骨悚然的事件的名称。它的开头与《冒险时光》的其他剧集一样，狗杰克在舒适的树堡中醒来，准备与他的好友人类芬恩一起度过新的一天。 然而，当杰克走进充满活力的世界时，噢，他注意到一些令人不安的事情。整片土地都没有生命。没有糖果人，没有在田野里漫步的生物，甚至没有风吹过树林的沙沙声。就好像世界被时间冻结了，陷入无尽的虚空之中。 当杰克拼命寻找生命的迹象时，孤独开始侵蚀他的心灵。他开朗的举止被偏执和绝望所取代。声音在空虚中回响，嘲笑着他，低声诉说着他无法理解的秘密。 杰克被逼到了疯狂的边缘，当他努力应对孤独的可怕现实时，他曾经嬉戏的滑稽动作变得险恶。他开始质疑自己的存在、记忆，甚至与芬恩的友谊。 当杰克完全崩溃并被疯狂吞噬时，他倒在地上，周围什么也没有，这一集达到了高潮。空旷的Ooo。屏幕逐渐变黑，整整一分钟，除了荒凉的风景中呼啸而过的令人难以忘怀的风声之外，什么也没有。 自称看过这一集的粉丝讲述了这一集如何让他们震惊不已。核心，无法摆脱在屏幕变暗后很长一段时间里挥之不去的存在恐惧感。他们在论坛上剖析每一帧画面，寻找线索和理论来理解这一神秘事件。 但随后，论坛一个接一个地消失了，仿佛被同一片虚空所吞噬。噢之国。只剩下一张屏幕截图，杰克一动不动地躺在空虚中的颗粒状图像，令人难以忘怀地提醒人们敢于探索探险活宝宇宙最黑暗角落的那一集。   由   提交/u/Silver_Wolf2143  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnof9r/i_asked_it_to_write_a_lost_episode_about/</guid>
-      <pubDate>Thu, 09 May 2024 04:14:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Plus 订阅</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnoes2/chatgpt_plus_subscription/</link>
-      <description><![CDATA[我一直在尝试将我的 GPT 帐户升级到 Plus，但我的卡不断被拒绝。我来自菲律宾。他们只接受银行卡付款吗？  谢谢。    由   提交 /u/Parzival_Aureus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnoes2/chatgpt_plus_subscription/</guid>
-      <pubDate>Thu, 09 May 2024 04:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 ChatGPT 的替代方案</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnobuk/exploring_alternatives_to_chatgpt/</link>
-      <description><![CDATA[我已经使用 ChatGPT 一段时间了，它是一个令人难以置信的工具。但是，我很好奇还有哪些其他类似的机器人或人工智能服务，例如 Mua 聊天机器人 Personal AI 和 Microsoft Copilot，可能会提供不同的功能或体验。 除了 ChatGPT 之外，您还使用过其他人工智能聊天机器人吗？你的经历是什么样的？与 ChatGPT 相比，您是否发现任何特定的优点或缺点？   由   提交/u/disgustedclothing48  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnobuk/exploring_alternatives_to_chatgpt/</guid>
-      <pubDate>Thu, 09 May 2024 04:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个女孩在动物园迷路了......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1cnoavj/a_girl_gets_lost_at_the_zoo/</link>
-      <description><![CDATA[我根据 Ai 生成的热门歌曲“Blue jeans and Bloody Tears”的无意义歌词创作了一首歌曲。讲述一个女孩和男友去动物园迷路的故事。我用 Udio 制作了这首歌，但我自己创作了无意义的歌词，然后我用 Dalle-3 为音乐视频获取了一些 AI 艺术。  有点奇怪...XD https://youtu.be/ZsD0cgHzujQ   由   提交 /u/SpaceGodziIIa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1cnoavj/a_girl_gets_lost_at_the_zoo/</guid>
-      <pubDate>Thu, 09 May 2024 04:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

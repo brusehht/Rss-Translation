@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Sun, 05 May 2024 09:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:12:17 GMT</lastBuildDate>
+    <item>
+      <title>使用 Intel Gaudi 2 和 Intel Xeon 构建经济高效的企业 RAG 应用程序</title>
+      <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>推出希伯来语法学硕士开放排行榜！</title>
       <link>https://huggingface.co/blog/leaderboard-hebrew</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>将人工智能分析 LLM 绩效排行榜引入 Hugging Face</title>
+      <title>将人工分析 LLM 绩效排行榜带到拥抱面前</title>
       <link>https://huggingface.co/blog/leaderboard-artificial-analysis</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-artificial-analysis</guid>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在拥抱脸部端点上运行隐私保护推理</title>
+      <title>在拥抱人脸端点上运行隐私保护推理</title>
       <link>https://huggingface.co/blog/fhe-endpoints</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fhe-endpoints</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/idefics2</guid>
       <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉语言模型解释</title>
-      <link>https://huggingface.co/blog/vlms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/vlms</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
