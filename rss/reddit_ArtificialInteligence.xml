@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 10 May 2024 03:12:11 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 10 May 2024 06:14:54 GMT</lastBuildDate>
+    <item>
+      <title>训练 AIS 识别 AIS 生成的 DeepFakes</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cohjra/training_ais_to_recognise_deepfakes_generated_by/</link>
+      <description><![CDATA[使用 AIS 来（持续）训练识别深度伪造的 AIS。几乎被遗忘的生态学家托马斯·S·雷 (Thomas S. Ray) 的著名作品和他 1990 年的 Tierra 项目旨在证明进化论，他最终成功诱导了宿主-寄生虫共同进化？这会是从认知人工智能到元认知人工智能的飞跃吗？ （我不认为这是一个问题）。我在这里担心的是人类对这样一个系统的滥用。  Meta 和可能其他人正在宣布类似的系统 - 我真的很想听听您对此事的意见，因为显然这种培训的另一个方向应该导致识别的手段和方式 - 直接强加手段以及如何不识别的方法。    由   提交 /u/scertic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cohjra/training_ais_to_recognise_deepfakes_generated_by/</guid>
+      <pubDate>Fri, 10 May 2024 05:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，OpenAI 计划周一宣布推出谷歌搜索竞争对手</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cofvxv/openai_plans_to_announce_google_search_competitor/</link>
+      <description><![CDATA[https://www.reuters.com/technology/openai-plans-announce-google-search-competitor-monday-sources-say-2024-05-09/   由   提交 /u/BiggerGeorge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cofvxv/openai_plans_to_announce_google_search_competitor/</guid>
+      <pubDate>Fri, 10 May 2024 03:23:18 GMT</pubDate>
+    </item>
     <item>
       <title>ElevenLabs 首次克隆新西兰口音</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coar2d/introducing_the_firstever_cloned_new_zealand/</link>
@@ -15,16 +29,16 @@
     <item>
       <title>对于冗长的连续文本响应来说，最好的人工智能工具是什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1coamlr/whats_the_best_ai_tool_for_lengthy_continuous/</link>
-      <description><![CDATA[正如标题所说，我正在做一项工作，需要发送提示以使用人工智能生成问题。我需要能够快速生成大量问题的人工智能工具，因为我计划在多个选项卡上打开它们并同时运行它们。我尝试在不同的选项卡上仅使用 chatgpt，但并不顺利   由   提交/u/pauloviz_  [链接] [评论]]]></description>
+      <description><![CDATA[正如标题所说，我正在做一项工作，需要发送提示以使用人工智能生成问题。我需要能够快速生成大量问题的人工智能工具，因为我计划在多个选项卡上打开它们并同时运行它们。我尝试在不同的选项卡上使用 chatgpt，但并不顺利    提交人    /u/pauloviz_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1coamlr/whats_the_best_ai_tool_for_lengthy_continuous/</guid>
       <pubDate>Thu, 09 May 2024 22:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 LLM 似乎无法正确引用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co90z4/why_cant_llms_seem_to_cite_properly/</link>
-      <description><![CDATA[我一直在尝试不同的法学硕士。我发现一些模型（主要是 Pi 和副驾驶）如果我足够具体地提示他们，我可以让他们引用我几乎逐字写下的零归因的东西。然后，当我提示它给我一个被引用的作品页面时，它要么给我错误/错误的引用，要么直截了当地说它不能引用它所训练的特定数据。我的背景是社会科学和人文学科，所以有人可以向我解释为什么这些模型无法很好地引用（如果有的话）的技术原因吗？另外，法学硕士在引用方面如此糟糕，这不是有点错误/不道德吗？    由   提交/u/EighthFirstCitizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co90z4/why_cant_llms_seem_to_cite_properly/</guid>
-      <pubDate>Thu, 09 May 2024 21:49:35 GMT</pubDate>
+      <title>为什么 OpenAI Alignment 的研究人员如苍蝇般掉落？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co995d/why_are_openai_alignment_researchers_dropping/</link>
+      <description><![CDATA[近几个月来，我们看到 Daniel Kokotajlo、William Saunders、Leopold Aschenbrenner、Pavel Izmailov、Cullen O&#39;Keefe 的离开...这不是明确 Ilya Sutskever 是否还在那里工作。所有这些员工都致力于协调工作，其中一些是团队的关键成员。  Daniel Kokotajlo 的 p(doom) 是 70%。他们看到了什么？公司安全团队中发生的事情导致这些员工像苍蝇一样掉落。这并不让人放心。今天在 Business Insider 中概述了这一点的相关文章：https:/ /www.businessinsider.com/openai-safety-researchers-quit-superalignment-sam-altman-chatgpt-2024-5?amp  &amp;# 32；由   提交 /u/tall_chap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co995d/why_are_openai_alignment_researchers_dropping/</guid>
+      <pubDate>Thu, 09 May 2024 21:59:45 GMT</pubDate>
     </item>
     <item>
       <title>开源书籍</title>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 20:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是否会发展出一种与人类创造力难以区分的创造力，从而模糊人工智能和人类创造力之间的界限？</title>
+      <title>人工智能是否会发展出一种与人类创造力无法区分的创造力，从而模糊人工智能和人类创造力之间的界限？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1co7el5/will_ai_develop_a_sense_of_creativity_that_is/</link>
       <description><![CDATA[这让我思考，如果人工智能真的能够产生与人类创作无异的创意作品，在一个作者身份的世界里，我们该如何定义和保护知识产权呢？变得模糊？   由   提交 /u/theconceptualmind   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1co7el5/will_ai_develop_a_sense_of_creativity_that_is/</guid>
@@ -55,28 +69,14 @@
       <pubDate>Thu, 09 May 2024 17:56:50 GMT</pubDate>
     </item>
     <item>
-      <title>GPT Zero 真的有效吗？</title>
+      <title>GPT 零真的有效吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnyx2b/does_gpt_zero_really_work/</link>
       <description><![CDATA[所以，我是一名高中三年级学生，即将成为一名即将升入高年级的学生，到目前为止，我们正在为我们未来的大学制定草稿课堂上的论文。现在，我的老师有一项政策，所有的论文都将用 GPT 零进行审查，我清楚地记得我的男朋友告诉我他是如何遇到这个错误的，他的论文被认为是由人工智能写的，而他所使用的只是语法。因此，当我决定亲自检查我的内容时，它说整个内容都是使用人工智能编写的，只有当我简化文本并使用不太复杂的术语时，它才会说它是由人类编写的。我很困惑。    由   提交/u/Holiday_Ad_8631   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnyx2b/does_gpt_zero_really_work/</guid>
       <pubDate>Thu, 09 May 2024 14:41:31 GMT</pubDate>
     </item>
     <item>
-      <title>我们是否陷入了这样一个循环：机器人创建内容，将其上传到虚假的个人资料，然后其他机器人与之互动，直到它出现在每个人的提要中？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnwp5k/are_we_stuck_in_a_cycle_where_bots_create_content/</link>
-      <description><![CDATA[到 2024 年，所有互联网流量的一半以上将首次来自机器人（请参阅此处的文章：https://www.daniweb.com/community-center/op-ed /541901/dead-internet-theory-is-the-web-dying)  我们都见过人工智能生成的“看看我儿子做了什么”——图片疯传。 “死亡互联网理论”的搜索量今年在 Google 趋势上的排名大幅上升。 &lt;在垃圾邮件、中心化、货币化等问题之间，恕我直言，网络的发展已经有一段时间不太顺利了。但我认为大量自动生成的内容实际上可能会毁掉网络。 您对此有何看法？ ​ ​    由   提交 /u/light  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnwp5k/are_we_stuck_in_a_cycle_where_bots_create_content/</guid>
-      <pubDate>Thu, 09 May 2024 13:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国工厂中的人形机器人视频并不像人们想象的那么令人鼓舞</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnw4wq/video_of_humanoid_robots_in_a_chinese_factory_is/</link>
-      <description><![CDATA[一段来自中国人形机器人工厂内部的 20 秒视频在社交媒体上引起轰动。它展示了各种正在建造中的高度逼真、部分蒙皮的类人生物。  https://www.ovniologia.com.br/2024/05/video-de-robos- humanoides-em-fabrica-da-china-e-menos -animador-do-que-se-imagina.html?m=1   由   提交/u/Few-Try-2056   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnw4wq/video_of_humanoid_robots_in_a_chinese_factory_is/</guid>
-      <pubDate>Thu, 09 May 2024 12:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>还值得上大学吗？</title>
+      <title>上大学还有价值吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cnund7/is_it_even_worth_going_to_college_anymore/</link>
       <description><![CDATA[例如，当几乎所有学科都可以相对较快地实现自动化时，为什么还要费心去获得大多数学科的学位呢？毕业生失业已经是全世界的一个长期问题，人工智能将抢走越来越多的工作。 有些人对未来仍然乐观，但我很清楚 - 人工智能将抢走工作，失业率将会上升，生活质量会下降。人工智能已经抢走了比大多数人意识到的更多的工作，主要是通过机会成本，这就是公司学习如何整合时“失去的就业机会”。 我最近担任市场研究员，我们已经结束了员工100人。今天几乎整个工作都可以自动化。所以最终，他们会的。企业有兴趣获得回报。这就是为什么对人工智能已经失去了多少工作岗位的估计结果很模糊的部分原因。  未来的解决方案是什么？直升机撒钱真的是唯一的解决方案吗？ 至于我最初的问题 - 假设您 16 岁，想攻读会计学士学位 - 您是否应该在 5-10 岁的时候费心去完成它几年内这些工作的供应量将大幅收缩？   由   提交 /u/inflated_ballsack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cnund7/is_it_even_worth_going_to_college_anymore/</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>谷歌 DeepMind 的新人工智能可以模拟 DNA、RNA 和“所有生命的分子”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/</link>
-      <description><![CDATA[Google DeepMind 推出了其 AI 模型的改进版本，该模型不仅可以预测蛋白质的结构，还可以预测“所有生命分子”的结构。来自新模型 AlphaFold 3 的工作将帮助医学、农业、材料科学和药物开发领域的研究人员测试潜在的发现。 想在 AI 和技术领域保持领先地位吗？看这里。 要点：  AlphaFold 3 可以预测所有生命分子的结构，而不仅仅是蛋白质，包括 DNA、RNA 和更小的分子。这比以前的版本有了显着的改进。 AlphaFold 3 使用与 AI 图像生成器类似的方法来预测不同分子如何组合在一起。这种方法称为扩散。 DeepMind 正在免费向一些研究人员提供 AlphaFold 3 和 AlphaFold Server，重点是非商业用途。他们还在考虑生物安全风险的情况下负责任地部署该模型。  来源（The Verge） PS：如果您喜欢这篇文章，您一定会喜欢我的由 ML 提供支持的时事通讯，它总结了来自 50 多个媒体来源的最佳 AI/科技新闻。它已经被 OpenAI、HuggingFace、Apple 的 数百名专业人士 阅读...    提交人    /u/Rare_Adhesiveness518   [link] [评论]]]></description>
+      <description><![CDATA[Google DeepMind 正在推出其 AI 模型的改进版本，该模型不仅可以预测蛋白质的结构，还可以预测“所有生命分子”的结构。 新模型的成果，AlphaFold 3，将帮助医学、农业、材料科学和药物开发领域的研究人员测试潜在的发现。 想要在人工智能和技术领域保持领先地位吗？ 看看这里。 要点： &lt; ul&gt; AlphaFold 3，可以预测所有生命分子的结构，而不仅仅是蛋白质，包括DNA、RNA和更小的分子。与之前的版本相比，这是一个重大改进。 AlphaFold 3 使用与 AI 图像生成器类似的方法来预测不同分子如何组合在一起。这种方法称为扩散。 DeepMind 正在向一些研究人员免费提供 AlphaFold 3 和 AlphaFold 服务器，重点关注非商业用途。他们还在考虑生物安全风险的情况下负责任地部署该模型。  来源 (The Verge) PS：如果您喜欢这篇文章，您一定会喜欢我的ML 驱动的时事通讯，总结了来自 50 多个媒体来源的最佳人工智能/科技新闻。来自OpenAI、HuggingFace、Apple...    的数百名专业人士已经阅读了它。由   提交/u/Rare_Adhesiveness518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cngt24/google_deepminds_new_ai_can_model_dna_rna_and_all/</guid>
       <pubDate>Wed, 08 May 2024 22:04:08 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
