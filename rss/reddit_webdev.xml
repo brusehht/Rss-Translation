@@ -4,11 +4,67 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 May 2024 09:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:21:24 GMT</lastBuildDate>
+    <item>
+      <title>你们现在都在哪里找工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1conxhr/where_are_you_guys_looking_for_jobs_now_a_days/</link>
+      <description><![CDATA[已经退出市场一段时间了，但可能很快就需要重新开始寻找。所以我有点不了解现在 php/javascript 领域或一般 Web 开发中好的工作岗位。    由   提交  /u/IAmRules   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1conxhr/where_are_you_guys_looking_for_jobs_now_a_days/</guid>
+      <pubDate>Fri, 10 May 2024 12:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>白标 WordPress 设计师和开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cons4h/white_labeled_wordpress_designers_developers/</link>
+      <description><![CDATA[我正在寻找位于美国的英语公司或个人，他们是 WordPress 设计或 WordPress 开发方面的专家。有人有任何他们有过经验的建议吗？如果值得的话我不怕付出。谢谢。   由   提交 /u/Show-Me-The-Mon3y   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cons4h/white_labeled_wordpress_designers_developers/</guid>
+      <pubDate>Fri, 10 May 2024 11:57:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有类似medium之类的网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1con7g5/any_website_like_medium/</link>
+      <description><![CDATA[嗨， 我想知道您会访问哪个网站来跟上最新趋势或只是阅读以下文章可能对你的框架有用。 我喜欢medium，但我不想为此付费，而且推送给我的大部分文章都是高级文章。 谢谢！&lt; /p&gt;   由   提交 /u/F2DProduction   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1con7g5/any_website_like_medium/</guid>
+      <pubDate>Fri, 10 May 2024 11:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么好工具可以将远程服务器克隆到本地环境？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1comumk/any_good_tools_for_cloning_remote_servers_onto/</link>
+      <description><![CDATA[我今天安装了 LocalWP（从远程 WP 安装创建本地 WP 环境），它的使用流畅性给我留下了深刻的印象。 现在我想知道是否有任何东西像这样易于使用，但不仅仅适用于 Wordpress（适用于我远程构建的网站，但最好将其转移到本地到生产工作流程）？   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1comumk/any_good_tools_for_cloning_remote_servers_onto/</guid>
+      <pubDate>Fri, 10 May 2024 11:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>检查元素和查看源代码中的代码差异</title>
+      <link>https://www.reddit.com/r/webdev/comments/1comepy/differences_between_code_in_inspect_element_and/</link>
+      <description><![CDATA[我正在查看一个网站，特别是一个 &lt;p&gt;在检查元素中。这个&lt;p&gt;在查看源代码中不可用。特定的&lt;p&gt;也没有出现在网站所有者公开的 GitHub 存储库中。 那么 GitHub 存储库可能与网站的实时版本不同？也许 GitHub 存储库代码较旧，而实时版本有较新的代码？ 或者该特定段落可能是从其他地方加载的，因此它不会直接出现在“查看源代码”或 GitHub 中，但由于加载，它存在于检查元素中吗？  我描述的情况是网络开发中的常见情况吗？我是一个绝对的初学者，很抱歉问了这个愚蠢的问题。我试图解决的具体用例是，我希望通过在我的机器上本地安装 GitHub 存储库，我能够在本地运行该项目，然后使用 UI/UX。我已经能够在本地运行该项目，但 Supabase PostgreSQL 数据库出现问题。该项目在本地看起来不像现场版本。所以我不确定这种差异是由于我对 Supabase 的解决方法还是其他原因造成的。谢谢。   由   提交/u/CautiousAd6486   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1comepy/differences_between_code_in_inspect_element_and/</guid>
+      <pubDate>Fri, 10 May 2024 10:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React 和 Shadcn UI 构建的 <TimePickerInput /> 组件。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1comdi0/timepickerinput_component_built_with_react_and/</link>
+      <description><![CDATA[   /u/___Nazgul  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1comdi0/timepickerinput_component_built_with_react_and/</guid>
+      <pubDate>Fri, 10 May 2024 10:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>从添加到网站主页的 YouTube 短片中删除频道名称/订阅按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1coldd9/removing_name_of_channel_subscribe_button_from/</link>
+      <description><![CDATA[大家好， 简单的问题。我在我的网站主页上添加了一些 YouTube 短片，这些短片在移动版本上看起来很棒，但在桌面版本上，每个视频上都会显示 YouTube 频道的名称和订阅按钮，使其看起来非常不专业。 有什么办法可以去掉这个吗？  谢谢！    由   提交/u/Popular_Wish_340  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1coldd9/removing_name_of_channel_subscribe_button_from/</guid>
+      <pubDate>Fri, 10 May 2024 09:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于上传徽标的样机生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1col9ih/mockup_generator_for_uploading_logos/</link>
+      <description><![CDATA[      嘿，网络开发人员， 我的 JTL 在线商店需要一个网络插件，该插件允许将徽标上传到自行创建的 3D 模型文件，以便可以将徽标放置在模型上。我会自己为模型创建 3D 文件（它们是特定的包装，类似于图片）。然后，客户应该能够以 PDF 或 PNG 格式上传他们的徽标，它将作为包装的正面，以便他们可以看到它的外观。 https://preview.redd.it/atk73m2jgkzc1.png?width=1920&amp;format= png&amp;auto=webp&amp;s=084cde9df89d1d51fdacec6b6133f6fd8b084180 是否已经有现有的插件或实现此计划的方法？不幸的是，到目前为止我还没有找到任何东西。 谢谢！   由   提交/u/The_Satorial  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1col9ih/mockup_generator_for_uploading_logos/</guid>
+      <pubDate>Fri, 10 May 2024 09:17:03 GMT</pubDate>
+    </item>
     <item>
       <title>项目主题</title>
       <link>https://www.reddit.com/r/webdev/comments/1col7bg/project_topics/</link>
-      <description><![CDATA[我目前正在攻读计算机工程学位，我想开发一个项目，但我想不出任何主题，你们能建议一些好的主题吗？    提交人    /u/Itsscienceboy   [link] [comments]]]></description>
+      <description><![CDATA[我目前正在攻读计算机工程学位，我想开发一个项目，但我想不出任何主题可以做，你们可以吗？推荐一些好的主题？   由   提交 /u/Itsscienceboy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1col7bg/project_topics/</guid>
       <pubDate>Fri, 10 May 2024 09:12:28 GMT</pubDate>
     </item>
@@ -22,7 +78,7 @@
     <item>
       <title>防病毒软件在我们的网站上专门针对病毒</title>
       <link>https://www.reddit.com/r/webdev/comments/1cokvko/antivirus_dedicated_a_virus_in_our_website/</link>
-      <description><![CDATA[您好， 最近，当进入我的网站时，我的反病毒软件 (avast) 弹出一条通知，称该网站存在病毒www.topcreativeformat 你熟悉这个吗？我该如何解决这个问题？   由   提交 /u/Wambels   [链接] [评论]]]></description>
+      <description><![CDATA[***检测到 你好， 最近进入我的网站时，我的反病毒 (avast)弹出一条通知，指出名为 www.topcreativeformat 的网站中存在病毒 您熟悉此内容吗？我该如何解决这个问题？   由   提交 /u/Wambels   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cokvko/antivirus_dedicated_a_virus_in_our_website/</guid>
       <pubDate>Fri, 10 May 2024 08:48:57 GMT</pubDate>
     </item>
@@ -43,7 +99,7 @@
     <item>
       <title>调试延迟加载</title>
       <link>https://www.reddit.com/r/webdev/comments/1cokc4c/debugging_lazy_loading/</link>
-      <description><![CDATA[我在页面上有一个缩略图的滑动图像库，所有图像都标记为“loading=lazy”。但是，在网络选项卡中，所有图像都会立即加载，而不仅仅是视图中的图像。我想知道是否有人遇到过类似的延迟加载问题以及他们是如何解决的   由   提交 /u/Virtual_Hedgehog   [链接] [评论]]]></description>
+      <description><![CDATA[我在页面上有一个滑动缩略图图库，所有图片都标记为loading=lazy。但是，在网络选项卡中显示所有图片都是一次加载的，而不仅仅是视图中的图片。我想知道是否有人遇到过类似的延迟加载问题以及他们是如何解决的    提交人    /u/Virtual_Hedgehog   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cokc4c/debugging_lazy_loading/</guid>
       <pubDate>Fri, 10 May 2024 08:09:54 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我有一个房地产博客，我想在其中嵌入街景图像以显示房屋和社区设施的示例。 Google 不允许使用屏幕截图，因此嵌入是唯一的选择。 每篇博文可能有 5-10 个屏幕截图。这足以真正减慢页面速度吗？   由   提交/u/bojanradovic5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1coj8r1/will_510_google_mapstreet_view_embeds/</guid>
       <pubDate>Fri, 10 May 2024 06:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以用什么最好的网络服务来为公司制作一个简单的网站，并可以在以后添加一些电子学习课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coj63w/whats_the_best_web_service_i_can_use_to_make_a/</link>
-      <description><![CDATA[您好， 我以前是个业余爱好者，但是情况发生了变化，我需要快速为一家公司制作一个网站稍后可能需要添加一些课程。  我应该使用什么服务？   由   提交/u/Anonymous_886  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coj63w/whats_the_best_web_service_i_can_use_to_make_a/</guid>
-      <pubDate>Fri, 10 May 2024 06:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用什么托管服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coizhc/what_hosting_services_to_use/</link>
-      <description><![CDATA[我正在寻找你们在网络托管服务方面的经验，并希望能得到一些问题的答案。 我需要一个多页面网站，用作图库和联系人登录页面，其中包含显示常见问题解答的页面和一般信息页面。  我擅长 HTML 和 Python，并协助在 WordPress 等拖放构建器上构建网站，但我缺乏关于网站托管实际工作原理的知识。  我通过 A2 购买了域名和服务（？），但现在我对自己实际支付的费用感到困惑。关于只有一页的部分是我的错误，但我能够下载一个扩展来使用 WordPress。在预览中，它显示我的域名具有 .wordpress 扩展名。用户可以看到吗？有了这个，我的网站上可以有多个页面吗？ 我的第二个问题也是主要问题是我是否需要像 A2 这样的服务，如果是的话，他们是否提供比 wordpress 这样的公司更进一步的服务？显然，我获得了技术支持，并且可以直接下载插件，但如果我的网站本质上是一个包含额外信息页面和联系页面的产品组合，我真的需要所有的螺栓和口哨吗？  如果我过度思考整个 WordPress 的事情，我的第二个问题就没有实际意义了。如果我能够使用 wordpress CMC 发布多页面网站，而 .wordpress 不会破坏我美丽的 11 美元域名，我将坚持使用 A2。 感谢您的阅读以及分享的任何有用的信息或建议！&lt; /p&gt;   由   提交/u/kellyfirefly4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coizhc/what_hosting_services_to_use/</guid>
-      <pubDate>Fri, 10 May 2024 06:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果想使用搜索即服务（algolia、typense），sql 与 nosql 作为主数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coinpn/sql_vs_nosql_as_primary_database_if_want_to_use/</link>
-      <description><![CDATA[我想为应用程序项目使用搜索即服务平台（查看 algolia 或 typesense），您可以在其中搜索、评分/评论并获得推荐的餐厅。我知道这些使用基于文档的存储，据我所知，您基本上需要从主数据库复制数据才能对其进行索引（搜索）。我目前在 postgres (sql) 中有我的餐厅数据、评论、评论/评级和喜欢，这样做是因为我想稍后对它们进行分析。我是否应该切换到 nosql 以使其更易于与搜索引擎一起使用，或者您使用的数据库没有显着差异？只是寻找一些指导/权衡，谢谢！   由   提交/u/lavender1357  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coinpn/sql_vs_nosql_as_primary_database_if_want_to_use/</guid>
-      <pubDate>Fri, 10 May 2024 06:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决搜索展示次数降至零的问题（Litespeed、Wordfence、Cloudflare？）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cogm31/troubleshooting_search_impressions_dropping_to/</link>
-      <description><![CDATA[我的网站还不到一年。我从秋季开始在 GSC 中索引帖子，直到三月份，每天的展示次数达到 800-1k。 三月份，我（从 Bluehost）换成了更好的托管公司，开始使用 Litespeed 缓存，并激活了 Wordfence 插件。在那之前，大概是在二月份，我也开始使用 Cloudflare。 现在我的网站根本不出现在 Google 搜索结果中（它也从 DDG 中消失了）。甚至曾经出现在首页上的帖子也不再显示。 但在 GSC 中，我的帖子仍然显示为已编入索引。 我的网络主机建议我尝试禁用 LS、WF 和 CF 来排除故障。 这些可能是罪魁祸首吗？我应该按什么顺序禁用它们？我应该禁用多长时间才能排除每个故障？  任何见解都值得赞赏！    由    /u/lazysupper 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cogm31/troubleshooting_search_impressions_dropping_to/</guid>
-      <pubDate>Fri, 10 May 2024 04:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cogeru/learning_recommendations/</link>
-      <description><![CDATA[您好，我是一名希望进入 Web 开发的软件开发人员，我只是想知道是否有一些经验的人可以告诉我他们是否认为选择在我的框架/语言帖子的底部，对于第一次尝试 Web 开发以培养我的技能的爱好项目来说似乎是合理的。 对于上下文，这是我现有的知识：  非常精通 C、C++、C# 和 Swift 了解 Java、Python 和 SQLite3 对 CRUD 有深入了解， HTTP、关系数据库、UIKit、JavaFX 和各种游戏引擎（我怀疑这是否相关，但我想我应该添加它）。  我已经做了相当多的研究，试图决定我应该从学习哪些工具开始，我过去经常使用 JavaScript/HTML/CSS，并且根据我使用 JavaFX 的经验，我对 XML/CSS 交互有相当多的了解。我认为我总体上理解 JavaScript，但我认为我更喜欢来自主要静态类型语言背景的 TypeScript。 这是我的想法：  使用连接到 MySQL 数据库的 TypeScript 开发 REST API 后端，然后编译为 JavaScript，然后使用 Node.js 运行（我也希望只能由我自己通过某种私钥/身份验证来访问它，不完全确定如何这仍然可以工作） 使用 TypeScript 为网站创建 Next.js 前端，也可能使用 Electron 作为本机应用程序运行。  除了想知道如果这个设置看起来合理，我还想知道使用 Amazon AWS 的数据库解决方案或 Google Firebase 是否真的有任何额外的好处，而不是让我的 REST API 直接连接到 MySQL 数据库？ （我知道这些主要是 NoSQL，我正在考虑从 MySQL 切换，因为我确实预计会在表中处理几百万个条目，但我只是在寻找将其托管在本地计算机上的能力，而不是云计算解决方案，因为定价）的主要区别是这些服务在必要时自动管理水平扩展？ 请原谅我对这些主题的无知，我对软件开发的这方面很陌生，谢谢您的时间和帮助！   由   提交/u/YummyMeat_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cogeru/learning_recommendations/</guid>
-      <pubDate>Fri, 10 May 2024 03:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有 JavaScript 开发人员都需要了解的函数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cofeur/functions_that_all_javascript_developers_need_to/</link>
-      <description><![CDATA[   /u/Puzzleheaded_Ad4030   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cofeur/functions_that_all_javascript_developers_need_to/</guid>
-      <pubDate>Fri, 10 May 2024 02:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果 h3 或 h4 的语义意义不太重要，那么 h3 或 h4 是否应该高于 h2？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coejad/should_an_h3_or_h4_ever_go_above_an_h2_if_its/</link>
-      <description><![CDATA[我有一个带有眉毛的组件，眉毛下方有一个较大的标题。标题更大，对组件的整体主题更重要。眉毛更具补充性。 从可访问性的角度来看，是否允许使用 h3 或 h4 作为眉毛，使用 h2 作为其下方的标题文本，即使从技术上讲眉毛位于标题上方？  例如，  眉毛  标题元素 &lt;/节&gt;    由   提交/u/Calm_Still_8917   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coejad/should_an_h3_or_h4_ever_go_above_an_h2_if_its/</guid>
-      <pubDate>Fri, 10 May 2024 02:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于开发知识有限的人来说，是否有一种快速、简单的方法可以对页面进行密码保护？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1coehdz/is_there_a_quick_easy_way_someone_with_limited/</link>
-      <description><![CDATA[我有自己的作品集网站，托管在 GitHub 上。我了解足够的基本 HTML/CSS，可以轻松进行编辑。我想对某些页面进行密码保护 我看到的大多数建议似乎都需要使用 PHP 并设置服务器。这有点超出了我的舒适区。  我是否只使用像 Wix 或 Pixpa 这样的无代码网站会更好？    由   提交 /u/finnigansbaked   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1coehdz/is_there_a_quick_easy_way_someone_with_limited/</guid>
-      <pubDate>Fri, 10 May 2024 02:07:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

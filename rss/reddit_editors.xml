@@ -4,9 +4,23 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 10 May 2024 09:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:20:52 GMT</lastBuildDate>
     <item>
-      <title>我们明天可以拿到这个吗？</title>
+      <title>了解修剪模式及其在视频编辑工作流程中的用法</title>
+      <link>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</link>
+      <description><![CDATA[我是 Premiere Pro 用户，我一直对修剪模式功能感到好奇。有人可以解释一下此模式的用途以及如何有效地将其合并到您的工作流程中吗？ 据我了解，修剪模式允许您精确修剪剪辑边缘并通过相应调整周围的剪辑来进行波纹编辑。不过，我对如何与同步素材无缝配合感到有点困惑。 假设您在 V2 上有一些 B-roll 素材，您已仔细安排时间以匹配 V1 上的采访同步。如果您进入修剪模式并开始在 V2 上对这些 b-roll 剪辑进行波纹编辑，这是否可能会使它们与音频不同步？ 对于那些经常使用修剪模式的人，我很乐意了解您如何应对此类情况。您是否遵循特定的工作流程或一组最佳实践来充分利用修剪模式而不影响视频和音频元素之间的同步？ 经验丰富的编辑人员提供的任何见解或提示将不胜感激。我很想了解如何有效地利用修剪模式，同时在必要时保持精确同步。   由   提交 /u/indymoguler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1condrd/understanding_trim_mode_and_its_usage_in_video/</guid>
+      <pubDate>Fri, 10 May 2024 11:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>收入最高的 Youtube 利基以及如何获得高收入客户</title>
+      <link>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</link>
+      <description><![CDATA[  由    /u/Grand_Promotion_2956  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1con4qm/highest_paying_youtube_niches_and_how_to_get_high/</guid>
+      <pubDate>Fri, 10 May 2024 11:20:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们明天能拿到这个吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cokxgn/can_we_get_this_tomorrow/</link>
       <description><![CDATA[您的 AE 询问您，这很可能意味着： A。明天中午之前 B. EOD    由   提交 /u/born2droll   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cokxgn/can_we_get_this_tomorrow/</guid>
@@ -15,9 +29,16 @@
     <item>
       <title>导出的视频质量明显低于我在时间轴上看到的质量</title>
       <link>https://www.reddit.com/r/editors/comments/1coktao/export_of_video_is_significantly_lower_quality/</link>
-      <description><![CDATA[我有点困惑，我在 Premiere 中剪辑了一部电影，在时间线上看起来很棒，但是当我导出时，质量非常非常糟糕。太糟糕了。 我可以通过导出 DNxHR/DNxHD MXF 0P1a 来修复它，但是当导出为 H.264 时，它又变得很糟糕。 我做错了什么，我怀疑是我的序列设置，但我说不出原因。 我使用的是 DJI Inspire 2 的 DNG 文件和 DJI Ronin 4D 的 Prores Raw    提交人    /u/DistinctDuck9930   [链接] [评论]]]></description>
+      <description><![CDATA[我有点困惑，我在首映时剪辑了一部在时间线上看起来很棒的电影，但是当我导出时，质量真的很差，特别糟糕。太糟糕了。 我可以通过导出 DNxHR/DNxHD MXF 0P1a 来修复它，但是当导出为 H.264 时，情况又很糟糕。 我做错了什么，我怀疑它是我的序列设置，但我无法确定它。 我使用的是 DJI Inspire 2 中的 DNG 文件和 DJI Ronin 4D 中的 Prores Raw   由   提交 /u/DistinctDuck9930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1coktao/export_of_video_is_significantly_lower_quality/</guid>
       <pubDate>Fri, 10 May 2024 08:44:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>SANDISK G RAID MIRROR 36 TB - 将文件复制到磁盘后“磁盘损坏且无法读取”</title>
+      <link>https://www.reddit.com/r/editors/comments/1coj1we/sandisk_g_raid_mirror_36_tb_after_copying_files/</link>
+      <description><![CDATA[嘿伙计们， 我得到了新的 G raid 镜像 36 TB - 将其置于 raid 模式 0 - 在复制一定数量后将数据写入磁盘 - 大约 6 TB - 磁盘显示“磁盘损坏且无法读取” - 唯一的方法就是重新格式化。然后它看起来又像一个正常的磁盘 - 但再次尝试复制文件 - 我再次收到损坏的消息... 有什么想法吗？ 谢谢   由   提交 /u/Kls41   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1coj1we/sandisk_g_raid_mirror_36_tb_after_copying_files/</guid>
+      <pubDate>Fri, 10 May 2024 06:38:55 GMT</pubDate>
     </item>
     <item>
       <title>I/O 协调员需要了解哪些元数据并具备哪些经验？</title>
@@ -29,7 +50,7 @@
     <item>
       <title>如果您的客户说您的产品正在使用人工智能工具，但坦白说您没有使用，该怎么办？</title>
       <link>https://www.reddit.com/r/editors/comments/1cog27w/what_if_your_client_said_your_product_is_using_ai/</link>
-      <description><![CDATA[嗨，我花了数周时间在这个项目上。然而，当我把它提交给我的客户时，三天后他回来告诉我不能付钱，因为这个项目似乎是人工智能制作的。那一刻我震惊了。每次我试图解释，他都拒绝理解    提交人    /u/Alert_Potato_6346   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我在这个项目上花了几周时间。然而，当我将其提交给客户时，三天后他回来说他无法付款，因为该项目似乎是人工智能制作的。那一刻我震惊了。每次我试图解释，他都不肯理解   由   提交/u/Alert_Potato_6346   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cog27w/what_if_your_client_said_your_product_is_using_ai/</guid>
       <pubDate>Fri, 10 May 2024 03:33:07 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>切换到 After Effects 2024？</title>
       <link>https://www.reddit.com/r/editors/comments/1codvp6/switch_to_after_effects_2024/</link>
-      <description><![CDATA[自 AE 2022 发布以来我一直在使用它，我想知道是否应该切换到 AE 2024？有什么大的积极差异吗？    由   提交/u/chicberry  [链接] [评论]]]></description>
+      <description><![CDATA[自从 AE 2022 发布以来，我一直在使用它，我想知道我是否应该切换到 AE 2024？有什么大的积极差异吗？    提交人    /u/chicberries   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1codvp6/switch_to_after_effects_2024/</guid>
       <pubDate>Fri, 10 May 2024 01:36:23 GMT</pubDate>
     </item>
@@ -76,13 +97,6 @@
       <pubDate>Thu, 09 May 2024 14:48:54 GMT</pubDate>
     </item>
     <item>
-      <title>如何在自由职业者简历中列出经常性预订？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cntlgp/how_to_list_recurring_bookings_on_freelance_resume/</link>
-      <description><![CDATA[仅供参考：我在企业/商业领域工作，而不是在电视或电影领域工作，因此仅使用像 Talent Manager 这样的东西并不是常态！ 人们如何列出回头客，尤其是一些持续进行的客户，例如夏季活动工作？ 我听说人们做“季节性”工作，但这似乎有点不对……就像我在进行假日旅游一样！ 所以目前我有： 公司 - 工作（2021 年 6 月 - 2024 年） 但这只是那些年的 5 月，不像是连续的工作？ 公司 - 工作（季节性：2021 年 6 月 - 2024 年） 公司 - 工作（持续：2021 年 6 月 - 2024 年） 公司 - 工作（季节性：2021 年 6 月 / 2022 年 / 2023 年 / 2024 年 6 月）    提交人    /u/Girlagainstthings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cntlgp/how_to_list_recurring_bookings_on_freelance_resume/</guid>
-      <pubDate>Thu, 09 May 2024 10:05:33 GMT</pubDate>
-    </item>
-    <item>
       <title>您首选的代理设置是什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/</link>
       <description><![CDATA[只是想知道你们将代理设置为了什么？  显然，这可能会因 Res 的不同而有所不同。原始镜头的内容，但您显然有一些经验法则？ 编解码器？解决？等等    由   提交/u/Pure-City1444   reddit.com/r/editors/comments/1cnsmw3/what_are_your_preferred_proxy_settings/&quot;&gt;[链接] [评论]]]></description>
@@ -92,23 +106,9 @@
     <item>
       <title>在这种特殊情况下，时间表分辨率是否会影响出口质量？</title>
       <link>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</link>
-      <description><![CDATA[前几天我和某人聊天，突然意识到我从来没有真正考虑过这个特定情况... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有区别吗？1080p 显然使编辑更加流畅，但如果最终交付的是 1080p，那么时间线为 4K 有什么好处吗？首先将 4K 素材放入高清时间线中，质量是否会有明显的损失？    提交人    /u/carterketchup   [链接] [评论]]]></description>
+      <description><![CDATA[前几天我正在与某人交谈，并意识到我从未真正考虑过这个特定的实例... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有什么区别吗？ 1080p 显然使编辑更加流畅，但是当最终交付为 1080p 时，4K 时间线有什么好处吗？首先将 4K 素材放入高清时间轴中是否会造成明显的质量损失？   由   提交 /u/carterketchup   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</guid>
       <pubDate>Thu, 09 May 2024 06:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 AVID Media Composer 2020.4 安装程序吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cno5w0/does_anyone_have_an_avid_media_composer_20204/</link>
-      <description><![CDATA[没有意识到 Avid 放弃了旧版本，而且我在旧驱动器上找不到此版本。如果您收到了 - 如果您能将其发送给我，TIA，我将非常非常非常感谢！    由   提交/u/gengh08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cno5w0/does_anyone_have_an_avid_media_composer_20204/</guid>
-      <pubDate>Thu, 09 May 2024 03:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iconik 下载速度慢</title>
-      <link>https://www.reddit.com/r/editors/comments/1cnntme/iconik_slow_download_speeds/</link>
-      <description><![CDATA[我工作的公司转用 Iconik 来转移项目。我是一名家庭编辑。我们之前用过Box。我通过 AT&amp;T 有 2gig 光纤互联网，Iconik 的下载速度为 10 mbs。速度测试显示家庭互联网的下载速度为 750 mbs。我已经重新启动了路由器、计算机并运行了一些测试，但没有任何解决办法。有任何想法吗？  Iconik   由   提交/u/earthdragon2369   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cnntme/iconik_slow_download_speeds/</guid>
-      <pubDate>Thu, 09 May 2024 03:40:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
