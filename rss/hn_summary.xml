@@ -4,89 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 09 May 2024 18:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:48:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在这篇关于对数尺度的引人入胜且信息丰富的文章中，作者带我们 [...]</title>
-      <link>https://t.me/hn_summary/88763</link>
-      <description><![CDATA[对数刻度
-在这篇关于对数尺度的引人入胜且信息丰富的文章中，作者带领我们踏上了从线性到非线性变换的旅程，最终触及对数尺度的概念。作者巧妙地使用统治者和魔法王国等相关例子来解释对数刻度的好处和应用。他们强调了数据分析中对称性、同方差性和线性的重要性，展示了对数变换如何增强这些方面。作者还谈到了对数基的多功能性，对对数尺度进行了全面的探索。总的来说，这篇文章为复杂的数学概念提供了独特而富有洞察力的视角。]]></description>
-      <guid>https://t.me/hn_summary/88763</guid>
-      <pubDate>Thu, 09 May 2024 18:10:28 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，科学家们绘制出了一个微小p的神经回路[...]</title>
+      <link>https://t.me/hn_summary/88819</link>
+      <description><![CDATA[科学家在微小的大脑样本中发现了 57,000 个细胞和 1.5 亿个神经连接&lt; /a&gt;
+在一项开创性的研究中，科学家们绘制出了人类大脑一小部分的神经回路，揭示了 57,000 个细胞和 1.5 亿个神经连接。这种前所未有的细节水平揭示了大脑中新的复杂性和奥秘，挑战了我们对这个复杂器官的认知。这项研究是哈佛大学和谷歌合作的，利用机器学习来分析脑组织的电子显微镜图像。令人惊讶的发现包括对称的锥体神经元和细胞之间的紧密联系，这可以解释习得的行为。该团队的工作成果可供其他研究人员免费使用，未来计划绘制整个小鼠大脑的图谱，以深入了解人类行为。]]></description>
+      <guid>https://t.me/hn_summary/88819</guid>
+      <pubDate>Fri, 10 May 2024 00:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]scratchdata.com 上内容的作者对为什么“Buckets of Parqu [...]</title>
-      <link>https://t.me/hn_summary/88762</link>
-      <description><![CDATA[成桶的 Parquet 文件太糟糕了
-scratchdata.com 上内容的作者对原因充满热情”一桶桶镶木地板文件”太糟糕了。他们认为，对于那些没有专门团队来管理数据的人来说，将 Parquet 格式的大量数据转储到 S3 存储桶中的常见做法效率低下且存在问题。作者批评了 Postgres 和 DuckDB 等工具在处理 Parquet 文件方面的局限性，并主张采用更有效的方法在本地处理小块数据。他们正在构建 Scratch Data 作为一种解决方案，以简化数据处理并使其更加用户友好。作者邀请合作，并为那些在大数据集上苦苦挣扎的人提供个人帮助。]]></description>
-      <guid>https://t.me/hn_summary/88762</guid>
-      <pubDate>Thu, 09 May 2024 18:00:18 GMT</pubDate>
+      <title>[媒体]墨西哥城，这座拥有2200万人口的城市，由于水资源匮乏，正面临着严重的水危机 [...]</title>
+      <link>https://t.me/hn_summary/88818</link>
+      <description><![CDATA[墨西哥城，一座拥有 2200 万人口的城市，水资源即将枯竭
+墨西哥城，一座拥有 2200 万人口的城市，由于降雨量少和水库水位下降，正面临严重的水危机。水污染、分配不均和地面下沉只是加剧这种情况的一些问题。这场危机并非墨西哥城独有，开普敦和圣保罗等其他城市也面临水资源短缺。解决方案包括更好的水资源管理、废水回收和修复漏水管道。气候变化和城市化是促成因素，因此重新思考我们与水资源的关系至关重要。解决这一紧迫问题需要公众和政治意愿。]]></description>
+      <guid>https://t.me/hn_summary/88818</guid>
+      <pubDate>Fri, 10 May 2024 00:46:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 日本商社三井物产</title>
-      <link>https://t.me/hn_summary/88761</link>
-      <description><![CDATA[日本三井投资2亿美元建设德克萨斯州太阳能发电场 
-日本贸易公司三井物产公司（Mitsui &amp; Co.）采取了一项大胆举措，投资 2 亿美元在以依赖风力发电而闻名的德克萨斯州建造一座太阳能发电厂。该公司旨在通过向国家电网和企业供电来满足对可再生能源不断增长的需求。这项投资体现了三井物产对能源领域可持续发展和创新的承诺。]]></description>
-      <guid>https://t.me/hn_summary/88761</guid>
-      <pubDate>Thu, 09 May 2024 17:54:10 GMT</pubDate>
+      <title>[媒体]文章讨论了苹果最近的广告如何引发广泛批评，象征着 [...]</title>
+      <link>https://t.me/hn_summary/88817</link>
+      <description><![CDATA[讨厌苹果成为主流
+文章讨论了苹果公司最近的广告如何引发广泛批评，象征着人们对这家科技巨头失去善意。作者强调了人们对苹果的态度转变，并将其与 90 年代微软的失宠进行了比较。作者表示，苹果公司作为一家失败者转型为创新者的声誉已经下降，因为他们现在面临着作为一家价值数万亿美元的公司的挑战。文章指出，苹果公司的轻松之路已经结束，这表明需要采取新的方法。笔者预测，苹果在拥抱变革之前可能需要面临更多尴尬时刻。]]></description>
+      <guid>https://t.me/hn_summary/88817</guid>
+      <pubDate>Fri, 10 May 2024 00:42:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenAI 一直通过其首选出版商 Progr 与新闻出版商接触 [...]</title>
-      <link>https://t.me/hn_summary/88760</link>
-      <description><![CDATA[泄露的资料揭示了 OpenAI 如何与出版商建立合作伙伴关系&lt; br/&gt;
-OpenAI 一直通过其首选出版商计划与新闻出版商接触，提供合作激励。泄露的信息揭示了合作伙伴关系的结构，包括财务条款和出版商的利益。 OpenAI 旨在通过 ChatGPT 增加与发布商内容的互动，从而改善用户体验。然而，该计划引发了争议，一些出版商起诉 OpenAI 未经许可使用受版权保护的材料。尽管面临法律挑战，OpenAI 仍继续寻求与出版商合作，以扩大其影响范围并增强其人工智能能力。该计划强调了数字出版商与人工智能技术之间不断发展的关系。]]></description>
-      <guid>https://t.me/hn_summary/88760</guid>
-      <pubDate>Thu, 09 May 2024 17:50:03 GMT</pubDate>
+      <title>[媒体] Apple 将利用 M2 数据中心为其即将推出的 iOS 18 的一些功能提供支持 [...]</title>
+      <link>https://t.me/hn_summary/88816</link>
+      <description><![CDATA[Apple 将通过 M2 Ultra 服务器支持人工智能功能&lt; br/&gt;
+苹果将​​通过使用配备苹果芯片的 M2 Ultra 服务器的数据中心为其即将推出的 iOS 18 的一些功能提供支持。 M2 Ultra 芯片将处理今年及以后计划的高级人工智能任务，未来的服务器有可能使用 M4 芯片。虽然某些任务将在设备上完成，但图像生成和文章摘要等更密集的任务将需要云连接。苹果仍然高度重视隐私，其团队确保用户隐私受到保护。使用云服务器来实现某些功能可能会让一些人感到惊讶，因为苹果通常强调设备上的处理。]]></description>
+      <guid>https://t.me/hn_summary/88816</guid>
+      <pubDate>Fri, 10 May 2024 00:39:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 银翼杀手</title>
-      <link>https://t.me/hn_summary/88759</link>
-      <description><![CDATA[银翼杀手
-《银翼杀手》是一部多年来引发争议和两极分化的电影。从陷入困境的制作到好评如潮，这部电影经历了一段动荡的历史。关于主角戴卡德是否是复制人的争论一直是粉丝和评论家争论的焦点。尽管影片具有令人惊叹的视觉效果和大气的构图，但影片的情感距离和主题的不一致让一些观众对其整体影响感到冷淡。 1997 年改编的电脑游戏《银翼杀手》使讨论变得更加复杂，因为很难区分人们对游戏的反应和对电影的反应。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88759</guid>
-      <pubDate>Thu, 09 May 2024 17:42:54 GMT</pubDate>
+      <title>[媒体]来自外太空？</title>
+      <link>https://t.me/hn_summary/88815</link>
+      <description><![CDATA[来自外太空？农民在田间发现残骸后感到困惑
+萨斯喀彻温省伊图纳的第五代农民。在他们的田地里发现奇怪的残骸后，他们感到很困惑。巴里·索查克 (Barry Sawchuk) 和他的儿子们发现了一块 100 磅重的部件，它似乎被烧焦了，由碳纤维复合材料制成。人们猜测它可能是卫星或航天器的一部分。科学作家 Chris Rutkowski 提到了 20 世纪 60 年代发生的类似事件，涉及在萨斯喀彻温省发现的卫星部件。澳大利亚航天局还调查了一个养羊场的碎片，据信这些碎片来自 SpaceX 火箭。运输安全委员会确认这不是来自飞机，加拿大航天局正在调查此事。]]></description>
+      <guid>https://t.me/hn_summary/88815</guid>
+      <pubDate>Fri, 10 May 2024 00:27:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一次采访中，向拜登总统展示 ChatGPT 的女士表达了担忧 [...]</title>
-      <link>https://t.me/hn_summary/88758</link>
-      <description><![CDATA[向拜登总统展示ChatGPT的女人
-在最近的一次采访中，向拜登总统展示 ChatGPT 的女士表达了对人工智能技术在微软等大公司（收购了 Inflection）的集中化的担忧。总统签署的行政命令旨在解决人工智能技术的竞争、偏见和公平问题。尽管华盛顿特区的一些人对政府干预确定偏见持谨慎态度，但该命令的重点是确保政府使用的人工智能工具不会嵌入偏见。这位女士还强调了人工智能在退伍军人事务部和社会保障管理局等政府服务中使用的潜力，重点是负责任和公正地使用该技术。]]></description>
-      <guid>https://t.me/hn_summary/88758</guid>
-      <pubDate>Thu, 09 May 2024 17:41:48 GMT</pubDate>
+      <title>[媒体]把我的日落还给我！</title>
+      <link>https://t.me/hn_summary/88814</link>
+      <description><![CDATA[把我的日落还给我！Instagram 错误地禁止我的时候
+Meta 错误地指控作者做了一些可怕的事情，导致他们的 Instagram 帐户被暂停。尽管提出上诉，但该帐户被永久禁用，没有任何解释。作者疯狂地联系 Meta/Instagram 的联系人来解决这个问题。最终，该帐户以含糊的道歉恢复。作者强调了对被诬告的个人缺乏追索权，以及他们从互联网上被删除的可怕速度。这次经历被描述为一场噩梦，强调在这种情况下需要更好的沟通和解决流程。]]></description>
+      <guid>https://t.me/hn_summary/88814</guid>
+      <pubDate>Fri, 10 May 2024 00:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网址：shkspr.mobi</title>
-      <link>https://t.me/hn_summary/88757</link>
-      <description><![CDATA[纯文本 WordPress 主题
-标题：纯文本 WordPress 主题
-网站：shkspr.mobi
-
-正在寻找简洁、简洁的 WordPress 主题？别再犹豫了！这个纯文本主题非常基本——只有一个index.php 和style.css 文件。没有花哨的格式，没有图像，没有链接。只是纯粹的、不掺杂任何杂质的文字。它可能不是最复杂的代码，但它可以完成工作。非常适合那些想要简约的博客方式的人。因此，如果您厌倦了所有花哨的内容，请尝试一下这个主题并享受简单性。]]></description>
-      <guid>https://t.me/hn_summary/88757</guid>
-      <pubDate>Thu, 09 May 2024 17:36:39 GMT</pubDate>
+      <title>[媒体] Wprs 项目是 Wayland（以及通过 XWayla 的 X11）的无根远程桌面解决方案 [...]</title>
+      <link>https://t.me/hn_summary/88813</link>
+      <description><![CDATA[Wprs – Wayland（以及 X11，通过 XWayland）的无根远程桌面应用
+Wprs 项目是一个使用 Rust 编写的 Wayland（以及通过 XWayland 的 X11）应用程序的无根远程桌面解决方案。它旨在为 Wayland 应用程序提供类似于 xpra 的远程桌面访问，但重点是 Wayland 支持。该项目的与众不同之处在于，它实现了一个自定义协议，用于在服务器 (wprsd) 和客户端 (wprsc) 之间序列化和传输 Wayland 状态，从而允许会话恢复并提高性能。 XWayland 支持也是单独实现的。该项目承认当前的局限性，并旨在未来支持更多协议。还解决了安全考虑。]]></description>
+      <guid>https://t.me/hn_summary/88813</guid>
+      <pubDate>Fri, 10 May 2024 00:23:53 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的“hnsw”项目是一个用于 Go 的嵌入式 HNSW 库，实现了分层 N [...]</title>
-      <link>https://t.me/hn_summary/88756</link>
-      <description><![CDATA[显示 HN：Go 的可嵌入 HNSW 库
-GitHub 上的“hnsw”项目是一个 Go 的可嵌入 HNSW 库，实现了分层可导航小世界图，用于使用高维矢量数据进行快速近似最近邻搜索。它是 Pinecone 和 Weaviate 等矢量数据库的内存替代方案，提供插入、删除、搜索和查找等基本操作以及相应的复杂性。该项目强调了降低数据维度对性能优化的重要性，并提供了提高速度和内存使用率的建议。作者计划在未来添加持久性/序列化功能。该项目因其在处理矢量数据方面的简单性和效率而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/88756</guid>
-      <pubDate>Thu, 09 May 2024 17:28:31 GMT</pubDate>
+      <title>[媒体]在中世纪的冰岛，猎人接受了狩猎蓝鲸的挑战，蓝鲸是最大的鲸鱼。</title>
+      <link>https://t.me/hn_summary/88812</link>
+      <description><![CDATA[维京时代的猎人猎杀了地球上最大的动物
+在中世纪的冰岛，猎人接受了捕猎蓝鲸的挑战，蓝鲸是地球上最大的动物，以获得宝贵的肉和资源。尽管捕猎如此巨大的生物存在危险和困难，但有证据表明，早在九世纪冰岛人就经常遇到并利用蓝鲸。最近对冰岛各地考古遗址鲸骨的 DNA 分析证实了蓝鲸在冰岛文化中的重要性，挑战了传统捕鲸文化更喜欢较小、更容易接近的鲸鱼物种的观念。由维琪·萨博 (Vicki Szabo) 领导的多学科团队正在为维京时代人类与鲸鱼之间的历史互动提供新的线索。 （根据故事文本的 75% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/88812</guid>
+      <pubDate>Fri, 10 May 2024 00:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 邻避者反对开发以保护其房地产价格的普遍说法是 [...]</title>
-      <link>https://t.me/hn_summary/88755</link>
-      <description><![CDATA[开发帕洛阿尔托价值 1T
-人们普遍认为，邻避者反对开发是为了保护其房价，但这种说法是一个神话。真正的问题是新开发项目可能带来的集中危害，例如拥堵和噪音。通过允许单个开发人员获得利益并支付反对者，开发可以使每个人受益。例如，将帕洛阿尔托变成像曼哈顿下城这样的建筑密集区，扣除建筑成本后可以产生 1 万亿美元的利润。这可能意味着帕洛阿尔托的每个家庭需要花费 3000 万美元，以及重大的基础设施改善。问题依然存在：居民是愿意保护他们价值 300 万美元的房屋，还是愿意从 3000 万美元的意外之财中受益？]]></description>
-      <guid>https://t.me/hn_summary/88755</guid>
-      <pubDate>Thu, 09 May 2024 17:21:24 GMT</pubDate>
+      <title>[媒体]大气中的二氧化碳含量正在破纪录地增加，wi [...]</title>
+      <link>https://t.me/hn_summary/88811</link>
+      <description><![CDATA[大气中二氧化碳含量破纪录上升&lt; br/&gt;
+大气中的二氧化碳含量正在创纪录地增加，在短短一年内就增加了百万分之 4.7。这一激增归因于厄尔尼诺气候事件和人类活动持续产生的温室气体排放。全球二氧化碳浓度已达到426ppm，为数百万年来的最高水平，构成严重气候崩溃的威胁。尽管厄尔尼诺现象过后上升率可能有所下降，但总体趋势仍然令人担忧。二氧化碳浓度的快速上升令人担忧，凸显了采取行动稳定气候和减少排放的迫切需要。]]></description>
+      <guid>https://t.me/hn_summary/88811</guid>
+      <pubDate>Fri, 10 May 2024 00:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉悄然下架美国所有地区</title>
-      <link>https://t.me/hn_summary/88754</link>
-      <description><![CDATA[特斯拉悄悄删除所有美国招聘信息
-特斯拉已悄然删除了所有美国职位招聘信息，这表明在最近的裁员之后，该公司将冻结北美地区的招聘。其制造开发项目中仅列出了三个职位，与几周前的数千个职位形成鲜明对比。首席执行官埃隆·马斯克(Elon Musk)表示，裁员的原因是需要降低成本和提高生产率，预计有超过20,000人受到影响。该公司还出现了备受瞩目的高管辞职和暑期实习机会被撤销的情况。这种情况让许多前雇员感到自己被抛弃了，并对自己的未来感到不确定。特斯拉的快速变革和重组引发了人们对其稳定性和未来走向的担忧。]]></description>
-      <guid>https://t.me/hn_summary/88754</guid>
-      <pubDate>Thu, 09 May 2024 17:12:14 GMT</pubDate>
+      <title>戴尔科技集团目前正在调查一起涉及戴尔门户网站的黑客事件，该门户网站 [...]</title>
+      <link>https://t.me/hn_summary/88810</link>
+      <description><![CDATA[戴尔已被黑客攻击
+戴尔科技集团目前正在调查一起涉及戴尔门户的黑客事件，该门户包含与购买相关的有限客户信息。访问的数据包括姓名、实际地址、戴尔硬件和订单信息，但不包括财务或付款信息。戴尔已采取措施控制这一事件，通知执法部门，并聘请第三方取证公司进行调查。虽然客户面临的风险被认为是有限的，但建议保持警惕并报告与戴尔帐户或购买相关的任何可疑活动。]]></description>
+      <guid>https://t.me/hn_summary/88810</guid>
+      <pubDate>Thu, 09 May 2024 23:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
