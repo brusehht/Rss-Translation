@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 11 May 2024 06:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:54:34 GMT</lastBuildDate>
     <item>
-      <title>在这篇发人深省的文章中，亚当·柯蒂斯 (Adam Curtis) 挑战了自我表达是一种 [...]</title>
-      <link>https://t.me/hn_summary/89005</link>
-      <description><![CDATA[亚当·柯蒂斯论自我表达的危险（2017）
-在这篇发人深省的作品中，亚当·柯蒂斯挑战了自我表达是一种革命性行为的观念。他认为，在一个每个人都不断表达自己的世界中，真正的变革和对权力结构的挑战不可能通过个人主义来实现。柯蒂斯深入研究了自我表达的历史，强调了 20 世纪 70 年代从集体行动到个人表达的转变。他强调了解权力动态和集体团结在创造真正变革方面的潜力的重要性。柯蒂斯还探讨了自由的概念以及在理性的技术统治世界中对新形式的魅力的需求。这篇文章对当今社会自我表达的局限性提供了独特的视角。]]></description>
-      <guid>https://t.me/hn_summary/89005</guid>
-      <pubDate>Sat, 11 May 2024 06:07:08 GMT</pubDate>
+      <title>UniSuper 和 Google Cloud 对于删除 UniSuper 的 Pr [...]</title>
+      <link>https://t.me/hn_summary/89033</link>
+      <description><![CDATA[删除UniSuper私有云订阅
+UniSuper 和 Google Cloud 对于删除 UniSuper 私有云订阅造成的中断深表歉意。谷歌云首席执行官托马斯·库里安（Thomas Kurian）证实了导致这一事件的前所未有的错误配置，这在全球任何其他客户中从未发生过。由于两个地区的重复，导致服务中断持续了很长时间，导致两个地区都被删除。恢复过程需要 UniSuper 和 Google Cloud 之间的大量努力和协作，并通过备份最大限度地减少数据丢失。双方正在不懈地努力寻求解决方案，恢复是他们的首要任务。 UniSuper 是澳大利亚最大的养老基金之一，为超过 647,000 名会员管理着超过 1,350 亿澳元的资金。]]></description>
+      <guid>https://t.me/hn_summary/89033</guid>
+      <pubDate>Sat, 11 May 2024 11:54:34 GMT</pubDate>
     </item>
     <item>
-      <title>锍，具有纯电磁相互作用的最小和最重的原子，挑战了 [...]</title>
-      <link>https://t.me/hn_summary/89004</link>
-      <description><![CDATA[Tauium：具有纯电磁相互作用的最小和最重的原子
-锍是最小、最重的纯电磁相互作用原子，挑战了传统的原子结构观点。锍的玻尔半径比氢原子小得多，为探索更小尺度的量子力学和量子电动力学提供了独特的机会。最近的一项研究提出了一种识别 tau 元素的新方法，这对 tau 轻子质量的精确测量和基本物理问题具有潜在的影响。这项开创性的研究为理解微观材料世界的奥秘开辟了新的可能性，并可能导致粒子物理领域的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/89004</guid>
-      <pubDate>Sat, 11 May 2024 05:47:58 GMT</pubDate>
+      <title>[媒体] 著名 DIY YouTuber Bitluni 构建了自己的 RISC-V 巨型集群，展示了 [...]</title>
+      <link>https://t.me/hn_summary/89032</link>
+      <description><![CDATA[DIY YouTuber 在 14.7 上构建了自己的 256 核 RISC-V 巨型集群GHz 1核频率
+著名 DIY YouTuber Bitluni 构建了自己的 RISC-V 巨型集群，展示了该架构尚未开发的潜力。他的创新设计涉及创建集群刀片来管理多个超级集群，每个超级集群都有自己的总线接口。尽管遇到了设计缺陷，Bitluni 的奉献精神和决心成功构建了 256 个 RISC-V 微控制器，这些微控制器以令人印象深刻的 14.7 GHz 单核频率运行。该过程记录在视频中，突出了 DIY 技术项目的复杂性和创造力。]]></description>
+      <guid>https://t.me/hn_summary/89032</guid>
+      <pubDate>Sat, 11 May 2024 11:52:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.anyscale.com 上的这篇博文中，我们深入研究了稳定扩散模型的世界 [...]</title>
-      <link>https://t.me/hn_summary/89003</link>
-      <description><![CDATA[在 2B 图像上训练稳定扩散模型的经验教训 
-在这篇关于 www.anyscale.com 的博文中，我们深入研究稳定扩散模型的世界，该模型以其根据文本提示创建复杂图像的能力而闻名。我们为 Stable Diffusion v2 模型引入了创新的预训练解决方案，利用 Ray 和 Anyscale 平台来增强可扩展性和成本效率。通过以不到 40,000 美元的成本在包含 20 亿张图像的海量数据集上预训练模型，我们在训练吞吐量和成本降低方面取得了显着提高。我们解决预训练中的挑战，例如数据预处理瓶颈和大规模训练失败，提供离线预处理和 Ray Train 容错训练等解决方案。此外，我们还探索 EFA 和 FSDP 等优化来加速 U-Net 训练。本博客是该系列的第一篇，提供了处理 20 亿张图像以进行稳定扩散模型训练的综合指南。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89003</guid>
-      <pubDate>Sat, 11 May 2024 05:41:52 GMT</pubDate>
+      <title>[媒体] 大象在互相打招呼时会使用手势和声音提示，正如观察到的那样 [...]</title>
+      <link>https://t.me/hn_summary/89031</link>
+      <description><![CDATA[大象在互相打招呼时会使用手势和声音提示 
+动物行为学家团队进行的一项研究发现，大象在互相打招呼时会使用手势和声音提示。这项发表在《通讯生物学》上的研究主要针对津巴布韦的非洲象，发现大象会做出有意义的行为，例如摆动鼻子、拍打耳朵和在打招呼时发声。该研究强调了大象在相遇时用来传达信息的复杂通信系统，揭示了它们的社交互动和智力。这些发现为了解大象行为的迷人世界提供了宝贵的见解。]]></description>
+      <guid>https://t.me/hn_summary/89031</guid>
+      <pubDate>Sat, 11 May 2024 11:46:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]杰克·多尔西 (Jack Dorsey) 离开 Bluesky 以及他对不受监管的社交媒体的痴迷 [...]</title>
-      <link>https://t.me/hn_summary/89002</link>
-      <description><![CDATA[Jack Dorsey、Bluesky、去中心化社交网络和普通人群
-杰克·多尔西 (Jack Dorsey) 离开 Bluesky 以及他对不受监管的社交媒体平台的痴迷在 Pirate Wires 的采访中得到了强调。尽管 Dorsey 努力创建一个去中心化的社交网络，但 Bluesky 用户要求节制，这引发了争议。采访中没有提及 Mastodon 等现有的去中心化平台，这些平台已经成功地实施了审核。多尔西对蓝天“普通大众”的排斥引发了强烈反对。尽管 Bluesky 继续运营，但对其可持续性和缺乏可行商业模式的担忧依然存在。社交媒体平台的未来仍然不确定。]]></description>
-      <guid>https://t.me/hn_summary/89002</guid>
-      <pubDate>Sat, 11 May 2024 05:20:40 GMT</pubDate>
+      <title>在 NOAA 网站上查看最新的太空天气状况。</title>
+      <link>https://t.me/hn_summary/89030</link>
+      <description><![CDATA[观察到的 G5 条件
+在 NOAA 网站上查看最新的太空天气状况。目前，阳光照射一侧的高频无线电通信存在微弱或轻微的退化，偶尔会失去无线电联系。低频导航信号也可能经历短暂的衰减。随时了解 NOAA 太空天气等级，了解这些条件的影响。请继续关注观察到的 G5 状况的更新。]]></description>
+      <guid>https://t.me/hn_summary/89030</guid>
+      <pubDate>Sat, 11 May 2024 11:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了计算机输入眼动追踪系统的评估，f [...]</title>
-      <link>https://t.me/hn_summary/89001</link>
-      <description><![CDATA[评估计算机输入的眼动追踪系统（2012） 
-网络内容讨论了用于计算机输入的眼动追踪系统的评估，重点关注评估其性能所涉及的独特挑战和方法。作者解释了眼动仪如何用作监测眼球运动的被动仪器或用作计算机交互的主动控制器。内容强调了 ISO 9241-9 等标准化测试方法对于评估眼动仪性能和用户舒适度的重要性。作者还深入研究了鼠标等传统输入设备与眼睛功能之间的差异，强调需要针对眼睛输入制定专门的评估标准。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/89001</guid>
-      <pubDate>Sat, 11 May 2024 05:02:28 GMT</pubDate>
+      <title>[媒体]美国研究人员</title>
+      <link>https://t.me/hn_summary/89029</link>
+      <description><![CDATA[飞秒激光器解决太阳能电池板回收问题
+美国国家可再生能源实验室的研究人员找到了一种使用飞秒激光器焊接太阳能电池板玻璃的方法，从而无需粘性聚合物。这项新技术不仅可以形成坚固的玻璃与玻璃焊缝，防止腐蚀性湿气进入，而且还使太阳能电池板的回收变得更加容易。随着制造商每年部署更多的太阳能电池板，寻找经济有效的方法来回收太阳能电池板中的所有材料将变得越来越重要。飞秒激光技术还可以通过提供更好的防潮密封性来延长太阳能电池板的使用寿命，从而有利于钙钛矿电池等下一代太阳能技术。]]></description>
+      <guid>https://t.me/hn_summary/89029</guid>
+      <pubDate>Sat, 11 May 2024 11:37:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一次奇怪的发现中，密歇根州米德兰的一名妇女被发现住在杂货店内 [...]</title>
-      <link>https://t.me/hn_summary/89000</link>
-      <description><![CDATA[发现一名女子住在密歇根杂货店招牌内
-在一次奇怪的发现中，密歇根州米德兰的一名妇女被发现住在“家庭票价”上方的杂货店标志内。这位三十多岁的女士搭建了一套临时公寓，配有书桌、室内植物、打印机、Keurig 咖啡机和食品储藏室。她被商店工作人员称为“屋顶忍者”，在被承包商发现之前，她已经在这个招牌里生活了大约一年。尽管提供了住房援助，但该妇女拒绝了，她以前的住所和工作仍然未知。这种情况让警察和商店官员对这名妇女独特的生活状况感到困惑。]]></description>
-      <guid>https://t.me/hn_summary/89000</guid>
-      <pubDate>Sat, 11 May 2024 04:49:19 GMT</pubDate>
+      <title>萨里大学的科学家正在研究一项突破性的新技术，该技术可以 [...]</title>
+      <link>https://t.me/hn_summary/89028</link>
+      <description><![CDATA[科学家正在开发一种利用空气为低轨道航天器提供动力的新方法
+萨里大学的科学家正在研究一项突破性的新技术，该技术可能会彻底改变低轨道航天器的供电方式。通过利用空气的力量，这些航天器有可能在轨道上停留更长时间，而不需要传统的燃料来源。这种创新方法可以显着降低与太空旅行相关的成本和环境影响。请继续关注有关太空探索领域这一令人兴奋的发展的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/89028</guid>
+      <pubDate>Sat, 11 May 2024 11:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在底特律急于在电动汽车市场追赶日本的过程中，他们是maki [...]</title>
-      <link>https://t.me/hn_summary/88999</link>
-      <description><![CDATA[底特律在电动汽车上犯了与日本相同的错误
-在底特律急于在电动汽车市场追赶日本的过程中，他们犯了过去犯过的同样的错误——注重短期收益而不是长期成功。由于优先考虑眼前的利润而忽视创新和可持续发展的需要，底特律正面临着再次落后的风险。这种短视的做法可能会阻碍他们在快速发展的电动汽车行业中的竞争能力。现在是底特律从过去的错误中吸取教训并优先考虑长期战略的时候了，以确保他们未来的成功。]]></description>
-      <guid>https://t.me/hn_summary/88999</guid>
-      <pubDate>Sat, 11 May 2024 04:47:14 GMT</pubDate>
+      <title>[媒体] karthinks.com 上的 Emacs 窗口管理年鉴深入探讨了 w [...]</title>
+      <link>https://t.me/hn_summary/89027</link>
+      <description><![CDATA[Emacs 窗口管理年鉴
+karthinks.com 上的 Emacs 窗口管理年鉴深入研究了Emacs 中的窗口管理，提供有关该主题的提示、资源和个人见解。作者承认 Emacs 窗口系统面临的挑战，但为用户导航和优化窗口布局提供了入门知识。本文涵盖了在 Emacs 框架内进行高效窗口管理的各种工具、技巧和技巧，强调了切换焦点、移动缓冲区和分割窗口的手动和日常方面。作者还解决了常见的问题和驳回的问题，强调了掌握窗口管理以获得更流畅的编辑体验的重要性。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89027</guid>
+      <pubDate>Sat, 11 May 2024 11:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 即将与 OpenAI 敲定协议，将 ChatGPT 功能引入 iO [...]</title>
-      <link>https://t.me/hn_summary/88998</link>
-      <description><![CDATA[Apple 与 OpenAI 敲定协议，将 ChatGPT 功能引入 iOS 18
-据彭博社报道，苹果即将与 OpenAI 敲定一项协议，将 ChatGPT 功能引入 iOS 18。此次合作将使苹果能够提供流行的聊天机器人，作为其以人工智能为中心的功能的一部分。虽然与谷歌的谈判仍在进行中，但苹果似乎倾向于使用 OpenAI 进行此次合作。 iOS 18 中的人工智能功能将由配备 Apple Silicon 处理器的 Apple 数据中心提供支持，强调隐私和速度优势。该公告预计将于 6 月 10 日在 WWDC 上发布，OpenAI 也将单独发布有关 AI 语音助手的公告。]]></description>
-      <guid>https://t.me/hn_summary/88998</guid>
-      <pubDate>Sat, 11 May 2024 04:27:04 GMT</pubDate>
+      <title>[媒体]欢迎来到ENIAC模拟器页面，在这里您可以体验第一次电子挖掘[...]</title>
+      <link>https://t.me/hn_summary/89026</link>
+      <description><![CDATA[ENIAC模拟器
+欢迎来到 ENIAC 模拟器页面，在这里您可以体验宾夕法尼亚大学 1944-1946 年建造的第一台电子数字通用计算机。这种具有 2D 图形界面的 Java-Applet 模拟于 2003/2004 年在柏林自由大学实施。开始模拟，了解 ENIAC 的历史，并在链接部分探索相关网站。令人兴奋的更新包括模拟转移到新的 URL、在宾夕法尼亚大学安装以庆祝 ENIAC 60 周年，以及添加 Euklid 算法。不要错过这个与计算历史互动的独特机会。]]></description>
+      <guid>https://t.me/hn_summary/89026</guid>
+      <pubDate>Sat, 11 May 2024 11:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>在过去的十年中，Google 的 Connectomics 团队在绘制 [...]</title>
-      <link>https://t.me/hn_summary/88997</link>
-      <description><![CDATA[Google 十年神经科学成果绘制出人类大脑图
-在过去的十年里，谷歌的连接组学团队在使用创新的人工智能工具和大型数据集绘制人类大脑图谱方面取得了重大进展。通过开发洪水填充网络和 SegCLR 等新颖算法，他们实现了神经元重建的自动化，并识别了网络内细胞的不同部分。他们的开源软件库 TensorStore 已在 Google 和 ML 社区中广泛采用。他们的开创性工作包括绘制果蝇大脑中 25,000 个神经元之间的连接图，从而对学习、记忆和行为产生新的见解。与顶级研究机构的合作还产生了斑胸草雀和斑马鱼幼虫等其他物种的连接组。]]></description>
-      <guid>https://t.me/hn_summary/88997</guid>
-      <pubDate>Sat, 11 May 2024 04:16:58 GMT</pubDate>
+      <title>[媒体] 干细胞研究员 Carolina Florian 在发现 t [...]</title>
+      <link>https://t.me/hn_summary/89025</link>
+      <description><![CDATA[入侵免疫系统可以延缓衰老
+干细胞研究员卡罗莱纳·弗洛里安 (Carolina Florian) 做出了一项突破性的发现，她发现用一种药物治疗老年小鼠，可以纠正干细胞中蛋白质的组织，使它们看起来更年轻、寿命更长。这种治疗通过针对免疫系统，特别是产生所有免疫细胞的血液干细胞，使动物恢复活力。此后其他科学家也证实，恢复免疫系统活力可以对整体健康和衰老产生深远的影响。虽然控制与年龄相关疾病的潜力很诱人，但研究人员警告说，干扰复杂的免疫系统可能存在风险。人们正在探索各种方法，从针对衰老的免疫细胞到恢复胸腺功能，以对抗免疫衰老并改善晚年的健康。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89025</guid>
+      <pubDate>Sat, 11 May 2024 11:09:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容探讨了公司的生命周期，揭示了平均半里 [...]</title>
-      <link>https://t.me/hn_summary/88996</link>
-      <description><![CDATA[IBM 100 周年
-网络内容探讨了公司的生命周期，揭示了上市公司在合并、被收购或清算之前的平均半衰期约为十年。这种令人惊讶的趋势并不依赖于业务部门或产品。 IBM 是一家历史悠久的公司，拥有从大型计算机到微处理器的丰富创新和重塑历史。本文深入探讨了 IBM 的起源及其发展过程中的关键里程碑，强调了其在技术进步和专利成就中的作用。该研究揭示了商业世界的竞争本质以及适应对生存的重要性。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88996</guid>
-      <pubDate>Sat, 11 May 2024 04:00:45 GMT</pubDate>
+      <title>[媒体]动物为什么要玩耍？</title>
+      <link>https://t.me/hn_summary/89024</link>
+      <description><![CDATA[动物为什么玩耍？科学解释了一个长期存在的谜团
+包括狗、水獭和猫鼬在内的动物玩耍的原因多年来一直困扰着科学家。与普遍看法相反，玩耍并不一定能帮助动物学习重要技能或提供长期发展益处。然而，玩耍可能有一个更微妙和更根本的目的，例如激发大脑应对生活的挑战。例如，与那些被剥夺玩耍的老鼠相比，参与玩耍的年轻老鼠会发展出更先进的认知能力。孩子们也很爱玩，他们创造想象的世界，通过假装游戏解决问题，这可能为他们应对现实生活中的挑战做好准备。最终，玩耍是有趣和愉快的，应该鼓励动物和儿童。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89024</guid>
+      <pubDate>Sat, 11 May 2024 11:08:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
