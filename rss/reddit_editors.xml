@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 12 May 2024 09:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 12:21:12 GMT</lastBuildDate>
+    <item>
+      <title>寻求发行公司交付、音频和质量检查方面的帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1cq54yn/seeking_help_with_deliverables_for_a_distribution/</link>
+      <description><![CDATA[您好！ 我之所以伸出援手，是因为我确实需要一些帮助来完成我的分销公司要求的所有美国人的交付成果领土。我创作了一部名为“复兴”的电影以 24 fps 拍摄，具有立体声和 5.1 混音。该公司要求提供以下内容： -预告片和正片的 23.976fps 版本，所有音轨均嵌入 ProRes 422 HQ 格式。 我担心的一个问题有一个是关于帧率调整的。更改 FPS 会导致影片掉帧吗？有没有办法避免这个问题？ 我不确定的另一个方面是按照他们的要求导出音轨。对于预告片，我遵循 Reddit 用户的提示，在 Davinci Resolve 中创建单声道音轨，并使用“所有时间轴轨道”导出它们。选择选项。 最后，我担心编解码器和黑电平。我的 REC709 胶片导出为 12 位 DNXHR 444 XQ。在 VLC 中，黑色电平看起来完全被压碎，而在 Davinci Resolve 中以及从同一源渲染 H.264 MOV 时，黑色电平看起来是正确的。然而，当我渲染 ProRes 422 HQ 版本时，VLC 中的黑电平仍然被压坏（尽管它们在 Davinci Resolve 中看起来很好）。 我错过了什么吗？您能为我查看预告片文件吗？ 提前感谢您的帮助！ MOD 要求：CPU (AMD RYZEN 7), 2070 + RAM (32GB) // 软件规格：Davinci 18.6 &gt;   由   提交 /u/davidmateo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cq54yn/seeking_help_with_deliverables_for_a_distribution/</guid>
+      <pubDate>Sun, 12 May 2024 10:48:39 GMT</pubDate>
+    </item>
     <item>
       <title>使用“线下”一词</title>
       <link>https://www.reddit.com/r/editors/comments/1cpux83/using_the_term_below_the_line/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿 BC 电影/电视/动画后期专业人士， 我正在寻找一位有与以下人士打交道的经验的职业顾问在不列颠哥伦比亚省从事电影/电视/动画后期制作工作。提前致谢。    由   提交 /u/Goat_Wizard_Doom_666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cotd29/seeking_a_career_counsellor_in_bc/</guid>
       <pubDate>Fri, 10 May 2024 16:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为网站/作品集选择作品</title>
-      <link>https://www.reddit.com/r/editors/comments/1costiy/selecting_work_for_websiteportfolio/</link>
-      <description><![CDATA[我搜索了一些帖子，例如 这个和这个和这个关于网站/作品集如何比卷轴更好，我同意。但你如何选择在你的作品集中展示哪些作品呢？我无法缩小我应该在网站上展示的作品范围，并且想了解其他人的思维过程。让我解释一下。 对于广告工作来说，客户是否更关心广告是否成功而不是广告制作得好？展示与我合作过的一系列客户（例如来自 6 个客户的 1 个视频）是否比展示来自 1 个客户的 3 个非常好的作品更好？ 我主要从事广告（用于广播）、嘶嘶声等工作卷轴和企业类型的内容。我应该像这样对网站上的所有内容进行分类吗？或者我应该按特定类型（即政治、企业？）进行分类？ 想知道对于那些一次只看几分钟投资组合的人来说最重要的是什么。   由   提交 /u/Espresso0nly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1costiy/selecting_work_for_websiteportfolio/</guid>
-      <pubDate>Fri, 10 May 2024 15:51:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
