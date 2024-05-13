@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 May 2024 15:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:14:37 GMT</lastBuildDate>
+    <item>
+      <title>对功能最丰富、功能最强大的自由开源软件视频编辑器有什么看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cr6383/opinions_on_most_featurerich_and_powerful_foss/</link>
+      <description><![CDATA[正如标题中所说，我想知道您认为 FOSS 中功能最丰富的视频编辑器是什么。不，我不是在寻找 Davinci Resolve。到目前为止，我已经尝试过 Shotcut 和 Kdenlive，但我使用它们的时间不够长，无法判断其中一个是否比另一个更强大（尽管我觉得 kdenlive 可以做得更多） 我还没有尝试过其他的，所以如果有人尝试过，我想听听您对这个问题的看法   由   提交 /u/OhItsuMe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cr6383/opinions_on_most_featurerich_and_powerful_foss/</guid>
+      <pubDate>Mon, 13 May 2024 18:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有提供“货到付款”选项的轻量级电子商务平台？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cr41mc/any_liteweight_ecommerce_platform_with_cash_on/</link>
+      <description><![CDATA[我正在寻找具有“货到付款/现金支付”功能的开源电子商务平台。选项，我尝试了 github 上的几个平台，但没有一个提供这样的选项。所以我想知道是否有什么事情。我也在寻找一个轻量级的选项，因为它将在我的树莓派上运行，我不希望它占用 GB 的 RAM。我正在寻找一个非常简单的平台。 任何线索都将受到赞赏。谢谢。   由   提交 /u/GiveMeARedditUsernam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cr41mc/any_liteweight_ecommerce_platform_with_cash_on/</guid>
+      <pubDate>Mon, 13 May 2024 16:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI 自动生成 Youtube 视频的开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/</link>
+      <description><![CDATA[寻找 www.invideo.io 的替代方案您可以使用 AI 生成视频。有什么建议吗？   由   提交/u/Past-Statistician358  /u/Past-Statistician358 reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cr3moh/open_source_alternative_to_auto_generate_youtube/</guid>
+      <pubDate>Mon, 13 May 2024 16:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>开源游戏列表</title>
       <link>https://www.reddit.com/r/opensource/comments/1cqzpe1/a_list_of_open_source_games/</link>
@@ -48,13 +69,6 @@
       <pubDate>Sun, 12 May 2024 22:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>最小但可配置的起始页</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cqhmdr/minimal_but_configurable_startpage/</link>
-      <description><![CDATA[ 由   提交/u/JohnBCoding  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cqhmdr/minimal_but_configurable_startpage/</guid>
-      <pubDate>Sun, 12 May 2024 20:47:43 GMT</pubDate>
-    </item>
-    <item>
       <title>TSPerf 开源挑战：测量 TypeScript 加载时间</title>
       <link>https://www.reddit.com/r/opensource/comments/1cqfq9b/tsperf_open_source_challenge_measure_typescript/</link>
       <description><![CDATA[       由   提交/u/mgcrimhead  [链接] [评论] &lt; /表&gt;]]></description>
@@ -71,7 +85,7 @@
     <item>
       <title>显示热键 1.3.1 发布！使用用户定义的热键立即应用显示设置。支持多显示器显示配置。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cq7e1w/display_hot_keys_131_released_immediately_apply/</link>
-      <description><![CDATA[GitHub Pages 网站：显示热键&lt; /a&gt; 先决条件  Windows 10 x64 或 Windows 11 x64 操作系统。 如果使用多个显示器，则“多个显示器”将被选中。设置必须设置为“扩展这些显示”在Windows“显示”中设置菜单！  常见用例  切换刷新率以快速启用显示器的黑框插入或背光选通功能。 &lt; li&gt;在不同宽高比的分辨率之间快速切换。 无需进入游戏内菜单即可立即应用分辨率，以进行视频游戏基准测试。 放大或缩小屏幕上的元素立即更改 DPI 缩放百分比。 在视频游戏中立即设置显示模式。 （如果视频游戏不支持在游戏中更改分辨率或刷新率，这非常有用。）  更改日志  The Clear如果应用程序运行时显示配置发生变化，“所有插槽”按钮现在可以正确重置显示模式。 改进了热键输入逻辑。  发行说明 这是一个次要版本，修复了“清除所有插槽”按钮并改进了输入热键的处理。如果您预先安装了 Display Hot Keys 1.2.0 或更早版本，则必须先将其卸载，然后才能使用 1.3.1 版本的安装程序。此外，如果更改主显示器，然后以某种方式更改显示配置，则应用程序可能会挂起并拒绝启动备份。我相信这与 SystemTray 依赖关系有关。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。   由   提交/u/jonRock1992   [链接] [评论]]]></description>
+      <description><![CDATA[GitHub Pages 网站：显示热键&lt; /a&gt; 先决条件  Windows 10 x64 或 Windows 11 x64 操作系统。 如果使用多个显示器，则“多个显示器”将被选中。设置必须设置为“扩展这些显示”在Windows“显示”中设置菜单！  常见用例  切换刷新率以快速启用显示器的黑框插入或背光选通功能。 &lt; li&gt;在不同宽高比的分辨率之间快速切换。 无需进入游戏内菜单即可立即应用分辨率，以进行视频游戏基准测试。 放大或缩小屏幕上的元素立即更改 DPI 缩放百分比。 在视频游戏中立即设置显示模式。 （如果视频游戏不支持在游戏中更改分辨率或刷新率，这非常有用。）  更改日志  The Clear如果应用程序运行时显示配置发生更改，“所有插槽” 按钮现在可以正确重置显示模式。 改进的热键输入逻辑。  发行说明 这是一个次要版本，修复了“清除所有插槽”按钮并改进了输入热键的处理。如果您预先安装了 Display Hot Keys 1.2.0 或更早版本，则必须先将其卸载，然后才能使用 1.3.1 版本的安装程序。此外，如果更改主显示器，然后以某种方式更改显示配置，则应用程序可能会挂起并拒绝启动备份。我相信这与 SystemTray 依赖关系有关。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。   由   提交/u/jonRock1992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cq7e1w/display_hot_keys_131_released_immediately_apply/</guid>
       <pubDate>Sun, 12 May 2024 13:02:57 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交 /u/peazip   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cpf103/peazip_980_released/</guid>
       <pubDate>Sat, 11 May 2024 11:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找自由音乐应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1comgdp/looking_for_foss_music_apps/</link>
-      <description><![CDATA[Blackhole 不再出现在 f-droid 上，我什至不知道你现在是否可以信任它。 Vimusic 最后更新于 2022 年。还有其他选择吗？我使用 yt music 作为我的主要应用程序。   由   提交 /u/ArcDark1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1comgdp/looking_for_foss_music_apps/</guid>
-      <pubDate>Fri, 10 May 2024 10:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChangeDetection.io 中的远程代码执行 (CVE-2024-32651)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1coi0u2/remote_code_execution_in_changedetectionio/</link>
-      <description><![CDATA[ 由   提交/u/edoardottt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1coi0u2/remote_code_execution_in_changedetectionio/</guid>
-      <pubDate>Fri, 10 May 2024 05:30:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
