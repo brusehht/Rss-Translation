@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 May 2024 18:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 21:13:03 GMT</lastBuildDate>
+    <item>
+      <title>德国主权技术基金现在支持 FFmpeg</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</link>
+      <description><![CDATA[    &lt; /a&gt;   由   提交/u/vmbrasseur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</guid>
+      <pubDate>Thu, 16 May 2024 20:10:47 GMT</pubDate>
+    </item>
     <item>
       <title>VFCFinder 重点介绍开源软件中的安全补丁</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctj864/vfcfinder_highlights_security_patches_in_open/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>我正在写一份专有软件的开源替代品列表，写下你最喜欢的！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctifwo/im_writing_a_list_of_opensource_alternatives_to/</link>
-      <description><![CDATA[完成后将其发布到 github。    提交人    /u/Flick9000   [链接] [评论]]]></description>
+      <description><![CDATA[完成后在 github 中发布。   由   提交 /u/Flick9000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctifwo/im_writing_a_list_of_opensource_alternatives_to/</guid>
       <pubDate>Thu, 16 May 2024 17:27:24 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 16 May 2024 11:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>Radient - 对许多不同类型的数据进行矢量化以用于 RAG 和推荐</title>
+      <title>Radient - 将多种不同类型的数据矢量化，用于 RAG 和推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/1ct66a7/radient_vectorize_many_different_types_of_data/</link>
       <description><![CDATA[嘿伙计们， 想分享我最近正在从事的一个项目。 法学硕士正在走向多模式，对所有不同类型的数据（图像、文本、音频等）进行矢量化似乎是一个重要的发展趋势。许多现有的库和工具包主要关注文本，因此我构建了 Radient 来尝试帮助缩小这一差距：https://github。 com/fzliu/radient 欢迎任何和所有反馈！   由   提交 /u/mrintellectual   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ct66a7/radient_vectorize_many_different_types_of_data/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Saiyyidi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1crsh00/i_am_looking_for_recommendations_based_on_actual/</guid>
       <pubDate>Tue, 14 May 2024 13:42:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于无标签的高质量街道地图有什么软件建议吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</link>
-      <description><![CDATA[我正在开发我所在城市公交网络的新公交地图。到目前为止，我见过的唯一免费选项就是截取 Google 或 Apple 地图的屏幕截图。在我正在处理的土地区域所需的缩小比例下，小巷变得太小而看不见，并且有过多的标签。 是否有任何好的免费资源用于未标记、高质量的街道地图，通过它我可以将地图导出为图像？   由   提交 /u/TheBeanCrew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1crrmhw/any_software_suggestions_for_unlabeled/</guid>
-      <pubDate>Tue, 14 May 2024 13:03:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
