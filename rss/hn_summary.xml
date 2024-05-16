@@ -4,103 +4,127 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 15 May 2024 08:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 00:52:09 GMT</lastBuildDate>
     <item>
-      <title>“这个项目还在维护吗？</title>
-      <link>https://t.me/hn_summary/89689</link>
-      <description><![CDATA[“这个项目还在维护吗？”
-标题：“这个项目还在维护吗？”
-网站：www.hezmatt.org
+      <title>[媒体]联邦调查局与国际执法机构合作，查获了 infa [...]</title>
+      <link>https://t.me/hn_summary/89837</link>
+      <description><![CDATA[FBI 再次占领黑客论坛 BreachForums
+美国联邦调查局 (FBI) 与国际执法机构合作，周三查获了臭名昭著的网络犯罪论坛 BreachForums。 BreachForums 以促进被盗数据交易而闻名，最近重点报道了来自戴尔客户和欧洲刑警组织门户网站的被盗信息。尽管论坛管理员康纳·布莱恩·菲茨帕特里克（Conor Brian Fitzpatrick，又名 pompompurin）之前曾被查封并被捕，但该论坛还是被一个名为 Baphomet 的人恢复了。这次，当局还控制了该论坛的官方 Telegram 频道。联邦调查局和司法部拒绝就此次行动发表评论。夺取 Telegram 频道的方法仍不清楚，有人猜测这可能涉及逮捕 Baphomet 或 Telegram 的服从。菲茨帕特里克去年七月对联邦指控认罪。]]></description>
+      <guid>https://t.me/hn_summary/89837</guid>
+      <pubDate>Thu, 16 May 2024 00:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 2002 年，犹他州地方政府联盟成立了 UTOPIA（犹他电信 O [...]</title>
+      <link>https://t.me/hn_summary/89836</link>
+      <description><![CDATA[在地方政府的帮助下，犹他州当地人获得了廉价的 10 Gbps 光纤
+2002 年，犹他州地方政府联盟成立了 UTOPIA（犹他州电信开放基础设施机构），以应对 Qwest（现为 Centurylink 或 Lumen）等地区宽带垄断企业的低服务和高价格问题。 UTOPIA 建立了一个“开放接入”光纤网络，允许多个 ISP 竞争，为居民提供负担得起的高速互联网。尽管受到主要 ISP 的强烈反对和法律挑战，UTOPIA 仍然蓬勃发展，目前在 21 个城市提供服务，其中一些 ISP 以每月 150 美元的价格提供 10 Gbps 光纤。尽管大型互联网服务提供商及其游说努力不断抵制，但这种模式仍然激励了其他城市。 UTOPIA 的成功凸显了社区驱动的宽带解决方案的潜力。]]></description>
+      <guid>https://t.me/hn_summary/89836</guid>
+      <pubDate>Thu, 16 May 2024 00:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在“JavaScript 中的原型继承”中，Douglas Crockford 反思了他从 cl [...]</title>
+      <link>https://t.me/hn_summary/89835</link>
+      <description><![CDATA[原型继承 (2008)
+在《JavaScript 中的原型继承》中，Douglas Crockford 反思了他从经典继承到完全拥抱 JavaScript 原型本质的演变。他批评 JavaScript 的冲突设计，该设计试图通过其 new 运算符来吸引受过经典训练的程序员，但最终掩盖了其真正的原型功能。 Crockford 引入了一个简单的 object 函数来实现真正的原型继承，允许对象直接从其他对象继承。他认为这种方法比经典模型更具表现力和更强大。此外，他还讨论了全局函数的局限性，并建议使用 Object.create 来实现更简洁的实现。他指出，这种观点的转变不仅改善了他的 JavaScript 编程，还增强了他的经典编程技能。]]></description>
+      <guid>https://t.me/hn_summary/89835</guid>
+      <pubDate>Thu, 16 May 2024 00:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在我最近的探索中，我认为大型语言模型（LLM）不适合 [...]</title>
+      <link>https://t.me/hn_summary/89834</link>
+      <description><![CDATA[LLM 不适合头脑风暴
+在我最近的探索中，我认为大型语言模型（LLM）不适合有效的头脑风暴，尤其是在前沿场景中。虽然法学硕士，特别是后 GPT-4 模型，表现出一些独立和创造性的思维，但它们的主要功能是模仿现有的人类产生的模式。这导致他们集中在共识想法上，而不是产生真正创新的解决方案。例如，在集思广益创业想法时，法学硕士经常重复媒体流行语而不是新颖的概念。此外，法学硕士很难解决目前缺乏共识的话题，这往往会导致幻觉。为了解决这个问题，我建议整理专门的数据集并采用 RLAIF 等方法来增强创造力，尽管这些解决方案具有挑战性，并且不能保证适用于前沿问题。这引发了关于法学硕士培训的性质以及人工智能开发新范式的潜在需求的更广泛问题。]]></description>
+      <guid>https://t.me/hn_summary/89834</guid>
+      <pubDate>Thu, 16 May 2024 00:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNS（加密网络服务）是专为安全存储而设计的专用网络服务 [...]</title>
+      <link>https://t.me/hn_summary/89833</link>
+      <description><![CDATA[显示 HN：CNS – 加密网络服务（密钥保管库）
+CNS（加密网络服务）是一种专用网络服务，旨在安全地存储加密密钥并执行加密操作。它充当密钥保管库，在称为“加密模块”(CM) 的专用主机上运行时提供安全优势。此设置允许其他服务向 CNS 进行 API 调用，以执行密码散列和 JWT 签名等任务，确保密钥永远不会离开 CM。 CNS 是作为昂贵的硬件安全模块 (HSM) 的一种经济高效且灵活的替代方案而创建的，该模块缺乏对 argon2 等某些算法的支持。主要功能包括安全密钥存储、通过 argon2id 进行密码散列、JWT 签名和验证、多客户端支持以及用于密钥管理的管理 CLI。该项目包括全面的测试、构建和部署说明。]]></description>
+      <guid>https://t.me/hn_summary/89833</guid>
+      <pubDate>Thu, 16 May 2024 00:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：uBlock Origin 超级用户指南</title>
+      <link>https://t.me/hn_summary/89832</link>
+      <description><![CDATA[uBlock 起源超级用户指南
+标题：uBlock 起源超级用户指南
 
-发布时间：2024 年 5 月 14 日，星期二
+网站：www.maketecheasier.com
 
-在开源世界中，经常会发现存储库中存在标题为“该项目是否仍在维护？”的问题。这些问题往往揭示了很多关于维护开源项目的本质，尤其是在贾坦之后。用户期望得到积极的支持，但许多项目即使“得到维护”，也不会提供及时的响应或修复。作者建议通过创建一个标题为“此项目是否仍在维护？”的固定问题来先发制人地解决此问题。并分享“开源维护者宣言”。该宣言阐明，虽然软件是根据作者的需要进行维护的，但用户不应期望在没有支持合同的情况下获得支持。这种坦诚的做法旨在设定切合实际的期望并防止误解。 
+uBlock Origin 被誉为最强大、最通用的广告拦截器，尽管它的设计可能有些晦涩难懂。本指南深入探讨其高级功能，例如添加自定义列表、创建用户过滤器、设置动态阻止规则以及调整特定于域的规则。值得注意的是，uBlock Origin 与 ublock.org 和 uBlock 扩展不同，这是欺骗性的模仿者。高级设置可以通过全局和本地过滤器以及阻止第三方脚本和框架的选项来对阻止规则进行精细控制。用户还可以为页面元素创建临时和永久规则。对于同步设置，建议使用本地备份而不是基于浏览器的云存储。总体而言，uBlock Origin 是一款全面的内容拦截器，而不仅仅是广告拦截器，它提供对浏览器内容的广泛控制。
 
-令人惊讶的是：作者直率地解决了用户的期望，并提出了“维护者宣言”，这是独特而聪明的。
+争议突出：该指南警告不要使用 ublock.org 和 uBlock扩展名，将它们标记为迷惑用户并窃取数据的欺骗性模仿者。
 
-有争议：开源社区中的一些人可能认为“维护”和“支持”之间的区别以及付费支持合同的建议存在争议。]]></description>
-      <guid>https://t.me/hn_summary/89689</guid>
-      <pubDate>Wed, 15 May 2024 08:35:58 GMT</pubDate>
+独特/聪明的亮点：该指南详细解释了动态过滤规则以及使用“noop”规则覆盖全局设置，展示了 uBlock Origin 提供的细致入微的控制。]]></description>
+      <guid>https://t.me/hn_summary/89832</guid>
+      <pubDate>Wed, 15 May 2024 23:55:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“软件设计哲学”中，John Ousterhout 谈到了经常被忽视的问题 [...]</title>
-      <link>https://t.me/hn_summary/89688</link>
-      <description><![CDATA[软件设计哲学 [pdf](https://news .ycombinator.com/item?id=40363836)
-在《软件设计哲学》中，John Ousterhout 解决了计算机科学中经常被忽视的核心问题：问题分解。尽管编程技术和工具取得了数十年的进步，但将复杂问题分解为可管理部分的基本任务仍未得到充分探索。 Ousterhout 强调了教育课程中缺乏对软件设计的关注，并指出，当我们教授编程结构时，我们忽视了设计艺术。他在斯坦福大学开设的 CS 190 课程旨在通过迭代项目和广泛的代码审查（类似于英语写作课程）教授设计原理来填补这一空白。本书概括了从他的课程中得出的高级原理，提供了提高软件质量和程序员生产力的见解。 
+      <title>标题：Show HN：我做了一个简单但功能强大的部署工具</title>
+      <link>https://t.me/hn_summary/89831</link>
+      <description><![CDATA[Show HN：我做了一个简单但功能强大的部署工具
+标题：Show HN：我做了一个简单但强大的部署工具
 
-争议点：Ousterhout 挑战了软件设计技能是一种与生俱来的才能的观点，认为它可以通过实践来教授和磨练。
+站点：deploywithjig.askh.at
 
-独特的见解：将软件设计教学比作英语写作课，通过迭代草稿和反馈，是提高设计技能的巧妙方法。 （根据故事文字的 2% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/89688</guid>
-      <pubDate>Wed, 15 May 2024 07:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]GitKraken 收购了 CodeSee 并推出了 GitKraken DevEx 平台，旨在 [...]</title>
-      <link>https://t.me/hn_summary/89687</link>
-      <description><![CDATA[GitKraken 收购 CodeSee 并推出新的、无处不在的 DevEx 平台 
-GitKraken 收购了 CodeSee 并推出了 GitKraken DevEx 平台，旨在增强跨主要开发环境的工作流程并为开发人员工具设定新标准。该平台将 CodeSee 的高级工作流程自动化和代码理解与 GitKraken 的现有工具（如 GitLens、GitKraken CLI 和基于浏览器的新工具 GitKraken.dev。主要功能包括用于全面代码审查的代码建议、用于管理 PR 和问题的 Launchpad 以及人工智能驱动的开发工具。 GitKraken 客户端更名为 GitKraken 桌面反映了其作为该统一平台的中央访问点的作用，强调跨各种环境的无缝、互联体验。]]></description>
-      <guid>https://t.me/hn_summary/89687</guid>
-      <pubDate>Wed, 15 May 2024 07:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Krista 和 Tatiana Hogan，2006 年 10 月 25 日出生于不列颠哥伦比亚省温哥华市，[...]</title>
-      <link>https://t.me/hn_summary/89686</link>
-      <description><![CDATA[克里斯塔和塔蒂安娜·霍根
-克里斯塔·霍根 (Krista Hogan) 和塔蒂安娜·霍根 (Tatiana Hogan) 于 2006 年 10 月 25 日出生于不列颠哥伦比亚省温哥华市，是加拿大颅骨连体双胞胎，共用一个头骨和大脑。尽管出生时的存活率只有 20%，但他们仍然茁壮成长，并与母亲一起生活在不列颠哥伦比亚省弗农市。他们相互联系的神经系统使他们能够分享感官体验，例如通过彼此的眼睛看到并感受彼此的感觉。医学专家认为，由于风险较高，分离是不可能的。他们独特的状况引起了媒体的广泛关注，包括国家地理和探索频道的纪录片。双胞胎的共同意识为神经学基础提供了宝贵的见解，有可能证明大脑之间如何共享经验。]]></description>
-      <guid>https://t.me/hn_summary/89686</guid>
-      <pubDate>Wed, 15 May 2024 07:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这篇详细分析中，作者探索了 S8 数据线定位器，这是一种隐蔽的 GSM [...]</title>
-      <link>https://t.me/hn_summary/89685</link>
-      <description><![CDATA[低预算消费者硬件间谍植入物：隐藏在&lt;中的 GSM 设备/a&gt;
-在这篇详细分析中，作者探讨了 S8 数据线定位器，这是一种隐藏在标准 USB 数据/充电电缆内的隐蔽 GSM 监听和定位设备。这种低成本间谍工具让人想起 NSA 的 COTTONMOUTH 产品线，支持多个 GSM 频率，可用于窃听和位置跟踪。该设备可以通过短信命令触发来监听对话或报告其位置，尽管误差最大可达 1.57 公里。作者强调了该设备被恶意使用的可能性，因为其隐蔽性以及它将数据发送到未知端点的事实，引发了安全担忧。分析包括对设备的拆解、对其组件的识别，并尝试转储其固件，从而揭示其使用 MediaTek MT6261MA 芯片和其他硬件细节。作者还指出该设备能够访问 SIM 卡数据，但这对于其主要功能来说并不是必需的，这表明该设备还具有进一步的间谍功能。 （根据故事文本的 31% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/89685</guid>
-      <pubDate>Wed, 15 May 2024 07:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]古代东欧大型网站：社会平等概念？</title>
-      <link>https://t.me/hn_summary/89684</link>
-      <description><![CDATA[古代东欧大型网站：社会平等概念？
-公元前 4200 至 3600 年间，特里皮利亚巨型遗址出现在北海草原北部，成为欧洲最大的史前社区之一，拥有多达 10,000 名居民。这些农业定居点以肥沃的土壤和常年居住为特征，引发了研究人员关于将其归类为“巨型”村庄还是城市中心的争论。本研究探讨了这些网站的社会结构，特别关注家庭之间的财富分配。该研究利用从房屋面积得出的基尼系数，评估了当今罗马尼亚、摩尔多瓦和乌克兰 38 个定居点的不平等情况。研究结果表明，这是一种没有中央领导的独特的平等主义社会政治组织形式，挑战了传统的城市化概念。 （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89684</guid>
-      <pubDate>Wed, 15 May 2024 07:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Great Question (YC W21) 正在寻找全栈 Rails 工程师加入我们的使命 [...]</title>
-      <link>https://t.me/hn_summary/89683</link>
-      <description><![CDATA[大问题（YC W21）正在招聘产品工程师（Rails/React） )
-Great Question (YC W21) 正在寻找全栈 Rails 工程师来加入我们的使命，即实现用户研究民主化并帮助以客户为中心的公司更有效地与客户互动。我们提供企业级一体化研究 CRM，促进客户访谈、调查和原型测试。我们的平台还集成了人工智能，使用法学硕士自动分析和合成数据。我们正在寻找经验丰富的 Ruby on Rails 开发人员来帮助提升我们的工程和产品组织。这种远程角色提供了重要的自主权、所有权和影响力，并提供了深入的技术发展或管理的机会。理想的候选人应该拥有 5 年以上的 Web 应用程序开发经验、强大的 Ruby on Rails 技能以及以客户为中心的心态。立即申请，与我们一起塑造用户研究的未来！]]></description>
-      <guid>https://t.me/hn_summary/89683</guid>
-      <pubDate>Wed, 15 May 2024 07:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国目前正在经历最具破坏性的能源丑闻，根源在于[...]</title>
-      <link>https://t.me/hn_summary/89682</link>
-      <description><![CDATA[美国最大的能源骗局正在发生
-美国目前正在经历最具破坏性的能源丑闻，其根源在于政府与化石燃料行业之间的长期联盟。尽管科学家在 20 世纪 50 年代就化石燃料对气候的影响发出了早期警告，但该行业在联邦和州政府的大力补贴下仍在蓬勃发展。这个“碳卡特尔”有效地阻止了有意义的气候行动，该行业在政治影响和广告上花费了超过万亿美元。市场价格隐藏的环境和社会成本使得清洁能源替代品难以竞争。最近的国会调查证实了该行业广泛的欺骗和虚假信息活动。为了解决这个问题，选民必须选出支持碳定价、终止化石燃料补贴并促进向清洁能源过渡的领导人。如果不采取行动，将导致不可逆转的气候灾难。 
+摘要：
 
-争议：文章强调政府与化石燃料行业之间的深层纠葛，指责民选官员参与“碳卡特尔”
+Jig 是一种简单而强大的部署工具，旨在使用 Docker 和 Traefik 自动执行日常任务，从而更轻松地管理个人虚拟服务器上的服务。受 Vercel 和 Exoframe.js 的启发，Jig 旨在将 Vercel 的部署体验引入自托管环境，同时通过自动化最大限度地减少人为错误。安装过程包括使用 Docker 设置服务器并手动配置 DNS，然后使用节点包管理器设置客户端。配置完成后，Jig 可以通过将项目发送到服务器或在本地构建它们来实现快速高效的部署。 Traefik 处理 HTTPS 重定向和证书管理，确保安全连接。
 
-令人惊讶/聪明：该行业利用 SLAPP 诉讼来恐吓环保组织，以及为避免采取气候行动而向大学提供战略捐赠的行为尤其引人注目。]]></description>
-      <guid>https://t.me/hn_summary/89682</guid>
-      <pubDate>Wed, 15 May 2024 06:50:06 GMT</pubDate>
+争议：
+- 缺乏内置 DNS 管理可能被视为一个缺点，需要手动配置。
+
+独特/聪明：
+- Jig 最大限度地减少磁盘写入和流数据以加快部署速度的方法尤其值得注意。]]></description>
+      <guid>https://t.me/hn_summary/89831</guid>
+      <pubDate>Wed, 15 May 2024 23:53:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]受到 Twitter/X 最近讨论的启发，我觉得有必要写下我对 [...]</title>
-      <link>https://t.me/hn_summary/89681</link>
-      <description><![CDATA[RSS 以及为什么我相信大多数人应该回来使用它们
-受到 Twitter/X 最近讨论的启发，我觉得有必要写下我对 RSS 源的热爱以及为什么我相信更多的人应该使用它们。 RSS 是一种被低估的技术，它通过将来自各种博客、播客、YouTube 频道和时事通讯的内容聚合到一个地方来简化数据消耗。这可以减少噪音并更容易保持更新。作为患有 ADHD 的人，我发现 RSS 提要，特别是通过我的读者 NetNewsWire，对于管理我的兴趣和保持我的注意力非常有帮助。我鼓励大家尝试 RSS，甚至分享我的 OPML 文件以获取博客建议。]]></description>
-      <guid>https://t.me/hn_summary/89681</guid>
-      <pubDate>Wed, 15 May 2024 06:47:57 GMT</pubDate>
+      <title>[媒体] 在过去的十年里，作为一名技术招聘人员，我学到了宝贵的经验教训，这些经验教训 [...]</title>
+      <link>https://t.me/hn_summary/89830</link>
+      <description><![CDATA[过去十年招聘开发人员的经验教训 
+在过去的十年里，作为一名技术招聘人员，我学到了宝贵的经验教训，这些经验教训塑造了我招聘开发人员的方法。从 2008 年开始，当我使用 ICQ 联系候选人时，我看到了情况随着技术的发展而演变。尽管发生了这些变化，通信和网络的核心原则仍然保持不变。以下是我最重要的 15 堂课：
+
+1. 对技术和人的热情至关重要；其他一切都可以学习。
+2. 大多数科技人才都是被动候选人；预计回复率较低。
+3. 提出问题可以帮助您学习技术语言。
+4. 接受开发者的怪癖，不要刻板印象。
+5. 在外展方面具有独特性；使用 GitHub 和 Hacker News。
+6. 掌握技术招聘需要时间。
+7. 稍微好一点的表现可以让候选人“惊叹”。
+8. 快速响应和反馈是责任，而不是优势。
+9.了解编码员的动机是关键；编码技能是额外的奖励。
+10. 在一般职位之外建立强大的个人品牌。
+11. 支持技术社区寻找工程师。
+12. 不断学习。
+13. 仅仅了解行业术语还不够；还需要了解行业术语。担任技术职务。
+14. 进入互联网行业，技术招聘并不是一件容易的事。
+15. 尊重潜在员工。
+
+在 Hacker News 上与招聘人员分享您的经验，并在 LinkedIn 上与我联系！]]></description>
+      <guid>https://t.me/hn_summary/89830</guid>
+      <pubDate>Wed, 15 May 2024 23:49:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在过去的几周里，嘻哈界一直被两人之间的激烈争斗所困扰……</title>
-      <link>https://t.me/hn_summary/89680</link>
-      <description><![CDATA[Diss 曲目和应答歌曲的历史
-在过去的几周里，嘻哈界一直被德雷克和肯德里克·拉马尔之间的激烈争执所吸引，从典型的交流升级到对掠夺性行为、家庭暴力和缺席育儿的严厉指控。对于那些被戏剧所震撼的人，Stereogum 和 Pitchfork 提供了全面的总结。这场冲突让我思考了diss曲目和回答歌曲的更广泛的传统。从历史上看，这些音乐反应源于古代知识分子的竞争，例如罗马作家马夏尔和西纳。伍迪·格思里 (Woody Guthrie) 的《这片土地是你的土地》(This Land is Your Land) 延续了这一传统，这是对《上帝保佑美国》(God Bless America) 的回应，基蒂·威尔斯 (Kitty Wells) 的《不是上帝创造了低级唐克天使》(It Wasn&#39;t God Who Made Honky Tonk Angels) 是对汉克·汤普森 (Hank Thompson) 的《The Wild Side of》的回应。生活。”答对歌曲的鼎盛时期从 20 世纪 50 年代末到 1960 年代，通常是由寻求利用流行歌曲的艺术家和唱片公司推动的。我利用各种来源的数据，编制了一个包含 300 多首回答歌曲的数据库，揭示了它们的流行程度和类别，从续集到性别回应。虽然 diss 曲目仍然很受欢迎，但其他形式的音乐引用（例如采样）已经掩盖了答案歌曲。然而，乡村音乐、R&amp;B 和嘻哈音乐等流派历来都接受了这一传统，这表明它可能仍然在小众音乐社区中蓬勃发展。]]></description>
-      <guid>https://t.me/hn_summary/89680</guid>
-      <pubDate>Wed, 15 May 2024 06:46:53 GMT</pubDate>
+      <title>问 HN：您还在使用 Vision Pro 吗？</title>
+      <link>https://t.me/hn_summary/89829</link>
+      <description><![CDATA[询问 HN：您还在使用 Vision Pro 吗？
+标题：问 HN：您还在使用 Vision Pro 吗？
+网站：news.ycombinator.com
+
+我正在为一些越野航班做准备，并考虑购买 Vision Pro 让旅行更舒适。我很好奇这里是否有人积极使用他们的，无论是在航班上、工作中，还是只是积满灰尘。您的经验和见解将会非常有帮助！]]></description>
+      <guid>https://t.me/hn_summary/89829</guid>
+      <pubDate>Wed, 15 May 2024 23:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]特斯拉股票的持有者将于 6 月 13 日投票决定首席执行官埃隆·马斯克是否应该获得 [...]</title>
+      <link>https://t.me/hn_summary/89828</link>
+      <description><![CDATA[特斯拉即将举行股东投票，授予马斯克 46B 美元&lt; br/&gt;
+特斯拉股票的持有者将于 6 月 13 日投票决定首席执行官埃隆·马斯克是否应该获得 460 亿美元的发薪日。此次投票旨在恢复 2018 年的薪酬方案，该方案已被特拉华州法官因对谈判过程的担忧而无效。该计划如果获得批准，将授予马斯克数百万股股票，奖励他实现财务和股价目标。特斯拉董事会主席罗宾·丹霍姆正在积极争取股东的批准，甚至投放广告来影响选票。结果取决于马斯克不持有的 87% 股份，尤其是个人投资者持有的 30% 股份。这次投票是在特斯拉陷入财务困境和最近裁员之际进行的，这使得该决定引起争议。]]></description>
+      <guid>https://t.me/hn_summary/89828</guid>
+      <pubDate>Wed, 15 May 2024 23:46:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
