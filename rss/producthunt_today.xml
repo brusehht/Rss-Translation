@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 May 2024 12:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 15:13:54 GMT</lastBuildDate>
     <item>
       <title>参与意见箱</title>
       <link>https://www.producthunt.com/posts/engagewith-suggestion-box</link>
       <description><![CDATA[
-            员工匿名提问、建议、投票支持您的数字总部
+            员工匿名问答、建议、投票支持您的数字总部
           
 
 讨论
@@ -37,15 +37,29 @@
       <title>focusOS</title>
       <link>https://www.producthunt.com/posts/focusos</link>
       <description><![CDATA[
-一键隐藏所有干扰
+            一键隐藏所有干扰
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/focusos</guid>
+      <pubDate>Fri, 17 May 2024 05:15:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>特洛</title>
+      <link>https://www.producthunt.com/posts/telow-2</link>
+      <description><![CDATA[
+利用 AI 获取可操作的业务情报
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/focusos</guid>
-      <pubDate>Fri, 17 May 2024 05:15:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/telow-2</guid>
+      <pubDate>Thu, 16 May 2024 23:22:09 GMT</pubDate>
     </item>
     <item>
       <title>洪博来访</title>
@@ -62,43 +76,43 @@
       <pubDate>Thu, 16 May 2024 18:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>皮基莫夫</title>
-      <link>https://www.producthunt.com/posts/pikimov</link>
+      <title>覆盖</title>
+      <link>https://www.producthunt.com/posts/cover-10</link>
       <description><![CDATA[
-            免费在线动作设计和视频编辑器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/pikimov</guid>
-      <pubDate>Thu, 16 May 2024 08:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>水龙头流1.0</title>
-      <link>https://www.producthunt.com/posts/tapflow-1-0</link>
-      <description><![CDATA[
-            您的知识已打包并准备出售
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tapflow-1-0</guid>
-      <pubDate>Thu, 16 May 2024 07:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>美食假期</title>
-      <link>https://www.producthunt.com/posts/food-holidays</link>
-      <description><![CDATA[
-            美食家的国庆日
+            您的流行文化伴侣
           
 
 讨论&lt; /a&gt;
             |
             链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/cover-10</guid>
+      <pubDate>Thu, 16 May 2024 18:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>整洁的表情符号</title>
+      <link>https://www.producthunt.com/posts/neatemoji</link>
+      <description><![CDATA[
+            Chrome 扩展程序可在任何地方将文本转换为表情符号
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/neatemoji</guid>
+      <pubDate>Thu, 16 May 2024 18:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>美食假期</title>
+      <link>https://www.producthunt.com/posts/food-holidays</link>
+      <description><![CDATA[
+美食家的全国节日 
+
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/food-holidays</guid>
       <pubDate>Wed, 15 May 2024 16:44:11 GMT</pubDate>
@@ -118,10 +132,10 @@
       <pubDate>Wed, 15 May 2024 15:27:19 GMT</pubDate>
     </item>
     <item>
-      <title>Insighto</title>
+      <title>洞察力</title>
       <link>https://www.producthunt.com/posts/insighto</link>
       <description><![CDATA[
-            提供用户（真正）想要的功能
+            船舶功能用户想要的
           
 
 讨论
@@ -163,12 +177,12 @@
       <title>用于数据库的 Hoop.dev</title>
       <link>https://www.producthunt.com/posts/hoop-dev-for-databases</link>
       <description><![CDATA[
-专为团队打造的 AI 驱动数据库客户端
-
+            专为团队构建的人工智能驱动的数据库客户端
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/hoop-dev-for-databases</guid>
       <pubDate>Tue, 14 May 2024 15:25:06 GMT</pubDate>
@@ -177,7 +191,7 @@
       <title>测试精灵测试版</title>
       <link>https://www.producthunt.com/posts/testsprite-beta</link>
       <description><![CDATA[
-            第一个全自动端到端人工智能测试解决方案
+            使用 AI 实现端到端的全自动软件测试
           
 
 讨论&lt; /a&gt;
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/testsprite-beta</guid>
       <pubDate>Mon, 13 May 2024 15:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲斯克尔</title>
-      <link>https://www.producthunt.com/posts/fiskl</link>
-      <description><![CDATA[
-            人工智能驱动的会计和财务管理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fiskl</guid>
-      <pubDate>Fri, 03 May 2024 10:50:01 GMT</pubDate>
     </item>
     <item>
       <title>hoggo 的信任中心</title>
