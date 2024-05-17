@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 17 May 2024 09:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 12:20:06 GMT</lastBuildDate>
+    <item>
+      <title>拥有人工智能的人能超越拥有多年经验的人吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu38ge/can_someone_with_access_to_ai_outperform_a_person/</link>
+      <description><![CDATA[每个人都说我在自己的领域有足够的经验和知识，但随着人工智能的兴起，接触人工智能的人能超越拥有多年经验的人吗？经验？   由   提交/u/Curious_Suchit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu38ge/can_someone_with_access_to_ai_outperform_a_person/</guid>
+      <pubDate>Fri, 17 May 2024 11:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>地球2.0模拟参数</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu1cjn/earth_20_simulation_parameters/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu1cjn/earth_20_simulation_parameters/</guid>
+      <pubDate>Fri, 17 May 2024 09:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘人工智能术语：NLP 与 LLM</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu10j5/demystifying_ai_jargon_nlp_vs_llms/</link>
+      <description><![CDATA[曾经与智能聊天机器人交谈过或阅读过听起来自然的机器撰写的文章吗？这些都要归功于人工智能，特别是自然语言处理 (NLP) 和大型语言模型 (LLM)。但有什么区别呢？ NLP 就像一个理解人类语言、分解句子、识别关键词和把握情感的工具包。将其视为木匠使用的工具。 另一方面，法学硕士是创意作家。经过大量文本的训练，他们不仅能够理解语言，还能生成类似人类的文本、翻译语言并创建内容。 简而言之，NLP 帮助人工智能理解语言，而法学硕士则利用这种理解来创造内容。新内容。他们共同利用人类语言提升人工智能的能力。 https://www.seaflux.tech/blogs/llm-vs-nlp-use-case-for-business-solutions   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu10j5/demystifying_ai_jargon_nlp_vs_llms/</guid>
+      <pubDate>Fri, 17 May 2024 09:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>NLTK 与 spaCy：研究与开发</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu0yow/nltk_vs_spacy_research_vs_development/</link>
+      <description><![CDATA[NLTK：用于 NLP 研究的灵活工具包，就像一个储备充足的工作台。 spaCy：用于核心任务的预训练模型，非常适合构建现实世界的 NLP 应用程序。 选择 NLTK 进行深入研究，选择 spaCy 来提高开发速度和准确性。 https://www.seaflux.tech/blogs/nltk-vs-spacy-nlp-libraries-comparison &lt; /div&gt;  由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu0yow/nltk_vs_spacy_research_vs_development/</guid>
+      <pubDate>Fri, 17 May 2024 09:24:38 GMT</pubDate>
+    </item>
     <item>
       <title>麻省理工学院的研究人员利用机器学习和卫星远程绘制粮食作物地图</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu0i8w/mit_researchers_remotely_map_food_crops_using/</link>
@@ -20,7 +48,7 @@
       <pubDate>Fri, 17 May 2024 08:28:37 GMT</pubDate>
     </item>
     <item>
-      <title>比较 Bland AI、Retell 和 Vapi Voice Bot 有何优缺点？</title>
+      <title>比较 Bland AI、Retell 和 Vapi Voice Bot，它们有哪些优缺点？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu01ye/what_are_pros_and_cons_when_you_compare_bland_ai/</link>
       <description><![CDATA[您好！我最近正在测试这三个。我的经验是，您可以看到单提示和多提示语音机器人代理之间语音机器人质量的差异，但特定解决方案的输出没有巨大差异。 但是，我仍然可以看到一些差异： 平淡的人工智能 在控制多提示语音机器人方面最强大，但有更多的可能性，有更多的地方，它可能会失败。我可以测试拨打实际电话号码的呼叫。 重述 多提示语音机器人设置功能不太强大，但用户体验更流畅。同一个问题有多种可能性，就等于有多种失败的可能性。没有用户管理。使用 OpenAI 语音。如果不向实际电话号码提供我的账单详细信息并查看延迟，则无法测试通话。 Vapi 仅限单提示语音机器人。没有用户管理。使用 OpenAI 语音。如果不向实际电话号码提供我的账单详细信息并查看延迟，则无法测试通话。 我很想听听您的经验和教训以及最适合您的方法。  此外，我有很多关于延迟的知识，所以如果您有兴趣了解我将分享它。 :)   由   提交 /u/atlaua-the-goddess   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu01ye/what_are_pros_and_cons_when_you_compare_bland_ai/</guid>
@@ -29,44 +57,23 @@
     <item>
       <title>人工智能“大脑”图</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctyqog/ai_brain_diagrams/</link>
-      <description><![CDATA[我看到一篇采访，杰弗里·辛顿 (Geoffrey Hinton) 说我们目前并不完全理解“心智”是如何运作的。人工智能作品。这让我想起了有关卡尔·西姆斯的虚拟生物的片段。他说他并不完全了解进化后的虚拟生物的大脑是如何工作的。然而，他确实有他们的“大脑”图。它们的结构和对称性让我着迷。  所以我只是好奇，聊天机器人或文本到视频生成器是否有类似的图表？我只是觉得这些图表看起来和思考起来很有趣。  Karl Sims 访谈（约 1995 年）：https://youtu .be/WmrTNrtE-Lk?si=T7b2K1ps-7FAnF21&amp;t=2m57s（时间戳为 2:57）    ;由   提交 /u/CzeckeredBird   [链接] [评论]]]></description>
+      <description><![CDATA[我看到一篇采访，杰弗里·辛顿 (Geoffrey Hinton) 说我们目前并不完全理解“心智”是如何运作的。人工智能作品。这让我想起了有关卡尔·西姆斯的虚拟生物的片段。他说他并不完全了解进化后的虚拟生物的大脑是如何工作的。然而，他确实有他们的“大脑”图。它们的结构和对称性让我着迷。  问题：聊天机器人或文本到视频生成器是否有类似的图表？我只是觉得这些图表看起来和思考起来很有趣。  Karl Sims 访谈（约 1995 年）：https://youtu .be/WmrTNrtE-Lk?si=T7b2K1ps-7FAnF21&amp;t=2m57s（时间戳为 2:57）    ;由   提交 /u/CzeckeredBird   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctyqog/ai_brain_diagrams/</guid>
       <pubDate>Fri, 17 May 2024 06:41:49 GMT</pubDate>
     </item>
     <item>
-      <title>最新版本发布后，您订阅了哪些 AI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctvn4s/which_ai_subscriptions_do_you_have_after_the/</link>
-      <description><![CDATA[我一直是 ChatGPT 的订阅者，但现在他们最好的模型是免费的。  那么你推荐哪些人工智能订阅？ 我一直在研究 POE 和其他聚合多个人工智能的服务。任何建议都会有帮助。   由   提交 /u/Cheap_Gasoline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctvn4s/which_ai_subscriptions_do_you_have_after_the/</guid>
-      <pubDate>Fri, 17 May 2024 03:26:56 GMT</pubDate>
+      <title>如何在工作中使用人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwlqu/how_can_i_use_ai_for_work/</link>
+      <description><![CDATA[我听说人们将人工智能描述为一种工具，它使研究和写作比 5 年前容易 10 倍，但我还没有尝试过任何东西这确实有帮助。  我使用 Copilot 进行研究，但由于它有产生幻觉和误解数据的习惯，我无论如何都需要检查来源，所以它并不能节省我的时间。这包括要求它总结文本，我发现它的效果不足以证明使用的合理性。 当我想写一些东西时，我要求它写我想要的东西，但我只是发现文本最终不足以让我使用，所以无论如何我都必须写它。 我很想知道我可以做些什么来更好地使用这项新技术，如果有我可以做的技术的话尝试一下，或者我可以尝试的新应用程序。我很乐意推荐，欢呼。    由   提交/u/mr_arcane_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwlqu/how_can_i_use_ai_for_work/</guid>
+      <pubDate>Fri, 17 May 2024 04:22:38 GMT</pubDate>
     </item>
     <item>
       <title>我妈妈看着假照片并认为它们是真的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/</link>
-      <description><![CDATA[她会给我看她 Facebook 上的照片，这些照片的日期可以追溯到 1850 年代至 1900 年代，当时她刚开始接触我告诉她，它们都是人工智能生成的假图片，她对此非常恼火，而且有点不相信我，所以我只是要求她停止向我展示并自己欣赏它们，这样我就不会为她毁掉它们，她显然忘记了我告诉她它们是假的，这没关系，但是酥油..我必须经常看这些照片😅还有其他人有类似的事情发生吗？哈哈   由   提交/u/dewey-finnn   /u/dewey-finnn  reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[她会在 Facebook 上给我看这些照片，它们可以追溯到 19 世纪 50 年代到 20 世纪，当她第一次开始接触这些照片时，我告诉她这些照片都是人工智能生成的假照片，她对此非常恼火，有点不相信我，所以我只是让她别再给我看了，自己欣赏，这样我就不会破坏她的乐趣，她显然忘了我告诉过她这些照片是假的，这无所谓，但唉……我不得不经常看这些照片 😅 还有人有类似的事情吗？哈哈    提交人    /u/dewey-finnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/</guid>
       <pubDate>Fri, 17 May 2024 00:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 和 Reddit 合作：为什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctnjcj/openai_and_reddit_partnership_why/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctnjcj/openai_and_reddit_partnership_why/</guid>
-      <pubDate>Thu, 16 May 2024 20:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么苹果和亚马逊不全力投入人工智能领域</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctmdio/why_are_apple_and_amazon_not_going_all_in_on_ai/</link>
-      <description><![CDATA[也许已经在其他子帖中回答了，但找不到。如果已经讨论过，请道歉。  我最近一直在想，为什么像苹果和亚马逊这样的公司不像微软、谷歌和 OpenAI 那样一头扎进人工智能领域。凭借庞大的生态系统和数以百万计的用户每天依赖他们的产品，如果不利用人工智能来获得竞争优势，这似乎是一个错失的机会。 例如，很多家庭都有 Alexa 助手和 Siri（两者都非常漂亮）。无用）。你可能会认为他们至少会按照其他 GenAi 型号进行升级。  那么，苹果和亚马逊什么时候会在人工智能领域加强他们的游戏呢？感觉其他人的差距正在拉大。想法？   由   提交/u/B-Box360  /u/B-Box360  reddit.com/r/ArtificialInteligence/comments/1ctmdio/why_are_apple_and_amazon_not_going_all_in_on_ai/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctmdio/why_are_apple_and_amazon_not_going_all_in_on_ai/</guid>
-      <pubDate>Thu, 16 May 2024 20:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能将如何改变游戏中的故事讲述？ 《杀出重围》等热门游戏的编剧给了我非常细致入微的看法。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctlqt8/how_will_ai_change_storytelling_in_games_writers/</link>
-      <description><![CDATA[从社交媒体的泡沫来看，大型语言模型等人工智能技术的兴起很快将彻底改变游戏行业，导致一波又一波的裁员潮游戏行业从业人员。一个常见的论点是，当我们可以让 ChatGPT 制作大量 NPC 游戏对话时，为什么还要付钱给游戏作者呢？  然而，在与几位广受好评的游戏的实际作家交谈时，我得到了一个更加深思熟虑的观点，没有末日预言。 Leigh Alexander 例如将“游戏写作的人工智能“懒惰”指控一位摄影师说，“‘Photoshop 只适合懒惰的摄影师’：‘它误解了该工具的目的和广度，而且实际上让你听起来像是不懂摄影（这似乎对你的前景不利）如果你是一名摄影师）。” Charlene Putney，曾参与《博德之门 3》和《神界：原罪 2》的工作： “在我看来，这是另一种工具。从长远来看，我不认为它会取代作家，我认为它是我们可以利用的全新潜力火花。其中让我高兴的美丽的小火花与十年前在独立游戏开发场景中让我高兴的小火花是一样的：梦想它，制作它，分享它 - 现在使用共识现实的原则作为乐高砖块。不试图重建过去的媒体：不是小说，不是电影，不是歌曲。但一些奇怪的新生物、新形式现在只不过是影子，在我们眼角的余光中凝聚成形状。” 《杀出重围》的作者，伊隆·马斯克和其他硅谷人都是该书的忠实粉丝！ 阅读：https://nwn.blogs.com/nwn/2024/05/game-writing-llm-chatgpt.html   由   提交/u/slhamlet  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctlqt8/how_will_ai_change_storytelling_in_games_writers/</guid>
-      <pubDate>Thu, 16 May 2024 19:41:56 GMT</pubDate>
     </item>
     <item>
       <title>最适合休闲/娱乐的人工智能应用程序是什么？</title>
@@ -83,21 +90,14 @@
       <pubDate>Thu, 16 May 2024 18:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以通过哪些方式帮助智力中等或较低的人？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctk0fc/what_are_some_ways_artificial_intelligence_might/</link>
-      <description><![CDATA[我完全失明，天赋异禀，却没有工作，所以我身边住着许多贫穷、没有受过教育的人。考虑到我周围的人多么缺乏灵感，人工智能可以腾出时间做其他事情的想法很奇怪。我也想到那些无聊透顶的退休人员。人工智能如何才能为任何人或所有人的生活质量做出全面改善，特别是考虑到很少有人足够聪明，能够像那些出于某种原因认为他们会做到的聪明人一样奋力拼搏？    提交人    /u/heavensdumptruck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctk0fc/what_are_some_ways_artificial_intelligence_might/</guid>
-      <pubDate>Thu, 16 May 2024 18:31:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人因为人工智能而改变了自己的人生决定？</title>
+      <title>有谁因为人工智能而改变了自己的人生决定吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</link>
       <description><![CDATA[例如，在大学开始课程、转行、组建家庭、结婚、搬家等。 或者我可能没有想到的任何小决定   由   提交/u/broxue  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</guid>
       <pubDate>Thu, 16 May 2024 12:48:16 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
