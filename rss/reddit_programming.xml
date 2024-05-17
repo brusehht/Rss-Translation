@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 17 May 2024 00:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 03:13:59 GMT</lastBuildDate>
+    <item>
+      <title>网络上有什么新鲜事</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctu1q8/whats_new_in_the_web/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctu1q8/whats_new_in_the_web/</guid>
+      <pubDate>Fri, 17 May 2024 02:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 内核 - [RFC] 缓解意外算术溢出</title>
+      <link>https://www.reddit.com/r/programming/comments/1ctsz26/linux_kernel_rfc_mitigating_unexpected_arithmetic/</link>
+      <description><![CDATA[ 由   提交/u/MaskRay  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ctsz26/linux_kernel_rfc_mitigating_unexpected_arithmetic/</guid>
+      <pubDate>Fri, 17 May 2024 01:04:49 GMT</pubDate>
+    </item>
     <item>
       <title>今天感觉很傻，在序言中编码了 pong</title>
       <link>https://www.reddit.com/r/programming/comments/1ctsb78/felt_silly_today_and_coded_pong_in_prolog/</link>
-      <description><![CDATA[  由    /u/cleggacus  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/cleggacus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctsb78/felt_silly_today_and_coded_pong_in_prolog/</guid>
       <pubDate>Fri, 17 May 2024 00:30:33 GMT</pubDate>
     </item>
@@ -27,7 +41,7 @@
       <pubDate>Thu, 16 May 2024 22:32:29 GMT</pubDate>
     </item>
     <item>
-      <title>strb_t：新的字符串缓冲区类型</title>
+      <title>strb_t：一种新的字符串缓冲区类型</title>
       <link>https://www.reddit.com/r/programming/comments/1ctpk3x/strb_t_a_new_string_buffer_type/</link>
       <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctpk3x/strb_t_a_new_string_buffer_type/</guid>
@@ -50,19 +64,19 @@
     <item>
       <title>我是一个懒惰的开发者。以下是 Amazon Q 如何帮助我</title>
       <link>https://www.reddit.com/r/programming/comments/1ctjmi9/im_a_lazy_developer_heres_how_amazon_q_is/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctjmi9/im_a_lazy_developer_heres_how_amazon_q_is/</guid>
       <pubDate>Thu, 16 May 2024 18:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>P NP 声称已解决的问题</title>
+      <title>P NP 问题声称已解决</title>
       <link>https://www.reddit.com/r/programming/comments/1cti7it/p_np_problem_claimed_to_be_solved/</link>
       <description><![CDATA[中国天工大学的一名高年级学生声称他证明了P=NP。这是他在arxiv上的文章。 The Annual Journal of Mathematics正在审稿。使用的代码在百度网盘pan.baidu.com/wap/init?surl=…（密码：91re）    由   提交/u/Summer-Worm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cti7it/p_np_problem_claimed_to_be_solved/</guid>
       <pubDate>Thu, 16 May 2024 17:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>Go 的动态语言 Rye 中的并发</title>
+      <title>Go 在动态语言 Rye 中的并发性</title>
       <link>https://www.reddit.com/r/programming/comments/1cth1ih/gos_concurrency_in_a_dynamic_language_rye/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cth1ih/gos_concurrency_in_a_dynamic_language_rye/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ctgxb5/why_do_cpus_have_multiple_cache_levels/</guid>
       <pubDate>Thu, 16 May 2024 16:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>被遗忘的 APL 影响 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctgx1b/forgotten_apl_influences_pdf/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctgx1b/forgotten_apl_influences_pdf/</guid>
-      <pubDate>Thu, 16 May 2024 16:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Rust、可变别名和形式验证的一些注释</title>
-      <link>https://www.reddit.com/r/programming/comments/1ctgwu9/some_notes_on_rust_mutable_aliasing_and_formal/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ctgwu9/some_notes_on_rust_mutable_aliasing_and_formal/</guid>
-      <pubDate>Thu, 16 May 2024 16:23:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
