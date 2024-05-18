@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 18 May 2024 12:20:32 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sat, 18 May 2024 15:13:46 GMT</lastBuildDate>
     <item>
       <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 17 May 2024 20:20:14 GMT</pubDate>
     </item>
     <item>
-      <title>我可以将开放式角色扮演游戏制作工具的外壳与 godot 结合起来使其发挥作用吗？</title>
+      <title>我可以取 Open RPG Maker 的外壳并将其与 Godot 结合起来以使其发挥作用吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</link>
       <description><![CDATA[ 由   提交 /u/WalkingGundam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>开源既不是社区也不是民主</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</link>
-      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</guid>
       <pubDate>Fri, 17 May 2024 15:47:13 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>Nodejs 应用程序的开源日志记录解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu4gk9/an_opensource_logging_solution_for_nodejs_apps/</link>
-      <description><![CDATA[带有内置 Web 仪表板的 Node.js 记录器。 为所有 Nodejs 开发人员提供高级日志记录功能不受专有软件限制的水平。 请随时查看并分享您的想法。 https://github.com/errsole/errsole.js/    由   提交 /u/VenkiThoughts   [链接] [评论]]]></description>
+      <description><![CDATA[带有内置 Web 仪表板的 Node.js 记录器。 为各个级别的 nodejs 开发人员提供高级日志记录功能，而不受专有软件的限制。 请随时查看并分享您的想法。 https://github.com/errsole/errsole.js/     提交人    /u/VenkiThoughts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu4gk9/an_opensource_logging_solution_for_nodejs_apps/</guid>
       <pubDate>Fri, 17 May 2024 12:55:56 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>发布 MJ PDF v2.2.0，开源 Android PDF 阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctsmdm/announcing_mj_pdf_v220_opensource_android_pdf/</link>
-      <description><![CDATA[嘿r/opensource社区！&lt; /p&gt; 我的开源 PDF 阅读器 MJ PDF v2.2.0 即将正式发布&lt; /a&gt;，但我需要你的测试帮助。该版本侧重于改进和稳定性。以下是更改日志的简短摘要： 简短更改日志  添加了对阿拉伯语、中文、土耳其语、德语、西班牙语、葡萄牙语、印地语和俄语的支持。 引入了“始终处于水平模式”选项。 向搜索结果添加了返回按钮，改进了搜索结果突出显示。 添加了对密码保护和非本地 PDF 的全面支持. 添加了一个实验性设置以显示“重新加载 PDF 文件”按钮 修复了后退按钮在某些情况下不起作用的问题。 改进了 UI 一致性具有图标和文本颜色，以及更简化的全屏按钮布局。 解决了许多崩溃情况。 更新了 Android SDK、Gradle 和许多依赖项。  ul&gt; 注意：核心库的重大更新标志着重大进展，解决了长期存在的问题。 令人兴奋的更新 在此版本上工作时，我找到了一种可能添加一些最需要的功能的方法，例如文本突出显示和实时文本选择。看来我可以毫不费力地完成这些工作。然而，我现在很忙，所以我不确定什么时候开始做这些。我会随时通知您！ 链接  直接下载链接。 简单变更日志。 详细变更日志 .  感谢您参与这次旅程，祝您测试愉快！   由   提交 /u/mudlej   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，r/opensource 社区！ 我的开源 PDF 阅读器 MJ PDF v2.2.0 即将正式发布，但我需要您的帮助进行测试。此版本侧重于改进和稳定性。以下是变更日志的简短摘要： 简短变更日志  增加了对阿拉伯语、中文、土耳其语、德语、西班牙语、葡萄牙语、印地语和俄语的支持。 引入了“始终处于水平模式”选项。 在搜索结果中添加了返回按钮，改进了搜索结果突出显示。 增加了对受密码保护和非本地 PDF 的全面支持。 添加了一个实验性设置以显示“重新加载 PDF 文件”按钮 解决了后退按钮在某些情况下不起作用的问题。 提高了图标和文本颜色的 UI 一致性，以及更简化的全屏按钮布局。 解决了许多崩溃情况。 已更新至 Android SDK、Gradle 和许多依赖项。  注意：对核心库的重大更新标志着重大进展，解决了长期存在的问题。 激动人心的更新 在开发此版本时，我发现了一种方法，可以添加一些最受期待的功能，例如文本突出显示和实时文本选择。看起来我可以毫不费力地完成这些功能。但是，我现在忙得不可开交，所以我不确定什么时候开始做这些。我会随时通知你！ 链接  直接下载链接。 简单变更日志。 详细变更日志。  感谢您参与这次旅程，祝您测试愉快！    由    /u/mudlej  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctsmdm/announcing_mj_pdf_v220_opensource_android_pdf/</guid>
       <pubDate>Fri, 17 May 2024 00:46:48 GMT</pubDate>
     </item>
