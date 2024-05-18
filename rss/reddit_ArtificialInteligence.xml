@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 18 May 2024 00:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 03:12:38 GMT</lastBuildDate>
+    <item>
+      <title>解决数字问题 - Gemini 与 ChatGPT 相比如何</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cunmb8/solving_a_numbers_question_how_gemini_did/</link>
+      <description><![CDATA[我需要在定义的数字列表中找到加起来等于特定值的数字组合。我首先询问 ChatGPT-4o，它实际上遇到了问题。然后我尝试了 ChatGPT-4，在第一次请求时我在 10 秒内就得到了正确的答案。 今天在更新一些应用程序时，我看到了 Google 最新的 AI 工具，它现在被命名为 Gemini。考虑到谷歌在人工智能之战中糟糕的开局以及他们在本周早些时候的谷歌 I/O 大会上对人工智能的关注程度，我决定尝试进行直接比较。考虑到他们觉得它很新并且改进得足以甚至不与巴德同名，我对此抱有很高的期望，但结果是......好吧，他们值得你自己看看...... 双子座对话： https://gemini.google.com/share/182898f57e86   由   提交 /u/gafana   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cunmb8/solving_a_numbers_question_how_gemini_did/</guid>
+      <pubDate>Sat, 18 May 2024 03:03:50 GMT</pubDate>
+    </item>
     <item>
       <title>您认为有权势的人会如何应对或应对人工智能的监管？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuju0t/how_do_you_think_powerful_people_would_address_or/</link>
@@ -20,13 +27,6 @@
       <pubDate>Fri, 17 May 2024 23:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>关于鸦片鸟的问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuj419/question_on_opium_bird/</link>
-      <description><![CDATA[有人知道他们用什么来生成鸦片鸟/侵蚀鸟吗？是否有免费的人工智能视频生成器可以生成类似的东西？&lt; /p&gt;   由   提交/u/EntertainerNo600   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuj419/question_on_opium_bird/</guid>
-      <pubDate>Fri, 17 May 2024 23:12:28 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 的一位前领导人表示，在这家人工智能公司，安全已经“让位于闪亮的产品”。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuj3r0/a_former_openai_leader_says_safety_has_taken_a/</link>
       <description><![CDATA[一位前 OpenAI 领导者表示，在这家人工智能公司，安全性已经“让位于闪亮的产品”。 https://candorium .com/news/20240517183318507/a-former-openai-leader-says-safety-has-a-backseat-to-shiny-products-at-the-ai-company   由   提交/u/10marketing8  [链接] [评论]]]></description>
@@ -34,9 +34,16 @@
       <pubDate>Fri, 17 May 2024 23:12:05 GMT</pubDate>
     </item>
     <item>
+      <title>还有其他人担心像 Suno 和 Udio 这样的音乐人工智能可能被用于大规模版权流氓计划吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuit7b/is_anyone_else_concerned_about_the_potential_for/</link>
+      <description><![CDATA[大家好， 随着人工智能音乐生成技术的进步，我一直在思考一件似乎越来越合理的事情。想象一下这样的场景：某人，甚至是一家公司，决定生成数百万首人工智能创作的歌曲——目的不是为了发布或出售它们，而只是为了拥有版权。这些歌曲，包括歌词、旋律和和弦进行，然后被保密。 如果任何独立艺术家甚至一家大唱片公司无意中创作了一首与这些人工智能生成的曲目有任何相似的歌曲，他们可能会因侵犯版权而面临诉讼。考虑到音乐中有限的组合，以及人工智能系统地覆盖大量这些组合的潜力，这可能是一个巨大的问题。 我很好奇，想知道社区或专家之间是否讨论过这种可能性。这种情况可能会将版权法武器化，扼杀创造力，并将真正的艺术家置于危险之中。 你对此有什么看法？    提交人    /u/sursill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuit7b/is_anyone_else_concerned_about_the_potential_for/</guid>
+      <pubDate>Fri, 17 May 2024 22:58:20 GMT</pubDate>
+    </item>
+    <item>
       <title>我将免费为您构建一个应用程序或自动化</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cugj5x/ill_build_you_an_app_or_automation_for_free/</link>
-      <description><![CDATA[告诉我你想要什么应用或 AI 助手，我会免费为你构建。 我会选择这个帖子中的几个想法开始。欢迎随时给我发私信。 我感觉很无聊，想找个空闲的周末。我花了太多时间构建 Web/移动应用，并集成了 LLM、扩散模型等。希望这也能为其他人创建一个有趣的想法列表 :)    提交人    /u/unluckybusinessowner   [链接] [评论]]]></description>
+      <description><![CDATA[告诉我你想要什么应用程序或你想要什么人工智能助手，我会免费为你构建它。 我会选择此线程上的一些想法来开始。请随时私信我。 我觉得很无聊，周末有空。我花了太多时间构建网络/移动应用程序，并集成了法学硕士、扩散模型等。希望这能为其他人构建一个有趣的想法列表:)   由   提交/u/unluckybusinessowner   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cugj5x/ill_build_you_an_app_or_automation_for_free/</guid>
       <pubDate>Fri, 17 May 2024 21:16:01 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>你喜欢gpt4o吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cud3hp/do_you_like_gpt4o/</link>
-      <description><![CDATA[我喜欢这种不那么令人愉快的方式，并且想让我相信其他东西会更好。哈哈 你还尝试过什么？   由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/r/ArtificialInteligence/comments/1cud3hp/do_you_like_gpt4o/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我喜欢它不那么令人愉快，并想说服我别的东西会更好。哈哈 你还尝试了什么？    提交人    /u/Maybe-reality842   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cud3hp/do_you_like_gpt4o/</guid>
       <pubDate>Fri, 17 May 2024 18:52:18 GMT</pubDate>
     </item>
@@ -76,23 +83,16 @@
       <pubDate>Fri, 17 May 2024 18:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>通过人工智能看看你的宝宝会是什么样子</title>
+      <title>通过 AI 看看您的宝宝会是什么样子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cuasd1/see_what_your_baby_would_look_like_with_ai/</link>
       <description><![CDATA[网站  关于：很多人想知道他们的孩子和他们的伴侣会是什么样子，但似乎所有的工具要么非常糟糕，要么是付费墙后面的，所以我我和另外两个队友开发了一个产品来解决这个问题。 它被称为 Mixmatch：一个免费产品，您可以在其中创建您宝宝的样子的图像等等。以下是一些详细信息： 模型：我们正在使用新发布的 PuLID 模型。它的运行速度非常快且成本低廉，但输出可能有点不一致。鉴于输出不一致，我们为网站上的每个过滤器手工策划了十几个左右的高质量种子。这使得输出更加可靠，但仍远未达到完美。  过滤器：目前我们有 15 类过滤器，总共 99 个过滤器，所有这些过滤器都是我们用精选的种子编写的。我们决定不对该模型的不一致输出及其具有的非常 NSFW 功能进行开放式提示。我个人最喜欢的一些过滤器是：脸部照片、摩托艇、蓝精灵、婴儿（显然）、专业头像（但添加了名人，这样我们的脸就融合在一起了）和小丑。  托管：我们正在 Fal.AI 上运行模型 - 他们非常棒！  隐私：所有面孔将在 1 年后从我们的数据库中删除，并且除了仅为您创建图像之外不会用于任何其他用途。  定价：该网站完全免费。这种模式的运行成本非常低廉，我们的业务能够承担运行该产品的成本。  反馈：我们今天刚刚推出了这个网站，还有很多东西需要完善和改进。如果您有任何反馈，我们很乐意听到，我们将尽最大努力快速实施:)    由   提交/u/jacobgc75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cuasd1/see_what_your_baby_would_look_like_with_ai/</guid>
       <pubDate>Fri, 17 May 2024 17:16:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能正在引领一个无摩擦想象工作的时代。想象能力将成为成功的关键因素。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu966j/ai_is_leading_to_an_era_of_frictionless/</link>
-      <description><![CDATA[“任何人都可以创造任何东西！”这是人们对生成式人工智能工具的看法，尤其是当涉及到视觉效果和其他曾经为创意阶层保留的产品时。我相信我代表了许多创意人士，他们在思考我们的艺术领域将走向何方时感到恐惧和眩晕。有时我喜欢它，有时它让我感到恶心。最终，这里要调整的变量是摩擦——人们可以比以往任何时候都更少地进行创作，类似于 Garageband 的广泛使用如何使家庭录音更容易获得，或者 MIDI 如何使乐器复制更加无缝，或者数码相机如何使摄影民主化。随着摩擦的减少，参与度就会上升。“任何人”都可以用人工智能制作一首歌曲、一个图形设计或一个短视频。这甚至可以扩展到整部小说。人们可以提示人工智能用一组给定的参数和特征写一本小说，但个人必须首先设想这些特征。想象力是借口。所有人工智能创造力的先决条件是用户的思考。 未来的超能力将存在于原始想象力本身。事实上，任何人都可以使用 DALL-E 或 Adob​​e Firefly 进行设计。但首先，他们必须想象他们想要什么并将其输入。当整个创作过程变成 1) 打开程序 2) 输入提示 3) 查看结果并编辑 4) 分享时，专业知识的最终衡量标准将是你首先能想象到什么。你遇到的大多数人都没有什么值得放入歌曲创作引擎或视频制作工具的提示框中，即使理论上“任何人”都可以做到。 任何人都可以用生成式人工智能制作创意产品，但很少有人会这样做。少数愿意学习工具、运用它们并有值得输入提示框的想法的人将在市场和工作中拥有天然优势。  所以我是这样看的——在无摩擦创造力的时代，那些拥有原始想象力和丰富想法的人将主宰艺术和其他领域。你怎么看？    提交人    /u/bleeding_electricity   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu966j/ai_is_leading_to_an_era_of_frictionless/</guid>
-      <pubDate>Fri, 17 May 2024 16:10:33 GMT</pubDate>
-    </item>
-    <item>
       <title>拥有人工智能的人能超越拥有多年经验的人吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu38ge/can_someone_with_access_to_ai_outperform_a_person/</link>
-      <description><![CDATA[每个人都说我在我的领域有足够的经验和知识，但是随着人工智能的兴起，能够使用人工智能的人能否胜过拥有多年经验的人？    提交人    /u/Curious_Suchit   [link] [评论]]]></description>
+      <description><![CDATA[每个人都说我在自己的领域有足够的经验和知识，但随着人工智能的兴起，接触人工智能的人能超越拥有多年经验的人吗？经验？   由   提交/u/Curious_Suchit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu38ge/can_someone_with_access_to_ai_outperform_a_person/</guid>
       <pubDate>Fri, 17 May 2024 11:53:12 GMT</pubDate>
     </item>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

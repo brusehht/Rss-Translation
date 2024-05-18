@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 18 May 2024 00:51:45 GMT</lastBuildDate>
+    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
+    <lastBuildDate>Sat, 18 May 2024 03:13:09 GMT</lastBuildDate>
+    <item>
+      <title>H.264 与 ProRes Proxy（或 LT）代理？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cun6b6/h264_vs_prores_proxy_or_lt_for_proxies/</link>
+      <description><![CDATA[为即将进行的作业进行数据管理，修订后的规格表需要 H.264 代理。编辑人员会请求 H.264 而不是 ProRes Proxy 或 LT 是否有原因或偏好？这些代理适用于 Sony Venice 2 6K 上的 X-OCN ST。   由   提交 /u/VanRoberts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cun6b6/h264_vs_prores_proxy_or_lt_for_proxies/</guid>
+      <pubDate>Sat, 18 May 2024 02:39:21 GMT</pubDate>
+    </item>
     <item>
       <title>文件存储问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cuhwpy/file_storage_question/</link>
@@ -20,13 +27,6 @@
       <pubDate>Fri, 17 May 2024 20:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>转录服务</title>
-      <link>https://www.reddit.com/r/editors/comments/1cuf5u2/transcription_services/</link>
-      <description><![CDATA[大家好， 我正在寻找有关转录服务或以优惠价格进行转录的应用程序的建议。&lt; /p&gt; 我们有很多人会使用它，主要是记者和制片人。我还在寻找允许您上传视频和/或音频文件进行转录的东西。另一个功能是通过手机实时转录，这样您就可以在现场转录。 感谢您的帮助！    由   提交 /u/editor_jon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cuf5u2/transcription_services/</guid>
-      <pubDate>Fri, 17 May 2024 20:16:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Premiere Pro 代理问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cue9jp/premiere_pro_proxy_problems/</link>
       <description><![CDATA[我熟悉代理工作流程的来龙去脉，但在我当前的项目中，我因尝试仅使用代理进行编辑而陷入困境。从规格开始： 计算机 - Macbook Pro M3，配备 36 GB 内存，运行 Sonoma 14.4.1 Premiere Pro 2024，24.2.1（版本 2） &lt; p&gt;原始媒体 - 远程服务器上的 4k 3840 x 2160 代理媒体 - 第 3 方生成的文件，960 x 540 存储在我的内部驱动器上 第一个问题：即使使用代理启用后，计算机很卡，我无法擦洗，并且在我的时间轴上移动有很大的延迟。我的解决方案是卸载远程服务器 - 这解决了速度问题。 但是当我这样做时，仅使用代理进行编辑，PP 似乎为每个文件重新分配完整的资源媒体，而不是使用代理两者的媒体。那么我就遇到了缩放问题，因为我正在设置为全分辨率媒体的时间线中工作，但 PP 已确定全分辨率媒体为 960 x 540，所以我看到了微小的剪辑。通过检查每个剪辑的属性，我确定文件指向代理，而不是允许完整分辨率媒体保持脱机状态。安装远程服务器后，它们会按预期显示远程服务器上的完整资源和我的笔记本电脑上的代理文件。当我卸载服务器时，属性显示我的笔记本电脑上的 960x540 代理 - 完整分辨率和链接代理。  我尝试将完整分辨率媒体重新链接到每个剪辑，但它不粘 - 安装服务器时销售是正确的，但当它在线时我无法工作，因为它太慢的;当我卸载时，剪辑会重新使用代理媒体，速度很好，但比例混乱。 这毫无意义，它违背了代理工作流程应该做的一切。有什么想法出了什么问题吗？我终于硬着头皮决定重新开始一个新项目 - 因为我最初只使用代理，我想也许缓存文件令人困惑，所以我扔掉了缓存文件并创建了一个新项目并导入了所有完整的资源再次媒体，然后附加代理，然后重新剪切序列的第一分钟，这样我就不会将任何旧参考带入新项目中。然后我将远程服务器脱机，但它仍然发生。  我考虑过按照大小与代理媒体相匹配的序列进行工作，但这让我回到了我的第一个问题，我不想在完成后重新调整大小。 &gt; 感谢您提供任何解决方案！   由   提交 /u/RatsArses   [链接] [评论]]]></description>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 17 May 2024 19:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>被邀请去开一个研讨会。第一次做，想寻求建议。</title>
+      <title>受邀举办研讨会。第一次做，正在寻求建议。</title>
       <link>https://www.reddit.com/r/editors/comments/1cue7xl/been_invited_to_give_a_workshop_first_time_doing/</link>
       <description><![CDATA[大家好。我已经在该领域工作了 5 年多，大部分时间都在非营利组织工作，他们邀请我参加为期 2 天的视频制作和编辑实践研讨会。这是一个很酷的机会，但我以前从未这样做过。参加的15位志愿者都是初学者，但他们都有自己想要制作的视频的想法。  鉴于我们只有 2 天的时间，让他们每个人都在不同的项目上工作可能会让人难以承受，我正在考虑为他们提供一个脚本/基础项目，以便他们所有人都能工作继续，但我现在完全只是猜测。 我很想听听以前举办过研讨会的人的意见，了解您如何处理它以及您让与会者最后制作和交付的内容，如果有的话。   由   提交/u/Designer_Nectarine_1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cue7xl/been_invited_to_give_a_workshop_first_time_doing/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>我正在寻找这个“wiiiiing”音效</title>
       <link>https://www.reddit.com/r/editors/comments/1cue3bu/im_looking_for_this_wiiiiing_sfx_please/</link>
-      <description><![CDATA[https://www.youtube.com/shorts/4uvbvSpyaUo    由   提交  /u/nearsbr   [link] [评论]]]></description>
+      <description><![CDATA[https://www.youtube.com/shorts /4uvbvSpyaUo   由   提交 /u/nearsbr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cue3bu/im_looking_for_this_wiiiiing_sfx_please/</guid>
       <pubDate>Fri, 17 May 2024 19:33:11 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 17 May 2024 18:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>为什么有些编辑会专门获得美国的代表？</title>
+      <title>为什么有些编辑专门为美国而设？</title>
       <link>https://www.reddit.com/r/editors/comments/1cu9vdc/why_do_some_editors_get_representation/</link>
       <description><![CDATA[我知道这可能只是为了开放他们的网络，但是还有其他可能的原因导致美国需要不同的代表吗？ 这是专门针对商业编辑的，但如果它适用于其他领域，我会洗耳恭听！ 提前致谢！   由   提交 /u/motion3002   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cu9vdc/why_do_some_editors_get_representation/</guid>

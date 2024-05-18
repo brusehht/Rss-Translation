@@ -3,8 +3,88 @@
   <channel>
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 18 May 2024 00:19:23 GMT</lastBuildDate>
+    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
+    <lastBuildDate>Sat, 18 May 2024 03:01:03 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]网站：blog.arpsyndicate.io</title>
+      <link>https://t.me/hn_summary/90229</link>
+      <description><![CDATA[MITRE 和 NIST“可能”错过了超过 1000 个漏洞，但中国除外或者俄罗斯没有
+标题：MITRE 和 NIST“可能”遗漏了超过 1000 个漏洞，但中国或俄罗斯却没有
+网站：blog.arpsyndicate.io
+
+在本文中，我们揭示了大约 1000 个可利用的网络安全漏洞，这些漏洞可能被 MITRE 和 NIST 忽视，但中国和俄罗斯却没有。这些漏洞由 Exploit Observer 的 VEDAS 识别，并未映射到任何 CVE，而是列在 CNVD/CNNVD/BDU 数据库中。 ARP Syndicate 是一家全球网络安全情报和研究公司，强调在自动化安全系统中消除误报而非误报的重要性。尽管 CVE 生态系统拥有广泛的网络，但一些具有实际影响的漏洞仍未分配给 CVE。这凸显了中俄脆弱生态系统的卓越覆盖和控制能力。我们鼓励对我们的发现进行独立验证和批评，可通过 Exploit Observer 的 API 进行访问。我们的评分算法独特地优先考虑利用的难易程度而不是严重程度，使其成为安全团队的宝贵工具。不过，我们的系统仍处于试验阶段，不应盲目信任。]]></description>
+      <guid>https://t.me/hn_summary/90229</guid>
+      <pubDate>Sat, 18 May 2024 03:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]中国的“钉子户”是业主拒绝出售给开发商的房产，立场 [...]</title>
+      <link>https://t.me/hn_summary/90228</link>
+      <description><![CDATA[中国的钉子户：不肯让路的房主——图文并茂
+中国的“钉子户”是指业主拒绝出售给开发商的房产，在庞大的建设项目中傲然挺立。这些房屋往往在新开发项目中被孤立，象征着对强制驱逐和补偿不足的抵制。 “钉子屋”一词源自钉子被顽固地固定在适当位置的想法。 《卫报》的图片文章捕捉到了这些引人注目的图像，凸显了快速城市化与个人权利之间的紧张关系。争议在于政府支持的开发项目与房主争取公平待遇和补偿之间的冲突。这些房主的坚韧既令人惊讶又鼓舞人心，展示了现代中国独特的抗议形式。]]></description>
+      <guid>https://t.me/hn_summary/90228</guid>
+      <pubDate>Sat, 18 May 2024 02:13:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：appleinsider.com</title>
+      <link>https://t.me/hn_summary/90227</link>
+      <description><![CDATA[OLED iPad Pro 用户发现颗粒状显示问题
+标题：OLED iPad Pro 用户发现颗粒状显示问题
+网站：appleinsider.com
+
+新的 M4 iPad Pro 用户报告了颗粒状显示问题，在黑暗环境中尤其明显。尽管 Tandem OLED 系统承诺提供明亮的图像，但 Reddit 上的一些用户观察到了明显的颗粒状伪影，尤其是在查看深色菜单元素时。这个问题可能是由于 Mura 效应（由照明不当或制造缺陷引起的像素之间的不规则性）造成的，这种现象在各种显示器类型和制造商中都很常见。虽然仔细检查时问题很明显，但它可能不会对大多数用户产生重大影响。苹果尚未对这些报告发表评论，而且似乎不太可能立即修复。]]></description>
+      <guid>https://t.me/hn_summary/90227</guid>
+      <pubDate>Sat, 18 May 2024 01:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]GitHub 项目“S3 From Scratch”记录了作者构建克隆的旅程 [...]</title>
+      <link>https://t.me/hn_summary/90226</link>
+      <description><![CDATA[显示 HN：GitHub – 我尝试从头开始构建 AWS S3&lt; /a&gt;
+GitHub 项目“S3 From Scratch”记录了作者使用开源技术堆栈构建 AWS S3 克隆的旅程，旨在在个人基础设施上部署 SaaS，而不依赖于 AWS 或 GCP 等云平台。该项目解决了自动存储桶部署、动态卷扩展和安全性、镜像 AWS S3 功能等问题。它通过使用带有 SSD 的 Raspberry Pi 节点和用于实现可扩展性的定制机架安装解决方案而脱颖而出。该项目包括 Vue.js 前端、REST API，并利用 GitLab 进行源代码控制和 CI/CD。它强调自动化和高效的资源利用，允许多个租户动态共享存储资源。]]></description>
+      <guid>https://t.me/hn_summary/90226</guid>
+      <pubDate>Sat, 18 May 2024 01:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在围绕 GPT-4o 和 Google I/O 的兴奋之中，OpenAI 的战略计划 [...]</title>
+      <link>https://t.me/hn_summary/90225</link>
+      <description><![CDATA[为何OpenAI被迫进军搜索业务&lt; br/&gt;
+在围绕 GPT-4o 和 Google I/O 的兴奋之中，OpenAI 进军搜索市场并与 Google 直接竞争的战略支点一直没有得到充分讨论。这种从追求 AGI 到将人工智能商业化的转变始于去年，可能影响了 Ilya Sutskever 等关键高管的离职。 OpenAI 此举本质上是对谷歌和 Meta 在消费者和企业市场的激进战略的防御性反应。谷歌正在将 LLM 支持的功能集成到其产品中，将“ChatGPT 体验”商品化，并从 OpenAI 中窃取人工智能的市场份额。 Meta 的开源 Llama 生态系统也挑战了 OpenAI 的企业吸引力。两家公司都可以免费生产 GPT-4 级别的 LLM，从而降低了 OpenAI 的定价能力。因此，OpenAI 必须在搜索领域获得市场份额，以证明其估值合理并保持相关性。这一决定更多是出于必要性而非利润，因为与 Google 和 Meta 相比，OpenAI 面临着激烈的竞争，并且有变得“代币匮乏”的风险。 GenAI 游戏已转向免费和广告支持的模式，迫使 OpenAI 快速适应。该公司必须扩大其分销范围，以避免失去其在法学硕士研究方面的长期优势。与苹果或三星的潜在合作伙伴关系可能至关重要，但 OpenAI 必须避免盲目复制谷歌的战略，以保持差异化和简单性。]]></description>
+      <guid>https://t.me/hn_summary/90225</guid>
+      <pubDate>Sat, 18 May 2024 01:05:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题： 即将离职的顶级研究员表示，OpenAI 将“闪亮产品”置于安全之上</title>
+      <link>https://t.me/hn_summary/90224</link>
+      <description><![CDATA[离职高级研究员称，OpenAI 把“炫酷产品”置于安全之上
+标题：离职高级研究员称，OpenAI 把“炫酷产品”置于安全之上
+
+在最近的一次批评中，一位即将离职的 OpenAI 高级研究员指责该公司优先开发“炫酷产品”，而不是确保安全协议。这位内部人士的观点引发了人们对组织内部创新与道德责任之间平衡的重大担忧。争议的焦点在于，在没有足够安全措施的情况下发布先进人工智能技术的潜在风险，这可能会产生深远的影响。鉴于 OpenAI 公开承诺要开发符合道德规范的人工智能，这一消息尤其令人惊讶，突显了他们所宣称的价值观与内部实践之间可能存在脱节。]]></description>
+      <guid>https://t.me/hn_summary/90224</guid>
+      <pubDate>Sat, 18 May 2024 01:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问 HN：对于单个开发人员来说，最高效的堆栈或语言是什么？</title>
+      <link>https://t.me/hn_summary/90223</link>
+      <description><![CDATA[询问 HN：对于单个开发人员来说最高效的堆栈或语言是什么？
+标题：问 HN：对于单个开发人员来说最高效的堆栈或语言是什么？
+网站：news.ycombinator.com
+
+能够最大限度提高单个开发人员生产力的最佳语言、框架或堆栈是什么？选项包括 Python 与 Django/Flask、Ruby on Rails、Rust 与某些框架、Node.js 或其他，最好具有更容易的学习曲线。需要考虑的场景有：
+1. 网络应用
+2. 简单的网站
+3.简单的社交媒体
+
+讨论的目的是为独立开发人员确定最有效的工具，平衡学习的简易性和生产力。]]></description>
+      <guid>https://t.me/hn_summary/90223</guid>
+      <pubDate>Sat, 18 May 2024 00:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在 Gemini 1.5 技术报告中，Google 介绍了 Gemini 1.5 系列型号，[...]</title>
+      <link>https://t.me/hn_summary/90222</link>
+      <description><![CDATA[Gemini 1.5型号系列：技术报告[pdf](https://news.ycombinator.com/item?id=40392208&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https:// /news.ycombinator.com/item?id=40392208)
+在Gemini 1.5技术报告中，谷歌介绍了Gemini 1.5系列型号，其中包括Gemini 1.5 Pro和效率更高的Gemini 1.5 Flash。这些模型代表了多模式理解方面的重大进步，能够处理和推理数百万个上下文标记，包括大量文档、视频和音频。 Gemini 1.5 模型在长上下文检索任务中实现了近乎完美的召回，并且在各种基准测试中优于 Gemini 1.0 Ultra 等之前的模型。值得注意的是，这些模型展示了令人惊讶的能力，例如学习从有限的教学材料翻译濒临灭绝的卡拉芒语言。这一代的性能飞跃并没有损害核心多模式功能，使 Gemini 1.5 成为该领域的突破性发展。 （根据故事文本的 3% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/90222</guid>
+      <pubDate>Sat, 18 May 2024 00:54:01 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 网址：www.cnet.com</title>
       <link>https://t.me/hn_summary/90221</link>
@@ -23,79 +103,6 @@
 1997 年，著名软件公司 Sierra 成为其母公司 CUC International 策划的大规模会计欺诈的受害者。该丑闻涉及夸大收入和操纵财务报表以欺骗投资者和利益相关者。欺诈案的关键人物包括 CUC 高管 Ken Williams、Laura Hamilton、Kirk Shelton、Walter Forbes、Cosmo Corigliano、Amy Lipton 和 Chris McLeod。这些欺诈活动最终导致了 Sierra 的垮台，凸显了企业不法行为的破坏性影响。此案例鲜明地提醒我们公司治理中透明度和道德实践的重要性。]]></description>
       <guid>https://t.me/hn_summary/90220</guid>
       <pubDate>Sat, 18 May 2024 00:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]想象一下凯文和安东尼在飞机上，凯文想要分享 6.8 的 PDF [...]</title>
-      <link>https://t.me/hn_summary/90219</link>
-      <description><![CDATA[坏苹果的动画二维码
-想象一下 Kevin 和 Anthony 在飞机上，Kevin 希望将 6.8301 教科书的 PDF 从他的 iPhone 分享到 Anthony 的 Android 手机。如果没有 AirDrop、Wi-Fi 或其他硬件，传统的数据传输方法就会失败。输入我们的项目：一个巨大的彩色动画二维码，每秒扫描 30 个网格，可通过手机摄像头解码。令人惊讶的是，这种方法有效，速度高达 2 mbps，与低质量 Wi-Fi 相当。我们将其命名为“SWANTV”，但我更喜欢“Epilepsend”，因为它的混乱性质。尽管最初感到头疼并且在晚上看到闪烁的代码，但我已经变得麻木了。查看我们的演示（警告：癫痫发作和 1GB 文件大小！）和最终报告。]]></description>
-      <guid>https://t.me/hn_summary/90219</guid>
-      <pubDate>Fri, 17 May 2024 23:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]“使用 OpenAI 的新 GPT-4o 模型的多 AI 代理系统”项目，托管在 GitHub 上 [...]</title>
-      <link>https://t.me/hn_summary/90218</link>
-      <description><![CDATA[使用 OpenAI 的新 GPT-4o 模型的多 AI 代理系统
-托管在 GitHub 上的“使用 OpenAI 的新 GPT-4o 模型的多 AI 代理系统”项目引入了 Experts.js，这是一个旨在简化使用 OpenAI 的 Assistants API 创建和部署 AI 代理的框架。该项目利用 GPT-4o 模型的高级功能，允许 Assistants 在称为线程的托管上下文中引用文件和图像。Experts.js 的与众不同之处在于，它支持将 Assistants 链接为工具，从而简化复杂的工作流程和任务编排。它支持广泛的内存，与众多工具集成，并利用 Vector Store API 进行高效的文件搜索。该框架旨在消除管理 Run 对象的复杂性，为开发人员提供简化的界面。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/90218</guid>
-      <pubDate>Fri, 17 May 2024 23:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Expedia 集团已解雇首席技术官 Rathi Murthy 和高级副总裁 [...]</title>
-      <link>https://t.me/hn_summary/90217</link>
-      <description><![CDATA[Expedia 集团解雇了首席技术官 Rathi Murthy
-Expedia Group 因违反公司政策而解雇了首席技术官 Rathi Murthy 以及核心服务产品和工程高级副总裁 Sreenivas Rachamadugu。这一决定是在该公司在拉斯维加斯举行的 Explore 24 合作伙伴活动几天后做出的，Murthy 是该活动的主讲嘉宾。 Murthy 于 2021 年 6 月加入 Expedia，担任首位女性 CTO，在统一公司技术堆栈和实施 OneKey 忠诚度计划方面发挥了重要作用。该公司目前正在积极寻找替代者。这一消息恰逢彼得·科恩 (Peter Kern) 离职后，阿丽亚娜·戈林 (Ariane Gorin) 首次担任首席执行官。更多详情仍保密。]]></description>
-      <guid>https://t.me/hn_summary/90217</guid>
-      <pubDate>Fri, 17 May 2024 23:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Wegovy 等高效减肥药物的首次亮相，为 [...]</title>
-      <link>https://t.me/hn_summary/90216</link>
-      <description><![CDATA[“价格过高”的减肥药可能会让美国医疗保健破产&lt; /a&gt;
-根据参议院的一份报告，Wegovy 等高效减肥药物的首次亮相，为美国医疗保健系统潜在的金融危机奠定了基础。如果一半的美国肥胖成年人开始使用这些药物，每年的费用可能达到 4110 亿美元，超过 2022 年所有处方药的支出总额。这将给商业市场和纳税人资助的计划（如医疗保险和医疗补助）带来巨大负担。尽管这些药物对健康有益，但其高昂的价格并不能被医疗费用的降低所抵消，从而可能增加国家赤字。由伯尼·桑德斯 (Bernie Sanders) 担任主席的参议院 HELP 委员会建议制药商应将美国价格与较低的国际价格保持一致。例如，Wegovy 在美国每月费用为 809 美元，但在丹麦只需 186 美元。如果不降价，美国人可能无法获得这些药物或面临更高的医疗费用，正如北卡罗来纳州所见，由于成本问题，州雇员健康计划不再承保这些药物。]]></description>
-      <guid>https://t.me/hn_summary/90216</guid>
-      <pubDate>Fri, 17 May 2024 23:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网址：www.blogtopin.com</title>
-      <link>https://t.me/hn_summary/90215</link>
-      <description><![CDATA[显示 HN：我为 Pinterest 制作了一个免费的标签生成器来帮助您做营销
-标题：Show HN：我为 Pinterest 制作了一个免费的标签生成器来帮助您进行营销
-网站：www.blogtopin.com
-
-使用 BlogToPin 的免费主题标签生成器，为您的 Pinterest 帖子发现最佳且最相关的主题标签，以扩大覆盖范围和关注者。该工具可帮助您在几分钟内将数百篇博客文章转换为 Pinterest Pin 图，并提供多种模板、字体和颜色，使您的 Pin 图脱颖而出。您可以提前 30 天安排帖子并自动增加流量。该生成器分析与您的关键字相关的趋势标签，从而提高您的内容的可见性。虽然 Pinterest 建议每个 Pin 图使用的主题标签不超过 20 个，但专家建议使用 5-10 个才能获得最佳效果。在 pin 的描述中添加主题标签以提高可搜索性。]]></description>
-      <guid>https://t.me/hn_summary/90215</guid>
-      <pubDate>Fri, 17 May 2024 22:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]谷歌宣布Android 15将显着提高待机电池寿命[...]</title>
-      <link>https://t.me/hn_summary/90214</link>
-      <description><![CDATA[Android 15 在某些设备上将待机电池续航时间延长了长达 3 小时
-谷歌宣布，Android 15 将设备进入打瞌睡模式的时间缩短 50%，从而显着提高待机电池寿命。在某些设备上，此增强功能可以将待机电池寿命延长最多三个小时。这些改进在 Google I/O 2024 开发者大会上得到了强调，会上还介绍了私有空间和应用程序对等其他功能。 Android 工程副总裁 Dave Burke 解释说，这一更改将适用于所有接收 Android 15 更新的设备。此外，Wear OS 5 尽管基于 Android 14，但仍将实现节能改进。]]></description>
-      <guid>https://t.me/hn_summary/90214</guid>
-      <pubDate>Fri, 17 May 2024 22:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】标题：低薪工人工资经历数十年缓慢增长后大幅上涨</title>
-      <link>https://t.me/hn_summary/90213</link>
-      <description><![CDATA[低工资工人的工资在经历了几十年的缓慢增长后大幅上涨
-标题：低薪工人工资经历数十年缓慢增长后大幅上涨
-
-网站：www.epi.org
-
-摘要：
-
-2019年至2023年间，低工资工人的实际工资显着增长了12.1%，与前几十年的缓慢增长形成鲜明对比。这一激增超过了高工资群体的工资增长，也超过了过去四个商业周期的增长。州级最低工资上涨和劳动力市场紧张是关键驱动因素，特别是在提高最低工资的州。尽管取得了这些进步，但对许多人来说，工资仍然不足，第 10 个百分点的工人的收入不足以满足基本的家庭预算。值得注意的是，黑人、年轻工人和职业母亲的工资大幅增长，缩小了一些人口工资差距。这一进展凸显了大流行性衰退期间有意识的政策决定的影响，并强调需要继续努力优先考虑充分就业、加强劳工标准并支持工会化，以消除不平等并确保所有工人的工资健康增长。]]></description>
-      <guid>https://t.me/hn_summary/90213</guid>
-      <pubDate>Fri, 17 May 2024 22:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在最近一系列影响 859 个文件的 437 个补丁中，Jens Axboe 发起了一个标志 [...]</title>
-      <link>https://t.me/hn_summary/90212</link>
-      <description><![CDATA[file_operations 结构变小
-在最近影响 859 个文件的 437 个补丁系列中，Jens Axboe 启动了对 Linux 内核的 file_operations 结构的重大清理，该结构是 Linux 早期以来的核心抽象。该结构最初包含基本文件操作指针，例如 read()、write() 和 lseek()，随着时间的推移，该结构已显着增长。几年来包括更复杂的 I/O 操作。 Axboe 建议删除旧的 read() 和 write() 成员，转而使用更通用的 read_iter() 和 write_iter() ，它处理更复杂的 I/O 场景。虽然此更改简化了内核并删除了旧代码，但它对许多仍然依赖旧功能的驱动程序提出了挑战。 Axboe 已经实现了帮助程序来使用旧功能来模拟新功能，从而最大限度地减少干扰。尽管变更规模很大，但开发者社区几乎没有反对，这表明该提案可能会被接受。但是，树外模块需要更新才能与未来的内核保持兼容。]]></description>
-      <guid>https://t.me/hn_summary/90212</guid>
-      <pubDate>Fri, 17 May 2024 22:21:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
