@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 18 May 2024 03:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 06:14:56 GMT</lastBuildDate>
+    <item>
+      <title>寻找库存管理/维修软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cupsrc/looking_for_inventory_management_repair_software/</link>
+      <description><![CDATA[我正在寻找一款软件，我的公司可以在我们的仓库中使用它，不仅可以进行库存管理，还可以在整个过程中跟踪维修情况。目前，我们使用 Monday.com 和 Excel 工作表，将条形码扫描到 Excel 工作表中，然后将该 Excel 工作表上传到 Monday 以跟踪整个修复过程。寻找既可以保持 Monday.com 集成，又可以与我们的条形码扫描系统配合使用的选项。我们的流程如下所示：  将一箱物品（每箱最多 10 件）带入仓库（有时来自不同的供应商，有时来自我们的姊妹仓库，有时来自公司）  （进入仓库的物品需要进行扫描）  箱子被发送到组装/拆卸部门，在那里物品被拆卸并发送碎片发送给维修部门 维修部门将维修件发送回装配部门 装配部门扫描物品的条形码，以便创建一个主标签，并发送给运输团队出发  我研究过 Odoo，但不确定它的跨部门功能。    由   提交 /u/goliathinteractive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cupsrc/looking_for_inventory_management_repair_software/</guid>
+      <pubDate>Sat, 18 May 2024 05:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>电脑显示器问题</title>
       <link>https://www.reddit.com/r/software/comments/1cun5i4/computer_monitor_question/</link>
@@ -13,9 +20,9 @@
       <pubDate>Sat, 18 May 2024 02:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>无法打开asar文件</title>
+      <title>无法打开 asar 文件</title>
       <link>https://www.reddit.com/r/software/comments/1cukzco/cant_open_asar_file/</link>
-      <description><![CDATA[我试过使用 electron 但就是不行，也许我做错了什么？我找不到任何好用的打开 asar 文件的软件，需要帮助，谢谢！！    提交人    /u/MihaiFx   [link] [comments]]]></description>
+      <description><![CDATA[我尝试过使用电子，但它不起作用，也许我做错了什么？我找不到任何易于使用的软件来打开 asar 文件，需要帮助，谢谢！！   由   提交 /u/MihaiFx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cukzco/cant_open_asar_file/</guid>
       <pubDate>Sat, 18 May 2024 00:43:38 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 17 May 2024 19:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>我妈妈需要制作幻灯片；她应该用什么呢？</title>
+      <title>我妈妈需要制作幻灯片；她应该用什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cudibm/my_mom_needs_to_make_a_slideshow_what_should_she/</link>
       <description><![CDATA[我妈妈正在她的 MacBook 上为她的学生及其家长制作幻灯片，但自从我向她展示了如何将她想要的音乐下载为文件（她无法使用内置的照片应用程序来制作幻灯片，而不是购买歌曲或订阅 Apple Music。有什么她可以使用的基本程序吗？她不需要任何花哨的东西，但幻灯片将有 225 张照片（包括一些短片），最后 8 分 14 秒长，需要播放自定义音乐文件，并且可以导出。她说她不在乎有没有水印，一年最多只用几次。   由   提交 /u/Im-A-Moose-Man   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cudibm/my_mom_needs_to_make_a_slideshow_what_should_she/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>小型企业日历调度程序</title>
       <link>https://www.reddit.com/r/software/comments/1cud5fc/small_business_calendar_scheduler/</link>
-      <description><![CDATA[我需要为一家有 6 名员工的小型建筑公司安排工作。 正在寻找能够容纳我们 6 个人的理想建筑公司一种观点。可能看起来像一个电子表格，其中包含员工的行，顶部有日期，也可能是日历网格。基于 PC 的理想选择，可以是网络。 想要在错过目标时能够推迟所有日期的东西，比如一个人每周生病一次。我不想以后必须手动调整所有日期。这是我遇到或尝试过的所有软件都有的致命缺陷。假设我们有一名员工安排了 8 份工作，每份工作一周。然后我们的工作地点发生了变化，我需要让该员工下周工作 3 天，并将剩下的 7 个工作推迟到这 3 天。我尝试过的所有产品都希望您手动调整这 7 项工作的日期 - 这是致命的缺陷。 我们已经被几个承诺调整日期的软件演示所困扰（星期一就是其中之一） ，但最终他们并没有这么做——他们只想要 20 美元/员工/月。这些产品更旨在作为时间表与 Quickbooks 集成。相反，我认为这是免费的，最高 100 美元，或者类似 5 美元/月……？只需要一些简单的东西。   由   提交 /u/LYL_Homer   [链接] [评论]]]></description>
+      <description><![CDATA[我需要为拥有 6 名员工的小型建筑公司安排工作。 寻找一种理想情况下可以将我们 6 个人都集中到一个视图中的软件。可以看起来像一个电子表格，上面有员工行和日期，也可以是日历网格。理想情况下是基于 PC 的，也可以是 Web。 想要一种可以在未达到目标时将所有日期推迟的功能，比如说某人生病请假一周。我不想手动调整他们未来的所有日期。这是我遇到或尝试过的所有软件都存在的致命缺陷。假设我们为一名员工安排了 8 项工作，每项工作需要一周时间。然后我们的工作地点发生了变化，我需要让该员工下周工作 3 天，并将剩余的 7 项工作推迟到这 3 天。我尝试过的所有产品都希望您手动调整这 7 项工作的日期 - 这是致命的缺陷。 我们已经被一些软件演示搞得焦头烂额，这些软件承诺调整日期（星期一就是其中之一），但最终他们没有 - 他们只想要每位员工每月 20 美元。这些产品更旨在作为时间表与 Quickbooks 集成。相反，我认为这是免费的，最高 100 美元，或者像 5 美元/月这样的价格......？只需要一些简单的东西。    提交人    /u/LYL_Homer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cud5fc/small_business_calendar_scheduler/</guid>
       <pubDate>Fri, 17 May 2024 18:54:37 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>跟踪波形问题</title>
       <link>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</link>
-      <description><![CDATA[我不确定这是否是发布此内容的正确位置，但就在这里。我刚刚下载了 Tracktion Waveform 并首次使用它。我是个完全的初学者，我一直在努力弄清楚为什么它不允许我从左侧扩展剪辑。为了描述我正在尝试做的事情，我试图扩展第一幅图像，以便边缘与第 4 小节齐平，并且我知道剪辑的开头有一些空间可以允许这样做（如您在图 2 中看到的那样），但我尝试过的所有方法都没有奏效。大多数教程视频都说只需按住 alt 并从角落的三角形拖动，但这对左侧的此剪辑不起作用。我取消选中了自动节奏选项，因为它似乎不允许进行操作。任何对完全初学者的帮助都将不胜感激。    提交人    /u/deanofcool   [链接] [评论]]]></description>
+      <description><![CDATA[我不确定这是否是发布此内容的正确位置，但就在这里。我刚刚下载了 Tracktion Waveform 并且是第一次使用。我是一个完全的初学者，我一直在试图弄清楚为什么它不允许我从左侧延伸剪辑。为了描述我正在尝试做的事情，我正在尝试扩展第一张图像，以便边缘与第 4 条齐平，并且我知道剪辑的开头有一些空间来允许这样做（如图 2 所示） ）但我尝试过的一切都没有奏效。大多数教程视频都说只需按住 Alt 并从角落的三角形拖动即可，但这不适用于左侧的此剪辑。我已取消选中自动速度选项，因为这似乎不允许进行操作。对于一个完全的初学者来说，任何帮助都是值得的。   由   提交/u/deanofcool  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</guid>
       <pubDate>Fri, 17 May 2024 09:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于考试的交互式视频软件</title>
-      <link>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</link>
-      <description><![CDATA[我需要在工作中培训员工，并希望通过与多项选择题互动的视频软件来完成此任务，并且我能够查看他们给出的答案/给我发送了总分。有人对此有什么建议吗？谢谢！   由   提交 /u/AliceAensland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</guid>
-      <pubDate>Fri, 17 May 2024 09:20:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
