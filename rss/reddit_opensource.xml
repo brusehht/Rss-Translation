@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 May 2024 03:14:55 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sun, 19 May 2024 06:15:27 GMT</lastBuildDate>
+    <item>
+      <title>LinkedIn 个人资料页面的替代方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</link>
+      <description><![CDATA[我正在寻找可以在自己的域上托管的与 LinkedIn 个人资料页面（不是职位匹配或社交提要）等效的内容。我想为我的个人资料托管一个登陆页面，同时尽可能坚持 LinkedIn 的设计。 为什么不直接使用 LinkedIn？ 非 LinkedIn 无法访问 LinkedIn 个人资料页面用户。 URL 有一个技巧可以实现，但它不一致，它要么让您访问个人资料，要么要求您连接您的帐户。这就是为什么我想自己托管它，以获得更好的控制和一致的行为。将我的个人资料提取为 PDF，然后托管 - 这是一个选项，但 .pdf 版本不如网站美观，并且不&#39; t 显示诸如“项目”之类的部分。 为什么坚持 LinkedIn 的设计/格式？LinkedIn 是我的专业领域中的一个众所周知的平台。遵循此模板将简化招聘人员浏览我的个人资料的过程（对于那些使用 LinkedIn 的人）。 仅作为一些视觉定制进行链接，它迫使我们以非常有限的方式关注内容效率和创造力。这对我的域名来说是一个很好的品质，所以我希望保留它。我真的很喜欢将媒体嵌入到各个部分的可能性。 我愿意听到与 LinkedIn 解决方案不太相似的解决方案，因为我知道我很难希望得到一份副本。 ^^   由   提交 /u/Tungill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</guid>
+      <pubDate>Sun, 19 May 2024 03:33:18 GMT</pubDate>
+    </item>
     <item>
       <title>开源复制粘贴折线图组件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cv2za0/open_source_copy_paste_line_chart_component/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
-      <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
+      <description><![CDATA[我想要类似 mpv 的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频    提交人    /u/dream_nobody   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
       <pubDate>Sat, 18 May 2024 11:18:05 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>加入 macOS 上的 GSequencer 测试版</title>
       <link>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</link>
-      <description><![CDATA[      由   提交/u/joel2001k   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/joel2001k   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</guid>
       <pubDate>Sat, 18 May 2024 08:27:06 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Sat, 18 May 2024 04:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个运行本地 LLM 的开源答案引擎</title>
+      <title>我构建了一个运行本地法学硕士的开源答案引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</link>
       <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在 Github 上完全开源 (github.com/rashadphz/farfalle/) 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</guid>
@@ -78,19 +85,19 @@
     <item>
       <title>开源既不是社区也不是民主</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</link>
-      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</guid>
       <pubDate>Fri, 17 May 2024 15:47:13 GMT</pubDate>
     </item>
     <item>
       <title>用于 Ai 语言模型的 C++ Tokenizer（类似句子）</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/</link>
-      <description><![CDATA[嘿你们，我一直在使用 pytorch 的 c++ 版本 libtorch，我需要一个用于我正在创建的语言模型的分词器。网上没有看到，所以我花了一两天做了一个。  此标记器的工作原理类似于从训练文本中收集单词和单词片段标记的句子片段。单词、单词片段和空格/标点符号由分词器收集。 这是开源存储库：https://github.com/wbf22/Tokenizer/tree/main 干杯！   由   提交 /u/Critical-Volume2360    reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好，我一直在使用 pytorch 的 c++ 版本 libtorch，我需要一个用于我正在创建的语言模型的标记器。我在网上没有看到，所以我花了一两天时间做了一个。 这个标记器的工作原理就像句子片段从训练文本中收集单词和单词片段标记。单词、单词片段和空格/标点符号标记由标记器收集。 这是开源仓库：https://github.com/wbf22/Tokenizer/tree/main 干杯！    提交人    /u/Critical-Volume2360   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/</guid>
       <pubDate>Fri, 17 May 2024 15:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>接下来 14 FullStack SaaS 样板</title>
+      <title>接下来的 14 个全栈 SaaS 样板</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu4pa1/next_14_fullstack_saas_boilerplate/</link>
       <description><![CDATA[大家好，我想和大家分享我的开源项目 Next 14 FullStack SaaS Boilerplate 我们的愿景是，有固定工作的程序员可以通过此样板在周末启动一个业余项目。 演示 https://next14.thesaasfactory.dev/ 文档 https://docs-next14.thesaasfactory.dev/ 主要功能  Next.js 14： TypeScript：利用 TypeScript 静态类型系统的强大功能来检测和防止编译时出现错误时间，在开发过程中提高信心和生产力。 React：使用 React 构建动态和响应式用户界面，React 是领先的 JavaScript 库，用于创建可重用且易于维护的组件。 Tailwind CSS：使用 Tailwind CSS 简化应用程序的设计和样式，这是一个实用程序优先的框架，使您能够快速自定义应用程序的外观，而无需牺牲代码的可读性。 &lt; li&gt;Prisma：Prisma 是当前管理数据库的最佳 ORM 之一 Clerk：强大的身份验证管理器，允许您添加社交提供商和管理组织、权限和角色 使用此样板可以避免做什么 Stripe： Stripe 是管理订阅和付款的最佳支付网关  集成模块/功能  [x] 多租户支持：创建、切换、更新组织和邀请成员 [x] 登陆页面  [x] 全面国际化支持（前端组件和动态数据）这很好！ [x] 响应式 [x] DarkTheme [x] 管理员和超级管理员仪表板 [x] Kpis 模块 [x] 通知模块 [x] 组织切换器（职员） ) [x] 组织资料（职员） [x] 用户资料（职员） [x] 票证支持模块 [x] 超级管理员设置模块 [x] 营销模块 [x] 通过 Stripe 发票、Stripe 客户门户和多货币支持进行计费和订阅 [x] 用于媒体存储的 Imagekit 集成 [x] 内部组件可帮助您快速创建 CRUD（newForm） [x] 用户管理 [x] 组织管理 [x] 订阅管理 [x] 订阅、计划管理和用户功能这很好！ [x] 会员计划功能支持 [x] 用户入门 [x] 具有联盟面板和佣金付款的联盟系统这很好！强&gt; [x] SEO 友好（Next 14 的 SSR） [x] Vercel Analytic 集成 [x] 基于角色的访问控制和权限 [x] 使用 @ 前缀进行绝对导入 [x] 社交身份验证（Google、Facebook、Twitter、GitHub、Apple 等）（职员） [x] 事务性电子邮件 (Loops.so) [x] 将电子邮件地址添加到新闻通讯列表 (Loops.so)  &lt;!-- SC_ON - -&gt;  由   提交 /u/RoylerMarichal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu4pa1/next_14_fullstack_saas_boilerplate/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[带有内置 Web 仪表板的 Node.js 记录器。 为所有 Nodejs 开发人员提供高级日志记录功能不受专有软件限制的水平。 请随时查看并分享您的想法。 https://github.com/errsole/errsole.js/    由   提交 /u/VenkiThoughts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu4gk9/an_opensource_logging_solution_for_nodejs_apps/</guid>
       <pubDate>Fri, 17 May 2024 12:55:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenTofu 断言 Terraform 提供商的许可证不会改变的原因是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/</link>
-      <description><![CDATA[来自 opentofu.org 上的常见问题解答页面 ：  OpenTofu 是否可以与 Terraform 合作的所有提供商一起使用？ OpenTofu 不会有自己的提供商。 Terraform 提供商尚未更改其许可证，并且这种更改的可能性几乎为零。OpenTofu 与当前的 Terraform 提供商合作，但它使用单独的注册表。  &lt;但是为什么我们可以确定他们的许可证不会改变呢？难道 Hashicorp（或现在的 IBM）不能决定将许可证更改为非开源许可证，例如 BSL，就像他们为 Terraform 本身所做的那样？ 有人可以解释 OpenTofu 可以断言的原因吗？ Terraform 提供商的许可证不会改变？   由   提交 /u/Several-Echidna3425    reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/</guid>
-      <pubDate>Fri, 17 May 2024 11:33:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
