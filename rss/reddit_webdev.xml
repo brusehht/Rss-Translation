@@ -4,11 +4,32 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 19 May 2024 00:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 03:14:50 GMT</lastBuildDate>
     <item>
-      <title>通过 URL 向 ChatGPT 传递问题？</title>
+      <title>如何理解代码如何变成实际的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cve6hd/how_to_understand_how_code_turns_into_an_actual/</link>
+      <description><![CDATA[就像我了解 html/css/javascript 的作用一样，但是我在哪里可以了解到如何将所有这些变成一个可以在 google 上搜索的网站？使它“打开”的代码发生了什么？互联网？   由   提交/u/1991banksy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cve6hd/how_to_understand_how_code_turns_into_an_actual/</guid>
+      <pubDate>Sun, 19 May 2024 02:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netlify 函数 Mac 与 Linux</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cvde8g/netlify_functions_mac_vs_linux/</link>
+      <description><![CDATA[我刚刚从 Linux 迁移到 Mac，突然间我的 Netlify 函数都无法使用 netlify-cli 工作。这特别奇怪，因为我使用 nvm 和 npm ci ，并且两者都有干净的工作目录。  具体问题是我将所有内容都写为 ESM 而不是 CJS，问题是它们被视为 CJS 并给出错误，抱怨在外部使用 import一个模块的。我预计会有一些细微的差异，但事实并非如此。  要强调的是，这是通过 nvm 和 .nvmrc 实现的完全相同的节点版本。清理两者的工作目录。同一分行（实际上不因分行而异）。甚至在 Mac 上运行 npm ci 。相同的 .env （未通过 git 同步，我使用 scp）。我几乎找不到什么不同。  此外，package.json中有“type”：“module”，扩展名为.js。将扩展名更改为 .mjs 最终会抛出一个关于使用 require() 导入模块的错误（而节点 22 无法解决此问题）还）。   由   提交/u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cvde8g/netlify_functions_mac_vs_linux/</guid>
+      <pubDate>Sun, 19 May 2024 02:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以一起学习</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cvc6ub/someone_to_learn_with/</link>
+      <description><![CDATA[你好。我发现除非有人监督我，否则很难独自完成项目。当我试图建造一些东西时，我总是在灌木丛中徘徊。我知道 naman kaya ko，但如果我独自构建一些东西，方向和动力就不在我身上。从这个意义上说，我正在尝试找到以下任一内容。 1. 有人要求我构建一些东西，给出指示，设定截止日期并审查代码。 （是免费指导吗？很可能。抱歉。好得令人难以置信）。 2. 或者有人和我一起建立一些东西，最好是一个网站，我们都可以学习。我们必须共享相同的技术堆栈才能发挥作用。 3. 或者建议我可以做些什么来解决这个限制。我希望我可以参加新兵训练营，但我认为他们的节奏非常慢（之前能够加入免费计划），而且对于像我这样出于爱好而这样做的人来说价格昂贵。我也不喜欢看 youtube 教程。他们很慢。我更喜欢直接阅读回购代码并尝试从中学习。我能够创建看起来不错的全栈网站，具有身份验证，但目前速度缓慢。堆栈包括 next.js、tailwind、framer-motion、Sql(prisma) 和 next-auth。希望这里允许这样做。谢谢。   由   提交/u/ilbrigz101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cvc6ub/someone_to_learn_with/</guid>
+      <pubDate>Sun, 19 May 2024 01:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 URL 将问题传递给 ChatGPT？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cvby0t/pass_questions_to_chatgpt_via_url/</link>
-      <description><![CDATA[您知道如何将参数放入 URL 中吗 有什么方法吗 或者有什么变通方法可以对 ChatGPT（或其他类似的 AI？）进行此操作 也许可以使用一些变通方法 - 比如从我自己的网站使用 iframe - 比如我会向 www.mysite.com/ai?q=%s 发送请求，然后进入网站后，我会按下按钮在加载 ChatGPT 的框架或 ifram 中填写表格，并通过 DOM - 填写文本框并按下搜索... 如果能够将请求发送到两个甚至更多引擎（比如 OpenAI 和 Gemini），那就太酷了 例如，您可以使用以下方法进行 Google 搜索： https://www.google.com/search?q={0}&amp;tbm=isch 或 Google 图片 https://www.google.com/search?q={0}&amp;tbm=isch Google 翻译 https://translate.google.com/?sl=auto&amp;tl=en&amp;text={0}&amp;op=translate Bing https://www.bing.com/search?q={0 DuckDuck https://duckduckgo.com/?q={0 DeepL https://www.deepl.com/translator#auto/en/{0    提交人    /u/Multiversal_Love   [链接] [评论]]]></description>
+      <description><![CDATA[你知道如何将参数放入 URL 有什么方法 或者一些工作周围这样做到ChatGPT（或其他类似的人工智能？） 也许使用一些解决方法 - 比如我自己网站上的iframe - 就像我向 www.mysite.com/ai?q=%s 进入网站后，我会按一个按钮在框架或 iram 中填写表格ChatGPT 被加载并通过 DOM 加载 - 填写文本框并按搜索... 如果能够将请求发送到两个甚至更多引擎，那就太酷了 - 比方说OpenAI 和 Gemini 例如，您可以使用以下方式进行 Google 搜索： https://www.google.com/search?q={0} 或 Google 图片 https://www.google.com/search?q={0}&amp;tbm=isch &lt; p&gt;谷歌翻译 https:/ /translate.google.com/?sl=auto&amp;tl=en&amp;text={0}&amp;op=translate Bing https://www.bing.com/search?q={0} DuckDuck&lt; /p&gt; https://duckduckgo.com/?q={0} DeepL https://www.deepl.com/translator# auto/en/{0}   由   提交 /u/Multiversal_Love   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cvby0t/pass_questions_to_chatgpt_via_url/</guid>
       <pubDate>Sun, 19 May 2024 00:49:29 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>Twitter Feed 嵌入？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cv9v5g/twitter_feed_embed/</link>
-      <description><![CDATA[我想将 Twitter X 信息流添加到一个完全从头开始开发的网站。该网站目前旨在供桌面查看，信息流仅应出现在页面的一侧 - 并且字体大小较小。 使用官方 publish.twitter.com 页面并不好。它的自定义选项太有限，我无法使其紧凑。我尝试在检查/开发控制台中乱搞，但似乎无法改变它的外观。 我尝试了另一种选择，即使用 Elfsight。它允许更多自定义，以及自定义 CSS（我无法使其工作），但是，我可以进一步为小部件添加样式，但过了一段时间后它会出现错误......比如如果我将某些 div 高度设置为 100%，它就会变得不可见，或者工具的某些部分不会调整大小或间距很奇怪，而几个小时的挖掘也没有任何效果。 是否有任何准第三方 twitter/x 提要选项或基本的网络抓取 API，我可以使用它们以编程方式查看网站并返回文本、图像/视频 URL 等，以便我可以手动生成自己的提要？我完全可以创建自己的基本提要（老实说，我正在寻找类似于旧的 twitter 提要嵌入的东西......更小、更紧凑、能够藏在网页的一侧）......    提交人    /u/ActualFactualAnthony   [链接] [评论]]]></description>
+      <description><![CDATA[我想向正在全面开发的网站添加 Twitter X feed从头开始。该网站目前旨在在桌面上查看，并且提要仅应显示在页面的一侧 - 并且以较小的字体大小。 使用官方的publish.twitter。 com 页面不好。它的自定义选项太有限，而且我无法使其紧凑。我尝试在检查/开发控制台中乱搞，但似乎无法改变它的外观。 我使用 Elfsight 尝试了另一个选项。它允许更多的定制，以及自定义CSS（我无法开始工作），但是，我能够进一步向小部件添加样式，除非在某个点之后它会出现错误......例如在以下情况下变得不可见我将某些 div 高度设置为 100%，或者工具的某些部分没有调整大小或间隔很奇怪，几个小时的挖掘没有做任何事情。 是否有准系统的第三方 twitter/我可以使用 x feed 选项或基本网络抓取 API 来简单地以编程方式查看网站并返回文本、图像/视频 URL 等，以便我可以手动生成自己的 feed？我完全可以创建自己的基本提要（老实说，正在寻找类似于旧的 Twitter 提要嵌入的东西...更小，紧凑，能够隐藏在网页的一侧）...   由   提交/u/ActualFactualAnthony  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv9v5g/twitter_feed_embed/</guid>
       <pubDate>Sat, 18 May 2024 23:06:12 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>为什么要在 AWS 上托管而不是廉价的静态主机？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cv9jet/why_host_on_aws_instaed_of_cheap_static_host/</link>
-      <description><![CDATA[嗨，主要讨论没有后端的前端网站。 （例如，用 ssg 制作的商店的下一个 js 网站）当我每年可以为像 hobo 主机这样的廉价无限主机支付 5 欧元时，为什么我应该在像 cloudfront 这样的服务上花费自适应成本来部署网站？我了解 aws 提供其他连接服务，例如 lambda 或路由，但我不认为一些较小的项目（例如商店）有什么意义。   由   提交 /u/DanielDallimoreDev   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，主要谈论没有后端的前端网站。（例如，下一个 js 网站是使用 ssg 制作的商店）为什么我应该花费自适应成本在 cloudfront 等服务上部署网站，而我可以每年支付 5 欧元购买一些便宜的无限主机，如 hobo host？我知道 aws 提供其他连接服务，如 lambdas 或路由，但我认为对于一些较小的项目，如商店，这毫无意义。    提交人    /u/DanielDallimoreDev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv9jet/why_host_on_aws_instaed_of_cheap_static_host/</guid>
       <pubDate>Sat, 18 May 2024 22:50:21 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>迁移到 HTTPS 后出现重定向错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1cv7nz9/redirection_errors_after_migrating_to_https/</link>
-      <description><![CDATA[      我需要一些帮助。我认为自己是“编程”领域的新手，但是，我能够建立我自己的（丑陋的）网站。 准备好后，由于它是静态的，我将它托管在 Github Pages 上。最近，我使用 Pages 和 Let&#39;s Encrypt“迁移”到 https。问题就从这里开始。 我将网站代码中的所有 URL 都更改为 https，并通过 Search Console 通知 Google（使用新的站点地图和其他所有内容 - Google 更新了搜索结果中的 URL），但是，使用网站评估工具时，我总是收到重定向错误警告。我不知道该怎么办。据我所知，Pages 不支持 .htaccess。我想解决这个问题以提高网站的 SEO 分数。看来由于这个错误，我正在失去自然搜索排名。 该怎么办？提前致谢。 https://preview.redd.it/oi6b83go791d1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f378521bca0fc9abca2ddac80085661421268d3a SEO分析报告    提交人    /u/DaimonaEaytoy   [链接] [评论] ]]></description>
+      <description><![CDATA[       我需要一些帮助。我认为自己是“编程”领域的新手，但是，我能够构建自己的（丑陋的）网站。 准备好后，由于它是静态的，我将其托管在 Github 上页数。最近我“迁移”到了使用 Pages 和 Let&#39;s Encrypt 转换为 https。这就是问题开始的地方。 我将网站代码中的所有网址更改为 https，我通过 Search Console 通知了 Google（使用新的站点地图和其他所有内容 - Google 更新了搜索结果中的网址），但是，使用网站评估工具时，我总是收到重定向错误警告。我不知道该怎么办。据我所知，Pages 不支持 .htaccess。我想解决这个问题以提高网站的 SEO 分数。由于此错误，我似乎失去了自然搜索排名。 该怎么办？提前致谢。 https:// /preview.redd.it/oi6b83go791d1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f378521bca0fc9abca2ddac80085661421268d3a SEO分析报告   由   提交 /u/DaimonaEaytoy   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv7nz9/redirection_errors_after_migrating_to_https/</guid>
       <pubDate>Sat, 18 May 2024 21:23:24 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在开发一个项目，该项目使用 Neo4j 处理数据，使用 GraphQL 处理 API。  我在选择用于可视化数据的库时遇到了困难，而且我不喜欢 Neo4j 提供的现有仪表板创建选项。  有人对使用 JavaScript 处理/可视化图形数据有任何建议吗？  通过可视化，我的意思是探索节点/关系图。    由   提交 /u/TragicBuffalo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv73xe/what_to_use_for_visualizing_graph_data/</guid>
       <pubDate>Sat, 18 May 2024 20:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube到MP3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv711y/youtube_to_mp3/</link>
-      <description><![CDATA[您好，我是一名软件后端开发人员，我编写 Java Web 应用程序和 REST API。我开发了这个 API，目前在 RapidAPI 市场上，您可以转换和下载多种格式的 YouTube 视频。  易于与任何类型的前端技术集成，这是网址：https:// rapidapi.com/marcocollat​​ina/api/youtube-to-mp315 我们希望进一步成长和改进！ 非常感谢您的反馈，谢谢。 干杯。   由   提交/u/Collaxx87  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv711y/youtube_to_mp3/</guid>
-      <pubDate>Sat, 18 May 2024 20:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在有点不知所措。我一直关注的这个堆栈值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv6vcz/kinda_at_at_a_loss_right_now_is_this_stack_that/</link>
-      <description><![CDATA[基本上是标题。信息如下：  HTML、CSS、JS |基金会 |  Node、Express、MongoDB（可能要学习 SQL...）Bootstrap、React、Typescript、PHP - Wordpress，我并不像普通 js 那样真正喜欢 JQuery它现在能做的就是.. Git、Next.js  这是一个适合自由职业者的完整堆栈。我主要对电子商务网站和品牌的自由职业感兴趣，所以我也涉足托管、数字营销——主要是 tiktok 广告、元广告和一点点 PPC、页面搜索引擎优化，对于页面外我只想其他人。  我认为这是可靠的，我给了自己（21）今年剩下的时间，能够以便宜 4 倍的价格开始做新手工作，以积累经验、评论和声誉。但每次我登录 reddit 时，我都会看到一篇关于一些新框架或产品的帖子，这些框架或产品已经问世，或者已经问世了一段时间，我什至不知道其名称，然后我就坐在那里……？但如果我也想学习这个，我就必须进入精神病院。    由   提交/u/Cataclyps-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv6vcz/kinda_at_at_a_loss_right_now_is_this_stack_that/</guid>
-      <pubDate>Sat, 18 May 2024 20:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找文件的 svg 图标包（扩展名）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv635m/looking_for_svg_icon_pack_for_files_extensions/</link>
-      <description><![CDATA[我正在尝试为我正在开发的应用程序查找 svg 图标。它就像一个云驱动器应用程序，因此需要显示所有类型文件的图标。我检查了 oneDrive、dropBox 和其他一些云驱动提供商。他们都有自己专有的图标。但是当我尝试查找一些开源图标时，我没有看到任何图标。看起来没有像 font-awesome、xicons、material-icons 等专注于文件类型图标的开源项目。我看到的只是平面图标、freepik 等，我必须一一下载每个图标，甚至不是免费的。  我尝试了 vscode 材质图标主题。它有很棒的图标，但它们更适合 IDE 而不是文件浏览器。我可以从一些 Linux GUI 主题中提取图标，但想在这里检查一下是否有人知道一些不需要大量工作的图标包？    由   提交/u/vicks9880  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv635m/looking_for_svg_icon_pack_for_files_extensions/</guid>
-      <pubDate>Sat, 18 May 2024 20:10:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

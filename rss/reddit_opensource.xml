@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 May 2024 00:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 03:14:55 GMT</lastBuildDate>
     <item>
       <title>开源复制粘贴折线图组件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cv2za0/open_source_copy_paste_line_chart_component/</link>
@@ -48,7 +48,7 @@
       <pubDate>Sat, 18 May 2024 04:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个运行本地法学硕士的开源答案引擎</title>
+      <title>我建立了一个运行本地 LLM 的开源答案引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</link>
       <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在 Github 上完全开源 (github.com/rashadphz/farfalle/) 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>开源既不是社区也不是民主</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</link>
-      <description><![CDATA[   /u/CrankyBear  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8l2l/open_source_is_neither_a_community_nor_a_democracy/</guid>
       <pubDate>Fri, 17 May 2024 15:47:13 GMT</pubDate>
     </item>
@@ -99,12 +99,12 @@
     <item>
       <title>Nodejs 应用程序的开源日志记录解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu4gk9/an_opensource_logging_solution_for_nodejs_apps/</link>
-      <description><![CDATA[带有内置 Web 仪表板的 Node.js 记录器。 为各个级别的 nodejs 开发人员提供高级日志记录功能，而不受专有软件的限制。 请随时查看并分享您的想法。 https://github.com/errsole/errsole.js/     提交人    /u/VenkiThoughts   [链接] [评论]]]></description>
+      <description><![CDATA[带有内置 Web 仪表板的 Node.js 记录器。 为所有 Nodejs 开发人员提供高级日志记录功能不受专有软件限制的水平。 请随时查看并分享您的想法。 https://github.com/errsole/errsole.js/    由   提交 /u/VenkiThoughts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu4gk9/an_opensource_logging_solution_for_nodejs_apps/</guid>
       <pubDate>Fri, 17 May 2024 12:55:56 GMT</pubDate>
     </item>
     <item>
-      <title>OpenTofu 声称 Terraform 提供商的许可证不会改变的原因是什么？</title>
+      <title>OpenTofu 断言 Terraform 提供商的许可证不会改变的原因是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/</link>
       <description><![CDATA[来自 opentofu.org 上的常见问题解答页面 ：  OpenTofu 是否可以与 Terraform 合作的所有提供商一起使用？ OpenTofu 不会有自己的提供商。 Terraform 提供商尚未更改其许可证，并且这种更改的可能性几乎为零。OpenTofu 与当前的 Terraform 提供商合作，但它使用单独的注册表。  &lt;但是为什么我们可以确定他们的许可证不会改变呢？难道 Hashicorp（或现在的 IBM）不能决定将许可证更改为非开源许可证，例如 BSL，就像他们为 Terraform 本身所做的那样？ 有人可以解释 OpenTofu 可以断言的原因吗？ Terraform 提供商的许可证不会改变？   由   提交 /u/Several-Echidna3425    reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu2wcw/whats_the_reason_opentofu_asserts_that_the/</guid>
