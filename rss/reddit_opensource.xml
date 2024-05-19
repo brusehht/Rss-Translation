@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 May 2024 06:15:27 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sun, 19 May 2024 09:13:46 GMT</lastBuildDate>
     <item>
       <title>LinkedIn 个人资料页面的替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvf0ju/alternative_to_linkedin_profile_page/</link>
@@ -29,21 +29,21 @@
     <item>
       <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
-      <description><![CDATA[我想要类似 mpv 的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频    提交人    /u/dream_nobody   [link] [评论]]]></description>
+      <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
       <pubDate>Sat, 18 May 2024 11:18:05 GMT</pubDate>
     </item>
     <item>
       <title>browsermob-proxy 功能是否有真正的竞争者</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
-      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
       <pubDate>Sat, 18 May 2024 10:21:04 GMT</pubDate>
     </item>
     <item>
       <title>加入 macOS 上的 GSequencer 测试版</title>
       <link>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</link>
-      <description><![CDATA[        提交人    /u/joel2001k   [链接] [评论] ]]></description>
+      <description><![CDATA[      由   提交/u/joel2001k   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cusndf/join_the_gsequencer_beta_on_macos/</guid>
       <pubDate>Sat, 18 May 2024 08:27:06 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>我构建了一个运行本地法学硕士的开源答案引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</link>
-      <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在 Github 上完全开源 (github.com/rashadphz/farfalle/) 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源 AI 驱动答案引擎。 它是 Perplexity 的自托管替代方案，可通过 ollama 支持本地模型。它具有从头开始构建的生成 UI，并带有来自后端的流式事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 本地运行它。 开源：代码在 Github 上完全开源（github.com/rashadphz/farfalle/） 存储库包含有关如何在本地运行项目并使用 Ollama + Docker 进行设置的说明。    提交人    /u/rashadphil   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</guid>
       <pubDate>Fri, 17 May 2024 21:30:36 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>用于 Ai 语言模型的 C++ Tokenizer（类似句子）</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/</link>
-      <description><![CDATA[大家好，我一直在使用 pytorch 的 c++ 版本 libtorch，我需要一个用于我正在创建的语言模型的标记器。我在网上没有看到，所以我花了一两天时间做了一个。 这个标记器的工作原理就像句子片段从训练文本中收集单词和单词片段标记。单词、单词片段和空格/标点符号标记由标记器收集。 这是开源仓库：https://github.com/wbf22/Tokenizer/tree/main 干杯！    提交人    /u/Critical-Volume2360   [链接] [评论]]]></description>
+      <description><![CDATA[嘿你们，我一直在使用 pytorch 的 c++ 版本 libtorch，我需要一个用于我正在创建的语言模型的分词器。网上没有看到，所以我花了一两天做了一个。  此标记器的工作原理类似于从训练文本中收集单词和单词片段标记的句子片段。单词、单词片段和空格/标点符号由分词器收集。 这是开源存储库：https://github.com/wbf22/Tokenizer/tree/main 干杯！   由   提交 /u/Critical-Volume2360    reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu820n/c_tokenizer_sentence_piece_like_for_ai_language/</guid>
       <pubDate>Fri, 17 May 2024 15:25:39 GMT</pubDate>
     </item>
