@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 May 2024 15:12:06 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sun, 19 May 2024 18:15:12 GMT</lastBuildDate>
     <item>
       <title>显示热键 1.3.2 发布！使用热键立即应用显示设置！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</link>
@@ -48,14 +48,14 @@
       <pubDate>Sat, 18 May 2024 15:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>有没有自定义缓存大小的 YouTube PC/Web 客户端？</title>
+      <title>有没有具有自定义缓存大小的 YouTube PC/Web 客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</link>
       <description><![CDATA[我想要 mpv 之类的东西，但具有与原始 YouTube 类似的功能（例如主页）。另外，我想更改视频缓存大小，以确保它在我观看时缓存所有视频   由   提交/u/dream_nobody  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuv28v/any_youtube_pcweb_client_with_custom_cache_size/</guid>
       <pubDate>Sat, 18 May 2024 11:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>browsermob-proxy 功能是否有真正的竞争对手</title>
+      <title>browsermob-proxy 功能是否有真正的竞争者</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
       <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 17 May 2024 20:20:14 GMT</pubDate>
     </item>
     <item>
-      <title>我可以将 Open RPG Maker 的外壳与 Godot 结合起来，使其发挥作用吗？</title>
+      <title>我可以将开放式角色扮演游戏制作工具的外壳与 godot 结合起来使其发挥作用吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</link>
       <description><![CDATA[ 由   提交 /u/WalkingGundam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuadhc/could_i_take_the_husk_of_open_rpg_maker_and/</guid>
