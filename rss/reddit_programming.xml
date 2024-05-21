@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 21 May 2024 00:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 03:13:56 GMT</lastBuildDate>
+    <item>
+      <title>Python基础知识直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</link>
+      <description><![CDATA[高级后端开发人员介绍的Python教程，以及一些有趣且易于使用的库。加入并提出问题或提出建议   由   提交/u/whitechoc6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</guid>
+      <pubDate>Tue, 21 May 2024 02:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>React Conf 2024 的新增内容</title>
       <link>https://www.reddit.com/r/programming/comments/1cwv536/whats_new_at_react_conf_2024/</link>
@@ -13,14 +20,14 @@
       <pubDate>Tue, 21 May 2024 00:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 来认识一下 genson-rs：快速生成千兆字节数据的 JSON 模式！</title>
+      <title>🚀 来认识一下 genson-rs：为千兆字节的数据快速生成 JSON 模式！</title>
       <link>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</link>
       <description><![CDATA[ 由   提交/u/gopherman12  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</guid>
       <pubDate>Tue, 21 May 2024 00:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>异步 Rust 并不坏：你是</title>
+      <title>Async Rust 并不坏：你才是坏人</title>
       <link>https://www.reddit.com/r/programming/comments/1cwunpb/async_rust_isnt_bad_you_are/</link>
       <description><![CDATA[ 由   提交/u/Imaginary_Ad5366   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwunpb/async_rust_isnt_bad_you_are/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>比较桌面开发工具、Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</link>
-      <description><![CDATA[  由    /u/bbm_engineer  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/bbm_engineer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</guid>
       <pubDate>Mon, 20 May 2024 23:14:26 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 20 May 2024 21:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>逆转 Apple II 的 Choplifter - 源代码和文章来自 Blondihacks</title>
+      <title>Apple II 的 Reversing Choplifter —— Blondihacks 上的源代码和文章</title>
       <link>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</link>
       <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 20 May 2024 18:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>VINIX - 用 V 语言编写的操作系统（与 Unix 兼容，包括 Bash、Xorg……）</title>
+      <title>VINIX - 用 V 语言编写的操作系统（与 Unix 兼容，包括 Bash、Xorg...）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</link>
       <description><![CDATA[ 由   提交/u/j_m_macleod  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlvuq/vinix_operating_system_with_unix_compatibility/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>优化 SQL 查询 - PostgreSQL 最佳实践</title>
       <link>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</link>
-      <description><![CDATA[  由    /u/waterslurpingnoises  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</guid>
       <pubDate>Mon, 20 May 2024 17:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cample-html - 新的开源工具，用于轻松获取服务器端 HTML 并将其添加到 DOM。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</link>
-      <description><![CDATA[ 由   提交/u/antonmak1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</guid>
-      <pubDate>Mon, 20 May 2024 17:05:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
