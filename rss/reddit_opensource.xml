@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 21 May 2024 09:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 12:22:00 GMT</lastBuildDate>
     <item>
       <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/选项卡）| FOSS WebExtension - GitHub</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
-      <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
+      <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
       <pubDate>Tue, 21 May 2024 05:48:05 GMT</pubDate>
     </item>
@@ -36,14 +36,14 @@
     <item>
       <title>GIGO Dev - 程序员的开源学习平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwm8ik/gigo_dev_an_open_source_learning_platform_for/</link>
-      <description><![CDATA[大家好， 我和我的团队已经在这个平台上工作了一段时间，我们想与那些感兴趣的人分享它。 GIGO Dev 的目标是提供一个学习平台，解决我们第一次学习编码时遇到的所有挑战。 该 repo 包含平台的所有部分，从库模型到前端代码。我们希望将我们的平台开源，以便人们能够了解它的工作原理，对我们可以做哪些不同的事情提供反馈，甚至做出贡献！ 我们每天都在继续努力，并努力使它变得更好。 这是 repo 的链接：https://github.com/Gage-Technologies/gigo.dev 这是实际平台的链接：https://www.gigo.dev/    提交人    /u/GIGOsailboat   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我和我的团队已经在这个平台上工作了一段时间，我们想与大家分享它那些可能感兴趣的人。 GIGO Dev 的目标是提供一个学习平台，解决我们第一次学习编码时遇到的所有挑战。 该存储库包含所有内容平台的各个部分，从库模型到前端代码。我们希望开源我们的平台，让人们能够看到它是如何工作的，就我们可以采取哪些不同的做法提供反馈，甚至做出贡献！ 我们每天都在继续努力，并努力始终使更好。 这里是存储库的链接：https://github.com/Gage- Technologies/gigo.dev 这是实际平台的链接：https://www.gigo .dev/   由   提交 /u/GIGOsailboat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwm8ik/gigo_dev_an_open_source_learning_platform_for/</guid>
       <pubDate>Mon, 20 May 2024 18:13:05 GMT</pubDate>
     </item>
     <item>
       <title>Cal.com 实际上是开源的</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwm0o7/calcom_thats_actually_open_source/</link>
-      <description><![CDATA[我正在寻找其他开发人员与我合作，使 cal.com 真正完全开源。我们将删除任何需要支付许可证费用的依赖项，并重写它们或从代码库中删除它们。世界值得一个真正开源且完全免费的调度解决方案。我将在此线程上发布可用的更新。   由   提交/u/Dense_Monk_694   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找其他开发人员与我合作，使 cal.com 真正完全开源。我们将删除任何需要支付许可证费用的依赖项，并重写它们或从代码库中删除它们。世界值得一个真正开源且完全免费的调度解决方案。我将在此线程上发布可用的更新。   由   提交 /u/Dense_Monk_694   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwm0o7/calcom_thats_actually_open_source/</guid>
       <pubDate>Mon, 20 May 2024 18:04:04 GMT</pubDate>
     </item>
@@ -55,9 +55,9 @@
       <pubDate>Mon, 20 May 2024 17:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>基于正则表达式的新型 Android 电话/短信拦截器</title>
+      <title>一个新的基于正则表达式的 Android 呼叫/短信拦截器</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwklg9/a_new_android_callsms_blocker_that_based_on_regex/</link>
-      <description><![CDATA[  由    /u/aj3423  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/aj3423  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwklg9/a_new_android_callsms_blocker_that_based_on_regex/</guid>
       <pubDate>Mon, 20 May 2024 17:04:55 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>Spring 的 Phoenix 模板引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwbeoz/phoenix_template_engine_for_spring/</link>
-      <description><![CDATA[几个月前，我发布了有关 Pheonix 的文章，这是我开始开发的 Spring boot 模板引擎。它成功地引起了一些关注，我从这里得到了非常好的反馈。我继续开发它，让它更好更快。经过几个月的工作，我有了一个新版本，我相信值得再次发布。我想收集尽可能多的反馈，让凤凰城变得更好。它尚未准备好用于生产使用，还有很多事情需要完成（请参阅“问题”）。 什么是 Phoenix Phoenix 是一个现代模板引擎，用于Spring 和 Spring Boot 旨在通过提供一种创建复杂和模块化模板的方法来促进复杂 Web 应用程序的开发，该模板受益于服务器端渲染，以便更好地集成前端和后端。 Phoenix 与 Thymeleaf 或 Freemarker  与目前其他现有的模板引擎相比，Phoenix 具有以下几个优势：  能够将 Java 代码直接集成到 HTML 模板中，而无需学习新的语法或特殊的语法。  一种更容易理解的语法，只需要一个特殊字符@即可将Java代码集成到HTML代码中。 可以的片段或组件可以组合和重用，使代码更易于维护。 速度，速度，速度 - Phoenix 模板经过编译，提供的渲染速度比 Thymeleaf 快几个数量级。在我的（基本）基准测试中，Phoenix 甚至比 Rocker 稍快 借助 Phoenix View，您可以轻松地从任何控制器返回网页或 JSON 对象 反向路由 - Spring 的一个全新功能。 URL 在运行时写入模板中，无需手动写入。您只需要提及控制器和方法，Phoenix 就会计算出正确的 URL。这样，您就可以在控制器中更改 URL，而无需修改模板。 通过从 JS 调用后端来动态修改页面，以获得可随时添加到 DOM 的片段/模块。  与 Rocker 几乎 100% 兼容（并致力于实现完全兼容性） 易于配置*（正在进行中以减少必要的依赖性）。  为什么选择 Phoenix 而不是 React/Angular/Vue？ Phoenix 无意成为 JS 框架的替代品。相反，Phoenix 的目标是利用现有的 JS 框架添加 SSR，从而提高页面渲染速度和 FE-BE 集成。您不再需要总是返回复杂的 JSON；您可以直接提供一个 HTML 页面，其中包含所需的所有内容，仅此而已。关于 SSR 与非 SSR 可能存在很大的争论，因此 Phoenix 尝试结合两者的优点。 开源 Phoenix 完全开源，可以完全用于自由的。它还不够稳定，无法在生产中使用，但我将继续开发它，致力于稳定性和性能，并尝试添加其他功能。当然，值得赞赏。 更多详细信息：https://pazvanti.github.io/Phoenix/  我的博客：https://petrepopescu.tech 意见、反馈、批评等。 这篇文章是为了收集反馈。因此，我欢迎您提出任何意见或批评。请避免使用诸如“让我们回到 JSP”之类的评论。 （Phoenix 完全不同，性能更高且更易于集成）或“当有 React/Angular/Vue/另一个 JS 框架时为什么要使用它”？ （我相信基于 JS 的 FE 框架和提供 SSR 的 BE 端更集成的变体都有空间）。   由   提交/u/pazvanti2003  [链接] [评论]]]></description>
+      <description><![CDATA[几个月前，我发布了有关 Pheonix 的文章，这是我开始开发的 Spring boot 模板引擎。它成功地引起了一些关注，我从这里得到了非常好的反馈。我继续开发它，让它更好更快。经过几个月的工作，我有了一个新版本，我相信值得再次发布。我想收集尽可能多的反馈，让凤凰城变得更好。它尚未准备好用于生产使用，还有很多事情需要完成（请参阅“问题”）。 什么是 Phoenix Phoenix 是一个现代模板引擎，用于Spring 和 Spring Boot 旨在通过提供一种创建复杂和模块化模板的方法来促进复杂 Web 应用程序的开发，该模板受益于服务器端渲染，以便更好地集成前端和后端。 Phoenix 与 Thymeleaf 或 Freemarker  与目前其他现有模板引擎相比，Phoenix 具有以下几个优势：  能够将 Java 代码直接集成到 HTML 模板中，而无需学习新的语法或特殊的语法。  一种更容易理解的语法，只需要一个特殊字符@即可将Java代码集成到HTML代码中。 可以的片段或组件可以组合和重用，使代码更易于维护。 速度，速度，速度 - Phoenix 模板经过编译，提供的渲染速度比 Thymeleaf 快几个数量级。在我的（基本）基准测试中，Phoenix 甚至比 Rocker 稍快 借助 Phoenix View，您可以轻松地从任何控制器返回网页或 JSON 对象 反向路由 - Spring 的一个全新功能。 URL 在运行时写入模板中，无需手动写入。您只需要提及控制器和方法，Phoenix 就会计算出正确的 URL。这样，您就可以在控制器中更改 URL，而无需修改模板。 通过从 JS 调用后端来动态修改页面，以获得可随时添加到 DOM 的片段/模块。  与 Rocker 几乎 100% 兼容（并致力于实现完全兼容性） 易于配置*（正在进行中以减少必要的依赖性）。  为什么选择 Phoenix 而不是 React/Angular/Vue？ Phoenix 无意成为 JS 框架的替代品。相反，Phoenix 的目标是利用现有的 JS 框架添加 SSR，从而提高页面渲染速度和 FE-BE 集成。您不再需要总是返回复杂的 JSON；您可以直接提供一个 HTML 页面，其中包含所需的所有内容，仅此而已。关于 SSR 与非 SSR 可能存在很大的争论，因此 Phoenix 尝试结合两者的优点。 开源 Phoenix 完全开源，可以完全用于自由的。它还不够稳定，无法在生产中使用，但我将继续开发它，致力于稳定性和性能，并尝试添加其他功能。当然，值得赞赏。 更多详细信息：https://pazvanti.github.io/Phoenix/  我的博客：https://petrepopescu.tech 意见、反馈、批评等。 这篇文章是为了收集反馈。因此，我欢迎您提出任何意见或批评。请避免使用诸如“让我们回到 JSP”之类的评论。 （Phoenix 完全不同，性能更高且更易于集成）或“当有 React/Angular/Vue/另一个 JS 框架时为什么要使用它”？ （我相信基于 JS 的 FE 框架和提供 SSR 的 BE 端更集成的变体都有空间）。   由   提交/u/pazvanti2003  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwbeoz/phoenix_template_engine_for_spring/</guid>
       <pubDate>Mon, 20 May 2024 09:30:43 GMT</pubDate>
     </item>
@@ -92,21 +92,21 @@
     <item>
       <title>限制 LLM 培训管道使用源代码的许可证可以开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cw7qih/can_a_license_that_restricts_consumption_of/</link>
-      <description><![CDATA[这件事困扰了我一段时间。我有几个小型软件项目想与人类用户分享，但我已经停止将代码推送到 GitHub，因为想到我正在为封闭源语言模型的技术寡头提供免费劳动力，这让我感觉有点恶心。 我知道我的想法有矛盾。我曾为几家公司工作，这些公司的产品都是基于开源产品构建的（虽然公平地说，其中几家公司不仅仅是_使用_开源，而且还积极贡献或制作自己的开源项目），我也为我知道用于商业产品的开源项目做出了贡献。我并不声称自己没有矛盾，也不想在这里解决这些矛盾。 我想知道的是：开源的定义中是否有空间允许许可证对许可源的分发施加限制，以使其不能通过 Github 等托管服务进行分发，这些托管服务的服务条款包括默示许可授予，允许他们基本上对他们托管的代码做任何他们想做的事情？ 我知道 OSI 提供了 开源定义，我可以看到反对“仅限人类的开源”的良好论据（但我也可以看到一些很好的反驳）。我还知道版权本身（就 LLM 而言，可以说是过时的法律范式）包括公平使用原则，但该原则尚未在法庭上充分发挥作用。 我是唯一有这种感觉的人吗？或者这种感觉是否意味着社区中其他人也存在一个需要解决的问题？ 如果我们不能将一个限制使用涵盖的软件来训练 LLM 的许可证称为“开源”，但我们仍然希望以 OSI 定义所涵盖的方式与人类共享它，我们该如何称呼它？在我看来，限制在 LLM 中使用而没有通常要求开源的归属并不意味着这种软件是专有的（尽管我看到有人对这种限制感到冒犯，想称其为专有）。 我今天早些时候考虑过这个问题，并决定尝试整理这样一个许可证，称之为“人类公共许可证”： * https://gitea.com/waynr/human-public-license 这是我在其他许可证的“非 AI”版本集合中找到的 MPL 2.0 衍生产品的修改。 我想把这个许可证称为“开源”因为我认为它符合开源精神，在 LLM 炒作和 LLM 产品化之前，我意识到我打算与其他人分享的代码也可能用于训练闭源 LLM。 并不是说它非常相关或重要，但我正在最近开始使用的一个小工具上试用此许可证： * https://gitea.com/waynr/chooks    提交人    /u/trickofshade   [链接] [评论]]]></description>
+      <description><![CDATA[这件事已经困扰我一段时间了。我有几个小软件项目想与人类用户分享，但我已经停止将我的代码推送到 github，因为一想到我正在为闭源语言模型的技术寡头垄断贡献免费劳动力，这让我感觉有点恶心. 我知道我的想法存在矛盾。我曾在几家公司工作过，他们的产品是基于开源产品构建的（尽管公平地说，其中一些公司不仅使用开源，而且还积极贡献或制作自己的开源项目），并且我为开源做出了贡献我知道的项目用于商业产品。我并不声称没有矛盾，而且我也不想在这里解决这些问题。 我想知道的是：开源的定义中是否有空间用于强加许可的空间对许可源的分发进行限制，使其不能通过像 Github 这样的托管服务进行分发，这些服务的服务条款包括隐含的许可授予，允许他们基本上用他们托管的代码做任何他们想做的事？ I了解OSI 提供的开源定义，并且我可以看到针对“仅限人类的开源”提出了很好的论据。 （但我也可以看到一些很好的反驳论据）。我还了解到版权本身（对于法学硕士而言，可以说是一种过时的法律范式）包括尚未在法庭上充分发挥作用的合理使用原则。 我是唯一有这种感觉的人吗？方式？或者是社区中其他人共享有一个需要解决的问题的感觉？ 如果我们不能将限制使用所涵盖的软件来培训法学硕士的许可证称为“开源”但我们仍然想以 OSI 定义所涵盖的方式与人类分享它，我们会称之为什么？在我看来，在没有开源通常要求的归属的情况下禁止在法学硕士中使用的限制并不会使此类软件成为专有软件（尽管我可以看到有人对这种限制感到冒犯，希望将其称为专有软件）。 今天早些时候我正在考虑这个问题，并决定尝试将这样的许可证放在一起，并将其称为“人类公共许可证”： * https://gitea.com/waynr/ human-public-license 这是我发现的 MPL 2.0 衍生品的修改在“非人工智能”集合中其他许可证的版本。 我想将此许可证称为“开源”。因为我认为在 LLM 炒作和 LLM 的产品化让我意识到我打算与其他人共享的代码也可能用于培训闭源 LLM 之前，它非常符合开源精神。 并不是说它非常相关或重要，但我正在最近开始使用的一个小工具上试用此许可证： * https ://gitea.com/waynr/chooks   由   提交 /u/trickofshade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cw7qih/can_a_license_that_restricts_consumption_of/</guid>
       <pubDate>Mon, 20 May 2024 05:09:09 GMT</pubDate>
     </item>
     <item>
       <title>第一次在 Pypi 中发布并寻求任何反馈</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvzpxb/first_time_publishing_in_pypi_and_looking_for_any/</link>
-      <description><![CDATA[我为S-transform制作了一个python包 使用双曲窗口（双曲 S 变换或 HSTransform 包）。这是我第一次发布 python 包，因此该项目还远未稳定，仍处于 beta 版本。  主要特点：此转换应用于信号处理，将时间序列转换为频域，分析信号在极短时间内的瞬态变化。一些特殊用例可以是电力系统信号、地球物理信号分析或 MRI ... 目标受众：任何对信号处理或电力系统分析或地理分析感兴趣的人。 比较：已显示与小波变换的比较。 （这在检测瞬态变化方面显示出更大的潜力）  在进一步进展之前，我非常感谢一些反馈。期待有关代码的反馈、改进建议、错误报告或单元测试... HSTransform 可在  上找到pypi。 github 中源代码链接 快速使用 import numpy as np from hstransform import HSTransform # 创建输入信号（例如：电压信号） t = np.linspace(0, 10, 100) # 时间序列 V_m = 220*np.sqrt (2) # 峰值电压 f_V = 50 # 频率 phi_V = 0 # 相位 V_clean = V_m * np.sin(2 * np.pi * f_V * t + phi_V) # 创建电压骤降/骤降（额定电压的 80%） 0.15秒) V_sag = np.where((t &gt;= 2) &amp; (t &lt;= 3.5), 0.5 * V_clean, V_clean) # 创建HSTransform的实例 hs = HSTransform() # 执行变换 signal = V_sag S_transformed = hs.fit_transform(t, signal)    由   提交/u/Ok_Employ_2414   [链接] [评论]]]></description>
+      <description><![CDATA[我制作了一个带有双曲窗口的 S 变换 的 python 包（双曲 S 变换或 HSTransform 包）。这是我第一次发布 python 包，因此该项目还远未稳定，仍处于测试阶段。  主要特点：此变换应用于信号处理，将时间序列转换为频域，分析信号在极短时间内的瞬态变化。一些特殊用例可以是电力系统信号、地球物理信号分析或 MRI... 目标受众：对信号处理或电力系统分析或地理分析感兴趣的任何人。 比较：已显示与小波变换的比较。（显示出在检测瞬态变化方面更有潜力）  在进一步发展之前，我非常感谢一些反馈。期待对代码的反馈、改进建议、错误报告或单元测试... HSTransform 可在 pypi 上使用。 链接到 github 中的源代码 快速使用 import numpy as np from hstransform import HSTransform # 创建输入信号（例如：电压信号） t = np.linspace(0, 10, 100) # 时间序列 V_m = 220*np.sqrt(2) # 峰值电压 f_V = 50 # 频率 phi_V = 0 # 相位 V_clean = V_m * np.sin(2 * np.pi * f_V * t + phi_V) # 创建电压骤降/下降（额定电压的 80%） 0.15 秒） V_sag = np.where((t &gt;= 2) &amp; (t &lt;= 3.5), 0.5 * V_clean, V_clean) # 创建 HSTransform 的实例 hs = HSTransform() # 执行变换 signal = V_sag S_transformed = hs.fit_transform(t, signal)     提交人    /u/Ok_Employ_2414   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvzpxb/first_time_publishing_in_pypi_and_looking_for_any/</guid>
       <pubDate>Sun, 19 May 2024 22:05:27 GMT</pubDate>
     </item>
     <item>
       <title>显示热键 1.3.2 已发布！使用热键立即应用显示设置！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</link>
-      <description><![CDATA[网站：https://jon-mil-92.github.io/DisplayHotKeys/ 变更日志  清除热键按钮现在位于热键旁边。 缩短了插槽指示器标签。 修复了一个错误，即刷新应用程序后，启动时运行按钮会恢复到不正确的状态。 清除所有热键插槽时添加确认弹出窗口。  发行说明 此版本侧重于压缩 UI。 清除热键按钮已更改为热键旁边的小按钮，它会根据是否设置了热键动态禁用和启用自身。插槽指示器标签也缩短了。 如果您之前安装了 Display Hot Keys 版本 1.2.0 或更早版本，您必须在使用版本 1.3.2 的安装程序之前将其卸载。此外，如果更改了主显示器，然后以某种方式更改了显示配置，应用程序可能会挂起并拒绝重新启动。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。 如果您发现此软件有用，请考虑在 GitHub 页面上为该项目点赞！如果您真的很慷慨，请考虑使用网站或应用程序中的 PayPal 捐赠按钮进行捐赠。谢谢！    提交人    /u/jonRock1992   [链接] [评论]]]></description>
+      <description><![CDATA[网站：https://jon- mil-92.github.io/DisplayHotKeys/ 更改日志  清除热键按钮现在位于热键旁边键。 缩短了插槽指示器标签。 修复了启动时运行按钮在刷新应用程序后恢复到不正确状态的错误。&lt; /li&gt; 清除所有热键槽时添加了确认弹出窗口。  发行说明 此版本侧重于压缩 UI。 清除热键按钮已更改为热键旁边的小按钮，并且根据是否设置热键动态禁用和启用自身。插槽指示器标签也被缩短。 如果您事先安装了 Display Hot Keys 1.2.0 或更早版本，您必须先将其卸载，然后才能使用 1.3.2 版本的安装程序 。此外，如果更改主显示器，然后以某种方式更改显示配置，则应用程序可能会挂起并拒绝启动备份。目前，如果发生这种情况，重新启动 Windows 将阻止应用程序挂起并拒绝启动。 如果您发现此软件有用，请考虑为该项目授予“星”级。在 GitHub 页面上！如果您真的很慷慨，请考虑使用网站或应用程序中的 PayPal 捐赠按钮进行捐赠。谢谢！   由   提交/u/jonRock1992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</guid>
       <pubDate>Sun, 19 May 2024 13:00:06 GMT</pubDate>
     </item>
