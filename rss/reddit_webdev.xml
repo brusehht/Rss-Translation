@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 21 May 2024 03:14:16 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 21 May 2024 06:17:10 GMT</lastBuildDate>
     <item>
       <title>在 Astro 的 Starlight 文档框架中添加结构化数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwxsqj/adding_structured_data_in_astros_starlight/</link>
@@ -27,9 +27,9 @@
       <pubDate>Tue, 21 May 2024 02:28:23 GMT</pubDate>
     </item>
     <item>
-      <title>如今，您是否需要知道如何编写 HTML 和 CSS 才能成为一名 Web 开发人员，或者您可以使用预制的组件库并跳过它吗？</title>
+      <title>如今，您是否需要了解如何编写 HTML 和 CSS 才能成为一名 Web 开发人员，或者您是否可以使用预制的组件库并跳过它？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwx9i2/do_you_need_to_know_how_to_write_html_and_css_to/</link>
-      <description><![CDATA[有人告诉我，现在所有的开发人员都使用 UI 框架，所以几乎没有人编写 HTML 和 CSS。 你呢？ 有些人可能会说，“我写的是 sass，不是 css。对于这个问题，这算数。 有些人可能会说，“我不使用 HTML，我使用 PHP、pug、liquid、JSX 或 Vue。”这只是编写 HTML 的另一种方式。对于这个问题，这算数。 有些人可能会说，“好吧，我使用 HTML 并对其进行调整或添加 aria 标签或调整 CSS，但我不编写它”，但我认为这算数。调整主题或其他什么仍然是调整 HTML 或 CSS，对吗？在某些情况下，您可能需要了解更多相关信息，例如 HTML 电子邮件和其他专业领域。 我认为每个人 - 从午餐时间在小学图书馆制作第一个 HTML 页面的人，到调整子主题的人，到制作自定义组件的人，再到设计系统的人 - 都是一个庞大行业的一部分 - 并且涉及各种各样的角色和技能水平。 我很好奇，您是否必须猜测，有多少百分比的 Web 开发人员需要了解 HTML 和 CSS（达到合理的水平）才能完成他们的工作？ 如今，有多少百分比的前端开发人员了解并使用 HTML 和 CSS？    提交人    /u/sheriffderek   [链接] [评论]]]></description>
+      <description><![CDATA[有人告诉我，现在开发人员都使用 UI 框架，所以几乎没有人写 HTML 和 CSS。 那又怎么样？你？ 有些人可能会说，“好吧，我写的是 sass，不是 css。对于这个问题，这很重要。 有些人可能会说，“我不使用 HTML，我使用 PHP、pug、liquid、JSX 或 Vue。”这只是编写 HTML 的另一种方式。对于这个问题，这很重要。 有些人可能会说，“好吧，我使用 HTML 并调整它或添加 aria 标签或调整 CSS，但我不”不要写它，”但我认为这很重要。调整主题或者其他仍在调整 HTML 或 CSS 的内容，对吧？在某些情况下，例如 HTML 电子邮件和其他专业领域，您可能需要了解更多信息。 我认为每个人 — 从在小学图书馆制作第一个 HTML 页面的人开始午餐时，调整子主题的人、制作定制组件的人、设计设计系统的人——都是庞大行业的一部分——而且有各种各样的角色和技能水平。 &lt; p&gt;我很好奇，如果您不得不猜测，有多少百分比的 Web 开发人员需要了解 HTML 和 CSS（达到合理的水平）才能完成他们的工作？ 有多少比例的前端开发人员了解 HTML 和 CSS？现在使用 HTML 和 CSS 了吗？   由   提交 /u/sheriffderek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwx9i2/do_you_need_to_know_how_to_write_html_and_css_to/</guid>
       <pubDate>Tue, 21 May 2024 02:26:07 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>与免费代码训练营类似的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwwhx0/similar_websites_to_free_code_camp/</link>
-      <description><![CDATA[嗨，我很难理解免费代码营想要我做什么，他们用他们的方式表达问题。很多次我尝试回答问题，但发现自己在猜测或只是不明白它的意思，最后使用我不想使用的 chatgpt，然后我最终感到沮丧。  有没有类似的东西我可以尝试？我是一个实干家，不太喜欢读书。我喜欢免费代码营的做法，它给你一点然后你练习，然后给你一点然后你练习。  谢谢。     提交人    /u/Scary_Onion1668   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我很难理解免费代码营希望我如何处理他们提出问题的方式。很多次我尝试这个问题，但发现自己在双重猜测或只是不理解它的含义，最终使用了我不想做的 chatgpt，然后我最终感到沮丧。  我可以尝试类似的事情吗？我是一个非常实干的人，而不是一个读者。我喜欢免费代码训练营的方式，它给你一点，然后你练习，然后给你一点，然后你练习。  谢谢。    由   提交/u/Scary_Onion1668   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwwhx0/similar_websites_to_free_code_camp/</guid>
       <pubDate>Tue, 21 May 2024 01:46:46 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Tue, 21 May 2024 00:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>NameCheap 与 Wordpress.com 网站构建器相比如何？</title>
+      <title>NameCheap 与 Wordpress.com 网站构建器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwu9bb/namecheap_versus_wordpresscom_website_builder/</link>
       <description><![CDATA[我计划为我正在创办的企业制作一个非常简单的网站。由于它的简单性和我自己缺乏知识，我想坚持使用拖放式 CMS。我的计划是注册网站并通过 NameCheap 接收电子邮件，但通过 Wordpress.com 托管并使用他们的网站构建器 CMS（网站构建器和托管是一回事，当您购买一个时，您会得到另一个）。现在我看到 NameCheap 有自己的网站构建器，同样免费，适用于任何托管计划。有人用过 NameCheap 的建站工具吗？有人知道它与 Wordpress.com 相比如何吗？我知道 Wordpress 比 NameCheap 更主要以 CMS 为中心，所以我可能期望它的网站建设有更多的功能、内容和支持——但我不知道。 NameCheap 也便宜一些，使用他们的网站构建器意味着将网站的所有组件保留在同一平台上。有什么建议吗？   由   提交/u/Pspecial-Pepper-64   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwu9bb/namecheap_versus_wordpresscom_website_builder/</guid>
@@ -85,12 +85,12 @@
     <item>
       <title>您的工作或个人设置是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwr77x/what_do_your_work_or_personal_setups_look_like/</link>
-      <description><![CDATA[一段时间以来，我一直固步自封，我倾向于在主机上安装所有东西（语言、驱动程序），这样我就可以管理更少的东西。但我想稍微现代化一点。在我使用 VM 的日子里，我使用过 vagrant + virtual box，我假设现在每个人都已经转向容器甚至云服务了。所以我想知道你喜欢如何开展项目？我可能很快就会从事自由职业，所以我的项目环境可能看起来彼此非常不同。我在 MBP M 系列上，我选择的想法是 web/php storm，我应该如何现代化？    提交人    /u/IAmRules   [链接] [评论]]]></description>
+      <description><![CDATA[我已经坚持自己的方式有一段时间了，我倾向于喜欢主机上安装的所有内容（语言、驱动程序），这样我就可以管理更少的事情。但我想现代化一点。回到我的虚拟机时代，我使用 vagrant + virtual box，我假设现在每个人都已经转移到容器甚至云服务上。所以我想知道你喜欢如何进行项目工作？我可能很快就会成为自由职业者，所以我的项目环境可能看起来彼此非常不同。我使用的是 MBP M 系列，我选择的 IDE 是 web/phpstorm，我应该如何现代化？   由   提交 /u/IAmRules   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwr77x/what_do_your_work_or_personal_setups_look_like/</guid>
       <pubDate>Mon, 20 May 2024 21:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>Devolver Digital 揭露独立游戏网站复活节彩蛋并对其用户进行咆哮</title>
+      <title>Devolver Digital 披露独立游戏网站彩蛋并批评其用户</title>
       <link>https://www.reddit.com/r/webdev/comments/1cwr0gk/devolver_digital_reveals_indie_game_website/</link>
       <description><![CDATA[   /u/3lijah  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cwr0gk/devolver_digital_reveals_indie_game_website/</guid>
