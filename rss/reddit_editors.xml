@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 22 May 2024 06:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 09:14:43 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro + After Effects + Resolve 工作流程</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxusxb/premiere_pro_after_effects_resolve_workflow/</link>
+      <description><![CDATA[我对编辑或任何我只是想简化工作流程的东西并不陌生。我通常会编辑原始素材，然后进行颜色分级，然后进行我需要做的任何 VFX 工作，但速度较慢，因为我不使用代理，而且时间就是金钱，所以我有几个问题。 什么将是在 Premiere 中使用代理进行编辑、用颜色分级剪辑替换所述代理并在 Aftereffects 中进行 VFX 的最佳方式吗？ 我可以使用代理进行 VFX，然后将其与稍后对素材进行颜色分级，而不会弄乱视觉特效，以便我可以在需要时调整颜色等级？ 提前感谢您的回答！   由   提交/u/rjp13452  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxusxb/premiere_pro_after_effects_resolve_workflow/</guid>
+      <pubDate>Wed, 22 May 2024 07:50:49 GMT</pubDate>
+    </item>
     <item>
       <title>导出视频播放问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cxt8kj/exported_video_playback_question/</link>
@@ -13,16 +20,9 @@
       <pubDate>Wed, 22 May 2024 06:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>[需要一些建议]我为游戏开发者制作了一个AI BGM生成器</title>
-      <link>https://www.reddit.com/r/editors/comments/1cxrr10/need_some_advice_i_made_an_ai_bgm_generator_for/</link>
-      <description><![CDATA[您好，我是 Andrew，韩国人工智能音乐技术初创公司 Neutune 的创始人。我在研究生院认识的一些朋友和我开发了 MixAudio (https://mix.audio)，一个 AI BGM 生成器。虽然它可能无法与基于扩散模型的 Udio 或 Suno 等服务的制作质量相匹配，但我们相信我们的方法有其自身的优势。 MixAudio 利用示例声音组装模型，使其特别适合自定义音乐编辑。这对于游戏开发者和内容创作者来说是一个显着的优势。MixAudio 的突出特点之一是它的速度 – 它可以在短短两秒内生成四个音轨。我们非常感谢来自该社区的任何反馈或评估，以帮助我们改进并更好地满足您的需求。感谢您的时间和见解！  ​   由   提交/u/trilldoggy00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cxrr10/need_some_advice_i_made_an_ai_bgm_generator_for/</guid>
-      <pubDate>Wed, 22 May 2024 04:27:28 GMT</pubDate>
-    </item>
-    <item>
       <title>帮助解决“未找到 moovatom”的问题</title>
       <link>https://www.reddit.com/r/editors/comments/1cxroph/help_with_moov_atom_not_found/</link>
-      <description><![CDATA[大家好， 在这里试试运气。我正在尝试恢复损坏的 MP4 文件（从 Supremo HD 袖珍相机拍摄）。文件大小约为2.4GB，但文件长度显示为0:00，并且正如相机说明书所说，如果相机突然关机，它会自动保存文件。我使用格式化为 FAT32 的 128GB Micro SD 卡。我尝试过不同的恢复选项，到目前为止，我得到的最接近的是 djifix，但是 .H264 文件有故障，没有声音，有时会跳过某些部分，因此没有完全恢复。我还尝试将recover_mp4与ffmpeg一起使用，但我只获得了大约4%的文件，并且大小约为100MB，只是因为当我尝试播放它时，它具有全部内容但快进。我还可以尝试恢复已损坏的完全相同的文件吗？谢谢！ D:\mp4recover2\bin&gt;ffmpeg.exe -v error -i Corrupted.mp4 [mov,mp4,m4a,3gp,3g2,mj2 @ 000001ef5f9d1640] moovatom 未找到[in#0 @ 000001ef5f9b8580] 打开输入时出错：处理输入时发现无效数据 打开输入文件损坏的.mp4 时出错。打开输入文件时出错：处理输入时发现无效数据   由   提交/u/Few_Relationship250   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我只是在这里碰碰运气。我正在尝试恢复损坏的 MP4 文件（从 Supremo HD 袖珍相机拍摄）。文件大小约为 2.4GB，但文件长度显示为 0:00，并且如相机手册所述，如果相机突然关闭，它会自动保存文件。我使用格式化为 FAT32 的 128GB Micro SD 卡。我尝试过不同的恢复选项，到目前为止，我得到的最接近的是从 djifix 得到的，但 .H264 文件有故障，没有声音，有时会跳过部分，因此无法完全恢复。我还尝试使用带有 ffmpeg 的 recovery_mp4，但我只得到了文件的 4% 左右，大小只有 100MB 左右，因为当我尝试播放它时，它有整个内容，但快进了。还有什么我可以尝试恢复已损坏的完全相同的文件吗？谢谢！ D:\mp4recover2\bin&gt;ffmpeg.exe -v error -i brokened.mp4 [mov,mp4,m4a,3gp,3g2,mj2 @ 000001ef5f9d1640] moov atom not found [in#0 @ 000001ef5f9b8580] 打开输入时出错：处理输入时发现无效数据 打开输入文件 brokened.mp4 时出错。 打开输入文件时出错：处理输入时发现无效数据     提交人    /u/Few_Relationship250   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxroph/help_with_moov_atom_not_found/</guid>
       <pubDate>Wed, 22 May 2024 04:23:32 GMT</pubDate>
     </item>
@@ -32,20 +32,6 @@
       <description><![CDATA[大家好， 我是这个游戏的新手，我遇到了困境。  我应该将 CEA-608 和 CEA-708 嵌入到 Apple Pro res MOV 上进行广播，但我远远超出了我的能力。  我正在使用 Premiere，但我完全不知道如何将两者嵌入到同一个文件中。  如果有人可以帮助我或向我指出一些教程/文章，我将不胜感激。    由   提交/u/At0micZ0mbie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxqx4f/need_help/</guid>
       <pubDate>Wed, 22 May 2024 03:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑 1 小时的播客要多少钱？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cxqpug/how_much_you_charge_for_editing_a_1hr_podcast/</link>
-      <description><![CDATA[这里有自由视频编辑者吗？希望知道您对上述视频的收费是多少，其中包括图形设计和查找模因图片、字幕以及缩放和锐化由 2-3 个具有不同分辨率的摄像机拍摄的不同剪辑？ 目前正在制作一个和一个我认为这是一个大项目，成本肯定很高   由   提交/u/Lazy925  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cxqpug/how_much_you_charge_for_editing_a_1hr_podcast/</guid>
-      <pubDate>Wed, 22 May 2024 03:28:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑 1 小时的播客要多少钱？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cxqpqc/how_much_you_charge_for_editing_a_1hr_podcast/</link>
-      <description><![CDATA[这里有自由视频编辑者吗？希望知道您对上述视频的收费是多少，其中包括图形设计和查找模因图片、字幕以及缩放和锐化由 2-3 个具有不同分辨率的摄像机拍摄的不同剪辑？ 目前正在制作一个和一个我认为这是一个大项目，成本肯定很高   由   提交/u/Lazy925  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cxqpqc/how_much_you_charge_for_editing_a_1hr_podcast/</guid>
-      <pubDate>Wed, 22 May 2024 03:28:12 GMT</pubDate>
     </item>
     <item>
       <title>ARM（高通）最终可能会杀死 Avid</title>
@@ -71,7 +57,7 @@
     <item>
       <title>你们如何知道自己作为编辑的局限性以及如何应对？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxkgay/how_do_you_guys_know_your_limits_as_an_editor_and/</link>
-      <description><![CDATA[我一生中的大部分时间都是一名剪辑师，专业剪辑师大约有 7 年的时间。我制作过短片、在 iPhone 上拍摄的广告以及广告在 Alexa Mini 上拍摄的、简短的文档、功能文档等。我真的很喜欢我所做的事情，并且很感激能做这件事。  我也在一家制作公司的一份工作中完成所有这些工作，我们制作的产品几乎没有一致性，这让我在大多数时候都感到压力。但我遇到的问题是，我很难衡量自己在时间/日程安排方面的限制，我带来的创造性，以及当流程每天都不同时如何确保我不会让工作筋疲力尽。天。我觉得我正处于精疲力尽的状态，如果这是我所处的工作环境的结果，或者我的工作方式是自我破坏的。 所以我不知道，我很想听听其他也在相当不一致的环境中工作的编辑的意见，以及你们如何自己处理这个问题。谢谢大家:)   由   提交 /u/SpiffRogers   [链接] [评论]]]></description>
+      <description><![CDATA[我一生中大部分时间都在做编辑，从事专业工作大约 7 年。我制作过短片、用 iPhone 拍摄的广告和用 Alexa Mini 拍摄的广告、短纪录片、专题纪录片等。我真的很喜欢我所做的事情，并感激能够做这件事。 我还在一家制作公司做着所有这些工作，我们制作的东西几乎没有一致性，这让我大部分时间都感到压力很大。但我的问题是，我很难衡量自己的极限，无论是在时间/日程安排方面，还是在创意方面，以及如何确保在工作过程每天都不一样的情况下，我不会精疲力竭地离开工作岗位。我感觉自己正处于倦怠之中，这是否是我所处的工作环境造成的，或者我的工作方式是否自我破坏了。 所以我不知道，我很想听听其他也在相当不一致的环境中工作的编辑的意见，以及你们如何处理这个问题。谢谢大家 :)    提交人    /u/SpiffRogers   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxkgay/how_do_you_guys_know_your_limits_as_an_editor_and/</guid>
       <pubDate>Tue, 21 May 2024 22:15:35 GMT</pubDate>
     </item>
@@ -104,11 +90,25 @@
       <pubDate>Tue, 21 May 2024 18:11:01 GMT</pubDate>
     </item>
     <item>
-      <title>有什么技巧可以在 Premiere 中快速将预览低分辨率素材替换为高分辨率最终素材？</title>
+      <title>有什么技巧可以在 Premiere 中快速将预览低分辨率库存素材快速替换为高分辨率最终素材吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cxdoiq/any_tips_to_quickly_replace_preview_lores_stock/</link>
       <description><![CDATA[我正在开发这个项目，其中我正在编辑数十个短视频，每个短视频包含数十个素材剪辑。对于每个视频，我必须获得低分辨率预览，在视频中对其进行编辑，然后在客户批准后将其替换为高分辨率版本。由于预览和最终版本之间的分辨率存在差异，因此我最终浪费了大量时间来手动调整每个剪辑的大小。 我无法将属性从一个剪辑复制并粘贴到所有其他剪辑，因为决赛并不都有相同的分辨率，我也经常重新调整它们。 知道如何做到这一点而不必手动调整所有内容的大小吗？ &lt; !-- SC_ON --&gt;  由   提交/u/5ERGlO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cxdoiq/any_tips_to_quickly_replace_preview_lores_stock/</guid>
       <pubDate>Tue, 21 May 2024 17:36:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅使用 Lucidlink 托管 Productions 文件？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxd1sh/using_lucidlink_to_host_productions_files_only/</link>
+      <description><![CDATA[我正准备开始功能编辑，但之前从未使用过 Premier Productions。这部纪录片有两名剪辑师，我们都会镜像外部硬盘上的镜头。建议我使用 Lucidlink 来托管两个剪辑师单独访问的制作文件并连接到他们自己的本地素材。有人有这种工作流程的经验吗？这是接触两位分别制作同一部纪录片的剪辑师的最佳方式吗？   由   提交/u/Nacho_Libre_24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxd1sh/using_lucidlink_to_host_productions_files_only/</guid>
+      <pubDate>Tue, 21 May 2024 17:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Final Cut Pro：在主时间轴上查看时，复合剪辑内的剪辑缩放不正确，但在复合剪辑时间轴内时看起来正常。帮助！</title>
+      <link>https://www.reddit.com/r/editors/comments/1cxcn64/final_cut_pro_clips_inside_compound_clips_are/</link>
+      <description><![CDATA[我正在 Final Cut Pro 上进行编辑。我的主要时间线中有几个复合剪辑，其中包含编辑内容。当我在复合剪辑时间线中时，所有剪辑在查看器中都正确缩放，但是当我返回主时间线时，剪辑全部“缩小”并且侧面有边框。有人知道是什么原因造成的，以及如何修复它吗？ 第一张图片是复合剪辑在主时间线上的查看器中的样子。 第二张图片是复合剪辑时间线中复合剪辑中的剪辑在查看器中的样子。 https://imgur.com/a/PWPdP1k    提交人    /u/IgnorantPhotographer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cxcn64/final_cut_pro_clips_inside_compound_clips_are/</guid>
+      <pubDate>Tue, 21 May 2024 16:53:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
