@@ -4,9 +4,16 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 21 May 2024 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 21:12:43 GMT</lastBuildDate>
     <item>
-      <title>推出 Spaces 开发模式，带来无缝开发者体验</title>
+      <title>通过 Hugging Face 在 AWS Inferentia2 上部署模型</title>
+      <link>https://huggingface.co/blog/inferentia-inference-endpoints</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inferentia-inference-endpoints</guid>
+      <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 Spaces 开发模式以提供无缝的开发人员体验</title>
       <link>https://huggingface.co/blog/spaces-dev-mode</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/spaces-dev-mode</guid>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Intel Gaudi 2 和 Intel Xeon 构建经济高效的企业 RAG 应用程序</title>
+      <title>使用英特尔 Gaudi 2 和英特尔至强构建经济高效的企业 RAG 应用</title>
       <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/evaluation-structured-outputs</guid>
       <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>StarCoder2-Instruct：完全透明且允许的代码生成自对准</title>
-      <link>https://huggingface.co/blog/sc2-instruct</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/sc2-instruct</guid>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
