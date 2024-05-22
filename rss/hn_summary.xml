@@ -4,102 +4,92 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 22 May 2024 03:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 06:09:26 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网址：www.karlstack.com</title>
-      <link>https://t.me/hn_summary/90851</link>
-      <description><![CDATA[美国顶级科学博览会丑闻
-标题：美国顶级科学博览会丑闻
-网站：www.karlstack.com
+      <title>[媒体]Alacritty 是一款高性能、跨平台终端仿真器，利用 OpenG [...]</title>
+      <link>https://t.me/hn_summary/90867</link>
+      <description><![CDATA[Alacritty – 快速、跨平台的 OpenGL 终端模拟器
+Alacritty 是一款高性能、跨平台终端仿真器，利用 OpenGL 进行渲染，确保快速高效的操作。它支持 BSD、Linux、macOS 和 Windows，目前处于测试阶段，一些功能和错误仍在解决中。 Alacritty 强调与其他应用程序的集成，而不是重新实现其功能，从而提供灵活性和性能。它可以通过 TOML 文件进行配置，用户必须自己创建该文件。与某些终端模拟器不同，Alacritty 不包含制表符或拆分等功能，而是注重速度和简单性。可以使用预编译的二进制文件，并且可以通过各种包管理器完成安装。该项目是在 Apache License 2.0 下开源的。]]></description>
+      <guid>https://t.me/hn_summary/90867</guid>
+      <pubDate>Wed, 22 May 2024 06:09:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网址：www.msf.org</title>
+      <link>https://t.me/hn_summary/90866</link>
+      <description><![CDATA[巴西前所未有的洪水导致数十万人流离失所&lt; br /&gt;
+标题：巴西史无前例的洪水导致数十万人流离失所 
+网站：www.msf.org
 
-全球最大、最负盛名的科学博览会再生元国际科学与工程博览会 (ISEF) 最近在洛杉矶会议中心结束了 2024 年活动。来自加利福尼亚州德尔马的 17 岁少年 Krish Pai 获得了环境工程组第一名和再生元青年科学家奖，奖金总额为 105,000 美元。然而，派的胜利却陷入了争议，因为他被指控作弊。一份在网上广泛流传的匿名 Google 文档档案显示，Pai 伪造了数据并抄袭了其他研究人员的图像，包括欧洲大学实验室和 Raspberry Pi 文章。该档案细致地记录了许多数据伪造、剽窃和夸大主张的实例。尽管这些行为很严重，但作者认为 Pai 应该有赎回的机会，但坚持认为应该撤销他的奖项，以维护对其他参与者的公平。这一丑闻凸显了 ISEF 的重大监督失误，该组织需要立即采取行动并发表公开声明。期待主流媒体尽快报道。]]></description>
-      <guid>https://t.me/hn_summary/90851</guid>
-      <pubDate>Wed, 22 May 2024 03:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Tillywork 是一个专为动态团队设计的开源工作管理平台，提供 [...]</title>
-      <link>https://t.me/hn_summary/90850</link>
-      <description><![CDATA[Tillywork：开源工作管理
-Tillywork 是一个开源工作管理平台，专为动态团队设计，提供项目管理、销售 CRM 和敏捷项目模块。它旨在通过管理时间表、资源和可交付成果来简化团队工作流程，同时还提供用于客户关系管理和冲刺计划的工具。主要功能包括其开源特性、允许定制和扩展、全面的工具集和直观的用户界面。首先，用户可以克隆存储库、安装依赖项并运行应用程序。欢迎贡献，该项目可在 MIT 许可证下使用。]]></description>
-      <guid>https://t.me/hn_summary/90850</guid>
-      <pubDate>Wed, 22 May 2024 03:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网址：amber-lang.com</title>
-      <link>https://t.me/hn_summary/90849</link>
-      <description><![CDATA[显示 HN：Amber – 编译为 Bash 的编程语言 
-标题：展示 HN：Amber – 编译为 Bash 的编程语言
-网站：amber-lang.com
+巴西南部南里奥格兰德州遭受极端降雨和洪水的破坏，整个城市被隔离并被迫疏散。阿雷格里港的道路、桥梁和主要机场等基础设施遭到严重破坏。该州 497 个城市中有 460 多个城市受到影响。无国界医生驻巴西医疗协调员雷切尔·苏埃罗 (Rachel Soeiro) 表示，情况是灾难性的，一些城镇完全被淹没。这场灾难已造成超过 150 人死亡，约 100 人仍失踪，并导致超过 60 万人流离失所。无国界医生专注于最弱势群体，提供医疗援助、药品供应、水和食物，特别是向土著社区。该组织还设立流动诊所并提供心理健康支持。局势仍然不稳定，持续不稳定的天气带来了进一步的风险。 
 
-Amber 是一种新的编程语言，可直接编译为 Bash，为脚本编写提供现代、类型安全和运行时安全的环境。通过在编译过程中捕获许多错误和错误，Amber 确保了更可靠和可维护的脚本。这种创新方法使开发人员能够利用 Bash 的简单性和普遍性，同时受益于当代编程语言的高级功能。]]></description>
-      <guid>https://t.me/hn_summary/90849</guid>
-      <pubDate>Wed, 22 May 2024 02:44:58 GMT</pubDate>
+争议：没有突出显示。  
+独特/聪明：无国界医生使用直升机到达偏远社区，并为专业人员提供远程心理健康急救培训。]]></description>
+      <guid>https://t.me/hn_summary/90866</guid>
+      <pubDate>Wed, 22 May 2024 05:44:15 GMT</pubDate>
     </item>
     <item>
-      <title>在 akavel.com 上的文章“Don’t Return Err in Go”中，作者反对常见的公关 [...]</title>
-      <link>https://t.me/hn_summary/90848</link>
-      <description><![CDATA[Go 中不要返回错误
-在 akavel.com，作者反对 Go 中返回原始错误的常见做法，并将其标记为反模式。相反，他们主张向错误添加上下文信息以帮助调试。作者通过配置 mTLS 连接的示例代码对此进行了演示，展示了简单地返回错误如何提供不充分的信息。通过将 fmt.Errorf 与 %w 动词一起使用，可以创建更详细、更有用的错误消息。这种方法不仅有助于调试，而且使错误更容易理解且更长久。作者还强调了 Go 的错误处理相对于异常的优势，例如能够使用 errors.Is 和 errors.As 以编程方式检测特定错误。本文最后给出了一个生产代码中复杂错误处理的现实示例，强调了为错误添加上下文的重要性。]]></description>
-      <guid>https://t.me/hn_summary/90848</guid>
-      <pubDate>Wed, 22 May 2024 02:42:55 GMT</pubDate>
+      <title>[媒体]Cobalt 是 yt-dlp 的免费开源前端，旨在提供无缝的、[...]</title>
+      <link>https://t.me/hn_summary/90865</link>
+      <description><![CDATA[Cobalt – 免费开源 yt-dlp 前端，无广告
+Cobalt 是 yt-dlp 的免费开源前端，旨在提供无缝、无广告的体验。Cobalt 利用 JavaScript 进行 API 请求和交互式界面，确保流畅的用户体验，但您必须启用 JavaScript 才能使用该网站。开发人员向用户保证不涉及任何侵入性脚本。凭借 100 万用户群和惊人的速度，Cobalt 成为那些希望利用 yt-dlp 功能而又不受广告困扰的人的可靠工具。]]></description>
+      <guid>https://t.me/hn_summary/90865</guid>
+      <pubDate>Wed, 22 May 2024 05:31:03 GMT</pubDate>
     </item>
     <item>
-      <title>在美国人类学协会年会上，纽约州立大学皮特分校的理查德·罗宾 [...]</title>
-      <link>https://t.me/hn_summary/90847</link>
-      <description><![CDATA[复杂的威廉·詹宁斯·布莱恩 (2007)
-在美国人类学协会年会上，来自匹兹堡纽约州立大学的理查德·罗宾就 1925 年的斯科普斯猴子审判发表了发人深省的演讲，强调了威廉·詹宁斯·布莱恩的复杂人物。与电影《承风向》中所描绘的狂热保守派人物相反，布莱恩实际上相当进步，支持妇女选举权、累进税制和社会服务。他反对教授进化论源于他的平等主义担忧，特别是反对教科书《公民生物学》中提倡的优生学。这本教科书提倡选择性育种和绝育“不良动物”等令人憎恶的想法，布莱恩对此表示强烈反对。演讲强调了认识布莱恩的批评者和通过进化论证明优生学合理性的科学家的道德缺陷的重要性。西北大学法学教授 Steven Lubet 支持这些观点，《公民生物学》的全文可以在 Google 图书上找到。]]></description>
-      <guid>https://t.me/hn_summary/90847</guid>
-      <pubDate>Wed, 22 May 2024 02:42:51 GMT</pubDate>
+      <title>[媒体] 2007 年，USV 投资了 Twitter 和 Zynga，获得了对动态的宝贵见解 [...]</title>
+      <link>https://t.me/hn_summary/90864</link>
+      <description><![CDATA[远播
+2007年，USV投资了Twitter和Zynga，获得了对社交网络动态的宝贵见解。 Twitter 展示了开放社交网络和开发者生态系统的力量，但其目前由单一实体进行的集中控制远非理想。 Zynga 在 Facebook 上蓬勃发展，但最终由于对该平台的依赖而面临限制。这些经历凸显了 Web2 社交平台的缺点。一晃 15 年过去了，USV 很高兴投资 Farcaster，一个去中心化的社交网络协议。 Farcaster允许用户拥有自己的数字身份和数据，培育一个开放的生态系统，让开发者可以自由创新。 Farcaster 的独特之处在于，每个身份也是一个加密钱包，支持 NFT 铸造和内容订阅等多种经济活动。 Farcaster 由 Dan Romero 和 Varun Srinivasan 创立，旨在通过去中心化的加密经济方法彻底改变社交堆栈。]]></description>
+      <guid>https://t.me/hn_summary/90864</guid>
+      <pubDate>Wed, 22 May 2024 05:29:59 GMT</pubDate>
     </item>
     <item>
-      <title>我正在拆解和分析洛克人，也称为洛克人。</title>
-      <link>https://t.me/hn_summary/90846</link>
-      <description><![CDATA[洛克人/洛克人源代码
-我正在拆解和分析洛克人，也称为洛克人。以下是游戏的源代码文件，Banks 0、1、2 和 3 涵盖关卡和图形。该代码与《Mega Man 1》几乎相同，只有 12 字节的优化。我正在与互联网社区共享这些文件，这些文件以不同作者的工作为基础。当我开发《洛克人》关卡编辑器和一款名为《洛克人基础》的黑客游戏时，这些反汇编的质量得到了提高。其他说明可以在关卡编辑器的 defs.hh 文件中找到。请注意，虽然我的注释的版权归我 Bisqwit 所有，但游戏的版权归 Capcom 所有。]]></description>
-      <guid>https://t.me/hn_summary/90846</guid>
-      <pubDate>Wed, 22 May 2024 02:40:45 GMT</pubDate>
+      <title>[媒体] MicroStudio 是一个可通过 microstudio.dev 访问的游戏引擎平台，提供各种 [...]</title>
+      <link>https://t.me/hn_summary/90863</link>
+      <description><![CDATA[MicroStudio – 游戏引擎
+MicroStudio 是一个可通过 microstudio.dev 访问的游戏引擎平台，提供各种用户设置和功能。系统会提示用户验证他们的电子邮件地址，并可以选择接收每月通讯。该平台包含实验性功能，用户可以自行承担启用这些功能的风险，因为这些功能可能会更改或删除，恕不另行通知。在“危险区域”，用户可以选择永久删除其帐户，这将导致其所有项目和信息立即且不可逆转地删除。用户还可以使用描述和图像个性化他们的个人资料，这些描述和图像将与他们的昵称和公共项目一起公开显示。]]></description>
+      <guid>https://t.me/hn_summary/90863</guid>
+      <pubDate>Wed, 22 May 2024 05:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]青年学术政治家指南（1908）</title>
-      <link>https://t.me/hn_summary/90845</link>
-      <description><![CDATA[青年学术政治家指南（1908） 
-《年轻学术政治家指南》（1908）是一本针对有抱负的学术政治家的讽刺手册，提供了对学术政治景观的幽默而愤世嫉俗的观点。作者警告年轻而雄心勃勃的学者们，从年轻的理想主义到中年的自满，再到最终的老年权力，这是不可避免的旅程。该指南将学术政党分为五组：保守自由党、自由保守党、非地方党、亚杜兰党和匆忙的青年党，每一组都有独特且常常是荒谬的特征。文本强调了学术政治的徒劳性和讽刺性，强调真正的影响力往往是通过顺从和战略不作为而不是真正的改革来获得的。巧妙的讽刺在于对学术政治操弄和体制内在矛盾的细致、夸张的描述。 （根据故事文本的 40% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90845</guid>
-      <pubDate>Wed, 22 May 2024 02:39:40 GMT</pubDate>
+      <title>[媒体]mactop是一款专门为Apple Silicon chi设计的基于终端的监控工具[...]</title>
+      <link>https://t.me/hn_summary/90862</link>
+      <description><![CDATA[mactop
+mactop 是一款专为 Apple Silicon 芯片设计的基于终端的监控工具，直接从终端提供 CPU 和 GPU 使用情况、功耗和系统性能等实时指标。它支持对 E-Core 和 P-Core、内存和交换使用情况、网络活动以及磁盘读/写操作的详细监控。 mactop 用 Go 编写，代码少于 1,000 行，提供了一个简单、高效、可定制的 UI，具有各种颜色选项和更新间隔。它与 macOS Monterey 12.3+ 和所有 Apple Silicon 型号兼容。通过 Homebrew 或手动构建安装非常简单。该项目强调易用性和实时性能监控，这使其与其他工具区分开来。]]></description>
+      <guid>https://t.me/hn_summary/90862</guid>
+      <pubDate>Wed, 22 May 2024 05:25:49 GMT</pubDate>
     </item>
     <item>
-      <title>B 树计数 (2017)</title>
-      <link>https://t.me/hn_summary/90844</link>
-      <description><![CDATA[统计B树（2017）
-B 树计数 (2017)
-
-B 树是一种众所周知的存储排序列表的算法，允许在 log(N) 时间内高效地插入、删除和查找单项。本页介绍了 B 树的一个小增强功能，支持基于数字位置和键值的查找。此增强功能允许高效检索排序统计数据（如中位数和百分位数），并允许以固定增量逐步遍历树。此外，它支持构造未排序的 B 树，其中可以在指定的数字位置插入项目，使其行为类似于数组，但具有高效的插入和删除。
-
-作者指出，虽然这个想法可能并不新鲜，但并未广为人知。增强功能包括在每个子树中存储元素计数，促进高效的数字查找并保持传统 B 树的 O(log N) 复杂度。这使得计数 B 树对于编辑器缓冲区等应用程序特别有用，其中高效的导航和修改至关重要。
-
-独特之处：增强功能允许使用未排序的 B 树，无需比较例程即可使用，使其成为适用于各种应用程序的通用数据结构。
-
-争议：没有突出显示。
-
-聪明的洞察力：作者认为这种增强是如此明显，以至于令人惊讶的是更多的人没有意识到它，尽管它很有用。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/90844</guid>
-      <pubDate>Wed, 22 May 2024 02:39:34 GMT</pubDate>
+      <title>[媒体] 1T 美元的英国科技巨头在哪里？</title>
+      <link>https://t.me/hn_summary/90861</link>
+      <description><![CDATA[1T 美元的英国科技巨头在哪里？&lt; br /&gt;
+英国有潜力成为高科技超级大国，但这个机会被浪费了，导致英国科技公司大量流失到外国所有权中，Sage 是唯一的例外。这对英国的工业、商业、服务业和国防部门产生了可怕的影响。英国财政大臣杰里米·亨特最近的言论反映了对这一趋势的自满接受，与菲利普·哈蒙德和奈杰尔·法拉奇过去的言论相呼应，即外国收购意味着英国“对商业开放”。英国拥有必要的基础设施——顶尖大学、科学人才和众多科技独角兽——但缺乏投资资本、税收优惠和市场条件来支持和发展这些公司在国内的发展。激进的提议包括增加养老基金缴款、创建英国财富基金以及为英国初创企业的投资提供重大税收优惠。批评者认为这些措施过于大胆，面临强烈反对，但替代方案是经济持续衰退和贫困加剧。选择很明确：要么致力于投资并成为科技强国，要么面临持续的经济恶化。]]></description>
+      <guid>https://t.me/hn_summary/90861</guid>
+      <pubDate>Wed, 22 May 2024 05:15:42 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】周二，特朗普媒体股价下跌逾10%，收于44.19美元，全天跌幅为8.6%。</title>
-      <link>https://t.me/hn_summary/90843</link>
-      <description><![CDATA[DJT：特朗普媒体股价在公布 3.276 亿美元季度亏损后下跌
-特朗普媒体股价周二下跌超过 10%，收于 44.19 美元，当日下跌 8.6%。此前，该公司披露 2024 年第一季度净亏损 3.276 亿美元，营收仅为 770,500 美元。每股亏损 3.61 美元，归因于该公司与 Digital World Acquisition Corp 合并产生的非现金支出。尽管缺乏可观的收入，但由前总统唐纳德·特朗普 (Donald Trump) 持有多数股权的特朗普媒体的市值约为 60 亿美元。该公司强调其对长期产品开发的关注，而不是短期收入。该股自 3 月份公开亮相以来一直波动，最初最高达到每股 79 美元以上，随后大幅下跌。]]></description>
-      <guid>https://t.me/hn_summary/90843</guid>
-      <pubDate>Wed, 22 May 2024 02:38:27 GMT</pubDate>
+      <title>彼得·N.</title>
+      <link>https://t.me/hn_summary/90860</link>
+      <description><![CDATA[针对 Apple Silicon OpenBSD/ARM64 用户的重要消息&lt; br /&gt;
+Peter N. M. Hansteen 为 Apple Silicon M 系列处理器上的 OpenBSD 用户带来了重要更新。 Mark Kettenis 提醒我们注意 macOS Sonoma 14.5 触发的固件问题，该问题会影响 m1n1 引导加载程序并阻止 OpenBSD 在某些计算机上引导。要解决此问题，请通过在 macOS 中运行脚本来更新“stage1”m1n1，并在 OpenBSD 7.5 或 -current 上安装新的“apple-boot”固件。 OpenBSD 7.4 用户应升级到 7.5。感谢 Mark 和 OpenBSD/arm64 团队的辛勤工作。干杯!]]></description>
+      <guid>https://t.me/hn_summary/90860</guid>
+      <pubDate>Wed, 22 May 2024 05:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在关于显眼认知的“战略利他主义”中，作者探讨了进化[...]</title>
-      <link>https://t.me/hn_summary/90842</link>
-      <description><![CDATA[战略利他主义
-在关于显性认知的“战略利他主义”中，作者探讨了人类善良的进化基础，认为我们的大部分社会行为是由声誉管理驱动的。这篇文章借鉴了马基雅维利在《君主论》中的建议，认为人类的利他主义既真诚又具有战略意义，是由社会选择压力塑造的。作者深入研究了亲属选择、群体选择和互利共生，强调我们的道德本能比我们愿意承认的更加马基雅维利。这篇文章强调了社会竞争、规范和地位游戏在塑造人类合作和利他主义方面的作用，表明我们看似无私的行为往往是出于表现得值得信赖和获得社会认可的愿望。这种观点挑战了“人性本善”的观念，认为我们的善良是依赖于环境和策略性培养的。 （根据故事文本的 66% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90842</guid>
-      <pubDate>Wed, 22 May 2024 02:38:23 GMT</pubDate>
+      <title>[媒体] 最新的 Green500 排名将 Nvidia 的 Grace-Hopper Superchips (GH200) 列为领先 [...]</title>
+      <link>https://t.me/hn_summary/90859</link>
+      <description><![CDATA[Green500 表明 Nvidia 的 Grace-Hopper 超级芯片是一款能效野兽&lt; /a&gt;
+最新的 Green500 排名凸显了 Nvidia 的 Grace-Hopper Superchips (GH200) 在超级计算机能效方面的领先地位，尽管人们对数据中心能源消耗存在担忧。排名前十的系统中有七个使用 Nvidia GPU，其中前三名由 GH200 提供支持。这些超级芯片将 72 核 Grace CPU 与 H100 GPU 结合在一起，实现了令人印象深刻的效率数据，例如德国的 Jedi 系统达到 72.7 GFLOPS/瓦。这标志着与往年相比有了显着进步。然而，AMD 基于 Instinct 的系统排名有所下滑。 Nvidia 的集成设计和高速互连有助于提高其效率优势。值得注意的是，像微软 Eagle 这样的基于云的集群在功耗方面缺乏透明度，引发了效率问题。]]></description>
+      <guid>https://t.me/hn_summary/90859</guid>
+      <pubDate>Wed, 22 May 2024 05:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]如果您认为降低血压需要剧烈的有氧运动或举重，那么[...]</title>
+      <link>https://t.me/hn_summary/90858</link>
+      <description><![CDATA[平板支撑和靠墙坐最适合降低血压 
+如果您认为降低血压需要剧烈的有氧运动或举重，请再想一想。杰米最近的研究表明，平板支撑和靠墙静坐等等长收缩运动对于降低血压最有效。这些静态练习涉及保持肌肉收缩而不改变其长度。 Jamie 的研究分析了 270 项试验，涉及超过 15,000 名参与者，发现每周 3 次等长运动可以像药物一样有效地降低血压。此外，这些练习可以改善心脏健康、关节稳定性、肌肉平衡和整体表现，同时易于耐受且省时。令人惊讶的是，每周 3 次，每次 8 分钟，就能产生显着的效果。在开始任何新的锻炼方案之前，请务必咨询保健医生。]]></description>
+      <guid>https://t.me/hn_summary/90858</guid>
+      <pubDate>Wed, 22 May 2024 05:01:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
