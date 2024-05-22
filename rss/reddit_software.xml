@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 May 2024 12:22:29 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Wed, 22 May 2024 15:13:36 GMT</lastBuildDate>
+    <item>
+      <title>剪贴板实用程序，根据指示将所有剪辑记录在文本文件中</title>
+      <link>https://www.reddit.com/r/software/comments/1cy24ip/clipboard_utility_that_records_all_the_clippings/</link>
+      <description><![CDATA[嗨！ 我需要一些东西，当我尝试时，它会开始将我的所有 Ctrl + C 转储到文本文件中。 这将使我需要执行的一些轻量级网页抓取更快。 Windows 10 有类似的东西吗？ 谢谢大家！    提交人    /u/Propenso   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cy24ip/clipboard_utility_that_records_all_the_clippings/</guid>
+      <pubDate>Wed, 22 May 2024 14:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么好用的PDF阅读软件？</title>
       <link>https://www.reddit.com/r/software/comments/1cxyera/is_there_some_good_app_to_read_aloud_pdfs/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 22 May 2024 11:55:18 GMT</pubDate>
     </item>
     <item>
-      <title>有什么软件可以将mp3等音频文件转换为sps吗？</title>
+      <title>有什么软件可以把mp3等音频文件转换成sps吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cxx7v4/any_software_that_can_convert_audio_files_such_as/</link>
       <description><![CDATA[我正在尝试将 mp3 文件转换为 sps 文件，以便我可以将它们添加到我的游戏中(nfs mw 2012) 我只发现提及将 sps 转换为 mp3，但我找不到任何有关将 mp3 转换为 sps 的信息。   由   提交 /u/CheeseisYummy1234   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxx7v4/any_software_that_can_convert_audio_files_such_as/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>具有 API 支持的免费图像标记和过滤软件</title>
       <link>https://www.reddit.com/r/software/comments/1cxw12t/free_image_tagging_and_filtering_software_with/</link>
-      <description><![CDATA[我需要能够上传一堆图像，标记它们，然后根据标记轻松地包含/排除图像。缩略图必须清晰 - 最好只加载原始图像。 我希望能够批量上传和应用标签，因此这意味着 API 支持（然后我可以通过脚本进行管理）。 我希望它是免费的。 我不需要编辑图像。 我能找到的最好的是 eagle，除了免费部分外，它可以完成所有工作。它不是太贵，但我想在购买之前在这里试试运气也没什么坏处。    提交人    /u/GoatRocketeer   [链接] [评论]]]></description>
+      <description><![CDATA[我需要能够上传一堆图像，标记它们，然后根据标记轻松包含/排除图像。缩略图必须清晰 - 最好只加载原始图像。 我希望能够批量上传和应用标签，所以这意味着 API 支持（然后我可以通过脚本进行管理） ）。 我希望它是免费的。 我不需要编辑图像。 我能找到的最好的是 eagle，它确实除了免费部分之外的一切。虽然不太贵，但我想在买东西之前在这里试试运气也没什么坏处。   由   提交 /u/GoatRocketeer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxw12t/free_image_tagging_and_filtering_software_with/</guid>
       <pubDate>Wed, 22 May 2024 09:22:47 GMT</pubDate>
     </item>
@@ -64,28 +71,28 @@
     <item>
       <title>如何删除刚刚添加的注册表文件？</title>
       <link>https://www.reddit.com/r/software/comments/1cxsae5/how_can_i_delete_registry_file_i_just_added/</link>
-      <description><![CDATA[ 由   提交 /u/Serazax   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Serazax  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxsae5/how_can_i_delete_registry_file_i_just_added/</guid>
       <pubDate>Wed, 22 May 2024 04:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一些关于如何开发类似 Waze 或 Google Maps 的应用程序的建议</title>
+      <title>我需要一些关于如何开发 Waze 或 Google 地图等应用程序的建议</title>
       <link>https://www.reddit.com/r/software/comments/1cxqqq6/i_need_some_advice_to_how_to_do_an_app_like_waze/</link>
-      <description><![CDATA[在我的学校，我有一个项目是关于制作一个应用程序，该应用程序可以使用手机跟踪一个人，并向该人显示前方道路是否发生了碰撞或事故。如果发生任何事故，用户将能够报告（就像在 Waze 中一样），如果有其他可能的方法，则向用户展示如何避免事故。 我想我可以使用 Google Maps 的 Api 来为我们指路，但我不确定它是否也会向我显示事故。 如果什么都不起作用，我也在考虑使用 OpenStreetMap，它就像一个开放和免费的 Google Maps 版本 如果有人可以帮助我完成这个项目，我会非常高兴。    提交人    /u/Head-Photograph2374   [链接] [评论]]]></description>
+      <description><![CDATA[在我的学校，我有一个关于制作一个应用程序的项目，该应用程序可以跟踪一个人使用手机的情况，并在发生崩溃或故障时向该人显示道路前方发生事故。用户将能够报告是否发生任何事故（例如在 Waze 中，哈哈），以及是否有其他可能的方法向用户展示如何避免该事故。 我认为我可以使用 Google 地图的 Api给我们指路，但我不确定它是否也会告诉我事故。 如果没有效果，我也在考虑使用 OpenStreetMap，它就像一个开放且免费的 Google 地图版本 如果有人可以帮助我完成这个项目，我会非常高兴。   由   提交 /u/Head-Photograph2374    reddit.com/r/software/comments/1cxqqq6/i_need_some_advice_to_how_to_do_an_app_like_waze/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxqqq6/i_need_some_advice_to_how_to_do_an_app_like_waze/</guid>
       <pubDate>Wed, 22 May 2024 03:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>寻找适用于 Windows 的免费离线图库/缩略图查看器，无（或最少）空白</title>
+      <title>寻找适用于 Windows 且没有（或最少）空白的免费离线图片库/缩略图查看器</title>
       <link>https://www.reddit.com/r/software/comments/1cxn0vb/looking_for_a_free_offline_image_gallery/</link>
-      <description><![CDATA[我有一个装满图片的文件夹。我希望能够直观地浏览这些图片。 Windows 资源管理器缩略图视图在文件名上浪费了太多的屏幕空间，并使所有缩略图彼此分开。 我尝试了 DigiKam，但它并没有好多少 - 在某些方面，它甚至更糟，因为它在文件名和文件日期之间添加了更多空格。 IrfanView 非常适合批处理，但它不会为我生成缩略图，我不知道为什么。是的，我知道如何按 T 键来查看 [T] 缩略图 :) 理想的视图是所有图像肩并肩地挤在一起，就像被子一样。 我对愚蠢的标记、AI 增强或将这个 300GB 的文件夹上传到一些低劣的烟雾服务提供商不感兴趣。我只想一次看到所有图像，分辨率介于 75px 和 200px 之间。 有什么建议吗？    提交人    /u/Huckleberry_Pale   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个装满图像的文件夹。我希望能够直观地浏览这些图像。 Windows 资源管理器缩略图视图在文件名上浪费了太多的屏幕空间，并且使所有缩略图彼此分开。 Windows 资源管理器缩略图视图在文件名上浪费了太多的屏幕空间。 p&gt; 我尝试了 DigiKam，但它并没有好多少 - 在某些方面，它甚至更糟，因为它在文件名和文件日期之间添加了更多空格。  IrfanView 非常适合批处理，但它不会为我生成缩略图，我不确定为什么。是的，我知道如何按 T 切换 [T] 缩略图视图:) 理想的视图是所有图像并排挤在一起，就像一床被子。 我对愚蠢的标签、AI 缺陷或将这个 300GB 的文件夹上传到一些肮脏的烟雾服务提供商不感兴趣。我只想一次查看所有图像，分辨率介于 75 像素到 200 像素左右。 有什么建议吗？  &amp; #32；由   提交 /u/Huckleberry_Pale   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxn0vb/looking_for_a_free_offline_image_gallery/</guid>
       <pubDate>Wed, 22 May 2024 00:15:09 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个允许任何窗口显示为覆盖的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/</link>
-      <description><![CDATA[是否有任何软件可以让我在全屏时点击另一个窗口时，一个窗口变得透明并且不会进入另一个窗口的后面？我希望它允许窗口像覆盖层一样透明，这样我就可以跟踪另一个窗口上的信息，同时专注于另一个窗口的全屏   由   提交 /u/Best-Development9783   /u/Best-Development9783 reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[是否有任何软件可以让我在全屏时点击另一个窗口时，一个窗口变得透明并且不会进入另一个窗口的后面？我希望它允许窗口像覆盖层一样透明，这样我就可以跟踪另一个窗口上的信息，同时专注于另一个窗口的全屏   由   提交 /u/Best-Development9783    reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxmyl8/looking_for_a_software_that_allows_any_window_to/</guid>
       <pubDate>Wed, 22 May 2024 00:12:07 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cxl2yl/patch_mmc_core_allow_detection_of_locked_cards_by/</guid>
       <pubDate>Tue, 21 May 2024 22:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>可执行文件</title>
-      <link>https://www.reddit.com/r/software/comments/1cxk4x8/executables/</link>
-      <description><![CDATA[.exe 或 .apk 是如何制作的？我读到我们使用打包软件编译（不知道如何）python 可执行文件（假设代码部分是用 python 编写的）和其他代码。这是如何工作的？ 比如，它如何自动链接两个代码？ 想象一下，bat 文件 1、2、3 在安装应用程序（下一个 bat 文件在其上运行）时预计会在另一个文件之后运行 您将如何链接它或打包它，以便它作为单个可执行文件工作？ 如果 python 不在 exe 中更新，这不是一个安全问题吗？你是单独更新它还是创建应用程序的版本来更新其组件？即使你单独更新它，Python通常会在更新中丢弃许多关键字和命令，并用替代方案替换它们。如何这有效吗？我认为这里更好的方法是一起更新整个包（python 和其他）并更改代码，以便应用程序不会中断，而不是单独更新组件。这是一个愚蠢的问题，但我想知道你的想法。  tl/dr：我是应用程序开发新手，我想知道应该如何开始以及它是如何工作的   由   提交 /u/The_Better_Paradox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cxk4x8/executables/</guid>
-      <pubDate>Tue, 21 May 2024 22:02:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
