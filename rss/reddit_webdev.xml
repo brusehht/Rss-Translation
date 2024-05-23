@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 May 2024 21:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 00:52:58 GMT</lastBuildDate>
+    <item>
+      <title>所以我最终把我的js脚本变成了一个chrome扩展，可以让你以15倍的速度观看精彩的Youtube广告。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyfjdh/so_i_finally_turned_my_js_script_into_a_chrome/</link>
+      <description><![CDATA[所以我想在尽可能短的时间内观看尽可能多的广告，我想出了这个想法。  您可以从我的 github 存储库下载扩展文件，然后拖放到您的扩展选项卡中。  https://github.com/Longshoez/skip-ad    由   提交/u/Longshoez  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyfjdh/so_i_finally_turned_my_js_script_into_a_chrome/</guid>
+      <pubDate>Thu, 23 May 2024 00:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>维基百科适合我吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cydogg/would_a_wiki_be_right_for_me/</link>
+      <description><![CDATA[我目前正在使用 OneNote 和 Onedrive 来存储一堆基于特定主题的文本、图片、pdf、excel 文件等。我想要一些更加基于网络和统一的东西。 基本上是历史文档、演讲、图片等。如果可能的话，我希望能够引用一堆不同的文件到特定的人、地点、事件或任何。还有其他更好的东西吗？  谢谢。    由   提交/u/GrayManTech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cydogg/would_a_wiki_be_right_for_me/</guid>
+      <pubDate>Wed, 22 May 2024 22:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何购买活跃域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyd6i0/how_to_buy_an_active_domain/</link>
+      <description><![CDATA[有人有关于如何请求您想要的已注册域名的资源吗？例如，我想要 abc.com，但它已注册...我该如何联系以要求购买它？   由   提交 /u/LosoTheRed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyd6i0/how_to_buy_an_active_domain/</guid>
+      <pubDate>Wed, 22 May 2024 22:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何建立一个这样的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/</link>
+      <description><![CDATA[大家好！第一篇文章在这里... 我对为自己建立一个网站作为博客非常感兴趣，也许还可以为我可能想要为其创建网站的其他副项目创建一些其他网站。我对块构建器等非常熟悉，但我一直很想知道这些其他网站到底是如何构建的...那些没有明确说明正在使用 Wordpress 的网站。 例如，这样做吗页面使用Wordpress？ https://eunoia.world/ 如果没有，如何在 WordPress 之外构建网站？我见过一些人谈论框架和其他事情，但这对我来说都是新的。  我是一名数字营销人员，对 Html/Css/JS 具有非常基本的了解，过去曾使用这些知识为客户调整登陆页面，但除此之外，还有 WordPress 和托管，对我来说一切都是新的。 p&gt; 我使用 wappalizer chrome 扩展来构建一些网站以及builtwith网站，但我看到的只是框架和编程语言。 这样的页面是如何构建的？这是从头开始构建的还是有模板？这样的事情是如何完成的？我习惯于付费托管，然后在 WordPress 上进行构建。   由   提交 /u/Para-Mount   /u/Para-Mount  reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cybykp/how_to_build_a_site_like_this/</guid>
+      <pubDate>Wed, 22 May 2024 21:32:40 GMT</pubDate>
+    </item>
     <item>
       <title>关于如何构建某些东西的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1cyadif/recommendations_on_how_to_build_something/</link>
@@ -13,21 +41,7 @@
       <pubDate>Wed, 22 May 2024 20:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>寻找SaaS套件的前端重度合作伙伴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cya7xx/looking_for_frontend_heavy_partner_for_saas_kit/</link>
-      <description><![CDATA[我目前在 breakneck.dev 运行 saas 样板工具包 它与通常的 nextjs/laravel 全栈有点不同，因为它只是 c# / aspnetcore 中的后端部分，因此人们可以构建 api 产品、Web 项目或移动应用程序。 &lt;我正在考虑添加所有其他样板所具有的更多可视化部分和功能，但我不想自己编写代码。我的反应还好，但仅此而已。我也不是特别喜欢构建前端。 我正在寻找真正喜欢前端并且可能喜欢设计的人。我认为这会带来更好的产品，也会让我承担更多责任，而且会更有趣。 也许会把它变成更优质的样板产品。后端功能更加丰富，并且由真正了解后端的人构建。而且正面看起来更好看，而且是由真正了解设计的人制作的。  卖点不是“3天内构建你的SaaS”，而是“构建高质量的产品”。反而。我认为无论如何，船舶快速方法都被夸大了。 如果您有兴趣，请通过私信联系我。我已经在做销售了。虽然时间不多，但仍然如此。   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cya7xx/looking_for_frontend_heavy_partner_for_saas_kit/</guid>
-      <pubDate>Wed, 22 May 2024 20:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很紧张。请烤我的网站 v1.0。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cya64l/im_nervous_please_roast_v10_of_my_site/</link>
-      <description><![CDATA[我需要反馈。我知道一些小事情，但总体印象将不胜感激。  决定​​网络和软件开发   由   提交 /u/Rexcovering   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cya64l/im_nervous_please_roast_v10_of_my_site/</guid>
-      <pubDate>Wed, 22 May 2024 20:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何整理作品集</title>
+      <title>如何组合作品集</title>
       <link>https://www.reddit.com/r/webdev/comments/1cya0cl/how_to_put_together_a_portfolio/</link>
       <description><![CDATA[我目前正在努力完成在线前端开发认证，并且很好奇我应该在我的作品集中添加什么，因为我真的没有经验？    由   提交 /u/komodocommand   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cya0cl/how_to_put_together_a_portfolio/</guid>
@@ -50,19 +64,19 @@
     <item>
       <title>填写联系我们表单的机器人如何知道垃圾邮件何时被丢弃？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy7n1h/how_can_bots_filling_out_a_contact_us_form_know/</link>
-      <description><![CDATA[如果这不是此类问题的正确 subreddit，请提前致歉。 最近为自己建立了一个小网站，几分钟之内我就收到了通过联系页面提交的垃圾邮件。而且我仍然每小时收到多个。该表单包含“姓名”、“电子邮件”和“消息”字段，100% 的垃圾邮件来自 .ru 电子邮件。 有趣的是，我修改了我的 PHP 脚本，(a) 通过电子邮件向我发送了新的询问(b) 将查询添加到数据库中，对于电子邮件以 .ru 结尾但仍显示“谢谢您的消息”的所有查询，跳过这两个步骤。页面，所有垃圾邮件立即开始通过以 .pl 结尾的虚假电子邮件发送。 垃圾邮件机器人如何知道他们的邮件已被服务器端过滤掉，并找到绕过此问题的方法？仅仅是因为脚本现在运行速度快了一些吗？   由   提交 /u/lostinyourstereo   [链接] [评论]]]></description>
+      <description><![CDATA[如果这不是适合提出此类问题的正确 subreddit，请提前致歉。 最近我建立了一个小网站，几分钟之内我就通过联系页面收到了垃圾邮件提交。而且我每小时都会收到多封。表单包含姓名、电子邮件和消息字段，100％ 的垃圾邮件都来自 .ru 电子邮件。 有趣的是，我修改了我的 PHP 脚本，该脚本 (a) 通过电子邮件通知我我有新的咨询，并且 (b) 将咨询添加到数据库，以便对所有以 .ru 结尾的电子邮件咨询跳过这两个步骤，但仍显示“感谢您的留言”页面，然后所有垃圾邮件立即开始通过以 .pl 结尾的虚假电子邮件发送。 垃圾邮件机器人如何知道他们的消息已被服务器端过滤掉，并找到绕过此问题的方法？是否仅仅是因为脚本现在运行速度稍微快了一点？    提交人    /u/lostinyourstereo   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy7n1h/how_can_bots_filling_out_a_contact_us_form_know/</guid>
       <pubDate>Wed, 22 May 2024 18:34:27 GMT</pubDate>
     </item>
     <item>
-      <title>我如何让人工智能为我创建消息？</title>
+      <title>我如何让 AI 为我创建消息？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy7f7t/how_do_i_have_ai_create_messages_people_for_me/</link>
       <description><![CDATA[我经常向来自中国/印度的人发送消息，他们是我可能与之合作的潜在供应商。  如何让人工智能先提出问题，然后筛选他们，并与他们来回回复一段时间？ 我通常在微信/whatsapp 上向他们发送消息，但我可以使用另一个如果需要的话。我的桌面上也有这两个键盘，所以如果有一个可以自动打字和发送消息的人工智能键盘那就完美了。但我如何将其连接到 Chat GPT？ 希望得到您的意见！   由   提交/u/databoy-thatsme  /u/databoy-thatsme  reddit.com/r/webdev/comments/1cy7f7t/how_do_i_have_ai_create_messages_people_for_me/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy7f7t/how_do_i_have_ai_create_messages_people_for_me/</guid>
       <pubDate>Wed, 22 May 2024 18:25:51 GMT</pubDate>
     </item>
     <item>
-      <title>我现在在一家初创公司工作，大部分工作都已经完成，工作时间最多降到每月 40 小时。我需要找另一份工作，但因为这个原因，我无法把工资提高到每月 160 小时。这可行吗？</title>
+      <title>所以我在一家初创公司，大部分工作已经完成，工作时间减少到每月最多 40 个小时。我需要另找一份工作，但我不能因此而一路走到每月160。它有多可行？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy75lo/so_im_at_a_startup_where_most_of_the_work_is_done/</link>
       <description><![CDATA[上一个小组对我很满意，但我无法全职加入新小组。有人有过这样的经历吗？   由   提交/u/trwwjtizenketto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy75lo/so_im_at_a_startup_where_most_of_the_work_is_done/</guid>
@@ -78,37 +92,23 @@
     <item>
       <title>如何在 GIF 上渲染倒计时器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy5f84/how_would_you_render_a_countdown_timer_over_a_gif/</link>
-      <description><![CDATA[我正在尝试为朋友的生日制作一个有趣的 90 年代风格的网站，其愿景是在旋转篮球 gif。计时器的文本将是白色的，带有黑色轮廓，以便在篮球上可见。我从 stackoverflow 等人那里得到了一些帮助，但一直无法破解它。 我尝试将 gif 和“canvas”都放在文件中。元素放入同一个 div 中，并使用一些基本的 CSS 将它们放置在彼此之上，但由于某种原因，计数器根本没有渲染。 这是我尝试的方法&lt; /p&gt; ; &lt;正文&gt; &lt;样式类型=“文本/css”&gt; #timerContainer { z 索引：990;位置：相对；显示：内联块； } #timer { 位置：绝对； z 索引：1000； } #bball { 位置：相对； z 索引：999； } &lt;/风格&gt;  &lt;img id=“bball”; src=“/img/bball.gif”高度=150 宽度=150&gt; &lt;canvas id=“定时器”&gt; &lt;/画布&gt;  &lt;脚本类型=“文本/javascript”&gt; //window.addEventListener(&#39;load&#39;, function() { const countdownDate = new Date(&quot;2024年6月1日 00:00:00&quot;).getTime(); const gifImage = document.getElementById(&quot;bball&quot;) ; const timeCanvas = document.getElementById(“timer”); const ctx = timerCanvas.getContext(“2d”); console.log(“启动 upppp”) { const now = new Date() .getTime(); const 距离 = 倒计时日期 - 现在; const 天数 = Math.floor(距离 / (1000 * 60 * 60 * 24)); const 小时 = Math.floor((距离 % (1000 * 60 * 60 * 24) )) / (1000 * 60 * 60)); const 分钟 = Math.floor((距离 % (1000 * 60 * 60)) / (1000 * 60)); const 秒 = Math.floor((距离 % (1000) * 60)) / 1000); ctx.clearRect(0, 0,timerCanvas.width,timerCanvas.height); ctx.font = &quot;24px Arial&quot;; ctx.fillStyle = &quot;white&quot;; {天}d ${小时}h ${分钟}m ${秒}s`, 10, 50); if (距离 &lt; 0) {clearInterval(timerInterval); , 10, 50); console.log(“dst”, 距离); } gifImage.onload = function() {timerCanvas.width = gifImage.width; timeCanvas.height = gifImage.height;更新定时器(); }; const timeInterval = setInterval(updateTimer, 1000); //}) &lt;/脚本&gt; &lt;/正文&gt; &lt;/html&gt;  问题是，当我查看 Web 控制台时，似乎 JS 根本没有运行，因此画布只是空的。关于为什么会这样的任何想法吗？   由   提交/u/t40  [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试为朋友的生日制作一个有趣的 90 年代风格网站，愿景是在旋转的篮球 gif 上呈现一个简单的生日倒计时。计时器的文本将是白色的，带有黑色轮廓，以便在篮球上可见。我从 stackoverflow 等人那里得到了一些帮助，但还没能解决它。 我尝试将 gif 和“canvas”元素放入同一个 div，并使用一些基本的 CSS 将它们放在彼此之上，但由于某种原因，计数器根本没有呈现。 这是我尝试做的方法 &lt;html&gt; &lt;body&gt; &lt;style type=&quot;text/css&quot;&gt; #timerContainer { z-index: 990; position:relative; display: inline-block; } #timer { 位置：绝对; z-index：1000; } #bball { 位置：相对; z-index：999; } &lt;/style&gt; &lt;div id=&quot;timerContainer&quot;&gt; &lt;img id=&quot;bball&quot; src=&quot;/img/bball.gif&quot; height=150 width=150&gt; &lt;canvas id=&quot;timer&quot;&gt; &lt;/canvas&gt; &lt;/div&gt; &lt;script type=&quot;text/javascript&quot;&gt; //window.addEventListener(&#39;load&#39;, function() { const countdownDate = new Date(&quot;2024 年 6 月 1 日 00:00:00&quot;).getTime(); const gifImage = document.getElementById(&quot;bball&quot;); const timerCanvas = document.getElementById(&quot;timer&quot;); const ctx = timerCanvas.getContext(&quot;2d&quot;); console.log(&quot;booting upppp&quot;); function updateTimer() { const now = new Date().getTime(); const distance = countdownDate - now; const days = Math.floor(distance / (1000 * 60 * 60 * 24)); const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); const minutes = Math.floor((距离 % (1000 * 60 * 60)) / (1000 * 60)); const seconds = Math.floor((距离 % (1000 * 60)) / 1000); ctx.clearRect(0, 0, timerCanvas.width, timerCanvas.height); ctx.font = &quot;24px Arial&quot;; ctx.fillStyle = &quot;white&quot;; ctx.fillText(`${days}d ${hours}h ${minutes}m ${seconds}s`, 10, 50); if (distance &lt; 0) { clearInterval(timerInterval); ctx.fillText(&quot;倒计时开始&quot;, 10, 50); } console.log(&quot;dst&quot;, distance); } gifImage.onload = function() { timerCanvas.width = gifImage.width; timerCanvas.height = gifImage.height; updateTimer(); }; const timerInterval = setInterval(updateTimer, 1000); //}) &lt;/script&gt; &lt;/body&gt; &lt;/html&gt;  问题是，当我查看 Web 控制台时，似乎 JS 根本没有运行，因此画布是空的。 有什么想法可以解释为什么会这样吗？    提交人    /u/t40   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy5f84/how_would_you_render_a_countdown_timer_over_a_gif/</guid>
       <pubDate>Wed, 22 May 2024 17:05:09 GMT</pubDate>
     </item>
     <item>
       <title>检查客户端是否在 SPA 后端进行身份验证的最佳实践是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy5d2q/what_are_the_best_practices_for_checking_if/</link>
-      <description><![CDATA[我，一名自学成才的开发人员，正在构建我的第一个全栈项目。  我使用 Vue 作为前端，使用 NestJs 作为后端。 我的前端应该具有受限的操作，具体取决于它是否被随机人访问，而不是当某人访问时实际上是我网站的用户，拥有帐户并且当前已登录。我正在使用 Passport.js 通过用户会话策略进行身份验证。所有必需的端点也在服务器端受到身份验证保护。  我现在基本上计划做的是安装一个页面或路由到另一个页面，在端点上向我的后端发出 HTTP 请求，专门用于检查客户端是否在服务器会话中经过身份验证如果通过身份验证，则返回 200 状态；如果未通过身份验证，则返回 401 并将其保存在全局状态中。 我个人认为它会起作用，但这真的是最好的方法吗？ 另外，如果您有一些值得研究的开源项目，以了解如何以正确的方式完成工作，请在评论中分享它们。  &amp; #32；由   提交 /u/peculiar_sheikh   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名自学成才的开发人员，正在构建我的第一个全栈项目。  我使用 Vue 作为前端，使用 NestJs 作为后端。 我的前端应该有受限的操作，具体取决于它是否被随机人员访问，而不是当某人实际上是我的网站用户并拥有帐户且当前已登录时。我正在使用 Passport.js 进行用户会话策略身份验证。所有必需的端点也在服务器端受到身份验证保护。  我现在基本上打算做的是在安装页面或路由到其他页面时，向端点上的后端发出 HTTP 请求，专门用于检查客户端是否在服务器会话中通过身份验证，如果通过身份验证则返回 200 状态，否则返回 401 并将其保存在全局状态中。 我个人认为它会起作用，但这真的是最好的方法吗？ 此外，如果您有一些值得研究的开源项目以了解如何以正确的方式完成事情，请在评论中分享它们。    提交人    /u/peculiar_sheikh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy5d2q/what_are_the_best_practices_for_checking_if/</guid>
       <pubDate>Wed, 22 May 2024 17:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>字体在浏览器上无法正确显示。这是相同的 .otf 文件，甚至当我在 chrome 中检查源时的字体预览也显示正确的字体。</title>
+      <title>字体在浏览器上显示不正确。这是同一个 .otf 文件，甚至当我在 chrome 中检查源代码时，字体预览也显示正确的字体。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cy50l0/font_not_displaying_correctly_on_browser_it_is/</link>
       <description><![CDATA[     &lt;。 /td&gt;  由   提交 /u/oxparadoxpa   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cy50l0/font_not_displaying_correctly_on_browser_it_is/</guid>
       <pubDate>Wed, 22 May 2024 16:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码还是不编码（我自己）？关于UI套件的一个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cy3bbm/to_code_or_not_to_code_by_myself_a_question_about/</link>
-      <description><![CDATA[抱歉，如果这是一个菜鸟问题，但我已经自学 webdev 一段时间并进入了中级水平，我有一个问题这个简单的谷歌搜索...提供的主要是在线争论，而不是明确的答案。 问题：我的一个朋友需要一个基本的登陆页面网站。我想为他们创建它，作为新技术的练习。我选择顺风来检查复制粘贴 UI 块，然后调整它们。由于某种奇怪的原因，顺风在我脸上吹了几次。上次我几乎完成了一个页面，但它编译得很糟糕并破坏了整个网站。就像所有 css 都已损坏并且恢复更改不起作用一样，重新安装节点也不起作用。烦恼中浪费了几个小时。 问题：我是否应该使用 tailwindcss 和 bootstrap 等工具？我知道我在自定义 CSS 和响应能力方面遇到了问题 - 我从头开始编写了几个页面，这是一项大量的工作，结果我错过了几个屏幕，而且我的网站只是不起作用。我觉得 Bootstrap 至少让我可以用其响应式 Flex 容器覆盖一些基础，但我自己编写了大部分 CSS 并覆盖了大部分内容。 现在，我喜欢 TailwindCSS 的想法开源组件，但我觉得我可以自己创建这样的组件，然后从我自己的基础上复制粘贴它们，而不用冒外部代码搞乱我的工作的风险。我知道这是一场漫长的争论，但到目前为止，我只有足够的信心来制作登陆页面，然后再进入更复杂的领域。 你有什么建议？ 我希望这不是一个糟糕的子项目，mod 不会立即删除它。 编辑：附加背景 - 我是一名经过培训的平面设计师，我的客户预算很大，可以定制一切，但我也遇到有简单需求的客户（比如所说的只有登陆页面的网站，有点像在线传单）。我想帮助初创企业和低预算的客户，但重新发明轮子的成本很高，而且由于我还没有为自己创建一个库，我想知道 Tailwind/Bootstrap/等是否可以。是要走的路。   由   提交/u/Rare-Insurance5405  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cy3bbm/to_code_or_not_to_code_by_myself_a_question_about/</guid>
-      <pubDate>Wed, 22 May 2024 15:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在构建时重命名 tailwindcss 类名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cy300h/how_to_rename_tailwindcss_classnames_on_build/</link>
-      <description><![CDATA[我有一个 React 项目，它是一个可重复使用的 Web 组件，将插入到 ecom 商店中。像平常一样构建顺风的问题是导致与电子商务商店现有的类名发生冲突，并且弄乱了商店的整个布局。所以我想知道是否有一种方法可以使用 postcss 插件或 webpack 插件重命名构建上的 tailwind 类，可以做到这一点？ 另外，如果不存在这样的插件，我想构建这样，如果您有任何可以提取项目中使用的所有 tailwindcss 类及其相应 css 的插件的信息，那就更好了。 非常感谢任何帮助。 &lt; /div&gt;  由   提交 /u/HelloPipl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cy300h/how_to_rename_tailwindcss_classnames_on_build/</guid>
-      <pubDate>Wed, 22 May 2024 15:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
