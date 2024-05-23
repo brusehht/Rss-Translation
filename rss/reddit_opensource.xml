@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 23 May 2024 15:13:57 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Thu, 23 May 2024 18:16:59 GMT</lastBuildDate>
+    <item>
+      <title>Openthesia：类似于 Synthesia 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cyyn4l/openthesia_open_source_alternative_similar_to/</link>
+      <description><![CDATA[大家好，只是想与像我这样的普通钢琴爱好者分享我在过去 2/3 周内制作的这个小软件。它是一个 midi 可视化工具，具有一些功能，如 midi 播放和录制/导出、风格个性化、注释符号、不同的播放和移动速度等。 网站：https://openthesia.pages.dev/ 源代码：https:// github.com/ImAxel0/Openthesia 展示视频：https://youtu.be/PMJwmzkHlSo    由   提交 /u/Im-_-Axel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cyyn4l/openthesia_open_source_alternative_similar_to/</guid>
+      <pubDate>Thu, 23 May 2024 17:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geogebra 悄然放弃对 Linux 的支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cyxx4e/geogebra_is_silently_dropping_support_for_linux/</link>
+      <description><![CDATA[ 由   提交/u/medin2023  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cyxx4e/geogebra_is_silently_dropping_support_for_linux/</guid>
+      <pubDate>Thu, 23 May 2024 17:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - cladur/沉默</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cyvv8e/github_cladursilence/</link>
+      <description><![CDATA[       由   提交/u/FluffyBrudda  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cyvv8e/github_cladursilence/</guid>
+      <pubDate>Thu, 23 May 2024 15:41:25 GMT</pubDate>
+    </item>
     <item>
       <title>有在线预订的开源替代方案吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cyuuih/any_open_source_alternatives_for_online_booking/</link>
@@ -41,9 +62,9 @@
       <pubDate>Thu, 23 May 2024 03:05:41 GMT</pubDate>
     </item>
     <item>
-      <title>Phi-3 Vision：微软推出的一款小巧而高效的多模态模型</title>
+      <title>Phi-3 Vision：微软的小型但高效的多模式模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1cydkns/phi3_vision_a_small_yet_efficient_multimodal/</link>
-      <description><![CDATA[微软已经完成了 Phi-3 系列模型的发布，其中还包括 Phi-3 Vision，这是一个由 Phi-3 Mini 驱动的多模态模型，只有（是的，只有！）4.2B 个参数。尽管如此，它仍然能够达到并与其他强大的多模态模型相媲美……我希望看到越来越多的模型朝着这个方向发展！啊...而且，它是一个完整的开源模型！！！ 有关它的指南：https://didyouknowbg8.wordpress.com/2024/05/23/phi-3-vision-seeing-and-understanding-the-world-with-ai/ 希望它有用！    提交人    /u/Gloomy-Log-2607   [链接] [评论]]]></description>
+      <description><![CDATA[微软已经完成了 Phi-3 系列模型的发布，其中还有 Phi-3 Vision，这是一款由 Phi 提供支持的多模式模型-3 Mini，只有（是的，只有！）4.2B 参数。尽管如此，它还是能够达到并与其他强大的多式联运车型相媲美……我希望看到越来越多的车型朝着这个方向发展！啊...此外，它是一个完整的开源模型！！！ 有关它的指南：https://didyouknowbg8.wordpress.com/2024/05/23/phi-3-vision-seeing-and-understanding- the-world-with-ai/ 希望有用！   由   提交 /u/Gloomy-Log-2607   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cydkns/phi3_vision_a_small_yet_efficient_multimodal/</guid>
       <pubDate>Wed, 22 May 2024 22:41:36 GMT</pubDate>
     </item>
@@ -62,7 +83,7 @@
       <pubDate>Wed, 22 May 2024 17:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>JIRA、ASANA 和 Monday 的自托管开源替代方案</title>
+      <title>JIRA、ASANA 和 Monday 的自托管开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cy4ufg/selfhosted_open_source_alternative_to_jira_asana/</link>
       <description><![CDATA[大家好！ 🌟 我们很高兴地宣布，我们的开源工作管理工具 WorkLenz 在 GitHub 上的星数已超过 600 颗！ 🚀 WorkLenz 旨在帮助团队高效管理任务和资源。如果您正在寻找 JIRA、ASANA 或 Monday 的自托管可定制替代方案，WorkLenz 可能正是您所需要的。 我们正在不断改进和添加新功能，包括简单的 HR 和 CRM模块。 在这里查看：https://github.com/Worklenz/worklenz 感谢大家的支持！   由   提交 /u/kalintush   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cy4ufg/selfhosted_open_source_alternative_to_jira_asana/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[   /u/augspurger  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxv1uc/we_are_excited_to_announce_the_launch_of_a_new/</guid>
       <pubDate>Wed, 22 May 2024 08:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 iOS 免费的开源 RAR 提取器应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cxsk2n/any_ios_free_opensource_rar_extractor_app_yet/</link>
-      <description><![CDATA[我使用 iOS 多年，直到今天我才注意到它没有原生的 .rar 扩展支持（就像它对 .zip 的支持一样），现在我必须通过 WeTransfer 以 .rar 文件形式下载大量照片，我发现了这个问题。 我在 App Store 尝试的所有应用都充斥着广告和遥测，它们实际上并不提取文件，而是“允许您预览文件”只能通过应用程序才能查看 .rar 中的文件，如果你卸载它，你会发现没有文件可访问，因为它们从未真正提取过。 我不信任这些应用程序，我怀疑当你通过应用程序本身查看压缩的 .rar 中的私人照片和文件时，它们实际上可以看到它们，就像中间人一样。 我甚至不知道这些应用程序是如何被允许进入 App Store 的。 有没有 FOSS 替代品？    提交人    /u/Ramiro_RG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cxsk2n/any_ios_free_opensource_rar_extractor_app_yet/</guid>
-      <pubDate>Wed, 22 May 2024 05:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 上有哪些 JavaScript、Python 和 Go 的新热门项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</link>
-      <description><![CDATA[我正在 GitHub 上寻找一些目前很流行的新鲜且令人兴奋的项目，尤其是 JavaScript、Python 和 Go 领域的项目。无论是一个创新的库、一个很酷的框架，还是一个有趣的应用程序，我很想听听社区最近都在讨论什么。如果您遇到过任何正在获得关注或只是值得的项目退房，请在此处分享！提前致谢！   由   提交/u/ human-g30   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</guid>
-      <pubDate>Tue, 21 May 2024 23:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源工作匹配平台。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cxfulz/looking_for_open_source_job_matching_platform/</link>
-      <description><![CDATA[在我的公司，我们希望使用某种软件来帮助我们将人员与特定的职位列表相匹配。我发现了一些我们可以使用的 saas 选项，例如 RChilli、HiRize 或 TextKernel，但还没有看到任何可以实现我们想要的功能的开源选项。到目前为止，该项目的范围将是解析我们所有客户的简历，然后根据解析后的职位描述，返回最适合的人员列表。有谁知道一个好的开源项目可以帮助我们解决这个问题吗？   由   提交 /u/GroundZer01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cxfulz/looking_for_open_source_job_matching_platform/</guid>
-      <pubDate>Tue, 21 May 2024 19:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
