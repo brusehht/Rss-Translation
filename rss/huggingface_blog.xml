@@ -4,7 +4,7 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 22 May 2024 21:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 15:12:39 GMT</lastBuildDate>
     <item>
       <title>通过 Hugging Face 在 AWS Inferentia2 上部署模型</title>
       <link>https://huggingface.co/blog/inferentia-inference-endpoints</link>
@@ -39,6 +39,13 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/microsoft-collaboration</guid>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过键值缓存量化解锁更长的生成</title>
+      <link>https://huggingface.co/blog/kv-cache-quantization</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/kv-cache-quantization</guid>
+      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PaliGemma – Google 的尖端开放视觉语言模型</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/asr-diarization</guid>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高结构化生成的即时一致性</title>
-      <link>https://huggingface.co/blog/evaluation-structured-outputs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/evaluation-structured-outputs</guid>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

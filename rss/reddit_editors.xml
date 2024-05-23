@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 23 May 2024 12:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 15:13:21 GMT</lastBuildDate>
     <item>
       <title>Avid Media Composer 在本应为黑色的地方显示扭曲的图像。</title>
       <link>https://www.reddit.com/r/editors/comments/1cyqva7/avid_media_composer_displays_distored_image_where/</link>
-      <description><![CDATA[我几周来一直遇到的一个问题是，当我添加填充物时，Avid 显示扭曲或绿色图像。所以在某些地方应该会出现黑屏。我在狂热的论坛上搜索了几天，发现了一些人和我有同样问题的人，但从未得到解决。我想知道这里有人可以帮忙吗？我尝试上传图片，但由于某种原因似乎无法上传。我在 Windows 10 上使用最新的 Media Composer 版本，并且所有驱动程序都是最新的。我看到的与此人发布的图片相同： https://community.avid.com/forums/ p/185156/880988.aspx 提前致谢。 系统规格： -CPU AMD Ryzen 7 4800U，带 Radeon Graphics 1， 80 GHZ -GPU 内部 -RAM：16GB -Windows 10 家庭版 22H2 -视频：MXF OP-atom使用 Davinci Resolve 制作的 DNxHQ LB 25p 1080p 代理   由   提交/u/Luke-Fluke  /u/Luke-Fluke  reddit.com/r/editors/comments/1cyqva7/avid_media_composer_displays_distored_image_where/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我几周以来一直遇到的一个问题是，当我添加填充物时，Avid 显示扭曲或绿色图像。所以在某些地方应该会出现黑屏。我在狂热的论坛上搜索了几天，发现了一些人和我有同样问题的人，但从未得到解决。我想知道这里有人可以帮忙吗？我尝试上传图片，但由于某种原因似乎无法上传。我在 Windows 10 上使用最新的 Media Composer 版本，并且所有驱动程序都是最新的。我看到的与此人发布的图片相同： https://community.avid.com/forums/ p/185156/880988.aspx 提前致谢。 Media Composer 版本 2024.2 系统规格：  -CPU AMD Ryzen 7 4800U，带 Radeon Graphics 1,80 GHZ -GPU 内部 -RAM：16GB -Windows 10 家庭版 22H2 -素材：使用 Davinci Resolve 制作的 MXF OP-atom DNxHQ LB 25p 1080p 代理   由   提交/u/Luke-Fluke  /u/Luke-Fluke  reddit.com/r/editors/comments/1cyqva7/avid_media_composer_displays_distored_image_where/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cyqva7/avid_media_composer_displays_distored_image_where/</guid>
       <pubDate>Thu, 23 May 2024 11:50:21 GMT</pubDate>
     </item>
@@ -22,14 +22,14 @@
     <item>
       <title>达芬奇媒体管理失败并且无法打开自己的文件</title>
       <link>https://www.reddit.com/r/editors/comments/1cyoh6z/davinci_media_management_fails_and_cant_open_its/</link>
-      <description><![CDATA[你好！ 我和我的同事遇到了一个奇怪的达芬奇问题，但我找不到任何相关信息- 想知道以前是否有人遇到过这种情况？ 基本上我是在 Premiere 中进行编辑，但是在准备颜色分级时，我喜欢导出 xml 并在 daVinci 中打开它，以便使用媒体管理工具。在媒体管理面板中，我总是勾选“使用的媒体和修剪保持 25 帧句柄”。为了最大限度地减少发送到分级的数据。当我开始渲染时，它的行为完全正常，但一旦达到 98% 左右（这会有所不同），就会出现错误。然而，项目窗口不允许我看到整个错误，因此很难找到任何相关信息。 当我进入取景器时，我仍然找到达芬奇渲染的所有剪辑。所有文件均以其原始分辨率和格式并带有句柄。因此似乎一切正常。 但是，daVinci 无法打开甚至无法识别这些文件 - 但 Premiere 可以完全正常打开它们。我觉得很奇怪，daVinci 无法打开它渲染的文件，这对我来说真的没有意义，为什么 Premiere 能够打开它？ Baselight 还能够打开文件。 这对我的工作流程产生了巨大（负面）影响，因为我通常 100% 依赖达芬奇媒体管理工具，但如果评分者也使用达芬奇，他们就会获胜甚至无法打开文件。 有人以前遇到过这个问题，或者知道这个问题是从哪里来的吗？ 我的 daVinci 版本是 18.6.6 BUILD 7 系统：iMac Retina 5K，27 英寸，2020 年。3.8 GHz 8 核 Intel Core i7、AMD Radeon Pro 5700 XT 16 GB、Sonoma 14.1.2 谢谢！ 编辑：这是 Studio 版本   由   提交/u/ChoiceNo1484  [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 我和我的同事遇到了一个奇怪的 daVinci 问题，我找不到任何相关信息 - 想知道是否有人遇到过这种情况？ 基本上，我在 Premiere 中编辑，但在准备颜色分级时，我喜欢导出一个 xml 并在 daVinci 中打开它，以便使用媒体管理工具。在媒体管理面板中，我总是勾选“使用的媒体和修剪保持 25 帧句柄”，以尽量减少发送到分级的数据。 当我开始渲染时，它完全正常，但一旦达到 98% 左右（这会有所不同），就会出现错误。但是，项目窗口不允许我看到整个错误，因此很难找到有关它的任何信息。 当我进入查找器时，我仍然找到 daVinci 渲染的所有剪辑。所有文件都以其原始分辨率和格式以及句柄存在。因此看起来好像一切都正常。 但是，daVinci 无法打开甚至无法识别这些文件 - Premiere 却可以完全正常地打开它们。我发现 daVinci 无法打开它渲染的文件非常奇怪，我不明白为什么 Premiere 可以打开它？ Baselight 也能够打开这些文件。 这对我的工作流程产生了巨大的（负面）影响，因为我通常 100％ 依赖 daVinci Mediamanagement 工具，但如果分级员也使用 daVinci，他们甚至无法打开这些文件。 有人遇到过这个问题吗？或者知道问题出在哪里吗？ 我的 daVinci 版本是 18.6.6 BUILD 7 系统：iMac Retina 5K，27 英寸，2020. 3,8 GHz 8 核 Intel Core i7、AMD Radeon Pro 5700 XT 16 GB、Sonoma 14.1.2 谢谢！ 编辑：这是 Studio 版本    提交人    /u/ChoiceNo1484   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cyoh6z/davinci_media_management_fails_and_cant_open_its/</guid>
       <pubDate>Thu, 23 May 2024 09:12:20 GMT</pubDate>
     </item>
     <item>
       <title>远程编辑 (HP Zcentral Remote Boost) 问题 (Avid 2024)</title>
       <link>https://www.reddit.com/r/editors/comments/1cylq3s/remote_editing_hp_zcentral_remote_boost_issues/</link>
-      <description><![CDATA[不知怎的，现在是 2024 年，我发现自己第一次进行远程编辑。我正在使用惠普解决方案，但根本无法应对。尝试解决问题，但我并没有真正取得任何进展……开始怀疑我是否没有像大多数人那样能够接受固有的问题。  两个主要问题。首先是播放栏开始移动后，音频中断或需要一两秒才能开始。二是普遍滞后。我对此有一点预期，但实际上我对它进行了计时，结果记录击键时出现了 0.9 秒的延迟。  这正常吗？这是每个人都在忍受的吗？ 编辑：通过 HP Elitebook 笔记本电脑远程连接到 z4s 或 z8s。    由   提交 /u/Y3ffoc   [链接] [评论]]]></description>
+      <description><![CDATA[不知怎的，现在是 2024 年，我发现自己第一次进行远程编辑。我正在使用惠普解决方案，但根本无法应对。尝试过排除故障，但我并没有真正取得任何进展……开始怀疑我是否没有像大多数人那样能够接受固有的问题。  两个主要问题。首先是播放栏开始移动后，音频中断或需要一两秒才能开始。二是普遍滞后。我对此有一点预期，但实际上我对其进行了计时，结果记录击键时出现了 0.9 秒的延迟。  这正常吗？这是每个人都在忍受的吗？ 编辑：通过 HP Elitebook 笔记本电脑远程连接到 z4s 或 z8s。    由   提交 /u/Y3ffoc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cylq3s/remote_editing_hp_zcentral_remote_boost_issues/</guid>
       <pubDate>Thu, 23 May 2024 05:58:44 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>使用全新 m4 iPad Pro 在片场查看 ProRes 样片。</title>
       <link>https://www.reddit.com/r/editors/comments/1cycuex/going_through_prores_dailies_on_set_with_the_new/</link>
-      <description><![CDATA[多么棒的体验！ USBC SSD 从 DIT 直接进入 Resolve。我已经完成 80% 的穿线工作，从片场走出来，客户很喜欢。没有又大又重的包，没有充电器，没有压力。    由   提交/u/shenanigans973   [链接] [评论]]]></description>
+      <description><![CDATA[多么棒的体验！DIT 的 USBC SSD 直接进入 Resolve。从片场走出来时，我的 80% 的拍摄工作已经完成，客户很喜欢。没有大而重的包，没有充电器，没有压力。     提交人    /u/shenanigans973   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cycuex/going_through_prores_dailies_on_set_with_the_new/</guid>
       <pubDate>Wed, 22 May 2024 22:10:09 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>是否有软件可以创建连接硬盘的清单？</title>
       <link>https://www.reddit.com/r/editors/comments/1cy5y49/is_there_software_that_can_create_an_inventory_of/</link>
-      <description><![CDATA[本质上是创建文件夹和文件的索引，并将其放入 Excel 工作表/Google 文档或类似文件中。  (OSX 12.7.3)   由   提交 /u/EL-CHUPACABRA   /u/EL-CHUPACABRA   reddit.com/r/editors/comments/1cy5y49/is_there_software_that_can_create_an_inventory_of/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[本质上创建文件夹和文件的索引并将其放入 Excel 表 / Google 文档或类似文件中。  （OSX 12.7.3）    提交人    /u/EL-CHUPACABRA   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cy5y49/is_there_software_that_can_create_an_inventory_of/</guid>
       <pubDate>Wed, 22 May 2024 17:26:26 GMT</pubDate>
     </item>
