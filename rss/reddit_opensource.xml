@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 23 May 2024 00:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 03:14:05 GMT</lastBuildDate>
+    <item>
+      <title>GPU Faker - 绕过 Arena Breakout Infinite 等游戏施加的 GPU 限制</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cyitap/gpu_faker_bypass_gpu_limitations_imposed_by_games/</link>
+      <description><![CDATA[   /u/Fredol  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cyitap/gpu_faker_bypass_gpu_limitations_imposed_by_games/</guid>
+      <pubDate>Thu, 23 May 2024 03:05:41 GMT</pubDate>
+    </item>
     <item>
       <title>Phi-3 Vision：微软的小型但高效的多模式模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1cydkns/phi3_vision_a_small_yet_efficient_multimodal/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>GitHub 上有哪些 JavaScript、Python 和 Go 的新热门项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</link>
-      <description><![CDATA[我正在寻找 GitHub 上一些目前流行的新鲜而令人兴奋的项目，尤其是在 JavaScript、Python 和 Go 中。无论是创新的库、酷炫的框架还是有趣的应用程序，我都想听听社区最近在讨论什么。 如果您遇到任何正在获得关注或值得一看的项目，请在此处分享！ 提前致谢！    提交人    /u/human-g30   [链接] [评论]]]></description>
+      <description><![CDATA[我正在 GitHub 上寻找一些目前很流行的新鲜且令人兴奋的项目，尤其是 JavaScript、Python 和 Go 领域的项目。无论是一个创新的库、一个很酷的框架，还是一个有趣的应用程序，我很想听听社区最近都在讨论什么。如果您遇到过任何正在获得关注或只是值得的项目退房，请在此处分享！提前致谢！   由   提交/u/ human-g30   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</guid>
       <pubDate>Tue, 21 May 2024 23:15:16 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>谁能推荐一个尊重隐私的明网开源在线文件托管网站？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</link>
-      <description><![CDATA[我的意思是一个可以上传文件的网站，它们只能通过链接访问，并且该网站没有跟踪器   由   提交/u/kekmacska7  [链接] [评论]]]></description>
+      <description><![CDATA[我的意思是一个我可以上传文件的网站，这些文件只能通过链接访问，并且该网站没有跟踪器    提交人    /u/kekmacska7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxa2pb/can_anyone_recommend_an_opensource_online_file/</guid>
       <pubDate>Tue, 21 May 2024 15:04:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我认为这是流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
       <pubDate>Tue, 21 May 2024 05:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 来认识一下 genson-rs：快速生成千兆字节数据的 JSON 模式！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cwuxna/meet_gensonrs_blazingfast_json_schema_generation/</link>
-      <description><![CDATA[嘿伙计们！ 我很高兴宣布启动我的第一个 Rust 项目 - genson-rs！这种闪电般快速的 JSON 模式推理引擎可以在短短几秒钟内从千兆字节的 JSON 数据生成模式。 ⚡️ 为什么选择 genson-rs？  速度：瞬间处理巨大的 JSON 数据集。 效率：针对性能和最少的资源使用进行了优化。 Rust-Powered：利用 Rust 的安全性和并发功能。  我很想听听你的想法！非常感谢您的反馈和问题。 🙌 在这里查看：https://github.com/junyu-w/genson-rs  编码愉快！   由   提交/u/gopherman12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cwuxna/meet_gensonrs_blazingfast_json_schema_generation/</guid>
-      <pubDate>Tue, 21 May 2024 00:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
