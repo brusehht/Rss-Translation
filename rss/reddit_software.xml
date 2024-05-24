@@ -4,11 +4,39 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 24 May 2024 15:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 18:16:46 GMT</lastBuildDate>
+    <item>
+      <title>将 C 驱动器克隆到外部磁盘，以便在获得更大的 C 驱动器/C 驱动器已满时使用</title>
+      <link>https://www.reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/</link>
+      <description><![CDATA[我使用 Windows 备份，我认为它可以工作，但我正在尝试找到一些可以让我复制所有内容的东西，以便当我获得新驱动器时我可以只需将副本放入其中并将其用作 C 驱动器替代品即可。  我以前从来没有做过这种事情，但我的 C 盘已满，除了文档和下载量最大之外，我所有的游戏都迁移到了 D 盘，我不明白为什么它已满，我&#39;我已经进行了碎片整理和优化，AVG 试图向我推销的是所有下载内容，但 1.08TB 中的 99GB 并没有加起来。  无论如何，感谢您的建议和帮助。    由   提交/u/M-Yvraine912   /u/M-Yvraine912 reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/</guid>
+      <pubDate>Fri, 24 May 2024 17:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许您编辑 HTML 来撰写邮件的电子邮件客户端？</title>
+      <link>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</link>
+      <description><![CDATA[是否有任何电子邮件客户端可让您在撰写邮件时编辑实际的 HTML？更喜欢 Windows，但也接受 Linux 选项。    提交人    /u/cisco_bee   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</guid>
+      <pubDate>Fri, 24 May 2024 16:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务业预订软件</title>
+      <link>https://www.reddit.com/r/software/comments/1czoqb3/booking_software_for_service_business/</link>
+      <description><![CDATA[有人知道是否有需要客户登录的预订平台吗？ 我经营一家补习公司，并且我希望能够根据从预订平台收集的数据自动向客户计费。 像 Calendly 这样的网站的问题是它们不要求客户登录，因此很难匹配客户可以根据预订中提供的信息来识别客户。 如果客户的电子邮件中存在拼写错误或使用昵称，我将无法让客户进行预订。 任何感谢您的提示！   由   提交 /u/Heywood_Industries   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1czoqb3/booking_software_for_service_business/</guid>
+      <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于移动设备和 PC 的隐形 unicode</title>
+      <link>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</link>
+      <description><![CDATA[是否存在在移动设备和 PC 上都看不见的 unicode？我不是在谈论空格，而是在谈论不可见的实际字符。   由   提交/u/Stab_me_goodnight  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</guid>
+      <pubDate>Fri, 24 May 2024 15:27:02 GMT</pubDate>
+    </item>
     <item>
       <title>轻量级任务规划和依赖性跟踪应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</link>
-      <description><![CDATA[我试图跟踪实现大目标的进度，并确保我所做的一切都在关键路径上。基本上，我想要一个包含标题、说明（wiki 文本/markdown 会很棒）、依赖项（链接到其他任务）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，该视图显示已排序和连接的任务，如果我单击它们，我可以获得更多信息。 以甘特图为中心的东西在这里不适合，因为我不想估计持续时间或日期（至少现在还不想）。 这感觉像是我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制为现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是不切实际的。 ETA：如果是 Web 应用程序，我强烈倾向于可以自行托管的东西。    提交人    /u/WhiskyStandard   [链接] [评论]]]></description>
+      <description><![CDATA[我正在努力跟踪总体目标的进展情况，并确保我所做的一切都在关键路径上。基本上我想要一个标题、描述（维基文本/降价会很棒）、依赖项（到其他任务的链接）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，显示任务的排序和连接以及如果我点击它们，我可以获得更多信息。 以甘特图为中心的内容不适合这里，因为我不想估计持续时间或日期（至少现在还不想）。  这感觉就像我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制于现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是行不通的。 ETA：如果它是一个网络应用程序，我非常倾向于可以自托管的东西。   由   提交 /u/WhiskyStandard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</guid>
       <pubDate>Fri, 24 May 2024 13:55:07 GMT</pubDate>
     </item>
@@ -43,14 +71,14 @@
     <item>
       <title>规则引擎和文本在Word模板引擎中创建</title>
       <link>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</link>
-      <description><![CDATA[有没有一个软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。如：输入：a1f -&gt;输出：“这是一个测试” 然后 3. 使用占位符中的这些文本段填写标准化的预格式化 Word 模板？   由   提交/u/pivo161  [链接] [评论]]]></description>
+      <description><![CDATA[有没有软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。例如：输入：a1f -&gt; 输出：“this is a test” 然后 3. 用占位符中的这些文本段填写标准化、预格式化的 word 模板？    提交人    /u/pivo161   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</guid>
       <pubDate>Fri, 24 May 2024 07:53:14 GMT</pubDate>
     </item>
     <item>
       <title>用于创建剪贴簿/日记来记录我的愿望清单的最佳免费离线软件是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</link>
-      <description><![CDATA[我创建了一个愿望清单，我想在努力完成每个项目时保留我的愿望清单旅程的记忆。我正在寻找一款 Windows 10 上的免费软件，该软件可以离线运行，并且能够录制带有时间戳的音频、视频、照片和文本。  我想到了 OneNote，但找不到任何方法来创建只能离线使用的笔记本。我不想让遗愿清单上线，即使是无意的。尽管我可能会在我的 Facebook、个人网站或 YouTube 上分享部分愿望清单。  有什么最好的软件建议吗？   由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
+      <description><![CDATA[我创建了一个遗愿清单，我想在努力完成每一项的同时，保留遗愿清单旅程的回忆。我正在寻找一款可以在 Windows 10 上离线运行的免费软件，能够录制带有时间戳的音频、视频、照片和文本。  我想过 OneNote，但找不到任何方法来创建仅离线的笔记本。我不想让遗愿清单上线，即使是意外的。尽管我可能会在我的 Facebook、个人网站或 YouTube 上分享遗愿清单的部分内容。  有什么最好的软件建议吗？    提交人    /u/Experimentalphone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</guid>
       <pubDate>Fri, 24 May 2024 07:10:35 GMT</pubDate>
     </item>
@@ -69,46 +97,18 @@
       <pubDate>Fri, 24 May 2024 04:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>只需一分钟即可轻松为任何 .exe 创建启动画面。我的第一款软件。</title>
+      <title>只需一分钟即可轻松启动任何 .exe 屏幕。我的第一个软件。</title>
       <link>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</link>
       <description><![CDATA[大家好！我想介绍一下我开发的第一个软件——Universal Splash Launcher。对于用户来说，这是一个非常简单的过程，所需的只是一个自定义的 .png 图像。对于游戏开发者和其他软件创建者来说，这是一个很棒的工具。它为任何 Windows 应用程序增添了一丝优雅。 查看 Universal App Launcher Lite (UALL) @ https://craftyscript.com/software/ 只需将文件拖放到可执行文件夹中，创建自定义启动图像，然后启动！接受自定义请求。    提交人    /u/NoobDev7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</guid>
       <pubDate>Fri, 24 May 2024 04:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>创建了第一个人工记忆！</title>
+      <title>创造了第一个人工记忆！</title>
       <link>https://www.reddit.com/r/software/comments/1cz7h5h/created_the_first_artificial_memory/</link>
       <description><![CDATA[大家好， 我想与大家分享一些我的旅程，也许可以得到一些建议或找到一些人对合作感兴趣。 大约六个月前，我受到 RewindAI 的启发，决定创建自己的本地记忆应用程序，名为“Recall”。我的想法是构建一些可以捕获和索引数字活动的东西，以便以后轻松记住和查找信息。 经过几个月的努力，我终于让 Recall 达到了运行良好的程度。我已经设法向他询问我一周前的活动信息，其中包含详细信息以及当地 llms 的所有信息！看到它组合在一起并真正实现我希望的效果真是令人兴奋。 但是，我昨天发现新的 Copilot+ 笔记本电脑有一个名为“召回”的功能。其作用几乎相同，但更好。有点震惊。我当时以为我有一些独特的东西，结果发现它已经大范围地存在了。 所以，现在我不知道该怎么想。我没有放弃，而是决定开源 Recall 并将其重命名为 reMind。我相信通过分享，也许你们中的一些人可能会有想法或想要帮助改进它。如果您有兴趣，我很乐意听取您的意见！ [Github](https://github. com/DonTizi/ReMind) [网站](http://www.recallmemory.io ) 如果您可以在 Product Hunt 上为该申请投票，那就太好了：[ProductHunt](https: //www.producthunt.com/posts/remind-ai) 感谢阅读！如果您有任何问题或建议，请随时分享。   由   提交/u/DonTizi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cz7h5h/created_the_first_artificial_memory/</guid>
       <pubDate>Thu, 23 May 2024 23:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>好吧，我注意到我可以使用人工智能创建非常强大的正则表达式，并使用这些输出作为输入，使用非常具体和复杂的规则重命名文件和方向。哪种软件最适合应用这些 REGEX 代码并节省数百个小时？ TIA</title>
-      <link>https://www.reddit.com/r/software/comments/1cz0vp7/ok_so_i_noticed_i_can_use_ai_to_create_very/</link>
-      <description><![CDATA[如果可能的话，请使用 FOSS。   由   提交 /u/LightDarkCloud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cz0vp7/ok_so_i_noticed_i_can_use_ai_to_create_very/</guid>
-      <pubDate>Thu, 23 May 2024 19:08:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>他似乎不知道</title>
-      <link>https://www.reddit.com/r/software/comments/1cyyuvy/he_doesnt_seem_to_know/</link>
-      <description><![CDATA[他似乎不知道   由   提交 /u/Mundane_Professor374   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cyyuvy/he_doesnt_seem_to_know/</guid>
-      <pubDate>Thu, 23 May 2024 17:44:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>请求| USB 复制保护</title>
-      <link>https://www.reddit.com/r/software/comments/1cyweaw/request_usb_copy_protection/</link>
-      <description><![CDATA[我想出售一些我通过 USB 驱动器（大小 400GB）创建的视频  但我担心内容会被非官方地共享或复制和分发，这对我来说是一种损失。 有没有办法防止内容被复制但只允许“查看”访问？   由   提交/u/Gugan_05  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cyweaw/request_usb_copy_protection/</guid>
-      <pubDate>Thu, 23 May 2024 16:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>LumoTray - 多用途、多显示器壁纸管理器、锁屏管理器、屏幕保护程序管理器和自定义菜单生成器</title>
-      <link>https://www.reddit.com/r/software/comments/1cyvug3/lumotray_a_multipurpose_multimonitor_wallpaper/</link>
-      <description><![CDATA[ 由   提交 /u/DysonAlpha    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cyvug3/lumotray_a_multipurpose_multimonitor_wallpaper/</guid>
-      <pubDate>Thu, 23 May 2024 15:40:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
