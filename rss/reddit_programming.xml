@@ -4,18 +4,39 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 03:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:16:59 GMT</lastBuildDate>
     <item>
-      <title>我应该从哪里开始学习？我正在为初学者开设一门应用于生物学的Python课程，并且是我生物技术职业生涯的最后一年。我想找一份编程方面的半职工作来生存，直到我完成学业，然后转向生物信息学。我应该学什么？ <3</title>
-      <link>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</link>
-      <description><![CDATA[ 由   提交/u/Keikeii0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</guid>
-      <pubDate>Sat, 25 May 2024 02:04:37 GMT</pubDate>
+      <title>雅典娜危机现已开源</title>
+      <link>https://www.reddit.com/r/programming/comments/1d04id4/athena_crisis_is_now_open_source/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d04id4/athena_crisis_is_now_open_source/</guid>
+      <pubDate>Sat, 25 May 2024 05:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如有疑问，请将其放入“_local”中</title>
+      <link>https://www.reddit.com/r/programming/comments/1d03cvg/when_in_doubt_put_it_in_local/</link>
+      <description><![CDATA[ 由   提交/u/yokjeong  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d03cvg/when_in_doubt_put_it_in_local/</guid>
+      <pubDate>Sat, 25 May 2024 03:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署 Perl Dancer 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1d02zge/deploying_perl_dancer_apps/</link>
+      <description><![CDATA[ 由   提交/u/oalders  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d02zge/deploying_perl_dancer_apps/</guid>
+      <pubDate>Sat, 25 May 2024 03:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>signalfd没用</title>
+      <link>https://www.reddit.com/r/programming/comments/1d02tov/signalfd_is_useless/</link>
+      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d02tov/signalfd_is_useless/</guid>
+      <pubDate>Sat, 25 May 2024 03:23:09 GMT</pubDate>
     </item>
     <item>
       <title>开源人工智能简介（与 Llama 3）</title>
       <link>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</link>
-      <description><![CDATA[ 由   提交/u/kushalgoenka  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/kushalgoenka  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</guid>
       <pubDate>Sat, 25 May 2024 00:53:01 GMT</pubDate>
     </item>
@@ -27,7 +48,7 @@
       <pubDate>Fri, 24 May 2024 23:41:52 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Jai 独特而强大的编译器来构建类型安全单元</title>
+      <title>使用 Jai 独特且强大的编译器来构建类型安全单元</title>
       <link>https://www.reddit.com/r/programming/comments/1czyj4u/using_jais_unique_and_powerful_compiler_for/</link>
       <description><![CDATA[ 由   提交/u/NX18  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czyj4u/using_jais_unique_and_powerful_compiler_for/</guid>
@@ -36,7 +57,7 @@
     <item>
       <title>发布 CVBasic 的 C 源代码：Colecovision/MSX/SG1000 的 BASIC 语言编译器</title>
       <link>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</link>
-      <description><![CDATA[  由    /u/nanochess  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/nanochess  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</guid>
       <pubDate>Fri, 24 May 2024 22:57:02 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>2D 刚体碰撞分辨率</title>
       <link>https://www.reddit.com/r/programming/comments/1czvrdl/2d_rigid_body_collision_resolution/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czvrdl/2d_rigid_body_collision_resolution/</guid>
       <pubDate>Fri, 24 May 2024 21:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud GCVE 事件详情 |谷歌云博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1czv6z4/details_of_google_cloud_gcve_incident_google/</link>
-      <description><![CDATA[ 由   提交/u/Spajk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czv6z4/details_of_google_cloud_gcve_incident_google/</guid>
-      <pubDate>Fri, 24 May 2024 21:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件作为故障点</title>
-      <link>https://www.reddit.com/r/programming/comments/1czuwlp/software_as_a_point_of_failure/</link>
-      <description><![CDATA[ 由   提交/u/crazeeflapjack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czuwlp/software_as_a_point_of_failure/</guid>
-      <pubDate>Fri, 24 May 2024 20:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是如何让用 PHP 编写意大利面条式代码变得不可能的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</link>
-      <description><![CDATA[ 由   提交 /u/Slow-Reaction-5655   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</guid>
-      <pubDate>Fri, 24 May 2024 20:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
