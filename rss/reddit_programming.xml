@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 12:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 15:12:15 GMT</lastBuildDate>
+    <item>
+      <title>Python 如何比较浮点数和整数：为什么它可以给出令人惊讶的结果</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0e2jv/how_python_compares_floats_and_ints_why_it_can/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0e2jv/how_python_compares_floats_and_ints_why_it_can/</guid>
+      <pubDate>Sat, 25 May 2024 15:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>devSitter 的公开测试版现已推出！编写更高质量的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0dpek/public_beta_of_devsitter_now_available_write/</link>
+      <description><![CDATA[ 由   提交/u/przemekbykowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0dpek/public_beta_of_devsitter_now_available_write/</guid>
+      <pubDate>Sat, 25 May 2024 14:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Puter.js - 将 Web 变成操作系统：云的替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1d0dpdp/puterjs_turn_the_web_into_an_os_an_alternative_to/</link>
+      <description><![CDATA[ 由   提交/u/mitousa  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d0dpdp/puterjs_turn_the_web_into_an_os_an_alternative_to/</guid>
+      <pubDate>Sat, 25 May 2024 14:51:26 GMT</pubDate>
+    </item>
     <item>
       <title>虚幻引擎的编码标准</title>
       <link>https://www.reddit.com/r/programming/comments/1d0askv/coding_standards_for_unreal_engine/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>🚀 了解如何使用 AWS、OpenAI 和 Elasticsearch 构建高级图像搜索系统！</title>
       <link>https://www.reddit.com/r/programming/comments/1d06zcd/discover_how_to_build_an_advanced_image_search/</link>
-      <description><![CDATA[查看 Medium 上的完整文章，立即开始构建您自己的图像搜索系统！欢迎您提供反馈和问题！ 👉文章中提供了完整的代码 MachineLearning #AWS #OpenAI #Elasticsearch #CLIP #Serverless #ImageSearch #AI #Tech   由   提交 /u/pardhu--   [链接] [评论]]]></description>
+      <description><![CDATA[查看 Medium 上的完整文章，立即开始构建您自己的图像搜索系统！欢迎您的反馈和提问！ 👉 完整代码可在文章中找到  MachineLearning #AWS #OpenAI #Elasticsearch #CLIP #Serverless #ImageSearch #AI #Tech    提交人    /u/pardhu--   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d06zcd/discover_how_to_build_an_advanced_image_search/</guid>
       <pubDate>Sat, 25 May 2024 07:55:31 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>如有疑问，请将其放入“_local”中</title>
       <link>https://www.reddit.com/r/programming/comments/1d03cvg/when_in_doubt_put_it_in_local/</link>
-      <description><![CDATA[ 由   提交/u/yokjeong  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/yokjeong  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d03cvg/when_in_doubt_put_it_in_local/</guid>
       <pubDate>Sat, 25 May 2024 03:55:16 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Sat, 25 May 2024 03:23:09 GMT</pubDate>
     </item>
     <item>
-      <title>开源 AI 简介（使用 Llama 3）</title>
+      <title>开源人工智能简介（与 Llama 3）</title>
       <link>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</link>
       <description><![CDATA[ 由   提交/u/kushalgoenka  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</guid>
       <pubDate>Sat, 25 May 2024 00:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[IntelliJ 插件] HoverNumberConverter - 即时数字转换信息</title>
-      <link>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</link>
-      <description><![CDATA[ 由   提交/u/ronmen91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</guid>
-      <pubDate>Fri, 24 May 2024 23:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Jai 独特而强大的编译器来构建类型安全单元</title>
-      <link>https://www.reddit.com/r/programming/comments/1czyj4u/using_jais_unique_and_powerful_compiler_for/</link>
-      <description><![CDATA[ 由   提交/u/NX18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czyj4u/using_jais_unique_and_powerful_compiler_for/</guid>
-      <pubDate>Fri, 24 May 2024 23:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布 CVBasic 的 C 源代码：Colecovision/MSX/SG1000 的 BASIC 语言编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</link>
-      <description><![CDATA[ 由   提交/u/nanochess  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</guid>
-      <pubDate>Fri, 24 May 2024 22:57:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
