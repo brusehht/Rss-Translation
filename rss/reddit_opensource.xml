@@ -3,12 +3,12 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 25 May 2024 00:52:12 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sat, 25 May 2024 03:15:20 GMT</lastBuildDate>
     <item>
       <title>如何防止人工智能公司使用我的源代码来训练他们的模型？</title>
       <link>https://www.reddit.com/r/opensource/comments/1czzus3/how_do_i_prevent_ai_companies_from_using_my/</link>
-      <description><![CDATA[ 由   提交 /u/useriogz   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/useriogz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1czzus3/how_do_i_prevent_ai_companies_from_using_my/</guid>
       <pubDate>Sat, 25 May 2024 00:38:01 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 25 May 2024 00:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>Brisk 是一个完整的 CICD 测试工具，现已开源。</title>
+      <title>Brisk，一个完整的 CICD 测试工具现已开源。</title>
       <link>https://www.reddit.com/r/opensource/comments/1czx3vk/brisk_a_complete_cicd_testing_tool_is_now_open/</link>
       <description><![CDATA[Brisk 是一个用于运行持续集成测试的工具，比如 CircleCI，但速度更快。 而不是在上面构建测试环境每次运行我们都会预先构建环境，以便您的测试尽可能快地运行。  如果您想自行托管或在自己的本地运行，或者您只是对 CICD 有一些奇怪的事情，您现在可以自己运行整个系统。  https://github.com/brisktest/brisk   由   提交 /u/reillyse   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1czx3vk/brisk_a_complete_cicd_testing_tool_is_now_open/</guid>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 24 May 2024 18:51:23 GMT</pubDate>
     </item>
     <item>
-      <title>LineupX：类似开源社交媒体的 FPS 游戏阵容网站</title>
+      <title>LineupX：开源社交媒体类 FPS 游戏阵容网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1czrraa/lineupx_opensource_socialmedia_like_website_for/</link>
       <description><![CDATA[嗨，我想分享我的社区驱动的阵容开源项目。我们目前支持 Valorant 和 CS2 等游戏。我们的噱头是，你不用观看30秒的长视频来学习阵容，而是可以通过3张图片（站立位置、瞄准位置、着陆位置）来学习它们 网站：https://www.lineupx.net/ Github: https: //github.com/shimupan/lineupx   由   提交/u/Kagiri13  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1czrraa/lineupx_opensource_socialmedia_like_website_for/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>Instagram：如何将整个故事亮点下载到 zip 文件中</title>
       <link>https://www.reddit.com/r/opensource/comments/1czhclg/instagram_how_to_download_the_entire_story/</link>
-      <description><![CDATA[我正在寻找一个网站，可以让我下载精彩片段中的所有故事。我已经尝试过这些网站（如下），但它们只允许我一篇一篇地下载故事，这可能非常乏味。那么哪个网站可以帮助将整个集锦下载到 zip 文件中？ https://aloinstagram.net/ download-instagram-highlights/ https://www.storysaver.net/https://igdl.in/ https:// instabig.net/downloader/instagram/highlights（由于某种原因仅下载精彩片段的缩略图） https ://indown.io/instagram-highlights-download https://instasupersave.com/en /instagram-stories/ https://storiesig.net/highlights-downloader（不能加载） https://inflat.com/downloader/instagram/stories/ （说我达到了我的下载限制）   由   提交/u/nirmal45i  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个可以让我下载精彩片段内的所有故事的网站。我试过这些网站（如下），但它们只允许我逐个下载故事，这可能非常繁琐。那么哪个网站可以帮助将整个精彩片段下载到 zip 文件中？ https://aloinstagram.net/download-instagram-highlights/ https://www.storysaver.net/https://igdl.in/ https://instabig.net/downloader/instagram/highlights （由于某种原因，只下载精彩片段的缩略图） https://indown.io/instagram-highlights-download https://instasupersave.com/en/instagram-stories/ https://storiesig.net/highlights-downloader（无法加载） https://inflact.com/downloader/instagram/stories/（说我已达到下载限制）    提交人    /u/nirmal45i   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1czhclg/instagram_how_to_download_the_entire_story/</guid>
       <pubDate>Fri, 24 May 2024 10:13:39 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 24 May 2024 02:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>圣诞老人在看：ZFS 感知家庭实验室监控</title>
+      <title>圣诞老人正在观看：ZFS 感知家庭实验室监控</title>
       <link>https://www.reddit.com/r/opensource/comments/1cz9nj5/santa_is_watching_zfs_aware_homelab_monitoring/</link>
       <description><![CDATA[“圣诞老人正在观看” （又名 Santa_IW）是一种新的开源网络监控工具，重点关注家庭实验室环境中的 ZFS 和网络附加存储。 Santa_IW 可以自动发现您的 Intranet 上的硬件并建立适当的测试列表，然后定期运行以监控您的网络。 Santa_IW 使用密钥 ssh 与受监控节点进行通信，无需安装额外的代理。 文档和安装说明位于 GitLab wiki 上，网址为 https://gitlab.com/SRG_gitlab/santa-is-watching/-/wikis/home Reddit 群组已建立对于 Beta 测试参与者，请访问 https://www.reddit.com/r/Santa_IW/ 可在 https://youtu.be/rpAv15fCVu0 上观看简短的试驾视频。   由   提交 /u/sgoncalo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cz9nj5/santa_is_watching_zfs_aware_homelab_monitoring/</guid>

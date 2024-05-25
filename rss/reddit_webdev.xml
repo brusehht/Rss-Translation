@@ -3,21 +3,28 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 May 2024 00:52:07 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 25 May 2024 03:15:15 GMT</lastBuildDate>
+    <item>
+      <title>需要建议，在 WordPress 中构建具有高级过滤功能的大型图像存储库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d00vja/need_advice_building_a_large_image_repository/</link>
+      <description><![CDATA[我正在制作我的第一个网站开发，其中涉及大量内容。我需要一些建议，了解我使用的工具是否足够，或者我是否可能遇到托管成本、带宽或性能问题。 以下是我的设置的简要概述： 前端使用 WordPress + Elementor 和 JetEngine + 使用开发 JetEngine 的同一家公司的 JetSmartFilters。这允许使用元字段过滤自定义帖子类型，并且可以很好地协同工作（同一生态系统） 该网站本质上是一个类似于 Shutterstock 的图像存储库，具有高级过滤功能。用户将能够根据主题、周围物体、风格等来过滤图像。这需要大约 250 个自定义字段，每个字段平均有 10 个可用于在每个帖子中进行过滤的选项。 我希望有人拥有该领域的经验或知识可以帮助回答以下几个问题： 我是否需要优化数据库或查询以确保搜索时间低于 3 秒？插件和 WordPress 结构是否足以实现快速性能？ 用户会消耗大量带宽吗？我应该投资高于平均水平的托管服务来处理这个问题吗？ 考虑到基础已经是使用 WordPress 和这些插件构建的，我是否应该考虑从不同的框架开始，或者这个设置是否足以实现它工作吗？ 该网站将采用订阅模式。如果成本很高，在付费专区后面放置广泛的过滤选项是否有意义？ 我知道我没有提供有关该项目的详尽详细信息以准确了解它将如何执行，但我不想这样做发布 TLDR。一些可能很重要的额外信息。  查询后用户将看到的列表将包括一张精选图像，每个图像都与图库帖子类型相关联+有关图库作者的一些信息，通过喷气发动机中称为关系的东西将与画廊相关的自定义帖子类型分开。 过滤器具有 OR 逻辑，允许用户在雨天、夜间搜索跑车或校车一个人穿着黑色皮夹克或绿色连帽衫，带着悲伤的表情跳舞等。 搜索结果可能会返回，比如说，50 个画廊。列出的每个画廊都会显示上述信息。然后，用户可以通过点击来访问该帖子。  有关此主题的任何建议或信息将不胜感激！ 提前致谢 ^^   由   提交 /u/danilodlr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d00vja/need_advice_building_a_large_image_repository/</guid>
+      <pubDate>Sat, 25 May 2024 01:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以减少 srt 文件中每行的字数吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d00fr0/any_way_decrease_words_per_line_in_srt_file/</link>
+      <description><![CDATA[[已解决] 我正在节点中制作视频制作脚本，并使用 AWS Transcribe 生成字幕文件（srt），但每行大约有 8 个单词。有没有办法将其缩短为 2-3 个单词并保持正确的时机？ 我不知道应该在哪里问这个问题，但这是我最好的猜测。    由   提交 /u/iHateRollerCoaster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d00fr0/any_way_decrease_words_per_line_in_srt_file/</guid>
+      <pubDate>Sat, 25 May 2024 01:08:56 GMT</pubDate>
+    </item>
     <item>
       <title>我编写了一个算法来尝试以视觉上令人愉悦的方式定位任意宽度的矩形。</title>
       <link>https://www.reddit.com/r/webdev/comments/1czzu53/i_wrote_an_algorithm_to_try_and_position/</link>
       <description><![CDATA[https:/ /drive.google.com/file/d/1OuY56xyyh6I92_DgQfafDobWjcyoMEWm/view?usp=sharing 已经有类似的东西了吗？也许有一种方法可以做得更好，并且 CPU 成本更低？我知道马赛克布局是相似的......但如果你仔细观察，这比那要复杂一点。看看你是否能辨认出行和列。提示：你不能，它们实际上不在那里。 我可以将我想要的任何尺寸的面板放入其中，而无需编写太多代码，并且它会自动将其布局得非常漂亮，在任何屏幕宽度。 是否值得花时间将其放入库中并努力使其可供其他人使用？老实说这对我来说非常有用。就像我说的，我可以指定一些块空间。它所需要的只是最大宽度，并且需要知道子面板的大小。从那里开始，考虑到容器的限制，它会吐出它们应该处于的位置，而我只是让 Angular/Vue/无论什么都及时更新位置。我觉得当你有一个项目列表，其中项目之间的大小可能有很大差异时，它比许多其他选项更好。如果没有这样的东西，您必须使所有内容的尺寸统一，以避免布局中出现大间隙/空白，这确实限制了您的 UI。 就目前情况而言，此布局中的任何面板可以更改其大小，并且布局将重新组织以适应元素的新大小。也可以添加或删除新元素。它是完全响应式的。如果你使用得当，我认为你可以在网站上的几乎每个页面上使用这种布局，没有人会更明智，而且它看起来会..体面。立即生效。   由   提交/u/johnsdowney  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czzu53/i_wrote_an_algorithm_to_try_and_position/</guid>
       <pubDate>Sat, 25 May 2024 00:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于如何清理这个可折叠侧边栏概念的意见？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czvy0g/input_on_how_to_approach_cleaning_up_this/</link>
-      <description><![CDATA[我希望可以在这里提问。 我有一个使用可折叠侧边栏选项卡的设计，我用一种方式拼凑在一起让它们发挥作用，但我现在正在尝试对它们进行一些清理&amp;我不确定是否有一个明确的“最佳”方案是否接近它的方法。 左侧的选项卡是单独的“抽屉”。因为缺乏更好的词，右侧的选项卡是组成真正侧边栏的一组。 我的主要问题是，如果当前单击选项卡，同时如果单击不同的选项卡，仍然会切换锚点。 但我也只是想知道是否有更好的方法来设置折叠（必须是正确的？哈哈）&lt; /p&gt; codepen 这里  &amp;# 32；由   提交/u/zzzzzooted  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czvy0g/input_on_how_to_approach_cleaning_up_this/</guid>
-      <pubDate>Fri, 24 May 2024 21:33:18 GMT</pubDate>
     </item>
     <item>
       <title>制作数码产品商店网站的最快方法</title>
@@ -29,7 +36,7 @@
     <item>
       <title>周六展示：Dawnvox - 针对初创企业和小型企业的客户反馈分析</title>
       <link>https://www.reddit.com/r/webdev/comments/1czv4ra/show_off_saturday_dawnvox_customer_feedback/</link>
-      <description><![CDATA[      大家好 r/webdev 社区！ 我很高兴与大家分享我一直在研究的、旨在帮助产品经理的东西小型企业了解客户反馈并采取行动。介绍Dawnvox - 一种由人工智能驱动的客户反馈分析工具，可生成可操作的见解、趋势和分析，以帮助构建更好的产品。 https://preview.redd.it/t3fynq31uf2d1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=9729b0bdf95545bed1a152ca2c3cfcbf9ec068bf Dawnvox 有什么作用做什么？ Dawnvox 处理和分析来自各种来源的客户反馈，包括调查、支持单和社交媒体。它的工作原理如下：  收集反馈：无缝收集来自多个渠道的反馈。 使用 AI 分析：对反馈进行分类和优先排序，确定关键主题和情绪。 生成见解：Dawnvox 提供详细的见解，突出显示客户反馈中的趋势和模式。 可操作报告：接收包含可操作建议的综合报告以改进您的产品。  主要功能  多渠道集成：收集来自调查、社交媒体、电子邮件等的反馈。调查现已上线。其余的我正在积极构建 情绪分析：了解客户反馈的情感基调。 趋势识别：快速识别新兴趋势和常见问题。 自定义报告：生成定制报告以与您的团队或利益相关者分享。 （即将推出！） 用户友好型仪表板：使用我们直观的仪表板轻松浏览见解。  Dawnvox 如何帮助初创公司  节省时间：自动执行分析反馈的繁琐任务。 做出数据驱动的决策：根据数据洞察做出产品决策。 提高客户满意度：解决客户痛点并增强用户体验。 保持领先趋势：积极主动地识别客户反馈中的新趋势并采取行动。  LAUNCH50 如果有人喜欢该产品，请随意使用LAUNCH50优惠券在结账时享受 50% 的折扣 加入 Dawnvox Slack 社区 我热衷于帮助产品经理利用 AI 的力量打造更好的产品。如果此产品对您有用，欢迎随时加入我们的 Slack 社区！这是一个分享想法、获得支持和了解 Dawnvox 所有最新动态的地方。加入我们吧！ 公开构建 我还在考虑一种“公开构建”的方法，与社区分享我的开发过程、挑战和进展。你有兴趣看看这个吗？请在评论中告诉我！ 我很想听听您的想法和反馈。欢迎随时提出任何问题或分享您对客户反馈分析的经验。 干杯， 卢卡    提交人    /u/bernardino_luca   [链接] [评论] ]]></description>
+      <description><![CDATA[     &lt; /td&gt; 嘿 r/webdev&lt; /a&gt; 社区！ 我很高兴能分享我一直在致力于帮助产品经理和小型企业了解客户反馈并采取行动的一些内容。隆重推出 Dawnvox – 一款人工智能驱动的客户反馈分析工具，可生成可操作的见解、趋势和分析，帮助打造更好的产品. https://preview。 redd.it/t3fynq31uf2d1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=9729b0bdf95545bed1a152ca2c3cfcbf9ec068bf Dawnvox 是做什么的？ Dawnvox 处理和分析来自各种来源的客户反馈，包括调查、支持票和社交媒体。其工作原理如下：  收集反馈：从多个渠道无缝收集反馈。 利用人工智能进行分析：对反馈进行分类和优先排序，确定关键主题和情绪。 生成见解：Dawnvox 提供详细的见解，突出客户反馈中的趋势和模式。 可操作的报告：接收包含可操作建议的综合报告，以改进您的产品。  主要功能  多渠道集成&lt; /strong&gt;：从调查、社交媒体、电子邮件等收集反馈。调查现已开始。我正在积极构建其余部分 情绪分析：了解客户反馈的情绪基调。 趋势识别：快速识别新兴趋势和常见问题。 自定义报告：生成定制报告以与您的团队或利益相关者共享。 （即将推出！） 用户友好的仪表板：使用我们直观的仪表板轻松浏览见解。  Dawnvox 如何帮助初创企业  Dawnvox 如何帮助初创企业 h1&gt;  节省时间：自动执行分析反馈的繁琐任务。 做出数据驱动的决策：根据您的产品决策数据洞察。 提高客户满意度：解决客户痛点并增强用户体验。 保持领先趋势：积极主动地识别客户反馈中的新趋势并采取行动。  LAUNCH50 如果有人喜欢该产品，请随时使用LAUNCH50结帐时可享受 50% 折扣的优惠券 加入 Dawnvox Slack 社区 我热衷于帮助产品经理利用人工智能的力量打造更好的产品。如果该产品对您有用，请随时加入我们的 Slack 社区！这是一个分享想法、获得支持并随时了解 Dawnvox 所有动态的地方。 在这里加入我们！ 公开构建 我还在考虑“公开构建”方法，与社区分享我的开发过程、挑战和进展。你有兴趣看看这个吗？请在评论中告诉我！ 我很想听听您的想法和反馈。欢迎提出任何问题或分享您的客户反馈分析经验。 干杯， Luca  &amp;# 32；由   提交/u/bernardino_luca  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czv4ra/show_off_saturday_dawnvox_customer_feedback/</guid>
       <pubDate>Fri, 24 May 2024 20:57:18 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>该域如何同时重定向到两个不同的服务器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1czukhi/how_is_this_domain_redirecting_to_two_different/</link>
-      <description><![CDATA[我发现了一些奇怪的行为，我想知道后端发生了什么。有一家小企业不久前倒闭了，它使用了域名 lunarshinestore.com。nslookup 显示其 IP 地址为 67.227.226.240。目前有一个服务器在该地址上运行。但如果我尝试通过其域名访问服务器，我会被重定向到 iyfbodn.com 或 simcast.com。这怎么可能？同一个 IP 可能有多个 A 记录条目吗？    提交人    /u/Cantersoft   [链接] [评论]]]></description>
+      <description><![CDATA[我发现了一些奇怪的行为，我想知道后端发生了什么。有一家小企业不久前倒闭了，该企业使用的域名为 lunarshinestore.com。 nslookup 显示其 IP 地址为 67.227.226.240。当前有一个服务器在该地址运行。但是，如果我尝试通过域访问服务器，我会被重定向到 iyfbodn.com 或 simcast.com。这怎么可能？同一 IP 是否可能存在多个 A 记录条目？   由   提交/u/Cantersoft  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czukhi/how_is_this_domain_redirecting_to_two_different/</guid>
       <pubDate>Fri, 24 May 2024 20:32:14 GMT</pubDate>
     </item>
@@ -83,14 +90,14 @@
       <pubDate>Fri, 24 May 2024 19:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>工作太难找了</title>
+      <title>工作很难找</title>
       <link>https://www.reddit.com/r/webdev/comments/1czta25/jobs_are_so_hard_to_get/</link>
       <description><![CDATA[为什么在网络开发领域找到一份工作这么难。我在构建现实世界的应用程序方面拥有 5 年以上的经验，但我从未有过一份稳定的全职工作。 事情总是在 6 个月或更短的时间内结束。 我我真的厌倦了跳槽，因为一开始就没什么可做的，而且很累人。你总是面临着申请一些诈骗工作机会的风险。 就在昨天，我热情申请的两则招聘广告被证明是诈骗。它让我一整天都筋疲力尽，我只想放弃。这太*太难了！ 我想要一些稳定的东西。请提供任何建议。   由   提交 /u/LargePermit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czta25/jobs_are_so_hard_to_get/</guid>
       <pubDate>Fri, 24 May 2024 19:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>为什么谷歌搜索引擎在过去十年里没有遇到强大的竞争对手？</title>
+      <title>为什么谷歌的搜索引擎在过去十年中没有找到强有力的竞争对手？</title>
       <link>https://www.reddit.com/r/webdev/comments/1czsi1c/why_has_googles_search_engine_not_found_a_serious/</link>
       <description><![CDATA[月复一月，我们看到 SERP 变得越来越糟，首页上充斥着广告，Quora 和 Pinterest 图像充斥着结果，你可以&#39;甚至无法让维基百科跻身技术术语最重要链接的前 3 位。您最终将“reddit.com”添加到每次都尝试找到与您的查询相关的内容。 问题是为什么没有人提出“旧版 Google”搜索引擎？这只是带来了最优质的网站/链接和足够多的广告，就像过去的美好时光一样？   由   提交 /u/Sarmientino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czsi1c/why_has_googles_search_engine_not_found_a_serious/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人知道有关 OAuth 最佳实践的好文章吗？我一直在尝试制作一个兼容 OAuth 2.1 的身份提供程序。目前，我使用独立的 Vue SPA 作为身份提供程序登录屏幕的前端，并使用独立的 .NET 应用程序作为身份提供程序的后端。 我很困惑谁应该设置身份验证 cookie，例如，Vue SPA 是否应该生成一些 cookie 并将其设置在本地计算机上，或者 .NET 后端是否应该发送一些要设置的响应 cookie。  我只是想知道整个会话是如何验证的，比如 Vue 客户端如何知道该请求是否是有效请求并应显示错误页面，以及 API 如何确定该请求传入的请求是有效的。   由   提交 /u/ParaPsychic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1czs8e3/while_making_an_oauth_identity_provider_who/</guid>
       <pubDate>Fri, 24 May 2024 18:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Lightsail 发行版上限</title>
-      <link>https://www.reddit.com/r/webdev/comments/1czs4bq/cap_on_aws_lightsail_distributions/</link>
-      <description><![CDATA[      我是一名独立的网络开发人员，经营着自己的商店。几年前，我从使用 EC2/RDS/Cloudfront 转向使用 Lightsail（为了易于使用）。我昨天去设置一个新的分发，并收到此错误：“Error CreateDistribution[us-east-1] 抱歉，您已经达到每个帐户的分发限制 (20)。 400”。经过一番阅读后，您似乎无法请求增加配额。我还尝试将所有内容设置在不同的区域，但这并不重要。其他的 wedev 在 20 岁之后都在做什么？我不会创建一个新帐户并拥有所有的 2 个帐户。有人遇到过这个问题吗？你是如何克服这个问题的？我需要能够继续为我的客户提供 CDN。 您是否有更好的工作流程可以代替发行版？任何见解、建议或一般信息将不胜感激！ https://preview.redd.it/q8nmr0b17f2d1.png?width=611&amp;format=png&amp;auto=webp&amp;s=1283ee89de94216b40ab4a504344bcc17eb50 d89   由   提交 /u/ParkchopManwiches   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1czs4bq/cap_on_aws_lightsail_distributions/</guid>
-      <pubDate>Fri, 24 May 2024 18:47:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

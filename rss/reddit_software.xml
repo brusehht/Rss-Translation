@@ -3,12 +3,19 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 00:51:44 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 25 May 2024 03:14:50 GMT</lastBuildDate>
+    <item>
+      <title>需要销售 CRM</title>
+      <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
+      <description><![CDATA[我正在寻找一个可以处理销售数据并可以生成像 Excel 数据透视表那样的大量报告的软件。虽然 Excel 可以很好地处理这个问题，但数据不断增长，超过 4000 行，Excel 变得很慢。 该软件可以是免费的，也可以是付费的。免费或免费增值更好，甚至来自 github，开源。   由   提交/u/awaixjvd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
+      <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
+    </item>
     <item>
       <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
-      <description><![CDATA[大家好！我不知道这是否是正确的子，但我希望你能帮助我！ 我需要一个平台，允许我执行以下操作：我必须向多个客户发送几份调查，然后，我的客户客户的客户必须对这些调查做出回应。他们会用几句话（最多四个）来回应，我想将结果放在一起形成一种图表。我想到了一个词云，或者可能是一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够编译答案中重复的单词并将它们作为一个结果。例如，如果我问你最喜欢的足球运动员是谁，一个人回答“莱昂内尔·梅西”而另一个人只回答“Messi”，我只想出现一个结果：“Messi”。回答这个问题的人数是两个（我不想要两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到了词云，但是我在网上找到的工具有一个错误，即它们不编译重复的单词。 （所以现在我在想，如果第一个选项不存在，也许结果列表会更好）我也希望一旦调查（这只是一个问题）得到回答，它就会把他们带到这个他们可以在图形面板中看到结果并查看其他人正在输入的内容。他们还可以通过重新输入同一链接来多次响应。我找到了www.mentimeter.com，但它缺乏收集相似单词的能力。然而，它是我最喜欢的一个，因为它简单且能够通过电话接听，这对我的案例非常重要。  &amp;# 32；由   提交/u/JohnnyBeGood88  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我不知道这是否是正确的子版块，但我希望你们能帮助我！ 我需要一个平台，让我能够做到以下几点：我必须向几个客户发送几份调查问卷，然后我的客户的客户必须对这些调查问卷做出回应。他们会用几个词来回应，最多四个词，然后根据结果，我想制作一种图表。我想到了一个词云，或者一个列表，将重复次数最多的单词放在顶部。我还希望平台或工具能够汇编答案中的重复单词并将它们作为一个结果。例如，如果我问谁是你最喜欢的足球运动员，一个人回答“莱昂内尔·梅西”，另一个人只回答“梅西”，那么我只希望出现一个结果：“梅西”。回答该问题的人数是两个人（我不想得到两个不同的结果，一个是全名，另一个只是姓氏）。这就是为什么我想到词云的原因，但我在网上找到的工具有这个错误，它们不会编译重复的单词。（所以现在我想，如果第一个选项不存在，也许结果列表会更好）我还希望一旦调查（只是一个问题）得到回答，它就会将他们带到这个图形面板，他们可以在其中查看结果并查看其他人的输入。他们还可以通过重新输入相同的链接多次回复。我找到了www.mentimeter.com，但它缺乏收集类似单词的能力。然而，它是我最喜欢的一个，因为它简单易用，并且可以通过手机回答，这对我的情况非常重要。   由    /u/JohnnyBeGood88  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</guid>
       <pubDate>Fri, 24 May 2024 19:43:26 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>寻找一个变声器软件，可以让我上传一堆具有特定声音的音频文件，以使用生成的声音创建现场录音</title>
       <link>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</link>
-      <description><![CDATA[嘿，标题说明了一切：正在寻找一个变声软件，可以让我上传一堆具有特定声音的音频文件来创建现场 -带有生成语音的录音   由   提交 /u/birgiir   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，标题说明了一切：寻找一款语音转换器软件，让我可以上传一堆具有特定声音的音频文件，以便使用生成的声音创建现场录音    提交人    /u/birgiir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</guid>
       <pubDate>Fri, 24 May 2024 11:06:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我也有日本朋友聊天，我一直在寻找一些软件（或任何真正的东西），可以让我翻译我的日本朋友的内容他们用我有限的语言知识对我说？   由   提交 /u/LesPaular   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czct6s/is_there_any_translating_software_that_will/</guid>
       <pubDate>Fri, 24 May 2024 04:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需一分钟即可轻松为任何 .exe 创建启动画面。我的第一款软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</link>
-      <description><![CDATA[大家好！想介绍一个我开发的通用启动器作为我的第一个软件。对于用户来说，这是一个非常简单的过程，所需要的只是一个自定义的 .png 图像。对于游戏开发者和其他软件创建者来说是一个很棒的工具。它为任何 Windows 应用程序增添了一丝优雅。 查看 Universal App Launcher Lite (UALL) @ https://craftyscript .com/software/ 只需将文件拖放到可执行文件夹中，创建自定义启动图像，然后启动！接受定制请求。    由   提交/u/NoobDev7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</guid>
-      <pubDate>Fri, 24 May 2024 04:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

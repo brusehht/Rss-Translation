@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 00:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 03:14:55 GMT</lastBuildDate>
+    <item>
+      <title>我应该从哪里开始学习？我正在为初学者开设一门应用于生物学的Python课程，并且是我生物技术职业生涯的最后一年。我想找一份编程方面的半职工作来生存，直到我完成学业，然后转向生物信息学。我应该学什么？ <3</title>
+      <link>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</link>
+      <description><![CDATA[ 由   提交/u/Keikeii0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</guid>
+      <pubDate>Sat, 25 May 2024 02:04:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源人工智能简介（与 Llama 3）</title>
+      <link>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</link>
+      <description><![CDATA[ 由   提交/u/kushalgoenka  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</guid>
+      <pubDate>Sat, 25 May 2024 00:53:01 GMT</pubDate>
+    </item>
     <item>
       <title>[IntelliJ Plugin] HoverNumberConverter - 动态数字转换信息</title>
       <link>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</link>
-      <description><![CDATA[  由    /u/ronmen91  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ronmen91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</guid>
       <pubDate>Fri, 24 May 2024 23:41:52 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>发布 CVBasic 的 C 源代码：Colecovision/MSX/SG1000 的 BASIC 语言编译器</title>
       <link>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</link>
-      <description><![CDATA[ 由   提交/u/nanochess  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/nanochess  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czxs5u/released_c_source_code_for_cvbasic_basic_language/</guid>
       <pubDate>Fri, 24 May 2024 22:57:02 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>2D 刚体碰撞分辨率</title>
       <link>https://www.reddit.com/r/programming/comments/1czvrdl/2d_rigid_body_collision_resolution/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czvrdl/2d_rigid_body_collision_resolution/</guid>
       <pubDate>Fri, 24 May 2024 21:25:00 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 24 May 2024 20:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>我如何让用 PHP 编写意大利面条式代码变得不可能。</title>
+      <title>我是如何让用 PHP 编写意大利面条式代码变得不可能的。</title>
       <link>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</link>
       <description><![CDATA[ 由   提交 /u/Slow-Reaction-5655   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</guid>
       <pubDate>Fri, 24 May 2024 20:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 python 库，用于连接线程并有效地从线程返回值！</title>
-      <link>https://www.reddit.com/r/programming/comments/1czuo76/made_a_python_library_for_connecting_threads_and/</link>
-      <description><![CDATA[ 由   提交/u/Sxvxge_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czuo76/made_a_python_library_for_connecting_threads_and/</guid>
-      <pubDate>Fri, 24 May 2024 20:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不到一个月的时间里用 Hare 编写了一个 Unix 克隆操作系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1cztooq/writing_a_unix_clone_operating_system_in_hare_in/</link>
-      <description><![CDATA[ 由   提交/u/j_m_macleod  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cztooq/writing_a_unix_clone_operating_system_in_hare_in/</guid>
-      <pubDate>Fri, 24 May 2024 19:54:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
