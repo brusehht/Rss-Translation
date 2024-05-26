@@ -4,25 +4,32 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 May 2024 06:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 09:13:17 GMT</lastBuildDate>
+    <item>
+      <title>受密码保护的闪存驱动器 (USB/USBC) (Windows/Android)</title>
+      <link>https://www.reddit.com/r/software/comments/1d0w1t8/password_protected_flash_drive_usbusbc/</link>
+      <description><![CDATA[有一个 USB / USBC 闪存驱动器，我用它来将文件从我的电脑传输到其他电脑，以便在旅途中工作，同时还将文件传输到我的电脑Android 手机 是否有任何类型的软件可以用来锁定我的闪存驱动器（受密码保护），或者我也可以将其插入我的 Android 手机并解锁以供使用？&lt; /p&gt; 现在我正在使用 BitLocker，但这会切断对我的 Android 手机的访问，因为我只能在 Windows 设备上使用它    ;由   提交/u/ZeDoobiest  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d0w1t8/password_protected_flash_drive_usbusbc/</guid>
+      <pubDate>Sun, 26 May 2024 07:24:16 GMT</pubDate>
+    </item>
     <item>
       <title>ZAMP 简介：零配置 Apache MySQL PHP 服务器管理应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1d0sy5z/introducing_zamp_zero_configuration_apache_mysql/</link>
-      <description><![CDATA[这是我第一次这样做，我很高兴向您介绍 ZAMP 服务器，这是一个简化设置过程的应用程序建立和管理本地 Web 开发环境。借助 ZAMP，您可以获得一个零配置堆栈，其中包括 Apache、MySQL 和 PHP，所有这些都捆绑到一个用户友好的包中。ZAMP 允许在应用内加载多个项目，以便更轻松地导航并节省时间。 不要犹豫，请访问 github 存储库以了解有关 ZAMP 的更多信息 功能：  零配置：只需安装并运行。无需花费数小时配置您的环境。 集成管理：通过单一界面轻松管理 Apache、MySQL 和 PHP 服务。 扩展管理：通过简单的复选框界面启用或禁用 PHP 扩展。 版本控制：轻松下载并在不同的 PHP 版本之间切换。 &lt; li&gt;拖放项目设置：只需将项目文件夹拖放到 ZAMP 中即可开始。  我需要您的帮助： 我正在创建这个应用程序，希望它对其他人来说确实有用，并且它可以帮助新的网络开发人员创建应用程序。 目前，该项目刚刚开始创建，我要求你们提供反馈意见以改进它。 此外，我需要你们帮助我找到好的新想法来实施，同时也人们做出贡献 到项目。我现在19岁，我怀念经验：这就是为什么我需要你的帮助。如果你认为这个项目有趣，请留下一个星星：D Github 上的下载链接   由   提交 /u/Dovahkciin   [链接] [评论]]]></description>
+      <description><![CDATA[这是我第一次这样做，我很高兴向您介绍 ZAMP 服务器，该应用程序简化了设置和管理本地 Web 开发环境的过程。使用 ZAMP，您将获得一个零配置堆栈，其中包括 Apache、MySQL 和 PHP，所有这些都捆绑在一个用户友好的包中。 ZAMP 允许在应用程序内加载多个项目，以便于导航并节省时间。 不要犹豫，前往 github repo 了解有关 ZAMP 的更多信息 功能：  零配置：只需安装并运行。无需花费数小时来配置您的环境。 集成管理：从单一界面轻松管理 Apache、MySQL 和 PHP 服务。 扩展管理：使用简单的复选框界面启用或禁用 PHP 扩展。 版本控制：轻松下载并在不同的 PHP 版本之间切换。 拖放项目设置：只需将您的项目文件夹拖放到 ZAMP 中即可开始使用。  我需要你的帮助： 我正在创建这个应用程序，希望它对其他人真的有用，并且可以帮助新的 Web 开发人员创建应用程序。 目前，该项目刚刚开始创建，我正在请求你们的反馈来改进它。 此外，我需要你们帮助我找到好的新想法来实现，而且人为该项目做出贡献。我目前 19 岁，缺乏经验：这就是为什么我需要你的帮助。 如果您认为该项目很有趣，请留下一颗星 :D Github 上的下载链接    提交人    /u/Dovahkciin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0sy5z/introducing_zamp_zero_configuration_apache_mysql/</guid>
       <pubDate>Sun, 26 May 2024 03:53:20 GMT</pubDate>
     </item>
     <item>
       <title>用于协调重复照片和视频的应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1d0sle8/app_for_reconciling_duplicate_photos_and_videos/</link>
-      <description><![CDATA[我有几十年来来自不同计算机的文件的备份和副本。在这些文件中，我有从机器/设备来回移动的照片和视频。我试图基本上浏览过去几十年来的所有数据并整理照片和视频，但结果一团糟。我确信有很多重复的照片/视频，即使文件名不相同。这就是我基本上寻找的内容：  某种基于“创建的媒体”自动重命名文件的方法。文件的日期，这样我就可以按拍摄时间来组织照片/视频 某种方式来比较照片/视频的组成，以识别重复项，即使分辨率/文件类型不同，这样我就可以消除较低的res 重复  有什么软件可以帮助解决这个问题吗？   由   提交/u/HonziPonzi   [链接] [评论]]]></description>
+      <description><![CDATA[几十年来，我有来自不同计算机的文件备份和副本。在这些文件中，我的照片和视频在机器/设备之间来回移动。我试图浏览过去几十年的所有数据并整理照片和视频，但结果一团糟。我敢肯定有很多重复的照片/视频，即使文件名不相同。我基本上在寻找以下内容：  某种基于文件的“媒体创建”日期自动重命名文件的方法，这样我就可以按照拍摄时间整理照片/视频 某种比较照片/视频的构图以识别重复项的方法，即使分辨率/文件类型不同，这样我就可以消除低分辨率的重复项  有什么软件可以解决此问题？    提交人    /u/HonziPonzi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0sle8/app_for_reconciling_duplicate_photos_and_videos/</guid>
       <pubDate>Sun, 26 May 2024 03:30:50 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个可以使用一体机打印机的扫描仪功能一次从一张纸上读取多个条形码的程序</title>
       <link>https://www.reddit.com/r/software/comments/1d0oehe/looking_for_a_program_that_can_read_several/</link>
-      <description><![CDATA[我有几张纸，上面有许多条形码，读取时会提供条形码下方的代码（可能我是多余的，但这是我第一次使用条形码）。我必须将这些代码复制到 Excel 文件中。 我可以像老式的方法一样复制它们（用键盘打字），但这需要最长的时间。 我也可以使用 Android 应用程序读取代码，将它们复制到 Excel 文件，然后将文件传输到 PC，但这似乎是额外的步骤。 如果我能以某种方式将打印机的扫描仪用作条形码读取器，这也是额外的步骤，但我可以更快地完成工作，因为一次可以扫描多个代码。 我在网上找到了一些程序，但它们要么每次只能扫描一个代码，要么需要网络摄像头。 那么...有这样的程序吗？我使用的是 Windows 11，我的 AIO 是 HP Deskjet 1050A。    提交人    /u/UnusualPete   [link] [comments]]]></description>
+      <description><![CDATA[我有几张纸，上面有许多条形码，读取时，它会提供写在条形下方的代码（也许我是多余的，但这是我的第一次使用条形码）。我必须将上述代码复制到 Excel 文件中。 我可以像老式方法一样复制它们（用键盘打字），但这需要最长的时间。 我还可以使用Android 应用程序读取代码，将其复制到 Excel 文件，然后将文件传输到 PC，但这似乎是额外的步骤。 如果我能以某种方式使用打印机的扫描仪作为条形码读取器，它也是额外的步骤，但我可以更快地完成这项工作，因为一次会包含多个代码。 我在网上找到了一些程序，但它们要么一次只扫描一个代码，要么需要网络摄像头。  那么...有这样的程序吗？我使用的是 Windows 11，我的 AIO 是 HP Deskjet 1050A。   由   提交 /u/UnusualPete   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0oehe/looking_for_a_program_that_can_read_several/</guid>
       <pubDate>Sat, 25 May 2024 23:27:26 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>罗技 Nano 接收器帮助</title>
       <link>https://www.reddit.com/r/software/comments/1d0h0ll/help_with_a_logitech_nano_receiver/</link>
-      <description><![CDATA[有没有办法将罗技纳米接收器转换为蓝牙适配器？它来自 m185 罗技无线鼠标。如果可以，请告诉我如何操作。谢谢！    提交人    /u/goldenforkman   [link] [评论]]]></description>
+      <description><![CDATA[有没有办法将罗技 Nano 接收器转换为蓝牙适配器？它来自罗技 m185 无线鼠标。如果是，请告诉我以及如何做。谢谢！   由   提交/u/goldenforkman  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d0h0ll/help_with_a_logitech_nano_receiver/</guid>
       <pubDate>Sat, 25 May 2024 17:29:33 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Sat, 25 May 2024 11:38:37 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找一个具有良好功能的基本 PDF 编辑器，不想花费超过 25 美元关于我需要的详细信息和评论</title>
+      <title>正在寻找一个具有良好功能的基本 PDF 编辑器，不想花费超过 25 美元的详细信息和有关我需要的内容的评论</title>
       <link>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</link>
       <description><![CDATA[我有许多旧杂志的 PDF 文件，这些杂志已不再印刷，而且已经有大约 30 年没有印刷了。我想要做的是进入 PDF 编辑器，在那里我可以更改页边距大小和页面大小，并添加来自 lulu.com 的模板，为自己打印一些单独的添加内容，这样我就可以像以前一样浏览它们当杂志还很流行的时候，我不需要专业的 PDF 编辑器，只需要可以轻松调整大小、压缩、组合和更改边距，还可以添加来自 lulu.com 的模板   由   提交 /u/thephillman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我姐姐去年去世了。几年来，她创作了数百个精彩/富有洞察力的 YT 视频。我一直在关注（并使用多种）人工智能工具来处理各种事情，但不包括转录。我希望有人遇到了一个可以在本地运行的最新 (Windows) 工具，这样我就可以批量转录这 590 个视频，这样我就可以为她的孩子创建一个小搜索索引。有任何想法吗？或者我必须一次复制一份抄本？ :\   由   提交 /u/wiintah_was_broken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d02ukr/ai_video_transcription_tool_in_bulk_590_mp4_files/</guid>
       <pubDate>Sat, 25 May 2024 03:24:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要销售 CRM</title>
-      <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
-      <description><![CDATA[我正在寻找一个可以处理销售数据并可以生成像 Excel 数据透视表那样的大量报告的软件。虽然 Excel 可以很好地处理这个问题，但数据不断增长，超过 4000 行，Excel 变得很慢。 该软件可以是免费的，也可以是付费的。免费或免费增值更好，甚至来自 github，开源。   由   提交/u/awaixjvd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
-      <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
