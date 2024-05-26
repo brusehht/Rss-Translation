@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 May 2024 15:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 18:15:18 GMT</lastBuildDate>
+    <item>
+      <title>您处理 UI 反馈的工作流程是怎样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d178jo/what_is_your_workflow_to_address_feedbacks_on/</link>
+      <description><![CDATA[大家好！ 这个问题最近在我的团队工作中越来越频繁地出现。我实现了一个功能，并从我的利益相关者（最常见的是产品经理）那里收到了一堆关于 UI 的微小更改请求。来来回回会浪费很多时间，尤其是当涉及的人超过 1 人时，他们就会陷入冲突。有时他们要求改变已经完成的事情。实际上还需要1-2天才能完成该功能。 我想知道这在你们中是否也很常见。您有什么方法可以加快“完善阶段”的速度？ 我创建了一项调查（约 3 分钟）来获得一些见解，如果您查看一下，我会很高兴：https://forms.gle/BNpbR7B1Wg35rgWs8   由   提交/u/lucido_dio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d178jo/what_is_your_workflow_to_address_feedbacks_on/</guid>
+      <pubDate>Sun, 26 May 2024 18:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要多少费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d170hu/how_much_would_it_cost/</link>
+      <description><![CDATA[我打算在网站上出售我的原创数字漫画，读者可以免费阅读前几章，之后就必须购买单行本或卷本的更多章节，建立这样的网站需要多少钱？   由   提交 /u/Sea_Prompt1191   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d170hu/how_much_would_it_cost/</guid>
+      <pubDate>Sun, 26 May 2024 17:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Raspberry Pi 托管网站的本地网络访问进行故障排除</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d15eb2/troubleshooting_local_network_access_to_a/</link>
+      <description><![CDATA[大家好， 我正在使用 nginx 在我的 Raspberry Pi 上托管一个带有样板 HTML 的简单网站。我购买了一个域名以使其可以在线访问。当通过 VPN 或不在我的本地网络上的任何人（也称为您）访问该网站时，该网站可以完美运行，但我无法从同一本地网络内访问该网站。  我可以使用Raspberry Pi的内部IP地址（192.168.x.x）查看网页。 通过同一网络的域名访问网站失败。  通过 VPN 访问网站域名效果良好 该域使用 SSL 证书（它是一个 .dev 域）。  我已遵循各种 YouTube 教程并正确实施了这些步骤，但本地网络访问仍然是一个问题。我记得我安装了 VPN，并尝试了一下，结果成功了。现在我想知道我第一次正确花了多长时间。  为什么我无法 ping 我的域，将其解析为我的公共IP 地址，并从同一网络访问我的 Raspberry Pi 托管网站？预先感谢您的帮助，对于任何混乱，我们深表歉意！   由   提交/u/BloodyLanterns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d15eb2/troubleshooting_local_network_access_to_a/</guid>
+      <pubDate>Sun, 26 May 2024 16:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>弄乱文本阴影属性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d15beg/messing_with_text_shadow_property/</link>
+      <description><![CDATA[      https://preview.redd .it/8a18en1ots2d1.png?width=1932&amp;format=png&amp;auto=webp&amp;s=987975ac2bc7644ad276acd5323c77ecc55d8bce   由   提交 /u/the-crazy-programmer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d15beg/messing_with_text_shadow_property/</guid>
+      <pubDate>Sun, 26 May 2024 16:37:31 GMT</pubDate>
+    </item>
     <item>
       <title>现代简历的最佳实践是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d12b7g/what_are_the_best_practices_for_modern_resumes/</link>
@@ -20,25 +48,18 @@
       <pubDate>Sun, 26 May 2024 14:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>为什么某些网站的地址栏中会出现端口号？这是配置问题吗？</title>
+      <title>为什么某些网站的地址栏中会出现端口号？是配置问题吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d11ec2/why_does_the_port_number_appear_in_the_address/</link>
-      <description><![CDATA[        提交者    /u/ncubez   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/ncubez  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d11ec2/why_does_the_port_number_appear_in_the_address/</guid>
       <pubDate>Sun, 26 May 2024 13:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>这有什么帮助？</title>
+      <title>这怎么会有这么大的帮助呢？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d10lo2/how_does_this_help_soo_much/</link>
       <description><![CDATA[      更改之前（性能 83） 更改后（性能 97） 我所做的只是添加了几个元标记. https://preview。 redd.it/2u6ivjmgor2d1.png?width=1772&amp;format=png&amp;auto=webp&amp;s=a100812a0a6c200d7d6b77cd8f6cc443f1b207ae   由   提交/u/sushantshah-dev  /u/sushantshah-dev  reddit.com/r/webdev/comments/1d10lo2/how_does_this_help_soo_much/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d10lo2/how_does_this_help_soo_much/</guid>
       <pubDate>Sun, 26 May 2024 12:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>声音云小部件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0zivc/soundcloud_widget/</link>
-      <description><![CDATA[       嘿，我正在做一个有趣的项目，我想在网站上展示一些 soundcloud 小部件（如下图）。问题是，当页面加载时，我会遇到“在 soundcloud 上播放”的提示。和“在浏览器中收听”在我看来，这些选项使它看起来像是一个添加，并且用户不会三思而后行，只需滚动过去即可。 我查看了文档，但我还没有真正找到任何可以让它消失的东西。有没有人见过这种情况并找到了可以防止这种情况的方法？。 顺便说一句。单击浏览器中的“监听”后，它可以正常工作并且看起来符合预期（下图） 加载时 点击浏览器中的监听后   由   提交/u/RayGunny178  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0zivc/soundcloud_widget/</guid>
-      <pubDate>Sun, 26 May 2024 11:42:05 GMT</pubDate>
     </item>
     <item>
       <title>如何找到Java进程在哪里运行？</title>
@@ -48,35 +69,28 @@
       <pubDate>Sun, 26 May 2024 11:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>难以决定是全力投入还是仅仅完成工作。</title>
+      <title>难以决定是全身心投入还是仅仅完成工作。</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0xtix/having_trouble_deciding_between_full_commitment/</link>
-      <description><![CDATA[我正在为一家科技公司制作一个网站（我们销售服务，而不是软件/硬件设计）。 我&#39;在过去的 4 天里我一直在使用 WordPress，观看了很多教程并选择了最好的插件来帮助简化它。我认为到目前为止它看起来很棒。 但是我最近在使用 Figma 等实际编码和工具时陷入了网络开发的困境，我想知道学习它对我来说是否真的实用。我觉得我所做的一切都是毫无价值的，因为它没有那么多的努力或其他什么，或者我的潜力因使用 WordPress 而受到限制。 事实是，这是一次性的-事物。我可能不会再制作网站，但我希望这个网站绝对令人惊叹。我也在为其编写所有内容，并在插画、Photoshop 和 After Effects/Premier 中创建自定义设计，以便为社交媒体或网站中的图表制作广告。基本上我在一份工作中做 10 份工作。  所以现在我面临的选择是： 1-坚持使用 wordpress 并尽力而为 2-尝试对网站进行编码通过随时随地学习 50 个教程并始终打开堆栈溢出，但随后扔掉了我所学到的所有内容，因为我对长期网页设计没有真正的兴趣，但我再次对制作非常感兴趣这个网站是一个非常特殊的网站。 3- 与 2 相同，但要正确学习编码，以便我将这些信息带入以后的生活。我不知道它对我来说有多实用，因为现在我的商业兴趣在于动态图形和设计，以及应用程序编码，但 webdev 可以很好地链接到它们...... 我超级不知所措，对吧现在，人们对使用“更简单的方法”感到内疚。我真的很感谢那些经历过类似事情或总体上有深刻见解的先生/女士们的意见。谢谢:)   由   提交 /u/neverwhatt   [链接] [评论]]]></description>
+      <description><![CDATA[我正在为一家科技公司制作一个网站（我们销售服务，而不是软件/硬件设计）。 我&#39;在过去的 4 天里我一直在使用 WordPress，观看了很多教程并选择了最好的插件来帮助简化它。我认为到目前为止它看起来很棒。 但是我最近在使用 Figma 等实际编码和工具时陷入了网络开发的困境，我想知道学习它对我来说是否真的实用。我觉得我所做的一切都是毫无价值的，因为它没有那么多的努力或其他什么，或者我的潜力因使用 WordPress 而受到限制。 事实是，这是一次性的-事物。我可能不会再制作网站，但我希望这个网站绝对令人惊叹。我也在为其编写所有内容，并在插画、Photoshop 和 After Effects/Premier 中创建自定义设计，以便为社交媒体或网站中的图表制作广告。基本上我把 10 份工作合而为一。  所以现在我面临的选择是： 1- 坚持使用 wordpress 并尽力而为 2- 尝试对网站进行编码通过随时随地学习 50 个教程并始终打开堆栈溢出，但随后扔掉了我所学到的所有内容，因为我对长期网页设计没有真正的兴趣，但我再次对制作非常感兴趣这个网站是一个非常特殊的网站。 3- 与 2 相同，但要正确学习编码，以便我将这些信息带入以后的生活。我不知道它对我来说有多实用，因为现在我的商业兴趣在于动态图形和设计，以及应用程序编码，但 webdev 可以很好地链接到它们...... 我超级不知所措，对吧现在，人们对使用“更简单的方法”感到内疚。我真的很感谢那些经历过类似事情或总体上有深刻见解的先生/女士们的意见。谢谢:)   由   提交 /u/neverwhatt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0xtix/having_trouble_deciding_between_full_commitment/</guid>
       <pubDate>Sun, 26 May 2024 09:39:54 GMT</pubDate>
     </item>
     <item>
-      <title>桌面浏览器市场份额（很高兴看到 IE 份额下降）</title>
+      <title>桌面浏览器市场份额（很高兴看到 IE 缩小）</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0x4vm/desktop_browsers_market_share_nice_to_see_ie/</link>
-      <description><![CDATA[        提交人    /u/DataCrayon   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/DataCrayon  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0x4vm/desktop_browsers_market_share_nice_to_see_ie/</guid>
       <pubDate>Sun, 26 May 2024 08:45:56 GMT</pubDate>
     </item>
     <item>
-      <title>在线计算行数的工具</title>
+      <title>一个在线计算行数的工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0wvky/an_online_tool_to_count_number_of_lines/</link>
       <description><![CDATA[ 由   提交/u/websilvercraft  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0wvky/an_online_tool_to_count_number_of_lines/</guid>
       <pubDate>Sun, 26 May 2024 08:26:29 GMT</pubDate>
     </item>
     <item>
-      <title>评价我的网站域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0wr10/rate_my_webdomain_name/</link>
-      <description><![CDATA[嗨，我正在尝试建立在线业务，经过多次修改，我决定如下： wildcamptravel.com 很难找到适合该行业的正确关键词，而且这些关键词是免费/便宜的，而且两者配合得很好。 你觉得怎么样？这个名字有什么启发，在你对此一无所知的情况下，你认为它是关于什么的？是不是太长了？发音、记忆容易/困难吗？ 问是因为我仍然不确定。谢谢。 PS：我知道这很模糊，但我故意不提供有关该业务的更多信息，因为我很好奇这个名字乍一看会激发什么，可以这么说:)   由   提交 /u/kravimsky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0wr10/rate_my_webdomain_name/</guid>
-      <pubDate>Sun, 26 May 2024 08:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 套接字连接如何通过负载均衡器保持持久？</title>
+      <title>Web 套接字连接如何通过负载均衡器保持？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0woki/how_does_a_web_socket_connection_persisted/</link>
       <description><![CDATA[在 HTTP 连接领域中，请求响应是瞬时的，因此请求可以轻松通过负载均衡器是可以理解的，但我无法换行我想知道如何通过负载均衡器传递持久的连接？负载均衡器是否强大到足以支持这么多开放的连接隧道？   由   提交/u/sankalp89  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0woki/how_does_a_web_socket_connection_persisted/</guid>
@@ -85,30 +99,16 @@
     <item>
       <title>创建直播平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0vfl6/creating_a_livestream_platform/</link>
-      <description><![CDATA[我是一名专门从事婚礼直播的婚礼摄像师。平均而言，我每周直播 3-4 场婚礼，每次活动持续 4-6 小时。目前，我使用 Vimeo 作为我的流媒体平台。但是，由于我消耗了大量的存储和带宽，Vimeo 的每月费用变得昂贵。 我正在考虑开发自己的直播平台并使用 AWS 服务进行存储和流媒体。在此之前，我很想从这个知识渊博的社区获得一些建议和见解。以下是我很好奇的几个具体点：  可行性和成本：在 AWS 上构建自定义直播平台的可行性如何？与我目前通过 Vimeo 支付的费用相比，我预计的初始成本和持续成本是多少？ 技术挑战：我在设置过程中可能会面临哪些潜在的技术挑战并维护我自己的直播服务？您是否建议使用特定的 AWS 服务或其他工具来简化此流程？ 可扩展性和可靠性：我最关心的问题之一是确保直播可靠并且可以扩展到同时容纳多场婚礼。如何使用 AWS 实现这一目标？我应该遵循哪些最佳实践？ 用户体验：Vimeo 为观看者提供了完美的用户体验。我如何确保我的定制平台为我的客户及其客人提供同样流畅和专业的体验？ 安全和隐私：鉴于婚礼的私密性，我如何才能确保直播和存储的视频是安全的，并且只有授权观看者才能访问？  您可以分享的任何建议、经验或资源都会非常有帮助。预先感谢您的输入！   由   提交 /u/stevohd   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名婚礼摄像师，专门从事婚礼直播。平均而言，我每周直播 3-4 场婚礼，每场活动持续 4-6 小时。目前，我使用 Vimeo 作为我的直播平台。但是，由于我消耗了大量的存储空间和带宽，Vimeo 的月费变得昂贵。 我正在考虑开发自己的直播平台，并使用 AWS 服务进行存储和直播。在此之前，我很想从这个知识渊博的社区获得一些建议和见解。以下是一些我感兴趣的具体要点：  可行性和成本：在 AWS 上构建自定义直播平台的可行性如何？与我目前为 Vimeo 支付的费用相比，我应该预计哪些初始和持续成本？ 技术挑战：在设置和维护自己的直播服务时，我可能会面临哪些潜在的技术挑战？您是否推荐特定的 AWS 服务或其他工具来简化此过程？ 可扩展性和可靠性：我最大的担忧之一是确保直播可靠且可以扩展以同时容纳多个婚礼。如何使用 AWS 实现这一点，我应该遵循哪些最佳实践？ 用户体验：Vimeo 为观众提供了完美的用户体验。如何确保我的定制平台为我的客户及其客人提供同样流畅和专业的体验？ 安全和隐私：鉴于婚礼的私密性，我如何确保直播和存储的视频是安全的并且只有授权观众才能访问？  您分享的任何建议、经验或资源都将非常有帮助。提前感谢您的意见！    提交人    /u/stevohd   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0vfl6/creating_a_livestream_platform/</guid>
       <pubDate>Sun, 26 May 2024 06:39:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个游戏指南网站</title>
+      <title>我做了一个游戏指南网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1d0vba7/i_made_a_website_for_game_guides/</link>
       <description><![CDATA[大家好， 作为一个投资组合项目，我决定创建一个平台，人们可以在其中编写类似于 gamefaqs 的自己的游戏指南。目的是只关注写作方面。 它还没有完全完成，因为我正在寻找有关设计和所有内容的反馈，但在接下来的几个版本中它将是完整的，希望有人发现它很有用。 堆栈是react、next、strapi、sqlite 如果您有疑问，请随时提问:)   由   提交 /u/ImStifler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d0vba7/i_made_a_website_for_game_guides/</guid>
       <pubDate>Sun, 26 May 2024 06:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以获取一些有关教育网络应用程序的反馈吗:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0sxls/can_i_please_get_some_feedback_on_an_educational/</link>
-      <description><![CDATA[大家好！我一直在开发一个教育网络应用程序，我希望得到一些反馈，了解我下一步可以在功能集方面采取哪些措施，并就可能推动用户采用的内容获得一些关注，因为它目前还没有出现。那个阶段:)。  它本质上是一个教育版的社交媒体平台，具有无限滚动功能，但具有教育内容和可以选择的不同类别。第一次访问该页面时需要一秒钟的时间来加载，并且在加载更多帖子时，UI 有时会出现卡顿，因此我为糟糕的用户体验提前道歉:( 任何和所有反馈/批评非常感谢！:) https://www.learnloop.io/   由   提交/u/sharko346  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0sxls/can_i_please_get_some_feedback_on_an_educational/</guid>
-      <pubDate>Sun, 26 May 2024 03:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体网络应用程序项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d0stsu/social_media_webapp_project/</link>
-      <description><![CDATA[大家好，上周我分享了一个我非常热衷的项目，目的是获得用户参与， https://sparkify.vercel.app  我希望你们尝试一下，我修复了上一篇文章中的几个建议。Sparks 是一个社交 AI 驱动的平台。 如果你们有兴趣，我也可以分享 GitHub 存储库。    提交人    /u/Additional_Hall_3034   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d0stsu/social_media_webapp_project/</guid>
-      <pubDate>Sun, 26 May 2024 03:45:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
