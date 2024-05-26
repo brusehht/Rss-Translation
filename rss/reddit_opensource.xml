@@ -3,12 +3,12 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 May 2024 12:20:38 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Sun, 26 May 2024 15:13:33 GMT</lastBuildDate>
     <item>
       <title>开源英雄联盟 |一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
-      <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/wiki_me  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
       <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>开源数字负片格式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0uclq/open_source_digital_negative_formats/</link>
-      <description><![CDATA[Adobe 目前垄断了 RAW 照片的存档存储，他们承诺长期支持 Adob​​e DNG。这很好，因为相机专有的 RAW 文件格式正在逐渐消失。如果文件格式过时，最终您将无法打开某些相机制造商的文件。 我遇到的主要问题是，随着我越来越多地转向 Linux（不支持 Adob​​e 产品），我可能无法使用 Adob​​e DNG。我想知道是否有人知道一种开源的文件格式和转换器，理论上可以经受住时间的考验？    提交人    /u/GreasyBogs   [链接] [评论]]]></description>
+      <description><![CDATA[现阶段，Adobe 凭借其 Adob​​e DNG 垄断了 RAW 照片的存档存储，并承诺长期支持该产品。这很棒，因为相机专有的 RAW 文件格式正在逐渐消失。最终，如果文件格式已过时，您将无法打开某些相机制造商的文件。 我遇到的主要问题是，在我越来越多地转向 Linux（其中 adobe 产品不支持）我可能无法使用 Adob​​e DNG。我想知道是否有人知道理论上可以经受时间考验的开源文件格式和转换器？   由   提交 /u/GreasyBogs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0uclq/open_source_digital_negative_formats/</guid>
       <pubDate>Sun, 26 May 2024 05:23:08 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>是否有任何开源 Android 启动器具有这些 Nova 功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d08kd0/does_any_open_source_android_launcher_have_these/</link>
-      <description><![CDATA[ 向上滑动文件夹可打开不在该文件夹中的应用 单击文件夹可打开不在该文件夹中的应用程序（向上滑动以打开文件夹）  GIF ：第一个是点击打开文件夹，滑动打开手机，第二个是点击打开文件夹，滑动打开短信，第三个是滑动打开文件夹，点击打开相机。 请不要如果您没有亲自检查这些功能是否存在，请勿推荐应用。 谢谢   由   提交/u/KaKi_87  [链接] [评论]]]></description>
+      <description><![CDATA[ 在文件夹上向上滑动即可打开文件夹中不存在的应用程序 单击文件夹即可打开文件夹中不存在的应用程序（向上滑动即可打开文件夹）  GIF ：第一个是单击打开文件夹并滑动打开手机，第二个是单击打开文件夹并滑动打开短信，第三个是滑动打开文件夹并单击打开相机。 如果您没有亲自检查这些功能是否存在，请不要推荐应用程序。 谢谢    提交人    /u/KaKi_87   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d08kd0/does_any_open_source_android_launcher_have_these/</guid>
       <pubDate>Sat, 25 May 2024 09:52:45 GMT</pubDate>
     </item>
