@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 27 May 2024 03:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:18:18 GMT</lastBuildDate>
+    <item>
+      <title>100% 免费域名适合所有人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d1k1j0/100_free_domain_for_everyone/</link>
+      <description><![CDATA[      一家 100% 非营利组织提供免费的 US.KG 域名，只需 5 分钟即可注册并注册域名。注册用户最初可以立即创建最多 3 个域名（无需审核），并且可以选择通过完成 kyc 并请求其他域名来扩展此限制。这些域名包括 WHOIS 和 WHOIS 隐私保护，并支持 Cloudflare、Freedns 和 Hostry 等第三方 DNS 服务。 180 天内即将到期的域名可以延长 365 天，非常适合小型网站和项目，尤其是那些无力承担域名的网站和项目。 US.KG 域名注册中心：https://nic.us.kg   由   提交/u/Sensitive_Job_5792   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d1k1j0/100_free_domain_for_everyone/</guid>
+      <pubDate>Mon, 27 May 2024 05:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以将 firebase 后端集成到 MERN 应用程序中吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d1ihoq/can_i_integrate_a_firebase_backend_to_a_mern_app/</link>
+      <description><![CDATA[是否可以将react+ firebase应用程序集成和编辑到mern应用程序，并将其进一步编辑或开发为mern应用程序..   由   提交 /u/madhawavish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d1ihoq/can_i_integrate_a_firebase_backend_to_a_mern_app/</guid>
+      <pubDate>Mon, 27 May 2024 03:35:04 GMT</pubDate>
+    </item>
     <item>
       <title>我可以在 Weebly 中使用什么所见即所得编辑器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1hw2c/what_wysiwyg_editor_can_i_use_for_weebly/</link>
@@ -13,9 +27,9 @@
       <pubDate>Mon, 27 May 2024 02:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>寻求专用服务器包的推荐</title>
+      <title>寻找专用服务器包的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1hrq9/looking_for_recommendations_for_dedicated_server/</link>
-      <description><![CDATA[我们目前使用的是 Digital Pacific。我们在那里有一个强大的专用服务器，目前每月花费 900 美元。我们在上面托管了大约 70 个网站 - 几乎都是 Wordpress。 最近，我们对 Digital Pacific 提供的支持越来越失望。他们曾经有一个很棒的澳大利亚技术服务台，但现在已经外包了，现在你只能接通讲印度语的技术人员，他们真的很难理解，而且经常对任何问题不屑一顾。他们的标准回应是“更新你的插件”或其他完全无用的建议。我们最终和他们兜了一圈，直到最后在坚持之后，他们发现这实际上不是更新插件的问题，而是其他问题。 无论如何，尽管移动所有网站、电子邮件等非常麻烦，但我们已经受够了，想要搬家。因此，我正在寻找一家可以提供专用 Linux 服务器的公司的建议。我们的所有网站都没有大量流量 - 它们几乎都是中小型企业。    提交人    /u/repomonkey   [link] [comments]]]></description>
+      <description><![CDATA[我们目前与 Digital Pacific 合作。那里有一个强大的专用服务器，目前每月花费 900 美元。我们有大约 70 个网站 - 几乎都是 Wordpress。  最近，我们对 Digital Pacific 提供的支持越来越感到沮丧。他们曾经在澳大利亚有一个很棒的技术团队，但现在已经外包，你现在可以联系讲印度语的技术人员，他们真的很难理解，而且常常对任何问题不屑一顾。他们的一贯反应是“更新你的插件”或其他完全无用的建议。我们最终和他们一起兜圈子，直到最终在坚持之后他们发现实际上这不是更新的插件问题而是其他问题。 无论如何，尽管事实上移动所有的东西是一个巨大的痛苦。网站、电子邮件等，我们已经受够了，想要搬家。因此，我正在寻找一家提供专用 Linux 服务器的公司的建议。我们的网站都没有很高的流量 - 它们几乎都是中小型企业。   由   提交 /u/repomonkey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1hrq9/looking_for_recommendations_for_dedicated_server/</guid>
       <pubDate>Mon, 27 May 2024 02:52:20 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>添加内部 html 更改其他组件的 css</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1em0e/adding_inner_html_changes_css_of_other_components/</link>
-      <description><![CDATA[我正在尝试创建一个邮件客户端。当选择不同的电子邮件时，我使用 html 解析器在 div 中显示电子邮件。这些电子邮件中的一小部分会影响应用程序内其他组件中的其他类（按钮大小/图像大小/列大小）。随机的事物和不同的电子邮件会影响不同的组件。 为什么从这些电子邮件中解析的 CSS 会影响我的整个应用程序？ 有没有办法解决这个问题。将选定的电子邮件与其他代码隔离？ 我尝试过angerlySetInnerHTML，但遇到了同样的问题。 我正在使用React，但我认为这只是一个js问题，但不确定。 有什么建议吗？ 我会链接我的 github 存储库，但它不是最新的，而且我已经离开并使用笔记本电脑工作。有一百万个合并更改，因此当我回来时执行此操作将是最简单的。 但基本上这是失败的代码。我在它周围有一个包装器来包含大小。  我在 learnjavascript 中发布了此内容。有人告诉我在这里发帖。   由   提交/u/awk112  [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试创建一个邮件客户端。当选择不同的电子邮件时，我使用 html 解析器在 div 中显示电子邮件。这些电子邮件中的一小部分会影响应用程序内其他组件中的其他类（按钮大小/图像大小/列大小）。随机的事情和不同的电子邮件会影响不同的组件。 为什么从这些电子邮件中解析的 CSS 会影响我的整个应用程序？ 有没有办法解决这个问题。将选定的电子邮件与其他代码隔离？ 我尝试过angerlySetInnerHTML，但遇到了同样的问题。 我正在使用React，但我认为这只是一个js问题，但不确定。 有什么建议吗？ 我会链接我的 github 存储库，但它不是最新的，而且我已经离开并使用笔记本电脑工作。有一百万个合并更改，因此当我回来时执行此操作将是最简单的。 但基本上这是失败的代码。我在它周围有一个包装器来包含大小。  我在 learnjavascript 中发布了此内容。有人告诉我在这里发帖。   由   提交/u/awk112  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1em0e/adding_inner_html_changes_css_of_other_components/</guid>
       <pubDate>Sun, 26 May 2024 23:53:52 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>关于缓存的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1dc26/question_about_caching/</link>
-      <description><![CDATA[我有一个日历，显示所有事件（论文捍卫预定日期，如果你愿意的话）。因此，当页面加载时，我会检索所有“”事件”当前月份的日期，当（单击上一个日历按钮时，它会向后退一个月）我检索该范围的列表，依此类推。对于我的初学者大脑理解，我无法缓存动态的东西？就我而言，这意味着我每次运行的查询都无法缓存，因为所需月份的日期范围总是会发生变化。我最初的想法是，是否可以缓存这些事件的全部数据，然后在缓存的数据中执行搜索。好吧，我的搜索没有给我详细的答案，所以互联网上最聪明的人来救援哈哈。请给我关于如何处理这个问题的建议和指示。因为在某些特定的月份里，我觉得有些事件需要 4-5 秒才能加载，这看起来很疯狂，因为这个本地环境，我已经可以想象在生产中它会有多糟糕。无论如何，我迫不及待地想听听你对此的想法。作为参考，该项目是使用 Laravel 构建的，并使用 jquery 进行 ajax 调用，从数据库中提取一些小细节（有时是缓存数据的混合）。  &amp;# 32；由   提交/u/reda1109  [链接] [评论]]]></description>
+      <description><![CDATA[我有一个日历，显示所有事件（论文捍卫预定日期，如果你愿意的话）。因此，当页面加载时，我会检索所有“”事件”当前月份的日期，当（单击上一个日历按钮时，它会向后退一个月）我检索该范围的列表，依此类推。对于我的初学者大脑理解，我无法缓存动态的东西？就我而言，这意味着我每次运行的查询都无法缓存，因为所需月份的日期范围总是会发生变化。我最初的想法是，是否可以缓存这些事件的全部数据，然后在缓存的数据中执行搜索。好吧，我的搜索没有给我详细的答案，所以互联网上最聪明的人来救援哈哈。请给我关于如何处理这个问题的建议和指示。因为在某些特定的月份里，我觉得有些事件需要 4-5 秒才能加载，这看起来很疯狂，因为这个本地环境，我已经可以想象在生产中它会有多糟糕。无论如何，我迫不及待地想听听你对此的想法。作为参考，该项目是使用 Laravel 构建的，并使用 jquery 进行 ajax 调用，以从数据库中提取一些小细节（有时是缓存数据的混合）。  &amp;# 32；由   提交/u/reda1109  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1dc26/question_about_caching/</guid>
       <pubDate>Sun, 26 May 2024 22:48:30 GMT</pubDate>
     </item>
@@ -78,37 +92,23 @@
     <item>
       <title>关于部署firebase应用程序的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1ckyn/question_about_deploying_a_firebase_app/</link>
-      <description><![CDATA[我是 Web 开发新手，正在尝试部署一个使用 React、Typescript、vite 和 firebase 制作并使用 Vercel 进行部署的网站。在我的本地主机上，一切正常。但是在部署的站点上，当我尝试登录或创建帐户时，它显示错误已被客户端阻止。我可以控制台记录 firebase 配置，所以我不认为环境变量是问题，并且部署的站点 url 位于我在 firebase 上的授权域中，所以我不确定是什么导致了我的问题。有什么想法吗？   由   提交/u/Fit_Engineering5927  [链接] [评论]]]></description>
+      <description><![CDATA[我是 Web 开发新手，正在尝试部署一个使用 React、Typescript、vite 和 firebase 制作并使用 Vercel 部署的网站。在我的本地主机上，一切正常。但是在部署的站点上，当我尝试登录或创建帐户时，它显示错误已被客户端阻止。我可以控制台记录 firebase 配置，所以我不认为环境变量是问题，并且部署的站点 url 位于我在 firebase 上的授权域中，所以我不确定是什么导致了我的问题。有什么想法吗？   由   提交/u/Fit_Engineering5927  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1ckyn/question_about_deploying_a_firebase_app/</guid>
       <pubDate>Sun, 26 May 2024 22:11:25 GMT</pubDate>
     </item>
     <item>
       <title>无法将我的按钮链接到 login.tsx。有什么解决办法吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1bswj/unable_to_link_my_button_to_logintsx_is_there_any/</link>
-      <description><![CDATA[        提交人    /u/PapercutSurvivor22   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/PapercutSurvivor22  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1bswj/unable_to_link_my_button_to_logintsx_is_there_any/</guid>
       <pubDate>Sun, 26 May 2024 21:34:28 GMT</pubDate>
     </item>
     <item>
       <title>使用 Astro 进行开发</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1bix7/using_astro_for_development/</link>
-      <description><![CDATA[我正在使用 Astro 构建我所在机构的网站。我很好奇其他人是否也使用 Astro，以及他们在以下方面的最佳实践和经验：* 图像压缩 * nginx 代理 * 您能想到的其他任何内容  这里还有其他人使用 Astro 吗？    提交人    /u/Basil2BulgarSlayer   [link] [评论]]]></description>
+      <description><![CDATA[我正在使用 Astro 构建我的代理机构的网站。我很好奇其他人使用 Astro 以及他们在以下方面的最佳实践和经验： * 图像压缩 * nginx 代理 * A/B 测试 * 你能想到的任何其他东西  这里还有其他人使用 Astro 吗?   由   提交 /u/Basil2BulgarSlayer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1bix7/using_astro_for_development/</guid>
       <pubDate>Sun, 26 May 2024 21:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何构建这个 MVP？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1be9n/how_would_you_build_this_mvp/</link>
-      <description><![CDATA[Web 开发人员您好！这个问题是针对你们当中的独立技术创始人的。 背景 我正在参与一个项目来学习整个 E2E 过程：引导、启动、作为独立技术创始人营销业务。该产品是一个针对小众类型书籍的搜索和推荐网站。您可以将其视为“完美定制的 GoodReads 替代品”。对于我的利基市场。 目标是学习整个过程。我是一名后端云工程师，没有前端经验。我不知道我是否会赚钱，但真正的价值是现实世界的教育。 问题 所以这就是问题：&lt; strong&gt;您对技术堆栈有什么建议？ 我想让它尽可能简单，仅此而已。如果合适的话，我会利用 3P 解决方案、模板、无代码等，但如果需要灵活性，我会自己做。但我并不熟悉所有选项，这就是我向您寻求帮助的原因。 后端 我已经有了一个想法后端的：它将利用我的经验托管在 AWS 中，并通过 AppSync 通过 GraphQL API 暴露给前端。我目前计划分别托管和部署后端和前端。 前端 这部分非常重要，但我迷失了:( 。它需要美观，用户界面也需要有利于搜索引擎优化（我认为），我想要一个供用户参与的博客部分，但仔细定制和设计也很重要。迭代它，所以我认为我需要自己构建它来理解。 我目前正在研究像 Tailwind CSS + Vue.js 这样的框架，通过 CloudFront 提供服务，带有 ShadCN UI 组件（我是一个糟糕的人）但也许这太多了……还有 WordPress、各种付费网站模板、Webflow、Squarespace 等无代码构建器等。我不知道我是否需要 CMS（我几乎不知道那是什么）。意味着尽管研究）。 然后我还需要跟踪营销内容 - 我的用户来自哪里，我在不同媒体上的投资回报率是多少，等等。我认为 Google Analytics 可以作为脚本嵌入为了这？我可能需要一个 CRM（它在前端吗？） 我可能不会立即需要所有这些东西，但我应该明智地选择我的技术，以便前端可以轻松迭代，并且可扩展的。 我的目标是构建一个 MVP，不需要我因为错误的设计决策而完全重做生产中的所有内容。 TL;DR&lt; /p&gt; 如果您是一名构建网站即服务的后端工程师，您会选择为引导的 MVP 构建什么技术堆栈和服务？ 可迭代性优先事项，再加上商业智能和营销分析的考虑因素。保持尽可能简单，但不能过于简单。   由   提交 /u/KobeWonBenobi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1be9n/how_would_you_build_this_mvp/</guid>
-      <pubDate>Sun, 26 May 2024 21:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 Oauth 问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1bdew/google_oauth_question/</link>
-      <description><![CDATA[尝试实施 Google 身份验证。他们推出了新事物“FedCM”并告诉我这将是唯一可用的选项，我需要迁移。 出现登录弹出窗口，但我不确定如何处理取消。它曾经是“提示”的参数。方法，但现在它会产生警告。 “您的客户端应用程序使用 Google One Tap 提示 UI 状态方法之一，当 FedCM 强制执行时，该方法可能会停止运行。” 但我不知道如何收到用户改变主意并执行操作的通知不想再使用 Google 登录。 我的代码： window.google.accounts.id.initialize({ client_id: &#39;xxxxxxx&#39;, use_fedcm_for_prompt: true, callback : (p: any) =&gt; { console.log(p) //仅在用户登录时调用。 } }); （任意窗口）.google.accounts.id.prompt();    由   提交/u/gevorgter  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1bdew/google_oauth_question/</guid>
-      <pubDate>Sun, 26 May 2024 21:13:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
