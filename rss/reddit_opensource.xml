@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 18:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 21:13:22 GMT</lastBuildDate>
+    <item>
+      <title>我尝试改进开源防病毒社区，结果如下：</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</link>
+      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件误报规则，但仍然有很高的检测率，否则它是 45 ％或更少）反对零日恶意软件，并且很少有误报 DrWeb有65％（Emisoft在一项测试中令人惊讶地得到了35％） Norton 89-90％ Kaspersky 90-91％ 官方ClamAV通常有8-10％的检测我用 Malwarebazaar 样本进行了测试，非官方签名的比率为 16-20%。如果 ClamAV 的检测率达到 60%，我认为该 AV 的检测率可能达到 85% 或更高。网站签名约为 2160 万个，其中有 1000 万个重复或误报或相同域名但删除了子域名。它仅支持 6 个 YARA 模块，并且仅支持机器学习 aganist PE 文件。有 MBR 保护，但仅适用于 Windows。编译这个防病毒软件也是一项复杂的任务。这是 github 存储库： HydraDragonAntivirus/XylentOptionalScanner：ClamAV、YARA 的跨平台防病毒 GUI 和我的机器学习 AI 模块也 Snort (github.com)&lt; /a&gt; 这对于开源防病毒社区来说是一个很好的进步。   由   提交 /u/HydraDragonAntivirus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</guid>
+      <pubDate>Mon, 27 May 2024 19:51:58 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
-      <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</guid>
       <pubDate>Mon, 27 May 2024 14:53:14 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
     <item>
-      <title>有哪些 Android 应用程序有子类别？</title>
+      <title>Android 应用程序有子类别吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</link>
       <description><![CDATA[我正在寻找像 Recipe Keeper 这样的应用程序，它允许我将食谱分类为类别、子类别，并将它们分配到集合中。集合可以过滤您的食谱（可以有多个），而子类别可以让您更好地组织。大照片还有助于选择菜肴，而不是阅读大量文字。不幸的是，我对该应用程序的性能和缺乏自定义功能不满意。我将不胜感激任何建议 - 如果有一种方法可以减少另一个应用程序（例如笔记应用程序）的使用，也欢迎。我已经尝试过 Google Play 中的前 50 个食谱应用程序，并尝试过使用三星笔记，但这些应用程序太垂直而无法工作。谢谢。   由   提交 /u/EternalShadowBan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</guid>
@@ -92,23 +99,16 @@
     <item>
       <title>如何开始为开源做出贡献。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</link>
-      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做贡献。但是，我在软件方面经验不多——我大约有 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我如何才能找到相对容易的任务（或更容易/更小的项目）来帮助我开始为开源做贡献？ 提前致谢。    提交人    /u/Zakariyyay   [link] [评论]]]></description>
+      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做出贡献。然而，我在软件方面的经验并不多——我有大约 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我怎样才能找到相对更容易的任务（或更容易/更小的项目）来完成，以帮助我开始进行开源贡献？提前致谢。   由   提交 /u/Zakariyyay   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</guid>
       <pubDate>Sun, 26 May 2024 10:13:30 GMT</pubDate>
     </item>
     <item>
       <title>如何找到相对未知的开源存储库来做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</link>
-      <description><![CDATA[嗨，我正在寻找相对未知的开源存储库，我可能会帮助贡献。但我发现它不太难找到。    由   提交/u/BlueBoxxx  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在寻找一些我可能愿意为其做出贡献的相对不知名的开源存储库。但我发现很难找到。     提交人    /u/BlueBoxxx   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</guid>
       <pubDate>Sun, 26 May 2024 07:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 python 和 react 的代码审查代理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</link>
-      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和找到好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</guid>
-      <pubDate>Sun, 26 May 2024 06:58:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

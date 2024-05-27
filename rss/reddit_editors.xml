@@ -4,11 +4,32 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 27 May 2024 18:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 21:12:47 GMT</lastBuildDate>
+    <item>
+      <title>有关佳能 XF605 摄像机中的 .XML 文件通过外部硬盘发送给客户端的问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1d1zjg6/questions_about_xml_files_from_canon_xf605/</link>
+      <description><![CDATA[大家好， 我有一些关于从佳能 XF605 摄像机通过外部硬盘发送到客户端的 XML 文件的问题。  背景故事：当地一个联谊会的一位校友董事会成员聘请我为他们在秋季学期开始时即将推出的慈善视频拍摄和编辑素材。我们混合使用相机和无人机进行了 4 天的拍摄。我的电脑上有该活动的录像，我正在将其全部复制到外部硬盘上，然后发送给雇用我的人，他是该分会的 60 年代中期校友。她不再住在我所在的州，并希望将片段邮寄给她，以便她可以在接下来的几年的视频中使用该片段（这是我们双方同意的，她为片段/硬盘支付了额外费用） ）。我仍然会亲自编辑今年的视频，但她希望我拍摄的素材能够“清理、分类、组织和标记”。并删除所有不良/不可用的镜头。  我现在正在查看镜头并发送给她，重新标记剪辑，组织外部硬盘驱动器上的文件和文件夹等。我在佳能 XF605 4k 摄像机上拍摄了所有相机镜头，并且我现在正在查看这些文件。她对技术一窍不通，但出于某种原因坚持“帮助我编辑”。在编辑过程中与我远程合作（这是她支付的费用，所以我会尽力满足）。  当我问她有什么编辑软件时，她不知道有什么。我告诉她 DaVinci Resolve 的免费版本，所以她可能会使用它（所以任何素材/文件也需要在那里工作）。我购买了 DaVinci Resolve Studio，这是我主要的非线性编辑软件。  我的问题是：  每个视频剪辑都有两个文件：一个为 .MXF，另一个为 .XML。 为了发送给不了解文件名和文件类型的不懂技术的婴儿潮一代（她已经告诉我她以前从未做过类似的事情，并且不知道文件扩展名/名称是什么），我是否应该将 .XML 文件包含在她的硬盘上？或者当我进行主要编辑时将它们留在我的计算机上？基本上，她或未来使用此素材的任何视频的未来编辑者是否绝对需要 .XML 文件，或者他们可以只使用 .MXF 文件吗？ 如果我应该在她的硬盘上包含 .XML 文件，我是否应该将这些文件的名称重新标记为 .MXF 视频剪辑的确切名称（例如，如果视频剪辑名为“Day 1 Outside Front Lawn.MXF”，我是否应该将相应的“XML 文件命名为“Day 1 Outside Front Lawn.XML”）？或者我应该保留文件的当前名称（例如“A015C955_2404013X_CANON.XML”）？ 将 .XML 文件包含在其中是否是最简单/最佳的做法与 .MXF 视频剪辑文件夹相同的文件夹，还是应该创建一个将 .MXF 和 .XML 文件分开的新文件夹？例如，文件路径为“DAY 1”。 ---&gt; “第一天摄像机” ---（分开）--&gt; “.MXF 视频剪辑” &amp; “.XML 文件”。 将任何 .MXF 文件转换为 .MP4、.MOV 或任何其他文件格式是否值得？或者 .MXF 是否足以适合任何编辑软件（例如 DaVinci Resolve、iMovie 等的免费版本）？   希望所有这些都是有意义的，并且情况很清楚。感谢您的帮助！ 系统规格（我的电脑）：MacBook Pro (M1 Pro) w/16 GB RAM // 软件规格：DaVinci Resolve 18.6.6 // 素材规格：.MXF 和 .MXF来自佳能 XF605 摄像机的 .XML 文件  系统规格（客户端计算机）：未提供信息，客户尚未回复我对此信息的请求    由   提交 /u/grizzlyblake91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d1zjg6/questions_about_xml_files_from_canon_xf605/</guid>
+      <pubDate>Mon, 27 May 2024 19:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求 DaVinci Resolve 中视频编辑的社区建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1d1zaim/seeking_community_recommendations_for/</link>
+      <description><![CDATA[大家好， 我刚刚开始使用 DaVinci Resolve，有兴趣提高我的视频编辑技能。我正在寻找跨平台的活跃群组和聊天社区，例如 Telegram、VK、Discord 等......在那里我可以学习并与 DaVinci Resolve 和视频编辑爱好者一起交流。 任何人都可以推荐任何群组/专注于 DaVinci Resolve 的社区欢迎初学者吗？我非常感谢您能分享的任何建议。 谢谢   由   提交/u/vlada7077  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d1zaim/seeking_community_recommendations_for/</guid>
+      <pubDate>Mon, 27 May 2024 19:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很快就要被解雇了，迫切需要有关我的网站的建议。</title>
+      <link>https://www.reddit.com/r/editors/comments/1d1xq9q/im_getting_laid_off_soon_and_desperately_need/</link>
+      <description><![CDATA[就像标题所说的那样。长话短说，我和我的女朋友将在大约三周内搬到全国各地，寻找她难以置信的职业机会，几天前，在被告知我的工作可能完全远程化几周后，我工作的营销机构的首席执行官告诉我部门的副总裁，他不想让我继续留任。  听后，我火速建了一个网站，上传了自己的作品，开始应聘工作。由于今天是美国的阵亡将士纪念日周末，最早要到周二（5 月 28 日）才会有人查看我的申请或作品集，但我担心我的网站看起来很匆忙，我的工作不够多元化，我可以使用我能得到的所有帮助。 这是我的网站的链接，任何和所有反馈都非常重要赞赏。   由   提交 /u/Big-Lengthiness-7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d1xq9q/im_getting_laid_off_soon_and_desperately_need/</guid>
+      <pubDate>Mon, 27 May 2024 18:02:31 GMT</pubDate>
+    </item>
     <item>
       <title>有人使用旧的 Motion Array 过渡包吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1d1w8l1/anyone_use_the_old_motion_array_transition_packs/</link>
-      <description><![CDATA[几周前我得到了 Motion Array，并在 Premier Pro 上使用它时获得了一些起伏的体验。 Motion Array 附带了许多简洁的视频效果，但他们也有一个官方的旧过渡包，他们已经停止了广告。我不知道他们为什么这样做，因为过渡包非常棒。问题是，因为此时过渡已经超过 3 年了，所以在导出时它们非常有问题，这真是太遗憾了，因为我真的希望我可以在没有这个问题的情况下使用过渡。有谁知道如何轻松导出这些转换？   由   提交/u/ChaoticNewt05  [链接] [评论]]]></description>
+      <description><![CDATA[几周前我得到了 Motion Array，在 Premier Pro 上使用它的体验好坏参半。Motion Array 附带了许多出色的视频效果，但他们也有一个官方的旧过渡包，他们已经停止宣传了。我不知道他们为什么这样做，因为过渡包非常棒。问题是，由于过渡已经超过 3 年了，所以在导出时它们有很多错误，这真是太可惜了，因为我真的希望我可以在不出现此问题的情况下使用这些过渡。有谁知道有什么方法可以轻松导出这些过渡吗？    提交人    /u/ChaoticNewt05   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d1w8l1/anyone_use_the_old_motion_array_transition_packs/</guid>
       <pubDate>Mon, 27 May 2024 16:58:24 GMT</pubDate>
     </item>
@@ -36,14 +57,14 @@
     <item>
       <title>解决这个问题吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1d1mn3z/fix_to_this/</link>
-      <description><![CDATA[你好！因此，当我在节拍上编辑某些内容时，我会使用左右箭头逐帧移动播放头，这样我就能听到歌曲中完美的剪切时间（在发生时听到节拍）。 问题是，现在，我以相同的方式移动播放头，但音频没有播放，你知道如何解决这个问题吗？ 抱歉，如果我没有说清楚    提交人    /u/vagasbundo   [link] [评论]]]></description>
+      <description><![CDATA[您好！因此，当我在节拍上编辑某些内容时，我会使用左右箭头逐帧移动播放头，这样我就能听到歌曲的完美剪切时间（在节拍发生时听到正确的节拍）。 问题是，现在，我以同样的方式移动播放头，但音频无法播放，你知道如何解决这个问题吗？  抱歉，如果我没说清楚   由   提交 /u/vagasbundo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d1mn3z/fix_to_this/</guid>
       <pubDate>Mon, 27 May 2024 08:12:57 GMT</pubDate>
     </item>
     <item>
       <title>如何校准显示器进行色彩校正</title>
       <link>https://www.reddit.com/r/editors/comments/1d1lnht/how_do_i_calibrate_my_monitor_for_color_correction/</link>
-      <description><![CDATA[您好。 最近我注意到我用于色彩校正的显示器与我的显示器有很大不同其他显示器和我的笔记本电脑。 （它是 MSI Optix MAG322CQR） 如何校准它才能准确进行色彩校正？ 或者，如果我应该购买新的显示器进行色彩校正，您会推荐什么？   由   提交/u/timmy6255  [链接] [评论]]]></description>
+      <description><![CDATA[您好。 最近我注意到我用于色彩校正的显示器与我的其他显示器和笔记本电脑有很大不同。（它是 MSI Optix MAG322CQR） 如何校准它才能准确进行色彩校正？ 或者，如果我应该购买新的显示器进行色彩校正，您会推荐什么？    提交人    /u/timmy6255   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d1lnht/how_do_i_calibrate_my_monitor_for_color_correction/</guid>
       <pubDate>Mon, 27 May 2024 07:00:47 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>到底怎么找到AE呢？</title>
       <link>https://www.reddit.com/r/editors/comments/1d1f534/how_the_heck_do_you_find_an_ae/</link>
-      <description><![CDATA[我知道这不是找到入门级编辑器的地方。但多年来，这个潜艇对我来说“非常宝贵”。我从这里的成员那里学到了很多东西。 问题：我到底如何在拉斯维加斯找到入门级助理编辑？当我在洛杉矶时，这很容易。维加斯，没那么多。 如果有人有朋友的朋友或表兄弟想要进入这个行业，请告诉我。我付的钱很好。我们的工作室很有趣。时间很轻松。厨房备货齐全。 即使是生的人，但态度良好，我们也会训练。他们将开始进行基本的拉线和选择。然后是一些场景布局。但我们会教他们想学的任何东西。我们做了很多绿屏。很多旋转。现场工作、操作摄像机、音响；做遥控器。我们将进行培训。 我们刚刚安装了一个带有虚幻引擎的虚拟制作工作室。我是一名 UE 兽医，也会教这一点。 但是，当我找到你的时候。如果这里有摄影指导想要短期/快速的工作来帮助我们找出几个不同布景的灯光，请联系我们。我们在照明方面很糟糕。 （但是如果你看过我的节目，你就已经知道这一点了） 联系方式：没有 DM。我被他们淹没了。电子邮件：why files dot com 团队 Mods - 如果这是这篇文章的错误位置，我深表歉意。我要在 /videoediting 中进行半 x-post   由   提交 /u/OMGTheWhyFiles   [链接] [评论]]]></description>
+      <description><![CDATA[我知道这不是寻找入门级编辑的地方。但多年来，这个子版块对我来说 *无价*。我从这里的成员身上学到了很多东西。 问题：我如何在拉斯维加斯找到入门级助理编辑？当我在洛杉矶时，这很容易。在拉斯维加斯，就没那么容易了。 如果有人有朋友的朋友或表亲想要进入这个行业，请告诉我。我付的薪水很高。我们的工作室很有趣。工作时间很轻松。厨房储备充足。 即使是一个态度良好的新手，我们也会进行培训。他们会开始做基本的拉线和选择。然后是一些场景布局。但我们会教他们任何他们想学的东西。我们做了很多绿幕。很多转描。在片场工作，操作摄像机、声音；做遥控。我们会进行培训。 我们刚刚使用虚幻引擎安装了一个虚拟制作工作室。我是 UE 老手，也会教这个。 但是，趁我还有你。如果这里有 DP 想要一份短期/快速的工作来帮助我们弄清楚几个不同场景的灯光，请联系我们。我们不擅长灯光。（但如果你看过我的节目，你已经知道了） 联系方式：没有 DM。我被他们淹没了。电子邮件：team at the why files dot com Mods - 如果这篇文章不适合这里，我很抱歉。我将在 /videoediting 中半交叉发布    提交人    /u/OMGTheWhyFiles   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d1f534/how_the_heck_do_you_find_an_ae/</guid>
       <pubDate>Mon, 27 May 2024 00:22:02 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好，我搞砸了！我重置了笔记本电脑，在此过程中，我丢失了“视频墙徽标”文件。我仍然可以下载许可证，但徽标本身似乎消失了。有谁知道我怎样才能再次获得该文件？任何帮助都是救星！   由   提交 /u/potatotosss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d176ej/motion_array_being_greedy/</guid>
       <pubDate>Sun, 26 May 2024 18:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>展示你的周日工作（测试这个 - 尝试一下！）</title>
-      <link>https://www.reddit.com/r/editors/comments/1d175fy/show_your_work_sundays_testing_this_try_it_out/</link>
-      <description><![CDATA[这是对“展示您的作品”的测试周日。 计划是在周日进行卷轴审核。 以下是发帖前要做的关键事情 标题：长度：目的：你为什么发布这个？ 这可能是：我做了一些很酷的东西，客户获胜或是，甚至是反馈。 &lt; p&gt;（如果是反馈，您必须找到另外两个想要反馈的帖子并给出注释。如果您不这样做，管理员将访问您的房子） 对于这个周日的帖子，您可以从YT发帖，但我们更喜欢更专业的落地点（包括frame.io） ----复制此部分----  标题： 长度： 用途：    由   提交 /u/greenysmac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d175fy/show_your_work_sundays_testing_this_try_it_out/</guid>
-      <pubDate>Sun, 26 May 2024 18:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求在国外学习视频编辑和 3D 动态图形的建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1d14f2s/seeking_advice_on_studying_video_editing_and_3d/</link>
-      <description><![CDATA[大家好， 我是一名视频编辑，在该领域拥有 2-3 年的经验。我的工作主要涉及编辑动态图形和视频，也涉足一些 3D 设计。我热衷于进一步发展我的技能，特别是在 3D 动态图形和设计方面，并且我正在考虑出国留学来实现这一目标。 我正在向这个社区寻求建议和建议几个关键点：  最佳国家/机构：** 哪些国家或机构以其视频编辑和 3D 动态图形项目而闻名？我正在寻找能够提供丰富实践和理论知识的地方。 项目推荐：您有推荐的具体项目或课程吗？如果您曾出国留学，很高兴听到您的个人经历。 入学要求：这些课程的常见入学要求是什么？我是否应该准备任何具体的作品集或项目来增强我的申请？ 奖学金和经济援助：有关奖学金、助学金或其他的任何提示该领域的国际学生有哪些经济援助选择？ 行业联系和实习：就行业联系和机会而言，地理位置有多重要学习期间实习或实践项目？  任何关于充分利用出国留学的额外建议或见解将不胜感激。预先感谢您的帮助   由   提交/u/Sure-Raccoon4208   reddit.com/r/editors/comments/1d14f2s/seeking_advice_on_stuying_video_editing_and_3d/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d14f2s/seeking_advice_on_studying_video_editing_and_3d/</guid>
-      <pubDate>Sun, 26 May 2024 15:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTX 2060 是否足够好/值得用于 4K 视频编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1d130z5/is_rtx_2060_good_enoughworth_it_for_4k_video/</link>
-      <description><![CDATA[我主要分别使用 Premiere Pro、DaVinci Resolve 和 After Effects。还有比这更好的选择吗？  光线追踪在渲染 4k 素材方面真的是一个优点吗？   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d130z5/is_rtx_2060_good_enoughworth_it_for_4k_video/</guid>
-      <pubDate>Sun, 26 May 2024 14:49:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
