@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 15:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 18:16:38 GMT</lastBuildDate>
+    <item>
+      <title>适合毕业典礼的 FOSS A/V 软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d2m9qo/foss_av_software_for_graduation_event/</link>
+      <description><![CDATA[大家好， 我在一所学校从事 IT 工作，我们的毕业典礼分为几个活动（我们有学生全州各地）。虽然我们最大的活动有由活动中心的 A/V 团队管理的学生的音乐和演示，但我们的第二次活动要小得多，我负责音乐、演示等。我想知道是否有人有建议FOSS（或其他免费）软件可以使播放更加无缝和“专业”？我可以通过 VLC 打开歌曲，但我希望时机感觉很专业，尤其是对于学生来说像毕业这样重要的事情。我正在考虑某种均衡器软件，这样我就可以淡入音乐。幻灯片是通用的 Google Slide/Powerpoint，我们也可以将其下载为视频。提前致谢！   由   提交/u/New_Scientist_4532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d2m9qo/foss_av_software_for_graduation_event/</guid>
+      <pubDate>Tue, 28 May 2024 15:30:17 GMT</pubDate>
+    </item>
     <item>
       <title>从 CLI 合并文件夹</title>
       <link>https://www.reddit.com/r/opensource/comments/1d2l5jk/merge_folders_from_cli/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>开源 AI 定义 – 5 月 27 日每周更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1d2eptm/open_source_ai_defintion_weekly_update_may_27/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d2eptm/open_source_ai_defintion_weekly_update_may_27/</guid>
       <pubDate>Tue, 28 May 2024 08:42:01 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>我尝试改进开源防病毒社区，结果如下：</title>
       <link>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</link>
-      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件误报规则，但仍然有很高的检测率，否则它是 45 ％或更少）反对零日恶意软件，并且很少有误报 DrWeb有65％（Emisoft在一项测试中令人惊讶地得到了35％） Norton 89-90％ Kaspersky 90-91％ 官方ClamAV通常有8-10％的检测我用 Malwarebazaar 样本进行了测试，非官方签名的比率为 16-20%。如果 ClamAV 的检测率达到 60%，我认为该 AV 的检测率可能达到 85% 或更高。网站签名约为 2160 万个，其中有 1000 万个重复或误报或相同域名但删除了子域名。它仅支持 6 个 YARA 模块，并且仅支持机器学习 aganist PE 文件。有 MBR 保护，但仅适用于 Windows。编译这个防病毒软件也是一项复杂的任务。这是 github 存储库： HydraDragonAntivirus/XylentOptionalScanner：ClamAV、YARA 的跨平台防病毒 GUI 和我的机器学习 AI 模块也 Snort (github.com)&lt; /a&gt; 这对于开源防病毒社区来说是一个很好的进步。   由   提交 /u/HydraDragonAntivirus   [链接] [评论]]]></description>
+      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件误报规则，但仍然有很高的检测率，否则它是 45 ％或更少）反对零日恶意软件，并且很少有误报 DrWeb有65％（Emisoft在一项测试中令人惊讶地得到了35％） Norton 89-90％ Kaspersky 90-91％ 官方ClamAV通常有8-10％的检测我用 Malwarebazaar 样本进行了测试，非官方签名的比率为 16-20%。如果 ClamAV 的检测率达到 60%，我认为该 AV 的检测率可能达到 85% 或更高。网站签名约为 2160 万个，其中有 1000 万个重复或误报或相同域但删除了子域。它仅支持 6 个 YARA 模块，并且仅支持机器学习 aganist PE 文件。有 MBR 保护，但仅适用于 Windows。编译这个防病毒软件也是一项复杂的任务。这是 github 存储库： HydraDragonAntivirus/XylentOptionalScanner：ClamAV、YARA 的跨平台防病毒 GUI 和我的机器学习 AI 模块也 Snort (github.com)&lt; /a&gt; 这对于开源防病毒社区来说是一个很好的进步。   由   提交 /u/HydraDragonAntivirus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</guid>
       <pubDate>Mon, 27 May 2024 19:51:58 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>您如何处理来自提出有关错误和其他支持需求问题的公司的支持请求？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1k2i9/how_do_you_handle_support_requests_from_companies/</link>
-      <description><![CDATA[       由    /u/anehzat  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/anehzat   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1k2i9/how_do_you_handle_support_requests_from_companies/</guid>
       <pubDate>Mon, 27 May 2024 05:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>移除.bg API 替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[有没有更便宜的可靠的 remove.bg 级别替代品？remove.bg 成本非常高，最好是删除 png/svg 背景并且具有成本效益的东西。    提交人    /u/Agreeable_Ad6424   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
-      <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
