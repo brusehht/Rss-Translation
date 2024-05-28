@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 21:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 00:53:33 GMT</lastBuildDate>
+    <item>
+      <title>如何营销 OSS 软件包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</link>
+      <description><![CDATA[   链接即将推出。我正在开发一个 NodeJS/Typescript 友好的包，以单元测试友好的方式读取环境变量。它提供验证、转换功能以及日志记录。  最大的动机是测试基于环境变量的 lambda 表达式的困难。它简单易用。没有 500 页的手册。 如何激发对 NPM 包的兴趣？   由   提交 /u/Top-Difference8407   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</guid>
+      <pubDate>Mon, 27 May 2024 21:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布：Git 用户管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d22rt4/release_git_user_manager/</link>
+      <description><![CDATA[r/opensource 社区大家好！ 👋 我刚刚发布了一个名为 Git Credential Manager 的新工具，旨在帮助轻松管理 Git 凭证和存储库。这个项目是出于我自己的需要而诞生的，我希望它对你们中的一些人也有用。 如果您能测试它并提供任何反馈或建议，我将不胜感激。  您可以在这里查看：GitHub 存储库 干杯🎩   由   提交 /u/tilltmk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d22rt4/release_git_user_manager/</guid>
+      <pubDate>Mon, 27 May 2024 21:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>我尝试改进开源防病毒社区，结果如下：</title>
       <link>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
-      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/smileymileycoin  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</guid>
       <pubDate>Mon, 27 May 2024 14:53:14 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[官方仓库已经死了好几个月了，我只是试图卸载我的 Android 手机中的一些臃肿的系统应用程序，但“卸载选择”却被删除了。按钮没有给出任何反应，所以......什么也没有发生。因为我已经使用过它很多次并且过去它工作得很好......所以我不认为我这边有什么问题。  &amp;# 32；由   提交/u/Biggus_Niggus_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</guid>
       <pubDate>Sun, 26 May 2024 10:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始为开源做出贡献。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</link>
-      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做出贡献。然而，我在软件方面的经验并不多——我有大约 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我怎样才能找到相对更容易的任务（或更容易/更小的项目）来完成，以帮助我开始进行开源贡献？提前致谢。   由   提交 /u/Zakariyyay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</guid>
-      <pubDate>Sun, 26 May 2024 10:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到相对未知的开源存储库来做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</link>
-      <description><![CDATA[嗨，我正在寻找一些我可能愿意为其做出贡献的相对不知名的开源存储库。但我发现很难找到。     提交人    /u/BlueBoxxx   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</guid>
-      <pubDate>Sun, 26 May 2024 07:54:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
