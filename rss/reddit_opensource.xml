@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 03:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 06:17:11 GMT</lastBuildDate>
+    <item>
+      <title>雅典娜危机现已开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d2bmtv/athena_crisis_is_now_open_source/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d2bmtv/athena_crisis_is_now_open_source/</guid>
+      <pubDate>Tue, 28 May 2024 05:05:28 GMT</pubDate>
+    </item>
     <item>
       <title>有人有兴趣制作开源 RTOS 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
-      <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
+      <description><![CDATA[Mark Zuckerberg 将 LLaMA 开源，允许任何人免费使用、修改和分发它。你认为这是开源 AI 的未来吗？你有什么看法？    提交人    /u/conventionseeker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
       <pubDate>Mon, 27 May 2024 01:30:18 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>文件查找 |一个简单的文件搜索实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
-      <description><![CDATA[因此，我花了两年时间致力于我的第一个大型开源项目。现在，它的第一个候选版本已经达到了某种稳定状态。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。此外，文件查找不连接到互联网。  您可以在以下位置查看它：  https://github.com/Pixel-Master/File-Find  或访问网站： https://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没有弄清楚。 如果您尝试一下并报告问题，那将非常友善。    提交人    /u/PixelMqster   [link] [comments]]]></description>
+      <description><![CDATA[因此，过去两年我一直致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
     <item>
       <title>Android 应用程序有子类别吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</link>
-      <description><![CDATA[我正在寻找像 Recipe Keeper 这样的应用程序，它允许我将食谱分类为类别、子类别，并将它们分配到集合中。集合可以过滤您的食谱（可以有多个），而子类别可以让您更好地组织。大照片还有助于选择菜肴，而不是阅读大量文字。不幸的是，我对该应用程序的性能和缺乏自定义功能不满意。我将不胜感激任何建议 - 如果有一种方法可以减少另一个应用程序（例如笔记应用程序）的使用，也欢迎。我已经尝试过 Google Play 中的前 50 个食谱应用程序，并尝试过使用三星笔记，但这些应用程序太垂直而无法工作。谢谢。   由   提交 /u/EternalShadowBan   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找类似 Recipe Keeper 的应用，该应用允许我将食谱分类、子类别并将它们分配到合集。合集允许过滤食谱（可以有多个），子类别可让您更好地组织。大照片也有助于选择菜肴，而不必阅读大量文字。不幸的是，我对该应用的性能和缺乏自定义功能不满意。我很感激任何建议 - 如果有办法为此开发另一个应用（如笔记应用），也欢迎。我已经尝试了 Google Play 上的前 50 个食谱应用，并尝试使用三星笔记，但它们太垂直了，无法使用。谢谢。    提交人    /u/EternalShadowBan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</guid>
       <pubDate>Sun, 26 May 2024 17:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源英雄联盟 |一次尝试</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
-      <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
-      <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

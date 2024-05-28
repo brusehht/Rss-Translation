@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 28 May 2024 03:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 06:17:06 GMT</lastBuildDate>
+    <item>
+      <title>多久提交一次？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d2bvri/how_often_to_commit/</link>
+      <description><![CDATA[您好，我是一名自学成才的 Web 开发人员，目前正在使用 MERN Stack 进行项目。对于我的专业开发人员同事，我想问一个问题：我应该多久提交一次代码。所谓多久一次，我只是指我应该在编写组件或编写函数之后提交，还是仅在编写整个页面之后提交。感谢您的阅读！！   由   提交/u/Moeheink2006   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d2bvri/how_often_to_commit/</guid>
+      <pubDate>Tue, 28 May 2024 05:21:01 GMT</pubDate>
+    </item>
     <item>
       <title>我该如何改进这个用户界面？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d293g9/how_do_i_improve_this_ui/</link>
@@ -27,9 +34,9 @@
       <pubDate>Tue, 28 May 2024 00:50:43 GMT</pubDate>
     </item>
     <item>
-      <title>这里有没有人为那些为 FAANG 做准备的升级课程付费，而且收费很高，但只有在你被录用后才收费？</title>
+      <title>这里有没有人支付过那些为你准备 FAANG 的升级课程并向你收取很多费用，但只有在你被录用后？</title>
       <link>https://www.reddit.com/r/webdev/comments/1d26336/has_anyone_here_paid_for_those_level_up_courses/</link>
-      <description><![CDATA[我检查了我们的 Interview Kickstarter 和 HiCounselor，我的意思是它们很贵，但总的来说比失业便宜。但我也厌倦了花费大量时间回到起点，即使这并不需要我付出任何代价。   由   提交 /u/sateliteconstelation   [链接] [评论]]]></description>
+      <description><![CDATA[我查看了我们的 Interview Kickstarter 和 HiCounselor，我的意思是它们很贵，但总体来说比失业要便宜。但我也厌倦了花很多时间回到原点，即使它不花我任何钱。    提交人    /u/sateliteconstelation   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d26336/has_anyone_here_paid_for_those_level_up_courses/</guid>
       <pubDate>Tue, 28 May 2024 00:00:09 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>像素化边框样式</title>
       <link>https://www.reddit.com/r/webdev/comments/1d20326/pixelized_border_style/</link>
-      <description><![CDATA[      大家好！ 我正尝试在网页中制作类似的东西。 我想要了解的细节是如何制作角落。我尝试在 Google 上搜索很多不同的东西，我得到了大量关于如何设置边框、如何应用蒙版以获得“仅角落”或“无角落”效果的教程和说明，但没有关于像素风格角落的特别具体的内容…… 好吧，除了使用背景图像之外什么也没有，我将其作为最后的可能手段。在我的脑海里，如果我必须为角落保留多个版本的图像，那么每当用户更改屏幕大小时，我的界面很可能会卡住/跳动？（如果这是一个愚蠢的假设，请证明我错了！） 免责声明：该照片是我在一个随机的 YouTube 视频中发现的旧版 Pokémon 蓝色/红色 Gameboy 游戏的明显截图。我显然不会对它的所有权等提出任何主张，并且无意复制此特定设计，它仅用于说明目的。    提交人    /u/rudy_am   [链接] [评论] ]]></description>
+      <description><![CDATA[      大家好！ 我正在尝试在网页中制作类似的内容。 详细信息我最关心的是如何拐弯。我尝试过谷歌搜索很多不同的东西，我得到了关于如何设置边框、如何应用蒙版以获得“仅角”或“无角”效果的教程和解释，但没有关于像素样式角的特别具体的内容... 好吧，除了使用背景图像之外别无他法，我将其保存为最后可能的手段。在我看来，如果我必须保留角落图像的多个版本，那么每当用户更改屏幕尺寸时，我很可能会遇到一个滞后/跳跃的界面？ （如果这是一个愚蠢的假设，请证明我是错的！） 免责声明：这张照片是我从随机 YouTube 视频中找到的旧版 Pokémon 蓝/红 Gameboy 游戏的明目张胆的屏幕截图。显然，我不会对它的所有权等提出任何主张，并且复制此特定设计的意图为零，它仅用于说明目的。   由   提交/u/rudy_am  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d20326/pixelized_border_style/</guid>
       <pubDate>Mon, 27 May 2024 19:38:29 GMT</pubDate>
     </item>
     <item>
       <title>选择不更新</title>
       <link>https://www.reddit.com/r/webdev/comments/1d1zrd6/select_not_updating/</link>
-      <description><![CDATA[大家好！ 我一直在尝试使用存储在 JSON 文件中的数组填充两个带有选项的选择。JavaScript 似乎可以很好地从 JSON 文件中接收数组。但是，当涉及到填充框时，似乎只有一个选择被填充。有什么想法吗？ 这是 JavaScript/HTML 代码：  &lt;script&gt; const selectVerwijderActiviteit = document.getElementById(&#39;selectVerwijderActiviteit&#39;); const selectUpdateActiviteit = document.getElementById(&#39;selectUpdateActiviteit&#39;);获取（&#39;data/activiteiten.json&#39;） .then（（response）=&gt; response.json（）） .then（（activiteiten）=&gt; { selectVerwijderActiviteit.innerHTML = &#39;&#39;; selectUpdateActiviteit.innerHTML = &#39;&#39;; let options = []; for（let i = 0; i &lt; activiteiten.length; i++） { let option = document.createElement（&#39;option&#39;）; const date = new Date（activiteiten[i].datum）; option.innerHTML = `${date.getFullYear()}-${formatData(date.getMonth() + 1)}-${date.getDate()} ${date.getHours()}:${formatData(date.getMinutes())} - ${activiteiten[i].activiteit}`; options.push（option）; } for（let i = 0; i &lt; options.length; i++) { selectVerwijderActiviteit.append(options[i]); selectUpdateActiviteit.append(options[i]); } }) .catch((error) =&gt; console.log(error)); 函数 formatData(data) { if (data &lt; 10) { return `0${data}`; } return data; } &lt;/script&gt; &lt;select id=&quot;selectVerwijderActiviteit&quot; class=&quot;mb-2&quot; required&gt; &lt;/select&gt; &lt;select id=&quot;selectUpdateActiviteit&quot; required&gt; &lt;/select&gt;  这是 JSON 文件： [ { &quot;datum&quot;: &quot;2023-05-23T12:00&quot;, &quot;activiteit&quot;: &quot;Ochtend bezoek&quot;, &quot;persoon&quot;: &quot;Sanne&quot;, &quot;naastenVan&quot;: &quot;Marga&quot; }, {&quot;datum&quot;: &quot;2023-06-12T12:00&quot;, &quot;activiteit&quot;: &quot;Avond bezoek&quot;, &quot;persoon&quot;: &quot;Janne&quot;, &quot;naastenVan&quot;: &quot;Thomas&quot; } ]  提前致谢！    提交人    /u/Katjaaa_   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我一直在尝试使用存储在 JSON 文件中的数组来用选项填充两个选择。 JavaScript 似乎可以很好地从 JSON 文件接收数组。然而，当涉及到填充框时，似乎只填充了一项选择。有什么想法吗？ 这是 JavaScript/HTML 代码：  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d1zrd6/select_not_updating/</guid>
       <pubDate>Mon, 27 May 2024 19:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为盲人前端 Web 开发人员的前端网站/Web 应用程序设计文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d1zmia/frontend_siteweb_app_design_docs_as_a_blind/</link>
-      <description><![CDATA[大家好，这个问题是针对本子中的盲人网络开发人员的。当设计师向您提供包含构建网站或网络应用程序所需的所有规范的设计文档时，您如何处理？据推测，这些模型和诸如此类的东西大多是在像Figma这样的视觉效果中完成的，所以你只是得到一个带有文本描述的规格的Word文档或PDF吗？或者你做别的事吗？我真的很好奇它是如何工作的。   由   提交 /u/ThatWeirdPomegranate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d1zmia/frontend_siteweb_app_design_docs_as_a_blind/</guid>
-      <pubDate>Mon, 27 May 2024 19:21:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
