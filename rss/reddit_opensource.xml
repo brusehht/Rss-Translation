@@ -4,9 +4,16 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 00:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 03:14:09 GMT</lastBuildDate>
     <item>
-      <title>如何营销 OSS 软件包</title>
+      <title>有人有兴趣制作开源 RTOS 吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</link>
+      <description><![CDATA[标题，我可能最终会自己做，但一路上有其他人提供帮助会更容易。如果人们感兴趣，我会制作一个不和谐服务器，我们可以讨论它！   由   提交/u/catpetter777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d29p8e/would_anybody_be_interested_in_making_an_open/</guid>
+      <pubDate>Tue, 28 May 2024 03:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何营销 OSS 包</title>
       <link>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</link>
       <description><![CDATA[   链接即将推出。我正在开发一个 NodeJS/Typescript 友好的包，以单元测试友好的方式读取环境变量。它提供验证、转换功能以及日志记录。  最大的动机是测试基于环境变量的 lambda 表达式的困难。它简单易用。没有 500 页的手册。 如何激发对 NPM 包的兴趣？   由   提交 /u/Top-Difference8407   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>文件查找 |一个简单的文件搜索实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</link>
-      <description><![CDATA[因此，过去两年我一直致力于我的第一个更大的开源项目。现在它已经达到了某种程度的稳定状态，并推出了第一个候选版本。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。文件查找也无法连接到互联网。  您可以查看它： https://github .com/Pixel-Master/File-Find  或访问网站：https ://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。当从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没弄清楚。 如果您能尝试一下并报告问题，那就太好了。  &amp;# 32；由   提交 /u/PixelMqster   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我花了两年时间致力于我的第一个大型开源项目。现在，它的第一个候选版本已经达到了某种稳定状态。  使用文件查找，您可以轻松查找文件并过滤结果。在搜索结果中，您可以找到重复的文件或将它们与其他搜索结果进行比较。此外，文件查找不连接到互联网。  您可以在以下位置查看它：  https://github.com/Pixel-Master/File-Find  或访问网站： https://pixel-master.github.io/File-Find/ 它目前适用于 macOS 和 Windows。从源代码构建时，它与 Linux 兼容，但由于某种原因，二进制文件只能在本地系统上运行。我还没有弄清楚。 如果您尝试一下并报告问题，那将非常友善。    提交人    /u/PixelMqster   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16mg8/file_find_a_simple_filesearch_utility/</guid>
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
       <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何替代或更新的 uad（通用 Android debloater）分支？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</link>
-      <description><![CDATA[官方仓库已经死了好几个月了，我只是试图卸载我的 Android 手机中的一些臃肿的系统应用程序，但“卸载选择”却被删除了。按钮没有给出任何反应，所以......什么也没有发生。因为我已经使用过它很多次并且过去它工作得很好......所以我不认为我这边有什么问题。  &amp;# 32；由   提交/u/Biggus_Niggus_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</guid>
-      <pubDate>Sun, 26 May 2024 10:52:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
