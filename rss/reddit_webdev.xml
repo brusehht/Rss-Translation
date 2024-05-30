@@ -3,14 +3,49 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 30 May 2024 12:22:46 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 30 May 2024 15:13:27 GMT</lastBuildDate>
     <item>
-      <title>Firebase 身份验证问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d42ck9/firebase_authentication_problem/</link>
-      <description><![CDATA[大家好， 我正在按照教程了解如何将 Firebase 身份验证添加到我的 Web 应用程序 (https://www.youtube.com/watch?v=WM178YopjfI)，但是我遇到了困难。 创建 Firebase 项目后，我通过 CDN 使用 SDK 配置将代码导入到 js 文件中。这是为我生成的行： import { initializeApp } from &quot;https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js&quot;; import { getAuth, createUserWithEmailAndPassword } from &quot;https://www.gstatic.com/firebasejs/10.12.1/firebase-auth.js&quot;  以上内容来自 firebase 库 (https://firebase.google.com/docs/web/learn-more#available-libraries)。无法创建帐户，更改数字以使其匹配只会显示其他错误。 有人能帮帮我吗？我在网上找不到答案，我快疯了……     提交人    /u/camusdmc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d42ck9/firebase_authentication_problem/</guid>
-      <pubDate>Thu, 30 May 2024 12:01:49 GMT</pubDate>
+      <title>如何优化媒体查询</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d465ug/how_to_optimize_media_querries/</link>
+      <description><![CDATA[我对媒体查询还比较陌生。我之前做过一个 iphone 14 pro 版本的项目，但我真的必须对几乎所有的设备都这样做吗？是否有包括 90% 设备的阈值？欢迎反馈    由   提交  /u/RayGunny178   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d465ug/how_to_optimize_media_querries/</guid>
+      <pubDate>Thu, 30 May 2024 15:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管个人网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d451fz/hosted_personal_website/</link>
+      <description><![CDATA[所以我有一个我之前购买的模板/网页（我知道我知道……但我不是设计师所以……哈哈）但我很好奇： 对于那些拥有自己的网页的人，您使用什么来托管它们？我对 AWS 不是很熟悉，但我确实有一个 53 号路线名称，我每年为此支付 12 美元，我正在考虑使用它。 有没有关于自托管类似内容的指南？我购买的模板/网站非常静态，所以我想我可以将其扔进 s3 存储桶或其他地方？ 如果这不属于这里，请原谅。    提交人    /u/mercfh85   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d451fz/hosted_personal_website/</guid>
+      <pubDate>Thu, 30 May 2024 14:13:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法通过电子邮件或短信等微软团队发送消息？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d450n5/is_there_a_way_to_send_messages_through_microsoft/</link>
+      <description><![CDATA[我正在尝试将 Microsoft Teams 添加为通知选项，用户是否有办法使用 Microsoft 登录并在 Teams 中获取消息？    提交人    /u/isaacfink   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d450n5/is_there_a_way_to_send_messages_through_microsoft/</guid>
+      <pubDate>Thu, 30 May 2024 14:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关本地企业高效网站设置的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d44jto/seeking_advice_on_efficient_website_setup_for/</link>
+      <description><![CDATA[大家好， 我有一个关于为本地企业建立高效网站的问题。我并不是严格意义上的无代码用户，但我正在探索各种选项来简化流程。 一家本地企业联系我，希望我建立一个既可以用作登录页面又可以用作商店的网站。具体来说，他们需要一个带有某种跟踪功能的点击收集系统，最好是通过第三方服务。我可以自己编写代码，但我没有找到任何第三方工具来集成，而且这需要太多时间，预算也不够。我一直在考虑使用 Shopify 或 Webflow（可能还有 WooCommerce）等 CMS 平台来满足这些要求。 除了点击收集功能外，客户还希望能够轻松访问网站来编辑菜单和价格，而无需技术专业知识。 以下是我的问题：  无代码工具：你们中是否有人使用 Framer 或 Webflow 等无代码工具来进行这些类型的项目？它们在客户易用性方面表现如何？ 最佳实践：在这些平台上设置点击收集系统是否有任何最佳实践或技巧？ 建议：您会为这种情况推荐哪个平台以及为什么？  非常感谢您能分享的任何见解或经验！    提交人    /u/IMCulturedSwine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d44jto/seeking_advice_on_efficient_website_setup_for/</guid>
+      <pubDate>Thu, 30 May 2024 13:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有小型数据库的 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d43xwv/chrome_extension_with_small_database/</link>
+      <description><![CDATA[我将开始开发一个我认为相当简单的项目，我正在寻找一些关于如何存储每个用户数据的指导。这是一个 chrome 扩展，允许语言学习者将他们在浏览器中看到的单词添加到词库并查询有关他们的词库的一些信息。因此，存储的数据只是一堆单词、添加它们的日期时间以及一些标签。  我已经确定数据太多，无法容纳 Chrome 的存储 API，而且我认为用户将文件存储在本地会不方便，因为您只能从一台计算机访问您的词库。我的理解是，这让云存储成为正确的选择，但我不确定最直接的方法是什么。     提交人    /u/tedlywinks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d43xwv/chrome_extension_with_small_database/</guid>
+      <pubDate>Thu, 30 May 2024 13:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>敏捷软件开发团队必备的 5 种工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1d435v8/5_musthave_tools_for_agile_software_development/</link>
+      <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1d435v8/5_musthave_tools_for_agile_software_development/</guid>
+      <pubDate>Thu, 30 May 2024 12:44:36 GMT</pubDate>
     </item>
     <item>
       <title>我不喜欢目前雇主的工作。如何向未来的雇主解释这一点？</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[您好，我是初学者，我想养成良好的编程习惯，但是网上有太多不同的信息，每个网站的做法也不同。老实说，我很困惑，有些网站使用 &lt;nav&gt; 标签，有些只使用 div 作为导航，有些使用常规 div 作为主要内容，而有些则使用 &lt;main&gt; 标签，页眉标签和页脚也是一样，从我在线搜索的内容来看，使用页眉标签似乎对 SEO 有好处，因此我是否应该始终将其包含在我制作的每个网站中，这是一种良好做法，还是视情况而定？    提交人    /u/Fun_Jellyfish_5944   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1d3zz1i/what_are_good_html_habits/</guid>
       <pubDate>Thu, 30 May 2024 09:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管/部署个人全栈博客项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d3zjvv/hostingdeployment_solo_full_stack_blog_project/</link>
-      <description><![CDATA[大家好， 目前正在为一个朋友开发一个项目，也把它当作一次学习经历。基本上在 Wix 上有一个博客，想把它移走，功能几乎相同。我可以做到这一点，但对部署方面一无所知。  带有 REST API 的 Express 后端 - 基本完成 Postgres 数据库 React CMS（用于编写和管理博客文章、用户、分析和其他内容） - 基本完成 React 前端（虽然可能会切换到 Next 进行 SSR，但还不确定，这部分还没有太多原型）  预计流量不会太高，根据目前的分析，每天有几百名访问者。 现在不确定在哪里可以尽可能便宜地托管东西。我可以将 React 部分放在 Cloudflare 页面或类似的东西上，然后就结束了，数据库有很多选择，但是后端呢？ 像 Render 这样的简单 PaaS 提供商，像 DigitalOcean 这样的 VPS？认为值得选择 AWS EC2/Beanstalk 甚至深入研究 lambdas 吗？真的没有经验，所以无论哪种方式都会是一次学习经历，尽管不想太过于参与长期的积极管理/维护它。    提交人    /u/MyGFthinkssheisacat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d3zjvv/hostingdeployment_solo_full_stack_blog_project/</guid>
-      <pubDate>Thu, 30 May 2024 08:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以创建一个强制隐身/私人浏览的链接吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d3ze0w/can_i_create_a_link_that_forces_incognitoprivate/</link>
-      <description><![CDATA[有人知道有什么方法可以通过链接（直接向上或作为按钮命令）强制浏览器在隐私浏览中打开新页面吗？ 我有一个后端页面，一些帐户管理员可以登录客户页面寻求帮助和设置。 但这会导致他们自己的凭据被注销并由客户帐户替换。虽然这不是一个大问题，但这很烦人，因为他们有时会参考自己的帐户，并且很生气他们不能同时查看两个帐户，需要反复登录和退出。 当然，我已经告诉他们使用不同的浏览器/配置文件来保持登录到他们和客户的帐户，但他们很固执，公平地说，这种解决方法没有什么直观的... 所以我想要的是当按下后端的登录按钮时发送一个命令，浏览器应该以隐身模式打开登录链接。因为这样会更安全，因为没有保存任何凭据，并且帐户管理员可以随心所欲地同时查看 2 个帐户。 有什么建议吗？ 目前它看起来是这样的： &lt;button name=&quot;state&quot; value=&quot;{action:&quot;login&quot;,userid:&quot;GUID-blablabla-lots-of-numbers-and-letters-blabla&quot;&gt;login&lt;/button&gt;    submitted by    /u/SEO_Vampire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d3ze0w/can_i_create_a_link_that_forces_incognitoprivate/</guid>
-      <pubDate>Thu, 30 May 2024 08:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>figma 如何在开始页上制作这些视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d3yld2/how_is_figma_doing_those_videos_on_the_start_page/</link>
-      <description><![CDATA[我刚刚检查了 figma 起始页的 dom，看到它们的动画在画布元素内渲染。知道这是怎么做到的吗？ 我喜欢它！    提交人    /u/stoefln   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d3yld2/how_is_figma_doing_those_videos_on_the_start_page/</guid>
-      <pubDate>Thu, 30 May 2024 07:47:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否一醒来就立即想到了自己正在开发的项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d3y3wy/do_you_wake_up_and_immediately_think_about_the/</link>
-      <description><![CDATA[我不知道，但我发现自己 24/7 都在思考我的项目。在我职业生涯的早期（当我刚刚开始学习时），我注意到了这种强迫性思维。我其实对此很高兴，因为我认为这会帮助我更快更好地学习，就像某种令人毛骨悚然的神经可塑性触发器之类的。 但现在，我更多地处于“应用知识”阶段，而不仅仅是学习。所以我想知道，你的脑海里有多少次充满了与开发相关的想法？也许这是正常的，我只是还没有习惯？    提交人    /u/w333l   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d3y3wy/do_you_wake_up_and_immediately_think_about_the/</guid>
-      <pubDate>Thu, 30 May 2024 07:11:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 上的 Safari PWAs 是否存在与电子应用程序相同的资源消耗问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1d3y21g/do_safari_pwas_on_macos_have_same_resource/</link>
-      <description><![CDATA[我知道 safari 会在选项卡之间管理资源以提高效率，这就是为什么 Notion 和 Canva 等应用程序在 safari 选项卡上运行时比在 electron 应用程序上运行时资源消耗低得多的原因。 PWAs 在这方面是如何运作的？safari 是否将 PWAs 视为“选项卡”并相应地管理其资源，还是它们更像 electron 应用程序，在后台运行自己的 webkit 引擎实例？    提交人    /u/Your_Vader   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1d3y21g/do_safari_pwas_on_macos_have_same_resource/</guid>
-      <pubDate>Thu, 30 May 2024 07:07:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
