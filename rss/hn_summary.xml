@@ -4,103 +4,100 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 31 May 2024 06:07:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 12:12:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 伊丽莎白·卢比奥回顾了《X 档案》中的达娜·史卡利对她产生的深远影响 [...]</title>
-      <link>https://t.me/hn_summary/92401</link>
-      <description><![CDATA[史卡利效应
-伊丽莎白·鲁比奥回顾了《X档案》中的达娜·史卡利对她的生活和事业的深远影响。鲁比奥在 90 年代长大，她被史卡利的角色所吸引——一个逻辑清晰、才华横溢的 FBI 科学家——她也同样受到《沉默的羔羊》中克拉丽斯·史达琳的启发。这些榜样激励她从事生物学事业，引导她研究遗传学并从事生物技术工作。这种现象被称为“史卡利效应”，极大地影响了她这一代的许多女性进入 STEM 领域。尽管鲁比奥最终从科学转向写作，但她仍然致力于在作品中促进多元化的代表性，强调想象力在塑造现实中的重要性。]]></description>
-      <guid>https://t.me/hn_summary/92401</guid>
-      <pubDate>Fri, 31 May 2024 06:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 标题：关于平台工程的误解：它是什么，不是什么</title>
-      <link>https://t.me/hn_summary/92400</link>
-      <description><![CDATA[关于平台工程的误解：它是什么，它不是什么
-标题：关于平台工程的误解：它是什么，它不是什么
+      <title>[媒体] 网站：www.loom.com</title>
+      <link>https://t.me/hn_summary/92433</link>
+      <description><![CDATA[显示 HN：向您的 Google 表格提问
+标题：显示 HN：向您的 Google 表格提问 
+网站：www.loom.com
 
-网站：cloud.google.com
+Loom 推出了一项创新功能，允许用户直接向他们的 Google 表格提问。此工具利用高级数据处理提供即时答案，提高工作效率并简化数据分析。但是，一些用户报告说 Loom 目前的运行速度比平时慢。如果此问题仍然存在，建议用户联系支持人员寻求帮助。这项新功能是一种巧妙的集成，简化了工作流程并使数据交互更加直观。]]></description>
+      <guid>https://t.me/hn_summary/92433</guid>
+      <pubDate>Fri, 31 May 2024 12:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 科学家预测，到2040年，全球近一半的电力将由可再生能源提供。</title>
+      <link>https://t.me/hn_summary/92432</link>
+      <description><![CDATA[超导计算机
+科学家预测，到 2040 年，全球近一半的电力将被计算所消耗，这一数字甚至还没有考虑到最近生成式人工智能的激增。超导体在低温下无阻力导电，为即将到来的能源危机提供了一个有希望的解决方案。在 Imec，我们使用标准 CMOS 工具开发了超导处理单元，实现了比当今最好的芯片高 100 倍的能效。这项技术可以彻底改变数据中心，将一个数据中心的计算能力装入鞋盒大小的系统中。我们的方法涉及全栈创新，从材料到架构设计，确保可扩展性和可制造性。虽然超导技术不会取代 CMOS，但它将对其进行补充，特别是在人工智能和机器学习应用中，提供一条可持续发展的道路。 （基于 92% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/92432</guid>
+      <pubDate>Fri, 31 May 2024 12:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 如果您拥有一款搭载 Z170 或 Z270 芯片组的英特尔主板，您可能会认为它只有 [...]</title>
+      <link>https://t.me/hn_summary/92431</link>
+      <description><![CDATA[Kapton 胶带破解英特尔的反升级技巧
+如果您拥有配备 Z170 或 Z270 芯片组的英特尔主板，您可能会认为它仅支持英特尔第 7 代 Kaby Lake 之前的 CPU。尽管英特尔声称由于插槽针脚差异，较新的 CPU 无法工作，但您实际上可以通过一些 Kapton 胶带修复和 BIOS 修改（称为“Coffee Mod”）使第 8 代或第 9 代 Coffee Lake CPU 工作。此修改甚至可以与较旧的 CPU 保持兼容。与支持旧主板上各种 CPU 的 AMD 不同，英特尔似乎有意引入了这种不兼容性。各种论坛和 YouTube 视频详细介绍了修改过程，其中一些非常简单。然而，英特尔未来的项目（如 BootGuard）可能会通过要求数字签名的 BIOS 映像来阻碍此类修改，表面上是为了用户安全，但很可能是出于财务原因。]]></description>
+      <guid>https://t.me/hn_summary/92431</guid>
+      <pubDate>Fri, 31 May 2024 11:51:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：habitscroll.web.app</title>
+      <link>https://t.me/hn_summary/92430</link>
+      <description><![CDATA[向 HN 展示：我制作了一个 21 世纪的习惯追踪器来对抗无意识的滚动
+标题：向 HN 展示：我制作了一个 21 世纪的习惯追踪器来对抗无意识的滚动
+网站：habitscroll.web.app
 
-在开发领域，开发人员门户 UI 通常会掩盖底层开发人员平台。与内部开发人员平台不必要的误解相反，大多数组织已经拥有一个，尽管形式零散，如“文书工作作为平台”或“人员作为平台”。平台工程将这些流程细化为软件，增强 DevOps 实践，而无需每个团队都是 DevOps 专家。与平台工程只是高级 DevOps 或简单自动化的误解不同，它将 DevOps 实践集成到一个有凝聚力、可扩展的系统生命周期中。平台工程远非一时兴起的趋势，而是解决了 DevOps 过载和开发人员摩擦等现实问题，旨在简化工作流程并减少认知负荷。]]></description>
-      <guid>https://t.me/hn_summary/92400</guid>
-      <pubDate>Fri, 31 May 2024 05:59:41 GMT</pubDate>
+探索滚动的力量。HabitScroll 利用世界上最容易上瘾的技术让您保持参与。这款创新的习惯追踪器将无意识的滚动行为转变为培养积极习惯的有效工具。 HabitScroll 旨在利用人们熟悉且经常强迫性的滚动操作，将常见的数字干扰转化为个人成长的力量。巧妙之处在于重新利用通常被视为有害的行为，使其成为一种独特且具有变革性的习惯养成方法。]]></description>
+      <guid>https://t.me/hn_summary/92430</guid>
+      <pubDate>Fri, 31 May 2024 11:41:50 GMT</pubDate>
     </item>
     <item>
-      <title>我本周早些时候提到的“feed reader score”服务现在已上线。</title>
-      <link>https://t.me/hn_summary/92399</link>
-      <description><![CDATA[Feed 阅读器评分服务现已上线
-我本周早些时候提到的“Feed 阅读器评分”服务现已上线。一些用户已经收到了他们独特的代码和入门说明。我们大约在一天前开始记录请求的元数据，现在正在生成报告。早期发现表明，Feed 阅读器标准存在很大差异。例如，在 17 小时的分析中，所有 34 个请求都破坏了 If-Modified-Since 值，导致数据使用冗余。平均轮询间隔为 17-18 分钟，导致每天约有 45 个请求和 25 MB 的冗余数据。如果您想加入，请发送反馈。对于表示感兴趣但没有提供电子邮件的人，请再试一次。]]></description>
-      <guid>https://t.me/hn_summary/92399</guid>
-      <pubDate>Fri, 31 May 2024 05:58:31 GMT</pubDate>
+      <title>问 HN：您个人是如何保持健康的？</title>
+      <link>https://t.me/hn_summary/92429</link>
+      <description><![CDATA[问 HN：您个人如何保持健康？
+随着年龄的增长，我逐渐意识到积极保持身体健康的重要性，尤其是因为我花了无数的时间坐在办公桌前。虽然我认为自己既不健康也不健康——我保持均衡饮食、定期体检和经常散步——但我很少有意识地锻炼身体。我很好奇我们这个以科技为中心、久坐不动的社区里其他人的健身习惯。你们都是如何保持健康的？]]></description>
+      <guid>https://t.me/hn_summary/92429</guid>
+      <pubDate>Fri, 31 May 2024 11:31:35 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：掌握统计学最好的书是什么？</title>
-      <link>https://t.me/hn_summary/92398</link>
-      <description><![CDATA[问 HN：哪本书最适合掌握统计学？
-标题：问 HN：哪本书最适合掌握统计学？
-网站：news.ycombinator.com
+      <title>[媒体] 网站：krita.org</title>
+      <link>https://t.me/hn_summary/92428</link>
+      <description><![CDATA[Krita 25 周年
+标题：Krita 25 周年
+网站：krita.org
 
-我很后悔在大学时没有学习统计学，因为我的老师英语不好。现在，我觉得有必要赶上进度。哪本书最适合彻底理解统计学？]]></description>
-      <guid>https://t.me/hn_summary/92398</guid>
-      <pubDate>Fri, 31 May 2024 05:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在过去的几个月里，我与 EBV Elektroni 的 Gianluca Filippini 合作 [...]</title>
-      <link>https://t.me/hn_summary/92397</link>
-      <description><![CDATA[YOLOv5 在 FPGA 上与 Hailo-8 和 4 个 Pi 摄像头配合使用
-在过去的几个月里，我与 EBV Elektronik 的 Gianluca Filippini 和 Mario Bergeron 合作开展了一个令人兴奋的多摄像头机器视觉项目。Gianluca 最初在 2022 年与我联系，他有兴趣将我们的 FPGA Drive FMC 与 Hailo-8 AI 加速器和 Zynq UltraScale+ MPSoC 配合使用。目标是利用 Hailo-8 的高吞吐量 PCIe 接口实现高效的 AI 模型执行，为图像处理保留 FPGA 资源。我们开发了一个在四台 Raspberry Pi 相机上运行 YOLOv5 的演示，由 Hailo-8 加速，将在 Embedded World 2024 上展出。这篇文章详细介绍了系统的架构，包括捕获和显示管道，并强调了使用 VVAS 和视频编解码器单元 (VCU) 进行硬件加速的性能优势。
+为庆祝 Krita 25 周年，这篇文章回顾了它从 1998 年作为 KImageShop 诞生到现在成为深受喜爱的数字绘画应用程序的历程。最初，该项目面临一些挫折，包括名称的法律问题和多次开发停滞。作者于 2003 年加入，并于 2004 年成为维护者，他讲述了挑战和里程碑，例如从 Qt3 过渡到 Qt4、Wacom 平板电脑的首次筹款以及专注于为数字艺术家创建工具的关键决定。尽管遭遇了大税收灾难和 Covid-19 的影响等挫折，Krita 仍取得了显着增长，发布了众多版本、成功的 Kickstarter 活动并拥有了忠实的用户群。随着 Krita 5.3 和即将推出的 Krita 6.0 的持续开发，未来前景一片光明。
 
-令人惊讶/巧妙的方面：巧妙地使用 Hailo-8 AI 加速器从 FPGA 卸载神经网络处理，显着提高性能和效率。
+争议亮点：帖子提到与 KOffice 开发人员的“无休止的冲突”，这严重消耗了资源。
 
-争议点：对 AMD Xilinx 深度学习处理器单元 (DPU) 高资源消耗和低于标准性能的批评可能会引发 FPGA 爱好者的争论。（基于 51% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/92397</guid>
-      <pubDate>Fri, 31 May 2024 05:17:40 GMT</pubDate>
+独特/聪明的亮点：作者幽默地指出，Krita 最初的种子是因为他们想在笔记本电脑上为奇幻小说绘制地图而种下的。]]></description>
+      <guid>https://t.me/hn_summary/92428</guid>
+      <pubDate>Fri, 31 May 2024 11:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Firefly 是一家专注于通过“基础设施和云资产管理”进行云资产管理的初创公司 [...]</title>
-      <link>https://t.me/hn_summary/92396</link>
-      <description><![CDATA[Firefly 在联合创始人被哈马斯谋杀后继续前进
-Firefly 是一家通过“基础设施即代码”解决方案专门从事云资产管理的初创公司，在强劲需求和 2023 年收入增长四倍的推动下，已筹集 2300 万美元资金。这一成功是在 2023 年 10 月的 Nova 音乐节上哈马斯谋杀联合创始人 CTO Joseph “Sefi” Genis 的悲剧之后取得的。Firefly 成立于 2021 年 COVID-19 数字化转型浪潮期间，通过使用 AI 技术自动发现和修复问题，帮助组织管理复杂的云环境。尽管由于客户担忧而禁用了一些 AI 功能，但 Firefly 的目标是成为权威的云控制面板。此轮融资由 Vertex 领投，Hanaco、SoftBank、InMotion Ventures 和 Redseed 参投。这场悲剧激励团队实现 Genis 的愿景，从而实现了显著增长并对未来充满信心。Nova 音乐节上的袭击引发了加沙地区一场备受争议的战争，凸显了企业和个人在更大规模冲突中复杂且往往不可避免的参与。]]></description>
-      <guid>https://t.me/hn_summary/92396</guid>
-      <pubDate>Fri, 31 May 2024 05:09:27 GMT</pubDate>
+      <title>2022 年 4 月，我购买了一台新的 M1 MacBook Pro，经过两年多的日常繁重工作 [...]</title>
+      <link>https://t.me/hn_summary/92427</link>
+      <description><![CDATA[Apple Silicon MacBook 电池无法由第三方在保修期内更换
+2022 年 4 月，我购买了一台新的 M1 MacBook Pro，经过两年多的日常大量使用，电池的最大容量已降至 78%，促使我提出维修建议。与我之前的 Intel MacBook Pro 不同，我在当地的 Apple 授权服务提供商处更换了两次电池，但当我得知 Apple 现在要求 Apple Silicon MacBook 的电池更换需要邮寄服务时，我感到震惊。作为依靠 MacBook Pro 开展业务的独资经营者，这项政策对我非常不方便。Apple 的新政策不仅损害了客户，也损害了第三方维修店，并且缺乏合理的理由。保修期外的电池更换费用高昂，部分原因是苹果将电池与顶壳和键盘捆绑在一起，使流程变得复杂且昂贵。这一变化让人想起蒂姆·库克承认，简单的 iPhone 电池更换降低了销量，这表明这些限制性政策背后有利润驱动的动机。]]></description>
+      <guid>https://t.me/hn_summary/92427</guid>
+      <pubDate>Fri, 31 May 2024 11:00:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 翻译卡夫卡面临着独特的挑战，因为他的作品的情感和音乐凝聚力[...]</title>
-      <link>https://t.me/hn_summary/92395</link>
-      <description><![CDATA[尝试新翻译卡夫卡作品的特殊挑战
-翻译卡夫卡作品面临着独特的挑战，因为他作品的情感和音乐凝聚力深深地嵌入到每一个单词和句子中。卡夫卡对米莱娜·耶森斯卡捷克语译本的赞扬凸显了他对译者任务的深刻理解。现代译者在很大程度上要归功于威拉和埃德温·缪尔，他们的优雅翻译将卡夫卡介绍给了英语读者。然而，当代译者可以更自由地扩展英语，以捕捉卡夫卡朴素的音乐和独特的声音。卡夫卡的风格受到其法律写作的影响，从庄严到电影化，他清晰、冷静的语气增强了他故事的神秘感。译者必须理解卡夫卡的长句、不断变化的视角以及“调味剂”的精确使用。我对精选短篇小说的翻译遵循德国评论版，旨在反映卡夫卡的文体细微差别，让读者深入了解他的创作过程和对其作品的多种解读。]]></description>
-      <guid>https://t.me/hn_summary/92395</guid>
-      <pubDate>Fri, 31 May 2024 05:08:21 GMT</pubDate>
+      <title>问 HN：如何在 2024 年在多个接收器上播放同步音频？</title>
+      <link>https://t.me/hn_summary/92426</link>
+      <description><![CDATA[问 HN：如何在 2024 年在多个接收器上播放同步音频？
+在 Hacker News 上的一篇题为“问 HN：如何在 2024 年在多个接收器上播放同步音频？”的帖子中，作者重温了他们上次在 2010 年探索的一项挑战：在多个接收器上同步音频。尽管已经过去了 14 年，但他们仍然感到沮丧，因为仍然没有一个简单的解决方案（例如 ESP32 模块）来实现这一点。作者提到有两个空池和几个大型低音炮，暗示他们希望创建一个强大的音频设置。令人惊讶的是，这一领域缺乏进展，凸显了技术进步方面的差距，许多人可能认为现在这个差距已经解决了。]]></description>
+      <guid>https://t.me/hn_summary/92426</guid>
+      <pubDate>Fri, 31 May 2024 10:53:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 年轻选民对美国极其失望。</title>
-      <link>https://t.me/hn_summary/92394</link>
-      <description><![CDATA[“一个由坏人领导的垂死帝国”：年轻选民对美国政治感到绝望
-根据民主党公司 Blueprint 的一项新民意调查，年轻选民对美国政治极为失望，他们认为大多数政客都是腐败的，而且这个国家正在衰落。这项对 943 名 18-30 岁登记选民的民意调查显示，49% 的人认为选举不能代表他们，51% 的人认为政治制度不适合他们，64% 的人认为美国正在衰落。令人惊讶的是，65% 的人同意几乎所有政客都是腐败的。这种情绪对乔·拜登来说是一个挑战，他正在努力获得 Z 世代和年轻千禧一代的支持。此外，新冠疫情还留下了持久的负面影响，51% 的受访者在疫情之前感觉更幸福，77% 的受访者认为疫情让国家变得更糟。Blueprint 首席民意调查员 Evan Roth Smith 强调，政客们需要承认并解决这些问题，尤其是围绕经济和通胀的担忧。]]></description>
-      <guid>https://t.me/hn_summary/92394</guid>
-      <pubDate>Fri, 31 May 2024 04:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 随着 KDE Plasma 6 的出现，一群专门的开发人员继续维护 KDE [...]</title>
-      <link>https://t.me/hn_summary/92393</link>
-      <description><![CDATA[Trinity 让 KDE 3 继续生存
-随着 KDE Plasma 6 的出现，一群专门的开发人员继续通过 Trinity 桌面环境 (TDE) 维护 KDE 3 体验。TDE 起源于 2008 年 KDE 4.0 发布时出现的问题，自 2010 年以来一直在发布更新，最新版本是 R14.1.2。虽然 TDE 提供了一个具有低资源使用率和广泛可配置性的复古桌面，但它在现代系统上面临限制，例如 HiDPI 显示器的问题和过时的网络设置。TDE 包括经典的 KDE 应用程序，其中一些应用程序在今天已经过时或无关紧要。尽管它对 KDE 3 爱好者很有吸引力，但 TDE 可能不适合需要现代桌面体验的用户。]]></description>
-      <guid>https://t.me/hn_summary/92393</guid>
-      <pubDate>Fri, 31 May 2024 04:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 将程序配置与代码分开至关重要，特别是对于非程序员来说 [...]</title>
-      <link>https://t.me/hn_summary/92392</link>
-      <description><![CDATA[如何使用 Bash 解析配置文件
-将程序配置与代码分开至关重要，尤其是对于需要在不修改程序代码的情况下更改设置的非程序员而言。虽然像 Bash 这样的 shell 脚本本质上是开放的，因为它们未经编译，但非程序员直接编辑它们仍然有风险。相反，将配置项放入文本文件中是一种更安全的方法。
+      <title>[媒体] 探索 cybersec 上最大的网络安全工具和资源精选目录 [...]</title>
+      <link>https://t.me/hn_summary/92425</link>
+      <description><![CDATA[我创建了最大的网络安全工具和资源精选目录
 
-Bash 提供了一种称为“sourcing”的简单方法，用于将外部文件包含到脚本中，类似于编译语言中的 include 语句。此方法通过创建 main 脚本和 data 文件，然后在 main 脚本中获取 data 文件来设置变量来演示。 
-
-此外，Bash 的启动过程涉及多个配置文件，如 /etc/profile 和 ~/.bashrc，可以跟踪这些文件以了解初始化顺序。
-
-总之，source 是管理 Bash 中配置的有效方法，它将代码与变量赋值分开，使非程序员更容易调整设置。]]></description>
-      <guid>https://t.me/hn_summary/92392</guid>
-      <pubDate>Fri, 31 May 2024 04:20:23 GMT</pubDate>
+在 cybersectools.com 上探索最大的网络安全工具和资源精选目录，以增强您的安全实践。这个全面的目录旨在帮助您找到适合您特定网络安全领域需求的正确解决方案。无论您是专业人士还是新手，此资源都旨在提供有价值的工具和信息来加强您的网络安全工作。版权所有 © 2024 - 保留所有权利。]]></description>
+      <guid>https://t.me/hn_summary/92425</guid>
+      <pubDate>Fri, 31 May 2024 10:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 埃拉·菲茨杰拉德彻底改变了美国歌曲集，改变了音乐表演[...]</title>
+      <link>https://t.me/hn_summary/92424</link>
+      <description><![CDATA[艾拉·菲茨杰拉德的天才
+艾拉·菲茨杰拉德彻底改变了美国歌曲集，用她创新的诠释和即兴表演改变了音乐表演。菲茨杰拉德以即兴演唱而闻名，她的方法使她成为一个“音乐实验室”，改变了表演的可能性。尽管她拥有音乐天赋，但评论家们往往只关注她的外表，质疑她对歌词的理解，有些人认为她与比莉·霍利戴等同龄人相比缺乏深度。朱迪思·蒂克的传记《成为艾拉·菲茨杰拉德》探讨了这些批评以及菲茨杰拉德所面临的傲慢态度，尤其是来自白人评论家的批评。在诺曼·格兰兹的管理下，菲茨杰拉德的事业一路飙升，但她一直在与种族和智力偏见作斗争。然而，她的表演始终不辜负这些贬低，展示了她重新构思旋律和挑战传统标准的能力。（基于 79% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/92424</guid>
+      <pubDate>Fri, 31 May 2024 10:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
