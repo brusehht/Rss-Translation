@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 02 Jun 2024 15:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 18:16:39 GMT</lastBuildDate>
+    <item>
+      <title>我应该开源这个吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d6i63q/should_i_open_source_this/</link>
+      <description><![CDATA[我猜想我上一篇帖子被自动屏蔽了，是因为我提到了某家公司。 无论如何，我已经开发了一种新颖的 AI 框架，并且正在考虑是否将其开源。我写了一个相当深入的解释，但既然它被删除了，我就不想再浪费时间写它了。主要问题是，我是否应该冒险让一项潜在的基础技术在公共领域发展，在那里它可能会被公司吸收并可能被滥用。或者，我应该申请专利并将其置于我的控制之下，但允许对其进行免费的开源开发？ 你会怎么做？我们如何才能使其成为一个公开控制和资助的开源 GPL 环境，在字面意义上，不允许商业控制或接管？ 有什么想法建议吗？    提交人    /u/printr_head   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d6i63q/should_i_open_source_this/</guid>
+      <pubDate>Sun, 02 Jun 2024 17:16:22 GMT</pubDate>
+    </item>
     <item>
       <title>Ronynn Weather：一款使用 wttr api 和玻璃态设计美学的天气应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1d6awyt/ronynn_weather_a_weather_app_using_wttr_api_with/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>DeepFusion：一个高度模块化的深度学习框架。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d50kxz/deepfusion_a_highly_modular_deep_learning/</link>
-      <description><![CDATA[大家好，我是斯坦福大学的一名学生，由于身体原因，我处于间隔年，为了利用这段时间学习深度学习。 瞧…… 我开发了一个深度学习库，DeepFusion！ 它是可定制的，并且具有易于访问且高度直观的代码库。人们可以直接深入研究并轻松理解源代码。 您可以从以下位置下载： - github https://github.com/atharvaaalok/deepfusion - 或使用 pip install deepfusion 安装（简单！） 有关解释用法和功能的一系列示例，请参阅 demo 或 教程。 欢迎提出任何建议，并非常感谢您的贡献！    提交人    /u/atharvaaalok1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是斯坦福大学的一名学生，由于身体原因，我处于间隔年，为了利用这段时间，我学习了深度学习。 瞧…… 我开发了一个深度学习库，DeepFusion！ 它是可定制的，并且具有易于访问且高度直观的代码库。人们可以直接深入研究并轻松理解源代码。 您可以从以下位置下载： - github https://github.com/atharvaaalok/deepfusion - 或使用 pip install deepfusion 安装（简单！） 有关解释用法和功能的一系列示例，请参阅 demo 或 教程。 欢迎提出任何建议，并非常感谢您的贡献！    提交人    /u/atharvaaalok1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d50kxz/deepfusion_a_highly_modular_deep_learning/</guid>
       <pubDate>Fri, 31 May 2024 17:03:30 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是一名初级开发人员，我很乐意为开源软件项目做出贡献。但我不知道如何开始。 感谢您的阅读！    由   提交  /u/bbanndditt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d4ou76/how_should_i_start_contributing_open_source/</guid>
       <pubDate>Fri, 31 May 2024 06:11:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 BSD0 或 MIT 许可下的开源劳动力管理和调度以及资产管理软件有什么建议？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d4nyzh/suggestions_for_open_source_workforce_management/</link>
-      <description><![CDATA[嗨， 我正在寻找用于劳动力管理、调度和资产管理的开源软件。  这是我需要的： 可定制：理想情况下，我可以使用 JavaScript 或 Python 进行调整。 移动访问：应该有一个移动应用程序，或者很容易转变为 PWA。 可货币化：如果客户使用它，许可证应该允许我将其货币化。 长话短说，我的运营团队需要它，但由于我们也以顾问的身份为客户提供支持，我们有几家小公司，我相信如果我们能以低成本为他们创建一个单独的实例（包括管理和备份），这些公司将真正受益。    提交人    /u/Born-Display6918   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d4nyzh/suggestions_for_open_source_workforce_management/</guid>
-      <pubDate>Fri, 31 May 2024 05:15:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
