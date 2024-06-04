@@ -4,11 +4,32 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 04 Jun 2024 00:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 03:14:54 GMT</lastBuildDate>
+    <item>
+      <title>配音艺术家曲目</title>
+      <link>https://www.reddit.com/r/editors/comments/1d7lz4f/overdubbing_artlist_track/</link>
+      <description><![CDATA[大家好！我从 artlist 中找到了一首我非常喜欢的曲目，但我想给它添加一点动态。（这是一首简单的钢琴曲目，我想添加一个 pad）。如果我添加一些乐器以在 YouTube 上使用，会违反条款吗？    提交人    /u/Tinned_Fishies   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d7lz4f/overdubbing_artlist_track/</guid>
+      <pubDate>Tue, 04 Jun 2024 02:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>混合帧率编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1d7lahb/mixed_framerate_editing/</link>
+      <description><![CDATA[我正在编辑一个项目，其中包含两组不同帧速率（25p、50p）的素材，最终交付物必须是 50p，才能同时包含这两种帧速率而不会出现卡顿。 我开始在 50p 时间轴上进行编辑，并注意到一个问题：当我在 25p 素材上进行编辑时，由于 50p 时间轴中的 25p 素材每帧都会创建一个重复帧，有时我会在重复帧之间进行剪切，本质上是让 25p 镜头“提前剪切”，如果这有任何意义的话。我遇到的另一个问题是速度提升；每次我将 25p 镜头的速度提升 200% 时，它现在看起来就像 50p 镜头，因为时间轴的帧速率增加了一倍。不过，我已经能够通过色调分离时间解决这个问题。 虽然从感知上看，我没有注意到任何异常。我担心上线后，当我将 LC 交给音频和调色师时，提供 50p 时间线会不会对他们的工作流程造成问题？现在以 25p 进行编辑，然后在线将其更改为 50p 会更好吗？对于这样的项目，最好的后期制作工作流程是什么？任何建议都将不胜感激！ PC 规格：AMD Threadripper 3970x、128gb RAM、RTX 4080 Super 软件：Premiere Pro 2024 素材：ARRI ALEXA MINI 4k ProRes 4444 25p，未知网络摄像头素材 1080p 50p    提交人    /u/Some_Membership3677   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d7lahb/mixed_framerate_editing/</guid>
+      <pubDate>Tue, 04 Jun 2024 01:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>离开低薪工作后感到内疚</title>
+      <link>https://www.reddit.com/r/editors/comments/1d7klv8/feeling_guilty_about_leaving_low_pay_gig/</link>
+      <description><![CDATA[在经济不景气期间，我与一位才华横溢的导演合作了一些制作精良的项目，使我的投资组合更上一层楼。在此之前，我的投资组合主要是社交媒体工作，我希望尽快离开那个领域。问题是他们支付的报酬非常非常低，很多项目根本没有报酬。但坦率地说，工作质量是我做过的最好的。这位导演接触了很多才华横溢的人，他们愿意以很少的钱来提升他们的投资组合，这样我们（包括我自己）就可以保持敏锐的技艺，时机恰到好处。但现在我正在编辑一个专题，因为我的新雇主对我最近与这位导演的合作非常满意。现在我又能拿到不错的薪水，我有点内疚，想要正式离开这位导演，他虽然很有才华，但没有资本公平地支付我工资，他承诺“以后”按照我的工资支付我工资，但并没有实现。总的来说，我觉得我从这次经历中得到了我需要的东西。有什么想法吗？    提交人    /u/HelpfulCourse2748   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1d7klv8/feeling_guilty_about_leaving_low_pay_gig/</guid>
+      <pubDate>Tue, 04 Jun 2024 00:55:24 GMT</pubDate>
+    </item>
     <item>
       <title>奇怪的首映问题</title>
       <link>https://www.reddit.com/r/editors/comments/1d7g7p8/weird_premiere_issue/</link>
-      <description><![CDATA[大家好，这个问题我已经遇到一段时间了，我真的不知道问题是什么，这只是原始素材，没什么特别的，或者是一些疯狂的编解码器。我已经用这个好几年了，但直到最近才开始出现这种情况。  就像时间线完全冻结并使我的整个首映滞后 3-4 秒然后再次修复，这主要发生在我导航时间线（放大/缩小等）时，并且当它这样做时它也会持续使我的 CPU 最大化几秒钟。 有人知道这里可能是什么问题吗？ 规格：3060 TI，i9 13900KS，32gb ram 首映版本：24.4.1  我尝试过：重新启动电脑，重新安装首映，使用不同的首映版本，在 CPU 上涂抹新的导热膏，删除媒体缓存，重置首选项，打开 gpu 渲染（CUDA）（已编辑）    提交人    /u/dylanhalder   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，这个问题我已经遇到一段时间了，我真的不知道问题是什么，这只是原始素材，没什么特别的，或者是一些疯狂的编解码器。我已经用这个好几年了，但直到最近才开始出现这种情况。  就像时间线完全冻结并使我的整个首映滞后 3-4 秒然后再次修复，这主要发生在我导航时间线（放大/缩小等）时，并且当它这样做时它也会持续使我的 CPU 最大化几秒钟。 有人知道这里可能是什么问题吗？ 规格：3060 TI，i9 13900KS，32GB ram 首映版本：24.4.1  我尝试过：重启电脑，重新安装首映，使用不同的首映版本，在 CPU 上涂抹新的导热膏，删除媒体缓存，重置首选项，打开 gpu 渲染（CUDA）（已编辑）    提交人    /u/dylanhalder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d7g7p8/weird_premiere_issue/</guid>
       <pubDate>Mon, 03 Jun 2024 21:31:52 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>实际表演艺术家的免版税音乐，而非制作音乐</title>
       <link>https://www.reddit.com/r/editors/comments/1d7aqzl/royalty_free_music_with_actual_performing_artists/</link>
-      <description><![CDATA[大家好！希望我没有违反任何规则，至少我找不到任何规则。我一直在潜水，发现很多帖子都说想要免费且比大多数网站更好的音乐。我经营着一个精品音乐库，音乐来自当地的独立制作人，刚好有 600 首歌曲，涵盖多种流派，超过一半是器乐。实际的音乐库尚未公开（目前），因为我们比任何人都更了解我们的每首歌曲，我们更愿意根据视频或简介发送我们的最佳建议。我们还将其直接同步到视频以进行快速预览！如果有人感兴趣，请跳到 DM，我们可以从那里开始。干杯！     提交人    /u/VictorMih   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！希望我没有违反任何规则，至少在这种情况下我找不到任何规则。我一直在潜水，发现很多帖子都说想要免费且比大多数网站更好的音乐。我经营着一个精品音乐库，音乐来自当地的独立制作人，刚好有 600 首歌曲，涵盖多种流派，超过一半是器乐。实际的图书馆尚未公开（目前），因为我们比任何人都更了解我们的每首歌曲，我们更愿意根据视频或简介发送我们的最佳建议。我们还将其直接同步到视频以进行快速预览！如果有人感兴趣，请跳到 DM，我们可以从那里开始。干杯！     提交人    /u/VictorMih   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d7aqzl/royalty_free_music_with_actual_performing_artists/</guid>
       <pubDate>Mon, 03 Jun 2024 17:53:53 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>客户端硬盘</title>
       <link>https://www.reddit.com/r/editors/comments/1d75oc9/clients_hard_drive/</link>
-      <description><![CDATA[什么时候可以要求客户的硬盘并将其擦除以供个人使用？在过去的一年中，我一直在为一个提供硬盘的客户工作，而我在完成项目时从未要求归还硬盘，至今仍未付款给我。此时，我拥有自去年六月以来一直持有的硬盘。我很抱歉擦除了它们，因为硬盘上的信息不属于我，但如果我全年都在努力归还它们却没有成功，那么现在它们就只能归我所有了吗？如果硬盘上的内容很重要，他们会更努力地找回它，对吗？ 更新：去年 11 月，我通过 Google Drive 提交了最终版本，但没有收到客户的回复。我多次发消息询问我什么时候能拿到工资，他们什么时候想拿到存有镜头的硬盘等等。后来发现客户参军了，直到三月份才可以做任何事情。三月来临，我给他们发了信息，他们说，哦，你能给我到六月份我回城的时间吗...六月到了，客户联系我，说他们会在城里待到星期一，然后再出发。我要求他们找个合适的时间见面...没有回应。现在是星期一，还是没有消息...所以我觉得我现在已经很包容了。    提交人    /u/Professional_Cup9094   [link] [评论]]]></description>
+      <description><![CDATA[什么时候可以要求客户的硬盘并将其擦除以供个人使用？在过去的一年中，我一直在为一个提供硬盘的客户工作，而我在完成项目时从未要求归还硬盘，至今仍未付款。此时，我拥有自去年六月以来一直持有的硬盘。我很抱歉擦除了它们，因为硬盘上的信息不属于我，但如果我全年都在努力归还它们却没有成功，那么现在它们就只能归我所有了吗？如果硬盘上的内容很重要，他们会更努力地找回它，对吗？ 更新：去年 11 月，我通过 Google Drive 提交了最终版本，但没有收到客户的回复。我多次发消息询问我什么时候能拿到工资，他们什么时候想拿到存有镜头的硬盘等等。后来发现客户参军了，直到三月份才可以做任何事情。三月来临，我给他们发了信息，他们说，哦，你能给我到六月份我回城的时间吗...六月到了，客户联系我，说他们会在城里待到星期一，然后再出发。我要求他们找个合适的时间见面...没有回应。现在是星期一，还是没有消息...所以我觉得我现在已经很包容了。    提交人    /u/Professional_Cup9094   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d75oc9/clients_hard_drive/</guid>
       <pubDate>Mon, 03 Jun 2024 14:23:34 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我使用过许多不同的音频源，我发现平衡它们很耗时。常规标准化不起作用，因为它们的质量不同，而且我发现没有办法根据响度自动平衡。现在（在 Premiere Pro 中）我限制为 -10，然后将混音音量增加到 8，然后必须用响度雷达观察整个过程。有没有办法更自动地完成这种方式？提前致谢    提交人    /u/SuperDazza   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d71t77/any_tips_on_how_to_balance_audioloudness_when/</guid>
       <pubDate>Mon, 03 Jun 2024 11:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问专业人士 - 每周 - 星期一 2024 年 6 月 3 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1d6zz5y/ask_a_pro_weekly_monday_mon_jun_03_2024_no_stupid/</link>
-      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域的工作，那么您的问题应该放在这里 什么样的问题适合这个帖子？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将我的费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。 欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d6zz5y/ask_a_pro_weekly_monday_mon_jun_03_2024_no_stupid/</guid>
-      <pubDate>Mon, 03 Jun 2024 09:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮局招聘礼仪？求职者提出的问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1d6zx4u/post_house_hiring_etiquette_questions_from_a/</link>
-      <description><![CDATA[我目前在洛杉矶的后期制作公司找工作。我最近在一家后期制作公司的数据 I/O 部门工作了一年多，直到二月份我被解雇。从那时起，我一直在努力找工作。 我看到公司 3 招聘数据 I/O 技术员（与我前雇主的职位几乎完全相同），所以我申请了。我有一个内部联系人，他告诉我，他把我的名字给了他数据部门的一个朋友，大约一周前，那个朋友又把我的名字告诉了他。我应该如何跟进？ 我曾想过明天带着我的简历和推荐人名单过来，但我怕吓跑他们。我应该再等一段时间再做这件事吗？我是不是应该根本不这样做？ 我一直听到一般的职业/求职建议，坚持是关键，但现在市场竞争激烈，在这种情况下，一些一般性建议可能会被抛到九霄云外。 一些行业资深人士可以提供一些意见吗？    提交人    /u/Elite_PS1-Hagrid   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d6zx4u/post_house_hiring_etiquette_questions_from_a/</guid>
-      <pubDate>Mon, 03 Jun 2024 08:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业视频的盒装音乐</title>
-      <link>https://www.reddit.com/r/editors/comments/1d6ytbm/box_music_for_corporate_videos/</link>
-      <description><![CDATA[嘿！ 我为工业品牌制作信息/案例影片。 这类视频最好的音乐网站是什么？ 我觉得我尝试过的所有音乐网站都只提供“史诗奇幻预告片音乐/YouTube教程陈词滥调”。 我想要一些类似于通用库的东西。 我试过：Epidemic Envato YouTube 音乐 Artlist     提交人    /u/Clueless-Editor   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d6ytbm/box_music_for_corporate_videos/</guid>
-      <pubDate>Mon, 03 Jun 2024 07:32:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
