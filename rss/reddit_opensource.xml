@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 04 Jun 2024 21:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 00:54:13 GMT</lastBuildDate>
+    <item>
+      <title>Mike Karels 去世</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d88tq9/mike_karels_has_passed_away/</link>
+      <description><![CDATA[        提交人    /u/dh23   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d88tq9/mike_karels_has_passed_away/</guid>
+      <pubDate>Tue, 04 Jun 2024 21:32:31 GMT</pubDate>
+    </item>
     <item>
       <title>码头工人之子</title>
       <link>https://www.reddit.com/r/opensource/comments/1d7x3oj/sons_of_the_docker/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      大家好，我刚刚加入这个小组，因为我有一些问题。我打算在公司回收之前弄到一些旧路由器和交换机，这样我就可以试着在家里练习我的网络技能。它们似乎有 10 到 15 年的历史了。如果它们还能正常工作，是否可以选择在它们上面安装开源软件？是否有 Cisco、Trendnet、Dell 和 Netgear 的开源选项？这些是我要买的品牌。如果可能的话，给它们注入一些新的活力会很酷。     提交人    /u/BrianBooher   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d73k3w/old_network_gear/</guid>
       <pubDate>Mon, 03 Jun 2024 12:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>BalvanChat - 使用 Python 开发的 E2E 加密桌面聊天应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d72atu/balvanchat_e2e_encrypted_desktop_chat_app_made_in/</link>
-      <description><![CDATA[嗨， 几周前，我将一个玩具 Python 项目推送到 GitHub，它就像一个聊天应用程序，但没有中间人。它就像是 Windows 的 telnet，具有 E2E 加密功能。我用它设计系统和 UI 真的很开心。它教会了我很多关于 Python 模块化设计的知识。 我刚刚更新了 UI，使其更加用户友好，所以我想也许其他人会喜欢它。 无论如何，它在这里 :): https://github.com/xxzoltanxx/Balvan-Chat/    提交人    /u/Reasonable-Zone-7909   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d72atu/balvanchat_e2e_encrypted_desktop_chat_app_made_in/</guid>
-      <pubDate>Mon, 03 Jun 2024 11:39:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
