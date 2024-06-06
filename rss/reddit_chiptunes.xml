@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 18:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 21:13:18 GMT</lastBuildDate>
+    <item>
+      <title>W (famitracker 原创歌曲)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1d9t7sg/w_famitracker_original_song/</link>
+      <description><![CDATA[      这是一首使用 VRC6、VRC7 制作的歌曲， 2A03 和 MMC5 芯片。我为一个我认识的人写的。我原本想做一个音乐盒声音，但我无法让它听起来正确，所以我选择了久经考验的芯片音乐声音。希望您挖掘并喜欢和订阅，或者如果可以的话发表评论。谢谢    提交人    /u/jammin_on_the_one_   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1d9t7sg/w_famitracker_original_song/</guid>
+      <pubDate>Thu, 06 Jun 2024 21:09:45 GMT</pubDate>
+    </item>
     <item>
       <title>我使用 Furnace Tracker 上的 NES 和 Gameboy 音效芯片制作的巫师主题曲调</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1d9ohvc/wizard_themed_tune_i_made_using_both_the_nes_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我不擅长使用追踪器，所以我正在试验 mGB 的功能。您觉得如何？您使用过 mGB 吗？ 这让 mGB 在 Analogue pocket 上的 GBC 核心中运行。MIDI 模式下的 Nanoloop USB 电缆连接到 OP-Z，具有完整的 CC 控制。OP-Z 还提供嗡嗡声和弦以及混响/延迟。 我唯一没有使用此设置解决的问题就是琶音和滑音。可能是 mGB 的限制。    提交人    /u/Just_some_throw_away   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1d7s7jf/aquatic_ambience_mgb_x_opz_cover_chilllofi/</guid>
       <pubDate>Tue, 04 Jun 2024 08:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>拳皇 - MD（日本）适用于 Genesis Mega Drive</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1d73w2a/the_king_of_fighters_md_japan_for_genesis_mega/</link>
-      <description><![CDATA[       由    /u/DiggoSilva  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1d73w2a/the_king_of_fighters_md_japan_for_genesis_mega/</guid>
-      <pubDate>Mon, 03 Jun 2024 13:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
