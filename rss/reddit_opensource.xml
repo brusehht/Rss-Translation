@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 07 Jun 2024 09:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 12:24:41 GMT</lastBuildDate>
+    <item>
+      <title>用 Python 制作的跨平台 Chroot REPL/Shell</title>
+      <link>https://www.reddit.com/r/opensource/comments/1da6c3r/crossplatform_chroot_replshell_made_in_python/</link>
+      <description><![CDATA[      大家好！这是我在尝试弄清楚是否可以使用 Python 中的基本 chroot 步骤（os.chroot、os.chdir）在 Python 中实现 chroot REPL/shell 时启动的一个 chroot 项目的展示 最终制作了一个可工作的 chroot REPL，带有可自定义的提示符 + CLI 参数解析，哈哈 不确定这是否可以被视为 shell，但我测试了从 TUI 运行其他 shell，它们都可以工作 Bash 可以工作，ssh 也可以工作 也与 Windows 交叉兼容，但 Windows 不使用 chroot，因此它更像是通过 chdir() 实现的虚拟&quot;chroot&quot;，但似乎工作得很好 这是存储库：Thanatisia/py-chroot 请随时告诉我您的想法！  我已经用它的原始用例对其进行了测试 - chroot 到我挂载的一个根目录，这给了我这个想法（它有效）    提交人    /u/Cybasura   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1da6c3r/crossplatform_chroot_replshell_made_in_python/</guid>
+      <pubDate>Fri, 07 Jun 2024 09:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>自由软件开发的中介潜力</title>
       <link>https://www.reddit.com/r/opensource/comments/1da60zk/the_potential_of_mediation_for_free_software/</link>
       <description><![CDATA[  由    /u/TheEberhardt  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1da60zk/the_potential_of_mediation_for_free_software/</guid>
       <pubDate>Fri, 07 Jun 2024 08:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能和机器学习</title>
-      <link>https://www.reddit.com/r/opensource/comments/1da5oqa/ai_and_machine_learning/</link>
-      <description><![CDATA[大家好，有人有兴趣更深入地学习人工智能和机器学习、深度学习等主题吗？我是人工智能的初学者，但希望扩展我在该领域的知识并提高 Python 水平。如果您有兴趣，请在下面发表评论，我会直接留言给您。    提交人    /u/MrMyagi007   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1da5oqa/ai_and_machine_learning/</guid>
-      <pubDate>Fri, 07 Jun 2024 08:25:43 GMT</pubDate>
     </item>
     <item>
       <title>使用我的文件管理器脚本让你的 Mac 井然有序！</title>
