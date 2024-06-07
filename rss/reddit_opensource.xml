@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 06 Jun 2024 21:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 00:56:48 GMT</lastBuildDate>
+    <item>
+      <title>寻找具有 CSV 导入选项的自托管日历</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d9xbgj/looking_for_a_self_hosted_calendar_with_csv/</link>
+      <description><![CDATA[您好， 是否有带有 CSV 导入选项的自托管日历，比如我可以从 csv 文件将事件导入日历？ 提前致谢    提交人    /u/hamoudo180   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d9xbgj/looking_for_a_self_hosted_calendar_with_csv/</guid>
+      <pubDate>Fri, 07 Jun 2024 00:11:34 GMT</pubDate>
+    </item>
     <item>
       <title>Purism（FOSS 友好型手机和硬件的创造者）2023 年财务报告，三年内收入增长 350%，公司实现盈利</title>
       <link>https://www.reddit.com/r/opensource/comments/1d9hcbc/purism_creator_of_foss_friendly_phones_and/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>在开源还未成熟时进行推广是一个好主意吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d8knts/is_it_a_good_idea_to_promote_an_open_source/</link>
-      <description><![CDATA[我正在努力推广我的新开源项目，但我面临一个两难境地： 由于我的项目仍处于早期阶段，它只能执行基本操作，甚至有些功能运行不佳。 但是，我计划采用“渐进式”方法，通过修复报告的问题和添加新功能来不断改进项目，而不是等待一次性发布功能齐全的版本。 问题是，我意识到大多数人不会倾向于过早地参与开源，他们不愿花太多时间报告单个问题，如果他们遇到错误或发现它不支持“他们认为应该工作的功能”，他们就会完全忽略该项目，并且永远不会回来。 这从一开始就破坏了我最初的计划：他们没有报告任何问题，因此没有我想象中的进展。 我觉得我只是在浪费时间我把宝贵的时间花在推广上，而不是专注于项目的实际开发。 尽管如此，我相信推广早期项目是有好处的。众所周知，无论是什么产品或 MVP，总是需要用户反馈来改进。我们不可能一下子做出完美的东西，所以推广在某个时候是必要的。 所以我列出了我能想到的推广早期开源的利弊： 优点：  来自用户的快速反馈，使我们能够确保我们朝着正确的方向前进。 增加知名度。我越早推广，人们就越有可能看到它。 建立一个早期的用户社区，这可能会让早期的贡献者。你知道，他们是无价的。  缺点：  如果用户遇到严重的错误，他们可能会失去兴趣，从而错失参与的机会。 （记住：他们不会回来。） 维护人员的资源和时间消耗效率低下。（你和我） 我的项目可能由于其有限的功能而看起来不如其他现有的完善的解决方案，从而导致推广吸引力降低。  我有兴趣听听你对这一挑战的看法或经验。你遇到过类似的问题吗？如果是，你是如何解决的？    提交人    /u/Abiriadev   [link] [评论]]]></description>
+      <description><![CDATA[我正在努力推广我的新开源项目，但我面临一个两难境地： 由于我的项目仍处于早期阶段，它只能执行基本操作，甚至有些功能运行不佳。 但是，我计划采用“渐进式”方法，通过修复报告的问题和添加新功能来不断改进项目，而不是等待一次性发布功能齐全的版本。 问题是，我意识到大多数人不会倾向于过早地参与开源，他们不愿花太多时间报告单个问题，如果他们遇到错误或发现它不支持“他们认为应该工作的功能”，他们就会完全忽略该项目，并且永远不会回来。 这从一开始就破坏了我最初的计划：他们没有报告任何问题，因此没有我想象中的进展。 我觉得我只是在浪费时间我把宝贵的时间花在推广上，而不是专注于项目的实际开发。 尽管如此，我相信推广早期项目是有好处的。众所周知，无论是什么产品或 MVP，总是需要用户反馈来改进。我们不可能一下子做出完美的东西，所以推广在某个时候是必要的。 所以我列出了我能想到的推广早期开源的利弊： 优点：  来自用户的快速反馈，使我们能够确保我们朝着正确的方向前进。 增加知名度。我越早推广，人们就越有可能看到它。 建立一个早期的用户社区，这可能会让早期的贡献者。你知道，他们是无价的。  缺点：  如果用户遇到严重的错误，他们可能会失去兴趣，从而错失参与的机会。 （记住：他们不会回来。） 维护人员的资源和时间消耗效率低下。（你和我） 我的项目可能由于其有限的功能而看起来不如其他现有的成熟解决方案，从而导致推广吸引力降低。  我有兴趣听听你对这一挑战的看法或经验。你遇到过类似的问题吗？如果是，你是如何解决的？    提交人    /u/Abiriadev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d8knts/is_it_a_good_idea_to_promote_an_open_source/</guid>
       <pubDate>Wed, 05 Jun 2024 08:11:36 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[操作系统是一个如此庞大的话题，而我只是作为偶然用户熟悉它。我一直在努力理解它的文化/历史/使命，但我读到的东西却让我产生了更多的疑问（例如，他们是如何让人们花时间免费开发庞大的 LibreOffice 的？）与其让我在 youtube 上随机找到短视频或在 reddit 上阅读评论，您能否为我提供“初学者”资源，以了解开源的历史、使命以及人们如何组织软件制作？理想情况下，越简单越好——就好像您必须向孩子解释一样 :) 我是一个狂热的音频听众，所以也许您知道一个播客或一本书，您认为它可能会对我有所帮助。谢谢！我很惊讶我已经拥有了这么多开源项目，并且对制作它们的人心存感激（并且经常捐赠）。我不用再使用谷歌/苹果/微软的软件了。    提交人    /u/lshrtwll   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d8k89k/newbie_with_os_questions/</guid>
       <pubDate>Wed, 05 Jun 2024 07:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的，我要开源它</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d8hk1m/ok_so_im_going_to_open_source_it/</link>
-      <description><![CDATA[昨天我发帖询问我是否应该开源我正在开发的 ML/AI 项目。我有道德方面的顾虑，正如预期的那样，普遍的共识是开源它，感谢那些理解我的顾虑并且没有试图因为我辩论专利而强迫我的人。我的意图从来不是致富或利用它。它引起了团体外某人的关注，他试图通过操纵我来探听信息，我意识到我没有能力走上正道。我有一个组织不太好的私人 git 存储库，我想把这件事做好。  我也尊重我不知道自己在做什么，所以我愿意接受关于如何围绕我创建的这个框架建立一个社区驱动的公共导向人工智能研究社区的建议。特别是对构建自动自适应自调节神经网络的研究。 我希望这不是我搬起石头砸我们或我自己的脚。     由    /u/printr_head 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d8hk1m/ok_so_im_going_to_open_source_it/</guid>
-      <pubDate>Wed, 05 Jun 2024 04:41:39 GMT</pubDate>
     </item>
     <item>
       <title>我对开源目标的现状以及对超越技术的希望......最接近开源汽车的东西？</title>
