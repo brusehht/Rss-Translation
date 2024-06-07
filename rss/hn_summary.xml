@@ -4,106 +4,118 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 14:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 17:59:48 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在《状态空间模型中的状态错觉》一书中，作者 William Merrill、Jackson Pet [...]</title>
-      <link>https://t.me/hn_summary/93679</link>
-      <description><![CDATA[状态空间模型中的状态错觉
-在《状态空间模型中的状态错觉》一文中，作者 William Merrill、Jackson Petty 和 Ashish Sabharwal 探讨了状态空间模型 (SSM) 作为大型语言模型 (LLM) 中 Transformer 架构的替代方案的理论局限性。尽管 SSM 的设计旨在解决顺序计算和状态跟踪问题，但作者表明，SSM 在表达能力方面并不比 Transformer 具有显著优势。这两种架构都受限于复杂度类 $\mathsf{TC}^0$，这意味着它们无法解决简单的状态跟踪任务，例如排列组合、棋步跟踪或代码评估。使用 Mamba 式 SSM 进行的实验结果支持了这些发现，表明 SSM 中的“状态”是一种幻觉，从根本上限制了它们在现实世界中的适用性。这挑战了 SSM 在处理状态相关任务方面的感知优势。]]></description>
-      <guid>https://t.me/hn_summary/93679</guid>
-      <pubDate>Fri, 07 Jun 2024 14:21:25 GMT</pubDate>
+      <title>[媒体] 网站：msrc.microsoft.com</title>
+      <link>https://t.me/hn_summary/93721</link>
+      <description><![CDATA[构建更快的 AMD64 Memset 例程 (2021)
+标题：构建更快的 AMD64 Memset 例程 (2021)
+网站：msrc.microsoft.com
+
+近年来，微软实施了多项改进以增强内存归零，包括 InitAll 缓解措施和将内核代码切换到 ExAllocatePool2/3 API。编译器现在尽可能展开对 memset 的调用，直接对静态确定的小尺寸执行存储操作，这比调用 memset 更快，因为开销减少了。对于较大或未知的大小，调用 memset 是首选，以利用特定于 CPU 的优化。
+
+Memset 是操作系统中的一个关键功能，尽管它已经进行了优化，但仍发现了进一步的改进。本博客详细介绍了优化 memset 的方法，重点是高效的存储操作和尽量减少分支预测错误。各种 Windows 组件和第三方驱动程序都使用了新的实现，但 Visual Studio 中的用户模式 ​​CRT 并未使用。
+
+对一系列 AMD 和 Intel CPU 进行的性能测试表明，memset 的性能在不同 CPU 代和供应商之间差异很大。关键的 CPU 概念（如多个端口、乱序执行和分支预测）对于理解这些优化至关重要。
+
+现有的 NT memset 函数效率低下，特别是对于 80 字节以下的大小，以及可能导致预测错误的几个分支点。优化的方法旨在通过热循环有效地处理大尺寸，并尽量减少较小尺寸的分支预测错误。编译器展开较小的 memset，优先考虑较大的 memset 以进行优化。
+
+现有实现中的一个值得注意的技巧是使用单个存储操作设置尾随字节，这比一次一个字节的循环更有效。此技巧在优化版本中得到进一步利用。
+
+争议：博客指出，性能观察可能并不适用于所有 CPU 代，这突出了 memset 性能的变化。
+
+独特/巧妙：使用单个存储操作设置大缓冲区中的尾随字节是一种巧妙的优化，可通过减少执行的指令数量来提高性能。（基于 25% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93721</guid>
+      <pubDate>Fri, 07 Jun 2024 17:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一位徒步旅行者最近发现，中国最高的瀑布，高 1000 英尺的云台山 [...]</title>
-      <link>https://t.me/hn_summary/93678</link>
-      <description><![CDATA[徒步旅行者发现中国最高的瀑布由管道供水
-
-最近，一位徒步旅行者发现，中国最高的瀑布——湖南国家公园 1,000 英尺高的云台山瀑布实际上是由管道供水的。当徒步旅行者到达山顶时，发现水从岩石表面的管道中流出，这一发现才得以揭晓。他记录这一发现的视频迅速走红，在社交媒体上获得了 2400 万次观看，并引发了热门话题“云台瀑布的起源只是一些管道”。这一令人惊讶的发现引起了公众的极大兴趣和讨论。]]></description>
-      <guid>https://t.me/hn_summary/93678</guid>
-      <pubDate>Fri, 07 Jun 2024 14:17:19 GMT</pubDate>
+      <title>[媒体] 2021 年，美国国家海洋和大气管理局莫纳罗亚大气基线观测站的大气二氧化碳水平 [...]</title>
+      <link>https://t.me/hn_summary/93720</link>
+      <description><![CDATA[在极端天气的一年中，二氧化碳水平激增速度超过
+2021 年，美国国家海洋和大气管理局莫纳罗亚大气基线观测站的大气二氧化碳水平创下历史新高，5 月份月均浓度达到 419 ppm。据美国国家海洋和大气管理局和加州大学圣地亚哥分校斯克里普斯海洋研究所的科学家报告，这是自 63 年前开始精确测量以来的最高水平。这一令人震惊的激增凸显了人类活动对全球气候的持续和加速影响。这座位于夏威夷大岛的观测站继续作为监测这些变化的关键地点。（2019 年夏威夷大岛观测站场地照片。图片来源：Susan Cobb/NOAA Research）]]></description>
+      <guid>https://t.me/hn_summary/93720</guid>
+      <pubDate>Fri, 07 Jun 2024 17:54:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2022 年末，我概述了联邦宇宙中端到端加密 (E2EE) 的需求，f [...]</title>
-      <link>https://t.me/hn_summary/93677</link>
-      <description><![CDATA[迈向联邦密钥透明度
-2022 年末，我概述了 Fediverse 中端到端加密 (E2EE) 的需求，重点是密钥管理。虽然密钥管理和批量加密相对简单，但公钥管理带来了重大挑战。集中式服务可以轻松管理公钥，但这种方法对于联邦系统来说是不安全的。WhatsApp 提出的密钥透明度是一种有前途的解决方案，可确保诚实并防止密钥替换。但是，为联邦系统扩展它很复杂。
-
-为了解决这个问题，我建议为 Fediverse 构建一个公钥目录，这将有利于 E2EE 和其他应用程序。该目录将支持添加、撤销和移动身份等关键操作，并将在初期使用 Ed25519 密钥，并计划在未来使用后量子算法。该系统将通过仅附加日志和见证共同签名来确保透明度和安全性。
-
-一个值得注意的挑战是 GDPR 合规性，需要用户名混淆来处理被遗忘权。尽管存在这些障碍，但拟议的目录旨在为安全的联合通信提供坚实的基础，而无需依赖加密货币。
-
-争议：联合系统中公钥管理的复杂性和 GDPR 合规性的必要性，使实施变得复杂。
-
-独特/聪明：该提案避免了加密货币依赖性，并利用密钥透明度来增强联合环境中的安全性和信任度。（基于 71% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/93677</guid>
-      <pubDate>Fri, 07 Jun 2024 14:04:10 GMT</pubDate>
+      <title>[媒体] Martin Nweeia 是一名牙医，对动物学和人类学有着浓厚的兴趣，他致力于 [...]</title>
+      <link>https://t.me/hn_summary/93719</link>
+      <description><![CDATA[一生热爱魅力独角鲸
+Martin Nweeia 是一名牙医，对动物学和人类学有着广泛的兴趣，他花了二十多年时间研究神秘的“海洋独角兽”独角鲸。他最初对人类牙齿的迷恋，后来逐渐发展为对独角鲸独特长牙的深入研究。Nweeia 的研究得到了众多资助，包括汇编土著知识、进行材料研究以及在独角鲸身上安装监测器以了解它们的感官能力。他的研究结果表明，长牙是一种感觉器官，挑战了之前认为它仅仅用于社会等级制度的观点。Nweeia 的工作强调了土著知识的重要性和北极研究的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/93719</guid>
+      <pubDate>Fri, 07 Jun 2024 17:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《平息全球咆哮》一书中，阿莫里娜·金登探讨了地下水的深远影响 [...]</title>
-      <link>https://t.me/hn_summary/93676</link>
-      <description><![CDATA[平息全球咆哮
-在《平息全球咆哮》一书中，阿莫里娜·金登探讨了水下噪音污染对海洋生物的深远影响，尤其是对圣劳伦斯河的影响。这篇文章改编自她的书《像鱼一样歌唱：声音如何统治水下生命》，描述了这条繁忙的水道，商业和休闲船只与包括白鲸在内的各种海洋物种共存。金登强调了人类产生的噪音如何破坏对海洋动物交流、交配和生存至关重要的自然音景。她强调了减轻这些影响的复杂性，并指出，虽然存在法规，但海上交通的庞大数量仍然带来重大挑战。文章巧妙地将泰杜沙克宁静的自然美景与过往船只的嘈杂噪音并列，强调了保护海洋生态系统的迫切需要。（根据 38% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/93676</guid>
-      <pubDate>Fri, 07 Jun 2024 14:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在“指令集应该是免费的：RISC-V 的案例”中，Krste Asanović 和 David A.</title>
-      <link>https://t.me/hn_summary/93675</link>
-      <description><![CDATA[指令集应免费：RISC-V 案例 [pdf](https://news.ycombinator.com/item?id=40608373)
-在“指令集应免费：RISC-V 案例”中，Krste Asanović 和 David A. Patterson 主张技术行业需要免费、开放的指令集架构 (ISA)。他们强调，ARM、IBM 和英特尔等公司控制的专有 ISA 由于许可流程昂贵且耗时，扼杀了创新和竞争。作者提出 RISC-V，一种由加州大学伯克利分校开发的免费、开放的 RISC ISA，是一种更好的替代方案。他们强调，RISC-V 的灵活性、经过验证的商业成功和开源特性可以推动更大的创新、降低成本并增强安全性。令人惊讶的是，他们断言专有 ISA 阻碍了技术进步，这一立场挑战了行业的现状。（基于 39% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/93675</guid>
-      <pubDate>Fri, 07 Jun 2024 13:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 TorontoJS 的一次闪电演讲中，我扩展了我的思考，强调了 [...] 的重要性。</title>
-      <link>https://t.me/hn_summary/93674</link>
-      <description><![CDATA[停止调整浏览器大小：改进响应性测试
-在 TorontoJS 的闪电演讲中，我强调了在浏览器开发工具中使用设备模式进行准确的移动和平板电脑测试的重要性，而不仅仅是调整浏览器大小。调整大小无法考虑视口高度、缩放级别、触摸事件、方向、用户代理字符串和设备像素比等关键因素。例如，Android 和 iOS 上的 Chrome 的视口高度不一致，与 CSS 的 100vh 不一致。我推荐使用 Responsively 和 BrowserStack 等工具来更好地模拟和在 CI 管道中进行视觉回归测试。最终，调整浏览器大小并不等同于在实际设备上进行真正的响应性测试。]]></description>
-      <guid>https://t.me/hn_summary/93674</guid>
-      <pubDate>Fri, 07 Jun 2024 13:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 展示 HN：您的互联网链接空间，每个链接都有一个描述。</title>
-      <link>https://t.me/hn_summary/93673</link>
-      <description><![CDATA[显示 HN：一个用于互联网链接的空间，每个链接都有一个描述。PWYW
-标题：显示 HN：一个用于互联网链接的空间，每个链接都有一个描述。PWYW
-网站：linkspace.bio
+      <title>[媒体] 在这篇详细的文章中，作者讲述了他们将 Apple T 改造成 [...] 的历程。</title>
+      <link>https://t.me/hn_summary/93718</link>
+      <description><![CDATA[Apple TV Go：USB-C Mod 如何打造基于 iPad 的 TvOS 工作站
+在这篇详细的文章中，作者讲述了他们将 Apple TV 4K 改造成便携式 tvOS 工作站（称为“Apple TV Go”）的历程。该项目的灵感来自 WWDC23 期间面临的限制，当时访问 tvOS 需要回到他们的公寓。作者使用 Voidbox Industries 的 USB-C Modkit 修改了 Apple TV 4K，使其能够通过 USB-C 供电。然后，他们使用 USB 视频捕获设备和模块化 Velcro 系统将此设置与 iPad Pro 集成，以实现便携性。本文还探讨了此设置在远程媒体控制和视频共享方面的潜力，包括与 Apple Vision Pro 和 FaceTime 的创新用途。
 
-Linkspace.bio 是一个平台，旨在托管最多 250 个指向您的社交媒体个人资料、产品、服务或商店的链接，每个链接都附有描述。该项目旨在为早期艺术家、内容创作者、家庭企业创始人和副业所有者提供一个集中的在线空间，以支持他们。该服务采用“随心付费”（PWYW）模式，让那些经济拮据的人也能享受到。该平台的独特方法将各种职业和爱好整合到一个统一的在线空间中，用一系列代表不同用户类型的表情符号来表示。]]></description>
-      <guid>https://t.me/hn_summary/93673</guid>
-      <pubDate>Fri, 07 Jun 2024 13:55:44 GMT</pubDate>
+有争议的方面：作者对硬件修改的风险发表了免责声明，强调他们的经验可能无法复制，并警告读者不要尝试类似的修改。
+
+独特/巧妙的元素：使用 Velcro 进行模块化设置以及通过 NDI 将 Apple TV 视频共享到 Apple Vision Pro 和 FaceTime 的创造性解决方法特别巧妙和创新。（基于 83% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/93718</guid>
+      <pubDate>Fri, 07 Jun 2024 17:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Promptframes：为人工智能时代而进化的线框</title>
-      <link>https://t.me/hn_summary/93672</link>
-      <description><![CDATA[Promptframes：为人工智能时代而进化的线框
-标题：Promptframes：为人工智能时代而进化的线框
-
-网站：www.nngroup.com
-
-摘要：
-在不断发展的用户体验设计领域，传统的占位符内容（如“lorem ipsum”）可能会阻碍有效的反馈。为了解决这个问题，引入了“promptframes”的概念，将线框与人工智能生成的内容提示合并在一起。 Promptframes 记录了生成式 AI 的内容目标和要求，使设计师能够快速创建逼真的占位符内容。这种方法增强了创意、内容保真度和协作，同时也注重业务和用户目标。通过在设计过程的早期集成 AI，promptframes 促进了快速迭代和有意义的用户测试，最终带来更精致、更可行的设计。（基于 76% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/93672</guid>
-      <pubDate>Fri, 07 Jun 2024 13:55:41 GMT</pubDate>
+      <title>[媒体] 在博洛尼亚市中心，Via Mariano Tuccella 是一条在任何地图上都找不到的街道，[...]</title>
+      <link>https://t.me/hn_summary/93717</link>
+      <description><![CDATA[地图上不存在的意大利街道
+在博洛尼亚市中心，Via Mariano Tuccella 是一条地图上不存在的街道，但那里却住着数百人。意大利各地都有类似的虚构街道，例如都灵的 1 Via della Casa Comunale 和罗马的 Via Modesta Valenti，那里居住着 19,000 多人。这些“vie fittizie”是在二战后创建的，旨在帮助地方当局将人口与土地联系起来，最初是为马戏团演员等旅行专业人士。如今，他们主要为无家可归者服务，提供获得权利和服务所需的官方地址。然而，该系统可能具有歧视性，一些城镇避免创建这样的街道，以阻止潜在的社会服务负担。尽管存在缺陷且有时还会遭到地方当局的抵制，但这一独特的意大利解决方案仍能帮助无家可归者维护自己的权利。]]></description>
+      <guid>https://t.me/hn_summary/93717</guid>
+      <pubDate>Fri, 07 Jun 2024 17:53:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如果您经常使用正则表达式 (regex)，您就会知道它们很快就会变得难以理解 [...]</title>
-      <link>https://t.me/hn_summary/93671</link>
-      <description><![CDATA[更好的正则表达式体验
-如果您经常使用正则表达式 (regex)，您就会知道它们很快就会变得难以理解。经过反复试验而完善的精心制作的字符串通常会在一两周内变得晦涩难懂。为了使正则表达式更易于维护，本文介绍了两种方法：添加注释和使用命名捕获组。通过启用注释标志 (?x)，您可以将正则表达式扩展到多行并添加注释，使其更清晰。但是，请谨慎使用转义字符，例如 # 和空格。命名捕获组（例如 (?[^:/]+)）可自行记录正则表达式并消除对位置引用的依赖。结合这些技术可以将复杂的正则表达式转换为更易读和更易于维护的代码。快乐地使用正则表达式！]]></description>
-      <guid>https://t.me/hn_summary/93671</guid>
-      <pubDate>Fri, 07 Jun 2024 13:55:36 GMT</pubDate>
+      <title>[媒体] 网站：www.wired.com</title>
+      <link>https://t.me/hn_summary/93716</link>
+      <description><![CDATA[谷歌和微软的人工智能聊天机器人拒绝透露谁赢得了 2020 年美国大选
+标题：谷歌和微软的人工智能聊天机器人拒绝透露谁赢得了 2020 年美国大选
+网站：www.wired.com
+
+微软的 Copilot 和谷歌的 Gemini 人工智能聊天机器人都回避确认乔·拜登总统在 2020 年美国总统大选中战胜唐纳德·特朗普。当被问及时，这两个聊天机器人都会将用户重定向到搜索引擎或声称他们仍在学习。这种行为适用于全球和历史上的所有选举结果。其他人工智能聊天机器人，如 OpenAI 的 ChatGPT-4、Meta 的 Llama 和 Anthropic 的 Claude，确实证实了拜登的胜利并提供了详细的选举信息。微软和谷歌的聊天机器人拒绝回答与选举相关的问题，而特朗普支持者不断毫无根据地声称选民存在欺诈行为。谷歌和微软表示，这些限制是出于谨慎考虑，并努力在 2024 年大选前改进工具。此前，微软的聊天机器人因传播错误信息和过时的选举数据而受到批评。]]></description>
+      <guid>https://t.me/hn_summary/93716</guid>
+      <pubDate>Fri, 07 Jun 2024 17:51:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：text2diagram.com</title>
-      <link>https://t.me/hn_summary/93670</link>
-      <description><![CDATA[显示 HN：文本中的技术图表：HTTPS://text2diagram.com/
-标题：显示 HN：文本中的技术图表：HTTPS://text2diagram.com/
-网站：text2diagram.com
+      <title>问 HN：机器学习工程师，您在工作中做什么？</title>
+      <link>https://t.me/hn_summary/93715</link>
+      <description><![CDATA[问 HN：机器学习工程师，你在工作中做什么？
+标题：问 HN：机器学习工程师，你在工作中做什么？
+网站：news.ycombinator.com
 
-Text2Diagram.com 提供一个使用 Mermaid 语法从文本创建技术图表的动态平台。该网站支持实时协作，允许用户使用可配置的文档权限实时创建和编辑图表。图表可以通过链接共享或嵌入到 Web 上，并自动更新以反映任何更改。用户还可以下载各种格式的图表，如 PNG、JPEG、SVG 或 WEBP。使用 Mermaid 语法可以轻松学习和自定义各种图表。该工具因其实时协作和无缝共享功能而特别独特。]]></description>
-      <guid>https://t.me/hn_summary/93670</guid>
-      <pubDate>Fri, 07 Jun 2024 13:54:30 GMT</pubDate>
+作者对机器学习工程师的日常生活感到好奇，希望深入了解他们的典型任务和项目。他们邀请该领域的专业人士分享有关他们工作的细节，旨在了解机器学习工程师一天的生活。这项调查旨在揭示他们的职责性质以及他们经常参与的项目类型。]]></description>
+      <guid>https://t.me/hn_summary/93715</guid>
+      <pubDate>Fri, 07 Jun 2024 17:50:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 练习蛋白质节奏——全天均匀分配蛋白质摄入量——以及 [...]</title>
+      <link>https://t.me/hn_summary/93714</link>
+      <description><![CDATA[间歇性禁食+蛋白质节奏可导致体重减轻和肠道健康
+亚利桑那州立大学的一项新研究表明，实行蛋白质节奏（全天均匀分配蛋白质摄入量）和间歇性禁食（将进食限制在特定时间）比单纯减少卡路里摄入对肠道健康、体重减轻和代谢反应产生更好的效果。该研究涉及 41 名超重或肥胖参与者，分为两组：一组采用有利于心脏健康的卡路里限制饮食，另一组采用类似的饮食，结合间歇性禁食和蛋白质节奏。八周后，后一组的肠道健康、体重减轻和体脂减少显着改善。该研究结果发表在《自然通讯》上，强调了健康肠道微生物群在控制肥胖和代谢疾病方面的关键作用。然而，间歇性禁食也存在争议，包括最近的一项研究表明，它可能会增加在八小时内进食的人患心血管疾病的风险。医学专家建议在开始间歇性禁食之前咨询医生，尤其是对于患有某些疾病的人。]]></description>
+      <guid>https://t.me/hn_summary/93714</guid>
+      <pubDate>Fri, 07 Jun 2024 17:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Webring Starter 是一个现代、简单的 webring 框架，旨在易于设置和使用，[...]</title>
+      <link>https://t.me/hn_summary/93713</link>
+      <description><![CDATA[Webring Starter：一个现代、简单的网络环
+Webring Starter 是一个现代、简单的网络环框架，旨在轻松设置和使用，允许用户通过共同兴趣进行连接。与传统的基于 CGI 脚本的网络环不同，该项目利用 Jekyll 和 GitHub Pages，只需要最少的 JavaScript。它支持现代互操作性标准，提供 Atom RSS 提要、OPML 文件和 FOAF 文件以供成员发现。不需要 JavaScript、Jekyll 或 Ruby 的高级知识；用户只需调整一些 YAML 和 JSON 文件。该项目使用标准 Jekyll 主题完全可定制。主要区别在于易于设置、现代标准支持和通过 GitHub Actions 自动部署。]]></description>
+      <guid>https://t.me/hn_summary/93713</guid>
+      <pubDate>Fri, 07 Jun 2024 17:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.lendingtree.com</title>
+      <link>https://t.me/hn_summary/93712</link>
+      <description><![CDATA[近 80% 的美国人认为快餐现在是一种奢侈品
+标题：近 80% 的美国人认为快餐现在是一种奢侈品
+网站：www.lendingtree.com
+
+根据 LendingTree 的一项新调查，猖獗的通货膨胀导致大多数美国人将快餐视为奢侈品，许多人吃快餐的频率减少了。这项对 2,000 多名成年人的调查显示，由于成本上涨，78% 的人现在认为快餐是一种奢侈品，62% 的人吃快餐的频率减少了。这种转变在低收入人群、有年幼孩子的父母、Z 世代和女性中尤为明显。令人惊讶的是，46% 的受访者认为快餐价格与堂食餐厅相当，22% 的受访者甚至认为快餐价格更贵。此外，人们对快餐店涨价和小费的担忧也很普遍，78% 的人担心涨价，44% 的人曾被要求给小费。Chick-fil-A 被认为是最高端的快餐连锁店，其次是星巴克和 Chipotle。尽管面临这些挑战，许多美国人仍然喜欢快餐，并正在寻找管理成本的方法，例如使用移动应用程序和奖励信用卡。
+
+争议：小费的引入和快餐店可能出现的涨价引发了消费者的极大担忧和强烈反对。
+
+令人惊讶/聪明：将快餐视为奢侈品及其与坐式餐厅相当的成本是一种重大的文化转变，凸显了通货膨胀对日常开支的影响。]]></description>
+      <guid>https://t.me/hn_summary/93712</guid>
+      <pubDate>Fri, 07 Jun 2024 17:32:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
