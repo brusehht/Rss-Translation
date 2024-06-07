@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Fri, 07 Jun 2024 12:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 15:14:14 GMT</lastBuildDate>
     <item>
-      <title>多特维C</title>
-      <link>https://www.opensourceagenda.com/projects/dotenv-c</link>
-      <description><![CDATA[用 C 编写的 .env 文件解析器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotenv-c</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:03 GMT</pubDate>
+      <title>Mern 员工薪酬管理</title>
+      <link>https://www.opensourceagenda.com/projects/mern-employee-salary-management</link>
+      <description><![CDATA[MERN 员工工资管理 (My SQL、Express、React 和 Nodejs) ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mern-employee-salary-management</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>Dotenv Mono</title>
-      <link>https://www.opensourceagenda.com/projects/dotenv-mono</link>
-      <description><![CDATA[此软件包允许在 monorepo 上拥有集中式 dotenv。它还包括一些额外功能，例如操作和保存对 dotenv 文件的更改、默认集中式文件以及具有排序和优先级的文件加载器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotenv-mono</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:03 GMT</pubDate>
+      <title>Kyegomez Python 包模板</title>
+      <link>https://www.opensourceagenda.com/projects/kyegomez-python-package-template</link>
+      <description><![CDATA[一个简单、可靠、流畅的 Python 包模板，包含文档、测试套件、自述文件、github 工作流、linting 等]]></description>
+      <guid>https://www.opensourceagenda.com/projects/kyegomez-python-package-template</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>API Rest 节点 SOLID</title>
-      <link>https://www.opensourceagenda.com/projects/api-rest-node-solid</link>
-      <description><![CDATA[在此项目中，将开发一个健身房签到应用程序。这里我们将应用 SOLID、设计模式、Docker 启动数据库、JWT 和刷新令牌、RBAC 和其他几个概念中的一些概念。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/api-rest-node-solid</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:02 GMT</pubDate>
+      <title>德诺·多滕维</title>
+      <link>https://www.opensourceagenda.com/projects/deno-dotenv</link>
+      <description><![CDATA[已弃用。请改用 std/dotenv。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/deno-dotenv</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>默恩学生管理系统</title>
-      <link>https://www.opensourceagenda.com/projects/mern-student-management-system</link>
-      <description><![CDATA[MERN 学生管理系统 (MongoDB、Express、React 和 Nodejs) ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mern-student-management-system</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:02 GMT</pubDate>
+      <title>诗歌 Dotenv 插件</title>
+      <link>https://www.opensourceagenda.com/projects/poetry-dotenv-plugin</link>
+      <description><![CDATA[一个 Poetry 插件，用于自动从 .env 文件加载环境变量]]></description>
+      <guid>https://www.opensourceagenda.com/projects/poetry-dotenv-plugin</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>Xom9ikk 多腾夫</title>
-      <link>https://www.opensourceagenda.com/projects/xom9ikk-dotenv</link>
-      <description><![CDATA[GitHub Action 读取 .env 文件并将变量添加到 GITHUB_ENV]]></description>
-      <guid>https://www.opensourceagenda.com/projects/xom9ikk-dotenv</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:01 GMT</pubDate>
+      <title>Petercinibulk 令人羡慕</title>
+      <link>https://www.opensourceagenda.com/projects/petercinibulk-envied</link>
+      <description><![CDATA[通过 .env 文件处理 dart 中的环境变量。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/petercinibulk-envied</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>TS 多腾</title>
-      <link>https://www.opensourceagenda.com/projects/ts-dotenv</link>
-      <description><![CDATA[Node.js 的强类型环境变量]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ts-dotenv</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:01 GMT</pubDate>
+      <title>Dotenv 解析变量</title>
+      <link>https://www.opensourceagenda.com/projects/dotenv-parse-variables</link>
+      <description><![CDATA[解析为 Lad 构建的布尔、数组和数字变量类型的 dotenv 文件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dotenv-parse-variables</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>IMessage 克隆</title>
-      <link>https://www.opensourceagenda.com/projects/imessage-clone</link>
-      <description><![CDATA[带有 NextJS、GraphQL、NodeJS、MongoDB、Prisma、TypeScript、NextAuth.js、Google 身份验证、Chakra UI 的实时聊天应用程序（iMessage Clone）（一对一消息传递、实时消息传递、创建聊天对话、加入聊天对话、离开聊天对话）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/imessage-clone</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:00 GMT</pubDate>
+      <title>Szqlovepk Vue 管理员</title>
+      <link>https://www.opensourceagenda.com/projects/szqlovepk-vue-admin</link>
+      <description><![CDATA[vue 中后台系统解决方案- a solution for vue middle or background system]]></description>
+      <guid>https://www.opensourceagenda.com/projects/szqlovepk-vue-admin</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>Jetify Com Envsec</title>
-      <link>https://www.opensourceagenda.com/projects/jetify-com-envsec</link>
-      <description><![CDATA[将环境变量和机密安全地存储在您选择的云中。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jetify-com-envsec</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:00 GMT</pubDate>
+      <title>Dotenv.net</title>
+      <link>https://www.opensourceagenda.com/projects/dotenvnet</link>
+      <description><![CDATA[用于在 .NET Core 环境中读取 .env 文件的库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dotenvnet</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>莫恩电影</title>
-      <link>https://www.opensourceagenda.com/projects/mern-movie</link>
-      <description><![CDATA[BertFlix“MERN MOVIE”（MongoDB、Express、React 和 Nodejs）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mern-movie</guid>
-      <pubDate>Fri, 07 Jun 2024 12:25:00 GMT</pubDate>
+      <title>斯巴达</title>
+      <link>https://www.opensourceagenda.com/projects/sbt-dotenv</link>
+      <description><![CDATA[⏺️ Dotenv 实现 Scala sbt 构建。配置本地开发环境。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sbt-dotenv</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>韓國</title>
-      <link>https://www.opensourceagenda.com/projects/ps-dotenv</link>
-      <description><![CDATA[适用于 Powershell Core 的功能齐全且非侵入式的 direnv]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ps-dotenv</guid>
-      <pubDate>Fri, 07 Jun 2024 12:24:59 GMT</pubDate>
+      <title>Dotenv 组织 Dotenv Vault</title>
+      <link>https://www.opensourceagenda.com/projects/dotenv-org-dotenv-vault</link>
+      <description><![CDATA[同步 .env 文件 — 来自 `dotenv` 的创建者。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dotenv-org-dotenv-vault</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>Wordpress 捆绑包</title>
-      <link>https://www.opensourceagenda.com/projects/wordpress-bundle</link>
-      <description><![CDATA[使用 Symfony 捆绑包将 Wordpress 和 Symfony 结合使用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/wordpress-bundle</guid>
-      <pubDate>Fri, 07 Jun 2024 12:24:59 GMT</pubDate>
+      <title>Zetachang React Native Dotenv</title>
+      <link>https://www.opensourceagenda.com/projects/zetachang-react-native-dotenv</link>
+      <description><![CDATA[Babel 预设允许您从 .env 文件导入应用程序配置（零运行时依赖性）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zetachang-react-native-dotenv</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>测试 Gradle</title>
-      <link>https://www.opensourceagenda.com/projects/dotenv-gradle</link>
-      <description><![CDATA[Gradle 插件提供环境变量扩展，并支持“.env”文件。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotenv-gradle</guid>
-      <pubDate>Fri, 07 Jun 2024 12:24:58 GMT</pubDate>
+      <title>多特尼克</title>
+      <link>https://www.opensourceagenda.com/projects/dotenvx</link>
+      <description><![CDATA[更好的 dotenv——来自 `dotenv` 的创建者]]></description>
+      <guid>https://www.opensourceagenda.com/projects/dotenvx</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>摩登夫</title>
-      <link>https://www.opensourceagenda.com/projects/modenv</link>
-      <description><![CDATA[CLI 可轻松管理 .env 文件并保持其一致性。它简单、快速、防错且可组合。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/modenv</guid>
-      <pubDate>Fri, 07 Jun 2024 12:24:58 GMT</pubDate>
+      <title>Golobby 配置</title>
+      <link>https://www.opensourceagenda.com/projects/golobby-config</link>
+      <description><![CDATA[适用于 Go 编程语言的轻量级但功能强大的配置管理器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/golobby-config</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>Dotenv.核心</title>
-      <link>https://www.opensourceagenda.com/projects/dotenvcore</link>
-      <description><![CDATA[dotenv.core 是 .NET Core 中用于读取和解析 .env 文件的类库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/dotenvcore</guid>
-      <pubDate>Fri, 07 Jun 2024 12:24:57 GMT</pubDate>
+      <title>霍先生.OAuth</title>
+      <link>https://www.opensourceagenda.com/projects/mrhuooauth</link>
+      <description><![CDATA[.netcore 下最好用的第三方登录组件集合，集成了国内外大部分平台，欢迎使用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mrhuooauth</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>诗歌插件 Dotenv</title>
-      <link>https://www.opensourceagenda.com/projects/poetry-plugin-dotenv</link>
-      <description><![CDATA[poetry-plugin-dotenv - 是在运行诗歌命令之前自动将环境变量从 dotenv 文件加载到环境中的插件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/poetry-plugin-dotenv</guid>
-      <pubDate>Fri, 07 Jun 2024 12:24:57 GMT</pubDate>
+      <title>Vercel Github Oauth 代理</title>
+      <link>https://www.opensourceagenda.com/projects/vercel-github-oauth-proxy</link>
+      <description><![CDATA[▲🔐 使用 GitHub 身份验证保护在 Vercel 上托管的静态网站。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vercel-github-oauth-proxy</guid>
+      <pubDate>Fri, 07 Jun 2024 15:14:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

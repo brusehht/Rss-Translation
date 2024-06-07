@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 07 Jun 2024 12:24:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 15:13:56 GMT</lastBuildDate>
+    <item>
+      <title>dossi 浏览器扩展：每个页面上都有你自己的私人 GitHub 笔记</title>
+      <link>https://www.reddit.com/r/opensource/comments/1daasxo/dossi_browser_extension_your_own_private_github/</link>
+      <description><![CDATA[        提交人    /u/siegerts   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1daasxo/dossi_browser_extension_your_own_private_github/</guid>
+      <pubDate>Fri, 07 Jun 2024 13:33:27 GMT</pubDate>
+    </item>
     <item>
       <title>用 Python 制作的跨平台 Chroot REPL/Shell</title>
       <link>https://www.reddit.com/r/opensource/comments/1da6c3r/crossplatform_chroot_replshell_made_in_python/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[大家好！ 我一直在编写几个 Python 脚本来帮助保持我的 Mac 整洁，我想与大家分享。如果您和我一样，桌面和下载文件夹很乱，这些脚本可能正是您所需要的！ Github 链接    提交人    /u/Artic0ne   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1da4y57/keep_your_mac_organized_with_my_file_organizer/</guid>
       <pubDate>Fri, 07 Jun 2024 07:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近发现了一个新的开源 Node.js 项目，它允许我们在用户友好的界面中查看日志。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1da384b/i_recently_discovered_a_new_opensource_nodejs/</link>
-      <description><![CDATA[Errsole.js 是一个新的开源项目，只需几个简单的步骤即可自动收集您的应用日志。它提供了一个漂亮的用户界面，您可以在其中查看实时日志、过滤和搜索它们。此外，它还提供团队协作等功能，允许您邀请团队成员，以及一个警报系统，如果您的应用出现故障，它会通过 Slack 和电子邮件通知您。看看它 - 我相信这个项目可以为您节省您原本要花在日志可视化工具上的钱。 https://github.com/errsole/errsole.js    提交人    /u/rishi-dev90   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1da384b/i_recently_discovered_a_new_opensource_nodejs/</guid>
-      <pubDate>Fri, 07 Jun 2024 05:35:09 GMT</pubDate>
     </item>
     <item>
       <title>寻找具有 CSV 导入选项的自托管日历</title>
