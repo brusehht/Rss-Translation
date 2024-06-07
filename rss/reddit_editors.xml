@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 07 Jun 2024 03:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 06:17:54 GMT</lastBuildDate>
+    <item>
+      <title>需要建议 - 导入 Avid 时渲染损坏</title>
+      <link>https://www.reddit.com/r/editors/comments/1da3ugf/advice_needed_corrupt_renders_when_ingested_into/</link>
+      <description><![CDATA[大家好， 我目前正在制作一个节目，需要将 X OCN LT 8.2 k 素材渲染为 1920 x 1080p MXF。 然后我们将它们发送给编辑部进行每日制作。 问题是，当他们将一些文件导入 avid 时，它们会被损坏，无法播放。它们在 Resolve 中工作正常。而且似乎没有任何逻辑可以判断哪些文件已损坏，哪些文件没有损坏。大多数文件都很好，可以毫无问题地导入，但似乎总有一些文件无法正常工作。 我们每天都遇到这个问题。我一直在想如何解决它？有什么想法吗？ 有人建议我永远不要同时下载和渲染。 这显然是 Apple 芯片常见的问题。  快速解决方法是重新渲染损坏的剪辑并将其发送给编辑，但我想找出发生这种情况的原因并阻止问题再次出现。  在 Davinci Resolve 中渲染；  渲染详细信息是； 格式：MXF OP-Atom 编解码器：DNxHR 类型：DNxHR LB 分辨率：1920x1080 HD 使用恒定比特率 使用 Mac Studio Apple M1 Ultra 进行渲染。 按卷号为素材创建时间线，然后一次渲染该卷。  你们在渲染时做什么？即使我离开电脑并且不碰任何东西，似乎仍然有奇怪的损坏的 mxf。有什么建议吗？      由    /u/jimmyculls 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1da3ugf/advice_needed_corrupt_renders_when_ingested_into/</guid>
+      <pubDate>Fri, 07 Jun 2024 06:14:22 GMT</pubDate>
+    </item>
     <item>
       <title>我的老板让我去除她拍摄的影片中的噪音。但我很难做到。</title>
       <link>https://www.reddit.com/r/editors/comments/1d9y2ql/my_boss_ask_me_to_remove_a_noise_in_her_footage/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 06 Jun 2024 21:23:31 GMT</pubDate>
     </item>
     <item>
-      <title>口型同步偏离 – 而且不是 VFR。</title>
+      <title>口型同步偏离很远 - 而且不是 VFR。</title>
       <link>https://www.reddit.com/r/editors/comments/1d9su9l/lip_sync_way_off_and_its_not_vfr/</link>
       <description><![CDATA[CBR 源，24.00fps。三个源，A 是视频会议参与者之一，B 是另一个会议参与者，C 是他们两个并排在一起。Premiere 序列设置为 24.00fps。 唯一具有正确口型同步的文件是源 A，一个参与者的镜头。同步对他来说是完美的，对于他作为源 C（双镜头）的一部分的镜头也是如此。另一方面，B 源至少偏离了 5 秒。就好像有人移动了音频并使用不同步的音频重新编码了视频。他的独立源和并排源的同步都关闭了。 我尝试根据唇部运动和波形手动同步音频，但说到一半时同步又关闭了。用肉眼看来，源视频在某些时候似乎速度变慢了，但是损坏素材的文件长度与源 A（音频同步完美的视频）的长度相同。 任何帮助都值得赞赏！ 系统规格：https://pcpartpicker.com/list/PVQbPV Windows 10 Pro OS Build 19045.4412 素材是 .mp4 容器。每个 MediaInfo 的编解码器是 avc1。 原始来源未知。我的客户是主要编辑。    提交人    /u/TabascoWolverine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d9su9l/lip_sync_way_off_and_its_not_vfr/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>电视广告片场的视频编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1d9r1e8/video_editor_on_set_of_a_tv_commercial/</link>
-      <description><![CDATA[大家好，我将在一档零食电视广告的片场担任视频编辑。这是我第一次做这个，尽管我已经做了 8 年的专业编辑，所以我有点紧张。 我所知道的是，我将带着一台 MacBook 和一张采集卡去捕捉他们录制的视频，这样我就可以现场编辑了，对吧？然后给客户看。 我从来没有用过采集卡，我知道我会买这张https://www.holdan.co.uk/Blackmagic+Design/UltraStudio+Express 谁能告诉我应该设置什么，做什么？人们告诉我这很容易，但我不太确定。 任何指点都很好，提前谢谢了。    提交人    /u/AdExternal5845   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我将在一档零食电视广告的片场担任视频编辑。这是我第一次做这个，尽管我已经做了 8 年的专业编辑，所以我有点紧张。 我所知道的是，我将带着一台 MacBook 和一张采集卡去捕捉他们录制的视频，这样我就可以现场编辑了，对吧？然后给客户看。 我从来没有用过采集卡，我知道我会买这张 https://www.holdan.co.uk/Blackmagic+Design/UltraStudio+Express 有人能告诉我我应该设置什么，做什么吗？人们告诉我这很容易，但我不太确定。 任何指点都很好，提前谢谢了。    提交人    /u/AdExternal5845   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d9r1e8/video_editor_on_set_of_a_tv_commercial/</guid>
       <pubDate>Thu, 06 Jun 2024 19:42:11 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>DAS 问题。放弃旋转器并专注于 NVME？</title>
       <link>https://www.reddit.com/r/editors/comments/1d9nudv/das_question_give_up_on_spinners_and_focus_on_nvme/</link>
-      <description><![CDATA[我现在需要重新考虑存储问题了。 我负责收尾工作，一直使用 PC 中的 SSD，但现在这些巨大的 GPU 和 CPU 冷却器让我的机箱空间开始不足。 我四处寻找解决方案，但自从我上次使用高点卡构建外部 RAID 5 以来，我觉得很多事情都发生了变化。现在速度很便宜，而且外形非常小，尺寸似乎很贵。 如果我主要使用 RAW 格式（低磁盘使用率）和 DNxHR，我是否应该坚持使用旋转硬盘来获得所有空间，以低价获得外部 RAID？我是否应该在 PCI 卡上安装一堆 nvme，因为可怕的大型存储密集型格式即将出现？    提交人    /u/broomosh   [链接] [评论]]]></description>
+      <description><![CDATA[我现在需要重新考虑存储问题了。 我负责收尾工作，一直使用 PC 中的 SSD，但现在这些巨大的 GPU 和 CPU 冷却器让我的机箱空间开始不足。 我四处寻找解决方案，但自从我上次使用高点卡构建外部 RAID 5 以来，我觉得发生了很多变化。如今速度很便宜，而且外形非常小巧，尺寸似乎很昂贵。 如果我主要使用 RAW 格式（低磁盘使用率）和 DNxHR，我是否应该坚持使用旋转硬盘来获得所有空间，以低价获得外部 RAID？我是否应该在 PCI 卡上安装一堆 nvme，因为可怕的大型存储密集型格式即将出现？    提交人    /u/broomosh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d9nudv/das_question_give_up_on_spinners_and_focus_on_nvme/</guid>
       <pubDate>Thu, 06 Jun 2024 17:29:38 GMT</pubDate>
     </item>
     <item>
       <title>哪里可以找到好的背景？</title>
       <link>https://www.reddit.com/r/editors/comments/1d9n9ha/where_can_i_find_good_backdrops/</link>
-      <description><![CDATA[大家好，我时间不多了，我需要尽快获取一些像本视频中的背景。有人有类似 Backgroundspack 的东西吗？ 谢谢！    提交人    /u/Kodr_   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我时间不多了，我需要尽快获取一些像本视频中的背景。有人有类似 Backgroundspack 的东西吗？ 谢谢！    由   提交  /u/Kodr_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1d9n9ha/where_can_i_find_good_backdrops/</guid>
       <pubDate>Thu, 06 Jun 2024 17:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否点击了某个东西或者 Premiere 是否更新了其标签颜色？</title>
-      <link>https://www.reddit.com/r/editors/comments/1d9lgx2/did_i_click_something_or_did_premiere_update/</link>
-      <description><![CDATA[所有颜色都很暗，很难分辨。此外，过渡是透明的。我不喜欢这一切。     由   提交  /u/TheKingOfCoyotes   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1d9lgx2/did_i_click_something_or_did_premiere_update/</guid>
-      <pubDate>Thu, 06 Jun 2024 15:50:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
