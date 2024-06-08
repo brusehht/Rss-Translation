@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 07 Jun 2024 18:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 00:54:48 GMT</lastBuildDate>
+    <item>
+      <title>Amplitube 5 替代品 - moddevices/mod-desktop：桌面版 MOD 音频</title>
+      <link>https://www.reddit.com/r/opensource/comments/1danz12/amplitube_5_alternative_moddevicesmoddesktop_mod/</link>
+      <description><![CDATA[        由    /u/FluffyBrudda 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1danz12/amplitube_5_alternative_moddevicesmoddesktop_mod/</guid>
+      <pubDate>Fri, 07 Jun 2024 22:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作阵容网站</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dal4eo/made_a_lineup_website/</link>
+      <description><![CDATA[LineupX：用于 FPS 游戏阵容的开源社交媒体类网站 嗨，我想分享我的社区驱动的阵容开源项目。它使用 MERN 堆栈，我们目前支持 Valorant 和 CS2 等游戏。我们的噱头是，您无需观看长达 30 秒的视频来学习阵容，而是可以通过 3 张图片（站立位置、瞄准位置、着陆位置）来学习阵容。 网站：https://www.lineupx.net/ Github：https://github.com/shimupan/lineupx    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dal4eo/made_a_lineup_website/</guid>
+      <pubDate>Fri, 07 Jun 2024 20:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找实时 OCR 转 TTS 软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dakal0/looking_for_realtime_ocr_into_tts_software/</link>
+      <description><![CDATA[嘿，正在寻找可以对屏幕上的文本（全部或选定区域）进行 OCR 处理并大声朗读且几乎没有延迟的软件，有这样的软件吗？    提交人    /u/Cynaxia   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dakal0/looking_for_realtime_ocr_into_tts_software/</guid>
+      <pubDate>Fri, 07 Jun 2024 20:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>OSPO4善于联合国</title>
       <link>https://www.reddit.com/r/opensource/comments/1dagzoe/ospo4good_at_the_united_nations/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d8tzi0/in_memory_of_mike_karels_freebsd_foundation/</guid>
       <pubDate>Wed, 05 Jun 2024 16:20:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tach - 强制模块边界 + deps，现在在 Rust 中🦀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d8sblz/tach_enforce_module_boundaries_deps_now_in_rust/</link>
-      <description><![CDATA[https://github.com/gauge-sh/tach 大家好！想分享一些我一直在研究的工具的相当重要的更新。Tach 允许您定义模块边界并在模块中强制执行规则，包括隔离、依赖关系和严格接口。一些更新 -  用 Rust 重写了核心，导致大型存储库的速度提高了约 19 倍 重新设计了界面，并添加了 TUI 以允许您以交互方式声明模块  我们构建了 Tach 来解决我们在之前的所有工作经历中遇到的“泥球”问题。随着时间的推移，代码库会紧密耦合在一起，即使是简单的更改/重构也会变得痛苦。通过设置模块边界并尽早执行它们，您可以避免所有这些问题！ Tach 是发展模块化整体而不产生泥球的最佳方式。 如果有人有任何问题或反馈，我很乐意聊天！ https://github.com/gauge-sh/tach    提交人    /u/the1024   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d8sblz/tach_enforce_module_boundaries_deps_now_in_rust/</guid>
-      <pubDate>Wed, 05 Jun 2024 15:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要分享一个“开源货币化工具”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d8qe2f/wanted_to_share_a_open_source_monetizer/</link>
-      <description><![CDATA[在他们的电报频道上分享了我的观点，结果被疯狂地批评了。管理员批评了一点，但群成员是另一回事，天哪。 现在我明白为什么小偷会采取守势了。 同一个人有 4 个不同的频道，他在其中分享开源项目（和不分享），并使用链接缩短器上传项目，有时甚至不给予任何信用。 他在三个 YouTube 频道（我发现的）中做了所有这些： - Tech Karan - Everything Android - Karan Arora 注意：他似乎对他们表示了感谢，但只在他的四个 TELEGRAM 频道中的一个。不是 YouTube 频道。即便如此，他还是自己上传文件。没有提供开发者页面的下载链接。    提交人    /u/thejedih   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d8qe2f/wanted_to_share_a_open_source_monetizer/</guid>
-      <pubDate>Wed, 05 Jun 2024 13:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 C 语言编写的微型公共领域数学库（+网络演示）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d8nhiv/a_tiny_public_domain_math_library_written_in_c/</link>
-      <description><![CDATA[  由    /u/jezek_2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d8nhiv/a_tiny_public_domain_math_library_written_in_c/</guid>
-      <pubDate>Wed, 05 Jun 2024 11:21:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
