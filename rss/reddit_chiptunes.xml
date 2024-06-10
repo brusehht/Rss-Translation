@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 15:14:44 GMT</lastBuildDate>
+    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Mon, 10 Jun 2024 18:16:46 GMT</lastBuildDate>
+    <item>
+      <title>软件合成器上的芯片音乐的声音设计技术？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1dcrghz/sound_design_techniques_for_chiptune_on_software/</link>
+      <description><![CDATA[我一直在尝试在软件合成器（如 Arturia Pigments 和 Native Instruments FM8 等）中从头开始设计芯片音乐。除了显而易见的基本知识（观察芯片的振荡器/语音限制，通常只有四个轨道；更喜欢简单的三角波、方波/PWM 波形；各种形式的噪声；单声道声音，使用快速琶音来模拟和弦；比特压缩/下采样），我开始从检查我偶然发现的一些预设中发现更有趣的技巧，例如通过 MSEG 在音符开始时快速调制八度音高；快速切换波形（如三角波/方波）而不变形；并使用 EG/LFO 调制比特压缩器。 我知道编曲对于芯片音乐来说是最重要的，但是你们都使用哪些其他更高级的声音设计技巧来在现代合成器中唤起芯片音乐？ 对于打击乐/噪音音轨，有趣的声音设计技巧也可以获得加分（比如有节奏地调制带通滤波器以获得低音/鼓声）。 此外，如果有人可以指出一些基于合成而不是样本的高质量芯片音乐合成器预设来研究，那也会很有帮助。    提交人    /u/marcja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1dcrghz/sound_design_techniques_for_chiptune_on_software/</guid>
+      <pubDate>Mon, 10 Jun 2024 17:38:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳 Gameboy 音质</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1dcoury/best_gameboy_sound_quality/</link>
+      <description><![CDATA[所以我是一名芯片音乐作曲家，希望创作出类似于第一代 Pokémon 音乐的音乐。现在我想让芯片音乐的音质尽可能清晰。任务是让它达到这样的清晰度： https://www.youtube.com/watch?v=cpx5SYliDXw&amp;t=1631s 有人知道上面的视频是如何制作的吗？他们是不是直接从 gameboy 上翻录音乐？ 到目前为止，我使用 Famitracker 进行创作，这是一个非常棒的工具，只是质量不如示例那么好： https://www.youtube.com/watch?v=K1u1up5fNn0（请告诉我你们喜欢立体声还是单声道） 如果要像第一个视频那样实现高质量，需要从 GB 上翻录，我打算买一个，用 LSDJ 在上面写音乐，然后通过耳机插孔或其他方式录制。除非有另一个质量更清晰的 GB 跟踪器？    提交人    /u/Wasabitunes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1dcoury/best_gameboy_sound_quality/</guid>
+      <pubDate>Mon, 10 Jun 2024 15:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>由@operator11syntx 使用芯片调谐您的电台 | Suno AI MUSIC CC0</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1dco36j/chiptuning_your_radio_station_by_operator11syntx/</link>
+      <description><![CDATA[        由    /u/vaporodisseyHD 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1dco36j/chiptuning_your_radio_station_by_operator11syntx/</guid>
+      <pubDate>Mon, 10 Jun 2024 15:20:26 GMT</pubDate>
+    </item>
     <item>
       <title>史诗般的 80 年代街机风格配乐！</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1dcnt48/epic_80s_arcadestyle_soundtrack/</link>
@@ -13,7 +34,7 @@
       <pubDate>Mon, 10 Jun 2024 15:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>Genesis Mega Drive 的《Rage of the Dragons》- Funky Togetherness（Jones、Kang）</title>
+      <title>Genesis Mega Drive 的《Rage of the Dragons》- Funky Togetherness（Jones，Kang）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1dcma3j/rage_of_the_dragons_funky_togetherness_jones_kang/</link>
       <description><![CDATA[        由    /u/DiggoSilva 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1dcma3j/rage_of_the_dragons_funky_togetherness_jones_kang/</guid>
@@ -71,7 +92,7 @@
     <item>
       <title>需要芯片音乐节奏来混音在日本和东南亚制作的说唱专辑和音乐视频</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1dahy0v/need_chiptune_beats_to_remix_for_a_rap_album_and/</link>
-      <description><![CDATA[我正在制作一张说唱专辑，与日本和东南亚 MC 一起带着我的相机旅行并拍摄音乐视频。几年前，我也在日本制作了一个一小时的音乐视频，这真是太棒了。我正在寻找芯片音乐来混音专辑的乐器。我最喜欢的是 LSDJ 和 Nanoloop 2 曲调，但我什么都听。如果你有兴趣，请告诉我  编辑：这是我在日本与其他 MC 合作拍摄的一小时电影 Duszt    提交人    /u/Jody_Bigfoot   [链接] [评论]]]></description>
+      <description><![CDATA[我正在制作一张说唱专辑，与日本和东南亚的 MC 一起带着我的相机旅行并拍摄音乐视频。几年前，我也在日本制作了一个一小时的音乐视频，这真是太棒了。我正在寻找芯片音乐来混音专辑的乐器。我最喜欢的是 LSDJ 和 Nanoloop 2 曲调，但我什么都听。如果你有兴趣，请告诉我  编辑：这是我在日本与其他 MC 合作拍摄的一小时电影 Duszt    提交人    /u/Jody_Bigfoot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1dahy0v/need_chiptune_beats_to_remix_for_a_rap_album_and/</guid>
       <pubDate>Fri, 07 Jun 2024 18:26:28 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>六月 - 草图</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1d9v6x1/june_sketch/</link>
-      <description><![CDATA[      这是另一个在 FamiStudio 中完成的小音乐草图，因为我把那些噪音通道的刺耳声音都吃掉了时间。    由    /u/Smaradav  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      这是另一个在 FamiStudio 中完成的小音乐草图，因为我每次都会吃掉那些噪音通道的刺耳声音时间。    由    /u/Smaradav  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1d9v6x1/june_sketch/</guid>
       <pubDate>Thu, 06 Jun 2024 22:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>W (famitracker 原创歌曲)</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1d9t7sg/w_famitracker_original_song/</link>
-      <description><![CDATA[      这是一首使用 VRC6、VRC7 制作的歌曲， 2A03 和 MMC5 芯片。我为一个我认识的人写的。我原本想做一个音乐盒声音，但我无法让它听起来正确，所以我选择了久经考验的芯片音乐声音。希望您挖掘并喜欢和订阅，或者如果可以的话发表评论。谢谢    提交人    /u/jammin_on_the_one_   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1d9t7sg/w_famitracker_original_song/</guid>
-      <pubDate>Thu, 06 Jun 2024 21:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Furnace Tracker 上的 NES 和 Gameboy 音效芯片制作的巫师主题曲调</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1d9ohvc/wizard_themed_tune_i_made_using_both_the_nes_and/</link>
-      <description><![CDATA[https://youtu.be/zr4un66bfO8    由   提交  /u/CosmonautDuck   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1d9ohvc/wizard_themed_tune_i_made_using_both_the_nes_and/</guid>
-      <pubDate>Thu, 06 Jun 2024 17:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>战斧陷阱混音版</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1d9irck/golden_axe_trap_remix/</link>
-      <description><![CDATA[        提交人    /u/cardboardarmor   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1d9irck/golden_axe_trap_remix/</guid>
-      <pubDate>Thu, 06 Jun 2024 13:55:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
