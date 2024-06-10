@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 03:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 06:18:44 GMT</lastBuildDate>
+    <item>
+      <title>是否可以使用纯 React 或 NextJS 构建 Shopify 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcesfl/is_it_possible_to_build_a_shopify_app_with_plain/</link>
+      <description><![CDATA[我正在使用 shopify 构建应用程序，但我找不到任何专注于纯 React 的文档，每篇文档都充斥着“他是 Remix 模板”，并且没有任何使用纯 React 的指南。我确实对 nextjs 有所了解，但为什么他们如此痴迷于让开发人员使用像 Remix 这样的东西？    提交人    /u/DragonDev24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcesfl/is_it_possible_to_build_a_shopify_app_with_plain/</guid>
+      <pubDate>Mon, 10 Jun 2024 06:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个站点正遭受攻击？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dceg6c/which_site_is_under_attack/</link>
+      <description><![CDATA[我有一个 VPS，使用 WHM / cPanel 和 CentOS 7。 我的服务器负载一整天都有点高（凌晨 2 点为 3.2），我在 Apache 日志中看到某个部分正在受到重击！ 不过，我在主域名上停放了大约 100 个域名，每个域名都在 Cloudflare 中单独设置。 关于如何找到 ping 所针对的域名，有什么建议吗？我宁愿在 CF 中专门为该域名设置一个临时规则，而不是让所有域名都下线。    提交人    /u/csdude5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dceg6c/which_site_is_under_attack/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发的演变：塑造未来的趋势</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcdv24/the_evolution_of_software_development_trends/</link>
+      <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcdv24/the_evolution_of_software_development_trends/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何确保应用程序正常运行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcds0n/how_to_make_sure_app_works_correctly/</link>
+      <description><![CDATA[我是编程新手，正在开发一个 SaaS 网络应用。代码很乱，错误百出。我最头疼的就是 Stripe 订阅 - 如果我将其投入生产，但出现问题，用户就得不到他们所支付的服务，并会退款。 我该如何处理？    提交人    /u/ProLessSkill   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcds0n/how_to_make_sure_app_works_correctly/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁付钱给你？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dcdpjb/who_pays_you/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dcdpjb/who_pays_you/</guid>
+      <pubDate>Mon, 10 Jun 2024 05:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理多语言支持的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dccjg4/whats_the_best_way_to_handle_multilanguage_support/</link>
+      <description><![CDATA[基本上是标题。 我们将开发一个 Web 应用程序，并升级现有的 Web 应用程序，以获得多语言支持。 目前，我们正在考虑支持：  英语 西班牙语 土耳其语 荷兰语 - 潜在  根据我们所见以及在线文章，我们能想到的最佳方法是创建一个键值对对象数组，并在运行时/预加载时“热交换”关键字。 但是，这意味着对于每次内容更新，我们都需要四处走动并更新所有语言文件以添加新关键字。  这引出了第二个问题，我们如何有效地管理从英语到 X 的转换？ 在此阶段，我们将把英语键值语言列表（原样或 csv/xlsx）发送给供应商/经销商/客户，以便他们转换为他们的语言并返回给我们实施……  我不禁觉得有更好的方法？欢迎提出任何建议和想法。    提交人    /u/WG_Odious   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dccjg4/whats_the_best_way_to_handle_multilanguage_support/</guid>
+      <pubDate>Mon, 10 Jun 2024 03:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>在工作中向其他开发人员提问？？？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dcaur6/asking_other_developers_questions_at_work/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[嗨， 我正在寻找构建股票列表网站的想法。股票列表已在 Google 表格中维护。我想要  只有注册的授权成员才能查看 通过某些 API 自动提取股票最新价格进行实时更新 我应该能够每天添加注释和活动，并且应该将它们存档 如果我在注释中标记股票，它应该自动与该股票链接 用户应该能够根据股票代码搜索任何股票和注释 在一天结束时更新投资组合规模 股票仪表板 根据平仓更新回报  我是一名软件开发人员，但不确定是否可以从头开始构建并托管在 aws 或 azure 上。我一直想在泡沫中构建，但后来我看到了褒贬不一的评论，也有人抱怨成本可能非常高。 由于我是一名开发人员，我将采取的默认路线是使用一些反应主题从头开始编写代码，但我有点倾向于低代码解决方案。 因此，我正在寻找经验丰富的开发人员，了解您在 2024 年解决这个问题的方法是什么？    提交人    /u/skillguru   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dc4qps/ideas_on_how_to_build_a_stock_listing_website/</guid>
       <pubDate>Sun, 09 Jun 2024 21:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些职业建议（重返 Webdev！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc3pmn/need_some_career_advice_returning_to_webdev/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc3pmn/need_some_career_advice_returning_to_webdev/</guid>
-      <pubDate>Sun, 09 Jun 2024 20:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入研究 TypeScript 5.5 候选版本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc3jun/dive_into_typescript_version_55_release_candidate/</link>
-      <description><![CDATA[        提交人    /u/Puzzleheaded_Ad4030   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc3jun/dive_into_typescript_version_55_release_candidate/</guid>
-      <pubDate>Sun, 09 Jun 2024 20:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是唯一一个不愿意从无名项目学习新 API 而只为客户的亲密项目的人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc3a1w/am_i_alone_who_hate_to_learn_new_api_from_noname/</link>
-      <description><![CDATA[你有什么想法？    提交人    /u/Direct-Lengthiness-8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc3a1w/am_i_alone_who_hate_to_learn_new_api_from_noname/</guid>
-      <pubDate>Sun, 09 Jun 2024 20:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们使用 css/tailwind 或 ui 框架吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc1sa4/do_you_guys_use_csstailwind_or_ui_framework/</link>
-      <description><![CDATA[如果您正在为客户或您的附带项目构建，那么您基本上使用什么 - ui 框架或 css/tailwind？    提交人    /u/shesparkzz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc1sa4/do_you_guys_use_csstailwind_or_ui_framework/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名 Web 开发人员，如何获得第一份自由职业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc1q6f/how_to_get_first_freelancing_gig_as_a_web/</link>
-      <description><![CDATA[如果你是自由职业者..那么你是如何获得第一份自由职业工作的？我是一名全栈开发人员..希望获得一份自由职业工作，但不确定如何赢得一份工作？选择哪个平台，因为它们很拥挤..？    提交人    /u/shesparkzz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc1q6f/how_to_get_first_freelancing_gig_as_a_web/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Postgres 的应用程序的通知程序模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dc1duk/the_notifier_pattern_for_applications_that_use/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dc1duk/the_notifier_pattern_for_applications_that_use/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
