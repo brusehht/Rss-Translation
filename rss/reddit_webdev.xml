@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 11 Jun 2024 06:17:19 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Tue, 11 Jun 2024 09:15:06 GMT</lastBuildDate>
+    <item>
+      <title>FLASK APP 在 REPLIT 上无法正常工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dd9qru/flask_app_on_replit_not_working/</link>
+      <description><![CDATA[      我只是创建了一个 flask replit，然后它像往常一样安装了所有的包，当我运行默认代码时，网页没有加载这是我的第一次重新拆分项目，不知道下一步该做什么    提交人    /u/No_Holiday4929   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dd9qru/flask_app_on_replit_not_working/</guid>
+      <pubDate>Tue, 11 Jun 2024 09:11:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>将其粘贴到 Google Chrome 控制台安全吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dd7f9j/is_pasting_this_into_google_chrome_console_safe/</link>
+      <description><![CDATA[我从另一个 reddit 线程中发现了这一点，想知道将其粘贴到 chrome 上的控制台中是否安全。 https://pastebin.com/T9PeuThs    由   提交  /u/OhSoCute   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dd7f9j/is_pasting_this_into_google_chrome_console_safe/</guid>
+      <pubDate>Tue, 11 Jun 2024 06:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户希望在表格中输入敏感数据。最佳解决方案是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dd7ceo/client_wants_sensitive_data_in_forms_best_solution/</link>
+      <description><![CDATA[好的。所以我有一个客户想要在他们的商业网站表单中使用敏感数据。 在我看来，这些数据需要符合 hipaa 和 ferpa 的规定。我不想在这个领域小众化，满足定期审计、安全等合规性听起来对投资回报率来说不是个好时机。 我研究过其他解决方案，但通常以“企业计划，联系以获取详细信息”结束 有人有解决方案可以最大限度地降低这种情况下的成本和官僚主义吗？    提交人    /u/Opinion_Less   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dd7ceo/client_wants_sensitive_data_in_forms_best_solution/</guid>
+      <pubDate>Tue, 11 Jun 2024 06:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>在为其他公司建立网站时，您如何应对原创性问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dd7c11/how_do_you_cope_with_originality_when_building/</link>
+      <description><![CDATA[嗨，我即将（希望）与同一市场的多家公司达成协议，为他们建立网站。所有公司规模都很小（平均 5 名员工），没有一家有太多的设计愿景（有些甚至没有徽标），而且它们都有几乎相同的口号和价值观（当它们是完美的替代品时，变化并不大，哈哈）。 我在 Web 部件方面非常有经验，因此从技术上讲，我可以构建几乎任何东西 - 但我不确定我应该如何保持每个网站的原创性。特别是因为我预计说明会非常模糊…… 你们会如何应对这种情况？有人遇到过类似的情况吗？    提交人    /u/maekoos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dd7c11/how_do_you_cope_with_originality_when_building/</guid>
+      <pubDate>Tue, 11 Jun 2024 06:18:35 GMT</pubDate>
+    </item>
     <item>
       <title>我会密切关注我如何访问客户的网站，以确保它看起来不错。我的 2024 宾果卡上没有 Windows NT，哈哈</title>
       <link>https://www.reddit.com/r/webdev/comments/1dd731i/i_keep_tabs_on_how_my_access_my_customers_website/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>将代码移至 SaaS 模型的后端</title>
       <link>https://www.reddit.com/r/webdev/comments/1dd23m7/moving_code_to_the_backend_for_a_saas_model/</link>
-      <description><![CDATA[我有一个使用 React/Symfony 构建的有点小众的 PWA，需要互联网连接才能使用（用于保存到后端数据库）。  我计划在它足够强大后为其实施订阅服务模式，除非用户需要更多数据存储，否则它是免费的（不需要 cc，有限制）。届时我将投资广告活动以尝试增加流量。 我花了数百小时构建和调整此应用程序的一些算法，截至目前，它们存在于前端，任何关心反编译/解构 js 文件的人都可以使用它们。  我的问题是：将一些前端算法移到后端是否明智，以避免竞争对手仅仅“借用”一些算法？    提交人    /u/sporadicPenguin   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个用 React/Symfony 构建的有点小众的 PWA，需要互联网连接才能使用（用于保存到后端数据库）。  我计划在它足够强大后为其实现订阅服务模式，除非用户需要更多数据存储，否则它是免费的（不需要 cc，有限制）。届时我将投资广告活动以尝试增加流量。 我花了数百小时构建和调整此应用程序的一些算法，截至目前，它们存在于前端，任何关心反编译/解构 js 文件的人都可以使用它们。  我的问题是：将一些前端算法移到后端是否明智，以避免竞争对手仅仅“借用”一些算法？    提交人    /u/sporadicPenguin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dd23m7/moving_code_to_the_backend_for_a_saas_model/</guid>
       <pubDate>Tue, 11 Jun 2024 01:18:30 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[        提交人    /u/yo-ovaries   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dd1rpg/which_one_of_you_works_for_houston_chronicle/</guid>
       <pubDate>Tue, 11 Jun 2024 01:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面到 Web 开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dd1csl/desktop_to_web_dev/</link>
-      <description><![CDATA[我从事 IT 行业已有 15 年以上。我快 50 岁了，我想成为一名 Web 开发人员。我正在学习 Colt Steele 的 Udemy 课程。我还应该学习其他课程吗？我是不是太老了，不能换职业了？还有其他建议吗？    提交人    /u/freddy91761   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dd1csl/desktop_to_web_dev/</guid>
-      <pubDate>Tue, 11 Jun 2024 00:40:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部 WebDev（初创企业）的典型工资</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dd0tua/typical_salary_for_inhouse_webdev_startup/</link>
-      <description><![CDATA[大家好，我正在研究为我的小型创业公司招聘内部 Web 开发/维护人员。（Wordpress 网站）寻找能够整理外观/添加功能和典型前端内容的人。 我对这个领域/行业非常陌生，想知道每月需要为此预算多少钱。有人可以就典型的内部 Web 开发工资以及如何获得/找到适合此职位的人提供建议吗？ 任何建议/建议都将不胜感激，谢谢！    提交人    /u/Suspicious_Creme2390   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dd0tua/typical_salary_for_inhouse_webdev_startup/</guid>
-      <pubDate>Tue, 11 Jun 2024 00:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>身份验证和授权</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dczks2/authentication_and_authorization/</link>
-      <description><![CDATA[我需要一些很棒的资源来学习 Web 应用中的身份验证和授权。我找不到从基础开始构建的资源。    提交人    /u/guguugagaa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dczks2/authentication_and_authorization/</guid>
-      <pubDate>Mon, 10 Jun 2024 23:13:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关使用 Three.js 优化 3D 查看器的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dcz0ya/seeking_advice_on_optimizing_a_3d_viewer_with/</link>
-      <description><![CDATA[大家好， 我在这个 subreddit 上潜水很久了，虽然我有扎实的软件开发背景，但我对 Web 开发及其大量框架和技术还是比较陌生的。 最近，我开始了一个个人项目，使用 React、Typescript 和 Three.js 为 glTF/glb 文件创建一个详细的 3D 查看器。查看器对于较小的模型来说运行良好，但我在处理较大的文件时遇到了性能问题，例如详细的建筑物内部或具有超过 300 万个多边形和 4K 纹理的汽车。这些问题在较旧的硬件和移动设备上尤其明显。 我读过有关 Three.js 中的 LOD 实现的信息，并设法使用 SimplifyModifier 创建了动态 LOD。虽然这种方法对于网格较少的较小物体很有效，但实际上会降低较大、更复杂模型的性能。将 SimplifyModifier 应用于整个物体似乎并不有效，我想只将 LOD 应用于同一模型中距离相机较远的物体。 我在这里已经达到了极限，真的需要一些建议。您能推荐一些最佳实践、解决方案或资源吗？理想情况下，我想保持原生，而不过度依赖外部库。 我还考虑过实现延迟加载以缩短初始加载时间或将纹理压缩为 .KTX2 格式以减小其大小。 我愿意接受任何建议，并希望听到您的想法。提前致谢。    提交人    /u/Varzul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dcz0ya/seeking_advice_on_optimizing_a_3d_viewer_with/</guid>
-      <pubDate>Mon, 10 Jun 2024 22:48:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
