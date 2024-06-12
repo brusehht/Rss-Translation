@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Jun 2024 09:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 12:23:25 GMT</lastBuildDate>
+    <item>
+      <title>开源 LinkedIn 抓取工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1de539q/open_source_linkedin_scraper/</link>
+      <description><![CDATA[大家好！ 我很高兴地宣布我的开源 LinkedIn Scraper 正式发布！🚀 您的反馈对于应用程序的塑造非常有价值。 源代码现在可以在 GitHub 上获得（https://github.com/devildani/LinkedIn-Scraper），我鼓励您在开始使用之前观看演示视频。 💻👥 主要特点：  ⚡️ 连接无限的 LinkedIn 帐户。 🔍 人员和公司资料抓取工具  令人兴奋的路线图：  🌈 令人兴奋的更多流程，如搜索查询抓取工具（LinkedIn 和 Sales Navigator） 🔌 插件（电子邮件查找器、大规模数据提取） 🖼️ 勘探工具  为了确保可持续性和持续发展，我提供 Buymeacoffee。我很想听听您对定价的看法。 访问 Github 链接：Github 链接 感谢您参与这次旅程。🌍🔓    提交人    /u/devildaniii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1de539q/open_source_linkedin_scraper/</guid>
+      <pubDate>Wed, 12 Jun 2024 12:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Windows 上搜索文件和内容的最佳软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1de3eh8/best_software_to_search_files_and_content_on/</link>
+      <description><![CDATA[大家好， 我正在寻找一个 Windows 上的开源软件，它可以让我搜索文件的名称，或者整个硬盘上的文件内的内容。 我已经禁用了 Windows 搜索，所以我正在寻找一个轻便、快速且高效的解决方案。 你有什么建议吗？    提交人    /u/clara59000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1de3eh8/best_software_to_search_files_and_content_on/</guid>
+      <pubDate>Wed, 12 Jun 2024 10:30:51 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了 Relaxer：呼吸练习 CLI 工具 🎈</title>
       <link>https://www.reddit.com/r/opensource/comments/1de14v9/i_built_relaxer_breathing_exercises_cli_tool/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[https://github.com/KennyVaneetvelde/atomic_agents 我一直在研究一种名为 Atomic Agents 的新开源 AI 代理框架。在为自己的项目投入大量时间之后，我对 AutoGen 和 CrewAI 感到非常失望。 许多库试图隐藏很多东西，让一切看起来都很神奇。他们经常宣传这样的想法：“单击这 3 个按钮并输入这些提示，哇，现在你就有了一个完全自动化的 AI 新闻机构。”然而，这些解决方案往往在 95% 的时间内都无法满足您的要求，而且成本高昂且不可靠。 这些库试图通过自动任务委派等方式自主完成太多事情。虽然这非常酷，但对于生产来说往往毫无用处。大多数生产用例都更加直接，例如：  在网络上搜索主题 获取最有希望的 URL 查看这些页面 总结每个页面 ...  为了解决这个问题，我决定在 Instructor 之上构建我的框架，这是一个已经很棒的库，它使用 Pydantic 约束 LLM 输出。这使我们能够创建使用完全使用 Pydantic 定义的工具和输出的代理。 现在，需要明确的是，我仍然计划支持自动委派，事实上我已经开始在本地实现它，但是我发现大多数用例并不需要它，事实上，它因为给 AI 太多决定而受到影响。 结果是一个轻量级、灵活、透明的框架，对于我使用过的用例来说，它工作得非常好，即使在 GPT-3.5-turbo 和一些更大的本地模型上也是如此，而 autogen 和 crewAI 则是完全失败的案例，除非只使用最强大、最昂贵的模型。 我将不胜感激任何测试、反馈、贡献、错误报告……    提交人    /u/TheDeadlyPretzel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dcour6/atomic_agents_new_opensource_library_to_build_ai/</guid>
       <pubDate>Mon, 10 Jun 2024 15:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Linux 的离线 AI 视线校正用于预录视频？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dcog1v/linux_based_offline_ai_eye_gaze_correction_for/</link>
-      <description><![CDATA[我正准备拍摄视频，用我的 iPhone 捕捉动作，同时用一台运行 QPrompt 的布满灰尘的旧 Linux 平板电脑背诵台词。在我假装自己是一名演员之后，我想使用人工智能调整我的目光，这样看起来就像我真的在与相机互动，而不仅仅是盯着一旁的提词器。我有一台运行 Ubuntu Linux 的具有人工智能的 Razer Blade 16，但我找不到用于进行目光校正的 Linux 兼容离线人工智能解决方案。你能相信吗？我开始觉得宇宙在这里错过了一个备忘录；我的直觉告诉我这个轮子早就应该被发明出来了。有谁知道一个我可能错过的离线免费开源 Linux 兼容解决方案吗？    提交人    /u/LoganTI99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dcog1v/linux_based_offline_ai_eye_gaze_correction_for/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有快照功能的开源 PDF 阅读器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</link>
-      <description><![CDATA[嘿！ 我不想再使用 Adob​​e 了，但我真的需要运输标签的快照功能（我可以选择标签并直接打印） 有谁知道是否有一个开源程序也可以做到这一点？甚至可以编辑 PDF？    提交人    /u/Nathural   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:07:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
