@@ -3,8 +3,85 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 13 Jun 2024 15:14:26 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 13 Jun 2024 18:17:13 GMT</lastBuildDate>
+    <item>
+      <title>太多了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df5jza/too_much/</link>
+      <description><![CDATA[        提交人    /u/___Nazgul   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df5jza/too_much/</guid>
+      <pubDate>Thu, 13 Jun 2024 18:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么不自行托管 PostgreSQL？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df5h6l/why_not_selfhost_postgresql/</link>
+      <description><![CDATA[这个问题来自一个不熟悉数据库的人，所以请耐心等待。 我正在构建一个相当简单的 SaaS。最终，我希望再构建几个。没有一个是高容量、高复杂性或超大规模的。它们是适度的应用程序，可能有几百到几千个用户，解决基本问题，并且由我这个普通的程序员管理。 我正在努力找出前进方向的一个领域是使用正确的数据库。我所有的应用程序都将与 DB 通信。今天，我看到了多个云托管 DB 的选项，如 Supabase 和 AWS RDS。一般来说，Postgres 托管似乎相当昂贵。 所以，如果需求很简单，为什么我不能运行一个便宜的 VPS 并在其上运行 PostgreSQL，专门用于我？就像一个安装了 PostgreSQL 的 Digital Ocean 服务器一样，它一直在运行。我会通过一些脚本 cron 作业对其进行备份。服务器将仅接受来自我的白名单 IP 的请求并通过某种类型的身份验证密钥进行访问。如果有一天我需要水平扩展和负载平衡，那么我会担心它，因为这将是一个很棒的问题。 为什么这是一个坏主意？还是一个好主意？ 如果我确实走了这条路，最好的方法是什么？    提交人    /u/onetopic20x0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df5h6l/why_not_selfhost_postgresql/</guid>
+      <pubDate>Thu, 13 Jun 2024 18:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据您反馈，我重新制作了我的简历！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df5g2l/remade_my_cvresume_after_your_feedback/</link>
+      <description><![CDATA[      第一张图片是新的，只有一页的简历，第二张图片是旧的简历，我得到的主要提示是有很多空白空间，对于只有 3 个月经验的人来说，没有必要有 2 页的简历！ 遗憾的是，我现在才意识到我忘了在新简历上写上我的地址和出生日期🙃。随着我获得更多经验和知识，我将在工作经验下添加更多关于我在工作中所做的工作的信息！ 关于我的一些背景信息： 我参加了一个编码训练营/学院，我将在 10 月完成，但我在 3 月已经找到工作了！第二张图片是我用来找工作的简历，当时我对简历上的 Angular、Typescript、MVC 一无所知！我在工作中学到了这些（当然我还在学习） 告诉我你对新简历有什么看法？我添加的 github upwork linkedin 链接和我的电话号码/邮箱不好吗？ 我应该添加我居住的城市和出生日期吗？    提交人    /u/GotchYaBitchhhh   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df5g2l/remade_my_cvresume_after_your_feedback/</guid>
+      <pubDate>Thu, 13 Jun 2024 18:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁愿意接受指导吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df58nt/anyone_open_to_mentoring/</link>
+      <description><![CDATA[大家好，我上一份合同结束后才刚刚开始工作 5 个月，到目前为止只参加了一次面试。我于 2016 年毕业于计算机科学专业，但在 20 岁出头的时候混日子，可能不如同龄的普通求职者那么优秀。我目前正在从事投资组合项目和 LC，同时继续申请，但我希望更有经验的人愿意对我的背景给出诚实的反馈，看看我在简历上是否过高/过低地推销自己，以及为我的个人项目和 LC 磨练设定一个有竞争力但可实现的速度，这样我就可以努力赶上我的同龄人。    提交人    /u/clawficer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df58nt/anyone_open_to_mentoring/</guid>
+      <pubDate>Thu, 13 Jun 2024 17:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>图形用户界面有多复杂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df39s3/how_complex_is_a_graphing_ui/</link>
+      <description><![CDATA[所以我正在计划一个新项目。它与 draw.io 克隆有 90% 相似，但是，主要区别在于我将创建具有后端含义的模板 svg，一旦序列化为 xml 或 json。 只是想知道是否有人使用过 React DnD 或 graphviz，这样的界面有多复杂？ https://drawio-app.com/wp-content/uploads/2021/05/Split-connector.png    提交人    /u/Constant_Physics8504   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df39s3/how_complex_is_a_graphing_ui/</guid>
+      <pubDate>Thu, 13 Jun 2024 16:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>重定向不起作用，而是说这个</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df2o8z/redirecting_not_working_instead_it_says_this/</link>
+      <description><![CDATA[        提交人    /u/Visual_Spinach_210   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df2o8z/redirecting_not_working_instead_it_says_this/</guid>
+      <pubDate>Thu, 13 Jun 2024 16:07:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>简历反馈 - 评价我的简历</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df2gvf/resume_feedback_rate_my_resume/</link>
+      <description><![CDATA[      https://preview.redd.it/kl6swm8e3d6d1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=8e2bf9366c689e32e4fe953753d17342c84d71e6 https://preview.redd.it/9ao8km8e3d6d1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=4d95e677e3c511d1e90476c45e01ec5b6ac18f1c Hi WebDevs，对我的简历有什么建议吗？首先，我想知道写作是否正确，以及我所做的事情是否被理解。（在实际的简历中，项目符号显示正确）   由    /u/Deadline1231231  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df2gvf/resume_feedback_rate_my_resume/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>IAM 与 CIAM：区别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df2g8f/iam_vs_ciam_the_difference/</link>
+      <description><![CDATA[        提交人    /u/ege-aytin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df2g8f/iam_vs_ciam_the_difference/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有网络元素的 Zebra 扫描枪？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df26xu/zebra_scangun_with_web_element/</link>
+      <description><![CDATA[我想确认是否可以设置一个 Web 元素来捕获来自斑马扫描枪的数据。 这个想法是蓝牙控制器可以很好地与基于 Web 的游戏配合使用。那么，一个字段应该相当简单来捕获此输入？    提交人    /u/uberbewb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df26xu/zebra_scangun_with_web_element/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者浏览网站构建器和域名选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df1xm7/beginner_navigating_website_builders_and_domain/</link>
+      <description><![CDATA[如果这是错误的 subreddit，请告诉我，我会转到正确的 subreddit。 我正在尝试找出构建网站的适当步骤。我不知道如何从头开始做，并且一直在研究网站构建器。我研究过 Wix、Hostinger 和 HostGater。学会了不要使用 GoDaddy。我不确定我应该使用免费版还是付费版。我还试图弄清楚我是否应该单独购买这些网站构建器的域名，因为我最终会在学习过程中扩展网站并转移构建器。 该网站是为了个人兴趣，最终将转变为商业，甚至可能是非盈利的。该网站将只是一个信息和教育以及社交媒体集成的来源。没有电子商务。 我感觉有点迷茫，但我在谷歌上搜索时经常被引导到这个 subreddit！所以我想我可以在这里得到帮助。  提前谢谢您，如果我需要提供更多信息，请告诉我。     提交人    /u/BugetHead   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df1xm7/beginner_navigating_website_builders_and_domain/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:36:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过函数调用堆栈进行数据注入</title>
+      <link>https://www.reddit.com/r/webdev/comments/1df1u4x/data_injection_through_function_call_stack/</link>
+      <description><![CDATA[在 JavaScript 中，同样可以访问函数调用堆栈来查找错误。是否有一种本机方法可以在函数调用的上下文中注入数据，然后能够在函数调用堆栈中进一步访问该数据？或者至少检索某种函数调用的标识符，然后使用该标识符验证当前函数调用是否是另一个函数的调用堆栈的一部分？    提交人    /u/Necroblight   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1df1u4x/data_injection_through_function_call_stack/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:32:43 GMT</pubDate>
+    </item>
     <item>
       <title>我为我的网页设计业务建立了一个免费的网站开发成本计算器，它对于 SEO/参与度来说超级 OP。</title>
       <link>https://www.reddit.com/r/webdev/comments/1df17f7/i_built_a_free_website_development_cost/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我正在学习 Web 开发，现在我正在开发一个电子商务网站，我正在使用 react 和 node js 创建该网站，我面临的问题是，我上传的任何图像看起来都不一样，有的太宽，有的太高，我该如何让它们看起来一样呢。我试过使用“sharp”库，但图像被裁剪了，并且图像的很大一部分在此过程中丢失了。    提交人    /u/traps-are-notgay   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1df068k/resizing_uploaded_images_to_be_the_same/</guid>
       <pubDate>Thu, 13 Jun 2024 14:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 和 React 结合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dezqg0/php_and_react_together/</link>
-      <description><![CDATA[我决定在我的网站上使用 react 作为页面，但我偶然发现的一件事是我在前端文件中使用的后端代码。例如，在我的 html 中，我打开 &lt;?php?&gt; 以在特定的 div 中显示来自数据库的内容。我做了一些研究，我看到 json_encode 可以将数据从服务器端提取到客户端。但我仍然需要一些解释    提交人    /u/Greeniousity   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dezqg0/php_and_react_together/</guid>
-      <pubDate>Thu, 13 Jun 2024 14:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网络应用程序上使用麦克风后，麦克风切换为通话扬声器/音频</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dezash/microphone_switches_to_incall_speakeraudio_after/</link>
-      <description><![CDATA[我正在构建一个 Web 应用，该应用通过手机麦克风接收用户的音频输入，并输出不同的音频。如果我只是重播之前生成的音频（在新页面加载后），则会使用媒体音频，这是预期的。但是当我使用麦克风时，所有音频都会通过通话扬声器播放，这会导致质量大幅下降 :( 有人遇到过这种情况吗？有办法解决吗？    提交人    /u/nguyenkhoa2407   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dezash/microphone_switches_to_incall_speakeraudio_after/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有趣的网络开发博客或顶级工程师的访谈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dez9vv/looking_for_interesting_web_development_blogs_or/</link>
-      <description><![CDATA[我想知道是否有人可以给我推荐一些优秀的访谈或博客文章，这些访谈或博客文章是由最初从事大型应用程序（Twitter、Facebook、Airbnb 等）的工程师撰写的，他们在访谈或博客文章中谈到了他们在实施大规模新想法以及尝试以前可能没有做过的事情时所面临的挑战？ 非常感谢    提交人    /u/Alan-Greenflan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dez9vv/looking_for_interesting_web_development_blogs_or/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress 与 Vanilla HTML/CSS/JS 的结合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dez48y/wordpress_in_combination_with_vanilla_htmlcssjs/</link>
-      <description><![CDATA[大家好， 我是公司的一名 wordpress 开发人员，主要使用 elementor/plugins 来获得我想要的结果。 我知道如何用 html/css/javascript 编写代码，但从未真正使用过 php。由于 wordpress 和 elementor 使用 php 作为编码语言，我倾向于远离所有这些后端。 我目前正在尝试优化我在 google lighthouse 上的性能得分，似乎 elementor 和其他各种插件正在破坏我的 lighthouse 性能得分。这让我想到用纯 HTML 和 CSS 构建静态页面，而不是在 elementor 中完成所有操作。所以我基本上将所有文件上传到我的 wordpress 网站上传到的文件管理器中。我用一个简单的页面测试了它，它运行良好。性能轻而易举地获得了 100 分。 我计划用 html 和 css 替换我公司网站上的所有静态页面，而不是用 elementor 替换。  只是想知道是否有更多开发人员这样做过，或者我是否应该坚持使用 elementor 处理所有页面。     提交人    /u/FrakuDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dez48y/wordpress_in_combination_with_vanilla_htmlcssjs/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这份简历让我获得了第一份开发工作，哈哈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dez323/the_cvresume_that_got_me_my_first_dev_job_lol/</link>
-      <description><![CDATA[      不过我还是在工作，六月底合同到期了，希望我能取得了不错的成绩，所以他们延长了我的合同！我还没有完成学院/训练营！     提交人    /u/GotchYaBitchhhh   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dez323/the_cvresume_that_got_me_my_first_dev_job_lol/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>鉴于 TypeScript 提供的类型安全优势，为什么开发人员仍继续使用 JavaScript？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1deyv6z/why_do_developers_continue_to_use_javascript/</link>
-      <description><![CDATA[因为归根结底，你仍然只是在输出 JavaScript。 我并不是说 TypeScript 对促进良好实践和在构建时强制类型没有带来巨大的好处。但是，如果你是一个足够优秀或足够严格的 JavaScript 开发人员，你可以输出原始 JavaScript，并且与使用 TypeScript 时一样安全。 可能是因为 TypeScript 比一些 JavaScript 开发人员习惯的更复杂。它需要更多的学习。更多的代码。更高程度的质量控制。一些开发人员并不关心代码是否完美，而只是关心如何完成工作。虽然从长远来看，TypeScript 有助于构建可维护的高质量代码，但从短期来看，它需要更多的工作。更多的测量。更多的三重检查你的水平。更多的安全需要付出更多的努力。    提交人    /u/Silly-Roll-728   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1deyv6z/why_do_developers_continue_to_use_javascript/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理来自欧洲和北美的用户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1deyjvx/how_to_deal_with_users_coming_from_both_europe/</link>
-      <description><![CDATA[您好， 有一个 wordpress 网站，北美和欧洲用户都会访问它。 该网站目前托管在美国，但从法国访问服务器的时间约为 4 秒。 您会在哪里托管它，有什么好的做法可以尽可能快地加载？    提交人    /u/cypoun   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1deyjvx/how_to_deal_with_users_coming_from_both_europe/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nuxt 3 + Storyblok 感觉很棒</title>
-      <link>https://www.reddit.com/r/webdev/comments/1deyc5w/nuxt_3_storyblok_feels_great/</link>
-      <description><![CDATA[我要么通过硬编码内容来构建网站，只是为了获得顺风和更好地定制设计，要么使用 WSYWIG 编辑器来构建内容。 还可以连接手动编码的 rest api（如 DRF）以获取类似内容。 我不敢相信我这样做浪费了这么多时间。 我最近开始使用 JAMStack，它开始变得很有意义。 我刚刚浏览了 Storyblok Nuxt 指南，虽然里面有很多输入错误/不准确之处（只是杂项。忘记提及一些重要细节，写错了变量等），但在尝试将我自己的代码转换为组件后，我感到很欣喜。 无头 CMS 很棒。 Storyblok 是我学到的第一个，我真的真的真的很喜欢那里的实时编辑器。  看到我的 Vue 组件能够变成真正易于编辑和更新的内容，感觉很棒。 只是一篇欣赏帖子。我相信其他 Headless CMS 也很好。 但 Nuxt 3 + Storyblok 感觉不错。    提交人    /u/thezackplauche   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1deyc5w/nuxt_3_storyblok_feels_great/</guid>
-      <pubDate>Thu, 13 Jun 2024 12:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>React/Laravel 中 Chrome 录制的 .wav 文件在 Safari 上出现音频问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dey8t0/audio_issue_on_safari_with_chromerecorded_wav/</link>
-      <description><![CDATA[我正在为一个协会开发一个问答网络应用。管理员可以使用他们的 PC 或手机直接从网络应用中录制音频来回答用户的问题。我将音频保存为 .wav 格式。 我的问题如下：如果我在 Safari 上录制音频，我可以在各种类型的浏览器和设备上收听。但是，如果我使用 Chrome 录制音频，我可以在除 Safari 之外的任何浏览器上收听。 由于某些未知原因，音频无法播放，计数器停留在 00:00，好像音频不存在一样。我检查了服务器响应，音频已正确检索，并且没有错误。我不明白，这是 Safari 限制还是编码问题或其他问题？ 如果有人有答案，我将不胜感激。谢谢！   由    /u/akazaam  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dey8t0/audio_issue_on_safari_with_chromerecorded_wav/</guid>
-      <pubDate>Thu, 13 Jun 2024 12:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个交互式命令行组合。需要反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dey4kf/made_an_interactive_command_line_portfolio_need/</link>
-      <description><![CDATA[      所以我最近推出了我的作品集网站，并尝试使其具有交互性。  这是链接：- https://aryan-shan.github.io/Portfolio/ 它使用命令行界面执行用户命令并显示相关信息。 该作品集是开源的，因此您也可以贡献并使用它！ 代码库还有一个隐藏的复活节彩蛋命令列表。探索愉快！ 嘘：- 在命令行中输入此内容：- show_cat    提交人    /u/metallic_spoon09   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dey4kf/made_an_interactive_command_line_portfolio_need/</guid>
-      <pubDate>Thu, 13 Jun 2024 12:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>UwU Lend 在偿还 2000 万美元期间再次遭遇黑客攻击</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dexrl2/uwu_lend_hacked_again_during_20_million_payback/</link>
-      <description><![CDATA[        提交人    /u/webbs3   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dexrl2/uwu_lend_hacked_again_during_20_million_payback/</guid>
-      <pubDate>Thu, 13 Jun 2024 12:27:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
