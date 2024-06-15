@@ -4,11 +4,32 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 15 Jun 2024 12:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 15:13:51 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Yaak 不是开源的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dgis44/why_yaak_is_not_open_source/</link>
+      <description><![CDATA[        提交人    /u/David_AnkiDroid   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dgis44/why_yaak_is_not_open_source/</guid>
+      <pubDate>Sat, 15 Jun 2024 14:08:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hippotable：浏览器中的数据分析。寻求对 readme 和 demo 的反馈。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dgi1w4/hippotable_data_analysis_in_your_browser_looking/</link>
+      <description><![CDATA[       由    /u/vklepov  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dgi1w4/hippotable_data_analysis_in_your_browser_looking/</guid>
+      <pubDate>Sat, 15 Jun 2024 13:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xorg 测试场地 toolik 几天前发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dgh0yg/xorg_testing_ground_toolik_released_few_days_ago/</link>
+      <description><![CDATA[https://www.phoronix.com/news/Xorg-Testing-Ground-Toolkit    由   提交  /u/metux-its   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dgh0yg/xorg_testing_ground_toolik_released_few_days_ago/</guid>
+      <pubDate>Sat, 15 Jun 2024 12:36:58 GMT</pubDate>
+    </item>
     <item>
       <title>Eicrud：一个 CRUD/授权 Node.js 框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1dgfwb5/eicrud_a_crudauthorization_nodejs_framework/</link>
-      <description><![CDATA[GitHub 链接 我制作 Eicrud 是因为在编写 CRUD 应用程序时我厌倦了样板代码。 您所要做的就是专注于数据模型和授权规则，然后 Eicrud 会为您处理样板（保护、控制器、基本方法、客户端...）。 如果您需要执行非 CRUD 操作，您可以使用命令并编写您想要的任何逻辑。 您可以提供微服务配置以使您的应用程序分布式，当调用您的服务方法时，它会运行实现或根据您所在的位置进行 http 调用。 它基于 NestJS，因此您可以使用其 API 来处理边缘情况。 所有软件包均在 GitHub Actions 上签名，如果您想尝试并有任何问题，我很乐意回答。 文档从这里开始。    提交人    /u/acrosett   [link] [评论]]]></description>
+      <description><![CDATA[GitHub 链接 我制作 Eicrud 是因为在编写 CRUD 应用程序时我厌倦了样板代码。 您所要做的就是专注于数据模型和授权规则，然后 Eicrud 会为您处理样板（保护、控制器、基本方法、客户端...）。 如果您需要执行非 CRUD 操作，您可以使用命令并编写您想要的任何逻辑。 您可以提供微服务配置以使您的应用程序分布式，当调用您的服务方法时，它会运行实现或根据您所在的位置进行 http 调用。 它基于 NestJS，因此您可以使用其 API 处理边缘情况。 所有软件包均在 GitHub Actions 上签名，如果您想尝试并有任何问题，我很乐意回答。 文档从这里开始。    提交人    /u/acrosett   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dgfwb5/eicrud_a_crudauthorization_nodejs_framework/</guid>
       <pubDate>Sat, 15 Jun 2024 11:29:50 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Anonymus-Raccoon  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dfvtij/the_challenge_of_writing_a_ondemand_transcoder/</guid>
       <pubDate>Fri, 14 Jun 2024 17:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>在开源人工智能定义草案中，数据信息很难理解：阅读此摘要并在论坛上分享您的想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dfre0c/data_information_in_the_draft_open_source_ai/</link>
-      <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dfre0c/data_information_in_the_draft_open_source_ai/</guid>
-      <pubDate>Fri, 14 Jun 2024 13:54:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>很高兴与大家分享 tdlib-rs 的新跨平台版本🦀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dfp9fa/thrilled_to_share_the_new_crossplatform_version/</link>
-      <description><![CDATA[        由    /u/FedericoBruzzone  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dfp9fa/thrilled_to_share_the_new_crossplatform_version/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔 Embree 4.3.2 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dfo9os/intel_embree_432_released/</link>
-      <description><![CDATA[        提交人    /u/reps_up   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dfo9os/intel_embree_432_released/</guid>
-      <pubDate>Fri, 14 Jun 2024 11:08:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
