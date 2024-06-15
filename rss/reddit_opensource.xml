@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 15 Jun 2024 09:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 12:22:11 GMT</lastBuildDate>
+    <item>
+      <title>Eicrud：一个 CRUD/授权 Node.js 框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dgfwb5/eicrud_a_crudauthorization_nodejs_framework/</link>
+      <description><![CDATA[GitHub 链接 我制作 Eicrud 是因为在编写 CRUD 应用程序时我厌倦了样板代码。 您所要做的就是专注于数据模型和授权规则，然后 Eicrud 会为您处理样板（保护、控制器、基本方法、客户端...）。 如果您需要执行非 CRUD 操作，您可以使用命令并编写您想要的任何逻辑。 您可以提供微服务配置以使您的应用程序分布式，当调用您的服务方法时，它会运行实现或根据您所在的位置进行 http 调用。 它基于 NestJS，因此您可以使用其 API 来处理边缘情况。 所有软件包均在 GitHub Actions 上签名，如果您想尝试并有任何问题，我很乐意回答。 文档从这里开始。    提交人    /u/acrosett   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dgfwb5/eicrud_a_crudauthorization_nodejs_framework/</guid>
+      <pubDate>Sat, 15 Jun 2024 11:29:50 GMT</pubDate>
+    </item>
     <item>
       <title>互联网之战：开放与封闭</title>
       <link>https://www.reddit.com/r/opensource/comments/1dgdx8z/the_battle_for_the_internet_open_vs_closed/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>介绍 DataOptimizer：创建文件夹、删除重复项等等！</title>
       <link>https://www.reddit.com/r/opensource/comments/1dg7dx8/introducing_dataoptimizer_create_folders_remove/</link>
-      <description><![CDATA[大家好！👋 我刚刚发布了DataOptimizer，这是一个旨在帮助管理和优化文件系统的工具。以下是一些主要功能：  创建文件夹：从列表快速生成文件夹结构。 删除重复项：使用多种方法（哈希、大小、名称、日期）识别和删除重复文件。 分析文件大小：扫描目录以分析和可视化文件大小。 合并类似文件夹：自动查找并合并具有类似结构的文件夹。  我正在寻求反馈，希望您能查看一下！ GitHub：DataOptimizer 欢迎您的建议和贡献。提前致谢！🙏    提交人    /u/tilltmk   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我刚刚发布了DataOptimizer，这是一个旨在帮助管理和优化文件系统的工具。以下是一些主要功能：  创建文件夹：从列表快速生成文件夹结构。 删除重复项：使用多种方法（哈希、大小、名称、日期）识别和删除重复文件。 分析文件大小：扫描目录以分析和可视化文件大小。 合并类似文件夹：自动查找并合并具有类似结构的文件夹。  我正在寻求反馈，希望您能查看一下！ GitHub：DataOptimizer    提交人    /u/tilltmk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dg7dx8/introducing_dataoptimizer_create_folders_remove/</guid>
       <pubDate>Sat, 15 Jun 2024 02:06:46 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/reps_up   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dfo9os/intel_embree_432_released/</guid>
       <pubDate>Fri, 14 Jun 2024 11:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>hours - 一款为命令行爱好者提供的简洁时间跟踪工具包。支持生成纯文本日志、报告和跟踪时间的汇总统计信息。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dfnpvs/hours_a_nofrills_time_tracking_toolkit_for/</link>
-      <description><![CDATA[        提交人    /u/hingle0mcringleberry   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dfnpvs/hours_a_nofrills_time_tracking_toolkit_for/</guid>
-      <pubDate>Fri, 14 Jun 2024 10:32:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
