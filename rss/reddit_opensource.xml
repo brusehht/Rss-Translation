@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 16 Jun 2024 00:59:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 03:14:51 GMT</lastBuildDate>
+    <item>
+      <title>有没有 Dragon Professional Speech Recognition 的开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dgw6eu/is_there_an_open_source_alternative_to_dragon/</link>
+      <description><![CDATA[想知道是否有与 Dragon Professional Speech Recognition 功能相近的开源替代方案？我希望能够在 Windows 10 笔记本电脑上使用的任何应用程序或浏览器上进行语音转文本。谢谢。 https://www.nuance.com/dragon/business-solutions/dragon-professional.html    提交人    /u/exercisesports321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dgw6eu/is_there_an_open_source_alternative_to_dragon/</guid>
+      <pubDate>Sun, 16 Jun 2024 01:00:59 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 fixit：一个用 Rust 编写的、受 thefuck 启发的快速修复命令行错误的实用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1dgv5ie/introducing_fixit_a_fast_utility_to_fix_your/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿，我刚刚发布了DataOptimizer，这是一个旨在帮助管理和优化文件系统的工具。以下是一些主要功能：  创建文件夹：从列表快速生成文件夹结构。 删除重复项：使用多种方法（哈希、大小、名称、日期）识别和删除重复文件。 分析文件大小：扫描目录以分析和可视化文件大小。 合并类似文件夹：自动查找并合并具有类似结构的文件夹。  我正在寻求反馈，希望您能查看一下！ GitHub：DataOptimizer    提交人    /u/tilltmk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dg7dx8/introducing_dataoptimizer_create_folders_remove/</guid>
       <pubDate>Sat, 15 Jun 2024 02:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GPT-4o 创建了 Apple 的《数学笔记》的开源版本！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dg7339/created_an_open_source_version_of_math_notes_from/</link>
-      <description><![CDATA[        由    /u/_ayushp_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dg7339/created_an_open_source_version_of_math_notes_from/</guid>
-      <pubDate>Sat, 15 Jun 2024 01:50:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
