@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 12:23:51 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 19 Jun 2024 18:16:23 GMT</lastBuildDate>
     <item>
-      <title>有人希望 CHIPS 接管第三方 cookie 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djhi26/is_anyone_hoping_chips_takes_over_for_3rd_party/</link>
-      <description><![CDATA[一个简单的 `Partitioned` 标头肯定比必须请求第三方应用程序（例如 shopify 商店应用程序）的权限更好 https://developers.google.com/privacy-sandbox/3pcd/chips    提交人    /u/DumbQuestionUser   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djhi26/is_anyone_hoping_chips_takes_over_for_3rd_party/</guid>
-      <pubDate>Wed, 19 Jun 2024 12:05:00 GMT</pubDate>
+      <title>雇主真的会雇用初级全栈开发人员吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djppn4/do_employers_really_hire_junior_fullstack/</link>
+      <description><![CDATA[我猜雇主很少会把公司的数据库托付给一个完全的新手。我从 YT 编程“大师”那里听到过很多次这种说法，这完全有道理。但市场是什么样的？期望他们会雇佣一个从未担任过全栈开发人员的人现实吗？    提交人    /u/InternalRide2024   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djppn4/do_employers_really_hire_junior_fullstack/</guid>
+      <pubDate>Wed, 19 Jun 2024 18:04:38 GMT</pubDate>
     </item>
     <item>
-      <title>自定义域名对于您的投资组合来说是绝对必要的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djhcv1/is_a_custom_domain_name_an_absolute_must_for_your/</link>
-      <description><![CDATA[我现在有点买不起自定义域名，我目前在 vercel 上托管。  如果将我的投资组合网站发送给招聘人员或招聘经理（无论是否技术）并且域名以 vercelDOTapp 结尾，会给人留下不好的第一印象吗？    提交人    /u/hh_based   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djhcv1/is_a_custom_domain_name_an_absolute_must_for_your/</guid>
-      <pubDate>Wed, 19 Jun 2024 11:57:29 GMT</pubDate>
+      <title>关于将 WordPress API 与 Next/React 结合使用的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djpp76/questions_about_using_the_wordpress_api_with/</link>
+      <description><![CDATA[大家好， 长话短说，我公司有几个网站将具有博客方面的内容。非技术员工将撰写这些博客。我的思维过程大致如下： 1. 在 Wordpress 上创建博客文章/一系列文章 2. 从 React 网站查询 Wordpress REST API 并获取按标签或全部或其他方式排序的相关文章，然后在网站上显示博客。 显然这过于简单化了，但这听起来正确吗？ 我的问题： 1. Wordpress dot com 与 dot org？ 2. 撰写博客的人是否必须对其进行样式化？或者他们只需输入/添加图片等，然后开发人员负责非 wordpress 网站上的样式？ 3. 我是否遗漏了此过程中的某些内容？  提前致谢！    由    /u/mzkpenguin 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djpp76/questions_about_using_the_wordpress_api_with/</guid>
+      <pubDate>Wed, 19 Jun 2024 18:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>介绍 DIVZ - 一个用于在 3D z 轴上滚动、滑动和缩放 HTML 内容的 React 组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djh656/introducing_divz_a_react_component_to_scroll/</link>
-      <description><![CDATA[        提交人    /u/ProffesionalAds   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djh656/introducing_divz_a_react_component_to_scroll/</guid>
-      <pubDate>Wed, 19 Jun 2024 11:47:11 GMT</pubDate>
+      <title>针对代理机构的自定义网站与 WordPress 对比</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djpdfa/custom_sites_vs_wordpress_for_agencies/</link>
+      <description><![CDATA[我从事网页开发自由职业已有一段时间了，主要使用 React。考虑到与自由职业相比，作为代理机构运营有很多好处，我决定创办自己的代理机构。 经过研究，我发现大多数代理机构现在都使用 WordPress 或 Shopify，它们对小型和大型网站都适用。这些平台缩短了开发时间并为客户提供了 CMS，从而消除了额外成本。 我的问题是，我应该继续使用 React 进行开发，还是应该切换到 WordPress 或其他工具？我怀疑我可能与之合作的小公司会​​关心网站是否是定制的。他们可能更喜欢直接的解决方案。使用 WordPress 或 Shopify 可以让我提供更便宜、更具竞争力的价格，因为开发时间会更短，从而进一步激励客户。    提交人    /u/moistpigeom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djpdfa/custom_sites_vs_wordpress_for_agencies/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:50:39 GMT</pubDate>
     </item>
     <item>
-      <title>我在加拿大申请了 250 份工作，却没有得到面试机会。请帮我审阅简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djgobe/i_havent_gotten_a_job_interview_in_canada_after/</link>
-      <description><![CDATA[      标题说明了一切。感谢所有帮助     提交人    /u/Aksh247   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djgobe/i_havent_gotten_a_job_interview_in_canada_after/</guid>
-      <pubDate>Wed, 19 Jun 2024 11:18:49 GMT</pubDate>
+      <title>如何让用户能够将自定义域连接到我们的服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djp8o3/how_to_make_user_able_to_connect_custom_domain_to/</link>
+      <description><![CDATA[嗨， 我搜索了一段时间，想找一个真正深入探讨这个主题并解释如何实现这个目标的视频。我有兴趣让用户将他们的自定义域连接到我们的服务。 在我们的网站上，用户可以创建可在类似 .../{unique_slug} 的 URL 上使用的项目。 我尝试过并且有效的是：  在连接自定义域时，我将 ../{unique_slug} 的内容上传到 Github 存储库 在存储库中我有 CNAME 文件 用户必须更新他的 DNS 以指向我们的 Github  添加自定义域功能的最佳方法是什么？ 谢谢！    提交人    /u/tomarares   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djp8o3/how_to_make_user_able_to_connect_custom_domain_to/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:45:01 GMT</pubDate>
     </item>
     <item>
-      <title>有人订阅了 Builtwith 吗？需要 1 份报告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djet03/anyone_have_a_builtwith_subscription_need_1_report/</link>
-      <description><![CDATA[我们是一家小型初创公司，无法支付高昂的订阅费用。因此，希望已经订阅的各位能提供一些帮助。 我只需要 1 份使用特定技术的报告来构建外展列表。 也很乐意付费，谢谢    提交人    /u/Upset-Appointment691   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djet03/anyone_have_a_builtwith_subscription_need_1_report/</guid>
-      <pubDate>Wed, 19 Jun 2024 09:16:31 GMT</pubDate>
+      <title>CLoudflare 在 k6 http 压力测试网站时出现错误 1101</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djp440/cloudflare_error_1101_when_k6_http_stress_testing/</link>
+      <description><![CDATA[      在发布我的 SaaS 之前，我尝试在我的 SaaS 上运行 k6 http 压力测试，通过在 1 分钟左右的时间内刺激流量从 1 个用户增加到 100 个用户。代码如下所示：  import http from &#39;k6/http&#39;; import { check, sleep } from &#39;k6&#39;; import { Rate } from &#39;k6/metrics&#39;; // 自定义指标以跟踪失败率 export let errorRate = new Rate(&#39;errors&#39;); export let options = { stage: [ { duration: &#39;1m&#39;, target: 100 }, // 模拟 1 分钟内流量从 1 个用户增加到 100 个用户 { duration: &#39;2m&#39;, target: 100 }, // 在 100 个用户处停留 2 分钟 ], Thresholds: { errors: [&#39;rate&lt;0.01&#39;], // 将错误率保持在 1% 以下 }, }; export default function () { let res = http.get(&#39;https://superduperwebsite.com&#39;); // 用你的 web 应用的 URL 替换 // 检查响应状态是否为 200 let result = check(res, { &#39;status is 200&#39;: (r) =&gt; r.status === 200, }); // 跟踪失败 if (!result) { errorRate.add(1); } // 在迭代之间休眠 1 秒以模拟用户思考时间 sleep(1); }  当它运行时以及当我自己尝试访问 SaaS 网站时，有时我会从 Cloudflare（我的 SaaS 前端部署在那里）收到错误 1101 Worker thrown exception error。我正在使用 Supabase 作为后端服务。以下是错误图片： 错误 1101 Cloudflare 我在 Cloudflare 仪表板中找不到错误日志，所以我不知道为什么会出现此错误。也许是因为 Cloudflare 设置了速率限制？    提交人    /u/1chbinamin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djp440/cloudflare_error_1101_when_k6_http_stress_testing/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:39:52 GMT</pubDate>
     </item>
     <item>
-      <title>如何配置 SWC 以忽略输出文件夹中的 src</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dje4iw/how_can_i_configure_swc_to_ignore_src_in_the/</link>
-      <description><![CDATA[运行 swc 时，会编译来自 src 的代码，但如何从输出文件夹中删除 src 文件夹呢？ src/a.ts 被编译为 build/src/a.js 我想要的是： build/a.js    提交人    /u/riscos3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dje4iw/how_can_i_configure_swc_to_ignore_src_in_the/</guid>
-      <pubDate>Wed, 19 Jun 2024 08:27:30 GMT</pubDate>
+      <title>HTML 画布动画的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djp3kh/suggestions_for_html_canvas_animations/</link>
+      <description><![CDATA[嗨，同事们， 有人碰巧有他们见过的最酷的画布动画之一的链接并想在这里分享吗？ 我正在寻找可以用作我的作品集网站背景的动画，我正在寻找想法和建议。  TIA    提交人    /u/esibangi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djp3kh/suggestions_for_html_canvas_animations/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:39:14 GMT</pubDate>
     </item>
     <item>
-      <title>您如何为客户处理域名注册？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djdlx8/how_do_you_deal_with_domains_registration_for/</link>
-      <description><![CDATA[你们如何为客户注册域名？如果客户根本没有网站，你会：  要求客户购买域名，并将他们的名称服务器指向你的主机？（这也是有风险的，因为域名注册商有时也提供“网站构建器”附加功能，这也可能阻止你的客户）。 或者你用自己的名义注册域名？（当 TLD 不允许隐私时，这很棘手） 或者你在域名注册网站（即 namecheap）上为他们创建一个帐户并以他们的名义注册，并允许他们在注册商网站上访问他们的用户名和密码。 （仍然有风险，因为注册商有时喜欢发送营销材料，这也会阻止您的客户）  我不想让它看起来像我没有为客户提供任何价值，但有时客户认为 10 美元/月的网站构建器比您的成本更有吸引力，即使网站构建器通常不是最好的。 我问是因为一些 TLD 没有可用的隐私（这些是我将主要处理的域）并且需要显示您的个人信息。当您是一家公司并且输入公司详细信息而不是个人详细信息时，这是可以的。 你如何绕过这个棘手的斜坡？特别是如果您刚刚开始为您的客户创建和托管网站的副业。    提交人    /u/DropBears12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djdlx8/how_do_you_deal_with_domains_registration_for/</guid>
-      <pubDate>Wed, 19 Jun 2024 07:50:21 GMT</pubDate>
+      <title>您使用追踪解决了哪些问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djoxrh/what_issues_have_you_solved_using_tracing/</link>
+      <description><![CDATA[我很想听听您使用跟踪解决代码库中的错误或性能问题的故事。对于哪些类型的问题，您发现跟踪对于修复/解决至关重要？它们发生的频率是多少？ 编辑：我指的是使用像 OTEL 这样​​的库来跟踪您的代码库，并使用跨度来跟踪您的操作流程。    提交人    /u/nikolovlazar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djoxrh/what_issues_have_you_solved_using_tracing/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:32:30 GMT</pubDate>
     </item>
     <item>
-      <title>Vite 本地服务器问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djcsow/vite_local_server_question/</link>
-      <description><![CDATA[我开始将 Vite 集成到一个非常大的应用程序中，该应用程序曾经使用过 webpack。显然，它更快、更方便，但我遇到的一个问题是本地服务器和生产包之间的差异。使用 whack，我可以在很大程度上依靠这样一个事实：如果它在本地有效，那么它在生产中也能有效，但据我所知，vite 在本地提供文件的方式非常不同，并且不使用与生产捆绑相同的分块机制。有没有办法解决这个问题并确保本地复制生产方法？ 就上下文而言，我发现如果我将一个通用 JS 模块直接动态导入我的代码中，它可以与本地服务器一起使用，但在捆绑模式下，它会在运行时崩溃并出现错误“require not defined”。我已经能够通过在我的项目中动态导入一个文件来解决这个问题，而这个项目本身会非动态地导入通用 js 模块。     由    /u/macchiato_kubideh 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djcsow/vite_local_server_question/</guid>
-      <pubDate>Wed, 19 Jun 2024 06:53:41 GMT</pubDate>
+      <title>投资组合反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djoo4i/portfolio_feedback/</link>
+      <description><![CDATA[我刚刚重新制作了我的投资组合，以自动从 github 中提取，寻找一些关于我应该更改或做些什么以使其更加突出的反馈。 它目前从 graphql 和项目/网站/应用程序中提取最常用的语言。 https://v9.rs    由   提交  /u/DrBrad__   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djoo4i/portfolio_feedback/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:21:12 GMT</pubDate>
     </item>
     <item>
-      <title>您最近在 Web 开发中遇到的最大挑战是什么？您是如何克服的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djbskh/whats_the_biggest_challenge_youve_faced_in_web/</link>
-      <description><![CDATA[大家好，r/webdev 社区！ Web 开发有时就像在迷宫中穿行，墙壁不断变化，尤其是在技术和客户需求不断更新的情况下。我相信你们中的许多人都面临过独特的挑战，这些挑战将你们的技能推向了极限。我认为分享这些故事可能会很有启发性（也许还有一点治疗作用）。 这是我最近遇到的障碍： 我不得不集成一个不熟悉的第三方 API，该 API 文档记录不全，并且总是以不可预测的方式失败。我经过了大量的反复试验，最终深入研究了一些社区论坛，才找到一个让事情顺利运行的解决方法。 你呢？最近在 Web 开发过程中，你遇到了哪些挑战？你是如何应对的？有什么技巧或窍门可以帮助处于类似情况的其他人吗？ 我相信我们都可以从彼此的经历中学到很多东西，我迫不及待地想阅读您的故事！    提交人    /u/Dushusir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djbskh/whats_the_biggest_challenge_youve_faced_in_web/</guid>
-      <pubDate>Wed, 19 Jun 2024 05:47:55 GMT</pubDate>
+      <title>寻找类似于 TVMaze 的电视节目搜索 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djoetx/looking_for_a_tv_show_search_api_similar_to_tvmaze/</link>
+      <description><![CDATA[TL:DR - 我正在寻找一个电视节目 API 服务，它可以返回官方流媒体平台的 URL，面向英国（或全球，包含英国内容）。 给版主的提示：这根本不涉及盗版，我只对官方/合法媒体来源感兴趣。 我的母亲年纪大了，看了很多电视节目。她很容易感到困惑，经常点击恶意网站或广告，这让她感到沮丧和不安。我们试过使用浏览器书签，但发现她最终会意外移动或删除它们，而不知道如何恢复。 我想为她创建一个自定义主页，其中包含指向她使用的常用网站的大型便捷链接以及电视节目搜索功能，以便她可以找到她想看的内容并自动转到官方网站观看节目。 到目前为止，我发现了 TVMaze API，它几乎是我想要的，但还不够。在 TVMaze 网站上，每个节目都有一个“在 {website} 上观看”类型的链接。例如，节目 Eastenders 有一个在 BBC iPlayer 上观看的链接，但是我检查了他们的 API，它并没有通过 API 显示相同的 URL。 有人知道任何类似的 API 服务可以提供这种类型的数据吗？    提交人    /u/fitzy89   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djoetx/looking_for_a_tv_show_search_api_similar_to_tvmaze/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>删除代码后代码效果还保留吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djb3ts/code_effects_staying_after_deleting_code/</link>
-      <description><![CDATA[我正在 Squarespace 上开发一个网站。我在页脚添加了一些 Java 代码，并尝试使用自定义 CSS 制作动画，单击导航中的页面时，页面下方会出现一行，我不喜欢这种效果，于是删除了所有代码，但现在当我单击网站上的某个页面时，那里仍然会出现一行。不知道没有代码的情况下，这种情况是如何持续存在的。 有谁能帮忙，谢谢！    提交人    /u/captainradli   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djb3ts/code_effects_staying_after_deleting_code/</guid>
-      <pubDate>Wed, 19 Jun 2024 05:02:52 GMT</pubDate>
+      <title>需要您对要添加到简历中的项目提出意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djnt0x/need_your_opinion_on_projects_to_add_in_resume/</link>
+      <description><![CDATA[大家好，我将做一些项目来添加到我的简历中。我在下面列出了我的一些想法。您认为其中哪一个会给招聘人员留下好印象？  实时聊天应用程序 电子商务平台 酒店预订平台 活动管理平台 测验应用程序  如果您有任何提示或想法，请分享。 注意 - 我将使用 MERN Stack 和 NextJS。    提交人    /u/hungrypasta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djnt0x/need_your_opinion_on_projects_to_add_in_resume/</guid>
+      <pubDate>Wed, 19 Jun 2024 16:45:23 GMT</pubDate>
     </item>
     <item>
-      <title>Hostinger 还是 HostGator？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djawqv/hostinger_or_hostgator/</link>
-      <description><![CDATA[我想订阅年度计划，但我不知道该选择谁。 我使用 HostGator 已经 2 年了，我很喜欢它，因为它有很好的支持和用户界面/体验，但 Hostinger 现在提供更便宜的计划。 你的看法是什么？ PS：我只需要托管一个充满图像和文本的登录页面。    提交人    /u/CaptainCook1770   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djawqv/hostinger_or_hostgator/</guid>
-      <pubDate>Wed, 19 Jun 2024 04:50:38 GMT</pubDate>
+      <title>渲染出口成本相当昂贵。有人有其他替代方案可以推荐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djnnp7/render_egress_costs_are_pretty_expensive_anyone/</link>
+      <description><![CDATA[我正在将一个 Web 应用程序部署到云中。我就不多说了，但对我来说，最大的问题基本上是出口成本。该 Web 应用程序是 Docker 化的，因此部署到 Render 非常容易，只需将其指向我的 Docker 存储库并上传图像即可。但我最近意识到 Render 的出口成本非常高。每 GB 0.30 美元。这太疯狂了，其他提供商的价格不到这个数字的一​​半。但有太多其他提供商，我不知道该选择谁。 所以我问r/webdev - 有没有人成功使用过 Render 的替代品，如 Fly.io、DOCN 等？有什么推荐的吗？我更愿意避免使用像 AWS 这样的超级云，因为它们太复杂了。 谢谢！    提交人    /u/defaultSubreditsBlow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djnnp7/render_egress_costs_are_pretty_expensive_anyone/</guid>
+      <pubDate>Wed, 19 Jun 2024 16:39:09 GMT</pubDate>
     </item>
     <item>
-      <title>需要有关滚动驱动文本显示动画的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1djaijp/need_help_with_scroll_driven_text_reveal_animation/</link>
-      <description><![CDATA[我在这里做了一个示例 https://codepen.io/amr3k/pen/PovQExV 它可以正常工作，但缺少一件事，那就是整个文本块都是动画，而不是逐行动画。 怎么做？ 谢谢。    提交人    /u/amr3k   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1djaijp/need_help_with_scroll_driven_text_reveal_animation/</guid>
-      <pubDate>Wed, 19 Jun 2024 04:26:35 GMT</pubDate>
+      <title>Webdev 更改了名称服务器，现在我收不到电子邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djmru1/webdev_changed_nameserver_now_i_dont_get_emails/</link>
+      <description><![CDATA[在 Upwork 上聘请了一名开发人员，使用 WordPress 为我创建一个新网站。该网站现已完成，因此他们要求访问我的域名以完成所有设置。  我授予他们访问权限，但现在我无法收到发送到我的 gmail 帐户的电子邮件。  我使用 NameCheap 进行域名管理，看起来他们将名称服务器从“Namecheap BasicDNS”更改为“Namecheap Web Hosting DNS” 我将其改回基本，现在无法访问该网站。我该怎么办？     提交人    /u/Easy-Money69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djmru1/webdev_changed_nameserver_now_i_dont_get_emails/</guid>
+      <pubDate>Wed, 19 Jun 2024 16:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>用于网站集成的股票/加密 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dj94n1/stockcrypto_api_for_website_integrations/</link>
-      <description><![CDATA[大家好， 想要建立一个网站，并将每只股票的股票图表集成到其自己的单独页面上。我想为每只实际股票和每张可能的加密货币图表建立一个页面。寻找一个可以让我以便宜的价格将其集成到我的网站上的 API，或者即使我可以建立一个来省钱？我可以雇人建立一个 API 吗？如果可能的话，有什么意见吗？    提交人    /u/jluc21   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dj94n1/stockcrypto_api_for_website_integrations/</guid>
-      <pubDate>Wed, 19 Jun 2024 03:08:00 GMT</pubDate>
+      <title>初级 Webdev - 子域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djmbap/beginner_webdev_subdomain/</link>
+      <description><![CDATA[嗨， 我是初学者。  刚刚为我的博客新闻创建了 2 个子域名。（从 HostGator 通过 Cpanel）。链接无效，我应该在 GoDaddy 上做些什么吗？谢谢    提交人    /u/the_moon_youka   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djmbap/beginner_webdev_subdomain/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>无代码表格和数据库数据记录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dj8bjd/codeless_form_database_data_record/</link>
-      <description><![CDATA[是否有自托管框架或 CMS，提供无代码表单设计（拖放）、将数据存储在数据库中，并在带有图表和搜索功能的仪表板上显示数据？  我目前正在考虑使用 PHP 的 Laravel，但我发现编码方面非常耗时。以前，数据被输入到 Google 表格中，但现在这种方法似乎已经过时了。 我正在寻找一种解决方案，允许使用拖放功能快速设计表单，定义要连接和存储数据的数据库，在带有图表的仪表板上显示数据，提供数据导出选项，提供用户管理，并包含搜索功能。这样，我们可以专注于扩展系统的功能，而不是处理编码。    提交人    /u/cjoenic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dj8bjd/codeless_form_database_data_record/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:25:11 GMT</pubDate>
+      <title>签下首批可带来经常性收入的客户，并提供全套托管服务。是否有二手市场可以出售客户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djm4d6/signing_first_reoccuring_revenue_clients_with/</link>
+      <description><![CDATA[我知道在许多行业中，都有以 1 倍年收入出售客户的方法。刚开始从事 Web 开发或已经建立网站的人可以将一些新客户/网站添加到他们的投资组合中，并获得所有经常性收入。 我为许多客户设定了预付收入，然后他们每月支付托管域名等费用，从而获得持续收入。对于某些客户，这个数字高达每月 50 美元。 这有市场吗？如果有，那么“出售”客户的典型价格是多少。    提交人    /u/PerryPoppins7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djm4d6/signing_first_reoccuring_revenue_clients_with/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:34:53 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 10web.io 的糟糕经历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dj865z/my_horrible_experiences_with_10webio/</link>
-      <description><![CDATA[这是对所有考虑在 10web.io 上建立或托管网站的人的警告。  客户服务充其量是缓慢的。他们花了 4 天才回复我的票，当他们最终做出回应时，却是用蹩脚的英语，即使在清楚地解释了问题之后也没有提供任何帮助。我甚至向他们解释了如何在他们那边解决这个问题，但他们在每一步都在抵制。  由于兼容性问题，他们内置的插件/应用程序只会带来麻烦。  他们的备份恢复功能根本不起作用。它破坏了我所有的权限。  他们多次无缘无故地禁止了我的家庭 IP 地址，即使说它已被列入白名单。  他们的 AI 功能可笑且过时。  远离。   由    /u/Erdeem  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dj865z/my_horrible_experiences_with_10webio/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:17:19 GMT</pubDate>
+      <title>Cloudflare Stream——它是直播应用的最佳选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1djlr0b/cloudflare_stream_is_it_the_best_choice_for_a/</link>
+      <description><![CDATA[我正在寻求任何使用过 Cloudflare Stream 直播应用程序的人的建议。我主要想知道它是否是最具成本效益和最有效的解决方案。我之前没有涉足流媒体世界，所以如果我听起来像我感觉的那样迷茫，我深表歉意。 我计划创建一个仅供朋友和家人使用的直播应用程序，但最终希望扩展它。它将全部是从网络摄像头直接向最终用户发送的实时视频。该应用程序不会存储或保存任何视频，它只会是实时视频。 本质上，有人直播，用户可以加入观看类似于 Twitch、Younow 等的直播，但要简单得多。 这是用于这种类型事物的正确服务吗？ 提前致谢！   由    /u/WranglerReasonable91  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1djlr0b/cloudflare_stream_is_it_the_best_choice_for_a/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:19:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

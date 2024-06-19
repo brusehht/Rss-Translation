@@ -4,7 +4,98 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 12:23:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:15:59 GMT</lastBuildDate>
+    <item>
+      <title>请推荐一个应用程序/程序，可以在一些笔记旁边放置一张照片，并能够通过拖放对每个条目进行排序？</title>
+      <link>https://www.reddit.com/r/software/comments/1djnz21/please_suggest_an_appprogram_for_having_a_single/</link>
+      <description><![CDATA[想象一下 Microsoft Word 中有两列的表格。 第一列是 1 或 2 张照片。第二列是几行注释，可以像 html details 标签一样折叠 &lt;details&gt; &lt;summary&gt;Epcot Center&lt;/summary&gt; &lt;p&gt;Epcot 是华特迪士尼世界度假区的一个主题公园，拥有令人兴奋的景点、国际展馆、屡获殊荣的烟花和季节性特别活动。&lt;/p&gt; &lt;/details&gt; 并且可以抓取整行并将其拖动到列表中其他条目的上方或下方。 有这样的应用程序/程序吗？  在 Word 或 Google Docs 中移动表格非常麻烦。    提交人    /u/thinsoldier   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djnz21/please_suggest_an_appprogram_for_having_a_single/</guid>
+      <pubDate>Wed, 19 Jun 2024 16:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 teramind 有疑问吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1djmox0/question_for_teramind/</link>
+      <description><![CDATA[这里有人使用 teramind 绕过 Proctorio 进行考试吗？它有效吗？     提交人    /u/Anonymi8090   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djmox0/question_for_teramind/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找一个包含所有 Spotify、Soundcloud 和 Youtube 的音乐播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1djmmjb/im_looking_for_a_music_player_that_includes_all/</link>
+      <description><![CDATA[有没有类似 github 项目的东西，让我可以在一个桌面程序中播放音乐？或者类似的东西。     提交人    /u/Financial-Offer-8504   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djmmjb/im_looking_for_a_music_player_that_includes_all/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合“电影制作”的 TTS？</title>
+      <link>https://www.reddit.com/r/software/comments/1djmc15/best_tts_for_moviemaking/</link>
+      <description><![CDATA[我希望尝试使用 SFM 和 Garry&#39;s Mod 制作某种动画。如果效果符合我的预期，我很乐意将其发展成更大的东西。哪种 TTS 软件最“像人类”？希望找到具有许多设置的产品，使声音感觉不同且自然，并适用于任何特定事件。例如，在发生不好的事情时惊慌失措，或在发生有趣的事情时咯咯笑。我希望它是免费的，但如果我必须支付几美元才能获得它，我想这也不错。 这里不是为了宣传自己或任何东西，只是想乱搞和试验一些东西。    提交人    /u/MrCakes747   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djmc15/best_tts_for_moviemaking/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:43:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>从什么时候开始你可以如此轻松地卸载 Edge？</title>
+      <link>https://www.reddit.com/r/software/comments/1djm836/since_when_could_you_uninstall_edge_this_easily/</link>
+      <description><![CDATA[  由    /u/David48796  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djm836/since_when_could_you_uninstall_edge_this_easily/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Measured：适用于您最喜爱的 Kotlin 目标的直观、类型安全的单位</title>
+      <link>https://www.reddit.com/r/software/comments/1djm4e2/measured_intuitive_typesafe_units_for_your/</link>
+      <description><![CDATA[Measured 现在支持大量 Kotlin 目标，如 iOS 和所有 Apple 平台、Android Native、Linux 等。因此，无论您的应用在何处运行，都可以无缝使用测量单位。 Measured 通过提供直观、强类型（即编译时强制）的单位，使用常规数学运算进行组合，使测量单位变得简单。 val velocity = 5 * meter / seconds val acceleration = 9 * meter / (seconds * seconds) val time = 1 * minutes // d = vt + ½at² val distance = velocity * time + 1.0 / 2 * acceleration * time * time println(distance ) // 16500 m println(distance `as` miles) // 16.5 km println(distance `as` miles ) // 10.25262467191601 英里 println(5 * 英里 / 小时 `as` 米 / 秒) // 2.2352 米 / 秒     由   提交  /u/pusolito   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djm4e2/measured_intuitive_typesafe_units_for_your/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>aPackets.com 的本地（最好是 FOSS）替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1djlzzt/local_preferably_foss_alternative_to_apacketscom/</link>
+      <description><![CDATA[我不想将我的数据包捕获发送到本地 PC 之外的第三方。有人知道类似于 apacket.com 的本地工具吗？希望是 FOSS？    提交人    /u/Dramatic_Law_4239   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djlzzt/local_preferably_foss_alternative_to_apacketscom/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>以问题开头来吸引人们点击，例如你用人工智能做什么？最好的人工智能视频升频器是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1djlbow/start_with_a_question_to_attract_people_to_click/</link>
+      <description><![CDATA[假装自己是用户，总结一个生活场景，比如想增强自己模糊的卷轴视频，于是就用HitPaw Video Enhancer来增强，用自然的语气介绍产品，并在正文中添加链接。    提交人    /u/kazishaha   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djlbow/start_with_a_question_to_attract_people_to_click/</guid>
+      <pubDate>Wed, 19 Jun 2024 15:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samsung Kids - Windows 应用程序的 PC 等效沙盒</title>
+      <link>https://www.reddit.com/r/software/comments/1djk0k9/samsung_kids_pc_equivalent_sandbox_for_windows/</link>
+      <description><![CDATA[适用于有特殊需求孩子的家庭。 手机上的 Samsung Kids 应用程序会屏蔽操作系统，并为您安装的应用程序以及一些内置的教育应用程序提供环境。 目前正在使用 Magic Desktop。Magic Desktop 是一款针对儿童的 PC 教育应用程序套件，以沙盒形式实现，但无法添加第三方应用程序，例如 paint 3d 我搜索了一下，但没有成功。如果你们能给出任何建议，我将不胜感激。谢谢大家。    提交人    /u/theeyeinme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djk0k9/samsung_kids_pc_equivalent_sandbox_for_windows/</guid>
+      <pubDate>Wed, 19 Jun 2024 14:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以显示您点击的按钮来模拟按键或宏的“菜单”软件</title>
+      <link>https://www.reddit.com/r/software/comments/1djjrtc/menu_software_that_can_display_buttons_you_click/</link>
+      <description><![CDATA[我正在寻找免费的软件实用程序，您可以在其中添加一堆按钮来单击，然后它将运行一些宏或其他东西...例如聚焦窗口，然后向其发送一些击键。还对一个可以在您按下按钮时触发击键的软件感兴趣..比如说，您创建一个按钮 START，然后单击它，它会按下 WIN 键，但最好的是可以做到这一点，还可以先执行聚焦窗口等操作。 我尝试了 Radial Menu，它很好，但有缺陷..我还尝试了另一个也叫 Radial Menu 的软件，它相当不错，但也有缺陷。 如果有类似的东西针对游戏玩家，我不会感到惊讶。 请不要推荐 AutoHotKey、AutoIt 或类似产品。    提交人    /u/mishaxz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djjrtc/menu_software_that_can_display_buttons_you_click/</guid>
+      <pubDate>Wed, 19 Jun 2024 13:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么软件可以在Android中创建第二空间</title>
+      <link>https://www.reddit.com/r/software/comments/1djje3o/any_software_that_can_create_a_second_space_in/</link>
+      <description><![CDATA[我的旧摩托罗拉设备具有该功能，带有第二个空间，就像一个全新的设置，它还有一个不同的密码来解锁  有没有什么软件可以创建这样的第二个空间    提交人    /u/Certified_drinker   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djje3o/any_software_that_can_create_a_second_space_in/</guid>
+      <pubDate>Wed, 19 Jun 2024 13:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道一个免费的程序吗，无论在线与否？</title>
+      <link>https://www.reddit.com/r/software/comments/1djibwo/does_anybody_know_of_a_free_program_online_or_not/</link>
+      <description><![CDATA[如果我有彩色书写的纸张，但它们是 jpeg 格式，我需要将它们全部放入 pdf 中，然后将它们全部转换为黑白。 我没有 adobe，但一定有其他选择？ 谢谢。    提交人    /u/Henry-Gruby   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djibwo/does_anybody_know_of_a_free_program_online_or_not/</guid>
+      <pubDate>Wed, 19 Jun 2024 12:47:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索视频下载：技术可行性和软件开发</title>
+      <link>https://www.reddit.com/r/software/comments/1djibfr/exploring_video_downloading_technical_feasibility/</link>
+      <description><![CDATA[从互联网上下载任何视频都是可行的吗？由于视频最终在我们的前端设备上播放，因此理论上它们应该是可以下载的。是否可以开发一种通用软件来下载任何可访问的视频？我想了解视频下载背后的技术方面。    提交人    /u/shubham-jr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1djibfr/exploring_video_downloading_technical_feasibility/</guid>
+      <pubDate>Wed, 19 Jun 2024 12:46:42 GMT</pubDate>
+    </item>
     <item>
       <title>触摸板驱动程序不工作</title>
       <link>https://www.reddit.com/r/software/comments/1djhpke/touch_pad_driver_doesnt_work/</link>
@@ -15,100 +106,9 @@
     <item>
       <title>是否存在用于 redshift 的控制器小程序？</title>
       <link>https://www.reddit.com/r/software/comments/1djg5t5/does_there_exist_a_controller_applet_for_redshift/</link>
-      <description><![CDATA[我搜索时能找到的唯一结果是 Cinnamon 或 KDE 的附加组件（因为我在窗口管理器上，所以无法使用）和 redshift-gtk，除了暂时暂停效果外，它在控制方面并没有做太多事情。    提交人    /u/tetotetotetotetoo   [link] [评论]]]></description>
+      <description><![CDATA[我搜索时能找到的唯一结果是 Cinnamon 或 KDE 的附加组件（因为我在窗口管理器上，所以我无法使用）和 redshift-gtk，除了暂时暂停效果外，它在控制方面并没有做太多事情。    提交人    /u/tetotetotetotetoo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1djg5t5/does_there_exist_a_controller_applet_for_redshift/</guid>
       <pubDate>Wed, 19 Jun 2024 10:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个简单的工具/软件来在 Windows 上将视频分割成多个部分</title>
-      <link>https://www.reddit.com/r/software/comments/1djfqcw/need_an_easy_toolsoftware_to_split_videos_in_many/</link>
-      <description><![CDATA[嗨， 假设我有一个 10 分钟长的视频，我想将整个视频分割成 15 秒的片段。有没有免费软件可以轻松完成这项工作。我不想自己剪切和渲染每个 15 秒的片段。 谢谢    提交人    /u/smokeweed247420   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djfqcw/need_an_easy_toolsoftware_to_split_videos_in_many/</guid>
-      <pubDate>Wed, 19 Jun 2024 10:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aspect Preview 39 提供了非常高效的重复查找器，用于清理照片库</title>
-      <link>https://www.reddit.com/r/software/comments/1djfnnk/aspect_preview_39_brings_a_very_efficient/</link>
-      <description><![CDATA[  由    /u/sol1684  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djfnnk/aspect_preview_39_brings_a_very_efficient/</guid>
-      <pubDate>Wed, 19 Jun 2024 10:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>4K Video Downloader PLUS 安全吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1djfn2r/4k_video_downloader_plus_safe/</link>
-      <description><![CDATA[使用 4K 视频下载器已经有一段时间了。在它从每日 30 次下载降级到 10 次下载之前，它现在是一个残缺软件。有消息称，它的创建者正在逐步淘汰它，转而推出 Plus 版本，该版本仍有 30 次每日下载量。 那么，4K 视频下载器 PLUS 安全吗？在这里找到： https://www.4kdownload.com/-54（第一个谷歌结果） - 我得到了一个 943 kb 的安装程序，由 Open Media LLC 签名，并由 Sectigo RSA Time Stamping Signer #4 副署，使用 SHA256 摘要算法。经 Windows Defender 扫描，未发现任何威胁。 我可能想多了，但那时候我已经很笨了，被感染过几次。    提交人    /u/The6thMessenger   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djfn2r/4k_video_downloader_plus_safe/</guid>
-      <pubDate>Wed, 19 Jun 2024 10:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在 Windows 上使用的开源软件有哪些？</title>
-      <link>https://www.reddit.com/r/software/comments/1dje0kz/what_are_the_opensource_softwares_that_you_use/</link>
-      <description><![CDATA[我只知道几个，例如 handbrake、obs、qbittorrent。我希望听取你们的意见并将更多内容添加到我的系统中。    提交人    /u/NeedleworkerMore2270   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dje0kz/what_are_the_opensource_softwares_that_you_use/</guid>
-      <pubDate>Wed, 19 Jun 2024 08:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的幻灯片/屏幕保护程序应用程序，可同时显示多幅图像</title>
-      <link>https://www.reddit.com/r/software/comments/1djdg7v/slideshowscreensaver_app_for_windows_to_show/</link>
-      <description><![CDATA[大家好，我正在寻找一款（免费或付费）出色的幻灯片/屏幕保护程序应用，该应用能够同时显示多张图片，也许还带有一些漂亮的动画，如 Mac 的“Origami”屏幕保护程序。多年来，我一直在寻找适用于 Windows 的类似应用，但从未找到任何应​​用！🥺 顺便说一句，我的意思是**实时**幻灯片，而不是创建电影以便稍后播放。 非常感谢！😉    提交人    /u/Clauz79   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djdg7v/slideshowscreensaver_app_for_windows_to_show/</guid>
-      <pubDate>Wed, 19 Jun 2024 07:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有一个可以将电子邮件、聊天和日历事件关联起来的工具有多大价值？</title>
-      <link>https://www.reddit.com/r/software/comments/1djcln4/how_valuable_is_it_to_have_a_tool_that_connects/</link>
-      <description><![CDATA[  由    /u/Efficient_Builder923  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djcln4/how_valuable_is_it_to_have_a_tool_that_connects/</guid>
-      <pubDate>Wed, 19 Jun 2024 06:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>电脑翻译应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1djc621/translation_apps_of_pc/</link>
-      <description><![CDATA[有没有可以翻译我的屏幕的软件。我正在玩这个没有英语选项的游戏，我无法复制和粘贴文本，所以我在想可能有一个软件可以读取我的屏幕并自动翻译它。     提交人    /u/shiny_666   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1djc621/translation_apps_of_pc/</guid>
-      <pubDate>Wed, 19 Jun 2024 06:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>替换 Windows 10 搜索栏？</title>
-      <link>https://www.reddit.com/r/software/comments/1dj66p6/replace_windows_10_search_bar/</link>
-      <description><![CDATA[Windows 10 中的搜索栏太糟糕了。我发现了一个名为 Listary 的程序，它在各方面都更好。有没有可能用 Listary 替换屏幕左下角的 Windows 搜索栏？    提交人    /u/SolidIcecube   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dj66p6/replace_windows_10_search_bar/</guid>
-      <pubDate>Wed, 19 Jun 2024 00:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找应用程序（图片）</title>
-      <link>https://www.reddit.com/r/software/comments/1dj57mg/looking_for_the_apps_image/</link>
-      <description><![CDATA[https://preview.redd.it/julqt1vu3f7d1.png?width=345&amp;format=png&amp;auto=webp&amp;s=13ddf0ed8574da907daffe37db1774822631ca7b https://preview.redd.it/547dgi3v3f7d1.png?width=66&amp;format=png&amp;auto=webp&amp;s=219e9cc0898860fd62aeb35c7078eecfc2aad870 嘿，我在找应用程序。我发现我的朋友一直在做一些事情，但他不想告诉我他到底在做什么。谢谢你的帮助。我只是一个好奇的人。    由    /u/Sure_Exercise_4086  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dj57mg/looking_for_the_apps_image/</guid>
-      <pubDate>Tue, 18 Jun 2024 23:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于提取文件的问题！</title>
-      <link>https://www.reddit.com/r/software/comments/1dj56k4/question_about_extract_files/</link>
-      <description><![CDATA[大家好，有人知道我该如何从这些 def 文件中提取出现的 tga 吗？这是一款 90 年代的游戏，我尝试了几个网络程序，如 def unpacker、resource extractor、resource hacker，但我无法提取它们。 奇怪的是，Windows 本身允许我查看里面的文件，但我甚至无法使用 Winrar 或 7zip 导出它们，请帮忙！！！！ https://preview.redd.it/vgj78v8k3f7d1.png?width=1640&amp;format=png&amp;auto=webp&amp;s=c82bac5bc4a471a2d14edfda999fc2605c97500d    提交人    /u/Pleasant-Profit-9563   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dj56k4/question_about_extract_files/</guid>
-      <pubDate>Tue, 18 Jun 2024 23:48:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些软件您付费购买了但希望它更好？</title>
-      <link>https://www.reddit.com/r/software/comments/1dj1vsk/what_is_a_piece_of_software_that_you_pay_for_but/</link>
-      <description><![CDATA[您（或您的雇主）目前付费购买但希望更好的软件是什么？它可能是非常具体的，也可能是您认为整个行业都需要的复杂的东西。尽情发挥吧！ 背景：我是一名应届毕业生，正在休学一年，探索独立黑客。目前正在寻找创意！ 我之前曾在几家风险投资支持的初创公司工作过，我想尝试独立黑客，以获得更多机会去做我认为对客户最有利的事情，而不是赚钱的事情。    提交人    /u/bottlebean   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dj1vsk/what_is_a_piece_of_software_that_you_pay_for_but/</guid>
-      <pubDate>Tue, 18 Jun 2024 21:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在校期间如何通过软件开发赚钱</title>
-      <link>https://www.reddit.com/r/software/comments/1dj166u/how_can_i_make_money_while_in_school_for_software/</link>
-      <description><![CDATA[我目前在学校学习计算机科学/软件开发，但我想在这个领域赚钱。我一直在找实习，但没有运气。有人能指点一下我在上学期间如何开始在软件开发领域赚钱吗？    提交人    /u/Trick-Word-6182   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dj166u/how_can_i_make_money_while_in_school_for_software/</guid>
-      <pubDate>Tue, 18 Jun 2024 20:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有推荐的网络/Windows 应用程序来模拟带有家具和所有东西的房间？</title>
-      <link>https://www.reddit.com/r/software/comments/1dj0c4q/is_there_a_recommended_webwindows_app_to_simulate/</link>
-      <description><![CDATA[您可以在这些渲染对象的顶部 2D 视图和 3D 视图之间移动一些东西，例如床、电视、桌子、室内植物、厨房用具等...    提交人    /u/Marvellover13   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dj0c4q/is_there_a_recommended_webwindows_app_to_simulate/</guid>
-      <pubDate>Tue, 18 Jun 2024 20:15:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
