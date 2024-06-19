@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 18:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 21:12:50 GMT</lastBuildDate>
+    <item>
+      <title>本地语音助手工具：Ollama + HF Transformers + TTS</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dju4pt/local_voice_assistant_tool_ollama_hf_transformers/</link>
+      <description><![CDATA[https://github.com/mezbaul-h/june 这是我在试验各种 LLM 推理工具时开发的命令行工具。它在文本回复通过 Ollama 传输时处理文本转语音，让您可以实时听到语音，而无需等待整个回复完成。我最初创建它是为了自己使用，但我希望你们中的一些人也会发现它很有用。    提交人    /u/shichimen-warri0r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dju4pt/local_voice_assistant_tool_ollama_hf_transformers/</guid>
+      <pubDate>Wed, 19 Jun 2024 21:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>监督 OCR 文本识别</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djr8gx/supervised_ocr_text_recognition/</link>
+      <description><![CDATA[你好 (AI) 世界。我想要对文档运行监督式 OCR 文本识别，这样当 OCR 被更正时，更正内容会被学习或输入到库中，这样在后续文档中，它会表现得更好。  例如，我希望它能够识别出以下每个内容都是相同的。  北纬 89 度 25 分 32 秒东经 北纬 89 度 25 分 32 秒东经 N 89˚25&#39;32&quot; E 有什么建议吗？？     提交人    /u/Bnerdude3001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djr8gx/supervised_ocr_text_recognition/</guid>
+      <pubDate>Wed, 19 Jun 2024 19:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>想象峰会：用人工智能想象充满希望的未来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djqb8g/the_imagining_summit_imagining_a_hopeful_future/</link>
+      <description><![CDATA[想象峰会将聚集一群富有创意、多元化的富有想象力的思想家和创新者，他们与我们一样对人工智能的未来充满希望，并且疯狂到认为我们可以共同改变一切。 2024 年 10 月 12 日至 14 日，欢迎加入我们在俄勒冈州本德举行的 42 小时静修会，致力于想象充满希望的人工智能未来，该活动由本德企业家实验室和The Haven联合举办。 在想象峰会上，我们的目标是富有成效的想象——设想超出我们当前经验的可能性的过程。通过创造性探索和协作讨论，我们寻求转变观点，并想象一条通往充满希望的人工智能未来的道路。  我们将共同为人机协作制定新的愿景和设计理念——其中人工智能充当我们思想的思想，扩大人类的创造力、文化、知识、信任、价值观、乐趣、游戏和对世界的理解。我们将把这项工作综合成一份集体撰写的报告，并在峰会后分享，希望能够催化变革。 我们承认采用人工智能会带来深远的、甚至是存在的风险。我们拒绝乌托邦式的人工智能言论，担心大型科技公司制造机器取代我们的幻想，担心不加思考的人工智能炒作者和影响者的影响。虽然我们认为揭示和解决这些问题和挑战很重要，但我们也认为想象一个超越负面的未来也很重要。 想象峰会提供了一个机会，让我们抛开当前的炒作和对未来的恐惧，想象一个我们可以期待的未来。因为如果我们能想象它，我们就有机会创造它。  想象峰会将举办一系列对话和协作会议，由我们最喜欢的一些头脑主持，包括乔纳森·科尔顿、亚当·卡特勒、凯蒂·戴维斯、贾默·亨特、乔什·洛夫乔伊、Don Norman、Steven Sloman 和 Barbara Tversky。这些对话催化剂将带来丰富且发人深省的想法，帮助引导所有合作者探索可能性。  详细了解我们的对话催化剂 此处。  我们期待聚集一群富有创造力、多元化、富有想象力的思想家和创新者，他们与我们一样对未来充满希望，并且疯狂到认为我们可以共同改变事物。  我们很高兴亲自欢迎我们的社区。我们强烈建议您延长逗留时间，以享受美丽的俄勒冈州本德。  详细信息和注册链接在此处：https://www.artificiality.world/the-imagining-summit/    提交人    /u/dave_artificiality   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djqb8g/the_imagining_summit_imagining_a_hopeful_future/</guid>
+      <pubDate>Wed, 19 Jun 2024 18:29:28 GMT</pubDate>
+    </item>
     <item>
       <title>微软 Florence-2 Vision 模型演示</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djpxyd/microsoft_florence2_vision_model_demo/</link>
       <description><![CDATA[Microsoft Florence-2 是一款功能强大的视觉模型，能够实现 OCR、对象检测、区域检测、字幕等功能。请在此处查看演示：https://youtu.be/4Bp50VQdzxk?si=J0Fp_Fd-Kvbs7jYt    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djpxyd/microsoft_florence2_vision_model_demo/</guid>
       <pubDate>Wed, 19 Jun 2024 18:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚发布了我的平台的 alpha 版本，你们能给我一些反馈吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djoydy/i_just_released_the_alpha_version_of_my_platform/</link>
-      <description><![CDATA[我们的想法是组建一个由 AI 爱好者和从业者组成的社区。 链接：https://isari.ai 我感谢所有反馈！非常感谢！    由   提交  /u/akitsushima   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djoydy/i_just_released_the_alpha_version_of_my_platform/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:33:13 GMT</pubDate>
     </item>
     <item>
       <title>对于本质上只是客户订单模型来说，最好的/最便宜的路线是什么？我是 AI 新手，但不是 SWE。我只需要朝着正确的方向努力</title>
@@ -57,7 +71,7 @@
     <item>
       <title>利用业余时间成为人工智能部导师，为人工智能工具编写课程</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djlj4w/become_a_tutor_in_your_spare_time_at_the_ministry/</link>
-      <description><![CDATA[如果有人觉得自己是某种 AI 工具的专家，例如稳定扩散、跑道、suno、Claude、ChatGPT，并且您有兴趣提高自己的知名度，同时帮助其他人在您学习的同时学习，请随时与我们联系。 我正在寻找一些导师加入人工智能部担任导师，没有目标，没有要求，没有期望，只是你可以在业余时间做的事情。 谢谢。    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <description><![CDATA[如果有人觉得自己是某种 AI 工具的专家，例如稳定扩散、跑道、suno、Claude、ChatGPT，并且您有兴趣提高自己的知名度，同时帮助其他人在您学习的同时学习，请随时与我们联系。 我正在寻找一些导师加入人工智能部担任导师，没有目标，没有要求，没有期望，只是你可以在业余时间做些什么。 谢谢。    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djlj4w/become_a_tutor_in_your_spare_time_at_the_ministry/</guid>
       <pubDate>Wed, 19 Jun 2024 15:10:22 GMT</pubDate>
     </item>
@@ -76,13 +90,6 @@
       <pubDate>Wed, 19 Jun 2024 13:22:17 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 将使用公开的照片和帖子来训练人工智能：以下是美国、英国和欧洲用户可以选择退出的方式</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djg3fp/meta_to_use_public_photos_and_posts_to_train_ai/</link>
-      <description><![CDATA[Meta 决定使用 Instagram 上公开的照片来训练其 AI，这引发了大批艺术家离开该平台，他们对这一政策变化感到不舒服。但是，美国、英国和欧洲的用户实际上可以选择退出该计划。  阅读全文：https://www.ibtimes.co.uk/meta-use-public-photos-posts-train-ai-heres-how-us-uk-europe-users-can-opt-out-1725042    提交人    /u/vinaylovestotravel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1djg3fp/meta_to_use_public_photos_and_posts_to_train_ai/</guid>
-      <pubDate>Wed, 19 Jun 2024 10:43:25 GMT</pubDate>
-    </item>
-    <item>
       <title>英伟达市值 3.34 万亿美元，成为全球最有价值的公司</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1djddr1/nvidia_worth_334_trillion_now_worlds_most/</link>
       <description><![CDATA[周二，英伟达超越微软，成为全球市值最高的公司。其芯片仍然是人工智能市场统治竞争的关键部分。这家芯片制造商的市值上涨 3.5% 至 135.58 美元，成为全球第二大市值公司，就在几天前，它超越苹果，成为全球市值最高的公司。点击此处了解更多信息。    提交人    /u/Ok-Path-702   [链接] [评论]]]></description>
@@ -90,16 +97,9 @@
       <pubDate>Wed, 19 Jun 2024 07:34:28 GMT</pubDate>
     </item>
     <item>
-      <title>哪些 AI 应用程序/工具真正有效且您每周至少使用一次它们？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1diu6wr/what_are_ai_appstools_that_really_work_and_you/</link>
-      <description><![CDATA[我一直在研究人工智能的世界，也遇到了一些非常棒的工具，但我很好奇你们都觉得哪些人工智能应用或工具真正有用。具体来说，我正在寻找关于人工智能应用或工具的推荐，这些应用或工具你至少每周使用一次，并且已经被证明对你非常有效。你生活中不可或缺的人工智能工具有哪些？    提交人    /u/AdNatural8174   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1diu6wr/what_are_ai_appstools_that_really_work_and_you/</guid>
-      <pubDate>Tue, 18 Jun 2024 16:00:17 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
