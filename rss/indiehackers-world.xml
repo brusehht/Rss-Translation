@@ -4,7 +4,40 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sat, 22 Jun 2024 09:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 12:21:34 GMT</lastBuildDate>
+    <item>
+      <title>我是冒名顶替者吗？</title>
+      <link>https://feed.indiehackers.world/post/11a54cbad0</link>
+      <description><![CDATA[我是否应该将我的 Web 应用程序扔进垃圾场项目并结束这一天以阻止冒名顶替综合症？
+或者我应该继续使用我的 Web 应用程序来克服冒名顶替综合症？
+请在评论部分告诉我。您的建议将很有帮助并值得感激。
+和平
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/11a54cbad0</guid>
+      <pubDate>Sat, 22 Jun 2024 11:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 GenAI Devs 构建了一个一体化 LLM 游乐场 - 尝试一下并获得 50 美元积分！</title>
+      <link>https://feed.indiehackers.world/post/9202cc3fb9</link>
+      <description><![CDATA[但是嘿，我并不是很有钱，所以我只能为接受我这个提议的前 100 名幸运儿提供这个机会。不要错过与人工智能大佬们一起玩的机会，而不用花光我的钱（或我的钱包）！
+我真的很期待与其他开发人员建立联系并听取您对 ConsoleX 的见解。请随时发表评论或给我留言 - 我保证会亲自阅读并回复每一条评论。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9202cc3fb9</guid>
+      <pubDate>Sat, 22 Jun 2024 10:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>最新时事通讯：政治、比特币和不明飞行物（第 169 期）</title>
+      <link>https://feed.indiehackers.world/post/2621a1b59e</link>
+      <description><![CDATA[最新新闻通讯：政治、比特币和不明飞行物（第 169 期）
+英国和法国选举政治、带有铭文和符文的比特币未来、圣乔治和龙的历史、特朗普的 All-in 播客、科学和不明飞行物
+https://markjgsmith.substack.com/p/saturday-22nd-june-2024-politics
+#javascript #tech #webdev
+非常乐意听到您的任何评论和反馈。
+@markjgsmith
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2621a1b59e</guid>
+      <pubDate>Sat, 22 Jun 2024 10:14:00 GMT</pubDate>
+    </item>
     <item>
       <title>免费快照工具</title>
       <link>https://feed.indiehackers.world/post/940cc9de5c</link>
@@ -160,45 +193,6 @@ skype- live:.cid.31364a310d2d094f?chat
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6458a85ea8</guid>
       <pubDate>Fri, 21 Jun 2024 12:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>饮料市场令人兴奋的机遇！</title>
-      <link>https://feed.indiehackers.world/post/434948314e</link>
-      <description><![CDATA[附言：不要害羞，请随意附上您的作品集或您可能参与过的任何相关项目的链接。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/434948314e</guid>
-      <pubDate>Fri, 21 Jun 2024 11:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动应用程序架构的层次</title>
-      <link>https://feed.indiehackers.world/post/fac85ee343</link>
-      <description><![CDATA[
-业务层
-业务层包含核心应用程序逻辑，用于处理计算、验证、分析、通知、后台作业等任务。
-
-在消息传递应用中，此层处理发送和接收消息、加密数据、检测垃圾邮件、管理通知等功能。它从表示层和数据层获取输入，对其进行处理，并准备在 UI 中显示的响应。
-
-数据层
-数据层处理与数据库和存储系统的连接，允许应用保存和检索数据。例如，在 WhatsApp 中，消息数据存储在各种数据库中。
-
-数据层抽象物理存储，因此其他层无需担心数据库的具体细节。它处理查询、连接、缓存、并发和其他数据访问机制。业务层通过调用其公开的方法与数据层进行交互。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/fac85ee343</guid>
-      <pubDate>Fri, 21 Jun 2024 11:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费内容分发渠道</title>
-      <link>https://feed.indiehackers.world/post/5108c23bbe</link>
-      <description><![CDATA[
-内容营销
-社交媒体营销
-
-Moz Blog 上的文章平均长度约为 1500 到 2500 字。较长且更深入的文章更受欢迎。Moz Blog 还刊登了来自行业专家的客座文章，并拥有一个由营销人员和 SEO 专业人士组成的社区，他们提供反馈并分享他们对文章和评论的见解。Moz Blog 每周都会发布一份免费的新闻通讯，其中包含博客中的热门文章。
-ArticlesFactory.com
-ArticlesFactory.com 是一个在线平台，允许用户发布有关不同主题的文章，包括商业、健康、技术和教育。该网站对文章长度没有具体要求，但鼓励作者撰写至少 400-500 字的信息丰富且引人入胜的内容。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5108c23bbe</guid>
-      <pubDate>Fri, 21 Jun 2024 10:05:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -2,22 +2,22 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 22 Jun 2024 09:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 12:21:20 GMT</lastBuildDate>
     <item>
-      <title>夸兹</title>
-      <link>https://www.producthunt.com/posts/quotz</link>
+      <title>梅诺</title>
+      <link>https://www.producthunt.com/posts/meeno</link>
       <description><![CDATA[
-触手可及的励志名言
+提升您的社交健康水平
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/quotz</guid>
-      <pubDate>Sat, 22 Jun 2024 03:06:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/meeno</guid>
+      <pubDate>Sat, 22 Jun 2024 04:26:07 GMT</pubDate>
     </item>
     <item>
       <title>屎SaaS</title>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/dev-task-tracker</guid>
       <pubDate>Fri, 21 Jun 2024 15:59:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>登高</title>
+      <link>https://www.producthunt.com/posts/ascenscia</link>
+      <description><![CDATA[
+专为科学实验室打造的 AI 语音助手。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ascenscia</guid>
+      <pubDate>Fri, 21 Jun 2024 15:42:58 GMT</pubDate>
     </item>
     <item>
       <title>理论词汇</title>
@@ -121,7 +135,7 @@
       <title>设置睡眠专业版</title>
       <link>https://www.producthunt.com/posts/set-sleep-pro</link>
       <description><![CDATA[
-让您的计算机进入睡眠状态
+让您的电脑进入睡眠状态
 
 
 讨论
@@ -191,7 +205,7 @@
       <title>唤醒CTA</title>
       <link>https://www.producthunt.com/posts/wakeupcta</link>
       <description><![CDATA[
-使用弹出提醒将访客转变为付费客户
+使用弹出警报将访客转变为付费客户
 
 
 讨论
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/wakeupcta</guid>
       <pubDate>Sat, 15 Jun 2024 15:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>WAIT - 人工智能间歇性禁食</title>
-      <link>https://www.producthunt.com/posts/wait-ai-powered-intermittent-fasting</link>
-      <description><![CDATA[
-了解您的饮食习惯并轻松减肥
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/wait-ai-powered-intermittent-fasting</guid>
-      <pubDate>Thu, 13 Jun 2024 14:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
