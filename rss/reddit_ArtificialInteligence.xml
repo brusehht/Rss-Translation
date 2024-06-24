@@ -4,48 +4,62 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 24 Jun 2024 09:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 15:13:10 GMT</lastBuildDate>
     <item>
-      <title>捕捉用户手写笔迹的工具推荐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn7xs3/tool_recommendation_capturing_user_handwriting/</link>
-      <description><![CDATA[我想举办一个研讨会，以互动的方式向参与者解释图像分类的工作原理。因此，所有参与者都应该在数字画布上画出字母“a”、“b”、“c”和“d”。在该数据集上，训练一个非常简单的分类器，使其能够识别新的手写字母。 是否有（开源）工具可以捕获用户笔迹（最好是自托管的）并导出该图像数据？    提交人    /u/throw-me-a-riva   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn7xs3/tool_recommendation_capturing_user_handwriting/</guid>
-      <pubDate>Mon, 24 Jun 2024 07:41:52 GMT</pubDate>
+      <title>人工智能已经接管了我公司的视频制作（包括工作流程）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnewdc/ai_has_taken_over_my_businesss_video_production/</link>
+      <description><![CDATA[我需要为我的公司制作许多视频。从营销社交视频到培训视频。每个人都知道制作视频内容有多难，所以我开始尝试使用 AI 来自动化我的视频创作工作流程。我用过很多 AI 工具，但最后只用了两个。 首先，我使用Chatgpt.com来生成我的想法，我向它提供了我想要制作视频的所有背景和背景故事，并告诉它“创建一个可以在一分钟内大声朗读的简洁文本”，这将创建一个 1 分钟的视频脚本。其次，我转到Cliptalk.pro并给它脚本，然后为它提供我的风格和声音，然后点击生成，它将创建简短的视频带有画外音和字幕。 然后我进入它的编辑器添加我自己的资产，如屏幕截图或图像。 它增加了我的营销产出，我可以专注于其他事情。    提交人    /u/payamsaremi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnewdc/ai_has_taken_over_my_businesss_video_production/</guid>
+      <pubDate>Mon, 24 Jun 2024 14:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>需要你的创造性思维！ 无法构建一个由人工智能驱动的人工智能教育网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn7sij/need_your_creative_minds_stuck_on_building_an/</link>
-      <description><![CDATA[嗨，AI 爱好者们， 我一直在研究 artificialintelligence.education，这是一个利用 AI 工具帮助构建有关 AI 的教育内容的网站。这是一个元实验：“使用 AI 帮助构建一个关于使用 AI 构建事物的网站...”  但我陷入困境，需要您的精彩想法！当前的内容很基础，说实话没那么有用，需要改进。我希望它真正有用，但同时要演示如何与 AI 协作和共同创造。  我应该添加哪些创新的 AI 工具或功能？ 如何使内容更具吸引力和价值？ 有什么独特的想法可以让这个网站成为出色的资源吗？  我希望这成为一个首选的 AI 教育中心，但我需要您的见解才能实现这一目标。此外，如果有人有兴趣合作甚至接管，让我们聊聊吧！ 谢谢你的帮助！    提交人    /u/hootowl12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn7sij/need_your_creative_minds_stuck_on_building_an/</guid>
-      <pubDate>Mon, 24 Jun 2024 07:31:31 GMT</pubDate>
+      <title>人工智能助力实验室化学品安全</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dneqni/ai_for_lab_chemical_safety/</link>
+      <description><![CDATA[我是一家实验室的安全专家，该实验室目前拥有统一的化学品清单，其中约有 8622 种危险和非危险化学品。其中一个研究小组正在为一个项目寻求资金，该项目可能会将多达 2000 种化学品引入我们的系统。 此清单（以及可能添加的清单）均在 Excel 中。  我正在寻找一种扫描这些 Excel 工作表以执行某些任务的方法。 我希望有一个机器学习算法，可以分析现有的在线化学数据库（EPA、OSHA、pubchem）来预测与我们当前的化学品库存相关的潜在危害或预先筛选任何传入的化学品库存。  该算法还可以确定该化学品是否为 EPA 列出的或特征性的危险废物，并受联邦法律（RCRA）的监管监督。 是否也可以有一个大型语言模型，可以对安全数据表、研究文章和监管文件进行数据分析，并从中提取有关化学危害的相关信息。 是否有能够分析事件数据中的趋势和模式并预测可能导致化学相关危害的情况的人工智能。 相同的人工智能程序是否可以通过分析工作危害分析（JHA）并识别偏离标准协议或不安全条件来监控风险并提出纠正建议操作。  我阅读了大量有关 AI 使用的资料，但大多数文章讨论的是这些程序的功能，而不是实际实施。 那么作为 AI 的新手，我可以利用我所描述的方式利用这些功能吗？如果可以，我该如何具体实施？它可以独立存在还是成为某些现有 AI 框架的一部分。 我希望有人能帮我指明正确的方向，我真的需要指导。 谢谢，    提交人    /u/drwfishesman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dneqni/ai_for_lab_chemical_safety/</guid>
+      <pubDate>Mon, 24 Jun 2024 14:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>探索未来：人工智能的发展和量子计算在重新定义数据分析中的作用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn7jj4/exploring_the_future_ais_evolution_and_quantum/</link>
-      <description><![CDATA[我们邀请了 Structure.ai 创始人兼人工智能研究员 Brad Messer，讨论不断发展的人工智能和云计算世界、人工智能与量子计算令人兴奋的交集，以及这些技术对数据分析的影响。 https://www.illuminz.com/leaders-insights/ai-evolution-brad-messer    提交人    /u/ILLUMINZ_Tech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn7jj4/exploring_the_future_ais_evolution_and_quantum/</guid>
-      <pubDate>Mon, 24 Jun 2024 07:13:37 GMT</pubDate>
+      <title>MS Recall 和 AppleAI 的编辑功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dndyd7/redact_feature_for_ms_recall_and_appleai/</link>
+      <description><![CDATA[对于他们的 AI 屏幕捕获功能，使用屏幕保存上的图像识别可以：  切换到编辑，例如密码/用户名和用户选择的 PII。 编辑关键字（您输入要编辑的关键字） 编辑应用程序（您选择它将编辑的应用程序）  它可能会增加实时处理，或者让它在后台进行后期处理。    提交人    /u/DarkHeliopause   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dndyd7/redact_feature_for_ms_recall_and_appleai/</guid>
+      <pubDate>Mon, 24 Jun 2024 13:50:07 GMT</pubDate>
     </item>
     <item>
-      <title>NLP 对决：云冠军对比</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn78ck/nlp_showdown_cloud_champions_compared/</link>
-      <description><![CDATA[云平台提供强大的 NLP 工具。选择合适的工具可能很难。以下是对 Google Cloud、AWS、Azure 和 IBM 的简要介绍，可帮助您选择冠军。  前沿：Google Cloud 拥有先进的 AI，可完成复杂的语言任务。 用户友好：AWS Comprehend 提供经济高效的套件，非常适合初学者。 无缝集成：Azure Text Analytics 可与其他 Azure 服务很好地集成。 行业特定：IBM Watson 为特定领域提供专门的解决方案。  根据项目需求、专业知识和预算选择您的 NLP 冠军！ https://www.seaflux.tech/blogs/where-to-build-your-own-AI-assistant    由   提交  /u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn78ck/nlp_showdown_cloud_champions_compared/</guid>
-      <pubDate>Mon, 24 Jun 2024 06:51:54 GMT</pubDate>
+      <title>AI PDF提取工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dncyoo/ai_pdf_extraction_tool/</link>
+      <description><![CDATA[  由    /u/haleswd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dncyoo/ai_pdf_extraction_tool/</guid>
+      <pubDate>Mon, 24 Jun 2024 13:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>看到它，认出它：使用 Kinesis 和 SageMaker 进行实时对象检测</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn76xw/see_it_recognize_it_live_object_detection_with/</link>
-      <description><![CDATA[使用强大的组合将您的相机变成智能传感器：Kinesis 和 SageMaker。流式传输实时视频，使用基于 SageMaker 构建的自定义对象识别模型实时分析每一帧，并解锁无限可能 - 从安全监控到工业自动化。立即构建您的实时对象检测系统！ https://www.seaflux.tech/blogs/live-recognition-system-using-Kinesis-and-SageMaker    提交人    /u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn76xw/see_it_recognize_it_live_object_detection_with/</guid>
-      <pubDate>Mon, 24 Jun 2024 06:49:09 GMT</pubDate>
+      <title>Oracle 为美国门诊诊所推出人工智能临床数字助理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dncvdh/oracle_launches_aipowered_clinical_digital/</link>
+      <description><![CDATA[Oracle 宣布其 Oracle Clinical Digital Assistant 正式上市，这是一款专为美国门诊设计的尖端解决方案。新产品集成了生成式 AI、临床智能、多模式语音和屏幕驱动辅助，以简化工作流程并减少电子健康记录 (EHR) 点击次数，从而使医疗保健提供者能够更加专注于患者护理。 变革性功能和优势 阅读更多    提交人    /u/thetechrobot_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dncvdh/oracle_launches_aipowered_clinical_digital/</guid>
+      <pubDate>Mon, 24 Jun 2024 12:59:04 GMT</pubDate>
     </item>
     <item>
-      <title>制作简单的 2D/卡通/动画视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn76ip/creating_simple_2dcartoonanimated_videos/</link>
-      <description><![CDATA[大家好， 我一直非常感兴趣地关注着公开的视频创作工具的进展，并且非常享受使用 Dream Machine 的乐趣。我注意到，虽然它可以创建一些看起来像电影的镜头，但它在简单的 2D 动画风格方面却举步维艰。 在我的研究中（谷歌和 CoPilot！），我没有找到任何出色的 AI 动画/视频生成工具。有很多软件声称是 AI，但它们大多仅限于为实际视频制作资产（或查找和分配素材）。 那么，有没有人对 AI 动画/卡通软件印象深刻？如果有，请在评论中写下来！ 理想情况下，AI 应该集成到软件中，这样我就可以发出自然语言命令并接收视频/时间线，然后我可以对其进行修改。但所有的意见都值得赞赏:)  我能做的最好的就是用人工智能创建资产，用人工智能修改它们（线框 - &gt;动画类型的东西），然后在视频编辑器中自己编辑。    提交人    /u/Salted_Fried_Eggs   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn76ip/creating_simple_2dcartoonanimated_videos/</guid>
-      <pubDate>Mon, 24 Jun 2024 06:48:16 GMT</pubDate>
+      <title>那么人们会转换到 Claude 3.5 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnbjcx/are_people_switching_over_to_claude_35_then/</link>
+      <description><![CDATA[我听说它比 GPT 4o 更好，但它真的好很多吗？ 或者我应该偷懒继续我目前的工作流程？    提交人    /u/Pickle_Rooms   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnbjcx/are_people_switching_over_to_claude_35_then/</guid>
+      <pubDate>Mon, 24 Jun 2024 11:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Claude Sonnet 3.5 系统提示的取证分析</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dna0r3/a_forensic_analysis_of_the_claude_sonnet_35/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dna0r3/a_forensic_analysis_of_the_claude_sonnet_35/</guid>
+      <pubDate>Mon, 24 Jun 2024 10:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ooredoo 首席执行官表示，尽管美国对人工智能出口有限制，但 Nvidia 仍将在中东开展业务</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn8dgo/nvidia_to_launch_in_middle_east_despite_us_ai/</link>
+      <description><![CDATA[尽管美国不允许先进芯片进入这些国家，但 Nvidia 将在 Ooredoo 位于中东五个国家的数据中心使用其 AI 技术。https://theaiwired.com/nvidia-to-launch-in-middle-east-despite-us-ai-export-restrictions-says-ooredoo-ceo/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn8dgo/nvidia_to_launch_in_middle_east_despite_us_ai/</guid>
+      <pubDate>Mon, 24 Jun 2024 08:13:30 GMT</pubDate>
     </item>
     <item>
       <title>Graph RAG：从本地到全球</title>
@@ -55,25 +69,11 @@
       <pubDate>Mon, 24 Jun 2024 06:07:45 GMT</pubDate>
     </item>
     <item>
-      <title>免费的在线人工智能课程，具有很高的就业前景。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn527s/free_ai_courses_to_do_online_that_have_high_job/</link>
-      <description><![CDATA[我现在 23f，非常非常穷。 我确实有技能，但这些技能非常基础，雇主在雇用我时不会考虑这些技能。经过一番询问，我意识到我需要提高自己的技能，考虑到最近人工智能的兴起，我想尝试一下。 我拥有学士学位，目前正在攻读动物学硕士学位（是的，这对于那些几乎拥有硕士学位却没有工作的人来说可能听起来很奇怪？） 伙计们，我是印度人，甚至博士生都是这里的保安。失业率很高，所以是的，我没有工作。 我没有任何数学/计算机背景，但因为这是唯一的出路，我准备学习它。 但我买不起任何付费课程，所以我在想你们是否可以建议我免费的人工智能/机器学习课程，我可以在线学习和申请工作。我真的需要工作。我和父母住在一起，不需要高薪工作，只需要最低工资，这样我就可以控制我的旅行和大学费用。 谢谢你！！！    提交人    /u/Athena_Savage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn527s/free_ai_courses_to_do_online_that_have_high_job/</guid>
-      <pubDate>Mon, 24 Jun 2024 04:29:21 GMT</pubDate>
-    </item>
-    <item>
       <title>我刚刚让 Claude 为我制作一款游戏，它就成功了。然后我让它在每次新提示时添加新功能，它也会这样做。零错误。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn42ku/i_just_prompted_claude_to_make_a_game_for_me_and/</link>
       <description><![CDATA[我的提示： 好的……你能制作一个简单的 Python 游戏吗？我使用键盘箭头键移动一个方块，如果方块碰到屏幕墙，游戏就结束了。就是这样。 它做到了。我一步一步地要求它如何在 Python 中运行它，它一步一步地告诉我。 更神奇的是，我在每个提示中都要求它修改这个游戏，变得越来越高级。 然后： 你能让方块一直在移动吗？我所能做的就是使用箭头键改变方向？ 然后： 你现在可以加快方块移动速度吗？这样游戏就更具挑战性了？另外，如果方块朝一个方向移动，我按下也朝那个方向移动的箭头键，方块的速度会更快吗？ 然后： 太棒了！一旦“游戏结束”，按下键盘上的任何键都会开始新游戏。添加在屏幕上不规则移动的蓝色方块，一旦玩家方块触碰到其中一个蓝色方块或屏幕墙壁，游戏就会结束。在右上角添加一个运行计数器，计算玩家在游戏中“活着”的秒数。 然后： 好的，现在，每隔 10 秒添加另一个蓝色敌方方块。 然后： 这很棒！你可以每 20 秒添加一个绿色方块，像蓝色方块一样不规则地移动。如果玩家“吃”了/ 触摸绿色方块，其中一个蓝色方块消失！ 然后： 将玩家取得的 10 个最佳时间列表添加到“游戏结束”屏幕？ 我们的主流媒体中没有人谈论这个（据我所知）。我不懂 Python。我不知道（5 分钟前）如何用 Python 编译和/或运行东西。 它只是一步一步地告诉我该怎么做，即使像我这样的无知菜鸟也能明白。最难的是将代码复制并粘贴到 txt 文件中，然后重命名该文件。这是整个过程中最困难的部分！ 当我告诉它当我按下箭头键指向它已经移动的方向时让玩家方块移动得更快时，我印象特别深刻，它做到了。这太疯狂了。 现在，如果你们都原谅我，我有一个 79 秒的最佳成绩要打破。    提交人    /u/TheUncleTimo   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn42ku/i_just_prompted_claude_to_make_a_game_for_me_and/</guid>
       <pubDate>Mon, 24 Jun 2024 03:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 6 月 23 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn1ir8/oneminute_daily_ai_news_6232024/</link>
-      <description><![CDATA[ Apple 正在与 Meta 探索一项 AI 交易。看来 OpenAI 并不是苹果希望合作建立 AI 商店的唯一一家公司。[1] 一级方程式赛车 和 亚马逊 首次推出 AI“Statbot”来个性化广播，因为通常可以预测的比赛最终都以 Max Verstappen 获胜而告终。[2] Nvidia 将在中东推出，而美国正限制对中东地区的 AI 出口，Ooredoo 首席执行官表示。[3] 耗电巨大的 AI 热潮使电网变得更脏、更不可靠。[4]  来源包括：https://bushaicave.com/2024/06/23/6-23-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn1ir8/oneminute_daily_ai_news_6232024/</guid>
-      <pubDate>Mon, 24 Jun 2024 01:17:43 GMT</pubDate>
     </item>
     <item>
       <title>普通人现在如何利用人工智能？</title>
