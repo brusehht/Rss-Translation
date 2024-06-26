@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 26 Jun 2024 06:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 09:15:24 GMT</lastBuildDate>
+    <item>
+      <title>通过更好的备份解决方案帮助我减少支持负担 – 分享您的想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dottfu/help_me_reduce_support_load_with_better_backup/</link>
+      <description><![CDATA[大家好， 我希望了解管理客户备份和恢复所面临的挑战。您的见解对于找出最有效的方法非常有价值。 我已设置了一项民意调查，以了解您使用哪些工具和做法来管理旨在减少支持负担的客户备份。这是一个相互学习并找到新解决方案的好机会。 非常感谢您的意见！迫不及待地想听到您的想法并在评论中进一步讨论。 今天的问题： 您在管理客户备份和恢复方面面临的最大挑战是什么？ 查看民意调查    提交人    /u/Neverhadachance3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dottfu/help_me_reduce_support_load_with_better_backup/</guid>
+      <pubDate>Wed, 26 Jun 2024 08:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用程序开发：掌握性能优化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dot3dz/web_application_development_master_performance/</link>
+      <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dot3dz/web_application_development_master_performance/</guid>
+      <pubDate>Wed, 26 Jun 2024 07:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>突出显示文章中的部分内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dot0fo/highlighting_sections_within_an_article/</link>
+      <description><![CDATA[      大家好，  我正在尝试创建一个工具，该工具具有使用人工智能从文章中提取某些观察结果或信息的功能。在显示信息时，我想显示它是从文本的哪一部分提取的，类似于 Microsoft Word 上显示评论的方式（见下面的示例）。  如何使用 javascript 突出显示文章中的文本块？如何将此信息存储在数据库中？我可以使用哪些库？ https://preview.redd.it/m8l6bqz3av8d1.png?width=756&amp;format=png&amp;auto=webp&amp;s=7dba04be10855fe3a70de29280b4541bd928ef35 附言我目前正在使用 NextJS 和 Postgres    提交人    /u/praj18   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dot0fo/highlighting_sections_within_an_article/</guid>
+      <pubDate>Wed, 26 Jun 2024 07:46:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能识别这个网站使用的映射库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dosnvk/can_someone_identify_the_mapping_library_used_in/</link>
+      <description><![CDATA[      网站：挪威发展援助 Bistandsresultater (norad.no) 他们建造了这个定制的还是图书馆？我没有看到任何像传单或任何东西的归属，所以我认为这是定制的？  地图    提交人    /u/coderwhohodls   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dosnvk/can_someone_identify_the_mapping_library_used_in/</guid>
+      <pubDate>Wed, 26 Jun 2024 07:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何加强你的 LAMP 服务器安全性并对其进行监控？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1doshxn/how_do_you_harden_your_lamp_server_security_and/</link>
+      <description><![CDATA[我在 AWS 的某个地方运行了一个简单的 LAMP 服务器。它为一个会议运行了一个非常简单的 Laravel 网站，您可以在其中查看其议程并注册参加。没有后端可以登录，一切都通过编辑 Laravel 文件完成。  由于这是在 AWS 上运行的 Linux，因此您需要一个私钥才能通过 ssh 进入它，这很好。但是，我想知道我可以采取哪些其他步骤来   提高服务器的安全性并阻止恶意流量 能够更舒适地浏览 long，而不必 cat 通过日志文件。   你是怎么做到的？     提交人    /u/korax-cz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1doshxn/how_do_you_harden_your_lamp_server_security_and/</guid>
+      <pubDate>Wed, 26 Jun 2024 07:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要实施 GA4</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dorun4/ga4_implementation_needed/</link>
+      <description><![CDATA[大家好，我有一个数字分析项目，要在网站上安装 GA4，跟踪数据，建议并实施对该网站的更改，然后再次跟踪。有人有网站或知道可能对此感兴趣的企业吗？ 我住在加拿大温哥华。    提交人    /u/CheekooBai   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dorun4/ga4_implementation_needed/</guid>
+      <pubDate>Wed, 26 Jun 2024 06:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于合适堆栈的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dorqp9/advice_on_suitable_stacks/</link>
+      <description><![CDATA[我计划创建一个 Web 应用程序，并想知道适合该应用程序的堆栈。该应用程序将获取数千名候选人的分数并根据多种排序规则对其进行排序，然后创建一个排名列表，之后它将为候选人分配职位。以下是核心功能：  输入候选人分数：这将允许用户手动输入候选人分数。自动执行此操作的选项也很棒，它将允许用户上传包含学生分数的 csv 文件，然后该文件将被自动提取和更新。 创建排名列表：这将对所有候选人分数进行排序以创建排名列表。请记住，候选人的数量应在数十万甚至一百万以上的范围内。分数应包括单科分数，如果总分相等，也将单独进行比较。 分配职位空缺：这将按照排名列表将职位空缺分配给候选人。  对于这些功能，哪组堆栈适合开发此应用程序。由于这是我的第一个项目，因此我想就我应该选择哪种语言获得一些建议。    提交人    /u/FaLcOn918   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dorqp9/advice_on_suitable_stacks/</guid>
+      <pubDate>Wed, 26 Jun 2024 06:19:22 GMT</pubDate>
+    </item>
     <item>
       <title>如何在谷歌搜索上显示我的网站的元数据（和微链接）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1doroid/how_to_show_metadata_and_micro_links_for_my/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[对于那些使用 Wordpress 为客户制作网站的人。您是否完全不使用代码？您是否使用像 elementor 这样的拖放功能？WP 已有模板？或者您使用 php 和 css 编写自己的模板？ 我目前正在尝试编写模板，这是一个漫长的过程，只是想知道我所做的是常态还是推荐的方法。 我选择 WP，所以我只能专注于前端，WP 仪表板负责后端。这似乎是合适的，因为一个人做这整件事。 如果有人确实建议编写 wp 模板是一个好主意，你能告诉我你使用的任何有用工具或任何其他技巧吗？    提交人    /u/Riddlesolver809   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dokshw/wordpress_dev_question/</guid>
       <pubDate>Wed, 26 Jun 2024 00:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>LMPGPTFY - 让我为您提示 GPT</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dokdop/lmpgptfy_let_me_prompt_gpt_for_you/</link>
-      <description><![CDATA[您可能听说过臭名昭著的网站“让我帮您谷歌一下”。我写了这个网站，它与此类似，但模仿了 Chat GPT 功能。它应该很有趣也很讽刺，下次您遇到愚蠢的问题时，请尝试与他们分享我的新网站的链接： https://www.lmpgptfy.com/    提交人    /u/sc2bigjoe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dokdop/lmpgptfy_let_me_prompt_gpt_for_you/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一个网站可以让网页开发人员宣传他们的工作和服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dokdg9/is_there_a_website_web_developers_advertise_their/</link>
-      <description><![CDATA[我正在寻找一名网络/软件开发人员，除了打电话给当地公司外，不知道从哪里开始！这将是一个针对学生和教师的教育平台。如果有人知道如何搜索特定的网络开发人员并查看凭证，请与我分享！TIA    提交人    /u/hackgolferguy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dokdg9/is_there_a_website_web_developers_advertise_their/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果有免费的网站构建器，为什么企业还要花钱聘请网站开发人员呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dokc34/why_would_any_business_pay_for_a_web_dev_if_free/</link>
-      <description><![CDATA[如果他们根本不需要开发者，为什么还要为开发者付费？ 我们非常可有可无。    提交人    /u/El_Mario_Verde   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dokc34/why_would_any_business_pay_for_a_web_dev_if_free/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级 Web 开发人员（10 年以上经验）可以从事哪些非编码或非技术工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dojurg/what_are_noncoding_or_nontech_jobs_a_senior_web/</link>
-      <description><![CDATA[目前工作愉快，收入不错，而且很幸运没有受到过去几年科技行业裁员的影响。但是，如果事情真的变糟，我真的不确定我还想在这个行业呆多久。但根据我的经验，我不知道应该找什么样的工作。 假设最低年薪 5 万美元    提交人    /u/devilmaydance   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dojurg/what_are_noncoding_or_nontech_jobs_a_senior_web/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端开发人员你是做什么的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dojawc/backend_developers_what_do_you_do/</link>
-      <description><![CDATA[这基本上就是标题。要清楚我所说的“做”是指您正在处理什么代码？我会排除开发操作，尽管我对后端工作流程更感兴趣     提交人    /u/Ok-Sandwich-4684   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dojawc/backend_developers_what_do_you_do/</guid>
-      <pubDate>Tue, 25 Jun 2024 22:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作中编码的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1doifh3/advicesuggestions_for_coding_at_work/</link>
-      <description><![CDATA[我不是专业程序员，但我自学成才，在空闲时间做。只是个人网络应用程序等（hmtl css js react）。在工作中我做销售，也通过 cms 管理我们的网站，但我通常只是通过简单的代码和一些简单的 javascipt 编辑它，因为我喜欢这样做。无论如何。我工作的公司是一家中等规模的家族企业，我有一个内部网络应用程序的想法，我们可以使用并从中受益。我得到了继续做下去的许可，我只是不确定设置我的环境的最佳方式。我们的个人电脑是普通的戴尔工作站，尽管我的确实有 32gb 内存。唯一的问题是我们必须让为我们做 IT 的公司安装新程序等。我本来想在虚拟机上运行 ubuntu，但这可能会很烦人，必须进行设置并让它们远程登录并下载所有内容，而且不确定我是否会在安装 git、node 等时遇到问题。我的另一个选择是带上我的 macbook 并使用它。还有人遇到过这种情况吗？我想如果我决定换工作的话，这是一个很好的机会，可以将一些真正的工作经验写进我的简历中。TIA    提交人    /u/enfu3go   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1doifh3/advicesuggestions_for_coding_at_work/</guid>
-      <pubDate>Tue, 25 Jun 2024 22:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>阻止来自不同国家的访客（人和机器人！）。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1doi8qe/block_visitors_people_and_bots_from_different/</link>
-      <description><![CDATA[嗨！ 想知道 1. 这对于一般来说是一件好事还是不好的网络实践？2. 怎么做！  只是在想，我是否想阻止任何来自我国家/地区以外的人访问我的网站？出于安全考虑？太多了？！而且，网站不为英国以外的客户提供服务，因此可能会清除无用的流量？ 你在哪里做的？从主机？我正在使用 Hostinger 和 Wordpress。  感谢所有建议和意见！🙂    提交人    /u/Jaroojuk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1doi8qe/block_visitors_people_and_bots_from_different/</guid>
-      <pubDate>Tue, 25 Jun 2024 22:05:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
