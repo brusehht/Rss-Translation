@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 27 Jun 2024 03:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:18:07 GMT</lastBuildDate>
+    <item>
+      <title>我如何确保我的贡献能够传达给目标受众？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpicxh/how_do_i_make_sure_my_contribution_reaches_the/</link>
+      <description><![CDATA[我有两个代码，我一直在为一个项目编写，该项目可以根据卫星 (SAR) 图像自动创建二进制陆地水面掩模。它们可用于训练各种模型来分割这些图像。我还将它们上传到了公共 github repo。我如何确保从事类似项目的人员能够找到这个 repo？我应该去某些论坛发布相关信息吗？我只是想确保从事类似项目的任何人都可以访问此代码，让生活更轻松一些。    提交人    /u/RodzRodzRodz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpicxh/how_do_i_make_sure_my_contribution_reaches_the/</guid>
+      <pubDate>Thu, 27 Jun 2024 04:09:59 GMT</pubDate>
+    </item>
     <item>
       <title>从 HTML 创建文档 - 新版本 - v1.9.4 @TurboDocx/html-to-docx</title>
       <link>https://www.reddit.com/r/opensource/comments/1dpf770/create_documents_from_html_new_release_v194/</link>
-      <description><![CDATA[大家好，我们维护 html-to-docx 的硬分叉，并随着使用量的增加而不断改进库。在此当前维护版本中，我们进行了以下几项改进。 我们欢迎开源贡献，因为它推动了让世界更轻松地生成文档的热情。  https://github.com/TurboDocx/html-to-docx  https://www.npmjs.com/package/@turbodocx/html-to-docx  发行说明 新功能和增强功能  表格边框支持：添加了对表格的完整边框支持，包括处理边框样式组合并允许 tableBorderOptions 作为参数。 （PR #1、#9） 扩展了对样式属性的支持：改进了背景属性、valign 属性的处理，并增加了对表格行 (tr) 上的文本转换和样式属性的支持。（PR #2、#11、#12） 改进了解析和转换功能： 增强了边框解析功能，可以更好地解释和应用样式。（PR #3） 更新了图像转换过程，并增加了对以链接格式提供的图像源的支持。（PR #6、#7） 增强了列表支持，可以更好地维护列表的完整性和样式。（PR #4）  字体和尺寸灵活性：增加了对字体大小、表格高度、宽度和边距的百分比格式的处理。 （PR #10） 增强的内联元素支持：添加了对内联元素中的 br 标记的处理，以改进内容流。（PR #34）  新属性  文本装饰和阴影：引入了对 text-decoration 和 text-shadow 属性的支持，以增强文本样式选项。（PR #16、#18）  错误修复  URL 处理改进： 修复了处理没有 MIME 类型的 URL 的问题，以防止在文档生成期间出现错误。（PR #8） 解决了列表属性生成器和表格网格构造中的特定问题，以提高稳定性。 （PR #13、#14）  错误处理和日志记录增强功能：  将错误日志记录从 Console.Warning 更新为 Warn，以确保调试的一致性和清晰度。 （PR #36） 解决了问题 #35 中指出的问题，以提高系统可靠性。 （PR #37）   优化  边距属性处理：在边距设置中实现了对零值或真值的检查，以防止出现布局问题。 （PR #29）  贡献者  非常感谢 Github 用户 K-Kumar-01、Swayamshu 和 AmitSharma512 对此版本的贡献！     提交人    /u/nicolascoding   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我们维护 html-to-docx 的硬分叉，并努力随着使用量的增长不断改进该库。在此当前维护版本中，我们进行了以下几项改进。 我们欢迎开源贡献，因为它推动了让世界更轻松地生成文档的热情。  https://github.com/TurboDocx/html-to-docx  https://www.npmjs.com/package/@turbodocx/html-to-docx  发行说明 新功能和增强功能  表格边框支持：添加了对表格的完整边框支持，包括处理边框样式组合并允许 tableBorderOptions 作为参数。 （PR #1、#9） 扩展了对样式属性的支持：改进了背景属性、valign 属性的处理，并增加了对表格行 (tr) 上的文本转换和样式属性的支持。（PR #2、#11、#12） 改进了解析和转换功能： 增强了边框解析功能，可以更好地解释和应用样式。（PR #3） 更新了图像转换过程，并增加了对以链接格式提供的图像源的支持。（PR #6、#7） 增强了列表支持，可以更好地维护列表的完整性和样式。（PR #4）  字体和尺寸灵活性：增加了对字体大小、表格高度、宽度和边距的百分比格式的处理。 （PR #10） 增强的内联元素支持：添加了对内联元素中的 br 标记的处理，以改进内容流。（PR #34）  新属性  文本装饰和阴影：引入了对 text-decoration 和 text-shadow 属性的支持，以增强文本样式选项。（PR #16、#18）  错误修复  URL 处理改进： 修复了处理没有 MIME 类型的 URL 的问题，以防止在文档生成期间出现错误。（PR #8） 解决了列表属性生成器和表格网格构造中的特定问题，以提高稳定性。 （PR #13、#14）  错误处理和日志记录增强功能：  将错误日志记录从 Console.Warning 更新为 Warn，以确保调试的一致性和清晰度。 （PR #36） 解决了问题 #35 中指出的问题，以提高系统可靠性。 （PR #37）   优化  边距属性处理：在边距设置中实现了对零值或真值的检查，以防止出现布局问题。 （PR #29）  贡献者  非常感谢 Github 用户 K-Kumar-01、Swayamshu 和 AmitSharma512 对此版本的贡献！     提交人    /u/nicolascoding   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dpf770/create_documents_from_html_new_release_v194/</guid>
       <pubDate>Thu, 27 Jun 2024 01:24:51 GMT</pubDate>
     </item>
@@ -34,13 +41,6 @@
       <pubDate>Wed, 26 Jun 2024 15:55:26 GMT</pubDate>
     </item>
     <item>
-      <title>我如何确保我的贡献能够传达给目标受众？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dp1cl3/how_do_i_make_sure_my_contribution_reaches_the/</link>
-      <description><![CDATA[我有两个代码，我一直在为一个项目编写，该项目可以根据卫星 (SAR) 图像自动创建二进制陆地水面掩模。它们可用于训练各种模型来分割这些图像。我还将它们上传到了公共 github repo。我如何确保从事类似项目的人员能够找到这个 repo？我应该去某些论坛发布相关信息吗？我只是想确保从事类似项目的任何人都可以访问此代码，让生活更轻松一些。    提交人    /u/RodzRodzRodz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dp1cl3/how_do_i_make_sure_my_contribution_reaches_the/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:26:57 GMT</pubDate>
-    </item>
-    <item>
       <title>我正在寻找开源项目来执行安全审计并做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1doywna/im_looking_for_open_source_projects_to_perform/</link>
       <description><![CDATA[大家好， 我是一名安全工程师，目前从事威胁情报工作，但曾在 AppSec 工作。 最近，我一直在寻求通过对开源项目进行安全审计和渗透测试来扩展我的投资组合。 我的目标是识别漏洞、提出修复建议并提交拉取请求以帮助改善这些项目的安全态势，所有这些都是免费的。 我为什么要这样做？ 原因有两个，首先，这是扩展我投资组合的好方法； 其次，因为我在整个职业生涯中都从开源软件中受益匪浅，现在我想回馈社会。 我能提供什么？ 免费安全审计：我将进行安全评估以识别您项目中的漏洞。 拉取请求：我将通过拉取请求提出修复和改进建议，解决安全问题并增强整体安全措施。 我在寻找什么样的项目？ 我更喜欢积极维护的小型项目。 这样，我可以有效地参与多个项目和社区。 无论您的项目是实用工具、Web 应用程序还是完全不同的东西，我都渴望合作和贡献。 取得联系！ 如果您是开源项目的维护者或贡献者，希望增强其安全性或只是对合作感兴趣，请随时通过 DM 或此帖子与我联系。 干杯    提交人    /u/_supitto   [链接] [评论]]]></description>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 26 Jun 2024 13:27:19 GMT</pubDate>
     </item>
     <item>
-      <title>OceanChat | 根据您的五大结果连接您的聊天应用程序（Rust）</title>
+      <title>OceanChat | 根据您的五大结果将您联系起来的聊天应用程序（Rust）</title>
       <link>https://www.reddit.com/r/opensource/comments/1dox6ks/oceanchat_chat_app_that_connect_you_based_on_your/</link>
       <description><![CDATA[  由    /u/gittor123  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dox6ks/oceanchat_chat_app_that_connect_you_based_on_your/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>GitHub repo 被中国 CSDN 推出的平台 GitCode 广泛镜像</title>
       <link>https://www.reddit.com/r/opensource/comments/1doh0gl/github_repo_extensively_mirrored_by_gitcode/</link>
-      <description><![CDATA[GitCode https://gitcode.com/ 是中国“开源”社区 CSDN 推出的 git 托管网站，最近观察到该网站镜像了 GitHub 上几乎所有 star 数超过一定数量（10？）的公共存储库。随机搜索了几个：tqdm、yaml-mode、just、brainfuck 中的 brainfuck interpreter 和一个随机家伙的 neovim config。 运营实体是重庆开源共创科技有限公司，由 CSDN 和华为云提供技术支持。 显然，如果您使用 github 登录，您可以声明您的帐户和存储库，但用户界面都是中文的。 Redditors：您的存储库被盗了吗？ （重新发布；原始标题使用“偷来”但大多数 GitHub 存储库的许可证允许重新分发）    由    /u/EtaoinWu 提交   [链接] [评论]]]></description>
+      <description><![CDATA[GitCode https://gitcode.com/ 是中国“开源”社区 CSDN 推出的 git 托管网站，最近观察到该网站镜像了 GitHub 上几乎所有 star 数超过一定数量（10？）的公共存储库。随机搜索了几个：tqdm、yaml-mode、just、brainfuck 中的 brainfuck interpreter 和一个随机家伙的 neovim config。 运营实体是重庆开源共创科技有限公司，由 CSDN 和华为云提供技术支持。 显然，如果您使用 github 登录，您可以声明您的帐户和存储库，但用户界面都是中文的。 Redditors：您的存储库被盗了吗？ （重新发布；原始标题使用“被盗”，但大多数 GitHub 存储库的许可证允许重新分发）    由    /u/EtaoinWu 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1doh0gl/github_repo_extensively_mirrored_by_gitcode/</guid>
       <pubDate>Tue, 25 Jun 2024 21:13:43 GMT</pubDate>
     </item>
