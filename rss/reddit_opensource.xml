@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 29 Jun 2024 00:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 03:15:44 GMT</lastBuildDate>
     <item>
-      <title>开发了一个使用 Typescript 构建 SDK 的 WhatsApp 应用程序</title>
+      <title>ejabberd 24.06 / ProcessOne – Erlang Jabber/XMPP/Matrix 服务器 – 通信</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dqzo2l/ejabberd_2406_processone_erlang_jabberxmppmatrix/</link>
+      <description><![CDATA[        提交者    /u/Neustradamus   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dqzo2l/ejabberd_2406_processone_erlang_jabberxmppmatrix/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何开源音频/声音分离器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dqz4t7/any_open_source_audiovocal_separator/</link>
+      <description><![CDATA[如果使用 python 或 nodejs 编写，则可以获得加分（我极不可能），但仍然     提交人    /u/just_something_tbh   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dqz4t7/any_open_source_audiovocal_separator/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Typescript 开发了 WhatsApp 应用程序构建 SDK</title>
       <link>https://www.reddit.com/r/opensource/comments/1dqtev1/developed_a_whatsapp_application_building_sdk_in/</link>
       <description><![CDATA[我最近用 Typescript 为 Node.js 开发了这个 SDK，它可以用来非常轻松地开发基于 WhatsApp API 的应用程序。请在 github 上查看，文档位于 此处。 期待一些 beta 用户和反馈，以及有兴趣做出贡献的人。    提交人    /u/UnusualMeasurement10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dqtev1/developed_a_whatsapp_application_building_sdk_in/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>为文本编辑器添加协作编辑</title>
       <link>https://www.reddit.com/r/opensource/comments/1dqipf1/add_collaborative_editing_to_a_text_editor/</link>
-      <description><![CDATA[大家好  我使用 Python 和 curses 构建了一个 TUI 文本编辑器，并且想知道是否可以为其添加类似协作编辑的功能 [就像 google docs 一样]。 我做了一些研究，发现了一个名为 automerge 的工具，但它仅适用于 Web 应用程序。 如果有人有任何想法，请随时分享。    提交人    /u/BRArjun_890   [link] [评论]]]></description>
+      <description><![CDATA[大家好  我使用 Python 和 curses 构建了一个 TUI 文本编辑器，想知道是否可以为其添加类似协作编辑的功能 [就像 google docs 一样]。 我做了一些研究，发现了一个名为 automerge 的工具，但它仅适用于 Web 应用程序。 如果有人有任何想法，请随时分享。    提交人    /u/BRArjun_890   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dqipf1/add_collaborative_editing_to_a_text_editor/</guid>
       <pubDate>Fri, 28 Jun 2024 12:41:17 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想创建一个集成所有其他社交媒体的开源数据中心社交媒体平台。X、IG、Rumble、Youtube、GTTR、Truth。 一个自由的言论平台，没有游戏，由所有人拥有，但又不属于任何人。 人们可以在他们选择的媒体上在他们选择的平台上发帖，并将其整合到他们的 feed 中。    提交人    /u/Truss120   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dq3fav/open_source_twitter/</guid>
       <pubDate>Thu, 27 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何根据国家/地区查找 GitHub 开源仓库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dq0808/how_to_find_github_opensource_repo_based_on/</link>
-      <description><![CDATA[大家好，我试图寻找来自不同国家的开源项目，特别是迪拜。我见过许多来自许多国家的开源项目和创业公司。但要找到基于任何特定国家的开源项目或创业公司真的很难。而且要找到一个合法的开源项目或创业公司尤其困难。 如果您遇到任何可以基于国家/地区找到项目或创业公司的平台，请告诉我。如果您认识迪拜的任何开源项目，那将是很大的帮助👍    提交人    /u/RcDevloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dq0808/how_to_find_github_opensource_repo_based_on/</guid>
-      <pubDate>Thu, 27 Jun 2024 19:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>对“OTel 的问题”的回应</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dpx42x/a_response_to_the_problem_with_otel/</link>
-      <description><![CDATA[        提交人    /u/joshleecreates   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dpx42x/a_response_to_the_problem_with_otel/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:35:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
