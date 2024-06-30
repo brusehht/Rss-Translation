@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 30 Jun 2024 12:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 15:12:45 GMT</lastBuildDate>
     <item>
       <title>周日卷轴评论</title>
       <link>https://www.reddit.com/r/editors/comments/1drzw5j/sunday_reel_review/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>从颜色接收的剪辑上的时间码不同。Avid/Resolve 往返。</title>
       <link>https://www.reddit.com/r/editors/comments/1dqy1wn/timecodes_different_on_clips_received_back_from/</link>
-      <description><![CDATA[好的，以前从未见过这个。 往返 Avid&gt;Resolve&gt;Avid。 从颜色队列接收的文件大部分正确，但源时间码偏离了几帧（看起来几乎始终是 3 帧）。 屏幕截图这里。您可以看到中间的代理/彩色剪辑 TC 是相同的，但我们偏离了几帧。 我的第一个想法是它们意外地以错误的 FPS 渲染，但一切似乎都是正确的。我们有一些混合的帧速率，但 99% 是 24FPS。 Avid 2022.12.6，但我也将 AAF 导入 Premiere，问题仍然存在。不确定 Resolve 版本。我在 Windows 11 上。  DNxLB 720p 代理。 DNx444 4K 彩色文件。 Sony FX6/FX9。    由    /u/dmizz 提交   [link] [comments]]]></description>
+      <description><![CDATA[好的，以前从未见过这个。 往返 Avid&gt;Resolve&gt;Avid。 从颜色队列接收的文件大部分正确，但源时间码偏离了几帧（看起来几乎始终是 3 帧）。 屏幕截图这里。您可以看到中间的代理/彩色剪辑 TC 是相同的，但我们偏离了几帧。 我的第一个想法是它们意外地以错误的 FPS 渲染，但一切似乎都是正确的。我们有一些混合的帧速率，但 99% 是 24FPS。 Avid 2022.12.6，但我也将 AAF 导入 Premiere，问题仍然存在。不确定 Resolve 版本。我在 Windows 11 上。  DNxLB 720p 代理。 DNx444 4K 彩色文件。 Sony FX6/FX9。    由    /u/dmizz  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dqy1wn/timecodes_different_on_clips_received_back_from/</guid>
       <pubDate>Sat, 29 Jun 2024 00:00:22 GMT</pubDate>
     </item>
