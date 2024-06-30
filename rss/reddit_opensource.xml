@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 30 Jun 2024 00:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 03:15:21 GMT</lastBuildDate>
+    <item>
+      <title>四个月前首次在这里宣布，我的开源“互联网操作系统”刚刚超过 20,000 颗星！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1drqp83/firs_announced_here_4_months_ago_my_opensource/</link>
+      <description><![CDATA[        提交人    /u/mitousa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1drqp83/firs_announced_here_4_months_ago_my_opensource/</guid>
+      <pubDate>Sun, 30 Jun 2024 01:52:49 GMT</pubDate>
+    </item>
     <item>
       <title>Python 神经信息学实验应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1dren44/app_for_neuroinformatics_experiment_in_python/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好  我使用 Python 和 curses 构建了一个 TUI 文本编辑器，想知道是否可以为其添加类似协作编辑的功能 [就像 google docs 一样]。 我做了一些研究，发现了一个名为 automerge 的工具，但它仅适用于 Web 应用程序。 如果有人有任何想法，请随时分享。    提交人    /u/BRArjun_890   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dqipf1/add_collaborative_editing_to_a_text_editor/</guid>
       <pubDate>Fri, 28 Jun 2024 12:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenLoco 24.06 版发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dqiffl/openloco_version_2406_released/</link>
-      <description><![CDATA[        提交人    /u/reps_up   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dqiffl/openloco_version_2406_released/</guid>
-      <pubDate>Fri, 28 Jun 2024 12:26:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
