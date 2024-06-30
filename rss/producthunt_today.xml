@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 30 Jun 2024 18:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 21:13:12 GMT</lastBuildDate>
     <item>
       <title>在线指南针</title>
       <link>https://www.producthunt.com/posts/online-compass</link>
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/online-compass</guid>
       <pubDate>Sat, 29 Jun 2024 14:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>远屋</title>
-      <link>https://www.producthunt.com/posts/farhouse</link>
-      <description><![CDATA[
-Farcaster 的音频空间
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/farhouse</guid>
-      <pubDate>Sat, 29 Jun 2024 11:53:39 GMT</pubDate>
     </item>
     <item>
       <title>CSS 渐变生成器</title>
@@ -65,7 +51,7 @@ Farcaster 的音频空间
       <title>冲浪伙伴</title>
       <link>https://www.producthunt.com/posts/surfpal</link>
       <description><![CDATA[
-跟踪、分析并限制您在每个网站上花费的时间
+跟踪、分析并限制您在每个网站上所花的时间
 
 
 讨论
@@ -116,6 +102,20 @@ Farcaster 的音频空间
 ]]></description>
       <guid>https://www.producthunt.com/posts/plus-ai-powerpoint-maker</guid>
       <pubDate>Wed, 26 Jun 2024 18:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 视觉板</title>
+      <link>https://www.producthunt.com/posts/ai-visionboard</link>
+      <description><![CDATA[
+使用 AI 可视化您的梦想 - 带有照片的 VisionBoards
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-visionboard</guid>
+      <pubDate>Fri, 21 Jun 2024 23:00:35 GMT</pubDate>
     </item>
     <item>
       <title>波形发生器</title>
