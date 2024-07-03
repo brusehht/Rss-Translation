@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 00:55:41 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Wed, 03 Jul 2024 03:14:23 GMT</lastBuildDate>
+    <item>
+      <title>创建这样的网站实际要收多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du2qwq/how_much_could_i_realistically_charge_to_create_a/</link>
+      <description><![CDATA[https://www.saveritemedical.com/?gad_source=1 大家好，这是我作为网页设计师独自工作的第一年，这是我的第三个客户，我正在努力确定报价，有人知道吗？谢谢  该网站将在 Shopify 中完成，我通常收取 400 美元来创建一个基本网站，包括主机，但这个网站完全不同，因为我将添加大约 100 种产品！请帮忙    提交人    /u/Creative-Can-5467   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du2qwq/how_much_could_i_realistically_charge_to_create_a/</guid>
+      <pubDate>Wed, 03 Jul 2024 01:49:36 GMT</pubDate>
+    </item>
     <item>
       <title>您为客户设计网站的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1du1j5o/your_approach_to_designing_a_website_for_a_client/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>理论方面的好书</title>
       <link>https://www.reddit.com/r/webdev/comments/1dty1ob/good_book_for_theory/</link>
-      <description><![CDATA[大家好， 我自学编程已经 14 个月了，几周后我找到了一份 Web 开发的工作。我觉得我已经掌握了一些框架的基础知识，可以做一些东西了。我觉得我是个好程序员。 但是我觉得自己对 Web 开发有很多不了解的地方。我一听到“套接字”、“CORS”、“身份验证……”等词，就意识到我并没有真正明白自己在做什么，我只是在输入不同的东西，直到成功。 有人能推荐一些解释 Web 开发基本原理的书籍吗？我使用的框架抽象了很多细节，但我真的想掌握这些细节。   由    /u/tb5841  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我自学编程已经 14 个月了，几周后我找到了一份 Web 开发的工作。我觉得我已经掌握了一些框架的基础知识，可以做一些东西了。我觉得我是个好程序员。 但是我觉得自己对 Web 开发有很多安全的理解。我一听到“套接字”、“CORS”、“身份验证...”等词，就意识到我并没有真正明白自己在做什么，我只是在输入不同的东西，直到有东西起作用。 有人能推荐一些解释 Web 开发基本原理的书籍吗？我使用的框架抽象了很多细节，但我确实想掌握这些细节。   由    /u/tb5841  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dty1ob/good_book_for_theory/</guid>
       <pubDate>Tue, 02 Jul 2024 22:03:36 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        由    /u/jkerr838 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dtw45i/the_3_types_of_css_utility_classes_aesthetic/</guid>
       <pubDate>Tue, 02 Jul 2024 20:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby on Rails 还是 JavaScript 适合开发小型企业网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtvzxo/ruby_on_rails_or_javascript_for_developing/</link>
-      <description><![CDATA[大家好，开发人员！ 希望大家度过愉快的一周。我现在正处于十字路口，希望大家能帮助我决定我应该学习哪种语言来为小型企业开发网站。就上下文而言，我已经通过 YouTube 教程和你们中的一些人可能熟悉的 TheOdinProject 学习了 HTML 和 CSS。我还开发了不少着陆页来练习使用 HTML、CSS 和一点 JavaScript，我也学习了 JavaScript 的基础知识（对象、数组、循环、DOM 等）。 作为一个不想长期从事 Web 开发的人，只想做自由职业者并帮助微型/小型企业建立他们的网站，你会建议我选择哪条道路。 提前感谢您的回复。   由    /u/FamSimmer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtvzxo/ruby_on_rails_or_javascript_for_developing/</guid>
-      <pubDate>Tue, 02 Jul 2024 20:34:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
