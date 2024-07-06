@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 05 Jul 2024 21:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 00:53:51 GMT</lastBuildDate>
     <item>
       <title>视频资产是否太多？</title>
       <link>https://www.reddit.com/r/editors/comments/1dw7ipa/are_there_too_many_video_assets/</link>
@@ -15,16 +15,9 @@
     <item>
       <title>使用 Resolve 和 UltraStudio 进行多机位现场编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1dw6o70/multicam_onset_editing_with_resolve_and/</link>
-      <description><![CDATA[我正在设计一个四摄像机现场工作流程。 我一直在使用 Resolve 和 UltraStudio HD Mini 进行单摄像机拍摄的现场编辑。不用于最终交付，用于现场草稿，以帮助导演和代理机构做出决策和批准。 因此，对于单摄像机，您可以在声音滚动时点击捕获，将剪辑重命名为摄像机文件名，并在滚动时从场记板中添加关键元数据（例如场景 | 镜头），然后添加来自代理机构或导演的标记或评论。这样，您（或其他编辑）就可以在拍摄后将它们带入剪辑室，并在线/重建以进行粗剪。 对于这种多摄像机工作流程，我从一位同事那里继承了一个想法，基本上就是捕获多视图源并在时间线上复制四次，然后仅使用位置和缩放来获得每次拍摄的四个单镜头。您无法在 resolve 中真正保存预设，因此您必须选择已准备好的剪辑，然后将属性复制并粘贴到新批次中，遗憾的是这不太适合键盘操作，但可行。 我测试了这一点，然后您从时间线上的 i/o 标记制作一个复合剪辑，并将其转换为多机位剪辑。遗憾的是，Source 查看器中的 resolve 多机位查看器忽略了变换效果，因此您必须记住摄像机镜头并且无法进行视觉选择，但同样，这在某种程度上是可行的。 我的主要问题是，我认为事后将这些组上线可能会很麻烦，但我们通常从头开始构建并使用当天的剪辑作为参考并当场解决问题。在这些项目中，有时“剪切”后只有 10 秒并且您已经在监视器上播放了一些东西（这在精心准备的单机拍摄中实际上很有趣，但在这个过程中会有点紧张），所以如果有人有我遗漏的想法，或者对视频团队有想法，我会很感兴趣。    提交人    /u/Ok-Sleep-9374   [link] [评论]]]></description>
+      <description><![CDATA[我正在为片场四台摄像机的工作流程制定一个工作流程。 我一直在使用 Resolve 和 UltraStudio HD Mini 进行单台摄像机拍摄的现场编辑。不用于最终交付，用于现场草稿，以帮助导演和代理机构做出决策和批准。 编辑：这不是现场活动或现场表演，而是用于广告的多台摄像机拍摄，并且是有脚本的，我们不会全天按时间顺序工作。 因此，对于单台摄像机，您可以在声音滚动时点击捕捉，将剪辑重命名为摄像机文件名，并在滚动时从场记板中添加关键元数据（例如场景 | 镜头），然后添加来自代理机构或导演的标记或评论。您可以在拍摄和设置之间进行编辑，并在一天结束时进行组装。这样，您（或其他编辑）就可以在拍摄后将其带入剪辑室并在线/重建以进行粗剪。 对于这种多摄像机工作流程，我从同事那里继承了一个想法，基本上就是捕捉多视图馈送并在时间线上复制四次，然后仅使用位置和缩放来获得每次拍摄的四个单镜头。您无法真正保存预设，因此您必须选择您准备好的剪辑并将属性复制并粘贴到新批次中，遗憾的是这不太适合键盘操作，但可行。 我对此进行了测试，然后您从时间线上的输入/输出标记制作复合剪辑并将其转换为多摄像机剪辑。遗憾的是，Resolve 的 Source viewer 中的 Multicam viewer 忽略了变换效果，因此您必须记住摄像机镜头，无法进行视觉选择，但同样，这在某种程度上是可行的。 我的主要问题是，我认为事后将这些组上线可能会很麻烦，但我们通常从头开始构建并使用当天的剪辑作为参考并当场解决问题。在这些项目中，有时“剪辑”后只有 10 秒，您就已经在显示器上播放以显示一些东西（这在准备充分的单机位拍摄中实际上很有趣，但在这个过程中会有点紧张），所以如果有人有我遗漏的想法，或者对视频团队有想法，我会很感兴趣。    提交人    /u/Ok-Sleep-9374   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dw6o70/multicam_onset_editing_with_resolve_and/</guid>
       <pubDate>Fri, 05 Jul 2024 19:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以在不按住左键单击的情况下浏览 Premiere 时间线？</title>
-      <link>https://www.reddit.com/r/editors/comments/1dw5qo8/is_it_possible_to_scrub_through_a_premiere/</link>
-      <description><![CDATA[所以我们都知道可以通过按住左键进行擦洗，但是我正在使用触控板，想知道是否有办法简单地单击播放头，然后在擦洗时向左或向右滑动，而不必一直按住按钮，然后再次单击即可停用它。    提交人    /u/WearHeadphonesPlease   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dw5qo8/is_it_possible_to_scrub_through_a_premiere/</guid>
-      <pubDate>Fri, 05 Jul 2024 19:06:21 GMT</pubDate>
     </item>
     <item>
       <title>色盲编辑</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我有一个项目，其中所有素材都存储在一个速度较慢的 HDD 上。我已将素材复制到我的 SSD 上，以获得更快的编辑体验，但现在当我在 SSD 上打开项目时，它仍在从 HDD 中提取素材。 如何告诉 Premiere 访问相同的素材，但现在副本存储在我的 SSD 上？ 系统规格：Ryzen 3900X、1080Ti、32GB RAM // 软件规格：24.5 // 素材规格：Sony、MXF    提交人    /u/FuckYeahIDid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dv8pr3/how_to_direct_premiere_to_use_the_same_footage/</guid>
       <pubDate>Thu, 04 Jul 2024 14:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>编辑海外机会/计划？</title>
+      <link>https://www.reddit.com/r/editors/comments/1dv7afl/edit_abroad_opportunitiesschemes/</link>
+      <description><![CDATA[目前是戏剧方面的助理编辑，希望从事更多的助理或初级编辑工作。有人知道有哪些项目可以让编辑移居/工作在欧洲吗？或者，如果没有，在欧洲国家哪里是最适合找英语工作的地方？谢谢：）    提交人    /u/Budget-Purpose9855   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dv7afl/edit_abroad_opportunitiesschemes/</guid>
+      <pubDate>Thu, 04 Jul 2024 13:44:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
