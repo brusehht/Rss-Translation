@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Sat, 06 Jul 2024 12:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 15:13:29 GMT</lastBuildDate>
     <item>
-      <title>DOOM 类游戏引擎 第一部分</title>
-      <link>https://www.opensourceagenda.com/projects/doom-like-game-engine-part-i</link>
-      <description><![CDATA[从头开始编写类似 DOOM 的游戏引擎的视频教程第一部分的源代码。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/doom-like-game-engine-part-i</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
+      <title>指令事件地图</title>
+      <link>https://www.opensourceagenda.com/projects/commanded-events-map</link>
+      <description><![CDATA[用于分析命令项目并以流程图形式表示的工具。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/commanded-events-map</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>字幕员</title>
-      <link>https://www.opensourceagenda.com/projects/subtitler</link>
-      <description><![CDATA[用于音频转录和渲染字幕的免费设备网络应用程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/subtitler</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
+      <title>黑旗</title>
+      <link>https://www.opensourceagenda.com/projects/blackflag</link>
+      <description><![CDATA[PHP 应用程序旨在协助“Pavillon Noir”游戏的角色扮演游戏会话。 DDD、CQRS、ES]]></description>
+      <guid>https://www.opensourceagenda.com/projects/blackflag</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>Openhue Go</title>
-      <link>https://www.opensourceagenda.com/projects/openhue-go</link>
-      <description><![CDATA[OpenHue Go 是一个用 Golang 编写的库，用于与飞利浦 Hue 智能照明系统交互。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/openhue-go</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
+      <title>CQRS ES 微服务</title>
+      <link>https://www.opensourceagenda.com/projects/cqrs-es-microservices</link>
+      <description><![CDATA[React、Redux、ASP.NET Core Web API、RabbitMQ、MassTransit、Entity Framework、MongoDB]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cqrs-es-microservices</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>HwidChanger 欺骗</title>
-      <link>https://www.opensourceagenda.com/projects/hwidchanger-spoof</link>
-      <description><![CDATA[可能是更改硬件 ID 的最佳软件。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hwidchanger-spoof</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
+      <title>Branchtalk Io 后端</title>
+      <link>https://www.opensourceagenda.com/projects/branchtalk-io-backend</link>
+      <description><![CDATA[Reddit-clone 演示了如何在 Scala 中实现更大的、基于 DDD 的、事件源的、纯 FP 应用程序（如果需求能够证明某些成本是合理的！）。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/branchtalk-io-backend</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>易于</title>
-      <link>https://www.opensourceagenda.com/projects/aippt</link>
-      <description><![CDATA[AI 智能生成 PPT，PPT解析为json，json反渲染为PPT，商用级AiPPT可在线体验]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aippt</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+      <title>语音语音</title>
+      <link>https://www.opensourceagenda.com/projects/vispeech</link>
+      <description><![CDATA[使用 Nest.js、Event Store 和 Swagger 的 Node.js CQRS 和事件源微服务示例]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vispeech</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>发电机编号</title>
-      <link>https://www.opensourceagenda.com/projects/generatorsid</link>
-      <description><![CDATA[GeneratorsId 是一款基于雪花算法生成唯一ID的Java库，是一个用于Java开发的工具类。它依赖于Spring Boot框架，并使用Redis来解决多服务所在机器的MAC地址相同可能导致ID重复的问题。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/generatorsid</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+      <title>Aulasoftwarelibre Nestjs Eventstore</title>
+      <link>https://www.opensourceagenda.com/projects/aulasoftwarelibre-nestjs-eventstore</link>
+      <description><![CDATA[用于使用 eventstore 数据库进行事件外包开发的 NestJS 模块]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aulasoftwarelibre-nestjs-eventstore</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>Openapi Ts 请求</title>
-      <link>https://www.opensourceagenda.com/projects/openapi-ts-request</link>
-      <description><![CDATA[Swagger2/OpenAPI3 到 TypeScript，请求客户端，请求模拟服务，枚举，类型字段标签，JSON 模式]]></description>
-      <guid>https://www.opensourceagenda.com/projects/openapi-ts-request</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+      <title>江户又</title>
+      <link>https://www.opensourceagenda.com/projects/edomata</link>
+      <description><![CDATA[适用于 Scala、Scala.js 和 Scala Native 的生产就绪事件驱动自动机]]></description>
+      <guid>https://www.opensourceagenda.com/projects/edomata</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>电报公司出口</title>
-      <link>https://www.opensourceagenda.com/projects/telegraf-nv-export</link>
-      <description><![CDATA[用于 telegraf 的超低开销 NVIDIA GPU 遥测插件，带有内存温度读数。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/telegraf-nv-export</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+      <title>Emacsway 等级</title>
+      <link>https://www.opensourceagenda.com/projects/emacsway-grade</link>
+      <description><![CDATA[Golang DDD (CQRS / 事件源) 参考应用程序“Grade”]]></description>
+      <guid>https://www.opensourceagenda.com/projects/emacsway-grade</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>ADA4MIA</title>
-      <link>https://www.opensourceagenda.com/projects/ada4mia</link>
-      <description><![CDATA[用于医学图像分析的出色主动域自适应]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ada4mia</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+      <title>瓦解 Es 瓦解</title>
+      <link>https://www.opensourceagenda.com/projects/disintegrate-es-disintegrate</link>
+      <description><![CDATA[Disintegrate Rust 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/disintegrate-es-disintegrate</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>程序员简历指南</title>
-      <link>https://www.opensourceagenda.com/projects/coder-resume-guide</link>
-      <description><![CDATA[保姆级程序员写简历指南，从 0 到 1 带你写出高质量的简历（by 程序员鱼皮）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/coder-resume-guide</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+      <title>弹性事件存储</title>
+      <link>https://www.opensourceagenda.com/projects/elastic-event-store</link>
+      <description><![CDATA[完全无服务器的事件存储]]></description>
+      <guid>https://www.opensourceagenda.com/projects/elastic-event-store</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Nestjs 实现更快的模板后端</title>
-      <link>https://www.opensourceagenda.com/projects/faster-template-backend-with-nestjs</link>
-      <description><![CDATA[一个NestJS开箱即用快速开发模板]]></description>
-      <guid>https://www.opensourceagenda.com/projects/faster-template-backend-with-nestjs</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+      <title>Boostercloud 助推器</title>
+      <link>https://www.opensourceagenda.com/projects/boostercloud-booster</link>
+      <description><![CDATA[Booster 框架]]></description>
+      <guid>https://www.opensourceagenda.com/projects/boostercloud-booster</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>Cryagnharsris WhatsApp 网络垃圾邮件发送者</title>
-      <link>https://www.opensourceagenda.com/projects/cryagnharsris-whatsapp-web-spammer</link>
-      <description><![CDATA[whatsapp 网络垃圾邮件发送者 💥 whatsapp 网络垃圾邮件发送者 2024 最新更新 💥 在 whatsapp 网络向人们发送垃圾邮件的简单脚本。whatsapp 网络垃圾邮件发送者 whatsapp 垃圾邮件发送者 whatsapp 消息垃圾邮件发送者 whatsapp 群组垃圾邮件发送者 whatsapp 网络垃圾邮件发送者 whatsapp 垃圾邮件发送者 whatsapp 消息垃圾邮件发送者 whatsapp 群组垃圾邮件发送者 whatsapp 网络垃圾邮件发送者 whatsapp 垃圾邮件发送者 whatsapplkfysbohug]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cryagnharsris-whatsapp-web-spammer</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+      <title>开放式雪橇</title>
+      <link>https://www.opensourceagenda.com/projects/opensleigh</link>
+      <description><![CDATA[OpenSleigh 是 .NET Core 的 Saga 管理库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opensleigh</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>Java 到 Kotlin 指南</title>
-      <link>https://www.opensourceagenda.com/projects/java-to-kotlin-guide</link>
-      <description><![CDATA[给 Java 开发者看的 Kotlin 快速入门指南。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/java-to-kotlin-guide</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:20 GMT</pubDate>
+      <title>RayTale Vertex</title>
+      <link>https://www.opensourceagenda.com/projects/raytale-vertex</link>
+      <description><![CDATA[Vertex 是一个基于 Orleans 的分布式、最终一致性、事件可追溯的跨平台框架，用于构建高性能、高吞吐量、低延迟、可扩展的分布式应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/raytale-vertex</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>鲁桑多拉·远卡斯特</title>
-      <link>https://www.opensourceagenda.com/projects/ruesandora-farcaster</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ruesandora-farcaster</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:20 GMT</pubDate>
+      <title>Typescript 事件源</title>
+      <link>https://www.opensourceagenda.com/projects/typescript-event-sourcing</link>
+      <description><![CDATA[使用 Typescript 进行领域驱动设计、事件源和命令查询职责分离]]></description>
+      <guid>https://www.opensourceagenda.com/projects/typescript-event-sourcing</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>Oxc节点</title>
-      <link>https://www.opensourceagenda.com/projects/oxc-node</link>
-      <description><![CDATA[基于 https://github.com/oxc-project 的快速且友好的 Node.js devtools]]></description>
-      <guid>https://www.opensourceagenda.com/projects/oxc-node</guid>
-      <pubDate>Sat, 06 Jul 2024 12:21:20 GMT</pubDate>
+      <title>手持式工控机</title>
+      <link>https://www.opensourceagenda.com/projects/handyipc</link>
+      <description><![CDATA[一个开箱即用的进程间通信（IPC）库，也可以看作是一个远程 Ioc 容器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/handyipc</guid>
+      <pubDate>Sat, 06 Jul 2024 15:13:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
