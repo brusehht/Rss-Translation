@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Sat, 06 Jul 2024 09:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 12:21:24 GMT</lastBuildDate>
     <item>
-      <title>Solara 由 FRON 提供</title>
-      <link>https://www.opensourceagenda.com/projects/solara-by-fron</link>
-      <description><![CDATA[Solara 是 Roblox 的一个功能强大且用途广泛的脚本。由 FRON 开发]]></description>
-      <guid>https://www.opensourceagenda.com/projects/solara-by-fron</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:45 GMT</pubDate>
+      <title>DOOM 类游戏引擎 第一部分</title>
+      <link>https://www.opensourceagenda.com/projects/doom-like-game-engine-part-i</link>
+      <description><![CDATA[从头开始编写类似 DOOM 的游戏引擎的视频教程第一部分的源代码。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/doom-like-game-engine-part-i</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>皮科格拉德</title>
-      <link>https://www.opensourceagenda.com/projects/picograd</link>
-      <description><![CDATA[micrograd 的 Rust 实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/picograd</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:45 GMT</pubDate>
+      <title>字幕员</title>
+      <link>https://www.opensourceagenda.com/projects/subtitler</link>
+      <description><![CDATA[用于音频转录和渲染字幕的免费设备网络应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/subtitler</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>Steveiliop56 按钮盒</title>
-      <link>https://www.opensourceagenda.com/projects/steveiliop56-buttonbox</link>
-      <description><![CDATA[一键运行 shell 任务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/steveiliop56-buttonbox</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:45 GMT</pubDate>
+      <title>Openhue Go</title>
+      <link>https://www.opensourceagenda.com/projects/openhue-go</link>
+      <description><![CDATA[OpenHue Go 是一个用 Golang 编写的库，用于与飞利浦 Hue 智能照明系统交互。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openhue-go</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>大型语言模型的出色可解释性</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-interpretability-in-large-language-models</link>
-      <description><![CDATA[此存储库收集了有关 LLM 中可解释性的所有相关资源]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-interpretability-in-large-language-models</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:44 GMT</pubDate>
+      <title>HwidChanger 欺骗</title>
+      <link>https://www.opensourceagenda.com/projects/hwidchanger-spoof</link>
+      <description><![CDATA[可能是更改硬件 ID 的最佳软件。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hwidchanger-spoof</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>管理代理</title>
-      <link>https://www.opensourceagenda.com/projects/omagent</link>
-      <description><![CDATA[用于解决复杂任务的多模式代理框架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/omagent</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:44 GMT</pubDate>
+      <title>易于</title>
+      <link>https://www.opensourceagenda.com/projects/aippt</link>
+      <description><![CDATA[AI 智能生成 PPT，PPT解析为json，json反渲染为PPT，商用级AiPPT可在线体验]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aippt</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
     </item>
     <item>
-      <title>Anni165 Adob​​e Illustrator</title>
-      <link>https://www.opensourceagenda.com/projects/anni165-adobe-illustrator</link>
+      <title>发电机编号</title>
+      <link>https://www.opensourceagenda.com/projects/generatorsid</link>
+      <description><![CDATA[GeneratorsId 是一款基于雪花算法生成唯一ID的Java库，是一个用于Java开发的工具类。它依赖于Spring Boot框架，并使用Redis来解决多服务所在机器的MAC地址相同可能导致ID重复的问题。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/generatorsid</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openapi Ts 请求</title>
+      <link>https://www.opensourceagenda.com/projects/openapi-ts-request</link>
+      <description><![CDATA[Swagger2/OpenAPI3 到 TypeScript，请求客户端，请求模拟服务，枚举，类型字段标签，JSON 模式]]></description>
+      <guid>https://www.opensourceagenda.com/projects/openapi-ts-request</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>电报公司出口</title>
+      <link>https://www.opensourceagenda.com/projects/telegraf-nv-export</link>
+      <description><![CDATA[用于 telegraf 的超低开销 NVIDIA GPU 遥测插件，带有内存温度读数。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/telegraf-nv-export</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADA4MIA</title>
+      <link>https://www.opensourceagenda.com/projects/ada4mia</link>
+      <description><![CDATA[用于医学图像分析的出色主动域自适应]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ada4mia</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员简历指南</title>
+      <link>https://www.opensourceagenda.com/projects/coder-resume-guide</link>
+      <description><![CDATA[保姆级程序员写简历指南，从 0 到 1 带你写出高质量的简历（by 程序员鱼皮）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/coder-resume-guide</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Nestjs 实现更快的模板后端</title>
+      <link>https://www.opensourceagenda.com/projects/faster-template-backend-with-nestjs</link>
+      <description><![CDATA[一个NestJS开箱即用快速开发模板]]></description>
+      <guid>https://www.opensourceagenda.com/projects/faster-template-backend-with-nestjs</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cryagnharsris WhatsApp 网络垃圾邮件发送者</title>
+      <link>https://www.opensourceagenda.com/projects/cryagnharsris-whatsapp-web-spammer</link>
+      <description><![CDATA[whatsapp 网络垃圾邮件发送者 💥 whatsapp 网络垃圾邮件发送者 2024 最新更新 💥 在 whatsapp 网络向人们发送垃圾邮件的简单脚本。whatsapp 网络垃圾邮件发送者 whatsapp 垃圾邮件发送者 whatsapp 消息垃圾邮件发送者 whatsapp 群组垃圾邮件发送者 whatsapp 网络垃圾邮件发送者 whatsapp 垃圾邮件发送者 whatsapp 消息垃圾邮件发送者 whatsapp 群组垃圾邮件发送者 whatsapp 网络垃圾邮件发送者 whatsapp 垃圾邮件发送者 whatsapplkfysbohug]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cryagnharsris-whatsapp-web-spammer</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 到 Kotlin 指南</title>
+      <link>https://www.opensourceagenda.com/projects/java-to-kotlin-guide</link>
+      <description><![CDATA[给 Java 开发者看的 Kotlin 快速入门指南。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/java-to-kotlin-guide</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>鲁桑多拉·远卡斯特</title>
+      <link>https://www.opensourceagenda.com/projects/ruesandora-farcaster</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/anni165-adobe-illustrator</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:44 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/ruesandora-farcaster</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:20 GMT</pubDate>
     </item>
     <item>
-      <title>结构探索器</title>
-      <link>https://www.opensourceagenda.com/projects/structexplorer</link>
-      <description><![CDATA[Go 结构检查 Web 服务]]></description>
-      <guid>https://www.opensourceagenda.com/projects/structexplorer</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alienator88 哨兵</title>
-      <link>https://www.opensourceagenda.com/projects/alienator88-sentinel</link>
-      <description><![CDATA[SwiftUI 守门人配置 GUI]]></description>
-      <guid>https://www.opensourceagenda.com/projects/alienator88-sentinel</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>共同签名守门人提供商</title>
-      <link>https://www.opensourceagenda.com/projects/cosign-gatekeeper-provider</link>
-      <description><![CDATA[🔮 ✈️ 将 OPA Gatekeeper 的新 ExternalData 功能与 cosign 集成，通过验证其签名来确定图像是否有效]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cosign-gatekeeper-provider</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gke 政策库</title>
-      <link>https://www.opensourceagenda.com/projects/gke-policy-library</link>
-      <description><![CDATA[Google Kubernetes Engine 策略库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gke-policy-library</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>基督守门人</title>
-      <link>https://www.opensourceagenda.com/projects/jchristn-gatekeeper</link>
-      <description><![CDATA[C# 中的轻量级库，用于实现基于角色的访问控制 (RBAC)。使用 Gatekeeper，您可以定义用户、角色、资源和权限，并授权请求。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jchristn-gatekeeper</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放政策代理社区</title>
-      <link>https://www.opensourceagenda.com/projects/open-policy-agent-community</link>
-      <description><![CDATA[社区存储库是获得 OPA 和 OPA 子项目（如 Conftest 和 Gatekeeper）支持的地方。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/open-policy-agent-community</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>守门人图书馆</title>
-      <link>https://www.opensourceagenda.com/projects/gatekeeper-library</link>
-      <description><![CDATA[📚 OPA Gatekeeper 策略库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gatekeeper-library</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>约束</title>
-      <link>https://www.opensourceagenda.com/projects/konstraint</link>
-      <description><![CDATA[用于与 Gatekeeper 交互的策略管理工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/konstraint</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacOS GateKeeper 助手</title>
-      <link>https://www.opensourceagenda.com/projects/macos-gatekeeper-helper</link>
-      <description><![CDATA[简单的 macOS GateKeeper 脚本。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/macos-gatekeeper-helper</guid>
-      <pubDate>Sat, 06 Jul 2024 09:14:42 GMT</pubDate>
+      <title>Oxc节点</title>
+      <link>https://www.opensourceagenda.com/projects/oxc-node</link>
+      <description><![CDATA[基于 https://github.com/oxc-project 的快速且友好的 Node.js devtools]]></description>
+      <guid>https://www.opensourceagenda.com/projects/oxc-node</guid>
+      <pubDate>Sat, 06 Jul 2024 12:21:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
