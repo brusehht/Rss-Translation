@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 07 Jul 2024 01:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 03:15:49 GMT</lastBuildDate>
+    <item>
+      <title>版权建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dx4jyv/copyright_advice/</link>
+      <description><![CDATA[嘿， 我正在制作一个浏览器扩展，完全没有经验，我想我可以分享它，因为其他人可能需要它，嘿，也许有人可以改进我的烂代码。 但是，我正在从另一个使用 MIT 许可证的扩展中窃取大量代码。显然，我想正确地做事（即使他们实际上不可能发现），所以我想了解，当我包含版权内容时，我应该从原始内容中复制粘贴它，对吗？例如，版权所有者的姓名和日期应该与原始内容相同，我不应该在那里写上我的名字。    提交人    /u/SoulOuverture   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dx4jyv/copyright_advice/</guid>
+      <pubDate>Sun, 07 Jul 2024 01:05:50 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了 CatLock 来防止我的猫弄乱我的键盘</title>
       <link>https://www.reddit.com/r/opensource/comments/1dx1xaf/i_built_catlock_to_stop_my_cats_from_messing_with/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[比这个更大？在 reddit 之外，我的意思是，我有一个项目在脑海中（针对视障人士）    由   提交  /u/LeBlindGuy   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dw133m/is_there_a_community_bigger/</guid>
       <pubDate>Fri, 05 Jul 2024 15:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Trello 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dvz790/looking_for_trello_alternative/</link>
-      <description><![CDATA[嗨！我正在寻找一个个人使用的、Trello 替代品，开源的，不需要 Docker 来设置，并不是说我不知道​​如何使用 Docker，而是它只会减慢我的电脑速度，使其无法使用。我遇到了 FocalBoard，我必须说它非常好，也不需要 Docker，你只需下载它，单击它，就可以开始工作了。但 Focal board 的深色主题太丑了，想知道是否还有其他选择。我也想要一个路线图工具。我只是想结合开发人员/编码员需要的所有开源工具，这样我就不再需要费心了。提前谢谢了    提交人    /u/General-Carrot-4624   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dvz790/looking_for_trello_alternative/</guid>
-      <pubDate>Fri, 05 Jul 2024 14:23:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
