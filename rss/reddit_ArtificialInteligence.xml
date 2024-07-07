@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 06 Jul 2024 18:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:59:15 GMT</lastBuildDate>
+    <item>
+      <title>推荐用于创建大量自定义 GPT 的平台？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwywyg/recommended_platforms_for_creating_lots_of_custom/</link>
+      <description><![CDATA[我从 ChatGPT 的自定义 GPT 创建器中获得了很多实用性，但是我对供应商锁定有点担心，并且不喜欢在您停止付款时自定义 GPT 被撤下的事实。 是否有任何平台真正专注于自定义 GPT 创建并专为想要为各种目的创建大量 GPT 的用户和企业而设计？    提交人    /u/danielrosehill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwywyg/recommended_platforms_for_creating_lots_of_custom/</guid>
+      <pubDate>Sat, 06 Jul 2024 20:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要用新歌词替换现有歌曲的歌词</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwypz3/want_to_replace_an_existing_songs_lyrics_with_new/</link>
+      <description><![CDATA[我正在模仿一位朋友写的一首现有歌曲。我写了新歌词，我需要它们来适应旧歌词。 我的一些歌词可能需要稍微调整以适应韵律和音节，但大部分歌词都在那里。 有人可以推荐最好的人工智能来为我做这件事吗？    提交人    /u/CostlyDugout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwypz3/want_to_replace_an_existing_songs_lyrics_with_new/</guid>
+      <pubDate>Sat, 06 Jul 2024 20:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我知道这个问题很蠢，但我得从某个地方开始</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwxraj/i_know_this_is_a_dumb_question_but_gotta_start/</link>
+      <description><![CDATA[我注意到，所有以文本形式输入和输出的人工智能（例如聊天机器人）目前都没有能力区分事实和巧妙伪装的虚构，本质上它没有常识。  为什么会这样？难道没有人弄清楚吗？还是说可行？    提交人    /u/ferriematthew   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwxraj/i_know_this_is_a_dumb_question_but_gotta_start/</guid>
+      <pubDate>Sat, 06 Jul 2024 19:40:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成 ai 视频的最佳选项是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwx8oh/best_options_to_generate_ai_vídeos/</link>
+      <description><![CDATA[生成 AI 视频的最佳选项是什么？我想制作一朵花盛开的 ig reel 视频格式     提交人    /u/wheredacookiesat   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwx8oh/best_options_to_generate_ai_vídeos/</guid>
+      <pubDate>Sat, 06 Jul 2024 19:17:04 GMT</pubDate>
+    </item>
     <item>
       <title>需要 Deepfake/Faceswap 视频 API。有什么推荐吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwvicx/deepfakefaceswap_video_api_needed_any/</link>
@@ -55,20 +83,6 @@
       <pubDate>Sat, 06 Jul 2024 14:27:19 GMT</pubDate>
     </item>
     <item>
-      <title>创建库以将 58 种提示技术应用于您的提示。加入我吧？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwqh9g/creating_library_to_apply_58_prompting_techniques/</link>
-      <description><![CDATA[OpenAI、Microsoft 等在这篇论文中调查了 58 种提示技术： https://arxiv.org/pdf/2406.06608 我正在创建一个库来自动将这些技术应用于你的提示： https://github.com/sarthakrastogi/quality-prompts 例如，System2Attention 就是这样一种技术，它可以过滤回答用户查询所需的相关上下文。 只需在你的提示上调用 .system2attention() 就可以了。 类似地，在少量提示中，假设你有大量的示例输入和标签。 您所要做的就是调用 .few_shot() 方法，库将应用 kNN 进行搜索并仅添加最相关的少样本示例。 提示在运行时根据用户的消息动态定制。 让我们编写高质量的提示！ 如果您想为图书馆做出贡献，请提出 PR！ Colab 笔记本入门： https://colab.research.google.com/github/sarthakrastogi/quality-prompts/blob/main/examples/few_shot_prompt_usage.ipynb    由    /u/sarthakai  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwqh9g/creating_library_to_apply_58_prompting_techniques/</guid>
-      <pubDate>Sat, 06 Jul 2024 14:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ebook Writer GPT4（不受限制）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwnb4c/ebook_writer_gpt4_unrestricted/</link>
-      <description><![CDATA[  由    /u/Maybe-reality842  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwnb4c/ebook_writer_gpt4_unrestricted/</guid>
-      <pubDate>Sat, 06 Jul 2024 11:17:52 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能将来是否能够足够好，删除网络和暗网上的受版权保护的材料？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dwmvre/will_ai_be_good_enough_some_day_to_remove/</link>
       <description><![CDATA[这是一个可怕的想法（YouTube 上的 r.i.p 剪辑）但同时也非常令人兴奋（可能有助于抑制诸如色情报复之类的事情） 这是否可能，或者在短期内是否可能实现？    提交人    /u/emptyboxes20   [link] [评论]]]></description>
@@ -81,20 +95,6 @@
       <description><![CDATA[您不必担心在最近 OpenAI 系统遭到入侵时有人掌握了您的私人 ChatGPT 对话。尽管这次黑客攻击很可怕，但它似乎只是一个小问题。在此处阅读更多信息。    提交人    /u/farooqui45   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dwmtz2/openai_data_breach_shows_ai_companies_are_prime/</guid>
       <pubDate>Sat, 06 Jul 2024 10:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>就是这样：人工智能无人机是为了杀戮而开发的，纽约时报文章</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dw44dw/there_we_go_ai_drones_developed_to_kill_nytimes/</link>
-      <description><![CDATA[&quot;直到最近，人类才会驾驶四轴飞行器。现在不再如此。相反，在无人机锁定目标——巴本科先生之后，它会自行飞行，由使用机器摄像头跟踪他的软件引导。（..）如果无人机装有炸药，如果他的同事没有解除自动跟踪，巴本科先生就完蛋了。&quot; https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html?utm_campaign=likeshopme&amp;utm_content=ig-nytimes&amp;utm_medium=instagram&amp;utm_source=dash+hudson （我当然是支持乌克兰的，但我的帖子更多的是关于人工智能战争的当前进展） 我有点害怕看到这会把我们引向何方    由    /u/vogelvogelvogelvogel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dw44dw/there_we_go_ai_drones_developed_to_kill_nytimes/</guid>
-      <pubDate>Fri, 05 Jul 2024 17:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管受到美国限制，但英伟达今年仍将从中国 AI 芯片中获利 120 亿美元</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dw3xkt/nvidia_to_earn_12_billion_from_ai_chips_in_china/</link>
-      <description><![CDATA[尽管美国的出口管制阻碍了 Nvidia 在全球最大的半导体市场之一的业务，但 Nvidia 仍有望在今年在中国销售价值 120 亿美元的人工智能芯片https://theaiwired.com/nvidia-to-earn-12-billion-from-ai-chips-in-china-this-year-despite-us-restrictions/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dw3xkt/nvidia_to_earn_12_billion_from_ai_chips_in_china/</guid>
-      <pubDate>Fri, 05 Jul 2024 17:49:26 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
