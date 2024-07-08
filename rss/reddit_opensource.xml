@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 07 Jul 2024 21:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 00:57:35 GMT</lastBuildDate>
+    <item>
+      <title>[免费 API] 开源 PDF 填充器 🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dxu7rb/free_api_open_source_pdf_filler/</link>
+      <description><![CDATA[您好， 我们找不到一个好的免费替代方案来动态填充 PDF，因此我们构建了一个！介绍我们的开源 PDF 填充 API，供任何人在其项目中使用。 主要特点：  填充 PDF：通过 API 轻松动态填写 PDF 表单  如果您处理表单自动化或任何类型的动态 pdf 生成，则很有用  获取缓冲区：在缓冲区中接收已填充的 PDF，可供下载或进一步处理。 立即试用：直接在我们的网站文档上测试 API（https://filler.revesh.com/）  为什么使用我们的 API？  免费和开源：没有隐藏成本或订阅费。透明且开放的贡献。 开发人员友好：各种应用程序的简单集成，从自动化表单到更大的系统。  参与其中： 我们不断添加功能，并希望得到开发社区的支持。查看我们的 Github Repo 以做出贡献、分享反馈或建议新功能。    提交人    /u/nishanprime1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dxu7rb/free_api_open_source_pdf_filler/</guid>
+      <pubDate>Sun, 07 Jul 2024 23:29:52 GMT</pubDate>
+    </item>
     <item>
       <title>我使用 Ollama 制作了一个 CLI，可以根据文件内容重命名文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1dxp1cr/i_made_a_cli_with_ollama_to_rename_your_files_by/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在寻找一个类似的开源 UI 构建器来集成到我的产品中，我发现 PlasmicApp 似乎是一个不错的选择，但 UI 编辑器不是开源的，不能集成到我的平台中并进行定制，有没有可用的项目我可以探索，无论技术堆栈如何？    提交人    /u/auuauauuaua   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dwn00u/im_looking_for_ui_builder_open_source_alternative/</guid>
       <pubDate>Sat, 06 Jul 2024 10:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作专有应用程序的开源克隆可以吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dwk0jc/is_it_okay_to_make_an_open_source_clone_of_a/</link>
-      <description><![CDATA[例如，figma、notion、postman、raycast、dropover、tableplus 等的离线或自托管版本。 我想制作一个应用程序的开源克隆，但我的朋友说这是一个坏主意，会降低我的声誉，但我说实话不同意。 认真的人显然更喜欢合法公司而不是 github 上的某个随机人提供的付费版本，因为他们会得到支持，而且软件质量显然更好。 你们觉得呢？也许我不能复制 UI，所以我只复制功能？我不熟悉法律方面，显然也不熟悉道德方面，我只是想制作应用程序。    提交人    /u/No_Assistant1783   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dwk0jc/is_it_okay_to_make_an_open_source_clone_of_a/</guid>
-      <pubDate>Sat, 06 Jul 2024 07:20:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
