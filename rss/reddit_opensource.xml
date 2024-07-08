@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Jul 2024 09:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 12:24:17 GMT</lastBuildDate>
+    <item>
+      <title>“回到过去”项目正在寻找翻译人员，为即将发布的 1.5.0 做准备</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dy63n4/project_back_in_time_is_looking_for_translators/</link>
+      <description><![CDATA[大家好， 我是基于 rsync 的备份软件 Back In Time 的维护团队成员。 我们正在准备下一个版本，以便及时发布即将到来的 Ubuntu 版本。该项目提供了一个 GUI，翻译成 40 多种语言，但并非全部翻译完成。 这只是 GUI 中的字符串，大约 380 个。如果您能帮助该项目并提供翻译或用您自己的语言在我们的 Weblate 平台上审阅一些现有翻译，那就太好了。 在项目中，没有人获得报酬。没有公司支持该项目。甚至维护者和开发者都是志愿者。 请让我知道您是否希望在翻译人员名单中提及以及如何提及。是否要使用您的真实姓名、电子邮件或其他信息取决于您。我们确实有此文件列出翻译人员的贡献。例如，这些名称将在关于对话框中使用。 非常感谢。 Christian    提交人    /u/buhtz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dy63n4/project_back_in_time_is_looking_for_translators/</guid>
+      <pubDate>Mon, 08 Jul 2024 11:03:24 GMT</pubDate>
+    </item>
     <item>
       <title>Linus Torvalds 在 Google 上介绍了 git 的基础知识。</title>
       <link>https://www.reddit.com/r/opensource/comments/1dy25ik/linus_torvalds_presents_the_fundamentals_of_git/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>查看我已经开发了三年的开源应用程序‘原子-元素周期表’！</title>
       <link>https://www.reddit.com/r/opensource/comments/1dwx79w/check_out_my_opensource_app_atomic_periodic_table/</link>
-      <description><![CDATA[你好！ 三年前，我发布了我的应用程序“原子 - 周期表”，顾名思义，这是一个周期表应用程序，还具有包含不同物理数据的附加表，如同位素表、电离能表、公式表、核素表等！从一开始，它就是一个无广告的开源项目，可帮助您学习或工作！从一开始，该应用程序就是开源的，这有助于创建一个拥有大量社区投入的应用程序。 “原子 - 周期表”概述 · 无广告：我开发的所有应用程序都不包含，也不会包含任何广告或其他无用内容。因此，您可以轻松浏览周期表等，而不会受到干扰！相反，为了支持开发，PRO 版本提供了一些附加数据和表格。 · Material You design：该应用程序使用 Google 的 Material You design 并适应您的 android 设备的配色方案。我们始终致力于开发一款直观且易于使用的应用程序。 · 交互式表格：主表格有不同的选项，不仅可以显示元素名称，还可以显示电负性、原子量、元素组、电类型、泊松比、杨氏模量等数据。 · 元素信息：单击元素周期表中的任何元素都会将您发送到信息页面，其中包含所有 118 种元素的大量数据，包括原子性质、热力学性质、电磁性质、核性质、硬度性质、弹性性质等等。 · 收藏栏：轻松标记对您最重要的数据，并使其在信息页面中首先居中显示。 · 同位素页面：您还可以在同位素表页面中查看不同元素的同位素，该页面还会显示它们的半衰期和各自的质量因为它们的质子、中子和核子。 · 公式：包含物理、数学、化学等公式的页面 · pH 指示剂：概览不同指示剂在不同 pH 值下的颜色。 · 电离能表：在一个交互式表格中轻松找到不同元素的电离能。 · 电化学系列表：查找不同元素的电压 · 溶解度表：找出哪些化合物可以相互溶解。 · 溶解度表：找出哪些化合物可以相互溶解。 · 核素表：核素表（仍在开发中，功能不完整） · 词典：如果不知道某个术语的意思，只需打开应用程序内置的词典即可。 最近更新： 在过去的一年半中，该应用程序进行了 Material You 重新设计，以更好地匹配最新的 Android 版本并匹配您的手机颜色。数据添加包括核特性、热力学特性以及弹性特性。对于表格，我添加了泊松比表，并且提供了早期核素表。还有一个 PRO 版本，它添加了一些额外的数据，但应用程序的核心永远是免费的。 获取它 Play Store： https://play.google.com/store/apps/details?id=com.jlindemann.science Github： https://github.com/JLindemann42/Atomic-Periodic-Table.Android 主页： https://www.jlindemann.se/homepage/atomic    由    /u/JLindemann42  提交  [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 三年前，我发布了我的应用程序“原子 - 周期表”，顾名思义，这是一个周期表应用程序，还具有包含不同物理数据的附加表，如同位素表、电离能表、公式表、核素表等！从一开始，它就是一个无广告的开源项目，可帮助您学习或工作！从一开始，该应用程序就是开源的，这有助于创建一个拥有大量社区意见的应用程序。 “原子 - 周期表”概述 · 无广告：我开发的所有应用程序都不包含，也不会包含任何广告或其他无用内容。因此，您可以轻松浏览周期表等，而不会受到干扰！相反，为了支持开发，PRO 版本提供了一些附加数据和表格。 · Material You design：该应用程序使用 Google 的 Material You design 并适应您的 android 设备的配色方案。我们始终致力于开发一款直观且易于使用的应用程序。 · 交互式表格：主表格有不同的选项，不仅可以显示元素名称，还可以显示电负性、原子量、元素组、电类型、泊松比、杨氏模量等数据。 · 元素信息：单击元素周期表中的任何元素都会将您发送到信息页面，其中包含所有 118 种元素的大量数据，包括原子性质、热力学性质、电磁性质、核性质、硬度性质、弹性性质等等。 · 收藏栏：轻松标记对您最重要的数据，并使其在信息页面中首先居中显示。 · 同位素页面：您还可以在同位素表页面中查看不同元素的同位素，该页面还会显示它们的半衰期和各自的质量因为它们的质子、中子和核子。 · 公式：包含物理、数学、化学等公式的页面 · pH 指示剂：概览不同指示剂在不同 pH 值下的颜色。 · 电离能表：在一个交互式表格中轻松找到不同元素的电离能。 · 电化学系列表：查找不同元素的电压 · 溶解度表：找出哪些化合物可以相互溶解。 · 溶解度表：找出哪些化合物可以相互溶解。 · 核素表：核素表（仍在开发中，功能不完整） · 词典：如果不知道某个术语的意思，只需打开应用程序内置的词典即可。 最近更新： 在过去的一年半中，该应用程序进行了 Material You 重新设计，以更好地匹配最新的 Android 版本并匹配您的手机颜色。数据添加包括核特性、热力学特性以及弹性特性。对于表格，我添加了泊松比表，并且提供了早期核素表。还有一个 PRO 版本，它添加了一些额外的数据，但应用程序的核心永远是免费的。 获取它 Play Store： https://play.google.com/store/apps/details?id=com.jlindemann.science Github： https://github.com/JLindemann42/Atomic-Periodic-Table.Android 主页： https://www.jlindemann.se/homepage/atomic    由    /u/JLindemann42  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dwx79w/check_out_my_opensource_app_atomic_periodic_table/</guid>
       <pubDate>Sat, 06 Jul 2024 19:15:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[因此，我从 SourceForge 下载了 WinEXP，它里面有一个木马/Xworm。我发布了一条评论，他们在 2 天后删除了这条评论。现在他们不允许对该软件发表任何评论。 有问题的软件：https://sourceforge.net/projects/win-exp/ 以及每次重启 PC 时启动的木马的屏幕截图： https://imgur.com/a/ttwLg9X 还有另一份来自该木马的报告： https://any.run/report/0a0a6608a80b982fc1f0897b89c9ffa58ba58e3c2d1c200155e47c495b0c6150/a1aa4835-d4cb-4dbd-8724-401176d91005 SourceForge 的这个行为非常可疑，他们允许木马病毒他们的网站，甚至删除了对它的评论..    提交人    /u/warcry16   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dwrosj/do_not_download_stuff_from_sourceforge/</guid>
       <pubDate>Sat, 06 Jul 2024 15:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>python/fastapi 的数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dwpg8n/database_for_pythonfastapi/</link>
-      <description><![CDATA[嗨！我正在开发一个交易终端，供个人使用（在本地主机上），因此通常只有 1 个用户会使用它，我想设置一个数据库来存储 API 密钥、交易/订单历史记录、烛台数据历史记录等内容。（因此不需要从需要速度的 Db 查询任何内容），实时价格将从 API 中获取并直接绘制在图表上。有没有一个开源数据库可以轻松与我拥有的 fastapi 后端一起设置？我正在寻找一个简单的数据库，它也可以通过漂亮的 UI 进行可视化。提前致谢    提交人    /u/General-Carrot-4624   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dwpg8n/database_for_pythonfastapi/</guid>
-      <pubDate>Sat, 06 Jul 2024 13:20:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
