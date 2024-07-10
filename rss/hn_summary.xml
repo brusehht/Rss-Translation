@@ -4,124 +4,99 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 12:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 14:53:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 当前的人工智能炒作正在形成一个岌岌可危的市场泡沫，让人想起互联网泡沫时期 [...]</title>
-      <link>https://t.me/hn_summary/98949</link>
-      <description><![CDATA[人工智能创造了一个“假装直到成功”的泡沫，最终可能导致灾难
-MacroStrategy Partnership 创始合伙人 James Ferguson 警告称，当前的人工智能炒作正在创造一个岌岌可危的市场泡沫，让人想起互联网时代。投资者们兴高采烈，但 Ferguson 认为，人工智能未经证实的可靠性和高能耗可能导致灾难性的后果。他指出，人工智能“幻觉”事实的倾向及其能耗可能会限制其实际应用。Ferguson 将人工智能与互联网泡沫进行了类比，指出 Nvidia 等科技股被严重高估，与当时的思科和英特尔类似。尽管存在风险，他仍然认为美国小型股目前被低估，具有潜在价值。]]></description>
-      <guid>https://t.me/hn_summary/98949</guid>
-      <pubDate>Wed, 10 Jul 2024 12:05:03 GMT</pubDate>
+      <title>[媒体] 推出“宠物”，一款离线个人开支追踪器，旨在帮助您管理您的[...]</title>
+      <link>https://t.me/hn_summary/98963</link>
+      <description><![CDATA[显示 HN：pet：离线个人开支追踪器
+介绍“pet”，这是一款离线个人开支追踪器，旨在帮助您高效管理财务。这款轻量级应用（仅约 2MB）通过 OpenGL 使用 GPU 加速，并且是跨平台的，在 Windows 和 Linux 上都经过测试。它是开源的，永远免费，支持小数点货币，并提供带有描述性错误消息的基本 CRUD 操作。
+
+要构建“pet”，您需要一个 C 编译器和 Meson。从 Codeberg 克隆存储库，设置构建环境，然后编译应用。 “pet” 背后的动机源于作者自己向成年的过渡以及对更好的财务管理工具的需求，尤其是针对年轻人。
+
+感谢各种库的贡献者，如 SQLite3、Nuklear、GLFW、glad、MPack 等。特别感谢 Dominic Szablewski 提供的 qoi、Michael Magu 提供的应用程序图标以及 Google 提供的 NotoSans 字体。
+
+“pet”这个名字代表个人费用跟踪器，该软件是根据宽松的 zlib 许可证授权的。]]></description>
+      <guid>https://t.me/hn_summary/98963</guid>
+      <pubDate>Wed, 10 Jul 2024 14:53:11 GMT</pubDate>
     </item>
     <item>
-      <title>标题：可信社区版</title>
-      <link>https://t.me/hn_summary/98948</link>
-      <description><![CDATA[Plausible 社区版
-标题：Plausible 社区版
-
-网站：plausible.io
-
-摘要：
-
-我们很高兴推出 Plausible 社区版 (CE)，这是我们网络分析工具的“免费”自托管 AGPL 许可版本。此举是继我们在 2020 年从 MIT 许可证转换为 AGPL 许可证之后采取的，以防止公司在没有回馈的情况下利用我们的代码。尽管 AGPL 有诸多好处，但它并未完全保护我们免受将我们的开源项目商业化的企业的滥用。为了解决这个问题，我们将自托管版本重命名为 Plausible CE，使用新徽标进行区分，并排除某些企业功能。这些变化旨在保护我们的品牌并确保我们项目的可持续性。感谢您的支持！
-
-争议：开源社区中的一些人可能会认为切换到 AGPL 和从 Plausible CE 中排除某些功能是一种限制。
-
-独特/巧妙：通过品牌和功能独占性区分 Plausible CE 和托管版本是一种战略举措，旨在保护项目同时保持开源。]]></description>
-      <guid>https://t.me/hn_summary/98948</guid>
-      <pubDate>Wed, 10 Jul 2024 12:04:58 GMT</pubDate>
+      <title>[媒体] 微软推出了 VALL-E 2，这是一款先进的 AI 语音生成器，可以实现人类的 [...]</title>
+      <link>https://t.me/hn_summary/98962</link>
+      <description><![CDATA[AI 语音生成器“达到人类水平”——但发布太危险了
+微软推出了 VALL-E 2，这是一款先进的 AI 语音生成器，可在文本转语音合成中达到人类水平。据其创造者称，VALL-E 2 只需几秒钟的音频就能模仿人类的声音，产生的语音与真实人类的语音难以区分。该 AI 使用“重复感知采样”和“分组代码建模”来增强语音流畅性和效率。尽管 VALL-E 2 具有开创性的功能，但微软决定不向公众发布，因为存在潜在的滥用风险，例如语音欺骗和冒充。这一决定与人们对深度伪造技术的广泛担忧相一致。研究人员表示，虽然 VALL-E 2 仍然是一个研究项目，但只要有道德保障，它未来可以在教育、娱乐和无障碍领域得到应用。]]></description>
+      <guid>https://t.me/hn_summary/98962</guid>
+      <pubDate>Wed, 10 Jul 2024 14:53:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 华盛顿（美联社）——美国</title>
-      <link>https://t.me/hn_summary/98947</link>
-      <description><![CDATA[美国挫败俄罗斯政府支持的依赖人工智能的虚假宣传活动
-华盛顿（美联社）——美国司法部挫败了克里姆林宫支持的俄罗斯虚假宣传活动，该活动利用人工智能在网上传播虚假信息。这项行动是持续在美国制造不和的努力的一部分，涉及虚假的社交媒体资料冒充真实的美国人，以推进俄罗斯政府的目标，包括有关乌克兰战争的虚假信息。该计划于 2022 年发起，是在俄罗斯国家资助的媒体组织 RT 的一名高级编辑的帮助下制定的。该活动由一名 FSB 官员领导，涉及一个私人情报组织通过虚假账户网络传播虚假信息。此次干扰凸显了人们对人工智能可能对选举和外国影响力运动产生影响的担忧，让人想起 2016 年总统选举干预事件。联邦调查局局长克里斯托弗·雷强调，这是首次破坏俄罗斯资助的人工智能增强型机器人农场。司法部查封了域名并搜索了众多账户，揭露了该软件在多个国家传播虚假信息的用途。值得注意的是，这款名为 Meliorator 的软件最初仅在 X（以前的 Twitter）上运行，但可能会扩展到其他平台。]]></description>
-      <guid>https://t.me/hn_summary/98947</guid>
-      <pubDate>Wed, 10 Jul 2024 12:03:52 GMT</pubDate>
+      <title>[媒体] 香港中文大学的研究人员发现了一条重要的线索 [...]</title>
+      <link>https://t.me/hn_summary/98961</link>
+      <description><![CDATA[自闭症与特定肠道细菌有关，有望实现快速、准确的诊断
+香港中文大学的研究人员发现自闭症谱系障碍 (ASD) 与肠道细菌和非细菌微生物的变化之间存在显著联系。通过分析 1,627 名儿童的粪便样本，他们发现与神经正常儿童相比，患有 ASD 的儿童的古细菌、细菌和病毒多样性明显下降。这项研究的独特之处在于其综合方法，不仅检查细菌，还检查古细菌、真菌和病毒。研究人员开发了一个 31 个标记的微生物面板，当使用机器学习模型进行测试时，它可以准确预测不同人群的 ASD。这项开创性的研究可能导致开发快速准确的 ASD 诊断测试。需要进一步研究探索遗传标记和微生物组之间的关系，以提高诊断的准确性。该研究发表在自然微生物学上。]]></description>
+      <guid>https://t.me/hn_summary/98961</guid>
+      <pubDate>Wed, 10 Jul 2024 14:46:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：中国大学毕业生对大城市生活感到失望，选择务农</title>
-      <link>https://t.me/hn_summary/98946</link>
-      <description><![CDATA[对大城市生活感到失望，中国大学毕业生开始务农
-标题：对大城市生活感到失望，中国大学毕业生开始务农
-
-网站：www.latimes.com
-
-梁宇在繁华的广州长大，从未想象过自己会成为一名农民。拥有广播电视学位的她曾梦想从事电影或广告行业。然而，她在大学期间种植西红柿的实验表明，西红柿比商店购买的西红柿更甜、更令人满意，这激发了她对农业的热情。梁和男友在上海附近租了一块地，成为中国毕业生中日益兴起的“新农民”潮流的一部分。这一转变是由城市就业前景的恶化、政府对乡村振兴的支持以及对更慢、更充实的生活方式的渴望所推动的。尽管工作辛苦、工作时间长，梁还是在新职业中找到了快乐和目标，并与网上成千上万的粉丝分享了她的旅程。这一运动反映了人们对传统职业道路的普遍失望，以及对回归更简单、更有意义的工作的渴望。]]></description>
-      <guid>https://t.me/hn_summary/98946</guid>
-      <pubDate>Wed, 10 Jul 2024 12:00:45 GMT</pubDate>
+      <title>[媒体] 推出一款新的 Chrome 扩展程序，它可以通过显示 [...] 来增强您的 Lichess 体验。</title>
+      <link>https://t.me/hn_summary/98960</link>
+      <description><![CDATA[显示 HN：每个 Lichess 棋盘方格上的坐标（Chrome 扩展程序）
+推出一款新的 Chrome 扩展程序，通过显示每个棋盘方格上的坐标来增强您的 Lichess 体验。此工具旨在帮助玩家（尤其是初学者）轻松识别和记住棋盘上的位置。通过将坐标直接叠加到方格上，它简化了学习过程并提高了游戏效率。对于那些希望在 Lichess 上磨练国际象棋技能的人来说，此扩展程序是一个简单而巧妙的解决方案。这里没有争议，只是一个实用且创新的国际象棋爱好者工具！]]></description>
+      <guid>https://t.me/hn_summary/98960</guid>
+      <pubDate>Wed, 10 Jul 2024 14:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我很怀念旧的 IndieHackers 网站，所以我决定在 www.skool.com 上创建一个替代品。</title>
-      <link>https://t.me/hn_summary/98945</link>
-      <description><![CDATA[我怀念旧的 IndieHackers 网站，所以我创建了一个替代方案
-我怀念旧的 IndieHackers 网站，所以我决定在 www.skool.com 上创建一个替代方案。这个新平台是 Indie Hackers 讨论关键主题（例如构建策略、营销和发布流程）的开放空间。它也是与其他独立制造商会面和联系的地方。通过营造协作环境，我们旨在重振我们许多人在原始 IndieHackers 网站上珍视的精神和社区氛围。加入我们，在创业旅程中分享见解、相互支持、共同成长。]]></description>
-      <guid>https://t.me/hn_summary/98945</guid>
-      <pubDate>Wed, 10 Jul 2024 11:47:24 GMT</pubDate>
+      <title>[媒体] 当然，我很乐意提供帮助。</title>
+      <link>https://t.me/hn_summary/98959</link>
+      <description><![CDATA[物理神经网络的训练
+当然，我很乐意提供帮助。请提供您想要总结的内容。]]></description>
+      <guid>https://t.me/hn_summary/98959</guid>
+      <pubDate>Wed, 10 Jul 2024 14:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>网站：bastion.tech</title>
-      <link>https://t.me/hn_summary/98944</link>
-      <description><![CDATA[掌握电子邮件安全：深入了解 SPF、DKIM 和 DMARC
-标题：掌握电子邮件安全：深入了解 SPF、DKIM 和 DMARC 
-网站：bastion.tech
-
-SPF（发件人策略框架）于 2014 年标准化，允许域所有者创建经过验证的发件人的公共列表，从而帮助减少垃圾邮件。此列表有助于接收服务器验证电子邮件并限制身份盗用。 DKIM（域名密钥识别邮件）于 2007 年标准化，使用加密签名来确保电子邮件的真实性和完整性，就像数字安全封条一样。但是，它仅验证发送域，而不验证单个发件人。DMARC（基于域的消息认证、报告和一致性）于 2015 年标准化，通过根据其结果实施政策来减少垃圾邮件和网络钓鱼，是对 SPF 和 DKIM 的补充。正确配置这些协议对于电子邮件安全和可传递性至关重要。Bastion 提供针对现代电子邮件攻击的全面保护，并提供处理可疑电子邮件的指导，包括在 Signal Spam 和 PHAROS 等平台上报告这些电子邮件。]]></description>
-      <guid>https://t.me/hn_summary/98944</guid>
-      <pubDate>Wed, 10 Jul 2024 11:44:19 GMT</pubDate>
+      <title>走向幂等重建？</title>
+      <link>https://t.me/hn_summary/98958</link>
+      <description><![CDATA[走向幂等重建？
+在我的最新博客文章中，我深入探讨了在 Trisquel 中实现二进制包幂等重建的复杂性，这些包主要来自 Ubuntu 和 Debian 源。尽管 reproducible-builds.org 在跟踪可重复性错误方面做出了令人印象深刻的努力，但他们的重建通常与官方包不匹配，这最初让我感到惊讶。这种差异促使我创建了一个新项目 debdistrebuild，旨在重建单个发行版中的包以分析差异。早期结果显示，相同构建的包百分比很低，尤其是对于 Ubuntu。主要问题源于不同的构建路径、嵌入的版本号以及构建依赖项的差异。实现更高的可重复性可能需要使用与原始构建完全相同的构建依赖项版本，但这也带来了自身的挑战。最终，我认为争取 100% 幂等重建是一个值得追求的目标，与 reproducible-builds.org 和 bootstrappable.org 的努力相得益彰。祝您黑客愉快！]]></description>
+      <guid>https://t.me/hn_summary/98958</guid>
+      <pubDate>Wed, 10 Jul 2024 14:21:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Show HN：FranzAI – 一个位于电子邮件地址背后的人工智能电子邮件助手</title>
-      <link>https://t.me/hn_summary/98943</link>
-      <description><![CDATA[显示 HN：FranzAI – 一个位于电子邮件地址后面的 AI 电子邮件助手
-标题：显示 HN：FranzAI – 一个位于电子邮件地址后面的 AI 电子邮件助手
-
-网站：gpt.franzai.com
-
-摘要：
-
-欢迎使用 FranzAI，这是一款由位于维也纳的 Franz Enzenhofer 开发的免费 AI 电子邮件助手。作为最小可行产品 (MVP)，FranzAI 提供的功能有限，并且其服务条款和隐私政策可能会发生变化。用户必须提供准确的信息并遵守法律。该服务利用 ChatGPT API、Cloudflare Workers 和 Mailgun，可随时停止使用。数据用于提醒和管理任务，以未加密的形式保存，使用后删除。用户对其数据拥有访问、更正和删除等权利。争议受奥地利法律管辖。如有疑问，请联系电子邮件 protected。
-
-争议点：
-- 该服务“按原样”提供，不提供任何担保，数据以未加密的形式保存，这可能会引起隐私问题。
-
-独特/巧妙之处：
-- 该服务不使用 cookie，并在发送提醒后删除电子邮件内容。]]></description>
-      <guid>https://t.me/hn_summary/98943</guid>
-      <pubDate>Wed, 10 Jul 2024 10:40:49 GMT</pubDate>
+      <title>[媒体] 法国国家科研中心的行星科学家团队与法国大学天文学家合作 [...]</title>
+      <link>https://t.me/hn_summary/98957</link>
+      <description><![CDATA[詹姆斯·韦伯太空望远镜首次提供海洋系外行星存在的证据
+CNRS行星科学家团队与蒙特利尔大学的天文学家合作，首次提供了证据表明，温带系外行星LHS 1140b可能是一个海洋世界。LHS 1140b位于鲸鱼座，距离地球48光年，已被各种太空望远镜和仪器广泛观测。这些观测表明这是一颗低密度行星，暗示其有厚厚的氢和氦包层或大量的水存在。然而，詹姆斯·韦伯太空望远镜（JWST）的最新数据显示，这颗行星不再有氢和氦包层，这表明其低密度是由于大量的水，很可能形成海洋。这项突破性的发现将发表在《天体物理学杂志快报》上，标志着詹姆斯·韦伯太空望远镜在研究潜在宜居行星方面首次取得了有希望的发现。未来的观测旨在进一步描述该行星的大气层。]]></description>
+      <guid>https://t.me/hn_summary/98957</guid>
+      <pubDate>Wed, 10 Jul 2024 14:17:30 GMT</pubDate>
     </item>
     <item>
-      <title>微软已决定放弃其在 OpenAI 董事会的观察员席位，此举标志着 [...]</title>
-      <link>https://t.me/hn_summary/98942</link>
-      <description><![CDATA[微软放弃在 OpenAI 董事会的观察员席位，苹果也不太可能加入
+      <title>问 HN：是否有人因为无视公职规定而被解雇？</title>
+      <link>https://t.me/hn_summary/98956</link>
+      <description><![CDATA[问 HN：有人因为无视办公室规定而被解雇吗？
+标题：问 HN：有人因为无视办公室规定而被解雇吗？
+网站：news.ycombinator.com
 
-微软已决定放弃其在 OpenAI 董事会的观察员席位，此举标志着其与人工智能研究组织的合作发生了变化。尽管微软对 OpenAI 进行了重大投资，但他们将不再拥有直接监督权。此外，苹果也不太可能加入董事会，与 OpenAI 的治理保持距离。这一发展值得注意，因为它引发了人们对大型科技公司和独立人工智能研究实体之间未来动态的质疑。鉴于微软与 OpenAI 之间深厚的财务关系和对人工智能发展的既得利益，微软的决定可能会被视为有争议的。]]></description>
-      <guid>https://t.me/hn_summary/98942</guid>
-      <pubDate>Wed, 10 Jul 2024 10:10:36 GMT</pubDate>
+帖子询问是否有人因为不遵守办公室规定而被解雇，特别是在多伦多银行，这些银行要求员工每周在办公室工作 2-4 天。它指出，没有银行要求员工每周在办公室工作 5 天。作者提到听说过合规率低，但缺乏具体数据来支持这一说法。
+
+争议：这个话题本身就存在争议，因为它涉及到雇主的要求和员工对远程工作的偏好之间的矛盾。
+
+令人惊讶/独特：这篇文章强调，尽管有规定，但完全合规率似乎很低，这可能表明员工之间存在更广泛的抵制趋势。]]></description>
+      <guid>https://t.me/hn_summary/98956</guid>
+      <pubDate>Wed, 10 Jul 2024 13:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 针对 GitHub Copilot、微软和 OpenAI 的诉讼被驳回。</title>
-      <link>https://t.me/hn_summary/98941</link>
-      <description><![CDATA[法官驳回针对 GitHub Copilot 编码助手的诉讼
-针对 GitHub Copilot、微软和 OpenAI 的诉讼已被驳回。该诉讼由律师兼开源程序员 Matthew Butterick 和 Joseph Saveri 律师事务所共同提起，声称 Copilot 对开源代码的使用侵犯了知识产权。该律师事务所辩称，微软错误地将开源代码视为公共领域材料。GitHub Copilot 是一种实时建议代码片段的工具，经过数十亿行代码的训练，这一做法引发了自由软件基金会的争议。他们批评 Copilot 在没有适当确认或遵守的情况下使用自由许可的软件。]]></description>
-      <guid>https://t.me/hn_summary/98941</guid>
-      <pubDate>Wed, 10 Jul 2024 10:08:33 GMT</pubDate>
+      <title>AMD 宣布以 6.65 亿美元收购芬兰初创公司 Silo AI，这是一项战略举措 [...]</title>
+      <link>https://t.me/hn_summary/98955</link>
+      <description><![CDATA[AMD 斥资 6.65 亿美元收购芬兰初创公司 Silo AI，与 Nvidia 展开竞争
+AMD 宣布斥资 6.65 亿美元收购芬兰初创公司 Silo AI，此举旨在增强其在人工智能领域与 Nvidia 的竞争优势。此次收购彰显了 AMD 致力于扩展其 AI 能力并利用 Silo AI 在机器学习和数据分析方面的专业知识。这笔交易被视为 AMD 迈出的重要一步，因为它正寻求缩小与 AI 和 GPU 市场主导者 Nvidia 的差距。此次收购凸显了 AI 技术在半导体行业日益增长的重要性，以及 AMD 巩固其地位的积极战略。]]></description>
+      <guid>https://t.me/hn_summary/98955</guid>
+      <pubDate>Wed, 10 Jul 2024 13:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到铁路信号世界！</title>
-      <link>https://t.me/hn_summary/98940</link>
-      <description><![CDATA[SimSig：铁路信号模拟
-欢迎来到铁路信号世界！SimSig 将信号箱带入您的家用电脑，让您体验管理当今（以及过去的部分）铁路的乐趣和挫折。有没有想过为什么火车不能绕过信号故障重新规划路线？通过 SimSig，您将了解其中的复杂性。
-
-SimSig 让您扮演信号员的角色，根据英国的 IECC 和 Westcad 图形操作信号屏幕。您可以管理信号和开关，以确保火车准时到达目的地。模拟涵盖了各个地区，包括英国大部分地区、美国小部分地区和澳大利亚的几个地区，每个地区都有独特的挑战和技能水平。
-
-主要功能包括真实复制英国 IECC 运营、全面模拟信号设备以及注重质量和真实感。SimSig 被世界各地的专业人士使用，并提供免费的演示下载。它在 Windows 8.1 和 10 上运行，也可以通过 Wine 和 Crossover 等模拟器在 Linux 和 Mac 上使用，但这并不能保证。
-
-模拟的价格不一，有几种免费选项可供选择。多人模式允许通过互联网或家庭局域网进行协作游戏，许多模拟可以“链接”以形成更大的区域。用户可以通过编写时间表做出贡献，但不能自己创建模拟。
-
-例如，利物浦街模拟展示了繁忙的早高峰，并提供了自动路线设置 (ARS) 和详细的信号信息。下载系统文件开始使用 SimSig 深入了解复杂的铁路信号世界！]]></description>
-      <guid>https://t.me/hn_summary/98940</guid>
-      <pubDate>Wed, 10 Jul 2024 09:44:19 GMT</pubDate>
+      <title>[媒体] 短短 24 小时内，俄罗斯就发布了一条关于乌克兰第一夫人 Olena Z 的虚假信息 [...]</title>
+      <link>https://t.me/hn_summary/98954</link>
+      <description><![CDATA[俄罗斯人工智能垃圾邮件农场的虚假信息如何登上谷歌搜索榜首
+在短短 24 小时内，一则关于乌克兰第一夫人奥列娜·泽连斯卡用美国援助资金购买布加迪的俄罗斯虚假信息就成为谷歌搜索结果榜首，并成为 X 上的热门话题。该报道来自鲜为人知的法国网站 Vérité Cachée，错误地声称泽连斯卡在巴黎之行期间订购了一辆价值 480 万美元的超级跑车。网络安全公司 Recorded Future 称，Vérité Cachée 是与俄罗斯宣传有关的人工智能驱动网站网络的一部分。尽管布加迪揭穿了这一消息，但它通过亲克里姆林宫的媒体和社交媒体账户迅速传播，包括亲俄巨魔杰克逊·辛克尔。此次事件凸显了虚假信息在网上传播的容易程度，破坏了公众信任。谷歌和微软未对此事发表评论。]]></description>
+      <guid>https://t.me/hn_summary/98954</guid>
+      <pubDate>Wed, 10 Jul 2024 13:35:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
