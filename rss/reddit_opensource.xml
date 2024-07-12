@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Jul 2024 15:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:17:58 GMT</lastBuildDate>
+    <item>
+      <title>protoconf：基于protobuf和Starlark的配置即代码框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e1lr52/protoconf_configuration_as_code_framework_based/</link>
+      <description><![CDATA[       由    /u/heraldev  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e1lr52/protoconf_configuration_as_code_framework_based/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:20:51 GMT</pubDate>
+    </item>
     <item>
       <title>AI Artifacts - Anthropic 的 Artifacts UI 的开源模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1e1jrfc/ai_artifacts_opensource_template_of_anthropics/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我需要扩展我在 Spring Boot 方面的专业知识。有人有我可以贡献的项目吗？这对我来说是一个学习和展示技能的好机会。    提交人    /u/Afaqrehman98   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e0mjen/spring_boot_open_source_project/</guid>
       <pubDate>Thu, 11 Jul 2024 11:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>strokey - 使用 midi 键盘控制你的电脑</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e0l1ed/strokey_control_your_pc_with_your_midi_keyboard/</link>
-      <description><![CDATA[      大家好  我使用 JUCE 在 C++ 中创建了一个应用程序，它允许用户使用 MIDI 乐器或接口触发 PC 上的操作。只有我用过这个应用程序，我想与所有觉得它有用的人分享。我在我的 Akai MPK mini Mk2 上使用了它，它运行良好。此外，我很高兴听到你对它的想法、你发现的错误、你做过的测试，所有这些。联系我。 希望你喜欢它，并觉得它和我一样有用。    提交人    /u/EdEquinox   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e0l1ed/strokey_control_your_pc_with_your_midi_keyboard/</guid>
-      <pubDate>Thu, 11 Jul 2024 09:48:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
