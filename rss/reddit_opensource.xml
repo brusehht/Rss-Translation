@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Jul 2024 12:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 15:13:59 GMT</lastBuildDate>
+    <item>
+      <title>AI Artifacts - Anthropic 的 Artifacts UI 的开源模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e1jrfc/ai_artifacts_opensource_template_of_anthropics/</link>
+      <description><![CDATA[        由    /u/mlejva 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e1jrfc/ai_artifacts_opensource_template_of_anthropics/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:59:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Chrome 扩展程序来提高 Jira 描述差异的可读性</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e1gdv6/i_made_a_chrome_extension_to_improve_jira/</link>
+      <description><![CDATA[大家好， 作为一个在 Jira 上花费大量时间的人（不幸的是），我总是发现问题描述的默认差异视图难以阅读。因此，我决定创建一个 Chrome 扩展程序来解决这个问题。 事实上，Atlassian 一直在争取在 Jira 中实现此功能，至今已有 14 年多了。是的，您没看错 - 14 年了... 当我们仍在等待官方解决方案时，我想创建一些东西来提供帮助。 该扩展程序称为“Jira Diff Highlighter”，它将标准 Jira 差异转换为并排比较并突出显示更改。以下是一些主要功能：  通过并排视图增强可读性 使用颜色突出显示添加、删除和修改 高效显示较大更改而不会使视图混乱 在增强和原始差异视图之间轻松切换 跨多个 Jira 选项卡工作  以下是使用扩展程序与不使用扩展程序时描述更新的示例 ![img](rch755dnw2cd1 &quot;使用 Jira Diff Highlighter&quot;) ![img](mspiqb8kw2cd1 &quot;不使用 Jira Diff Highlighter&quot;) 此扩展程序是开源的，因此如果您有兴趣，可以在 GitHub repo 上查看代码、做出贡献或报告问题：https://github.com/richiehowelll/jira-diff 您可以在 Chrome 网上应用店中通过搜索“Jira Diff Highlighter”或点击以下链接找到它：https://chromewebstore.google.com/detail/jira-diff-highlighter/imlebnoogjdcbkaaighofkpfciamehni    提交人    /u/rawmeniscus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e1gdv6/i_made_a_chrome_extension_to_improve_jira/</guid>
+      <pubDate>Fri, 12 Jul 2024 12:25:57 GMT</pubDate>
+    </item>
     <item>
       <title>目前是高中生。如何开始。</title>
       <link>https://www.reddit.com/r/opensource/comments/1e1fqpo/currently_a_high_schooler_how_to_get_started/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[      大家好  我使用 JUCE 在 C++ 中创建了一个应用程序，它允许用户使用 MIDI 乐器或接口触发 PC 上的操作。只有我用过这个应用程序，我想与所有觉得它有用的人分享。我在我的 Akai MPK mini Mk2 上使用了它，它运行良好。此外，我很高兴听到你对它的想法、你发现的错误、你做过的测试，所有这些。联系我。 希望你喜欢它，并觉得它和我一样有用。    提交人    /u/EdEquinox   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e0l1ed/strokey_control_your_pc_with_your_midi_keyboard/</guid>
       <pubDate>Thu, 11 Jul 2024 09:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种开源工具最接近模仿《星际迷航》中“船长日志”界面的功能？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e0gvff/what_open_source_tool_gets_the_closest_to/</link>
-      <description><![CDATA[更多关注功能而非美观，但美观也很酷。谷歌搜索未找到任何相关内容。    由   提交  /u/makeasnek   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e0gvff/what_open_source_tool_gets_the_closest_to/</guid>
-      <pubDate>Thu, 11 Jul 2024 05:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开始用 C 语言开发一个新的开源 ASN.1 编译器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e0d92d/i_start_working_on_a_new_open_source_asn1/</link>
-      <description><![CDATA[我刚刚开始研究一个新的开源 C 语言 ASN.1 编译器，一切才刚刚开始。ASN.1 编译器是一个庞大的课题，实现起来也很复杂，但它在电信领域非常有用，许多国际标准都要求 ASN.1 才能工作。 网站：https://fishasn1.pixelegg.me/ Github：https://github.com/fishasn1/fishasn1    提交人    /u/orklann   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e0d92d/i_start_working_on_a_new_open_source_asn1/</guid>
-      <pubDate>Thu, 11 Jul 2024 01:47:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
