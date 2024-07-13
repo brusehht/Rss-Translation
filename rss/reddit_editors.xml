@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 13 Jul 2024 09:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 12:21:18 GMT</lastBuildDate>
     <item>
       <title>从剪辑助理到后期制作人，一路走来困难重重</title>
       <link>https://www.reddit.com/r/editors/comments/1e25p5c/struggling_moving_from_edit_assistant_to_post/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>处理无人机镜头的正确工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1e1p2yv/proper_workflow_for_handling_drone_footage/</link>
-      <description><![CDATA[嗨， 我从未完全了解过这个过程，因此寻求有关处理无人机镜头的正确工作流程的指导。我有几个无人机剪辑，它们是使用 H.264 编解码器在 UHD 下拍摄的主剪辑，带有 mp4 包装器。显然，这些剪辑不太适合编辑，所以我计划将它们转码为高清的专业分辨率，并使用该文件进行编辑。我的问题是 - 当我进入一致性过程并想要重新链接回原始文件时，这些是 H.264/.mp4 是否奇怪？我在一致性过程中遇到了 Premiere Pro 项目管理器无法合并到驱动器的问题，因为时间线中有 H.264 编解码器。最好在中间编解码器的原始宽高比下为所有无人机镜头制作新的母版，然后从中创建代理，然后重新链接回专业分辨率文件？所以基本上再也不会回到这个 h.264 文件了。或者用它们作为主文件也可以吗？ 老实说，我很好奇为什么这些文件会以这种方式输出。我不明白为什么 h.264 文件会是主文件？ 谢谢！    提交人    /u/Thurstonhearts   [link] [评论]]]></description>
+      <description><![CDATA[嗨， 我从未完全了解过这个过程，因此寻求有关处理无人机镜头的正确工作流程的指导。我有几个无人机剪辑，它们是使用 H.264 编解码器在 UHD 下拍摄的主剪辑，带有 mp4 包装器。显然，这些剪辑不太适合编辑，所以我计划将它们转码为高清的专业分辨率，并使用该文件进行编辑。我的问题是 - 当我进入一致性过程并想要重新链接回原始文件时，这些是 H.264/.mp4 是否奇怪？我在一致性过程中遇到了 Premiere Pro 项目管理器无法合并到驱动器的问题，因为时间线中有 H.264 编解码器。最好在中间编解码器的原始宽高比下为所有无人机镜头制作新的母版，然后从中创建代理，然后重新链接回专业分辨率文件？所以基本上再也不会回到这个 h.264 文件了。或者用它们作为主文件也可以吗？ 老实说，我很奇怪为什么这些文件会这样输出。我不明白为什么 h.264 文件会是主文件？ 谢谢！    提交人    /u/Thurstonhearts   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1e1p2yv/proper_workflow_for_handling_drone_footage/</guid>
       <pubDate>Fri, 12 Jul 2024 18:38:55 GMT</pubDate>
     </item>
