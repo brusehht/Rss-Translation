@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 03:17:33 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Tue, 16 Jul 2024 09:14:48 GMT</lastBuildDate>
     <item>
-      <title>帮助我避免 XY 陷阱 - 寻求有关如何重新格式化来自外部源的数据的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e4dkd8/help_me_avoid_the_xy_trap_looking_for_suggestions/</link>
-      <description><![CDATA[背景：美国陆军工程兵团公布了预计水力发电的时间表。有一个应用程序，但它只显示我想通过打开网页（即应用程序打开网络浏览器页面）获取的实际数据。在手机上阅读非常困难。我通常在决定何时何地将皮划艇或桨板放入水中时查看天气预报，因此在移动设备上轻松阅读是我想要解决的关键问题。 目标：我想要做的是能够获取这些数据并以适合移动设备的方式对其进行格式化。我想要一个网页书签或一个非常简单的应用程序，可以用来快速获取我想要的数据。 第一个想法：  使用类似 Beautiful Soup 的东西从陆军工程兵团的网站获取数据， 使用 BS 和其他一些 Python 创建一个精简的网页，并附带一些响应式 CSS，以可读的方式显示在移动设备上 每天或按需上传到网络主机。  因为我没有考虑&lt;在这里插入方法&gt;，所以我把这个弄得太复杂了吗？我可能最喜欢用 Python，但我对其他几种语言有足够的经验，我可以换成更容易构建/维护的解决方案。    提交人    /u/bturnip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e4dkd8/help_me_avoid_the_xy_trap_looking_for_suggestions/</guid>
-      <pubDate>Tue, 16 Jul 2024 02:36:25 GMT</pubDate>
+      <title>GPT-Instagram：具有用户个性的 Instagram 病毒式帖子</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4k20u/gptinstagram_instagram_viral_posts_with_user_own/</link>
+      <description><![CDATA[      作为一个周末项目，创建了一个多代理 AI 应用程序来模拟营销部门，以推荐具有用户自己个性的 Instagram Viral Posts。 如果有人有兴趣尝试：https://github.com/MODSetter/gpt-instagram 发布建议示例： https://preview.redd.it/e2vr79jekucd1.png?width=1897&amp;format=png&amp;auto=webp&amp;s=f3a7636f258edc13f251ff5bc3211a049cc81a54    由    /u/Uiqueblhats  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4k20u/gptinstagram_instagram_viral_posts_with_user_own/</guid>
+      <pubDate>Tue, 16 Jul 2024 09:10:07 GMT</pubDate>
     </item>
     <item>
-      <title>HTTP 重定向说明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e4c83k/http_redirects_explained/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e4c83k/http_redirects_explained/</guid>
-      <pubDate>Tue, 16 Jul 2024 01:30:32 GMT</pubDate>
+      <title>2024 年，除了 Laravel/Symfony 之外，还有人使用其他 php 框架来开发中小型应用程序吗？比如 Yii、CodeIgniter、Cakephp、Phalcon、Laminas 等？和 Jquery 一起使用？有人吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4k04x/anyone_using_other_php_frameworks_besides/</link>
+      <description><![CDATA[既然大牌都是 laravel/symfony，有没有人使用不同的 php 框架？并且也使用 jquery    提交人    /u/RXBarbatos   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4k04x/anyone_using_other_php_frameworks_besides/</guid>
+      <pubDate>Tue, 16 Jul 2024 09:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>有没有比 FilamentPHP 更好的 CRUD/SaaS 样板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e4a6il/is_there_a_better_crudsaas_boilerplate_than/</link>
-      <description><![CDATA[或者它是最好的？任何语言，无所谓。    提交人    /u/El_Mario_Verde   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e4a6il/is_there_a_better_crudsaas_boilerplate_than/</guid>
-      <pubDate>Mon, 15 Jul 2024 23:53:56 GMT</pubDate>
+      <title>如何创建搜索栏？（针对大数据）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4jasg/how_can_i_build_a_search_bar_for_large_data/</link>
+      <description><![CDATA[大家好， 我目前正在构建一个数据库 (Supabase) 中包含大量数据的网站。  我希望添加一个搜索栏来简化用户的生活。 我的网站将有 4 种不同的语言，我正在使用 Next.Js 和 Supabase。  我知道有 Algolia，但它似乎非常昂贵......  任何想法或提示都将不胜感激：D  谢谢， Noé     提交人    /u/Consistent_Front7774   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4jasg/how_can_i_build_a_search_bar_for_large_data/</guid>
+      <pubDate>Tue, 16 Jul 2024 08:18:13 GMT</pubDate>
     </item>
     <item>
-      <title>Google 商业评论 API 价格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e4a5wc/google_business_reviews_api_price/</link>
-      <description><![CDATA[大家好，我需要从我目前工作中的企业帐户获取 Google 评论，我读到 Google 提供了一个 API 来获取这些数据，但我找不到这项服务的定价，我在 Google 网站上找到的唯一页面说它是免费的，但我不确定。有人已经使用过这项服务了吗，价格是多少？ 请原谅我的英语不好。    提交人    /u/PhasmaLotus   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e4a5wc/google_business_reviews_api_price/</guid>
-      <pubDate>Mon, 15 Jul 2024 23:53:08 GMT</pubDate>
+      <title>初级前端职位的 JS 主题复习</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4j6ug/js_topic_refresher_for_junior_frontend_position/</link>
+      <description><![CDATA[大家好，对于上述职位的技术面试，你会关注哪些 JavaScript 主题？ 数组和对象操作、方法、异步函数、API 调用...你还想到了什么？谢谢！    提交人    /u/ObjectiveBerber   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4j6ug/js_topic_refresher_for_junior_frontend_position/</guid>
+      <pubDate>Tue, 16 Jul 2024 08:10:31 GMT</pubDate>
     </item>
     <item>
-      <title>我是否应该加入 3D 网站的潮流？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e49o0c/should_i_get_into_the_trend_of_3d_websites/</link>
-      <description><![CDATA[经过 2 个半月的努力，我刚刚完成了我的第二个网站，我打算再做两个网站添加到我的展示中（我知道有很多 2，哈哈）。 所以我需要一个新的项目来承担。 我应该考虑制作一个带有 3d 英雄部分的网站吗？ 你推荐什么项目或者认为很酷的项目，也许我可以从中汲取灵感？    提交人    /u/tangoldenboxing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e49o0c/should_i_get_into_the_trend_of_3d_websites/</guid>
-      <pubDate>Mon, 15 Jul 2024 23:30:41 GMT</pubDate>
+      <title>如何更改图标</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4j6jp/how_to_change_icons/</link>
+      <description><![CDATA[      嗨，我是 Web 开发新手，我怎样才能将此图标从文本更改为图像？谢谢 https://preview.redd.it/x7zg2vqn9ucd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=68443699face9f7122b87c1c57b9e374769083ae    提交人    /u/Previous_Pie409   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4j6jp/how_to_change_icons/</guid>
+      <pubDate>Tue, 16 Jul 2024 08:10:01 GMT</pubDate>
     </item>
     <item>
-      <title>哪里是购买域名的好地方？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e490fd/where_would_a_good_place_to_buy_a_domain_name_from/</link>
-      <description><![CDATA[希望创建一个基本的 html 网站。    由   提交  /u/1Shadz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e490fd/where_would_a_good_place_to_buy_a_domain_name_from/</guid>
-      <pubDate>Mon, 15 Jul 2024 23:01:46 GMT</pubDate>
+      <title>Cookies购物车客人和用户逻辑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4icl6/cookies_shopping_cart_guest_and_user_logic/</link>
+      <description><![CDATA[大家好，我需要一些帮助来解决所提供的情况...！ 假设我在购物网站上浏览（作为客人，未登录），并在购物车中添加了几件商品。在继续结帐时，系统会提示我登录页面，之后我登录，但购物车仍然对我可见...  假设，当我添加产品时会生成一个 cookie，但登录后，为什么购物车对我可见？客人 ID 和用户 ID 现在不是不同吗？为什么？ 如果您能帮助我理解这一点而无需会话，那将会很有帮助！！    提交人    /u/Leonopterxy10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4icl6/cookies_shopping_cart_guest_and_user_logic/</guid>
+      <pubDate>Tue, 16 Jul 2024 07:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>您使用美元符号 ($) 来命名您的可观察量吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e48qoq/do_you_use_dollar_signs_to_name_your_observables/</link>
-      <description><![CDATA[我们的一位开发人员开始在可观察变量名称末尾使用美元符号来表示它是一个可观察变量。另一位开发人员指出我们不使用这种惯例。因此，我们当然在讨论这是否是我们想要采用的最佳实践。 示例：  missionAnnounced$ = this.missionAnnouncedSource.asObservable(); missionConfirmed$ = this.missionConfirmedSource.asObservable();  到目前为止，我还没有看到很多关于这个主题的明确讨论。我发现了一篇充满激情的博客文章反对他们：https://stevenschwenke.de/DollarSignsInVariableNamesForObservablesInTypeScript 但值得注意的是，在文章的最后，他们撤回了自己的立场，因为当时 Angular 也推荐了他们（现在他们也撤回了） 我发现的最好的帖子是关于这个主题的 Stack Overflow 讨论，其中指出了这一切的起源。https://stackoverflow.com/questions/37671700/angular2-style-guide-property-with-dollar-sign 个人而言？我有点喜欢它们用于快速视觉扫描，但在实践中我可能会忘记使用它们，这只会导致在同行评审中花费一些不必要的时间。 还有其他人熟悉这个话题吗？有什么想法吗？ 编辑：我的团队正在讨论这个问题，我们决定不再使用它。    提交人    /u/TheGRS   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e48qoq/do_you_use_dollar_signs_to_name_your_observables/</guid>
-      <pubDate>Mon, 15 Jul 2024 22:49:51 GMT</pubDate>
+      <title>科技巨头优先考虑 Nextjs 与 Lit webcomponents，SEO 优先</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4i3mn/nextjs_vs_lit_webcomponents_in_bigtech_with_seo/</link>
+      <description><![CDATA[背景介绍，我在一家相当大的跨国公司工作，我们正在讨论将我们的 angularjs 1.5 代码迁移到现代解决方案的堆栈。考虑到公司的规模和开发人员的经验，我觉得 Nextjs 目前是明智之举。自从我们开始这个项目以来，我一直在推动 Nextjs，但后来我们最终采用了公司自己的框架（基于 SPA）。一位非常资深的工程师（~30 YOE）加入了我们，当事情升级时，他向管理层汇报了我们在 SEO 方面面临的问题，工作 4 个月后，我们立即停止了工作。现在我们回到绘图板上最终确定堆栈，他们建议使用 Lit，因为它的性能很好。我全力支持最新的技术，即使那是我热爱的（构建运行速度尽可能快的代码），但考虑到开发人员的经验和社区，我觉得我们不应该追求比经过实战测试的相当新的东西。  我和参与该项目的其中一名队友有使用 Next/React 的经验，因此可能会存在一些偏见。 另一件事是公司主要使用 Angularjs 来构建核心解决方案（大约在 2013-14 年），当 Google 停止使用 Angularjs 时，他们觉得我们不想被供应商锁定，然后他们想到了构建自己的框架。 有人认为，如果我们采用 Next/React，那么在未来 5 年内就会出现一个新的框架，我们将不得不转向这个框架，但考虑到我们只有一个团队，而整个公司都面临着这个问题，我觉得这种想法是错误的。  所以最终我的任务是收集一些比较点。如果你们中有人在生产中使用过 Lit 组件甚至 React/Next，你们遇到过什么主要问题？你的开发体验如何？你从社区获得的支持如何？采用任何一种方法是否能显著提高性能？    提交人    /u/cr3ax   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4i3mn/nextjs_vs_lit_webcomponents_in_bigtech_with_seo/</guid>
+      <pubDate>Tue, 16 Jul 2024 06:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>如何对我拥有但未进行过更改的网站进行更改？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e47oh6/how_to_make_changes_to_a_site_i_own_but_didnt_make/</link>
-      <description><![CDATA[我没有 Web 开发经验，所以回答时要像在跟一个六岁的小孩说话一样。 我的继父付钱请人为他的企业创建了一个网站，现在想对网站进行一些修改，但网站开发者说他不记得做这个网站的任何细节。我说我会尝试自己对网站进行修改，并在这个过程中自己学习一些 Web 开发知识，但我首先需要弄清楚我需要做什么才能访问后端。我应该尝试从网站的原始创建者那里获取什么信息，我自己是否可以进行更改？我们唯一能弄清楚的是谁在托管该网站，但没有其他信息。  我阅读了这个 subreddit 上的另一个帖子，其中有一个与我类似的问题，但是由于我缺乏经验，我不太明白评论者的意思。 对于我所掌握的信息不足，我深表歉意，我会尝试回答任何有助于解决此问题的问题，谢谢。    提交人    /u/SuddenYouth   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e47oh6/how_to_make_changes_to_a_site_i_own_but_didnt_make/</guid>
-      <pubDate>Mon, 15 Jul 2024 22:04:39 GMT</pubDate>
+      <title>脚本完整性是容易出错的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4host/script_integrity_is_fallible/</link>
+      <description><![CDATA[我注意到大家已经开始推动将脚本完整性添加到您与流行 CDN 的外部链接中的想法。特别是考虑到最近 polyfill 发生的事情，这似乎是一个聪明的举动。 除此之外，如果您仔细想想，这只是一个小小的安全层，而不是万无一失的安全层。例如，如果我链接到 jquery.min.rs 或 react.min.js 并为该脚本添加完整性哈希，它应该可以保护我的网站免受对这些上游脚本的任何修改，对吗？但是，如果这些脚本本身会在内部调用其他脚本（如 jquery-ui.js 或 react-reduce.js）怎么办？这些引用或二级脚本的完整性没有任何保证。 随着应用程序开发变得越来越复杂，这些二级脚本的使用只会增加，而不会减少。鉴于供应链攻击日益复杂，我认为我们的保护机制应该不仅仅包括脚本完整性检查，脚本完整性检查最多只能为您节省一些时间，直到您的应用程序开始扩展。有什么想法吗？    提交人    /u/pyeri   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4host/script_integrity_is_fallible/</guid>
+      <pubDate>Tue, 16 Jul 2024 06:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>使用屏幕阅读器实现可访问的单选按钮错误处理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e47759/accessible_radio_button_error_handling_with/</link>
-      <description><![CDATA[我正在更新我们的表单以解决可访问性问题，并遇到了单选按钮的问题。到目前为止，我无法让我的画外音调出除单选按钮之外的每种输入类型的错误。我尝试使用 aria-labelledby、aria-scribeby、aria-invalid、aria-live，但没有任何方法可以读出错误。由于法律原因，我们无法预先填充这个特定的单选按钮，这是一个是/否问题。它还必须是单选按钮（来自设计团队）。有人可以给我展示一个可以正常工作的单选按钮的示例吗？该按钮没有预先选择的选项，但是是必需的，并且如果焦点离开单选按钮组，它将读出错误？我似乎也找不到在线示例，这就是我来这里的原因。    提交人    /u/ageneau   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e47759/accessible_radio_button_error_handling_with/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:45:03 GMT</pubDate>
+      <title>任何人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4h2k8/anyone/</link>
+      <description><![CDATA[有没有人有只有 angular 前端的 angular 项目.. . . 已经在 GitHub 上检查过了但是都已经过时了     提交人    /u/lazycodder   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4h2k8/anyone/</guid>
+      <pubDate>Tue, 16 Jul 2024 05:51:15 GMT</pubDate>
     </item>
     <item>
-      <title>校对整个页面的方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e4766z/a_way_to_proofread_entire_pages/</link>
-      <description><![CDATA[嗨，我正在寻找一种校对整个网页的方法。由于某些内容可能来自 CMS，而某些内容可能来自代码，因此我认为检查网页本身是最好的选择。 有谁熟悉可以做到这一点的 chrome 扩展程序吗？我找不到。 我听说 grammarly 有一个 API，所以这是一个选择，或者可能只是 ChatGPT API。抓取页面然后检查它，并自动完成整个过程。    提交人    /u/OrcCyborg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e4766z/a_way_to_proofread_entire_pages/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:43:57 GMT</pubDate>
+      <title>ChatGPT API 提供错误的街道地址</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4gv7e/chatgpt_api_giving_incorrect_street_address/</link>
+      <description><![CDATA[尝试使用 ChatGPT api 生成旅行行程。它正确生成了位置名称，但街道地址不正确。  当我尝试在 OpenAi 网站上使用 ChatGPT 4o 时，它使用 TripAdvisor 查找正确的地址，并且效果很好。  有什么想法可以解决这个问题？我对 API 没有太多经验    提交人    /u/SquilliamMyKing   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4gv7e/chatgpt_api_giving_incorrect_street_address/</guid>
+      <pubDate>Tue, 16 Jul 2024 05:38:19 GMT</pubDate>
     </item>
     <item>
-      <title>哪些公司在使用您的应用？您会使用工具来了解它们并使用它们的徽标吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e46316/which_companies_are_using_your_app_would_you_use/</link>
-      <description><![CDATA[您愿意为以下服务付费吗：  允许您上传 Stripe 客户的 CSV 过滤掉通用域名，如 gmail、yahoo、msn 等。 AI 查找客户电子邮件域名背后每个公司/品牌的相关信息（例如名称、简短描述、总部位置、是否公开交易以及 1d/7d/30d 价格和变化百分比、员工人数、收入等） 为每个域名查找公司徽标（然后您可以取消选中每个徽标旁边的复选框以不在步骤 5 中使用它 生成“受这些公司信任：”的 HTML 代码，其中包含您选择的各种样式的徽标，您可以将其复制粘贴到您的登录页面  好奇我是否应该把这个&quot;内部微工具&quot; 放入微产品并发货…… 查看投票    提交人    /u/RightCover6081   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e46316/which_companies_are_using_your_app_would_you_use/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:00:24 GMT</pubDate>
+      <title>构建 MVP 还是先通过登陆页面 + 视频 + 选择加入来推销您的想法……？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4gosp/building_an_mvp_or_selling_your_idea_first_with_a/</link>
+      <description><![CDATA[快速提问，您认为哪种方式更好，制作一个简单的 MVP 来测试产品市场契合度，还是使用简单的登录页面 + 视频 + 选择加入？    由   提交  /u/mufasis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4gosp/building_an_mvp_or_selling_your_idea_first_with_a/</guid>
+      <pubDate>Tue, 16 Jul 2024 05:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 扩展小部件不会重写整个新标签页吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e45r3z/chrome_extension_widget_that_doesnt_rewrite_the/</link>
-      <description><![CDATA[嗨，我是这个子版块的新手，但最近我一直在尝试创建这个项目，我制作了一个 Chrome 扩展程序，该扩展程序会向用户创建的每个新标签页添加一个小部件。该小部件只是一个简单的抽认卡工具，您可以在其中翻转、滚动和标记抽认卡。我原本想稍后添加一个功能，让您通过 Google Docs 导入集，但现在我只想要一个真正有效的基本框架。我只是想知道这是否可行，如果可行，怎么做？每个指南或类似的扩展程序似乎都完全接管了新标签或完全重新设计了它的样式。 （例如：https://chromewebstore.google.com/detail/studylib-new-tab-startpag/dejmgcinmidgfjbnfkeeopfmfmcggdhj 以及 https://chromewebstore.google.com/detail/flashcard-new-tab/aglggobkfpbjcgkhchdcflocblfbadfa）。我只是想要一个更非侵入性的角落小部件，它会在每个新打开的选项卡上弹出，但不会在有内容的选项卡上弹出（基本上是任何带有 URL 的选项卡）。任何能推动我朝着正确方向发展的想法都将不胜感激。    提交人    /u/2kmonkeyboy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e45r3z/chrome_extension_widget_that_doesnt_rewrite_the/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:47:26 GMT</pubDate>
+      <title>✨好消息！每个 Web 开发人员都可以直接将 Chrome 内置 AI 运用到产品中！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4goak/good_news_every_web_developer_can_directly_use/</link>
+      <description><![CDATA[近日，Chrome 宣布将把 Gemini nano 集成到 Chrome 中（目前支持 Chrome dev 版本），这意味着用户可以直接在网页产品中使用浏览器本地 AI 大模型，带来闪电般的快速体验。 Chrome 内置 AI 有以下优势：  免费 快速 安全（本地离线操作）  如果想试用一下速度有多快，可以直接访问 https://ChromeAi.org 如果你想在你的产品中使用这个本地 AI 模型，可以参考开源代码：https://github.com/debugtheworldbot/chromegemini 当然，我还录制了视频，让大家看看实际效果：https://www.youtube.com/watch?v=0d0D6cazQtA    submitted by    /u/Weekendengineerr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4goak/good_news_every_web_developer_can_directly_use/</guid>
+      <pubDate>Tue, 16 Jul 2024 05:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>适合单个大型 WordPress 网站的托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e45nip/decent_hosting_for_a_single_large_wordpress_site/</link>
-      <description><![CDATA[几年前，当我还在做网站开发时，我为妻子的生意建立了一个 WordPress 网站。我们把它托管在 MediaTemple 上，一切都很顺利。从那时起，我换了工作，MediaTemple 被 GoDaddy 收购了，这变得越来越令人沮丧。自从我退出这个行业后，我就不知道谁更厉害了。 我们需要找个可以换的。寻找一个可以处理包含大量大照片的大型 wordpress 数据库的主机。此外，他们的电子邮件服务不应该被所有人屏蔽，因为他们的 IP 经常与垃圾邮件相关联。他们的支持应该很可靠。理想情况下，但不是关键，管理起来很简单——因为我不再经常这样做了，我的知识很快就会过时。 希望得到一些好的建议。    提交人    /u/mortalwombat-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e45nip/decent_hosting_for_a_single_large_wordpress_site/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:43:25 GMT</pubDate>
+      <title>您会向 HTML 添加哪些标签？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4eoyp/what_tags_would_you_add_to_html/</link>
+      <description><![CDATA[目前正在开发 HTML 的新继任者。 目前我们有 116 个标签。 您想要什么标签？    由   提交  /u/breck   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4eoyp/what_tags_would_you_add_to_html/</guid>
+      <pubDate>Tue, 16 Jul 2024 03:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>关于创建公共 API 服务的意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e44vpt/opinions_on_creating_service_for_public_api/</link>
-      <description><![CDATA[我正计划创建一个使用 2 个公共 API 的附带项目。 其中一个是旧的、不太强大的 API，看起来好像很久没有更新了。 这个 API 有一些陷阱。类似示例：user/&lt;username&gt;/gameType/&lt;type&gt;?mode=&lt;mode&gt; 其中 gameType 期望根据 gameType 接收一个 1 到 10 之间的整数（而不是使用 gameType 的名称）并跳过数字 7。虽然 mode 是另一个整数，但只有 gameType 4 具有多种模式，而其他的应该保持为 1。 其中一个是制作精良且有文档记录的 API，但即将进行更新，将来可能会有更多。 我正在考虑为这两个 API 创建 2 个服务，因为我将同时使用它们。我计划将它们公开，以方便任何计划使用它们的人。 如果 API 1 的软件包可以处理错误并防止 API 不一致，那么对社区来说将是一种福音。 风险归结为，如果更新 API，服务可能会中断。这仍然是一个好主意吗？我甚至不打算使用他们的所有 API 路由，只使用少数几个。    提交人    /u/not_a_webdev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e44vpt/opinions_on_creating_service_for_public_api/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:12:51 GMT</pubDate>
+      <title>Svelte + Django</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4ehf2/svelte_django/</link>
+      <description><![CDATA[Svelte + Django 大家好，我刚接触 svelte。我需要帮助来了解如何构建一个用于重置过期密码的网站。需要一个前端表单页面和后端来检查和验证数据库并更新新密码。PostGreSQL 就是我正在寻找的。 请帮帮我，过去几天一直在努力    提交人    /u/Remarkable-Yak2194   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4ehf2/svelte_django/</guid>
+      <pubDate>Tue, 16 Jul 2024 03:21:57 GMT</pubDate>
     </item>
     <item>
-      <title>需要网站开发机构</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e44s0p/need_web_developement_agency/</link>
-      <description><![CDATA[嗨， 我正在寻找一家可以帮助我改组托管 IT/网络安全公司的代理机构。需要以前在该领域工作过并能够提供以前工作的例子。     提交人    /u/19seb96   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e44s0p/need_web_developement_agency/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:08:52 GMT</pubDate>
+      <title>关于简单网站创建器的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4eg61/question_about_simple_website_builders/</link>
+      <description><![CDATA[有谁知道一个免费的网站构建器，我可以用它来创建一个带有黑色背景、我的徽标和嵌入式流媒体视频链接的单页网站？实际上，这就是我所需要的，但像 Wix 这样的网站只想用 AI 做一切。当你想做一些非常基本的事情时，这很令人沮丧，而且现在似乎很难找到它。谢谢。    提交人    /u/eddiemac12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4eg61/question_about_simple_website_builders/</guid>
+      <pubDate>Tue, 16 Jul 2024 03:20:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
