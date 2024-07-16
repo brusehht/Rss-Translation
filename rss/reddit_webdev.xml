@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 00:57:28 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 16 Jul 2024 03:17:33 GMT</lastBuildDate>
+    <item>
+      <title>帮助我避免 XY 陷阱 - 寻求有关如何重新格式化来自外部源的数据的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4dkd8/help_me_avoid_the_xy_trap_looking_for_suggestions/</link>
+      <description><![CDATA[背景：美国陆军工程兵团公布了预计水力发电的时间表。有一个应用程序，但它只显示我想通过打开网页（即应用程序打开网络浏览器页面）获取的实际数据。在手机上阅读非常困难。我通常在决定何时何地将皮划艇或桨板放入水中时查看天气预报，因此在移动设备上轻松阅读是我想要解决的关键问题。 目标：我想要做的是能够获取这些数据并以适合移动设备的方式对其进行格式化。我想要一个网页书签或一个非常简单的应用程序，可以用来快速获取我想要的数据。 第一个想法：  使用类似 Beautiful Soup 的东西从陆军工程兵团的网站获取数据， 使用 BS 和其他一些 Python 创建一个精简的网页，并附带一些响应式 CSS，以可读的方式显示在移动设备上 每天或按需上传到网络主机。  因为我没有考虑&lt;在这里插入方法&gt;，所以我把这个弄得太复杂了吗？我可能最喜欢用 Python，但我对其他几种语言有足够的经验，我可以换成更容易构建/维护的解决方案。    提交人    /u/bturnip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4dkd8/help_me_avoid_the_xy_trap_looking_for_suggestions/</guid>
+      <pubDate>Tue, 16 Jul 2024 02:36:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP 重定向说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e4c83k/http_redirects_explained/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e4c83k/http_redirects_explained/</guid>
+      <pubDate>Tue, 16 Jul 2024 01:30:32 GMT</pubDate>
+    </item>
     <item>
       <title>有没有比 FilamentPHP 更好的 CRUD/SaaS 样板？</title>
       <link>https://www.reddit.com/r/webdev/comments/1e4a6il/is_there_a_better_crudsaas_boilerplate_than/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨， 我正在寻找一家可以帮助我改组托管 IT/网络安全公司的代理机构。需要以前在该领域工作过并能够提供以前工作的例子。     提交人    /u/19seb96   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e44s0p/need_web_developement_agency/</guid>
       <pubDate>Mon, 15 Jul 2024 20:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 关键字过滤 Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e44oed/reddit_keyword_filtering_chrome_extension/</link>
-      <description><![CDATA[我制作了一个 Chrome 扩展程序，因为我厌倦了在我的 Reddit 信息流中看到政治帖子，它只会过滤掉标题中带有关键字的帖子。还有一个开关可以从信息流中删除广告。 这是我的第一个扩展程序，代码在 GitHub 上开源，欢迎随时发表反馈。    提交人    /u/Mattiassch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e44oed/reddit_keyword_filtering_chrome_extension/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何估算托管资源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e447ix/how_to_estimate_hosting_resources/</link>
-      <description><![CDATA[如何估算 WordPress 网站所需的托管资源？是否有基于访客数量或类似指标的好方法。    提交人    /u/Various_Ad5600   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e447ix/how_to_estimate_hosting_resources/</guid>
-      <pubDate>Mon, 15 Jul 2024 19:47:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

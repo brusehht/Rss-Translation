@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 00:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 03:16:30 GMT</lastBuildDate>
+    <item>
+      <title>关于AI图像生成的问题。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e4dxf2/question_about_ai_image_generation/</link>
+      <description><![CDATA[我不知道在哪里可以问这个问题，所以如果这不是理想的地方，我很抱歉。 有一个名为 Dream Wombo 的网站和应用程序可以进行 AI 图像生成。他们有所谓的艺术风格，您可以点击它来让您的图像更接近。艺术风格如现实主义、水彩画或轮廓等。 我只是好奇他们是如何创造这些新风格的。这是不是像他们输入“以水彩风格制作”这样简单的事情，还是有更多内容。我不知道你们中有多少人在那里工作，但我希望有人比我更了解 AI 图像生成器，可以给我一个有根据的猜测，或者如果您不确定，请给出您最好的猜测。谢谢。    提交人    /u/SmolBabyWitch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e4dxf2/question_about_ai_image_generation/</guid>
+      <pubDate>Tue, 16 Jul 2024 02:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 7/15/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e4bjgl/oneminute_daily_ai_news_7152024/</link>
+      <description><![CDATA[ MUSCLE：兼容 LLM 演化的模型更新策略。[1] 苹果股价创历史新高，此前摩根士丹利 (Morgan Stanley) 称其为 AI 领域的“首选股”。[2] 谷歌的 Gemini AI 被发现未经许可扫描 Google Drive 托管的 PDF 文件——用户抱怨该功能无法禁用。[3] 这家人力资源公司试图像对待人一样对待人工智能机器人——但结果并不好。[4]  来源包括：https://bushaicave.com/2024/07/15/7-15-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e4bjgl/oneminute_daily_ai_news_7152024/</guid>
+      <pubDate>Tue, 16 Jul 2024 00:57:45 GMT</pubDate>
+    </item>
     <item>
       <title>使用 AI 将漫画制作成动画</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e49whp/using_ai_to_create_animation_from_comics/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[有可以在本地运行的文本生成 AI 模型。有可以在本地运行的图像生成 AI 模型。但是有没有可以在本地运行的语音克隆套件？既可以用于创建语音，也可以用于稍后使用该语音进行 TTS。    提交人    /u/Darkhog   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e43mnc/any_voice_cloning_modelstools_that_can_run_locally/</guid>
       <pubDate>Mon, 15 Jul 2024 19:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我有文本文件时，如何实现自动字幕（实时）？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e42fxl/how_to_do_automatic_subtitles_real_time_time_when/</link>
-      <description><![CDATA[我有 TTS，它正在读取文本输入（来自 LLM）。我希望根据 TTS 当前所说的内容逐字逐句地实时在屏幕上显示字幕。我可以使用类似 google STT 的东西，只听语音，但在我的语言中，它不太好，而且会犯很多错误。 我想利用这样一个事实：我准确地知道 TTS 在说什么（我在 TTS 开始播放之前就有了 LLM 输出），问题是时间，这样字幕就可以在说出内容的确切时刻显示正在说的内容。我的意思是，我希望他们根据 TTS 所说的内容逐字逐句地逐渐写下回应。 有什么想法吗？ 抱歉，我知道这很令人困惑，但我希望你能明白我的意思。    提交人    /u/PrincessGambit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e42fxl/how_to_do_automatic_subtitles_real_time_time_when/</guid>
-      <pubDate>Mon, 15 Jul 2024 18:38:06 GMT</pubDate>
     </item>
     <item>
       <title>Ac28R——可以自己编写代码的计算机</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled    提交人    /u/luissousa28   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e3qq81/googles_gemini_ai_caught_scanning_google_drive/</guid>
       <pubDate>Mon, 15 Jul 2024 09:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>(大多数) 人工智能目前都是付费的。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e3f10k/most_of_ai_is_paid_for_now/</link>
-      <description><![CDATA[现在，无论我寻找什么，无论是图像生成还是文本转语音，几乎每个表现良好的人工智能系统都会要求付费，或者在一个月左右的时间内提供极其有限的信用额度。我相信你们都记得以前不是这样的；现在，DALLE 2 甚至无法访问，DALLE 3 的起步价为 20 美元。我知道将其商业化是不可避免的，但为什么没有一个，例如，优秀的图像到图像人工智能免费提供相当数量的信用额度，这些信用额度可以在一天或一周后而不是一个月后更新（参见 Leonardo AI，但它的免费服务现在也是垃圾）或使用其他允许人们免费使用的商业化系统？我只想享受互联网作为免费资源，包括人工智能。我不想为我不会经常使用且主要用于娱乐的东西付费，例如 Midjourney 或 ChatGPT。我只想要一张像样的照片，照片上是一只小猫乘着蒸汽朋克的翅膀飞过纳米世界，仅此而已。 你们有没有人发现过什么东西能给你们提供任何 AI，让你们得到我找不到的东西？    提交人    /u/szywis   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e3f10k/most_of_ai_is_paid_for_now/</guid>
-      <pubDate>Sun, 14 Jul 2024 22:38:30 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
