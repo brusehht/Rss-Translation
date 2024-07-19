@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Jul 2024 12:23:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:14:18 GMT</lastBuildDate>
+    <item>
+      <title>面向 ML&LLM 的全新开源 AI 监控平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</link>
+      <description><![CDATA[大家好， 我们最近发布了~开源 Radicalbit AI 监控平台~。该工具旨在帮助数据专业人员衡量 AI 模型的有效性、验证数据质量和检测模型漂移。  最新版本 (0.9.0) 引入了对多类分类和回归的支持，从而完善了已发布的二元分类功能。  您可以从 Web 用户界面和 Python SDK 使用 Radicalbit AI 监控平台。它还提供了~专用安装程序~。 如果您想了解有关该平台的更多信息、安装它并为其做出贡献，请访问我们的~Git 存储库~！    提交人    /u/hpa88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</guid>
+      <pubDate>Fri, 19 Jul 2024 13:28:13 GMT</pubDate>
+    </item>
     <item>
       <title>自上篇文章以来的更新：使我的产品开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1e72cds/update_since_my_last_post_making_my_product/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我想知道开源项目是否需要产品管理支持？我了解开源团队不进行 Scrum，但会保留一些任务积压。我很乐意从事维护文档、营销和创意的工作。我也是一名软件开发人员，所以也可以在这方面提供一些帮助。只是想知道开源项目多久需要一次这样的支持？    提交人    /u/ReplayBeats   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e6cmtk/product_management_roles_in_open_source_projects/</guid>
       <pubDate>Thu, 18 Jul 2024 14:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>没什么特别的，只是我展示一下我努力开发的 2D 矢量图形引擎，它可以在任何计算机上运行</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e6bxag/nothing_special_just_me_showing_off_my_hard_work/</link>
-      <description><![CDATA[https://github.com/micro-gl/micro-gl     由   提交  /u/hendrixstring   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e6bxag/nothing_special_just_me_showing_off_my_hard_work/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:49:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
