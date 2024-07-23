@@ -3,14 +3,49 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 06:18:15 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 23 Jul 2024 09:14:30 GMT</lastBuildDate>
     <item>
-      <title>需要一些反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ea0ghm/need_some_feedback/</link>
-      <description><![CDATA[      这是我的第一个网站，我可以改进什么？   由    /u/Business_313  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ea0ghm/need_some_feedback/</guid>
-      <pubDate>Tue, 23 Jul 2024 06:03:29 GMT</pubDate>
+      <title>如果……您就不应该成为一名 Web 开发人员。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ea2xrm/you_should_not_become_a_web_developer_if/</link>
+      <description><![CDATA[大家好，我想制作一个关于如何成为一名 Web 开发人员的视频，我需要在该视频中包含更多要点，我需要你们的答案！    提交人    /u/walter20e   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ea2xrm/you_should_not_become_a_web_developer_if/</guid>
+      <pubDate>Tue, 23 Jul 2024 08:48:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以在浏览器中显示h265视频流？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ea2ats/is_it_possible_to_display_h265_video_stream_in_a/</link>
+      <description><![CDATA[我正在做一个项目，需要显示实时视频，要求流需要是 h265，最大延迟为 100ms。在这些条件下，是否可以在浏览器中显示 h265 over UDP 视频流？提前谢谢您 :)。    提交人    /u/Trap_Taxi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ea2ats/is_it_possible_to_display_h265_video_stream_in_a/</guid>
+      <pubDate>Tue, 23 Jul 2024 08:05:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>你是哪一個？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ea2ah6/which_are_you/</link>
+      <description><![CDATA[出于纯粹好奇心而进行的一项民意调查。目前，我自学成为一名前端开发人员，过去 6 个月左右，我一直在申请另一份工作，但没有成功。不禁想到，我缺乏学位阻碍了我前进。 查看民意调查    由   提交  /u/mooxbones   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ea2ah6/which_are_you/</guid>
+      <pubDate>Tue, 23 Jul 2024 08:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ea1zgf/help/</link>
+      <description><![CDATA[我尝试使用 WordPress 进行 Web 开发。我购买了域名和主机，以为一切都完成了。如果没有 Elementor，我们无法在 WordPress 中正确设计网站，而且所有主题都以演示形式提供。我想我需要找到主题的完整版本和 Elementor 的破解版本，但我该怎么办？请指导我！    提交人    /u/gavetoplebendolentem   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ea1zgf/help/</guid>
+      <pubDate>Tue, 23 Jul 2024 07:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了将代码复制粘贴到 LLM 聊天中吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ea1g8z/tired_of_copy_pasting_code_to_llm_chat/</link>
+      <description><![CDATA[      在从事一个业余项目时，我发现自己反复将文件复制粘贴到 LLM 聊天中。 我使用 Gemini 是因为它是免费的，而且上下文大小很大（1 M 个令牌）。 但是将上下文代码复制粘贴到聊天窗口中会减慢我的速度并使整个过程变得不愉快。 所以，我决定解决这个问题，并在过去的几个月里一直在开发一个工具。 您可以使用免费的 Gemini 密钥并通过 UI 选择上下文文件进行聊天。 这是一个自托管的 Web 应用程序，同时具有后端和前端（使其非常灵活）。 这是 The Creator AI 的 GitHub 链接 - https://github.com/The-Creator-AI/The-Creator-AI?tab=readme-ov-file https://preview.redd.it/a8qxc675x7ed1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=9c4e59ae69b924846c4453a286c5111e5b5d59bd    提交人    /u/pulkitsingh01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ea1g8z/tired_of_copy_pasting_code_to_llm_chat/</guid>
+      <pubDate>Tue, 23 Jul 2024 07:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>将关键帧放在单独的 CSS 文件中是否更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ea17up/is_it_preferable_to_put_key_frames_in_separate/</link>
+      <description><![CDATA[目前正在学习，我想知道将 CSS 分离/合并到一个或多个文件中的普遍共识是什么？    提交人    /u/EclipsoSnipzo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ea17up/is_it_preferable_to_put_key_frames_in_separate/</guid>
+      <pubDate>Tue, 23 Jul 2024 06:53:58 GMT</pubDate>
     </item>
     <item>
       <title>如何调试 dotnet angular 应用程序？</title>
@@ -43,7 +78,7 @@
     <item>
       <title>首次自托管 API</title>
       <link>https://www.reddit.com/r/webdev/comments/1e9w5sg/first_time_self_hosting_api/</link>
-      <description><![CDATA[我为一家小型企业创建了一个 API，该 API 托管在本地服务器上。然后，该公司网站从 API 中获取产品信息。 奇怪的是，大多数访问该网站的人都可以正常访问，但大约五分之一的人会从 API 中收到超时错误。API 没有显示任何错误。 这是我的第一个 API，所以也许我遗漏了什么。我通过小更新重置了 API 几次。 有什么想法吗？ 编辑：我使用 Firebase 托管来托管前端文件，并且路由器的安全性设置为仅允许单个 IP 地址（firebase IP）访问 API。我在想也许 firebase 使用了两个 IP？如果有人有这方面的经验？    提交人    /u/UncleFather_Oscar   [链接] [评论]]]></description>
+      <description><![CDATA[我为一家小型企业创建了一个 API，该 API 托管在本地服务器上。然后，该公司网站从 API 中获取产品信息。 奇怪的是，大多数访问该网站的人都可以正常访问，但大约五分之一的人会从 API 中收到超时错误。API 没有显示任何错误。 这是我的第一个 API，所以也许我错过了什么。我通过小更新重置了 API 几次。 有什么想法吗？ 编辑：我使用 Firebase 托管前端文件，并且路由器的安全性设置为仅允许单个 IP 地址（firebase IP）访问 API。我在想也许 firebase 使用了两个 IP？如果有人有这方面的经验？    提交人    /u/UncleFather_Oscar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e9w5sg/first_time_self_hosting_api/</guid>
       <pubDate>Tue, 23 Jul 2024 02:03:15 GMT</pubDate>
     </item>
@@ -53,13 +88,6 @@
       <description><![CDATA[大家好，我很感激您对新设计的网站 skygripper.com 的设计和功能的一些反馈。它是使用 laravel 11 和 react inertia 构建的，谢谢，很高兴见到大家    提交人    /u/ultramax90   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e9v0ij/my_react_inertia_startup/</guid>
       <pubDate>Tue, 23 Jul 2024 01:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这种情况下我应该做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9unr3/what_should_i_do_in_this_scenario/</link>
-      <description><![CDATA[我要建立一个网站，让用户协作完成一个项目。这些项目就像 reddit 帖子一样。项目有很多属性、元数据 + 排名系统。排名越高，项目就越受欢迎或被看到的机会越大。 现在，如果用户对项目点赞或发表评论，我应该如何处理结构？ 具有评论或点赞功能的用户类？具有这些功能的项目类？ 还是单独的评论和投票类？如果是这样，那么我应该如何仅通过 ID 将它们与项目和用户联系起来？还有其他层吗？助手？服务？数据库？ 用户是执行这些操作的人，但这些操作正在成为项目的一部分。 所以这让我很困惑。 最好的方法是什么，这样我就不会在类之间紧密耦合。 将不胜感激详细的答案。提前致谢。    由   提交  /u/awaiskorai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9unr3/what_should_i_do_in_this_scenario/</guid>
-      <pubDate>Tue, 23 Jul 2024 00:51:33 GMT</pubDate>
     </item>
     <item>
       <title>哪里可以免费托管我的后端？</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[      这很疯狂，但确实有效。我想在 API 调用后捕获来自 Axios 的错误，但这样我就可以确定 API 随其响应发送的真正错误，而不是 Axios 认为要发送给客户端的错误。实际错误消息的嵌套深度令人难以置信。并且根据某些条件，可能会有多种场景和变体。 这是大多数变体的 if-then-else-christmas-tree。 https://gist.github.com/itinance/44beea0591a1be8dc4476f8634990924 https://preview.redd.it/hr7fb7okc5ed1.png?width=1494&amp;format=png&amp;auto=webp&amp;s=67fb55de3898fe56d86b6c039e5fb4af948870ab    提交人    /u/tf1155   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e9rjf1/i_finally_found_a_way_to_get_the_actual_apierror/</guid>
       <pubDate>Mon, 22 Jul 2024 22:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是非计算机科学人士。正在寻找创建个人网站的简便方法。我听说过 Hugo 和 11ty 等 SSG。哪一个最适合我？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9qusu/noncs_person_here_looking_for_easy_way_to_make/</link>
-      <description><![CDATA[我不懂 Go、JavaScript、Ruby 等。我愿意学习我需要的知识来创建这个网站，因为我不想为点击和拖动网站构建器支付月费。 我懂基本的 HTML/CSS 和 Java，所以我可以边学边学。 我想问一下你们，你们认为哪种 SSG 最适合我？计划将我个人生活、工作生活等中的项目放在这里。以及关于我的小信息、联系页面和在线简历。基本上它是一个作品集/博客。我希望它尽可能简单。 提前致谢。    提交人    /u/past_anomaly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9qusu/noncs_person_here_looking_for_easy_way_to_make/</guid>
-      <pubDate>Mon, 22 Jul 2024 22:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 LLM 包装器（+更多）在环中 - 你觉得怎么样</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9qkec/my_first_llm_wrapper_a_little_more_in_the_ring/</link>
-      <description><![CDATA[        提交人    /u/jamesfy49   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9qkec/my_first_llm_wrapper_a_little_more_in_the_ring/</guid>
-      <pubDate>Mon, 22 Jul 2024 21:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何正确对齐背景附件的图片：固定？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9pvrr/how_to_properly_align_picture_for/</link>
-      <description><![CDATA[      我在 15 英寸 1920p 笔记本电脑、27 英寸 1440p 显示器和手机上测试了我的网站，但在让背景图像在所有设备上都看起来不错方面遇到了麻烦。通常，它在手机和笔记本电脑上看起来都很好，但在更大的屏幕上可能会被裁剪得很差。有什么办法可以解决这个问题？图像高度在所有屏幕尺寸上都设置为 25rem，我想保持这种状态，到目前为止，我尝试通过在左侧和右侧、顶部、底部或全部添加额外背景来编辑图像，但我无法获得在所有设备上看起来都很好的效果。这是我的上下文代码： .image-heading { width : 100%; height : 25rem; display : flex; justify-content : center; align-items : end; background-position : center; color : white; background-size : cover; background-repeat : no-repeat; background-attachment : fixed; background-position : center; &lt;div class=&quot;image-heading tyr&quot;&gt; &lt;p&gt;泰伦虫族：绘画指南&lt;/p&gt; &lt;/div&gt;  https://preview.redd.it/2v26n48605ed1.png?width=374&amp;format=png&amp;auto=webp&amp;s=474137d24255d50888978b8edc52e56a1ee8ad95 https://preview.redd.it/uzcsvqq705ed1.png?width=1897&amp;format=png&amp;auto=webp&amp;s=f19774f4ab8daefe3e1450f695d9eea97cede1a9 https://preview.redd.it/1ysypsj805ed1.png?width=2535&amp;format=png&amp;auto=webp&amp;s=414f83ebb35103385b4f093e6a92888a121b39c3    提交人    /u/FfiveBarkod   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9pvrr/how_to_properly_align_picture_for/</guid>
-      <pubDate>Mon, 22 Jul 2024 21:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 页面问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9ozrx/github_pages_issue/</link>
-      <description><![CDATA[好吧，我正尝试通过 GitHub 页面将我的静态页面上传到互联网。问题是，当我将文件重命名为“index.html”时，它会停止连接到我的 CSS，并且不会加载其部分。我应该将 CSS 文件重命名为“index.css”吗？我已经更新了存储库，所有...    提交人    /u/tudum42   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9ozrx/github_pages_issue/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:47:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
