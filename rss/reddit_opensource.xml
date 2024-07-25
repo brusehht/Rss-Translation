@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Jul 2024 09:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 12:24:26 GMT</lastBuildDate>
+    <item>
+      <title>Hailey Schoelkopf：开源 AI 定义的声音</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ebstq1/hailey_schoelkopf_voices_of_the_open_source_ai/</link>
+      <description><![CDATA[        由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ebstq1/hailey_schoelkopf_voices_of_the_open_source_ai/</guid>
+      <pubDate>Thu, 25 Jul 2024 11:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>nxs-数据匿名器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ebsomm/nxsdataanonymizer/</link>
+      <description><![CDATA[      大家好！我们的团队已经在这个项目上工作了很长时间，但我们正在寻找改进和开发它的新想法。因此，如果您对功能有任何反馈，或者对支持其他数据库（可能是一些 noSQL？）有任何想法，我们将不胜感激。  nxs-data-anonymizer 是一款方便的工具，可用于管理 MySQL、PostgreSQL、Percona 和 MariaDB 等数据库中的敏感数据。它可以帮助您安全地匿名化数据，无论您是在生产设置还是测试环境中工作。我们尽了最大努力使其适用于数据库结构经常变化的动态开发项目。在最新版本中，添加了跨数据库链接单元以生成相同值的功能。  由于我们非常希望让该工具尽可能舒适和实用 - 任何反馈、贡献或只是一颗星都会非常有帮助和激励！    提交人    /u/marasypale   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ebsomm/nxsdataanonymizer/</guid>
+      <pubDate>Thu, 25 Jul 2024 11:38:03 GMT</pubDate>
+    </item>
     <item>
       <title>有人会感兴趣吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ebo2iw/would_anyone_be_interested/</link>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 24 Jul 2024 14:37:18 GMT</pubDate>
     </item>
     <item>
-      <title>寻找能与我们一起开发开源 Blazor CMS 项目的人：FluentCMS</title>
+      <title>寻找能与我们一起致力于开源 Blazor CMS 项目的人：FluentCMS</title>
       <link>https://www.reddit.com/r/opensource/comments/1eb2uji/looking_for_someone_to_join_us_working_on_an_open/</link>
       <description><![CDATA[大家好， 几个月前，我一直在开发一个名为 FluentCMS 的开源项目。这是一个开源 Blazor（服务器端）CMS（无头支持）。我正在寻找可以在以下方面提供帮助的人：  Blazor 开发 UX/UI 设计 文档和社区标准审查（不确定标题！）  如果您想了解更多信息，我很乐意安排一次快速视频通话以跟进。 这是项目链接 https://github.com/fluentcms/FluentCMS 感谢您的考虑。   由    /u/pournasserian  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eb2uji/looking_for_someone_to_join_us_working_on_an_open/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[https://docs.cubyc.com/    由   提交  /u/Durovilla   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eab2h4/cubyc_track_and_query_your_ml_experiments_on/</guid>
       <pubDate>Tue, 23 Jul 2024 15:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>ultrafocus：CLI 工具，用于阻止分散注意力的网站并提高工作效率。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ea776z/ultrafocus_cli_tool_to_block_distracting_websites/</link>
-      <description><![CDATA[        提交人    /u/der_gopher   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ea776z/ultrafocus_cli_tool_to_block_distracting_websites/</guid>
-      <pubDate>Tue, 23 Jul 2024 12:58:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Expedite - 一种简单的人类加密文件传输服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ea5qky/introducing_expedite_a_simple_encrypted_file/</link>
-      <description><![CDATA[目标 Expedite 是一种简单的加密文件传输服务，允许人们彼此同步共享资产，而不必依赖第三方文件共享服务（并且不断担心他们的数据可能被如何使用）或需要有公开可见的 IP 地址（并​​且不断担心脚本小子攻击您的计算机）。 Expedite Server 可以部署在虚拟专用服务器上，该服务器具有一个可被 Expedite Client 用户发现的 IP 地址，以代理文件内容。使用 WebSockets 进行的传输使用 128 位高级加密标准 进行端到端加密，并且服务器仅限于将无法识别的活动记录到易失性存储器中。 插图 Expedite Bridge - GUI 客户端 感觉很方便  https://raw.githubusercontent.com/gridhead/expedite/main/data/bridge-send-stat.png https://raw.githubusercontent.com/gridhead/expedite/main/data/bridge-recv-stat.png https://raw.githubusercontent.com/gridhead/expedite/main/data/bridge-send-prog.gif https://raw.githubusercontent.com/gridhead/expedite/main/data/bridge-recv-prog.gif  Expedite Prompt - CLI 客户端 看起来很酷  https://raw.githubusercontent.com/gridhead/expedite/main/data/prompt-send-stat.png https://raw.githubusercontent.com/gridhead/expedite/main/data/prompt-recv-stat.png https://raw.githubusercontent.com/gridhead/expedite/main/data/prompt-send-prog.gif https://raw.githubusercontent.com/gridhead/expedite/main/data/prompt-recv-prog.gif  Expedite Server - 经纪服务 啊，是的 - 谈判者  https://raw.githubusercontent.com/gridhead/expedite/main/data/brok-stat.png  尝试 如果这看起来让您感到兴奋，请考虑使用公开可用的服务器试用该项目，并让我知道如何通过提交软件错误或功能请求问题单来进一步改进该项目。 为项目存储库加星标、为代码库做贡献或赞助我继续从事更多 FOSS 项目，将永远不胜感激！&lt;3 每当将提交推送到存储库时，都会使用 PyInstaller 在 GitHub Actions CI 上构建二进制文件。请访问项目存储库的 GitHub Actions 页面 下载构建。虽然该项目可以在任何支持 Python 的平台上运行，但自动构建仅适用于 GNU/Linux 发行版和 x86-64 架构的 Microsoft Windows。 资源  Expedite - GitHub Expedite - PyPI Expedite - Docker Hub Gridhead - GitHub 赞助商     提交人    /u/t0xic0der   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ea5qky/introducing_expedite_a_simple_encrypted_file/</guid>
-      <pubDate>Tue, 23 Jul 2024 11:43:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
