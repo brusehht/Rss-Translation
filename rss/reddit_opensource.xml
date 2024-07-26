@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Jul 2024 06:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 09:14:02 GMT</lastBuildDate>
+    <item>
+      <title>如果 portmaster 有付费功能，它怎么能成为 foss 呢</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ech8sa/how_can_portmaster_be_foss_if_it_has_paid_features/</link>
+      <description><![CDATA[  由    /u/nekohacker591_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ech8sa/how_can_portmaster_be_foss_if_it_has_paid_features/</guid>
+      <pubDate>Fri, 26 Jul 2024 06:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 FAANG 公司要开源他们宝贵的人工智能模型？</title>
       <link>https://www.reddit.com/r/opensource/comments/1eccv8l/why_faang_companies_are_open_sourcing_their/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[      大家好！我们的团队已经在这个项目上工作了很长时间，但我们正在寻找改进和开发它的新想法。因此，如果您对功能有任何反馈，或者对支持其他数据库（可能是一些 noSQL？）有任何想法，我们将不胜感激。  nxs-data-anonymizer 是一款方便的工具，可用于管理 MySQL、PostgreSQL、Percona 和 MariaDB 等数据库中的敏感数据。它可以帮助您安全地匿名化数据，无论您是在生产设置还是测试环境中工作。我们尽了最大努力使其适用于数据库结构经常变化的动态开发项目。在最新版本中，添加了跨数据库链接单元以生成相同值的功能。  由于我们非常希望让该工具尽可能舒适和实用 - 任何反馈、贡献或只是一颗星都会非常有帮助和激励！    提交人    /u/marasypale   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ebsomm/nxsdataanonymizer/</guid>
       <pubDate>Thu, 25 Jul 2024 11:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人会感兴趣吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ebo2iw/would_anyone_be_interested/</link>
-      <description><![CDATA[您好，我不太了解网络编程或其他东西，但我知道如何领导一个团队并让事情发生，而且我在有机营销方面真的很有天赋。有人有兴趣创建一个新的 Omegle 吗？现在可用的材料很糟糕。     提交人    /u/Mysterious-Web-9247   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ebo2iw/would_anyone_be_interested/</guid>
-      <pubDate>Thu, 25 Jul 2024 06:35:00 GMT</pubDate>
     </item>
     <item>
       <title>🔧🚀 介绍 FileSpacer：您的终极文件压缩和提取工具！</title>
