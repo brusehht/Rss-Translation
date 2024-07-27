@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Jul 2024 12:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 15:11:54 GMT</lastBuildDate>
+    <item>
+      <title>需要一本好书来指导我的认知心理学课程，将认知心理学与人工智能 / genAI 联系起来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edh6gk/need_good_book_to_assign_my_cognitive_psych_class/</link>
+      <description><![CDATA[你好， 我是认知心理学教授。除了正常的讲座材料外，我通常会在 200 级认知心理学课程中指定 Kahneman 的《思考，快与慢》。 我正在修改课程，在很多相关的地方涉及生成式人工智能，但我很想找一本书（非教科书）来指定，让他们快速了解或思考人工智能与认知心理学的关系。 针对一般读者，而不是计算机科学专业。 你能想到有什么适合这门课的东西吗，或者我应该结合一些较小的阅读材料？    提交人    /u/notthatkindadoctor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edh6gk/need_good_book_to_assign_my_cognitive_psych_class/</guid>
+      <pubDate>Sat, 27 Jul 2024 14:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从语音音频中提取表现力，然后获得提取的表现力曲线？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edfc32/how_do_i_extract_the_expressiveness_out_of_a/</link>
+      <description><![CDATA[这应该是我将要创建的数据集的预处理步骤。我正在整合一堆技术，以便能够创建速度最快且仍然足够好的文本转语音模型（festival 是我发现的最好的开源且速度足够快的模型）。它将被迫通过语音转换数据集预处理在单个扬声器上工作，并且从架构的角度来看非常像 LLM 类变压器模型，因此我将能够流式传输它的输出。 我尝试将音频压缩成 STFT 标记之类的东西，然后以另一种方式输出，看起来如果它只是一个扬声器，我可能能够像我们对文本那样对音频进行标记，如果我添加更多的压缩以支持更多种类的语音，只要听起来不错，我就可以训练一个特定的升频器，它无论如何都要实时工作。 我在想，也许我可以在模型中为表现力驱动程序留出一点空间，以便使用这个 TTS 模型的 LLM 可以学习驱动表达本身。我的目标是让它成为一条音频曲线。基本上，我想以非常确定的方式将数据集中的声音渲染成单调，然后从原始样本中减去任何东西。这是否可能有效地完成？ 此外，我不在乎它是否有呼吸，这些小东西可以稍后通过其他东西添加到顶部，我的目标是研究像人类一样的语调。 为了给你一个想法，这是我能想到的测试短语，没有一个模型能够像我希望的那样读取它。 公主尖叫着“他的命运尚未确定，他将活下去！”。但为时已晚，他注定要死    提交人    /u/gabrielesilinic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1edfc32/how_do_i_extract_the_expressiveness_out_of_a/</guid>
+      <pubDate>Sat, 27 Jul 2024 12:33:15 GMT</pubDate>
+    </item>
     <item>
       <title>您认为人工智能将如何影响社会？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1edcyd5/how_do_you_think_ai_will_affect_society/</link>
@@ -62,25 +76,11 @@
       <pubDate>Sat, 27 Jul 2024 01:34:25 GMT</pubDate>
     </item>
     <item>
-      <title>从教授计算机到向人工智能学习：一个奇怪的循环</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eczqyk/from_teaching_computers_to_learning_from_ai_a/</link>
-      <description><![CDATA[大家好， 我是一名 28 岁的系统工程师，今年做了 10 年的软件工程师。（某种程度上是因为 AI..） 今天我在和 AI（Claude 和 Artifacts）学下国际象棋，突然，不知何故，我有一种和 10 年前学编程时一样奇怪的感觉。 我意识到我当时正在教计算机如何做某事。不知道为什么，今天我有了完全一样的感觉，只是反过来了。 我想知道是否还有更多人和我一样经历过这种事情。 我们已经成为计算机，而 AI 成为人类了吗？    提交人    /u/gillesduif   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eczqyk/from_teaching_computers_to_learning_from_ai_a/</guid>
-      <pubDate>Fri, 26 Jul 2024 21:40:15 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么此子网址中的“intelligence”一词拼写错误？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eczn4i/why_is_the_word_intelligence_spelled_wrong_in/</link>
       <description><![CDATA[有人忘记使用拼写检查还是故意的？拼写错误“Intelligence”只是一个颇具讽刺意味的疏忽    提交人    /u/False_Way_2255   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eczn4i/why_is_the_word_intelligence_spelled_wrong_in/</guid>
       <pubDate>Fri, 26 Jul 2024 21:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果没有人，人工智能就无法取代人们的工作。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ecl4rm/ai_cant_take_peoples_jobs_if_theres_no_people/</link>
-      <description><![CDATA[未来人类人口下降的可能性越来越大。也许劳动力将只是人工智能机器人，而不是年轻人。 PEW： 没有孩子的美国成年人的经历 57% 的 50 岁以下成年人表示他们不太可能生孩子，主要原因是他们只是不想生孩子； 31% 的 50 岁及以上没有孩子的人将此作为他们从未生过孩子的原因 https://www.pewresearch.org/social-trends/2024/07/25/the-experiences-of-u-s-adults-who-dont-have-children/    提交人    /u/baalzimon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ecl4rm/ai_cant_take_peoples_jobs_if_theres_no_people/</guid>
-      <pubDate>Fri, 26 Jul 2024 10:53:46 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊的 AI 芯片革命：如何摆脱 Nvidia 的高价并加速前进</title>
