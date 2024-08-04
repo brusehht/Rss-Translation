@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 04 Aug 2024 01:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 03:14:45 GMT</lastBuildDate>
+    <item>
+      <title>Omegle 已死，我们来建一个新的吧</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ejjvtg/omegle_is_dead_lets_build_a_new_one/</link>
+      <description><![CDATA[Omegle 几个月前因创建者的财务和个人原因正式关闭。我不知道还有其他类似的网站，并且搜索了很长时间。我使用过的其他每个应用程序都没有相同的按兴趣搜索功能，或者有一些糟糕的基于代币/硬币的支付系统。随着 Omegle 的消失，我看不到一个可以轻松填补其空白的网站。我相信开源社区能够创造出同等或更伟大的东西。 我是一名计算机科学专业的学生，​​已经编程了几年，很想找到其他有兴趣开始这样一个项目的人。这是一个时间敏感的问题，如果开源社区不抓住这个机会，公司就会抓住。 Element Calls 似乎是一个潜在的平台，它的界面比 Omegle 更简洁，并支持屏幕共享。它是根据 Apache 2.0 许可证开源的，这是一个非常宽松的许可证。Element 还使用了 Node.js 和 Typescript 等现代技术。现在您可以访问他们的 Web 应用程序，创建呼叫，并通过无需登录的链接邀请其他人，因此很容易进行实验。 必须添加的功能包括加入与陌生人的随机通话并添加聊天框。否则，它全部已由开源开发人员构建，甚至看起来是加密的，这比非常不安全的 Omegle 要好得多。 让我知道你们的想法。您可以查看 github 此处 并通过第一个链接进行实验。    提交人    /u/rickowensfather   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ejjvtg/omegle_is_dead_lets_build_a_new_one/</guid>
+      <pubDate>Sun, 04 Aug 2024 01:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一种简单的方法来跟踪我的业务订单</title>
       <link>https://www.reddit.com/r/opensource/comments/1ejgjgd/looking_for_a_simple_way_to_keep_track_of_orders/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Inkscape v1.4 beta2 已发布！自由绘图从未如此令人着迷。帮助我们测试扩展库和色板对话框大修并享受 20 种语言的翻译更新：https://inkscape.org/release/inkscape-1.4beta2 – 与我们分享您的错误报告！    提交人    /u/pulsar17   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1eied0f/inkscape_v14_beta2_has_launched/</guid>
       <pubDate>Fri, 02 Aug 2024 16:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Engine4D - MIT 授权的 Unity 工具包，用于制作 4D 游戏</title>
-      <link>https://www.reddit.com/r/opensource/comments/1eidr1t/engine4d_a_mitlicensed_unity_toolkit_for_making/</link>
-      <description><![CDATA[       由    /u/Wulfstrex  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1eidr1t/engine4d_a_mitlicensed_unity_toolkit_for_making/</guid>
-      <pubDate>Fri, 02 Aug 2024 16:00:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
