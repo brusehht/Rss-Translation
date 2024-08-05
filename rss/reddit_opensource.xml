@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 05 Aug 2024 12:25:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 15:14:19 GMT</lastBuildDate>
+    <item>
+      <title>一款便捷的应用程序，可在一处快速下载 YouTube 视频、文字记录、缩略图和频道数据。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ekpcmw/a_handy_app_for_quickly_downloading_youtube/</link>
+      <description><![CDATA[我发现手动下载各种 YouTube 资源的过程很痛苦，因此开发了一个免费的应用程序来帮助自己，也希望帮助其他人。 该应用程序包装了流行的 Python 库（`yt-dlp、scrapetube、youtube-transcript-api`），并使此功能更易于使用。 Python 和 Docker 版本可用。    提交人    /u/neonwatty   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ekpcmw/a_handy_app_for_quickly_downloading_youtube/</guid>
+      <pubDate>Mon, 05 Aug 2024 14:34:29 GMT</pubDate>
+    </item>
     <item>
       <title>“pigg”（适用于 Raspberry Pi GPIO 的 Rust 驱动 GUI）v0.3.3 发布！</title>
       <link>https://www.reddit.com/r/opensource/comments/1eklg74/pigg_rustpowered_gui_for_raspberry_pi_gpio_v033/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我一生都与技术息息相关，从我年轻时（12 岁）开始，我就一直在组装自己的电脑，13 岁时我第一次使用 Ubuntu，自从我发现大约在同一时期有一个庞大的开源开发者社区以来，我就一直关注并热爱开源软件。 快进到现在，我 28 岁，我从未上过大学，在 18 到 25 岁之间做过大约 7 年的厨师，在企业 IT 领域工作了大约 3 年，尽管我已经管理我父亲的小型企业网络基础设施大约 5 年了。在此期间，我已从初级 IT 技术员晋升为我们支持服务部​​门的二级技术员，我一直在努力学习。我已经完成了安全 +、Microsoft SC-200（Azure）以及本月晚些时候计划参加的 CCNA 考试的所有培训。我所修的课程都配有相当全面的实验室，我对通过考试充满信心。 我有一个相当强大的家庭网络，配有防火墙（使用 proxmox 虚拟化）、基于 Truenas 构建的 NAS，并且我托管了一系列 Web 服务，包括一个 AI 聊天服务器（使用 Ollama + Openweb-UI）、几个 WordPress 网站（一个是个人网站，一个是我父亲的公司网站）、一个项目管理套件（甘特图、票证、全部 9 码）、Wazuh XDR 和一个媒体服务器等。 我发现自己想要进入下一个级别，无论是在网络工程还是安全方面，尽管我面临的一个明显问题是，我觉得我对典型的 Windows 服务器架构和层次结构没有得到足够的了解。我对评估版进行了一些修改，尽管我从未在工作或实验室环境中设置和完成基于 Windows 的环境。主要是因为它对我来说非常无聊，我的整个实验室和家庭环境都在 Linux 和开源软件上运行。 如果没有这方面的经验，我在网络安全或网络工程领域有前途吗？是否值得努力奋斗并建立 Windows 环境，或者我是否可以在行业中前进，而重点不在于典型的 Windows 运行时？ 谢谢。    提交人    /u/PP_Mclappins   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ejm4b2/fork_in_the_road/</guid>
       <pubDate>Sun, 04 Aug 2024 03:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omegle 已死，我们来建一个新的吧</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ejjvtg/omegle_is_dead_lets_build_a_new_one/</link>
-      <description><![CDATA[Omegle 几个月前因创建者的财务和个人原因正式关闭。我不知道还有其他类似的网站，并且搜索了很长时间。我使用过的其他每个应用程序都没有相同的按兴趣搜索功能，或者有一些糟糕的基于代币/硬币的支付系统。随着 Omegle 的消失，我看不到一个可以轻松填补其空白的网站。我相信开源社区能够创造出同等或更伟大的东西。 我是一名计算机科学专业的学生，​​已经编程了几年，很想找到其他有兴趣开始这样一个项目的人。这是一个时间敏感的问题，如果开源社区不抓住这个机会，公司就会抓住。 Element Calls 似乎是一个潜在的平台，它的界面比 Omegle 更简洁，并支持屏幕共享。它是根据 Apache 2.0 许可证开源的，这是一个非常宽松的许可证。Element 还使用了 Node.js 和 Typescript 等现代技术。现在您可以访问他们的 Web 应用程序，创建呼叫，并通过无需登录的链接邀请其他人，因此很容易进行实验。 必须添加的功能包括加入与陌生人的随机通话并添加聊天框。否则，它全部已由开源开发人员构建，甚至看起来是加密的，这比非常不安全的 Omegle 要好得多。 让我知道你们的想法。您可以查看 github 此处 并通过第一个链接进行实验。    提交人    /u/rickowensfather   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ejjvtg/omegle_is_dead_lets_build_a_new_one/</guid>
-      <pubDate>Sun, 04 Aug 2024 01:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
