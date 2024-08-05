@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 05 Aug 2024 00:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 03:15:04 GMT</lastBuildDate>
     <item>
-      <title>新的 Discord 开源替代品——意见和想法？</title>
+      <title>新的 Discord 开源替代品 - 意见和想法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ek6chf/new_discord_open_source_alternative_opinions/</link>
       <description><![CDATA[大家好！ 我是来自奥地利的开发人员，我对这篇文章感到非常兴奋。不久前，我开始开发一款新的聊天应用程序，该应用程序应该成为 discord / guilded 等的替代品。 该应用程序的目标是能够自己托管聊天应用程序，例如 TeamSpeak，同时它看起来更现代，如 discord / guiled 等。它仍处于早期访问状态，但可以使用 :) 我曾经在 discord 上有一个大约有 2k 名成员的服务器，我们遇到了用户使用 alt 帐户等大量发送直接消息的问题，当我联系 discord 时，他们的支持并不是最好的。这种依赖是我不喜欢的，因为他们的回复花了 3 个月的时间，而且也没有解决任何问题。 我对 discords 审核工具也不太满意，曾经有一个自定义机器人，我在其中实现了自己的“更高级”的审核工具。 因此，我尝试公会并成为 16k 服务器 /anime 的工作人员，但结果发现它和 discord 一样有缺陷。 还有其他替代方案，例如revolt，但我不太喜欢它的用户界面（个人喜好）和矩阵，它似乎“很难”上手。 fosscord 是我从未尝试过的东西，因为据我所知它是一个逆向工程的服务器等等，这就是为什么我没有开始使用它，因为我看不到它的未来。 （最初） 人们还提到了像 discourse 这样的平台，但检查之后发现它好像是付费的，这一点我不喜欢。 我还记得当时的 TeaSpeak，但它也值得怀疑，并且不再积极开发了。 不久前，我在 github 上发布了我的应用程序“DCTS”。我喜欢从事这项工作，看到人们在项目中互相贡献和帮助，这种感觉真是无法用语言描述，但它给我带来了很多快乐。我很好奇这个项目未来的发展如何。    提交人    /u/HackTheDev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ek6chf/new_discord_open_source_alternative_opinions/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>在亚马逊墨西哥站销售免费软件合乎道德吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ejevhv/is_it_ethical_to_sell_free_software_on_amazon/</link>
-      <description><![CDATA[大家好，下午好。 最近，我好奇地调查了亚马逊墨西哥站上最畅销的 50 种产品，偶然发现了一些非常有趣的东西，我想听听你们的看法。我注意到有人在卖开源软件，只有一张 CD，没有任何附加价值，例如技术支持。坦率地说，我不知道这是否合法或合乎道德，我只是一无所知。卖家以 399 比索（每件约 20 美元）的价格卖出了数千件。我分享这些链接是为了让你们自己看看，并就此事给我你们的意见。我非常感谢您提前提供宝贵且尊重的反馈。 LibreOffice：https://www.amazon.com.mx/LibreOffice-Professional-Compatible-Microsoft-PowerPoint/dp/B06XNJB66F#customerReviews OpenOffice： https://www.amazon.com.mx/Kompatibel-Microsoft-PowerPoint-unterst%C3%BCtzt-OpenOffice/dp/B0BLK7RCY6/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ACNo7kzGyCjTLFBeEjLEcNrSICUaMKG7jHR-AXHAkp-3ZtNSkgFEhws26hz6bVunPBF5w yDXhbrkAT0hfWyEzTm9JSfu6l8nX3Ws9itlpXw.bJaCpq6fIkm0GkldddHP-8HM3_TfJukNUOrp2c1Z078&amp;dib_tag=se&amp;keywords=PixelClassics&amp;qid=1722721458&amp;sr=8-6 GIMP： https://www.amazon.com.mx/GIMP-Editor-Fotos-2024-profesional/dp/B06WP73RDN/ref=pd_rhf_se_s_pd_crcd_d_sccl_2_2/138-8303986-2297834?pd_rd_w=2d1M0&amp;content-id=amzn1.sym.fde347 74-d565-4130-942a-f71a0 ea6b029&amp;pf_rd_p=fde34774-d565-4130-942a-f71a0ea6b029&amp;pf_rd_r=SQ6JCG6Q9HJ5V44B55G0&amp;pd_rd_wg=KwPS8&amp;pd_rd_r=2ef086cc-e759-476a-9355-bb372622808f&amp;pd_rd_i=B06WP73RDN&amp;psc=1 非常感谢！    提交人    /u/felminem   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，下午好。 最近，我好奇地调查了亚马逊墨西哥站上最畅销的 50 种产品，偶然发现了一些非常有趣的东西，我想听听你们的看法。我注意到有人在卖开源软件，只有一张 CD，没有任何附加价值，例如技术支持。坦率地说，我不知道这是否合法或合乎道德，我只是无知地说了出来。卖家以 399 比索（每件约 20 美元）的价格卖出了数千件。我分享这些链接是为了让你们自己看看，并就此事给我你们的看法。我非常感谢您提前提供宝贵且尊重的反馈。 LibreOffice：https://www.amazon.com.mx/LibreOffice-Professional-Compatible-Microsoft-PowerPoint/dp/B06XNJB66F#customerReviews OpenOffice： https://www.amazon.com.mx/Kompatibel-Microsoft-PowerPoint-unterst%C3%BCtzt-OpenOffice/dp/B0BLK7RCY6/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ACNo7kzGyCjTLFBeEjLEcNrSICUaMKG7jHR-AXHAkp-3ZtNSkgFEhws26hz6bVunPBF5w yDXhbrkAT0hfWyEzTm9JSfu6l8nX3Ws9itlpXw.bJaCpq6fIkm0GkldddHP-8HM3_TfJukNUOrp2c1Z078&amp;dib_tag=se&amp;keywords=PixelClassics&amp;qid=1722721458&amp;sr=8-6 GIMP： https://www.amazon.com.mx/GIMP-Editor-Fotos-2024-profesional/dp/B06WP73RDN/ref=pd_rhf_se_s_pd_crcd_d_sccl_2_2/138-8303986-2297834?pd_rd_w=2d1M0&amp;content-id=amzn1.sym.fde347 74-d565-4130-942a-f71a0 ea6b029&amp;pf_rd_p=fde34774-d565-4130-942a-f71a0ea6b029&amp;pf_rd_r=SQ6JCG6Q9HJ5V44B55G0&amp;pd_rd_wg=KwPS8&amp;pd_rd_r=2ef086cc-e759-476a-9355-bb372622808f&amp;pd_rd_i=B06WP73RDN&amp;psc=1 非常感谢！    提交人    /u/felminem   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ejevhv/is_it_ethical_to_sell_free_software_on_amazon/</guid>
       <pubDate>Sat, 03 Aug 2024 21:47:35 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>管理多个地点的软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1ej0p9q/software_to_manage_multiple_locations/</link>
-      <description><![CDATA[我在密苏里州拥有并经营 7 家税务所。我正在寻找一种软件解决方案，可以帮助我跟踪即将到来的负债，如账单和工资单，以及设施细节，如营业执照和维护。我们一年有 8 个月不营业，但这些费用和维护要求并没有停止。 租金、水电费、营业执照、租约到期/续约、租约要求每季度进行的暖通空调维护等，全部按存储桶/位置分组。我一直在 Outlook 中使用日历，但多用户和基于权限的日历会更理想。    提交人    /u/Jlzzleizzle   [链接] [评论]]]></description>
+      <description><![CDATA[我在密苏里州拥有并经营 7 家税务所。我正在寻找一种软件解决方案，可以帮助我跟踪即将到来的负债，如账单和工资单，以及设施细节，如营业执照和维护。我们一年有 8 个月不营业，但这些费用和维护要求并没有停止。 租金、水电费、营业执照、租约到期/续约、租约要求每季度进行的暖通空调维护等，全部按存储桶/位置分组。我一直在 Outlook 中使用日历，但多用户和基于权限的日历将是理想的选择。    提交人    /u/Jlzzleizzle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ej0p9q/software_to_manage_multiple_locations/</guid>
       <pubDate>Sat, 03 Aug 2024 11:04:57 GMT</pubDate>
     </item>

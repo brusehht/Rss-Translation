@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 05 Aug 2024 00:59:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 03:14:36 GMT</lastBuildDate>
+    <item>
+      <title>使用 Locust 进行 Websocket 服务器负载测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1ekdhe1/load_testing_websocket_servers_using_locust/</link>
+      <description><![CDATA[  由    /u/madhur_ahuja  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ekdhe1/load_testing_websocket_servers_using_locust/</guid>
+      <pubDate>Mon, 05 Aug 2024 03:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>微服务：无限可扩展性的乐土</title>
+      <link>https://www.reddit.com/r/programming/comments/1ekbe8d/microservices_the_promised_land_of_infinite/</link>
+      <description><![CDATA[  由    /u/microbus-io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ekbe8d/microservices_the_promised_land_of_infinite/</guid>
+      <pubDate>Mon, 05 Aug 2024 01:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高你的水平：软件工程师的基本技能</title>
+      <link>https://www.reddit.com/r/programming/comments/1ekb0ub/up_your_game_fundamental_skills_for_software/</link>
+      <description><![CDATA[  由    /u/ruslanspivak  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ekb0ub/up_your_game_fundamental_skills_for_software/</guid>
+      <pubDate>Mon, 05 Aug 2024 01:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>我很高兴与大家分享我参与的这个 30 天 Linux 基础项目。第 2-4 周的学习将随之进行，因此本周日将发布第 2 周的内容等。！</title>
       <link>https://www.reddit.com/r/programming/comments/1ek9xts/im_happy_to_share_this_30daysoflinuxfundamentals/</link>
@@ -13,32 +34,11 @@
       <pubDate>Mon, 05 Aug 2024 00:06:35 GMT</pubDate>
     </item>
     <item>
-      <title>Stack Auth：一种开源的 Auth0/Clerk/Firebase Auth 替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1ek9sgc/stack_auth_an_opensource_auth0clerkfirebase_auth/</link>
-      <description><![CDATA[  由    /u/feastofthepriest  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ek9sgc/stack_auth_an_opensource_auth0clerkfirebase_auth/</guid>
-      <pubDate>Sun, 04 Aug 2024 23:59:49 GMT</pubDate>
-    </item>
-    <item>
       <title>如何将动画与 AnimatedBuilder 相结合（2024）</title>
       <link>https://www.reddit.com/r/programming/comments/1ek9f89/how_to_combine_animations_with_animatedbuilder/</link>
       <description><![CDATA[  由    /u/MufungoGeeks  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ek9f89/how_to_combine_animations_with_animatedbuilder/</guid>
       <pubDate>Sun, 04 Aug 2024 23:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助我解决此错误 [ASP.NET & REACT]</title>
-      <link>https://www.reddit.com/r/programming/comments/1ek8yzn/please_help_me_with_this_error_aspnet_react/</link>
-      <description><![CDATA[  由    /u/VrelaTamburica  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ek8yzn/please_help_me_with_this_error_aspnet_react/</guid>
-      <pubDate>Sun, 04 Aug 2024 23:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用此模板保证你的 github repo 安全且整洁</title>
-      <link>https://www.reddit.com/r/programming/comments/1ek88so/keep_your_github_repo_secure_and_clutter_free/</link>
-      <description><![CDATA[此模板旨在有效管理跨不同项目的版本控制跟踪内容，注重安全性并防止不必要的混乱。  通过广泛的类别，可轻松针对任何项目进行定制。 https://github.com/D-3-X/Rodent-Repo/tree/main/templates#github-related-templates)    提交人    /u/Rodent_Dex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ek88so/keep_your_github_repo_secure_and_clutter_free/</guid>
-      <pubDate>Sun, 04 Aug 2024 22:48:15 GMT</pubDate>
     </item>
     <item>
       <title>C3 中的 Risc-V 裸机 Hello World</title>
@@ -60,13 +60,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ek31gr/good_code_is_rarely_read/</guid>
       <pubDate>Sun, 04 Aug 2024 19:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码、创造、启发：Web 开发的艺术”</title>
-      <link>https://www.reddit.com/r/programming/comments/1ek2mtx/code_create_inspire_the_art_of_web_development/</link>
-      <description><![CDATA[  由    /u/Emetisuccess  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ek2mtx/code_create_inspire_the_art_of_web_development/</guid>
-      <pubDate>Sun, 04 Aug 2024 18:48:29 GMT</pubDate>
     </item>
     <item>
       <title>WhenFS：适用于您的 Google 日历的 Rust FUSE 文件系统（是的，Google 日历文件系统）</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ejyi1v/how_to_propose_an_impactful_improvement_to_the/</guid>
       <pubDate>Sun, 04 Aug 2024 15:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>家居设计师转型为软件架构师可以教你什么软件设计知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1ejy43e/what_a_home_designer_turned_software_architect/</link>
+      <description><![CDATA[  由    /u/xxjcutlerxx  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ejy43e/what_a_home_designer_turned_software_architect/</guid>
+      <pubDate>Sun, 04 Aug 2024 15:38:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
