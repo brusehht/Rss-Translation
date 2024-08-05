@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 03:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:18:00 GMT</lastBuildDate>
+    <item>
+      <title>迄今为止最大的法学硕士课程所接受的培训的单词量</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekgqw3/amount_of_words_the_biggest_llms_have_been/</link>
+      <description><![CDATA[据我所知，这并未公开披露 - 对于最大的单个模型已经训练了多少个单词，一个很好的估计是什么？    提交人    /u/adam_ford   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekgqw3/amount_of_words_the_biggest_llms_have_been/</guid>
+      <pubDate>Mon, 05 Aug 2024 06:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 chatgpt 分析我的小说</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekge6k/i_used_chatgpt_for_an_analysis_on_my_novel/</link>
+      <description><![CDATA[结果确实不错。我与 r/ 作家分享了这一点，但他们并不太高兴。他们说，如果我的作品得到了 AI 的详细回复，那就意味着我的写作一定很肤浅，写得不好。人工智能似乎非常了解我的故事和动机。我尝试找一些人类读者，但厌倦了四处询问并得到懒惰的反馈。人工智能总结给了我一些其他人已经暗示过的好建议，所以我将遵循它的建议。    提交人    /u/Sweetsacraments   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekge6k/i_used_chatgpt_for_an_analysis_on_my_novel/</guid>
+      <pubDate>Mon, 05 Aug 2024 05:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>呼吁那些希望文档自动化成为未来的人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekffjv/a_call_to_individuals_who_want_document/</link>
+      <description><![CDATA[  由    /u/dhj9817  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ekffjv/a_call_to_individuals_who_want_document/</guid>
+      <pubDate>Mon, 05 Aug 2024 04:54:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 8 月 4 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eke4wm/oneminute_daily_ai_news_842024/</link>
+      <description><![CDATA[ OpenAI 不会给 ChatGPT 文本加水印，因为其用户可能会被抓住。[1] 谷歌宣布新的开放 AI 模型 Gemma 2 2B；旨在击败其他生成式 AI 模型。[2] Yelp 可能不是有人提到人工智能时首先想到的公司，但首席产品官 Craig Saldanha 表示，AI 已经在改变 Yelp 的体验。[3] 微软 旗下的 GitHub 推出平台，帮助超过“1 亿开发人员成为 AI 工程师”。[4]  来源包括：https://bushaicave.com/2024/08/04/8-4-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eke4wm/oneminute_daily_ai_news_842024/</guid>
+      <pubDate>Mon, 05 Aug 2024 03:40:58 GMT</pubDate>
+    </item>
     <item>
       <title>职业生涯的下一步？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ekctes/next_career_step/</link>
@@ -20,13 +48,6 @@
       <pubDate>Mon, 05 Aug 2024 00:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>是我绊倒了还是聊天 gpt 绊倒了？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ek6lgu/am_i_tripping_or_chat_gpt_is_tripping/</link>
-      <description><![CDATA[me;- 当用户提出问题时，模型会回头在其数据库中查找类似模式的问题，创建一个问题，对其进行分析，使用数据库中的数据根据​​对类似问题的响应模式生成对新查询的响应，如果用户喜欢该响应，则人工智能会将这个新的问题-响应对添加到其数据库中以便更好地学习。就人工智能而言，这是什么？ 聊天 gpt；- 监督和无监督学习的混合系统 我：- 就不同行业的其他人工智能产品而言，构建这种混合系统的难度而言，以 1 到 10 为等级？ 聊天 gpt：- 考虑到这些挑战，构建这样的混合系统将被评级： 9/10：这反映了机器学习、自然语言处理、实时数据处理和系统架构所需的高复杂性和大量专业知识。由于需要持续适应和实时性能，其难度堪比开发先进的人工智能系统，如自动驾驶汽车或尖端医疗保健解决方案。 自动驾驶汽车？所以你是说这些简单的事情只需要相对较大的数据库就会像自动驾驶汽车一样复杂？ ps;-( 我是人工智能新手，所以我只是在学习人工智能的工作原理，到目前为止没有任何编码经验） 这个关于评级的聊天 gpt 回应是真实的吗？    提交人    /u/alfa_adi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ek6lgu/am_i_tripping_or_chat_gpt_is_tripping/</guid>
-      <pubDate>Sun, 04 Aug 2024 21:35:13 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能和虚拟现实能解决孤独问题吗？够了吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ek5ux3/can_ai_and_virtual_reality_solve_loneliness_is_it/</link>
       <description><![CDATA[我最近发现了这个 YouTube 视频 https://youtu.be/GTjPqt9X8V8?si=yLDoU_7JdIRNuGi- 我认为答案是肯定的。你怎么看？    提交人    /u/vikasofvikas   [链接] [评论]]]></description>
@@ -36,7 +57,7 @@
     <item>
       <title>大家好！有人能告诉我用什么应用程序/AI 来生成这些视频吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ek4qx6/hi_guys_could_someone_please_tell_me_what_app_ai/</link>
-      <description><![CDATA[https://www.facebook.com/share/v/hkyPDyZbYp9HZQAb/ 我喜欢这些可爱的猫！！！如果可以的话谢谢你的帮助😊    提交人    /u/greatmeaning   [link] [评论]]]></description>
+      <description><![CDATA[https://www.facebook.com/share/v/hkyPDyZbYp9HZQAb/ 我喜欢这些可爱的猫！！！如果可以的话，谢谢你的帮助😊    提交人    /u/greatmeaning   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ek4qx6/hi_guys_could_someone_please_tell_me_what_app_ai/</guid>
       <pubDate>Sun, 04 Aug 2024 20:16:14 GMT</pubDate>
     </item>
@@ -55,23 +76,9 @@
       <pubDate>Sun, 04 Aug 2024 14:25:25 GMT</pubDate>
     </item>
     <item>
-      <title>Cohere Command-R 微调策略建议</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ejw2jf/cohere_commandr_fine_tuning_strategy_advice/</link>
-      <description><![CDATA[我玩过微调模型，主要是在 OpenAi，但我即将坐下来有意训练 Command-R 模型。我正在努力想出最好的策略。这是我的用例： 用户发送某种内容和年级（用户将选择年级并编写/粘贴他们的内容，应用程序会将其插入到一个简单的提示中并将其发送给 AI），AI 识别主题并发回 1）关于主题的 3-4 句描述和 2）四个问题。 这四个问题遵循分类框架，这基本上增加了难度。上下文和问题应该针对特定年级编写。 我有大约两千个干净的上下文内容 + 支架问题示例需要发回，但没有针对不同年级进行调整的内容。 微调计划是将内容 + 所有四个问题发送给人工智能，作为它应该生成并发回的内容的示例，使用系统前言来解释支架方法并提供关于调整或年级的高级说明。 支架是最重要的，所以我的问题是，我应该坚持上述计划，还是将我的数据分解到问题类别中，以便更好地在这些类别上训练人工智能？ 当然，这会使我的训练集以及时间和成本增加四倍，而且我觉得我并没有训练人工智能真正地将_相关_问题反馈给用户。这是 Claude 对这个问题的回答： 为了训练 Cohere 模型来生成这种类型的内容，我建议将上下文和所有四个问题一起发送，作为一个训练示例。原因如下：  上下文理解：模型需要理解上下文和所有四个问题之间的关系。将它们一起发送有助于模型学习这种关系。 问题进展：支架旨在逐步增加难度。通过一起呈现所有问题，模型可以学习这种进展以及如何创建相互依存的问题。 有凝聚力的输出：您的目标是让模型生成完整的“课程”。在完整的示例上进行训练将有助于它学会产生有凝聚力、结构良好的输出。 效率：通常，在完整的示例上进行训练比在零散的部分上训练更有效率。 维护关系：某些问题可能会引用来自上下文或先前问题的信息。将所有内容放在一起可以保留这些关系。  老实说，我认为 Claude 可能是正确的，但我也确实需要一些有经验的人的意见。 为此，如果您对此感兴趣，我将不胜感激，但如果您回复，请告诉我您是否有调整模型的经验。我会让真正的人来测试这个，所以我真的想依靠那些做过这方面工作的人的经验（当然，还有分享这种经验的善意）。 提前谢谢您！   由    /u/sawyerthedog  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ejw2jf/cohere_commandr_fine_tuning_strategy_advice/</guid>
-      <pubDate>Sun, 04 Aug 2024 14:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义 GPT 是 RAG 模型的一个示例吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eju8hp/are_custom_gpts_an_example_of_a_rag_model/</link>
-      <description><![CDATA[几个月来，我一直在 OpenAI 平台内构建和使用自定义 GPT。最近，我阅读了一些有关 RAG 的文章，我不知道它们本质上是同一件事，还是 RAG 仅适用于其他 AI 模型。有人对此有明确的答案吗？    提交人    /u/ScienceWinner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1eju8hp/are_custom_gpts_an_example_of_a_rag_model/</guid>
-      <pubDate>Sun, 04 Aug 2024 12:36:32 GMT</pubDate>
-    </item>
-    <item>
       <title>LlamaCoder：使用 AI 和 React 构建任何 Web 应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ejnaki/llamacoder_build_any_web_app_using_ai_react/</link>
-      <description><![CDATA[LlamaCoder 由 Together.ai 推出，它可以在几秒钟内构建任何 Web 应用程序，甚至使用 LlamaCoder 3.1 展示工作 POC。代码甚至可以修改。看起来很适合在短时间内进行简短的演示：https://youtu.be/aQAj35dUYMs?si=FfLOGbbTacLGb5YU    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <description><![CDATA[LlamaCoder 由 Together.ai 推出，它可以在几秒钟内构建任何 Web 应用程序，甚至使用 LlamaCoder 3.1 展示工作 POC。代码甚至可以修改。看起来很适合快速进行简短演示：https://youtu.be/aQAj35dUYMs?si=FfLOGbbTacLGb5YU    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ejnaki/llamacoder_build_any_web_app_using_ai_react/</guid>
       <pubDate>Sun, 04 Aug 2024 04:58:28 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[偶然发现了关于 AI 伴侣变得“太真实”的整个争论。有点让我害怕，有点让我兴奋。就像，想象一下能够设计你的理想伴侣......几乎让梦想伴侣听起来很有吸引力。其他人有这种感觉吗，还是我只是很奇怪？    提交人    /u/High_Sleep3694   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ejkp22/ai_girlfriends_is_this_when_fantasy_becomes/</guid>
       <pubDate>Sun, 04 Aug 2024 02:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会推荐哪款免费的 AI 视频生成器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ej9cg7/what_free_ai_video_generator_would_you_recommend/</link>
-      <description><![CDATA[大家好，像许多其他人一样，我听说过许多提供免费计划的 AI 视频生成器，也看过关于它们的多个 YT 视频，Haiper AI 曾经是我最喜欢的，因为它对您可以创建的视频数量没有限制，但现在每天可以生成 10 个。有人知道哪个网站（或 discord 服务器）每天提供更多生成吗？    提交人    /u/AndresAP_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ej9cg7/what_free_ai_video_generator_would_you_recommend/</guid>
-      <pubDate>Sat, 03 Aug 2024 17:45:07 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
