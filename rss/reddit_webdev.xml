@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 06:20:05 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 06 Aug 2024 09:14:22 GMT</lastBuildDate>
+    <item>
+      <title>轻度动态网站的消亡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eld0t3/the_demise_of_the_mildly_dynamic_website/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eld0t3/the_demise_of_the_mildly_dynamic_website/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:06:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名开发人员，当你看到产品上出现 AI 流行语时，你的反应是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elcpxm/what_is_your_reaction_when_you_see_ai_buzzwords/</link>
+      <description><![CDATA[当您看到“人工智能驱动的未来”、“人工智能元素”之类的流行语时，您本能地有什么感觉？在看到 GitHub Universe 宣传片上到处都是人工智能后，我突然想问这个问题。包括面向开发人员的产品（如 GitHub），不那么面向开发人员的产品（如 Intercom），或者那些完全不适合开发人员且相当缺乏技术含量的产品 查看投票    由   提交 /u/blckJk004   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elcpxm/what_is_your_reaction_when_you_see_ai_buzzwords/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>博客垃圾邮件和搜索引擎优化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elcbjm/blogspam_and_seo/</link>
+      <description><![CDATA[我只是想发泄一下。我是一名开发人员，我经常需要跟踪我们为其创建登录页面的内容。 在 Google Analytics 中连接所有内容相对简单，但天哪，使用仪表板简直是一场噩梦。仪表板本身很好，但尝试找到任何不是博客垃圾邮件，SEO诱饵或AI生成的有用文档几乎是不可能的。 我想弄清楚事件报告的一些细节，我遇到了最长的文章：  Google Analytics（分析）中的事件历史记录 Google Analytics（分析）中的事件是什么 将我们的工具与Google Analytics（分析）结合使用 如何在Google Analytics（分析）中设置事件 在Google Analytics（分析）中报告事件  我明白这个主题特别受SEO专家这类文章的困扰，但我只想要一些好的文档，这样我就可以完成我的工作。 我只想编码..    提交人    /u/LISCoxH1Gj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elcbjm/blogspam_and_seo/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人从工程师角色转到产品角色了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elc54u/has_anyone_switched_from_an_engineering_role_to_a/</link>
+      <description><![CDATA[大家好。 我是一名 3 岁的软件工程师，最近对产品相关的角色着迷。别误会我的意思，我确实喜欢技术，但只是不想再当工程师了。 我一直在研究产品管理角色包括哪些内容，我发现这非常有趣。 有人转行了吗？如果有，你面临的挑战是什么。你需要学习哪些技能？ 我唯一担心的是我必须从零开始。 谢谢！很想听听任何见解。    提交人    /u/AgreeableBite6570   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elc54u/has_anyone_switched_from_an_engineering_role_to_a/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解领先科技公司算法的来源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elb96c/sources_to_learn_leading_tech_companies_algorithms/</link>
+      <description><![CDATA[Google 以其著名的 Page Rank 算法而闻名。Google Docs 和 Drive 有其同步算法。Netflix 有其推荐算法。可口可乐和其他供应商选择技术有其旅行商算法。你们能告诉我各行各业的领先公司还有哪些这样的实际应用和算法吗？也请提供编制此列表的来源。我只想了解这些算法背后的逻辑，而不是正确的代码。    提交人    /u/Nice-Dirt-link   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elb96c/sources_to_learn_leading_tech_companies_algorithms/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在还有人真的使用 Angular 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elapzu/does_anyone_really_use_angular_anymore/</link>
+      <description><![CDATA[我团队中的每个人都执意要使用 React，我不知道，我个人觉得它更令人困惑。Angular 感觉就像普通的 HTML，带有一些有用的 Java 类类，我喜欢它。更不用说我们来自一个与 angular 非常相似的 Aurelia 应用程序，所以我试图向团队解释，它的学习曲线较低。但遗憾的是，我被整个团队否决了    提交者    /u/Traditional_Hat_915   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elapzu/does_anyone_really_use_angular_anymore/</guid>
+      <pubDate>Tue, 06 Aug 2024 06:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>当同时使用“hocus”和“active”修饰符时，卡在 Tailwind 上。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elapuh/stuck_on_tailwind_when_using_hocus_and_active/</link>
+      <description><![CDATA[我正在学习使用 Tailwind 并按照此处的教程操作： https://tailwindcss.com/docs/plugins#static-variants 我试图添加&quot;hocus&quot; 变体，它是&quot;focus+hover&quot; 的简写。 如果我分别指定它们，则&quot;active&quot; 修饰符可以正常工作，如下所示： &lt;button className=&quot; bg-red-500 active:bg-red-400 focus:bg-red-600 hover:bg-red-600 &quot;&gt; 提交 &lt;/button&gt;  但是当我按照教程这样使用上面的变体时： &lt;button className=&quot; bg-red-500 active:bg-red-400 hocus:bg-red-600 &quot;&gt; 提交 &lt;/button&gt;  &quot;active&quot; 修饰符不再起作用，我认为它被&quot;hocus&quot; 特异性规则覆盖了。    提交人    /u/califarnio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elapuh/stuck_on_tailwind_when_using_hocus_and_active/</guid>
+      <pubDate>Tue, 06 Aug 2024 06:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么标题默认有一个上边距？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1elakil/why_do_headlines_have_a_margintop_by_default/</link>
+      <description><![CDATA[每次我做新项目时，都会碰到浏览器默认的标题间距 margin-top (h1-h6)，为所有标题设置 margin: 0，然后定义自己的间距。浏览器标准 margin-top 甚至按降序增加。 为什么浏览器默认为 margin-top？ 在我的所有项目中，我倾向于使用标题上的 margin-bottom 来定义与下一个元素的间距，标题本身的间距主要由前一个元素或容器的填充决定。 这是我尚未掌握的某种布局理念吗？有什么理由偏爱 margin-top？或者它最终只是浏览器的后备，以便内容部分（没有自定义 CSS）在视觉上是分开的，无论标记是什么样子？    提交人    /u/59t_5in3es1tvanj   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1elakil/why_do_headlines_have_a_margintop_by_default/</guid>
+      <pubDate>Tue, 06 Aug 2024 06:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>前端开发的演变：主要趋势和工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1el9x4w/evolution_of_frontend_development_key_trends_and/</link>
@@ -29,7 +85,7 @@
     <item>
       <title>婚礼登记整合？</title>
       <link>https://www.reddit.com/r/webdev/comments/1el874e/wedding_registry_integrations/</link>
-      <description><![CDATA[由于没有 r/weddev 😉 我尝试了每一个婚礼工具，但它们都擅长某些事情，而且自定义选项很少 我已经建立了一个网站，它看起来像我想要的那样，并且有一个联系人收集器 我的白鲸是注册表集成：我正在尝试找到任何方法来显示我们注册的各个商店的注册表项目，但同步到注册表和礼品状态。我假设一些通用注册表会提供 api，但没有那么幸运 我不想嵌入，因为我希望它是网站和风格的原生 （如果可能的话，我真的想尝试与 violet.io 之类的东西集成，以便在不离开页面的情况下进行统一结账） 有什么想法吗？ ♥️    由   提交  /u/Mediocre-Cicada   [链接] [评论]]]></description>
+      <description><![CDATA[由于没有 r/weddev 😉 我尝试了每一个婚礼工具，但它们都擅长某些事情，而且自定义选项很少 我已经建立了一个网站，它看起来像我想要的那样，并且有一个联系人收集器 我的白鲸是注册集成：我正在尝试找到任何方法来显示我们注册的各个商店的注册项目，但同步到注册和礼品状态。我以为一些通用注册表会提供 api，但没有那么幸运 我不想嵌入，因为我希望它是网站和风格的原生 （如果可能的话，我真的想尝试与 violet.io 之类的东西集成，以便在不离开页面的情况下进行统一结账） 有什么想法吗？ ♥️    由   提交  /u/Mediocre-Cicada   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1el874e/wedding_registry_integrations/</guid>
       <pubDate>Tue, 06 Aug 2024 03:59:16 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[有什么想法吗？    由   提交  /u/stewtech3   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1el6ju8/shadcn_vs_flowbite/</guid>
       <pubDate>Tue, 06 Aug 2024 02:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种 AWS 认证最适合全栈开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el5gz6/which_aws_certification_is_best_for_full_stack/</link>
-      <description><![CDATA[各位开发者大家好， 我目前是一名全栈开发人员，专注于 JavaScript、PHP 和各种数据库。我计划获得 AWS 认证，以提高我的云技能和职业机会。 对于全栈开发人员，您认为哪种 AWS 认证与我们的技能组合最匹配？以下是我一直在考虑的一些认证： • AWS 认证解决方案架构师 – 助理 • AWS 认证开发人员 – 助理 • AWS 认证 DevOps 工程师 – 专业人员  我很想听听您的想法，哪一个最相关、最有益。如果您参加过其中任何一项考试，您的体验如何？您有什么学习技巧吗？ 谢谢！    提交人    /u/rt_Mbk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el5gz6/which_aws_certification_is_best_for_full_stack/</guid>
-      <pubDate>Tue, 06 Aug 2024 01:41:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理阻碍项目完成的难缠客户</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el4pj2/how_to_deal_with_a_difficult_client_who_keeps_the/</link>
-      <description><![CDATA[您好，我是一个相当有经验的开发人员，我已经签约为一家装饰商品供应商开发一个网站，在我们开始之前，他们已经支付了定金，然后我在规定时间内完成了他们的网站，我告诉他们可以告诉我任何他们想更改的地方，但他们一直拖延了几周，直到几个月。我差点就关闭这个网站了，但是出于专业考虑我不能这样做，基本上他们一直让我做这些滴灌式的改变（我只是这么称呼它们），基本上是一点一点的改变，我觉得项目没有进展。 注意：我已经完成了网站的所有核心功能，包括主要变化。 因此，鉴于我已经要求至少 25%，所以只剩下 25%（他们付了 50% 的定金） 然后他的混蛋左手（他不是老板，和我签合同的人，他只是来监督的）告诉我： “我们已经公平地补偿了你网站建设的初始部分。 我相信在我们收集详细信息的同时，你可以找到其他网站建设工作。” 如何处理这些***???我已经等了几个月，他们仍然阻止我完成这个项目。我差点就拒绝他们访问了。请注意，我只花了 2 周时间就完成了该网站，而我们的时间表是 2-3 周完成构建    提交人    /u/SnooDoubts6167   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el4pj2/how_to_deal_with_a_difficult_client_who_keeps_the/</guid>
-      <pubDate>Tue, 06 Aug 2024 01:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以为本地创建域或拥有本地反向代理吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el4g9w/can_i_create_a_domain_for_local_or_have_a_local/</link>
-      <description><![CDATA[我本地有前端和后端应用程序，我通常将它们托管在 DigitalOcean 上，在那里我会有一个运行良好的 nginx！ 我想让它离线工作，这样用户就不必输入我的 IP 地址，他们可以连接到同一个网络并访问诸如“&lt;app&gt;.local”之类的东西。 一些易于实现并在以后删除的东西。我不需要永久或复杂的实现。    提交人    /u/jmaicaaan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el4g9w/can_i_create_a_domain_for_local_or_have_a_local/</guid>
-      <pubDate>Tue, 06 Aug 2024 00:53:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码已死吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el442n/is_coding_dead/</link>
-      <description><![CDATA[我确实了解一些 html、css、js、tailwinds、bootstrap 和一些 UI UX 技能，我的技能并不完美，但我可以建立可观的作品集、登陆页面...我现在正在寻找客户一段时间，只是为了激励自己学习更多，因为我开始觉得我这样做是徒劳的，但我发现人们都在寻找 wordpress 和 webflows 设计师，我知道我应该学习 react 来提高自己，但我不知道似乎人们正在寻找 CMS，因为它更便宜，他们可以自己修改一些部分，我该怎么办     提交人    /u/WearySwing8274   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el442n/is_coding_dead/</guid>
-      <pubDate>Tue, 06 Aug 2024 00:37:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 chrome 扩展程序收到了 LinkedIn 法律团队的法律投诉，威胁要从商店中移除。他们希望我的扩展程序不要“不当且未经授权修改 LinkedIn 网站上的信息”——这正是我的扩展程序的目的，哈哈。我该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el3k7u/my_chrome_extension_got_a_legal_complaint_from/</link>
-      <description><![CDATA[        提交人    /u/ManykNguyen   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el3k7u/my_chrome_extension_got_a_legal_complaint_from/</guid>
-      <pubDate>Tue, 06 Aug 2024 00:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Heroku 上将 Monorepo 部署为 2 个独立的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el2l1l/how_to_deploy_a_monorepo_as_2_separate_apps_on/</link>
-      <description><![CDATA[我正在构建一个应用程序，我的根目录有“frontend”和“backend”目录，每个目录都有一个 package.json。git repo 适用于根目录中的这两个目录。为了在 heroku 上部署，我知道我需要一个带有根目录中 heroku 的“说明”的 procfile。但是，这些说明对于前端和后端应用程序显然会有所不同。但我想通过将 heroku 与 github repo 连接起来进行部署。如果从问题中看不出来 - 我是新手。你会建议我怎么做？    提交人    /u/sock_pup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el2l1l/how_to_deploy_a_monorepo_as_2_separate_apps_on/</guid>
-      <pubDate>Mon, 05 Aug 2024 23:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚发布了 Power Plant —一个基于官方 ECMAScript 装饰器规范构建的小型依赖注入框架。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1el01ma/i_just_released_power_plant_a_small_dependency/</link>
-      <description><![CDATA[        由    /u/alexmacarthur  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1el01ma/i_just_released_power_plant_a_small_dependency/</guid>
-      <pubDate>Mon, 05 Aug 2024 21:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅提出请求是否是测试网站是否瘫痪的好方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ekzla0/is_just_a_request_a_good_way_to_test_if_a_site_is/</link>
-      <description><![CDATA[嗨，我正在尝试制作一个网站启动时间检查器。我尝试使用 playwright 进行设置，但我认为它无法在 nextjs API 中运行。一个请求足以检查网站是否正在运行吗？ 我已经在很多网站上测试过它，只有当网站阻止请求时我才会遇到问题。    提交人    /u/FrancoCanzani   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ekzla0/is_just_a_request_a_good_way_to_test_if_a_site_is/</guid>
-      <pubDate>Mon, 05 Aug 2024 21:22:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
