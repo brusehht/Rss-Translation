@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 07 Aug 2024 15:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:17:19 GMT</lastBuildDate>
+    <item>
+      <title>构建开源 Uber Eats 副本，提供完整的结账和管理功能（链接见评论）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1emg8zy/built_opensource_uber_eats_copy_with_full/</link>
+      <description><![CDATA[        由    /u/amoopa  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1emg8zy/built_opensource_uber_eats_copy_with_full/</guid>
+      <pubDate>Wed, 07 Aug 2024 16:25:09 GMT</pubDate>
+    </item>
     <item>
       <title>反人工智能许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1emdqmy/antiai_license/</link>
-      <description><![CDATA[是否有任何开源许可证限制 AI/LLM 使用许可软件？ 需要预防的情况：  直接执行许可代码的 AI/LLM 使用许可代码进行训练和/或检索的 AI/LLM 实现许可证涵盖的算法的 AI/LLM，无论其实现方式如何  如果存在此类许可证，有哪些机制可用于强制执行这些许可证并追回侵权系统的损失？    提交人    /u/RealSharpNinja   [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何开源许可证限制AI/LLM使用许可软件？ 要预防的情况：  直接执行许可代码的AI/LLM 使用许可代码进行训练和/或检索的AI/LLM 实现许可证涵盖的算法的AI/LLM，无论实现方式如何  如果存在此类许可证，有哪些机制可用于执行它们并追回侵权系统的损失？  编辑 谢谢大家的回答。是的，我正在开展一个项目，我想防止它被AI吸收用于训练和使用（它是一个语义代码分析器，可以帮助人类可视化和理解他们的代码库）。根据反馈，我似乎无法在真正的开源许可证下发布代码，并且不会受到任何类型的反 AI/LLM 限制。    提交人    /u/RealSharpNinja   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1emdqmy/antiai_license/</guid>
       <pubDate>Wed, 07 Aug 2024 14:49:13 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/KNTXT  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1el72y3/kontext_rest_in_beats_john_dope_ccby_instrumental/</guid>
       <pubDate>Tue, 06 Aug 2024 03:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Subatic：极其简单的视频分享平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1el2dtr/subatic_extremely_simple_video_sharing_platform/</link>
-      <description><![CDATA[  由    /u/noodleswind  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1el2dtr/subatic_extremely_simple_video_sharing_platform/</guid>
-      <pubDate>Mon, 05 Aug 2024 23:19:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
