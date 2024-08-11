@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 11 Aug 2024 18:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 21:14:34 GMT</lastBuildDate>
     <item>
-      <title>开源许可证的现状以及下一步</title>
-      <link>https://www.reddit.com/r/opensource/comments/1epp2c6/the_current_state_of_open_source_licenses_and/</link>
-      <description><![CDATA[        提交人    /u/jekapats   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1epp2c6/the_current_state_of_open_source_licenses_and/</guid>
-      <pubDate>Sun, 11 Aug 2024 16:33:41 GMT</pubDate>
+      <title>可以自动减少库存的库存软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1epsrfu/inventory_software_with_can_automatically_reduce/</link>
+      <description><![CDATA[大家好， 我正在寻找一种可以自动每天/每两天/每周减少物品数量并且可以自行托管的库存软件。 就我而言，我有不同的药品，它们装在不同数量的盒子里。例如，假设我有药品 A。它装在 30 粒药丸的盒子里。我每天必须服用 1 粒药丸。我想将 2 盒药品 A 放入库存，软件会将其转换为 60 粒药丸，并每天减少 1 粒。 理想情况下，我对我的不同药品有一个概览，包括还有多少库存以及库存将持续多长时间/库存将在哪一天达到零。 它不必是专门用于管理药品的库存软件。如果能内置自动减少商品数量的功能就好了。我发现其他软件可以解决这个问题，例如使用 cronjobs 和软件的 API，但我不确定是否可以用这个来估计库存能维持多久。    提交人    /u/AnoOobist   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1epsrfu/inventory_software_with_can_automatically_reduce/</guid>
+      <pubDate>Sun, 11 Aug 2024 19:09:30 GMT</pubDate>
     </item>
     <item>
       <title>Discord 替代？</title>
