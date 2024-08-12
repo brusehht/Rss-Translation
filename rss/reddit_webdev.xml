@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 12 Aug 2024 00:59:56 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 12 Aug 2024 03:15:29 GMT</lastBuildDate>
+    <item>
+      <title>最适合长时间工作的办公椅是哪种？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eq36s2/what_is_the_best_office_chair_for_long_hours_of/</link>
+      <description><![CDATA[我在家工作，长时间坐在办公桌前。我目前正在寻找价格低于 500 美元的新型办公椅，以缓解背痛。 感谢您的支持。    由   提交  /u/Alwayoptimistic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eq36s2/what_is_the_best_office_chair_for_long_hours_of/</guid>
+      <pubDate>Mon, 12 Aug 2024 03:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建新 React 应用程序的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eq1aw1/best_practices_for_creating_a_new_react_app/</link>
+      <description><![CDATA[我有使用 React 的经验，但已经有一段时间了。我看到一些人在某些 subreddit 上开玩笑说使用 create-react-app，那么现在有没有更好的方法，而我却错过了？    提交人    /u/RamboCambo15   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eq1aw1/best_practices_for_creating_a_new_react_app/</guid>
+      <pubDate>Mon, 12 Aug 2024 01:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>对投资组合网站有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eq170p/suggestion_for_portfolio_site/</link>
+      <description><![CDATA[嗨， 我目前正在向公司申请一份新工作。 我想创建一个在线空间，在那里我可以存储我的演示工作示例，这些示例是 jpeg 和 pdf 格式。 做到这一点的主要关键是将其完全保密，只有潜在雇主使用我提供的链接时才可以访问。除此之外，没有人可以访问该空间，它也不会显示在搜索引擎结果等中。 您能告诉我创建这样一个空间的可用选项吗？只是一个 Wordpress 或 Squarespace 网站，还是还有其他选项？ 谢谢你的帮助！:)    提交人    /u/bel-a   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eq170p/suggestion_for_portfolio_site/</guid>
+      <pubDate>Mon, 12 Aug 2024 01:25:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>一位网络开发人员同事指出 Chrome 在正确显示 SVG 方面仍然存在问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eq0rjx/a_web_developer_colleague_pointed_out_that_chrome/</link>
+      <description><![CDATA[情况真的还这样吗？这个问题就没有解决办法了吗？我只能在 Stackoverflow 上找到关于这个主题的旧帖子，所以我敢以非开发人员的身份在这里问这个问题。    提交人    /u/medusamusa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eq0rjx/a_web_developer_colleague_pointed_out_that_chrome/</guid>
+      <pubDate>Mon, 12 Aug 2024 01:04:29 GMT</pubDate>
+    </item>
     <item>
       <title>我们和平而来🕊️……不是碎片</title>
       <link>https://www.reddit.com/r/webdev/comments/1eq0fya/we_come_in_peace_not_pieces/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>我只是讨厌 TypeScript，其实没那么讨厌</title>
       <link>https://www.reddit.com/r/webdev/comments/1eptlrd/i_just_hate_typescript_actually_not_that_much/</link>
-      <description><![CDATA[大家好  我将 TS 与 expressJS 结合使用。 现在，我正在尝试使用 React JS 和 Apollo grapql。刚开始学习 graphql。 这个 Apollo grapql 东西看起来很尴尬。我发现自己使用 as 它有效，但我不知道为什么。 我也在使用 @graphql/merge 请推荐一些博客或文档。    提交人    /u/AdNecessary8217   [链接] [评论]]]></description>
+      <description><![CDATA[大家好  我将 TS 与 expressJS 结合使用。 现在，我正在尝试使用 React JS 和 Apollo grapql。刚开始学习 graphql。 这个 Apollo grapql 东西看起来很尴尬。我发现自己使用 as 它有效，但我不知道为什么。  我也在使用 @graphql/merge 请推荐一些博客或文档。    提交人    /u/AdNecessary8217   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eptlrd/i_just_hate_typescript_actually_not_that_much/</guid>
       <pubDate>Sun, 11 Aug 2024 19:45:33 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是 kafka 新手。我在某处找到了这个 docker compose 的环境属性： KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INTERNAL:PLAINTEXT,EXTERNAL:PLAINTEXT,DOCKER:PLAINTEXT  这在生产中足够安全吗？我不太了解 SSL。我读过它应该使用 SSL，但我不确定它是否适合我的用例。这是我的 docker compose： zoo1：image：confluentinc/cp-zookeeper：7.3.2 hostname：${ZOO1_NAME} container_name：ecommerce-mono-${ZOO1_NAME} ports：- &quot;${ZOO1_PORT_EXTERNAL}:2181&quot;环境：ZOOKEEPER_CLIENT_PORT：${ZOO1_PORT_EXTERNAL} ZOOKEEPER_SERVER_ID：1 ZOOKEEPER_SERVERS：${ZOO1_NAME}：2888：3888 kafka1：图像：confluentinc / cp-kafka：7.3.2 主机名：ecommerce-mono-kafka1 容器名称：ecommerce-mono-kafka1 端口： - “${KAFKA1_PORT_EXTERNAL}：9092” - “${KAFKA1_PORT_EXTERNAL_2}：29092”环境：KAFKA_ADVERTISED_LISTENERS：INTERNAL：//ecommerce-mono-kafka1：9092，EXTERNAL：//${DOCKER_HOST_IP：-127.0.0.1}：${KAFKA1_PORT_EXTERNAL}，DOCKER：//host.docker.internal：${KAFKA1_PORT_DOCKER} KAFKA_LISTENER_SECURITY_PROTOCOL_MAP：INTERNAL：PLAINTEXT，EXTERNAL：PLAINTEXT，DOCKER：PLAINTEXT KAFKA_INTER_BROKER_LISTENER_NAME：INTERNAL KAFKA_ZOOKEEPER_CONNECT：“${ZOO1_NAME}：${ZOO1_PORT_EXTERNAL}” KAFKA_BROKER_ID：1 KAFKA_LOG4J_LOGGERS：“kafka.controller=INFO,kafka.producer.async.DefaultEventHandler=INFO,state.change.logger=INFO” KAFKA_AUTHORIZER_CLASS_NAME：kafka.security.authorizer.AclAuthorizer KAFKA_ALLOW_EVERYONE_IF_NO_ACL_FOUND：“true” 取决于：- ${ZOO1_NAME}  稍微不相关的问题：数据库连接如何？我允许从任何 IP 地址远程访问我的数据库，不使用 SSL。Web 应用程序本身使用 SSL（https）。我的数据库也应该使用 SSL 吗？    提交人    /u/Wooden-Box3466   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1epsrjx/is_plain_text_secure_enough_in_production_for/</guid>
       <pubDate>Sun, 11 Aug 2024 19:09:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>阻止漏洞利用尝试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1epskzw/blocking_exploit_attempts/</link>
-      <description><![CDATA[我设置了 404 脚本以写入 MySQL 表，并使用 UNIQUE 索引来防止重复。我每天看到大约 500 个新插入。 其中大多数似乎是漏洞利用尝试；对 ai.txt、DCMEnabler、phpMyAdmin 等的 ping。当然，它们不会传递任何东西，但它们仍然存在。这意味着它们占用了一点服务器资源。 我曾经让脚本将有问题的 IP 添加到文本文件中，然后由 CSF 读取该文件以在防火墙处阻止它们，但 IP 变化太快以至于变得无关紧要。现在我每天都在花时间更新 Apache 以阻止 REQUEST_URI。最终我会重写它以添加到 Cloudflare 规则中，从而完全将工作从服务器上移除。 有没有更好的方法？还是大多数人只是忽略了它们？    提交人    /u/csdude5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1epskzw/blocking_exploit_attempts/</guid>
-      <pubDate>Sun, 11 Aug 2024 19:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>CDN 的历史：过去、现在和未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1epsi0o/history_of_cdn_the_past_present_and_its_future/</link>
-      <description><![CDATA[在此视频摘录中，Robin Marx（Akamai 的 HTTP 和 Web 性能专家）讨论了 CDN 的演变。它是如何产生的，它的现状，以及 CDN 服务/产品的未来发展。  这是视频链接。您觉得怎么样？    提交人    /u/pmbanugo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1epsi0o/history_of_cdn_the_past_present_and_its_future/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合编程（ICT 学生）且兼具音乐制作功能的 Windows 笔记本电脑？预算：1500-1800 美元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1epr7oi/best_windows_laptop_for_programming_ict_student/</link>
-      <description><![CDATA[大家好， 我很快就要开始学习 ICT 了，想买一台新笔记本电脑。我的主要用途是编程，但我也涉足音乐制作（虽然这不是我的主要关注点）。我的预算在 1500 到 1800 美元左右，我想买一台配备 32 GB RAM 的笔记本电脑，以应对未来的需求。 我一直在关注联想 Yoga Pro i9，但对我来说有点贵。它值得多花点钱吗，还是在我的预算范围内有更好的选择？我愿意听取任何关于一款可靠的 Windows 笔记本电脑的建议，它可以同时顺利处理编程任务和偶尔的音乐制作。 提前谢谢！    提交人    /u/Ancient-Elephant-580   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1epr7oi/best_windows_laptop_for_programming_ict_student/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使下拉菜单跟随文本区域或文本框中的文本插入符号</title>
-      <link>https://www.reddit.com/r/webdev/comments/1epqk64/how_to_make_dropdown_follow_text_caret_in_a_text/</link>
-      <description><![CDATA[我想创建一个带有下拉组件的文本框或文本区域，该下拉组件在我们键入时跟随文本插入符号或文本光标。它应该在我们键入时从左向右移动，并在行更改时向下移动。请注意，单个字符串也可以更改行。 主要问题是移动带有文本的下拉列表，在行更改时从左到右、从上到下移动。 请帮忙，我已经尝试了一切。😭😭😭    提交人    /u/SimpUser2003   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1epqk64/how_to_make_dropdown_follow_text_caret_in_a_text/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:36:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
