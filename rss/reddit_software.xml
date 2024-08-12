@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 12 Aug 2024 12:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 15:14:53 GMT</lastBuildDate>
+    <item>
+      <title>哟，我需要一个程序，可以阻止特定应用程序正常关闭，只能通过任务管理器关闭。我不知道是否有这样的程序</title>
+      <link>https://www.reddit.com/r/software/comments/1eqg8kh/yo_i_need_a_program_that_makes_it_that_specific/</link>
+      <description><![CDATA[  由    /u/Donii933  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eqg8kh/yo_i_need_a_program_that_makes_it_that_specific/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:43 GMT</pubDate>
+    </item>
     <item>
       <title>媒体播放器能正确处理去隔行吗？</title>
       <link>https://www.reddit.com/r/software/comments/1eqaqqi/media_player_that_handles_deinterlacing_properly/</link>
-      <description><![CDATA[我倾向于在两个不同的播放器（MPC-BE 和 VLC）之间切换。MPC-BE（当然还有 madVR）是我的标准播放器，它为非隔行内容提供了最佳图像质量。当我需要以下操作时，我会使用 VLC：1) 通过 .m3u 播放视频，以便我可以强制它跳过视频的某些部分，或者 2) 尝试 MPC-BE 无法去隔行的有问题的隔行视频。 但实际上，我在这两个播放器上播放的大多数视频都以 29.97fps 的速度播放，所有隔行都完好无损。我受够了。 我一直在努力处理的最新示例是那些曾经是电影但现在是电视电影 NTSC 的视频之一。两款播放器都直接忽略了这种质量，包括 madVR，据推测它具有专门为处理这种情况而设置的功能，因此当我播放视频时，我没有得到 24fps 的 3:2 下拉视频，而是得到了 30fps 的隔行扫描混乱视频。 我已经向 MediaInfo 确认该材料确实是隔行扫描的。如果他们想尝试一下，我甚至可以直接将他们指向该文件。    提交人    /u/Fredasa   [link] [评论]]]></description>
+      <description><![CDATA[我倾向于在两个不同的播放器（MPC-BE 和 VLC）之间切换。MPC-BE（当然还有 madVR）是我的标准播放器，它为非隔行内容提供了最佳图像质量。当我需要以下操作时，我会使用 VLC：1) 通过 .m3u 播放视频，以便我可以强制它跳过视频的某些部分，或者 2) 尝试 MPC-BE 无法去隔行的有问题的隔行视频。 但实际上，我在这两个播放器上播放的大多数视频都以 29.97fps 的速度播放，所有隔行都完好无损。我受够了。 我一直在努力处理的最新示例是那些曾经是电影但现在是电视电影 NTSC 的视频之一。两款播放器都直接忽略了这种质量，包括 madVR，据推测它具有专门为处理这种情况而留出的功能，因此当我播放视频时，我没有得到 24fps 的 3：2 下拉视频，而是得到 30fps 的隔行扫描混乱视频。 我已经向 MediaInfo 确认该材料确实是隔行扫描的。如果他们想尝试一下，我甚至可以直接向他们指出该文件。    提交人    /u/Fredasa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eqaqqi/media_player_that_handles_deinterlacing_properly/</guid>
       <pubDate>Mon, 12 Aug 2024 11:02:12 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>外接显示器的屏幕调光软件</title>
       <link>https://www.reddit.com/r/software/comments/1eq0vd5/screen_dimming_software_for_an_external_monitor/</link>
-      <description><![CDATA[显示器上没有我能使用的按钮。 我试过 Twinkle Tray、ClickMonitorDDC、BrightnessSlider、Monitorian、f.lac 和 Dimmer。它们要么无法识别我的显示器，要么无法正确调暗屏幕。 最接近的是 Dimmer，它使我的整个屏幕变暗（顶部除外），只留下一条亮条。    提交人    /u/fearlessfishh   [链接] [评论]]]></description>
+      <description><![CDATA[显示器上没有我能使用的按钮。 我尝试过 Twinkle Tray、ClickMonitorDDC、BrightnessSlider、Monitorian、f.lac 和 Dimmer。它们要么无法识别我的显示器，要么无法正确调暗屏幕。 最接近的是 Dimmer，它使我的整个屏幕变暗（顶部除外），只留下一条亮条。    提交人    /u/fearlessfishh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eq0vd5/screen_dimming_software_for_an_external_monitor/</guid>
       <pubDate>Mon, 12 Aug 2024 01:09:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我需要以网站中现有的相同格式复制文本和图像 相反，它显示一些奇怪的代码 有人能帮帮我吗，这很紧急，因为网站将在 4 小时内重置 https://olympics.com/en/paris-2024/schedule/grid 我需要将其复制到 excel，但它不起作用 任何帮助都将不胜感激    提交人    /u/Cruel-Summer_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eprivd/i_cant_copy_the_images_and_text_from_this_website/</guid>
       <pubDate>Sun, 11 Aug 2024 18:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 DVDStyler 的帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1epoy8g/need_help_with_dvdstyler/</link>
-      <description><![CDATA[这里有人熟悉该程序吗？我一直在尝试为从未发布的电视节目制作自己的自定义 DVD。我为剧集添加了一个播放所有按钮，在前一集播放完毕后，它会转到标题集上的下一个标题，但如果我尝试通过按“下一章”按钮或甚至按“上一章”按钮转到下一集，它会转到我添加的菜单之前的介绍视频。我还添加了一些额外内容，我希望下一章按钮不执行任何操作，但按下它或这些额外内容或剧集上的菜单按钮也会将我带到主菜单之前的介绍视频，而我更希望它带我进入菜单。有什么关于如何解决这些问题的想法吗？     提交人    /u/ParanoidThalyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1epoy8g/need_help_with_dvdstyler/</guid>
-      <pubDate>Sun, 11 Aug 2024 16:28:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
