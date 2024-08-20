@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 20 Aug 2024 00:57:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 03:15:54 GMT</lastBuildDate>
+    <item>
+      <title>您为一个网站做了什么事情，让它喊道：“拜托，这太老套了……”但您还是做了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ewlcs9/what_is_something_you_did_for_a_website_that/</link>
+      <description><![CDATA[你做了什么让你在做的时候心里想着“这太陈词滥调了，太尴尬了”，但这是要求，所以你还是做了？ 例如，添加一个虚假的“此交易在 12 小时倒计时器后结束”。    提交人    /u/longiner   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ewlcs9/what_is_something_you_did_for_a_website_that/</guid>
+      <pubDate>Tue, 20 Aug 2024 03:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 VSCode 上的 Live Server 感到困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ewknti/confused_about_live_server_on_vscode/</link>
+      <description><![CDATA[因此，当我在 VSCode 中使用实时服务器时，我的 HTML 文件可以按预期工作。但是，当我转到 VSCode 之外的文件并在浏览器中打开它们时，我收到一个错误页面，提示无法访问我的文件。    提交人    /u/roguemead   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ewknti/confused_about_live_server_on_vscode/</guid>
+      <pubDate>Tue, 20 Aug 2024 02:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>1 页还是多页个人作品集网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ewkf3t/1_page_or_multipage_personal_portfolio_websites/</link>
+      <description><![CDATA[抱歉，这个问题之前有人问过。 我见过一些很酷的作品集网站，其中很多都只有一页。我觉得这很奇怪，因为我认为单页网站“难以导航”或“不利于 SEO”。我刚刚重新设计和编码了我的作品集网站，但新版本和旧版本都是多页网站。我确实有按钮可以转到网站的其他部分，但大多数情况下，只需阅读导航栏并转到您想要的位置。所以我想知道哪个更好，单页网站还是多页网站？    提交人    /u/TTVBy_The_Way   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ewkf3t/1_page_or_multipage_personal_portfolio_websites/</guid>
+      <pubDate>Tue, 20 Aug 2024 02:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建简单的作品集/学术网站的最佳途径是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ewk5p8/best_path_to_create_a_simple_portfolioacademic/</link>
+      <description><![CDATA[大家好，我是 Web 开发新手，想为我妈妈创建一个学术主页，她是一名教授。理想情况下，类似这样的内容： https://www.bedrick.org/（同事的网站）。 有了这么多工具和模板软件，很容易不知所措。我考虑过使用 Hugo 或其他 SSG，但我不确定这是否是正确的途径。 如果您必须在一两天内创建一个简单的网站，您会从哪里开始？您会去哪里找？它不必是原创的或花哨的。我现在完全迷路了。    提交人    /u/Hamilchinn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ewk5p8/best_path_to_create_a_simple_portfolioacademic/</guid>
+      <pubDate>Tue, 20 Aug 2024 02:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发数据可视化仪表板（使用 d3/dash/streamlit）是否被视为前端或 BI/DS？需要一些关于如何组合 JD 的提示。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ewk0l1/is_developing_data_visualization_dashboards_with/</link>
+      <description><![CDATA[最近，我们需要开发内部（Web）数据可视化仪表板，但我们不确定是否应该找一个前端人员或 BI 人员，还是某个“全栈”人员？ 我们目前使用 streamlit，因此它更多的是 python 编码，而不是规范的前端技术堆栈（html/css/js）。随着我们的需求增长，我们希望转向 dash 甚至 d3 以实现更多自定义和性能提升，因此它肯定会变得更加“前端”。客户端可能会进行一些有限的计算（在 js 中？）。 问题是我们应该把什么放入 JD - 我们都不是 Web 开发专家，我们不知道当前最先进的前端数据可视化库。d3 在前端数据可视化领域是否过时了？如果我们将 d3 放入要求中，它将限制申请人的数量。  此外，全栈开发人员精通 DevOps 和/或一些数据库/系统管理的能力有多普遍？这可能听起来很荒谬，但我们希望候选人全面发展，因为我们是一个小团队，每个人都必须多才多艺。如果这种优点太不常见，我们就不会把它放在 JD 中。  最后但并非最不重要的一点是，专门从事数据可视化的全栈开发人员的市场价格是多少？感谢您的提示和建议。     提交人    /u/MindsAndMachines   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ewk0l1/is_developing_data_visualization_dashboards_with/</guid>
+      <pubDate>Tue, 20 Aug 2024 02:10:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在什么情况下数据库中的数据重复是可以接受的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ewj6tt/in_what_situations_is_data_duplication_okay_in/</link>
+      <description><![CDATA[我是 webdev 的新手，请帮助我加深理解。我正在使用 firebase 中的事件和用户数据库，尝试获取当前用户注册的所有事件。一种选择是查询每个事件以检查当前用户 ID 是否存在于其与会者集合中，另一种选择是在用户对象中创建一个集合，其中包含当前用户注册的所有事件的 ID，然后从那里进行交叉检查。这会被视为数据重复吗，因为现在用户和事件都有彼此的列表？我依稀记得我们被教导数据库应该有一个单一的事实来源，所以我不确定这里的正确方法是什么。 谢谢！    提交人    /u/superior_to_you   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ewj6tt/in_what_situations_is_data_duplication_okay_in/</guid>
+      <pubDate>Tue, 20 Aug 2024 01:30:41 GMT</pubDate>
+    </item>
     <item>
       <title>如何帮助设计师了解网页设计要求？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ewif2k/how_to_help_a_designer_understand_web_design/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[      大家好， 我有兴趣创建一个可以进行远程绘图的应用程序，例如 Tuple 或 Slack 的 huddle（如果您熟悉的话）（如下图所示）。 将数据从查看器发送到主机的延迟效率高的方法是什么，以便可以绘制数据？ 我在考虑 SVG路径，并对其变化进行节流，但也许有更好的方法？ 绘图示例    提交人    /u/kostakos14   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ewczu7/real_time_drawing_data_transfer/</guid>
       <pubDate>Mon, 19 Aug 2024 20:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到我的子域 HTML 文件？和/或使用新的 HTML 文件更新子域？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ewcjcx/how_to_find_my_subdomains_html_file_andor_update/</link>
-      <description><![CDATA[Ym 公司有一个需要更新的旧子域。唯一的问题是没有人知道 HTML 文件在哪里。域/子域位于 AWS Route 53 上。主域使用 WordPress，但我们的子域似乎没有。有没有办法找到原始 HTML 文件的存储/上传位置？ 如果没有，如何使用新 HTML 文件更新子域？    提交人    /u/Gannan308   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ewcjcx/how_to_find_my_subdomains_html_file_andor_update/</guid>
-      <pubDate>Mon, 19 Aug 2024 20:40:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>批评我的简历！数百份申请，只有 3 次面试。我做错了什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ewc5l8/roast_my_resume_hundreds_of_applications_with/</link>
-      <description><![CDATA[        提交人    /u/TaleOfBarnabyShmidt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ewc5l8/roast_my_resume_hundreds_of_applications_with/</guid>
-      <pubDate>Mon, 19 Aug 2024 20:25:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试实现暗模式，但不会“记住”页面之间。我尝试从初始 isclicked 变量开始，但只将每个页面视为一个维度，并且有它自己的变量版本???</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ewbp34/trying_to_implement_a_dark_mode_but_wont_remember/</link>
-      <description><![CDATA[我转到主页，将 isclicked 设置为 true。我转到关于页面，它说它是 false。我转到主页，再次为 true，它似乎记得主页有一个版本的变量，而关于有一个版本的变量。但它都链接到同一个脚本并且具有相同的类。我会发送一个视频来解释我的意思，但是不允许发布。 js 代码： (function() { let isClicked = localStorage.getItem(&#39;isClicked&#39;) === &#39;true&#39;; function getIsClicked() { return isClicked; } function setIsClicked( value ) { isClicked = value ; localStorage.setItem(&#39;isClicked&#39;, value ); } function updateDebug() { const debugElements = document.getElementsByClassName(&#39;debug&#39;); Array.from(debugElements).forEach( element =&gt; { element .textContent = `Debug: isClicked = ${getIsClicked()}`; }); } function toggleIsClicked() { setIsClicked(!getIsClicked()); updateDebug(); } const toggleButton = document.getElementById(&#39;toggleButton&#39;); if (toggleButton) { toggleButton.addEventListener(&#39;click&#39;, toggleIsClicked); } // 立即并每秒更新调试 updateDebug(); setInterval(updateDebug, 1000); // 全局公开 toggleIsClicked 函数 window.toggleIsClicked = toggleIsClicked; })();     提交人    /u/felicaamiko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ewbp34/trying_to_implement_a_dark_mode_but_wont_remember/</guid>
-      <pubDate>Mon, 19 Aug 2024 20:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的，在字面票务系统上，这个杰出的反应“票”是谁的？Ticketception？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ewbcxi/okay_whose_outstanding_react_ticket_is_this_on_a/</link>
-      <description><![CDATA[       由    /u/mr_remy  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ewbcxi/okay_whose_outstanding_react_ticket_is_this_on_a/</guid>
-      <pubDate>Mon, 19 Aug 2024 19:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 与 RSS 源如何从招聘公告板获取招聘信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ewb7wt/api_vs_rss_feeds_for_pulling_job_listings_for_a/</link>
-      <description><![CDATA[我有一个小型 WordPress 网站，希望从大型招聘网站（如 Indeed 或 Linkedin）中提取招聘信息。如果有人与 Indeed 建立了 API 连接，您希望每月支付多少费用来提取特定一组职位的列表。每月可能会有 50 到 100 个新职位。 我不想花费太多成本，因此如果连接 API 的成本太高，您使用 RSS 源的体验如何？对于预算低、易于使用和数据一致性（例如仅提取特定职位）而言，您会推荐哪种 RSS 源。    提交人    /u/bigvibes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ewb7wt/api_vs_rss_feeds_for_pulling_job_listings_for_a/</guid>
-      <pubDate>Mon, 19 Aug 2024 19:48:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebFlow 是否真的适合构建自定义网站，还是有影响力的人只是把它宣传为适合于此？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ewa3ge/is_webflow_actually_good_for_building_custom/</link>
-      <description><![CDATA[我知道这可能是一个有争议的问题，但让我解释一下： 我喜欢拥有自定义网站。我不喜欢对它们进行硬编码，也不喜欢手动配置无头的 CMS。 我喜欢 CMS 平台，尽管它们很多时候都很难定制。 Webflow 看起来不错。我正在考虑学习它。我见过一些用它构建的非常花哨的自定义网站。我听说它可以让你的生产过程更有效率（虽然我不完全确定如何）。 同时，推广它的有影响力的人往往受到该软件的赞助...... webflow 是否真的有助于构建内置 CMS 功能的干净/自定义网站？它值得学习吗？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ewa3ge/is_webflow_actually_good_for_building_custom/</guid>
-      <pubDate>Mon, 19 Aug 2024 19:03:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
