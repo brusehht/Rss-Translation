@@ -4,7 +4,32 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sat, 24 Aug 2024 03:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 06:20:03 GMT</lastBuildDate>
+    <item>
+      <title>理解和创建软件测试中的测试用例</title>
+      <link>https://feed.indiehackers.world/post/f63ecf93ec</link>
+      <description><![CDATA[f. 冒烟测试用例
+冒烟测试确保部署或代码更改后基本、关键功能正常运行。
+场景示例：
+
+测试电子商务网站在部署后是否正常运行。
+
+测试用例示例：
+
+标题：部署后验证网站基本功能。
+步骤：
+打开电子商务主页。
+点击“商店”按钮。
+
+
+预期结果：主页应加载，用户应能够导航到商店页面。
+
+g. 集成测试用例
+集成测试用例可确保不同的模块或服务能够很好地协同工作。这些测试侧重于应用程序内系统、API 或模块之间的通信。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/f63ecf93ec</guid>
+      <pubDate>Fri, 23 Aug 2024 08:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>Designmodo 提供的免费 Figma 电子邮件模板</title>
       <link>https://feed.indiehackers.world/post/94a4c22d2c</link>
@@ -133,16 +158,6 @@ Discord Indiehackers Chat广告 这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a961b69828</guid>
       <pubDate>Thu, 15 Aug 2024 16:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的 Cookie 偏好和同意态度如何？</title>
-      <link>https://feed.indiehackers.world/post/38dc682942</link>
-      <description><![CDATA[我在英国做硕士论文，目的是了解用户对 Cookie 同意、偏好的态度以及如何改进更安全的数据收集。
-如果您能参加这个不到 2 分钟的 A/B 测试，我将不胜感激。
-提前致谢
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/38dc682942</guid>
-      <pubDate>Thu, 15 Aug 2024 12:11:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
