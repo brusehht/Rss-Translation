@@ -4,7 +4,32 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 26 Aug 2024 15:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 18:18:48 GMT</lastBuildDate>
+    <item>
+      <title>使用 AI 产品目录获得 AI 工具 7,800% 投资回报率的最简单方法</title>
+      <link>https://feed.indiehackers.world/post/1ef8accdcd</link>
+      <description><![CDATA[以下是他取得的成果：
+
+ code.market 上的列表成本：0 美元
+ PPC（按点击付费）成本：每次点击 0.30 美元
+ 每日注册试用：8
+ 试用到订阅的转化率：~50% 的转化率
+ 试用到销售的转化率：4 x 79 美元 = 316 美元
+ code.market 的目标流量：66 次点击
+
+ROI 计算：
+
+ 总成本：0 美元（code.market 列表免费）+（66 次点击 * 每次点击 0.30 美元）= 19.80 美元
+ 销售收入：316 美元 x 10 天 = 3,160 美元
+ 订阅可能带来的收入流失率为 0：4 个订阅 * 4 个月 * $79 = $1,264
+ 总收入：$316（销售额）+ $1,264（订阅）= $1,580
+ ROI =（收入 - 成本）/ 成本 * 100 = ($1,580 - $19.80) / $19.80 * 100 = 7,879%
+
+这个重新计算的案例研究表明，即使流量较低且转化次数较少，由于广告成本低且从试用到订阅的转化率较高，ROI 仍然令人印象深刻。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/1ef8accdcd</guid>
+      <pubDate>Mon, 26 Aug 2024 12:39:12 GMT</pubDate>
+    </item>
     <item>
       <title>理解和创建软件测试中的测试用例</title>
       <link>https://feed.indiehackers.world/post/f63ecf93ec</link>
@@ -47,7 +72,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>乔治·托多罗夫 (Georgi Todorov) 如何在短短两年内以六位数的价格出售自己的网站</title>
       <link>https://feed.indiehackers.world/post/a3521f9bb7</link>
       <description><![CDATA[展望未来
-现在，Thrive My Way 已成为过去，Georgi 将精力集中在 Create &amp; Grow 上。他说，该网站将是一个“在线平台，我计划在此发布案例研究以及我个人使用过的工具和产品的真实评论。这将是我的个人品牌网站，我不会出售。”
+现在，Thrive My Way 已成为过去，Georgi 将精力集中在 Create &amp; Grow 上。他说该网站将是一个“在线平台，我计划在此发布案例研究以及我个人使用过的工具和产品的真实评论。这将是我的个人品牌网站，我不会出售。”
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a3521f9bb7</guid>
       <pubDate>Thu, 22 Aug 2024 12:35:21 GMT</pubDate>
@@ -134,7 +159,7 @@ Discord Indiehackers Chat广告 此处]]></description>
       <link>https://feed.indiehackers.world/post/be3d7942de</link>
       <description><![CDATA[对于前端开发，React JS 和 Vite 或 Next JS 非常适合使用样式库（如 Tailwind CSS、Material UI 或 Shadcn/UI）为您的前端提供支持。
 现在，这些语言和数据库可能会根据您的 SaaS 和您正在构建的功能而变化，因此请务必检查它们，看看哪种更适合您。
-我还看到 SaaS 创始人使用一些其他服务，但这些服务并不是 SaaS 独有的，例如用于 Sockets 的 Ably 和用于管理平台上用户的 FusionAuth。
+我还看到 SaaS 创始人使用了一些其他服务，但这些服务并不是 SaaS 独有的，例如用于 Sockets 的 Ably 和用于管理平台上用户的 FusionAuth。
 这些几乎就是全部内容，如果您有任何疑问或想分享您的技术堆栈，请在评论中告诉我，我很乐意为您研究它们。
 Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/be3d7942de</guid>
@@ -150,14 +175,6 @@ Discord Indiehackers Chat广告 这里]]></description>
 Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/23388614aa</guid>
       <pubDate>Sun, 18 Aug 2024 09:14:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技联合创始人背叛了我，所以我自学编程并创建了一家价值 150 万美元的公司</title>
-      <link>https://feed.indiehackers.world/post/925503c896</link>
-      <description><![CDATA[目前，全球有超过 407 家机构和公司使用 Beep 在构建网站时对其进行审查和注释。
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/925503c896</guid>
-      <pubDate>Sat, 17 Aug 2024 11:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
