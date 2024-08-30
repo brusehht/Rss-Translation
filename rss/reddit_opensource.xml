@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 30 Aug 2024 12:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 15:14:13 GMT</lastBuildDate>
+    <item>
+      <title>感谢 /r/opensource！我的开源活动管理和票务应用程序现在处于测试阶段 🎊</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4xoxp/thanks_ropensource_my_opensource_event_management/</link>
+      <description><![CDATA[嗨 r/opensource 👋 几个月前，我分享了 Hi.Events，这是我一直在开发的一个活动票务应用程序。今天，我很高兴地宣布 Hi.Events 正式进入测试阶段！ 🚀 感谢所有支持初始帖子、报告错误和分享反馈的人。 您可以在 GitHub repo 上查看所有新功能和改进。 谢谢 😁    提交人    /u/Caseyrover   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4xoxp/thanks_ropensource_my_opensource_event_management/</guid>
+      <pubDate>Fri, 30 Aug 2024 15:11:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRACE 简介：网络证据检索和分析工具包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4ws8c/introducing_trace_toolkit_for_retrieval_and/</link>
+      <description><![CDATA[📂🔍TRACE 是我为最后一年的项目开发的数字取证分析工具，设计有用于分析磁盘映像的用户友好界面。 💡 为什么尝试 TRACE？  简单：易于使用的界面。 VirusTotal API 集成：立即检查文件哈希中是否存在恶意软件。 跨平台：适用于 macOS、Linux 和 Windows。 * 映像安装（Windows）：轻松安装和探索取证磁盘映像。  🌟 特点：  映像安装🗂️️ EXIF 数据提取📷 * 注册表查看器🗂️ 文件雕刻 - 未完全集成🔪 E01 图像验证✅ 还有更多！  🔗 在 GitHub 上探索 TRACE：https://github.com/Gadzhovski/TRACE-Forensic-Toolkit/?abc    提交人    /u/ZealousidealBat9474   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4ws8c/introducing_trace_toolkit_for_retrieval_and/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:34:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open Street Map 维护者 Bryan Housel 阐述地图绘制的特殊之处</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4ve6d/bryan_housel_maintainer_for_open_street_map_on/</link>
+      <description><![CDATA[       由    /u/rubiesordiamonds  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4ve6d/bryan_housel_maintainer_for_open_street_map_on/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:34:26 GMT</pubDate>
+    </item>
     <item>
       <title>FOSS 价值的缓慢蒸发</title>
       <link>https://www.reddit.com/r/opensource/comments/1f4tw19/the_slow_evaporation_of_the_foss_value/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>SpotAPI：无需付费即可享受 Spotify 播放 API！</title>
       <link>https://www.reddit.com/r/opensource/comments/1f4ik3h/spotapi_enjoy_spotify_playback_api_without_premium/</link>
-      <description><![CDATA[大家好！你们都喜欢上一篇文章，所以我很高兴能回来更新更多内容。 我很高兴介绍 SpotAPI，这是一个 Python 库，旨在让与 Spotify 的 API 交互变得轻而易举！ 我的项目的作用： SpotAPI 提供了一个 Python 包装器，可与私有和公共 Spotify API 交互。它模拟通常通过 Web 浏览器发出的请求，使您能够以编程方式访问 Spotify 的丰富功能集。 SpotAPI 使用您的 Spotify 用户名和密码进行身份验证，让您可以立即使用 Spotify 数据 - 无需额外的 API 密钥！ 新功能：Spotify 播放器 - 无需额外要求：通过最新更新，您现在可以直接通过 SpotAPI 享受 Spotify 播放，而无需麻烦的 Premium 订阅。 - 轻松集成：只需几行代码即可将 SpotAPI 播放器集成到您的项目中，从而可以直接将音乐播放添加到您的应用程序中。 - 类似浏览器的体验：复制 Spotify 网络播放器的播放体验，提供真实的网络感觉，同时保持低调。 - 附加功能：SpotAPI 提供官方 Web API 未提供的附加功能！ 功能： - 公共 API 访问：轻松检索和操作公共 Spotify 数据，包括播放列表、专辑和曲目。 - 私有 API 访问：探索私有 Spotify 端点以根据需要自定义和增强您的应用程序。 - 随时可用：专为立即集成而设计，仅需几行代码即可完成任务。 - 无需 API 密钥：无需 Spotify API 密钥即可享受无缝使用。简单直接，轻松无忧！ - 类似浏览器的请求：准确复制 Spotify 在浏览器中发出的 HTTP 请求，提供真实的网络体验，同时保持低调。 目标受众： SpotAPI 由开发人员为开发人员构建，专为那些想要轻松使用 Spotify API 的人而设计。它是将 Spotify 数据集成到应用程序中或试验 Spotify 的 API 的理想选择，无需 OAuth 或 Spotify Premium 订阅。无论是出于教育目的还是个人项目，SpotAPI 都提供了一种简化且用户友好的方法来快速访问和利用 Spotify 的数据。 比较： 虽然传统的 Spotify API 需要 API 密钥并且设置起来很麻烦，但 SpotAPI 通过绕过对 API 密钥的需求简化了此过程。它提供了一种通过用户身份验证访问 Spotify 数据的更简化的方法，使其成为快速高效处理 Spotify 数据的宝贵工具。 SpotAPI 的主要特点是不需要 Spotify Premium 订阅，因此可以更方便、更轻松地访问和享受 Spotify 的播放功能。 注意： SpotAPI 仅用于教育目的，应负责任地使用。 未经适当授权访问私有端点和抓取数据可能会违反 Spotify 的服务条款。 查看 GitHub 上的项目，探索新的 SpotAPI 播放器功能，并让我知道您的想法！ 我很乐意听到您的反馈和贡献。 请随时在此处提问或分享您的经验。 编码愉快！   由    /u/Major-Ad-4196  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！你们都喜欢上一篇文章，所以我很高兴能回来更新更多内容。 我很高兴介绍 SpotAPI，这是一个 Python 库，旨在让与 Spotify 的 API 交互变得轻而易举！ 我的项目的作用： SpotAPI 提供了一个 Python 包装器，可与私有和公共 Spotify API 交互。它模拟通常通过 Web 浏览器发出的请求，使您能够以编程方式访问 Spotify 的丰富功能集。 SpotAPI 使用您的 Spotify 用户名和密码进行身份验证，让您可以立即使用 Spotify 数据 - 无需额外的 API 密钥！ 新功能：Spotify 播放器 - 无需额外要求：通过最新更新，您现在可以直接通过 SpotAPI 享受 Spotify 播放，而无需麻烦的 Premium 订阅。 - 轻松集成：只需几行代码即可将 SpotAPI 播放器集成到您的项目中，从而可以直接将音乐播放添加到您的应用程序中。 - 类似浏览器的体验：复制 Spotify 网络播放器的播放体验，提供真实的网络感觉，同时保持低调。 - 附加功能：SpotAPI 提供官方 Web API 未提供的附加功能！ 功能： - 公共 API 访问：轻松检索和操作公共 Spotify 数据，包括播放列表、专辑和曲目。 - 私有 API 访问：探索私有 Spotify 端点以根据需要自定义和增强您的应用程序。 - 随时可用：专为立即集成而设计，仅需几行代码即可完成任务。 - 无需 API 密钥：无需 Spotify API 密钥即可享受无缝使用。简单直接，轻松无忧！ - 类似浏览器的请求：准确复制 Spotify 在浏览器中发出的 HTTP 请求，提供真实的网络体验，同时保持低调。 目标受众： SpotAPI 由开发人员为开发人员构建，专为那些想要轻松使用 Spotify API 的人而设计。它是将 Spotify 数据集成到应用程序中或试验 Spotify 的 API 的理想选择，无需 OAuth 或 Spotify Premium 订阅。无论是出于教育目的还是个人项目，SpotAPI 都提供了一种简化且用户友好的方法来快速访问和利用 Spotify 的数据。 比较： 虽然传统的 Spotify API 需要 API 密钥并且设置起来很麻烦，但 SpotAPI 通过绕过对 API 密钥的需求简化了此过程。它通过用户身份验证提供了一种更简化的方法来访问 Spotify 数据，使其成为快速高效处理 Spotify 数据的宝贵工具。 SpotAPI 的主要特点是不需要 Spotify Premium 订阅，因此可以更方便、更轻松地访问和享受 Spotify 的播放功能。 注意： SpotAPI 仅用于教育目的，应负责任地使用。 未经适当授权访问私有端点和抓取数据可能会违反 Spotify 的服务条款。 查看 GitHub 上的项目，探索新的 SpotAPI 播放器功能，并让我知道您的想法！ 我很乐意听到您的反馈和贡献。 请随时在此处提问或分享您的经验。 编码愉快！   由    /u/Major-Ad-4196  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4ik3h/spotapi_enjoy_spotify_playback_api_without_premium/</guid>
       <pubDate>Fri, 30 Aug 2024 00:54:36 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/dkaloger2   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4fmx1/i_made_an_opensource_ai_wallpaper_app/</guid>
       <pubDate>Thu, 29 Aug 2024 22:36:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elasticsearch 再次开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4e9gr/elasticsearch_is_open_source_again/</link>
-      <description><![CDATA[      TLDR：现已在 AGPL 下可用    由    /u/nicholashairs 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4e9gr/elasticsearch_is_open_source_again/</guid>
-      <pubDate>Thu, 29 Aug 2024 21:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>现场语音分析工具包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4e7cd/live_voice_analysis_toolkit/</link>
-      <description><![CDATA[作为我创建开源 AI 助手框架 https://github.com/00Julian00/Nova 之旅的一部分（我知道现在的代码库很乱），我开发了一个语音分析管道，它可以从麦克风录制音频，然后实时转录音频并为您提供语音嵌入，以根据他们的声音了解当前正在说话的人。我可能会向管道添加更多功能，但现在您可以获得转录、单词时间戳和语音嵌入。请随时查看：https://github.com/00Julian00/Voice-Analysis-Toolkit    提交人    /u/Darkboy5000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4e7cd/live_voice_analysis_toolkit/</guid>
-      <pubDate>Thu, 29 Aug 2024 21:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPTIC - 用于在 Windows 和 ChromeOS 中控制和优化网络摄像头设置的 Google Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f488jn/optic_google_chrome_extension_for_webcam_settings/</link>
-      <description><![CDATA[嗨，Reddit，我创建了一个开源 Chrome 扩展程序，用于控制和保存 Windows 和 Chrome OS 用户的网络摄像头配置。如果您曾经想要拨入并保存网络摄像头设置（亮度、饱和度、曝光度、对比度、焦点等）以用于基于网络的视频工具，可能值得一试。 链接到 Chrome 扩展程序： https://chromewebstore.google.com/detail/optic-webcam-control-and/fkcchglpmbalkkjjphakmjjfehmmndke 链接到项目： https://github.com/ethanedson/OPTIC    提交人    /u/OceanCoder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f488jn/optic_google_chrome_extension_for_webcam_settings/</guid>
-      <pubDate>Thu, 29 Aug 2024 17:27:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
