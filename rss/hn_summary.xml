@@ -4,104 +4,99 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 06:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 12:17:37 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Readry 是一项新服务，旨在简化获取新闻和新闻简报的流程 [...]</title>
-      <link>https://t.me/hn_summary/106881</link>
-      <description><![CDATA[显示 HN：Readry – Kindle/电子阅读器上的新闻和简报
-Readry 是一项新服务，旨在简化将新闻和简报直接发送到您的 Kindle 或其他电子阅读器的过程。只需将您的电子邮件订阅转发给 Readry，该服务就会将其转换为与您的电子阅读器兼容的格式，确保您可以享受您喜爱的内容而不会让收件箱变得杂乱。这种创新方法不仅增强了阅读体验，还有助于更有效地管理数字订阅。Readry 的独特之处在于其无缝集成，使其成为喜欢电子墨水设备而非传统屏幕的狂热读者的杰出解决方案。]]></description>
-      <guid>https://t.me/hn_summary/106881</guid>
-      <pubDate>Wed, 04 Sep 2024 06:13:23 GMT</pubDate>
+      <title>[媒体] 在 Plang 中，你可以将事件绑定到目标（功能）和步骤（代码行），从而 [...]</title>
+      <link>https://t.me/hn_summary/106905</link>
+      <description><![CDATA[理论：自我修正软件
+在 Plang 中，您可以将事件绑定到目标（函数）和步骤（代码行），使其成为创建自我修正软件的强大工具。例如，只需四行代码即可确保在访问 /admin 路由之前进行用户身份验证。当服务发生变化并需要新数据时，Plang 可以通过绑定事件来处理错误，从而自动更正代码。使用语言模型 (LLM)，Plang 会更新代码、保存代码、重建并重试该步骤。这种自我修正机制非常高效，凸显了 Plang 的潜力。但是，某些问题（例如缺少字段）可能需要进一步调整调用堆栈。Plang 的功能令人印象深刻，值得进一步探索。]]></description>
+      <guid>https://t.me/hn_summary/106905</guid>
+      <pubDate>Wed, 04 Sep 2024 12:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.crucig.com</title>
-      <link>https://t.me/hn_summary/106880</link>
-      <description><![CDATA[每天发布 5x5 填字游戏
-标题：每天发布 5x5 填字游戏 
-网站：www.crucig.com
+      <title>[媒体] 物理学家 MV Ramana 在他的新书中指出，核能不是清洁能源 [...]</title>
+      <link>https://t.me/hn_summary/106904</link>
+      <description><![CDATA[物理学家 MV Ramana 解释核能为何不是清洁能源的万能药
+物理学家 MV Ramana 在他的新书中指出，核能并非许多人认为的清洁能源解决方案。尽管人们普遍认为核能对于摆脱化石燃料至关重要，但 Ramana 认为核能成本高昂、危险，而且规模扩大速度太慢。他强调了核技术固有的不稳定性与风险，而气候变化和企业削减成本加剧了这种不稳定性与风险。Ramana 还指出，核能创造的就业机会少于可再生能源，而且严重依赖政府补贴。他认为，快速增长的可再生能源是一种更可行、更安全的替代方案。]]></description>
+      <guid>https://t.me/hn_summary/106904</guid>
+      <pubDate>Wed, 04 Sep 2024 12:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 Poul-Henning Kamp 的留言中，他强调 FreeBSD 的起源是对 [...] 的反应</title>
+      <link>https://t.me/hn_summary/106903</link>
+      <description><![CDATA[这不是 Rust，而是 FreeBSD（和 LLVM）
+在 Poul-Henning Kamp 的留言中，他强调 FreeBSD 的起源是对 20 世纪 90 年代支离破碎的 UNIX 行业（尤其是 C 编译器的拆分）的一种反应。FreeBSD 旨在提供具有完整源代码的完整 UNIX 系统。随着时间的推移，该项目不断发展，但提供与内核一致的用户空间的核心理念始终保持不变。Kamp 认为，当前将 LLVM 包含在源代码树中的做法已经过时，并提出了一种转变，即 FreeBSD 由其端口定义，LLVM 和其他工具链作为单独的包进行管理。这一变化将使 FreeBSD 的分发格式现代化，使其更高效并与当代实践保持一致。 Kamp 还承认了 pkgbase 团队的贡献，并表示他们的努力值得认可。
 
-在 Crucig，我们乐于提供每日 5x5 字母填字游戏，非常适合快速进行脑力锻炼。我们的用户友好界面允许您通过触摸相应的按钮轻松在横向和纵向线索之间切换。例如，横向线索可能是“句子由这些组成”，而纵向线索可能是“下面的对立面”。深入研究我们简短的谜题，享受每日的智力游戏乐趣！]]></description>
-      <guid>https://t.me/hn_summary/106880</guid>
-      <pubDate>Wed, 04 Sep 2024 06:07:19 GMT</pubDate>
+争议：Kamp 提出的从源代码树中删除 LLVM 的提议可能会在重视“FreeBSD 是 src”理念的传统主义者中引起争议。
+
+独特/聪明：通过其端口定义 FreeBSD 的想法，包括将内核和用户空间作为软件包，是一种新颖的方法，可以简化系统并使其更具适应性。]]></description>
+      <guid>https://t.me/hn_summary/106903</guid>
+      <pubDate>Wed, 04 Sep 2024 11:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Edmigo 通过 AI 导师彻底改变了编程教育，提供实时、个性化的教学 [...]</title>
-      <link>https://t.me/hn_summary/106879</link>
-      <description><![CDATA[使用 AI 导师简化编程
-Edmigo 使用 AI 导师彻底改变了编程教育，提供实时、个性化的指导，以满足您独特的学习节奏和需求，全天候提供。该平台通过帮助您以两倍的速度解决 75 个最常见的面试问题，从而加速您对数据结构和算法 (DSA) 的学习，无需冗长的博客和视频。Edmigo 强调动手解决问题，直接与 LeetCode 集成以提供上下文感知帮助和调试支持。学习材料由 Google 工程师精心制作，确保内容质量一流。这种创新方法简化并增强了学习体验，使其更加高效和有效。]]></description>
-      <guid>https://t.me/hn_summary/106879</guid>
-      <pubDate>Wed, 04 Sep 2024 05:54:13 GMT</pubDate>
+      <title>[媒体] 埃隆·马斯克的卫星互联网服务 Starlink 宣布将屏蔽社交媒体 [...]</title>
+      <link>https://t.me/hn_summary/106902</link>
+      <description><![CDATA[埃隆·马斯克的 Starlink 表示将在巴西屏蔽 X
+埃隆·马斯克的卫星互联网服务 Starlink 宣布将在巴西屏蔽社交网络 X，以维持其运营许可。此前，巴西最高法院在 X 违抗法院命令并未能支付因未暂停涉嫌损害民主制度的账户而罚款后，封锁了 X。法院冻结了 Starlink 的金融资产，以确保 X 遵守规定。马斯克的公司被视为合作者，其中一项删除请求涉及参议员马科斯·杜瓦尔，他因涉嫌政变阴谋而受到调查。批评人士认为，法官亚历山大·德莫赖斯在控制网络言论方面做得过分。马斯克公开批评德莫赖斯和现任巴西政府，并威胁如果不归还资产，将采取对等行动。这场争议凸显了马斯克的企业与巴西政府之间的紧张关系，马斯克对前总统雅伊尔·博索纳罗的支持加剧了这种摩擦。]]></description>
+      <guid>https://t.me/hn_summary/106902</guid>
+      <pubDate>Wed, 04 Sep 2024 11:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：arxiv.org</title>
-      <link>https://t.me/hn_summary/106878</link>
-      <description><![CDATA[展示 HN：使用 R 构建的移动应用程序
-标题：展示 HN：使用 R 构建的移动应用程序
-网站：arxiv.org
+      <title>[媒体] NaNoWriMo 最近接受人工智能生成的内容，引发了强烈的反对[...]</title>
+      <link>https://t.me/hn_summary/106901</link>
+      <description><![CDATA[NanoWrimo 接受使用人工智能的人——作者团体反对
+NaNoWriMo 最近接受人工智能生成的内容，引发了社区的强烈反对。长期会员莫里斯与该组织断绝了关系，批评人工智能不道德，阻碍了作家的成长。C. L. Polk 谴责 NaNo 的立场是对残疾作家的蔑视，称其为“糟糕的小说”。Jenai May 和 Rebecca Thorne 等长期参与者表达了背叛的感觉，强调 NaNo 的立场破坏了人类创造力和社区的本质。 Thorne 在 TikTok 上疯传的视频批评 NaNo 使用政治正确的语言来掩盖其有争议的立场，强调艺术本质上是人类的，不应该依赖人工智能。]]></description>
+      <guid>https://t.me/hn_summary/106901</guid>
+      <pubDate>Wed, 04 Sep 2024 11:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Gray Stream 来自一个在路易斯安那州石油工业中根深蒂固的家庭，非常 [...]</title>
+      <link>https://t.me/hn_summary/106900</link>
+      <description><![CDATA[美国的新气候妄想
+Gray Stream 来自一个在路易斯安那州石油行业根深蒂固的家庭，他正在进军碳捕获和封存 (CCS) 领域，将碳排放封存在地下。他的公司 Gulf Coast Sequestration 旨在利用拜登政府的《通胀削减法案》，该法案鼓励 CCS 项目。路易斯安那州的地质条件非常适合此类项目，该州拥有美国提议的很大一部分 CCS 项目。然而，CCS 是有争议的；它可能会延续石油和天然气行业的运营，而不是抑制排放。批评人士认为，CCS 是一种昂贵的、未经证实的解决方案，可能会成为继续依赖化石燃料的漏洞。 （基于 99% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/106900</guid>
+      <pubDate>Wed, 04 Sep 2024 11:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：软件依赖性的基本规律</title>
+      <link>https://t.me/hn_summary/106899</link>
+      <description><![CDATA[软件依赖关系的基本法则
+标题：软件依赖关系的基本法则
+
+网站：matklad.github.io
 
 摘要：
-我们很高兴推出一款完全使用 R 编程语言开发的移动应用程序。这个创新项目展示了 R 的多功能性和强大功能，超越了其在数据分析和统计方面的传统用途。通过利用 Shiny 和其他 R 包，我们创建了一个功能齐全的移动应用程序，展示了 R 在移动开发中的潜力。这种方法相对独特，因为 R 通常与应用程序开发无关，这使得我们的项目既令人惊讶又巧妙。我们希望这可以激励其他人探索 R 的非常规用途并突破这种语言所能实现的界限。]]></description>
-      <guid>https://t.me/hn_summary/106878</guid>
-      <pubDate>Wed, 04 Sep 2024 05:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：我不想再当软件工程师了。</title>
-      <link>https://t.me/hn_summary/106877</link>
-      <description><![CDATA[问 HN：我不想再当软件工程师了。我还能做什么？
-在 Hacker News 最近的一次讨论中，一位用户表达了离开软件工程领域的愿望，并寻求其他职业道路的建议。该帖子吸引了众多成功转型到不同职业的个人的回复。一些受欢迎的建议包括产品管理、技术写作和创业等职位。其他人分享了他们进入教育、医疗保健和艺术等领域的经历。对话强调了一种普遍的观点：在软件工程中获得的技能具有高度的可转移性，可以为各种机会打开大门。值得注意的是，有令人惊讶的人数在完全不相关的领域找到了成就感，强调了技术背景的多功能性。]]></description>
-      <guid>https://t.me/hn_summary/106877</guid>
-      <pubDate>Wed, 04 Sep 2024 05:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Firefox 130 网络浏览器二进制文件今天在官方公告发布之前发布 [...]</title>
-      <link>https://t.me/hn_summary/106876</link>
-      <description><![CDATA[Firefox 130 现已在桌面上启用 WebCodecs API
-Firefox 130 网络浏览器二进制文件今天发布，比定于周二发布的官方公告提前。虽然不是特别具有突破性，但 Firefox 130 引入了几个值得注意的更新。这些包括改进的文本本地翻译处理、Linux 上可滚动区域的默认启用滚动动画、通过 Firefox Lab 页面更轻松地启用实验性功能以及增强的 Android 页面加载性能。此外，WebCryptoAPI 现在支持 Curve25519 原语。一个突出的功能是 WebCodecs API，现在已在桌面平台上启用，提供对音频和视频编码器/解码器的低级访问。这对基于 Web 的应用程序（如视频/音频编辑器和视频会议工具）特别有益。有关更多详细信息，请访问 developer.mozilla.org，Linux 用户可以从 Mozilla.org 下载二进制文件。]]></description>
-      <guid>https://t.me/hn_summary/106876</guid>
-      <pubDate>Wed, 04 Sep 2024 04:44:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 濒海战斗舰“曼彻斯特”号上的高级士兵领导秘密安装了 [...]</title>
-      <link>https://t.me/hn_summary/106875</link>
-      <description><![CDATA[海军首领密谋非法获取军舰 Wi-Fi
-根据海军内部调查，濒海战斗舰曼彻斯特号上的高级士兵领导在 2023 年的一次部署中秘密安装并使用了未经授权的 Starlink Wi-Fi 网络。在当时的指挥官高级首领格里塞尔·马雷罗的带领下，首领们绕过了作战安全协议，建立了一个名为“STINKY”的网络供他们专用。这种秘密设置带来了重大的安全风险，尤其是在与中国的紧张局势加剧的情况下。马雷罗多次就该网络撒谎，他被军事法庭审判、定罪并被降职。调查显示，有超过 15 名首领参与了这一阴谋，面临行政处罚。争议在于公然无视安全协议和隐藏网络所涉及的操纵。（基于 89% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106875</guid>
-      <pubDate>Wed, 04 Sep 2024 03:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 今天，我们很高兴地宣布 Vue 3.5“天元突破：红莲螺岩”发布！</title>
-      <link>https://t.me/hn_summary/106874</link>
-      <description><![CDATA[Vue 3.5 – Vue Point
-今天，我们很高兴地宣布发布 Vue 3.5“天元突破：红莲螺岩”！本次小更新引入了重大的内部改进和新功能，但没有任何重大更改。主要亮点包括：
 
-1. 反应系统优化：增强性能和内存使用，特别是对于大型、深度反应数组。
-2. 反应性道具解构：使用默认值简化道具声明，现在默认为反应性。
-3. SSR 改进：延迟水化和 useId() 等功能可在服务器和客户端渲染之间提供稳定的 ID。
-4. 自定义元素增强：新的 API 和选项可更好地支持自定义元素。
-5. 其他值得注意的功能：useTemplateRef()、延迟传送和 onWatcherCleanup()，可更好地管理观察者。
-
-有关更改的详细列表，请访问 GitHub 上的完整更改日志。祝您黑客愉快！]]></description>
-      <guid>https://t.me/hn_summary/106874</guid>
-      <pubDate>Wed, 04 Sep 2024 03:38:21 GMT</pubDate>
+软件依赖关系的基本法则认为，规范源代码应包含其所有依赖项的校验和。该原则可确保软件开发的完整性和可重复性。例如，软件应使用 Git 等内容寻址版本控制系统，并包含第三方库及其依赖项的带有校验和的锁定文件。令人惊讶的是，作者认为，为了增强安全性和信任度，甚至应该包括编译器的哈希值，而不仅仅是其版本。这种方法需要了解依赖项、自动下载依赖项、确保可重现构建以及隔离每个项目的依赖项。这些步骤共同简化了软件开发。]]></description>
+      <guid>https://t.me/hn_summary/106899</guid>
+      <pubDate>Wed, 04 Sep 2024 11:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>康涅狄格州消费者保护局博彩部门 (DCP) 对 DraftKings 处以 19 美元的罚款 [...]</title>
-      <link>https://t.me/hn_summary/106873</link>
-      <description><![CDATA[Draftkings 因老虎机“故障”导致无法获胜而被罚款
-康涅狄格州消费者保护局博彩部门 (DCP) 对 DraftKings 处以 19,000 美元罚款，原因是在线老虎机游戏“Deal or No Deal Banker&#39;s Bonanza”出现技术故障，导致玩家无法获胜。2023 年 8 月的一周内，522 名客户下注超过 23,000 美元，却没有任何回报。尽管宣传玩家回报率 (RTP) 为 95%，但游戏的赔率被设置为零。DraftKings 退还了赌注，但未能通知客户故障或及时向 DCP 报告。此外，游戏开发商 White Hat Gaming 被罚款 3,500 美元。值得注意的是，一位报告该问题的 VIP 客户被锁定在自己的账户之外，并被转介到赌博成瘾服务机构，这凸显了对客户投诉的有争议的处理不当。DraftKings 的 iGaming 收入继续增长，据报道，2024 年第二季度的收入为 11 亿美元，在在线体育博彩和赌场游戏行业占有 32% 的市场份额。]]></description>
-      <guid>https://t.me/hn_summary/106873</guid>
-      <pubDate>Wed, 04 Sep 2024 03:08:09 GMT</pubDate>
+      <title>[媒体] 当 Civil Eats 于 2009 年推出时，没有一家主流媒体关注 [...]</title>
+      <link>https://t.me/hn_summary/106898</link>
+      <description><![CDATA[Civil Eats：我们的报道现在对所有人免费
+Civil Eats 于 2009 年推出时，没有一家主要媒体关注食品与社会和政治问题的交集。在过去 15 年里，我们率先探讨食品和农业，让主流观众能够看到复杂、报道不足的故事。我们富有影响力的报道获得了广泛认可，包括 2013 年的 10 万美元 Kickstarter 活动、2014 年詹姆斯·比尔德基金会的年度出版物奖，以及我们的调查系列和新闻通讯获得的多个奖项。2015 年，我们引入了付费墙来维持我们的非营利新闻编辑室，但我们始终致力于让我们的新闻免费。现在，感谢 11th Hour Project 和 GRACE Communications Foundation 的慷慨资助，我们很高兴地宣布我们的报道将免费向所有人开放一年。为了保持这种可访问性，我们正在发起会员活动。您的支持对于让我们的重要故事保持活力至关重要。立即成为会员，确保我们的工作继续进行。]]></description>
+      <guid>https://t.me/hn_summary/106898</guid>
+      <pubDate>Wed, 04 Sep 2024 10:54:49 GMT</pubDate>
     </item>
     <item>
-      <title>网站：cacm.acm.org</title>
-      <link>https://t.me/hn_summary/106872</link>
-      <description><![CDATA[更快的整数编程
-标题：更快的整数编程
-网站：cacm.acm.org
+      <title>“SRE”（站点可靠性工程师）一词已经失去了其原有的含义和价值。</title>
+      <link>https://t.me/hn_summary/106897</link>
+      <description><![CDATA[“SRE”似乎不再有任何用处
+“SRE”（站点可靠性工程师）一词已经失去了其原有的含义和价值。最初，SRE 被视为系统管理员和程序员的混合体，既能维护系统，又能开发新的解决方案。然而，该角色已沦为单纯的“devops”或“ops monkeys”，降级为支持“真正的”程序员，而没有认可他们更广泛的技能。这种转变在招聘实践中很明显，SRE 的职位发布吸引了只专注于运营的候选人。作者分享了自己被解雇的个人经历，因为他们被贴上了 SRE 的标签，尽管他们拥有丰富的编程和系统管理技能。这种误解令人沮丧，凸显了一个更广泛的行业问题。作者还展示了他们自己的先进工作，例如开发并行化的 C++ 构建工具，以强调 SRE 不仅仅是支持人员。]]></description>
+      <guid>https://t.me/hn_summary/106897</guid>
+      <pubDate>Wed, 04 Sep 2024 10:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：anotherwrapper.com</title>
+      <link>https://t.me/hn_summary/106896</link>
+      <description><![CDATA[显示 HN：我构建了一个可以免费生成 AI 应用的 AI 应用
+标题：显示 HN：我构建了一个可以免费生成 AI 应用的 AI 应用
+网站：anotherwrapper.com
 
-整数编程对于解决调度、组合和优化问题至关重要，由于变量被限制为整数值，传统上需要大量计算资源。Victor Reis 和 Thomas Rothvoss 最近证明了解决任何整数程序所需时间的新上限，该算法基于 Daniel Dadush 颇具影响力的博士论文中的算法。他们的证明表明，整数线性程序的求解效率几乎与二进制整数程序一样高，这是一个重大的理论进步。然而，由于算法的复杂性和内存要求，实际实施仍然具有挑战性。目前的启发式方法虽然未经证实，但对于实际应用来说更有效。新的证明提供了理论上的突破，将找到解决方案的最短时间缩短到 (log n)O(n)，这比以前的 n^n 界限有了显着改进。]]></description>
-      <guid>https://t.me/hn_summary/106872</guid>
-      <pubDate>Wed, 04 Sep 2024 03:08:05 GMT</pubDate>
+了解 AnotherWrapper 如何通过我们的免费 AI 应用生成器彻底改变您的 AI 开发。此工具可让您轻松创建 AI 和非 AI 应用。该生成器支持文本和视觉 AI（GPT-4o 和 GPT 4o-mini）、图像生成（DALL-E 3）和语音识别（Whisper），全部使用 Next.js 14、TailwindCSS 和 shdacn/ui 构建。对于更高级的需求，AnotherWrapper Premium 提供了一个全面的 AI 入门套件，其中包含 10 个演示应用程序、预配置的 API、数据库集成、身份验证、支付处理、SEO 优化等。节省 100 多个小时的开发时间并快速构建可用于生产的 AI 应用程序。定期更新可确保您掌握最新的 AI 技术。请访问我们的网站开始使用或联系我们获取支持。]]></description>
+      <guid>https://t.me/hn_summary/106896</guid>
+      <pubDate>Wed, 04 Sep 2024 10:27:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
