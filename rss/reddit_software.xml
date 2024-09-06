@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 01:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 03:15:25 GMT</lastBuildDate>
+    <item>
+      <title>尝试从 .DAT 文件获取数据</title>
+      <link>https://www.reddit.com/r/software/comments/1fa40ej/trying_to_get_data_from_a_dat_file/</link>
+      <description><![CDATA[大家好，我对计算机不是很精通，但我反编译了我小时候玩的一款游戏，发现了一个 .dat 文件，里面有关于敌人等的数据，但我不太清楚如何读取它。里面有奇怪的字符。我甚至不确定它是什么类型的数据，我只知道它叫做 npc.dat。有没有办法对这个文件进行逆向工程，使其可读？以下是供参考的图片： https://preview.redd.it/hh6uxhpek3nd1.png?width=911&amp;format=png&amp;auto=webp&amp;s=43555f048f5d5ff5819ac5b63f4e12a1e8102d63    提交人    /u/1cy_1n3vit4ble   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fa40ej/trying_to_get_data_from_a_dat_file/</guid>
+      <pubDate>Fri, 06 Sep 2024 02:08:22 GMT</pubDate>
+    </item>
     <item>
       <title>寻找类似 Phone Link 的允许添加联系人的软件</title>
       <link>https://www.reddit.com/r/software/comments/1fa1eyu/looking_for_a_software_similar_to_phone_link_that/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，有没有一个文件管理器可以让你为文件和文件夹分配标签和状态并备份这些标签？让我更好地解释一下：我使用 Directory Opus，当我完成一些文件的工作时，我会为包含这些文件的文件夹分配一个具有特定颜色和图标的标签，对我来说，这个功能非常重要，因为它可以帮助我管理我的工作，不幸的是 Directory Opus 不允许你备份这种类型的更改，事实上，当我前段时间格式化 PC 时，恢复后所有文件夹都丢失了我应用的更改。如果没有备份的可能性，进行这些更改就没有多大意义，因为你不确定是否可以保留它们    提交人    /u/Faoineag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f9dtty/file_manager_that_allows_you_to_change_folder/</guid>
       <pubDate>Thu, 05 Sep 2024 04:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有预设进程的合成器式音调发生器</title>
-      <link>https://www.reddit.com/r/software/comments/1f9af3k/synthesizerstyle_tone_generator_with_preset/</link>
-      <description><![CDATA[寻找工具时，我发现一些浏览器应用很接近。它们让我选择一个和弦并弹奏它。有些会让我设置和弦的进行，有些会让我逐步完成它们，但我找不到一个可以满足我所有需求的工具。上下文（不是必需的，但它可能有助于理解请求）：我正在运行一个以谜题为主题的 RPG 任务，我正在写一个大结局，他们将收集的所有钥匙和文物带到首都，随着他们越来越近，钥匙开始慢慢地一个接一个地哼唱和弦。一旦他们到达市中心，这些魔法物品就会一个接一个地融合（改变和弦）到钥匙所在的箱子里 我希望该工具能做的事情： 1）我需要同时播放 4 个音调（我希望能够像合成器一样改变声音。也许选择一个声音“哦”或者排箫什么的，但这不是绝对必要的） 2）我需要能够一次打开一个音符 3）我需要能够同步控制所有 4 个音符的音量 4）我需要音符无限期地播放而不淡出 5）我需要能够有 5 个不同的预设和弦，并且我可以同时切换所有 4 个音符，同时它们都继续播放    提交人    /u/dimonium_anonimo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9af3k/synthesizerstyle_tone_generator_with_preset/</guid>
-      <pubDate>Thu, 05 Sep 2024 01:27:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
