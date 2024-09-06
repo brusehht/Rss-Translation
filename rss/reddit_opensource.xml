@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 06 Sep 2024 03:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 06:19:33 GMT</lastBuildDate>
+    <item>
+      <title>termify - 一个基于开源终端的 Spotify 播放控制器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fa8cf8/termify_an_open_source_terminalbased_spotify/</link>
+      <description><![CDATA[https://github.com/evanlaube/termify 我刚刚发布了 termify 1.0.0 版（或者说 1.0.1 版），这是一个基于终端的 Spotify 播放控制器。目前，该应用程序仅提供简单的功能，如播放/暂停、跳过、上一个和选择播放设备，但现有的框架都非常可扩展，将允许快速实现更多功能。第一个计划中的功能是选择用户播放列表和收藏夹以切换播放，以及清理用户界面和添加一些颜色。 该项目目前可从 PyPI 下载，项目名称为 termify-py。 如果有人能看看它并就任何事情提供一些反馈，我将不胜感激 - 无论是代码、存储库的专业程度，还是功能建议。如果您发现有需要，请随意使用该项目，非常欢迎大家做出贡献！    提交人    /u/evanlaubster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fa8cf8/termify_an_open_source_terminalbased_spotify/</guid>
+      <pubDate>Fri, 06 Sep 2024 06:15:45 GMT</pubDate>
+    </item>
     <item>
       <title>LineupX，一款开源社交媒体网络应用，帮助游戏玩家了解阵容</title>
       <link>https://www.reddit.com/r/opensource/comments/1fa43hr/lineupx_opensource_socialmedia_feel_webapp_for/</link>
-      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的游戏玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fa43hr/lineupx_opensource_socialmedia_feel_webapp_for/</guid>
       <pubDate>Fri, 06 Sep 2024 02:12:39 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>我们构建了 GitBook 的 FOSS 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1f9v95b/we_built_a_foss_alternative_to_gitbook/</link>
-      <description><![CDATA[我们喜欢 gitbook，但讨厌它的价格不可预测 + 它不是 FOSS :(，所以我们构建了一些可以用于我们文档需求的东西。我们是 docusaurus 和 RsPress 的忠实粉丝（像 docusaurus 但使用基于 rust 的工具构建），但让非技术人员使用它很麻烦。 介绍 kalmia！它是免费的（就像使用 AGPLv3 的自由一样），它很漂亮，它的速度非常快。如果您想了解有关它的更多详细信息，您可以在我们的博客上阅读有关它的信息，或者直接转到 github/文档。 PS：这是一个非常早期的产品，因此可能会有一些错误/重大更改！    提交人    /u/fazelesswhite   [链接] [评论]]]></description>
+      <description><![CDATA[我们喜欢 gitbook，但讨厌它的价格不可预测 + 它不是 FOSS :(，所以我们构建了一些可以用于我们文档需求的东西。我们是 docusaurus 和 RsPress 的忠实粉丝（像 docusaurus 但使用基于 rust 的工具构建），但让非技术人员使用它很麻烦。 介绍 kalmia！它是免费的（就像 AGPLv3 的自由一样），它很漂亮，它的速度非常快。如果您想了解有关它的更多详细信息，您可以在我们的博客上阅读它，或者直接转到 github/文档。 PS：这是一个非常早期的产品，因此可能会有一些错误/重大更改！    提交人    /u/fazelesswhite   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9v95b/we_built_a_foss_alternative_to_gitbook/</guid>
       <pubDate>Thu, 05 Sep 2024 19:34:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[具有以下功能的开源 Google 表单替代品：  自动保存当前状态（例如：当前标记的选项） 超时后自动提交     提交人    /u/Soggy_Spare_5425   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9ds11/google_form_alternative/</guid>
       <pubDate>Thu, 05 Sep 2024 04:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以从复制的链接中删除跟踪器的软件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9cf3d/searching_for_software_that_will_remove_trackers/</link>
-      <description><![CDATA[谢谢    由   提交  /u/TrackRound4807   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9cf3d/searching_for_software_that_will_remove_trackers/</guid>
-      <pubDate>Thu, 05 Sep 2024 03:06:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
