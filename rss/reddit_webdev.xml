@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 06:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 09:14:13 GMT</lastBuildDate>
+    <item>
+      <title>25 个待处理更新</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbtelp/25_pending_updates/</link>
+      <description><![CDATA[      大家好，希望你们都很好。  我们的 Wordpress 网站有 25 个待处理更新，我只是想知道，这有多糟糕？  我们的开发人员说，如果他们更新这些插件，网站就会崩溃，甚至无法恢复。  我做了一些研究，发现不更新某些插件会导致更高的安全漏洞几率。  我不是 Web 开发专家，所以我想问你们。  如能得到任何帮助/建议，我们将不胜感激！     提交人    /u/conglomeratemoose   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbtelp/25_pending_updates/</guid>
+      <pubDate>Sun, 08 Sep 2024 08:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周我将参加软件工程师（前端）职位的电话面试。需要进行哪些测试？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbr9cf/i_will_have_a_phone_screen_this_week_for_software/</link>
+      <description><![CDATA[要求：React + Redux（或同等水平）、JS、CSS、编写测试、对其他人的代码给予良好的反馈、熟悉 CSS 并熟悉设计系统和组件库之类的东西是必需的、熟悉 CSS 并熟悉设计系统和组件库之类的东西是必需的，等等。    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbr9cf/i_will_have_a_phone_screen_this_week_for_software/</guid>
+      <pubDate>Sun, 08 Sep 2024 06:19:40 GMT</pubDate>
+    </item>
     <item>
       <title>[Showoff Saturday] 我尝试使用无服务器技术制作一个 1 帖子留言板</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbppz0/showoff_saturday_i_tried_making_a_1_post_message/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>Vanilla JS 输入字段的内联自动完成功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbhzn7/vanilla_js_inline_autocomplete_for_input_fields/</link>
-      <description><![CDATA[      当我的应用程序需要它时，我找不到任何与此完全类似的东西，因此我将其放在一起（在 ChatGPT 的慷慨帮助下 :) ），现在我将其放在网上，也许它可以为某人节省几个小时。 它就可以工作，并且不需要额外的库或一些 npm 向导或类似的东西 - 只需包含 .js 文件，向输入字段添加一个类并创建建议数组。 https://i.redd.it/qo05gc47ignd1.gif 当用户开始输入时，第一个建议会出现在输入框内，根本没有下拉菜单。当按下 Tab 或 Enter 键时，建议被接受，并且焦点根据 tabindex 移动到下一个输入字段。    提交人    /u/mvktc   [链接] [评论] ]]></description>
+      <description><![CDATA[      当我的应用程序需要它时，我找不到任何与此完全类似的东西，因此我将其放在一起（在 ChatGPT 的慷慨帮助下 :) ），现在我将其放在网上，也许它可以为某人节省几个小时。 它就可以工作，并且不需要额外的库或一些 npm 向导或类似的东西 - 只需包含 .js 文件，向输入字段添加一个类并创建建议数组。 https://i.redd.it/qo05gc47ignd1.gif 当用户开始输入时，第一个建议会出现在输入框内，根本没有下拉菜单。当按下 Tab 或 Enter 键时，建议被接受，并且焦点根据 tabindex 移动到下一个输入字段。 编辑： Datalist 不是我需要的解决方案，因为它： 1. 创建某种下拉菜单 2. 没有选择并将焦点移动到 tab 或 enter 上（它在箭头上然后输入然后 tab 上，但我需要加快输入过程）。    提交人    /u/mvktc   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbhzn7/vanilla_js_inline_autocomplete_for_input_fields/</guid>
       <pubDate>Sat, 07 Sep 2024 21:43:01 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/dotnet_ninja  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbhqoh/i_made_a_website_that_simulates_punch_cards/</guid>
       <pubDate>Sat, 07 Sep 2024 21:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何现有的 i18n 资源（例如 .pot 文件）用于常见的与应用程序相关的单词/句子？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbhkna/is_there_any_existing_ressources_for_i18n_eg_pot/</link>
-      <description><![CDATA[您好， 我想知道是否有任何在线资源（例如 .pot 文件的存储库或类似内容）以多种语言提供，用于常见应用程序微文案。不是自定义复制文本，而是常用单词/句子...诸如“登录”、“注销”、“密码”、“您必须登录才能访问此页面”、“忘记密码了吗？”、“批准”、“取消”等。您知道通常的 UI 措辞.. 我知道我可以使用一些翻译服务，但我猜这种与 UI 相关的措辞已经（应该？）本地化，并且在许多语言中可能不同于常规的逐字翻译。我尝试使用 Google 搜索，但只能找到 i18n 库，而找不到实际内容。 我想，如果没有专门的翻译内容存储库，也许有一些开源项目已经本地化/国际化，我可以在其中查看 i18n 文件？ 谢谢。    提交人    /u/sanjibukai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbhkna/is_there_any_existing_ressources_for_i18n_eg_pot/</guid>
-      <pubDate>Sat, 07 Sep 2024 21:23:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个现代化的投资组合和技术博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbh9wx/i_built_a_modern_portfolio_and_tech_blog/</link>
-      <description><![CDATA[      今年夏天，我建立了一个投资组合来展示我的技能。主要技术是 Next.js、TypeScript、Tailwind、Framer Motion 和 Directus CMS。 我还计划创建教程博客，我的第一个博客将是使用 Oracle Cloud 免费托管网站的教程。您可以通过 RSS 源或电子邮件订阅，以便在上线时收到通知 :D 我有点紧张与同学以外的更广泛的受众分享这个。我非常感谢任何反馈！ kristiankahkonen.com 谢谢 :)    提交人    /u/bruhprogramming   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbh9wx/i_built_a_modern_portfolio_and_tech_blog/</guid>
-      <pubDate>Sat, 07 Sep 2024 21:09:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
