@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Sep 2024 21:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 01:03:05 GMT</lastBuildDate>
+    <item>
+      <title>catbox.moe 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fcatg2/catboxmoe_alternatives/</link>
+      <description><![CDATA[我是某些网站论坛的活跃成员，这些论坛不允许上传图片，只能通过 [img] 标签嵌入图片，我需要类似 catbox.moe 的东西，有推荐吗？谢谢     提交人    /u/asapprivacy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fcatg2/catboxmoe_alternatives/</guid>
+      <pubDate>Sun, 08 Sep 2024 22:59:57 GMT</pubDate>
+    </item>
     <item>
       <title>PostgreSQL 备份工具 - PG Back Web v0.3.0 发布！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc8c7e/postgresql_backup_tool_pg_back_web_v030_released/</link>
@@ -43,12 +50,12 @@
     <item>
       <title>为什么人类不为 Android 制作一个简单的开源 IP 摄像头？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc0xbq/why_does_humanity_not_make_a_simple_open_source/</link>
-      <description><![CDATA[我找不到一个没有以某种方式故意破坏的。难道真的没有一个人具备将这些软件组件组装成免费/开放/安全解决方案所需的技能吗？我真的对此感到沮丧，希望我只是瞎了眼。我在 fdroid 上搜索“cam”，似乎 FOSS 世界根本就没有将相机输出到 IP 的能力。但付费项目并不缺乏，人们希望我从他们那里租用我自己的手机相机。 请告诉我我错过了一些简单的事情。 编辑：是的，每次都是：“没有你！” 所以我想我的答案是：每一个有能力做到这一点的人都宁愿尝试成为数字房东。    提交人    /u/Innomen   [链接] [评论]]]></description>
+      <description><![CDATA[我找不到一个没有以某种方式故意破坏的。难道真的没有一个人具备将这些软件组件组装成免费/开放/安全解决方案所需的技能吗？我真的对此感到沮丧，希望我只是瞎了眼。我在 fdroid 上搜索“cam”，似乎 FOSS 世界直接缺乏将相机输出到 IP 的能力。但付费项目并不缺乏，人们希望我从他们那里租用我自己的手机相机。 请告诉我我错过了一些简单的事情。 编辑：是的，每次都是：“没有你！” 所以我想我的答案是：每一个有能力做到这一点的人都宁愿尝试成为数字房东。    提交人    /u/Innomen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc0xbq/why_does_humanity_not_make_a_simple_open_source/</guid>
       <pubDate>Sun, 08 Sep 2024 15:49:52 GMT</pubDate>
     </item>
     <item>
-      <title>让开源项目支持付费！！</title>
+      <title>让开源项目支持付费！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc0oxo/make_opensource_projects_support_paid/</link>
       <description><![CDATA[只是想讨论一个想法。 如果任何开源项目所有者都对问题提供支持，比如如果有人希望他们解决某个问题，他们可以向他们支付少量费用（例如 10 美元）以优先处理他们的问题。并且所有者可以为他们提供解决问题的时间表等。 这会起作用吗？我还有其他一些想法，例如开源软件包提供商，例如 npm、pub.dev 等， 可以根据其产品的受欢迎程度和使用量向其合作者付费，并且在免费试用后，例如第一年是免费的，然后，将需要付费安装软件包，或者每月订阅使用他们的服务，每月订阅费用为 1 美元，然后他们可以使用这笔钱来适当地支付每个软件包的开发人员？基于他们项目的受欢迎程度？ 我相信这也将使我们拥有更多强大的开源应用程序。    提交人    /u/ViLSaBly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc0oxo/make_opensource_projects_support_paid/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[HMF4J 是一个从应用程序中抽象出消息传递层的框架。它抽象了如何与不同的消息传递系统（如 Apache Kafka、Google Pubsub、MQTT 等）交互的细节……因此，该框架使您能够专注于核心应用程序细节，而无需花费精力与消息传递层集成。这还使您能够无缝地从一种消息传递服务切换到另一种消息传递服务。除了标准化消息层的核心功能外，HMF4J 还提供以下功能：  非常高效的调度程序，为开发人员在处理传入数据方面提供不同级别的灵活性 与多个消息系统无缝互操作 按顺序排列消息以避免竞争条件情况 标准化消息类型 使用打包的测试工具包和名为 Photon Messaging System 的内存消息系统对应用程序进行无缝测试  更多详细信息请点击此处 - https://handy-messaging-framework.github.io/handy-messaging4j-docs/     提交人    /u/aronsajan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fbp14d/handymessagingframework4jhmf4j/</guid>
       <pubDate>Sun, 08 Sep 2024 03:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想在其他浏览器中使用 Edge 的工作区，所以我制作了一个 FOSS 扩展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</link>
-      <description><![CDATA[我非常喜欢 Microsoft Edge 的工作区，但我喜欢使用 Google Chrome。因此，我决定制作一个扩展程序，无需使用 Edge 即可复制大部分行为。 演示 gif 链接  Github repo Chrome 网上应用店 Firefox 插件商店     由   提交  /u/Elec0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</guid>
-      <pubDate>Sat, 07 Sep 2024 23:35:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
