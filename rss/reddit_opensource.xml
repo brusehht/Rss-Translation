@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Sep 2024 21:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 01:01:48 GMT</lastBuildDate>
+    <item>
+      <title>资产保留软件/应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fd3mik/asset_reservation_software_application/</link>
+      <description><![CDATA[您好， 我们是一家非营利组织，每年组织一次为期 3 天的活动旅行。我们想为我们的用户提供一个平台，他们可以以 4 人为一组预订/修改/取消酒店房间（资产）。根据该平台上的预订，我们的组织将为 4 人组与我们的合作酒店进行预订。 您知道任何我们可以使用且易于设置的开源资产预订平台/应用程序吗？ 我们组织内有几个志愿者开发人员可以提供帮助。 谢谢，    提交人    /u/Bitnamus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fd3mik/asset_reservation_software_application/</guid>
+      <pubDate>Mon, 09 Sep 2024 23:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>寻找开源 ABBYY FineReader 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1fczml2/looking_for_an_open_source_abbyy_finereader/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>带有工作区功能的 Slack 免费替代品（最好不是 Discord）</title>
       <link>https://www.reddit.com/r/opensource/comments/1fcrnn5/free_alternative_to_slack_with_workspaces/</link>
-      <description><![CDATA[您好， 我目前负责管理大学社团的通讯，我们正在寻找 Slack 的免费替代方案。Slack 的定价模式对我们来说相当高，免费模式限制颇多，尤其是考虑到其 90 天的消息历史记录限制。 我们正在寻找一种提供与 Slack 的工作区类似功能的工具。我喜欢 Discord 的功能和用户友好界面，但它的不足之处在于 Discord 服务器不提供 Slack 的工作区那样的用户配置文件分离。我们需要每个成员在每个工作区中都有唯一的配置文件，而 Discord 不支持这一点。 根据之前的建议，我研究了其他替代方案，例如 MatterMost 和 RocketChat，但它们也有自己的问题，例如缺乏对频道和类别的适当权限控制，这使得它们不太适合我们的需求。 目前，自托管对我们来说不是一种选择，因此我们希望找到一个免费的基于云的解决方案。 所以，我的问题是：  有没有免费工具提供与 Slack 类似的功能集，具有适当的工作区分离并且成本不高？ 如果我们必须在 Slack 和 Discord 之间做出选择，您会推荐哪一个用于大学俱乐部环境？我个人更喜欢 Discord，因为它的功能和社区方面，但我知道 Slack 可能提供更专业的方法，这也是人们更习惯的，但 90 天的消息限制是一个巨大的限制。  提前感谢您的建议和意见！    提交人    /u/EliteTrainedPro   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我目前负责管理大学社团的通讯，我们正在寻找 Slack 的免费替代方案。Slack 的定价模式对我们来说相当昂贵，免费模式限制颇多，尤其是考虑到其 90 天的消息历史记录限制。 我们正在寻找一种提供与 Slack 的工作区类似功能的工具。我喜欢 Discord 的功能和用户友好界面，但它的不足之处在于 Discord 服务器不提供 Slack 的工作区那样的用户配置文件分离。我们需要每个成员在每个工作区中都有唯一的配置文件，而 Discord 不支持这一点。 根据之前的建议，我研究了其他替代方案，例如 MatterMost 和 RocketChat，但它们也有自己的问题，例如缺乏对频道和类别的适当权限控制，这使得它们不太适合我们的需求。 目前，自托管对我们来说不是一种选择，因此我们希望找到一个免费的基于云的解决方案。 所以，我的问题是：  有没有免费工具提供与 Slack 类似的功能集，具有适当的工作区分离并且成本不高？ 如果我们必须在 Slack 和 Discord 之间做出选择，您会推荐哪一个用于大学俱乐部环境？我个人更喜欢 Discord，因为它的功能和社区方面，但我知道 Slack 可能提供更专业的方法，这也是人们更习惯的，但 90 天的消息限制是一个巨大的限制。  提前感谢您的建议和意见！    提交人    /u/EliteTrainedPro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fcrnn5/free_alternative_to_slack_with_workspaces/</guid>
       <pubDate>Mon, 09 Sep 2024 15:05:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由    /u/FastoGt  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fci9pd/fastocloud_have_added_whep_controllersignalling/</guid>
       <pubDate>Mon, 09 Sep 2024 05:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>成功将闭源项目转变为开源项目的秘诀是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcgx86/tips_for_changing_a_closed_source_into_a_open/</link>
-      <description><![CDATA[大家好， 我一直在研究一个名为 pardocs.com 的项目。 Pardocs 是一个 Python 项目，可将非结构化文档转换为结构化 JSON。目前已经有了像 Llama-parse 这样的优秀开源项目，但我认为 ParDocs 提供的质量可与其媲美，甚至更好（个人想法，没有证据）。 目前它是闭源的，但我开始看到将其开源的好处。我不是天才，但我知道有数百万人比我更优秀，可以让 ParDocs 比现在更好。 我很想听听那些曾经走过这条路的人的任何提示或建议。我以前只参与过私人项目，所以我是开源世界的新手。我应该记住什么才能使其成功并吸引一个坚实的社区？或者任何有关开源项目的建议都会非常有帮助！    提交人    /u/dhj9817   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcgx86/tips_for_changing_a_closed_source_into_a_open/</guid>
-      <pubDate>Mon, 09 Sep 2024 04:14:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
