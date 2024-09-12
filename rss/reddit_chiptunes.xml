@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 12:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:14:42 GMT</lastBuildDate>
+    <item>
+      <title>纽约的芯片音乐</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1ff3dqd/chiptunes_in_nyc/</link>
+      <description><![CDATA[大家好！ 我想知道是否有人知道纽约有 chiptune 音乐的俱乐部或表演。我真的很喜欢这种类型的音乐，但不知道从哪里开始寻找。 仅供讨论，我最喜欢的一些艺术家是 Rhodz、Chipzel 和 Big Giant Circles！    提交人    /u/segaman098   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1ff3dqd/chiptunes_in_nyc/</guid>
+      <pubDate>Thu, 12 Sep 2024 14:05:02 GMT</pubDate>
+    </item>
     <item>
       <title>我在 famitracker 中的第一个曲目</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1feo1gq/my_first_track_in_famitracker/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        由    /u/The-Incineration-Man  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1fccgce/castlevaniafull_soundtrack/</guid>
       <pubDate>Mon, 09 Sep 2024 00:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>对位还是和弦？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fc3g8v/counterpoint_or_chords/</link>
-      <description><![CDATA[我正在研究 Gameboy Color 音乐，我看过的每一部“纪录片”和教程都说它根本没有和弦，而且音符也不是同时演奏的，但是，当我观看 FL Studio 重制的 Pokemon 游戏原声带时，钢琴卷中总是有和弦，并且演奏听起来与原版完全相同（假设他们只是将 MIDI 加载到钢琴卷中）。 那么，我在这里遗漏了什么？ 此外，Pokemon 音乐具有特定的声音，音符开始稳定，如果播放超过半秒就会开始摆动，而不仅仅是持续的摆动。我没有看到任何使用 VST（SoraBoy、PooBoy、MiniSynth、NES VST、MiniBit、Puls 等）来实现这一点的方法。 我想制作听起来和 Gameboy 一模一样的音乐，但使用 FL Studio。我找到的任何一个教程都没有达到这一点。他们要么只是播放他们制作的歌曲而不展示它，要么展示一首听起来不太好的歌曲的制作过程，但在特别试图找到让它尽可能真实的人时，他们希望你花 200 美元买一个插件或买一个实体 LSDJ。 ???    提交人    /u/LojaRich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fc3g8v/counterpoint_or_chords/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:38:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
