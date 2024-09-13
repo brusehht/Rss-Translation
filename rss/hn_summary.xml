@@ -4,93 +4,108 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 12:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 17:47:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体] “斯德哥尔摩综合症”一词由精神病学家 Nils Bejerot 创造，目的是诋毁 Kri [...]</title>
-      <link>https://t.me/hn_summary/108215</link>
-      <description><![CDATA[“斯德哥尔摩综合症”是警方为了诋毁一名女性人质而发明的
-“斯德哥尔摩综合症”一词是由精神病学家尼尔斯·贝杰罗特创造的，用来诋毁克里斯汀·恩马克，她是 1973 年瑞典银行抢劫案中对警方表现出不信任的女性人质。尽管从未与恩马克交谈过，但贝杰罗特认为她对警察的恐惧是非理性的，并将其归因于对绑架者的情感依恋。这种诊断后来被媒体广泛传播，因其厌恶女性的根源和缺乏诊断标准而受到批评。恩马克的行为是出于对警方处理不当的理性恐惧，而不是对绑架者的任何感情。这种综合症仍然存在争议，许多专家认为它是一种用来贬低暴力女性受害者的神话。]]></description>
-      <guid>https://t.me/hn_summary/108215</guid>
-      <pubDate>Fri, 13 Sep 2024 12:25:21 GMT</pubDate>
+      <title>LeetCode 评分对预测面试表现有多准确？</title>
+      <link>https://t.me/hn_summary/108252</link>
+      <description><![CDATA[LeetCode 评分如何准确预测面试表现？以下是数据
+Michael Mroczka 是一位经验丰富的 Google SWE，也是 interviewing.io 的顶级导师，他探讨了 LeetCode 评分与面试表现之间的相关性。与普遍看法相反，解决 700 多个 LeetCode 问题或获得 1800-2000 之间的评分并不是 FAANG 成功的必要条件。通过分析近 700 名用户的数据，Mroczka 发现，虽然解决的问题总数与更好的面试表现和 FAANG 就业率相关，但解决 500 个问题后，这种好处就会减弱。令人惊讶的是，解决较难的问题比解决中等问题能带来更高的回报，但直接跳到难题是不切实际的。然而，比赛成绩和 LeetCode 评分对面试成功没有显著影响。专注于持续练习并逐渐增加难度以获​​得最佳结果。]]></description>
+      <guid>https://t.me/hn_summary/108252</guid>
+      <pubDate>Fri, 13 Sep 2024 17:47:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] JG Ballard 在战争时期的上海的生活对他的作品产生了深远的影响，尤其是他的 [...]</title>
-      <link>https://t.me/hn_summary/108214</link>
-      <description><![CDATA[JG Ballard 的末世艺术
-JG Ballard 在战时上海的生活对他的作品产生了深远的影响，尤其是他的小说《太阳帝国》。这本 40 年前出版的书是对人类脆弱性、历史变迁和记忆变革力量的多方面探索。Ballard 在龙华平民集会中心的经历以及其撤离后的混乱塑造了他这样一种观点：极端情况可以导致自我发现。他的早期作品，如《淹没的世界》和《水晶世界》，同样探讨了末世主题和社会秩序的崩溃。巴拉德在《撞车》和《高楼》等小说中预见了城市衰败和社会崩溃，凸显了他预见未来社会趋势的独特能力。尽管目睹了恐怖，巴拉德还是将自己的创伤转化为神话故事，对人类状况进行了深刻反思，从中找到了慰藉。
+      <title>[媒体] 在本文中，Synacktiv 讨论了光纤网络的脆弱性以及 [...]</title>
+      <link>https://t.me/hn_summary/108251</link>
+      <description><![CDATA[使用 10 gbps 网络加密防御“吸血鬼”攻击
+在本文中，Synacktiv 讨论了光纤网络的脆弱性及其易于被窃听的特点，将其与 80 年代在铜缆上使用的“吸血鬼窃听器”进行了类比。作者强调，使用 200 美元的光学“夹式耦合器”等廉价工具即可破坏现代光纤，因此加密网络流量以保护数据至关重要。本文探讨了各种加密方法，包括 MACsec 以及使用 VXLAN 和 Wireguard 的自定义解决方案，最终发现 MACsec 在测试中不可靠。所提出的解决方案涉及使用 Linux 内核功能为 LAN 到 LAN 光纤链路创建安全、高速的加密隧道。
 
-争议：巴拉德对社会崩溃的模棱两可的态度以及他对野蛮资本主义而非福利国家的偏爱可能会引起一些读者的争议。
+争议点：本文批评了广泛使用的加密标准 MACsec 在实际场景中的不足之处，包括无法隐藏 MAC 地址和偶尔的加密失误。
 
-独特/聪明：巴拉德将个人创伤转化为神话般的、积极向上的叙事的能力既独特又令人感动。]]></description>
-      <guid>https://t.me/hn_summary/108214</guid>
-      <pubDate>Fri, 13 Sep 2024 12:09:14 GMT</pubDate>
+独特/巧妙之处：所提出的结合 VXLAN 和 Wireguard 加密 802.1q L2 流量的解决方案既创新又实用，利用众所周知的 Linux 内核功能实现高速、安全的通信。（基于 54% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/108251</guid>
+      <pubDate>Fri, 13 Sep 2024 17:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：candor.rocks</title>
-      <link>https://t.me/hn_summary/108213</link>
-      <description><![CDATA[展示 HN：从您的朋友、家人和同事那里获得坦诚的反馈
-标题：展示 HN：从您的朋友、家人和同事那里获得坦诚的反馈
-网站：candor.rocks
+      <title>[媒体] Skate 是一款轻量级、自托管的迷你 PAAS，旨在部署 Kubernetes 清单 [...]</title>
+      <link>https://t.me/hn_summary/108250</link>
+      <description><![CDATA[显示 HN：Skate，可以部署 K8s 清单的无守护进程迷你 PAAS
+Skate 是一款轻量级、自托管的迷你 PAAS，旨在部署 Kubernetes 清单而无需额外的守护进程。它旨在通过使用熟悉的 Kubernetes 配置来简化部署，并通过 CLI 进行操作，该 CLI 通过 SSH 与每个主机上的小型二进制文件进行通信。Skate 利用 podman kube play 来运行 pod 清单并支持各种 Kubernetes 资源，如 Pod、Deployments、DaemonSets、CronJobs、Ingress、Secrets 和服务。它通过最大限度地减少与新部署配置相关的学习曲线和低占用空间来脱颖而出。该项目支持 amd64 和 arm64 架构上的 Ubuntu 24.04。]]></description>
+      <guid>https://t.me/hn_summary/108250</guid>
+      <pubDate>Fri, 13 Sep 2024 17:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：Haiku R1/beta5 已发布</title>
+      <link>https://t.me/hn_summary/108249</link>
+      <description><![CDATA[Haiku R1/beta5 已发布
+标题：Haiku R1/beta5 已发布
 
-根据 Kim Scott 和 Netflix 首席执行官 Reed Hastings 推广的 Radical Candor 原则，最有效的改进方法是通过诚实和建设性的反馈。 Candor.rocks 可帮助您发现可能阻碍您前进的盲点 — 人们往往不愿分享令人不快的事实，但这些事实对您的个人和职业发展至关重要。我们提供重要的保障措施，以提高请求和接收反馈的舒适度：1. 反馈诚实坦率，允许人们分享未经过滤的想法。2. 反馈是匿名的，AI 会结合来自多个来源的输入以保持匿名。3. 反馈始终具有建设性，会过滤掉破坏性评论，以确保您只收到有用、坦诚的见解。]]></description>
-      <guid>https://t.me/hn_summary/108213</guid>
-      <pubDate>Fri, 13 Sep 2024 12:05:09 GMT</pubDate>
+经过 18 个月的专注开发，Haiku R1/beta5 现已发布，增强了硬件支持、稳定性和软件可用性。解决了近 350 个错误并进行了增强。尽管进行了这些改进，但 Haiku 仍然是测试版质量的软件，这意味着它功能齐全，但仍可能包含错误。值得注意的是，承包商 waddlesplash 做出了重大贡献，资金来自对 Haiku, Inc. 的捐款。关键更新包括使用“暗模式”简化颜色选择、Icon-O-Matic 增强、PowerStatus 改进、USB 音频支持、TCP 吞吐量增强和重写的 FAT 驱动程序。该版本还引入了实验性的 .NET Core 端口和可用的 FLTK 端口。 Haiku 继续改进 POSIX 兼容性，使开发人员更容易移植他们的软件。
+
+争议：无突出内容。
+
+令人惊讶/独特/聪明：实验性 .NET Core 端口的引入和显著的 TCP 吞吐量改进尤其引人注目。（基于 86% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/108249</guid>
+      <pubDate>Fri, 13 Sep 2024 17:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FlowTracker 是一个 Java 代理，旨在跟踪 Java 程序内的数据流，提供 [...]</title>
-      <link>https://t.me/hn_summary/108212</link>
-      <description><![CDATA[显示 HN：FlowTracker – 跟踪流经 Java 程序的数据
-FlowTracker 是一个 Java 代理，旨在跟踪 Java 程序中的数据流，提供有关数据读取、操作和写入方式的见解。它通过连接输入和输出，帮助用户了解程序输出的来源和转换。此工具对于调试和分析复杂应用程序中的数据流特别有用。FlowTracker 通过提供对文件和网络 I/O、数据库交互甚至代码中常量的来源的详细跟踪来脱颖而出。它目前是一个概念验证，可能会带来大量开销，使其更适合演示和分析，而不是生产用途。（基于 74% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/108212</guid>
-      <pubDate>Fri, 13 Sep 2024 11:54:54 GMT</pubDate>
+      <title>Meta 承认，所有成年 Facebook 和 Instagram 用户发布的所有公开文字和照片 [...]</title>
+      <link>https://t.me/hn_summary/108248</link>
+      <description><![CDATA[Meta 将自 2007 年以来成人公开发布的所有内容都输入到其 AI 中
+Meta 承认，自 2007 年以来，成年 Facebook 和 Instagram 用户发布的所有公开文本和照片都已用于训练其 AI 模型。最初，Meta 的全球隐私总监 Melinda Claybaugh 在澳大利亚政府的调查中否认了这些说法，但后来在进一步询问中证实了这些说法。该公司对其数据使用和收集时间表的具体细节含糊其辞。虽然欧洲用户可以因当地隐私法而选择退出，但大多数全球用户不能。有争议的是，Meta 证实它会抓取成人账户上发布的儿童公开照片，这引发了严重的隐私担忧。这一披露凸显了制定更强有力的隐私法规来保护用户数据的必要性。]]></description>
+      <guid>https://t.me/hn_summary/108248</guid>
+      <pubDate>Fri, 13 Sep 2024 17:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加州消防员使用了大约 50,000 加仑的水来扑灭一场大火 [...]</title>
-      <link>https://t.me/hn_summary/108211</link>
-      <description><![CDATA[加州用 5 万加仑水扑灭特斯拉半挂车起火事件
-据美国国家运输安全委员会 (NTSB) 称，加州消防员在发生车祸后用了大约 5 万加仑水扑灭特斯拉半挂车锂离子电池起火事件。事故发生在 8 月 19 日加州 Emigrant Gap 附近，当时由特斯拉员工驾驶的卡车偏离道路并撞上一棵树。电池温度达到 1,000 华氏度，需要飞机添加额外的阻燃剂。高速公路关闭了 15 个小时，卡车在事故发生后受到 24 小时的监控。NTSB 正在调查与大型锂离子电池相关的火灾风险，并计划发布安全建议。值得注意的是，当时这辆卡车并未搭载特斯拉的自动驾驶系统。美国国家运输安全委员会此前曾强调过高压电动汽车电池起火带来的风险，并批评制造商的应对指南不足。]]></description>
-      <guid>https://t.me/hn_summary/108211</guid>
-      <pubDate>Fri, 13 Sep 2024 11:49:50 GMT</pubDate>
+      <title>[媒体] 拜登政府正在提议制定新规则来解决“最低限度”豁免问题，[...]</title>
+      <link>https://t.me/hn_summary/108247</link>
+      <description><![CDATA[美国提出新的进口规则提案，针对 Shein 和 Temu
+拜登政府正在提出新规则来解决“最低限度”豁免问题，该政府声称，一些中国电子商务公司（如 Shein 和 Temu）利用这一豁免，向美国客户运送 800 美元以下的产品而无需缴纳关税。拟议的规则将对来自中国的某些货物进行更严格的检查和征收关税，从而影响超低成本零售商。此举是对中国免税货物激增的回应，过去十年，中国免税货物数量从每年 1.4 亿增加到 10 多亿。如果公司的商品属于特定关税，新规则将阻止公司申请豁免，并将使它们受到美国海关和边境保护局的更严格检查。众议院民主党人和安全监管机构也敦促政府弥补这一“漏洞”，并调查 Shein 和 Temu 可能出售危险产品的情况。政府辩称，该提案将保护消费者，并确保美国工人和企业的公平竞争。]]></description>
+      <guid>https://t.me/hn_summary/108247</guid>
+      <pubDate>Fri, 13 Sep 2024 17:07:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 跳入冰冷的水中，即所谓的北极熊跳水，是一项很受欢迎的活动[...]</title>
-      <link>https://t.me/hn_summary/108210</link>
-      <description><![CDATA[“你不是北极熊：跳入冷水中有风险”
-跳入冰冷的水中，即所谓的北极熊跳水，是一项经常与慈善活动联系在一起的流行活动。这一趋势受到人们的信念的支持，即冷疗可以增强免疫系统并改善心血管健康，这一观点由演员克里斯·海姆斯沃斯推广。然而，专家警告说，冷疗的健康益处尚未得到证实，而且风险很大。突然浸入冷水中会引发危险的冷休克反应，增加呼吸、心率和血压，从而导致溺水或心脏压力。体温过低是另一种风险，因为水冷却身体的速度是空气的 25 倍。虽然一些研究表明那些适应冷水的人可能会受益，但其他研究表明可能会损害心肌。专家建议有心脏病的人不要进行冷水浸泡，并建议选择参与的人逐步适应并采取安全措施。]]></description>
-      <guid>https://t.me/hn_summary/108210</guid>
-      <pubDate>Fri, 13 Sep 2024 11:42:45 GMT</pubDate>
+      <title>[媒体] 纵观历史，对永葆青春的追求一直吸引着富有、有权势的男人，[...]</title>
+      <link>https://t.me/hn_summary/108246</link>
+      <description><![CDATA[血液、汗水和睾丸：富人一直想长生不老
+纵观历史，对永葆青春的追求吸引了众多有钱有势的男人，从法国国王路易十三到现代科技企业家，如 Bryan Johnson 和 Peter Diamandis。《卫报》的这篇文章探讨了这些人为延缓衰老所付出的努力，他们通常使用可疑且危险的方法。路易十三经历了多次放血疗法和有记录以来的第一次输血疗法，而教皇英诺森八世据称使用了年轻男孩的血液。19 世纪，Charles-Édouard Brown-Séquard 尝试了睾丸提取物。如今，亿万富翁在抗衰老研究方面投入了大量资金，但其益处仍然难以捉摸，而且主要只有富裕的精英阶层才能获得。争议之处在于这些治疗方法的伦理问题和可疑的有效性。]]></description>
+      <guid>https://t.me/hn_summary/108246</guid>
+      <pubDate>Fri, 13 Sep 2024 17:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 过去二十年来，人们普遍认为，世界上 80% 的生物多样性 [...]</title>
-      <link>https://t.me/hn_summary/108209</link>
-      <description><![CDATA[80% 的生物多样性位于土著领土的说法毫无根据
-过去二十年来，人们普遍认为，世界上 80% 的生物多样性位于土著领土。这个数字通常用来强调土著人民在生物多样性保护中的重要作用，但并非基于可靠的科学。各种组织和个人继续使用这一统计数据可能会破坏保护土著权利和知识的努力的可信度。这一说法源于对早期声明的误解，缺乏实证支持。全球保护界不应依赖这个有缺陷的数字，而应承认土著人民对生物多样性管理做出的重大、有证据支持的贡献，并让他们作为平等的合作伙伴参与保护计划。文章强调了这一争议，强调 80% 的说法可能会损害土著保护工作，因为这会质疑使用该说法的人的可信度。]]></description>
-      <guid>https://t.me/hn_summary/108209</guid>
-      <pubDate>Fri, 13 Sep 2024 11:32:38 GMT</pubDate>
+      <title>[媒体] 我在 macOS 日历中发现了一个严重的零点击漏洞，该漏洞允许攻击者 [...]</title>
+      <link>https://t.me/hn_summary/108245</link>
+      <description><![CDATA[零点击日历邀请 – macOS 中的关键零点击漏洞链
+我发现 macOS 日历中存在一个关键的零点击漏洞，攻击者可以利用该漏洞在日历沙盒中添加或删除文件，从而可能导致恶意代码执行并泄露 iCloud 照片数据。Apple 已在 2022 年 10 月至 2023 年 9 月期间修复了这些漏洞。该漏洞利用了发送带有未清理文件附件的恶意日历邀请，从而导致目录遍历攻击。利用这一点，攻击者可以在 macOS 升级期间获得远程代码执行 (RCE)。最后阶段涉及更改照片配置以访问敏感的 iCloud 照片。如需详细了解，请查看我的 Disobey 2024 演讲：YouTube 链接。]]></description>
+      <guid>https://t.me/hn_summary/108245</guid>
+      <pubDate>Fri, 13 Sep 2024 16:52:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 人们常常对行为做出错误的假设，包括我自己。</title>
-      <link>https://t.me/hn_summary/108208</link>
-      <description><![CDATA[探索意图和行为的两个有用提示
-人们经常对行为做出错误的假设，包括我自己。为了解决这个问题，我经常使用两个提示：“可能还有什么其他可能的解释？”和“我们如何才能找出这些解释是真是假？”这些提示有助于摆脱单一解释，并防止在没有证据的情况下仓促下结论。例如，一位名叫玛丽的客户认为她的首席执行官回避战略谈判是因为他不同意她的观点。探索其他解释后发现，首席执行官缺乏此类讨论的框架。同样，我曾经误以为团队成员长时间工作是固执己见，结果发现他是在逃避不安全的家庭环境。这些提示比经常被误用的“假设积极意图”更有效，后者可以为不良行为开脱。相反，他们会将所有可能性（包括负面可能性）摆在桌面上，这样更容易识别真正的问题。]]></description>
-      <guid>https://t.me/hn_summary/108208</guid>
-      <pubDate>Fri, 13 Sep 2024 11:05:27 GMT</pubDate>
+      <title>[媒体] 网站：nalanj.dev</title>
+      <link>https://t.me/hn_summary/108244</link>
+      <description><![CDATA[安全赋值
+标题：安全赋值
+网站：nalanj.dev
+
+今天，JavaScript 中关于安全赋值运算符 (?=) 的新提案引起了极大的兴奋。虽然 JavaScript 随着时间的推移有所改进，但此提案解决了我遇到的一个常见问题。?= 运算符将通过将右侧包装在 try/catch 块中来简化赋值期间的错误处理，返回包含错误或结果的数组。
+
+我创建了一个名为 tryCatch 的函数来演示这个概念。它处理同步和异步函数，如果成功则返回未定义的结果，如果发生错误则返回错误未定义。这种方法减少了代码中显式 try/catch 块的混乱，使其更加简洁和可读。
+
+争议：该提案可能会遭到那些喜欢传统错误处理方法的人的抵制。
+
+独特/巧妙：tryCatch 函数巧妙地处理同步和异步函数，简化了 JavaScript 中的错误管理。]]></description>
+      <guid>https://t.me/hn_summary/108244</guid>
+      <pubDate>Fri, 13 Sep 2024 16:03:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] OpenAI推出了其最新的AI模型OpenAI o1，也称为Strawberry。</title>
-      <link>https://t.me/hn_summary/108207</link>
-      <description><![CDATA[OpenAI 推出可自我核实事实的模型 o1
-OpenAI 推出了其最新的 AI 模型 OpenAI o1，也称为 Strawberry。这个新的模型系列包括 o1-preview 和 o1-mini，后者针对代码生成进行了优化。目前，访问权限仅限于 ChatGPT Plus 和 Team 订阅者，计划扩大其可用性。与其前身 GPT-4o 不同，o1 缺乏网页浏览和文件分析功能，其图像分析功能目前已禁用。值得注意的是，o1 的价格要高得多，比 GPT-4o 高出三到四倍。然而，它的突出特点是能够在回应之前“思考”，从而使其能够自我核实事实并更有效地执行复杂的推理任务。这使得它特别适用于法律分析和编码等复杂任务。尽管 o1 具有优势，但它也有局限性，包括响应时间较慢，并且比 GPT-4o 更容易产生幻觉。OpenAI 面临着来自谷歌 DeepMind 等竞争对手的激烈竞争，这些竞争对手也在探索先进的推理方法。OpenAI 面临的真正挑战是让 o1 广泛可用且价格合理，同时继续增强其功能。]]></description>
-      <guid>https://t.me/hn_summary/108207</guid>
-      <pubDate>Fri, 13 Sep 2024 10:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 一名加拿大男子 Joël Lapointe 偶然发现了专家认为是一个巨大的古代遗迹 [...]</title>
-      <link>https://t.me/hn_summary/108206</link>
-      <description><![CDATA[男子在假期浏览谷歌地图时发现古老陨石坑
-加拿大男子 Joël Lapointe 在使用谷歌地图计划露营旅行时偶然发现了一个专家认为是巨大的古老陨石坑。Lapointe 在魁北克的 Côte-Nord 地区发现了一个大约九英里宽的坑，并与地球物理学家 Pierre Rochette 分享了他的发现。Rochette 的分析揭示了锆石的存在，锆石是一种在流星撞击过程中会改变形态的矿物，这表明该地点可能具有重要意义。西方大学的 Tara Hayden 强调了该地点可能为了解地球与宇宙的联系提供见解的潜力。Gordon Osinski 指出，现代制图工具使业余爱好者和专业人士都能够做出这样的发现，尽管在线发现的大多数圆形结构都不是陨石坑。奥辛斯基和他的团队计划前往该偏远地区进行进一步调查，强调此类发现的稀有性和令人兴奋之处。]]></description>
-      <guid>https://t.me/hn_summary/108206</guid>
-      <pubDate>Fri, 13 Sep 2024 09:26:22 GMT</pubDate>
+      <title>[媒体] 网站：papanotes.com</title>
+      <link>https://t.me/hn_summary/108243</link>
+      <description><![CDATA[无聊是放慢脚步的邀请
+标题：无聊是放慢脚步的邀请
+网站：papanotes.com
+
+现在是下午 3:22，我和女儿在诊所的候诊室里，她需要去看医生。房间里挤满了父母，他们都盯着手机，但我决定把手机放在口袋里。相反，我和女儿进行了一次愚蠢的谈话，让我们俩都忘记了无聊。我们的孩子从我们的行为中吸取了教训；如果我们不能忍受无聊，他们也一样。还记得 20 世纪 90 年代我们在候诊室里浏览旧杂志的时候吗？我们的大脑需要休息，远离持续的刺激。下次你等待的时候，利用这段时间与你的孩子交流。告诉他们，无聊是一种放慢脚步的邀请。]]></description>
+      <guid>https://t.me/hn_summary/108243</guid>
+      <pubDate>Fri, 13 Sep 2024 15:52:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
