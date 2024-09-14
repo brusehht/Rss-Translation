@@ -4,13 +4,20 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 14 Sep 2024 06:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 09:13:47 GMT</lastBuildDate>
     <item>
-      <title>播客编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1fgerzs/podcast_editing/</link>
-      <description><![CDATA[您好， 过去一年半来，我一直在奥斯汀编辑一个非常受欢迎的播客，我正在寻找另一个工作。事实上，我开始享受在节目中做后期制作的过程，我正在寻找另一个工作来取代我一直在做的其他自由职业。我喜欢喜剧播客、MSSP 和其他类似的播客，加入其中一个团队会很棒。只要主题允许，欢迎任何内容。 想知道这里有没有人知道节目中有空缺职位，或者可以就此事联系谁。 感谢您的阅读。    提交人    /u/Venomradio2993   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fgerzs/podcast_editing/</guid>
-      <pubDate>Sat, 14 Sep 2024 05:10:47 GMT</pubDate>
+      <title>关于 Premiere Pro 功能的问题（音频同步和镜头比较）</title>
+      <link>https://www.reddit.com/r/editors/comments/1fghxp5/question_about_premiere_pro_features_audio_sync/</link>
+      <description><![CDATA[大家好，我是 Premiere Pro 的老用户，但前几天我的老师向我展示了 Final Cut Pro 的一些很酷的功能，我印象深刻！ 在 Final Cut 中，您可以同步音频和素材，使它们合二为一。您只需将其从文件夹拖到时间线中即可。在 Premiere 中，即使素材已同步，它也只会保留在时间线中，我发现自己需要来回切换才能找到所需的内容。有没有办法在 Premiere 中获得类似的功能？ Final Cut 有这个很棒的“试听”功能，您可以在时间线中比较来自相同设置的多个镜头，并单击一次即可在它们之间切换。它使比较非常顺畅。在 Premiere 中，我目前将多个剪辑拖到时间线中，通过来回移动进行比较，然后删除额外内容。有没有我遗漏的在 Premiere 中执行此操作的更快方法？ 任何提示或解决方法都将不胜感激！谢谢！    提交人    /u/Witty-Analyst2135   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fghxp5/question_about_premiere_pro_features_audio_sync/</guid>
+      <pubDate>Sat, 14 Sep 2024 08:59:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacBook > Windows 笔记本电脑？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fggylb/macbook_windows_laptop/</link>
+      <description><![CDATA[昨天我的 Windows 笔记本电脑的风扇坏了。我还不知道它是否可以修复，如果可以，需要花多少钱（保修期于今年 1 月到期），但无论如何，这让我开始考虑更换它。  我组装了自己的台式电脑，这台电脑仍然运行顺畅（大部分情况下）。但是，我目前在外地工作，我带着我的笔记本电脑是为了 a) 能够每天卸载数据，以及 b) 每天向客户提供一些剪辑，让他们发布到社交媒体上。然而，由于我的笔记本电脑在打开 Premiere 的那一刻就过热并崩溃了，所以我只能坚持卸载数据。 我拥有的 Windows 笔记本电脑中，没有一台能够让我惊叹不已。电池寿命，大部分情况下，也一直很糟糕。我当然知道“Mac 是为创意人士准备的”这个老话，而且我有一个视频摄影师朋友，他总是在我耳边说他的 MacBook 运行速度非常快，我只是想听听其他人的体验。  坦率地说，我根本不经常在路上编辑。自从我组装了台式机后，我的笔记本电脑实际上只用于在 Lightroom 中编辑偶尔的照片，在去当地工作室录制时运行 FL Studio，以及在我拍摄的活动需要社交活动时对剪辑进行简单的调色。所有这些都表明我没有最高的期望，因此正在研究翻新的 MacBook。根据您的经验，在执行这些任务时，旧款 MacBook 是否会胜过价格相近（低于 1K）的 Windows 笔记本电脑？ TLDR：对于一些基本任务，翻新的 MacBook 是否比 Windows 笔记本电脑更好？     由    /u/jbossee 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fggylb/macbook_windows_laptop/</guid>
+      <pubDate>Sat, 14 Sep 2024 07:45:14 GMT</pubDate>
     </item>
     <item>
       <title>担任助理编辑 5 年，遇到瓶颈，不知道下一步该怎么做？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我最近开始使用 easyDCP Resolve 插件以及一些将 SRT 文件转换为 XML 格式的工具来创建 DCP，然后从 easyDCP Creator 导出带字幕的 DCP。一切运行良好。我有一个问题是如何格式化需要从框架顶部跳到底部的字幕的 XML，以避免出现下三分之一等。我知道这个位置数据保留在 SCC 文件中，我想知道如何将其转换为 XML。谢谢！    提交人    /u/judisthenewson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fflh61/dcp_captioning_workflow_for_xml_formatting/</guid>
       <pubDate>Fri, 13 Sep 2024 03:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于升级 Macbook Pro 的建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1ffleah/advice_on_upgrading_macbook_pro/</link>
-      <description><![CDATA[大家好， 我需要一些购买新 MBP 的建议。我目前的型号是 2015 MBP 15&quot;，配备 16GB RAM 和 1TB 硬盘，这东西需要打包。它会在工作流程中途中断，如果没有自动恢复功能，我会丢失很多工作。 我的主要用途是：Photoshop、Illustrator、Indesign、Lightroom、音乐制作（语音跟踪和粗略混音）。我的工作流程已慢慢开始包括视频编辑。这主要是在 Premiere Pro 中剪切和排序以及对 4K 素材进行颜色分级。未来项目将有涉及混合媒体的 After Effects 工作。 我正在考虑的两个构建选项是： 16&quot;配备 Apple M3 Max 芯片的 MBP，配备 14 核 CPU、30 核 GPU 和 16 核神经引擎、36GB RAM、1TB SSD 或 16 英寸 MBP，配备 Apple M3 Max 芯片，配备 16 核 CPU、40 核 GPU 和 16 核神经引擎、64GB RAM、1TB SSD（可能升级到 2TB）。 我不是那种经常大笔购物的人，我通常会想办法让某样东西运转起来，直到它不再运转为止。如果我要花一大笔钱，我想买一些耐用的东西，这样我就不用考虑 5 年以上了。我有一个在 Apple 工作的朋友，他可以给我折扣，因此我愿意稍微提高机器的规格。 考虑到我的需求，更昂贵机器的规格是否有必要？ 便宜的机器可以处理我想要的视频工作吗？ 欢迎所有建议和意见，非常感谢您的帮助！ TLDR — 升级到新的 MacBook，想要在可以处理设计包之间的多任务的 MacBook Pro 和也可以容纳视频工作的 MacBook Pro 之间购买。    提交人    /u/kaddyneverlack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ffleah/advice_on_upgrading_macbook_pro/</guid>
-      <pubDate>Fri, 13 Sep 2024 03:38:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

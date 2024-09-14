@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 06:18:56 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 14 Sep 2024 09:14:18 GMT</lastBuildDate>
+    <item>
+      <title>开发后端应用程序时我应该使用架构吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fghkig/should_i_use_an_architecture_when_developing_a/</link>
+      <description><![CDATA[为什么当我想开发后端应用程序时，我总觉得自己做的一切都是错的？我认为如果我不使用架构，我会制作一个糟糕的应用程序。有时我会复制固定的配置文件等，当我复制时，我感觉我什么都不知道。我厌倦了这种心态，我永远无法达到我想要的程度。    提交人    /u/Even-Masterpiece1242   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fghkig/should_i_use_an_architecture_when_developing_a/</guid>
+      <pubDate>Sat, 14 Sep 2024 08:32:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git 到远程服务器????</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgh6r4/git_to_remote_server/</link>
+      <description><![CDATA[大家好 我确信现在我会受到虐待，但我只使用过传输将文件上传到我的远程服务器。 我做的工作不多，我只独自工作，这是我所知道的一切，所以我没有改变它。 我现在开始使用 Git，我很困惑。 我正在本地开发我的网站，我做了初始提交并将其发布到我的私人 GitHub 存储库。然后，当我对更新感到满意时，我会推送我的更新并添加一条好消息。我还没有做分支，但很快就会开始。 我感到困惑的是如何添加和推送我的更改到我的远程服务器...... 我读过帖子，看过视频，我总是到那部分，他们要么不告诉你，要么有 100 种方法可以做到，而且方法永远不一样。 就好像我要去一家新公司开始工作一样，最好的方法是什么？ 首先…… 我要将它从本地计算机发送到远程服务器吗？还是我要将它从我的存储库发送到远程服务器？ 接下来，我的项目是一个 Nuxt 项目，虽然它在本地运行良好，但我需要设置端口号并创建一个自定义 .conf 文件以允许它在我的远程服务器上工作。 我该如何处理？   由    /u/Pretty-Ad4969  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgh6r4/git_to_remote_server/</guid>
+      <pubDate>Sat, 14 Sep 2024 08:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何了解部署（dev ops？）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fggz5m/how_to_learn_about_deployment_dev_ops/</link>
+      <description><![CDATA[大家好， 我正在学习编程，打算在现有的代码库上工作。虽然我在编码和编程方面取得了很大进展，并开始了解代码库，但迄今为止我所学到的任何东西都没有涉及部署过程。 此代码库的暂存和生产环境位于 AWS 上，第三方服务用于媒体存储和 CDN。 我如何开始学习配置和部署到这些环境？ 最终，我想知道如何推送到暂存和生产，并且能够在需要时将代码回滚到以前的工作版本。 我从哪里开始学习这方面的知识？ 感谢您帮助初学者。    提交人    /u/Dr_momo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fggz5m/how_to_learn_about_deployment_dev_ops/</guid>
+      <pubDate>Sat, 14 Sep 2024 07:46:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些在 Web 开发中涉及手动测试的人来说，您如何在大型 Excel 表（例如 5000 行）中管理跟踪测试结果？在处理大量测试时，您是否遇到过测试覆盖率不足的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fggpdz/for_those_involved_in_manual_testing_as_part_of/</link>
+      <description><![CDATA[您好，我需要也进行手动测试的开发人员的帮助。我的朋友让我在这里发布这篇文章，因为他在缺少测试方面遇到了很多麻烦（他是一名初级 Web 开发人员/质量保证工程师）。 提前感谢您的回答 :)    提交人    /u/Luka1607   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fggpdz/for_those_involved_in_manual_testing_as_part_of/</guid>
+      <pubDate>Sat, 14 Sep 2024 07:24:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>预订 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgg613/booking_api/</link>
+      <description><![CDATA[嗨 👋🏼 我是开发新手，我正在为一家独立房屋租赁公司建立一个网站。有人知道实施预订和支付系统的最佳方法是什么吗？我正在查看 booking.com 的 API，它看起来拥有我需要的一切，只是想寻求一些建议或专业知识，看看我应该使用什么，或者你在类似项目中使用过什么。另一个选择是外包某人为我构建后端（因为我做前端），这会给客户带来更多成本，但我不确定这是否是更好的方法。  谢谢 !    提交人    /u/Haunting-Swimming993   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgg613/booking_api/</guid>
+      <pubDate>Sat, 14 Sep 2024 06:46:57 GMT</pubDate>
+    </item>
     <item>
       <title>我是 UX 设计师。您有自己喜欢的项目吗？让我们合作吧</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgfkny/ux_designer_here_do_you_have_a_passion_project/</link>
@@ -27,13 +62,6 @@
       <pubDate>Sat, 14 Sep 2024 05:51:17 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个开源 chrome 扩展，只需选择文本即可立即弹出翻译，无需任何其他点击，也不需要额外的点击。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgebtd/i_build_a_open_source_chrome_extension_that/</link>
-      <description><![CDATA[        由    /u/waa007 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgebtd/i_build_a_open_source_chrome_extension_that/</guid>
-      <pubDate>Sat, 14 Sep 2024 04:43:07 GMT</pubDate>
-    </item>
-    <item>
       <title>在企业 React 应用中实现 RBAC（客户端）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fge7t1/implementing_rbac_clientside_in_an_enterprise/</link>
       <description><![CDATA[技术：react + reduxjs/toolkit + react-router-dom v6 我们的开发团队正在从头开始构建企业 CMS Web 应用程序，并且刚刚开始构建我们的 RBAC。我们将拥有强大的后端检查，但我目前正在充实客户端实现。 我有一个 AuthProvider，它是最外层 &lt;Route&gt; 的元素。如果用户通过身份验证，它将返回 &lt;Outlet/&gt;，否则返回 &lt;Login/&gt; 组件。除 /login 之外，100％ 的路线都受到保护。 对于使用 redux 和 react-router-dom 在现代 React 应用中实现 RBAC 的干净、最佳实践方法，有没有建议，因为它与何时和何地我们应该检查角色并过滤路由器路由和导航项有关？    提交人    /u/kirkbross   [link] [评论]]]></description>
@@ -53,13 +81,6 @@
       <description><![CDATA[我有 iOS/Swift 背景，创建一个基本的应用程序并将其部署到 App Store 是一个漫长而复杂的过程。 我刚刚用 Svelte（基本模板）、TypeScript 和 TailwindCSS 创建了一个 Web 应用程序并将其部署到 Netlify。天哪，它太简单了，而且毫无阻碍。 我必须说，我很高兴我有 iOS/Swift 背景。相比之下，许多其他事情，尤其是 Web 开发，会相对容易一些。    提交人    /u/Key_Board5000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgbsi8/i_cant_believe_how_incredibly_easy_it_is_to/</guid>
       <pubDate>Sat, 14 Sep 2024 02:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>o1 提示有趣的设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgbsgo/o1_prompts_for_interesting_designs/</link>
-      <description><![CDATA[我已经尝试了我知道的所有技巧- * “你是一位成功的设计师...” * 你是 &lt;company&gt; 的设计师，设计... * 将其变成专业、精致的设计..  然而我 o1 的效果不如 Claude。你有没有发现任何有趣的 o1 设计提示？    提交人    /u/emilepetrone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgbsgo/o1_prompts_for_interesting_designs/</guid>
-      <pubDate>Sat, 14 Sep 2024 02:11:45 GMT</pubDate>
     </item>
     <item>
       <title>页面加载速度</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[我想在 github 上托管一个使用 twitch api 的网站。api 文档说请求一个令牌并将其用于请求 - 这个令牌存储在服务器上还是浏览器中？    提交人    /u/SupermarketIcy73   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fga5cj/where_should_oauth2_access_tokens_be_stored/</guid>
       <pubDate>Sat, 14 Sep 2024 00:44:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 和 Bitbucket 的 AI 代码审查 | Korbit AI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fga1a9/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</link>
-      <description><![CDATA[大家好！ 我是 Korbit AI 的开发人员，我们最近对我们的 AI 代码审阅者发布了一些重大更新（自动 Pr 描述、与 Korbit 协作的内联聊天、问题生成和演示的重大改进）！ https://www.korbit.ai 我们现在正式支持 Bitbucket 和 GitHub。 如果能得到我和团队努力工作的反馈，那将是一件不可思议的事情。 如果您有任何问题，请直接给我发问题，我希望您喜欢我们所有的辛勤工作，让您的代码审查变得更好。    提交人    /u/ItsRyeGuyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fga1a9/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由开发者，你如何处理自定义域名和托管？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg9b3c/freelance_devs_how_do_you_deal_with_custom/</link>
-      <description><![CDATA[您是否告诉您的客户前往 X 网站购买自定义域名，然后自己在另一个网站上托管它？    提交人    /u/PsychologicalDraw909   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg9b3c/freelance_devs_how_do_you_deal_with_custom/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg8t1l/need_help/</link>
-      <description><![CDATA[我修理电脑，并且拥有一家商店，每个月为我带来近 12k 的收入，最低收入（去年冬天）是 5k，最高收入（回到学校时）是 37k，听起来很多，但大多数情况下我几乎赚不到什么可观的利润，大部分利润都用于维持业务并支付我的 2 名工人的工资，其余的我自己留着，然后用于支付账单等  我一直在考虑建立一个网站，这样我就可以做广告并吸引更多的客户，我认为这会让我的业务在潜在客户眼中看起来更专业，有人可以给我一个好的预算网站构建器吗，让我可以用我的公司名称创建自己的域名，并显示价格等  我本来打算试试 wix，但我想先听听你们的意见，看看情况如何    提交人    /u/West_Ticket8495   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg8t1l/need_help/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:36:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
