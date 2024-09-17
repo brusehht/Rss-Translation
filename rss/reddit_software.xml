@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 15:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 18:18:29 GMT</lastBuildDate>
+    <item>
+      <title>我们如何重现这种吸引眼球的效果并使其可以独立使用</title>
+      <link>https://www.reddit.com/r/software/comments/1fj6jg7/how_do_we_recreate_this_eye_capturing_effect_to/</link>
+      <description><![CDATA[它是在 neal 上找到的一款名为 eyechat 的游戏/程序中发现的。很有趣。 https://neal.fun/eyechat/ 抱歉，这个问题听起来很蠢，我只是个大学新生。谢谢    提交人    /u/INDIAN-_-GUY   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fj6jg7/how_do_we_recreate_this_eye_capturing_effect_to/</guid>
+      <pubDate>Tue, 17 Sep 2024 18:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像魔术图形用户界面</title>
+      <link>https://www.reddit.com/r/software/comments/1fj5lw9/imagemagick_gui/</link>
+      <description><![CDATA[是否有任何使用 ImageMagick 执行与图像相关的任务的 GUI？    提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fj5lw9/imagemagick_gui/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:41:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以记录会议记录的应用程序。</title>
+      <link>https://www.reddit.com/r/software/comments/1fj3x57/app_which_can_take_notes_of_meetings/</link>
+      <description><![CDATA[嘿伙计们，我想创建一个可以进入 Google 会议的机器人，它将录制会议音频和视频，然后为我们提供会议记录。 现在主要的挑战是我应该用什么来记录谷歌会议，你们有什么想法吗？    提交人    /u/TwilightButcher   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fj3x57/app_which_can_take_notes_of_meetings/</guid>
+      <pubDate>Tue, 17 Sep 2024 16:36:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费、出色的文本转语音软件：Calibre E-Book Viewer</title>
+      <link>https://www.reddit.com/r/software/comments/1fj30px/free_superb_texttospeech_software_calibre_ebook/</link>
+      <description><![CDATA[问候，极客们！ 从 Calibre v7.18 开始，您可以使用非常优秀的开源 Piper 文本转语音引擎大声朗读任何书籍。  以下是使其运行的方法： 将书籍添加到 Calibre。然后，双击它以在 Calibre 电子书查看器应用中打开它。按：Ctrl+s，然后，当窗口右下方出现一小行水平矩形按钮时，按齿轮图标。在“文本转语音引擎”字段中，使用“Piper 神经引擎”。然后，在“声音”部分，选择英语→ryan (美国) [高质量]。它会下载 Ryan 的声音。按 OK 关闭对话框并返回到您的电子书。 现在，按播放按钮。根据您计算机的速度，启动它可能需要很长时间。有时它会在 30 秒内工作。其他时候，它会挂起，需要完全重新启动您的计算机。我相信这种情况在不久的将来会有所改善。值得努力让它播放，因为当它最终启动时，你会感到惊讶。“Ryan”的音质是微软“Brian”自然语音的 98%，后者是完美的。有什么不同？一些罕见的单词发音略有错误，日期也是如此。例如，1870 读作“one hundred seventy”。“Engels”发音错误，比如“En-jellz”；“Britain”发音错误，比如“Britn”；“Brit-ten”发音错误。但一般来说，除了日期之外，你不会注意到。Piper TTS 可以持续很长时间，听起来像真人一样。“Ryan”听起来很棒。 有什么缺点？目前，高质量声音的数量非常有限。在未来几年，我预计新声音将会出现爆炸式增长，因为克隆任何人的声音都变得更加容易。（目前，这需要强大的硬件，最好是高端 nVidia 显卡。）此外，Calibre 电子书阅读器简单、简约的用户界面有很多不足之处。最后，每次暂停和开始播放时，您可能会遇到 15 到 30 秒的延迟。在阅读一本书的第一段时，您可能还会在每个句子之后遇到长时间的停顿。这些类型的小问题应该很快就会解决。只要记住在新版本可用时继续更新 Calibre 即可。请注意，Calibre 未针对 ARM64 Windows 编译，这使得它比在 Snapdragon 设备上的速度要慢。 最后，这篇文章是对我早期文章的补充，该文章介绍了如何将 Balabolka 与 Microsoft 的 Natural Voices 结合使用。有了 Calibre，我们现在有一个纯粹的开源解决方案来实现真正自然的声音。将来，Piper TTS 平台的推出将广泛应用于各种应用。 有了 Balabolka 解决方案和 Calibre E-book Viewer，我们再也不需要忍受低质量、机械化的文本转语音了！如果您渴望听到任何书籍以真正自然的声音朗读，这些解决方案最终将满足您的需求。 干杯！    提交人    /u/4rt3m0rl0v   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fj30px/free_superb_texttospeech_software_calibre_ebook/</guid>
+      <pubDate>Tue, 17 Sep 2024 16:02:19 GMT</pubDate>
+    </item>
     <item>
       <title>需要自动点击器的帮助</title>
       <link>https://www.reddit.com/r/software/comments/1fj00p8/need_help_with_autoclicker/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>使用元数据或利用磁盘上其他类型的缓存等的快速文件搜索程序</title>
       <link>https://www.reddit.com/r/software/comments/1fixlb9/fast_file_search_program_using_meta_data_or/</link>
-      <description><![CDATA[所以我记得从 Windows XP 到 Windows 7 我一直使用一个程序，即使我的生命依赖它，我也记不起它的名字了 它基本上是一个文件资源管理器窗口，用户界面简单，没有太多的视觉效果（我认为主要的默认颜色是按钮上的银灰色或其他什么的，但可能是错的，它只是默认的 MSWindows 窗口外观），它的主要功能是快速搜索文件（我记得在它的网站上说过，它比 Windows 资源管理器做了更多的事情，比如利用元数据或利用文件系统中的某种技术？不记得具体是什么了） 我所知道的是，它可以在几秒钟内搜索我的整个磁盘，它还有方便的复选框，不仅可以按名称进行过滤，还可以按名称 + 仅照片（比如不仅仅是 jpeg，这也是可能的，而且任何照片文件格式） 或日期范围名称和类型等，所有这些都非常快，特别是在寻找媒体时，感觉就像一部安卓手机哈哈。 但出于某种原因，我没有在后来作为主力机使用的电脑上继续下载它，但现在我很想念它，也记不起它的名字了哈哈    提交人    /u/papajo_r   [link] [comments]]]></description>
+      <description><![CDATA[所以我记得从 Windows XP 到 Windows 7 都使用过一个程序，即使我的生命依赖它，我也记不起它的名字了 它基本上是一个文件资源管理器窗口，用户界面简单，没有太多的视觉效果（我认为主要的默认颜色是按钮上的银灰色或其他什么的，但可能是错的，它只是具有默认的 MSWindows 窗口外观），其主要功能是快速搜索文件（我记得在其网站上说过，它比 Windows 资源管理器做了更多的事情，比如利用元数据或利用文件系统中的某种技术？不记得具体是什么了） 我所知道的是，它可以在几秒钟内搜索我的整个磁盘，它还有方便的复选框，不仅可以按名称进行过滤，还可以按名称 + 仅照片（比如不仅仅是 jpeg，这也是可能的，而且任何照片文件格式） 或日期范围名称和类型等，所有这些都非常快，特别是在寻找媒体时，感觉就像一部安卓手机哈哈。 但出于某种原因，我没有在后来作为主力机构建的电脑上继续下载它，但现在我很想念它，也记不起它的名字了哈哈    提交人    /u/papajo_r   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fixlb9/fast_file_search_program_using_meta_data_or/</guid>
       <pubDate>Tue, 17 Sep 2024 12:14:15 GMT</pubDate>
     </item>
@@ -71,44 +99,16 @@
     <item>
       <title>我如何编辑一个小型任务文件？我只是想在最后添加 20 秒不做任何事情的时间。</title>
       <link>https://www.reddit.com/r/software/comments/1fio6j8/how_can_i_edit_a_tiny_task_file_i_simply_want_to/</link>
-      <description><![CDATA[我从互联网上下载了一个小任务文件，我想让它在重置之前持续更长时间。大约 20-30 秒即可。     提交人    /u/NunobokoSlayer   [link] [评论]]]></description>
+      <description><![CDATA[我从互联网上下载了一个小任务文件，我想让它在重置之前持续更长时间。大约 20-30 秒就可以了。这是有问题的文件。https://www.dropbox.com/scl/fi/bw750o6zhvaimcac9yw4e/v26.rec?rlkey=aa9xsk9wbsyj3vy2dyooccmm3&amp;st=7ho9bt30&amp;dl=0   由    /u/NunobokoSlayer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fio6j8/how_can_i_edit_a_tiny_task_file_i_simply_want_to/</guid>
       <pubDate>Tue, 17 Sep 2024 03:02:18 GMT</pubDate>
     </item>
     <item>
       <title>作为一名开发人员，面对人工智能工具的高成本——这是我的解决方案</title>
       <link>https://www.reddit.com/r/software/comments/1fio4h8/facing_the_high_cost_of_ai_tools_as_a_developer/</link>
-      <description><![CDATA[我从事开发人员已有几年了，和许多其他人一样，当 2022 年人工智能热潮开始兴起时，我开始使用 ChatGPT、Gemini 等人工智能工具。这些工具对于编写和修复代码确实很有帮助，但在查看我最近的交易后，我意识到我每个月仅仅为了使用它们就要花费 100 多美元。虽然它们确实很有用，但这种费用很快就会累积起来，我根本负担不起那么多钱。 我相信你们中的一些开发人员可能遇到过这个问题。因此，我开始研究一种将几种主要的人工智能工具合二为一的软件解决方案。它旨在帮助编码，最重要的是，它是免费的。如果您有兴趣，请随时尝试这里。   由    /u/Charming_Jelly_2895  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我从事开发人员已有几年了，和许多其他人一样，当 2022 年人工智能热潮开始兴起时，我开始使用 ChatGPT、Gemini 等人工智能工具。这些工具对于编写和修复代码确实很有帮助，但在查看我最近的交易后，我意识到我每个月仅仅为了使用它们就花费了 100 多美元。虽然它们确实很有用，但这种费用很快就会累积起来，我根本负担不起那么多钱。 我相信你们中的一些开发人员可能遇到过这个问题。因此，我开始研究一种将几种主要的人工智能工具合二为一的软件解决方案。它旨在帮助编码，最重要的是，它是免费的。如果您有兴趣，请随时尝试这里。   由    /u/Charming_Jelly_2895  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fio4h8/facing_the_high_cost_of_ai_tools_as_a_developer/</guid>
       <pubDate>Tue, 17 Sep 2024 02:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>云转换本地软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fimcxs/cloud_convert_local_software/</link>
-      <description><![CDATA[嗨！我不确定这个问题是否已经被问过，但我很好奇是否有人知道一种软件可以完成与 cloudconvert 几乎完全相同的功能，但在我的设备上本地运行。适用于 Mac 的东西太棒了！ 基本上我只想要一个可以用于 mp4 &gt; mp3、png &gt; jpeg 等的软件，等等，cloudconvert 可以轻松完成这些功能，但我讨厌必须上传我的文件。从安全角度和方便角度来说哈哈。 谢谢！    提交人    /u/grilkshake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fimcxs/cloud_convert_local_software/</guid>
-      <pubDate>Tue, 17 Sep 2024 01:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于从 jpg 读取文本的免费软件（类似预览），但适用于 Windows。</title>
-      <link>https://www.reddit.com/r/software/comments/1fim8f4/free_software_to_read_text_from_a_jpg_like/</link>
-      <description><![CDATA[嗨， 我希望找到一个类似于 Mac 上的预览的 Windows 免费软件，您可以用它打开图像并从该图像中选择/复制文本。  非常感谢您的帮助。     提交人    /u/Fishfighter99   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fim8f4/free_software_to_read_text_from_a_jpg_like/</guid>
-      <pubDate>Tue, 17 Sep 2024 01:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>创业/创意</title>
-      <link>https://www.reddit.com/r/software/comments/1fil0at/start_upidea/</link>
-      <description><![CDATA[今年我有了一个关于健康网站/应用程序的想法。我几乎完成了网站，现在我要制作移动应用程序，但有一个问题。我是一名学生，我的项目需要 10-20k 的投资。我如何找到投资者？    由    /u/BorsaKatili  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fil0at/start_upidea/</guid>
-      <pubDate>Tue, 17 Sep 2024 00:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在 PDF 上插入/书写笔记的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fikddi/software_for_insertingwriting_notes_over_a_pdf/</link>
-      <description><![CDATA[我的朋友寄给我一本他正在写的书，想让我在阅读时做笔记，有什么最好的软件可以在页面旁边添加键入的注释，还可以以简化的方式添加下划线/突出显示？    提交人    /u/Jams265775   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fikddi/software_for_insertingwriting_notes_over_a_pdf/</guid>
-      <pubDate>Tue, 17 Sep 2024 00:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

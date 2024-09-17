@@ -4,20 +4,69 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 12:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 18:17:56 GMT</lastBuildDate>
     <item>
-      <title>AI视频工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiwtcf/ai_video_tools/</link>
-      <description><![CDATA[我知道它仍处于起步阶段，而且这些东西已经令人印象深刻，但是当我们可以期待适当的 1080p 和更长的持续时间（例如至少 30 秒到 60 秒）时，您怎么看？  此外，更多的控制将是惊人的。这看起来很有希望：https://odyssey.systems    由   提交  /u/MX010   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fiwtcf/ai_video_tools/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:36:06 GMT</pubDate>
+      <title>我向任何 AI 聊天机器人询问这个简单的英语问题都无法正确回答</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj6czu/no_ai_chatbot_i_asked_this_simple_english/</link>
+      <description><![CDATA[问题是： 单词 strawberry 中有多少个 R，它们出现在单词中的什么位置？ 现在，您可以将 R 替换为任何其他字母，将 strawberry 替换为任何其他单词。实际上，您应该这样做。尝试其他单词（至少 7 个字母长）。 我确实发现一些聊天机器人正确回答了这个问题，但在新的聊天中提出同样的问题时，它们无法复制正确的结果。因此，在多个聊天中使用不同的单词和字母测试这个问题很重要。这是一个非常简单的问题，不是吗？为什么这些让每个人都如此着迷的人工智能都做不到正确呢？ 我尝试了 ChatGPT 4o Mini、Claude Sonnet 3.5、Grok 2、Meta Llama 3.1 (70B)、Perplexity 和 Microsoft Copilot 值得注意的是，除了 Grok 2 之外，我没有任何高级型号可供测试，因为它们在印度太贵了。作为背景，在印度，一个月的 ChatGPT Plus 费用是一个月 Netflix（标准计划）的4 倍。    提交人    /u/kewlto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj6czu/no_ai_chatbot_i_asked_this_simple_english/</guid>
+      <pubDate>Tue, 17 Sep 2024 18:10:16 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能失控？科学家呼吁全球保障</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiwr2b/ai_out_of_control_scientists_push_for_global/</link>
-      <description><![CDATA[ 人工智能科学家呼吁建立一个全球框架来应对人工智能技术的潜在危险； 他们敦促世界各国政府建立监督系统，以监测和应对与人工智能相关的紧急情况； 该组织提出了应急准备、安全保障框架和人工智能安全研究方面的国际合作。  来源：https://www.bitdegree.org/crypto/news/ai-out-of-control-scientists-push-for-global-safeguards?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-ai-out-of-control    提交人    /u/webbs3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fiwr2b/ai_out_of_control_scientists_push_for_global/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:32:44 GMT</pubDate>
+      <title>我的工作流程应该如何才能使用 Ultimate Vocal Remover 5 获得最佳效果？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj68u4/what_should_my_workflow_be_like_to_get_the_best/</link>
+      <description><![CDATA[我只有几天摆弄软件的经验，而且我对自己所做的事情没有任何技术知识。我只是尝试不同的设置，并用耳朵判断哪种听起来最好。 目前，我只是在合奏模式下加载一首歌曲，选择所有内容，以了解每个模型对给定歌曲的作用。我经常在这个阶段忽略“最终”合奏输出，因为我不指望它是最好的，因为没有考虑模型的组合。然后我将重新运行合奏模式，但这次只运行我认为能产生良好结果的模型。我认为这样做有两个原因： (1) 适用于一首特定歌曲甚至特定流派的模型组合可能不适用于另一首歌曲。一会儿我用摇滚乐得到干净的结果，一会儿我用原声民谣得到垃圾。  (2) 我想获得两种不同风格的器乐曲目：一种是适合个人卡拉 OK 翻唱的伴唱，另一种是真正的器乐，最终输出中完全听不到人声。这两项工作所需的模型组不一样。我打算为我最喜欢的艺术家的完整唱片做这件事，其中包含数百个单独的曲目，因此我想要一种更有效的方法。  我能想到的唯一最大化利用时间的方法是在 Audacity 的一个实例中打开各个模型的输出，这样我就可以正确地进行比较和对比，而不必仅在音乐播放器应用中切换歌曲。    提交人    /u/ignoremesenpie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj68u4/what_should_my_workflow_be_like_to_get_the_best/</guid>
+      <pubDate>Tue, 17 Sep 2024 18:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>每周 AI 更新（9 月 11 日至 9 月 17 日）：Mistral、OpenAI、Google、Meta、Luma AI、Salesforce 等公司的重要新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4y4p/weekly_ai_updates_sept_11_to_sept_17_major_news/</link>
+      <description><![CDATA[分享一个易于理解的较小版本的过去一周人工智能世界的主要更新。  认识 Pixtral 12B - Mistral 的新型多模态人工智能模型- Mistral 发布了一种可以处理图像和文本的新型人工智能模型。该模型可能会改变图像字幕和对象计数等任务。 OpenAI 首次推出拥有博士级性能的 O-1 模型- o1-preview 和 o1-mini 可以推理复杂的任务，通过投入更多时间思考和改进来解决问题，就像博士生一样。 Google AI Studio 推出模型比较模式-该功能让用户可以轻松查看不同的人工智能模型和参数如何影响输出，并评估模型进度和速度差异。  Meta Connect 2024：期待什么？- 为期两天的活动将展示最新的 Meta AI，包括其 Orion AR 眼镜、Quest-3 变体以及据报道的 RayBan 智能眼镜。 Luma 在 Runway 推出数小时后就放弃了 Dream Machine API- 随着 Luma 的 API 允许用户在 Runway 的 API 发布后在 Dream Machine 上快速构建应用程序和服务，人工智能战争不断升级。 OpenAI 的新“安全委员会”可以暂停模型发布- 独立董事会监督委员会将监督主要模型的发布，对发布进行监督，并因安全问题推迟发布。  还有更多……  谷歌的新机器人 - Aloha Unleashed 和 DemoStart 展示了令人印象深刻的灵活性，可以执行系鞋带、挂衬衫和打扫厨房等任务。 Salesforce 发布了 Agentforce，这是一套低代码工具，用于构建自主 AI 代理，可以执行销售、营销和商业相关任务的推理。 Hume AI 推出了 EVI-2，这是一种语音对语音模型，可以模拟不同的个性、口音、说话风格和多种语速。 Adobe Firefly 将在 2024 年底前获得视频生成功能，例如 Generative Extend、Text to Video 和 Image to Video。 亚马逊已开始在其 Rufus 聊天机器人中试验广告。基于亚马逊搜索和对话上下文，这些广告可能很快就会出现在美国用户面前。  由消防员、工程师和科学家组成的团队领导的一项英国新研究表明，人工智能驾驶的无人机可能能够通过发现和扑灭火焰来防止野火。 SambaNova Systems 提供了一种高速开源替代方案来替代 OpenAI 的 o-1 模型，并通过 Hugging Face 演示展现了快速的处理能力。 微软推出了新的 Copilot 功能，例如 Excel 中的 Python 支持、PowerPoint 中的叙述构建器、Teams 的文本摘要以及 Word 和 OneDrive 的改进。 Slack 推出了由人工智能驱动的笔记工具，能够使用人工智能或 Google Meet 总结会议内容。 人工智能初创公司 World Labs 计划构建具有空间智能的人工智能模型，旨在生成、感知和与 3D 环境交互并导航物理空间。   有关这些新闻和创新的更详细分类，请参阅时事通讯。    提交人    /u/RohitAkki   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4y4p/weekly_ai_updates_sept_11_to_sept_17_major_news/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[新手]请问这是什么AI语音？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4u9v/newbie_may_i_ask_what_ai_voice_is_this/</link>
+      <description><![CDATA[嗨，  请问这是哪个 AI 语音人？我试过 ElevenLabs 检测工具，但它说不是他们家的。 有什么想法吗？  https://www.youtube.com/shorts/KXvobbCxeRQ 谢谢    提交人    /u/bentraje   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4u9v/newbie_may_i_ask_what_ai_voice_is_this/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于将 Outlook 元素转换为 PDF 并按日期排序的 AI 工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4tcl/ai_tool_for_converting_outlookelements_to_pdf_and/</link>
+      <description><![CDATA[标题。我的工作是收到很多来自客户的非结构化电子邮件和其他文档。我想要一个工具，可以将它们转换为 PDF 并自动按日期在文件夹中对它们进行排序。有这样的工具吗？    提交人    /u/eliasknutsen   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4tcl/ai_tool_for_converting_outlookelements_to_pdf_and/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:11:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个人工智能工具，帮助你通过阅读来学习语言</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4m9t/building_an_ai_tool_that_helps_you_learn_a/</link>
+      <description><![CDATA[https://drive.google.com/file/d/1eRBXFti_nlGBs2n5fuynP19sESbP5kKC/view?usp=sharing    提交人    /u/alexander_vladimir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4m9t/building_an_ai_tool_that_helps_you_learn_a/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 承认其新模型增加了被用于制造生物武器的风险。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4j85/openai_admits_their_new_models_raise_the_risk_of/</link>
+      <description><![CDATA[OpenAI 承认，他们最新的 AI 模型大大增加了人工智能被用于制造生物武器的风险。 文章：https://medium.com/@sadozye86/openai-admits-their-new-models-raise-the-risk-of-being-exploited-to-create-biological-weapons-b3ef7225f5ea?sk=v2%2Ff6351073-796b-4385-b1d3-db47467cb3f9   由    /u/zain017  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4j85/openai_admits_their_new_models_raise_the_risk_of/</guid>
+      <pubDate>Tue, 17 Sep 2024 17:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自 MidJourney 的基于 AI 矢量的图像 - 如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj43hd/ai_vector_based_images_from_midjourney_how/</link>
+      <description><![CDATA[我在 MidJourney 中创建了一些非常有趣的草图，并希望在其他应用程序中使用 MJ 的输出。有没有办法生成具有透明背景的矢量图像？ 很高兴使用其他 AI 图像生成器，只是不知道谁来实现这个令人困惑的问题！    提交人    /u/TonightIsNotForSale   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj43hd/ai_vector_based_images_from_midjourney_how/</guid>
+      <pubDate>Tue, 17 Sep 2024 16:43:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对哪些鲜为人知的人工智能应用最感兴趣？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj187e/what_lesserknown_applications_of_ai_are_you_most/</link>
+      <description><![CDATA[有时感觉法学硕士或图像/视频生成目前获得了大部分媒体的关注，所以我想发布这篇文章来探索一些没有得到太多认可的人工智能应用。 你们对人工智能的新发展最感兴趣的领域是什么？您所在行业或研究中的更多利基应用可获得加分。    提交人    /u/SheikhDaBhuti   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj187e/what_lesserknown_applications_of_ai_are_you_most/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:50:24 GMT</pubDate>
     </item>
     <item>
       <title>“网关体验”的人工智能分析（解密的中央情报局文件）</title>
@@ -27,32 +76,11 @@
       <pubDate>Tue, 17 Sep 2024 11:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>用于打造和维持 AI 个性的库/CLI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fivpuu/librarycli_for_crafting_and_sustaining_ai/</link>
-      <description><![CDATA[嗨！我最近在 GitHub 上发现了一个非常有趣的库，想与大家分享一下，看看你们是否有人尝试过。这个库允许您自定义计算机上的本地 AI，赋予它特定的“个性”。 我发现这个工具特别有趣的一点是它能够调整 AI 的行为，使交互更符合您的特定需求或兴趣领域。您可以调整各种设置，使 AI 的响应更相关、更符合您的偏好，从而增强整体体验并使其更加个性化。 我在下面附上了链接，以便您可以进一步探索并分享您的想法。您如何看待这种程度的定制？您是否在工作或个人项目中发现了此工具的任何实用或有趣的用途？ 以下是查看它的链接： 下面，我分享了链接，以便您可以尝试并告诉我您的印象： Github：https://github.com/pigeonposse/personality Npm：https://npmjs.com/package/create-personality 我期待您的评论！    提交人    /u/Laserturner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fivpuu/librarycli_for_crafting_and_sustaining_ai/</guid>
-      <pubDate>Tue, 17 Sep 2024 10:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以找到专门从事某些领域的人工智能公司？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiuvgt/where_to_find_ai_companies_who_specialise_in/</link>
-      <description><![CDATA[是否有特定的市场或地方可以搜索，比如如果我想在构建自己的软件作为包装器时找到可以使用的人工智能公司    提交人    /u/vznrn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fiuvgt/where_to_find_ai_companies_who_specialise_in/</guid>
-      <pubDate>Tue, 17 Sep 2024 09:43:51 GMT</pubDate>
-    </item>
-    <item>
       <title>克劳德 3.5 十四行诗与 GPT o1？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fitccn/claude_35_sonnet_vs_gpt_o1/</link>
       <description><![CDATA[到目前为止，您的体验如何？在编码方面，我没有注意到 o1 比 Claude 3.5S 更好。仍然认为 Claude 可能更好更快。 你怎么看？    由   提交  /u/MX010   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fitccn/claude_35_sonnet_vs_gpt_o1/</guid>
       <pubDate>Tue, 17 Sep 2024 08:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[新书发布] 生成式人工智能在行动 – 释放企业中生成式人工智能的力量</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1firxt4/book_release_generative_ai_in_action_unlocking/</link>
-      <description><![CDATA[我很高兴地宣布，我的新书《生成式人工智能在行动》刚刚由 Manning Publications 出版！📚 在当今快速发展的技术环境中，理解和利用生成式人工智能对于企业和技术专业人士来说都变得至关重要。本书是一本全面的指南，深入探讨了以下内容：  基础概念：快速了解生成式 AI、大型语言模型 (LLM) 和小型语言模型 (SLM)。 动手技术：学习实用技能，如即时工程、检索增强生成 (RAG) 和模型微调。 高级主题：探索从人类反馈 (RLHF) 中进行强化学习、思路链推理以及构建 AI 驱动的聊天系统。 道德 AI 实践：了解隐私、安全和偏见缓解在 AI 部署中的重要性。  特别发布优惠： 为了感谢社区，您可以使用代码获得所有格式的书籍 45% 的折扣 pbbahree。此优惠有效期至 2023 年 9 月 30 日。 👉 在此处获取折扣副本，我的博客有关于该书的更多详细信息：🎉宣布我的新书：生成式 AI 在行动📚 | Amit Bahree 的（无用？）见解！（desigeek.com） 无论您是开发人员、数据科学家还是技术爱好者，我都希望这本书能提供宝贵的见解，帮助您在项目中利用生成式 AI 的力量。 谢谢！    提交人    /u/amitbahree   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1firxt4/book_release_generative_ai_in_action_unlocking/</guid>
-      <pubDate>Tue, 17 Sep 2024 06:28:37 GMT</pubDate>
     </item>
     <item>
       <title>因此，你加载一份 PDF 文档，一分钟内，AI 就会制作一男一女讨论该文档的播客</title>
@@ -62,39 +90,11 @@
       <pubDate>Tue, 17 Sep 2024 04:28:11 GMT</pubDate>
     </item>
     <item>
-      <title>是否有一种 AI 工具可以改变物体的颜色同时保持其保真度？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fikam4/is_there_an_ai_tool_to_change_the_color_of/</link>
-      <description><![CDATA[大家好，我正在寻找一个工具，最好是免费的，使用它我可以用提示符更改对象的颜色。例如，我想将捷豹汽车的颜色从黑色更改为红色，当我使用 inpaint 时，reusltado 非常强大，但仍然会改变事物。如果我在 pothoshop 中执行此操作，结果会非常慢且很差（也许我不太好）。    由   提交  /u/SantiagoCV   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fikam4/is_there_an_ai_tool_to_change_the_color_of/</guid>
-      <pubDate>Tue, 17 Sep 2024 00:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些关于人工智能的好书值得一读？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fih5d1/what_are_some_good_books_to_read_about_ai/</link>
-      <description><![CDATA[我对人工智能有一定的基础，但想进一步了解，如果您知道任何关于技术方面的好书或好书，请告诉我。    提交人    /u/TapNo2768   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fih5d1/what_are_some_good_books_to_read_about_ai/</guid>
-      <pubDate>Mon, 16 Sep 2024 21:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>求职变得简单：Jobsolv 介绍</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiahb3/job_hunting_made_easy_introducing_jobsolv/</link>
-      <description><![CDATA[大家好，r/ArtificialInteligence 社区！ 我们的故事： Jobsolv 诞生于个人经历。我们的创始人被一家大型美国银行解雇，面临着在竞争激烈的市场中寻找新工作的艰巨任务。受自身奋斗经历的启发，他创建了 Jobsolv，以简化其他人的求职过程。 关于我们的应用程序 Jobsolv 是一个 SaaS 平台，可以自动化求职的许多方面。只需点击几下，您就可以：  创建个性化个人资料：突出显示您的技能、经验和职业目标。 发现相关工作：我们的 AI 算法根据您的个人资料推荐量身定制的职位空缺。 按薪水过滤：查找起薪 10 万美元的高薪职位。 专注于远程工作：我们专门为美国申请人提供远程工作，提供灵活性和工作与生活的平衡。 建立强大的简历：使用我们的模板创建通过 ATS 的专业简历。 有效地自动申请：我们的智能自动申请功能可使您的简历适应每一份工作，确保发挥最大影响力。 免费试用：新用户可以享受 30 积分试用（3 天 10 个积分）来探索我们的功能。即使使用免费帐户，您也可以完全访问该应用程序的功能。  下一步： 随着我们的不断发展，我们致力于改善您的体验。我们正在重新设计 UX/UI，并探索 CRM 选项以增强我们的沟通和参与度。 我们很乐意听到您的想法！您对像我们这样的公司（工作委员会）的 CRM 软件有什么建议吗？您对 Jobsolv 有什么看法？感谢您的任何反馈。    提交人    /u/Jobsolv_RemoteJobs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fiahb3/job_hunting_made_easy_introducing_jobsolv/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:24:52 GMT</pubDate>
-    </item>
-    <item>
       <title>加拿大研究发现，人工智能工具可将医院内意外死亡率降低 26%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fia1mv/ai_tool_cuts_unexpected_deaths_in_hospital_by_26/</link>
       <description><![CDATA[考虑到这项研究是在 2020 年进行的，人们一定想知道这个工具今天有多强大。 https://www.cbc.ca/news/health/ai-health-care-1.7322671    提交人    /u/Georgeo57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fia1mv/ai_tool_cuts_unexpected_deaths_in_hospital_by_26/</guid>
       <pubDate>Mon, 16 Sep 2024 17:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>MongoDB 首席执行官表示，如果人工智能炒作是互联网泡沫，那么 1996 年就是</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi3u7e/mongodb_ceo_says_if_ai_hype_were_the_dotcom_boom/</link>
-      <description><![CDATA[ MongoDB 首席执行官将当前的 AI 炒作与 1996 年的互联网泡沫进行了比较，表明 AI 的采用尚处于早期阶段。 根据 Gartner 的新兴技术炒作周期，分析师对 AI 的未来有不同的看法，一些人预见到“幻灭低谷”。 企业在证明 GenAI 项目的合理性方面面临挑战，Equinix 在建立业务案例方面遇到了困难。 MongoDB 首席执行官概述了 GenAI 的三个主要用例：聊天机器人、研究以及总结和自动化。 与互联网时代的比较引发了有关潜在崩溃的疑问，尽管首席执行官没有提供明确的答案。  来源：https://www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/    由   提交  /u/NuseAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fi3u7e/mongodb_ceo_says_if_ai_hype_were_the_dotcom_boom/</guid>
-      <pubDate>Mon, 16 Sep 2024 12:52:54 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
