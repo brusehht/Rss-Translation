@@ -3,10 +3,66 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 12:26:23 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Tue, 17 Sep 2024 15:14:44 GMT</lastBuildDate>
     <item>
-      <title>请求帮助修复此页面以完成作业</title>
+      <title>利用生成式 AI 构建负责任的网络体验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fj1iao/build_responsible_web_experiences_with_generative/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fj1iao/build_responsible_web_experiences_with_generative/</guid>
+      <pubDate>Tue, 17 Sep 2024 15:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>SVG 无法在生产版 Netlify 上呈现</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fj1g4g/svgs_not_rendering_on_production_netlify/</link>
+      <description><![CDATA[      我的网站上的 SVG 出现问题。它们无法正确渲染。它显示状态 HTTP 200，但它们没有显示。我正在使用 Astro 并在 Netlify 上托管应用程序。我看到 SVG 的标头“Content-Type”为“image/svg”，而它应该是“image/svg+xml”。我试图以这种方式进行设置，但不起作用。我将保留我的 Netlify 配置文件。 [build] command = &quot;pnpm run build&quot; functions = &quot;netlify/functions&quot; publish = &quot;dist/&quot; [[headers]] for = &quot;/*.svg&quot; [headers.values] Content-Type = &quot;image/svg+xml&quot;  此外，这是我的项目结构： https://preview.redd.it/2b4m2vdsvdpd1.png?width=294&amp;format=png&amp;auto=webp&amp;s=dc30d61aea318dffa14662801f6d79c2eddf5be0 最后，这是我调用 SVG 的方式： --- import { Image } from &quot;astro:assets&quot;;从 &quot;../assets/icons/rep-flower.svg&quot; 导入 repFlower； --- &lt;Image src={repFlower} loading={&quot;lazy&quot;} alt=&quot;Repeated Flower&quot; class=&quot;w-16 h-16 absolute -left-[4rem] -top-[4rem]&quot; /&gt;     提交人    /u/Comprehensive-Cup947   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fj1g4g/svgs_not_rendering_on_production_netlify/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>努力证明自己是未来之星</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fj135v/trying_to_future_proof_myself/</link>
+      <description><![CDATA[大家好，我只是想看看你们是否有什么建议来帮助我未来的编码技能（这些东西可以帮助我上大学时获得实习机会.. 我还只有 17 岁哈哈） 作品集网站：https://arinji.com GitHub：https://github.com/Arinji2 一些有帮助的事情 1）我过去一个月一直在学习 Go，因为我讨厌使用 nodejs 后端 2）我的有意义或无意义的项目仍然在进行中（学校考试给我很少的时间编写代码） 关于我的一些事情 1）后端很好.. 但我不想把我的余生都花在盯着终端哈哈。我喜欢在屏幕上看到东西，对小动画和其他东西感到高兴 :) 所以理想情况下，我可以在前端找到一份好工作 lol 2）关于设计，我讨厌现在整个互联网上的整个 shadcn/vercelified 设计，所以我没有练习过那些 lol 无论如何，任何提示都将不胜感激 :)    提交人    /u/ArinjiBoi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fj135v/trying_to_future_proof_myself/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个网络应用程序拥有最佳/您最喜欢的快捷方式系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fj0wi7/which_web_app_has_the_bestyour_favorite_shortcut/</link>
+      <description><![CDATA[我正在为我的网络应用程序设计快捷方式系统，这是一个聊天客户端，我正在研究现有的最佳体验。    提交人    /u/punkpeye   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fj0wi7/which_web_app_has_the_bestyour_favorite_shortcut/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:37:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 WordPress 和网站构建器之外，您还使用哪些技术来为客户网站提供服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fj0hr6/what_technologies_do_you_use_for_client_websites/</link>
+      <description><![CDATA[对于那些建立网站的人，特别是作为自由开发者，与不太懂技术但仍需要更新内容、管理 CRUD 操作或处理电子商务任务的客户合作——除了 WordPress 和传统网站构建器之外，您更喜欢哪些技术？寻找对 CMS 平台、框架或其他工具的见解，这些工具在开发人员的灵活性和客户的易用性之间取得良好的平衡，而无需依赖 WordPress 或网站构建器    提交人    /u/udbasil   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fj0hr6/what_technologies_do_you_use_for_client_websites/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助来选择学习什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fj034x/need_help_what_choosing_what_to_learn/</link>
+      <description><![CDATA[大家好，我是来自南亚的 2000 万。我目前了解 html、css、javascript（中级）。我需要学习什么才能在最短的时间内找到一份远程工作，每天工作 3-4 小时，每小时赚 10-15 美元。这不是我想一辈子都做的事情，只是暂时的，因为我急需一份工作。我不是计算机科学专业的学生，​​我学习的是其他领域。请让我知道任何有帮助的东西和任何获得此类工作或远程工作的技巧。 它可以是前端或后端、框架或其他技能。任何我可以快速学习和练习的东西。    提交人    /u/Healthy_Soil1153   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fj034x/need_help_what_choosing_what_to_learn/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助在电子邮件客户端上获取 WordPress 电子邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiyorl/help_with_getting_wordpress_email_on_email_client/</link>
+      <description><![CDATA[因此，我创建了一个与我的 WordPress 网站关联的电子邮件帐户。我已经验证并通过 MailChimp 进行身份验证。我想在 Apple 电子邮件客户端中访问此电子邮件。但我不确定如何实现这一点。 Apple 电子邮件客户端要求输入“传入邮件服务器：主机名、用户名和密码”，以及“传出邮件服务器：主机名、用户名（可选）和密码（可选）”。我如何找出这些信息？传入邮件服务器、主机名和传出邮件服务器主机名是什么？    提交人    /u/Ruddie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiyorl/help_with_getting_wordpress_email_on_email_client/</guid>
+      <pubDate>Tue, 17 Sep 2024 13:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>过去一年一直在找工作。投了 700 多份工作申请，却一无所获。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiy98g/been_looking_for_a_job_for_the_past_year_over_700/</link>
+      <description><![CDATA[计算机科学毕业生，2024 年春季学期最后一个学期。 自 2021 年至今，我一直在自学 Web 开发。 我在 LinkedIn、upwork 上申请了无数的工作，亲自在当地公司申请了工作，我真的不明白我缺少什么以至于没有被录取。 我相信我对 Web 开发的了解很好，我的项目证明了这一点。 GitHub：https://github.com/alijalloul 简历：https://docs.google.com/document/d/11hbCiYkTo7RfzO123MMEoSpyFrxInAw6/edit?usp=drivesdk&amp;ouid=1139244712​​25177645368&amp;rtpof=true&amp;sd=true 任何帮助或建议都值得赞赏，谢谢。 编辑：我没有将我的照片作为缩略图，我猜 reddit 会自动从 GitHub 链接中获取它......但我想必有些女士感兴趣，我愿意接受 ;) 这份工作 编辑 2：我想这篇文章触发了很多人。我会说没有注意到简历中的拼写错误是我的错误，但我确实想澄清一些事情。-这是我最近制作的简历，因为我正在尝试改变一些东西，因为我上一份简历没有任何结果，这意味着之前的简历没有任何拼写错误。-这 700 份工作申请中有很大一部分是 LinkedIn 上的“轻松申请”-两个“工作经历”都是实际工作经验，但不幸的是没有被发表。由于客户端的一些财务困难，面包店网站目前处于搁置状态，但我确实为这两个网站都得到了报酬。-我确实很早就提交了我的仓库，有时我确实会在开始一个项目时忘记提交，但在非常早期的阶段，我确实记得提交，并且每个固定的仓库都应该有 30 次以上的提交。两个 repo 最初是私有的，因为它们是为客户自由职业的，但后来我将它们公开了，因为正如我所说的，它们不幸没有被发表。-如果工作发布不是“容易申请”的工作，我会亲自提供求职信。 我认识一些人，他们凭借基本的 React 知识、几乎没有 GitHub 上的项目、没有后端知识找到了 Web 开发的工作。 我在寻求指导，但这不仅仅是：“你的简历是垃圾”。至少告诉我我可以改进什么？    提交人    /u/AliZJalloul   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiy98g/been_looking_for_a_job_for_the_past_year_over_700/</guid>
+      <pubDate>Tue, 17 Sep 2024 12:44:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求帮助修复此页面以供作业</title>
       <link>https://www.reddit.com/r/webdev/comments/1fixbvn/begging_for_help_fixing_this_page_for_assignment/</link>
       <description><![CDATA[嘿！我对 html 还很陌生，但我正在为大学作业制作一个小型拖放游戏，很幸运能找到这个可以帮助我的模板，但无论我做什么，“肤色：”下的可点击色板都无法工作。 我已经发现肤色图像和缩略图被错误地列为： href=&quot;base/full/1European.png&quot; 而不是 href=&quot;base/Skintone/full/1European.png&quot; 这会使它们显示出来，但在单击其他文件时仍不允许它们切换。我认为问题出在 drag.js 文件中？但很乐意提供帮助。 此链接没有我对 href 文件的修复，只是我获得的原始文件： https://github.com/ninique/Dollmaker-Script.git [我正在使用 VS Code 和 Live Server 扩展来查看代码和页面，所以这是问题所在？]    提交人    /u/Dear_Connor_Murphy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fixbvn/begging_for_help_fixing_this_page_for_assignment/</guid>
@@ -29,19 +85,19 @@
     <item>
       <title>“当一个人有口音时，这意味着他们比你多懂一门语言”</title>
       <link>https://www.reddit.com/r/webdev/comments/1fiwkn0/when_someone_has_an_accent_it_means_that_they/</link>
-      <description><![CDATA[如何在 webdev 中识别重音？有任何可以说明问题的迹象吗？    由   提交  /u/thehighlama   [链接] [评论]]]></description>
+      <description><![CDATA[如何识别 webdev 中的重音符号？有什么明显的迹象吗？ 为清晰起见，已编辑：当有人说列表而不是数组时，我知道他们可能来自 Py。    提交人    /u/thehighlama   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fiwkn0/when_someone_has_an_accent_it_means_that_they/</guid>
       <pubDate>Tue, 17 Sep 2024 11:23:15 GMT</pubDate>
     </item>
     <item>
       <title>调试水平溢出？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fiwf6m/debugging_horizontal_overflows/</link>
-      <description><![CDATA[问题：https://imgur.com/a/irASF1S 我多次遇到过这种水平滚动，但每次调试时都很麻烦，因为边距或填充中的某些内容溢出，而我似乎无法确定哪个元素超出了范围。解决这个问题的不完善的方法是使用 overflow-x: &#39;hidden&#39;，但这不对。有没有简单的方法可以找出哪个元素对此负责？    提交人    /u/0ni0ncuttingninja   [链接] [评论]]]></description>
+      <description><![CDATA[问题：https://imgur.com/a/irASF1S 我多次遇到过这种水平滚动，但每次调试时都很麻烦，因为边距或填充中的某些内容溢出，而我似乎无法确定哪个元素超出了范围。解决这个问题的不完善的方法是使用 overflow-x: &#39;hidden&#39;，但这不对。有没有一种简单的方法可以找出哪个元素对此负责？    提交人    /u/0ni0ncuttingninja   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fiwf6m/debugging_horizontal_overflows/</guid>
       <pubDate>Tue, 17 Sep 2024 11:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>Airbnb 如何顺利升级 React（使用 A/B 测试基础知识）</title>
+      <title>Airbnb 如何顺利升级 React（使用 A/B 测试的基本原理）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fiw9f3/how_airbnb_smoothly_upgrades_react_using/</link>
       <description><![CDATA[        由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fiw9f3/how_airbnb_smoothly_upgrades_react_using/</guid>
@@ -53,62 +109,6 @@
       <description><![CDATA[我是使用 php 和 js (node.js) 的新手，但对两者都很熟悉。您建议我学习哪一个并在我的项目中使用，为什么？    提交人    /u/Economy-Spray-8960   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fivapi/beginner_back_end_language_of_choice_question/</guid>
       <pubDate>Tue, 17 Sep 2024 10:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个包含 800 多家股票和投资通讯的目录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiuwx3/ive_build_a_directory_of_800_stock_and_investment/</link>
-      <description><![CDATA[      在 RhinoInvestory.com 上发现来自全球投资者的 800 多篇股票评论，并且正在添加新内容每天。 如果您有股票或投资想法要分享，请在下面发表评论，我会将它们添加到数据库中。或者，您可以直接前往网站并直接提交报告！ RhinoInvestory.com    提交人    /u/RhinoInsight   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiuwx3/ive_build_a_directory_of_800_stock_and_investment/</guid>
-      <pubDate>Tue, 17 Sep 2024 09:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Flash 为 3D 建模者制作了这个教育小程序。我现在应该使用什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiuja5/i_used_flash_to_make_this_educational_applet_for/</link>
-      <description><![CDATA[如果我想再次做这样的事情？https://streamable.com/5djm8d 一个可以独立使用或在浏览器中使用的小程序，我应该使用什么？ 我真的很喜欢 Flash 的 DDC 方面，这是一个我可以设置、导航、动画等的软件。但我不知道现在我可以用什么来制作类似的东西。有没有一个应用程序可以生成这种可导航内容的软件，我可以单独运行或在浏览器中运行？ 谢谢     提交人    /u/probiner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiuja5/i_used_flash_to_make_this_educational_applet_for/</guid>
-      <pubDate>Tue, 17 Sep 2024 09:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本渐变在桌面上有效，但在移动设备上无效。我做错了什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fitl03/text_gradient_works_on_desktop_but_not_on_mobile/</link>
-      <description><![CDATA[我遇到了一个奇怪的问题。我有一个网站这里。上面有一些标题元素，我给它们赋予了类 .blue-gradient-text。下面是它的 CSS： .blue-gradient-text { background: -o-linear-gradient(331.6deg, #002147 35.72%, #1593af 70.94%); background: linear-gradient(118.4deg, #002147 35.72%, #1593af 70.94%); background-image: linear-gradient(118.4deg, rgb(0, 33, 71) 35.72%, rgb(21, 147, 175) 70.94%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-fill-color: transparent; }  这在桌面上完美显示渐变文本，但在移动设备上文本完全消失。它是透明的。渐变不显示，但文本存在于页面上。您也可以通过调整浏览器窗口大小来查看此行为。我做错了什么？    提交人    /u/SWDR117   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fitl03/text_gradient_works_on_desktop_but_not_on_mobile/</guid>
-      <pubDate>Tue, 17 Sep 2024 08:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>减少 vimeo 脚本对加载主页的影响？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiszcn/reduce_vimeo_script_impact_on_loading_homepage/</link>
-      <description><![CDATA[      大家好，我第一次建立了一个网站，在最后时刻遇到了一些问题。  我的主页显示我的作品集，自动播放时占据了屏幕的整个宽度和高度，用户可以通过按钮向下滚动。我喜欢这个布局。  直到昨天晚上我还在使用自己的近 100mb 的视频（是的，我知道我犯了这种错误），然后我发现它会耗尽我的带宽，这是一个非常不负责任的举动。我首先尝试将其嵌入到 youtube，但几个月前他们无法隐藏视频标题和 youtube 徽标（这真的让我对英雄感到失望）。因此我转到了 vimeo，但现在的问题是他们的 js（运行视频所必需的）花费的时间非常长，并且根据 google pagespeed insights 严重减慢了 homage 的加载速度。这太可惜了，因为 vimeo 有一个很棒的“background=1&amp;”嵌入代码，非常方便。  https://preview.redd.it/t7zxkcxeobpd1.png?width=1359&amp;format=png&amp;auto=webp&amp;s=b529d62fc17c14fec296bd5d509953fb860a01be https://preview.redd.it/zqmfvbxeobpd1.png?width=1369&amp;format=png&amp;auto=webp&amp;s=3c95a4670468d3a1db3e4e5979d5c1229ccb1a6a 我的 js 的其余部分只是一个可点击的按钮来复制我的邮件，一个可点击的按钮来显示/隐藏我的作品子页面，仅此而已。今天之前它运行良好，所以除了 vimeo 之外我真的不能怀疑任何其他东西。  有任何解决方案吗？谢谢    提交人    /u/HR2Edda   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiszcn/reduce_vimeo_script_impact_on_loading_homepage/</guid>
-      <pubDate>Tue, 17 Sep 2024 07:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADA 残疾诉讼如何启动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fispk9/how_are_ada_disability_lawuits_initiated/</link>
-      <description><![CDATA[我想保护自己，以免这些贪婪之徒追着我们，以 ADA 诉讼起诉我们，要求赔偿数千美元，仅仅因为我们在网上存在。我拥有 100 多个不同的 PBN（用于 SEO 反向链接的简单 Wordpress 私人博客网络站点）。这些是随机博客站点，上面有关于随机主题的随机文章。我有太多博客站点，无法一次性让它们全部合规。即使我让它们合规了。由于图像上缺少 alt 标签或其他原因，一些无聊的诉讼出现只是时间问题。  所以我想知道 - 律师如何与网站联系以提起诉讼？  例如，如果我们的联系表格甚至不起作用 - 他会以某种方式传唤 WHOIS 信息吗？ 如果 WHOIS 信息是假的 - 他会以某种方式传唤或强迫主机透露网络托管帐户上人员的姓名吗？  而且诉讼无论如何是如何正式送达的？  我正在试图弄清楚如何避免这种情况。    提交人    /u/dogwaze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fispk9/how_are_ada_disability_lawuits_initiated/</guid>
-      <pubDate>Tue, 17 Sep 2024 07:17:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Outlook Web 插件开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fisk6c/outlook_web_addin_development/</link>
-      <description><![CDATA[我希望这里有人对此有一些经验。我正在尝试进入插件开发，因此我完成了官方教程。 下载了您的生成器，生成了任务窗格插件，启动了 npm，安装了所有必要的证书等。一切顺利，没有错误，Outlook 启动了，但是“显示任务窗格”按钮没有出现。 我想也许防火墙之类的东西阻止了它或其他什么。然后我决定只构建它，运行 npm run build，将文件上传到服务器（使用 ssl），转到 365 管理中心，单击“部署新应用程序”，提供清单 url，然后我收到“无效清单文件”。 我真的没有改变任何东西，为什么它不起作用？我该如何调试它？运行 npm run verify 仅返回： office-addin-taskpane-js@0.0.1 verify office-addin-manifest verify manifest.json 没有错误或任何内容。     提交人    /u/Eastern_Interest_908   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fisk6c/outlook_web_addin_development/</guid>
-      <pubDate>Tue, 17 Sep 2024 07:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>React App 手动 URL 和刷新不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiqwwj/react_app_manaul_url_and_refresh_not_working/</link>
-      <description><![CDATA[      大家好。我有一个使用 webpack 进行 react 构建的 node js express 应用程序，它运行正常。如果我使用我在网页中定义的链接，我可以导航到不同的路线，但是当我单击刷新或输入手动 URL 时，它无法正确呈现页面。相反，它显示我的 http 请求的获取响应，并仅显示获取响应的 JSON 输出，其中页面源代码以此作为我的标头。即使我没有在任何地方添加与内容安全策略相关的代码。 https://preview.redd.it/h1xyu4viiapd1.png?width=571&amp;format=png&amp;auto=webp&amp;s=be98b8777a8d16c8bf71a3becfeb35fffb568ad4 我在网上搜索并尝试了许多不同的解决方案，但都没有用。  在我的 webpack.config 代码中更改 devServer 块 devServer：{ historyApiFallback: true, contentBase: &#39;./&#39;, hot: true  在我的 express 应用程序 index.js 文件中添加一个 catch all app.get app.get(&#39;*&#39;, (req, res) =&gt; { res.sendFile(path.join(__dirname, &#39;../frontend/dist/index.html&#39;)); });  任何建议都会有很大帮助！！    提交人    /u/Direct-Dingo-423   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiqwwj/react_app_manaul_url_and_refresh_not_working/</guid>
-      <pubDate>Tue, 17 Sep 2024 05:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>VPS CPU 的性能有多强</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiqmlt/how_powerful_are_vps_cpus/</link>
-      <description><![CDATA[TLDR：如果我获得 .5CPU 或 1CPU，我的应用程序是否会以 5 倍或 10 倍的速度运行（从 .1CPU 开始）？这取决于 VM 吗？还是标准化的？ 我制作了一个 Web 应用程序，它读取用户输入并从 API 中提取以生成可下载的 PDF。由于未完成的错误处理，它无法 100% 工作，但它是可用的，所以...... 我尝试托管它。我不知道从哪里开始。我登陆了 Render.com（免费版）：0.1 CPU，512MB RAM 并了解了很多关于 .env 和 git 的知识，但我的理解是它在不使用时会将其限制下来，这意味着在有人输入我的 URL 并按下回车键后，它会在 60 秒内卡住。此外，用户按下启动按钮后，Web 应用的启动时间从 30 秒到永远不等。 我尝试了 gcloud cloud run、.5 CPU 和 512MB RAM，我构建了一个容器并运行它，但出现了一个错误，我从未修复过，因为在我知道之前，我被收取了 20 美元，而我以为它是免费的。 render 的 .5 CPU 和 512RAM 价格为 7 美元，Digital Ocean 的 1CPU 和 512RAM 价格为 4 美元 所以......如果我得到 .5CPU 或 1CPU，我的应用会快 5 倍还是 10 倍？这取决于 VM 吗？还是标准化了？    提交人    /u/AnInfantArmy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiqmlt/how_powerful_are_vps_cpus/</guid>
-      <pubDate>Tue, 17 Sep 2024 05:08:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
