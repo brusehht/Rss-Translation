@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Sep 2024 03:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 06:20:18 GMT</lastBuildDate>
+    <item>
+      <title>您正在打字：进行自我对话</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fjlbzn/you_are_typing_engage_in_selfdialogue/</link>
+      <description><![CDATA[大家好。7 月份，我的心理健康状况让我苦不堪言，所以我决定重写一个旧程序，让我可以像给朋友发短信一样给自己发短信。我注意到，我对自己比较挑剔，但对朋友就没那么挑剔了。所以，这个程序的目标是让我对自己好一点。 部分功能包括：  短信体验 切换消息视角的能力 为消息添加书签 导出为 JSON 进行备份，或导出为 CSV 以便以后阅读 从 JSON 备份导入  到目前为止，它对我真的很有帮助，所以我希望它也能对你有所帮助。 :) https://github.com/calejvaldez/YouAreTyping （欢迎提供建议！）    由   提交  /u/thesquidwars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fjlbzn/you_are_typing_engage_in_selfdialogue/</guid>
+      <pubDate>Wed, 18 Sep 2024 05:21:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS OpenSearch 现已成为 Linux 基金会的一部分</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fjk6s5/aws_opensearch_is_now_part_of_linux_foundation/</link>
+      <description><![CDATA[  由    /u/ram-foss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fjk6s5/aws_opensearch_is_now_part_of_linux_foundation/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:11:41 GMT</pubDate>
+    </item>
     <item>
       <title>开源与 Opencore</title>
       <link>https://www.reddit.com/r/opensource/comments/1fjd6qo/opensource_vs_opencore/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[我最近提出帮助一个不断发展的非营利性网络基础设施，虽然大多数东西都已整理好，但我正在寻找一个可以托管成员和分支机构门户的网站，供成员访问内部服务和资源以及管理成员资料。有人知道任何针对这种事情的东西吗？它看起来像工会和会员团体可能会使用的那种系统。    提交人    /u/redcorerobot   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fjbioa/looking_for_an_open_source_solution_for_a_members/</guid>
       <pubDate>Tue, 17 Sep 2024 21:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice Draw 能显示 Adob​​e Acrobat 的变化吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj91z4/can_libreoffice_draw_show_adobe_acrobat_changes/</link>
-      <description><![CDATA[请原谅我对这些程序的无知。我的学校说他们会突出显示我的 PDF 上的某些文本并将其发回给我，我需要 Adob​​e Acrobat 才能看到更改。我仍然可以在 LibreOffice Draw 中看到他们使用 Acrobat 所做的所有更改吗？    提交人    /u/MegaFocusDv   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj91z4/can_libreoffice_draw_show_adobe_acrobat_changes/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:55:44 GMT</pubDate>
     </item>
     <item>
       <title>您花了多长时间才获得 100 颗星或 1000 颗星？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[        由    /u/iamjessew  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fj245m/feature_prioritization_and_customers_perceived/</guid>
       <pubDate>Tue, 17 Sep 2024 15:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑开源我的产品，需要一些建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj1zo3/thinking_of_opensourcing_my_product_and_need/</link>
-      <description><![CDATA[大家好， 我正在考虑开源我的产品，因为我目前正在努力吸引用户。我希望提高知名度和可信度。但是，我不确定会发生什么，希望得到一些建议。 该产品名为 Portal，是一台个人云计算机 - 您可以在此处阅读更多相关信息。总而言之：我将现代 IaaS 与自托管应用程序相结合，并在其上构建了一个类似智能手机的 Web 界面。结果是该设备具有云计算的优势，是私有的、易于使用的，并且可以从任何设备访问。 有些问题我不确定：  如何选择许可证？我想允许私人使用，但限制商业竞争对手。 什么是可持续的商业模式？我希望我的工作能养家糊口，并能以此发展公司。 对于社区的贡献，如拉取请求、错误报告等，我有什么期望？ 一些项目由公司赞助？这可行吗？如何进行，会有什么期望？ 我还应该问哪些不在本列表中的问题？  我当然做了一些研究，但由于这是一大步，我担心错过任何重要的东西。因此，您提供的任何建议或经验都将非常有帮助。谢谢！    提交人    /u/max_tee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj1zo3/thinking_of_opensourcing_my_product_and_need/</guid>
-      <pubDate>Tue, 17 Sep 2024 15:20:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
