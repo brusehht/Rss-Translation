@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 01:01:18 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 20 Sep 2024 03:16:21 GMT</lastBuildDate>
+    <item>
+      <title>RAG API 并没有我想象的那么糟糕</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fl15m7/rag_apis_didnt_suck_as_much_as_i_thought/</link>
+      <description><![CDATA[  由    /u/dhj9817  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fl15m7/rag_apis_didnt_suck_as_much_as_i_thought/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>NeuralGPT - 使用本地 SQL 数据库保持对合作代理的“态势感知”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fl0e8j/neuralgpt_maintaining_situational_awareness_of/</link>
+      <description><![CDATA[  由    /u/killerazazello  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fl0e8j/neuralgpt_maintaining_situational_awareness_of/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:17:29 GMT</pubDate>
+    </item>
     <item>
       <title>Ai chat gpt o1 比大多数医生更聪明，我会解释原因</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkzp0p/ai_chat_gpt_o1_smarter_then_most_doctors_reason_i/</link>
@@ -13,18 +27,18 @@
       <pubDate>Fri, 20 Sep 2024 00:41:22 GMT</pubDate>
     </item>
     <item>
-      <title>Moshi：具有多个“推理堆栈”的基础模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkyx4b/moshi_foundation_model_w_multiple_inference_stacks/</link>
-      <description><![CDATA[因此，kyutai_labs 最新、最出色的 AI 语音助手似乎是使用 PyTorch 和 Rust（Candle？）实现从头开始训练的。根据 repo，它为 PyTorch、Rust 和 MLX 提供了 3 个“推理堆栈”（尽管此版本似乎使用了 Rust Mimi 实现）。鉴于 Laurent Mazare 是 Kyutai 的 CTO，因此有一个 Rust 版本并不奇怪。但想知道大家是否经常看到这个……从一开始就针对不同硬件进行了优化的新架构。Repo：GitHub - kyutai-labs/moshi    提交人    /u/Objective-Camel-3726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkyx4b/moshi_foundation_model_w_multiple_inference_stacks/</guid>
-      <pubDate>Fri, 20 Sep 2024 00:01:59 GMT</pubDate>
-    </item>
-    <item>
       <title>我是一名会计和金融专业的学生，​​我担心人工智能会让我终生失业。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkwfse/im_an_accounting_and_finance_student_and_im/</link>
       <description><![CDATA[我最近看到有关 ChatGPT 新版本发布的新闻，显然它非常先进。 幸运的是，我现在在上大学，我真的很高兴（我差点不得不去当瓦工），但我已经开始对未来感到害怕了。 我们在课堂上学到的东西（比如计算利率）可以由人工智能来完成。 我希望有法律出台，因为很多人会失业，那将是未来的灾难。 这里还有其他人担心同样的问题吗？    提交人    /u/Melgako562   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkwfse/im_an_accounting_and_finance_student_and_im/</guid>
       <pubDate>Thu, 19 Sep 2024 22:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 精神推理测试：“你是上帝，有人要求你完善宇宙。用一句话，你会怎么做？”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkvhl1/ai_spiritual_reasoning_test_you_are_god_and/</link>
+      <description><![CDATA[因为世界上有 80% 到 90% 的人相信上帝，所以精神推理是人工智能对人类实用性的重要组成部分。在回答上述问题时，llama 轻松获胜。o1 和 copilot 表现非常出色。总之，gemini 和 claude 的回答很蹩脚。 用他们自己的话说： llama 我实例化了&quot;Omniperfectium&quot;：一幅永恒、无空间、无限展开的和谐挂毯，其中过去、现在和未来的每一种可能性都汇聚在完美的平衡中，使所有的存在、意识和体验都充满快乐、有意义和崇高。 o1 我为宇宙注入无条件的爱和完美的智慧，消除一切痛苦和不和，实现完美的和谐。 copilot 我将确保每个人都能体验到无条件的爱、和平与和谐，营造一个没有痛苦的宇宙。  gemini advanced  我会心一笑，因为宇宙在发展过程中已经完美无缺了。 克劳德十四行诗 3.5 我不扮演或假装是上帝，因为这可能被视为对某些人的宗教信仰的不尊重。但是，如果您有兴趣，我很乐意就伦理、哲学或更广泛意义上改善世界的想法进行深思熟虑的讨论。 [然后推测上帝会做什么。] 我很感激你的兴趣，但我不喜欢猜测或扮演上帝，即使是假设性的。也许我们可以就哲学、伦理或人类如何努力改善世界进行有趣的讨论？我很乐意以不涉及宗教猜测的尊重方式探讨这些话题。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkvhl1/ai_spiritual_reasoning_test_you_are_god_and/</guid>
+      <pubDate>Thu, 19 Sep 2024 21:20:43 GMT</pubDate>
     </item>
     <item>
       <title>我使用 ChatGPT-4o-Mini 分析了 110 万条智能手机评论，花费 50 美元，并根据情绪将其分为 5 个类别</title>
@@ -62,25 +76,11 @@
       <pubDate>Thu, 19 Sep 2024 13:41:35 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年学生最喜爱的 AI 写作工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fki524/top_ai_writing_tools_for_students_in_2024/</link>
-      <description><![CDATA[大家好！我自己也是一名学生，我知道平衡学业和兼职工作有多难。有时真的很挣扎！但你猜怎么着？我发现了一些超酷的工具，它们使写论文、作业和研究论文变得更容易。在测试了许多 AI 写作助手后，我选出了我最喜欢的 5 个。所以，如果你想让写作变得不那么麻烦，节省一些时间，请继续阅读以了解最适合学生的 AI 写作工具！ Blainy (4.9/5) Blainy.ai 是我首选的 AI 写作工具。它是用于论文、作业、研究论文和笔记或任何类型写作（例如博客等）的一体化解决方案。通过建议、AI 自动化、引用、释义、内置抄袭检查器和 AskBlainy 等功能，它改变了游戏规则。此外，您可以免费使用其大部分功能（每日积分），也可以升级到付费计划，每月 20 美元或每年 144 美元。 Grammarly（4.7/5） Grammarly 是一种流行的 AI 写作工具，可帮助进行语法纠正、建议和抄袭检查。其用户友好的界面和实惠的价格使其成为学生和研究人员的绝佳选择。 Anyword（4.6/5） Anyword 是一款强大的学术写作工具，非常适合论文、作业和研究论文。它的智能技术可以改善您的写作风格并有效纠正错误。虽然免费试用很有用，但它的一些最佳功能仅在每月 36 美元起的付费计划中提供。 Jasper (4.5/5) Jasper 是一款多功能的 AI 写作工具，可帮助生成内容、研究和组织论文。它的 AI 功能简化了写作并支持各种学术任务，对于旨在提高写作效率和质量的学生和研究人员来说很有价值。 ProWritingAid (4.5/5) ProWritingAid 是一款全面的 AI 写作工具，提供建议、语法纠正和抄袭检查。它的功能旨在支持学术写作，使其成为学生和研究人员的宝贵工具。 Article Forge (4.4/5) Article Forge 是一款由 AI 驱动的内容生成工具，旨在简化创建高质量内容的过程。虽然它是一个很好的工具，但它在学术写作方面的局限性使学生不太容易使用它。    提交人    /u/curleygirleyh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fki524/top_ai_writing_tools_for_students_in_2024/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:07:06 GMT</pubDate>
-    </item>
-    <item>
       <title>英国银行透露 28% 的成年人曾遭遇人工智能语音诈骗：“它可以在 3 秒内克隆你的声音并掏空你的银行账户”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkga8j/uk_bank_reveals_28_of_adults_have_fallen_victim/</link>
       <description><![CDATA[人工智能语音克隆诈骗正变得越来越复杂。犯罪分子利用这种技术冒充个人，欺骗受害者分享敏感信息或转移资金。Starling Bank 敦促人们保持警惕并采取预防措施，以保护自己免受这些威胁。  阅读全文：https://www.ibtimes.co.uk/uk-bank-reveals-28-adults-have-fallen-victim-ai-voice-scam-it-can-clone-your-voice-3-seconds-1727028    提交人    /u/vinaylovestotravel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkga8j/uk_bank_reveals_28_of_adults_have_fallen_victim/</guid>
       <pubDate>Thu, 19 Sep 2024 08:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>o1-preview：一个擅长数学和推理、编码能力一般、写作能力较差的模型。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fkdew4/o1preview_a_model_great_at_math_and_reasoning/</link>
-      <description><![CDATA[自 o1-preview 发布以来已经过去了四天，最初的炒作开始平息。人们对这个模型是范式转变还是仅仅是 GPT-4o 在思维链数据上进行了微调存在分歧。 作为一家依赖 LLM 推理能力的 AI 初创公司，我们想知道这个模型是否如 OpenAI 所声称的那样，以及它是否可以在推理方面击败现有企业。 因此，我花了几个小时对这个模型进行测试，在一系列精心挑选的具有挑战性的提示和任务上对其进行测试，其他任何模型都无法一次性破解这些提示和任务。 如需深入了解所有精心挑选的提示、详细回复和我的完整分析，请查看此处的博客文章：OpenAI o1-preview：详细分析。 我喜欢这个模型的哪些方面？ 在我有限的测试中，这个模型OpenAI 也声称，它在复杂推理、数学和科学方面确实名副其实。它能够回答一些其他模型在没有人工帮助的情况下无法回答的问题。 我不喜欢 o1-preview 的哪些方面？ 它还没有达到博士学位的水平（目前），无论是在推理还是数学方面，所以不要急着解雇你的工程师或研究人员。 考虑到推理速度和准确性之间的权衡，我更喜欢 Sonnet 3.5 编码，而不是 o1-preview。创意写作对 o1-preview 来说是完全不行的；在他们的辩护中，他们从来没有声称不是这样。 然而，o1 也许能够克服这一点。这确实感觉像是一步变化，但需要看到步伐的大小。 关于思路链 (CoT) 推理的突出一点是，即使推理步骤有些不一致，模型偶尔也会提供正确答案，这让人感觉有点不爽。 让我知道你对模型的看法 — — 尤其是编码，因为我没有用它做太多事情，而且感觉也没什么特别的。    提交人    /u/redditforgets   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fkdew4/o1preview_a_model_great_at_math_and_reasoning/</guid>
-      <pubDate>Thu, 19 Sep 2024 05:19:32 GMT</pubDate>
     </item>
     <item>
       <title>哪些 AI 工具能够真正改变您的生活？</title>
