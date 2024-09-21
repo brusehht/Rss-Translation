@@ -4,7 +4,21 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Sat, 21 Sep 2024 06:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 09:12:51 GMT</lastBuildDate>
+    <item>
+      <title>每日总结 AI 研究论文 #21</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1flyxvz/summarising_ai_research_papers_everyday_21/</link>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #21 我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览所有论文了。今天的论文题为“尼日利亚软件工程师还是美国数据科学家？大型语言模型中的 GitHub 个人资料招聘偏见”，作者是 Takashi Nakano、Kazumasa Shimari、Raula Gaikovina Kula、Christoph Treude、Marc Cheong 和 Kenichi Matsumoto。 本文研究了大型语言模型 (LLM)，尤其是 OpenAI 的 ChatGPT，在根据 GitHub 个人资料招募软件开发团队时可能如何显示偏见。该研究采用了来自美国、印度、尼日利亚和波兰的 3,657 个个人资料的数据集，仔细研究了此类模型分配的角色和偏好的地区。主要发现包括：  区域偏好：ChatGPT 在招聘中表现出地理偏见，无论个人资料中的位置变化如何，都偏爱来自某些地区的候选人，这表明存在潜在的社会偏见。 角色分配偏见：倾向于将特定角色分配给来自特定国家的候选人，例如美国和印度的数据科学家，以及主要在尼日利亚的软件工程师，这反映了角色选择中的隐性偏见。 反事实分析：当个人资料位置被反事实改变时，会观察到招聘机会的显著差异，特别是当个人资料似乎来自美国时，这大大增加了来自其他地区的候选人的选择机会。 对招聘中人工智能的影响：该研究强调了在招聘过程中部署法学硕士学位的重要意义，揭示了强化现有地理和基于角色的刻板印象。 研究方面和未来方向：作者提出了一项研究议程，以进一步探究这些偏见并制定缓解策略，强调在招聘中使用人工智能的道德必要性。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1flyxvz/summarising_ai_research_papers_everyday_21/</guid>
+      <pubDate>Sat, 21 Sep 2024 09:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 AI 代理并赢得 ipad 11 Pro(M4)🧑🏼‍💻🚀</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1flxl1e/build_ai_agent_and_win_ipad_11_prom4/</link>
+      <description><![CDATA[  由    /u/harshit_nariya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1flxl1e/build_ai_agent_and_win_ipad_11_prom4/</guid>
+      <pubDate>Sat, 21 Sep 2024 07:28:47 GMT</pubDate>
+    </item>
     <item>
       <title>有关自定义 gpt 的帮助</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fkgwkb/help_with_custom_gpt/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[该指南比较了 2024 年最佳编码 AI 副驾驶 - 作为通过提供实时代码建议和完成来协助开发人员完成整个软件开发生命周期的高级工具（这使它们有别于可能仅提供任务特定支持的常规编码 AI 助手）：2024 年四大编码 AI 副驾驶 它解释了这些副驾驶的主要好处，包括提高效率、减少错误、保持一致的代码质量和自然语言处理。    提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fclqqb/coding_ai_copilots_for_2024_compared_codiumai/</guid>
       <pubDate>Mon, 09 Sep 2024 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 创建稳定扩​​散和跑道的图像和视频提示（评论中的提示）</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fcklnc/using_chatgpt_to_create_image_video_prompts_for/</link>
-      <description><![CDATA[   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fcklnc/using_chatgpt_to_create_image_video_prompts_for/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士 (LLM) 的反射调优</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fcjpfq/reflection_tuning_for_llms/</link>
-      <description><![CDATA[  由    /u/mehul_gupta1997  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fcjpfq/reflection_tuning_for_llms/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:23:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
