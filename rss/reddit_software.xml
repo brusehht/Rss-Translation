@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 21:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 01:08:02 GMT</lastBuildDate>
+    <item>
+      <title>帮我一下，我需要清空一个 SSD</title>
+      <link>https://www.reddit.com/r/software/comments/1fmfwb0/help_me_i_need_to_empty_an_ssd/</link>
+      <description><![CDATA[我正在从一块我打算出售的固态硬盘上复制文件，但它要么一开始无法传输，要么像这样中途停止，是的，优化正在进行中，我不知道该怎么做，希望能得到一些帮助，这样我就可以尽快卖掉这块固态硬盘 https://preview.redd.it/dc58vskki6qd1.png?width=460&amp;format=png&amp;auto=webp&amp;s=d916d5481f63086de8285f1e2e2edff1380c23d6    提交人    /u/mohmeddddddd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmfwb0/help_me_i_need_to_empty_an_ssd/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>我们如何在 Windows 上卸载便携式应用程序！不幸的是，我找不到任何卸载程序！请帮忙？</title>
       <link>https://www.reddit.com/r/software/comments/1fmc85v/how_do_we_uninstall_a_portable_application_on/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[YT Channel Downloader 是一款跨平台 (Windows、Mac、Linux) 开源桌面应用程序，旨在简化 YouTube 内容的下载流程。它利用 yt-dlp、scrapetube 和 pytube 进行底层开发，并搭配易于使用的图形界面。此工具旨在为您提供无缝体验，让您可以离线（即备份）获取您喜爱的视频和音频内容。您可以有选择地或完全下载频道、播放列表或单个视频，选择仅音频曲目，并自定义视频或音频的质量。 新版本提供了使用您的 YouTube 帐户下载年龄限制和高级内容的功能 [可选]，并且还修复了一些错误并做出了一些小改进。 此应用程序与许多其他用于下载视频的软件不同，它提供了一个易于点击的界面，可以快速选择并下载您需要的内容。 请参阅自述文件中的安装说明。在 Windows 上，您还可以选择从 SourceForge 或 Github Releases 下载预制安装程序。 欢迎对新功能、错误报告和改进想法提出建议。 YT 频道下载器    由    /u/ph0tone  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1flpca0/selectively_backup_youtube_channels_playlists_yt/</guid>
       <pubDate>Fri, 20 Sep 2024 23:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>准确追踪远程用户在我的电脑上执行的操作</title>
-      <link>https://www.reddit.com/r/software/comments/1flo0t7/track_exactly_what_remote_user_does_on_my_pc/</link>
-      <description><![CDATA[嘿，我将让远程支持人员通过 teamviewer 或 anydesk 访问我的电脑。他将安装软件并进行一些配置。 我正在寻找一种软件来准确跟踪他将在我的电脑上执行的操作，以便我可以知道并准确地执行他在做什么。此外，如果他将文件传输到我的电脑上以运行它们并在之后删除它们，我也希望这些文件能够以某种方式存储起来。 有这样的事情吗？谢谢？    提交人    /u/koffis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1flo0t7/track_exactly_what_remote_user_does_on_my_pc/</guid>
-      <pubDate>Fri, 20 Sep 2024 22:11:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
