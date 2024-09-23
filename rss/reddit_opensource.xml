@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Sep 2024 21:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 01:04:22 GMT</lastBuildDate>
     <item>
       <title>作为首次投稿者，hacktober fest 值得参加吗</title>
       <link>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</link>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 22 Sep 2024 18:31:58 GMT</pubDate>
     </item>
     <item>
-      <title>一些初创公司选择“公平来源”以避免开源许可的陷阱 | TechCrunch</title>
+      <title>一些初创公司正在采用“公平来源”来避免开源许可的陷阱 | TechCrunch</title>
       <link>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</link>
       <description><![CDATA[        由    /u/LinearArray   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>设计一个对开源友好的微服务库；处理垃圾抽屉代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1fmwrnl/designing_a_micro_service_library_to_be_friendly/</link>
-      <description><![CDATA[背景： 我有几个个人项目，由于质量低下，大多未发布。我在摆弄一些我感兴趣的库时走了很多捷径。我并不真的想努力制作一些值得分享的东西。 我确实发布了一个项目，其中的 README 基本上是“我弄清楚了如何使用某些硬件的专有 API，因此如果您拥有该硬件并想用它创建自己的项目，您可能会有兴趣复制我的一些代码”。我选择了 Unlicense，因为我不在乎个人使用的功劳，而且任何人在生产中使用其中任何一个而不进行重大清理都是愚蠢的。 我还发布了一些 Gists，它们创建了一些使用流行库的工作示例。在这些情况下，我找不到任何好的例子，花了很多时间去理解 api 规范，所以我想一个例子可能会帮助下一个人更快地理解它。我对库存储库“examples”目录做了一个 Gist 而不是 PR，因为我不想再花精力去清理它或来回审核。 展望未来，我想养成使用良好软件设计实践的习惯，创建我可以引以为豪的代码，并以更有用的方式做出贡献。我现在正借此机会学习一门新的编程语言，我想从一开始就养成良好的习惯。 问题： 我的大多数项目都有很多“垃圾抽屉”代码与更普遍有用的东西混在一起。例如，我有一个 aws lambda 函数来管理电子邮件列表订阅/取消订阅请求。它将电子邮件存储在数据库中，并带有一些注释（未确认、已订阅、取消订阅、列入黑名单）、用户加入日期等；它会发送确认电子邮件；并将通过/失败信息报告回订阅网页。一切都使用可以存储在本地或云存储中的模板。我认为这是一些普遍有用的功能的示例。除此之外，我还有一个错误报告器（当断言失败时向我发送电子邮件）；一个速率限制器（确保此功能限制为我的电子邮件配额的一小部分，以保证还有一些剩余用于其他项目）；以及一些允许我在各种提供商之间切换的代码（通过 SES 与 gmail 发送电子邮件；使用 dynamoDB 与 PostgreSQL；使用 aws lambda 运行时与 apache2 后面的独立 http）。 以此为例，我不确定我应该如何编写它才能使其更加开源友好。我最初的直觉是将所有这些内容移出核心库，而是将其放在“测试”或“示例”目录中。当您实例化 list_manager 类时，它将具有一个打印到 stderr 的默认错误报告器和一个不受限制的速率限制器。然后会有一些 set_rate_limiter(function_pointer, void*) 和 set_error_handler(function_pointer, void*) 方法，允许用户放入他们想要的任何功能（如果有的话）。 对于提供程序切换器组件，除了可能只是与 stdin/stdout 接口的“测试模式”之外，实际上没有一个简单的/默认的选项。要使库完全有用，它至少需要其中一个提供程序。然后是在我的其他微服务库之间共享提供程序抽象和实现的问题。为“u/loaengineer0 的简单数据库提供程序”建立一个单独的仓库，然后处理一堆微小的依赖项，这似乎很愚蠢。我也不喜欢在仓库之间复制粘贴这些东西，即使这些只是 50-100 行的垫片。 在我的工作中，我们有一个“通用”模块的 mono 仓库，这是一个垃圾场，显然对开源不友好。我没有任何经验可以帮助我弄清楚处理这种事情的“正确”方法是什么。这种事情通常是如何解决的？ 感谢阅读！    提交人    /u/loaengineer0   [链接] [评论]]]></description>
+      <description><![CDATA[背景： 我有几个个人项目，由于质量低下，大多未发布。我在摆弄一些我感兴趣的库时走了很多捷径。我并不真的想努力制作一些值得分享的东西。 我确实发布了一个项目，其中的 README 基本上是“我弄清楚了如何使用某些硬件的专有 API，因此如果您拥有该硬件并想用它创建自己的项目，您可能会有兴趣复制我的一些代码”。我选择了 Unlicense，因为我不在乎个人使用的功劳，而且任何人在生产中使用其中任何一个而不进行重大清理都是愚蠢的。 我还发布了一些 Gists，它们创建了一些使用流行库的工作示例。在这些情况下，我找不到任何好的例子，花了很多时间去理解 api 规范，所以我想一个例子可能会帮助下一个人更快地理解它。我对库存储库“examples”目录做了一个 Gist 而不是 PR，因为我不想再花精力去清理它或来回审核。 展望未来，我想养成使用良好软件设计实践的习惯，创建我可以引以为豪的代码，并以更有用的方式做出贡献。我现在正借此机会学习一门新的编程语言，我想从一开始就养成良好的习惯。 问题： 我的大多数项目都有很多“垃圾抽屉”代码与更普遍有用的东西混在一起。例如，我有一个 aws lambda 函数来管理电子邮件列表订阅/取消订阅请求。它将电子邮件存储在数据库中，并带有一些注释（未确认、已订阅、取消订阅、列入黑名单）、用户加入日期等；它会发送确认电子邮件；并将通过/失败信息报告回订阅网页。一切都使用可以存储在本地或云存储中的模板。我认为这是一些普遍有用的功能的示例。除此之外，我还有一个错误报告器（当断言失败时向我发送电子邮件）；一个速率限制器（确保此功能限制为我的电子邮件配额的一小部分，以保证还有一些剩余用于其他项目）；以及一些允许我在各种提供商之间切换的代码（通过 SES 与 gmail 发送电子邮件；使用 dynamoDB 与 PostgreSQL；使用 aws lambda 运行时与 apache2 后面的独立 http）。 以此为例，我不确定我应该如何编写它才能使其更加开源友好。我最初的直觉是将所有这些内容移出核心库，而是将其放在“测试”或“示例”目录中。当您实例化 list_manager 类时，它将具有一个打印到 stderr 的默认错误报告器和一个不受限制的速率限制器。然后会有一些 set_rate_limiter(function_pointer, void*) 和 set_error_handler(function_pointer, void*) 方法，允许用户放入他们想要的任何功能（如果有的话）。 对于提供程序切换器组件，除了可能只是与 stdin/stdout 接口的“测试模式”之外，实际上没有一个简单的/默认的选项。要使库完全有用，它至少需要其中一个提供程序。然后就是在我的其他微服务库之间共享提供程序抽象和实现的问题。为“u/loaengineer0 的简单数据库提供程序”建立一个单独的仓库，然后处理一堆微小的依赖项，这似乎很愚蠢。我也不喜欢在仓库之间复制粘贴这些东西，即使这些只是 50-100 行的垫片。 在我的工作中，我们有一个“通用”模块的 mono 仓库，这是一个垃圾场，显然对开源不友好。我没有任何经验可以帮助我弄清楚处理这种事情的“正确”方法是什么。这种事情通常是如何解决的？ 感谢阅读！    提交人    /u/loaengineer0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fmwrnl/designing_a_micro_service_library_to_be_friendly/</guid>
       <pubDate>Sun, 22 Sep 2024 16:05:51 GMT</pubDate>
     </item>
