@@ -4,11 +4,18 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 01:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 03:19:04 GMT</lastBuildDate>
+    <item>
+      <title>Daily Dot：美国总统候选人对人工智能和其他科技话题的看法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fo22gp/daily_dot_where_the_leading_us_presidential/</link>
+      <description><![CDATA[https://www.dailydot.com/news/harris-trump-tech-policies-2024-election/ 这篇 9 月 22 日的文章提供了哈里斯-沃尔兹和特朗普-万斯在各种技术话题上的立场，其中“人工智能的未来”是最重要的部分之一。其他：FCC、第 230 条改革等等。它是一个概述/资源和讨论的跳板，比大多数此类产品更有研究性，并且包括一些有趣的惊喜——比如网状网络。它包括特朗普强调削减电力成本以加速人工智能和哈里斯作为“人工智能沙皇”的努力在拜登政府中，她在布莱切利公园举行的首届人工智能全球峰会上的演讲就是其中之一。    提交人    /u/StudentOfSociology   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fo22gp/daily_dot_where_the_leading_us_presidential/</guid>
+      <pubDate>Tue, 24 Sep 2024 02:25:34 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个可以对谷歌搜索查询进行分类的工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fo08vx/looking_for_a_tool_that_can_categorize_google/</link>
-      <description><![CDATA[大家好， 我希望有人能为我指明正确的方向，让我找到一个工具，让我可以根据自己创建的类别对来自 Google 搜索控制台的搜索查询进行分类。我搜索了又搜索，但还是找不到我想要的东西。大多数文本分析器都会进行情绪分析，这很酷，但不是我想要的。 背景： 我试图根据搜索意图对 Google 搜索控制台查询进行分类。我的项目是为一家拥有电子商务店面的兽医公司开展的，该公司每月从大约 12 万个唯一查询中获得 100 万次以上的自然展示。到目前为止，我已经能够绘制出客户旅程，并根据他们在每个阶段需要的信息类型创建分类 - 从识别和诊断医疗问题一直到比较治疗方案。我已经使用此模型对他们的每个页面进行了分类，现在正试图找到一种方法来对搜索查询进行分类，以便我可以显示来自每个客户旅程阶段的展示次数和点击次数的百分比。 我尝试过手动操作，但几百次之后，我意识到如果没有某种 AI 帮助，这根本是不可能的。 以下是我迄今为止尝试过的工具 - 这些工具可能非常适合这项工作，而我只是做得不对。 SEMrush - 他们的意图类别还可以，但在区分查询是关于研究疾病还是积极寻找治疗提供者时，他们往往会失误。我发现大约 45％ 的查询没有意图标签。 通过 Google Sheet API 的 Google Gemini - 我正在使用 1.5，这是一场灾难。 LabelBox - 它看起来很有希望，但我还没有想出如何真正训练它。提供训练数据似乎并没有改善结果，而且它跳过了大约 50% 的查询。 MaxQDA - 老实说，我觉得我太笨了，用不了这个。    提交人    /u/HebSeb   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我希望有人能为我指明正确的方向，让我可以使用一种工具根据我创建的类别对来自 Google 搜索控制台的搜索查询进行分类。我搜索了又搜索，但一直找不到我要找的东西。大多数文本分析器都会进行情绪分析，这很酷，但不是我想要的。 背景： 我试图根据搜索意图对 Google 搜索控制台查询进行分类。我的项目是为一家拥有电子商务店面的兽医公司开展的，该公司每月从大约 12 万个唯一查询中获得 100 万次以上的自然展示。到目前为止，我已经能够绘制出客户旅程，并根据他们在每个阶段需要的信息类型创建分类 - 从识别和诊断医疗问题一直到比较治疗计划。我已经使用此模型对他们的每个页面进行了分类，现在正试图找到一种方法来对搜索查询进行分类，以便我可以显示来自每个客户旅程阶段的展示次数和点击次数的百分比。 我尝试过手动操作，但几百次之后，我意识到如果没有某种 AI 帮助，这根本是不可能的。 以下是我迄今为止尝试过的工具 - 这些工具可能非常适合这项工作，而我只是做得不对。 SEMrush - 他们的意图类别还可以，但在区分查询是关于研究疾病还是积极寻找治疗提供者时，他们往往会失误。我发现大约 45％ 的查询没有意图标签。 通过 Google Sheet API 的 Google Gemini - 我正在使用 1.5，这是一场灾难。 LabelBox - 它看起来很有希望，但我还没有想出如何真正训练它。提供训练数据似乎并没有改善结果，而且它跳过了大约 50% 的查询。 MaxQDA - 老实说，我觉得我太笨了，用不了这个。    提交人    /u/HebSeb   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fo08vx/looking_for_a_tool_that_can_categorize_google/</guid>
       <pubDate>Tue, 24 Sep 2024 00:51:35 GMT</pubDate>
     </item>
@@ -20,13 +27,6 @@
       <pubDate>Mon, 23 Sep 2024 23:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>需要唇读软件方面的帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fnyutx/need_help_with_lip_reading_software/</link>
-      <description><![CDATA[我手机上有一个小时的录音，是为演示而录制的，但我连接的麦克风一直没有打开。 有没有唇读软件可以转录我说的话，而且，即使是不同的软件，也可以将我的声音应用到转录中，以便我可以将其上传到视频中？    提交人    /u/UrAn8   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fnyutx/need_help_with_lip_reading_software/</guid>
-      <pubDate>Mon, 23 Sep 2024 23:42:00 GMT</pubDate>
-    </item>
-    <item>
       <title>被指控使用人工智能，但我不知道为什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fnxw6z/accused_of_using_ai_and_i_dont_know_why/</link>
       <description><![CDATA[有人指控我在一篇短文考试答案中使用了人工智能。我的教授使用了 GPT Zero，它将我的写作标记为 100% 人工智能。我们提前收到了要粘贴到考试上的问题。我落后于课程材料，并在考试当天完成了这些问题，因此导致我的答案看起来很仓促且写得不好。除此之外，我不知道为什么我的写作被检测为人工智能。我确实下载了免费版 Grammarly，但我已在 Docs 和 Canvas 中禁用它。    提交人    /u/ilycheese   [链接] [评论]]]></description>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 23 Sep 2024 22:56:12 GMT</pubDate>
     </item>
     <item>
-      <title>那么，是不是说定制GPT 与应用程序完全不同，而只是 AI 初创企业创意的伪滋生地？</title>
+      <title>那么，是不是说定制GPT 与应用程序完全不同，而只是 AI 初创企业创意的伪滋生地呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fnxuxv/so_was_it_that_customgpts_were_nothing_like_apps/</link>
       <description><![CDATA[  由    /u/MeanEquipment577  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fnxuxv/so_was_it_that_customgpts_were_nothing_like_apps/</guid>

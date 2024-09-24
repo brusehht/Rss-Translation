@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Sep 2024 01:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 03:20:16 GMT</lastBuildDate>
+    <item>
+      <title>YogaDNS 替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</link>
+      <description><![CDATA[有没有 YogaDNS 的开源替代品，它恰好是免费的并且高度可定制？ 谢谢！    提交人    /u/imedmactavish   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:08:38 GMT</pubDate>
+    </item>
     <item>
       <title>PDF Writer /w 嵌入功能</title>
       <link>https://www.reddit.com/r/opensource/comments/1fo0952/pdf_writer_w_embed_feature/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>想法：TBO（待开放）许可方案......</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</link>
-      <description><![CDATA[我已经重复这个想法很长时间了，但从未真正与任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
+      <description><![CDATA[我已经重复这个想法一段时间了，但从来没有真正和任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</guid>
       <pubDate>Mon, 23 Sep 2024 19:11:32 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 23 Sep 2024 15:50:04 GMT</pubDate>
     </item>
     <item>
-      <title>ElevenLabs 配音人工智能替代品</title>
+      <title>ElevenLabs 配音人工智能替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnnc0u/elevenlabs_dubbing_ai_alternative/</link>
       <description><![CDATA[我需要一个可以自行托管的免费工具，它可以获取音频，识别语音和强调，然后将其转换为另一种语言并保留强调和克隆的声音（或者如果最后一件事不可能，至少我需要导入自定义语音模型的可能性）。 ElevenLabs 可以做到这一点，但是它很昂贵，我需要免费的东西。谢谢。    提交人    /u/TraditionalItalian27   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnnc0u/elevenlabs_dubbing_ai_alternative/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我来介绍一下我的新库threadpipepy，这是一个使用官方Meta的Threads API的Threads API的开源Python库，它使入门变得非常容易，并且如果您的帖子长度超过最大字符长度，该库会自动创建链式帖子或类似线程的帖子，并且如果媒体文件超过限制，它还可以将其拆分为链式帖子，您可以上传Threads API不允许的本地文件，还可以轻松实现授权窗口，添加文件标题和限制帖子等。 它还附带一个CLI工具，可用于在访问令牌过期之前通过CLI获取和刷新访问令牌 Pypi上库的链接是 https://pypi.org/project/threadspipepy/ 如果您想贡献GitHub 存储库是 https://github.com/paulosabayomi/ThreadsPipe-py 该库对于想要构建自动帖子调度程序应用程序和（好的）线程机器人以及许多其他东西的人很有用    提交人    /u/paulos_ab   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnkf7y/threadspipepy_an_open_source_python_library_for/</guid>
       <pubDate>Mon, 23 Sep 2024 13:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 AI 工具的视频编辑器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnjxqi/video_editor_with_ai_tools/</link>
-      <description><![CDATA[您好，有人知道有开源视频编辑器吗？它带有 CapCut 等程序中的 AI 工具，并且使用本地机器运行？    提交人    /u/zfode   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnjxqi/video_editor_with_ai_tools/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:04:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
