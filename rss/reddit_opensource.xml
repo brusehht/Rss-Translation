@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Sep 2024 03:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 06:20:33 GMT</lastBuildDate>
+    <item>
+      <title>除了 Internxt 之外还有其他完全开源（＆E2E）云存储提供商吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fov3au/fully_open_source_e2e_cloud_storage_provider/</link>
+      <description><![CDATA[看来 Internxt 是唯一一家完全开源 (+E2E) 云存储提供商。除此之外，还有其他完全开源的服务吗？ Filen - 应用程序是开源的，但不是 Internxt 声称的整个服务本身。如果是这样，他们会在他们的网站上突出显示。    由   提交  /u/haritvsmurali   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fov3au/fully_open_source_e2e_cloud_storage_provider/</guid>
+      <pubDate>Wed, 25 Sep 2024 03:22:21 GMT</pubDate>
+    </item>
     <item>
       <title>终于成功更新了基于UWB的MaUWB软件，现在不仅可以使用AT命令控制UWB模块在500米范围内建立多锚多标签定位系统，还可以进行标签和锚之间的数据通信，所以我想和大家分享一下我的团队是如何做到的</title>
       <link>https://www.reddit.com/r/opensource/comments/1fou4x3/finally_managed_to_update_the_software_for/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿伙计们，希望你们一切顺利！ 几天前，我在这里分享了我一直在构建的一款产品，自托管但也要付费。 这带来了各种各样的评论，我非常感谢他们。 其中一条评论让我印象深刻：  买不起昂贵工具的人 - 买不起或不自行部署和管理 买得起昂贵工具的人可能不想使用功能较少的工具  @maddhruv 这条评论实际上改变了我对自托管软件的看法，甚至引起了我的共鸣。我不会为自托管某些东西付费。 我正在构建一些我不会付费的东西。这对我打击很大。 在与自己讨论正确的解决方法之后，为了实现提供价值和分享知识的愿望，我决定完全开源我的软件。 所以，我在这里，与你们分享我的故事，一个 Redditor 如何改变了我，以及我如何迭代我的软件以完全删除任何与付款相关的内容并免费提供给你一切。 事不宜迟，让我来介绍一下：FastIndex 通过利用 Indexing API 和队列管理，此工具可让你在 Google Search Console 上更快地为你的站点编制索引。 你可能会问“为什么我不直接使用他们的网络界面？”这绝对是一个很好的问题，但事实是 GSC 可能需要数周/数月才能完全抓取和索引您的网站，甚至可能无法正确完成。 使用搜索 API，您可以直接推送您的页面并要求 GSC 对其进行索引。 FastIndex 将监控您的网站、站点地图和页面以不断执行此操作。 市面上有许多付费替代方案，这些替代方案可能非常昂贵，并且会在很多方面限制您的速度：管理的网站、索引的每日页面、团队等。 FastIndex 完全没有限制。您可以根据需要插入任意数量的 Google 服务帐户，无限制地管理您的网站和页面，加入您的团队并轻松运行您的索引工具。 我想遵循 Coolify.io 的步骤，并最终为那些不想管理服务器、更新和备份的人引入云版本。 感谢 Reddit 和 r/selfhosted 提供的空间，我很乐意收到您的反馈。 演示视频：https://cap.so/s/jk1jyh1de6ktvqs Github 存储库：https://github.com/maurocasas/fastindex    由   提交  /u/Multabot_AR   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnzrxw/fastindex_opensource_free_search_engine_indexing/</guid>
       <pubDate>Tue, 24 Sep 2024 00:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为需要使用个人 API 密钥的项目做贡献：寻求建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnvaiy/contributing_to_a_project_requiring_personal_api/</link>
-      <description><![CDATA[大家好！ 我有兴趣为一个我热衷并且已经使用了一段时间的开源项目做出我的第一份贡献。 该项目需要设置个人 API 密钥（比如 10 个），才能运行测试。 我想知道这是否意味着我每次运行测试时都必须花自己的钱，以及是否有办法避免在这些项目上工作时花自己的钱？我目前是个穷学生，所以我可能无法负担得起，这取决于这些费用通常有多高。 任何建议或最佳实践都将不胜感激！谢谢！    提交人    /u/-metacontrarian-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnvaiy/contributing_to_a_project_requiring_personal_api/</guid>
-      <pubDate>Mon, 23 Sep 2024 21:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
