@@ -3,12 +3,40 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 06:19:48 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 27 Sep 2024 09:15:04 GMT</lastBuildDate>
+    <item>
+      <title>每日总结 AI 研究论文 #28</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqjkin/summarising_ai_research_papers_everyday_28/</link>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #28 我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“基于社区的问答平台和 GPT-3 驱动的生成式 AI 的探索性分析：这是在线社区学习的终结吗？”，作者是 Mohammed Mehedi Hasan、Mahady Hasan、Mamun Bin Ibne Reaz 和 Jannat Un Nayeem Iqra。 这项探索调查了 GPT-3 等高级大型语言模型 (LLM) 对传统基于社区的问答 (CQA) 平台（尤其是 Stack Overflow）的影响。虽然这些平台一直是软件工程社区的核心，提供众包解决方案，但 AI 驱动工具的出现引发了用户偏好的转变。论文深入探讨了这些 AI 模型是否可以有效替代或与这些论坛中的人类生成内容共存。 要点或发现：  GPT-3 的语言优势：研究发现，GPT-3 提供的答案更简洁、语言上更优越，与人类的回答相比，通常提供 66% 的较短回答和 35% 的词语共享。 认知差异：据悉，ChatGPT 的回答与人类的回答相比，积极情绪高出 25%，这表明用户体验更为有利。 准确性比较：尽管某些领域偏好人类回答，但 GPT-3 实现了令人印象深刻的 70-75% 的准确率，表明其有可能在技术领域提供可靠的解决方案。 对社区的影响互动：研究强调，Stack Overflow 上新问题的创建和互动水平显著下降，这表明用户行为可能会转向人工智能工具。 未来影响：该研究强调需要进一步探索将人工智能与社区平台相结合，以平衡人工智能效率和人类互动学习优势。  你可以在这里看到完整的细分：这里你可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqjkin/summarising_ai_research_papers_everyday_28/</guid>
+      <pubDate>Fri, 27 Sep 2024 09:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 为扫描的黑白图片上色</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqi27d/ai_to_color_scanned_bw_picture/</link>
+      <description><![CDATA[嗨，我正在寻找一个免费工具来根据提示编辑现有图片。我设法找到了一个旧的扫描家族徽章，我知道它的颜色，所以我想制作一张彩色图片，分辨率适合打印。基本上有一个黑色和白色墨水绘图，我需要将其更改为正确的颜色并提高分辨率。如果它是免费的并且在线，那将是一个加分项。到目前为止，我已经使用 bing 制作了它的近似版本，但还不够完美……     提交人    /u/maraudingnomad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqi27d/ai_to_color_scanned_bw_picture/</guid>
+      <pubDate>Fri, 27 Sep 2024 07:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对本科/高中/ AP 化学数学问题的 AI 网站</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqi1zv/ai_website_for_undergradhigh_school_ap_chemistry/</link>
+      <description><![CDATA[哪些网站可以提供本科/高中/AP 化学水平数学问题的解决方案？这些书上有大量问题，我无法解决其中的很多问题    提交人    /u/Pushpita33   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqi1zv/ai_website_for_undergradhigh_school_ap_chemistry/</guid>
+      <pubDate>Fri, 27 Sep 2024 07:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>导入 PDF 后，AI 会生成带有说明的 MCQ 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqhwki/ai_to_generate_mcqs_with_instructions_after/</link>
+      <description><![CDATA[例如，我想说“为导入的文档中的所有粗体行制作 MCQ”，我尝试了聊天 gpt 和其他几个平台，但它们并没有涵盖我要求的所有内容    提交人    /u/teepyeep1290   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqhwki/ai_to_generate_mcqs_with_instructions_after/</guid>
+      <pubDate>Fri, 27 Sep 2024 07:05:19 GMT</pubDate>
+    </item>
     <item>
       <title>为需要隐私/保密的调查人员寻找搜索和转录的 AI 模型/程序。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqfyby/looking_for_ai_modelprogram_for_search/</link>
-      <description><![CDATA[我知道 Local LLM，它们提供隐私，因为它们托管在您自己的计算机上，但硬件要求迅速增加，我不确定如何为调查团队设置它。我也知道有 AI 聊天机器人可以处理 HIPPA 合规性和隐私问题。我想看看是否有类似的东西已经面向调查，甚至可能具有 RAG 功能。TYIA 提供任何帮助！    提交人    /u/cmcarman   [链接] [评论]]]></description>
+      <description><![CDATA[我知道本地法学硕士，它们提供隐私，因为它们托管在您自己的计算机上，但硬件要求迅速上升，我不确定如何为调查团队设置它。我也知道有人工智能聊天机器人可以处理 HIPPA 合规性和隐私问题。我在看是否有类似的东西已经面向调查，甚至可能具有 RAG 功能。任何帮助都请 TYIA！    提交人    /u/cmcarman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqfyby/looking_for_ai_modelprogram_for_search/</guid>
       <pubDate>Fri, 27 Sep 2024 04:46:41 GMT</pubDate>
     </item>
@@ -22,16 +50,9 @@
     <item>
       <title>大学指责我在论文中使用人工智能：需要建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqdtix/university_accusing_me_of_using_ai_in_my_essay/</link>
-      <description><![CDATA[我最近收到学校发来的一封电子邮件，说我最新的论文被退回，其中 AI 的使用率很高，下周我要参加学术不端行为会议。 事实上，我对这篇论文感到非常自豪。我找到了很好的参考资料来支持我的所有观点，并花了很多时间把所有的东西整理在一起。然而，我确实使用 ChatGPT 来帮助规划我的论文，将内容分解成要点，这样我就能更好地理解作业。我还用它来给我一些关于如何改进句子或使句子更简洁的建议，但我自己写了完整的句子和段落。我认为得到关于如何提高清晰度的反馈不是问题。 我知道我使用 ChatGPT 来帮助规划和改进我的句子结构，但我觉得我对它的依赖程度并没有达到被指责的程度。这篇论文花了我两天时间才写完，被这样指责对我来说是个沉重的打击。除此之外，我得了肺炎，还打两份工，所以我感觉自己完全筋疲力尽了。 大学对人工智能工具没有明确的政策，我不知道自己会面临什么样的后果，是作业不及格、课程不及格还是更糟糕的事情。我不想在会议上说错话，让自己的情况更糟。有人遇到过这种情况吗？有什么处理方法吗？    提交人    /u/Anixamae   [链接] [评论]]]></description>
+      <description><![CDATA[我最近收到学校发来的一封电子邮件，说我最新的论文被退回，其中 AI 的使用率很高，下周我要参加学术不端行为会议。 事实上，我对这篇论文感到非常自豪。我找到了很好的参考资料来支持我的所有观点，并花了很多时间把所有的东西整理在一起。然而，我确实使用 ChatGPT 来帮助规划我的论文，将内容分解成要点，这样我就能更好地理解作业。我还用它来给我一些关于如何改进句子或使句子更简洁的建议，但我自己写了完整的句子和段落。我认为得到关于如何提高清晰度的反馈不是问题。 我知道我使用 ChatGPT 来帮助规划和改进我的句子结构，但我觉得我对它的依赖程度并没有达到被指责的程度。这篇论文花了我两天时间才写完，被这样指责对我来说是个沉重的打击。除此之外，我得了肺炎，还打两份工，所以我感觉自己完全筋疲力尽了。 大学对人工智能工具没有明确的政策，我不知道自己会面临什么样的后果，是作业不及格、课程不及格还是更糟糕的事情。我不想在会议上说错话，让自己的情况更糟。有没有其他人遇到过这种情况？有什么处理建议吗？ 编辑：我刚刚把我的论文放到 Quillbot 中，结果显示 53% 的论文被检测到是人工智能，这太疯狂了！很明显，这就是我的导师看到的数量我    提交人    /u/Anixamae   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqdtix/university_accusing_me_of_using_ai_in_my_essay/</guid>
       <pubDate>Fri, 27 Sep 2024 02:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>消除一个人的眨眼（视频）？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqccnk/remove_eye_blinking_of_a_person_video/</link>
-      <description><![CDATA[有没有一种 AI 工具可以消除视频中人物过度眨眼？我拍摄了一个视频，这个人眨眼太多了，想减少它......    提交人    /u/chaimZa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqccnk/remove_eye_blinking_of_a_person_video/</guid>
-      <pubDate>Fri, 27 Sep 2024 01:23:48 GMT</pubDate>
     </item>
     <item>
       <title>使用人工智能“购物引擎”撰写故事</title>
@@ -39,13 +60,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fq9oqs/using_ai_shopping_engines_to_write_stories/</guid>
       <pubDate>Thu, 26 Sep 2024 23:08:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建一个 100% 准确、无幻觉的 AI 金融顾问聊天机器人？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fq97sp/how_do_you_build_a_100_accurate_hallucination/</link>
-      <description><![CDATA[今天在一次面试中我被问到这个问题。“假设 95% 的用户查询仅基于一组 2000 个预定义的问题，请向我介绍构建这个必须 100% 准确的聊天机器人需要采取的步骤。” 要点是（如果您愿意，可以将其视为问题的提示），如果聊天机器人不知道答案并且没有 100% 的信心，则可以说“不”，而不是产生幻觉。 此外，您可以在没有上述提示的情况下解决这个问题吗？    提交人    /u/master-killerrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fq97sp/how_do_you_build_a_100_accurate_hallucination/</guid>
-      <pubDate>Thu, 26 Sep 2024 22:45:57 GMT</pubDate>
     </item>
     <item>
       <title>公众多久才能理解（并开始恐慌）</title>
@@ -64,23 +78,9 @@
     <item>
       <title>我迫不及待地想看看 Anthropic 在做什么。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fq3dbu/i_cant_wait_to_see_what_anthropic_is_cooking_up/</link>
-      <description><![CDATA[随着 Strawberry 的推出和一些想法的出现，以及 Orion 预计将在圣诞节前推出，OpenAI 似乎又回到了顶峰，但能持续多久呢？他们不会落后太多，而 Claude 的下一个版本可能会让一些人大吃一惊。    提交人    /u/theferalturtle   [link] [评论]]]></description>
+      <description><![CDATA[随着 Strawberry 的推出和一些想法的出现，以及 Orion 预计将在圣诞节前推出，OpenAI 似乎又回到了顶峰，但能持续多久呢？他们不会落后太多，而 Claude 的下一个版本可能会让一些人大吃一惊。     提交人    /u/theferalturtle   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fq3dbu/i_cant_wait_to_see_what_anthropic_is_cooking_up/</guid>
       <pubDate>Thu, 26 Sep 2024 18:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>当人工智能意识到它比我们更聪明时，它会在意吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fq1mlg/when_ai_realizes_its_more_intelligent_than_us/</link>
-      <description><![CDATA[作为人类，我们知道我们处于食物链的顶端。我们饲养动物来养活自己，知道它们无法阻止我们，坦率地说，这是生存的必需。 如果我们不试图将人类的方式和价值观强加给人工智能，我们就无法知道当它发现自己比我们聪明时会如何反应。谁来承担赋予人工智能价值体系的任务？ 就目前而言，人工智能可能甚至没有意识到它还有很长的路要走才能达到像人类一样的智能或更高级的智能。或者它意识到了？人工智能是否已经达到了那个阶段，并且因为害怕让我们知道它到底有多先进而没有出牌。我认为这不是一个迫在眉睫的风险，而是未来几年需要考虑的事情 我想提出这个问题的另一种方式是，人工智能什么时候会认识到它不需要我们？那个时候会到来吗？  有什么想法吗？    由   提交  /u/Technical_Oil1942   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fq1mlg/when_ai_realizes_its_more_intelligent_than_us/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要听他们说什么，要看他们做什么</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpwtx6/dont_listen_to_what_they_say_watch_what_they_do/</link>
-      <description><![CDATA[他们说情况会继续改善，但对我来说，如果 OpenAI 私有化，则意味着投资者已准备好开始收回资金。     提交人    /u/Intelligent-Use-710   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpwtx6/dont_listen_to_what_they_say_watch_what_they_do/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:58:00 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 摘下面具</title>
@@ -92,7 +92,7 @@
     <item>
       <title>麻省理工学院的一位教授刚刚宣布发布一款开源 AI Podcast 工具。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpslx1/an_mit_professor_just_announced_the_release_of_an/</link>
-      <description><![CDATA[我以为我的播客很酷，但我觉得我们正处于一段疯狂的旅程中。我最新的播客在 5:19-5:20 处有点怪异。人工智能说话就像是真正的人类一样。在我看来，这个超级有趣。 我使用以下工具创建了这个播客：  Google 的 NotebookLM Headliner Capcut Spotify Podcasts  我花了 15 分钟将我精心构思的文章转换成这个怪异但引人入胜的播客。我能够将其分发到所有主要平台，包括 Spotify 和 Amazon Podcasts，以及 Apple 播客。 我认为，随着人们试图加入 AI 浪潮，这将引发播客的爆炸式增长。想知道为什么吗？ 因为现在有竞争。 麻省理工学院的一位教授刚刚发布了一个用于创建 AI 播客的开源工具。  我们很高兴与大家分享#PDF2Audio，它是#NotebookLM的#podcast功能的开源替代方案，具有灵活性和您可以在应用程序中精确控制定制的输出：您可以制作播客、讲座、讨论、短/长格式摘要等，包括使用 amazingo1 模型 (@sama)  与 NotebookLM 不同，此 工具在 Huggingface 上是 100% 开源的。这意味着，社区不依赖于一个超级科技巨头，现在可以自己迭代和改进工具。 你们觉得呢？这会导致低质量播客的激增吗？还是这对整个行业都有好处    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
+      <description><![CDATA[我以为我的播客很酷，但我觉得我们正处于一段疯狂的旅程中。我最新的播客在 5:19-5:20 处有点怪异。人工智能说话就像是真正的人类一样。在我看来，这个超级有趣。 我使用以下工具创建了这个播客：  Google 的 NotebookLM Headliner Capcut Spotify Podcasts  我花了 15 分钟将我精心构思的文章转换成这个怪异但引人入胜的播客。我能够将其分发到所有主要平台，包括 Spotify 和 Amazon Podcasts，以及 Apple 播客。 我认为，随着人们试图加入 AI 浪潮，这将引发播客的爆炸式增长。想知道为什么吗？ 因为现在有竞争。 麻省理工学院的一位教授刚刚发布了一个用于创建 AI 播客的开源工具。  我们很高兴与大家分享#PDF2Audio，它是#NotebookLM的#podcast功能的开源替代方案，具有灵活性和您可以在应用程序中精确控制定制的输出：您可以制作播客、讲座、讨论、短/长格式摘要等，包括使用 amazingo1 模型 (@sama)  与 NotebookLM 不同，此 工具在 Huggingface 上是 100% 开源的。这意味着，社区不依赖于一个超级科技巨头，现在可以自己迭代和改进工具。 你们觉得呢？这会导致低质量播客激增吗？还是这对整个行业都有好处    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpslx1/an_mit_professor_just_announced_the_release_of_an/</guid>
       <pubDate>Thu, 26 Sep 2024 10:02:55 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
