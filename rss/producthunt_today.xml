@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Sep 2024 09:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 12:24:56 GMT</lastBuildDate>
     <item>
       <title>编辑代码</title>
       <link>https://www.producthunt.com/posts/edcode</link>
@@ -118,6 +118,20 @@
       <pubDate>Fri, 27 Sep 2024 21:52:06 GMT</pubDate>
     </item>
     <item>
+      <title>精简版：应用启动器</title>
+      <link>https://www.producthunt.com/posts/lite-app-launcher</link>
+      <description><![CDATA[
+适用于 iPhone 的极简应用启动器。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/lite-app-launcher</guid>
+      <pubDate>Fri, 27 Sep 2024 19:16:50 GMT</pubDate>
+    </item>
+    <item>
       <title>优先任务</title>
       <link>https://www.producthunt.com/posts/prioritask</link>
       <description><![CDATA[
@@ -132,18 +146,18 @@
       <pubDate>Fri, 27 Sep 2024 12:04:51 GMT</pubDate>
     </item>
     <item>
-      <title>URL2顺风</title>
-      <link>https://www.producthunt.com/posts/url2tailwind</link>
+      <title>短语日志</title>
+      <link>https://www.producthunt.com/posts/phrase-log</link>
       <description><![CDATA[
-将任何 URL 转换为 Tailwind CSS HTML
+带音频和发音的多语言短语应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/url2tailwind</guid>
-      <pubDate>Fri, 27 Sep 2024 06:05:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/phrase-log</guid>
+      <pubDate>Fri, 27 Sep 2024 11:30:44 GMT</pubDate>
     </item>
     <item>
       <title>荧光笔</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/restoapp</guid>
       <pubDate>Sat, 21 Sep 2024 12:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>PodSnap.AI</title>
-      <link>https://www.producthunt.com/posts/podsnap-ai</link>
-      <description><![CDATA[
-获取播客节目上线时的摘要
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/podsnap-ai</guid>
-      <pubDate>Fri, 30 Aug 2024 10:25:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
