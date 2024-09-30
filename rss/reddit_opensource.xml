@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 30 Sep 2024 03:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 06:21:50 GMT</lastBuildDate>
+    <item>
+      <title>开源、自托管社交网络</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fso5d7/open_source_selfhost_social_network/</link>
+      <description><![CDATA[我一直在考虑为朋友和认识的人托管一个非算法的社交网络，以便他们真正看到他们发布的图片和文字。就像早期的 Facebook。没有品牌，没有专业创作者，只是看到我对发布内容感兴趣的人。 我知道有 nostr 和 diaspora（哈哈）之类的东西，但说实话我不喜欢 ux。有没有像 90 年代 FB 那样的 UI 社交网络的提示？    提交人    /u/Business_Smile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fso5d7/open_source_selfhost_social_network/</guid>
+      <pubDate>Mon, 30 Sep 2024 05:19:27 GMT</pubDate>
+    </item>
     <item>
       <title>什么应该开源/什么应该变得更加用户友好？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fsiizy/what_should_be_made_open_source_what_should_be/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我一直在分析人们在使用开源存储库时面临的挑战，我发现贡献者通常根据他们的需求和经验分为三类。我很想知道你最认同哪一类！ 1. 有具体问题但找不到解决方案 你遇到了一个特定的问题或错误，但你正在努力寻找解决方法。你真正需要的是存储库内一个高质量的问答系统，以便更快地获得有用的答案。 2. 想从开源项目中学习，但不知道从哪里开始 你有兴趣学习和贡献开源，但你不确定如何有效地开始。你可能会受益于一个指导学习系统来帮助你浏览项目。 3.想要贡献代码但需要明确的指导 您已准备好编写代码并做出贡献，但需要更好的指导来了解如何开始执行特定任务。基于特定问题指导您的学习系统将为您带来翻天覆地的变化。 ​    提交人    /u/More-Shop9383   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</guid>
       <pubDate>Sun, 29 Sep 2024 03:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源开发者应该学习设计</title>
-      <link>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</link>
-      <description><![CDATA[UI 和 UX 是许多 FOSS 项目最缺乏的部分，它阻碍了许多开源项目的发展。许多程序主要或仅由开源爱好者使用，而不是专业人士或业余爱好者使用。因此，买不起专有软件的人更愿意盗版它们，而不是使用 FOSS 替代品。确实没有多少开源项目具有良好的设计和经过深思熟虑的用户体验（也是用户真正需要的功能）。 Blender 花了十多年的时间才最终决定并重写了 UI，此后近十年后，它在改进其 UI（~2013，2.49 vs 2.5）后开始流行起来，使其更易于理解和使用，并在添加了大量请求或需要的功能（如实时渲染）后第二次流行起来（2019，2.8）。然而，GIMP 仍然无法使用，只有赞美它或说每天都使用它的人不是设计师，或者只是开源爱好者，因为糟糕的 UI 和糟糕的 UX。 我知道我会因为这篇文章而遭到很多仇恨，但我不在乎。我只是希望社区开始了解界面和用户体验的重要性。您可以学习 UI 设计、产品和 UX 设计，或吸引设计师为开源项目做出贡献。是的，开源开发人员已经有很多事情要做，但不妨开始学习，并通过不投入更多时间而改进东西，而是做一些不同的事情，以不同的方式思考，拥有知识而不是猜测。当然，这可能不会有太大变化，特别是在开始的时候，但对于整个社区来说，这将是朝着正确方向迈出的一小步。 UI 并不意味着美学或美感，而是可用性、清晰度、无阻碍性。 UX 并不意味着功能过多，只是一些使体验更简单、更容易的功能，甚至可能删除一些功能。另外，我并不是说 UIUX 是最重要的，它肯定不是。 开发人员不需要创建数百个设计概念，进行 UX 研究和访谈，创建复杂的设计系统，以及其他一切。开发人员已经设计了程序，考虑了功能，创建了程序工作流程，并通过思考、猜测和依靠直觉以他们认为最好的方式进行。了解基础知识、基础到中级设计可以消除早期的错误、猜测、额外的计划、重写，花费数小时思考如何做某事。对于大多数情况来说，这就足够了，不需要专门的 UIUX 设计师、深厚/高级知识或额外的工作量，只需用获得的知识做你已经做过的事情。这将使大多数项目能够实现大部分目标。而且达到 70% 已经是巨大的进步了。 这里有一个免费资源，你可以从这里开始：https://www.uxdatabase.io 关于 Blender 的 UI 的讨论，它使它变成了今天的样子：https://youtu.be/prD6BFYIWRY    提交人    /u/khronoblakov   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</guid>
-      <pubDate>Sun, 29 Sep 2024 01:06:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
