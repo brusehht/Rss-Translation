@@ -4,34 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 21:13:17 GMT</lastBuildDate>
     <item>
-      <title>人工智能周报</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxo6w/ai_weekly_brief/</link>
-      <description><![CDATA[大家好， 我在这里制作了一个视频，讨论了过去一周人工智能领域发生的事情。 我希望这对你们中的一些人有用。非常欢迎反馈！:)    提交人    /u/Personal-Trainer-541   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxo6w/ai_weekly_brief/</guid>
-      <pubDate>Mon, 30 Sep 2024 15:02:07 GMT</pubDate>
+      <title>老板希望我创建一个符合我们工程标准的聊天机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft5uxy/boss_wants_me_to_create_a_chatbot_for_our/</link>
+      <description><![CDATA[如何做到这一点？我们有一份 3500 页的 pdf 标准文档，其中基本上告诉我们应该如何设计一切，应遵循哪些程序等。我该如何创建一个聊天机器人，使它能够回答诸如“对于 x 项目，它的最大长度是多少”之类的问题。我知道这听起来很容易做到，但问题是很多这些标准页面实际上并没有“可复制”的文字，而是解释这些事情的图片。  仅举一个理论上的例子，假设这个“x”项目的最大长度为 10 英寸。第 20-30 页涵盖了这个项目。第 25 页有一张“x”的图片连接物品的每一端并显示“最大 10 英寸” 我可以使用哪些工具来创建它而无需编码？    提交人    /u/glocks9999   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft5uxy/boss_wants_me_to_create_a_chatbot_for_our/</guid>
+      <pubDate>Mon, 30 Sep 2024 20:34:38 GMT</pubDate>
     </item>
     <item>
-      <title>NotebookLM 也可以生成其他语言的播客</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxeut/notebooklm_can_generate_podcasts_in_other/</link>
-      <description><![CDATA[Google 表示其播客生成器仅支持英语，但实际上它可以用其他语言说话。 它的法语效果相当不错。我也用匈牙利语试过，效果稍差一些，说话带有口音，还有一些乱码部分。奇怪的是，似乎有 3-4 个不同的声音在说话，其中没有一个是原来的两个主持人。 我无法在此处发布媒体，因此您可以在我的其他帖子中找到示例： https://www.reddit.com/r/notebooklm/comments/1fsx8ot/i_got_notebooklm_to_generate_podcasts_in_other/    提交人    /u/balazsp1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsxeut/notebooklm_can_generate_podcasts_in_other/</guid>
-      <pubDate>Mon, 30 Sep 2024 14:51:14 GMT</pubDate>
+      <title>需要建议：在高端 PC 上处理文本、PDF 和 JSON 文件的最佳 LLM 设置</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft4qpd/advice_needed_best_llm_setup_for_text_pdf_and/</link>
+      <description><![CDATA[大家好， 我正在寻求有关我的电脑的最佳 LLM 设置的建议。我计划主要使用 LLM 上传和处理文本、PDF 和 JSON 文件，然后查询这些文档以获取答案、摘要等。 以下是我的电脑的规格：  RAM：Corsair 48GB (2x24) Vengeance 6000MHz GPU：NVIDIA RTX 4090 CPU：Intel i9-14900KF 存储：2 TB SSD  鉴于这些规格，哪个 LLM 最合适？我正在寻找能够有效处理大量数据并提供快速准确响应的模型。我还很感激有关模型参数和任何特定配置或优化的建议，这些建议可以帮助我有效利用硬件。 此外，我想知道这种硬件设置是否适合长期用于 LLM，或者在可预见的未来我应该考虑进行任何升级以保持最佳性能。 提前感谢您的帮助！    提交人    /u/nuxxorcoin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft4qpd/advice_needed_best_llm_setup_for_text_pdf_and/</guid>
+      <pubDate>Mon, 30 Sep 2024 19:48:53 GMT</pubDate>
     </item>
     <item>
-      <title>如何根据现有照片制作新的AI照片？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsv327/how_to_make_new_ai_photo_based_on_existing_photo/</link>
-      <description><![CDATA[大家好，我想用人工智能制作一张照片，请告诉我可以使用哪种人工智能工具。我的想法是使用现成的 GTA 6 照片，照片上有一男一女，但将他们的脸和身体改为我和我的女朋友，并更改背景的某些部分，但要让它看起来像原始照片，而不是明显经过编辑（例如，在 Photoshop 中替换脸部，这样看起来不太好）。我尝试了不同的人工智能工具，但几乎所有工具都只是文本转图像，而在这里我需要文本和图像转图像之类的东西，你能推荐一些免费的人工智能吗？谢谢！    提交人    /u/Major-Artichoke9739   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsv327/how_to_make_new_ai_photo_based_on_existing_photo/</guid>
-      <pubDate>Mon, 30 Sep 2024 13:06:20 GMT</pubDate>
+      <title>超逼真的人工智能声音的最佳网站是哪个？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft47oj/the_best_website_for_hyper_realistic_ai_voices/</link>
+      <description><![CDATA[我浏览了每个网站以找到一个合适的网站。它要么是一个非常好的声音，但网站每月收费 30 美元，要么免费，听起来很糟糕，而且我没有使用 eleven labs，我没有发现任何成功的     提交人    /u/Low-Camp4673   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft47oj/the_best_website_for_hyper_realistic_ai_voices/</guid>
+      <pubDate>Mon, 30 Sep 2024 19:26:51 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能对人类知识的反叛——当算法超越直觉时</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsutcu/ais_rebellion_against_human_knowledge_when/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsutcu/ais_rebellion_against_human_knowledge_when/</guid>
-      <pubDate>Mon, 30 Sep 2024 12:53:51 GMT</pubDate>
+      <title>人工智能简介-有趣的活动建议？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft3iim/intro_to_ai_fun_activity_suggestions/</link>
+      <description><![CDATA[作为公司务虚会的一部分，我被要求想出一项有趣的活动。我希望以某种方式将人工智能与活动联系起来，因为每个人都在问有关它的问题，但实际上很少有人参与并使用它。有没有关于有趣游戏或挑战小组的建议？我认为这可能是一种很好的方式来展示可能性并让我们思考如何最好地使用人工智能。     提交人    /u/MedicalMarinara-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft3iim/intro_to_ai_fun_activity_suggestions/</guid>
+      <pubDate>Mon, 30 Sep 2024 18:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>撰写论文</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft3h4p/writing_thesis/</link>
+      <description><![CDATA[我需要论文写作方面的帮助。我找不到任何来源或参考资料。有没有 AI 网站可以帮助我找到有用的东西。聊天 GPT 总是给我虚假来源。有没有类似于共识的东西？    提交人    /u/-marina   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft3h4p/writing_thesis/</guid>
+      <pubDate>Mon, 30 Sep 2024 18:57:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关律师事务所文档管理的企业级 RAG 系统的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft3ebr/seeking_advice_on_enterprisegrade_rag_system_for/</link>
+      <description><![CDATA[嘿， 我正在为一家律师事务所实施一个先进的文档管理系统，我正在寻找能够满足我们需求的企业级检索增强生成 (RAG) 系统的建议。以下是关键要求：  处理 1.7TB 的各种文档类型（Word、PDF、Excel、PowerPoint、图像、扫描件） 处理多语言和大型（150 页以上）文档 执行复杂搜索（按类型、内容、作者、当事方、日期等） 回答有关文档内容和历史记录的问题 允许特定于文件夹的搜索 按创建日期和文档长度搜索 提供文件路径并精确定位内容位置 引用相关文档部分 在 10-20 秒内提供结果  我知道 Dan​​swer 和 Azure AI Search 等解决方案，但我没有实际使用经验。 有人实施过满足类似要求的系统吗？您会推荐什么解决方案？如您对性能、可扩展性或集成挑战有任何见解，我们将不胜感激。 提前感谢您的帮助！    提交人    /u/xaxa_pa_pam_pi_dom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft3ebr/seeking_advice_on_enterprisegrade_rag_system_for/</guid>
+      <pubDate>Mon, 30 Sep 2024 18:54:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 RAG 中的幻觉检测方法进行基准测试</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft0110/benchmarking_hallucination_detection_methods_in/</link>
+      <description><![CDATA[我偶然发现了这篇对构建 RAG 系统并担心幻觉的人们很有帮助的 Towards Data Science 文章。 如果您像我一样，保持用户信任是首要任务，而不受控制的幻觉会破坏这一点。文章对 4 个 RAG 数据集 (RAGAS、G-eval、DeepEval、TLM 和 LLM 自我评估) 中的许多幻觉检测方法进行了基准测试。 如果您好奇这些工具在实践中自动捕获不正确的 RAG 响应的能力如何，请查看它。如果您尝试过其中任何一种方法，或者对有效的幻觉检测有其他建议，我们很乐意听到您的想法！   提交者    /u/cmauck10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft0110/benchmarking_hallucination_detection_methods_in/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:37:07 GMT</pubDate>
     </item>
     <item>
       <title>州长加文·纽瑟姆否决了硅谷反对的人工智能安全法案</title>
@@ -39,13 +60,6 @@
       <description><![CDATA[加州州长加文·纽瑟姆否决了一项旨在规范和改善人工智能系统安全性的法案，此举遭到了支持者的失望，他们担心人工智能不受控制的增长可能对社会构成重大风险。加州立法机构于 8 月通过的 SB-1047 旨在为人工智能系统的开发和部署建立一个框架，要求公司报告潜在的偏见和风险，并采取措施缓解这些偏见和风险。该法案还呼吁成立一个新的人工智能道德委员会来监督该行业并提供最佳实践指导。然而，该法案遭到了科技公司的反对，包括 ChatGPT、Meta 和谷歌，它们认为该法案过于繁琐且范围过广。     由    /u/salukihunt 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsu2iq/gov_gavin_newsom_vetoes_ai_safety_bill_opposed_by/</guid>
       <pubDate>Mon, 30 Sep 2024 12:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能将我在快速工程和自动化方面的技能转化为金钱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fstojz/how_can_i_monetize_my_skills_in_prompt/</link>
-      <description><![CDATA[自从我开始玩各种 LLM 和工作流自动化工具以来，已经过去了 2 年。我为自己建立了几个业余项目，并以自由顾问的身份为公司创建了自动化工作流。例如，我帮助他们自动化了会计、客户支持查询、B2B 销售潜在客户开发、质量保证测试等日常任务。我推出了一款独立产品，但现在我对创业不感兴趣。 自由职业和就业是将我的技能货币化的唯一方式吗，还是还有其他机会？    提交人    /u/ticaragua   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fstojz/how_can_i_monetize_my_skills_in_prompt/</guid>
-      <pubDate>Mon, 30 Sep 2024 11:55:29 GMT</pubDate>
     </item>
     <item>
       <title>令人震惊、不真实、惊人、可怕、疯狂——请停止这些说法！</title>
@@ -69,25 +83,11 @@
       <pubDate>Mon, 30 Sep 2024 08:16:19 GMT</pubDate>
     </item>
     <item>
-      <title>我有超过 1MM+ 个单词，我该如何利用它们生存下去？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsojt0/i_have_over_1mm_words_how_can_i_live_on_through/</link>
-      <description><![CDATA[我处于一个奇怪的位置，我想尝试创建一个我的人工智能版本，它不仅能像我的沟通风格一样交流，还能像我一样在交流中说些什么。 为了训练人工智能，我有大约一百万个自己的单词。它是第一人称叙述，就像一本小说，涵盖了我大部分的生活。然后是我过去二十年的所有短信、电子邮件和 Messenger 对话。还有我的 YouTube 观看记录和浏览器历史记录……这些应该涵盖了我拥有的大部分知识。 我认为使用盲测进行比较会是一个很好的目标。比如让一个真正的朋友给我和人工智能都发短信。如果人工智能在 90% 的时间里都能用我想说的内容做出回应，那就符合我的要求了。 我想这样做是因为我害怕我会失去理智。所以花时间尝试创造这个似乎是个好主意。因为如果它有效，我可以和人工智能交谈来判断我的思绪有多混乱。或者，如果它已经消失了，我的朋友将有办法与我的想法互动。 所以，我只是希望问一下，如果你处于我的位置，你会如何根据起始材料来创建人工智能。谢谢！    提交人    /u/SwimmingSympathy5815   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsojt0/i_have_over_1mm_words_how_can_i_live_on_through/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:47:19 GMT</pubDate>
-    </item>
-    <item>
       <title>萨姆·奥特曼、米拉·穆拉蒂等人是如何获得他们的地位的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsoakn/how_did_people_like_sam_altman_mira_murati_etc/</link>
       <description><![CDATA[我经常在新闻中看到这些人，他们经常被认为是 chatgpt/openAI 背后的天才和创造者。然而，我深入研究了他们的背景，发现他们都没有科学背景，也没有从事人工智能工作。我的意思是，他们没有相关的学术历史或人工智能发展，而这些东西实际上使他们有资格成为 chatgpt 的“创造者”。  我的问题是，他们究竟是如何在几乎没有相关经验的情况下担任如此重要的职位的。我一直都知道 Sam Altman 不从事技术方面的工作，但我很惊讶地看到 Mira Murati 也没有太多经验（据我所知）。我知道他们是高管，但我一直认为像 OpenAI 这样的公司会有技术人员担任高管职位（就像其他著名的科技初创公司和公司一样，至少在开始时是这样），看到风险投资高管因其他杰出科学家和工程师的工作而受到赞誉，我真的很困扰。     由    /u/LightRefrac 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsoakn/how_did_people_like_sam_altman_mira_murati_etc/</guid>
       <pubDate>Mon, 30 Sep 2024 05:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 29 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsnmdq/oneminute_daily_ai_news_9292024/</link>
-      <description><![CDATA[ 加州州长否决了一项重大的 AI 安全法案。[1] 加州大学伯克利分校的研究人员开发了 DocETL：一个用于 LLM 驱动的数据处理的开源低代码 AI 系统。[2] 英格兰的社会工作者开始使用 AI 系统来协助他们的工作。[3] “超级智能”AI 仅需几千天即可实现：OpenAI 首席执行官 Sam Altman。[4]  来源包括：https://bushaicave.com/2024/09/29/9-29-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsnmdq/oneminute_daily_ai_news_9292024/</guid>
-      <pubDate>Mon, 30 Sep 2024 04:44:42 GMT</pubDate>
     </item>
     <item>
       <title>分享我在播客中生成两个 AI 虚拟形象的工作流程</title>
