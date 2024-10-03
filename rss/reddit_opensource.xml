@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 03 Oct 2024 15:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 18:19:22 GMT</lastBuildDate>
+    <item>
+      <title>Al-dente - 极快的目录列表（比 find&fd 快 3 倍！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fvear5/aldente_an_extremely_fast_directory_listing/</link>
+      <description><![CDATA[        由    /u/R3zn1kk 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fvear5/aldente_an_extremely_fast_directory_listing/</guid>
+      <pubDate>Thu, 03 Oct 2024 18:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 B2B 公司提供开源支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fvdgzj/opensource_support_for_b2b_companies/</link>
+      <description><![CDATA[Zyg GitHub 动机  我想要一个专为以工程为中心的 B2B 公司设计的支持工具，这样我就可以为产品驱动的服务提供最好的支持。不是电子商务！  挫折  传统系统已经过时，并且更像为电子商务企业设计的。我想要一个更好的工具来管理 SaaS、科技公司的客户支持，这些公司的最终用户更注重技术和产品驱动。  我意识到最好的方法是将其构建为开源，现在是开源社区构建更多开放系统的时候了。 PS。寻找贡献者，热切寻求反馈。    提交人    /u/sanchitrk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fvdgzj/opensource_support_for_b2b_companies/</guid>
+      <pubDate>Thu, 03 Oct 2024 17:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于您的 Web 项目的 HTML、CSS、JavaScript 中的十大图像库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fva63l/top_10_image_galleries_in_html_css_javascript_for/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fva63l/top_10_image_galleries_in_html_css_javascript_for/</guid>
+      <pubDate>Thu, 03 Oct 2024 15:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>免费开源 Twitter 书签下载器 🐦💾</title>
       <link>https://www.reddit.com/r/opensource/comments/1fv8q0f/free_and_opensource_twitter_bookmark_downloader/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[MathMod-12.0 支持 Android 和 IOS 平台（MathMod 在 Google PlayStore 和 Apple AppStore），现可从 SourceForge 和 GitHub 下载。 MathMod-12.0 的变更日志： 1) 改进 GUI 以支持小屏幕格式： 2) 支持 Mandelbrot 和 Julia 分形函数 3) 新脚本：“Noids”、“k_Noids”、“Riemann_Minimal_Surface”、“MandelBulb”， &quot;MandelTemple&quot;、&quot;JuliaFractal&quot;、&quot;MandelbrotTorus&quot;、&quot;MandelbrotIsoSpheres&quot;、&quot;MandelbrotSphere&quot;、&quot;Mandelbrot&quot;、&quot;Spherical_Harmonics&quot;  玩得开心！    提交人    /u/parisolab   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fugqlu/mathmod120/</guid>
       <pubDate>Wed, 02 Oct 2024 13:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个音频库，适用于您的下一个音频项目。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fug18o/an_audio_library_for_your_next_audio_project/</link>
-      <description><![CDATA[      我制作了一个用于播放音频的小型 JS 库。支持各种格式，并支持 Mediasession 队列、均衡器等。    提交人    /u/ashish_feels   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fug18o/an_audio_library_for_your_next_audio_project/</guid>
-      <pubDate>Wed, 02 Oct 2024 13:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何 FOSS 音乐下载管道/API/库吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fucgm7/are_there_any_foss_music_download/</link>
-      <description><![CDATA[我正在考虑任何可用于我的项目的此类 API、库或管道。谢谢。     提交人    /u/SkywalkerPadawan512   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fucgm7/are_there_any_foss_music_download/</guid>
-      <pubDate>Wed, 02 Oct 2024 09:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入浏览器开发：我对 Ladybird 的首次贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fuc49p/diving_into_browser_development_my_first/</link>
-      <description><![CDATA[通过为 Ladybird 做贡献重新回到开源的经历 :) https://kostyafarber.com/blog/first-contribution-to-ladybird    提交人    /u/Patrick_Ripley   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fuc49p/diving_into_browser_development_my_first/</guid>
-      <pubDate>Wed, 02 Oct 2024 09:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
