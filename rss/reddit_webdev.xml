@@ -3,12 +3,26 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 09:16:27 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 07 Oct 2024 12:28:51 GMT</lastBuildDate>
+    <item>
+      <title>Lucia Auth 已被弃用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fy5tdc/lucia_auth_has_been_deprecated/</link>
+      <description><![CDATA[        提交人    /u/dinoucs   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fy5tdc/lucia_auth_has_been_deprecated/</guid>
+      <pubDate>Mon, 07 Oct 2024 11:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>应使用哪种网络托管服务来托管动态网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fy5g0d/which_web_hosting_service_to_use_for_hosting_a/</link>
+      <description><![CDATA[我是一名独立开发者，曾多次使用 Namecheap 托管我的网站（例如 https://allpost.live 和 https://cheatmeals.food）。到目前为止，它还算不错。但是，我不断听到关于 DigitalOcean、Vercel、Heroku 等其他选项的消息。您会推荐使用哪一个，为什么？    提交者    /u/Aisthe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fy5g0d/which_web_hosting_service_to_use_for_hosting_a/</guid>
+      <pubDate>Mon, 07 Oct 2024 11:35:36 GMT</pubDate>
+    </item>
     <item>
       <title>如何从美国收到项目付款？请提出一些解决方案。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fy3ea5/how_to_receive_the_payment_for_project_from_usa/</link>
-      <description><![CDATA[最近有一位客户联系我，希望我做一些前端工作，但他们似乎不太懂技术，无法进行在线支付等（从他们问我的问题中可以推断）。我目前失业了，需要钱，不能放弃这个工作。我在美国没有任何朋友/亲戚等，在大学里有几个熟人，现在也没有联系了。有没有什么服务或者其他什么我可以使用，或者有什么方法可以解决这个问题，或者您有什么建议。顺便说一下，我住在印度。 如果您能提出建议，我将不胜感激。 以下是确切的内容：- “您在美国有代表/朋友/亲戚或家人可以帮您代领支票吗？是或否？”   由    /u/outlierkk  提交  [链接] [评论]]]></description>
+      <description><![CDATA[最近有一位客户联系我，希望我做一些前端工作，但他们似乎不太懂技术，无法进行在线支付等（从他们问我的问题来看）。我目前失业了，需要钱，不能放弃这个工作。我在美国没有任何朋友/亲戚等，在大学里有几个熟人，现在也没有联系了。有没有什么服务或者什么东西我可以使用，或者有什么方法可以解决这个问题，或者你能提出什么建议。顺便说一下，我住在印度。 如果你能提出一些建议，我将不胜感激。 以下是确切的内容：- “您在美国有代表/朋友/亲戚或家人可以帮您代领支票吗？是或否？”   由    /u/outlierkk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fy3ea5/how_to_receive_the_payment_for_project_from_usa/</guid>
       <pubDate>Mon, 07 Oct 2024 09:14:18 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我计划制作一个与我朋友制作的 roblox 游戏相关的网站，我预测它会有很大的吸引力，因为这款游戏所有图块上都有 200 名玩家同时玩，discord 上有 4k 名成员。现在该网站将使用 roblox API，该 API 可能会被了解 SQL 注入的人滥用，但同时我不能花一百美元只买一个 roblox 游戏......我应该用什么？我必须考虑价格、安全性和使用情况...我应该使用无服务器服务、mongoDb 类似服务还是 VPS 来托管我的网站和数据库...... 我也有 3 个后端开发人员来帮助我，但我们不知道哪个最好......有什么建议吗？ 忘了明确指出它类似于丝绸之路，将有一个玩家通过它来运行经济。   由    /u/gameragainstisrael  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxtw1t/serverless_or_plain_old_backend/</guid>
       <pubDate>Sun, 06 Oct 2024 23:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些鲜为人知的语义 HTML 示例？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxt7qu/what_are_some_lesserknown_semantic_html_examples/</link>
-      <description><![CDATA[我们都知道（但愿如此）语义 HTML 的基础知识，例如使用适当的元素，如 &lt;footer&gt;、&lt;p&gt;、&lt;button&gt;。而不是 &lt;div class=&quot;button&quot;&gt;！ 但语义 HTML 显然远不止这些常见标签。 例如，我最近遇到了一个有趣的例子。我试图创建一个 &lt;blockquote&gt; 元素，并注明引用的原始作者/来源。我该怎么做？ 在 &lt;blockquote&gt; 内使用 &lt;cite&gt; 在语义上是不正确的，因为它会使引用成为引用的一部分。将 &lt;cite&gt; 和 &lt;blockquote&gt; 分组在 div 中也感觉不太对。此外，cite 元素应该引用作品，而不是人：https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite#usage_notes 因此，我发现真正语义化的方法是这样的：  &lt;figure&gt; ....&lt;blockquote /&gt; ....&lt;figcaption /&gt; &lt;/figure&gt;  &lt;blockquote&gt; 包含实际的引文，那么 &lt;figcaption&gt; 包含我们从中获得引文的东西。如果是一本书或类似的东西，我们还应该将其包装在 &lt;cite&gt; 中。  &lt;figcaption&gt; - 乔治·奥威尔，&lt;cite&gt;1984&lt;/cite&gt; &lt;/figcaption&gt;   我真的很喜欢这个，现在有一种冲动想让我的 HTML 更具语义性。我想养成一些好习惯，有人能和我们分享一些有趣的语义 HTML 场景的技巧吗？如果你知道任何好的信息来源，那也很好，如果你分享的话。    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxt7qu/what_are_some_lesserknown_semantic_html_examples/</guid>
-      <pubDate>Sun, 06 Oct 2024 22:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该雇佣员工或维持现有状况？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</link>
-      <description><![CDATA[做了几年网络开发人员后，我决定辞职创办自己的公司。我一直在构建和维护 Wordpress 网站，而且它似乎发展得相当快。我今年开始做这件事，现在赚的钱已经比我以前的工作多了。我想我最多可以同时维护 50 个网站。那每年能给我 10 万美元以上，我会很满意的。但是，我周围的人都说我应该雇佣员工来做维护，并接受更多的客户来赚更多的钱。有没有人能给我一些建议，让我从自己做所有事情变成雇佣一个团队？这值得吗？还是我应该达到我舒适的极限，然后满足于一份收入丰厚的轻松工作，而不必处理管理团队的麻烦？    提交人    /u/jelery_celery   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</guid>
-      <pubDate>Sun, 06 Oct 2024 22:51:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
