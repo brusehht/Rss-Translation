@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 08 Oct 2024 01:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 03:27:20 GMT</lastBuildDate>
+    <item>
+      <title>寻求帮助以开始使用 OSS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fypz2t/asking_for_some_help_to_get_started_with_oss/</link>
+      <description><![CDATA[大家好！ 我是一个 17 岁的孩子，我非常喜欢使用电脑。我一直对电脑很感兴趣，至少从 7 年级组装自己的电脑开始。在过去三年里，我对电脑的兴趣越来越浓厚。首先是 Python（当然），然后是 Rust（很赶潮流），学校学的是 Java，最后是 C。学习 C 让我对编码很感兴趣，我被它迷住了。我一直在用它做一些项目，但想把它提升到一个新的水平。 所有这些使用和接触开源软件的经历都激励着我去帮助别人，但我真的不知道该如何开始。我想和一个真人谈谈，但我的小镇上真的没有人有这样的经历。我知道无论我多么想，我可能无法从 Linux 内核之类的东西开始，所以我在这里寻求一些贡献方面的帮助。 我知道 FreeBSD 项目有某种指导情况，我想知道这里是否有人知道如何让这种事情发生。 我知道这有点牵强，但我真的非常有兴趣尽可能多地学习，观看有关该主题的 Youtube 视频已经过时了。如果您对如何找人帮助我有任何想法，请告诉我！ 非常感谢， J    提交人    /u/Active-Stock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fypz2t/asking_for_some_help_to_get_started_with_oss/</guid>
+      <pubDate>Tue, 08 Oct 2024 02:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据链接转型：深入了解 IntaLink</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fypgsn/transforming_data_linkage_an_indepth_look_at/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fypgsn/transforming_data_linkage_an_indepth_look_at/</guid>
+      <pubDate>Tue, 08 Oct 2024 02:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>我该如何简化 OSS 项目的设置？需要建议。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fyitak/how_can_i_simplify_the_setup_for_my_oss_project/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我在为我的家庭实验室测试寻找一个 RADIUS 负载均衡器。我到处寻找免费的 UDP 负载均衡器，但我发现它们都被付费墙包围着，我的 Google 功能可能让我失望了。  我正在联系社区，询问您是否知道任何信息？  感谢您的帮助。谢谢    提交人    /u/TheITMan19   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fxj5jw/radius_load_balancer/</guid>
       <pubDate>Sun, 06 Oct 2024 15:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CLI 中的世界时间</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fxj2n3/world_time_in_your_cli/</link>
-      <description><![CDATA[        提交人    /u/dubesar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fxj2n3/world_time_in_your_cli/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于网络抓取和自动化的 Apify 的开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</link>
-      <description><![CDATA[我一直在使用 Apify 进行网页抓取和自动化任务，但我对探索开源替代方案很感兴趣。我正在寻找提供与 Apify 类似功能的工具或框架，例如： 网页抓取功能 浏览器自动化 代理管理 可扩展的基础架构 数据存储和导出选项 理想情况下，我希望找到积极维护且拥有支持社区的解决方案。我熟悉各种编程语言，因此欢迎使用 Python、JavaScript 或其他语言提出建议。 这里有人使用过可以与 Apify 相媲美的开源工具吗？我很想听听你的经验，包括优缺点、易用性和可扩展性。 提前感谢你的建议！    提交人    /u/codevoygee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:22:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
