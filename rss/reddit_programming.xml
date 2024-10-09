@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 09 Oct 2024 15:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 18:18:10 GMT</lastBuildDate>
+    <item>
+      <title>Crystal 1.14.0 发布！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzy5tt/crystal_1140_is_released/</link>
+      <description><![CDATA[  由    /u/sdogruyol  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzy5tt/crystal_1140_is_released/</guid>
+      <pubDate>Wed, 09 Oct 2024 18:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Htmx 的温和批评</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzwrwm/a_modest_critique_of_htmx/</link>
+      <description><![CDATA[  由    /u/vicanurim  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzwrwm/a_modest_critique_of_htmx/</guid>
+      <pubDate>Wed, 09 Oct 2024 17:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pongo - 适用于 PostgreSQL 和 YugabyteDB 的 MongoDB API</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzwmdi/pongo_a_mongodb_api_for_postgresql_and_yugabytedb/</link>
+      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzwmdi/pongo_a_mongodb_api_for_postgresql_and_yugabytedb/</guid>
+      <pubDate>Wed, 09 Oct 2024 17:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，我正在做一个个人项目，其中包括“使用 Twitter 登录”按钮。我是一名全栈开发人员（自学）。有人能解释一下如何使用 OAuth 2.0 吗？我读了一些文章，但没有理解。而且我不想使用护照库。提前谢谢！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzwj1m/hi_im_working_on_a_personal_project_which/</link>
+      <description><![CDATA[  由    /u/Manhar_xx  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzwj1m/hi_im_working_on_a_personal_project_which/</guid>
+      <pubDate>Wed, 09 Oct 2024 17:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用自制引擎 Carimbo 为儿子制作的第一款游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzvm8r/my_first_game_with_carimbo_my_homemade_engine_for/</link>
+      <description><![CDATA[  由    /u/skhaz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzvm8r/my_first_game_with_carimbo_my_homemade_engine_for/</guid>
+      <pubDate>Wed, 09 Oct 2024 16:30:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较 Postgres 数据类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzucyk/compare_postgres_data_types/</link>
+      <description><![CDATA[  由    /u/aarondf  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzucyk/compare_postgres_data_types/</guid>
+      <pubDate>Wed, 09 Oct 2024 15:38:22 GMT</pubDate>
+    </item>
     <item>
       <title>如何更好地构建你的下一个 Node.js 项目？模块化整体方法。</title>
       <link>https://www.reddit.com/r/programming/comments/1fztbiq/how_to_better_structure_your_next_nodejs_project/</link>
@@ -55,13 +97,6 @@
       <pubDate>Wed, 09 Oct 2024 12:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>发表了我的第一篇关于改善用户体验的 URL 架构的文章 🎉</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzq19n/published_my_first_article_about_url_architecture/</link>
-      <description><![CDATA[👉 我花了很多时间研究这些例子，思考我想要呈现的类比，创建一个展示架构的应用程序，最后把它全部写出来。    提交人    /u/arpitdalal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzq19n/published_my_first_article_about_url_architecture/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:19:02 GMT</pubDate>
-    </item>
-    <item>
       <title>KDE 堆栈培训 - Qt、KDE ​​框架、Plasma、C++</title>
       <link>https://www.reddit.com/r/programming/comments/1fzpxte/kde_stack_training_qt_kde_frameworks_plasma_c/</link>
       <description><![CDATA[  由    /u/f_r_d  提交  [链接] [评论]]]></description>
@@ -69,46 +104,11 @@
       <pubDate>Wed, 09 Oct 2024 12:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>需要开源方面的建议</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzps6x/need_advice_for_open_source/</link>
-      <description><![CDATA[我是一名攻读计算机科学学位的大学新生。我想学习更多知识并在该领域积累经验。我最近了解了 GSoC，并有兴趣在明年夏天加入。我读到，要加入 GSoC，您需要对开源做出贡献。所以我一直在尝试做开源，所以我寻找我可以贡献的存储库并使用标签：good first issue，这样我就可以找到我可以解决的问题。但是，我没有找到任何我真正可以解决的问题。我主要使用 java，我想说我处于中级水平，但这些问题似乎是我从未听说过的。在这种情况下我该怎么办？ Tldr：想开始开源，但找不到可以贡献的问题。中级 Java 水平，寻求指导。 （我不知道要添加什么网址，如果没有网址，它不会让我发帖，所以我添加了 GSoC 网站。）    提交人    /u/sarthak_jain37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzps6x/need_advice_for_open_source/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:04:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>你要花多长时间来建立一个项目...或者你像我一样只是盯着屏幕 3 个小时？🤔</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzpk0n/how_long_does_it_take_for_you_to_set_up_a_project/</link>
-      <description><![CDATA[  由    /u/Equivalent_Hat_5987  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzpk0n/how_long_does_it_take_for_you_to_set_up_a_project/</guid>
-      <pubDate>Wed, 09 Oct 2024 11:52:27 GMT</pubDate>
-    </item>
-    <item>
       <title>互联网域名的消失——（.io）</title>
       <link>https://www.reddit.com/r/programming/comments/1fzosmi/the_disappearance_of_an_internet_domain_io/</link>
       <description><![CDATA[  由    /u/hennell  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fzosmi/the_disappearance_of_an_internet_domain_io/</guid>
       <pubDate>Wed, 09 Oct 2024 11:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code Line Daily 扩展程序再次上线</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzol47/code_line_daily_extension_is_live_again/</link>
-      <description><![CDATA[  由    /u/starbist  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzol47/code_line_daily_extension_is_live_again/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国法院裁定 Cognizant 歧视非印第安人罪成立，公司将提起上诉</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzof05/us_court_finds_cognizant_guilty_of_discrimination/</link>
-      <description><![CDATA[  由    /u/realkorvo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzof05/us_court_finds_cognizant_guilty_of_discrimination/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>MySQL 与 Postgres 性能基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzodgd/mysql_vs_postgres_performance_benchmark/</link>
-      <description><![CDATA[TL;DW：Postgres 在所有指标中均胜出。MySQL 需要大约 4.5 倍的存储空间来存储大致相同数量的数据。    提交人    /u/eckyp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzodgd/mysql_vs_postgres_performance_benchmark/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:39:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
