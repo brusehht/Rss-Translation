@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 04 Oct 2024 21:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:25:59 GMT</lastBuildDate>
+    <item>
+      <title>使用 Hugging Face + Dask 扩展基于 AI 的数据处理</title>
+      <link>https://huggingface.co/blog/dask-scaling</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/dask-scaling</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过动态推测实现更快的辅助生成</title>
+      <link>https://huggingface.co/blog/dynamic_speculation_lookahead</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/dynamic_speculation_lookahead</guid>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>改进 Hugging Face Hub 上的 Parquet 重复数据删除</title>
       <link>https://huggingface.co/blog/improve_parquet_dedupe</link>
@@ -27,7 +41,7 @@
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>🇨🇿 BenCzechMark - 您的法学硕士 (LLM) 能理解捷克语吗？</title>
+      <title>🇨🇿 BenCzechMark - 你的法学硕士能理解捷克语吗？</title>
       <link>https://huggingface.co/blog/benczechmark</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/benczechmark</guid>
@@ -83,7 +97,7 @@
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HuggingChat 社区工具介绍</title>
+      <title>HuggingChat 推出社区工具</title>
       <link>https://huggingface.co/blog/community-tools</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/community-tools</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/accelerate-v1</guid>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hugging Face 与 TruffleHog 合作扫描秘密</title>
-      <link>https://huggingface.co/blog/trufflesecurity-partnership</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/trufflesecurity-partnership</guid>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用视频编码扩展机器人数据集</title>
-      <link>https://huggingface.co/blog/video-encoding</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/video-encoding</guid>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
