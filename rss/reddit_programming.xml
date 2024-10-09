@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 09 Oct 2024 12:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:14:24 GMT</lastBuildDate>
+    <item>
+      <title>如何更好地构建你的下一个 Node.js 项目？模块化整体方法。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fztbiq/how_to_better_structure_your_next_nodejs_project/</link>
+      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fztbiq/how_to_better_structure_your_next_nodejs_project/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:54:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Docker Swarm 和 Caddy 上为小团队构建了一个可以在任何地方工作的小型部署工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzt9xq/i_built_a_tiny_deployment_tool_for_small_teams_on/</link>
+      <description><![CDATA[  由    /u/heyarey  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzt9xq/i_built_a_tiny_deployment_tool_for_small_teams_on/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>来源可用毫无意义</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzstfj/sourceavailable_is_meaningless/</link>
+      <description><![CDATA[  由    /u/Inevitable-Swan-714  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzstfj/sourceavailable_is_meaningless/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:32:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 正在扼杀你的开发潜力</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzsonx/chatgpt_is_killing_your_developer_potential/</link>
+      <description><![CDATA[  由    /u/PersianMG  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzsonx/chatgpt_is_killing_your_developer_potential/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>可靠模式迁移的 5 种策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzskr1/5_strategies_for_reliable_schema_migrations/</link>
+      <description><![CDATA[  由    /u/rotemtam  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzskr1/5_strategies_for_reliable_schema_migrations/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:21:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>有效的工程组织结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzsc09/engineering_org_structure_that_works/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzsc09/engineering_org_structure_that_works/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>北极熊与熊猫：有何不同？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzqf05/polars_vs_pandas_whats_the_difference/</link>
+      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzqf05/polars_vs_pandas_whats_the_difference/</guid>
+      <pubDate>Wed, 09 Oct 2024 12:39:35 GMT</pubDate>
+    </item>
     <item>
       <title>发表了我的第一篇关于改善用户体验的 URL 架构的文章 🎉</title>
       <link>https://www.reddit.com/r/programming/comments/1fzq19n/published_my_first_article_about_url_architecture/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[TL;DW：Postgres 在所有指标中均胜出。MySQL 需要大约 4.5 倍的存储空间来存储大致相同数量的数据。    提交人    /u/eckyp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fzodgd/mysql_vs_postgres_performance_benchmark/</guid>
       <pubDate>Wed, 09 Oct 2024 10:39:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>ISO 格式为何必须消亡</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzo7e8/why_the_iso_format_has_to_die/</link>
-      <description><![CDATA[  由    /u/ruclyatrevith  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzo7e8/why_the_iso_format_has_to_die/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部开发者平台 (IDP)：指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fznuf5/internal_developer_platform_idp_a_guide/</link>
-      <description><![CDATA[  由    /u/codingdecently  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fznuf5/internal_developer_platform_idp_a_guide/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要使重构变得过度复杂！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fznctv/dont_overcomplicate_refactoring/</link>
-      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fznctv/dont_overcomplicate_refactoring/</guid>
-      <pubDate>Wed, 09 Oct 2024 09:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>正则表达式越来越好：JavaScript 中正则表达式的历史和未来</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzn4np/regexes_got_good_the_history_and_future_of/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzn4np/regexes_got_good_the_history_and_future_of/</guid>
-      <pubDate>Wed, 09 Oct 2024 09:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>通往自动驾驶之路：软件开发中的人工智能如何反映自动驾驶水平</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzmztg/the_road_to_autonomy_how_ai_in_software/</link>
-      <description><![CDATA[  由    /u/purton_i  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzmztg/the_road_to_autonomy_how_ai_in_software/</guid>
-      <pubDate>Wed, 09 Oct 2024 08:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Julia 1.11 发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzlqp3/julia_111_released/</link>
-      <description><![CDATA[  由    /u/User38374  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzlqp3/julia_111_released/</guid>
-      <pubDate>Wed, 09 Oct 2024 07:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 中各种 IPC 策略的基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1fzlils/benchmarks_of_various_ipc_strategies_in_rust/</link>
-      <description><![CDATA[  由    /u/Brilliant_Nobody6788  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fzlils/benchmarks_of_various_ipc_strategies_in_rust/</guid>
-      <pubDate>Wed, 09 Oct 2024 06:59:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
