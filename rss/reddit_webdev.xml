@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 10 Oct 2024 01:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 03:20:14 GMT</lastBuildDate>
+    <item>
+      <title>我怎样才能向他们展示他们的流程是多么糟糕呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g09eez/how_can_i_start_showing_them_how_absolute_dogshit/</link>
+      <description><![CDATA[我必须对我实习的公司进行不同的审计。这家公司的代码质量很差，程序很差，甚至没有完成 SDLC。那家公司以我无法描述的方式欺骗​​了我。 我怎样才能开始向他们展示事情有多糟糕？它可以是任何事情，当然与软件开发有关，不仅限于代码质量。 审计本身将保持中立，但我想在他们离开之前向他们表明他们并不是他们自以为的神。    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g09eez/how_can_i_start_showing_them_how_absolute_dogshit/</guid>
+      <pubDate>Thu, 10 Oct 2024 03:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些帮助 - Sanity CMS 和 Gatsby</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g09b0t/need_some_assistance_sanity_cms_gatsby/</link>
+      <description><![CDATA[大家好，我有一个使用 Sanity CMS、Gatsby 框架并托管在 Netlify 上的网站。我最近更换了开发人员，因为原来的开发人员决定离开他的业务，所以我一直在寻找新的开发人员。我遇到了一家公司，他们审查了代码并强调 Sanity 工作室需要更新，Gatsby 框架也需要更新，因为它们已经过时了。为了进行这些更改，他们报价 9000 美元，这确实很高。 我对任何技术都不了解，因为我没有这方面的背景，所以任何人都可以告诉我任何事情，但是，我总是喜欢听取第二意见。对于那些有 Sanity 和 Gatsby 经验的人来说，这看起来正确吗，还是太多了？ 谢谢。    提交人    /u/DrMesmerino2007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g09b0t/need_some_assistance_sanity_cms_gatsby/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨多台服务器同步证书的最佳策略：Google Drive、Git repo、手动还是 REST 服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g08o5j/best_strategy_for_syncing_certificates_across/</link>
+      <description><![CDATA[我正在使用需要证书才能进行安全通信的 Web 服务。问题是我有多台服务器（大约 5 台）运行不同的操作系统（一些是 Windows，其他是 Linux），当证书发生变化时，我需要在所有服务器上更新证书。最近，我更新了一些服务器上的证书，但忘记了其他服务器的证书，这导致了失败。 我正在尝试找出在所有服务器上同步证书的最佳方法，而不会再次遇到此问题。以下是我正在考虑的选项：  Google Drive 或类似服务：将证书上传到共享位置（如 Google Drive），并让每台服务器定期下载。 具有自动拉取功能的 Git 存储库：将证书存储在 Git 存储库中，并设置服务器以定期拉取最新版本。 手动更新：保留所有服务器的列表，并在需要时在每个服务器上手动更新证书。 集中式 REST 服务：构建一个 REST 服务来处理与 Web 服务的通信并集中证书，因此我只需要在一个地方更新它。  在安全性、可扩展性和易于维护方面，最好的方法是什么？我很感激任何建议或见解！    提交人    /u/Away-Attitude7232   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g08o5j/best_strategy_for_syncing_certificates_across/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>直播中的 72 小时滑动窗口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g08172/72_hour_sliding_window_in_a_live_stream/</link>
+      <description><![CDATA[我很难弄清楚如何为直播流实现长滑动窗口。 我将为安全系统中的多个摄像头录制长达 72 小时的 IP 摄像头镜头。用户应该能够查看摄像头的实时供稿并跟踪到过去 72 小时内的任何时间以查看历史镜头。我一直使用 ffmpeg 将流推送到 nginx-rtmp 服务器，然后通过 HLS 将它们流式传输到客户端的 video.js 播放器。这适用于实时供稿，但如果我让它运行 72 小时，播放列表文件将变成数百 MB。 那么，我该如何实现呢？我觉得我忽略了一些明显的东西！    提交人    /u/AntiTester   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g08172/72_hour_sliding_window_in_a_live_stream/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布一个网站的典型流程和价格是怎样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g07eil/what_is_the_typical_procedure_and_price_of/</link>
+      <description><![CDATA[嗨，从帖子标题中你可以看出，我对这些显然还不熟悉。 我不是开发人员，目前计划创建和发布一个基本的网站，提供我们小公司的基本信息（关于、历史、联系方式），不包含任何高级功能。所以我通过 Squarespace 提供的服务创建了一个初步草稿，但在真正开始之前，我想知道接下来会发生什么。 购买域名和维护网站的实际费用是多少？Squarespace 确实规定我可以以大约 20 美元的价格购买域名，然后是维护网站的年度/月度计划。我想知道没有提到或更细微的费用，比如税费或其他费用。提前感谢您的回复。    提交人    /u/ProfGuard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g07eil/what_is_the_typical_procedure_and_price_of/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:13:59 GMT</pubDate>
+    </item>
     <item>
       <title>Web 组件的案例：更简单、无框架的 Web 未来</title>
       <link>https://www.reddit.com/r/webdev/comments/1g05z95/the_case_for_web_components_a_simpler/</link>
@@ -29,7 +64,7 @@
     <item>
       <title>有趣的互动谈论SEO</title>
       <link>https://www.reddit.com/r/webdev/comments/1g04rpe/funny_interaction_talking_about_seo/</link>
-      <description><![CDATA[所以在 90 年代，我父亲建了一段时间的网站；后来技术超越了他的能力，他转而做 SEO，这在当时相当简单。 这个周末他来拜访我，虽然他现在基本不参与 SEO 游戏了，但他仍然很关注并且很好奇，尽管他已经 70 多岁了。我们谈到了他的开发合作伙伴建立的一个网站，他问我是否可以构建一个类似的网站。我告诉他我可以，但会以与他的合作伙伴完全不同的方式构建它。他问我会做哪些不同的事情，但他不是超级技术专家，所以我不想涉及框架和库之类的东西……所以在试图提出一些他会觉得相关的东西时，我说“好吧，首先，他使用 schema.org 标记进行 SEO，这绝对没问题，而且效果很好。我个人偏向于将数据写为 json-ld...”  我妈妈在另一个房间听到了这句话，大喊“哦！我喜欢 Jason Aldean！”  让我笑了，我想你也可能会笑。     提交人    /u/jdbrew   [link] [comments]]]></description>
+      <description><![CDATA[所以在 90 年代，我父亲建了一段时间的网站；后来技术超越了他的能力，他转而做 SEO，这在当时相当简单。 这个周末他来拜访，虽然他现在基本不参与 SEO 游戏，但尽管已经 70 多岁了，他仍然关注并充满好奇。我们谈到了他的开发合作伙伴建立的一个网站，他问我是否可以构建一个类似的网站。我告诉他我可以，但会以与他的合作伙伴截然不同的方式构建它。他问我会做哪些不同的事情，但他不是超级技术专家，所以我不想涉及框架和库之类的东西……所以在试图提出一些他会觉得相关的东西时，我说“好吧，首先，他使用 schema.org 标记进行 SEO，这绝对没问题，而且效果很好。我个人偏向于将数据写为 json-ld...”  我妈妈在另一个房间听到了这句话，大喊“哦！我喜欢 Jason Aldean！”  让我笑了，我想你也可能会笑。     提交人    /u/jdbrew   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g04rpe/funny_interaction_talking_about_seo/</guid>
       <pubDate>Wed, 09 Oct 2024 23:03:15 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>寻求有关 `.well-known/jwks.json` 的更多信息</title>
       <link>https://www.reddit.com/r/webdev/comments/1g03nwy/seeking_better_info_on_wellknownjwksjson/</link>
-      <description><![CDATA[我找到了 RFC 7517，但它已经过时，并且没有涵盖许多算法和密钥类型。我主要需要支持 ES256/ECDSA，但那里涵盖的信息有点更具体的 RSA 密钥/算法。我可以做出一些有根据的猜测，但是......有点需要这是可验证的正确，你知道吗？ 上下文 我编写了一个兼容且经过测试但非常小的 JWK/JWT 库，因为我有一定​​的限制并且不想要一切。这是针对 Netlify Functions（最终是 AWS Lambda）上的节点 20+ 的，但也意味着尽可能兼容浏览器。我的捆绑包大小非常有限，环境变量的空间也非常有限……所以我的 14k（未最小化/压缩）库和 ES256 的较小密钥大小确实很重要。 我也想尽我所能尽可能遵循标准，而不是“重新发明轮子”……当然，制造一个更高效的轮子，但我宁愿在这里提供 .well-known/jwks.json 地址用于密钥发现，并在响应中提供正确的数据。 另外，是的，我的库经过了充分测试，并确认与 jwt.io 兼容。它基本上只是 crypto.subtle 的包装器。我不会在这里滚动自己的加密。 我只需要弄清楚如何为 RFC 中未给出的内容正确生成 .well-known/jwks.json。我在任何地方都找不到该信息。甚至尝试过 LLM，但是......他们不应该被信任，甚至无法专注于我实际提出的问题，更不用说用任何值得信任的东西来回答它了。    提交人    /u/shgysk8zer0   [link] [comments]]]></description>
+      <description><![CDATA[我找到了 RFC 7517，但它已经过时，并且没有涵盖许多算法和密钥类型。我主要需要支持 ES256/ECDSA，但那里涵盖的信息有点更具体的 RSA 密钥/算法。我可以做出一些有根据的猜测，但是......有点需要这是可验证的正确，你知道吗？ 上下文 我编写了一个兼容且经过测试但非常小的 JWK/JWT 库，因为我有一定​​的限制并且不想要一切。这是针对 Netlify Functions（最终是 AWS Lambda）上的节点 20+ 的，但也意味着尽可能兼容浏览器。我的捆绑包大小非常有限，环境变量的空间也非常有限……所以我的 14k（未最小化/压缩）库和 ES256 的较小密钥大小确实很重要。 我也想尽我所能尽可能遵循标准，而不是“重新发明轮子”……当然，制造一个更高效的轮子，但我宁愿在这里提供 .well-known/jwks.json 地址用于密钥发现，并在响应中提供正确的数据。 另外，是的，我的库经过了充分测试，并确认与 jwt.io 兼容。它基本上只是 crypto.subtle 的包装器。我不会在这里滚动自己的加密。 我只需要弄清楚如何为 RFC 中未给出的内容正确生成 .well-known/jwks.json。我在任何地方都找不到该信息。甚至尝试过 LLM，但是......他们不应该被信任，甚至几乎不能专注于我实际提出的问题，更不用说用任何值得信任的东西来回答它了。    提交人    /u/shgysk8zer0   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g03nwy/seeking_better_info_on_wellknownjwksjson/</guid>
       <pubDate>Wed, 09 Oct 2024 22:11:55 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交人    /u/maodidnothingwong   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g00dzg/got_russianspammed_through_nrscs_website/</guid>
       <pubDate>Wed, 09 Oct 2024 19:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>空的 img src</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g005c5/empty_img_src/</link>
-      <description><![CDATA[      我正在尝试创建一个网站来上传图片，但问题是在某些浏览器中会出现此图标，而在其他浏览器中会出现一个空白的图像占位符。如果 src 属性不存在，是否可以不显示任何内容？  https://preview.redd.it/iehqqeocastd1.png?width=479&amp;format=png&amp;auto=webp&amp;s=0af48d7ec461f54ac4a48bb7feb504233c482b6e    提交人    /u/Altugsalt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g005c5/empty_img_src/</guid>
-      <pubDate>Wed, 09 Oct 2024 19:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我曾写过关于 Git Cherry-Pick 的学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzzoj1/ive_written_about_my_learnings_about_git/</link>
-      <description><![CDATA[        提交人    /u/3141592rate   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzzoj1/ive_written_about_my_learnings_about_git/</guid>
-      <pubDate>Wed, 09 Oct 2024 19:20:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法点击的 Cookie 窗口</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzz0my/unclickable_cookie_window/</link>
-      <description><![CDATA[      你好 我最近反复遇到 BBC 文章格式的问题；每当出现带有 cookie 替代方案的窗口时，需要您选择偏好的部分完全不可见，因此无法选择任何设置： https://preview.redd.it/hnccz2jqyrtd1.jpg?width=1030&amp;format=pjpg&amp;auto=webp&amp;s=fab9514b4fac8ba9a695c71115f8bcdba44f1594 有谁知道是什么原因造成的，这是否是我的设备独有的问题，或者其他人是否遇到过这个问题，也是吗？    由    /u/PikachuSan 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzz0my/unclickable_cookie_window/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发无框架的2024</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzyb6x/developing_frameworkless_2024/</link>
-      <description><![CDATA[大家好， 假设一个已完成 50% 的中型项目管理 Web 应用程序，重点是通过 Web 套接字实现实时功能，那么放弃前端框架并继续使用原生 JavaScript 和 Bootstrap 进行开发有什么好处吗？在项目的这个阶段，投资前端框架是否值得？ 抱歉，如果这太模糊，我可以在评论中澄清。谢谢！    提交人    /u/LemonsFan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzyb6x/developing_frameworkless_2024/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:22:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>生产环境中后端需要的典型小规模流程/挂钩有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzxe3u/what_are_the_typical_smallscale_processeshooks_a/</link>
-      <description><![CDATA[我有一个使用身份验证、REST 端点和数据库集成与验证构建的基本后端。我知道真正的企业级软件还包含日志记录和监控，但中型博客上通常不讨论的较小钩子是什么？ 例如，我应该如何处理后端与客户端或数据库失去连接的情况？这是一个中间件类型函数的简单情况，还是交给更大的库？速率限制和节流怎么样？这些通常由应用程序处理，还是我应该期望 AWS 或 NGINX 帮助我配置它们？    提交人    /u/Agitated_Syllabub346   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzxe3u/what_are_the_typical_smallscale_processeshooks_a/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:44:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,15 @@
   <channel>
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？欢迎使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。业余爱好？好玩吗？我们的姐妹版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 10 Oct 2024 01:03:23 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Thu, 10 Oct 2024 03:19:44 GMT</lastBuildDate>
+    <item>
+      <title>staffmeup 工作提醒</title>
+      <link>https://www.reddit.com/r/editors/comments/1g07a0h/staffmeup_work_alerts/</link>
+      <description><![CDATA[我正在尝试设置工作提醒，但在尝试保存时一直收到此错误消息：错误：GraphQL 错误：变量“alert”具有无效值：预期为可以转换为“Boolean”类型的值，但它是“ArrayList” 有人知道这是否可以修复，或者 staffmeup 只是一个完整的笑话？    提交人    /u/AcceptableThanks304   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g07a0h/staffmeup_work_alerts/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:07:29 GMT</pubDate>
+    </item>
     <item>
       <title>将 1080p 时间线升级到 4K 时间线，速度最快且不损失质量？</title>
       <link>https://www.reddit.com/r/editors/comments/1g05d6v/upscale_1080p_timeline_to_4k_timeline_the_fastest/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Apple Motion 和 FCPX 中的产品宣传视频</title>
       <link>https://www.reddit.com/r/editors/comments/1g01c6h/product_promo_videos_in_apple_motion_and_fcpx/</link>
-      <description><![CDATA[大家好。我现在刚开始接触视频编辑和（希望是）动态图形设计，一直在为在 Apple 和 Adob​​e 之间做出选择而苦恼。我看到的很多招聘信息要么是 Adob​​e Premiere + After Effects，要么偶尔是 Premiere 或 FCPX，但肯定是 After Effects。Premiere 似乎是“软”的行业编辑标准（Avid 是顽固的老派？）并变得越来越标准化，而 FCP 曾经是一个更有力的竞争者，但自从 FCPX 发布以来就衰落了（？）。 我的问题是，我拥有包含 LPX、FCPX、Motion、Compressor 的 Apple 捆绑包，我真的更愿意学习我已经购买和支付的工具，而不是支付 Adob​​e 更多 的订阅费用，而不仅仅是我已经使用的 Photoshop/Lightroom 捆绑包。 我不指望能参与大制作（感觉我现在加入这个游戏已经太晚了），但 FCP 真的已经失宠到只剩下极少的了吗？我看到的很多 YouTube 和非主流电影内容，我真的可以想象用 FCP 完成。我可能明白为什么 Motion 和 After Effects 相比没有那么受推崇，尽管我对它的功能没有任何经验。    提交人    /u/TheShwauce   [link] [comments]]]></description>
+      <description><![CDATA[大家好。我现在刚开始接触视频编辑和（希望是）动态图形设计，一直在为在 Apple 和 Adob​​e 之间做出选择而苦恼。我看到的很多招聘信息要么是 Adob​​e Premiere + After Effects，要么偶尔是 Premiere 或 FCPX，但肯定是 After Effects。Premiere 似乎是“软”的行业编辑标准（Avid 是顽固的老派？）并变得越来越标准化，而 FCP 曾经是一个更有力的竞争者，但自从 FCPX 发布以来就衰落了（？）。 我的问题是，我拥有包含 LPX、FCPX、Motion、Compressor 的 Apple 捆绑包，我真的更愿意学习我已经购买和支付的工具，而不是支付 Adob​​e 更多 的订阅费用，而不仅仅是我已经使用的 Photoshop/Lightroom 捆绑包。 我不指望能参与大制作（感觉我现在加入这个游戏已经太晚了），但 FCP 真的已经失宠到只剩下极少的部分了吗？我看到的很多 YouTube 和非主流电影内容，我真的可以想象用 FCP 完成。我可能明白为什么 Motion 和 After Effects 相比没有那么受推崇，尽管我对它的功能没有任何经验。    提交人    /u/TheShwauce   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g01c6h/product_promo_videos_in_apple_motion_and_fcpx/</guid>
       <pubDate>Wed, 09 Oct 2024 20:30:45 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>需要从狂热的媒体作曲家转化为交响乐的模糊</title>
       <link>https://www.reddit.com/r/editors/comments/1fznbcp/blurs_that_need_to_translate_from_avid_media/</link>
-      <description><![CDATA[您好， 我刚开始一份新工作，工作内容非常复杂。我正在寻找一种工作流程，可以将 Media Composer 中的离线模糊处理转换为 Symphony 中的在线模糊处理，而不会出现任何问题。我喜欢使用 Mocha (Boris)，因为它们的跟踪效果非常好，但我还没有尝试过如何将它们转移到 Symphony。有没有人知道其他程序/插件可以用来将模糊处理从 MC 无缝转移到 Symphony？或者您是否有转换 Mocha 模糊处理的经验？ TIA 编辑：我相信我们使用的是 Mac 系统，但还不确定细节。素材规格在离线时将是 DNxHD LB，我不确定在线时是否如此。    提交人    /u/blueberrybones   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我刚开始一份新工作，工作内容非常复杂。我正在寻找一种工作流程，可以将 Media Composer 中的离线模糊处理转换为 Symphony 中的在线模糊处理，而不会出现任何问题。我喜欢使用 Mocha (Boris)，因为它们的跟踪效果非常好，但我还没有尝试过如何将它们转移到 Symphony。有没有人知道其他程序/插件可以用来将模糊从 MC 无缝转移到 Symphony？或者您是否有转换 Mocha 模糊处理的经验？ TIA 编辑：我相信我们使用的是 Mac 系统，但还不确定细节。素材规格在离线时将是 DNxHD LB，我不确定在线时是否如此。    提交人    /u/blueberrybones   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fznbcp/blurs_that_need_to_translate_from_avid_media/</guid>
       <pubDate>Wed, 09 Oct 2024 09:23:30 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我在 Goldsmiths 寻找具有电影制作经验的新技术团队成员。职责是教授学生制作技能 - 摄像机灯光和声音 - 以及后期制作 - Media Composer、Premiere Pro 和 Pro Tools。 招聘广告在这里 [每周 35 小时，工资为 38,647 - 41,780 英镑] https://jobs.gold.ac.uk/vacancy/technical-practice-tutor-filmmaking-568575.html 如不允许，请见谅。    提交人    /u/grollies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fzmsfh/tech_tutor_role_available_in_london/</guid>
       <pubDate>Wed, 09 Oct 2024 08:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>协助从澳大利亚移居到英国 - 需要做什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fzjqtc/assist_moving_to_uk_from_aus_what_to_expect/</link>
-      <description><![CDATA[假设这会被转移到询问专业人士的帖子，但不管它。 在过去的 7 年里，我在这里编辑助理，在大型澳大利亚真人秀、OPHF4YO、几个美国节目中获得了 15+ 的荣誉，其中包括几个临时运行工作和一些转录工作（我想可以将这个经验转化为记录工作？）。 11 月搬到伦敦。已经安排了一份临时的索具工作，但我绝对希望尽快进入 Post 并获得良好的合同流程。 我是人才经理，我找到的唯一助理工作是在布里斯托尔。 这是“你需要有正确的联系人”类型的事情吗？我有一份大约 20 家制作公司的名单，我计划联系这些公司，但我总是不愿意通过网站向人们发送意向表达电子邮件，似乎这些邮件只是被堆在最底层，没有人会去查看。  有什么建议或建议吗？我应该注意任何有关英国电影和电视就业市场的具体信息吗？  在澳大利亚，一旦你有了正确的招聘电子邮件地址，你基本上只需向他们发送一封带有简历的电子邮件，他们几乎当场就会雇用你，我大约 5 年没有真正参加过面试了，所以如果我遇到了不愉快的经历，请告诉我，这就是我需要的那种建议。  提前谢谢大家     提交人    /u/SydvegasRaidroosters   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fzjqtc/assist_moving_to_uk_from_aus_what_to_expect/</guid>
-      <pubDate>Wed, 09 Oct 2024 04:52:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
