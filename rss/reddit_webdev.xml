@@ -4,13 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 10 Oct 2024 03:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 06:20:19 GMT</lastBuildDate>
     <item>
-      <title>我怎样才能向他们展示他们的流程是多么糟糕呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g09eez/how_can_i_start_showing_them_how_absolute_dogshit/</link>
-      <description><![CDATA[我必须对我实习的公司进行不同的审计。这家公司的代码质量很差，程序很差，甚至没有完成 SDLC。那家公司以我无法描述的方式欺骗​​了我。 我怎样才能开始向他们展示事情有多糟糕？它可以是任何事情，当然与软件开发有关，不仅限于代码质量。 审计本身将保持中立，但我想在他们离开之前向他们表明他们并不是他们自以为的神。    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g09eez/how_can_i_start_showing_them_how_absolute_dogshit/</guid>
-      <pubDate>Thu, 10 Oct 2024 03:02:02 GMT</pubDate>
+      <title>最佳软件工程/开发播客剧集？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0bvbv/best_software_engineeringdevelopment_podcast/</link>
+      <description><![CDATA[在寻找好的软件工程播客时，我遇到了许多不错的建议，例如《软件工程日报》、《软件工程广播》、《软技能工程》、《变更日志》、《Stack Overflow 播客》等。 虽然我听过其中一些，并且很喜欢，但作为一个整体，还有很多内容需要筛选。我很好奇是否有人对这些播客/类似播客的特定播客剧集有推荐？ 具体来说，您发现任何剧集对开发人员来说非常有趣或有价值？ 感谢您的任何建议！    提交人    /u/UpvoteBeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0bvbv/best_software_engineeringdevelopment_podcast/</guid>
+      <pubDate>Thu, 10 Oct 2024 05:37:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ember.js 开发人员 - 您如何描述现在框架的状态？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0bs6l/emberjs_devs_how_would_you_describe_the_state_of/</link>
+      <description><![CDATA[我正在使用它，但它表明我看到的每家公司都想要那种愚蠢性感的 react 或 next.js 体验，而不是一切 但是是我还是它似乎死了？即使上一次主要发布实际上是上个月。React 和 shit 由 meta 提供支持，而 ember 由 LinkedIn 提供支持，并逐渐被 twitch、apple、（Netflix？）等公司放弃    提交者    /u/oye_como_estas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0bs6l/emberjs_devs_how_would_you_describe_the_state_of/</guid>
+      <pubDate>Thu, 10 Oct 2024 05:30:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对 iPhone 或 Android 进行构建</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0abn2/building_for_iphone_or_android/</link>
+      <description><![CDATA[我想构建一个应用程序，但不知道使用哪个平台，也没有想出哪个平台在哪些方面更好，Android 和 iPhone 之间的用户是否相同，哪个平台拥有可靠和忠诚的用户，哪个平台易于发展，哪个平台与其他应用程序和 API 的集成更好。我将使用 React Native     提交人    /u/Straight-Carpet-6315   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0abn2/building_for_iphone_or_android/</guid>
+      <pubDate>Thu, 10 Oct 2024 03:55:41 GMT</pubDate>
     </item>
     <item>
       <title>需要一些帮助 - Sanity CMS 和 Gatsby</title>
@@ -39,13 +53,6 @@
       <description><![CDATA[嗨，从帖子标题中你可以看出，我对这些显然还不熟悉。 我不是开发人员，目前计划创建和发布一个基本的网站，提供我们小公司的基本信息（关于、历史、联系方式），不包含任何高级功能。所以我通过 Squarespace 提供的服务创建了一个初步草稿，但在真正开始之前，我想知道接下来会发生什么。 购买域名和维护网站的实际费用是多少？Squarespace 确实规定我可以以大约 20 美元的价格购买域名，然后是维护网站的年度/月度计划。我想知道没有提到或更细微的费用，比如税费或其他费用。提前感谢您的回复。    提交人    /u/ProfGuard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g07eil/what_is_the_typical_procedure_and_price_of/</guid>
       <pubDate>Thu, 10 Oct 2024 01:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件的案例：更简单、无框架的 Web 未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g05z95/the_case_for_web_components_a_simpler/</link>
-      <description><![CDATA[  由    /u/ln3ar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g05z95/the_case_for_web_components_a_simpler/</guid>
-      <pubDate>Thu, 10 Oct 2024 00:01:44 GMT</pubDate>
     </item>
     <item>
       <title>10 年，（10-2）课：Web 开发游戏的十年</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我制作了几个多媒体项目，可供有视觉或听力障碍的人使用，但我不知道这在 HTML 中是如何工作的。有哪些选择，对于个人开发者来说是否现实？    提交人    /u/averagereddituserme   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g01p00/aware_of_idea_not_premise/</guid>
       <pubDate>Wed, 09 Oct 2024 20:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 NRSC 网站收到俄语垃圾邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g00dzg/got_russianspammed_through_nrscs_website/</link>
-      <description><![CDATA[        提交人    /u/maodidnothingwong   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g00dzg/got_russianspammed_through_nrscs_website/</guid>
-      <pubDate>Wed, 09 Oct 2024 19:50:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
