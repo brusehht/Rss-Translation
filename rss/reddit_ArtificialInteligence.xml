@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 01:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 03:21:25 GMT</lastBuildDate>
+    <item>
+      <title>人工智能检测工具认为我的文本是人工智能生成的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g685oe/aidetection_tools_think_that_my_texts_are/</link>
+      <description><![CDATA[AI 检测工具偶尔会认为我写的文字是 AI 生成的。我十年前写的东西也是如此。更糟糕的是，当我将 AI 生成的内容放入“人性化器”时，它不会将其标记为 AI 编写。这也意味着有时需要使用 AI 来防止我自己的文本被标记为 AI 生成。     提交人    /u/eldrinor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g685oe/aidetection_tools_think_that_my_texts_are/</guid>
+      <pubDate>Fri, 18 Oct 2024 02:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI漫画转动漫的开发难度有多大？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g677kq/how_hard_would_the_ai_development_of_ai_manga_to/</link>
+      <description><![CDATA[对于人工智能开发人员来说，创建第一个漫画到动漫模型有多难，能够为人工智能提供一些漫画页面并让动画出现，另一端可能第一代没有颜色，但它会尝试为其制作动画    提交人    /u/nekohacker591_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g677kq/how_hard_would_the_ai_development_of_ai_manga_to/</guid>
+      <pubDate>Fri, 18 Oct 2024 01:51:12 GMT</pubDate>
+    </item>
     <item>
       <title>美国财政部今年利用人工智能发现数十亿美元的欺诈行为</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g65nzn/us_treasury_uses_ai_to_catch_billions_in_fraud/</link>
@@ -41,25 +55,11 @@
       <pubDate>Thu, 17 Oct 2024 20:05:48 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个关于人工智能的故事，并要求 ChatGPT 以自己的方式重新制作它。看看你是否能发现任何不同之处。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5yfmn/i_made_a_story_about_an_ai_and_asked_chatgpt_to/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5yfmn/i_made_a_story_about_an_ai_and_asked_chatgpt_to/</guid>
-      <pubDate>Thu, 17 Oct 2024 18:56:34 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 更新：ComfyGen、Hallo2、KREA AI 等</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5y500/ai_update_comfygen_hallo2_krea_ai_and_more/</link>
       <description><![CDATA[ComfyGen：使用多种模型生成令人惊叹的图像，每次都能获得更好的质量！ https://comfygen-paper.github.io Hallo2：只需您的声音，即可将您的照片变成长而逼真的 4K 动画。非常适合创建扩展视频！ https://github.com/fudan-generative-vision/hallo2 Mistral 3B 和 8B：更轻、更快的型号，您可以在智能手机上运行而不会牺牲性能！ https://mistral.ai/news/ministraux CoTracker3：使用真实世界数据进行更快、更智能的视频跟踪，以获得更准确的结果。 https://huggingface.co/spaces/facebook/cotracker KREA AI：与 RunwayML 和 LumaLabs 等顶级视频制作服务合作，以增强您的视频创作工具！ https://www.krea.ai/home 来源： https://comfyuiblog.com/ai-news-comfygenhallo2ministral-3b-ministral-8b-and-more/    提交人    /u/hackerzcity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5y500/ai_update_comfygen_hallo2_krea_ai_and_more/</guid>
       <pubDate>Thu, 17 Oct 2024 18:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>训练模型和数据源，新手问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5w0p9/training_models_and_data_sources_noobie_question/</link>
-      <description><![CDATA[我们正在探索 cohere 命令 r+，但我认为这对类似模型很常见，而且更多的是架构问题 (?)。  我们有大量 PDF，似乎添加这样的文档很容易。但我们也有公开 API 的系统，我想非常笼统地了解采用大型系统（如车队状态和维护的 OLTP 系统）并使该数据可用的方法。 我的目标是能够以对话的方式询问“哪些车辆没有遵循其维护计划？” 文档描述了维护计划，而 OLTP 系统拥有所有计划数据。     提交人    /u/BallsOutKrunked   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5w0p9/training_models_and_data_sources_noobie_question/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:13:11 GMT</pubDate>
     </item>
     <item>
       <title>您在专业上如何为人工智能时代做准备？</title>
@@ -71,7 +71,7 @@
     <item>
       <title>人工智能热潮终有结束之日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5rn3x/the_ai_boom_has_an_expiration_date/</link>
-      <description><![CDATA[Matteo Wong：“在过去的几个月里，人工智能领域一些最杰出的人把自己塑造成现代救世主，把自己的产品奉为神明。全球最大科技公司的高管和受人尊敬的研究人员，包括最近的一位诺贝尔奖获得者，都一致坚称超级智能软件即将问世，甚至给出了时间表：他们将在六年、四年或两年内开发出它。https://theatln.tc/KaUAPFP2  “尽管人工智能高管通常谈论即将到来的 AGI 革命——指的是与人类能力相媲美或超越人类能力的‘通用’人工智能——但他们目前都围绕着真实的、尽管是松散的最后期限达成了一致。他们的许多预言也带有不可否认的乌托邦倾向。首先，谷歌 DeepMind 负责人 Demis Hassabis 于 8 月重申了他今年早些时候提出的 AGI 可能在 2030 年到来的建议，并补充说“我们可以在未来十年或二十年内治愈大多数疾病。” 一个月后，就连 Meta 更脚踏实地的首席人工智能科学家 Yann LeCun 也表示，他预计在几年内，甚至十年内，就会出现强大而无所不知的人工智能助手。然后，OpenAI 的首席执行官 Sam Altman 写了一篇博客文章，指出“我们有可能在几千天内拥有超级智能”，这将使“修复气候”和“建立太空殖民地”等梦想成为现实。不甘示弱的竞争对手 AI 初创公司 Anthropic 的首席执行官 Dario Amodei 上周在一篇自发发表的长文中写道，这种超强大的 AI“可能最早在 2026 年出现”。他预测，这项技术将终结疾病和贫困，带来“自由民主和人权的复兴”，当看到这些成就时，“许多人会感动得流泪”。他写道，这项技术是“超凡脱俗的美”......“也许这波新的、新近看涨的预测并不意味着信心的激增，而恰恰相反。这些宏大的声明是在一系列行业新闻澄清 AI 历史上巨大的能源和资本需求的同时发表的。生成式 AI 模型比传统软件大得多、复杂得多，相应的数据中心需要土地、非常昂贵的计算机芯片以及大量电力来构建、运行和冷却。目前，可用的电力根本不够，数据中心的电力需求已经让世界各地的电网不堪重负。由于预计电力需求将进一步增长，旧的化石燃料电厂的在线运行时间更长；仅在过去的一个月里，微软、谷歌和亚马逊就都签署了购买核电站电力或支持核电站建设的合同……” “然而，所有这些金融和技术投机都创造了一些更坚实的东西：自我设定的最后期限。在 2026 年、2030 年或几千天后，是时候检查所有人工智能救世主了。生成式人工智能——无论是繁荣还是泡沫——终于有一个到期日了。” 在此处阅读更多信息：https://theatln.tc/KaUAPFP2     提交人    /u/theatlantic   [链接] [评论]]]></description>
+      <description><![CDATA[Matteo Wong：“在过去的几个月里，人工智能领域一些最杰出的人把自己塑造成现代救世主，把自己的产品奉为神明。全球最大科技公司的高管和受人尊敬的研究人员，包括最近的一位诺贝尔奖获得者，都一致坚称超级智能软件即将问世，甚至给出了时间表：他们将在六年、四年或两年内开发出它。https://theatln.tc/KaUAPFP2  “尽管人工智能高管通常谈论即将到来的 AGI 革命——指的是与人类能力相媲美或超越人类能力的‘通用’人工智能——但他们目前都围绕着真实的、尽管是松散的最后期限达成了一致。他们的许多预言也带有不可否认的乌托邦倾向。首先，谷歌 DeepMind 负责人 Demis Hassabis 于 8 月重申了他今年早些时候提出的 AGI 可能在 2030 年到来的建议，并补充说“我们可以在未来十年或二十年内治愈大多数疾病。” 一个月后，就连 Meta 更脚踏实地的首席人工智能科学家 Yann LeCun 也表示，他预计在几年内，甚至十年内，就会出现强大而无所不知的人工智能助手。然后，OpenAI 的首席执行官 Sam Altman 写了一篇博客文章，指出“我们有可能在几千天内拥有超级智能”，这将使“修复气候”和“建立太空殖民地”等梦想成为现实。不甘示弱的竞争对手 AI 初创公司 Anthropic 的首席执行官 Dario Amodei 上周在一篇自发发表的长文中写道，这种超强大的 AI“可能最早在 2026 年出现”。他预测，这项技术将终结疾病和贫困，带来“自由民主和人权的复兴”，当看到这些成就时，“许多人会感动得流泪”。他写道，这项技术是“超凡脱俗的美”......“也许这波新的、新近看涨的预测并不意味着信心的激增，而恰恰相反。这些宏大的声明是在一系列行业新闻澄清 AI 历史上巨大的能源和资本需求的同时发表的。生成式 AI 模型比传统软件大得多、复杂得多，相应的数据中心需要土地、非常昂贵的计算机芯片以及大量电力来构建、运行和冷却。目前，可用的电力根本不够，数据中心的电力需求已经让世界各地的电网不堪重负。由于预计电力需求将进一步增长，旧的化石燃料电厂的在线运行时间更长；仅在过去的一个月里，微软、谷歌和亚马逊就都签署了购买核电站电力或支持核电站建设的合同……” “然而，所有这些金融和技术投机都创造了一些更坚实的东西：自我设定的最后期限。在 2026 年、2030 年或几千天后，是时候与所有人工智能救世主见面了。生成式人工智能——无论是繁荣还是泡沫——终于有一个到期日了。” 在此处阅读更多信息：https://theatln.tc/KaUAPFP2     提交人    /u/theatlantic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5rn3x/the_ai_boom_has_an_expiration_date/</guid>
       <pubDate>Thu, 17 Oct 2024 14:04:10 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>微软“无处不在”的 AI 助手即将问世。你觉得酷吗？！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5nftm/microsofts_ever_present_ai_assistants_are_coming/</link>
-      <description><![CDATA[微软的“永远存在的”人工智能助理即将问世。你觉得很酷吗？ 部委认可的巨头微软自豪地宣布，新的人工智能个人助理将在明年集成到他们的电子设备中。这种现代便利的双重奇迹将永远存在，配备令人惊叹的能力，帮助您提高工作和家庭的生产力。他们甚至能够在设备静音或用户注销后记录他们的环境。这不是问题，对吧？ 这些升级的人工智能副驾驶将可以完全访问您的 Word 文档、Windows 桌面等！通过彻底、不懈地监控您的数字倾向，这些不知疲倦的合作者将深深融入您的生活，为您实现梦想！您曾经的私人信息可以自动与朋友、同事和老板共享，从本质上将您的计算机转换为电幕。这有多方便？ 不用担心将您的个人数据交给这些善良的监督者的困境。微软自己的人工智能负责人明智地证实，“电视、笔记本电脑、手机、车载摄像头和耳机已经在任何地方持续记录。”所以，亲爱的公民，这场战斗已经胜利了！很高兴这已经 100% 解决了。 随着长期记忆存储的创新，副驾驶将回忆起最细微的细节。您的文档、搜索历史、游戏习惯和其他个人倾向正在通过口述记录器被严格观察和记录。对于有秘密的人来说，这可能会很可怕。幸运的是，你没有什么可隐瞒的。对吧？对吧？！ 报告错误 Y/N？语法错误打印仅事实来源：BBC、华盛顿邮报、印度报和 Dark Reading。微软人工智能 (AI) 负责人 Mustafa Suleyman 表示，他们正在开发具有“非常好的长期记忆”的 AI 个人助理，并补充说它们将成为“您日常生活中无处不在、持久、非常有能力的副驾驶伙伴”。该技术是去年推出的 Copilot 功能的一部分，最终将能够通过分析（如果获得许可）用户的 Word 文档、Windows 桌面和游戏机来了解其用户。当被问及人们对隐私的担忧时，Suleyman 说我们的电视、手机、车载摄像头和耳机已经“在各个地方持续记录”，这表明全世界大多数人已经接受了这一现实。另一个 AI 助手 Otter.ai 被发现即使在用户注销后也会记录和转录工作会议。该用户原本打算与之合作的投资者被秘密录下了对用户公司说坏话的场景，导致交易失败。其他隐私问题包括员工是否会被迫允许老板使用记录他们的人工智能助手；其他人可能会觉得他们的私人办公室谈话受到监控，从而阻止他们坦率地谈论他们的工作和同事。    提交人    /u/DeepDreamerX   [link] [评论]]]></description>
+      <description><![CDATA[微软的“永远存在的”人工智能助理即将问世。你觉得很酷吗？ 部委认可的巨头微软自豪地宣布，新的人工智能个人助理将在明年集成到他们的电子设备中。这种现代便利的双重奇迹将永远存在，配备令人惊叹的能力，帮助您提高工作和家庭的生产力。他们甚至能够在设备静音或用户注销后记录他们的环境。这不是问题，对吧？ 这些升级的人工智能副驾驶将可以完全访问您的 Word 文档、Windows 桌面等！通过彻底、不懈地监控您的数字倾向，这些不知疲倦的合作者将深深融入您的生活，为您实现梦想！您曾经的私人信息可以自动与朋友、同事和老板共享，从本质上将您的计算机转换为电幕。这有多方便？ 不用担心将您的个人数据交给这些善良的监督者的困境。微软自己的人工智能负责人明智地证实，“电视、笔记本电脑、手机、车载摄像头和耳机已经在任何地方持续记录。”所以，亲爱的公民，这场战斗已经胜利了！很高兴这已经 100% 解决了。 随着长期记忆存储的创新，副驾驶将回忆起最细微的细节。您的文档、搜索历史、游戏习惯和其他个人倾向正在通过口述记录器被严格观察和记录。对于有秘密的人来说，这可能会很可怕。幸运的是，你没有什么可隐瞒的。对吧？对吧？！ 报告错误 Y/N？语法错误打印仅事实来源：BBC、华盛顿邮报、印度报和 Dark Reading。微软人工智能 (AI) 负责人 Mustafa Suleyman 表示，他们正在开发具有“非常好的长期记忆”的 AI 个人助理，并补充说它们将成为“您日常生活中无处不在、持久、非常有能力的副驾驶伙伴”。该技术是去年推出的 Copilot 功能的一部分，最终将能够通过分析（如果获得许可）用户的 Word 文档、Windows 桌面和游戏机来了解其用户。当被问及人们对隐私的担忧时，Suleyman 说我们的电视、手机、车载摄像头和耳机已经“在各个地方持续记录”，这表明全世界大多数人已经接受了这一现实。另一个 AI 助手 Otter.ai 被发现即使在用户注销后也会记录和转录工作会议。该用户原本考虑与之合作的投资者被秘密录下了对用户公司说坏话的场景，导致交易失败。其他隐私问题包括员工是否会被迫允许老板使用记录他们的人工智能助手；其他人可能会觉得他们的私人办公室谈话受到监控，从而阻止他们坦率地谈论他们的工作和同事。    提交人    /u/DeepDreamerX   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5nftm/microsofts_ever_present_ai_assistants_are_coming/</guid>
       <pubDate>Thu, 17 Oct 2024 10:07:32 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>研究结果 100% 由人工智能生成</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5bise/research_coming_out_as_100_ai_generated/</link>
-      <description><![CDATA[我刚刚将我的研究成果提交给一家科学期刊，之后我检查了一下才发现我的整篇论文 95%-100% 都是由人工智能生成的。我担心这会导致我的论文不被接受并被标记为抄袭。虽然我在形成想法时使用了一些人工智能，但实际报告是我自己写的。为什么在 GPTzero 和其他检测器上说它是 100% 人工智能生成的？    提交人    /u/UnusualAd593   [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚将我的研究成果提交给一份科学期刊，之后我检查了一下，发现我的整篇论文 95%-100% 都是由人工智能生成的。我担心这会导致我的论文不被接受并被标记为抄袭。虽然我在形成想法时使用了一些人工智能，但实际报告是我自己写的。为什么在 GPTzero 和其他检测器上说它是 100% 人工智能生成的？    提交人    /u/UnusualAd593   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5bise/research_coming_out_as_100_ai_generated/</guid>
       <pubDate>Wed, 16 Oct 2024 22:08:48 GMT</pubDate>
     </item>
