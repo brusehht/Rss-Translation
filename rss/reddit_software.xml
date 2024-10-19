@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 09:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 12:24:56 GMT</lastBuildDate>
+    <item>
+      <title>可以合并系列吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1g75273/is_it_possible_to_merge_series/</link>
+      <description><![CDATA[我有一个用我的语言制作的 480p 系列片，还有一个用英语制作的 1080p 系列片，我想用 mkv 工具将其合并 但是由于有多个文件，我不知道是否可行    提交人    /u/HG-ERIK   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g75273/is_it_possible_to_merge_series/</guid>
+      <pubDate>Sat, 19 Oct 2024 09:17:29 GMT</pubDate>
+    </item>
     <item>
       <title>可以在浏览器或 WebView 弹出窗口中打开电子邮件的 TUI 电子邮件客户端？</title>
       <link>https://www.reddit.com/r/software/comments/1g74f1e/a_tui_email_client_that_can_open_emails_in_a/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿，有谁知道是否有软件或网络扩展可以记录我的鼠标移动和点击，然后在发生某些事件时执行它（例如特定 URL 上的状态为 200）？我想在我的网络应用程序上自动执行一个过程，该过程偶尔会丢失连接并需要刷新（我已经使用 tapermonkey 网络扩展自动执行了这部分，并且只要 ping 后没有 pong 响应，它就会执行）。所以基本上我需要一些东西来执行我预先记录的鼠标移动和点击，因为在重新加载后，我需要将鼠标悬停在一个框上，然后出现另一个框，然后当我将鼠标悬停在第二个框上时，会出现另一个框，然后我在 URL 不变的情况下单击第三个框    提交人    /u/Alexgold46   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g6gtnx/mouse_macro_recorder/</guid>
       <pubDate>Fri, 18 Oct 2024 12:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOPdesk 数据库查看器（查看您的旧 TOPdesk 实例）</title>
-      <link>https://www.reddit.com/r/software/comments/1g6g4d8/topdesk_database_viewer_look_at_your_old_topdesk/</link>
-      <description><![CDATA[  由    /u/mrraiz0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6g4d8/topdesk_database_viewer_look_at_your_old_topdesk/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:48:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
