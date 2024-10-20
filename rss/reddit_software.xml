@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 01:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 03:24:40 GMT</lastBuildDate>
+    <item>
+      <title>GPU 负载转移到 CPU 了吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1g7or4v/gpu_load_transfered_to_cpu/</link>
+      <description><![CDATA[大家好，自从我将主板 BIOS 设置重置为默认值（ASUS PRIME B560-PLUS）后，我的电脑运行起来就比以前慢了，我发现的一个问题是，在游戏中我的 CPU 使用率高于 GPU（CPU：50%，GPU：30%），而之前我的 GPU 使用率高于 CPU，并且比 CPU 承担更多的工作负载（CPU：5%，GPU：90%），有谁知道我可以更改什么设置来解决这个问题？    提交人    /u/Znobluz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7or4v/gpu_load_transfered_to_cpu/</guid>
+      <pubDate>Sun, 20 Oct 2024 02:20:51 GMT</pubDate>
+    </item>
     <item>
       <title>Convo-UI：一体化聊天机器人 UI 模板</title>
       <link>https://www.reddit.com/r/software/comments/1g7m7fg/convoui_an_allinone_chatbot_ui_template/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>管理俱乐部会员的东西</title>
       <link>https://www.reddit.com/r/software/comments/1g7bihg/something_to_manage_club_members/</link>
-      <description><![CDATA[刚刚成立了一个俱乐部，我们目前使用 WhatsApp 投票进行出勤统计，然后将其转录到 Excel 上。 问题是人们使用他们的昵称，很难判断一个人的出勤率。 如果我可以在 Excel 中完成，请告诉我，但我本质上想要的是：  创建一个&quot;变量&quot;，我可以存储不同类型的数据，如&quot;姓名&quot;、&quot;昵称&quot;、&quot;电话号码&quot;， 计算他们参加的次数 根据需要整齐地创建/显示表格。（例如，可能一个用于所有成员，可能一个用于第 X 周的成员，等等）     提交人    /u/LazyLich   [链接] [评论]]]></description>
+      <description><![CDATA[刚刚成立了一个俱乐部，我们目前使用 WhatsApp 投票来统计出勤率，然后将其转录到 Excel 上。 问题是人们使用他们的昵称，很难判断一个人的出勤率。 如果我可以在 Excel 中完成，请告诉我，但我本质上想要的是：  创建一个&quot;变量&quot;，我可以存储不同类型的数据，如&quot;姓名&quot;、&quot;昵称&quot;、&quot;电话号码&quot;， 计算他们参加的次数 根据需要整齐地创建/显示表格。（例如，可能一个用于所有成员，可能一个用于第 X 周的成员，等等）     提交人    /u/LazyLich   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g7bihg/something_to_manage_club_members/</guid>
       <pubDate>Sat, 19 Oct 2024 15:35:00 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>免费的升级 PDF 的方法？</title>
       <link>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</link>
-      <description><![CDATA[我的 PDF 大约有 200 页 18mb，几乎无法阅读哈哈  我可以接受网站、Windows 应用程序、Linux 应用程序和 Android 应用程序，即使它是一个可以在旧 iPhone 7 上运行的应用程序 但我更喜欢 Foss 应用程序 \ 安全    提交人    /u/Exotic_Insurance_969   [link] [评论]]]></description>
+      <description><![CDATA[我的 PDF 大约有 200 页 18mb，几乎无法阅读，哈哈  我可以接受网站、Windows 应用程序、Linux 应用程序和 Android 应用程序，即使它是一个可以在旧版 iPhone 7 上运行的应用程序 但我更喜欢 Foss 应用程序 \ 安全    提交人    /u/Exotic_Insurance_969   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</guid>
       <pubDate>Sat, 19 Oct 2024 14:34:59 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>可以在浏览器或 WebView 弹出窗口中打开电子邮件的 TUI 电子邮件客户端？</title>
       <link>https://www.reddit.com/r/software/comments/1g74f1e/a_tui_email_client_that_can_open_emails_in_a/</link>
-      <description><![CDATA[我想在 TUI 中管理我的电子邮件，但希望看到完整呈现的 HTML 内容。也许它可以在我的浏览器中打开指向本地存储的电子邮件文件的 URL？我不确定 Mutt 或 Neomutt 是否可以做到这一点。    提交人    /u/TheTwelveYearOld   [link] [评论]]]></description>
+      <description><![CDATA[我想在 TUI 中管理我的电子邮件，但希望看到完整呈现的 HTML 内容。也许它可以在我的浏览器中打开本地存储的电子邮件文件的 URL？我不确定 Mutt 或 Neomutt 是否可以做到这一点。    提交人    /u/TheTwelveYearOld   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g74f1e/a_tui_email_client_that_can_open_emails_in_a/</guid>
       <pubDate>Sat, 19 Oct 2024 08:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Server 2022 与 2019</title>
-      <link>https://www.reddit.com/r/software/comments/1g731de/windows_server_2022_vs_2019/</link>
-      <description><![CDATA[嗨，哪个版本的 Windows Server 适合安装在 Dell T130 PowerEdge 服务器上？    由   提交  /u/scrowley2018   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g731de/windows_server_2022_vs_2019/</guid>
-      <pubDate>Sat, 19 Oct 2024 06:41:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
