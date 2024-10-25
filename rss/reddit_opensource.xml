@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 24 Oct 2024 21:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 01:05:26 GMT</lastBuildDate>
+    <item>
+      <title>我正在为 HiLink LD2410 开发一个简洁易用的库。有人有兴趣合作吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbdrrw/i_am_working_on_a_clean_and_easy_to_use_library/</link>
+      <description><![CDATA[目标  可选的基于中断的输出引脚跟踪 可选的 UART 通信 可选的串行调试 具有语义上有意义的名称的易于理解的公共函数 强大的实现 杀手级功能：使用支持 HTTP 的 MCU 时用于传感器的 Web 面板  您需要什么  GitHub 帐户 MCU 最好是 ESP32 或类似产品  如果您有兴趣，请给我发私信。对于其他所有人，请访问以下链接： https://github.com/mgiesen/ld2410    由   提交  /u/harmonygears   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbdrrw/i_am_working_on_a_clean_and_easy_to_use_library/</guid>
+      <pubDate>Thu, 24 Oct 2024 21:22:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSAID RC2 未解决问题列表 - 开源 AI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbdo9e/list_of_unaddressed_issues_of_osaid_rc2_open/</link>
+      <description><![CDATA[  由    /u/GiacomoTesio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbdo9e/list_of_unaddressed_issues_of_osaid_rc2_open/</guid>
+      <pubDate>Thu, 24 Oct 2024 21:18:04 GMT</pubDate>
+    </item>
     <item>
       <title>我希望能帮助我</title>
       <link>https://www.reddit.com/r/opensource/comments/1gbcgud/i_hope_help_me/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        由    /u/azat_io  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gb00ld/todoctor_cli_tool_to_track_and_visualize_todo/</guid>
       <pubDate>Thu, 24 Oct 2024 11:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>nxs-通用图表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gazq85/nxsuniversalchart/</link>
-      <description><![CDATA[      大家好，我想分享一个项目。 nxs-universal-chart 是一个开源的通用 Helm。您可以使用它将任何应用程序部署到 Kubernetes/OpenShift 和其他与原生 Kubernetes API 兼容的编排器。主要功能包括支持 Ingress 控制器（Ingress Nginx、Traefik）、不同版本的 K8s/Openshift 以及使用 extraDeploy 方便地模板化自定义资源。查看它并让我知道您的想法！    提交人    /u/marasypale   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gazq85/nxsuniversalchart/</guid>
-      <pubDate>Thu, 24 Oct 2024 10:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iOS 的极简习惯追踪器（附 github repo）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gayeqg/minimalist_habit_tracker_for_ios_github_repo/</link>
-      <description><![CDATA[大家好， 由于我正在学习制作应用程序（借助人工智能），我做了一个快速免费的项目 - 一个习惯跟踪应用程序，它非常简约，不会跟踪您的数据，不会存储任何内容，是开源的，而且是免费的，没有广告等等。所以我觉得，这实际上是一个分享它的好地方！ 由于它在您的手机上，因此它并非完全自托管，但您可以自己运行构建，因此您可以完全控制它（复制 github 存储库并在 XCode 上运行） https://github.com/recoverius/Streak-iOS-App/tree/main 如果您关注存储库，AppStore 上还有一个跟踪器的链接。 希望您喜欢它！我会不时地继续做出贡献，但也欢迎您随时加入！    提交人    /u/Ok_Maize_3709   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gayeqg/minimalist_habit_tracker_for_ios_github_repo/</guid>
-      <pubDate>Thu, 24 Oct 2024 09:20:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
