@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 25 Oct 2024 12:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 15:14:48 GMT</lastBuildDate>
+    <item>
+      <title>档案加工大师的裁剪</title>
+      <link>https://www.reddit.com/r/editors/comments/1gbuj2o/cutting_in_archival_masters_in_finishing/</link>
+      <description><![CDATA[嗨， 我是一名 AE。我知道在完成工作时，您需要提供剪辑中使用的存档的入点和出点时间代码，该代码保持与存档机构相同的帧速率，以便获取剪辑，然后将没有水印和句柄的文件发回给您。我在几个项目中这样做过，所以我了解这个工作流程。 现在，我不明白的是为什么您无法重新链接到这些剪辑的真正技术原因和语言。我知道这与帧速率有关，但我从来没有人真正用平面定义解释过原因，并试图填补我知识上的漏洞。所以我想问：为什么您需要手动剪切存档母版？    提交人    /u/Thurstonhearts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gbuj2o/cutting_in_archival_masters_in_finishing/</guid>
+      <pubDate>Fri, 25 Oct 2024 13:41:08 GMT</pubDate>
+    </item>
     <item>
       <title>我可以做一些简单的事情来接近这种风格：</title>
       <link>https://www.reddit.com/r/editors/comments/1gbsd9n/easy_things_i_can_do_to_get_closer_to_this_style/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[大家好，我想知道，如果视频必须按照以下宽高比进行格式化，最佳编辑方式是什么：9:16、1:1、16:9？    提交人    /u/Known-Coconut-8479   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gb7xlo/aspect_ratios/</guid>
       <pubDate>Thu, 24 Oct 2024 17:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro：这是 YouTube 的最佳查看器伽玛设置吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gb7ji8/premiere_pro_is_this_the_best_viewer_gamma/</link>
-      <description><![CDATA[我一直在 Premiere Pro 和 Davinci Resolve 中摆弄我的设置，因为我意外地在 Mac 上引发了 QuickTime 伽马偏移不必要的无休止困境。 我制作的 99% 的视频最终都出现在 YouTube、Instagram 或 TikTok 上。 在 Premiere Pro 中：  Gamma 2.4（广播）使用 NLC 标签 1-1-1 导出；这导致导出在 QuickTime 和 YouTube 上看起来不饱和 Gamma 1.96（QuickTime）使用 NLC tah 1-1-1 导出；这使得导出的内容在 QuickTime 和 YouTube 上看起来完全相同  在 Resolve 中：  Gamma 2.4 使用 NLC 标签 1-2-1 导出；QuickTime 似乎能够读取 1-2-1，因此看起来相同，但 YouTube 看起来不饱和。 Gamma 1.96 (Rec 709-A) 使用 NLC 标签 1-1-1 导出；这使得导出的内容在 QuickTime 和 YouTube 上看起来完全相同。  我在我的 Mac、iPhone、三星手机、带/不带 AppleTV 4K 的三星电视上对此进行了测试。我上传了 Gamma 2.4、2.2 和 1.96，它们在所有设备上看起来都像 1.96。 当我在线搜索时，它说 YouTube 以及其他网页都使用 Gamma 2.2。但我的测试让我相信 YouTube 实际上在 Gamma 1.96 1-1-1 上运行。因此，在为 YouTube 编辑时，将我的查看器 Gamma 设置为 1.96 而不是 2.2 或 2.4 是有意义的。 对吗？ 规格： 16 英寸 MacBook Pro 2021，M1 Max + 64 GB RAM Premiere Pro 25.0    提交人    /u/himt2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gb7ji8/premiere_pro_is_this_the_best_viewer_gamma/</guid>
-      <pubDate>Thu, 24 Oct 2024 16:59:50 GMT</pubDate>
     </item>
     <item>
       <title>这个怎么收费啊</title>
