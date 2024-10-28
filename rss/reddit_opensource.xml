@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 28 Oct 2024 09:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:28:35 GMT</lastBuildDate>
+    <item>
+      <title>支持开放源代码定义 (OSD) 的社区声明</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdzhvm/a_community_statement_supporting_the_open_source/</link>
+      <description><![CDATA[        提交人    /u/GiacomoTesio   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdzhvm/a_community_statement_supporting_the_open_source/</guid>
+      <pubDate>Mon, 28 Oct 2024 11:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fitter - 无代码解析器；新功能更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdzg13/fitter_nocode_parser_new_features_updates/</link>
+      <description><![CDATA[大家好！ 我是 Fitter 的创建者。想介绍一下自上次更新以来的一些功能：  缓存。文档 代理。文档 Playwright 隐身模式 - 用于避免被机器人检测到。 新的占位符。 列表 Docker repo (目前仅限 linux-arm64) 链接  https://github.com/PxyUp/fitter PS: 解析 steam 销售的小例子: { &quot;item&quot;: { &quot;connector_config&quot;: { &quot;response_type&quot;: &quot;HTML&quot;, &quot;url&quot;: “https://gg.deals/deals/?drm=1&amp;minRating=0&amp;platform=1&amp;store=4”，“browser_config”：{“playwright”：{“timeout”：60000，“wait”：10000，“browser”：&quot;WebKit&quot; } } }，“model”：{“array_config”：{“root_path”：&quot;.deals-content #deals-list .list-items &gt; div&quot;, &quot;item_config&quot;：{ &quot;fields&quot;：{ &quot;name&quot;：{ &quot;base_field&quot;：{ &quot;type&quot;：&quot;string&quot;，&quot;path&quot;：&quot;.game-info-title-wrapper a&quot; } }, &quot;link&quot;：{ &quot;base_field&quot;：{ &quot;type&quot;：&quot;string&quot;，&quot;path&quot;：&quot;.game-cta.shop-link&quot;，&quot;html_attribute&quot;：&quot;href&quot;，&quot;generated&quot;：{ &quot;formatted&quot;：{ &quot;template&quot;：&quot;https://gg.deals{PL}&quot; } } } }, &quot;discount&quot;: { &quot;base_field&quot;: { &quot;type&quot;: &quot;string&quot;, &quot;path&quot;: &quot;.price-widget .discount&quot; } }, &quot;price&quot;: { &quot;base_field&quot;: { &quot;type&quot;: &quot;string&quot;, &quot;path&quot;: &quot;.price-wrapper span.game-price-new&quot; } } } } } } }  ./fitter_cli-${version} --path=./config.json &gt; sales.json [ { &quot;link&quot;: &quot;https://gg.deals/de/redirect/ba3de96c07daebb3423e37fbab7a06c1f67b7404/?utm_source=deals%2Findex&quot;, &quot;discount&quot;: &quot;-80%&quot;, &quot;price&quot;: &quot;13,99€&quot;, &quot;name&quot;: &quot;自杀小队：杀死正义联盟&quot; }, { &quot;price&quot;: &quot;9,99€&quot;, &quot;name&quot;: &quot;Parkitect&quot;, &quot;link&quot;: &quot;https://gg.deals/de/redirect/81224b6408d1674443221992c8460dcb94481d34/?utm_source=deals%2Findex&quot;, &quot;discount&quot;: &quot;-60%&quot; }, ... ]     提交人    /u/PyxRu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdzg13/fitter_nocode_parser_new_features_updates/</guid>
+      <pubDate>Mon, 28 Oct 2024 11:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>签名管理的替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdywpv/alternative_for_signature_management/</link>
+      <description><![CDATA[您好，我正在寻找 signitic 或 sigilium 的免费/自托管替代方案。谢谢    提交人    /u/mathieumaxime   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdywpv/alternative_for_signature_management/</guid>
+      <pubDate>Mon, 28 Oct 2024 10:40:32 GMT</pubDate>
+    </item>
     <item>
       <title>我如何为我的第一个开源项目选择开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdvxtd/how_i_picked_open_source_license_for_my_first/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>我制作了一个本地 macOS 图像背景去除器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</link>
-      <description><![CDATA[分享我的第二个开源 macOS 应用程序： https://github.com/nuance-dev/Figura 这次我制作了一个原生背景去除器，效果非常好。作为一名设计师，它让我不必打开 Photoshop 并手动执行此操作，因为我发现的其他替代方案都是付费的。 我会继续分享这样的免费应用程序一段时间。    提交人    /u/sirjoaco   [链接] [评论]]]></description>
+      <description><![CDATA[分享我的第二个开源 macOS 应用： https://github.com/nuance-dev/Figura 这次我制作了一个原生背景去除器，效果非常好。作为一名设计师，它让我不必打开 Photoshop 并手动执行此操作，因为我发现的其他替代方案都是付费的。 我会继续分享这些免费应用一段时间。 编辑：此应用是 macOS 自身背景去除功能的包装器，需要 macOS 14+    提交人    /u/sirjoaco   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</guid>
       <pubDate>Sun, 27 Oct 2024 18:31:25 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[作为一个小型的新仓库所有者，也是在 10 月之前发布的，我度过了一个非常有趣的第一个月！只要我有工作和其他承诺的空闲时间，我就会参与这个项目。编码、审查、讨论、调整并积极推动项目…… 在接近 100 颗星的时候，我甚至不知道该说些什么……我没想到很多人会感兴趣——我们正在为互联网媒体构建一个轻量级的音频增强器，但我错了！令我惊讶的是，人们有使用我们正在构建的东西可以解决的用例。我与业内人士、其他 OSS 项目所有者进行了交谈，并得到了该领域令人鼓舞的反馈，这一直是我尽快为每个人推出并运行它的关键动力。 这就是促使我写这篇文章的原因。如何围绕新项目建立一个真实而活跃的社区？整个十月份，我遇到了大量优秀的贡献者，看到不同的观点并进行合作非常有帮助。有足够多的事情要处理，我想继续这样做，甚至尽可能增加我们的贡献者规模。你有什么建议吗？  当你决定是否为一个项目做贡献时，你会寻找什么？假设你觉得这个话题很有趣，你是否看到任何不好的做法，或者任何一般情况下会破坏我们交易的东西？  我计划推动文档更新，以更好地反映项目的当前状态，并提供具体的路线图。在推动这一举措之前，我很想得到你的反馈，以便提供更好的版本！  感谢您的反馈！     提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcvkkt/q_how_to_build_a_community_getting_people_excited/</guid>
       <pubDate>Sat, 26 Oct 2024 21:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有真正能做事的开源个人助理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcuerr/are_there_any_open_source_personal_assistant_that/</link>
-      <description><![CDATA[我研究个人助理领域已经有一段时间了，我很好奇——有没有真正能够做事而不仅仅是提供信息的人工智能助理？ 我发现的大多数聊天机器人都可以回答问题、告诉我天气情况或提供一般建议。但我想要的是一个可以更积极地处理任务的助理：管理我的日程安排、发送电子邮件、进行研究，甚至跑腿或安排约会，而我只需要做很少的输入。    提交人    /u/sessionletter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcuerr/are_there_any_open_source_personal_assistant_that/</guid>
-      <pubDate>Sat, 26 Oct 2024 20:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPLv2 和 Apache 2.0 许可证实际上是兼容的</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcu4rm/gplv2_and_apache_20_licenses_are_actually/</link>
-      <description><![CDATA[  由    /u/Simple-Minute-5331  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcu4rm/gplv2_and_apache_20_licenses_are_actually/</guid>
-      <pubDate>Sat, 26 Oct 2024 20:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何反击觉醒攻击？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcu3z0/how_do_we_fight_back_against_woke_attacks/</link>
-      <description><![CDATA[2014 年，在奥巴马政府的领导下，美国国家安全局将 Linux 用户宣布为极端分子： // START_DEFINITION /*这些变量定义与 TAILs（失忆隐身实时系统）软件程序有关的术语和网站，该软件程序是极端分子在极端主义论坛上倡导的通信安全机制。 */ $TAILS_terms=word(&#39;tails&#39; 或 &#39;Amnesiac Incognito Live System&#39;) and word(&#39;linux&#39; 或 &#39; USB &#39; 或 &#39; CD &#39; 或 &#39;secure Desktop&#39; 或 &#39; IRC &#39; 或 &#39;truecrypt&#39; 或 &#39; tor &#39;); $TAILS_websites=(&#39;tails.boum.org/&#39;) or (&#39;linuxjournal.com/content/linux*&#39;); // END_DEFINITION  2024 年，在奥巴马政府的领导下，数以千计的东欧贡献者被禁止为 Linux 或其他开源项目做出贡献 与此同时，有数十起恶意收购高调开源项目，禁止人们因其政治观点（或者更确切地说缺乏政治观点）而做出贡献。 我认为我们可以同意这些攻击来自仇恨和破坏的地方，完全无视开源原则或任何道德。但我们如何反击？    提交人    /u/EastSignificance9744   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcu3z0/how_do_we_fight_back_against_woke_attacks/</guid>
-      <pubDate>Sat, 26 Oct 2024 20:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
