@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 03:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 06:20:54 GMT</lastBuildDate>
     <item>
       <title>Angular 和 Azure 静态 Web 应用程序部署 - CSP 实施最佳实践和指导？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</link>
@@ -78,7 +78,7 @@
     <item>
       <title>我很沮丧</title>
       <link>https://www.reddit.com/r/webdev/comments/1gee4ws/im_so_frustrated/</link>
-      <description><![CDATA[我和一个朋友一起承担了一个自由职业项目，我负责后端，他负责前端。我们使用的是 Spotify API 的私有版本，我真的很沮丧，因为几个星期以来我一直无法解决一个特定的任务。我正在认真考虑退出这个项目，但由于我们已经和客户签订了合同，所以这不是一个选择。ChatGPT 也帮不上忙，因为文档是私有的，而且我在网上找不到任何资源。在这种情况下我该怎么办？我从来没想到我的第一个现实世界项目会如此具有挑战性。 编辑：对于那些在评论中提问的人，这里有更详细的信息。我们正在使用 Spotify 的私有 API 来提取与我客户公司有关联的艺术家的数据。挑战在于，在所有可用数据中，我只能访问两个特定的部分。我已经多次查看了公共和私有 API 文档，但我仍然无法弄清楚如何检索我们需要的其余信息。我不确定是否可以分享具体细节，因为我们正在处理的数据是私密的。我想更具体一点，但我的合同规定这需要保密。    提交人    /u/Jupjupgo   [link] [评论]]]></description>
+      <description><![CDATA[我和一个朋友一起承担了一个自由职业项目，我负责后端，他负责前端。我们使用的是 Spotify API 的私有版本，我真的很沮丧，因为几个星期以来我一直无法解决一个特定的任务。我正在认真考虑退出这个项目，但由于我们已经与客户签订了合同，所以这不是一个选择。ChatGPT 也帮不上忙，因为文档是私有的，而且我在网上找不到任何资源。在这种情况下我该怎么办？我从来没想到我的第一个现实世界项目会如此具有挑战性。 编辑：对于那些在评论中提问的人，这里有更详细的信息。我们正在使用 Spotify 的私有 API 来提取与我客户公司有关联的艺术家的数据。挑战在于，在所有可用数据中，我只能访问两个特定的部分。我已经多次查看了公共和私有 API 文档，但我仍然无法弄清楚如何检索我们需要的其余信息。我不确定是否可以分享具体细节，因为我们正在处理的数据是私密的。我想更具体一点，但我的合同规定这需要保密。    提交人    /u/Jupjupgo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gee4ws/im_so_frustrated/</guid>
       <pubDate>Mon, 28 Oct 2024 21:45:53 GMT</pubDate>
     </item>
