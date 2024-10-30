@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 30 Oct 2024 12:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 15:14:42 GMT</lastBuildDate>
+    <item>
+      <title>制造商：Google 新闻自动化代理</title>
+      <link>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</link>
+      <description><![CDATA[需要有关 Make.com 工作流程的帮助：RSS 到 ChatGPT 到 WordPress 的问题   我正在尝试构建此工作流程：   抓取 Google 新闻 RSS 提要（10 篇文章） 将 URL 发送到 ChatGPT 以供选择  抓取选定的文章  将内容发回 ChatGPT 进行重写  发布到 WordPress   当前问题：RSS 模块仅将 10 篇文章中的 1 篇转发到 ChatGPT，尽管将最大项目数设置为 10。甚至无法在 ChatGPT 中获取 URL - 消息映射似乎正确，但没有任何结果。  有没有人有 Make 中使用 RSS 捆绑的经验，可以帮忙吗？非常感谢！    提交人    /u/sansherifi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</guid>
+      <pubDate>Wed, 30 Oct 2024 14:48:59 GMT</pubDate>
+    </item>
     <item>
       <title>为 Claude AI 构建了一个桌面应用程序来控制您的计算机！</title>
       <link>https://www.reddit.com/r/automation/comments/1gfa8i8/built_a_desktop_app_for_claude_ai_to_control_your/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>帮助我在面试中获胜</title>
       <link>https://www.reddit.com/r/automation/comments/1ge24zc/help_me_win_in_the_interview/</link>
-      <description><![CDATA[我从事网页设计和自动化工作已有 2 年，今天我被一家大公司选中，我真的想通过它并在公司中获得一席之地。 我需要注意什么？我应该关注哪些主题？ 请前辈们！    提交人    /u/LocalConversation850   [link] [评论]]]></description>
+      <description><![CDATA[我从事网页设计和自动化工作已有 2 年，今天我被一家大公司选中，我真的想通过它并在公司中获得一席之地。 我需要注意什么？我应该关注哪些主题？ 请前辈们指点！    提交人    /u/LocalConversation850   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ge24zc/help_me_win_in_the_interview/</guid>
       <pubDate>Mon, 28 Oct 2024 13:32:48 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/WorkBeaverOfficial  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gdfp20/are_there_any_repetitive_timeconsuming_tasks_in/</guid>
       <pubDate>Sun, 27 Oct 2024 17:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用浏览器时您经常重复执行哪些任务？</title>
-      <link>https://www.reddit.com/r/automation/comments/1gd8fjb/what_are_the_tasks_you_frequently_repeat_while/</link>
-      <description><![CDATA[  由    /u/jsince99  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gd8fjb/what_are_the_tasks_you_frequently_repeat_while/</guid>
-      <pubDate>Sun, 27 Oct 2024 10:59:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
