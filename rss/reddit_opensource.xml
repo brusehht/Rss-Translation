@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 Nov 2024 01:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 03:19:13 GMT</lastBuildDate>
     <item>
       <title>Contribank：重新思考开源贡献——欢迎发表想法！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ghjk2t/contribank_rethinking_open_source_contributions/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>最好的开源卡路里追踪应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</link>
-      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量营养素消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</guid>
       <pubDate>Fri, 01 Nov 2024 16:58:38 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>有任何可以使用 LLM 寻找结构化输入的反应库吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gh3pg9/any_react_library_which_can_seek_structured/</link>
-      <description><![CDATA[我不知道在哪里，但我遇到了一个前端反应库，它有助于使用 LLM 工具调用以更结构化的方式从用户那里获取输入。 示例： 一位客户问我们的聊天机器人：“我的票怎么了？” 聊天机器人会回答：“您能否为我提供您正在谈论的相关票证。请提及参考编号” 用户将提供票证 ID，LLM 会带来状态或下一个流程。 但是，我想我在某个地方看到过一个解决了这个问题的库。llm 将生成一个表单，用户可以在其中填写信息并提交。这将使用户体验更好。 有人知道这样的库吗？   由    /u/divyamchandel  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我不知道在哪里，但我遇到了一个前端反应库，它有助于使用 LLM 工具调用以更结构化的方式从用户那里获取输入。 示例： 一位客户问我们的聊天机器人：“我的票怎么了？” 聊天机器人会回答：“您能否为我提供您正在谈论的相关票证。请提及参考编号” 用户将提供票证 ID，LLM 会带来状态或下一个流程。 但是，我想我在某个地方看到过一个解决了这个问题的库。llm 将生成一个表单，用户可以在其中填写信息并提交。这会让用户体验更好。 有人知道这样的库吗？   由    /u/divyamchandel  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gh3pg9/any_react_library_which_can_seek_structured/</guid>
       <pubDate>Fri, 01 Nov 2024 12:02:01 GMT</pubDate>
     </item>
