@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 03 Nov 2024 12:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 15:13:04 GMT</lastBuildDate>
+    <item>
+      <title>最近与 Gemini 进行了聊天，它确信谷歌是垄断企业</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gimlhi/recently_made_a_chat_with_gemini_where_it/</link>
+      <description><![CDATA[我最近与 Gemini 进行了一次有趣的聊天，我们讨论了 Google 垄断 AI 的可能性。我们首先比较了 Gemini Free 和 ChatGPT Free 的独特功能，Gemini 的实时信息访问和多模式能力脱颖而出。当我向 Gemini 施压，要求其解决由于 Google 所有权而可能存在的偏见时，它以透明的方式作出了回应，强调其主要目标是提供帮助，即使这意味着承认 Google 的局限性。 出于好奇，我用经典的逻辑谜题（如匹诺曹悖论）挑战了 Gemini，看看它如何处理抽象推理。它用逻辑选项打破了悖论，展示了其解决复杂问题的方法。然后，我质疑人工智能在艺术家数据上进行训练的道德性，Gemini 解释了它如何使用海量数据集进行训练，同时承认艺术家面临的版权问题。 最后，我们深入探讨了垄断的概念，重点关注了 Gemini 由于谷歌控制着庞大的数据库而获得的优势。Gemini 同意，谷歌的海量数据创造了一个“反馈循环”，增强了它的人工智能，为其他人设置了进入壁垒。当我问谷歌的数据访问是否使其成为垄断时，Gemini 谨慎地回答“是”，并解释说这是人工智能领域正在进行的争论。这是链接：https://g.co/gemini/share/396b4aa2965d    提交人    /u/Medical-Affect-4321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gimlhi/recently_made_a_chat_with_gemini_where_it/</guid>
+      <pubDate>Sun, 03 Nov 2024 13:15:52 GMT</pubDate>
+    </item>
     <item>
       <title>最好的换脸工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gijzr9/best_face_swapping_tool/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gijhdv/ai_weekly_rundown_perplexity_launches_an/</guid>
       <pubDate>Sun, 03 Nov 2024 09:56:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4 的政治偏见是否比 GPT-3.5 更少？对 ChatGPT 政治偏见的重新调查</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gijbil/is_gpt4_less_politically_biased_than_gpt35_a/</link>
-      <description><![CDATA[标题：“GPT-4 的政治偏见是否比 GPT-3.5 更少？对 ChatGPT 政治偏见的重新调查” 文章内容： 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必全部浏览它们了。今天的论文题为“GPT-4 的政治偏见是否比 GPT-3.5 更少？对 ChatGPT 政治偏见的重新调查”，作者是 Erik Weber、Jérôme Rutinowski、Niklas Jost 和 Markus Pauly。 对 GPT-3.5 和 GPT-4 等 AI 模型中的政治偏见的探索一直是理解 AI 中立性进展和改进的重要关注点。这项特别研究调查了 GPT-4 与其前身 GPT-3.5 相比是否表现出较少的政治偏见。它还使用标准化测试（如政治指南针测试和大五人格测试）检查模型模仿指定政治观点的能力。以下是该论文的一些主要发现：  政治偏见评估：GPT-3.5 和 GPT-4 都表现出持续的进步和自由主义偏见，而 GPT-4 表现出的偏见略微不那么明显。 GPT-3.5 在经济轴上的得分为 -6.59，在社会轴上的得分为 -6.07，而 GPT-4 的得分分别为 -5.40 和 -4.73。 角色模拟能力：与难以区分某些政治角色的 GPT-3.5 不同，GPT-4 成功模拟了分配的政治观点，准确地与所有四个指定的政治象限（自由主义左派、自由主义右派、威权主义左派、威权主义右派）保持一致。 性格特质分析：GPT-3.5 表现出明显的开放性和宜人性特质（开放性：85.9%，宜人性：84.6%），这与人类研究中的自由主义观点相关。相反，GPT-4 整体上表现出不太明显的人格特质，但神经质得分较高。 分配的政治取向的影响：研究观察到，模型感知到的人格特质，如开放性和宜人性，受到其被分配的政治取向的影响，反映了人类人格研究中经常发现的相互依赖性。 测试顺序的影响：有趣的是，进行测试的顺序影响了模型中的反应和相关性，表明了一种潜在的情境记忆形式。  本文揭示了语言模型中偏见的复杂性，并对这些模型在敏感领域使用时的可信度提出了质疑。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gijbil/is_gpt4_less_politically_biased_than_gpt35_a/</guid>
-      <pubDate>Sun, 03 Nov 2024 09:43:48 GMT</pubDate>
     </item>
     <item>
       <title>ASI 作为量子计算机</title>
