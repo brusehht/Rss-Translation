@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 03 Nov 2024 09:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 12:25:23 GMT</lastBuildDate>
+    <item>
+      <title>开源软件许可</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gikrcp/open_source_software_licensing/</link>
+      <description><![CDATA[https://www.salishseaconsulting.com/blog/open-source-software-licensing    由   提交  /u/Snickers_B   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gikrcp/open_source_software_licensing/</guid>
+      <pubDate>Sun, 03 Nov 2024 11:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 Doodle 替代品作为我的论文项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gij6xf/opensource_doodle_alternative_as_project_for_my/</link>
+      <description><![CDATA[嗨！我目前正在为我的论文开发自己的开源 Doodle 替代品。如果你知道它的一些替代品，比如 Calendly 或 Rallly，那它应该是类似的。 主要的想法是你可以创建带有时间选项的会议投票，也可以创建其他一些选项，比如投票决定你想在哪里开会或会议应该是什么主题。我目前正在开发 MVP，它将在几周后上市。如果你有兴趣，请给我留言。 你也可以访问 github 存储库：https://github.com/Karur0su2024/MeetVote 我也需要公众意见，所以如果你能抽出 2 分钟时间，我希望得到一些回应。非常感谢。 https://docs.google.com/forms/d/e/1FAIpQLSfh5UyxodQPCsqY1yQWfPYzK_PKpqQLd0ILbKrlJDLQ1-BbKw/v​​iewform?usp=sf_link    提交人    /u/Karurosu2024   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gij6xf/opensource_doodle_alternative_as_project_for_my/</guid>
+      <pubDate>Sun, 03 Nov 2024 09:33:46 GMT</pubDate>
+    </item>
     <item>
       <title>有什么方法可以改变 pdf 文本颜色和背景颜色（不改变图像颜色）？</title>
       <link>https://www.reddit.com/r/opensource/comments/1giipz8/is_there_any_way_to_change_pdf_text_colour_and/</link>
@@ -34,16 +48,9 @@
       <pubDate>Sun, 03 Nov 2024 04:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>我创造了天堂的加密解密工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gicima/i_created_the_encryption_decryption_tool_from/</link>
-      <description><![CDATA[      快速笔记：1. 你可以加密/解密特定文件 2. 在文件保持加密状态的同时查看其内容 3. 无需手动解密文件即可向加密文件添加新数据 4. 搜索所有使用 Mr Crypter 加密的文件 当我说这是一个来自天堂的工具时，我可能有些自吹自擂，但说实话。我喜欢使用 Mr Crypter，我喜欢它的易用性。 此外，我选择 MIT 许可的原因是因为说实话，这是一个业余爱好工具，是我出于个人需求而创建的，当时我想管理和处理我想保证安全的电脑文件，但后来我意识到了。为什么不毫无限制地与世界其他地方分享它呢？他们可能会像我一样从中获得同样的乐趣？ 如果您认为自己不需要使用它，那么好吧。希望有一些软件可能更适合您的使用情况。  如果您想查看该项目，请转到：https://github.com/Marcus-Peterson/mr-crypter    由   提交  /u/Gorrilac   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gicima/i_created_the_encryption_decryption_tool_from/</guid>
-      <pubDate>Sun, 03 Nov 2024 02:03:23 GMT</pubDate>
-    </item>
-    <item>
       <title>CodeGroupie：探索开源项目并做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1gibkux/codegroupie_explore_open_source_projects_to/</link>
-      <description><![CDATA[      大家好！我很乐意与大家分享我朋友最近创建的一个激情项目：www.codegroupie.com！ 我发现许多开发人员都在努力寻找可以贡献的项目，CodeGroupie 是一个平台，您可以在其中探索数百个涉及广泛主题的开源项目，并根据您的特定兴趣进行筛选。每个项目都有一个摘要部分，可为您提供快速概览，如果您有兴趣做出贡献，还可以找到最近未解决的问题的链接。 如果您没有看到想要添加的开源项目，您可以提交请求，我会查看它！ 您还可以分享您正在进行或希望开始的项目，并与有相似兴趣的其他人联系。如果您正在寻找合作者、反馈意见，或者只是想聊聊想法，您可以在这里做到！ 我很乐意听到您的任何反馈或评论，并让我知道您的想法以及您希望添加的任何功能。谢谢！    提交人    /u/gumkicker   [link] [comments] ]]></description>
+      <description><![CDATA[      大家好！我很乐意与大家分享我朋友最近创建的一个激情项目：www.codegroupie.com！ 我发现许多开发人员都在努力寻找可以贡献的项目，CodeGroupie 是一个平台，您可以在其中探索数百个涉及广泛主题的开源项目，并根据您的特定兴趣进行筛选。每个项目都有一个摘要部分，可为您提供快速概览，如果您有兴趣做出贡献，还可以找到最近未解决的问题的链接。 如果您没有看到想要添加的开源项目，您可以提交请求，我会查看它！ 您还可以分享您正在进行或希望开始的项目，并与有相似兴趣的其他人联系。如果您正在寻找合作者、反馈意见，或者只是想聊聊想法，您可以在这里做到！ 我很乐意听到您的任何反馈或评论，并让我知道您的想法以及您是否希望添加任何功能。谢谢！    提交人    /u/gumkicker   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gibkux/codegroupie_explore_open_source_projects_to/</guid>
       <pubDate>Sun, 03 Nov 2024 01:13:20 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/unimonkiez   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ghrav5/honest_opinion_about_my_open_source_sdl/</guid>
       <pubDate>Sat, 02 Nov 2024 07:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么开源且易于学习的软件可以创建信息图表？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</link>
-      <description><![CDATA[是否有任何开源且易于学习的软件来创建信息图表？ 如果可能，请分享他们的网站。     提交人    /u/WizOfWriting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</guid>
-      <pubDate>Sat, 02 Nov 2024 04:21:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
