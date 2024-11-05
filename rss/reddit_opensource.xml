@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Nov 2024 03:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 06:20:38 GMT</lastBuildDate>
+    <item>
+      <title>洁净室逆向工程 - 功能规格问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gjz8o3/clean_room_reverse_engineering_functional_spec/</link>
+      <description><![CDATA[我希望对 GPL3 固件进行逆向工程，以便我们能够根据自己的许可证发布它。我被要求编写功能规范，以便我们可以让另一位工程师编写非 GPL 版本。我很难找到有关功能规范详细程度的任何资料。例如，我可以描述类及其方法吗？在固件侵犯版权之前，我可以对其进行多仔细的描述？    提交人    /u/quaker_oats_3_arena   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gjz8o3/clean_room_reverse_engineering_functional_spec/</guid>
+      <pubDate>Tue, 05 Nov 2024 05:06:30 GMT</pubDate>
+    </item>
     <item>
       <title>有没有针对 SaaS 的开源产品巡检工具推荐？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gjn6sp/recommendations_for_open_source_product_tour/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[几个月前，我为医院的药房服务创建了这个小应用程序。主要功能包括：  它允许在疾病和药物之间进行联合结果搜索，以查看 pubmed 中可用的文献。 它允许使用 Faers API 从使用的药物列表中提取不良反应，并过滤用户最感兴趣的不良反应。这是一个开源项目。  看一看，如果您认为它有用，请鼓励您做出贡献。 GitHub：https://github.com/BreisOne/pharmacovigilance-literature-mining    提交人    /u/Charco6   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</guid>
       <pubDate>Sun, 03 Nov 2024 15:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nothing 主题笔记应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gimw97/nothing_themed_notes_app/</link>
-      <description><![CDATA[嗨，我是 Luis，很高兴发布我的 Nothing notes 应用的完整版。它在 GitHub 上以 APK 形式提供，但很快就会在 Play 商店上架。如果您对我的应用计划感兴趣，请查看路线图。    提交人    /u/kresstein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gimw97/nothing_themed_notes_app/</guid>
-      <pubDate>Sun, 03 Nov 2024 13:31:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
