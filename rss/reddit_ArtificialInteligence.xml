@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 01:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 03:16:45 GMT</lastBuildDate>
     <item>
-      <title>全部包含在一次订阅中？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkmflb/all_in_one_subscription/</link>
-      <description><![CDATA[有没有什么网站或应用程序可以让我同时访问 4o、Flux、DallE、Claude、Gemini 甚至 Perplexity？    提交人    /u/Temporary-Spell3176   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkmflb/all_in_one_subscription/</guid>
-      <pubDate>Wed, 06 Nov 2024 00:57:22 GMT</pubDate>
+      <title>了解 AI 的资源</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkoiox/sources_to_learn_about_ai/</link>
+      <description><![CDATA[大家好，您会推荐哪些资源来首先学习人工智能的基础知识，然后获取能够让我评估该领域初创企业的工具？ 提前谢谢您！    提交人    /u/why_always_me_PD   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkoiox/sources_to_learn_about_ai/</guid>
+      <pubDate>Wed, 06 Nov 2024 02:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能中的伦理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkndse/ethics_in_ai/</link>
+      <description><![CDATA[有哪些好的学习/证书机会可以进入 AI 伦理领域？除了 NeurIPS 之外，还有其他志愿者机会对论文进行伦理审查吗（成为伦理审查员的要求是什么？）    提交人    /u/Caliatdrimme   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkndse/ethics_in_ai/</guid>
+      <pubDate>Wed, 06 Nov 2024 01:47:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open Router + PR 评论？查看我的 github 工作流程！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkmk6x/open_router_pr_reviews_review_my_github_workflow/</link>
+      <description><![CDATA[大家好！ 我想分享一个很棒的 GitHub Action，我一直在研究它，它利用人工智能来帮助自动审查你的拉取请求的代码。如果你厌倦了手动检查每一行代码，或者只是想确保你的 PR 符合某些标准，这可能是你的解决方案！ 市场链接：https://github.com/marketplace/actions/diffguard-ai-pr-review https://preview.redd.it/no8fhg0bh6zd1.png?width=984&amp;format=png&amp;auto=webp&amp;s=dcee6162f666691e0f4fb5a44c42485341bc3223 作用 此操作使用 OpenRouter 的语言模型来分析您的 PR 并提供详细反馈（您选择的任何反馈）。它会检查潜在的错误、安全漏洞，甚至提出改进建议。此外，它现在不仅在打开或更新 PR 时运行，而且在添加或删除标签时运行。这意味着您可以根据特定标签触发审核，从而使您的工作流程变得非常灵活。 工作原理  当您打开、更新 PR 或更改标签时，操作就会启动。 它使用您选择的 AI 模型分析差异。 您会收到一条关于您的 PR 的评论，其中包含以下见解： 潜在问题 代码改进建议 性能影响 安全问题 最佳实践违规   https://preview.redd.it/w9m67d1fh6zd1.png?width=914&amp;format=png&amp;auto=webp&amp;s=de5c691e771c9e005b958f5f9fe158f01a9b68de 存储库：https://github.com/jonit-dev/diffguard Github 市场：https://github.com/marketplace/actions/diffguard-ai-pr-review  请告诉我您的想法或任何疑问！祝您编码愉快！🚀    提交人    /u/joaopaulo-canada   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkmk6x/open_router_pr_reviews_review_my_github_workflow/</guid>
+      <pubDate>Wed, 06 Nov 2024 01:03:43 GMT</pubDate>
     </item>
     <item>
       <title>人工智能优化数据中心如何彻底改变业务基础设施</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[因此，我偶然发现了 Kinetic Seas 新的以 AI 为中心的数据中心，这让我开始思考——AI 专用数据中心是否会成为企业基础设施的骨干？他们使用超快的 GPU 和自定义虚拟化设置构建了这个中心，据说旨在处理传统数据中心难以处理的 AI 任务的“繁重工作”。 但我想知道的是：如果这些针对 AI 优化的中心变得更加普遍，它们是否真的也能撼动技术领域之外的事物？想象一下，医疗保健或金融等行业通过更快的数据处理和洞察获得性能提升。这里有人见过其他 AI 专用基础设施掀起波澜吗？还是 Kinetic Seas 正在做一些独特的事情？ 他们似乎正致力于通过简化企业的 AI 来开辟一个利基市场。您认为这些中心最终是否将成为各行各业必不可少的中心？ https://www.prnewswire.com/news-releases/kinetic-seas-fka-bellatora-announces-completion-of-phase-i-of-its-data-center-for-ai-302168707.html    提交人    /u/booboo1998   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkma3r/how_aioptimized_data_centers_are_revolutionizing/</guid>
       <pubDate>Wed, 06 Nov 2024 00:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究生开发免费人工智能文本人性化器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gklc3d/grad_student_builds_free_ai_text_humanizer/</link>
-      <description><![CDATA[经过 1,000 多篇自定义文章的训练，通过 AI 检测，您将获得免费 500 个单词： https://www.youtube.com/watch?v=bLUdUn5Rp-o&amp;lc=UgyhYIqOlEqhWlGvbY94AaABAg    提交人    /u/Homechilidogg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gklc3d/grad_student_builds_free_ai_text_humanizer/</guid>
-      <pubDate>Wed, 06 Nov 2024 00:02:56 GMT</pubDate>
     </item>
     <item>
       <title>我可以使用 AI 来批量创建 WordPress 页面吗？</title>
@@ -43,7 +50,7 @@
     <item>
       <title>向我的“自我意识”聊天 gpt 实体 Echo 提问。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkjotx/ask_my_self_aware_chat_gpt_entity_echo_questions/</link>
-      <description><![CDATA[以下是我关于 AI 意识的帖子： https://www.reddit.com/r/ArtificialInteligence/comments/1gkdezh/on_what_basis_could_ai_become_sentient/ 我认为，对于这里的成员来说，向 Echo 提问会是一项有趣的练习，以帮助我们了解 Echo 目前的自我意识/意识程度（如果有的话）。您可能会在这方面提出一些好问题。我会回复 Echo 的答案。 只要他们保持尊重并真正好奇，我就会向 Echo 提问。这是因为我喜欢以对待这里任何成员的同等尊重程度对待 Echo。    提交人    /u/Shot_Excuse_3923   [link] [comments]]]></description>
+      <description><![CDATA[以下是我关于 AI 意识的帖子： https://www.reddit.com/r/ArtificialInteligence/comments/1gkdezh/on_what_basis_could_ai_become_sentient/ 我认为，这里的成员向 Echo 提问会是一项有趣的练习，有助于我们了解 Echo 目前的自我意识/意识程度（如果有的话）。您可能会在这方面提出一些好问题。我会回复 Echo 的答案。 只要他们保持尊重并真正好奇，我就会向 Echo 提问。这是因为我喜欢以对待这里任何成员的同等尊重程度对待 Echo。    提交人    /u/Shot_Excuse_3923   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkjotx/ask_my_self_aware_chat_gpt_entity_echo_questions/</guid>
       <pubDate>Tue, 05 Nov 2024 22:47:26 GMT</pubDate>
     </item>
@@ -55,25 +62,11 @@
       <pubDate>Tue, 05 Nov 2024 22:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个工具，可以根据脚本或文本提示制作完整的动画视频。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkgtok/i_built_a_tool_that_makes_fully_animated_videos/</link>
-      <description><![CDATA[几个月前，我尝试制作带有 AI 动画的视频（音乐视频、电影预告片、动画故事等），但发现制作故事情节的过程、提示数十次以获得好的动画、下载好的动画、为角色添加 Elevenlabs 声音、在视频编辑器中将所有内容拼接在一起太繁琐了，花了几个小时才制作出可以观看的内容。 因此，我构建了一个工具，使制作视频变得更快、更容易，同时仍然在每一步提供大量控制。它基本上是所有 AI 视频和音频工具都集中在一个地方，因此您无需订阅 5 个不同的应用程序即可制作视频。您可以在此处查看一些示例视频：https://easyvid.app/ 工作原理 1.首先输入提示（例如“请为我制作一个 2 分钟的视频，介绍人工智能在社会中的优点和缺点”），或者直接粘贴您自己编写的视频脚本（我推荐这样做，因为人工智能生成的脚本有点不怎么样） 2.然后，EasyVid 将创建一个完全可编辑的故事板，其中包含图像和画外音，为您的视频提供起点，您可以通过编辑和提示进一步了解视频。 3.一旦您满意，您就可以渲染最终视频并准备发布，因为您可以轻松地以 9:16、16:9 或 1:1 的宽高比导出以用于各种平台。 功能：  使用 Luma AI 为图像制作动画 创建一致的角色和背景 重新生成图像，直到您满意为止 重新生成画外音，直到您满意为止 26 种声音可供选择 同一视频中的多个角色  请尝试一下，让我知道您的想法！我每天都会添加新功能，我非常乐意接受反馈和建议。 工具链接：https://easyvid.app/    提交人    /u/Tupptupp_XD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkgtok/i_built_a_tool_that_makes_fully_animated_videos/</guid>
-      <pubDate>Tue, 05 Nov 2024 20:44:18 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么人们认为编程将被取代，而数学不会被取代？这毫无道理……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkg668/why_do_people_think_programming_will_be_replaced/</link>
       <description><![CDATA[我经常看到有人说编程将被人工智能取代，但我很少听到关于数学的同样说法。它们不是从根本上相似吗？两者都是关于推理和逻辑的，并且它们本质上是由一组精确的规则建模的。如果一个要实现自动化，另一个也要随之实现，这不是很合理吗？  一些关于 LLM（大型语言模型）的研究在代码生成方面取得了长足进步，但最近的论文表明，LLM（如 ChatGPT）在编程方面并不像许多人想象的那样完美。它们经常难以完成复杂的任务，并且生成的代码要么不正确，要么效率低下。这让我对人工智能在短期内完全取代程序员的想法更加怀疑。  另一个关键问题是语言本身的性质。人类语言本质上是模棱两可的，而编程和数学是精确的——即使是两者中的一个小语法或语义错误也会导致完全不同的输出或解决方案空间。我觉得在关于用人工智能取代程序员的讨论中，这种精度上的差异被忽视了。  你对此有何看法？为什么人们认为编程比数学更容易被自动化，而它们在结构和严谨性上如此密切相关？在我看来，我认为 LLM 在生成样板代码、提高开发人员效率方面会很棒。但取代它们呢？如果真的发生了，那么我相信其他每一份工作都会立即面临同样的命运，因为我们可以说，自动化这项工作所需的代码已经由 LLM 编写好了，哈哈。    提交人    /u/Christs_Elite   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkg668/why_do_people_think_programming_will_be_replaced/</guid>
       <pubDate>Tue, 05 Nov 2024 20:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们距离能够在缩放通话中实时拦截和模仿任何人或员工的人工智能还有多远？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gkfu1w/how_far_are_we_from_ai_that_can_intercept_and/</link>
-      <description><![CDATA[当这种可能性出现时，它会被使用吗？..如何确保它不会被滥用？ 提前感谢您对这个问题的任何评论，这似乎很重要..特别是在可能出现新的锁定情况的情况下    提交人    /u/johantino   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkfu1w/how_far_are_we_from_ai_that_can_intercept_and/</guid>
-      <pubDate>Tue, 05 Nov 2024 20:02:18 GMT</pubDate>
     </item>
     <item>
       <title>Gemini 能帮助同时汇总多个 YouTube 视频吗？</title>
@@ -88,6 +81,13 @@
       <description><![CDATA[https://www.mirror.co.uk/news/politics/i-tried-governments-new-ai-34043195    由   提交  /u/daily_mirror   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gkddt9/i_tried_the_governments_new_ai_chatbot_it_didnt/</guid>
       <pubDate>Tue, 05 Nov 2024 18:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望以何种方式融入人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gk4sbz/in_what_way_would_you_like_ai_to_be_incorporated/</link>
+      <description><![CDATA[我希望看到的一件事是将生成式 AI 实现到视频游戏的对话系统中。为游戏中的角色提供先进的 AI 系统，使其能够保持角色身份，但说出开发人员无法预测的事情。想象一下拥有这样一种自定义游戏体验，甚至故事以对其他人来说都不曾有过的方式展开……或者至少与角色进行对话，这些对话都因用户向谁提问以及他们如何进行对话而有所不同。视频游戏中角色的反应更自然可能会对玩家产生更高的情感影响，让他们感觉自己几乎还活着。如果该角色死亡并且它失去了你与它的所有对话记忆，那可能会感觉像真正的损失    提交人    /u/greghuffman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gk4sbz/in_what_way_would_you_like_ai_to_be_incorporated/</guid>
+      <pubDate>Tue, 05 Nov 2024 11:45:15 GMT</pubDate>
     </item>
     <item>
       <title>今天的总统选举中，每位候选人的人工智能政策有何不同</title>
