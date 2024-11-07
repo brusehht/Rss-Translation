@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Nov 2024 12:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 15:15:13 GMT</lastBuildDate>
+    <item>
+      <title>我为搜索引擎创建了一个公共域数据库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</link>
+      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译而来。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:06:31 GMT</pubDate>
+    </item>
     <item>
       <title>向欧洲议会提交的“关于在所有欧盟国家的公共行政部门实施欧盟 Linux 操作系统”的请愿书</title>
       <link>https://www.reddit.com/r/opensource/comments/1glo8tv/petition_at_the_european_parliament_on_the/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿！我打算开源一个我最近一直在研究的工具。这是一个使用自然语言与网站交互的框架。 browser.click(&quot;sign up button&quot;) 您无需查找元素的 css 选择器或 xpath，只需使用简单的提示描述元素即可检索它们。想象一下具有 LLM 功能的剧作家。除了检索元素之外，您还可以以所需的格式从网站中提取数据。使用提示、JsonSchema 或 Pydanctic BaseModel 指定格式，然后您就可以根据需要获取数据。 Github：https://github.com/dendrite-systems/dendrite-python-sdk 我还构建了一个 chrome 扩展，以便能够存储您自己浏览器中的会话，以便能够在具有身份验证的网站上使用该框架。 我对如何开源该软件包有一些考虑，我将不胜感激任何意见。由于该项目现在的结构是，有一个用 python 编写的服务器可以处理所有 HTML 解析和 LLM 逻辑，并且 python sdk 使用页面的 html 和屏幕截图向其发送请求。我原本打算将这两个组件合并为一个，但问题是构建 typescript 变体会很困难。也希望获得有关最佳实践和思考内容的提示！    提交人    /u/rivernotch   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gkzjfs/open_sourcing_a_framework_for_interacting_with/</guid>
       <pubDate>Wed, 06 Nov 2024 14:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoLink：为浏览器地址栏添加可预测的命令</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</link>
-      <description><![CDATA[      我的第一个开源 + 自托管项目。希望你们喜欢它！    由   提交  /u/PuzzleheadedCollar27   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</guid>
-      <pubDate>Wed, 06 Nov 2024 12:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
