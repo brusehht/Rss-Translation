@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Nov 2024 18:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 21:13:39 GMT</lastBuildDate>
+    <item>
+      <title>Chipster – 我的 React 多值输入开源解决方案（内有 GitHub 链接）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gmsd2r/chipster_my_opensource_solution_for_multivalue/</link>
+      <description><![CDATA[大家好！我想分享一个我一直在做的项目，叫做 Chipster——一个灵活、可组合的 React 多条目输入组件。它旨在让管理标签、多电子邮件输入和其他基于列表的数据变得更容易一些。它肯定仍在进行中，但我认为最好开始把它发布出来，并（希望）从社区获得一些反馈，这些反馈可能会帮助我在此过程中改进它。 GitHub Repo：github.com/MicoBlanc/chipster 我为什么要构建 Chipster？ 我一直遇到同样的问题——没有一种简单的方法可以向输入框添加多个值，我们在 Google Drive 等应用中经常看到这种情况。所以，Chipster 诞生了！我希望它易于集成、易于设计，并且足够灵活以处理各种情况，例如：  用于联系表单或邀请的多电子邮件字段 用于内容管理等的标记系统 用于过滤器或调查的多选字段 自定义列表，如活动参与者、任务等。  前端功能 以下是 Chipster 目前提供的功能：  自定义样式：使用 Tailwind 或您自己的 CSS 进行样式设置。 智能自动完成：建议加快数据输入速度。 键盘导航：完全支持键盘，实现可访问性。 灵活验证：字符限制、重复等规则。 浅色/深色主题：内置主题，可与任何应用匹配。  如果您想亲眼看看它的实际效果，我还整理了一些文档和演示。 我非常希望听听您对 Chipster 的使用感受。它是否易于插入项目？样式灵活性是否足以满足前端需求？如果您发现前端逻辑中有任何可以改进或更流畅的地方，我将非常感激您的任何建议！    提交人    /u/Imaginary_Handle_442   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gmsd2r/chipster_my_opensource_solution_for_multivalue/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望开源什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gmqjir/what_you_wish_was_open_sourced/</link>
+      <description><![CDATA[日常工作中有什么事情困扰着你？你希望哪些产品是开源的？你有哪些很酷的想法，但从未实现过？    提交人    /u/No-Contribution8248   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gmqjir/what_you_wish_was_open_sourced/</guid>
+      <pubDate>Fri, 08 Nov 2024 19:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 FPGA 上的 8 位 CPU：FliPGA01（详情见评论）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gmq5hx/my_first_8bit_cpu_on_a_fpga_flipga01_details_in/</link>
+      <description><![CDATA[FLiPGA01 是 Fl​​ip01 的 FPGA 实现，Flip01 是最初在 Logisim 中设计的简单 8 位 CPU。 该项目完全免费，并在 GitHub 上开源。 非常感谢！    提交人    /u/Training_Impact_5767   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gmq5hx/my_first_8bit_cpu_on_a_fpga_flipga01_details_in/</guid>
+      <pubDate>Fri, 08 Nov 2024 18:58:57 GMT</pubDate>
+    </item>
     <item>
       <title>git ls：列出本地 git 存储库及其状态</title>
       <link>https://www.reddit.com/r/opensource/comments/1gmp3t6/git_ls_list_local_git_repos_and_their_status/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>我为搜索引擎创建了一个公共域数据库</title>
       <link>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</link>
-      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译而来。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</guid>
       <pubDate>Thu, 07 Nov 2024 15:06:31 GMT</pubDate>
     </item>
@@ -78,37 +99,16 @@
     <item>
       <title>为您的文档、网站、项目等提供开源插图。</title>
       <link>https://www.reddit.com/r/opensource/comments/1glnque/open_source_illustrations_for_your_docs_website/</link>
-      <description><![CDATA[嘿， 我刚刚发布了我几年前在电脑上的插图。 我确实使用最新的Bootstrap在Jekyll中构建了所有内容，源代码、预览和网站可在此处获得：https://illustrations.saas-ui.dev 也许有人会发现它对文档或技术网站有用。免费。 谢谢， Tomasz    提交人    /u/owczar1981   [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 我刚刚发布了我几年前在电脑上的插图。 我确实用最新的Bootstrap在Jekyll中构建了所有内容，源代码、预览和网站可在此处获得：https://illustrations.saas-ui.dev 也许有人会发现它对文档或技术网站有用。免费。 谢谢， Tomasz    提交人    /u/owczar1981   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glnque/open_source_illustrations_for_your_docs_website/</guid>
       <pubDate>Thu, 07 Nov 2024 10:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>Redis 简报：“开源许可已被破坏。我们该如何修复它？”</title>
+      <title>Redis 简报：“开源许可已损坏。我们该如何修复它？”</title>
       <link>https://www.reddit.com/r/opensource/comments/1glmof5/redis_newsletter_open_source_licensing_is_broken/</link>
       <description><![CDATA[Redis 在分叉后如此绝望： “开源许可是否需要修复？维护开源软件的开发者和公司如何保护自己免受大型科技公司的侵害？这些公司通过转售他们的软件赚取数百万美元，却没有为社区做出太多贡献？ 我们的首席执行官 Rowan Trollope 受邀参加 TechCrunch Disrupt 的小组讨论，与 Docker 首席执行官 Scott Johnston 和 Accel Ventures 合伙人 Casey Aylward 一起讨论这些问题及其他问题。以下是他所说的话：“如果一家公司正在考虑开源，那么他们在某个时候就会遇到麻烦——那时你想将你的产品货币化并保护它免受具有压倒性优势的垄断竞争对手的侵害，如谷歌、亚马逊等。在某个时候，你会意识到这种商业模式已经崩溃，因为其他人可以拿走你的代码并发布它。” Trollope 接着说，大型科技公司能够“大规模地欺骗整个行业”它如何使用开源软件——因为官方对什么是开源、什么不是开源的定义在制定时并没有考虑到超大规模时代的挑战。 观看整个小组的有趣讨论，了解如何解决开源软件维护者面临的问题，以及围绕开源建立业务的初创公司应该做哪些准备。&quot;    提交人    /u/EyedApproximation   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glmof5/redis_newsletter_open_source_licensing_is_broken/</guid>
       <pubDate>Thu, 07 Nov 2024 09:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>最喜欢的 FOSS CRM 软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glks05/favorite_foss_crm_software/</link>
-      <description><![CDATA[您更喜欢哪款 FOSS CRM 软件？为什么它是您的最爱？您的想法是什么？提前致谢    提交人    /u/CryptoNiight   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glks05/favorite_foss_crm_software/</guid>
-      <pubDate>Thu, 07 Nov 2024 07:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些许可证 + 如何为利基项目捐赠/赞助？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</link>
-      <description><![CDATA[我在美国。除了我的正常工作之外，我还拥有一家有限责任公司，我在那里从事各种技术工作以赚取一些外快。 我有一个面向小众受众的新项目想法。我想将这个项目作为开源项目提供 - 如果有人最终感兴趣，我希望他们能够贡献想法，并且我想免费向其他人提供这个项目。同时，如果有人欣赏这个项目，我希望能够接受捐赠。 我知道如何将赞助商添加到 GitHub。我还考虑在应用程序本身中添加一个捐赠选项。但如果有人分叉了这个项目然后将该捐赠链接换成他们自己的链接，那会感觉非常奇怪。我想邀请大家捐款，但如果我要投入精力，我也想保护自己的作品。 我读完了 https://choosealicense.com/licenses/，并考虑使用 GNU LGPLv3，因为它似乎是折中方案中最严格的，但我不确定它是否能达到目标。 我还想知道要使用什么赞助平台 - 如果有人确实汇款，我最终希望将其与我的商业银行账户绑定。我听说过 Buy me a Coffee、Kofi，每个人都知道 PayPal 和 Patreon，但我从未以这种方式使用过它们中的任何一个。 你在这方面有什么经验，你认为哪种许可证有意义？有没有一个最好的赞助平台？我应该设置几个吗？ （希望他们没有收取高额费用...）    提交人    /u/HelloWorldYourFace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</guid>
-      <pubDate>Thu, 07 Nov 2024 03:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管网络爬虫 Scraperr 正式版 v1.0.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glf4r8/official_v100_release_of_scraperr_the_selfhosted/</link>
-      <description><![CDATA[        由    /u/bluesanoo 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glf4r8/official_v100_release_of_scraperr_the_selfhosted/</guid>
-      <pubDate>Thu, 07 Nov 2024 01:37:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
