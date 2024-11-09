@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Nov 2024 01:02:00 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 09 Nov 2024 03:17:54 GMT</lastBuildDate>
     <item>
       <title>修复一个大项目是一项招聘测试吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmy4dh/is_fixing_a_big_project_a_hiring_test/</link>
@@ -104,9 +104,9 @@
       <pubDate>Fri, 08 Nov 2024 18:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找有关实现可共享日历的建议？</title>
+      <title>正在寻找有关实施可共享日历的建议？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmp793/looking_for_recommendations_on_implementing_a/</link>
-      <description><![CDATA[嗨。我想创建一个日历，任何人都可以轻松将其添加到他们的 Google/Apple/Outlook/任何内容中，并在我添加/编辑事件时更新 对于实现此目标的最佳现代标准或方法，您有什么建议吗？我研究过 webcal 协议，但我读到它不是通用兼容的，也听说过 iCalendar.org。 目标是为我所在城市的活动创建一个网站，该网站将从不同的组织/网站进行解析，因为如果您不关注特定的 insta/fb 帐户或不知道他们的网站，就很难知道城里发生了什么    提交人    /u/cutenakedguy   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我想创建一个日历，任何人都可以轻松将其添加到他们的 Google/Apple/Outlook/任何内容中，并在我添加/编辑事件时更新 您对实现此目标的最佳现代标准或方法有什么建议吗？我研究过 webcal 协议，但我读到它不是通用兼容的，也听说过 iCalendar.org。 目标是为我所在城市的活动创建一个网站，该网站将从不同的组织/网站进行解析，因为如果您不关注特定的 insta/fb 帐户或不知道他们的网站，就很难知道城里发生了什么    提交人    /u/cutenakedguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gmp793/looking_for_recommendations_on_implementing_a/</guid>
       <pubDate>Fri, 08 Nov 2024 18:18:43 GMT</pubDate>
     </item>
