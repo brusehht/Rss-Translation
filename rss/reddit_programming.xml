@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 10 Nov 2024 03:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 06:18:07 GMT</lastBuildDate>
     <item>
       <title>迈向代码的无限上下文</title>
       <link>https://www.reddit.com/r/programming/comments/1gnr55h/toward_infinite_context_for_code/</link>
@@ -90,13 +90,6 @@
       <pubDate>Sat, 09 Nov 2024 17:44:30 GMT</pubDate>
     </item>
     <item>
-      <title>邀请初级开发人员参与代码审查</title>
-      <link>https://www.reddit.com/r/programming/comments/1gnf0yf/invite_junior_developers_to_code_reviews/</link>
-      <description><![CDATA[  由    /u/RobinCrusoe25  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gnf0yf/invite_junior_developers_to_code_reviews/</guid>
-      <pubDate>Sat, 09 Nov 2024 17:22:18 GMT</pubDate>
-    </item>
-    <item>
       <title>现代Java书籍</title>
       <link>https://www.reddit.com/r/programming/comments/1gnew38/modern_java_book/</link>
       <description><![CDATA[本书旨在从头开始教授 Java 语言。 您会发现内容大量使用了最近发布的和目前的预览功能。这是故意的，因为如果没有 Java 21 以上版本，大部分主题排序都无法正常工作。 目前我有几个关键领域需要帮助：  写作挑战。大多数早期部分都有学生可以做的挑战，以测试他们对所涵盖主题的理解并进行练习。我已将注意力从这些方面转移开，以便在本书的主要内容上取得更多进展。任何帮助都将不胜感激。 主题。很多章节都……平淡无奇。纯技术性。我发现，当我有想象力来“主题化”主题时，它们会变得更高质量，整体上也更具吸引力。看到最近喜欢的动漫，认为你可以让数学章节使用其中的角色吗？试试看吧！ 修复机械问题。我没有编辑，也不经常校对。如果您发现我的语法有机械错误，或者发现主题排序方式有问题，我欢迎您进行修复。  值得注意的是，我暂时还不想对主要章节内容开放贡献。这样做的缺点是进度较慢，但​​优点是结果更连贯。 我的主要目标是  正确排序主题。我的意思是，每个主题的先决条件都应该在前面的主题中得到介绍。虽然“课程 1：继承”在这方面显然是错误的，但有些事情更微妙。 成为其他人的模板。这是一本书。不是每个人都喜欢书，有些人喜欢 youtube 视频，有些人喜欢价格过高的 udemy 课程，有些人上大学，等等。每个人都有不同的学习路径。我希望这对任何想要制定更先进的 Java 课程的人都有用，并希望模糊的顺序（我认为它优于过去几年用 Java 制作的内容）能够贯彻到底。 写作时要像最新的 Java 不是新的一样。很明显，一本书是在 Java 8 之前写的，因为它总是有新的补充，并带有“附录：Java 8 中的全新内容”。但是，语言特性的引入顺序并不是教授它们的好顺序。你必须假装 Java 23+ 一直是 Java。在 switch 表达式之前展示糟糕的 C 风格 switch 语句真的有意义吗？ 写作时要像面向对象编程、函数式编程等词不存在一样。虽然我理解这些都有定义，并且是有用的概念，但过早引入它们似乎会导致教条、拒绝该教条或两者兼而有之。实际上，它们都不是理解我们所谓的“面向对象”或“功能性”技术的机制和动机所必需的。它们当然不能作为向每个类添加 getter 和 setter 的理由。  我的短期目标是让匿名主类在稳定的 Java 版本中“准备就绪”。这是我们可以开始的点：  让实际的学生完成它，而无需解释 --enable-preview 机制。 使用主题顺序构建其他类型的非书籍资源，如视频、课程、项目等。 说服实际教师从“对象优先”转变为“面向对象”到一些不那么疯狂的事情。  我还没有集成 println 或 readln，但最终会这样做。    提交人    /u/bowbahdoe   [link] [comments]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/katafrakt  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gneudk/booleans_are_a_trap/</guid>
       <pubDate>Sat, 09 Nov 2024 17:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的简单知识管理和时间跟踪系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1gndxbg/my_simple_knowledge_management_and_time_tracking/</link>
+      <description><![CDATA[  由    /u/henrik_w  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gndxbg/my_simple_knowledge_management_and_time_tracking/</guid>
+      <pubDate>Sat, 09 Nov 2024 16:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
