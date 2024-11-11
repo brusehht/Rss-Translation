@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 11 Nov 2024 18:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 21:12:59 GMT</lastBuildDate>
+    <item>
+      <title>严肃的问题：VRAM 的数量对于视频编辑真的那么重要吗？Nvidia 一直是首选吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gp1jop/serious_question_is_the_amount_of_vram_really/</link>
+      <description><![CDATA[我计划在未来几个月内购买一台 PC。它主要用于视频编辑、KI 工作和图像编辑。我仍处于起步阶段，还是个完全的菜鸟，但我希望尽可能专业地开始，并在我的视频中使用尽可能多的/好的特效。 我可能会使用 Davinci Resolve Studio 进行视频编辑，使用 Photoshop 之类的程序进行图像编辑。以及 Chatgpt 和 KI 语音创作之类的东西。Nvidia 会是最终的选择吗？我考虑过为我的可能配置使用 2 个 GPU：  Nvidia 4070 Ti Super 16GB ~ 800 欧元 AMD 7900 XTX 24GB ~ 900 欧元  两者都有足够的 VRAM，但 AMD 的 VRAM 显然多 8 GB，而价格仅需额外约 100 欧元。但我听说 NVIDIA 是视频编辑的更好选择，因为它有更好的程序支持和某些功能？？而 AMD GPU 没有或不太擅长。 当然我的预算有限。我已经计划在 PC 上花费大约 2000 欧元 - 2500 欧元，但我能省的越多，显然越好 :)。这些 16GB 或更大的“高端”GPU 真的有必要吗？如果你想实现这个目标，我说我想做什么？或者 12GB GPU 就足够了。它必须是 NVIDIA 吗，还是 AMD 现在也是一个不错的选择？ * 我的其他 PC 规格将在这个范围内：48-64GB DDR5 RAM、Intel Core Ultra 7 265k、2-4 TB NVMe M.2 SSD，具有像三星 EVO 990 pro 这样的高写入和读取速度。    提交人    /u/Roy_Ellison   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gp1jop/serious_question_is_the_amount_of_vram_really/</guid>
+      <pubDate>Mon, 11 Nov 2024 20:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere - 助理编辑 - 获得的资产、可变帧速率、项目经理怪癖</title>
+      <link>https://www.reddit.com/r/editors/comments/1gozt4i/premiere_assistant_editing_acquired_assets/</link>
+      <description><![CDATA[大家好， 作为 Premiere 的 AE，我喜欢与 Post Sups 讨论的一件事是 UGC（用户生成内容）或档案或任何非原始相机母版的获取媒体。 我有两种不同的方法来摄取这些东西： 第一种方法： 通过 Shutter Encoder 运行所有内容，并在 Shutter Encoder 的设置中设置“设置帧速率模式”到“恒定帧速率”。 我这样做是因为 Premiere 中的可变帧速率在每个步骤中都是一团糟： -它阻碍了播放。 -来自 VFR 媒体的代理甚至无法在 Premiere 中播放。 -VFR 在联机期间也会变得有点不可预测。 因此，我将 UGC 媒体转码为与原始剪辑相同的分辨率，并转码为与 UGC 剪辑固有编解码器类似的编解码器 - 通常只是匹配的比特率 H264。 我甚至不费心去做 ProResLT，因为它通常对我收到的源来说有点过度，而且我不想占用磁盘空间。 但是，显然为了确保离线编辑期间的良好性能，我将这些恒定帧速率转码代理到 ProRes422Proxy，因此它是一个 IntraFrame 编解码器，播放效果很好。 第二种方法： 我提取 UGC 的另一种方法实际上是通过 Media Encoder 对所有 UGC 进行转码，并将帧速率强制为项目的交付规格。 我这样做的原因是我在 Premiere 的项目管理器功能中发现了一些我非常不喜欢的东西。 听我说完：假设您有一个离线编辑序列，您已准备好将其转换为 Color，并且假设此序列中有混合帧速率。 我做的第一件事是导出参考图片，以确保在线有一个真实的来源，可以了解事物在他们那边的外观和声音。 通常，接下来我要做的是使用以下设置的句柄进行合并和转码： 源 = 单个剪辑 格式：QuickTime 预设：匹配源 - Apple ProRes 422 HQ。 注意：添加 24 帧手柄，或其他任何内容。 但是！此时，我发现 Premiere 存在一些非常严重的缺陷。 完成合并和转码后，如果您将参考图片叠加在合并和转码序列的最顶部轨道上（中间裁剪 + 参考图片上使用黑白滤镜，以检查参考导出与合并和转码序列之间的图片不匹配）并浏览该序列 - 您会注意到混合帧速率上的任何帧滑动和帧不匹配。 同样奇怪的是，此时，即使您将帧速率强制为序列的帧速率并包含句柄 - 仍然会发生帧滑动。 并且，仍然奇怪的（但是一种解决方案）是，此时，如果您将帧速率强制为序列的帧速率并且不使用任何句柄 - 帧滑动将消失，并且您的参考图片将与您的合并和转码序列逐字匹配，直到帧。 现在，让我们看一个略有不同的翻转方法。 假设我们不需要合并和转码，因为调色师可能使用与编辑部相同的共享存储。 在这种情况下，您可能只会将 XML 发送到 Resolve。 好吧，在这种情况下，如果 XML 中存在混合帧速率，如果您根据 Resolve 时间轴检查 Resolve 中的参考图片 - 您将在混合帧速率素材上看到帧滑动。 但是，如果所有媒体都是 Premiere 时间轴的帧速率 - 您将不会在 Resolve 中的 XML 中看到任何帧滑动。 所以，经过整个冗长的解释，这就是我要将所有 UGC、档案和获取的媒体转码为 Premiere 时间轴的帧速率的原因。但是，我知道 Post 中的人们会感到紧张，并且对改变 Source/Master 的某些元素犹豫不决。 很想知道其他 AE 对此的想法和观察。此外，Avid AE 是否在将资产转码为 CFR 后再将其导入 Avid。当我在 Avid 中时，我会这样做。但是，我确实觉得它在 Avid 中播放得更好一些？    提交人    /u/fly_swatter_friendly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gozt4i/premiere_assistant_editing_acquired_assets/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:50:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>批量字幕卡和片尾字幕</title>
+      <link>https://www.reddit.com/r/editors/comments/1goz1g0/batch_title_cards_and_credits/</link>
+      <description><![CDATA[嗨， 我有几百个视频，如果可能的话，我想通过批处理作业为每个视频添加三个元素。 给定内容和带有信用的文本文件： 我想在每个视频的末尾添加相同的 10 秒剪辑。 我想在每个视频的开头添加相同的 10 秒剪辑。 开头的 10 秒剪辑的一部分是黑屏，我想在其中插入带有视频标题和其他几段简短文本的文本。 有没有可以在批处理作业中执行此操作的视频编辑软件？    提交人    /u/Olapeople13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1goz1g0/batch_title_cards_and_credits/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的缓存驱动器的大小是多少？</title>
+      <link>https://www.reddit.com/r/editors/comments/1goy0vq/what_are_your_sizes_of_your_cache_drives/</link>
+      <description><![CDATA[  由    /u/donutrusk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1goy0vq/what_are_your_sizes_of_your_cache_drives/</guid>
+      <pubDate>Mon, 11 Nov 2024 17:39:28 GMT</pubDate>
+    </item>
     <item>
       <title>尽管我上次是在黑色星期五购买的，但 Adob​​e 订阅会在黑色星期五之前续订吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gow6a2/adobe_subscription_will_renew_before_black_friday/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>当你加入工会时，非工会的工作是如何进行的？</title>
       <link>https://www.reddit.com/r/editors/comments/1goq8g5/how_does_nonunion_work_uh_work_when_youre_union/</link>
-      <description><![CDATA[我之前在这里发过帖子，说我在从事叙事工作和音乐视频之间犹豫不决，感谢大家的帮助！ 似乎这两条路都涉及某种形式的非工会项目工作；我听说要进入工作室叙事工作，你必须积累从事小型非工会叙事项目的经验，我认为音乐视频编辑是非工会的。 那么，如果我以工会 AE 的身份从事非工会工作，需要遵守哪些协议和了解哪些事项？ 据我所知，我不会为工会保险积累时间，我是否必须协商我的工资率？我认为这些事情取决于具体的演出和制作，但我会听从你们的集体专业知识！ TIA！    提交人    /u/Forward_Ad_8391   [链接] [评论]]]></description>
+      <description><![CDATA[我之前在这里发过帖子，说我在从事叙事工作和音乐视频之间犹豫不决，感谢大家的帮助！ 似乎这两条路都涉及某种形式的非工会项目工作；我听说要进入工作室叙事工作，你必须积累从事小型非工会叙事项目的经验，我认为音乐视频编辑是非工会的。 那么，如果我以工会 AE 的身份从事非工会工作，需要遵守哪些协议和了解哪些事项？ 据我所知，我不会为工会保险积累时间，我是否必须协商我的工资率？我认为这些事情取决于具体的演出和制作，但我听从你们的集体专业知识！ TIA！    提交人    /u/Forward_Ad_8391   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1goq8g5/how_does_nonunion_work_uh_work_when_youre_union/</guid>
       <pubDate>Mon, 11 Nov 2024 11:38:53 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>询问专业人士 - 每周 - 2024 年 11 月 11 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1gootc1/ask_a_pro_weekly_monday_mon_nov_11_2024_no_stupid/</link>
-      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域的工作，那么您的问题应该放在这里 什么样的问题适合这个帖子？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将我的费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。 欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么它是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域的工作，那么您的问题应该放在这里 什么样的问题适合这个帖子？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将我的费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gootc1/ask_a_pro_weekly_monday_mon_nov_11_2024_no_stupid/</guid>
       <pubDate>Mon, 11 Nov 2024 10:00:20 GMT</pubDate>
     </item>
@@ -55,9 +83,9 @@
       <pubDate>Mon, 11 Nov 2024 01:42:36 GMT</pubDate>
     </item>
     <item>
-      <title>对于那些曾经剪辑过大预算电影预告片的人来说……您的剪辑流程是怎样的？</title>
+      <title>对于那些曾经编辑过大预算电影预告片的人来说……您的流程是怎样的？</title>
       <link>https://www.reddit.com/r/editors/comments/1gog7xr/for_those_who_have_edited_big_budget_movie/</link>
-      <description><![CDATA[对于那些为大型发行编辑和交付电影预告片的人来说，流程是怎样的？您是否会收到整部电影，以便您仔细查看以找到最佳时刻，还是只提供几个重要的场景供您剪辑？您是否提供了一个可以打动人的软脚本？任何信息都将不胜感激！    提交人    /u/Concerned_Kanye_Fan   [link] [评论]]]></description>
+      <description><![CDATA[对于那些为大型发行编辑和交付电影预告片的人来说，流程是怎样的？您是否会收到整部电影，以便您仔细查看以找到最佳时刻，还是只提供几个重要的场景供您剪辑？您是否提供了一个可以打动人的节奏脚本？任何信息都将不胜感激！    提交人    /u/Concerned_Kanye_Fan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gog7xr/for_those_who_have_edited_big_budget_movie/</guid>
       <pubDate>Mon, 11 Nov 2024 01:09:16 GMT</pubDate>
     </item>
@@ -74,34 +102,6 @@
       <description><![CDATA[使用 Remix Tool 重新混合音轨后，我无法调整其音量。即使我将音量降低 30db 以上，声音听起来仍然一模一样。我尝试在重新混合之前调整音量，但仍然遇到同样的问题 - 我认为它默认为音轨的原始音量。 有没有人遇到过这种情况？如果有，您能建议如何修复它吗？    提交人    /u/dainamo81   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1godto2/remix_tool_in_premiere_volume_issues/</guid>
       <pubDate>Sun, 10 Nov 2024 23:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些在 Resolve 中制作日报的人来说，这是一个快速导入工具</title>
-      <link>https://www.reddit.com/r/editors/comments/1go4z0g/quick_import_tool_for_those_of_us_making_dailies/</link>
-      <description><![CDATA[只是分享一些我为自己的 DIT/dailies 工作流程编写的内容，我需要将相机胶卷的全部内容导入到 Resolve 箱中，并为每个相机胶卷创建一个时间线。 “将文件夹和子文件夹导入媒体池并创建箱”非常适合 Alexa 35，但对于像 Red 或 Venice 这样具有更复杂文件夹结构的相机，手动制作 bin、导入剪辑、创建新的时间线等会花费更多时间。 因为我需要经常这样做，所以我制作了一个 Finder Quick Action，可以让您直接从 Finder 导入多个相机胶卷，只需两次点击即可自动为您设置 bin 结构和时间线。 希望有人觉得这个有用！ Github 下载链接 请注意，这只能在 MacOS 和 Studio 版本的 Resolve 上运行。    提交人    /u/avidresolver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1go4z0g/quick_import_tool_for_those_of_us_making_dailies/</guid>
-      <pubDate>Sun, 10 Nov 2024 16:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现这个音频技术？</title>
-      <link>https://www.reddit.com/r/editors/comments/1go26g3/how_to_achieve_this_audio_technique/</link>
-      <description><![CDATA[大家好， 我一直在看那些 New Balance “Grey Days” 广告，它们真的很特别。虽然他们可能使用模拟设备进行声音设计，但我希望在 DaVinci Resolve 中重现那种低保真音质。颗粒状的 16mm 外观与他们糟糕的音频处理完美搭配。 有人使用 Fairlight 或 Resolve 中的插件实现这种降级的温暖声音吗？可能是通过 EQ 曲线、位压缩或一些磁带模拟来实现的吗？ 谢谢！    提交人    /u/Connect-Temporary954   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1go26g3/how_to_achieve_this_audio_technique/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Samsung T7 SSD 删除文件时存储未变为“可用”</title>
-      <link>https://www.reddit.com/r/editors/comments/1go1q9u/storage_does_not_become_available_when_deleting/</link>
-      <description><![CDATA[我使用的是 2021 Mac M1（16GB Ram），并使用三星 T7 SSD 来存储素材和编辑。 问题是从三星 T7 删除文件时，“可用”存储保持不变。我试过弹出它，然后重新插入。还是一样。 还有其他人使用这款 SSD 或遇到过同样的问题吗？    提交人    /u/6marting9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1go1q9u/storage_does_not_become_available_when_deleting/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:22:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要同时从多个视频（数百个视频）添加音频。有什么建议，哪个程序最好？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gnztti/need_to_extra_audio_from_multiple_videos_at_once/</link>
-      <description><![CDATA[我正在做一个项目，需要从数百个不同的 20 分钟视频中提取音频。 有人对最轻松的方法有什么建议吗？理想情况下，我不必使用 Quicktime Player 等一次手动执行一次。 谢谢    提交人    /u/thepkmncenter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gnztti/need_to_extra_audio_from_multiple_videos_at_once/</guid>
-      <pubDate>Sun, 10 Nov 2024 12:42:24 GMT</pubDate>
     </item>
     <item>
       <title>我对我的客户感到很失望</title>
