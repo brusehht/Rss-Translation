@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 01:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 03:18:52 GMT</lastBuildDate>
+    <item>
+      <title>3 岁的开发人员应该参加哪些有用的课程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq2d6s/what_are_some_useful_courses_a_developer_with_3/</link>
+      <description><![CDATA[我想到要测试，但我想听听更多意见     提交人    /u/Intelligent_Will_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq2d6s/what_are_some_useful_courses_a_developer_with_3/</guid>
+      <pubDate>Wed, 13 Nov 2024 02:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>带身份验证的博客技术栈建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq1wdp/suggestion_for_tech_stack_for_blog_with/</link>
+      <description><![CDATA[我正在尝试为非技术人员设计一个博客。Wordpress 曾经是这方面的首选解决方案，但我非常希望有一个非 Wordpress 的自托管实例无头 CMS，并且前端使用 Nuxt 构建。一些博客文章将隐藏在登录后，有些可能隐藏在付费墙后面。我正在考虑使用 Stripe 来处理付款。但是哪个无头 CMS 内置了身份验证，以便我可以轻松集成支付功能？CMS 还需要有一个非常易于使用的仪表板，以便即使是非常不懂技术的用户也可以轻松编写和格式化内容（文本和图形）并发布它。    提交人    /u/IWillBiteYourFace   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq1wdp/suggestion_for_tech_stack_for_blog_with/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>从零开始的电子商务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq1j9v/ecommerce_from_scratch/</link>
+      <description><![CDATA[嗨！ 我正在创业，想建立一个网上商店。最初，我会使用 Shopify 来提高速度，但从中期来看，我想在空闲时间自己开发它。我有 3 年的软件工程师经验，精通前端、后端、服务器和相关领域。 我想使用的工具：  前端：Angular 后端： Golang 支付处理： MercadoPago 或类似程序，因此我不会直接处理信用卡详细信息以避免 PCI。基本上使用外部结帐。  我主要关心的是结帐流程： 用户通过购物车或直接从产品页面选择他们想要购买的所有产品后，我不知道生成此采购订单令牌的步骤是什么。 我想象会发生什么：  客户端（Angular）通过端点向后端发送请求以生成采购订单令牌。 后端接收请求并使用私钥与支付网关通信以创建订单。 后端将 URL / 令牌返回给客户端进行重定向。 客户端从支付网关重定向到 URL 以完成付款。 如果付款成功，用户将被重定向回我们为此目的定义的视图。 后端在数据库中将购买更新为已完成。  我的问题是：  当客户端请求后端创建订单并接收 URL 时，请求后是否使用直接 JavaScript 重定向？或者后端是否发送客户端本机解释为重定向到支付网关的重定向状态代码？这方面的最佳做法是什么？我找不到任何关于这方面的资源。 在网关处理付款（成功或失败）后，客户端如何重定向回我的网站？在同一流程中，如何捕获请求以在数据库中将订单标记为已付款/失败？支付网关是否将请求发送到我后端的端点，还是应该从客户端处理到后端和数据库？  期待任何建议！    提交人    /u/Psycodream   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq1j9v/ecommerce_from_scratch/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>专注</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq0we1/focusly/</link>
+      <description><![CDATA[      大家好，我只想分享我的新项目，这是一个易于使用且简约的番茄工作法，它被称为 Focusly ❤️ 查看应用程序：https://withfocusly.com/ 欢迎分享任何反馈😁    提交人    /u/Extreme-Ebb3431   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq0we1/focusly/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:07:02 GMT</pubDate>
+    </item>
     <item>
       <title>我的朋友正在参加 GWEB</title>
       <link>https://www.reddit.com/r/webdev/comments/1gq0a65/my_friend_is_taking_the_gweb/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好！我很好奇人们部署网站所使用的不同方法。市面上有很多选择 — 云服务、CI/CD 管道、FTP 等 — 每种方法都有其优点和缺点。 您的部署方法是什么？为什么选择它？您有什么建议或最佳实践吗？谢谢！    提交人    /u/dbot77   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpvmty/what_method_do_you_use_to_deploy_websites_and_why/</guid>
       <pubDate>Tue, 12 Nov 2024 21:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法关闭 Laravel Breeze 中的日志记录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpvarv/cant_turn_off_this_logging_in_laravel_breeze/</link>
-      <description><![CDATA[      尝试了一下，我可能，但我就是搞不清楚如何在 Laravel 中关闭所有这些资产请求日志记录Breeze 项目。我进入了logging.php文件并尝试了几乎所有方法。谷歌也帮不上忙。 我还有其他东西想要注销，但要从15+行多余的垃圾中筛选出我要找的东西真是太麻烦了。 任何帮助都非常感谢！    提交人    /u/PM_ME_YER_BOOTS   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpvarv/cant_turn_off_this_logging_in_laravel_breeze/</guid>
-      <pubDate>Tue, 12 Nov 2024 20:58:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 MJML 和 Python 发送跨电子邮件客户端兼容的电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpukyf/sending_crossemailclientcompatible_emails_with/</link>
-      <description><![CDATA[        提交人    /u/riklaunim   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpukyf/sending_crossemailclientcompatible_emails_with/</guid>
-      <pubDate>Tue, 12 Nov 2024 20:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编码加拿大航空导航栏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpu8lf/how_to_code_air_canada_navbar/</link>
-      <description><![CDATA[嗨，我是一名一年级平面设计专业的学生，​​本学期的期末项目是创建一个网站，我想知道是否有人知道如何编写类似加拿大航空公司的导航栏    提交人    /u/KingdomKyleTV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpu8lf/how_to_code_air_canada_navbar/</guid>
-      <pubDate>Tue, 12 Nov 2024 20:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用内消息 - 全屏宽度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gptss1/in_app_message_full_screen_width/</link>
-      <description><![CDATA[您好， 我正在尝试使用 HTML/CSS 创建应用内消息，我想填充整个屏幕，即 https://www.dropbox.com/scl/fi/xfa8wnclrvflxrh3e7o61/Screenshot-2024-11-12-at-2.50.22-PM.jpeg.png?rlkey=ctamdm8hhbfr6xwqpw7zx2cue&amp;st=gj08p7sr&amp;dl=0 这可能吗？如果可以，有没有人有代码可以分享吗？    由    /u/emily_r_fox 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gptss1/in_app_message_full_screen_width/</guid>
-      <pubDate>Tue, 12 Nov 2024 19:56:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
