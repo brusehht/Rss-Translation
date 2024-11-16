@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 16 Nov 2024 12:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 15:13:57 GMT</lastBuildDate>
     <item>
       <title>终于完成了：周末完成的个人项目 - Netflix 字幕翻译</title>
       <link>https://www.reddit.com/r/opensource/comments/1gsm7n8/finally_completed_a_personal_project_built_over/</link>
@@ -97,18 +97,18 @@
       <pubDate>Fri, 15 Nov 2024 18:46:55 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub - 0xCUB3/wBlock：Safari 的下一代广告拦截器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gs27za/github_0xcub3wblock_the_nextgeneration_ad_blocker/</link>
-      <description><![CDATA[        由    /u/void_const  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gs27za/github_0xcub3wblock_the_nextgeneration_ad_blocker/</guid>
-      <pubDate>Fri, 15 Nov 2024 17:51:36 GMT</pubDate>
-    </item>
-    <item>
       <title>本地 macOS (14+) 视频转录应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1gs0lud/a_local_macos_14_video_transcription_app/</link>
       <description><![CDATA[这是我的第 4 个 OSS macOS 迷你应用，我花了很长时间才让它工作。它可以转录本地视频或粘贴的 YouTube 链接。对于 YouTube，它需要 yt-dlp 才能工作。我正在使用像这样的本地迷你应用优化我的设计师/开发人员工作流程。 Github：https://github.com/nuance-dev/vocal    提交人    /u/sirjoaco   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gs0lud/a_local_macos_14_video_transcription_app/</guid>
       <pubDate>Fri, 15 Nov 2024 16:43:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quicken LifeHub 开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1grykdr/quicken_lifehub_opensource_alternative/</link>
+      <description><![CDATA[https://www.quicken.com/lp/em/exist-pfm/lifehub/w6b 今天上午我刚在我的 feed 中看到这个。Quicken 的新产品。我不是程序员类型——更像是长期、热情的开源用户。我一直在寻找这样的开源解决方案，并希望看到像这样的开源和自托管的东西，既安全又私密——可以隐藏起来，同时使用顶级安全性。有点像 VaultWarden——但更适合这些用例。还有人认为这是一个好主意吗？知道做起来有多难吗？    提交人    /u/609JerseyJack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1grykdr/quicken_lifehub_opensource_alternative/</guid>
+      <pubDate>Fri, 15 Nov 2024 15:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
