@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 18 Nov 2024 06:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 12:29:54 GMT</lastBuildDate>
+    <item>
+      <title>是否可以向比特币地址发送“普通文本”消息（类似 whatsapp）？怎么样？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu36yh/is_it_possible_to_send_a_normal_text/</link>
+      <description><![CDATA[我将介绍一下背景，在非洲，特别是东非，我们有一个流行的支付系统，称为“移动货币”。它涉及通过 USSD 代码将电子货币价值发送/转移到注册电话号码 (mssidn)。当该电子价值被发送时，发送者可以通过文本 (sms) 联系接收者，询问他或她是否收到了相关金额。 简单地说，你能够实现资金的转移，同时也能保持有关各方之间的沟通， 有了这样的背景，我将继续阐述我的查询内容。 假设我有一个接受比特币的在线商店，并希望人们（我的客户）能够通过他们用来发送比特币的同一个钱包联系我。 可以做到吗？怎么做？ 不仅允许两个实体之间直接进行匿名交易，还可能涉及交换消息、订单 ID、退款地址，以及导致协商交易的东西，这些交易可以在 P2P 网络上广播，就像比特币网络一样。 如果我可以向钱包发送消息，我就会知道阅读消息的人是可以访问任何内容的人我发送到该钱包的资金。使用发送者和目的地的公钥来允许交换比特币和短信    提交者    /u/akola-arthur-ali   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu36yh/is_it_possible_to_send_a_normal_text/</guid>
+      <pubDate>Mon, 18 Nov 2024 12:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该修正文档中的拼写错误和语法错误吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu128v/should_i_fix_typos_and_grammatical_errors_in/</link>
+      <description><![CDATA[嗨，我对开源还很陌生，有一个项目我非常有兴趣参与，但我觉得我还没有准备好修复或帮助处理任何代码，所以我希望像大家说的那样从文档开始。他们的文档有很多拼写错误和语法错误。我想知道修复这些错误是否值得，还是会适得其反？谢谢！    提交人    /u/candy_eh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu128v/should_i_fix_typos_and_grammatical_errors_in/</guid>
+      <pubDate>Mon, 18 Nov 2024 09:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Fraction.js 在 JavaScript 中实现精确的十进制数学运算</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu01uf/precise_decimal_math_in_javascript_with_fractionjs/</link>
+      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu01uf/precise_decimal_math_in_javascript_with_fractionjs/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能是开源软件、开放数据、开放知识和开放科学以新方式融合的地方。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gtzvrj/ai_is_where_open_source_software_open_data_open/</link>
+      <description><![CDATA[        由    /u/opensourceinitiative 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gtzvrj/ai_is_where_open_source_software_open_data_open/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:01:02 GMT</pubDate>
+    </item>
     <item>
       <title>歌曲托管电子邮件通知</title>
       <link>https://www.reddit.com/r/opensource/comments/1gtplgi/song_hosting_email_notifications/</link>
@@ -69,46 +97,18 @@
       <pubDate>Sun, 17 Nov 2024 14:31:35 GMT</pubDate>
     </item>
     <item>
+      <title>🚀 AuthSphere：终极 FastAPI 身份验证包 – 立即简化您的后端身份验证！🔐</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gtdu9e/authsphere_the_ultimate_fastapi_authentication/</link>
+      <description><![CDATA[🔑 厌倦了重新发明身份验证轮子？认识 AuthSphere，它是为 FastAPi 构建的开源、易于使用和功能强大的身份验证库，可处理您需要的一切 - 从令牌管理到密码重置和电子邮件 OTP - 一应俱全！ ✨ 使用 AuthSphere，您可以：  🔐 轻松将用户身份验证与 FastAPI 应用集成。 🛠️ 管理安全令牌并轻松处理密码重置。 📧 将 OTP 电子邮件验证 添加到您的工作流程中。 💡 利用简单且可扩展的设计来加快后端开发。  为什么您应该尝试 AuthSphere：  节省时间：不要浪费时间构建自定义身份验证逻辑 - AuthSphere 拥有一切。 专为 FastAPI 构建：旨在以最少的设置顺利集成到 FastAPI 项目中。 开源和免费：您可以使用它、修改它并为它做出贡献！ 👐  🔗 在此处查看 repoe： 👉 GitHub 上的 AuthSphere 🚀 AuthSphere 中有什么新功能？  OTP 电子邮件验证 - 使用一次性密码添加额外的安全层。 令牌管理 - 轻松处理令牌过期、续订等。 简单集成 - 将其放入您的 FastAPI 应用中并快速启动并运行！  您能从中受益吗？  开发人员：如果您正在开发 FastAPI 项目，则需要一个可靠的身份验证系统。 AuthSphere 可以节省您的时间，同时提供安全、强大的解决方案。 贡献者：无论您是希望改进代码库、报告错误还是建议新功能，我们都欢迎并感谢您的意见！👐  👥 让我们一起成长！  用户：如果您正在寻找现成的、可靠的后端身份验证解决方案，请在您自己的 FastAPI 项目中试用 AuthSphere。 贡献者：我们正在积极寻找用户在您自己的项目中测试和使用 AuthSphere。 反馈和想法对于改进此工具至关重要。 贡献者：想要改进 AuthSphere 吗？ 提交问题、提交 PR，或者只是提供反馈以帮助让此工具更好地为所有人使用！💪  🔎 关于我： 👋 嗨，我是 Shashank，一个充满激情的开发者，对后端开发和开源贡献有着浓厚的兴趣。我为构建 AuthSphere 付出了很多努力，并且一直在寻找欣赏敬业且充满热情的开发者的潜在雇主或招聘组织。如果您是一个重视成长、创新和协作的人，请随时联系我 - 我很乐意与您联系！ 🚀 加入简化后端身份验证的运动，以 FastAPI 方式！ 寻找新挑战或合作？让我们联系起来！🤝 #FastAPI #Python #OpenSource #BackendDevelopment #AuthSphere #OAuth2 #WebDev    提交人    /u/Comprehensive-Lie706   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gtdu9e/authsphere_the_ultimate_fastapi_authentication/</guid>
+      <pubDate>Sun, 17 Nov 2024 13:43:52 GMT</pubDate>
+    </item>
+    <item>
       <title>RDM 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gtc6rz/rdm_alternative/</link>
       <description><![CDATA[是否有任何 RDM 的开源替代品，我可以在其中为其他团队成员共享数据库？;) https://devolutions.net/remote-desktop-manager/    提交人    /u/d4p8f22f   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gtc6rz/rdm_alternative/</guid>
       <pubDate>Sun, 17 Nov 2024 12:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该选择什么许可证？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gtc0zh/what_license_should_i_choose/</link>
-      <description><![CDATA[大家好， 我分叉了一个 Apache 2.0 许可证存储库，该存储库已闲置多年。我花了 6 个月的时间对其进行改进，并修复错误等。我想根据不同的许可证重新发布修改后的代码（原始代码将根据其要求保留为 Apache 2.0）。我希望它保持开源。我不希望有人分叉它然后将其关闭源代码。我希望它可以自由分叉并用于他们想要的任何目的（包括商业用途），但代码必须保持公开。 是否有任何许可证可以满足所有这些要求？到目前为止，我认为以下 3 个可以做到  GPL AGPL MPL  我倾向于 GPL，因为它可以最大限度地提高自由度和开放性，同时防止专有分叉。 对于完整免责声明，我计划提供该应用程序的托管版本作为 SAAS 产品。它是一个前端包。    提交人    /u/zZurf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gtc0zh/what_license_should_i_choose/</guid>
-      <pubDate>Sun, 17 Nov 2024 11:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以使用 Android 平板电脑作为笔记本电脑的第二个显示器的软件吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gta0e6/software_to_use_android_tablet_as_second_display/</link>
-      <description><![CDATA[我刚听说你可以将 Android 平板电脑用作第二个显示器（非镜像），并使用类似 mountie 的东西将其物理连接到你的笔记本电脑上。很好奇，是否有任何开源项目可以轻松做到这一点？或者如果你碰巧知道硬件的话。    由   提交  /u/TechBasedQuestion   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gta0e6/software_to_use_android_tablet_as_second_display/</guid>
-      <pubDate>Sun, 17 Nov 2024 09:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 DTMF 语音助手会受到欢迎吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gt8c0r/would_an_open_source_dtmf_voice_assistant_be_well/</link>
-      <description><![CDATA[基本上，助手将在树莓派上运行，并在主菜单上操作，所有应用程序都可以通过 A# 调用。 A6 - 天气 A0 - 列出技能 可以使用 B 调用应用内功能。 B4 - 上一首歌曲 B6 - 下一首歌曲 B5 - 播放/暂停 B2 - 喜欢 B8 - 不喜欢 使用 C 配置应用程序。 系统功能为 D（音量、电源）保留    提交人    /u/ki4jgt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gt8c0r/would_an_open_source_dtmf_voice_assistant_be_well/</guid>
-      <pubDate>Sun, 17 Nov 2024 07:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeCAD BIM 更新 26</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gswcyd/freecad_bim_update_26/</link>
-      <description><![CDATA[        提交人    /u/buovjaga   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gswcyd/freecad_bim_update_26/</guid>
-      <pubDate>Sat, 16 Nov 2024 20:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 日历替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gsu6gr/google_calendar_alternative/</link>
-      <description><![CDATA[您好。我正在重新设计我的整个数字环境。我使用 GAFAM 已经很久了，我已经非常习惯使用它们了。 我正在将我的 Gmail 迁移到一个名为 Mailo 的道德且免费的邮箱。到目前为止一切顺利，但当要为我的 Agenda 寻找替代方案时，就很难了。我想使用链接到我的 Mailo 地址的日历，但使用外部界面。我试过 Thunderbird，但我不太喜欢它…… 您对我的日历有什么界面建议吗？我需要能够查看和创建事件（并且我创建的事件需要与 Mailo 日历同步）。 它可以是软件或在线服务。注意：我在 Linux mint 上  我还在寻找与 /e/os 兼容的应用程序    提交人    /u/ParkingAssociation20   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gsu6gr/google_calendar_alternative/</guid>
-      <pubDate>Sat, 16 Nov 2024 18:55:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
