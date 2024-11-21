@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 01:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 06:20:55 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找一个可以输入我的电子邮件账户的邮件客户端，</title>
+      <link>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</link>
+      <description><![CDATA[它们将保存在我的所有设备上，而无需我将每封电子邮件输入到每台设备中。我有大量设备，如果我的主要移动设备死机，我想要一个简单的解决方案。云解决方案很好。我的手机上有 Gmail，里面有我所有的账户，只有我能把它们导出并导入到另一部手机上……我知道这可能不可能，但如果有人有想法，请提出来？ 跨平台和云解决方案很受欢迎。主要是我害怕丢失手机或手机故障，不得不检查我所有的密码和账户，因为有很多    提交人    /u/riade3788   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</guid>
+      <pubDate>Thu, 21 Nov 2024 06:02:05 GMT</pubDate>
+    </item>
     <item>
       <title>帮我记住一个视频转换器程序/应用程序的名称</title>
       <link>https://www.reddit.com/r/software/comments/1gw3pkh/help_me_remember_the_name_of_a_video_converter/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[有一款名为 paintribbon 的应用，它看起来像 Windows 7 的画图程序，但可以在 Windows 7 之前的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给出了这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该程序安装成功，只是给出了那个错误 是不是因为我使用的是 Windows 11？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它会给我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是它给出了那个错误 是不是因为我在 Windows 11 上？ 更新：我发现这是因为它试图从不存在的服务器下载东西，它仍然可以工作只是给出了那个错误，所以有没有办法告诉它......不要尝试下载它？   由    /u/AvailableLet7347  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
       <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[寻找一个允许录制的 IPTV Windows 播放器，理想情况下无需在录制时观看流媒体。 我用过 MyIPTV，但每次录制似乎都会在 10 或 20 分钟后停止，即使是在没有连接问题的良好流媒体上，而且你必须打开流媒体才能录制。    提交人    /u/Sportfreunde   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvg294/iptv_player_which_allows_reliable_recording_on/</guid>
       <pubDate>Wed, 20 Nov 2024 03:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年用于下载您自己制作的 Dailymotion 视频的最佳在线工具是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvfrby/best_tool_online_to_download_your_own_created/</link>
-      <description><![CDATA[一个，可以工作，不需要下载其他软件即可运行。 可以以最高质量下载。谢谢。    提交人    /u/WrestlingGuru2021   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvfrby/best_tool_online_to_download_your_own_created/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

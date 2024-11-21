@@ -4,27 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 01:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 06:20:13 GMT</lastBuildDate>
     <item>
-      <title>如何使用 Make.com 获取 Google 评论</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw39cd/how_to_scrape_google_reviews_with_makecom/</link>
-      <description><![CDATA[刚刚发布了一个快速简单的教程，介绍如何在 Make.com 中抓取任何企业无需代码的 Google 评论 https://www.youtube.com/watch?v=MZOqUel0pO8 让我知道你的想法！    提交人    /u/y10p   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw39cd/how_to_scrape_google_reviews_with_makecom/</guid>
-      <pubDate>Thu, 21 Nov 2024 00:39:39 GMT</pubDate>
+      <title>每日一分钟人工智能新闻 2024 年 11 月 20 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw8yws/oneminute_daily_ai_news_11202024/</link>
+      <description><![CDATA[ Nvidia 的首席执行官在 AI 实验室改变其改进 AI 模型的方式时捍卫了自己的护城河。[1] OpenAI 为教师推出免费 AI 培训课程。[2] 洛克希德马丁 与 Iceye 合作推进 AI 定位。[3] 三星 与谷歌和高通合作推出 AI 智能眼镜。[4]  来源包括：https://bushaicave.com/2024/11/20/11-20-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw8yws/oneminute_daily_ai_news_11202024/</guid>
+      <pubDate>Thu, 21 Nov 2024 05:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>使用您自己的图像的社交媒体帖子生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2u5t/social_media_post_generator_using_your_own_images/</link>
-      <description><![CDATA[有人遇到过可以根据图像文件夹生成社交媒体帖子（Instagram 和 Facebook）的工具吗？ 我希望 AI 选择类似的照片，选择最具视觉吸引力的照片，并根据所选图像生成标题和主题标签。我不需要该工具来生成新图像。    提交人    /u/g_lux   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2u5t/social_media_post_generator_using_your_own_images/</guid>
-      <pubDate>Thu, 21 Nov 2024 00:20:16 GMT</pubDate>
+      <title>为了给老板留下深刻印象，我还应该在人工智能领域探索哪些不在我的清单上的东西。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw7j7n/looking_to_impress_boss_what_else_should_i/</link>
+      <description><![CDATA[大家好，我正在努力拓宽我的知识面。我一直在探索 ChatGPT、Claude 和 LLaMA 等 LLM，用于生成文本、代码、图像、音频和视频。我使用 Aider、Cline 和 Cursor 等工具来编写代码，并使用 OpenRouter 连接多个 LLM API。最近，我开始深入研究检索增强生成 (RAG) 系统和矢量数据库。 我觉得我已经很好地掌握了 LLM 基础知识、编码助手、RAG 系统、矢量数据库以及用于音频和视频的生成式 AI。 但现在我想知道：我可能错过了哪些其他新兴的 AI 工具或技术？ 我很想了解新的或正在开发的工具——一些可以给我的老板留下深刻印象或扩展我的技能的东西。  自从人工智能开始引起轰动以来，人工智能领域是否有任何创新或“新奇”的东西让你兴奋不已？我很想听听你对任何不在我提到的类别中的东西感兴趣！    提交人    /u/rageagainistjg   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw7j7n/looking_to_impress_boss_what_else_should_i/</guid>
+      <pubDate>Thu, 21 Nov 2024 04:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>Worker - 为你完成任务的 AI 代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2a5e/worker_an_ai_agent_that_does_your_tasks_for_you/</link>
-      <description><![CDATA[大家好！我们的小团队一直在全力打造 Worker，一个可以为您完成任务的 AI 代理。 它基本上充当行政助理，您告诉它做某事，它就会去做。 每天总有事情要做，而且总是堆积如山，我们总是拖延或忘记。因此，我们的愿景是让 Worker 成为一个 AI 代理，能够完成您需要在互联网上完成的许多事情，甚至完成现实世界中的某些事情，例如与其他人打电话。 我们希望我们的私人测试版能够在 2025 年 1 月准备就绪，因此请加入等候名单！很乐意让您随时了解旅程的最新进展，并让我们知道您对该项目的想法:) 这是加入链接：www.workerassistant.com    提交人    /u/abusama7a   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2a5e/worker_an_ai_agent_that_does_your_tasks_for_you/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:55:05 GMT</pubDate>
+      <title>[D] 去年每个人都应该知道的机器学习论文或研究突破是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw6kqy/d_whats_a_machine_learning_paper_or_research/</link>
+      <description><![CDATA[  由    /u/Aichoffectionate  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw6kqy/d_whats_a_machine_learning_paper_or_research/</guid>
+      <pubDate>Thu, 21 Nov 2024 03:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们都会有工作！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw5l8j/well_all_have_jobs/</link>
+      <description><![CDATA[... 以最低工资筛选训练数据。我认为，有一件事将比其他工作更持久，那就是人工策划的训练数据。清除垃圾、无用或人工智能生成的训练数据将变得越来越困难。保持新鲜需要大量的人力。而企业和人工智能组织将能够轻松负担得起，通过越来越好的数据来追求越来越好的模型。我们都会仔细检查人工智能*现在*制造的所有垃圾，以将其清除，这样未来的人工智能训练就只涉及“真实”数据，这样它就不会一遍又一遍地重复同样的东西。他们可以用他们所有的人工智能利润来支付农民微薄的收入，更好的训练数据将证明这笔费用是合理的。     提交人    /u/fluffy_assassins   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw5l8j/well_all_have_jobs/</guid>
+      <pubDate>Thu, 21 Nov 2024 02:28:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>它怎么知道的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw4hv9/how_does_it_know/</link>
+      <description><![CDATA[我在本地安装了 qwen2.5。qwen 报告说，其最后一次培训截止日期是 2023 年 10 月。但是，我问 qwen 唐纳德·特朗普何时连任，它报告说唐纳德·特朗普在 2024 年 11 月连任，结果在投票结束后的几个小时内就基本知道了。2023 年最后一次培训的法学硕士如何掌握时事信息？我有这次对话的屏幕截图，但无法发布。PS。本地安装的法学硕士新手    提交人    /u/Aardvark-One   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw4hv9/how_does_it_know/</guid>
+      <pubDate>Thu, 21 Nov 2024 01:36:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于块编码的AI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw4boy/ai_for_block_coding/</link>
+      <description><![CDATA[是否有任何人工智能程序可以帮助或生成块代码？chatgpt 说它无法对块编码做任何事情，所以有谁知道是否有可以帮助或进行块编码的程序    提交人    /u/Stellaaae   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw4boy/ai_for_block_coding/</guid>
+      <pubDate>Thu, 21 Nov 2024 01:28:32 GMT</pubDate>
     </item>
     <item>
       <title>美国召集盟友讨论人工智能安全，特朗普誓言废除拜登的人工智能政策，给他们的工作蒙上阴影</title>
@@ -39,20 +60,6 @@
       <description><![CDATA[聚焦：Meta 聘请 Salesforce 的 AI 首席执行官 Clara Shih 领导新的业务 AI 集团（来源：）  OpenAI 将 ChatGPT 的高级语音模式引入网络 OpenAI 发布了 ChatGPT 教师指南，但一些教育工作者持怀疑态度 Collibra 将数据治理带入 AI 时代 当前的 AI 扩展定律显示收益递减，迫使 AI 实验室改变方向 Converge Bio 为生物技术 LLM 开设的“万物商店”带来 550 万美元种子资金 一家中国实验室发布了一种“推理”AI 模型，可与 OpenAI 的 o1 相媲美 Federato利用人工智能解决保险风险分析问题，融资 4000 万美元 融资 2.2 亿美元的人工智能初创公司 H 推出了其首款产品：用于“代理”应用程序的 Runner H Messenger 获得高清视频通话、人工智能背景等 Benchmark 向 New Lantern 投资 1900 万美元，为放射科医生提供更智能的人工智能使用方式     提交人    /u/codeharman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1cv0/heres_what_is_making_news_in_the_ai_today/</guid>
       <pubDate>Wed, 20 Nov 2024 23:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>RLHF 加上实时计算扩展将产生 AGI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw0tjx/rlhf_plus_real_time_compute_scaling_will_yield_agi/</link>
-      <description><![CDATA[什么是 AGI？  OpenAI 将 AGI 定义为高度自主的系统，它可以在大多数具有经济价值的工作中胜过人类  我们在美国或西方任何地方对人工智能的看法并不重要。 中国很有可能率先实现 AGI。 大多数主要专家预测美国将在 2027 年或更早实现 AGI。这些不仅是伊隆马斯克等人物的预测，也是世界各地主要金融和保险行业的预测。 AGI 即将到来。 明年我们将拥有机器人。 Teslas、Unitrees、Boston Dynamics 等众多公司都具备 A) 自主学习能力，并且 B) 价格每个月都在下降。 随着越来越多能够以低于最低工资标准工作且能产生更好结果的机器人模型不断被制造和销售，您认为会发生什么？ 这些机器人将创建越来越多的数据来训练新的 AI 模型。十年内，我们将拥有 iRobot，随后是银翼杀手，然后希望在 2035 年拥有星际迷航（而不是终结者） AGI 将以比任何人想象的更快的速度加速每件事。 我们已经在聊天机器人中看到了它。 给聊天机器人一个身体，现在你就有了 FigureAI，它的机器人完全能够进行联合学习。博格人来了，他们只是行动缓慢而已。 现在美国大选已经结束，我们知道了我们将拥有什么样的全球警察部队，我们或许应该开始思考我们在美国的生活将如何开始更快地发生变化，变化的数量、速度和步伐也会越来越快。 我们将迎来一段极其疯狂的时期。 真诚的深不可测的变化。 我唯一准备做的事情就是变得非常善于精确地解释自己。 当即将到来的人造超级上帝到来时，我表达得越清楚，我就越希望它能眷顾我，让我免受痛苦。    提交人    /u/thecoffeejesus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw0tjx/rlhf_plus_real_time_compute_scaling_will_yield_agi/</guid>
-      <pubDate>Wed, 20 Nov 2024 22:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家机会：在不干扰现有系统的情况下彻底改变业务运营</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvyrbd/exclusive_opportunity_revolutionize_business/</link>
-      <description><![CDATA[嘿 Reddit， 我提供一次性机会来参与一些真正具有开创性的事物。 我正在寻找一家公司来试行一个与你从未见过的任何东西都不一样的概念。理想情况下，您属于制造和分销领域，但任何具有复杂运营问题的企业都非常适合。 最好的部分是：该项目不会干扰您当前的系统。  我们不需要访问您的实际系统、数据或基础设施。 这是一个登月项目，您可以站起来并从远处观看。  工作原理如下： 我们将接受您的运营挑战并将它们变成视频游戏。这个游戏将模拟您的现实世界问题，并结合影响它们的每个变量。然后，我们将释放一个AI 代理群来“玩”游戏，这些代理由我们专为业务和物流优化设计的尖端算法驱动。 这些代理将学习、适应和优化，直到它们以超人水平 这对您有什么好处？  对您当前的系统没有任何风险。 提供解决您最大挑战的彻底见解。 前沿 AI 创新的前沿席位。  如果这听起来很有趣，请联系我。我可以提供演示、白皮书、评估结果以及您探索这个机会所需的任何其他内容。 未来几年没有其他公司会为您提供这样的服务。准备好迎接未来了吗？让我们谈谈吧！ 如果您想进入兔子洞，请按以下步骤操作：https://youtu.be/kI_RD70tA0E     提交人    /u/FaultInteresting3856   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvyrbd/exclusive_opportunity_revolutionize_business/</guid>
-      <pubDate>Wed, 20 Nov 2024 20:03:33 GMT</pubDate>
     </item>
     <item>
       <title>学校 AI 聊天机器人的创建者被捕，并被指控诈骗投资者 1000 万美元</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf 委员会建议：I. 国会建立并资助一个类似曼哈顿计划的计划，致力于竞相获得通用人工智能 (AGI) 能力。AGI 通常被定义为在所有认知领域都与人类能力相当或更胜一筹的系统，并且会在每项任务中取代最敏锐的人类思维。委员会向国会提出的具体行动包括：向行政部门提供广泛的多年期合同授权，并为领先的人工智能、云计算和数据中心公司等提供相关资金，以符合美国 AGI 领导地位目标的速度和规模推进既定政策；指示美国国防部长为人工智能生态系统中的项目提供国防优先事项和分配系统“DX 评级”，以确保该项目获得国家优先考虑。    提交人    /u/DC_cyber   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvp1dk/manhattan_projectlike_program_dedicated_to_racing/</guid>
       <pubDate>Wed, 20 Nov 2024 13:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 使用有缺陷的人工智能来标记违反社区标准的行为</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvnnis/metas_use_of_flawed_ai_to_flag_community/</link>
-      <description><![CDATA[我想这个 Reddit 小组会对某些公司所谓的“人工智能”开怀大笑。 背景： 在过去的几年里，我一直在 Meta 上通过广告推广我的音乐（Facebook 和 IG），并且在为我的音乐寻找受众（Spotify、Apple、YouTube 等）方面取得了一定的成功。 在 Meta 上投放广告时，一些广告的听众/观众通常会发表评论或提出问题，我会尽力回复。 问题： 11 月 1 日，我回复了一位听众关于歌曲超链接的问题。  以下是我对这个人的回复（我从西班牙语翻译而来），该回复被 META 的人工智能标记了。 &quot;这是一些流媒体网站的链接。Apple Music 和 YouTube Music 似乎有延迟，但我会更新信息。&quot; 在该消息的末尾，我还附上了该歌曲登陆页面的链接，其中列出了可访问该歌曲的各种流媒体网站。我使用的登陆页面提供商被 Meta 平台上数百（或数千？）其他音乐家积极使用，因此该 URL 不太可能出现问题。 无论如何，这就是事情变得奇怪的地方。我对这个问题的回答被 META 的人工智能标记了。违反社区标准，他们的算法认为响应涉及“成人性诱惑”。我不骗你。 在什么情况下我的评论会被解释为涉及“成人性诱惑”的消息？答案是根本不存在，否则相信是完全荒谬的。 解决方案？ 在正常情况下，直接向公司指出这个问题会很快得到解决。人们会认为这会让技术人员和管理层感到尴尬。然而，截至撰写本文时，我的帐户已被禁止发布所有广告已有 20 天了。我发给各个元部门的所有电子邮件以及我的技术支持单都没有得到答复。富有同情心的 Meta 支持人员会承认他们没有任何权力来解决这个问题，因为这总是涉及到其他部门。 也许这个 Reddit 小组的读者可以分享一些关于 Meta 过度依赖有缺陷的人工智能的见解。最后，我相信在公司实施有缺陷/未经测试的算法的问题上获得更多的宣传是一件好事。就像呼叫中心内最早实施的 IVR 系统一样，Meta 使用人工智能还远未达到黄金时段。也许他们不再想要广告收入？谁知道呢？    提交人    /u/loublackmusic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvnnis/metas_use_of_flawed_ai_to_flag_community/</guid>
-      <pubDate>Wed, 20 Nov 2024 11:47:18 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
