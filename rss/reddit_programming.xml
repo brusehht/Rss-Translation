@@ -4,20 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 Nov 2024 21:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:06:48 GMT</lastBuildDate>
+    <item>
+      <title>为什么我认为早期回报不是那么好</title>
+      <link>https://www.reddit.com/r/programming/comments/1gw2wrt/why_i_believe_early_returns_arent_that_good/</link>
+      <description><![CDATA[  由    /u/whitet_blacksp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gw2wrt/why_i_believe_early_returns_arent_that_good/</guid>
+      <pubDate>Thu, 21 Nov 2024 00:23:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用形式化建模、轻量级模拟和混沌测试来设计可靠的分布式系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1gw1f1y/how_we_use_formal_modeling_lightweight/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gw1f1y/how_we_use_formal_modeling_lightweight/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Cranelift 对 Prolog 谓词进行本机编译 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1gw1ete/native_compilation_of_prolog_predicates_with/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gw1ete/native_compilation_of_prolog_predicates_with/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zed's Rope 中的位操作优化</title>
+      <link>https://www.reddit.com/r/programming/comments/1gw1e5q/bittwiddling_optimizations_in_zeds_rope/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gw1e5q/bittwiddling_optimizations_in_zeds_rope/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>制造更高效的锁</title>
+      <link>https://www.reddit.com/r/programming/comments/1gw0ygy/building_more_efficient_locks/</link>
+      <description><![CDATA[  由    /u/ReDucTor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gw0ygy/building_more_efficient_locks/</guid>
+      <pubDate>Wed, 20 Nov 2024 22:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DBSP：丰富查询语言的自动增量视图维护</title>
+      <link>https://www.reddit.com/r/programming/comments/1gw01zx/dbsp_automatic_incremental_view_maintenance_for/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gw01zx/dbsp_automatic_incremental_view_maintenance_for/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:32:00 GMT</pubDate>
+    </item>
     <item>
       <title>i386 升级到 x86-64 的成本</title>
       <link>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</link>
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</guid>
       <pubDate>Wed, 20 Nov 2024 20:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像灯箱的 npm 包</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvy520/npm_package_for_image_lightbox/</link>
-      <description><![CDATA[  由    /u/Deep_Local1568  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvy520/npm_package_for_image_lightbox/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:38:35 GMT</pubDate>
     </item>
     <item>
       <title>领先 1 支球队 vs 领先 3 支球队 vs 领先 5 支以上球队</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gvvsy4/what_to_expect_from_chicken_6/</guid>
       <pubDate>Wed, 20 Nov 2024 18:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Go 和 PostgreSQL 进行测试：临时数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvsvl/testing_with_go_and_postgresql_ephemeral_dbs/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvsvl/testing_with_go_and_postgresql_ephemeral_dbs/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Async/Await 确实存在，并且可能会对你造成伤害</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvsgi/asyncawait_is_real_and_can_hurt_you/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvsgi/asyncawait_is_real_and_can_hurt_you/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>名义上用于存储，结构上用于操作</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvrp7/nominal_for_storing_structural_for_manipulating/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvrp7/nominal_for_storing_structural_for_manipulating/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>可视化 transformer 和注意力机制 [视频]</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvqpf/visualizing_transformers_and_attention_video/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvqpf/visualizing_transformers_and_attention_video/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>1-Bit 人工智能基础设施</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvq27/1bit_ai_infrastructure/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvq27/1bit_ai_infrastructure/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:00:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
