@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 09:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:28:21 GMT</lastBuildDate>
+    <item>
+      <title>如何在 Make.com 中无需代码进行情感分析</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwee2c/how_to_do_sentiment_analysis_in_makecom_without/</link>
+      <description><![CDATA[刚刚发布了一个新教程：https://www.youtube.com/watch?v=Hfv8nlS2XfA 让我知道你的想法！    提交人    /u/y10p   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwee2c/how_to_do_sentiment_analysis_in_makecom_without/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>您实际上使用 o1 API 来做什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwd5bn/what_do_you_actually_use_o1_api_for/</link>
+      <description><![CDATA[我才刚刚开始使用它，它根本不起作用。  它已经预览了好几个月了，但它仍然很糟糕！？  它的数据已经有一年了 它不能提供网页抓取 它被过滤得太厉害了，我甚至不能创建名为 password 的变量 我无法传递名称，因为它认为那是个人数据 API 根本不起作用。它似乎完全是随机的，有时返回结果，有时什么都不返回，有时返回明显被截断在句子中间的一半响应。  我是 AI 新手，有人知道这是怎么回事吗？    提交人    /u/timeforknowledge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwd5bn/what_do_you_actually_use_o1_api_for/</guid>
+      <pubDate>Thu, 21 Nov 2024 10:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 作为推荐系统的变质评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwcnaf/metamorphic_evaluation_of_chatgpt_as_a/</link>
+      <description><![CDATA[标题：ChatGPT 作为推荐系统的变质评估 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必把它们全部翻遍了。今天的论文题为“ChatGPT 作为推荐系统的变质评估”，作者是 Madhurima Khirbat、Yongli Ren、Pablo Castells 和 Mark Sanderson。 本文探讨了变质测试作为一种基于大型语言模型 (LLM) 的推荐系统的新型评估方法的应用，特别是使用 ChatGPT。推荐系统的传统评估方法由于其固有的黑盒和概率性质，在应用于 LLM 时往往会失效。作者提出了一个通过定义的变质关系 (MR) 来测试这些系统的框架，从而提供了一种更全面的评估方法。  以下是本文的一些主要发现：  变质测试简介：该研究通过从推荐系统和 LLM 的角度定义特定的 MR，提出了对基于 GPT 的推荐系统进行变质测试。这种测试解决了传统评估的局限性，特别是关于非确定性输出的模糊评估。 在 MovieLens 数据集上进行评估：利用 MovieLens 数据集和 GPT-3.5 进行的实验揭示了较低的相似度指标，例如 Kendall τ 和 Ranking Biased Overlap，这表明传统系统的现有评估指标可能无法完全捕捉基于 LLM 的系统的性能。 稳健性和一致性：该研究引入了一个控制基于 GPT 的输出随机性的框架，这对于产生一致的建议至关重要。结果表明，不同变形测试关系之间存在可变稳定性，这凸显了对适应性评估方法的需求。 变形关系的影响：实验表明，用户评分量表（MR1 和 MR2）的变化比提示中的语义变化（MR3 和 MR4）产生的结果更加一致。这强调了与语言变化相比，数字评分调整引起的推荐变化具有相对可预测性。 总结见解和未来工作：由于多个 MR 导致生成的推荐相似度降低，强调需要进一步研究。这项研究为未来通过变质评估对基于 LLM 的推荐系统进行增强和更广泛的测试奠定了基础。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwcnaf/metamorphic_evaluation_of_chatgpt_as_a/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在像样的 PC 上运行领先的小型 LLM 是什么</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwcij6/what_is_the_leading_small_llm_that_i_can_run_on_a/</link>
+      <description><![CDATA[目前正在运行 mistral 7B，我只是觉得目前有更智能的东西可用。 这种尺寸的模型的领先模型是什么？ 如果可能的话，您能否提供基准证据来证明这一点。 谢谢 :)    提交人    /u/steves1189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwcij6/what_is_the_leading_small_llm_that_i_can_run_on_a/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:38:01 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能领域还会出现另一个 NVDA 吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwc5z2/will_there_ever_be_another_nvda_in_the_ai_sector/</link>
@@ -18,20 +46,6 @@
       <description><![CDATA[ Nvidia 的首席执行官在 AI 实验室改变其改进 AI 模型的方式时捍卫了自己的护城河。[1] OpenAI 为教师推出免费 AI 培训课程。[2] 洛克希德马丁 与 Iceye 合作推进 AI 定位。[3] 三星 与谷歌和高通合作推出 AI 智能眼镜。[4]  来源包括：https://bushaicave.com/2024/11/20/11-20-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw8yws/oneminute_daily_ai_news_11202024/</guid>
       <pubDate>Thu, 21 Nov 2024 05:29:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了给老板留下深刻印象，我还应该在人工智能领域探索哪些不在我的清单上的东西。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw7j7n/looking_to_impress_boss_what_else_should_i/</link>
-      <description><![CDATA[大家好，我正在努力拓宽我的知识面。我一直在探索 ChatGPT、Claude 和 LLaMA 等 LLM，用于生成文本、代码、图像、音频和视频。我使用 Aider、Cline 和 Cursor 等工具来编写代码，并使用 OpenRouter 连接多个 LLM API。最近，我开始深入研究检索增强生成 (RAG) 系统和矢量数据库。 我觉得我已经很好地掌握了 LLM 基础知识、编码助手、RAG 系统、矢量数据库以及用于音频和视频的生成式 AI。 但现在我想知道：我可能错过了哪些其他新兴的 AI 工具或技术？ 我很想了解新的或正在开发的工具——一些可以给我的老板留下深刻印象或扩展我的技能的东西。  自从人工智能开始引起轰动以来，人工智能领域是否有任何创新或“新奇”的东西让你兴奋不已？我很想听听你对任何不在我提到的类别中的东西感兴趣！    提交人    /u/rageagainistjg   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw7j7n/looking_to_impress_boss_what_else_should_i/</guid>
-      <pubDate>Thu, 21 Nov 2024 04:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[D] 去年每个人都应该知道的机器学习论文或研究突破是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw6kqy/d_whats_a_machine_learning_paper_or_research/</link>
-      <description><![CDATA[  由    /u/Aichoffectionate  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw6kqy/d_whats_a_machine_learning_paper_or_research/</guid>
-      <pubDate>Thu, 21 Nov 2024 03:17:41 GMT</pubDate>
     </item>
     <item>
       <title>我们都会有工作！</title>
@@ -81,20 +95,6 @@
       <description><![CDATA[关于人工智能最常见的说法是“它会扼杀工作，让每个人都失业”。我认为这种说法只有一半是对的，因为人工智能会扼杀工作，但另一部分应该得到扩展。 如果我们保持社会现状，人工智能将使每个人都失业。我们必须重组它以保持平衡。我是这样看的： 目前的人工智能公司将变得非常富有，并为人类的进步提供人工智能，我认为没有它，我们的文明就无法进步。如果每个人都打好自己的牌，我们就有机会让世界变得更美好。因为说实话，生活糟透了，糟透了，大多数人每天早上 6 点起床，半睡半醒地走到汽车站/火车站去上班（单程通常需要 1 个多小时），下午 5 点或更晚才回到家，然后因为精疲力竭而整天看电视，或者如果你在学习，你必须为一些愚蠢的考试和其他废话而学习。人工智能可以改变这一点，但工作、学校、政治和经济也必须改变。我们本质上创造了一种基于人与人之间交流的经济，但现在当一个新的“玩家”进入游戏时，它将不再起作用。现在最大的问题是公司，因为他们会： 1. 制造 AI 2. 抢走人们的工作 3. 拿走人们工作所需的钱 这意味着在这种情况下人们会失业和贫穷，公司将几乎统治世界（赛博朋克 2077 氛围）。所以我认为在公司变得过于强大之前要对它们征税，并将 AI 研究转移到由国家税收资助的国际努力中。然后可以开发和使用 AI 来减轻普通面包消费者的压力，创造新的工作，消除普通工作，为人类创造光明的未来。 就是这样，请注意我只是一个高中生，你几乎不懂经济和政治，我只是想在这里表达我的意见。    提交人    /u/Mesrszmit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvpbno/people_look_at_the_ai_revolution_very_wrong/</guid>
       <pubDate>Wed, 20 Nov 2024 13:20:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似曼哈顿计划的计划，致力于竞相获得通用人工智能 (AGI) 能力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvp1dk/manhattan_projectlike_program_dedicated_to_racing/</link>
-      <description><![CDATA[https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf 委员会建议：I. 国会建立并资助一个类似曼哈顿计划的计划，致力于竞相获得通用人工智能 (AGI) 能力。AGI 通常被定义为在所有认知领域都与人类能力相当或更胜一筹的系统，并且会在每项任务中取代最敏锐的人类思维。委员会向国会提出的具体行动包括：向行政部门提供广泛的多年期合同授权，并为领先的人工智能、云计算和数据中心公司等提供相关资金，以符合美国 AGI 领导地位目标的速度和规模推进既定政策；指示美国国防部长为人工智能生态系统中的项目提供国防优先事项和分配系统“DX 评级”，以确保该项目获得国家优先考虑。    提交人    /u/DC_cyber   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvp1dk/manhattan_projectlike_program_dedicated_to_racing/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</link>
-      <description><![CDATA[Automated-AI-Web-Researcher：经过数月的工作，我编写了一个 Python 程序，可以将 Ollama 上运行的本地 LLM 转变为您的在线研究人员，只需输入一个问题或主题，然后等到您返回一个包含指向来源和摘要的链接的研究内容的文本文档，并向它提问！还有更多！ 此自动研究人员使用互联网搜索和网络抓取来收集信息，根据您选择的主题或问题，它将生成与您的主题相关的重点领域，旨在探索您主题的各个方面并调查您主题或问题的各个相关方面，以通过在线研究检索相关信息来回答您的主题或问题。 LLM 将您的查询分解为最多 5 个特定的研究重点，根据相关性对它们进行优先排序，然后通过有针对性的网络搜索和内容分析从最相关的开始系统地调查每一个。 然后，在收集那些搜索并用尽所有重点领域的内容后，它将检查内容并使用其中的信息来生成新的重点领域，并且在过去，它经常根据已经收集的研究内容中的发现来找到新的相关重点领域（例如，它会寻找与您的主题或问题特别相关的特定案例研究），以前这种使用已经收集的研究内容来开发新研究领域的方法最终导致了有趣和新颖的研究重点，在某些情况下，这些重点是人类永远不会想到的，尽管里程可能会有所不同，但这个程序仍然是一个原型，但令人震惊的是，它确实有效！ 主要特点：  根据发现的内容不断生成新的研究重点 保存它找到的每条内容以及源 URL 完成研究内容后创建综合摘要，并使用它来回答您最初的疑问/问题 提供摘要后进入对话模式，您可以就其研究结果和研究提出具体问题，甚至可以询问摘要中未提及的内容，只要其发现的研究提供了有关所述内容的相关信息。 您可以根据需要运行它，直到 LLM 的上下文达到最大值，然后会自动停止研究，但仍然允许进行摘要和提问。或者随时停止它，这将导致它生成摘要。 但它还包括暂停功能以评估研究进度以确定是否收集了足够的信息，让您可以选择取消暂停并继续或终止研究并接收摘要。 适用于流行的 Ollama 本地模型（推荐使用 phi3：3.8b-mini-128k-instruct 或 phi3：14b-medium-128k-instruct，这是我迄今为止测试过并且有效的模型） 一切都在您的机器上本地运行，但仍然为您提供来自互联网的结果，只有一个查询，您就可以在相对较短的时间内获得大量实际研究结果。  最好的部分？您可以让它在后台运行，同时您做其他事情。回来找到一份详细的研究文件，其中包含数十个相关来源和提取的内容，所有这些都已组织并准备好进行审查。加上相关发现的摘要，并且能够向 LLM 询问有关这些发现的问题。非常适合研究、难以研究和新颖的问题，这些问题您懒得亲自研究，或者只是满足您对复杂主题的好奇心！ 带有完整说明的 GitHub repo： https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama （使用 Python 构建，完全开源，应该可以与任何兼容 Ollama 的 LLM 一起使用，尽管我只测试了 phi 3）    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</guid>
-      <pubDate>Wed, 20 Nov 2024 09:55:45 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>

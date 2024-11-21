@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 21 Nov 2024 09:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:29:19 GMT</lastBuildDate>
+    <item>
+      <title>那么，边车到底有什么不好呢？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwempl/whats_so_bad_about_sidecars_anyway/</link>
+      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwempl/whats_so_bad_about_sidecars_anyway/</guid>
+      <pubDate>Thu, 21 Nov 2024 12:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 1.22 for-range 修复和 go.mod 依赖</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwekcg/go_122_forrange_fix_and_gomod_dependency/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwekcg/go_122_forrange_fix_and_gomod_dependency/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:58:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 和 Go 与其他一切对比</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwegkd/rust_and_go_versus_everything_else/</link>
+      <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwegkd/rust_and_go_versus_everything_else/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seed7 版本 2024-11-18 在 GitHub 和 SF 上发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwebkx/seed7_version_20241118_released_on_github_and_sf/</link>
+      <description><![CDATA[  由    /u/ThomasMertes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwebkx/seed7_version_20241118_released_on_github_and_sf/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jon Kalb：这就是 C++ - “C++ 为什么是这个样子”</title>
+      <link>https://www.reddit.com/r/programming/comments/1gweaue/jon_kalb_this_is_c_why_c_is_like_it_is/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gweaue/jon_kalb_this_is_c_why_c_is_like_it_is/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以信任您的 OpenAPI 规范吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwe8e8/can_you_trust_your_openapi_specification/</link>
+      <description><![CDATA[我一直在努力解决某些服务的 OpenAPI 规范与其实际行为不符的问题，这对我们的自动生成 SDK 和文档造成了严重破坏。因此，这里有一些提示和工具来检测它们。 尽情享受吧！    提交人    /u/ouvreboite   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwe8e8/can_you_trust_your_openapi_specification/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代 PATH 环境变量</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwdwvn/modern_path_environment_variable/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwdwvn/modern_path_environment_variable/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>你为什么要这么做？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gwdgwu/why_are_you_doing_it/</link>
+      <description><![CDATA[  由    /u/ExiledDude  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gwdgwu/why_are_you_doing_it/</guid>
+      <pubDate>Thu, 21 Nov 2024 10:45:56 GMT</pubDate>
+    </item>
     <item>
       <title>ts-删除-未使用</title>
       <link>https://www.reddit.com/r/programming/comments/1gwc4gc/tsremoveunused/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gw6zow/running_a_jax_program_from_dart_using_c_ffi/</guid>
       <pubDate>Thu, 21 Nov 2024 03:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的开源AI安全方法：精准知识编辑（PKE）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw5s3y/new_opensource_ai_safety_method_precision/</link>
-      <description><![CDATA[  由    /u/lial4415  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw5s3y/new_opensource_ai_safety_method_precision/</guid>
-      <pubDate>Thu, 21 Nov 2024 02:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我认为早期回报不是那么好</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw2wrt/why_i_believe_early_returns_arent_that_good/</link>
-      <description><![CDATA[  由    /u/whitet_blacksp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw2wrt/why_i_believe_early_returns_arent_that_good/</guid>
-      <pubDate>Thu, 21 Nov 2024 00:23:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用形式化建模、轻量级模拟和混沌测试来设计可靠的分布式系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw1f1y/how_we_use_formal_modeling_lightweight/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw1f1y/how_we_use_formal_modeling_lightweight/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Cranelift 对 Prolog 谓词进行本机编译 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw1ete/native_compilation_of_prolog_predicates_with/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw1ete/native_compilation_of_prolog_predicates_with/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zed's Rope 中的位操作优化</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw1e5q/bittwiddling_optimizations_in_zeds_rope/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw1e5q/bittwiddling_optimizations_in_zeds_rope/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:08:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>制造更高效的锁</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw0ygy/building_more_efficient_locks/</link>
-      <description><![CDATA[  由    /u/ReDucTor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw0ygy/building_more_efficient_locks/</guid>
-      <pubDate>Wed, 20 Nov 2024 22:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>DBSP：丰富查询语言的自动增量视图维护</title>
-      <link>https://www.reddit.com/r/programming/comments/1gw01zx/dbsp_automatic_incremental_view_maintenance_for/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gw01zx/dbsp_automatic_incremental_view_maintenance_for/</guid>
-      <pubDate>Wed, 20 Nov 2024 21:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>i386 升级到 x86-64 的成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</guid>
-      <pubDate>Wed, 20 Nov 2024 20:16:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

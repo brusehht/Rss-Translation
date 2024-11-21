@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 09:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:29:13 GMT</lastBuildDate>
+    <item>
+      <title>类似于 Windows Sandbox 的虚拟机/沙盒</title>
+      <link>https://www.reddit.com/r/software/comments/1gwebgi/a_virtual_machinesandbox_similar_to_windows/</link>
+      <description><![CDATA[是否有第三方 VM/Sandbox 软件可以将我当前的桌面复制为 VM/Sandbox 环境（如 Windows Sandbox）？在 Windows Sandbox 中，它会加载我的桌面副本（作为 VM/Sandbox 环境），无需设置/配置。 我想知道是否有一个 VM/Sandbox 软件，一旦安装，我就会加载 VM/Sandbox 软件，然后会出现我的桌面副本（作为 VM/Sandbox 环境）。 虽然有第三方 VM/Sandbox 软件，如 VirtualBox 和 Sandboxie（作为典型示例），但可以创建 VM/Sandbox 环境，但需要在其上安装操作系统。我没有额外的 Windows OS 软件副本（也不想购买）。    提交人    /u/Samta752   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwebgi/a_virtual_machinesandbox_similar_to_windows/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧头像生成器。有人记得它的名字吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gwdpwh/old_avatar_generator_does_anyone_remember_its_name/</link>
+      <description><![CDATA[有人记得可以创建这些图像的头像生成器叫什么名字吗？ https://preview.redd.it/21y5a9i5l82e1.jpg?width=178&amp;format=pjpg&amp;auto=webp&amp;s=bd3953e9e494170d7aecffe3139473315df3045d 编辑：抱歉，我没想到图像会如此大    由   提交  /u/maephisto666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwdpwh/old_avatar_generator_does_anyone_remember_its_name/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于显示复杂游戏控制的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gwcomm/software_for_displaying_controls_for_complex_games/</link>
+      <description><![CDATA[目前正在玩《精英危机四伏》，作为一名新玩家，控制菜单真的、真的需要搜索栏。但这不是重点，如果有人已经做了，我想知道是否有软件可以显示用户可自定义的控制方案。也许可以读取多个操作层的输入，但我觉得这可能接近恶意软件。 只是在侧面提供一些东西，这样您就可以查看并查看您的按钮的作用，而不必翻阅 E;D 的菜单或任何游戏菜单。    提交人    /u/RandomGuy640   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwcomm/software_for_displaying_controls_for_complex_games/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:50:42 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个名为 Tagline 的人工智能图像标记应用程序 - 而且它是免费的！</title>
       <link>https://www.reddit.com/r/software/comments/1gwats9/i_built_an_aipowered_image_tagging_app_called/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨 我是一名软件开发人员/工程师，大约 30 年前开始全职工作。在过去的几年里，我只是时不时地开发软件，并更改一些小项目。 我需要创建一个简单的应用程序，并希望获得一些关于使用的技术及其优点/缺点的建议。 该应用程序需要：- 向用户询问一些信息 - 通过 FTP 与施耐德控制器通信并放入/获取文件 - 目前它只需要在 Windows 上运行，但将来可能需要支持 macos - Windows 版本“面向未来”会很好。因为它在新版本的 Windows 中停止工作而不得不更改应用程序并不好 - html/js/Python 会很好，对我来说学习更少 - 简单的安装程序会很好。单个可执行文件？ 建议？  谢谢，安东尼奥     由    /u/eightBPooler 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvo26b/recommendations_for_tech_for_new_software/</guid>
       <pubDate>Wed, 20 Nov 2024 12:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jdwonloader 2 太棒了！我最近了解了下载管理器，对 Jdownloader 的出色表现感到震惊。</title>
-      <link>https://www.reddit.com/r/software/comments/1gvk39l/jdwonloader_2_is_awesome_i_learned_about_download/</link>
-      <description><![CDATA[作为一个尝试使用免费软件（最好是 FOSS）的人，我尝试了很多东西，最终选择了 Jdownloader2。它太棒了！youtube 最近似乎让从 YouTube 下载变得更加困难，而 yt-dlp 遇到了一个问题，如果你想要超过 360p，你必须下载一个视频流和一个音频流，然后使用视频编辑器将它们合并。这非常麻烦。然而，Jdownloader 似乎非常擅长这种任务。更不用说它真的很酷。比如下载速度的视觉效果等。我知道 torrent 客户端一直都很酷，在下载时可以做各种有趣的事情，对我个人来说，这已经是老生常谈了，让我回想起我第一次使用它的时候。至于普通下载，这真的很酷很有用。对于不是 youtube 的网站，也没有针对它的措施 - 它也对这些网站非常有用。就像 Odysee 一样。无论如何，它超级酷。如果有人有任何很酷的功能可以告诉我，我很乐意听到它。    提交人    /u/secular-human-12006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvk39l/jdwonloader_2_is_awesome_i_learned_about_download/</guid>
-      <pubDate>Wed, 20 Nov 2024 07:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>突出显示文章中的实体的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gvj75g/software_that_highlights_entities_in_an_article/</link>
-      <description><![CDATA[我最近参加了一个研讨会，有人向我展示了一个网站，你可以在其中粘贴一篇文章，然后它会突出显示 Google 已识别为实体的单词。 它显示了一个词云，其中的人、产品被识别为实体，颜色不同。有人知道那个软件是什么或类似的工具可以做到这一点。最好是免费的，但我愿意支付合理的金额。    提交人    /u/nsillk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvj75g/software_that_highlights_entities_in_an_article/</guid>
-      <pubDate>Wed, 20 Nov 2024 06:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于创建动态检查表的程序的建议。</title>
-      <link>https://www.reddit.com/r/software/comments/1gvgdsk/recommendations_for_a_program_to_create_dynamic/</link>
-      <description><![CDATA[我正在寻找一个基于浏览器的程序，我可以使用它来创建一个工作流清单，该清单将根据我输入的内容而变化。它似乎并不复杂，我想要的大多数功能都分别存在于 OneNote 和 Excel 中，但我找不到任何可以专门完成所有这些功能的东西。我需要以下内容：  使用复选框标记步骤已完成。 某些问题的答案可以更改清单中的其他问题/选项 使用文本字段和清单输入数据的选项 输入的某些数据会自动放入可以复制为格式化文本的模板中。如果我能将其放在第二个面板中并同时查看它和清单，则可以获得加分。 鼠标悬停以提供有关某些步骤的更多详细信息 能够添加超链接（最好是程序内的其他页面，但一般超链接也可以） 能够为我拥有的每个客户保存一份清单副本，以便我可以参考并根据需要进行更新。此外，在同一程序中轻松切换清单也很棒。     提交人    /u/ihcuwus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvgdsk/recommendations_for_a_program_to_create_dynamic/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:35:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
