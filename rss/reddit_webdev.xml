@@ -4,11 +4,32 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 06:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 09:17:19 GMT</lastBuildDate>
+    <item>
+      <title>简短吐槽</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gzet7h/mini_rant/</link>
+      <description><![CDATA[很小的抱怨。  资深同事要求我为我们正在开发的产品开发网站。我决定使用 Laravel，让他们了解最新进展。然后，当我说我快完成了，他们说“哦不，我想将网站移至 AWS，而 PHP 与 AWS 不太兼容。我想我会改用 .html，因为 PHP 是一种糟糕的语言。我可能还想在某个时候学习 React，但我对 JavaScript 不是很熟悉，而且我只会在真正必要时才会转向前端框架，因为框架通常被那些想让事情变得不必要复杂的人使用，而 90% 的时间静态就没问题”。 恐怕我有点发脾气了。由于“HTTP 带宽”，该人甚至不使用外部 .css     由    /u/BeginningPie9001 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gzet7h/mini_rant/</guid>
+      <pubDate>Mon, 25 Nov 2024 09:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现这种无限滚动画廊效果？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gze693/how_would_you_achieve_this_infinite_scroll/</link>
+      <description><![CDATA[        提交人    /u/realistic_aside777   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gze693/how_would_you_achieve_this_infinite_scroll/</guid>
+      <pubDate>Mon, 25 Nov 2024 08:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在建设一个酒店网站，需要一个好的支付网关</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gzckj6/need_a_good_payment_gateway_for_a_hotel_site_im/</link>
+      <description><![CDATA[我目前正在为一家酒店开发一个预订网站，现在我正在考虑在完成网站上的其他工作后尽快集成一个支付网关。有人能推荐一个好的网关吗？我听说 Stripe 很容易集成，但缺乏良好的支持。     提交人    /u/Adventurous_South874   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gzckj6/need_a_good_payment_gateway_for_a_hotel_site_im/</guid>
+      <pubDate>Mon, 25 Nov 2024 06:28:16 GMT</pubDate>
+    </item>
     <item>
       <title>在自己拥有的域名上托管一个简单的 index.html 页面，对于外行人来说最友好、最免费的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gzc2un/what_is_the_most_laypersonfriendly_free_way_to/</link>
-      <description><![CDATA[我知道 Netlify 和 Vercel 提供了很棒的免费套餐，我也知道对于静态站点来说 GitHub Pages 真的足够了，但它们都需要一定的技术知识。 如果你想写一份指南来帮助你的大姨妈 Ruth 免费设置一个个人域名（当然，除了域名本身的成本），你会推荐什么？ 如果他们已经有了一个 HTML 文件，那么我想 GitHub Pages 是我能想到的最好的了？从技术上讲，他们不需要学习 Git，对吧？他们只需将文件上传到存储库并打开 GitHub Pages 即可。 或者实际上这只是 Wix 和 Squarespace 的用途？    提交人    /u/mca62511   [链接] [评论]]]></description>
+      <description><![CDATA[我知道 Netlify 和 Vercel 提供了很棒的免费套餐，我也知道对于静态站点来说 GitHub Pages 真的足够了，但它们都需要一定的技术知识。 如果你想写一份指南来帮助你的大姨妈 Ruth 免费设置一个个人域名（当然，除了域名本身的成本），你会推荐什么？ 如果他们已经有了一个 HTML 文件，那么我想 GitHub Pages 是我能想到的最好的选择？从技术上讲，他们不需要学习 Git，对吧？他们只需通过 Web UI 将文件上传到存储库并打开 GitHub Pages 即可。 或者实际上这只是 Wix 和 Squarespace 的用途？    提交人    /u/mca62511   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gzc2un/what_is_the_most_laypersonfriendly_free_way_to/</guid>
       <pubDate>Mon, 25 Nov 2024 05:56:34 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>全栈和身份验证</title>
       <link>https://www.reddit.com/r/webdev/comments/1gz056f/full_stack_authentication/</link>
-      <description><![CDATA[通常，当您构建全栈 Web 应用程序时 - 您是从服务器应用程序还是客户端应用程序添加身份验证？即下一个 JS 身份验证，还是在 React 中执行此操作？我很惊讶地发现你可以用任何一种方式做到这一点。 我对此真的很陌生，所以请多多包涵。我只是想在脑子里整理好这一切。    提交人    /u/danieljohnsz   [link] [评论]]]></description>
+      <description><![CDATA[一般来说，当您构建全栈 Web 应用程序时 - 您是从服务器应用程序还是客户端应用程序添加身份验证？即下一个 JS 身份验证，还是在 React 中执行此操作？我很惊讶地发现您可以通过任何一种方式进行操作。 我对此真的很陌生，所以请多多包涵。我只是想在脑子里整理好这一切。    提交人    /u/danieljohnsz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gz056f/full_stack_authentication/</guid>
       <pubDate>Sun, 24 Nov 2024 20:07:19 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/mooonmatt   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyz3ar/i_created_a_virtual_football_drinking_game/</guid>
       <pubDate>Sun, 24 Nov 2024 19:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PowerPages 来托管网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyz1ut/powerpages_to_host_website/</link>
-      <description><![CDATA[我在一所学校工作，并创建了一个小型报告/网络应用程序来跟踪那些不及格或有不及格危险的学生。该应用程序显示他们的出勤率、成绩、未完成的作业以及他们参加的运动（如果有）。 以前，我将报告输出为一个巨大的 PDF 并将其存储在 OneDrive 上，共享链接以传播它。但是，未完成的作业功能是动态的，无法在静态 PDF 中捕获。 我一直在寻找一种托管网页的方法，同时限制我们域内某些用户的访问。我偶然发现了 Power Pages，并认为它可能是一个解决方案。 我的目标是上传完整形成的页面及其资产，仅使用 Power Pages 在 Azure AD 登录后进行安全存储。不幸的是，我还没有弄清楚如何实现这一点。理想情况下，应该有一个类似 FTP 的机制，只需上传文件夹即可。 现在我甚至不知道如何上传图像资产，每个学生的出勤情况由 2 个图表表示，分别为年初至今的出勤情况和 5 天的出勤情况。 https://preview.redd.it/0mf96880mr2e1.png?width=1889&amp;format=png&amp;auto=webp&amp;s=a1696d4d9a00682c0908016771a8ccf089c1e476    提交人    /u/Mini_Couper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyz1ut/powerpages_to_host_website/</guid>
-      <pubDate>Sun, 24 Nov 2024 19:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合纯粹网络开发的监视器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyyp18/best_monitor_purely_for_web_development/</link>
-      <description><![CDATA[我目前在家里有一台 27 英寸的显示器，既用于游戏，也用于工作（Web 开发编程）。 在办公室，我现在有一台 34 英寸的显示器，我非常喜欢这种外形。这样可以更轻松地同时使用浏览器和代码，而无需做出任何妥协。 在我的新房子里，我有机会拥有 2 张桌子，1 张用于游戏，1 张用于工作。所以现在我可以得到 2 台显示器用于单一用途，而无需做出任何妥协。 有没有最好的 Web 开发显示器的推荐？34 英寸、38 英寸、40 英寸，给我你最喜欢的。我一直非常喜欢 38 英寸、40 英寸的超宽选项，但它们的亮度性能似乎都很差！令人沮丧。但也许我遗漏了一台监视器。    提交人    /u/AlDrag   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyyp18/best_monitor_purely_for_web_development/</guid>
-      <pubDate>Sun, 24 Nov 2024 19:06:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有很棒的主页可以启发灵感？如果可以的话，可以复古一点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyyj0c/any_great_home_pages_to_inspire_from_retro_if/</link>
-      <description><![CDATA[如果您还记得的话请告诉我    由   提交  /u/Altruistic_Gap2719   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyyj0c/any_great_home_pages_to_inspire_from_retro_if/</guid>
-      <pubDate>Sun, 24 Nov 2024 18:59:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
