@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 09:16:37 GMT</lastBuildDate>
+    <item>
+      <title>ZooKeeper Jute：深入探究序列化框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1h10ao8/zookeeper_jute_deep_dive_into_serialization/</link>
+      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h10ao8/zookeeper_jute_deep_dive_into_serialization/</guid>
+      <pubDate>Wed, 27 Nov 2024 09:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pull 请求如何破坏开发人员的效率</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0zlg8/how_pull_requests_destroy_developer_efficiency/</link>
+      <description><![CDATA[  由    /u/WinDoctor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0zlg8/how_pull_requests_destroy_developer_efficiency/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>业余程序员 VS 专业程序员</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0zg8e/amateur_programmer_vs_professional_programmer/</link>
+      <description><![CDATA[TL;DR：您的多年经验或您可以在技术堆栈中融入多少种技术仍然无法回答您能做什么以及迄今为止取得了什么成就的问题。    提交人    /u/the_nifty_programmer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0zg8e/amateur_programmer_vs_professional_programmer/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最值得学习的 AI 编程语言，助你掌握面向未来的技能</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0yma2/top_ai_programming_languages_to_learn_for/</link>
+      <description><![CDATA[  由    /u/jennifervanessa1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0yma2/top_ai_programming_languages_to_learn_for/</guid>
+      <pubDate>Wed, 27 Nov 2024 07:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 中的主事件发射器</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0yh83/master_event_emitter_in_javascript/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0yh83/master_event_emitter_in_javascript/</guid>
+      <pubDate>Wed, 27 Nov 2024 06:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>“未定义行为问题”事件亲历者</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0xix1/firsthand_account_of_the_undefined_behavior/</link>
+      <description><![CDATA[  由    /u/andrewtomazos  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0xix1/firsthand_account_of_the_undefined_behavior/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么没有人评论他们的代码？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0vh2w/why_no_one_comments_their_code/</link>
+      <description><![CDATA[“干净的代码没有注释”的模因如何成为软件工程中的毒瘤    提交人    /u/CarterOfAra   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0vh2w/why_no_one_comments_their_code/</guid>
+      <pubDate>Wed, 27 Nov 2024 03:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>dodo：通过在 Canvas 上绘图来部署应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0v1sf/dodo_deploy_applications_by_drawing_on_canvas/</link>
+      <description><![CDATA[  由    /u/giolekva  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0v1sf/dodo_deploy_applications_by_drawing_on_canvas/</guid>
+      <pubDate>Wed, 27 Nov 2024 03:34:29 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能辅助编码中的自动决策日志</title>
       <link>https://www.reddit.com/r/programming/comments/1h0tjy4/automated_decision_logs_in_aiassisted_coding/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h0plcv/how_talking_over_a_wall_changed_my_direction_as_a/</guid>
       <pubDate>Tue, 26 Nov 2024 23:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 OpenTelemetry 和 Jaeger 对 Nest 应用程序进行分布式跟踪</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0paqn/distributed_tracing_with_opentelemetry_and_jaeger/</link>
-      <description><![CDATA[  由    /u/Sagyam  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0paqn/distributed_tracing_with_opentelemetry_and_jaeger/</guid>
-      <pubDate>Tue, 26 Nov 2024 22:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 中的 try { return } finally {}</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0nvcn/try_return_finally_in_java/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0nvcn/try_return_finally_in_java/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:50:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需法学硕士即可撰写此文章</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0nooo/generating_this_post_without_llms/</link>
-      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0nooo/generating_this_post_without_llms/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决背压生产者消费者问题？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0mh35/how_to_solve_producer_consumer_problem_with/</link>
-      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0mh35/how_to_solve_producer_consumer_problem_with/</guid>
-      <pubDate>Tue, 26 Nov 2024 20:52:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meetcode：人工智能驱动的协作代码编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0m31n/meetcode_ai_powered_collaborative_code_compiler/</link>
-      <description><![CDATA[  由    /u/sperodev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0m31n/meetcode_ai_powered_collaborative_code_compiler/</guid>
-      <pubDate>Tue, 26 Nov 2024 20:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 代码生成仍将保持碎片化</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0kmkz/ai_code_generation_will_remain_fragmented/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0kmkz/ai_code_generation_will_remain_fragmented/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:36:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Neon + PostgREST 重建 Supabase 的 API 体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0k1mw/rebuilding_supabases_api_experience_using_neon/</link>
-      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0k1mw/rebuilding_supabases_api_experience_using_neon/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 PostgreSQL 批量提取进行基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1h0k0ww/benchmarking_postgresql_batch_ingest/</link>
-      <description><![CDATA[  由    /u/jamesgresql  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h0k0ww/benchmarking_postgresql_batch_ingest/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:12:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
