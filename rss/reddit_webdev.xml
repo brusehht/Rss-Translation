@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 01:09:37 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 28 Nov 2024 03:31:05 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助，了解使用什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</link>
+      <description><![CDATA[我将为我在大学的毕业设计创建一个 Web 应用，我将创建一个带有可选建筑的大学本地地图。该 Web 应用还应能够搜索不同的房间/办公室，并显示从大门到目的地的自定义路径。 现在我的问题是，我不确定要使用什么技术/语言。有人能给我指明正确的方向吗？我对 Web 开发还不熟悉，但在编程方面有一些经验。    提交人    /u/RainbowSwamp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</guid>
+      <pubDate>Thu, 28 Nov 2024 02:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel Livewire 和 NextJS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1l0rd/laravel_livewire_nextjs/</link>
+      <description><![CDATA[我正在检查这两个并得出这个结论：  Laravel Livewire 适用于后端开发人员构建全栈并从后端编写更好的前端代码 NextJS 适用于前端开发人员构建全栈并像编写前端一样编写一些后端代码  我错了吗？    提交人    /u/kidino   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1l0rd/laravel_livewire_nextjs/</guid>
+      <pubDate>Thu, 28 Nov 2024 01:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该去职业学校还是大学学习网络开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1ktmt/should_i_go_to_trade_school_or_college_for_web/</link>
+      <description><![CDATA[很抱歉，我也想问这个问题。只是好奇    由    /u/Xizxtro  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1ktmt/should_i_go_to_trade_school_or_college_for_web/</guid>
+      <pubDate>Thu, 28 Nov 2024 01:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>与客户的不愉快经历</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1kswd/bad_experience_with_a_client/</link>
+      <description><![CDATA[最初，客户要求我们设计一个 Figma 原型，然后开发网站。一开始很棒，只是需要一些反馈。 我们向客户征求反馈，他们向我们发送了另一个 Figma 设计，并提出了改进建议。然而，这个新的 Figma 文件完全混乱，设计完全改变了。它有一个与部分不匹配的渐变背景，各个部分的字体大小不均匀，到处都是粗体字体。 我立刻失去了再次编码的动力。不过，我还是对其进行了一些细微的改进（乍一看并不明显）。然后客户坚持说他们想要它完全像新的 Figma 设计。我也这么做了，但由于 Figma 文件的结构很差，复制它几乎是不可能的。尽管如此，我还是尽我所能地进行了像素匹配。 经过这一切，客户说：“我不喜欢它。” 我再也没有给他们发过消息。    提交人    /u/VAIDIK_SAVALIYA   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1kswd/bad_experience_with_a_client/</guid>
+      <pubDate>Thu, 28 Nov 2024 01:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>不确定要使用哪个 CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1kbw7/confused_on_which_cms_to_use/</link>
+      <description><![CDATA[我正在为一个家庭成员建立一个网站。我有 Web 开发经验（主要是前端，但我也了解一些后端），我已经获得了域名、托管并设置了 Plesk。 该网站将主要托管文章和类似内容。它还将用于网络广播（它将托管在其他地方，我只需获取音频源）。 经过一些研究，似乎 WordPress 可能是此类网站的最佳 CMS。我以前使用过 WordPress，但我不太喜欢它的前端限制，而且我不知道任何 PHP 来制作自定义主题。我也研究过无头 WordPress，但它似乎有点复杂。我应该花时间吗？ 我最初只是考虑制作一个纯 html、css、js + 网站并通过 git 推送到 plesk，但它看起来不太方便更新。 我是一名计算机科学专业的学生，​​并且考虑将 Web 开发作为职业，所以我不介意学习新东西（但我也没有很多时间） 有经验的人可以给我一些建议吗？ 抱歉，问题的结构有点混乱 提前感谢任何人花时间阅读我的问题。    提交人    /u/NickN21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1kbw7/confused_on_which_cms_to_use/</guid>
+      <pubDate>Thu, 28 Nov 2024 01:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的黑色星期五购物清单（仅限课程）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1kan0/what_are_your_black_friday_hauls_courses_only/</link>
+      <description><![CDATA[对我来说，它们是：1. Josh Comeau 的 joyofreact 2. Josh Comeau 的 JS 中的 CSS 3. pragmatic studios 的 Rails + Hotwire 很高兴能完成它们！    提交人    /u/Ok-Carob5798   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1kan0/what_are_your_black_friday_hauls_courses_only/</guid>
+      <pubDate>Thu, 28 Nov 2024 01:14:43 GMT</pubDate>
+    </item>
     <item>
       <title>我们可以使用什么服务来同步银行交易？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1jcfe/any_services_we_can_use_for_syncing_bank/</link>
@@ -13,7 +55,7 @@
       <pubDate>Thu, 28 Nov 2024 00:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>寻找美国公司的远程工作，让我可以在欧洲工作</title>
+      <title>寻找能让我在欧洲工作的美国公司的远程工作</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1ix61/finding_remote_jobs_from_us_companies_that_will/</link>
       <description><![CDATA[我明年夏天要搬到西班牙，我现在的雇主不让我继续工作。我想在美国公司找一份其他工作，这样我就可以在美国以外的地方工作。  如果有人能推荐一些特定的求职网站或找到这类公司的方法，那就太好了。或者任何关于如何找到这类公司的建议。     提交人    /u/TacoWaffleSupreme   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1ix61/finding_remote_jobs_from_us_companies_that_will/</guid>
@@ -43,7 +85,7 @@
     <item>
       <title>我是否想聘请一名网络开发人员？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1gbzy/am_i_trying_to_hire_a_web_developper/</link>
-      <description><![CDATA[我一直在制作我想要的网站模型，并在 InDesign 中起草。我想聘请一位能将我的设计变为现实的人。我要招聘的职位是网站开发人员吗？有没有更具体的职位？ 抱歉，我知道这个问题可能听起来很蠢，但我所做的所有搜索都让我得出“可能”的答案，我不想浪费任何人的时间去面试错误的专业。    提交人    /u/Independent-Low-6315   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在制作我想要的网站模型，并在 InDesign 中起草。我想聘请一位能将我的设计变为现实的人。我招聘的职位是网站开发人员吗？有没有更具体的职位？ 抱歉，我知道这个问题可能听起来很蠢，但我所做的所有搜索都让我得出“可能”的答案，我不想浪费任何人的时间去面试错误的专业。    提交人    /u/Independent-Low-6315   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1gbzy/am_i_trying_to_hire_a_web_developper/</guid>
       <pubDate>Wed, 27 Nov 2024 22:06:43 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[我遇到了无法通过 express 传递多个文件的问题（我只能传递一个 html 文件，所以没有样式或其他文件）。我发现中间件是解决方案，我知道如何使用它，但我不明白它如何解决我的问题。 或者，有没有办法只通过 express 发送整个文件夹？    提交人    /u/GamesInc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1dls2/how_to_use_express_middleware_to_build_a/</guid>
       <pubDate>Wed, 27 Nov 2024 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Gimli Tailwind 4.4 中的新功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1b9xv/see_whats_new_in_gimli_tailwind_44/</link>
-      <description><![CDATA[  由    /u/JHjertvik  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1b9xv/see_whats_new_in_gimli_tailwind_44/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>成为一名 webdev 还值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1amcw/still_worth_to_become_a_webdev/</link>
-      <description><![CDATA[两三年前，我因为抑郁症中途辍学了，我还保留着以前在课堂上录制的视频，现在正在看那些视频并用来训练，我看到有人说 Web 开发正在消亡，工具会为你完成所有的工作，所以不值得学习，这是真的吗？人工智能会完全接手这份工作吗？我的前端快完成了，我知道 html css JavaScript 和一些 c# 数据库和一个叫 bootstrap 的工具，但没能参加我的 React 研讨会，有人告诉我，如果我完成 React 研讨会，我就可以成为前端开发人员，我现在很迷茫，因为工作可以在伊朗这样的穷国赚很多钱，如果不可能，那我就只能当农民了    提交人    /u/Key_Corner_6292   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1amcw/still_worth_to_become_a_webdev/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的工作更多的是项目/功能开发还是救火？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1a70m/is_your_job_more_of_projectfeature_development_or/</link>
-      <description><![CDATA[查看投票    由    /u/gooblero 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1a70m/is_your_job_more_of_projectfeature_development_or/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚完成我的 Windows 95 主题作品集（接受​​批评）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1a6no/just_finished_my_windows_95_themed_portfolio/</link>
-      <description><![CDATA[      https://preview.redd.it/68e4kqxbeh3e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=6d9e610950e375fe517de59c6f9ee17b862a45a3 我仍然需要更好的网站来填补空白，这很难，因为我最近主要在后端工作。欢迎任何反馈 &lt;3  https://leonavarro(dot)surge.sh/    由   提交  /u/123nottherealmes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1a6no/just_finished_my_windows_95_themed_portfolio/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:47:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端后端 (BFF) 身份验证简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h19dzi/introduction_to_backend_for_frontend_bff/</link>
-      <description><![CDATA[        提交人    /u/ZuploAdrian   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h19dzi/introduction_to_backend_for_frontend_bff/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编写博客代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h18obm/how_to_code_a_blog/</link>
-      <description><![CDATA[嗨，开发人员！希望你们本周过得愉快。 我是一名相当新的 Web 开发人员，主要专注于前端和 html/css/JS 设计方面。我最近在自由职业方面取得了一些成功，但一些客户要求我开设一个可以运行的博客。我很想添加这个功能，作为我可以为客户提供的东西，但我不知道从哪里开始。如果有人可以指出我在哪里可以学习如何做到这一点的正确方向，欢迎提供任何建议或提示！谢谢。    提交人    /u/PrincipleLazy3383   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h18obm/how_to_code_a_blog/</guid>
-      <pubDate>Wed, 27 Nov 2024 16:44:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
