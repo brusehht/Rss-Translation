@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 30 Nov 2024 06:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 09:14:42 GMT</lastBuildDate>
+    <item>
+      <title>Bountyboard——利用开源赚钱的新方式</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h384uy/bountyboard_a_new_way_to_earn_money_with_open/</link>
+      <description><![CDATA[在过去的一年里，我为多个开源项目做出了贡献，并完成了来自各种项目的许多付费赏金。 在整个过程中，我最大的悲痛之一就是很难找到有赏金的有趣项目。 为了帮助其他人轻松找到开源赏金，我制作了https://bountyboard.btsht.xyz 非常高兴听到您的反馈/问题并进一步联系 谢谢！    提交人    /u/aaronbalzac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h384uy/bountyboard_a_new_way_to_earn_money_with_open/</guid>
+      <pubDate>Sat, 30 Nov 2024 08:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使开源项目在财务上可持续发展？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h37zp5/how_to_make_an_open_source_project_sustainable/</link>
+      <description><![CDATA[大家好， 我是 Serial Studio 的创建者，这是一款用于嵌入式/物联网项目的仪表板软件。它允许嵌入式开发人员可视化数据、创建实时仪表板并将数据导出到 CSV 文件，而无需为每个项目编写自定义软件。 Serial Studio 的想法来自我在大学期间，当时我从事遥测密集型项目，如 CanSat 竞赛和流动站。当时，我不断为每个项目构建新的仪表板软件，这经常导致（非常）熬夜和匆忙修复。为了简化事情，我开始开发 Serial Studio 作为“通用”解决方案。随着时间的推移，它已经发展成为一种工具，被世界各地的人们用于研究、教学和个人项目。 虽然我为它的影响力感到自豪，但维护如此规模的开源项目一直是一项挑战。像许多开源维护者一样，我也曾精疲力竭。用户通常期望免费获得错误修复、功能请求和教程/指南，而只有少数人为项目提供资金支持或贡献代码。两年前，在工作、大学和日常生活之间，我完全暂停了开发。我最近又开始着手开发，但想确保自己不会落入同样的陷阱。 我现在正在考虑一种新模式：保持源代码免费，但在 App Store 和 Microsoft Store 等平台上对预构建的二进制文件收取少量费用。Linux 版本可能仍是免费的，因为我的大多数用户都在使用 macOS 或 Windows。我的目标是让项目可持续发展，同时又不疏远围绕它成长起来的社区。 我很想听听您的想法：  您是否为开源项目实施了类似的货币化策略？ 您如何平衡社区期望与可持续性？ 我还有其他方式可以资助这个项目吗（例如赞助、高级功能等）？  我对这个项目充满热情，并且喜欢在有空的时候为它工作。我希望看到它蓬勃发展，但我也需要确保它的发展是长期可持续的。任何建议或反馈都将意义重大！ 感谢您的时间和意见！    提交人    /u/daspat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h37zp5/how_to_make_an_open_source_project_sustainable/</guid>
+      <pubDate>Sat, 30 Nov 2024 08:11:49 GMT</pubDate>
+    </item>
     <item>
       <title>志愿者工作</title>
       <link>https://www.reddit.com/r/opensource/comments/1h36bl0/volunteer_work/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[首先感谢这个 subreddit 的所有贡献者。没有哪个社区比这个更乐于助人、更有奉献精神。我正在寻找一些内部自托管软件的建议。用例是这样的，笔记本电脑和台式机由多达 15 名技术人员进行维修。 当某些东西由于许多不同的原因而出现故障时，需要对机器和订单进行维修。 理想的情况是单选框或其他带有一般故障原因的框以及用于补充所需注释的文本框。 我希望每个用户都有自己的用户帐户，其中会出现他们的工单，并汇总到负责维修的不同团队，然后返回给原始技术人员。理想情况下，维修团队可以使用某种类型的注释将票据更新为解决方案。 也许在后端有一个报告当天票据和解决方案的功能。 每个人都可以访问浏览器，并能够在基于 Windows 的浏览器中访问该软件。 我喜欢的易于配置但很短的是 NextCloud 中的表单。没有后续功能可以进一步完成工作流程。 在阅读了这个冗长的需求描述之后，有人有什么建议吗？ 我有三个集群 ProxMox 和单独的 TrueNAS 规模的巨大实例。 谢谢！    提交人    /u/dreammerr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h1uofn/ticketingevent_software/</guid>
       <pubDate>Thu, 28 Nov 2024 12:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>这真是一个蹩脚的想法吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h1u0ds/is_there_really_a_lame_idea/</link>
-      <description><![CDATA[因此，我指导学生（作为全栈开发人员），并且通过在 GitHub 上创建团队的开源项目来填补空间。 乍一看，我的想法是创建一个更复杂的 passbolt 版本，保留 MVP 并添加更多此类项目中“缺失”的功能。 而学生的父亲（一名开发人员）称这是一个蹩脚的想法，因为 Google 已经提供了此功能并且“它 100％安全”。 这个项目的第一个灵感是让学生学习高级 GitHub 功能并专注于敏捷工作，因为这个项目可以通过 Jira、Slack、Github 进行管理。 如果你是我，你会怎么做？   由    /u/KoalNix  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h1u0ds/is_there_really_a_lame_idea/</guid>
-      <pubDate>Thu, 28 Nov 2024 11:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 Onenote 的真正竞争对手，具有密码锁定、AFK 自动锁定和共享笔记的离散区域（但不是所有笔记）的功能？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h1tm01/any_real_competitors_to_onenote_with_password/</link>
-      <description><![CDATA[大家好，我目前正在使用 Notion，并正在考虑 Appflowy 和 Affine - 这两款应用外观精美，功能强大。但最近我有点笨，需要将我的所有管理员生活备份到云端。 它需要密码锁定。 它需要在 AFK 几分钟后自动锁定。 它需要与其他成员共享某些笔记块 - 但不是全部 - 并且他们也有一个具有 AFK 密码锁定的应用程序。 Trilium 非常接近 - 但它只有一个用户。如果我分享该密码 - 它会解锁我所有的笔记。 我发现的唯一一款可以做到这一切的笔记应用程序？Microsoft Onenote。是的 - 今天看起来像 DOS 和 Deadpool 生了一个孩子的 Notes 应用程序 - 而不是像 Dogpool 那样丑陋可爱的方式！ 请告诉我我错了，Onenote 不是唯一的一个？因为有人用丑陋的棍子击打那个应用程序，直到它瘀伤流血并且无法直行。（好吧 - 不能向下滚动而不从左到右摇晃。） 还有其他想法吗？    由   提交  /u/eclipsenow   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h1tm01/any_real_competitors_to_onenote_with_password/</guid>
-      <pubDate>Thu, 28 Nov 2024 11:03:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
