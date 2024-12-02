@@ -3,8 +3,29 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 02 Dec 2024 03:33:30 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Mon, 02 Dec 2024 06:21:17 GMT</lastBuildDate>
+    <item>
+      <title>下一代 OCR 2.0（OCR + Gen AI）的实际需求在哪里</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4nqn8/where_are_the_actual_needs_of_next_generation_ocr/</link>
+      <description><![CDATA[嗨，直接进入正题，我认为 OCR 的当前状态虽然准确，但可推广性很差。例如，我们无法将其扩展/推广到： - 动态结构化输出（例如，用户将提供文档进行 OCR 并告诉要生成什么或提供需要遵守的架构） - 处理混合模式（表格 + 图像 + 文本）或多语言或混合语言 - 捕获字体样式和位置等。 所以我想知道，您正在寻找什么样的文档智能用例或什么形式？我正在构建这样的文档智能来处理上述用例。但是，有很多事情可以做，我不想深入研究功能兔子洞。所以我在这里公开询问，您想要什么用例以及您希望如何在日常生活中使用它。以下是一些内容： - 上传发票，然后您告诉他们要提取什么以及如何提取，然后我会为您提取。 （如果您不添加任何模式，它只会进行正常解析） - 理解混合文档，例如上传文档（例如 pdf，其中包含图像/表格/文本），我将为您提供解析后的文本/markdown（或您想要的任何格式），以便您可以在下游任务中使用它 - 就像上面一样，但也对文档进行分块，您可以将其用于 RAG 之类的用例 - 或者只是在它之上添加多模式 RAG 功能 我的目标是为文档解析和文档理解制作一个便宜/强大的通用解决方案。 请给我您的反馈，我想知道这个问题是否真的存在以及痛点在哪里？    提交人    /u/No-Street-3020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4nqn8/where_are_the_actual_needs_of_next_generation_ocr/</guid>
+      <pubDate>Mon, 02 Dec 2024 05:24:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 12 月 1 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4n7n3/oneminute_daily_ai_news_1212024/</link>
+      <description><![CDATA[ 埃隆·马斯克向 OpenAI 提出禁令，阻止其转变为一家营利性公司。[1] OpenAI 的 Altman 相信特朗普将保持美国在人工智能领域的领先地位。[2] Meta AI 发布 Llama Guard 3-1B-INT4：一种用于人机对话的紧凑型高性能人工智能调节模型。[3] 混合推荐系统 (HRS-IU-DL)：使用深度学习技术提高准确性和个性化。[4]  来源包括：https://bushaicave.com/2024/12/01/12-1-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4n7n3/oneminute_daily_ai_news_1212024/</guid>
+      <pubDate>Mon, 02 Dec 2024 04:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>F5-TTS 在音频克隆方面被严重低估了！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4mz4v/f5tts_is_highly_underrated_for_audio_cloning/</link>
+      <description><![CDATA[因此，我尝试在本地系统中设置 F5-TTS。该模型是音频克隆的瑰宝，可以生成 1) 长音频克隆 2) 开放源，因此可以无限生成 3) 质量一流 4) 不占用大量资源（适用于 24 GB RAM、4 GB GPU（nvidia GeForce 2050）。查看如何在本地进行设置：https://youtu.be/q486YZ5GCtw    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4mz4v/f5tts_is_highly_underrated_for_audio_cloning/</guid>
+      <pubDate>Mon, 02 Dec 2024 04:40:08 GMT</pubDate>
+    </item>
     <item>
       <title>吉百利五星服务器农场降低人工智能效率</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4lc58/cadbury_5_star_server_farm_to_make_ai_less/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>摘要：代理工具的自动化设计</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4l720/abstract_automated_design_of_agentic_tooling/</link>
-      <description><![CDATA[今天早些时候，我有一个想法，我要向 Reddit AI 的一些子版块开放，以众包方式对其可行性做出判断，无论是在理论层面还是在实用层面。 你们中的一些人可能听说过胡胜然的论文“代理系统的自动设计”，该论文从这样一个前提开始：如果资源不是问题，用图灵完备语言构建的机器可以做任何事情，而人类可以做一些范围比“任何事情”更窄的生产性任务。胡和他的团队认为，随着时间的推移，这意味着由人工智能代理设计的人工智能代理将不可避免地超越手工制作的、人类设计的代理。该论文表明，通过使用“元搜索代理”迭代构建代理或从派生的构建块组装代理，生成的代理通常会比其设计代理前辈看到显着的性能改进。至少在商用量子计算机出现之前，这种技术不太可能在生产应用中得到广泛部署，但我和其他许多人都认为胡对其基本前提的展示非常出色。 现在，我的想法是。考虑以下情况：我们有一个代理，并且该代理在一个异常混乱的环境中运行。代理必须处理大量的潜在情况或条件，数量如此之多，以至于在工作流中写出整个可能的场景集要么是不可能的，要么非常不方便。假设代理可能遇到的整个可能情况集分为两组：一组是可预测的，可以用标准代理技术处理，另一组是不可预测的，在图表开始运行之前无法预料。在后一种情况下，我们可能希望在代理系统中的一个或多个图中添加一个特殊节点：该节点将根据对当前情况的评估*动态地、现场地*设计、实例化和调用自定义工具。 按照 Hu 的逻辑，如果用 Python 或 TypeScript 编写的智能在理论上可以做任何事情，而人类开发人员只能做一些不及“任何事情”的事情，那么人工智能在构建它可以使用的工具方面的能力从根本上比人类智能要强。 要点如下：使用这种推理，ADAS 方法可以修改或增强为“ADAT”（代理工具的自动设计）方法，从表面上看，我认为这可以在现在的生产中成功实现。这是我的假设，我想听听您的看法，无论您认为这些假设存在缺陷还是定义明确。 P1：与完整代理相比，工具在工作流程中的自由度要小得多，并且通常由更少的步骤组成。 P2：与完整代理相比，工具在使用后改变工作流程路径的能动性较小。 P3：ADAT 虽然对工作流程的功能/变革性不如 ADAS，但与 ADAS 相比，它以复合不确定性形式产生的惩罚更少，并且对代理过程的复杂性也更低。 Q.E.D：“即兴工具生成”节点将是一种新颖、有效的措施，可用于处理代理工作流中的混乱或不确定性，也许也可用于其他情况。 我不是 AI 或 ML 科学家，只是普通的 GenAI 开发人员，但如果我的推理看起来合理，我将希望与数学家或 ML 工程师合作，并尝试证明或反驳这一点。如果您发现此想法存在任何重大或关键缺陷，请告诉我：如果它具有我认为可能的潜力，我想追求这个想法，但如果它无效，而我缺乏数学或研究培训，这可能会掩盖这一点，那么我就不会追求它。 谢谢大家！    提交人    /u/glassBeadCheney   [链接] [评论]]]></description>
+      <description><![CDATA[今天早些时候，我有一个想法，我要向 Reddit AI 的一些子版块开放，以众包方式对其可行性做出判断，无论是在理论层面还是在实用层面。 你们中的一些人可能听说过胡胜然的论文“代理系统的自动设计”，该论文从这样一个前提开始：如果资源不是问题，用图灵完备语言构建的机器可以做任何事情，而人类可以做一些范围比“任何事情”更窄的生产性任务。胡和他的团队认为，随着时间的推移，这意味着由人工智能代理设计的人工智能代理将不可避免地超越手工制作的、人类设计的代理。该论文表明，通过使用“元搜索代理”迭代构建代理或从派生的构建块组装代理，生成的代理通常会比其设计代理前辈看到显着的性能改进。至少在商用量子计算机出现之前，这种技术不太可能在生产应用中得到广泛部署，但我和其他许多人都认为胡对其基本前提的展示非常出色。 现在，我的想法是。考虑以下情况：我们有一个代理，并且该代理在一个异常混乱的环境中运行。代理必须处理大量的潜在情况或条件，数量如此之多，以至于在工作流中写出整个可能的场景集要么是不可能的，要么非常不方便。假设代理可能遇到的整个可能情况集分为两组：一组是可预测的，可以用标准代理技术处理，另一组是不可预测的，在图表开始运行之前无法预料。在后一种情况下，我们可能希望在代理系统中的一个或多个图中添加一个特殊节点：该节点将根据对当前情况的评估*动态地、现场地*设计、实例化和调用自定义工具。 按照 Hu 的逻辑，如果用 Python 或 TypeScript 编写的智能在理论上可以做任何事情，而人类开发人员只能做一些不及“任何事情”的事情，那么人工智能在构建它可以使用的工具方面的能力从根本上比人类智能要强。 要点如下：使用这种推理，ADAS 方法可以修改或增强为“ADAT”（代理工具的自动设计）方法，从表面上看，我认为这可以在现在的生产中成功实现。这是我的假设，我想听听您的看法，无论您认为这些假设存在缺陷还是定义明确。 P1：与完整代理相比，工具在工作流程中的自由度要小得多，并且通常由更少的步骤组成。 P2：与完整代理相比，工具在使用后改变工作流程路径的能动性较小。 P3：ADAT 虽然对工作流程的功能/变革性不如 ADAS，但与 ADAS 相比，它以复合不确定性形式产生的惩罚更少，并且对代理过程的复杂性也更低。 Q.E.D：“即兴工具生成”节点将是一种新颖、有效的措施，可用于处理代理工作流中的混乱或不确定性，也许也可用于其他情况。 我不是 AI 或 ML 科学家，只是一名普通的 GenAI 开发人员，但如果我的推理看起来合理，我将希望与数学家或 ML 工程师合作，并尝试证明或反驳这一点。如果您发现此想法存在任何重大或关键缺陷，请告诉我：如果它具有我认为可能的潜力，我想追求这个想法，但如果它无效，而我缺乏数学或研究培训，这可能会掩盖这一点，那么我就不会追求它。 谢谢大家！    提交人    /u/glassBeadCheney   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4l720/abstract_automated_design_of_agentic_tooling/</guid>
       <pubDate>Mon, 02 Dec 2024 03:03:49 GMT</pubDate>
     </item>
@@ -34,20 +55,6 @@
       <pubDate>Mon, 02 Dec 2024 02:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>数据科学家究竟做什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4jtec/what_does_a_data_scientist_actually_do/</link>
-      <description><![CDATA[我真的很想知道数据科学家的日常生活。他们与数据打交道，但在实践中，这实际上是什么样的？具体来说，我想知道他们的工作有多少集中在人工智能技术上。 数据科学家是否直接与人工智能、计算机视觉、自然语言处理 (NLP) 和神经网络等高级领域合作？例如，如果我想更多地了解这些领域，我应该从事机器学习工程师的职业，还是数据科学家的角色也有这样的空间？ 一般来说：获得人工智能专业知识是否是一个很好的角色，也许有一天可以创办一家初创公司，或者不那么好？    提交人    /u/Filippo295   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4jtec/what_does_a_data_scientist_actually_do/</guid>
-      <pubDate>Mon, 02 Dec 2024 01:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么美国没有对人工智能实施类似《国际武器贸易条例》的限制</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4ir07/why_hasnt_the_us_implemented_itar_like/</link>
-      <description><![CDATA[对于那些不知道 ITAR 是什么的人来说，它涉及一系列严格限制军事性质技术向非美国个人和实体扩散的法规。这使得非美国公民无法在大多数（如果不是所有）与国家安全有关的部门工作（例如国防和某些航空航天公司）。 我最近在 X/Twitter 上阅读了一场激烈的辩论，讨论的是中国（以及非西方友好国家）国民在美国人工智能公司工作的担忧，他们可能会将自己的知识和技能送回祖国。 硅谷目前正在游说扩大更多技术移民，原因包括试图领先于竞争对手并压低工资。 大多数高技能技术工人都持有 H-1B 签证，其中超过 80% 的 H-1B 签证发给了中国或印度国民，并受雇于 OpenAI、Anthropic、DeepMind 等公司。中国积极敌视美国利益，虽然印度不是，但他们不是美国的盟友。 就我个人而言，我发现美国没有对处于前沿领域的公司实施类似 ITAR 的限制真是太疯狂了AI 研究，并积极参与 AGI 的军备竞赛。而其他领域，如航空航天（更具体地说是航空领域），则受到 ITAR 限制，而 SpaceX 等公司甚至因安全风险而不允许雇用加拿大人。然而，人工智能的风险可以说要大得多，但这些限制并不适用 你怎么看？未来会实施此类限制吗？如果会（或不会），为什么？    提交人    /u/rueorywk793   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4ir07/why_hasnt_the_us_implemented_itar_like/</guid>
-      <pubDate>Mon, 02 Dec 2024 00:59:57 GMT</pubDate>
-    </item>
-    <item>
       <title>我的学生对人工智能辅助编程的期望太​​高了……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4i8tm/my_students_have_too_high_expectations_of_ai/</link>
       <description><![CDATA[不久前，我发布了一篇关于我的学生使用 chatGPT4.0 作为编码伙伴的挫败感的文章。感谢那些帮助过的人，我们发现 CoPilot 做得更好，因为它由 GitHub 提供支持，我最近向他们展示了如何将 GitHub 与 Visual Studio 集成。一个正在取得一些进展，并真正努力理解 C# 中的编码。其他人（一个退出了，我还有 2 个 = 5：其中一个新人表现出早期的希望）。 在我的上一次课程中，他们中的 2 人表达了他们对通过 CoPilot 收到的代码的沮丧。我向他们展示了如何通过更清晰的说明获得更好的代码。我还告诉他们，他们是 YouTube 上听到的“AI 炒作”的受害者，尤其是在我看来，Nvidia 老板 Jensen Huang。 有没有关于此事的更知情的 YouTube 可以推荐给他们？我可以引用这里的智者的话吗？ - 从我自己的经验来看，你仍然必须有编程经验和知识。我已经向他们发送了代码，我们在线查看，我还给了他们起始代码来完成。他们似乎仍然认为他们可以或应该能够直接进入 - 请发表您的想法。    提交人    /u/Scotstown19   [link] [评论]]]></description>
@@ -62,16 +69,9 @@
       <pubDate>Sun, 01 Dec 2024 23:56:24 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能圣诞老人不同于商场里普通的圣诞老人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4eema/ai_santa_is_not_your_average_mall_santa/</link>
-      <description><![CDATA[过去一个月，我使用 OpenAI Realtime API 构建了自定义交互式圣诞老人语音聊天，您可以在其中提交您的愿望清单、添加呼叫者详细信息，并获取电话或视频链接，以便在节日前与圣诞老人交谈。这非常有趣（但开发过程中成本高昂！） 我还写了一篇关于技术选择的深入博客，涵盖了从 Three.js 如何用于 3D 小屋场景到粒子降雪和转录动画的所有内容。在这里查看：https://davekiss.com/blog/ai-is-not-your-average-mall-santa 说实话，我认为与人工智能交谈会很伤心，但这很有趣（我的孩子们也很喜欢！）不要认为这会导致互联网的恶化，但很高兴听到你的想法！    提交人    /u/newleaves22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4eema/ai_santa_is_not_your_average_mall_santa/</guid>
-      <pubDate>Sun, 01 Dec 2024 21:42:51 GMT</pubDate>
-    </item>
-    <item>
       <title>未来互联网是否会因为机器人的存在而变得不再适合人类互动？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4dusj/will_the_internet_become_useless_for_human/</link>
-      <description><![CDATA[在 Reddit 上提问时，经常会出现这样的情况，一些回复显然是 AI 生成的。随着 AI 的改进，情况只会越来越糟，而且似乎没有平台采取措施阻止它。几年后，我们能否相信我们帖子下的任何回复都不是机器人？我们能否在网上交朋友而不用担心我们不是在与 AI 交谈？如果 AI 改进了这么多，是否可以进行视频通话？ 如何阻止这一过程？Web 开发人员可以做些什么来使他们的网站可用于与人类交谈？您是否希望互联网将来可用于与真人交谈？老实说，这让我很难过，如果你在现实生活中感到孤独，这是一种很酷的互动方式，但是谁想与机器人互动呢。    提交人    /u/Delicious_Fig_8400   [链接] [评论]]]></description>
+      <description><![CDATA[在 Reddit 上提问时，经常会出现这样的情况，一些回复显然是 AI 生成的。随着 AI 的改进，情况只会越来越糟，而且似乎没有平台采取措施阻止这种情况。几年后，我们能否相信我们帖子下的任何回复都不是机器人的？我们能否在网上交朋友而不用担心我们不是在与 AI 交谈？如果 AI 改进了这么多，是否可以进行视频通话？ 如何阻止这一过程？Web 开发人员可以做些什么来使他们的网站可用于与人类交谈？您是否希望互联网将来可用于与真人交谈？老实说，这让我很难过，如果你在现实生活中感到孤独，这是一种很酷的互动方式，但是谁想与机器人互动呢。    提交人    /u/Delicious_Fig_8400   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4dusj/will_the_internet_become_useless_for_human/</guid>
       <pubDate>Sun, 01 Dec 2024 21:19:33 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
