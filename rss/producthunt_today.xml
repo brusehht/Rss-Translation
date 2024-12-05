@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Dec 2024 09:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 12:30:21 GMT</lastBuildDate>
     <item>
       <title>雅典</title>
       <link>https://www.producthunt.com/posts/athina</link>
       <description><![CDATA[
-更快地构建、测试、监控和交付 AI 投入生产
+构建、测试和监控 AI 应用和代理
 
 
 讨论
@@ -48,20 +48,6 @@
       <pubDate>Wed, 04 Dec 2024 20:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>ElevenLabs 的对话式 AI</title>
-      <link>https://www.producthunt.com/posts/conversational-ai-by-elevenlabs</link>
-      <description><![CDATA[
-构建会说话的 AI 代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/conversational-ai-by-elevenlabs</guid>
-      <pubDate>Wed, 04 Dec 2024 20:13:08 GMT</pubDate>
-    </item>
-    <item>
       <title>旅行包装</title>
       <link>https://www.producthunt.com/posts/travel-wrapped</link>
       <description><![CDATA[
@@ -76,7 +62,7 @@
       <pubDate>Wed, 04 Dec 2024 19:06:21 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 2024 年回顾</title>
+      <title>Spotify 2024 年总结</title>
       <link>https://www.producthunt.com/posts/spotify-wrapped-2024-2</link>
       <description><![CDATA[
 以前所未有的方式体验您这一年的聆听体验
@@ -88,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/spotify-wrapped-2024-2</guid>
       <pubDate>Wed, 04 Dec 2024 18:04:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 2024 年总结</title>
+      <link>https://www.producthunt.com/posts/spotify-wrapped-2024</link>
+      <description><![CDATA[
+重温你在 2024 年发现和喜爱的所有音乐
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/spotify-wrapped-2024</guid>
+      <pubDate>Wed, 04 Dec 2024 13:20:26 GMT</pubDate>
     </item>
     <item>
       <title>再生资源</title>
@@ -118,20 +118,6 @@ Simple AI 可以拨打电话，这样您就不必自己拨打电话了
       <pubDate>Wed, 04 Dec 2024 05:40:04 GMT</pubDate>
     </item>
     <item>
-      <title>战争瑞典</title>
-      <link>https://www.producthunt.com/posts/sota-swe</link>
-      <description><![CDATA[
-VSCode 中最先进的 AI 代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sota-swe</guid>
-      <pubDate>Tue, 03 Dec 2024 18:18:56 GMT</pubDate>
-    </item>
-    <item>
       <title>FidForward 的公司价值生成器</title>
       <link>https://www.producthunt.com/posts/fidforward-s-company-values-generator</link>
       <description><![CDATA[
@@ -144,6 +130,34 @@ VSCode 中最先进的 AI 代理
 ]]></description>
       <guid>https://www.producthunt.com/posts/fidforward-s-company-values-generator</guid>
       <pubDate>Tue, 03 Dec 2024 14:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Documenso 平台计划</title>
+      <link>https://www.producthunt.com/posts/documenso-platform-plan</link>
+      <description><![CDATA[
+产品中的白标签名流程
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/documenso-platform-plan</guid>
+      <pubDate>Tue, 03 Dec 2024 10:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 的花粉</title>
+      <link>https://www.producthunt.com/posts/pollen-for-linkedin</link>
+      <description><![CDATA[
+标记、整理并向 LinkedIn 个人资料添加注释
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pollen-for-linkedin</guid>
+      <pubDate>Mon, 02 Dec 2024 06:35:07 GMT</pubDate>
     </item>
     <item>
       <title>天空之桥</title>
@@ -160,20 +174,6 @@ VSCode 中最先进的 AI 代理
       <pubDate>Mon, 02 Dec 2024 03:46:47 GMT</pubDate>
     </item>
     <item>
-      <title>Playmaker 出品的桌子</title>
-      <link>https://www.producthunt.com/posts/tables-by-playmaker</link>
-      <description><![CDATA[
-立即将非结构化数据转换为可操作数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tables-by-playmaker</guid>
-      <pubDate>Tue, 26 Nov 2024 08:42:59 GMT</pubDate>
-    </item>
-    <item>
       <title>超频</title>
       <link>https://www.producthunt.com/posts/sdrx</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@ AI SDR 让您的出站自动运行
       <pubDate>Mon, 25 Nov 2024 11:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>指针</title>
-      <link>https://www.producthunt.com/posts/pointer-3</link>
+      <title>反射云</title>
+      <link>https://www.producthunt.com/posts/reflex-cloud</link>
       <description><![CDATA[
-Google Docs 的 AI 编辑副驾驶
+使用纯 Python 构建 Web 应用 + 使用单个命令进行部署
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/pointer-3</guid>
-      <pubDate>Fri, 08 Nov 2024 13:34:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/reflex-cloud</guid>
+      <pubDate>Thu, 14 Nov 2024 21:47:25 GMT</pubDate>
     </item>
     <item>
       <title>恩伯里斯特</title>
