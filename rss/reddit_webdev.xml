@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 06:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 09:17:49 GMT</lastBuildDate>
+    <item>
+      <title>Editorjs 和 Word 复制粘贴</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</link>
+      <description><![CDATA[我遇到了这个问题，当我的客户端将 word 粘贴到 editorjs 中时，它会一直将其读取为图像并使用图像粘贴处理程序。但这只发生在 word 中，如果从 onlyoffice 或 libre 之类的东西粘贴，它就可以正常工作，这非常奇怪。如果有人遇到过类似的问题或知道任何潜在的修复方法，任何帮助都将不胜感激。谢谢。    提交人    /u/SnooWords5221   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</guid>
+      <pubDate>Mon, 16 Dec 2024 08:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求安全、异步、快速开发的全栈框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/</guid>
+      <pubDate>Mon, 16 Dec 2024 08:20:32 GMT</pubDate>
+    </item>
     <item>
       <title>如何调试移动设备上最大内容绘制 (Largest Contentful Paint) 速度缓慢的问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>帮助使用 HTML 和 CSS 布局一行具有各种纵横比的图像</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/</link>
-      <description><![CDATA[      我感觉我遇到了一个非常简单的问题，但我无法解决（而且 AI 也没有帮助）。我有一个网站，该网站会从一组图像中随机选择 4 幅图像进行显示。许多图像具有不同的宽高比，这使得情况变得复杂。图像应显示在一行中，并且所有图像的高度应完全相同。任何图像之间或周围都不应有间隙或空白。所有图像都不应被裁剪。基本上，整个容器的高度应调整为将所有 4 幅图像以相同的高度排成一行，同时占据整个页面的宽度。图像不需要都具有相同的宽度，但我找到的每种解决方案似乎都有这种行为。 以下是我目前得到的一些示例照片： &lt;div class=&quot;image-collage&quot;&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/16-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/13-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 752 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 836 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;/div&gt; .image-collage { display: grid; grid-auto-flow: column; grid-auto-columns: auto; width: 100%; height: auto; } .image-collage-image-container { display: flex; align-items: center; } .image-collage-image { height: auto; width: 100%; filter: brighten(75%); }  下面是它的渲染方式： https://preview.redd.it/dwznv8zfh47e1.png?width=3828&amp;format=png&amp;auto=webp&amp;s=6f92f26b969d12d621c5851863f618bcee950509 如您所见，第二张图像的上方和下方都有空白以填充空间，但我不想要这样。我想要的是其余图像缩小直到它们都具有相同的高度，然后所有图像一起增长直到它们填满页面的宽度。 我希望我的解释有意义。任何帮助都值得赞赏。    提交人    /u/B00mKing   [link] [评论] ]]></description>
+      <description><![CDATA[      我感觉我遇到了一个非常简单的问题，但我无法解决（而且 AI 也没有帮助）。我有一个网站，该网站会从一组图像中随机选择 4 幅图像进行显示。许多图像具有不同的宽高比，这使得情况变得复杂。图像应显示在一行中，并且所有图像的高度应完全相同。任何图像之间或周围都不应有间隙或空白。所有图像都不应被裁剪。基本上，整个容器的高度应调整为将所有 4 幅图像以相同的高度排成一行，同时占据整个页面的宽度。图像不需要都具有相同的宽度，但我找到的每种解决方案似乎都有这种行为。 以下是我目前得到的一些示例照片： &lt;div class=&quot;image-collage&quot;&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/16-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/13-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 752 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 836 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;/div&gt; .image-collage { display: grid; grid-auto-flow: column; grid-auto-columns: auto; width: 100%; height: auto; } .image-collage-image-container { display: flex; align-items: center; } .image-collage-image { height: auto; width: 100%; filter: brighten(75%); }  下面是它的渲染方式： https://preview.redd.it/dwznv8zfh47e1.png?width=3828&amp;format=png&amp;auto=webp&amp;s=6f92f26b969d12d621c5851863f618bcee950509 如您所见，第二张图像的上方和下方都有空白以填充空间，但我不想要这样。我想要的是其余图像缩小直到它们都具有相同的高度，然后所有图像一起增长直到它们填满页面的宽度。 我希望我的解释有意义。 任何帮助都值得赞赏。    提交人    /u/B00mKing   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/</guid>
       <pubDate>Mon, 16 Dec 2024 02:37:20 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[例如，健康和 PTO、假期等。您的工作中是否存在人们通常不关注的福利？    提交人    /u/EspressoOverdose   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf45pk/what_are_some_of_the_benefits_that_people_dont/</guid>
       <pubDate>Sun, 15 Dec 2024 22:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个 Chrome 扩展程序，它使用 AI 来组织你的 Chrome 标签页</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</link>
-      <description><![CDATA[大家好，这个扩展程序是我为了让我们的浏览器更加井然有序而进行的一次小小尝试。它提供了 3 种不同的方法来组织您的标签 - 按类别、上次访问或预测（您接下来更有可能访问哪些标签）。 该扩展程序使用 Gemini turbo 1.5 对您的标签进行分类。  请让我知道您的想法 https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg 此外，我还制作了一个小视频来演示扩展功能 https://www.youtube.com/watch?v=RpxBAnwHmUM    提交人    /u/tamir_nakar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</guid>
-      <pubDate>Sun, 15 Dec 2024 21:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资组合的想法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</link>
-      <description><![CDATA[我需要一些有趣的东西来为一个高级 Web 开发项目编写程序。最好使用 Node 中的后端进行反应。    提交人    /u/salvadorabledali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</guid>
-      <pubDate>Sun, 15 Dec 2024 20:41:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
