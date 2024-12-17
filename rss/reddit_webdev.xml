@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 21:14:29 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 17 Dec 2024 01:10:57 GMT</lastBuildDate>
+    <item>
+      <title>figma 项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfwykc/a_figma_project/</link>
+      <description><![CDATA[您好，我重新设计了一个 figma 项目，因为我认为将它放在作品集项目中会很不错。您有什么想法吗？ （我只制作了登陆页面）这是 Figma?node-id=27-387&amp;p=f&amp;t=sj4vhD4wsljNDtoI-0) 项目。 我还没有让它响应，但如果你们都认为这对我的投资组合来说是件好事，请告诉我:)    提交人    /u/FirmRepresentative24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfwykc/a_figma_project/</guid>
+      <pubDate>Mon, 16 Dec 2024 23:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何在 React 中使用 Vue 模板语法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfvage/anyone_know_a_way_to_use_vue_template_syntax_with/</link>
+      <description><![CDATA[TL;DR 我所在的团队中，人们讨厌 React JSX 语法（标记内有太多 JavaScript），而这正是他们改用 VueJS 的主要动机。与此同时，我正因为 Vue 的所有怪异之处而苦恼，我想我想要尝试使用 React，但使用 Vue 的元素生成语法。 问题是，我不知道是否存在这样的东西 - 一个插件或类似的东西，允许我们使用类似 Vue 的语法而不是 JSX 来创建 React 元素。有人见过这样的事情吗？    提交人    /u/Adept-Apple773   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfvage/anyone_know_a_way_to_use_vue_template_syntax_with/</guid>
+      <pubDate>Mon, 16 Dec 2024 22:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有机会为我的公司启动一项慈善活动，但没有可用资源，我应该考虑什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfv2p0/opportunity_to_kick_off_a_charity_initiative_for/</link>
+      <description><![CDATA[大家好， 作为一个副项目，我被执行团队要求为公司启动一项慈善事业。我不是一名网页开发人员，也没有这方面的经验，只是一个有双手、半个大脑和一项任务的人。自然，它会从小处开始，然后逐年发展，长期与名人等合作，慈善拍卖和直播等等。他们有大量的钱可以挥霍，但希望下周能向他们展示一份路线图，并在第一季度提供可行的概念证明。像常规捐赠系统这样的东西对于年初来说是可以的。 我将不得不在进行过程中要求预算，但基本上将依靠 Fiver 或自由职业的网络开发人员来完成项目。 在我开始之前，我确实想问一下可能做过这类工作的经验丰富的网络开发人员，在路线图介绍期间我可能需要向他们提出哪些考虑因素，以使推出更容易？ 我想到； - 支付系统，我们将使用什么？ - 全球捐赠/系统的合法性 - 与法律团队一起写出的法律术语 - 它会是我们正常网站的子域名（charity.SITENAME.com），还是一个全新的网站，还是我们网站的子目录（SITENAME.com/charity）？ 每种方法的优点和缺点是什么？ 如果您是从事此项工作的 Web 开发人员，除了经典的“展示我们希望的设计的演示文稿”之外，您还想知道什么？    提交人    /u/HoldMyNaan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfv2p0/opportunity_to_kick_off_a_charity_initiative_for/</guid>
+      <pubDate>Mon, 16 Dec 2024 22:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify App-如何在拥有我的应用程序的多家商店中追踪用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfuuz0/shopify_app_how_to_track_user_among_several/</link>
+      <description><![CDATA[我是否试图实现不可能的事情？请阅读全文。  我有一个移动应用程序，用户可以在其中存储他们的收据数据。还有一个 Shopify 应用程序，它基本上显示一个按钮，单击时会显示首次身份验证的二维码。因此，我使用设备指纹来跟踪用户、更新数据库等。  问题： 1. 指纹识别是进行跨域验证的唯一身份验证方法吗？我不希望我的用户一次又一次地扫描二维码进行验证。我正在研究 cookie，但它们对于跨域毫无用处。 还有什么可能？Chatgpt 表示大多数浏览器中的 iframe cookie 也大多默认被阻止。   此设备指纹识别仅在购物车页面之前有效，因此 Shopify 无法知道哪个订单属于哪个用户。所以我尝试将购物车令牌与设备指纹连接起来 -&gt;然后 Shopify 查找该令牌。但是，令牌从购物车更改为结帐，现在我不知道还能做些什么来确保订单结帐将数据发送给数据库中的正确用户。 我可以使用哪些其他属性来保持不变并且是可靠的标识符？  谢谢    提交人    /u/Outside_Spinach_8666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfuuz0/shopify_app_how_to_track_user_among_several/</guid>
+      <pubDate>Mon, 16 Dec 2024 22:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 90 年代复古 Pinterest</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfuqo7/i_made_a_90s_retro_pinterest/</link>
+      <description><![CDATA[      大家好，我最近参加了一次黑客马拉松并使用 html、css 和 js 为 Pinterest 构建了一个 90 年代复古网站。  我花了很多时间在我的个人帐户上的这个子版块上，只是想分享一下，我是一个初学者，这是我的第一次黑客马拉松！ 感谢任何反馈或想法，如果您愿意，您可以登录 codedex 并给它一个赞♥️    提交人    /u/Ok_Scale2188   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfuqo7/i_made_a_90s_retro_pinterest/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么网站可以测量 GitHub repo 在 Netlify 上要耗费多少“构建分钟数”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfupik/are_there_any_sites_that_measure_how_much_build/</link>
+      <description><![CDATA[我只是想知道我的一个仓库要占用多少构建时间    提交人    /u/Cyb3rPhantom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfupik/are_there_any_sites_that_measure_how_much_build/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码对你来说有趣吗？还是它只是一份工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/</link>
+      <description><![CDATA[你真的喜欢编码吗？    提交人    /u/EspressoOverdose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:39:28 GMT</pubDate>
+    </item>
     <item>
       <title>尝试找出从 React/Node 到 NextJS 的正确迁移策略</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/</link>
@@ -55,60 +104,11 @@
       <pubDate>Mon, 16 Dec 2024 17:20:49 GMT</pubDate>
     </item>
     <item>
-      <title>我感觉我就要被吸入 Devslopes 了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfnlmv/i_feel_im_about_to_get_sucked_in_to_devslopes/</link>
-      <description><![CDATA[他们宣传说我边学习边赚钱，现在我才知道费用实际上是每月 250 美元。他们表现得好像这是一门合法的课程，并安排今天晚些时候再与我通一次电话（我刚打完电话）。他们实际上是在告诉我，一旦我完成课程，他们就会帮我找到工作，我就可以在任何地方工作，有时间追求自己的爱好。 在第一次通话期间，我决定在 DuckDuckGo 上查看“devslopes 评论”，并在此处找到一个已删除的帖子，大家都说它不值得，我可以免费找到 YouTube 视频（顺便问一下，我可以在哪里找到呢？），而且内容更好。我还看到 CEO 为自己辩护，而你们中的一些人指责他是骗子（哈哈）。 当“Alex”打电话给我试图推销这个程序时，我该怎么回答他？我很难拒绝。我很可能不会付钱，但我担心如果我拒绝这个提议，我会听起来像个自断后路的混蛋。这个社区里有没有人认为 Devslopes 是货真价实的？    提交人    /u/GatheringBees   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfnlmv/i_feel_im_about_to_get_sucked_in_to_devslopes/</guid>
-      <pubDate>Mon, 16 Dec 2024 16:56:36 GMT</pubDate>
-    </item>
-    <item>
       <title>我能得到一些 git 新手帮助吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfncjx/could_i_get_some_git_novice_help_please/</link>
       <description><![CDATA[大家好，我目前在 github 上托管并部署了一个 mern 应用程序。 我一直在使用 git，但我对它还不太熟悉，所以主要是打开一个分支进行重大更改、提交和合并。 我被要求做一个重大更改，我目前在另一个分支上，但还没有完成。 但是现在我被要求在其他地方做一个小改动（只是一些前端更改），需要立即上线。 所以我希望能够实时推送这些小改动，但不会丢失我为重大更改所做的所有工作，也不会推送它，因为它还没有完成。 我要做的是创建另一个分支，例如“前端更改”，切换到它，进行更改，将其合并到主分支，然后推送主分支。 之后，我将切换回我的主要变更分支并继续在那里工作。  这样可以吗？ 我会丢失任何东西/意外地以这种方式将我的主要变更分支推送到实时状态吗？     提交人    /u/RyXkci   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hfncjx/could_i_get_some_git_novice_help_please/</guid>
       <pubDate>Mon, 16 Dec 2024 16:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在构建应用程序时，请务必检查本地 vs 管道中的节点引擎 - rant</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfmulp/always_check_the_node_engine_in_your_local_vs/</link>
-      <description><![CDATA[嘿，开发人员 我正在将我的公司应用程序迁移到 MFE。  在过去的两天里，我无法弄清楚为什么我的本地构建显示的文件与管道不同。 我检查了所有内容：  环境变量 不同的文件命名 进行优化 尝试 Webpack 如何使用构建命令 检查部署设置  一次又一次构建，无论我做什么，都显示相同的结果 - 文件不同。文件名和结构来自内容哈希，我 100% 确信无论在哪里运行它 - 它都应该是相同的。 除了文件不同之外 - 我需要的 MFE 模块不在管道构建中。 此时，我 99% 确定 Skynet 接管了，它正试图让我发疯。 然后我看了一眼我们的节点映像 - 它被称为 node14，所以我自然而然地认为它的引擎盖下有节点 14。 你能想象当我控制台登录节点引擎并看到神奇数字时我的表情吗 - 它在节点 10 下运行时。我迅速将本地节点更改为 10，进行了构建，最后看到了相同的文件结构。 那一刻，我像一个小女孩一样跳了起来。这几天真的让我抓狂不已 故事的寓意是 - 在进行构建时始终考虑引擎检查。 大家干杯，保持理智    提交人    /u/NetworkEducational81   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfmulp/always_check_the_node_engine_in_your_local_vs/</guid>
-      <pubDate>Mon, 16 Dec 2024 16:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我推荐一个路线图，帮帮忙！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfmaem/suggest_me_a_roadmap_plzzz_help/</link>
-      <description><![CDATA[所以我想说在 yt 上滚动浏览其他教程太耗时间了，请给我建议一些可以帮助我创建更好项目的名字。我想学习前端和后端。    提交人    /u/sitabjaaa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfmaem/suggest_me_a_roadmap_plzzz_help/</guid>
-      <pubDate>Mon, 16 Dec 2024 15:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作的一些 TypeScript 抽认卡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfma8w/some_typescript_flashcards_i_made/</link>
-      <description><![CDATA[  由    /u/to_takeaway  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfma8w/some_typescript_flashcards_i_made/</guid>
-      <pubDate>Mon, 16 Dec 2024 15:59:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业的开发人员 - 需要客户管理工具方面的投入</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfljvp/devs_who_freelance_need_input_on_client/</link>
-      <description><![CDATA[嗨，各位开发自由职业者们！ 我正在寻找一种真正适合开发人员的客户管理解决方案。当前情况：管理多个客户，每个客户都有自己的需求收集、技术堆栈讨论、GitHub 访问设置、部署流程等。 当前的痛点：  没有标准化的方式来收集技术要求 项目设置因客户而异（一些需要 AWS 访问权限，其他使用自己的基础设施） 管理每个客户对不同工具 / 平台的访问权限 跟踪每个项目在设置阶段的位置 兼顾不同的沟通渠道（Slack/Discord/email）  我研究过一般的自由职业工具（Dubsado、HoneyBook），但它们似乎更适合创意自由职业者。我真正想要的是能够做到以下事情：  创建自定义工作流模板（例如，针对 Web 应用程序和 API 的不同流程） 自动执行重复性任务（repo 设置、项目板创建等） 跟踪技术要求和依赖关系 处理合同和付款 让客户了解技术设置过程  现在，我正在拼凑 Notion + Jira + 各种文档，但感觉效率低下。想知道是否有更注重开发的解决方案？ 如果没有，您会使用专门为管理开发客户而构建的东西吗？您希望看到哪些功能？ 想知道其他开发自由职业者如何处理这个问题。您是使用任何特定工具还是只是顺其自然？    提交人    /u/ifstatementequalsAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfljvp/devs_who_freelance_need_input_on_client/</guid>
-      <pubDate>Mon, 16 Dec 2024 15:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能使这个工具变得更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/</link>
-      <description><![CDATA[嘿！我的公司正在为内容创建者构建工具。我们制作的第一批工具之一是用于网络的颜色选择器。我认为这是个好主意。我自己不是设计师，当我需要设计软件时，我并不总是打开它。一个简单而快速的网络应用程序似乎是一个很好的解决方案。 我如何改进这个工具？有什么建议吗？ https://claster.eu/tools/color-picker    提交人    /u/hard-tender-blade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/</guid>
-      <pubDate>Mon, 16 Dec 2024 15:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>自学开发者教育</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/</link>
-      <description><![CDATA[我是一名自学成才的高级 Web 开发人员，从未接受过任何正规教育。过去，我参加了一些 Pluralsight 课程，以帮助在某些领域获得更正规的教育。我主要使用 .Net、SQL 和 JavaScript。我一直在学习 Vue 并将其融入到我的工作中。您会推荐哪些网站、学校或任何其他教育资源来帮助某人完善或进一步了解他们的知识？    提交人    /u/kinggoosey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/</guid>
-      <pubDate>Mon, 16 Dec 2024 14:18:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
