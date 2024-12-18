@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 18 Dec 2024 06:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 09:16:01 GMT</lastBuildDate>
+    <item>
+      <title>在您使用过的所有现有 NLE 中，您最喜欢的 bin/media pool 系统是什么？为什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hgv8gn/what_is_your_favorite_binmedia_pool_systems_from/</link>
+      <description><![CDATA[它不一定是你最喜欢的 NLE，但你发现这个 bin 经过深思熟虑。它甚至不必是专业的 NLE。也可以是一些新的网络事物。    由   提交  /u/jimppqq   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hgv8gn/what_is_your_favorite_binmedia_pool_systems_from/</guid>
+      <pubDate>Wed, 18 Dec 2024 06:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>Avid 播放问题</title>
       <link>https://www.reddit.com/r/editors/comments/1hgv4ip/avid_playback_issues/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[好吧，这是最奇怪的事情： 在装有 NDI Tools 6.1 的 Mac Studio 上运行 MC 2024.10.0，不知何故 NDI 输出比时间线提前 1-2 帧。不知道这是怎么可能的。我有一个 BMD Ultra Studio 4k 同时输出到电视，并且与时间线同步？以前有人见过这种疯狂的事情吗？非常感谢。    提交人    /u/okay-then08   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hg407l/ndi_output_ahead_of_media_composer_timeline/</guid>
       <pubDate>Tue, 17 Dec 2024 05:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Avid 中编辑组和刷新序列失误</title>
-      <link>https://www.reddit.com/r/editors/comments/1hg1vxx/edit_group_and_refresh_sequence_mishap_in_avid/</link>
-      <description><![CDATA[在 Avid 中，我遇到一种情况，我必须编辑组以将音频轨道添加到组中。然后，我想在包含这些已编辑组的序列上刷新序列。这是我过去绝对没有问题地做过的事情（尽管这是几个 Avid 版本之前的事情）。 我目前正在尝试在 Avid 2023.12.3 中执行此操作，一旦我单击刷新序列，我收到了此警告。 而且，如果我点击“继续”，什么也不会发生。 但是，一旦我打开刷新序列，我就会得到此警告最终导致我的 Avid 崩溃。 有人有什么想法吗？此外，我在此操作过程中根本没有操纵持续时间。只是添加一个音轨并剪切一段新音频。 谢谢！    提交人    /u/fly_swatter_friendly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hg1vxx/edit_group_and_refresh_sequence_mishap_in_avid/</guid>
-      <pubDate>Tue, 17 Dec 2024 03:43:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
