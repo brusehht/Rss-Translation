@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 20 Dec 2024 21:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:03:45 GMT</lastBuildDate>
+    <item>
+      <title>（新手）如何在旅行时使用我的 Nas 编辑视频？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hiuncd/noob_how_to_video_editing_while_traveling_using/</link>
+      <description><![CDATA[大家好， 我有一个关于视频编辑的新手问题。 我使用的是 4 托架 DS923+ NAS，具有 16TB 的存储空间。 当我与客户开始一个新项目时：  我将视频片段从 SD 卡直接卸载到我的 NAS。 要开始视频编辑，我使用 Premiere Pro 并直接从我的 NAS 上的文件进行编辑（我的 MacBook 通过 1Gbps 以太网连接）。  问题： -&gt;当我想在旅行时（在火车上、在酒店里）编辑视频时，我无法编辑。 -&gt;当我尝试在连接到 Wi-Fi（而不是以太网）的情况下进行编辑时，速度会变慢。 您能告诉我如何处理这个问题吗？ 我想过这种替代工作流程：  客户请求一个项目，我们称之为“项目 A”。 我将项目 A 的素材从 SD 卡卸载到通过 USB-C 连接到我的 MacBook 的 SSD 上。 我使用存储在 SSD 上的文件编辑项目。 项目完成后，我将项目 A 的素材传回 NAS 并将其从 SSD 中删除。  我发现这种方法有两个问题：  如果我想将以前项目的旧视频素材添加到“项目 A”而我不在家，我将无法做到这一点。 如果 6 个月后我想修改“项目 A”，我无法做到这一点，因为 Premiere Pro 中的文件将不再指向 SSD（它会显示“丢失文件”）。  你们能帮帮我吗？ 谢谢！    提交人    /u/samsungdappy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hiuncd/noob_how_to_video_editing_while_traveling_using/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:47:16 GMT</pubDate>
+    </item>
     <item>
       <title>商业编辑套件的客户端显示尺寸</title>
       <link>https://www.reddit.com/r/editors/comments/1hirmmv/client_display_sizing_for_commercial_edit_suite/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[背景：我是自由职业者，有几个回头客，而且我的大部分工作都是一个人完成的，所以我很少处于高度协作的环境中。最近，我在一个更大的项目中协助一位编辑创作资产，例如图形、文本和滚动字幕。我很久没用过 Avid 了，但他只用 Avid，他说他无法导出带有 alpha 通道或滚动字幕的素材，然后交付给负责最终导出的后期制作机构。我没有费心去核实，但基本上这就是他需要一位精通其他软件的合作者的原因。无论如何，我也交付了各种语言的 .srt 字幕。 所以关键是工作已经完成，但导演出于某种原因要求该机构交付一个带有特定字幕语言的版本，他们告诉她他们不能用 .srt 来做，但他们需要“符合 XML DCI”的版本格式才能做到这一点。我熟悉术语，但我从未制作和交付过这样的东西。 抱歉介绍得这么长，我的问题是： 1 - 谁负责制作这样的文件？我有一个“合作者”的荣誉，所以严格来说我甚至不是 AE，但我个人认识导演，这是我这样做的唯一原因，她问我，如果没什么大不了的话，我很乐意帮忙。另外，我的职业生涯还处于早期阶段，所以我总是觉得我想看起来准备好迎接任何事情，但也许确切地知道什么时候不是我的责任会更好。如果我能做到，而且这严格来说不是我的工作，那么从实际编辑到后期制作人员的任何人都可以，对吧？ 2 - 一个人会如何处理这个问题？我目前使用 Premiere Pro 和 Davinci Resolve，但我觉得我需要额外的软件。从 .srt 转换是否足够？我是否以正确的方式考虑了这个问题，还是需要更具体的指示？    提交人    /u/P-Def   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hhyjyf/xml_dci_compliant_subtitles_creation/</guid>
       <pubDate>Thu, 19 Dec 2024 17:47:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbay 8 DAS 或类似价格范围的 NAS</title>
-      <link>https://www.reddit.com/r/editors/comments/1hhx9bs/thunderbay_8_das_or_similar_price_range_nas/</link>
-      <description><![CDATA[所以我又来谈论这个事情了。这里的一些人可能已经看过我的几篇帖子了。我已经对这个话题进行了大量研究，但仍然很不确定。 我需要升级我所在的制作公司的工作流程/存储/归档流程，据我所知，NAS 可能是最佳选择，但预算非常有限。 所以基本上我们需要尽可能多的存储空间，所有东西的最高成本为 6,000 美元，我知道这对于那种东西来说不算什么。 好吧，我的老板认识一个著名的 HBO 体育系列的导演，他们使用 Thunderbay 8 上的 RAID 0 + 计算机，并使用 JumpDesk 使其可以远程访问。 我收到了他的短信，说就使用驱动器而言，这种设置比 NAS 更快。不过他确实说过，如果多个用户使用同一台计算机，速度会慢很多。但这个选项更经济实惠。 我不确定该怎么办，因为我们的 NAS 预算只有 6k，这太少了。 我们需要通过这个实现两个基本目标： 将所有数据集中并组织起来；能够远程访问数据进行下载和上传（就像我们在办公室一样远程处理数据） 提前致谢。    提交人    /u/Cautious-External286   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hhx9bs/thunderbay_8_das_or_similar_price_range_nas/</guid>
-      <pubDate>Thu, 19 Dec 2024 16:52:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

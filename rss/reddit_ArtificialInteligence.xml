@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 20 Dec 2024 21:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:03:01 GMT</lastBuildDate>
+    <item>
+      <title>我怎样才能在人工智能革命中发挥作用？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hivtm7/how_can_i_be_useful_in_the_ai_revolution/</link>
+      <description><![CDATA[我是一名专门从事肿瘤外科手术的外科医生，我想在我的专业领域培养法学硕士学位，我的动机是参与这一革命性过程，并迫使自己为了个人发展而更深入地思考我的职业细节。你有什么建议可以让我开始吗？    提交人    /u/Lairuth   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hivtm7/how_can_i_be_useful_in_the_ai_revolution/</guid>
+      <pubDate>Fri, 20 Dec 2024 22:43:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何掩盖图像，使人工智能无法读取，同时又不影响人们的感知？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hiue8o/how_to_mask_images_so_they_are_unreadable_to_ai/</link>
+      <description><![CDATA[问题：我们有一些由人完成的在线任务。他们可以使用人工智能来完成它，尤其是在发布了更智能的模型之后。我们如何让图片对人工智能来说难以辨认？ 很久以前，我读过一些研究论文，其中提到给图片添加了噪点，这些噪点在人类看来是一样的，但完全让人工智能感到困惑。我遇到了 Nightshade，它承诺了同样的功能，但它什么也没做。还有其他类似的工具吗？    提交人    /u/Efrayl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hiue8o/how_to_mask_images_so_they_are_unreadable_to_ai/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:35:26 GMT</pubDate>
+    </item>
     <item>
       <title>Open AI 的 o3 模型在 ARC-AGI 基准上得分为 87.5%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hitny3/open_ais_o3_model_scores_875_on_the_arcagi/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[O3 在 AGI-arc 测试中表现出色，但有趣的是他们公布了计算成本。因此，为了在 100 个问题中获得 75% 的分数，他们花费了 2000 美元的零售成本。而为了获得 82% 的分数，他们花费了 172 倍的计算成本，并要求不公布成本。但对于一堆合乎逻辑的问题来说，这似乎是一大笔钱，不是吗？ 来源  https://arcprize.org/blog/oai-o3-pub-breakthrough    提交人    /u/NoWeather1702   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hirxjp/o3_price/</guid>
       <pubDate>Fri, 20 Dec 2024 19:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI o3 和 o3-mini 发布</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hirhk2/openai_o3_and_o3mini_annouced/</link>
-      <description><![CDATA[因此，OpenAI 发布了 o3 和 o3-mini，它们在编码和数学任务上表现出色。Arc AGI 数字看起来很疯狂！查看此帖子中总结的所有详细信息：https://youtu.be/E4wbiMWG1tg?si=lCJLMxo1qWeKrX7c    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hirhk2/openai_o3_and_o3mini_annouced/</guid>
-      <pubDate>Fri, 20 Dec 2024 19:22:59 GMT</pubDate>
     </item>
     <item>
       <title>探索安全、合作的人工智能之路</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[当然是保持相同的工资。不同意这一点的公司应该支付比留住工人更昂贵的自动化税。 盈利的公司将由于人工智能比以前生产更多而增加收入。 人们将有时间调整他们的心态，并在工作之外寻找其他东西来形成他们身份的花瓶。 经济可以继续照常运转。作为奖励，消费者有更多的时间，并且会消费更多。    提交人    /u/dom-dos-modz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hihv2a/during_the_transition_to_a_mainly_jobless_society/</guid>
       <pubDate>Fri, 20 Dec 2024 11:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否都有使用各种超参数调整过的 LLM 的不同版本？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hihkok/are_we_all_different_versions_of_llms_tuned_with/</link>
-      <description><![CDATA[这是我和几个朋友前几天讨论的话题。随着所有 LLM 都趋向于人类智能，模仿人类大脑，如果我们反转这个思想实验会怎么样？ 如果我们所有人实际上都是具有不同超参数（即不同温度、topK、topP、上下文窗口、领域知识等）的 AI 的一种或另一种形式，会怎么样？我们在特定领域接受的训练越多，我们就会变得越好，变得越专业。是的，我们所有的神经网络都有一个初始配置（原始智能），但随着时间的推移，根据我们训练它的数据集（体育、编码、法律），我们会做得更好。 我们称之为创造性的小习惯或行为只是我们被烘烤的不同温度设置。更有创造力的人会产生更多幻觉，这与 LLM 在较高温度下发生的情况相同。 我们的讨论陷入僵局的地方是意识问题。我们还不知道意识在哪里，我们如何模仿意识？我的意思是真正的 AGI 不是 LLM 能够解决 NP 难题或胜过 PhD 级数学家，而是它能够真正感受到。    提交人    /u/Top-Victory3188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hihkok/are_we_all_different_versions_of_llms_tuned_with/</guid>
-      <pubDate>Fri, 20 Dec 2024 11:11:02 GMT</pubDate>
     </item>
     <item>
       <title>我提取了 Microsoft Copilot 的系统指令——这里的东西太疯狂了。它被指示说谎，让微软看起来不错，而且充满了令人尴尬的企业联盟。以下是分析的关键部分和整个提示本身。</title>
