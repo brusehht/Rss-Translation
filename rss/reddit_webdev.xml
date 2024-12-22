@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 18:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 21:12:33 GMT</lastBuildDate>
+    <item>
+      <title>协会网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</link>
+      <description><![CDATA[大家好， 我想为我的心脏病协会建立一个网站。 由于我没有任何资金，我尽可能自己做。 我已经选择了一个带有域名的托管计划。 作为一个完全的初学者（20 年前我用 HTML 做了几个网站...），请问最好的选择是什么？ 像 WordPress 这样的 CMS？我已经开始研究它了，但我有点迷茫。 大约有三十页，包括菜单、频繁的新闻更新等，以及其他静态页面。 提前感谢您的反馈，祝您晚上愉快。    提交人    /u/EldarinFR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</guid>
+      <pubDate>Sun, 22 Dec 2024 19:23:32 GMT</pubDate>
+    </item>
     <item>
       <title>创建我的第一个开源项目，有什么建议吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk3xzg/creating_my_first_open_source_project_any_tips/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[它有一些不错的功能，如果你将它与 SolidJS 一起使用，它可以很好地集成，但我发现它有点受限。 如果你使用的是 Google oauth 或类似程序，它会出奇地棘手，在 webviewwindows 上的自定义有限，启动 rust 监听器以向 js 发送数据等，... 不知不觉中，你就编写了很多 Rust 来让 electron 中开箱即用的东西工作（显然是更成熟的框架）。 我很好奇你将 Tauri 用于什么样的应用程序？    提交人    /u/dmart89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</guid>
       <pubDate>Sun, 22 Dec 2024 14:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>字节跳动 INFP：让图像栩栩如生的人工智能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</link>
-      <description><![CDATA[        提交人    /u/sh_tomer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</guid>
-      <pubDate>Sun, 22 Dec 2024 12:52:41 GMT</pubDate>
     </item>
     <item>
       <title>Sass：你可以嵌套命名空间属性吗？</title>
