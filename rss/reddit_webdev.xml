@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 23 Dec 2024 01:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 03:20:53 GMT</lastBuildDate>
+    <item>
+      <title>育儿假公益项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkcwdv/parental_leave_probono_projects/</link>
+      <description><![CDATA[即将与妻子交换育儿假，并在接下来的 4 个月内休育儿假，因此正在寻找一些我可以帮忙构建的中小型项目/网站/网络应用程序。有人知道谁可能对一些免费/无偿的网络开发工作感兴趣吗？ 此外，有人知道任何 subreddits，他们可能有兴趣免费为他们建立一个网站，作为回报来消除我的无聊 + 为我的投资组合添加一些小东西？ 编辑：我还想指出，我在当地大学兼职讲课，教授网络开发课程。很高兴在下学期也能得到一些免费的兼职辅导！    提交人    /u/beercat_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkcwdv/parental_leave_probono_projects/</guid>
+      <pubDate>Mon, 23 Dec 2024 01:26:43 GMT</pubDate>
+    </item>
     <item>
       <title>可加载数据的二维码图像链接！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hkbikh/a_qr_code_image_link_that_can_be_loaded_with_data/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>布局网格实际上仍然有用吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hkao6m/are_layout_grids_actually_still_relevant/</link>
-      <description><![CDATA[过去，人们经常谈论网页设计的 12 列网格。这意味着在每个页面上，列之间的间距都非常一致，并且页面上的所有元素都占用了与定义列数相等的空间。例如，即使是英雄部分，文本也会占用一定数量的列，而周围的空间则占用其余的列。 我在设计理论中经常看到这个概念，但在编写 CSS 或设计 Web 应用程序时，我再也没有看到任何人谈论它了？这个概念实际上仍然有意义吗？还是它已被一种更具动态性的网页设计风格所取代，其中一致的间距很重要，但屏幕元素或多或少可以位于它们似乎适合的任何地方？    提交人    /u/therottenworld   [链接] [评论]]]></description>
+      <description><![CDATA[过去，人们经常谈论网页设计的 12 列网格。这意味着在每个页面上，列之间的间距都非常一致，并且页面上的所有元素都占用了与定义列数相等的空间。例如，即使是英雄部分，文本也会占用一定数量的列，而周围的空间则占用其余的列。 我在设计理论中经常看到这个概念，但在编写 CSS 或设计 Web 应用程序时，我再也没有看到任何人谈论它了？这个概念是否仍然有意义？或者它已被一种更具动态性的网页设计风格所取代，其中一致的间距很重要，但屏幕元素或多或少可以位于它们似乎适合的任何地方？    提交人    /u/therottenworld   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hkao6m/are_layout_grids_actually_still_relevant/</guid>
       <pubDate>Sun, 22 Dec 2024 23:29:45 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>在网站标题中添加实时待办事项列表</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</link>
-      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。 甚至相关教程的链接。等等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。甚至相关教程的链接等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</guid>
       <pubDate>Sun, 22 Dec 2024 16:09:38 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[在开发产品时，我面临的一个挑战是难以让人们加入平台。  为了解决这个问题，我决定分析市场上类似产品的表现，从中获得一些见解，并利用这些经验来开发我产品的入门功能。 我想以文章的形式分享我的学习成果。如果您想为新用户创建流畅的入门体验，请随时在此处查看。 https://journal.hexmos.com/liveapi-devlogs03/    提交人    /u/lordwiz360   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</guid>
       <pubDate>Sun, 22 Dec 2024 15:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人用过 Tauri 来构建桌面应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</link>
-      <description><![CDATA[它有一些不错的功能，如果你将它与 SolidJS 一起使用，它可以很好地集成，但我发现它有点受限。 如果你使用的是 Google oauth 或类似程序，它会出奇地棘手，在 webviewwindows 上的自定义有限，启动 rust 监听器以向 js 发送数据等，... 不知不觉中，你就编写了很多 Rust 来让 electron 中开箱即用的东西工作（显然是更成熟的框架）。 我很好奇你将 Tauri 用于什么样的应用程序？    提交人    /u/dmart89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:13:09 GMT</pubDate>
     </item>
     <item>
       <title>Hono.js 与 Express.js 的比较</title>

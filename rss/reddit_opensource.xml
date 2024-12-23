@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 23 Dec 2024 01:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 03:20:58 GMT</lastBuildDate>
     <item>
-      <title>介绍 Quantum CLI，一款可让你在终端中与本地思维链 AI 聊天的 CLI 工具</title>
+      <title>Quantum CLI 介绍，这是一款可让你在终端中与本地思维链 AI 聊天的 CLI 工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1hk6v5p/introducing_quantum_cli_a_cli_tool_that_lets_you/</link>
       <description><![CDATA[我很高兴地宣布推出我的新 CLI 工具，它可让您直接从终端与 Chain of Thought AI 聊天。它是免费的，并且是开源的。并且可以告诉您 strawberry 中有多少个 R。尽情享受它吧，如果您喜欢它，请随意贡献。您可以在这里找到它：https://github.com/andreivisan/quantum_cli 亮点： - AI 驱动的开发：通过 Ollama 和 LangChain 利用思想链 AI 模型获得即时的 AI 辅助见解和解决方案。 - 离线访问：无需依赖云服务即可享受离线 AI 功能的好处。 - 速度和效率：直接在您的终端中体验快速高效的 AI 驱动响应。 - 美观且易于使用：使用 Markdown 渲染对 AI 响应进行美观的响应格式。 - Ollama 安装管理：如果您没有 CLI 工具，它将指导您完成安装。    提交人    /u/ProgrammingLifeIO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hk6v5p/introducing_quantum_cli_a_cli_tool_that_lets_you/</guid>
