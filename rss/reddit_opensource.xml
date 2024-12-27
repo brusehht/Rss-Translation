@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:14:47 GMT</lastBuildDate>
+    <item>
+      <title>报表数据准备中间件，高效管理无休止的报表开发</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hnavp3/a_middleware_for_report_data_preparation_that/</link>
+      <description><![CDATA[https://github.com/SPLWare/esProc_Reporting 刚刚出炉。有什么好的建议吗？    提交人    /u/Vast_Lab8278   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hnavp3/a_middleware_for_report_data_preparation_that/</guid>
+      <pubDate>Fri, 27 Dec 2024 08:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个开源 AI 代理市场</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hn900o/we_made_an_opensource_ai_agents_marketplace/</link>
+      <description><![CDATA[大家好！ 今天，我们很高兴地宣布推出我们的 AI 代理市场。这是一个开源市场，拥有 100 多个按类别组织的 AI 代理。 在此处探索：https://metaschool.so/ai-agents  这是我们存储库的链接：https://github.com/0xmetaschool/AI-Agents-Directory  我们为什么要构建它？ Vinod Khosla 曾经说过，未来，数十亿个 AI 代理将全天候运行，以提高我们的生产力和联系性。那个未来还没有到来，但它正在快速到来。当有数百万个代理时，您需要一个地方来找到最适合您工作的代理。这就是我们建立这个市场的原因。  我们发布此列表的目标是帮助您找到最佳代理，并为建筑商提供一个向世界展示其作品的平台。  如果您已经构建了 AI 代理，您可以免费列出它并向全球用户推广它。  现在还为时过早，但我们很乐意听到任何反馈。    提交人    /u/sahilypatel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hn900o/we_made_an_opensource_ai_agents_marketplace/</guid>
+      <pubDate>Fri, 27 Dec 2024 06:38:40 GMT</pubDate>
+    </item>
     <item>
       <title>Arch Gateway - AI 代理的智能网关。提供准确的多轮意图路由、护栏和⚡️功能调用（通过 API）在业务逻辑之外</title>
       <link>https://www.reddit.com/r/opensource/comments/1hn84xa/arch_gateway_intelligent_gateway_for_ai_agents/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>🎄 YTSage v2.0.0：新版本增强了 YouTube 下载功能</title>
       <link>https://www.reddit.com/r/opensource/comments/1hmlat1/ytsage_v200_new_release_with_enhanced_youtube/</link>
-      <description><![CDATA[大家好！🎄 圣诞快乐！我很高兴地宣布推出 YTSage 2.0.0，这是一款使用 Python 构建的用户友好型 YouTube 下载器。此次重大更新带来了多项重大改进和新功能，让您的下载体验更加流畅。 有什么新功能？ 🚀  智能播放列表处理：增加了对播放列表下载的支持，具有自动 URL 检测和最佳质量选择 下载控件：新的暂停、恢复和取消按钮，可更好地管理下载 实时进度：实时跟踪下载速度、ETA 和完成百分比 FFMPEG 集成：添加了 FFMPEG 检查器并附带简易安装指南 高级选项：支持高级用户自定义 yt-dlp 命令 更好的调试：添加了 yt-dlp 日志查看器以进行故障排除 UI 改进：增强的滚动界面和更清晰的错误消息 生活质量：保存并记住会话之间的下载路径 自动更新：内置更新检查器，让您保持最新版本  安装选项💿 bash pip install YTSage  平台特定软件包：  Mac 用户：.app 软件包可用 Linux 用户：AppImage 软件包可用  技术更新🔧  更新至最新版本的 yt-dlp 修复了标题栏显示版本号的问题 各种 UI 和性能改进  链接🔗  在 PyPI 上查看：YTSage 在 GitHub 上查看：YTSage  欢迎试用并分享您的反馈！如果您遇到任何问题或有建议，请在 GitHub 上打开问题。 祝您下载愉快，节日快乐！🎅    提交人    /u/NO-N_A_M_E   [link] [评论]]]></description>
+      <description><![CDATA[大家好！🎄 圣诞快乐！我很高兴地宣布推出 YTSage 2.0.0，这是一款使用 Python 构建的用户友好型 YouTube 下载器。此次重大更新带来了多项重大改进和新功能，让您的下载体验更加流畅。 有什么新功能？ 🚀  智能播放列表处理：增加了对播放列表下载的支持，具有自动 URL 检测和最佳质量选择 下载控件：新的暂停、恢复和取消按钮，可更好地管理下载 实时进度：实时跟踪下载速度、ETA 和完成百分比 FFMPEG 集成：添加了 FFMPEG 检查器和简单的安装指南 高级选项：支持高级用户自定义 yt-dlp 命令 更好的调试：添加了 yt-dlp 日志查看器以进行故障排除 UI 改进：增强的滚动界面和更清晰的错误消息 生活质量：保存并记住会话之间的下载路径 自动更新：内置更新检查器，让您保持最新版本  安装选项💿 bash pip install YTSage  平台特定软件包：  Mac 用户：.app 软件包可用 Linux 用户：AppImage 软件包可用  技术更新🔧  更新至最新版本的 yt-dlp 修复了标题栏显示版本号的问题 各种 UI 和性能改进  链接🔗  在 PyPI 上查看：YTSage 在 GitHub 上查看：YTSage  欢迎试用并分享您的反馈！如果您遇到任何问题或有建议，请在 GitHub 上打开问题。 祝您下载愉快，节日快乐！🎅    提交人    /u/NO-N_A_M_E   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hmlat1/ytsage_v200_new_release_with_enhanced_youtube/</guid>
       <pubDate>Thu, 26 Dec 2024 09:55:08 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hmdapn/open_source_ai_and_policy_from_the_perspective_of/</guid>
       <pubDate>Thu, 26 Dec 2024 01:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Windows/Linux/macOS 制作了 Apple Intelligence Writing Tools 的改进版本，它完全免费且开源。您可以获得即时文本校对，以及可以聊天的网站/YT 视频/文档摘要。它还支持本地 LLM 和云提供商！:D</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hm9l9s/i_made_a_better_version_of_the_apple_intelligence/</link>
-      <description><![CDATA[        提交人    /u/TechExpert2910   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hm9l9s/i_made_a_better_version_of_the_apple_intelligence/</guid>
-      <pubDate>Wed, 25 Dec 2024 21:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有比 iOS 数据传输应用程序 3Utools 更好的替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hm7it9/any_better_alternative_to_ios_data_transfer/</link>
-      <description><![CDATA[我正在使用 3uTools，但看到一些帖子说它会窃取数据并编辑应用程序。 有没有更好的替代应用程序。需要将照片和应用程序数据传输到电脑中。    提交人    /u/vijaynela   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hm7it9/any_better_alternative_to_ios_data_transfer/</guid>
-      <pubDate>Wed, 25 Dec 2024 19:45:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
