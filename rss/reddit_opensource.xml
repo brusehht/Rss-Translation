@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Dec 2024 03:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 06:19:13 GMT</lastBuildDate>
     <item>
       <title>我构建了一个库，只需一个 YAML 配置即可将 Kafka 主题转换为高性能 REST API</title>
       <link>https://www.reddit.com/r/opensource/comments/1hok8yg/i_built_a_library_that_turns_kafka_topics_into/</link>
@@ -41,7 +41,7 @@
       <pubDate>Sat, 28 Dec 2024 17:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>复制文件并创建目录结构？</title>
+      <title>复制文件并创建目录结构吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hoa48m/file_copy_with_directory_structure_creation/</link>
       <description><![CDATA[我已经在 Google 上搜索到手指都流血了，却找不到解决办法。可能是因为咖啡不够，也可能只是我没有找到正确的搜索词。 我正在寻找一个 Windows 工具，无论是 UI 还是命令行，都可以让我指定一个文件目录并将它们复制到新的根目录，并根据源文件的日期和时间创建目录结构。 我放弃了 Lightroom，它做得很好的一件事就是提取媒体并将其放入我的根媒体文件夹中，结构如下： &lt;root&gt;\&lt;year&gt;\&lt;day&gt;最后一个文件夹的格式为 year-mo-day 如果该工具可以跳过目标中存在的文件，则可以获得加分。 我发现了很多专业的付费程序，它们可以做我想做的事情，但是无法证明成本是合理的，因为这些文件的创建/维护都不是用 $$ 进行的    提交人    /u/michaelh98   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hoa48m/file_copy_with_directory_structure_creation/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>WhatsApp 营销、销售和交易沟通的开源生态系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1hnyz0i/open_source_ecosystem_for_whatsapp_marketing/</link>
-      <description><![CDATA[https://github.com/wapikit/wapikit  我不太想谈论 WapiKit 以及它打算培育的整个生态系统。 这是我很长时间以来一直致力于构建的东西。它是一个开源生态系统，使 WhatsApp 营销变得触手可及。 wapikit.com 是核心和旗舰产品，它是一款自托管、高性能和单二进制可执行 WhatsApp 活动管理器、实时团队收件箱和无代码聊天流程配置器，功能丰富，我们将在即将推出的产品更新中进一步探索每个功能。 ✅ WapiKit 同时提供 UI 和 API 接口。 它可以做以下事情：管理联系人列表：高效处理联系人以进行活动管理。细分联系人：轻松细分受众以进行有针对性的营销。实时团队收件箱：允许多个团队成员同时管理对话。集成：通过我们的集成套件与 Slack、自定义网站聊天小部件和 AI 插件无缝连接。 AI 功能：通过集成 LLM 模型启用自动回复。 您可以在此处加入我们：https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q ✅ 将其用作您自托管的 WhatsApp 业务管理器，用于销售、营销和客户支持集成。 ✅ 我们已经发布了具有活动管理功能和联系人列表管理的 alpha 版本。并且正在发布实时团队收件箱功能。  然后是 js.wapikit.com ( wapi.js ) 和 go.wapikit.com ( wapi.go )，这两个 SDK 都是独立构建的，目的都是为了将​​它们用作通过 WhatsApp 业务 API 轻松构建应用程序的工具，无论是 WhatsApp 聊天机器人还是其他后端应用程序。它们与 WhatsApp 业务管理 API 和 WhatsApp 云 API 配合良好。您可以查看它们的文档。如果有任何问题，请在评论部分问我。我在过去的帖子中分享了几个用例示例。甚至 WapiKit 本身也在后端使用 Wapi.go。 如果您是一家初创公司或独立开发者，并希望免费设置 WhatsApp 营销/销售/客户支持基础设施，您可以查看 github，尝试一下或发表评论“Hi”，我会通过演示帮助您。    提交人    /u/UnusualMeasurement10   [link] [评论]]]></description>
+      <description><![CDATA[https://github.com/wapikit/wapikit  我不太想谈论 WapiKit 以及它打算培育的整个生态系统。 这是我很长时间以来一直致力于构建的东西。它是一个开源生态系统，使 WhatsApp 营销变得触手可及。 wapikit.com 是核心和旗舰产品，它是一款自托管、高性能和单二进制可执行 WhatsApp 活动管理器、实时团队收件箱和无代码聊天流程配置器，功能丰富，我们将在即将推出的产品更新中进一步探索每个功能。 ✅ WapiKit 同时提供 UI 和 API 接口。 它可以做以下事情：管理联系人列表：高效处理联系人以进行活动管理。细分联系人：轻松细分受众以进行有针对性的营销。实时团队收件箱：允许多个团队成员同时管理对话。集成：通过我们的集成套件与 Slack、自定义网站聊天小部件和 AI 插件无缝连接。 AI 功能：通过集成 LLM 模型启用自动回复。 您可以在此处加入我们：https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q ✅ 将其用作您自托管的 WhatsApp 业务管理器，用于销售、营销和客户支持集成。 ✅ 我们已经发布了具有活动管理功能和联系人列表管理的 alpha 版本。并且正在发布实时团队收件箱功能。  然后是 js.wapikit.com ( wapi.js ) 和 go.wapikit.com ( wapi.go )，这两个 SDK 都是独立构建的，目的都是为了将​​它们用作通过 WhatsApp 业务 API 轻松构建应用程序的工具，无论是 WhatsApp 聊天机器人还是其他后端应用程序。它们与 WhatsApp 业务管理 API 和 WhatsApp 云 API 配合良好。您可以查看它们的文档。如果有任何问题，请在评论部分问我。我在过去的帖子中分享了几个用例示例。甚至 WapiKit 本身也在后端使用 Wapi.go。 如果您是一家初创公司或独立开发者，并希望免费设置 WhatsApp 营销/销售/客户支持基础设施，您可以查看 github，尝试一下或发表评论“Hi”，我会为您提供演示。    提交人    /u/UnusualMeasurement10   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hnyz0i/open_source_ecosystem_for_whatsapp_marketing/</guid>
       <pubDate>Sat, 28 Dec 2024 05:35:11 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>既然 Time Trex 已停止提供社区版，还有其他选择吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hnuhya/now_that_time_trex_discontinued_community_edition/</link>
-      <description><![CDATA[我假设答案是否定的，但考勤软件基本上是一个卡特尔。最便宜的一年几百美元。    由    /u/bobconan  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我假设答案是否定的，但考勤软件基本上是一个卡特尔。最便宜的一年几百美元。    由    /u/bobconan  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hnuhya/now_that_time_trex_discontinued_community_edition/</guid>
       <pubDate>Sat, 28 Dec 2024 01:27:03 GMT</pubDate>
     </item>
