@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 06:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 09:15:02 GMT</lastBuildDate>
+    <item>
+      <title>fastapi 和 vanilla js 对于 fullstack 来说是一个很好的组合吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hqyj2b/is_fastapi_and_vanilla_js_a_good_combo_for/</link>
+      <description><![CDATA[标题说明了一切。    提交人    /u/Night_hunter101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hqyj2b/is_fastapi_and_vanilla_js_a_good_combo_for/</guid>
+      <pubDate>Wed, 01 Jan 2025 07:59:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些内容创作者真正展示了利用 AI 进行真实世界的 Web 开发？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hqxsso/which_content_creators_actually_show_realworld/</link>
+      <description><![CDATA[寻找能够展示现代 Web 开发中实际 AI 用法的创作者。特别感兴趣的是：  nextjs + AI 工具工作流程 处理实际生产问题 测试/调试策略 超越待办事项应用的实际示例  我发现的大多数内容要么太基础（“如何使用 chatgpt！”），要么太理论化。 谁在展示在 Web 开发中使用 AI 的实际日常情况？    提交人    /u/namanyayg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hqxsso/which_content_creators_actually_show_realworld/</guid>
+      <pubDate>Wed, 01 Jan 2025 07:02:28 GMT</pubDate>
+    </item>
     <item>
       <title>抱歉，但这里有另一个待办事项应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1hqvqg6/apologies_but_heres_another_to_do_app/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>是否有任何网站或论坛将网络开发作为一种艺术形式？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hqroh3/are_there_any_sites_or_forums_for_web_dev_as_an/</link>
-      <description><![CDATA[所以我有一个疯狂的背景，花了几年时间学习电影和音乐等，小时候喜欢画画（现在不太好了哈哈），最终在 20 多岁时爱上了代码和科学。这一切开始融合在一起，我发现我最感兴趣的是创造涉及视觉、声音和编程的交互式体验。  网络上有这种东西的地方吗？我喜欢 Processing 和 Daniel Shiffman、麻省理工学院媒体实验室等。但是有没有地方可以让人们创造体验而不是游戏？几乎是在线安装？ tyty    提交人    /u/BeerIsTheMindKiller   [链接] [评论]]]></description>
+      <description><![CDATA[所以我有一个疯狂的背景，花了几年时间学习电影和音乐等，小时候喜欢画画（现在不太好了哈哈），最终在 20 多岁时爱上了代码和科学。这一切开始融合在一起，我发现我最感兴趣的是创造涉及视觉、声音和编程的交互式体验。  网络上有这种东西的地方吗？我喜欢 Processing 和 Daniel Shiffman、麻省理工学院媒体实验室等。但是，有没有地方可以让人们创造体验而不是游戏？在线安装差不多？ tyty    提交人    /u/BeerIsTheMindKiller   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hqroh3/are_there_any_sites_or_forums_for_web_dev_as_an/</guid>
       <pubDate>Wed, 01 Jan 2025 00:23:27 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>克隆 iCloud 网站 cookie？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hqmml2/clone_icloud_website_cookie/</link>
-      <description><![CDATA[因此，我的 iPad 上有一个机构 Apple ID，我可以通过它访问 iCloud 网站，但如果我尝试通过手机登录以访问照片和 iCloud Drive，它会要求我输入学校的验证码。我尝试获取网站的 cookie 并将其放在手机上，但我仍然有登录页面，如果我尝试登录，它会显示“连接错误”。我知道这可能是不可能的，但也许有人可以给我一个建议，而不是询问我的学校（我不太了解身份验证系统之类的东西，所以我在这里问）    提交人    /u/Golden_Melky   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我的 iPad 上有一个机构 Apple ID，我可以通过它访问 iCloud 网站，但如果我尝试从手机登录以访问照片和 iCloud Drive，它会要求我输入学校的验证码。我尝试获取网站的 cookie 并将其放在手机上，但我仍然有登录页面，如果我尝试登录，它会显示“连接错误”。我知道这可能是不可能的，但也许有人可以给我一个建议，而不是询问我的学校（我不太了解身份验证系统和其他东西，这就是我在这里提问的原因）    提交人    /u/Golden_Melky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hqmml2/clone_icloud_website_cookie/</guid>
       <pubDate>Tue, 31 Dec 2024 19:55:19 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Tue, 31 Dec 2024 17:39:51 GMT</pubDate>
     </item>
     <item>
-      <title>我只想过得开心</title>
+      <title>我只想度过一段愉快的时光</title>
       <link>https://www.reddit.com/r/webdev/comments/1hqiuez/all_i_need_to_have_a_great_time_these_days/</link>
       <description><![CDATA[        提交人    /u/sandspiegel   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hqiuez/all_i_need_to_have_a_great_time_these_days/</guid>
       <pubDate>Tue, 31 Dec 2024 16:56:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>提醒一下</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hqifrp/just_a_reminder/</link>
-      <description><![CDATA[        提交人    /u/wilfredcy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hqifrp/just_a_reminder/</guid>
-      <pubDate>Tue, 31 Dec 2024 16:37:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 上有代码审查频道吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hqi8sn/youtube_channels_for_code_review/</link>
-      <description><![CDATA[有没有 YouTube 频道可以浏览和审查开源 GitHub 存储库？    由    /u/slightlyaggressive 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hqi8sn/youtube_channels_for_code_review/</guid>
-      <pubDate>Tue, 31 Dec 2024 16:28:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
