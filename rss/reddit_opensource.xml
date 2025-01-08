@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 18:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 21:14:03 GMT</lastBuildDate>
+    <item>
+      <title>Valyent：开发人员优先的云平台。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</link>
+      <description><![CDATA[        提交人    /u/SoftwareCitadel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 中有没有什么小游戏？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
+      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。是否有任何库或开源代码支持此功能？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 CLI，可以在一分钟内优化你的 AI 提示</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwrt7h/i_made_a_cli_that_optimizes_your_ai_prompts_in/</link>
+      <description><![CDATA[       由    /u/jsonathan  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwrt7h/i_made_a_cli_that_optimizes_your_ai_prompts_in/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管 Strava 统计 v0.3.0 已发布🚀。支持所有类型的活动，并带来大量生活质量改进</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwr8vr/self_hosted_strava_statistics_v030_released/</link>
+      <description><![CDATA[嗨 r/opensource ! 我很高兴地宣布，我们刚刚发布了 v0.3.0！ Strava 统计数据允许您自行托管使用 Strava 数据生成的统计数据  示例：https://strava-statistics.robiningelbrecht.be 安装说明：https://github.com/robiningelbrecht/strava-statistics  v0.3.0 引入了对所有活动类型的支持 🚀 ⚠️ 此版本引入了重大变化，升级前请阅读https://github.com/robiningelbrecht/strava-statistics/wiki/Migrate-from-v0.2.x-to-v0.3.x 路线图上的变化和改进：https://github.com/robiningelbrecht/strava-statistics/issues    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwr8vr/self_hosted_strava_statistics_v030_released/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:32:42 GMT</pubDate>
+    </item>
     <item>
       <title>claude-term 介绍：一款基于终端的增强 Claude AI 交互的工具 🚀</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</guid>
       <pubDate>Wed, 08 Jan 2025 00:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传我在 Monogame 引擎中构建的两款游戏供所有人查看和使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</link>
-      <description><![CDATA[您好 r/opensource，我最近将我的两个已完成的游戏项目提交到了开源空间。我想这样做是因为我还没有看到任何开源的完整 MonoGame 项目，我希望上传它们可以帮助有需要的人。 Aliens! 2 ~ 街机射击游戏，对于初学者来说技术难度较大，但如果你已经对 MonoGame 有所了解，则可以作为很好的参考 -&gt; GitHub Repos / Itch.io Page The Derby ~ 非常简单、非常易于理解的赛车游戏，是我在学习初期制作的 -&gt; GitHub Repos / Itch.io 页面    由   提交  /u/Medical_Silver4229   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</guid>
-      <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boulette：防止您意外关闭远程主机！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvyu9o/boulette_prevents_you_from_accidentally_shutting/</link>
-      <description><![CDATA[       由    /u/poulain_ght  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvyu9o/boulette_prevents_you_from_accidentally_shutting/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Contribution Dots - 为投资组合爱好者提供的免费 React 组件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvxsmo/github_contribution_dots_a_free_react_component/</link>
-      <description><![CDATA[大家好！👋 如果您对作品集感兴趣并喜欢展示您的 GitHub 贡献，我刚刚构建了一个简单的 React 组件，您可能会感兴趣。这是一种免费、简单的方法，可以向您的作品集或项目添加 GitHub 风格的贡献/提交图表 您可以在此处查看 :) https://green-dots.vercel.app/    提交人    /u/Ok_Platypus_4475   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvxsmo/github_contribution_dots_a_free_react_component/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队任务应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
-      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    由    /u/hardiskz  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</guid>
-      <pubDate>Tue, 07 Jan 2025 14:36:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
