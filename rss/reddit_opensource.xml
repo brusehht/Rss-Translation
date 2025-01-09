@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 21:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 01:05:06 GMT</lastBuildDate>
+    <item>
+      <title>开源软件并不总是更安全</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hx06uz/opensource_software_isnt_always_safer/</link>
+      <description><![CDATA[这就像人们说有机食品实际上比非有机食品更健康，这可能适用于许多水果或蔬菜，它们使用了大量杀虫剂，这些杀虫剂会被这些水分充足的水果和蔬菜吸收；有机食品也使用有机杀虫剂，并且没有明确或没有真正的证据表明它们在美国比常规杀虫剂多花 5 到 30 美元更健康，而且此外几乎没有证据表明您的有机食品实际上是有机，因为它们都来自其他国家，您不知道他们对您购买和食用的食物做了什么，也不知道他们邻近的农场在做什么，所以那些“有机”食物中可能含有有机农药和常规农药的混合物，而且两种农药的含量都可能非常高。 这对于开源软件来说大致是相同的情况，所以我只是想知道谁真正花时间阅读并知道如何理解其中一个程序的问题；好吧，据我所知，如果您不是程序员，或者没有服务器端经验，您怎么知道这些人中是否有人读过它来了解它呢？ 因此，我认为当我们看到一个新程序弹出时，我们应该重新考虑它，该程序因开源而受到如此多的赞扬，但似乎没有人读过代码，当你尝试时，它对大多数人来说就像一堆胡言乱语。 现在，就我自己对编程的了解，如果有人和我一样质疑同样的事情，您可能能够使用记事本查看代码，看看是否可以找到指向 github 页面或类似内容的链接，但这需要付出很多努力，我不知道是否有人真正这样做，所以即使有所有这些信息，人们仍然将有机食品视为实际上比非有机食品更好，即使它可能并非如此。 欢迎任何意见或批评。    由   提交  /u/One-Material-9466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hx06uz/opensource_software_isnt_always_safer/</guid>
+      <pubDate>Thu, 09 Jan 2025 00:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Linux 的领军人物之一史蒂夫·兰加塞克去世</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwxyxt/steve_langasek_one_of_ubuntu_linuxs_leading/</link>
+      <description><![CDATA[        由    /u/CrankyBear 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwxyxt/steve_langasek_one_of_ubuntu_linuxs_leading/</guid>
+      <pubDate>Wed, 08 Jan 2025 23:12:37 GMT</pubDate>
+    </item>
     <item>
       <title>Valyent：开发人员优先的云平台。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/jeremy_feng   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</guid>
       <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有以社区为中心的 Gotify 替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
-      <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
-      <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚发布了 Notate – 提供本地法学硕士支持的开源 AI 研究助理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</link>
-      <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</guid>
-      <pubDate>Wed, 08 Jan 2025 00:25:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
