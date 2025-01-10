@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 Jan 2025 06:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 09:16:03 GMT</lastBuildDate>
+    <item>
+      <title>在某些移动浏览器上滚动时，屏幕固定元素会滞后。有什么方法可以修复它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hy0g44/a_screen_fixed_element_lags_when_scrolling_on/</link>
+      <description><![CDATA[我有一个移动网页，其中包含屏幕底部的固定元素。当您在移动版 Chrome 上快速滚动时，它可以正常工作，在移动版 Firefox 上会出现瞬间延迟，而使用移动版 duckduckgo 浏览器时，延迟会超过一秒。桌面版 Firefox 也可以正常工作。有什么方法可以修复它，还是我需要接受移动设备和浏览器存在不一致的情况。 它使用了 tailwind 的“固定底部 0”值  包含问题的页面 - https://theperceptioncompany.com/sensor-outputs    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hy0g44/a_screen_fixed_element_lags_when_scrolling_on/</guid>
+      <pubDate>Fri, 10 Jan 2025 09:08:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用程序或工作流自动化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hy06o3/web_apps_or_workflow_automations/</link>
+      <description><![CDATA[雇人为我们创建一个 Web 应用是否合理，还是继续使用 Zapier、Make、Relay 等工作流自动化？ 我们运营一个房地产团队，目前使用 Notion、Google Forms、Google Sheets、Gmail 的组合来管理我们的交易，并使用 Zapier 和 Relay 让所有交易都“对话”并按照我们想要的方式进行。这非常精简，但当我们想要进行更改时似乎很乏味。 雇人为我们创建一个 Web 应用是否合理，还是我们应该继续我们现在的方式？对我们来说最重要的是速度和与我们正在使用的当前软件的兼容性。    提交人    /u/Opposite-Topic-7444   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hy06o3/web_apps_or_workflow_automations/</guid>
+      <pubDate>Fri, 10 Jan 2025 08:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个开源 blockuduku 克隆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxzx21/i_made_an_open_source_blockuduku_clone/</link>
+      <description><![CDATA[  由    /u/matan-h  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxzx21/i_made_an_open_source_blockuduku_clone/</guid>
+      <pubDate>Fri, 10 Jan 2025 08:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道这个网站使用什么映射库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxzkdl/does_anyone_now_what_mapping_library_this_site/</link>
+      <description><![CDATA[        提交者    /u/iwouldlikethings   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxzkdl/does_anyone_now_what_mapping_library_this_site/</guid>
+      <pubDate>Fri, 10 Jan 2025 08:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助图像显示/存储</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxz81w/help_with_image_display_storage/</link>
+      <description><![CDATA[我是 Web 开发新手，我正在尝试创建一个需要存储大量图像文件的 Web 应用程序。我希望用户能够上传自己的图像，其他用户也能够看到它们。我知道这很模糊，但这里有一个使用与我正在制作的类似存储系统的示例： https://artgrab.co/store 目前，我的应用程序已连接到 Firestore，但即使只是我自己测试它，上传图像并从那里调用它们也会使用数百次读取和数百 MB 的带宽，仅上传我自己的几张图片。如果更多人开始使用它，它很快就会变得不可持续。  我确信有更好的方法可以做到这一点，因为即使我发布的链接至少在他们的网站上有数十万张图片，如果他们使用像我这样存储和显示他们的图片的东西，那将是极其昂贵的。  有人知道更好的方法吗？    提交人    /u/Top_Refrigerator6722   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxz81w/help_with_image_display_storage/</guid>
+      <pubDate>Fri, 10 Jan 2025 07:34:55 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以帮我检查一下我的学校作业吗？完全初学者</title>
       <link>https://www.reddit.com/r/webdev/comments/1hxxscv/can_someone_help_me_review_my_school_project/</link>
@@ -67,41 +102,6 @@
       <description><![CDATA[我是一名业余爱好者，试图理解 SPF、DMARC、DKIM 等，以确保可靠的电子邮件传递。 我们每个月可能会向几个用户发送几百封电子邮件，并通过 wordpress/woocommerce 上的 Google Workspace 自动发送订单通知，还会使用“来自”的自动 shipstation 电子邮件我们的域名。 我已经配置并验证了 WP Mail SMTP，验证并设置了 DKIM 记录，配置了 DMARC 记录，添加并验证了来自 shipstation 的相应 CNAME 记录，并且有一个似乎可以工作的 SPF 记录，但我不是 100% 确定。 对于 DMARC，我已将其设置为隔离。 对于 SPF 记录，我有  &quot;v=spf1 include:_spf.google.com include:_spf.smtp.com ~all&quot;  我认为这应该基本上将 WP Mail SMTP 和 Google 列入“白名单”，但我是否也应该为 shipstation 添加/“白名单”某些内容，以便电子邮件不会被隔离？这有意义吗？我理解得正确吗？我认为 DMARC 和 SPF 一起工作，对吗？如果有人以您的名义发送某些内容并将其描述为来自您的域，如果 SPF 不允许，它会被发送到垃圾邮件吗？ 请纠正我并帮助我完全理解！感谢您阅读所有这些内容！    提交人    /u/einbierbitte   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hxqm0l/trying_to_create_an_effective_spf_record/</guid>
       <pubDate>Thu, 09 Jan 2025 23:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Squarespace 支持噩梦！域名连接问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxpo4q/squarespace_support_nightmare_domain_connection/</link>
-      <description><![CDATA[我试图将我的域名（通过 Google Cloud 的域名购买）连接到 Squarespace，但已经筋疲力尽。当我尝试在 Squarespace 中连接它时，我收到一条消息，说“此域名已由 Squarespace 管理。”我以前从未将 Squarespace 与此域名一起使用过，所以这显然是他们的错误。 我通过聊天多次联系 Squarespace 支持。每次，经过漫长的等待（几个小时，毫不夸张！），我都会得到一个非常简短的回复，说这是一个他们正在“处理”的技术问题，没有预计解决时间。最后一次，他们说他们会通过电子邮件跟进，但他们从来没有这样做过。 这真是令人沮丧。我同时为 Google Cloud 和 Squarespace 付费，但我甚至不能同时使用它们。有没有其他人遇到过 Google Cloud 域名和 Squarespace 的这个特定问题？如有任何解决方法或建议，我们将不胜感激！    提交人    /u/maskarzadeh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxpo4q/squarespace_support_nightmare_domain_connection/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>您目前正在做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxpgg1/what_are_you_currently_working_on/</link>
-      <description><![CDATA[我认为看到其他人在空闲时间建造的东西总是很有趣的，因为它能激励我，也有助于我在自己的领域之外保持最新状态。那么，你现在在空闲时间从事什么项目呢？ 我先说：我现在的项目是一个你可以和朋友或人工智能一起玩的游戏。你们都看到一个单词，然后猜猜人工智能/你的朋友会把哪个单词与第一个单词联系起来。如果你和朋友一起玩，它甚至会变成一场积分竞赛。如果你想看看，你可以在https://association-game.com    提交人    /u/redditjannis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxpgg1/what_are_you_currently_working_on/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMS，您的前端标记在 CMS 中“构建”适当的字段？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxp5c1/cms_where_your_frontend_markup_builds_the_proper/</link>
-      <description><![CDATA[我发誓我以前见过这个，我只是记不起 CMS 的名称（或者可能有多个）。 我正在寻找一种前端可以是任何你想要的堆栈的东西，你可以将数据属性或其他东西添加到你的 HTML 标记中，运行构建步骤，然后 CMS 就会为你准备好适当的集合/字段/任何可供你编辑的内​​容。 这存在吗，还是我梦到过？    提交人    /u/---_____-------_____   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxp5c1/cms_where_your_frontend_markup_builds_the_proper/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端开发人员需要有关页面布局的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxp2gs/backend_dev_needs_feedback_on_page_layouts/</link>
-      <description><![CDATA[我是一名后端开发人员，正在努力提高我的前端技能，但老实说，UI/UX 不是我的强项。我创建了 4 个 HTML 页面，并尝试实现我一直在学习的基础知识。 如果您有时间，我将非常感激您对布局、可用性或整体设计的任何反馈。  提前致谢！ 以下是页面屏幕截图的链接：候选人登陆页面、雇主登陆页面、关于页面、联系页面    提交人    /u/ericanderson3232014   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxp2gs/backend_dev_needs_feedback_on_page_layouts/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:24:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对 XML 文件的 XSL 转换进行可视化，以完成大学作业，但没有浏览器可以加载我的本地 XSL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxor26/need_to_visualize_a_xsl_transformation_on_a_xml/</link>
-      <description><![CDATA[大家好！ 我的 XML 文件和 XSL 文件位于我桌面上的一个文件夹中。XSL 在 XML 中声明。当我使用 Chrome 或 Firefox 运行 XML 时，我得到的是空白页。在这两种情况下，控制台都显示无法加载 XSL，因为这样做不安全。在谷歌搜索后，我得出的结论是，现代浏览器根本不喜欢本地 XSL。 那么...我现在该怎么做？我考虑启用 chrome“允许从文件访问标志”，因为我看到网上有几个人建议这样做，但我找不到它。我也听说这样做不安全。 我看到的另一种解决方案是设置本地服务器，以便 URL 获取 http，但我不知道该怎么做。 考虑到这个问题从未在课堂上提及过，我感觉我在一个非常简单的解决方案的问题上浪费了几个小时。任何帮助都值得赞赏 :)    提交人    /u/GoshDarnItToFrick   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxor26/need_to_visualize_a_xsl_transformation_on_a_xml/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:10:36 GMT</pubDate>
     </item>
     <item>
       <title>中欧托管</title>
