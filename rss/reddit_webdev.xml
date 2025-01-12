@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 03:25:34 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 12 Jan 2025 06:19:00 GMT</lastBuildDate>
+    <item>
+      <title>此网站可以在 Android 上运行，但不能在 Windows PC 浏览器上运行，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzg5tu/this_site_streams_on_android_but_not_on_windows/</link>
+      <description><![CDATA[因此此网站在通过基于 Android 的设备浏览器访问时会播放 sony yay 内容，但无法通过 PC 播放。我希望通过笔记本电脑观看内容...有什么办法吗？请帮忙     提交人    /u/deeps_231   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzg5tu/this_site_streams_on_android_but_not_on_windows/</guid>
+      <pubDate>Sun, 12 Jan 2025 05:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 Discord，让学生与高级工程师和 AI 研究人员建立联系（AMA、访谈等）——给我发私信获取链接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzeylp/starting_a_discord_to_connect_students_with/</link>
+      <description><![CDATA[我正在一个名为 GearUp 的非营利组织工作，这个想法很简单： 我们正在创建一个 Discord 服务器，有抱负的开发人员可以直接与经验丰富的工程师联系（例如谷歌的高级开发人员、人工智能研究人员等）以获得建议、指导和指导。 目标是让技术职业更容易获得 - 无论您是学生、职业转换者还是只是想升级。我们计划的事情包括：  与行业专家进行问答环节和 AMA。 关于编码、面试和其他技术技能的研讨会。 分享资源、机会和建议的空间。  我们才刚刚起步，所以规模还很小，但我希望在这里建立一些有意义的东西。 如果这听起来像你想参与的事情（作为学员或导师），给我发私信，我会给你发送 Discord 链接！    提交人    /u/Classic-Musician-545   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzeylp/starting_a_discord_to_connect_students_with/</guid>
+      <pubDate>Sun, 12 Jan 2025 04:40:53 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube 直播 API（限制 LiveChat 参与者）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hzdkkl/youtube_live_streaming_api_restricting_livechat/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>TanStack Start 和 Supabase：具有登录和文件上传功能的 CRUD 应用程序模板</title>
       <link>https://www.reddit.com/r/webdev/comments/1hzbbzn/tanstack_start_supabase_crud_app_template_with/</link>
-      <description><![CDATA[https://github.com/aaronksaunders/tanstack-start-supabase-auth 该项目是使用 TanStack、Supabase 和 TailwindCSS 的基本身份验证模板。它演示了如何使用 Supabase 作为后端服务来实现用户身份验证，包括登录、注册、文件上传和会话管理。 用于设置项目的 SQL 脚本包含在readme.md    提交人    /u/aaronksaunders   [链接] [评论]]]></description>
+      <description><![CDATA[https://github.com/aaronksaunders/tanstack-start-supabase-auth 该项目是使用 TanStack、Supabase 和 TailwindCSS 的基本身份验证模板。它演示了如何使用 Supabase 作为后端服务来实现用户身份验证，包括登录、注册、文件上传和会话管理。 用于设置项目的 SQL 脚本包含在 readme.md    提交人    /u/aaronksaunders   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hzbbzn/tanstack_start_supabase_crud_app_template_with/</guid>
       <pubDate>Sun, 12 Jan 2025 01:21:20 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我正在做一个项目，想集成 Framer Motion 来实现动画，但是出现了这个错误：   下面是我使用 Framer Motion 的代码： import { motion } from &quot;framer-motion&quot;; const TestComponent = () =&gt; { return ( &lt;motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }} &gt; 你的内容在这里 &lt;/motion.div&gt; ); }; export default TestComponent;  我已经：  仔细检查了导入 重新安装了 framer-motion (npm install framer-motion) 已验证兼容性  有人知道可能出了什么问题吗？    提交人    /u/aloo_paneer_111   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hz7q5k/nextjs_framer_motion_getting_type_is_invalid/</guid>
       <pubDate>Sat, 11 Jan 2025 22:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以为学习编程会让构建事物变得更容易。结果，它只是带来了同样的困难，但现在语法错误更多了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz69li/i_thought_learning_to_code_would_make_building/</link>
-      <description><![CDATA[我以为学习曲线真的结束了。我会有完美的新集成！没有错误！ …一大堆废话 编辑这是我的反思    由   提交  /u/SpOOkWins   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz69li/i_thought_learning_to_code_would_make_building/</guid>
-      <pubDate>Sat, 11 Jan 2025 21:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>乒乓球游乐场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz5kbt/ping_pong_playground/</link>
-      <description><![CDATA[        提交人    /u/Ancient-Border-2421   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz5kbt/ping_pong_playground/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:52:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
