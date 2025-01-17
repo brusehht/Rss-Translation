@@ -4,7 +4,56 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 17 Jan 2025 15:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 21:11:56 GMT</lastBuildDate>
+    <item>
+      <title>探索 ChatGPT 在零样本和少样本情境学习中的面部呈现攻击检测</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3qidr/exploring_chatgpt_for_face_presentation_attack/</link>
+      <description><![CDATA[标题：“探索 ChatGPT 在零样本和少样本情境学习中用于人脸呈现攻击检测” 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必全部浏览了。今天的论文题为“探索 ChatGPT 在零样本和少样本情境学习中用于人脸呈现攻击检测”，作者是 Alain Komaty、Hatef Otroshi Shahreza、Anjith George 和 Sébastien Marcel。 本研究调查了 ChatGPT（特别是 GPT-4o）作为人脸呈现攻击检测 (PAD) 的潜在替代方案的用途。PAD 是保护生物识别系统免受打印照片和重放攻击等欺骗技术攻击的重要组成部分。研究人员在零样本和少样本学习场景中测试了 GPT-4o 的能力，并发现了一些有趣的现象：  少样本学习中的一致性能：GPT-4o 在少样本情境学习中表现出了高度一致性。当给出更多示例时，模型的性能会明显提高。 详细提示的效果：详细的提示使模型能够生成更可靠的分数，而简洁的提示则缺乏一致性。发现寻求解释的提示可以增强 GPT-4o 的可解释性。 突发推理能力：值得注意的是，GPT-4o 可以在少样本场景中高精度地预测攻击类型（例如打印或重放），即使没有明确教导它对这些攻击类型进行分类。 零样本学习的局限性：尽管 GPT-4o 具有优势，但它在零样本任务中面临挑战，与专门的 PAD 系统相比，其性能有限。 数据集和隐私合规性：实验是在 SOTERIA 数据集的同意子集上进行的，符合数据隐私规范。  这次探索展示了 GPT-4o 在 PAD 应用中的潜力，并为未来研究增强跨数据集泛化和解决更广泛的隐私问题奠定了基础的关注。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3qidr/exploring_chatgpt_for_face_presentation_attack/</guid>
+      <pubDate>Fri, 17 Jan 2025 20:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能数据科学家</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3pbjh/ai_data_scientist/</link>
+      <description><![CDATA[我将 selenium 和 R 连接起来作为 Anthropic 工具来收集一些数据并在 R 中进行预测。我在这里整理了一个演示 https://youtu.be/jvjVZxAp1QU 很想听听您的想法和建议。你见过数据科学代理吗？人们在那个领域开发什么？    提交人    /u/kidzik   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3pbjh/ai_data_scientist/</guid>
+      <pubDate>Fri, 17 Jan 2025 20:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有人厌倦了与聊天机器人而不是真人交谈？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3p79c/is_anyone_else_tired_of_talking_to_a_chatbot/</link>
+      <description><![CDATA[在尝试处理某种支持或问题时，是否有其他人厌倦了与聊天机器人交谈或聆听聊天机器人而不是真人？ 它们并没有真正提供很多帮助，浪费了很多时间。 每当我遇到问题时，我通常都必须等待并采取某种解决方法才能联系到人来解决问题。    提交人    /u/SmartPercent177   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3p79c/is_anyone_else_tired_of_talking_to_a_chatbot/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:58:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用人工智能自动创建完整的 Web 应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3p6r3/automating_full_web_app_creation_with_ai/</link>
+      <description><![CDATA[嗨 Redditors， 我一直在集思广益一个个人项目，我很想听听你们对它是否可行以及如何实现它的看法。我的想法是这样的： 我想创建一个 Web 应用程序，它可以自动完成构建 Web 应用程序的整个过程，从产生想法到编码、测试和托管应用程序 - 只需单击一下按钮即可完成。本质上，它将是一个个人 AI 驱动的项目助手，可以帮我处理大部分繁重的工作，让我能够轻松地处理项目，同时专注于完善结果。 以下是我设想的工作原理： Web 应用程序的工作流程 1. 前端界面：基于 React 的仪表板，带有一个用于启动流程的按钮。 2. 后端编排器：管理工作流程和集成各种工具的 Node.js 后端。 3. AI 集成：将 AI（如 OpenAI）用于工作流程的不同部分：• 创意生成：生成富有创意且详细的项目创意。• UI/UX 设计：生成布局的线框或代码片段。• 代码生成：编写前端、后端和数据库代码（例如，使用 Copilot 或自定义模型）。• 测试：使用 AI 驱动的测试工具检查功能。4. 自动托管：生成的项目会自动部署到 Vercel 或 Netlify 等平台。然后，该应用会提供托管项目的链接。5. 日志和分析：该应用会跟踪已完成的项目、记录关键细节并提供使用情况分析或改进反馈。 可选功能 • 能够选择项目类型（电子商务、仪表板、投资组合等）。• 数据库集成以存储日志和项目元数据。• 从现有网站获取 UI 创意（作为起点）。 • 对生成的代码进行 AI 调试。 挑战 • AI 限制：当前的 AI 工具能否可靠地生成高质量、可投入生产的应用程序？ • 集成复杂性：无缝结合 AI 模型、部署管道和工作流编排。 • 可扩展性：确保这在不同类型的项目中顺利运行。 • 成本：在集成 API（例如 OpenAI、托管等）的同时保持完全免费。 我要问的是 1. 这个想法在现有技术下可行吗？OpenAI、GitHub Copilot 和部署平台等 AI 工具能否处理这种级别的自动化？ 2. 对于这样的事情，您会推荐哪些工具或框架？ 3. 是否有现有的解决方案可以给我带来灵感？我考虑过类似的工具，比如 Hugging Face、Copilot 甚至 CI/CD 管道，但不确定如何有效地结合一切。 4. 我该如何改进这个想法？我应该添加哪些功能或考虑因素才能使其成为真正实用的工具？ 我暂时不打算将其商业化；它只是一个个人生产力工具，可以帮助我处理全栈项目，而无需手动投入太多时间。如果效果好，我可能会在某一天扩展它，但就目前而言，我希望它是 100% 个人化的。 很想听听您的任何见解、提示或想法！这是我应该追求的东西吗？ 提前谢谢！    提交人    /u/The_Real_Firas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3p6r3/automating_full_web_app_creation_with_ai/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Titans：具有更好长期记忆的新型 LLM 架构（更优质的视频）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3p3fl/google_titans_new_llm_architecture_with_better/</link>
+      <description><![CDATA[Google 最近发布了一篇介绍 Titans 的论文，他们试图在名为 Titans 的 LLM 新架构中模仿类似人类的记忆。在指标方面，该架构在论文中分享的许多基准测试中均优于 Transformers。在此处了解有关 Google Titans 的更多信息：https://www.youtube.com/watch?v=pU5Zmv4aq2U    提交人    /u/44th-Hokage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3p3fl/google_titans_new_llm_architecture_with_better/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们做错了吗？只是写下了一些深夜的想法。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3obqa/are_we_doing_it_wrong_just_wrote_down_some_late/</link>
+      <description><![CDATA[当一个孩子出生时，他/她 - 开始观察周围环境 形成一些关于它的抽象知识 开始听（一直都是） 形成这些词的抽象含义 将这些词与已经存在的抽象知识库联系起来 开始理解语言 开始交流 知识成倍增加 我们能在计算机程序中复制生命形式吗？ 什么是生命形式？  为了生存而争夺资源的东西  我们想从这种生命形式中得到什么？  有智慧去理解其环境（抽象知识） 并最终学习人类语言  我们需要一个程序来模拟-适应自主繁殖竞争简单行为遗传算法（从适者生存和繁殖开始，最终导致深度神经网络，这是下一个要点） 神经网络（一个基本的网络，当细胞在地球上开始时甚至还不存在） 以及一个随机演变的程序环境 老实说，程序应该以这样的方式，即使没有 NN 代码，它也会自行发展，这将有点奇怪，这引出了我们的这个问题 - 智力能否从两个非常简单的规则中自然产生 - 生存和繁殖 但还有一个因素：导致突变的自然选择 突变应该导致诸如激素、身体机制和外部环境等复杂事物的发展，从而引入感觉和关系 我还没有谈到意识。不知道我们是怎么到达那里的。也许我们最终会到达那里？ 因此，我们需要一个环境来创建一个可以学习体验事物的系统，而不是记住他人的经验，这最终可以导致抽象知识的发展。    提交人    /u/SeaworthinessLeft883   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3obqa/are_we_doing_it_wrong_just_wrote_down_some_late/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件构建的未来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3k3zq/the_future_of_building_software/</link>
+      <description><![CDATA[有点漫无目的。  对我来说，构建软件已经商品化，这一点非常清楚。我实际上在不到一天的时间内就推出了一个带有后端、身份验证、前端的全新应用程序，并进行了部署。  看看 OpenAI、Claude、Gemini 中的新功能，它们每天都在接管越来越多的用例。  我觉得公司将减少购买单个软件，并使用一些通用代理进行管理。在这种情况下，大型代理几乎将接管 90% 的工作流程。  新构建者将何去何从？您觉得呢？     提交人    /u/j_relentless   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3k3zq/the_future_of_building_software/</guid>
+      <pubDate>Fri, 17 Jan 2025 16:22:47 GMT</pubDate>
+    </item>
     <item>
       <title>有没有专门帮助学习语言的免费人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3ielg/any_free_ai_specific_to_helping_learn_languages/</link>
@@ -20,25 +69,11 @@
       <pubDate>Fri, 17 Jan 2025 14:29:29 GMT</pubDate>
     </item>
     <item>
-      <title>出于信任问题，为什么 2025 年的代理人工智能革命很可能由开源主导</title>
+      <title>为什么 2025 年的代理人工智能革命很可能由开源主导，因为信任问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3f3i7/why_the_2025_agentic_ai_revolution_will_probably/</link>
       <description><![CDATA[整个人工智能行业现在都在争先恐后地创建应用程序，让企业能够将人工智能代理集成到他们的工作流程中。虽然 openai 和 agentforce（以前称为 salesforce）似乎更有能力引领这场革命，但由于信任的重要问题，事情可能不会这样发展。 以将人工智能融入法律服务为例。顶级律师事务所负责保护数十亿美元的客户资产。如果他们要将 agentic 人工智能整合为律师助理、法律分析师等，他们和他们的客户都希望确保这些代理已经过适当的安全性和可信度审查。 获得这种信任的一种方法是经过数年或数十年的一流、可靠的服务。然而，这场代理革命是在几个月内发生的，而不是几年，因此无法实现基于时间的信任模型。  专有人工智能代理的问题在于，它们的权重、参数、训练数据和其他关键方面将隐藏在黑匣子中。这些信息将受到严密保护，即使是他们最好的客户也无法访问。 现在将其与 opendevon 等开源开发人员正在开发的 agentic ais 进行比较。他们更有可能发布他们的权重和参数、训练数据、源代码、研究论文、api、微调脚本、评估指标、基准、社区贡献以及道德和安全准则。这种透明度不仅使企业更容易整合这些人工智能代理，也使评估它们的可信度变得更加容易。 如果您是一家即将在员工队伍中组建一支人工智能代理大军的律师事务所，并希望激发客户的信任和信心，您会转向黑匣子专有模型还是开源模型，以便您更自信地评估它们在各种与信任相关的指标上的可靠性？   由    /u/Georgeo57  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3f3i7/why_the_2025_agentic_ai_revolution_will_probably/</guid>
       <pubDate>Fri, 17 Jan 2025 12:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能机器人 Boardy 刚刚完成 800 万美元种子轮融资</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3ebj0/ai_bot_boardy_just_closes_8m_seed_round_entirely/</link>
-      <description><![CDATA[我对 Boardy 机器人的采访  https://techbomb.ca/artificial-intelligence/boardy-ai-super-connector-interview/ 背景：Boardy 是一款 AI“超级连接器”，旨在帮助人们找到彼此并在现实生活中进行实际交谈，而不是用机器人或其他任何东西取代他们。它由 Andrew D’Souza、Matt Stein、Shen Sivananthan 以及两兄弟 Abhinav 和 Ankur Boyed 创办。投资者对此感到非常兴奋，以至于 Boardy 在投资者亲自测试并说“哇，这有效”后获得了 800 万美元。人工智能基本上会根据相似的目标或酷炫的想法将人们联系起来——有点像企业家的数字媒人。 Boardy 还相信对其数据使用方式保持高度开放，并努力不显得可疑。它曾经忘记告诉人们它将他们的信息存储在何处，这引起了一些混乱，但后来它通过清楚地解释解决了所有问题。如果您有一个项目并需要建议，Boardy 建议采用现代技术设置、具有不同级别的订阅计划，并且只投放不会破坏信任因素的广告。基本上，Boardy 希望保持一切公平和诚实，这样人们就可以建立真正的联系，而无需任何奇怪的付费赢取东西。    提交人    /u/NeptuneAgency   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3ebj0/ai_bot_boardy_just_closes_8m_seed_round_entirely/</guid>
-      <pubDate>Fri, 17 Jan 2025 11:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI 推出 Titans：一种革命性的机器学习架构，重新定义长期情境的记忆和注意力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3deaq/google_ai_introduces_titans_a_revolutionary/</link>
-      <description><![CDATA[https://blog.aitoolhouse.com/google-ai-introduces-titans-a-revolutionary-machine-learning-architecture-redefining-memory-and-attention-for-long-term-contexts    提交人    /u/rathwiper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3deaq/google_ai_introduces_titans_a_revolutionary/</guid>
-      <pubDate>Fri, 17 Jan 2025 10:25:01 GMT</pubDate>
     </item>
     <item>
       <title>具有现代功能的一体化 LLM 平台</title>
@@ -46,13 +81,6 @@
       <description><![CDATA[最近，ALL-IN-ONE 平台似乎风靡一时，您只需支付一笔费用，即可使用多种模型。一些热门选择的示例：Zemith、NinjaChat、BoxChat。 但是它们缺乏现代功能。我正在寻找支持以下功能的平台：  Artifacts / Canvas -类似功能。 GPTs / Agents -类似功能，您可以在其中创建自定义助手（使用自定义系统提示） Perplexity PRO 模式 或具有相同或更好质量的类似技术（提前计划搜索内容；搜索多个术语以找到用户需要的内容；每个问题 8 个以上的来源）- Google 的 Deep Research 就是此类功能的很好示例。  请问您对此类平台或软件有什么建议吗？     由    /u/MichalMikolas 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3d7zh/allinone_llm_platforms_with_modern_features/</guid>
       <pubDate>Fri, 17 Jan 2025 10:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft MatterGen：用于材料设计和发现的 GenAI 模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i3clk7/microsoft_mattergen_genai_model_for_material/</link>
-      <description><![CDATA[微软最近开源了 MatterGen，这是一种可以帮助材料设计和发现的 AI 模型。基于扩散，它可以根据其特性（例如高导电性、低弹性）帮助您生成不同的材料。在此处查看更多详细信息：https://youtu.be/6Quzz9r-Pe4?si=Rd2mETwIq3nEbk68    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i3clk7/microsoft_mattergen_genai_model_for_material/</guid>
-      <pubDate>Fri, 17 Jan 2025 09:23:59 GMT</pubDate>
     </item>
     <item>
       <title>Google Titans：具有更好长期记忆的新型 LLM 架构</title>
@@ -69,37 +97,9 @@
       <pubDate>Fri, 17 Jan 2025 06:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是否能够制作出任何技术都无法检测到的人工智能生成的图像？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i36dn8/will_ai_be_able_to_make_images_that_no_technology/</link>
-      <description><![CDATA[我们是否会达到这样的地步：即使我们使用技术和人工智能本身进行检测，人工智能生成的图像也如此逼真，以至于无法将它们与真实照片区分开来？    提交人    /u/Suitable_Ad_6455   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i36dn8/will_ai_be_able_to_make_images_that_no_technology/</guid>
-      <pubDate>Fri, 17 Jan 2025 02:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您有资源，您会构建什么样的 AI 项目？又有哪些阻碍您实现这一目标？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i33wv8/what_ai_projects_would_you_build_if_you_had_the/</link>
-      <description><![CDATA[如果您能够获得实际需要的资源（例如知识、计算能力、资金、数据、合作者），您会从事哪种项目？目前是什么阻碍了您开始或完成概念阶段？    提交人    /u/Ok-Bother-8872   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i33wv8/what_ai_projects_would_you_build_if_you_had_the/</guid>
-      <pubDate>Fri, 17 Jan 2025 00:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们是否对其他类型的“人工智能”还未有所了解，或者他们只是没有意识到它们的存在？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2zbds/are_people_sleeping_on_other_types_of_ai_or_are/</link>
-      <description><![CDATA[问这个问题是因为我觉得我越来越多地看到了我在关于乳腺癌检测的帖子中看到的情绪：  这正是我们应该使用人工智能做的事情——并展示了人工智能的真正潜力。  这并不是什么新鲜事，它是一个改进自 2021 年以来就存在的模型的模型……通过完全切断架构的变压器组件（除其他外）。这里的实际改进是简化模型——同时保持大致相同的性能——使其更具可解释性。总的来说，我见过有人：  建议我们使用 LLM 来做我们已经用 LLM 所基于的 Transformer 架构所做的事情，或者使用 ML 中其他更合适的方法。 热情地争论说 AI 代理是一个全新的范式，或者像 MARL 这样的相关想法在过去几年之前实际上处于 20 世纪 70 年代的水平。 声称 AGI/ASI 将能够做我们几十年来在没有 AI 品牌的情况下能够做的事情。  如果这样的评论来自普通大众，我会是一回事，但我看到很多评论来自受过高等教育的软件开发人员，他们不仅仅是工程提示并将它们插入 API。我们怎么会走到这一步？当 Transformer 出现时，我正在研究生院学习 ML，很明显这个领域正朝着那个方向发展。语言模型只是我们所学知识的一小部分，因为有上百万个非语言问题可以直接使用 ML 来解决。有些人说话的方式就好像他们认为我们需要使用 ML 来构建 AI 系统来解决我们已经在使用 ML 解决的问题。    提交人    /u/Murky-Motor9856   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2zbds/are_people_sleeping_on_other_types_of_ai_or_are/</guid>
-      <pubDate>Thu, 16 Jan 2025 21:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我卖掉了自己的眼睛：加密货币公司为虹膜扫描买单 - 巴西趋势</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2p1qk/i_sold_my_eye_cryptocurrency_company_pays_for/</link>
-      <description><![CDATA[由 OpenAI 首席执行官 Sam Altman 联合创办的公司 Tools for Humanity 提供加密货币以换取个人虹膜扫描服务。 在收集到虹膜图像后，该公司平均支付 48 个 Worldcoins，这是该公司的加密货币，可以兑换成当地货币并提取。 该公司声称的目标是为人们提供一种验证其人性的方法，让他们证明自己是真正的人类而不是机器人，因为虹膜和指纹一样都是独一无二的。 然而，Tools for Humanity 计划背后的确切动机仍不清楚，即使对于那些已经参与该程序并获得虹膜扫描报酬的人来说也是如此。 到目前为止，全球已有超过 2200 万人下载了该公司的应用程序 (WorldApp)，其中包括巴西的 100 万人。其中，已有 1000 万人接受了虹膜验证，其中 40 万人在巴西。 巴西国家数据保护局 (ANPD) 已启动程序，以收集更多信息并确定该项目是否符合该国的《通用数据保护法》 (LGPD)。 仅在圣保罗，就有 38 个“人性验证”点，人们通常对该项目没有太多了解，他们允许扫描虹膜以换取加密货币。 专家警告提供生物特征数据存在风险，尤其是由于其独特和永久性，这可能导致隐私和安全问题。    提交人    /u/xMoonknightx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2p1qk/i_sold_my_eye_cryptocurrency_company_pays_for/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:36:12 GMT</pubDate>
-    </item>
-    <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
