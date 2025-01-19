@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 18 Jan 2025 21:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 03:18:16 GMT</lastBuildDate>
     <item>
-      <title>如何修改计算机无法识别的设备上的声音文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4h6ks/how_to_modify_sound_files_on_a_device_not/</link>
-      <description><![CDATA[嗨，我想修改或替换我的 vape 上的语音文件（只是为了好玩）。该设备通过 USB 连接到计算机，但未被识别为存储或无法进行文件浏览。我想用自定义声音文件替换默认语音提示。你知道如何访问内部文件吗，或者是否需要任何特定的软件或方法来实现这一点？谢谢你的帮助！    提交人    /u/Acceptable_Log8349   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4h6ks/how_to_modify_sound_files_on_a_device_not/</guid>
-      <pubDate>Sat, 18 Jan 2025 20:56:21 GMT</pubDate>
+      <title>我编写了一个 Python 程序，可以根据你请求的数据自动下载 TikToks</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4ojgs/i_made_a_python_program_to_auto_download_tiktoks/</link>
+      <description><![CDATA[  由    /u/SparksCool  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4ojgs/i_made_a_python_program_to_auto_download_tiktoks/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:58:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - JianZcar/notes-bash,由 fzf 提供支持的简单笔记 tui bash 脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4nn4q/github_jianzcarnotesbash_a_simple_note_taking_tui/</link>
+      <description><![CDATA[  由    /u/Zenalia-  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4nn4q/github_jianzcarnotesbash_a_simple_note_taking_tui/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的 SaaS！我创建了 Spendify。这​​是一种与朋友分摊费用的新方式，无需应用程序，没有限制，只需单击一下即可完成所有设置。</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4m9wx/roast_my_saas_ive_created_spendify_a_new_way_of/</link>
+      <description><![CDATA[  由    /u/lrshaid  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4m9wx/roast_my_saas_ive_created_spendify_a_new_way_of/</guid>
+      <pubDate>Sun, 19 Jan 2025 00:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化 Ruby 的 JSON，第七部分（最后一部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4lfoc/optimizing_rubys_json_part_7_and_last/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4lfoc/optimizing_rubys_json_part_7_and_last/</guid>
+      <pubDate>Sun, 19 Jan 2025 00:17:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>实现重试机制 - Java 面试题</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4kejx/implement_retry_mechanism_java_interview_question/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4kejx/implement_retry_mechanism_java_interview_question/</guid>
+      <pubDate>Sat, 18 Jan 2025 23:26:44 GMT</pubDate>
     </item>
     <item>
       <title>Elixir 的 |> 操作符和其他语言中的等效操作符</title>
@@ -69,7 +97,7 @@
       <pubDate>Sat, 18 Jan 2025 11:47:41 GMT</pubDate>
     </item>
     <item>
-      <title>大家好！ 🚀 我很高兴与你们分享我的第一个项目，在其中我解释了 Flexbox 在 CSS 中的工作原理。 🎨我仍然需要改进设计的某些方面并添加 flex-grow、flex-shrink 和 flex-basis 属性的功能，因此欢迎任何帮助。</title>
+      <title>大家好！ 🚀 我很高兴与您分享我的第一个项目，其中我解释了 Flexbox 在 CSS 中的工作原理。 🎨 我仍然需要改进设计的某些方面，并添加 flex-grow、flex-shrink 和 flex-basis 属性的功能，所以欢迎所有帮助</title>
       <link>https://www.reddit.com/r/programming/comments/1i451r7/hola_a_todos_estoy_emocionado_de_compartir_con/</link>
       <description><![CDATA[  由   提交  /u/No-Apartment-6151   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i451r7/hola_a_todos_estoy_emocionado_de_compartir_con/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[Tldr：每次合并 PR 时，它都会将标题添加到 Github 中的草稿版本中，发布后会在 Slack 上发送一条通知    提交人    /u/creasta29   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i435m0/automating_release_notes/</guid>
       <pubDate>Sat, 18 Jan 2025 08:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>找到问题的根源</title>
-      <link>https://www.reddit.com/r/programming/comments/1i42vao/finding_the_root_of_the_problem/</link>
-      <description><![CDATA[  由    /u/ColdRevolutionary193  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i42vao/finding_the_root_of_the_problem/</guid>
-      <pubDate>Sat, 18 Jan 2025 08:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要像德文一样</title>
-      <link>https://www.reddit.com/r/programming/comments/1i41w8c/dont_be_like_devon/</link>
-      <description><![CDATA[我想尝试一下这种编程讽刺的东西。可能基于或不基于过去的经验。    提交人    /u/The_Axolot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i41w8c/dont_be_like_devon/</guid>
-      <pubDate>Sat, 18 Jan 2025 06:54:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>无服务器计算中的函数分片是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i41myb/what_is_function_sharding_in_serverless_computing/</link>
-      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i41myb/what_is_function_sharding_in_serverless_computing/</guid>
-      <pubDate>Sat, 18 Jan 2025 06:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常规提交（模仿）</title>
-      <link>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</link>
-      <description><![CDATA[  由   提交  /u/Substantial_Tea_6549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</guid>
-      <pubDate>Sat, 18 Jan 2025 06:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
