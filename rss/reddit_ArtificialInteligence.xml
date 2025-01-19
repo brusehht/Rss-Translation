@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 19 Jan 2025 09:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:22:36 GMT</lastBuildDate>
+    <item>
+      <title>需要一些帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4wpkn/need_some_help/</link>
+      <description><![CDATA[您好，我想知道是否有人愿意帮我在视频中换一张脸。如果您能帮忙，请直接发私信给我。谢谢    提交人    /u/Specialist-Shine8927   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4wpkn/need_some_help/</guid>
+      <pubDate>Sun, 19 Jan 2025 11:44:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>结合 AI 应用进行研究？如何结合使用 Google 的 Deep Research、Learn About 和 NotebookLM</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4vrfm/combining_ai_apps_for_research_how_to_use_googles/</link>
+      <description><![CDATA[本文介绍了如何结合使用三种 Google AI 研究工具 - Deep Research、Learn About 和 NotebookLM - 以增强研究。Deep Research 进行网络搜索，Learn About 提供简化的解释，NotebookLM 充当笔记和摘要的中央存储库。作者强调将这些工具与传统阅读相结合以获得最佳结果，强调简化工作流程的好处并警告不要过度依赖 AI。本文提倡使用这种组合方法在研究过程中实现更快的入门、更深入的清晰度和自适应探索。 我很好奇您对结合这样的 AI 工具以获得更好结果有何看法？ 您如何结合 Perplexity、OpenAI 的 o1、Deep Research、NotebookLM、Learn About 和其他类似工具？  https://www.ai-supremacy.com/p/how-to-use-google-deep-research    由   提交  /u/BackgroundResult   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4vrfm/combining_ai_apps_for_research_how_to_use_googles/</guid>
+      <pubDate>Sun, 19 Jan 2025 10:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一种快速制作视频/演示文稿的方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4vht9/need_a_way_to_make_a_videopresentation_fast/</link>
+      <description><![CDATA[我与犯罪青少年一起工作，每次有人完成我们的项目时，我都会制作一个视频，记录我们每 3 周在学校、活动和徒步旅行的所有美好回忆。 这花费了我太多时间和精力，让我感到沮丧。 直到现在，我一直在使用 Canva。 我正在寻找一种可以帮助我更快、更轻松地完成工作的 AI 工具。 这是我的最后一个项目，让您了解我的意思： https://www.canva.com/design/DAGXoDg9Two/vOT35KvwVo8h0i1rsLSXBw/edit   由    /u/Lancelot_810  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4vht9/need_a_way_to_make_a_videopresentation_fast/</guid>
+      <pubDate>Sun, 19 Jan 2025 10:18:22 GMT</pubDate>
+    </item>
     <item>
       <title>大型语言模型 获取科学的新机遇</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4ulv8/large_language_models_new_opportunities_for/</link>
       <description><![CDATA[标题：大型语言模型：获取科学的新机会 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必费力地浏览它们了。今天的论文题为“大型语言模型：获取科学的新机会”，作者是 Jutta Schnabel。 这项研究深入探讨了利用大型语言模型 (LLM) 简化和增强获取科学数据和见解的令人兴奋的领域。具体来说，它探索了它们在开放科学环境中的 KM3NeT 中微子探测器中的应用。以下是论文中的一些重要见解：  LLM 工具在开放科学系统 (OSS) 中的集成：本文讨论了 LLM 如何通过集成到 OSS 中，通过检索增强生成 (RAG) 增强，有效地使科学信息和资源更易于访问和理解。这对于 KM3NeT 合作尤其有价值，该合作旨在为不同的科学界提供访问全面数据和工具的渠道。 LLMTuner 包的开发：LLMTuner 包是作为在 KM3NeT 的 OSS 环境中优化 LLM 功能的关键工具引入的。它增强了数据检索、转换和评估，提供了对高效科学工作流程至关重要的用户界面定制。 科学研究中的应用：本文探讨了几个用例，包括为研究人员提供内部信息检索和科学工作流程协助工具。它还旨在开发工具，帮助非专家理解复杂的科学概念，增强教育应用。 元数据标准的创新：该研究强调整合 ANTARES 望远镜的遗留数据以开发元数据标准，这对于改进科学工作流程和使分析结果更加系统化和可互操作至关重要。 未来前景：该论文概述了未来的发展，旨在改进预处理选项，改进结果显示，增强聊天工具界面，并支持使用 Docker 进行容器化部署。  这些举措巩固了 LLM 在民主化科学获取和增强开放科学框架可用性方面的变革潜力。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4ulv8/large_language_models_new_opportunities_for/</guid>
       <pubDate>Sun, 19 Jan 2025 09:12:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>医疗保健领域的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4ugn4/ai_in_healthcare/</link>
-      <description><![CDATA[我是印度的一名 40 岁外科医生。如果在 2025 年不学习 AI，我会错过什么？我如何通过学习 AI 来提高自己？    提交人    /u/Dry-Remove7231   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4ugn4/ai_in_healthcare/</guid>
-      <pubDate>Sun, 19 Jan 2025 09:01:18 GMT</pubDate>
     </item>
     <item>
       <title>Reddit 与人工智能</title>
@@ -34,13 +48,6 @@
       <pubDate>Sun, 19 Jan 2025 07:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>开放人工智能崇拜</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4s1sb/open_ai_worship/</link>
-      <description><![CDATA[我一直在研究 Suchir Balaji 的死因。我想知道是否有人知道一个更好的地方来调查 Tucker Carlson 最近在接受母亲采访时提到的关于 Open AI “崇拜”人工智能的谣言？有人知道这个谣言是从哪里来的吗？    由   提交  /u/NumerousPressure8677   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4s1sb/open_ai_worship/</guid>
-      <pubDate>Sun, 19 Jan 2025 06:11:29 GMT</pubDate>
-    </item>
-    <item>
       <title>需要从 .xml 文件生成标签（从 WordPress 下载）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4rb5o/need_to_generate_tags_from_an_xml_file_downloaded/</link>
       <description><![CDATA[需要根据我 WordPress 网站上现有的博客文章生成标签。已下载 .xml 文件。有什么关于下一步如何进行的提示吗？尝试使用 Python，但没有成功。在 ChatGPT 上进行故障排除很困难，因为它不接受那么长的文件（免费版）。我可以访问英特尔和 Nvidia 开发者计划门户。我可以用它们来完成这项任务吗？    提交人    /u/DigitalSplendid   [link] [评论]]]></description>
@@ -53,13 +60,6 @@
       <description><![CDATA[我已经验证了我正在抓取的网站的所有权，但它仍然说要等待几天才能让页面（我有 1 个网页）完成索引。发生了什么事？ 是因为我没有站点地图吗？    提交人    /u/Ok-Cicada-5207   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4ohh1/question_about_googles_agent_builder_data_store/</guid>
       <pubDate>Sun, 19 Jan 2025 02:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有灵魂的技术骗子声称艺术家并不真正喜欢创作艺术，但他有一个解决方案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4o7w5/soulless_techbro_grifter_claims_artists_dont/</link>
-      <description><![CDATA[ “把一大笔风险投资资金扔给律师，而不是坐下来讨论如何合作，这似乎很愚蠢。先决定起诉，然后再问问题，在我看来效率很低，”舒尔曼说道。 “我显然宁愿不被起诉。如果这场诉讼进入审判阶段，我们输了，这显然对我们不利。公司没有倒闭，但显然对我们不利。但是，如果你能让 Suno 这样的公司消失，那会怎样？你真的想要吗？如果音乐产业能像游戏产业一样大，那会怎样？会有很多快乐的人。”  https://www.musicradar.com/music-industry/its-not-really-enjoyable-to-make-music-now-says-the-ceo-of-an-ai-music-making-platform-and-he-wants-to-help     提交人    /u/tristanwhitney   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4o7w5/soulless_techbro_grifter_claims_artists_dont/</guid>
-      <pubDate>Sun, 19 Jan 2025 02:41:08 GMT</pubDate>
     </item>
     <item>
       <title>需要一些关于最后一年项目的想法</title>
@@ -92,14 +92,14 @@
     <item>
       <title>投资者和政府人员对人工智能有什么不了解的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i46t47/what_is_something_investors_and_people_in/</link>
-      <description><![CDATA[每个人都在谈论人工智能，尤其是投资者和政府官员。但直到 2 年前，他们才真正关心或拥有这方面的背景。  他们不明白什么？你希望在什么方面让他们震惊？你觉得什么令人恼火？     提交人    /u/AdaKingLovelace   [link] [评论]]]></description>
+      <description><![CDATA[每个人都在谈论人工智能，尤其是投资者和政府官员。但直到 2 年前，他们才真正关心或拥有这方面的背景。  他们不明白什么？你希望他们为什么这样做？你觉得什么令人恼火？     提交人    /u/AdaKingLovelace   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i46t47/what_is_something_investors_and_people_in/</guid>
       <pubDate>Sat, 18 Jan 2025 12:45:58 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
