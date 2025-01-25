@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 Jan 2025 01:00:18 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 25 Jan 2025 12:23:38 GMT</lastBuildDate>
     <item>
-      <title>管理开发、准备和生产环境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9b28m/managing_dev_staging_and_prod_envs/</link>
-      <description><![CDATA[通过测试管理三个环境，将日志文件发送到 Kibana、OAuth、docker 容器。 顺便说一下，使用 nextjs。 复杂性永无止境。 有人可以给我一些建议吗？我希望它是可维护的，并且在生产过程中不会心脏病发作。 容器、GitHub 工作流程。 太多了。安全性。管理所有 SSL 证书。对于通过 https 将这些日志文件发送到 Kibana 的三个阶段。 现在它是一个完整的系统。但我希望它是一个可靠的系统    提交人    /u/MotherNetwork4168   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9b28m/managing_dev_staging_and_prod_envs/</guid>
-      <pubDate>Sat, 25 Jan 2025 00:55:01 GMT</pubDate>
+      <title>我制作了一个 Tailwind UI 快速简便的自定义工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9le5m/i_made_a_tailwind_ui_quick_and_easy_customization/</link>
+      <description><![CDATA[        提交人    /u/Speedware01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9le5m/i_made_a_tailwind_ui_quick_and_easy_customization/</guid>
+      <pubDate>Sat, 25 Jan 2025 11:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个简单的在线记事本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9b1wo/i_made_a_simple_online_notepad/</link>
-      <description><![CDATA[大家好， 如果您正在寻找一款简单的在线记事本，那么这款应用可能正是您所需要的。它提供多种字体和大小选项，并将您的偏好直接保存在 URL 中。我希望您能查看并分享任何反馈！以下是链接：https://mystaticsite.com/notepad    提交人    /u/Alexander_Chneerov   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9b1wo/i_made_a_simple_online_notepad/</guid>
-      <pubDate>Sat, 25 Jan 2025 00:54:32 GMT</pubDate>
+      <title>为什么这么多的 cookie 同意横幅都有这种令人烦恼的缓慢淡入动画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9kkdy/why_do_so_many_cookie_consent_banners_have_this/</link>
+      <description><![CDATA[TL;DR：为什么这么多 Cookie 同意横幅使用非常缓慢的淡入动画？这可能与提高 Google PageSpeed 分数有关吗？此类动画的示例：https://www.bmwk.de 我住在欧盟，因此每天都会遇到很多 Cookie 同意横幅。虽然法律要求必须这样做，但大多数用户（包括我自己）都觉得它们非常烦人。说实话，您只想尽快点击它们 — 要么接受要么拒绝 Cookie。 作为一名 Web 开发人员，我认为我们的工作是让 Cookie 同意横幅尽可能不烦人。但问题是：最近，我注意到许多 Cookie 横幅都使用淡入淡出动画，这不仅会吸引注意力（动画本来就应该如此），而且动画通常非常慢，这只会使横幅更加令人讨厌。 我明白为什么要使用动画 - 它们的设计目的是让用户注意到横幅。但为什么这么多的动画这么慢？我还听说 Cookie 横幅会对 Google PageSpeed 分数产生负面影响，所以现在我想知道：这种缓慢的淡入淡出动画是否是提高 PageSpeed 分数的一种策略？ 以下是此类动画的一个示例：BMWK Cookie 横幅。这甚至不是我见过的最糟糕的——我遇到过动画速度更慢、布局更笨重的横幅，尤其是在移动设备上。 所以，我很好奇：你认为为什么这么多 cookie 同意横幅都有这些缓慢的动画？这真的与优化 Google PageSpeed 分数有关吗，还是有其他原因？    提交人    /u/Any_Independent375   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9kkdy/why_do_so_many_cookie_consent_banners_have_this/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:55:47 GMT</pubDate>
     </item>
     <item>
-      <title>交叉口观察员：导航菜单：删除项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9ar6r/intersection_observer_nav_menu_removing_items/</link>
-      <description><![CDATA[我在 React 中执行此操作，但无论如何，概念在 vanilla JS 中应该是相同的。 我有 ul 和 li 个项目 ul 被设置为根 正在观察 li 项目。它们是条目。 删除项目： 当屏幕宽度缩小时，导致最后一个 li 元素与 ul 的边缘相撞（即 isIntersecting 为 false），我将该项目 .pop() 放入弹出框中。 添加项目回来： 但问题是将项目添加回来……因此，由于我弹出了观察到的项目，因此当屏幕宽度增加时，我无法再检查它是否是 isIntersecting 以将项目添加回来。 那么，即使我将它们推入弹出框，我是否真的必须始终将项目保留在那里？只需将 CSS 可见性更改为无？但我不知道对于屏幕阅读器来说，这是否会注册为重复的导航项目。我相信 CSS 隐藏是不可观察的。    提交人    /u/Engineergoman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9ar6r/intersection_observer_nav_menu_removing_items/</guid>
-      <pubDate>Sat, 25 Jan 2025 00:40:12 GMT</pubDate>
+      <title>我为真实犯罪爱好者创建了一个纪录片网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9kfdf/i_made_a_documentary_site_for_true_crime_lovers/</link>
+      <description><![CDATA[      https://preview.redd.it/6my0m6q5d4fe1.jpg?width=5088&amp;format=pjpg&amp;auto=webp&amp;s=0b1a6ad80b3de955a91757bd2ad4df79a1af91e3 所以，我最近深陷在真实犯罪的兔子洞里（你知道一个视频变成二十个视频是怎么回事），我想， 为什么不把它变成有用的东西呢？ 我最终为所有真实犯罪爱好者建立了一个网站。一个拥有数千个视频的免费纪录片网站。无需注册，没有广告，没有附加条件，只是为我们这些对这些东西百看不厌的人提供一堆内容。 我为什么要做这件事？ 我陷入了观看真实犯罪的兔子洞，并想，为什么不把它变成有成效的东西呢？所以，我建立了这个副项目，一个真实犯罪视频目录 你会得到什么？  超级干净，实用的界面。 没有账户，没有信用卡，什么都没有。只需点击即可观看。 定期添加新鲜的纪录片（这样您就不会没有东西可以狂欢）。  我喜欢您查看并告诉我您的想法！非常欢迎反馈，我很乐意回答有关我如何构建它或我用来实现它的工具的任何问题。 这是链接：https://truecrimes.club 感谢您的阅读，我希望它能让您的下一次真实犯罪狂欢更加精彩。    提交人    /u/Haraprasad45   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9kfdf/i_made_a_documentary_site_for_true_crime_lovers/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:45:38 GMT</pubDate>
     </item>
     <item>
-      <title>让网站吸引受众/进入 Google 首页真的很难吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9aexj/is_it_really_difficult_to_get_an_audience_for_a/</link>
-      <description><![CDATA[我想了解你的经历。     提交人    /u/D_Lua   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9aexj/is_it_really_difficult_to_get_an_audience_for_a/</guid>
-      <pubDate>Sat, 25 Jan 2025 00:23:53 GMT</pubDate>
+      <title>每日电影猜谜游戏 > www.ludopoco.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9kf19/daily_movie_guessing_quiz_game_wwwludopococom/</link>
+      <description><![CDATA[我制作了一个每日电影猜谜游戏。这是我第一次发布网站。 终极电影猜谜游戏    由   提交  /u/DookieChumo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9kf19/daily_movie_guessing_quiz_game_wwwludopococom/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>我能否仅通过 Google 搜索就了解我网站上哪些页面的流量最多，而无需进行分析？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9a0c0/can_i_see_which_of_my_websites_pages_get_the_most/</link>
-      <description><![CDATA[Google 已抓取我的网站并列出其不同版本。 我没有设置分析功能。但我猜排名靠前的页面获得的流量最多？有没有办法查看更多详细信息，例如排名第二的页面获得的流量是多少？    提交人    /u/OttawaHonker5000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9a0c0/can_i_see_which_of_my_websites_pages_get_the_most/</guid>
-      <pubDate>Sat, 25 Jan 2025 00:04:34 GMT</pubDate>
+      <title>我创建了一个网站来帮助我学习演讲，其中有巧妙的差异来显示错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9k4jw/i_made_a_website_to_help_me_learn_speeches_with/</link>
+      <description><![CDATA[        由    /u/8ballcubeeasy  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9k4jw/i_made_a_website_to_help_me_learn_speeches_with/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:23:26 GMT</pubDate>
     </item>
     <item>
-      <title>错误出现在服务器上，但未出现在本地设备上（详细信息见评论）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i99uy0/bug_appears_on_server_but_not_on_local_device/</link>
-      <description><![CDATA[我的 Web 开发知识很少，基本上就是复制/粘贴模板，然后摆弄直到得到最终产品。在这种背景下，我正在开发一个供个人使用的基本网站，以展示一些摄影图片。我遇到一个问题，我的网站在本地设备上看起来很完美，我的编码软件（VS Code）没有发现任何错误，但在服务器上，一项功能无法正常工作。这个损坏的功能是一个带有水平滚动和隐藏滚动条的图库容器。在服务器上，背景图像被放大，滚动容器中的图像换行，因此有第二行。  我正在使用 HTML 和 CSS 编码，并在 Mac/Safari 上工作。到目前为止，以前的部署都成功且匹配。似乎与水平滚动容器相关的新 css 代码不起作用。其余的 css 代码仍然有效。我确保在上次部署中保存并推送了 css 文件。很高兴分享代码和/或图像。 编辑：我自己想通了！将代码粘贴到评论中后，我意识到 css 代码第三部分前面缺少一个“div”。    提交人    /u/twozen   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i99uy0/bug_appears_on_server_but_not_on_local_device/</guid>
-      <pubDate>Fri, 24 Jan 2025 23:57:44 GMT</pubDate>
+      <title>搜索 GPS 时间线库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9jx79/searching_for_a_gps_timeline_library/</link>
+      <description><![CDATA[我收集了一些有趣的 GPS（纬度、经度）数据，我想将它们绘制在带有时间轴的地图（openstreetmap）上，您可以按播放、暂停等来查看点在地图上飞舞的情况。 我可以使用哪个（react）库？我找到了 react-leaflet，还有别的吗？    提交人    /u/FlyingChinesePanda   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9jx79/searching_for_a_gps_timeline_library/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找具有更好营销功能的 WordPress 替代品 – 有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i98kru/looking_for_a_wordpress_alternative_with_better/</link>
-      <description><![CDATA[我经营一家服务型企业，客户可以通过我的网站购买订阅。但是，我不再喜欢使用 WordPress。我正在寻找一个不需要不断更新插件的新平台，并提供一套更强大的集成营销工具，例如电子邮件营销、聊天功能和分析。我还希望后端易于使用且易于管理。我愿意为合适的解决方案支付月度订阅费用。 您会推荐哪些平台？    提交人    /u/SarahEdwards818   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i98kru/looking_for_a_wordpress_alternative_with_better/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:58:42 GMT</pubDate>
+      <title>我开始把它当成一个 meme，但现在我们做到了。YouTube ThumbnailMaster 是一款免费的 Chrome 扩展程序，它通过允许自定义缩略图和删除 YouTube Shorts 来消除干扰，为厌倦了杂乱的提要和点击诱饵的用户提供更干净、更专注的浏览体验。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9jltp/i_started_this_as_a_meme_but_here_we_are_youtube/</link>
+      <description><![CDATA[        提交人    /u/isthisneeded29   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9jltp/i_started_this_as_a_meme_but_here_we_are_youtube/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:44:49 GMT</pubDate>
     </item>
     <item>
-      <title>创建了一些画廊组件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9899x/created_some_gallery_components/</link>
-      <description><![CDATA[        提交人    /u/Majestic_Affect_1152   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9899x/created_some_gallery_components/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:44:17 GMT</pubDate>
+      <title>域名配置最佳实践：www 与非 www 作为主域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9jb4v/domain_configuration_best_practice_www_vs_nonwww/</link>
+      <description><![CDATA[我正在建立一个新网站，需要在以下两者之间做出决定：  使用 www.domain.com 作为主要网站，并将 domain.com 重定向到该网站 使用 domain.com 作为主要网站，并将 www.domain.com 重定向到该网站  寻找当前的技术优缺点和 SEO 影响。我应该注意哪些性能注意事项或行业标准？    提交人    /u/Trainee_Ninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9jb4v/domain_configuration_best_practice_www_vs_nonwww/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:21:49 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI API 响应时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i97pgs/openai_api_response_time/</link>
-      <description><![CDATA[我正在使用 openai 的 4o-mini 模型发出 api 请求，我的响应大约需要 45 秒。可能是什么问题？这是正常的吗？    提交人    /u/TradrzAdmin   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i97pgs/openai_api_response_time/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:19:52 GMT</pubDate>
+      <title>我做了一个鸵鸟算法包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9j7ms/i_made_an_ostrich_algorithm_package/</link>
+      <description><![CDATA[从严肃的编程工作中休息一下，所以我创建了这个 python 包。 我的项目的作用：  帮助您避免编码中的所有问题！  目标受众：  任何开发人员  比较：  无  开始吧！ 鸵鸟算法是编程中的一个术语，开发人员故意忽略代码中的某些问题（就像鸵鸟“把头埋在沙子里”一样）。虽然这听起来像个笑话，但在以下情况下，这实际上是一种合法的策略：  问题极不可能发生（或者至少我们希望如此） 修复它比忽略它花费更多 您正在处理可以运行的遗留代码（永远不要碰它！） 您的截止日期是昨天  所以...我创建了一个可以做到这一点的包！只不过我的包更像是一个笑话。要使用它， from ostrich import ostrich, Priority @ostrich(Priority.HIGH, &quot;PERF-123&quot;, lines={ 8: &quot;This query makes the DB cry&quot;,}) def calculate_user_metrics(): query = &quot;SELECT * FROM users WHERE...&quot; for metric in all_metrics: results.append(calculate_metric(user, metric)) return results # 输出将如下所示： # [OSTRICH HIGH][PERF-123] 从第 3 行开始观察 # 此函数中的标记行： # 第 15 行 -&gt; 此查询使 DB 哭泣 # query = &quot;SELECT * FROM users WHERE...&quot;  它将从具有 ostrich 装饰器的任何行开始观察。并且它将突出显示该部分，以便您可以忽略它（或优先处理它）。 欢迎任何评论/仇恨/反馈/批评。 注意：这是一个玩笑。但是，所有用于改进或协作的有用功能都绝对受欢迎。  链接到 github：https://github.com/duriantaco/ostrich    由    /u/papersashimi 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9j7ms/i_made_an_ostrich_algorithm_package/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>上周机器人流量激增且仍在继续</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i97bh1/massive_bot_traffic_spike_last_week_and_still/</link>
-      <description><![CDATA[大家好， 上周，我注意到我的网站出现了巨大的延迟。它们托管在一个非常强大的专用服务器上，所以我知道这不是托管问题。在查看日志后，我发现机器人和爬虫活动出现了疯狂的激增，大约是平时的 400 到 1000 倍。 我一直使用免费的 Cloudflare 计划，但这次我不得不启动反机器人模式来严格调整 WAF 设置。我按照我在 Cloudflare 子版块中找到的指南进行操作，效果显著。 最近这里还有其他人遇到过类似的情况吗？您如何处理机器人攻击您的网站？ 目前，CF 每天每个域名可缓解大约 70 万个请求。    提交人    /u/CoffeeMan392   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i97bh1/massive_bot_traffic_spike_last_week_and_still/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:03:08 GMT</pubDate>
+      <title>如何修复 GitHub 页面上不可用的 HTTPS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9j01l/how_to_fix_unavailable_https_on_github_page/</link>
+      <description><![CDATA[大家好，我希望你们今天都过得很愉快！ 我刚刚创建了一个 GitHub 页面存储库并配置了所有必要的设置，但由于某种原因，“强制 HTTPS”选项似乎不可用。 我非常感谢有关此事的任何建议，提前谢谢大家！    提交人    /u/Just_A_Question_1985   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9j01l/how_to_fix_unavailable_https_on_github_page/</guid>
+      <pubDate>Sat, 25 Jan 2025 08:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Gemini 与 Laravel</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i96s6u/using_gemini_with_laravel/</link>
-      <description><![CDATA[大家好， 我正在尝试使用 Gemini API（github 包：google-gemini-php/laravel）检索我为其指定品牌名称和型号的任何特定产品的产品属性，然后它将检索我指定的属性并以 JSON 格式返回它们。但是，使用 Gemini Pro 似乎无法以正确的格式返回，我想尝试其他 Gemini 模型，但我不知道如何设置我想要为此使用的模型。我正在使用它来为我使用 Filament 构建的管理面板填写表格。任何帮助都值得赞赏。    提交人    /u/JimmyGunz82   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i96s6u/using_gemini_with_laravel/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:40:06 GMT</pubDate>
+      <title>我为聚会制作了一个开源的共享音乐队列。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9iygo/i_made_an_open_source_shared_music_queue_for/</link>
+      <description><![CDATA[        提交人    /u/matthiastorm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9iygo/i_made_an_open_source_shared_music_queue_for/</guid>
+      <pubDate>Sat, 25 Jan 2025 08:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>什么是“connect” Node 框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i96nrj/what_is_connect_node_framework/</link>
-      <description><![CDATA[Connect 是一个 Node 框架，尽管从未在任何讨论中被提及，但每周平均下载量达 700 万次。也许是因为名字不太好，所以很难找到，也许是其他原因。 https://github.com/senchalabs/connect 据我所知，它曾经是 Express.js 3.x 的依赖项，但在 4.x 之后不再是了。但是，该框架仍在积极维护，并且数量仍在增长，这意味着仍有人在使用它。 有人知道它在哪里使用吗，或者有人使用这个框架吗，以及它与其他框架（如 Express、Koa 或 Fastify）相比如何？    提交人    /u/IcyFoxe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i96nrj/what_is_connect_node_framework/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:34:42 GMT</pubDate>
+      <title>帮我命名我的网站域名！请给出严肃而有趣的答案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9iwsq/help_me_name_my_website_domain_serious_and_funny/</link>
+      <description><![CDATA[我想创建一个围绕金属音乐社区的网站已经有一段时间了。让我们挖掘金属的创意脉络，在这里玩得开心！给我一些名字的想法吧！认真的还是不认真的！我的两个想法是“throughmycoldeyes.com”或“coldfuturemusic.com”。你想看看哪一个？它们是有趣的网站名称吗？垃圾？有没有更好的名字？有没有更有趣的名字？ 编辑：这么多人发布人工智能回复。现在 reddit 上有这种东西吗？我只想要人类的回应。或者可能是最好的人工智能答案。请不要只是复制并粘贴整个回复 关于这个概念：我想从头开始建立一个以金属文化为中心的网站。它将有一个像 2000 年代初期一样的论坛，一个分享和评价金属艺术和摄影的部分。我将有一个专辑评论部分来介绍即将推出的乐队和现代发行的作品。这将是我花几个月时间进行的一个项目，之后我会将其上线。 让我们看看我们能想出什么有创意或有趣的金属网站名称！    提交人    /u/gbabyblue23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9iwsq/help_me_name_my_website_domain_serious_and_funny/</guid>
+      <pubDate>Sat, 25 Jan 2025 08:51:33 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个网站来销售我女朋友的手工制品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i964qc/i_made_a_website_for_selling_my_girlfriends/</link>
-      <description><![CDATA[      https://preview.redd.it/voyh1f84c0fe1.png?width=1350&amp;format=png&amp;auto=webp&amp;s=75489deb4a916acfe0cb939ff5576a5c2f825112    提交人    /u/1017_frank   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i964qc/i_made_a_website_for_selling_my_girlfriends/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:11:41 GMT</pubDate>
+      <title>Wordpress 与从头开始</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9iit4/wordpress_vs_from_scratch/</link>
+      <description><![CDATA[我完全没有编码经验，但我想开始写博客，我想创建多个以足球、犯罪故事、动物/生物为主题的网站，我想让主题随着用户滚动而变化，从而让主题变得疯狂。  从头开始创建博客可以实现什么，而 Wordpress 无法实现？如果我从头开始创建，用户界面是否有更多可能性？顺便说一句，我不想​​为 Wordpress 的插件和主题花钱。谢谢阅读     提交人    /u/Spirited-Emphasis779   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9iit4/wordpress_vs_from_scratch/</guid>
+      <pubDate>Sat, 25 Jan 2025 08:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>即使不编写任何代码，AI 也是你学习和副项目工具箱中非常可靠的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i960a5/ai_is_a_very_solid_tool_in_your_toolbox_for/</link>
-      <description><![CDATA[不，不是又一篇炒作文章。AI 写代码很烂，所以这不是我的意思。 我曾经使用库/语言处理一些小众的东西，这些库/语言几乎没有文档，或者如果不投入大量时间就无法理解，现在有了 AI 工具，这些事情都变得顺畅多了。一个具体的例子： Telefony 架构（阅读：Twilio、Telnyx）很难理解，我迷失在所有的首字母缩略词中。但有了 AI，我基本上可以把它当成橡皮鸭，问“那么，SIP 和 PTSN 是同一件事吗？”它可以通过定制响应来纠正我。这是来回的片段，以便您了解我的意思：  我：“因此，SIP 有点像 a) DNS（用于识别）b) cookie 身份验证 c) websocket 的组合，但它不是用于浏览器，而是用于手机。我知道这个比喻并不完全准确，但这个想法是这样吗？” Claude：“你的比喻非常好！让我稍微改进一下：&lt;truncated&gt;&quot; 我：“因此，手机会自动处理这个 SIP 握手或任何后台调用的内容，而在浏览器中，我们必须自己处理 SIP 逻辑？” Claude：“不完全是。普通电话不处理 SIP - 它们使用传统电话协议（PSTN）。 &lt;truncated&gt;&quot;  这里的好处不一定是 AI 给出了正确的答案（我仍然需要核实事实）。但我发现，通过对话进行个性化学习对我来说意义重大。我可以通过类比进行探索并获得量身定制的反馈，这一直是我喜欢的学习方式。它有助于开发更全面的心理模型，即使一些细节不对。比如，在那次谈话开始时，我甚至不知道 PTSN 是什么。如果你谷歌搜索“什么是会话发起协议 (sip)”许多由此产生的文章都没有提到它。 它帮助我的其他事情（也许其中一些会给你头脑风暴的燃料）：  了解 WebMidi 及其所有边缘情况，用于我正在开发的钢琴网络应用程序 深入研究 shell 脚本、终端和 Docker，以使用我仍在学习的语言（Go）构建我自己的自定义容器 构建我自己的 VSCode 扩展用于小众用途，而不是无休止地搜索扩展（动态创建我自己的自定义命令、调整 UI 以查找让我恼火的部分等） 微型 AI 代理用于快速对 Github repo 的问题执行 RAG 搜索，这样我就可以更轻松地进行调试，而无需使用我的错误消息尝试 10 次不同的谷歌搜索迭代  很多开发人员对人工智能变得懒惰，但我认为优秀的开发人员会变得更好。如果你全职工作，尝试学习更多或编写更多代码所带来的认知疲劳一直很难处理，但人工智能让我感觉我现在的限制因素是我的动力，而不是时间或大脑。  即使你是最大的怀疑论者并且讨厌围绕它的企业炒作，也要尝试一下。     提交人    /u/femio   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i960a5/ai_is_a_very_solid_tool_in_your_toolbox_for/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:06:20 GMT</pubDate>
+      <title>受 u/amitmerchant 的启发，我创建了一个 Chrome 扩展程序，可让您查看本地、会话和 Cookie 存储的大小。将根据社区反馈添加更多功能。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9ifwe/inspired_by_uamitmerchant_i_created_a_chrome/</link>
+      <description><![CDATA[        提交人    /u/wojo1086   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9ifwe/inspired_by_uamitmerchant_i_created_a_chrome/</guid>
+      <pubDate>Sat, 25 Jan 2025 08:15:51 GMT</pubDate>
     </item>
     <item>
-      <title>你们不觉得缺少了用于表单验证错误的 HTML 元素吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i92y22/dont_you_guys_think_that_a_html_element_for_form/</link>
-      <description><![CDATA[我们有一些方法可以不使用任何 JS 库来处理验证，只需使用 HTML 的验证表单属性和 API，但是为什么没有一种方法来指出一个接收名称（与输入的名称相同）和值（错误类型就像来自复选框的值一样）的 HTML 元素，并使用一些类似于输入的 type 属性的内置类型？当我在 js 中进行验证或使用内置类型时，我可以通过显示该元素来使表单无效。 这是一个例子： &lt;form&gt; &lt;input id=&quot;email&quot; name=&quot;email&quot;&gt; &lt;validation name=&quot;email&quot; type=&quot;required&gt;名称是必需的&lt;/validation&gt; &lt;!-- 仅在无效时显示 --&gt; &lt;validation name=&quot;email&quot; type=&quot;custom&quot; value=&quot;email-exists&quot;&gt;电子邮件已存在&lt;/validation&gt; &lt;/form&gt; &lt;script&gt; function debounce(func, timeout = 500) { // debounce 函数 imp } const debouncedEmailCheck = debounce((email, onValidate) =&gt; { // 执行请求以检查电子邮件可用性 }); email.addEventListener(&quot;input&quot;, (event) =&gt; { const email = document.getElementById(&quot;email&quot;); const emailExistsValidation = document.querySelector(&quot;validation[value=&#39;email-exists&#39;]&quot;); debouncedEmailCheck(event.taget.value, (isValid) =&gt; { // 验证 DOM 元素将具有无效属性，因此我们可以使用 JS 使其无效或有效 emailExistsValidation.invalid = isValid }) }); &lt;/script&gt;     提交人    /u/Renan_Cleyson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i92y22/dont_you_guys_think_that_a_html_element_for_form/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:55:42 GMT</pubDate>
+      <title>我制定了一个时间来帮助您了解您有多少空闲时间并提供有关如何利用这些时间的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9f8a1/i_made_a_time_that_helps_you_realise_how_much/</link>
+      <description><![CDATA[  由    /u/AvikalpGupta  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9f8a1/i_made_a_time_that_helps_you_realise_how_much/</guid>
+      <pubDate>Sat, 25 Jan 2025 04:39:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
