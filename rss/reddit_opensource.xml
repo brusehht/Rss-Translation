@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Jan 2025 12:23:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 15:13:36 GMT</lastBuildDate>
+    <item>
+      <title>Nutrium 的替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</link>
+      <description><![CDATA[因此，我正在寻找 Nutrium 的开源和/或自托管替代方案。 对于那些不知道的人来说，Nutrium 基本上是一个面向营养师、诊所和客户的一体化平台，营养师可以在其中为客户即时创建饮食计划，并计算不同的常量营养素、卡路里和所有这些东西。 我实际上不需要整个客户端界面/诊所管理部分，主要是饮食计划的创建和保存。 有什么建议吗？谢谢    提交人    /u/Beanerrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</guid>
+      <pubDate>Sun, 26 Jan 2025 14:46:38 GMT</pubDate>
+    </item>
     <item>
       <title>Open TV 1.4.1：EPG、通知、下载、关键字搜索、重新播放等</title>
       <link>https://www.reddit.com/r/opensource/comments/1ia9hwz/open_tv_141_epg_notifications_downloads_keyword/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/jezek_2  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i9mbit/fixbrowser_02_github_svg_audiovideo_imgur/</guid>
       <pubDate>Sat, 25 Jan 2025 12:53:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为聚会制作了一个开源的共享音乐队列。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i9kaor/i_made_an_open_source_shared_music_queue_for/</link>
-      <description><![CDATA[我厌倦了聚会上那个喝醉的朋友一次放 400 首糟糕的歌曲， 所以我建立并开源了 SongUp，一个基于网络的共享音乐队列，每个人一次最多只能添加 2 首歌曲。 它今天推出，你可以查看 GitHub repo！    提交人    /u/matthiastorm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i9kaor/i_made_an_open_source_shared_music_queue_for/</guid>
-      <pubDate>Sat, 25 Jan 2025 10:36:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
