@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Jan 2025 15:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 18:18:04 GMT</lastBuildDate>
+    <item>
+      <title>为什么有些开源项目感觉很慢？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</link>
+      <description><![CDATA[我克隆了 Cal .com repo 并尝试在我的计算机上设置该项目。我必须安装 Postgres，在 Prisma studio 中创建一些记录，然后登录。该应用程序非常慢。仅在页面之间导航就花了几分钟。顺便说一下，我是在 Mac 上运行它的。我决定从 gitpod 运行该应用程序，但它稍微快一点。总的来说，这是一次令人沮丧的体验。是因为我的 8gb 内存还是其他原因？我的意思是我如何解决这个问题。repo 的链接：https://github.com/calcom/cal.com    提交人    /u/DixGee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</guid>
+      <pubDate>Sun, 26 Jan 2025 16:08:51 GMT</pubDate>
+    </item>
     <item>
       <title>Nutrium 的替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我想分享一个我创建的开发人员友好的简历创作工具。我最初是为了自己使用而构建的，但我认为其他人可能会觉得它有用。 主要特点：  用 Markdown 编写简历 自动获得响应式网站和 PDF 使用 git 进行版本控制 通过 GitHub/GitLab Pages 自动部署 通过 CI 管道生成 PDF 可在任何地方部署（Netlify、Vercel 等） 使用 Vite、Puppeteer、Vanilla JS、SCSS 构建 MIT 许可  当您git push时，网站会自动更新，并通过 CI 生成全新的 PDF。如果您只想要 PDF，可以禁用 Pages 部署。 技术堆栈：  前端：Vanilla JavaScript、SCSS 构建：Vite PDF 生成：Puppeteer 图标：Phosphor Icons Markdown 处理：Marked  要求：  Node.js v20+  链接：  GitHub：https://github.com/engineervix/cv  请随意分叉并根据自己的喜好进行自定义。我欢迎反馈和贡献！   由    /u/zed-developer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i9q7hm/open_source_cv_tool_write_in_markdown_get_website/</guid>
       <pubDate>Sat, 25 Jan 2025 16:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>FixBrowser 0.2 - GitHub、SVG、音频/视频、Imgur、未读评论跟踪</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i9mbit/fixbrowser_02_github_svg_audiovideo_imgur/</link>
-      <description><![CDATA[  由    /u/jezek_2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i9mbit/fixbrowser_02_github_svg_audiovideo_imgur/</guid>
-      <pubDate>Sat, 25 Jan 2025 12:53:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
