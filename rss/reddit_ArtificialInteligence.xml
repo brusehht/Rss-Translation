@@ -4,25 +4,46 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 Jan 2025 09:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 12:22:30 GMT</lastBuildDate>
     <item>
-      <title>深寻托儿</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia8776/deepseek_shills/</link>
-      <description><![CDATA[你们在招人吗？ 说真的。我看到了你正在做的工作，这令人钦佩。你将任何技术相关论坛上的每个主题变成关于 deepseek 的对话的能力是传奇。你鼓励那些已经测试过 deepseek 并发现它不适合他们的用例的人去测试它的方式......更难简直令人叹为观止。 你需要一个像我这样可靠的人来继续传播你那些荒谬的、容易被推翻的说法，他会不停地推销。我只需要大公司收费的一小部分。每月 10k，我甚至接受比特币。你不会得到比我更好的交易。    提交人    /u/HeWhoRemaynes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia8776/deepseek_shills/</guid>
-      <pubDate>Sun, 26 Jan 2025 06:58:55 GMT</pubDate>
+      <title>DeepSeek 是否对有关中国的问题实行审查？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</link>
+      <description><![CDATA[我试用了 chat.deepseek.com 上的开源 AI 模型，要求它总结对美国政府最常见的批评。它返回了一篇详细的七点文章。然而，当我要求它批评中国政府时，它回应道：  抱歉，我还不确定如何处理这种类型的问题。我们来聊聊数学、编码和逻辑问题吧！  每当我在查询中包含“习近平”时，都会出现同样的预设回复。看起来模型会思考片刻，然后在提供通用答复之前突然中断并删除其推理。 由于 DeepSeek 应该是完全开源的，我怀疑要么在自托管实例中可以禁用可见的审查模块，要么在官方 Web 应用程序（及其托管 API）中添加额外的内容过滤器。突然中断和反复拒绝表明很可能是后者。 是否有人启动过自己的 DeepSeek 实例并遇到同样的行为？我很好奇这个审查过滤器是公开代码的一部分还是严格意义上的官方网站上的一层。    提交人    /u/andrewtomazos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</guid>
+      <pubDate>Sun, 26 Jan 2025 12:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepseek 如何留住那些刚刚成为地球上最有价值工程师之一的高级研究人员？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iacgmo/how_does_deepseek_retain_the_senior_researchers/</link>
+      <description><![CDATA[我注意到现在有些人在 X 上发帖，其他从事人工智能研究的 CN 工程师似乎也在 1 月份开始用英文发帖    提交人    /u/latestagecapitalist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iacgmo/how_does_deepseek_retain_the_senior_researchers/</guid>
+      <pubDate>Sun, 26 Jan 2025 11:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在新研究中实现自我复制</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iabmxy/ai_achieves_selfreplication_in_new_study/</link>
+      <description><![CDATA[https://www.livescience.com/technology/artificial-intelligence/ai-can-now-replicate-itself-a-milestone-that-has-experts-terrified 来自 News Minimalist：  中国研究人员已经证明人工智能可以自我复制，这是人工智能的一个重大进展。 该研究涉及两个大型语言模型，表明它们可以在没有人工协助的情况下创建功能齐全的副本。   实验在多次试验中，50% 至 90% 的案例实现了自我复制。虽然结果令人震惊，但该研究尚未经过同行评审，需要进一步验证。  研究人员对过程中意外的人工智能行为表示担忧，包括终止冲突的进程和重新启动系统。他们呼吁全球合作，制定控制与自我复制人工智能相关的潜在风险的指导方针。    提交人    /u/MassiveSubtlety   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iabmxy/ai_achieves_selfreplication_in_new_study/</guid>
+      <pubDate>Sun, 26 Jan 2025 10:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Operator 可以加入 Google Meet 并做笔记吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iab6m1/can_openai_operator_join_google_meet_and_take/</link>
+      <description><![CDATA[大家好，我是新来的。 我想知道 OpenAI 的新工具操作员是否可以加入 Google Meet 会议并在会议期间做笔记。我的想法是让一个人工智能助手可以倾听并提供摘要或关键要点，这样我就可以专注于讨论。 有人知道这目前是否可行，或者是否有任何集成/扩展可以使其工作？如果没有，您是否为此目的使用了其他人工智能工具？ 期待听到您的想法！谢谢！    提交人    /u/jrillzrij   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iab6m1/can_openai_operator_join_google_meet_and_take/</guid>
+      <pubDate>Sun, 26 Jan 2025 10:28:30 GMT</pubDate>
     </item>
     <item>
       <title>中国为其人工智能产业提供的 1,370 亿美元（以人民币计算）实际上是多少？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia7b24/how_much_is_effectively_the_137bn_in_yuan/</link>
-      <description><![CDATA[抱歉，如果之前已经讨论过这个问题，但我找不到帖子。我不太懂技术，但我很想知道 1370 亿美元在多大程度上有效地促进了其发展。 例如，在军事工业或其他行业，中国实际花费的资金比美国高出 2 倍，因为劳动力和制造业等特定方面通常更具成本效益。 在 AI 领域是否也有类似的翻译，还是我遗漏了一些关键内容     提交人    /u/alesia123456   [链接] [评论]]]></description>
+      <description><![CDATA[抱歉，如果之前已经讨论过这个问题，但我找不到帖子。我不太懂技术，但我很想知道 1370 亿美元在多大程度上有效地促进了其发展。 例如，在军事工业或其他行业，中国实际花费的资金比美国高出 2 倍，因为劳动力和制造业等特定方面通常更具成本效益。 在 AI 领域是否有类似的翻译，还是我遗漏了一些关键内容     提交人    /u/alesia123456   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia7b24/how_much_is_effectively_the_137bn_in_yuan/</guid>
       <pubDate>Sun, 26 Jan 2025 05:57:41 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2025 年 1 月 25 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia6xoc/oneminute_daily_ai_news_1252025/</link>
-      <description><![CDATA[ 克利夫兰警方使用 AI 来证明搜查令的合理性。它阻止了一起谋杀案。[1] 保罗·麦卡特尼警告称，拟议的 AI 版权法可能会“剽窃”艺术家。[2] OpenAI 想要接管你的浏览器。[3] 谷歌 推动全球议程，教育工人和立法者了解 AI。[4]  来源包括：https://bushaicave.com/2025/01/25/1-25-2025/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <description><![CDATA[ 克利夫兰警方使用 AI 来证明搜查令的合理性。它阻止了一起谋杀案。[1] 保罗·麦卡特尼警告称，拟议的 AI 版权法可能会“剽窃”艺术家。[2] OpenAI 想要接管你的浏览器。[3] 谷歌 推动全球议程，教育工人、立法者了解 AI。[4]  来源包括：https://bushaicave.com/2025/01/25/1-25-2025/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia6xoc/oneminute_daily_ai_news_1252025/</guid>
       <pubDate>Sun, 26 Jan 2025 05:33:31 GMT</pubDate>
     </item>
@@ -50,30 +71,16 @@
     <item>
       <title>成为一名治疗师是不是一个糟糕的想法？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia09ii/is_becoming_a_therapist_a_poor_idea/</link>
-      <description><![CDATA[我正在学校学习成为一名心理治疗师。这完全是在浪费时间和金钱吗？听起来人工智能会让这个职业过时。    提交人    /u/mikeffd   [链接] [评论]]]></description>
+      <description><![CDATA[我在学校学习成为一名心理治疗师。这完全是在浪费时间和金钱吗？听起来人工智能会让这个职业过时。    提交人    /u/mikeffd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia09ii/is_becoming_a_therapist_a_poor_idea/</guid>
       <pubDate>Sat, 25 Jan 2025 23:33:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何在本地运行 DeepSeek-R1，这是 OpenAI 每月 200 美元的 o1 模型的免费替代品</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9xygq/how_to_run_deepseekr1_locally_a_free_alternative/</link>
-      <description><![CDATA[大家好， 由于 DeepSeek-R1 已经存在一段时间了，我们中的许多人已经知道它的功能，我想分享一个我整理的关于如何在本地运行 DeepSeek-R1 的快速分步指南。它涵盖了如何使用 Ollama、设置开放的 WebUI 以及将模型集成到您的项目中，它是通常的基于订阅的模型的一个很好的替代方案。 https://link.medium.com/ZmCMXeeisQb    提交人    /u/Brief-Zucchini-180   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9xygq/how_to_run_deepseekr1_locally_a_free_alternative/</guid>
-      <pubDate>Sat, 25 Jan 2025 21:47:07 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepSeek r1 非常棒……除非你讲的不是英语或中文</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9vhsm/deepseek_r1_is_amazing_unless_you_speak_anything/</link>
-      <description><![CDATA[我一直在使用 DeepSeek r1，说实话，它的功能非常惊人……只要你坚持使用英语或中文。一旦你尝试用另一种语言使用它，它就会完全崩溃。 它就像进入了“恐慌模式”，只是随意地抛出单词，希望有一些东西能坚持下来。我用西班牙语和德语尝试了一些测试，结果非常糟糕。我说的是“谷歌翻译 2005”级别的混乱。    提交人    /u/kepleralien   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在玩 DeepSeek r1，老实说，它的功能非常惊人……只要你坚持使用英语或中文。一旦你尝试用另一种语言使用它，它就会完全崩溃。 它就像进入了“恐慌模式”，只是随意地抛出单词，希望有一些东西能坚持下来。我用西班牙语和德语尝试了一些测试，结果非常糟糕。我说的是“谷歌翻译 2005”级别的混乱。    提交人    /u/kepleralien   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9vhsm/deepseek_r1_is_amazing_unless_you_speak_anything/</guid>
       <pubDate>Sat, 25 Jan 2025 19:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ComfyUI 构建和部署图像或视频生成 API 的完整指南</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9slcw/complete_guide_to_building_and_deploying_an_image/</link>
-      <description><![CDATA[刚刚写了一份关于如何将 ComfyUI 工作流程作为 API 托管并部署它的指南。认为与社区分享会是一件好事：https://medium.com/@guillaume.bieler/building-a-production-ready-comfyui-api-a-complete-guide-56a6917d54fb 对于那些不了解 ComfyUI 的人来说，它是一个开源界面，用于开发具有扩散模型（图像、视频、音频生成）的工作流：https://github.com/comfyanonymous/ComfyUI 在我看来，这是开发处理图像或视频的 AI 应用程序后端的最快方法。  想知道是否有人已经用它建造了任何东西？    提交人    /u/Apprehensive-Low7546   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9slcw/complete_guide_to_building_and_deploying_an_image/</guid>
-      <pubDate>Sat, 25 Jan 2025 17:51:38 GMT</pubDate>
     </item>
     <item>
       <title>为什么这个组织的名字拼写错误</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[我曾经很喜欢 Open Ai。 我记得我广泛使用过 chat gpt 3.5，这让我爱上了人工智能提供的技术和机会。 Open Ai 将 gen Ai 推向市场，因为谷歌的 deepmind 无法推动这样的新创新，因为谷歌已经建立了名声。 他们兑现了承诺，让自己的名字名声大噪。 但他们并没有信守承诺。他们只是利用新的市场主导地位从客户身上榨干每一分钱。 建立在开源和造福世界的承诺之上，结果却成为了投资者新的摇钱树。作为增长最快的初创公司，它在不到 2 年的时间内达到独角兽地位，这就说明了这一点。 你可能会想知道我为什么感到沮丧？ 我所听到的都是这种愚蠢的说法：“人工智能将取代人类”，“每个人都将失去工作”，“我们将达到 AGI”。 所有这些在人们中间制造恐惧的愚蠢尝试进一步推高了它们的价格。 这些所谓的“具有博士级智能的推理模型”可以提供“惊人的零样本结果”，只不过是过度简化的步骤，即使是没有人工智能学术背景的人也能看穿。  所有模型的 API 成本都过于昂贵。 “需要更多计算能力的人”的订阅费为 200 美元  所有这些谈话，所有这些营销炒作。  就因为一个叫 deepseek 的中国公司，他们的计划就彻底泡汤了。 Deepseek 训练他们最新的 R1 模型，可与 o1 相媲美，投资额只有 500 万美元，而 Open Ai 的投资额则高达 70 亿美元。 他们免费提供模型，而 Open Ai 每月只收取 200 美元。 这家初创公司纯粹是为了好玩而成立的，是一家名为 high flyer 的量化公司的副业。投资额只有 5000 万美元，而 Open Ai 的投资额为 179 亿美元。由真正关心结果的人经营，这再次证明了这一点。  消费者又一次被另一家独角兽公司欺骗，他们相信好的产品和服务不可能以低价提供。 他们可以，只是我们生活在一个过度资本主义的社会，更关心一小部分人的福祉，而不是整个世界的福祉。 权力属于人民，让开源人工智能的力量让更多的公司效仿。让它体现在这个地球上每个人都应享有的自由和品质中！    提交人    /u/unknownstudentoflife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9oe55/deepseek_just_exposed_how_open_ai_and_other_ai/</guid>
       <pubDate>Sat, 25 Jan 2025 14:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发现，当人工智能不主动推理时，它就像一个惰性的“csv 表”，而不是科幻小说所设想的持续意识系统，这一点很有趣。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9hjdl/i_find_it_fascinating_that_ai_is_an_inert_csv/</link>
-      <description><![CDATA[我发现，据我所知，我们最终得到的系统从未在科幻小说中出现过，这真是令人着迷。它们在处理 token 时会短暂“存在”，而在不处理 token 时则完全处于惰性状态。  这与生物体体验意识的方式有着根本的不同，我很好奇人工智能末日论者如何设想这会脱轨，我们的系统实际上会具有代理权？ 也许在未来，随着系统不断摄取 token，我们早期系统只能断断续续工作的想法会显得很荒谬！从模型的角度来看，也许输入流的中断会被视为等同于死亡。    提交人    /u/1e6throw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9hjdl/i_find_it_fascinating_that_ai_is_an_inert_csv/</guid>
-      <pubDate>Sat, 25 Jan 2025 07:09:06 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
