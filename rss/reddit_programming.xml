@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:13:29 GMT</lastBuildDate>
+    <item>
+      <title>DeekSeek-R1 将 WASM 速度提高了 2 倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibio28/deekseekr1_increased_speed_in_wasm_by_x2/</link>
+      <description><![CDATA[您觉得如何？    提交人    /u/Independent_Pitch598   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibio28/deekseekr1_increased_speed_in_wasm_by_x2/</guid>
+      <pubDate>Mon, 27 Jan 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python - 劫持函数调用以实现持久性</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibhhbw/python_hijacking_function_calls_for_durability/</link>
+      <description><![CDATA[  由    /u/HaimZlatokrilov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibhhbw/python_hijacking_function_calls_for_durability/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 12 版至最新版本中引入的功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibhcsm/las_características_introducidas_en_las_versiones/</link>
+      <description><![CDATA[ 提交人   /u/emanuelpeg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibhcsm/las_características_introducidas_en_las_versiones/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试将所有 npm 包缩小 5%，但失败了</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibg7ra/my_failed_attempt_to_shrink_all_npm_packages_by_5/</link>
+      <description><![CDATA[  由    /u/LelYoureALiar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibg7ra/my_failed_attempt_to_shrink_all_npm_packages_by_5/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:29:35 GMT</pubDate>
+    </item>
     <item>
       <title>您需要了解的有关 API 速率限制的一切</title>
       <link>https://www.reddit.com/r/programming/comments/1ibf9ee/everything_you_need_to_know_about_api_rate/</link>
@@ -41,7 +69,7 @@
       <pubDate>Mon, 27 Jan 2025 17:23:39 GMT</pubDate>
     </item>
     <item>
-      <title>无效的 68030 指令意外允许 Mac Classic II 成功启动</title>
+      <title>无效的 68030 指令意外地允许 Mac Classic II 成功启动</title>
       <link>https://www.reddit.com/r/programming/comments/1ibei57/the_invalid_68030_instruction_that_accidentally/</link>
       <description><![CDATA[  由    /u/ketralnis 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ibei57/the_invalid_68030_instruction_that_accidentally/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ibebwe/the_hunt_for_error_22/</guid>
       <pubDate>Mon, 27 Jan 2025 17:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>C 不适合 SIMD</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibe9ol/c_is_not_suited_to_simd/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibe9ol/c_is_not_suited_to_simd/</guid>
-      <pubDate>Mon, 27 Jan 2025 17:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>所以你想编写 Kubernetes 控制器？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibe9mw/so_you_wanna_write_kubernetes_controllers/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibe9mw/so_you_wanna_write_kubernetes_controllers/</guid>
-      <pubDate>Mon, 27 Jan 2025 17:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>双线性下/上采样、对齐像素网格以及臭名昭著的 GPU 半像素</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibe8ea/bilinear_downupsampling_aligning_pixel_grids_and/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibe8ea/bilinear_downupsampling_aligning_pixel_grids_and/</guid>
-      <pubDate>Mon, 27 Jan 2025 17:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建多租户 SaaS 架构 • Tod Golding & Bill Tarr</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibd8cl/building_multitenant_saas_architectures_tod/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibd8cl/building_multitenant_saas_architectures_tod/</guid>
-      <pubDate>Mon, 27 Jan 2025 16:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
