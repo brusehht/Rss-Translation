@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Jan 2025 06:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 12:26:46 GMT</lastBuildDate>
     <item>
-      <title>作为业余开发人员，您可以成为优秀的 OSS 代码贡献者吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</link>
-      <description><![CDATA[我正在追求一份独立的职业，但我已经编码大约一年了，我很高兴能在空闲时间继续编程 我计划在可预见的未来继续编码，甚至找到一个开源项目开始做出贡献。 你们见过非专业开发人员成为 OSS 项目的宝贵贡献者吗？ 无论如何，我最感兴趣的是修复错误和测试，对做我觉得更高级的大型新功能不感兴趣，而且根据我的经验，这些功能通常由全职维护人员完成。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</guid>
-      <pubDate>Tue, 28 Jan 2025 02:22:02 GMT</pubDate>
+      <title>开源和自托管项目中的琥珀色旗帜</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibzsve/amber_flags_in_open_source_selfhosted_projects/</link>
+      <description><![CDATA[  由    /u/ssddanbrown  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibzsve/amber_flags_in_open_source_selfhosted_projects/</guid>
+      <pubDate>Tue, 28 Jan 2025 11:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apex - 现代 WordPress 替代品 - 寻求战略合作伙伴/买家</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iby9r1/apex_modern_wordpress_alternative_seeking/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iby9r1/apex_modern_wordpress_alternative_seeking/</guid>
+      <pubDate>Tue, 28 Jan 2025 10:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Blazor - SaveHere (开源) 重新构建了一个云下载管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibxrvt/i_rebuilt_a_cloud_download_manager_with_blazor/</link>
+      <description><![CDATA[  由    /u/ehsangd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibxrvt/i_rebuilt_a_cloud_download_manager_with_blazor/</guid>
+      <pubDate>Tue, 28 Jan 2025 09:24:13 GMT</pubDate>
     </item>
     <item>
       <title>[Eric Migicovsky] 我们为何要重新推出 Pebble</title>
@@ -36,7 +50,7 @@
     <item>
       <title>Optimum ERP - 释放无缝业务运营的力量 - 开源计费软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1ibfttq/optimum_erp_unlock_the_power_of_seamless_business/</link>
-      <description><![CDATA[Optimum ERP Optimum ERP 是使用 MERN 堆栈（MongoDB、Express.js、React.js 和 Node.js）构建的综合企业资源规划 (ERP) 解决方案。该项目旨在简化和自动化各种业务流程，包括费用管理、产品管理、报价处理、采购和销售运营、商品及服务税 (GST) 管理和费用分类。 功能  费用管理：跟踪和组织费用以实现更好的财务控制。 产品管理：高效管理产品信息、库存和定价。 报价处理：为客户生成和管理报价。 采购和销售运营：简化采购和销售流程。 商品及服务税 (GST) 管理：遵守商品及服务税 (GST) 法规。 费用分类：对费用进行分类以便更好地进行分析和报告。 用户身份验证：支持 Google 身份验证的安全登录系统。 PDF 生成：以 PDF 格式生成专业发票、报告和报价单。 基于角色的访问控制：分配角色和权限以实现高效的用户管理。 通知系统：通过系统通知和警报让用户了解最新情况。 审计跟踪：维护系统活动的详细日志以实现问责制和透明度。 多租户：支持在同一系统内管理多个业务。  使用的技术  MongoDB：用于数据存储的 NoSQL 数据库。 Mongoose：MongoDB 的 ODM 库，用于简化数据建模和模式验证。 Express.js：Node.js 的 Web 应用程序框架。 React.js：用于构建用户界面的 JavaScript 库。 Node.js：用于服务器端脚本的 JavaScript 运行时环境。 Chakra UI：用于设计现代且响应迅速的用户界面。 Framer Motion：用于流畅且交互式的动画。 Mongoose：数据库管理。 PDF 生成：当前使用外部服务 https://docs.pdfshift.io/。  环境变量 应用程序成功运行需要以下环境变量：  NODE_ENV= # 环境模式（开发、生产） MONGO_URI= # MongoDB 连接字符串 SESSION_SECRET= # 会话管理的密钥NODE_MAILER_USER_NAME= # nodemailer 的电子邮件用户名 NODE_MAILER_APP_PASSWORD= # nodemailer 的应用程序密码 NODE_MAILER_HOST= # 电子邮件主机（例如，smtp.gmail.com） GOOGLE_AUTH_CLIENT_ID= # Google OAuth 的客户端 ID GOOGLE_AUTH_CLIENT_SECRET= # Google OAuth 的客户端密钥 VITE_APP_URL= # 应用程序的前端 URL PDF_SHIFT_API_KEY= # 用于 PDF 生成的 PDF Shift API 密钥  托管和部署 Optimum ERP 托管在https://www.optimumerp.biz/上。该应用程序使用现代 DevOps 实践进行部署，以确保可靠性、可扩展性和高性能。 贡献 欢迎对 Optimum ERP 做出贡献！如果您发现任何问题或有改进建议，请打开问题或提交拉取请求。 贡献：  分叉存储库。 为您的功能或错误修复创建一个新分支。 提交您的更改并将其推送到您的分支。 提交拉取请求，其中包含更改的详细描述。  联系方式 有关 Optimum ERP 的更多信息或咨询，请联系项目所有者 [Support](mailto:atuldubey017@gmail.com)。  Optimum ERP 旨在成为强大、用户友好且可扩展的解决方案，适用于希望优化运营和推动增长的企业。   由    /u/AtulDubey017  提交  [链接] [评论]]]></description>
+      <description><![CDATA[Optimum ERP Optimum ERP 是使用 MERN 堆栈（MongoDB、Express.js、React.js 和 Node.js）构建的综合企业资源规划 (ERP) 解决方案。该项目旨在简化和自动化各种业务流程，包括费用管理、产品管理、报价处理、采购和销售运营、GST 管理和费用分类。 项目链接 文档链接    提交人    /u/AtulDubey017   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ibfttq/optimum_erp_unlock_the_power_of_seamless_business/</guid>
       <pubDate>Mon, 27 Jan 2025 18:14:25 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/foundfootagefan   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iazo1j/cardo_a_podcast_client_for_windows_mac_or_linux/</guid>
       <pubDate>Mon, 27 Jan 2025 04:20:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关 Syncthing 和 Joplin 的帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iat3fw/looking_for_help_with_syncthing_and_joplin/</link>
-      <description><![CDATA[问大家一个问题，我使用 syncthing 已经有一年左右了，总体来说我觉得它很棒。它能完成需要完成的工作，我相信它不会删除任何数据。 我唯一的（主要）症结是，我无法可靠地同步我的 joplin 笔记。我不知道我做错了什么。 我已在每个设备的设置中将同步目标设置为本地文件夹。此文件夹通过 syncthing 共享到其他设备。每个其他设备都使用自己的本地文件夹（连接到 syncthing）。 而且，在大多数情况下，它（有点）有效 我哪里出错了。有时，当我编辑笔记时，编辑会同步到某些设备，但不会同步到其他设备。或者，不是*完全*所有笔记都会同步。例如，大多数笔记都会同步，但我注意到有一些笔记没有传输。  我不知道如何更好地解释它。但似乎同步在某种程度上是有效的，但不完整，也不可靠。 如果您对 Syncthing/Joplin 设置有任何建议，我们将不胜感激。 谢谢    提交人    /u/FalcoPwnch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iat3fw/looking_for_help_with_syncthing_and_joplin/</guid>
-      <pubDate>Sun, 26 Jan 2025 22:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>环境技术领域的开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iaseb9/open_source_projects_in_enviromental_tech/</link>
-      <description><![CDATA[嗨！我正在寻找可以为周围环境/生态/气候等做出贡献的项目，任何可以帮助我们的情况稍好一点的项目。我想也许这里有人会听说过类似的事情。如果我的帖子不清楚，请原谅，我写这篇文章的时候已经很晚了    提交人    /u/beesandpigeons   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iaseb9/open_source_projects_in_enviromental_tech/</guid>
-      <pubDate>Sun, 26 Jan 2025 22:27:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
