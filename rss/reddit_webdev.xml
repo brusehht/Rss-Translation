@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 03:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 06:19:52 GMT</lastBuildDate>
+    <item>
+      <title>有人声称创建了我创建的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icmv1r/someone_is_claiming_to_have_made_a_website_ive/</link>
+      <description><![CDATA[刚刚检查了客户网站的反向链接，发现某个随机网站声称是我创建的他们的网站。  有人遇到过这种情况吗？有什么想法可以删除它吗？    提交人    /u/Soothsayer102   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icmv1r/someone_is_claiming_to_have_made_a_website_ive/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪一个更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</link>
+      <description><![CDATA[上下文： 我写了一本关于 flex 和 grid 的电子书，但对它的名字感到困惑。 正如其他人在之前的投票中所建议的那样，我使用了价值驱动的标题。 这本书是一本 110 页的指南，用简单的术语解释了关于 flex 和 grid 的所有内容，主要是视觉效果和示例。并且没有不必要的复杂细节。 提前谢谢您：) ​ 查看投票    提交人    /u/utsav_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Porkbun 删除了 Cloudflare DNSSEC 并添加了自己的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iclbj3/porkbun_removed_cloudflare_dnssec_and_added_their/</link>
+      <description><![CDATA[        提交人    /u/LSkeptic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iclbj3/porkbun_removed_cloudflare_dnssec_and_added_their/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站加载时，图片和视频似乎只部分/暂时加载，然后闪烁/闪烁/闪烁并再次重新加载</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ickgud/when_website_loads_images_and_videos_seem_to_load/</link>
+      <description><![CDATA[第一个错误显然是我叔叔雇来做网站的人，他们都是在 Wix 上建的。当试图让网站加载速度更快时，我愚蠢地尝试了几个“网站助推器” Wix 应用商店中的应用程序（Page Booster - Instant Results &amp; Website Speedy - load faster）在他们“优化”网站后，我注意到一个问题，即图像和视频似乎先加载，然后闪烁/闪光/闪烁，然后再次加载。任何帮助都将不胜感激。我已将主页和 /pool-design 登陆页面上发生的问题的视频上传到此处。网站是www.miragelandscape.com。 问题的屏幕录制 我尝试删除应用程序、将网站恢复到较早的日期等，但均未成功。任何帮助或见解都将不胜感激。    提交人    /u/wsekandar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ickgud/when_website_loads_images_and_videos_seem_to_load/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的意见可以吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</link>
+      <description><![CDATA[        提交人    /u/somethingdeido   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:16:55 GMT</pubDate>
+    </item>
     <item>
       <title>看起来不值得的 10 万美元以上的项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1icjrsr/100k_projects_that_dont_seem_worth_it/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>现在是 2025 年，从企业背景来看，现在构建全栈应用程序的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</link>
-      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像，React + Spring/Flask/ASP.NET ...数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像 React + Spring/Flask/ASP.NET ... 数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</guid>
       <pubDate>Wed, 29 Jan 2025 02:14:47 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>Rugcheck API 示例</title>
       <link>https://www.reddit.com/r/webdev/comments/1icik1f/rugcheck_api_example/</link>
-      <description><![CDATA[我正在尝试从 rugcheck.xyz API 中提取一些数据。我不是程序员，但在 chatGPT 的帮助下，我从他们的文档中弄清楚了如何使用 GET 函数：https://api.rugcheck.xyz/swagger/index.html#/ - 他们在页面上提供了工作示例，但我对他们的“模型”调用感到困惑，特别是 rugcheck_api.MarketLP 的东西。它会是什么样子？ChatGPT 只是在猜测。    提交人    /u/Biks   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试从 rugcheck.xyz API 中提取一些数据。虽然不是程序员，但在 chatGPT 的帮助下，我从他们的文档中弄清楚了如何使用 GET 函数：https://api.rugcheck.xyz/swagger/index.html#/ - 他们在页面上提供了工作示例，但我对他们的“模型”调用感到困惑，特别是 rugcheck_api.MarketLP 的内容。它会是什么样子？ChatGPT 只是在猜测。    提交人    /u/Biks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icik1f/rugcheck_api_example/</guid>
       <pubDate>Wed, 29 Jan 2025 01:43:06 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[您好，我计划为牙医做一个网站，我可以使用（自制）软件来编辑网页上的某些内容。比如价格表、招聘职位等。 这样的事情怎么可能实现？最佳实践是什么？您会推荐哪种堆栈？ 我对这个想法很陌生，所以我甚至不知道具体要问什么，但我很乐意学习。 谢谢大家    提交人    /u/DasWildeMaus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icfnou/how_to_make_software_program_and_webpage/</guid>
       <pubDate>Tue, 28 Jan 2025 23:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自 Shadcn 的 10 个顺风技巧 - 简化指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icfkxb/10_tailwind_tricks_from_shadcn_simplified_guide/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icfkxb/10_tailwind_tricks_from_shadcn_simplified_guide/</guid>
-      <pubDate>Tue, 28 Jan 2025 23:24:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let's Encrypt 将终止对证书到期通知电子邮件的支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icfegd/lets_encrypt_is_ending_support_for_notification/</link>
-      <description><![CDATA[       由    /u/BehindTheMath  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icfegd/lets_encrypt_is_ending_support_for_notification/</guid>
-      <pubDate>Tue, 28 Jan 2025 23:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使网页上的管理员登录对其他用户隐藏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icf9r0/how_to_make_adminlogin_on_webpage_hidden_for/</link>
-      <description><![CDATA[嘿，我正在为一家汽车经销商建立一个网页。页面上的访问者应该只能看到一些普通的东西，比如起始页、联系方式和一个更大的页面，他们可以在那里搜索汽车等。 但经销商本身应该能够通过一个漂亮的蓝图页面插入新车，他们只需要插入汽车的图片和规格。 1) 如何让这个页面只有管理员可以访问？不是密码问题，而是普通用户甚至无法进入登录页面。 最好的做法是什么？ 我想过不要以任何方式将其链接到用户可以访问的页面，这样经销商就必须专门访问 domainDOTcom/login 之类的页面 有什么好的替代方案？ 2) 如何最好地处理新插入的汽车？因为有蓝图，所以经销商除了图片、描述文字和规格外，不会有太大变化。我该如何最好地存储和调用它？    提交人    /u/DasWildeMaus   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icf9r0/how_to_make_adminlogin_on_webpage_hidden_for/</guid>
-      <pubDate>Tue, 28 Jan 2025 23:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>支付网关集成模板——谁的责任？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iceiqh/template_for_payment_gateway_integration_whose/</link>
-      <description><![CDATA[我之前发布过这个，但只收到一个回复​​，所以我希望尽可能多的人能提出我的观点！ 我有一个关于 Tilda 的网站，因为我的网页设计师最熟悉它并建议我使用它，而我不知道还有更好的选择。我在一个随机的小国（巴林），所以在他们提供的所有支付网关中，只有 PayPal 对我可用，而 PayPal 收取 4.9% 的佣金，这非常高。所以我研究了他们的“自定义支付网关”选项，为此他们要求支付网关提供商直接与他们联系（并且不要对此让步）。然后他们与提供商的开发人员分享此链接，并要求他们填写表格以创建模板。他们坚持要求提供商的开发人员（而不是商家开发人员）这样做。 因此，我们要求提供商填写此表单以创建一种预集成模板，但他们拒绝了，称这是商家开发人员的责任。同时，Tilda 拒绝直接与我们联系，除非我们自己完成本地集成，这与他们审查模板（由支付网关提供商创建）、批准并向我们提供该特定支付网关是不同的选择。 我们的提供商不让步，Tilda 也不让步。根据我的开发人员的说法，迁移到 Shopify 将需要很长时间。我线下收到的第三方回复是，目前尚不清楚这是谁的责任，每个人都必须妥协(??)。在这种情况下，我很想知道该怎么做，因为我的生意因为这个网关问题停滞了两个月。或者因为蒂尔达。    提交人    /u/michaela_kohlhaas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iceiqh/template_for_payment_gateway_integration_whose/</guid>
-      <pubDate>Tue, 28 Jan 2025 22:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从未感到如此自由！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icd73s/never_felt_more_free/</link>
-      <description><![CDATA[        提交人    /u/exogreek   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icd73s/never_felt_more_free/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:41:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
