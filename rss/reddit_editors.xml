@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 30 Jan 2025 21:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 01:03:07 GMT</lastBuildDate>
+    <item>
+      <title>当我读到这篇文章时，我心情很复杂</title>
+      <link>https://www.reddit.com/r/editors/comments/1ie232i/i_had_very_mixed_feelings_when_i_read_this/</link>
+      <description><![CDATA[https://www.vulture.com/article/questlove-snl-50-music-montage.html    由   提交  /u/EditorRedditer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ie232i/i_had_very_mixed_feelings_when_i_read_this/</guid>
+      <pubDate>Fri, 31 Jan 2025 00:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>如果不在洛杉矶，您还会在哪里生活以获得可行的职业？</title>
       <link>https://www.reddit.com/r/editors/comments/1idvvo4/where_else_would_you_live_for_a_viable_career_if/</link>
@@ -97,16 +104,9 @@
       <pubDate>Wed, 29 Jan 2025 22:02:27 GMT</pubDate>
     </item>
     <item>
-      <title>Resolve 转为 Pro Tools AAF | Blackmagic Davinci Resolve Studio Assist 撰写</title>
-      <link>https://www.reddit.com/r/editors/comments/1id4wff/resolve_to_pro_tools_aaf_blackmagic_davinci/</link>
-      <description><![CDATA[Resolve 到 Pro Tools AAF 自 2023 年以来，我一直主要在 Resolve 而不是 Avid 中编辑 TVC。我计划将来将长篇、传统的 Avid 项目转移到 Resolve。虽然 Resolve 的功能有所增强，但一个主要限制是它（被认为）与 Pro Tools 的 AAF 往返不太稳定。许多（嗯，大多数）混音师都期待 Avid 工作流程，而关于 Resolve 的 AAF 导出的信息很少。 我自己不使用 Pro Tools，但通过测试这些 30 和 60，我找到了一个工作流程，并得到了音响店的积极反馈。一些混频器比其他混频器具有更少的重新链接问题，并且显然它们那边有我不熟悉的摄取插件（？），因此欢迎提供更多意见。 本文更深入地解释了实际的 AAF 导出选项卡： https://www.production-expert.com/production-expert-1/how-to-create-a-pro-tools-friendly-aaf-from-davinci-resolve 采取您能采取的措施并更改您需要的措施。 限制 如果您使用单声道或立体声通道，aaf 将不会提取或链接时间线中缺少的其余通道。在某些情况下，我设法让它工作，但我不确定如何做——通常，这会导致在移交期间手动过度剪切音频。 虽然您可以在“剪辑属性”中复制轨道并将剪辑批量分配给不同的通道（或通过较新版本中的上下文菜单），但当剪辑具有不同的音频通道数时，这很快就会变得混乱。工作流程简化了此步骤。 工作流程 准备 同步后，准备使用自适应轨道将多通道音频合并为一个轨道，以获得更清晰的时间线。在画面锁定后，这将很容易实现。 在“剪辑属性”中，将每个同步的镜头设置为自适应 X，其中 X = 音频通道数。 您设置为自适应 Y 的时间线轨道，其中 Y = 最高音频通道数。如果您的场景有 3、4、6 个声道，则可以使用自适应 6 轨进行编辑。 转换 如果尚未命名，请命名音轨，组织 Fx 和 Mx 等，并删除静音剪辑。如果您认为混音器可能需要剪辑，请将其留在时间轴的 -100db 处。 图片锁定后，复制时间轴并从自适应音轨创建链接组。 只需单击一下，即可将所有音频扩展为 Y 单声道音轨。您可以从 Fairlight 菜单取消链接组，以便获得多轨单声道。 现在，您有了一个时间轴，它可以很好地转换并保留音响店期望从 Avid 获得的大多数元数据，同时只需最少的前期准备时间和整洁的时间轴。 导出 上面的链接很好地解释了导出过程本身，但我有一个简写：  使用链接的 AAF 不导出视频（单独导出参考） 检查每个通道渲染一个轨道 检查渲染为离散音轨 取消选中使用唯一名称  缺点 在自适应轨道中，您无法调整单个通道的音量。到目前为止，这对我来说不是问题。如果您不需要某个频道，而且混音器也不需要，您可以在媒体池的“剪辑属性”中将其完全删除。 如果您切换对话，请将原始音频保留在上面的轨道上，并使用 -100db。静音剪辑不会翻译。 优点 混音器很开心，时间线整洁，前期周转准备时间短，元数据链工作正常。    提交人    /u/Ok-Sleep-9374   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1id4wff/resolve_to_pro_tools_aaf_blackmagic_davinci/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:17:49 GMT</pubDate>
-    </item>
-    <item>
       <title>Macbook pro M2 Max 在运行 Avid Media Composer 时运行缓慢。有什么方法可以提高编辑器的工作流程速度吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1id4d19/macbook_pro_m2_max_running_slow_while_using/</link>
-      <description><![CDATA[我们是一家小成本长片制作公司。我们有一台笔记本电脑，我们团队中的一位成员已经开始使用它进行编辑，但她发现它真的很慢。它是一台 MacBook Pro 16 英寸 M2 Max 2023 12 核 1TB SSD/64GB/38 核。我们用 red、松下 lumix 和 iphone 拍摄了这部电影。她使用的驱动器是 WD 22TB Elements 外置硬盘。  我们的主要磁盘保持安全，是 4 个三星 ssd 驱动器。有人能给她一些建议来加快她的处理速度吗？     提交人    /u/Scary-Command2232   [链接] [评论]]]></description>
+      <description><![CDATA[我们是一家小成本长片制作公司。我们有一台笔记本电脑，我们团队中的一位成员已经开始使用它进行编辑，但她发现它真的很慢。它是一台 MacBook Pro 16 英寸 M2 Max 2023 12 核 1TB SSD/64GB/38 核。我们用 red、松下 lumix 和 iphone 拍摄了这部电影。她使用的驱动器是 WD 22TB Elements 外置硬盘。  我们的主要磁盘保持安全，是 4 个三星 ssd 驱动器。有人能给出任何建议来加快她的处理速度吗？     提交人    /u/Scary-Command2232   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1id4d19/macbook_pro_m2_max_running_slow_while_using/</guid>
       <pubDate>Wed, 29 Jan 2025 20:55:26 GMT</pubDate>
     </item>
