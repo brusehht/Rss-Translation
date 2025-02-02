@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 18:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 21:12:40 GMT</lastBuildDate>
+    <item>
+      <title>根据上一篇文章的反馈从头创建了聚类</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig7bzp/created_clustering_from_scratch_based_on_feedback/</link>
+      <description><![CDATA[      基于上一个帖子，许多人建议使用某种聚类库，但聚类逻辑本身并不复杂，因此我创建了自己的聚类逻辑，并且当放大/缩小时聚类会发生变化。 https://preview.redd.it/jacpbpoogsge1.png?width=736&amp;format=png&amp;auto=webp&amp;s=7ef37d9d07b0680777a3ddf98e1f048c783b70f9 https://preview.redd.it/2v3lmqoogsge1.png?width=931&amp;format=png&amp;auto=webp&amp;s=16d93fb2281e26a88b0fee362f61d6711bcdceb4    提交人    /u/homunculus_17   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig7bzp/created_clustering_from_scratch_based_on_feedback/</guid>
+      <pubDate>Sun, 02 Feb 2025 20:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开源了我的 opengraph 图像生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig7by8/i_opensourced_my_opengraph_image_generator/</link>
+      <description><![CDATA[大家好， 前段时间我在这里发帖展示了我在周五晚上几个小时编写的网站：og-img.com 我真的很喜欢所有人使用我的免费网站为他们的博客生成所有 opengraph 图像。 今天我决定开源我为该网站使用的技术堆栈和代码。欢迎自行使用或学习一些有关图像生成的内容。:) 享受 Github 上的代码，如果喜欢请留下一颗星：og-img    提交人    /u/Skirdogg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig7by8/i_opensourced_my_opengraph_image_generator/</guid>
+      <pubDate>Sun, 02 Feb 2025 20:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何渲染 html/css 并导出为 png</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig74mi/how_to_render_htmlcss_and_export_as_png/</link>
+      <description><![CDATA[我有一个时间轴，想把它包含在文档中。截屏是可行的，但与正确渲染的版本相比，它看起来很乱，正确渲染的版本具有透明背景、圆角和不受屏幕限制的分辨率。 有办法吗？ 提前致谢！    提交人    /u/Jojos_BA   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig74mi/how_to_render_htmlcss_and_export_as_png/</guid>
+      <pubDate>Sun, 02 Feb 2025 20:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助重新创建 YouTube 相关视频缩略图布局</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig6z3l/need_help_recreating_youtubes_related_videos/</link>
+      <description><![CDATA[        提交人    /u/synthwizards   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig6z3l/need_help_recreating_youtubes_related_videos/</guid>
+      <pubDate>Sun, 02 Feb 2025 20:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将制作免费网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig5zb1/i_will_make_free_websites/</link>
+      <description><![CDATA[嗨，各位开发者。我是一名前端开发人员。我想开始从事现实世界的项目。为此，我将为您创建一个免费网站。如果您有兴趣，请发表评论。    提交人    /u/Akashkennedy1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig5zb1/i_will_make_free_websites/</guid>
+      <pubDate>Sun, 02 Feb 2025 19:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何自行托管网站或免费创建一个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig5bbf/how_to_self_host_a_website_or_make_one_for_free/</link>
+      <description><![CDATA[是否可以自行托管网站并将其放在网上，比如我是否可以拿一台电脑并以某种方式将其变成托管网站或商店的设备？ 这是否不理想，是否有更好的免费替代方案。我一直想尝试建立网站，但价格让我害怕。 一个不相关的问题，您建议我使用您建议的方法使用哪些编程语言或网站构建器？    提交人    /u/Game-Lover44   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig5bbf/how_to_self_host_a_website_or_make_one_for_free/</guid>
+      <pubDate>Sun, 02 Feb 2025 19:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢的域名注册商是谁？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ig3pcg/whos_your_favourite_domain_registrar/</link>
+      <description><![CDATA[大家好 - 我以前使用 google domains，但现在 squarespace 上有很多域名，因为他们停止并转移了他们的账户。  我不太喜欢与 squarespace 合作，所以在我移动所有客户域名之前，我想联系一下，看看是否有人推荐某个提供商，以及这是否真的很重要。我对其他任何事情都不感兴趣，只是希望能够管理 DNS - 所以只想要简单。谢谢     提交人    /u/Tiny_Major_7514   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ig3pcg/whos_your_favourite_domain_registrar/</guid>
+      <pubDate>Sun, 02 Feb 2025 18:21:31 GMT</pubDate>
+    </item>
     <item>
       <title>有点像手风琴但不会推动其下方的元素？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ig308i/something_like_accordion_but_doesnt_push_the/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>不知道要使用什么技术。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ig2u5e/dont_know_what_technologies_to_use/</link>
-      <description><![CDATA[基本上就是标题。我在工作中使用 Symfony，我在申请时并不知道它，但后来我开始喜欢它。我们将它与 Twig 一起使用。这就是问题所在，因为在空闲时间我使用 React，我很喜欢它。我也开始使用 NextJS，但我讨厌它基本上没有结构，但我想将 React 与 SSR 一起使用。所以我开始寻找一些框架等。我发现 NestJS 看起来很棒，但我没有找到任何使用 React 和 SSR 的设置。所以我进一步研究并找到了支持 SSR 的 Laravel + Inertia + React。所以我的问题是是否有人遇到过同样的问题，你是如何解决的？你将 Laravel 与 Inertia 和 React 一起使用吗？你是否将其他支持 SSR 的框架与 React 一起使用？很想听听你的意见。如果这些没有意义，也请原谅，我仍然是初级水平，仍在学习。谢谢大家！    由    /u/Fili_pee 提交   [链接] [评论]]]></description>
+      <description><![CDATA[基本上就是标题。我在工作中使用 Symfony，我在申请时并不知道它，但后来我开始喜欢它。我们将它与 Twig 一起使用。这就是问题所在，因为在空闲时间我使用 React，我很喜欢它。我也开始使用 NextJS，但我讨厌它基本上没有结构，但我想将 React 与 SSR 一起使用。所以我开始寻找一些框架等。我发现 NestJS 看起来很棒，但我没有找到任何使用 React 和 SSR 的设置。所以我进一步研究并找到了支持 SSR 的 Laravel + Inertia + React。所以我的问题是，是否有人遇到过同样的问题，你是如何解决的？你将 Laravel 与 Inertia 和 React 一起使用吗？你是否将其他支持 SSR 的框架与 React 一起使用？很想听听你的意见。如果这些没有意义，也请原谅，我仍然是初级水平，仍在学习。谢谢大家！    由    /u/Fili_pee 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ig2u5e/dont_know_what_technologies_to_use/</guid>
       <pubDate>Sun, 02 Feb 2025 17:45:44 GMT</pubDate>
     </item>
@@ -41,48 +90,6 @@
       <pubDate>Sun, 02 Feb 2025 16:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>请批评我的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifza13/please_critique_my_website/</link>
-      <description><![CDATA[我是一个相对新的开发人员，我最近推出了我的第一个面向公众的项目 sourcefees.com。我只是想要一些批评和改进建议。SourceFees 是一个目录和搜索，可帮助企业主和开发人员为其业务找到合适的支付处理器。我还想知道它是否看起来专业并且易于使用和理解，以及任何建议。谢谢！ 前端的所有内容均使用原始 html、css、js 编写。    提交人    /u/quicscribe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifza13/please_critique_my_website/</guid>
-      <pubDate>Sun, 02 Feb 2025 15:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始构建我的个人财务追踪器并发布我的第一篇博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifz1r1/started_building_my_personal_finance_tracker/</link>
-      <description><![CDATA[        提交人    /u/kartikth40   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifz1r1/started_building_my_personal_finance_tracker/</guid>
-      <pubDate>Sun, 02 Feb 2025 15:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发最讨厌的事情</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifyqx4/web_dev_pet_peeves/</link>
-      <description><![CDATA[你们觉得 webdev 最烦人的部分是什么，后端还是前端？你认为从概念上讲可能没那么难，但实现起来却很烦人，而且目前还没有解决方案可以简化它。 例如，我发现编写 api 重试逻辑非常烦人且容易出错，可能是技能问题，但确实如此。 欢迎分享任何内容 :)    提交人    /u/Blake9471   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifyqx4/web_dev_pet_peeves/</guid>
-      <pubDate>Sun, 02 Feb 2025 14:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoteScape - 笔记应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifq4jf/notescape_note_taking_app/</link>
-      <description><![CDATA[      NoteScape 是一款人工智能笔记应用，它可以帮助人们创建和实时协作处理笔记。其核心是利用 Meta 的 Llama 模型来提供智能功能，如笔记翻译、上下文感知问答和智能摘要。 https://preview.redd.it/rdb98b55vnge1.jpg?width=2881&amp;format=pjpg&amp;auto=webp&amp;s=0de0eebe53e522f6a03df887b6199e7480ce761c 观看演示：https://youtu.be/zbtFnhlDgFo?si=hT8den139PoBYkw4 网站：https://notescape.vercel.app/ 技术栈：  前端：Next.js 14、TypeScript、TailwindCSS、shadcn/ui 组件 后端：用于边缘计算的 Cloudflare Workers AI：用于自然语言处理的 Meta 的 Llama 模型 实时：用于协作功能的 Liveblocks 存储：用于图像上传的 EdgeStore 身份验证：Clerk  NoteScape 是开源且免费使用，我希望得到你们的反馈并欢迎在 github 上做出贡献：https://github.com/maheshpaulj/NoteScape-2.0 目前，主要的缺陷是加载时间太长，这主要是由于实时协作的支柱 liveblocks 造成的。它首先需要检查 auth，这本身在初始加载时需要 3-4 秒，从 websock 中获取初始数据本身也需要另外 3-4 秒，总共有时需要 10 秒，这真的非常糟糕。我不知道除了自己从头开始创建类似的 websocket liveblocks 并部署它之外，还有其他方法可以修复它。    提交人    /u/CityIsBetter   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifq4jf/notescape_note_taking_app/</guid>
-      <pubDate>Sun, 02 Feb 2025 05:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>简历生成器应用程序：ResumeItNow</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifq3qk/resume_builder_app_resumeitnow/</link>
-      <description><![CDATA[      ResumeItNow 是一款免费的开源简历生成器，可帮助求职者创建专业简历，无水印或隐藏费用。它采用现代技术构建并由 AI 提供支持，为创建适合 ATS 的简历提供了无缝的体验。 https://preview.redd.it/99sujwvyunge1.jpg?width=2881&amp;format=pjpg&amp;auto=webp&amp;s=c95d2026fd7e56e8a13e6ec1c3bfbb70e7e11726 网站：https://resumeitnow.vercel.app/ 技术栈：  Nextjs Typescript TailwindCSS Firebase 用于存储 Next-Auth Puppeteer 用于 pdf 下载 Vercel 部署  我希望您查看我的应用程序并提供反馈、功能想法以实施或任何其他内容。它是开源的，欢迎随时在 github 上贡献：https://github.com/maheshpaulj/ResumeItNow    提交人    /u/CityIsBetter   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifq3qk/resume_builder_app_resumeitnow/</guid>
-      <pubDate>Sun, 02 Feb 2025 05:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chess.com 缺少热图，因此我创建了一个可以为您的游戏生成热图的网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifnsfi/chesscom_was_missing_heatmaps_so_i_made_a_website/</link>
-      <description><![CDATA[      大多数开发人员使用 GitHub、Leetcode、codeforces、codechef 等平台。所有这些平台的共同点是，所有这些平台都有日历图，显示了一致性和奉献精神。 几乎所有程序员都喜欢下棋，但你无法像这样追踪你的一致性。 所以我做了一个网站，可以为您的 chess.com 个人资料生成这样的酷卡片和热图。 访问 arthteerth.vercel.app 为您的 chess.com 帐户生成这样的酷卡片    提交人    /u/Unlikely_Donut_9950   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifnsfi/chesscom_was_missing_heatmaps_so_i_made_a_website/</guid>
-      <pubDate>Sun, 02 Feb 2025 03:09:31 GMT</pubDate>
-    </item>
-    <item>
       <title>有人有分体襟翼显示器吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifno6p/split_flap_displays_anyone/</link>
       <description><![CDATA[      在 \&quot;Hello,&quot; 和 \&quot;Hello, world!\&quot; 中间卡住 我创建了一个小类，使包含元素（特别是段落）的文本的每个字符都滚动通过可自定义的字母表，直到它们正确为止，有必要吗？没有必要，但是这样做很好吗？我让你来评判。 https://github.com/ErikHaag/FlapDisplay    提交人    /u/calculus_is_fun   [链接] [评论] ]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[https://stellar-whispers.vercel.app/ (无后端的 react-vite 应用) 请按 0-10 的等级进行评分，0 表示非常糟糕，10 表示还可以。一些建议也会很有帮助 ♥️    提交人    /u/Big-Interest-1447   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifi3kb/on_a_scale_of_010_how_bad_is_my_first_website/</guid>
       <pubDate>Sat, 01 Feb 2025 22:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我童年时对游戏王的痴迷变成了一款无服务器卡片创建应用程序（React + Cloudflare + AI）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifh53w/turned_my_childhood_yugioh_obsession_into_a/</link>
-      <description><![CDATA[      经过多年的企业开发，我决定构建一些让我个人感到兴奋的东西。回想我真正喜欢的东西，让我回想起童年时对纸牌游戏的热爱——特别是当我梦想着制作自己的游戏王纸牌时，因为我买不起很多。现在，开发进行了 3 周，我构建了一个应用程序，任何人都可以使用它创建自己的卡片： 技术堆栈： - React + TypeScript 前端 - 用于托管的 Cloudflare Pages - 用于无服务器后端的 Cloudflare Workers - 用于数据库的 Cloudflare D1 (SQLite) - 用于资产存储的 Cloudflare R2 - 用于身份验证的 Clerk - 用于隐私友好型分析的 Umami - AI 图像生成 - 用于不同卡片世界的蓝图系统（幻想、塔罗牌等） 实时网站：Dekk.me 已经有 +20 位用户在创建卡片！  对于习惯于企业开发的人来说，公开构建并获得直接的用户反馈是全新的体验（老实说，既令人兴奋又令人紧张）。  很想听听其他开发者的想法！    提交人    /u/GonzaloNediani   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifh53w/turned_my_childhood_yugioh_obsession_into_a/</guid>
-      <pubDate>Sat, 01 Feb 2025 21:39:58 GMT</pubDate>
     </item>
     <item>
       <title>关于 HTML5 音频标签中的自动播放属性</title>

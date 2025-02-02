@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 02 Feb 2025 18:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 21:12:15 GMT</lastBuildDate>
+    <item>
+      <title>使用 C 和被动动态控制环路算法，利用模拟的波士顿动力 Atlas 机器人生成模拟步行</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig7sf0/generating_a_simulated_walk_using_a_simulated/</link>
+      <description><![CDATA[  由    /u/Important-Extension6  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig7sf0/generating_a_simulated_walk_using_a_simulated/</guid>
+      <pubDate>Sun, 02 Feb 2025 21:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个由 LLM 提供支持的自动数据分析 PDF 报告生成器工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig5lg2/i_made_a_llm_powered_automated_data_analysis_pdf/</link>
+      <description><![CDATA[嘿，开发人员！分享我的最新项目 - LLM 支持的 PDF 报告生成器！🐍📊 GitHub：查看 GitHub Repo 中的视频教程 https://github.com/bobinsingh/PedroReports-LLM-Powered-Report-Tool 此工具可从任何表格数据集生成专业的数据分析 PDF 报告。您只需输入要分析的内容，它就会为您完成工作。觉得您可能会觉得它很有趣！ 它的作用：  以问题的形式获取您的数据集和分析要求作为输入 使用 Gemini API 生成图表和相关统计数据来回答您的问题 生成具有正确格式的专业 PDF 自动处理目录、样式和页码  技术堆栈：  Python + ReportLab 用于生成 PDF React + Vite 用于前端和开发服务器 LangChain + Gemini API 用于分析 Pandas/Numpy/Matplotlib 用于数据处理  查看我的 GitHub Repo，如果喜欢请给它一个 ⭐。    提交人    /u/Pedro_On_Reddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig5lg2/i_made_a_llm_powered_automated_data_analysis_pdf/</guid>
+      <pubDate>Sun, 02 Feb 2025 19:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Okta Bcrypt 事件可以教会我们如何设计更好的 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</link>
+      <description><![CDATA[  由    /u/_n0rdy_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</guid>
+      <pubDate>Sun, 02 Feb 2025 19:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>强大的 3D Java 寻路库。寻求反馈！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig4z9p/a_powerful_3d_java_pathfinding_library_looking/</link>
+      <description><![CDATA[  由    /u/YogurtclosetLimp7351  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig4z9p/a_powerful_3d_java_pathfinding_library_looking/</guid>
+      <pubDate>Sun, 02 Feb 2025 19:13:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的旧 hackathon + 个人项目制作了一个 GitHub README 生成器！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig4q23/made_a_github_readme_generator_for_my_old/</link>
+      <description><![CDATA[  由    /u/YanYanTheEpic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig4q23/made_a_github_readme_generator_for_my_old/</guid>
+      <pubDate>Sun, 02 Feb 2025 19:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有好用的 Block Code 插件？免费，外观和感觉都像 ROBLOX 的 Scratch。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig4eh6/is_there_a_good_block_code_plugin_that_is_free/</link>
+      <description><![CDATA[  由    /u/Easy-Calligrapher804  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig4eh6/is_there_a_good_block_code_plugin_that_is_free/</guid>
+      <pubDate>Sun, 02 Feb 2025 18:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>借助 Java 中的 Teeing 收集器，使用 Streams 同步处理数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig3vf8/procesamiento_simultáneo_de_datos_con_streams/</link>
+      <description><![CDATA[ 由   发送 /u/emanuelpeg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig3vf8/procesamiento_simultáneo_de_datos_con_streams/</guid>
+      <pubDate>Sun, 02 Feb 2025 18:28:20 GMT</pubDate>
+    </item>
     <item>
       <title>修复语法中的递归</title>
       <link>https://www.reddit.com/r/programming/comments/1ig21cw/fixing_recursions_in_grammar/</link>
@@ -36,7 +85,7 @@
     <item>
       <title>Thepond.net</title>
       <link>https://www.reddit.com/r/programming/comments/1ig0clw/thepondnet/</link>
-      <description><![CDATA[大家好，我想做一个青蛙主题的网站，它会卖我在亚马逊上找到的青蛙衬衫。主页的背景是《时之笛》中的池塘，标题主题在背景中播放。另外，我想有一只青蛙🐸你按下它会带你到隐藏的标签，在那里玩 Geoguessr，但视频游戏中是青蛙。你们都建议用什么程序来做这个，比如他们用 neal.fun 就可以了。    提交人    /u/hdjxhddj   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我想做一个青蛙主题的网站，它会卖我在亚马逊上找到的青蛙衬衫。主页的背景是《时之笛》中的池塘，标题主题在背景中播放。另外，我想有一只青蛙🐸，你按下它，它会带你进入隐藏的标签，在那里玩 Geoguessr，但视频游戏中是青蛙。你们建议用什么程序来做这个，比如他们用 neal.fun 就可以了。    提交人    /u/hdjxhddj   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig0clw/thepondnet/</guid>
       <pubDate>Sun, 02 Feb 2025 16:00:45 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ify48z/the_day_i_taught_ai_to_read_code_like_a_senior/</guid>
       <pubDate>Sun, 02 Feb 2025 14:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Rust 中进行系统调用：向内核请求服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifxnv5/making_system_calls_in_rust_requesting_services/</link>
-      <description><![CDATA[  由    /u/Idkwhyweneedusername  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifxnv5/making_system_calls_in_rust_requesting_services/</guid>
-      <pubDate>Sun, 02 Feb 2025 13:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular CLI 技巧和窍门：提高你的生产力</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifwxz3/angular_cli_tips_and_tricks_boost_your/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifwxz3/angular_cli_tips_and_tricks_boost_your/</guid>
-      <pubDate>Sun, 02 Feb 2025 13:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Docker Compose 中管理机密 — 开发人员指南 | Phase 博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifwnz9/managing_secrets_in_docker_compose_a_developers/</link>
-      <description><![CDATA[  由    /u/ascendence  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifwnz9/managing_secrets_in_docker_compose_a_developers/</guid>
-      <pubDate>Sun, 02 Feb 2025 12:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码艺术的悄然消亡：人工智能如何抹去编程的灵魂</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifvxx6/the_silent_death_of_code_artistry_how_ai_is/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifvxx6/the_silent_death_of_code_artistry_how_ai_is/</guid>
-      <pubDate>Sun, 02 Feb 2025 12:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过蓝牙控制伺服电机 - 找不到视频中链接的代码（在评论中解释）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifvd7y/controlling_servo_motors_via_bluetooth_cant_find/</link>
-      <description><![CDATA[  由    /u/WEAR_A_WATCH  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifvd7y/controlling_servo_motors_via_bluetooth_cant_find/</guid>
-      <pubDate>Sun, 02 Feb 2025 11:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建自己的工具的意外好处</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifunbl/unexpected_benefits_of_building_your_own_tools/</link>
-      <description><![CDATA[  由    /u/tiniucIx  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifunbl/unexpected_benefits_of_building_your_own_tools/</guid>
-      <pubDate>Sun, 02 Feb 2025 10:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Ziggurat 方法从单位圆中抽取随机坐标</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifu9mt/using_the_ziggurat_method_for_sampling_random/</link>
-      <description><![CDATA[  由    /u/camel-cdr-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifu9mt/using_the_ziggurat_method_for_sampling_random/</guid>
-      <pubDate>Sun, 02 Feb 2025 10:13:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
