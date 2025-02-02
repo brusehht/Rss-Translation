@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 21:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 03:17:27 GMT</lastBuildDate>
+    <item>
+      <title>我需要将我所有的 YouTube 视频转换成精心撰写的文章。所以我建立了一个自动化</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifii55/i_needed_to_convert_all_my_yt_videos_into/</link>
+      <description><![CDATA[这是我构建的 - 一个简单的 Python 脚本，用于检索 YouTube 视频（通过 Google API、YT v3）、读取自动生成的字幕、将它们转换为文章、从 Unsplash API 中检索相关图像 + 标题、编写优化的 SEO 标题、副标题和 Kicker 标题。  目前适用于任何英语或法语视频，并将它们转换回法语或英语文章（支持翻译）并附带图片。 项目：https://github.com/pH-7/youtube-to-medium-blog-posts-automation    提交人    /u/phenrys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifii55/i_needed_to_convert_all_my_yt_videos_into/</guid>
+      <pubDate>Sat, 01 Feb 2025 22:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源生态系统存在哪些薄弱环节？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifh61a/what_are_some_weak_areas_of_the_opensource/</link>
+      <description><![CDATA[在当前大批外国科技公司通过在线服务、数据收集和贸易战等手段控制我们数字生活的环境下...  OSS 生态系统中缺少什么？  根据我自己的观察：  没有相当于组策略的东西，这意味着企业桌面仍将保留在 Windows 上。 Outlook 和 Exchange。   随着 O365 和 CoPilot 的推动，我觉得离线替代方案还有空间。是什么阻止了替代方案的建立？   Adobe。这不是我受影响的事情，但这是我最常听到的。  我认为社区缺乏关注。有人可以推荐一个列出这些弱点并可以聚集开发人员努力的网站吗？    提交人    /u/coderguyagb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifh61a/what_are_some_weak_areas_of_the_opensource/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:41:06 GMT</pubDate>
+    </item>
     <item>
       <title>[Linux 基金会] 驾驭全球法规和开源：美国 OFAC 制裁</title>
       <link>https://www.reddit.com/r/opensource/comments/1iff0l2/linux_foundation_navigating_global_regulations/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/theKovah   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ieh64o/linkace_20_is_here/</guid>
       <pubDate>Fri, 31 Jan 2025 15:22:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国阻止这些国家提供开源“帮助”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iedkur/us_blocks_open_source_help_from_these_countries/</link>
-      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iedkur/us_blocks_open_source_help_from_these_countries/</guid>
-      <pubDate>Fri, 31 Jan 2025 12:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种开源模型/方法适合我？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iecdmy/which_opensource_modelapproach_is_right_for_me/</link>
-      <description><![CDATA[我目前正在开发一款消费产品。我一直是开源运动的粉丝（并从中受益），所以我想让这款产品的某些方面保持开源和对黑客友好。 在我看来，这看起来像是发布带有黑客友好许可证的固件，并发布一些细节，如引脚分布等。而且，可能启用通过 USB 端口侧载程序的简单方法。 我有两个主要担忧：  产品责任和安全会发生什么？这款产品有一个高功率（1kW）加热器，如果使用不当可能会有潜在危险。如果用户修改固件并陷入不安全的情况，谁来承担责任？这是我反对开源的最大障碍。 虽然我确实希望黑客能够破解这款产品供个人使用，但我也想防止廉价的仿制品蚕食已经存在的小众市场。当然，物理硬件不是开源的，但逆向工程却很容易。是否有开源许可证可以防止已发布的固件被商业重复使用？  你对此有何看法？你能给我什么建议吗？ 有没有产品或公司在硬件商业环境中成功平衡开源软件生态系统的例子？    提交人    /u/WEkigai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iecdmy/which_opensource_modelapproach_is_right_for_me/</guid>
-      <pubDate>Fri, 31 Jan 2025 11:06:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
