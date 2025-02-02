@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 02 Feb 2025 12:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 15:13:24 GMT</lastBuildDate>
+    <item>
+      <title>自动将 TikTok 帖子发布到所有社交渠道</title>
+      <link>https://www.reddit.com/r/automation/comments/1ifx67k/automate_tiktok_posts_to_all_social_channels/</link>
+      <description><![CDATA[      嘿，我一直在想一个机器人可以自动将我的抖音内容发布到不同的社交视频网络，如“youtube”或“instagram”。所以我为此构建了一个 n8n 工作流程。它看起来是这样的：  https://preview.redd.it/65zb8q8q8qge1.png?width=1671&amp;format=png&amp;auto=webp&amp;s=2b07549897f826751c8a5c436a77bdea05bf7e4e 老实说，乍一看太复杂了…… 但它的工作原理是这样的：  检测新的 TikTok 视频（使用  检查此视频 ID 是否之前发布过  如果没有发布 - 自动下载（RapidAPI）   如果需要，重新格式化内容（删除水印，裁剪，调整比例）  将视频发布到队列中的不同平台 向每个平台发送电报通知，以便我查看结果  你怎么看？    提交人    /u/AutomationLikeCrazy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ifx67k/automate_tiktok_posts_to_all_social_channels/</guid>
+      <pubDate>Sun, 02 Feb 2025 13:26:03 GMT</pubDate>
+    </item>
     <item>
       <title>如何实现 X/Twitter 赠品参与自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1ifu5gr/how_to_automate_xtwitter_giveaway_participation/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>自动化创建书面内容</title>
       <link>https://www.reddit.com/r/automation/comments/1ieczjf/automation_to_create_written_content/</link>
-      <description><![CDATA[有没有人已经构建了 LinkedIn/博客/写作自动化？  我想象它在 Make 场景中通过表单或 AirTable 行进行输入。 该数据经过 AI 输出的是书面形式的帖子。  棘手的部分是这种内容的质量。我听说其他人有一个主文档/工作表，其中包含其他用户的成功帖子，以提供有关优秀写作的内容。然后，还有一个关于您自己的故事库，因此 AI 可以将您的个性交织在一起。 有人成功创建过这样的东西吗？或者有关于如何配置 AI 的指导吗？    提交人    /u/Curious_Irish   [链接] [评论]]]></description>
+      <description><![CDATA[有没有人已经建立了 LinkedIn/博客/写作自动化？  我想象它在 Make 场景中通过表单或 AirTable 行进行输入。 该数据经过 AI 输出的是书面形式的帖子。  棘手的部分是这种内容的质量。我听说其他人有一个主文档/工作表，其中包含其他用户的成功帖子，以提供有关优秀写作的内容。然后，还有一个关于您自己的故事库，因此 AI 可以将您的个性交织在一起。 有人成功创建过这样的东西吗？或者有关于如何配置 AI 的指导吗？    提交人    /u/Curious_Irish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ieczjf/automation_to_create_written_content/</guid>
       <pubDate>Fri, 31 Jan 2025 11:47:56 GMT</pubDate>
     </item>
@@ -97,14 +104,7 @@
       <pubDate>Fri, 31 Jan 2025 08:50:06 GMT</pubDate>
     </item>
     <item>
-      <title>用人工智能简化你的世界：扫描、总结、征服</title>
-      <link>https://www.reddit.com/r/automation/comments/1ie9h3b/simplify_your_world_with_ai_scan_summarize_and/</link>
-      <description><![CDATA[刚刚使用最新的 AI 模型完成了一个应用程序。 https://apps.apple.com/us/app/insightsscan/id6740463241 我断断续续地从事 iOS 开发大约有四年了。发布了一些应用程序，包括游戏、音乐播放器和工具。这是我在开发过程中感到最兴奋的应用程序。 这是一款使用手机本地运行的 AI 来解释和总结图像中的文本的应用程序。无需互联网。一切都保留在您的设备上。超级安全。您可以使用相机实时捕捉图像，或从照片中选择。 我自己尝试了很多次，扫描我的邮件，购物时扫描商品标签。它非常有趣。 我希望它能为人们提供一些价值，让生活变得更轻松。 请尝试一下，然后告诉我你的想法。    提交人    /u/WeddingWest6062   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ie9h3b/simplify_your_world_with_ai_scan_summarize_and/</guid>
-      <pubDate>Fri, 31 Jan 2025 07:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Operator 的 4 个免费浏览器自动化替代品</title>
+      <title>OpenAI Operator 的 4 个免费替代方案，用于浏览器自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1idv075/4_free_alternatives_to_openais_operator_for/</link>
       <description><![CDATA[Browser by CognosysAI - 免费的开源操作员正在开发中，但现在可以尝试。 Browser Use - YC 支持的 AI 网络操作员，除了专业版（30 美元/月）外，还提供免费和开源层 Smooth Operator - 免费的基于网络和本地操作员，不仅可以控制浏览器，还可以控制整个计算机。 Open Operator - Browserbase 开发的 OpenAI 操作员代理的开源和免费替代品    提交人    /u/DavidCBlack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1idv075/4_free_alternatives_to_openais_operator_for/</guid>
