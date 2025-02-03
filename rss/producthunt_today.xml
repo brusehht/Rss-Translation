@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Feb 2025 15:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 18:19:24 GMT</lastBuildDate>
     <item>
       <title>Webrew</title>
       <link>https://www.producthunt.com/posts/webrew</link>
@@ -90,6 +90,20 @@ AI 代理通过电子邮件收集每日团队更新
       <pubDate>Sat, 01 Feb 2025 18:25:49 GMT</pubDate>
     </item>
     <item>
+      <title>苏帕德克斯</title>
+      <link>https://www.producthunt.com/posts/supadex</link>
+      <description><![CDATA[
+Supabase 仪表板，您的数据就在您的口袋中
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/supadex</guid>
+      <pubDate>Sat, 01 Feb 2025 14:57:38 GMT</pubDate>
+    </item>
+    <item>
       <title>Pullpo 调查</title>
       <link>https://www.producthunt.com/posts/pullpo-surveys</link>
       <description><![CDATA[
@@ -118,7 +132,7 @@ DevEx 调查，正确完成
       <pubDate>Fri, 31 Jan 2025 21:01:38 GMT</pubDate>
     </item>
     <item>
-      <title>云保护 2.0</title>
+      <title>天文2.0</title>
       <link>https://www.producthunt.com/posts/skyvern-2-0</link>
       <description><![CDATA[
 用简单的英语构建 AI 浏览器代理
@@ -130,20 +144,6 @@ DevEx 调查，正确完成
 ]]></description>
       <guid>https://www.producthunt.com/posts/skyvern-2-0</guid>
       <pubDate>Thu, 30 Jan 2025 21:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作 2.0</title>
-      <link>https://www.producthunt.com/posts/atwork-2-0</link>
-      <description><![CDATA[
-您的工作操作系统，由 AI 增强
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/atwork-2-0</guid>
-      <pubDate>Thu, 30 Jan 2025 08:29:04 GMT</pubDate>
     </item>
     <item>
       <title>她是</title>
@@ -202,18 +202,18 @@ DevEx 调查，正确完成
       <pubDate>Tue, 07 Jan 2025 10:42:04 GMT</pubDate>
     </item>
     <item>
-      <title>皮莫萨</title>
-      <link>https://www.producthunt.com/posts/pimosa</link>
+      <title>ProductHunt 混沌模拟器</title>
+      <link>https://www.producthunt.com/posts/producthunt-chaos-simulator</link>
       <description><![CDATA[
-一款应用中的简单视频、照片和音乐编辑工具
+看看您的 Product Hunt 发布日可能会发生什么
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/pimosa</guid>
-      <pubDate>Mon, 02 Dec 2024 06:57:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/producthunt-chaos-simulator</guid>
+      <pubDate>Sun, 22 Dec 2024 21:36:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
