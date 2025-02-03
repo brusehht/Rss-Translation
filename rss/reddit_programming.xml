@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 02 Feb 2025 21:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 01:04:26 GMT</lastBuildDate>
+    <item>
+      <title>适用于 Apple Silicon 上的 MacOS 和 Linux VM 的 OSS 轻量级 CLI</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig9hik/oss_lightweight_cli_for_macos_linux_vms_on_apple/</link>
+      <description><![CDATA[  由    /u/sandropuppo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig9hik/oss_lightweight_cli_for_macos_linux_vms_on_apple/</guid>
+      <pubDate>Sun, 02 Feb 2025 22:22:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>缺少跨平台的定时器操作系统 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig9a91/the_missing_crossplatform_os_api_for_timers/</link>
+      <description><![CDATA[  由    /u/broken_broken_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig9a91/the_missing_crossplatform_os_api_for_timers/</guid>
+      <pubDate>Sun, 02 Feb 2025 22:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>将程序存储在 URL 中</title>
+      <link>https://www.reddit.com/r/programming/comments/1ig8s0n/storing_a_program_within_a_url/</link>
+      <description><![CDATA[  由    /u/fudgem  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ig8s0n/storing_a_program_within_a_url/</guid>
+      <pubDate>Sun, 02 Feb 2025 21:51:47 GMT</pubDate>
+    </item>
     <item>
       <title>使用 C 和被动动态控制环路算法，利用模拟的波士顿动力 Atlas 机器人生成模拟步行</title>
       <link>https://www.reddit.com/r/programming/comments/1ig7sf0/generating_a_simulated_walk_using_a_simulated/</link>
@@ -25,27 +46,6 @@
       <description><![CDATA[  由    /u/_n0rdy_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</guid>
       <pubDate>Sun, 02 Feb 2025 19:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>强大的 3D Java 寻路库。寻求反馈！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ig4z9p/a_powerful_3d_java_pathfinding_library_looking/</link>
-      <description><![CDATA[  由    /u/YogurtclosetLimp7351  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ig4z9p/a_powerful_3d_java_pathfinding_library_looking/</guid>
-      <pubDate>Sun, 02 Feb 2025 19:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的旧 hackathon + 个人项目制作了一个 GitHub README 生成器！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ig4q23/made_a_github_readme_generator_for_my_old/</link>
-      <description><![CDATA[  由    /u/YanYanTheEpic  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ig4q23/made_a_github_readme_generator_for_my_old/</guid>
-      <pubDate>Sun, 02 Feb 2025 19:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有好用的 Block Code 插件？免费，外观和感觉都像 ROBLOX 的 Scratch。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ig4eh6/is_there_a_good_block_code_plugin_that_is_free/</link>
-      <description><![CDATA[  由    /u/Easy-Calligrapher804  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ig4eh6/is_there_a_good_block_code_plugin_that_is_free/</guid>
-      <pubDate>Sun, 02 Feb 2025 18:50:00 GMT</pubDate>
     </item>
     <item>
       <title>借助 Java 中的 Teeing 收集器，使用 Streams 同步处理数据</title>
@@ -85,7 +85,7 @@
     <item>
       <title>Thepond.net</title>
       <link>https://www.reddit.com/r/programming/comments/1ig0clw/thepondnet/</link>
-      <description><![CDATA[大家好，我想做一个青蛙主题的网站，它会卖我在亚马逊上找到的青蛙衬衫。主页的背景是《时之笛》中的池塘，标题主题在背景中播放。另外，我想有一只青蛙🐸，你按下它，它会带你进入隐藏的标签，在那里玩 Geoguessr，但视频游戏中是青蛙。你们建议用什么程序来做这个，比如他们用 neal.fun 就可以了。    提交人    /u/hdjxhddj   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我想做一个青蛙主题的网站，它会卖我在亚马逊上找到的青蛙衬衫。主页的背景是《时之笛》中的池塘，标题主题在背景中播放。另外，我想有一只青蛙🐸你按下它会带你到隐藏的标签，在那里玩 Geoguessr，但视频游戏中是青蛙。你们都建议用什么程序来做这个，比如他们用 neal.fun 就可以了。    提交人    /u/hdjxhddj   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig0clw/thepondnet/</guid>
       <pubDate>Sun, 02 Feb 2025 16:00:45 GMT</pubDate>
     </item>
