@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 15:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:19:32 GMT</lastBuildDate>
+    <item>
+      <title>新的 Python 项目：使用 SMTP 发送电子邮件！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</link>
+      <description><![CDATA[我刚刚向我的 GitHub 存储库：My-PyNakama 添加了一个新项目，我在这里探索各种 Python 项目。这次，我构建了一个 Python 脚本，用于使用 smtplib 和 email 模块发送电子邮件！ 📩 🔹 特点： ✅ 使用 smtplib 安全地发送电子邮件 ✅ 支持 .env 文件以安全地存储凭据 ✅ 包含详细的 README.md，逐步解释代码 ✅ 非常适合在 Python 中自动执行电子邮件任务 如果您对电子邮件自动化感兴趣或只是想探索代码，请在此处查看： 🔗 GitHub Repo： https://github.com/abhinandan2540/My-PyNakama 很乐意听到您的想法、建议或改进！ 🚀 #Python #SMTP #EmailAutomation #GitHub #Coding #MyPyNakama #OpenSource #Automation    由   提交  /u/Hour-Echo-9680   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</guid>
+      <pubDate>Wed, 05 Feb 2025 17:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个电子邮件清理开源应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</link>
+      <description><![CDATA[我加入这个开源社区已经很久了，终于创建了自己的开源项目。目前有一些商业电子邮件清理应用程序，但没有开源替代品。因此，我使用 Flutter 和 Gmail API 开发了一个开源 Android 应用程序 (Confygre Email)，只需单击一下即可取消订阅和删除电子邮件。它仍处于早期阶段，我计划在未来添加更多功能。我很乐意听到您的建议和反馈！  Confygre Email GitHub Repo：https://github.com/confygregit/ConfygreEmail    提交人    /u/7adash1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</guid>
+      <pubDate>Wed, 05 Feb 2025 16:58:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个可以播放 Spotify、bandcamp 和 YouTube 的东西</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iie85a/i_need_something_that_can_play_spotify_bandcamp/</link>
+      <description><![CDATA[最好在移动设备和桌面上都使用！！ 谢谢    由   提交  /u/LargeQT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iie85a/i_need_something_that_can_play_spotify_bandcamp/</guid>
+      <pubDate>Wed, 05 Feb 2025 16:37:13 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个现代、开源、无代码、开发人员友好的产品游览构建器，它可以替代 Intro.js、Shepherd.js 和 Driver.js，并具有更先进、更易于管理的功能。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iic3kx/i_built_a_modern_opensource_nocode/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我想要一个布局软件来制作易于编辑的平面图，并且可以与他人分享。有什么想法吗？ 我们有两个不同的楼层，有多个房间和架子，我希望能够规划什么放在哪里。    提交人    /u/Unique_Feed_2939   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihuh7b/looking_for_an_open_source_floor_plan_and/</guid>
       <pubDate>Tue, 04 Feb 2025 22:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软实施 CoPilot，Deepseek 摧毁闭源竞争，人们因为马斯克关闭 subreddit 而转向 Lemmy。今年是开源之年吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihufcs/microsoft_implementing_copilot_deepseek/</link>
-      <description><![CDATA[由于行业内外发生的许多事情，我越来越倾向于开源软件，而且随着时间的推移，这样做的理由似乎越来越多。我只是想知道是否有人正在做/注意到同样的事情。   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihufcs/microsoft_implementing_copilot_deepseek/</guid>
-      <pubDate>Tue, 04 Feb 2025 22:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有开源的欧洲 AI 聊天机器人替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</link>
-      <description><![CDATA[嗨， 就像标题所说，我正在寻找一个开源欧洲 AI 聊天机器人替代品。 我找到了 Mistral AI 和 Aleph Alpha，但它们不方便用户使用，需要技术知识。我正在寻找一个可以与浏览器一起使用的用户友好的聊天机器人。 谢谢！    提交人    /u/Super_Ad1989   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</guid>
-      <pubDate>Tue, 04 Feb 2025 20:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将以何种方式创建开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihqki6/in_which_way_you_will_create_an_open_source/</link>
-      <description><![CDATA[大家好，我有一个关于组织家庭遗产的平台的想法，但我不知道如何创建路线图并吸引想要参与并为创建这种想法做出贡献的人。 在我祖母去世后，我产生了这种需求，我担心我的孩子永远不会认识她，而且永远不会真正听到她的声音和她的故事。当然，今天你可以拍摄和录制一切，但问题是，组织所有这些对于某些人来说可能很乏味，甚至令人困惑，因为他们并不总是知道如何传输这些拍摄和组织视频编辑。因此，我产生了创建一个用户友好界面的想法，其中包括人工智能，它将指导提问的过程，以便轻松记录传递我们消失的记忆的人的叙述和个人故事。 如果有人可以分享一些技巧和经验，那就太好了。   由    /u/Yukhei-slider  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihqki6/in_which_way_you_will_create_an_open_source/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:47:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
