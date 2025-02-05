@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 09:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 12:27:46 GMT</lastBuildDate>
+    <item>
+      <title>有人告诉我应该在这里问这个问题 :D 谢谢！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ii7t9u/ive_been_told_to_ask_this_here_instead_d_ty/</link>
+      <description><![CDATA[  由    /u/stupidtwitchthotss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ii7t9u/ive_been_told_to_ask_this_here_instead_d_ty/</guid>
+      <pubDate>Wed, 05 Feb 2025 11:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - mayswind/ezbookkeeping：一款由您自己托管的轻量级个人簿记应用程序。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ii6i22/github_mayswindezbookkeeping_a_lightweight/</link>
+      <description><![CDATA[       由    /u/artegoser  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ii6i22/github_mayswindezbookkeeping_a_lightweight/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:43:03 GMT</pubDate>
+    </item>
     <item>
       <title>Memobase 介绍：可扩展、以用户为中心的 AI 应用长期记忆</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii5st0/introducing_memobase_scalable_usercentric/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>制作了开源 Phone Link / KDE Con​​nect 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii558k/made_an_opensource_phone_link_kde_connect/</link>
-      <description><![CDATA[开发了一段时间，终于发布了。 概述： 这几乎是手机链接和 KDE 连接的混合体，我想兼得两者的优点。特别是 Ui，我想要 WinUi，学习它经历了很多麻烦，然后对于 Android 应用程序，它是用 Kotlin 和 Material 3 UI 制作的。至于功能，目前它支持：  剪贴板共享：虽然 Android 和 Windows 之间可能并不总是有效，但可以双向工作。 媒体控制：从 Android 控制 PC 的媒体播放和音量。 文件共享 通知 镜像 存储集成：直接将您的 Android 存储集成到 Windows 资源管理器中，就像 Phone Link 一样。  为什么要这样做？首先，并非每部 Android 手机都提供 Phone Link 的所有功能；其次，现有的解决方案在某些情况下可能有些不可靠。另外，我想要一些更适合我的工作流程的东西。 无论如何，我希望它有所帮助。 链接： Windows 应用程序 - Github，Store Android 应用程序 - Github    提交人    /u/pensiveking   [链接] [评论]]]></description>
+      <description><![CDATA[开发了一段时间，终于发布了。 概述： 这几乎是手机链接和 KDE 连接的混合体，我想兼具两者的优点。特别是 Ui，我想要 WinUi，并经历了很多学习困难，然后对于 Android 应用程序，它是使用 Kotlin 和 Material 3 UI 制作的。至于功能，目前它支持：  剪贴板共享：虽然 Android 和 Windows 之间可能并不总是有效，但可以双向工作。 媒体控制：从 Android 控制 PC 的媒体播放和音量。 文件共享 通知 镜像 存储集成：直接将您的 Android 存储集成到 Windows 资源管理器中，就像 Phone Link 一样。  为什么要这样做？首先，并非每部 Android 手机都提供 Phone Link 的所有功能；其次，现有的解决方案在某些情况下可能有些不可靠。另外，我想要一些更适合我的工作流程的东西。 无论如何，我希望它有所帮助。 链接： Windows 应用程序 - Github，Store Android 应用程序 - Github    提交人    /u/pensiveking   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii558k/made_an_opensource_phone_link_kde_connect/</guid>
       <pubDate>Wed, 05 Feb 2025 07:58:28 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Tue, 04 Feb 2025 22:25:47 GMT</pubDate>
     </item>
     <item>
-      <title>有没有开源的欧洲人工智能聊天机器人替代品？</title>
+      <title>有没有开源的欧洲 AI 聊天机器人替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</link>
       <description><![CDATA[嗨， 就像标题所说，我正在寻找一个开源欧洲 AI 聊天机器人替代品。 我找到了 Mistral AI 和 Aleph Alpha，但它们不方便用户使用，需要技术知识。我正在寻找一个可以与浏览器一起使用的用户友好的聊天机器人。 谢谢！    提交人    /u/Super_Ad1989   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[🐳 基于 Docker 镜像的代码游乐场，具有 Google gVisor 隔离。可通过 API 进行扩展和自定义。 https://github.com/codiewio/codenire    由   提交  /u/Halabooda   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihnm9w/code_playground_based_on_docker_and_gvisor/</guid>
       <pubDate>Tue, 04 Feb 2025 17:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tach——一个用于强制依赖关系的 Python 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihl6bn/tach_a_python_tool_to_enforce_dependencies/</link>
-      <description><![CDATA[来源：https://github.com/gauge-sh/tach Python 允许您在任何地方导入和使用任何内容。随着时间的推移，这会导致原本应该分开的模块紧密耦合在一起，领域界限被打破。 我们在一家独角兽初创公司亲身经历了这种情况，整个工程团队暂停了一年多的开发，试图将紧密耦合的包拆分为独立的微服务。最终失败了，并导致 CTO 被解雇。 出现此问题的原因是：  向现有包中添加内容比创建新包要容易得多 初级开发人员对现有架构的了解有限 外部压力导致走捷径并忽视最佳实践  我们看到的解决此问题的尝试总是以失败告终。各种解决方案会尝试从不同角度解决此问题，例如开发人员教育、CODEOWNER、标准指南、重构等。但是，这些都不能解决根本原因。 我的项目的作用 使用 Tach，您可以：  声明您的模块 (tach mod) 自动声明依赖项 (tach sync) 强制执行这些依赖项 (tach check) 可视化这些依赖项 (tach show 和 tach report)  您还可以为每个模块强制执行公共接口，并随着时间的推移弃用依赖项。 如果您在您的项目中尝试它，我会很高兴，如果您觉得它有用请告诉我！    提交人    /u/the1024   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihl6bn/tach_a_python_tool_to_enforce_dependencies/</guid>
-      <pubDate>Tue, 04 Feb 2025 16:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS 水净化、结构和卫生设施（离网社区）📖💧🏠🚾🌱</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihl5pn/foss_water_purification_structures_and_sanitation/</link>
-      <description><![CDATA[    /u/maltfield  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihl5pn/foss_water_purification_structures_and_sanitation/</guid>
-      <pubDate>Tue, 04 Feb 2025 16:08:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

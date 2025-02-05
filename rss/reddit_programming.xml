@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 05 Feb 2025 09:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 12:27:22 GMT</lastBuildDate>
+    <item>
+      <title>宣布发布 LLM 1.0.7 版 – 统一 API 和提示链</title>
+      <link>https://www.reddit.com/r/programming/comments/1ii8naw/announcing_release_107_of_llm_unified_api_and/</link>
+      <description><![CDATA[  由    /u/graniet75  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ii8naw/announcing_release_107_of_llm_unified_api_and/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:16:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型应用模板</title>
+      <link>https://www.reddit.com/r/programming/comments/1ii7cpf/large_application_template/</link>
+      <description><![CDATA[  由    /u/mglowinski93  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ii7cpf/large_application_template/</guid>
+      <pubDate>Wed, 05 Feb 2025 10:48:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>CheerpJ 3.1：WebAssembly 中的 JVM 以及我们在浏览器中的现代 Java 路线图</title>
+      <link>https://www.reddit.com/r/programming/comments/1ii78c9/cheerpj_31_jvm_in_webassembly_and_our_roadmap_for/</link>
+      <description><![CDATA[  由    /u/alexp_lt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ii78c9/cheerpj_31_jvm_in_webassembly_and_our_roadmap_for/</guid>
+      <pubDate>Wed, 05 Feb 2025 10:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑到 DSA 的 OpenGL 对象的 C++ 库（文档即将推出）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ii6lws/c_library_for_opengl_objects_with_dsa_in_mind/</link>
+      <description><![CDATA[  由    /u/JustNewAroundThere  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ii6lws/c_library_for_opengl_objects_with_dsa_in_mind/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:51:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动创意软件（保密/竞业禁止协议）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ii664u/automatic_idea_software_nondisclosurenoncompete/</link>
+      <description><![CDATA[  由    /u/GenoBambino12345  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ii664u/automatic_idea_software_nondisclosurenoncompete/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:16:54 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Pydantic A 构建可靠的 LLM 代理</title>
       <link>https://www.reddit.com/r/programming/comments/1ii5x9o/building_reliable_llm_agents_with_pydantic_a/</link>
@@ -29,7 +64,7 @@
     <item>
       <title>Linux 内核调整可将数据中心用电量减少高达 30% 🔌</title>
       <link>https://www.reddit.com/r/programming/comments/1ii4kz7/linux_kernel_tweak_could_cut_data_center_power/</link>
-      <description><![CDATA[加拿大滑铁卢大学的研究人员开发了一种改进 Linux 处理网络流量的方式，可以使数据中心应用程序运行得更高效，同时节省能源。 滑铁卢大学教授 Martin Karsten 和 Fastly 杰出工程师 Joe Damato 开发了这段代码 — 大约 30 行。它基于 Karsten 和研究生 Peter Cai 撰写的 2023 年论文中描述的研究，该论文研究了内核与用户级网络，并确定一个小小的改变不仅可以提高应用程序效率，还可以将数据中心的功耗降低多达 30%。 新代码已被接受并添加到 Linux 内核 6.13 版中。它添加了一个新的 NAPI 配置参数 irq_suspend_timeout，以帮助在使用 IRQ 延迟和 napi 忙轮询时平衡 CPU 使用率和网络处理效率。这样它就可以根据网络流量自动在两种向应用程序传递数据的模式（轮询和中断驱动）之间切换，以最大限度地提高效率。 在轮询模式下，应用程序请求数据、处理数据，然后请求更多数据，如此循环往复。在中断驱动模式下，应用程序处于休眠状态，节省能源和资源，直到网络流量到达，然后唤醒并处理。 文章在链接内继续。欢迎在下面发表评论。 参考论文：https://dl.acm.org/doi/10.1145/3626780    提交人    /u/Choobeen   [链接] [评论]]]></description>
+      <description><![CDATA[加拿大滑铁卢大学的研究人员开发了一种改进 Linux 处理网络流量的方式，可以使数据中心应用程序运行得更高效，同时节省能源。 滑铁卢大学教授 Martin Karsten 和 Fastly 杰出工程师 Joe Damato 开发了这段代码 — 大约 30 行。它基于 Karsten 和研究生 Peter Cai 撰写的 2023 年论文中描述的研究，该论文研究了内核与用户级网络，并确定一个小小的改变不仅可以提高应用程序效率，还可以将数据中心的功耗降低高达 30%。 新代码已被接受并添加到 Linux 内核 6.13 版中。它添加了一个新的 NAPI 配置参数 irq_suspend_timeout，以帮助在使用 IRQ 延迟和 napi 忙轮询时平衡 CPU 使用率和网络处理效率。这样它就可以根据网络流量自动在两种向应用程序传递数据的模式（轮询和中断驱动）之间切换，以最大限度地提高效率。 在轮询模式下，应用程序请求数据、处理数据，然后请求更多数据，如此循环往复。在中断驱动模式下，应用程序处于休眠状态，节省能源和资源，直到网络流量到达，然后唤醒并处理。 文章在链接内继续。欢迎在下面发表评论。 参考论文：https://dl.acm.org/doi/10.1145/3626780    提交人    /u/Choobeen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ii4kz7/linux_kernel_tweak_could_cut_data_center_power/</guid>
       <pubDate>Wed, 05 Feb 2025 07:16:14 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iht3we/bringing_a_deepseek_r1_langgraph_agent_into_the/</guid>
       <pubDate>Tue, 04 Feb 2025 21:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unicode 17.0 Alpha 版评审开放，征求反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihrpen/unicode_170_alpha_review_opens_for_feedback/</link>
-      <description><![CDATA[  由    /u/PthariensFlame  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihrpen/unicode_170_alpha_review_opens_for_feedback/</guid>
-      <pubDate>Tue, 04 Feb 2025 20:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>硬核调试</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihq1vz/hardcore_debugging/</link>
-      <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihq1vz/hardcore_debugging/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>小型团队需要 PaaS-Ops，而不是 DevOps</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihpfdn/small_teams_need_paasops_not_devops/</link>
-      <description><![CDATA[  由    /u/jonsully  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihpfdn/small_teams_need_paasops_not_devops/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS scrollbar-color 和 scrollbar-gutter 是 Baseline 新增功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihonzo/css_scrollbarcolor_and_scrollbargutter_are/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihonzo/css_scrollbarcolor_and_scrollbargutter_are/</guid>
-      <pubDate>Tue, 04 Feb 2025 18:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>逃离类型检查器，一种实现</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihokl4/escaping_the_typechecker_an_implementation/</link>
-      <description><![CDATA[  由    /u/thunderseethe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihokl4/escaping_the_typechecker_an_implementation/</guid>
-      <pubDate>Tue, 04 Feb 2025 18:26:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
