@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 21:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 01:05:04 GMT</lastBuildDate>
+    <item>
+      <title>Transformer Lab：一种用于本地训练、推理和所有 LLM 的开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iinixq/transformer_lab_an_opensource_alternative_to/</link>
+      <description><![CDATA[https://github.com/transformerlab/transformerlab-app    由   提交  /u/Firm-Development1953   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iinixq/transformer_lab_an_opensource_alternative_to/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:57:08 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个开源 LeetCode/Codeforces 克隆。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iikjgi/i_made_an_opensource_leetcodecodeforces_clone/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[你好。我想加密一个文件以存储在云中。我是 CLI 新手，有人告诉我 GnuPG 是我最好的选择。我问了 AI，到目前为止，这是我得到的命令： gpg -c --armor --cipher-algo AES256 --no-symkey-cache --output cryptographic-file.asc original-file.txt  解密： gpg -d filename.gpg  有人能告诉我我做的是否正确吗？ 1-使用 GnuPG 加密在云中长期存储是否安全？ 2-我如何确认加密是安全的？ 3-GnuPG 是否比仅使用 .7z AES-256 密码加密更好？如果都一样，那么使用 PeaZip 可能更容易。 任何额外的指导都非常感谢。我最不想做的就是上传我的文件并让恶意行为者暴露它们    提交人    /u/floatontherainbowtw   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iihpp0/am_i_using_gnupg_correct/</guid>
       <pubDate>Wed, 05 Feb 2025 18:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>ArxivTok – TikTok 风格的界面，用于浏览 ArXiv 论文</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iih37p/arxivtok_tiktokstyle_interface_for_browsing_arxiv/</link>
-      <description><![CDATA[       由    /u/Miguel07Alm  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iih37p/arxivtok_tiktokstyle_interface_for_browsing_arxiv/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:33:31 GMT</pubDate>
     </item>
     <item>
       <title>Sage：开源且自托管的语音聊天系统，提供法学硕士课程</title>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 05 Feb 2025 15:08:44 GMT</pubDate>
     </item>
     <item>
-      <title>候补名单 API：开源、可立即使用的 API，用于从候补名单、新闻通讯表格等中收集电子邮件。</title>
+      <title>候补名单 API：开源、随时可用的 API，用于从候补名单、新闻通讯表格等收集电子邮件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</link>
       <description><![CDATA[大家好， 我制作了一个开源的、随时可用的候补名单 API，用于收集候补名单、新闻稿表格等中的电子邮件。 它是自托管的，并且可以使用 Cloudflare Turnstile 保护输入。 查看它：https://github.com/realchandan/waitlist-api 另外，查看此演示：https://youtu.be/z5GFT6DbIzQ    提交人    /u/freewheel1466   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>制作了开源 Phone Link / KDE Con​​nect 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii558k/made_an_opensource_phone_link_kde_connect/</link>
-      <description><![CDATA[开发了一段时间，终于发布了。 概述： 这几乎是手机链接和 KDE 连接的混合体，我想兼具两者的优点。特别是 Ui，我想要 WinUi，并经历了很多学习困难，然后对于 Android 应用程序，它是使用 Kotlin 和 Material 3 UI 制作的。至于功能，目前它支持：  剪贴板共享：虽然 Android 和 Windows 之间可能并不总是有效，但可以双向工作。 媒体控制：从 Android 控制 PC 的媒体播放和音量。 文件共享 通知 镜像 存储集成：直接将您的 Android 存储集成到 Windows 资源管理器中，就像 Phone Link 一样。  为什么要这样做？首先，并非每部 Android 手机都提供 Phone Link 的所有功能；其次，现有的解决方案在某些情况下可能有些不可靠。另外，我想要一些更适合我的工作流程的东西。 无论如何，我希望它有所帮助。 链接： Windows 应用程序 - Github，Store Android 应用程序 - Github    提交人    /u/pensiveking   [链接] [评论]]]></description>
+      <description><![CDATA[开发了一段时间，终于发布了。 概述： 这几乎是手机链接和 KDE 连接的混合体，我想兼具两者的优点。特别是 Ui，我想要 WinUi，学习它时遇到了很多麻烦，然后对于 Android 应用程序，它是使用 Kotlin 和 Material 3 UI 制作的。至于功能，目前它支持：  剪贴板共享：虽然 Android 和 Windows 之间可能并不总是有效，但可以双向工作。 媒体控制：从 Android 控制 PC 的媒体播放和音量。 文件共享 通知 镜像 存储集成：直接将您的 Android 存储集成到 Windows 资源管理器中，就像 Phone Link 一样。  为什么要这样做？首先，并非每部 Android 手机都提供 Phone Link 的所有功能；其次，现有的解决方案在某些情况下可能有些不可靠。另外，我想要一些更适合我的工作流程的东西。 无论如何，我希望它有所帮助。 链接： Windows 应用程序 - Github，Store Android 应用程序 - Github    提交人    /u/pensiveking   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii558k/made_an_opensource_phone_link_kde_connect/</guid>
       <pubDate>Wed, 05 Feb 2025 07:58:28 GMT</pubDate>
     </item>
