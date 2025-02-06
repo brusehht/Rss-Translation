@@ -4,12 +4,12 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 06 Feb 2025 15:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 18:18:46 GMT</lastBuildDate>
     <item>
       <title>我开发了一款可以提高博客参与度的应用程序，现在我需要测试人员和反馈</title>
       <link>https://feed.indiehackers.world/post/3f6214dd12</link>
-      <description><![CDATA[如果您感兴趣，请发表评论或发送电子邮件至neven@boostbuddy.io，我会与您分享该应用。
-附注：作为次要目标，我对推荐很感兴趣新闻、博客甚至电子商务网站都对 AI 生成的摘要感兴趣，我可以联系他们。
+      <description><![CDATA[如果您感兴趣，请发表评论或发送电子邮件至neven@boostbuddy.io，我会与您分享该应用程序。
+附注：作为次要目标，我感兴趣在新闻、博客甚至电子商务网站的推荐中，他们可能会对 AI 生成的摘要感兴趣，以便我可以联系他们。
 非常感谢！
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3f6214dd12</guid>
@@ -70,7 +70,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Mon, 27 Jan 2025 03:44:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用 esProc 对文件执行 SQL 非常方便，与 duckDB 相当</title>
+      <title>使用esProc对文件进行SQL操作非常方便，与duckDB相当</title>
       <link>https://feed.indiehackers.world/post/eaf6a8e857</link>
       <description><![CDATA[$select * from {json(httpfile(&quot;http://127.0.0.1:6868/api/getData&quot;).read())}
 where Amount&gt;=100
