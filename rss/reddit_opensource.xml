@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 06 Feb 2025 03:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 06:20:44 GMT</lastBuildDate>
+    <item>
+      <title>WeTube：轻量级的 YouTube 体验客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iivmwj/wetube_the_lightweight_youtube_experience_client/</link>
+      <description><![CDATA[        提交人    /u/Mountain_Expert_2652   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iivmwj/wetube_the_lightweight_youtube_experience_client/</guid>
+      <pubDate>Thu, 06 Feb 2025 05:48:30 GMT</pubDate>
+    </item>
     <item>
       <title>Spring Boot 开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1iiskvt/spring_boot_open_source_projects/</link>
       <description><![CDATA[大家好，能推荐一些好的 Spring Boot 开源项目吗？ 我试图找一些，但找不到任何大型组织来贡献。 谢谢。    提交人    /u/Reasonable-Tour-9719   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iiskvt/spring_boot_open_source_projects/</guid>
       <pubDate>Thu, 06 Feb 2025 02:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>启示录</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iirzya/apocalypse/</link>
-      <description><![CDATA[      精选的必备书籍和百科全书，涵盖生存、医学、科学、历史、地理等知识，以便在全球灾难发生后保护、重建和繁荣。    提交人    /u/jammenerva   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iirzya/apocalypse/</guid>
-      <pubDate>Thu, 06 Feb 2025 02:28:16 GMT</pubDate>
     </item>
     <item>
       <title>Typeconf v0.2.8：简化使用，现在无需额外软件包即可使用</title>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 05 Feb 2025 15:08:44 GMT</pubDate>
     </item>
     <item>
-      <title>候补名单 API：开源、随时可用的 API，用于从候补名单、新闻通讯表格等收集电子邮件。</title>
+      <title>候补名单 API：开源、可立即使用的 API，用于从候补名单、新闻通讯表格等中收集电子邮件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</link>
       <description><![CDATA[大家好， 我制作了一个开源的、随时可用的候补名单 API，用于收集候补名单、新闻稿表格等中的电子邮件。 它是自托管的，并且可以使用 Cloudflare Turnstile 保护输入。 查看它：https://github.com/realchandan/waitlist-api 另外，查看此演示：https://youtu.be/z5GFT6DbIzQ    提交人    /u/freewheel1466   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</guid>
