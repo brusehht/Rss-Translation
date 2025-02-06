@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 06 Feb 2025 06:20:39 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 06 Feb 2025 12:28:12 GMT</lastBuildDate>
     <item>
-      <title>需要帮助。在 typeORM 中自动化迁移时遇到困难</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiveqn/need_help_got_stuck_on_automating_migrations_in/</link>
-      <description><![CDATA[      所以我对 docker 和 typeORM 还不熟悉。我用我的 express 应用引导了 typeORM。使用 typeORM CLI 生成迁移文件后，如何使用 docker 自动运行迁移？ docker-compose.yml dockerfile   由    /u/Educational-Ad494  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiveqn/need_help_got_stuck_on_automating_migrations_in/</guid>
-      <pubDate>Thu, 06 Feb 2025 05:34:09 GMT</pubDate>
+      <title>如果您的目标网页没有浮动的 3D 对象，它还算现代吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ij1233/if_your_landing_page_doesnt_have_a_3d_object/</link>
+      <description><![CDATA[        提交人    /u/LordSnouts   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ij1233/if_your_landing_page_doesnt_have_a_3d_object/</guid>
+      <pubDate>Thu, 06 Feb 2025 12:09:15 GMT</pubDate>
     </item>
     <item>
-      <title>Blade、Thymeleaf、EJS、Jinja、Razor 等？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiv5eo/blade_vs_thymeleaf_vs_ejs_vs_jinja_vs_razor/</link>
-      <description><![CDATA[就便利性和易用性而言，最好的模板引擎是什么？ 对于 Web 开发、自动化或任何其他用例，您发现什么是最用户友好且最易于集成的？期待听到您的想法！&quot;    提交人    /u/BrownPapaya   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiv5eo/blade_vs_thymeleaf_vs_ejs_vs_jinja_vs_razor/</guid>
-      <pubDate>Thu, 06 Feb 2025 05:18:18 GMT</pubDate>
+      <title>厌倦了手写 Liquid 语法？我们打造了一款不错的可视化编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ij0uqv/sick_of_writing_liquid_syntax_by_hand_weve_built/</link>
+      <description><![CDATA[      编写 Liquid 语法非常麻烦。无休止的花括号、永远无法正常工作的转换以及不断来回检查输出是否完全损坏。 所以......我们决定构建更好的东西：一个可视化编辑器（弹出窗口），让您真正看到自己在做什么。 这是它的功能： - 下拉选择器变量插入（再见 `{{ customer.first_name | capitalize }}`） - 您使用的过滤器的实时预览（不再切换选项卡来检查您的工作） - 真正有意义的内置转换 - 不需要嵌套 if-else 语句的后备（默认）值 https://i.redd.it/ssv3l3p8dihe1.gif 整个要点是让 Liquid 变得不那么痛苦，而无需降到无法处理边缘情况的基本模板。 您仍然可以获得所有功能，只是没有语法问题。 我想知道其他人是否和我一样对手动 Liquid 语法感到厌烦，以及这种方法是否有意义。如果您认为它解决了错误的问题，请将其拆开。    提交人    /u/Sudden_​​Profit_2840   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ij0uqv/sick_of_writing_liquid_syntax_by_hand_weve_built/</guid>
+      <pubDate>Thu, 06 Feb 2025 11:57:05 GMT</pubDate>
     </item>
     <item>
-      <title>如何应对那些不知道自己在做什么的设计师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiushl/how_to_deal_with_designers_who_have_no_clue_of/</link>
-      <description><![CDATA[我正在做一个自由职业项目，他们雇佣了另一位似乎是某家公司实习生的自由设计师（因为除了 DnD 和一点自动布局之外，她甚至不知道如何正确使用 Figma） 她为 2 种布局做了设计，移动设备和笔记本电脑（420px 和 1920px）。它们从远处看起来不错，但存在太多不一致之处，这让我很困扰。那些设计根本没有响应。我不得不花费大量时间在每个断点上检查每个部分是否响应。 有很多问题，你不需要阅读以下段落： 左侧或右侧填充不均匀，例如，左侧填充为 31px，右侧填充为 42px。许多框架的高度或宽度是固定的。没有框架层次结构，例如绝对定位。文本框的固定高度，避免使用行高。较大的间距值不适合较小的屏幕。任意值，例如“34.23” 我确实让她参加了一次会议，并告诉了她行高和填充问题，她确实解决了行高问题，但仅此而已。 我现在该如何处理？我不想听起来很粗鲁，但是见鬼，我很沮丧。  我应该问客户这是否是最终设计，然后我应该直接从 Figma 复制粘贴值吗？最后他们会责怪我没有让他们的网站“响应迅速”。 我应该要求设计师为每个断点进行设计吗？ 我是否应该在设计时随意输入值，因为显然客户并不关心它，他们只是希望他们的网站“看起来不错”？这对我来说是最令人沮丧的选择。     提交人    /u/retardedGeek   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiushl/how_to_deal_with_designers_who_have_no_clue_of/</guid>
-      <pubDate>Thu, 06 Feb 2025 04:57:59 GMT</pubDate>
+      <title>当表单输入不是单个输入字段而是多个字段的组合无效时，指示无效表单输入的正确可访问方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ij0rml/what_is_the_proper_accessible_way_to_indicate/</link>
+      <description><![CDATA[在标准用户名/密码登录页面上，如果用户名或密码不正确，您通常不想报告。这会泄露恶意方可以用来查看他们是否猜出了正确用户名的信息；这通常是注册用户的电子邮件地址。 相反，您显示一个一般错误，例如“用户名或密码不正确”。 但在这种情况下应该设置哪些 ARIA 属性？ 我搜索了很多资源，但我发现的都是关于每个单独字段的验证错误。 我假设，我应该在两个输入字段上设置 aria-invalid=&quot;true&quot;，并且它们都具有相同的 aria-scribeby 指向一般错误消息，我猜应该有 role=&quot;alert&quot;。 但我错了吗？错误应该与表单本身相关联吗？但据我所知，这不是描述的有效用法。    提交人    /u/stroiman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ij0rml/what_is_the_proper_accessible_way_to_indicate/</guid>
+      <pubDate>Thu, 06 Feb 2025 11:51:30 GMT</pubDate>
     </item>
     <item>
-      <title>关于 V0 的思考</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiufii/thoughts_on_v0/</link>
-      <description><![CDATA[对 Vercel V0 有什么看法？ 就我个人而言，它看起来像是一个带有 shadui 组件、提示和拖放编辑器（有点像 elmentor）的模板集合，伪装成纯粹的 AI。需要说明的是，我不认为它是纯粹的人工智能，而是一个精选的模板集合，这些模板基本上是通过 shadui 组件和来自提示的一些 AI 增强功能进行选择然后填充的。我想这有点意思，但我有点担心它会像一个重新设计的工具，或者再次成为一个 WordPress 插件，它会带来比它本身更多的麻烦。就输出而言，在我看来还没有准备好投入生产。    提交人    /u/Orwells_Kaleidoscope   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiufii/thoughts_on_v0/</guid>
-      <pubDate>Thu, 06 Feb 2025 04:37:24 GMT</pubDate>
+      <title>有没有办法根据插入符号在文本区域上的位置自动滚动预览 div？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ij09yq/is_there_a_way_to_scroll_preview_div/</link>
+      <description><![CDATA[        提交人    /u/mekmookbro   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ij09yq/is_there_a_way_to_scroll_preview_div/</guid>
+      <pubDate>Thu, 06 Feb 2025 11:19:04 GMT</pubDate>
     </item>
     <item>
-      <title>创建网站的工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iisn0z/tools_to_create_websites/</link>
-      <description><![CDATA[有人有什么工具建议来创建时尚的现代网站吗？我看到初创公司也有类似的现代设计，我想为我自己创建一个    提交人    /u/rapp17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iisn0z/tools_to_create_websites/</guid>
-      <pubDate>Thu, 06 Feb 2025 03:00:59 GMT</pubDate>
+      <title>最差的 404 页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iizluj/worst_404_page/</link>
+      <description><![CDATA[      https://preview.redd.it/eu89pdcyvhhe1.png?width=3826&amp;format=png&amp;auto=webp&amp;s=4695eeaa6a90b1f9ec0a6cd092b6f76691d20805 没有导航，没有“返回商店”，错误消息表明域错误？！页面返回 404。甚至不需要印记 - 他们位于德国。 Shopware 去年重新推出了他们的插件商店网站，基本上所有旧链接都指向 404。他们甚至懒得重定向。 顺便说一下，该软件的起价为每月 600 欧元。而且您需要一个插件（每月收费）才能使用其他所有电子商务软件或 CMS 所具有的每个基本功能。Shopware 5 的大多数功能在 Shopware 6 发布时被取消。高价格是最大的新功能之一。但那是另一个故事......    提交者    /u/Plus-Marionberry8842   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iizluj/worst_404_page/</guid>
+      <pubDate>Thu, 06 Feb 2025 10:33:34 GMT</pubDate>
     </item>
     <item>
-      <title>有人听说过XGEN.AI 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iisiry/anyone_heard_of_xgenai/</link>
-      <description><![CDATA[我成功与他们进行了现场编码面试。我知道他们位于佛罗里达州，但我得到了加拿大前端开发职位的面试机会。鉴于美国和加拿大的现状，我想与一些可能更了解他们的人再次确认一下。    提交人    /u/code_matter   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iisiry/anyone_heard_of_xgenai/</guid>
-      <pubDate>Thu, 06 Feb 2025 02:55:05 GMT</pubDate>
+      <title>你们都用什么 UI 库？你对初学者有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iizklt/what_ui_libraries_do_you_guys_use_what_do_you/</link>
+      <description><![CDATA[标题。    由   提交  /u/InternalVolcano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iizklt/what_ui_libraries_do_you_guys_use_what_do_you/</guid>
+      <pubDate>Thu, 06 Feb 2025 10:31:10 GMT</pubDate>
     </item>
     <item>
-      <title>评价我的网站 - 首次创业，首次建网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iis1co/rate_my_site_first_time_biz_owner_first_ever/</link>
-      <description><![CDATA[Bitterrootrecycling.com 我之前从未制作过网站，只是想确保 (1) 流程合理，(2) 信息量不会太多，(3) 我们为客户设定了明确的期望，但不会听起来太苛刻。 我很确定一切都正常并且链接正确，但如果这对您来说不适用，请 lmi（如果我的版本链接到正确的旧缓存版本，我可能会遗漏错误）。 谢谢大家！你们是天赐之物😁    提交人    /u/PineCastleAura   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iis1co/rate_my_site_first_time_biz_owner_first_ever/</guid>
-      <pubDate>Thu, 06 Feb 2025 02:30:16 GMT</pubDate>
+      <title>从 After Effects 导出 Lottie 足以用于网络动画吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iizir9/is_exporting_lottie_from_after_effects_enough_for/</link>
+      <description><![CDATA[我是一名动画设计师。我的一个客户发来了这个 Figma 文件，里面是他们即将推出的新网站。他们希望我为他们制作动画，虽然这项工作看起来很可行，但他们说他们希望我导出 Lottie 中的文件，以便开发人员可以重现每个动画。 我们不是在谈论插图/3D 动画，而是在 After Effects 中制作动画的网站本身、文本、框和过渡。 我的问题是：开发人员使用我的 Lottie 动画就足够了吗？他们是否能够使用嵌入在 Lottie 文件中的 CSS、样式和动画关键帧？例如，一些文本过渡将开始变得模糊并变得清晰易读。他们可以将我的 Lottie 文件用于简单的文本吗？ 我以前使用过 Lottie 文件，但只处理过插图/动画元素，而不是整个网站动画。     由    /u/Sergartz 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iizir9/is_exporting_lottie_from_after_effects_enough_for/</guid>
+      <pubDate>Thu, 06 Feb 2025 10:27:34 GMT</pubDate>
     </item>
     <item>
-      <title>你们对 Laravel 的未来有什么看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiq56h/what_do_you_guys_think_about_future_of_laravel/</link>
-      <description><![CDATA[PHP 被认为是 Web 开发人员最讨厌的编程语言，但如今 Laravel 生态系统正在努力扭转局势。随着 Laravel Cloud 和 Nightwatch 即将问世，你们对 laravel 的未来有什么看法？它会变得流行吗？或者至少是中型项目的热门选择之一？ 附注：我知道有些人/团队/组织正在将它用于中型到大型项目。它在自由职业者社区中也很受欢迎，用于单片项目。但我说的是 React 在前端的流行度/使用率    提交人    /u/gamingvortex01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiq56h/what_do_you_guys_think_about_future_of_laravel/</guid>
-      <pubDate>Thu, 06 Feb 2025 00:57:09 GMT</pubDate>
+      <title>移动应用程序，针对不同类型的设备（你会怎么做）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iiz194/mobile_app_target_different_kind_of_devices_how/</link>
+      <description><![CDATA[构建移动应用程序时，如何使用媒体查询定位不同类型的设备（旧设备与新设备）？ 问题：我的应用程序中有一个全高页面（无滚动），用户抱怨有些按钮太小（键盘 0 到 9，每行 3 个键盘按钮），键盘上方是一个显示所有信息的部分。它是一个 2 行网格，第 1 行是信息部分，第 2 行是键盘。 但屏幕上有很多信息，所以我想使用 Firefox 开发人员工具根据高度定位小型设备、中型和大型设备。 但是我找不到“现实的（如果可能）”列表设备。 它不必是像素完美的，但更重要的是它在小、中和高上的外观，这样我就可以显示/隐藏屏幕上不同类型的数据以获得最佳布局。 ChatGTP 给了我这个  小（600px 以下）：较旧的 Android 设备，iPhone SE（568px） 中（600px 到 800px）：大多数当前智能手​​机（例如，iPhone 11、Pixel 5） 大（800px 以上）：平板手机和平板电脑（例如，iPhone 14 Pro Max、iPad Mini）     提交人    /u/Noaber   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iiz194/mobile_app_target_different_kind_of_devices_how/</guid>
+      <pubDate>Thu, 06 Feb 2025 09:53:39 GMT</pubDate>
     </item>
     <item>
-      <title>巴布兹</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiq2ys/bubz/</link>
-      <description><![CDATA[        提交人    /u/_user-name   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiq2ys/bubz/</guid>
-      <pubDate>Thu, 06 Feb 2025 00:54:14 GMT</pubDate>
+      <title>我可以这样使用 Vultr 的块存储吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iiyn9n/can_i_use_vultrs_block_storage_this_way/</link>
+      <description><![CDATA[如果我将生产站点托管在主机 A（例如 DigitalOcean）上，并在主机 B（例如 Vultr，因为价格实惠）上设置开发/备份服务器和临时站点，是否可以使用 Vultr 的块存储进行备份？ 这样的想法是，如果我的主服务器出现任何问题，我可以在维护模式下快速将 DNS 切换到临时站点。 由于 Vultr 的块存储只能连接到同一区域中的实例，我可以将块存储连接到备份服务器（在 Vultr 上），但从生产站点（在主机 A 上）上传备份文件吗？ 我的网站在 NGINX 服务器上运行 - 是否可以使用 wget 之类的命令将文件从生产站点传输到块存储并在需要恢复时检索它们来实现这一点？ 感谢您的救命！    由   提交  /u/sedney168   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iiyn9n/can_i_use_vultrs_block_storage_this_way/</guid>
+      <pubDate>Thu, 06 Feb 2025 09:24:41 GMT</pubDate>
     </item>
     <item>
-      <title>帮我建立一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iipwi8/help_me_build_a_website/</link>
-      <description><![CDATA[亲爱的 Redditors： 我需要您的帮助。我没有任何 Web 开发经验。但是，前段时间我自学了一点 Python，但仍然了解基础知识。 我正在尝试创建一个网站，该网站将显示 3 个框（3 个独立的框）。我必须调整框的大小。 我有一个要在每个框中显示的单词列表。 这些单词将在每天凌晨 12:01 自动在所有 3 个框中更新。我希望它具有随机更新或从 3 个单词的集合列表中更新的功能。 我该如何制作这个网站？每个步骤我需要学习哪种语言？我可以在 Wordpress 中做到这一点吗？ 请给我一些指导。 提前谢谢您。    提交人    /u/nathematix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iipwi8/help_me_build_a_website/</guid>
-      <pubDate>Thu, 06 Feb 2025 00:45:43 GMT</pubDate>
+      <title>AdonisJS 困境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iiy94f/adonisjs_dilemma/</link>
+      <description><![CDATA[        提交人    /u/IcyFoxe   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iiy94f/adonisjs_dilemma/</guid>
+      <pubDate>Thu, 06 Feb 2025 08:55:24 GMT</pubDate>
     </item>
     <item>
-      <title>关于个人网站的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iip7ht/advice_on_a_personal_website/</link>
-      <description><![CDATA[大家好！首先我要说的是，我绝不是一名 Web 开发人员，我对编码知之甚少，绝对无法从头开始构建任何东西。我最新的爱好是烘焙和烹饪，并在 Instagram 上以视频的形式分享我的食谱，但我一直想创建自己的食谱/美食网站。我最讨厌的事情之一就是食谱网站上的 1,000 条广告，所以我只想创建一个直截了当、没有废话的食谱博客/网站。但同样，我没有接受过正式的 Web 开发培训。如果你们能推荐一些带有模板的网站，这些模板对于像我这样的人来说很容易使用，并且是一个适合博客类型网站的好模板，我洗耳恭听。任何信息都值得赞赏！ 此外，如果有人知道原因并想解释为什么食谱网站上有 10 亿条广告，我很乐意知道。我知道这是为了钱，但为什么呢？    提交人    /u/Squidneylynnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iip7ht/advice_on_a_personal_website/</guid>
-      <pubDate>Thu, 06 Feb 2025 00:12:42 GMT</pubDate>
+      <title>CSS 类</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iixlti/css_classes/</link>
+      <description><![CDATA[你们是如何根据 CSS 创建类的？你们使用的是 BEM 方法、OOCSS 方法还是你们自己创建的类？我只是想知道不同的人使用什么方法；我自己也在纠结选择一种方法。     提交人    /u/LivingParticular915   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iixlti/css_classes/</guid>
+      <pubDate>Thu, 06 Feb 2025 08:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>你什么时候准备好了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iip0te/when_are_you_ready/</link>
-      <description><![CDATA[一个人在什么情况下才算准备好工作或从事自由职业？有哪些好的标准？ 我目前正在学习。我已经掌握了 HTML。正在学习 CSS，但仍然不了解 Flexbox 及其用法。还没有开始学习 JS。只是好奇什么样的品质造就了一个好的初学者。    提交人    /u/AdaCle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iip0te/when_are_you_ready/</guid>
-      <pubDate>Thu, 06 Feb 2025 00:04:00 GMT</pubDate>
+      <title>人工智能让工作变得难以忍受</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iixhhl/job_is_becoming_unbearable_due_to_ai/</link>
+      <description><![CDATA[由于人工智能，我的工作逐渐变得无法忍受。如果我没有账单要付或没有家庭要养活，我早就辞职了。 我们的微观管理 CEO 现在定期将代码从我们的 GitHub 存储库传递到 ChatGPT，然后向我们提供需要更改或实施的事项的说明，以解决我们正在处理的问题。通常伴随着诸如“你们为什么还没想出这个办法”之类的评论或者“只需按照我的 Python 脚本中的方式执行，因为它有效”。 问题在于，至少 50% 的建议都是幻觉，40% 由于各种原因对我们来说并不实用（例如，因为 AI 建议我们使用两年内未更新的 Python 库，而且我们也不使用 Python），而 10% 实际上是好的并且有效的。 再加上现在更紧迫的最后期限，因为“有了 AI，编码现在无论如何都会自己处理”，每天早上登录 Slack 真的让我想吐。    提交人    /u/mace_endar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iixhhl/job_is_becoming_unbearable_due_to_ai/</guid>
+      <pubDate>Thu, 06 Feb 2025 07:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>终于启动了我的独立 SaaS 管理项目！请对暗色模式下的管理界面进行评分，并与亮色模式下的评分进行比较（图片 2）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iiotcc/finally_launched_my_indie_saas_management_project/</link>
-      <description><![CDATA[      大家好， 2 天前，我做了一个 Reddit 帖子在此 subreddit上介绍了我的项目后端 UI，令我惊讶的是，我收到了大量令人惊叹的反馈。  我已经构建了 10 多个不同的 SaaS 项目，但没有一个成功。 因此，我开始为自己构建一个项目，以解决我的痛点。  如上所述，由于我有几个项目正在运行，因此维护它们并跟踪它们的进度变得非常困难。 对于像我这样的小项目来说，JIRA、Trello、Asana 等工具似乎有点小题大做。 这个项目是专门为此目的而构建的，用于跟踪小任务并将所有项目相关详细信息放在一个页面中。  无论如何，在看到这么多人对这个项目感兴趣后，我决定进行软启动：https://swiftboard.dev/ 🚀  这不是任何广告帖。这个工具完全免费。希望它对独立开发者有用。 如果您发现它有用，请告诉我。任何反馈意见都值得赞赏。    提交人    /u/Euphoric_Natural_304   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iiotcc/finally_launched_my_indie_saas_management_project/</guid>
-      <pubDate>Wed, 05 Feb 2025 23:54:35 GMT</pubDate>
+      <title>我们不能用代码创建漂亮的现代网站吗？为什么一切都是 WordPress/Webflow？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iixdbg/cant_we_build_fancy_modern_websites_with_code_why/</link>
+      <description><![CDATA[很难找到具有大文本、干净设计和简约外观的现代网站模板。大多数基于代码的模板感觉过时且老派。 我们真的需要依靠 WordPress 或 Webflow 进行现代设计吗？ 如果您知道任何好的现代 HTML/CSS 模板资源，请在下面留下链接！谢谢！🙏    提交人    /u/OutrageousAvocado333   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iixdbg/cant_we_build_fancy_modern_websites_with_code_why/</guid>
+      <pubDate>Thu, 06 Feb 2025 07:47:52 GMT</pubDate>
     </item>
     <item>
-      <title>大多数 Web 设计师或开发人员缺乏哪些技能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iioc37/what_are_some_set_of_skills_that_most_of_the_web/</link>
-      <description><![CDATA[软技能和技术技能？    提交人    /u/Nazaninazad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iioc37/what_are_some_set_of_skills_that_most_of_the_web/</guid>
-      <pubDate>Wed, 05 Feb 2025 23:32:38 GMT</pubDate>
+      <title>您是否曾经因为学习所有知识而感到不知所措？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iiwv25/do_you_ever_just_feel_overwhelmed_about_learning/</link>
+      <description><![CDATA[我不会说我是个绝对的菜鸟，但有时我会感到不知所措，我必须学习解决问题的所有东西或所有“正确”的方法。你有这种感觉吗？情况会好转吗？还是我们总是觉得自己写的代码很糟糕，或者总有新东西要学？这几乎感觉像是一个永无止境的仓鼠轮……    由   提交  /u/kylefromthepool   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iiwv25/do_you_ever_just_feel_overwhelmed_about_learning/</guid>
+      <pubDate>Thu, 06 Feb 2025 07:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>需要 CSS 格式方面的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iinzzx/need_help_with_css_formatting/</link>
-      <description><![CDATA[      大家好，我昨晚开始了一个小项目，我需要一些格式方面的帮助。  https://preview.redd.it/0eab0jzvkehe1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=9798f81ff5088cf8a38ab2703ba834639bc40641 我想知道如何添加两个额外的框，一个在另一个上面（我用橙色画的框）。我希望它们与其他框的大小相匹配，并且每个框的高度相同（我画得很糟糕，但可以想象它们的高度相同）。我计划将这些盒子做成信息和库存部分，风格与其他盒子类似。 https://www.codebin.cc/code/cm6siqm5o0001l103uwzuy9rh:2yJY6dQUsoG2JwJxJuDqsqpHUeAJKYKH5k29w1AD6KjZ 获取代码 谢谢，任何有帮助的信息    提交人    /u/RennugunneR   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iinzzx/need_help_with_css_formatting/</guid>
-      <pubDate>Wed, 05 Feb 2025 23:17:33 GMT</pubDate>
+      <title>嗯，我真是个白痴</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iiwp2j/well_im_a_fuckin_idiot/</link>
+      <description><![CDATA[昨天我发布了一个关于在 React 文本框中添加 @mentions 的问题。得到了一些很好的线索，花了一整天时间尝试实现它，但最终却彻底失败了。我甚至尝试添加用户名，但当您尝试编辑或更改可编辑 div 中的文本时，一切都会中断。我甚至尝试使用 AI，但仍然没有帮助。我只是不明白其中的细微差别，并赞扬能够做到这一点的开发人员。 这是内置于几乎所有主要应用程序中的相当基本的功能。如果没有这个关键功能，应用程序就无法拥有社交方面。我太笨了，无法弄清楚。它应该是一个 MVP 功能，因为我正在构建一个社交应用程序。我怀疑经过一周的绞尽脑汁之后我是否能得到它。更不用说下个月发布测试版之前我还要完成的一百件事了。 我可以移动 div 并制作按钮等等，但我不是程序员。我是个骗子。 我只需要发泄一下，没有日记，所以如果这打扰到任何人，我很抱歉。 /rant    提交人    /u/clit_or_us   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iiwp2j/well_im_a_fuckin_idiot/</guid>
+      <pubDate>Thu, 06 Feb 2025 06:59:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
