@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 06 Feb 2025 21:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:04:53 GMT</lastBuildDate>
+    <item>
+      <title>您对开源软件上的代码文档和示例有何看法？您还会使用它们吗？还是直接去 AI 上查找代码库？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ijho1v/what_is_your_opinion_of_code_documentation_and/</link>
+      <description><![CDATA[我想了解作为开发人员，我应该花多少时间在我的 github repo 上维护完整工作的示例。    提交人    /u/arbithero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ijho1v/what_is_your_opinion_of_code_documentation_and/</guid>
+      <pubDate>Fri, 07 Feb 2025 00:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Next.js 构建了一个开源 UI 库来简化设计</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ijeooy/i_built_an_opensource_ui_library_for_nextjs_to/</link>
+      <description><![CDATA[大家好，我一直在研究 Once UI，这是一个 Next.js 的开源设计系统，可帮助您构建现代应用程序，而不会损害品牌或设计。  一个文件，无限样式 - 您可以在几分钟内完全更改应用的设计。 开发人员友好的样式 - 无需深入研究 CSS 技巧；只需使用几个关键字应用样式即可。 专为设计不佳的人打造 - 我们的大多数用户不是硬核前端开发人员。他们是全栈/后端/设计人员，他们只想要好用的东西。  最重要的是，我们正在为创意人士建立一个社区 - 不仅仅是程序员，还有游戏艺术家、摄影师和关心 UI/UX 并且不怕进入未知领域的设计师。 感兴趣吗？查看：https://once-ui.com 并告诉我您的想法！ 欢迎随时通过 Discord 与我们联系：https://designengineers.club    提交人    /u/lorantart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ijeooy/i_built_an_opensource_ui_library_for_nextjs_to/</guid>
+      <pubDate>Thu, 06 Feb 2025 21:57:02 GMT</pubDate>
+    </item>
     <item>
       <title>寻求贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij9xne/ask_for_contributors/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[该项目是一个 Infra from Code 工具，可自动配置和部署 APls 和服务到 AWS。它目前支持 Node.js、Python 和 Rust，以及 WASM、Go 和其他语言，以及即将推出的更多云和 K8。目前，多个项目已经在生产中使用它一段时间了。该工具管理用户访问权限有限的 AWS 账户。这样做的原因是我想保护实现细节，这也是它不开源的原因。 对此的任何意见都将不胜感激。    提交人    /u/chuva-io   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iiy8bh/should_i_make_my_project_open_source/</guid>
       <pubDate>Thu, 06 Feb 2025 08:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeTube：轻量级的 YouTube 体验客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iivmwj/wetube_the_lightweight_youtube_experience_client/</link>
-      <description><![CDATA[        提交人    /u/Mountain_Expert_2652   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iivmwj/wetube_the_lightweight_youtube_experience_client/</guid>
-      <pubDate>Thu, 06 Feb 2025 05:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spring Boot 开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iiskvt/spring_boot_open_source_projects/</link>
-      <description><![CDATA[大家好，能推荐一些好的 Spring Boot 开源项目吗？ 我试图找一些，但找不到任何大型组织来贡献。 谢谢。    提交人    /u/Reasonable-Tour-9719   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iiskvt/spring_boot_open_source_projects/</guid>
-      <pubDate>Thu, 06 Feb 2025 02:58:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

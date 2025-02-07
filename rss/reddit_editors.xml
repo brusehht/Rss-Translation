@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 06 Feb 2025 21:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:04:19 GMT</lastBuildDate>
+    <item>
+      <title>目前还没有人能够解决这些 Final Cut Pro 错误。其他人也遇到过这些错误吗？有人能复制这些错误吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ijh84t/no_one_has_been_able_to_solve_these_final_cut_pro/</link>
+      <description><![CDATA[很长一段时间以来，我在 Final Cut Pro 中都遇到了很多特定的错误，涉及多个 apple/final cut pro 软件更新和版本，但问题仍未解决，目前我不确定是否存在一些计算机硬件问题，导致 Final Cut Pro 出现故障，而其他程序则没有。 我已经在多个论坛上寻求帮助，也直接与苹果支持人员交谈过（我通过屏幕共享向他们的 final cut pro 支持人员展示我的问题，但他们被难住了），我甚至使用多种不同的方法进行了完整的系统擦除和操作系统重新安装，但错误仍然存​​在。 让我非常烦恼的主要错误是，当我创建“Transform”时标题上的关键帧（该错误也会影响视频剪辑和其他内容，但我的用例是标题），并尝试将这些关键帧属性复制并粘贴到*多个其他标题，它以许多奇怪/随机/不一致的方式失败...通常每个标题的关键帧都应用在时间线上的更远处（超过时间线上的任何内容），并且通常会有 1 个随机标题已正确应用效果，或者至少在该标题可见范围内的某处。 我遇到的另一个重要错误是当我尝试应用混响时。具体来说，我经常需要使用 FCP 中 Logic Pro 效果中的“Space Designer”混响效果。有时效果完全无法使用，但现在效果将成功应用于项目时间线并正确播放，但通常当我导出最终视频文件时，不会应用音频效果。我与 Youtubers 合作，因此我通常会导出带有 AAC 音频格式的 h.264（多通道 [更好]）视频文件。我的解决方法是将视频导出为使用“Linear PCM”音频格式的“Source-Apple ProRes 422”，这样可以成功导出音频效果，然后我将该文件中的音频放回到时间线中，最后导出为 h.264。 显然这是一个巨大的麻烦，但考虑到这些错误的严重性，我以为它们会在更新中得到修复，但这并没有发生，而且我在网上找不到其他有这些问题的人（尽管有 1 或 2 个人在苹果社区论坛上按下了“我也是”按钮） 我使用的是 2021 16 英寸 Macbook Pro M1 Max，具有 64GB 的统一内存和 2TB 的存储空间。我目前正在运行 Sequoia 15.2 和 FCP 11.0.1，但这些问题在每个版本的多个版本中都存在。我不记得这些问题是什么时候出现的，但在与苹果支持人员交谈时，他们说这台电脑附带的原始操作系统是 Monterey，但是当我清除电脑并重新安装时，由于某种原因我无法安装 Monterey，但电脑提示我安装 Sonoma，所以也许它实际上是随附的。 我还保证这不是用户错误。我已经使用 FCP 多年了，我知道它应该如何工作，它曾经运行正常。我还在旧款 Macbook Pro 上运行 FCP X 和 Monterey，一切运行正常。 无论如何，我非常感谢任何故障排除建议（尽管我可能已经尝试了所有建议），但我主要只是想知道我是不是世界上唯一一个遇到这些问题的人，或者这是否可以复制，并可能由 Apple 修复，或者我的电脑是否只是不知何故出了问题 感谢您花时间阅读所有这些内容！    提交人    /u/gitsandshiggies   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ijh84t/no_one_has_been_able_to_solve_these_final_cut_pro/</guid>
+      <pubDate>Thu, 06 Feb 2025 23:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找更好的视频素材源。</title>
+      <link>https://www.reddit.com/r/editors/comments/1ijek9y/looking_for_better_stock_video_sources/</link>
+      <description><![CDATA[我最近在一所技术学院开始了一份新工作。该课程是数字设计，我们有 6 周的时间教他们 PP 和 AE 中的基本视频编辑。目前，该课程的课程安排相当粗糙，我们不得不几乎完全重建它，尤其是动态设计部分。除了决定如何将十年的编辑工作压缩为 6 周有意义的时间这一显而易见的挑战之外，我还在决定如何处理素材方面。 我想给他们时间拍摄其中一个项目的素材，但由于时间是我们最大的限制，我将不得不提供相当多的内容。我正在考虑只依靠我过去的几个项目，但我想咨询这里的每个人，并询问是否有人知道任何在线库存视频资源，这些资源包含来自单个项目的多个剪辑，而不是单独的随机镜头。 让他们使用来自同一台相机的素材文件获得现实世界的体验会很好，而不是通过 Envato 将一些东西拼凑在一起。那时我宁愿加班加点，自己拍点东西，但我不知道这是否可持续。TIA。    提交人    /u/inoahguy34   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ijek9y/looking_for_better_stock_video_sources/</guid>
+      <pubDate>Thu, 06 Feb 2025 21:51:49 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere（或 Resolve）中没有 REC. 601？</title>
       <link>https://www.reddit.com/r/editors/comments/1ij9lx5/no_rec_601_in_premiere_or_resolve/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>纪录片编辑寻求有关 DaVinci Resolve 工作流程优化的建议</title>
       <link>https://www.reddit.com/r/editors/comments/1ij1kda/documentary_editor_seeking_advice_on_workflow/</link>
-      <description><![CDATA[嗨 r/editors， 我是一名纪录片制片人，正在着手制作一部新的长片项目（60-90 分钟），希望建立更专业的工作流程。由于我自己处理从前期制作到交付的所有事务，因此我想从一开始就建立一个高效的组织系统。 目前，我处理采访的工作流程如下：我为每个采访（INTERVIEW_01_PROTAGONIST 等）创建单独的时间线，并将完整的镜头（通常为 2 小时以上）放在其中。我使用带有描述的标记来记录内容和主题。当我开始编辑时，我会将这些采访时间线中的相关部分复制到我的主要时间线中。 我最近开始探索我在以前的项目中没有使用过的几个 DaVinci Resolve 功能 - 智能箱、关键字、元数据编辑和子剪辑。我很想听听使用这些工具的编辑的意见：您如何在工作流程中实现它们？哪种组合最适合纪录片编辑？ 我的主要问题： 关于采访组织：我正在处理多个 2 小时以上的采访，并希望构建一个有效的系统来跟踪内容。是否有人尝试过使用 AI/LLM 工具来处理采访记录并构建内容数据库？我对技术实现和实际工作流程集成都很好奇。我还想知道您是否将此类内容数据库保存在 Resolve 中（使用标记/元数据）还是保存在外部（如 Excel）。 对于文件组织：我正在寻找有关有效的 Windows 文件夹结构及其与 Resolve 集成的建议。有没有办法有效地同步或链接这些结构？我对能​​够随着制作的继续和新镜头的出现而很好地扩展的系统特别感兴趣。 我特别想听听纪录片编辑们对他们经过验证的系统的看法——在整个编辑过程中，你如何保持对内容的清晰概览？什么可以帮助你在编辑几个月后找到特定内容？ 如果有人能向我指出关于 Resolve 中的纪录片组织和文件管理的可靠资源，那将非常有帮助。 使用最新版本的 Resolve Studio。 感谢您分享的任何见解。    提交人    /u/theswedishguy94   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 r/editors， 我是一名纪录片制片人，正在着手制作一部新的长片项目（60-90 分钟），希望建立更专业的工作流程。由于我自己处理从前期制作到交付的所有事务，因此我想从一开始就建立一个高效的组织系统。 目前，我处理采访的工作流程如下：我为每个采访（INTERVIEW_01_PROTAGONIST 等）创建单独的时间线，并将完整的镜头（通常为 2 小时以上）放在其中。我使用带有描述的标记来记录内容和主题。当我开始编辑时，我会将这些采访时间线中的相关部分复制到我的主要时间线中。 我最近开始探索我在以前的项目中没有使用过的几个 DaVinci Resolve 功能 - 智能箱、关键字、元数据编辑和子剪辑。我很想听听使用这些工具的编辑的意见：您如何在工作流程中实现它们？哪种组合最适合纪录片编辑？ 我的主要问题： 关于采访组织：我正在处理多个 2 小时以上的采访，并希望构建一个有效的系统来跟踪内容。是否有人尝试过使用 AI/LLM 工具来处理采访记录并构建内容数据库？我对技术实现和实际工作流程集成都很好奇。我还想知道您是否将此类内容数据库保存在 Resolve 中（使用标记/元数据）还是保存在外部（如 Excel）。 对于文件组织：我正在寻找有关有效的 Windows 文件夹结构及其与 Resolve 集成的建议。有没有办法有效地同步或链接这些结构？我对能​​够随着制作的继续和新镜头的出现而很好地扩展的系统特别感兴趣。 我特别想听听纪录片编辑们对他们经过验证的系统的看法——在整个编辑过程中，你如何保持对内容的清晰概览？什么可以帮助你在编辑几个月后找到特定的内容？ 如果有人能向我指出关于 Resolve 中的纪录片组织和文件管理的可靠资源，那将非常有帮助。 使用最新版本的 Resolve Studio。 感谢您分享的任何见解。    提交人    /u/theswedishguy94   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ij1kda/documentary_editor_seeking_advice_on_workflow/</guid>
       <pubDate>Thu, 06 Feb 2025 12:38:32 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>Premiere 时间码问题</title>
       <link>https://www.reddit.com/r/editors/comments/1iiiz29/premiere_timecode_problem/</link>
-      <description><![CDATA[大家好，我想在我的 Premiere 项目上显示时间码，这样我和我的作曲家以及声音设计师就可以轻松沟通了。 我将“时间码”视频效果放在调整层上，显示没有问题，但不知何故，计时器从 24 分钟开始？？？  它在我的时间线、源监视器等中从 0 开始就没问题了。我遗漏了什么？？？    提交人    /u/siriusbear   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我想在我的 Premiere 项目上显示时间码，这样我和我的作曲家以及声音设计师就可以轻松沟通了。 我将“时间码”视频效果放在调整层上，显示没有问题，但不知何故，计时器从 24 分钟开始？？？ 它在我的时间线、源监视器等中从 0 开始就没问题了。我遗漏了什么？？？    提交人    /u/siriusbear   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1iiiz29/premiere_timecode_problem/</guid>
       <pubDate>Wed, 05 Feb 2025 19:49:13 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>达芬奇错误</title>
       <link>https://www.reddit.com/r/editors/comments/1ii8qcc/davinci_error/</link>
-      <description><![CDATA[嘿，伙计们！我真的需要一些知识渊博的人的帮助。 启动 davinci - 我正在寻找，我的所有项目都消失了。 我开始惊慌失措地寻找它们在哪里，并意识到文件夹是空的。 在磁盘钻取的帮助下能够恢复它们，但问题是当我将项目返回到 Davinci 本身的文件夹项目时，它们不会出现：c 怎么回事，我该如何保存项目？ Rizen 7500 RTX4070 32GB Davinci Resolve 19.2    提交人    /u/AdditionCute8414   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，伙计们！我真的需要一些知识渊博的人的帮助。 启动 davinci - 我正在寻找，我的所有项目都消失了。 我开始惊慌失措地寻找它们在哪里，并意识到文件夹是空的。 在磁盘钻取的帮助下能够恢复它们，但问题是当我将项目返回到 Davinci 本身的文件夹项目时，它们不会出现：c 怎么回事？我该如何保存项目？ Rizen 7500 RTX4070 32GB Davinci Resolve 19.2    提交人    /u/AdditionCute8414   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ii8qcc/davinci_error/</guid>
       <pubDate>Wed, 05 Feb 2025 12:21:51 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好， 我即将制作第一张名片，因为我剪辑的一部电影进入了一个著名的电影节，我想通过人脉关系找到下一部电影。我不使用 Instagram/Facebook（出于很多原因），我猜大多数在电影节上认识的人都是通过这种方式联系的。所以我将不得不依靠我的老式名片。 我打算保持简单，只写上我的名字、编辑，以及一些关于我剪辑的项目类型（电影/预告片）、我的家乡和我的电子邮件地址的描述。另外，还有一个链接到我的作品集的二维码。 有人对制作名片有什么一般性建议吗？你能分享你的设计吗？你认为最好的网站是自己设计，还是聘请平面设计师，还是使用人工智能？应该包含哪些信息，不应该包含哪些信息？提前致谢。     由    /u/cola6783 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ii5r05/business_cards_for_editors/</guid>
       <pubDate>Wed, 05 Feb 2025 08:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将在欧盟开展一个文档项目，那里最常见的系统是什么，直接聘请自由编辑，还是与有内部编辑的后期制作公司合作？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ii3ouo/have_a_doc_project_in_eu_coming_up_whats_the_most/</link>
-      <description><![CDATA[欢迎提供所有信息。    由    /u/jimppqq 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ii3ouo/have_a_doc_project_in_eu_coming_up_whats_the_most/</guid>
-      <pubDate>Wed, 05 Feb 2025 06:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>首映式上短片可以使用 5.1 混音吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ihv4nt/51_mix_for_short_film_on_premiere/</link>
-      <description><![CDATA[我已经在 Premiere 上编辑完一部短片。结果制片人没有足够的预算将其交给合适的混音器，所以我自己做了混音。在线编辑/调色师希望我交出立体声和 5.1 混音。现在，我可以创建立体声输出，但我不知道如何制作 5.1，因为我从来没有自己处理过这个问题。我甚至没有为此进行设置，因为我的家庭工作室中只有两个用于编辑的扬声器。我很想得到有关如何继续进行此操作的建议。谢谢！    提交人    /u/ExpertCulture8377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ihv4nt/51_mix_for_short_film_on_premiere/</guid>
-      <pubDate>Tue, 04 Feb 2025 22:55:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
