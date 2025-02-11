@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 03:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 06:19:57 GMT</lastBuildDate>
+    <item>
+      <title>寻找简单的SSG</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ims49p/looking_for_a_simple_ssg/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最初只是为我的网站使用静态HTML。然后我意识到我希望它看起来更好，所以我测试了Pico CSS。这效果很好，我可以创建下拉菜单的准确方式：  ＆lt; nav class =＆quot =; container＆quot＆quot＆quot; gt; ＆lt; ul＆gt; ＆lt; li＆lt; ＆lt;/ul＆gt; ＆lt; ul＆gt; ＆lt; li＆gt;＆lt; a href =&#39;&#39;/of of of of to ＆lt; li＆gt;＆lt; a href =&#39;&#39;/contact; ＆lt; li＆gt; ＆lt;详细信息class =&#39;&#39;下拉角色=“ list”＆quot＆gt; ＆lt;摘要角色=“按钮” class =&#39;secondary＆quot; gt; services＆lt;/summary＆gt; ＆lt; ul＆gt; ＆lt; li＆gt;＆lt; a href =&#39;&#39;/service1; ＆lt; li＆gt;＆lt; a href =&#39;&#39;/service2＆quot; ＆lt;/ul＆gt; ＆lt;/详细信息＆gt; ＆lt;/li＆gt; ＆lt;/ul＆gt; ＆lt;/nav＆gt;   ，但后来我意识到我想添加更多的内容，因此看起来SSG是理想的，我尝试了Hugo。 但是，出于何种原因，我都无法获得雨果的一些问题。我尝试使用“标识符”明确定义菜单。和“父母”就像我在示例中所看到的那样，在Hugo.toml中，显然这是主题是否有效。 Pico！   我尝试的每个主题都很简单。或者，如果我找到了想要的布局，则没有内置的方式来自定义颜色。我只是在寻找一个与PICO CSS默认配色方案尽可能接近的主题。 Xmin是一个很好的布局。   我在这里寻找的是对以上两个问题的解决方案，或者建议对其他，更简单，更简单的SSG提出建议很容易地支持下拉菜单开箱即用，并且有一个不错的默认配色方案，或者甚至可能还没有想到的其他选项。 您对我的用例建议了什么？ &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/makhno     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ims49p/looking_for_a_simple_ssg/</guid>
+      <pubDate>Tue, 11 Feb 2025 06:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您首选的域提供商是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1imr55d/whats_your_preferred_domain_provider/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经使用了Namecheap多年了，并且只是探索其他提供商。  &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/parasitetm     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1imr55d/whats_your_preferred_domain_provider/</guid>
+      <pubDate>Tue, 11 Feb 2025 05:12:18 GMT</pubDate>
+    </item>
     <item>
       <title>CSS盒子尺寸的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1imos91/issue_with_css_box_sizing/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我有一个域停放，最初托管在hostgator。过了一会儿，我最终为此域创建了一个nextJS网站，因此我将a唱片指向Vercel。据我所知，这并不影响电子邮件， mail.domain.com 记录指向hostgator和MX记录指向邮件。记录...  我遇到的问题是，现在domaindotcom/webmail URL指向NextJS网站，其中出现了404个错误...我该如何解决这个问题？  &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/brettkoz     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1imf822/changed_the_a_record_for_nextjs_site_to_point_to/</guid>
       <pubDate>Mon, 10 Feb 2025 19:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imex9u/first_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。我正在寻找创建我的第一个网站。这就像一个投资组合/简历网站。我通常是一个后端家伙，所以我的长处更多的是Java，C＃，C ++，Python。我应该使用什么框架？或者我应该只做香草JS，html，css？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/udaventurous_job9209       [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imex9u/first_website/</guid>
-      <pubDate>Mon, 10 Feb 2025 19:38:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>像螺栓和许多用于前端的应用程序一样，是否有专门用于编写后端节点JS的AI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imdv1b/like_bolt_and_many_apps_for_frontend_are_there/</link>
-      <description><![CDATA[在提交由＆＃32; /u/u/kingofpyrates     [link]  ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imdv1b/like_bolt_and_many_apps_for_frontend_are_there/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:57:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
