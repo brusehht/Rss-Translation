@@ -4,7 +4,7 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 01:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 03:18:53 GMT</lastBuildDate>
     <item>
       <title>制作了可自定义的仪表板应用（Bentoboard） - 如果有人愿意使用它，将其释放为开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</link>
@@ -18,13 +18,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  查看我最近几天工作的新程序： https://github.com/kaze961/spoverlay    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/l8st     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imkli8/spotify_overlay_for_borderless_fullscreen/</guid>
       <pubDate>Mon, 10 Feb 2025 23:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个YouTube来覆盖RVC管道并将其开放</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imirtc/i_created_a_youtube_to_rvc_cover_pipeline_and/</link>
-      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1imirtc/i_creatc/i_created_a_youtube_to_rvc_cover_cover_cover_cover_pipele_pipeline_and/” open sourced it&quot; src=&quot;https://external-preview.redd.it/rnqT6wYgc4BhGer4XOZitbtJfi_ZCEZqtxDeuVolJD4.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b7d4edf53cb8c24aa594614f9e799278cc5b002d&quot; title=&quot;I created a Youtube to RVC cover pipeline并开放采购”/&gt;   ＆＃32;提交由＆＃32; /u/u/awas666     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imirtc/i_created_a_youtube_to_rvc_cover_pipeline_and/</guid>
-      <pubDate>Mon, 10 Feb 2025 22:14:58 GMT</pubDate>
     </item>
     <item>
       <title>内存：自托管生产力和注释应用程序。</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  知道如何编码的最酷的事情之一就是它使您可以自由地在太阳下建造任何东西。不是的，我并不是说您需要自己从头开始构建一切，而是知道它的机制是如何使您有自由和勇气来承担一个比您组装得更聪明的项目的自由和勇气，将其调整为您或您的客户需要并立即启动并运行它，节省了您的时间，准备好客户的业务，可能会从中赚很多钱，而不必担心该项目在长期以来就会崩溃运行，因为它很可能是在您之前的许多其他开发人员那里进行了测试。就我而言，我是Laravel开发人员，即使我知道那里有项目，我还是陷入了试图重塑轮子的开发人员陷阱。然后，我是Laravel Daily最好的开源包之一，它是由Laravel文章构建的，我就像为什么我不只是使用其中一个项目。只要有效，客户就不会在乎我用来构建该项目的内容。因此，这只是我提醒我的Devs的方式，这些Dev只使用被证明是有效的东西，只有在您的客户需要的空气紧密的情况下才从头开始写东西。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kristitanellari     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ilwbyg/love_letter_to_developers/</guid>
       <pubDate>Mon, 10 Feb 2025 03:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>由Swift/Swiftui构建的Ollama的开源Mac客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近使用Swift创建了一个新的Mac应用。去年，我发布了Ollama的开源iPhone客户端（用于运行LLMS的程序），使用Flutter，称为Myollama。我也计划制作Mac版本，但是当我尝试使用Flutter时，设计并不是很MAC，所以我将其放在一边。 今年年初，我决定从使用Swift/swiftui划痕。此应用程序可让您使用Ollama在Mac上的DeepSeek（例如DeepSeek）进行安装和聊天。功能包括：   - 上下文对话   - 保存和搜索聊天历史记录   - 自定义系统提示   - 以及更多...  这是完全开源的！在此处查看代码：   https://github.com/bipark/bipark/mac_ollama_client      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/billythepark     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</guid>
+      <pubDate>Mon, 10 Feb 2025 01:17:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
