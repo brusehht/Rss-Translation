@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 15:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:18:24 GMT</lastBuildDate>
+    <item>
+      <title>免费且开源的 Google 地图替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  🗺️许多人对Google＆amp;要求替代Google Maps，这里有一些免费的＆amp;开源选项： 📱app    -   osmand.net      - 有机maps.app     web    -   facilmap.org     -   mapcarta.com      -   openstreetmap.org   真实的故事： 最近被迫一次使用Google Maps我去海滩但是，它决定将我直接带入军事检查站 - 在枪口🪖！ 谢谢您，Google ...😅 当我指向Google Maps时，他们点点头了。让我走;）  Google刚刚认为，通过完全限制的军事区域进行捷径是一个好主意。  &lt;！ -  sc_on-- &gt;＆＃32;提交由＆＃32; &lt; reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/&quot;&gt; [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助/指南来使我的流媒体软件‘原型’进入开源就绪状态。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in1xgf/helpguides_needed_in_getting_my_streaming/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in1xgf/helpguides_needed_in_getting_my_streaming/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>开源黑客马拉松</title>
       <link>https://www.reddit.com/r/opensource/comments/1in0fzk/open_source_hackathon/</link>
@@ -69,7 +83,7 @@
       <pubDate>Tue, 11 Feb 2025 06:50:40 GMT</pubDate>
     </item>
     <item>
-      <title>Sweetnotes - 简单、安全、及时分享的秘密笔记</title>
+      <title>Sweetnotes-简单，安全和秘密的笔记及时分享</title>
       <link>https://www.reddit.com/r/opensource/comments/1imsc7p/sweetnotes_simple_secure_and_secret_notes_shared/</link>
       <description><![CDATA[大家好👋🏾，我一直在开发 Sweetnotes，这是一个可以让你向朋友发送秘密便笺的网站，这些便笺会在你选择的稍后时间显示！ 🌟最好的部分？这些便笺经过安全加密，可真正保证其私密性！💌✨  情人节就要到了，准备好发送秘密，或者只是给朋友写便笺吗？  在这里尝试：https://sweetnotes.art/  阅读有关该项目的更多信息，了解加密的工作原理：https://github.com/deepto98/sweetnotes  期待您的反馈！    提交人    /u/No-Dream-4957   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imsc7p/sweetnotes_simple_secure_and_secret_notes_shared/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>制作了一个可定制的仪表板应用程序（BentoBoard）——如果有人想使用它，就将其作为开源发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</link>
-      <description><![CDATA[你好， 制作了一个小型 Web 应用，您可以在其中拥有一个便当板启发的仪表板，其中包含可调整大小的小部件等。您可以拖动东西、调整大小、暗模式，还有一些其他不错的功能，但是  有很多问题。一些不稳定的东西开始发生，我很恼火，对构建它失去了兴趣。我不是最有经验的 Web 开发人员，所以只是尝试一些东西。 构建它是为了学习 TypeScript（这就是为什么代码库是 JS/TS/TSX 的漂亮混乱，哈哈）。有点厌倦了它，但想有人可能会想弄乱它或什么的。 如果您感兴趣，添加新小部件非常容易。已经有基本的东西了，例如：  时钟 待办事项列表 天气 笔记 计算器 计时器 其他东西 基本的东西  如果您想查看，请在这里：https://github.com/jsap7/bentoboard 所有信息都在 README 中，如果人们真正对这个项目感兴趣并希望为其做出贡献，那么我可能会重新参与其中，否则暂时搁置 和平。    提交人    /u/jsap777   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   sup， 制作了一个小的Web应用程序，您可以使用带有可重新位置的小部件的Bento Board启发仪表板等。您可以可以拖动东西，调整大小，黑暗模式，还有其他好处，但是 有很多概率。一些笨拙的东西开始发生，我很生气，对建造这一点失去了兴趣。我不是最有经验的Web开发人员，所以只是尝试一下。 构建它是为了学习打字稿（这就是为什么代码库是JS/TS/TSX LMAO的美丽混乱）。有点无聊，但认为某人可能想弄乱它或其他任何东西。 如果您喜欢的话，添加新小部件非常容易。已经有基本内容，例如：  时钟  todo list  天气 注意 计算器 计时器 其他一些东西 基本内容  在这里如果您想检查一下： https://github.com/jsap7/bentoboard    所有信息都在readme中，如果这是一个项目，这是一个项目人们实际上对此感兴趣，并想为那时做出贡献，但否则，这是 和平的货架。   &lt;！ -  sc_on-- &gt;＆＃32;提交由＆＃32; /u/u/jsap777     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</guid>
       <pubDate>Mon, 10 Feb 2025 23:45:16 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 10 Feb 2025 23:34:50 GMT</pubDate>
     </item>
     <item>
-      <title>记忆：自托管生产力和笔记应用程序。</title>
+      <title>内存：自托管生产力和注释应用程序。</title>
       <link>https://www.reddit.com/r/opensource/comments/1imd24n/memory_selfhosted_productivity_note_app/</link>
       <description><![CDATA[Notion 试图在一个空间内塞入大量应用，而且还用用户的私人数据来训练 AI，这让我很不爽，我真的不喜欢这样。 所以我花了几天时间创建了自己的应用：Memory。 这是一款自托管的笔记应用，只做一件事，而且做得很好。你可以在文件夹下组织笔记，然后按照你想要的方式编辑它们，唯一的限制就是你的想象力。 它只用 Python 和纯 Javascript 编写。 https://github.com/yousboot/Memory    提交人    /u/Wrong_Swimming_9158   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imd24n/memory_selfhosted_productivity_note_app/</guid>
       <pubDate>Mon, 10 Feb 2025 18:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有健身/健康追踪功能的开源智能手表？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</link>
-      <description><![CDATA[正在寻找一款具有健身/健康监测功能的开源智能手表，然后偶然发现了 AirFrame 项目，该项目本应是一款具有健身/健康追踪和应用程序功能的开源智能手表，但大约 2 年没有更新了。 想知道是否还有类似的项目活跃，或者有没有关于自己制作的指南/提示？    提交人    /u/DemonicXz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个日志/日记应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</link>
-      <description><![CDATA[我正在寻找适用于 Android 并且可能也适用于 Windows 的推荐，我正在寻找的功能是应用程序内的多个日志/日记，并且能够附加照片和潜在视频，以及本地备份和恢复选项，我希望有人有一些好的建议，我一直在使用一个名为 Simple Journal 的应用程序，但是备份和恢复功能有些问题    提交人    /u/joeyroxas   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
