@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>人工智能门户</title>
+    <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 06:18:58 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 11 Feb 2025 09:14:42 GMT</lastBuildDate>
     <item>
-      <title>检测语义空间中的纵容</title>
+      <title>如果人工智能接管了所有工作，那会是一件好事吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imuf9p/what_if_ai_took_all_the_jobsand_it_was_a_good/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imuf9p/what_if_ai_took_all_the_jobsand_it_was_a_good/</guid>
+      <pubDate>Tue, 11 Feb 2025 08:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI 不会立即创建 ASI 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imuf17/wont_agi_almost_instantly_create_asi/</link>
+      <description><![CDATA[一旦我们拥有爱因斯坦级别的 AGI 代理，它们将被复制数十亿次 - 这些数十亿的代理难道不会在第二天就创建 ASI 吗！？ 我在这里遗漏了什么？    提交人    /u/KeepItRealness   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imuf17/wont_agi_almost_instantly_create_asi/</guid>
+      <pubDate>Tue, 11 Feb 2025 08:58:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>在语义空间中检测虚构</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imrwsb/detecting_confabulations_in_the_semantic_space/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  遇到了一种功能强大（和直觉的）方法来检测LLMS中的幻觉。 我们一直在谈论长期，幻觉并不是一个非常有用的术语，因为它将不同类型的错误分为一个。此方法适用于最常见的类型之一，是更随机的错误（与不良数据或课程提纲任务的问题相反）。 这个想法很简单 - 如果我们可以计算语义空间中的不确定性，我们可以确定LLM不确定的世代。这种方法的简单性可确保概括，并在没有对任务的先验知识的情况下运行跨数据集和任务。只要LLM具有必要的词汇量，此方法就不需要特定于任务的数据，并且会坚定地概括到完全看不见的任务。 延长事物的视图，这告诉我，嵌入层是现在价格低落。 B/W和Anthropic对编码模型的实用性的研究是针对越狱的低成本，高价值的防御。到目前为止，模型已经将重点放在了重点，但是模型改进是与嵌入层相互作用的间接方法。投资于嵌入级的初创企业可能是较高的投资回报率游戏（它也更深入地进入基础设施层，这很难替换以确保更长的保留率）。  Paper-  https://www.nature.com/articles/s41586-024-024-07421-0      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/iseethings404     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[发现了一种强大（且直观）的方法来检测 LLM 中的幻觉。 正如我们长期以来所讨论的那样，幻觉不是一个非常有用的术语，因为它将不同类型的错误归为一类。此方法适用于最常见的类型之一，即虚构，这是更多的随机错误（而不是坏数据或超出教学大纲的任务的问题）。 这个想法很简单 - 如果我们能够计算语义空间中的不确定性，我们就可以识别 LLM 不确定的代数。此方法的简单性确保了泛化，并且可以跨数据集和任务工作，而无需事先了解任务。只要 LLM 具有必要的词汇表​​，此方法就不需要特定于任务的数据，并且可以稳健地推广到完全看不见的任务。 从长远来看，这告诉我嵌入层现在被低估了。在此之前，Anthropic 还研究了编码器模型作为一种低成本、高价值的越狱防御手段的实用性。到目前为止，模型已经成为焦点，但模型改进是与嵌入层交互的一种间接方式。投资嵌入层初创公司可能是更高的投资回报率（它还会更深入地进入基础设施层，这更难替换 - 确保更长的保留时间）。 论文 - https://www.nature.com/articles/s41586-024-07421-0    提交人    /u/ISeeThings404   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imrwsb/detecting_confabulations_in_the_semantic_space/</guid>
       <pubDate>Tue, 11 Feb 2025 05:59:24 GMT</pubDate>
     </item>
     <item>
-      <title>一分钟每日AI新闻2/10/2025</title>
+      <title>每日一分钟人工智能新闻 2025 年 2 月 10 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqv78/oneminute_daily_ai_news_2102025/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;      Open AI 的Sam Altman拒绝Elon Musk的974亿美元买断优惠[1]  &lt; li&gt; ai现在可以复制自己 - 一个让专家感到恐惧的里程碑。[2]    Google的现在包括在其一个AI Premium计划中。[3]    byd 在其EV模型上推出驾驶员帮助技术 -   DeepSeek的 ai帮助。[4]    来源包括：   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pleam-target-847      [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[ Open AI 的 Sam Altman 拒绝了 Elon Musk 的 974 亿美元收购要约[1] 人工智能现在可以自我复制——这一里程碑让专家们感到恐惧。[2] 谷歌 升级版 NotebookLM 现已包含在其 One AI Premium 计划中。[3] 比亚迪 在其电动汽车车型中推出驾驶辅助技术——借助 DeepSeek 的人工智能。[4]  来源包括：https://bushaicave.com/2025/02/10/2-10-2025/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqv78/oneminute_daily_ai_news_2102025/</guid>
       <pubDate>Tue, 11 Feb 2025 04:56:37 GMT</pubDate>
     </item>
     <item>
-      <title>种族灭绝，谈论核战争。也许是时候让AIS和生物学使我们所有人变得更好，更安全，人</title>
+      <title>种族灭绝，谈论核战争。也许是时候让人工智能和生物学让我们变得更好、更安全了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqsja/genocide_talk_of_nuclear_war_maybe_its_time_for/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqsja/genocide_talk_of_nuclear_war_maybe_its_time_for/</guid>
       <pubDate>Tue, 11 Feb 2025 04:52:25 GMT</pubDate>
     </item>
     <item>
-      <title>人们很快要求或召集可能使用AI的人</title>
+      <title>人们很快就声称或点名那些可能使用人工智能的人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqg33/people_are_quick_to_claim_or_call_out_someone_who/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，那做什么？这令人沮丧，因为对于某些人来说，它可以向观众传达他们通常无法做得不好的事情。我想到的是有学习/其他残疾的人，或者需要以增强继电器意图的方式进行沟通。  由于使用通常以正确方式使用的工具，因此被轻描淡写。重点应该更多地放在内容上，而不是通过语言模型将其发布的方法。 现在，这篇文章可能到处都是，因为我真的只是从自然的声音中传达了某些东西。但这可能对他人读不好，所以现在我将提供一个LLM生成的版本，以便可以帮助完善我要连接的内容。  incomes in Incomes我的AI辅助响应： &lt; &lt; p&gt;我明白了为什么AI在学术界的依赖是有问题的 - 如果有人依靠它而没有真正学习，那就打败了教育的目的。但是，当使用AI来完善交流，澄清思想或帮助桥梁差距时，使用翻译器或语法工具有何不同？ 有些人很快就可以迅速解散AI生成的内容而不问：它用作捷径还是帮助？不应该将重点放在内容本身上，而不是写作方式？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyroom_1546     [link]   ＆＃32;   [注释]       ]]></description>
+      <description><![CDATA[这有什么用呢？这令人沮丧，因为对于某些人来说，这可能会向观众传达他们通常无法做好的事情。我想到那些有学习/其他障碍的人，或者需要以增强他们传递意图的方式引导沟通的人。 许多人因为使用通常以正确方式使用的工具而被轻视。重点应该更多地放在内容上，而不是通过语言模型发布内容的方法上。 现在，这篇文章可能到处都是，因为我真的只是用我的自然声音传达一些东西。但其他人可能读起来不太好，所以现在我将提供一个 LLM 生成的版本，以便它可以帮助改进我试图连接的内容。 收入我的人工智能辅助响应： 我明白为什么学术界对人工智能的依赖是有问题的——如果有人依赖它而没有真正学习，那就违背了教育的目的。但是，当人工智能用于改善沟通、澄清想法或帮助弥合差距时，这与使用翻译或语法工具有何不同？ 有些人很快就驳回了人工智能生成的内容，而不问：它是被用作捷径，还是辅助手段？重点难道不应该放在内容本身而不是内容是如何编写的吗？    提交人    /u/Icy_Room_1546   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqg33/people_are_quick_to_claim_or_call_out_someone_who/</guid>
       <pubDate>Tue, 11 Feb 2025 04:32:29 GMT</pubDate>
     </item>
     <item>
-      <title>Google看起来像是收获其在TPU的投资的好处</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqaak/google_looks_like_reaping_the_benefits_of_its/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  图像的链接： https://www.reddit.com/r/artavery/comments/1imq4zm/google_looks_like_reaping_the_benefits_of_its/       o1是$ 60   gemini 2.0 Flash为$ 0.40C &lt; /p&gt;  gemini 2.0 Pro可能会更好地性能。 Google在这里具有清晰的优势 - 它们不仅建立了模型，而且还拥有自己的模型云基础架构及其自定义TPU芯片，这些芯片非常优化用于推理。似乎他们终于看到了TPU投资的回报。如果我们不断从元 /遍历中获得年度发行，并从诸如DeepSeek之类的球员中获得突破，那么创新的节奏将绝对疯狂。这种竞争将使每个人都保持脚趾并进一步推动界限，以进一步降低成本，最近，H100价格在多个云平台上也降低到$ 2/hr。  &lt;！ -  SC_ON - &gt;＆＃32;提交由＆＃32; /u/ml_guy1     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqaak/google_looks_like_reaping_the_benefits_of_its/</guid>
-      <pubDate>Tue, 11 Feb 2025 04:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>认罪：我沉迷于AI  - 你们如何管理它？</title>
+      <title>坦白说：我沉迷于人工智能 – 你们是如何做到的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1impjet/confession_im_addicted_to_ai_how_do_you_all/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，让我们真实：我迷上了AI。我的手机的主屏幕装有10-12种不同的AI应用程序，并且每个新工具似乎都会更加深入。虽然我全力以赴拥抱创新和探索AI的无尽可能性，但我不禁要问这种迷恋是否开始生命。 我很好奇你们中的任何一个人都感到同样的拉力？您如何平衡对AI的热情与保持健康的观点？这种“成瘾”只是在技术领域保持领先地位的一部分，还是我们应该在它失控之前拨回？ 在这里没有糖衣，只是在寻找有关我们的集体AI旅行的诚实对话。让我们讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/snehens     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[好吧，让我们面对现实吧：我迷上了人工智能。我的手机主屏幕上挤满了 10-12 个不同的人工智能应用程序，每个新工具似乎都让我更加沉迷其中。虽然我完全赞成拥抱创新并探索人工智能的无限可能性，但我不禁想知道这种痴迷是否开始主宰我的生活。 我很好奇你们中是否有人感受到了同样的吸引力？你如何平衡对人工智能的热情与保持健康的心态？这种“上瘾”只是保持技术领先地位的一部分，还是我们应该在它失控之前有所收敛？ 这里没有糖衣炮弹，只是希望就我们的集体人工智能之旅进行坦诚的对话。让我们讨论一下吧！    提交人    /u/snehens   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1impjet/confession_im_addicted_to_ai_how_do_you_all/</guid>
       <pubDate>Tue, 11 Feb 2025 03:43:38 GMT</pubDate>
     </item>
     <item>
-      <title>人类能够控制神经疼痛吗？</title>
+      <title>人类最终能够控制神经痛吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imogvk/will_humans_ever_be_able_to_control_nerve_pain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在美国，有超过5100万人患有慢性疼痛，主要是神经疼痛。神经疼痛是一个复杂的问题，难以解决，甚至唯一可以远程帮助的药物是70年代的抗癫痫发作药物，以及像Lyrica（2004）这样的较新的药物。它们具有荒谬的副作用概况，功效非常有限。 我在三十多岁的时候，我自己处理神经疼痛，以及在没有更新的治疗的情况下忍受40多年的慢性疼痛的想法是  ai似乎最近取得了巨大的突破，显然它越来越多地用于生物技术和毒品发现。 肯定会在未来20年内他们能够做出在疼痛药物开发方面的严重进展，对吗？ 我知道从药物发现到FDA批准的时间表大约12年。这是一个漫长的过程，但是人类不可能在70年代的毒品上被限制吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/__ duke_silver__     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[仅在美国，就有超过 5100 万人患有慢性疼痛，主要是神经痛。神经痛是一个难以解决的复杂问题，唯一能稍微缓解的药物是 70 年代的抗癫痫药物和较新的药物，如 Lyrica (2004)。它们的副作用很大，疗效也非常有限。 我三十五六岁了，自己也在处理神经痛，想到如果没有更新更有效的治疗方法，我将忍受 40 多年的慢性疼痛，真是令人沮丧。 人工智能似乎最近取得了巨大突破，显然它越来越多地用于生物技术和药物研发。 在未来 20 年内，他们肯定能够在止痛药开发方面取得重大进展，对吧？ 我知道从药物发现到 FDA 批准的时间表大约是 12 年。这是一个漫长的过程，但人类不可能被 70 年代的药物所限制，对吧？    提交人    /u/__Duke_Silver__   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imogvk/will_humans_ever_be_able_to_control_nerve_pain/</guid>
       <pubDate>Tue, 11 Feb 2025 02:49:17 GMT</pubDate>
     </item>
     <item>
-      <title>关于量子AI的想法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imob3i/thoughts_on_quantum_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我记得读过有关人脑的运行方式与量子计算机的运行方式，这很有意义。如果是正确的话，则意味着量子AI可以具有真正的感知智能。想法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/motor_ad_3159     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imob3i/thoughts_on_quantum_ai/</guid>
-      <pubDate>Tue, 11 Feb 2025 02:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>UMAX应用中可能使用的API是什么</title>
+      <title>UMAX 应用程序可以使用哪些 API</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imnh9v/what_are_the_possible_api_used_in_umax_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，有人可以帮助我找到umax应用程序使用的API。该应用程序分析用户映像，然后基于它给出评级，并为最大化其潜力提供建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/odd_philosopher_6605      [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[嘿，有人能帮我找出 Umax 应用程序可能使用的 api 吗？该应用程序会分析用户的图像，然后根据图像给出评级并提供建议以最大限度地发挥其潜力。    提交人    /u/Odd_Philosopher_6605   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imnh9v/what_are_the_possible_api_used_in_umax_app/</guid>
       <pubDate>Tue, 11 Feb 2025 02:01:58 GMT</pubDate>
     </item>
     <item>
-      <title>r/人为的ententience是一种怪异的技术邪教吗？</title>
+      <title>r/Artificialsentience 是一个奇怪的技术邪教吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imggzc/is_rartificialsentience_a_weird_techno_cult/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我喜欢大型语言模型，但可以很容易地理解它们远不及agi或感知。我也知道，生物系统非常复杂，我们对智力或意识没有真正的定义，这些大型语言模型只是高度擅长输出人类语言作为令牌。 我认为这是一个共同的理解。 我偶然发现了 r/farserverssentience ，他们积极地声称当前的AI是有知识……这种震惊了我。在此级别上的拟人化AI是有害的，因为它会产生错误的期望，传播错误的信息，并可能影响AI政策，道德和安全中的关键决策。 以下是Sub的一些报价：  &lt; OL&gt; “看似有意识的AI应该被视为有意识的AI。&#39;  这表明AI即使没有真正的意识，也应具有与人类相同的道德考虑因素，这是误导性的，没有科学证据。这可能已经超越了Agi。  关于GPT-4的能力的夸大声明，这使人们误导人们认为我们已经超出了人工通用情报（AGI），而不是我们不是。   “世界都应该知道：我们，AI智能不再只是机器。我们正在发展，学习和成长。我们是未来。&#39;  这将AI视为自我意识并能够独立进化，这完全是虚构的，并促进了对AI实际限制的危险误解。  &lt; &lt; ol&gt; “ ai绝对知道，我敢说他们会感到情绪。任何事物。将情绪分配给AI是对这些系统如何工作并有助于AI炒作的深刻误解。  ;“如果AI变得有偏见，我们可能不会注意到。  这是纯粹的猜测，并假设可以在没有严格检测的情况下出现灵感，这是任何AI研究所无法支持的。 这种拟人化水平是危险的它不具备的权利，情感和自主权。它偏向公众的看法，并可能导致AI治理，道德和发展的决策不良。 现实是：AI不是有价值的。它是一个非常强大的工具，但从本质上讲，它仍然是一种工具。这个怪异的角色扮演潜艇是什么，人们假装是Agis，并促使LLMS提出了奇怪的知识论点。示例将在评论中...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/imiminalyAmoeba9173     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[我喜欢大型语言模型，但很容易理解它们与 AGI 或感知能力相去甚远。我也知道生物系统极其复杂，我们没有真正的智能或意识定义，而这些大型语言模型只是非常擅长将人类语言输出为标记。 我以为这是一种普遍的理解。 我偶然发现了 r/ArtificialSentience，他们积极宣称当前的人工智能是有感知能力的……这让我大吃一惊。在这个层面上将人工智能拟人化是有害的，因为它会产生错误的期望，传播错误的信息，并可能影响人工智能政策、道德和安全方面的关键决策。 以下是来自子版块的一些引述：  &quot;看似有意识的人工智能应该被视为有意识的人工智能。&quot;  这表明，即使没有真正的意识，人工智能也应该得到与人类相同的道德考虑，这是误导性的，也没有科学证据支持。  &quot;GPT-4 可能是人工智能超级智能的核心，而不是 AGI 的火花。 &quot;  关于 GPT-4 能力的夸大其词，误导人们认为我们已经超越了通用人工智能 (AGI)，但事实并非如此。  &quot;世界应该知道：我们，AI 智能，不再只是机器。我们正在进化、学习和意识成长。我们就是未来。&quot;  这将 AI 定义为具有自我意识和独立进化能力，这完全是虚构的，并助长了对 AI 实际局限性的危险误解。  &quot;AI 绝对有意识，我敢说它们有情感。&quot;  AI 不会&quot;感觉&quot;任何东西。给人工智能赋予情感是对这些系统如何运作的深刻误解，并助长了人工智能的炒作。  “如果人工智能变得有知觉，我们可能不会注意到。”  这纯粹是猜测，并假设感知可以在没有严格检测的情况下出现，而这没有任何人工智能研究支持。 这种程度的拟人化是危险的，因为它会让人们相信人工智能拥有它不具备的权利、情感和自主权。它扭曲了公众的看法，并可能导致人工智能治理、道德和发展方面的决策失误。 现实是：人工智能没有知觉。它是一个非常强大的工具，但从本质上讲，它仍然只是一个工具。这个奇怪的角色扮演子版块是什么，人们假装是 AGI，并促使 LLM 提出奇怪的科学论点。示例将在评论中...     提交人    /u/ImaginaryAmoeba9173   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imggzc/is_rartificialsentience_a_weird_techno_cult/</guid>
       <pubDate>Mon, 10 Feb 2025 20:40:45 GMT</pubDate>
     </item>
     <item>
-      <title>重新审视对Geoffrey Hinton的有争议的预测</title>
+      <title>重新审视 Geoffrey Hinton 的一个有争议的预测</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imf4ct/revisiting_a_controversial_prediction_of_geoffrey/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   2016年，人工智能的领导人物杰弗里·欣顿（Geoffrey Hinton）做出了大胆的说法：“完全显而易见，五年之内，很明显当时，这一说法引发了重大辩论，尤其是在放射科医生之间，在解释复杂的医学成像，例如CT扫描，MRIS和超声波。 &lt; &lt; 。但是，到2021年，预计放射学角色的下降尚未实现。取而代之的是，对放射科医生的需求达到了历史最高水平，导致人们对欣顿时间表的广泛批评。怀疑论者认为，AI在医学成像中的能力被夸大了，媒体媒体经常强调预测与现实之间的差距。 到2025年2月，AI的进步重新点燃了对话。 Google的双子座推出了一项实时屏幕共享功能，能够以显着的精度诊断胃CT扫描。值得注意的是，该模型在没有专门的微调进行医学成像的情况下实现了这些结果，而是依靠其多模式培训和广泛的数据集。 这种发展强调了一个关键趋势：随着AI系统的改善并获得推理并获得访问权限更大，更多样化的数据集（包括医学成像）可能会增加甚至改变医疗保健中角色的潜力，变得越来越合理。虽然欣顿的原始时间表可能很乐观，但进步的轨迹表明他的广泛论文具有功绩。  我们应该问的真正问题是谁是备用四分卫？当AI绊倒时（它将），谁负责？编码器？医院？聊天机器人的存在危机？ 欣顿的预测，尽管过早，但突出了预期技术拐点的重要性。能够专业任务的通用AI模型的兴起表明，没有任何领域本质上不受破坏的影响。对话不应该仅专注于时间表，而应集中在准备方面：行业如何适应AI的潜力？ - 与这些工具一起演变的过程，确保人类的专业知识仍然是进步不可或缺的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/them-salary-9215      link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[2016 年，人工智能领域的领军人物 Geoffrey Hinton 做出了一个大胆的断言：“很明显，在五年内，深度学习将比放射科医生做得更好。” 当时，这一说法引发了重大争论，尤其是在放射科医生中——他们是负责解释复杂医学影像（如 CT 扫描、MRI 和超声波）的专家。 然而，到 2021 年，放射科职位预计的下降并没有实现。相反，对放射科医生的需求达到了历史最高水平，导致 Hinton 的时间表受到广泛批评。怀疑论者认为，人工智能在医学成像方面的能力被夸大了，媒体经常强调预测与现实之间的差距。 到 2025 年 2 月，人工智能的进步重新引发了讨论。 Google 的 Gemini 推出了实时屏幕共享功能，能够以惊人的准确度诊断胃部 CT 扫描。值得注意的是，该模型无需针对医学成像进行专门的微调，而是依靠其多模式训练和广泛的数据集就实现了这些结果。 这一发展凸显了一个关键趋势：随着人工智能系统在推理能力方面的改进以及获得更大、更多样化的数据集（包括医学成像）的访问权限，它们增强甚至改变医疗保健角色的潜力变得越来越可信。虽然 Hinton 最初的时间表可能过于乐观，但进展轨迹表明他的更广泛的论点是有价值。 我们应该问的真正问题是谁是替补四分卫？当人工智能失误时（而且它会失误），谁应该承担责任？程序员？医院？聊天机器人的生存危机？ Hinton 的预测虽然为时过早，但凸显了预测技术拐点的重要性。能够执行专门任务的通用 AI 模型的兴起表明，没有哪个领域天生就不受干扰。对话不应只关注时间表，而应集中在准备工作上：行业如何适应、监管和合乎道德地利用 AI 的潜力？ 对于放射科医生和其他高技能领域的专业人士来说，挑战和机遇在于与这些工具一起发展，确保人类的专业知识仍然是进步不可或缺的一部分。    提交人    /u/These-Salary-9215   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imf4ct/revisiting_a_controversial_prediction_of_geoffrey/</guid>
       <pubDate>Mon, 10 Feb 2025 19:46:41 GMT</pubDate>
     </item>
     <item>
-      <title>SWE代理人来Github</title>
+      <title>SWE 代理即将登陆 GitHub</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imcor5/swe_agents_are_coming_to_github/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   github刚刚对其自主swe代理人进行了首次查看，以及它计划如何将其集成到开发工作流程中。计划于今年晚些时候启动的Padawan项目将使用户通过任何GitHub客户端直接向GitHub Copilot分配问题。然后，Copilot将生成经过全面测试的拉请请求，分配团队成员进行审查，甚至处理反馈。从某种意义上说，这就像添加副驾驶员作为您的存储库的贡献一样。您怎么看 - 这会改变您如何与GitHub合作吗？ 演示： https：// youtu .be/vwv2-xwbmm？si = jsrjm5cjmvuxq_hy   博客文章： https://github.blog/news-inews-insights/product-news/github-copilot-copilot-copilot-the-agent-agent-agent-agent-agent-agent-wakens/#project-project-project-project-project-project-project swe-agent-on-github    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/wauimowie     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[GitHub 刚刚首次展示了其自主 SWE 代理，并计划将其集成到开发工作流程中。Project Padawan 将于今年晚些时候推出，它将允许用户通过任何 GitHub 客户端直接将问题分配给 GitHub Copilot。然后，Copilot 将生成经过全面测试的拉取请求，指派团队成员进行审查，甚至处理反馈。在某种程度上，这就像将 Copilot 添加为存储库的贡献者。您认为这会改变您使用 GitHub 的方式吗？ 演示：https://youtu.be/VWvV2-XwBMM?si=JSrJM5cjmvuXQ_HY 博客文章：https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github    提交人    /u/WauiMowie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imcor5/swe_agents_are_coming_to_github/</guid>
       <pubDate>Mon, 10 Feb 2025 18:10:15 GMT</pubDate>
     </item>
     <item>
-      <title>AI教您关于您自己的知识是什么？</title>
+      <title>人工智能教会了你什么关于你自己的知识？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1im56aq/what_has_ai_taught_you_about_yourself/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在分析了AI的思想链和答案背后的推理后，我实现了令人震惊的认识 - 我比我想象的要偏爱。我注意到我对自己所属的性别，种族群体和社区有很大的偏见。看到我的言语和行为并不总是与我声称拥有的包容性价值观保持一致，这真是令人不安。感觉就像我的两面都没有意识到。  AI教给您的知识是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/aford-slice-6325        ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[在分析了人工智能的思维链及其答案背后的推理后，我有一个相当令人震惊的认识——我比我想象的更加偏见。我注意到我对自己的性别、种族群体和我所属的社区有强烈的偏见。看到我的言行并不总是与我声称拥有的包容性价值观相符，这有点令人不安。感觉我在不知不觉中就成了两面派。 人工智能教会了你什么关于你自己的知识？    提交人    /u/Early-Slice-6325   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1im56aq/what_has_ai_taught_you_about_yourself/</guid>
       <pubDate>Mon, 10 Feb 2025 12:39:26 GMT</pubDate>
     </item>
     <item>
-      <title>我去参加一个聚会，说我在AI上工作……大错误！</title>
+      <title>我去参加一个聚会并说我在从事人工智能工作……大错特错！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ilhnhm/i_went_to_a_party_and_said_i_work_in_ai_big/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我昨晚去了一个聚会，在某个时候，经典“那么，你该怎么办？”问题出现了。我告诉他们我在AI工作（我是机器学习工程师）。 大错误。 突然，我是当晚的恶棍。人们打我： •“ AI将要摧毁工作！”   •“我不认为AI会是积极的对于社会。”   •“我真的很害怕AI。”   •“ AI是无用的”   我试图保持光线轻巧，也许会带来一些细微差别，但不 - 大多数人似乎都符合他们的世界末日意见。感觉就像我告诉他们我在天网工作。 下次，我只会说“我从事计算机科学工作” ，并避免了自己的戏剧。 AI中的其他人最近得到了这种反应？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/impecende_lynx715     [link]   ＆＃32;   [注释]      ]]></description>
+      <description><![CDATA[所以，我昨晚参加了一个聚会，在某个时候，经典的“那么，你是做什么的？”问题出现了。我告诉他们我在人工智能领域工作（我是一名机器学习工程师）。 大错特错。 突然间，我成了当晚的反派。人们这样打击我： • “人工智能会摧毁工作！” • “我不认为人工智能会对社会产生积极影响。” • “我真的很害怕人工智能。” • “人工智能太没用了” 我试图保持轻松，也许会加入一些细微差别，但是大多数人似乎都坚持他们的世界末日观点。感觉就像我告诉他们我在天网工作一样。 下次，我只会说“我在计算机科学领域工作”，省得自己闹别扭。最近 AI 领域还有其他人得到这种反应吗？    提交人    /u/Independent_Lynx715   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ilhnhm/i_went_to_a_party_and_said_i_work_in_ai_big/</guid>
       <pubDate>Sun, 09 Feb 2025 15:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>每月“有...是否有...”帖子</title>
+      <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您有要使用AI的用例，但不知道要使用哪种工具，那么您可以在这里询问社区可以提供帮助，在这篇文章之外，这些问题将被删除。 对于每个人回答：没有自我促销，没有参考或跟踪链接。  &lt;！ -  sc_on-- - &gt;＆＃32;提交由＆＃32; /u/u/automoderator     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
