@@ -4,7 +4,35 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 11 Feb 2025 12:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 15:15:15 GMT</lastBuildDate>
+    <item>
+      <title>构建 Pornhub 搜索爬虫 – 轻松提取视频元数据</title>
+      <link>https://www.reddit.com/r/automation/comments/1imzknm/built_a_pornhub_search_scraper_easily_extract/</link>
+      <description><![CDATA[我最近为 Apify 构建了一个网络抓取工具，用于收集用户在 Pornhub 上的搜索中的视频元数据。它提取标题、类别、观看次数等详细信息，非常适合分析项目或研究。  最好的部分？您可以使用 Apify 的免费积分免费试用它，它很容易使用。 如果这听起来有用，请随时查看或问我任何问题！  👉 在这里尝试：https://apify.com/spider.engine/pornhub-search-scraper    提交人    /u/Training-Youth-6909   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1imzknm/built_a_pornhub_search_scraper_easily_extract/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘘，你听说过新的 ChatGPT 杀手吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1imz0us/psst_have_you_heard_about_the_new_chatgpt_killer/</link>
+      <description><![CDATA[        提交人    /u/Purple-Asparagus-887   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1imz0us/psst_have_you_heard_about_the_new_chatgpt_killer/</guid>
+      <pubDate>Tue, 11 Feb 2025 13:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>将原创艺术作品提供给 AI 的最佳方式？</title>
+      <link>https://www.reddit.com/r/automation/comments/1imyrrd/best_way_to_feed_original_artworks_to_ai/</link>
+      <description><![CDATA[我有几百张手绘和数字草图，我想将它们发送到某种艺术 AI 数据库中。我想看到它复制我的风格。 最好的方法是什么？    提交人    /u/Fastest-Architecture   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1imyrrd/best_way_to_feed_original_artworks_to_ai/</guid>
+      <pubDate>Tue, 11 Feb 2025 13:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐营销自动化理念</title>
+      <link>https://www.reddit.com/r/automation/comments/1imxmot/music_marketing_automation_ideas/</link>
+      <description><![CDATA[有人在做音乐相关的自动化吗？ 你使用什么 API ？ 我知道有 Spotify API，因此您可以创建播放列表/分析统计数据/检索艺术家信息  有 soundcloud API 可以上传/关注等 一直在尝试使用 Cyanide API，它可以进行音乐分析并按流派/子流派/情绪等分类 还有其他有趣的 API 可以看看吗？ 理想情况下，可以从 make.com 或 airtable 自动化中完成一些事情  它更像是一个业余项目，以补充音乐创作     提交人    /u/Natural-Ad-9037   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1imxmot/music_marketing_automation_ideas/</guid>
+      <pubDate>Tue, 11 Feb 2025 12:39:07 GMT</pubDate>
+    </item>
     <item>
       <title>保险文件自动化工具可以提取所有内容吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1imwmfj/can_insurance_document_automation_tools_extract/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[旧世界： 人类 → CRM 界面 → 数据 → 报告 → 行动 新世界： 人类意图 → 受约束的 AI 代理 → 结果 对商业软件的这种演变有何看法？传统企业软件能否在这种转变中生存下来？    提交人    /u/atlasspring   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1iloxx7/the_future_of_enterprise_software/</guid>
       <pubDate>Sun, 09 Feb 2025 20:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI应用程序不仅仅是包装器</title>
-      <link>https://www.reddit.com/r/automation/comments/1iloswq/ai_apps_beyond_just_wrappers/</link>
-      <description><![CDATA[那么，随着人工智能从更大的基础模型转向实际的人工智能原生应用，您认为我们正在或将要遇到哪些真正的技术和架构挑战？特别是在设计超越基本 API 包装器的人工智能应用程序时 例如，您如何处理长期上下文记忆、多步骤推理和实时自适应，而不仅仅是在 GPT 上贴上 API 包装器？人们是​​否真的为此构建了坚实的架构，还是仍然主要是黑客和快速工程？ 很想听听大家的见解！    提交人    /u/Frosty_Programmer672   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iloswq/ai_apps_beyond_just_wrappers/</guid>
-      <pubDate>Sun, 09 Feb 2025 20:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在对任何事都一无所知的情况下用 make 构建了我的第一个 AI 自动化，你想知道怎么做吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ilmqmp/i_built_my_first_ai_automation_with_make_without/</link>
-      <description><![CDATA[  由    /u/Oscarelgrande  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ilmqmp/i_built_my_first_ai_automation_with_make_without/</guid>
-      <pubDate>Sun, 09 Feb 2025 19:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在无代码自动化方面做得很好，但我想学习基于服务器的自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1ilckpu/im_doing_good_with_nocode_automation_but_i_want/</link>
-      <description><![CDATA[嘿伙计们！有人知道适合我的情况的好课程吗？ 我擅长无代码自动化，但我想设置并学习任何技能来基于服务器创建自动化。比如用于自动化的 Node.js/python/selenium。smth 🙏    提交人    /u/AxViet   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ilckpu/im_doing_good_with_nocode_automation_but_i_want/</guid>
-      <pubDate>Sun, 09 Feb 2025 11:15:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upwork/Fiverr 上的自由职业者如何以一次性费用提供 AI 聊天机器人和自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ilbrfc/how_do_freelancers_on_upworkfiverr_offer_ai/</link>
-      <description><![CDATA[我看到 Upwork 和 Fiverr 上有许多自由职业者以固定价格（例如 100 至 500 美元）提供 AI 聊天机器人、AI 代理和自动化服务。但如果他们使用 Voiceflow、Make、n8n、Botpress 等工具，他们是否需要支付持续订阅费用？ 如果客户想要永久解决方案，这些自由职业者如何处理费用？他们只是自己支付订阅费，还是我遗漏了其他解决方法？ 很想听听自由职业者或任何有此领域经验的人的意见！    提交人    /u/baldheadnazi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ilbrfc/how_do_freelancers_on_upworkfiverr_offer_ai/</guid>
-      <pubDate>Sun, 09 Feb 2025 10:17:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
