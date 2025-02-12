@@ -4,7 +4,63 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 12 Feb 2025 15:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 21:13:04 GMT</lastBuildDate>
+    <item>
+      <title>在 Resolve 中同步外部音频时需要帮助保留扩展音频“句柄”吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1io0bz0/need_help_retaining_extended_audio_handles_when/</link>
+      <description><![CDATA[大家好， 我在 DaVinci Resolve 中遇到了同步问题，希望您能提供意见。我用 A-CAM 拍摄，同时用 Zoom F3（如您所知，它不支持时间码）从外部录制音频。有几次相机开始录制时有点晚（例如，在句子中间捕捉），而外部录音机已经开始录制。有一次，我得到了一个 2 小时的连续音频文件，以及在此期间录制的 6-7 个简短的 A-CAM 剪辑。 对于一些剪辑，在相机开始录制之前的额外 15 秒音频对场景至关重要。但是，当我在媒体池中同步音频时，音频剪辑会被修剪为与视频剪辑完全相同的时长，这意味着我会失去那些宝贵的片头片段。 我目前的解决方法是在时间轴中同步，然后创建一个复合剪辑（例如，将 10 秒的视频剪辑与所需的 15 秒音频句柄配对）。缺点是，一旦我分解复合剪辑，我添加的所有元数据都会丢失，只剩下一条音轨——这抵消了使用 Resolve 媒体池组织工具的一些好处。 我很好奇是否有人遇到过这个问题并找到了更好的解决方案。有没有办法保留或“延长”同步期间的外部音频处理，也许是通过在媒体池中使用不同的方法或插件/工作流程调整？ 任何见解，提示或替代工作流程都将不胜感激！ 提前感谢您的帮助。    提交人    /u/theswedishguy94   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1io0bz0/need_help_retaining_extended_audio_handles_when/</guid>
+      <pubDate>Wed, 12 Feb 2025 20:06:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>iMac 升级建议？</title>
+      <link>https://www.reddit.com/r/editors/comments/1inz7fr/imac_upgrade_suggestions/</link>
+      <description><![CDATA[大家好，希望一切顺利。 现在是时候更新我的 5k Retina 27 英寸 2019 IMac 了。 昨天我在 Davinci Resolve 上做一个项目，分辨率约为 15k 像素 x 8k 像素，这导致我的电脑接近崩溃。通常它运行良好，但由于我对 After Effects 的了解越来越多，我可能需要尽快切换。 有人可以推荐最好的最新 imac 吗？以及我需要考虑升级的关键规格是什么，关于显卡等？预算可能在 1500 英镑左右，但如果需要的话可以稍微增加一点。 谢谢大家    提交人    /u/lord__cuthbert   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1inz7fr/imac_upgrade_suggestions/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:20:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>NAS 可容纳 8 个以上托架，供 3 ​​位编辑使用</title>
+      <link>https://www.reddit.com/r/editors/comments/1inyt0p/nas_capable_of_8_bay_for_3_editors/</link>
+      <description><![CDATA[我们目前有一个光纤阵列，在 Raid 6 之后有 72TB 可用。它完全装满了狂热的媒体文件、原始文件和数百个项目，不值得将它们取出来腾出空间。 我们至少需要 10G 以太网，并希望有 8-12 个托架。机架式安装会很好，但不是必需的。QNAP 似乎是一个不错的选择，但一些流行的型号的硬件已经超过 5 年了，比如 QNAP TVS-h1688X 有 2020 年的 Xeon。我们也希望有可比的速度，预算最初是 5000 美元，但我告诉老板这还不够。如果我们能将实际的 NAS 机箱保持在 3000 美元以下，那就太理想了。理想情况下与 IronWolf Pro HDD 兼容。我听说较新的 QNAP 型号不支持除其自己的驱动器之外的其他驱动器，如果是这样的话，那么 QNAP 并不理想。任何帮助都非常好。    提交人    /u/Hardnipsfor   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1inyt0p/nas_capable_of_8_bay_for_3_editors/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>升级 Avid Mid 项目</title>
+      <link>https://www.reddit.com/r/editors/comments/1inyrya/upgrading_avid_mid_project/</link>
+      <description><![CDATA[您好， 可能需要升级 Avid 中期项目。除了本文中的信息之外，还有什么我应该担心的吗？ https://alwaysediting.com/avid-blogs-by-chris-bov%C3%A9/f/how-to-safely-upgrade-media-composer-mid-project 感谢您的帮助    提交人    /u/Thurstonhearts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1inyrya/upgrading_avid_mid_project/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否发现 XMP 元数据设置在 Premiere 和 After Effects 中很有用？</title>
+      <link>https://www.reddit.com/r/editors/comments/1iny1l1/do_you_find_xmp_metadata_settings_useful_in/</link>
+      <description><![CDATA[嗨，编辑们， 我一直在研究 Premiere Pro 中的 XMP 元数据设置，想知道是否有人认为它们在实际工作流程中很有用。 为了便于理解，以下是三个相关设置：  导入时将 XMP ID 写入文件 – 为媒体文件分配唯一 ID，据称可帮助 Premiere 和 After Effects 跨项目跟踪它们。 将剪辑标记写入 XMP – 将剪辑标记保存到媒体文件的元数据中，以便它们可以显示在 After Effects 中。 启用剪辑和 XMP 元数据链接 – 在 Premiere 和 After Effects 之间同步元数据更改。  (https://i.imgur.com/lXUsYCZ.png) 我认为它有用的地方 ✅ 如果您在 Premiere 中设置剪辑标记以同步动画或效果，则将它们写入 XMP 意味着它们将出现在 After Effects 中。 ✅ 如果您在 Premiere 中标记剪辑（例如，“需要 VFX”），After Effects 应该会保留该信息。 ✅ 可以帮助防止在替换更新的素材时出现问题。 我认为潜在的缺点 ❌ 将元数据写入 XMP 会修改原始文件，有些人可能不想要。 ❌ 我们中的一些人可能更喜欢将元数据保留在 Premiere 本地，而不是嵌入到文件中。 ❌ 不确定这些设置在快节奏的工作流程中确实有很大帮助。 那么，你们真的启用了这些功能吗，还是关闭了它们？它们节省了你的时间，还是你觉得它们没有必要？很想听听你的想法！:)    提交人    /u/Available-Witness329   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1iny1l1/do_you_find_xmp_metadata_settings_useful_in/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:34:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我觉得我已经筋疲力尽了，不知道该怎么办</title>
+      <link>https://www.reddit.com/r/editors/comments/1inxbem/i_think_im_burnt_out_and_i_dont_know_what_to_do/</link>
+      <description><![CDATA[我从事专业编辑工作已经将近 6 年了，先是代理机构，然后是自由职业者。 我觉得我已经完全筋疲力尽了。明天是项目的最后期限，我通常会觉得这个项目既刺激又有趣，而且编辑得很快。但现在我感觉完全空虚了。我盯着我的时间表，仍然没有做任何有价值的事情。我甚至不知道我现在应该做什么。 基本上就是这样     提交人    /u/SpreadKnown3357   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1inxbem/i_think_im_burnt_out_and_i_dont_know_what_to_do/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 QC 供应商的建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1inu9zt/recommendations_on_qc_vendor/</link>
+      <description><![CDATA[我正在进行一项数字营销活动，其中包含数百个可交付成果，交付方面的质量控制实际上不存在。我非常注重细节，但搞砸一些小问题而无法发现的可能性让我彻夜难眠。有人有他们信任的优秀质量控制供应商来处理这种无稽之谈吗？    提交人    /u/TikiThunder   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1inu9zt/recommendations_on_qc_vendor/</guid>
+      <pubDate>Wed, 12 Feb 2025 16:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frame.io v4 API</title>
+      <link>https://www.reddit.com/r/editors/comments/1insdpl/frameio_v4_api/</link>
+      <description><![CDATA[有人知道 Frami.io v4 API 是否可用吗？上次我检查时，API 仅适用于 v3。    提交人    /u/Business_Bill_4710   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1insdpl/frameio_v4_api/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:43:17 GMT</pubDate>
+    </item>
     <item>
       <title>类似 Frame.io 的带有章节的反馈工具？</title>
       <link>https://www.reddit.com/r/editors/comments/1inrshh/feedback_tool_like_frameio_with_chapters/</link>
@@ -48,67 +104,11 @@
       <pubDate>Wed, 12 Feb 2025 12:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>编辑陷入困境 Davinci</title>
-      <link>https://www.reddit.com/r/editors/comments/1inl66y/editor_in_troubles_davinci/</link>
-      <description><![CDATA[嗨！我正在制作一部电影，但项目出了点问题。 问题是，我在 Davinci 中有两个项目，第一个项目是手动同步的，剪辑在 COMPOUND CLIPS 4K 中转换（Rushes 以 8K 录制）当我打开媒体时，存在 3 个或更多同名剪辑。 现在，我的第二个项目开始工作，一切正常，一切正常，剪辑同步正确。当我导出时间线并尝试导入第一个项目时，Davinci 无法识别我的原始媒体和剪辑（来自第二个项目），并且更改了音频媒体，但没有声音。剪辑显示视频，但没有音频。 是否可以将所有主 bin 从第一个项目导入到第二个项目，就像在一个项​​目中导入独立项目一样？我不想重新编辑第一部分。 额外信息： 我已经将主箱更改为另一个项目，将原始剪辑恢复为复合剪辑，并制作了另一个包含所有音频的时间线，我不知道问题是否出在剪辑的副本上，然后无法识别我的第二个项目或其他什么，我完成了。    提交人    /u/HiImMarshall   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1inl66y/editor_in_troubles_davinci/</guid>
-      <pubDate>Wed, 12 Feb 2025 06:57:35 GMT</pubDate>
-    </item>
-    <item>
       <title>首映分级监视器</title>
       <link>https://www.reddit.com/r/editors/comments/1inixth/monitors_for_premiere_grading/</link>
       <description><![CDATA[你好 就背景而言，我绝不是专业人士，但我为一家汽车公司做营销，并且一整天都在使用 Adob​​e 套件。过去，我在 Premiere Pro 中对颜色的处理效果不错，但偶尔我会将屏幕的等级转移到手机上，但效果并不完全匹配。在目前的情况下，对我来说最重要的是，在从一个设备转移到另一个设备时，颜色、对比度、亮度和其他因素是否相对接近。不幸的是，按照我的工作节奏，我只需要一个与 iPhone 匹配的屏幕，因为这主要是我们查看内容的屏幕。我想找到一款价格低于 600 美元的显示器。另外，我有一个 calibrite 显示器校准器。我很想知道我真正应该寻找的功能。 这款显示器使用起来很成功，我想知道大家的想法。 https://a.co/d/bHC72Y2    由    /u/Miuraspeak 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1inixth/monitors_for_premiere_grading/</guid>
       <pubDate>Wed, 12 Feb 2025 04:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>这段录像可以修复吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1inezjv/is_this_footage_repairable/</link>
-      <description><![CDATA[我们在这次活动中使用了 2 台摄像机，当人们移动时，两台摄像机都出现了这种扭曲效果。有人能建议如何在后期修复这个问题吗？我不是想修复摄像机，我只需要修复镜头。提前谢谢大家了。  https://youtu.be/oPfdvkkfrJM?si=suZVQjEqZISmAAw8    提交人    /u/DJJeremyAZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1inezjv/is_this_footage_repairable/</guid>
-      <pubDate>Wed, 12 Feb 2025 01:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mogrt 在时间线上消失了吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ind0tz/disappearing_mogrt_on_timeline/</link>
-      <description><![CDATA[有人遇到过 mogrt 在尝试拖到时间线上时立即消失的问题吗？尝试帮助客户解决这个问题。我能够毫无问题地使用 mogrt，但由于某种原因，它不适用于这个特定的客户端。看看清除缓存或 mogrt 文件夹是否有效。    提交人    /u/popnlocke   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ind0tz/disappearing_mogrt_on_timeline/</guid>
-      <pubDate>Tue, 11 Feb 2025 23:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程转码</title>
-      <link>https://www.reddit.com/r/editors/comments/1in9kdu/remote_transcoding/</link>
-      <description><![CDATA[有人有使用网络服务转码素材的经验吗？ 有人要求我紧急填补一名编辑的空缺，因为我正在旅行，所以我目前的机器性能不足（12GB RAM，处理 400GB 的 6k .R3D 素材，哎哟），我的解决方案是使用虚拟机进行编辑，但我仍然想将素材转码为较小的格式以加快速度。我正在查看 AWS Elemental MediaConvert，但想知道这个社区是否有任何经过测试的建议。    提交人    /u/Ja5p5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1in9kdu/remote_transcoding/</guid>
-      <pubDate>Tue, 11 Feb 2025 21:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果编辑是一门大学课程</title>
-      <link>https://www.reddit.com/r/editors/comments/1in8r53/if_editing_were_a_uni_course/</link>
-      <description><![CDATA[大家好， 我知道有很多大学教授编辑课程。我觉得它还有另一面，比如成为一个有无限耐心的良好沟通者，当客户因为某个交易员提出的观点被误解而把孩子和洗澡水一起倒掉时，保持套房内的士气高涨（不是针对我，只是感觉像是一种事情），我可以继续说下去。 我敢肯定，你们中的许多人现在甚至不想加入一个项目，因为你们已经在这个领域取得了很好的成绩，但我很好奇 - 你认为什么才是真正好的项目方面，而这个方面可能并不存在于所有的课程中？ 谢谢    提交人    /u/Turtlebucks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1in8r53/if_editing_were_a_uni_course/</guid>
-      <pubDate>Tue, 11 Feb 2025 20:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>灵感视频</title>
-      <link>https://www.reddit.com/r/editors/comments/1in8pci/inspo_vids/</link>
-      <description><![CDATA[大家好，我很快就要编辑一份公司文档了，想找一些可以参考的想法/灵感？ 采访会在一个非常简单的房间内拍摄，所以我想要么添加一些动态图形/叠加层，要么剪掉受访者并彻底改变背景？ 这是一家可再生能源公司的采访，所有采访都围绕可持续性和创新展开，因此旨在营造一种轻松通透的感觉。 有没有什么视频推荐/链接可以供我参考？理想情况下，是在非常简单的环境中拍摄的，但在编辑中变得生动活泼。 谢谢！    提交人    /u/GasMysterious3386   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1in8pci/inspo_vids/</guid>
-      <pubDate>Tue, 11 Feb 2025 20:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理媒体和项目的最佳工作流程：Avid 中的重新链接与转码？</title>
-      <link>https://www.reddit.com/r/editors/comments/1in4urq/best_workflow_for_managing_media_and_projects/</link>
-      <description><![CDATA[各位编辑，大家好， 我想寻求有关在 Avid 中管理媒体和项目的最佳工作流程的建议。目前，我的设置如下： • 一个专用的媒体驱动器 • 另一个用于存放资产的驱动器 • 我的项目存储在 Google Drive 或本地计算机上。  我想知道社区认为最好的方法是什么： 1. 在外部进行转码（在 DaVinci Resolve 中），然后在 Avid 中重新链接，将转码后的文件保留在我的媒体硬盘上 2. 直接在 Avid 中转码，并将所有内容保留在本地项目文件夹中  您的经验和建议是什么？ 谢谢！！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1in4urq/best_workflow_for_managing_media_and_projects/</guid>
-      <pubDate>Tue, 11 Feb 2025 18:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些编辑需要几个小时？帮助为编辑做预算</title>
-      <link>https://www.reddit.com/r/editors/comments/1in00rz/how_many_hours_of_editing_are_these_help/</link>
-      <description><![CDATA[大家好，包括 MODS。我已经仔细阅读了规则，并希望更多地了解视频编辑的预算。我在下面提供了 3 个示例，并大致了解了费率。但是，我想了解更多。  问题：我应该支付多少小时的费用？我看到 mods 参考了 20-50 美元/小时...你们都认为什么是合理的？您认为以下视频可能需要多少小时？你们都建议统一费率吗？按小时？您将如何量化？  与某人一起跳上视频并在整个第一个视频中与他们一起工作是否很奇怪？ A) 了解他们的工作方式，回答任何问题等？  A 和 B 摄像头会让事情更容易吗？更难？  更多信息：  我们正在为专业建筑师和室内设计师开设一个新的 Youtube。我已经完成了前几个视频，并意识到编辑不适合我。话虽如此，我不知道专业人士需要多长时间，因为我想象他比我快得多，但当然不是闪电般的速度。  我正在寻找可以像 Ali Abdaals 一样编辑视频的人。大部分都是谈话，但这里那里也有一些不错的文字，看起来很专业，等等。  https://www.youtube.com/watch?v=ae9qy-7lBmo https://www.youtube.com/watch?v=8urzOH10LEM 或者可能是这样：  https://www.youtube.com/watch?v=XrsGG1Jyjew 我们可以完全访问运动阵列，并将提供所有补充内容，并且可能会进入解析并剪辑镜头/选择我们喜欢的镜头。  你会怎么做？有什么建议吗？有哪些我不知道的事情？有哪些事情可以帮助编辑器快速上手？ 干杯！    提交人    /u/Work_Life_Masterplan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1in00rz/how_many_hours_of_editing_are_these_help/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:38:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
