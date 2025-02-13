@@ -4,7 +4,70 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Feb 2025 21:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 06:20:03 GMT</lastBuildDate>
+    <item>
+      <title>GitHub - JianZcar/FuzPad: 极简笔记管理解决方案。由 fzf 提供支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iobz4b/github_jianzcarfuzpad_a_minimalistic_note/</link>
+      <description><![CDATA[        由    /u/Zenalia- 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iobz4b/github_jianzcarfuzpad_a_minimalistic_note/</guid>
+      <pubDate>Thu, 13 Feb 2025 05:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IG 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ioayzx/ig_alternatives/</link>
+      <description><![CDATA[正在查看 pixelfed，但想知道是否有任何 ig 替代品允许在发布后重新排序网格，和/或可以包含原始照片的日期戳而不是发布日期。    提交人    /u/altruisticactions   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ioayzx/ig_alternatives/</guid>
+      <pubDate>Thu, 13 Feb 2025 04:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客新闻推特机器人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ioa2az/hacker_news_twitter_bot/</link>
+      <description><![CDATA[github 链接 我只是将其作为一个游戏项目进行构建，但我相信其他人也想构建自己的项目，但找不到好的库或时间。我欢迎您使用我的代码。 祝您有美好的一天    提交人    /u/Sonder-Otis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ioa2az/hacker_news_twitter_bot/</guid>
+      <pubDate>Thu, 13 Feb 2025 03:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么很多开源UI这么糟糕？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1io93w6/why_is_a_lot_of_open_source_ui_so_terrible/</link>
+      <description><![CDATA[尽管我热爱开源，但有一个问题困扰着我，那就是糟糕的 UI 设计泛滥？我知道创建一个直观的 GUI 本身就是一项任务，但当我提供代码来增强 GUI 时，我却遭到了敌意。这不是因为设计选择或艺术性，而是因为功能过多。我不想在这里说出具体的名字，但至少我在尝试为桌面环境项目贡献代码时经历过这种情况，他们只是希望让桌面环境在实用性上保持相当基本的框架。 我并不是说这些添加的选项占用了这么多额外的空间，考虑到该项目至少占用了 30 GB，这些选项只占用了几兆字节，或者我的代码完全是垃圾。但他们说必须编辑配置文件才更好。 为什么对良好 UI 的反应如此敌对？    提交人    /u/DrunkOnRamen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1io93w6/why_is_a_lot_of_open_source_ui_so_terrible/</guid>
+      <pubDate>Thu, 13 Feb 2025 02:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dive AI 代理：一个用于桌面的开源 MCP 客户端和主机</title>
+      <link>https://www.reddit.com/r/opensource/comments/1io67d5/dive_ai_agent_an_opensource_mcp_client_and_host/</link>
+      <description><![CDATA[我们的团队开发了一个名为 Dive 的开源平台。Dive 是一个开源 AI Agent 桌面，可将任何支持工具调用的 LLM 与 Anthropic 的 MCP 无缝集成。 • 通用 LLM 支持 - 可与 Claude、GPT、Ollama 和其他支持工具调用的 LLM 配合使用 • 开源 &amp;免费 - MIT 许可证 • 桌面原生 - 为 Windows/Mac/Linux 构建 • MCP 协议 - 完全支持模型上下文协议 • 可扩展 - 添加您自己的工具和功能 查看：https://github.com/OpenAgentPlatform/Dive 下载：https://github.com/OpenAgentPlatform/Dive/releases/tag/v0.1.1 我们很乐意听到您的反馈、想法和用例。 如果您喜欢，请给我们点赞！ 注意：这只是一个概念验证系统，仅在可用阶段。    由   提交  /u/BigGo_official   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1io67d5/dive_ai_agent_an_opensource_mcp_client_and_host/</guid>
+      <pubDate>Thu, 13 Feb 2025 00:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源与寡头政治</title>
+      <link>https://www.reddit.com/r/opensource/comments/1io4zhp/opensource_and_the_oligarchy/</link>
+      <description><![CDATA[我想提出一种许可证的概念，这种许可证对几乎所有人都是免费的，就像开源一样，但有一些限制只适用于寡头： https://indiesource.org 技术垄断/寡头政治建立在开源的基础上。如果没有免费的开源基础，云服务和其他产品就不可能以目前的形式存在。垄断者是开源的积极推动者，以保持他们的主导地位，并鼓励开发人员放弃他们的权利，这样我们就无法竞争。 如果我们想看到一个更加多样化和民主的技术生态系统，我们就必须自己采取行动来实现这一目标。软件许可是我们可以用来实现这一目标的工具。如果我们愿意，我们可以规定自己的软件许可条款。  当前的系统已经崩溃。曾经有一段时间，小型或中型软件公司可以与大型公司共存。现在情况已经不同了。让我们利用我们掌握的任何工具来努力创造一个更加公正和平等的世界。  如果您认为此软件许可证存在缺陷或不足，请随时对其进行改进。只是不要坚持认为目前定义的开源就是事情需要的方式。这难道不是开源的精神吗？     提交人    /u/megaheda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1io4zhp/opensource_and_the_oligarchy/</guid>
+      <pubDate>Wed, 12 Feb 2025 23:24:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否认为合理使用许可证是开源的？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1io3026/do_you_consider_fairuse_license_open_source/</link>
+      <description><![CDATA[大家好，我和我的法律团队坐在一起，我们正在重新启动我们的产品，突然我想问社区：合理使用被认为是开源吗？或者这是一个子类别还是一个新类别。 现在，因为我们正在使用几个 repos，而这个独特的 docker-image 包装，我们将其包装为一键安装，以便在合理使用许可下自行托管它。 该软件的要点是自行托管它，而不是真正为它贡献代码。请记住，所有替代方案都是专有的，我们的大部分客户群都在医疗保健领域，他们是非技术人员，出于隐私原因自行托管。 喜欢这些意见！    提交人    /u/No_Art870   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1io3026/do_you_consider_fairuse_license_open_source/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>DjangoMatrix.com - 一个开源兼容性跟踪器。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1io22px/djangomatrixcom_an_open_source_compatibility/</link>
+      <description><![CDATA[大家好， 我只想和大家分享一个我在过去几周用 Django 构建的开源项目。 该项目旨在成为与 Django 软件包、版本控制、兼容性等相关的一切的一站式服务。 你可以在我之前发布的 r/Django 帖子 上找到更多详细信息，但简而言之：  用 Django 构建 每天从 Github API 获取数据 使用`plotly` 根据内部类别或 Github 主题建议类似的包 自动部署（通过 Github 操作进行 CI/CD）  欢迎贡献！ 查看： 👉 DjangoMatrix.com 👉 GitHub 存储库    提交人    /u/DonExo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1io22px/djangomatrixcom_an_open_source_compatibility/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:19:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 AI 编码扩展开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1io1y2j/extending_open_source_project_with_ai_coding/</link>
+      <description><![CDATA[此视频展示了我扩展 NanoSage 的过程。 在 VSC 中使用 Cline 扩展。我们将该项目 dockerise 并添加 Web 前端 并非一帆风顺，但它可以向非开发人员或初级程序员开放开源更改 https://youtu.be/wiyNDX5099o    提交人    /u/ksdio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1io1y2j/extending_open_source_project_with_ai_coding/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:13:58 GMT</pubDate>
+    </item>
     <item>
       <title>Docker 中的屏幕截图抓取服务器的 URL（MIT）</title>
       <link>https://www.reddit.com/r/opensource/comments/1io1bwz/url_to_screenshot_scrape_server_in_docker_mit/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[        由    /u/yorickpeterse  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1inu1kj/inko_a_programming_language_ive_been_working_on/</guid>
       <pubDate>Wed, 12 Feb 2025 15:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Discord 替代品 DCTS（更新 4.9.9）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1intxqe/open_source_discord_alternative_dcts_update_499/</link>
-      <description><![CDATA[大家好！ 我一直在研究一个开源 discord 替代品，因为我厌倦了 discords nitro 的东西，无法正确使用该应用程序。考虑到他们是一家企业，这很有意义，但很烦人。 因为我想要像 teamspeak 那样对应用程序拥有最大的自由和控制权（除了插槽限制），我想也许我可以以某种方式将 discord 的易用性和现代用户界面与 teamspeak 的自托管可能性结合起来。 长话短说，我最近进行了一次新更新，改进了很多功能并修复了许多错误。它仍处于早期访问状态，但我真的很兴奋未来会如何发展。 是的，还有其他平台，如 guilded、revolt、matrix 等。它们都有优点和缺点，我正在尝试将所有好东西合并在一起。 我非常感谢在 ko-fi 上支持我的人。我无法描述它在维护开发方面有多么有用。 如果有人想尝试一下，可以在 github 上找到它：https://github.com/hackthedev/dcts-shipping/ 我非常好奇你可能想看到的观点、功能和类似的东西！欢迎随时发表评论    提交人    /u/HackTheDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1intxqe/open_source_discord_alternative_dcts_update_499/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codeberg 目前正受到极右翼的攻击</title>
-      <link>https://www.reddit.com/r/opensource/comments/1into1l/codeberg_is_currently_under_attack_by_the_farright/</link>
-      <description><![CDATA[  由    /u/Elegant-Sire  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1into1l/codeberg_is_currently_under_attack_by_the_farright/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以更新 MIT 授权项目的日期吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1insg3v/can_i_update_the_date_on_a_mit_licensed_project/</link>
-      <description><![CDATA[可以更新 MIT 许可项目的日期吗？ 例如： 我可以将“Copyright (c) 2024 Person”更改为“Copyright (c) 2024-2025 Person”或“Copyright (c) 2025 Person”吗？    提交人    /u/GreatRedditorThracc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1insg3v/can_i_update_the_date_on_a_mit_licensed_project/</guid>
-      <pubDate>Wed, 12 Feb 2025 14:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以更新 MIT 授权项目的日期吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1insg3m/can_i_update_the_date_on_a_mit_licensed_project/</link>
-      <description><![CDATA[可以更新 MIT 许可项目的日期吗？ 例如： 我可以将“Copyright (c) 2024 Person”更改为“Copyright (c) 2024-2025 Person”或“Copyright (c) 2025 Person”吗？    提交人    /u/GreatRedditorThracc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1insg3m/can_i_update_the_date_on_a_mit_licensed_project/</guid>
-      <pubDate>Wed, 12 Feb 2025 14:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FixProxy - 隐私浏览网页</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ins1dy/fixproxy_browse_the_web_with_privacy/</link>
-      <description><![CDATA[  由    /u/jezek_2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ins1dy/fixproxy_browse_the_web_with_privacy/</guid>
-      <pubDate>Wed, 12 Feb 2025 14:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 为 NuxtCommerce 做出贡献，获得经验！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1inp74l/contribute_to_nuxtcommerce_gain_experience/</link>
-      <description><![CDATA[最近，我遇到了很多开发人员，他们渴望提高自己在特定领域的技能，并愿意自愿工作。如果您想获得 Headless Commerce、Woocommerce、Nuxt 3、Vue.js 和 GraphQL 等技术方面的经验，您可以从解决 NuxtCommerce 项目中的这个问题开始。 🌟 通过解决此问题您将获得的经验： - Headless Commerce 开发经验 - Nuxt 3 和 Vue.js 应用程序开发经验 - GraphQL 技能 - 有机会成为为项目做出贡献的开发者社区的一员 为这个项目做出贡献可能是在这些领域发展您的技能的绝佳机会，同时也为开源社区做出贡献。您可以查看 GitHub 问题页面并参与其中。 🔗 项目链接： https://github.com/zackha/nuxtcommerce 提前感谢所有做出贡献的开发者！💻✨    提交人    /u/sefabulak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1inp74l/contribute_to_nuxtcommerce_gain_experience/</guid>
-      <pubDate>Wed, 12 Feb 2025 12:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ameile——一种用于高强度 OLTP 工作负载的新型关系 SQL 数据库。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1inovoj/ameile_a_new_relational_sql_database_for/</link>
-      <description><![CDATA[        由    /u/pmwkaa 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1inovoj/ameile_a_new_relational_sql_database_for/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源、图像编辑的 Photoshop 替代品（GIMP 不是真正的播放器）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1inov3z/opensource_capable_alternative_to_photoshop_for/</link>
-      <description><![CDATA[我看过一些关于 Photoshop 替代品的帖子，但这篇主要介绍的是 Photoshop 的图像编辑功能 你有什么看法？ Ps：GIMP 不是一个严肃的答案，你已经知道了    提交人    /u/PersistentChallenger   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1inov3z/opensource_capable_alternative_to_photoshop_for/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题：寻求建议：如何最好地将我的 Pretix 实例与 Mastodon 集成以实现实时售票处更新。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1inorjh/title_seeking_advice_on_how_best_to_integrate_my/</link>
-      <description><![CDATA[嘿 r/opensource， 我正在开展一个项目，将 Mastodon 与流行的开源票务系统 Pretix 集成，以使用 Mastodon 的时间线作为使用 Pretix 创建的每个新票务商店的聚合服务 目前，我有一个 Pretix 实例正在运行，用于事件创建和票务流程，我希望通过将其与 Mastodon 集成来增强其可见性，以便使用 Mastodon 的时间线作为使用 Pretix 创建的票务商店的实时更新源。  本质上，我希望每个新的活动/票务商店都能自动发布到我的 Mastodon 帐户，以获得更好的知名度和社区参与度。 （提醒：默认情况下，来自不同活动组织者的 Pretix 票务商店作为独立的网页存在，即它们不会聚合在一个地方） 我的目标是使用 Mastodon 的时间线作为我的 Pretix 中所有新创建的票务商店的聚合服务。 了解组件： Mastodon：一个去中心化的社交网络，用户可以在不同的服务器（实例）上互相关注。它具有用于读取和发布内容的 API。 Pretix：一种开源票务解决方案，提供用于活动管理、门票销售等的 API。 这是我目前所拥有的： API 令牌：我知道我需要获取两个平台的令牌才能验证我的集成。 基本流程：我可以从 Pretix 提取更新并将其发布到 Mastodon。 数据流： 从 Pretix 到 Mastodon： 使用 Pretix 的 API 获取票务商店更新或数据。并设置 webhook 或计划任务来检查新活动或门票销售。 使用此数据在 Mastodon 上创建帖子。例如，当创建新活动/售票商店或活动门票售罄时，在 Mastodon 上发布状态更新。 聚合： Mastodon 时间线：Mastodon 上的时间线可以自然地充当聚合点，因为关注者或查看您 Mastodon 帐户的用户会直接看到这些更新。 您可以自动发布每个重大更新的帖子，例如新门票、售罄活动或与活动相关的特殊通知。 我需要帮助： API 管理：我担心在不达到速率限制的情况下管理 API 调用。您如何在自己的集成中处理这个问题？ 自动化：在不让关注者不知所措的情况下自动发布这些帖子的最佳方法是什么？我正在考虑使用 cron 作业或研究工作流自动化平台。 内容策略：有什么关于如何让这些更新吸引 Mastodon 社区的提示吗？我想避免垃圾帖子，但仍保持我的活动可见。 社区问题： 你们有没有将自己的票务解决方案或任何其他解决方案与 Mastodon 集成？ 你最大的障碍是什么，你是如何解决的？ 是否有任何特定的 Mastodon 功能或实践我应该利用来实现更好的集成？    提交人    /u/akola-arthur-ali   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1inorjh/title_seeking_advice_on_how_best_to_integrate_my/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:31:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
