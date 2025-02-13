@@ -3,8 +3,15 @@
   <channel>
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
-    <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:18:36 GMT</lastBuildDate>
+    <description>拥抱的脸博客</description>
+    <lastBuildDate>Thu, 13 Feb 2025 15:14:53 GMT</lastBuildDate>
+    <item>
+      <title>10 亿个分类</title>
+      <link>https://huggingface.co/blog/billion-classifications</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/billion-classifications</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从块到块：加速 Hub 上的上传和下载</title>
       <link>https://huggingface.co/blog/from-chunks-to-blocks</link>
@@ -20,14 +27,14 @@
       <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开放的阿拉伯LLM排行榜2</title>
+      <title>开放阿拉伯语法学硕士排行榜 2</title>
       <link>https://huggingface.co/blog/leaderboard-arabic-v2</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-arabic-v2</guid>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开源深研究 - 释放我们的搜索代理商</title>
+      <title>开源 DeepResearch – 释放我们的搜索代理</title>
       <link>https://huggingface.co/blog/open-deep-research</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/open-deep-research</guid>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Smolvlm的生长较小 - 引入了250m和500m型号！</title>
+      <title>SmolVLM 变得更小 – 推出 250M 和 500M 型号！</title>
       <link>https://huggingface.co/blog/smolervlm</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/smolervlm</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/friendliai-partnership</guid>
       <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Timm❤️变形金刚：使用任何与变压器的Timm模型</title>
-      <link>https://huggingface.co/blog/timm-transformers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/timm-transformers</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
