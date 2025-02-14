@@ -1,90 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Feb 2025 06:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 09:16:14 GMT</lastBuildDate>
     <item>
-      <title>购物+博览会</title>
+      <title>Deskminder</title>
+      <link>https://www.producthunt.com/posts/deskminder</link>
+      <description><![CDATA[
+            只需单击即可创建快速桌面提醒
+          
+
+
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/deskminder</guid>
+      <pubDate>Thu, 13 Feb 2025 16:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以为Android</title>
+      <link>https://www.producthunt.com/posts/kann-for-android</link>
+      <description><![CDATA[
+            学习您关心的日本词汇！
+          
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;讨论
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/kann-for-android</guid>
+      <pubDate>Thu, 13 Feb 2025 12:25:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sepirah</title>
+      <link>https://www.producthunt.com/posts/sefirah</link>
+      <description><![CDATA[
+            连接您的Android和Windows的开源方式
+          
+
+
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/sefirah</guid>
+      <pubDate>Thu, 13 Feb 2025 10:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>商店 +博览会</title>
       <link>https://www.producthunt.com/posts/bolt-expo</link>
       <description><![CDATA[
-无需编写任何代码即可将您的想法转化为移动应用程序
+            在不编写任何代码的情况下将您的想法变成移动应用
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/bolt-expo</guid>
       <pubDate>Thu, 13 Feb 2025 02:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>Alice.tech</title>
+      <title>Alice.Tech</title>
       <link>https://www.producthunt.com/posts/alice-tech</link>
       <description><![CDATA[
-人工智能考试准备
+            AI驱动的考试准备
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/alice-tech</guid>
       <pubDate>Wed, 12 Feb 2025 19:39:14 GMT</pubDate>
     </item>
     <item>
-      <title>Koast.ai</title>
+      <title>koast.ai</title>
       <link>https://www.producthunt.com/posts/koast-ai</link>
       <description><![CDATA[
-使用 AI 批量发布、优化和管理元广告
+            META广告批量启动，优化和管理与AI
+          
 
 
-讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/koast-ai</guid>
       <pubDate>Wed, 12 Feb 2025 18:31:04 GMT</pubDate>
     </item>
     <item>
-      <title>HelcimPay.js</title>
+      <title>Helcimpay.js</title>
       <link>https://www.producthunt.com/posts/helcimpay-js</link>
       <description><![CDATA[
-无需从头开始编码即可接受付款
+            接受付款而无需从头开始编码
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/helcimpay-js</guid>
       <pubDate>Wed, 12 Feb 2025 18:28:27 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe Firefly 视频</title>
+      <title>Adobe Firefly视频</title>
       <link>https://www.producthunt.com/posts/adobe-firefly-video</link>
       <description><![CDATA[
-商业上安全的 AI 视频生成
+            商业安全的AI视频生成
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/adobe-firefly-video</guid>
       <pubDate>Wed, 12 Feb 2025 16:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>语音网</title>
+      <title>yuyin.io</title>
       <link>https://www.producthunt.com/posts/yuyin-io</link>
       <description><![CDATA[
-通过人工智能反馈掌握中文发音
+            大师中文发音和AI驱动的反馈
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/yuyin-io</guid>
       <pubDate>Wed, 12 Feb 2025 10:37:27 GMT</pubDate>
@@ -93,40 +135,26 @@
       <title>可爱的视觉编辑</title>
       <link>https://www.producthunt.com/posts/lovable-visual-edits</link>
       <description><![CDATA[
-更快、更精确的编辑
+            更快，更精确的编辑
+          
 
 
-讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/lovable-visual-edits</guid>
       <pubDate>Tue, 11 Feb 2025 14:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>Chirp：用于 Apple Watch 的人工智能</title>
-      <link>https://www.producthunt.com/posts/chirp-ai-for-apple-watch</link>
-      <description><![CDATA[
-只需说话即可获得快速答案和智能操作
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/chirp-ai-for-apple-watch</guid>
-      <pubDate>Tue, 11 Feb 2025 12:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>兔子洞</title>
+      <title>拉比孔</title>
       <link>https://www.producthunt.com/posts/rabbithole-3</link>
       <description><![CDATA[
-满足您好奇心的启动板
+            您好奇的发射台
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/rabbithole-3</guid>
       <pubDate>Tue, 11 Feb 2025 07:18:19 GMT</pubDate>
@@ -135,12 +163,12 @@
       <title>Beatoven.ai</title>
       <link>https://www.producthunt.com/posts/beatoven-ai</link>
       <description><![CDATA[
-人工智能作曲家，用于制作完美的背景音乐
+            AI作曲家用于制作完美的背景音乐
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/beatoven-ai</guid>
       <pubDate>Tue, 11 Feb 2025 06:41:46 GMT</pubDate>
@@ -149,71 +177,43 @@
       <title>浏览器使用云</title>
       <link>https://www.producthunt.com/posts/browser-use-cloud</link>
       <description><![CDATA[
-使用提示控制网络（开源）
+            用提示（开源）控制网络
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/browser-use-cloud</guid>
       <pubDate>Tue, 11 Feb 2025 00:42:40 GMT</pubDate>
     </item>
     <item>
-      <title>托克分析器</title>
-      <link>https://www.producthunt.com/posts/tokanalyzr</link>
+      <title>子跟踪</title>
+      <link>https://www.producthunt.com/posts/subtrace</link>
       <description><![CDATA[
-在几秒钟内分析任何 TikTok 个人资料
+            更快地解决生产问题
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tokanalyzr</guid>
-      <pubDate>Mon, 10 Feb 2025 17:08:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/subtrace</guid>
+      <pubDate>Fri, 07 Feb 2025 22:40:05 GMT</pubDate>
     </item>
     <item>
-      <title>保持平衡的丘比特</title>
-      <link>https://www.producthunt.com/posts/poised-cupid</link>
+      <title>Entie-夫妇助手</title>
+      <link>https://www.producthunt.com/posts/entie-couple-assistant</link>
       <description><![CDATA[
-情人节的 AI 僚机 - 从热闹到浪漫 💘
+            夫妻的个性化浪漫关系助理
+          
 
 
-讨论
-|
-链接
+            |
+             link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/poised-cupid</guid>
-      <pubDate>Mon, 10 Feb 2025 16:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉代理</title>
-      <link>https://www.producthunt.com/posts/visionagent</link>
-      <description><![CDATA[
-推理驱动的代理对象检测
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/visionagent</guid>
-      <pubDate>Mon, 10 Feb 2025 04:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>反馈流</title>
-      <link>https://www.producthunt.com/posts/feedbackstream</link>
-      <description><![CDATA[
-AI 面试：比调查更深入，比 1:1 聊天更快
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/feedbackstream</guid>
-      <pubDate>Mon, 10 Feb 2025 04:26:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/entie-couple-assistant</guid>
+      <pubDate>Tue, 14 Jan 2025 19:23:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
