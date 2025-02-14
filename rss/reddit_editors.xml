@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 14 Feb 2025 03:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:19:17 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro 上不显示文本和字幕</title>
+      <link>https://www.reddit.com/r/editors/comments/1ip2chr/text_and_subs_not_showing_on_premiere_pro/</link>
+      <description><![CDATA[你好，问题是我的文字和子内容突然由于某种原因没有显示出来。尝试卸载并重新安装所有内容，但仍然不起作用。当我尝试添加文本层时，顶部会出现一条红线。    提交人    /u/External_Pin_2088   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ip2chr/text_and_subs_not_showing_on_premiere_pro/</guid>
+      <pubDate>Fri, 14 Feb 2025 04:19:24 GMT</pubDate>
+    </item>
     <item>
       <title>好奇你们是如何恢复的/找到了新工作</title>
       <link>https://www.reddit.com/r/editors/comments/1ioygri/curious_how_you_all_bounced_backfound_new_work/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我是一位魔术师的社交媒体视频制作人，我们正在录制下个月的一场现场表演，该表演将于当年晚些时候播出。我们正与一个小型视频团队合作，但由于我最了解该节目，所以我负责大部分前期制作工作，以使节目的录制尽可能顺利。我还将负责节目的后期剪辑。铁的事实：  我们在欧洲，所以这里是 PAL 地区。 广播的交付文件必须是符合标准高清文件规格 (XDCAM HD 422) 的 50i mxf 文件  我知道您可以将几乎任何东西放入 mxf 容器中，但是选择以 50p 而不是 25p 录制有什么重要的原因吗？ 我通常以 25p 交付所有社交媒体内容，如果需要慢动作（通常是我所有的万向节镜头），我的相机 (Sony) 以 25p 或 50p 录制，始终以 180 度快门。只是想避免在最终产品中出现任何过于流畅/肥皂剧效果之类的事情。我认为我的 50p/180 度快门素材以 25p 实时播放并以 25p 导出没有问题，所以应该没问题。但是，以 50p 导出可能看起来有点像肥皂剧，我猜？ 我们自己的工作人员有两台载人摄像机，用于节目的实时屏幕馈送，发送 50p（快门可能为 1/100 秒 - 需要检查）。我需要看看他们是否也可以录制 25p，但我猜他们必须坚持使用 50p 进行实时直播。 所以如果我没有完全错的话，我现在看到三个选项： - 以 25p 录制，以 25p/50i 传送（但我们可能只能使用自己的实时摄像头以 50p 录制） - 以 50p 录制，以 25p/50i 传送 - 以 50p 录制，以 50p/50i 传送 关于快门速度 - 180 度可以吗，还是您会推荐其他速度？ 希望你们能在这里帮助我。 非常感谢    提交人    /u/Icy_Kaleidoscope_516   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1io4dm9/framerateshutter_for_broadcast_recording/</guid>
       <pubDate>Wed, 12 Feb 2025 22:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队项目问题 - 媒体脱机和自动保存错误</title>
-      <link>https://www.reddit.com/r/editors/comments/1io3aeq/problems_with_team_projects_media_offline_and/</link>
-      <description><![CDATA[我有一个 Premiere 团队项目，与美国和印度的合作者都有合作。该项目连接到 Lucid Link，所有文件和资产都存储在这里。我是该项目的创建者/所有者，我在美国，没有遇到任何问题。但是，印度的团队遇到了两个主要问题，导致无法在线进行。 首先，他们能够连接到 Lucid Link 上的素材，但每隔一分钟就会离线。他们重新链接它，一开始链接成功，然后又离线了。这种情况经常发生。他们还不断弹出自动保存错误，上面写着： “自动保存您在过去 XX 秒内对团队项目所做的更改时出错……问题持续存在时，无法保存您的更改。请关闭并重新打开团队项目以恢复到上次自动保存的版本。&quot; 我检查了 Google 和 Reddit，发现了一两个其他主题，但没有任何令人满意的答案。起初，自动保存目录和媒体缓存被设置为我的本地驱动器，我认为这可能会导致问题，但我将目录切换到共享的 Lucid Link 文件夹，问题仍然存在。如果有人有任何建议，我将不胜感激。这是一个刚刚开始的大型项目，必须离线完成整个项目将严重拖延时间。 Premiere Pro v.25.1.0 (Build 73) 不确定每个编辑器的计算机规格，但我认为这更多的是团队项目/Lucid Link 的问题，而不是任何单个计算机的问题。 编辑：我也不认为这与他们的系统有任何关系，因为他们能够首先访问该项目并正常工作。这些问题在项目开始后出现。还有一位编辑者仍然可以工作，但团队的其他成员都遇到了问题。 我尝试删除所有协作者并将他们重新添加到项目中，这对一个人有用，但其他人仍然遇到问题。遇到问题的人看到项目中已删除的旧内容，并且他们仍然遇到相同的错误。    提交人    /u/HideousCurtains   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1io3aeq/problems_with_team_projects_media_offline_and/</guid>
-      <pubDate>Wed, 12 Feb 2025 22:10:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,18 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 14 Feb 2025 03:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:19:50 GMT</lastBuildDate>
+    <item>
+      <title>DeepDish——无需 CMS 即可构建内容驱动的网站</title>
+      <link>https://feed.indiehackers.world/post/1ec439e520</link>
+      <description><![CDATA[DeepDish 是一个 Next.js 框架，可让您构建内容驱动的网站，而无需传统的 CMS。您可以直接在页面上管理内容。您可以通过编写简单的 React 组件来完成所有这些操作。目前，我们提供一套排版组件，但正在努力尽快推出更多功能。
+我们希望让开发人员和营销人员的生活更轻松。
+在产品的这个极早期阶段，我们很乐意收到一些反馈。请访问 https://www.deepdish.app 查看！如果这听起来很酷，你可以加入候补名单。
+干杯！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1ec439e520</guid>
+      <pubDate>Fri, 14 Feb 2025 04:06:28 GMT</pubDate>
+    </item>
     <item>
       <title>Java 开发人员欢喜！这个开源秘密武器将使您的编码时间减少一半</title>
       <link>https://feed.indiehackers.world/post/a7869a56de</link>
@@ -165,8 +176,8 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>我开发了一款可以提高博客参与度的应用程序，现在我需要测试人员和反馈</title>
       <link>https://feed.indiehackers.world/post/3f6214dd12</link>
-      <description><![CDATA[如果您感兴趣，请发表评论或发送电子邮件至neven@boostbuddy.io，我会与您分享该应用程序。
-附注：作为次要目标，我对推荐很感兴趣新闻、博客甚至电子商务网站都对 AI 生成的摘要感兴趣，我可以联系他们。
+      <description><![CDATA[如果您感兴趣，请发表评论或发送电子邮件至neven@boostbuddy.io，我将与您分享该应用程序。
+P.S：作为次要目标，我对新闻、博客甚至电子商务网站的推荐很感兴趣，这些网站会对 AI 生成的摘要感兴趣，以便我可以联系他们。
 非常感谢！
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3f6214dd12</guid>
@@ -214,14 +225,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e07fed3106</guid>
       <pubDate>Thu, 30 Jan 2025 07:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次在 Product Hunt 上发布：ArchFormation 加速云基础设施开发！</title>
-      <link>https://feed.indiehackers.world/post/48a6139cfb</link>
-      <description><![CDATA[我们在 Product Hunt 上直播了！ArchFormation 加速了云基础设施的开发，为您节省了时间、金钱和精力，因此您可以专注于构建出色的产品。如果这引起了您的共鸣，我们将非常希望您能支持我们！点赞并分享您的想法！谢谢！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/48a6139cfb</guid>
-      <pubDate>Tue, 28 Jan 2025 11:37:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
