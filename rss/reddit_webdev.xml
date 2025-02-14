@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 01:05:22 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Fri, 14 Feb 2025 03:19:04 GMT</lastBuildDate>
+    <item>
+      <title>阻止来源为“https://glama.ai”的框架访问来源为“https://accounts.google.com”的框架。协议、域和端口必须匹配。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip16te/blocked_a_frame_with_origin_httpsglamaai_from/</link>
+      <description><![CDATA[大家好， 我对我网站上的这些错误感到非常困惑：  阻止来源为“https://glama.ai”的框架访问来源为“https://accounts.google.com”的框架。协议、域和端口必须匹配。 阻止来源为“https://glama.ai”的框架访问来源为“https://js.stripe.com”的框架。协议、域和端口必须匹配。  如果您访问 https://glama.ai，您可以亲自看到它们。 但是，它们只会在 Safari (macOS) 中发生。 是什么原因造成的？ 我只使用标准 SDK。 我谷歌搜索到的所有内容似乎都表明这是由不当访问框架的尝试引起的。但是，我无法控制这些 SDK 的工作方式。    提交人    /u/punkpeye   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip16te/blocked_a_frame_with_origin_httpsglamaai_from/</guid>
+      <pubDate>Fri, 14 Feb 2025 03:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>对此有什么看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip12r2/thoughts_on_this/</link>
+      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip12r2/thoughts_on_this/</guid>
+      <pubDate>Fri, 14 Feb 2025 03:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有人在他们的网站上实现了 Facebook 评论插件，我应该期待什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip0ke9/has_anyone_implemented_facebook_comments_plugin/</link>
+      <description><![CDATA[大家好。我在 r/wordpress 上问过类似的问题，但没有人回答。我的问题是是否有人在他们的网站上实现了 Facebook 社交插件，因为我正在考虑这个，但不确定会有什么结果。该插件是否与 Facebook 相连，还是只是一个外观花哨的普通评论插件。我的意思是，如果我在我的网站上嵌入 Facebook 帖子并实现社交插件，用户（登录 Facebook 的用户）是否能够直接从我的网站点赞和评论嵌入的帖子，而无需将他们重定向到实际网址，并且插件是否会在我的嵌入帖子中显示来自 Facebook 上实际帖子的 Facebook 评论？同样的问题也适用于点赞按钮。我的想法是在我的网站上嵌入公开的 Facebook 帖子，并且访问我的网站（并登录 Facebook）的用户能够阅读实际的评论部分并能够直接从我的网站参与。这可能吗？有人吗？    提交人    /u/sfffx2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip0ke9/has_anyone_implemented_facebook_comments_plugin/</guid>
+      <pubDate>Fri, 14 Feb 2025 02:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何检查 iframe 内表单的弹出窗口？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip016i/how_to_inspect_a_popover_of_a_form_inside_of_an/</link>
+      <description><![CDATA[      https://preview.redd.it/j2gluzbsi0je1.png?width=398&amp;format=png&amp;auto=webp&amp;s=a354b969d905204cb3681ea82f1cc0c4fcf9e8ba 我尝试使用 webdev 工具暂停浏览器，但检查工具仍然无法检测到这个弹出窗口。我也尝试在 dom 元素中搜索其文本和可能的类。我不知道在哪里还能找到它的参数。具体来说，我想检查它使用的阴影值。该网站是一份名为 Bild 的德国小报。这显示在 kontakt 页面中。可以在公司主页的页脚中找到该页面的链接。只有在完成验证码并单击提交按钮并且未选中任何单选按钮后，才会显示弹出窗口。感谢您的帮助。    提交人    /u/LeosFDA   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip016i/how_to_inspect_a_popover_of_a_form_inside_of_an/</guid>
+      <pubDate>Fri, 14 Feb 2025 02:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个情人节网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iozp1g/i_made_a_valentines_day_site/</link>
+      <description><![CDATA[大家好，我创建了一个网站，您可以在其中为您的另一半创造情人节体验！ 在这里查看：https://www.iluvyou.app/    提交人    /u/benugc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iozp1g/i_made_a_valentines_day_site/</guid>
+      <pubDate>Fri, 14 Feb 2025 01:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>为了删除广告，您只依靠登录还是也使用 cookie？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ioydpx/for_ad_removal_do_you_just_rely_on_login_or_also/</link>
@@ -64,7 +99,7 @@
     <item>
       <title>除了偶尔使用的 IDE 之外，其他开发人员还会购买其他工具吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iouprg/do_any_other_devs_buy_tools_other_than_the/</link>
-      <description><![CDATA[大家好，我在这里潜水已经有相当长一段时间了，现在我终于有一个问题/话题想和大家讨论，我想这对我自己以及社区中其他有类似问题的人都会有帮助。 TLDR：我正在考虑出售一个我自己构建的工具，这绝不是产品促销，只是一个一般性的询问，是否值得出售许可证或用我的工具启动一个小型 SASS，以及其他开发人员对不同定价策略的看法。 如果我决定在未来出售我的产品，我不会提供有关该产品的具体细节，因此如果有人认为合适，一般性的回答都是可以的、预料之中的，也是值得赞赏的！ 问题 1 在没有提供太多细节的情况下，我已经构建了一个跨平台的桌面工具，它有助于简化我在开发过程中遇到的一些麻烦（没有 AI 废话）。我看到团队内外的其他人也有同样的问题和需求，但我真的怀疑是否有人会购买小型开发工具作为产品。就我个人而言，我习惯使用 Postman、Firebase、VS Code、Obsidian 等免费提供个人许可的开发工具，很少需要购买除 JetBrain IDE 之外的任何工具。不用说，我的工具不如好的 IDE 那么大或那么重要，但它确实很好地解决了它的用例，改善了我的开发体验，并且还节省了时间。 这里有人除了 IDE 之外还购买开发工具吗？ 问题 2 当今大多数软件，无论是基于 Web、桌面还是移动，都使用订阅模式。我个人不喜欢订阅模式，宁愿现在付费并永远拥有。我看到许多其他开发人员和非开发人员都有同样的看法，但鉴于市场已经遵循这种支付模式很长一段时间了，它一定运行良好。普遍的共识是我们不喜欢订阅吗？ 我考虑过有多种支付模式，您可以直接购买产品，永远不必再次付款，除非您想让多台机器使用该软件（您当然可以随意添加和移除机器，不用担心机器损坏和丢失您的副本），或者每月支付 5-6 美元，并在任意数量的设备上进行跨平台/机器同步。这似乎是一个不错的计划，但是数据同步似乎是当今大多数桌面产品的最低要求。 这种支付结构是否太不合常规了？我正在尝试在一款产品中应用“现在购买，永久拥有”、“按需付费”和订阅计划，因为每个人的情况和需求都是不同的，我不确定这是否是个好主意。 如果您读到这里，感谢您花时间阅读本文，这意义重大。继续前进并创建 SaaS 是一项艰巨的工作，老实说，我正在努力证明花在启动和运行上的时间和金钱是合理的。我想看看大家的想法，无论是从消费者的角度还是从 SaaS 所有者的角度。    提交人    /u/jambalaya004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我在这里潜水已经有相当长一段时间了，现在我终于有一个问题/话题想和大家讨论，我想这对我自己以及社区中其他有类似问题的人都会有帮助。 TLDR：我正在考虑出售一个我自己构建的工具，这绝不是产品促销，只是一个一般性的询问，是否值得出售许可证或用我的工具启动一个小型 SASS，以及其他开发人员对不同定价策略的看法。 如果我决定在未来出售我的产品，我不会提供有关该产品的具体细节，因此如果有人认为合适，一般性的回答都是可以的、预料之中的，也是值得赞赏的！ 问题 1 在没有提供太多细节的情况下，我已经构建了一个跨平台的桌面工具，它有助于简化我在开发过程中遇到的一些麻烦（没有 AI 废话）。我看到团队内外的其他人也有同样的问题和需求，但我真的怀疑是否有人会购买小型开发工具作为产品。就我个人而言，我习惯使用 Postman、Firebase、VS Code、Obsidian 等免费提供个人许可的开发工具，很少发现需要购买除 JetBrain 的 IDE 之外的任何工具。不用说，我的工具不如好的 IDE 那么大或那么重要，但它确实很好地解决了它的用例，改善了我的开发体验，并且还节省了时间。 这里有人除了 IDE 之外还购买开发工具吗？ 问题 2 当今大多数软件，无论是基于 Web、桌面还是移动，都使用订阅模式。我个人不喜欢订阅模式，宁愿现在付费并永远拥有。我看到许多其他开发人员和非开发人员都有同样的看法，但鉴于市场已经遵循这种支付模式很长一段时间了，它一定运行良好。普遍的共识是我们不喜欢订阅吗？ 我考虑过有多种支付模式，您可以直接购买产品，永远不必再次付款，除非您想让多台机器使用该软件（您当然可以随意添加和移除机器，不用担心机器损坏和丢失您的副本），或者每月支付 5-6 美元，并在任意数量的设备上进行跨平台/机器同步。这似乎是一个不错的计划，但是数据同步似乎是当今大多数桌面产品的最低要求。 这种支付结构是否太不合常规了？我正在尝试在一款产品中应用“现在购买，永久拥有”、“按需付费”和订阅计划，因为每个人的情况和需求都是不同的，我不确定这是否是个好主意。 如果您读到这里，感谢您花时间阅读本文，这意义重大。继续前进并创建 SaaS 是一项艰巨的工作，老实说，我正在努力证明花在启动和运行上的时间和金钱是合理的。我想看看大家的想法，无论是从消费者的角度还是从 SaaS 所有者的角度。    提交人    /u/jambalaya004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iouprg/do_any_other_devs_buy_tools_other_than_the/</guid>
       <pubDate>Thu, 13 Feb 2025 21:56:11 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[      这是一个免费的、非常用户友好的 gpt 提示器，它可以做两件事： 随时单击扩展程序以输入基于屏幕截图和当前网页的整个 html 作为上下文回答的提示。 突出显示要应用的任何文本并保存提示并查看差异，以便轻松重写文本。 您只需要一个 OpenAi 密钥即可使用它。 尽情享受吧！    提交人    /u/ReviewMePls   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iouhpj/i_just_published_my_first_chromeedge_extension/</guid>
       <pubDate>Thu, 13 Feb 2025 21:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>更好的移动弹出窗口</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iou69r/better_mobile_popups/</link>
-      <description><![CDATA[嗨朋友们 - 我正在寻求帮助为我的网站建立 oauth 身份验证！ 关于我：我是一名异国舞者，对网络开发还很陌生！如果我的问题格式不正确，我很抱歉；不准确 - 希望它有意义！ 上下文：我正在尝试构建一个时尚风格的网站 kherem.com，并使用 Angular 和 Firebase 身份验证实现用户注册/登录。 问题：在使用 Google-sso 进行注册和登录时，我使用的弹出窗口要么  无法打开，并向用户显示错误“用户关闭了弹出窗口） 弹出窗口被自动阻止，甚至没有提示用户“允许”。  有没有办法在实际显示弹出窗口之前询问用户弹出权限？ 使用弹出身份验证窗口是否是一种好习惯？ 我尝试过的： - 我已经验证，在允许弹出窗口后，一切正常。但是，我还没有找到任何工具/功能可以轻松允许首次用户会话“与用户核实是否允许弹出窗口”。我在网上看到的大多数解决方案似乎只是引用“用户必须在其浏览器上允许弹出窗口”，这似乎是一种响应资源请求的“被动”流程，而不是“主动”我的服务询问是否可以显示，然后显示。    提交人    /u/Ok-Mango-7655   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iou69r/better_mobile_popups/</guid>
-      <pubDate>Thu, 13 Feb 2025 21:32:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我被解雇了！前端工程师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iotrrz/i_got_layed_off_frontend_engineer/</link>
-      <description><![CDATA[我的经理催促高层在没有任何反馈的情况下终止了我的合同，但我认为这是因为四个月内他来办公室四次，有两次我都不在。尽管我知道我住在另一个城市，远程工作效率更高，可以省去办公室通勤的麻烦，但我还是坚持这么做。 我现在对新的机会持开放态度，远程工作是一项不可协商的要求。 技术栈：JavaScript/TypeScript、React/Next.js 和现代 Angular + Express 和工具    提交人    /u/pooreffects   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iotrrz/i_got_layed_off_frontend_engineer/</guid>
-      <pubDate>Thu, 13 Feb 2025 21:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化自由职业者和代理机构的资料</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iosqlx/optimize_freelancers_and_agencies_profiles/</link>
-      <description><![CDATA[我想帮忙 如果您有作品集、Upwork/LinkedIn（您推广服务的任何其他平台）个人资料、网站等。 把它们放在这里，我会给你我的建议    提交人    /u/TheUncleAnonym   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iosqlx/optimize_freelancers_and_agencies_profiles/</guid>
-      <pubDate>Thu, 13 Feb 2025 20:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于刚刚学习的人来说，最好的 IDE 和编译器是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iosj13/what_would_be_the_best_ide_and_compiler_for/</link>
-      <description><![CDATA[我想进入 Web 开发领域，但我需要找到一个 IDE 和编译器。我听说过一些关于 Visual Studio 的优缺点，但 Eclipse 好用吗？任何其他建议都绝对欢迎。    提交人    /u/Volcanic_Taco   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iosj13/what_would_be_the_best_ide_and_compiler_for/</guid>
-      <pubDate>Thu, 13 Feb 2025 20:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iorsh0/freelancing/</link>
-      <description><![CDATA[嗨，我想知道如何开始作为一名全栈开发人员的自由职业。有什么想法/建议吗？    提交人    /u/UrMomIsGayyyyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iorsh0/freelancing/</guid>
-      <pubDate>Thu, 13 Feb 2025 19:49:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
