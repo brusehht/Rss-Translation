@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 15 Feb 2025 12:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 15:14:55 GMT</lastBuildDate>
+    <item>
+      <title>Python的开源音频压缩机/限制器库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iq0eel/open_source_audio_compressorlimiter_library_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很高兴共享一个我一直在Python工作的小而功能强大的音频压缩机/限制器库。它的设计是快速的（由于Numpy的矢量化和Cython的使用来昂贵的循环）和良好的声音，我很想获得您的反馈！ 库存库，具有更详细的描述的存储库，请参见：  https://github.com/gdalik/gdalik/audiocomplib   我已经将车轮上传到PYPI，所以您可以直接从那里安装它：   pip安装audiocomplib   您的评论，建议和贡献非常感谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; &lt; reddit.com/r/opensource/comments/1iq0eel/open_source_audio_compressorlimiter_library_for/&quot;&gt; [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iq0eel/open_source_audio_compressorlimiter_library_for/</guid>
+      <pubDate>Sat, 15 Feb 2025 12:33:01 GMT</pubDate>
+    </item>
     <item>
       <title>SVG插图的开源集合</title>
       <link>https://www.reddit.com/r/opensource/comments/1ipy8rp/opensource_collection_of_svg_illustrations/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iparvv/1iparvv/richard_stallman_riscv_riscv_and_freeopen_source/” Open Source Hardware&quot; src=&quot;https://external-preview.redd.it/UHpEIZ_9DJVfwwWx7K7B1f_DggQRfFL5GOCXqCMIldk.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=109253defcb3ba33c9aaf1bf89f87bde3d9a1067&quot; title=&quot;Richard Stallman on RISC-V and Free /开源硬件“/&gt;   ＆＃32;提交由＆＃32; /u/u/shockleytransistor     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iparvv/richard_stallman_on_riscv_and_freeopen_source/</guid>
       <pubDate>Fri, 14 Feb 2025 13:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我分叉了一个项目，并添加了许多新功能。我不打算将其与原始内容合并，因为它已经差异太远了。我如何处理原始作者的个人品牌？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipa0ts/i_forked_a_project_and_added_a_bunch_of_new/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是一个反应项目，因此原始作者的姓名和电子邮件在package.json文件中。我只用他们的名字添加自己的名字吗？我要替换吗？我该怎么办？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vardonir     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipa0ts/i_forked_a_project_and_added_a_bunch_of_new/</guid>
-      <pubDate>Fri, 14 Feb 2025 12:59:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
