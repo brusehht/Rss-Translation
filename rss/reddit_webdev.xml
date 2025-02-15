@@ -4,111 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 12:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 18:18:08 GMT</lastBuildDate>
     <item>
-      <title>我在《野外》中发现的具有不良可读性的博客。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq071x/a_blog_with_bad_readability_that_i_found_in_the/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/mechanicawkward55​​45      [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq071x/a_blog_with_bad_readability_that_i_found_in_the/</guid>
-      <pubDate>Sat, 15 Feb 2025 12:20:07 GMT</pubDate>
+      <title>vue + supabase +电容器 + daisyui抽屉：移动应用程序启动模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq7g1w/vue_supabase_capacitor_daisyui_drawer_a_mobile/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   身份验证：使用supabase实现用户身份验证，包括登录，注册和处理身份验证状态。 抽屉组件：使用daisyui组件构建抽屉，管理其开放/关闭状态以及处理路由。  Composables ：使用vue.js composable（usedrawer）集中抽屉状态  源代码 -   https://github.com/aaronksaunders/daisyui-vue-drawer-2025     video- https://youtu.be/pirgbyj9dwo?si=tvs58lg61bgtfbub    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aaronksaunders     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq7g1w/vue_supabase_capacitor_daisyui_drawer_a_mobile/</guid>
+      <pubDate>Sat, 15 Feb 2025 18:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>我无法在Vercel中托管烧瓶 + index.html应用程序，请指导我</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzxxq/im_unable_to_host_my_flask_indexhtml_app_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   apis写为    u/app.route（&#39;//api/search&#39;，methods = [[ &#39;post&#39;]））  ，并将请求发送为    const response =等待fetch（endpoint，{方法：&#39;post&#39;，headers：{&#39;&#39; content-type&#39;：&#39;application/json&#39;，}，body：json.stringify（{query}），}）;   我有vercel.json，文件结构正确，index.html在模板中，仍然无法部署，任何人都可以帮助我  404 POST请求错误&lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kingofpyrates     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzxxq/im_unable_to_host_my_flask_indexhtml_app_in/</guid>
-      <pubDate>Sat, 15 Feb 2025 12:03:13 GMT</pubDate>
+      <title>我制作了一个工作应用程序跟踪器网站 +浏览器扩展程序！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq70zx/i_made_a_job_application_tracker_website_browser/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/typesafeui     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq70zx/i_made_a_job_application_tracker_website_browser/</guid>
+      <pubDate>Sat, 15 Feb 2025 17:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关我的简历，英国的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzqtx/seeking_feedback_on_my_cv_uk_based/</link>
-      <description><![CDATA[     大家好！在与一群招聘人员联系之前，我正在寻求对我的简历的建设性批评，然后将针对单个职位应用程序量身定制此简历（我只想开始一个强大的基本简历）。 我目前的堆栈是React，Node，Express，PostgreSQL，但我也对新技术开放。 我遇到的一些特定问题：  是我的摘要太通用或我应该指定我精通/希望与之合作的堆栈吗？ 我应该在工作经验中提及兼职吗？还是那是脚上的射击？ 最后一个子弹点是无关紧要的？我之所以包括它是因为我认为与利益相关者联络是一项重要的软技能。 我的技能部分是否过分？例如，将黑曜石作为笔记软件。 IT/3IQ1T3YAGAJE1.PNG？width = 689＆amp;格式= png＆amp; auto = webp＆amp＆amp＆amp＆amp＆amp＆am = 494b0b8f5a222874873de2b2b230eee39a2cc5112c5112c41宽度= 689＆amp;格式= png＆amp; auto = webp＆amp; s = 494B0B8F5A222874873DE2B230EE39A2CC5112C41    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jwallis46     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzqtx/seeking_feedback_on_my_cv_uk_based/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:49:38 GMT</pubDate>
+      <title>[民意调查]您喜欢哪种颜色/动画样式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq6li4/poll_which_coloranimation_style_for_directed/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/xamid     [链接]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq6li4/poll_which_coloranimation_style_for_directed/</guid>
+      <pubDate>Sat, 15 Feb 2025 17:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了世界上最过度设计的时区时钟-MeridianApp.co</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzn3k/i_made_the_worlds_most_overengineered_time_zone/</link>
-      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/pandaman1999     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzn3k/i_made_the_worlds_most_overengineered_time_zone/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:42:40 GMT</pubDate>
+      <title>RAOI  - 打字稿库提供对象整数ID并随时通过上述ID检索。使用全局寄存器或创建本地寄存器，并通过多种方法确保在TS和Vanilla JS中键入安全性！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq6l3g/raoi_typescript_library_to_give_objects_integer/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/anbeeld     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq6l3g/raoi_typescript_library_to_give_objects_integer/</guid>
+      <pubDate>Sat, 15 Feb 2025 17:36:32 GMT</pubDate>
     </item>
     <item>
-      <title>GSAP不与Lenis合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzn2a/gsap_dont_work_with_lenis/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，实际上是在努力使GSAP和LENIS一起工作，   ＆lt;！doctype html＆gt;！ ＆lt; html lang =; ＆lt; head＆gt; ＆lt; meta charset =&#39;utf-8＆quot /＆gt; ＆lt; meta名称=“视口” content =; width =设备宽度，初始尺度= 1.0＆quot; /＆gt; ＆lt; meta http-equiv =＆quot x-ua兼容; content =; ie = edge＆quot＆quot; /＆gt; ＆lt; title＆gt; html + css＆lt;/title＆gt; ＆lt; link rel =“样式表” href =“ styles.css” /＆gt; ＆lt;/head＆gt; ＆lt; style＆gt; html，身体{高度：100％;溢出：隐藏；字体家庭：sans-serif; } .scrollWrapper {高度：100VH;溢出：隐藏；位置：绝对；顶部：0; } .scrollcontent {高度：100％;溢出：滚动； -webkit-overflow-scrolling：touch; }节{width：100VW;最大宽度：100％；身高：100VH；显示：Flex; } H2 {Align-felt：Center; }＆lt;/style＆gt; ＆lt;身体＆gt; ＆lt; div class =&#39;scrollWrapper＆quot; gt; ＆lt; div class =&#39;scrollContent＆quot; gt; ＆lt; e节＆lt; section style =; quote =&#39;background：red＆quord＆gt;＆lt; h2＆gt;我的标题1＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; section style =;背景：蓝色＆quot＆gt;＆lt; h2＆gt;我的标题2＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题3＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题4＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt; e节＆lt;＆lt; h2＆gt;我的标题6＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt; section＆gt;＆lt; h2＆gt;我的标题8＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题9＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题10＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt;/div＆gt; ＆lt;/div＆gt; ＆lt;/body＆gt; ＆lt; script src =＆quot; https：//cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js&quot;完整性=＆quot; sha512-7ehrwcbykk4d9g/6td/mhkf ++ eothwpnm9wobxtpubwm67zeaffc+hrdoe2gankeocly/vxelviqwiqwvcdk7qscg = = =＆quot crossorigin =&#39;匿名referrerpolicy =＆quot“ no-treferrer; quot” ＆gt;＆lt;/script＆gt; ＆lt; script src =＆quot; https：//cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/scrolltrigger.min.js&quot;完整性=＆quot; sha512-onmtrkjbkz8m1tnqqdugblowlh0ohfzmxyrnebz+yocc5tqr/zaksthzhuv0hiyukeiqeqeqeqexeyqxeynnxeynxcvntok5g ==＆quot crossorigin =&#39;匿名referrerpolicy =＆quot“ no-treferrer; quot” ＆gt;＆lt;/script＆gt; ＆lt; script src =＆quot; https：//cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.0.42/dist/lenis.min.min.js＆js&quot; ＆lt; script＆gt; gsap.registerplugin（scrolltrigger）; const wrapper = document.queryselector（; scrollWrapper;）; const content = document.queryselector（＆quot; scrollcontent; quot;）; const lenis = new Lenis（{包装器：包装器，内容：内容，持续时间：2，放松：（t）=＆gt; math.min.min（1，1.001 -Math.pow（2，-10 * t）），EventStarget： document.documentElement，}）;功能Raf（time）{lenis.raf（time）; scrolltrigger.update（）; requestAnimationFrame（RAF）; } requestAnimationFrame（RAF）; scrolltrigger.defaults（{scroller：wrapper}）; scrolltrigger.scrollerproxy（包装器，{scrolltop（value）{return grength.length？lenis.scrollto（value，{持续时间：0，立即：trighatization：trime}）：lenis.scroll;}左：0，宽度：window.innerwidth，高度：窗口。 const部分= gsap.utils.toArray（“部分”）; sections.map（（（部分，index）=＆gt; {让tl = gsap.timeline（{持续时间：1，scrolltrigger：{trigger：trigger：proct，标记：true，markers：true，scrub：true，start，start：＆quot&#39;top＆quort＆quort＆quort＆quort＆quort＆quort＆quort＆quot&#39; ＆quot&#39;top＆quot&#39;}，}）; ＆lt;/script＆gt; ＆lt;/html＆gt;     https://codesandbox.io/p/sandbox/sandbox/m877qzq 这里我的预览代码，GSAP似乎不了解DOM或类似的东西。有人已经得到了这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzn2a/gsap_dont_work_with_lenis/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:42:35 GMT</pubDate>
+      <title>我建立了一个用于网站监视的AI代理 - 寻找反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq5wfj/i_built_an_ai_agent_for_website_monitoring/</link>
+      <description><![CDATA[在/a&gt;，我和我的两个朋友正在研究的产品。我们很想听听您的反馈和意见。 一切都开始了，当我们发现LLMS可以通过遵循类似Chatgpt的提示来浏览网站时真的很擅长浏览网站。因此，我们建立了一个LLM代理，并提供了键盘之类的工具。鼠标控制。我们解析网站，代理会采取行动提示。这为网站监控和测试开辟了很多机会。它也是的绝佳替代品。   而不是仅仅是ping网站，您现在可以提示AI代理商作为真实用户访问和与网站互动。第三方应用程序崩溃或功能无法加载。 设置了代理商运行其监视流程的频率后，它实际上每次都会访问您的网站。 LLM现在足够聪明，并与我们的Web解析相结合，如果某些网络元素更改，则代理会在不询问您的帮助的情况下进行适应。  以下是我们第一个客户如何使用它的一些示例：    代理商访问您的网站，输入搜索框中的关键字，并验证相关搜索结果是否出现。 代理商访问您的登录页面，输入凭据，并确认成功登录到正确的帐户。 代理通过填写所有必要字段来完成购买流程，并检查结帐过程是否正常工作。   我们最初是将其启动为质量保证测试自动化代理，但注意到我们的早期客户将其更多用作网站正常运行时间监控服务。 我们提供7天的免费试用版，但是如果您想尝试一下只需延长我，我就会免费给您一个月以换取您的反馈。 我们很想听听您的所有反馈和意见。 &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ticaragua     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq5wfj/i_built_an_ai_agent_for_website_monitoring/</guid>
+      <pubDate>Sat, 15 Feb 2025 17:06:20 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个本地的通用文件转换器，它不会将您的文件发送到粗略的服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzkp3/i_made_a_local_universal_file_converter_that/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/jakecoolguy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzkp3/i_made_a_local_universal_file_converter_that/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:38:04 GMT</pubDate>
+      <title>我制作了一个让浪漫迷的应用程序，有无尽的AI编写故事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq5qgt/i_made_an_app_that_lets_romance_junkies_have/</link>
+      <description><![CDATA[     &lt;！ -  sc_off-&gt;  我希望通过让他们harness openai制作自己喜欢的尽可能多的自定义故事来满足浪漫迷的需求！ 用户可以在无尽的组合中选择自己的类型，主题，设置，音调和张力水平，以产生自己的故事。我使用每次输入的自定义提示，并为OpenAI API的最终提示提供了使用，并使用Dalle-3进行了故事封面。 让我知道您的想法！ 技术堆栈：SST，Next，TypeScript（DUH）  P.S。 Inngest是有史以来最酷的工具。  app： https://lovebound.io     repo：  https://github.com/spacerumsfeld-code/lovebound       ＆＃32;提交由＆＃32; /u/u/ok_confusion_1777       [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq5qgt/i_made_an_app_that_lets_romance_junkies_have/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:59:33 GMT</pubDate>
     </item>
     <item>
-      <title>我已经编辑了200多个有用的网站/应用的列表，以备一系列用途</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipywlb/ive_compiled_a_list_of_200_useful_websites_apps/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我只是想分享自己的网站，其中汇总了200多个网站，软件和应用程序的列表。这些范围从有用的网站，资源和其他创造性爱好（例如艺术，音乐，摄影）。 此列表由我手工挑选。没有网络报废或列出大量缠身或狡猾的网站。只有有用（或有趣的）网站。通常是免费的开源。尽管还列出了付费应用程序。 我可能应该添加一个搜索功能，但是您可以通过单击顶部的标签过滤器来组织几个类别，例如免费，付费，Windows，Mac和Linux页面。 如果您有更多内容，则认为应该添加到列表中。请告诉我！每当我有空闲时间并有要添加的网站时，我都会在列表中添加更多网站。 我认为我的其余网站对这里的人来说不会太有趣，但是请随时检查一下     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unerage_cdcruz     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ipywlb/ive_compiled_a_a_af_200_200_useful_websites_apps/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipywlb/ive_compiled_a_list_of_200_useful_websites_apps/</guid>
-      <pubDate>Sat, 15 Feb 2025 10:48:55 GMT</pubDate>
+      <title>retcom-重写您的提交消息。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq5icq/retcom_rewrite_your_commit_messages/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;     tl：dr：我制作了一个Web应用程序，可以重写您的整个提交单击几下消息历史记录。   https://retcom-ac130.web.app.app    嗨， 我在创业公司担任开发人员，最近我必须向监管机构提交详细的更改列表。  不幸的是，我的所有3028个我的提交消息看起来都有些尴尬：   &lt; /p&gt; 我最终制作了一种工具来帮助我将它们变成这一点：   https：/// C93719DED2D11BD9D277EEE9EDE4AF9A33F73C4   我也发现它对其他项目也很有用，因此我建立了一个前端，并已将其部署供其他人尝试使用。   它的工作原理：   选择分支（以及您需要重写的特定提交）。 等待差异发送到LLM以进行消息生成。 创建了一个新分支，与第一个相同，但具有高质量的提交消息。    &lt;  &lt; strong&gt;要点：   您的原始分支被留下。 一切都将一切都推到一个新的分支，所有提交都有新的shas。  如果您在团队中工作并决定合并或切换到新分支，这将产生后果。     UI不能很好地处理大型（1000+ commit）存储库。 需要一段时间。我刚刚做了一个3028提交的回购，花了5个小时。我对API限制非常谨慎，但是可以在以后的更新中加快速度。 错误处理有点有限。 我不确定如何好吧，它将处理来自不同用户的并发作业。 您需要与GitHub登录以进行回购访问。  所有令牌在使用后都被加密并在使用后销毁。     我将自由限制设置为在Beta时的1000下限，因此，如果您想立即尝试一下，这是个好时机！  感谢任何反馈：）   https://retcom-ac130.web.app    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/george2967     [link]   ＆＃32;   [注释]     /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq5icq/retcom_rewrite_your_commit_messages/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:49:26 GMT</pubDate>
     </item>
     <item>
-      <title>视频游戏发布日历和跟踪器 - 需要您的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipyl5e/video_game_releases_calendar_and_tracker_need/</link>
-      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ipyl5e/1ipyl5e/video_game_game_releases_calendar_and_and_and_tracker_need/ feedback&quot; src=&quot;https://external-preview.redd.it/lcDtxRf1zUznZNjvPTUWftqdcyIkRPL_68ww6G0Vwug.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0d56bfa3683cfa90245ec1126034bff238b84cf9&quot; title=&quot;Video game releases calendar and tracker - need your feedback “/&gt;    &lt;！ -  sc_off-&gt;   hi！ 这是VGCAL，项目i&#39;在过去的几个月中，VE一直在工作，只是默默地推出了。这主要是一个日历/跟踪器应用程序，但我计划添加推荐功能和更多方法，以便在游戏中出来时获得通知。但是目前，我很想听听你们对设计或功能的看法，如果您以任何方式觉得这有用！ （另外，如果您注意到任何错误^^）   https://preview.itd.itd.it/r3zc3w3aje1.jpg？ 7307CE79C47D05E45A0FCE   您也可以看到快速演示视频在这里： https://imgur.com/a/6rtvkob    它使用igdb api，对于与视频游戏有关的任何项目，这都是一个很好的资源。 谢谢，祝您有一个不错的周末！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jrmsw     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipyl5e/video_game_releases_calendar_and_tracker_need/</guid>
-      <pubDate>Sat, 15 Feb 2025 10:24:51 GMT</pubDate>
+      <title>建立一个网站，您可以同时学习韩语，日语和中文。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq5hdn/made_a_site_where_you_can_learn_korean_japanese/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/bhadayun     [链接]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq5hdn/made_a_site_where_you_can_learn_korean_japanese/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>自动，高质量的编程YouTube视频供稿</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipyevv/automatic_high_quality_programming_youtube_videos/</link>
-      <description><![CDATA[     大家好，我是一个程序员，我想知道最新消息，尝试最新的事情并变得更好。  youtube主页获得最新消息不是一个好选择。由于许多编程视频都低质量和点击诱饵。 因此，我决定提出自己的解决方案：   https://effectionfeed.com/    使用Chatgpt API和YouTube API，其过滤自动的24/7仅是有关软件开发和DevOps的最佳YouTube视频，并在网站中显示。  这是其中一个结果的示例：  https://preview.redd.it/icswjkjd2aje1.jpg?width=857&amp;format=pjpg&amp;auto=webp&amp;s=c1932c42e23c671550aa2e148160e3ea8ef39353  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lokoom     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipyevv/automatic_high_quality_programming_youtube_videos/</guid>
-      <pubDate>Sat, 15 Feb 2025 10:11:47 GMT</pubDate>
+      <title>需要域名和电子邮件，也许是网站 - 使用什么？ newb</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq5ctp/need_a_domain_name_email_maybe_website_what_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想为他重新进入的我父亲的房地产bizz设置域名和电子邮件。他年龄较大，现年71岁，不是精通技术的。他使用他的comcast电子邮件，看起来像是迹象上的废话，而不是专业的。  我想购买一个域，然后通过 hisname@hisdomain.com 。建立网站确实在路上。  我不知道购买域不包括电子邮件服务。我使用的最好的路线是什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rpdubc     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq5ctp/need_a_domain_name_email_maybe_website_what_to/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:42:20 GMT</pubDate>
     </item>
     <item>
-      <title>DIY音频齿轮制造商的免费，开源的“虚拟套件”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipy5of/free_opensource_virtual_kits_for_diy_audio_gear/</link>
-      <description><![CDATA[      &lt;！ -  sc_off-&gt;  在周六进行炫耀，我想分享一个我已经建立了三年多的网络工具 - 。这是一个免费的开源工具，可为DIY合成器，吉他踏板和其他音频装备项目提供采购零件。材料清单）可能是 -  pdfs，过时的零件号，也没有简单的方法来购买组件。 BOM小队修复了。  一键式虚拟套件  - 即使您不喜欢，即使您不喜欢&#39;t知道所有晦涩的字母和数字意味着什么...  智能库存跟踪&lt; /strong&gt;  -  BOM Squace知道您的藏匿处已经有什么，并帮助您弄清楚在多个项目中仍然需要什么。 众包组件＆amp;建立知识  - 请参阅其他人使用的组件，比较价格＆amp;可用性，并根据现实世界的DIY经验做出更好的选择。 我在自己的DIY合成器构建的大流行期间开始了此过程，但它已经成长为更大的东西。目标很简单：使其尽可能容易（即使对于总的初学者），可以以一小部分组装价格来建造凉爽的音频装备。 会喜欢您的反馈！ 🚀🎛️🎸 网站在这里： https://bom-squad.com    Open-Source Repo在这里： https://github.com/pletherstarfish/bomsquad 呢这是一个React/django网站，我总是很高兴有新的合作者   https://preview.red 8E13099F92DBDBD38F3D35C6C8F638    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bronze_by_gold     [link]   ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipy5of/free_opensource_virtual_kits_for_diy_audio_gear/</guid>
-      <pubDate>Sat, 15 Feb 2025 09:52:20 GMT</pubDate>
+      <title>我为使用Slack和github/bitbucket的开发人员制作了生产力工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4xsq/i_made_a_productivity_tool_for_developers_using/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/quareAbrocoma75     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4xsq/i_made_a_productivity_tool_for_developers_using/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:23:10 GMT</pubDate>
     </item>
     <item>
-      <title>推出了54个开源SVG插图[周六炫耀]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipy4on/launched_54_opensource_svg_illustrations_showoff/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/elwingo1     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipy4on/launched_54_opensource_svg_illustrations_showoff/</guid>
-      <pubDate>Sat, 15 Feb 2025 09:50:14 GMT</pubDate>
+      <title>Chrome Dev工具性能面板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4jnp/chrome_dev_tools_performance_panel/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近写了一篇有关使用Chrome New Performance面板查看Core Web Vitals/Crux数据的文章。   https://iankduffy.com/articles/using-chrome-new-performance -panel-landing-page-in-in-dev-tools/  想知道其他人使用它的经历，还是是否使用过它？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/isduffy     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4jnp/chrome_dev_tools_performance_panel/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>您如何看待我的Interactive SVG动画？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipy0z2/how_do_you_like_my_interactive_svg_animations/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不是Web开发人员，但我设计了一些对鼠标悬停反应的SVG动画（抽象图）。他们不是最终状态，我想在继续之前收集更多输入。 我显示了三种不同的动画样式在此页面上。 /Github.com/xamidi/pmgenerator/discussions/8&quot;&gt; this poll 。 该页面包含很多书面背景信息（如果您不在乎，请忽略它），并且有一本微小的用户手册（默认情况下是隐藏的，因此您可以检查是否发现处理动画直觉）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/xamid     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipy0z2/how_do_you_like_my_interactive_svg_animations/</guid>
-      <pubDate>Sat, 15 Feb 2025 09:42:28 GMT</pubDate>
+      <title>我努力寻找一种简便的方法来展示我的项目，而无需支付完整的网站。因此，我构建了自己的无代码投资组合工具。你怎么认为？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4g3q/i_struggled_to_find_an_easy_way_to_showcase_my/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/stephane_b     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4g3q/i_struggled_to_find_an_easy_way_to_showcase_my/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:01:05 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个极简主义的反馈工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipx18r/i_made_a_minimalist_feedback_tool/</link>
-      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/uny_perspective_291     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipx18r/i_made_a_minimalist_feedback_tool/</guid>
-      <pubDate>Sat, 15 Feb 2025 08:25:08 GMT</pubDate>
+      <title>制作了AI工作申请机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4fag/made_an_ai_job_application_bot/</link>
+      <description><![CDATA[       寻找任何人都感到善良而有帮助的人加入某种形式试点计划并尝试新功能在向用户部署之前，提供反馈/建议，总体上帮助我们朝着正确的方向引导产品。 DMS/评论打开，感谢任何愿意每天贡献几分钟的人。 网站是 https://jobzy.ai 但是，在上周左右的大多数新功能尚未部署。很高兴将最新更改的私人版本发送给希望帮助我们提供反馈的任何人  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/th3ze     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4fag/made_an_ai_job_application_bot/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>密码重置表格设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我正在构建一个密码重置表单，并获得了所有设计和功能，并且想知道我还能清理它吗？我特别不喜欢如何对齐密码要求我喜欢它们以中心为中心，但看起来不正确。提交由＆＃32; /u/u/u/saajaadeen     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</guid>
-      <pubDate>Sat, 15 Feb 2025 07:54:34 GMT</pubDate>
+      <title>在我的个人网站上寻找反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4ese/looking_for_feedback_on_my_personal_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://maepigeon.com  &gt;查看我的网站时有什么疼痛点吗？我将其放在我的简历上，因此，如果您从专业的角度也有任何批评，那么LMK。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flame_wizard     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4ese/looking_for_feedback_on_my_personal_website/</guid>
+      <pubDate>Sat, 15 Feb 2025 15:59:30 GMT</pubDate>
     </item>
     <item>
-      <title>扩展语言更改？ |从ChineSeSimplified（ZH）到Eng</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipw0aw/extension_language_change_from_chinesesimplified/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/mahad-haroon     link]  ＆＃32;   [注释]            &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipw0aw/extension_language_change_from_chinesesimplified/</guid>
-      <pubDate>Sat, 15 Feb 2025 07:07:10 GMT</pubDate>
+      <title>与我一起构建这个：我正在建立一个以社区为导向的小型输入验证库，专注于安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipycpk/build_this_with_me_im_building_a_communitydriven/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我知道，现有架构验证，例如YUP和ZOD很棒。 我个人在小型项目中使用它，在小项目中，我没有很多表格来证明所有常见模式验证器的设置是合理的，但是与此同时，我需要可靠的输入验证。  这也是一种有趣的做法。 如果您看到了任何未来，请随时做出贡献。尤其是如果您在XSS和输入安全性中有知识。   fideo demo（屏幕记录）    demo 。  github    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ammarhalees     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipycpk/build_this_with_me_im_building_a_communitydriven/</guid>
+      <pubDate>Sat, 15 Feb 2025 10:07:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
