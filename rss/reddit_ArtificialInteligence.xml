@@ -4,7 +4,14 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 06:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 09:13:28 GMT</lastBuildDate>
+    <item>
+      <title>跳过和重复使用文本编码器层，用于记忆有效的文本对图像生成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipw8p4/skip_and_reuse_text_encoder_layers_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里的关键贡献是一种称为 skrr 的新方法，通过智能跳过，可以在文本到图像模型中优化文本编码器并重复使用变压器层。 SKRR并没有依次处理每个层，而是识别冗余计算并绕过它们或重复先前的输出。 主要技术点： - 引入了适应输入复杂性的动态层选择机制 - 减少记忆使用的方法8倍与标准方法相比 - 保持关键指标的性能（FID，剪辑得分，Dreamim） - 优于现有的修剪方法，同时保持图像质量 - 验证了多个模型体系结构的结果，包括稳定的扩散变体 实验结果显示： - 最佳情况下的记忆力减少87.5％ - 在基线模型的2％以内的FID分数 - 对夹得分对准的影响可忽略不计 - 在各种提示之间保持一致的性能 - 最小的额外培训开销 我认为这可能是特别是特别是对在内存约束设备上部署文本对图像模型的影响。尽管以前的优化尝试通常以效率牺牲了质量，但SKRR表明我们可以两者兼而有之。我希望这会影响未来的文本到图像架构的设计方式，并有可能使这些模型在现实世界应用程序中更容易访问。  tldr：新方法大大降低了文本对图像模型中的内存使用情况通过在保持图像质量的同时智能跳过冗余层。部署可能会使这些模型更加实用。  完整摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipw8p4/skip_and_reuse_text_encoder_layers_for/</guid>
+      <pubDate>Sat, 15 Feb 2025 07:24:33 GMT</pubDate>
+    </item>
     <item>
       <title>超级智能的后果</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipv6wq/the_consequences_of_super_intelligence/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;      dell 接近50亿美元的AI服务器交易。[1]    meta 备忘录显示投资于AI驱动的人形机器人。[2]    ai alexa 和 ai siri  [3]  亚当·西尔弗（Adam Silver）和金州战士（Golden State Warriors  源包括： https://bushaicave.com/2025/02/ 14/2-14-2025/   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pleam-target-847      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipq1gc/oneminute_daily_ai_news_2142025/</guid>
       <pubDate>Sat, 15 Feb 2025 01:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何掌握整个代码库？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipppkv/how_do_you_grok_entire_code_bases/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，例如，我想理解尝试改进该项目，该项目总结   https://github.com/cognitivetech/ollama-ebook-summary   谢谢。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/azimuth79b     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipppkv/how_do_you_grok_entire_code_bases/</guid>
-      <pubDate>Sat, 15 Feb 2025 00:48:31 GMT</pubDate>
     </item>
     <item>
       <title>潜在的硬极限：终端智能</title>
