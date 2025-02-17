@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 17 Feb 2025 01:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 03:21:27 GMT</lastBuildDate>
+    <item>
+      <title>第3天！顶级评论决定将其添加到网站上！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ira8ve/day_3_top_comment_decides_what_gets_added_to_the/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]   ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ira8ve/day_3_top_comment_decides_what_gets_added_to_the/</guid>
+      <pubDate>Mon, 17 Feb 2025 03:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一网站的水疗与多页？ + CSS组织问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ir9qmf/spa_vs_multipage_for_first_website_css/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，我在我的第一个网站上工作（我对JS，CSS和HTML有一些经验），但是我是坚持使用单个页面应用程序（SPA）还是传统的多页设置。水疗中心看起来更加顺畅，但似乎也很难实现。对于初学者来说，哪种路线更好？我真的很想沿着水疗路线走，因为我喜欢制作动画。我只是不太确定只有一页，链接和一切都如何工作。请帮助😂 另外，将我的CSS分为不同页面的单独文件是个好主意吗？现在，我以一种大型款式获得了所有内容，CSS文件开始感到凌乱。感谢任何提示！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/twoloafsapps     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ir9qmf/spa_vs_multipage_for_first_website_css/</guid>
+      <pubDate>Mon, 17 Feb 2025 02:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何桨用户/开发人员遇到了未交付的预期Webhook事件的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ir848c/have_any_paddle_usersdevelopers_experienced/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前正在努力将我的软件产品从使用条纹切换为使用PADDLE，用于付款处理。 （最大的关键原因是，我对无聊的税收合规要求完全缺乏兴趣。） 到目前为止，一切进展顺利，建立所需的功能，直到我故意触发了失败的付款，解雇预期的“交易”。failed_pa​​yment;事件。它从来没有到达我的端点URL，并且“通知”部分显示它也没有发送。相反，它仅发送了一个孤独的“交易”。事件。 （它没有开火“交易”。 没有错误代码，没有任何表明他们甚至试图交付但出于某种原因失败。他们甚至没有出现在“通知”部分中。这让我非常关注其Webhook事件的可靠性 /可交付性。随后拒绝交易。也许这可能只是一种flu虫，也许您可​​以证明沙箱没有与实际的实时工作版本相同的可靠性/可交付性。 仍然考虑到我到目前为止，在测试和建造过程中，只有100次测试事件被解雇……这3个预期事件中有2个显然在以太中丢失了，从未被送出，这绝对让我第二次猜测它们的可靠性。&lt; / p&gt; 我知道许多SaaS企业主 /开发人员都与Paddle集成在一起，那么您的经验是什么样的？有这样的问题吗？还是您发现它是可靠的？ 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/what_the_hex     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ir848c/have_any_paddle_usersdevelopers_experienced/</guid>
+      <pubDate>Mon, 17 Feb 2025 01:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>包装清单/Shopify</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ir82im/packing_listshopify/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个Shopify应用程序或工具，该应用程序可以在订单中打印单个盒子的包装列表。每个盒子可能具有不同的项目，因此我需要一种生成包装列表的方法，以完全显示每个包装列表。您有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fi32668     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ir82im/packing_listshopify/</guid>
+      <pubDate>Mon, 17 Feb 2025 01:18:46 GMT</pubDate>
+    </item>
     <item>
       <title>我的投资组合网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1ir62ds/my_portfolio_website/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>渲染部署问题：“以状态1退出”</title>
       <link>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  错误：找不到模块&#39;/opt/render/project/src/src/sedriftomat/dist /server/index.js&#39; 构建在本地和渲染方面都很好（“构建成功”），但是当部署零件按“运行”开头“路径错误。 我提供了我们文件结构等的一些图像。   http P; s = C86A4AD710DBD7FFE1692B29A95A71EF59ED0221     H36N6CKJE1.JPG？宽度= 226＆amp;格式= pjpg＆amp; auto = webp＆amp; s = 35075c834e7c69c806d806d8f9d3e6ff176984f4bab3“&gt; https：// https：// https：//preview.itd.it.itd.it.itd.it.it/ifqh36n6n66ckje1.pg.jpoutsjepoutt = umps auto = WebP＆amp; s = 35075C834E7C69C806D8F9D3E6FF176984F4BAB3  &lt; /p&gt; 该项目将于明天到期，所以请帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grihmy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  错误：找不到模块&#39;/opt/render/project/src/src/sedriftomat/dist /server/index.js&#39; 构建在本地和渲染方面都很好（“构建成功”），但是当部署零件按“运行”开头“路径错误。 我提供了我们文件结构等的一些图像。   http P; s = C86A4AD710DBD7FFE1692B29A95A71EF59ED0221     H36N6CKJE1.JPG？宽度= 226＆amp;格式= pjpg＆amp; auto = webp＆amp; s = 35075c834e7c69c806d806d8f9d3e6ff176984f4bab3“&gt; https：// https：// https：//preview.itd.it.itd.it.it.itd.it.it/ifqh36n6n6ckje1.pg.jpoutjep自umps auto = WebP＆amp; s = 35075C834E7C69C806D8F9D3E6FF176984F4BAB3  &lt; /p&gt; 该项目将于明天到期，所以请帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grihmy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</guid>
       <pubDate>Sun, 16 Feb 2025 20:41:46 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[在通过协助经验丰富的自由职业者完成小任务。无论是修复错误，从事UI改进，处理后端优化还是在项目中进行协作，我都渴望学习和贡献。 我都有与 react，node.js，mongodb的经验，Express ，并构建了全堆栈应用程序，包括A 书店应用程序（MERN）和Crud操作。我可能不知道每个概念，但是我是一个快速的学习者，并且总是会尽力完成工作。 如果您是经验丰富的自由职业者，并且可以使用一些支持（即使对于小而小演出），我很想合作。让我们将任何建议或潜在客户连接在一起并建造出色的东西！ 将不胜感激。随时发表评论或DM我。 谢谢！ 🚀 请找到我的附件  https ：//drive.google.com/file/d/1kk7ive_iepfti-rrlotsvkr0-klmxf7n/view？usp =共享    &lt;！ -  sc_on-&gt; sc_on-&gt;提交由＆＃32; /u/u/u/winding-trash-6371      [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iqygzy/looking_to_assist_experienced_mern_freelancers/</guid>
       <pubDate>Sun, 16 Feb 2025 18:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要您在修复显示的方程方面的帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqxd1z/i_need_your_help_regarding_fixing_the_equations/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我一直在显示方程式显示的方式中不断发现错误。有没有一种方法可以简单地修复相同的方法？谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/saugai     [link]  ＆＃32;   [注释]     /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqxd1z/i_need_your_help_regarding_fixing_the_equations/</guid>
-      <pubDate>Sun, 16 Feb 2025 17:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于“溢出：自动”的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqviqe/a_problem_about_overflow_auto/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://codepen.io/bigaju/pen /mydebyp   我希望“ table-container”首先可以滚动直到没有足够的空间为止，然后“容器”变得可滚动。但这似乎不是。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yukiiiiii2008      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqviqe/a_problem_about_overflow_auto/</guid>
-      <pubDate>Sun, 16 Feb 2025 16:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在研究灵活的简历生成器，旨在允许用户制作针对特定位置的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqci7l/ive_been_working_on_a_flexible_resume_generator/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/awsome855     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqci7l/ive_been_working_on_a_flexible_resume_generator/</guid>
-      <pubDate>Sat, 15 Feb 2025 21:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个可爱的代理网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq83q8/made_a_cute_little_website_of_agency/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找有关设计和内容的反馈   https：/ /glowit.be   看起来还不错吗？ &gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/notasysadmin666      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq83q8/made_a_cute_little_website_of_agency/</guid>
-      <pubDate>Sat, 15 Feb 2025 18:43:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
