@@ -4,25 +4,39 @@
     <title>最新提交：芯片</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，最不足以达到最少。旧游戏风格的音乐，例如，C64，Atari，NES，Gameboy，Sega Genesis，Adlib，OPM，Mod等。</description>
-    <lastBuildDate>Tue, 18 Feb 2025 15:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 21:14:07 GMT</lastBuildDate>
+    <item>
+      <title>我终于完成了我的第一个曲目:)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1iskcfl/ive_finally_finished_my_very_first_track/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/curtissawtooth     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1iskcfl/ive_finally_finished_my_very_first_track/</guid>
+      <pubDate>Tue, 18 Feb 2025 18:53:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的每周 /r /chiptunes综述于2月11日至2025年2月17日</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1isg354/your_weekly_rchiptunes_roundup_for_the_week_of/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     2月11日，星期二 -  2025年2月17日，星期一   顶级音乐     Score  注释  title＆amp; link       29    3注释       [music&gt;  兄弟3 Overworld＆＃40; 2a03＆＃41;       24    15注释           [音乐] https://youtu.be/ap8n1ncdubw?si= norh8jnkidpkh0uq&quot;&gt;我的好友制作了一个NES游戏，所以我为此做了一些Chiptune音乐。这是森林主题。     12    2注释      [music&gt;       10     nes        6     1注释          [music] /www.youtube.com/watch?v=jbhljalwcym&quot;&gt; hii，我做了这首歌，想分享       5  5     2注释   &gt;  YT Show deverlock及其主题曲紧张及其主题曲紧张张力于10年前发布。好时光！     2    2评论     [music]  おちゃめ机能/fukkireta★Chiptune Cover     &lt; /td&gt;    1       [music&gt;   kasane领土Chiptune Cover      1    1注释      [music] 原始ost，用于从未存在的视频游戏＆＃40; 40; &gt;    ＆nbsp;  顶部剩余的帖子        score  &lt;评论 标题＆amp; link       21    2注释          13    4评论       7      [资源]   ZELDA宫殿/地牢主题的频道解构/a&gt;     3    1个注释    [资源]  MGB颤音在V1.4.0-TS       3    12条评论 gba     ＆nbsp;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/subredditsummarybot     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1isg354/your_weekly_rchiptunes_roundup_for_the_week_of/</guid>
+      <pubDate>Tue, 18 Feb 2025 16:03:33 GMT</pubDate>
+    </item>
     <item>
       <title>V1.4.0-TS中的MGB颤音</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1isejcy/mgb_vibrato_in_v140ts/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我一直在用 Trash80的MGB v1.3.3 现在已经有一段时间了，并且不得不使用我的DAW中的非常尴尬的变速器通过PitchBend来编程颤音。我讨厌这个，所以我决定查看源代码，看看添加颤音功能会有多大的困难...只是发现MGB已经实施了已实施颤音！ 我找不到任何人在任何地方谈论这个问题，也没有在文档中。尤其令人沮丧的是，颤音似乎在GitHub上可用的V1.3.3构建中起作用。我的猜测是，v1.3.3实际上并不是随附的源代码的最新情况，或者实现在某种程度上是不完整的。不幸的是，我还不足以告诉程序员。也许有人知道我是否只是错过了什么？  ，但是！我和我的兄弟能够从 tstirrat 的叉子使用最新的GBDK。颤音在此版本中起作用。我敢肯定，GitHub页面上的Tstirrat构建也可以使用。  颤音深度由MIDI CC11（表达式）设置。   颤音率设置了到MIDI CC12。  希望这对使用此工具的其他任何人都有帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/liam_berry     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我一直在用 Trash80的MGB v1.3.3 现在已经有一段时间了，并且不得不使用我的DAW中的非常尴尬的变速器通过PitchBend来编程颤音。我讨厌这个，所以我决定查看源代码，看看添加颤音功能会有多大的困难...只是发现MGB已经实施了已实施颤音！ 我找不到任何人在任何地方谈论这个问题，也没有在文档中。尤其令人沮丧的是，颤音似乎在GitHub上可用的V1.3.3构建中起作用。我的猜测是，v1.3.3实际上并不是随附的源代码的最新情况，或者实现在某种程度上是不完整的。不幸的是，我还不足以告诉程序员。也许有人知道我是否只是错过了什么？  ，但是！我和我的兄弟能够从 tstirrat 的叉子使用最新的GBDK。颤音在此版本中起作用。我敢肯定，GitHub页面上的Tstirrat构建也可以使用。  颤音深度由MIDI CC11（表达式）设置。   颤音率设置了到MIDI CC12。  希望这对使用此工具的其他任何人都有帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/liam_berry     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1isejcy/mgb_vibrato_in_v140ts/</guid>
       <pubDate>Tue, 18 Feb 2025 14:57:59 GMT</pubDate>
     </item>
     <item>
       <title>卡桑（Kasane</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1irwic0/kasane_territory_always_tetos_turn_chiptune_cover/</link>
-      <description><![CDATA[    link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/andrewharn-inficial     link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1irwic0/kasane_territory_always_tetos_turn_chiptune_cover/</guid>
       <pubDate>Mon, 17 Feb 2025 22:13:12 GMT</pubDate>
     </item>
     <item>
       <title>我找到了这首歌，但你们都知道一个支持.mmk的追踪器</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1irks0u/i_found_the_song_but_do_yall_know_a_tracker_that/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这首歌被火影忍者称为kssorg01，但我找不到跟踪器，你们都知道支持MMK的跟踪器吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sonicgodzreddit     [link]   ＆＃32;   [注释]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这首歌被火影忍者称为kssorg01，但我找不到跟踪器，你们都知道支持MMK的跟踪器吗？  &lt;！ -  sc_on-&gt;    [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1irks0u/i_found_the_song_but_do_yall_know_a_tracker_that/</guid>
       <pubDate>Mon, 17 Feb 2025 14:15:18 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>信号（WIP）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1iq9ol8/signals_wip/</link>
-      <description><![CDATA[       &lt; td&gt; &lt;！ -  sc_off-&gt;   c64g使用SDI。到目前为止，我只有。对不起屏幕 - 从我的电视上捕获声音。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok-ok-ability-6965     [link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;    c64g使用SDI。到目前为止，我只有。对不起屏幕 - 从我的电视上捕获声音。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok-ok-ability-6965     [link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1iq9ol8/signals_wip/</guid>
       <pubDate>Sat, 15 Feb 2025 19:52:04 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/chiptunes/comments/comments/1ipw4mb/covered_this_this_pac_pac_man_man_track_man_track_multiple_sound_sound_sound_chips/” &quot; src=&quot;https://external-preview.redd.it/__SgMWVge0bm7H4sJMgDU1jymwx7f_6OR-6O4MaDdHM.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=743d53f3d7565f77ce1514d4a219ec4afdcb5976&quot; title=&quot;Covered this Pac Man track on multiple sound chips “/&gt;   ＆＃32;提交由＆＃32; /u/u/kingk3nnydagreat     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ipw4mb/covered_this_pac_man_track_on_multiple_sound_chips/</guid>
       <pubDate>Sat, 15 Feb 2025 07:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>原始OST的视频游戏的原始OST（书面2005-2010）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ipl76q/original_ost_for_a_videogame_that_never_existed/</link>
-      <description><![CDATA[在我和我的朋友开始回到高中（2005-2010）。我们没有音乐理论或任何音乐训练的概念，只是长大后会喜欢电子游戏音乐，并学习在耳边玩耍。我们长大了，尤其是对Chrono Trigger，FF，Mario和Sonic的配乐。我认为也许这个subreddit会很感激这一点，因为只有几个人才听到它。  编写并记录在原始的M-Audio关键站，原因2。   https://www.youtube.com/watch?v=rd1buxhfpda    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/useft-item-313     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ipl76q/original_ost_for_a_videogame_that_never_existed/</guid>
-      <pubDate>Fri, 14 Feb 2025 21:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>前奏：“专辑”。 （a）8位，DreamCore，VGM，BGM，哮喘等...</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ipjio3/prelude_the_album_side_a_8bit_dreamcore_vgm_bgm/</link>
-      <description><![CDATA[   /u/u/u/southern-warthog-712      [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ipjio3/prelude_the_album_side_a_8bit_dreamcore_vgm_bgm/</guid>
-      <pubDate>Fri, 14 Feb 2025 20:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
