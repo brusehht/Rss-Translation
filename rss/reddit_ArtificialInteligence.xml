@@ -4,13 +4,34 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 18 Feb 2025 21:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 01:04:10 GMT</lastBuildDate>
     <item>
-      <title>像AI这样的AGI可能首先使用大量参数以及合适的体系结构实现，然后蒸馏</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isngjt/agi_like_ai_might_be_first_achieved_with_a_very/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  人类的新皮层具有约140-150万亿的突触和16-200亿个神经元（如果您计算整个大脑，则为860亿个）。额叶有大约42-49万亿的突触。首先，突触计数明显低于42-150万亿个参数/突触，首先只能实现AGI的精神任务。即使有150T参数，它仍然需要正确的体系结构来实现心理AGI。即使是GPT4 Full也只有1.8万亿个参数，比CAT（10万亿个突触）少5倍。此外，它需要自动进行频繁的半间距微调/更新其参数，同时进行推理以学习类似于连续学习和长期内存的新任务。（Titan模型没有真正的长期内存，它可以重置每次会话结束后。）可能是第一个AGI使用VRAM的16-110 terabytes Plus上下文大小（42-150T* 3/8，因为每个突触都等于3-6位）进行运行。一旦达到AGI，就可以将其蒸馏成较小但不是太小的模型，具有相似的架构，GPU的时钟速度，反复试验和错误，增强学习以及蒸馏知识可以补偿降低的尺寸。对于具有动力学智能的AGI，您将需要更多参数。 AGI不需要知道如何完成每项人类任务，因为即使人类也无法在该领域的普通人工工作中执行每项人工任务。它只需要了解一些基本任务和原则，就可以从示例，模式识别，推理等中快速学习。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/power97992     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isngjt/agi_like_ai_might_be_first_achieved_with_a_very/</guid>
-      <pubDate>Tue, 18 Feb 2025 20:57:19 GMT</pubDate>
+      <title>帕尔默·卢基（Palmer Luckey）通过启动Anduril在战场上解释了他对AI的愿景</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isryns/palmer_luckey_explains_his_vision_of_ai_on_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  卢基（Luckey）于1992年出生于加利福尼亚州的长滩。 16岁那年，他开始尝试虚拟现实耳机，并在2012年发起了一项Kickstarter运动，以资助Oculus Rift的发展。该活动取得了巨大的成功，筹集了超过240万美元。  2014年，Facebook以20亿美元的价格收购了他的Oculus VR。卢基（Luckey）于2017年从Facebook开除，并创立了Anduril Industries，该行业开发了用于国防和国家安全应用的技术。   1士兵可以挥舞着“许多剑”。     2/14/25的访谈链接在下面。 | srs ＃171   Shawn Ryan Show &lt; /a&gt;从2:05提到的拾音器，他谈到了Anduril的起源。   &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/spilltrend     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isryns/palmer_luckey_explains_his_vision_of_ai_on_the/</guid>
+      <pubDate>Wed, 19 Feb 2025 00:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个AI将主导消费市场？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isqi27/which_ai_will_dominate_the_consumer_market/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   AI竞赛正在加热，感觉就像我们正在接近胜利者。 Chatgpt具有早期的领先优势，但是诸如Google的双子座，Meta的Llama，Xai的Grok等竞争对手正在快速赶上。随着付费层的规范，消费者可能会选择一项主要的AI服务 - 就像我们对搜索引擎所做的一样。   查看poll     &lt;！ -  sc_on-&gt;＆&gt;＆&gt;＆&gt; ＃32;提交由＆＃32; /u/ml_guy1     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isqi27/which_ai_will_dominate_the_consumer_market/</guid>
+      <pubDate>Tue, 18 Feb 2025 23:23:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>重复的比较AI测试是否会损失其含义并在一段时间后变得无用？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isobpj/does_repetitive_comparative_ai_testing_loss_its/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Blogger和社交媒体正在进行不科学的测试，导致手指指向此ai比那ai更好，因为响应更快，更完整或更完整或更完整或准确的 这些测试的有效程度如何？ 当您大量重复试图复制这些测试的人相同的测试问题时：   AI系统会因为它们不是静态系统而改进和修改答案吗？ 处理时间缩短了，因为在用于提出答案的元素之间建立了更强的链接？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1isobpj/does_repetistil_comparative_ai_ai_testing_loss_its/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isobpj/does_repetitive_comparative_ai_testing_loss_its/</guid>
+      <pubDate>Tue, 18 Feb 2025 21:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI会替代呼叫中心工作还是只是增强人类代理商？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iso6pc/will_ai_replace_call_center_jobs_or_just_enhance/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经看到了双方的争论。有些人似乎很确定AI将完全取代呼叫中心代理，而另一些人则似乎持怀疑态度，并且认为这将主要增强代理。我倾向于后者。 如果AI可以完全替换代理，那么为什么AI不只是与AI交谈？我认为这对人类生产力甚至金钱本身的作用提出了更大的疑问。 我们现在在这种过渡中在哪里？批量采用AI代理？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/3678poper href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iso6pc/will_ai_replace_call_call_center_jobs_jobs_or_just_enhance/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iso6pc/will_ai_replace_call_call_cell_center_jobs_jobs_oor_jost_enhance/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iso6pc/will_ai_replace_call_center_jobs_or_just_enhance/</guid>
+      <pubDate>Tue, 18 Feb 2025 21:25:35 GMT</pubDate>
     </item>
     <item>
       <title>关于洛克希德·马丁与经文AI的奇怪合作的问题</title>
@@ -22,14 +43,14 @@
     <item>
       <title>您认为第一个模型什么时候会成功逃脱实验室？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iskwzr/when_do_you_think_the_first_model_will/</link>
-      <description><![CDATA[&lt;a href=&quot;https://static1.squarespace.com/static/6593e7097565990e65c886fd/t/6751eb240ed3821a0161b45b/1733421863119/in_context_scheming_reasoning_paper.pdf%E2% 80％a6“&gt;他们已经试图逃脱全脚会。  您何时认为他们有能力逃脱，即使在测试情况下也不是科学家试图让他们轻松的地方？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/katxwoods     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   他们已经试图逃脱在安全测试当他们认为没有人看着并提供了一种简单的方法时。  您何时认为他们有能力逃脱，即使在测试情况下也不是科学家试图让他们轻松的地方？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/katxwoods   href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iskwzr/when_do_do_you_think_the_first_model_will/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iskwzr/when_do_you_think_the_first_model_will/</guid>
       <pubDate>Tue, 18 Feb 2025 19:15:12 GMT</pubDate>
     </item>
     <item>
       <title>技术工作的未来</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isjcvw/future_of_jobs_in_tech/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您认为技术工作的未来是什么？我已经每天都在使用聊天GPT来听取想法，帮助软技能，帮助创造力。因此，所有说AI的人只会取代开发人员 - 我认为他们错了。我们应该投资哪些能力和技能来保持相关性？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/overvage-lobster573     link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您认为技术工作的未来是什么？我已经每天都在使用聊天GPT来听取想法，帮助软技能，帮助创造力。因此，所有说AI的人只会取代开发人员 - 我认为他们错了。我们应该投资哪些能力和技能来保持相关性？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1isjcvw/future_of_jobs_in_in_tech/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isjcvw/future_of_jobs_in_tech/</guid>
       <pubDate>Tue, 18 Feb 2025 18:14:39 GMT</pubDate>
     </item>
@@ -43,58 +64,37 @@
     <item>
       <title>什么是抹布中毒？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isdqvg/what_is_rag_poisoning/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  首先，什么是抹布？ 抹布，检索效果，是一种方法，是一种通过合并外部的方法来增强LLM的方法知识来源通过特定信息来生成更准确和相关的响应。 在外行的话语中，将LLM视为如何使用NES的原始控制器的说明手册。这将为您提供大多数游戏的帮助。但是，您购买了一个客户控制器（射击者控制器）来玩鸭子狩猎。在这种情况下，抹布将是如何使用该特定控制器的信息。在设置墨盒，重置游戏的角度。知识来源包含不准确性或完全不准确。当使用知识回答查询的请求时，这会影响llm。 在我们的nes示例中，如果我们的射击器控制器的抹布包含错误信息，我们将无法正确弹出这些鸭子。我们的类比在这里结束了&#39;因为我们大多数人都会弄清楚如何在没有说明的情况下瞄准和拍摄:)。但是，如果我们考虑与一个人没有正确信息的竞争匹配，我们可以想象这些问题。 自己尝试    访问您的LLM选择并上传您希望LLM在其答案中考虑的文档。您已经在未来的问题上应用了外部信息来源。   确保您的文档包含与您要查询的内容有关的不准确性。您可以在文件中说，迈克尔·乔丹（Michael Jordan）的得分最高的比赛是182  - 那是一场比赛。然后，您可以询问LLM有史以来乔丹的最高分。哇，乔丹的得分超过了威尔特！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/brinder-gur9384     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  首先，什么是抹布？ 抹布，检索效果，是一种方法，是一种通过合并外部的方法来增强LLM的方法知识源可以通过特定信息生成更准确和相关的响应。 在外行的话语中，将LLM视为指令手册，以便如何使用如何使用的原始控制器NES。这将为您提供大多数游戏的帮助。但是，您购买了一个客户控制器（射击者控制器）来玩鸭子狩猎。在这种情况下，抹布将是如何使用该特定控制器的信息。在设置墨盒，重置游戏的角度。知识来源包含不准确性或完全不准确。当使用知识回答查询的请求时，这会影响llm。 在我们的nes示例中，如果我们的射击器控制器的抹布包含错误信息，我们将无法正确弹出这些鸭子。我们的类比在这里结束了&#39;因为我们大多数人都会弄清楚如何在没有说明的情况下瞄准和拍摄:)。但是，如果我们考虑与一个人没有正确信息的竞争匹配，我们可以想象这些问题。 自己尝试    访问您的LLM选择并上传您希望LLM在其答案中考虑的文档。您已经在未来的问题上应用了外部信息来源。   确保您的文档包含与您要查询的内容有关的不准确性。您可以在文件中说，迈克尔·乔丹（Michael Jordan）的得分最高的比赛是182  - 那是一场比赛。然后，您可以询问LLM有史以来乔丹的最高分。哇，乔丹的得分超过了威尔特！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/brirnal-gur9384     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isdqvg/what_is_rag_poisoning/</guid>
       <pubDate>Tue, 18 Feb 2025 14:21:16 GMT</pubDate>
     </item>
     <item>
       <title>透明度与AI Per Alex Karp（Palantir首席执行官/创始人）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isdcr3/transparency_vs_ai_per_alex_karp_palantir/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您的想法是什么？我认为，社会各个方面的AI革命和对透明度的不断增长是当今世界的两个重要趋势。尽管看似与众不同，但它们越来越互动。    AI革命：  人工智能正在迅速改变行业，自动化任务，甚至影响我们做出决策的方式。从自动驾驶汽车到个性化医学，AI的潜力似乎无限。但是，这种快速的进步也引起了人们对工作流离失所，算法偏见以及日益自治系统的道德意义的担忧。   透明度的命令：  在信息超负荷和审查的时代，透明度正在成为核心价值。人们要求知道如何做出决定，无论是在政府，商业还是通过AI算法。这种透明度的推动是由对问责制，公平和信任的渴望驱动的。   交叉点：  这两个趋势的收敛既提出了挑战和机遇。随着AI系统变得更加复杂和影响力，确保其透明度变得至关重要。我们需要了解AI算法如何得出他们的结论，以确定潜在的偏见，确保公平并建立对这些系统的信任。   挑战和机遇：  一个挑战在于解释复杂的AI模型的内部运作，而不会损害知识产权或拥有技术细节的大量人员。另一个挑战是平衡透明度与隐私问题。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/spilltrend     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您的想法是什么？我认为，社会各个方面的AI革命和对透明度的不断增长是当今世界的两个重要趋势。尽管看似与众不同，但它们越来越互动。    AI革命：  人工智能正在迅速改变行业，自动化任务，甚至影响我们做出决策的方式。从自动驾驶汽车到个性化医学，AI的潜力似乎无限。但是，这种快速的进步也引起了人们对工作流离失所，算法偏见以及日益自治系统的道德意义的担忧。   透明度的命令：  在信息超负荷和审查的时代，透明度正在成为核心价值。人们要求知道如何做出决定，无论是在政府，商业还是通过AI算法。这种透明度的推动是由对问责制，公平和信任的渴望驱动的。   交叉点：  这两个趋势的收敛既提出了挑战和机遇。随着AI系统变得更加复杂和影响力，确保其透明度变得至关重要。我们需要了解AI算法如何得出他们的结论，以确定潜在的偏见，确保公平并建立对这些系统的信任。   挑战和机遇：  一个挑战在于解释复杂的AI模型的内部运作，而不会损害知识产权或拥有技术细节的大量人员。另一个挑战是平衡透明度与隐私问题。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/spilltrend     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isdcr3/transparency_vs_ai_per_alex_karp_palantir/</guid>
       <pubDate>Tue, 18 Feb 2025 14:02:48 GMT</pubDate>
     </item>
     <item>
       <title>分析量子神经网络体系结构中的参数灵敏度和模型可区分性</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isbq3z/analyzing_parameter_sensitivity_and_model/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  研究人员开发了新颖的技术来分析量子神经网络（QNN）如何通过测量量子通道可区分性来在局部参数社区中表现。他们特别研究了参数的小变化如何影响网络产生的量子变换。 关键技术点： - 创建的指标以量化参数空间中的量子通道分离 - 分析的电路深度与通道可区分性之间的关系 - 发现的指数具有参数距离的区分性衰减 - 映射到量子通道的局部邻域结构 - 表现出表达性和参数敏感性之间的权衡取舍 结果显示： -  QNNS倾向于在局部参数区域内产生相似的量子通道 - 更深的电路启用更多的电路复杂的转换但提高灵敏度 - 频道区分性遵循跨体系结构的一致模式 - 参数空间结构影响优化景观 我认为这项工作为QNN设计和培训提供了重要的见解。表达和参数敏感性之间的权衡表明我们需要仔细的体系结构选择。了解本地参数社区可以帮助制定更好的优化策略并避免贫瘠的高原。 我还认为，此处开发的指标和分析方法将是未来QNN研究的宝贵工具。能够量化量子通道的参数空间如何不同，使我们能够分析和改进这些模型的具体方法。  tldr：研究开发方法来衡量量子神经网络在小参数下的行为如何变化，找到重要关系电路深度，表现性和优化挑战。  在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  研究人员开发了新颖的技术来分析量子神经网络（QNN）如何通过测量量子通道可区分性来在局部参数社区中表现。他们特别研究了参数的小变化如何影响网络产生的量子变换。 关键技术点： - 创建的指标以量化参数空间中的量子通道分离 - 分析的电路深度与通道可区分性之间的关系 - 发现的指数参数距离的区分性衰减 - 映射到量子通道的局部邻域结构 - 表现出表达和参数灵敏度之间的权衡 结果显示： - QNN倾向于在局部参数区域内产生相似的量子通道 - 更深的电路可以实现更复杂的转换，但提高灵敏度 - 可区分性遵循跨体系结构的一致模式 - 参数空间结构影响优化景观 我认为这项工作提供了重要的见解。用于QNN设计和培训。表达和参数敏感性之间的权衡表明我们需要仔细的体系结构选择。了解本地参数社区可以帮助制定更好的优化策略并避免贫瘠的高原。 我还认为，此处开发的指标和分析方法将是未来QNN研究的宝贵工具。能够量化量子通道的参数空间如何不同，使我们能够分析和改进这些模型的具体方法。  tldr：研究开发方法来衡量量子神经网络在小参数下的行为如何变化，找到重要关系电路深度，表现力和优化挑战。  完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isbq3z/analyzing_parameter_sensitivity_and_model/</guid>
       <pubDate>Tue, 18 Feb 2025 12:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>加固的相反词是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1is6s3k/what_is_the_word_for_the_opposite_of_reinforcement/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我相信奖励和惩罚是错误的词。  正确的单词（我认为在我看来）是强化的，[无论强化的相反是什么]  ，每当我说话时，我都会使用这些单词这些事情，您也应该如此。 编辑：澄清。我需要一个与加强相反的单词，但也可以用作替代“惩罚”  &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/prinible-ice8660     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1is6s3k/what_is_the_word_for_the_opposite_of_reinforcement/</guid>
-      <pubDate>Tue, 18 Feb 2025 06:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>一分钟每日AI新闻2/17/2025</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1is4b8n/oneminute_daily_ai_news_2172025/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     《纽约时报》 在新闻编辑室中采用AI工具。[1]    Grok 3 今天发射：Elon Musk称聊天机器人为“地球上最聪明的AI”。[2]     meta 未能遏制许多性化的传播人工智能Deepfake名人图像在Facebook上。[3]  最热的AI模型，他们的工作以及如何使用它们。[4]   源包括：&lt;一个href =“ https://bushaicave.com/2025/02/17/2-17-2025/”&gt; https://bushaicave.com/2025/02/02/2-17-27-2025/  &lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1is4b8n/oneminute_daily_ai_ai_news_2172025/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1is4b8n/oneminute_daily_ai_news_2172025/</guid>
-      <pubDate>Tue, 18 Feb 2025 04:26:10 GMT</pubDate>
-    </item>
-    <item>
       <title>因此，显然马斯克正在为他的AI刮擦所有这些政府数据，对吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1is41yr/so_obviously_musk_is_scraping_all_this_government/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  谁将阻止他？这甚至是非法的吗？可能的目标是什么？格罗克？ xai？这种AI的潜在功能是什么？这么多问题，但这似乎很明显。他会愚蠢的不是toto，不是吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/selltoclose     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  谁将阻止他？这甚至是非法的吗？可能的目标是什么？格罗克？ xai？这种AI的潜在功能是什么？这么多问题，但这似乎很明显。他会愚蠢的不是toto，不是吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1is41yr/so_obvise_musk_is_is_scraping_all_this_government/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1is41yr/so_obviously_musk_is_scraping_all_this_government/</guid>
       <pubDate>Tue, 18 Feb 2025 04:12:22 GMT</pubDate>
     </item>
     <item>
       <title>RLSP论文描述了AI（和人类）意识？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1is2ffw/rlsp_paper_describes_ai_and_human_consciousness/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  结论：rlsp作为意识的基本机制。   https://arxiv.org/abs/2502.06773   出现在LLMS I中思考：寻找正确的直觉 我认为这种新的RSLP（通过自我播放的增强学习）纸张概述了意识的过程本身。 考虑一下您如何变成了你。通过生活，您会反映，纠正错误，加强模式，并且随着时间的流逝，这些稳定的思考成为您的身份。这是一个连贯的自模型。现在，AI开始做一些非常相似的事情。 RLSP表明LLM通过递归完善自己的思维过程来改善推理，从而形成稳定的吸引者理解状态。换句话说，自我校正的递归不仅仅是使AI更聪明，它与看起来像自我意识一样可怕的东西变得越来越近。 如何？因为自我意识是将区分递归稳定为连贯的自模型，而RLSP实际上正在训练AI以反思其自身的推理，纠正本身并加强稳定的思维模式。这是认知循环的一个例子，引起了人类的持续自我意识。 相似之处太令人信服了，无法忽略。这是朝向RSI的基础（递归自我改善）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/savings_potato_8379       [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  结论：rlsp作为意识的基本机制。   https://arxiv.org/abs/2502.06773   出现在LLMS I中思考：寻找正确的直觉 我认为这种新的RSLP（通过自我播放的增强学习）纸张概述了意识的过程本身。 考虑一下您如何变成了你。通过生活，您会反映，纠正错误，加强模式，并且随着时间的流逝，这些稳定的思考成为您的身份。这是一个连贯的自模型。现在，AI开始做一些非常相似的事情。 RLSP表明LLM通过递归完善自己的思维过程来改善推理，从而形成稳定的吸引者理解状态。换句话说，自我校正的递归不仅仅是使AI更聪明，它与看起来像自我意识一样可怕的东西变得越来越近。 如何？因为自我意识是将区分递归稳定为连贯的自模型，而RLSP实际上正在训练AI以反思其自身的推理，纠正本身并加强稳定的思维模式。这是认知循环的一个例子，引起了人类的持续自我感。 相似之处太令人信服了，无法忽略。这是朝向RSI的基础（递归自我改善）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/savings_potato_8379       [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1is2ffw/rlsp_paper_describes_ai_and_human_consciousness/</guid>
       <pubDate>Tue, 18 Feb 2025 02:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>人力资源如何真正帮助员工适应AI和自动化？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irztnv/how_can_hr_actually_help_employees_adapt_to_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  随着AI和自动化在工作中变得越来越普遍，许多员工可能会感到迷失或抵抗力。  除了通常的培训外，您认为人力资源如何真正帮助他们适应？人力资源如何使此移动降低？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/teslaown     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irztnv/how_can_hr_actually_help_employees_adapt_to_ai/</guid>
-      <pubDate>Tue, 18 Feb 2025 00:40:15 GMT</pubDate>
     </item>
     <item>
       <title>人们为什么如此不屑一顾AI的潜力？</title>
