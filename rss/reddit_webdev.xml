@@ -4,111 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 20 Feb 2025 03:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:30:35 GMT</lastBuildDate>
     <item>
-      <title>MonorePo或单个存储库更适合SEO和开源库中的可见性吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itod3x/is_a_monorepo_or_individual_repositories_better/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个带有2500星的公共存储库中有一个开源库。  目标是为社区做出贡献，但在寻找工作时也可以为招聘人员获得认可和可见性。目前，我不需要一份工作 - 我仍然是自由职业的 - 但我正在思考长期。 此外，我有15个私人图书馆，我计划将其作为开放源代码释放，目前在私人Monorepo中。作为独奏开发人员，单个存储库中的开发经验和集中文档已经并且将继续更加方便。  但是，我敢肯定，其中一些库会单独流行。从Github对开源项目的SEO和可见性角度来看，最好将它们分成单个存储库，以便每个存储库都有自己的存在和排名，或者将它们保持在公共Monorepo中，以促进管理和利用主要的权威。存储库？  我认为最好只有一个monorepo  - 如果有人来看一个，他们会自动看到其他人 - 但我对SEO和可见性有疑问。  例如，我可能最终有15个存储库，而不是拥有一个带有1,000、1,000、500、200、100之类的分布的存储库。这对整体会有什么影响该项目及其SEO的可见性？恒星跨多个存储库的分散会对每个图书馆的发现性和促进产生负面影响？  目标是为社区做出贡献，当然，有效地获得认可。  我感谢任何经验或建议。谢谢！  让我知道您是否需要任何细化！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/superrandomcoder    href =“ https://www.reddit.com/r/webdev/comments/1itod3x/is_a_a_monorepo_rodiviadual_repositories_better/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itod3x/is_a_monorepo_or_individual_repositories_better/</guid>
-      <pubDate>Thu, 20 Feb 2025 02:56:24 GMT</pubDate>
+      <title>我有一个node.js Web服务器服务于我的Astro项目，但是由于屏幕快照所示，由于Nginx配置错误，我无法访问该网站，这是我第一次使用反向代理，所以您都有一些建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itx4ao/i_have_a_nodejs_webserver_serving_my_astro/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/brawl_god_     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itx4ao/i_have_a_nodejs_webserver_serving_my_astro/</guid>
+      <pubDate>Thu, 20 Feb 2025 12:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>我知道如何制作无聊的网站。一个人如何做这个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itocdf/i_know_how_to_make_boring_websites_how_does_one/</link>
-      <description><![CDATA[在  我想学习如何构建此网站。我希望网站很有趣。我知道如何使用少量JavaScript使用HTML和CSS构建网站，但是我什至不确定在哪里可以使用类似的东西。我需要学习什么，从哪里开始？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ooalias     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itocdf/i_know_how_to_make_boring_websites_how_does_one/</guid>
-      <pubDate>Thu, 20 Feb 2025 02:55:23 GMT</pubDate>
+      <title>Wix Store订阅：我希望客户折扣仅适用于第一个订阅帐单周期，并非全部</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itx0fy/wix_store_subscriptions_i_want_customer_discounts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道如何使这项工作吗？我想说的是我所有产品的10％折扣优惠券，但是如果有人在我的网站上购买订阅，我不希望他们每月获得10％的折扣，只是第一个计费周期  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gudyational_horse828     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itx0fy/wix_store_subscriptions_i_want_customer_discounts/</guid>
+      <pubDate>Thu, 20 Feb 2025 12:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>两层后端服务器 - 是开销吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itnufc/two_layers_of_backend_servers_is_it_overhead/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您如何看待REST API后端的这种配置：&lt; /p&gt; 服务器＃1 接受来自Internet的请求。检查访问令牌。将请求发送到服务器＃2并返回其响应。&lt; /p&gt; 服务器＃2 接受服务器＃1的请求。检查内部访问令牌。来自数据库的调用过程，执行一些逻辑并返回JSON数据。 都在Java Spring上工作。还有Auth Server，但与此问题无关。认为它是多余的，并使我们的发展缓慢。每个新任务都非常缓慢，需要重复功能和数据定义。 您怎么看？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/minireset     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itnufc/two_layers_of_backend_servers_is_it_overhead/</guid>
-      <pubDate>Thu, 20 Feb 2025 02:30:05 GMT</pubDate>
+      <title>厌倦了片状端到端测试？柏树可能是您想要的解决方案！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itwsxb/tired_of_flaky_endtoend_tests_cypress_might_be/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  测试Web应用程序至关重要，但是手动测试需要永远，不可靠的测试可能会令人沮丧。柏树提供了一种现代的端到端测试方法，该方法直接在浏览器中运行并提供即时反馈。 为什么要使用柏树：  无需Web Driver - 易于安装 通过代码热加载进行调试 与CI/CD Pipelines的大整合   我的团队拥有书面有关柏树的详细指南，覆盖：  柏树的工作原理以及为什么它是不同的 编写稳定测试的最佳实践 自动结帐测试的示例  如果您正在进行自动测试或寻找改善质量检查工作流程的方法，则可能会发现这有用。 快乐学习： https://www.blueshoe.io/blog/cypress-cypress-end-end-end-to-to-end-end&gt; - 测试/  很想听听您的想法 - 您使用柏树，还是喜欢另一个测试框架？  免责声明：我不为柏树工作，也不是我的隶属关系。我只是喜欢该工具。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pyschille     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itwsxb/tired_of_flaky_endtoend_tests_cypress_might_be/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>项目估计计算器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itmw0d/project_estimation_calculator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在过去五年后才被全职雇用。这是我5年前（主要是网络工作）进行的项目估计计算器。希望在竞标项目时，它会帮助其他人可能是自由职业者的开发人员。    https://docs.google.com/spreadsheets/d/19bkebp_wjysyw3yg1ssrsbecmgb1zupb1zupbqakvzcdiwam/edit?usp = sharing     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1itmw0d/project_estimatimation_calculator/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itmw0d/project_estimation_calculator/</guid>
-      <pubDate>Thu, 20 Feb 2025 01:42:56 GMT</pubDate>
+      <title>等待将近1个月的Google验证是正常的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itwa8p/is_it_normal_to_wait_almost_1_month_for_google/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  如标题中所示。  等待验证是正常的（我的页面内有一些问题，并且没有索引）。第一个索引相对较快，但是现在我等了一个多月，但仍然看不到任何结果。    我将其翻译成英文，因为我没有英语。 有什么方法可以加快这一速度？这会花费更多的时间与我的页面有问题一样？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kudziak     [link]   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itwa8p/is_it_normal_to_wait_almost_1_month_for_google/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>Porsthog的设计风格有名字吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itlwsd/is_there_a_name_for_posthogs_design_style/</link>
-      <description><![CDATA[在他们的UI看起来很有趣，块状和3D。我认为这也许是Skeuomormormism或Neuomorthism，但它们看起来都有些不同。我发现这个示例有点相似，但实际上并不相似： https://www.neobrutalism.dev/  &gt;我认为与Postthog非常相似的示例是黑曜石编辑的主题： https://github.com/primary-theme/obsidian  &gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1itlwsd/is_there_a_a_a_name_for_posthogs_design_style/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itlwsd/is_there_a_name_for_posthogs_design_style/</guid>
-      <pubDate>Thu, 20 Feb 2025 00:56:14 GMT</pubDate>
+      <title>我应该在MVP之前购买域名吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itvgss/should_i_purchase_domain_before_mvp/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为我的Web应用程序找到了一个很好的名称，并且可以使用该域。我目前正在建造MVP（最低可行的产品），但是我应该在完成MVP之前或之后购买它吗？ 我不确定其他人是否会购买  &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fluffyfemboypaws     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itvgss/should_i_purchase_domain_before_mvp/</guid>
+      <pubDate>Thu, 20 Feb 2025 10:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>共享一个（免费使用的）数据库的VC支持的初创公司（远程，现场等）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itlrwr/sharing_a_free_to_use_database_of_vcbacked/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们 - 共享此开放，精心策划的资金资助良好的早期启动数据库。您可以按行业，舞台，位置进行过滤，也可以按开放角色进行搜索。完全免费。没有付费沃尔头。    https://startups.gallery/    让我知道您的想法并分享反馈呢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/trusted-apiarist     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itlrwr/sharing_a_free_to_use_database_of_vcbacked/</guid>
-      <pubDate>Thu, 20 Feb 2025 00:49:50 GMT</pubDate>
+      <title>寻找有关每个帖子实施喜欢/不喜欢的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itv6st/looking_for_some_advice_on_implementing/</link>
+      <description><![CDATA[      &lt; -sc_off-&gt;      登录用户可以/不喜欢帖子 投票被存储为（post_id，user_id，dogt）在postgresql数据库中 投票= true含义，例如，投票= false meant不喜欢，投票= null表示删除投票（基本上您是在先前喜欢的帖子或以前不喜欢的帖子上击中的投票帖子） 每一分钟，所有帖子的投票都在实现的视图中刷新   问题    让我们说您喜欢某些东西 它应该立即通过1  您重新加载页面 如果服务器已更新计数同时，我们显示新的计数没有问题 如果服务器尚未更新计数，则如何管理前端上的状态？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/prestimiouszombie531     [link]   ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itv6st/looking_for_some_advice_on_implementing/</guid>
+      <pubDate>Thu, 20 Feb 2025 10:07:36 GMT</pubDate>
     </item>
     <item>
-      <title>试图找出我需要观看的有关前端技能的课程或教程视频</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itl04t/trying_to_find_out_what_courses_or_tutorial/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  美好的一天！我试图弄清楚如何成为更好的前端开发人员。我是一个在公司层面上工作的网络开发人员。我有4年的经验，通常我会从事这项工作，因为我对高技能的工作太懒。现在，我试图弄清楚如何提高自己的技能，因为我想专注于最明显的弱点是我的前端开发技能。我知道JS，CSS和HTML的语法，但是当我调试前端或对现有UI进行更改时，我的一生，我总是很难调试。 如果您要问对于任何其他弱点，这就是我可以列出的  - 调试技能  - 问题分析  -  UI开发（布局对我来说是地狱）&lt; /p&gt; 这是我当前的技术堆栈 -php（laravel，symfony） -js（react，angular）  -  mysql  -html  -html  -css &lt; br/&gt;  -  docker   -  linux  您建议我推荐哪种类型课程来提高我的技能。  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/pizzatimeee     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itl04t/trying_to_find_out_what_courses_or_tutorial/</guid>
-      <pubDate>Thu, 20 Feb 2025 00:13:47 GMT</pubDate>
+      <title>📝帮助提高网络可访问性 - 分享您的经验！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itump1/help_improve_web_accessibility_share_your/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 作为我硕士论文的一部分，我正在研究视觉或听觉障碍的人的网络可访问性。我的目标是确定常见的障碍并改善未来网络设计的可及性。  如果您有视觉或听觉障碍，我将非常感谢您的投入！您的经验将有助于塑造更好的数字可访问性。调查仅需2-4分钟即可完成，您的反馈将产生真正的影响。  👉调查链接： https:///forms.gle/forms.gle/vfkgvny5kxata16p8 完全匿名，向所有国家开放。随时与可能感兴趣的其他人分享。  非常感谢您的宝贵时间！ 💜  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_metten     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itump1/help_improve_web_accessibility_share_your/</guid>
+      <pubDate>Thu, 20 Feb 2025 09:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>我一生中从未做过这样的项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itktzw/never_made_a_project_like_this_before_in_my_life/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我有事件背景，但总是有兴趣修补在线项目。一直想创造一些东西，但在代码方面感到超级超出我的深度。我刚刚使用实际工作的AI创建了一个Web刮板。  它获取我想要的信息，然后将其包装到CSV中。我现在正在尝试部署它，以便我的女友和她的同事可以使用它。  男人这是不可思议的。这一定是真实的Web开发人员一直都有感觉！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1itktzw/never_made_a_a_project_project_like_this_before_in_my_my_life/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itktzw/never_made_a_project_like_this_before_in_my_life/</guid>
-      <pubDate>Thu, 20 Feb 2025 00:06:01 GMT</pubDate>
+      <title>底漆CSS文档</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ituk2e/primer_css_documentation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人在CSS框架上有经验吗？我只是找不到任何有用的文档。我只是愚蠢，还是根本不存在。特别是在组件方面。  这个 - ＆gt;  primer 具有所有布局和组件功能，但仅谈论应该如何使用它。没有一个CSS类。在这里 - ＆gt;  https://primer.style/css/storybook/ 它具有一些实现信息，但只有在balitout/pitiality方面它也不声明文档不完整或其他任何内容。我很困惑..   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/schwingdingdong     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ituk2e/primer_css_documentation/</guid>
+      <pubDate>Thu, 20 Feb 2025 09:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>避免太空飞船，他们在完成交易之前注册了我的域。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itkpmy/avoid_spaceshipcom_they_registered_my_domain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我四处寻找在哪里购买最便宜的.AI域，找到了太空飞船，并将通过它们购买。无论如何，进入我的域名进入了我的购物车，但后来我不得不停止对家人等，今天早上继续购买它，猜猜什么太空飞船公司已经注册了我他妈的域名。他们蹲下来了，我敢肯定，我会尽快收到EM电子邮件，或者在那里有一个着陆页，说它的​​出售价格为$ 1000+ ，实际上他们可以逃脱该WTF。我当然可以向ICANN报告或其他东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1itkpmy/avoid_spaceshipcom_they_they_registered_my_domain/”&gt; [link]   ＆＃32;   [commist imploy]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itkpmy/avoid_spaceshipcom_they_registered_my_domain/</guid>
-      <pubDate>Thu, 20 Feb 2025 00:00:43 GMT</pubDate>
+      <title>非英语说话者：AI时代的国际化值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itugth/nonenglish_speakers_is_internationalisation_in/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对人们的意见感兴趣，尤其是ESL（英语作为二级语言）说话者的意见。 我的假设是开发人员越来越多地使用AI来翻译网站内容。我们网站的一些翻译人员甚至自己都使用AI，并告诉我这很好。 ，由于主要浏览器在按钮时已经具有自动网站翻译（在按钮的按钮时应显着提高，因为它们开始利用其利用。 ai）我想知道我们是否达到了在网站上支持多种语言不再有用的地步。 ，换句话说，作为ESL扬声器，您是否相信＆amp;更喜欢网站的内置翻译（知道它们是使用AI创建的很高的），或者您宁愿使用浏览器的内置翻译系统？ 作为单语的人，我是可悲的是我不知道浏览器的翻译是否有益。也就是说，每当我用英语阅读网站时，它总是比可用的。 我的问题的重点也许不是“我们还没有吗？ ;我们要去那里吗？＆quot＆quot，如果是在什么时间表上？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jeff_105     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itugth/nonenglish_speakers_is_internationalisation_in/</guid>
+      <pubDate>Thu, 20 Feb 2025 09:16:00 GMT</pubDate>
     </item>
     <item>
-      <title>针对当前失业的JRS的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itkeb7/question_for_jrs_who_are_unemployed_currently/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你们在停机期间在做什么（减去整个修复简历 /网络）？我刚刚完成了一个附带项目，这使我在过去一个月左右的时间里忙碌，并正在寻找一种新的语言/工具/框架/等。要拿起我有一些空闲时间  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/picodegalleo    href =“ https://www.reddit.com/r/webdev/comments/1itkeb7/question_for_jrs_who_are_are_are_unemployed_curranty/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itkeb7/question_for_jrs_who_are_unemployed_currently/</guid>
-      <pubDate>Wed, 19 Feb 2025 23:46:12 GMT</pubDate>
+      <title>Facebook Group替代可以集成到网站上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itufkk/facebook_group_alternative_to_integrate_into/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！  我正在寻找我正在运行的目前Facebook组的替代方案，以集成到我的网站中。您是否对如何实现这一目标有任何建议？  唯一需要的东西是一种手动查看新成员请求，将帖子保留在非小组成员中的帖子，并允许成员向他人的职位发布并做出反应。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 我一直在寻找运行Mastodon服务器以实现这一目标。这可能是我们试图实现的好选择吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pyn_nor     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itufkk/facebook_group_alternative_to_integrate_into/</guid>
+      <pubDate>Thu, 20 Feb 2025 09:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>您在哪里寻求帮助？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itk7py/where_do_you_ask_for_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！随着堆栈溢出的下降，我现在想知道人们在哪里寻求帮助？我的意思是，除了chatgpt，当它失败时，你去哪里？ reddit还是一些不和谐社区？似乎在Chatgpt出现后，答案变得比以前更稀缺和私密。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Heraldev     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itk7py/where_do_you_ask_for_help/</guid>
-      <pubDate>Wed, 19 Feb 2025 23:37:54 GMT</pubDate>
+      <title>BRITCSS：修复CSS使用非美国英语</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itt1l2/britcss_fixes_css_to_use_nonamerican_english/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/valencethehuman     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itt1l2/britcss_fixes_css_to_use_nonamerican_english/</guid>
+      <pubDate>Thu, 20 Feb 2025 07:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>招聘人员的薪水比我想的要低的报价要低（英国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itjovw/recruiter_gave_a_lower_salary_offer_than_what_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我在市场上从事新工作。经过漫长的过程，目前与公司的最后阶段！不幸的是，我看到了我使用的招聘人员的文件已将其传递给我正在采访的公司，而且似乎他们认为它比我所说的要低5000英镑。这是6万英镑而不是65,000英镑。我想知道如何处理这一点，因为我认为如果我成功以6万英镑的价格，新地方将为我提供一份工作。回去要求£65k？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/select_yoghurt_1138       [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itjovw/recruiter_gave_a_lower_salary_offer_than_what_i/</guid>
-      <pubDate>Wed, 19 Feb 2025 23:14:31 GMT</pubDate>
+      <title>如何不使用AI招募：来自Autier AI的课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1its2z5/how_not_to_use_ai_for_recruiting_a_lesson_from/</link>
+      <description><![CDATA[   来自离群值AI的教训” src =“ https://preview.itd.it/whfuesybn8ke1.png？来自Outier AI“/&gt;   ＆＃32;的课程提交由＆＃32; /u/mrdanielharka     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1its2z5/how_not_to_use_ai_for_recruiting_a_lesson_from/</guid>
+      <pubDate>Thu, 20 Feb 2025 06:29:19 GMT</pubDate>
     </item>
     <item>
-      <title>如何处理为客户（尤其是较老客户）的WordPress网站创建并管理现有域？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itjjgu/how_to_handle_wordpress_website_creation_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我开始为客户端构建WordPress网站，我对该过程有一些问题。我想让我的客户尽可能平稳，尤其是当其中一些人年龄较大而不是非常喜欢技术时。这是我要弄清楚的：   与年长的客户合作： 您如何简化可能不可能不的老年客户的过程熟悉域，托管或wordpress？ 在不压倒它们的情况下解释事物的最佳方法是什么？ 我应该处理所有内容（例如，托管，域名设置），然后给予他们是最终产品，还是让他们参与此过程？    处理现有域： 管理客户现有域的最佳方法是什么（例如，在2012年注册）并将其连接到Hostinger上的新WordPress网站？ 如果他们不确定如何提供该域，我该如何访问其域？ 如果他们不想分享他们的领域凭据？是否有诸如DNS更改或域转移之类的替代方案？    一般工作流程： 对于没有网站的客户但是，设置托管，注册域并构建其WordPress网站而不混淆它们的最有效方法是什么？ 您如何处理托管/域的付款？您是在帐户下设置它并向客户账单，或者指导他们自己做？ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mincoooo     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itjjgu/how_to_handle_wordpress_website_creation_for/</guid>
-      <pubDate>Wed, 19 Feb 2025 23:08:03 GMT</pubDate>
+      <title>制作了我的第一个3D网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1its2by/made_my_first_3d_website/</link>
+      <description><![CDATA[      &lt;！ -  sc_off-&gt;  用三j和反应三个光纤制造。 代码： https://github.com/tompast/camera-3d-showroom    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tompst     [link]  ＆＃32;   [注释]         &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1its2by/made_my_first_3d_website/</guid>
+      <pubDate>Thu, 20 Feb 2025 06:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人使用Mapbox吗？到目前为止爱它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itjgdj/anyone_else_using_mapbox_loving_it_so_far/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/majestic_affect_1152     xubb6g1wf6ke1.png“&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itjgdj/anyone_else_using_mapbox_loving_it_so_far/</guid>
-      <pubDate>Wed, 19 Feb 2025 23:04:25 GMT</pubDate>
+      <title>是什么使一名出色的软件工程师？ 🤔</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itreg4/what_makes_a_great_software_engineer/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  在他的2016年论文中，Paul Luo Li专业知识。 亮点：   研究方法：对59位专家Microsoft工程师和1,926的调查进行访谈，以识别45关键属性   专业知识：结合技术技能，个人属性和有效的协作    关键属性：编写质量代码，明智的决策，持续学习和促进他人的工作   全面论文： https://faculty.washington.edu/ajko/ajko/ajko/ajko/dissertations/liisertations/lii sistertations/liy2016dissertation. &gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/danielwetan     [link]  ＆＃32;   [注释]     /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itreg4/what_makes_a_great_software_engineer/</guid>
+      <pubDate>Thu, 20 Feb 2025 05:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>免费的Web开发人员指导（仅美国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1itip2c/free_web_developer_mentorship_us_only/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一位经验丰富的网络开发人员，我为美国有积极的人提供免费指导。我热衷于帮助他人成功，我正在寻找一个人：  自信和积极主动的学习。 渴望学习并愿意愿意参加工作。 明确定义了网络开发目标。  如果您认真地从事网络开发事业（或提高现有技能），并且位于在美国，请回复：  您的位置。 简要说明您当前的经历（即使刚刚起步）。  *您希望通过指导实现的目标。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /h2&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/SkillDuel   href =“ https://www.reddit.com/r/webdev/comments/1itip2c/free_web_developer_mentorer_mentorship_us_only/”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1itip2c/free_web_developer_mentorship_us_only/</guid>
-      <pubDate>Wed, 19 Feb 2025 22:31:49 GMT</pubDate>
+      <title>帽定理用马和马车解释</title>
+      <link>https://www.reddit.com/r/webdev/comments/1itr7fx/cap_theorem_explained_with_a_horse_and_carriage/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/siriusastrebe     [link]  ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1itr7fx/cap_theorem_explained_with_a_horse_and_carriage/</guid>
+      <pubDate>Thu, 20 Feb 2025 05:33:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
