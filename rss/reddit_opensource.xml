@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 22 Feb 2025 09:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 15:13:47 GMT</lastBuildDate>
+    <item>
+      <title>有哪些良好的开源工具可以汇总信息？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ivit7d/what_are_some_good_open_source_tools_to_summarize/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想探索开源工具，这些工具总结了不同类型的信息，例如从文本中创建单词云，来自视频的缩略图等。您知道吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/soundofe     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1ivit7d/what_are_are_some_good_good_open_source_tools_tools_to_summarize/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ivit7d/what_are_some_good_open_source_tools_to_summarize/</guid>
+      <pubDate>Sat, 22 Feb 2025 13:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peazip 10.3.0发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ivfnny/peazip_1030_released/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/peazip     [link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ivfnny/peazip_1030_released/</guid>
+      <pubDate>Sat, 22 Feb 2025 10:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>N8N但是开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iv9764/n8n_but_open_source/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   /u/u/u/southpaweffex     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iuhinn/gravitas_threads_3d_reddit_channel_player_play/</guid>
       <pubDate>Fri, 21 Feb 2025 03:37:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们建立了最全面的开源OCR基准</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iu8uud/we_made_the_most_comprehensive_opensource_ocr/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是一个越来越热的话题，尤其是诸如Gemini 2.0之类的模型与传统OCR竞争成本竞争。 我们的目标是基准是在传统的OCR提供商和多模式LLM的OCR /文档提取准确性上提供最全面的开源评估。我们已经比较了1,000个文件的顶级提供商。  我们测量的三个大指标：   - 准确性（模型提取结构化数据的能力如何）   - 每1000页的成本  &lt; p&gt;  - 每页延迟 ，简而言之，LLM的表现优于传统的OCR提供商，Gemini 2.0是快速，便宜和准确的最佳组合！  github： https://github.com/getomni-ai/benchmark    拥抱脸： https://huggingface.co/datasets/getomni-i-ai/ocr-benchmark      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/travelladybug23     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iu8uud/we_made_the_most_comprehensive_opensource_ocr/</guid>
-      <pubDate>Thu, 20 Feb 2025 20:44:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Google API限制范围的开源项目的成功案例无需$ 5K安全审核吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iu5ubp/success_stories_of_open_source_projects_that_use/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在关于我的免费开源工具之前发布了关于我的免费开源工具的信息，现在我希望在有关Google的第三方应用程序的对话中与其他开源开发人员互动验证过程。  该应用需要Gmail API，仅阅读敏感范围。 我遇到了一些障碍 - 因为我的应用程序使用的范围有限（gmail read），我听到了从同伴的创始人那里，我可能需要每年为Google批准的第三方安全评估提供超过5k美元的分支，以在100个用户之外扩展该应用工作区加上是否减少了安全要求吗？ 有人会碰巧更多地了解这个问题，还是可以将我指向以前做过此问题的人？ 我真的试图使此应用程序免费，因此，如果可能的话，我想避免货币化。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iu5ubp/success_stories_of_open_source_project_projects_that_that_use/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iu5ubp/success_stories_of_open_source_projects_that_use/</guid>
-      <pubDate>Thu, 20 Feb 2025 18:41:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
