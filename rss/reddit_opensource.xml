@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 22 Feb 2025 01:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 06:21:15 GMT</lastBuildDate>
+    <item>
+      <title>N8N但是开源？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iv9764/n8n_but_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。  我想知道是否有N8N，相关性或制造的东西是真正的开源（最好是MIT许可证，最好或免费用于商业用途）。优选使用兰班链或下面一些类似的既定框架。  如今，在这个令人费解的平台中很难找到一些东西。  我非常感谢任何想法/提示！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/beanjaminbuxbaum     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iv9764/n8n_but_open_source/</guid>
+      <pubDate>Sat, 22 Feb 2025 03:13:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Libriscribe：使用多个AI代理的开源书创建系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iv7azy/libriscribe_an_opensource_book_creation_system/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经构建了libriscribe，这是一种使用专业的AI代理来帮助写书的开源系统。您只需将其安装Python和系统将指导您在几分钟内编写一本完整的书:)  每个代理都有一个特定的角色：   - 概念加拿大概念概念  &lt; P&gt;  -  Outliner结构您的书   - 字符生成器构建引人注目的字符   -  Worldbuildingagent创建丰富的设置  -Chrocewriter在coptracewriter上写下场景 - 逐一  -EditorAgent精炼和抛光   -  contentreviewer检查情节孔和不一致 而不是一个试图做的AI一切，Libriscribe在专用代理之间创建了协作工作流程。它适用于小说，非小说，商业书籍和研究论文。 该代码基于Python且模块化。随时为自己的项目进行测试，贡献或调整它： https：//github.com/guerra2fernando/libriscribe   我会感谢任何反馈，星星或贡献！  &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/sevyten     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iv7azy/libriscribe_an_opensource_book_creation_system/</guid>
+      <pubDate>Sat, 22 Feb 2025 01:36:06 GMT</pubDate>
+    </item>
     <item>
       <title>我在C中建造了一个正则表达式解析器，并开源了！</title>
       <link>https://www.reddit.com/r/opensource/comments/1iv5cl9/i_built_a_regex_parser_in_c_and_opensourced_it/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这是一个越来越热的话题，尤其是诸如Gemini 2.0之类的模型与传统OCR竞争成本竞争。 我们的目标是基准是在传统的OCR提供商和多模式LLM的OCR /文档提取准确性上提供最全面的开源评估。我们已经比较了1,000个文件的顶级提供商。  我们测量的三个大指标：   - 准确性（模型提取结构化数据的能力如何）   - 每1000页的成本  &lt; p&gt;  - 每页延迟 ，简而言之，LLM的表现优于传统的OCR提供商，Gemini 2.0是快速，便宜和准确的最佳组合！  github： https://github.com/getomni-ai/benchmark    拥抱脸： https://huggingface.co/datasets/getomni-i-ai/ocr-benchmark      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/travelladybug23     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iu8uud/we_made_the_most_comprehensive_opensource_ocr/</guid>
       <pubDate>Thu, 20 Feb 2025 20:44:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Google API限制范围的开源项目的成功案例无需$ 5K安全审核吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iu5ubp/success_stories_of_open_source_projects_that_use/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在关于我的免费开源工具之前发布了关于我的免费开源工具的信息，现在我希望在有关Google的第三方应用程序的对话中与其他开源开发人员互动验证过程。  该应用需要Gmail API，仅阅读敏感范围。 我遇到了一些障碍 - 因为我的应用程序使用的范围有限（gmail read），我听到了从同伴的创始人那里，我可能需要每年为Google批准的第三方安全评估提供超过5k美元的分支，以在100个用户之外扩展该应用工作区加上是否减少了安全要求吗？ 有人会碰巧更多地了解这个问题，还是可以将我指向以前做过此问题的人？ 我真的试图使此应用程序免费，因此，如果可能的话，我想避免货币化。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iu5ubp/success_stories_of_open_source_project_projects_that_that_use/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iu5ubp/success_stories_of_open_source_projects_that_use/</guid>
-      <pubDate>Thu, 20 Feb 2025 18:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，请给我想法以获取我的开源DevTool</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iu332q/guys_please_give_me_ideas_to_monetize_my_open/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我在5天前推出了一个光标扩展名，并且在GitHub上已经〜100星，在不同的论坛上也有很多功能请求，甚至是赞助商在github  上是作为一个附带项目制作的，但是现在我花了很多时间来解决人们所需要的问题并处理他们需要的新功能，所以我正在考虑以某种方式获利。那我现在列出了在Microsoft Marketplace，OpenVSX和我的GitHub Repo上列出的足够动力 现在，它们似乎都没有支持付费产品afaik  请建议我如何如何可以将这一点获利，因为光标还向用户收取20美元的Pro版本  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/saketsarin     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iu332q/guys_please_give_me_ideas_to_monetize_my_open/</guid>
-      <pubDate>Thu, 20 Feb 2025 16:51:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
