@@ -4,18 +4,25 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 23 Feb 2025 09:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 12:24:07 GMT</lastBuildDate>
+    <item>
+      <title>似乎现在有人否认AI是一项革命性的发明，现在变得越来越时尚。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw72d9/it_seems_that_its_now_getting_fashionable_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，但是来吧，未来的子孙后代将在列表中排名ai，并用轮子和火。我是一个完整的菜鸟，但是我认为AI革命性的是什么？ AI模型或任何消化了数百万本书。它们包含的信息比我们从搜索引擎中获得的更多信息。 Wikipedia在一本书上的文章中，马克思的“资本”与Chatgpt的崩溃。 只是我的两分钱。   &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/printed_lawn     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iw72d9/it_seems_that_its_now_getting_fashionable_for/</guid>
+      <pubDate>Sun, 23 Feb 2025 10:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>LLM会考虑安全吗？关于编程问题的回答的实证研究</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw6610/do_llms_consider_security_an_empirical_study_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文标题为&#39;llms是否考虑安全？一项关于对编程问题的回答的实证研究，并由Amirali Sajadi，Binh Le，Anh Nguyen，Kostadin Damevski和Preetha Chatterjee作出。  本文回答了与编程相关的问题时，研究了三种流行的大语言模型（GPT-4，Claude 3和Llama 3）的安全意识。具体来说，研究人员检查了这些模型是否警告开发人员从堆栈溢出中获取的代码段中的安全漏洞，这是编码援助的常见来源。该研究引起了人们对LLM在开发人员互动中主动识别和传达安全风险的能力的担忧。  关键发现：   有限的安全意识：研究发现，LLM很少警告开发人员在提供的代码中的安全缺陷。平均而言，模型仅确定了社区已经标记的堆栈溢出问题中的30％，而在以前没有指出漏洞的问题中，只有13.7％模型性能： GPT-4在检测安全问题时表现要比Claude 3和Llama 3更好，尤其是在堆栈溢出答案中明确提到安全问题的问题中。但是，所有模型的性能都呈现出不安全代码的看不见或转换版本时都拒绝。   对脆弱性类型的检测不均匀：这些模型更可能识别漏洞与处理敏感信息的处理有关（例如，硬编码的凭据），但在更复杂的安全问题（例如资源注入或路径遍历）中挣扎。 &lt; /li&gt;  与人类的反应进行比较：在LLMS确实产生安全警告的情况下，它们经常提供对与人类生成的堆栈溢出答案相比的脆弱原因，潜在的利用和修复的更详细的解释。这表明LLM可以在检测缺陷时提高安全意识。   通过提示和工具集成改进：简单提示的简单及时修改（例如，地址“地址安全性漏洞）” ）提高了安全警告的可能性，但并非始终如一。但是，将LLM与诸如CodeQL之类的静态分析工具集成在一起，显着增强了其识别和解释漏洞的能力。   含义： 这些发现突出了与之相关的风险仅依靠LLM来编码援助，强调开发人员对安全最佳实践保持警惕。研究人员建议进行潜在的改进，例如提高模型培训，以提高安全意识并将LLM与外部漏洞检测工具相结合以减轻监督。  您可以在此处捕获完整的故障：此处 您可以在这里捕获完整的原始研究论文：原始纸   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1IW6610/do_llms_consider_security_an_empirical_empirical_study_on/&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文标题为&#39;llms是否考虑安全？一项关于对编程问题的回答的实证研究，并由Amirali Sajadi，Binh Le，Anh Nguyen，Kostadin Damevski和Preetha Chatterjee作出。  本文回答了与编程相关的问题时，研究了三种流行的大语言模型（GPT-4，Claude 3和Llama 3）的安全意识。具体来说，研究人员检查了这些模型是否警告开发人员从堆栈溢出中获取的代码段中的安全漏洞，这是编码援助的常见来源。该研究引起了人们对LLM在开发人员互动中主动识别和传达安全风险的能力的担忧。  关键发现：   有限的安全意识：研究发现，LLM很少警告开发人员在提供的代码中的安全缺陷。平均而言，模型仅确定了社区已经标记的堆栈溢出问题中的30％，而在以前没有指出漏洞的问题中，只有13.7％模型性能： GPT-4在检测安全问题时表现要比Claude 3和Llama 3更好，尤其是在堆栈溢出答案中明确提到安全问题的问题中。但是，所有模型的性能都呈现出不安全代码的看不见或转换版本时都拒绝。   对脆弱性类型的检测不均匀：这些模型更可能识别漏洞与处理敏感信息的处理有关（例如，硬编码的凭据），但在更复杂的安全问题（例如资源注入或路径遍历）中挣扎。 &lt; /li&gt;  与人类的反应进行比较：在LLMS确实产生安全警告的情况下，它们经常提供对与人类生成的堆栈溢出答案相比的脆弱原因，潜在的利用和修复的更详细的解释。这表明LLM可以在检测缺陷时提高安全意识。   通过提示和工具集成改进：简单提示的简单及时修改（例如，地址“地址安全性漏洞）” ）提高了安全警告的可能性，但并非始终如一。但是，将LLM与诸如CodeQL之类的静态分析工具集成在一起，显着增强了其识别和解释漏洞的能力。   含义： 这些发现突出了与之相关的风险仅依靠LLM来编码援助，强调开发人员对安全最佳实践保持警惕。研究人员建议进行潜在的改进，例如提高模型培训，以提高安全意识并将LLM与外部漏洞检测工具相结合以减轻监督。  您可以在此处捕获完整的故障：此处 您可以在这里捕获完整的原始研究论文：原始纸   &lt;！ -  sc_on-提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1IW6610/do_llms_consider_security_an_empirical_empirical_study_on/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iw6610/do_llms_consider_security_an_empirical_study_on/</guid>
       <pubDate>Sun, 23 Feb 2025 09:11:02 GMT</pubDate>
     </item>
     <item>
       <title>关于人AI的快速问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw636p/quick_question_regarding_humanizer_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果我要直接从AI人类器中复制和粘贴文本，即使AI评级将其归类为人类，它仍然会被视为AI吗？我有点困惑，因为有人告诉我，如果我直接从人类化合物中复制和粘贴，它仍然会被视为AI并导致失去印记。  &lt;！ -  sc_on-&gt;＆&gt;＆ ＃32;提交由＆＃32; /u/u/slayingforon17     [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果我要直接从AI人类器中复制和粘贴文本，即使AI评级将其归类为人类，它仍然会被视为AI吗？我有点困惑，因为有人告诉我，如果我直接从人类化合物中复制和粘贴，它仍然会被视为AI并导致失去印记。  &lt;！ -  sc_on-&gt;＆&gt;＆ ＃32;提交由＆＃32; /u/u/slayingforon17     [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iw636p/quick_question_regarding_humanizer_ai/</guid>
       <pubDate>Sun, 23 Feb 2025 09:05:12 GMT</pubDate>
     </item>
@@ -83,16 +90,9 @@
       <pubDate>Sat, 22 Feb 2025 21:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>征税AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivotjl/taxing_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在这里，有人讨论了AI系统被征税的潜力，例如，根据对其所有者产生的收入的比例，作为解决损失税收的解决方案AI？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/olisor     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivotjl/taxing_ai/</guid>
-      <pubDate>Sat, 22 Feb 2025 18:02:13 GMT</pubDate>
-    </item>
-    <item>
       <title>AI变得更聪明，但是我的提示变得笨拙</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_prompts_are_getting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  每次我看到人们都在制作天才级AI提示，获得令人振奋的结果并突破机器学习的界限...同时，我&#39;M在这里打字： “让我成为我吃披萨的餐食计划出去正确使用它。其他人觉得他们的智能落后于模型？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pure_pass1093    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_my_my_prompts_are_getting/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/1ivjpk4/ai_is_getting_smarter_smarter_but_my_my_my_my_prompts_are_are_getting/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  每次我看到人们都在制作天才级AI提示，获得令人振奋的结果并突破机器学习的界限...同时，我&#39;M在这里打字： “让我成为我吃披萨的餐食计划出去正确使用它。其他人觉得他们的智能落后于模型？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pure_pass1093    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_my_my_prompts_are_getting/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/1ivjpk4/ai_is_getting_smarter_but_my_my_my_my_my_my_prompts_are_are_getting/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_prompts_are_getting/</guid>
       <pubDate>Sat, 22 Feb 2025 14:18:06 GMT</pubDate>
     </item>
