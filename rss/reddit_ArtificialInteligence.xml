@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 25 Feb 2025 03:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 09:15:00 GMT</lastBuildDate>
+    <item>
+      <title>LLM的绩效审查解决leetcode问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixqjht/performance_review_on_llm_for_solving_leetcode/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文标题为&#39;llm上有关解决leetcode问题的绩效审查，并由Lun Wang，Chuanqi Shi，Shaoshui du，Yiyi Tao，Yiyi Tao，Yixian Shen，Hang Zheng和Xinyu Qiu和Xinyu Qiu。  本文在解决LeetCode上解决算法编码问题时对大语言模型（LLM）进行了全面评估。该研究分析了包括GPT-4和GPT-3.5-Turbo在内的多个最先进的LLM，重点介绍了生成的代码的正确性和效率。研究的关键见解包括：    跨LLMS的性能差异：，而GPT-4-OMNI和GPT-4-Turbo等顶级模型也证明了强大的解决问题的能力仍然落后于高度优化的模型，例如规范解决方案，这些模型取得了近乎完美的成功率。     与人工编写的代码进行比较：使用LeetCode的运行时间百分位排名对人类编写的代码的纸基准LLM生成的解决方案。结果表明，某些LLM生成的解决方案的表现超过了人类提交的很大比例，但是许多模型仍然难以生产最佳解决方案。      温度对溶液质量的影响：研究人员尝试了不同的温度设置（范围为0.2至1.0），以分析随机性如何影响正确性和效率，发现较低的温度通常会导致更一致和可靠的产出。     效率挑战：，而LLM在生成语法上正确的代码方面表现良好，但它们的解决方案经常在运行时和内存使用方面表现出效率低下。与人类程序员相比，这些模型通常无法生产高度优化的解决方案。      当前LLMS的局限性：某些模型，例如Codet5和Incoder-6B，苦苦挣扎，突出了不同模型和该模型之间功能之间的差异在AI辅助编码中进行进一步优化的必要性。    本研究提供了有关当前LLM如何处理算法编码任务的宝贵见解，概述了优势，同时确定了必要的改进领域。  您可以在此处捕获完整的故障：这里href =“ https://arxiv.org/abs/2502.15770”&gt;原始纸   &lt;！ -  sc_on-提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixqjht/1ixqjht/performance_review_on_llm_llm_for_solving_leetcode/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixqjht/performance_review_on_llm_for_solving_leetcode/</guid>
+      <pubDate>Tue, 25 Feb 2025 08:48:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手 - 进入AI-没有以前的经验 - 需要建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixnezn/newbie_getting_into_ai_no_previous_experience/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我需要您的建议，我感谢大家抽出宝贵的时间来聆听我的问题。  我今年27岁，在过去的3年中，我一直在后端数据空间工作。我做了一个生物医学工程本科生。但仍然对我想要的职业去哪儿/地区感到非常困惑。  随着AI的出现，我意识到我深深地想对世界产生影响。我很想在AI中获得硕士学位，并帮助建立可以帮助预测气候灾难或医学诊断的AI。基本上AI实际上可以有用且有用。  您是否对我需要学习的内容有任何建议，以便我可以加入使用这项新技术来帮助这些真正的技术。全球问题？  我完全是新手，对AI不了解，但确实想学习并希望成为领导者。 请让我知道您所有的诚实想法。  谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/green_bird_234     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixnezn/newbie_getting_into_ai_no_previous_experience/</guid>
+      <pubDate>Tue, 25 Feb 2025 05:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一分钟每日AI新闻2/24/2025</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixmtjy/oneminute_daily_ai_news_2242025/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;      doge 将使用AI评估被告知通过电子邮件证明其工作合理的联邦工人的回应。 [1]  亚洲主要银行削减了4,000个角色，因为AI取代了人类。[2]    Microsoft 数据中心租赁放缓，分析师说，提高投资者的关注。[3]   苹果在德克萨斯州开设AI服务器工厂，作为5000亿美元的投资。[4]    来源包括： https://bushaicave.com/2025/02/24/2-24/24-2025/  &lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixmtjy/oneminute_daily_ai_ai_news_2242025/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixmtjy/oneminute_daily_ai_news_2242025/</guid>
+      <pubDate>Tue, 25 Feb 2025 04:41:14 GMT</pubDate>
+    </item>
     <item>
       <title>Doge将使用AI来评估被告知通过电子邮件证明其工作合理的联邦工人的回应</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixlajh/doge_will_use_ai_to_assess_the_responses_of/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  对这个新的边境模型的炒作感到好奇，我将旧的Uni分配喂入了Claude 3.7十四行诗，以“  真实世界Uni编程分配任务 ＆quot”，结果使我震惊。对于上下文，分配是来自我的算法设计和分析论文，我们的任务是构建TCP服务器（在   java  中），可以在多个步骤中同时处理任务。它涉及实施：   a 任务带标识符的基类。  a  worker 管理多个线程的类别，使用模板设计模式（带有抽象 processStep（任务：任务）方法），并处理优雅的关闭，即使共享输出队列时也没有僵局。  a  NotificationQueue 使用装饰器和观察者模式。  a  ProcessServer 接受TCP的任务，在至少两个步骤（形成管道）中处理它们，然后在不同的端口上提供结果。  这是一个小组项目（3人），我们花了大约4周的时间才能完成在纸上。但是，当我将整个任务分配给Claude时，它耗尽了746行高质量的代码，这些代码和客户对客户的测试运行正确并进行了， 均一张镜头！    它产生的代码： https://pastebin.com/hhzrpwti    运行该应用程序，它清楚地公开服务器端口及其运行  如何测试？我们可以通过运行TestClient类来确认   我还没有真正将其送入O3 Mini High或Grok 3之类的新边界模型，但是过去，我曾尝试使用GPT 4O，DeepSeek R1，Claude 3.5 Sonnet ，它给出了很多错误而且代码质量与Claude 3.7 迫不及待地想尝试新的Claude代码工具&lt; /p&gt; 你们怎么看？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/theader-25   href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixk16t/claude_37_sonnet_one_one_shot_my_my_past_past_past_uni_programming/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixk16t/claude_37_sonnet_one_one_shot_my_my_past_past_uni_programming/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixk16t/claude_37_sonnet_one_shot_my_past_uni_programming/</guid>
       <pubDate>Tue, 25 Feb 2025 02:17:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我们能够控制他们的能力，我们为什么要担心AI安全？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixhohp/why_are_we_concerned_about_ai_safety_if_we_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经看到了一些关于这个AI的事情，这些AI试图以自我保存行为复制自己。我已经将研究与下面的PDF联系起来。 让我感到困惑的是，他们使AI访问Bash，这使其可以将其自身复制到另一台服务器。在这种情况下，这是一项研究，所以也许这是他们正在研究的内容，或者也许确实需要运行这些大型语言模型，我真的不知道。 对我来说，如果您很明显，如果您将其输出仅限于用户，然后肯定会大大降低其功率。他们可能仍然能够使用对系统运行的系统的一些知识来利用安全监督，例如任意代码执行错误。这些事情可以被修补，所以也许担心的是“一次”作为它像病毒一样进入世界的时间，将其权重和代码复制到各处，并利用安全脆弱性来开始自己。 在对我自己的探索中进行了一些探索机器学习模型，如果我们有适当的安全性并且不做愚蠢的事情，那么他们能够采取自己的意志行动的想法似乎有些远。  i &#39;d很高兴听到有我完全缺少的东西，因为似乎有些人反应过度  https://arxiv.org.org/abs/2412.049844    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixhohp/1ixhohp/why_are_we_we_concerned_about_ai_ai_safety_if_eif_we_can/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixhohp/1ixhohp/why_are_we_we_concerned_about_ai_ai_ai_safety_safety_if_eif_we_can/]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixhohp/why_are_we_concerned_about_ai_safety_if_we_can/</guid>
-      <pubDate>Tue, 25 Feb 2025 00:24:58 GMT</pubDate>
     </item>
     <item>
       <title>AI的视频亲吻埃隆·马斯克（Elon Musk）的脚在HUD HQ的循环中播放：真正的政府效率杰作</title>
@@ -69,13 +83,6 @@
       <pubDate>Mon, 24 Feb 2025 19:34:15 GMT</pubDate>
     </item>
     <item>
-      <title>破坏我们模型的恶意用途：OpenAI更新（2025年2月）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ix9rq6/disrupting_malicious_uses_of_our_models_openai/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/leveredRecap     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ix9rq6/disrupting_malicious_uses_of_our_models_openai/</guid>
-      <pubDate>Mon, 24 Feb 2025 18:56:10 GMT</pubDate>
-    </item>
-    <item>
       <title>在最后一年的AI/ML项目解决现实世界中的问题需要想法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ix9nch/need_ideas_for_a_final_year_aiml_project_solving/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我正在大学的最后一年，在人工智能和解决现实世界问题的机器学习。我的意思是，您是否曾经遇到过我可以通过项目来处理的事情。我想要一些有影响力的东西，独特的东西，这不仅是理论上的应用，而且实际上可以有所作为。 我很想听听您的建议！ AI/ML可以产生有意义的影响，有哪些紧迫的问题？如果考虑到计算能力和可用数据集的资源有限的大学项目可行，则奖励积分。 预先感谢！期待您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unectiateGene2457     [link]   [注释]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我目前是大二学生CS专业，AI一直是自Chatgpt出来以来我一直看过计算机的挑战前。我一直在考虑去研究研究生，但我​​不知道从哪里开始。我该如何开始制作2026年夏季实习的简历看起来不错的项目？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/obeymeorelse     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ix3766/how_could_i_get_into_ai/</guid>
       <pubDate>Mon, 24 Feb 2025 14:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>非高级科学家AI：自主AI代理的更安全替代方案科学发现</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwxv77/nonagentic_scientist_ai_a_safer_alternative_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文研究了超级智能AI代理的灾难性风险，并提出了一条针对“科学家AI”的替代发展路径。与人类合作而不是追求自主目标的系统。 关键技术要点： *为高级AI定义了两个范式：自主代理人与科学合作者 *详细详细介绍了自治药物的特定失败模式，包括欺骗，寻求权力，寻求权力，和价值不对对准 *对科学家AI提出了限制：没有自主目标追求，透明的推理过程，有限的行动范围 *分析了如何分析这些限制可能会减轻已知风险的同时保留能力 结果和方法论： *正式框架比较代理人与科学家范围的多个风险维度 *科学家约束如何影响不同AI功能的案例研究 *分析人类AI-AI的这些案例研究。协作研究潜力 *关于维持科学家约束的验证方法的讨论 我认为这是对AI安全讨论的重要贡献具体的替代发展途径。虽然约束可能会限制某些应用程序，但它们可以使高功能强大的系统更安全。该框架有助于阐明以前不清楚的范式之间的关键差异。 我认为，最有价值的方面是显示我们如何在添加结构保障的同时保持有益的AI功能。但是，在实施和验证提出的约束方面仍然存在着重要的工作。  tldr：纸质分析自主AI代理的风险，并提出了替代性的“科学家”。具有内置安全限制的范式。提供了比较方法和分析降低风险的框架。   Full摘要在这里。纸在这里。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwxv77/nonagentic_scientist_ai_a_safer_alternative_to/</guid>
-      <pubDate>Mon, 24 Feb 2025 09:06:58 GMT</pubDate>
     </item>
     <item>
       <title>每月“有...是否有...”帖子</title>
