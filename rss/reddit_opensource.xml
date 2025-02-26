@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 26 Feb 2025 09:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 15:16:57 GMT</lastBuildDate>
+    <item>
+      <title>开源日志Explorer模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyp8bc/opensource_logs_explorer_template/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们发布了一个开源日志Explorer模板，可帮助开发人员在其应用程序中构建可观察性功能。  这是一个完整的堆栈解决方案，带有下一个frontend和tinybird后端，旨在按大规模处理数十亿个日志。目的是使任何软件项目都可以轻松提供大型平台提供的日志探索。  MIT许可并开放以供捐款。 github： github.com/tinybirdco/logs-explorer-template      &lt;！ -  &lt;！ -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/u/itty-bitty-birdy-tb      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyp8bc/opensource_logs_explorer_template/</guid>
+      <pubDate>Wed, 26 Feb 2025 14:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个用于产品测试的数据分析平台 - 寻找反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_data_analytics_platform_for_product/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我一直在研究 hovernest ，开源数据分析平台旨在帮助小型企业，产品经理和产品经理和开发人员有效地测试其产品。它为产品性能，用户行为和潜在改进提供了深刻的见解。我正在寻找诚实的反馈以完善平台。   https：https：https：https：https： //vimeo.com/1060422597/f530eac40f?share=copy    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_a_data_analytics_platform_for_product/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_data_analytics_platform_for_product/</guid>
+      <pubDate>Wed, 26 Feb 2025 10:44:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是一个值得更多关注的OSS项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_project_that_deserves_more_attention/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们大多数人可能知道在创建和维护开源项目方面有多少努力。但是，凭借开源世界的广阔世界，有无数的项目在雷达下飞行。  tbh，这有时使我感到沮丧一点鼓励确实可以在保持开发人员的动机方面有所作为。 因此，我想分享一些很棒的OSS项目（所有的5k恒星），我认为这应该得到更多的爱。 （   fyi我都不隶属于这些 - 只是粉丝！  ）    &lt; ul&gt;   codapi （1.7k stars） - 让您在文档中制作交互式代码示例。用户不仅可以阅读，还可以与他们一起玩 - 让学习方式更有趣，动手！ - 玩家（2.7k星级） - 在网站上播放终端命令，例如视频 - 但使用实际文本可以复制/粘贴，因此您可以将鼠标滚动到它上面如果您喜欢的话，请复制/粘贴命令。编程源代码。它使您可以查看是否可以在某些地方简化代码，例如集中函数在各处使用，等等。   trackia （4.9k stars） - 超级快速运行时验证器库用于打字稿。与其他库不同，典型不需要额外的架构定义。只有1行代码。   当然，这只是在刮擦表面。您知道其他被低估的OSS项目值得更多关注吗？我很想检查它们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_oss_project_that_that_deserves_more_atterention/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_project_that_deserves_more_attention/</guid>
+      <pubDate>Wed, 26 Feb 2025 10:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>开源是梦想死亡的地方</title>
       <link>https://www.reddit.com/r/opensource/comments/1iyj3iu/opensource_is_where_dreams_go_to_die/</link>
@@ -34,25 +55,11 @@
       <pubDate>Wed, 26 Feb 2025 07:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>习惯跟踪器教程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iyhqxf/habit_tracker_tutorial/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我已经学习了一段时间的React React Native，并且已经涵盖了基础知识。我目前正在寻找有关建立习惯追踪器的教程，但我找不到一个教程。如果有人知道一个好的教程（无论是用于习惯跟踪器，甚至是情绪追踪器），如果您可以与我分享，我真的很感激。 预先感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Alive-Professor5944     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iyhqxf/habit_tracker_tutorial/</guid>
-      <pubDate>Wed, 26 Feb 2025 07:03:51 GMT</pubDate>
-    </item>
-    <item>
       <title>对于开源开发：您跟踪什么指标？您怎么知道您的项目对您自己以外的人有用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始构建打开 - 抹布的源项目。我有很多有趣的建筑。但是，我正在努力评估自己的表现（或糟糕）。我的目标是构建人们发现真正有用的东西，并且我不确定如何量化该指标或跟踪的指标。我觉得由于机器人只是刮擦github和pypi，在此阶段，克隆和PIP下载太肿了，无法在此阶段进行跟踪。我听说一些开发人员的朋友提到了Github上的星星也只是虚荣心的指标。  如果您构建了一个您认为成功的开源项目，我很想听听您用来定义成功的指标。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Advanced_army4706     [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</guid>
       <pubDate>Wed, 26 Feb 2025 03:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amurex-开源AI会议副标士，现已演变成开源助理助理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iydl11/amurex_the_open_source_ai_meeting_copilot_now/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家👋 上个月，我制作了Amurex，一个开源的AI会议copilot，现在正在演变成某物更大：开源执行助理。我们正在构建诸如在您所有在线知识中的汇总搜索之类的功能。 现在，Amurex与Google Meet和Microsoft团队合作，处理笔录和摘要，甚至提供实时建议。   -  github repo： https://github.com/thepersonalaicompany/amurex       - 网站： https://www.amurex.ai    任何反馈都非常感谢。请让我知道您对新方向的看法：D   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stealthanthrax   href =“ https://www.reddit.com/r/opensource/comments/1iydl11/amurex_the_open_source_ai_meeting_copilot_now/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iydl11/amurex_the_open_source_ai_meeting_copilot_now/</guid>
-      <pubDate>Wed, 26 Feb 2025 03:00:22 GMT</pubDate>
     </item>
     <item>
       <title>寻找免费/开源AI开发人员代理</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在开发一个名为Graphina的开放源代码锈库，用于图形数据科学。该图书馆正处于开发的早期阶段，因此可能还没有准备好认真使用。但是，已经实施了许多核心功能和算法的早期版本。 我在这里宣布该项目以邀请社区的贡献和建议。我对Rust仍然相对较新，因此我特别感谢您可能需要帮助改善Graphina的任何建设性反馈。  github链接： https://github.com/habedi/graphina   感谢您的兴趣和支持！  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_pomegranate7508      [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixyyey/graphina_a_highlevel_graph_data_science_library/</guid>
       <pubDate>Tue, 25 Feb 2025 16:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>咖啡馆玛丽亚。一款功能性的烹饪模拟游戏完全在Mariadb中玩。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我的疯狂科学实验螺旋不高。没有外部脚本，可以登录DB并通过存储过程完全播放。 我完成了概念证明，并决定是时候继续进行下一个项目了。因此，我将其释放给公众以您的娱乐和恐惧。提交由＆＃32; &lt; //github.com/todo-make-username/cafe_maria&quot;&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</guid>
-      <pubDate>Tue, 25 Feb 2025 14:57:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
