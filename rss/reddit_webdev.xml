@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 27 Feb 2025 03:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 06:21:10 GMT</lastBuildDate>
+    <item>
+      <title>Next.js 15.2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iz8lus/nextjs_152/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/feross     [link&gt; [link]   [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iz8lus/nextjs_152/</guid>
+      <pubDate>Thu, 27 Feb 2025 05:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端/服务器端验证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iz8g3r/backendserverside_validation/</link>
+      <description><![CDATA[So I&#39;m getting into webdev stuff with Angular this week and I&#39;m currently at a point where I have a JSON database I&#39;m sending data to and from, nothing serious right now just messing around with a project that&#39;ll never see the light of day. Anyway, I knew from the start that it only made sense that any sensitive data input by the user that I&#39;d send to the database (e.g.用户名和密码）应由服务器验证，消毒等。这样，与敏感数据是正确或不正确的安全目的有关的http响应不会给前端的信息。      i  creth 找不到的是我开始修改后端的位置，以使我可以做到这一点，因为我没有webdev for webdev for google for Google for Google for Google for Google不正确。 Right now, I&#39;m using the json-server package to host a dummy local server for the database and the (admittedly deprecated) HTTPClient angular module to modify the database with requests from the front-end.对我来说，看来我需要将自己的等同于 httpclient ，它比 .delete（）， .put&gt; .put（）等。有人可以指导我走正确的道路吗？  感谢您的阅读！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/TT456   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iz8g3r/backendserverside_validation/</guid>
+      <pubDate>Thu, 27 Feb 2025 05:21:58 GMT</pubDate>
+    </item>
     <item>
       <title>网站大楼</title>
       <link>https://www.reddit.com/r/webdev/comments/1iz65l5/website_building/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你们用哪种电子邮件服务向客户发送电子邮件/服务员  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/al al altugsalt      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iyxcim/email_waitlistannouncement/</guid>
       <pubDate>Wed, 26 Feb 2025 20:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>信号CI现在是开源CI/CD平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iywiic/semaphore_ci_is_now_an_open_source_cicd_platform/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mmaksimovic     link link&gt; [link]     32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iywiic/1iywiic/semaphore_is_is_is_now_now_an_open_source_source_cicd_platform/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iywiic/semaphore_ci_is_now_an_open_source_cicd_platform/</guid>
-      <pubDate>Wed, 26 Feb 2025 19:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在WordPress中使用WPFORMS有一些问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_in_wordpress_with_wpforms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   *解决*  - 在下面的编辑部分中回答。&lt; /strong&gt; 你好，我似乎在泡菜中，想知道是否有人自己遇到了这个问题或对此有解决方案。我们使用自由元素来构建网站。我们正在使用WPForms（基本）。最初，我们有一个隐藏领域的问题，没有从查询字符串中正确捕获新的推荐ref-IDS，并且似乎已经硬编码了第一个使用的Ref-ID，无论在不同的设备，IPSS上进行了多少个Entieres/form-submition，无论是在IPS上进行了多少个Entieres/form-submition（是否可以验证IP信息并将IP信息与IPS附加到IPS），Browsers和非prowsers模式（专用模式）（browsers Mode and-proverate Mode and browsate）。隐藏的默认值为{query_var key =“ ref”}我尝试删除隐藏字段并尝试一个新字段。它再次抓住第一个使用的ID并将其硬编码用于系统中的所有未来推荐ID。我们正在使用/？ref = 1和 https：// websiteNamehere/？ref = 2 等等……我们正在使用此方法进行测试。我证实了这似乎不是一个缓存的问题（但我不是专家），进入WordPress＆gt;设置＆gt;一般并将耐力缓存的高速缓存级别设置为关闭，然后通过进入WordPress＆gt; wpforms＆gt;设置＆gt; Misc和Turing在卸载WPForms上以删除插件时删除所有WPForms数据，然后我转到插件并停用它，然后单击DELETE。我还删除了网站上的表格，并没有表格重新发布。然后通过WordPress＆gt;插件＆gt;必须使用＆gt;然后单击“耐力页缓存”（endurance page Cache）（我以前在WordPress＆gt; enstale＆gt; General中将其设置为零）。截至目前，从我的WordPress服务器删除WPForms并重新安装它之后，它在“所有表单”部分中的表单为零，条目部分为空。然后，我用名称字段和一个隐藏的字段制作了一个新的模拟测试表格，并遇到了下面列出的新问题。 我第一次尝试使用 https：// websiteName/？这起作用并返回了隐藏字段的ID的1。但是，当我进入另一个设备并输入 /？ref = 2并提交表格时。它没有提交表格，它重新加载了页面，而URL现在说 /？ref = 1，这也发生在另一台设备上。同样，没有任何表格最终被提交。在单击表单提交时，它迫使重定向到ref = 1，如果我填写表格，则它不起作用，并将我重定向到 /？ref = 1 &lt; /p&gt; 我们将Blue -Host用作我们的网站主机。他们有某些插件，我被告知无法关闭。因此，我不知道他们是否造成冲突。我希望不要因为Bluehost似乎已经很好地使用了，但是谁知道。自动调整，优化并将图像转换为WebP和AVIF。批量或上传时压缩图像以提高您的WordPress网站性能。 启动模板&lt; /strong&gt;   blue -Host插件&lt; /strong&gt;     backup /backup /backup /restore &lt; /strong&gt;     wpcode lite lite lite &lt; /strong&gt;  wpforms ：用密钥激活的  2付费的必用插件，在WordPress   SSO      耐力页Cache 中标记为必用的插件：此cache插件主要用于CACHE插件，主要用于CACHE的额外额定级别的cache cacke Purove of Cache of Hotting of Hotting of Hotting of您可以使用您的您可以使用您的其他层。版本2.2.2 |迈克·汉森（Mike Hansen）  编辑：我正在使用短编码，似乎短编码不允许所有功能正常工作。似乎需要WPForms小部件才能使隐藏字段正确或至少在Elementor中工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Whitedragon32    href =“ https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_ins_in_in_wordpress_with_wpress_with_wpforms/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_in_wordpress_with_wpforms/</guid>
-      <pubDate>Wed, 26 Feb 2025 19:40:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
