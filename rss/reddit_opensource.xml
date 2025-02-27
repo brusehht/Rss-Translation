@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 26 Feb 2025 21:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 03:23:22 GMT</lastBuildDate>
+    <item>
+      <title>对于那些希望做出第一手贡献并享受python的人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经在我的 textual 作为框架。不难学习，但是有很多文档可以查看。 测试套件还没有完全充实，但是应该很快就会。 ，您可以帮助我在内置的代码编辑器中进行几件事，具体来说。这是我最近的主要痛苦点，由于学校和工作，我没有比我更喜欢抛光该应用的时间了。 可以随意分配仓库，看看问题，也许会对他们造成破解。我欢迎所有级别的经验。如果您使用该应用程序并在其他地方查找错误，请确保打开问题或仅提交PR，详细说明您所做的更改。 谢谢！  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cachebags     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</guid>
+      <pubDate>Wed, 26 Feb 2025 22:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>你尝试过橄榄吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyzvic/have_you_tried_olive/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/kuroirider   href =“ https://www.reddit.com/r/olivevideoeditor/comments/1iyhgel/im_very_very_very_surprise_at_the_performance_of_this/”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyzvic/have_you_tried_olive/</guid>
+      <pubDate>Wed, 26 Feb 2025 22:13:03 GMT</pubDate>
+    </item>
     <item>
       <title>许可问题 - 在多大程度上可以将某事视为他人的“派生”作品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iysvla/licensing_question_to_what_extent_can_something/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>ReceCtroast：一个用于UI反馈收集的Web小部件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我制作了一个工具，使向开发人员发送反馈更加容易。这是针对产品经理，技术领导者和网络设计师的工具。  React React React React允许用户在网页上选择元素，捕获其状态（包括屏幕截图），然后将详细信息发送到所需的频道。 之前，将反馈发送给开发人员是一团糟的和时间来源。您必须设置会议并展示问题。  用React Roast进行React Roast，您可以在不离开页面的情况下发送反馈。  npm： https://www.npmjs.coms.com/package/package/package/reaect-roast/reaect-roast    demo：请使用它并报告问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/satyamskillz     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iyiqp6/reactoctroast_a_web_widget_for_ui_feedback_collection_collection/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我制作了一个工具，使向开发人员发送反馈更加容易。这是针对产品经理，技术领导者和网络设计师的工具。  React React React React允许用户在网页上选择元素，捕获其状态（包括屏幕截图），然后将详细信息发送到所需的频道。 之前，将反馈发送给开发人员是一团糟的和时间来源。您必须设置会议并展示问题。  用React Roast进行React Roast，您可以在不离开页面的情况下发送反馈。  npm： https://www.npmjs.coms.com/package/package/package/reeact-roast-roast-roast-roast   demo： demo：请使用它并报告问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/satyamskillz     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iyiqp6/reactoctroast_a_web_widget_for_ui_feedback_collection_collection/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</guid>
       <pubDate>Wed, 26 Feb 2025 08:15:49 GMT</pubDate>
     </item>
@@ -78,14 +92,14 @@
     <item>
       <title>对于开源开发：您跟踪什么指标？您怎么知道您的项目对您自己以外的人有用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始构建 open-source for rag 。我有很多有趣的建筑。但是，我正在努力评估自己的表现（或糟糕）。我的目标是构建人们发现真正有用的东西，并且我不确定如何量化该指标或跟踪的指标。我觉得由于机器人只是刮擦github和pypi，在此阶段，克隆和PIP下载太肿了，无法在此阶段进行跟踪。我听说一些开发人员的朋友提到了Github上的星星也只是虚荣心的指标。  如果您构建了一个您认为成功的开源项目，我很想听听您用来定义成功的指标。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Advanced_army4706     [link]   [注释]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始构建 open-source for rag 。我有很多有趣的建筑。但是，我正在努力评估自己的表现（或糟糕）。我的目标是构建人们发现真正有用的东西，并且我不确定如何量化该指标或跟踪的指标。我觉得由于机器人只是刮擦github和pypi，在此阶段，克隆和PIP下载太肿了，无法在此阶段进行跟踪。我听说一些开发人员的朋友提到了Github上的星星也只是虚荣心的指标。  如果您构建了一个您认为成功的开源项目，我很想听听您用来定义成功的指标。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_do_you_track/&gt; [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</guid>
       <pubDate>Wed, 26 Feb 2025 03:10:56 GMT</pubDate>
     </item>
     <item>
       <title>OSI不断变化的选举故事</title>
       <link>https://www.reddit.com/r/opensource/comments/1iy6ad4/osis_continually_changing_election_story/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/samj      [注释]    ]]></description>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/samj      [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iy6ad4/osis_continually_changing_election_story/</guid>
       <pubDate>Tue, 25 Feb 2025 21:24:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  假设我正在销售一些IoT设备，该设备运行了一个软件，其中包括一部分在这些许可下许可的代码。通过包含许可证和版权的副本，我是否允许将此软件重新分发（无论是通过从闪光灯下载并重新上传到其他MCUS）吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/more_significance34     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iy51xz/embedded_binary_and_mitbsd_licenses_do_i_have_to/</guid>
       <pubDate>Tue, 25 Feb 2025 20:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发布了Ephemeris Explorer，这是太阳系和航天器飞行计划工具的模拟器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iy2wwj/i_released_ephemeris_explorer_a_simulator_of/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/canleskis      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iy2wwj/i_released_ephemeris_explorer_a_simulator_of/</guid>
-      <pubDate>Tue, 25 Feb 2025 19:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bootstrap fork具有完整的DART SASS 3.0.0+兼容性！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iy0qpb/bootstrap_fork_with_full_dart_sass_300/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿，  r/openSource       href =“ https://github.com/coreui/coreui/”&gt; coreui   - 旨在将现代解决方案带到基于Bootstrap的项目的情况下，而无需等待Bootstrap v6。 许多开发人员要求许多开发人员使用Bootsuce for Boottrap来解决SASS折旧和介绍BOOTSTRAP的现代化。因此，我们决定采取行动，我们的最新版本在这里进行以下改进：   sass模块支持  -  no More 如果您正在使用bootstrap，并且想查看我的叉子 -   https://github.com/coreui/coreui/coreui/coreui/coreui/coreui/  提交由＆＃32; /u/mrholek     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iy0qpb/bootstrap_fork_with_full_dart_sass_300/</guid>
-      <pubDate>Tue, 25 Feb 2025 17:37:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
