@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 06:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 09:16:49 GMT</lastBuildDate>
+    <item>
+      <title>您可以免费获得Erika Hall的对话设计（或购买第二版）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j03nzy/you_can_get_erika_halls_conversational_design_for/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/h53dudpsmf0k8nnb6ipoto7uudxh0mkyl7vagwkqf2s.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = AB230DBCAF30FB87A2E81A2E81A0DBF07001EB807EA73“ title =“您可以免费获得Erika Hall的对话设计（或购买第二版）”/&gt;   ＆＃32;提交由＆＃32; /u/u/u/johnfisherman       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j03nzy/you_can_get_erika_halls_conversational_design_for/</guid>
+      <pubDate>Fri, 28 Feb 2025 09:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚在Apple Store上出版了一个我很兴奋的React Native Project！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j02xii/just_published_on_apple_store_a_react_native/</link>
+      <description><![CDATA[Hey Dev Redittors! Just wrapped up a React Native project that I&#39;m pretty excited about! The Stack:  React Native (I&#39;ve just upgraded to v0.77 two weeks ago 🥳) Golang for a lightweight API backend  dall-e 3用于手动添加餐点 用于托管的铁路时（对铁路的简单和高效铁路的忠实拥护者！）  所有东西都非常简单。 Golang后端处理所有API呼叫构建的自定义LLM（专门针对此项目），处理响应，并在NOSQL数据库中管理用户身份验证和内容存储。 是否有人使用类似的堆栈和项目？我很想听听您使用类似饮食/卡路里反击iOS应用程序工作的经历。 您可以在今晚的第一顿饭中使用它 -   https://apps.apple.com/app/mealsnap/mealsnap-mealsnap-food-food-food-food-log-tracker/id-lack--tracker/id-lack------------------------- 🥑  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j02xii/just_published_on_apple_store_a_react_native/</guid>
+      <pubDate>Fri, 28 Feb 2025 08:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>API用于车辆详细信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个API，该API返回提供车辆号码的车辆详细信息。任何有用的信息将不胜感激。 🙏🏽  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/</guid>
+      <pubDate>Fri, 28 Feb 2025 06:21:37 GMT</pubDate>
+    </item>
     <item>
       <title>以后将我的Web应用程序配置为PWA更好吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1izzp3a/is_it_better_to_configure_my_web_app_as_a_pwa/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经制作了一个P2P文件共享应用程序，用户可以连接并直接共享文件，而不是依靠间隔服务器。我想从中获得收入。对此有任何想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fareager_man7278     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1izrpfx/private_file_sharing_app/</guid>
       <pubDate>Thu, 27 Feb 2025 21:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>提交表单时忽略E.PreventDefault（）React E.PreventDefault（）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izrnjx/playwright_ignores_react_epreventdefault_when/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在试图弄清为什么我的剧作家测试失败了，看来第一次尝试总是失败，因为该测试提交了一种表格，该表格应由React的e.preventdefault（）。我不知道第一次尝试和第二次尝试会发生什么反应以捕捉构造。我一直在尝试找到某种命令，例如playwright的“ dispatchevent”。对于表格提交，但我找不到任何东西。 ＆nbsp;  我确实意识到我可以“提交”按钮进入常规按钮，然后创建一个新的FormData对象并以这种方式处理表单，但是我认为我应该尝试学习为什么我首先遇到这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/agitated_syllabub346      [link]       [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izrnjx/playwright_ignores_react_epreventdefault_when/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>用Next.js构建API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izreq7/building_apis_with_nextjs/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izreq7/building_apis_with_nextjs/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署编程定义的静态站点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izpled/deploying_a_programmatically_defined_static_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，可以使用静态站点生成器轻松完成所有这些操作。但是我决心通过重新发明轮子来学习，大声笑。而且我喜欢保持与金属的距离，不使用包装/库/框架，除非我完全知道 为什么我这样做。我不是避开框架 - 我热情地使用node.js express！但是我或多或少地理解我为什么这样做。  无论如何，我都有一个编程定义的静态站点。因此，我使用JavaScript定义HTML页面。为什么？这样我就可以轻松添加内容和/或更改标记。我使用Node Express来执行此操作，使用文件系统模块将文件写入公共文件夹，然后使用 express.static.static 将文件写入公共文件夹。好吧，实际上，它们由Nginx提供服务，因为NGINX实际上更好地用于提供静态资产。   nginx，节点事件循环，CPU内核...它变得非常复杂，这不是针对节点的任何东西，我的意思是它用于类似，Netflix和其他东西。但是在这里，我是一个新手自学成才的Web开发人员，以为可能有很多节点内容在我的范围之外。而且，我实际上不需要节点来做到这一点，对吗？但是我试图弄清楚如何在前端上没有SPA样式的JavaScript的程序定义定义的静态HTML。 Frontend JavaScript没有Node之类的文件写作功能，对吗？使用斑点可以工作吗？  感谢这里的任何潜在客户。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nesterspokebar     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izpled/deploying_a_programmatically_defined_static_site/</guid>
-      <pubDate>Thu, 27 Feb 2025 20:27:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
