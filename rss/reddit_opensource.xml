@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:28:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:17:17 GMT</lastBuildDate>
+    <item>
+      <title>托马斯·杰斐逊（Thomas Jefferson）专利：“一般而言，其他国家认为这些垄断比对社会的优势更具尴尬性，并且可以观察到，拒绝发明垄断的国家与新的和有用的设备中的英格兰一样富有成果。” （1813）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j09awr/thomas_jefferson_on_patents_generally_speaking/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/breck     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j09awr/thomas_jefferson_on_patents_generally_speaking/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍ARIA：管理AI参与软件项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j0996a/introducing_aria_managing_ai_participation_in/</link>
+      <description><![CDATA[After some years of silence (I was one of the Remmina maintainers), I&#39;m excited to share ARIA (Artificial Intelligence Regulation Interface &amp; Agreements), an open-source framework for defining boundaries between human and AI contributors in software projects. What ARIA Does As AI coding tools become more prevalent, ARIA helps teams establish clear policies for how AI should interact with their codebase:  Creates standardized YAML policies for AI participation in codebases Provides policy templates with different permission models (Guardian, Observer, Assistant) 与诸如风浪冲浪和光标（WIP，NVIM/VIM和EMACS）等IDS进行了整合， 将策略转换为特定于IDE的规则并忽略文件    项目状态  aria当前位于alpha（v0.1.1）中。 The core functionality works, but many features are still in development. Looking for Contributors I&#39;m developing ARIA in my limited spare time and welcome contributors interested in:  IDE integration Documentation Testing Feature implementation  Transparent Development  Aria的一部分是在AI协助的情况下开发的，遵循Aria旨在标准化的相同的透明度和人类监督原则。 了解更多    github： antenore.github.io/aria     sponsor： github.com/sponsors/sponsors/sponsors/lieperitions and p p p pro   谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/antenore     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j0996a/introducing_aria_managing_ai_participation_in/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源倡议（OSI）宣布了即将举行的个人和会员选举的候选人名单！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j07bsb/the_open_source_initiative_osi_announced_the/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/opensourceinitiative      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j07bsb/the_open_source_initiative_osi_announced_the/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:12:01 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个多合一的自托实用工具，并开了开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1j05d41/i_made_an_allinone_selfhosted_utility_tools_and/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我一直在开发一个开源的海洋船只跟踪工具，该工具在地图上显示活船数据。我刚刚启动了一个静态演示（实时演示即将到来 - 只是比较托管选项），并且会喜欢反馈甚至贡献！ 静态演示： https://sagehourihan.github.io/clermont-demo/index-demo/index.htex.html  href =“ https://github.com/sagehourihan/clermont”&gt; https://github.com/sagehourihan/clermont     Clermont的工作：            船舶移动使用来自 aisstream.io 的船舶移动（仅当在本地运行 - 再次努力获得现场演示） 静态演示使用json文件来模仿这个     出门在外，所以我下班后需要做一些事情。我喜欢使用诸如“飞行雷达24/7”之类的应用程序来跟踪我在天空中看到的飞机，所以想知道为什么不追踪船只？我想创建一个开源的商业船舶跟踪服务的替代品。简而言之，因为我可以。我喜欢仅仅建立感兴趣的个人的想法，即使存在类似的产品。 如何提供帮助：  尝试演示！  我知道它是静态的，但是前端模仿了实际的完整堆栈应用程序，如果您想要的话，请查看。 寻找错误，问题或建议的功能。 贡献！它是开源的，所以请随时做出贡献。我在GitHub存储库中有一个路线图，我打算下一步做的事情。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/m4j0r_spam      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iznezo/clermont_an_open_source_vessel_tracking_web_app/</guid>
       <pubDate>Thu, 27 Feb 2025 18:56:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字公共物品联盟2024 DPG生态系统报告（PDF）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izmthf/digital_public_goods_alliance_2024_state_of_the/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mike_gifford      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izmthf/digital_public_goods_alliance_2024_state_of_the/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nichey：为您的研究主题生成Wiki，从网络和文档中采购。 （麻省理工学院许可证）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izmdm6/nichey_generate_a_wiki_for_your_research_topic/</link>
-      <description><![CDATA[   /u/u/gkamer8       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izmdm6/nichey_generate_a_wiki_for_your_research_topic/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextCloud Hub 10  - 您的统一模块化数字工作区 -  NextCloud</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izm8sm/nextcloud_hub_10_your_unified_modular_digital/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/temapone11     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1izm8sm/nextcloud_hub_10_your_your_your_unified_modular_digital/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izm8sm/nextcloud_hub_10_your_unified_modular_digital/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:08:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
