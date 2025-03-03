@@ -4,7 +4,63 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 03 Mar 2025 18:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:16:31 GMT</lastBuildDate>
+    <item>
+      <title>更新了我的自托管ebook2audiobook side项目。现在支持树皮，VIT和Yourtts。 1107+语言:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2t21e/updated_my_self_hosted_ebook2audiobook_side/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;   很酷的side l&#39;ve l&#39;ve we ve e  p p&gt; p&gt; p p&gt; p&gt; p&gt; p&gt; p&gt; p&gt; p&gt; ：） 链接到readme in readme  有一个docker映像，如果您想要  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagiss_belt_7757        [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2t21e/updated_my_self_hosted_ebook2audiobook_side/</guid>
+      <pubDate>Mon, 03 Mar 2025 20:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一种方法可以获取站点来检测用户的浏览器是否处于暗模式，并且是否可以显示不同的内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2s61n/is_there_a_way_to_get_a_site_to_detect_if_a_users/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找一种使动画我在黑暗模式下可读的方法。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/utimatejourney   href =“ https://www.reddit.com/r/webdev/comments/1j2s61n/is_there_away_way_way_way_to_to_get_a_a_site_to_detect_if_a_users/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j2s61n/is_there_away_way_way_to_to_to_to_a_site_a_site_to_detect_if_a_a_a_users/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2s61n/is_there_a_way_to_get_a_site_to_detect_if_a_users/</guid>
+      <pubDate>Mon, 03 Mar 2025 20:12:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI聊天在我的Web应用程序中实施？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2s3hq/ai_chat_implemented_into_my_web_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有构建各种AI代理的意图，但是现在我只是想知道MVP的最佳，最具成本效益的方式是什么？我希望将Openai与自定义的特定提示合并到我的应用程序中。这可能吗？我看着Vercel AI SDK，但仍然对如何解决这个问题很困惑。  我只希望该机器人回答诸如汽车，摩托车等之类的利基主题。我的应用在Typescript/NextJs   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/cr1ket     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2s3hq/ai_chat_implemented_into_my_web_app/</guid>
+      <pubDate>Mon, 03 Mar 2025 20:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>DevOps中最新/最伟大的是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2s2aj/whats_the_latestgreatest_in_devops/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我上次DevOps大约在10年前作为我的工作中的主要角色，但是最近我的角色越来越多地解决了我的工作中的部署和服务器管理问题。  我想确保我今天使用的最佳工具/技术不会过时。所以我想知道你们如何创建/管理环境？我记得使用了Ansible + Jenkins，并且还有其他软件为我们下调/托管Ubuntu环境。  我们不在AWS上，我喜欢云形式的想法，但是我们只能处理少数服务器，但是我希望能够以自动化的方式升级或滚动服务器和簇。  我仍然设想有中央编排，除非这是一条路，否则我想避免使用Docker，因此很想听听DevOps Land上最新和最出色的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/iamrules     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2s2aj/whats_the_latestgreatest_in_devops/</guid>
+      <pubDate>Mon, 03 Mar 2025 20:08:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>菜鸟问题 - 历史位置和事件互动网络地图带有链接的人（在共享托管上）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2rbjb/rookie_questions_historical_locations_events/</link>
+      <description><![CDATA[Before I hit you with a wall of text, for anyone really interested in helping me out further, I am very willing to pay for consulting/assistance over Discord, please PM me. Historian here, very little experience in web development, so please bear with me.我有一个由PostgreSQL + PostGIS扩展而建造的历史人物的数据库。我拥有一个领域，它积极地坐在与Nixihost共享的托管上。我希望大家能够回答我应该使用的中间/前端堆栈成功的问题。在宏观级别上，我有两个需求：  1）交互式网络映射，访问者可以浏览位置，在单独的窗格中过滤位置属性，以及提供简短的注释和链接到与这些位置相关的人数据集的工具提示。我正在尝试避免由于成本而避免ESRI产品，并且我成功地测试了我使用node.js和传单制作的地图（完全由DeepSeek提供了帮助），其中来自CartoDB的基础。贝林卡特（BellingCat）的这张交互式图将几乎所有我要寻找的元素都包含了： （github）。不幸的是，我的共享托管计划不支持Node.js，而且似乎很多共享的托管。 我也非常喜欢这张交互式地图的清洁外观，并且它是相关的信息窗格：  我还认为这张地图的规定与我需要的相似，但我认为它是建立在WordPress上的，它确实很丑。想构建更时尚的东西：  罗马世界的斯坦福大学地球空间网络模型    2）浏览可通过数据库属性过滤的历史人员的清单。包含指向交互式地图的链接以查看关联的位置。下面的一个示例几乎是我需要的。不过，希望避免此网站的加载时间缓慢，因此，如果有人可以教育我如何避免这种情况，我将欣赏它：   person（个人资料详细信息）   ，由于这些历史社区中的许多人都需要强制重新定位，最终我希望将访问者置于访问者的范围内，可以使他们的访问者隔离开来。因此，我想确保我选择的框架将来能够处理此操作。 其他类似于我想要做的项目：   newroots    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mithlogie     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2rbjb/rookie_questions_historical_locations_events/</guid>
+      <pubDate>Mon, 03 Mar 2025 19:38:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了3个完整的堆栈应用程序（我自己），但需要在工程团队中工作的经验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2qrvq/built_3_full_stack_applications_by_myself_but/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我想适用于软件工程工作，但我没有任何在工程师团队中工作的经验。我当时认为不尝试为开源项目提供帮助吗？ 您将提供任何可行的建议吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2qrvq/built_3_full_stack_applications_by_myself_but/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2qrvq/built_3_full_stack_applications_by_myself_but/</guid>
+      <pubDate>Mon, 03 Mar 2025 19:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>布局更改如何完成？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2qqw6/how_is_the_layout_change_done/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://harryjatkins.com/ ，如何实现项目卡的布局动画？感谢许多Sensei   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/new_struggle_1306     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2qqw6/how_is_the_layout_change_done/</guid>
+      <pubDate>Mon, 03 Mar 2025 19:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以从移动设备进行编辑的免费或便宜的Web设计应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2qng3/free_or_cheap_web_design_apps_that_you_can_edit/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图在Wix上设置一个网站，但它们的设计功能仅在桌面上兼容。我没有桌面。有人知道吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unaging_mushroom525     [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j2qng3/free_or_cheap_weeap_web_design_apps_that_you_can_edit/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2qng3/free_or_cheap_web_design_apps_that_you_can_edit/</guid>
+      <pubDate>Mon, 03 Mar 2025 19:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>作为中级开发人员，我可以对简历有一些反馈吗</title>
       <link>https://www.reddit.com/r/webdev/comments/1j2oxn5/can_i_have_some_feedback_on_my_resume_as_a_mid/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/zuploadrian     [link]   ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j2nm7i/8_tips_for_scaling_apis_to_handle_increased/</guid>
       <pubDate>Mon, 03 Mar 2025 17:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁提供负担得起的WordPress托管，其中包括零下降的CI/CD？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2nc0o/who_offers_affordable_wordpress_hosting_with_cicd/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我得到了一个简单的站点IM设置，我希望能够将更新推向具有我的主题和插件的GitHub Repo。 I saw render.com but it doesnt offer zero-downtime for deployments if you have a persistent disk....meaning what if I upload images like for blog post...they wont stay so.....Now im confused on how to even do CI/CD where I can have a realistic WordPress site, using Github, and not have downtime when I push updates.  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2nc0o/who_offers_affordable_wordpress_hosting_with_with_cicd/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2nc0o/who_offers_affordable_wordpress_hosting_with_cicd/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Laravel/PHP在HTML中进行ICAL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2msjj/ical_in_html_using_laravelphp/</link>
-      <description><![CDATA[Hi there, I am working on a Hotel booking website and the client has ical&#39;s form Airbnb and Booking.com and unfortunately, both of these platforms don&#39;t have any public APIs to set the availability calendar on the HTML site that I am developing but my client wants to sync所有日历都不会有任何双重预订。 是否有一种方法可以从 booking.com 中 airbnb并在我使用php/laravel构建的平台上同步它？  ，是的，我有一个服务器，日历可以填充可用性！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ooh-to-be-be-a-gooner      [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2msjj/ical_in_html_using_laravelphp/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在保持质量的同时提高视频上传速度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2mr0o/how_to_increase_video_upload_speed_while/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的应用要求用户上传5-15分钟的视频。为了提高上传速度，我正在压缩视频，但这会降低质量。是否存在提高上载速度而不会显着降低质量的技术？ 对于上下文，我正在使用React Native和Mux。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/vaibhavverma9    href =“ https://www.reddit.com/r/webdev/comments/1j2mr0o/how_to_increase_video_upload_speed_while/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2mr0o/how_to_increase_video_upload_speed_while/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:33:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要360°家庭样品图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2mfrn/need_360_home_sample_images/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，devs， 我需要360°的家庭图像。其中2-3个就足够了，但似乎在库存的照片网站上找不到它们，每个人都适用于不同的家。 有人知道我可以从哪里得到或搜索它们吗？任何帮助将不胜感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/burnt_out_butter     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2mfrn/need_360_home_sample_images/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有签名交换的即时加载：修复剩余的无证错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2m88p/instantloading_with_signed_exchanges_fixing/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/repawel      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2m88p/instantloading_with_signed_exchanges_fixing/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将如何为自己的团队建立像Reddit这样的社区？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2lx8f/how_would_i_start_a_community_like_reddit_for_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  也许这应该没有愚蠢的问题，但是我是一个相对较大的教练社区的一部分，来自各个背景和世界各地。我认为，如果我们能像在Reddit上分享社区中的信息和问题，这将非常有帮助。你们认为尝试开始这是荒谬的吗？我从哪里开始？对于我们的教练社区而言，这将是Reddit（可以这么说）。 我足够清楚吗？提前致谢 ！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2lx8f/how_would_would_i_i_start_a_community_community_like_reddit_for_my/”&gt; [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j2lx8f/how_would_wold_i_start_community_community_like_reddit_for_my/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2lx8f/how_would_i_start_a_community_like_reddit_for_my/</guid>
-      <pubDate>Mon, 03 Mar 2025 15:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我们向下滚动时，花松开。这是什么叫做，我该如何实施？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2kl3w/the_flower_unfurls_as_we_scroll_down_what_is_this/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/chrisso123     ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2kl3w/the_flower_unfurls_as_we_scroll_down_what_is_this/</guid>
-      <pubDate>Mon, 03 Mar 2025 15:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何为我的网络制作高级版本，只有购买的人才能访问</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2k25i/how_do_i_make_a_premium_version_for_my_web/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有多年的构建应用程序，我有很多没有收入的应用程序。我是为了好玩的。但是现在我正在建立一个我认为人们可能会有用的网站。我正在考虑制作它的高级版本。我使用的是100％纯HTML和JS。问题是我以前从未做过此事，我不知道如何使服装商付款并可以访问他们所支付的费用。 我读过有关条纹的信息，但我从未使用过。而且我害怕使用它，因为我不知道它是否真的对买家有用，而且我对其法律方面的了解不多。因此，由于我没有建立采购平台的经验，因此我想到在第三方平台上托管付费版本，人们必须在该平台上付费以访问内容。但这听起来仍然不适合在线网站。 问题：我如何制作我的网站，以便购买者仅访问高级版本和非买家免费访问免费版本，而无需将我的自我置于法律风险？   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2k25i/how_do_do_i_i_make_make_a_a_premium_vermium_version_for_my_web/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2k25i/how_do_i_make_a_premium_version_for_my_web/</guid>
-      <pubDate>Mon, 03 Mar 2025 14:37:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
