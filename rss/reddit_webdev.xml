@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 03 Mar 2025 06:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 09:18:25 GMT</lastBuildDate>
+    <item>
+      <title>帮助一个男人出去</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2e4dq/help_a_man_out/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，这是我为一个女孩创建一个网站，这是她两天之内的生日，现在我试图添加所有我能够使其尽可能地使它尽可能地使它尽可能地使它变得像添加的气球一样，在负载上漂浮或添加了confetti按钮或添加了一个confetti按钮或更多的东西，我还需要一些建议，我可以添加一些建议，因为我可以添加一些建议，因为我可以求助于我！ sc_on-&gt;＆＃32;提交由＆＃32; /u/u/doge_mighty     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2e4dq/help_a_man_out/</guid>
+      <pubDate>Mon, 03 Mar 2025 08:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>想学习完整的堆栈网络开发吗？需要您的指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2drjl/want_to_learn_full_stack_web_developmentneed_your/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我决定成为一个网络开发人员，我想问您 -  1.我可以从头开始学习Web开发吗？ 2.作为自由网络开发人员准备工作还有多少时间？ 3.你们都可以分享您的经验，并告诉我现在是一个网络开发人员吗？提交由＆＃32; /u/mr_gabbaar     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2drjl/want_to_learn_full_stack_web_developmentneed_your/</guid>
+      <pubDate>Mon, 03 Mar 2025 08:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>缓冲网格 - 完成了所有6种计划的选择模型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2cy1v/buffered_grid_finished_all_6_planned_selection/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/TobiasUhlig   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2cy1v/buffered_grid_finished_all_6_planned_selection/</guid>
+      <pubDate>Mon, 03 Mar 2025 07:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>保存包括许多选择（每个选择）的大型形式的选择的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2cwag/what_would_be_the_best_way_to_save_selections_of/</link>
+      <description><![CDATA[Hello, I currently have a large form, which is used to filter number of employees. The form includes 20 filters, 15 of them being an html &lt;select&gt; where each allows multiple selections. I was wondering what would be the best way to save the selections in the db;   将每个选择保存为一行（甚至来自多个选择中的每个选择） 保存每个&#39;&#39;filter＆quot＆quot＆quot＆quot＆quot （整个选择）作为JSON  将所有内容保存为一个大JSON   例如 - 我将仅将以下3个过滤器用于简单性：部门，部门，团队，团队。 ，请说用户选择20个部门，50个部门和100个团队。我应该如何将此选择保存在db？   170行 - 对于每个选择  3行 -  1行作为JSON作为JSON，1行作为JSON和JSON的1行，JSON      1行 - 包括所有选择的JSON，包括所有选择      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2cwag/what_would_be_the_best_way_to_save_selections_of/</guid>
+      <pubDate>Mon, 03 Mar 2025 06:59:44 GMT</pubDate>
+    </item>
     <item>
       <title>追逐虫子</title>
       <link>https://www.reddit.com/r/webdev/comments/1j2bwbe/chasing_bugs_down_rabbit_holes/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[What is something you see alternate libraries such as esbuild,rspack,vite and others having that you’d wish seeing on @webpack (?)  Faster Production bundling time; Recipes (out of the box, 0-extra config, predefined settings/plugins for popular environments, such as RSC, React，Angular，JSX，Jest等…） 盒子0配置体验？像自动检测机制？ 还有什么？  用一些痛点和您希望在WebPack上看到的东西射击我们href =“ https://x.com/wunderacle/status/1896222727792464130?s=46＆amp;t = oj7xjjy0qhjdgcfubcqsag”&gt; https://x.com/wunderacle/status/1896222727792464130?s=46＆amp； t = oj7xjjy0qhjdgcfubcqsag     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/friendly_salt2293     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j255df/what_youd_wish_seeing_on_webpack/</guid>
       <pubDate>Sun, 02 Mar 2025 23:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我爱国际象棋，但我讨厌分析我的游戏。所以我建立了这个。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j24vuv/i_love_chess_but_i_hate_analyzing_my_games_so_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我从未真正喜欢分析我的国际象棋游戏，但是我知道这对于变得更好是至关重要的部分。我觉得我讨厌分析的原因是因为尽管引擎坚持正确，但我通常不太了解最好的举动。大多数引擎只是显示“最佳动作＆quot”，突出显示了一个评估栏，然后继续前进。但是他们没有解释出什么问题或为什么我首先犯了一个错误。 那是让我想的：如果游戏评论就像与教练聊天一样容易怎么办？因此，我一直在构建一个由LLM供电的国际象棋分析工具，该工具：  找到游戏中的转折点。 解释了为什么举动不好，而不是只显示出最好的一个。游戏分析方式更有趣 - 而且实际上很有用。 我在完善应用程序时正在寻找beta用户。很想听听你们的想法！如果有人想尽早访问，请链接： https://board-brain.com/     问题：对于那些玩下棋的人：你们实际上是在玩游戏，还是在玩下一个？好奇别人是否会感到。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/gogistanisic     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j24vuv/i_love_chess_chess_but_i_hate_hate_analyzing_my_games_so_so_i_i/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j24vuv/i_love_chess_but_i_hate_analyzing_my_games_so_i/</guid>
-      <pubDate>Sun, 02 Mar 2025 23:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助网站错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j24lx8/help_with_website_errors/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我目前正在使用涡轮增压Web托管，并在其上托管了10个WordPress网站。我一直在遇到超时和503服务的错误。 我尝试了多个修复程序，包括更新WPConfig文件并减少资源使用情况，但没有任何可行的方法。 是否有解决方案，或者我应该考虑切换到更可靠的托管提供商？如果是这样，最好的选择是什么？ 为托管付费并仍然面临这些问题是令人沮丧的。我将感谢任何指导。 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/weirdis_cool     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j24lx8/help_with_website_errors/</guid>
-      <pubDate>Sun, 02 Mar 2025 23:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>最大的SVG背叛</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j24bos/the_greatest_svg_betrayal/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/horanerave      [注释]             ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j24bos/the_greatest_svg_betrayal/</guid>
-      <pubDate>Sun, 02 Mar 2025 23:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端开发人员比前端开发人员少吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j249ic/are_back_end_developers_less_online_than_front/</link>
-      <description><![CDATA[I&#39;ve been running webportfolios.dev, a site where developers can share their portfolios for inspiration, and I&#39;ve noticed something interesting—backend developers seem to be the least represented. Frontend devs?大量的投资组合展示了他们的作品。全栈？很多。但是以后端为中心的开发人员？  ，这就像它们几乎不存在。是因为他们的作品很难在视觉上展示吗？还是一般而言，他们只是更低调？ 很想听听后端开发人员的想法。您是否有投资组合，或者您认为不必要？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1J249IC/are_back_end_end_end_develoders_onles_online_than_front/”&gt; [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j249ic/are_back_end_developers_less_online_than_front/</guid>
-      <pubDate>Sun, 02 Mar 2025 23:07:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

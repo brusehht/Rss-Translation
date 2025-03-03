@@ -4,20 +4,27 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 03 Mar 2025 06:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 09:18:32 GMT</lastBuildDate>
+    <item>
+      <title>我开放了我的秘密模板仓库：Go-web-base-fly-io，准备生产的GO Web API启动器模板，用于MVP成本和时间效率</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j2dpxg/i_open_sourced_my_secret_template_repo/</link>
+      <description><![CDATA[Hey r/opensource! TL;DR I know the real cost of MVPs while having so many other bills to pay!感觉就像赌博。最近，我发现了一种非常成本/性能和时间效率的方法来构建API+着陆页，并希望让所有人免费使用它。它是与Golang + Fly.io一起使用的，如果您在代理模式下使用光标（AI代码助理），则确实是有效的。我还创建了a 有趣的着陆页  因此，我很高兴能分享一个我一直在开放的项目，并且最近开放的项目，并被称为 gog&gt; gog&gt; go&gt; gobase-base-base-base-fly-oio&gt;。这是一个准备生产的GO Web API启动模板，可帮助开发人员在启动新项目时避免样板工作。它的性能处于最高水平，与Node，Python或Java不同，您不敢相信的内存消耗是如此之低。使用Fly.io Genorsose，它基本上是0。 是什么？ 这是一个现代的GO项目模板，它为您提供了快速构建和部署Web API所需的一切。 The template includes:  Modern Go project structure with proper separation of concerns Chi router with middleware for clean request handling Prometheus metrics for monitoring Comprehensive test suite (unit, integration, acceptance) Docker support for containerization Fly.io deployment configuration for easy托管  git挂钩用于代码质量  vscode集成以进行平稳开发 严格与绩效重点伸缩  retro像素像素艺术降落页面demo      为什么要使用？服务 强大的标准库减少依赖性膨胀 内置并发性使得处理多个请求变得易于处理 编译时类型的安全性有助于早期捕获错误 单个二元部署简化了操作      fly.io？ 与单个命令一起部署 全球范围低潜伏期的全球边缘部署 合理的自由层用于测试和小型项目 成本效益随着您的项目的增长 用fly.toml      pop props    帮助社区避免重复相同的样板工作 为MVP和生产应用程序提供更快的开发 分享GO Web开发的最佳实践 其他人可以提供 可以建立 在开源社区中提供的稳固的基础，以帮助我      像素艺术风格着陆页，演示静态文件服务。它具有：  交互元素  api集成demo  主题切换器  konami代码复活节复活节      成本效益mvps  li li&gt; li li&gt;   fly.io  快速开发提供的模式和结构 从第一天起就可以生产 无需重新发明轮子     href =“ https://github.com/umuterturk/go-web-base-fly-io”&gt; go-web-base-fly-io-oio    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/helbette     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j2dpxg/i_open_sourced_my_secret_template_repo/</guid>
+      <pubDate>Mon, 03 Mar 2025 07:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ServiceMaster更新版本1.6.1：Linux SystemD管理工具，用C编写的NICE TUI！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j2cdx7/servicemaster_update_to_version_161_linux_systemd/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我刚刚更新到版本1.6.1：    - 添加了搜索功能   - 添加了cli options（servicemaster -h）     -  sudo选项                 - 用户：    ServiceMaster-Git当然是对的，但是ServiceMaster-bin目前仍然是1.5.1版。    我总是建议使用servicemaster-git，我不是-bin aur pockage。 href =“ https://github.com/lennart1978/servicemaster”&gt; github-link    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j2cdx7/servicemaster_update_to_to_version_161_linux_systemd/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j2cdx7/servicemaster_update_to_version_161_linux_systemd/</guid>
+      <pubDate>Mon, 03 Mar 2025 06:23:53 GMT</pubDate>
+    </item>
     <item>
       <title>Gboard开源和免费替代方案：我的选择</title>
       <link>https://www.reddit.com/r/opensource/comments/1j2bmwk/gboard_open_source_free_alternative_my_pick/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我比较不好，恐怕。 我的选择基于尺寸差异：   futo：138 mb heliboard：138 mb heliboard：20 mb          i，如果我的pre&gt;   我更喜欢较小的选项， ，除非我听到任何风险或缺点  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kwhytte     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j2bmwk/gboard_open_source_free_alternative_my_pick/</guid>
       <pubDate>Mon, 03 Mar 2025 05:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以在几分钟内升级智能电视的5件免费或非常便宜的事情| 4卡舍</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j286do/5_free_or_very_cheap_things_you_can_do_to_upgrade/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/moksah822     [link]        [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j286do/5_free_or_very_cheap_things_you_can_do_to_upgrade/</guid>
-      <pubDate>Mon, 03 Mar 2025 02:20:47 GMT</pubDate>
     </item>
     <item>
       <title>开源开发开发人员：您是否觉得2016年左骑行之前和之后，开源社区的氛围发生了变化？</title>
@@ -57,7 +64,7 @@
     <item>
       <title>html obfuscator</title>
       <link>https://www.reddit.com/r/opensource/comments/1j1xf52/html_obfuscator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，欢迎来到我的html obfuscator！这个小工具就是要拼凑出HTML代码以使其更加偷偷摸摸。是否想将您的代码置于包裹中，或者只是抛弃任何试图在引擎盖下窥视的人？ Stealthhtml在这里可以帮助您将HTML变成一个神秘的杰作，同时使其看起来正常。 这是什么意思？    html offuScation obfuscation就像通过搅拌器将代码放在搅拌机上，就像通过搅拌器放置您的代码一样，它仍然可以正常工作，但对任何人都可以找到它的运气，可以找到它。无论您是掩盖聪明的东西还是只是笑，Stealthhtml都会抛出不可见的角色，随机垃圾和散装样式的技巧，以使事情变得有趣。 很酷的事情  stealthhtml的东西都可以从  stealthhtml获得了许多整洁的特征，可以从  &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;强度&lt;&gt; &lt;&gt; &lt;强度&lt;&gt; &lt;强度&lt;&gt;：列表。  隐形字符：零宽的字符滑倒，不改变外观而在不改变外观的情况下为事物增添趣味。       css shuffle ：使您的CSS属性杂乱无章，因此可以随机地添加    链接＆amp;图像曲折：将随机链接参数和偷偷摸摸的图像扔进。   单词列表 ：从一般，技术或营销营销营销 contrace&gt;与您的风格相匹配的字典。   github： https://github.com/keklick.com/keklick1337/stealthhtml  提交由＆＃32; /u/u/front-buyer3534     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，欢迎来到我的html obfuscator！这个小工具就是要拼凑出HTML代码以使其更加偷偷摸摸。是否想将您的代码置于包裹中，或者只是抛弃任何试图在引擎盖下窥视的人？ Stealthhtml在这里可以帮助您将HTML变成一个神秘的杰作，同时使其看起来正常。 这是什么意思？    html offuScation obfuscation就像通过搅拌器将代码放在搅拌机上，就像通过搅拌器放置您的代码一样，它仍然可以正常工作，但对任何人都可以找到它的运气，可以找到它。无论您是掩盖聪明的东西还是只是笑，Stealthhtml都会抛出不可见的角色，随机垃圾和散装样式的技巧，以使事情变得有趣。 很酷的事情  stealthhtml的东西都可以从  stealthhtml获得了许多整洁的特征，可以从  &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;强度&lt;&gt; &lt;&gt; &lt;强度&lt;&gt; &lt;强度&lt;&gt;：列表。  隐形字符：零宽的字符滑倒，不改变外观而在不改变外观的情况下为事物增添趣味。       css shuffle ：使您的CSS属性杂乱无章，因此可以随机地添加    链接＆amp;图像曲折：将随机链接参数和偷偷摸摸的不可见图像扔进。   单词列表：从 enstry&gt;一般，技术 营销营销营销 cokem&gt;与您的风格相匹配的字典。   github： https://github.com/keklick.com/keklick1337/stealthhtml  提交由＆＃32; /u/u/front-buyer3534     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j1xf52/html_obfuscator/</guid>
       <pubDate>Sun, 02 Mar 2025 18:18:55 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>第一个开源项目：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1j1muhi/first_opensource_project_seeking_advice/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以在过去的几个月中，我一直在开发一个移动音乐播放器应用程序以供个人使用。一段时间后，一旦我觉得它已经“准备”，我就开始考虑开源该应用程序。为了让世界看到。但是，由于我与大学一起在业余时间开发它，因此我经常考虑如何支付账单之类的费用。鉴于与维护移动应用程序相关的成本，即使是这样的激情项目，我计划将捐款纳入帮助支付费用。我相信这是一种很好的方法，可以避免将功能放置在付费墙后面，维护应用程序对所有用户的可访问性。 ，因为这是我的第一个开源项目，我还在考虑如何在应用程序周围建立一个社区以及将来我的项目。虽然我知道开源贡献通常是爱的劳动，但我想找到方法来确保开发和维护应用程序所涉及的努力得到赞赏和认可。我知道用户可能会将工作视为理所当然，我想尽可能地减轻这一点。 您如何平衡项目的财务支持，您建议我做什么？  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/korvexx_dev     [link]       [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以在过去的几个月中，我一直在开发一个移动音乐播放器应用程序以供个人使用。一段时间后，一旦我觉得它已经“准备”，我就开始考虑开源该应用程序。为了让世界看到。但是，由于我与大学一起在业余时间开发它，因此我经常考虑如何支付账单之类的费用。鉴于与维护移动应用程序相关的成本，即使是这样的激情项目，我计划将捐款纳入帮助支付费用。我相信这是一种很好的方法，可以避免将功能放置在付费墙后面，维护应用程序对所有用户的可访问性。 ，因为这是我的第一个开源项目，我还在考虑如何在应用程序周围建立一个社区以及将来我的项目。虽然我知道开源贡献通常是爱的劳动，但我想找到方法来确保开发和维护应用程序所涉及的努力得到赞赏和认可。我知道用户可能会将工作视为理所当然的风险，我想尽可能地减轻这一点。 您如何平衡项目的财务支持，您建议我做什么？  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/korvexx_dev     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j1muhi/first_opensource_project_seeking_advice/</guid>
       <pubDate>Sun, 02 Mar 2025 09:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ampyfin v3.0.1：自动化集合学习交易系统，该系统提供可以将交易信号解释为买入/出售或针对不同交易模型的基准（目前在2个月内增长32％，有利的指标用于进行重新测试）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j1m2sf/ampyfin_v301_automated_ensemble_learning_trading/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。 关于我的一些背景。我一直对交易感兴趣，并且一直想创建自己的交易项目。我有ML的背景，所以我决定这样做是将其用于交易。您可能想知道为什么我决定制作此开源。可能会失去很多东西，但是我恳求不同。   它背后还有一个道德方面，以及我想要获得的东西。从道德的角度来看，当我在大学并想对我的第一个自动交易机器人进行编码时，我记得几乎没有公开可用的交易机器人。这主要是在促进他们的课程或渠道的贸易大师。如果我确实创建一个成功的交易机器人，我将向自己保证，我将开放它，以便其他人可以使用我的项目来创建训练有素的模型或项目。另一件事是机会。我能够从批评中学到很多东西。我之前有一个开源交易项目 - 现在已经倒闭了 - 但是那时我能够遇到不同背景的不同人，从可观的道具交易公司的定量开发人员到那些与我同一班级有兴趣的个人。这种互动使我能够了解改进该项​​目所需的方面，并学习他们在试点 /研究计划中使用的新策略。这就是开源的特殊之处。您可以在项目启动之前结识您从未想过会遇到的人。 &lt; / p&gt; 大多数道具交易公司 /投资公司都有自己的ML模型。我没有声称我的比他们更好。老实说，在当前，我们的表现要胜过其中的绝大多数（根据其投资组合，我们正在跟踪6000多家交易公司）。这仅有2个月的时间，所以这在宏伟的计划中可能没有任何意义。 v3.0.1的回测结果显示出优惠的结果，最大降低为11.29％，R比率为1.91，Sortino为2.73，Sharpe比率为2.19。  readme.md 对于那些有兴趣使用该系统使用该系统的人。  这是指向网站的链接： https://www.ampyfin.com/    该网站在网站上托管当前的策略排名，最新交易，当前的投资组合控股，当前的投资汇集和抗衡，并抗衡台阶，并在台上培训，以备用台阶，以供您培训，我们的培训是我们的培训，我们的培训是我们的新产品。您也可以通过输入股票免费进行免费测试，并且它将返回信号。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/indecitable-air-1712     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j1m2sf/ampyfin_v301_automated_ensemble_learning_trading/</guid>
-      <pubDate>Sun, 02 Mar 2025 08:13:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
