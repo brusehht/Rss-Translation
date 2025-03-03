@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 03 Mar 2025 09:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 12:30:25 GMT</lastBuildDate>
+    <item>
+      <title>“ Flow”赢得了最佳动画片奥斯卡。这部电影完全用搅拌机渲染。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j2hhci/flow_wins_best_animated_feature_film_oscar_the/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/mepper   [link] ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j2hhci/flow_wins_best_animated_feature_film_oscar_the/</guid>
+      <pubDate>Mon, 03 Mar 2025 12:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>原子混合物：开源，端到端加密所有应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j2hduq/atomic_blend_an_opensource_endtoend_encrypted/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很高兴介绍Atomic Blend，这是一个开源项目，旨在成为一个端到端加密的所有应用程序，这些应用程序无缝地将您的工作，个人生活和生产力整合到一个安全和统一的空间中。 Inspired by the concept of comprehensive tools like ClickUp, Atomic Blend addresses the need for privacy by ensuring that all your data remains exclusively yours through robust end-to-end encryption. What is Atomic Blend? Atomic Blend serves as your personal and professional hub, combining task management, note-taking, collaboration, and encrypted data storage into a simple yet powerful platform.关键功能包括： •首先：端到端加密可确保您的数据保持在您的状态。 •全in-in-In-In-In-In-In-In-In-In-In-In-In-In-One：在一个地方进行任务，注释，日历和团队协作。   •开放量：开放式：由社区建造，由社区，社区。工作＆amp;生命和谐：无论是项目，杂货还是想法，都可以保持一切井井有条。 为什么“原子混合物”？ 詹姆斯·克莱尔（James Clear）的书名原子习惯启发了名称原子混合物，这说明了小型，可行的步骤以改善生活的任何方面。这与将所有内容融合到单一无缝的体验中结合在一起，使原子混合成为组织，缓解压力和提高生产力的理想工具，同时又保持了隐私和安全性。 项目状态&gt; •当前状态：当前状态：当前状态：与概念（POC）阶段的证明（POC）阶段（POC）       • Backend Role: The backend will evolve into a real-time storage engine for syncing and collaboration, ensuring data security without direct access to user content. • Upcoming Improvements: The encryption approach requires some rewrites, transitioning from RSA to Elliptic Curve Cryptography (ECC) to be Quantum-nistum。 如何参与 我们欢迎所有人的贡献！您可以提供帮助： •提交问题：报告错误或请求新功能。 •开发功能：选择问题并开始编码。 •改进文档：帮助所有人访问原子的混合物。   •spar the word：与其他人分享repo and repo the repo and repo rep op rep op！ href =“ https://github.com/atomic-blend%C2%A0：”&gt; https://github.com/atomic-blend：）  &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j2hduq/atomic_blend_blend_an_opensource_endtoend_encrypted/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j2hduq/atomic_blend_an_opensource_endtoend_encrypted/</guid>
+      <pubDate>Mon, 03 Mar 2025 12:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于结果的OSS资金</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j2ggag/outcome_based_oss_funding/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  基于结果的OSS资金对用户，维护人员，贡献者和赞助商的激励措施对齐。  社区关于GitHub问题的赏金。工作完成后，维护者和贡献者将付费。  例如，这是 coolify.io   其他哪些方法还尝试了其他哪些方法，您的经验是什么？ GitHub赞助商和OpenColycement对您的社区有用吗？什么是生态系统缺失？提交由＆＃32; /u/u/u/j0hnfr      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j2ggag/outcome_based_oss_funding/</guid>
+      <pubDate>Mon, 03 Mar 2025 11:18:54 GMT</pubDate>
+    </item>
     <item>
       <title>我开放了我的秘密模板仓库：Go-web-base-fly-io，准备生产的GO Web API启动器模板，用于MVP成本和时间效率</title>
       <link>https://www.reddit.com/r/opensource/comments/1j2dpxg/i_open_sourced_my_secret_template_repo/</link>
@@ -62,13 +83,6 @@
       <pubDate>Sun, 02 Mar 2025 19:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>html obfuscator</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j1xf52/html_obfuscator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，欢迎来到我的html obfuscator！这个小工具就是要拼凑出HTML代码以使其更加偷偷摸摸。是否想将您的代码置于包裹中，或者只是抛弃任何试图在引擎盖下窥视的人？ Stealthhtml在这里可以帮助您将HTML变成一个神秘的杰作，同时使其看起来正常。 这是什么意思？    html offuScation obfuscation就像通过搅拌器将代码放在搅拌机上，就像通过搅拌器放置您的代码一样，它仍然可以正常工作，但对任何人都可以找到它的运气，可以找到它。无论您是掩盖聪明的东西还是只是笑，Stealthhtml都会抛出不可见的角色，随机垃圾和散装样式的技巧，以使事情变得有趣。 很酷的事情  stealthhtml的东西都可以从  stealthhtml获得了许多整洁的特征，可以从  &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;强度&lt;&gt; &lt;&gt; &lt;强度&lt;&gt; &lt;强度&lt;&gt;：列表。  隐形字符：零宽的字符滑倒，不改变外观而在不改变外观的情况下为事物增添趣味。       css shuffle ：使您的CSS属性杂乱无章，因此可以随机地添加    链接＆amp;图像曲折：将随机链接参数和偷偷摸摸的不可见图像扔进。   单词列表：从 enstry&gt;一般，技术 营销营销营销 cokem&gt;与您的风格相匹配的字典。   github： https://github.com/keklick.com/keklick1337/stealthhtml  提交由＆＃32; /u/u/front-buyer3534     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j1xf52/html_obfuscator/</guid>
-      <pubDate>Sun, 02 Mar 2025 18:18:55 GMT</pubDate>
-    </item>
-    <item>
       <title>AddTopath  - 一个开源Windows实用程序，可轻松管理用户和系统路径（CLI＆GUI）</title>
       <link>https://www.reddit.com/r/opensource/comments/1j1venb/addtopath_an_opensource_windows_utility_to_easily/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我很高兴分享我的新开源项目 addtopath 。这是一个轻巧的Windows实用程序，旨在简化管理路径环境变量的管理 - 您是否希望使用上下文菜单或终端命令。  为什么我构建了它：  管理Windows上的路径都可以是麻烦，尤其是当您必须手动编辑环境变量时。 Window自己的UI似乎是从2000年代初开始的（IT是），命令行的方式同样不便。 AddToPath addresses this common pain point by providing an intuitive way to manage both your user and system PATH variables directly at the point and moment you need it. Key Features:  Context Menu Integration: Right-click any folder in Windows Explorer, use the Path context menu to add or remove it from your路径，列出路径或检查文件夹是否已经在路径中。  命令行接口（cli）：轻松地使用简单命令来管理路径：    a2p添加。  -    - 将当前目录添加到您的用户路径      a2 a2 a2 a2 a2 a2 a2 a2 a2 and c： PATH a2p remove &quot;C:\Tools&quot; – Remove an entry from your PATH a2p check &quot;C:\Tools&quot; – Check if a directory is already in your PATH a2p list – List all current PATH entries updatepath - Refresh paths in当前的终端会话     无缝路径管理：更改将自动应用于任何新的终端会话。对于您当前的终端会话，运行 updatePath 命令命令以刷新路径。  没有外部依赖性：所有内容都嵌入了所有内容，保持工具轻巧且可靠。                      addtopath.exe ，并按照屏幕上的说明安装上下文菜单和CLI工具。有关更多详细信息，请在Github上查看README。 我非常感谢您可能会有的任何反馈或建议，但最重要的是，希望它有用，并且可以减轻某些人的窗户疼痛。  github： https://github.com/nsxdavid/addtopath 提交由＆＃32; /u/u/nsxdavid     [link]    [注释]  ]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/p-orbitals      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j1o18i/the_early_days_of_linux/</guid>
       <pubDate>Sun, 02 Mar 2025 10:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些开源项目值得重写或做什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j1nfpc/what_open_source_projects_are_worth_rewriting_or/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我已经为开源项目做出了贡献一段时间了。只是想听听您的想法和意见。你们/加尔斯认为值得重写或值得追求的开源项目是什么？请不要在一些LLM周围进行区块链或一些AI包装。我可以接受AI项目，例如Pytorch Lightning或STH，例如重写用于AI培训的一些代码等。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j1nfpc/what_open_source_projects_are_worth_rewriting_or//”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j1nfpc/what_open_source_projects_are_worth_rewriting_or/</guid>
-      <pubDate>Sun, 02 Mar 2025 09:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个开源项目：寻求建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j1muhi/first_opensource_project_seeking_advice/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以在过去的几个月中，我一直在开发一个移动音乐播放器应用程序以供个人使用。一段时间后，一旦我觉得它已经“准备”，我就开始考虑开源该应用程序。为了让世界看到。但是，由于我与大学一起在业余时间开发它，因此我经常考虑如何支付账单之类的费用。鉴于与维护移动应用程序相关的成本，即使是这样的激情项目，我计划将捐款纳入帮助支付费用。我相信这是一种很好的方法，可以避免将功能放置在付费墙后面，维护应用程序对所有用户的可访问性。 ，因为这是我的第一个开源项目，我还在考虑如何在应用程序周围建立一个社区以及将来我的项目。虽然我知道开源贡献通常是爱的劳动，但我想找到方法来确保开发和维护应用程序所涉及的努力得到赞赏和认可。我知道用户可能会将工作视为理所当然的风险，我想尽可能地减轻这一点。 您如何平衡项目的财务支持，您建议我做什么？  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/korvexx_dev     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j1muhi/first_opensource_project_seeking_advice/</guid>
-      <pubDate>Sun, 02 Mar 2025 09:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
