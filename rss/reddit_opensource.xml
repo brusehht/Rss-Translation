@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 04 Mar 2025 18:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 21:15:30 GMT</lastBuildDate>
+    <item>
+      <title>文件或照片保险库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3i1t6/file_or_photo_vault/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何opensource photo或file vaults？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j3i1t6/file_or_photo_vault/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3i1t6/file_or_photo_vault/</guid>
+      <pubDate>Tue, 04 Mar 2025 18:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>C库PDF视图与当前页面查看号码的API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3hqtp/c_library_for_pdf_view_with_api_for_current_page/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/developersIndia/comments/1j3hnyr/c_library_for_pdf_view_with_with_api_api_por_current_page/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j3hqtp/c_library_for_pdf_view_with_with_api_api_api_for_for_for_for_current_page/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3hqtp/c_library_for_pdf_view_with_api_for_current_page/</guid>
+      <pubDate>Tue, 04 Mar 2025 18:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员已经有一个平台来展示他们的项目吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3hmlj/is_there_already_a_platform_for_developers_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在偶然发现 github问题 那是一种画廊。那让我想到 - 如果有一个专门的平台为此？  我正在考虑构建  shadertoy-like 网站在其中开发人员可以在其中展示他们的项目，类似于  发布其项目，链接到其GitHub存储库，并从其他人那里获得反馈或灵感。  我知道有人在其中展示代码，但是是否有专门为此用例设计的网站？在不依靠分散的社交媒体帖子的情况下浏览和发现酷炫开发项目变得更容易的事情？  很想听听您的想法：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wittywithoutworry     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3hmlj/is_there_already_a_platform_for_developers_to/</guid>
+      <pubDate>Tue, 04 Mar 2025 18:24:41 GMT</pubDate>
+    </item>
     <item>
       <title>您如何跟踪使用情况？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j3hgww/how_do_you_keep_track_of_usage/</link>
@@ -85,30 +106,9 @@
     <item>
       <title>（鼓励的关键反馈）Flowglad-开发人员的付款和付款</title>
       <link>https://www.reddit.com/r/opensource/comments/1j2u2dl/critical_feedback_encouraged_flowglad_dropin/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   howdy y&#39;all， 新的社区，但很高兴分享我的联合创始人和我一直在研究的东西。 Flowglad is an open-source, developer-first billing and payments platform designed to eliminate the hidden tax of billing complexity. What the heck is Flowglad? Flowglad is a drop-in billing system that adapts to any pricing model, letting you set up and manage billing in seconds. Unlike traditional solutions, Flowglad is built for developers, integrates seamlessly with your stack, and removes the need for maintaining a second copy of your billing data.  100% Open Source – Full tr​​ansparency and flexibility, with a GitHub repo you can explore and contribute to:  github 。   以秒为单位  -  AI-Power的集成消除了通过无尽的文档筛选的必要用法。  零webhooks   - 不再脆弱的事件触发； FlowGlad根据需要获取实时数据。  样式嵌入式UIS   - 下车，可自定义的计费组件（即将推出！）。    真实的单一来源  -    - 访问数据范围内的数据范围内的       为什么选择Flowglad？ 计费不仅仅是付款；这是关于的准确性，可靠性和控制。 Stripe革命性付款，但计费仍然是一场结构性的噩梦  - 对最终成为兼职会计师，调试同步问题的工程师的无声税，并核对收入差异。   隐藏的帐单  在我的研究中付出了更多的 我们认为计费应该是：    api-first＆amp;模块化  - 不再有整体系统；插件组件适合任何定价模型。  实时＆amp;透明  - 计费应该是真理的来源，而不是黑匣子。  为实验构建的  - 大多数初创公司的价格尚未迭代，由于技术摩擦而定价足够。 flowglad去除了摩擦。  与我们一起参与：  flowglad是是内置的，我们希望您的输入：        par repo ＆amp＆amp＆amp; amp; amp;贡献： github      加入我们的社区以获取更新和创始人主导的支持符号。 DM我和我可以给您发送邀请  与我交谈  - 如果您曾经与Billing Nirming Mintermares作斗争，我很想听听您的故事。给我发电子邮件[&lt; harrison.telyan@flowglad.com ]（mailto： &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyptographerown5475     [link]        [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   howdy y&#39;all， 新的社区，但很高兴分享我的联合创始人和我一直在研究的东西。 Flowglad is an open-source, developer-first billing and payments platform designed to eliminate the hidden tax of billing complexity. What the heck is Flowglad? Flowglad is a drop-in billing system that adapts to any pricing model, letting you set up and manage billing in seconds. Unlike traditional solutions, Flowglad is built for developers, integrates seamlessly with your stack, and removes the need for maintaining a second copy of your billing data.  100% Open Source – Full tr​​ansparency and flexibility, with a GitHub repo you can explore and contribute to:  github 。   以秒为单位  -  AI-Power的集成消除了通过无尽的文档筛选的必要用法。  零webhooks   - 不再脆弱的事件触发； FlowGlad根据需要获取实时数据。  样式嵌入式UIS   - 下车，可自定义的计费组件（即将推出！）。    真实的单一来源  -    - 访问数据范围内的数据范围内的       为什么选择Flowglad？ 计费不仅仅是付款；这是关于的准确性，可靠性和控制。 Stripe革命性付款，但计费仍然是一场结构性的噩梦  - 对最终成为兼职会计师，调试同步问题的工程师的无声税，并核对收入差异。   隐藏的帐单  在我的研究中付出了更多的 我们认为计费应该是：    api-first＆amp;模块化  - 不再有整体系统；插件组件适合任何定价模型。  实时＆amp;透明  - 计费应该是真理的来源，而不是黑匣子。  为实验构建的  - 大多数初创公司的价格尚未迭代，由于技术摩擦而定价足够。 FlowGlad去除了这种摩擦。  与我们一起参与：  flowglad是在开放式中构建的，我们希望您的输入：       star the repo ＆amp＆amp＆amp; amp; amp;贡献： github      加入我们的社区以获取更新和创始人主导的支持符号。 DM我和我可以给您发送邀请  与我交谈  - 如果您曾经与Billing Nirming Mintermares作斗争，我很想听听您的故事。给我发电子邮件[&lt; harrison.telyan@flowglad.com ]（mailto： &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyptographerown5475     [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j2u2dl/critical_feedback_encouraged_flowglad_dropin/</guid>
       <pubDate>Mon, 03 Mar 2025 21:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apache Superset-开源业务智能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2to0v/apache_superset_open_source_business_intelligence/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不确定这里有多少人通过专有工具积极使用BI软件和构建仪表板，但是我很想提高人们对 apache superset 。尽管是标记最严重的Apache软件基础项目，并且是更活跃的 repos 在Github上，它仍然有一种方法可以解决全球认识方面，因为我们试图在更昂贵和锁定的竞争者中挑战竞争者，例如Tablaueau（例如Tablaueau）（例如Tablaueau）（例如Tablateau）。企业级BI已经为世界准备好了，我们只需要世界来尝试一下！很高兴回答人们对此可能会有的任何问题/好奇心！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/erusackas     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2to0v/apache_superset_open_source_business_intelligence/</guid>
-      <pubDate>Mon, 03 Mar 2025 21:15:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚将我的第一个开源浏览器扩展扩展到Firefox（称为Tabs/Windows Counter和Stats）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2sz1y/i_just_ported_my_first_opensource_browser/</link>
-      <description><![CDATA[Hey everyone 👋 I’ve recently released a Firefox add-on port of my first browser extension, called Tabs/Windows Counter and Stats, which, as the name suggests, helps you track the number of tabs and windows open in the browser and creates two charts visualizing the number of tabs open over time 📊.我最初是为Chrome构建的，并且源代码是打开的，并在 github 上，现在两个浏览器。 现在，这是我的第一个扩展名，因此可能还有一些错误或改进。任何反馈或建议将不胜感激！ href =“ https://addons.mozilla.org/en-us/firefox/addon/tabs-windows-counter-counter-and-stats/”&gt; firefox 。提交由＆＃32; /u/u/samumedio     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2sz1y/i_just_ported_my_first_opensource_browser/</guid>
-      <pubDate>Mon, 03 Mar 2025 20:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Motorola Moto G Play 2024智能手机，Termux，Termux-USB，USBRIDIRECT，在Termux下运行的QEMU和Alpine Linux：带有全球唯一标识符（GUID）分区表（GPT）分区的磁盘</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2s71p/motorola_moto_g_play_2024_smartphone_termux/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j2s71p/motorola_moto_g_play_2024_smartphone_termux/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2s71p/motorola_moto_g_play_2024_smartphone_termux/</guid>
-      <pubDate>Mon, 03 Mar 2025 20:14:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
