@@ -4,7 +4,42 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 04 Mar 2025 12:29:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:21:01 GMT</lastBuildDate>
+    <item>
+      <title>您如何跟踪使用情况？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3hgww/how_do_you_keep_track_of_usage/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您有开源devtools时，如何跟踪用法指标？您如何跟踪他们的使用方式以及如何使用？对于网站，可以跟踪点击注册。在我们的情况下，这是一个Python库，开发人员可以从PYPI中安装。有人完成了用户跟踪吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/puzzleheaded-dot8208     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3hgww/how_do_you_keep_track_of_usage/</guid>
+      <pubDate>Tue, 04 Mar 2025 18:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shift：使用Typescript构建的现代开源字体编辑器，使用Tauri生锈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3gudq/shift_a_modern_opensource_font_editor_built_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建 shift ，旨在填补文字世界中差距的开放式字体编辑器。 While some commercial font editors can cost hundreds of dollars and the main open-source alternative (FontForge) can feel quite archaic, Shift takes a fresh approach. What makes Shift different  Modern tech stack: Built with Rust, React, and CanvasKit (Skia) Cross-platform: Works on Windows, MacOS和Linux通过Tauri   当代UX ：由现代UI/UX原理从头开始设计     100％free＆amp; OPEN ：根据GPLV3   当前状态 该项目处于早期开发（前阿尔法）。我正在为：  Bézier曲线编辑系统 字体格式处理 现代，直观的，直观的界面   为什么我为什么不应该限制那些能够提供昂贵的货币和开放式的人，而我不应限制那些 不应限制那些典型的典型性。我相信，排版社区应有一种现代，可访问的工具，以保持商业选择的速度。 寻求与    感兴趣的开源贡献者 类型与当前工具感到沮丧的类型设计师   在Gressivation           在github和完全开源。我希望反馈，想法或只是与对这个空间感兴趣的其他人建立联系！我自己仍在学习这个空间，到目前为止，这是一次爆炸:)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/patrick_ripley     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3gudq/shift_a_modern_opensource_font_editor_built_with/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们知道Fediverse吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3f3q6/do_you_guys_know_about_the_fediverse/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  这是一个分散的开源社交网络，您拥有您的数据！与大型技术平台不同，Fediverse使用ActivityPub连接独立的服务器，让您可以跨诸如Mastodon（Twitter替代方案），Peertube（YouTube替代方案）和Lemmy（Reddit替代方案）等应用程序进行交互。    no Ads，无算法 - 算法 - 偶数 - 恰当的真实的，社区驱动的社区驱动的社交媒体。  这里谁已经在Fediverse上了？您最喜欢的实例是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/xitezx      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3f3q6/do_you_guys_know_about_the_fediverse/</guid>
+      <pubDate>Tue, 04 Mar 2025 16:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我今天开源KLEE，这是一个桌面应用，旨在以零数据收集的本地运行LLMS。它还包括内置的抹布知识库和笔记功能。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_today_a_desktop_app_designed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   klee是一个完全开源的平台，将安全的局部AI带到您的桌面上。  github： https://github.com/signerlabs/klee-client      核心，Klee在其核心上构建：快速有效地运行本地LLM。  利用内置的知识库使用完整的数据安全。 使用内置的Markdown注释功能保存所有LLM对您的知识库的响应。     &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/w-zhong   href =“ https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_klee_klee_today_a_desktop_app_app_designed/”&gt;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_klee_today_a_desktop_app_app_designed/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_today_a_desktop_app_designed/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>耀斑 - 用于创建等距ARPG的开源游戏引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j3ao0x/flare_an_opensource_game_engine_for_creating/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bassfaceapollo       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j3ao0x/flare_an_opensource_game_engine_for_creating/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:23:50 GMT</pubDate>
+    </item>
     <item>
       <title>有关软件的建议，以标记和整理我的阅读pdf，word文档，网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1j38i80/recommendations_for_software_to_tag_collate_my/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j2s71p/motorola_moto_g_play_2024_smartphone_termux/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j2s71p/motorola_moto_g_play_2024_smartphone_termux/</guid>
       <pubDate>Mon, 03 Mar 2025 20:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>html渲染（也许是吗？）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2qpuu/html_rendering_rant_maybe/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  需要多少资源才能创建完全符合HTML5的HTML HTML渲染器（whitout javaScript）？ 我感到困惑，我很困惑，没有一个能够做的东西可以很好地做一些事情，我肯定我会做些什么？不是第一个，我不会是最后一个。 我知道存在壁虎，特里顿·韦克凯特（Triton Webkit）和眨眼存在，我只是觉得绘制html应该比进入这样的大项目更容易。另外，我不想依靠Google或Microsoft，ECC ECC TBH。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aki451     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2qpuu/html_rendering_rant_maybe/</guid>
-      <pubDate>Mon, 03 Mar 2025 19:13:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨400+ LLM的代币价格计算的Web库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2ph3d/web_library_for_token_price_calculation_across/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了一个代理的端口&#39; tokencost“&gt; tokencost”&gt; tokencost 用于javsascript以估算任何js runtime（deoo，web，node，node等）的llm用法成本＆＃32;提交由＆＃32; /u/u/g0_g6t_1t     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2ph3d/web_library_for_token_price_calculation_across/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>时代的终结…</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2o0vq/end_of_an_era/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  新的开始。    https://suitecrm.com/new-era-era-for-suitecrm/     你们该怎么看？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shub_007      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2o0vq/end_of_an_era/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:25:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些文字处理器是基于什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2m55g/what_are_these_word_processors_based_on/</link>
-      <description><![CDATA[There are a few proprietary word processors in the Windows Store like WordPal and DOCX editor that seem to be the same program but with the interface modified and some features locked behind a paywall. Do you know what project these programs are based on so that I can use the original? You can tell the programs have the same base from the document properties window in the文件选项卡。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kyla_3049     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2m55g/what_are_these_word_processors_based_on/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>计划新的金融应用程序，寻找功能的指针。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j2m0rf/planning_a_new_finance_app_looking_for_pointers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我正在计划一个新的OpenSource项目。 我一直在使用Firefly-III来满足我的个人财务需求，但我觉得它缺乏一些我喜欢的功能。而且，我不想使用多个应用程序来清楚我的财务状况。因此，我觉得这将是一个很好的项目。  我的技能不太好，因此可能需要一些时间来构建这个问题，但我愿意投入那段时间。  目前，我打算纳入以下功能：  从JSON和CSV文件中导入数据 从API中导入股票和其他工具的当前财务价格 预算    dashboard，以查看当前的财务网络，并与             以后的阶段将包括：  使用本地AI  移动应用程序进行预测 从SMS   dashboard        允许多个观看方法可以共享。纳入VER 1和后期阶段 有关与我应该使用的堆栈有关的项目的任何特定指南，当前我打算将ReactJ与Typescript和PostgreSql      &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j2m0rf/planning_a_new_new_new_finance_app_looking_for_pointers/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j2m0rf/planning_a_new_finance_app_looking_for_pointers/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

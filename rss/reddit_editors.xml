@@ -4,7 +4,49 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Tue, 04 Mar 2025 12:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:20:12 GMT</lastBuildDate>
+    <item>
+      <title>Mac Mini M4 Pro渲染代理</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3gyax/mac_mini_m4_pro_rendering_proxies/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  昨晚，我将Mac mini设置为渲染代理。  davinci resolve resolve studio v19.1.3正在导出01H45M的digibolex 2k 2k 2k DNG，将LUT与Lut lut to 2k Apple Prors Prose。它每秒处理77帧。  同时，媒体编码器v25.1正在转码02H20m的4k arri aRe alexa mini apple prores 4444 mxfs op1a to 1080p apple apple prores代理。   premiere pro v25.1是开放的，但没有做任何事情。在它的中间，我拍摄了活动监视器图的一些屏幕截图。 MAC迷你外壳在42C（107F）时非常温暖。  配置： Mac mini，Apple M4 Pro芯片，带有14核CPU，20核GPU，16核神经发动机，24GB统一内存。   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/mcanelson     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3gyax/mac_mini_m4_pro_rendering_proxies/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>将第二个音轨添加到不同步的视频</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_to_video_not_in_sync/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的最终目标是在电影文件中添加第二个音轨，以便我在同一文件中有2种语言。 So here&#39;s what I&#39;m doing:  I have the video of a movie that&#39;s in english (say, file vidA) I have the video of a movie that&#39;s in another language (say, file vidB) I import both videos in Premiere and sync their audios (more precise changing the framerate of vid  b 与vid  a ）（到目前为止很好）   i仅导出来自vid  b 的音频，例如音频 b       i  i  ffmpeg   我遇到的问题是，无论我如何导出音频 b ，每当我将其添加到vid  a  时，它逐渐消失了，就像我没有编辑过一样，我不知道我很愚蠢，但是我在这里不太舒适，但我并不是在这里。因此，有什么想法如何正确完成？  cpu：i5-4670k   gpu：gtx1060   ram：16gb   premiere：v22222222       &lt;！ -  sc_-sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_track_to_video_not_in_in_sync/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_to_video_not_in_sync/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid Media Composer：可以合并链接的媒体还是必须首先转码？</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3d8hc/avid_media_composer_can_linked_media_be/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/editors ， 我试图找出与Avid Media Composer合并的最佳工作流程。可以直接合并链接的媒体，还是必须先转编码？ 我已经听到了混杂的建议并想知道您的经验。 谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3d8hc/avid_media_composer_can_linked_media_be/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决这种刺耳的动作？</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3cto9/how_to_fix_this_jarring_motion/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚完成了一个功能文档，直到我看到这部电影在较大的电影院屏幕上投影了…… 我在这里有这个剪辑： https://youtu.be/kcf0wtknxh0    该运动在电脑屏幕上看上去有些略微，但在电脑屏幕上观看时几乎没有刺痛。不过，在电影院的大屏幕上玩了...嗯，这会让您头晕。现在，无论我在哪里看它，它都会困扰我。我可以以某种方式修复吗？ 这是在60p的GoPro上拍摄的。我在24p的时间轴中编辑，刚刚将60p剪辑放入那里，让首映处理转换而无需我做任何事情。 任何建议都将不胜感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j3cto9/how_to_fix_this_this_jarring_motion/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3cto9/how_to_fix_this_jarring_motion/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid 2025.12错误？ png/jpg图像闪烁而不显示在时间轴上</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3bzzi/avid_202512_bug_pngjpg_images_blinking_not/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！ 我在avid 2025.12中遇到了一个问题，其中链接源监视器中的png或jpg映像会导致它闪烁。每当我停下来时，图像就会消失，并且仅在播放时显示。另外，当我将其拖到时间轴上时，同样的，超级怪异的行为。  https：//imgur.com/a/9ggxoej  我应该检查任何解决方案或设置？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3bzzi/avid_202512_bug_pngjpg_images_blinking_not/</guid>
+      <pubDate>Tue, 04 Mar 2025 14:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频编辑的最佳键盘：低调机械（Kyechrone）与膜（MX键）？</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3bjtf/best_keyboard_for_video_editing_lowprofile/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我在市场上购买一个新键盘，可以使用您的建议！我是视频编辑器，我正在尝试在机械键盘和MX键之类的低调选项之间做出决定。关键旅行会有所作为吗，还是真的只是个人喜好问题？我很想听听你们的使用和推荐。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3bjtf/best_keyboard_for_video_editing_lowprofile/</guid>
+      <pubDate>Tue, 04 Mar 2025 14:07:33 GMT</pubDate>
+    </item>
     <item>
       <title>将功能从24转换为25fps</title>
       <link>https://www.reddit.com/r/editors/comments/1j38kvt/converting_feature_from_24_to_25fps/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  •小睡。您即将漂流的那一刻，您会收到文字•带狗散步。一旦您离家很远，您将获得文本•退出应用程序，并立即获得文本  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zaphod_beeblbrox2024      [link]   [commist]   ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j2tasv/some_secrets_to_getting_a_client_to_respond_when/</guid>
       <pubDate>Mon, 03 Mar 2025 21:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>封闭标题格式问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2q8yt/closed_caption_formatting_questions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的任务是为我要编辑的电影制作封闭的字幕。如果有人知识渊博，我有一些关于格式化的问题吗？我已经在互联网上查看了很多，但是我仍然很难做几件事，所以我从这里开始搜索更多信息。另外，如果有人可以将我链接到任何深入的官方准则，那将不胜感激。   如果我们听到2个字符在屏幕外有2个字符的对话，说这是一个电话，我们听不到的是我们听到的，但我是否需要看到谁在开始或只是在开始或只是在开始时说话？    我觉得在某个时候，我听说有2行（一条较高和一条较低）的标题，第二行应该比第一行短。是真的还是我只是组成了？   最大每行约32个字符？更多的？较少的？我读过不同的东西。   假设角色的第一行是屏幕范围的，但后来输入。对于他们的第一行，我可能会把类似的东西放在“你在做什么？”当我们终于见到她时，我可以把[elana]放在“你没有钥匙吗？”还是我应该从跳跃中给她起名字以防止混乱？她在随后的场景中正确地介绍了自己，所以我想她可以成为[女人]，直到我们真正获得她的名字为止。这些选项中的任何一个都比其他选项更可取吗？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2q8yt/closed_caption_formatting_questions/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2q8yt/closed_caption_formatting_questions/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>宏 - 键盘大师 - 努力编程双水龙头，同时保留单个TAP功能</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2pmf2/macros_keyboard_maestro_struggling_to_program/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我真的很难通过ChatGpt指令编程宏。我正在尝试对每个编号的键编程，以具有双击功能以进行分解。 每次我这样做时，它都会侵蚀单个TAP功能。 Chatgpt通常与Ifthenelse步骤挣扎，我非常肯定。 我需要“如果其他”。函数激活一个复杂的密钥序列，例如“ Ctrl选项” Apple Shift numpad1”这样我就可以映射一个函数以解决该功能，但是它只是numpad1键的双击。 有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jordanfilmmaker     [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2pmf2/macros_keyboard_maestro_struggling_to_program/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在工作事件时管理数据，有什么提示吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2p8a0/managing_data_when_working_an_event_any_tips/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我是系统管理员，正在寻找一些建议来帮助我公司的视频团队。每年一次，我们举办了一项持续大约2周的大型活动，在此期间，我们的视频摄制组捕获了5-10 TB的视频。目前，他们整天拍摄，然后每天晚上将其从SD/CFAST/CFE-B卡到外部驱动器的所有内容。然后，当活动结束并且每个人都回到办公室时，他们将所有这些数据都复制到我们的服务器，以开始从事各种项目。这是一个非常耗时且乏味的过程。 ＆nbsp;  这是此类事件工作的典型过程吗？专业人士是否必须有任何技巧来减少管理数据的时间？我的第一个想法是为他们提供一个可以将所有内容倾倒到的小型NA，然后在活动结束时，我们可以将NAS插入Office网络并将其复制到我们的服务器中。这将使几个人不得不将数据从USB驱动器中移开，但是我对此进行了越多，我不知道会节省多少时间。是否有将存储卡插入的设备之类的东西，并且数据会自动复制？我知道有些NAS曾经具有这种能力，尽管我一段时间以来还没有研究过非企业存储系统。     任何帮助使我的同事生活更轻松的技巧都会受到欢迎！    &lt;！ -  sc_on-&gt;＆&gt; 32;&gt;＆＃32;提交由＆＃32; /u/waygooder     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2p8a0/managing_data_when_working_an_event_any_tips/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果硅不再支持CFHD</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2o8u5/apple_silicon_no_longer_supports_cfhd/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我只是在这里写这篇文章，以节省其他编辑，可能会损失的时间，试图解决为什么他们的Cineform录像不起作用。 Apple Silicon不再支持Cineform编解码器。根本。如果您使用的是Apple Silicon，则必须将CFHD媒体转换为H264，ProRes或您喜欢的任何东西，才能查看/剪切。  使用快门编码器进行转码。没有一种本地与之合作的方法。是的，这是一场噩梦。对不起。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2o8u5/apple_silicon_no_no_longer_supports_cfhd/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2o8u5/apple_silicon_no_longer_supports_cfhd/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>肖恩·贝克（Sean Baker）赢得了奥斯卡奖的电影编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_oscar_for_film_editing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直对肖恩·贝克（Sean Baker）实际编辑他的电影感兴趣。在昨晚赢得了奥斯卡颁奖典礼之后，很明显，他确实是他的电影的主要编辑。我现在的好奇心是：导演/制片人也是电影《其他例子》的主要编辑，这是多么普遍？您认为Sean正在使用什么NLE？他的故事编辑与精细的细节编辑（VFX等）在多大程度上。我个人指导并制作功能文档，并在将其传递给经验丰富的编辑以进行抛光和协作​​之前进行编辑（直到一点点）。如果肖恩（Sean）以这种方式做类似于我的工作流程的事情，我将是curios。您的想法是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nugglethoff   href =“ https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_wins_oscar_oscar_for_film_editing/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_oscar_for_film_editing/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不透明的情况下，在场景中打开一半是很奇怪的吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_weird_to_open_on_a_scene_with_the_opacity/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于我想做叠加效果的场景，但是如果这很有意义，我不想淡入其中。我以为我可以从现场已经有些拒绝的不透明度开始，但是如果我在现场打开不透明度的一半落在一半上的场景中，那就太奇怪了……而不是以100％的不透明度打开，然后看到它落下了吗？ 非常感谢您对此提供任何输入！我真的很感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_it_toird_to_open_open_a_a_a_scene_scene_with_with_with_the_opacity/”&gt; [link]     32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_weird_to_open_on_a_scene_with_the_opacity/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:11:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
