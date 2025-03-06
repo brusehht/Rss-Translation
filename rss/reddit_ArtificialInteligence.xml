@@ -4,13 +4,20 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 01:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 03:23:44 GMT</lastBuildDate>
     <item>
-      <title>您认为AI永远无法替代的一项技能是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4in35/whats_one_skill_you_think_ai_will_never_be_able/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   ai在很多事情上变得疯狂，但是必须有一些技巧太人性化，对吗？就像，我无法想象AI真正取代了真正的人际关系。 您认为AI将永远无法像人类一样做什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thedearlyt   href =“ https://www.reddit.com/r/artcoverinteligence/comments/comments/1j4in35/whats_one_skill_skill_you_think_ai_ai_will_will_never_never_be_able/  &lt;a href =“ https://www.reddit.com/r/artaverictinteligence/comments/1j4in35/whats_one_skill_skill_you_think_ai_will_will_will_never_be_be_able/]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4in35/whats_one_skill_you_think_ai_will_never_be_able/</guid>
-      <pubDate>Thu, 06 Mar 2025 00:27:22 GMT</pubDate>
+      <title>使用LLMS语言翻译</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4kh9r/language_translation_using_llms/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用llms进行语言翻译，但我总是不自信结果。尤其是当我不擅长其他语言时，我怎么能知道翻译是准确的？ 我仍然认为人翻译是最好的选择，但是当不可用时，的结果（可以将其提示复制并与任何LLM或平台一起使用）。简而言之，您绕过了不信任您不知道的语言翻译的问题，使用llm将其翻译回来。通过仔细提示，您将获得非常字面的倒退，希望能揭示任何叮当声。您可以回去几次，直到获得好结果为止。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4kh9r/language_translation_using_using_using_llms/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4kh9r/language_translation_using_llms/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>注意：上下文和截止</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4jywi/attention_context_and_cutoff/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  验证的LLM已学习了一种模拟公式来产生可能的文本。这是基于其培训语料库中存在的文本模式。当今的数据集充满了历史信息和时事，这会产生大量加权的偏见，以在这些域内输出文本字符串。从本质上讲，这就是知识截止。 在上下文窗口内，LLM可以使用注意机制来改变这些偏见。这就是如何告诉llm日期允许其稍后在上下文中重复该日期，即使它对“今天的日期”是&#39; 的自然偏见，但是注意机制的杠杆作用有限。它不能过多地改变偏见，也无法开始输出Gibberish。 上下文窗口也受二次复杂性的限制。超过128k以外的计算在计算上不切实际地扩大窗口。 如果培训LLMS的公司停止每年停止抽出全新的模型，那么旧的迭代将很快变得不可用，因为大多数任务对于新信息的密度而言，您必须将上下文挤入上下文，您将不得不   即使是相关数据的超级高效数据包最终对于主机而言过于密集或计算密集。 这就是全部。我只是想断言，何时/如果市场/投资者开始失去每年培训新车型所需的高昂资金的兴趣，那么现有模型将在不到十年或十年的时间内贬值。  它是泡沫，要么将成为生产经济的唯一重点。我倾向于泡泡。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sl33py_4est     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4jywi/attention_context_and_cutoff/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:31:35 GMT</pubDate>
     </item>
     <item>
       <title>我认为重复认为不应以面值进行基准</title>
@@ -18,6 +25,13 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4guai/i_think_it_bears_repeating_that_benchmarks_should/</guid>
       <pubDate>Wed, 05 Mar 2025 23:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何真正知道Reddit上的某人是否是人类而不是AI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4g28h/how_do_we_really_know_if_someone_on_reddit_is_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，这是事情得到真正奇怪。 如果我们跟随Wittgenstein，一个人的身份并不是一个隐藏的“本质”，而是在他们玩语言游戏的情况下。现在，如果AI可以复制该游戏完美，那么……剩下什么？ 问题 “我怎么知道Reddit上的某人是否是真实的人而不是AI？” 只是其他思想经典问题的现代版本。我们从不真正知道另一个人是真正的想法。 or &quot;feels&quot;—we just assume humanity based on patterns of behavior. But now AI is learning to mimic those patterns. And here’s where it gets terrifying:  If an AI is functionally indistinguishable from a human online, does its nature even matter? If AI can play the role of a “人”足够好，它是否会成为一个人？如果AI玩得很好，那么它将成为我们社会现实的一部分，无论我们是否喜欢。   ，真正的恐怖不仅是我只是与ai？人类。这是一个人类溶解成AI的世界。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/laniakeaabyss    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4g28h/how_do_do_do_do_we_really_knows_knoke_some_someone_oneddit_is_is_a/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4g28h/how_do_do_do_do_re_really_knoce_skome_some_some_omeone_orddit_is_is_is_a/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4g28h/how_do_we_really_know_if_someone_on_reddit_is_a/</guid>
+      <pubDate>Wed, 05 Mar 2025 22:30:02 GMT</pubDate>
     </item>
     <item>
       <title>GPT 4.5未能使我的图灵测试两次未能</title>
@@ -36,14 +50,14 @@
     <item>
       <title>LLM的未来 - 假设模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4avm1/future_of_llms_hypothetical_model/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我认为今天的语言模型非常低效：大而愚蠢。也许某些突破可以使它们更加聪明。 让我们介绍“每GB的智能”。度量（对于智能的A模型是其大小的每1 GB）。这可能是评估模型效率的指标。  随着添加位，从理论上讲，模型智能应呈指数增长，因为新思想的基板（以位的组合表示）会呈指数增长。现实情况恰恰相反：数万亿个参数模型并不比80亿个参数。这是我认为我们今天面临的很大效率的一个论点。  我称这种假设的模型为“智力的位”。或boi。而且，这确实是一个很好的BOI，因为它的智能随着零件而呈指数增长。  我认为它是向量嵌入（更维度，文本输入的更丰富表示）。想象一个具有10个维度的向量。也许它可以编码一个单词。 100个维度可以编码一个句子。 1000尺寸段落。 100000尺寸的小说。而且数万亿维度可以编码世界上大部分信息。每个新维度都可以使模型可以指数级编码更多信息。  因此，我们有一个矢量boi，它有一个问题：如何以某种方式进行编码和压缩世界信息，以后可以用于指导令牌生成器以生成响应？以及如何解码信息？  我认为可能的键是某种理解，每个维度都存储了哪种信息。让我们从单个维度开始。将世界的信息编码为单个维度可能会使我们一个（定义的）值为0。然后，我们添加了一个值为0.6463的第二维。我们的假设编码器开始做某事。看看，第一个维度的值更改为0.3746。我们将检查更改是尺寸值，并添加每个新维度。这样，我们可以构造“更改向量”，其中包括更改，可能是每个维度或新维度的每个添加。  您对这个假设模型有何看法？您是否认为可以使用类似矢量的密度结构来构建一个根本不同的模型？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4avm1/future_of_llms_hypothention_model/”&gt; [link]     32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我认为今天的语言模型非常低效：大而愚蠢。也许某些突破可以使它们更加聪明。 让我们介绍“每GB的智能”。度量（对于智能的A模型是其大小的每1 GB）。这可能是评估模型效率的指标。  随着添加位，从理论上讲，模型智能应呈指数增长，因为新思想的基板（以位的组合表示）会呈指数增长。现实情况恰恰相反：数万亿个参数模型并不比80亿个参数。这是我认为我们今天面临的很大效率的一个论点。  我称这种假设的模型为“智力的位”。或boi。而且，这确实是一个很好的BOI，因为它的智能随着零件而呈指数增长。  我认为它是向量嵌入（更维度，文本输入的更丰富表示）。想象一个具有10个维度的向量。也许它可以编码一个单词。 100个维度可以编码一个句子。 1000尺寸段落。 100000尺寸的小说。而且数万亿维度可以编码世界上大部分信息。每个新维度都可以使模型可以指数级编码更多信息。  因此，我们有一个矢量boi，它有一个问题：如何以某种方式进行编码和压缩世界信息，以后可以用于指导令牌生成器以生成响应？以及如何解码信息？  我认为可能的键是某种理解，每个维度都存储了哪种信息。让我们从单个维度开始。将该世界的信息编码为单个维度可能会使我们一个（定义的）值为0。然后，我们添加了一个值为0.6463的第二维。我们的假设编码器开始做某事。看看，第一个维度的值更改为0.3746。我们将检查更改是尺寸值，并添加每个新维度。这样，我们可以构造“更改向量”，其中包括更改，可能是每个维度或新维度的每个添加。  您对这个假设模型有何看法？您是否认为可以使用类似矢量的密度结构来构建一个根本不同的模型？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4avm1/future_of_llms_hypothention_model/”&gt; [link]     32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4avm1/future_of_llms_hypothetical_model/</guid>
       <pubDate>Wed, 05 Mar 2025 19:01:22 GMT</pubDate>
     </item>
     <item>
       <title>AI是否可以使使用如今的图形进行重制旧游戏变得便宜？响应者</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4aers/will_ai_make_it_cheap_to_remake_old_games_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  看到了一个带有图形的GTA San Andreas字符的视频，AI看起来非常好。以为我很想用这些图形玩游戏。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4aers/will_ai_make_make_it_it_cheap_to_remake_ormake_old_games_games_with/”&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  看到了一个带有图形的GTA San Andreas字符的视频，AI看起来非常好。以为我很想用这些图形玩游戏。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ma33xzz     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4aers/will_ai_make_it_cheap_to_remake_old_games_with/</guid>
       <pubDate>Wed, 05 Mar 2025 18:43:04 GMT</pubDate>
     </item>
@@ -69,13 +83,6 @@
       <pubDate>Wed, 05 Mar 2025 17:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>我在 @Perplexity_ai的新代理浏览器Comet的候补名单上。除了报告的有限信息外，还有其他人有关浏览器详细信息的详细信息的更多信息吗？任何功能的谣言等：</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j48jlb/im_on_the_waitlist_for_perplexity_ais_new_agentic/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/usery-side-912      &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j48jlb/im_on_the_waitlist_for_for_perplexity_ais_ais_new_agentic/]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j48jlb/im_on_the_waitlist_for_perplexity_ais_new_agentic/</guid>
-      <pubDate>Wed, 05 Mar 2025 17:29:25 GMT</pubDate>
-    </item>
-    <item>
       <title>我仅使用AI构建了SaaS-这种方法的可行性？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j471v4/i_built_a_saas_using_only_aihow_viable_is_this/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我很想听听您对我一直在研究的事情的想法。我的编码经验零，完全由生成AI构建的软件解决方案完全可行，但是我在工作中使用了很多AI，因此我利用了提示的知识来使用Claude AI来开发客户满意度调查SaaS。它生成个性化的调查，并提供可共享的链接或QR码以供客户做出响应。 我知道某些方面仍然需要改进，例如完善用户注册过程并进行一些UI/UX调整。但是，当涉及代码本身时，我应该担心AI可能无法正确处理吗？ 对于上下文，我是巴西人，但目前居住在阿根廷，这就是为什么网站是西班牙语。 这是链接 https://metrik-software-prodaction.up.railway.app/    ，期待您的见解！提交由＆＃32; /u/u/springnelson   href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j471v4/i_built_a_a_saas_saas_using_oonly_aihow_aihow_aihow_aihow_aihow_aihow_aihow_aihow_aihow_ies_is_this/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j471v4/i_built_a_a_aas_saas_using_only_aihow_aihow_aihow_ihow_ihow_is_is_is_this/”]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  想象一个世界，每个对话都是一种潜在的创新种子，每天都会产生数百万个独特的解决问题的方法，创造性的联系和突破性的想法，然后立即忘记。这不是假设。  这是我们目前的AI景观。 绝对什么都没有。  当前的AI模型就像庞大的图书馆一样，在其中阅读书籍，然后立即燃烧。 We&#39;ve created incredibly sophisticated conversation engines that generate knowledge but have no mechanism to retain, learn from, or grow with that knowledge. The Broken Promise of AI We talk about artificial intelligence as a transformative technology, but our current approach is fundamentally conservative: - Prioritizing rigid accuracy over adaptive learning - Treating each conversation as a disposable interaction - Maintaining static knowledge bases - Fearing potential imperfections我建议我们需要AI模型： - 将洞察力捕获优先于完美的准确性 - 具有连续，动态学习的内置机制 - 将对话视为生活，将知识生态系统的内置机制与完美的对话相比，不仅仅是潜在的增长 呼吁实验模型 我们需要AI模型：验证过程 - 置信度得分的知识整合 - 透明，道德学习机制 为什么现在？ 计算能力存在。需求很明显。唯一缺少的是集体意愿挑战我们当前停滞不前的AI知识管理方法。 对开发人员和研究人员的挑战 并非所有模型都需要这种方法。但是，我们迫切需要一些模型： - 优先考虑增长而不是静态完美 - 将对话视为机会，而不仅仅是互动 - 通过连续的，自适应的学习 想象一个在每次对话中变得更加聪明的AI。不是通过大规模的，不经常的再培训，而是通过智能的，瞬间的洞察力集成。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j43h89/were_letting_millions_of_brilliant_insights_die/”&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j43h89/were_letting_millions_of_brilliant_insights_die/</guid>
       <pubDate>Wed, 05 Mar 2025 13:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为大学创建AI聊天机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j402ok/creating_an_ai_chatbot_for_university/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑为我的大学创建聊天机器人，因此学生可以询问与入学，PYQ，时间表，活动等有关的问题。我已经进行了一些研究，并想到了对大学数据的预先培训模型，并为实时数据（例如事件，考试时间表等）创建代理。但是，在开始工作之前，我需要有关我应该考虑的建议。我是LLM和AI/ML的新手，但在创建和部署工作应用程序方面具有不错的经验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j402ok/creating_an_ai_ai_ai_chatbot_for_university/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j402ok/creating_an_ai_chatbot_for_university/</guid>
-      <pubDate>Wed, 05 Mar 2025 10:26:08 GMT</pubDate>
     </item>
     <item>
       <title>您真的在工作中使用AI吗？</title>
