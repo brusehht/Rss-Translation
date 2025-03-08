@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Mar 2025 00:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 03:14:47 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek的开源周，为什么这很重要</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j66ue7/deepseeks_opensource_week_and_why_its_a_big_deal/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们在DeepSeek的OSS周上写了一篇博客文章，为什么这很重要。希望它有用！ 👋   link      &lt;！ -  sc_on-&gt; sc_on-&gt; 32;提交由＆＃32; /u/u/u/brirst day2748     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1j66ue7/deepseeks_opensource_week_week_and_and_and_and_why_its_a_big_deal/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j66ue7/deepseeks_opensource_week_and_why_its_a_big_deal/</guid>
+      <pubDate>Sat, 08 Mar 2025 02:17:05 GMT</pubDate>
+    </item>
     <item>
       <title>我应该开源CMS吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;    https：//github.com/splware/esproc/esproc/wiki/we-built-wiki/we-built-an-an-open-an-open-an-open-an-open-source-duckdb-alternative-dive-div- /u/u/u/vast_lab8278     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j5dtwr/we_built_an_open_source_duckdb_alternative/</guid>
       <pubDate>Fri, 07 Mar 2025 03:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源ETL准备抹布🦀🐍的数据</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5drjl/opensource_etl_to_prepare_data_for_rag/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经建立了一个开源框架（可可index），以与我的朋友一起准备抹布的数据。  🔥功能：  数据流程编程 支持自定义逻辑 - 您可以插入自己选择的块，嵌入，嵌入，向量存储的选择；插件自己的逻辑，例如乐高。现在，我们在存储库中有三个示例。从长远来看，我们还希望支持Dedupe，和解等。 增量更新。我们提供州管理室外，以最大程度地减少重新计算。现在，它检查了来自数据源的文件是否已更新。将来，它将处于较小的粒度，例如块级。   python sdk（带有python绑定的生锈核心）     github repo ：这是一个快速启动视频教程。如果您有兴趣，也会喜欢贡献者:)非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/royal-fix3553     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5drjl/opensource_etl_to_prepare_data_for_rag/</guid>
-      <pubDate>Fri, 07 Mar 2025 03:05:48 GMT</pubDate>
     </item>
     <item>
       <title>在Linux上从头开始编写TCP堆栈</title>
