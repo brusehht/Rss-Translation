@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Sun, 09 Mar 2025 03:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 09:13:00 GMT</lastBuildDate>
     <item>
       <title>是什么原因导致所有剪辑源时时间代码丢失？</title>
       <link>https://www.reddit.com/r/editors/comments/1j6qjpm/what_causes_all_clips_source_timecode_to_get_lost/</link>
@@ -20,9 +20,9 @@
       <pubDate>Sat, 08 Mar 2025 20:41:19 GMT</pubDate>
     </item>
     <item>
-      <title>狂热的编辑：您是否保留单独的键以进行清除/外（D＆F），还是只使用G来清除两者？</title>
+      <title>狂热的编辑：您是否保留单独的键以进行清除/外（D＆F），还是只使用G清除两者？</title>
       <link>https://www.reddit.com/r/editors/comments/1j6dl3q/avid_editors_do_you_keep_separate_keys_for_clear/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，狂热的编辑， 我正在遵循学习 avid键盘正确的建议；但是，我添加了两个自然改变Avid默认设置的性质的性质 - 特别是 d和f键，最初是为了清除/外。我将它们映射到了我发现有用的其他功能，但是我想知道这是否是一个好主意。 默认情况下，Avid使用：       g →clear in＆amp;    d →在   f →清除→  中，我听说有些编辑说他们只是使用 g来清除，而不是使用 d＆amp; f分别。 我的设置：     d →选择In/Out in/out      f →匹配框架（尽管我可以使用Shift + N代替） Out (same as deafult)  I used to use Select In/Out a lot, but I’m wondering if others also rely on it or if it’s redundant in your workflow. My questions:  Do you prefer keeping D &amp; f可清除/输入分别？  或者您大多数时候都使用 g清除两个标记？ 您 发现自己只能在一个或外的点上调整一个而不是清除两者？您是否觉得需要为此拥有专用钥匙？ （这可能已经回答了） 您是否使用选择/out in/out ，还是在工作流程中发现它不需要？如果不是，您将使用什么来快速选择时间表中的剪辑？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]     32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，狂热的编辑， 我正在遵循学习 avid键盘正确的建议；但是，我添加了两个自然改变Avid默认设置的性质的性质 - 特别是 d和f键，最初是为了清除/外。我将它们映射到了我发现有用的其他功能，但是我想知道这是否是一个好主意。 默认情况下，Avid使用：       g →clear in＆amp;    d →在   f →清除→  中，我听说有些编辑说他们只是使用 g来清除，而不是使用 d＆amp; f分别。 我的设置：     d →选择In/Out in/out      f →匹配框架（尽管我可以使用Shift + N代替） Out (same as deafult)  I used to use Select In/Out a lot, but I’m wondering if others also rely on it or if it’s redundant in your workflow. My questions:  Do you prefer keeping D &amp; f可清除/输入分别？  或者您大多数时候都使用 g清除两个标记？ 您  发现自己只能在一个或外出的点而不是清除两者？您是否觉得需要为此拥有专用钥匙？ （这可能已经回答了） 您是否使用选择/out in/out ，还是在工作流程中发现它不需要？如果不是，您将使用什么来快速选择时间表中的剪辑？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]     32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j6dl3q/avid_editors_do_you_keep_separate_keys_for_clear/</guid>
       <pubDate>Sat, 08 Mar 2025 09:26:58 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>等待一秒钟...为什么一个视频文件导出比原始文件大？</title>
       <link>https://www.reddit.com/r/editors/comments/1j59are/wait_a_second_why_is_a_single_video_file_exported/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在FCPX 10.8.1。 2021 MacBook Pro带有M1 Pro芯片，500GB SSD。&lt; /p&gt; 我有一个录制的Zoom Call，有些人可以做，并且需要我编辑为YouTube-Devere-Ready视频。我打算创建此原始视频的四个副本，然后在FCP中裁剪它，然后重新播放以创建一个我可以更轻松地编辑的多型摄像头剪辑。 他们发送的原始视频文件（从Google Drive下载）为3.56GB（约2 HRS（约2个hrs），在1920x1080，25fps，rec，rec，rec。 709 ..当我将其带入时，然后将其分享/导出为H.264，突然是18GB！这只是一个文件，更不用说再做3个以获取所有四个摄像机，然后是每个相机的一张镜头。 该项目以帧速率，分辨率和视频编解码器匹配到原始相匹配，我将重新播放降低到422 lt，我什至将其从48k audio样本率将其降为44.1k。我注意到为格式选择社交将使它降至13.7GB。我到那里可能会有一些内置的FCP设置用于编码/导出，请增加10-15GB？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/theshwauce     [link]  &lt;a href =“ https://www.reddit.com/r/editors/comments/comments/1j59are/wait_a_second_second_is_is_i_a_single_videle_video_file_file_exported/”]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在FCPX 10.8.1。 2021 MacBook Pro带有M1 Pro芯片，500GB SSD。&lt; /p&gt; 我有一个录制的Zoom Call，有些人可以做，并且需要我编辑为YouTube-Devere-Ready视频。我打算创建此原始视频的四个副本，然后在FCP中裁剪它，然后重新播放以创建一个我可以更轻松地编辑的多型摄像头剪辑。 他们发送的原始视频文件（从Google Drive下载）为3.56GB（约2 HRS（约2个hrs），在1920x1080，25fps，rec，rec，rec。 709 ..当我将其带入时，然后将其分享/导出为H.264，突然是18GB！这只是一个文件，更不用说再做3个以获取所有四个摄像机，然后是每个相机的一张镜头。 该项目以帧速率，分辨率和视频编解码器匹配到原始相匹配，我将重新播放减少到422 lt，我什至将其从48k Audio样本率将其降为44.1K。我注意到为格式选择社交将使它降至13.7GB。我到那里可能会有一些内置的FCP设置用于编码/导出，请增加10-15GB？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/theshwauce     [link]  &lt;a href =“ https://www.reddit.com/r/editors/comments/comments/1j59are/wait_a_second_second_is_is_i_a_single_videle_video_file_file_exported/”]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j59are/wait_a_second_why_is_a_single_video_file_exported/</guid>
       <pubDate>Thu, 06 Mar 2025 23:23:18 GMT</pubDate>
     </item>
