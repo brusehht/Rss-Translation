@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 09 Mar 2025 09:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 12:22:19 GMT</lastBuildDate>
+    <item>
+      <title>解决可持续性的解决方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j76051/solution_to_opensource_sustainability/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    开源&lt; /strong&gt;是一个很好的概念和运动，也是使软件更易于访问和可用的绝佳方法。，但最近，由于某些业务实践，该模型通常会面临其自身的挑战和问题。 Some even say that Open Source is &#39;Broken&#39;. So the following proposal is one attempt to find a fix: cFOSS - conditionally Free and OpenSource Software Openness is retained with freedom to see and use the code and also alter it / improve it by making a PullRequest.大多数用户（超过90％）和付费（订阅费）也仅对大型公司的一定阈值（例如那些拥有超过100万美元的年收入超过100万美元）的付费（订阅费）免费。 这种类型的许可对于在作者获得太多请求但没有足够资金的情况下进行维护的项目适用于苛刻的项目。开放资金的解决方案 - 自由（电荷）和自由/libre  Camps 。可以说，即使是从业务角度来看，这要好得多。 当然，ffoss- fefoss -pluterfree（mit和类似）仍然如此，对于所有没有维护问题的人。 整个博客：      https://infopedia.io/solution-tolution-took-popensource-sustainability/     提交由＆＃32; /u/u/u/hn-mc      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j76051/solution_to_opensource_sustainability/</guid>
+      <pubDate>Sun, 09 Mar 2025 11:50:01 GMT</pubDate>
+    </item>
     <item>
       <title>发布将付款的应用程序。你怎么认为？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j73ssr/releasing_an_app_that_will_be_paid_what_do_you/</link>
@@ -76,25 +83,11 @@
       <pubDate>Sat, 08 Mar 2025 17:57:03 GMT</pubDate>
     </item>
     <item>
-      <title>今天刚刚完成AIAPWN，这是一种自动及时注射工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   aiapwn是一个简单的工具，可以自动检测AI代理和LLMS中的提示注射漏洞的过程。     github：   https://github.com/karimhabush/aiaiapwn        &lt;！提交由＆＃32; /u/u/karimhabush     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:43:36 GMT</pubDate>
-    </item>
-    <item>
       <title>🚀dagserver：带有Spring Boot运行DAG的开源服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我们想介绍 dagserver ，这是一个由专业人士合作的开源项目。 dagserver是弹簧启动基于旨在执行和编排 dags（有向无环图）有效的服务器。 如果您正在寻找一种轻巧的解决方案，如果您正在寻找使用DAG的轻量级解决方案，我们会邀请您尝试使用DAG，我们邀请您进行反馈！ href =“ https://github.com/telemodemti/dagserver”&gt; github上的dagserver     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/then-dark-7298   href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_open_source_server_server_for_running_dags/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_source_server_server_for_running_dags/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</guid>
       <pubDate>Sat, 08 Mar 2025 15:21:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件变形窗口？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 我的弟弟刚从政府那里收到了免费的笔记本电脑。这是非常基本的，只有128GB NVME和4GB为2400mt/s RAM。  他使用Windows 11，我将首先进行新的安装，因为它带有大量膨胀。但是之后，我想从Microsoft软件包中脱光。但是我需要一种安全的私人方法来这样做。  我知道安装Linux可能是一个更好的解决方案，但是由于我可以通过手机上的Windows上一个应用程序控制所有父母控件，这是目前OS的最佳选择。  有帮助吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/”&gt; [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:34:55 GMT</pubDate>
     </item>
     <item>
       <title>寻找可以做出贡献的开源项目！</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  那时，我曾经将所有照片备份到我的Google照片中，而无需思考。没关系，我根本不在乎那里有多少重复。然后，去年我购买了Google Photos sub，并在其中乱扔了所有照片。而且我的存储几乎即将变得完整。我要在本地存储中下载所有这些照片，然后使用某种工具来删除这些模糊，重复的...我也正在寻找可以将照片自动将我的照片分类为食物，自然，建筑等的东西。这样，我更容易选择需要删除哪些照片。然后，这样做之后，我将备份作为用途，但是这次我想尝试除Google Photos以外的其他方法。请给我一些东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/strange-series-5510     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j6d5uz/any_photos_cleaner_best_google_photos_alternative/</guid>
       <pubDate>Sat, 08 Mar 2025 08:54:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该开源CMS吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个自由职业者，在PHP中为客户端项目编写了自己的CMS平台。我对此非常满意，因为它完全与我的编程风格相匹配，而且我也知道有关它的一切。我最近实施了一个插件功能，发现它比其他任何内容都更简单，直观。您认为完全记录和开源此软件是一个明智的决定吗？它如何使我受益？我将如何奖励贡献者？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/”&gt; [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/</guid>
+      <pubDate>Fri, 07 Mar 2025 23:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
