@@ -4,7 +4,91 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 10 Mar 2025 12:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 18:21:05 GMT</lastBuildDate>
+    <item>
+      <title>试图理解设置响应式，可访问的CSS的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j83r95/trying_to_understand_the_best_way_to_set_up/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经用相对CSS单位沿着兔子洞走下去，我开始第二次猜测一些事情。基本上，我试图了解设置相对单元的最佳方法是什么，以便您的设计仍然可以在某种程度上响应视口宽度，同时还可以保持可访问性。 首先，有根字体大小。有一段时间，我基于大众设置了此设置。这是一个诱人的策略，因为您可以在其他所有内容上使用REMS来响应地扩展整个设计。  当然，我意识到将root字体大小设置为除了百分比以外的任何事物都会打破浏览器字体大小的设置，这可能是一个主要的可访问性问题。这似乎是一个明确的“不要这样做”。类型的事情，但是如果我在这里错了，请纠正我。从技术上讲，您仍然可以缩小页面，但是用户字体大小的设置将被忽略。 计划B是将根字体大小设置为一个百分比，这将使您仍然可以通过将根字体大小设置为62.5％（大部分时间 - 我理解大多数browsers for deit IT deit IT deit IT deit IT 16px，但它不保证16px，但它不保证它？）据我所知，这样做没有主要问题，只需考虑其他一些事情。  为了解决这个问题，您可以在包装器元素上设置字体大小，然后将EMS用于其他所有内容，这与包装器字体大小相对。将其与基于大众的夹具（）结合，您的设计可以响应视口宽度。似乎是一个扎实的策略？  基本上，基于％的根字体大小，字体的REMS，其余大多数的EMS。我觉得我在这里的轨道正确，但是让我知道是否有任何愚蠢或我可能会缺少任何东西。 我的最后一个问题是，如果您是在具有字体大小的元素上设置边距。因此，标题，P标签，A标签等。它们具有自己的字体大小，因此您无法使用EMS设置边距/填充，因为它将相对于元素本身的字体大小。您也不能使用REMS，因为如果用户将其字体大小设置为非常大的东西，那么您会回到根字体大小的问题。在这种情况下，您该怎么办？将每个元素用自己的字体大小包装在DIV或其他内容中？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/juul_aint_cool     [link]        [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j83r95/trying_to_understand_the_best_way_to_set_up/</guid>
+      <pubDate>Mon, 10 Mar 2025 17:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否使用node.js进行前端开发？如果没有，您如何测试和代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j83la8/do_you_use_nodejs_for_frontend_development_if_not/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我注意到，许多现代前端工作流都依赖于node.js来运行本地开发服务器，捆绑，测试等。但是，我也遇到了开发人员完全跳过node.js的设置。 对于那些在前端项目中使用node.js的人来说， 您可以在测试和实时重新负载（例如实时填充）的任务中使用哪些替代方法？ 我很想知道您的经历，挑战以及您可能会为希望探索不同方法的人提供的任何技巧。预先感谢您分享您的见解！ 期待您的响应！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uncemate_and_win     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j83la8/do_you_use_nodejs_for_frontend_deverend_develodment_if_not/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j83la8/do_you_use_nodejs_for_frontend_development_if_not/</guid>
+      <pubDate>Mon, 10 Mar 2025 17:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件工程面试过程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j83ge4/software_engineering_interview_process/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我最近接受了在创业公司的工作，我经历了4轮和一个技术项目。  他们每次采访都说了自己喜欢我的产品，技术和我的系统设计都很棒。他们给我留下了深刻的印象，我什至实施了一项他们正在考虑使事情变得更容易的技术。 快速前进，我被拒绝了，令人困惑的是他们的反馈（很酷，我收到了它，但很困惑）。我什至比他们问的薪水要低一些。思维定势 - 思考超出指定要求的更广泛的架构观点，并将其分解为务实的小步骤 - 更多的经验，带领大型，雄心勃勃的功能的发展 我想特别提及的呼吁是务实的步骤，因为我将所有内容都分解为易于矮小的步骤和迭代的步骤和迭代。 I’m also so confused as when they mention being pragmatic but if they had read my resume with startup experience that would tell them everything so in turn to me they were not pragmatic at all in that space of vetting what they needed. I am just more bummed because the technical project took me about 6hours to do and was a complete full stack app with a docker image, type orm, GraphQL and a complete frontend with many requirements which I hit all of 他们。经验教训，尽管这些公司想要接受家庭项目，我将在那里停止面试，并提出其他一些审查我的技术技能的方式，因为这非常荒谬，我花了大约10小时的时间浪费时间，甚至浪费了我的时间，甚至与两位创始人的面试。时间很宝贵，我对这些公司的这种糟糕的做法感到非常厌倦。幸运的是，我也没有共享我的源代码回购（除非他们为此付钱，否则永远不要这样做）。只是对人们的想法感到好奇，因为你们中的某些人的过程有多荒谬？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/adreier27     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j83ge4/software_engineering_interview_process/</guid>
+      <pubDate>Mon, 10 Mar 2025 16:59:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会推荐我的哪些Udemy课程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j81sbh/which_courses_from_udemy_would_you_recommend_me/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，你好吗。我的搭便车让我一段时间让我的Udemy Business ACC，所以我有机会观看尽可能多的课程，而无需支付任何费用，我想充分利用它。 ATM我正在观看Angela Yu的完整全栈Web开发训练营。我认为我将能够在大约2-4个月内完成它。我仍然想看一些课程来巩固我的知识。我正在进行此课程时，我将在一个页面上启动一个页面一个页面的页面，我不想进入“课程”。地狱，如果您建议的课程是“基于项目的”，那就太好了。我有点知道该怎么做，因为我在网上观看的路线图不同，但是如果您对我想做的事情有扎实的基础，那将是很棒的（不仅是课程，而且是在线信息 +文档）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/imtryingitforreal     [link]  &lt;A href =“ https://www.reddit.com/r/webdev/comments/1j81sbh/which_courses_from_udemy_would_you_recommend_me/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j81sbh/which_courses_from_udemy_would_you_recommend_me/</guid>
+      <pubDate>Mon, 10 Mar 2025 15:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个具有端到端类型安全的全栈打字稿模板🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j81jal/i_built_a_fullstack_typescript_template_with/</link>
+      <description><![CDATA[Hey everyone, I recently put together a full-stack TypeScript template that integrates React (Vite), Hapi, GraphQL Yoga, and GraphQL Modules—all with end-to-end type safety using GraphQL Codegen.我想要一个稳定的起点，用于构建从前端到后端的强大打字的现代网络应用程序，所以我认为我会分享它！ 🔥功能：      具有全型安全性的graphql   - 类型的查询，突变，突变，脉冲和溶液和溶液。代码。  后端： hapi，graphql Yoga，graphQl模块，supertokens（auth），Stripe（付费）。     自动型型    - 使用Sync中的变化和强度    模块。  生产准备的工具  -  Eslint，Prettier，TypeScript到处都是。  快速启动： 克隆回购：          https://github.com/Dan6erbond/graphql-modules-vite-react-template.git cd graphql-modules-vite-react-template  Install dependencies: cd client &amp;&amp; NPM安装CD ../ Server＆amp;＆amp; npm install   以开发模式运行：   npm run dev    自定义并构建应用程序！  github：         https://github.com/dan6erbond/graphql-modules-modules-vite-modules-vite-reactct-temct-template 随时为自己的项目做出贡献或使用它。另外，让我知道您是否有任何改进或添加！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/dan6erbond2     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j81jal/i_built_a_fullstack_typescript_template_with/</guid>
+      <pubDate>Mon, 10 Mar 2025 15:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何决定用于用于小规模租金信息网站的最佳数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j81f2d/how_do_i_decide_on_the_best_database_to_use_for_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个小型网站，该网站将显示公寓信息（地址，复杂名称，租金$，公用事业$，停车$，洗衣店$等）。要考虑  从一个城市的信息开始，这意味着大约30个复合物，这可能意味着几千套公寓。 数据将被手动找到并输入该数据库。 数据库是理想的可扩展性的，因此，数据库确实可以在所有数据库中生长出所有数据库，否则数据库均可以 一个小规模的网站的预算谦虚。  由于声誉，熟悉性和可伸缩性，我一直在研究AWS，但我担心不必要的复杂性和成本。我考虑了一个由于成本和易于管理而模仿数据库的课程，但我担心缺乏扩展。 这样说，我应该考虑哪些选择，以及我应该考虑避免的选择，为什么？提交由＆＃32; /u/u/dogballsmissing    href =“ https://www.reddit.com/r/webdev/comments/1j81f2d/how_do_do_i_i_i_i_i_i_i_i_i_decide_on_the_best_database_database_to_use_for_a/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j81f2d/how_do_do_i_i_decide_on_the_best_database_to_to_use_use_use_for_a/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j81f2d/how_do_i_decide_on_the_best_database_to_use_for_a/</guid>
+      <pubDate>Mon, 10 Mar 2025 15:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>中心卡堆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j80y4i/centering_card_stack/</link>
+      <description><![CDATA[       Shuffler练习，我遇到了CSS问题。  Shuffler背后的JavaScript代码已经完成，现在我正在研究如何显示结果，到目前为止，占位符静态图形迄今用于测试putposes，然后才能编写更新功能。这是我到目前为止所拥有的：  边界是可视化元素维度的暂时性。我正在使用Flex从左到右显示绘制卡，该部分正常工作。但是，您可以肯定的是，Problim与上面的甲板一样。 甲板是通过使用相对的定位和略有偏移来创建3D幻象的甲板五次堆叠五次的图像。 （我计划使用JavaScript代码在甲板变得足够小时删除顶部卡。）卡是具有 none 样式的列表的元素。虽然列表元素具有相对定位，但列表本身及其容器具有 static 。 我只能在设置为 float 本身时才能使卡正确排列，否则它们会散布一堆：   ，但显然，我想将甲板居中，所以Float不合适。 到目前为止，我已经很好地掌握了CSS，但是在这里我确实撞到了墙。渲染这些堆叠卡的正确方法是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyberdaggerx     ＆＃32;   [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j80y4i/centering_card_stack/</guid>
+      <pubDate>Mon, 10 Mar 2025 15:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是Web开发的新手。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j805nx/i_am_completely_new_to_web_development/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我是大学的学生，他的任务是构建考试表格的申请，我以前曾在Android Studio和MySQL中进行了研究和练习，并没有真正冒险，并且没有真正进入网络环境。 ，我的大学只能在网上付费，并在网上付费，让他们在网上进行了启用，他们曾经在学习中，他们求助于他们的效果，他们的工作人员是他们的授课者，他们求助于他们的效果，他们愿意进行授课，他们愿意进行验证，他们愿意进行验证，他们愿意进行授课，他们才能进行一名授课，他们才能进行授课，他们才能进行验证。能够填写表格的费用。我不是在试图建立一个整个支付系统，而只是仅仅是由未支付费用的学生访问的表格，因为这将反映在本地大学数据库中。 ，所以我一直在YouTube和Google搜索，并要求AI Chatbots收集技术堆栈，我认为我认为我有一些观点。  此应用程序有两个方面；客户端和服务器端。对于客户端，它是HTML，CSS，JavaScript，对于服务器端，我应该选择JavaScript还是PHP？从长远来看，哪种语言更有益？ 编辑： - 添加更多上下文  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yeagerisbest369     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j805nx/i_am_completely_new_to_web_development/</guid>
+      <pubDate>Mon, 10 Mar 2025 14:40:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我什么时候应该开始使用前端框架（来自旧版PHP）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j802t7/when_should_i_start_using_frontend_framework/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上，标题说明了一切。什么时候您要考虑开始使用任何前端框架为网站开始使用？ 更具体的示例 - 我在feetime中（最近从5.6到7.x迁移到7.x）中保持相当的旧版PHP代码库，并且在该页面上的最大交互性量只是一些简单的ajax请求（自动编号/推荐/设置评级/推荐）。啊，是的，它根本没有任何框架，只有php，“ monolith”一种。 现在，我正在重新分配主页，以介绍某种动态的“ feed”。我使用分页起草了一些POC，但是我想将其放入无限的滚动中（或“多加载”按钮，这实际上是相同的）。在这里，我到达似乎需要一些前端框架的地步。因为我要么在第一次负载中拥有PHP中的Feed的所有HTML生成，然后基本上将其重新进行以进行后续ajax请求“更多负载”，或者只是开始使用前端框架（我现在使用vue.js进行了一些草稿（我现在都可以将其列入vue.js），因此我可以在所有的过程中都可以完成所有的工作。  从vue-ish js/html。我意识到的是，这可能完全是世界上人们首先发明前端框架的地步 - 当以Ajax请求从Ajax请求转换为HTML，以表明单独的PHP中的麻烦太大了。任何人都可以联系，听起来有意义吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/lega4     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j802t7/when_should_i_start_using_frontend_framework/</guid>
+      <pubDate>Mon, 10 Mar 2025 14:37:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>昨天，我将我的第一个承诺推向Chromecast的后端存储库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7za8y/yesterday_i_pushed_my_first_commit_to_chromecasts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对此成就感到非常高兴  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/intelhdgraphics     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7za8y/yesterday_i_pushed_my_first_commit_to_chromecasts/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7za8y/yesterday_i_pushed_my_first_commit_to_chromecasts/</guid>
+      <pubDate>Mon, 10 Mar 2025 14:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于所有自由职业者，您如何为客户提供网络开发服务？我很困惑。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7z4dm/to_all_freelancer_how_do_you_provide_web/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，我只是一个学习网页设计和开发的青少年学生。我想使用WordPress，WebFlow，Shopify，Framer等工具进行网络设计的自由职业（我学到了大多数）。但是，当我考虑与我所在地区的本地企业接触时，我感到困惑，因为在获得客户后我将如何提供服务？ ，那么对于所有已经这样做的自由职业者，您如何提供服务？对于WordPress网站开发，您是否代表客户购买托管，然后构建托管，或者您要求客户购买托管，然后给您帐户中该平台的邀请链接？如果我要在Framer建立一个本地企业的网站，我是否应该请他购买个人托管计划的业务，然后邀请我作为编辑？你们是这样继续前进的吗？如果客户根本不知道他甚至不知道托管是什么，该怎么办？在这种情况下，我该怎么办？ 另外，一旦您为客户完成一个项目，如何提供重复的服务？因为一旦您建立了一个网站并将其交给客户，就只能获得一次付款，仅此而已。您再次从零开始。您无法提供托管等服务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mokshsinghdangi     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7z4dm/to_all_freelancer_how_do_you_provide_web/</guid>
+      <pubDate>Mon, 10 Mar 2025 13:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS代码实时服务器不是自动重新恢复新创建的文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7y4zx/vs_code_live_server_not_autorefreshing_newly/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  &#39;m面对VS Code的Live Server扩展名。它与现有文件完美搭配，即使我复制了一个旧文件，也可以在保存上自动消除。但是，当我创建新文件时，它不会自动刷新，我必须手动重新加载浏览器。 我到目前为止尝试过的内容： ✅ &#39;liveserver.settings.fullrleload＆quot;：true &lt; /code&gt;在 settings.json.json &lt; /code&gt;。 ✅✅多次重新启动vs代码。✅更改了默认的浏览器&lt; /strong &lt; /strong &lt; /strong&gt; for Live Server。 ✅在不同文件夹中创建文件（在某些情况下是同一问题）。 奇怪的是，复制旧文件的工作正常，但是新创建的文件却不刷新。这个问题即使在同一项目文件夹中也会发生。 其他人是否面临过此问题？有任何解决方案？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gienge-pin6416     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7y4zx/vs_code_live_server_not_autorefreshing_newly/</guid>
+      <pubDate>Mon, 10 Mar 2025 13:05:27 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以分解这些视频中使用的效果吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j7x465/can_someone_please_breakdown_the_effects_used_in/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  浏览React的基础知识，然后跳到教程视频并通过项目学习。.在所有事物之间暂停并写下所有内容的原因，最后在您的身边添加一个功能   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/this_job_4087      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j7wxc8/is_this_a_good_idea/</guid>
       <pubDate>Mon, 10 Mar 2025 11:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的个人网站旁边是否有基于WEB的投资组合？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7wsam/do_you_have_a_nonwebbased_portfolio_next_to_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我都为公司工作，并花了一些时间自由职业，我计划继续做这两者。当我申请一家允许自由职业的公司（并非全部）时，我总是提交（a）紧凑型简历，该公司是一页文档，其中包含有关我的所有相关信息，我的（b）扩展形式的简历，这是一本记录我的专业旅程和（C）投资组合项目的小册子，我为客户设计和为客户而设计。我也有一个网站在每个文档中多次提及。 您如何继续展示您的个人工作以及记录您在为他人贡献的工作（例如公司&#39;）项目时所做的工作？   &lt;！ -  sc_on-&gt; &lt;！提交由＆＃32; /u/u/skwyckl     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7wsam/do_you_have_have_nonwebbbbbbbbbbbbbbeased_portfolio_next_next_to_your/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7wsam/do_you_have_a_nonwebbased_portfolio_next_to_your/</guid>
-      <pubDate>Mon, 10 Mar 2025 11:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理服务器范围事件服务器的突然断开连接？如果我削减电源，那么“听众”有什么可以告诉的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7vui7/handling_sudden_disconnect_of_serversent_events/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     tl; dr;尝试：通过开放的服务器序列事件连接，客户端如何知道服务器是否突然消失？  不久前，我问了有关服务器量事件的一些问题，因为我正在使用Philips Hue Hub实现客户端，该服务器使用服务器式Hue Hub，该端子使用服务器式事件来更新客户时，当光更改状态时（打开，旋转，变色，颜色，颜色，颜色，颜色，颜色等）。该线程在这里： https://www.reddit.com/r/webdev/comments/1h67euz/how_do_do_serversent_event_event_streams_work_on_a_a_lower/   我现在已经实现了它，以至于它与我的嵌入式（ESP32）项目非常有效，但是它不是很健壮。特别是在服务器断开连接的情况下，我的HTTP处理逻辑似乎并没有意识到这一点。  Here is what I&#39;m testing, and what I&#39;d like to have a solution for:  Connect to the Hue hub and open an HTTP connection Verify streaming connection is working (it works for hours / days normally) Disconnect power from the Hue hub so it immedietly &quot;goes away&quot; 从我的客户端代码中检查输出。底层HTTP客户端没有触发的事件，因此，据我所知，较低级别的HTTP处理逻辑并不意识到该连接实际上不再实际活动 此时，http的连接是“ dead＆quot”，“ dead＆quot”，“ dead＆quot”，以及我的设备大家好，是否有一种技术（我必须与ESP-IDF（我用来为项目编写软件编写软件的平台）中弄清楚详细信息），我可以 /应该考虑检查此连接吗？ This might sound like a dumb question but in my head this is a GET request so it isn&#39;t intuitive that I could somehow send something over the connection to check if the connection is open. I can send a separate HTTP request to the Hue hub, to check that the IP hasn&#39;t changed for example, but that often wouldn&#39;t detect any issues because the IP generally doesn&#39;t change when the Hub reconnects to my home network.  任何建议都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kevysaysbenice    href =“ https://www.reddit.com/r/webdev/comments/1j7vui7/handling_sudden_​​disconnect_of_serversent_events/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7vui7/handling_sudden_disconnect_of_serversent_events/</guid>
-      <pubDate>Mon, 10 Mar 2025 10:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在NextJS和Nestjs项目中使用Settimeout或Websocket进行通知系统？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7u3al/using_settimeout_or_websockets_for_notification/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在工作的项目需要实现通知系统，在某些情况下，我是一个年轻的开发人员，并承认我的经验不足，并且非常自我意识。该死，我什至没有1个。但是，一旦团队开始讨论此功能，我的想法首先是“是的，我们可以这样做，我们可以对后端进行调查，并继续检查通知。这样。 And then i suddenly realized Websockets!, and as i got a chance to speak i told them about it, my senior told to not complicate it and he will come up with something simpler. Now got off from a call with my senior and in the call i talked and mentioned websockets again and using it, he told not it will get complicated and he told me to use setTimeout() function which in regular intervals of time will query the database to check for new notifications,公平地说，它是员工的内部项目，其中30个不超过30个。当您从这个角度看这句话时，我觉得他是对的，但是我不确定该怎么办。 我感到他认为我无法实现它，但这可能是我的过度思考。我认为WebSocket是一个很好的解决方案的唯一原因，因为我已经在个人项目中实施了，并且我正在从事一个附带项目，该项目的整个设计都在Websocket周围。我很想知道您对此的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/odd_diamond_6600     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7u3al/using_settimeout_or_websockets_for_notification/</guid>
-      <pubDate>Mon, 10 Mar 2025 08:38:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在缓冲数据网格中的动画过滤和排序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7u2i9/animated_filtering_sorting_inside_a_buffered_data/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/TobiasUhlig   [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7u2i9/animated_filtering_sorting_inside_a_buffered_data/</guid>
-      <pubDate>Mon, 10 Mar 2025 08:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在部分的底部正确定位图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7tt63/how_to_properly_position_an_image_at_the_bottom/</link>
-      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/u9ct27kgi-enrhc-mxlnfo1bqiy_hzh5ki6d6h3wwwki.jpg” title =“如何在部分的底部正确定位图像？” /&gt;    &lt;！ -  sc_off-&gt;   hi，所以我当前的问题是要在本节底部对齐此狗图像，其爪子的爪子略微重叠下一节。目前，我的愚蠢解决方案只是设置底部：-277％并手动调整值，但我知道这是响应式设计的可怕方法。 我如何正确地将图像放置在底部，使其保持在底部，缩放良好，并且不会破坏不同的屏幕尺寸？我还添加了HTML和CSS以供参考。任何帮助都将不胜感激！   html：     ＆lt; e节class =&#39;内容白色＆quot＆gt;     ＆lt; div class =; doctors-container＆qut;       值班🐾＆lt;/h2＆gt;     ＆lt; p＆gt; lorem ipsum ipsum dolor sit amet，consectetur adipisciscing elit。 Nulla facilisi。 faucibus orci luctus et ultrics primis中的前庭ipsum primis presuere posuere cupilia curae;整数非Justo eget libero散布会众。 FUSCE VEL MASSA NEC ORCI POSUERE CHARVALLIS。 Donec dapibus turpis vel orci destum，坐下Amet Tristique Metus Feugiat。 src =; ../资产/img/happy-dog-about-us.png; alt =＆quot; dog图像＆quord＆gt;     ＆lt;/div＆gt;       ＆lt;/div＆gt＆gt＆gt＆gt＆gt;          ＆lt;/e节 ＆lt;/pection＆gt;      css：     this 。。 100vw; min-height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items:中心;     text-align：中心;      填充：50px 0;       border-bottom：1px solid;          borde&gt;        .doctors-container { display: flex; justify-content: space-between; align-items: center; width: 90%; max-width: 1200px; position: relative; flex-wrap: wrap;  } .text-content { width: 60%; text-align: left; } .image-content { position: absolute; bottom: -277%; right: -10%; z-index: 1; } .image-content img { width: 550px; height: auto;    }             &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/qaiyy47     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7tt63/how_to_properly_position_an_image_at_the_bottom/</guid>
-      <pubDate>Mon, 10 Mar 2025 08:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对nodejs撒谎的一切都与elixir成为现实</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7tsgw/everything_i_was_lied_to_about_nodejs_came_true/</link>
-      <description><![CDATA[      ＆＃32＆＃32;提交由＆＃32; /u/u/u/getpodapp     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7tsgw/everything_i_was_was_was_lied_to_to_to_about_nodejs_came_came_true/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7tsgw/everything_i_was_lied_to_about_nodejs_came_true/</guid>
-      <pubDate>Mon, 10 Mar 2025 08:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，大家！ 👋我正在使用Bootstrap，Java和Spring Boot开发员工管理系统（EMS）项目。我应该添加的最佳功能是什么，以使其更有用和吸引人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7t35c/hey_everyone_im_developing_an_employee_management/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在下面删除您的建议！ 👇  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/narmy_coding30     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7t35c/hey_everyone_im_developing_an_employee_management/</guid>
-      <pubDate>Mon, 10 Mar 2025 07:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在工作室主页上工作。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7sje0/working_on_a_studio_homepage/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/u/majestic_affect_1152       [注释]     ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7sje0/working_on_a_studio_homepage/</guid>
-      <pubDate>Mon, 10 Mar 2025 06:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动将LinkedIn帖子自动在您的网站上（不再有屏幕截图或复制播放！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7s0f5/autoembed_your_linkedin_posts_on_your_website_no/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，  i构建linked2web，该工具自动获取并嵌入您的LinkedIn帖子在您的网站上，而无需IFRAMES！如果您定期在LinkedIn上发布并希望您的网站在不付出的努力的情况下保持更新，这可能会有所帮助。显示LinkedIn帖子（无手动工作）✅完全可自定义的布局（网格，轮播等）✅SEO友好友好型嵌入（作为本地内容呈现）✅noiframes =更快的载荷时间 如果您经营着企业或个人品牌，并且不断地更新您的网站，并且不断地更新您的网站   p&gt; p&gt; p&gt; p&gt;其他人尝试将其LinkedIn内容自动化到他们的网站吗？您如何做？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ok_nobody1410     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7s0f5/autoembed_your_your_your_linkedin_posts_on_your_your_website_no_no/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7s0f5/autoembed_your_linkedin_posts_on_your_website_no/</guid>
-      <pubDate>Mon, 10 Mar 2025 06:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>追溯扩展名 - 更好的书签经理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7qqq7/retrace_extension_a_better_bookmarks_manager/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开发了要分享的扩展名！  回顾扩展不仅仅是书签经理。它提供了保存，存储，组织和管理特定在线内容的能力，包括文本，图像，网站页面和YouTube视频。您保存的每个内容都会变成“跟踪”，可以将其分配给不同的组，标记，存档，附加附加笔记，并在回曲仪表板中轻松搜索。在仪表板中重新单击跟踪时，回溯将您直接发送回网站或视频和自动滚动，以使您精确地回到您关闭的地方。   https://chromewebstore.google.com/detail/retrace-extension/amplkfldacpppobiogcnjipegoeekcmimc    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/OceanCoder     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7qqq7/retrace_extension_a_better_bookmarks_manager/</guid>
-      <pubDate>Mon, 10 Mar 2025 04:37:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>动画CSS量规，带掩模图像和LERP动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7q94k/an_animated_css_gauge_w_a_maskimage_and_lerp/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;态href =“ https://cardboardshark.medium.com/an-animated-css-gauge-w-mask-image-image-mimage-and-lerp-animation-c6a3318f012d”&gt; [link]    [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7q94k/an_animated_css_gauge_w_a_maskimage_and_lerp/</guid>
-      <pubDate>Mon, 10 Mar 2025 04:08:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM任务的非LLM替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7q32d/nonllm_alternatives_for_llm_tasks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我处于设计和开发WebApp的早期阶段，该WebApp本质上将托管大量的演讲和发行版，以及来自个人的其他文本文档，并提供“得分”并提供“基于提及主题。这实际上并不是它使用的目的，但是例如，如果演讲说他们喜欢花生酱和果冻三明治，如果网站上涵盖的主题之一是花生酱，则将被视为“个人”。花生酱和他们的花生酱分数会上升。这些陈述可以提及这些主题中的任何一个，并且想法是将它们分级为“ for”。或“反对”这些主题尚未确定，但是从非常反对。 问题是，我期望需要大量的陈述，发行和演讲，需要得分，并且手动进行手动需要比Wikipedia更加敬业的志愿者会比Wikipedia比Wikipedia更加毫无疑问（他们都可以肯定，他们都必须予以承受，或者他们都必须予以承担，或者有一定的努力，或者是一定要予以宣布，而这一切都可以使您能够承受。第一次每次（不可能）。 出于道德原因，我不想为此使用LLM。 我一直在研究NLP和情感分析，但是我认为这将很难解释它需要的所有关键字，它将需要的所有关键字，它将不理解讽刺或愚蠢的人，我需要奇怪的是，我需要浪费很多pee（我都需要一个愚蠢的工作（我）（我都需要;黄油！尽管他们实际上很积极地战斗，因此可能会在情绪分析中产生负面影响，因此负面的情绪并不意味着负面意见）。 对此有一个困难，有任何建议，或者我要求不可能吗？    &lt;！提交由＆＃32; /u/userisinto   href =“ https://www.reddit.com/r/webdev/comments/1j7q32d/nonllm_alternatives_for_llm_tasks/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7q32d/nonllm_alternatives_for_llm_tasks/</guid>
-      <pubDate>Mon, 10 Mar 2025 03:59:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
