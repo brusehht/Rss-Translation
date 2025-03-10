@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 10 Mar 2025 03:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 06:18:47 GMT</lastBuildDate>
+    <item>
+      <title>自动将LinkedIn帖子自动在您的网站上（不再有屏幕截图或复制播放！）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7s0f5/autoembed_your_linkedin_posts_on_your_website_no/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，  i构建linked2web，该工具自动获取并嵌入您的LinkedIn帖子在您的网站上，而无需IFRAMES！如果您定期在LinkedIn上发布并希望您的网站在不付出的努力的情况下保持更新，这可能会有所帮助。显示LinkedIn帖子（无手动工作）✅完全可自定义的布局（网格，轮播等）✅SEO友好友好型嵌入（作为本地内容呈现）✅noiframes =更快的载荷时间 如果您经营着企业或个人品牌，并且不断地更新您的网站，并且不断地更新您的网站   p&gt; p&gt; p&gt; p&gt;其他人尝试将其LinkedIn内容自动化到他们的网站吗？您如何做？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ok_nobody1410     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7s0f5/autoembed_your_your_your_linkedin_posts_on_your_your_website_no_no/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7s0f5/autoembed_your_linkedin_posts_on_your_website_no/</guid>
+      <pubDate>Mon, 10 Mar 2025 06:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>追溯扩展名 - 更好的书签经理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7qqq7/retrace_extension_a_better_bookmarks_manager/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开发了要分享的扩展名！  回顾扩展不仅仅是书签经理。它提供了保存，存储，组织和管理特定在线内容的能力，包括文本，图像，网站页面和YouTube视频。您保存的每个内容都会变成“跟踪”，可以将其分配给不同的组，标记，存档，附加附加笔记，并在回曲仪表板中轻松搜索。在仪表板中重新单击跟踪时，回溯将您直接发送回网站或视频和自动滚动，以使您精确地回到您关闭的地方。   https://chromewebstore.google.com/detail/retrace-extension/amplkfldacpppobiogcnjipegoeekcmimc    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/OceanCoder     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7qqq7/retrace_extension_a_better_bookmarks_manager/</guid>
+      <pubDate>Mon, 10 Mar 2025 04:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>动画CSS量规，带掩模图像和LERP动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7q94k/an_animated_css_gauge_w_a_maskimage_and_lerp/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;态href =“ https://cardboardshark.medium.com/an-animated-css-gauge-w-mask-image-image-mimage-and-lerp-animation-c6a3318f012d”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7q94k/an_animated_css_gauge_w_a_maskimage_and_lerp/</guid>
+      <pubDate>Mon, 10 Mar 2025 04:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM任务的非LLM替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7q32d/nonllm_alternatives_for_llm_tasks/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我处于设计和开发WebApp的早期阶段，该WebApp本质上将托管大量的演讲和发行版，以及来自个人的其他文本文档，并提供“得分”并提供“基于提及主题。这实际上并不是它使用的目的，但是例如，如果演讲说他们喜欢花生酱和果冻三明治，如果网站上涵盖的主题之一是花生酱，则将被视为“个人”。花生酱和他们的花生酱分数会上升。这些陈述可以提及这些主题中的任何一个，并且想法是将它们分级为“ for”。或“反对”这些主题尚未确定，但是从非常反对。 问题是，我期望需要大量的陈述，发行和演讲，需要得分，并且手动进行手动需要比Wikipedia更加敬业的志愿者会比Wikipedia比Wikipedia更加毫无疑问（他们都可以肯定，他们都必须予以承受，或者他们都必须予以承担，或者有一定的努力，或者是一定要予以宣布，而这一切都可以使您能够承受。第一次每次（不可能）。 出于道德原因，我不想为此使用LLM。 我一直在研究NLP和情感分析，但是我认为这将很难解释它需要的所有关键字，它将需要的所有关键字，它将不理解讽刺或愚蠢的人，我需要奇怪的是，我需要浪费很多pee（我都需要一个愚蠢的工作（我）（我都需要;黄油！尽管他们实际上很积极地战斗，因此可能会在情绪分析中产生负面影响，因此负面的情绪并不意味着负面意见）。 对此有一个困难，有任何建议，或者我要求不可能吗？    &lt;！提交由＆＃32; /u/userisinto   href =“ https://www.reddit.com/r/webdev/comments/1j7q32d/nonllm_alternatives_for_llm_tasks/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7q32d/nonllm_alternatives_for_llm_tasks/</guid>
+      <pubDate>Mon, 10 Mar 2025 03:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在客户 /雇主坚持要将其部署到云上的地方工作了多少个项目，并且从未获得过用户群来需要云？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7pyi4/how_many_projects_have_you_worked_on_where_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在我自己的中小型 /中小型项目上思考，这些项目已在共享主机上维护了多年的每年标准$ 90&#39;ISH套餐，以及像彼得·弗里德曼（Lex Fridman）的peter级别的人，他在同一月的同一vps上讨论了托管所有一个月的peth the Lex Fridman podcast，而不是超过4000亿美元的服务器，&lt; 如果您诚实评估，回顾过去的项目：其中有多少人有经理或客户坚持要部署“云”。当他们没有使用最昂贵的选项的用例时？即使在第一十年，它也永远不会达到云必需性阈值的用户群？我正在一个B2B项目中，我们的目标是在最初的几年中增加200家业务，他们认为它应该直接部署到云中，我认为这是一种痴迷而没有原因。在云上，即使将数据输入或移出，也要花钱。即使是Cron的工作频率每次运行都花费额外的钱（我的共享主人连续8年每分钟运行数十个克朗，总计$ 0）。   为了纯粹的讨论，在事后看来，您看到了一些部署到云服务上，最终没有生意，这些项目最终没有生意？     &lt;！提交由＆＃32; /u/spacemanguitar   href =“ https://www.reddit.com/r/webdev/comments/1j7pyi4/how_many_projects_have_you_worked_onwhere_where_ther_the/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7pyi4/how_many_projects_have_you_worked_on_where_the/</guid>
+      <pubDate>Mon, 10 Mar 2025 03:51:46 GMT</pubDate>
+    </item>
     <item>
       <title>您是否需要单独的电子邮件服务提供商：收件箱，交易电子邮件，营销？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j7p6fs/do_you_need_separate_providers_for_email_services/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要建立一个在静态网站上接受小型非营利性业务的网站。这些付款是用于购买年度会员资格的。 我有Web Dev经验，但在该领域没有。我可以从哪里开始？谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j7jzsk/acpecting_membership_payments_for_a_nonprofit/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j7jzsk/accepting_membership_payments_for_a_nonprofit/</guid>
       <pubDate>Sun, 09 Mar 2025 22:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳开发电脑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7jps6/best_pc_for_development/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  推荐的欧盟品牌和模型笔记本电脑用于开发？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/xdblip      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7jps6/best_pc_for_development/</guid>
-      <pubDate>Sun, 09 Mar 2025 22:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTP，域名和创意投资组合网站的托管？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7j47z/ftp_domain_and_hosting_for_creative_portfolio_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Backstory：我是“ Web Designer”在2000年代。基本上，我会在Photoshop上设计一个网站，然后抓住众多免费的HTML/CSS/JS框架和逐件插件之一，我会黑客入侵，并将其拼凑在一起，直到它大部分看起来像我设计的。我用了.... Dreamweaver。不是视觉编辑器，只是HTML/CSS/JS编辑器和FTP接口。  快进到今天。我现在是运动设计师。我还没有跟上网络...并且正在开始运动设计工作室。我需要启动我的网站。  感谢Chatgpt和Grok，我将我的网站放在了本地。我只需要诸如Dreamweaver（带有提示的代码编辑器和良好的FTP同步接口）之类的东西 哦，我也需要一个很好的建议和托管。只是预算。 预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j7j47z/ftp_domain_and_hosting_for_for_for_for_for_portive_portfolio_site/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7j47z/ftp_domain_and_hosting_for_creative_portfolio_site/</guid>
-      <pubDate>Sun, 09 Mar 2025 22:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>请查看我的简历！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7hk2z/please_review_my_resume/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/klupcake       [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7hk2z/please_review_my_resume/</guid>
-      <pubDate>Sun, 09 Mar 2025 21:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为这个想法对于软件测试有意义吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7hcnc/do_you_think_this_idea_makes_sense_for_software/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑构建一种通过Web应用程序导航以在没有手动测试的情况下捕获视觉和功能问题的工具。是的，它也将使用一些AI来识别每个屏幕上最直观的路径（希望我不会在另一个AI网站上使社区感到无聊）。  这个想法是您要告诉它“测试结帐流”之类的内容。它将模拟真实的用户，沿途拍摄屏幕截图并记录其发现的问题。 这样的事情实际上会节省您的时间吗？我很好奇其他人是否像我一样在手动回归测试中挣扎，或者现有的解决方案已经足够适合您。 测试的哪些方面占用了团队的大部分时间？您是否相信AI来处理一些工作负载？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/demotacyfailedme     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7hcnc/do_you_think_this_idea_makes_sense_for_software/</guid>
-      <pubDate>Sun, 09 Mar 2025 20:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>光标或副驾驶员是最好的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7gvqb/cursor_or_copilot_which_one_is_the_best/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/branchpitiful2884     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7gvqb/cursor_or_copilot_which_one_is_the_best/</guid>
-      <pubDate>Sun, 09 Mar 2025 20:30:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
