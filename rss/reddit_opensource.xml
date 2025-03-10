@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Mar 2025 18:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 21:15:15 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以帮助多边形的网络刮板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j89erk/looking_for_web_scrapers_who_can_help_out_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是针对与基于自然的偏移有关的开源，创意共享项目。试图找到可以帮助非斜角多边形的报废者。我们正在尝试审核碳项目的人们。 DM有关更多详细信息。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j89erk/looking_for_for_web_scrapers_who_can_help_help_out_with/&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j89erk/looking_for_web_scrapers_who_can_help_out_with/</guid>
+      <pubDate>Mon, 10 Mar 2025 21:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源AI代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j888hx/open_source_ai_agents/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您是开发人员，您在应用程序中使用的某些开源AI代理是什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/realationFlaky8873     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j888hx/open_source_ai_agents/</guid>
+      <pubDate>Mon, 10 Mar 2025 20:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>在保持混乱游戏的同时，如何在Foobar中播放标签播放列表？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j85xyx/how_do_i_play_a_tabbed_playlist_in_foobar_while/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在foobar2000中设置了5个选项卡播放列表。我希望能够在它们之间切换，但是我不知道如何从特定的播放列表中播放另一首改组的歌曲。如果我只按下顶部的下一个歌曲按钮，它只是从我已经播放的“标签”中播放了一首播放的歌曲。我如何使用播放的歌曲播放另一个播放列表，而不是先播放该播放列表的特定歌曲？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/boge42     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j85xyx/how_do_do_i_i_play_a_tabbed_playlist_in_in_foobar_while/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j85xyx/how_do_i_play_a_tabbed_playlist_in_foobar_while/</guid>
+      <pubDate>Mon, 10 Mar 2025 18:40:38 GMT</pubDate>
+    </item>
     <item>
       <title>在我的开源库中使用第三方BSD-3和MIT许可代码 - 最佳实践？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j84xz7/using_thirdparty_bsd3_and_mit_licensed_code_in_my/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bannert1337     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j7ahou/improving_transparency_clarifying_licenses/</guid>
       <pubDate>Sun, 09 Mar 2025 15:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍伪造：用锈蚀写的炽烈的文件解析器🦀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j79bjc/introducing_ferrules_a_blazingfast_document/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  花了无数小时与python依赖性作斗争，处理时间缓慢以及使用诸如非结构化&gt;的工具的部署头痛之后，我终于捕捉并决定用rust的cratch中的Pars pars pars pars pars pars par。 pdfium，硬件加速的ML推理-R-💪生产：零Python依赖性！单个二进制，易于部署，内置跟踪。 0麻烦！ - 🧠 Smart processing: Layout detection, OCR, intelligent merging of document elements etc - 🔄 Multiple output formats: JSON, HTML, and Markdown (perfect for RAG pipelines) Some cool technical details: - Runs layout detection on Apple Neural Engine/GPU - Uses Apple&#39;s Vision API for high-quality OCR on macOS - Multithreaded processing - Both CLI and HTTP API server available for简单集成 - 与视觉输出的调试模式准确地显示了如何解析您的文档 平台支持：-MACOS：MACOS：全力支持硬件加速度和本机OCR -Linux：支持本机PDFS的整个管道（很快扫描的文档支持即将推出） ，如果您是建立RAG系统并建立了与Python的基于Python的PARSES，请给予PARSESS，并给予Parssers，这是一个尝试！它在MacOS上特别强大，它利用本机API来获得最佳性能。 检查一下： ferrules  api文档： ferrules-api    您也可以安装预制的Cli：           https://github.com/aminediro/ferrules/releases/download/v0.1.6/ferrules-installer.sh | SH   很想听听您的想法和反馈！   P.S。以将铅笔固定在一起的那些金属环命名 - 因为它可以使您的文档保持结构化😉  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/amindiro     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j79bjc/introducing_ferrules_a_blazingfast_document/</guid>
-      <pubDate>Sun, 09 Mar 2025 14:56:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSCRIPTER：我对乏味的AI对代码编辑器工作流的开源解决方案（无API）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j786zm/gscripter_my_open_source_solution_to_the_tedious/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/roe4yte2ke8papursu2d-nvgwixxmgjxedzer0gks5e.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = cb823075853edd4e2ab60606051141ebc468ad9834“ title =“ gscripter：我对乏味的AI-to-to-odode编辑器工作流（无API）的开源解决方案”/&gt;    ＆＃32;提交由＆＃32; /u/u/ususy8mycomputer       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j786zm/gscripter_my_open_source_solution_to_the_tedious/</guid>
-      <pubDate>Sun, 09 Mar 2025 13:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>日光：跟踪日出和日落时间的命令行计划</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j76joe/daylight_a_command_line_program_for_tracking/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/yojimbo_beta        [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j76joe/daylight_a_command_line_program_for_tracking/</guid>
-      <pubDate>Sun, 09 Mar 2025 12:24:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
