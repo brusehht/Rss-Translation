@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 11 Mar 2025 03:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 06:21:33 GMT</lastBuildDate>
+    <item>
+      <title>复制类型教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1j8kdgc/copy_types_tutorial/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/bhh32      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j8kdgc/copy_types_tutorial/</guid>
+      <pubDate>Tue, 11 Mar 2025 06:19:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java中的无名类和主名方法21</title>
+      <link>https://www.reddit.com/r/programming/comments/1j8j2gr/clases_sin_nombre_y_métodos_principales_sin/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;        链接＆＃32; [和]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j8j2gr/clases_sin_nombre_y_métodos_principales_sin/</guid>
+      <pubDate>Tue, 11 Mar 2025 04:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>春季数据JPA：查询派生解释！</title>
       <link>https://www.reddit.com/r/programming/comments/1j8gcxd/spring_data_jpa_query_derivation_explained/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>Hostinger Horizo​​ns 2025：提示，完善，上线（无需代码）</title>
       <link>https://www.reddit.com/r/programming/comments/1j85lt0/hostinger_horizons_2025_prompt_refine_go_live_no/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/ezsou      [注释]   ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ezsou        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j85lt0/hostinger_horizons_2025_prompt_refine_go_live_no/</guid>
       <pubDate>Mon, 10 Mar 2025 18:27:16 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j83a2j/apple_exclaves_iosmacos_internals/</guid>
       <pubDate>Mon, 10 Mar 2025 16:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>sqlite vs.山羊：新实时NODB的令人惊讶的基准结果</title>
-      <link>https://www.reddit.com/r/programming/comments/1j8328y/sqlite_vs_goatdb_surprising_benchmark_results_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们在三周前介绍了山羊，并被社区的回应震惊。您的反馈和兴奋确实超出了我们的期望 - 因此，首先要感谢我们所有人！ 任何人都听到它的人：GoatDB是一个实时的，版本可以控制的DENO和EACTION ENDEATENT的NODB，这是Expectnative，这意味着它只需要最小而没有重型服务器组合，而只需最小的后端基础架构即可。它设计用于原型，自托管，单租户应用程序，甚至是超轻色的多租户设置，如果您想保持最小的后端。 我们听到的最大要求之一是，“基准在哪里？”我们很高兴现在分享它们。这些数字讲述了一个有趣的故事：在某些测试中，我们的分布式启动图架构可能比SQLite慢得多。在其他情况下，它的速度令人惊讶。当您将同步和协作放在首位（而不是磁盘I/O）时，就会发生这种情况。但是，让我们清楚一点：GoatDB不是替换sqlite的替代品。它具有根本不同的架构，旨在实时分布式场景和加密审核，因此它具有自己独特的权衡。 关键要点： - 如果一切都在存储器中，则开放大型存储库可能需要更长的时间（我们正在探索零拷贝格式来解决此问题）。 - 简单的读取和增量查询可能会很快，尤其是并发和实时同步。 - 这不仅是Sqlite包装器，而且具有自己独特的折衷方案是一种根本不同的方法。 ，如果您好奇的话，我们已经记录了如何在文档中运行这些相同基准的方法。再次感谢您的兴奋和支持。我们是一个小型团队，旨在重新想象轻量级数据库可以做什么，而您的反馈使我们受到启发。我们迫不及待地想看看您使用goatdb！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/funny-anding-791       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j8328y/sqlite_vs_goatdb_surprising_benchmark_results_for/</guid>
-      <pubDate>Mon, 10 Mar 2025 16:42:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>潜入900个AI存储库，关键要点！</title>
-      <link>https://www.reddit.com/r/programming/comments/1j82rfs/diving_into_900_ai_repos_key_takeaways/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/himothyjohndoe      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j82rfs/diving_into_900_ai_repos_key_takeaways/</guid>
-      <pubDate>Mon, 10 Mar 2025 16:30:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
