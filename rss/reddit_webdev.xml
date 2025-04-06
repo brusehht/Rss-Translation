@@ -4,111 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 06 Apr 2025 06:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 18:21:58 GMT</lastBuildDate>
     <item>
-      <title>最大呼叫堆栈大小仅在iOS上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsmaki/maximum_call_stack_size_only_on_ios/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的NextJS应用程序在台式机和Android设备上构建并运行得非常好。但是，此错误在iOS上发生（无论浏览器如何） 很难调试，因为它在桌面上没有发生。 为什么仅在iOS上发生这种错误？ iOS是否以不同的方式运行JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/classic-dependent517     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsmaki/maximum_call_stack_size_only_on_ios/</guid>
-      <pubDate>Sun, 06 Apr 2025 04:46:47 GMT</pubDate>
+      <title>我处于死胡同。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jt0jzq/im_at_a_dead_end/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  目前我正在从事一个新项目，并且出于好奇，我要求chatgpt制作ui，扰流板警报：它比我的完美，甚至比我的更好，只有4个单词重复了5次，我为网站做了一个完美的UI。但这是问题所在，我15岁，目前处于编程的学习阶段，我更愿意自己做所有事情，但是他给我的代码真是太好了，我不知道如何改进它。 （这并不是没有缺陷，但它们只是简单的修复）。现在，我不知道在保留chatgpt代码或自己重写所有内容之间该选择什么（最终看起来就像代码chatgpt给了我）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/in intepid_definition5     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jt0jzq/im_at_a_dead_end/</guid>
+      <pubDate>Sun, 06 Apr 2025 18:14:45 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以帮助我了解服务 - 存储库模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsl989/can_someone_help_me_understand_service_repository/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  之前，我正在研究小规模的应用程序，所以我多年来一直忽略了这种模式。但是现在，我想把我的动物放在一个像社交媒体平台一样大的较大项目。 我目前面临的困境是如何构造验证服务和验证储存库，尤其是因为我有一些相关表可以使用：         用户表  - 商店用户信息 社交登录，密码登录等）  个人资料文档  - 存储在无架构数据库（mongodb）     session table   - 商店login session    我已经拥有Auth Service和Reposository。在注册期间，我创建用户，帐户和配置文件。在登录时，我创建了一个会话。 现在，我想知道：可以查询多个存储库或修改同一表？ 我打算为“用户＆quot”创建一个单独的服务和存储库，我可以在其中实现 getuser  getuser  code&gt; gets  get&gt; get&gt; get&gt; get&gt; get&gt; get&gt; get&gt; get&gt; get 我是否误解了这种结构应该如何工作？有人可以在这里引导我吗？提交由＆＃32; /u/wiper-r     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsl989/can_someone_help_me_understand_service_repository/</guid>
-      <pubDate>Sun, 06 Apr 2025 03:42:55 GMT</pubDate>
+      <title>帮助使用多M3U8链接的播放器编码HTML编码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jszyoy/help_with_html_coding_for_player_with_multi_m3u8/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我认为这只能起作用。一些帮助或洞察力可以使此工作？  ＆lt; html＆gt; ＆lt; head＆gt; ＆lt; meta charset =＆quot“ utf-8＆quot”＆gt; ＆lt; title＆gt;简单的免费HLS播放器示例＆lt;/title＆gt; ＆lt;！ - 包括CDN的HLS.JS  - ＆lt; script src =＆quot; https：//cdn.tutorialjinni.com/hls.js/1.2.1/hls.min.js＆quot;＆gt;＆lt;/script＆gt; ＆lt; style＆gt; / *对于手机： */ .video_scaler {width：256px;身高：144px; } @media仅屏幕和（最小宽度：600px）{ / *对于平板电脑： * / .video_scaler {width：512px;身高：288px; }} @media仅屏幕和（最小宽度：768px）{ / * for Desktop： * / .video_scaler {width：768px;身高：432px; }}＆lt;/style＆gt; ＆lt;/head＆gt; ＆lt;身体＆gt; ＆lt;！ -  html5视频标签 - ＆gt; ＆lt;视频id =“视频” class =＆quort; video_scaler＆quot＆quot控制自动播放src =＆quot; https：//localhost/dp1/index.m3u8&quot;＆gt; src =＆quot; https：//localhost/dp2/index.m3u8&amp; quot;＆gt; src =＆quort; https：//localhost/dp3/index.m3u8&quot;＆gt; src =＆quot; https：//localhost/dp4/index.m3u8&amp; quot;＆gt; ＆lt;/video＆gt; ＆lt;！ - 调用脚本 - ＆gt; ＆lt; script＆gt; if（hls.issupported（））{var video = document.getElementById（&#39;video&#39;）; var hls = new HLS（）; hls.loadsource（video.src）; hls.attachmedia（视频）; } else {alert（无法流hls，使用另一个视频源＆quot;）; }＆lt;/script＆gt; ＆lt;/body＆gt; ＆lt;/html＆gt;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/canadiantrucker77    href =“ https://www.reddit.com/r/webdev/comments/1jszyoy/help_with_html_coding_for_for_player_with_multi_m3u8/”&gt; [link]        &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jszyoy/help_with_html_coding_for_for_player_with_with_with_multi_m3u8/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jszyoy/help_with_html_coding_for_player_with_multi_m3u8/</guid>
+      <pubDate>Sun, 06 Apr 2025 17:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>寻找网站提案模板和建议，以宣传完整的重新设计 +自定义后台办公室</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsk8rt/looking_for_website_proposal_templates_advice_for/</link>
-      <description><![CDATA[Hey everyone 👋 I’m working on a presentation for a client who is a leading company specializing in professional training, certification, and international recruitment. They want to:  Redesign their existing website (modern, clean, and responsive) Add a fully dynamic back office to manage everything (job offers, training会议，博客文章，员工资料等）  我目前正在准备一个演示文稿来推销整个项目 - 主要关注：  解释未来网站的功能 显示视觉效果的特征我正在寻找：   示例或模板  用于类似的Web项目建议或俯仰甲板（PowerPoint，PDF，PDF，Canva，Figma，Figma ...无论有效任何有效的工作）     建议 在我没有达到ui i的最佳时， 视觉效果”而不会误导客户或使设计看起来像是已经进行了  如果您在类似的客户演示文稿上工作或有建议的资源，我很想听到您的想法🙏也可以对结构，视觉效果的任何反馈或见解开放，或者包括。提交由＆＃32; /u/aymsep   href =“ https://www.reddit.com/r/webdev/comments/1jsk8rt/looking_for_website_website_proposal_templates_advice_for/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsk8rt/looking_for_website_proposal_templates_advice_for/</guid>
-      <pubDate>Sun, 06 Apr 2025 02:42:57 GMT</pubDate>
+      <title>我构建了一个纯股票投资组合图表堆叠应用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jszxcj/i_built_a_feonly_stock_portfolio_chart_stacking/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最初为自己的使用而构建了它 - 我喜欢能够同时查看股票投资组合的所有图表。但是，由于仅是Fe（因此在基础架构中不花任何费用），所以我认为我会对其进行一些修饰并发布，以防其他人觉得它有用。  这很简单 - 基本上，您为您的持有量添加了所有股票符号，并且为每个股票显示了一个tradingview图表小部件。您还可以自定义一些内容，例如在图表，主题，时间范围等上所需的任何研究和指标，并且所有内容都存储到LocalStorage中，因此无需注册，但是您的投资组合仍然会在浏览器会话中持续存在。您还可以获取一个链接，将您的投资组合共享到另一台设备。 它应该支持TradingView拥有图表的任何乐器，但是我还没有对其进行测试。  无论如何，它在这里： Chart-stack.com    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/runny-yolk     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jszxcj/i_built_a_feonly_feonly_feonly_stock_stock_portfolio_chart_stacking/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jszxcj/i_built_a_feonly_stock_portfolio_chart_stacking/</guid>
+      <pubDate>Sun, 06 Apr 2025 17:48:06 GMT</pubDate>
     </item>
     <item>
-      <title>vue风格的反应性无效</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsiacq/vuestyle_reactivity_without_vue/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我喜欢vue反应状态系统。这是明确的。找不到任何感觉正确的东西，所以我构建了反应性代理状态。 这是一个使用代理的深度反应系统，类似于VUE 3。没有UI层，没有框架。与大多数JS类型一起工作，并让您从变更事件中重建状态。 来源和示例： https：// https：//github.com/yiin/yiin/reactive-proxy-proxy-state itsement  portsose hisse hisse hore port     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sedacoolnickname     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsiacq/vuestyle_reactivity_without_vue/</guid>
-      <pubDate>Sun, 06 Apr 2025 00:52:54 GMT</pubDate>
+      <title>基于灯塔性能的Pro Bono演出音调 - 我应该如何处理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsz3vk/pro_bono_gig_pitch_based_on_lighthouse/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有一家公司的产品，我佩服其产品，该公司经营着一家无头的购物商店，其灯塔得分相当令人沮丧。我的目的是让公司聘请一份专业的咨询工作来调整他们的表现，如果他们看到改进，获得免费产品（这很昂贵！）。 我认为，在预期的投资回报率上提出了一个已知的问题，将提出一个已知的问题。没有看到他们的代码库或了解例如他们的托管，财务等，我能想到的最公共面临的问题领域是灯塔。 有人在这些类型的外展/工作方面有经验吗？我应该考虑有任何策略，框架和/或问题作为初步评估的一部分吗？我应该寻找有关在线改善转换率的任何参考（当然，我会继续寻找）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/live_rabbits     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsz3vk/pro_bono_gig_pitch_based_on_lighthouse/</guid>
+      <pubDate>Sun, 06 Apr 2025 17:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具，可以从GitHub或Dribbble中几秒钟内构建您的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jshq5b/i_made_a_tool_that_builds_your_portfolio_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！我的名字叫卢卡斯（Lucas），我今年17岁，我是一个有抱负的独立黑客，我为今年设定了一个挑战，要在8月18日满18岁之前启动尽可能多的项目。 三月，我建立了 清洁设计。一单击上线。零绒毛 → https://devfol.io    我已经为此做了很多工作，希望至少一个人能发现它有用！我很想听听所有重要的反馈：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unfair_praline2017     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jshq5b/i_made_a_tool_that_builds_your_portfolio_in/</guid>
-      <pubDate>Sun, 06 Apr 2025 00:22:55 GMT</pubDate>
+      <title>[django] CSS负载，但样式不适用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsyxzz/django_css_loads_but_styles_do_not_apply/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  根据“开发人员控制台网络”选项卡。 ，但我不知道为什么它不是style.css我的服务器服务。&lt; /p&gt; 当我做a find /print;我只得到我的style.css路径。静态和静态文件中的一个。 ，但是当我加速域时，我会得到完全不同的样式。css。是的，我确实重新加载了静态文件，并且确实清洁了缓存。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jsyxzz/django_css_loads_but_styles_do_do_do_not_apply/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsyxzz/django_css_loads_but_styles_do_not_apply/</guid>
+      <pubDate>Sun, 06 Apr 2025 17:06:23 GMT</pubDate>
     </item>
     <item>
-      <title>爬网站的开源工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsh9gd/open_source_tool_to_crawl_a_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我正在寻找一个可以爬网的工具，该工具;    https://Domain.com/productDetails.php?id=#### I would then like it to just tell me which ID #&#39;s load a product and don&#39;t say, &quot;Product with ID # do not exist&quot;. 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aningannoys     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsh9gd/open_source_tool_to_crawl_a_site/</guid>
-      <pubDate>Sat, 05 Apr 2025 23:58:59 GMT</pubDate>
+      <title>寻找有关选择JS框架的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsx5a5/looking_for_advice_on_choosing_a_js_framework/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的背景：我是一个完整的堆栈开发者，熟悉react，主要是使用nextjs，并且已经与AngularJS和AngularJS一起工作（我认为我使用的最后一个版本是8个？）。从旧的DHTML天开始，我就一直在使用JS。 我最近开始了一个个人项目，在该项目中，我构建了API（Python），并刚刚开始从事FE。由于NextJS在React框架中一直很受欢迎，因此我几年前就学会了工作，并将其用于个人项目一段时间。这总是有些令人沮丧，因为他们的API路线之类的东西，但是我几乎没有麻烦地完成简单的项目。即使我学到的工作也只用作导出的静态FE，而不是让服务器运行用于服务器组件。 今天，我注意到一篇文章，说明了某些公司为什么要离开NextJS，这导致我引导了一个搜索孔，试图更好地了解他们为什么这样做。我已经看到了许多抱怨，但在大规模项目中，它们似乎更具针对性。也就是说，许多文章/帖子也引起了人们对Vercel采取NextJs的方向的担忧。 所提出的替代方案主要是回到React Basics，并将React Router用于页面管理。对我来说，NextJS主要是所有经理的方便路由器 +。作为一个不是超级FE知识渊博的人，我不必太担心构建，而是将其留给下一个。但是，在NextJS之前，我曾经用Angular进行个人项目。 Angular是“我的方式或高速公路”。一种工具，我不介意，但是对于小型项目来说，这太多了，这使我学习了React和NextJ。 现在我们在这里。我没有那么多地遵循FE趋势，我希望人们能给我反馈，以便我对NextJS趋势的阅读过多，或者如果我没有看到/注意到我应该利用的东西，无论是个人项目还是我自己的职业轨迹。个人项目是学习新工具的好地方，在这种情况下，无论是角度还是反应路由器，还是坚持我所知道的和改进它。同样，如果有人知道好的网站/人们要遵循以公正的方式跟上趋势，我也很想了解这一点。我永远不会学习所有框架/工具，也不想学习。如果NextJS的问题真的是在大型公司打交道，那么我可以坚持下去。如果有什么东西，这听起来像是交换和学习其他东西的好时机，如果没有其他原因，那就是学习新东西。哎呀，我记得很长一段时间以来，Angular即将朝基于组件的方法迈进，但如果他们确实这样做，则永远不会跟进。提交由＆＃32; /u/gamersplane     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsx5a5/looking_for_advice_on_choosing_a_js_framework/</guid>
+      <pubDate>Sun, 06 Apr 2025 15:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果您是自学成才的，那么您怎么知道自己准备开始寻找工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsh2aw/if_you_are_selftaught_how_would_you_know_you_are/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我问这个问题，因为我处于需要工作的位置，但是我感觉到我还不了解，或者我需要学习更多。我不知道我是在准确地评估自己的技能水平，还是我只有冒名顶替综合症。  I&#39;ve been practicing Frontend for years but I got to practicing React over 2 years ago, I know React, recently started working with and learning Nextjs, I use Tailwind, Typescript, Zustand, I know git decently well and I have over 100 repositories on my GitHub account with good activity for 2024 and 2025 and activity going back to 2021. I&#39;ve built CRUD apps, static pages,将无花果设计转换为网站，我擅长移动响应能力，我现在完成了一个完整的堆栈电子商务应用程序，其中包括supabase，下一个和TS。 我也曾与客户一起工作，所有这些都在上升了，所有这些都给了我很棒的评论，但是这些项目很小。&gt;   我不知道我无法找到我的声音，我可以找到我的声音，我想我能做到我，我想知道我的声音，我想知道我的声音了，我能做我的事，我想知道，我是我的，我想知道，我是我的，我想知道，我想知道，我能找到我的声音了，我能找到我的声音了，我可以这样做，我想知道，我能找到我的声音。失败，这使我无法同时应用自由演出和全职/兼职职位。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jsh2aw/if_you_are_are_ersettaught_how_would_you_know_you_you_are/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsh2aw/if_you_are_selftaught_how_would_you_know_you_are/</guid>
-      <pubDate>Sat, 05 Apr 2025 23:48:40 GMT</pubDate>
+      <title>这是一个少量的hack：</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsx25t/heres_a_little_margin_hack/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/utsav_0       [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsx25t/heres_a_little_margin_hack/</guid>
+      <pubDate>Sun, 06 Apr 2025 15:44:17 GMT</pubDate>
     </item>
     <item>
-      <title>构建了用于将文本转换为HTML子弹点列表的简单工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsgd6y/built_simple_tool_for_converting_text_into_html/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  使用Vanilla JavaScript构建一个简单的Web工具，用于将文本从Word或Plain Text Editor转换为HTML Bullet Point Point Lists（＆lt; Ul＆gt;）。这是一个非常重点的用例。不沸腾海洋，而是要在不使用完整的降价工具的情况下生成HTML子弹点时消除乏味。 See it here: https://thisdavej.com/html-bullet-point-maker-convert-text-to-ul-lists/   提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jsgd6y/built_simple_simple_tool_for_for_for_for_text_text_into_html/”&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsgd6y/built_simple_tool_for_converting_text_into_html/</guid>
-      <pubDate>Sat, 05 Apr 2025 23:13:20 GMT</pubDate>
+      <title>如何知道某人是否是一个好的网络开发人员/程序员而没有自己？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jswiip/how_to_know_if_someone_is_a_good_web/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hello webdevs！ ：） 我正在与一个有可能成为我拥有的市场业务理念联合创始人的人一起从事一个项目。当这个人从事原型工作时，我正在处理物流和小型营销团队，并且是唯一一个从事软件开发的人（由于他们的坚持）。已经四个月了，我们仍然没有基本网站。我是偏执狂还是实际上花了很长时间才能为市场构建基本模板？甚至没有客户可以使用的东西，而是我们可以显示的基本内容来获得反馈。我不想犯一个可怕的错误，真的可以利用如何判断他们的工作的智慧。我们只有一个首页模板和两个人从图书馆复制的完成页面。我也担心他们可能会夸大自己的资格，因为我最近了解到这个人在编码的每个步骤都在使用Chatgpt。这是正常的吗？任何帮助都将受到赞赏。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/traumatishiseavngr     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jswiip/how_to_know_if_someone_is_a_good_web/</guid>
+      <pubDate>Sun, 06 Apr 2025 15:20:04 GMT</pubDate>
     </item>
     <item>
-      <title>2025年最佳SEO实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsg8iv/best_seo_practices_of_2025/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  共享一些您可能使用的工具来提高被遗忘的网站的SEO，以及一些有用的建议，可以提高其排名和可见性   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wadiezn     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsg8iv/best_seo_practices_of_2025/</guid>
-      <pubDate>Sat, 05 Apr 2025 23:07:02 GMT</pubDate>
+      <title>学习制作点击的UX：动机，思维游戏和心理模型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsw5z8/learning_to_make_ux_that_clicks_motivation_mind/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我正在探索UX的世界，并开始更加接触其心理方面。 I came across BJ Fogg’s Behavior Model, Dual Process Theory, and some ideas from Behavioral Economics. Based on what I learned, I put together a small article connecting these three psychological concepts with UX. You can check it out here, Hope it helps in your webdev journey :)   https://journal.hexmos.com/ux-principles/ 提交由＆＃32; /u/u/lordwiz360     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsw5z8/learning_to_make_ux_that_clicks_motivation_mind/</guid>
+      <pubDate>Sun, 06 Apr 2025 15:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>NHL统计查看器 - 现代曲棍球分析仪表板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsfom9/nhl_stats_viewer_modern_hockey_analytics_dashboard/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  时尚而现代的Web应用程序，可视化NHL播放器和团队统计信息，具有优雅的数据可视化和实时更新。 Built with PHP and JavaScript. Key Features:  Advanced player analytics including offensive/defensive metrics Interactive charts showing player performance metrics Live game tracking and scoring updates Team statistics and standings visualization Dark/light theme support 所有设备的响应式设计   UI具有干净的动画，数据可视化和直观的布局，使复杂的曲棍球统计数据易于理解。 快速视频旅行：演示： https://nhlplay.online/      为曲棍球分析爱好者和休闲迷。所有统计信息均通过官方NHL数据实时更新。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/bobemil     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsfom9/nhl_stats_viewer_modern_hockey_analytics_dashboard/</guid>
-      <pubDate>Sat, 05 Apr 2025 22:40:10 GMT</pubDate>
+      <title>寻找用于简单论坛类型网站的指示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsuq62/looking_for_direction_on_what_to_use_for_a_simple/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！到目前为止，我在设计网站上使用Ruby和HTML有一些经验。现在，我需要在类的服务器上运行一个可以访问它的服务器的数据库。在这两个中使用的最佳程序是什么？这并不复杂，基本上是论坛样式信息，具有不同的帐户，具有不同级别的有关帖子的权限。有建议吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/benslow_layer_458     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsuq62/looking_for_direction_on_what_to_use_for_a_simple/</guid>
+      <pubDate>Sun, 06 Apr 2025 13:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助创建论坛网站的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsf7tl/need_help_with_creating_a_forums_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我使用github页面托管网站（免费且有效。）我想创建一个论坛网站，但是我只有HTML和CSS的经验。我尝试使用MYBB和其他软件之类的东西，但是我正在努力寻找易于设置的东西。另外，我需要知道如何设置与GitHub页面一起使用的MySQL数据库。任何帮助将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/foamyHotsoup    href =“ https://www.reddit.com/r/webdev/comments/1jsf7tl/need_help_with_with_creating_a_a_forums_site/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsf7tl/need_help_with_creating_a_forums_site/</guid>
-      <pubDate>Sat, 05 Apr 2025 22:17:45 GMT</pubDate>
+      <title>我达到100，但结局是否证明了手段？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsuni2/i_reached_100_but_does_the_end_justify_the_means/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我的某些方法可能是有争议的。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stuart_nz      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jsuni2/i_reached_100_100_but_does_end_end_end_end_justify_mean_means/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsuni2/i_reached_100_but_does_the_end_justify_the_means/</guid>
+      <pubDate>Sun, 06 Apr 2025 13:55:04 GMT</pubDate>
     </item>
     <item>
-      <title>现在制作了我的第一个饼干以进行安全</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jseq62/made_my_first_cookies_now_for_security/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这样我就可以使cookies变得酷。在开发人员工具中，我可以在会话中看到我的cookie。 所以问问题。我觉得我不应该将用户ID存储在cookie中。 ，如果我希望数据仅在会话中持续。我基本上会将此cookie存储在数据库中作为sessionID，并且在某人登录时与用户ID匹配。 示例。匹配，然后使用UserId获取数据并返回。 我可能错了...但是这是可以解决的方法吗？由于如果有人篡改cookie客户端方，它与数据库中的任何内容都不匹配，因此它会丢弃错误（尝试捕获块）并使您重新登录或登录。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jseq62/made_my_my_first_cookies_now_now_for_security/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jseq62/made_my_first_cookies_now_for_security/</guid>
-      <pubDate>Sat, 05 Apr 2025 21:54:32 GMT</pubDate>
+      <title>如果鼠标光标是手</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsuiul/if_the_mouse_cursor_was_a_hand/</link>
+      <description><![CDATA[    视频链接&lt; /p&gt;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jsuiul/if_the_mouse_mouse_cursor_was_a_a_hand/”&gt; [link]   ＆＃32;   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsuiul/if_the_mouse_cursor_was_a_hand/</guid>
+      <pubDate>Sun, 06 Apr 2025 13:48:46 GMT</pubDate>
     </item>
     <item>
-      <title>高中生首先！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jse84y/highschooler_first_saas/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我真的为我的第一个SaaS感到骄傲，只需要分享它！ 😊 我刚刚启动了  cardStack.dev    - 一个平台，您可以在其中设计和显示自己的数字开发人员身份证          github和社交  用主题和样式自定义您的卡   加入公共画廊，与其他Devs     完全自由创建和共享          我会添加您的反馈，并且您会添加很多东西！ 感谢您阅读🙏在此处查看：   cardStack.dev       &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/repcollectorz       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jse84y/highschooler_first_saas/</guid>
-      <pubDate>Sat, 05 Apr 2025 21:31:01 GMT</pubDate>
+      <title>🚀终极跨平台离线解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jstmc3/ultimate_crossplatform_offlinefirst_solution/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jstmc3/ultimate_crossplatform_offlinefirst_solution/</guid>
+      <pubDate>Sun, 06 Apr 2025 13:02:33 GMT</pubDate>
     </item>
     <item>
-      <title>[更新]打击 - 带有徽章的网站 / github仓库的跟踪访问</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jse22r/updates_hits_counter_track_visits_of_your_website/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  为项目带来一些更新！  从评论中获取了建议，并将域名切换到添加了历史数据或每个跟踪URL   会有更多更新，如果您有任何建议，请告诉我！  嗨，大家好！由于最近关闭了 hits.seeyoufarm.com ，我决定使用nuxt。 href =“ https://hitscounter.dev”&gt; https://hitscounter.dev   如果您有您想要的建议或功能，请让我知道！    &lt;！提交由＆＃32; /u/u/donnydonzou      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jse22r/updates_hits_counter_track_visits_of_your_website/</guid>
-      <pubDate>Sat, 05 Apr 2025 21:23:15 GMT</pubDate>
+      <title>代码中此功能的名称...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsmzs0/the_name_of_this_feature_in_code/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  已解决 - 感谢 u/mawngewse 在  {editor.quicksuggestions;：{{; commend;：&#39;&#39;off&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;; quot; quot; quot; quot; quot; }，“ editor.suggestontrigghacters”：false，editor.parameterhints.enableds.enabled＆quot;：false，editor，; “关闭” }      https：///i.imgur.com/zn1d2wo.png      几乎不可能在任何机上进行搜索，实际上是在任何搜索上都没有任何范围。拜托，为了我的理智，我剩下什么小头发，达夫（Dafuq）叫？ ...如果您能如此沉迷，我该如何从我的生活中弹出它？  ...这是一个自动填充的积极的Z-Index Pane **我的屁股中的一个窗格 *非常感谢，我爱你。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jsmzs0/the_name_of_this_feature_in_code/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsmzs0/the_name_of_this_feature_in_code/</guid>
+      <pubDate>Sun, 06 Apr 2025 05:31:57 GMT</pubDate>
     </item>
     <item>
-      <title>试用我们已构建的光标（或任何基于VS代​​码的IDE）的E2E Web测试扩展。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsdy6l/try_out_the_e2e_web_test_extension_to_cursor_or/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们的squidler.io扩展名确实在没有任何测试用例的情况下进行探索性网络测试，您在本地运行的内容 - 功能性测试，可访问性和拼写以及语法而无需努力。在光标中，您还可以自动解决所发现的问题。尝试一下，让我知道。您的反馈对我们来说将是非常有价值的！ sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ushsmashbashdash      [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsdy6l/try_out_the_e2e_web_test_extension_to_cursor_or/</guid>
-      <pubDate>Sat, 05 Apr 2025 21:18:13 GMT</pubDate>
+      <title>您最喜欢获取无许可证模板的地方在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsiicp/where_is_your_favorite_place_to_get_license_free/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直是Ol&#39;可靠W3的粉丝，尽管有限。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/theonlypostevermade   href =“ https://www.reddit.com/r/webdev/comments/1jsiicp/where_is_is_your_your_favorite_fairite_to_to_to_get_to_license_free/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsiicp/where_is_your_favorite_place_to_get_license_free/</guid>
+      <pubDate>Sun, 06 Apr 2025 01:04:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
