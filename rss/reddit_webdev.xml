@@ -4,20 +4,41 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 12 Apr 2025 01:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 03:31:32 GMT</lastBuildDate>
+    <item>
+      <title>谁能帮助我找到这个库，让您在滚动时解释代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jx81rk/can_anyone_help_me_find_this_library_that_lets/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  很久以前，我遇到了一个出色的小JavaScript软件包，该软件包是代码记录仪/解释器。例如，如果您正在解释气泡排序，则可以添加：   const bubblesort =（arr）=＆gt; {    }   在滚动时，您可以将行添加到该功能中，并且可以执行一些动画并直接更新函数。您可以将页面分为二，左侧具有更新功能片段，并解释右侧的更改。  我忘了添加书签包，chatgpt或搜索也没有真正有助于找到它。主持该演示的网站表示，该网站正在高层公司（Google，Microsoft）使用。它是免费的。感谢您阅读！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dadumdada     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jx81rk/can_anyone_help_help_me_find_this_this_library_that_lets/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jx81rk/can_anyone_help_me_find_this_library_that_lets/</guid>
+      <pubDate>Sat, 12 Apr 2025 03:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的网站实际上正在引起关注，我很害怕。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jx7p6b/my_website_is_actually_getting_attention_and_im/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以...我通过Cloudflare拥有自己的域，它很小，而且不是超级酷，Cody和Techy，但我付出了很多努力。它具有摄影，动画和关于我的页面之类的内容，主要是为了...我也分享了它，但我尚未分享它，但它却获得了点击。  这很棒，但我不知道现在该怎么办，这很奇怪。我应该合并博客条目吗？还是其他讨论？我只是觉得这不是超级有趣，但我想保持这个小的交通球滚动。  我不知道。我只是对此感到紧张。其他人会这样吗？就像我有一个很小的公众观众，现在我对我在网站上的所有内容都感到非常了解，想知道它是肮脏的还是愚蠢的。  即使就像5位新观众一样，这是一个跳跃，因为有5个人刚刚看到我的艺术品吸收了流血和眼泪。啊！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jx7p6b/my_website_is_istally_getting_attention_attention_attention_and_im/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jx7p6b/my_website_is_actually_getting_attention_and_im/</guid>
+      <pubDate>Sat, 12 Apr 2025 03:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些元版权许可不好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jx7a8u/are_these_meta_copyright_licenses_bad/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我最近注意到，在构建React App时，在结果文件中，这些元/React许可术语在构建React App时，这些术语始终嵌入了“结果” Assets/Xyz.js.js.js.js.js.js.js.js.js.js.js.js＆quot＆quot＆quord还是这些是新事物？用元版版权贴贴的生产文件似乎有点关闭...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/helo3dpk      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jx7a8u/are_these_meta_copyright_licenses_bad/</guid>
+      <pubDate>Sat, 12 Apr 2025 02:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站被黑客入侵？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jx7a37/site_hacked/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  嗨，我制作了一个简单的普通html网站，并使用github页面发布了它。然后我把它倒下了。前几天，我去了URL，并与这个外国在线插槽广告相遇了？ 这是如何发生的？如何防止它再次发生？欢呼  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/11oser       [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jx7a37/site_hacked/</guid>
+      <pubDate>Sat, 12 Apr 2025 02:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>是否有人对整个前端代码库进行了大修，如果是，您这样做的标准是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jx4xjc/has_anyone_overhauled_an_entire_frontend_codebase/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有人对整个前端代码库进行了大修，如果是，您这样做的标准是什么？初中开发人员在这里很快就开始新工作，成为三人团队的前端工程师。他们给了我尽早阅读对代码库的访问。我正在继承一个使用香草JS和SCSS的6岁创建React应用程序。瞥了一眼代码库后，它似乎并不令人生畏，我将其描述为一个中小型项目（backage.json中的50个依赖项）。但是，有零测试，只是一个简单的构建和部署检查。在GitHub回购中，我看到了很多带有hotfixes的分支。没有设计系统。低质量代码。无ts。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stustry-finish4578     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jx4xjc/has_anyone_overhauled_an_entire_frontend_codebase/</guid>
       <pubDate>Sat, 12 Apr 2025 00:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>要求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jx4d3e/request/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个我需要构建的网站。我已经完成了大部分内容，但我需要另一个页面，一些数据库以及连接到已经构建的页面的数据库。我现在无法努力，因为我太忙了其他工作。这真的很基本。 DM我以获取详细信息。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/macaronacrobatic946     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jx4d3e/request/</guid>
-      <pubDate>Sat, 12 Apr 2025 00:01:16 GMT</pubDate>
     </item>
     <item>
       <title>弹出聊天框很烦人！</title>
@@ -64,7 +85,7 @@
     <item>
       <title>将您的应用程序启动并在几秒钟内运行！ auth，db，订阅，AI聊天等等。</title>
       <link>https://www.reddit.com/r/webdev/comments/1jx2hcp/get_your_app_up_and_running_in_seconds_auth_db/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  启用AI的编码是一个巨大的加速。我可以在几分钟之内启动一个很酷的新功能演示。但是我最终会在测试，扁平，清理意大利面条，代码重复，种族条件，不必要的并发症，固定组件之间的紧密耦合？那真是疯了。  我开始构建一个可以重复使用的应用程序框架。我认为这是一个典型的问题，为什么不与他人分享我的作品？这是我所拥有的： 预先构建的验证，数据库，订阅，ai chat    supabase auth   supabase db   stripe订阅       Designed in abstract to support multiple providers  We&#39;ll set up Gemini, Claude, Perplexity, Deepseek, etc too  Saves user history Users can continue conversations  Layered API structure  Supabase edge functions backend Zustand store state管理 无状态的安息api客户端 脱钩的前端   多平台的monorepo  - 一个后端，一家商店，一个API       web应用程序：react，html，html，html，html，htwind web app  Windows window/windows window&gt; rust &lt;&gt;  android：react-native（尚未准备就绪）  ios：react-native（尚未准备就绪）  pnpm     用户管理＆amp;分析（今天新鲜，尚未完全测试！）   Google G4   chatwoot  用户注册电子邮件列表（仍然需要挂钩） 抽象方法 旨在支持大多数现有的电子邮件自动化平台   li/li/li&gt; 测试＆amp;集成  本质上是所有功能＆amp;函数单元和集成测试  deno在后端进行了DENO测试  api和Web Frontend的Vitest     数据库和部署     supabase edgions功能良好go  go     supabase confip文件，应设置hooks＆amp＆amp＆amp＆amp＆amp＆amp＆amp; amp; amp; amp; amp; amp; amp; amp;功能自动  supabase迁移文件准备运行 准备在NetLify   NetLify配置文件设置  这几乎都是由螺栓，可爱和光标构建的。我们可能不得不放下MonorePo和NPM才能做到这一点。 ：/ 一些很酷的东西 - 条纹产品会自动更新。我们在条纹中看到新产品，填充您的数据库，而前端会生成一张卡以向用户显示。如果您删除或存档产品，它将在相反的情况下进行。 我现在为AI提供商设置了该产品，因此他们的模型更新也会自动发生。  大多数所有用户都使用.env设置了大多数用户，因此您可以修改一个文件以自定义自己的帐户部署。获取条纹键＆amp; webhooks，您的OpenAi键等，将它们插入您的.env，然后您去。放入Google Analytics（ChatWoot，Mixpanel和套件）中，您应该滚动。 您可以将其扔进光标，并拥有您需要工作的所有东西，可靠和测试。 。 准备就绪时，在准备好时，跳到netlify，与您的github相连，连接到您的supabase，splaf in y hof app app app app app app in！ This thing will save you around 25 million tokens getting a basic user environment in place, ignoring what it takes to build and pass unit and integration tests and handle all the edge function and webhook sync. I think we&#39;re at probably around $100 value in saved tokens - and a lot more in saved time and stress - but I&#39;ll give away copies to the first people who sign up and start giving me feedback. See it running at  paynless.app ，在 github 上分叉。我很想得到您的反馈！  注意：提供的是，没有任何保证或保证明确或暗示。我们使它起作用了，但是有些事情还没有完成，可能已经错过了，或者仅对我们起作用。我们不知道您将如何处理。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jx2hcp/get_your_app_app_up_up_and_running_in_seconds_auth_db/”&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  启用AI的编码是一个巨大的加速。我可以在几分钟之内启动一个很酷的新功能演示。但是我最终会在测试，扁平，清理意大利面条，代码重复，种族条件，不必要的并发症，固定组件之间的紧密耦合？那真是疯了。  我开始构建一个可以重复使用的应用程序框架。我认为这是一个典型的问题，为什么不与他人分享我的作品？这就是我所拥有的： 预先建造的验证，数据库，订阅，ai chat    supabase auth   supabase db   stripe uscriptions        Designed in abstract to support multiple providers  We&#39;ll set up Gemini, Claude, Perplexity, Deepseek, etc too  Saves user history Users can continue conversations  Layered API structure  Supabase edge functions backend Zustand store state管理 无状态的安息api客户端 脱钩的前端   多平台的monorepo  - 一个后端，一家商店，一个API        web应用 android：react-native（尚未准备就绪）  ios：react-native（尚未准备就绪）  pnpm     用户管理＆amp;分析（今天新鲜，尚未完全测试！）   Google G4   chatwoot  用户注册电子邮件列表（仍然需要挂钩） 抽象方法 旨在支持大多数现有的电子邮件自动化平台   li/li/li&gt; 测试＆amp;集成  本质上是所有功能＆amp;函数单元和集成测试  deno在后端进行了DENO测试  api和Web Frontend的Vitest     数据库和部署     supabase gend functions go go  go   supabase配置文件应设置hooks＆amp＆amp＆amp＆amp＆amp＆amp＆amp＆amp;功能自动  supabase迁移文件准备运行 准备在NetLify   NetLify配置文件设置  这几乎都是由螺栓，可爱和光标构建的。我们可能不得不放下MonorePo和NPM才能做到这一点。 ：/ 一些很酷的东西 - 条纹产品会自动更新。我们在条纹中看到新产品，填充您的数据库，而前端会生成一张卡以向用户显示。如果您删除或存档产品，它将在相反的情况下进行。 我现在为AI提供商设置了该产品，因此他们的模型更新也会自动发生。  大多数所有用户都使用.env设置了大多数用户，因此您可以修改一个文件以自定义自己的帐户部署。获取条纹键＆amp; webhooks，您的OpenAi键等，将它们插入您的.env，然后您去。放入Google Analytics（ChatWoot，Mixpanel和套件）中，您应该滚动。 您可以将其扔进光标，并拥有您需要工作的所有东西，可靠和测试。 。 准备就绪时，在准备好时，跳到netlify，与您的github相连，连接到您的supabase，splaf in y hof app app app app app app in！ This thing will save you around 25 million tokens getting a basic user environment in place, ignoring what it takes to build and pass unit and integration tests and handle all the edge function and webhook sync. I think we&#39;re at probably around $100 value in saved tokens - and a lot more in saved time and stress - but I&#39;ll give away copies to the first people who sign up and start giving me feedback. See it running at  paynless.app ，在 github 上分叉。我很想得到您的反馈！  注意：提供的是，没有任何保证或保证明确或暗示。我们使它起作用了，但是有些事情还没有完成，可能已经错过了，或者仅对我们起作用。我们不知道您将如何处理。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jx2hcp/get_your_app_app_up_up_and_running_in_seconds_auth_db/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jx2hcp/get_your_app_up_and_running_in_seconds_auth_db/</guid>
       <pubDate>Fri, 11 Apr 2025 22:29:20 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[    src =“ https://preview.itd.it/yx728fqix9ue1.png？一个可以选择分页，为什么？” /&gt;    &lt;！ -  sc_off-&gt;  据我所知，您是否选择＆quot;加载更多产品”人们很难刮擦您的产品信息  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ballBeamBoy2       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jx16o0/in_ecommerece_which_one_to_choose_for_pagination/</guid>
       <pubDate>Fri, 11 Apr 2025 21:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们刚刚启动了Nile-auth v4.0  - 多租户B2B Web应用程序的开源Auth</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jwze47/we_just_launched_nileauth_v40_opensource_auth_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们只是发货此版本中的新事物：  👥 href =“ https://www.thenile.docs/auth/sdk-reference/nile-js/overview”&gt; sdk docs 和许多https://github.com/niledatabase/nile-js/releases/tag/v4.0.0 We’re building this to solve common pain points in fullstack auth.很高兴回答问题或听取其他人如何解决此问题！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gwen_from_nile     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jwze47/we_just_launched_nileauth_v40_opensource_auth_for/</guid>
-      <pubDate>Fri, 11 Apr 2025 20:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebDev并认识UI/UX的人，您认为您可以在10-20小时内学习UI/UX吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jwzd8c/people_who_are_webdev_and_know_uiux_do_you_think/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，因为html/css/js可以在2周内学习，所以我敢打赌，您可以在10-20小时内学习UI/UX，但是我再也没有参加过任何UI/UX课程，除了一些黑暗的模式外，除了一些黑暗的模式以了解一些Dev如何使用这些黑暗模式赚钱。提交由＆＃32; /u/u/ballbeamboy2     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jwzd8c/people_who_who_are_webdev_webdev_and_knoke_uiux_uiux_do_do_do_do_you_to_to_to_think/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jwzd8c/people_who_are_webdev_and_know_uiux_do_you_think/</guid>
-      <pubDate>Fri, 11 Apr 2025 20:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱好项目托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jwza6k/hobby_project_hosting/</link>
-      <description><![CDATA[在托管它。 这是一个非常简单的DND角色构建器，具有可相互作用的角色表（我也是DM ..） 它是由HTML，CSS，Flask和Postgresdb。 构建的Advance！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fudgeflashy     link&gt; ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jwza6k/hobby_project_hosting/</guid>
-      <pubDate>Fri, 11 Apr 2025 20:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
