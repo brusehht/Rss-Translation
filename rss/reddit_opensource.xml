@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 11 Apr 2025 18:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 01:10:26 GMT</lastBuildDate>
+    <item>
+      <title>想要开始为开源贡献的人指南</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jx2hxf/guide_for_people_who_want_to_start_contributing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  本指南是特定于pytorch的，但受众群是为那些从未为开源贡献的人，并包括逐步指示您的第一个贡献。  https：// https://github.com/pytorch/pytorch/executorch/executorch/executorch/blob/main/main/main/main/docs/source/new-cote/new-corute/new-contributure-puture pr&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/vayable_sun_9225      [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jx2hxf/guide_for_people_who_want_to_start_contributing/</guid>
+      <pubDate>Fri, 11 Apr 2025 22:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮我吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jx0lsg/can_someone_help_me/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi。我是新手。我有一些DMG忘记了我的密码。我愿意付款。我无法弄清楚如何蛮力强迫任何一项。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jx0lsg/can_someone_help_me/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jx0lsg/can_someone_help_me/</guid>
+      <pubDate>Fri, 11 Apr 2025 21:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个关于加密的开源Python项目 - 会喜欢您的反馈！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jx0eyt/i_built_an_open_source_python_project_about/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很高兴分享一个我刚刚完成的Python项目：使用军事级AES-GCM加密的安全GUI工具用于文件加密/解密。这样可以确保文件的保密性和的完整性，使其非常适合处理敏感数据。  🔗github存储库： https://github.com/logand166/encryptor     我喜欢听你的想法！无论是对代码的反馈，改进的建议还是新功能的想法（例如跨平台支持或其他加密算法），都可以随意共享。也欢迎贡献和问题！  事先感谢您的时间和见解！ 🙌  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jx0eyt/i_built_built_an_open_source_python_project_about/   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jx0eyt/i_built_an_open_source_python_project_about/</guid>
+      <pubDate>Fri, 11 Apr 2025 20:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenTelemetry的自动启动量现在对于Node.js稳定了 - 是时候丢弃自定义跟踪意大利面条</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jwzcpl/opentelemetrys_autoinstrumentation_is_now_stable/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于仍在他们的节点应用程序中进行旋转跟踪的任何人：OpenteleMetry的自动启动现在是生产级，并支持Express，HTTP，http，grpc，mongo，mongo，以及与盒子中的更多套装。最小配置。巨大的DX获胜。您基本上介绍了：   bashcopyeditnpm安装U/OpenTelemetry/auto-Insprumentations-node-node    …，然后再停止思考跟踪标头和手动跨度。 10/10建议任何API或服务后端。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/verseeya   href =“ https://www.reddit.com/r/opensource/comments/1jwzcpl/opentelemetrys_autoinstrumentation_is_now_stable/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jwzcpl/opentelemetrys_autoinstrumentation_is_now_stable/</guid>
+      <pubDate>Fri, 11 Apr 2025 20:11:28 GMT</pubDate>
+    </item>
     <item>
       <title>Fydetab二重奏经验</title>
       <link>https://www.reddit.com/r/opensource/comments/1jwv80j/fydetab_duo_experience/</link>
@@ -27,13 +55,6 @@
       <pubDate>Fri, 11 Apr 2025 16:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>愚蠢的支持者？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jwte63/dumb_podometers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我正在寻找Android的准骨跟踪器，该步骤通过加速度计跟踪。我不需要与其他任何设备或跟踪步骤（虽然卡路里跟踪是一个加号）连接的，也不必超级准确，只要它离线运行，当它不开放时，并且不会开放我的数据。 我会在所有事情上都毫无疑问，所以我自己构建一个可以很好的选择。  &lt;！ -  sc_on-&gt;＆＃32; href =“ https://www.reddit.com/r/opensource/comments/1jwte63/dumb_podometers/”&gt; [link]   ＆＃32; href =“ https://www.reddit.com/r/opensource/comments/1jwte63/dumb_podometers/”&gt; [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jwte63/dumb_podometers/</guid>
-      <pubDate>Fri, 11 Apr 2025 16:00:51 GMT</pubDate>
-    </item>
-    <item>
       <title>跟踪金融，make网站，发布博客，任务管理全部来自一个管理员面板</title>
       <link>https://www.reddit.com/r/opensource/comments/1jwsx05/track_finance_make_website_post_blogs_task/</link>
       <description><![CDATA[Hello open source community, Have been working on having an admin panel from where you can track finance (sales, purchase, expense), make website easily, post blogs and do task management. It is a web application using PHP Laravel framework, and Livewire package which is a vue/angular/react like package which helps you build dynamic components, while using laravel语法。   https://github.com/oitcode/samarium     在过去的几个月中，已经进行了许多更新，修复和改进。试图使它变得更好。开源社区的反馈确实很有帮助。在这里与大家共享。 快乐的编码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/southbaseball7761     [link]   [注释]  ]]></description>
@@ -50,7 +71,7 @@
     <item>
       <title>我创建了一个免费的开源工作/休息计时器应用程序 - 余额计时器！</title>
       <link>https://www.reddit.com/r/opensource/comments/1jwrn6g/i_created_a_free_opensource_workrest_timer_app/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/6dhwcm1xp3hnrnvbqlv7go3liw-a6nhgbfxusydmmxm.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 63DCA03BE22481447F70F70FDDDDDD0C90648D78B5C047D“ title =“我创建了一个免费的开源工作/休息计时器应用 - 平衡计时器！” /&gt;    &lt;！ -  sc_off-&gt;  这是我创建的第一个桌面应用程序，我想与世界共享！  它是一个计时器，可以帮助用户管理生产力＆AMP＆amp;  人们可以使用它来抽出休息时间。 Which in turn will help: 🧘 connect with reality and stay mindful throughout the day, 💤 battle fatigue, 🧠 focus better and get more stuff done, 🌱 stand up more often → health benefits, 🙂 improve the mood.  The app is available for Mac (arm64), Windows (amd64) and Linux (amd64). 下载链接可以找到在readme 中，或在！如果您在另一个系统上并想尝试该应用程序，则可以选择拉出回购，并且在本地构建&gt;我有几个人向我报告所有构建都会启动，但仅此而已。它不像任何人（但是我）使用过很长时间。因此，如果您确实尝试了，请让我知道您的经历，尤其是如果您遇到错误或有关改进的建议。 哦，而且，由于该应用程序是免费的和开源的，因此不是代码签名，因此，它是符合代码的，因此请期望在首次启动时进行所有类型的Defender警告。有一个 readme  的部分更详细地讨论了这一点。欢呼！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jon_abides       [注释]]]></description>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/6dhwcm1xp3hnrnvbqlv7go3liw-a6nhgbfxusydmmxm.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 63DCA03BE22481447F70F70FDDDDDD0C90648D78B5C047D“ title =“我创建了一个免费的开源工作/休息计时器应用 - 平衡计时器！” /&gt;    &lt;！ -  sc_off-&gt;  这是我创建的第一个桌面应用程序，我想与世界共享！  它是一个计时器，可以帮助用户管理生产力＆AMP＆amp;  人们可以使用它来抽出休息时间。 Which in turn will help: 🧘 connect with reality and stay mindful throughout the day, 💤 battle fatigue, 🧠 focus better and get more stuff done, 🌱 stand up more often → health benefits, 🙂 improve the mood.  The app is available for Mac (arm64), Windows (amd64) and Linux (amd64). 下载链接可以找到在readme 中，或在！如果您在另一个系统上并想尝试该应用程序，则可以选择拉出回购，并且在本地构建&gt;我有几个人向我报告所有构建都会启动，但仅此而已。它不像任何人（但是我）使用过很长时间。因此，如果您确实尝试了，请让我知道您的经历，尤其是如果您遇到错误或有关改进的建议。 哦，而且，由于该应用程序是免费的和开源的，因此不是代码签名，因此，它是符合代码的，因此请期望在首次启动时进行所有类型的Defender警告。有一个 readme  的部分 更详细地讨论了这一点。欢呼！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jon_abides       [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jwrn6g/i_created_a_free_opensource_workrest_timer_app/</guid>
       <pubDate>Fri, 11 Apr 2025 14:46:26 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我正在寻找一个工具（甚至连存在），我可以在其中以非常简单的方式计划任务，从而将假期和办公时间考虑在内。 基本上，我有一个我的任务，我有一个像100小时一样定义的任务。然后我有一个人，B，C。可以这样做吗？ 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dr_gruselglatz     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jwjyca/1jwjyca/searching_for_a_a_tool_to_to_to_plan_plan_project_project_but_dont/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jwjyca/searching_for_a_tool_to_plan_a_project_but_dont/</guid>
       <pubDate>Fri, 11 Apr 2025 07:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>CHATDJ：通过频道赎回的音乐抽搐机器人的开源抽搐机器人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jwdhd9/chatdj_an_open_source_twitch_bot_for_music_via/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  嘿！ 我最近发布了我的第一个主要项目，我想分享它。它叫chatdj！它可以通过频道点兑换来跟踪Spotify歌曲的请求，类似于 this 和如果您有多个并且希望聊天选择音乐，它还可以选择交换播放列表。我还在研究聊天可以在播放列表中添加歌曲的功能，如果您喜欢那种东西。 程序本身是用GO编写的，并且“服务器”和“服务器”。它的侧面是用JavaScript构建的，前端是用Vue编写的。这是非常基本的，但是完成了工作。 我完全接受骨炎，想法或任何您得到的东西。谢谢您的时间：D   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vpamm      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jwdhd9/chatdj_an_open_open_source_twitch_twitch_bot_for_music_via/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jwdhd9/chatdj_an_open_source_twitch_bot_for_music_via/</guid>
-      <pubDate>Fri, 11 Apr 2025 00:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paelladoc：100％带有MDC格式的开源文档框架 - 专有解决方案的替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jw9ab6/paelladoc_100_opensource_documentation_framework/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经创建了paelladoc，这是一个完全开放式文档文档框架，该框架在MIT许可下发布，可帮助开发人员在复杂的项目中维护上下文：  是什么：是什么：  - 使用依赖性依赖的依赖性依赖的依赖性的依赖性 -    -     -     - 完全在您的计算机上运行 最近的用户最近共享的是，Paelladoc帮助他们避免了昂贵的专有工具，例如Manus。他们发现您可以将存储库与任何与GIT兼容的工作流一起使用，包括通过GITMCP.IO进行增强的上下文保存。 核心创新是MDC格式，该格式以保留概念之间的关系来组织文档，以保持概念之间的关系，从而更容易导航复杂的系统。编辑或IDE-与任何版本控制系统兼容 - 与其他开源工具的集成路径  github存储库： href =“ https://github.com/jlcases/paelladoc/discussions”&gt; https://github.com/jlcases/jlcases/paelladoc/discussions    我会喜欢开放源代码社区的任何反馈！提交由＆＃32; /u/u/traderprof   href =“ https://www.reddit.com/r/opensource/comments/1jw9ab6/paelladoc_100_opensource_documentation_framework/&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jw9ab6/paelladoc_100_opensource_documentation_framework/</guid>
-      <pubDate>Thu, 10 Apr 2025 21:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为，最漂亮的2D条形码是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_your_opinion_is_the_most_pretty/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近几天，我正在阅读很多有关2D条形码的信息（例如QR码和datamatrix）。可以找到其中许多列表在这里 _CODES）。 我个人个人个人发现了最广泛的，最广泛的，最广泛的，Qr的类型，QR的代码最高，尤其是ugsive 2 and gropess 2 and and and and）。虽然某些开源替代方案（例如公共领域AZTEC代码和最大码）比常见的QR代码更漂亮，但它们与某些专有和专利的解决方案不匹配：即Spotify代码，App Clip代码，HCCB，HCCB，HCCB，HCCB，Messenger Codes，ShotCodes和shotcodes and Boo-Rs/boo-p&gt; pode nattion aft the Barcode。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_in_your_opinion_is_is_the_most_pretty/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_your_opinion_is_the_most_pretty/</guid>
-      <pubDate>Thu, 10 Apr 2025 21:01:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
