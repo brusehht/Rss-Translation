@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 13 Apr 2025 04:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 06:20:38 GMT</lastBuildDate>
+    <item>
+      <title>5行代码。修复了AI的失忆问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_amnesia_problem/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  &#39;嘿，嘿，记得我告诉你我对贝类过敏时，我对贝壳？修复了AI的健忘症问题。     记住在过去的一年中，在重新发明了四个时光之后，我们构建了记住，请记住，，一种简化的方法来提供即时的长期记忆检索＆amp＆amp;存储任何人都可以使用的单个API调用。  在接下来的几周中，我们将添加一些您可以与之互动的演示，但是我们项目中使用的一个大用例是电子邮件摄取。我们有一个公司网络，该网络捕获传入的电子邮件，以收集每次互动中的记忆，然后与您当前讨论相关的任何给定的电子邮件地址，记忆和偏好进行进一步沟通。例如，当第一次参与时，您可能会看到像这样的记忆：&#39;[[3个月前]客户更喜欢每周的视频更新，而不是项目的书面报告，或者&#39;[2个月前]团队同意了React Native以跨平台兼容性，但客户对旧Android设备的动画表现表示担忧。 [2周前]客户的QA团队的Sarah发送了测试结果，显示了我们最新的优化冲刺后的30％性能提高。 [5天前]下周四的致电计划讨论交互式仪表板组件的2阶段里程碑和预算分配。  随着召集的进行，用户说的每个单词都与所保存的记忆进行了比较，并且在后台创建了新的记忆，与对话保持上下文相关，并将延迟保持在最低限度（〜333mms，对于4个最相关的记忆）。  我们还为知识库有一个简单的用例（实际上是一个简单的API可访问的抹布），在这里每个完成的客户端项目都会出现。这创建了一个可查询的知识库，用于解决问题的真实示例的可查询知识库，该公司用来解决问题，并已经开放了以前从未看到过的项目之间的新项目，尤其是从自那以来就已经离开了公司的项目。我们完善它还很早，但是突然看到您以前从未认为重叠的事物之间的重叠和一个可以摄取任何东西的数据库（文本，图像，视频）并理解它们之间的关系确实对我们有帮助，我们也希望您也可以为您提供帮助。  请让它看看，让我们知道您还想看到什么！如果您有任何疑问，请随时加入我们的空虚和新的  记住    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_ais_amnesia_problem/”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_amnesia_problem/</guid>
+      <pubDate>Sun, 13 Apr 2025 04:46:11 GMT</pubDate>
+    </item>
     <item>
       <title>在不使用官方Twitter API的情况下，仍有任何可行的方法可以在编程中获取X用户配置文件图像？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxy7f6/are_there_any_viable_ways_still_remaining_to_get/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>可以出租网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxx347/can_rental_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻求支持以构建管理现场库存并可以处理信用卡和存款的汽车租赁网站。请DM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bananabutts69     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻求支持以构建管理现场库存并可以处理信用卡和存款的汽车租赁网站。请DM。  编辑：由于感兴趣的很大，请在您所做的类似的网站上包含链接，可以租赁功能。我们只考虑在该领域直接实现的团队，因为基于Dynmaic Calednar的预订和后端库存管理可以变得复杂并延迟ProEJCT。  谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bananabutts69     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxx347/can_rental_website/</guid>
       <pubDate>Sun, 13 Apr 2025 01:59:55 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>无头博客CMS使用Google文档作为后端</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxuh7x/headless_blog_cms_using_google_docs_as_backend/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，Aleksa在这里。  我已经使用Sveltekit构建了所有网站，并且当我想实现博客时，为了增强SEO，我发现很难用.md或.json文件编写它们。而且我在市场上看到的CMS产品似乎并不是最吸引人的。 ，因为我在Google文档中拥有所有博客文本，我想探索是否可以在网站上轻松发布CMS的文档。 ，这就是我构建的 cmsdocs &lt;管理更容易。  它的工作原理：  在Google Docs中写博客文章 在仪表板中，以简单的形式，编辑meta＆amp;技术SEO的结构化数据，并在后台发布帖子 通过Webhook，它触发了Vercel，它构建了一个新的，静态的HTML博客页面  我想知道，您今天如何管理您的博客？您是否使用任何CMS？我如何使它变得更好？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kalabunga_1     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，Aleksa在这里。  我已经使用Sveltekit构建了所有网站，并且当我想实现博客时，为了增强SEO，我发现很难用.md或.json文件编写它们。而且我在市场上看到的CMS产品似乎并不是最吸引人的。 ，因为我在Google文档中拥有所有博客文本，我想探索是否可以在网站上轻松发布CMS的文档。 ，这就是我的构建方式，这就是我的建立方式。管理更容易。  它的工作原理：  在Google Docs中写博客文章 在仪表板中，以简单的形式，编辑meta＆amp;技术SEO的结构化数据，并在后台发布帖子 通过Webhook，它触发了Vercel，它构建了一个新的，静态的HTML博客页面  我想知道，您今天如何管理您的博客？您是否使用任何CMS？我如何使它变得更好？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kalabunga_1     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxuh7x/headless_blog_cms_using_google_docs_as_backend/</guid>
       <pubDate>Sat, 12 Apr 2025 23:35:50 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我最近聘请了一家代理商从事我的WebApp项目/我的想法。对于那些有更多经验的人，当涉及开发人员为您创建所有内容时，有哪些技巧或事情要知道？  对于上下文，它是与某个利基市场有关的金融科技WebApp。我更要求安全原因。 任何信息都很棒！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jxrkm8/hiring_a_a_webdev_agency_tips/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxrkm8/hiring_a_webdev_agency_tips/</guid>
       <pubDate>Sat, 12 Apr 2025 21:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在为Sudowrite免费替换</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_on_a_free_replacement_for_sudowrite/</link>
-      <description><![CDATA[   网站称为“新颖的“我”，我打算开放源代码，它可以帮助您在AI协助的情况下写小说和故事，它使用您的Google API作为提供商，我计划将支持扩展到OpenAi，Anthropic，andthropic等，同时增加我自己的丰富文本编辑器，并在我的网站上添加更多的网站，并在此网站上改进网站，以帮助a demback a a dembock：&lt; href =“ https://novelle-w.netlify.app/”&gt; https://novellew.netlify.app/      如果您有任何反馈，投诉，建议，建议，建议，一个漏洞，请在评论中或我最好的一天，我将最好地修复      p&gt; href =“ https://preview.redd.it/y7fstg8qlugue1.png?width=1920＆amp; format = png＆amp; amp; amp; amp; amp; auto = webppumpp； https://preview.redd.it/y7fstg8qlugue1.png?width=1920＆amp; format = png＆amp; amp; amp; auto = webpp＆s = c964e9db67b9127b9127fac725fac7fac725f45f45f4c45e2e2ec2ec2ec26fc76fc76fc76fc76fc76fc766fc76fc76fc766fc      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lotfi_   href =“ https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_oon_a_a_free_replacement_for_sudowrite/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_oon_a_a_a_free_replacement_for_sudowrite/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_on_a_free_replacement_for_sudowrite/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:56:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

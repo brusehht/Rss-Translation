@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 13 Apr 2025 04:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 06:20:45 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个工具，可以通过注入假击键来争夺KeyLogger数据</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy10go/i_made_a_tool_that_scrambles_keylogger_data_by/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  构建一个名为keyloggergarbage的小窗口应用程序。它在输入时将伪造的击键倾倒到系统中，因此基本的键盘记录器很难弄清楚什么是真实的。假键实际上并没有触发任何东西。他们只是出现在日志中以抛出简单的间谍软件。 它是超轻量级和开源的。没有一个完整的安全套件或任何其他。这只是一个奇怪的小混淆层。帮助混淆： 基于挂钩的键盘（setWindowShookex，getAsynckeyState等）。不会击败高级恶意软件或屏幕录制器，但会弄乱简单的东西。您可以调整保护级别，查看实时输入和导出日志。基于挂钩的KeyLogger（setWindowShookex，getAsynckeystate等） 下载＆amp;如果需要，请尝试： keyloggergargarbage   让我知道您的想法。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/keymillion     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy10go/i_made_a_tool_that_scrambles_keylogger_data_by/</guid>
+      <pubDate>Sun, 13 Apr 2025 06:03:59 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个树可视化记录仪，因为很难跟踪AI -Pyhunt生成的代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>DCS-自动git提交摘要并将其发送到不和谐</title>
       <link>https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_commit_summaries_and_send_them/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/eiry5ma2qnfu41uemjg397pcio52vujsoqfpfpft-ntng.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 668e00f6a5147bf6d0e897922c90a7c65ca5316f“ title=&quot;DCS - Automate Git Commit Summaries and Send Them to Discord&quot; /&gt;   Hi everyone, I’d like to share DCS - Discord Commit Summarizer, an open-source tool I built to automate the process of summarizing Git commits and sharing updates与您的社区或团队不和谐。这是我用于我一个项目的不和谐社区的内部工具。  它的作用：    监视当地的git存储库。 生成ai驱动的提交的摘要（每天，每周，每月或每月使用google dick in li dife   包括有关重大失败的可靠错误处理和可选的电子邮件通知。  我由于需要而建立了它，手动制作大型项目的更新可能真的很乏味。该工具可以自动化该过程，从而更轻松地了解社区。  我很想听听您的反馈或建议！随时尝试一下，让我知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/miguel07alm      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_git_commit_summit_summit_summaries_and_send_send_send_them/]]></description>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/eiry5ma2qnfu41uemjg397pcio52vujsoqfpft ntng.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 668e00f6a5147bf6d0e897922c90a7c65ca5316f“ title=&quot;DCS - Automate Git Commit Summaries and Send Them to Discord&quot; /&gt;   Hi everyone, I’d like to share DCS - Discord Commit Summarizer, an open-source tool I built to automate the process of summarizing Git commits and sharing updates与您的社区或团队不和谐。这是我用于我一个项目的不和谐社区的内部工具。  它的作用：    监视当地的git存储库。 生成ai驱动的提交的摘要（每天，每周，每月或每月使用google dick in li dife   包括有关重大失败的可靠错误处理和可选的电子邮件通知。  我由于需要而建立了它，手动制作大型项目的更新可能真的很乏味。该工具可以自动化该过程，从而更轻松地了解社区。  我很想听听您的反馈或建议！随时尝试一下，让我知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/miguel07alm      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_git_commit_summit_summit_summaries_and_send_send_send_them/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_commit_summaries_and_send_them/</guid>
       <pubDate>Sat, 12 Apr 2025 17:58:07 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thetathegooner      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxeneb/a_telegram_bot_that_sends_videos_from_redgifs/</guid>
       <pubDate>Sat, 12 Apr 2025 10:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在字体上重新绘制每个角色并在OFL下发布吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxdixh/can_i_redraw_every_character_in_a_font_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对没有helvetica neue的免费替代品感到非常沮丧。我听说字体版权只能适用于程序化文件，而不适用于字形的视觉形式。如果我要重新绘制每个字形像素到像素，它是否可以允许我自由使用这些字形并在开源许可下发布它？这不是sans对Arial所做的事情，几乎没有更改？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jxdixh/can_idraw_every_every_character_character_character_in_a_font_and/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxdixh/can_i_redraw_every_character_in_a_font_and/</guid>
-      <pubDate>Sat, 12 Apr 2025 09:33:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
